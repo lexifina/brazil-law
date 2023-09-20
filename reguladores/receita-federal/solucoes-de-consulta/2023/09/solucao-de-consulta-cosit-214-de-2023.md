@@ -1,0 +1,27 @@
+Solução de Consulta Cosit nº 214, de 18 de setembro de 2023
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+LUCRO PRESUMIDO. PRESTAÇÃO DE SERVIÇO DE ENGENHARIA CIVIL.
+Nos termos da legislação tributária, aplica-se o percentual de 32% (trinta e dois por cento) para fins de apuração do Lucro Presumido, base de cálculo do IRPJ, sobre a receita bruta gerada da prestação de serviço de engenharia civil em geral, ainda que mediante contrato de prestação de serviço precedido de licitação pública.
+PRESTAÇÃO DE SERVIÇO DE ENGENHARIA CIVIL A ENTIDADE PÚBLICA DO TIPO AUTARQUIA. EMPREITADA TOTAL.
+Somente em relação às receitas decorrentes da contratação por empreitada de construção civil na modalidade total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à consecução da atividade contratada, sendo tais materiais incorporados à obra, poderá ser utilizado o percentual de 8% (oito por cento) sobre a receita bruta auferida na determinação da base de cálculo do IRPJ aplicável às pessoas jurídicas optantes pelo lucro presumido. Aplica-se, inclusive, esse percentual, na hipótese de a atividade ser realizada para entidade pública do tipo autarquia, mediante contratação precedida de licitação pública.
+Aplica-se o percentual de 32% (trinta e dois por cento) quando a empreitada for parcial, com fornecimento de parte do material, ou exclusivamente de mão-de-obra.
+PRESTAÇÃO DE SERVIÇO DE ENGENHARIA CIVIL POR CONCESSÃO DE SERVIÇO PÚBLICO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO.
+Na hipótese de o serviço de engenharia civil, mesmo na modalidade de empreitada total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à consecução da atividade contratada, sendo tais materiais incorporados à obra, ser prestado no âmbito de concessão de serviço público, o percentual será de 32% (trinta e dois por cento).
+A concessão de serviço público, para efeito do disposto na alínea "e" do inc. III do § 1º do art. 15 da Lei nº 9.249, de 1995, está relacionada ao serviço do ente federativo, União, Estado, Município e Distrito Federal, cedido à pessoa jurídica de direito privado, nos termos da Lei nº 8.987, de 1995.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA Nº 8 - COSIT, DE 7 DE JANEIRO DE 2014, À SOLUÇÃO DE CONSULTA Nº 76 - COSIT, DE 24 DE MAIO DE 2016, E À SOLUÇÃO DE CONSULTA COSIT Nº 52, DE 15 DE DEZEMBRO DE 2022.
+Dispositivos legais: Constituição da República Federativa do Brasil de 1988, art. 175; Lei nº 8.987, de 1995, arts. 1º, art. 2º, II; Lei nº 9.249, de 1995, art. 15, caput, § 1º, III, "a" e "e"; IN RFB nº 1.700, de 2017, arts. 32, 33, caput, § 1º, II, alínea "d", IV, alínea "e", e 215, caput; Decreto nº 9.580, de 2018, arts. 220, caput, § 1º, III, "a" e "e", 591, caput, e 592, III, "a" e "d".
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+LUCRO PRESUMIDO. PRESTAÇÃO DE SERVIÇO DE ENGENHARIA CIVIL.
+Nos termos da legislação tributária, aplica-se o percentual de 32% (trinta e dois por cento), para fins de apuração do Resultado Presumido, base de cálculo da CSLL, sobre a receita bruta gerada da prestação de serviço de engenharia civil em geral, ainda que mediante contrato de prestação de serviço precedido de licitação pública.
+PRESTAÇÃO DE SERVIÇO DE ENGENHARIA CIVIL A ENTIDADE PÚBLICA DO TIPO AUTARQUIA. EMPREITADA TOTAL.
+Somente em relação às receitas decorrentes da contratação por empreitada de construção civil na modalidade total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à consecução da atividade contratada, sendo tais materiais incorporados à obra, poderá ser utilizado o percentual de 12% (doze por cento) sobre a receita bruta auferida na determinação da base de cálculo da CSLL aplicável às pessoas jurídicas optantes pelo lucro presumido. Aplica-se, inclusive, esse percentual, na hipótese de a atividade ser realizada para entidade pública do tipo autarquia, mediante contratação precedida de licitação pública.
+Aplica-se o percentual de 32% (trinta e dois por cento) quando a empreitada for parcial, com fornecimento de parte do material, ou exclusivamente de mão-de-obra.
+PRESTAÇÃO DE SERVIÇO DE ENGENHARIA CIVIL POR CONCESSÃO DE SERVIÇO PÚBLICA. CONCESSIONÁRIO DE SERVIÇO PÚBLICO.
+Na hipótese de o serviço de engenharia civil, mesmo na modalidade de empreitada total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à consecução da atividade contratada, sendo tais materiais incorporados à obra, ser prestado no âmbito de concessão de serviço público, o percentual será de 32% (trinta e dois por cento).
+A concessão de serviço público, para efeito do disposto na alínea "e" do inc. III do § 1º do art. 15 da Lei nº 9.249, de 1995, está relacionada ao serviço do ente federativo, União, Estado, Município e Distrito Federal, cedido à pessoa jurídica de direito privado, nos termos da Lei nº 8.987, de 1995.
+SOLUÇÃO DE CONSULTA PARCIALMENTE VINCULADA À SOLUÇÃO DE CONSULTA Nº 8 - COSIT, DE 7 DE JANEIRO DE 2014, À SOLUÇÃO DE CONSULTA Nº 76 - COSIT, DE 24 DE MAIO DE 2016, E À SOLUÇÃO DE CONSULTA COSIT Nº 52, DE 15 DE DEZEMBRO DE 2022.
+Dispositivos legais: Constituição da República Federativa do Brasil de 1988, art. 175; Lei nº 8.987, de 1995, arts. 1º, art. 2º, II; Lei nº 9.249, de 1995, art. 15, caput, § 1º, III, "a" e "e", 20, I e III; IN RFB nº 1.700, de 2017, arts. 32 e 34, caput, § 1º, I e V, e 215, caput e § 1º.
+SC Cosit nº 214-2023.pdf
+[arquivo anexo: SC Cosit nº 214-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
