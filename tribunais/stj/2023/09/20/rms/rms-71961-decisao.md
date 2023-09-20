@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 344-345):
+MANDADO DE SEGURANÇA. INSTAURAÇÃO DE INQUÉRITO CIVIL PARA APURAÇÃO DE SUPOSTO ATO DE IMPROBIDADE ADMINISTRATIVA. DENÚNCIA ANÔNIMA. POSSIBILIDADE. AMPARO LEGAL. PRECEDENTES. ESTREITO RITO DO MANDAMUS QUE NÃO ADMITE DILAÇÃO PROBATÓRIA. INOCORRÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. DENEGAÇÃO DA ORDEM.
+"O STJ reconhece a possibilidade de investigar a veracidade de denúncia anônima em Inquérito Civil ou Processo Administrativo, conforme se observa nos seguintes precedentes, entre os quais se destacam a orientação já firmada por esta Segunda Turma e uma recente decisão da Primeira Turma: RMS 37.166/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 15.4.2013; RMS 30.510/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, DJe10.2.2010; MS 13.348/DF, Rel. Ministra Laurita Vaz, Terceira Seção, DJe 16.9.2009." (STJ. RMS 38.010/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/05/2013, DJe 16/05/2013)
+Embargos de declaração rejeitados.
+O recorrente aduz que a controvérsia não se refere à legitimidade da promotoria para a instauração de inquérito, tampouco sobre a denúncia ter sido realizada de forma anônima como causa a deslegitimar a atuação do MP, mas a respeito da ausência de elementos a justificar a instauração do inquérito, o que vem ocasionando danos à imagem do ora recorrente.
+Com contrarrazões.
+Parecer do Ministério Público Federal, às fls. 444-452, manifestando-se pelo não provimento do recurso.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que a insurgência recursal não comporta conhecimento.
+Cuida-se, na origem, de mandado de segurança impetrado por Nivaldo Teixeira da Silva Neto contra ato do Promotor de Justiça da Comarca de Ibaiti, Adilto Luiz Dall"oglio, o qual determinou a instauração de inquérito civil para apurar supostos atos de improbidade administrativa praticados pelo ora impetrante.
+Extrai-se dos autos que a denúncia anônima motivou a instauração de Notícia de Fato, na qual foram notificados o impetrante e o Município para prestarem esclarecimentos. Ocorre que o promotor entendeu por bem continuar a investigação através do inquérito civil, por não satisfeito com os esclarecimentos prestados.
+O TJPR, por unanimidade, denegou a segurança aos seguintes fundamentos: (a) entendimento do STJ no sentido de possibilidade de instauração de inquérito civil pelo Ministério Público com base em denúncia anônima; (b) amparo nos artigos 129, III, da CF/88 e 25, IV, a, da Lei Orgânica Nacional do Ministério Público; (c) necessidade de dilação probatória; e (d) imprescritibilidade da pretensão de ressarcimento ao erário decorrente da prática de ato ímprobo doloso, nos termos do Tema n. 897/STF.
+Confira-se (e-STJ fls. 347-350):
+ ..
+Em que pese o inconformismo do impetrante, não se vislumbra o direito líquido e certo.
+Extrai-se dos autos que a denúncia anônima motivou a instauração de Notícia de Fato, na qual foram notificados o impetrante e o Município para prestarem esclarecimentos. Não satisfeito com os esclarecimentos prestados, entendeu o promotor por continuar com a investigação através do inquérito civil. Este ato, por si só, não se revela abusivo ou arbitrário.
+ ..
+Em primeiro lugar, de acordo com a jurisprudência do Superior Tribunal de Justiça, é possível que o Ministério Público instaure inquérito civil com base em denúncia anônima. Vejamos:
+ ..
+Dessa forma, não se verifica qualquer ilegalidade da administração por pretender investigar os fatos. Seria um contrassenso esperar que a administração se mantivesse inerte diante de uma denúncia que relata possíveis atos de improbidade administrativa.
+Pelo contrário, a instauração do inquérito, além de permitir uma melhor elucidação dos fatos trazidos à tona, possui amparo tanto no art. 129, inciso III, da Constituição Federal, como no art. 25, inciso IV, alínea "a", da Lei Orgânica Nacional do Ministério Público.
+Outrossim, conforme muito bem pontuou a D, Procuradoria-Geral de Justiça: "as alegações do impetrante de que prestou os devidos esclarecimentos ao Ministério Público, de ausência de dolo de enriquecer ilicitamente, bem como de prestação dos serviços - além de serem matérias que dependem de dilação probatória e, por tal razão, não podem ser averiguadas na estreita via do mandamus -, também não levam ao trancamento de plano do inquérito civil, tendo em vista que se trata de procedimento investigatório que pode ou não ensejar a instauração de ação civil pública. Noutras palavras, trata-se de procedimento meramente administrativo, que visa apurar e elucidar fatos, não significando qualquer condenação.".
+Por fim, a alegação de eventual prescrição da pretensão de imposição de sanções previstas na Lei de Improbidade Administrativa não tem o condão de induzir ao trancamento do respectivo inquérito civil, uma vez que a ação de ressarcimento em decorrência da prática de ato ímprobo doloso é imprescritível, conforme definido no julgamento do Tema de Repercussão Geral n.º 897 pelo STF.
+Assim, inexistindo qualquer ilegalidade, abusividade, desvio de poder ou ausência de atribuições legais, não há razões para o trancamento do inquérito civil.
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir tais fundamentos, ou seja, não impugnou especificamente as razões de decidir que, por si só, respaldam o resultado do julgamento proferido pela Corte de origem, o que conduz ao não conhecimento da insurgência recursal face a incidência da Súmula 283/STF.
+A propósito:
+A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido (AgRg no RMS 30.555/MG, Sexta Turma, relator Ministro Og Fernandes, DJe 1º/8/2012).
+Nesse mesmo sentido: RMS 64.840/ES, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 14/5/2021; AgInt no RMS 55.110/MG, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 1/3/2018.
+Confira-se, ainda, as seguintes decisões monocráticas: RMS 65.599/BA, relatora Ministra Regina Helena Costa, DJe 10/11/2021; RMS 67.384/SP, relator Ministro Benedito Gonçalves, DJe 21/10/2021; RMS 43.706/CE, relator Ministro Gurgel de Faria, DJe 30/11/2020; RMS 57.970/CE, relator Ministro Sérgio Kukina, DJe 28/4/2020.
+Ante o exposto, não conheço do recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DA SUMULA 283/STF. RECURSO NÃO CONHECIDO.
