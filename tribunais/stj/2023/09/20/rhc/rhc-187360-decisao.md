@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por DIONATAM MICAEL LEMES MUNHOZ, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, ambos da Lei 11.343/06.
+Nesta Corte, a defesa sustenta a ilegalidade da prisão cautelar porque não foi observado o prazo de 24 horas para a realização da audiência de custódia. Afirma, ainda, que não há motivação válida para o encarceramento cautelar.
+Requer o relaxamento da prisão ou a sua revogação com a aplicação de medidas cautelares diversas ao cárcere.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+No que se refere a audiência de custódia, consta no acórdão impugnado:
+A prisão preventiva do paciente foi decretada em 30.06.2023 (evento 24, DESPADEC1), tendo o respectivo mandado de prisão sido cumprido em 07.07.2023(evento 1, OFIC1).
+Conforme consta do Ofício nº 10041947891, expedido nos autos do processo nº51361218220238210001 na data de 11.07.2023 (evento 4, OFIC1), a audiência decustódia foi designada para a data de 12.07.2023.
+Na referida data, foi realizada a audiência de custódia, a qual contou com a presença da Promotora de Justiça e da Defensora Pública (evento 9, TERMOAUD1).
+No ponto, destaco que o argumento relativo à suposta ilegalidade da prisão preventiva decorrente do atraso na realização da audiência de custódia já foi devidamenteapreciado e rejeitado pelo juízo de primeiro grau, o qual também explicou o motivo de tal atraso, nos seguintes termos, abaixo em azul (evento 57, DESPADEC1):
+Ocorre, porém, que a demora para a realização da audiência de custódia se deu em razão da não distribuição do comunicado de cumprimento do mandado de prisão por parte da autoridade policial.  destaquei
+Como se verifica, a audiência de custódia foi realizada cinco dias após o recolhimento do réu, em razão da demora da autoridade policial em comunicar o cumprimetno da ordem de prisão. Todavia, efetivada a formalidade legal, embora com atraso, não se verificou qualquer ilegalidade na homologação do flagrante e na decretação da prisão cautelar, tendo sido observados os direitos consttitucionais do réu, o afasta o pedido de relaxamento da prisão.
+Ademais, esta Corte de Justiça tem se posicionado no sentido de que, "tendo sido o auto de prisão em flagrante submetido ao juiz para homologação, e convertido em prisão preventiva, fica superada a falta da audiência de custódia, que tem como finalidade apresentar a pessoa presa em flagrante ao juiz para que este decida sobre a necessidade ou não da prisão processual" (RHC n. 63.199/MG, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 3/12/2015) (AgRg no HC n. 792.641/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+Por sua vez, a prisão cautelar foi decretada nos seguintes termos:
+No caso em tela, a materialidade e a existência de indícios de autoria podem ser extraídos pelos relatórios de investigação, pelos vídeos e fotos extraídosdo celular apreendido em posse de EDUARDO PAREDI LISBOA.
+Foram juntados aos autos diversas ocorrências que envolvem ossuspeitos, dentre elas tráfico de drogas, associação para o tráfico, roubo, posse de arma e tortura (ns. 942, 943, 944, 945, 275, 713, 714, 693, 695, 716, 717, 805, 807,830, 832, 833 e 834/2022/153334).
+Ressalto que os representados KELVEN LUCHO, GABRIELKRISTANOF e EDUARDO LISBOA PAREDI são mencionados nas ocorrênciasn. 942, 943, 944, 945/2022/153334 em que são reportadas as atividades depoliciamento ostensivo no sentir de tentar conter a traficância.
+Também o representado Kelven é novamente mencionado no registro n.833/2022/153334, sendo apontado como fornecedor de entorpecentes no esquemacriminoso.
+Além disso, de acordo com as investigações até então empreendidaspela Polícia Judiciária, em uma ocorrência envolvendo os suspeitos foi apreendido o celular de Eduardo Paredi Lisboa e, após a extração e compartilhamento dos dados do aparelho, pode-se ter acesso a fotos e vídeos de suposta venda de drogas, manuseio de armas por partes dos investigados e até mesmo um vídeo em que dois suspeitos (Gabriel e Suian) estariam torturando um usuário de drogas pelo não pagamento dos entorpecentes.
+Pode-se ter acesso, também, ao vídeo em que DIONATAN MICAEL aparece embalando tijolos de maconha e em outro manuseando armas de fogo.
+Como apontado pelo Autoridade Policial, os suspeitos possuemhistórico de reiteração específica em crimes de tráfico de drogas, com envolvimentoe participação ativa em segmento da facção "Os Manos".
+Tal fato demonstra o perigo que a colocação dos agentes em liberdade representa para a segurança da própria sociedade. Tais fatos denotam a intensa periculosidade dos acusados, depreendendo-se serem pessoas desprovidas de freios inibitórios, evidenciando-se, assim, a necessidade da segregação cautelar a fim de garantir a ordem pública.
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente motivada na garantia a ordem pública, pois o réu integra associação criminosa de alta periculosidade e conhecida na região por denominação própria, que se dedica a prática de crimes graves como o tráfico de drogas, roubos, posse de armas de fogo e inúmeros outros delitos. O decreto preventivo destacou que, após intensa análise do serviço de inteligência, foi possivel constatar em vídeo o paciente "embalando tijolos de maconha e em outro manuseando armas de fogo." Logo, se mostra clara a nocividade do réu ao meio social, o que justifica a sua restrição de liberdade.
+A seguir os julgados que respaldam esse entendimento:
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. DESPROPORCIONALIDADE DA CAUTELA MÁXIMA. CONDIÇÕES FAVORÁVEIS. RELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a periculosidade do agente está demonstrada, pois o paciente foi flagrado em posse de 16g (dezesseis gramas) de maconha, 4g (quatro gramas) de cocaína e uma arma de calibre .22 municiada.
+Dessarte, evidenciada a sua periculosidade e a necessidade da aplicação de cautelas de natureza pessoal.
+3. Não obstante, o agente possui condições pessoais favoráveis e foi flagrado com quantidade não exacerbada de drogas e uma arma de pequeno calibre - uma Beretta calibre .22 -, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+4. Ordem concedida para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juízo local."
+(HC 578.667/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 26/06/2020);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO, COM NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, a custódia cautelar encontra-se suficientemente fundamentada na necessidade de garantia da ordem pública, diante da quantidade de droga apreendida - 143 gramas de cocaína -, além de um revolver calibre 38, com numeração suprimida e municiado, mais munições e dinheiro. Tais circunstâncias justificam o encarceramento cautelar, consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura.
+4. O fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+5. Agravo regimental desprovido."
+(AgRg no HC 548.185/SP, de minha relatoria , QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
