@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por MATHEUS DA SILVA ALVES e EDUARDO VINICIUS VARGAS RAMOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (HC n. 0034920-76.2023.8.16.0000).
+Extrai-se dos autos que os recorrentes foram presos em flagrante em 24/3/2023, após o cumprimento de mandado de busca e apreensão expedido nos Autos n. 0001743-19.2023.8.16.0034, sendo o flagrante convertido em prisão preventiva na audiência de custódia, tendo em vista a suposta prática dos ilícitos previstos nos artigos 33 e 35, ambos da Lei n. 11.343/2006 e 16, § 1º, inciso IV, da Lei n. 10.826/2003.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que foi assim ementado (e-STJ fl. 493):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ARGUIÇÃO DE NULIDADE DO PROCESSO COM PEDIDO DE TRANCAMENTO DA AÇÃO PENAL. ALEGAÇÃO DE QUE O INQUÉRITO POLICIAL QUE EMBASA A EXORDIAL ACUSATÓRIA É FUNDADO APENAS EM DENÚNCIA ANÔNIMA. INOCORRÊNCIA. RELATÓRIO DE INVESTIGAÇÃO ANEXO AO BOLETIM DE OCORRÊNCIA QUE DEMONSTRA QUE A AUTORIDADE POLICIAL EFETUOU DIVERSAS DILIGÊNCIAS A FIM DE APURAR O CONTEÚDO DAS DENÚNCIAS ANÔNIMAS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM CONHECIDA E DENEGADA.
+Daí o recurso ordinário, no qual a defesa alega que "a instauração do Inquérito Policial n. 0001650-56.2023.8.16.0034 se baseou tão somente no oferecimento de denúncia anônima (notitia criminis indeterminada), sem a realização de qualquer investigação preliminar a consubstanciar eventual veracidade do conteúdo descrito ou da autoria da comunicação efetuada". Ponderam que tal proceder vai de encontro à jurisprudência pacífica dos Tribunais Superiores sobre o tema e fere o quanto disposto no artigo 5º, inciso IV, da Constituição Federal.
+Neste passo, requerem, liminarmente e no mérito, seja declarada a nulidade da ação penal objeto destes autos, com o seu consequente trancamento.
+Indeferido o pedido de liminar (e-STJ fls. 538/539) e prestadas as informações solicitadas (e-STJ fls. 547/559); o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 561/568).
+É o relatório.
+Decido.
+Pois bem. Informações prestadas pelo Magistrado de primeiro grau (e-STJ fls. 547/549) noticiam a superveniência, em 21 /7/2023, de sentença condenatória em desfavor dos recorrentes na ação penal de que cuidam estes autos.
+Sendo assim, é caso de incidência da Súmula n. 648 desta Corte, segundo a qual, "a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXTORSÃO QUALIFICADA. ALEGAÇÃO DE NULIDADE NA INSTAURAÇÃO DO INQUÉRITO POLICIAL. DENÚNCIA ANÔNIMA. MATÉRIA NÃO DEBATIDA NA INSTÂNCIA LOCAL. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 182/STJ. MÁCULA NÃO CARACTERIZADA. REALIZAÇÃO DE DILIGÊNCIAS PRELIMINARES PELA CORREGEDORIA DA POLÍCIA CIVIL. TRANCAMENTO DA AÇÃO PENAL. PLEITO PREJUDICADO. SÚMULA 648/STJ. PRECEDENTES.
+1. É ônus da parte agravante impugnar todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182 do STJ. No caso, o fundamento da existência de supressão de instância não foi especificamente atacado no agravo regimental.
+2. A jurisprudência desta Corte Superior de Justiça adverte que, embora a denúncia anônima não seja idônea, por si só, a dar ensejo à instauração de inquérito policial, caso seja corroborada por outros elementos de prova, legitima tanto o início do procedimento investigatório quanto as diligências investigativas prévias para apurar a veracidade das informações recebidas, hipótese dos autos.
+3. Fica prejudicado o pedido de trancamento da ação penal com a superveniência de sentença condenatória, tendo em vista o disposto na Súmula 648/ STJ.
+4. Agravo regimental improvido. (AgRg no HC n. 741.401/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022, grifei.)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
