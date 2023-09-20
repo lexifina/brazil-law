@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por JUAREZ SOARES BOTELHO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - REINTEGRAÇÃO DE POSSE - INSURGÊNCIA CONTRA DECISÃO QUE DETERMINOU A REMESSA DOS AUTOS À 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS, EIS QUE UMA DAS AUTORAS SE ENCONTRA EM RECUPERAÇÃO JUDICIAL - COMPETE AO JUÍZO DA RECUPERAÇÃO DECIDIR SOBRE O DESTINO DO PATRIMÔNIO DA RECUPERANDA, QUE NÃO PODE SER AFETADO POR DECISÕES PROFERIDAS POR JUÍZO DIVERSO - ENTENDIMENTO PACIFICADO NO E. SUPERIOR TRIBUNAL DE JUSTIÇA DECISÃO MANTIDA RECURSO DESPROVIDO (fl. 40).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 6º, § 1º, da Lei n. 11.101/2005, no que concerne ao afastamento da competência do Juízo Concursal quando se tratar de demanda possessória com quantia ilíquida, permanecendo competente o Juízo da situação da coisa, trazendo a seguinte argumentação:
+Assim é que o Tribunal a quo violou o art. 6º, §1º, da Lei nº 11.101/2005 ao decidir que a iliquidez da pretensão deduzida na demanda originária não afastaria a competência do Juízo Concursal.
+ ..
+Todavia o art. 6º, §1º, da Lei nº 11.101/2005, vigente tanto ao tempo dos fatos quanto ao tempo do julgamento, dispõe expressamente no sentido contrário do v. Acórdão atacado neste ponto, ao dispor que " Terá prosseguimento no juízo no qual estiver se processando a ação que demandar quantia ilíquida", isto é, no juízo da situação da coisa, por se tratar de demanda possessória.
+Nessas condições é que Tribunal a quo, na apelação cível supramencionada, negou vigência a este dispositivo de lei federal, visto que determinou a competência ao juízo concursal, em detrimento da literalidade do dispositivo legal violado (fls. 58/59).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Com efeito, segundo a pacífica jurisprudência do E. Superior Tribunal de Justiça, compete ao Juízo Concursal as decisões que envolvam patrimônio de empresa em recuperação judicial ou falência.
+ ..
+De fato, a iliquidez da medida possessória não tem o condão de afastar a competência do Juízo Concursal, visto que somente este pode avaliar o impacto da possessória sobre o patrimônio da empresa em recuperação judicial, como bem explicitado nos julgados mencionados (fls. 41/47, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
