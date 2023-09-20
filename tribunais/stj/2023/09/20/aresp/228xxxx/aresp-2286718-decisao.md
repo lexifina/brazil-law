@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo da deci são que inadmitiu o recurso especial interposto pelo MUNICÍPIO DE ITAÍ, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+AGRAVO DE INSTRUMENTO - Insurgência contra decisão que determinou que o Município recolhesse, antecipadamente, as custas postais para a citação do executado, sob pena de cancelamento da distribuição - Intempestividade do Agravo de Instrumento - Prerrogativa de intimação pessoal que se aplica somente aos Procuradores investidos no cargo público - Manutenção da decisão - Recurso não conhecido (fl. 19).
+Os embargos de declaração opostos foram rejeitados (fls. 27/30).
+Nas razões de seu recurso especial, a parte agravante sustenta violação do art. 25 da LEF, bem como dos arts. 183 e 927, III, do CPC. Invoca o Recurso Especial 1.268.324/PA, julgado sob a sistemática dos recursos repetitivos (Tema 508).
+Sustenta, em suma, que aquelas normas foram afrontadas visto que o tribunal de origem, ao não conhecer do agravo de instrumento interposto pela municipalidade, entendeu pela sua intempestividade, sob o fundamento de que a Fazenda Pública, quando representada por advogado particular (que nem seria o caso, pois a advogada em questão era Secretária de Negócios Jurídicos, portanto, servidora pública), não possui a prerrogativa de intimação pessoal.
+Nesse aspecto, assevera que, "ao contrário da interpretação dada pelo Tribunal a quo, nem o artigo 25 da Lei nº 6.830/80, nem o artigo 183 do CPC condicionam a prerrogativa de intimação pessoal da Fazenda Pública à pessoa do patrono que a representa - se advogado público ou particular - uma vez que tal prerrogativa é da pessoa jurídica de direito público e não de seu advogado/procurador" (fl. 35).
+Sem contrarrazões consoante certificado (fl. 38).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual se interpôs o agravo em recurso especial ora em análise.
+É o relatório.
+A irresignação não merece acolhimento.
+Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o cerne da  insurgência:
+O recurso é inadmissível, em razão de sua intempestividade.
+Com efeito, embora o representante da Municipalidade não tenha sido intimado pessoalmente sobre a decisão agravada, como determina o art. 25 da LEF, essa prerrogativa somente se justifica quando a Fazenda Pública é representada no feito por seus Procuradores Municipais, e não quando ela outorga poderes a um advogado particular, como no caso dos autos, conforme procuração acostada aos autos de origem.
+Ao contrário do que ocorre com os representantes oficiais da Fazenda, que precisam acompanhar um grande volume de execuções, tornando necessária a intimação pessoal, basta para a intimação dos advogados particulares a publicação no DJe, uma vez que lhes é possível acompanhar, sem grandes dificuldades, o andamento dos processos em que atuam, ante a menor quantidade.
+Assim, inexiste, no caso, ofensa ao art. 25 da LEF.
+Outrossim, ainda que a referida advogada, supostamente, atuasse como se procuradora fosse, fato é que, repita-se, a prerrogativa se aplica àquele(a) que efetivamente ocupa o cargo de Procurador(a) Municipal, o que não restou demonstrado nos autos. Pelo contrário, há prova de que se trata, exclusivamente, de advogada pertencente ao quadro da OAB (fls. 02).
+Dessa forma, considerando que a decisão originalmente agravada foi publicada no Dje em 06/09/2019, é flagrante a intempestividade do Agravo de Instrumento em testilha (fls. 20/21).
+Ao aclarar o julgado, a Corte de origem teceu, ainda, estas considerações:
+Com efeito, o Acórdão embargado bem fundamentou que a prerrogativa de intimação pessoal da Fazenda Pública se destinada aos Procuradores investidos no cargo público próprio, o que não é o caso da advogada que representava a ora agravante à época.
+Outrossim, ainda que a referida advogada, supostamente, atuasse como se procuradora fosse, fato é que, repita-se, a prerrogativa se aplica àquele(a) que efetivamente ocupa o cargo de Procurador(a) Municipal, o que não restou demonstrado nos autos. Pelo contrário, há prova de que se tratava, exclusivamente, de advogada pertencente ao quadro da OAB.
+Por fim, o precedente vinculante invocado pela embargante (fls. 02) tão somente reconheceu a prerrogativa de intimação pessoal do representante da Fazenda, sem, contudo, tê-la expressamente estendido para a hipótese atípica de contratação de advogado particular, como no presente caso. Os demais julgados (fls. 01), por seu turno, não são dotados de efeito vinculante (fl. 33 ).
+Verifico que o Tribunal de origem decidiu a matéria em consonância com a jurisprudência desta Corte, firmada em recurso repetitivo - Tema 508/STJ -, segundo a qual o município possui a prerrogativa de início de contagem de prazos processuais a partir da intimação pessoal de seu representante legal.
+Isso porque, a contrario sensu, se o advogado que representa o município não é procurador público, mas sim particular por ele contratado, não possui a prerrogativa de receber as intimações pessoalmente.
+Nesse sentido:
+PROCESSUAL CIVIL. INTIMAÇÃO PESSOAL DO PROCURADOR ESTADUAL. EXECUÇÃO FISCAL. NECESSIDADE.
+1. O STJ firmou posicionamento pelo rito do recurso repetitivo de que o representante da Fazenda Pública Municipal, em Execução Fiscal e respectivos Embargos, possui a prerrogativa de ser intimado pessoalmente, em virtude do disposto no art. 25 da Lei 6.830/1980, sendo tal prerrogativa também assegurada no segundo grau de jurisdição, razão pela qual não é válida, nessa situação, a intimação efetuada, exclusivamente, por meio da imprensa oficial ou carta registrada (REsp 1.268.324/PA, Relator Ministro Mauro Campbell Marques, Corte Especial, DJe 21/11/2012) .
+2. No caso dos autos, o acórdão recorrido merece reforma. Tendo em vista que se cuida de Execução Fiscal, os procuradores estaduais possuem a prerrogativa de intimação pessoal.
+3. Recurso Especial provido (REsp n. 1.759.795/MG, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2018, DJe de 4/12/2018).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONSELHO REGIONAL DE FARMÁCIA. INTIMAÇÃO PESSOAL.
+1. O Superior Tribunal de Justiça, ao julgar o REsp 1.330.473/SP, submetido à sistemática dos recursos repetitivos (Tema Repetitivo 508), firmou o entendimento de que, em execução fiscal ajuizada por Conselho de Fiscalização Profissional, seu representante judicial possui a prerrogativa de ser pessoalmente intimado, conforme disposto no art. 25 da Lei n. 6.830/1980.
+2. Agravo interno não provido (AgInt no AREsp n. 1.861.537/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022).
+Vale acrescentar, ainda, que a alteração das conclusões adotadas pela Corte de origem, de que não ficou demonstrado nos autos que a advogada do município não ostentava a qualidade de procuradora pública, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
