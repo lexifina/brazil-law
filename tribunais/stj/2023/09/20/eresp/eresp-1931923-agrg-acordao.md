@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Batista Moreira (Desembargador convocado do TRF1), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de similitude fática entre os arestos paradigmas e o acórdão objeto de embargos de divergência impede o seu processamento, nos termos do art. 266, § 4º, do RISTJ.
+2. No caso, os acórdãos indicados como divergentes no recurso não apresentam similaridade, notadamente no que diz respeito a fundamentação apresentada para que fosse indeferida a substituição da pena privativa por restritivas de direitos. Muito embora tratem os casos confrontados de crimes patrimoniais, no acórdão paradigma ficou reconhecida a inexistência de outros motivos, que não a reincidência, que pudessem justificar a impossibilidade de substituição. Na hipótese dos autos, contudo, houve a devida fundamentação, lastreada não só na reincidência, mas em todo o contexto fático.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+GABRIEL GUEDES DE ALMEIDA JUNQUEIRA interpõe agravo regimental contra a decisão de fls. 688-689, que indeferiu liminarmente os embargos de divergência, porquanto não identificada a similitude fática entre o acórdão recorrido e o paradigma apresentado.
+Em suas razões, afirma o insurgente que o dissenso interpretativo está caracterizado, visto que "tanto no acórdão recorrido quanto no acórdão paradigma, não se tem motivação idônea para negar a substituição da pena," (fl. 697).
+Assinala que o ponto central é justamente o fato de que "os argumentos apresentados no acórdão recorrido, não podem ser tido como fundamentação/motivação idônea, tornando-se uma não fundamentação/motivação, pois está calcada em premissas erradas e que remetem exclusivamente à reincidência, fazendo com que haja um claro bis in idem" (fl. 697).
+Pontua, no ponto, que "não houve apresentação de argumentos ou fatos calcados em provas nos autos, estando apenas sustentado no perigo in abstrato de nova substituição da pena, desconsiderando completamente os argumentos lançados pela julgadora de primeiro grau e a realidade dos fatos" (fl. 698).
+Requer, diante disso, "que submeta o presente recurso de agravo regimental para análise e julgamento da Turma, uma vez que existe similitude entre o acórdão recorrido e o paradigma, aguardando-se que ao final, seja dado provimento para que a pena privativa de liberdade aplicada seja substituída por restritivas de direitos" (fl.703).
+AgRg nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.931.923 - SP (2021/0105857-6)
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de similitude fática entre os arestos paradigmas e o acórdão objeto de embargos de divergência impede o seu processamento, nos termos do art. 266, § 4º, do RISTJ.
+2. No caso, os acórdãos indicados como divergentes no recurso não apresentam similaridade, notadamente no que diz respeito a fundamentação apresentada para que fosse indeferida a substituição da pena privativa por restritivas de direitos. Muito embora tratem os casos confrontados de crimes patrimoniais, no acórdão paradigma ficou reconhecida a inexistência de outros motivos, que não a reincidência, que pudessem justificar a impossibilidade de substituição. Na hipótese dos autos, contudo, houve a devida fundamentação, lastreada não só na reincidência, mas em todo o contexto fático.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 688-689, destaques no original):
+GABRIEL GUEDES DE ALMEIDA JUNQUEIRA, condenado por furto qualificado, opõe embargos de divergência contra o acórdão de fls. 623-630, proferido pela Quinta Turma desta Corte, que negou provimento ao agravo regimental, no qual pretendia a substituição da pena privativa de liberdade por restritivas de direito.
+Em suas razões, afirma a defesa, em síntese, que o referido aresto divergiu do acórdão proferido pela Sexta Turma, no AREsp n. 1.793.700/SP. Assinala que no paradigma, que também tratou de crime patrimonial, a reincidência, por si só, não serviu de óbice para a substituição da pena privativa de liberdade por restritivas de direito, situação que ocorreu com o acórdão embargado, a denotar o dissenso interpretativo.
+Diante disso, requer sejam acolhidos os presentes embargos de divergência, "a fim de se reformar o v. acórdão do Agravo Regimental em Recurso Especial para julgá-lo provido tal como requerido pelos embargantes, substituindo a pena privativa de liberdade por restritiva de direito" (fl. 675).
+Decido.
+A despeito dos argumentos externados pelo insurgente, não verifico a necessária similitude fática entre o acórdão embargado e o paradigma.
+De fato, embora ambos os casos versem sobre a prática de crimes patrimoniais e, também em ambos, os réus hajam sido considerados reincidentes não específicos, observo que no acórdão embargado foi apresentada motivação para a negativa da substituição, ao contrário do que ocorreu com o paradigma .
+Deveras, ficou consignado no paradigma, o seguinte (fl. 679, destaquei): "o Tribunal de origem deixou de substituir as penas, diante da reincidência do recorrente, sem, contudo, declinar os motivos pelos quais não se mostraria a medida socialmente recomendável, de modo que, fixada a pena-base no mínimo legal e não apontada na origem a reincidência específica, tem-se por inválida a negativa do benefício".
+Já no acórdão impugnado, a substituição foi indeferida não só em razão da reincidência, mas também pelo fato "de a medida já ter sido deferida no passado, sem surtir o efeito esperado, elementos que, unidos, demonstraram não ser socialmente adequada para o presente caso a substituição pretendida pela Defesa" (fl. 628, destaquei).
+À vista do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os embargos de divergência.
+Como salientado pelo referido decisum, os casos confrontados pela insurgente não apresentam similaridade, notadamente no que diz respeito a fundamentação apresentada para que fosse indeferida a substituição da pena privativa por restritivas de direitos.
+Deveras, como realçado pela decisão impugnada, muito embora tratem os casos confrontados de crimes patrimoniais, no acórdão paradigma ficou reconhecida a inexistência de outros motivos, que não a reincidência, que pudessem justificar a impossibilidade de substituição. Na hipótese dos autos, contudo, houve a devida fundamentação, lastreada não só na reincidência, conforme indicado pela decisão transcrita alhures.
+Repita-se, conforme pacífica orientação desta Corte, " a  ausência de similitude fático-jurídica entre os acórdãos confrontados impede o conhecimento dos embargos de divergência" (AgInt nos EAREsp n. 1.293.091/CE, Rel. Ministro Humberto Martins, Corte Especial, DJe 25/8/2023).
+À vista do exposto, nego provimento ao agravo regimental.
