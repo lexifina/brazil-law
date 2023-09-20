@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interno interposto por SALVI CASAGRANDE MEDIÇÃO E AUTOMATIZAÇÃO LTDA contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) de fls. 346/347.
+O recurso especial foi interposto, com  fundamento  no  art.  105,  inciso  III,  alíneas  a e c,  da  Constituição Federal, contra o acórdão  proferido  pelo  TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim  ementado (fls. 165/168):
+AGRAVO DE INSTRUMENTO - Execução Fiscal - Nomeação de bens - Não observância da ordem legal (art. 835 do CPC e art.11 da LEF) - Não demonstrada potencialidade de alienação - Decisão reformada - Recurso de agravo provido.
+A insurgência teve por objeto, além do dissídio jurisprudencial, a violação dos arts. 373, I e II, 805, 835 e 1.022 do CPC e 185-A do CTN. Aduziu a parte autora que, "ao rejeitar os bens oferecidos pela ora Recorrente, o v. Acórdão acabou por violar a Súmula 417 do C. STJ, uma vez que atribuiu caráter absoluto à ordem de preferência prevista no art. 11, da Lei 6.830/80" (fl. 187).
+Pretendeu, na ocasião, a substituição da penhora em razão da indicação de bens cujo valor, no seu entender, superava o valor executado, uma vez que a manutenção da medida constritiva inviabilizava a sua atividade empresarial.
+A parte adversa apresentou contrarrazões (fls. 255/271).
+O recurso não foi admitido, razão por que foi interposto agravo em recurso especial.
+Às fls. 346/347, o Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) negou provimento ao recurso especial, tão somente, por ausência de violação ao art. 1.022 do CPC, o que motivou o agravo interno ora examinado.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+Ao decidir a controvérsia, o Tribunal de origem considerou indevida a substituição da penhora, assim fundamentando:
+A nomeação de bens não atende à ordem legal do art. 835 do Código de Processo Civil e do art. 11 da Lei de Execução Fiscal, que destacam a ordem de preferência de penhora em dinheiro.
+Além disso, não ficou demonstrado que os bens oferecidos são de fácil liquidez em caso de eventual hasta pública.
+Assim, tendo a penhora por finalidade garantir a dívida, a Fazenda Pública não está obrigada a aceitar bem oferecido pelo devedor, especialmente caso não seja demonstrada sua potencialidade de alienação (fl. 167).
+Não existe a afronta ao art. 1.022 do Código de Processo Civil, visto que a Corte de origem apreciou a questão relevante ao deslinde da controvérsia, ainda que sob ótica diversa daquela pretendida pela parte ora recorrente, não havendo que se falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no presente caso.
+Vale destacar que o simples descontentamento da parte interessada com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Nesse sentido, cito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO.
+ ..
+5. Não se configura a alegada ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+6. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+7. Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+8. Agravo conhecido para conhecer do Recurso Especial, apenas quanto à ofensa ao art. 535 do CPC e, nessa parte, negar-lhe provimento. (AREsp n. 1.579.801/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020.)
+Ademais, o acórdão recorrido consignou que a recusa dos bens nomeados à penhora foi motivada pela ausência de comprovação da sua liquidez, entendimento este que encontra amparo na jurisprudência desta Corte Superior segundo a qual "a Fazenda Pública pode recusar bem oferecido à penhora, quando não observada a ordem legal de preferência, sendo ônus da parte executada comprovar a necessidade de afastá-la, inexistindo a preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre a efetividade da tutela executiva" (AgInt nos EDcl no REsp 1.852.289/SE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/3/2021, DJe 25/3/2021).
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA SOBRE FATURAMENTO DE EMPRESA DEVEDORA. ART. 866 DO CPC/2015. POSSIBILIDADE. MAQUINÁRIO DE BAIXA LIQUIDEZ. AUSÊNCIA DE OUTROS BENS PENHORÁVEIS. SÚMULA 7/STJ. RECUSA LEGÍTIMA DA FAZENDA. ARGUMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF.
+1. O Tribunal de origem ratificou decisão do juízo singular que determinou a penhora sobre o faturamento da empresa recorrente no percentual de 5% (cinco por cento), por entender que os bens por ela ofertados eram de difícil alienação e lhes faltava liquidez.
+2. Ademais, registrou que o bloqueio Bacenjud foi infrutífero e que não havia imóveis de propriedade da recorrente passíveis de penhora. Por fim, realçou que a parte não comprovou a existência de veículos, nem demonstrou que o percentual imposto sobre seu faturamento invibilizaria suas atividades (fl. 206, e-STJ).
+3. Rever os fatos narrados requer revolvimento do conjunto fático-probatório, inadmissível ante o óbice da Súmula 7/STJ.
+4. A Primeira Seção do STJ firmou o entendimento de que a não observância da ordem legal de preferência na nomeação de bens à penhora, na forma do art. 11 da Lei 6.830/1980, demanda a comprovação, pelo executado, da existência de elementos concretos que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica do art. 620 do CPC/1973 (REsp 1.337.790/PR, relator: Min. Herman Benjamin, DJe de 7.10.2013, julgado sob a sistemática do art. 543-C do CPC/1973).
+5. Além disso, a recorrente não atacou o importante argumento judicial da baixa liquidez dos bens por ela ofertados, nem o de que houve falta de provas da inexistência de veículos e imóveis penhoráveis.
+6. Ambos os argumentos são aptos para manter o decisum combatido, o que permite aplicar, na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na fundamentação.
+7. Dissídio jurisprudencial prejudicado.
+8. Recurso Especial não provido. (REsp n. 1.857.817/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/3/2020, DJe de 21/8/2020.)
+Ressalto, por fim, que é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimações necessárias.
+EMENTA
