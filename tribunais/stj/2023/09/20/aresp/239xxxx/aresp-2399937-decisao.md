@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por NEOENERGIA DISTRIBUICAO BRASILIA S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. PEDIDO DE ANULAÇÃO DO PROCEDIMENTO ADMINISTRATIVO. FRAUDE MEDIDOR DE ENERGIA ELÉTRICA. ILEGALIDADE DO PROCEDIMENTO ADMINISTRATIVO.
+AUSÊNCIA DE INTIMAÇÃO DA CONSUMIDORA PARA AVALIAÇÃO TÉCNICA. OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. NÃO OBSERVÂNCIA À RESOLUÇÃO NORMATIVA Nº 414/2010, DA ANEEL. DÉBITO INEXIGÍVEL.
+RECURSO CONHECIDO E NEGADO PROVIMENTO. SENTENÇA MANTIDA.
+1. Tratando de ocorrência de indício de procedimento irregular, a distribuidora deve adotar as providências necessárias para sua fiel caracterização e apuração, nos termos do disposto no artigo 129, parágrafos 2º ao 7º, da Resolução nº 414/2010, da ANEEL.
+2. De acordo com o parágrafo 7º do artigo 129 da Resolução nº 414/2010 da ANEEL, a distribuidora deve comunicar ao consumidor, por escrito, mediante comprovação, com pelo menos 10 (dez) dias de antecedência, o local, data e hora da realização da avaliação técnica, para que ele possa, caso deseje, acompanhá-la pessoalmente ou por meio de representante nomeado.
+3. O Processo Administrativo não respeitou os princípios da ampla defesa e do contraditório, já que a apelada não foi devidamente notificada acerca da data da realização da avaliação técnica. Em razão disso, o processo administrativo deve ser anulado e, consequente, inexigível a cobrança do débito.
+4. Incabível a suspensão do fornecimento da energia elétrica, visto que é ilegítimo o corte no fornecimento de serviços públicos essenciais quando a apuração do débito ocorrer de forma unilateral pela concessionária, de acordo com o entendimento do Superior Tribunal de Justiça.
+5. Recurso conhecido e não provido.
+Quanto à controvérsia recursal, a parte recorrente alega violação dos arts. 369 do CPC e 5º, LV, da CF, no que concerne à ocorrência do cerceamento de defesa diante da ausência de sua intimação para a produção de prova pericial quanto à irregularidade no relógio medidor no fornecimento de energia elétrica, trazendo a seguinte argumentação:
+Dito isto, no caso em espeque, tem-se que, não obstante a empresa recorrente tenha requerido expressamente a produção de provas, tal pedido foi indeferido pelo Juízo de primeiro grau, que antecipou o julgamento de lide.
+Com efeito, é possível constatar que a decisão recorrida afronta diretamente o disposto no art. 369 do Código de Processo Civil, que assim dispõe:
+ ..
+Ressalte-se que a ausência de intimação da recorrente para produzir as provas constitutivas de seu direito implicou o cerceamento de defesa desta concessionária, tendo em vista que inviabilizou seu exercício ao contraditório e à ampla defesa, direitos fundamentais assegurados no art. 5º da Constituição e que são corolários do devido processo legal.
+É importante salientar, outrossim, que o próprio juízo de primeiro grau fundamentou a sentença de procedência na necessidade de realização de nova perícia.
+No entanto, não intimou a empresa para requerer a produção da referida prova, tampouco o fez, de ofício. A corroborar:
+ ..
+É evidente, desta sorte, que houve cerceamento de defesa, uma vez que o juiz não oportunizou, à recorrente, o direito de produzir provas quanto à irregularidade do relógio medido, embora tenha reconhecido, expressamente, a necessidade da prova e, assim, tenha julgado o pedido desfavoravelmente à recorrente.
+ ..
+Dito isto, restou demonstrada a violação expressa a dispositivo de lei federal (art. 369 do CPC e art. 5º, da CF), tendo em vista que a decisão recorrida impossibilitou que a recorrente produzisse provas imprescindíveis para o deslinde do caso (fls. 423/425).
+É, no essencial, o relatório. Decido.
+Na espécie, no tocante ao art. 5º, LV, da CF, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
