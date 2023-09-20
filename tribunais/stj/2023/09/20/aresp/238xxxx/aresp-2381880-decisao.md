@@ -1,0 +1,19 @@
+DECISÃO
+Na origem trata-se de mandado de segurança contra ato de delegado da RFB referente a creditamento de PIS e COFINS sobre contratação de transportes. Na sentença denegou-se a segurança. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 10.000,00 (Dez mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+CONTRIBUIÇÃO AO PIS. COFINS. LEIS  NS 10.637, DE 2002, E 10.833, DE 2003. TRANSPORTE RODOVIÁRIO DE CARGAS. SUBCONTRATAÇÃO DE TRANSPORTADORES PESSOAS FÍSICAS AUTÔNOMOS E TRANSPORTADORES PESSOAS JURÍDICAS ENQUADRADOS NO SIMPLES NACIONAL. DEDUÇÃO DE CRÉDITOS. ALÍQUOTAS.
+A pessoa jurídica que exerce a atividade de transporte rodoviário de cargas não tem o direito de deduzir créditos de PIS e COFINS, no âmbito do regime não-cumulativo, pelas mesmas alíquotas incidentes na apuração das contribuições devidas, quando subcontrata transportadores pessoas físicas autônomos e transportadores pessoas jurídicas enquadrados no Simples Nacional, uma vez que nesses casos as alíquotas são reduzidas pela legislação de regência a 75% daquelas outras.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Portanto, é a lei que estipula quais as despesas que serão passíveis de gerar créditos, bem como a sua forma de apuração, podendo ainda estabelecer vedações à dedução de créditos em determinadas hipóteses, ou mesmo limitação à extensão do crédito, sem que se cogite com isso de ofensa à não-cumulatividade, conforme entendimento dominante neste Tribunal.
+(..)
+Do mesmo modo, não verifica violação à isonomia tributária, uma vez que todas as pessoas jurídicas do setor de transporte rodoviário de cargas que subcontratem transportadores pessoas físicas autônomos e transportadores pessoas jurídicas enquadrados no Simples Nacional têm o seu direito à dedução de crédito, em relação a essas operações, limitado pela aplicação da alíquota reduzida. De qualquer forma, "é inviável ao Poder Judiciário, com fundamento no princípio da isonomia, afastar restrições para a concessão de benesse fiscal, de modo a alcançar contribuinte não contemplado na legislação aplicável" (STF, RE 628.791 AgR-segundo / RS, Rel. Min. Edson Fachin, Primeira Turma, DJe-255 DIVULG 17-12-2015 PUBLIC 18-12-2015).
+(..)
+Enfim, não prospera a alegação da impetrante de que o art. 3º,§§19, II, e 20, da Lei nº 10.833, de 2003, diz respeito apenas ao revogado "Simples", que era regido pela Lei nº 9.317, de 1996, e não ao "Simples Nacional", de que trata a Lei Complementar nº 123, de 2006. Ora, o art. 3º,§§19, II, e 20, da Lei nº 10.833, de 2003, refere-se às microempresas e empresas de pequeno porte que recebem tratamento diferenciado e favorecido, o qual, atualmente, encontra-se regulado pela Lei Complementar nº 123, de 2006.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Por outro lado, verifica-se que a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
