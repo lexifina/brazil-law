@@ -1,0 +1,50 @@
+DECISÃO
+FRANKLIN MOREIRA RAMOS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2163640-48.2023.8.26.0000.
+A defesa pretende a soltura do paciente, ao argumento de que foram despendidos fundamentos genéricos para decretar a custódia cautelar.
+Afirma que, cinco dias antes da data dos fatos, o acusado havia sido submetido a um procedimento de enxertia, "com retirada de fragmentos ósseos do ílio para a tíbia, e que ele não conseguiria andar sem muletas" (fl. 7).
+Aduz ser "absolutamente inverossímil que o paciente, permanecendo em condições físicas debilitadas, tenha sido capaz de participar ativamente do crime alegado na denúncia" (fl. 7).
+Requer a revogação da custódia cautelar, ainda que mediante a fixação de providências previstas no art. 319 do CPP.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 68-69).
+Decido.
+A Juíza de primeiro grau acolheu a representação da autoridade policial para decretar a prisão preventiva do paciente, acusado de praticar roubo circunstanciado, pelos seguintes fundamentos (fls. 12-13, grifei):
+Representou a autoridade policial, para a decretação de prisão preventiva dos investigados Allyson Silva Araújo, Franklin Moreira Ramos e Gabriel Faian invocando, em apertada síntese, a necessidade de garantia da ordem pública e a regular instrução do feito, sendo ele apontado por duas vítimas como autor de roubos ocorridos em data recente.
+Opinou o douto representante do Ministério Público pelo acolhimento do pedido.
+E está suficientemente delineada a pedra de toque da prisão preventiva.
+Com efeito, sobejam indícios neste caderno processual de que conforme cumprimento de diligências policiais, estarem os investigados se dedicando a prática de roubos cometidos com emprego de arma de fogo. Ademais, sobretudo diante do reconhecimento pelas vítimas, tanto fotográfico, como pessoal.
+Evidentes os riscos causados à ordem pública e à instrução do processo, com a permanência em liberdade dos investigados, diante das nefastas consequências decorrentes da prática do crime de roubo, o qual tanto desassossego vem causando à sociedade honesta.
+A prisão preventiva é sempre provisória e instrumental, e faz parte de um sistema de providências que visam assegurar o bom andamento do processo e a execução da sentença. Para sua decretação a lei brasileira se contenta com a prova da existência do crime e a existência de indícios de autoria, em uma das hipóteses estabelecidas no art. 312 do Código de Processo Penal.
+Exige a lei, outrossim, o despacho escrito e fundamentado do juiz competente (C.P.P., art. 315).
+A prova da existência do crime entende-se como prova de existência do fato criminoso em sua materialidade. Ao contrário do que acontece com a queixa ou a denúncia, para cuja aceitação basta que o fato seja típico, seja crime em tese, podendo não ser crime na hipótese, na prisão preventiva é necessário que esteja provada a existência do fato que seja crime em tese e que seja crime também na hipótese. A esse requisito as provas dos autos atendem concretamente.
+Os indícios de autoria empregados no art. 312, como em vários outros do C.P.P., pressupõem provas, ainda que leves e fracas, de que o representado seja o autor do ilícito penal apurado. Enquanto relativamente à existência do crime, o Código exige prova (cabal), no que se refere à autoria ele se contenta com indícios, isto é, meros sinais. Se houver maiores provas, tanto melhor; mas a lei não requer.
+A prisão preventiva tem por finalidade a garantia da ordem pública, a conveniência da instrução criminal e a segurança da aplicação da pena.
+No caso dos autos cabe sustentar, que mantidos em liberdade, os investigados serão fatores de risco à instrução criminal, na medida em que o crime que está lhes sendo imputado é grave.
+A prisão também faz necessária, para evitar que os averiguados atrapalhem o andamento do processo, ameaçando as testemunhas ou destruindo provas, de forma que a prisão preventiva deve ser decretada, também, por conveniência da instrução criminal.
+Presentes, portanto, o fumus comissi delicti e o periculum libertatis, revelando-se extrema e comprovada necessidade da prisão cautelar, decreta-se a prisão preventiva de Allyson Silva Araújo, Franklin Moreira Ramos e Gabriel Faian, qualificado nestes autos, com estribo no art. 312, em concerto com o. art. 313, inciso I, do Código de Processo Penal, expedindo-se imediatamente mandado de prisão em desfavor deles.
+O Tribunal a quo, a seu turno, manteve a custódia cautelar em acórdão assim fundamentado (fl. 23, destaquei):
+In casu, o juízo de origem consignou a presença de indícios de autoria e prova da materialidade do crime, ressaltando a necessidade da segregação cautelar para garantia da ordem pública e garantir a aplicação da lei penal, estando, pois, presentes o fumus comissi delicti e o periculum libertatis.
+Ademais, a decisão atacada apresenta-se devidamente fundamentada e atende ao quanto exigido pelo artigo 93, inciso IX, da Constituição Federal.
+Efetivamente, a materialidade e indícios de autoria estão demonstrados pelas investigações, calcadas especialmente nos reconhecimentos realizados pelas vítimas.
+Não se pode olvidar da gravidade em concreto da prática imputado ao paciente roubo duplamente majorado com utilização de arma de fogo.
+Por fim, as questões de ordem médica suscitadas pelo impetrante não vieram suficientemente demonstradas, não havendo, sequer atestado médico da sua condição de saúde.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Sob essas premissas, verifico que o decreto cautelar não apresentou nenhum elemento concreto dos autos que pudesse justificar a custódia do réu. Conforme se observa, o Magistrado de primeira instância limitou-se a tecer considerações genéricas acerca da gravidade do crime pelo qual responde o paciente.
+O decisum consignou que ele e os demais denunciados estariam "se dedicando a prática de roubos cometidos com emprego de arma de fogo" (fl. 12), sem nem sequer apontar o fato concreto que ensejou a prisão preventiva dos agentes. Ademais, não indicou quais elementos apontavam para o envolvimento do paciente no crime e que evidenciassem a periculosidade do acusado ou a especial gravidade da conduta.
+Concluo, portanto, que houve restrição à liberdade do paciente sem a devida fundamentação que demonstrasse a exigência cautelar justificadora da custódia, o que impõe a concessão da ordem, sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva antecipada.
+Nesse sentido:
+ ..
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+2. A menção do magistrado, pura e simples, a conjecturas a respeito da gravidade abstrata do crime, sem a incidência de nenhum elemento concreto, não é suficiente para decretar a prisão preventiva do acusado. Se assim fosse, a prisão provisória passaria a ter caráter de prisão obrigatória.
+3  ..
+(HC n. 362.072/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017, grifei)
+ ..
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. Menções à mera gravidade em abstrato do delito, à comoção social gerada pelo fato e à necessidade se dar uma resposta à criminalidade não constituem fundamento idôneo para justificar a necessidade da prisão cautelar.
+ ..
+7. Ordem concedida.
+(HC n. 776.169/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/5/2023.)
+Ademais, embora a Corte de origem haja mencionado que se trata de "roubo duplamente majorado com utilização de arma de fogo" (fl. 23), tal acréscimo de motivação não é admitido na via do habeas corpus. A propósito, "A jurisprudência desta Corte Superior é firme em assinalar que o acréscimo de fundamentos, pelo Tribunal local, não se presta a suprir a ausente motivação do Juízo natural, sob pena de, em ação concebida para a tutela da liberdade humana, legitimar-se o vício do ato constritivo ao direito de locomoção do paciente" (HC n. 413.447/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/10/2017).
+Desse modo, embora a conduta imputada ao paciente seja de alta gravidade, não foram apontadas, no decreto da prisão preventiva, circunstâncias concretas e idôneas que a justificassem, motivo pelo qual a revogação da cautelar fixada ao réu é medida que se impõe.
+À vista do exposto, concedo a ordem, para revogar a prisão preventiva do acusado, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida alternativa, nos termos do art. 319 do CPP.
+Estendo os efeitos desta decisão aos corréus, com fundamento no art. 580 do CPP, por estarem eles na mesma situação fático-processual que o paciente.
+Publique-se e intime m-se.
+EMENTA
