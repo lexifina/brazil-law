@@ -1,0 +1,16 @@
+DECISÃO
+DHAMMERSON ALLERSSON SIQUEIRA SOUSA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0009742-05.2022.8.26.0996.
+A defesa se insurge contra o reconhecimento de falta grave (fabricação e posse de bebida alcoólica artesanal). Busca a desclassificação da conduta e o afastamento das penalidades. Alternativamente, pede a redução da perda dos dias remidos.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O apenado foi responsabilizado pela falta grave (desobediência) prevista "nos artigos 50, inciso VI c. c artigo 39, inciso V, ambos da Lei de Execução Penal, além do artigo 45, incisos VII e XVIII da Resolução SAP 144/10" (fl. 72), visto que:
+ ..  os depoimentos dos servidores evidenciam que, durante procedimento de revista às celas, foram encontrados dois galões de aproximadamente 2 litros cada, com líquido semelhante à bebida destilada artesanalmente. Essa bebida é conhecida pelos detentos como "Maria Louca" e, ao questionar os habitantes da referida cela, o sentenciado DHAMMERSON assumiu que havia produzido a bebida e que seria de sua propriedade. Dessa forma, agindo com indisciplina em relação às regras recebidas quando de sua inclusão no sistema penitenciário.
+As instâncias ordinárias reconheceram situação de inobservância (art. 50, VI, da LEP) do dever de "execução do trabalho, das tarefas e das ordens recebidas (art. 39, V, da LEP).
+Todavia, não se verifica, na conduta de fabricar e possuir bebida alcóolica, eventual desobediência aos agentes penitenciários ou à ordem recebida dos servidores.
+O reeducando violou não uma ordem, mas dever previsto no Regimento Interno Padrão da Penitenciária, pois tinha a obrigação de (art. 2 da Resolução SAP n. 144/2010).
+ ..  XX - abster-se de uso e concurso, para fabricação de bebida alcoólica ou de substância que possa determinar reações adversas às normas de conduta ou causar dependência física ou psíquica;
+A conduta, consoante a previsão no art. 45, XVIII, da Resolução SAP n. 144/2010, é prevista como falta de natureza média. Confira-se: "Consideram-se faltas disciplinares de natureza média:  ..  receber, confeccionar, portar, ter ou consumir bebida alcoólica ou concorrer para sua fabricação.
+O comportamento que resulta na prática de falta grave é aquele relacionado à posse de instrumento capaz de ofender a integridade física de outrem (art. 50, III, da LEP), que permita a comunicação com outros presos ou com o ambiente externo (art. 50, VII, da LEP), que provoque acidente de trabalho ou danos etc. É preciso que o objeto seja potencialmente perigoso para ensejar as penalidades de regressão de regime, interrupção da data-base da progressão e perda parcial dos dias remidos.
+À vista do exposto, concedo o habeas corpus para a) desclassificar a infração disciplinar para falta média, devendo a direção prisional observar as penalidades previstas para tal conduta e b) cassar a decisão do Juiz da VEC, prolatada em 25/8/2022 (Processo n. 0001291-82.2018.8.26.0041) e as penalidades aplicadas ao paciente (perda de 1/3 dos dias remidos e interrupção da falta grave para fins de progressão de regime).
+Publique-se e intimem-se.
+EMENTA
