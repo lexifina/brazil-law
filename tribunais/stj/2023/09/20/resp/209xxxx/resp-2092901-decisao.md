@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADELINO MARTORELLI com fundamento no art. 105, III, da Constituição Federal.
+Na origem, foi interposto agravo de instrumento contra decisão que, ao rejeitar impugnação ao cumprimento de sentença, deixou de arbitrar honorários em favor da parte exequente.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO negou provimento ao agravo de instrumento da parte autora, ficando consignado que os honorários advocatícios não são devidos na hipótese, à luz da Súmula n. 519 e do Tema n. 408, ambos do STJ, mantendo-se a decisão agravada que deixou de fixá-los.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença - Decisão agravada rejeitou a impugnação ao cumprimento de sentença sem arbitrar honorários sucumbenciais - Inconformismo dos exequentes - Não cabimento - Inadmissibilidade de fixação de honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença - Tese fixada no Tema 408 e no entendimento sumulado nº 519, ambos do STJ - Precedentes - Decisão recorrida mantida - Recurso não provido.
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto o presente recurso especial, em que se aponta violação do art. 85, §§ 1º e 7º, do CPC.
+Apresentadas contrarrazões.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não comporta conhecimento a presente irresignação.
+Sobre a alegada violação do art. 85, §§ 1º e 7º, do CPC, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando do acórdão recorrido análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ademais, é cediço que o requisito do prequestionamento é exigido por esta Corte Superior inclusive nas matérias de ordem pública.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. TRANSFERÊNCIA DE ATIVOS DE ILUMINAÇÃO PÚBLICA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. FALTA DE INTERESSE DE AGIR E INÉPCIA DA INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RECURSAL DO STF. NÃO CABIMENTO DO APELO NOBRE POR EVENTUAL VIOLAÇÃO DE NORMAS INFRALEGAIS. PRESENÇA DOS REQUISITOS PARA FIXAÇÃO DOS HONORÁRIOS RECURSAIS, EM RAZÃO DO NÃO CONHECIMENTO DO RECURSO ESPECIAL, NA DECISÃO MONOCRÁTICA AGRAVADA. AGRAVO INTERNO DA CONCESSIONÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+2. Não houve prequestionamento dos dispositivos legais atinentes às teses de inépcia da inicial e incongruência entre seus fundamentos e pedidos. A jurisprudência desta Corte considera que a ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+3. É importante reiterar que não pode ser admitido o prequestionamento ficto das referidas teses, pois, ao tratar da violação do art. 1.022 do Código Fux, o Recurso Especial não discorreu sobre eventual omissão do acórdão recorrido quanto a elas. Julgados: AgInt no AREsp. 1.017.912/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 16.8.2017; REsp. 1.639.314/MG, Rel. Min. NANCY ANDRIGHI, DJe 10.4.2017.
+4. O requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública. Julgados: AgInt no AREsp. 1.284.646/CE, Rel. Min. FRANCISCO FALCÃO, DJe 21.9.2018; EDcl no AgRg no AREsp. 45.867/AL, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017.
+(..)
+8. Agravo Interno da Concessionária a que se nega provimento.
+(AgInt no AREsp 1661808/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. TERMO INICIAL. JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve apreciação pelo Tribunal de origem sobre a tese de que os juros moratórios deveriam incidir desde o evento danoso e não desde a citação, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento. Outrossim, eventual omissão sequer foi suscitada pela ora recorrente por meio de embargos declaratórios, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos das Súmulas 282 e 356/STF. Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Acrescente-se que a jurisprudência do STJ é no sentido de que, inclusive em relação às matérias de ordem pública, é indispensável o prequestionamento para o conhecimento do recurso especial.
+(..)
+3. Agravo interno não provido.
+(AgInt no REsp 1800628/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Ademais, ainda que ultrapassado o óbice acima mencionado, não merece reparos o julgado ora recorrido, uma vez que encontra-se em consonância com a jurisprudência firmada no Superior Tribunal de Justiça.
+Com efeito, a Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença (Súmula 519 do STJ), sendo esse entendimento mantido por este Tribunal mesmo após o advento do CPC/2015.
+Isso porque a impugnação ao cumprimento de sentença possui natureza jurídica de mero incidente processual, e não ação de conhecimento autônoma, como eram os embargos à execução, anteriormente à reforma implementada pela Lei n. 11.232/2005.
+Assim, se mostra irreparável o julgado que, ao rejeitar a impugnação, deixou de fixar honorários de sucumbência.
+No mesmo sentido, mutatis mutandis:
+PROCESSUAL CIVIL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É indevida a fixação de nova verba honorária decorrente da rejeição à impugnação ao cumprimento de sentença, porquanto dotada de natureza jurídica de mero incidente processual, e não ação de conhecimento autônoma, como eram os embargos à execução, anteriormente à reforma implementada pela Lei n. 11.232/2005.
+III - Revela-se acertado, no presente caso, o afastamento da verba sucumbencial, porquanto não são cabíveis honorários advocatícios pelo fato da rejeição à impugnação, consoante a Súmula n. 519/STJ, ressalvando-se à parte exequente pleitear a fixação dos honorários do cumprimento de sentença, objeto de impugnação pela Fazenda Pública, a qual restou rejeitada, nos precisos termos do § 7º do art. 85 do CPC/2015.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.029.783/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. TESE RECURSAL. PREQUESTIOAMENTO. AUSÊNCIA. CUMPRIMENTO DE SENTENÇA. REJEIÇÃO À IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+ ..
+5. A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença (Súmula 519 do STJ), sendo esse entendimento mantido por este Tribunal mesmo após o advento do CPC/2015.
+6. A conformidade do acórdão regional recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice estampado na Súmula 83 do STJ.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.997.899/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA INDIVIDUAL. REJEIÇÃO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Nos termos da jurisprudência do STJ, em casos análogos - oriundos de impugnação ao cumprimento/execução de sentença individual -, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios" (Súmula 519/STJ - Tema repetitivo 408). Nesse sentido: STJ, AgInt no AREsp 1.697.937/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/10/2021; AgInt no REsp 1.928.472/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/08/2021; AgInt no REsp 1.886.103/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/05/2021; AgInt no REsp 1.864.374/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 14/09/2020; REsp 1.812.245/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2019.
+III. Agravo interno improvido.
+(AgInt no AREsp n. 2.130.021/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 28/11/2022, DJe de 1/12/2022.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
