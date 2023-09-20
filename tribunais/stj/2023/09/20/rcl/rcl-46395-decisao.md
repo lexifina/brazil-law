@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ISAC FERREIRA GUEDES SANTIAGO com pedido liminar na qual se aponta o descumprimento pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS da orientação firmada pelo STJ no julgamento do HC n. 609.221/RJ, relator o Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/9/2021, DJe 22/6/2021.
+O reclamante alega que são nulas "todas as provas produzidas nos autos contra o reclamante pela ilegalidade em devassar dados telemáticos sem prévia autorização judicial, bem como todas daí derivadas pela teoria dos frutos da árvore envenenada" (e-STJ fl. 13).
+Diante disso, requer (e-STJ fls. 26/27):
+I - que seja deferida a medida liminar para suspender toda e qualquer ordem de execução do título futuramente, na esteira de entendimento do STF nas ADC "s n. 43, 44 e 54, determinando que o TJMG e o Juízo da Comarca de Itajubá/MG se abstenha de expedir a guia de execução e consequentemente mandado de prisão;
+II - que seja apresente reclamação conhecida, processada e julgada procedente com a finalidade de declarar contrariado, com negativa de vigência, o art. 5º,X, XII e LVI, da CR, bem como violados os art. 7º,III, da Lei n. 12.965/1410, c/c art. 157, § 1º, do CPP, de modo a anular todas as provas produzidas nos autos contra o reclamante pela ilegalidade em devassar dados telemáticos sem prévia autorização judicial, bem como todas daí derivadas pela teoria dos frutos da árvore envenenada, absolvendo-o de todas as acusações;
+III - que seja apresente reclamação conhecida, processada e julgada procedente com a finalidade de declarar violados o art. 158, art. 158-C, e art. 159, caput e § 1º, todos do CPP, de modo a anular todas as provas produzidas nos autos contra o reclamante pela ilegalidade da ausência de angariamento, armazenamento e exteriorização da prova (única utilizada para a condenação)por perito oficial, absolvendo-o de todas as acusações;
+IV - que seja apresente reclamação conhecida, processada e julgada procedente com a finalidade de declarar violados o art. 155, c/c art. 186, parágrafo único, e art. 386, VII, todos do CPP, de modo a considerar totalmente ilegal o fundamento único e exclusivo condenatório com arrimo em IP e, na parte judicializada, realizar nova interpretação jurídica porque o silêncio de réu e corréu não pode ser utilizado em desfavor da defesa e a ausência de dados cadastrais da linha telefônica supostamente utilizada pelo reclamante para, em tese, realizar diálogos com LEONARDO jamais poderá ser direcionada a titularidade ao reclamante, o que deve ser considerado ausência de provas para condenação, absolvendo-o de todas as acusações;
+V - que seja apresente reclamação conhecida, processada e julgada procedente com a finalidade de declarar violados o art. 35, c/c art. 33, § 4º, ambos da Lei n. 11.343/06, de modo a absolver o reclamante do crime de associação ao tráfico porque a reunião esporádica é bem diferente da societas sceleris (há necessidade de distinguir os dolos) e, consequentemente, realizar a devida readequação da pena para condená-lo no tráfico privilegiado, fixando o regime aberto de cumprimento e convertendo em restritiva de direitos;
+VI - que sejam os pedidos analisados de modo a prover o REsp em sua ordem de confecção por ter sido elaborados de forma que melhor aproveitará ao reclamante;
+VII - que seja deferida a gratuidade de justiça ao reclamante considerando que não detém suficiência de recursos para arcar com as custas e despesas processuais sem que haja abalo na própria subsistência e de seus familiares.
+É o relatório.
+Decido.
+Nos termos do art. 105, I, f, da Constituição Federal e do art. 187 do Regimento Interno do Superior Tribunal de Justiça, cabe reclamação da parte interessada ou do Ministério Público, para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões quando esgotadas as instâncias ordinárias.
+O novo Código de Processo Civil (vigente no momento da publicação do acórdão ora impugnado), em seu art. 988, disciplinou o instituto de forma pormenorizada, nos seguintes termos:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência;
+§ 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+§ 5º É inadmissível a reclamação:
+I - proposta após o trânsito em julgado da decisão reclamada;
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+§ 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação.
+A Terceira Seção do STJ, ao interpretar o § 5º do art. 988, II, do CPC, entendia também ser admissível a reclamação quando a decisão contrariasse acórdão proferido em julgamento de recurso especial repetitivo, desde que esgotada a instância ordinária.
+Ocorre que, recentemente, a Corte Especial do Superior Tribunal de Justiça, nos autos da Reclamação n. 36.476/SP (relatora Ministra Nancy Andrighi, julgado em 5/2/2020), decidiu, por maioria, não ser cabível reclamação para discutir a observância de precedente proferido em julgamento de recurso especial repetitivo.
+Constata-se, assim, que a reclamação se trata de medida excepcional, cabível no âmbito desta Corte exclusivamente nas seguintes hipóteses: (a) preservação da competência constitucional do Superior Tribunal de Justiça; e (b) manutenção da autoridade de decisão proferida nesta Corte Superior na análise do caso concreto (envolvendo as mesmas partes da decisão reclamada).
+In casu, a presente reclamação não se enquadra em nenhuma dessas hipóteses, uma vez que o reclamante pretende fazer prevalecer julgado do Superior Tribunal de Justiça que não envolve as partes dos autos de r eclamação em análise.
+Assim, exsurge de plano que ao Superior Tribunal de Justiça não compete o exame da presente reclamação, uma vez que nela se revela apenas uma insurgência comum da defesa contra o indeferimento de pleito, em primeiro grau, em que se buscava o recebimento da queixa-crime. Ou seja, não se busca garantir a autoridade de decisão deste Tribunal emanada ou a sua competência constitucional.
+Ante o exposto, não conheço da reclamação e extingo o processo sem resolução do mérito.
+Publique-se. Intimem-se.
+EMENTA
