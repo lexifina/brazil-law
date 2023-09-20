@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão que inadmitiu recurso especial interposto contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 272-274):
+ACIDENTE DO TRABALHO - CUMPRIMENTO DE SENTENÇA - Extinção do feito nos termos do art. 924, II, CPC - Ausência de pagamento pela autarquia, ante a discussão acerca dos índices de correção monetária - Inadmissibilidade - Sentença prematura - Extinção afastada.
+Correção monetária e juros moratórias sobre débitos em atraso do INSS: Aplicação da orientação estabelecida no RE nº 870.9471SE (Tema 810 - Repercussão Geral pelo C. Supremo Tribunal Federal - Pretensão da autarquia à aplicação do TR como fator de atualização monetária.
+CORREÇÃO MONETÁRIA: IGPD-I de 05/1996 a 03/2006, INPC de 04/2006 a 06/2009, IPCA-E a partir de 30/06/2009.
+JUROS DE MORA: 1% ao mês, a partir da entrada em vigor do CC/2002, e de acordo com a remuneração da caderneta de poupança, após 30/06/2009, na forma do artigo 1º-F da Lei nº 9.494/97, com as alterações introduzidas pela Lei nº 11.960/09.
+RECURSO DO OBREIRO PARCIALMENTE PROVIDO.
+Naquela ocasião, ficou assentado, ainda, o seguinte (fls. 274):
+Por fim, ainda que o título judicial tenha determinado a aplicação de sistemática diversa, não há que se cogitar de violação à coisa julgada, posto que, diante da natureza eminentemente processual dos consectários legais, é possível a adequação dos parâmetros nessa fase do cumprimento de sentença.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação ao artigo 502 do Código de Processo Civil.
+Relata que no título executivo objeto de cumprimento de sentença foi determinada a aplicação da Lei 11.960/09, mas que tal índice de correção monetária foi substituído em razão da declaração de inconstitucionalidade da norma instituída pela Lei 11.960/09, realizado pelo STF e superveniente ao trânsito em julgado da decisão em tela.
+Assevera que a decisão do STF não desconstitui acórdão transitado em julgado, que somente pode ser atacado por rescisória, e que a decisão do TJ-SP viola o art. 502 do CPC/15 que trata da coisa julgada.
+Contrarrazões ao recurso especial às fls.306-310 defendendo que a ausência de demonstração de violação do dispositivo suscitado como ofendido, bem como que, dada a natureza processual dos consectários, os parâmetros podem ser ajustados em sede de cumprimento de sentença.
+O recurso foi inadmitido na instância ordinária ao fundamento de que as razões do recurso não são suficientes para alterar as conclusões do julgado (fls. 301-302).
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Decido.
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se às razões do recurso especial.
+Pelo que se dessume do relatório, a questão controversa dos autos reside em saber se no cumprimento de sentença deve ser observado o índice de correção monetária fixado na decisão transitada em julgado ou se o dispositivo que estabelece índice de correção monetária não faz trânsito em julgado.
+Sendo esse o panorama dos autos, tenho que assiste razão à autarquia.
+Com efeito, no Tema 905 deste STJ a tese fixada, após esclarecer os diversos índices aplicáveis nas condenações contra a Fazenda, pontuou o seguinte:
+4. Preservação da coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto.
+Assim, nos termos da Tema 905, existindo na decisão transitada a fixação do índice de correção, tal índice deve ser respeitado na fase executória.
+No mesmo sentido, ainda:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO. DECISÃO DO PRESIDENTE DO TRIBUNAL NO PROCESSAMENTO DE PRECATÓRIO. ÍNDICE DE CORREÇÃO. ALTERAÇÃO. POSSIBILIDADE. CÁLCULO DE LIQUIDAÇÃO HOMOLOGADO. NECESSIDADE DE OBSERVÂNCIA.
+1. Hipótese em que a Presidência do Tribunal de origem, ao determinar a aplicação da Portaria 862/2007, alterou os índices de correção monetária no processamento do precatório.
+2. Ao adequar os índices de correção não previstos na sentença exequenda, a Presidência do Tribunal de Justiça atuou nos estritos limites de sua competência.
+3. Conforme a jurisprudência pacífica do STJ, não é possível, posteriormente ao trânsito em julgado da sentença homologatória, alterar os índices de atualização monetária utilizados na respectiva conta, sob pena de ofensa à coisa julgada.
+4. A Portaria 862/2007 não pode ser aplicada ao período anterior a novembro de 1.991 para mudar os parâmetros dos cálculos homologados em liquidação de sentença (fls. 26-28, e-STJ). No período posterior, contudo, como não há comando judicial acerca dos índices de atualização cabíveis, não há ilegalidade na alteração durante o processamento do precatório.
+5. Agravo Regimental não provido (AgRg no RMS 37.219/MT, relator Ministro Herman Benjamin, Segunda Turma, DJe 10/9/2015).
+AGRAVO REGIMENTAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO ESPECIAL. PRECATÓRIO. ALTERAÇÃO NO VALOR. CORREÇÃO MONETÁRIA. CRITÉRIO DE CÁLCULO. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. PRECLUSÃO. NÃO AJUIZAMENTO DA AÇÃO RESCISÓRIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. O Superior Tribunal de Justiça tem entendimento consolidado de que o erro que pode ser corrigido pelo Presidente do Tribunal, ao determinar a expedição do precatório judicial, é o material, simples erro de cálculo (aritmético), não podendo ser conferida a mesma possibilidade ao erro no critério de cálculo, do qual fazem parte, por exemplo, o termo inicial da correção monetária e o percentual dos juros de mora, sob pena de ofender a coisa julgada.
+3. Considerando que o caso dos autos envolve erro no critério de cálculo da conta apresentada pelos servidores na parte referente ao termo inicial da correção monetária, não há falar em erro (material) de cálculo, motivo pelo qual não caberia a aplicação do art. 1º-E da Lei n. 9.494/1999.
+4. É firme na Corte Especial do Superior Tribunal de Justiça o entendimento da impossibilidade de se alterar critério de cálculo após o trânsito em julgado da sentença que homologa os cálculos apresentados pelo credor, sob pena de ofensa à coisa julgada.
+5. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF).
+6. Agravo regimental improvido (AgRg no REsp 1.180.482/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 27/6/2014).
+EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL. ÍNDICE DE CORREÇÃO MONETÁRIA. PRECATÓRIO COMPLEMENTAR. CRITÉRIO DE CÁLCULO. EXPURGOS INFLACIONÁRIOS. IMPOSSIBILIDADE DE INCLUSÃO EM CONTA HOMOLOGADA COM TRÂNSITO EM JULGADO.
+1. Não é cabível, após o trânsito em julgado da sentença homologatória, modificar o índice de correção monetária que já restou definido na conta, sob pena de ofensa à coisa julgada. Precedentes da Corte Especial.
+2. Embargos de divergência acolhidos (EREsp 295.829/GO, relatora Ministra Laurita Vaz, Corte Especial, DJe 4/3/2010).
+Ademais, em processo similar, ficou assentado que, conforme entendimento firmado pelo Pretório Excelso, " ..  a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495)" (RE 730.462, Rel. Min. Teori Zavascki, Tribunal Pleno, julgado em 28/5/2015, acórdão eletrônico repercussão geral - mérito DJe-177 divulg 8/9/2015 public 9/9/2015).
+Assim, sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF.
+Nesse sentido, in verbis:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO STF. RE 870.947. COISA JULGADA. PREVALÊNCIA.
+1. Cinge-se a controvérsia a definir se é possível, em fase de cumprimento de sentença, alterar os critérios de atualização dos cálculos estabelecidos na decisão transitada em julgado, a fim de adequá-los ao entendimento firmado pelo Supremo Tribunal Federal em repercussão geral.
+2. O Tribunal de origem fez prevalecer os parâmetros estabelecidos pela Suprema Corte no julgamento do RE 870.947, em detrimento do comando estabelecido no título judicial.
+3. Conforme entendimento firmado pelo Pretório Excelso, " ..  a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495)" (RE 730.462, Rel. Min. Teori Zavascki, Tribunal Pleno, julgado em 28/5/2015, acórdão eletrônico repercussão geral - mérito DJe-177 divulg 8/9/2015 public 9/9/2015).
+4. Sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF.
+5. Recurso especial a que se dá provimento.
+(REsp n. 1.861.550/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/6/2020, DJe de 4/8/2020.)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, para que, no cumprimento de sentença, seja observado índice de correção monetária fixado na decisão que tenha transitado em julgado, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO E PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. DECISÃO NO PROCESSO DE CONHECIMENTO TRANSITADA EM JULGADO QUE FIXOU OS INDICES APLICÁVEIS. ALTERAÇÃO. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
