@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+APELAÇÃO E REMESSA NECESSÁRIA. DIREITO ADMINISTRATIVO. Servidores Públicos do Município de Itapeva. Motoristas do SAMU - Serviço de Atendimento Móvel de Emergência. Pretensão voltada ao pagamento de Adicional de Insalubridade em grau máximo (40%). Possibilidade. Inteligência das Leis Municipais n. 2.278/2005 e n. 1.777/2002. Exercício das funções em condições de insalubridade comprovado por pericia técnica. TERMO INICIAL. Constatação, no caso concreto, da insalubridade em grau médio desde junho de 2019. Pagamento devido para todo o período reconhecido, respeitando-se apenas a prescrição qüinqüenal. Inaplicabilidade do entendimento firmado no PUIL n. 413,STJ. Distinguishing. Precedentes. Sentença mantida. Negado provimento ao recurso e à remessa necessária.
+O agravante, nas razões do Recurso Especial, alega dissídio jurisprudencial e ofensa aos 485, VI, e 560 do CPC/2015. Defende, em suma, a impossibilidade do pagamento do adicional de insalubridade/periculosidade em período pretérito ao laudo pericial.
+O juízo de admissibilidade negativo (fls. 569-571, e-STJ) deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 599-606, e-STJ.
+É o relatório.
+Decido.
+A irresignação não comporta conhecimento.
+A inadmissão do Apelo Nobre fundou-se em três argumentos: a) inviabilidade de analisar ofensa a dispositivo constitucional na via eleita; b) incidência da Súmula 7/STJ, ante a impossibilidade de reexame de prova; e c) incidência da Súmula 280/STJ, uma vez que a lide foi julgada à luz de interpretação de legislação local: as Leis Municipais 2.278/2005 e 1.777/2002.
+Ocorre que o agravante não impugnou, adequada e especificamente os referidos fundamentos, em especial a incidência da Súmula 280/STF, o que impede o conhecimento do AREsp, conforme art. 932, III, do CPC. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão de inadmissibilidade negou seguimento ao recurso especial à consideração de que o entendimento expendido no acórdão recorrido está em consonância com a jurisprudência do STJ sobre o assunto, o que atrai a incidência da Súmula 83/STJ.
+2. Entretanto, no agravo em recurso especial, a parte agravante não impugnou os fundamentos da decisão agravada, limitando-se a reiterar ipsis litteris as razões do recurso especial.
+3. Nos termos do art. 932, III, do CPC/2015, é inviável o provimento do agravo em recurso especial que não impugna, de forma específica, todos os fundamentos adotados pela decisão de inadmissibilidade do recurso especial.
+4. Agravo interno não provido.
+(AgInt no AREsp 2024402 / RR , Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17/06/2022.
+Descumprida a regra da dialeticidade pelo agravante, impõe-se ainda invocar a aplicação da Súmula 182/STJ, por analogia, pois o conhecimento do Agravo depende da impugnação específica de todos os fundamentos da decisão vergastada, sob pena de inadmissibilidade. Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS ARGUMENTOS DA DECISÃO DENEGATÓRIA. SÚMULA 182 DO STJ. INCIDÊNCIA. REVISÃO DA DOSIMETRIA DA PENA APLICADA. ART. 12 DA LEI 8.429/92. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Recurso Especial do recorrente não foi admitido com base nos seguintes argumentos: i) adoção da Súmula 284 do STF e ii) incidência da Súmula 83 do STJ. Contudo, a parte agravante deixou de impugnar especificamente a incidência da Súmula 83 do STJ.
+2. O Superior Tribunal de Justiça entende que nos casos em que foi aplicado o não conhecimento do Recurso Especial com base no Enunciado 83 do STJ, incumbe à parte, no Agravo em Recurso Especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos. No caso em questão, enquanto a Decisão Denegatória utilizou-se de precedente de 2020, o agravante apresentou precedente de 2017 (fl. 2.212-2.214, e-STJ), o qual nem sequer contém entendimento contrário ao acórdão recorrido. Desse modo, o seu Agravo em Recurso Especial não se presta a infirmar os fundamentos da decisão denegatória de origem.
+3. O Superior Tribunal de Justiça perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+4. Não há falar em ofensa ao art. 1.035, §5º do CPC, uma vez que o Tema 576 do STF já foi julgado desde 2019, de modo que o feito não deveria ser suspenso.
+5. Em relação ao pedido de revisão da dosimetria da pena aplicada (art. 12, da Lei 8.429/92), é pacífica "a jurisprudência desta Corte de que a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa implica reexame do conjunto fático-probatório dos autos, encontrando óbice na Súmula 7/STJ, salvo se, da leitura do julgado recorrido, exsurge a desproporcionalidade na aplicação das sanções, o que não é a hipótese dos autos. Precedentes: AgRg no REsp 1.307.843/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 10/8/2016; REsp 1.445.348/CE, Rel. Min. Sergio Kukina, Primeira Turma, DJe 11/5/2016; AgInt no REsp 1.488.093/MG, Rel. Min. Benedito Gonçalves, Primeira Turma, Dje 17/3/2017" (AgInt no REsp 1.702.930/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20.10.2020).
+6. Agravo Interno não provido. (AgInt no AREsp 1.934.515/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 29/ 3/2022).
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
