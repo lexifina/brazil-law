@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988 ) interposto contra acórdão assim ementado (fl. 527, e-STJ):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. SENTENÇA ILÍQUIDA. TERMO INICIAL. HOMOLOGAÇÃO DOS CÁLCULOS. PRESCRIÇÃO AFASTADA. OUTRAS MATÉRIAS NÃO CONHECIDAS PELO JUÍZO A QUO. IMPOSSIBILIDADE DE CONHECIMENTO EM 2O GRAU. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão central da presente apelação diz respeito ao termo inicial da prescrição para a execução individual da sentença proferida na Ação Coletiva n. 6542/2005.
+2. De acordo com a jurisprudência do STJ e deste Tribunal de Justiça, o termo inicial do prazo prescricional para execução de sentença coletiva ilíquida é a data da efetiva liquidação do título.
+3. No caso em análise, a homologação dos cálculos da sentença coletiva ocorreu em 15.10.2018, devendo ser afastada a prescrição da pretensão executória individual, porquanto formulada em 04.02.2020, vale dizer, dentro do quinquênio legal.
+4. Não há possibilidade de conhecimento de matéria não apreciada pelo Magistrado a quo, que acolheu a prescrição sem exame das demais matérias de mérito.
+5. Agravo Interno não provido.
+Observo que a matéria em análise nos presentes autos foi afetada por esta Corte Superior à sistemática dos Recursos Repetitivos com o Tema 1.033, vinculado aos Recursos Especiais 1.801.615/SP e 1.774.204/RS e assim delimitado:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp 1.774.204/RS, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, 30/10/2019)
+Nesse caso, esta Corte determina que os Recursos que tratam da mesma controvérsia devem permanecer sobrestados no Tribunal a quo para aguardar o julgamento do paradigma representativo, de modo a viabilizar o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 18.12.2018; e REsp 1.770.141/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18.10.2018.
+Em tal circunstância, deve ser prestigiado o disposto na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 543-C, § 7º, e 543-B, § 3º, do CPC e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido
+(AgRg no AREsp 153.829/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/5/2012)
+Diante do exposto, torno sem efeito a decisão das fls. 663-665, julgo prejudicado o presente Agravo Interno e determino a devolução dos autos à Corte local, com a devida baixa, para que esta, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do decisum do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso, se o acórdão recorrido coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação, na hipótese de o aresto impugnado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
+EMENTA
