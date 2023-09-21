@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 102/106) que inadmitiu o recurso especial, sob o fundamento de aplicação da Súmula n. 83 do STJ.
+Conforme a decisão agravada, "O entendimento do Colegiado, acerca do termo inicial para a impugnação ao cumprimento de sentença, amolda-se à orientação do Superior Tribunal de Justiça, no sent ido de que o prazo de 15 (quinze) dias para a apresentação da impugnação se inicia após o prazo do pagamento voluntário, ou seja, o prazo para a apresentação da impugnação somente se inicia após transcorridos os 15 (quinze) dias contados da intimação para pagar o débito, previsto no artigo 523 do Código de Processo Civil" (e-STJ fl. 103).
+Para confirmar a aplicação do referido enunciado, a monocrática do Tribunal recorrido apreciou a matéria sob a vigência do CPC/2015 e citou os seguintes acórdãos: REsp n. 1.761.068/RS (relator Ministro Ricardo Villas Bôas Cueva, relatora para acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 15/12/2020), AgInt no REsp n. 1.854.224/SC (relatora Ministra Maria Isabel Gallotti, QuartaTurma, julgado em 29/3/2021) e AgInt no REsp n. 1.927.815/RS (relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 31/5/2021).
+Neste recurso (e-STJ fls. 109/117), a parte menciona o voto vencido no julgamento do REsp n. 1.761.068/RS e adiciona acórdãos antigos do STJ, decididos na vigência do CPC/1973: EREsp n. 846.737/RJ (relator Ministro Humberto Gomes de Barros, Segunda Seção, julgado em 13/2/2008), AgRg no AREsp n. 108.055/SP (relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/8/2012), AgRg no Ag n. 1.415.880/RS (relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2012) e REsp n. 1.446.322/RJ (relator Ministro Luis Felipe Salomão, QUARTA TURMA, julgado em 14/04/2015).
+Contraminuta apresentada às fls. 121/123 (e-STJ).
+É o relatório.
+Decido.
+Segundo a decisão agravada, o especial foi inadmitido porque o acórdão recorrido está em conformidade com a jurisprudência dominante e recente do STJ sobre a interpretação de norma do CPC/2015. Por essa razão, foi aplicada a Súmula n. 83 do STJ para obstar a admissão do recurso.
+A parte agravante, ao invés de demonstrar a inaplicabilidade da referida súmula, à luz da interpretação de artigo do Código de Processo Civil vigente, recorda entendimento vencido sobre a matéria e apresenta julgados antigos - sobre a interpretação de dispositivo do CPC/1973 - o que, no seu entender, demonstraria um dissídio interpretativo atual no STJ.
+Sem a específica demonstração (por meio de acórdãos do Superior Tribunal de Justiça contemporâneos ou posteriores aos citados pela decisão que inadmitiu o especial) de que outra é a jurisprudência dominante ou de que o caso é distinto daqueles mencionados pela monocrática agravada, constata-se a deficiência de impugnação aos fundamentos utilizados pelo desembargador da Corte de origem.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração por meio de julgados atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou de que o caso em exame apresentaria distinção em relação aos precedentes invocados, o que não ocorreu na hipótese.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.046.353/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Conforme a jurisprudência desta Corte Superior, "São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte agravante, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada" (AgInt no AREsp n. 2.300.457/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2022, DJe de 24/8/2023).
+Portanto, o agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (art. 932, III, do CPC ) e da aplicação, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Ausente a fixação de honorários nestes autos, não há falar em sua majoração (art. 85, § 11, do CPC).
+Publique-se e intimem-se.
+ EMENTA
