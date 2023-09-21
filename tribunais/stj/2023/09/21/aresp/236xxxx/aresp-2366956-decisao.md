@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo de decisão que não admitiu Recurso Especial (art. 105, III, "a" e "c" da Constituição Federal) interposto contra acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO DAUNIÃO FEDERAL (FAZENDA NACIONAL). NÃO CABIMENTO. SENTENÇA. MANUTENÇÃO. APELAÇÃO NÃO PROVIDA.
+1. Insta salientar que a questão objeto de apreciação, nesta via recursal, cinge-se à condenação da UNIÃO FEDERAL (Fazenda Nacional) ao pagamento de honorários advocatícios a favor da empresa autora, ora apelante.
+2. Compulsando os autos (Id 90109338), observa-se que, a despeito da alegação da autora, na peça inicial, da não identificação de pagamentos pela ré - para fins de reconhecimento de créditos derivados de saldo negativo de IRPJ e CSLL (ref. aos anos de 2005 e 2006) utilizados para compensação -, que a autora, ora apelante, de fato, deixou de prestar informações relevantes à SRFB, antes da propositura do presente feito, para fins de análise e deferimento dos PER/DCOMPs objeto de discussão.
+3. Desse modo, verifica-se que a autora, ora apelante, ao não preencher adequadamente todas as informações necessárias, as quais constitui dever (obrigação acessória) do contribuinte para fins de propiciar a devida análise e aferição, pela Receita Federal do Brasil (RFB), do encontro de contas (créditos/débitos), e ulterior homologação do pedido de compensação (PER/DCOMP), bem como tendo sido regularmente intimada na via administrativa para tal mister, deixou de se manifestar, permanecendo inerte, conforme informações prestadas pela requerida, que a empresa autora deu causa ao indeferimento de pedidos de compensação objeto de discussão nesta via judicial.
+4. Ao deixar de atender às intimações da SRFB, para prestação de esclarecimentos de interesse da empresa autora para fins de homologação dos pedidos de compensação, mormente constatada a ocorrência de erro/ausência de informações no preenchimento do pedido junto à RFB, verifica-se que a autora, ora apelante, deu azo, portanto, à não homologação de PER/DCOMP"s na via administrativa e, por conseguinte, não lhe cabe imputar à ré a motivação para o ajuizamento da presente demanda, ainda que tenha ocorrido o reconhecimento de parte do pedido, nesta via, mediante a análise de documentos acostados à inicial.
+5 - Apelação não provida.
+Os Embargos de Declaração foram rejeitados.
+Na origem, cuida-se de Ação Anulatória de Débito Fiscal ajuizada pela empresa Schneider Electric Brasil Automação de Processos Ltda. em face da União Federal com vistas à desconstituição de lançamentos referentes à compensação de saldo negativo de IRPJ e CSLL. Conquanto julgados procedentes os pedidos de suspensão de exigibilidade de créditos enumerados, por sentença mantida em segunda instância, não houve a fixação de honorários advocatícios em benefício dos patronos da autora, ora recorrente.
+Neste contexto, o Recurso Especial veicula alegação de ofensa aos arts. 85, 86, parágrafo único, e 90, §,4º do CPC/2015.
+O juízo de admissibilidade negativo, por incidência da Súmula 7 do STJ, deu ensejou a interposição do presente Agravo.
+Contraminuta às fl. e-STJ.
+O Ministério Público Federal opinou pelo não provimento do Recurso (fls. 1.484 - 1.488, e-STJ)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.8.2023.
+Conheço do Agravo em Recurso Especial porque preenchidos os requisitos de admissibilidade, notadamente a impugnação dos fundamentos da decisão agravada. O apelo nobre, contudo, não merece conhecimento .
+O princípio da causalidade dispõe que responde por honorários de sucumbência aquele que deu causa à instauração do processo, e há jurisprudência pacífica deste Tribunal Superior a respeito da temática (AgInt no AREsp 1.959.146/PR, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 22.6.2023; e AgInt no AREsp 2.265.864/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe 25.8.2023.)
+No caso em tela, a Corte regional baseou-se nas provas dos autos para manter o entendimento da primeira instância no sentido de que a autora teria dado causa à ação, como se lê às fl. 856, e-STJ, in verbis:
+Ao deixar de atender às intimações da SRFB, para prestação de esclarecimentos de interesse da empresa autora para fins de homologação dos pedidos de compensação, mormente constatada a ocorrência de erro/ausência de informações no preenchimento do pedido junto à RFB, verifica-se que a autora, ora apelante, deu azo, portanto, à não homologação de PER/DCOMP"s na via administrativa e, por conseguinte, não lhe cabe imputar à ré a motivação para o ajuizamento da presente demanda, ainda que tenha ocorrido o reconhecimento de parte do pedido, nesta via, mediante a análise de documentos acostados à inicial (fl. 856, e-STJ).
+Ora, concluir em sentido diverso - inclusive no que diz respeito às alegações de que "a Autora, antes de ingressar com a referida ação, tentou exaustivamente solucionar a presente celeuma na esfera administrativa" (fl. 1.368, e-STJ), ou quanto à distribuição da sucumbência, ao argumento de perda de parte mínima (fl. 1.370, e-STJ), ou ainda quanto aos termos de desistência ou renúncia, notadamente quando não se extrai das decisões qualquer espécie de homologação em tais termos - demandaria reexame de provas e fatos, o que é vedado em Recurso Especial a teor da Súmula 7 do STJ, conforme bem mencionado pelo Tribunal a quo.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. EXTINÇÃO. HONORÁRIOS ADVOCATÍCIOS. AFASTAMENTO. PRINCÍPIO DA CAUSALIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DO ÓBICE SUMULAR. AGRAVO INTERNO NÃO PROVIDO.
+1. A teor de entendimento remansoso da jurisprudência desta Corte de que aquele que deu causa à instauração do processo deverá arcar com as custas de sucumbência na hipótese de perda superveniente do objeto, na forma do princípio da causalidade (AgInt no AREsp n. 2.072.384/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 21/10/2022), não há como ignorar que as peculiaridades do caso concreto interferiram para o afastamento da pretensão de MARCO.
+2. Assim, rever as conclusões quanto ao arbitramento de novos honorários advocatícios, além daqueles já fixados no processo de habilitação do crédito, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+3. Quanto ao dissídio, nos termos da iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Precedente: AgInt no AREsp 1.188.742/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 24/4/2018, DJe 30/4/2018.
+4. Agravo interno não provido.
+(AgInt no REsp 1.881.147/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 16/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DIREITO PROCESSUAL CIVIL. HONORÁRIOS SUCUMBENCIAIS. EMBARGOS DE TERCEIRO. PRINCÍPIO DA CAUSALIDADE. SÚMULA 303 DO STJ. OBJETO MAIOR DA DEMANDA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, o princípio da causalidade orienta que a sucumbência ficará a cargo daquele que deu causa à instauração da demanda ou do incidente. Precedentes.
+2. De acordo com entendimento cristalizado na Súmula 303/STJ, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+3. No caso, o Tribunal de origem, atento ao princípio da causalidade e com base nas provas produzidas nos autos, considerou que a ora agravante deu causa aos embargos de terceiros.
+4. Rever essa conclusão demandaria reexame de provas e fatos dos autos, o que é vedado nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.167.954/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 15/6/2023.)
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
