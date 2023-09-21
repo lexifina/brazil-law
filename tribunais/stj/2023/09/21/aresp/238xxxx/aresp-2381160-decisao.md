@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interno interposto contra decisão da Presidência desta Corte, fls. 567/568 (e-STJ), que não conheceu do recurso especial, porquanto incidente a Súmula 115/STJ.
+Em face das razões trazidas no agravo interno, fls. 572/576 (e-STJ), reconsidero a decisão de fls. 567/568 (e-STJ), tornando-a sem efeito, e passo a novo exame do agravo em recurso especial interposto por DUX COLÉGIO E CURSOS LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/04/2023.
+Concluso ao gabinete em: 18/09/2023.
+Ação: restituição de valores cumulada com compensação pelo dano moral, ajuizada por DUX COLÉGIO E CURSOS LTDA., em face de RENAULT DO BRASIL S/A e VALEC DISTRIBUIDORA DE VEÍCULOS LTDA.
+Sentença: julgou improcedente o pedido inicial, acolhendo o pedido do perito judicial e, considerando a complexidade e trabalho realizado, arbitrando os honorários definitivos em R$ 4.000,00, determinando a sua complementação. Por fim, condenou o agravante ao pagamento das custas e dos honorários, estes fixados em R$ 2.000,00 para cada parte agravada.
+Acórdão: negou provimento à Apelação interposta pelo agravante, nos termos da seguinte ementa:
+"Apelação. Compra e venda. Ação de rescisão contratual cumulada de restituição de valores e indenização. Alegação de vício oculto no veículo zero quilometro adquirido. Vícios constatados e reparados pela parte ré. Pretensão de devolução do valor do bem adquirido. Inadmissibilidade. Prova pericial que aponta a solução dos problemas alegados pela autora. Razões recursais insubsistentes à reforma da sentença. Recurso improvido. 1.- Não se desconhece que um veículo, principalmente quando retirado novo da concessionária, vem com todos os itens na sua originalidade, os quais são relevantes para uso e futuro repasse. No entanto, com os defeitos apresentados e devidamente reparados, não prospera o pedido de restituição do valor integral pago pelo comprador. 2.- Apenas no caso de não reparação do vício ou substituição de peças é que se poderia pleitear pela restituição de quantia paga pela aquisição do referido veículo.
+Apelação. Compra e venda. Ação de rescisão contratual cumulada com restituição de valores e indenização. Alegação de dano moral. Ausência de demonstração efetiva da ocorrência da dor moral indenizável. Recurso improvido. Não se nega a possibilidade de a pessoa jurídica sofrer dano moral. Porém, imprescindível para a caracterização do aludido dano que exista a efetiva demonstração de que o ato acarretou abalo à honra objetiva da pessoa jurídica. E não há prova nos autos de que isso tenha ocorrido." (e-STJ fl. 445)
+Embargos de Declaração: opostos, pelo agravante, foram rejeitados. (e-STJ fl. 474/482)
+Recurso especial: alega violação dos arts. 373, I, 489, § 1º, IV, VI, 1.022, II, CPC/15, 6º, VIII, §§ 1º, 3º, II, Lei 8.078/90. Além de negativa de prestação jurisdicional, sustenta que competia às recorridas comprovarem que a mercadoria não se ressentia de defeitos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da prova pericial, bem como acerca da ausência do ônus da prova que se pretende imputar às agravadas, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "o agravante não provou os fatos constitutivos do seu direito, ônus que lhe incumbia à luz do art. 373, I, do Código de Processo Civil", bem como de que "conquanto o veículo adquirido tivesse apresentado problemas, foram eles devidamente sanados, inexistindo razões para a rescisão do contrato, e muito menos para indenização por dano moral inocorrente", além de que "a parte agravada, portanto, cumpriu seu dever de reparar o bem", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, reconsidero a decisão de fls. 567/568 (e-STJ) e, em novo julgamento,, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.500,00 para cada parte agravada (e-STJ fl. 453) para R$ 5.000,00, a favor de cada parte agravada.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES CUMULADA COM COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de restituição de valores cumulada com compensação por dano moral.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Reconsidero a decisão de fls. 567/568 (e-STJ), tornando-a sem efeito, para conhecer do agravo e conhecer em parte do Recurso especial, mas, nessa extensão, para negar-lhe provimento.
