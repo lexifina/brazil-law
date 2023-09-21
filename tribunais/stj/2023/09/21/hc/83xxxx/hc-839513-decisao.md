@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de YGOR KALAN VIEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que foi proferida sentença, que julgou procedente a denúncia para condenar o paciente à pena de 5 (cinco) anos de reclusão, em regime inicialmente semiaberto, por infração ao artigo 33, caput, da Lei n. 11.343/06. Na oportunidade, foi negado ao réu recorrer em liberdade- fl. 382.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem para garantia da ordem pública em razão da não alteração do contexto fático que ensejou a segregação cautelar, em acórdão de fls. 361-370.
+Daí o presente writ, no qual sustenta a Defesa, em síntese, que o Paciente estaria sofrendo constrangimento ilegal em razão da desnecessidade da prisão preventiva em razão da ausência de fundamentação idônea para a segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis.
+Aduz que há incompatibilidade entre a manutenção da segregação cautelar diante da aplicação do regime semiaberto.
+Requer, ao final, a revogação da prisão preventiva.
+As informações foram prestadas às fls.381-385. O Ministério Público Federal, às fls. 389-395, manifestou em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. TRÁFICO DE DROGAS. GRAVIDADE CONCRETA. ORDEM PÚBLICA. PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. COMPATIBILIDADE DA PROVIDÊNCIA EXTREMA COM A ESTIPULAÇÃO DE REGIME PRISIONAL INICIALMENTE SEMIABERTO. NATUREZA AUTELAR DA CUSTÓDIA QUE NÃO SE CONFUNDE COM A SANÇÃO PENAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRITNÃO CONHECIDO. PELA DENEGACAO DA ORDEM" -fl. 389.
+É o relatório. DECIDO.
+In casu, consta da decisão que decretou a segregação cautelar do paciente a apreensão de 517g de cocaína- fl. 307. A sentença manteve a prisão preventiva argumentando que subsistam inalterados os fundamentos que ensejaram a decretação da prisão.
+No ponto, impende destacar que:
+"Sobre o tema, esta Corte Superior possui entendimento no sentido de que "são fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 725.170/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022" (AgRg no HC n. 806.211/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023, grifei).
+Nesse mesmo sentido:
+"Na hipótese, a prisão preventiva foi decretada com fundamento nas circunstâncias da prática delitiva e gravidade concreta do crime imputado, evidenciada pela expressiva quantidade de droga transportada na lataria do veículo do Agravante, de modo a justificar, nos termos da jurisprudência desta Corte Superior de Justiça, a segregação cautelar para garantia da ordem"(AgRg no HC n. 799.998/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 29/3/2023, grifei ).
+Quanto a alegação de que seria um contrassenso a manutenção da segregação cautelar diante da aplicação do regime semiaberto, a Jurisprudência desta Corte é no sentido de não haver incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo apenas ser compatibilizada a prisão cautelar com as regras do regime estabelecido.
+A propósito:
+"A Jurisprudência desta Corte é no sentido de não haver "incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime" (RHC n. 134.443/GO, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020"(AgRg no HC n. 832.788/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+"Esta Corte possui entendimento consolidado em ambas as suas turmas criminais no sentido de que não há incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, caso preenchidos os requisitos do art. 312 do Código de Processo Penal e desde que o acusado seja mantido em local compatível com o regime fixado na sentença" (AgRg no HC n. 826.873/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/6/2023.)
+Ressalte, ademais, que conforme informações de fls. 381-385, o paciente já se encontra no regime semiaberto, atualmente, recolhido na Colônia Penal Agrícola de Palhoça.
+Ante o exposto denego a ordem,
+Publique-se. Intime-se.
+EMENTA
