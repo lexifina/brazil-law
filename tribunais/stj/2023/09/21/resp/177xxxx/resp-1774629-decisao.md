@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRADESCO SAUDE S.A. contra decisão que inadmitiu recurso especial por não ter sido demonstrada a alegada vulneração dos dispositivos de lei indicados e ante a incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta também que o órgão de interposição do recurso, ao emitir juízo prévio de admissibilidade, ultrapassou os limites de sua competência, adentrando indevidamente o mérito do recurso especial.
+Defende que a decisão de admissibilidade foi genérica que há violação do art. 1.022, II, do CPC e que, ao permitir à agravada o direito de permanecer vinculada à apólice coletiva por prazo indeterminado, o acórdão recorrido violou os arts. 30, § 6º, e 31 da Lei n. 9.656/1998.
+Requer o provimento do agravo.
+É o relatório. Decido.
+Inicialmente, esclareça-se que, em conformidade com a jurisprudência do STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, porquanto o exame da admissibilidade pela alínea a, em razão dos pressupostos constitucionais, envolve o próprio mérito da controvérsia (REsp n. 1.664.818/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 1.760.002/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022).
+Nesse sentido, aliás, é o enunciado da Súmula n. 123 do STJ: "A decisão que admite, ou não, o recurso especial deve ser fundamentada, com exame dos seus pressupostos gerais e constitucionais."
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base em dois fundamentos: a) não ter sido demonstrada a alegada vulneração dos dispositivos de lei indicados; e b) incidir a Súmula n. 7 do STJ.
+Nas razões recursais, porém, a parte agravante deixou de impugnar especificamente o fundamento relativo à incidência da Súmula n. 7 do STJ, limitando-se a alegar o caráter genérico da decisão de admissibilidade, a usurpação de competência do STJ e a ofensa aos arts. 30, § 6º, 31 da Lei n. 9.656/1998 e 1.022, II, do CPC, reiterando as razões do próprio mérito do recurso especial.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
