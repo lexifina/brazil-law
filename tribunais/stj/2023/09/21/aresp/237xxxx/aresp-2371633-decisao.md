@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo contra a não admissibilidade do Recurso Especial por incidência das Sumulas 7/STJ e 280/STF e ausência de violação aos arts. 489 e 1.022 do CPC.
+Defende CGR - Guatapara - Centro de Gerenciamento de Resíduos Ltda.:
+4. Trata-se de Mandado de Segurança, com pedido liminar, objetivando que seja reconhecido o direito da Agravante de excluir os valores do Imposto Sobre Serviços ("ISS"), da contribuição ao Programa de Integração Social ("PIS") e da Contribuição para Financiamento da Seguridade Social ("COFINS") da base de cálculo do próprio "ISS", dada sua inconstitucionalidade e ilegalidade, assegurando-se o direito líquido e certo da Agravante de restituir/compensar os valores indevidamente pagos nos últimos 5 (cinco) anos e os que vierem a ser recolhidos, em razão do pagamento do ISS sobre valores referentes ao ISS, PIS e COFINS que são repassados ao município e à União Federal.
+ ..
+10. Irresignada, a Agravante interpôs o competente Recurso Especial por meio do qual demonstrou a:
+- Ofensa ao art. 1.022, incisos I e II, c/c 489, §1º, do CPC, o que acarreta a nulidade do v. aresto de fls. 838/840 por vício na fundamentação;
+- Violação ao art. 7º, caput, da Lei Complementar ("LC") nº 116/2003, na medida em que o dispositivo não elege como base de cálculo do ISS quaisquer outros tributos; e
+- Violação ao art. 110, do CTN, na medida em que não poderia o legislador incluir no conceito de "preço de serviço" (base de cálculo do imposto, cf. art. 7º, caput, da LC nº 116/03) valores que, ontologicamente, não se configurem como "serviços".
+ ..
+15. Especificamente, a Agravante demonstrou a existência dos seguintes vícios no v. aresto de fls. 828/833:
+(i) Obscuridade quanto à aplicação do entendimento fixado na ADPF nº 190, pois a argumentação contida naquele julgado do E. Supremo Tribunal Federal vai ao encontro dos argumentos do defendido pela Agravante, pois o Tribunal Excelso tão somente decidiu pela impossibilidade de que Lei Municipal defina a base de cálculo do ISS, por tratar-se de matéria reservada à Lei Complementar, não se discutindo a materialidade da inclusão do PIS e da COFINS na base de cálculo do imposto municipal;
+(ii) Omissão quanto à apreciação de dispositivos legais e constitucionais que reforçam a tese ora defendida, especialmente a existência de ofensa ao art. 7º, caput, e §1º da Lei Complementar nº 116/2003, e ao art. 110, do CTN, os quais têm o condão de delimitar a base de cálculo do ISS e vedar que leis municipais alterem o conceito de "prestação de serviços" para ampliar a base de incidência tributária.
+ ..
+28. Desse modo, como se pode observar, a presente discussão encontra-se alicerçada na interpretação de dispositivos da legislação federal, sendo desnecessária a interpretação da legislação local - que, como é cediço, não pode ser devolvida pela via especial por óbice da Súmula nº 280/STF, aplicada por analogia.
+ ..
+35. Caso V. Exa. entenda por bem converter o presente agravo em Recurso Especial, adotando a teoria da causa madura (art. 1.042, §§ 5º e 8º do CPC), requer-se o conhecimento do Recurso Especial de fls. 860/876 pela violação aos arts. 1.022, I, e II, e 489, §1º, IV, do CPC, e aos arts. 7º, caput, da LC 116/2003 e 110 do CTN, e ato contínuo, o seu provimento para: (i) declarar nulo o v. acórdão que julgou os declaratórios opostos, devolvendo-se os autos à Corte de origem para que profira outro acórdão sanando-se os vícios apontados; ou (ii) para reformar o v. acórdão de fls. 828/833 (integrado pelo v. acórdão de fls. 838/840), concedendo-se a segurança pleiteada pela Agravante.
+Contraminuta às fls. 936- 939, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21 de agosto de 2023.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+O Tribunal de origem consignou (fls. 838-840, e-STJ):
+Cabem embargos de declaração para sanar erro material, omissão, obscuridade ou contradição no julgado (CPC, art. 1.022, inc. I, II e III), de modo que o Acórdão consignou expressamente que no julgamento da ADPF nº 190 foi reconhecida a inconstitucionalidade formal da legislação municipal que exclua da base de cálculo do ISSQN valores fora das hipóteses previstas em lei complementar nacional.
+Por consequência, inadmite-se a exclusão dos tributos federais (IRPJ, CSLL, PIS/PASEP e COFINS) do cálculo do imposto sobre serviços por meio de lei municipal, ressaltando-se que a LC 116, de 2003 não prevê o desconto almejado pelo embargante, pois dispõe que o ISSQN incide sobre o preço do serviço, entendido como o valor repassado do tomador ao prestador, independentemente de sua composição.
+Daí porque, rejeitam-se os embargos de declaração.
+Incide a Súmula 284/STF quando o Apelo se limita a sustentar violação do art. 1.022, II, do CPC/2015 de forma genérica, sem especificar "em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado" (AgRg no REsp 1.318.004/AM, Relator Ministro HUMBERTO MARTINS, Segunda Turma, DJe 2.4.2013)
+Observa-se que a Corte a quo se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão. Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos arts. 489 e 1.022 do CPC/2015.
+Destaco que a via especial não é adequada à desconstituição do aresto recorrido no ponto em que se apoiou no julgamento da ADPF 190 para solução do litígio, pois não compete ao Superior Tribunal de Justiça revisar julgado do Supremo Tribunal Federal.
+A análise da controvérsia demanda, necessariamente, o exame da legislação local (art. 14, caput e § 3º, da Lei Municipal 13.701/2003), tal medida é vedada em REsp, a teor da Súmula 280/STF, aplicável por analogia. Veja-se: REsp 1.672.400/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe 12.9.2017; AgRg no REsp. 1.417.878/MG, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 14.4.2014.
+É inviável, ainda, analisar a tese defendida no Apelo Nobre, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo decisum vergastado de que "a LC 116/2003 não prevê o desconto almejado pelo embargante", ou de que "nada há nos autos que demonstre a inclusão do PIS e do COFINS, ou até do próprio ISS, na base de cálculo do imposto", a comprovar o direito líquido e certo exigido pelo writ of mandamus. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
