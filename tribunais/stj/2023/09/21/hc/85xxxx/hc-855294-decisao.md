@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, em que o impetrante aponta a ocorrência de constrangimento ilegal decorrente do não conhecimento do HC n. 5044118-30.2023.8.24.0000, pelo Tribunal de Justiça de Santa Catarina.
+Alega-se que há ilegalidade na homologação da prisão em flagrante de Volmir Antonio Schlichting Victor, à vista da atuação da Guarda Municipal fora de suas funções.
+Aduz-se que o DETRAN/SC instaurou procedimento administrativo para suspender a carteira de motorista do paciente com o Processo administrativo n. 167889/2023 de suspensão do direito de dirigir, pelo fruto da abordagem ilegal auto de infração: SJ003O306J (fl. 7).
+Diante, disso, busca-se, em liminar, seja decretado que o Departamento Estadual de Trânsito de Santa Catarina se abstenha de realizar qualquer ato que venha a suspender a carteira de motorista do paciente decorrente do processo administrativo n. 167889/2023 de suspensão do direito de dirigir (fl. 8).
+No mérito, requer-se a declaração de nulidade de todas as provas e por conseguinte a aplicação da teoria dos fruto da árvore envenenada para declaração de nulidade de todos os atos processuais e processos decorrentes da abordagem ilegal (fl. 8).
+Ocorre que o pedido não merece ir adiante.
+Conforme consta do acórdão, o paciente aceitou o acordo de não persecução penal no Processo n. 5017066-66.2020.8.24.0064, sendo apontado que já houve o trânsito em julgado da homologação, bem como a extinção da punibilidade do paciente, que cumpriu todo o acordo firmado com o Ministério Público (fl. 96).
+Ora, não é cabível a impetração de habeas corpus quando já extinta a punibilidade, independentemente da tese defendida, pois ausente risco remanescente à liberdade de locomoção.
+De mais a mais, a medida administrativa de suspensão do direito de dirigir veículo automotor, bem como a imposição de penalidades administrativas que também restringem o exercício de tal direito pelo motorista, não acarretam qualquer risco à sua liberdade de locomoção, uma vez que, caso descumpridas, não podem ser convertidas em reprimenda privativa de liberdade, uma vez que inexiste qualquer previsão legal nesse sentido (AgRg no HC n. 443.003/RS, Ministro Jorge Mussi, Quinta Turma, DJe 3/9/2018).
+Por fim, vale ressaltar que o Supremo Tribunal Federal fixou, em repercussão geral, a tese segundo a qual é constitucional a atribuição às guardas municipais do exercício de poder de polícia de trânsito, inclusive para imposição de sanções administrativas legalmente previstas (RE n. 658.570, relator Marco Aurélio, relator p/ acórdão Roberto Barroso, Tribunal Pleno, julgado em 6/8/2015, acórdão eletrônico Repercussão Geral - Mérito DJe-195 divulgado em 29/9/2015, publicado em 30/9/2015) - (AgRg no HC n. 776.743/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/8/2023 - grifo nosso).
+Vê-se que, no caso, a atuação da Guarda Municipal foi motivada pelo modo de dirigir do paciente, que colocou em risco a ordem pública e a integridade física dos demais cidadãos: um táxi estava sendo conduzido em zigue-zague na via pública, o que denotava possível embriaguez do condutor (fl. 95).
+Com efeito, conforme jurisprudência consolidada desta Corte Superior, não há falar em ilegalidade na abordagem realizada por guardas civis municipais, sobretudo diante da evidente situação de flagrante delito.
+Não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. PRETENSÃO DE ABSOLVIÇÃO. ILICITUDE DA PROVA. ALEGAÇÃO DE ILEGALIDADE NA ABORDAGEM PELA GUARDA MUNICIPAL. ACEITAÇÃO DO ACORDO DE NÃO PERSECUÇÃO PENAL PELO PACIENTE. CUMPRIMENTO INTEGRAL. EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE RISCO REMANESCENTE À LIBERDADE DE IR E VIR.
+Writ não conhecido.
