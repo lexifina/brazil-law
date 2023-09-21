@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MOISES AVELINE NETO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/RS.
+Recurso especial interposto em: 14/9/2022
+Concluso ao gabinete em: 16/11/2022.
+Ação: de resolução contratual ajuizada em 22/10/2020 por MOISES AVELINE NETO contra IMOBILIÁRIA IRAPUA S/A, alegando que, em 14/9/1965, os seus pais, em nome do autor, que à época era menor, firmaram um contrato de cessão de direitos e de incorporação com a ré, que nunca cumpriu com a sua obrigação, não entregando a obra no prazo acordado de 600 dias. Aduziu que o Município de Porto Alegre passou a cobrar do autor suposta dívida de IPTU, apesar do prédio estar abandonado e inacabado. Requereu, assim, a resolução do contrato, "determinando-se que a rescisão seja averbada na Matrícula do Imóvel do Registro de Imóveis da 1ª. Zona de Porto Alegre, para os devidos fins" (e-STJ fls. 10-11).
+Sentença: o Juízo de primeiro grau indeferiu a petição inicial e julgou o processo extinto, sem resolução de mérito (e-STJ fl. 133).
+Acórdão: o TJ/RS negou provimento à apelação interposta por MOISES, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESOLUÇÃO DE CONTRATO. DIREITO POTESTATIVO. DECADÊNCIA. CONTRATO FIRMADO HÁ MAIS DE 64 ANOS. APLICÁVEL POR ANALOGIA O PRAZO DECENAL PREVISTO NO ART. 205 DO CC.
+1. TRATA-SE DE AÇÃO DE RESOLUÇÃO DE CONTRATO DE CESSÃO DE DIREITOS E AÇÕES SOBRE IMÓVEL FIRMADO EM 25/06/1956 PELAS PARTES, AO FUNDAMENTO DE DESCUMPRIMENTO CONTRATUAL POR PARTE DA VENDEDORA QUE DEIXOU DE EDIFICAR O EMPREENDIMENTO, ULTRAPASSANDO O PRAZO DE ENTREGA DE 600 DIAS ÚTEIS CONTADOS DA ASSINATURA DO AJUSTE.
+2. MESMOS OS DIREITOS POTESTATIVO QUE VISAM A RESOLUÇÃO, EXTINÇÃO DE UMA RELAÇÃO JURÍDICA, PELO DESFAZIMENTO DO CONTRATO, DESPROVIDA DE INTERESSE PATRIMONIAL E ECONÔMICO SUBMETEM-SE AOS EFEITOS DO TEMPO.
+3. COM EFEITO, NO CASO, DECORRIDO MAIS DE SESSENTA E QUATRO ANOS DA ASSINATURA DO CONTRATO, FALECE O DIREITO DE RESOLUÇÃO CONTRATUAL, UMA VEZ QUE NÃO PERSISTE A PRETENSÃO DE HAVER QUALQUER CRÉDITO. APLICÁVEL POR ANALOGIA O PRAZO DECENAL PREVISTO NO ART. 205 DO CC. DOUTRINA E JURISPRUDÊNCIA A RESPEITO. APELAÇÃO DESPROVIDA.
+(e-STJ fl. 231)
+Embargos de Declaração: opostos por MOISES, foram rejeitados.
+Recurso especial: alega violação dos arts. 113, 122, 169, 187, 205, 422, 424 e 475 do CC/2002; e 1.022, II, do CPC/2015. Sustenta, além de negativa de prestação jurisdicional, em síntese, que (I) o art. 475 do CC/2002 "assegura expressamente à parte lesada pelo inadimplemento o direito de "pedir a resolução do contrato", sem fixar nenhum prazo para o exercício desse direito potestativo, nem muito menos subordiná-lo ao prazo da "pretensão de haver o crédito"" (e-STJ fl. 311); (II) ademais, "o termo inicial do suposto prazo extintivo da ação de rescisão renova-se todos os dias, "a cada inadimplemento", enquanto continuar o descumprimento do contrato" (e-STJ fl. 311).
+Juízo prévio de admissibilidade: o TJ/RS admitiu o recurso.
+É O RELATÓRIO. DECIDE-SE.
+1. Da violação dos arts. 113, 122, 169, 187, 422 e 424 do CC/2002. Súmula 284/STF
+O recorrente alega violação dos 113, 122, 169, 187, 422 e 424 do CC/2002, sem, contudo, demonstrar, de forma clara e suficiente, como os referidos dispositivos teriam sido violados pelo acórdão recorrido.
+Na realidade, a alegação a tais dispositivos legais foi veiculada de maneira genérica e abstrata nas razões recursais, sendo imprescindível observar, ainda, que não guardam relação com a controvérsia em exame, que diz respeito à ocorrência de prescrição ou decadência.
+Logo, o recurso, neste ponto, não merece ser conhecido, por incidência da Súmula 284/STF.
+2. Da negativa de prestação jurisdicional. Súmula 568/STJ
+É firme a jurisprudência desta Corte no sentido de que "não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte" (REsp 1.995.565/SP, Terceira Turma, DJe de 24/11/2022).
+No mesmo sentido: AgInt no AREsp 1.997.395/RJ, Terceira Turma, DJe 19/4/2022; AgInt nos EDcl no AREsp 1.844.912/DF, Quarta Turma, DJe 18/4/2022; AgInt no AREsp 1.924.900/SP, Primeira Turma, DJe 19/4/2022; AgInt no AREsp 1.901.718/PE, Segunda Turma, DJe 25/3/2022.
+No particular, o acórdão recorrido decidiu, fundamentada e expressamente, acerca da matéria referente à prescrição e decadência, bem como da inadimplência da parte ré e da alegada natureza do direito potestativo de resolução do contrato, de maneira que os embargos de declaração opostos pelo recorrente, de fato, não comportavam acolhimento.
+Assim, ausente omissão, contradição, obscuridade ou erro material no acórdão recorrido, não se verifica a alegada violação do art. 1.022 do CPC/2015.
+3. Da prescrição da pretensão de resolução contratual. Súmula 568/STJ
+De acordo com o acórdão recorrido, "as partes firmaram instrumento particular de cessão de direitos e incorporação nº 1398 (evento1-CONTR5), em data de 25/06/1956, tendo por objeto a unidade 1627, localizada no 16 andar e 17 pavimento do edifício em construção denominado "Edifício Galeria 15 de Novembro", Porto Alegre/RS, com previsão de entrega de 600 dias, contados da assinatura do instrumento" (e-STJ fl. 224).
+Por sua vez, "a pretensão de resolução de contrato de cessão de direitos e ações (evento1- CONTR5) está fundamentada no descumprimento de obrigação por parte da vendedora que não conclui o edifício e da não incidência do instituto da decadência, no caso, por cuidar-se de direito potestativo" (e-STJ fl. 224).
+O recorrente alega, em síntese, que o art. 475 do CC/2002 assegura à parte lesada pedir a resolução do contrato e não há prazo decadencial ou prescricional para o exercício desse direito potestativo.
+Todavia, de acordo com a jurisprudência consolidada do STJ, "a pretensão de resolução de contrato e de consequente restituição das parcelas pagas se submete ao prazo prescricional decenal, sob a égide do CC/2002, ou vintenário, sob a égide do CC/1916, por ser fundada em direito pessoal" (REsp 2.059.857/BA, Terceira Turma, DJe 11/5/2023).
+No mesmo sentido: AgInt no AREsp 912.820/SP, Quarta Turma, DJe 26/9/2018; AgInt no REsp 1.321.697/RJ, Quarta Turma, DJe 24/4/2017; AgRg no AREsp 375.924/RJ, Terceira Turma, DJe 28/8/2014; AgInt no AREsp 1.782.520/RJ, Terceira Turma, DJe 2/3/2022; e REsp 1.433.066/MS, Terceira Turma, DJe 2/6/2014.
+Na hipótese, o contrato foi firmado em 25/6/1956 e o nascimento da pretensão de resolução do contrato ocorreu na data em que configurado o inadimplemento da ré recorrida, ou seja, quando ultrapassado o prazo de 600 dias previsto para a entrega do empreendimento.
+Verifica-se, assim, que transcorreu o prazo prescricional vintenário, considerando que a presente ação foi ajuizada em 2020, mais de 62 anos contados a partir do nascimento da pretensão, que se encontra, assim, fulminada pela prescrição.
+Ocorre que o Tribunal de origem, apesar de discorrer sobre a prescrição e a decadência, manteve a sentença que indeferiu a petição inicial, extinguindo o processo sem resolução de mérito.
+Nesse contexto, a solução mais adequada à hipótese dos autos, considerando a jurisprudência pacífica desta Corte, consistiria no reconhecimento da prescrição da pretensão autoral, extinguindo o processo com resolução de mérito, na forma do art. 487, II, do CPC/2015.
+Todavia, não é possível a reforma do acórdão recorrido quanto ao ponto, tendo em vista a vedação da reformatio in pejus.
+4. Da divergência jurisprudencial
+Diante da análise do mérito do recurso especial pela alínea "a" do permissivo constitucional, fica prejudicado o exame da divergência jurisprudencial alegada sobre o mesmo tema.
+Forte nessas razões, com fundamento no art. 34, XVIII, "a" e "b", do RISTJ, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto aos advogados da recorrida, em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa atualizado (e-STJ fl. 230) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA. PRETENSÃO DE RESOLUÇÃO CONTRATUAL. PRAZO PRESCRICIONAL. DECENAL OU VINTENÁRIO. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de resolução contratual, da qual foi extraído o presente recurso especial, interposto em 14/9/2022 e concluso ao gabinete em 16/11/2022.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. Súmula 284/STF.
+3. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte. Precedentes.
+4. Segundo a jurisprudência consolidada do STJ, a pretensão de resolução de contrato e de consequente restituição das parcelas pagas se submete ao prazo prescricional decenal, sob a égide do CC/2002, ou vintenário, sob a égide do CC/1916, por ser fundada em direito pessoal.
+5. A análise do mérito do recurso especial pela alínea "a" do permissivo constitucional prejudica o exame da divergência jurisprudencial alegada sobre o mesmo tema.
+6. Hipótese em que o contrato foi celebrado em 1956, nascendo a pretensão de resolução por inadimplemento com o descumprimento do prazo de entrega de 600 dias. Assim, transcorreu o prazo prescricional vintenário, considerando que a presente ação foi ajuizada em 2020, mais de 62 anos contados a partir do nascimento da pretensão, que se encontra fulminada pela prescrição.
+7. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
