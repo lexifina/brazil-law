@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 5ª Região cuja ementa é a seguinte (fl. 443, e-STJ):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. CUMULAÇÃO DE HONORÁRIOS NA EXECUÇÃO E NA AÇÃO ANULATÓRIA. CASO CONCRETO. IDENTIDADE DE FATOS E FUNDAMENTOS JURÍDICOS. DUPLA CONDENAÇÃO. DESCABIMENTO.
+1. Restringe-se a discussão, travada no apelo, a reclamar da ausência de condenação da exequente ao pagamento de honorários advocatícios.
+2. Caso em que a sentença extinguiu o feito executivo fiscal, ante o reconhecimento da perda superveniente do interesse de agir, eis que, no bojo da ação anulatória nº 0007350-27.2011.4.05.8100 foi proferida decisão de mérito, transitada em julgado, declarando a inexistência de relação jurídico-tributária que obrigue a executada a recolher os créditos exequendos cobrados nesta execução. Ocasião em que fixou a verba honorária sucumbencial em desfavor da Fazenda Nacional em R$ 10.000,00 (dez mil reais).
+3. Não se desconhece o entendimento firmado pelo Superior Tribunal de Justiça e da Segunda Turma deste Tribunal Regional de que existe a possibilidade de condenação da Fazenda Pública ao pagamento de honorários advocatícios cumulados. É dizer, cabível nos embargos à execução, de maneira autônoma e independente da própria execução, desde que observado o limite de 20% (vinte por cento) estabelecido pelo art. 85, do Código de Processo Civil.
+4. Contudo, para deslinde da controvérsia impõe-se observar o caso concreto. Na hipótese, a sentença recorrida se limitou a extinguir a execução fiscal sem resolução do mérito, alicerçada em acórdão deste Tribunal, que acolheu o pedido formulado na ação anulatória. Daí que, a toda evidência, há clara interdependência dos provimentos jurisdicionais, sendo de rigor, portanto, nessa específica situação, a unicidade da condenação no pagamento de honorários advocatícios. Logo, descabida, no caso concreto, a cumulação da condenação da Fazenda Nacional ao pagamento de honorários advocatícios. (Precedente da Terceira Turma deste Tribunal Regional Federal, em sua composição ampliada. PJe 0808826-39.2019.4.05.0000, Relator Des. Federal ROGÉRIO FIALHO MOREIRA, julgado em 11.12.2019).
+5. Apelação a que se nega provimento.
+Os Embargos de Declaração foram rejeitados (fl. 487, e-STJ).
+A parte recorrente, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação dos arts. 85, § 3º, 489 e 1.022 do CPC/2015. Afirma que houve negativa de prestação jurisdicional. Aduz a possibilidade de cumulação de honorários na Execução e na Ação Anulatória. Aponta contrariedade ao que ficou decidido pelo STJ no REsp 1.520.710/SC.
+Contrarrazões às fls. 595-609, e-STJ.
+Decisão de admissibilidade à fl. 611, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.9.2023.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Observa-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão. Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+A Corte Especial do STJ, sob o rito dos Recursos Repetitivos, fixou entendimento que "os embargos do devedor são ação de conhecimento incidental à execução, razão por que os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973" (REsp 1.520.710/SC, Rel. Min. Mauro Campbell Marques, DJe 27/2/2019). Essa orientação se aplica às Execuções Fiscais. Veja-se:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NOS AUTOS DA AÇÃO DE EXECUÇÃO E EMBARGOS DO DEVEDOR CUMULATIVAMENTE. POSSIBILIDADE. MATÉRIA PACIFICADA EM SEDE DE RECURSO REPETITIVO PELA CORTE ESPECIAL.
+1. "Os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973" (REsp 1.520.710/SC, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 27/02/2019).
+2. Agravo interno não provido.
+(AgInt no REsp 1.966 .922/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 30/3/2022)
+Ademais, deve-se perquirir quem deu causa ao feito executivo, a fim de imputar-lhe o ônus de pagar os honorários, em face do princípio da causalidade.
+Dessa forma, por estar em dissonância com o entendimento do STJ, o aresto vergastado merece reparo.
+Diante do exposto, dou parcial provimento ao Recurso Especial e determino o retorno dos autos ao Tribunal de origem, a fim de que este proceda ao arbitramento de honorários advocatíci os, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
+EMENTA
