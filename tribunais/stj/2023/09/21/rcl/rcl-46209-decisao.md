@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Reclamação ajuizada contra acórdão do Tribunal de Justiça do Estado do Paraná cuja ementa é a seguinte:
+DIREITO PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO COM BASE NO ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CPC. PRELIMINAR AVENTADA EM CONTRARRAZÕES DE NÃO CONHECIMENTO DO RECURSO. RAZÕES RECURSAIS QUE TEM POR BALIZAS A MATÉRIA TRAÇADA RECURSO REPETITIVO. MÉRITO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE NÃO EVIDENCIADA PELA CÂMARA JULGADORA. SISTEMÁTICA DO ART. 40 DA LEF. ACÓRDÃO EM HARMONIA COM AS TESES FIXADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP Nº 1.340.553/RS, JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+O reclamante sustenta que houve violação à autoridade de decisão proferida pelo Superior Tribunal de Justiça no REsp 1.340.553/RS, julgado sob o rito dos Recursos Repetitivos. Narra que seu Recurso Especial interposto perante a Corte local teve seguimento negado em virtude de o acórdão recorrido estar em consonância com o mencionado precedente do STJ. Aduz, ainda, que, "apesar de afirmarem ter aplicado as teses fixadas no REsp 1340553/RS, utilizaram na contagem do prazo da prescrição intercorrente um marco desencadeador distinto daquele efetivamente eleito por este E. STJ" (fl. 10, e-STJ). Em resumo, sustenta (fl. 13, e-STJ):
+Enquanto o STJ definiu que é o despacho citatório que provoca o início da contagem do prazo prescricional de 6 (seis) anos, após a vigência da Lei Complementar n.º 118/2005 (o que evidenciava a configuração da prescrição do caso concreto), o TJ/PR declarou que, seguindo o mesmo entendimento, o lapso temporal antes mencionado deveria ser apurado a partir da citação da parte executada.
+Ao final, a parte pleiteia a cassação da decisão reclamada, com a posterior remessa dos autos a esta Corte Superior para apreciação do seu Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de agosto de 2023.
+Trata-se de Execução Fiscal na qual o requerente alega que houve prescrição intercorrente, nos termos do decidido no REsp 1.340.553/RS.
+O Recurso Especial do ora reclamante foi inadmitido na origem com base no art. 1.030, I, "b", do CPC/2015, e o Agravo Interno não foi provido. A parte, então, interpôs Reclamação na qual pugna pela admissibilidade do Recurso Especial.
+A insurgência não prospera.
+O STJ possui jurisprudência firmada no sentido de que é incabível Reclamação contra acórdão que, em Agravo Interno ou Regimental, mantém a decisão proferida pela Presidência ou Vice Presidência do Tribunal a quo que inadmitiu o Recurso Especial por considerar que o decisum seguiu a tese de Representativo da Controvérsia.
+Ademais, é inadmissível propor Reclamação para realizar o controle de adequação do entendimento das instâncias ordinárias com as teses fixadas pelo STJ em Recurso Especial Repetitivo.
+Nessa esteira:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO COLETIVA E INDIVIDUAL. CONCURSO PÚBLICO. CONTRATAÇÃO DE TEMPORÁRIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INADMISSIBILIDADE DE RECLAMAÇÃO PARA O CONTROLE DE ADEQUAÇÃO DO ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+I - Nesta Corte, trata-se de reclamação, com fundamento no art. 105, I, f, da Constituição Federal, contra decisão que não conheceu do agravo interposto em desfavor de decisão que negou seguimento a recurso especial, ante a conformidade do acórdão recorrido com o Tema n. 671/STF (RG). Não foi conhecida a reclamação, prejudicada a tutela de urência requerida.
+II - Segundo entendimento firmado pela Corte Especial do STJ, é inadmissível a reclamação para se realizar o controle de adequação do entendimento das instâncias ordinárias com as teses fixadas pelo STJ, em recurso especial repetitivo, sendo impositiva a extinção do feito, sem resolução do mérito, por sua flagrante inadequação.
+III - No mesmo sentido, mutatis mutandis: AgInt na Rcl n. 43.547/RR, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 14/2/2023, DJe de 17/2/2023; Rcl n. 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/2/2020, DJe de 6/3/2020.
+IV - Agravo interno improvido. (AgInt na Rcl 44.902/ES, Rel. Ministro Francisco Falcão, Primeira Seção, DJe de 29/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. UTILIZAÇÃO PARA ADEQUAÇÃO AO RECURSO ESPECIAL REPETITIVO. NÃO CABIMENTO. PRECEDENTE DA CORTE ESPECIAL. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA.
+1. Trata-se de Agravo Interno interposto contra decisão (fls. 179-189, e-STJ) que indeferiu liminarmente a Reclamação, uma vez que é reconhecida a jurisprudência do STJ no sentido de que não cabe Reclamação constitucional contra julgado que nega provimento a Agravo Regimental interposto contra decisão de inadmissibilidade de Recurso Especial fundada no art. 543-C, §7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), tendo em vista não estar caracterizada a usurpação de competência deste STJ.
+(..)
+3. Na sessão de 5.2.2020, a Corte Especial indeferiu liminarmente a Rcl 36.476/SP, fixando o entendimento de que é incabível Reclamação contra Acórdão que, em Agravo Interno ou Regimental, mantém a decisão da Presidência/Vice Presidência do Tribunal de não admissão de Recurso Especial, por considerar que o acórdão hostilizado seguiu a tese de representativo da controvérsia.
+4. É claro o intento das agravantes de utilizar a Reclamação como sucedâneo recursal, pois buscam reformar acórdão proferido pelo Tribunal de Justiça de São Paulo que, analisando o conjunto fático-probatório dos autos, concluiu que a presente matéria é idêntica à examinada pelo STJ no REsp 1.410.839/SC, Tema 698, sob a sistemática dos repetitivos.
+5. Agravo Interno não provido. (AgInt na Rcl 39.249/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe de 17/12/2020.)
+AGRAVO INTERNO. ORIENTAÇÃO STJ. RECURSO REPETITIVO. RECLAMAÇÃO. NÃO CABIMENTO.
+1. A Corte Especial do STJ consolidou a orientação no sentido de que não cabe reclamação para rever decisão do Tribunal de origem que, em agravo interno, confirma a inadmissibilidade de recurso especial, com o fundamento de que o acórdão recorrido aplicou a orientação firmada em julgamento proferido sob o ritos dos recursos repetitivos (AgInt na Rcl 36.476/SP, Relatora Ministra Nancy Andrigui, DJ de 6.3.2020).
+2. Agravo interno ao qual se nega provimento. (AgInt na Rcl 40.891/DF, Rel. Ministro Maria Isabel Gallotti, Segunda Seção, DJe de 14/4/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+(..)
+3. Ademais, "a Reclamação não é instrumento útil para adequar as decisões reclamadas aos julgados do STJ proferidos em Recurso Especial repetitivo. Precedentes: AgInt na Rcl 32.939/PR, Rel. Min. Og Fernandes, Primeira Seção, DJe 2.3.2017; AgInt na Rcl 30.616/SE, Rel. Min. Antonio Carlos Ferreira, Segunda Seção, DJe 25.6.2019" (AgInt na Rcl 39.321/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 16/06/2020, DJe 23/06/2020). No mesmo sentido: Rcl 36.476/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/02/2020, DJe 06/03/2020.
+4. Agravo interno não conhecido. (AgInt na Rcl 40.178/RJ, Rel. Ministro Mauro Campbell Marques, Primeira Seção, de DJe 19/3/2021.)
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RI/STJ, não conheço da Reclamação.
+Publique-se.
+Intimem-se.
+EMENTA
