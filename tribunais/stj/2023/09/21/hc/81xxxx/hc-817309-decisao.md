@@ -1,0 +1,39 @@
+DECISÃO
+JOSÉ JUVENIL DOS SANTOS alega sofrer constrangimento ilegal no seu direito de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Roraima no HC n. 9000155-28.2023.8.23.0000.
+A defesa pretende a soltura do paciente, sob o argumento de ausência de preenchimento dos requisitos da prisão cautelar. Assevera que o réu é tecnicamente primário e tem residência fixa.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou pela denegação da ordem (fls. 372-379).
+Decido.
+O Juízo de primeiro grau, ao decretar a prisão preventiva do paciente pela suposta prática de homicídio qualificado e ocultação de cadáver, ofereceu os seguintes argumentos (fls. 73-75, grifei):
+Da leitura dos autos, verifica-se os investigados JOSÉ JUVENIL DOS SANTOS, ALCIDES HENRIQUE (vulgo "Cidão") e EMERSON DE LIMA SILVA (vulgo "neguinho"), foram citados como autores diretos do crime, sendo que o JOSÉ JUVENIL seria o mandante do crime e ALCIDES e EMERSON (Cidão e Neguinho) os executores.
+Além disso, NILVISSON MARIANO confessou ter sido coagido e ameaçado a auxiliar na ocultação do cadáver, indicando, inclusive, sua localização pelas autoridades policiais, mais de 20 dias após a prática do crime.
+ ..
+No caso, reputo preenchidos os requisitos acima, considerando que se trata de crime de homicídio, com fortes indícios de sua existência e autoria, sendo a prisão necessária para garantia da ordem pública e conveniência da instrução criminal.
+Novamente de maneira acertada o MP no parecer de EP. 9.1 afirma que "fumus commissi delicti resta materializado através do corpo da vítima que foi encontrado enterrado no local apontado por NILVISSON MARIANO, vulgo "Caboquinho". O periculum libertatis, de seu turno, mostra-se presente através da necessidade em se garantir a ordem pública.
+Isso porque, considerando o tipo penal praticado e o modus operandi adotado pelos investigados, valendo-se de superioridade numérica e do uso de arma de fogo em face de uma vítima completamente desarmada, há significativa possibilidade de que voltem a praticar tal ato em detrimento de qualquer um que possa vir a se posicionar quanto à disputa pela posse de terra".
+O Tribunal a quo manteve a prisão ante tempus em acórdão assim fundamentado (fl. 178, destaquei):
+Assim, entendo como correta a decisão combatida. O crime é grave, pois consta do caderno inquisitorial que a autoridade policial efetuou a prisão de corréu confesso e constatar que os fatos condizem com a realidade de disputa de terras, inclusive, com cumprimento de decisão judicial de reintegração de posse dos envolvidos.
+Ademais, verifica-se das informações atualizadas do sistema Projudi, que o paciente já foi denunciado pela prática dos crimes previstos nos arts. 121, §2º, II e IV, §4º (última parte), c/c artigo 211, todos na forma dos artigos 29, 62, I, e 69, todos do Código Penal (EP 16.1 - 1º. grau).
+Diante de tais considerações, presentes os requisitos autorizadores para a manutenção da prisão preventiva do paciente, como bem deduzidos pela autoridade coatora, uma vez que a decisão vergastada está fundamentada na periculosidade concreta exteriorizada pelo modus operandi, afastando o argumento de utilização de elementos abstratos, não se demonstrando suficientes as medidas cautelares alternativas à prisão.
+Finalmente, consigne-se que a substituição da ordem de prisão por medidas cautelares diversas por reunir o paciente condições pessoais favoráveis, revelam-se irrelevantes, frente ao perigo de reiteração delitiva e da gravidade concreta da conduta, agravado pelo fato do mandado de prisão preventiva não ter sido cumprido até a presente data, evidenciando fortes indícios que tenha o paciente se evadido do distrito da culpa.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, ao indicar a gravidade concreta da conduta, evidenciada pelo modus operandi - o acusado seria o mandante do crime, praticado com superioridade numérica e emprego de arma de fogo contra a vítima desarmada.
+A esse teor: "O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado" (HC n. 417.217/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 14/12/2017).
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PROPRIO. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. AGRAVANTE SERIA MANDANTE DO HOMICÍDIO DO PRÓPRIO PAI. RESPONDEU PRESA TODA A PRIMEIRA FASE DO RITO ESCALONADO DO JÚRI. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. PEDIDO DE EXTENSÃO. NÃO CABIMENTO. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+3. No caso, o magistrado singular, ao proferir decisão de pronúncia, destacou permanecerem presentes os fundamentos prévios para a custódia, ponderando que, ausentes quaisquer modificações fáticas e tendo a agravante respondido presa a ação penal, seria incabível a rev ogação da custódia.
+4. Ademais, foi destacada a evidente gravidade concreta da conduta, uma vez que ela é acusada de ser a mandante do homicídio do próprio pai.
+5. Eventuais condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+ ..
+9. Agravo desprovido.
+(AgRg no HC n. 780.474/BA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 14/12/2022, grifei)
+ ..  3. As razões exaradas no decisum que instrui a impetração constituem motivos suficientes para a imposição da cautela extrema, pois evidenciam a gravidade concreta da conduta em tese perpetrada e o risco de reiteração delitiva, evidenciados pelo modus operandi descrito - o réu haveria sido mandante de homicídio qualificado praticado em contexto de desavenças decorrentes do tráfico de drogas e com envolvimento de organização criminosa à qual supostamente pertence -, a revelar a necessidade de acautelamento da ordem pública.
+ ..  Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade concreta da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal).
+ ..  6. Agravo regimental não provido.
+(AgRg no HC n. 704.584/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/3/2022, destaquei.)
+Ressalto que não é cabível, em habeas corpus, a desconstituição das premissas fáticas consignadas pelas instâncias ordinárias, uma vez que, para tanto, seria imprescindível o reexame fático-probatório dos autos, providência incompatível com a via eleita.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
