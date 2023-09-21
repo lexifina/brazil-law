@@ -1,0 +1,9 @@
+DECISÃO
+JAMILSON COSTA JÚNIOR, condenado por tráfico de drogas, alega ser vítima de constrangimento ilegal em razão da demora no julgamento da apelação interposta perante o Tribunal de Justiça do Estado do Espírito Santo, bem como pelo fato de não ter sido respeitado o comando contido no art. 316, parágrafo único, do CPP, além de não haver sido detraído o tempo em que esteve submetido à monitoramento eletrônico.
+De início, em relação à possível ilegalidade em decorrência da ausência de detração pelo tempo de uso de monitoramento eletrônico e, ainda, a alegação de constrangimento ilegal em virtude da ausência de reavaliação da necessidade ou não de manutenção da preventiva, observo que não houve o exame prévio dessas questões pelo Tribunal de origem, de tal sorte que não há como esta Corte avançar na análise dessas alegações, sob pena de supressão de instância.
+Registro, por oportuno, que a decisão juntada às fls. 827-828 chegou a indicar a existência de habeas corpus (Habeas Corpus n. 5006849-69.2021.8.08.0000) também impetrado na origem. Entretanto, não houve a juntada da cópia de eventual acórdão proferido nesse mandamus para que se pudesse verificar se tais questões chegaram a ser apreciadas pelo Tribunal a quo.
+Por fim, em relação à demora no julgamento do recurso de apelação, observo que a tramitação do recurso, ao que tudo indica, encontra-se regular. No ponto, há inclusive a decisão de fls. 827-828, proferida em 9/3/2023, na qual foi determinada a redistribuição do recurso de apelação, em decorrência da prevenção gerada pelo habeas corpus impetrado. Logo, não verifico a existência de ilegalidade manifesta que autorize a usurpação de competência desta Corte para análise de questões ainda não apreciadas na origem.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
