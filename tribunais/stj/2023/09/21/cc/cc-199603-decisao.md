@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Conflito negativo de Competência instaurado entre o Tribunal Regional do Trabalho da 7ª Região e o Juízo de Direito da 1ª Vara de Barbalha - CE nos autos de Reclamação Trabalhista proposta por Jussiane de Souza Rodrigues contra o Município de Barbalha - CE.
+O Juízo suscitado declinou da sua competência para a Justiça laboral sob o argumento de que o vínculo era regido pela CLT.
+O Juízo suscitante, contudo, alega que, por se tratar de contratação temporária, a competência é da Justiça comum, haja vista o caráter jurídico-administrativo do vínculo.
+Dispensei a manifestação do Ministério Público por ser a matéria conhecida desta Corte.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19.5.2023.
+Inicialmente, cumpre observar que a determinação da competência para processar e julgar as demandas que envolvem direitos decorrentes da relação de trabalho entre Servidores Públicos e a Administração Pública depende do vínculo estabelecido entre eles.
+Após a Emenda Constitucional 45, de 31.12.2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos os entes de Direito Público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+Porém, ao examinar a questão nos autos da ADI 3.395/DF em 5.4.2006, o Supremo Tribunal Federal referendou liminar anteriormente concedida que suspendera qualquer interpretação do art. 114, I, da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Portanto, se o vínculo firmado entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça comum (Estadual ou Federal), ao passo que, se o vínculo for regido pela CLT, caberá à Justiça laboral.
+No caso, o vínculo de trabalho era regido pela CLT.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATAÇÃO SEM CONCURSO PÚBLICO OU PROCESSO SELETIVO. NATUREZA JURÍDICO- ADMINISTRATIVA. CONTRATAÇÃO IRREGULAR COM O PODER PÚBLICO. ATO DE NATUREZA ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM PARA RESOLVER AS CONTROVÉRSIAS PERTINENTES.
+I - Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara Única de Pariquera-Açu/SP, suscitante, e o Juízo da Vara do Trabalho de Registro-SP, suscitado, nos autos da reclamação trabalhista proposta em face do Consórcio Intermunicipal de Saúde do Vale do Ribeira-CONSAÚDE, visando ao recebimento de verbas rescisórias.
+II - Acentuo que o conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, inciso I, alínea d, da Magna Carta.
+III - A Emenda Constitucional n. 45/2004, que deu nova redação ao art. 114 da Carta Magna, aumentou de maneira expressiva a competência da Justiça Laboral. Entretanto, na Ação Direta de Inconstitucionalidade n. 3395-6, o Supremo Tribunal Federal - STF suspendeu em parte a eficácia do inciso I do art. 114 da Constituição da República, que atribuía à Justiça do Trabalho competência para processar e julgar ações envolvendo entidades de Direito Público e seus respectivos servidores.
+IV - Se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência será da justiça comum (estadual ou federal). Em se tratando de vínculo trabalhista, a competência caberá à justiça laboral.
+V - A parte reclamante defende ter sido contratada para trabalhar na função de técnico em enfermagem, sem concurso público ou processo seletivo, desde 10/12/2012, tendo permanecido vinculado ao consórcio de direito público até 09/04/2014.
+VI - Falece competência à Justiça do Trabalho para processar a referida demanda, em razão da natureza jurídico-administrativa existente entre o Poder Público e o servidor público, ainda que em contratações irregulares.
+VII - A orientação desta Corte Superior se firmou no sentido de que a contratação irregular com o poder público é ato de natureza administrativa, ensejando a competência da Justiça Comum para resolver as controvérsias pertinentes. Confira- se: AgInt no CC 147.725/PA, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 08/02/2017, DJe 14/02/2017; AgRg nos EDcl no CC 144.107/MS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 25/05/2016, DJe 01/06/2016; AgRg no CC 108.627/MS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 24/02/2010, DJe 04/03/2010)
+VIII - Agravo interno improvido.
+(AgInt no CC 156.229/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 30/4/2020)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E TRABALHISTA. AÇÃO NA QUAL SE POSTULAM VERBAS DECORRENTES DE CONTRATAÇÃO TEMPORÁRIA FUNDADA NO ART. 37, IX, DA CF/1988. VÍNCULO EXISTENTE ENTRE CONTRATANTE E CONTRATADO. NATUREZA JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum estadual ou federal, conforme o caso, processar e julgar demanda decorrente de contrato temporário de trabalho fundado no art. 37, IX, da Constituição Federal. Precedentes do STJ e do STF.
+2. Conflito negativo conhecido, declarando-se, no caso concreto, a competência do Juízo de Direito da Vara da Fazenda Pública da Comarca de Paranaguá/PR, o suscitante. (CC 160.644/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 3/10/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. CONTRATO TEMPORÁRIO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+1. A competência para processar e julgar ações cujo objeto é a relação jurídica estabelecida entre o Poder Público e seus Servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, é da Justiça Comum.
+2. Agravo Regimental do Particular desprovido.
+(AgRg no CC 140.643/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 28/3/2019)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EMPREGADO PÚBLICO. FUNDAÇÃO MUNICIPAL. JUSTIÇA DO TRABALHO.
+1. Cuida-se de Conflito Negativo de Competência entre o TRT da 6ª Região contra decisão do TJ/PE em relação a Reclamação Trabalhista proposta por empregado celetista contratado pela Fundação Estatal Municipal de Saúde de Petrolina/PE para o cargo de Maqueiro, tendo o contrato perdurado, conforme documentação constante nos autos, entre 1.7.2009 e 8.8.2013.
+2. A Primeira Seção do STJ, em harmonia com as decisões recentes do STF, tem adotado o entendimento de que a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à Justiça Comum, Federal ou Estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo. Precedentes: CC 129.447/RN, Rel. Ministro Sérgio Kukina, Primeira SEÇÃO, julgado em 9/9/2015, DJe 30/9/2015; CC 125.666/RS, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 9/9/2015, DJe 6/10/2015; AgRg no CC 125.129/RJ, Rel. Ministra Marga Tessler (Juíza Federal Convocada do TRF 4ª Região), Primeira Seção, julgado em 11/2/2015, DJe 19/2/2015.
+3. A competência da Justiça Comum dar-se-ia nos casos em que o empregado celetista for contratado com base em contrato temporário de trabalho em razão da natureza administrativa da relação jurídica, prevista no art. 37, IX da CF/1988. A propósito: AgRg no CC 142.917/PR, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 23/11/2016, DJe 1/12/2016.
+4. Conflito conhecido para declarar competente a Justiça do Trabalho.
+(CC 160.769/PE, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 26/2/2019)
+Diante do exposto, conheço do presente Conflito para declarar competente o Tribunal Regional do Trabalho da 7ª Região.
+Publique-se.
+Intimem-se.
+EMENTA
