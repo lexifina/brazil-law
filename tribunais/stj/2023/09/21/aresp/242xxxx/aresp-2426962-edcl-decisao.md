@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA WILSA ALVES DUARTE em face da decisão de fls. 831/832, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+2. Em suma, entende a parte, ora Embargante, que além de ocorrer cerceamento de defesa, no presente caso, o devido processo legal restou violado.
+3. Não é preciso indagação maior e tampouco qualquer outro formalismo frio, para se verificar que a decisão em tela, que negou seguimento ao agravo, é equivocada.
+4. Se já não bastassem tais argumentos, a Embargante vem discordar de referida decisão em tela por se tratar de decisão que exclui da apreciação do Poder Judiciário lesão ou ameaça direito, no termos do inciso XXXV, art. 5º da Constituição Federal, além do que, referida decisão, fere os princípios do contraditório e da ampla defesa, nos termos do inciso LV, art. 5º da CF/88, que assim dispõem:  ..  - fls. 835.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Neste ponto impende salientar que a parte embargante não discutiu os vícios previstos no art. 1.022 do CPC. Simplesmente alegou que há interesse em recorrer e que houve cerceamento de defesa, não rebatendo à incidência da Súmula 284 do Supremo Tribunal Federal decorrente da ausência de indicação expressa de dispositivo violado ou objeto de divergência jurisprudencia, óbice pelo qual o recurso especial não foi conhecido. Portanto, sem estabelecer a necessária conexão dialética entre a decisão de não conhecimento do seu recurso especial e estes aclaratórios, em total afronta ao princípio da dialeticidade.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
