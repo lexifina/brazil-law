@@ -1,0 +1,16 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, em questão de ordem suscitada pelo Sr. Ministro-Relator, pela anulação do julgamento proferido pela Segunda Turma, com ulterior retorno dos autos para julgamento dos agravos internos tanto da União quanto dos particulares, prejudicados os embargos de declaração opostos às fls. 1.433-1.466.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. QUINTOS INCORPORADOS. DECISÃO ADMINISTRATIVA. PAGAMENTO DE VERBAS ATRASADAS. RE N. 638.115. MODULAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I - Na origem, trata-se de ação rescisória ajuizada pela União contra o Sindicato dos Servidores do Poder Judiciário Federal em Alagoas objetivando a rescisão do acórdão do Tribunal de origem, o qual reconheceu aos substituídos do demandado o direito à incorporação, em seus vencimentos, de parcelas de quintos decorrentes do exercício de função comissionada no período de 8/4/98 até 4/9/2001.
+II - No Tribunal a quo, julgou-se procedente o pedido, para desconstituir o acórdão rescindendo e, em juízo rescisório, julgar improcedente a pretensão do SINDIJUS/AL, de incorporação dos quintos provenientes de funções comissionadas exercidas no período de 8/4/1998 a 4/9/2001 pelos servidores por ele substituídos, resguardados os valores já recebidos de boa-fé. Esta Corte deu parcial provimento ao recurso especial, no sentido de se reconhecer que é indevida a cessação imediata dos pagamentos de quintos, quando fundados em decisão já transitada em julgado, possuindo os servidores direito a continuar recebendo tais incorporações até que ocorra sua integral absorção por reajustes futuros, não havendo, outrossim, dever de restituir o que já foi recebido a esse título.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os embargos aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - Os vícios apontados pela parte embargante, relacionados à incorporação de quintos decorrentes do exercício de funções comissionadas, foram tratados no acórdão recorrido, o que afasta a alegação de omissão.
+VI - Embargos de declaração rejeitados.
+QUESTÃO DE ORDEM
+Após minuciosa análise dos autos, verifico que o agravo interno julgado na sessão virtual desta Segunda Turma de 20/06/2023 a 26/06/2023, cujo acórdão consta às fls. 1.416-1.424, foi o da União de fls. 1.238-1.242.
+Assim porque o relatório do voto condutor do acórdão transcreve trecho da peça interposta pela União à fl. 1.241.
+Contudo, a petição vinculada ao julgamento (nr. 01126279/2022) diz respeito ao agravo interno interposto pelos particulares às fls. 1.245-1.274.
+Ante o exposto, diante do equívoco na vinculação da peça processual, suscito a presente Questão de Ordem com vistas a determinar a anulação do julgamento proferido pela Segunda Turma, com ulterior retorno dos autos para julgamento dos agravos internos tanto da União quanto dos particulares, prejudicados os embargos de declaração opostos às fls. 1.433-1.466.
