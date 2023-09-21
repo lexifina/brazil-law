@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+Apelação Cível  Repetição de indébito  Ilegitimidade passiva do Estado de São Paulo afastada  Inépcia da inicial não configurada  Devolução de valores descontados a maior a título de imposto de renda  Incidência de imposto de renda sobre o montante devido acumulado  Inadmissibilidade  Tributação que deve respeitar as tabelas e alíquotas da época  Interpretação do art. 46, da Lei nº 8.541/92  Incidência de imposto de renda sobre juros moratórios  Natureza indenizatória reconhecida  Não incidência  Necessidade de abatimento do imposto que já tenha sido restituído por ocasião da declaração de ajuste anual  Recurso do Estado de São Paulo desprovido, com observação. Verba honorária  Fixação em percentual sobre o valor da condenação  Ilegitimidade dos autores  Verba destinada ao advogado, não aos recorrentes  Recurso dos autores desprovido, nesta parte. Correção monetária  Inaplicabilidade do disposto no art. 51 da Lei nº 11.960/09  Declaração de inconstitucionalidade por arrastamento pelo C. STF no julgamento da ADI nº 4357/DF  Recurso dos autores provido, nesta parte. v Recurso do Estado de São Paulo desprovido, com observação. Recurso dos autores parcialmente provido.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação do art. 39, § 4º, da Lei 9.250/1995. Alega:
+O enunciado, normativo determina que a restituição de tributos federais será acrescida de juros equivalente a taxa SELIC desde a retenção indevida.
+(..)
+O acórdão do Tribunal de Justiça de São Paulo decidiu pela restituição dos valores indevidamente retidos acrescidos de juros de 1% ao mês, após o trânsito em julgado, conforme o art. 161, §1º c/c o art. 167, paragrafo único do CTN.
+Entretanto, a jurisprudência pacifica do STJ é no sentido de que, em se tratando de um tributo federal, a restituição dos valores indevidamente retidos será acrescida de juros pela taxa SELIC desde a retenção indevida.
+Contraminuta apresentada às fls. 709-712, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.8.2023.
+A irresignação merece prosperar.
+O Tribunal de origem consignou:
+Em relação aos juros e correção monetária, houve por bem o MM Juiz sentenciante definir que: As verbas sofrerão acréscimos de juros de 1% ao mês desde o trânsito em julgado  art. 160 do CTN e sofrerão atualização monetária observando-se a vigência da Lei nº 11.960/09.
+Concernente ao termo inicial dos juros de mora, a jurisprudência desta Corte é no sentido de que: "(a) antes do advento da Lei 9.250/95, incidia a correção monetária desde o pagamento indevido até a restituição ou compensação (Súmula 162/STJ), acrescida de juros de mora a partir do trânsito em julgado (Súmula 188/STJ), nos termos do art. 167, parágrafo único, do CTN; (b) após a edição da Lei 9.250/95, aplica-se a taxa SELIC desde o recolhimento indevido, ou, se for o caso, a partir de 1º.01.1996, não podendo ser cumulada, porém, com qualquer outro índice, seja de atualização monetária, seja de juros, porque a SELIC inclui, a um só tempo, o índice de inflação do período e a taxa de juros real". Nesse diapasão:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RETENÇÃO INDEVIDA DE IMPOSTO DE RENDA NA FONTE. TERMO INICIAL DOS JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. PAGAMENTO INDEVIDO. INCIDÊNCIA EXCLUSIVA DA TAXA SELIC APÓS A VIGÊNCIA DA LEI Nº 9.250/1995. AFASTAMENTO DA SÚMULA Nº 188 DO STJ. PRECEDENTES.
+1. A orientação prevalente no âmbito da 1ª Seção desta Corte, em sede de recurso especial repetitivo (REsp 1.111.175/SP), quanto aos juros e correção monetária do indébito tributário pode ser sintetizada da seguinte forma: (a) antes do advento da Lei 9.250/95, incidia a correção monetária desde o pagamento indevido até a restituição ou compensação (Súmula 162/STJ), acrescida de juros de mora a partir do trânsito em julgado (Súmula 188/STJ), nos termos do art. 167, parágrafo único, do CTN; (b) após a edição da Lei 9.250/95, aplica-se a taxa SELIC desde o recolhimento indevido, ou, se for o caso, a partir de 1º.01.1996, não podendo ser cumulada, porém, com qualquer outro índice, seja de atualização monetária, seja de juros, porque a SELIC inclui, a um só tempo, o índice de inflação do período e a taxa de juros real" (RESP 1.111.175/SP, Rel. Min. Denise Arruda, Primeira Seção, DJe 1º/7/2009).
+2. Agravo interno não provido
+(AgInt no AREsp 1.710.154/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 30/11/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TERMO INICIAL. CORREÇÃO MONETÁRIA. PIS E COFINS. INCLUSÃO DO ICMS NA BASE DE CÁLCULO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISCUSSÃO SOBRE O JULGADO ABRANGER O ICMS DESTACADO OU ICMS ESCRITURAL A RECOLHER. PRETENSÃO DE COLOCAR BALIZAS AO DECIDIDO PELO STF NO RE 574.706 RG/PR. IMPOSSIBILIDADE. TEMA CONSTITUCIONAL. RECURSO DE CÉLIA TRANSPORTES LTDA.
+(..)
+4. Conforme precedentes do STJ, na repetição de indébito de tributos federais, antes da Lei 9.250/1995, incidia a correção monetária desde o pagamento indevido até a restituição ou a compensação (Súmula 162/STJ), acrescida de juros moratórios a partir do trânsito em julgado (Súmula 188/STJ), na forma do art. 167, parágrafo único, do CTN. Após a edição da Lei 9.250/1995, no entanto, passou a incidir a taxa Selic desde o recolhimento indevido, ou a partir de 1º de janeiro de 1996 (caso o recolhimento tenha ocorrido antes dessa data).
+5. O acórdão recorrido consignou: "4. Atualização monetária A sentença estabeleceu que a atualização monetária deve incidir desde a data do pagamento indevido do tributo. No entanto, os créditos ficam sujeitos à atualização pela taxa SELIC a partir do mês seguinte ao do pagamento indevido (art. 39, §4º, da Lei 9.250/95 c/c o art. 73 da Lei 9.532/97), razão pela qual a remessa oficial deve ser acolhida, no ponto" (fl. 244, e-STJ).
+6. Sendo assim, o acórdão recorrido deve ser reformado nesse ponto.
+(..)
+(REsp 1.843.246/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 12/5/2020)
+Dessa forma, por estar em dissonância com o entendimento do STJ , deve ser reformado o aresto proferido na origem.
+Diante do exposto, conheço do Agravo para dar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
