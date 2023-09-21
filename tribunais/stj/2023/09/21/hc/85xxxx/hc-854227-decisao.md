@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de CARLOS SAMUEL BOHRER, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC nº 5144974-35.2023.8.21.7000).
+Consta dos autos que o paciente é acusado na denominada Operação Shiny Flakes, pelo suposto cometimento dos crimes tipificados no artigo 33, caput, da Lei nº 11.343/2006 e no artigo 278 do Código Penal (duas vezes), na forma do artigo 69, caput, do Código Penal.
+O impetrante alega que a decisão que não conheceu o habeas corpus está equivocada, considerando que o writ impetrado na origem pretendia a anulação dos diálogos extraídos do celular apreendido e que culminaram na prisão do paciente, ou seja, a ilegalidade apontada pela defesa redundou diretamente na constrição da liberdade de CARLOS.
+Assere que o pedido de extração e decodificação de dados dos celulares apreendidos foi formulado e deferido de maneira genérica e ampla, na esperança de pescar qualquer prova para subsidiar uma futura acusação.
+Entende que não houve fundamentação concreta para quebra de sigilo e extração de dados, sem a mínima análise da sua real necessidade.
+Destaca que não há uma linha sequer fazendo referência ao caso concreto. Apenas colocações genéricas acerca da extração de dados.
+Pontua o excesso de prazo no acautelamento preventiva por 442 dias sem o término da instrução processual.
+Requer, liminarmente, a concessão da liberdade ao paciente e, no mérito, o reconhecimento da nulidade dos diálogos obtidos a partir da extração de dados dos celulares, com o seu desentranhamento do bojo dos autos juntamente das ilícitas por derivação.
+É o relatório. DECIDO.
+In casu, da leitura do acórdão, constata-se que as alegações apresentadas a esta Corte Superior não foram analisadas pelo Tribunal de origem.
+Ora, tem-se que as questões de direito deveriam ter sido apreciadas, mas não foram, pois, mesmo provocado, o Tribunal de origem sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta Corte Superior de proceder à sua análise - sob pena de indevida supressão de instância.
+O Superior Tribunal de Justiça entende que, "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Ainda nesse sentido: AgRg no HC n. 804.815/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; AgRg no HC n. 813.293/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023; e AgRg nos EDcl na PET no REsp n. 1.908.093/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/4/2023, DJe de 18/4/2023.
+Não obstante, verifica-se que a ausência de manifestação do Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+É consabido que a via estreita do writ não se presta para análise de temas que comportem recurso próprio, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, o Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a decisão questionada se estiver em desacordo com o ordenamento jurídico pátrio ou determinar providência apta a cessar o constrangimento ilegal.
+Tratando-se de questões relevantes, devidamente suscitadas na origem e que não demandam, em tese, o revolvimento fático-probatório, devem os autos retornar para o Tribunal, a fim de que se manifeste.
+Nesse sentido: AgRg no HC n. 630.875/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/4/2021, DJe de 26/4/2021; AgRg no HC n. 629.226/RO, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/2/2021, DJe de 26/2/2021.
+Ante o exposto, concedo a ordem de habeas corpus, para anular o julgamento constante do acórdão proferido no HC n. 5144974-35.2023.8.21.7000, determinando sejam apreciadas pelo Tribunal a quo, como entender de direito, as questões ali deduzidas, no prazo de até 30 (trinta) dias.
+Publique-se. Intimem-se. Comuniquem-se.
+ EMENTA
