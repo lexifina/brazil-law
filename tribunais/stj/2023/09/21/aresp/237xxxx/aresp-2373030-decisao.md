@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM COBRANÇA. CONTRATAÇÃO TEMPORÁRIA. PROFESSORA CONVOCADA A TÍTULO PRECÁRIO. RENOVAÇÕES SUCESSIVAS. FUNDO DE GARANTIA POR TEMPO DE SERVIÇO (FGTS). CORREÇÃO MONETÁRIA. IPCA-E. PEDIDO DE SUSPENSÃO DO FEITO. ADI N. 5.090/DF. TEMA N.º 731, DO SUPERIOR TRIBUNAL DE JUSTIÇA. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+Os Embargos de Declaração foram rejeitados.
+No Recurso Especial, o agravante sustenta que ocorreu violação, em preliminar, do art. 1.022 do CPC; no mérito, dos arts. 17 da Lei 8.177/1991, 7º da Lei 9.660/1993 e 22 da Lei 8.036/1990.
+Contrarrazões não apresentadas.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.8.2023.
+O Recurso Especial foi inadmitido nestes termos:
+No que diz respeito ao art. 7º, da Lei Federal n. 9.660/93, verifica-se que a referida Lei não existe. Logo, a pretensão recursal não merece seguimento por ofensa ao princípio da dialeticiade, aplicando-se ao caso a Súmula 284, do Supremo Tribunal Federal. Confira-se:
+(..)
+Em relação aos arts. 489, §1º, IV, e 1.022 do Código de Processo Civil, este reclamo não está apto à instância superior em decorrência da censura da Súmula 83, do Superior Tribunal de Justiça, posto que a decisão está fulcrada no entendimento da Corte Cidadã.
+(..)
+Quanto às demais matérias, a insurgência concernente à atualização monetária das condenações impostas à Fazenda Pública, o Superior Tribunal de Justiça proferiu a seguinte decisão nos autos do Recurso Especial Representativo de Controvérsia, REsp 1.492.221/PR (Tema 905), in verbis:
+(..)
+Desse modo, o acórdão recorrido confirmou a sentença que adotou o IPCA-E como índice de atualização monetária e, tendo em vista que a discussão posta neste recurso refere-se a condenação oriunda de relação jurídica não-tributária, este Tribunal condescendeu à tese firmada nos Temas 905 e 810, do Superior Tribunal de Justiça e do Supremo Tribunal Federal, respectivamente.
+Por sua vez, o tema 731 do Superior Tribunal de Justiça invocado pelo recorrente versa sobre a correção monetária de depósitos em conta vinculada ao FGTS na Caixa Econômica Federal, diferente destes autos, que versam sobre a atualização de FGTS indenizado desprovido de caráter tributário-previdenciário.
+Ante o exposto, quanto aos Temas 810/STF e 905/STJ, nos termos do art. 1.030, I, "b", do CPC, nego seguimento ao Recurso Especial interposto por Estado de Mato Grosso do Sul. Quanto aos demais artigos, nos termos do art. 1.030, V, do CPC, inadmito-o. Às providências.
+Da análise da presente insurgência, conclui-se que a parte interessada não impugnou especificamente todos os pontos que motivaram a inadmissão do Recurso, sobretudo no que tange à incidência da Súmula 284/STF. Nesse sentido :
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. INEXIGIBILIDADE DE DÉBITOS. DANOS MORAIS. PEDIDOS PROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CABIMENTO DE RESP ALEGANDO VIOLAÇÃO DE NORMA CONSTITUCIONAL.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a declaração de inexigibilidade de débitos relativos a consumo irregular de energia elétrica, bem como reparação por danos morais. Na sentença, julgaram-se os pedidos procedentes. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base no não cabimento de REsp por ofensa a resolução, na ausência de afronta a dispositivo legal, no não cabimento de REsp alegando violação de norma constitucional e na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente ao não cabimento de REsp alegando violação de norma constitucional.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem.
+Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+(AgInt no AREsp 2.051.373/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 14/9/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. INDENIZAÇÃO POR DANO MORAL. REGISTRO DE FALTA EM DATA QUE DOOU SANGUE. PEDIDO IMPROCEDENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária em que o agravante pleiteia indenização por dano moral após ter sido apontada sua falta no registro funcional do servidor em data que alega ter doado sangue. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Negou-se seguimento ao recurso especial com base nos óbices referentes ao não cabimento de REsp alegando violação de norma constitucional e a ausência de indicação de artigo de lei federal violado - Súmula n. 284/STF. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que nega seguimento ao recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido.
+(AgInt no AREsp 1.438.717/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 23/8/2019.)
+No julgamento dos Embargos de Divergência nos Agravos em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP em 19.9.2018, a Corte Especial do Superior Tribunal de Justiça decidiu, ao interpretar a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o Recurso nas hipóteses em que a parte recorrente refuta apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à parte não impugnada.
+Consoante a jurisprudência do STJ, a decisão que não admite o Recurso Especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a argumentação permite concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do Recurso. Não há, pois, capítulos autônomos nessa decisão.
+Os referidos Embargos de Divergência receberam a seguinte ementa:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, EAREsp 746.775/PR e EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Portanto, não se conhece de Agravo em Recurso Especial que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade, conforme previsto no art. 253, I, do RISTJ e no art. 932, III, do CPC/2015.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino, contra a parte recorrente, a majoração no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
