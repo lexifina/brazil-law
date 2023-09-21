@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALEANDRO EUGENIO GRUHLKE, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Revisão Criminal nº 5034646-05.2023.8.24.0000).
+Consta dos autos que o paciente foi condenado à pena de 15 anos, 6 meses e 20 dias de reclusão, e 8 dias-multa, por infração ao art. 157, §3º, II, c/c art. 14, inciso II, ambos do Código Penal
+O impetrante alega, em síntese, que, no caso, configurou-se o roubo consumado, mas o paciente foi indevidamente condenado pelo latrocínio na sua forma tentada.
+Argumenta que, quando há roubo na forma consumada, não se justifica condenar o acusado na forma de latrocínio tentado.
+Requer, liminarmente e no mérito, a cassação da sentença para que outra seja proferida aplicando ao caso o crime de roubo na sua forma consumada, ou então que se desclassifique a conduta do artigo 157, § 3º para o artigo 157, § 1º e 2º do Código Penal.
+É o relatório. DECIDO.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Está pacificado no Superior Tribunal de Justiça que, quando há dolo de roubar e dolo de matar para assegurar o roubo, a adequação típica se dá no art. 157, §3º do Código Penal, na modalidade tentada. A esse respeito:
+REVISÃO CRIMINAL. LATROCÍNIO. NEGATIVA DE AUTORIA. DESNECESSIDADE DE PERÍCIA NA FILMAGEM. CONDENAÇÃO AMPLAMENTE EMBASADA NA PROVA TESTEMUNHAL. INEXISTÊNCIA DE PROVAS NOVAS. LATROCÍNIO NA FORMA TENTADA. POSSIBILIDADE. INVIABILIDADE DA DESCLASSIFICAÇÃO PARA ROUBO COM LESÕES CORPORAIS GRAVES. DECISÃO RESCINDENDA MANTIDA. REVISÃO CRIMINAL IMPROCEDENTE.
+1. É despicienda a produção de nova prova - perícia - quando a condenação estiver embasada em outros elementos probatórios carreados aos autos, como os relatos de testemunhas e vítimas.
+2. O Superior Tribunal de Justiça tem admitido a figura do latrocínio tentado quando não se obtenha o resultado morte, bastando a comprovação de que, no decorrer da prática delitiva, o agente tenha atentado contra a vida da vítima com a intenção de matá-la, não atingindo o resultado por circunstâncias alheias à sua vontade.
+Não há ilegalidade ou carência de lastro jurídico na decisão que, nesses termos, admite a figura do latrocínio tentado e rejeita a desclassificação para o crime de roubo com lesões corporais graves.
+3. Revisão criminal improcedente.
+(RvCr n. 4.726/RJ, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 11/12/2019, DJe de 16/12/2019.)
+Também nesse sentido: AgRg no HC n. 653.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021; AgRg no HC n. 700.651/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/6/2022, DJe de 13/6/2022.
+No caso concreto, o voto-condutor do acórdão combatido afastou a tese de desclassificação do delito para o crime de roubo a teor dos excertos abaixo (fl. 33):
+Todavia, o pedido de desclassificação da conduta típica atribuída ao Requerente para aquela prevista no art. 157, inciso I, do Código Penal, não merece acolhimento.
+Extrai-se do conjunto probatório que o Acusado, tencionando subtrair o patrimônio alheio, empunhando arma de fogo, realizou a abordagem do ofendido Edson Luiz Ribeiro no momento em que ele adentrava em sua camionete VW Amarok, placas NEV-9F91.
+Durante a abordagem, o Revisionando, visando garantir a subtração e com evidente animus necandi e furandi, atirou por três vezes contra a vítima Edson Luiz Ribeiro.
+Realmente, extrai-se do contexto fático dos autos que o Revisionando adentrou na camionete do ofendido pela porta traseira, encostou um revólver calibre .38 na parte de trás sua sua cabeça e puxou o gatilho.
+Todavia, o disparo não ocorreu, por falha no mecanismo de ação da arma.
+Em seguida, a vítima buscou se evadir a pé e o Requerente foi ao seu encalço, efetuando mais dois disparos em sua direção.
+O artefato bélico, no entanto, novamente falhou.
+Restou comprovado nos autos, portanto, especialmente através dos depoimentos da vítima, que a ação delitiva do agente consistiu na tentativa de subtração do automóvel mediante grave ameaça, exercida através do emprego de arma de fogo, seguida de ofensa à vida, consubstanciada nos disparos de arma de fogo realizados em direção ao ofendido.
+Inviável, por conseguinte, a desclassificação pretendida, diante da relação de causalidade entre a tentativa de subtração patrimonial e a violência empregada para este desiderato.
+Ademais, presente o animus necandi, ante a letalidade do instrumento utilizado (arma de fogo) e o direcionamento dos disparos para regiões letais do corpo do ofendido, o que demonstra a assunção do dolo quanto ao resultado morte.
+Ainda, consigna-se que a conduta criminosa foi desenvolvida com a intenção de alcançar aposse do bem, pois os disparos foram direcionados ao ofendido, de modo que encontra-se configurada a intenção de causar-lhe a morte.
+A respeito do contexto fático em apreço, menciona-se que "o roubo qualificado (CP, art.157, § 3º) é crime qualificado pelo resultado, cujo resultado agravador, morte ou lesão corporal grave, pode ter sido provocado dolosa ou culposamente, contudo, a violência que causa o resultado deve ser necessariamente dolosa. De fato, se o resultado agravador é causado culposamente, não há falar em tentativa, sendo necessária sua efetiva ocorrência; por outro lado, plenamente possível a tentativa do roubo qualificado em caso de animus necandi ou animus laedendi. Mais do que isso, essencial a existência de relação de causalidade entre a subtração patrimonial e a violência empregada, seja para possibilitar a subtração (conexão teleológica), seja para, após a subtração do bem, assegurar sua posse ou a impunidade do agente (conexão consequencial)"(STJ, Min. Ribeiro Dantas).  .. . (Apelação Criminal n. 0008323-09.2015.8.24.0039, de Lages, Segunda Câmara Criminal, Rel. Des. Getúlio Corrêa, j. em 12/09/2017).
+Por essas razões, não há falar em desclassificação, porquanto os elementos acima analisados denotam o animus furandi que motivou a ação do Requerente, bem como o dolo de subtrair o patrimônio da vítima e de assumir o risco do resultado morte para lograr êxito no intento.
+Assim, as instâncias de origem concluíram que o acusado agiu com dolo de roubar e dolo de matar, de maneira que a eventual desconstituição de tais premissas demandaria aprofundada dilação probatória, totalmente incompatível com a via eleita.
+Não se descure que, para a eventual concessão da ordem, far-se-ia necessário que o direito alegado pela d. Defesa fosse líquido - dispensando apuração probatória - e certo - indene de dúvidas.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial do paciente.
+Isso até mesmo porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+De mais a mais, como dito, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+Sobre o tema: AgRg no HC n. 814.843/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023; AgRg no HC n. 806.652/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgRg no HC n. 771.324/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; e AgRg no HC n. 772.855/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Diante disso, não se constatou, de plano, a flagrante ilegalidade apontada pela Defesa nestes autos.
+Ante o exposto, não conheço o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
