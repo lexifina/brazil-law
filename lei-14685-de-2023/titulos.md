@@ -1,0 +1,1 @@
+Acrescenta dispositivo à Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para determinar ao poder público a obrigação de divulgar a lista de espera por vagas nos estabelecimentos de educação básica de sua rede de ensino.
