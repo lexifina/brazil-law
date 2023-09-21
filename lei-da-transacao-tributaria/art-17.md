@@ -6,8 +6,9 @@ b) o prazo para adesão à transação;
 II - poderá limitar os créditos contemplados pela transação, considerados:
 a) a etapa em que se encontre o respectivo processo tributário, administrativo ou judicial; ou
 b) os períodos de competência a que se refiram;
-III - estabelecerá a necessidade de conformação do contribuinte ou do responsável ao entendimento da administração tributária acerca de fatos geradores futuros ou não consumados.
-§ 2º As reduções e concessões de que trata a alínea a do inciso I do § 1º deste artigo são limitadas ao desconto de 50% (cinquenta por cento) do crédito, com prazo máximo de quitação de 84 (oitenta e quatro) meses.
+III - poderá estabelecer a necessidade de conformação do contribuinte ou do responsável ao entendimento da administração tributária acerca de fatos geradores futuros ou não consumados.
+§ 2º As reduções e concessões de que trata a alínea "a" do inciso I do § 1º deste artigo são limitadas ao desconto de 65% (sessenta e cinco por cento) do crédito, com prazo máximo de quitação de 120 (cento e vinte) meses.
 § 3º A celebração da transação, nos termos definidos no edital de que trata o caput deste artigo, compete:
 I - à Secretaria Especial da Receita Federal do Brasil do Ministério da Economia, no âmbito do contencioso administrativo; e
 II - à Procuradoria-Geral da Fazenda Nacional, nas demais hipóteses legais.
+§ 4º Na hipótese de transação que envolva pessoa natural, microempresa ou empresa de pequeno porte, a redução máxima de que trata o § 2º deste artigo será de até 70% (setenta por cento), com ampliação do prazo máximo de quitação para até 145 (cento e quarenta e cinco) meses, respeitado o disposto no § 11 do art. 195 da Constituição Federal.
