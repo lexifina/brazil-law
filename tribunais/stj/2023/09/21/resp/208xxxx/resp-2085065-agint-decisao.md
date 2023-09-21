@@ -1,0 +1,39 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 1.043-1.075 (e-STJ), reconsidero a decisão de fls. 1.036-1.039 (e-STJ) e passo a novo exame do recurso especial interposto por CYRELA MONZA EMPREENDIMENTOS IMOBILIÁRIOS LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/RJ.
+Recurso especial interposto em: 13/03/2023.
+Concluso ao Gabinete em: 12/07/2023.
+Ação: de compensação de danos morais, ajuizada por WILSON TAUIL e MARIA JOSE ZANINI TAUIL, em desfavor da recorrente, em virtude de atraso na entrega de itens comuns da área de lazer de empreendimento imobiliário adquirido por aqueles.
+Sentença: julgou procedente o pedido para condenar a recorrente ao pagamento de R$ 5.000,00 (cinco mil reais) a cada recorrido, a título de danos morais.
+Acórdão: negou provimento às apelações interpostas pela recorrente e pelos recorridos, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ALEGAÇÃO AUTORAL DE QUE ADQUIRIRAM DO RÉU O APARTAMENTO 209 DO BLOCO 04, NO EMPREENDIMENTO IMOBILIÁRIO RESERVA DO PARQUE PELO PREÇO DE R$ 431.248,84. AFIRMAM QUE SELECIONARAM O EMPREENDIMENTO DO RÉU EM RAZÃO DA CATIVANTE PROPAGANDA, ONDE ERA DESTACADO QUE OS CONDÔMINOS DO CIDADE JARDIM - BAIRRO CRIADO PELO RÉU E COMPOSTO POR VÁRIOS CONDOMÍNIOS - TERIAM ACESSO A UM CLUBE COM VÁRIOS ITENS DE LAZER DIFERENCIADOS. SENTENÇA DE PROCEDÊNCIA PARA CONDENAR O DEMANDADO A PAGAR A CADA AUTOR O VALOR DE R$ 5.000,00, A TÍTULO DE DANOS MORAIS, ACRESCIDO DE JUROS DE 1% AO MÊS A PARTIR DA CITAÇÃO E CORREÇÃO MONETÁRIA A PARTIR DA INTIMAÇÃO DA SENTENÇA (SÚMULA 362 DO STJ) E, AINDA, CONDENA-LO AO PAGAMENTO DAS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO. IRRESIGNAÇÃO DE AMBAS AS PARTES, OS AUTORES VISANDO A REFORMA PARCIAL DO JULGADO PARA VER MAJORADA A VERBA INDENIZATÓRIA E O DEMANDADO PARA REFORMA R O JULGADO ALEGANDO A INEXISTÊNCIA DE DANO A SER REPARADO. FALHA NA PRESTAÇÃO DE SERVIÇO CARACTERIZADA, SENDO CERTO QUE O DEMANDADO NÃO LOGROU ÊXITO NA COMPROVAÇÃO DOS FATOS IMPEDITIVOS DO DIREITO DOS AUTOS, NOS TERMOS DO ART. 373, II, DO CPC, ÔNUS QUE LHE COMPETIA, ATÉ PORQUE FOI DECRETADO EM FAVOR DOS DEMANDANTES A INVERSÃO DO ÔNUS DA PROVA. DANO MORAL CONFIGURADO, CUJO VALOR ATENDE AOS CRITÉRIOS DA RAZOABILIDADE. RECURSOS CONHECIDOS E DESPROVIDOS, COM MAJORAÇÃO DA VERBA SUCUMBENCIAL, NOS TERMOS DO ART. 85, § 11, DO CPC, ANTERIORMENTE FIXADA EM 10% SOBRE O VALOR DA CONDENAÇÃO, PASSANDO-A PARA 13% (e-STJ fls. 873-874).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação dos arts. 17, 371, 489, § 1º, e 1.022, II, do CPC/2015; 186 e 944, parágrafo único, do CC/02; e 7º do CDC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que:
+i) não foram analisadas as provas constantes dos autos que comprovam a ausência de dano moral na espécie;
+ii) o mero descumprimento contratual, consistente na demora da entrega de itens comuns da área de lazer, não configura danos morais; subsidiariamente, pleiteia a redução do quantum compensatório arbitrado; e
+iii) a recorrente é parte ilegítima para figurar no polo passivo da ação, uma vez que os lotes relativos à área de lazer são de propriedade de outra empresa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022, II, do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da falha na prestação de serviços, hábil a supostamente ensejar a condenação a título de danos morais da empresa recorrente, de maneira que os embargos de declaração opostos por ela, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489, § 1º, do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pela recorrente em seu recurso especial quanto aos arts. 7º do CDC; 17 e 371 do CPC/2015, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Do compensação por dano moral na hipótese de longo período de atraso na entrega dos itens comuns da área de lazer
+O TJ/RJ, ao decidir pela configuração de dano moral na espécie, alinhou-se ao entendimento do STJ - aplicável à hipótese por analogia - no sentido de ser cabível a compensação por dano moral na hipótese de longo período de atraso na entrega de unidade imobiliária (AgInt no REsp 1.639.991/RO, Terceira Turma, DJe de 03/05/2019; AgRg no AREsp 780.379/RS, Terceira Turma, Dje de 19/11/2015; e AgInt no AREsp 1.121.461/AM, Quarta Turma, Dje de 02/05/2018).
+Com efeito, tanto a sentença de 1º grau, quanto o acórdão recorrido, reconheceram, expressamente, o longo lapso temporal decorrido sem o cumprimento com exatidão, por parte da recorrente, da oferta feita aos adquirentes (e-STJ fl. 659 e 878).
+Logo, o acórdão recorrido não merece reforma.
+Forte nessas razões, RECONSIDERO a decisão de fls. 1.036-1.039 (e-STJ) e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 13% (treze por cento) sobre o valor da condenação (e-STJ fl. 878) para 15% (quinze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ATRASO NA ENTREGA DE ITENS COMUNS DA ÁREA DE LAZER. DANOS MORAIS. OCORRÊNCIA. LONGO ATRASO.
+1. Ação de compensação de danos morais, em virtude do atraso na entrega de itens comuns da área de lazer de empreendimento imobiliário adquirido.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC/2015.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O excessivo atraso na entrega de unidade imobiliária enseja compensação por dano extrapatrimonial.
+6. Reconsiderada a decisão de e-STJ fls. 1.036-1.039. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
