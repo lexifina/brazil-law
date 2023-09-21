@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROGERIO DE PAULA LEITE contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás em agravo de instrumento nos autos da execução de título executivo extrajudicial.
+O julgado foi assim ementado (fl. 55):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO DE SALDO INFERIOR A 40 SALÁRIOS MÍNIMOS. VERBA PROVENIENTE DE CONTA POUPANÇA. NÃO COMPROVAÇÃO. MANUTENÇÃO DO DECISUM. 1 - Nos termos do artigo 833, inciso X, do Código de Processo Civil/2015 e precedentes do Superior Tribunal de Justiça, são impenhoráveis os valores de até 40 (quarenta) salários-mínimos depositados em conta bancária, sejam eles mantidos em conta-corrente ou aplicados em caderneta de poupança e/ou fundo de investimento. 2 - A impenhorabilidade dos vencimentos encontra proteção normativa no artigo 833, IV, do Código de Processo Civil. 3 - No caso em apreço o agravante Rogério de Paula Leite não se desincumbiu do ônus da prova que lhe era devido ao não comprovar documentalmente que valor refere-se a salário, tampouco que o quantum bloqueado encontrava-se em caderneta de poupança.. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fl. 90).
+Nas razões do recurso especial, o ora agravante aponta violação do art. 833, X, do Código Processo Civil.
+Argumenta que "Foi juntado aos autos o Detalhamento da Ordem Judicial de Bloqueio Sisbajud (evento 74), realizado através da central CENOPES, onde foram bloqueados R$ 42.392,27 (quarenta e dois mil trezentos e noventa e dois reais e vinte e sete centavos), na conta do Banco Bradesco do Executado" (fl. 103).
+Pondera que o acórdão recorrido, proferido pelo Tribunal de Justiça do Estado de Goiás, considerou que a impenhorabilidade só incide se o valor estiver em caderneta de poupança, enquanto que o Tribunal de Justiça do Estado de São Paulo, no julgamento do Agravo de Instrumento n. 2021826-48.2023.8.26.0000, entende que a regra da impenhorabilidade do art. 833, X, do CPC merece interpretação extensiva para alcançar pequenas reservas de capital poupadas, e não apenas os depósitos em caderneta de poupança.
+Afirma ainda o recorrente que, para a configuração da impenhorabilidade, é suficiente a demonstração de que os valores bloqueados são inferiores a 40 salários mínimos, independentemente da natureza da conta em que estão depositados.
+Requer o provimento do recurso para que seja reconhecida a impenhorabilidade dos valores bloqueados na sua conta bancária, pleiteando a inversão do ônus sucumbencial.
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+O Superior Tribunal de Justiça já sedimentou entendimento no sentido de que, ressalvados os casos de abuso ou má-fé, são impenhoráveis os valores inferiores a 40 salários mínimos, não importando se depositados em poupança, conta corrente, fundos de investimento, ou outras aplicações, ou ainda guardados em papel-moeda, desde que seja a única reserva monetária em nome do recorrente (AgInt no REsp n. 1.915.851/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022; AgInt no REsp n. 1.494.266/RO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/8/2017, DJe de 30/8/2017; e REsp n. 1.230.060/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção , julgado em 13/8/2014, DJe de 29/8/2014).
+No caso, o Tribunal estadual manteve a penhora dos valores em conta corrente do recorrente, porque não houve a comprovação de que a referida quantia teria caráter de poupança ou de salário. Asseverou que caberia à parte ora recorrente comprovar a natureza e a origem da quantia bloqueada, porquanto a lei entendeu ser a impenhorabilidade uma forma de garantir o mínimo de economia para o sustento da pessoa e de sua família nos períodos de intempérie financeira. A propósito, confira-se trecho do acórdão recorrido (fls. 50-52, destaquei):
+ ..
+Pois bem. Insta Ressaltar que Código de Processo Civil, ao estabelecer os parâmetros instrumentais para o procedimento de constrição de bens, firma balizas que limitam a atividade executiva, dentre elas a de que a penhora ocorra unicamente sobre o patrimônio do devedor e segundo a quantia devida (art. 831), porém, não estando sujeitos os bens que a lei considera impenhoráveis ou inalienáveis (art. 832).
+Nesse ponto, é possível concluir que a pretensão do credor, autor da execução, está sujeito alimites, não podendo o seu direito de ver satisfeito o débito superar direitos outros, a exemplo daqueles reputados fundamentais, como a própria dignidade humana do devedor.
+Exatamente por isso que o mesmo Digesto Processual elenca, em seu art. 833, quais são os bens tidos por impenhoráveis.
+Segundo o dispositivo em voga:
+"Art. 833. São impenhoráveis:
+(..).
+IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações de aposentadorias, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º.
+(..)
+. X - a quantia depositada em caderneta de poupança, até o limite de 40(quarenta) salários-mínimos;
+§ 2º. O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários- mínimos mensais, devendo a constrição observar o disposto no art. 528, §8º, e no art. 529, § 3º"
+Com efeito, o valor depositado em caderneta de poupança ou conta poupança que não exceda a 40 (quarenta) salários-mínimos não poderá ser objeto de constrição judicial.
+Da mesma forma, a impenhorabilidade dos vencimentos encontra proteção normativa, a qual somente deve ser excepcionada em duas situações específicas, quais sejam, na hipótese de penhora para pagamento de prestação alimentícia e para pagamento de importâncias excedentes a 50 (cinquenta) salários - mínimos mensais.
+Conquanto haja as duas exceções, verifico que nenhuma das duas se aplica ao caso em estudo.
+É que o legislador processual entendeu ser a impenhorabilidade uma forma de garantir o mínimo de economia para o sustento da pessoa e de sua família nos períodos de intempérie financeira.
+Noutros dizeres, a perspectiva da norma é de que seja assegurada a dignidade da pessoa do devedor, bem assim dos seus, em tempos de crise.
+Nesse contexto, é indubitável que as regras de impenhorabilidade de determinados bens têm estreita ligação com a atual preocupação do legislador em criar um mecanismo limitador (freios) à busca sem limites pela satisfação do crédito.
+No caso em apreço o agravante Rogério de Paula Leite não se desincumbiu do ônus da prova que lhe era devido ao não comprovar documentalmente que valor refere-se a salário, tampouco que o quantum bloqueado encontrava-se em caderneta de poupança.
+Assim, correto se mostra a manutenção da penhora realizada.
+No entant o, o referido entendimento diverge da jurisprudência do Superior Tribunal de Justiça acerca da extensão da regra prevista no inciso X do art. 833 do CPC, de maneira que deve ser levantada a penhora recaída sobre os valores em questão, porquanto inferior a 40 salários mínimos.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de afastar a penhora dos valores inferiores a 40 salários mínimos, determinada pelo Juízo de origem, independente da natureza da conta.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+ EMENTA
