@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALEXANDRE PEREDRIANO DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0056361- 63.2022.8.19.0001, Desembargadora relatora Gizelda Leitão Teixeira).
+Os autos dão conta de que o paciente foi condenado, em primeiro grau de jurisdição, pelo delito do art. 155, caput, do Código Penal, à pena de 1 ano, 3 meses e 22 dias de reclusão, em regime inicial fechado, pois, "no dia 12 de março de 2022, por volta das 16h45min, no interior do estabelecimento comercial FUNSHOES, localizado na Avenida Delfim Moreira, nº 18, bairro Várzea, nesta Comarca, o DENUNCIADO, dolosamente, subtraiu, para si ou para outrem, 01 (um) aparelho de telefone celular, modelo Redmi Note 8 Azul, de propriedade de Jessica de Carvalho Pimentel Lourenço" (e-STJ fls. 62/69).
+Irresignada, a defesa interpôs recurso perante o Tribunal de origem, que negou provimento ao apelo.
+No presente writ, a defesa busca a declaração da extinção da punibilidade do paciente pelo cumprimento integral da pena, com a consequente revogação da prisão decretada.
+Afirma que, conforme a denúncia, o réu foi preso em flagrante em 12/3/2022, estando encarcerado desde este dia; "ou seja, o tempo que o Paciente está preso já ultrapassou o tempo de prisão imposto na sentença penal condenatória em regime fechado" (e-STJ fl. 5).
+Pondera que (e-STJ fls. 6/7):
+A quantidade da pena imposta, bem como as características do crime (rudimentar e simples, sem violência ou grave ameaça), por si sós, justificaria a imposição de regime menos gravoso e a fundamentação esboçada pela autoridade coatora - apenas a afirmação de que o Paciente é reincidente e possui circunstâncias judiciais desfavoráveis - se afigurou inidônea para ainda justificar o regime fechado, numa clara violação da proporcionalidade relativa ao fato, a pena e o seu regime de execução.
+A autoridade coatora, ainda, deixou de aplicar a detração quando da prolação do acórdão, instituto previsto no art. 387, § 2º do Código de Processo Penal.
+Ora, Exas., Alexandre encontra-se preso há 01 ano, 04 meses e 28 dias. Tal fato configura patente constrangimento ilegal em razão de não ter sido aplicada a detração e declarada a extinção da punibilidade em razão do cumprimento integral da pena.
+Acrescenta que, embora o STF já tenha se posicionado sobre a possibilidade de se extinguir a punibilidade do apenado apenas após o pagamento da multa, tal situação só ocorre quando o condenado possui condições financeiras de realizar o adimplemento da pena acessória, o que não é o caso dos autos, em que o paciente é hipossuficiente, assistido pela Defensoria Pública.
+Afirma que " q uando do julgamento dos REsps 1.785.861/SP e 1.785.383/SP, representativos da controvérsia, fixou-se a tese de que "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo con denado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade" (tema 931 - grifos acrescidos)" (e-STJ fl. 9).
+Requer, em liminar, que seja expedido o alvará de soltura, com a imediata concessão de liberdade ao paciente. No mérito, pugna "seja concedida a ordem liminarmente para que seja reconhecida e declarada a extinção da punibilidade do Paciente, com a expedição de Alvará de Soltura, tendo em vista o integral cumprimento da pena corporal e, ao final, seja concedida a ordem para, confirmando-se a liminar, se extinguir a punibilidade do Paciente" (e-STJ fl. 14).
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo não conhecimento do remédio constitucional.
+É o relatório.
+Decido.
+A matéria a ser analisada cinge-se à possibilidade de se condicionar a extinção de punibilidade quando o apenado, após integral cumprimento da pena privativa de liberdade, não adimple a pena de multa fixada.
+No entanto, verifico que da questão não pode conhecer esta Casa, diante da falta de manifestação do Tribunal de origem sobre o tema.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016. p. 2470).
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.  ..
+(HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/08/2016.)
+Tal o contexto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
