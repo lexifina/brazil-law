@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "c", da Constituição) contra acórdão assim ementado:
+IPTU - Exercícios de 1997 a 2001 - Prescrição intercorrente - Inocorrência de desídia pela Fazenda Pública - Falta de abandono processual por mais de seis anos (um ano de suspensão processual, mais cinco anos do prazo prescricional tributário) - Inteligência do art. 40 da Lei nº 6.830/80 - Precedente assentado pelo STJ no julgamento do REsp Repetitivo nº 1.340.553/RS - RECURSO DESPROVIDO.
+Os Aclaratórios foram rejeitados (fls. 261-263, e-STJ).
+Em seu Recurso Especial, o agravante aponta divergência jurisprudencial e violação dos arts. 174, parágrafo único, I, do CTN; 72, II, 257, IV e 278 do CPC e 40, § 4º, da LEF. Aduz:
+In casu, a ausência de nomeação de curador especial tornou absolutamente nula a citação por edital ocorrida em 29.10.2003, sendo certo que o único evento apto a interromper a prescrição do artigo 174 do CTN foi a penhora do bem imóvel em nome do devedor em 14.04.2005, cuja citação igualmente se deu por edital sem a nomeação de curador especial.
+Sem contrarrazões.
+O juízo de admissibilidade negativo (fls. 266-267, e-STJ) deu ensejo à interposição do presente Agravo.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 24.7.2023.
+Não merece prosperar a irresignação.
+Acerca da violação dos arts. 174, parágrafo único, I, do CTN e 40 da LEF, verifica-se que a irresignação do recorrente, no sentido de que os créditos tributários perseguidos pela Fazenda encontram-se fulminados pela prescrição, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu:
+Trata-se de execução fiscal ajuizada em 13/09/2002 para cobrança de IPTU dos exercícios de 1997 a 2002. O despacho citatório deu-se em 19/09/2002. A carta citatória foi expedida em 14/10/2002. Com o retorno negativo do AR a Municipalidade requereu a expedição de mandado em 13/03/2003, medida cumprida em 29/07/2003 (fls. 33), certificando a Oficiala de Justiça que o executado "provavelmente foi morador do imóvel, pois ainda chegam correspondências em seu nome". Ante as diligencias negativas o Município requereu a citação por edital em 20/10/2003. Em 25/03/2004 foram expedidos ofícios ao Ciretran e CRI (fls. 42) e em 04/06/2004 requereu-se a penhora do imóvel (fls. 55), medida deferida em 02/09/2004 (fls. 57). Visando a localização do executado fora expedido ofício à DRF (fls. 60 - em 25/11/2004). O termo de penhora fora lavrado em 14/04/2005 (fls. 72), seguindo-se diligencias para intimação (fls. 81/ 86/92/94). Em 07/12/2007 a Municipalidade requereu a certidão de inteiro teor da penhora, expedida em 10/06/201 1, registrada no sistema Arisp, medida cumprida em 22/08/2017 (fls. 116), manifestando-se o Município pela avaliação do imóvel em 08/02/2018 (fls. 117/118).
+Com relação a citação, verifica-se que a mesma se deu por edital, ante as diligencias anteriormente empreendidas terem se verificado infrutíferas.
+Como sabido, essa modalidade é permita quando as tentativas de citação pessoal restarem infrutíferas, exatamente como verificado nesses autos. Neste sentido prevê o art. 256 do CPC e a súmula 414, STJ.
+Com relação à prescrição intercorrente, temos que não transcorreu lapso temporal adequado à consumação.
+Com efeito, as modalidades de prescrição ordinária e intercorrente não se confundem, pois esta se consuma quando aquela é interrompida e volta a correr no curso do processo por prazo idêntico. A prescrição intercorrente, assim, nada mais é do que uma espécie do gênero prescrição que ocorre em razão de longa inércia do titular do direito na condução do processo, e isso porque a ninguém é dado eternizar o deslinde da demanda por pura desídia, mesmo as execuções fiscais propostas pela Fazenda Pública. Acerca da aplicação do art. 40, par. 4º, da Lei nº 6.830/80, o E. STJ já se manifestou em recente julgado submetido ao rito dos recursos repetitivos, do qual se destaca a seguinte tese, firmada na ocasião:
+(..)
+O prazo in albis a ser considerado, portanto, é de seis anos: um ano de suspensão processual, mais os cincos anos relativos à prescrição ordinária, iniciando-se automaticamente o prazo prescricional após a suspensão de um ano;
+(..)
+Como se infere do exposto alhures, a Municipalidade atua diligentemente na perseguição de seu crédito, não ocorrendo, portanto, a prescrição intercorrente, já que as parcas interrupções que se deram ocorreram em razão da demora no cumprimento das determinações do Juízo, sem que fosse dada vista dos autos à Fazenda.
+Quanto a alegação de necessidade de nomeação de curador especial, trata-se de inovação processual não permitida (fls. 140/150).
+Tem-se, assim, que os argumentos utilizados pela parte agravante somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática. Conforme dispõe a Súmula 7/STJ, entretanto, não cabe a esta Corte reavaliar o conjunto probatório dos autos a fim de alcançar conclusão diversa da do Tribunal de origem.
+Nessa esteira:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. INEXISTÊNCIA. EXECUÇÃO FISCAL. ICMS. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AUSÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98/STJ.
+(..)
+2. O STJ, no julgamento do REsp 1.340.553/RS, submetido ao rito dos recursos repetitivos, firmou a compreensão de que o procedimento previsto no art. 40 da Lei 6.830/1980 se inicia automaticamente quando não houver a citação de qualquer devedor por qualquer meio válido e/ou quando não forem encontrados bens sobre os quais possa recair a penhora, não cabendo, portanto, ao juiz ou à Fazenda Pública a escolha do melhor momento para o início dos prazos de suspensão de um ano e da prescrição quinquenal.
+3. Além disso, o Tribunal de origem, ao dirimir a controvérsia, lançou os seguintes fundamentos: "Neste contexto, caracterizada a desídia da Fazenda em promover atos processuais capazes de descaracterizar a sua mora processual por prazo superior a cinco anos, a prescrição intercorrente se impõe pela só existência das condições do art. 202, § único, do Código Civil Brasileiro" (fls. 109-111, e-STJ).
+4. Verifica-se que o órgão julgador concluiu que a demora na tramitação do feito deve ser imputada à parte exequente. Nesse panorama, a controvérsia não pode ser reexaminada em Recurso Especial, porquanto o afastamento da alegação de inércia da parte para impulsionar o processo implica revisão dos aspectos fáticos e circunstanciais da causa, o que é vedado nos termos da Súmula 7 do Superior Tribunal de Justiça.
+(..) 6. Recurso Especial parcialmente conhecido e, nessa parte, provido, apenas afastar a multa aplicada com amparo no art. 1.026, § 2º, do CPC.
+(REsp 1.837.380/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18/11/2019.)
+Confiram-se ainda: AgInt no AREsp 814.840/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13.10.2016; e AgInt no REsp 1.936.032/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2.9.2021.
+Quanto à necessidade de nomeação de curador, o Tribunal a quo deixou de apreciar a matéria, porquanto "trata-se de inovação processual não permitida" (fl. 199, e-STJ).
+Logo, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que as teses recursais contidas nos arts. 72, II, 257, IV, e 278 do CPC não foram apreciadas pelo Tribunal a quo pelo viés pretendido pelo agravante, não obstante terem sido opostos Embargos de Declaração para tal fim. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211 do STJ.
+Assim, à mingua de prequestionamento, inviável a apreciação das aludidas teses recursais.
+Por fim, prejudicada a análise de divergência jurisprudencial quanto às matérias a respeito das quais a tese sustentada foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional ou sobre a qual houve a aplicação de óbice sumular.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
