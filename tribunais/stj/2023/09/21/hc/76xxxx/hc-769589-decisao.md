@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JORGE MARQUES GUIMARAES contra v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, nos autos da apelação criminal n. 0011785-53.2020.8.19.0001.
+Depreende-se dos autos que o paciente foi condenado à pena de 13 anos, 4 meses e 22 dias de reclusão e 435 dias-multa, em regime inicial fechado; e 8 meses e 12 dias de detenção, pela prática dos crimes descritos nos artigos art. 157, §2º, incisos II e V, c/c o artigo 180 e art. 329 todos do Código Penal, e artigo 14 da Lei n. 10.826/03 (fls. 26-59).
+No julgamento da apelação, o eg. Tribunal de origem negou provimento ao recurso da defesa, mantendo inalterada a sentença condenatória (fls. 78-86).
+Neste writ, o impetrante aponta constrangimento ilegal quanto a dosimetria da pena imposta ao paciente, pois a atenuante da confissão espontânea incide na espécie.
+Defende a compensação integral entre a atenuante da confissão espontânea e a agravante da reincidência.
+Por fim, sustenta a ilegalidade na terceira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a fração das majorantes do crime de roubo.
+Requer, ao final, o redimensionamento da reprimenda.
+Informações, às fls. 113-116 e 125-142.
+O Ministério Público Federal, às fls. 144-147, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Segundo relatado, busca-se na presente impetração o redimensionamento da reprimenda do paciente na segunda e terceira fases da dosimetria.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, no que tange à segunda fase da dosimetria, a confissão, ainda que parcial, ou retratada posteriormente em sede judicial, quando utilizada como elemento de convicção do Juízo, como no presente caso, deve ser considerada como atenuante da pena.
+É o que se verifica do seguinte trecho do acórdão recorrido, in verbis: "o acusado Jorge, em seu interrogatório asseverou que realmente eu participei desse ocorrido; que foi devido a necessidade em casa; que eu estava tentando trabalhar, mas estava no prejuízo; que eu recebi uma proposta de receber um dinheiro para poder transportar uma carga ilícita, sabendo eu que estava ilícita; que não fui eu que praticou o furto;que eu estava presente, mas não fui eu que fiz nenhuma subtração; que estava ali apenas para transportar a carga para um local combinado" (fl. 104).
+De fato, nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, "a teor do entendimento da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação" (AgRg no HC n. 695.471/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 2/3/2022, grifei).
+Ademais, cumpre registrar que a Terceira Seção deste Superior Tribunal de Justiça, no julgamento do habeas corpus n. 365.963/SP, em 11/10/2017, firmou entendimento da "possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multireincidência".
+Desse modo, é possível a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+Por fim, registre-se ainda que, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula n. 443 do STJ).
+Na presente hipótese, constata-se que as instâncias ordinárias, na terceira fase da dosimetria, majoraram a pena em 3/8, devido a presença das majorantes previstas no art. 157, § 2º, incisos II e V, do Código Penal, sem expor fundamentação concreta a respeito dos elementos de fato do caso que justificassem o acúmulo das causas de aumento (fl. 80).
+Evidenciado, in casu, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos e 6 meses de reclusão e 97 dias-multa (fl. 53).
+Na segunda fase, compensada a agravante da reincidência com a atenuante da confissão espontânea, exclui-se o acréscimo de 1/6 aplicado pelas instâncias de origem, permanecendo a reprimenda inalterada.
+Na terceira fase, diante da verificação da existência de duas causas de aumento (art. 157, § 2º, incisos II e V, do Código Penal), aumento a pena em apenas 1/3, conforme o enunciado da Súmula n. 443 do STJ e o disposto no art. 68, parágrafo único, do CP, perfazendo a pena em 7 anos e 4 meses de reclusão e 129 dias-multa.
+Por fim, presente o concurso material de crimes (resistência, receptação e porte ilegal de arma de fogo), opera-se o somatório das penas, alcançando o total definitivo de 11 anos, 9 meses e 15 dias de reclusão e 8 meses e 12 dias de detenção, mais o pagamento de 351 dias-multa (fl. 57).
+Ante o exposto, concedo a ordem de habeas corpus, para fins de redimensionar a pena do paciente em 11 anos, 9 meses e 15 dias de reclusão e 8 meses e 12 dias de detenção, mais o pagamento de 351 dias-multa, mantidos os demais termos da condenação.
+Publique-se e Intime-se.
+EMENTA
