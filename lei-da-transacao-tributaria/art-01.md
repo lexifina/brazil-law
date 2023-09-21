@@ -5,5 +5,5 @@ Art. 1º Esta Lei estabelece os requisitos e as condições para que a União, a
 § 4º Aplica-se o disposto nesta Lei:
 I - aos créditos tributários sob a administração da Secretaria Especial da Receita Federal do Brasil do Ministério da Economia;
 II - à dívida ativa e aos tributos da União, cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral da Fazenda Nacional, nos termos do art. 12 da Lei Complementar nº 73, de 10 de fevereiro de 1993; e
-III - no que couber, à dívida ativa das autarquias e das fundações públicas federais, cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal, e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, nos termos de ato do Advogado-Geral da União e sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997.
+III - no que couber, à dívida ativa das autarquias e das fundações públicas federais cujas inscrição, cobrança e representação incumbam à Procuradoria-Geral Federal ou à Procuradoria-Geral do Banco Central e aos créditos cuja cobrança seja competência da Procuradoria-Geral da União, nos termos de ato do Advogado-Geral da União e sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997.
 § 5º A transação de créditos de natureza tributária será realizada nos termos do art. 171 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional).

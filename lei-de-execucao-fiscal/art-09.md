@@ -9,3 +9,4 @@ IV - indicar à penhora bens oferecidos por terceiros e aceitos pela Fazenda Pú
 § 4º - Somente o depósito em dinheiro, na forma do artigo 32, faz cessar a responsabilidade pela atualização monetária e juros de mora.
 § 5º - A fiança bancária prevista no inciso II obedecerá às condições pré-estabelecidas pelo Conselho Monetário Nacional.
 § 6º - O executado poderá pagar parcela da dívida, que julgar incontroversa, e garantir a execução do saldo devedor.
+§ 7º As garantias apresentadas na forma do inciso II do caput deste artigo somente serão liquidadas, no todo ou parcialmente, após o trânsito em julgado de decisão de mérito em desfavor do contribuinte, vedada a sua liquidação antecipada.
