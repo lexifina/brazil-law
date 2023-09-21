@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. DESFAVORECIMENTO DA CULPABILIDADE E DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. CRITÉRIO DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. AGRAVO IMPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+2. Com efeito, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, o que se verifica na espécie, já que o crime foi cometido contra adolescente que se dirigia ao colégio e mediante "excessiva violência empregada contra a vítima, que levou dois socos na face, os quais resultaram nas seguintes lesões descritas no laudo de lesão corporal anexado aos presentes autos (Laudo nº 2021.04.001793-TRA): "Edema traumático em região bucinadora esquerda; equimoses de coloração avermelhada em mucosa de lábio superior por contragolpe" (e-STJ fl. 253). Tais situações desbordam do tipo e revelam maior desvalor na conduta perpetrada.
+3. Outrossim, "a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa das vetoriais previstas no art. 59 do CP." (AgRg no AREsp n. 2.045.906/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023).
+4. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MIKE GADIEL SOUZA contra decisão que conheceu do agravo e negou provimento ao recurso especial, por entender fundamentados o aumento na primeira fase, quanto ao crime de roubo, pela culpabilidade e pelas circunstâncias, mantendo, por conseguinte, a pena de 5 anos, 2 meses e 15 dias de reclusão, a ser cumprida em regime inicial semiaberto (e-STJ fls. 331/333).
+Nas razões do presente recurso, o recorrente insiste nas teses recursais de que é inidôneo e desproporcional o aumento na primeira fase da dosimetria.
+Assim, pleiteia a reconsideração da decisão ou o julgamento do recurso pela Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO DOSIMETRIA DA PENA. REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. DESFAVORECIMENTO DA CULPABILIDADE E DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. CRITÉRIO DE AUMENTO. DISCRICIONARIEDADE DO JULGADOR. AGRAVO IMPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+2. Com efeito, é garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, o que se verifica na espécie, já que o crime foi cometido contra adolescente que se dirigia ao colégio e mediante "excessiva violência empregada contra a vítima, que levou dois socos na face, os quais resultaram nas seguintes lesões descritas no laudo de lesão corporal anexado aos presentes autos (Laudo nº 2021.04.001793-TRA): "Edema traumático em região bucinadora esquerda; equimoses de coloração avermelhada em mucosa de lábio superior por contragolpe" (e-STJ fl. 253). Tais situações desbordam do tipo e revelam maior desvalor na conduta perpetrada.
+3. Outrossim, "a jurisprudência do STJ não impõe ao magistrado a adoção de uma fração específica, aplicável a todos os casos, a ser utilizada na valoração negativa das vetoriais previstas no art. 59 do CP." (AgRg no AREsp n. 2.045.906/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023).
+4. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, que deve ser integralmente mantida, in verbis (e-STJ fls. 331/333):
+Acerca da exasperação da pena-base, o Tribunal a quo assim pontuou (e-STJ fls. 253/254, grifei):
+A sentença fixou a pena-base em 06 (seis) anos e 03 (três) meses de reclusão, além de 20 (vinte) dias-multa, valorando negativamente três circunstâncias judiciais, a saber, a culpabilidade, as circunstâncias e consequências do crime.
+Sobre a culpabilidade, merece ser mantida a decisão, haja vista que excede aos limites do tipo, o que se infere ante a resistência da vítima e a presença de populares, ainda levou o bem da vítima adolescente, de apenas 15 anos de idade que estava indo ao colégio, denotando maior periculosidade do agente, o que justifica o aumento da pena-base.
+No que tange ao mencionado vetor, constata-se que foi apresentada justificativa idônea e suficiente para valorá-la negativamente, pois, de fato, restou comprovado que a culpabilidade do agente foi intensa, o que justifica a análise desfavorável da referida circunstância judicial e viabiliza a exasperação da reprimenda basilar.
+No que diz respeito às circunstâncias e consequência do crime foi destacada a excessiva violência empregada contra a vítima, que levou dois socos na face, os quais resultaram nas seguintes lesões descritas no laudo de lesão corporal anexado aos presentes autos (Laudo nº 2021.04.001793-TRA): "Edema traumático em região bucinadora esquerda; equimoses de coloração avermelhada em mucosa de lábio superior por contragolpe".
+Nesse contexto, a violência excessiva empregada na prática delitiva justifica o desvalor atribuído às referidas circunstâncias judiciais.
+Em sendo assim, havendo vetores justificadamente desfavoráveis ao réu, não deve a pena-base ser reduzida para o mínimo legal, como pleiteia a Defesa, eis que a existência de circunstância judicial negativa possibilita ao magistrado afastar-se do patamar mínimo no momento de fixação da pena-base.
+Pois bem. Para avaliação da culpabilidade, "deve-se aferir o maior ou menor índice de reprovabilidade do agente pelo fato criminoso praticado, não só em razão de suas condições pessoais, como também em vista da situação de fato em que ocorreu a indigitada prática delituosa, sempre levando em conta a conduta que era exigível do agente, na situação em que o fato ocorreu" (DELMANTO, Celso et al. Código Penal Comentado. 8. ed. São Paulo: Saraiva, 2010, p. 273).
+No caso, em relação a todos os delitos, tenho que o crime foi cometido contra adolescente, que possui menor capacidade de defesa e que, ademais, dirigia-se ao colégio, configurando situações que desbordam do tipo e revelam maior reprovabilidade da conduta do recorrente.
+No que tange às circunstâncias do delito, imperioso ao julgador apreciar, com base em fatos concretos, o lugar do crime, o tempo de sua duração, a atitude assumida pelo agente no decorrer da consumação da infração penal, a mecânica delitiva empregada, entre outros elementos indicativos de uma maior censurabilidade da conduta.
+Isso aqui ocorreu.
+Reparem: ao citar os motivos para desfavorecer aquele vetorial, a instância ordinária relatou que a vítima recebeu dois socos na face, o que evidencia violência excessiva, acima do normal ao tipo, e tem o condão de desfavorecer essa circunstância.
+Por fim, no que diz respeito às consequências, foram causadas lesões corporais na vítima, descritas em laudo, e que também desbordam do crime, de modo que esse vetor deve ser considerado desfavorável ao réu.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
