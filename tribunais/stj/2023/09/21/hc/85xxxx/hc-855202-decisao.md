@@ -1,0 +1,16 @@
+DECISÃO
+O paciente alega sofrer coação ilegal em face de liminar de Desembargador do Tribunal de Justiça do Estado de São Paulo.
+A defesa busca a superação da Súmula n. 691 do STF e a progressão do reeducando ao regime aberto, por considerar que estão preenchidos os requisitos objetivo e subjetivo do benefício. Assinala que o exame criminológico também consignou informações positivas sobre a conduta do condenado e é, portanto, inconclusivo.
+Decido.
+Segundo o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+O remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência dos órgãos jurisdicionais.
+Admite-se o excepcional afastamento do rigor da Súmula n. 691 do STF se evidenciada, de plano, intolerável violação ao direito de liberdade do paciente, a demandar solução urgente, o que não diviso.
+O Desembargador indeferiu a liminar, na origem, por não identificar a plausibilidade jurídica do pedido.
+Deveras, o Juiz indeferiu a progressão ao regime aberto com lastro em "acurada análise do parecer emitido pela equipe técnica de avaliação - exame psicossocial", o qual concluiu que, não mostra aconselhável a concessão do benefício ao apenado. O Magistrado destacou "importantes observações desfavoráveis ao acusado, em especial o discurso alternado entre fidedigno e de conveniência, e a "ausência de autocrítica em relação aos delitos cometidos", tanto que "o parecer da Comissão Técnica foi contrário à concessão da progressão" (fl. 96).
+A decisão não é patentemente ilegal. Também a teor dos julgados desta Corte, "Uma vez realizado o exame criminológico, o Magistrado da Execução e a Corte Estadual devem abalizar suas decisões, em face do livre convencimento motivado, com base nos relatos e conclusões constantes dos laudos social e psicológico elaborados por profissionais habilitados" (AgRg no HC n. 810.754/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe de 14/4/2023.)
+O indeferimento da progressão de regime está lastreado "no resultado do exame criminológico desfavorável do apenado, configurando a ausência do requisito subjetivo." (AgRg no HC 692.636/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 25/03/2022).
+O "indeferimento do benefício foi devidamente fundamentado pelo Juízo de origem,  ..  em razão do não preenchimento do requisito subjetivo, com fundamento no resultado desfavorável do exame criminológico realizado, o que, decerto, demonstra que o Agravante não se encontra apto a vivenciar regime prisional menos gravoso" (AgRg no HC 700.618/AL, Rel. Ministra Laurita Vaz, 6ª T., DJe 17/12/2021).
+Nesse contexto, não é possível superar a Súmula n. 691 do STF e não está inaugurada a competência desta Corte para o deslinde do incidente da execução, em indevida supressão de instância. A jurisdição ordinária está pendente e o órgão judicial atua para prestá-la, na forma da lei.
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro no art. 210 do RISTJ e na Súmula n. 691 do STF.
+Publique-se e intimem-se.
+EMENTA
