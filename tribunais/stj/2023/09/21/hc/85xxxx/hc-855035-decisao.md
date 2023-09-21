@@ -1,0 +1,43 @@
+DECISÃO
+EDERSON FAGUNDES alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n.
+Neste writ, a defesa aponta violação dos arts. 59 e 68 do CP, ao argumento de que a adoção de fração diferente de 1/6 para aumento da pena na dosimetria exige fundamentação específica, o que não ocorreu no presente caso. Pleiteia o redimensionamento da sanção.
+Decido.
+I. Contextualização
+A Corte estadual reformou a dosimetria da pena nos seguintes termos:
+ ..
+Como se verifica, a pena-base foi estabelecida em 05 anos de reclusão, ou seja, 01 ano acima do mínimo legal, considerando negativas a personalidade, as circunstâncias do crime e a culpabilidade.
+Quanto à personalidade, em que apontada como "agressiva e violenta, praticando crimes contra mulheres", embora seja a vítima do sexo feminino, nenhuma circunstância concreta foi apontada na sentença a comprovar ter sido o gênero dessa, que informou que, em nenhum momento, houve contato físico pelo assaltante, relevante para o cometimento do crime, pelo que, afasto a negativação. Do mesmo modo, a não recuperação dos bens, por si só, é circunstância comum à espécie e não justifica, também, o aumento da pena.
+Todavia, a circunstância de ter o réu praticado o crime enquanto cumpria pena em prisão domiciliar, com tornozeleira eletrônica, em desrespeito ao benefício que lhe fora confiado, aumenta, em muito, a reprovabilidade da conduta, justificando não só a nota negativa dada à culpabilidade, como o aumento operado na basilar, em 1/4, não se cogitando, portanto, de redução.
+De consignar, possível o acréscimo de fundamentos ou a utilização de fundamentos diversos, mesmo em recurso exclusivo da defesa, na apreciação das circunstâncias judiciais do art. 59 do Código Penal, para manter ou reduzir a pena imposta na sentença ou justificar o regime inicial fixado, em face do efeito devolutivo amplo da apelação, desde que não haja agravamento da pena, o que não configura reformatio in pejus, conforme entendimento, há muito, firmado no Superior Tribunal de Justiça:
+ ..
+Na segunda fase, reconhecida a agravante da reincidência, e sendo essa decorrente de quatro condenações definitivas específicas em crimes de roubo majorado (017/2.15.0002028-3,017/2.15.0002889-6, 017/2.15.0004538-3 e 017/2.15.0005634-2) e outra em crime de furto(017/2.12.0001991-3), módico o aumento operado na sentença, em, apenas, 1/2, eis que a multirreincidência específica, por sua maior reprovabilidade, justificaria um aumento muito maior, resultando a pena provisória mantida em 07 anos e 06 meses de reclusão.
+A seguir, na terceira fase, pela majorante do emprego de arma branca (faca),devidamente reconhecida, foi a pena aumentada em 1/4, abaixo da fração mínima legal, o que não se altera em recurso exclusivo da defesa, resultando em 09 (nove) anos, 04 (quatro) meses e 15(quinze) dias de reclusão, que, com o afastamento do aumento operado pelo concurso formal diante do reconhecimento de crime único, vai tornada definitiva, na ausência de outras causas modificadoras.
+Nada a alterar na pena de multa, adequadamente, estabelecida em 95 dias-multa, na razão mínima legal, e no regime inicial fechado fixado, haja vista a multirreincidência específica e a circunstância judicial negativa, na forma do artigo 33, §§2º, alínea "a", e 3º do Código Penal.  ..  (fls. 11-30)
+II. Violação do art. 59 do CP
+A ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade. Deveras:
+ ..  a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático" (AgRg no HC n. 603.620/MS, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 9/10/2020).  ..
+(AgRg no REsp n. 1.921.673/RS, relator Ministro Joel Ilan Paciornik, 5ª T., DJe de 14/2/2022).
+ ..
+8. Nos termos da remansosa jurisprudência desta Corte, "é possível até mesmo que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (AgRg no REsp 143.071/AM, Rel. Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 6/5/2015).
+9. Não há direito subjetivo do réu à aplicação do quantum de aumento de 1/6 sobre a pena mínima, na primeira fase da dosimetria da pena, para cada circunstância judicial valorada negativamente. Afinal, embora tal fração corresponda a um dos parâmetros aceitos por este STJ, não é obrigatória sua aplicação, até porque a fixação da pena base não precisa seguir um critério matemático rígido.
+10. Agravo desprovido.
+(AgRg no HC n. 788.363/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/4/2023.)
+Considerando o silêncio do legislador, não há direito do subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas ou mesmo outra fração. Nada impede que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto.
+A instância ordinária, conforme o critério de discricionariedade, fixou a pena-base ante o fato de "o réu  ter  praticado o crime enquanto cumpria pena em prisão domiciliar, com tornozeleira eletrônica, em desrespeito ao benefício que lhe fora confiado, aumenta, em muito, a reprovabilidade da conduta, justificando não só a nota negativa dada à culpabilidade, como o aumento operado na basilar, em 1/4, não se cogitando, portanto, de redução".
+A fundamentação revela desvalor da ação inusual e excepcional, justificando, assim, pelo critério da discricionariedade, a majoração em 1/4.
+Nesse contexto, não se divisa o direito líquido e certo à aplicação, na primeira fase da dosimetria, da fração geral de 1/6 de aumento, pois motivado adequadamente o maior peso atribuído a circunstância negativada.
+III. Violação do art. 68 do CP
+A defesa aduziu não haver fundamentação idônea a justificar a adoção de fração diferente de 1/6 na segunda etapa da dosimetria, e destacou que a reincidência específica não pode motivar o aumento distinto do recomendado pela jurisprudência.
+Todavia, os elementos dos autos indicam que o acórdão objurgado vai ao encontro da jurisprudência desta Corte Superior, segundo a qual, na segunda etapa da dosimetria da pena, a majoração da pena acima de 1/6 demanda fundamentação concreta, sendo a multirreincidência motivo idôneo para tal.
+Nesse sentido:
+ ..
+4. Embora não exista previsão legal estabelecendo frações mínimas e máximas de elevação da pena em razão da incidência das circunstâncias agravantes, o incremento da sanção em fração superior à usual de 1/6 exige fundamentação concreta. Ademais, fixou-se o entendimento no sentido de que a multirreincidência pode justificar a exasperação da pena, na segunda fase da dosimetria acima do patamar de 1/6. (AgRg no HC n. 736.175/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 31/5/2022), tal como ocorre no caso sob exame.
+5. Agravo regimental não provido.
+(AgRg no HC n. 817.579/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/6/2023)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DUPLA REINCIDÊNCIA. QUANTUM DE AUMENTO. 1/3 (UM TERÇO). POSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É consabido que o Código Penal - CP não estabeleceu o quantum de aumento para as circunstâncias agravantes genéricas, dentre elas a reincidência (art. 61, I, do Código Penal), cabendo a escolha ao juiz, em decisão fundamentada. Usualmente, utiliza-se a fração de 1/6, permitindo-se a sua elevação quando há dupla ou multirreincidência. No caso, a agravante da reincidência foi aplicada no patamar de 1/3, tendo em vista a existência de duas condenações anteriores transitadas em julgado, não havendo, assim, constrangimento ilegal à liberdade do ora agravante.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 672.457/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 6/5/2022, destaquei).
+À vista do exposto, denego a ordem in limine.
+Publique-se e intimem-se.
+EMENTA
