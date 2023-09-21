@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+MANDADO DE SEGURANÇA. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. LIMITAÇÃO DE DEDUÇÃO. DECRETO Nº 10.854, DE 2021. LEI Nº 6.321, DE 1976. ILEGALIDADE.
+Os Embargos de Declaração não foram providos.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação, em preliminar, do art. 1.022, II, do CPC/2015; e, no mérito, dos arts. 1º e 2º da Lei 6.321/1976 e 111, I, do CTN.
+Contrarrazões apresentadas às fls. 6.800-6.803, e-STJ.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 6.834-6.839, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.9.2023.
+A decisão de inadmissibilidade adodou os seguintes fundamentos:
+Sustenta a parte recorrente que o acórdão contrariou o disposto nos artigos que indica.
+Em que pese a alegação de afronta ao art. 1.022 do Novo CPC, tendo em conta a ausência de suprimento da omissão indicada nos embargos declaratórios - ainda que opostos para efeito de prequestionamento - cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade, tornando despiciendo o exame da violação, em tese, ao apontado dispositivo infraconstitucional.
+A pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 (não se conhece do recurso especial pela divergência, quando a orientação do tribunal se  rmou no mesmo sentido da decisão recorrida), que se aplica também ao permissivo do artigo 105, inciso III, alínea a, da Constituição Federal.
+Da análise da presente insurgência conclui-se que a parte interessada não impugnou especificamente todos os fundamentos da decisão de inadmissão do REsp, sobretudo no que tange à ausência de afronta ao art. 1.022 do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. INEXIGIBILIDADE DE DÉBITOS. DANOS MORAIS. PEDIDOS PROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CABIMENTO DE RESP ALEGANDO VIOLAÇÃO DE NORMA CONSTITUCIONAL.
+I - Na origem, trata-se de ação ordinária em que se pleiteia a declaração de inexigibilidade de débitos relativos a consumo irregular de energia elétrica, bem como reparação por danos morais. Na sentença, julgaram-se os pedidos procedentes. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base no não cabimento de REsp por ofensa a resolução, na ausência de afronta a dispositivo legal, no não cabimento de REsp alegando violação de norma constitucional e na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente ao não cabimento de REsp alegando violação de norma constitucional.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+(AgInt no AREsp 2.051.373/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 14/9/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. INDENIZAÇÃO POR DANO MORAL. REGISTRO DE FALTA EM DATA QUE DOOU SANGUE. PEDIDO IMPROCEDENTE. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária em que o agravante pleiteia indenização por dano moral após ter sido apontada sua falta no registro funcional do servidor em data que alega ter doado sangue. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Negou-se seguimento ao recurso especial com base nos óbices referentes ao não cabimento de REsp alegando violação de norma constitucional e a ausência de indicação de artigo de lei federal violado - Súmula n. 284/STF. Agravo nos próprios autos que não impugna os fundamentos da decisão recorrida.
+III - São insuficientes para considerar como impugnação aos fundamentos da decisão que nega seguimento ao recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+IV - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+V - Agravo interno improvido.
+(AgInt no AREsp 1.438.717/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 23/8/2019.)
+Na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que esta se aplica para não se conhecer de todo o recurso nas hipóteses em que o recorrente impugna apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à parte não impugnada.
+Os referidos EAREsps receberam a seguinte ementa:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, EAREsp 746.775/PR e EAREsp 831.326/SP, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018)
+Por tudo isso, nos termos do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015, não conheço do Agravo em Recurso Especial.
+Publique-se. Intimem-se.
+EMENTA
