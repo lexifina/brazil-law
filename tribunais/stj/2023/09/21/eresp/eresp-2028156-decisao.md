@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por NORTE ENERGIA S.A. contra o acórdão da Quarta Turma do Superior Tribunal de Justiça assim ementado:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A fundamentação exposta no apelo extremo é suficiente para compreensão da controvérsia, não havendo falar em incidência da Súmula 284/STF na hipótese.
+2. O Tribunal a quo se manifestou acerca da matéria inserta no dispositivo legal apontado como violado, o que se mostra suficiente para atender ao requisito do prequestionamento, sendo desnecessária a menção expressa ao número do artigo de lei. Precedentes.
+3. "O indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC" (REsp n. 2.013.351/PA, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/9/2022, DJe de 19/9/2022).
+4. Agravo interno desprovido" (fl. 895 e-STJ).
+Em suas razões, a embargante apontou a existência de divergência entre o acórdão embargado e julgado da Segunda Turma (REsp nº 1.743.279/CE) do Superior Tribunal de Justiça por entender que é inviável a emenda petição inicial, após a apresentação de contestação e o saneamento do processo, quando essa providência importar alteração do pedido ou da causa de pedir.
+Ao final, requereu o acolhimento do apelo para que se negue provimento ao recurso especial.
+É o relatório.
+DECIDO.
+A irresignação não merece acolhida.
+Nos termos do que dispõem os artigos 1.043 do Código de Processo Civil e 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência, recurso cujo objetivo é a uniformização da jurisprudência desta Corte, com a eliminação de dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+Para a configuração do dissídio, é imprescindível que se demonstre a similitude fática e jurídica entre os acórdãos em confronto, de acordo com os mencionados dispositivos.
+No caso, entretanto, a divergência afirmada pela embargante quanto à possibilidade de emenda à inicial após a apresentação de contestação não está configurada, haja vista não haver identidade fática e jurídica entre o julgado recorrido e o acórdão indicado como paradigma.
+A Quarta Turma apreciou recurso especial interposto em ação indenizatória ajuizada contra a Norte Energia S.A., na qual a causa de pedir se relacionava com suposto dano material causado à parte autora (pescadora artesanal) em virtude da possível diminuição da quantidade de peixes na região após a construção da Usina Hidrelétrica de Belo Monte.
+Ao julgar o apelo, a referida Turma, observando as peculiares circunstâncias do caso, aplicou entendimento consagrado pela Segunda Seção, segundo o qual
+"(..) o indeferimento da petição inicial, quer por força do não-preenchimento dos requisitos exigidos nos arts. 319 e 320 do CPC, quer pela verificação de defeitos e irregularidades capazes de dificultar o julgamento de mérito, reclama a concessão de prévia oportunidade de emenda pelo autor, nos termos do art. 321 do CPC" (REsp 2.013.351/PA, Relatora Ministra Nancy Andrighi, Segunda Seção, DJe de 19/9/2022).
+De outro lado, no REsp nº 1.743.279/CE, debateu-se acerca da interpretação a ser dada aos arts. 264 e 284 do Código de Processo Civil de 1973. O recurso apreciou a questão tendo por base a verificação da possibilidade de aplicação do princípio da instrumentalidade das formas para viabilizar o julgamento da ação rescisória, diante da inviabilidade de se analisar ampliativamente o pedido e a causa de pedir, uma vez que direcionados exclusivamente contra a sentença e não em face do acórdão que a substituiu na demanda originária.
+Bem se vê, portanto, que o precedente colacionado, por não se referir às mesmas circunstâncias fáticas e jurídicas, não infirma a orientação adotada pelo acórdão ora embargado.
+Nessa mesma linha, confiram-se, em casos similares, as decisões monocráticas: EREsp nº 2.031.056/PA, Ministro Mauro Campbell Marques, DJe de 1º/6/2023; EREsp nº 2.028.108/PA, Ministro Herman Benjamin, DJe de 31/5/2023; EREsp nº 2.013.147/PA, Ministro Raul Araújo, DJe de 3/5/2023; EREsp nº 2.029.616/PA, Ministro Francisco Falcão, DJe de 2/5/2023; EREsp nº 2.027.374/PA, Ministro Humberto Martins, DJe de 28/4/2023; EREsp nº 2.012.989/PA, Ministro Benedito Gonçalves, DJe de 26/4/2023; EREsp nº 2.025.898/PA, Rel. Ministra Maria Isabel Gallotti, DJe de 26/4/2023; e EREsp nº 2.027.091/PA, Ministro Og Fernandes, DJe de 25/4/2023.
+Também em casos análogos, os seguintes julgados da Corte Especial: AgInt nos EREsp nº 2.017.003/PA, Relator Ministro Humberto Martins, julgado em 8/8/2023, DJe de 14/8/2023, e AgInt nos EREsp nº 2.028.386/PA, Relator Ministro Og Fernandes, julgado em 8/8/2023, DJe de 14/8/2023.
+Ante o exposto, indefiro liminarmente os embargos de divergência, com fulcro nos arts. 34, XVIII, e 266-C do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
