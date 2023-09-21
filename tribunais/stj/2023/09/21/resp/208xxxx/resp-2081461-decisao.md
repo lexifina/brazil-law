@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+APELAÇÃO -- Execução fiscal. Sentença que, de oficio, extinguiu a ação por ausência de fundamentação legal no título . Descabimento . Mera irregularidade devidamente sanada pelo Município . Execução que deve prosseguir.
+Recurso provido.
+O recorrente alega violação do art. 2º, § 5º, III, da Lei 6.830/1980 e do art. 202 do CTN. Defende que a ausência de indicação da fundamentação legal na CDA constitui vício insanável, não sendo cabível a concessão de prazo para emenda ou substituição da CDA.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 4 de julho de 2023.
+O Tribunal de origem consignou que "A ausência de precisa fundamentação legal das obrigações não configura violação do art. artigo 2º § 5º da LEF, mas mera irregularidade, passível de correção, conforme se deduz do artigo 2º § 8% da LEF" (fl. 128, e-STJ).
+Tal entendimento destoa da orientação atual da jurisprudência do STJ, que se orienta no sentido de que a ausência de identificação da fundamentação legal na CDA não constitui simples vício formal.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPTU. AUSÊNCIA DE FUNDAMENTAÇÃO LEGAL NA CDA. VÍCIO INSANÁVEL. NULIDADE. NECESSIDADE DE ALTERAÇÃO DO LANÇAMENTO E/OU INSCRIÇÃO. SÚMULA 392/STJ.
+1. O Agravo Interno não procede.
+2. Como realçado anteriormente, o Recurso Especial prospera em parte. O Tribunal assim julgou (fls. 334-336/359, e-STJ, grifou-se): "Isso consignado, cumpre reconhecer que, de fato, a CDA que norteou a demanda executiva movida pela Municipalidade de São Bernardo do Campo padece, conquanto mencione as espécies tributárias acima referidas, do vício consistente na ausência de fundamentação legal específica das exações. (..) A única circunstancia em que tal emenda ou substituição é vedada pela jurisprudência é aquela em que essa atividade modificaria o próprio lançamento tributário. (..) No caso em tela, em que se trata de mera ausência de fundamentação legal, e não de fundamentação equivocada, resta configurado o erro formal de que fala a Súmula nº 392 do STJ, cuja correção não implica modificação do lançamento já feito, tornando possível a substituição da CDA, com o prosseguimento regular da demanda. (..) Assim decidido o litígio, não foram submetidas, ao regular contraditório, as matérias atinentes à ilegitimidade passiva da ora embargante e à ausência de fato gerador, insurgindo-se o ente público, como se extrai da peça encartada a fls. 172/187, tão somente, contra a declarada nulidade do título executivo. Diverso, destarte, não poderia ser o conteúdo do Acórdão proferido, senão o de analisar, detidamente, a questão relativa à nulidade da CDA inicialmente apresentada. Afirma a embargante, é verdade, que a noticiada invasão do imóvel tributado seria fato conhecível ".. a qualquer o tempo, por se tratar de matéria de ordem pública.. " (..). Desconsidera, entretanto, que o próprio Síndico Dativo da então Massa Falida de Interinvest Empreendimentos e Participações Ltda. postulou, no mês de junho de 2017, "a inclusão da falida INTERINVEST EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. no polo passivo, por ter o imóvel arrecado retornado ao seu patrimônio por ser a proprietária..".
+3. A questão relativa à perda da propriedade do imóvel teria sido suplantada, segundo o acórdão, pela conduta da própria parte que expressamente declarara que o imóvel invadido teria "retornado ao seu patrimônio". Esse fato, por si só, é capaz de resolver tanto a tese de ausência de fato gerador de IPTU como a de ilegitimidade passiva para pagá-lo.
+4. Também não procede a tese de omissão referente à nulidade da CDA, visto que o Tribunal de origem expressamente julgou o caso conforme este lhe foi trazido.
+5. No mérito em sentido estrito, todavia, o acórdão merece reforma. Para a jurisprudência do STJ, não é possível aproveitamento de CDA que ostente ausência de fundamentação legal, uma vez que se trata de vício decorrente do lançamento ou da inscrição (Súmula 392/STJ). Precedentes do STJ.
+6. A total ausência de fundamentação legal na CDA é vício muito mais grave do que a existência nela de simples erro formal, pois denota necessidade de alteração no lançamento tributário ou na inscrição e, por consequência, em nova expedição de CDA. Nessa hipótese, é forçosa a extinção da Execução Fiscal.
+7. O referido entendimento já foi firmado em Recurso Repetitivo (art. 543-C do CPC/1973) quando a Primeira Seção julgou o REsp 1.045.472/BA, da relatoria do Ministro Luiz Fux, DJe 17.12.2009.
+8. No mesmo sentido: AREsp 2.037.880/SP, Rel. Min. Manoel Erhardt (Desembargador Convocado do TRF5), DJe de 18.4.2022; REsp 1.959.407/SC, Rel. Min. Francisco Falcão, DJe de 12.4.2022; REsp 1.959.215/SP, Rel. Min. Francisco Falcão, DJe de 12.4.2022; AREsp 1.729.562/SP, Rel. Min. Gurgel de Faria, DJe de 11.2.2022.
+9. Por estar incontroverso nos acórdãos que a sentença primeva reputou nula a CDA questionada (fl. 332, e-STJ), é mister seu restabelecimento e manutenção da decisão anterior que proveu o Recurso Especial para declarar nula a CDA por ausência de fundamentação legal e restabelecer a sentença integralmente.
+10. Dissídio pretoriano prejudicado.
+11. Agravo Interno não provido.
+(AgInt no REsp n. 1.995.651/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/9/2022, DJe de 23/9/2022.)
+Em idêntico sentido, as seguintes decisões monocráticas: REsp 2.077.370/SP, Rel. Ministra Regina Helena Costa, DJe 20.6.2023; AgInt no AREsp 2.145.278/SP, Rel. Ministro Paulo Sergio Domingues, DJe 30.5.2023; e AREsp 2.304.561/MA, Rel. Ministro Humberto Martins, DJe 23.3.2023.
+Diante do exposto, dou provimento ao Recurso Especial .
+Publique-se.
+Intimem-se.
+EMENTA
