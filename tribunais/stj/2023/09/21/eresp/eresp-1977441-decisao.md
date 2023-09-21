@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se Embargos de Divergência interposto contra acórdão proferido pela Primeira Turma do Superior Tribunal de Justiça cuja ementa é a seguinte:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. LEGITIMIDADE PASSIVA. REEXAME PROBATÓRIO. IMPOSSIBILIDADE.
+1. Inexiste ofensa ao art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão recorrido.
+2. "A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (REsp 1.110.925/SP, repetitivo, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009).
+3. Hipótese em que, por força da Súmula 7 do STJ, não há como verificar o cabimento da exceção de pré-executividade, tendo em vista que o Tribunal Regional Federal a rejeitou por entender que a análise das questões deduzidas pelo recorrente (ilegitimidade passiva) dependeria de dilação probatória.
+4. Agravo interno desprovido.
+O embargante alega haver dissídio jurisprudencial com o acórdão proferido no julgamento do REsp 1.985.000/SP (Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17.5.2022). Em resumo, sustenta (fl. 512, e-STJ):
+(..) a ilegitimidade passiva pode, evidentemente, ser conhecida de ofício, por se tratar de condição da ação. Além disso, já foi cabalmente demonstrado nas defesas ofertadas que o quanto alegado na exceção de pré-executividade não demanda dilação probatória, bastando a verificação de datas objetivas para perceber que ULISSES CANHEDO AZEVEDO não deveria estar figurando no polo passivo do executivo fiscal.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27 de julho de 2023.
+A insurgência não prospera.
+Ao apreciar a controvérsia, a Primeira Turma desta Corte Superior assim entendeu (fl. 462, e-STJ, grifei):
+Em linhas gerais, à luz do entendimento firmado nesta Corte Superior, a exceção de pré-executividade, ainda que não prevista na legislação de regência, consiste em um incidente processual posto à disposição da parte executada por meio do qual são suscitadas matérias afetas à execução, as quais não demandam dilação.
+Ocorre que, no caso dos autos, o Tribunal de origem entendeu que a análise da ilegitimidade passiva da ora recorrente fundada na não formação de grupo econômico dependeria do indispensável exame do conjunto fático-probatório dos autos, procedimento incompatível com a exceção de pré-executividade.
+O recorrente aponta como paradigma o decisum proferido no REsp 1.985.000/SP, o qual possui a seguinte argumentação (fls. 555-556, e-STJ, grifei):
+Entretanto, o Tribunal de origem, com fundamento no exame dos elementos fáticos dos autos, consignou que "a União sustenta a manutenção da parte agravante  ora recorrida  no polo passivo em razão da existência de grupo econômico de fato, não apresentando, porém, elementos que demonstrassem os imprescindíveis requisitos de má-fé, fraude, abuso de direito (..), as alegações da União (..) são vagas e genéricas (..) não logrando a exequente demonstrar de forma clara e concreta em que precisamente recairia a conduta fraudulenta dos sócios  da ora recorrida ", para então arrematar que "a parte que tem o ônus de demonstrar no caso concreto a existência de má-fé, fraude, abuso de direito etc. por parte dos sócios  da ora recorrida  não apresenta elementos mínimos neste sentido" (fl. 4.697e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela FAZENDA NACIONAL somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Como se observa, tanto no aresto embargado quanto no paradigma consignou-se que não cabe ao STJ analisar os fundamentos do julgado de origem a fim de verificar se há legitimidade passiva ou não da parte que apresenta Exceção de pré-Executividade, uma vez que seria necessário proceder com reexame de matéria fática. Os acórdãos, portanto, aplicaram a mesma orientação jurídica.
+Dessa forma, não há divergência entre os acórdãos embargado e paradigma. Ausente, portanto, a hipótese de cabimento para os Embargos de Divergência constante no art. 1.043, do CPC/2015.
+Ante o exposto, com base no art. 266-C, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente os Embargos de Divergência.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias ordinárias, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
