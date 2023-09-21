@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) contra acórdão cuja ementa é a seguinte:
+DIREITO TRIBUTÁRIO. SALÁRIO-EDUCAÇÃO. SUJEITO PASSIVO. EMPRESA. EMPREGADOR RURAL. PESSOA FÍSICA. PLANEJAMENTO TRIBUTÁRIO ABUSIVO. NÃO CONFIGURAÇÃO.
+1. O salário-educação, na forma da legislação, é devido pela empresa, assim entendida como qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, bem assim a sociedade de economia mista, a empresa pública e demais sociedades instituídas e mantidas pelo Poder Público.
+2. Desta feita, o empregador rural, por ser pessoa física, não é contribuinte da contribuição do salário-educação.
+3. O simples exercício concomitante de atividade empresarial juntamente com a de produtor rural, pessoa física, não tem o condão de caracterizar a existência de negócio ou de ato jurídico simulado ou fictício nem de caracterizar abuso de direito capaz de indicar a existência de planejamento fiscal abusivo.
+Os Embargos de Declaração foram providos (fl. 440, e-STJ).
+A parte agravante, nas razões do Recurso Especial, aponta violação dos arts. 1.022, II, do CPC; 12, I, "a", da Lei 8.212/1991; 15 da Lei 9.424/1996; e 1º, § 3º, da Lei 9.766/1998. Aduz:
+Em apelação, a ora recorrida apontou a existência de CNPJ relacionado ao autor no exercício de atividade rural, denotando a ocorrência de planejamento tributário abusivo e, assim, a não subsunção do caso dos autos à jurisprudência vinculante do Superior Tribunal de Justiça.
+No caso, o recorrido registra os empregados em seus CPF/CNPJ e, paralelamente, desenvolve atividade econômica através de sociedade empresária com o mesmo objeto. Um dos indícios de tal prática é a circunstância de o autor ou familiar figurar como sócio de alguma sociedade do mesmo ramo.
+E o autor, ora recorrido, sequer pode alegar que as atividades por si desenvolvidas e as atividades desenvolvidas pela empresa que é sócio- dirigente são distintas, porquanto a empresa AGROPECUARIA FIGUEIREDO LTDA tem como atividade econômica, entre outras, o agronegócio.
+Na verdade, não se trata de simples empregador pessoa física, mas de empresário do ramo de nutrição animal e produção de alimentos. A indevida organização empresarial como pessoa física e jurídica é fato revelador de planejamento fiscal abusivo.
+Apresentadas contrarrazões às fls. 488-491, e-STJ, houve juízo negativo de admissibilidade às fls. 488-491, e-STJ, o que ensejou a interposição do presente Agravo.
+Contraminuta às fls. 513-523, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 31.8.2023.
+Afasta-se a alegação de ofensa ao art. 1.022 do CPC/2015, porque não foi demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Recurso Especial.
+A ausência de fundamentação não deve ser confundida com a adoção de razões contrárias aos interesses da parte, assim, não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem decide de modo claro e fundamentado, como ocorre na hipótese.
+No enfrentamento da matéria, a Corte a quo consignou:
+No presente caso, a atividade do autor é a de empregador rural, e ele está registrado como pessoa física diretamente responsável pelos contratos de trabalho dos seus empregados (vide evento 1 - OUT7 e GPS8, do processo de origem).
+De outro lado, a equiparação do contribuinte individual à empresa, por força do art. 15, parágrafo único, da Lei 8.212/91, dá-se exclusivamente para os efeitos daquela lei, que é a Lei de Organização da Seguridade Social e que dispõe sobre o seu plano de custeio. A contribuição do salário-educação, por sua vez, não é uma contribuição de Seguridade Social, mas uma contribuição social geral, sendo disciplinada por lei própria. A invocação do art. 1º da Lei 9.766/98, por sua vez, que dispõe que a contribuição social do salário-educação "obedecerá aos mesmos prazos e condições, e sujeitar-se-á às mesmas sanções administrativas ou penais e outras normas relativas às contribuições sociais e demais importâncias devidas à Seguridade Social" não se aplica à regra matriz de incidência tributária, tratada, por imposição constitucional, pela lei especí ca. Tem lugar para o que se pode aplicar supletivamente e que seja comum às diversas contribuições sobre a folha, em razão da arrecadação unificada.
+Assim, a condição do autor não abrange o conceito de empresa para fins de exigibilidade da contribuição do salário-educação.
+(..)
+Por  m, quanto à possibilidade de o autor exercer a atividade rural na condição de pessoa física e ao mesmo tempo ser sócio de outra pessoa jurídica que desempenha atividade rural, saliento que cabe à própria Administração Fiscal atuar para evitar elisão  scal abusiva, fraude ou simulação. Não havendo comprovação de prévio ato formal de  scalização neste sentido, deve prevalecer a presunção de boa-fé do demandante.
+Com efeito, não havendo elementos bastantes aptos a demonstrar confusão patrimonial ou de vínculo empregatício que possam indicar a ocorrência de simulação ou  cção de negócios jurídicos que visem a elidir a tributação, é de ser concedida a segurança, para declarar a inexistência de relação jurídico-tributária que obrigue o impetrante, enquanto produtora rural pessoa física, ao recolhimento do salário-educação.
+Depreende-se que: a) "quanto à possibilidade de o autor exercer a atividade rural na condição de pessoa física e ao mesmo tempo ser sócio de outra pessoa jurídica que desempenha atividade rural, saliento que cabe à própria Administração Fiscal atuar para evitar elisão fiscal abusiva, fraude ou simulação"; b) "Não havendo comprovação de prévio ato formal de fiscalização neste sentido, deve prevalecer a presunção de boa-fé do demandante"; e c) "não havendo elementos bastantes aptos a demonstrar confusão patrimonial ou de vínculo empregatício que possam indicar a ocorrência de simulação ou ficção de negócios jurídicos que visem a elidir a tributação, é de ser concedida a segurança, para declarar a inexistência de relação jurídico-tributária que obrigue o impetrante, enquanto produtora rural pessoa física, ao recolhimento do salário-educação".
+O órgão julgador decidiu a matéria após percuciente análise dos fatos e das provas relacionados à causa, sendo certo que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado, a respeito da "inexistência de relação jurídico-tributária que obrigue o impetrante, enquanto produtora rural pessoa física, ao recolhimento do salário-educação", pela via especial, exige reexame do contexto fático-probatório do autos, o que é vedado pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Vejam-se os precedentes:
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL. AÇÃO COLETIVA. LEGITIMIDADE ATIVA AD CAUSAM.
+(..) 6. Além disso, mesmo que estivesse superado esse óbice, o recurso não prosperaria, pois o Tribunal de origem reconheceu a ilegitimidade ativa ad causam do exequente, ora recorrente, com base no conjunto probatório dos autos.
+7. A revisão desse entendimento implica reexame de matéria fático-probatória, o que atrai o óbice da Súmula 7/STJ. A propósito: AgInt no AREsp 1.408.793/RJ, Rel. Ministra Assusete Magalhães, Primeira Turma, DJe 2.3.2020.
+8. Agravo Interno não provido.
+(AgInt no REsp 1.856.620/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/10/2020)
+PROCESSUAL CIVIL. EMPRÉSTIMO COMPULSÓRIO. CORREÇÃO MONETÁRIA. DIFERENÇAS. EXECUÇÃO. CESSÃO DE CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ILEGITIMIDADE ATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE NOTIFICAÇÃO AO DEVEDOR. EXIGIBILIDADE DA DÍVIDA. ART. 290 DO CC. SÚMULA 83/STJ.
+(..)
+3. Rever o entendimento do Tribunal de origem de que, diante da cessão da dos créditos, a recorrida possui legitimidade ativa para a Execução do título demanda, in casu, reexame do conjunto fático-probatório dos autos, obstado nos termos da Súmula 7/STJ.
+(..)
+5. Recurso Especial não conhecido.
+(REsp 1.642.179/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/3/2017)
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino, contra a parte recorrente, a majoração no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
