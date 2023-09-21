@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão cuja ementa é a seguinte:
+Declaratória c/c indenizatória Prestação de serviços de telefonia Negativação relativa à multa rescisória Pedido de concessão de efeito suspensivo prejudicado em razão da análise do mérito recursal Revelia - Inexistência Parte ré devidamente intimada acerca da concessão de liminar, citada para integrar a relação processual, e oferecer contestação ao pedido principal (artigos 219 e 335, do CPC) Ônus impugnativo atendido Preliminar afastada.
+Contrato corporativo de prestação de serviços Telefonia fixa DDR (Discagem Direta a Ramal) e termo aditivo CDC Não incidência Ausência da condição de destinatário final Artigo 2º do CDC Condição de empresa e natureza dos contratos discutidos Contrato de Permanência Prazo de 36 (trinta e seis) meses Fidelização Rescisão antecipada do contrato pelo usuário Alegação de culpa exclusiva da ré, pela rescisão antecipada da avença, em decorrência da cobrança de taxa para alteração de endereço da instalação do terminal do assinante Não reconhecimento - Solicitação de alteração de endereço da instalação que depende da disponibilidade técnica de atendimento, e se sujeita ao pagamento de tarifa pelo contratante Artigo 114 da Resolução ANATEL nº 426/2005 - Abusividade da cobrança não demonstrada Autora que não se desincumbiu do ônus de fato constitutivo do direito (artigos 373, inciso I e 434, do CPC) Ausência de demonstração e comprovação do valor que entende correto para fins de atendimento e execução dos serviços solic itados Legalidade da cobrança Reconhecimento Ausência de justa causa que autorize a rescisão antecipada do contrato Prazo de permanência mínima não observado pela autora Multa rescisória Cabimento Exigência que se contrapõe às vantagens oferecidas para o contratante, em decorrência da expectativa de permanência mínima Incidência do princípio do "pacta sunt servanda" Cobrança devida Desproporcionalidade do valor da multa rescisória Não reconhecimento Inexistência de comprovação do desacerto dos cálculos que conduziram à fixação do valor da multa exigida Autora que sequer indica qual o valor da penalidade que reputa devido Mera alegação de desproporção que é insuficiente ao seu reconhecimento Regularidade do débito Negativação Exercício regular de direito Danos morais Indenização descabida Inadimplência que configura culpa exclusiva da autora Sentença mantida RITJ/SP, artigo 252 Assento Regimental nº 562/2017, artigo 23.
+Recurso não provido.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta, em síntese:
+(..)
+Com efeito, conforme será adiante demonstrado, o v. Acórdão que negou provimento ao Recurso de Apelação interposto, integrado pelo v. Acórdão que rejeitou os Embargos de Declaração opostos, VIOLOU, sob o prisma infraconstitucional, os artigos 305, 306, 307, caput, 308, §§ 3º e 4º, do Código de Processo Civil; os artigos 2º, caput, 3º, caput, 4º, inciso I, 6º, inciso III, 51, inciso IV, § 1º, inciso III, 54, § 4º, do Código de Defesa do Consumidor, e o art. 422 do Código Civil.
+(..)
+Aduz, portanto, o v. Acórdão recorrido, que a Recorrente deveria ter impugnado a tarifa em sede administrativa ou por meio de ação própria.
+Entretanto, ao contrário do aduzido, a Recorrente RECLAMOU ADMINISTRATIVAMENTE e, inclusive, ingressou com a ação competente, impugnando as cobranças indevidas.
+Restou comprovado nos autos que a Recorrente, inclusive mediante o encaminhamento de e-mails, questionou a cobrança e solicitou o contrato subjacente, que até então não lhe tinha sido fornecido.
+(..)
+Com efeito, a Resolução ANATEL nº 426/2005, aplicável ao caso, prevê expressamente em seu artigo 114, parágrafo único, que o valor a ser cobrado pela mudança de endereço do terminal do assinante não pode ser superior ao valor da habilitação praticado pela prestadora no seu plano básico.
+Todavia, ao contestar a demanda, a Recorrida se limitou a justificar a cobrança da multa pela rescisão contratual, sem se manifestar sobre a anterior solicitação da mudança de endereço e a discordância da Recorrente com relação ao valor cobrado para a transferência das linhas.
+Contudo, em momento algum a Recorrida demonstrou que o montante cobrado corresponderia à habilitação do plano básico, como previsto na norma da ANATEL, não justificando, assim, a regularidade da cobrança.
+Desse modo, a Recorrida descumpriu sua obrigação contratual, inexistindo óbice para a rescisão, sem a exigência da cobrança de multa.
+Frise-se, a rescisão operou-se por conta da cobrança de valores pela Recorrida fora dos limites permitidos pela ANATEL (Resolução nº 426/2005), ou seja, pela abusividade dos valores cobrados. (..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.9.2023.
+O Tribunal de origem, ao decidir a vexta quaestio, consignou:
+(..)
+Nesse contexto, cumpre observar que, dada a natureza do vínculo contratual e condição das partes, inaplicável ao caso as regras do CDC, reconhecido o negócio contratação de linhas telefônicas por pessoa jurídica como meio para a empresa viabilizar seus negócios, com intuito de incremento à atividade comercial, pelo que não pode ela ser considerada como destinatária final a que se refere o artigo 2º do CDC.
+Veja-se que não bastasse ser a apelante pessoa jurídica, inserida no ramo de comercialização a varejo de "artigos religiosos em geral, por telemarketing, catálogo e porta a porta" (fls. 23), evidencia-se que a apelada lhe forneceu o produto contratado (DDR) como insumo, com a finalidade de auxiliar na realização de contatos essenciais para o desenvolvimento de sua atividade negocial e empresarial, mas não no intuito legal de aquisição ou utilização do produto ou serviço como destinatária final.
+(..)
+Logo, não pode a empresa apelante ser considerada destinatária final dos produtos e serviços contratados, não se aplicando o CDC ao caso em exame, sendo igualmente descabida qualquer pretensão à inversão do ônus da prova.
+Fixadas tais premissas, não obstante o alegado, não se reconhece da suposta abusividade na cobrada da taxa de alteração do endereço de instalação do terminal do assinante, e tampouco se verifica justa causa a autorizar a rescisão antecipada do contrato, da forma como ocorrida.
+(..)
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que a Corte a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara no sentido de que não se reconhece da suposta abusividade na cobrada da taxa de alteração do endereço de instalação do terminal do assinante e, tampouco, se verifica justa causa a autorizar a rescisão antecipada do contrato, da forma como ocorrida.
+Não há vícios de omissão ou contradição, pois o Colegiado originário apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Outrossim, extrai-se do acórdão vergastado e das razões de REsp que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente do contrato firmado entre as partes, o que não se admite ante o óbice das Súmulas 5 e 7/STJ.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
