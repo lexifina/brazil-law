@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARIA BEATRIZ SANTOS ALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas no HC n. 0807938-50.2021.8.02.0000.
+Consta nos autos que a Recorrente foi presa preventivamente, em 29/09/2021, no âmbito da denominada "Operação Quebra Cabeça", pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Nas razões recursais, a Defesa alega que não houve fundamentação idônea para a decretação da prisão preventiva da Recorrente.
+Aduz que é possível e recomendável a substituição da prisão por medidas cautelares diversas.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor da Recorrente.
+O pedido liminar foi indeferido pela Presidência desta Corte (fls. 1693-1694).
+O Ministério Público Federal manifestou-se às fls. 1698-1701, opinando pelo desprovimento do recurso.
+Foram prestadas informações às fls. 1709-1712 e 1714-1884.
+É o relatório. Decido.
+Consoante informações prestadas pelo Juízo da 17.ª Vara Criminal da Comarca de Maceió/AL, foi proferida sentença, em 14/02/2023, na qual a Recorrente foi condenada às penas de 10 (dez) anos, 1 (um) mês e 15 (quinze) dias de reclusão, em regime inicial fechado, e 1.387 (mil, trezentos e oitenta e sete) dias-multa, como incursa nos arts. 33 e 35, ambos da Lei n. 11.343/2006.
+O Juízo de primeira instância negou à Apenada o direito de recorrer em liberdade, com os mesmos fundamentos utilizados anteriormente para justificar a prisão preventiva, sem agregar novos, o que não conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso ordinário em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+Nesse sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA MANTENDO O DECRETO PRISIONAL. WRIT NÃO PREJUDICADO. TENTATIVA DE INGRESSO EM ESTABELECIMENTO PRISIONAL COM 48,8 G DE MACONHA. GRAVIDADE CONCRETA. DESPROPORCIONALIDADE. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. POSSIBILIDADE. PRECEDENTES.
+1. Esta Corte entende que a superveniência de sentença penal condenatória, na qual se nega ao acusado o direito de recorrer em liberdade com os mesmos fundamentos utilizados anteriormente para justificar a prisão preventiva, sem agregar novos, não conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso ordinário em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. (HC 554.849/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/3/2020).
+ ..
+3. Ordem concedida para revogar a prisão preventiva decretada em desfavor da paciente, na ação penal de que tratam os presentes autos, determinando sua substituição por outras medidas cautelares previstas no art. 319 do Código de Processo Penal a serem definidas pelo Juízo de primeiro grau, a quem incumbirá a fiscalização e também a possível decretação de nova prisão, em caso de descumprimento de qualquer uma das obrigações impostas ou por superveniência de motivos novos e concretos para tanto, nos termos do art. 312 do Código de Processo Penal." (HC 555.211/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/06/2020, DJe 10/06/2020; sem grifos no original.)
+Com a mesma conclusão, cito julgado da Segunda Turma do Supremo Tribunal Federal:
+"Agravo regimental no agravo regimental em habeas corpus. 2. Prisão preventiva. 3. Crimes contra a ordem econômica, fraude à licitação, corrupção e lavagem de dinheiro. Operação Calicute/RJ. 4. Superveniência de sentença condenatória. Constrição cautelar mantida com os mesmos fundamentos da prisão preventiva. Não configuração de perda do objeto do presente HC.  ..  6. Agravo regimental a que se nega provimento." (HC 145.181 MC-AgR-AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 19/03/2020; sem grifos no original.)
+Assim, no caso, não há óbice à análise de mérito da prisão preventiva, porquanto não houve inovação no édito condenatório.
+Feita essa observação, passo à análise do tema.
+A prisão preventiva, para ser legítima à luz da sistemática constitucional, exige que o Magistrado, sempre mediante fundamentos concretos extraídos de elementos constantes dos autos (arts. 5.º, incisos LXI, LXV e LXVI, e 93, inciso IX, da Constituição da República), demonstre a existência de prova da materialidade do crime e de indícios suficientes de autoria delitiva (fumus comissi delicti), bem como o preenchimento de ao menos um dos requisitos autorizativos previstos no art. 312 do Código de Processo Penal, no sentido de que o réu, solto, irá perturbar ou colocar em perigo (periculum libertatis) a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal.
+Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do Código de Processo Penal), provisionalidade (art. 316 do Código de Processo Penal) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do Código de Processo Penal), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do Código de Processo Penal, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade.
+No caso, o Juízo de primeira instância decretou a prisão preventiva da Recorrente com os seguintes fundamentos (fls. 955-966; sem grifos no original):
+"Segundo o caderno investigativo, trata-se de investigação iniciada em 06 de outubro de 2020, visando o acompanhamento de um suposto grupo criminoso responsável pelo tráfico de drogas e posse de arma de fogo.
+O amadurecimento das investigações resultou na presente "Operação Quebra Cabeça", que após a colheita probatória via quebra do sigilo telefônico, reuniu trechos de diálogos travados entre os investigados que reforçam possível prática delitiva.
+Instado a se manifestar, o Ministério Público foi favorável aos pedidos.
+ ..
+In casu, a fumaça da prática do delito pode ser verificada por meio do Relatório de Inteligência nº 233/2021/AII/SSP-03/09/2021 (fls. 756/871), sendo produto das quebras de sigilo telefônico judicialmente autorizadas.
+Segundo a autoridade policial, os investigados compõe um grupo responsável pela prática de drogas na região de Maceió/AL e Penedo/AL, hierarquizado da seguinte forma:
+ ..
+O representante argumenta que José Dalmir Temóteo, vulgo "Penedo", teria a função de líder. Abaixo dele figuraria Max Jhones dos Santos Silva, vulgo "Max", executando suas ordens.
+Em seguida, veríamos José Adeilson da Conceição, vulgo "Adeilson" ou "Treze", atuando como subgerente, lidando tanto com a distribuição de drogas como fiscalizando a parte financeira.
+Os demais, Carlos Eduardo dos Santos, vulgo "Inho ou Dudu"; Evandro, vulgo "Nininho e Ninho"; Maria Evalda Santos Alves, conhecida como "Evalda"; José Daniel Evangelista Santos, vulgo "Daniel Favela e Batata"; Wellington Santos, vulgo "Barriga"; Pedro Firmino Barbosa Neto, vulgo "Pedro da Pedreira" e José Roberto seriam soldados do tráfico, responsáveis pela venda de entorpecentes.
+Por sua vez, Eduardo Vieira Santana dos Santos, vulgo "Picolé", atuaria como Mula, auxiliando no transporte de drogas.
+Já Letícia de Oliveira Silva e Maria Beatriz Santos Alves, teriam conhecimento do envolvimento de parentes no grupo, auxiliando-os de tempo em tempo com atividades menores. Exemplo disso seria Breno Lima Santos, que seria casado com Letícia e utilizaria a esposa para auxiliá-lo na venda de drogas.
+Por fim, Valdemir dos Santos, vulgo "Boi", seria indivíduo que executaria atividades criminosas em favor do grupo criminoso.
+No relatório, vemos trechos contendo conversas entre os investigados que denotam possível narcotraficância:
+ ..
+Por se tratar de possível prática delitiva de tráfico de drogas, presente o requisito do art. 313, I, do CPB.
+Já no tocante ao requisito do periculum in libertatis, este fica demonstrado nos trechos das interceptações que demonstrariam a periculosidade dos agentes. Nelas, constata-se menções de possível prática de tráfico de drogas, porte de arma de fogo e furtos, ações graves que atentam contra a ordem pública.
+ ..
+Assim, uma vez preenchidos indícios suficientes de autoria e materialidade, além da condição de admissibilidade, percebe-se a necessidade de segregação dos acusados, em razão da garantia da ordem pública, a fim de evitarmos maiores lesões à paz pública e à saúde pública.
+Observe-se que a forma organizada, o modus operandi da quadrilha e o número de acusados envolvidos demonstram, por si só, a periculosidade e a propensão dos acusados para a prática de crimes, o que torna necessária a segregação com o fito de garantir a ordem pública."
+Como se percebe, as instâncias ordinárias, com base em elementos extraídos dos autos, entenderam que há indícios de que a Recorrente integra organização criminosa voltada à prática do crime de tráfico de drogas, o que evidencia a gravidade concreta dos fatos e a necessidade de se interromper a atuação do grupo criminoso.
+A propósito, nos termos da jurisprudência da Suprema Corte, " a  necessidade de interromper ou diminuir a atuação de organização criminosa constitui fundamento a viabilizar a prisão preventiva" (STF, HC n. 180.265, Rel. Ministro MARCO AURÉLIO, PRIMEIRA TURMA, DJe 19/06/2020).
+Nesse sentido, cito julgados da Quinta e da Sexta Turmas desta Corte Superior de Justiça:
+" ..
+2. O decreto possui fundamentação que deve ser considerada idônea, baseada na periculosidade do recorrente, diante do modus operandi da conduta, tendo como vítima pessoa idosa, bem como da sua participação em organização criminosa.
+3. Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta.
+4. A jurisprudência desta Corte é pacífica no sentido de que justifica a prisão preventiva o fato de o acusado integrar organização criminosa, em razão da garantia da ordem pública, quanto mais diante da complexidade dessa organização, evidenciada no número de integrantes e presença de diversas frentes de atuação e de sua atuação em posição de destaque.
+ ..
+8. Agravo regimental improvido." (AgRg no HC 640.313/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021; sem grifos no original.)
+" ..
+3. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal, vedadas considerações abstratas sobre a gravidade do crime. Precedentes do STF e STJ.
+4. A prisão preventiva encontra-se suficientemente justificada na necessidade de garantia da ordem pública, considerada a gravidade concreta do crime imputado, uma vez que o paciente integraria uma organização criminosa voltada para o tráfico internacional de grandes quantidades de drogas, atuando como piloto ou na cooptação destes para as empreitadas criminosas; além disso há indícios de que a empresa do paciente seria utilizada pela organização criminosa para a dissimulação dos ativos provenientes do tráfico de drogas.
+5. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de grupo criminoso como forma de interromper suas atividades.
+ ..
+8. Agravo regimental a que se nega provimento." (AgRg no HC 644.817/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/03/2021, DJe 08/03/2021; sem grifos no original.)
+Destaque-se que se mostra inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta demonstra serem insuficientes para acautelar a ordem pública (HC 550.688/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020; e HC 558.099/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 05/03/2020).
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. AUSÊNCIA DE NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. NÃO OCORRÊNCIA DE PREJUDICIALIDADE. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. RECURSO DESPROVIDO.
