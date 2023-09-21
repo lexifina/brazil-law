@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GABRIEL ANTÔNIO LIMA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.23.132956-6/000).
+Infere-se dos autos que o paciente foi preso em flagrante em 20/5/2023, custódia convertida em preventiva, por suposta infração ao art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos da seguinte ementa (e-STJ fl. 16):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS -DECISÃO DEVIDAMENTE FUNDAMENTADA - REINCIDÊNCIA ESPECÍFICA -QUANTIDADE DE DROGAS APREENDIDAS - GRAVIDADE CONCRETA DO DELITO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE -GARANTIA DA ORDEM PÚBLICA COMPROMETIDA - PRESENÇA DOSREQUISITOS DO ART. 312, DO CPP - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO - ORDEM DENEGADA.
+-Não se verifica carência de fundamentação da decisão que converteu a prisão em flagrante delito do paciente em preventiva, hábil a ensejar violação ao artigo 315, do Código de Processo Penal, uma vez que decisão concisa não se confunde com decisão não fundamentada.
+-Ademais, justifica-se a prisão cautelar para a garantia da ordem pública potencialmente ofendida, especialmente nos casos de reiteração delitiva. V. v: HABEAS CORPUS - TRÁFICO DE DROGAS - REVOGAÇÃO DA PRISÃO PREVENTIVA - POSSIBILIDADE - INDÍCIOS INSUFICIENTES DE AUTORIA - INOBSERVÂNCIA DO DISPOSTO NO ART. 312. Conquanto a análise meritória não seja comportada na presente ação constitucional, a ordem deve ser concedida caso a ilegalidade alegada seja patente e esteja devidamente demonstrada nos autos mediante prova pré-constituída. Inexistindo, por ora, indícios suficientes de autoria, que, junto à materialidade do crime, constituem pressupostos ensejadores da prisão preventiva previstos pelo art. 312 do CPP, deve-se expedir alvará de soltura. Inexiste óbice à posterior decretação da prisão preventiva caso devidamente preenchidos os pressupostos e requisitos legais.
+Na presente impetração, a defesa alega, em síntese, que a participação do do paciente da conduta criminosa é presumida penas e tão somente pela abordagem do veículo e "não é indicado qualquer liame subjetivo entre o paciente e o outro acusado que pudesse colocá-lo como responsável pelo suposto fato." (e-STJ fl. 6).
+Sustenta não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP, destacando que o decreto prisional é genérico e não avaliou as circunstâncias do caso concreto. Assevera não haver fatos contemporâneos que pudesse justificar a imposição da custódia.
+Sublinha que o paciente está próximo de encerrar o cumprimento de sua pena, não tendo notícias de ter cometido crimes neste período, além disso, possui emprego lícito e endereço fixo. Acrescenta que o delito imputado ao réu não envolve violência ou grave ameaça.
+Defende ser suficiente, no caso, a aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a sua substituição por medidas cautelares alternativas.
+Indeferida a liminar (e-STJ fls. 46/47) e prestadas as informações (e-STJ fls. 53/71 e 75/115), o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus e, caso conhecido, pela denegação da ordem (e-STJ fls. 119/124).
+É o relatório. Decido.
+Busca-se, no presente recurso, a revogação da prisão preventiva do paciente. Ocorre que, em 29/8/2023, o juízo processante absolveu o réu das imputações que lhe foram feitas, momento em que foi expedido o alvará de soltura.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente mandamus.
+Intimem-se.
+EMENTA
