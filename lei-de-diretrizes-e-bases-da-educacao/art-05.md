@@ -3,6 +3,7 @@ Art. 5º O acesso à educação básica obrigatória é direito público subjeti
 I - recensear anualmente as crianças e adolescentes em idade escolar, bem como os jovens e adultos que não concluíram a educação básica;
 II - fazer-lhes a chamada pública;
 III - zelar, junto aos pais ou responsáveis, pela freqüência à escola.
+IV - divulgar a lista de espera por vagas nos estabelecimentos de educação básica de sua rede, inclusive creches, por ordem de colocação e, sempre que possível, por unidade escolar, bem como divulgar os critérios para a elaboração da lista.
 § 2º Em todas as esferas administrativas, o Poder Público assegurará em primeiro lugar o acesso ao ensino obrigatório, nos termos deste artigo, contemplando em seguida os demais níveis e modalidades de ensino, conforme as prioridades constitucionais e legais.
 § 3º Qualquer das partes mencionadas no caput deste artigo tem legitimidade para peticionar no Poder Judiciário, na hipótese do § 2º do art. 208 da Constituição Federal, sendo gratuita e de rito sumário a ação judicial correspondente.
 § 4º Comprovada a negligência da autoridade competente para garantir o oferecimento do ensino obrigatório, poderá ela ser imputada por crime de responsabilidade.
