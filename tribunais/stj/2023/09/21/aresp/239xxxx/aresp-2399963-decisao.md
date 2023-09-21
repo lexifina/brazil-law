@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por FA MARINGA LTDA contra decisão que inadmitiu recu rso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+APELAÇÃO - MANDADO DE SEGURANÇA - AFASTAMENTO DA COBRANÇA DO DIFAL INCIDENTE SOBRE OPERAÇÕES INTERESTADUAIS PRATICADAS PELA IMPETRANTE QUE TENHAM COMO DESTINATÁRIOS CONSUMIDORES FINAIS NÃO CONTRIBUINTES DO ICMS - PRETENSÃO RECURSAL QUE SE FUNDA EXCLUSIVAMENTE NA INVIABILIDADE DA MODULAÇÃO DE EFEITOS DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE NORMA JURIDICA - MODULAÇÃO, NO ENTANTO, QUE ENCONTRA FUNDAMENTO DIRETO NO ARTIGO 27 DA LEI FEDERAL Nº 9.868 99 - AÇÃO QUE. AJUIZADA EM 03/03/2021, NÃO ESTAVA EM CURSO NA DATA DA FIXAÇÃO DO TEMA Nº 1.093 EM JULGAMENTO REALIZADO PELO STF EM 24/02/2021 - RECURSO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, a recorrente sustenta que o acórdão recorrido é nulo, visto que se encontram presentes o direito líquido e certo a ser amparado. Argumenta que o mandado de segurança foi impetrado concomitantemente com a publicação da ata de julgamento da ADI n. 5469.
+Houve contrarrazões ao recurso especial (e-STJ fls. 401/416).
+O Tribunal de origem inadmitiu o recurso especial pela ausência de violação dos arts. 489 e 1.022 do CPC, bem como pela impossibilidade de interposição de recurso especial quando a controvérsia é solucionada na origem à luz da Carta Magna.
+Insurge-se a agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Não houve contraminuta ao agravo.
+É o relatório. Decido.
+Não foram impugnados todos os fundamentos de inadmissibilidade.
+Nas razões do agravo em recurso especial, a parte limitou-se a, além de reiterar as razões do apelo nobre, argumentar que (e-STJ fl. 445):
+O recurso especial interposto pela Agravante foi inadmitido pelo Presidente do E. Tribunal a quo, sob o fundamento que não houve falta de fundamentação e que sim, houve a discordância pelo não acolhimento da matéria de defesa.
+Todavia, a decisão que não deu provimento ao recurso de apelação, desconsiderou o argumento da nulidade da imposição da cobrança que foi instituída de forma inconstitucional.
+Ademais, aponta-se a existência de dissídio jurisprudencial, que adota a data da publicação da ata da decisão e não a data do julgamento como limite de alcance da decisão da inconstitucionalidade, conforme os julgados emanados nos recursos de apelação cível n. 5182047-49.2017.8.13.0024, TJMG, julgamento em 30/11/2021; 0489019-80.2021.8.13.0000, TJMG, julgado em 25/11/2021; agravo de instrumento 0001807-65.2021.8.03.0000, TJAP, julgado em 19/08/2021.
+Vale destacar que, a decisão que decretou a inconstitucionalidade da cobrança do Difal, não transitou em julgado em 24/02/2021, inclusive contou com a oposição de Embargos de Declaração, cujo julgamento ocorreu em 17/08/2021(APÓS A PROPOSITURA DA PRESENTE AÇÃO).
+Assim, resta patente que o recurso especial interposto atendeu a todos os requisitos de admissibilidade exigidos pela lei para o seu processamento e conhecimento, relativamente aos permissivos constitucionais indicados (alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal), conforme se demonstra a seguir.
+A despeito da impugnação ao fundamento de que não houve ausência de fundamentação, a parte deixou de rebater o fundamento segundo o qual é inviável a interposição de recurso especial quando a controvérsia é solucionada na origem à luz da Carta Magna.
+Tal conduta revela combate não específico e inapto a reformar a decisão agravada, porque competia à parte demonstrar que a questão controvertida não foi solucionada pela Corte local sob a ótica de fundamento constitucional, o que não ocorreu in casu.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ADEQUADA A DECISÃO DE ADMISSIBILIDADE PROFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 83/STJ. AUSÊNCIA DE PRECEDENTES RECENTES QUE DEMONSTREM A TESE DEFENDIDA NO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ.
+1. Os fundamentos da decisão de admissibilidade exercida pelo Presidente do Tribunal de origem, que não admitiu o Recurso Especial, não foram enfrentados adequadamente pelo Recurso de Agravo em Recurso Especial, permanecendo incólumes em face da impugnação apresentada.
+2. De fato, as razões do Recurso de Agravo em Recurso Especial devem exprimir, com transparência e objetividade, os motivos pelos quais a parte recorrente visa reformar o decisum, o que não foi feito na peça recursal, visto que não apresentou impugnação adequada quanto ao enunciado da Súmula 5 do STJ. Quanto ao ponto, não se pode conhecer do Recurso, nos termos do art. 1.042 do CPC.
+3. Verifica-se que o agravante não trouxe precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal de origem, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. No caso dos autos, o precedente trazido pela empresa é mais antigo do que os colacionados na decisão de admissibilidade, não sendo capaz de demonstrar o atual posicionamento do STJ sobre a questão apreciada.
+4. A jurisprudência do STJ aplica sua Súmula 182 ao Agravo em Recurso Especial que não refuta, de maneira específica, os fundamentos da decisão de admissibilidade proferida pelo Tribunal a quo, bem como ao Agravo Interno que combate de maneira deficiente a decisão monocrática proferida com base no art. 932 do CPC.
+5. Ademais, a Corte Especial do Superior Tribunal de Justiça assentou no julgamento dos EAREsp 746.775/PR ser necessária a impugnação específica de todos os fundamentos da decisão denegatória do Recurso Especial, sob pena de não conhecimento.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/8/2022, DJe de 22/8/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA SOLUCIONADA À LUZ DA CARTA MAGNA. FUNDAMENTO DE INADMISSIBILIDADE NÃO IMPUGNADO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
