@@ -1,0 +1,34 @@
+DECISÃO
+Trata- se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado:
+Apelação cível. Ação de desapropriação indireta c/c indenização por danos materiais e morais. Responsabilidade objetiva. Nexo causalidade. Imóvel não afetado. Recurso não provido. A parte requerida está inserta na "Teoria do Risco", segundo a qual se reconhece a obrigação daquele que causar danos a outrem, em razão dos perigos inerentes à sua atividade ou profissão, de reparar o prejuízo. Para que a requerida seja considerada responsável pelos danos alegados, ainda que sua responsabilidade seja objetiva, necessário que fiquem caracterizados os elementos da responsabilidade civil: ação/omissão, dano e nexo de causalidade, sendo que a inexistência de um deles quebra o vínculo, não se podendo falar em responsabilização da parte. Considerando que os prejuízos apontados pelos autores não foram comprovados, ao revés, deve ser mantida a sentença que julgou improcedente o pedido de desapropriação indireta. Recurso não provido.
+Os Embargos de Declaração foram rejeitados.
+Os agravantes, em seu Recurso Especial, alegam violação dos arts. 1.022, I e II, 489, § 1º, III, IV e VI, 371, 373, I, e 1.013 do CPC/2015
+O juízo de admissibilidade negativo, por incidência das Súmulas 7 do STJ e 282, 283, 284 e 356 do STF, deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 1.733-1.763, e-STJ.
+O Ministério Público Federal opinou pelo não provimento do Apelo (fls. 1.782-1.787, e-STJ).
+É o relatório.
+Decido.
+Os autos foram remetidos a este Gabinete em 19/6/2023.
+A irresignação não comporta conhecimento.
+As partes a) partem do pressuposto de que a decisão guerreada considera que "não houve por parte dos agravantes a explicação de forma clara e precisa de maneira que o acórdão objurgado teria afrontado os artigos" cuja ofensa se alega (fl. 1.694, e-STJ); b) afirmam que "não há que se falar em deficiência de fundamentação deste recurso, muito menos sua incompreensão" (fl. 1.706, e-STJ); c) dizem que não se trata de reexame, mas de revaloração da prova descrita pelas decisões (fl. 1.707, e-STJ); e d) alegam que as questões ventiladas no Recurso foram enfrentadas, e dirimidas pelo Tribunal de origem, sendo que "todos os fundamentos, lançados no acórdão guerreado, foram infirmados neste recurso, não havendo, por isso, a incidência da Súmula 283 do STF" (fls. 1.719-1.720, e-STJ). No entanto, todos os argumentos são apresentados de forma genérica, sem considerar a vinculação procedida pela decisão de inadmissibilidade, sem infirmar especificamente a incidência de cada óbice e retomando a descrição da prova havida nos autos.
+Em nenhum momento consignam como, para a constatação do alegado erro de julgamento, não seria necessário voltar aos documentos e laudos constantes do autos, notadamente diante da farta réplica documental que elaboram no Recurso. Também não demonstram que tal documentação está descrita nas decisões cuja reforma pretendem, de modo que não seria necessário reanalisá-la.
+Ademais, não refutam a ausência de prequestionamento do art. 1.013 do CPC/2015, pois afirmam que as razões do acórdão estadual foram impugnadas, mas não demonstram que tenham se oposto à aplicação conferida para o art. 4º do Código Florestal (observando-se que o aresto não nega que o imóvel em discussão esteja dentro de área de proteção permanente, mas, ao contrário, é expresso neste sentido) e para o art. 924 do Código Civil (levando em conta a afirmação judicial da ausência de prova do esvaziamento econômico do imóvel e de encharcamento do solo)
+Dessa forma, incide o art. 932, III, do CPC. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HONORÁRIOS RECURSAIS. ERRO MATERIAL. CORREÇÃO DE OFÍCIO.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Nas ações de desapropriação ou servidão administrativa, não há impedimento para que os honorários sejam majorados em sede recursal, na forma do art. 85, § 11, do CPC/2015, desde que observado o percentual máximo estabelecido no art. 27, § 1º, do Decreto-Lei n. 3.365/1941.
+4. Hipótese em que as instâncias ordinárias já fixaram os honorários de sucumbência no limite previsto na norma especial, sendo descabida a majoração da condenação a título de honorários recursais, impondo-se a correção, de oficio, do erro material contido na decisão agravada.
+5. Agravo interno desprovido. Correção, de ofício, de erro material quanto à fixação de honorários recursais.
+(AgInt no AREsp 1.943.365/RJ; Rel. Min. Gurgel de Faria; Primeira Turma, DJe 24/2/2022)
+Descumprida a regra da dialeticidade pelos agravantes, aplica-se, por analogia, a Súmula 182/STJ, pois o conhecimento do AREsp depende da impugnação específica de todos os fundamentos da decisão agravada. Veja-se:
+PROCESSO CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ. AUSÊNCIA DE PROCURAÇÃO. ADMISSIBILIDADE.
+I - O agravo nos próprios autos não foi conhecido, considerando-se que a parte agravante deixou de atacar especificamente o fundamento do enunciado n. 7 da Súmula desta Corte.
+II - A parte agravante não ataca os fundamentos da decisão recorrida. Em virtude do princípio da dialeticidade previsto para os recursos, não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do Superior Tribunal de Justiça.
+III - Não se conhece do recurso subscrito por procurador sem mandato nos autos. Consoante entendimento jurisprudencial desta Corte, é dispensável a exibição, pelos procuradores de Município, do instrumento de procuração, desde que estejam eles investidos da condição de servidores municipais, por se presumir conhecido o mandato, pelo seu título de nomeação. Precedentes do STJ: EDcl no AgRg no Ag 1.385.162/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 24/10/2011; AgRg no Ag 1.338.172/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 4/2/2011, AgRg no Ag 1.252.853/DF, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe de 15/6/2010.
+IV - Agravo interno não conhecido.
+(AgInt no AREsp 960.051/SP; Rel. Min. Francisco Falcão; Segunda Turma; DJe 17/2/2017)
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
