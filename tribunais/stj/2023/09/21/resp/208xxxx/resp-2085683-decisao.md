@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CORONAVÍRUS. EMPREGADAS GESTANTES AFASTADAS POR FORÇA DA LEI Nº14.151/21, ALTERADA PELA LEI Nº 14.311/22. OMISSÃO LEGISLATIVA. RESPONSABILIDADE PELO PAGAMENTO DO SALÁRIO. PROTEÇÃO DA MATERNIDADE PELA SEGURIDADE SOCIAL. ENQUADRAMENTO COMO SALÁRIO-MATERNIDADE. POSSIBILIDADEDE COMPENSAÇÃO.
+1. A Lei nº 14.151/21, alterada pela Lei nº 14.311/22, é omissa quanto à responsabilidade pelo pagamento da remuneração da gestante que, afastada de suas atividades presenciais, esteja impossibilitada de exercer suas tarefas de forma remota. 2. A ordem constitucional estabelece expressamente a proteção da maternidade pela Seguridade Social (artigo 201, inciso II, da CF/88),razão pela qual os ônus financeiros decorrentes do afastamento em questão devem ser suportados pela coletividade, e não pelo empregador.
+3. É compatível com o ordenamento jurídico o enquadramento como salário-maternidade dos valores pagos às trabalhadoras afastadas durante o período de emergência, sendo possível que as respectivas remunerações sejam compensadas, na forma do artigo 72, § 1º, da Lei nº 8.213/91.
+4. Segurança concedida.
+A recorrente afirma que houve violação aos arts. 17, 485, VI, 489 e 1.022 do CPC/2015; 394-A, § 3º, da CLT; 97, 111, II, e 156 do CTN; 73 da Lei 8.213/1991; 20 da LINDB; e 1º da Lei 14.151/2021. Alega:
+Cumpre ressaltar que a UNIÃO (FAZENDA NACIONAL) não possui legitimidade passiva "ad causam" com relação à parcela dos pedidos relativos ao benefício de salário-maternidade (pagamento do salário-maternidade em favor das empregadas gestantes durante todo o período de emergência de saúde pública decorrente da Covid-19). Tal pretensão é precipuamente voltada contra a Autarquia Previdenciária (INSS) que também ocupa o polo passivo da demanda, tendo apresentado defesa processual adequada à matéria e contrarrazões nesta instância.
+(..)
+A norma não tratou de afastamento do trabalho, a gestante continua à disposição do empregador. Conclusão lógica é que o salário é devido pelo empregador. Não há omissão no âmbito do que foi disciplinado pela lei. O que a parte autora traz aos autos é uma situação fática não prevista e não disciplinada pela norma. A lei regulou uma situação excepcional, emergencial, temporária e de aplicação limitada, provocada por crise sanitária de escala mundial.
+(..)
+Veja-se que, ao contrário do que ocorre na Lei 14.151/2021, a regra da CLT foi expressa ao estabelecer o pagamento do salário-maternidade. Numa lei há previsão de afastamento e salário-maternidade (CLT). Noutra, a empregada deve ficar à disposição do empregador para trabalho à distância (Lei 14.151/2021), sem prejuízo da sua remuneração. No caso de gestante com vínculo empregatício, quando há a concessão de licença-maternidade, nos termos do art. 72, §1º, da Lei nº 8.213, de 1991, cabe à empresa pagar o salário-maternidade devido à empregada, mediante a compensação quando do recolhimento das contribuições incidentes sobre a folha de salários e demais rendimentos pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço:
+(..)
+Contrarrazões às fls. 377-343, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.7.2023.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, pois o Tribunal a quo julgou integralmente a lide e solucionou a demanda tal como lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1.630.265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/12/2016.)
+Observo que a Corte regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 17 e 485, VI, do CPC/2015, dos arts. 97, 111, II, e 156 do CTN e do art. 73 da Lei 8.213/1991.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Incide na espécie a Súmula 211/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INFRAÇÃO ADMINISTRATIVA. AUSÊNCIA DE NULIDADE DE AUTO DE INFRAÇÃO. COMPETÊNCIA DO DNIT PARA APLICAR MULTAS DE TRÂNSITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA.
+1. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ).
+2. Ao persistir a omissão no acórdão recorrido, após o julgamento dos embargos de declaração, imprescindível a alegação de violação do art. 535 do Código de Processo Civil por ocasião da interposição do recurso especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.596.787/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 23/9/2016.)
+Esclareço que, nos Embargos de Declaração de fls. 301-308, e-STJ, a ora recorrente nem mesmo suscitou a análise dos referidos dispositivos pela instância ordinária.
+O Colegiado originário dirimiu a controvérsia nestes termos:
+Busca a impetrante, no presente mandamus, seja a União responsabilizada pela remuneração devida às empregadas gestantes afastadas por força das disposições contidas na Lei nº 14.151, de 12 de maio de2021, que previa o afastamento da empregada gestante das atividades de trabalho presencial durante a emergência de saúde pública decorrente do novo coronavírus (Covid), nos seguintes termos, em sua redação original:
+(..)
+A controvérsia trazida ao julgamento diz com a omissão legislativa acerca da responsabilidade pelo pagamento da remuneração da gestante que, afastada das atividades presenciais em face da emergência de saúde pública de importância nacional decorrente do coronavírus SARS-CoV-2, esteja impossibilitada de exercer suas tarefas de forma remota - ponto acerca do qual a lei silenciou.
+Pois bem.
+O texto constitucional estabelece expressamente a proteção da maternidade pela Seguridade Social (artigo 201, inciso II, da CF/88). Sendo assim, eventuais ônus financeiros decorrentes do afastamento da gestante devem ser suportados pela coletividade, e não pelo empregador. Ainda, o ordenamento jurídico já tratou de hipóteses semelhantes, mostrando-se legítima a utilização da analogia, no caso, porquanto é instrumento de integração normativa, nos termos do artigo 4º da LINDB (Lei de Introdução às Normas do Direito Brasileiro): "Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito".
+(..)
+Portanto, entendo que a solução para o caso diz com o pagamento de salário-maternidade para as gestantes durante o período de afastamento. Consequentemente, há que permitir que as respectivas remunerações sejam compensadas, na forma do artigo 72, § 1º, da Lei nº8.213/91, in verbis:
+(..)
+Ainda que as Leis nº 14.151/2021 e nº 14.311/2022 sejam normas temporárias, isto é, criadas para que sejam aplicadas durante este excepcional período de saúde pública decorrente da pandemia da COVID-19, há que se reconhecer a omissão normativa no que se refere à hipótese em que o trabalho remoto não se mostre possível, devido às atividades desenvolvidas pela empregada.
+Dessa realidade, decorre, evidentemente, prejuízo ao empregador, que paga o salário sem a devida contraprestação, de forma que possível a integração normativa mediante aplicação do artigo 394-A, § 3º, da CLT porquanto, na realidade vivenciada em função da pandemia, o local de trabalho constitui ambiente insalubre para as gestantes, sendo devido o recebimento de salário-maternidade durante todo o período de afastamento, com a correspondente compensação prevista no artigo 72 da Lei nº 8.213/91.
+Nesta direção, o julgado de minha relatoria: AI nº 5039945-22.2021.4.04.0000/SC, Relatora Desembargadora Federal LUCIANE AMARALCORRÊA MÜNCH, 1ª Turma, por maioria, j. 18 de maio de 2022.
+Em decorrência, deve ser mantida a sentença proferida no caso, para conceder a segurança, na forma pleiteada, determinando que a autoridade coatora observe o direito da impetrante de enquadrar como salário-maternidade os valores pagos às trabalhadoras gestantes afastadas por força da Lei nº 14.151/21 (alterada pela Lei nº 14.311/2022), enquanto durar o afastamento, aplicando-se tal determinação inclusive em relação às gravidezes vindouras durante o período de emergência e enquanto perdurarem os efeitos da lei; determinar a compensação dos valores correspondentes ao salário-maternidade pagos pela empresa impetrante às empregadas gestantes afastadas de suas atividades presenciais, em razão da atual pandemia de Covid-19, nos termos do artigo 72, § 1º, da Lei nº 8.213/91; e determinar ainda a exclusão e devolução dos pagamentos feitos às gestantes afastadas por forçada Lei nº 14.151/21 da base de cálculo das contribuições previdenciárias patronais destinadas à Previdência Social e aos terceiros (Sistema S), nos termos da fundamentação.
+No mérito, verifica-se que, apesar de terem sido invocados dispositivos de legislação federal, o órgão julgador decidiu a causa com base em princípio constitucional, o que afasta o conhecimento da matéria em Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ademais, os dispositivos de lei federal supostamente infringidos não detêm comando normativo suficientemente apto para infirmar o embasamento sobre o qual se apoiou o decisum. Ante a deficiência na fundamentação, incide a Súmula 284/STF.
+Diante do exposto, conheço parcialmente do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
