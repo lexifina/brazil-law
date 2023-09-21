@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Central de Inquéritos de Teresina - PI em face do Juízo de Direito da 3ª Vara Criminal de Timon - MA, nos autos de inquérito policial, instaurado para apurar suposta prática de crime de receptação de um aparelho celular, em que é investigada Ingrid da Silva Moraes.
+Extrai-se dos autos que (fl. 5):
+" ..  por volta das 08h20, do dia 29/06/2021, RANGELE VALE HOLANDA, vítima, caminhava pela rua Magalhães de Almeida, na cidade de Timon-MA, quando foi abordado por um indivíduo que, mediante grave ameaça, subtraiu um aparelho celular da marca Apple, modelo iphone 8 plus, empreendendo fuga logo em seguida.
+Em posse dos dados cadastrais do aparelho subtraído, a Autoridade Policial oficiou às operadoras de telefonia móvel (fl. 8/9, ID37258147), ocasião em que identificaram INGRID DA SILVA MORAES como a nova usuária do equipamento de telefonia móvel (fl. 15, ID37258147).
+Inquirida, INGRID DA SILVA MORAES declarou ter adquirido o equipamento no Shopping da Cidade, em Teresina-PI, mediante o pagamento de R$ 1.950,00 (hum mil novecentos e cinquenta reais), de uma pessoa desconhecida. No entanto, não apresentou documentos que comprovem suas alegações (fl. 19, ID 37258147)."
+O Juízo de Direito da 3ª Vara Criminal de Timon - MA declinou da competência em favor da Comarca de Teresina - PI, por entender que aquele Juízo é o competente para processar e julgar o feito por ser o lugar da consumação do crime de receptação, nos termos do art. 70 do CP (fl. 110).
+O Juízo de Direito da Central de Inquéritos de Teresina - PI, suscitou o presente conflito, sob o fundamento de que a competência para o processamento e julgamento do feito é do Juízo do local onde primeiro se conheceu dos fatos, que na espécie, se deu na cidade de Timon-MA, onde também foram realizadas as diligências iniciais que descortinam na identificação de Ingrid da Silva Moraes (fls. 5 - 7).
+O Ministério Público Federal opinou no sentido de conhecer o conflito para declarar a competência do Juízo de Direito da Central de Inquéritos de Teresina - PI, o suscitante (fls. 122 - 124).
+É o relatório.
+DECIDO.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de process os, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo deve ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, I, d, da Constituição Federal.
+É incontroverso nos autos a ausência de qualquer indício de autoria quanto a prática do delito de roubo. Desse modo, o que se tem é um inquérito policial destinado a apurar exclusivamente o cometimento do crime de receptação.
+Em regra, a competência deve ser firmada pelo lugar de consumação da infração, nos termos do art. 70 do Código de Processo Penal. No caso de inexistir certeza quanto ao local onde se consumou o crime, regular-se -á a competência pelo disposto no art. 72, caput, do CPP (domicílio ou residência do réu).
+Ao que se tem dos autos, até o presente momento não se pode confirmar a localidade de consumação do delito. Dessa forma, desconhecido o lugar da infração, a competência regular-se-á pelo domicílio ou residência da investigada, que na espécie, situa-se em Timon - MA (fl. 42).
+Nesse sentido:
+"PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. RECEPTAÇÃO CULPOSA. CONSUMAÇÃO. LOCAL INCERTO. CRITÉRIO SUBSIDIÁRIO DE FIXAÇÃO DA COMPETÊNCIA. DOMICÍLIO DO RÉU. ART. 72 DO CPP. CONFLITO DE COMPETÊNCIA CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. Como regra, a fixação da competência de foro ou territorial segue a teoria do resultado, sendo determinante o lugar da consumação da infração, ou do último ato da execução, nas hipóteses de tentativa (art. 70 do CPP), tendo como critério subsidiário o domicílio do réu (CPP, art. 72), tal como a prevenção, que pressupõe distribuição (CPP, art. 75, parágrafo único).
+2. Hipótese em que não é possível precisar o local onde efetivamente se consumou a receptação, por não se saber onde foram adquiridos os produtos de crime anterior pelos vendedores do quiosque telefônico, a implicar adoção do segundo critério de fixação de competência legalmente estipulado no art. 69, inciso II, do CPP, qual seja, o domicílio do réu (art. 72 do CPP).
+3. Conflito conhecido para declarar a competência do Juízo da 1ª Vara Criminal da Comarca de Imperatriz/MA, o suscitante." (CC n. 145.730/MA, Quinta Turma, Relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 1/2/2017)
+Ante o exposto, conheço do conflito e dou por competente o Juízo de Direito da 3ª Vara Criminal de Timon - MA, ora Suscitado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECEPTAÇÃO DE APARELHO CELULAR OBJETO DE ROUBO. AUTORIA DO ROUBO DESCONHECIDA. RECEPTAÇÃO. CONSUMAÇÃO. LOCAL INCERTO. COMPETÊNCIA FIRMADA PELO DOMICÍLIO DO RÉU. ARTIGO 72 DO CPP. JUÍZO SUSCITADO.
