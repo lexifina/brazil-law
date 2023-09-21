@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública distrital em favor de CRISTIANO SIMÕES DE BARROS contra v. acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, nos autos da revisão criminal n. 0739678-43.2022.8.07.0000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 17 (dezessete) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 170 (cento e setenta) dias-multa, como incurso nas iras dos arts. 12, caput, 16, caput, parágrafo único, IV, da Lei n. 10.826/2003; e 250, § 1º, II, "b", 329, § 1º, do Código Penal (fls. 85-125).
+Inconformada, a defesa interpôs apelação - n. 2012111002187 - perante o Tribunal de origem, que deu parcial provimento ao recurso, a fim de redimensionar a pena em 10 (dez) anos e 08 (oito) meses de reclusão, mais o pagamento de 80 (oitenta) dias-multa, consoante voto condutor do acórdão de fls. 135-157.
+Ainda irresignada, a defesa ajuizou revisão criminal perante o Tribunal local, que julgou improcedente o pedido, nos termos do aresto de fls. 12-16.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois não foi observada a fração de 1/6 (um sexto) para o grau de diminuição relativo às atenuantes da confissão espontânea e da menoridade relativa.
+Requer, assim, a concessão da ordem.
+Informações prestadas às fls. 219-261.
+O Ministério Público Federal, às fls. 266-273, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem.
+É o relatório. DECIDO.
+Na presente impetração, a defesa busca a diminuição da sanção, ao fundamento de que a fração de 1/6 (um sexto) deve ser empregada em decorrência das atenuantes da confissão espontânea e da menoridade relativa.
+Esclareço que o Código Penal não estabelece percentuais mínimo ou máximo de aumento ou de redução da pena em decorrência da incidência de agravantes ou de atenuantes. Diante disso, este Tribunal Superior firmou o entendimento no sentido de que a exasperação ou diminuição da reprimenda, em regra, deve se ater à fração de 1/6 (um sexto), salvo em hipóteses excepcionais quando presente motivação idônea.
+Assinalo, ainda, que, "segundo jurisprudência do Superior Tribunal de Justiça, em razão da confissão ter sido parcial, justifica-se a redução da pena em fração inferior a 1/6" (AgRg no AREsp n. 2.286.191/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023). Nesse sentido: AgRg no AREsp n. 2.203.741/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; AgRg no HC n. 768.708/SC, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/12/2022; e AgRg no HC n. 768.899/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/12/2022.
+A par disso, não há ilegalidade na adoção de fração inferior a 1/6 (um sexto), por parte das instâncias ordinárias, haja vista a parcialidade da confissão.
+Quanto à atenuante da menoridade relativa, embora o aresto impugnado tenha afirmado que reprimenda fora diminuída em 1/6 (um sexto), não é esse o caso (fl. 15). A pena-base do delito de posse de arma de fogo de uso restrito foi fixada em 05 (cinco) anos de reclusão e 60 (sessenta) dias-multa. Assim, 1/6 (um sexto) corresponde a 10 (dez) meses de reclusão, e não 06 (seis) meses, como afirmado no aresto impugnado (fl. 15).
+Desta feita, a dosimteria merece reparo nesse ponto.
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo da pena do delito de posse de arma de fogo de uso restrito (fls. 15-16 e 156).
+Primeira fase: conservo a pena- base no patamar estipulado pela Corte originária - 05 (cinco) anos de reclusão, mais o pagamento de 60 (sessenta) dias-multa.
+Segunda etapa: i) em razão da atenuante da menoridade relativa, diminuo a sanção em 1/6 (um sexto), de modo a conduzir a reprimenda para 04 (quatro) anos e 02 (dois) meses de reclusão, mais o pagamento de 45 (quarenta e cinco) dias-multa (diminuição mais favorável ao paciente estipulada na origem, quanto aos dias-multa); e ii) tendo em vista a atenuante da confissão (parcial), subtraio 02 (dois) meses de reclusão e 05 (cinco) dias-multa, motivo pelo qual a sanção atinge 04 (quatro) anos de reclusão, mais o pagamento de 40 (quarenta) dias-multa.
+Terceira fase: à míngua de causas de aumento e de diminuição de pena, torno a pena definitiva em 04 (quatro) anos de reclusão, mais o pagamento de 40 (quarenta) dias-multa.
+Em razão do concurso material com o crime de incêndio (fls. 155-156), fixo a pena definitiva em 10 (dez) anos e 04 (quatro) meses de reclusão, mais o pagamento de 80 (oitenta dias-multa).
+Ante o exposto, concedo parcialmente a ordem de habeas corpus, a fim de redimensionar a pena do paciente em 10 (dez) anos e 04 (quatro) meses de reclusão, mais o pagamento de 80 (oitenta dias-multa), mantidos os demais termos da condenação.
+Publique-se. Intime-se.
+EMENTA
