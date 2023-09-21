@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por STEMMANN EQUIPAMENTOS LTDA contra decisão monocrática de minha relatoria assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CPC/2015. CABIMENTO DE AGRAVO INTERNO - ART. 1.030, § 2o, DO CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042 DO CPC/2015. IMPOSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+A parte embargante sustenta que a decisão embargada padece de contradição e de omissão na medida em que tanto a ementa apontada no relatório quanto a suposta ausência de agravo interno destoariam da verdade dos autos.
+A parte embargada não se manifestou nos autos.
+É o relatório. Passo a decidir.
+Os embargos de declaração possuem a finalidade simples de suprir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material.
+Inicialmente, com relação à ementa colacionada na monocrática, com razão a embargante.
+Assim, é devido o acolhimento dos presentes aclaratórios no que diz respeito à ementa de maneira que onde consta a ementa do acórdão recorrido (e-STJ fl. 231), conste:
+APELAÇÃO Ação de repetição de indébito ISS Valor da causa Equivalente ao valor efetivamente recolhido em virtude dos serviços prestados Competência Princípio da territorialidade O ISS é devido no local do fato gerador A ficção jurídica segundo a qual o tributo é devido no local do estabelecimento prestador não deve subsistir, quando for incontroverso o local da prestação do serviço, diverso daquele RECURSO PARCIALMENTE PROVIDO.
+No mais, com relação à interposição de agravo interno, os aclaratórios não comportam acolhida.
+Isso porque é firme a jurisprudência deste e.STJ no sentido de que o único recurso cabível para debater sobre possíveis equívocos na aplicação do art. 1.030, I, do CPC é o agravo interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual, de forma que não é cabível o agravo em recurso especial interposto.
+A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRÂNSITO. TRANSPORTE DE MERCADORIAS CLANDESTINAS. RESPONSABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PROPORCIONALIDADE DA PENALIDADE APLICADA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 1.030, I, DO CPC/2015. RECURSO ESPECIAL INCABÍVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Com relação à alegada violação ao art. 688, V e §2º, do Decreto Lei 6.759/2009, da leitura do inteiro teor do aresto recorrido, verifica-se a ausência de manifestação da Corte de origem sobre a tese recursal com enfoque no dispositivo legal tido por violado.
+2. Inexistindo oposição de embargos declaratórios para tais fins, resta patente a ausência do indispensável requisito do prequestionamento, circunstância que atrai, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e da Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+3. Modificar a conclusão do acórdão da Corte a quo demandaria o reexame fático-probatório dos autos, procedimento vedado pela Súmula 7 desta Corte.
+4. Acerca da alegação de desproporcionalidade da penalidade aplicada no caso concreto, a falta de indicação do dispositivo infraconstitucional tido como violado caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+5. É firme a jurisprudência do STJ no sentido de que o único recurso cabível para debater sobre possíveis equívocos na aplicação do art. 1.030, I, do CPC é o agravo interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.258.345/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Assim, no ponto, a análise das razões recursais revela tão somente a pretensão da parte em alterar o resultado do decisum, o que é inviável nesta seara recursal.
+Cito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. O embargante afirma que o Tribunal de origem deixou de incluir na base de cálculo da verba honorária todos os objetos que integram a condenação e "manteve o percentual dos 15% de honorários apenas sobre o valor da indenização por dano moral".
+2. Compulsando-se os autos, extrai-se do acórdão recorrido que a Corte local, ao se pronunciar sobre os honorários advocatícios, consignou que "quanto ao ônus de sucumbência, a sentença realmente merece ser aclarada, como pleiteado não só nas razões de apelação, como também nos embargos de declaração. Levando-se em consideração a completa vitória do autor, por conta do preceito condenatório da sentença a verba honorária deve ter como base de cálculo o valor total da condenação, R$ 10.000,00 acrescidos dos consectários nela definidos, e em 15%, nos termos do art. 85, § 3º, I, do CPC, já incluídos os honorários recursais pelo acolhimento total do apelo.
+Tal montante remunera condignamente o trabalho realizado pelo patrono do autor" (fl. 430, e-STJ, grifei).
+3. Logo, como fixado no acórdão embargado, a apreciação da tese recursal, em face da conclusão a que chegou o Tribunal a quo, implica reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+4. O argumento do embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+5. Embargos de Declaração rejeitados, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+(EDcl no AgInt no AREsp n. 2.187.016/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/6/2023, DJe de 27/6/2023.)
+Ante o exposto, acolho parcialmente os embargos de declaração, sem efeitos modificativos, apenas para corrigir erro material com relação à ementa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMENTA. ERRO MATERIAL. CONFIGURAÇÃO. NEGATIVA DE SEGUIMENTO (ART. 1.030, I, "B", DO CPC). AGRAVO INTERNO. ÚNICO RECURSO CABÍVEL. OMISSÃO E CONTRADIÇÃO. AUSÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE SEM EFEITOS MODIFICATIVOS.
