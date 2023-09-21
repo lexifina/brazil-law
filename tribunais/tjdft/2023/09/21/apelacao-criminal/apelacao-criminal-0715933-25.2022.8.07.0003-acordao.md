@@ -1,0 +1,303 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Criminal
+Processo N.APELAÇÃO CRIMINAL 0715933-25.2022.8.07.0003APELANTE(S)JAILSON PEREIRA LIMAAPELADO(S)MINISTERIO PUBLICO DO DISTRITO FEDERAL E DOS TERRITORIOSRelatorDesembargador ROBERVAL CASEMIRO BELINATIRevisorDesembargador SILVANIO BARBOSA DOS SANTOS
+ Acórdão Nº1761677
+
+EMENTA
+
+APELAÇÃO CRIMINAL. CRIME DE FURTO. SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PEDIDO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO ACOLHIMENTO. AUSÊNCIA DOS VETORES CARACTERIZADORES. RÉU REINCIDENTE E COM MAUS ANTECEDENTES. MANUTENÇÃO DA AVALIAÇÃO NEGATIVA DA CONDUTA SOCIAL. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. FIXAÇÃO DO REGIME ABERTO. ACOLHIMENTO. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. O princípio da insignificância exige, para a sua aplicação, a mínima ofensividade da conduta do agente, nenhuma periculosidade social da ação, o reduzidíssimo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica. No caso dos autos, verifica-se que o recorrente é multirreincidente e ostenta outras condenações definitivas por crimes contra o patrimônio, tornando a conduta mais reprovável e inviabilizando a aplicação do princípio da insignificância.
+
+2. Mantém-se a avaliação desfavorável da conduta social, pois o delito foi praticado na constância do cumprimento de pena de outro crime. Precedentes.
+
+3. Tratando-se de hipótese de multirreincidência, a compensação entre esta circunstância agravante e a circunstância atenuante da confissão espontânea deve ocorrer tão somente de forma parcial.
+
+4. O Plenário do Supremo Tribunal Federal, no julgamento do Habeas Corpus n. 123.108/MG, decidiu, por maioria, que, quando o Juiz, na hipótese de crime de furto, deixar de reconhecer a atipicidade da conduta pela aplicação do princípio da insignificância (em sendo a sua incidência cogitável) por força da reiteração de fatos criminosos, deve ser adotado, como regra, o regime inicial aberto para o cumprimento da pena, em homenagem ao princípio da proporcionalidade. Posteriormente, passou a admitir, também, a substituição da pena privativa de liberdade por restritivas de direitos em tais hipóteses.
+
+5. Na espécie, a aplicação do princípio da insignificância somente foi afastada ante a reprovabilidade da conduta do agente, estando presentes, de outro lado, os requisitos objetivos, razão pela qual a fixação do regime inicial semiaberto para o cumprimento da pena e o indeferimento da substituição da pena privativa de liberdade por penas restritivas de direitos mostram-se desproporcionais quando confrontados com as particularidades do caso em análise, em que o réu foi condenado pelo furto de cremes dentais.
+
+6. Recurso conhecido e parcialmente provido para, mantida a sentença que condenou o réu nas sanções do artigo 155, caput, do Código Penal (furto), à pena de 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de reclusão, e 15 (quinze) dias-multa, calculados à razão mínima, bem como para alterar o regime inicial de cumprimento de pena do semiaberto para o aberto e deferir a substituição da pena corporal por duas penas restritivas de direitos, nos moldes e condições a serem fixados pelo Juízo da Vara de Execução das Penas e Medidas Alternativas.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, ROBERVAL CASEMIRO BELINATI - Relator, SILVANIO BARBOSA DOS SANTOS - Revisor e JAIR SOARES - 1º Vogal, sob a Presidência do Senhor Desembargador JOSAPHÁ FRANCISCO DOS SANTOS, em proferir a seguinte decisão: DAR PARCIAL PROVIMENTO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Setembro de 2023
+
+Desembargador ROBERVAL CASEMIRO BELINATIRelator
+
+RELATÓRIO
+
+Cuida-se de recurso de APELAÇÃO CRIMINAL interposto por Jailson Pereira Lima contra a sentença que o condenou como incurso nas sanções do artigo 155, caput, do Código Penal (furto), nos autos da ação penal n.º 0715933-25.2022.8.07.0003, em curso perante o Juízo da Terceira Vara Criminal da Circunscrição Judiciária de Ceilândia/DF (ID 49733449).
+
+O réu foi denunciado pelo crime do artigo 155, caput, do Código Penal, tendo a denúncia narrado os fatos nos seguintes termos (ID 49733390):
+
+“[...] No dia 10 de junho de 2022, por volta de 13h05, no interior do Supermercado Ultrabox, situada na QNN 25, CJ B, Lt 1, Ceilândia/DF, o denunciado JAILSON PEREIRA LIMA subtraiu, 4 (quatro) cremes dentais da marca Sensodyne Rápido Alívio, pertencentes ao estabelecimento comercial Supermercado Ultrabox.
+
+Nas circunstâncias acima especificadas, o denunciado adentrou ao Supermercado Ultrabox e apoderou-se dos 4 (quatro) cremes dentais da marca Sensodyne rápido alívio, colocou dentro de uma sacola preta e saiu do estabelecimento, sem realizar o pagamento.
+
+Ato contínuo, um funcionário do setor de prevenção de perdas do supermercado foi demandado e perseguiu o denunciado, que se evadiu correndo.
+
+Policiais militares foram acionados pelo mesmo funcionário, localizaram JAILSON e encontraram as mercadorias subtraídas em seu poder, razão pela qual lhe deram voz de prisão em flagrante. [...]”
+
+Processada a ação penal, o Magistrado julgou procedente a pretensão punitiva deduzida na denúncia e condenou o réu pelo crime de furto, às penas de 01 (um) ano, 06 (seis) meses e 15 (quinze) dias de reclusão, em regime inicial semiaberto, e 15 (quinze) dias-multa, calculados à razão mínima. Foram indeferidas a substituição da pena privativa de liberdade por penas restritivas de direitos e a suspensão condicional da pena. Ao sentenciado foi concedido o direito de recorrer em liberdade (ID 49733449).
+
+O réu foi intimado da sentença pessoalmente, tendo manifestado interesse em recorrer (ID 49733453).
+
+Em suas razões recursais (ID 49733458), a Defesa requer a absolvição do acusado por atipicidade da conduta, ao argumento de que plausível a incidência do princípio da insignificância.
+
+Subsidiariamente, pede a redução da pena aplicada com o afastamento da avaliação negativa da conduta social e ainda a fixação do regime inicial aberto para o cumprimento da pena.
+
+Por fim, pede o prequestionamento da matéria, com a manifestação expressa acerca dos temas que delineiam a matéria.
+
+O Ministério Público do Distrito Federal e Territórios deixou de apresentar contrarrazões formais ao recurso (ID 49733461).
+
+Parecer da eminente Procuradora de Justiça, Drª. Marta Eliana de Oliveira, pelo conhecimento e não provimento do recurso (ID 49937816).
+
+É o relatório.
+
+À douta revisão, com sugestão de julgamento virtual.
+
+VOTOS
+
+O Senhor Desembargador ROBERVAL CASEMIRO BELINATI - RelatorPresentes os pressupostos de admissibilidade, conheço do recurso de apelação criminal.
+
+DA ABSOLVIÇÃO – ATIPICIDADE DA CONDUTA/PRINCÍPIO DA INSIGNIFICÂNCIA
+
+A Defesa requer a absolvição do acusado por atipicidade da conduta, ao argumento de que plausível a incidência do princípio da insignificância. Sustenta que o valor da res furtiva é ínfimo, totalizando R$ 60,76 (sessenta reais e setenta e seis centavos), acrescentando que os bens foram restituídos à vítima.
+
+O pleito não deve ser acolhido.
+
+O princípio da insignificância ou da bagatela, embora não previsto em lei, tem aplicação consagrada pela doutrina e jurisprudência pátrias, a fim de excluir a tipicidade penal, nos casos em que a ofensividade da conduta, de tão ínfima, não é penalmente relevante. Tal postulado decorre dos princípios da fragmentariedade e da intervenção mínima do Estado em matéria criminal, pois o Direito Penal só deve alcançar os fatos que acarretem prejuízo efetivo ao titular do bem jurídico ou à sociedade.
+
+De fato, a tipicidade penal ocorre quando a conduta do agente se amolda à descrição abstrata da norma; todavia, se a lesão não chega a atingir o bem jurídico tutelado, diante de sua insignificância, não há falar-se em adequação entre o fato e o tipo penal, de modo que aquele não merece a censura do Estado, pelo menos não do Direito Penal, cuja atuação somente se legitima quando insuficientes os demais ramos do direito.
+
+É necessária, pois, uma ofensividade mínima para que se caracterize a tipicidade penal. Assim, a atuação estatal não pode ir além do que o necessário para a preservação do interesse público, para a proteção dos indivíduos, da sociedade e dos bens jurídicos tutelados pela lei. Dessa forma, além do enquadramento formal ao tipo penal, deve haver também relevância material, consubstanciada em um grau mínimo de lesão ao bem jurídico protegido.
+
+Nos dizeres elucidativos do ex-Ministro Celso de Mello, do Supremo Tribunal Federal, no tocante ao princípio da insignificância, “considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público”.
+
+Não basta, pois, que o objeto material do crime seja de pequeno valor econômico, para que se aplique, de modo automático, o princípio da insignificância.
+
+Na espécie, conforme se extrai dos autos, o recorrente subtraiu quatro unidades de creme dental, pertencentes ao Supermercado Ultrabox, conforme Comunicação de Ocorrência Policial nº 6.670/2022 – 19ª DP (ID 49733374), tudo com valor de R$ 60,76 (sessenta reais e setenta e seis centavos – comprovante fiscal de ID 49733371).
+
+De outro norte, a conduta do réu não se enquadra nos elementos necessários à configuração do princípio da insignificância, uma vez que o apelante possui outras condenações transitadas em julgado por crimes contra o patrimônio praticados anteriormente ao delito ora analisado, tratando-se de réu que ostenta maus antecedentes e multirreincidência (ID 49733448 – págs. 9/10, 22/23, 27 e 28).
+
+Nessa mesma linha, o Superior Tribunal de Justiça vem entendendo que o princípio da insignificância não pode ser aplicado a réus contumazes – circunstância que demonstra um maior grau de reprovabilidade da conduta –, sob pena de incentivar a prática de pequenos delitos. Nesse sentido, confira-se:
+
+“[...] 1. O entendimento perfilhado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, no sentido de que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva. 2. Ademais, merece destaque que a prática de furto qualificado pelo concurso de agentes, caso dos autos, reforça a compreensão de maior reprovabilidade da conduta, circunstância que, aliada à reincidência específica, afasta a possibilidade de aplicação do princípio da insignificância, mesmo diante do baixo valor da res furtiva [...]”. (AgRg no AREsp n. 2.007.579/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, DJe de 27/4/2022.)
+
+“[...] 1. "A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos" (AgRg no AREsp n. 896.863/RJ, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/6/2016).
+
+2. Ademais, no caso, a res furtiva foi avaliada em R$ 110,00 (cento e dez reais), valor que não pode ser considerado insignificante, pois representava mais de 10% (dez por cento) do salário mínimo vigente à época do fato (julho de 2020 - R$ 1.045,00), situação que corrobora a notória tipicidade material da conduta. [...]” (AgRg no HC 620.815/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+
+“[...] 2. Ressalvada compreensão diversa, ainda que restituído o bem e inexpressivo o valor da res furtiva, R$ 100,00, correspondente a aproximadamente a 10% do salário mínimo vigente à época, a habitualidade delitiva do paciente, caracterizada pela reincidência e maus antecedentes específicos, é suficiente para afastar a aplicação do princípio da insignificância. Precedentes. [...]” (HC 606.112/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/10/2020, DJe 13/10/2020)
+
+Tal entendimento vem norteando os julgados desta Corte:
+
+“[...] 3. Comprovada a reiteração delitiva, não há como se aplicar o princípio da insignificância. Precedentes. [...]” (Acórdão 1733615, 07358498520218070001, Relator: ASIEL HENRIQUE DE SOUSA, 1ª Turma Criminal, data de julgamento: 20/7/2023, publicado no PJe: 1/8/2023.)
+
+“[...] 2. Segundo precedentes do STF e do STJ, a análise da incidência do princípio da insignificância deve abranger também a reincidência ou a contumácia do agente.  3. Inaplicável o benefício da bagatela própria ou imprópria, pois não é razoável manter impune o agente que, de forma reiterada, prática crimes patrimoniais. [...]” (Acórdão 1719778, 07066003320198070010, Relator: ROBSON BARBOSA DE AZEVEDO, 2ª Turma Criminal, data de julgamento: 15/6/2023, publicado no PJe: 8/7/2023.)
+
+“[...] III - Inviável reconhecer a insignificância quando demonstrado o alto grau de reprovabilidade do comportamento do agente, reincidente específico e condenado por outros delitos. [...]” (Acórdão 1700755, 07059911920208070009, Relatora: NILSONI DE FREITAS CUSTODIO, 3ª Turma Criminal, data de julgamento: 11/5/2023, publicado no PJe: 19/5/2023.)
+
+Dentre as certidões apontadas, verifica-se que o réu ostenta duas condenações definitivas por crimes de furto, uma condenação definitiva por crime de receptação, além de uma condenação definitiva pelo delito de tráfico de drogas, o que impede a aplicação do princípio da insignificância.
+
+Assim, não atendidos os requisitos necessários para a configuração do princípio da insignificância, não há como prosperar o pleito defensivo.
+
+DA PENA-BASE
+
+A Defesa requer, subsidiariamente, o afastamento da valoração negativa da conduta social, ao argumento de que o magistrado de primeira instância não fundamentou, de forma adequada, nesse ponto, limitando-se a fazer menção à jurisprudência do Superior Tribunal de Justiça. Aduz, ainda, que a aludida circunstância judicial busca investigar a fama em sociedade do agente, não podendo ser valorada em desfavor do réu que pratica crime durante o cumprimento de pena de outro delito, sob pena de bis in idem.
+
+Sem razão.
+
+Na primeira fase da dosimetria, o Juiz a quo fixou a pena-base em 01 (um) ano e 04 (quatro) meses de reclusão e 13 (treze) dias-multa, ou seja, 04 (quatro) meses de reclusão e 03 (três) dias-multa acima do mínimo legal, em virtude da análise desfavorável das circunstâncias judiciais dos antecedentes e da conduta social. Confira-se (ID 49733449 - págs.6/74):
+
+“[...] A culpabilidade em nada se destaca.
+
+O réu é portador de maus antecedentes, em face da condenação definitiva no processo 0706501-67.2022.8.07.0007, por fato anterior (ID 163381206).
+
+A conduta social do sentenciado deve ser valorada como negativa, tendo em vista que praticou o crime durante o cumprimento de pena por delito anterior, enquanto gozava de benefícios da execução da pena, conforme relatório da execução penal (ID 163381206).
+
+Nesse sentido:
+
+(...) “Justifica-se a valoração negativa da conduta social quando o réu pratica novo crime durante a execução de pena por delito anterior, enquanto gozava de benefícios da execução penal, o que denota indiferença e desinteresse por qualquer reintegração social”. (...) (Acórdão 1310644, 07014155020208070019, Relator: JOÃO TIMÓTEO DE OLIVEIRA, 2ª Turma Criminal, data de julgamento: 10/12/2020, publicado no PJe: 2/1/2021. Pág.: Sem Página Cadastrada). (Grifamos).
+
+A personalidade do réu não restou esclarecida.
+
+O motivo do crime é inerente ao tipo penal.
+
+As consequências e as circunstâncias do crime em nada se destacaram.
+
+Não há que se falar em influência do comportamento da vítima.
+
+Desse modo, considerando que duas das circunstâncias judiciais foram valoradas como negativas, estabeleço a pena-base em 1 (um) ano e 4 (quatro) meses de reclusão, mais 13 (treze) dias-multa. [...]”
+
+Em relação aos antecedentes criminais, verifica-se que o acusado ostenta quatro condenações criminais definitivas por fatos anteriores ao ora analisado (ID 49733448 – págs. 9/10, 22/23, 27 e 28), tendo o Magistrado sentenciante adotado uma delas para a configuração dos maus antecedentes (autos 0706501-67.2022.8.07.0007).
+
+Outrossim, deve ser mantida a avaliação negativa da conduta social na dosimetria da pena. Isso porque o Magistrado sentenciante considerou que a conduta do acusado foi dotada de maior reprovabilidade no seio social, vez que ele estava em cumprimento de pena quando cometera o fato narrado nestes autos, o que evidentemente não caracteriza um elemento ínsito ao tipo penal de furto e nem circunstância exógena ao fato criminoso.
+
+No mesmo sentido, os seguintes precedentes desta Corte de Justiça:
+
+“[...] A avaliação desfavorável da conduta social em razão do cometimento de crime durante o cumprimento de pena configura fundamentação idônea, haja vista a violação da confiança depositada pelo Estado no detento que goza dos benefícios do regime aberto, além da falta de senso de responsabilidade e mudança de postura. [...]” (Acórdão 1699305, 07215783120228070003, Relator: ESDRAS NEVES, 1ª Turma Criminal, data de julgamento: 11/5/2023, publicado no PJe: 19/5/2023. Pág.: Sem Página Cadastrada.)
+
+“[...] 4. O cometimento de novo crime durante o período de cumprimento de pena por condenação anterior autoriza a valoração negativa da conduta social do acusado na primeira fase da dosimetria da reprimenda, uma vez que demonstra a inadequação do seu comportamento perante a sociedade, caracterizada, principalmente, pela violação da confiança conferida ao réu pelo Estado, denotando inclinação criminosa. [...]” (Acórdão 1701425, 07018915620228070007, Relator: JOSAPHA FRANCISCO DOS SANTOS, 2ª Turma Criminal, data de julgamento: 18/5/2023, publicado no PJe: 30/5/2023. Pág.: Sem Página Cadastrada.) “[...] II - Preserva-se a análise negativa da conduta social quando comprovado que o réu praticou o crime quando estava em pleno cumprimento de pena fixada por crime anterior, deixando de apresentar o comportamento esperado e frustrando a confiança depositada pelo Estado em sua ressocialização. [...]” (Acórdão 1703660, 07027082120218070019, Relator: NILSONI DE FREITAS CUSTODIO, 3ª Turma Criminal, data de julgamento: 18/5/2023, publicado no PJe: 29/5/2023. Pág.: Sem Página Cadastrada.)
+
+Portanto, é de ser mantida a avaliação negativa da circunstância judicial da conduta social.
+
+No tocante ao quantum de aumento operado na primeira fase do cálculo penalógico, este não merece nenhum reparo.
+
+Isso porque, a jurisprudência desta Segunda Turma Criminal tem admitido como razoável e proporcional a exasperação da pena-base no patamar de 1/6 (um sexto) para cada circunstância judicial valorada negativamente. Confira-se:
+
+"[...] 2. O Superior Tribunal de Justiça, em recentes julgados, passou a considerar proporcional a fração de 1/6 (um sexto) sobre a pena mínima abstrata para cada circunstância judicial negativa na primeira etapa da dosimetria, salvo fundamentação idônea específica para adoção de fração diversa. [...]" (Acórdão 1311231, 07165575120208070001, Relator: SILVANIO BARBOSA DOS SANTOS, 2ª Turma Criminal, data de julgamento: 17/12/2020, publicado no PJe: 2/2/2021. Pág.:  Sem Página Cadastrada.)
+
+"[...] 4. O e. STJ tem adotado, na pena-base, o acréscimo de 1/6 (um sexto) da pena mínima cominada em abstrato para cada circunstância judicial desfavorável. [...]" (Acórdão 1312007, 07327239520198070001, Relator: JOÃO TIMÓTEO DE OLIVEIRA, 2ª Turma Criminal, data de julgamento: 21/1/2021, publicado no PJe: 30/1/2021. Pág.:  Sem Página Cadastrada.)
+
+"[...] 2. De acordo com a Jurisprudência consolidada do Colendo Superior Tribunal de Justiça, na primeira fase da dosimetria utiliza-se a exasperação de 1/6 (um sexto) da pena mínima legal para cada uma das circunstâncias judiciais desfavoráveis, em atendimento aos princípios da razoabilidade e da proporcionalidade, tendo em vista ser esta a menor fração de aumento encontrada no Código Penal. Primeira fase da dosimetria da pena readequada. [...]" (Acórdão 1311224, 00060926720158070011, Relator: ROBSON BARBOSA DE AZEVEDO, 2ª Turma Criminal, data de julgamento: 17/12/2020, publicado no PJe: 27/1/2021. Pág.:  Sem Página Cadastrada.)
+
+"[...] 5 - O e. STJ tem adotado o acréscimo na pena-base de 1/6 da pena mínima cominada para cada circunstância judicial desfavorável, inclusive para os crimes de tráfico de entorpecentes. [...]" (Acórdão 1311241, 07359344220198070001, Relator: JAIR SOARES, 2ª Turma Criminal, data de julgamento: 17/12/2020, publicado no DJE: 27/1/2021. Pág.:  Sem Página Cadastrada.)
+
+No mesmo sentido, o entendimento do Superior Tribunal de Justiça:
+
+“[...] 2. Nessa linha, a jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 para cada circunstância judicial negativa, fração que se firmou em observância aos princípios da razoabilidade e proporcionalidade. [...]” (AgRg no AREsp 1744002/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020)
+
+“[...] XII - Embora a jurisprudência desta Corte tenha-se firmado no sentido de que a exasperação da pena-base para cada circunstância judicial negativamente valorada deve limitar-se, de ordinário, ao acréscimo de 1/6 (um sexto), nada impede que o magistrado, no âmbito de sua discricionariedade regrada e em observância do princípio da individualização da pena, eleve o patamar da pena-base em fração superior, desde que mediante fundamentação específica, como ocorreu na espécie. [...]” (AgRg no REsp 1840416/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/10/2020, DJe 23/11/2020)
+
+“[...] 3. Na ausência de fundamentação concreta e específica para adoção de critério diferenciado, mostra-se razoável a exasperação da pena-base, pela existência de circunstâncias judiciais desfavoráveis, em até 1/6 (um sexto) sobre o mínimo legal para cada vetor judicial negativo. Precedentes. [...]” (AgRg no HC 528.258/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/11/2020, DJe 27/11/2020)
+
+“[...] 2. Prevalece neste Superior Tribunal que cada vetorial desfavorecida, na primeira etapa da dosimetria, enseja a exasperação de 1/6 sobre a reprimenda mínima, caso não haja motivação específica que justifique a elevação acima desse patamar. [...]” (AgRg no HC 607.497/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/09/2020, DJe 30/09/2020).
+
+No caso dos autos, o preceito secundário do tipo penal de furto estabelece pena mínima de 01 (um) ano de reclusão, e 10 (dez) dias-multa.
+
+A sentença exasperou a pena-base em 04 (quatro) meses de reclusão e 03 (três) dias-multa pela avaliação negativa dos antecedentes e da conduta social, quantum este que deve ser mantido.
+
+DA COMPENSAÇÃO ENTRE A MULTIRREINCIDÊNCIA E A CONFISSÃO ESPONTÂNEA
+
+Na segunda fase, o Magistrado sentenciante reconheceu a circunstância agravante da multirreincidência e a atenuante da confissão espontânea, majorando a pena-base em 02 (dois) meses e 10 (vinte) dias, com base nos seguintes fundamentos (ID 49733449 - pág. 7):
+
+“[...] Na segunda fase, há a atenuante da confissão espontânea. Presente também a agravante da reincidência, tendo em vista as condenações nos processos 2012.03.1.012023-8, 2016.03.1.018411-8 e 2017.01.1.025362-9 (ID 163381206), todas aptas a gerarem a reincidência penal. Assim, considerando a multirreincidência do réu, compenso parcialmente tais circunstâncias e majoro a sanção para 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão, mais 15 (quinze) dias-multa. [...]”
+
+No que se refere à compensação entre a agravante da reincidência e a atenuante de confissão espontânea, a matéria foi pacificada no Superior Tribunal de Justiça, com o julgamento do EREsp 1154752/RS:
+
+“EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENAL. NOTÓRIO DISSÍDIO JURISPRUDENCIAL. MITIGAÇÃO DOS REQUISITOS FORMAIS DE ADMISSIBILIDADE. ROUBO. CÁLCULO DA PENA. COMPENSAÇÃO DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. 1. Quando se trata de notório dissídio jurisprudencial, a jurisprudência do Superior Tribunal de Justiça diz que devem ser mitigados os requisitos formais de admissibilidade concernentes aos embargos de divergência. Precedentes. 2. É possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal. 3. Embargos de divergência acolhidos para restabelecer, no ponto, o acórdão proferido pelo Tribunal local.” (EREsp 1154752/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 23/05/2012, DJe 04/09/2012).
+
+Entretanto, as 5ª e 6ª Turmas da mesma Corte, seguindo a orientação firmada pela Terceira Seção no Habeas Corpus 365.963/SP, adotaram entendimento de que, tratando-se de multirreincidência, não é possível haver compensação total com a confissão espontânea.
+
+Assim, tendo o réu mais de uma condenação transitada em julgado, a compensação entre as circunstâncias deve ocorrer tão somente de forma parcial.
+
+Nesse sentido, vejam-se recentes julgados do Superior Tribunal de Justiça, verbis:
+
+“PENAL. RECURSO ESPECIAL. DESCAMINHO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE PELA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. QUANTUM PROPORCIONAL E RAZOÁVEL. INEXISTÊNCIA DE DIREITO SUBJETIVO DO RÉU DE ADOÇÃO DE FRAÇÃO DE AUMENTO ESPECÍFICA. PRECEDENTES. COMPENSAÇÃO INTEGRAL DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DA REINCIDÊNCIA. IMPOSSIBILIDADE. RÉU MULTIRREINCIDENTE. POSSIBILIDADE DE COMPENSAÇÃO PARCIAL. PRECEDENTES. FRAÇÃO DE AUMENTO SUPERIOR A 1/6 NA SEGUNDA FASE DA DOSIMETRIA. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO AGRAVADA.
+
+I - O Supremo Tribunal Federal tem entendido que "a dosimetria da pena é questão de mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada" (HC n. 137.769/SP, Primeira Turma, Rel. Min. Roberto Barroso, julgado em 24/10/2016). O Pretório Excelso também entende não ser possível para as instâncias superiores reexaminar o acervo probatório para a revisão da dosimetria, exceto em circunstâncias excepcionais, já que, ordinariamente, a atividade dos Tribunais Superiores, em geral, e do Supremo, em particular, deve circunscrever-se "ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades" (HC n. 128.446/PE, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 15/9/2015).
+
+II - Sobre critério numérico de aumento para cada circunstância judicial negativa, insta consignar que esta Corte Superior de justiça entende que "A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. Assim, é possível que "o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto" (AgRg no REsp n. 143.071/AM, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 6/5/2015). Nesse contexto, a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o Direito pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça. Precedentes: AgRg no HC n. 355.362/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 01/08/2016; HC n. 332.155/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/05/2016; HC n. 251.417/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/11/2015; HC n. 234.428/MS, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2014.
+
+III - A confecção da dosimetria da pena não é uma operação matemática, e nada impede que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto (STF, Primeira Turma, RHC n. 101576, Relª. Minª. Rosa Weber, DJe de 14-08-2012). Ainda, certo é que não há direito subjetivo do réu à adoção de alguma fração de aumento específica para cada circunstância judicial negativa, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínimas e máximas ou mesmo outro valor.
+
+IV - In casu, a definição do quantum de aumento da pena-base, em razão de circunstância judicial desfavorável, está dentro da discricionariedade juridicamente fundamentada e observou os princípios da proporcionalidade, razoabilidade, necessidade e suficiência à reprovação e prevenção ao crime, de modo que não há reparos a serem realizados por esta Corte Superior.
+
+V - A Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo n. 1.341.370/MT, fixou a tese de ser possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência. Ademais, no julgamento do Habeas Corpus n. 365.963/SP, a Terceira Seção deste Superior Tribunal de Justiça uniformizou o entendimento das Turmas que a compõe no sentido de possibilitar a compensação da atenuante da confissão espontânea com a agravante da reincidência, irradiando seus efeitos para ambas as espécies (genérica e específica), ressalvados os casos de multirreincidência.
+
+VI - No presente caso, tenho que a pretensão defensiva não deve ser acolhida, na medida em que, de fato, conforme acima consignado, a integral compensação entre a agravante da multireincidência com a atenuante da confissão espontânea vai de encontro ao princípio da individualização da pena. Entretanto, possível a compensação parcial, como restou decidido pelo eg. Tribunal de origem. Demais, na hipótese, uma vez que se trata de recorrente que detém duas condenações transitadas em julgado, verifica-se que as frações adotadas pelo Tribunal a quo, em razão da multirrencidência do recorrente, aliada à confissão, mostram-se adequadas ao caso concreto. Agravo regimental desprovido.” (AgRg no REsp n. 1.907.572/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 22/11/2022, DJe de 2/12/2022.) (grifo nosso)
+
+“AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. SEGUNDA FASE. MULTIREINCIDÊNCIA. DUAS CONDENAÇÕES TRANSITADAS EM JULGADO. UMA COMPENSADA COM CONFISSÃO ESPONTÂNEA. OUTRA UTILIZADA PARA EXASPERAÇÃO. FRAÇÃO DE 1/6. PROPORCIONALIDADE. AUSÊNCIA DE ILEGALIDADE.
+
+1. A jurisprudência desta Corte superior é no sentido de que, se tratando de réu multirreincidente deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade (HC 531.187/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019 ).
+
+2. Hipótese em que o recorrente possui duas condenações transitadas em julgado por crimes praticados anteriormente ao de que trata o presente writ, pelo que não se verifica desproporcionalidade ou falta de razoabilidade na decisão das instâncias de origem em utilizar, na segunda fase dosimétrica, uma das condenações para a compensação com a confissão espontânea e a outra para exasperação da pena na fração de 1/6, solução alinhada com o entendimento do Superior Tribunal de Justiça.
+
+3. A lei não fixa parâmetros aritméticos para a exasperação da pena-base ou para a aplicação de atenuantes e de agravantes, cabendo ao magistrado, utilizando-se da discricionariedade motivada e dos critérios de razoabilidade e proporcionalidade, fixar o patamar que melhor se amolde à espécie.
+
+4. Agravo regimental improvido.” (AgRg no HC n. 663.271/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 24/8/2021, DJe de 31/8/2021.)
+
+Destacam-se, também, os seguintes julgados deste Tribunal de Justiça a respeito do tema:
+
+“PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIMES DE ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES. CRIMES PRATICADOS NAS MODALIDADES CONSUMADA E TENTADA. DOSIMETRIA. SEGUNDA ETAPA. CONFISSÃO ESPONTÂNEA. MULTIREINCIDÊNCIA. COMPENSAÇÃO PARCIAL. TEMA Nº 585/STJ. RECURSO CONHECIDO E DESPROVIDO.
+
+1. Consoante o entendimento firmado pelo Superior Tribunal de Justiça, é possível a compensação entre a atenuante da confissão espontânea e a agravante da reincidência. Todavia, configurada a multirreincidência do réu, a compensação entre as referidas circunstâncias deve ser mitigada, como ocorreu na espécie, em face da preponderância da multirreincidência, sem desprezar a força atenuante da confissão espontânea.
+
+2. A Terceira Seção do Superior Tribunal de Justiça readequou o tratamento dado à possibilidade de compensação entre a atenuante da confissão espontânea e a agravante da reincidência, de forma a contemplar a hipótese da multirrencidência. O Tema nº 585 foi reexaminado em sede de recursos repetitivos e fixou que "(...) nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade" (REsp 1.931.145/SP, Rel. Ministro Sebastião Reis Júnior, Data do Julgamento 22/06/2022).
+
+3. Recurso conhecido e desprovido.” (Acórdão 1687697, 07148638620218070009, Relator: DEMETRIUS GOMES CAVALCANTI, 3ª Turma Criminal, data de julgamento: 13/4/2023, publicado no PJe: 24/4/2023. Pág.: Sem Página Cadastrada).
+
+“[...] 2. O Superior Tribunal de Justiça tem considerado como proporcional a fração de 1/6 (um sexto) sobre a pena mínima abstrata, para cada circunstância judicial negativa, salvo fundamentação específica para adoção de fração superior.
+
+3. A multirreincidênca admite a compensação parcial com a atenuante da confissão espontânea, em atendimento aos princípios da individualização da pena e da proporcionalidade.  [...]” (Acórdão 1644578, 07166654020218070003, Relator: SILVANIO BARBOSA DOS SANTOS, 2ª Turma Criminal, data de julgamento: 24/11/2022, publicado no PJe: 5/12/2022).
+
+Dessa forma, deve ser adotado o entendimento firmado pelo Superior Tribunal de Justiça e por esta Corte em favor da compensação parcial entre múltipla reincidência e a confissão espontânea.
+
+Na segunda fase da dosimetria, o magistrado sentenciante reconheceu a presença da atenuante da confissão espontânea e a agravante da multirreincidência, majorando a pena-base então fixada na fração de 1/6 (um sexto) (ID 45374415 – Pág. 7).
+
+Na espécie, 03 (três) condenações transitadas em julgado foram utilizadas na segunda fase da dosimetria. Nesse contexto, considera-se que uma condenação foi compensada com a atenuante da confissão espontânea e as outras efetivamente foram utilizadas para acrescer a pena-base.
+
+E, nesse contexto, em relação ao quantum de agravamento pela multirreincidência, verifica-se que foi proporcional, razão pela qual deve ser mantida a fração de aumento em 1/6 (um sexto) sobre a pena-base, por se mostrar razoável às peculiaridades do caso concreto.
+
+Na terceira fase, à míngua de causas de aumento ou de diminuição de pena, estabiliza-se a reprimenda do acusado em 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de reclusão e 15 (quinze) dias-multa, não merecendo reparos.
+
+DO REGIME DE CUMPRIMENTO DE PENA
+
+A Defesa pede a fixação do regime inicial aberto para o cumprimento da pena. Aduz, para tanto, que “o juízo, de maneira desarrazoada, aplicou o regime mais gravoso ao recorrente, tendo fixado o regime fechado para o cumprimento inicial, agindo em desencontro com o entendimento uníssono do Supremo Tribunal Federal, que entende, em caso de não aplicação da insignificância para o reconhecimento da atipicidade da conduta, em razão da reincidência, deverá ser aplicado um regime inicial mais brando”.
+
+Com razão.
+
+Em relação ao regime prisional e à substituição da pena privativa de liberdade por restritiva de direitos, necessário tecer algumas considerações.
+
+Na espécie, a pena do recorrente foi fixada em 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de reclusão, e as circunstâncias judiciais foram avaliadas favoravelmente, com exceção dos antecedentes e da conduta social, tendo o Juízo a quo fixado o regime inicial de cumprimento da pena no semiaberto e indeferido a substituição da pena por restritivas de direitos, senão vejamos:
+
+“[...] Não é possível a substituição da pena privativa de liberdade por restritivas de direitos, tendo em vista ser o réu reincidente e portador de maus antecedentes, com fulcro no artigo 44, II e III, do Código Penal. [...]”
+
+No entanto, o Plenário do Supremo Tribunal Federal, no julgamento do Habeas Corpus n. 123.108/MG de relatoria do Ministro Roberto Barroso, em sessão realizada na data de 03 de agosto de 2015 e por maioria, decidiu que, na hipótese de crime de furto, quando o juiz deixar de reconhecer a atipicidade da conduta pela aplicação do princípio da insignificância (em sendo sua incidência cogitável) por força da reiteração de fatos criminosos, deve ser adotado, como regra, o regime inicial aberto para o cumprimento da pena, em homenagem ao princípio da proporcionalidade.
+
+Confira-se a ementa do Julgado:
+
+“PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. CRIME DE FURTO SIMPLES. REINCIDÊNCIA. 1. A aplicação do princípio da insignificância envolve um juízo amplo (“conglobante”), que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados. 2. Por maioria, foram também acolhidas as seguintes teses: (i) a reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; e (ii) na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c, do CP no caso concreto, com base no princípio da proporcionalidade. 3. No caso concreto, a maioria entendeu por não aplicar o princípio da insignificância, reconhecendo, porém, a necessidade de abrandar o regime inicial de cumprimento da pena. 4. Ordem concedida de ofício, para alterar de semiaberto para aberto o regime inicial de cumprimento da pena imposta ao paciente.” (HC 123108, Relator(a):  Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 03/08/2015, PROCESSO ELETRÔNICO DJe-018 DIVULG 29-01-2016 PUBLIC 01-02-2016) (grifos nossos)
+
+Oportuno destacar que ambas as Turmas da Corte Suprema, em casos concretos submetidos a julgamentos, perfilharam este entendimento. Confira-se:
+
+“RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DA PENA. VIABILIDADE. 1. Não se mostra possível acatar a tese de atipicidade material da conduta, pois não há como afastar o elevado nível de reprovabilidade assentado pelas instâncias antecedentes, ainda mais considerando os registros dando conta de que o paciente é reincidente. 2. Quanto ao modo de cumprimento da reprimenda penal, há quadro de constrangimento ilegal a ser corrigido. A imposição do regime inicial semiaberto parece colidir com a proporcionalidade na escolha do regime que melhor se coadune com as circunstâncias da conduta, de modo que o regime aberto melhor se amolda à espécie (cf. HC 123533, Relator(a): ROBERTO BARROSO, Tribunal Pleno, DJe de 18/2/2016; e HC 119885, Relator(a): Min. MARCO AURÉLIO, Relator(a) p/ Acórdão: Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 1º/8/2018). 3. Recurso Ordinário parcialmente provido, para fixar o regime inicial aberto”. (RHC 172532, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Primeira Turma, julgado em 26/10/2020, PROCESSO ELETRÔNICO DJe-285  DIVULG 02-12-2020  PUBLIC 03-12-2020, grifos nossos)
+
+“AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO POR FURTO SIMPLES. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. RÉU REINCIDENTE ESPECÍFICO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. ORDEM CONCEDIDA, DE OFÍCIO, QUANTO AO REGIME PRISIONAL. I – A configuração do delito de bagatela, conforme têm entendido as duas Turmas deste Tribunal, exige a satisfação, de forma concomitante, de certos requisitos, quais sejam, a conduta minimamente ofensiva, a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a lesão jurídica inexpressiva. II – No caso sob exame, o paciente foi condenado à pena definitiva de 1 ano e 4 meses de reclusão, em regime inicial semiaberto, pela prática do crime de furto simples, com aplicação da agravante da reincidência (art. 155 combinado com o art. 61, I, do CP). III – Ao analisarem a possibilidade de aplicação do princípio da insignificância ao caso concreto, as instâncias antecedentes, após aferirem o resultado material da conduta praticada pelo agente, ressaltaram a sua reincidência (específica) e contumácia na prática do delito em questão, elementos que, embora não determinantes, devem ser considerados. IV – Agravo regimental a que se nega provimento. V – Ordem concedida, de ofício, quanto ao regime prisional, para que o paciente inicie a execução de sua reprimenda no regime aberto, nos termos do que decidido pelo Plenário desta Corte no HC 123.108/MG.” (RHC 146304 AgR, Relator(a):  Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 16/03/2018, PROCESSO ELETRÔNICO DJe-059 DIVULG 26-03-2018 PUBLIC 27-03-2018) (grifos nossos)
+
+“Penal. Habeas Corpus originário. Crime de Tentativa de Furto. Aplicação do princípio da insignificância. Impossibilidade. Ordem concedida para fixar o regime aberto. 1. O Plenário do STF, no julgamento do HC 123.734, Rel. Min. Luís Roberto Barroso, decidiu que: “(i) a reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; e (ii) na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c , do CP no caso concreto, com base no princípio da proporcionalidade (...)”. 2. Não obstante a reincidência do paciente, o reduzido grau de reprovabilidade da conduta (tentativa de furto de 4 frascos de desodorante avaliados em R$ 31,28) justifica a aplicação do regime aberto. 3. Ordem concedida para conceder ao paciente o regime aberto.” (HC 139503, Relator(a):  Min. MARCO AURÉLIO, Relator(a) p/ Acórdão:  Min. ROBERTO BARROSO, Primeira Turma, julgado em 12/03/2019, PROCESSO ELETRÔNICO DJe-167 DIVULG 31-07-2019 PUBLIC 01-08-2019) (grifos nossos)
+
+“Penal. Habeas Corpus substitutivo de revisão criminal. Crime de Furto. Aplicação do princípio da insignificância. Impossibilidade. Ordem concedida de ofício. 1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal. 2. O Plenário do STF, no julgamento do HC 123.734, Rel. Min. Luís Roberto Barroso, decidiu que: “(i) a reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; e (ii) na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c , do CP no caso concreto, com base no princípio da proporcionalidade (...)”. 3. Não obstante a reincidência específica, o reduzido grau de reprovabilidade da conduta (furto de bicicleta avaliada em R$ 200,00 e restituída à vítima) justifica a aplicação do regime aberto. 4. Ordem concedida de ofício para conceder ao paciente o regime aberto.” (HC 143511, Relator(a):  Min. MARCO AURÉLIO, Relator(a) p/ Acórdão:  Min. ROBERTO BARROSO, Primeira Turma, julgado em 16/10/2018, PROCESSO ELETRÔNICO DJe-025 DIVULG 07-02-2019 PUBLIC 08-02-2019) (grifos nossos)
+
+“HABEAS CORPUS. FURTO QUALIFICADO. DETRAÇÃO PENAL NA SENTENÇA CONDENATÓRIA. ALTERAÇÃO ESTABELECIDA PELA LEI 12.736/2012. APLICAÇÃO IMEDIATA. IMPOSSIBILIDADE. JURISDIÇÃO ESGOTADA. REGIME PRISIONAL. COMPETÊNCIA DO JUÍZO DE EXECUÇÃO. FIXAÇÃO DO REGIME ABERTO. CONCESSÃO DA ORDEM DE OFÍCIO. 1. Inaplicável a modificação estabelecida na legislação processual penal acerca da detração penal a sentença condenatória antes da entrada em vigor da Lei 12.736/2012. 2. Na hipótese, excepcionalmente considerados os bens furtados e a desproporcionalidade da fixação do regime semiaberto do paciente, acolho o entendimento sufragado pelo Plenário desta Suprema Corte, no julgamento do HC 123.108/MG e do HC 123.533/SP, ambos da relatoria do Ministro Roberto Barroso, para impor o regime inicial aberto de cumprimento da pena. 3. Ordem de habeas corpus concedida de ofício.” (HC 128714, Relator(a):  Min. ROSA WEBER, Primeira Turma, julgado em 06/10/2015, PROCESSO ELETRÔNICO DJe-252 DIVULG 15-12-2015 PUBLIC 16-12-2015) (grifos nossos)
+
+Aliás, o Supremo Tribunal Federal, em análise de casos semelhantes aos dos autos, decidiu não aplicar o princípio da insignificância, mas alterar o regime inicial de cumprimento da pena do semiaberto para o aberto e também substituir a pena privativa de liberdade por restritiva de direitos. Confira-se:
+
+“HABEAS CORPUS. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERÂNCIA DELITIVA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. CONCESSÃO DE OFÍCIO. 1. A orientação firmada pelo Plenário do SUPREMO TRIBUNAL FEDERAL é no sentido de que a aferição da insignificância da conduta como requisito negativo da tipicidade, em crimes contra o patrimônio, envolve um juízo amplo, que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados (HC 123.533, Relator Min. ROBERTO BARROSO, Tribunal Pleno, DJe de 18/2/2016). 2. Busca-se, desse modo, evitar que ações típicas de pequena significação passem a ser consideradas penalmente lícitas e imunes a qualquer espécie de repressão estatal, perdendo-se de vista as relevantes consequências jurídicas e sociais desse fato decorrentes. 3. A aplicação do princípio da insignificância não depende apenas da magnitude do resultado da conduta. Essa ideia se reforça pelo fato de já haver previsão na legislação penal da possibilidade de mensuração da gravidade da ação, o que, embora sem excluir a tipicidade da conduta, pode desembocar em significativo abrandamento da pena ou até mesmo na mitigação da persecução penal. 4. Não se mostra possível acatar a tese de atipicidade material da conduta, pois não há como afastar o elevado nível de reprovabilidade assentado pelas instâncias antecedentes, ainda mais considerando os registros do Tribunal local dando conta de que o réu possui diversos registros criminais, ostentando, inclusive, uma condenação com trânsito em julgado por delito de natureza patrimonial, o que desautoriza a aplicação do princípio da insignificância, na linha da jurisprudência desta CORTE. 5. Quanto ao modo de cumprimento da reprimenda penal, há quadro de constrangimento ilegal a ser corrigido de ofício. A imposição do regime inicial semiaberto, com arrimo na reincidência, parece colidir com a proporcionalidade na escolha do regime que melhor se coadune com as circunstâncias da conduta de furto de bem pertencente a estabelecimento comercial, avaliado em R$ 31,20 (trinta e um reais e vinte centavos). Acrescente-se que as circunstâncias judiciais são favoráveis, razão por que a pena-base fora estabelecida no mínimo legal (cf. HC 123.533, Tribunal Pleno, Rel. Min. ROBERTO BARROSO), de modo que a conversão da reprimenda corporal por restritivas de direito melhor se amolda à espécie. 6. Ordem de Habeas Corpus concedida, de ofício, para converter a pena corporal em sanções restritivas de direito, cabendo ao Juízo de origem fixar as condições das penas substitutivas. [...]” (HC 137217, Relator(a):  Min. MARCO AURÉLIO, Relator(a) p/ Acórdão:  Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 28/08/2018, PROCESSO ELETRÔNICO DJe-250 DIVULG 22-11-2018 PUBLIC 23-11-2018) (grifos nossos)
+
+“Penal. Habeas Corpus substitutivo de revisão criminal. Furto tentado. Aplicação do princípio da insignificância. Impossibilidade. Ordem concedida de ofício. 1. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que o habeas corpus não pode ser utilizado como sucedâneo de revisão criminal. 2. O Plenário do STF, no julgamento do HC 123.734, Rel. Min. Luís Roberto Barroso, decidiu que: “(i) a reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; e (ii) na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c , do CP no caso concreto, com base no princípio da proporcionalidade (...)”. 3. Não obstante a reincidência, o reduzido grau de reprovabilidade da conduta (tentativa de furto de 6 unidades de salame avaliados em R$ 135,26) justifica a substituição da pena privativa de liberdade por duas penas restritivas de direitos, tal como decidido no HC 137.217, Redator para o acórdão o Min. Alexandre de Moraes. 4. Habeas Corpus não conhecido. Ordem concedida de ofício para substituir a pena privativa de liberdade por duas penas restritivas de direito a serem fixadas pelo Juízo da execução penal.” (HC 142083, Relator(a):  Min. MARCO AURÉLIO, Relator(a) p/ Acórdão:  Min. ROBERTO BARROSO, Primeira Turma, julgado em 02/10/2018, PROCESSO ELETRÔNICO DJe-221 DIVULG 16-10-2018 PUBLIC 17-10-2018) (grifos nossos)
+
+“Penal. Habeas Corpus substitutivo de revisão criminal. Crime de Furto. Princípio da Insignificância. Acusado reincidente. Peculiaridades da causa que autorizam a concessão da ordem de ofício. 1. A aplicação do princípio da insignificância envolve um juízo amplo (“conglobante”), que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou contumácia do agente, elementos que, embora não determinantes, devem ser considerados. 2. O Plenário do STF, no julgamento do HC 123.734, Rel. Min. Luís Roberto Barroso, explicitou as seguintes teses: (i) a reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; e (ii) na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c, do CP no caso concreto, com base no princípio da proporcionalidade. 3. Situação concreta em que, tendo em vista o princípio da proporcionalidade, e não obstante a reincidência específica, deve ser reduzida a pena imposta ao paciente, substituída por duas medidas restritiva de direitos. 4. Habeas Corpus não conhecido. Ordem concedida de ofício para diminuir a pena privativa de liberdade para 11 meses de reclusão, substituída por duas medidas restritivas de direitos a serem fixadas pelo Juízo de origem.” (HC 137425, Relator(a):  Min. MARCO AURÉLIO, Relator(a) p/ Acórdão:  Min. ROBERTO BARROSO, Primeira Turma, julgado em 11/09/2018, PROCESSO ELETRÔNICO DJe-220 DIVULG 15-10-2018 PUBLIC 16-10-2018) (grifos nossos)
+
+Na espécie, muito embora não se possa aplicar o princípio da insignificância em razão das condenações do réu, em observância ao entendimento do Supremo Tribunal Federal, a fixação do regime inicial semiaberto para o cumprimento da pena e o indeferimento da substituição da pena privativa de liberdade por duas penas restritivas de direitos mostram-se desproporcionais quando confrontados com as particularidades do caso em análise.
+
+Com efeito, observa-se que foram subtraídos quatro unidades de creme dental, pertencentes ao Supermercado Ultrabox (com valor de R$ 60,76 – sessenta reais e setenta e seis centavos, tendo sido restituídos), conforme Comunicação de Ocorrência Policial nº 6.670/2022 – 15ª DP (ID 49733374), por certo em quantia inferior a 10% (dez por cento) do salário mínimo vigente na data do delito, que era de R$ 1.212,00 (um mil duzentos e doze  reais)[1],  e, embora o réu ostente condenações criminais anteriores, as demais circunstâncias judiciais, na maioria, lhe são favoráveis.
+
+Nesse sentido já me manifestei:
+
+“[...] 4. Na espécie, a aplicação do princípio da insignificância somente foi afastada ante a reprovabilidade da conduta do agente, estando presentes, de outro lado, os requisitos objetivos, razão pela qual a fixação do regime inicial semiaberto para o cumprimento da pena e o indeferimento da substituição da pena privativa de liberdade por penas restritivas de direitos mostram-se desproporcionais quando confrontados com as particularidades do caso em análise, em que o réu foi condenado pelo furto de uma peça de carne.
+
+5. Aplicado o regime inicial aberto para o cumprimento da pena e concedida a substituição da pena privativa de liberdade por restritiva de direitos.
+
+6. Recurso conhecido e parcialmente provido para, mantida a condenação do réu nas sanções do artigo 155, caput, do Código Penal, afastar a análise desfavorável da culpabilidade, reduzindo a pena de 01 (um) ano e 02 (dois) meses de reclusão e 15 (quinze) dias-multa para 01 (um) ano e 01 (um) mês de reclusão e 11 (onze) dias-multa, no valor mínimo legal, alterar o regime inicial de cumprimento de pena do semiaberto para o aberto e deferir a substituição da pena corporal por uma pena restritiva de direitos, nos moldes e condições a serem fixados pelo Juízo da Vara de Execução das Penas e Medidas Alternativas”. (Acórdão 1395791, 07034854520218070006, Relator: ROBERVAL CASEMIRO BELINATI, 2ª Turma Criminal, data de julgamento: 27/1/2022, publicado no PJe: 10/2/2022. Pág.: Sem Página Cadastrada.)
+
+Assim, deve ser alterado o regime inicial de cumprimento de pena do semiaberto para o aberto. Ainda, tendo em vista ser a medida socialmente recomendável, cabível a substituição da pena privativa de liberdade por duas penas restritivas de direitos, nos moldes a serem estabelecidos pelo Juízo da Vara de Execução das Penas e Medidas Alternativas.
+
+Diante do exposto, conheço do recurso e dou-lhe parcial provimento para, mantida a sentença que condenou o réu nas sanções do artigo 155, caput, do Código Penal (furto), à pena de 01 (um) ano, 06 (seis) meses e 20 (vinte) dias de reclusão, e 15 (quinze) dias-multa, calculados à razão mínima, bem como para alterar o regime inicial de cumprimento de pena do semiaberto para o aberto e deferir a substituição da pena corporal por duas penas restritivas de direitos, nos moldes e condições a serem fixados pelo Juízo da Vara de Execução das Penas e Medidas Alternativas.
+
+Nos termos do Provimento nº 29/CNJ e da Lei Complementar nº 64/1990, a presente condenação gera inelegibilidade, de modo que os dados do réu devem ser incluídos no Cadastro Nacional de Condenados por Ato de Improbidade Administrativa e por Ato que implique Inelegibilidade - CNCIAI do Conselho Nacional de Justiça - CNJ.
+
+É como voto.
+
+[1] Lei nº 14.358/2022.
+O Senhor Desembargador SILVANIO BARBOSA DOS SANTOS - Revisor Com o relatorO Senhor Desembargador JAIR SOARES - 1º Vogal Com o relator
+
+DECISÃO
+
+DAR PARCIAL PROVIMENTO. UNÂNIME.
