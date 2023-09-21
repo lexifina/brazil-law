@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 83/STJ.
+Nas razões do especial, apontam os recorrentes a violação dos arts. 33, § 2º, 44, 59 e 68, todos do CP.
+Sustentam a falta de fundamentação idônea na exasperação da pena-base, porque as circunstâncias e as consequências do delito mostram-se inerentes ao tipo.
+Alegam ser cabível a compensação integral entre a reincidência e a confissão espontânea.
+Aduzem a ausência de motivação idônea no agravamento do regime prisional, entendendo ser viável o regime semiaberto, mormente diante da detração.
+Mencionam a admissibilidade na substituição da pena privativa de liberdade por penas restritivas de direitos, por preencherem os requisitos legais.
+Requerem o provimento do recurso especial, a fim de que seja redimensionada a pena, com alteração do regime inicial e convertida para penas restritivas de direitos.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que os réus foram condenados como incursos no art. 155, § 4º, IV, do CP. Em relação à dosimetria, o acórdão recorrido está assim fundamentado:
+Em que pese o esforço defensivo, nada há de ser alterado, porquanto a análise monocrática valeu-se de razões concretas, baseadas em elementos idôneos e extraídos da prova judicializada. Além disso, o patamar de exasperação evidencia-se equilibrado.
+Nesse jaez, o valor do bem subtraído (automotor) merece ser sopesado negativamente, na medida em que o prejuízo para a vítima revela-se de maior monta, denotando, portanto, a especial culpabilidade dos sentenciados, tal como sopesado.
+Na segunda etapa, com relação a Sidnei, a multirreincidência específica (cf. certidão de fls. 63/70) em cotejo com a confissão espontânea deu ensejo ao acréscimo de 1/6.
+Respeitada a tese defensiva, na hipótese concreta, a agravante descrita no artigo 61, inciso I, do Código Penal, deve preponderar, não só com espeque no artigo 67, do mesmo diploma legal, mas, sobretudo, por se tratar aqui de multirreincidência específica. Ora, a insistência em, reiteradamente, violar o patrimônio alheio, denota o potencial desvalor da conduta, impedindo a pleiteada compensação integral entre as circunstâncias agravante e atenuante.
+No que se refere a Jonathan, a reincidência (cf. certidão de fls. 95/98) restou compensada com a confissão espontânea.
+Ausentes outras causas modificadoras, as penas totalizaram 03 (três) anos e 06 (seis) meses de reclusão, acrescidos do pagamento de 17 (dezessete) dias-multa menores, para Sidnei, e 03 (três) anos de reclusão, acrescidos do pagamento de 15 (quinze) dias-multa menores, com relação a Jonathan.
+Por fim, o desfavorecimento concreto das circunstâncias judiciais, que, inclusive, ensejou o aumento das basilares, associado às múltiplas reincidências dos réus (circunstâncias subjetivas reveladoras de que os sentenciados insistem em praticar crimes) justificam e recomendam o estabelecimento do regime prisional fechado, enquanto castigo suficiente e proporcional para se atingir aos caracteres educativo, preventivo e curativo da sanção penal.
+Pelos mesmos fundamentos, impossível a substituição das privativas de liberdade por restritivas de direitos, evidenciando que a medida não seria socialmente adequada, nem recomendada.
+Assim sendo, e não se evidenciando erro técnico ou excessivo rigor, as punições devem ser mantidas, tal como monocraticamente estabelecidas.
+No caso, a pena-base foi exasperada em razão do elevado valor do bem subtraído, consistente em veículo automotor.
+É certo que o simples fato de ter havido prejuízo não tem o condão de justificar, por si só, o aumento da pena, por constituir, em regra, fator comum à espécie, enquanto delitos patrimoniais. Todavia, quando a lesão se mostrar expressiva, desborda do prejuízo inerente ao delito praticado, configurando motivação plenamente válida, apta a justificar, portanto, o aumento da pena-base.
+No caso, o Tribunal de origem manteve a exasperação da sanção inicial, diante do prejuízo suportado em relação à vítima, consubstanciado na subtração de veículo automotor, o que tem relevância social, evidenciando fundamento válido para a exasperação da pena-base visto que denotam maior gravidade concreta que extrapola o tipo penal. Veja-se:
+AGRAVO REGIMENTAL. HABEAS CORPUS. CONDENAÇÃO POR ROUBOS MAJORADOS. QUADRILHA. PENA-BASE. CONSEQUÊNCIAS E CIRCUNSTÂNCIAS DO DELITO. GRANDE PREJUÍZO ÀS VÍTIMAS. AUDÁCIA DA AÇÃO CRIMINOSA. ELEMENTOS QUE JUSTIFICAM A EXASPERAÇÃO.
+1. Admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com base no valor do prejuízo sofrido pela vítima.
+2. In casu, considerando os altos valores subtraídos pelo grupo criminoso, mostra-se adequada a elevação da sanção inicial.
+3. A forma audaciosa e o grau de coordenação com que praticados os delitos patrimoniais demonstram a maior reprovabilidade social das condutas e justificam o julgamento desfavorável das circunstâncias do crime.  ..
+(AgRg no HC 184.814/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/11/2013, DJe 21/11/2013.)
+Destaca-se que a jurisprudência desta Corte, no julgamento do EREsp 1.154.752/RS, apreciado sob o rito dos recursos repetitivos, em 23/5/2012, pacificou o entendimento de que a agravante da reincidência deve ser compensada com a atenuante da confissão espontânea, porquanto ambas envolvem a personalidade do agente, sendo, por consequência, igualmente preponderantes. Tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipótese na qual, como regra, não será devida a compensação integral entre a confissão e a reincidência.
+Em relação ao agravante Sidnei, em se tratando de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência, tal como ocorreu na espécie, em que as instâncias ordinárias reconhecem ser o acusado multirreincidente.
+Nesse contexto, considerando a preponderância da agravante sobre a atenuante, face à multirreincidência do acusado, admite-se, na segunda fase à compensação parcial, inexistindo, portanto, ilegalidade a ser sanada no presente caso. A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FURTO SIMPLES E FALSA IDENTIDADE. VIOLAÇÃO DOS ARTS 61, I, E 65, III, D, AMBOS DO CP. SEGUNDA FASE DA DOSIMETRIA. PEDIDO DE REAJUSTE DE FRAÇÕES ATINENTES À CONFISSÃO ESPONTÂNEA E À REINCIDÊNCIA. QUANTUM. DISCRICIONARIEDADE DO JUÍZO SENTENCIANTE. PROPORCIONALIDADE. VERIFICAÇÃO. OCORRÊNCIA. COMPENSAÇÃO INTEGRAL. INVIABILIDADE. MULTIRREINCIDÊNCIA DO AGRAVANTE ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS.
+ ..
+2. O entendimento manifestado pelas instâncias ordinárias, notadamente quanto à impossibilidade de compensação integral entre a atenuante da confissão espontânea e a constatada multirreincidência do agravante, está em conformidade com a jurisprudência desta Corte Superior.
+3. Em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta.  ..  Hipótese em que a fração de 1/4, utilizada para agravar a pena na segunda fase da dosimetria, lastreou-se no fato de pesarem contra o paciente três outras condenações definitivas, fundamentação idônea e de acordo com o postulado da proporcionalidade (HC n. 392.299/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/12/2017).
+4. Agravo regimental improvido (AgRg no REsp 1822454/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/09/2019, DJe 19/09/2019.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. RÉU QUE OSTENTA OUTRAS CONDENAÇÕES CRIMINAIS TRANSITADAS EM JULGADO. COMPENSAÇÃO PARCIAL ENTRE A ATENUANTE DA CONFISSÃO ESPONTÂNEA E A AGRAVANTE DA REINCIDÊNCIA. EXASPERAÇÃO DA PENA INTERMEDIÁRIA EM 1/6 (UM SEXTO). PROPORCIONALIDADE. AGENTE MULTIRREINCIDENTE. INSURGÊNCIA DESPROVIDA.
+1. Esta Corte Superior sedimentou o entendimento de que a agravante da reincidência pode ser compensada com a atenuante da confissão espontânea, devendo o julgador atentar, contudo, para as singularidades do caso concreto.
+2. Tratando-se de agente multirreincidente, mostra-se desproporcional a compensação integral e exata entre a atenuante da confissão e a agravante da reincidência na segunda etapa da dosimetria.
+3. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de que é admitida a aplicação de percentual superior a 1/6 (sexto) em razão da incidência das agravantes genéricas, desde que o julgador apresente fundamentação idônea motivada em elementos concretos dos autos.
+4. Na hipótese, o Tribunal de origem, após compensar parcialmente a atenuante da confissão espontânea com a agravante da reincidência, exasperou a reprimenda provisória em 1/6 (um sexto), inexistindo excesso na elevação procedida, visto que fundamentada na existência de multirreincidência delitiva.
+5. Agravo regimental desprovido (AgRg no HC 409.646/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/02/2018, DJe 07/03/2018.)
+Quanto ao regime prisional, apesar da pena fixada ser inferior a 4 anos, não há falar em regime menos severo, na medida em que os recorrente são reincidentes, com a valoração negativa de circunstancial judicial, motivo pelo qual é de se manter o regime fechado, nos termos do art. 33, §§ 2º e 3º, do CP. A propósito:
+PENAL. AGR AVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. RÉU REINCIDENTE E CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO FECHADO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Embora a pena definitiva do apelante seja inferior a 4 anos de reclusão, o regime inicial fechado (mais grave segundo o quantum da sanção aplicada) é o adequado para prevenção e reprovação do delito, tendo em vista a reincidência do agravante e a análise desfavorável das circunstâncias judiciais, consoante as diretrizes do art. 33, § 3º, do CP. Precedentes.
+2. Agravo desprovido.
+(AgRg no AREsp 1891460/AM, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2021, DJe 27/10/2021.)
+Do mesmo modo, constatada a existência de vetorial desfavorável, verifica-se a existência de motivação idônea para a negativa da substituição da pena privativa de liberdade por penas restritivas de direitos. Veja-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO. AVALIAÇÃO INDIRETA. REITERAÇÃO DELITIVA. REGIME MAIS GRAVOSO. NEGATIVA DA SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. A análise desfavorável das circunstâncias judiciais e a reincidência justificam a fixação do regime inicial semiaberto, bem como o afastamento da substituição da sanção privativa de liberdade por restritivas de direitos, ainda que a pena imposta ao réu seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, §§ 2º e 3º, e 44, II e III, c/c o art. 59, todos do Código Penal.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.364.778/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+Ademais, o recorrente Sidnei não faz jus à benesse legal, ante a reincidência específica, consoante art. 44, § 3º, do CP.
+Incide, pois, a Súmula 83/STJ.
+Em relação à detração, evidencia-se a falta de prequestionamento, pois a matéria não foi analisada pelo Tribunal de origem, atraindo as Súmulas 282 e 356/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
