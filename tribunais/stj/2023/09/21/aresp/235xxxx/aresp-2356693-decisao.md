@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão (e-STJ fls. 162/165) que inadmitiu o recurso especial, sob os seguintes fundamentos:
+(i) aplicação da Súmula n. 83 do STJ, uma vez que "o entendimento manifestado no acórdão recorrido acercada necessidade de comprovação pela parte autora dos valores alegadamente investidos em outubro de 1972, os quais não possuem qualquer respaldo nos documen tos acostados pelas partes ao processo, está em sintonia com a jurisprudência do Superior Tribunal de Justiça que já se posicionou no sentido de que é aplicável a inversão do ônus da prova em favor do correntista/consumidor, desde que este demonstre minimamente a existência do direito alegado" (e-STJ fl. 163);
+(ii) incidência da Súmula n. 83 do STJ, porque "não prospera a alegação de inobservância do Tema 411/STJ, uma vez que a conclusão da Câmara Julgadora também não destoa da orientação assentada pela Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.133.872/PB - Tema 411 do STJ -, sob a sistemática dos Recursos Repetitivos (Lei 11.672/2008), que firmou a seguinte tese para o julgamento das ações envolvendo expurgos inflacionários, o que não é, contudo, o caso dos autos" (e-STJ fls. 163/164); e
+(iii) aplicação da Súmula 7 dos STJ à pretensão de alteração das conclusões do acórdão recorrido quanto ao banco ter se desincumbido de seu ônus probatório e à parte não ter comprovado o investimento no "Fundo 157".
+Neste recurso (e-STJ fls. 173/181), a parte sustenta:
+(i) "não se pode aplicar a Súmula 83 do STJ uma vez que não há qualquer discordância com o Tema 411/STJ. É o contrário: o Tema 411 está na mais absoluta consonância com a argumentação da Agravante" (e-STJ fl. 178); e
+ii) a inaplicabilidade da Súmula n. 7 do STJ, porque "o que se busca é mostrar que a hipossuficiência da Autora legitima a mais ampla inversão do ônus da prova, forte a Súmula 297/STJ (que entende a relação entre instituição financeira e cliente adequadas ao Código do Consumidor) e, por consequência, a aplicação do artigo 6º, VIII, do Código de Defesa do Consumidor" (e-STJ fl. 178).
+Contraminuta apresentada às fls. 121/123 (e-STJ).
+É o relatório.
+Decido.
+A parte agravante não impugnou especificamente o fundamento da decisão ora agravada de que "o entendimento manifestado no acórdão recorrido acercada necessidade de comprovação pela parte autora dos valores alegadamente investidos em outubro de 1972, os quais não possuem qualquer respaldo nos documentos acostados pelas partes ao processo, está em sintonia com a jurisprudência do Superior Tribunal de Justiça que já se posicionou no sentido de que é aplicável a inversão do ônus da prova em favor do correntista/consumidor, desde que este demonstre minimamente a existência do direito alegado" (e-STJ fl. 163).
+Conforme a jurisprudência desta Corte Superior, "São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte agravante, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada" (AgInt no AREsp n. 2.300.457/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/8/2022, DJe de 24/8/2023).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ.
+2. A impugnação específica da aplicação da Súmula n. 83 exige a efetiva demonstração de que os julgados apontados na decisão de inadmissão do recurso especial foram superados pela jurisprudência do STJ ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula.
+3. Para afastar a incidência dos óbices das Súmulas n. 5 e 7 do STJ, cabe ao agravante desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do acervo fático-probatório e de cláusulas contratuais, esclarecendo especificamente quais fatos foram devidamente consignados no acórdão proferido. Não basta, portanto, a parte sustentar que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas e de análise de cláusulas contratuais.
+4. Agravo interno não conhecido.
+(AgI nt no AREsp n. 1.768.442/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+Portanto, o agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (art. 932, III, do CPC) e da aplicação, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Não fixados honorários sucumbenciais n estes autos, não há falar em sua majoração (art. 85, § 11, do CPC).
+Publique-se e intimem-se.
+ EMENTA
