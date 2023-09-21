@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRB BANCO DE BRASÍLIA S.A. com amparo na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão da Terceira Turma Cível do TJDFT assim ementado (fl. 181):
+PROCESSO CIVIL. CITAÇÃO. AUSÊNCIA. EXTINÇÃO DO PROCESSO. ART. 485, IV, CPC. CABÍVEL. INTIMAÇÃO PESSOAL. PRESCINDÍVEL. SENTENÇA MANTIDA.
+1. A impossibilidade de citação da parte ré por falta de endereço correto enseja a extinção da ação, nos termos do art. 485, IV, do CPC.
+2. É desnecessária a intimação pessoal da parte em casos de extinção do pleito por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo, consoante se depreende nos §§ 1º do art. 485 do CPC.
+3. Apelação conhecida e não provida.
+O recorrente sustenta que o feito não poderia ter sido encerrado com base no inciso IV do art. 485 do CPC. Alega que "jamais poderia ser a referida ação extinta com base no artigo 485 IV do NCPC, mas sim, deveria ter se fundamentado a decisão nos termos do artigo 485, III do NCPC, após a devida intimação pessoal da parte para prosseguimento do feito nos termos da Súmula 240 do STJ" (fl. 192).
+Pondera que houve excesso de formalismo e que a extinção do feito contraria os princípios da instrumentalidade e da efetividade processual. Aduz que nem sequer houve requerimento da parte contrária, o que seria de rigor, segundo o disposto no art. 267, III, do CPC de 1973. Afirma que não foram esgotados os meios para citação da parte devedora, podendo ainda ser promovida a citação por edital. Argumenta, por fim, que a recorrida agiu em desacordo com os princípios da lealdade, da probidade e da boa-fé contratuais, contrariamente ao que preceitua o art. 422 do Código Civil.
+O recurso recebeu juízo negativo de admissibilidade na origem, por deficiência de fundamentação, a atrair a incidência da Súmula n. 284 do STF.
+Interposto agravo em recurso especial, foi provido pelo Ministro Luis Felipe Salomão para melhor exame.
+É o relatório. Decido.
+O recorrente ajuizou ação monitória, postulando a constituição de título executivo judicial no valor de R$ 60.063,57, porém não logrou efetivar a citação da parte ré.
+A sentença julgou extinto o processo sem julgamento de mérito, com arrimo no art. 485, IV, do CPC de 2015, fazendo constar que, "frustrada a tentativa de citação pela via postal, o autor foi intimado a se manifestar a respeito a fim de promover a citação, permanecendo inerte" (fl. 141). Afastou a aplicação do art. 485, § 1º, do CPC de 2015, por não se tratar de extinção por abandono.
+O Tribunal a quo desproveu a apelação com base na seguinte fundamentação (fls. 184-185):
+Além do mais, a impossibilidade de citação da parte ré por falta de endereço correto configura ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, o que enseja a extinção do feito nos termos do art. 485, IV, do CPC.
+ ..
+No caso dos autos, em que pese a parte autora, ora apelante, tenha sido intimada (fl. 95) a promover a citação do réu, ora parte apelada, verifica-se que a relação processual ainda não foi perfectibilizada, não obstante o processo tramitar desde 29/06/2016 (fl. 02), sendo que ainda observo que aquela deixou transcorrer in albis o prazo para tanto, conforme certificado às fls. 97 e 100.
+Ademais, apesar de a Carta Magna assegurar a duração razoável do processo, a conduta da parte apelante em fornecer endereços inábeis à angularização do feito vai de encontro ao princípio em comento, além de ofender a celeridade e a economia processual.
+Por conseguinte, uma vez que o expediente citatório ainda não foi cumprido, correta a fundamentação da sentença (fls. 101/101v) que fulminou a ação por falta de pressuposto necessário ao devido prosseguimento da causa (art. 485, inciso IV, do CPC), pois a angularização processual, como supra destacado, é pressuposto necessário ao devido prosseguimento da causa, não havendo que se falar, portanto, em violação à instrumentalidade e à efetividade do processo.
+Além disso, é prescindível a intimação pessoal da parte em casos de extinção do feito por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo (inciso IV, art. 485), conforme artigo 485, § 1º, do CPC, providência exigível tão somente nas hipóteses elencadas nos incisos II e III do mesmo artigo, hipótese que não se coaduna com a dos autos.
+O recurso especial não logra conhecimento.
+Primeiro, porque as razões recursais não conseguem demonstrar em que medida o acórdão recorrido violou os dispositivos legais invocados, limitando-se a alegações genéricas de que a extinção deveria ocorrer com base no inciso III do art. 485 do CPC e após prévia intimação pessoal, nos termos do § 1º do mesmo artigo. A ausência de demonstração clara e inequívoca da violação legal suscitada configura deficiência de fundamentação, a atrair a aplicação da Súmula n. 284 do STF.
+Segundo, porque o recorrente se absteve de impugnar todos os fundamentos do acórdão recorrido, notadamente a aplicação do inciso IV do art. 485 do CPC, bem como a ofensa aos princípios da duração razoável do processo, da celeridade e da economia processuais. Incide, pois, o óbice da Súmula n. 283 do STF.
+Terceiro, porque o acórdão recorrido está em harmonia com a jurisprudência desta Corte, como se vê dos seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. FALTA DE CITAÇÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. INTIMAÇÃO PESSOAL. DESNECESIDADE. DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. PRESSUPOSTOS DE CONSTITUIÇÃO. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor.
+3. Na hipótese, o tribunal de origem concluiu que a agravante não forneceu o endereço para que a citação do réu/agravado fosse realizada, ensejando a extinção do feito sem julgamento do mérito.
+4. No caso em apreço, rever as conclusões do acórdão estadual demandaria o revolvimento do conjunto fático-probatório, o que atrai o óbice da Súmula nº 7/STJ.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.872.705/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EM FACE DE DEVEDORES PRINCIPAL E SOLIDÁRIOS. AUSÊNCIA DE CITAÇÃO DE UM DOS LITISCONSORTES. DESÍDIA DA EXEQUENTE EM FORNECER ENDEREÇO VÁLIDO. EXTINÇÃO PARCIAL DO PROCESSO. PROSSEGUIMENTO DO FEITO EM RELAÇÃO AOS LITISCONSORTES CITADOS. INTIMAÇÃO PESSOAL. DESNECESSIDADE. AGRAVO DESPROVIDO.
+1. No caso, é cabível a extinção parcial do processo, com relação a um dos litisconsortes executados, que deixou de ser citado, em razão de desídia atribuível à exequente em fornecer endereço válido, prosseguindo o feito somente quanto aos litisconsortes citados.
+2. Segundo o entendimento do Superior Tribunal de Justiça, a extinção do processo, por falta de providência do ato citatório, prescinde de prévia intimação pessoal do autor. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.361.546/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/5/2019, DJe de 22/5/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FALTA DE CITAÇÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO REGULAR E VÁLIDO DA LIDE. INTIMAÇÃO PESSOAL. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. A falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor. Precedentes.
+2. Agravo interno ao qual se nega provimento. (AgInt no REsp n. 1.737.948/RO, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 18/9/2018, DJe de 26/9/2018.)
+Incide na espécie o óbice da Súmula n. 83 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
