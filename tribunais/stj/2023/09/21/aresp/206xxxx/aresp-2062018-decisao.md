@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação aos dispositivos legais apontados e da incidência da Súmula n. 7/STJ (e-STJ fls. 2.415/2.420).
+O acórdão recorrido está assim ementado (e-STJ fls. 2.320/2.321):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. MANUTENÇÃO DO DECISUM. PREFACIAL DE NULIDADE, POR CERCEAMENTO DE DEFESA. REJEIÇÃO. AUDIÊNCIA PARA OBTENÇÃO DE ESCLARECIMENTOS DO PERITO, PREVISTA NO ART. 477, § 3º DO CPC, PRESCINDÍVEL NO CASO CONCRETO. INEXISTÊNCIA, AINDA,DE PREJUÍZO PARA OS APELANTES EM RAZÃO DA NÃO REALIZAÇÃO DA PROVA ORAL PRETENDIDA. VALOR DA CAUSA EM CONSOÂNCIA COM A NORMA CONTIDA NO ART. 292, I, DO CPC. PROVA PRODUZIDA NOS AUTOS CONCLUSIVA NO SENTIDO DE DEMONSTRAR A CONTRATAÇÃO E A DÍVIDA ASSUMIDA PELOS RÉUS QUE, POR SUA VEZ, NÃO FIZERAM PROVA DO CUMPRIMENTO DA OBRIGAÇÃO CONTRATADA. ÔNUS DE DESCONSTITUIR O DIREITO DA PARTE AUTORA, COMPROVANDO QUE OS VALORES RECLAMADOS SÃO INDEVIDOS OU QUE HOUVE O REGULAR PAGAMENTO, QUE INCUMBE À PARTE DEMANDADA. INTELIGÊNCIA DO ART. 373, II, DO CPC/2015. SUCUMBÊNCIA MÍNIMA SUPORTADA PELOS DEMANDANTES, DEVENDO OS RÉUS RESPONDER, POR INTEIRO, PELAS DESPESAS PROCESSUAIS E PELOS HONORÁRIOS ADVOCATÍCIOS, NOS TERMOS DO ART. 86, PARÁGRAFO ÚNICO, DO CPC. NEGADO PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 2.351/2.357).
+No recurso especial (e-STJ fls. 2.359/2.386), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaram violação dos arts. 489, § 1º, V, e 1.022, II, do CPC/2015, por negativa de prestação jurisdicional.
+Sustentaram ofensa aos arts. 369 e 477, § 3º, do CPC/2015, "eis que referendaram sentença prolatada à míngua do pleno exercício do direito do qual os recorrentes dispunham de produzir todas as provas capazes de influir no resultado da demanda, em particular a inquirição do perito responsável por elaborar o laudo sobre o qual se funda a decisão" (e-STJ fls. 2.377/2.378).
+Aduziram contrariedade aos arts. 369 e 385 do CPC/2015, pois o indeferimento da prova oral resultou em cerceamento de defesa.
+No agravo (e-STJ fls. 2.441/2.467), declaram a presença de todos os requisitos de admissibilidade do especial.
+Os agravantes peticionaram às fls. 2.511/2.516 (e-STJ), requerendo concessão de efeito suspensivo ao presente agravo.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto à realização de audiência para obtenção de esclarecimentos do perito, a Corte local decidiu que (e-STJ fls. 2.327/2.328):
+Superado o juízo de admissibilidade recursal, impõe-se, desde logo, a análise da prefacial de nulidade da sentença, por suposto cerceamento de defesa, em razão da não realização da audiência para obtenção de esclarecimentos do perito prevista no art. 477, § 3º do Código de Processo Civil, abaixo transcrito:
+"Art. 477. O perito protocolará o laudo em juízo, no prazo fixado pelo juiz, pelo menos 20 (vinte) dias antes da audiência de instrução e julgamento.
+(..)
+§ 3º Se ainda houver necessidade de esclarecimentos, a parte requererá ao juiz que mande intimar o perito ou o assistente técnico a comparecer à audiência de instrução e julgamento, formulando, desde logo, as perguntas, sob forma de quesitos."
+Acerca do tema, Nelson Nery Junior e Rosa Maria de Andrade Nery  lecionam que, no sistema do CPC, o esclarecimento de pontos obscuros do laudo deve ser feito, via de regra, por meio escrito. A audiência será realizada apenas se, depois da resposta do perito a eventual impugnação do laudo, ainda remanescerem dúvidas.
+Logo o perito prestará esclarecimentos suplementares, por meio da referida audiência, somente quando indispensáveis ao deslinde da controvérsia, hipótese esta não verificada no caso concreto, em que as impugnações ao laudo apresentadas pelos recorrentes foram esclarecidas satisfatoriamente por meio das manifestações de fls. 2.069/2.070 e 2.114/2.115.
+O Tribunal de origem entendeu que o perito elucidou de forma devida as dúvidas apresentadas nas impugnações, não sendo necessária audiência. Para acolher a tese de cerceamento de defesa e desconstituir a premissa estabelecida no acórdão recorrido, seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+Em relação à prova oral, o TJRJ consignou que "eventual falta de zelo profissional dos apelados, na prestação dos serviços advocatícios contratados pelos ora apelantes, somente seria possível de se comprovar por meio de provas documental e técnica, já realizadas nos autos, sendo a prova oral pretendida manifestamente desnecessária ao deslinde da controvérsia" (e-STJ fl. 2.330).
+Novamente, alterar o acórdão recorrido, a fim de reconhecer o cerceamento de defesa, exigiria a apreciação das provas dos autos. Aplica-se a Súmula n. 7/STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo. PREJUDICADO o pedido de efeito suspensivo ao recurso.
+Publique-se e intimem-se.
+EMENTA
