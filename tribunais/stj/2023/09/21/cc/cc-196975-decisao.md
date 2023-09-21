@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo Federal da 2ª Vara de Ponta Porã - SJ/MS, suscitante, e o Juízo de Direito da 2ª Vara Criminal de Ponta Porã/MS, suscitado.
+Narram os autos a instauração de inquérito policial para apurar a ocorrência dos crimes de falsidade ideológica, estelionato e uso de documento falso, cometidos, em tese, por Gabriel Quevedo/Gabriel Soria Sanchez, de nacionalidade paraguaia.
+O Juízo de Direito da 2ª Vara Criminal de Ponta Porã/MS, acolhendo parecer ministerial, declinou da competência. Ressaltou o MP estadual "que a falsidade perpetrada importou em obtenção indevida da nacionalidade brasileira, bem como no ingresso e permanência irregular do acusado em território pátrio, situação que viola direta e imediata de interesse tutelado pela União, nos termos do art. 109, X, da CF/88" (fl. 97).
+Por sua vez, o Juízo Federal da 2ª Vara de Ponta Porã - SJ/MS suscitou o presente incidente, consignando que "a fixação da competência federal, por uso de documento falso para obter a nacionalidade brasileira fica condicionada à apresentação perante autoridade (consulado ou magistrado, por exemplo) com a finalidade de obter aquela nacionalidade" - (fl. 4), o que não seria o caso.
+Os autos, então, vieram a esta instância, tendo o Ministério Público Federal ofertado parecer para declarar a competência do juízo suscitante.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal.
+Verifica-se que foi instaurado inquérito policial para apurar a prática dos crimes de falsidade ideológica, estelionato e uso de documento falso, supostamente perpetrados por Gabriel Quevedo/Gabriel Soria Sanchez, cidadão paraguaio, o qual teria se utilizado da certidão de nascimento do brasileiro Francisco de Borges Vogado para utilização do Sistema Único de Saúde no Brasil, especificamente o Hospital Regional de Ponta Porã/MS, local onde já teria realizado uma cirurgia.
+Ao que se tem, verifica-se que a intenção do acusado era utilizar-se da referida documentação para fins de obtenção irregular da nacionalidade brasileira com o intuito de utilização de serviços médicos, além de ingressar e permanecer irregularmente em território brasileiro.
+No caso, a competência da Justiça Federal se justifica, porquanto a falsidade constituiu o meio empregado para a permanência do estrangeiro em território nacional, bem como para a aquisição irregular de nacionalidade brasileira, nos termos do art. 109, X, da Constituição Federal. Nesse sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. FALSIDADE IDEOLÓGICA PERPETRADA PARA FINS DE OBTENÇÃO DE NACIONALIDADE BRASILEIRA E PERMANÊNCIA DE ESTRANGEIRO NO BRASIL. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRECEDENTES DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara de Ponta Porã - SJ/MS, o suscitado. (CC n.º 197.924/SP, relator Ministro Sebastião Reis Júnior, julgado em 26/6/2023, DJe de 27/6/2023)
+Ante o exposto, conheço do conflit o para declarar competente o Juízo Federal da 2ª Vara de Ponta Porã - SJ/MS, ora suscitante.
+Publique-se.
+Intimem-se.
+EMENTA
