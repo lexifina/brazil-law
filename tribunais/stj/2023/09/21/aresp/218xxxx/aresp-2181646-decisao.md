@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ RONEI BEZERRA DA SILVA contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 7 do STJ e na ausência de demonstração do cotejo analítico.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas em apelação nos autos de ação de exibição de documentos (Apelação Cível n. 0727950-84.2015.8.02.0001).
+O julgado foi assim ementado (fl. 164):
+APELAÇÃO CÍVEL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS RELATIVOS AO SEGURO DPVAT. EXIBIÇÃO DOS DOCUMENTOS JUNTO COM A CONTESTAÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA CAUSALIDADE NO CASO EM COMENTO, TENDO EM VISTA A AUSÊNCIA DE PRETENSÃO RESISTIDA. CONDENAÇÃO DA SEGURADORA AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. PRECEDENTES. SENTENÇA REFORMADA. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Nas razões do recurso especial, o agravante aponta violação do art. 85, § 8º, do Código de Processo Civil, além de divergência jurisprudencial. Alega que a agravada deve arcar com os honorários sucumbenciais, ao argumento de que houve pretensão resistida, uma vez que solicitou os documentos pretendidos na esfera administrativa e a seguradora nada fez. Aduz, assim, que a agravada foi causadora do ajuizamento dessa demanda.
+Requer o provimento do recurso para que seja provido o recurso especial a fim de que a agravada seja condenada ao ônus de sucumbência.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Na espécie, o Tribunal de origem, com base no acervo fático-probatório dos autos, concluiu que não houve resistência à pretensão do agravante com relação ao objeto principal da ação de entregar os documentos, tendo em vista que a agravada apresentou a documentação requerida juntamente com a contestação.
+Entendeu, assim, que não haveria que se falar em sucumbência e, consequentemente, em fixação de honorários e condenação da agravada em custas processuais, porquanto, para tanto, deveria estar caracterizada a resistência à pretensão, o que não seria o caso dos autos. Confiram-se trechos do julgado (fls. 166-170):
+8. Compulsando-se os autos, visualiza-se que não houve resistência do apelante em relação ao objeto principal da ação de entregar os documentos, tendo em vista que apresentou a documentação requerida pelo apelado logo após a contestação (fls. 39/56).
+9. Imperioso ressaltar que pela aplicação dos Princípios da Sucumbência e da Causalidade em Ações Cautelares de Exibição de Documentos, para haver condenação ao pagamento de honorários advocatícios, deve estar caracterizada a resistência à pretensão, o que não é o caso dos presentes nos autos.
+ ..
+12. Sendo assim, não há que se falar em sucumbência e, consequentemente, em fixação de honorários, uma vez que não houve litigiosidade.
+13. Ademais, quanto ao pedido de reformar a sentença no tocante à condenação em custas, mais uma vez merece prosperar a irresignação do apelante, devendo as custas iniciais serem arcadas pelo apelante, sendo suspensa a sua exigibilidade, no prazo legal, em razão da concessão dos benefícios da justiça gratuita.
+Tal entendimento está em sintonia com a orientação jurisprudencial desta Corte de que, para a condenação ao pagamento de honorários advocatícios nas ações cautelares de exibição de documentos, deve estar caracterizada a resistência à exibição dos documentos pleiteados, tendo em vista os princípios da causalidade e da sucumbência. Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Nos termos da orientação jurisprudencial adotada por esta Colenda Corte, "são devidos honorários advocatícios em ações cautelares de exibição de documentos e produção antecipada de provas, desde que demonstrada a recusa administrativa e configurada a resistência à pretensão autoral". 1.1Com a apresentação dos documentos pretendidos pela parte autora em sede de contestação, não há que se falar em pretensão resistida e, por conseguinte, em condenação da parte demandada a pagar honorários advocatícios de sucumbência. incidência do enunciado contido na Súmula 83/STJ.
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido. (AgInt no AREsp n. 1.687.787/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2020, DJe de 29/10/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. EXIBIÇÃO DE DOCUMENTOS JUNTO COM A CONTESTAÇÃO. INEXISTÊNCIA DE PRETENSÃO RESISTIDA. CONDENAÇÃO DA RÉ AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. Na ação de exibição de documentos, não há falar na condenação da ré ao pagamento de honorários de sucumbência quando os documentos pretendidos são apresentados juntamente com a peça contestatória.
+Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.757.147/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/8/2020, DJe de 31/8/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. SOLICITAÇÃO DE DOCUMENTOS PARA PAGAMENTO DO SEGURO OBRIGATÓRIO DPVAT. ENTREGA IMEDIATA DOS DOCUMENTOS NA CONTESTAÇÃO. AUSÊNCIA DE RESISTÊNCIA OU RECUSA DA PARTE RÉ. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamentos decisórios. Reconsideração.
+2. A jurisprudência desta Corte Superior assinala que, em conformidade com os princípios da sucumbência e da causalidade, são devidos honorários advocatícios em ações cautelares de exibição de documentos e produção antecipada de provas, desde que demonstrada a recusa administrativa e configurada a resistência à pretensão autoral. Precedentes.
+3. No caso, os honorários advocatícios são indevidos, porque a parte ré apresentou imediatamente os documentos solicitados com a contestação, não oferecendo resistência à pretensão autoral.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.603.296/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/4/2020, DJe de 4/5/2020.)
+Desse modo, incide na espécie a Súmula n. 83 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
