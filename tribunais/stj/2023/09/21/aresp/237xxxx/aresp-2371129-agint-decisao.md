@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pelo Banco Santander (Brasil) S/A contra decisão que conheceu do Agravo para não conhecer do Recurso Especial.
+Em relação à tese de violação do art. 1.022 do CPC, o agravante impugna o conteúdo da decisão monocrática com a afirmação de que existe, sim, o vício da omissão porque o Tribunal a quo registrou, no acórdão recorrido, que a falta de pagamento do tributo referia-se apenas a uma parte da exação devida, para assim justificar a aferição do prazo de decadência com base no art. 173, I, do CTN.
+A parte sustenta, contudo, que a identificação desse erro de premissa foi expressamente apontada na peça dos aclaratórios opostos na origem, na qual foi feita a transcrição de parte do relatório da autuação fiscal, que indicaria o lançamento de ISS "recolhido a menor" nos exercícios de 2005 e seguintes - considerando-se que o recolhimento a menor pressupõe algum recolhimento, o que atrairia a aplicação do art. 150, § 4º, e não do art. 173, I, do CTN. Defende, assim, que não há espaço para incidência da Súmula 7/STJ. No mais, conclui que, tanto em relação à tese de ofensa ao art. 1.022 do CPC quanto ao tema da nulidade da CDA, não incidem os óbices das Súmulas 283 e 284 do STF.
+Foi apresentada impugnação.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 26 de julho de 2023.
+Diante da argumentação do agravante, reconsidero a decisão monocrática nos termos abaixo.
+Com efeito, a instituição financeira alega que foram ajuizadas duas Execuções Fiscais, uma para a cobrança de diferenças de ISS e outra - a que deu origem ao presente recurso - referente ao lançamento de multa por descumprimento de obrigação acessória.
+No que concerne à decadência, especialmente ao vício da omissão a ela relacionado, o agravante assevera que provocou o Colegiado originário, inclusive mediante oposição de Embargos Declaratórios, a se manifestar sobre uma premissa que reputa equivocada, qual seja, de que os autos se referem à cobrança de tributo declarado e não pago, a justificar a apuração do prazo decadencial na forma do art. 173, I, do CTN.
+Tal pressuposto estaria incorreto porque o lançamento do tributo principal tem por origem, conforme consta no relatório da autuação fiscal, diferenças de ISS decorrentes de recolhimento a menor nos exercícios de 2005 a 2009. Essa assertiva é correta, conforme se verifica na fl. 830, e-STJ.
+O banco explica que, embora o apontado erro de premissa diga respeito à obrigação principal, há interferência no julgamento do caso concreto (que, repita-se, diz respeito à decadência para constituição do crédito decorrente de descumprimento de obrigação acessória), porquanto o fato gerador de ambas as cobranças teria ocorrido na mesma data.
+Tais questões não foram devidamente esclarecidas no aresto hostilizado, no qual o órgão julgador rejeitou os Embargos de Declaração sem se pronunciar a esse respeito, limitando-se a consignar que a Execução Fiscal da obrigação principal foi extinta não por inexigibilidade do tributo, mas por nulidade da CDA. Entretanto, são relevantes para a solução da presente lide, pois é indispensável averiguar: a) se os fatos geradores da obrigação principal e da obrigação acessória ocorreram na mesma data; e b) se a autonomia da obrigação acessória em relação à obrigação tributária principal implica ou não autonomia na identificação do prazo decadencial conforme a natureza do crédito tributário objeto de lançamento fiscal.
+Diante do exposto, em juízo de retratação, dou provimento ao Agravo Interno para conhecer do Recurso Especial e dar-lhe parcial provimento, a fim de determinar a devolução dos autos à Corte estadual para novo julgamento dos Embargos de Declaração nos termos acima indicados.
+Publique-se.
+Intimem-se.
+EMENTA
