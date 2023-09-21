@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TRAÇADO CONSTRUÇÕES E SERVIÇOS LTDA., à decisão (fls. 324/333 e-STJ) que reconsiderou a decisão objeto do agravo interno (fls. 295/298 e-STJ), para conhecer do agravo e dar parcial provimento ao recurso especial da ora embargada determinando-se a devolução dos autos à origem a fim de que seja resguardada a sua personalidade jurídica.
+A embargante aponta omissão e obscuridade na decisão embargada, e para tanto, afirma o seguinte:
+"Isso porque, o emprego da expressão "que seja resguardada a personalidade jurídica" significa que não haja a desconsideração da personalidade jurídica ou que se analise todos as peculiaridades que já conduziram para a conclusão da existência de grupo econômico por diversas esferas do poder judiciário. Entende-se que o Ministro Relator precise essa dúvida que gerou na parte.
+De outra banda, identifica-se a omissão da decisão monocrática ao não considerar que a decisão recorrida fundamentou seu convencimento da semelhança de endereço, telefones, bem com participação em comum na sociedade empresária Ecochapa" (fl. 338, e-STJ).
+Impugnação às fls. 344-352, e-STJ.
+É o relatório.
+DECIDO.
+A irresignação não merece acolhida.
+Não há na decisão ora embargada nenhum dos vícios elencados no artigo 1.022 do Código de Processo Civil de 2015: omissão, contradição, obscuridade ou erro material, estando ela suficientemente fundamentada de acordo com as normas processuais anteriores e vigentes, bem como nos moldes dos princípios constitucionais atinentes.
+A omissão que autoriza o acolhimento dos embargos de declaração somente se revela quando o julgador, no contexto dos autos, deixa de se manifestar, de ofício ou a requerimento da parte, acerca do ponto ou questão essencial ao deslinde da controvérsia, conforme a dicção do art. 1.022, II, do Código de Processo Civil de 2015, o que não ocorreu no caso concreto.
+Por outro lado, "A obscuridade que enseja aclaração é aquela que se materializa por decisão ininteligível, que impede ou dificulta a compreensão ou seu alcance" (AgInt no AREsp 2.041.011/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/4/2023, DJe de 24/4/2023).
+Com efeito, a decisão embargada consignou que
+De fato, a Súmula nº 7/STJ não tem aplicação no caso concreto, tendo em vista que a discussão acerca do conceito de grupo econômico para fins de desconsideração da personalidade jurídica empresarial é unicamente de direito.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE REEXAME DE FATOS E PROVAS. NÃO OCORRÊNCIA. SIMPLES REVALORAÇÃO DE PROVAS. NÃO INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. JUÍZO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM NÃO VINCULA O SUPERIOR TRIBUNAL DE JUSTIÇA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS AUSENTES.1. Possibilidade de revaloração jurídica de fatos incontroversos, devidamente reconhecidos nas instâncias ordinárias, em sede de recurso especial. Não incidência do óbice previsto no Enunciado n.º 7/STJ. 2. O juízo de admissibilidade realizado no Tribunal de origem não vincula o Superior Tribunal de Justiça quanto ao requisitos de admissibilidade do recurso especial. 3. A orientação do Superior Tribunal de Justiça é no sentido de que não se pode desconsiderar a personalidade jurídica de sociedade empresária devedora para alcançar o patrimônio dos seus sócios com base apenas no seu encerramento irregular e na ausência de bens penhoráveis. 4. Não apresentação pelas partes agravantes de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. 5. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1.601.190/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 12/11/2018, DJe de 16/11/2018 - grifou-se).
+A pós extensa fundamentação citando a jurisprudência do STJ acerca dos requisitos para a desconsideração da personalidade jurídica, os quais entendeu não estarem presentes na espécie, concluiu que levantar o véu da personalidade jurídica da sociedade empresária
+"(..) sem provas suficientes de que tenha ocorrido confusão patrimonial ou desvio de finalidade, apenas com base no singelo argumento de que as empresas detém parentes em seus quadros societários, seria proibir, sob qualquer pretexto, que exista sociedade empresarial entre pessoas com laços de parentesco entre si, restrição que a lei não previu" (f. 332 e-STJ).
+De fato, extrai-se da decisão ora recorrida, e vale reiterar, que ela se encontra devidamente embasada na jurisprudência desta Corte, que a personalidade jurídica da ora embargada não merece ser desconsiderada no caso concreto.
+Assim, não houve obscuridade nem omissão no julgado, apenas resultado contrário aos interesses da ora embargante.
+Dessa forma, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
