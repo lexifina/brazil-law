@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4º Região assim ementado (fl. 304, e-STJ):
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. BOIA-FRIA. RECURSO ESPECIAL REPETITIVO DA CONTROVÉRSIA. JUÍZO DE RETRATAÇÃO CABÍVEL. REQUISITOS LEGAIS. NÃO COMPROVAÇÃO DO LABOR RURAL. SÚMULA 149 STJ. ANTECIPAÇÃO DE TUTELA. BENEFÍCIO RECEBIDO DE BOA-FÉ. IRREPETITIBILIDADE.
+1. Satisfeitos os requisitos legais de idade mínima e prova do exercício de atividade rural por tempo igual ao número de meses correspondentes à carência, é devida a aposentadoria rural por idade.
+2. Considera-se provada a atividade rural do segurado especial havendo início de prova material complementado por idônea prova testemunhai.
+3. Considerando que a parte autora não apresentou documento apto a comprovar o exercício da atividade rural no período de carência, não faz ela jus à obtenção do benefício pretendido.
+4. A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de beneficio previdenciário (Súmula 149 do STJ).
+5. Evidenciada a boa-fé, o beneficiário não pode ficar jungido à contingência de devolver valores que já foram consumidos, percebidos a título de antecipação dos efeitos da tutela, sob pena de inviabilização do referido instituto no âmbito dos direitos previdenciários.
+Os Embargos de Declaração foram rejeitados (fls. 317-323, e-STJ).
+O recorrente alega violação aos arts. 313, V, 927, III, e 1.030 do CPC e ao art. 115, III, da Lei 8.213/1991. Afirma que o processo deve ser sobrestado até a solução dos Embargos de Declaração (fl. 424, e-STJ) e aduz que o Tema 692/STJ não foi observado pela Corte regional (fl. 428, e-STJ).
+Contrarrazões às fls. 435-444, e-STJ.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 31.8.2023.
+A irresignação não merece acolhida.
+A indicada afronta aos arts. 313, V, 927, III, e 1.030 do CPC não pode ser examinada, pois o Tribunal a quo não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados na origem, a despeito da oposição de Embargos Declaratórios, haja vista a ausência do requisito do prequestionamento. Incide na espécie a Súmula 211/STJ.
+A propósito cito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PLANO APROVADO. ADQUIRENTE DE UNIDADE IMOBILIÁRIA. ATÉ O MOMENTO, FORMALMENTE, NÃO CONSTA COMO CREDOR DAS RECUPERANDAS. INCLUSÃO QUE DEVE SER OBJETO DE IMPUGNAÇÃO DE CRÉDITO. NECESSIDADE DE ASSINATURA DO INSTRUMENTO DE DISTRATO. DISCUSSÃO EM SEDE PRÓPRIA. EMPREENDIMENTO SUJEITO A PATRIMÔNIO DE AFETAÇÃO. PLANO CONTÉM PREVISÃO DE CREDORES FUTURAMENTE OPTAREM SOBRE O MODO DE PAGAMENTO DE SEUS CRÉDITOS. INEXISTÊNCIA DE IRREGULARIDADE. LEGALIDADE DOS ÍNDICES DE JUROS PREVISTOS (TR E IPCA). PRAZO DE SUPERVISÃO JUDICIAL PRORROGADO ATÉ QUE FINDA A CARÊNCIA. DECISÃO MANTIDA. PRETENSÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS COMO VIOLADOS. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm.211/STJ).
+2. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.641.123/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 30/4/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. CONDOMÍNIO. ILEGALIDADE DA COBRANÇA DA TARIFA MÍNIMA, MULTIPLICADA PELO NÚMERO DE ECONOMIAS. APONTADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. INCONFORMISMO. ALEGADA INFRINGÊNCIA AOS ARTS. 6º, IV E VI, 39, I, V E X E 51, IV E X, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ÚNICO HIDRÔMETRO. TARIFA PROGRESSIVA. CONSUMO TOTAL MEDIDO. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 6º, IV e VI, 39, I, V e X e 51, IV e X, do CDC, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ.
+V. Segundo o entendimento do STJ, "em casos de condomínios, em que existe apenas um hidrômetro a auferir o consumo global de água, deve ser aplicada a tabela progressiva, proporcionalmente ao consumo total medido, a fim de que, quanto maior o consumo, maior a tarifa a ser suportada pelo condomínio, de acordo com o escalonamento preestabelecido" (STJ, AgRg no REsp 997.405/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/11/2009). No mesmo sentido: STJ, AgInt no REsp 1.745.659/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/09/2019; AgInt no AgInt no REsp 1.841.266/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 11/03/2021; EDcl no REsp 625.221/RJ, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJ 25/05/2006. No caso, o acórdão recorrido encontra-se em conformidade com o aludido entendimento.
+VI. Agravo interno improvido.
+(AgInt no AREsp 859.442/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/4/2021)
+Ao analisar o art. 115, III, da Lei 8.213/1991, o Colegiado originário preferiu seguir a jurisprudência do Supremo Tribunal Federal. Portanto, o órgão previdenciário deveria ter interposto Recurso Extraordinário para impugnar esse entendimento. Como não o fez, incide a Súmula 283/STF.
+Por outro lado, o STJ permite o desconto de até 30% do valor do benefício em caso de pagamentos previdenciários indevidos, contudo impõe alguns requisitos, como a demonstração de que o segurado não estava de boa-fé, conforme dispõe o Tema 979/STJ:
+"Com relação aos pagamentos indevidos aos segurados decorrentes de erro administrativo (material ou operacional), não embasado em interpretação errônea ou equivocada da lei pela Administração, são repetíveis, sendo legítimo o desconto no percentual de até 30% (trinta por cento) de valor do benefício pago ao segurado/beneficiário, ressalvada a hipótese em que o segurado, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido."
+Dessarte, concluir o contrário do que ficou consignado no acórdão recorrido, a fim de acatar o argumento da parte recorrente, demanda revolvimento do suporte probatório dos autos, o que é vedado na via do Recurso Especial nos termos da Súmula 7 do STJ.
+Diante do exposto, com fulcro no art. 932 do CPC, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
