@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DIOGO CESAR ZANOTTO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, nos autos dos Embargos Infringentes e de Nulidade n. 5007687-49.2022.8.21.0021/RS.
+Consta dos autos que o paciente foi condenado pelo Juízo da 2ª Vara Criminal da Comarca de Passo Fundo, nos autos da ação penal n. 5007687-49.2022.8.21.0021/RS, às penas de 5 anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 550 dias-multa, por infração ao artigo 33, caput, da Lei 11.343/06, combinado com o artigo 65, inciso III, alínea "d", do Código Pena, nos termos da sentença de fls. 152-158.
+Não satisfeito, o paciente interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento, por maioria de votos, para reduzir a pena de multa para 500 dias-multa, mantendo a sentença nos seus demais termos, conforme o acórdão de fls. 230-232.
+Interpostos os Embargos Infringentes e de Nulidade n. 5007687-49.2022.8.21.0021/RS, a Corte local negou-lhes provimento, nos termos do acórdão de fls. 281-291.
+O impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na negativa à aplicação da causa especial de diminuição de pena, prevista no § 4º do artigo 33 da Lei 11.343/06, despida de fundamentação idônea.
+Requer, assim, o redimensionamento da reprimenda do paciente.
+A liminar foi indeferida às fls. 335-336.
+Informações prestadas às fls. 343-347 e 348-394.
+O Ministério Público Federal em parecer de fls. 399-402, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Segundo relatado, busca-se na presente impetração a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, em favor do paciente.
+A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Na presente hipótese, o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, motivo pelo qual não há como se aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do paciente (fl. 283).
+Vale ressaltar, ainda, que além da quantidade das drogas apreendidas, o modus operandi empregado ("informações indicando a prática da traficância no sistema de tele-entrega"), com a apreensão de apetrechos relacionados à traficância ("faca com resquícios da substância, uma balança de precisão e plástico filme") evidenciam o envolvimento do paciente com às atividades criminosas (fl. 283). Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio. A propósito: AgRg no HC n. 774.095/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/10/2022 e AgRg no HC n. 673.115/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/2/2022.
+Outrossim, é imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedicaria a atividades delituosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus. Nesse sentido: AgRg no HC n. 737.868/MS, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 4/8/2022 e AgRg no HC n. 745.106/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 8/8/2022.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se e Intime-se.
+EMENTA
