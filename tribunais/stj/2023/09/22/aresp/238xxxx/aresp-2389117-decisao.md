@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fls. 221-224):
+Embargos à Execução - Acidente do trabalho - Excesso de execução - Forma de correção monetária do benefício Aplicação do IRSM de fevereiro/94 Benefício concedido em 08/1995 - Admissibilidade - Índice previdenciário aplicado de forma integral - Cálculo da renda mensal inicial - Aplicação do art. 29 da Lei 8.213/91, na sua redação original, em vigor à época do termo inicial do benefício - Princípio do tempus regit actum - Adoção dos salários de contribuição no período de 12/1988 a 11/1991 - Período de base de cálculo aplicado corretamente - Honorários advocatícios - Percentual fixado além de observas as regras do artigo 20 do CPC/1973, então vigente, remunera condignamente o patrono do embargado Sentença mantida Improvido o recurso autárquico.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, a autarquia alega violação ao art. 29, II, da Lei 8.213/91, em sua redação original.
+Sustenta, que nos termos do referido dispositivo, o salário-de-benefício consiste na média aritmética simples de todos os últimos salários-de-contribuição dos meses imediatamente anteriores ao do afastamento da atividade até o máximo de 36 (trinta e seis), apurados em período não superior a 48 (quarenta e oito) meses.
+Alega que no caso dos autos, o afastamento do obreiro ocorreu por ocasião auxílio-acidente concedido em 17/08/1995, devendo o período de cálculo retroagir a essa data, e não a data de afastamento da empresa.
+Contrarrazões ao recurso especial às fls. 253-255.
+O Tribunal de origem inadmitiu o recurso especial à consideração de que a análise do caso demandaria o revolvimento do conteúdo fático-probatório dos autos, o que encontra óbice no teor da Súmula 7/STJ (fls. 257).
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+Contraminuta ao agravo às fls. 272-273.
+É o relatório. Decido.
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se às razões do recurso especial.
+Na hipótese dos autos, conforme se extrai do acórdão recorrido, cuida-se originariamente de embargos à execução em que a autarquia questiona os cálculos do obreiro quanto aos valores decorrentes do benefício devido, cingindo-se o presente recurso especial ao período da base de cálculo utilizada pelo obreiro em seus cálculos.
+Sobre o ponto controverso, o Tribunal consignou in verbis:
+Ora, do que se verifica do documento de fls. 06, o autor esteve empregado na empresa Pirelli no período de 21/11/1963 a 02/12/1991. Portanto, tendo sido afastado de sua atividade em 12/1991, o período de base de cálculo apontado na conta de liquidação apresentada pelo segurado está correto, eis que apurou os últimos salários-de-contribuição no período de dez/1988 a nov/1991, ou seja, 36 salários.
+A autarquia questiona tal fundamentação, alegado que o afastamento que deve ser considerado para fins de cálculo, nos termos do art. 29, II da Lei 8.213/91, é o afastamento decorrente do benefício concedido, in casu, o benefício de auxílio-acidente em 17/08/1995, devendo o PBC considerar as competências anteriores a esta data.
+Sendo esse o panorama dos autos, tenho que não assiste razão ao recorrente.
+Afora o fato de que o auxílio-acidente é benefício indenizatório pela redução de capacidade laborativa, não importando em afastamento das atividades laborais, o que se observa da decisão recorrida, e ao contrário do alegado pela autarquia, é que o afastamento do obreiro das atividades da empresa ocorreu em 12/1991 no seu desligamento, não havendo menção ao tipo de benefício concedido na decisão recorrida, nem de afastamento dele decorrente.
+O que se observa, portanto, é que as razões do recurso especial estão desassociadas do delineamento fático estabelecido no acórdão recorrido.
+A argumentação deficiente decorrente da apresentação de razões dissociadas da narrativa e dos fundamentos adotados no acórdão recorrido no trato da controvérsia são situações que dificultam ou não permitem a exata compreensão da controvérsia.
+Aplica-se, in casu, a Súmula 284/STF.
+Nesse sentido, in verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OPÇÃO PELO BENEFÍCIO MAIS VANTAJOSO CONCEDIDO ADMINISTRATIVAMENTE. RAZÕES DESASSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARGUMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. EXECUÇÃO DAS PARCELAS DO BENEFÍCIO POSTULADO NA VIA JUDICIAL ATÉ A DATA DA IMPLANTAÇÃO ADMINISTRATIVA. POSSIBILIDADE. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. A argumentação deficiente decorrente da apresentação de razões desassociadas da narrativa e dos fundamentos adotados no acórdão recorrido no trato da controvérsia são situações que dificultam ou não permitem a exata compreensão da controvérsia. Aplicação do teor da Súmula 284/STF. 2. Consoante a jurisprudência desta Corte, "reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso de ação judicial em que se reconheceu benefício menos vantajoso, é possível a execução das parcelas do benefício postulado na via judicial até a data da implantação administrativa" (AgInt no REsp 1.743.597/RS, Rel. Min. Regina Helena Costa, Primeira Turma, 30/8/2015).
+3. Agravo interno não conhecido.
+(AgInt no REsp n. 1.741.472/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 13/11/2018, DJe de 23/11/2018.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÃO NÃO VERIFICADA. SESSÃO DE PSICOTERAPIA. COPARTICIPAÇÃO. RECUSA DE COBERTURA. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. LIMITAÇÃO DO NÚMERO DE SESSÕES. APLICAÇÃO DO ÓBICE DA SÚMULA 83/STJ. REEMBOLSO. RAZÕES DISSOCIADAS. INCIDÊNCIA DAS SÚMULA 283 E 284/STF. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.008.429/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 c/c art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, assim como eventual justiça gratuita concedida na origem
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. PERÍODO BÁSICO DO CALCULO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARGUMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
