@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+Habeas Corpus. Tráfico de drogas. Liberdade provisória. Inadmissibilidade. Presença de indícios de autoria e provada existência do crime. Decisão que decretou a custódia, bem como aquela que a manteve, que se encontram suficientemente fundamentadas. Necessidade da custódia para garantia da ordem pública, da aplicação da Lei Penal e para conveniência da instrução. Réu que, após beneficiado com a liberdade provisória, não mais foi localizado para ser citado, permanecendo foragido por quase 02 anos, obstando a persecução penal. Medida extrema que se mostra contemporânea. Medidas cautelares diversas do cárcere que se afiguram insuficientes no caso. Condições pessoais favoráveis que, por si sós, são incapazes de elidir a prisão preventiva. Excesso de prazo na formação da culpa. Inocorrência. Feito que tramita em ritmo de normalidade, à luz das peculiaridades do caso concreto. Ausência de desídia do Juízo a quo. Instrução contraditória designada para data próxima, de modo que a prestação jurisdicional não há de tardar. Constrangimento ilegal não caracterizado. Ordem denegada.
+Narra a impetrante que o paciente foi preso em flagrante no dia 24 de maio de 2021, acusado da prática do delito previsto no artigo 33, caput, da Lei 11.343/06, tendo o magistrado, na audiência de custódia, concedido a liberdade provisória. Oferecida a denúncia, não foi localizado para citação.
+Em decorrência do suposto descumprimento de medida cautelar, fixada como condição para manutenção do benefício da liberdade provisória, determinou-se a conversão do rito ao procedimento comum ordinário, a citação editalícia do réu, bem como a decretação da prisão preventiva, a qual teve o seu mandado cumprido em 2/5/2023.
+Contra tal decisão, a defesa impetrou habeas corpus perante a Corte de origem, que foi denegado.
+No presente writ, a impetrante sustenta ausência de fundamentação idônea no decreto de prisão preventiva, sobretudo porque não teria descumprido as condições impostas à liberdade provisória, uma vez que o núcleo familiar do paciente residiria no mesmo endereço desde 2013.
+Alega que "também falta contemporaneidade à prisão cautelar" e que "o Acusado é tecnicamente primário, as circunstâncias judiciais lhe são inteiramente favoráveis e a quantidade de pena não será superior a 4 anos".
+Também aduz constrangimento ilegal por excesso de prazo na formação da culpa.
+Requer, liminarmente e no mérito, a concessão da ordem para a soltura do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus.
+Segundo as informações prestadas pela autoridade coatora, "foi proferida sentença no feito em comento, condenando o paciente como incurso no art. 33, caput, da Lei de Drogas, com a incidência da causa de diminuição prevista no art. 33, § 4º, do mesmo diploma legal, às penas de 01 ano e 08 meses de reclusão, em regime inicial aberto, e 167 dias-multa, substituída a privativa de liberdade por restritivas de direitos e facultado recorrer em liberdade" (fl. 263), sendo de rigor o reconhecimento da perda do objeto do presente mandamus.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
