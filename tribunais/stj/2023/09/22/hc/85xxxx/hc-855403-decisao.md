@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CAIQUE BENEDITO DOS SANTOS DE MOURA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2178518-75.2023.8.26.000.
+Consta nos autos que o Paciente foi preso em flagrante, no dia 31/05/2022, em razão do suposto cometimento dos crimes de ameaça, de violação de domicílio e de tentativa de homicídio. Em 1.º/06/2022, o flagrante foi homologado e, em seguida, foi concedida liberdade provisória com a imposição de medidas cautelares .
+O Parquet ofereceu denúncia pela suposta prática dos crimes previstos nos arts. 147, caput; 150, caput, na forma do § 4º, inciso III; 121, § 2º, incisos II, c.c. o art. 14, inciso II, todos do Código Penal, em concurso material. Em 25/07/2022, o Juízo Processante recebeu a exordial acusatória e decretou a custódia cautelar requerida pelo Ministério Público.
+Em 12/05/2023, o Juízo da Vara Criminal de Caraguatatuba/SP pronunciou o Réu "pela suposta prática das condutas descritas nos art. 121, § 2º, II, c/c art. 14, II; art. 147, caput; ambos do CP" (fl. 34), mas o impronunciou pelo delito previsto no art. 150 do Estatuto Penal.
+Impetrado prévio writ na origem, a Corte local conheceu parcialmente e, no mais, denegou a ordem (fls. 38-45).
+Neste habeas corpus, o Impetrante sustenta, em suma, a inexistência de fundamentação idônea e dos requisitos autorizadores para a decretação da prisão preventiva, ao argumento de que já foi beneficiado com liberdade provisória.
+Aduz, ainda, excesso de prazo na formação da culpa, pois o "processo encontra-se há mais de 49 dias sem movimentação nenhuma" (fl. 9).
+Requer, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares alternativas.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração, na parte cognoscível.
+Quanto à custódia cautelar, observo que a questão suscitada não foi apreciada pelo Tribunal a quo, porque a matéria já tinha sido analisada em writ impetrado anteriormente. De qualquer modo, constato que o tema foi analisado no julgamento do HC 781.696/SP, de minha relatoria, com publicação no Dje 15/02/2023.
+No mais, conforme o entendimento desta Corte, os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, jamais sendo aferíveis apenas a partir da mera soma aritmética dos prazos processuais, pois variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade.
+Nessa perspectiva, somente se cogita da existência de constrangimento ilegal por excesso de prazo quando ficar evidenciada, estreme de dúvidas, a desídia estatal na tramitação do feito, o que não se observa no caso. Com efeito, ao denegar a ordem originária, o Tribunal de origem manifestou-se nos seguintes termos (fls. 42-44; sem grifos no original):
+"No tocante ao alegado excesso de prazo, igualmente persiste a conclusão de inexistência de indícios que a tramitação processual esteja superando o que razoavelmente se espera.
+De fato, como informado pelo MM Juízo a quo:
+Os autos foram instaurados mediante Auto de Prisão em flagrante datada de 31 de maio de 2022
+ ..
+No dia 01 de junho de 2022, foi realizado audiência de custódia  ..
+Em 22 de julho de 2022, o Ministério P blico apresentou a denúncia nos autos, e representou pela decretação da prisão preventiva do réu.
+ ..
+O cumprimento do mandado de prisão foi efetuado em 26.11.2022.
+ ..
+Em 22 de fevereiro de 2023, foi confirmado o recebimento da denúncia e designada audiência de instrução , debates e julgamento para o dia 07/03/2023 às 13;00h.
+Apresentado os memoriais por escrito foi por r. sentença datada de 12 de maio de 2023, o réu pronunciado pela suposta prática das condutas descritas nos art. 121, § 2.º, II, c.c. art. 14, II; art. 147, caput, ambos do CP."
+Como se percebe, a ação penal tramita dentro da razoabilidade, já que o Paciente foi preso em flagrante, no dia 31/05/2022, sendo concedida liberdade provisória com a imposição de medidas cautelares (fls. 43-50). Depois, em 25/07/2022, a exordial acusatória foi recebida e decretada a prisão preventiva, sendo cumprida em 26/11/2022. A audiência de instrução e julgamento ocorreu em 07/03/2023 e a decisão de pronúncia foi proferida em 12/05/2023. Conforme o julgado (fl. 44), o feito encontra-se na fase do art. 422 do Código de Processo Penal.
+Nesse contexto, não se verifica a existência de evidente ilegalidade a ser sanada na espécie, pois "somente configura constrangi mento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais" (AgRg no HC 585.674/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 24/08/2020; sem grifos no original).
+Ante o exposto, CONHEÇO PARCIALMENTE do habeas corpus e, nessa extensão, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO E AMEAÇA. PRISÃO PREVENTIVA. ANALISADA NO JULGAMENTO DO HC N. 781.696/SP. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGO A ORDEM.
