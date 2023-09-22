@@ -1,0 +1,32 @@
+DECISÃO
+Na origem trata-se de agravo interno contra decisão que negou agravo de instrumento onde houve negativa de tutela antecipada referente a pagamento de adicional de insalubridade a servidora pública municipal. No Tribunal a quo a decisão foi mantida.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO AO RECURSO DE AGRAVO INTERPOSTO PELO MUNICÍPIO DE SÃO JOÃO DA BARRA CONTRA DECISÃO CONCESSIVA DE TUTELA ANTECIPADA. SERVIDORA MUNICIPAL. PSF PROGRAMA DE SAÚDE DA FAMÍLIA. ADICIONAL DE INSALUBRIDADE CALCULADO COM BASE NO SALÁRIO MÍNIMO. VEDAÇÃO CONSTITUCIONAL. SÚMULA VINCULANTE Nº 4 DO STF. MATÉRIA APRECIADA PELO STF NA RECLAMAÇÃO CONSTITUCIONAL Nº 38431-RJ. POSSIBILIDADE DE CONCESSÃO DA TUTELA ANTECIPADA. DECISÃO QUE DETERMINA A APLICAÇÃO DA BASE DE CÁLCULO PREVISTA EM ATO NORMATIVO EDITADO PELO PRÓPRIO MUNICÍPIO (LEI 210/2012). AUSÊNCIA DE VIOLAÇÃO DAS COMPETÊNCIAS PRÓPRIAS DO MUNICÍPIO PELO PODER JUDICIÁRIO. PRECEDENTES. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Sobre o adicional de insalubridade, o artigo 61, parágrafos 1º a 3º, da Lei municipal 410/2016, assim dispõe:
+(..)
+Já a lei municipal 210/2012, que instituiu o Regime Jurídico Único dos Servidores Públicos Civis do Município de São João da Barra, suas autarquias e fundações públicas, determina em seu artigo 66, parágrafos 1º a 3º:
+(..)
+A redação do artigo 61 e seus parágrafos 1º a 3º, está em evidente confronto com a vedação contida no artigo 7º, IV, da CF, ao passo que estabelece a incidência do percentual devido a título de adicional de insalubridade sobre o salário mínimo e não sobre o vencimento base do servidor.
+Além disso está em desarmonia com a interpretação dada pela Corte Constitucional, que tem entendimento consolidado sobre o tema. Com efeito, assim dispõe a Súmula vinculante nº 4 do STF:
+(..)
+Registro que, não obstante os substanciosos argumentos do agravante, o tema em discussão não comporta divergência, inclusive quanto à possibilidade de concessão do provimento antecipado, uma vez que examinado pelo STF no julgamento da Reclamação 38431-RJ, ajuizada pelo próprio Município agravante, da relatoria do Ministro Edson Fachin.
+(..)
+A autora, ora agravada, encontra-se na mesma situação jurídica, impondo-se que seja adotado o mesmo entendimento.
+Enfim, havendo lei municipal, no caso o estatuto dos servidores, estabelecendo a base de cálculo do mencionado adicional, deverá o agravanteobservar esse critério em substituição àquele incompatível com dispositivo constitucional vigente.
+(..)
+A propósito, destaco precedentes do STJ e deste E. Tribunal, que conferem respaldo ao entendimento adotado:
+(..)
+(AgInt no REsp 1585761/AL, RELATOR Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DATA DO JULGAMENTO 02/06/2016, DJe 08/06/2016).
+Em relação às alegações de violação do art. 2º-B da Lei n. 9.494/1997, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Por outro lado, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria. Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp 1.044.194/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/10/2017, DJe 27/10/2017.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Verifica-se, também, que a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Ademais, verifica-se que o Tribunal de origem também decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
