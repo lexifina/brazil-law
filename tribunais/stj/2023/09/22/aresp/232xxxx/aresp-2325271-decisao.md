@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 274):
+Incidente de desconsideração da personalidade jurídica da sociedade executada. Artigo 50 do CC. A desconsideração da personalidade jurídica da empresa é medida grave que somente se justifica com a comprovação da prática de atos irregulares de seus administradores, que, agindo contrariamente às finalidades estatutárias ou abusando da personalidade jurídica da pessoa jurídica, venham a causar prejuízos a terceiros. Embora não se olvide que a formação de grupo econômico ou a sucessão irregular empresarial como forma de burlar o interesse de terceiros, configura inequívoco abuso da personalidade jurídica, no presente caso, tal não restou evidenciado. A simples similaridade do objeto social das empresas e identidade de sede, não autorizam, por si só, a conclusão de sucessão da atividade empresarial ou mesmo a formação de grupo econômico, mormente considerando-se a inexistência de identidade no quadro societário. Recurso a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta a existência de divergência jurisprudencial, alegando cerceamento de defesa, pois não lhe foi oportunizada a produção das provas cabíveis à demonstração do preenchimento dos requisitos para desconsideração da personalidade jurídica da recorrida.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, verifico que a parte recorrente se limitou a alegar de forma genérica a existência de cerceamento de defesa, sem apontar nas razões do recurso especial os dispositivos de lei objeto da divergência jurisprudencial, de modo que incide o disposto na Súmula 284/STF.
+Com efeito, a jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido de que para fins de admissão do recurso especial, seja pela alínea "a", seja pela alínea "c", do art. 105, inciso III, da Constituição Federal, é imprescindível a indicação do dispositivo de lei federal que teria sido violado ou sobre o qual recairia a divergência. Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.776.477/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2021, DJe de 5/4/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. VALOR. CORREÇÃO MONETÁRIA. TERMO INICIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Não se considera comprovado o dissídio jurisprudencial, se não houve demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas (art. 541, parágrafo único, do CPC/1973).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1450854/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/8/2019, DJe 22/8/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. APELAÇÃO INTERPOSTA NA VIGÊNCIA DO CPC/15 VERSANDO EXCLUSIVAMENTE SOBRE HONORÁRIOS ADVOCATÍCIOS. ART. 99, §5º, DO CPC/15. GRATUIDADE DA JUSTIÇA QUE NÃO É EXTENSIVA AO ADVOGADO DA PARTE CONTEMPLADA. DIREITO PESSOAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança de seguro obrigatório DPVAT.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+4. O direito à gratuidade de justiça é pessoal, estando sujeito ao preparo o recurso que versar exclusivamente sobre a fixação dos honorários de sucumbência, salvo se o próprio advogado tiver direito à referida benesse. Precedentes.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.725.949/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/3/2021, DJe de 25/3/2021.)
+Assim, incide, por analogia, o óbice da Súmula n. 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, ainda que superado o referido óbice, não houve demonstração do dissídio na forma exigida pelos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, pois ausente a necessária similitude fática entre os acórdãos confrontados.
+Acrescente-se, ainda, que o acórdão recorrido afastou a tese de cerceamento de defesa da recorrente, ao argumento de que "a prova pretendida foi deferida, em parte, conforme se vê da decisão saneadora de fl. 155/157, que restou irrecorrida" (e-STJ, fl. 276).
+As razões do recurso especial, no entanto, deixaram de impugnar o referido fundamento, apesar de ser suficiente, por si só , para manter o julgado recorrido no ponto, de modo que incide o óbice da Súmula 283/STF.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
