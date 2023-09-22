@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento ao recurso especial interposto em face de acórdão assim ementado:
+"RECURSO DE APELAÇÃO CÍVEL - EMBARGOS À MONITÓRIO - SENTENÇA DE PROCEDÊNCIA - IRRESIGNAÇÃO RECURSAL - PRELIMINAR DE PRESCRIÇÃO INTERCORRENTE - REJEITADA - ABANDONO DA CAUSA - NÃO CARACTERIZADO - NULIDADE DO NEGÓCIO JURÍDICO - AGIOTAGEM - PRINCÍPIO DA CONSERVAÇÃO DOS ATOS E DOS NEGÓCIOS JURÍDICOS - REDUÇÃO DOS JUROS AOS PARÂMETROS LEGAIS COM CONSERVAÇÃO DO NEGÓCIO JURÍDICO - LITIGÂNCIA DE MÁ-FÉ - CONFIGURADA - RECURSO PARCIALMENTE PROVIDO.
+Não há falar em prescrição intercorrente em fase de conhecimento, notadamente quando os atos são regularmente adotados pelo Juízo de piso.
+"A hipótese dos autos não é de abandono, não tendo a sentenciante reconhecido desídia a ensejar a extinção do feito, como faz crer equivocadamente o apelante".
+Ainda que a ilicitude seja evidente, anular totalmente o negócio jurídico em razão de uma invalidade parcial e mínima, se comparada com o restante do contrato, e, unicamente em razão disso, pôr fim ao presente processo, mesmo sendo incontroversa a existência da dívida inicial, atenta não somente contra o princípio da conservação dos negócios jurídicos, mas também contra os princípios da instrumentalidade do processo, economia processual, razoabilidade e proporcionalidade.
+Demonstrado que houve alteração da verdade com a intenção de induzir o juiz ao erro, cabível a condenação por litigância de má-fé"
+Opostos embargos de declaração, foram rejeitados.
+A agravante aponta, além de divergência jurisprudencial, violação aos arts. 4º, 6º, e 485, inciso III, e 783 do Código de Processo Civil; arts. 1º, 11, 13, e 104 do Código Civil; art. 3º da Medida Provisória 2.172-32/2001, sustentando, primeiramente, a ocorrência de abandono de causa e a prescrição intercorrente, e, em seguida, a perda da liquidez e exigibilidade do título executivo ante a abusividade dos juros previstos.
+Defende, também, a necessidade de majoração da multa por litigância de má-fé.
+Sem contrarrazões.
+Juízo negativo de admissibilidade proferido às fls. 431/435 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece prosperar.
+De início, verifica-se que no que tange à prescrição intercorrente e ao abandono de causa, o Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, considerou que não houve desídia da parte na condução do processo, de modo que afastou os institutos. A revisão desse entendimento, nesta sede, esbarra no óbice da Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO CONVERTIDA EM EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. INÉRCIA DA PARTE AFASTADA NO TRIBUNAL DE ORIGEM. PARALISAÇÃO DO FEITO ATRIBUÍDA AOS MECANISMOS DA JUSTIÇA. INCIDÊNCIA DAS SÚMULAS 7, 83 E 106 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verifica quando o período sem prática de atos processuais é atribuível à demora no impulso oficial pelo órgão judiciário. Precedentes.
+2. A Corte de origem afastou a prescrição intercorrente ao concluir, com base nos elementos informativos dos autos, que a paralisação do andamento do feito não decorreu da conduta do exequente, mas de mecanismos da Justiça. Rever tal conclusão demandaria revolvimento do conteúdo fático-probatório. Incidência das Súmulas 7, 83 e 106 do STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp n. 2.214.056/SP, relator Ministro Raul Araújo, QUARTA TURMA, DJe de 13/6/2023.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Esta Corte Superior não se vincula aos fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela inexistência de desídia do demandante apta a ensejar o reconhecimento do abandono de causa. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.935.682/GO, relator Ministro Antonio Carlos Ferreira, QUARTA TURMA, DJe de 21/11/2022.)
+Prosseguindo, no referente ao contrato e sua suposta nulidade integral pela cobrança de juros abusivos, este Superior Tribunal de Justiça possui jurispudência no sentido de que "o reconhecimento da prática de agiotagem não resulta em extinção automática do processo executivo, pois, nesses casos, devem ser declaradas nulas apenas as estipulações usurárias, conservando-se o negócio jurídico estipulado pelas partes, mediante redução dos juros aos limites legais" (AgRg no REsp n. 925.907/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/6/2014, DJe de 4/8/2014).
+Estando, portanto, o acórdão recorrido em consonância com este entendimento, aplica-se a Súmula 83/STJ, quanto ao ponto.
+Por fim, a respeito da litigância de má-fé, a alteração da multa, em sede de recurso especial é vedada, ante a aplicação da Súmula 7/SJT.
+Ilustrativamente:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. ART. 1022, II, DO CPC. SUPOSTA OMISSÃO A RESPEITO DA PRESCRIÇÃO AQUISITIVA. MATÉRIA APRECIADA. POSSE NÃO QUALIFICADA. OMISSÃO INOCORRENTE. ART. 4º, § 2º, DA LEI 1060/50. PRESSUPOSTOS PARA O DEFERIMENTO DA GRATUIDADE DE JUSTIÇA. MATÉRIA NÃO APRECIADA. AUSÊNCIA DE REPERCUSSÃO NA VIA DOS ACLARATÓRIOS. ENUNCIADOS 282 E 356/STF. PREJUDICIALIDADE EXTERNA. REIVINDICATÓRIA E USUCAPIÃO. INEXISTÊNCIA DE SOBREPOSIÇÃO. PRESSUPOSTO DE FATO. REVISÃO DO TEMA. ANÁLISE DE FATOS E PROVAS. SÚMULA 7/STJ. LITIGÂNCIA DE MÁ-FÉ. ALTERAÇÃO DA VERDADE DOS FATOS. RAZÕES QUE IMPUGNAM A APLICAÇÃO DA MULTA EM RAZÃO DA MERA INTERPOSIÇÃO DE RECURSO. AUSÊNCIA DE CONFRONTO A FUNDAMENTO SUFICIENTE. ENUNCIADOS 283 E 284/STF. REVISÃO QUANTO À PRÁTICA DO ILÍCITO. SÚMULA 7/STJ. ART. 85, § 11, DO CPC. REVISÃO DOS HONORÁRIOS. FALTA DE CORRELAÇÃO ENTRE AS RAZÕES RECURSAIS E A VIOLAÇÃO AO DISPOSITIVO INDICADO. SÚMULA 284/STF. MAJORAÇÃO DOS HONORÁRIOS. RESPEITO À BASE DE CÁLCULO E AOS PERCENTUAIS. REVISÃO DO VALOR. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. ÔNUS DESCUMPRIDO NAS RAZÕES DO RECURSO ESPECIAL. ACRÉSCIMO DE ARGUMENTOS NO AGRAVO INTERNO. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. A alteração da conclusão do Tribunal de origem sobre a litigância de má-fé da agravante demandaria o revolvimento do suporte fático probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+6. A revisão dos valores arbitrados a título de honorários advocatícios demandaria a análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, providência incabível em sede de recurso especial, nos termos da Súmula 7/STJ.
+No caso, a majoração dos honorários recursais respeitou os percentuais e a base de cálculo dos §§ 2º e 3º do art. 85 do CPC; de modo que a revisão do tema nessa sede implicaria a revisão de fatos e provas, insuscetível de exame nesta via.
+7. É inviável a análise de teses não deduzidas no apelo extremo, alegadas apenas em agravo interno - in casu, a realização do necessário cotejo analítico, ônus descumprido quando da interposição do especial -, por caracterizar inovação recursal, rechaçada por este Tribunal Superior.
+8. Agravo interno não provido" (AgInt no REsp n. 1.927.372/TO, relator Ministro Luis Felipe Salomão, QUARTA TURMA, DJe de 25/11/2021.)
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
