@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALESSANDRA ALVES contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que Juízo da execução expediu mandado de prisão em desfavor da sentenciada para cumprir a pena imposta em regime semiaberto.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 33-37, com a seguinte ementa:
+Habeas Corpus. Defesa alega que o paciente sofre constrangimento ilegal por parte do referido juízo, posto que foi determinada a expedição de mandado de prisão ao regime semiaberto, a despeito da inexistência de vagas no sistema carcerário paulista em tal regime, o que viola o teor da Súmula Vinculante 56 - Inviável- Não há qualquer constrangimento ilegal na situação dos autos. O mandado de prisão foi devidamente expedido pelo Juiz a quo eis que o paciente fora condenado a resgatar pena em regime inicial semiaberto, sendo que existe vaga em unidade prisional adequada ao referido regime - Ordem denegada.
+No presente writ, sustenta a impetrante, em síntese, cerceamento de defesa uma vez que foi expedido mandado de prisão sem a possibilitar a manifestação da Defensoria Pública.
+Alega, ainda, violação à súmula vinculante n. 56/STF uma vez que no Estado não há vagas em estabelecimento penal próprio para o regime semiaberto.
+Ressalta que "a SAP indicou apenas genericamente que será disponibilizada vaga para o cumprimento de pena em regime semiaberto, sem sequer apontar se existe atualmente alguma vaga ou não. Também não foi especificado em qual unidade penitenciária a vaga estaria disponível." - fl. 6.
+Requer, no mérito, que seja anulada a decisão impugnada determinando-se a intimação da Defensoria Pública com vista dos autos para se manifestar sobre as informações prestadas pela SAP ou que seja expedido o contramandado de prisão, concedendo a prisão domiciliar até que seja disponibilizada vaga para a sentenciada em regime adequado.
+O pedido liminar foi indeferido às fls. 40-41.
+As informações foram prestadas às fls. 49-62 e 65-76.
+O Ministério Público Federal, às fls. 78-83, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. EXECUÇÃO PENAL. SÚMULA VINCULANTE 56 DO STF. PRISÃO DOMICILIAR. NECESSIDADE DE OBSERVÂNCIA DOS PARÂMETROS ESTABELECIDOS PELO STF. EXISTÊNCIA DE VAGAS NO REGIME IMPOSTO. AUSÊNCIA DE ILEGALIDADE. NÃO CONHECIMENTO DO WRIT.
+É o breve relatório.
+Decido.
+Sustenta a impetrante, em síntese, cerceamento de defesa uma vez que foi expedido mandado de prisão sem a possibilitar a manifestação da Defensoria Pública.
+Alega, ainda, violação à súmula vinculante n. 56/STF uma vez que no Estado não há vagas em estabelecimento penal próprio para o regime semiaberto.
+Ressalta que "a SAP indicou apenas genericamente que será disponibilizada vaga para o cumprimento de pena em regime semiaberto, sem sequer apontar se existe atualmente alguma vaga ou não. Também não foi especificado em qual unidade penitenciária a vaga estaria disponível." - fl. 6.
+No que se refere ao cerceamento de defesa o Tribunal de origem ratificou o entendimento firmado pelo juízo no sentido de que "torna desnecessária a prévia intimação do condenado a respeito, pois, após sua prisão e realização da audiência de custódia, cumprirá a reprimenda em estabelecimento prisional adequado, compatível com o regime aplicado e suas condições pessoais e, ainda, se possível, mais próximo de sua família, garantindo-se, portanto, todos os direitos previstos nas normas de regência.".
+Sobre o tema, o Conselho Nacional de Justiça, em 09/09/2022, aprovou a Resolução nº 474, que alterou o art. 23 da Resolução nº 417/CNJ, prevendo a intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória.
+No caso, tendo sido imposto à paciente o regime inicial semiaberto, não é adequada a imediata expedição de mandado de prisão após o trânsito em julgado, mas sim a intimação prévia da apenada para iniciar o cumprimento da pena, restando prejudicada a análise da violação à súmula vinculante n. 56/STF
+Em hipótese semelhante já decidiu recentemente esta Corte Superior de Justiça:
+PENAL. EXECUÇÃO PENAL.HABEAS CORPUS. CONDENAÇÃO EM REGIME INICIAL SEMIABERTO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA CONDICIONADA AO CUMPRIMENTO DO MANDADO PRISIONAL. ART. 105 DA LEP. MITIGAÇÃO. ADVENTO DA RESOLUÇÃO N. 474/CNJ. INTIMAÇÃO PRÉVIA. ORDEM CONCEDIDA.
+1. O entendimento por muito tempo sedimentado do Superior Tribunal de Justiça, nos termos do art. 105 da Lei de Execução Penal, indicava que a expedição de guia de execução definitiva dependia do prévio recolhimento do apenado ao cárcere. Admitindo-se, contudo, exceções em casos pontuais.
+2. Com a alteração do art. 23 da Resolução n. 417/CNJ, promovida pela Resolução n. 474 do mesmo órgão, passou-se a mitigar a imposição do art. 105 da LEP para os casos nos quais o regime inicial for o intermediário ou o aberto.
+3. Tratando-se de paciente condenado à pena de 2 anos e 8 meses de reclusão em regime inicial semiaberto e diante da nova resolução do Conselho Nacional de Justiça, deve ser expedida intimação para início de cumprimento da pena, não havendo necessidade de recolhimento do apenado em regime mais severo enquanto a guia de execução definitiva é elaborada.
+4. Ordem concedida para determinar, com fulcro na Resolução n. 474 do Conselho Nacional de Justiça, o recolhimento do mandado de prisão expedido, determinando ainda ao Juízo das Execuções que proceda à intimação do apenado para dar início ao cumprimento de sua pena. (HC n. 757.739/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/11/2022, DJe de 11/11/2022.)
+Ante o exposto, concedo o habeas corpus para assegurar à paciente o direito de ser intimada a iniciar o cumprimento da pena em regi me semiaberto, sem que, para tanto, seja expedido mandado de prisão.
+P. e I.
+EMENTA
