@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto contra acórdão assim ementado (fl. 1288):
+HABEAS CORPUS - ESTELIONATO - SENTENÇA CONDENATÓRIA PROFERIDA - ILEGALIDADE DA SENTENÇA - AUSÊNCIA DE CONDIÇÃO PARA O EXERCÍCIO DA AÇÃO - WRIT UTILIZADO COMO SUCEDÂNEO RECURSAL - VIA INADEQUADA - NÃO CONHECIMENTO. O Supremo Tribunal Federal e o Superior Tribunal de Justiça firmaram posicionamento no sentido de que o Habeas Corpus, quando utilizado como substitutivo do recurso legalmente previsto, não deve ser conhecido, ressalvada a hipótese de flagrante ilegalidade do ato judicial impugnado, caso em que a ordem deve ser deferida ex officio. O ato judicial atacado não possui flagrante ilegalidade a ensejar a concessão da ordem de ofício.
+Alega o recorrente, em suma, falta de condição essencial para o exercício da ação penal, pois não teria havido representação do real ofendido.
+Requer, assim, a anulação do acórdão que não conheceu do habeas corpus originário, determinando-se que o tribunal de origem aprecie o mérito das alegações ou seja concedida a ordem de ofício para que seja anulada a ação penal desde o recebimento da denúncia.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não provimento do recurso, nos termos da seguinte ementa:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. FRAUDE ELETRÔNICA. ARTIGO 171, §2º-A, DO CÓDIGO PENAL. HC NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM. CONDIÇÃO DE PROCEDIBILIDADE PARA O EXERCÍCIO DA AÇÃO PENAL. REPRESENTAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE EM SEDE DE HABEAS CORPUS. QUESTÃO A SER EXAMINADA NA APELAÇÃO CRIMINAL. PELO NÃO PROVIMENTO DO RECURSO.
+Compulsando os autos, verifica-se que o presente recurso não pode ser conhecido, por se tratar de mera reiteração das alegações deduzidas no RHC 176549/MG, o qual já foi apreciado por esta Corte, tendo sido negado provimento ao recurso, nos termos seguintes:
+Como visto, diante da superveniência de sentença condenatória, a qual analisou a questão referente à ausência de procedibilidade da ação penal e consequente inépcia da denúncia, ressaltou o Tribunal local que o writ lá impetrado perdeu seu objeto, porquanto "o exame da tese deverá ocorrer por meio da Apelação Criminal", posicionamento esse que vai ao encontro da jurisprudência desta Corte, não havendo falar-se em ilegalidade.
+"Com efeito, "a superveniência de sentença condenatória torna prejudicado o pedido que buscava o trancamento da ação penal sob a alegação de falta de justa causa e inépcia da denúncia, haja vista a insubsistência do exame de cognição sumária, relativo ao recebimento da denúncia, em face da posterior sentença de cognição exauriente" (HC n. 384.302/TO, Quinta Turma, rel. Min. Ribeiro Dantas, DJe de 9/6/2017)" (AgRg no HC n. 769.004/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/3/2023, DJe de 24/3/2023).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Ante o exposto, não conheço do recurso .
+Publique-se.
+Intimem-se.
+ EMENTA
