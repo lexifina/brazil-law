@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi preso preventivamente em 3/2/2022, sendo "denunciado como incurso nos artigos 33, "caput", e 35, ambos da Lei n. 11.343/2006, na forma do artigo 69, do Código Penal" (fl. 20).
+Argumenta o impetrante, em suma, com o excesso de prazo para a conclusão da ação penal, em razão da demora injustificada de juntada aos autos de laudo pericial requerido pela acusação, requerendo, liminarmente e no mérito, a concessão da "liberdade provisória cumulada com medidas cautelares diversas da prisão preventiva" (fl. 17).
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal "pela concessão da ordem de ofício para substituir a prisão preventiva do paciente por medidas cautelares diversas" (fl. 96).
+Na origem, Processo n. 1500552-23.2021.8.26.0593, oriundo da 1ª Vara Criminal de Marília/SP, a prisão do réu, ora paciente, foi mantida em 15/8/2023, conforme informações processuais extraídas do site do TJSP em 19/9/2023 (documento de fls. 100-101).
+Com relação aos prazos consignados na lei processual, deve-se atentar o julgador às peculiaridades de cada ação criminal.
+Uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Sabe-se que os prazos fixados na legislação para a prática de atos processuais servem apenas de parâmetro, não podendo deduzir o excesso apenas pela soma aritmética dos mesmos.
+Sobre o tema, assim se manifestou o Tribunal local (fls. 21-22):
+ ..  De fato, razão não assiste ao impetrante quando acena com o excesso de prazo para formação da culpa.
+Isto porque, versa a hipótese sobre delito de particular e exacerbada gravidade, cuja instrução probatória é dotada de certo grau de complexidade, circunstâncias que recomendam especial tolerância com eventuais demoras.
+O prazo para formação da culpa não é rígido.
+Para configuração do constrangimento ilegal, decorrente de excesso de prazo para o término da instrução criminal, não basta mera soma dos prazos processuais. É preciso mais. Necessário que o prazo seja analisado dentro de um critério razoável ante as peculiaridades de cada caso.
+O feito, in casu, tramita de forma regular, enfrentando dificuldades decorrentes do próprio processo, não se podendo falar que o paciente esteja sofrendo constrangimento ilegal.
+O pedido de revogação da prisão preventiva feito pela defesa do paciente foi indeferido em 17/02/2023 (fls. 911/912 dos autos de origem).
+Novamente, em 18.05.2023, foi mantida a prisão cautelar do paciente, verificando estarem presentes os pressupostos da custódia cautelar (fls. 929 dos autos de origem).
+A Audiência de Instrução, Debates e Julgamento foi designada para o dia 24.05.2022 (fls. 569/574 dos autos de origem).
+Ademais, consultando os autos originários, verifica-se que o processo já se encontra em fase final de apresentação de memoriais da defesa Fls. 877, superada a fase do artigo 402 do Código de Processo Penal.
+Portanto, encerrada a instrução, inexiste constrangimento ilegal a ser sanado pela estreita via do writ. ..
+Como visto, destacou o Tribunal estadual que "o processo já se encontra em fase final de apresentação de memoriais da defesa Fls. 877, superada a fase do artigo 402 do Código de Processo Penal", acrescendo-se que, "encerrada a instrução, inexiste constrangimento ilegal a ser sanado pela estreita via do writ".
+Contudo, colhe-se das informações prestadas em 21/7/2023, que, ao final da instrução, "o representante do Ministério Público e o procurador do corréu Cristiano, Dr. Carlos Henrique Credendio, solicitaram a juntada oportuna de laudos oriundos dos autos 1511825-67.2021.8.26.0344" (fl. 54), situação essa que perdura até a presente data, conforme relatado alhures, extraindo-se, ainda, da decisão proferida em 15/8/2023 (fl. 101):
+ ..  Registre-se, ainda, que o feito aguarda a juntada do laudo decorrente do compartilhamento de provas deferido nos autos nº 1511825-67.2021.8.26.0344 (pedido formulado pela defesa do corréu Cristiano), cuja perícia, sob responsabilidade do IMESC, foi realizada em maio de 2022. Muito embora cobrado por diversas vezes no incidente nº 0002860-43.2022.8.26.0344, em apenso ao feito 1511825-67.2021.8.26.0344, não houve, até a presente data, apresentação do laudo pericial pelo responsável pela perícia ou pelo próprio IMESC, o que impede o andamento do feito.
+Por fim, consigno que, nesta data, a serventia expedirá mandado de intimação ao superintendente do IMESC (no incidente 0002860-43.2022.8.26.0344, supramencionado), cobrando, por mais uma vez, a apresentação do laudo, nos exatos termos do despacho de fls. 97/98 daqueles autos. ..
+Logo, se o atraso é justificado por incidentes processuais imputáveis ao juízo, mormente porque já encerrada a instrução criminal, faltando tão somente a juntada aos autos de laudo pericial não solicitado pela defesa do ora paciente - preso preventivamente desde 3/2/2022 -, deve-se reconhecer o constrangimento ilegal aqui apontado.
+Ademais, evidenciada mora estatal em ação penal na qual a sucessão de atos processuais infirma a ideia de paralisação indevida ou de culpa do Estado persecutor, vê-se, no presente feito, flagrante ilegalidade a que está submetido o ora paciente, pois, apesar de ostentar "vasta antecedência criminal, inclusive é reincidente específico" (fl. 68), foi detido com inexpressiva quantidade de droga - "3,73g (massa líquida) de Cannabis sativa L, vegetal conhecido por maconha" (fl. 60).
+Nesse contexto, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade (informar e justificar atividades); (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado ao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e com outras atividades criminosas, como garantia à instrução e à proteção contra à reiteração criminosa.
+Deverá, de igual modo, fornecer e manter atualizados, para fins de comunicação processual, endereço e telefone(s) pessoais ao juízo de origem.
+Ante o exposto, concedo o habeas corpus a ANDRADE GRACIANO DA SILVA para substituir a prisão preventiva pelas medidas cautelares menos gravosas acima delineadas (Processo n. 1500552-23.2021.8.26.0593 - 1ª Vara Criminal de Marília/SP).
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
