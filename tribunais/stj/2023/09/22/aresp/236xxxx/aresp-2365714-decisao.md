@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se  de  agravo  manejado  pelo Instituto Nacional do Seguro Social contra  decisão  que  não  admitiu  recurso  especial,  este  interposto  com  fundamento  no  art.  105,  III,  a,  da  CF,  desafiando  acórdão  proferido  pelo  Tribunal  Regional Federal da 4ª Região,  assim  ementado  (fl.  217):
+PREVIDENCIÁRIO. RESTITUIÇÃO. VALORES RECEBIDOS DE BOA-FÉ. PRESCRIÇÃO.
+1. A restituição de valores pagos indevidamente está sujeita a prazo prescricional e não a decadencial.
+2. A Administração possui o poder-dever de anular seus própriosatos, quando eivados de ilegalidade, assegurado o contraditório e ampla defesa.
+3. A imprescritibilidade não abrange os ilícitos civis em geral,apenas ilícitos penais ou de improbidade administrativa.
+4. À restituição dos valores indevidamente recebidos aplica-seo prazo prescricional de cinco anos. Na hipótese, as parcelas em referência estão fulminadas pelo prazo prescricional, porquanto, sob qualquer ângulo que se examine, transcorrido o prazo quinquenal.
+Opostos embargos de declaração, não foram providos (fl. 256).
+Nas  razões  do  recurso  especial,  a  parte  agravante  afirma que houve negativa de vigência ao  art.  1.022 do CPC e violação do art. 1.024 do mesmo Código.
+Aduz que a Corte de origem deixou de "solver as questões de fato pendentes de análise e abordar os dispositivos pertinentes" (fl. 268).
+E alega, também, que "após a prolação da sentença que acolheu os embargos de declaração opostos pela Autarquia, com alteração do resultado, o requerente não ratificou o recurso interposto - razão pela qual não há como se conhecer do apelo, conforme disposto no art. 1.024, §§ 4º e 5º, do CPC" (fl. 276).
+É  O  BREVE RELATÓRIO.  SEGUE  A  FUNDAMENTAÇÃO.
+De  início, não se vislumbra, na hipótese vertente, que o v. acórdão recorrido padeça de qualquer dos vícios descritos no art. 1.022 do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o Colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+Foram essas as razões constantes do voto condutor do acórdão dos aclaratórios julgados pelo Tribunal de origem (fls. 258/260):
+De início, vale ponderar que o entendimento acerca da ratificação de recursos, vem inserto no parágrafo 5º do artigo 1.024, afirmando que "se os embargos de declaração forem rejeitados ou não alterarem a conclusão do julgamento anterior, o recurso interposto pela outra parte antes da publicação do julgamento dos embargos de declaração será processado e julgado independentemente de ratificação".
+Desse modo, conclui-se que o Código de Processo Penal expressamente dispensa a ratificação do recurso se os aclaratórios forem rejeitados ou não alterarem, como na hipótese, a conclusão do julgamento anterior. Logo, não prospera a insurgência da Autarquia Previdenciária.
+De outro lado, afirma o INSS que uma vez comprovada a existência de evidente conduta de má-fé, conforme entendimento do STJ, pacificado por meio de recurso representativo de controvérsia - como na hipótese dos autos, não incide a alegada prescrição, conforme expressa previsão constitucional (37, § 5º, da CF), e infraconstitucional (art. 103-A, da Lei 8.213/91 e art. 54, da Lei 9784/99).
+No entanto, fato é que, tal como asseverado no voto objurgado, à exaustão, a comprovação da má-fé é apta a afastar o prazo decadencial para anulação do ato administrativo de que decorra efeitos favoráveis para o beneficiário, nos termos do art. 54 da Lei 9.784/1999 e art. 103-A da Lei 8.213/1991, contudo, não tem o condão de impedir a fluência do prazo prescricional.
+Logo, no caso vertente, examinando a fundamentação invocada no voto condutor do acórdão embargado, não se verifica a existência de qualquer das hipóteses ensejadoras do presente recurso.
+Assim, o que pretende o embargante, na verdade, é a rediscussão da matéria decidida, o que não é admissível nesta via recursal. Os Embargos de Declaração têm o propósito de aperfeiçoar o julgado, não de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1.023, § 2º, do CPC).
+Quanto ao prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, consigno que se consideram nele incluídos os elementos suscitados pelos embargantes, independentemente do acolhimento ou não dos embargos de declaração, conforme disposição expressa do artigo 1.025 do Código de Processo Civil.
+Ante o exposto, voto por negar provimento aos embargos de declaração.
+Vê-se, portanto, que o julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal.
+Por outro lado, quanto à violação do art. 1.024 do CPC e a alegada necessidade de ratificação do recurso de apelação, não assiste razão ao agravante.
+No caso dos autos, o tribunal de origem registra que os embargos de declaração opostos contra a sentença de primeiro grau foram acolhidos somente para a correção de erro material, retificando a responsabilidade pela verba sucumbencial.
+Nesta hipótese, incide o enunciado da Súmula 579/STJ, que assim dispõe: "Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior".
+Em igual sentido:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO INTERPOSTA ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO APENAS PARA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE ALTERAÇÃO NA CONCLUSÃO DO JULGAMENTO ANTERIOR. RATIFICAÇÃO. DESNECESSIDADE. EXISTÊNCIA DE CONTRADIÇÃO E OBSCURIDADE NO ACÓRDÃO ORA EMBARGADO. ACOLHIMENTO DOS EMBARGOS COM EFEITOS INFRINGENTES.
+1. "A única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior" (REsp 1129215/DF, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 3/11/2015).
+2. Caso em que o julgamento dos embargos declaratórios manteve a sentença inalterada quanto ao indeferimento da inicial, ocorrendo apenas integração quanto à omissão na condenação de honorários advocatícios, razão pela qual se afigura desnecessária posterior ratificação do recurso de apelação.
+3. Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl nos EDcl no AgRg no AREsp n. 402.932/CE, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 6/2/2018, DJe de 13/3/2018.)
+ANTE  O  EXPOSTO,  nego  provimento  ao  agravo.
+Publique-se.
+EMENTA
