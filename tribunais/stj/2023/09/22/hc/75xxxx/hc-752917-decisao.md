@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDERSON SILVA NUNES contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.22.119406-1/000.
+Consta nos autos que o Paciente foi preso em flagrante delito em 13/05/2022, em razão da suposta prática do crime de furto.
+Em seguida, o Juízo a quo homologou o flagrante e concedeu liberdade provisória sem fiança, mas impôs as seguintes medidas cautelares (fl. 84):
+"1 - COMPARECIMENTO QUINZENAL PERANTE A EQUIPE MULTIDISCIPLINAR DA CEAPA, localizada na Rua Espírito Santo, 466 - 10º andar, Centro, Belo Horizonte, telefone (31) 2129-9392, NO PRAZO MÁXIMO DE 03 DIAS ÚTEIS, para sua inscrição e regular acompanhamento, através do SUBSEQUENTES À SUA SOLTURA comparecimento mensal obrigatório, pelo período mínimo de 03 (três) meses, prorrogáveis por mais 03(três) meses, de acordo com a metodologia do programa; 2 - PROIBIÇÃO DE SE AUSENTAR DA COMARCA DE BELO HORIZONTE POR PRAZO SUPERIOR A TRINTA DIAS, SEM PRÉVIA AUTORIZAÇÃO JUDICIAL; 3 - COMPROMISSO DE MANTER SEU ENDEREÇO ATUALIZADO E DEVER DE COMPARECIMENTO A TODOS OS ATOS DO INQUÉRITO E AÇÃO PENAL QUE VIER A SER INSTAURADA; 4 - RECOLHIMENTO DOMICILIAR NOTURNO DURANTE OS DIAS ÚTEIS, NO PERÍODO COMPREENDIDO ENTRE 22:00 HORAS E 06:00 HORAS DO DIA SEGUINTE; E, RECOLHIMENTO DOMICILIAR EM PERÍODO INTEGRAL AOS SÁBADOS, DOMINGOS E FERIADOS, PELO PRAZO DE 6 (SEIS) para garantia do cumprimento da cautelar afeta ao MESES; 5 - MONITORAÇÃO ELETRÔNICA recolhimento domiciliar, pelo prazo de 6 (seis) meses, se outro não for estabelecido nos autos do inquérito policial ou da ação penal eventualmente instaurada. Advirta-se o autuado que o descumprimento injustificado das medidas cautelares ora impostas poderá acarretar o decreto de sua prisão preventiva, nos termos do parágrafo único do artigo 312 do CPP. Expeça-se para cumprimento imediato, instalando-se, a seguir, as ALVARÁ DE SOLTURA, para cumprimento imediato, instalando-se, a seguir, as tornozeleiras eletrônicas perante a UGME, SALVO SE POR OUTRO MOTIVO ESTIVER PRESO O AUTUADO."
+Inconformada, a Defesa impetrou o writ originário, que foi denegado pelo Tribunal local.
+Nas razões do mandamus, a parte Impetrante sustenta, em suma, que não há fundamentação para que seja aplicada a medida cautelar de recolhimento noturno com monitoração eletrônica.
+Requer, liminarmente e no mérito, a "revogação da medida cautelar de recolhimento domiciliar c/c monitoramento eletrônico, ou que tais medidas sejam suspensas até o julgamento do feito, considerando a ausência dos requisitos da necessidade, proporcionalidade e adequação, à luz do que dispõe o art. 282, I e II, do CPP" (fl. 15).
+O pedido liminar foi indeferido às fls. 190-193.
+As informações foram prestadas às fls. 196-267 e 280-315.
+O Ministério Público Federal, em parecer de fls. 274-278, manifestou-se pela denegação da ordem.
+É o relatório. Decido.
+Segundo informações de fls. 280-315, o Paciente não foi localizado para ser citado do recebimento da d enúncia. Assim, decorrido prazo da citação por edital, o Juízo Processante suspendeu o processo e o prazo prescricional, nos termos do art . 366 do Código de Processo Penal.
+Constato, portanto, a perda de objeto da presente insurgência, que buscava a revogação de medidas cautelares .
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSURGÊNCIA CONTRA MEDIDAS CAUTELARES. SUPERVENIÊNCIA DE APLICAÇÃO DO ART. 366 DO CÓDIGO DE PROCESSO PENAL. PERDA DE OBJETO. PEDIDO DE HABEAS CORPUS PREJUDICADO.
