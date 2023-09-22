@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado entre o JUÍZO FEDERAL DA VARA CÍVEL E CRIMINAL DE MURIAÉ - SJ/MG e o JUÍZO FEDERAL DA 1ª VARA DE TRÊS RIOS - SJ/RJ nos autos da ação monitória movida pela CAIXA ECONÔMICA FEDERAL em desfavor de SUL FLUMINENSE DISTRIBUIDORA DE PAPEIS E TRANSPORTE LTDA. e OUTROS.
+Ajuizada a ação inicialmente perante o Juízo carioca (fls. 45-49) (Processo n. 0002174-44.2018.4.02.5113), o magistrado, de ofício, declinou da competência por meio de decisão nos seguintes termos (fls. 69-70):
+"Trata-se de ação monitória movida pela CEF em face de SUL FLUMINENSE DISTRIBUIDORA DEPAPEIS E TRANSPORTE LTDA. E OUTROS, cujo objeto é o suposto débito histórico de R$ 138.730, 75, oriundo do contrato n. 190925734000012982.
+Na decisão anterior (Evento 140) registrou-se que:
+"Verifica-se que os sócios da executada SUL FLUMINENSE DISTRIBUIDORA DE PAPÉIS LTDA EPP, são os demais executados e que a executada MAGDA MENDES ROSATI é a representante legal da empresa, conforme Evento 1,OUT4 e Evento 1, OUT10.
+Tendo em vista que os sócios VINEZIO FERREIRA MENDES e MAGDA MENDES ROSATI foram citados, conforme carta precatória juntada ao evento 74, considero suprida a citação da executada SUL FLUMINENSEDISTRIBUIDORA DE PAPÉIS LTDA EPP, nos termos do art. 239, § 116º do CPC.
+Conforme consta dos autos, os sócios executados residem em Leopoldina e, conforme a certidão do evento 100 a empresa executada não possui mais endereço em Paraíba do Sul, e ainda que "consultando a base de dados da Receita Federal- PJ verifiquei que a empresa Sul Fluminense Distribuidora de Papéis e Transporte Ltda., CNPJ nº11.911.857/0001-80 encontra-se com situação cadastral inapta desde 11/01/2019 não possuindo endereço cadastrado"
+Intimada, a CEF não se opôs ao declínio da competência para a Justiça Federal em Minas Gerais(Evento 143).
+Decido.
+Tendo em vista que, a par das diligências negativas em território abrangido pela jurisdição desta Vara Federal e do teor das informações obtidas junto à Receita Federal (já mencionadas na decisão anterior), a parte ré não possuía endereço em Paraíba do Sul no ajuizamento da ação, impõe-se o declínio da competência para uma das Varas Federais com jurisdição sobre o domicílio dos corréus já citados (Leopoldina/MG) - art. 46, CPC.
+Diante do exposto, reconheço a incompetência desta Vara Federal de Três Rios para processar e julgar a presente ação e declino da competência para um dos Juízos Federais da Subseção Judiciária de Muriaé/MG."
+Recebidos os autos, o Juízo mineiro (Processo n. 1002022-85.2023.4.06.3821) suscitou o presente incidente por meio da seguinte decisão (fls. 79-81):
+"(..)
+No caso dos autos, em que pese a respeitável decisão do Juízo Declinante, na qual restou consignado que , ao momento de ajuizamento da ação, a pessoa jurídica ré não possuía endereço cadastrado na RFB, consultando a base de dados do sistema INFOSEG verifico que a empresa se encontra com situação cadastral inapta( circunstância ensejada por possível omissão de declarações fiscais por 2 anos consecutivos), mas com endereço cadastrado à Rua Silva Jardim, n. 455, Paraíba do Sul-RJ:
+(..)
+Nesse aspecto, a inaptidão da pessoa jurídica, não encontrada no seu domicílio fiscal quando da citação, com a devida vênia, não é fato jurídico que enseje, per se, o declínio da competência ao domicílio dos sócios ou representantes legais, mesmo porque tal status não demonstra efetivamente que houve encerramento das atividades da empresa, mas omissão de suas declarações contábeis à RFB, sendo possível a reativação do cadastro caso estas sejam sanadas.
+É dizer que embora inapta a empresa não há comprovação de que fora encerrada regularmente no Cadastro do Órgão Oficial, de modo que permanece como competente o foro de onde exerce ou exercia suas atividades.
+Com efeito, em princípio, na base de dados da RFB, a pessoa jurídica não está sem cadastro de endereço( por baixa ou inatividade), sendo certo que a propositura da ação monitória perante a Justiça Federal de Três Rios-RJ seguiu a regra geral de competência territorial(foro de domicílio do réu).
+E, nesse ponto, conquanto a CEF não tenha se oposto ao deslocamento da competência para esta Subseção Judiciária, é certo que a competência em razão do local(territorial) possui natureza relativa. Em razão disso, não cabe ao juízo pronunciar, de ofício, a sua incompetência, em conformidade com a Súmula nº 33 do Superior Tribunal de Justiça.
+Ademais, é certo que, por expressa disposição legal e por observância aos princípios do juiz natural e da perpetuatio jurisdicionis, a competência é firmada no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações doestado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta.
+Por oportuno, colaciono o seguinte entendimento doutrinário:
+(..)
+Portanto, o fato de os sócios ou representantes legais residirem em cidades abrangidas pela jurisdição desta Vara Federal não é causa suficiente para alterar-se a competência territorial fixada com a propositura da ação, pois as demais determinações judiciais (inclusive atos de constrição na eventual conversão do feito monitório em executivo) poderão ser cumpridas por meio de carta precatória.
+Assim, considerando que a demanda principal versa sobre tema de competência territorial, de natureza relativa, portanto, tenho, com a devida vênia, que o Juízo suscitado não poderia ter declinado da competência de ofício, sob pena de violação ao disposto no artigo 43 do Código de Processo Civil."
+O Ministério Público Federal manifestou-se pela desnecessidade de opinar sobre o mérito (fls. 421-425).
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Entendo que compete ao Juízo suscitado processar e julgar a demanda.
+No caso, cuida-se de ação monitória, demanda que envolve matéria de competência territorial e, portanto, relativa.
+Nessa linha, cuidando de competência relativa, não poderia o Juízo suscitado declinar da competência de ofício, conforme estabelecido na Súmula n. 33/STJ, que dispõe: "A incompetência relativa não pode ser declarada de oficio".
+Nesse sentido:
+PROCESSO CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ESCOLHA DO FORO DE DOMICÍLIO DOS RÉUS. COMPETÊNCIA TERRITORIAL. PRINCÍPIO DA PERPETUATIO JURISDICTIONIS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A competência determina-se no momento da propositura da ação (art. 87 do CPC) e, por força do art. 576 do CPC, as regras gerais de competência - previstas no Livro I, Título IV, Capítulos II e III  aplicam-se à ação de execução de título extrajudicial.
+2. Em conformidade com o art. 100, IV,  d  do CPC, o juízo competente para processar e julgar ação de execução de título extrajudicial é o do lugar do pagamento do título. O exequente pode, todavia, optar pelo foro de eleição ou pelo foro de domicílio do réu, como ocorreu na hipótese em exame. Precedentes.
+3. Em se tratando de hipótese de competência relativa, o art. 87 do CPC institui, com a finalidade de proteger a parte, a regra da estabilização da competência (perpetuatio jurisdictionis), evitando-se, assim, a alteração do lugar do processo, toda a vez que houver modificações supervenientes do estado de fato ou de direito.
+4. A aquisição do ativo do banco exequente pelo Estado de Alagoas em nada altera o exposto, porquanto não se trata de posterior supressão do órgão judiciário ou alteração da competência em razão da matéria ou da hierarquia, situações admitidas pelo art. 87 do CPC como exceções à perpetuação da competência.
+5. Ademais, confirmando a autonomia do direito processual relativamente ao direito material, preconiza a regra contida no art. 42 do CPC que as alterações ocorridas no direito material não interferem no teor da relação jurídica processual, verificando-se, com a citação válida, a perpetuatio jurisdictionis.
+6. Conflito conhecido para o fim de declarar a competência do Juízo de Direito da 7ª Vara Cível de Aracaju-SE, foro de domicílio dos réus.
+(CC 107.769/AL, relatora Min. Nanancy Andrighi, Segunda Seção, julgado em 25/08/2010, DJe de 10/09/2010.).
+Nesse sentido, ainda, confiram-se os seguintes julgados semelhantes ao presente caso: CC n. 181.748/SE (relator Ministro Marco Aurélio Bellizze, DJe de 27/4/2023), CC n. 177.090/SP (relator Ministro Ricardo Villas Bôas Cueva, DJe de 5/4/2021), CC n. 175.192/RJ (relator Ministro Gurgel de Faria, DJe de 18/2/2021) e CC 171.842/CE (relator Ministro Raul Araújo, DJe de 29/ 4/2020).
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 1ª VARA DE TRÊS RIOS - SJ/RJ, o suscitado.
+Comunique-se o teor da presente decisão aos juízos suscitado e suscitante.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCOMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. SÚMULA 33/STJ. IMPOSSIBILIDADE. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA DE POÇO REDONDO - SE.
