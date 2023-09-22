@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOSE PEDRO DA SILVA contra decisão da Presidência desta Corte que não conheceu do agravo, haja vista a falta de impugnação do fundamento da decisão de inadmissão quanto à incidência da Súmula 7/STJ (e-STJ, fls. 422-423).
+Em sua irresignação (e-STJ, fls. 427-439), o agravante se insurge contra a decisão monocrática, salientando que ficou demonstrada a violação dos artigos tidos por violados, não sendo o caso de reapreciação de fatos e provas dos autos.
+Não foi apresentada impugnação ao recurso (e-STJ, fls. 443-444).
+No caso, cumpre observar que a decisão do TJSP que negou seguimento ao recurso especial foi impugnada pelo agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 422-423 (e-STJ), tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015 e o preenchimento dos requisitos de admissibilidade recursal.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, por meio do qual se insurgiu contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 370):
+Agravo de instrumento - Execução de título extrajudicial - Penhora de percentual dos proventos de aposentadoria recebidos pelo devedor - Descabimento - Natureza alimentar - Impenhorabilidade - Ausência de hipótese excepcional que autorize a mitigação da regra prevista no artigo833,incisoIV,do CPC - Precedentes jurisprudenciais - Decisão reformada.
+Recurso provido.
+Nas razões do recurso especial (e-STJ, fls. 375-387), o recorrente apontou divergência jurisprudencial e violação dos arts. 85, § 14, e 833, IV, do CPC/2015, sustentando, em síntese, a possibilidade de penhora do salário do devedor no caso concreto, uma vez que o bloqueio dos rendimentos do recorrido não irá interferirá no sustento dele e no de sua família.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O acórdão recorrido entendeu não ser possível a penhora de 20% dos proventos da aposentadoria do executado até a satisfação do débito, ante a incidência da regra da impenhorabilidade prevista no art. 833, IV, do novo Código de Processo Civil.
+Veja-se (e-STJ, fls. 370-372, sem grifo no original ):
+Com efeito, viola direito a penhora de valores derivados de salário, pensão/aposentadoria ou de qualquer outro montante de natureza alimentar, vez que esse tipo de remuneração é imune a constrições dessa espécie, a teor do disposto no artigo 833, inciso IV, do CPC.
+A regra de impenhorabilidade prevista no referido dispositivo visa resguardar de eventuais constrições "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal (..)", em virtude da natureza alimentar das referidas verbas.
+(..)
+A impenhorabilidade mencionada somente pode ser mitigada em hipóteses excepcionais, como, por exemplo, "de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais"(artigo 833,§2º, do CPC), oque não se verifica no presente caso.
+(..)
+Desse modo, impõe-se a reforma da decisão recorrida ,devendo ser afastada, por consequência, a penhora incidente sobre percentual dos proventos de aposentadoria recebidos pelo ora agravante.
+No entanto, de acordo com o entendimento da Corte Especial do Superior Tribunal de Justiça, a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973; art. 833, IV, do CPC/2015) pode ser excepcionada, ainda que para fins de satisfação de crédito não alimentar, desde que haja manutenção de percentual dessa verba capaz de preservar a dignidade do devedor e sua família.
+Confira-se:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial - nota promissória.
+2. Ação ajuizada em 13/10/1994. Recurso especial interposto em 29/10/2009. Embargos de divergência opostos em 23/10/2017. Julgamento: CPC/2015. 3. O propósito recursal é definir sobre a possibilidade de penhora de vencimentos do devedor para o pagamento de dívida de natureza não alimentar.
+4. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Precedentes.
+5. Na espécie, a moldura fática delineada nos autos - e inviável de ser analisada por esta Corte ante a incidência da Súmula 7/STJ - conduz à inevitável conclusão de que a constrição de percentual de salário da embargante não comprometeria a sua subsistência digna.
+6. Embargos de divergência não providos
+(EREsp 1.518.169/DF, Rel. Ministro HUMBERTO MARTINS, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/10/2018, DJe 27/02/2019.)
+Cabe registrar que os embargos de declaração opostos ao acórdão do precedente supracitado foram acolhidos para sanar contradição, sem efeitos modificativos, com as seguintes observações, pertinentes ao presente caso:
+(..) não há que se falar na flexibilização da impenhorabilidade com base, unicamente, no disposto no art. 833, IV, § 2º, do CPC/2015, porque a própria evolução jurisprudencial não impede que tal mitigação ocorra nas hipóteses em que os vencimentos, subsídios, soldos, etc. sejam inferiores a 50 (cinquenta) salários mínimos.
+O que a nova regra processual dispõe é que, em regra, haverá a mitigação da impenhorabilidade na hipótese de as importâncias excederem o patamar de 50 (cinquenta) salários mínimos, o que não significa dizer que, na hipótese de não excederem, não poderá ser ponderada a regra da impenhorabilidade.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BENEFÍCIO PREVIDENCIÁRIO. IMPENHORABILIDADE. MITIGAÇÃO. POSSIBILIDADE DE PENHORA. SUBSISTÊNCIA E DIGNIDADE. EFETIVIDADE DO PROCESSO. BOA-FÉ. SITUAÇÃO CONCRETA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. A impenhorabilidade do salário pode ser mitigada, não só nas hipóteses expressamente previstas no art. 833, § 2º, CPC, mas em qualquer caso no qual se verifique a ausência de prejuízo à manutenção do mínimo existencial e à subsistência do devedor e de sua família.
+2. Se, de um lado, os princípios da menor onerosidade e da dignidade da pessoa humana visam a impedir a execução abusiva, por outro lado também cabe à parte executada agir de acordo com os princípios da boa-fé processual, da cooperação e da efetividade do processo.
+3. A situação financeira concreta do devedor foi expressamente abordada no acórdão e a modificação do entendimento adotado demandaria a reapreciação de matéria fático-probatória, o que não é possível em sede de recurso especial. Súmula 7/STJ.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 2.021.507/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+Nessa linha de entendimento, faz-se necessária a análise, em cada caso concreto, das circunstâncias pessoais do devedor, para que se possa decidir, de maneira fundamentada, sobre a possibilidade ou não de flexibilização da regra de impenhorabilidade dos vencimentos. Essa avaliação, em princípio, deve ser feita pelas instâncias ordinárias, dada a sua maior proximidade com os fatos da causa.
+Ante o exposto, em juízo de reconsideração, conheço do agravo para dar provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, à luz da orientação jurisprudencial desta Corte Superior, realize novo julgamento do agravo de instrumento, como entender de direito.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO IMPUGNADA, AINDA QUE SUCINTAMENTE. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIOS E PROVENTOS. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. ANÁLISE DO CASO CONCRETO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, EM JUÍZO DE RECONSIDERAÇÃO.
