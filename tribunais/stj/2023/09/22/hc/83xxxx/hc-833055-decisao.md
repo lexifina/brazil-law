@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 59):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DOS CRIMES DE DESOBEDIÊNCIA, RESISTÊNCIA E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR (ARTS. 330, CAPUT, 329, CAPUT E 311, CAPUT, TODOS DO CÓDIGO PENAL). INSURGÊNCIA EM FACE DA DECISÃO QUE DEFERIU A PRODUÇÃO ANTECIPADA DE PROVAS. MÁCULAS INEXISTENTES. PACIENTE EM LOCAL INCERTO E NÃO SABIDO. ADEMAIS, FACULDADE DADA AO MAGISTRADO PARA ORDENAR, DE OFÍCIO, A PRODUÇÃO ANTECIPADA DE PROVAS. REDAÇÃO DOS ARTIGOS 156, INCISO I E 366, AMBOS DO CÓDIGO DE PROCESSO PENAL. FUNDAMENTAÇÃO EXTERNADA PELO JUÍZO QUE, EMBORA SUCINTA, É SUFICIENTE PARA JUSTIFICAR A PRODUÇÃO ANTECIPADA DE PROVAS. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM CONHECIDA E DENEGADA.
+1. O art. 156, inciso I, do Código de Processo Penal dispõe que "A prova da alegação incumbirá a quem a fizer, sendo, porém, facultado ao juiz, de ofício: I - ordenar, mesmo antes de iniciada a ação penal, a produção antecipada de provas consideradas urgentes e relevantes, observando a necessidade, adequação e proporcionalidade da medida".
+2. É possível a produção antecipada de provas quando o réu/paciente encontra-se em local incerto e não sabido, sendo citado por edital, e os fundamentos externados pela autoridade dita coatora considera as particularidades do caso concreto, justificando escorreitamente a urgência da medida, o que é exigido, à luz da redação do art. 366 do Código de Processo Penal.
+O paciente foi denunciado nos termos dos arts. 330, caput, 329, caput, e 311, caput, c/c o art. 69, todos do Código Penal.
+Alega a impetrante, em suma, que "a produção antecipada de provas em detrimento do paciente foi absolutamente impertinente e ilegal, por não ter sido concretamente justificada, em flagrante afronta ao disposto no art. 366 do Código de Processo Penal", acrescendo que "a medida EXCEPCIONAL de produção antecipada de provas em detrimento do paciente citado fictamente foi, no caso vertente, determinada com fundamento único no fato de se aproveitar a produção de prova em relação a corré" (fl. 7), requerendo, liminarmente e no mérito, que se declare a nulidade de respectiva decisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+Sobre a controvérsia aqui trazida, assim se manifestou o Tribunal local (fls. 55-58):
+ ..  O Togado a quo, designando data para audiência de instrução e julgamento, determinou a produção antecipada de provas em relação o réu/paciente (Evento 59 dos autos de origem - grifo original):
+ ..
+III - Recebo a resposta à acusação apresentada pela ré LUCIANA RIOS e, não havendo, por ora, elementos suficientes para que se decrete a sua absolvição sumária (art. 397 do CPP), MANTENHO O RECEBIMENTO DA DENÚNCIA quanto a esta.
+IV - Designo o dia 15/07/2025, às 15:15 horas, para a realização da audiência de Instrução e Julgamento.
+V - Com a finalidade de aproveitar a prova aqui a ser produzida também em relação ao réu CLAUDENIR MOREIRA COSTA, com fundamento no princípio da economia processual e com fundamento no artigo 366 do Código de Processo Penal, analiso a possibilidade da antecipação da prova oral.
+ ..
+A medida se justifica por se tratar de ação penal com duas testemunhas e dois réus, situação que recomenda a colheita única da prova, evitando-se novas audiências caso o feito retome seu curso normal em relação ao réu Claudenir.
+Ainda, a medida se mostra necessária à efetiva apuração dos fatos, uma vez que, a depender do prazo que os autos eventualmente fiquem suspensos em relação ao referido acusado, pode ocorrer a perda da prova.
+Portanto, reputo que resta configurada e demonstrada a urgência, a necessidade e a utilidade da produção da prova em sua forma antecipada no presente caso.
+A realização de referidos atos instrutórios em relação ao mencionado réu não prejudicará ou impedirá a nova produção da prova, em eventual retomada da marcha processual em relação a este acusado, caso se demonstre necessário.
+ ..
+In casu, a determinação de antecipação da prova, de ofício, não ofende o princípio acusatório, porquanto tal situação é providência permitida ao juízo, independentemente de requisição prévia das partes, conforme disposto no artigo 156, inciso I, do mencionado Diploma Legal.
+ ..
+Além disso, a antecipação da produção de provas mostra-se perfeitamente aplicável ao caso concreto, pois ainda que de forma sucinta, o Togado a quo pautou-se em elementos concretos evidenciados nos autos ao determiná-la.
+A respeito do tema, elucida-se a Súmula 455 do Superior Tribunal de Justiça, a qual dispõe: "A decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo".
+Numa análise sumária, da leitura dos autos, verifica-se que a decisão foi adequadamente fundamentada nos princípios da economia processual, em especial porque o feito prossegue em relação à corré e a coleta da prova oral se realizará de qualquer forma (ainda que o ato solene tenha sido designado para data distante, em razão de ser processo com réu solto), além do que tal medida não prejudicará nem impedirá eventual nova produção de prova, quando e se for localizado o ora paciente para responder a ação.
+Ademais, o processo poderá ficar suspenso por um longo lapso temporal, em relação ao ora paciente, de modo que a demora - ainda maior - da coleta da prova oral poderia ocasionar a perda da prova, logo tal argumento é suficiente a amparar a produção antecipada de provas, não havendo falar em ilegalidade (ainda que de ofício).
+Além disso, com a finalidade de resguardar o direito ao contraditório e à ampla defesa, foi designada a Defensoria Pública (ora impetrante) para acompanhar a produção probatória.
+ ..
+Diante desse contexto, constata-se que os fundamentos externados pela autoridade dita coatora são suficientes a amparar a antecipação de provas, já que consideradas as particularidades do caso concreto e justificada a medida, à luz da redação do art. 366 do Código de Processo Penal. ..
+Como se vê, motivou-se idoneamente a produção antecipada de provas em razão de o réu, ora paciente, encontrar-se em local incerto e não sabido, ressaltando-se que "o processo poderá ficar suspenso por um longo lapso temporal, em relação ao ora paciente, de modo que a demora - ainda maior - da coleta da prova oral poderia ocasionar a perda da prova, logo tal argumento é suficiente a amparar a produção antecipada de provas, não havendo falar em ilegalidade (ainda que de ofício)".
+"Compreendeu a Terceira Seção desta Corte, nos autos do RHC n. 64.086/DF, DJe de 9/12//2016, que é justificável a antecipação de provas para a oitiva de testemunhas policiais, já que, nesse caso, o simples decurso do tempo traz efetivo risco de perecimento da prova testemunhal, por esquecimento, dada a natureza dessa atividade profissional, diariamente em contato com fatos delituosos semelhantes, devendo ser ouvidas com a máxima urgência possível" (AgRg no AREsp n. 1.995.527/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022). Em igual sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. CITAÇÃO POR EDITAL. POSSIBILIDADE. ESGOTAMENTO DOS MEIOS PARA A LOCALIZAÇÃO DO RÉU. OFERECIMENTO DE RESPOSTA À ACUSAÇÃO POR MEIO DE ADVOGADO CONSTITUÍDO. EVENTUAL NULIDADE SUPERADA. PRODUÇÃO ANTECIPADA DE PROVAS. NÃO VIOLAÇÃO DA SÚMULA 455 DESTA CORTE. ARREPENDIMENTO POSTERIOR. VOLUNTARIEDADE. SÚMULA 7/STJ. RECURSO IMPROVIDO.
+ ..
+3. Revela-se idôneo o fundamento apresentado para a produção antecipada de provas. No caso, em razão do risco irreparável das testemunhas se olvidarem de detalhes relevante do fato em virtude do decurso temporal.
+4. Frise-se que a oitiva antecipada da vítima e do agente policial arrolado como testemunha foi realizada na presença da advogada nomeada para patrocinar a defesa do recorrente, respeitando-se o contraditório e a ampla defesa.
+ ..
+6. Agravo regimental improvido. (AgRg no AREsp n. 1.823.407/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/6/2021, DJe de 28/6/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
