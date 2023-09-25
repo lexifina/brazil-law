@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interno interposto por BANCO DO NORDESTE DO BRASIL S.A. contra decisão da presidência do STJ que não conheceu do agravo em recurso especial em razão de ter sido considerado intempestivo.
+Extrai-se dos autos que a parte agravante interpôs recurso especial contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fl. 185):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. EXTINÇÃO. AUSÊNCIA DE CITAÇÃO DO RÉU. I - A ausência de fundamentos novos aptos a infirmar a motivação que embasa a decisão agravada enseja o não provimento ao agravo interno interposto.
+Em suas razões recursais, a parte agravante alega que (fls. 255-256):
+Como transcrito acima, deixou-se de conhecer o agravo em recurso especial ao fundamento de que era manifestadamente intempestivo. Não é verdade, vejamos:
+A decisão que inadmitiu o recurso especial foi publicada dia 22-02-2023, e não em 20/02/2023 como consta na decisão, portando, o prazo somente começaria a contar no dia 23-02-2023. encerra-se o prazo para o presente em 15-03-2023(quarta-feira), portanto, tempestivo o presente recurso, não trata-se de feriado algum. Vejamos:
+ ..
+Portanto, fica perfeitamente demonstrado o direito da Agravante, razão pela qual merece conhecimento e provimento ao presente Agravo Interno no AREsp, para fins de que seja dado o devido seguimento ao recurso, com a revaloração jurídica dos fatos delineados na decisão recorrida.
+É, no essencial, o relatório.
+Com razão a parte agravante quanto à tempestividade do agravo em recurso especial, motivo pelo qual reconsidero a decisão de fls. 248-249.
+Entretanto, o agravo em recurso especial não comporta conhecimento, como se demonstrará.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base no fundamento da Súmula n. 7/STJ.
+Entretanto, nota-se que a parte agravante não cuidou de impugnar com a acuidade necessária o referido fundamento da decisão agravada.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, cito precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. SÚMULA 315 DO STJ. SÚMULA 182 DO STJ. MATÉRIA SEDIMENTADA PELA CORTE ESPECIAL NOS EARESP 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC.
+1. Nos termos da Súmula 315 do STJ, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Entendimento positivado no artigo 1.043, III, do CPC/2015.
+2. Ademais, no que diz respeito ao agravo contra decisão denegatória de admissibilidade do recurso especial, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018).
+3. Outrossim, "entende-se por impugnação específica a explicitação dos elementos de fato e as razões de direito que permitam ao órgão ad quem individuar com precisão o error in iudicando ou o error in procedendo alegados no recurso" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 4. ed. São Paulo: Thomson Reuters Brasil, 2021). Nessa perspectiva, não há como se admitir impugnação implícita para fins de mitigação do requisito de admissibilidade recursal.
+4. Agravo interno não provido.
+(AgInt nos EAREsp n. 1.536.939/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 7/12/2021, DJe de 15/12/2021, grifei.)
+AGRAVO REGIMENTAL NOSEMBARGOS DE DIVERGÊNCIA. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA NA HIPÓTESE DE NÃO TER SIDO ANALISADO O MÉRITO DO RECURSO ESPECIAL. ENUNCIADO N.º 315/STJ.
+1. Não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, o teor do Enunciado n.º 315/STJ.
+2. A divergência que autoriza a interposição de embargos de divergência refere-se à decisão que, ao julgar recurso especial, tenha apreciado controvérsia que consista na aplicação do direito material ou do direito processual.
+3. Não se mostra possível a oposição de embargos de divergência contra acórdão que não conheceu de recurso especial em virtude da ausência de requisito de admissibilidade.
+4. Ademais, conforme assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+5. Nesse contexto, é de rigor a manutenção da decisão que indeferiu liminarmente os embargos de divergência.
+6. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+(AgRg nos EAREsp n. 1.872.085/SP, relator Ministro Paulo de Tarso Sanseverino, Corte Especial, julgado em 9/11/2021, DJe de 24/11/2021, grifei.)
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018, grifei.)
+Ante o exposto, reconsidero a decisão de fls. 248-249 para não conhecer do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
