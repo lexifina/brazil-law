@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que rejeitou liminarmente os embargos de divergência, assim ementada (fl. 549):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. RECURSO INDEFERIDO LIMINARMENTE.
+Em suas razões, a embargante afirma que a decisão é contraditória. Para tanto, sustenta que "restou estabelecido no decisium embargado que não haveria similitude fáticantre o AgInt no REsp 1.867.881/R. Se o definido nestes autos, sob o argumento de que "não houve discussão nestes autos se houve ou não resistência da Fazenda Nacional ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo."  ..  tal discussão ocorreu nestes autos, a partir da interposição de Recurso Especial e posterior agravo interno, de modo que o suposto não enfrentamento das matérias se deu pela simples ausência de análise, por este STJ, do mérito de tal argumento. Assim, tem-se que persiste a similitude fática destes autos e do AgInt no REsp 1.867.881/RS  ..  Isto posto, evidenciado que o debate da matéria citada ocorreu por parte da recorrente, tem-se que os pronunciamentos judiciais deste STJ, neste processo, se deram no caminho oposto, de modo que a Decisão ora embargada, ao desconsiderar a existência dos apontamentos no RESP e Agravo Interno, anteriormente interpostos, incorre em contradição e enseja a oposição destes embargos de declaração." (fl. 557/558)
+Sem impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como, para corrigir erro material.
+Deve o embargante, portanto, ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, não bastando a mera alegação de existência de vício do art. 1.022 do CPC/2015, com base no inconformismo diante da decisão proferida.
+Na espécie, a decisão embargada indeferiu liminarmente os embargos de divergência em virtude da ausência de similitude fática entre os casos postos em comparação.
+A contradição que autoriza embargos de declaração é aquela interna ao julgado, entre os fundamentos da decisão e a conclusão a que se chegou. A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça, como se verifica, dentre inúmeros outros, do julgado assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art.
+535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+No caso, não se observa a existência de contradição, visto que o dispositivo da decisão embargado, ao indeferiu liminarmente o recurso, está em perfeita consonância com a fundamentação que lhe antecede.
+Logo, diante dos termos da decisão embargada, não se evidencia a ocorrência de nenhum dos vícios previstos no dispositivo em questão, sobretudo porque a tutela jurisdicional foi prestada de forma clara e fundamentada, objetivando o embargante, por via reflexa, o rejulgamento da causa, o que não é possível em sede de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS REJEITADOS
