@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado pela Defensoria Pública em favor de ERICK MARIANO PIMENTEL e MAX WILLIAN CARRILHO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da apelação n. 1501450-64.2022.8.26.0540.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, como incursos por 7 vezes no art. 157, § 2º, c.c. art. 70, caput, ambos do Código Penal, às penas de 9 anos e 4 meses de reclusão, em regime inicial fechado, e 21 dias-multa (MAX), e de 8 anos de reclusão, em regime inicial fechado, e 19 dias-multa (ERICK). (fls. 42-47).
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, consoante voto condutor do v. acórdão de fls. 54-58.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na utilização de simulacro de arma de fogo como fundamenta para exasperação da pena-base, alegando ausência de correspondência com as circunstâncias judiciais descritas no art. 59, do Código Penal, bem como fixação do regime mais gravoso.
+Requer, assim, a concessão da ordem para " ..  afastar a exasperação promovida em sede de primeira fase de dosimetria da pena, em razão da ausência de fundamentação apta a justifica-la, bem como para que seja fixado regime inicial de cumprimento de pena SEMIABERTO, com fundamento no artigo 33, §2º, alínea b do Código Penal." (fl. 24).
+O pedido liminar foi indeferido às fls. 61-62.
+Informações prestadas às fls. 69-70.
+O Ministério Público Federal, à fls. 85-87, manifestou-se pela concessão da ordem.
+É o relatório. DECIDO.
+Conforme relatado, busca na presente impetração o afastamento o uso de simulacro de arma de fogo como fundamento para exasperação da pena-base, bem como a fixação do regime semiaberto para início de cumprimento da pena.
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+In casu, verifica-se que a pena-base dos pacientes foram majoradas em razão das circunstâncias do crime.
+No caso dos autos, diferentemente do alegado pela defesa, os fundamentos utilizados pelas instâncias ordinárias para exasperação da pena-base não se deu único e exclusivamente com base na existência de simulacro de arma de fogo, mas também em razão do emprego de violência desnecessária contra as vítimas que tiveram objetos arremessados contra elas, além de uma das vítimas ter sofrido uma coronhada após ser rendida (e-STJ 57), o que demonstra o dolo intenso e o maior grau de censura a ensejar resposta penal superior.
+Quanto ao tema, os seguintes julgados:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS. MAIOR REPROVABILIDADE DA CONDUTA. VIOLÊNCIA EXACERBADA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/3 NA TERCEIRA FASE. FUNDAMENTAÇÃO CONCRETA. ENUNCIADO N. 443 DA SÚMULA DO STJ. NÃO APLICAÇÃO. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO DELITO DESFAVORÁVEIS. REGIME MAIS GRAVOSO ADMITIDO. HABEAS CORPUS NÃO CONHECIDO.
+ ..  - No caso, a pena-base foi exasperada com fundamentação idônea, porquanto baseada em circunstâncias concretas, tendo em vista que o paciente, com mais três corréus, todos munidos com armas de fogo, violaram a residência das vítimas e utilizaram-se de violência exacerbada, motivo pelo qual a fração de aumento operada pelas instâncias ordinárias está devidamente motivada e não merece reparos.
+ ..
+- Habeas corpus não conhecido." (HC 354.373/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. VIOLAÇÃO DO ART. 59 DO CP. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. VIOLÊNCIA EXACERBADA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. É idônea a fundamentação consistente na exacerbada violência praticada no delito, em que houve inclusive um disparo de arma de fogo, os agentes colocaram a arma na cabeça de uma criança de apenas 7 anos de idade, dizendo que ela seria a primeira a morrer, lesionaram o braço de uma das vítimas, humilhando-as e ameaçando-as de morte a todo tempo, tudo a demonstrar uma situação aterrorizante, o que vai além do resultado do tipo e justifica a exasperação da pena-base, conforme realizado pelas instâncias inferiores.
+3. Agravo regimental improvido." (AgRg no REsp 1670996/RO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1/8/2017, grifei).
+Por fim, nada a reparar quanto ao regime prisional estabelecido pelas instâncias ordinárias, haja vista o montante das penas impostas, além das existência de circunstância judicial desfavorável e, quanto ao paciente MAX pesa, ainda, a reincidência, tudo nos termos do artigo 33, §§ 2ª e 3º, do Código Penal.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
