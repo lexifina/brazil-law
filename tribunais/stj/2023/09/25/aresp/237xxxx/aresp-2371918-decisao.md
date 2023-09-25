@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo manejado por Marcelo Liporace Donato contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 1.481):
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. AUDITOR FISCAL DA RECEITA FEDERAL DO BRASIL. PROCESSO ADMINISTRATIVO DISCIPLINAR. LEGALIDADE. CONVALIDAÇÃO DE PORTARIA DE INSTAURAÇÃO DO PAD. VÍCIO DE COMPETÊNCIA SANADO. PRESCRIÇÃO. NÃO OCORRÊNCIA. DEVIDO PROCESSO LEGAL.
+Auditor Fiscal da Receita Federal do Brasil investigado por possuir patrimônio incompatível com a renda (evolução patrimonial a descoberto). Não restou demonstrada qualquer ilegalidade em processo administrativo disciplinar e é equivocada a tese de que efeitos de procedimento anterior não podiam ser convalidados, já que a Portaria anterior foi declarada nula pelo Judiciário, mas a decisão que o fez expressamente ressalva efeitos da anterior apuração, e rejeita a tese de nulidade da prova colhida. Portaria de instauração convalidada por autoridade competente. Apelante que não é terceiro na relação do processo disciplinar, e sim parte. Não configurada a prescrição da pretensão punitiva. Devido processo legal, ampla defesa e contraditório observados. Apelo desprovido.
+Não foram opostos embargos declaratórios.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 55 da Lei n. 9.784/99. Sustenta, em resumo, que "resta clara a violação ao dispositivo contido no artigo 55 da Lei Federal 9.784/99, ao se reconhecer a convalidação de ato administrativo que já havia sido impugnado judicialmente, e que causou prejuízo ao Recorrente pois impediu a ocorrência da prescrição de processo administrativo disciplinar." (fl. 1.505).
+Contrarrazões às fls. 1.654/1.658.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, destaca-se do acórdão recorrido o seguinte trecho (fls. 1.473/1.479):
+A apelação não merece prosperar.
+A sentença é mantida por seus próprios fundamentos - que passam a integrar o presente voto, evitando-se transcrição - e pelos motivos que se lhe acrescem, na forma abaixo.
+Acolhem-se igualmente os argumentos do Ministério Público Federal, neste Tribunal, em peça de culto Procurador, que assinala a adequação da sentença.
+O autor pretende a declaração de nulidade de Portarias exaradas nos autos do PAD deflagrado no âmbito da Corregedoria da Receita Federal, em seu desfavor.
+Mostram-se sem suporte as alegações sustentadas e, como se verá, nada ficou caracterizado como ilegal na condução do PAD após a revogação da Portaria Coger n.º 15/2017 e convalidação, em parte, da Portaria Escor05 n.º 23/2017.
+Não houve violação à ampla defesa e nem ao devido processo legal, pois o autor teve acesso a todos os meios de defesa e aos recursos previstos em lei. E tampouco houve violação ao princípio do julgador natural e ao art. 55 da Lei n.º 9.784/99.
+A documentação juntada (eventos 1, 30 e 31), mostra que, em 18/12/2015, foi instaurada sindicância patrimonial em desfavor do autor ante a seguinte denúncia anônima (eventos 30 - ANEXO2 e 31):
+ ..
+O fato de a denúncia ser anônima, por si, não impede que ela seja lida e possa ser aferida (isso deveria ser o óbvio, mas errada interpretação algumas vezes gera confusão quanto ao ponto).
+Houve aferição, e a Comissão de Sindicância apontou indícios de evolução patrimonial sem origem lícita no período de 2007 a 2012, de modo que foi determinada a instauração de processo administrativo disciplinar no âmbito da Corregedoria da Receita Federal, em desfavor do autor (evento 31).
+Conforme a Coordenação-Geral de Disciplina, a Portaria Coger n.º 15/2017 foi editada para transferir o trâmite do processo administrativo disciplinar para o ESCOR05, no Estado da Bahia, "em razão do volume de trabalho correcional no âmbito do ESCOR07 (responsável pelo Rio de Janeiro)". Assim, foi publicada a Portaria Escor05 n.º 23/2017, instaurando o PAD n.º 16301.720010/2017-67 e designando Comissão Processante (evento 31).
+Inconformado, o autor impetrou o mandado de segurança n.º 0139535-76.2017.4.02.5101, postulando a concessão da segurança para que fosse anulada a Portaria Coger n.º 15/2017, por suposta ausência de motivação.
+Em 26/06/2017, foi deferida liminar naqueles autos para que o PAD fosse suspenso (evento 31).
+No âmbito administrativo, em 04/02/2019, o Corregedor da Receita Federal exarou a Portaria Coger n.º 34/2019 para "(i) revogar a Portaria Escor05 nº. 23, de 15 de março de 2017 , (ii) revogar a Portaria Coger nº. 15, de 24 de fevereiro de 2017, e, (iii) devolver a competência para a tramitação do processo administrativo nº.
+16301.720010/2017-67 ao Escritório de Corregedoria na 7ª Região Fiscal" (evento 30 - ANEXO2).
+Em 08/02/2019, nos autos do citado mandamus, foi prolatada sentença que extinguiu o feito ante a perda de objeto, nos termos do art. 6º, § 5º da Lei n.º 12.016/2009 c/c o art. 485, VI, do CPC. Confiram-se trechos do decisium:
+ ..
+Consoante se extrai da documentação dos autos (eventos 1, 30 e 31), o PAD ficou suspenso de 26/06/2017 a 08/02/2019 e, diante do teor da sentença, foi designada nova Comissão Processante, por meio da Portaria Escor07 n.º 82, publicada em 15/02/2019.
+Em 07/08/2019, o impetrante, ora autor, interpôs apelação contra a sentença extintiva (evento 30 - ANEXO2).
+E, em 21/07/2021, a 7ª Turma Especializada desta Corte deu parcial provimento ao recurso para "reconhecer a nulidade do ato administrativo contido na Portaria Coger nº 15/2017, editada pelo Corregedor da Receita Federal do Brasil". Veja-se ementa:
+ ..
+Portanto, a própria decisão foi expressa sobre o aproveitamento.
+Em 31/08/2021, foi exarado o Parecer Conger/GNP n.º 427/2021 (evento 56 - ANEXO2), apontando seguinte conclusão:
+ ..
+Em 16/09/2021, o autor ajuíza a presente ação para que seja declarada a nulidade das Portarias Escor05 n.º 23/2017, Coger n.º 34/2019 e Escor07 n.º 82/2019 e, por consequência, a nulidade de todo o processo administrativo disciplinar.
+O primeiro aspecto, por si bastante, é que a causa de pedir constante da petição inicial é restrita, e não faz menção ou controverte fatos específicos e nem faz menção ao desenvolvimento do processo administrativo disciplinar e quebra de defesa (cf. evento 1). Ali não se discute prescrição da pretensão punitiva e nem ofensa específica a qualquer chance ou oportunidade de defesa.
+Em termos de fundamento da tese de ilegalidade das citadas Portarias, a peça inicial é formal e aponta que a anterior Portaria da Corregedoria da Receita Federal (n.º 15/2017) não poderia ter sido revogada pela Portaria Coger n.º 34/2019 para que o PAD fosse processado no Estado do Rio de Janeiro, na linha de que, se a Portaria Coger n.º 15/2017 foi declarada nula por este TRF, todos os atos posteriores praticados pela administração seriam nulos por derivação.
+Essa, portanto, é a causa de pedir, e nem ao menos a petição inicial esclarece qual o efetivo prejuízo que o apelante teria sofrido, quais datas seriam levadas em conta para a contagem do prazo prescricional, qual o prejuízo concreto acarretado pela convalidação da Portaria Escor05 n.º 23/2017, ou algo mais específico.
+Veja-se, na ementa do julgado reproduzida, que a própria decisão Colegiada admitiu o aproveitamento até de atos anteriores.
+E a sentença fez análise ampla e não vislumbrou qualquer vício na atuação da administração, de modo que até analisou e rejeita a ocorrência da prescrição punitiva.
+Nos termos da Portaria Coger n.º 34/2019, em 04/02/2019, foi revogada a Portaria Escor05 n.º 23/2017, revogada a Portaria Coger n.º 15/ 2017 e foi devolvida a tramitação do PAD n.º 16301.720010/2017-67 ao Escritório de Corregedoria na 7ª Região Fiscal (evento 31).
+Na sequência, foi editada a Portaria ESCOR07 n.º 82/2019, em 15/02/2019, que convalidou o ato de instauração do PAD (Portaria Escor05 n.º 23/2017) e nomeou nova Comissão Processante no âmbito do Escritório de Corregedoria da 7ª Região Fiscal (evento 31).
+Nos termos do art. 55 da Lei n.º 9.784/99, nada ficou caracterizado, como ilegal, na convalidação da Portaria Escor05 n.º 23/2017 no ponto em que instaurou o PAD n.º 16301.720010/2017-67.
+O apelante teve acesso aos meios de defesa e aos recursos previstos em lei. A afirmação administrativa de evolução patrimonial com recursos de origem ilícita foi justificada e é suficiente e o procedimento administrativo não é fim em si mesmo. Ele existe para permitir resposta, evitar desvio e patentear, para efeito de eventual responsabilidade, a conduta administrativa, já que os interesses são indisponíveis.
+Ocorreu oportunidade de manifestação durante a instrução administrativa. O servidor pôde contraditar e defender-se. Não houve óbice ao exercício da ampla defesa ou óbice ao contraditório. As decisões são fundamentadas. Não se acolhe a tese de que o vício apontado na Portaria Escor05 n.º 23/2017 (posteriormente, convalidado pela autoridade competente) é apto a anular todo o processo administrativo.
+A razão da convalidação da Portaria Escor05 n.º 23/2017 é clara e poderia antes, durante e agora ser rebatido, e os presentes autos apenas trazem infundadas teses formais. Vejam-se as razões adotadas pela administração (evento 56 - ANEXO2):
+ ..
+O Escritório de Corregedoria na 7ª Região Fiscal convalidou o ponto da Portaria Escor05 n.º 23/2017, exarada pelo Chefe do Escritório de Corregedoria na 5ª Região Fiscal, que instaurou o citado PAD. Ou seja, o vício de competência foi sanado, nos termos do art. 55 da Lei n.º 9.784/99.
+Nesse aspecto, anotou o MPF que "ao convalidar um ato administrativo busca a Administração prestigiar os princípios da proporcionalidade, razoabilidade, da finalidade, da segurança jurídica, dentre outros, que devem permear a atividade administrativa, sendo aplicável, nos termos do art. 55 da Lei nº 9.784/99, que regula o processo administrativo no âmbito da Administração Pública Federal, em decisões nas quais não se acarrete lesão ao interesse público nem prejuízo a terceiros, sendo certo que o ora Apelante, tal como destacado na sentença que não acolheu os embargos de declaração por ele opostos, não se enquadraria no conceito de terceiro prejudicado, uma vez que se encontra inserido como parte da relação jurídica referente ao processo administrativo punitivo" (evento 4 neste TRF).
+No processo administrativo, as razões da convalidação são expostas com suficiência e o interessado pôde, então, fazer suas ponderações, de modo que não procede a tese de violação aos arts. 5º, LV, 37, caput, da Lei Maior e à Lei n.º 9.784/99.
+Assim, o apelante dá voltas e insiste no duelo formal. Nesse ponto, a Corregedoria da Receita Federal rejeitou qualquer violação à ampla defesa e ao devido processo legal e apontou que (evento 31):
+ ..
+Não restou, portanto, comprovado qualquer prejuízo ao apelante. O PAD ficou suspenso de 26/06/2017 a 08/02/2019, por força de liminar deferida nos autos do citado mandado de segurança, e, como se viu, nenhum ato instrutório foi praticado pelo Escritório de Corregedoria na 5ª Região Fiscal, no Estado da Bahia.
+No que tange ao suposto prejuízo ao autor ante a interrupção do lapso prescricional pela Portaria Escor05 n.º 23/2017, repita-se: a inicial e o apelo não relatam os fatos e sequer trazem datas para aferir a ocorrência da prescrição da pretensão punitiva.
+O fato que deu ensejo à instauração do processo administrativo disciplinar ocorreu entre 2007 e 2012.
+Somente em 04/01/2017, a Comissão Sindicante exarou o Relatório Final, apontando "variação patrimonial sem origem lícita no valor de R$ 1.104.796,78" (eventos 30, 31 e 56 - ANEXO2).
+No ponto, confiram-se trechos do Parecer Conger/GNP n.º 427/2021 (evento 56 - ANEXO2):
+ ..
+Como se extrai das informações da Corregedoria da Receita Federal, foram apurados fatos novos nos autos da sindicância patrimonial. E somente em 04/01/2017 a autoridade competente teve ciência inequívoca das irregularidades funcionais praticadas pelo autor.
+Ainda que se considere a data de publicação da Portaria Escor07 n.º 82, de 15/02/2019, que convalidou a anterior Portaria Escor05 n.º 23/2017 e constituiu a Comissão Processante pela autoridade competente, não se configura a prescrição.
+O PAD foi instaurado dentro do prazo de cinco anos, nos termos do art. 142, § 1º, § 3º e § 4º, da Lei n.º 8.112/90, sendo inviável acolher a prescrição da pretensão administrativa.
+O ato administrativo goza de presunção de legitimidade e, assim, cabe ao interessado demonstrar que ocorreu ilegalidade. Mas nada de ilegal se provou no procedimento.
+Os preceitos invocados pelo apelante são aceitos como prequestionados, para todos os efeitos legais.
+Diante do exposto, voto por negar provimento à apelação, com a majoração da verba honorária em 1% sobre o valor fixado pela sentença, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Diante do contexto, embora a parte agravante aponte violação de lei federal, é inviável o conhecimento do recurso especial, considerando que, para o deslinde do caso, é imprescindível a análise das Portarias referidas. Com efeito, o conceito de tratado ou lei federal, previsto no art. 105, III, a, da Constituição Federal, deve ser considerado em seu sentido estrito, não compreendendo atos administrativos normativos, como resoluções, instruções normativas e portarias, o que impede o exame da questão nessa via estreita.
+Ademais, da leitura do excerto supracitado, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
