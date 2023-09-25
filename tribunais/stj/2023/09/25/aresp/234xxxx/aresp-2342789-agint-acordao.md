@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. INUTILIDADE DO JULGAMENTO EM RECURSO DE APELAÇÃO NÃO DEMONSTRADA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Corte Especial do STJ, sob a sistemática dos recursos repetitivos (Tema 988), definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1.704.520/MT, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/12/2018, DJe 19/12/2018).
+2. O Tribunal de origem entendeu pelo não conhecimento do agravo de instrumento, pois não foi demonstrada a inutilidade do exame da tese em apelação. A reforma desse entendimento demanda a incurs ão no acervo fático-probatório dos autos, prática vedada pela Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO NORTE contra a decisão da Presidência do Superior Tribunal de Justiça de fls. 81/84.
+A parte agravante alega que o caso não comporta a incidência da Súmula 7/STJ, pois pretende que o STJ interprete o art. 1.015 do CPC e "diga se a obrigação da Fazenda Estadual de depositar, de imediato, o valor dos honorários do perito do juízo de piso, sob pena de sofrer os efeitos da sua recusa, cuida-se de ponto que não pode esperar por uma futura (incerta) interposição de apelação" (fl. 94).
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+A parte adversa não apresentou impugnação (fls. 100/109).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 1.015 DO CPC. TAXATIVIDADE MITIGADA. INUTILIDADE DO JULGAMENTO EM RECURSO DE APELAÇÃO NÃO DEMONSTRADA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Corte Especial do STJ, sob a sistemática dos recursos repetitivos (Tema 988), definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1.704.520/MT, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/12/2018, DJe 19/12/2018).
+2. O Tribunal de origem entendeu pelo não conhecimento do agravo de instrumento, pois não foi demonstrada a inutilidade do exame da tese em apelação. A reforma desse entendimento demanda a incurs ão no acervo fático-probatório dos autos, prática vedada pela Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A parte interpôs recurso especial no qual indica a violação do art. 1.015 do CPC. Sustenta, em síntese, que a questão submetida ao exame do Tribunal de origem não pode esperar posterior análise em recurso de apelação, devendo ser conhecido o agravo de instrumento, ainda que não prevista em uma das hipóteses legais para o seu cabimento, conforme o decidido no Tema 988/STJ.
+A Corte Especial do STJ, sob a sistemática dos recursos repetitivos (Tema 988), definiu a tese de que "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação" (REsp 1.704.520/MT, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/12/2018, DJe 19/12/2018).
+O Tribunal a quo entendeu pelo não conhecimento do agravo de instrumento, pois não foi demonstrada a inutilidade do exame da tese em apelação, com base nos seguintes fundamentos:
+Com efeito, na linha da fundamentação constante na decisão internamente agravada, verifico que a decisão que determinou o pagamento dos honorários periciais, não é recorrível por agravo de instrumento, uma vez que não se insere em nenhuma das hipóteses previstas no art. 1.015 do CPC.
+Nesse sentido:
+ ..
+Logo, não há qualquer fundamento que autorize a reforma da decisão ora agravada.
+Ora, a tese firmada, em sede de recurso representativo da controvérsia, no sentido de que "o roldo art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso (STJ, REsp 1.696.396/MT, Rel. Ministra Nancy Andrighi, Corte Especial, DJe dede apelação"19/12/2018), não altera o entendimento expendido, na decisão agravada, uma vez que, no presente caso, não se verifica prejuízo, pelo reexame da questão no recurso de apelação.
+Nesse diapasão, entendo que, não demonstrada, de plano, à plausibilidade do direito invocado pelo agravante e não sendo a hipótese de perecimento do direito até o julgamento de mérito do agravo de instrumento, deve ser mantida a decisão que indeferiu o pedido de efeito suspensivo (fls. 49/50).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial"). Nesse sentido:
+PROCESSUAL CIVIL. ART. 1.015 DO CPC. DECISÃO INTERLOCUTÓRIA. POSSIBILIDADE DE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. TAXATIVIDADE MITIGADA. AUSÊNCIA DE URGÊNCIA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem que negou provimento ao Agravo Interno, em segundo grau, que rejeitou Agravo de Instrumento, com base no entendimento de que a matéria concernente ao indeferimento de produção de prova não está contida no rol do art. 1.015 do CPC/2015, descabendo o manejo do Agravo.
+2. O REsp 1.704.520/MT, julgado pela Corte Especial sob o regime dos recursos repetitivos, assentou a tese de que o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de Agravo de Instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de Apelação. Na ocasião, modularam-se os efeitos da decisão, a fim de que a tese jurídica somente fosse aplicável às decisões interlocutórias proferidas após a publicação do acórdão, que se deu em 19/12/2018.
+3. No caso, o Tribunal de origem, ao analisar as peculiaridades fáticas da demanda, consignou, de forma expressa, que "a mitigação da taxatividade do rol do art. 1015 do CPC se aplica apenas quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, o que não se verifica neste caso." (fl. 267, e-STJ).
+4. Não tendo a Corte Regional concluído pela ocorrência da urgência que autoriza a excepcionalidade da taxatividade mitigada do art. 1.015 do CPC/15, não é possível ao STJ rever tal entendimento ante a incidência do óbice da Súmula 7 do STJ.
+5. Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Acuso o recebimento de memoriais, que não alteraram a posição adotada no julgamento.
+7. Agravo Interno não provido. (AgInt no AREsp n. 2.257.177/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/6/2023, DJe de 27/6/2023.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. TAXATIVIDADE MITIGADA DO ROL DO ART. 1015 DO CPC. RESP 1.704.520/MT PROCESSADO SOB O RITO DOS FEITOS REPETITIVOS. URGÊNCIA DECORRENTE DA INUTILIDADE DO JULGAMENTO EM RECURSO DE APELAÇÃO. DEMONSTRAÇÃO. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA N. 7 DO STJ.
+1. Esta Corte, no julgamento do REsp 1.704.520/MT (Tema 988), processado sob o rito dos feitos repetitivos, consolidou o entendimento no sentido de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+2. Os efeitos do decisum proferido por este Superior Tribunal foram modulados, com a consequente aplicação da mencionada tese jurídica apenas às decisões interlocutórias proferidas após a publicação do acórdão do recurso repetitivo, em 19/12/2018.
+3. O Tribunal de origem, em observância à tese repetitiva firmada, afastou a presença de urgência, de forma que a revisão de tal conclusão demandaria o revolvimento de fatos e provas, providência esta inviabilizada pela Súmula 7STJ.
+4. Agravo interno do MPF não provido. (AgInt no REsp n. 2.025.006/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
