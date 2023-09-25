@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por Estado do Maranhão, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 741):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. RECOMPOSIÇÃO SALARIAL DE URV. JULGAMENTO DE APELAÇÃO MOVIDA PELO ESTADO DO MARANHÃO QUE DETERMINA A IMPLANTAÇÃO DO PERCENTUAL DE 11,98%. ERRO MATERIAL NÃO CONFIGURADO. COISA JULGADA. OCORRÊNCIA. DECISÃO DE 1º GRAU MANTIDA. RECURSO DESPROVIDO.
+1. Decisão em sede de apelação que reconheceu o direito à recomposição salarial no importe de 11,98% em favor dos(as) apelados(as).
+2. O erro material passível de correção é aquele que não implica alteração do conteúdo do provimento jurisdicional.
+3. Cálculos homologados que utilizaram o percentual determinado na decisão transitada em julgado, em respeito à coisa julgada.
+4. Decisão de 1º grau mantida.
+5. Recurso conhecido e desprovido.
+Opostos aclaratórios, foram rejeitados (fls. 775/797).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 494, I, 1.008, 1.013, 1.022, III, do CPC.
+Alega, em suma, que "o Título Judicial determinou liquidação de sentença e que referido índice constante do Acórdão é mero erro material. Entendimento diverso importa em impedir a correção do erro material e em adotar interpretação que gera reformatio in pejus" (fl. 799), aduzindo que "caso o Erro Material não seja afastado, a consequência será aceitar que o Acórdão da fase de conhecimento tornou a situação do Estado do Maranhão mais penosa, mesmo tendo julgado recurso exclusivo do Ente Público" (fl. 803).
+Requer "que se declare que o Acórdão proferido ainda na fase de conhecimento sofre de erro material e que referido erro não é alcançado pela Coisa Julgada (..) que se determine que a Corte Local observe os termos do Título Judicial e realize liquidação de sentença" (fl. 804).
+As contrarrazões foram apresentadas (fl. 809/820).
+O recurso especial não foi admitido (fls. 822/825). Daí o agravo ora em exame (fls. 827/838), que foi respondido (fls. 841/848).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+A Corte estadual rejeitou a tese de existência de mero erro material no caso concreto em razão da preclusão da oportunidade de impugnar os cálculos do cumprimento de sentença. Observe-se (fls. 744/746, grifos nossos):
+Conforme relatado, o feito de origem trata-se de Cumprimento de Sentença proposto por Luiz Carlos Coelho Machado e outros em desfavor do Estado do Maranhão.
+O executado argumentou, em Impugnação ao Cumprimento de Sentença (Id. 15399830 - págs. 115/144), excesso de execução nos cálculos realizados pela Contadoria Judicial no percentual de 11,98%, tão somente por não ter sido aplicados os descontos relativos à contribuição previdenciária e imposto de renda.
+Após, na petição de Id. 15399830 - pág. 216/217, discordou do percentual utilizado no cálculo, sustentando que o correto é de 2,72%.
+Por meio da decisão ora impugnada (Id. 15399832 - págs. 12/15), o magistrado de 1º grau indeferiu o requerimento do executado em que aduziu que o índice correto é de 2,72%, sob a justificativa de que não foi alegado no prazo para impugnação, bem como de que o percentual de 11,98% foi reconhecido por decisão deste Tribunal.
+Além disso, julgou procedente a Impugnação ao Cumprimento de Sentença e homologou os novos cálculos apresentados pela Contadoria com a aplicação do índice de 11,98%.
+Consta dos documentos que se referem à demanda originária que por meio da sentença de Id. 15399825 - págs. 164/172 foi julgado procedente o pedido de pagamento de reposição salarial em vista da conversão dos salários dos autores de Cruzeiros Reais em Unidades Reais de Valor - URV"s (..)
+Assim, observo que a sentença de Id. 15399825 - págs. 164/172 julgou procedente o pedido de pagamento de reposição salarial formulado pelos autores, consignando a apuração do percentual devido em liquidação de sentença, de acordo com a data do efetivo pagamento dos servidores, da tabela oficial do Estado.
+De outra forma, a decisão monocrática da apelação negou provimento ao apelo, mantendo a decisão de 1º grau e reconhecendo o direito à recomposição salarial no importede 11,98% em favor dos apelados.
+Em que pese o agravante alegar no presente recurso que a referida decisão monocrática não pode reconhecer percentual maior ao fixado em sentença de 1º grau, em razão da vedação à reformatio in pejus, este não apresentou nenhum recurso à época contra a citada decisão. Assim, transitou em julgado em 12/05/2014, conforme Certidão de Id. 15399825 - pág. 233. Ademais, compreendo que tal situação não se trata de erro material, visto que sua eventual correção implicará em alteração do conteúdo do provimento jurisdicional.
+Assim, verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, III, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Além disso, apesar da parte alegar que "a Corte Local terminou por considerar que um erro material é acobertado pela coisa julgada" (fl. 802), tal afirmação não encontra respaldo no acórdão, o qual expressamente entendeu pela inexistência de erro material no caso em comento. Assim, os argumentos postos no presente apelo estão dissociados dos fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: Agint no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020; Agint no AREsp 1.419.058/BA, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 19/9/2019 e Agint no AREsp 1.004.149/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 11/6/2018.
+Ademais, observação que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
