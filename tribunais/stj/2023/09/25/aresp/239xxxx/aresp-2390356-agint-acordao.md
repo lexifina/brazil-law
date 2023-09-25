@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC CONFIGURADA.
+1. Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/8/2021).
+2. Caso concreto em que, a despeito da oposição de embargos declaratórios, o Tribunal de origem quedou silente sobre argumentação relevante ao deslinde da controvérsia, rejeitando os pertinentes aclaratórios do ora agravado, em franca violação ao art. 1.022 do CPC.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Maranhão desafiando decisão de fls. 429/431, que conheceu do agravo para dar provimento ao recurso especial manejado por Odali Cutrim Cidreia para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão considerada como omitida.
+Em suas razões, a parte agravante sustenta que não houve qualquer omissão no aresto combatido na origem, porquanto "constata-se que colegiado da 4ª Câmara Cível do Eg. TJMA manifestou-se expressamente acerca das teses autorais relacionadas com a ilegitimidade da parte Exequente para executar o referido título, uma vez que pertence a sindicato diverso, qual seja, o Sindicato dos Funcionários Públicos Vigilantes do Estado do Maranhão - SFPVEMA.  ..  Como se vê do trecho acima colacionado, o Eg. TJMA manifestou-se expressamente acerca da ilegitimidade da parte Exequente e concluiu que essa pertence a sindicato específico e diverso do autor da demanda coletiva, negando provimento ao recurso com base no princípio da unicidade sindical (art. 8º, II, da Constituição Federal)." (fls. 436/438).
+Impugnação às fls. 448/455.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 1.022 DO CPC CONFIGURADA.
+1. Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/8/2021).
+2. Caso concreto em que, a despeito da oposição de embargos declaratórios, o Tribunal de origem quedou silente sobre argumentação relevante ao deslinde da controvérsia, rejeitando os pertinentes aclaratórios do ora agravado, em franca violação ao art. 1.022 do CPC.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida, pois a parte agravante não apresenta razões suficientes para desconstituir os fundamentos adotados pela decisão ora impugnada.
+Como antes destacado, verifica-se, de fato, a ocorrência de negativa de prestação jurisdicional, pois a parte recorrente, nas razões aduzidas na apelação (fls. 171/186), nos embargos declaratórios (fls. 243/257), bem assim nos argumentos apresentados no presente apelo especial (fls. 292/313) pugnou expressamente pelo enfrentamento da tese de que "O SFPVEMA NÃO POSSUI REGISTRO SINDICAL, CONFORME CONSTA DECLARAÇÃO DOS AUTOS NO ID. 13618293 portanto, uma vez não possuindo regularidade sindical ao tempo da ação originária, não poderia representar o servidor público ora exequente. Sem o Registro Sindical no Ministério Do trabalho e Emprego, trata-se de associação civil (Art. 5º, XXI, CF), podendo representar apenas associados, não sendo entidade sindical (Art. 8º, III, CF), portanto não podendo representar categoria profissional.  ..  é que resta preclusa a aferição da legitimidade a essa altura, por já se ter passado a fase processual mais adequada para isso, que foi o momento em que o servidor público passou a compor a lide 6542/2005, não sendo o caso de - mais de 10 anos depois - após o trânsito em julgado da decisão que homologou os cálculos do servidor público ora exequente, vir o judiciário e determinar que ele é ilegítimo para promover o cumpri mento da decisão homologatória" (fl. 430).
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravado, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. ADMINISTRATIVO. IMPROBIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO CARACTERIZADA. AGRAVO INTERNO PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - É omisso o acórdão que deixa de manifestar-se sobre questões relevantes, oportunamente suscitadas e que poderiam levar o julgamento a um resultado diverso do proclamado. Nessas condições, a não apreciação de tese, à luz de dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno provido, para conhecer do Agravo e dar provimento ao Recurso Especial do Ministério Público do Estado de Minas Gerais.
+(AgInt no AREsp 612.758/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/12/2020, DJe 18/12/2020)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
