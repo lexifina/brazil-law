@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WILLIAM CARDOSO BOEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GR ANDE DO SUL.
+Depreende-se dos autos que o Recorrente teve a prisão preventiva decretada, encontrando-se pronunciado pela suposta prática dos delitos previstos nos (art. 121, § 2º, incisos V e VII, c/c art. 14, inciso II, ambos do Código Penal, e com o art. 1º, inciso I, da Lei nº 8.072/90; no art.180, caput, por duas vezes; no art. 311, caput, por duas vezes; no art. 155, § 1º e §4º, incisos I e IV, c/c o art. 61, inciso II, alínea "d", todos do Código Penal; e no art.288, parágrafo único, do Código Penal, tudo na forma do art. 69, do Código Penal), fl. 35. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão cautelar; conforme acórdão, fls. 105-109.
+Na hipótese, a Defesa alega a existência de constrangimento ilegal consubstanciado na ausência de fundamentação para a prisão cautelar decretada em desfavor do Recorrente.
+Aduz que:
+"uma prisão baseada apenas para a garantia da ordem pública, não havendo outra fundamentação calcada em elementos sólidos e concretos para a manutenção da segregação, não se sustenta" (fl. 124).
+Requer a revogação da segregação cautelar ou a substituição da prisão por medidas cautelares alternativas, previstas no art. 319, do Código de Processo Penal.
+Liminar indeferida, às fls. 145-146.
+Informações prestadas, às fls. 153-158 e 161-239. O Ministério Público Federal em parecer, às fls. 241-246, opinou pelo desprovimento do recurso:
+"RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO, RECEPTAÇÃO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR, FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRESENÇA DE MATERIALIDADE E INDÍCIOS DE AUTORIA DELITIVA. GRAVIDADE CONCRETA DO CRIME. NECESSIDADE DE SE EVITAR A REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES INSUFICIENTES. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. DESPROVIMENTO DO RECURSO" (fl. 241).
+É o relatório. DECIDO.
+Pretende o Recorrente a revogação da decisão que decretou a prisão preventiva, alegando ausência de fundamentação para o encarceramento provisório.
+No caso em tela, tenho que a prisão preventiva do Recorrente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, haja vista a gravidade concreta evidenciada pelo modus operandi da conduta, consistente em furto qualificado pelo concurso de pessoas, (perpetrado em estabelecimento bancário, mediante o uso de explosivos), e homicídio qualificado tentado, além de o Recorrente ostentar condenações pelos delitos de roubo majorado, porte irregular de arma de fogo e receptação; circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar determinada.
+Conforme a jurisprudência desta Corte:
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, relator Ministro João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, " b", do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
