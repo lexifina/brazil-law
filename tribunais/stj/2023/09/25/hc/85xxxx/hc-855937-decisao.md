@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Eleandro Carneiro de Abreu, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido no Recurso em Sentido Estrito n. 0013012-12.2009.8.16.0013.
+Consta dos autos que o paciente foi pronunciado pelos delitos previstos no artigo 121, § 2º, inciso II (fato 1) e no artigo 121, § 2º, inciso II, c/c o artigo 14, inciso II (fato 2), na forma do artigo 70, c/c o artigo 29, todos do Código Penal (homicídio qualificado consumado e tentado em concurso formal).
+Contra essa decisão foi interposto recurso, o qual foi desprovido por acórdão assim ementado:
+"RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO E TENTATIVA DE HOMICÍDIO QUALIFICADO, EM CONCURSO FORMAL DE CRIMES (ARTIGO 121, § 2.º, INCISO II, C/C O ARTIGO 14, INCISOS I E II, NA FORMA DO ARTIGO 70, TODOS DO CP).
+1. IRRESIGNAÇÃO DEFENSIVA CONTRA A PRONÚNCIA. DESCABIMENTO. PROVA DE MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE ANÁLISE DO CASO POR PARTE DO TRIBUNAL DO JÚRI. INTELIGÊNCIA DO ARTIGO 413, § 1.º, DO CPP. HIPÓTESES PREVISTAS NOS ARTIGOS 414 E 415 DO CPP NÃO VERIFICADAS.
+2. AFASTAMENTO DA QUALIFICADORA PREVISTA NO ARTIGO 121, § 2.º, INCISO II. INVIABILIDADE. ELEMENTOS DE PROVA INDICATIVOS DA POSSIBILIDADE DE QUE OS CRIMES TENHAM SIDO MOVIDOS POR ANIMOSIDADES ENTRE TORCIDAS DE TIMES DE FUTEBOL. QUALIFICADORA QUE NÃO SE REVELOU MANIFESTAMENTE IMPROCEDENTE. DECISÃO MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO." (fl. 67)
+Na presente impetração, a defesa afirma que o paciente é inocente, pois foi reconhecido de forma equivocada como sendo o autor do delito.
+Busca, em liminar, o sobrestamento do feito até o julgamento do writ.
+Pretende, no mérito, a despronúncia do paciente.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O voto condutor do julgado atacado assentou:
+"Trazendo tais considerações para o caso concreto, verifica-se que, na hipótese em apreço, a decisão objurgada respeitou esse equilíbrio exigido, apresentando fundamentações concretas a amparar a pronúncia, embora sem avançar sobre a competência restrita do júri.
+Especificamente sobre os indícios de autoria, ora questionados, o d. magistrado analisou os elementos de prova angariados de forma bastante atenta, avaliando a conduta de cada um dos réus, conforme se depreende da vasta e coesa fundamentação do decisum objurgado.
+Contra o ora recorrente, foram sopesados, especialmente, os elementos de prova oral armazenados à mov. 242-1.º grau, indicando que, possivelmente, Eleandro saiu em grupo de uma festa da torcida organizada do Club Athletico Paranaense ("Torcida") e se dirigiu a torcedores do Coritiba Foot Ball Club, disparando Organizada os Fanáticos contra eles e atingindo as duas vítimas.
+Dentre os diversos relatos, destaca-se, especialmente, aquele prestado pelo ofendido sobrevivente (mov. 242.3-1.º grau), segundo o qual a tese defensiva de que uma outra pessoa, de apelido "Geleia", seria o autor dos disparos, foi um mero boato que surgiu entre os participantes, não sendo suficiente para infirmar os elementos de cognição amparados ao longo de ambas as etapas persecutórias.
+Ademais, a vítima foi bastante segura ao afirmar que, dentro do grupo de torcedores uniformizados, a pessoa que atirou contra ele estava trajado como segurança dobar no qual a festa da "Fanáticos" estava ocorrendo.
+A isso, soma-se o fato de que a versão apresentada pelo ora recorrente, embora negando a autoria, acaba trazendo indícios consistentes de que pode ter sido ele, sim, quem atirou contra Maicon e Eolando.
+Não tendo sido interrogado judicialmente, perante a autoridade policial (mov. 17.35-1.º grau) Eleandro confirmou que, de fato, estava trabalhando como segurança no "Bali Bar" na data dos fatos, quando foi xingado por um grupo que passava do lado de fora, na Praça Rui Barbosa.
+Diante disso, o próprio Eleandro disse que tomou emprestada uma arma calibre 38 preta (com as mesmas características apontadas pela testemunha Eduardo em seu depoimento judicial de mov. 242.2 como aquela com a qual foram feitos os disparos), dirigiu-se até as vítimas e sacou o artefato, quando, incrivelmente, outra pessoa atrás do réu teria atirado contra os ofendidos.
+Logo, embora não caiba, nessa etapa processual, a formulação de juízos de certeza, tem-se que o contexto fático, delineado pelo acervo produzido ao longo das duas etapas persecutórias, fornece os elementos necessários à pronúncia, competindo o aprofundamento da análise, exclusivamente, ao Tribunal do Júri, a quem incumbirá confrontaras versões apresentadas." (fls. 71/72)
+Como visto, da leitura atenta dos autos, verifica-se que foram apontados indícios suficientes da prática do crime pelo paciente, a modificação dessa conclusão não pode ser apreciada no âmbito do habeas corpus, por demandar o exame aprofundado de provas. Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INSUFICIÊNCIA PROBATÓRIA. COMPETÊNCIA DO JÚRI. PEDIDO DE IMPRONÚNCIA. NECESSIDADE DE REEXAME DE PROVAS. INVIÁVEL NA VIA ELEITA.
+1. "A sentença de pronúncia não encerra juízo de procedência acerca da pretensão punitiva, tão somente viabilizando a competência para o Tribunal do Júri, que decidirá a lide de acordo com os elementos probatórios produzidos, devendo a estes os autos serem enviados na hipótese de razoável grau de certeza da imputação" (AREsp n. 654379/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 25/9/2015).
+2. Na hipótese, as instâncias ordinárias concluíram pela presença de elementos probatórios colhidos por meio des provas testemunhais, a fundamentar a submissão do ora paciente ao julgamento perante o Tribunal do Júri, motivo pelo qual entender de modo contrário, demandaria o revolvimento do material fático-probatório dos autos, inviável nesta instância.
+3. Agravo regimental improvido.
+(AgRg no HC n. 799.366/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRONÚNCIA DE CRIME DOLOSO CONTRA A VIDA. ERRO DE EXECUÇÃO. QUALIFICADORA. SOBERANIA DOS VEREDITOS. COMPETÊNCIA DO TRIBUNAL DO JÚRI. INDÍCIOS MÍNIMOS DE AUTORIA E MATERIALIDADE. PRONÚNCIA DEVIDAMENTE FUNDAMENTADA PELO ACÓRDÃO RECO RRIDO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AUSÊNCIA DE ARGUMENTOS NOVOS APTOS A ALTERAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Assente que a defesa deve trazer alegações capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos.
+II - A decisão de pronúncia comporta juízo de admissibilidade da acusação, para o qual devem concorrer a prova da existência do fato (materialidade) e os indícios acerca da autoria ou participação do agente, consoante dispõem os arts. 413 e 414 do Código de Processo Penal, a serem necessariamente produzidos no decorrer da primeira fase do procedimento do Júri, conforme entendimento atual deste Tribunal. Precedentes.
+III - Restando evidente a presença de indícios suficientes da autoria, na fase do iudicium acusationis, imperiosa a submissão da tese ao Juiz natural da causa, qual seja, o Tribunal do Júri, sob pena de indevida usurpação da competência constitucional que lhe foi atribuída.
+IV - Havendo prova da materialidade e indícios da autoria, não sendo comprovada de plano a hipótese de ausência da participação, a pronúncia é medida que se impõe, sendo que para desconstituir os elementos de convicção utilizados pela Corte estadual, seria necessário o amplo cotejo do quadro fático-probatório, procedimento vedado na estreita via do habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 695.766/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
