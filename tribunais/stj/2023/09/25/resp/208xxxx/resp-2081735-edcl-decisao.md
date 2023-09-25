@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO CARLOS MOREIRA CHAVES E JACQUELINE VASCONCELOS DA SILVA CHAVES contra decisão de fls. 1150/1151 , que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Qualquer resolução contida no provimento jurisdicional exige suficiente motivação do julgador; é de suma importância a garantia das motivações das decisões que a vigente Constituição Federal firmou; todos os julgamentos serão públicos e fundamentadas todas as decisões, sob pena de nulidade (art. 93,IX da CF); portanto, a falta de motivação traduz nulidade absoluta.
+O v. Acórdão guerreado, que não conheceu do Recurso Especial, teve como sua motivação decisória, exclusivamente, o Regimento Interno do Superior Tribunal de Justiça.
+ ..
+O Regimento Interno que é lei material dos tribunais, estabelecerá seu regime jurídico-administrativo, quanto às funções processuais e as funções administrativas. Quanto às normas processuais, os tribunais são obrigados a transpô-la para o regimento respectivo, não podendo nenhuma inovação a respeito.
+ ..
+O v. Acórdão guerreado não atendeu ao requisito de motivação suficiente para um pronunciamento judicial que tem como sua fundamentação em artigos de norma administrativa, Regimento Interno do Superior Tribunal de Justiça, que não tem natureza jurídica de lei federal, deixando de interpretá-lo à luz da controvérsia que se apresenta ao julgador (artigo 489, parágrafo 1º, inciso I) - fls.1155/1157.
+Aduz, ainda, que:
+Ao contrário do que entendeu a N. Relatora, no petitório recursal, é visível que os embargantes arguiram afronta a dispositivo de lei federal violado, sobre o qual recaía a insurgência, no que pertinente a, tendo transitado em julgado o dispositivo da sentença condenando a ora recorrente apenas nas custas, incabível a inclusão dos honorários periciais em conta de liquidação de sentença.
+Assim, verifica-se que a parte indicou pontualmente o dispositivo de lei federal violado, qual seja o art. 502, CPC, assim como rebateu todos os pontos atinentes ao acórdão (fls. 1158).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A delegação de competência à Presidência do Superior Tribunal de Justiça para julgamento dos feitos manifestamente inadmissíveis está prevista no Regimento Interno, de acordo com as regras internas de distribuição de competência.
+Nos termos do art. 21-E, V, do RISTJ, entre as atribuições do Presidente antes da distribuição está "não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida".
+Ademais, "não viola o princípio do juiz natural a decisão proferida pela Presidente desta Corte que, no exercício de competência atribuída pelo Regimento Interno e resolução, não conhece de recurso anteriormente à distribuição aos Ministros, porquanto sujeita a posterior controle dos órgãos fracionários deste Tribunal Superior, diante da eventual interposição de agravo interno. Precedentes da 1ª, 2ª e 4ª Turmas desta Corte". (AgInt no AREsp 1228566/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/6/2019.)
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
