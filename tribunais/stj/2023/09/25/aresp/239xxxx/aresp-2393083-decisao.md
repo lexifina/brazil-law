@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por PAULO HENRIQUE VIEIRA LEITE e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁT1CA QUE NÃO CONHECEU DO RECURSO EM VIRTUDE DA ILEGITIMIDADE ATIVA RECURSAL DE BENEFICIÁRIO. DEFENSORIA PÚBLICA QUE ATUOU COMO LEGITIMADA ATIVA PARA O AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE LEGITIMIDADE DO BENEFICIÁRIO PARA INTERPOR RECURSO EM NOME PRÓPRIO. RECURSO CONHECIDO E NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1.021, § 4º, do CPC, no que concerne à necessidade de afastamento da multa aplicada, pois tal condenação deve ser devidamente fundamentada, cabendo quando o agravo interno seja manifestamente inadmissível ou que sua improcedência seja tão evidente que a simples interposição do recurso já possa ser tida como abusiva ou protelatória, o que não é o caso, independente de o provimento ter sido unânime, trazendo a seguinte argumentação:
+No que diz respeito à aplicação da penalidade prevista no art. 1.021, revela-se que o comando que determinou a aplicação da referida penalidade não está lastreado por qualquer fundamentação, como exige o próprio texto do dispositivo indicado, senão vejamos o teor da norma:
+ ..
+Com efeito, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não pode ser aplicada de forma automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+Vejamos como se deu a condenação no caso em tela  fls. 36, evidenciado a ausência da devida fundamentação:
+ ..
+A condenação da parte agravante ao pagamento da aludida multa deve ser acompanhada da necessária fundamentação, pressupondo que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica no caso vertente.
+Como bem salientado nas razões do agravo interno, houve mero erro material quando da apresentação do agravo de instrumento, de modo que, ao invés de constar como agravante a DEFENSORIA PÚBLICA DO ESTADO DE ALAGOAS, em favor dos sucessores do sr. HÉLIO MOREIRA LEITE (habilitação já requerida no processo principal), constou o nome dos filhos, quais sejam, HÉLIO MOREIRA LEITE JÚNIOR e PAULO HENRIQUE VIEIRA LEITE, o que, em observância ao princípio da instrumentalidade das formas, poderia ter sido claramente reconhecida e superado nos autos, ante a inexistência de qualquer prejuízo processual.
+ ..
+Dito isto, vejamos inteligência do a rt.277, do CPC:
+ ..
+Por outro lado, em relação ao mérito em si da demanda suscitada no agravo de instrumento e no agravo interno em comento, vislumbra-se que houve sucesso no recurso de apelação referente ao processo principal 0727779-54.2020.8.02.0001, tendo sido reconhecido pelo Egrégio Tribunal de Justiça de Alagoas o direito à manutenção do bloqueio de verba pública para pagamento da empresa privada que prestou o serviço de home core ao falecido HÉLIO MOREIRA LEITE.
+Sendo totalmente razoável o pleito da apelação, senão vejamos trechos da decisão do Tribunal de Justiça do Estado de Alagoas nos autos do recurso de Apelação, ipsis litteris:
+ ..
+De toda sorte, fato é que não houve qualquer motivação no acórdão recorrido para fundamentar a imposição da multa em questão, sendo cristalino pela simples leitura do dispositivo legal em comento (§4 2 do art. 1021) que há de haver decisão fundamentada para a aplicação da multa em questão, mesmo quando o não provimento do recurso tenha sido por decisão unânime, o que nitidamente não ocorreu no caso em tela.
+Portanto, sob nenhuma hipótese seria possível apontar abuso ou intuito protelatório da recorrente na busca pelo bem jurídico tutelado, qual seja, resguardar a vida do paciente autor.
+ ..
+Desse modo, a imposição da multa prevista pelo art. 1.021, §4 2 do Código de Processo Civil tem por função quando o objeto do agravo se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória. Evidentemente não é o caso concreto em tela, visto que o direito foi reconhecido em sede de Apelação.
+Isto posto, o acórdão recorrido, no capítulo que condenou a agravante ao pagamento da multa, está eivado de nulidade, porquanto proferido sem a necessária fundamentação, violando expressamente o disposto no art. 1.021, §4 2 do Código de Processo Civil.
+(fls. 174-177).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
