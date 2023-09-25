@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão da forma pela qual o delito foi em tese praticado, consistente em homicídio qualificado, na modalidade tentada, cometido por motivo fútil, com emprego de uma faca, de forma premedita e mediante recurso que impediu a defesa da vítima, o que revela a gravidade concreta da conduta e justifica a imposição da medida extrema. Precedentes.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GENISSON OLIVEIRA SANTOS, contra a decisão que negou provimento ao recurso ordinário interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+O agravante foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de homicídio qualificado, na modalidade tentada.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 138-167.
+No respectivo recurso ordinário, a defesa requereu a revogação da prisão preventiva, sem prejuízo da imposição de medidas cautelares diversas.
+Nas razões do presente agravo, a defesa repisa os fundamentos expendidos no recurso desprovido, sustentando a ausência de fundamentação idônea a justificar a decretação da segregação cautelar.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para o provimento do recurso.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão da forma pela qual o delito foi em tese praticado, consistente em homicídio qualificado, na modalidade tentada, cometido por motivo fútil, com emprego de uma faca, de forma premedita e mediante recurso que impediu a defesa da vítima, o que revela a gravidade concreta da conduta e justifica a imposição da medida extrema. Precedentes.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e seu recurso ordinário, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa repisa os argumentos de mérito, sustentando a ausência de fundamentação idônea a justificar a decretação da segregação cautelar.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, a segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente em razão da forma pela qual o delito foi em tese praticado, consistente em homicídio qualificado, na modalidade tentada, cometido por motivo fútil, com emprego de uma faca, de forma premedita e mediante recurso que impediu a defesa da vítima, o que revela a gravidade concreta da conduta e justifica a imposição da medida extrema.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg nos EDcl no RHC n. 172.836/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no RHC n. 178.042/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023; AgRg no HC n. 797.201/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023.
+Ressalto , ainda, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
