@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por SPOT CENTRO EMPREENDIMENTOS, contra decisão da Presidência (e-STJ, fls. 382/384) que não conheceu do agravo em recurso especial que interpôs.
+Ação: de execução proposta por VIMÁQUINAS COMÉRCIO ESERVIÇOS LTDA ME, em desfavor de SPOT CENTRO EMPREENDIMENTOS.
+Sentença: julgou parcialmente procedentes os embargos à execução, opostos por SPOT CENTRO EMPREENDIMENTOS, para reconhecer o excesso à execução e determinar o prosseguimento da execução em apenso pelo valor das faturas, acrescidos de correção monetária pelo INPC desde o inadimplemento, com juros de mora simples de 1% ao mês desde o inadimplemento.
+Acórdão: Negou provimento à apelação da agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - SENTENÇA DE PARCIAL PROCEDÊNCIA - IRRESIGNAÇÃO DA EMBARGANTE. A)ALEGAÇÃO DE QUE INEXISTE TÍTULO EXECUTIVO, POIS OS CONTRATOS NÃO ESTÃO ASSINADOS - TESE NÃO ACOLHIDA - EM QUE PESE A AUSÊNCIA DE ASSINATURA DA REPRESENTANTE LEGAL DA EMPRESA LOCATÁRIA, OS CONTRATOS FORAM ASSINADOS POR DUAS TESTEMUNHAS E PELO FUNCIONÁRIO DA LOCATÁRIA - APLICAÇÃO DA TEORIA DA APARÊNCIA - ADEMAIS,OS CONTRATOS FORAM ACOMPANHADOS DE RECIBOS DE ENTREGA, IGUALMENTE ASSINADOS POR SEU FUNCIONÁRIO -PRECEDENTES DO STJ - TÍTULO EXECUTIVO VÁLIDO. B) EXCESSO DE EXECUÇÃO - TESE QUE É INCABÍVEL A INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS DE 10% E DOS JUROS DE MORA -DESCABIMENTO - SENTENÇA QUE RECONHECEU A ILEGALIDADE DA DUPLA INCIDÊNCIA DOS HONORÁRIOS ADVOCATÍCIOS, NA BASE DE CÁLCULO E NO DESPACHO CITATÓRIO, MANTENDO APENAS A INCIDÊNCIA DESTE - VERBA HONORÁRIA CABÍVEL EM RAZÃO DO NÃO PAGAMENTO DO DÉBITO EM 03 (TRÊS) DIAS, A TEOR DO ART. 827 DO CPC - INCIDÊNCIA QUE NÃO CONFIGURA EXCESSO, POIS DECORRENTE DA PRÓPRIA LEI - OUTROSSIM,TRATANDO-SE OS EMBARGOS À EXECUÇÃO DE AÇÃO AUTÔNOMA E, TENDO SIDO O EMBARGANTE SUCUMBENTE, CORRETA SUA CONDENAÇÃO ÀS VERBAS DE SUCUMBÊNCIA, NOS TERMOS DO ART. 85, §2º, DO CPC - OUTROSSIM, TRATANDO-SE DE MORA EX, O DEVEDOR É CONSTITUÍDO EM MORA DESDE O REINADIMPLEMENTO DA OBRIGAÇÃO - DESCABIDA A APLICAÇÃO DO ART. 396 DO CÓDIGO CIVIL, PORQUANTO O EXCESSO DE EXECUÇÃO RECONHECIDO (INCIDÊNCIA DA VERBA HONORÁRIA DE 10% SOBRE A BASE DE CÁLCULO) NÃO SÃO REFERENTES ÀS OBRIGAÇÕES DOS CONTRATOS - SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO." (e-STJ, fls. 283/284)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 489, §1º, I, 794, e 1.022, II, do CPC/2015; 396 do Código Civil, sustentando: i) omissão e negativa de prestação jurisdicional; ii) a inexistência de título executivo apto a amparar a execução, na presente hipótese; iii) o excesso na execução, ante a cobrança de valores indevidos.
+Decisão agravada: não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STF.
+Agravo interno: Em suas razões a parte agravante alega ter preenchido todos os requisitos para a interposição do recurso. Argumenta que impugnou as Súmulas aplicadas, alegando sua inaplicabilidade. Requer, ao fim, o provimento do presente agravo para possibilitar o julgamento do seu recurso especial.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada falta de impugnação às Súmulas 5 e 7 do STJ, aplicadas pelo juízo de admissibilidade.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada, fundamentada no sentido de que "(..) quanto à alegada violação ao artigo 794 do Código de Processo Civil, (..) a Câmara entendeu pela suficiência dos documentos trazidos pelos recorridos, a fim de corroborar otítulo executivo extrajudicial,. Para desconstituir a decisão acima colacionada e indiciar a insuficiência de provas, faz-se necessário o reexame do conjunto fático-probatório, atraindo o óbice das Súmulas 5 e 7 do Superior Tribunal de Justiça. (..) Outrossim, quanto ao excesso de execução, (..) ambém incide o óbice da Súmula 7 do Superior Tribunal de Justiça"(e-STJ fls. 343/345), o que não foi feito,
+pois nas suas razões de agravo em recurso especial, a parte agravante trouxe apenas argumentos no sentido de infringência aos artigos indicados no recuso especial, a fim de demonstrar seu direito, alegando, genericamente acerca da inaplicabilidade da Súmula 7/STJ, e nada alegando acerca da incidência da Súmula 5/STJ.
+Ressalte-se, quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame e da interpretação de cláusulas contratuais, na hipótese em que o Tribunal de origem declara a incidência da referida Súmula, o que não foi feito.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
