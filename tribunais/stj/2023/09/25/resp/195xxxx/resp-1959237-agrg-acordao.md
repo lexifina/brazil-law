@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA DE 1/6 (UM SEXTO). CONDIÇÃO DE "MULA". CONSCIÊNCIA DE ESTAR A SERVIÇO DE UM GRUPO CRIMINOSO. FUNDAMENTO CONCRETO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - Ao contrário do que aduz a defesa, houve fundamentação concreta e idônea para a aplicação da fração de 1/6 (um sexto) pelo reconhecimento da causa de diminuição de pena do art. 33, § 4º da Lei 11.343/06, qual seja, os "elementos constantes dos autos, que evidenciaram a consciência do recorrente de estar a serviço de organização criminosa", estando em consonância com o atual entendimento deste Superior Tribunal de Justiça. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ CARLOS DOS SANTOS contra a decisão de fls. 560-568, que deu provimento ao recurso especial para, reconhecendo a incidência da minorante do tráfico privilegiado, prevista no art. 33, §4º, da Lei 13.343/2006, proceder ao redimensionamento da pena, fixando-a em 5 anos, 3 meses e 5 dias de reclusão e 526 dias-multa, mantido o regime semiaberto.
+Nas razões do regimental, o agravante assevera que a decisão agravada, através de fundamentação inidônea, aplicou a fração de 1/6 no tocante à causa de diminuição de pena do art. 33, §4º, da Lei 13.343/206. Pugna pelo provimento do recurso a fim de que seja aplicada a fração máxima de 2/3 (fls. 576-583).
+Contrarrazões às fl. 591-594.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. INCIDÊNCIA DA MINORANTE NA FRAÇÃO MÍNIMA DE 1/6 (UM SEXTO). CONDIÇÃO DE "MULA". CONSCIÊNCIA DE ESTAR A SERVIÇO DE UM GRUPO CRIMINOSO. FUNDAMENTO CONCRETO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - Ao contrário do que aduz a defesa, houve fundamentação concreta e idônea para a aplicação da fração de 1/6 (um sexto) pelo reconhecimento da causa de diminuição de pena do art. 33, § 4º da Lei 11.343/06, qual seja, os "elementos constantes dos autos, que evidenciaram a consciência do recorrente de estar a serviço de organização criminosa", estando em consonância com o atual entendimento deste Superior Tribunal de Justiça. Precedentes.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+A respeito da fixação da fração da causa de diminuição de pena do art. 33, §4º, da Lei 13.343/2006, assim se manifestou a decisão agravada:
+"Na etapa derradeira, em virtude da aplicação da causa de aumento prevista no art. 40, V, da LAD, a pena foi majorada para 6 anos, 3 meses e 25 dias de reclusão e 631 dias-multa, que reduzo ao patamar mínimo legalmente previsto no art. 33, § 4º, da Lei n. 11.343/2006 (1/6), diante dos elementos constantes dos autos, que evidenciaram a consciência do recorrente de estar a serviço de organização criminosa, ficando a pena definitiva em 5 anos, 3 meses e 5 dias de reclusão, além de 526 dias-multa, mantido o regime semiaberto diante da grande quantidade de droga, e prejudicada a pretensão de substituição por restritivas de direitos, na forma do art. 44, I, do CP."
+No caso dos autos, verifica-se que o redutor foi aplicado dado o preenchimento de todos os requisitos necessários para a sua obtenção, contudo, não em seu grau máximo.
+Ao contrário do que aduz a defesa, houve fundamentação concreta e idônea para a aplicação da fração de 1/6 (um sexto) pelo reconhecimento da causa de diminuição de pena do art. 33, § 4º da Lei 11.343/06, qual seja, os "elementos constantes dos autos, que evidenciaram a consciência do recorrente de estar a serviço de organização criminosa", estando em consonância com o atual entendimento deste Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ENTORPECENTES. DOSIMETRIA. CAUSA ESPECIAL DE REDUÇÃO DA PENA INSERTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. "MULA". ORGANIZAÇÃO CRIMINOSA. INAPLICABILIDADE DA FRAÇÃO MÁXIMA. FUNDAMENTAÇÃO IDÔNEA. DECISÃO AGRAVADA MANTIDA.
+I - Com relação à aplicação do redutor contido no art. 33, § 4º, da Lei de Drogas, em seu patamar máximo, a teor do disposto no referido dispositivo legal, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organizações criminosas.
+II - In casu, o eg. Tribunal a quo, ao apreciar os elementos de prova constituídos nos autos, arbitrou o patamar de 1/6 (um sexto) para a causa especial de diminuição de pena inserta no § 4º do art. 33 da Lei n. 11.343/2006, tendo em vista que a insurgente encontrava-se a serviço de organização criminosa de tráfico internacional de drogas.
+III - De fato, nos termos da jurisprudência deste Superior Tribunal de Justiça: "A ciência do agente de estar a serviço de grupo criminoso voltado ao tráfico internacional de drogas é circunstância apta a justificar a redução da pena em 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 (Precedentes)" (AgRg no AREsp n. 1.641.990/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/05/2020). Precedentes.
+Agravo regimental desprovido" (AgRg no AREsp n. 1.724.876/SP, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe de 3/5/2023).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. QUANTUM DA REDUÇÃO PELA INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO. FIXAÇÃO DA FRAÇÃO MÁXIMA. IMPOSSIBILIDADE. MAIOR GRAVIDADE DO DELITO. MULA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A referida minorante foi aplicada em 1/6 tendo em vista que as circunstâncias do delito evidenciaram que o agravante possui maior grau de envolvimento com o comércio de drogas. A fundamentação apresentada mostra-se válida, não havendo motivos para impedir que o contato mais íntimo do recorrente com o tráfico seja considerado parâmetro na escolha da fração do § 4º do art. 33 da Lei n. 11.343/06.
+2. Agravo regimental desprovido" (AgRg no HC n. 777.312/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 29/6/2023).
+Assim, não merece acolhimento a pretensão defensiva quanto à aplicação da fração máxima em virtude da incidência da minorante prevista no art. 33, §4º, da Lei de Drogas, devendo ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
