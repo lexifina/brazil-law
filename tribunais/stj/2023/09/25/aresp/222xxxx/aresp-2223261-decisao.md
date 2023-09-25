@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  LUIZ OSVALDO URBANO contra  decisão  do  Tribunal  Regional Federal da 4.ª Região  que  inadmitiu  recurso  especial  fundamentado  no  art.  105,  inciso  III,  alínea  s  a e c,  da  Constituição  da  República,  manifestado  contra  acórdão  prolatado  na  Apelação  Criminal  n.  5010445-97.2016.4.04.7205.
+O  Ministério  Público  Federal  opinou  pelo  desprovimento  agravo  (fls.  1764-1770).
+É  o  relatório.  Decido.
+O  agravo  em  recurso  especial  não  reúne  condições  de  admissibilidade,  pois  não  foram  concretamente  impugnados  os  fundamentos  da  decisão  agravada.
+No  caso,  a  Corte  de  origem  não  admitiu  o  recurso  especial  em  razão dos óbices das Súmulas n. 7/STJ e 83/STJ (fls. 1718-1724). Todavia, nas razões do agravo contra a decisão de inadmissão, estes fundamentos não foram concretamente impugnados.
+Quanto  à  Súmula  n.  7/STJ,  o Agravante apenas afirma genericamente a sua não incidência na hipótese. Porém, não demonstra concretamente como seria possível, sem ampla rediscussão probatória, afastar as conclusões do Tribunal de origem no sentido de que a prática do delito foi devidamente comprovada e de que não houve situação grave o suficiente para configurar a alegada inexigibilidade de conduta diversa.
+Com efeito, a  jurisprudência  desta  Corte  Superior  compreende  que  "para  afastar  a  aplicação  da  Súmula  n.  7  do  STJ,  não  é  bastante  a  mera  afirmação  de  sua  não  incidência  na  espécie,  devendo  a  parte  apresentar  argumentação  suficiente  a  fim  de  demonstrar  que,  para  o  STJ  mudar  o  entendimento  da  instância  de  origem  sobre  a  questão  suscitada,  não  é  necessário  reexame  de  fatos  e  provas  da  causa"  (AgRg  no  AREsp  1.750.146/PR,  Rel.  Ministro  JOÃO OTÁVIO DE NORONHA,  Quinta  Turma,  julgado  em  09/03/2021,  DJe  12/03/2021),  o  que  não  ocorreu  no  caso  em  apreço.
+No  mesmo  sentido:
+" ..
+5.  Relativamente  à  Súmula  7/STJ,  mostra-se  insuficiente  "sustentar  genericamente  que  a  matéria  seria  apenas  jurídica,  sem  explicitar,  à  luz  da  tese  recursal  trazida  no  recurso  especial,  de  que  maneira  a  análise  não  dependeria  do  reexame  de  provas"  (AgRg  no  AREsp  n.  1.677.886/MS,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  DJe  de  3/6/2020).
+6.  O  momento  adequado  para  impugnação  dos  fundamentos  da  decisão  que  ensejou  a  inadmissão  do  recurso  especial  é  a  interposição  do  agravo,  sob  pena  de  preclusão,  não  cabendo  fazê-lo  nas  razões  do  agravo  regimental.
+7.  Agravo  regimental  improvido."  (AgRg  nos  EDcl  no  AREsp  1.856.037/RS,  Rel.  Ministro  OLINDO  MENEZES  (DESEMBARGADOR  CONVOCADO  DO  TRF/  1.ª  REGIÃO),  SEXTA  TURMA,  julgado  em  22/06/2021,  DJe  28/06/2021,  sem  grifos  no  original.)
+Ademais, em razão de ter sido aplicada a jurisprudência desta Corte na decisão de inadmissão (Súmula n. 83/STJ), a impugnação concreta a este fundamento exigiria que o agravante demonstrasse analiticamente a inaplicabilidade dos julgados invocados ou colacionasse outros julgados do Superior Tribunal de Justiça, contemporâneos ou posteriores aos citados na decisão agravada, evidenciando de forma particularizada a similitude fática entre eles, o que igualmente não foi observado.
+Sobre o tema, confira-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. RECURSO DESPROVIDO.
+1. Não havendo impugnação específica de fundamento da decisão que não conheceu do agravo em recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnad a, procedendo ao cotejo analítico entre eles, de forma a demonstrar que out ra é a orientação jurisprude ncial nesta Corte Superior, o que não ocorreu na espécie.
+ ..
+4. Agravo regimental desprovido." (AgRg no AREsp 1.680.090/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/09/2022, DJe 21/09/2022; sem grifos no original).
+Diante da ausência de impugnação concreta e efetiva aos fundamentos empregados pela decisão agravada, não é possível o conhecimento do agravo, conforme se extrai da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalte-se que a decisão que inadmite o recurso especial é incindível e deve ser impugnada em sua integralidade, razão pela qual a ausência de impugnação concreta de qualquer um dos fundamentos nela constantes implica o não conhecimento de todas as teses suscitadas no recurso (EAREsp n. 701.404/SC, Rel. para acórdão Ministro LUIS FELIPE SALOMÃO, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+
+AGRAVO  EM  RECURSO  ESPECIAL.  PENAL  E  PROCESSUAL  PENAL.  APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA.  MINUTA  DE  AGRAVO  QUE  NÃO  INFIRMA  ESPECIFICAMENTE  OS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INCIDÊNCIA  DA  SÚMULA  N.  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  AGRAVO  NÃO  CONHECIDO.
