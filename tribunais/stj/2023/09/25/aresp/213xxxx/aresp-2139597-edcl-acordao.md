@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTR ADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos ou princípios constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4 . Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por NIVALDO DE SOUZA ANDRADE contra acórdão da Sexta Turma desta Corte Superior, de minha relatoria, cuja ementa é a seguinte (fl. 1331):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. EXTORSÃO. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DO ART. 171 DO CÓDIGO PENAL. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DOSIMETRIA. MAUS ANTECEDENTES. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, soberano na análise das provas e dos fatos que instruem o processo, concluiu que foi demonstrada a grave ameaça exigida para a configuração do crime do art. 158 do Código Penal. Desse modo, a inversão do julgado, com o fito de ver prevalecer o pleito da Defesa de condenação pelo cometimento do delito previsto no art. 171 do Código Penal, demandaria, necessariamente, nova incursão no acervo fático-probatório que instrui o caderno processual, providência essa incabível na via estreita do recurso especial, a teor do que dispõe a Súmula n. 7 do Superior Tribunal de Justiça.
+2. A alegação de que foi utilizada condenação antiga a título de maus antecedentes não foi analisada pelo Tribunal a quo, apesar da oposição de embargos de declaração. Incidência da Súmula n. 211/STJ.
+3. Agravo regimental desprovido."
+Em suas razões, a Defesa argumenta que "o v. acórdão é omisso por não analisar a verdadeira situação na qual o julgado se deu, e a verdadeira essência do pedido e das razões de pedir da defesa, que busca a igualdade nas decisões judiciais (princípio da isonomia)" (fl. 1348). Reafirma que não incide, na hipótese, o óbice da Súmula n. 7/STJ.
+Assevera que, " c onsiderando que as razões da defesa apresentadas em sede de agravo regimental não foram apreciadas, requer nesta oportunidade seja a preciada com o consequente deferimento do pleito, para readequar a pena base e afastando o óbice da Súmula 211 dessa Colenda Corte Superior" (fl. 1353).
+Em relação à alegada violação a dispositivo constitucional, assinala que, "considerando que a i. Ministra Relatora em sua fundamentação entendeu que o recurso especial não é o adequado para o reclamo, requer nesse ponto que a matéria seja prequestionada, para o caso de manejo de recurso extraordinário ao Colendo Supremo Tribunal Federal" (fl. 1356).
+Requer o acolhimento dos embargos para que sejam sanados os vícios apontados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE OU CONTR ADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos ou princípios constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4 . Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, o Embargante não demonstra, em sua argumentação, a ocorrência de nenhuma das hipóteses legais ensejadoras dos embargos declaratórios, sendo devida a transcrição dos fundamentos apresentados no acórdão embargado (fls. 1335-1336; grifos diversos do original):
+"Como se vê, o Tribunal de origem, soberano na análise das provas e dos fatos que instruem o processo, concluiu que foi demonstrada a grave ameaça exigida para a configuração do crime do art. 158 do Código Penal. Desse modo, reitero que a inversão do julgado, com o fito de ver prevalecer o pleito da Defesa de condenação pelo cometimento do delito previsto no art. 171 do Código Penal, demandaria, necessariamente, nova incursão no acervo fático-probatório que instrui o caderno processual, providência essa incabível na via estreita do recurso especial, a teor do que dispõe a Súmula n. 7 do Superior Tribunal de Justiça, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+ ..
+Quanto à alegação de que foi utilizada condenação antiga a título de maus antecedentes, cumpre ressaltar que essa questão não foi analisada pelo Tribunal a quo, apesar da oposição de embargos de declaração.
+Desse modo, reafirmo que carece o tema do indispensável prequestionamento, atraindo o óbice da Súmula n. 211 do Superior Tribunal de Justiça, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental."
+Como se vê, consta do acórdão embargado que o acolhimento do pleito de desclassificação do crime de extorsão para o delito do art. 171 do Código Penal demandaria, necessariamente, nova incursão no acervo fático-probatório que instrui o caderno processual, o que é incabível nesta via, nos termos da Súmula n. 7/STJ. Outrossim, foi destacada a falta de prequestionamento da tese defensiva relacionada à circunstância judicial dos antecedentes, o que impediu o conhecimento da questão nesta Corte Superior (Súmula n. 211/STJ).
+Assim, na ausência de argumento apto a infirmar as razões consideradas no julgado agravado, a decisão monocrática foi mantida por seus próprios fundamentos. A propósito, o "julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada" (AgInt no AREsp n. 2.129.634/GO, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/02/2023, DJe 16/02/2023).
+Com igu al conclusão:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO.
+1. Limita-se o embargante a apontar violação do art. 1021, § 3º, do CPC, sem, contudo, indicar em relação a qual tese haveria omissão no acórdão embargado.
+2. "A vedação constante do art. 1.021, § 3º, do Código de Processo Civil não pode ser compreendida como uma obrigatoriedade de se refazer o texto do decisum com os mesmos fundamentos, porém em palavras distintas, mesmo diante de inexistência de uma nova tese apresentada pela agravante no recurso" (AgInt no REsp 1865964/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020).
+3. Embargos de declaração rejeitados." (EDcl no AgRg no REsp n. 1.901.744/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/10/2021, DJe 04/11/2021; sem grifos no original.)
+Em verdade, verifico que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+1. Não se presta o recurso integrativo a rediscutir matéria já analisada e decidida. Na verdade, sob o pretexto de haver "omissão", a parte embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita.
+2. Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1.871.524/AM, Rel. Ministro SEBASTI ÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/10/2021, DJe 16/11/2021; sem grifos no original.)
+Por fim, "não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos ou princípios constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal" (AgRg no AREsp 1.399.211/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 15/02/2019).
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
