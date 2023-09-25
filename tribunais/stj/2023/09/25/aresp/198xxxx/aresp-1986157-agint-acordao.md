@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. É importante ressaltar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CONCESSIONARIA ROTA DAS BANDEIRAS S.A contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fl. 757):
+AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL UTILIZAÇÃO DE ARGUMENTOS GENÉRICOS. SÚMULA 284/STF. DESCUMPRIMENTO CONTRATUAL. ATRASO NA ENTREGA. CRONOGRAMA DE OBRAS DE AMPLIAÇÃO RODOVIÁRIA. MULTA. ANULAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DESTA CORTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+A parte agravante afirma não ser o caso de aplicação, por analogia, da Súmula 284/STF por ter indicado precisamente as omissões presentes no acórdão prolatado pelo Tribunal de origem, as quais reitera, pedindo o provimento do recurso especial quanto à violação ao art. 1.022 do Código de Processo Civil.
+Renuncia, ainda, expressamente, às demais teses defendidas no recurso especial.
+Não foi apresentada impugnação de acordo com as certidões de fls. 782/783.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. É importante ressaltar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Nas razões de seu recurso especial a parte defendeu haver omissão no acórdão prolatado pelo Tribunal de origem em relação: a) às razões pelas quais não seria possível reconhecer o cerceamento de defesa decorrente do julgamento antecipado da lide; b) à " ..  caracterização da excludente de culpabilidade, consistente na inexigibilidade de conduta diversa" (fl. 671) .
+Acerca desses temas, o Tribunal de origem manifestou-se nos seguintes termos (fls. 634/636):
+O ato administrativo, como cediço, goza de presunção de legitimidade, o que significa, na prática, a imposição do ônus de demonstração da invalidade àquele que a alega.
+Afasto, de início, a preliminar de nulidade da sentença por cerceamento de defesa. Nada obstante o esforço demonstrado nas razões recursais, não há como sustentar que o ilustre magistrado de primeiro grau cerceou a da autora em seu direito de demonstrar os fatos constitutivos do direito invocado direito.
+A ausência de prova invocada em sentença e indicada pela apelante como origem da nulidade diz respeito a elementos mínimos, comprobatórios da causa de pedir invocada para afastar a aplicação da multa.
+Explica-se. Constou da r. sentença combatida que a autora não trouxe aos autos qualquer prova de que teria estabelecido tratativas com o Município de Arthur Nogueira, tampouco esclareceu quais seriam as informações técnicas que deveriam ser fornecidas pelo Município. A prova desse fato somente poderia se dar mediante a apresentação de documentos, registre- se, de fácil obtenção pela concessionária, que demonstrassem a solicitação de informações técnicas ao Município e o atraso por parte deste.
+Embora fosse este o ponto controvertido na causa, a apelante não apresentou, em nenhuma oportunidade, qualquer prova de que o Município de Arhur Nogueira contribuiu para o atraso na entrega do projeto, tampouco o fez em grau de recurso, embora tenha afirmado que foi a prolação prematura de sentença que obstou a apresentação dessa prova.
+Destaca-se que a suposta responsabilidade do Município pelo atraso na execução do contrato também não foi demonstrada no âmbito administrativo (fl. 459/461). Há, nessa linha, uma inércia deliberada da apelante em apresentar a prova necessária documental à demonstração do direito invocado, atitude essa que não pode ser chancelada pelo Poder Judiciário.
+No que concerne à legalidade substancial do ato administrativo que impôs a penalidade de multa à parte recorrente, a irresignação não prospera.
+A alegação da apelante de que agiu acobertada por excludente de ilicitude, porque não lhe poderia ser exigida a adoção de conduta diversa, não restou se evidenciou.
+Com o devido respeito ao entendimento estampado em razões de recurso, não há como se admitir a hipótese de excludente de responsabilidade, em se considerando que a peça de defesa se limitou à sustentação genérica de que a correta execução do contrato pressupunha a obtenção de determinadas informações, essenciais ao interesse público, sem a indicação de quais interesses seriam protegidos pelas informações aguardadas, tampouco de quais seriam esses dados e de que forma eles teriam contribuído para a adequada execução com o contrato. A afirmação de que os dados fornecidos pelo Município impediriam novas adequações do projeto, nessa linha, resulta frágil e contraditória, de maneira que a apelante, ao argumento de evitar novas adequações, que atrasariam a obra, acabou por atrasar a entrega do projeto, efetivamente.
+Dessa forma, a Corte a quo : a) rejeitou o cerceamento de defesa por entender que a parte tivera oportunidade de entregar os documentos necessários ao julgamento da causa, nas fases administrativa e judicial; e b) considerou não ter havido demonstração efetiva da excludente de ilicitude defendida pela ora agravante.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
