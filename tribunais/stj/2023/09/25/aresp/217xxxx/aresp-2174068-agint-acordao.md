@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. POSSE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão por meio da qual neguei provimento ao agravo em recurso especial com base na aplicação da Súmula 7/STJ.
+Em suas razões, a parte agravante alega que: "Em que pese o alegado, todos os fatos suscitados no apelo nobre são incontroversos e retirados da r. decisão agravada que cita o v. acórdão recorrido partindo-se dos mesmos a fim de demandar o adequado enquadramento jurídico. Na hipótese dos autos, conforme se extrai do trecho do acórdão recorrido transcrito, o Tribunal Estadual concluiu pela inexistência de dano moral, em razão da culpa exclusiva dos consumidores ao adquirir passagens aéreas com um tempo muito apertado entre as conexões e trocas de aeronaves. Ainda, extrai do mesmo acórdão que houve problemas técnicos na aeronave que levaram ao atraso do voo . Daí a questão jurídica posta: se houve reconhecimento de falha na prestação de serviço (problema técnico que culminou no atraso de voo) e culpa do consumidor pelas conexões curtas, não seria o caso de configurar a culpa concorrente " (e-STJ, fl. 271).
+Ressalta que: "Em outras palavras não há controvérsia fática na lide, mas controvérsia quanto à qualificação jurídica a ser dada com base nos fatos incontroversos narrados, retirados da própria decisão agravada. As questões controvertidas são unicamente matérias de direito e não matérias de fato. Como se vê, o Recurso Especial interposto pelos agravantes limitou-se à análise das questões atinentes à qualificação jurídica dos fatos - matéria de direito, e, portanto, não há qualquer afronta à Súmula 7 do STJ" (e-STJ, fl. 271).
+A parte agravada não apresentou impugnação.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.174.068 - MG (2022/0222904-4)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+CIA PARAENSE DE EMPREENDIMENTOS
+ADVOGADOS
+:
+RALPH BATISTA DE MAULAZ - MG076365
+ORLANDO PEREIRA JUNIOR - MG156568
+AGRAVADO
+:
+FUNDACAO EDUCAT E CULT JOSE ALVES FERREIRA DE OLIVEIRA
+OUTRO NOME
+:
+FUNDACÃO EDUCATIVA E CULTURAL JOSÉ ALVES FERREIRA
+ADVOGADO
+:
+MARIA AMABILIS CACADOR - MG089557
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. POSSE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não prospera.
+Transcrevo, por oportuno, os fundamentos da decisão agravada (e-STJ, fls. 2.290 - 2.295):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO REJEITADA - JULGAMENTO ULTRA PETITA - NÃO CONFIGURAÇÃO - VALOR APROPRIADO SUPOSTAMENTE PARA QUITAÇÃO DE EMPRÉSTIMO - AUSÊNCIA DE PROVAS IDÔNEAS ACERCA DA CONTRATAÇÃO - EVENTUAL REPASSE - DOAÇÃO - DEVOLUÇÃO DEVIDA. O foro competente para processar e julgar a ação acessória é o mesmo da ação principal. Inteligência do art. 61, do CPC.
+Os juros de mora, assim como a correção monetária, constituem matéria de ordem pública, sendo possível sua aplicação ou alteração de ofício pela Magistrada primeva, sem que isso se caracterize julgamento "ultra petita".
+Inexistindo formalização em documento escrito comprovando a contratação do empréstimo, com indicação de prazo para devolução e esclarecimento acerca dos encargos porventura existentes, eventual quantia repassada deve ser tratada como doação, devendo ser restituída a importância apropriada a título de pagamento da dívida.
+Os embargos de declaração opostos foram rejeitados (fls. 2.046 - 2.052, e- STJ).
+Nas razões de recurso especial, alega a parte agravante, em suma, violação aos artigos 7º, 55 e 286 do Código de Processo Civil de 2015; e 538 e 541 do Código Civil.
+Informa que: "Nos idos de 2005, a autora Fundação Educativa e Cultural José Alves Ferreira de Oliveira manejou Ação de Cobrança contra a COPEM, uma Cia. da família que instituiu a Fundação autora, e que carrega o nome do seu patriarca, visando, absurdamente, que a COPEM fosse reconhecida como sua "mantenedora" e que, por isso, os valores patrocinados a título de pagamento de dívidas que a autora tinha com a ré, fossem considerados "doações", e, portanto, a ela "devolvidos"" (e-STJ, fl. 2.065); bem com oque: "A COPEM ainda alegou em sua defesa/contestação que nunca doou os valores à Fundação, que não houve qualquer ato de liberalidade, pelo contrário, houve reconhecimento formal da dívida, e que a autora, com a descabida pretensão, visava enriquecer-se ilicitamente. Entretanto, contrário ao que foi produzido nos autos, a sentença monocrática entendeu, equivocadamente, que houve doação" (e-STJ, fl. 2.067).
+Ressalta que: "À fls. 1.345-1.357, ao arrepio de tudo o que foi produzido nos autos, inclusive, da manifestação do Ministério Público que presta apoio ao terceiro setor, o Parquet oficiante em 1" grau, aduziu absurdamente que não está comprovada a dívida, opinando, por conseguinte, pelo ressarcimento dos valores pagos. Tamanho contorcionismo jurídico, que o Ministério Público precisou juntar documentos de outros processos, para dizer que não há provas da dívida. Verdadeiro absurdo! Entretanto, como a verdade sempre aparece, foi juntado pelo Parquet oficiante, o Parecer Técnico Contábil do Centro de Apoio Operacional das Promotorias de Defesa do Patrimônio Público, emitido em 19/08/2004, com reconhecimento expresso dos empréstimos realizados pela COPEM à Fundação, ainda que sem o respaldo de contrato (fI. 1558)" - e-STJ, fl. 2.071.
+Sustenta que: "Não houve paridade de tratamento no exercício dos direitos da peticionária em primeira instância e nem mesmo no Tribunal de Justiça de Minas Gerais, haja vista que a incompetência alegada no início do tramitar processual, ainda em primeira instância restou negligenciada, não tendo recebido nem mesmo uma sentença de improcedência, acontecendo o mesmo no âmbito do Tribunal de Justiça Mineiro. De tal feito, a ofensa ao art. 7º do CPC mostra-se incontroversa merecendo reforma" (e-STJ, fl. 2.073).
+Alega que: "O Juízo de primeira instância cometeu erro crasso ao reconhecer conexas a presente ação e ação cautelar Ação Cautelar n. 0471.03.015400-2, tornando-se então prevento para o julgamento desta. É incontroverso que as partes são diferentes daquelas apontadas na suposta ação que a teria deixado a presente em prevenção, e mais, além de a inexistir identidade quanto às partes, não existe, também, identidade de causa de pedir. Não bastasse, insta observar que o objeto das ações em comento são completamente distintos, motivo pelo qual, nem hipoteticamente, há se falar em prevenção trata-se de ações com pedidos e causa de pedir totalmente distintas" (e-STJ, fl. 2.073).
+Insiste que: "A prevenção alegada pelo Juízo sentenciante de primeira instância é simplesmente inédita no ordenamento jurídico brasileiro. Ora, in casu, nem o objeto e nem a causa de pedir (que pode ser próxima ou remota) não são comuns aos da Ação Cautelar n. 0471.03.015400- 2. Observe-se que no caso em tela, as partes são diferentes daquelas apontadas na suposta ação que teria deixado a presente em prevenção, e mais, além de a inexistir identidade quanto às partes, não existe, também, identidade de causa de pedir" (e-STJ, fl. 2.074).
+Pondera que: "Em que pese não haver nos autos uma só prova que demonstre liberalidade da COPEM em doar qualquer ativo à Fundação autora, mesmo inexistente escritura pública ou outro instrumento jurídico que pudesse demonstrar referido ajuste, mesmo com todas as provas demonstrando que houve empréstimos de valores, ainda assim o Juízo sentenciante de primeira instância se volta contra texto de lei e afirma se tratar de doação. As decisões de primeira e segunda instância conflitam com os fatos, provas e com a Lei, merecendo por tais razões reparo sob pena de convalidar como injustiça" (e-STJ, fl. 2.075).
+Repisa que: "Realmente, a defesa da embargante foi apresentada em 10 de dezembro de 2006, conforme deduzido pelo Juízo. Entretanto, a exceção de incompetência, não julgada, foi apresentada em 05 de abril de 2006 (fls. 251/255), na primeira ocasião em que se manifestou no processo, conforme estabelecem (estabeleciam) as normas de regência. Com efeito, na forma do precedente colacionado pelo d. Juízo, a contrário sensu, não se operou a preclusão, pois a matéria foi deduzida de modo próprio, em tempo certo. É dizer: a nulidade ocorrida ao tempo da distribuição não foi atingida pela preclusão" (e-STJ, fl. 2.076).
+Conclui que: "No que diz respeito ao mérito, mais uma vez, vem a COPEM mostrar seu inconformismo, deixando claro que nunca doou em nem podia doar bens e valores à Fundação autora. Como companhia de empreendimentos, sociedade anônima que é, tem por escopo manter-se no mercado, mediante obtenção de lucro. É bom reiterar, embasado nos documentos juntados com a contestação, que os empréstimos realizados pela COPEM à fundação foram todos devidamente processados e contabilizados.., eles passaram pelo crivo da prestação de contas e foram devidamente identificados, e, portanto, são valores devidos pela Fundação à COPEM. Os aportes feitos para a Fundação, pela COPEM, nunca estiveram revestidos do caráter de doação e/ou qualquer liberalidade, tanto que eles foram contabilizados, in totum, a título de empréstimos, circunstância esta que se extrai do laudo pericial produzido por expert do Juízo, pelos relatórios do Ministério Público, bem como por documentos acostados com a contestação. Sequer houve qualquer demonstração de animus donandi pela recorrente COPEM à Fundação Educativa e Cultural, ora recorrida, ainda assim foi essa a interpretação atribuída ao caso concreto, mesmo com provas contundentes, contábeis, periciais, demonstrando o contrário, que as transações tinham natureza de empréstimo. Fato é que a COPEM emprestou à Fundação valores para adimplemento posterior, já que a fundação foi instituída pelo então diretor da COPEM, que a ela, inclusive, deu nome na instituição em homenagem ao seu pai - Fundação Educativa e Cultural José Alves Ferreira de Oliveira" (e-STJ, fl. 2.080).
+Apresentadas contrarrazões (e-STJ fls. 2.221 - 2.224), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 2.187 - 2.189, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+A Corte de origem, após a análise de fatos e provas levados aos autos, concluiu pela existência de conexão entre as causas a legitimar a competência do Juízo local para julgamento do feito. Na oportunidade foi registrada, ainda, a ausência de provas acerca do alegado empréstimo, concluindo pela ocorrência de doação de valores na hipótese, conforme se depreende do trecho do acórdão abaixo reproduzido (e-STJ, fls. 2.004 - 2.008):
+Inicialmente, suscita a Ré/Apelante a incompetência do Juízo, ao argumento de que não há conexão ou continência com a ação cautelar n. 0471.03.015400-2.
+Todavia, a preliminar deve ser rejeitada.
+Consoante disposto no art. 61, do CPC, o foro competente para processar e julgar a ação acessória é o mesmo da ação principal.
+Assim, o Magistrado que recebeu por distribuição a cautelar, ainda que não tenha ainda apreciado o mérito, será prevento para a análise da ação de cobrança originada do mesmo fato, sendo correta a distribuição do presente feito por dependência à cautelar n. 0471.03.015400-2.
+Rejeito, portanto a preliminar de incompetência do juízo.
+(..) Compulsando os autos, e os outros feitos a ele relacionados, verifica-se que há irregularidades nos supostos empréstimos que justificariam o repasse de R$ 400.000,00 (quatrocentos mil reais) para a Ré/Apelante.
+O laudo pericial concluiu que a suposta dívida se baseia unicamente em lançamentos contábeis nos livros da própria Ré/Apelante, feitos pelo seu contabilista que, à época, exercia o cargo de Administrador Financeiro da Autora/Apelada, responsável por sua escrituração.
+A documentação contábil da Autora/Apelada foi incinerada. Tal fato, somado à comprovada irregularidade na gestão da Fundação e da sociedade empresária tornam inverossímeis as alegações de que a Autora/Apelada era devedora da Ré/Apelante (grifamos).
+Conforme bem asseverado pelo Magistrado primevo:
+Uma vez que a ré não dispõe de títulos formais, que demonstrem cada uma das alegadas operações de empréstimos, valores, datas dos empréstimos, prazos para pagamentos, critérios e índices de correção monetária e juros, impõe-se reconhecer que houve uma apropriação indébita de valor que deveria ser legitimamente incorporado ao patrimônio da Fundação.
+Não é possível legitimar como prova da existência de dívida da autora para com a ré os lançamentos feitos pela autoproclamada credora, através do seu contabilista, adredemente eleito para o cargo de Administrador Financeiro da Fundação.
+Deve-se ainda ressaltar que, em razão de irregularidades constatadas na administração da Autora/Apelada, e considerando o dever de velar pelas fundações, o Ministério Público do Estado de Minas Gerais ajuizou ação civil pública, autos n. 0471.03.012281-9, em que se apurou que os Diretores e Curadores da Autora/Apelada agiram de má-fé, violaram o Estatuto e as finalidades da entidade, através de atos fraudulentos, que visavam atender a seus interesses pessoais.
+No referido processo foram analisados os documentos e dados contábeis, tendo o I. Perito concluído que houve desvio de bens e receitas, burla das finalidades, prejuízo da sociedade, por parte da Interliga e de Inácio Franco, Olympio Franco, Maria das Graças Amaral Franco e Simone Amaral Franco.
+Em parecer, o Parquet elucidou que o negócio jurídico relacionado aos R$ 400.000,00 (quatrocentos mil reais) envolveu a venda de posições no Conselho Curador, e não o pagamento de dívida da Fundação, burlando a proibição de venda de cargos da Ré/Apelante.
+Especificamente sobre os supostos empréstimos que embasaram a apropriação dos R$ 400.000,00 (quatrocentos mil reais) objetos do presente feito, vale a pena transcrever excertos do referido julgado:
+(..) Destarte, sob qualquer ângulo que se esteja situado para considerar esta questão, temos que não restou demonstrada a existência de contratos de empréstimos firmados entre as partes, de sorte que a quantia repassada diretamente à Ré/Apelante sob o pretexto de quitação da dívida não deveria ter sido assim transferida, devendo, portanto, ser restituída à Autora/Apelada.
+Nesse contexto, a revisão da conclusão adotada na origem, para que sejam acolhidas as teses de incompetência do Juízo de origem, por ausência de conexão entre causas, ou de ocorrência de empréstimo de valores e não de doação, é medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+Conforme destacado na decisão supra reproduzida, após a análise de fatos e provas levados aos autos, a Corte de origem concluiu pela existência de conexão entre as causas a legitimar a competência do Juízo local para julgamento do feito, bem como pela ausência de provas acerca do alegado empréstimo, registrando a configuração de doação de valores. No ponto a parte não apresentou nenhum fundamento novo capaz de alterar a decisão agravada, que segue mantida por seus próprios fundamentos, uma vez que o acolhimento das teses de incompetência do juízo, ou de existência de empréstimo demandaria necessário reexame de fatos e provas. Aplica-se o enunciado 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
