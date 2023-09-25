@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EDIFICAR ENGENHARIA LTDA. (ou EDIFICAR ENGENHARIA EIRELI), contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ e negou seguimento pela aplicação do Tema Repetitivo n. 577 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 0017514-84.2021.8.19.0001) assim ementado (fl. 463):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM CONSTRUÇÃO. ATRASO NA ENTREGA DO IMÓVEL. PLEITO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES PAGOS E INVERSÃO DA CLÁUSULA PENAL. SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DAS RÉS. LEGITIMIDADE PASSIVA DA EMPRESA INTEGRANTE DA CADEIA DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. INTELIGÊNCIA DOS ARTS. 7º, P. ÚNICO E 25, § 1º DO CDC. NÃO CUMPRIMENTO DO CONTRATO NO PRAZO AVENÇADO. MORA DA PARTE RÉ COMPROVADA QUE JUSTIFICA A RESOLUÇÃO DO CONTRATO. RETORNO DAS PARTES AO STATUS QUO ANTE. DEVOLUÇÃO INTEGRAL DAS PARCELAS PAGAS. IMPOSSIBILIDADE DE RESTITUIÇÃO DE FORMA PARCELADA. DESVANTAGEM EXAGERADA EM DETRIMENTO DO CONSUMIDOR QUE DEVE SER REPUDIADA. PRECEDENTES DOSTJ. INVERSÃO DA CLÁUSULA PENAL EM FAVOR DO PROMITENTE COMPRADOR. POSSIBILIDADE. TESE FIRMADA NO JULGAMENTO DO TEMA 971 PELO STJ. MULTA CONTRATUAL QUE DEVE SER FIXADA DE ACORDO COM O CONTRATO CELEBRADO ENTRE AS PARTES. OBSERVÂNCIA DO PRINCÍPIO DA SIMETRIA. MULTA NO PERCENTUAL DE 2% QUE DEVERÁ INCIDIR SOBRE O VALOR EFETIVAMENTE PAGO PELO AUTOR E NÃO SOBRE O PREÇO TOTAL DO IMÓVEL. PROVIMENTO PARCIAL DO APELO.
+No recurso especial, a parte recorrente  alega violação dos "artigos 104, 421, 421-A, 2.035 do Código Civil e seguintes acerca do tema Responsabilidade Civil" (fl. 537), defendendo, em síntese, que:
+a) o contrato entabulado é paritário e que "a revisão e a resolução do contrato, passa a ser medida excepcional, devendo o estado de direito manter integro a vontade das partes. O acórdão desrespeita esse sentido" (fl. 534);
+b) "há de prevalecer a interpretação de que o que fora pactuado entre às partes, quanto ao índice de retenção de 30%, fora feito em consonância com o regramento legal e os princípios que o norteiam" (fl. 535);
+c) "a função social dos contratos, reconhecida como norma geral de ordem pública, não admite convenção particular contrária à função social" (fl. 536); e
+d) "havendo determinação do juízo no sentido de obrigar a recorrente a restituir qualquer valor aos recorridos, deverá ser feito, portanto, nos termos da cláusula 9.11 da promessa de compra e venda" (fl. 532).
+Requer  o  conhecimento  e  o  provimento  do  recurso para que seja reconhecida a validade da "cláusula contratual 9.11" (fl. 537).
+As contrarrazões foram apresentadas (fls. 1.326-1.333).
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ.
+Nas razões do presente recurso, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Assim, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Ademais, ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar genericamente que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+Segundo entendimento desta Corte, "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AREsp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021).
+No mesmo sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; e AgInt no REsp n. 1.890.825/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/12/2020, DJe de 18/12/2020.
+Assim, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 10%, percentual arbitrado na instância de origem, para 13% sobre o valor da condenação.
+Publique-se.  Intimem-se.
+EMENTA
