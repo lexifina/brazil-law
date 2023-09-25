@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MAJORAÇÃO DE MULT A DIÁRIA. IMPLEMENTAÇÃO DE BENEFÍCIO. RESTABELECIMENTO DE PENSÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA ENUCIADO N. 83 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que majorou multa diária na implementação de benefício previdenciário em ação de restabelecimento de pensão. No Tribunal a quo negou-se provimento ao recurso.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO DE RESTABELECIMENTO DE PENSÃO, EM FASE DE CUMPRIMENTO DE SENTENÇA. ASTREINTES. PRONUNCIAMENTO JUDICIAL QUE MAJOROU, EM 100%, A MULTA DIÁRIA IMPOSTA NA R. SENTENÇA. RECURSO DA PARTE RÉ. DEMANDA NA QUAL A PARTE AUTORA VISAVAO RESTABELECIMENTO DE BENEFÍCIO PREVIDENCIÁRIO QUE RECEBIA NA CONDIÇÃO DE VIÚVA DO SERVIDOR PÚBLICO MILITAR ESTADUAL. TUTELA PROVISÓRIA DE URGÊNCIA DEFERIDA. DECISÃO FAVORÁVEL PROFERIDA EM SEDE DE APELAÇÃO. ACÓRDÃO TRANSITADO EM JULGADO. CUMPRIMENTO DE SENTENÇA. DESCUMPRIMENTO DA TUTELA PROVISÓRIA DE URGÊNCIA POR PARTE DO AGRAVADO. INTELIGÊNCIA DO ARTIGO 536 DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DA MULTA. POSSIBILIDADE. SEGUNDO O ENTENDIMENTO DA E. CORTE SUPERIOR, DEVE-SE TER EM CONTA O VALOR DA MULTA DIÁRIA INICIALMENTE FIXADA E NÃO O MONTANTE TOTAL ALCANÇADO EM RAZÃO DA DEMORA NO CUMPRIMENTO DA DECISÃO. MONTANTE DA MULTA QUE SE DEU UNICAMENTE À RECONHECIDA RECALCITRÂNCIA DO AGRAVANTE EM CUMPRIR DECISÃO JUDICIAL. PRECEDENTES DO E. SUPERIOR TRIBUNAL DE JUSTIÇA. MANUTENÇÃO DA DECISÃO. RECURSO CONHECIDO E DESPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+No entanto, data venia, tal afirmação não é correta. Observa-se que o agravante, em suas razões do agravo de instrumento, menciona expressamente os artigos 413 e 884do Código Civil como fundamentos (vide fls. 13 e 16 dos autos eletrônicos), e que no v. acórdão de fls. 42/50 (vide fl. 44) o i. Desembargador Relator menciona expressamente o fato de o agravante alegar os parâmetros da razoabilidade e da proporcionalidade e o princípio da vedação ao enriquecimento sem causa. Confira-se:
+Assim, basta a leitura do acórdão de fls. 42/50 para se observar que todas as questões jurídicas atacadas no recurso foram objeto de enfrentamento pela C. Câmara, razão pela qual se mostra plenamente admissível o recurso especial.
+ ..
+Ademais, a r. decisão entendeu pela incidência da Súmula 83 do STJ, pois o Tribunal de origem teria decidido a matéria em conformidade com a jurisprudência da Corte. Entretanto, tal entendimento não merece prosperar. No acórdão de fls. 90-93, foi proferido voto no sentido de:
+ ..
+Assim, ao contrário do afirmado na r. decisão agravada, o acórdão recorrido não está em consonância com a jurisprudência desta Corte, não sendo possível, portanto, a negativa de seguimento ao recurso especial com base na Súmula 83/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MAJORAÇÃO DE MULT A DIÁRIA. IMPLEMENTAÇÃO DE BENEFÍCIO. RESTABELECIMENTO DE PENSÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA ENUCIADO N. 83 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que majorou multa diária na implementação de benefício previdenciário em ação de restabelecimento de pensão. No Tribunal a quo negou-se provimento ao recurso.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Sobre o tema, é relevante registrar que a Terceira Turma do e. Superior Tribunal de Justiça, no julgamento do REsp nº 1.475.157/SC, de relatoria do Ministro MARCO AURÉLIO BELLIZZE, firmou entendimento de que a apuração da razoabilidade e da proporcionalidade do valor da multa diária deve ser verificada no momento de sua fixação em relação ao da obrigação principal, uma vez que a redução do montante total a título de astreinte, quando superior ao valor da obrigação principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir as decisões judiciais, bem como estimula a interposição de recursos, em total desprestígio da atividade jurisdicional.
+Em suma, deve-se ter em conta o valor da multa diária inicialmente fixada e não o montante total alcançado em razão da demora no cumprimento da decisão.
+ ..
+Portanto, segundo o entendimento da e. Corte Superior, deve-se ter em conta o valor da multa diária inicialmente fixada e não o montante total alcançado em razão da demora no cumprimento da decisão.
+ ..
+Como visto, a majoração da multa se deveu unicamente à reconhecida recalcitrância do agravante em cumprir decisão judicial.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Por outro lado, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
