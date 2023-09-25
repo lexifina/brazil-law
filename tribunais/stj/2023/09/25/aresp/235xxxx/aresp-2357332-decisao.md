@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PORTO ESCRITÓRIO IMOBILIÁRIO LTDA. contra a decisão que inadmitiu o recurso especial em razão da inviabilidade de análise de ofensa a dispositivo constitucional, da ausência de violação dos arts. 489 e 1.022 do Código de Processo Civil e da incidência da Súmula n. 7 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram preenchidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Sergipe (Apelação Cível n. 202100837869) assim ementado (fl. 409):
+APELAÇÃO CÍVEL - CONTRATO DE LOCAÇÃO. IMPUGNAÇÃO A CONCESSÃO DO BENEFÍCIO DA GRATUIDADE. ILEGITIMIDADE ATIVA. ANÁLISES EM DESPACHO SANEADOR SEM QUE A PARTE SE INSURGISSE. PRECLUSÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ALEGAÇÃO DE ALAGAMENTO NO IMÓVEL ALUGADO - TELEVISÃO A SER REPARADA E NÃO DEVOLVIDA. AUSENCIA DE DEMONSTRAÇÃO QUE FOI ENTREGUE AO AUTOR A TV. DEVER DE INDENIZAR. ART. 373, II, DO CPC - DEMONSTRAÇÃO PELO AUTOR DO FATO CONSTITUTIVO DO SEU DIREITO - ILICITUDE VERIFICADA - DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO DE R$2.000,00 QUE ATENDE AOS CRITÉRIOS DA R A Z O A B I L I D A D E E PROPORCIONALIDADE. - RECURSO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 93, IX, da Constituição Federal e 1.022, II, do Código de Processo Civil.
+Alega que houve negativa de prestação jurisdicional em decorrência do não enfrentamento da principal tese levantada na apelação - ilegitimidade passiva -, questão relevante e capaz de infirmar a conclusão adotada.
+Colaciona decisão monocrática do Superior Tribunal de Justiça para demonstrar divergência jurisprudencial acerca do reconhecimento da negativa de prestação jurisdicional.
+Requer o conhecimento e o provimento do recurso para que se determine o retorno dos autos à origem para que seja proferido novo julgamento, suprindo-se a omissão acerca da preliminar de ilegitimidade passiva.
+As contrarrazões não foram apresentadas (fl. 470).
+É o relatório. Decido.
+Refoge da competência do Superior Tribunal de Justiça a análise de suposta ofensa a artigo da Constituição Federal.
+Trata-se na origem de ação de indenização por danos morais e materiais movida por Wesley Chaves Correia em desfavor de Porto Escritório Imobiliário Ltda.
+Na decisão saneadora, o juízo monocrático afastou a arguição de ilegitimidade ativa, nada discorrendo acerca de eventual arguição de ilegitimidade passiva. Veja-se(fls. 234):
+DA ILEGITIMIDADE ATIVA. Postula o réu em sua defesa a ilegitimidade ativa, pois o contrato da relação locatícia foi celebrado entre a ré e terceiro Gerdson de Lima Oliveira, o qual veda a sublocação. De fato, o contrato de locação residencial fora firmado entre PORTO ESCRITÓRIO IMOBILIÁRIO LTDA E GERDSON DE LIMA OLIVEIRA, conforme contrato anexo à contestação de 23/10/2019. Contudo, documentos já anexados à exordial comprovam pagamentos feitos pelo autor relacionados ao contrato de locação desde 2016, ciência do réu sobre a sublocação do imóvel e vazamento ocorrido no bem. Com a anuência do locador sobre a sublocação, inobstante cláusula nº 36 do contrato, resta configurada a legitimidade ativado autor para discutir supostos danos materiais e morais em razão de vazamento no imóvel. Rejeito a preliminar de ilegitimidade ativa.
+Ao final, a ação foi julgada parcialmente procedente.
+A parte ré apelou, arguindo preliminar de ilegitimidade ativa, calando-se acerca de eventual ilegitimidade passiva.
+O Tribunal de origem negou provimento ao recurso e, quanto à questão da ilegitimidade ativa, assim se pronunciou (fl. 411):
+DA ILEGITIMIDADE ATIVA.
+Primeiramente assevero que o juiz de origem analisou a alegação de preliminar de ilegitimidade ativa pelo recorrente em decisão saneadora disponibilizada no diário de justiça do dia 07/01/2021 o que desafiava a interposição de agravo de instrumento no prazo legal, a termo do disposto no artigo 1.015, inciso II, do Código de Processo Civil, o que não ocorreu, operando-se a preclusão, sendo incabível o reexame do que ficou então decidido.
+Foram opostos embargos de declaração nos quais foi apontada omissão e contradição acerca de preliminar de ilegitimidade passiva.
+Os aclaratórios foram assim rejeitados (fls. 436-438):
+Os comandos legais supracitados exigem que o recorrente aponte a omissão, contradição ou obscuridade e, nesta senda, a recorrente alega apenas que há omissão porque, no seu pensar, os seus pleitos não foram devidamente analisados, quando em verdade, o que se viu foi o não acatamento das razões recursais, principalmente a. alegação de ilegitimidade ativa.
+ ..
+Perlustrando as razões do presente recurso, o que se extrai é que a recorrente deseja fazer prevalecer, forçadamente, o seu entendimento sobre o caso e, quiçá, viabilizar a interposição de recursos.
+Está mais que evidente o ocorrido no caso em tela, não se trata de omissão na análise das argumentações contidas no recurso, mas de não acolhimento das teses vertidas pela recorrente no Apelo supracitado.
+Assim, o fato é que a parte embargante não logrou êxito em demonstrar a existência de qualquer omissão e não há outro caminho senão o de julgar improcedente este recurso de embargos de declaração.
+Nesse contexto, afasta-se a alegada ofensa ao art. 1.022, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Nada obstante as alegações da recorrente, não há omissão que caracterize vício no julgado, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, com enfrentamento e solução da questão debatida na lide. A Corte local foi explícita em afastar a preliminar de ilegitimidade ativa sob o fundamento de que a questão fora atingida pela preclusão, sendo o fundamento apresentado suficiente para a solução da questão.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, visto que basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Confiram-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. VIOLAÇÃO AOS PRECEITOS DO DIREITO DE VIZINHANÇA. REVER A CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. A Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao percentual de reparação a ser custeado pelo ora recorrido. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+2. Rever a conclusão a que chegou o Tribunal de origem e entender, como quer a parte recorrente, que houve malferimento da legislação que regulamenta o despejo de águas em imóvel inferior, pois os danos em seu imóvel decorreram exclusivamente de conduta do ora recorrido, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.083.838/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL. CASO FORTUITO E FORÇA MAIOR. NÃO CONFIGURAÇÃO. ATRASO EXPRESSIVO. DANOS MORAIS. REVISÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil de 2015 2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.373/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022.)
+Ressalto que a questão relativa à ilegitimidade passiva, ao contrário da afirmação da parte recorrente de ser a principal tese recursal, a matéria nem sequer foi arguida nas razões da apelação, sendo suscitada somente quando da oposição dos embargos de declaração, o que constitui inadmissível inovação recursal insuscetível de análise.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DOS EMBARGOS DE DECLARAÇÃO. MESMO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existente no julgado (art. 1.022 do CPC/2015).
+2. inviável a análise de tese apresentada somente em sede de embargos de declaração, porquanto incabível a inovação recursal em embargos de declaração, pela preclusão consumativa.
+3. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado.
+4. A oposição de embargos de declaração não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+5. Embargos de declaração rejeitados. (EDcl no AgInt no REsp n. 2.022.551/PR, de minha relatoria, Quarta Turma, julgado em 12/6/2023, DJe de 15/6/2023, destaquei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CINDIBILIDADE. SÚMULA N. 182/STJ. NÃO APLICABILIDADE. CONTRATO BANCÁRIO. PRESCRIÇÃO. EXAME DE OFÍCIO. POSSIBILIDADE. PRECLUSÃO. INOVAÇÃO. NÃO PROVIMENTO.
+1. A Corte Especial decidiu que é cindível a decisão que examina o agravo em recurso especial, cabendo à parte eleger as questões autônomas sobre as quais pretende recorrer por meio de agravo interno, sendo que às demais questões recai o fenômeno da preclusão (EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021).
+2. "A prescrição é matéria de ordem pública, podendo ser conhecida ou revista a qualquer tempo em 1ª ou 2ª instância." (AgInt nos EDcl no REsp n. 1.394.761/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/9/2019, DJe de 24/9/2019.)
+3. Não se admite adicionar argumento em sede de agravo interno ou embargos de declaração, por importar inadmissível inovação.
+4. Agravo interno parcialmente conhecido e, na parte conhecida, não provido. (AgInt nos EDcl no AREsp n. 1.802.701/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/8/2023, DJe de 31/8/2023, destaquei.)
+Além disso, o posicionamento da Corte local acerca da ocorrência da preclusão da questão da ilegitimidade ativa se coaduna com a jurisprudência do STJ firmada no sentido de que as matérias, inclusive as de ordem pública, que não tenham sido oportunamente impugnadas, sujeitam-se à preclusão.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. PRECLUSÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULAS N. 83 E 568 DO STJ. CITAÇÃO. VALIDADE. EFEITOS DA REVELIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmulas n. 83 e 568 do STJ).
+2. "Nos termos da jurisprudência desta Corte, as matérias, inclusive as de ordem pública, decididas no processo, e que não tenham sido impugnadas em momento oportuno, sujeitam-se à preclusão" (AgInt no AREsp n. 616.766/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/4/2022, DJe de 13/5/2022).
+ ..
+7. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.868.865/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILEGITIMIDADE ATIVA. MATÉRIA DE OR DEM PÚBLICA. PRECLUSÃO CONSUMATIVA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTOS DO ACÓRDÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS NºS 283 E 284/STF. MULTA. ART. 523, § 1º, DO CPC/2015. AFASTAMENTO. IMPOSSIBILIDADE.
+ ..
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que mesmo as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e não houver insurgência da questão no momento oportuno.
+ ..
+7. Agravo interno não provido. (AgInt no AgInt no AREsp n. 1.877.822/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Registre-se, por fim, que, apesar da parte não ter indicado que a interposição do recurso especial se deu com fundamento na alínea c do permissivo constitucional, colacionou decisão monocrática do STJ visando demonstrar divergência jurisprudencial acerca do reconhecimento de negativa de prestação jurisdicional.
+No entanto, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 225, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tido por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Registro que é consenso que decisões monocráticas do STJ não se prestam a comprovar a arguição de dissenso jurisprudencial.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. TÍTULO EXTRAJUDICIAL. AJUIZAMENTO DE AÇÃO REVISIONAL NÃO RETIRA A LIQUIDEZ DO TÍTULO EXECUTIVO. SÚMULA N. 83/STJ. TÍTULO LÍQUIDO, CERTO E EXIGÍVEL. MODIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO MONOCRÁTICA. PARADIGMA. IMPRESTABILIDADE. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. Decisões monocráticas não servem à função de paradigma jurisprudencial.
+5. Agravo interno a que se nega provimento. (AgInt no REsp n. 2.040.560/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 30% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida , observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
