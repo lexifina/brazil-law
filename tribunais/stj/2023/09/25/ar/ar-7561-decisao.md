@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de ação rescisória, com pedido de tutela antecipada, ajuizada por AEDSON MICALI, "com fundamento no artigo 966, incisos IV e V do Código de Processo Civil" (na fl. 3), "cujo objeto é rescindir o acórdão do agravo em Recurso Especial, o que repercute e alcança até a decisão anulatória perpetrada pelo julgador de primeiro grau, em 25/02/2022, (fls., 552/553), via da presente ação, a qual contém o depósito prévio e o acórdão rescindendo, devidamente transitado em julgado" (grifou-se, na fl. 9).
+A decisão rescindenda, proferida no AREsp nº 2328821/MS, decidiu, no que interessa, o seguinte:
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida" (na fl. 134 dos respectivos autos).
+Por sua vez, a inicial da ação rescisória defende que "o nítido equívoco, com todas as vênias, do julgador de primeira instância, obriga-nos à presente propositura, cujo objeto é rescindir o acórdão do agravo em Recurso Especial, o que repercute e alcança até a decisão anulatória perpetrada pelo julgador de primeiro grau, em 25/02/2022, (fls., 552/553), via da presente ação, a qual contém o depósito prévio e o acórdão rescindendo, devidamente transitado em julgado" (na fl 9).
+Requer, assim, a procedência da ação.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça é incompetente para conhecer e julgar a ação rescisória.
+Deveras, o autor da ação rescisória esclarece que "o epicentro da questão da ação rescisória ora intentada, se funda no artigo 966, incisos IV e V do Código de Processo Civil, e também com vistas ao artigo 505 do mesmo código, que veda terminantemente que o juiz julgue novamente a questão", defendendo que, "após decidir sobre a extinção do feito com seu respectivo trânsito em julgado, ressuscitou o julgador o andamento processual, isto depois de sugerir que o autor ingressasse com ação contra a Caixa Econômica Federal, dizendo com isso que seu caminho já estava vencido, não lhe restando, senão, acionar a referida instituição bancária, em razão do erro dela na emissão de sua informação de saldo em conta" (na fl. 7).
+Assim conclui que "os requisitos, a) da não caducidade do direito de propositura da rescisória; b) de decisão de agravo em recurso especial transitada em julgado, súmula 401 do STJ, malferindo de morte os incisos IV e V do art. 966 do Código de Processo Civil, ou seja, ofensa à coisa julgada, bem como, o vitupério ao artigo 505 do CPC, quando emitiu o julgador em novo julgamento a determinação de abertura de prazo para indicação de bens a penhora (fls., 552/553), justifica-se a presente ação" (na fl. 9).
+Todavia, a decisão rescindenda, proferida no AREsp nº 2328821/MS, simplesmente decidiu, no que interessa, o seguinte:
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida" (grifou-se, nas fls. 41/48).
+Ou seja, as questões tratadas pela inicial da ação rescisória não foram abordadas pela decisão rescindenda, mas sim pelas instâncias de origem, como se observa nas fls. 29/30 e 82/85 dos autos do agravo em recurso especial que dá origem à presente>
+Ante o exposto, declaro a incompetência desta Corte para apreciar a ação rescisória, determinando a intimação da parte autora para, sendo de seu interesse, emendar a inicial (art. 968, § 5º, do CPC), com a posterior remessa, incontinente, do feito ao eg. Tribunal de Justiça do Estado de Mato Grosso do Sul, para que aprecie o pedido conforme entender de direito.
+Publique-se.
+EMENTA
