@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. DECURSO DO PRAZO PARA MANIFESTAÇÃO. REEXAME. SÚMULA 7/ STJ. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido analisou motivadamente todas as questões relevantes para a solução da lide, não se podendo atribuir os vícios de omissão, obscuridade, contradição ou erro material à decisão recorrida apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte recorrente.
+2. Na hipótese, o Juízo de primeiro grau exortou as partes a se manifestarem sobre as questões em relação às quais entendeu refugir do escopo do cumprimento de sentença, tendo o ora recorrente se silenciado, mesmo ciente de que seria prolatada sentença extintiva com base no cumprimento da obrigação. Reverter a essa conclusão para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por TI ALIMENTOS LTDA. - MICROEMPRESA contra decisão desta relatoria assim ementada (e-STJ, fl. 1.762):
+AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRAZO PARA MANIFESTAÇÃO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 933-940), a agravante reafirma a negativa de prestação jurisdicional por parte do Tribunal de Justiça do Distrito Federal e dos Territórios no julgamento da apelação, que teria sido omisso sobre o descumprimento do prazo recursal de 15 (quinze) dias úteis para a interposição de agravo de instrumento.
+Afirma que não seria hipótese de aplicação da Súmula 7/STJ, tendo em vista a desnecessidade de revolvimento probatório para verificar o desrespeito ao prazo legal para impugnação da decisão interlocutória.
+Não houve Impugnação ao agravo interno (e-STJ, fl. 1.780).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. DECURSO DO PRAZO PARA MANIFESTAÇÃO. REEXAME. SÚMULA 7/ STJ. AGRAVO INTERNO IMPROVIDO.
+1. O acórdão recorrido analisou motivadamente todas as questões relevantes para a solução da lide, não se podendo atribuir os vícios de omissão, obscuridade, contradição ou erro material à decisão recorrida apenas porque resolveu a celeuma em sentido contrário ao postulado pela parte recorrente.
+2. Na hipótese, o Juízo de primeiro grau exortou as partes a se manifestarem sobre as questões em relação às quais entendeu refugir do escopo do cumprimento de sentença, tendo o ora recorrente se silenciado, mesmo ciente de que seria prolatada sentença extintiva com base no cumprimento da obrigação. Reverter a essa conclusão para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, não há nenhuma omissão, carência de fundamentação ou mesmo contradição a ser sanada no julgamento do TJDFT , portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. HARMONIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Cuida-se, na origem de ação de indenização por dano material e compensação por dano moral.
+2. Não ocorre ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, examina fundamentada e expressamente todos os pontos relevantes para a solução da controvérsia, ainda que de forma distinta daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento fundamentado das diligências inúteis ou meramente protelatórias, em juízo cuja revisão demanda a reapreciação do conjunto fático dos autos. Precedentes.
+5. ..
+9. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+10 . Agravo interno não provido.
+(AgInt no AgInt no AREsp 1302429/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+Resolvidas pelo Juízo de primeiro grau as questões relativas aos trâmites internos utilizados pelo banco para a realização do débito de valores em conta de interessados e, ainda, no que concerne ao alegado enriquecimento ilícito do banco, instruiu o gerente do Banco do Brasil acerca da transferência de valores para determinada conta da instituição e deu prazo para a parte requerer o que de direito, advertindo que sobreviria a extinção do feito.
+O exequente apelou da sentença extintiva então prolatada com base na satisfação da obrigação objeto do cumprimento, sustentando, consoante o relatório do acórdão recorrido, "error in procedendo, tendo em vista que a instituição financeira não comprovou a correção em seu sistema financeiro dos valores adimplidos pelo exequente, que formulou uma série de requerimentos ao juízo a quo, restando ignorados, razão pela qual pugna seja conhecido e provido o recurso a fim de ser cassada sentença apelada até que seja cumprido o comando judicial pelo executado"(e-STJ fl. 1.592).
+O Tribunal local examinou ditos argumentos, pontuando (e-STJ, fls. 1.594-1.595):
+A apelante questiona, em seu recurso, a correção realizada pela instituição financeira em seus sistemas operacionais; a comprovação de que teria computado os valores consoante estipulado na sentença que fundamenta o cumprimento.
+O questionamento foi objeto do laudo pericial de ID 36863552, havendo concordância da parte acerca dos cálculos, conforme manifestado na petição de ID 36863556, tendo havido posterior determinação judicial para que o excesso constatado fosse transferido à exequente (ID 36863558).
+Em manifestação posterior da parte (ID 36863563), houve questionamento acerca de enriquecimento ilícito pela parte executada e também questionamento sobre a forma como seria procedido o débito em conta corrente.
+Não obstante, os termos do contrato, logo, também o modo de cumprimento da obrigação, a forma de pagamento, foram restabelecidos pela sentença, consoante item "a" do dispositivo.
+Ademais, após resposta do juízo a quo acerca dos requerimentos e indagações formulados, a parte credora quedou-se inerte, deixando transcorrer in albis o prazo para manifestar-se (ID 36863577), restando precluso o questionamento acerca da matéria.
+Em que pesem os argumentos expostos, o questionamento, ainda que relacionado ao feito executivo, foge ao escopo da demanda, tendo em vista não ter sido demonstrado o descumprimento do título que ensejou a fase satisfativa, bem como o silêncio da parte à indagação do juízo quanto a novos requerimentos. Diante desses fatos, conclui-se que a parte carece de interesse no prosseguimento do feito, tendo em vista a satisfação da obrigação constante da sentença que deu origem ao presente cumprimento, bem como pelo cabimento de outras vias caso comprovada posteriormente a cobrança a maior do débito.
+Pelo que se constata dos autos, o Juízo de primeiro grau exortou as partes a se manifestarem sobre as questões em relação às quais entendeu refugir do escopo do cumprimento de sentença, tendo o ora recorrente se silenciado, mesmo ciente de que seria prolatada sentença extintiva com base no cumprimento da obrigação.
+Aquele era o momento para a parte munir o Juízo com outros argumentos, de modo a alterar o convencimento então firmado, tendo o exequente se contentado, todavia.
+Não há dúvidas de que o exequente poderia recorrer do eventual prejuízo a ele causado, tanto que o fizera mediante o recurso de apelação, ocasião em que, em face do reconhecimento do cumprimento da obrigação, deveria ter devolvido ao Tribunal de Justiça as razões pelas quais os requerimentos indeferidos pelo Juízo deveriam ser antes atendidos, caso estes comprometessem a extinção da fase executiva com base no art. 924, II, do CPC.
+O TJDFT examinou os seus argumentos e os rechaçou, não se podendo revisar a sua compreensão, pois incidente o enunciado 7/STJ; não havendo, nesta contingência, afronta ao art. 1.015 do CPC a ser reconhecida.
+Desse modo, uma vez que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
