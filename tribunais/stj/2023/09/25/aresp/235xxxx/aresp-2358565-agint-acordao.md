@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR INADIMPLEMENTO DO COMPRADOR. MULTA CONTRATUAL. DISPOSITIVOS TIDOS POR VIOLADOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ART. 413 DO CC. REDUÇÃO EQUITATIVA. PERDAS E DANOS. PROIBIÇÃO DO COMPORTAMENTO CONTRADITÓRIO. FUNDAMENTOS SUFICIENTES NÃO ATACADOS. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate expresso, no acórdão recorrido, acerca do conteúdo normativo do dispositivo de lei federal apontado como violado evidencia a carência do imprescindível prequestionamento, a atrair a incidência da Súmula 211/STJ.
+2. Esta Corte Superior admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+3. A falta de impugnação a fundamento do acórdão recorrido, suficiente, por si só, para a manutenção das suas conclusões, atrai a incidência do óbice da Súmula 283/STF, o qual impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por JUAN GONZALEZ PEREZ E OUTRO contra decisão proferida por esta relatoria que foi assim ementada (e-STJ, fl. 374):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR INADIMPLEMENTO DO COMPRADOR. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. ART. 1.030, I, DO CPC. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. MULTA CONTRATUAL. DISPOSITIVOS TIDOS POR VIOLADOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ART. 413 DO CC. REDUÇÃO EQUITATIVA. PERDAS E DANOS. PROIBIÇÃO DO COMPORTAMENTO CONTRADITÓRIO. FUNDAMENTOS SUFICIENTES NÃO ATACADOS. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 776-780), os agravantes argumentam que não incide, na espécie, o óbice da Súmula 7/STJ, porquanto o inadimplemento da agravada, a ensejar a incidência da multa compensatória prevista no contrato, está reconhecido no acórdão, não sendo necessário o reexame de provas.
+Asseveram que, ao rejeitar os seus embargos, o Tribunal de origem considerou prequestionados os dispositivos mencionados no referido recurso aclaratório, o que afasta a incidência do óbice da Súmula 211/STJ.
+Sustentam, ademais, que não incide o óbice da Súmula 283/STF, pois todos os fundamentos do acórdão recorrido relativos à multa contratual e ao cabimento de perdas e danos foram devidamente impugnados nas razões do recurso especial.
+Pleiteia, assim, a reforma da decisão agravada.
+Sem impugnação (e-STJ, fl. 405).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO POR INADIMPLEMENTO DO COMPRADOR. MULTA CONTRATUAL. DISPOSITIVOS TIDOS POR VIOLADOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ART. 413 DO CC. REDUÇÃO EQUITATIVA. PERDAS E DANOS. PROIBIÇÃO DO COMPORTAMENTO CONTRADITÓRIO. FUNDAMENTOS SUFICIENTES NÃO ATACADOS. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de debate expresso, no acórdão recorrido, acerca do conteúdo normativo do dispositivo de lei federal apontado como violado evidencia a carência do imprescindível prequestionamento, a atrair a incidência da Súmula 211/STJ.
+2. Esta Corte Superior admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+3. A falta de impugnação a fundamento do acórdão recorrido, suficiente, por si só, para a manutenção das suas conclusões, atrai a incidência do óbice da Súmula 283/STF, o qual impede o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pelo insurgente não são capazes de modificar as conclusões da decisão agravada.
+Conforme registrado no referido decisum, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre aos arts. 113, § 1º, I a IV, 402, 408, 421, parágrafo único, 421-A, II e III, 422 e 884 do Código Civil e não se pronunciou sobre as teses de que: (a) como o limite para a cláusula penal é o valor da obrigação principal, não há como se considerar desproporcional a multa contratual prevista no montante de 10% (dez por cento); e (b) o acórdão recorrido não poderia ter considerado que a a multa contratual substituiria as perdas e danos e que o afastamento da disposição contratual livremente pactuada gera enriquecimento sem causa do agravado.
+O prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese. Não é suficiente, portanto, ao contrário do sustentado pelos agravantes, que o Tribunal de origem meramente declare prequestionados todos os dispositivos mencionados pelo embargante nos seus aclaratórios.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Contudo, não houve alegação de violação do art. 1.022 do recurso especial aviado.
+Em tal contexto, como afirmado na decisão agravada, ressente-se a irresignação do necessário prequestionamento, não havendo, portanto, como conhecer do recurso especial nesse ponto.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. PREQUESTIONAMENTO. AUSÊNCIA. FICTO. FUNDAMENTO NÃO ATACADO. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS Nº 5 E 7/STJ. ARRAS CONFIRMATÓRIAS. DEVOLUÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+4. A jurisprudência desta Corte é firme no sentido de que o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+ ..
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022).
+Ademais, como consignado na decisão agravada, mesmo que fosse possível superar a ausência de prequestionamento dos dispositivos legais tidos por violados, o recurso especial não mereceria ser conhecido por incidência do óbice da Sumula 283/STF, pois o Tribunal a quo (a) modificou o valor da cláusula penal com fundamento no art. 413 do CC, fixando-a proporcional e razoavelmente em 25% das parcelas pagas em dinheiro a título de preço; e (b) afastou a condenação ao pagamento de aluguéis, que se relacionariam às perdas e danos, em razão da proibição do comportamento contraditório.
+É o que se infere das seguintes passagens do acórdão recorrido (e-STJ, fls. 287, sem destaque no original):
+A multa compensatória revela-se exagerada, mesmo diante de uma relação civil. Ou seja, aplicado o artigo 413 do Código Civil. A singularidade da situação fala por si. Não se pode considerar como base de cálculo o valor dos imóveis prometidos em dação em pagamento, até porque esse foi o objeto de descumprimento pela autora.
+E nessa linha de pensamento, aplicar-se-á por extensão os parâmetros obtidos por precedentes e súmulas que analisaram relações de consumo. Esses critérios satisfazem a concretização da justiça contratual e da boa-fé também na hipótese concreta de relação civil.
+Como reconhecido pela própria autora, devem ser aplicados os precedentes do Colendo Superior Tribunal de Justiça que admitem, na hipótese de rescisão de contrato de compra e venda de imóvel por culpa do comprador, o percentual de retenção pelo vendedor das parcelas pagas, deve ser fixado entre 10% e 25%.
+ ..
+Em suma, acolhendo-se os parâmetros consagrados nesta Turma julgadora, reduzo o alcance da multa compensatória e fixo o percentual 25% de retenção pelo compromissário vendedor das parcelas pagas em dinheiro a título de preço - essa será a base de cálculo. Esse parâmetro atende no caso concreto os princípios da razoabilidade e proporcionalidade. E, nesse ponto, fica parcialmente provido o recurso da autora, além das seguintes deliberações.
+Rejeita-se o pedido contido na reconvenção de pagamento de alugueres. Essa verba assume natureza jurídica de indenização.
+É preciso compreender dois pontos: (i) a dação em pagamento não se aperfeiçoou e até motivou a resolução do contrato por culpa da autora e (ii) apesar da previsão contratual, o réu reconvinte não assumiu a posse dos imóveis (prometidos em dação em pagamento).
+E, se não houve posse em favor do réu dos imóveis prometidos em dação em pagamento, não se discutia nada além disso. As partes deveriam retornar apenas ao estado anterior. E o contrato não previu outra consequência. Não se podia querer o bônus (aluguel) sem ter recebido o ônus (condomínio e IPTU) dos imóveis prometidos em dação. Em nenhum momento, o réu fez questão para assumir a posse daqueles imóveis. Se o comportamento contratual do réu foi de não assumir a posse dos imóveis prometidos em dação, inclusive sem pagar condomínio e IPTU incidente sobre eles, não podia, em juízo, revelar atitude contraditória.
+Em outras palavras, como decorrência do princípio da boa- fé contratual, veda-se o comportamento contraditório do réu, que optou por não assumir a posse dos imóveis prometidos em dação - repita-se que não se aperfeiçoou. E sequer havia garantia de que, assumida a posse, o réu lograsse êxito em obter rendimentos de alugueres.
+O mesmo raciocínio se aplica em relação ao imóvel (lote de terreno vendido). Se o réu admitiu a pos se precária em favor da autora, assumiu comportamento contratual diferente do estabelecido do contrato (parágrafo único da cláusula quarta, fl. 41), não pode também no ponto assumir comportamento contraditório. Inaplicável, naquele espaço de tempo, qualquer indenização em favor do réu.
+Esses fundamentos não foram, contudo, impugnados nas razões do recurso especial.
+Assim, a manutenção de algum argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. SUCESSÕES. IMPUGNAÇÃO DE ESBOÇO DE PARTILHA. CONCLUSÃO DO TRIBUNAL BANDEIRANTE DE QUE O BEM IMÓVEL LEGADO PERTENCIA A PARTE DISPONÍVEL. REFORMA. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA Nº 283 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
+ ..
+3. A ausência de impugnação no recurso especial de fundamento autônomo e suficiente para manutenção do acórdão recorrido atrai a incidência, por analogia, da Súmula nº 283 do STF.
+ ..
+(REsp n. 1.908.766/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 25/05/2021, DJe 28/5/2021)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
