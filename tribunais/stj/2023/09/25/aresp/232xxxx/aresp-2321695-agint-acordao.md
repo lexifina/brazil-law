@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. DISTR UBUIÇÃO DO ÔNUS PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+4. A revisão da conclusão a que chegou o Tribunal de origem sobre a distribuição do ônus da prova demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão da incidência das Súmulas 284/STF e 7/STJ.
+O agravante alega que não incidem as Súmulas 284/STF e 7/STJ.
+Com impugnação (fls. 416-425).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. DISTR UBUIÇÃO DO ÔNUS PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. Configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF.
+4. A revisão da conclusão a que chegou o Tribunal de origem sobre a distribuição do ônus da prova demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o agravante alega não ser a hipótese de aplicação da Súmula 284/STF. Ocorre que o recurso especial contém alegações genéricas, imprecisas no que diz respeito à suposta violação do art. 341, parágrafo único, do CPC/2015. É dizer, o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Outrossim, verifica-se que a controvérsia foi decidida, notadamente, com base no seguinte fundamento (fl. 247):
+O principal argumento trazido pela requerida em contestação é de que fora informado ao autor sobre a fase com amperagem alta, o que significaria a existência de alguma irregularidade nas instalações internas na unidade, sendo necessário que o Requerente verificasse a rotina de uso dos eletrodomésticos e consultasse um eletricista particular para identificar se existia alguma anomalia nas instalações internas.
+Desse modo, não se trata a hipótese de irregularidade no medidor de energia, passível de recuperação de receita mediante procedimento previsto no art. 129 da Resolução 414 da ANELL.
+Do confronto entre a referida fundamentação e as razões esposadas no recurso especial, verifica-se que o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida. Aplica-se à hipótese a Súmula 284/STF.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por fim, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou a seguinte compreensão acerca da distribuição do ônus da prova: "Em sede de "réplica", o Autor quedou-se inerte sobre tais argumentações, o que deduz ter se desincumbido à ré de comprovar fato impeditivo do direito do autor, nos termos do art. 373, II do CPC/15 (fl. 247).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido, com grifos nossos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO VERIFICADA. AÇÃO DE REINTEGRAÇÃO DE POSSE. ALEGAÇÃO DE CERCEAMENTO DO DIREITO DE DEFESA E DE ILEGITIMIDADE ATIVA PARA O CUMPRIMENTO DE SENTENÇA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+ ..
+7. Observa-se que, na hipótese dos autos, a alegação de cerceamento de defesa ou mesmo de descumprimento da regra de distribuição do ônus da prova exige reexame do acervo fático-probatório constante dos autos.
+8. Agravo Interno não provido.
+(AgInt no AREsp n. 2.259.437/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/6/2023, DJe de 27/6/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENERGIA ELÉTRICA. IRREGULARIDADE NO FATURAMENTO. ÔNUS DA PROVA. INVERSÃO. PROVA NEGATIVA. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. A jurisprudência desta Corte Superior se posiciona no sentido de que "a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no Resp 1.717.781/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018).
+2. Caso em que, ao atestar a regularidade do faturamento do consumo de energia, o Tribunal local anotou que, nada obstante tenha sido deferida a inversão do ônus probatório, não havia como a concessionária comprovar a autoleitura do medidor de consumo, por se tratar de prova negativa, haja vista ser corriqueira a incumbência de os moradores de imóveis localizados em área rural "realizar a leitura e comunicar a concessionária e, quando ausente, o faturamento é feito pela média dos últimos doze meses."
+3. Inviável rever o decidido pelo Tribunal de origem no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.066.004/TO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+PROCESSUAL CIVIL. DIREITO DO CONSUMIDOR. AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANOS MORAIS. RELAÇÃO DE CONSUMO. INVERSÃO DO ÔNUS PROBATÓRIO. REEXAME. NÃO CABIMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, nos autos de ação de indenização por danos morais, reconheceu que existe relação de consumo entre as partes. No Tribunal a quo, negou-se provimento ao agravo.
+II - Sobre o cabimento da inversão do ônus da prova, a Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+"Outrossim, a parte requerida/agravante possui responsabilidade objetiva na reparação de prejuízos causados em razão da prestação dos seus serviços, forte no artigo 37, §6º, da Constituição Federal e no artigo 14 do Código de Defesa do Consumidor:  ..  Ademais, conforme o art. 22 do CDC, a ré, como prestadora de serviço público essencial, responde perante o consumidor em face do seu dever de fornecer serviços adequados, eficientes e seguros. Por isso que, naturalmente, aplica-se a teoria estática na distribuição do ônus, sendo da empresa prestadora de serviços públicos a aptidão natural para comprovar a perfeição no fornecimento de energia elétrica ao tempo dos fatos que motivaram a demanda, sob pena de responder pelos danos ocasionados. Além disso, em que pese a previsão de instrumentos processuais em favor da parte mais fraca seja uma realidade, deve-se ponderar a sua utilização em ordem ao cumprimento da finalidade que lhes dá razão de existir, qual seja, a busca do equilíbrio no âmbito do processo. E nisso se inclui a possibilidade de inversão do ônus da prova, assim disposta no art. 6º, VIII, do CDC:  ..  Alinhando-se a este contexto as peculiaridades do caso concreto, em que a causa de pedir imputa a responsabilidade da concessionária de energia elétrica, tenho que concorrem tanto o requisito da verossimilhança das alegações quando o da hipossuficiência da parte autora/agravada. E, no mesmo compasso, não vejo irrazoabilidade na determinação da inversão do ônus da prova, já que não há imposição de realização de prova negativa e não é encargo processual impossível ou dificultoso à ré, não obstante o seja à parte autora."
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.184.432/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
