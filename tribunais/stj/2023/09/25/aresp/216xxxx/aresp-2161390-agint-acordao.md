@@ -1,0 +1,132 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO IRREGULAR. DESERÇÃO.
+1. Não instruído o recurso com a guia de recolhimento (corretamente preenchida) e o comprovante de pagamento, ambos legíveis, considera-se irregular o preparo. Precedentes.
+2. Não havendo comprovação do preparo no ato da interposição do recurso, a parte recorrente será intimada para sanar o vício, sob pena de deserção (artigo 1.007, caput e § 4º, CPC/2015). Precedentes. No caso, intimada para regularizar o preparo, a parte recorrente não o fez dentro do prazo estabelecido.
+3. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula 187 do STJ).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão da Presidência do Superior Tribunal de Justiça (STJ), que, por reputar deserto o recurso especial, deixou de conhecer do agravo a ele conexo.
+Para a parte agravante, a pena de deserção não foi bem aplicada, pois o comprovante de recolhimento do preparo foi protocolado juntamente com a petição do recurso especial, a demonstrar que o pagamento foi efetuado, sendo que a ausência de juntada da correspondente guia de custas configura irregularidade sanável, na forma do artigo 932 da Lei 13.105/2015 (Código de Processo Civil - CPC).
+Explica que a determinação de regularização do preparo, mediante apresentação da guia de pagamento, foi cumprida, incluindo-se o recolhimento dobrado.
+É o relatório.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 2.161.390 - RS (2022/0202541-7)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+PIVA AGRO COMERCIAL LTDA
+ADVOGADO
+:
+RODOLFO KIST DE MELLO - RS072954
+AGRAVADO
+:
+ALTEMIR LUIZ MOCELLIN
+AGRAVADO
+:
+VANEZA MOCELLIN
+ADVOGADOS
+:
+AUGUSTO FRAGOMENI OLIVAES - RS058961
+DANIELA MENIN OLIVAES - RS071817
+MARIA EDUARDA FRAGOMENI OLIVAES - RS102165
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO IRREGULAR. DESERÇÃO.
+1. Não instruído o recurso com a guia de recolhimento (corretamente preenchida) e o comprovante de pagamento, ambos legíveis, considera-se irregular o preparo. Precedentes.
+2. Não havendo comprovação do preparo no ato da interposição do recurso, a parte recorrente será intimada para sanar o vício, sob pena de deserção (artigo 1.007, caput e § 4º, CPC/2015). Precedentes. No caso, intimada para regularizar o preparo, a parte recorrente não o fez dentro do prazo estabelecido.
+3. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula 187 do STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Antes de passar ao exame das objeções apresentadas no agravo interno, esclareço que o recurso especial foi interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. CONTRATOS AGRÁRIOS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. CONFISSÃO DE DÍVIDA. GARANTIA HIPOTECÁRIA. AVERBAÇÃO DA EXISTÊNCIA DA EXECUÇÃO NA MATRÍCULA DO IMÓVEL DA APELANTE. ALEGADA IMPENHORABILIDADE ANALISADA NA V. SENTENÇA. PEQUENA PROPRIEDADE RURAL. PROTEÇÃO CONSTITUCIONAL. REQUISITOS. ÔNUS DA PROVA. CLÁUSULA PENAL NO PERCENTUAL DE 20%. 1. A IMPENHORABILIDADE DA PEQUENA PROPRIEDADE RURAL, SEM ESPECIFICAR A NATUREZA DA DÍVIDA, ACABOU POR EXPLICITAR A EXATA EXTENSÃO DO COMANDO CONSTITUCIONAL EM COMENTO, INTERPRETADO SEGUNDO O PRINCÍPIO HERMENÊUTICO DA MÁXIMA EFETIVIDADE. IMPENHORABILIDADE DA PEQUENA PROPRIEDADE RURAL QUE NECESSITA DO PREENCHIMENTO DE DOIS REQUISITOS: I) QUE A DIMENSÃO DA ÁREA SEJA QUALIFICADA COMO PEQUENA, NOS TERMOS DA LEI DE REGÊNCIA; E II) QUE A PROPRIEDADE SEJA TRABALHADA PELO AGRICULTOR E SUA FAMÍLIA. NÃO SE EXIGE QUE O IMÓVEL SEJA A MORADIA DO EXECUTADO, MAS QUE O BEM SEJA O MEIO DE SUSTENTO DO EXECUTADO E DE SUA FAMÍLIA, QUE ALI DESENVOLVERÁ A ATIVIDADE AGRÍCOLA. ENTENDIMENTO DO STJ, COM O QUAL SE ALINHA ESTE ÓRGÃO FRACIONÁRIO, DE QUE RESTANDO COMPROVADO PELO PRODUTOR RURAL QUE O SEU IMÓVEL SE ENQUADRA NAS DIMENSÕES DA PEQUENA PROPRIEDADE RURAL, A EXPLORAÇÃO DO IMÓVEL PARA SUA SUBSISTÊNCIA FICA PRESUMIDA. TRATA-SE DE PRESUNÇÃO JURIS TANTUM, CABENDO À PARTE CONTRÁRIA DESFAZÊ-LA, COMPROVANDO NÃO SER CASO DE IMPENHORABILIDADE. IMÓVEL QUE NÃO PERFAZ SEQUER UM MÓDULO FISCAL, JUSTIFICANDO O RECONHECIMENTO DA IMPENHORABILIDADE. 2. PRETENSÃO DE REDUÇÃO DA CLÁUSULA PENAL QUE NÃO SE JUSTIFICA À LUZ DO ART. 413 DO C.CIVIL, POIS AUSENTE MONTANTE MANIFESTAMENTE EXCESSIVO OU VANTAGEM EXAGERADA PARA UMA DAS PARTES. RECURSO PROVIDO EM PARTE.
+No recurso especial, a parte exequente, ora agravante, alega que o acórdão recorrido contrariou o artigo 833 da Lei 13.105/2015 (Código de Processo Civil - CPC) porque deixou de afastar a impenhorabilidade de imóvel rural.
+Como assinalado no relatório do presente voto, o agravo interno investe contra a deserção do recurso especial, reconhecida pela Presidência do Superior Tribunal de Justiça (STJ).
+À primeira objeção da parte agravante, posso responder que a comprovação do preparo do recurso não é satisfeita tão somente com a juntada do comprovante de pagamento das custas, como ela defende. Conforme demonstrado na decisão agravada, a jurisprudência do STJ orienta que a juntada da guia de recolhimento (correspondente àquele pagamento) também é imprescindível. A propósito, leia-se o seguinte fragmento:
+Mediante análise do recurso de PIVA AGRO COMERCIAL LTDA, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebeu-se, no Tribunal de origem, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou.
+Veja que intimada para regularizar o preparo em 7/4/2022 (fl. 257), a parte só se manifestou em 19/4/2022 (fls. 259/264), fora do prazo legal de 5 (cinco) dias.
+Ao rejeitar o pedido declaratório da parte exequente, a Presidência do STJ, apoiada na jurisprudência da Casa, reafirmou a necessidade de apresentação da guia de recolhimento, não só do comprovante de pagamento. Observe-se:
+Cumpre esclarecer, conforme já consignado na decisão ora embargada, que agora se repete, que a petição de recurso especial foi protocolada, na origem, sem a respectiva guia de recolhimento, apesar de presente o comprovante de pagamento das custas (fl. 216).
+Desse modo, não comprovou o preparo no ato da interposição do recurso, uma vez que essa comprovação é realizada por meio da juntada, concomitante, da guia relativa às custas devidas ao Superior Tribunal de Justiça e seu respectivo comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando-se a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que apresentou intempestivamente a petição e os documentos de fls. 260/264.
+Veja-se que intimada para regularizar o preparo em 7/4/2022 (fl. 257), a parte só se manifestou em 19/4/2022 (fls. 259/264), fora do prazo legal de 5 (cinco) dias. No caso, o próprio sistema eletrônico do Tribunal de origem registrou prazo final como sendo 14/4/2022 (fl. 256 e 258).
+Ainda, cabe ressaltar que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Do mesmo modo, certidão do Tribunal de origem, lavrada por servidor público nos autos do processo, atestando a regularidade do preparo do recurso, além de não impedir o reexame desse requisito pelo Superior Tribunal de Justiça, é insuficiente para o fim proposto, pois "a jurisprudência desta Corte Superior é iterativa no sentido de que a regularidade do preparo deve ser demonstrada mediante juntada de cópia das Guias de Recolhimento de Custas e de Porte de Remessa e Retorno (GRU), acompanhada do respectivo comprovante de pagamento, sob pena de deserção". (AgRg no AREsp 662.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/11/2015.)
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Nesse assunto, está certa a Presidência do STJ, que, ao determinar a distribuição do presente agravo interno, rejeitou a pretensão de retratação. Para comprovar a regularidade do preparo do recurso especial, a parte deve apresentar, no ato de interposição, tanto a guia de recolhimento, corretamente preenchida, como o respectivo comprovante de pagamento. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/2015. INTEMPESTIVIDADE. FERIADO LOCAL NÃO COMPROVADO, NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC/2015. PRECEDENTES DO STJ E DO STF. PREPARO RECURSAL. JUNTADA SOMENTE DO COMPROVANTE DE PAGAMENTO. AUSÊNCIA DA GUIA DE RECOLHIMENTO (GRU). INTIMAÇÃO PARA SANAR O VÍCIO. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência - firmada sob a égide do CPC/73 -, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe de 15/10/2012).
+III. O CPC/2015, porém, não possibilita a mitigação ao conhecimento de recurso intempestivo. De fato, nos casos em que a decisão recorrida tenha sido publicada na vigência do novo CPC, descabe a aplicação da regra do art. 932, parágrafo único, do CPC/2015, para permitir a correção do vício, com a comprovação posterior da tempestividade do recurso. Isso porque o CPC/2015 acabou por excluir a intempestividade do rol dos vícios sanáveis, conforme se extrai do seu art. 1.003, § 6º("O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), e do seu art. 1.029, § 3º ("O Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave"). Nesse sentido: STJ, AgInt no AREsp 957.821/MS, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe de 19/12/2017; AgInt no REsp 1.626.179/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2017; AgInt no AREsp 991.944/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 05/05/2017; AgInt no AREsp 975.392/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 05/05/2017; AgInt no AREsp 1.017.097/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 09/05/2017; AgInt no AREsp 1.005.100/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 29/05/2017.
+IV. No mesmo sentido o entendimento do STF (ARE 1.033.168 AgR/RJ, Rel. Ministro DIAS TOFFOLI, SEGUNDA TURMA, DJe de 18/09/2017).
+V. A necessidade de comprovação do feriado local, no ato da interposição do recurso, por meio de documento idôneo, restou reafirmada pela Corte Especial, em 02/10/2019, no julgamento do REsp 1.813.684/SP, modulando-se, todavia, os efeitos da decisão, em razão dos princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, de modo que o entendimento por ela firmado fosse aplicado tão somente aos recursos interpostos após a publicação do acórdão daquele apelo nobre, o que ocorrera em 18/11/2019 (STJ, REsp 1.813.684/SP, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 18/11/2019). Em Questão de Ordem, de relatoria da Ministra NANCY ANDRIGHI, julgada em 03/02/2020 (DJe de 28/02/2020), a Corte Especial do STJ reconheceu que a tese firmada por ocasião do julgamento do referido REsp 1.813.684/SP, no que relativo à modulação de efeitos, é restrita ao feriado de segunda-feira de carnaval - o que não é a hipótese dos presentes autos -, não se aplicando aos demais feriados locais.
+VI. Novamente reafirmando sua posição sobre o tema, a Corte Especial do STJ, na sessão de 19/05/2021, julgando o AgInt no AREsp 1.481.810/SP, concluiu, por maioria, nos termos do voto proferido pela Ministra NANCY ANDRIGHI, que deve ser mantida a restrição firmada, na mencionada Questão de Ordem, à modulação de efeitos do julgado quanto ao feriado local, de maneira que incida ela tão somente no feriado de segunda-feira de carnaval.
+VII. No caso, o acórdão recorrido foi publicado em 05/07/2019, sexta-feira - na vigência do CPC/2015 -, sendo o Recurso Especial interposto somente em 30/07/2019, terça-feira, após o transcurso do prazo recursal de 15 dias úteis.
+VIII. No presente Agravo interno, a parte recorrente alega que "o prazo começou a fluir em 10/07/2019, visto a suspensão do expediente do dia 08/07 o feriado de comemoração da Revolução Constitucionalista do dia 09/07, no Estado de São Paulo". Sucede que a suspensão do prazo recursal, na origem, não foi comprovada, por ocasião da interposição do Recurso Especial, quando já vigente o CPC/2015, o que impossibilita sua comprovação posterior, à luz do que dispõem os arts. 1.003, § 6º, e 1.029, § 3º, do CPC/2015.
+IX. A partir da vigência do CPC/2015, a comprovação da ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser realizada no momento de sua interposição, não se admitindo a comprovação posterior - como pretende a parte agravante -, ressalvada a modulação de efeitos operada, no REsp 1.813.684/SP, quanto à segunda-feira de carnaval.
+X. Ademais, deixando a parte recorrente de juntar aos autos, no momento da interposição do recurso, a Guia de Recolhimento da União (GRU), acostando somente o comprovante de pagamento, é de se declarar deserto o Recurso Especial, mormente quando a parte, devidamente intimada para sanar o vício, em cinco dias, sob pena de não conhecimento do recurso, não cumpre a determinação, no prazo fixado, conforme certificado nos autos. Incidência da Súmula 187/STJ.
+XI. Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 1.615.160/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2022, DJe de 23/3/2022.)
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. PREPARO. GUIA DE RECOLHIMENTO. AUSÊNCIA. REGULARIZAÇÃO. INTIMAÇÃO. NÃO CUMPRIMENTO. DESERÇÃO.
+1. "É insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União" (AgRg nos EAREsp 562.945/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, DJe 15.6.2015).
+2. Hipótese em que, regularmente intimada, a parte não sanou o vício, deixando de apresentar a guia de recolhimento e o recolhimento em dobro, de modo que não há como afastar a incidência da Súmula 187 desta Corte, descabendo nova intimação para regularização.
+3. Agravo desprovido.
+(AgInt no RMS n. 64.734/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INTEMPESTIVIDADE. PREPARO. FALTA DE COMPROVAÇÃO. AGRAVO (ART. 1.042 DO CPC/2015). INTEMPESTIVIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo legal de 15 (quinze) dias úteis, nos termos do art. 1.003, § 5º, c/c o art. 219, caput, do CPC/2015.
+2. Segundo a orientação jurisprudencial do Superior Tribunal de Justiça, "é insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento" (AgRg nos EAREsp 562.945/SP, Rel. Min. João Otávio de Noronha, Corte Especial, DJe de 15.6.2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.729.654/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/5/2021, DJe de 9/6/2021.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PREPARO. GUIA DE RECOLHIMENTO DA UNIÃO. AUSÊNCIA. DESERÇÃO. SÚMULA 187/STJ. AGRAVO NÃO PROVIDO.
+1. O acórdão recorrido foi publicado antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso especial, portanto, sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Conforme o artigo 511 do Código de Processo Civil de 1973, compete à parte recorrente demonstrar a efetivação do preparo no ato de interposição do recurso, sob pena de deserção.
+3. "É insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União" (AgRg nos EAREsp 562.945/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 15.6.2015).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.644.821/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO. INADMISSIBILIDADE. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA.
+1. Conforme orientação jurisprudencial do STJ, a demonstração do dissenso interpretativo, suscitado em sede de embargos de divergência, exige cotejo analítico entre o julgado paradigma e o embargado, a fim de evidenciar que, diante do mesmo contexto fático, adotaram-se conclusões diferentes quanto ao direito federal aplicável, não cumprindo tal exigência a mera transcrição de ementas de julgados.
+2. Sob o CPC/2015, permanecem as exigências relativas à apresentação da divergência jurisprudencial, nos termos de seu art. 1.043, § 4º.
+3. A decisão da Terceira Turma coaduna-se com a orientação desta Corte Superior. Com efeito, a Corte Especial do STJ fixou entendimento de que é "insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União" (AgRg nos EAREsp 562.945/SP, Relator Ministro João Otávio de Noronha, Corte Especial, DJe 15/6/2015).
+4. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 917.155/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 12/9/2018, DJe de 18/9/2018.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO ESPECIAL. DESERÇÃO. AUSÊNCIA DE JUNTADA DAS GUIAS DE RECOLHIMENTO DA UNIÃO. APRESENTAÇÃO APENAS DO COMPROVANTE DE PAGAMENTO. ARTIGO 511, CAPUT, CPC/73. SÚMULA Nº 187 DO STJ. COMPROVANTE DE CUSTAS JUDICIAIS ILEGÍVEL. FUNDAMENTO NÃO IMPUGNADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi interposto apenas com a juntada dos comprovantes de pagamento, sem a juntada das respectivas guias de recolhimento.
+3. É pacífico o entendimento do Superior Tribunal de Justiça de que a ausência das Guias de Recolhimento da União com a indicação do número de referência do processo e do código de receita definido na resolução vigente impossibilita a identificação do devido recolhimento, o que implica a deserção do recurso.
+4. A decisão agravada consignou que o comprovante de pagamento do preparo se encontra ilegível, impossibilitando a verificação de sua regularidade. Este fundamento não foi impugnado nas razões do presente agravo interno.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.056.629/AM, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/8/2017, DJe de 6/9/2017.)
+A segunda objeção articulada pela parte agravante, pertinente ao cumprimento da determinação de regularização do preparo, também não procede.
+Consoante certificado pela Corte de origem (e demonstrado pela Presidência do STJ), não se cumpriu a determinação no prazo estabelecido, o que impõe a declaração de deserção. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO. APELAÇÃO. DESERÇÃO EM RAZÃO DA INSUFICIÊNCIA DO PREPARO. NECESSIDADE DE INTIMAÇÃO DO RECORRENTE PARA A COMPLEMENTAÇÃO DO PREPARO. ART. 1.007, § 2º, DO CPC/2015. RECURSO ESPECIAL PROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do recurso especial por ausência de impugnação específica de todos os fundamentos da decisão de admissibilidade. Reconsideração.
+2. A insuficiência no valor do preparo só implicará deserção se o recorrente, intimado, não vier a supri-lo no prazo de cinco dias (CPC/2015, art. 1.007, § 2º).
+3. "No ato de interposição do recurso, deverá ser comprovado o preparo, sob pena de deserção. Na insuficiência do valor, o recorrente será intimado para supri-lo em cinco dias" (AgInt no AREsp 1.125.510/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2017, DJe de 18/12/2017).
+4. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.599.097/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/5/2020, DJe de 18/5/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RECOLHIMENTO DO PREPARO. IRREGULARIDADE. NÚMERO DE AUTUAÇÃO DO PROCESSO. REGULARIZAÇÃO. PROVIDÊNCIA NÃO TOMADA, APESAR DA INTIMAÇÃO DA RECORRENTE. AUSÊNCIA. DESERÇÃO.
+1. É dever do recorrente o correto recolhimento do preparo no momento da interposição do recurso.
+2. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção.
+3. Apesar de intimada nos termos do § 7º do art. 1.007 do CPC/2015 para regularizar o recolhimento das custas judiciais - com a indicação do número do processo na origem -, a parte recorrente deixou de tomar as providências cabíveis.
+4. Esta Corte possui o entendimento de que a irregularidade no preenchimento das guias do preparo no ato da interposição do recurso caracteriza a sua deserção, sendo inviável nova intimação para sanar o vício.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.435.121/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 26/9/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A SUA DESERÇÃO. INSURGÊNCIA RECURSAL DA RÉ.
+1. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015).
+2. É dever da recorrente apontar o correto preenchimento das guias de recolhimento que compõem às custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.796.899/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 6/9/2019.)
+Desse modo, não tendo sido observado o prazo para regularização do preparo, tampouco comprovada/demonstrada a ocorrrência de motivo justo para assim não fazê-lo, não há como afastar a deserção.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
