@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ.
+1. Ausente violação do art. 1.022 do CPC, pois o Tribunal de origem efetivamente enfrentou a questão e concluiu que houve violação ao dever de informação por parte da agravante, considerando a inexistência de ciência inequívoca do segurado sobre a cláusula limitativa, a dúvida interpretativa sobre a cláusula bem como sua abusividade.
+2. Afastar a abusividade da cláusula que limitou a cobertura do seguro bem como a violação ao dever de informação exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão e reanálise de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Agravo improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CAIXA VIDA E PREVIDENCIA S.A. contra decisão monocrática de minha relatoria em que conheci do agravo para não conhecer do recurso especial em razão da Súmula n. 7/STJ (fls. 784-789).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA assim ementado (fl. 496):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVER DE INFORMAÇÃO. COBERTURA PARA DOENÇA GRAVE. MOLÉSTIA NÃO PREVISTA NA CLÁUSULA DE RISCOS COBERTOS. CLÁUSULA RESTRITIVA. MÍNGUA DE PROVAS SOBRE A PRÉVIA CIÊNCIA DO SEGURADO. AFRONTA AO DEVER DE INFORMAÇÃO. EXEGESE DO ART. 46 DO CÓDIGO CONSUMERISTA. INTERPRETAÇÃO MAIS FAVORÁVEL AO CONSUMIDOR. ART. 47 DO CÓDEX CONSUMERISTA. LAUDO PERICIAL INEQUÍVOCO QUANTO À INCAPACIDADE DO AUTOR PARA O LABOR. SENTENÇA REFORMADA, NO PONTO. INDENIZAÇÃO POR DANOS MORAIS. INADIMPLEMENTO CONTRATUAL. MERO ABORRECIMENTO CONSEQUENCIAL. "A CONCESSÃO DA VERBA REPARATÓRIA A TÍTULO DE INDENIZAÇÃO POR DANO MORAL PRESSUPÕE A EXISTÊNCIA DE UM FATO COM EFICÁCIA PARA CAUSAR ABALO PSICOLÓGICO AO OFENDIDO, SEJA PELO SOFRIMENTO PSÍQUICO INTERNO, SEJA PELA DESONRA PÚBLICA. NOUTROS TERMOS, O INCÔMODO SOFRIDO, POR SI SÓ, NÃO DÁ MARGEM À INDENIZAÇÃO POR DANOS ANÍMICOS. É PRECISO QUE RESTE CONFIGURADO O PREJUÍZO MORAL". (AC N. 0324795-60.2015.8.24.0023, DA CAPITAL - CONTINENTE, REL. LUIZ CÉZAR MEDEIROS, QUINTA CÂMARA DE DIREITO CIVIL, J. 28-5-2019). REDISTRIBUIÇÃO DOS ÔNUS DA SUCUMBÊNCIA. RECURSO PARCIALMENTE PROVIDO.
+Rejeitados os embargos de declaração opostos (fl. 525).
+Alega a agravante que "houve nova violação ao disposto no artigo 1.022 do CPC, visto que o e. STJ deixou de analisar os fundamentos do recurso da ora agravante, proferindo decisão igualmente genérica, tal qual a proferida pelo TJSC, que NÃO analisou a (in)existência de cobertura na apólice de seguro de vida discutida na demanda"(fl. 795).
+Sustenta, outrossim, que "ao deixar de analisar a documentação apresentada nos autos e a integralidade das alegações feitas pelas partes, a Câmara violou o artigo 489 do CPC" (fl. 796).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada não apresentou contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ.
+1. Ausente violação do art. 1.022 do CPC, pois o Tribunal de origem efetivamente enfrentou a questão e concluiu que houve violação ao dever de informação por parte da agravante, considerando a inexistência de ciência inequívoca do segurado sobre a cláusula limitativa, a dúvida interpretativa sobre a cláusula bem como sua abusividade.
+2. Afastar a abusividade da cláusula que limitou a cobertura do seguro bem como a violação ao dever de informação exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão e reanálise de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+Agravo improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não deve ser provido, pois as razões da parte agravante não são capazes de refutar a decisão agravada.
+Não subsiste a alegada violação do art. 1.022 do CPC. O Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento e concluiu que deve prevalecer a indenização securitária, tendo em vista a violação do dever de informação por parte da agravante e considerando a inexistência de ciência inequívoca do segurado sobre a cláusula limitativa, a dúvida interpretativa sobre a cláusula bem como sua abusividade.
+Veja-se trecho do acórdão recorrido (fl. 498):
+Na hipótese vertente, o seguro contratado possui cláusula com a seguinte cobertura disposta na apólice: "Cobertura Doença Grave: R$ 20.000,00" (Evento 1, INF7, da origem). Não existe qualquer ressalva nos certificados individuais que indique quais são essas doenças.
+Com efeito, da leitura da supramencionada disposição parece evidente que serão indenizados quaisquer sinistros resultantes de doenças graves, até porque "o normal quando alguém contrata um seguro é fazê-lo de forma abrangente, descurando-se de especificidades acerca das inúmeras hipóteses de exclusão da cobertura unilateralmente impostas pela seguradora e que, por vezes, contrariam a própria destinação maior do contrato aderido" (AC n. 2013.045764-9, de São José, rel. Marcus Tulio Sartorato, Terceira Câmara de Direito Civil, j. 27-08-2013).
+Outrossim, conforme leitura do "Anexo I - Condições Gerais" (Evento 1, INF8, da origem), o procedimento realizado pelo autor - colonoscopia - conta da tabela de cálculo para indenização a título de invalidez total ou permanente, na proporção de 40% (quarenta por cento). Nesse norte, revela-se injusta a negativa da apelante, utilizando-se do "Anexo II" das "Condições Especiais - Coberturas para Doenças Graves - CDG" para demonstrar que seriam cobertos decorrentes unicamente as doenças constantes neste anexo.
+Quanto ao mérito, para afastar o entendimento de que houve violação d o dever de informação apto a garantir a cobertura securitária pleiteada, seria imprescindível reexame das provas constantes dos autos, especialmente das cláusulas contratuais, o que é defeso na via especial, ante o que preceituam as Súmulas n. 5 e 7 do STJ.
+Nesse sentido:
+2. O exame da pretensão recursal para afastar a abusividade da cláusula que limitou a cobertura do seguro somente para casos avançados da doença grave diagnosticada exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão, reinterpretação da apólice, o que é vedado em sede de recurso especial, nos termos dos enunciados de Súmula 5 e 7 do STJ.
+(AgInt no AREsp n. 1.952.510/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+5. Alterar o entendimento do Tribunal de origem, a fim de concluir que as cláusulas restritivas foram redigidas de modo claro, sendo expressas e de fácil compreensão - como pretende a ora agravante -, demandaria o reexame dos fatos e das provas, bem como nova interpretação dos termos pactuados, o que é vedado em recurso especial.
+(AgInt no REsp n. 1.986.758/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+2. Não se mostra viável, em julgamento de recurso especial, rever o posicionamento do Tribunal estadual acerca da ciência do contratante a respeito das cláusulas contratuais limitativas, uma vez que tal exame requer o revolvimento de matéria fático-probatória, o que é inviável dada a incidência da Súmula 7/STJ
+(AgInt no AREsp n. 2.082.598/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
