@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  DANIEL FERNANDES DA SILVA  contra  decisão  do  Tribunal  de  Justiça  do  Estado  de São Paulo  que  inadmitiu  recurso  especial  fundamentado  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  da  República,  manifestado  contra  acórdão  prolatado  na  Apelação  Criminal  n.  1500734-02.2020.8.26.0348.
+O  Ministério  Público  Federal  opinou  pelo  desprovimento  do  agravo  (fls.  316-320).
+É  o  relatório.  Decido.
+O  agravo  em  recurso  especial  não  reúne  condições  de  admissibilidade,  pois  não  foram  concretamente  impugnados  os  fundamentos  da  decisão  agravada.
+No  caso,  a  Corte  de  origem  não  admitiu  o  recurso  especial  em  razão  dos óbices das Súmula n. 283/STF, 282/STF, 356/STF, 83/STJ e 269/STJ.  Porém,  nas  razões  do  agravo  contra  essa  decisão,  o  Agravante  não  impugnou  concretamente  estes  fundamentos.
+Com  efeito,  para  impugnar  o  óbice  da  ausência  de  prequestionamento,  o  Agravante  deveria  ter  apontado,  com  clareza  e  precisão,  em  que  momento  do  acórdão  estadual cada uma das teses ventiladas no recurso especial  teriam  sido  efetivamente  debatidas  pelo  Tribunal  de  origem,  o  que  não  foi  observado.  Desse  modo,  não  é  possível  considerar  como  efetivamente  impugnado  os  óbices  da  s  Súmulas  n.  282 e 356/STF.
+Ressalte-se  que  "a  exigência  constitucional  do  prequestionamento  é  inafastável,  sendo  um  dos  principais  pressupostos  ao  conhecimento  do  recurso  especial,  inclusive  quando  se  tratar  de  questão  que  se  alegue  ser  de  ordem  pública"  (AgRg  no  AREsp  n.  1.813.448/SP,  Rel.  Ministra  LAURITA VAZ,  Sexta  Turma,  julgado  em  10/05/2022,  DJe  16/05/2022).
+De outra parte, em relação à Súmula n. 83/STJ, a Corte estadual aplicou a jurisprudência pacífica desta Corte Superior no sentido de que: a) não há bis in idem no emprego de condenações distintas para configurar os maus antecedentes e a reincidência; e b) a existência de circunstância judicial desfavorável autoriza a imposição de regime inicial mais gravoso.
+Em razão de ter sido aplicada a jurisprudência desta Corte Superior na decisão de inadmissão, a impugnação concreta a este fundamento exigiria que o agravante demonstrasse analiticamente a inaplicabilidade dos julgados invocados na decisão agravada ou colacionasse outros julgados, contemporâneos ou posteriores, evidenciando de forma particularizada a similitude fática entre eles, o que igualmente não foi observado.
+Sobre o tema, confira-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. RECURSO DESPROVIDO.
+1. Não havendo impugnação específica de fundamento da decisão que não conheceu do agravo em recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+ ..
+4. Agravo regimental desprovido." (AgRg no AREsp 1.680.090/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/09/2022, DJe 21/09/2022; sem grifos no original).
+Diante da ausência de impugnação concreta e efetiva aos fundamentos empregados pela decisão agravada, não é possível o conhecimento do agravo, conforme se extrai da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ressalte-se que a decisão que inadmite o recurso especial é incindível e deve ser impugnada em sua integralidade, razão pela qual a ausência de impugnação concreta de qualquer um dos fundamentos nela constantes implica o não conhecimento de todas as teses suscitadas no recurso (EAREsp n. 701.404/SC, Rel. para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+
+AGRAVO  EM  RECURSO  ESPECIAL.  PENAL  E  PROCESSUAL  PENAL.  LESÃO CORPORAL E AMEAÇA.  MINUTA  DE  AGRAVO  QUE  NÃO  INFIRMA  ESPECIFICAMENTE  OS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INCIDÊNCIA  DA  SÚMULA  N.  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  AGRAVO  NÃO  CONHECIDO.
