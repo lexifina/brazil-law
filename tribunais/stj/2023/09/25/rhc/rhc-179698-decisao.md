@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por CAROLINE CARVALHO VIEIRA MARQUES apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará, no julgamento do Habeas Corpus n. 0621699-53.2023.8.06.0000.
+Daí o presente recurso, no qual a defesa se insurge contra a prisão cautelar, pois: a) a recorrente possui condições favoráveis e é mãe de dois menores de 12 anos; b) verifica-se, no caso, a ocorrência de excesso de prazo para o término da instrução processual; c) o decreto preventivo utilizou os mesmos argumentos relativos a corréu, em evidente ausência de individualização das condutas; d) carece o decreto de fundamentação idônea, ante a ausência dos requisitos ensejadores da prisão preventiva, nos termos do art. 312 do Código de Processo Penal; e) configurada a participação de menor importância da recorrente; f) o crime de lavagem de dinheiro não envolve violência ou grave ameaça, sendo de menor gravidade, do que se conclui que a conduta da acusada não possui periculosidade; g) "o princípio da homogeneidade penal beneficia a suplicante, uma vez que, em caso de condenação, é improvável que ela cumpra pena em regime fechado ou semiaberto. Ademais, há clara possibilidade de aplicação de penas restritivas de direitos, o que seria compatível com a natureza econômica do delito e com as condições pessoais da ré" (e-STJ fl. 151); h) há possibilidade, na espécie, de aplicação de medidas cautelares diversas da prisão.
+Assim, requer (e-STJ fls. 159/160):
+a) RELAXE liminarmente a prisão da Recorrente por EXCESSO DE PRAZO para o término da formação da culpa bem como para o julgamento do processo, considerado a margem excessiva de quase 01 (um) ano de prisão provisória para uma ação penal com apenas 2 réus e desprovida de complexidade, sem perícias, sem flagrante, tendo a defesa colaborado para o andamento do feito desde o início.
+b) Revogar liminarmente a prisão preventiva da Recorrente por ausência de fundamentação no decreto preventivo, tudo à luz da Lei nº 13.964/2019, posto que desproporcional à acusação, inclusive sem violência, sem prejuízo a alguém, sendo apenas esposa do corréu;
+c) Revogar liminarmente a prisão preventiva da Recorrente, substituindo a prisão por medidas cautelares diversas da prisão, conforme mandamento do art. 319 do Código de Processo Penal Brasileiro, em razão de constar respondência a processo, sendo as medidas cautelares proporcionais ao caso; d) Requer a dispensa das informações à Autoridade Coatora, tendo em vista em anexo constar a cópia integral e atualizada do procedimento de primeira instância e demais documentos além do processo ser virtual e de fácil acesso no sítio eletrônico do TJCE;
+e) Determinar a intimação do Ministério Público para que, na condição de custos legis, profira parecer atinente ao caso;
+f) No mérito, dignem-se Vossas Excelências de conceder a ordem, ressuscitando a indevida e ilegalmente restrita liberdade do Recorrente, revogando, relaxando ou substituindo a prisão preventiva nas formas requeridas liminarmente.
+O pedido liminar foi indeferido.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do pressente inconformismo.
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porque as informações extraídas do endereço eletrônico do Tribunal de Justiça esclareceram que a recorrente foi condenada à pena de 3 anos de reclusão, a ser cumprida no regime aberto, substituída a sanção privativa de liberdade por medidas restritivas de direitos, com a correspondente expedição de alvará de soltura.
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
