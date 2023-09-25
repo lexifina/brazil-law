@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MATHEUS HENRIQUE RIOS DE ALMEIDA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS que inadmitiu o recurso especial, com fundamento na Súmula 7 do STJ.
+Consta dos autos que o recorrente havia sido condenado em primeira instância à pena de 1 ano e 4 meses de reclusão, no regime inicial aberto, e ao pagamento de 40 dias-multa, pela prática do crime tipificado no artigo 171, caput, por oito vezes, na forma do art. 71 do Código Penal. A reprimenda foi substituída por duas penas restritivas de direitos.
+Em sede de apelação, a pena foi redimensionada para 5 meses e 10 dias de reclusão, mantido o regime inicial aberto, além do pagamento de 10 dias-multa. Substituída a pena privativa de liberdade por uma restritiva de direitos.
+Inconformado, o recorrente interpôs recurso especial, com fulcro no artigo 105, III, "a", da Constituição Federal, o qual não foi admitido na origem diante do óbice da Súmula 7 do STJ.
+Nas razões do especial, aponta o recorrente a violação do artigo 59 do Código Penal, sustentando que a "circunstância judicial culpabilidade foi valorada inadequadamente, reproduzindo elementos inerentes ao delito, como também foi inadequadamente valorada a vetorial circunstâncias do crime, dado também ter sido fixada a partir de elementos inerentes ao tipo penal" (fl. 415).
+Requer o provimento do agravo para que seja admitido o recurso especial para, ao final, ver reduzida a pena-base ao mínimo legal.
+Apresentada a contraminuta, o Ministério Público Federal manifestou-se pelo desprovimento do agravo em recurso especial.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passo, portanto, à análise do mérito.
+Ao julgar a apelação, o Tribunal de origem redimensionou a pena imposta, tendo o acórdão restado assim fundamentado (e-STJ fls. 372/373):
+2. Das penas
+Na primeira fase da dosimetria, analisando as circunstâncias judiciais do art. 59 do CP, o magistrado considerou desfavoráveis a culpabilidade e as circunstâncias do crime, fixando a pena-base em 02 (dois) anos de reclusão, nos seguintes termos:
+"A culpabilidade é intensa, já que o réu agiu de forma premeditada, pois tão logo pegou o cartão, se dirigiu as lojas que queria, inclusive de grifes famosas, e efetuou compras vultosas; ( ) as circunstâncias são desfavoráveis, pois o réu era amigo do titular do cartão, tinha a senha por sempre saírem juntos e prevaleceu desta situação para apossar do documento que estava na casa da vítima; (..)"
+Verifica-se dos autos que a valoração negativa da culpabilidade e das consequências se deu com base em dados concretos e apresenta fundamentação idônea, o que deve ser mantido.
+Assim, mantida a pena-base acima do mínimo legal em 02 (dois) anos de reclusão.
+Na segunda fase, foi reconhecida a atenuante da confissão espontânea, passando a pena intermediária para 01 (um) ano e 04 (quatro) meses de reclusão.
+Na terceira fase o magistrado sentenciante entendeu que a causa de aumento de pena da continuidade delitiva (oito vezes, art. 71, CP) e a causa de diminuição do arrependimento posterior possuem o mesmo patamar de 2/3 (dois terços) tendo em vista que a reparação ocorreu poucos dias após o crime, o que deve ser mantido, porém as considerou compensadas.
+Neste ponto, necessário a reforma da pena, vez que a compensação entre as causas de diminuição e de aumento da pena viola a garantia de individualização, pela inobservância do critério trifásico previsto pelo art. 68, do CP, devendo ser aplicada sucessivamente a causa de diminuição e posteriormente a causa de aumento, ou vice- versa, porque o resultado é o mesmo, mas não anular as duas causas, supostamente compensando-as, já que o resultado aritmético será prejudicial ao réu, porque apresentará valor superior do que aquele apurado em decorrência dos cálculos.
+A propósito:
+ ..
+Dessa forma, aplicando-se a causa de diminuição de pena do arrependimento posterior na pena intermediária fixada em 01 (um) ano e 04 (quatro) meses de reclusão, na fração de 2/3, chega-se ao quantum de 05 (cinco) meses e 10 (dez) dias de reclusão. Em seguida, aplicando-se a causa de aumento de pena da continuidade delitiva na fração de 2/3, tem-se a pena de 08 (oito) meses e 26 (vinte e seis) dias de reclusão.
+Nesses termos, corrigindo a pena aplicada, fixo a pena, definitivamente, em 08 (oito) meses e 26 (vinte e seis) dias de reclusão, mantendo-se o regime inicial de cumprimento da pena no aberto, nos termos do art. 33, §2º, "c", do Código penal.
+Em relação a pena de multa, restando a pena definitiva inferior a pena mínima do tipo penal, fixo a pena de multa no mínimo legal de 10 (dez) dias-multa, mantendo o dia-multa no patamar arbitrado de 1/30 do salário-mínimo vigente à época.
+Mantenho a substituição da pena corpórea por pena restritiva de direito, no entanto , restando a condenação inferior a um ano e superior a 06 (seis) meses, a substituição se dará por somente UMA pena restritiva de direito (art. 44, § 2º do CP), ficando mantida apenas a pena pecuniária, devendo ser reduzida para 01 (um) salário mínimo, valor que se mostra proporcional ao caso concreto e destinado à vítima que, em caso de recusa, seja destinado a uma instituição beneficente à escolha do Juízo da Execução.
+Ante o exposto, acolho o parecer da Procuradoria-Geral de Justiça, conheço o recurso e dou-lhe parcial provimento para reduzir a pena corpórea fixada e de consequência a pena de multa, substituindo-a por uma restritiva de direitos, conforme delineado, mantendo os demais termos da sentença.
+Consoante a jurisprudência do Superior Tribunal de Justiça, "A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no REsp 1918901/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/05/2021, DJe 20/05/2021).
+A circunstância judicial da culpabilidade pode ser compreendida como maior ou menor censurabilidade do comportamento do agente, maior ou menor reprovabilidade da conduta praticada. O fato de o crime ter sido cometido com premeditação e mediante compras vultosas constitui fundamento concreto e idôneo apto a ensejar o aumento da pena-base.
+Ademais, a circunstância de o recorrente ter se aproveitado da amizade com a vítima, por conhecer a senha do cartão em razão de sempre saírem juntos e se apossar do documento na casa dela , é elemento não inerente ao tipo penal e apto a exasperar a pena-base.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO E ASSOCIAÇÃO CRIMINOSA. VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP NÃO CONSTATADA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CULPABILIDADE DO AGENTE E CIRCUNSTÂNCIAS DO CRIME. MAIOR GRAVIDADE DOS DELITOS. ELEMENTOS CONCRETOS. AGRAVO DESPROVIDO.
+1. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, porquanto deve ser respeitada a discricionariedade vinculada do julgador na análise dos fatos
+2. No caso, a pena-base foi aumentada em razão da maior reprovabilidade das condutas (culpabilidade e circunstâncias dos crimes), evidenciada pela premeditação e planejamento das ações, a complexa estrutura e as diversas pessoas enganadas, além do fato de o recorrente pertencer ao núcleo intelectual da associação. Trata-se de fundamentação idônea, baseada em elementos concretos, cuja avaliação está situada no campo da discricionariedade do julgador.
+Sendo assim, não é possível desconsiderar a valoração negativa das circunstâncias judiciais, como pretende o agravante.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.969.935/TO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS NEGATIVAS. FUNDAMENTAÇÃO IDÔNEA.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. As instâncias ordinárias apontaram motivação suficiente e idônea para exasperar a pena-base pela culpabilidade, circunstâncias e consequências do crime de estelionato.
+3. A elevada reprovabilidade da conduta foi devidamente justificada, uma vez que a agravante, proprietária de clínica de saúde, falsificou assinatura de médico de sua confiança, com o qual tinha relacionamento profissional há cerca de 10 anos, além de não se preocupar com a vida das pessoas examinadas, pois não estava habilitada para confeccionar laudos de exames radiológicos.
+4. Não se verifica a arguida ilegalidade, ainda, quanto às circunstâncias da infração, tendo em vista a premeditação do crime e o longo período de tempo em que as condutas ilícitas foram praticadas.
+5. As consequências apontadas, da mesma forma, são suficientes para motivar a maior intensidade da lesão jurídica causada pelos crimes de estelionato, visto que a empresa lesada teve que refazer cerca de 800 exames.
+6. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.803.780/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/8/2021, DJe de 3/9/2021.)
+Destarte, estando o acórdão recorrido em consonância com o entendimento firmado pelo Superior Tribunal de Justiça, impõe-se a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
