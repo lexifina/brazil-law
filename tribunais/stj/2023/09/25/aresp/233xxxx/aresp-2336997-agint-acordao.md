@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. ENERGIA ELÉTRICA. COBRANÇA POR ESTIMATIVA. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. TEMA DIRIMIDO COM BASE EM RESOLUÇÃO DA ANEEL. INVIABILIDADE DA ANÁLISE DE ATO NORMATIVO INFRALEGAL NO ÂMBITO DO APELO NOBRE. ART. 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada pelo consumidor, com o fim de obter declaração de inexigibilidade do débito de energia elétrica, assim como a condenação da Energisa Rondônia - Distribuidora de Energia S/A pelos danos morais decorrentes da suspensão indevida do serviço .
+2. O tema da ilicitude da conduta da concessionária foi dirimido com base na Resolução n. 414/2010 da ANEEL. Assim, o exame da controvérsia demandaria a interpretação da referida resolução, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+3. A matéria pertinente ao art. 884 do CC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incidem os óbices das Súmulas 282 e 356 do STF.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Energisa Rondônia - Distribuidora de Energia S/A desafiando decisão da Presidência do Superior Tribunal de Justiça, que conheceu do agravo para não conhecer do recurso especial, sob os fundamentos de que: (I) não se conhece da alegada ofensa aos arts. 2º e 3º, I, ambos da Lei n. 9.427/1996; e 31, IV, da Lei n. 8.987/1995, pois o exame da controvérsia, tal como dirimida pela instância de origem, demandaria a interpretação da Re solução n. 414/2010 da Aneel, ato normativo que não se enquadra no conceito de tratado ou lei federa l de que cuida o art. 105, III, a, da Constituição Federal; e (II) incidem as Súmulas 282 e 356 do STF, por ausência de prequestionamento do art. 884 do CC.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) "É de se impor a análise reflexa da Res. 414/2010 para entender que ocorrerá o enriquecimento ilícito do agravado, caso se mantenha o julgado da forma que está." (fl. 217); e (II) o requisito do prequestionamento foi atendido, pois a questão do enriquecimento ilícito "foi examinada pela Corte de origem, inclusive havendo menção expressa em contrarrazões" (fl. 218).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada não apresentou impugnação (fl. 224).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. ENERGIA ELÉTRICA. COBRANÇA POR ESTIMATIVA. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. TEMA DIRIMIDO COM BASE EM RESOLUÇÃO DA ANEEL. INVIABILIDADE DA ANÁLISE DE ATO NORMATIVO INFRALEGAL NO ÂMBITO DO APELO NOBRE. ART. 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada pelo consumidor, com o fim de obter declaração de inexigibilidade do débito de energia elétrica, assim como a condenação da Energisa Rondônia - Distribuidora de Energia S/A pelos danos morais decorrentes da suspensão indevida do serviço .
+2. O tema da ilicitude da conduta da concessionária foi dirimido com base na Resolução n. 414/2010 da ANEEL. Assim, o exame da controvérsia demandaria a interpretação da referida resolução, ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+3. A matéria pertinente ao art. 884 do CC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incidem os óbices das Súmulas 282 e 356 do STF.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não merece prosperar.
+Na origem, cuida-se de ação de procedimento ordinário ajuizada por João Batista de Jesus com o fim de obter declaração de inexigibilidade do débito de energia elétrica assim como a condenação da Energisa Rondônia - Distribuidora de Energia S/A pelos danos morais decorrentes da suspensão indevida do serviço de energia elétrica.
+A sentença de piso julgou improcedentes os pedidos, tendo sido reformada pelo Tribunal de Justiça do Estado de Rondônia, que acolheu os pedidos iniciais.
+Nas razões do apelo nobre, a concessionária agravante apontou violação aos arts. 2º e 3º, I, ambos da Lei n. 9.427/1996; e 31, IV, da Lei n. 8.987/1995, sustentando a regularidade dos procedimentos adotados. Aduziu, ainda, que a manutenção do acórdão recorrido implica enriquecimento sem causa da parte autora, o que é vedado pelo art. 884 do CC.
+A decisão agravada, por sua vez, concluiu que, embora a agravante tenha apontado ofensa a dispositivos de lei federal, tal violação seria meramente reflexa, porquanto exige juízo anterior de norma infralegal, providência que refoge à competência do Superior Tribunal de Justiça. Quanto ao art. 884 do CC, ficou consignada a aplicação dos óbices previstos nas Súmulas 282 e 356 do STF, ante a ausência de prequestionamento.
+Já no presente agravo interno, a Energisa Rondônia - Distribuidora de Energia S/A discorda dos fundamentos supracitados.
+Sem razão, contudo.
+Ao concluir pela ilicitude da conduta da parte ora agravante, a Corte e stadual adotou os seguintes fundamentos (fl. 121):
+O cerne da questão no feito cinge-se à aferição de validade dos débitos oriundos de consumo de energia elétrica rural não faturado oportunamente - verificação plurimensal -, bem como o corte no fornecimento advindo desse.
+O serviço público de energia elétrica objeto dos autos está abrangido pelo Código de Defesa do Consumidor, consoante disposição do art. 22, razão pela qual devem ser observadas às regras dispostas na legislação consumerista, de modo a evitar eventuais desequilíbrios entre as partes, especialmente em virtude da hipossuficiência do consumidor em relação ao fornecedor.
+A teor do que estabelece o art. 14, caput, do CDC, a concessionária prestadora do serviço público responde, na forma objetiva, pelo fato do serviço, observadas as determinações contidas no art. 22 do mesmo diploma legal.
+De acordo com o art. 87, §1º, da Resolução 414/2010 da ANEEL, cabe ao consumidor dar livre acesso aos funcionários da concessionária de energia elétrica para a efetiva leitura do consumo de energia.
+No entanto, determina à concessionária que, tão logo seja caracterizado o impedimento, informe ao consumidor, por escrito, sobre a obrigação de manter livre o acesso à unidade consumidora e sobre a possibilidade da suspensão do fornecimento.
+Ainda que seja considerado que o apelante pagava as faturas apenas pela média e que a leitura real realizada pelos prepostos da requerida apurou consumo superior, infere-se do conjunto probatório que o consumidor não foi advertido, de forma clara e expressa, de que a dificuldade de acesso ao medidor de consumo para leitura poderia gerar a recuperação nos meses anteriores, o que viola o direito de informação assegurado da Legislação Consumerista, bem como o art. 87, §1º, da Resolução 414/2010, da Aneel.
+Da leitura dos excertos ora transcritos , constata-se que o tema relacionado à ilicitude da conduta da agravante foi dirimido por meio da exegese da Resolução n. 414/2010 da Aneel. Assim, não se viabiliza o recurso especial quanto ao ponto, dada a necessidade de interpretar ato normativo que não se enquadra no conceito de tratado ou lei federal.
+De outro turno, não cabe afastar as Súmulas 282 e 356 do STF, porquanto não houve análise do alegado enriquecimento ilícito da parte autora, nem o tema foi agitado nos embargos de declaração opostos pela parte ora agravante.
+Note-se que o trecho apontado à fl. 218 não supre o requisito do prequestionamento, pois, co nforme afirmado pela própria agravante, trata-se de "menção expressa em contrarrazões", sem qualquer análise da controvérsia pela instância a quo.
+Portanto, não há motivos para a reforma da decisão agravada, a qual deve ser confirmada pelo Colegiado.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
