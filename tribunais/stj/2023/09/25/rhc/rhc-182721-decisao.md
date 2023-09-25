@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANA CLAUDIA PAULA GONCALVES, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A recorrente foi presa em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de tráfico de drogas.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 156-167 .
+No presente recurso ordinário, a recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar. Pondera, neste sentido, que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, bem como que possuiria condições pessoais favoráveis.
+Requer, ao final, a substituição da prisão preventiva por medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi deferida e as informações foram prestadas às fls. 200-255.
+O Ministério Público Federal manifestou-se pelo provimento do recurso, no parecer de fls. 258-262.
+É o relatório.
+Decido.
+No caso dos autos, os fundamentos que dão suporte à prisão preventiva da recorrente, presa em flagrante com 3,90g de maconha e 3,75g de crack, não se ajustam à orientação jurisprudencial desta Corte, uma vez que a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública, ressaltando-se, ainda, a manifestação favorável à revogação da prisão preventiva pelo Ministério Público Federal.
+Acrescento que a recorrente é primária, possui circunstâncias pessoais favoráveis e o crime que lhe foi imputado foi cometido sem violência, razões pelas quais a prisão não se mostra necessária. Em tais hipóteses, esta Corte Superior tem entendido pela possibilidade de substituição da prisão preventiva por medidas diversas do encarceramento.
+Nesse sentido, a jurisprudência desta Corte Superior:
+"A prisão preventiva somente se justifica na hipótese de impossibilidade que, por instrumento menos gravoso, seja alcançado idêntico resultado acautelatório" (HC n. 126.815, Relator Ministro MARCO AURÉLIO, Relator p/ acórdão Ministro EDSON FACHIN, Primeira Turma, julgado em 4/8/2015, publicado em 28/8/2015)." (AgRg no HC n. 653.443/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/4/2021).
+"Além disso, de acordo com a microrreforma processual procedida pela Lei n. 12.403/2011 e com os princípios da excepcionalidade (art. 282, § 4.º, parte final, e § 6.º, do CPP), provisionalidade (art. 316 do CPP) e proporcionalidade (arts. 282, incisos I e II, e 310, inciso II, parte final, do CPP), a prisão preventiva há de ser medida necessária e adequada aos propósitos cautelares a que serve, não devendo ser decretada ou mantida caso intervenções estatais menos invasivas à liberdade individual, enumeradas no art. 319 do CPP, mostrem-se, por si sós, suficientes ao acautelamento do processo e/ou da sociedade." (AgRg no HC n. 803.633/SP, Sexta Turma, Rel. Min.ª Laurita Vaz, DJe de 28/3/2023, grifei)
+Assim, a imposição de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, se mostra suficiente, por ora, para resguardar a ordem pública e a conveniência da instrução penal.
+Ante o exposto, dou provimento ao recurso ordinário, para, confirmando a liminar anteriormente deferida, revogar a prisão preventiva decretada em desfavor da recorrente, salvo se por outro motivo estiver presa, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, devendo ser impostas, a critério do juízo de primeiro grau, medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Publique-se e intime-se.
+ EMENTA
