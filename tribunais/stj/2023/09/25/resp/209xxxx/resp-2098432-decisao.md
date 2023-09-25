@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE ALAGOAS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO DAS SUCESSÕES E TRIBUTÁRIO. INVENTÁRIO. PLEITO NO SENTIDO DE IMPOSSIBILIDADE DE CONCESSÃO DE ISENÇÃO PELO PODER JUDICIÁRIO. NECESSIDADE DE LEI. STJ. POSSIBILIDADE DE CONCESSÃO DA BENESSE. PRECEDENTES DESTA CORTE. ISENÇÃO DO ITCD - IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE QUAISQUER BENS OU DIREITOS NA TRANSMISSÃO DE BEM IMÓVEL. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação dos arts. 111 e 179 do Código Tributário Nacional, aduzindo a impossibilidade de concessão de isenção tributária no caso concreto em virtude da ausência de lei que a preveja.
+Houve contrarrazões ao recurso especial (e-STJ fls. 207/214)
+É o relatório. Decido.
+Da leitura do aresto combatido depreende-se que a questão referente à ausência de lei estadual concessiva da isenção não foi alvo das discussões travadas na origem, limitando-se a Corte local a examinar a hipossuficiência da ora recorrida.
+A ausência de debate acerca da tese específica trazida ao apelo nobre pelo Tribunal local inviabiliza o exame da controvérsia em virtude da carência de necessário prequestionamento (Súmula n. 211/STJ).
+A propósito:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. MILITAR. SISTEMA REMUNERATÓRIO E BENEFÍCIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ. INCIDÊNCIA DA SÚMULA N. 211/STJ E POR ANALOGIA OS ENUNCIADOS N. 282 E 356 DO STF. FALTA DE CARACTERIZAÇÃO DA DIVERGÊNCIA.
+I - Na origem, trata-se de ação ordinária com pedido de tutela provisória de urgência antecipada em desfavor da União Federal objetivando provimento jurisdicional que assegure, em tutela de urgência, o imediato restabelecimento do pagamento dos proventos do autor nos valores correspondentes ao posto de Segundo Tenente, bem como, em julgamento de mérito, a confirmação do pedido realizado em tutela de urgência, a restituição dos valores descontados em dobro e, ainda, que a União seja condenada ao pagamento de quantia indenizatória a título de danos morais. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.910.923/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. ITCD. ISENÇÃO. AUSÊNCIA DE PREVISÃO NA LEGISLAÇÃO ESTADUAL. CARÊNCIA DE NECESSÁRIO PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
