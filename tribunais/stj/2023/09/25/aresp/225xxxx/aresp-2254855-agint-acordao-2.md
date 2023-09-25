@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  ERRO  MÉDICO.  PRODUÇÃO  DE  PROVA  PERICIAL.  PRECLUSÃO  DA  MATÉRIA.  NÃO  CABIMENTO.  FACULDADE  DO  MAGISTRADO.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  acolher  a  pretensão  recursal  quanto  à  desnecessidade  de  produção  de  prova  pericial  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  a  teor  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JANETE  JULIANA  MOREIRA  NOGUEIRA  (fls.  2.975-2.988,  e-STJ) contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ.
+Em  suas  razões,  a  agravante  reitera  a  violação  dos  arts.  218,  223,  507,  1.000  e  1.014  do  Código  de  Processo  Civil ao  argumento  de  que  houve  preclusão  da  matéria  relativa  ao  pedido  de  produção  de  prova  pericial.
+Segundo  afirma,  a  "(..)  decisão  do  d.  Juízo  de  1º  grau  não  acolheu  a  pretensão  do  agravado  de  produção  de  perícia  médica,  ele  não  se  insurgiu  com  a  interposição  de  qualquer  recurso"  (fl.  2.984,  e-STJ).
+Além  disso,  reitera  que  "(..)  o  agravado  induziu  a  turma  julgadora  em  erro  ao  inovar  nos  embargos  de  declaração  o  pedido  de  produção  de  perícia  médica  dos  exames  juntados  aos  autos"  (fl.  2.986,  e-STJ).
+Refuta  o  óbice  da  Súmula  nº  7/STJ,  defendendo  a  possibilidade de  revaloração  da  prova,  conforme  entendimento  do  Superior  Tribunal  de  Justiça,  sendo  possível  "(..) atribuir  o  devido  valor  jurídico  a  fato  incontroverso,  sobejamente  reconhecido  nas  instâncias  ordinárias"  (fls.  29-86,  e-STJ).
+Ao  final,  requer  o  provimento  do  recurso  para  reconhecer  a  violação  dos  arts. 218,  223,  507,  1.000  e  1.014  do  CPC  para  anular  o  acórdão  que  acolheu  os  embargos  de  declaração  da  parte  adversa.
+A  parte  contrária  impugnou  o  recurso  às  fls.  2.977-3.018  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  ERRO  MÉDICO.  PRODUÇÃO  DE  PROVA  PERICIAL.  PRECLUSÃO  DA  MATÉRIA.  NÃO  CABIMENTO.  FACULDADE  DO  MAGISTRADO.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Na  hipótese,  acolher  a  pretensão  recursal  quanto  à  desnecessidade  de  produção  de  prova  pericial  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  a  teor  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Os  argumentos  expendidos  nas  razões  do  agravo  interno  são  insuficientes  para  autorizar  a  reforma  da  decisão  atacada.
+Conforme  assinalado  na  decisão  recorrida,  o  acórdão  estadual  afastou  a  alegada  preclusão  da  matéria  relativa  à  produção  de  prova  pericial  amparado  na  seguinte  fundamentação:
+"(..)
+Como  bem  destacou  a  decisão  agravada,  indiscutível  a  necessidade  da  produção  da  prova  pericial  dos  documentos  produzidos  no  dia  do  evento,  com  vistas  a  identificar  se  o  atendimento  oferecido  ao  embargado  constituiu  erro  médico,  bem  como  se  as  consequências  desse  fato  guardam  alguma  relação  com  os  problemas  cardíacos  apresentados  pelo  paciente  posteriormente.
+A  decisão  esclarece  ainda,  "que  o  indeferimento  de  sua  produção  caracteriza  cerceamento  de  defesa  e,  portanto,  a  nulidade  do  julgamento"  (ID  129455661  -  Pág.  5).
+Além  disso,  incumbe  ao  magistrado  analisar  a  necessidade  e  utilidade  da  prova.  No  caso,  em  que  pese  o  Juízo  de  origem  entender  que  a  perícia  não  era  necessária,  julgou  improcedente  o  pleito  autoral  ao  fundamento  de  que  não  havia  se  desincumbido  de  provar  que  houve  o  erro  médico  durante  o  atendimento.  Justificada  assim  a  necessidade  da  análise  técnica  dos  documentos  trazidos  ao  processo  de  modo  a  verificar  se  o  atendimento  prestado  foi  o  adequado  ou  se  se  mostrou  negligente  diante  dos  indícios  trazidos  pelos  exames  que  o  paciente  realizou  naquele  dia.
+Ressalte-se  que  o  pedido  de  perícia  médica  foi  formulado  desde  a  petição  inicial  e  reiterada  por  diversas  vezes,  de  modo  que  não  é  o  caso  de  se  julgar  precluso  o  momento  para  formular  o  pedido.
+Ainda  que  assim  não  fosse,  a  norma  processual  permite  ao  magistrado,  até  mesmo  de  ofício,  determinar  a  produção  de  provas  que  entender  necessárias  à  análise  do  litígio"  (fl.  2.640,  e-STJ).
+Nesse  contexto,  a  revisão  dos  fundamentos  do  julgado  estadual  no  tocante  à  ausência  de  preclusão  da  matéria  exigiria, por  parte  do  Superior  Tribunal  de  Justiça,  o  reexame  de  matéria  fática,  procedimento  vedado  na  estreita  via  do  recurso  especial,  consoante  disposto na  Súmula  nº  7/STJ
+Por  outro  lado,  reitera-se  que  o  destinatário  final  da  prova  é  o  juiz  a  quem  cabe  avaliar  quanto  à  sua  efetiva  conveniência  e  necessidade,  advindo  daí  a  possibilidade  de  indeferimento  das  diligências  inúteis  ou  meramente  protelatórias,  em  consonância  com  o  disposto  no  art.  370,  parágrafo  único,  do  CPC.
+Desse modo,  afastar  o  entendimento  do  acórdão  impugnado  quanto  à  necessidade  de  produção  prova  pericial  requerida  pela  parte  adversa  ensejaria  o  reexame  do  contexto  fático-probatório,  procedimento  inadmissível  em  recurso  especial,  nos  termos  d a  Súmula  nº  7/STJ:  "A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+Nessa  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  INTERPOSTO  SOB  A  ÉGIDE  DO  NCPC.  AGRAVO  DE  INSTRUMENTO.  LIQUIDAÇÃO  DE  SENTENÇA.  IMPUGNAÇÃO.  PERÍCIA  JUDICIAL.  REALIZAÇÃO  DE  NOVOS  CÁLCULOS  CONTÁBEIS.  POSSIBILIDADE.  ADEQUAÇÃO  AOS  PARÂMETROS  DO  TÍTULO  JUDICIAL.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7  DO  STJ.  INCIDÊNCIA  DA  MULTA  DO  ART.  1.021,  §  4º,  DO  NCPC.  AGRAVO  NÃO  PROVIDO.
+1.  Aplicabilidade  do  NCPC  neste  julgamento  conforme  o  Enunciado  Administrativo  nº  3  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  O  Tribunal  de  origem  concluiu  que  a  opção  da  perícia  por  utilizar  método  de  cálculo  linear  incompatível  com  o  objeto  da  condenação,  além  de  deixar  de  considerar  o  decréscimo  de  vendas  dos  diferentes  formatos  de  mídia  existentes  no  mercado  ao  longo  dos  anos  (LP"s  e  CD"s),  resultou  em  um  quantum  debeatur  que  não  traduz  o  objetivo  da  sentença.
+(..)
+7.  A  hipótese  dos  autos  abrange  longo  período  de  apuração  dos  valores  devidos  na  condenação  -  1964  até  2014  -,  ou  seja,  50  anos,  demandando  solução  que  se  ajuste  à  complexidade  fática  da  causa,  sendo  tal  mister  de  competência  das  instâncias  de  cognição  plena. Rever  as  conclusões  das  instâncias  ordinárias  quanto  a  necessidade  da  realização  de  nova  perícia  é  pretensão  que  também  demandaria  o  reexame  do  conjunto  fático-probatório,  incidindo,  novamente,  o  óbice  da  Súmula  nº  7  do  STJ.
+8.  Em  razão  da  improcedência  do  presente  recurso,  e  da  anterior  advertência  em  relação  à  incidência  do  NCPC,  recai  no  caso  a  multa  prevista  no  art.  1.021,  §  4º,  do  NCPC,  no  percentual  de  1%  sobre  o  valor  atualizado  da  causa,  ficando  a  interposição  de  qualquer  outro  recurso  condicionada  ao  depósito  da  respectiva  quantia,  nos  termos  do  §  5º  daquele  artigo  de  lei.
+9.  Agravo  interno  não  provido,  com  imposição  de  multa"  . (AgInt  no  AREsp  nº  1.048.407/RJ,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  DJe  30/4/2018  -  grifou-se).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
