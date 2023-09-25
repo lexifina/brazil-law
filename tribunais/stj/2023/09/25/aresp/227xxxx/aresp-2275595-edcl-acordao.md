@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. ISSQN. SERVIÇO NOTARIAL E DE REGISTRO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Mediante análise do recurso, a parte recorrente foi intimada da decisão agravada em 17/10/2022, sendo o agravo somente interposto em 09/11/2022.
+IV - Conforme decidiu a Corte Especial do Superior Tribunal de Justiça, "à luz da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, ostentam natureza oficial, gerando para as partes que as consultam a presunção de correção e confiabilidade. Desse modo, uma vez lançada a informação, no calendário judicial, disponibilizado pelo site do Tribunal de origem, da existência de suspensão local de prazo, deve ser considerada idônea a juntada desse documento pela parte para fins de comprovação do feriado local" (EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023.)
+V - Com efeito, embora a parte embargante tenha razão no que tange à juntada de documento idôneo para comprovação de suspensão forense, verifica-se que houve erro na contagem do prazo para interposição do agravo, o qual foi interposto apenas no 16º dia do prazo, justamente o dia seguinte ao seu termo final. Dessa forma, a conclusão do decisum permanece inalterada.
+VI - No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão que julgou agravo interno.
+O recurso foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. IN TEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - A parte recorrente foi intimada da decisão agravada em 17/10/2022, sendo o agravo somente interposto em 09/11/2022. O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+II - Aplica-se ao recurso o Enunciado Administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." III - A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso.
+IV - Recentemente, a Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de carnaval. Permite-se assim, que a parte comprove, posteriormente à interposição do recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de segunda-feira de carnaval.
+V - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+VI - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante os seguintes vícios no acórdão embargado:
+ ..
+Ocorre, Vossas Excelências, que às fls. 297 destes autos principais, o Embargante acostou o respectivo CALENDÁRIO, bem como às fls. 298/299 também dos autos principais, este Peticionário juntou as SUSPENSÕES DE PRAZO DE SEGUNDO GRAU.
+ ..
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. ISSQN. SERVIÇO NOTARIAL E DE REGISTRO. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Mediante análise do recurso, a parte recorrente foi intimada da decisão agravada em 17/10/2022, sendo o agravo somente interposto em 09/11/2022.
+IV - Conforme decidiu a Corte Especial do Superior Tribunal de Justiça, "à luz da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, ostentam natureza oficial, gerando para as partes que as consultam a presunção de correção e confiabilidade. Desse modo, uma vez lançada a informação, no calendário judicial, disponibilizado pelo site do Tribunal de origem, da existência de suspensão local de prazo, deve ser considerada idônea a juntada desse documento pela parte para fins de comprovação do feriado local" (EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023.)
+V - Com efeito, embora a parte embargante tenha razão no que tange à juntada de documento idôneo para comprovação de suspensão forense, verifica-se que houve erro na contagem do prazo para interposição do agravo, o qual foi interposto apenas no 16º dia do prazo, justamente o dia seguinte ao seu termo final. Dessa forma, a conclusão do decisum permanece inalterada.
+VI - No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+VII - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Mediante análise do recurso de Osmar Pereira da Silva, a parte recorrente foi intimada da decisão agravada em 17/10/2022, sendo o agravo somente interposto em 9/11/2022.
+Conforme decidiu a Corte Especial do Superior Tribunal de Justiça, "à luz da Lei 11.419/2006, que dispõe sobre a informatização do processo judicial, as informações processuais disponibilizadas por meio da internet, na página eletrônica de Tribunal de Justiça ou de Tribunal Regional Federal, ostentam natureza oficial, gerando para as partes que as consultam a presunção de correção e confiabilidade. Desse modo, uma vez lançada a informação, no calendário judicial, disponibilizado pelo site do Tribunal de origem, da existência de suspensão local de prazo, deve ser considerada idônea a juntada desse documento pela parte para fins de comprovação do feriado local" (EAREsp n. 1.927.268/RJ, relator Ministro Raul Araújo, Corte Especial, julgado em 19/4/2023, DJe de 15/5/2023.)
+Com efeito, embora a parte embargante tenha razão no que tange à juntada de documento idôneo para comprovação de suspensão forense, verifica-se que houve erro na contagem do prazo para interposição do agravo, o qual foi interposto apenas no 16º dia do prazo, justamente o dia seguinte ao seu termo final. Dessa forma, a conclusão do decisum permanece inalterada.
+No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
