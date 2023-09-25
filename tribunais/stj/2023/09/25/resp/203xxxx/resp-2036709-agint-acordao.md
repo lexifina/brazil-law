@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO . FIXAÇÃO. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. "No que tange ao cabimento de honorários advocatícios na fase de execução, considerando-se que a decisão proferida em agravo de instrumento é dotada de efeito substitutivo, nos termos do art. 1.008 do CPC ("O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso"), uma vez reconhecido que o acórdão recorrido se amparou em premissa equivocada, competirá ao Tribunal de origem reapreciar o agravo de instrumento, dando-lhe a solução que entender de direito, hipótese que não caracterizará supressão de instância" (AgInt nos EDcl no REsp 1.883.863/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCO GERALDO ABRAHÃO SCHORR e OUTROS contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS NO CUMPRIMENTO DE SENTENÇA IMPUGNADO PELA FAZENDA PÚBLICA. CABIMENTO. ART. 85, § 7º, DO CPC/2015. RECURSO ESPECIAL DOS PARTICULARES A QUE SE DÁ PROVIMENTO (fl. 428).
+A parte agravante sustenta que os honorários advocatícios devem ser fixados pelo J uízo de primeiro grau, sob pena de supressão de instância.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão julgador competente.
+Com impugnação às fls. 554/561.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO . FIXAÇÃO. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. "No que tange ao cabimento de honorários advocatícios na fase de execução, considerando-se que a decisão proferida em agravo de instrumento é dotada de efeito substitutivo, nos termos do art. 1.008 do CPC ("O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso"), uma vez reconhecido que o acórdão recorrido se amparou em premissa equivocada, competirá ao Tribunal de origem reapreciar o agravo de instrumento, dando-lhe a solução que entender de direito, hipótese que não caracterizará supressão de instância" (AgInt nos EDcl no REsp 1.883.863/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022).
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A decisão agravada concluiu que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual o cumprimento de sentença impugnado enseja a fixação de honorários sucumbenciais, e determinou que a sua fixação seja feita pelo Tribunal de origem.
+A parte agravante aduz que os honorários advocatícios deverão ser fixados pelo Juízo do primeiro grau de jurisdição, e não pelo Tribunal de origem, sob pena de supressão de instância.
+No caso em questão, "no que tange ao cabimento de honorários advocatícios na fase de execução, considerando-se que a decisão proferida em agravo de instrumento é dotada de efeito substitutivo, nos termos do art. 1.008 do CPC ("O julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso"), uma vez reconhecido que o acórdão recorrido se amparou em premissa equivocada, competirá ao Tribunal de origem reapreciar o agravo de instrumento, dando-lhe a solução que entender de direito, hipótese que não caracterizará supressão de instância" (AgInt nos EDcl no REsp 1.883.863/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/5/2022, DJe de 2/6/2022).
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SENTENÇA QUE NEGOU PROVIMENTO A AGRAVO DE INSTRUMENTO, POSTERIORMENTE CONFIRMADA PELO TRIBUNAL DE ORIGEM. APELO NOBRE PROVIDO E DETERMINAÇÃO DE RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA REAPRECIAR O AGRAVO DE INSTRUMENTO À LUZ DE NOVA PREMISSA JURÍDICA. DESNCESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE 1º GRAU. SUPRESSÃO DE INSTÂNCIA. NÃO OCORRÊNCIA.
+1. Cuida-se na origem de agravo instrumento interposto pela parte ora agravante contra decisão proferida nos autos do cumprimento de sentença em desfavor do IPERGS, que indeferiu a fixação de honorários advocatícios.
+2. Na forma da jurisprudência desta Corte, "é cabível a condenação em honorários advocatícios no cumprimento de sentença contra a Fazenda Pública cujo pagamento ocorrerá através do regime de precatório, na hipótese de apresentação de impugnação pelo devedor, em observância ao art. 85, § 7º, do CPC/2015" (AgInt no REsp n. 1.881.747/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/11/2021.).
+3. O agravo de instrumento é dotado de efeito devolutivo, permitindo ao Tribunal ad quem reexaminar a questão resolvida pela decisão interlocutória de que se recorre, sendo certo que o decisum que vier ser prolatado pela Corte também é dotado de efeito substitutivo. Inteligência dos arts. 1.008 e 1.015 do CPC. Nesse sentido: AgInt no AREsp n. 649.912/ES, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 12/11/2020; REsp n. 1.913.033/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 25/6/2021.
+4. No caso concreto, reconheceu-se que a decisão proferida pela Corte estadual se amparou em premissa jurídica equivocada -impossibilidade de fixação de honorários advocatícios de sucumbência na hipótese sub judice. Considerando-se a inviabilidade de arbitramento da verba honorária desde já, em virtude do óbice da Súmula 7/STJ, devem os autos retornar ao Tribunal de origem.
+5. Nessa toada, verifica-se que os julgados citados pela parte ora agravante - EDcl no REsp 1.893.146/RS e EDcl no AgInt nos EDcl no REsp 1.889.062/RS (relator Ministro MAURO CAMPBELL MARQUES, DJe de 26/8/2021 e DJe de 27/9/2021, respectivamente) - encontram-se dissonantes da jurisprudência majoritária desta Corte, com a qual se alinha, por sua vez, a decisão ora agravada.
+6. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 1.998.524/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
