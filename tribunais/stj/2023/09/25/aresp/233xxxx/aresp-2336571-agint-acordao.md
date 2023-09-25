@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SÚMULA N. 7/STJ. SÚMULA N. 13/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Em síntese, cuida-se de agravo de instrumento interposto contra decisão proferida nos autos de cumprimento de sentença, que não conheceu da impugnação apresentada em decorrência de sua intempestividade.
+2. O recurso especial interposto foi inadmitido pelo Tribunal de origem com fundamento na ausência de afronta ao art. 248, § 4º, do CPC e nas Súmulas n. 7 e 13/STJ.
+3. Incide o óbice da Súmula n. 182/STJ quando a parte agravante não se opõe efetivamente aos óbices da inadmissão, porquanto é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por SOMPO SEGUROS S.A. contra decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, por meio da qual aplicou a Súmula n. 182 do STJ (fls. 285-286).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 166):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - COMANDO QUE NÃO CONHECEU DA DEFESA APRESENTADA PELO EXECUTADO, EM RAZÃO DO RECONHECIMENTO DE SUA INTEMPESTIVIDADE - TESE DE NULIDADE DE CITAÇÃO - NECESSIDADE DE APRECIAÇÃO - MATÉRIA DE ORDEM PÚBLICA - ATO CITATÓRIO REALIZADO POR CORREIO - AVISO DE RECEBIMENTO ASSINADO POR FUNCIONÁRIO DA PORTARIA - PRESUNÇÃO DE VALIDADE DA CITAÇÃO NA FORMA DO DISPOSTO NO ARTIGO 248, § 4º, DO CPC/15, ELIDIDA PELOS ELEMENTOS DE PROVA CARREADOS NOS AUTOS PELO EXECUTADO - INAPLICABILIDADE DA TEORIA DA APARÊNCIA AO CASO CONCRETO - NULIDADE DO ATO CITATÓRIO CARACTERIZADA, O QUE IMPÕE TAMBÉM A ANULAÇÃO DO TÍTULO EXECUTIVO JUDICIAL - IMPUGNAÇÃO ACOLHIDA - DEVOLUÇÃO DO PRAZO DE DEFESA DO RÉU - RECURSO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 182-185).
+Alega a parte agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei. Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Sustenta que (fl. 293):
+ ..  com a leitura do recurso de Agravo em RESP é possível concluir que a agravante expõe que o debate trazido à tona não implica em reexame de matéria fático-probatória, muito pelo contrário, é dito que houve negativa de vigência ao artigo248, §4º do Código de Processo Civil.
+Argumenta, ainda, que (fls. 293-294):
+ ..  ao contrário do que restou exposto no bojo da r. decisão ora recorrida, o agravo em recurso especial infirmou o único fundamento que levou à inadmissão do Recurso Especial, porquanto foi suscitado que a questão em voga versa sobre a declaração de nulidade do processo quando o Código de Processo Civil permite o prosseguimento do feito.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, silenciou (fl. 300).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SÚMULA N. 7/STJ. SÚMULA N. 13/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Em síntese, cuida-se de agravo de instrumento interposto contra decisão proferida nos autos de cumprimento de sentença, que não conheceu da impugnação apresentada em decorrência de sua intempestividade.
+2. O recurso especial interposto foi inadmitido pelo Tribunal de origem com fundamento na ausência de afronta ao art. 248, § 4º, do CPC e nas Súmulas n. 7 e 13/STJ.
+3. Incide o óbice da Súmula n. 182/STJ quando a parte agravante não se opõe efetivamente aos óbices da inadmissão, porquanto é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Em síntese, cuida-se de agravo de instrumento interposto por GUIDO REGGIANI NETO contra decisão proferida nos autos de cumprimento de sentença, que não conheceu da impugnação apresentada em decorrência de sua intempestividade.
+O Tribunal de origem deu provimento ao agravo de instrumento, anulando a decisão do processo de origem e determinando a devolução do prazo para defesa do réu, tendo em vista a inexistência de citação válida (fls. 165-172).
+O recurso especial interposto por SOMPO SEGUROS S.A. foi inadmitido pelo Tribunal a quo, por entender que: a) a parte recorrente não demonstrou de que forma o acórdão recorrido teria violado o art. 248, § 4º, do CPC; b) as razões recursais têm óbice na Súmula n. 7/STJ; e c) não se admite recurso especial por divergência entre julgados do mesmo Tribunal, conforme o disposto na Súmula n. 13/STJ.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência das Súmulas n. 7 e 13 do STJ.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
