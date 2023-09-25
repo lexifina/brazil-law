@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. DOSIMETRIA. FRAÇÃO DE AUMENTO DA PENA-BASE. ADEQUAÇÃO E PROPORCIONALIDADE. REGIME MAIS GRAVOSO. LEGALIDADE. REVISÃO DA CONDENAÇÃO E PRISÃO DOMICILIAR. NÃO IMPUGNADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULAS N. 283 E 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade ou desproporcionalidade, o que não ocorre no presente caso.
+2. Com efeito, não se revela desproporcional o incremento da pena-base, do crime de receptação qualificada, em 2 meses e 3 dias acima do mínimo legal, que é de 3 anos de reclusão, uma vez que foram adequadamente apontados os maus antecedentes do réu.
+3. A análise desfavorável das circunstâncias judiciais, aliada à reincidência do agente, justifica a fixação do regime semiaberto, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, conforme o disposto nos arts. 33, § 3º, c/c o art. 59, ambos do CP.
+4. Em relação aos pedidos de absolvição ou concessão da prisão domiciliar, verifico que não foram impugnados os fundamentos da decisão ora agravada, razão porque permanecem incólumes. Aplicação, por analogia, das Súmulas n. 283 e 284/STF.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JOAO ANTONIO RODRIGUES DA SILVA contra decisão de minha lavra em que conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento.
+Consta dos autos que o agravante foi condenado à pena de 3 (três) anos, 8 (oito) meses e 13 (treze) dias de reclusão, em regime inicial semiaberto, mais 10 (dez) dias-multa, pela prática do crime do art. 180, § 1º, do Código Penal.
+Em apelação criminal manejada pela defesa, a sentença foi mantida.
+Irresignada, a defesa interpôs recurso especial, alegando falta de provas para a condenação, inclusive quanto ao dolo, "pois o recorrente João sequer praticou o delito de receptação, apenas realizou um procedimento de reparo no aparelho celular furtado para um rapaz, sem saber que o referido aparelho celular era proveniente de furto" (e-STJ fl. 383).
+Asseriu violação aos arts. 59 e 65, inciso III, alínea d, ambos do CP, ante a ilegalidade na dosimetria quanto ao aumento da pena-base. Primeiro, aduziu que foi exacerbado o aumento em virtude dos maus antecedentes.
+Em segundo lugar, asseriu que o Juiz de primeiro grau diminuiu a pena-base em 1/3, em razão das demais circunstâncias judiciais favoráveis e da cooperação do réu, porém destacou que este faria jus à diminuição no patamar de 2/3, uma vez que "colaborou na totalidade para o deslinde da demanda, e ainda, conseguiu pegar e entregar referido celular furtado na Delegacia de Policia para que fosse entregue ao legítimo dono, o que ocorreu, assim, o correto seria diminuir na fração máxima, 2/3" (e-STJ fl. 389).
+Postulou, ainda, a fixação do regime aberto.
+Indeferido o pedido de tutela provisória (e-STJ fls. 427/428)
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 440):
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA- BASE. APLICAÇÃO DA FRAÇÃO DE 1/6 (UM SEXTO) POR TRÊS VEZES. MAUS ANTECEDENTES. REGISTRO DE 3 (TRÊS) CONDENAÇÕES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. PARECER PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+Opostos embargos de declaração visando a concessão de prisão domiciliar, foram eles rejeitados.
+No presente agravo, a defesa reitera os pedidos deduzidos no apelo nobre, ressaltando que suas insurgências não demandam reexame de provas, mas mera revaloração jurídica do espectro probatório delineado pela instância de origem.
+Reforça, ainda, o pleito de prisão domiciliar, "pois sua esposa faleceu vítima de câncer ainda jovem e possui 2 filhos menores, sendo um com necessidades especiais, ao qual cuida destes sozinhos" (e-STJ fl. 488).
+Requer, por fim, a reconsideração da decisão ou o seu enfrentamento pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA. DOSIMETRIA. FRAÇÃO DE AUMENTO DA PENA-BASE. ADEQUAÇÃO E PROPORCIONALIDADE. REGIME MAIS GRAVOSO. LEGALIDADE. REVISÃO DA CONDENAÇÃO E PRISÃO DOMICILIAR. NÃO IMPUGNADOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULAS N. 283 E 284/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade ou desproporcionalidade, o que não ocorre no presente caso.
+2. Com efeito, não se revela desproporcional o incremento da pena-base, do crime de receptação qualificada, em 2 meses e 3 dias acima do mínimo legal, que é de 3 anos de reclusão, uma vez que foram adequadamente apontados os maus antecedentes do réu.
+3. A análise desfavorável das circunstâncias judiciais, aliada à reincidência do agente, justifica a fixação do regime semiaberto, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, conforme o disposto nos arts. 33, § 3º, c/c o art. 59, ambos do CP.
+4. Em relação aos pedidos de absolvição ou concessão da prisão domiciliar, verifico que não foram impugnados os fundamentos da decisão ora agravada, razão porque permanecem incólumes. Aplicação, por analogia, das Súmulas n. 283 e 284/STF.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+O Tribunal a quo, ao confirmar a dosimetria penalógica levada a efeito em primeira instância, deixou assente que (e-STJ fls. 363/364):
+Quanto à dosimetria, cumpre observar que os maus antecedentes do réu foram bem reconhecidos na sentença, pois ele registra condenações definitivas anteriores (fls. 203/207) e, embora essa circunstância justificasse um acréscimo mais significativo à pena-base, o douto juiz fixou-a em três anos, dois meses e três dias de reclusão e nove dias-multa, no piso mínimo, compensando os antecedentes desabonadores com o fato de que "o réu devolveu o celular objeto da receptação, não restando prejuízo à vítima do furto e cooperou, parcialmente, com as investigações", além do que "trabalha licitamente com manutenção e reparo de celulares desde 2013, possuindo CNPJ, cf. fls. 154, bem como possui um filho com necessidades especiais, cf. fls. 155/158", o que fica mantido, inclusive no que diz com a fixação da pena pecuniária abaixo do piso mínimo legal, à vista do fato de que o Ministério Público se conformou com o julgado e não recorreu.
+Por força da reincidência do réu (fl. 208), as sanções foram acrescidas de um sexto e totalizaram três anos, oito meses e treze dias de reclusão e dez dias-multa, no piso.
+Os maus antecedentes e a reincidência do réu impediram a substituição da pena carcerária por sanções alternativas e não deixaram margem, por expressa disposição legal, a outro regime prisional que não o inicial semiaberto estabelecido na sentença.
+Portanto, nada havendo a alterar na sentença, o desprovimento do recurso se impõe.
+Na hipótese dos autos, a pena-base do crime de receptação qualificada foi exasperada com base nos maus antecedentes, ressaltando que foram utilizadas 3 condenações definitivas na primeira fase. O Juiz de primeiro grau utilizou a fração sucessiva de 1/6 para cada condenação, aumentando a reprimenda em 1 (um) ano, 9 (nove) meses e 5 (cinco) dias acima do mínimo legal.
+Em seguida, o Magistrado sentenciante, no que foi mantido pela Corte local, empregou a fração de diminuição de 1/3 na pena-base, tendo em vista a cooperação parcial e as demais circunstâncias judiciais favoráveis, pois "o réu devolveu o celular objeto da receptação, não restando prejuízo à vítima do furto e cooperou, parcialmente, com as investigações, além do que trabalha licitamente com manutenção e reparo de celulares desde 2013, possuindo CNPJ, cf. fls. 154, bem como possui um filho com necessidades especiais, cf. fls. 155/158" (e-STJ fl. 363), o que acarretou, inclusive, em situação mais favorável ao agravante do que o reconhecimento da confissão espontânea na segunda fase do cálculo dosimétrico.
+A sanção básica, assim, resultou no acréscimo de 2 meses e 3 dias de reclusão além do mínimo legal, que é de 3 anos.
+Em relação à fração de diminuição de 1/3 pela cooperação parcial do réu, argumenta a defesa que "o agravante acima colaborou na totalidade para o deslinde da demanda, e ainda, conseguiu pegar e entregar referido celular furtado na Delegacia de Polícia para que fosse entregue ao legítimo dono, o que ocorreu. Assim, o correto seria diminuir na fração máxima, 2/3" (e-STJ fl. 489).
+Conforme enfatizado na decisão agravada, esse pedido é totalmente desprovido de amparo nas circunstâncias judiciais do art. 59, além de ofender o sistema dosimétrico do art. 68, ambos do CP. Convém lembrar, outrossim, que o acolhimento da tese da defesa acarretaria em confronto com o teor do enunciado da Súmula n. 231/STJ, segundo o qual a sanção básica não pode ser cominada aquém do mínimo legal.
+Diante desse cenário, não se verifica ilegalidade em cominar a pena-base em 3 anos, 2 meses e 3 dias de reclusão (2 meses e 3 dias acima do mínimo legal), mas, ao contrário, o cálculo dosimétrico realizado na origem acarretou em situação amplamente mais favorável ao acusado, até porque haveria motivação suficiente para maior incremento da sanção, já que foram apontadas 3 condenações definitivas como maus antecedentes.
+Merece destaque que a matéria referente ao art. 65, inciso III, alínea d, do CP, não foi objeto de análise pelo acórdão recorrido, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser analisada, ante o que preceituam as Súmulas n. 282 e 356/STF.
+No que se refere ao regime, ressaltei que a análise desfavorável das circunstâncias judiciais, aliada à reincidência do agente, justifica a fixação do regime semiaberto, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, c/c o art. 59, ambos do CP .
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO COMETIDO EM PERÍODO NOTURNO COM ROMPIMENTO DE OBSTÁCULO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. DOSIMETRIA DA PENA. FIGURA PRIVILEGIADA. REDUÇÃO DE 1/2. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DE CONVERSÃO DAS PENAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ ..
+6. Não há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal). (AgRg no AREsp n. 1.058.790/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2018, DJe 9/8/2018) - (AgRg no HC n. 527.992/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 9/12/2019).
+7. Agravo regimental de fls. 379/385 improvido. Agravo regimental de fls. 389/395 não conhecido.
+(AgRg no HC 447.973/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO, FALSIFICAÇÃO DE DOCUMENTO PARTICULAR E USO DE DOCUMENTO FALSO. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIAS DO CRIME DESFAVORÁVEIS. NÃO PREENCHIMENTO DO REQUISITO DO ART. 44, III, DO CP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor dos julgados desta Corte, se as circunstâncias do crime foram consideradas negativas na primeira fase da individualização da pena, não existe direito subjetivo à substituição da pena privativa de liberdade por restritiva de direitos, porquanto não preenchido o requisito do art. 44, III, do CP.
+2. Agravo regimental não provido.
+(AgRg no AREsp 1008059/AC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 28/11/2017, grifei.)
+Por fim, em relação aos pedidos de absolvição ou concessão da prisão domiciliar, verifico que não foram impugnados os fundamentos da decisão ora agravada, razão porque permanecem incólumes. Aplicação, por analogia, das Súmulas n. 283 e 284/STF.
+Diante de todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
