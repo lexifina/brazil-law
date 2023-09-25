@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por FRANK RODRIGUES TEIXEIRA com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados:
+a) AgRg no AREsp n. 1.997.474/MS, proferido pela Sexta Turma;
+b) AgRg no AREsp n. 2.262.889/RS, proferido pela Quinta Turma; e
+c) AgRg no AREsp n. 2.223.457/GO, proferido pela Sexta Turma.
+Aponta, ainda, a título de reforço argumentativo, o RHC n. 170.308/PA,e o REsp n. 2.025.007/TO, relatados pelo Ministro Joel Ilan Paciornik; e o RHC n. 103.736, proferido pelo Supremo Tribunal Federal.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+A jurisprudência desta Corte, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder às seguintes providências: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+Mediante análise dos autos, verifica-se que a parte, no momento da interposição do recurso, limitou-se a transcrever a ementa dos julgados indicados como paradigmas, deixando de cumprir regra técnica do presente recurso, prevista nos mencionados artigos 1.043, §4º, do CPC, e 266, §4º, do RISTJ, o que constitui vício substancial insanável.
+Com efeito, a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão. No mesmo sentido: AgRg nos EAREsp n. 1.399.185/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 24/5/2023, DJe de 26/5/2023.
+Ademais, ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO CONHECIMENTO. ACÓRDÃO PARADIGMA. JUNTADA DE INTEIRO TEOR. AUSÊNCIA DA CERTIDÃO DE JULGAMENTO. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC DE 2015. PRECEDENTES.
+1. Ostentando os embargos de divergência característica de recurso de fundamentação vinculada, é imperativo que a demonstração do dissenso jurisprudencial se faça nos exatos termos estabelecidos pelo art. 1.043, § 4º, do CPC de 2015 e pelo art. 266, § 4º, do RISTJ.
+2. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC de 2015.
+3. Agravo interno desprovido.
+(AgInt nos EREsp 1617799/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 23/08/2022, DJe 25/08/2022)
+Como se vê, não é admissível o recurso de embargos de divergência quando o recorrente não comprova a divergência nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça.
+Outrossim, dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça que "cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal".
+Também os incisos I e II do art. 1.043 do Código de Processo Civil estabelecem que é embargável a decisão do órgão fracionário que, "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal".
+Conforme transcrito nos dispositivos acima, os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de decisões monocráticas como paradigmas, assim como a indicação de decisões proferidas por outros Tribunais.
+Neste sentido, o RHC n. 170.308/PA, o REsp n. 2.025.007/TO, e o RHC n. 103.736, não podem ser aceitos como paradigmas no presente recurso de embargos de divergência.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
