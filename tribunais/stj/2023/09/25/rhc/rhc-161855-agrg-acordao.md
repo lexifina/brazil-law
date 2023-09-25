@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (32 EMBALAGENS DE COCAÍNA - 10,76 G; E 24 EMBALAGENS DE MACONHA - 63,1 G). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. SUFICIÊNCIA E ADEQUAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. QUANTIDADE DE ENTORPECENTE POUCO EXPRESSIVA. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. DECISÃO AGRAVADA MANTIDA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra a decis ão assim resumida (fl. 168):
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (32 EMBALAGENS CONTENDO COCAÍNA E OUTRAS 24 CONTENDO MACONHA). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUFICIÊNCIA E ADEQUAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. PEQUENA QUANTIDADE DE DROGA. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso provido nos termos do dispositivo.
+Agora, o Ministério Público Federal interpõe o presente recurso sustentando que a decisão que decretou a prisão preventiva está concretamente fundamentada exarada pela autoridade judiciária competente, não havendo que se cogitar de qualquer ilegalidade ou abuso de poder (fls. 177).
+Aponta a gravidade concreta do crime imputado ao agravado, sua periculosidade e a possibilidade de reiteração delitiva, notadamente em razão da natureza e diversidade de substâncias entorpecentes apreendidas -32 (trinta e duas) embalagens contendo cocaína, 24 (vinte e quatro) embalagens contendo maconha (fl. 181).
+Requer, então, a reconsideração da decisão agravada, ou, em assim não entendendo, que o presente agravo regimental seja submetido ao Colegiado, para que seja provido a fim de que seja restabelecido o acórdão estadual (fl. 184).
+Em petição de fls. 190/192, o Ministério Público estadual endossou as razões apresentadas pelo Ministério Público Federal.
+O agravado apresentou impugnação às fls. 202/210.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (32 EMBALAGENS DE COCAÍNA - 10,76 G; E 24 EMBALAGENS DE MACONHA - 63,1 G). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. SUFICIÊNCIA E ADEQUAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS. QUANTIDADE DE ENTORPECENTE POUCO EXPRESSIVA. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA À PESSOA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. DECISÃO AGRAVADA MANTIDA.
+Agravo regimental improvido.
+VOTO
+Não obstante as alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Confiram-se, no que interessa, trechos do acórdão que manteve a prisão preventiva imposta ao recorrente (fls. 121/127 - grifo nosso):
+Com efeito, o Decisor Primevo foi claro em sua decisão (id. n.155105621, APF n. 8000447-66.2021.8.05.0205) ao destacar que a prisão cautelar do Paciente foi decretada tendo em vista que "os indícios de autoria e a prova da materialidade delitiva estão demonstrados pelos depoimentos colhidos em sede inquisitorial, pelo laudo de constatação preliminar de drogas, ID nº 154826864 e, pelo auto de exibição e apreensão de drogas" e continuou:
+Compulsando os autos, entendo que se fazem presentes os pressupostos da prisão preventiva, como forma de garantir a ordem pública, a aplicação da lei penal e a conveniência da instrução criminal.
+Tais circunstâncias, de fato, revelam a manifesta periculosidade desse e o risco ao meio social, caso seja colocado em liberdade. A ordem pública encontra-se comprometida, conforme se denota da natureza, circunstâncias e modus operandi dos fatos que foram atribuídos ao autuado no auto de prisão em flagrante, tudo levando a crer que esse pode reiteradamente cometer crimes de tráfico de drogas, dentre outros
+A conversão do flagrante em prisão preventiva do autuado é necessária para se evitar que esse supostamente reitere na prática de crimes de tráfico de drogas na cidade de Maetinga/BA e região, pois tal conduta acarreta diversos problemas graves à comunidade em geral e para usuários de drogas e familiares. A garantia da ordem pública se justifica como forma de resguardar a vida de novas supostas vítimas, pois o autuados pode novamente vender drogas a qualquer momento, caso seja colocado em liberdade. Os depoimentos colhidos na fase inquisitorial revelam que o autuado é dotado de periculosidade, constituindo sua presença, no seio da sociedade, grave risco para a ordem pública. Tal fato evidencia a necessidade da conversão do flagrante em preventiva, para garantir a ordem pública e a aplicação da lei penal.
+A conveniência da instrução criminal se justifica pois a condição pessoal do representado, que ostenta antecedentes penais, aliados à gravidade dos fatos, nos termos acima expendidos. O quadro fático anteriormente delineado evidencia que as medidas previstas no art. 319 do Código de Processo Penal não seriam suficientes e cabíveis à espécie, porquanto não se prestariam a conferir a necessária tranquilidade ao seio social, em especial no que diz respeito à ordem pública, à aplicação da lei penal e à conveniência da instrução criminal, pelas razões acima expostas.  grifos aditados
+ ..
+Sendo assim, minha inteligência é no passo de que a conjuntura fática trazida a conhecimento deste Colegiado - delito de tráfico de drogas supostamente engendrado pelo Paciente, o qual foi encontrado em posse de de 32 (trinta e duas) embalagens contendo cocaína, 24 (vinte e quatro) embalagens contendo maconha e a quantia de R$ 34,00 (trinta e quatro reais) - impõe seja mantida sua segregação preventiva, ao menos por ora.
+Como se vê, não obstante as relevantes considerações feitas pelo Tribunal de origem e pelo Ministério Público Federal em seu regimental, existem medidas alternativas à prisão que melhor se adequam à situação do imputado, notadamente considerando a quantidade de drogas apreendidas (32 embalagens de cocaína - 10,76 g; e 24 embalagens de maconha - 63,1 g - fls. 62/64), que não destoam do tráfico usual.
+Vale ressaltar, de acordo com os documentos que instruem os autos, que, em princípio, o paciente é primário, bem como que o crime noticiado foi cometido sem violência nem grave ameaça à pessoa.
+Assim, não ficou demonstrado o periculum libertatis a ponto de justificar a medida extrema da prisão.
+Sobre o tema: HC n. 716.825/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/4/2022; AgRg no HC n. 690.810/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/9/2021 .
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto. A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+Portanto, a substituição da prisão preventiva por medidas cautelares alternativas deve ser mantid a.
+Ante o exposto, nego provimento ao agravo regimental.
