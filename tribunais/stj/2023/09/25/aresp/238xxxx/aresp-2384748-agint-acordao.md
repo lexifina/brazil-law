@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/09/2023 a 25/09/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. DESFAZIMENTO CONTRATUAL POR INTERESSE DO ADQUIRENTE. RETENÇÃO DE 25% DO VALOR TOTAL. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. NÃO CABIMENTO. NATUREZA JURÍDICA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO INTERNO NEGADO PROVIMENTO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial. Aplicação do disposto na Súmula n.º 284 do STF.
+2. O Tribunal estadual concluiu que a natureza da arras é confirmatória, integrando, dessa forma, o valor do bem. Assim, rever a r. decisão demandaria revolvimento da matéria fático-probatória dos autos, além de reanálise de cláusula contratual, o que não se admite em recurso especial, conforme Súmulas n.ºs 5 e 7 do STJ.
+3. De acordo com a jurisprudência desta Corte, as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador (AgInt no AgRg no REsp 1.197.860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/12/2017, DJe 12/12/2017).
+4. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SPE19 GLOBAL PREMIO RECANTO VERDE EMPREENDIMENTOS IMOBILIARIOS S.A. (SPE19) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESFAZIMENTO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. RETENÇÃO DE 25% DO VALOR TOTAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF, POR ANALOGIA. ARRAS. PRINCÍPIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE. SÚMULA N.º 568 DO STJ. NATUREZA DAS ARRAS. ALTERAR O ENTENDIMENTO DO TRIBUNAL ESTAUDAL. SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 731).
+Nas razões do agravo interno, SPE19 alegou (1) a inaplicabilidade da Súmula nº 284 do STF, já que explicitou que seu pleito é baseado na jurisprudência desta Corte quanto ao percentual de retenção; e (2) que devem ser afastadas as Súmulas nºs 5 e 7 do STJ, uma vez que a relação contratual entabulada entre as partes não previa o desfazimento do negócio jurídico, devendo as arras serem retidas por ele.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. DESFAZIMENTO CONTRATUAL POR INTERESSE DO ADQUIRENTE. RETENÇÃO DE 25% DO VALOR TOTAL. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. ARRAS CONFIRMATÓRIAS. RETENÇÃO. NÃO CABIMENTO. NATUREZA JURÍDICA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO INTERNO NEGADO PROVIMENTO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial. Aplicação do disposto na Súmula n.º 284 do STF.
+2. O Tribunal estadual concluiu que a natureza da arras é confirmatória, integrando, dessa forma, o valor do bem. Assim, rever a r. decisão demandaria revolvimento da matéria fático-probatória dos autos, além de reanálise de cláusula contratual, o que não se admite em recurso especial, conforme Súmulas n.ºs 5 e 7 do STJ.
+3. De acordo com a jurisprudência desta Corte, as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador (AgInt no AgRg no REsp 1.197.860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/12/2017, DJe 12/12/2017).
+4. Agravo interno improvido.
+VOTO
+O agravo não merece prosperar.
+(1) Do percentual de retenção
+SPE19 interpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal, sustentando que, na hipótese de distrato por iniciativa dos compradores, o percentual de retenção deve corresponder a 25% dos valores pagos.
+Todavia, apesar do inconformismo, não indicou os dispositivos de lei federal eventualmente violados.
+Assim, a fundamentação recursal se mostrou deficiente.
+Impositiva, portanto, a aplicação da Súmula n.º 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre a necessidade de indicação expressa do dispositivo de lei tido por violado, confira-se o precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. VEÍCULO AUTOMOTOR. ÔNIBUS. COLISÃO. FUNDAMENTAÇÃO. DEFICIÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA Nº 284/STF. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+1.  .. .
+2. Considera-se deficiente de fundamentação o recurso especial que não indica com clareza e precisão os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+3. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal.
+4. Se a divergência não é notória, e nas razões de recurso especial não há indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284/STF, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+5. Compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.926.117/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022 - sem destaques no original)
+(2) Da retenção das arras
+SPE19 alegou que a relação contratual entabulada entre as parte não previa o desfazimento do negócio jurídico, devendo as arras serem retidas por ele.
+Ocorre que o Tribunal estadual concluiu não ser possível a sua retenção tendo em vista a sua natureza confirmatória. Confira-se:
+Quanto a apelação da parte ré este Relator divergiu do posicionamento adotado pelo Relator Originário, pois ao contrário do entendimento esposado, as arras devem integrar a base de cálculo para fins de devolução.
+Isso porque a jurisprudência pacífica do STJ é no sentido de que, na hipótese de rescisão do contrato após o pagamento não apenas do sinal, mas de uma parte considerável do preço, incluindo as prestações periódicas vencidas após a entrega das arras, estas últimas passam a constituir unicamente um princípio de pagamento e devem ser consideradas como parte do preço, e assim serem incluídas na base de cálculo do percentual de retenção estabelecido. Confira-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. PERDAS E DANOS. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 402, 403, 404, 475 DO CC. APLICAÇÃO DAS SÚMULAS NºS 282 E 356 DO STF. PERDIMENTO DAS ARRAS. MULTA CONTRATUAL. RETENÇÃO 10%. SÚMULAS Nº 5 E 7 E 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Não prequestionados os artigos de lei ditos violados pelo acórdão recorrido, sem que tenham sido opostos embargos de declaração, têm aplicação, por analogia, as Súmulas nºs 282 e 356 do STF.
+3. O Tribunal local não destoa da jurisprudência do STJ que se orienta no sentido de que, a depender das circunstâncias fáticas do caso examinado, é válida a retenção pelo promitente vendedor entre 10% e 30% do valor pago.
+4. Não é possível, na via especial, rever a conclusão contida no aresto atacado acerca do percentual retido a título de cláusula penal melhor condizente com a realidade do caso concreto e a finalidade do contrato, pois a isso se opõem as Súmulas nºs 5 e 7 do STJ.
+5. Nos termos da jurisprudência desta Corte, não é possível a retenção das arras confirmatórias. Tem aplicação, na espécie, a Súmula nº 83 do STJ. Ademais, firmando a Corte local que o contrato somente previa arras confirmatórias e não as penitenciais, o exame da pretensão recursal esbarra nas Súmulas nºs 5 e 7 do STJ.
+6. Agravo regimental a que se nega provimento." (AgRg no REsp 1495240/DF, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/08/2016, DJe 31/08/2016)
+Desse modo, a incidência do art. 418 do Código Civil somente seria aplicado na hipótese de o negócio ser desfeito quando pagas as arras tão somente, não sendo este o caso dos autos. (Art. 418. "Se a parte que deu as arras não executar o contrato, poderá a outra tê-lo por desfeito, retendo-as; se a inexecução for de quem recebeu as arras, poderá quem as deu haver o contrato por desfeito, e exigir sua devolução mais o equivalente, com atualização monetária segundo índices oficiais regularmente estabelecidos, juros e honorários de advogado".) (e-STJ, fls. 553/554).
+Portanto, verifica-se que rever a r. decisão demandaria revolvimento da matéria fático-probatória dos autos, além de reanálise de cláusula contratual, o que não se admite em recurso especial, conforme as Súmulas n.ºs 5 e 7 do STJ.
+Sendo assim, em se tratando de arras confirmatórias, o r. acórdão está em harmonia com a jurisprudência desta Corte Superior, não sendo possível a sua retenção.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESILIÇÃO DE PROMESSA DE COMPRA E VENDA. NULIDADES NO ACÓRDÃO. AUSÊNCIA. JULGADO DEVIDAMENTE FUNDAMENTADO. CARÊNCIA DE CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. PREMISSA DO ARESTO NÃO ATACADA. SÚMULA 283/STF. ENTENDIMENTO NO SENTIDO DA EXISTÊNCIA DE ARRAS CONFIRMATÓRIAS. SÚMULA 7/STJ. RESTITUIÇÃO DE VALORES AO CONSUMIDOR EM DECORRÊNCIA DO DESFAZIMENTO DO CONTRATO. INCIDÊNCIA DA SÚMULA 543/STJ. APLICABILIDADE DO VERBETE SUMULAR N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ .. .
+3. A Corte de origem - também com base em fatos e provas (incidência do verbete sumular n. 7/STJ) - apurou que o contrato previa arras confirmatórias, logo, não era cabível a retenção.
+4. Nos termos da jurisprudência do STJ, "não é possível a retenção das arras confirmatórias. Tem aplicação, na espécie, a Súmula nº 83 do STJ. Ademais, firmando a Corte local que o contrato somente previa arras confirmatórias e não as penitenciais, o exame da pretensão recursal esbarra nas Súmulas nºs 5 e 7 do STJ" (AgRg no REsp 1.495.240/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 23/8/2016, DJe 31/8/2016).
+ ..
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.731.013/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 15/12/2020, DJe 18/12/2020 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ILEGITIMIDADE PASSIVA. CADEIA DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. SÚMULAS 5 E 7 DO STJ. RETENÇÃO DAS ARRAS CONFIRMATÓRIAS. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Tratando-se de uma relação de consumo, impõe-se a responsabilidade solidária perante o consumidor de todos aqueles que tenham integrado a cadeia de prestação de serviço, em caso de defeito ou vício. Precedentes.
+2. Ademais, tendo o TJSP concluído que a responsabilidade da ora recorrente se deu em razão do princípio da solidariedade existente entre os integrantes da cadeia de prestadores de serviços, rever tal entendimento demandaria o revolvimento do conjunto probatório, o que é inviável, na via eleita, ante o óbice da Súmulas 5 e 7 do STJ.
+3. De acordo com a jurisprudência desta Corte, "as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no REsp 1197860/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017).
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.944.040/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/2/2022, DJe de 3/3/2022.- sem destaque no original)
+A ssim, é de rigor a manutenção da decisão recorrida, uma vez que as alegações trazidas no agravo interno não são aptas a desconstituí-la.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
