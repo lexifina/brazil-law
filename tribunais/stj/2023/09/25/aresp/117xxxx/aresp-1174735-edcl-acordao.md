@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por EUGÊNIA DE SOUZA ARAÚJO  contra o acórdão da Primeira Turma, de relatoria do Ministro Napoleão Nunes Maia Filho, assim ementado:
+PROCESSUAL CIVIL E SANCIONADOR. AGRAVO INTERNO EM ARESP. ACP POR IMPROBIDADE ADMINISTRATIVA ENQUADRADA NO ART. 11, III DA LEI 8.429/1992. DESCUMPRIMENTO PELA ENTÃO PREFEITA DE BETÂNIA/PE DE ORDEM JUDICIAL DEFERIDA EM AÇÃO POPULAR, PARA QUE SE ABSTIVESSE DE DESTRUIR ÁRVORES SITUADAS EM PRAÇA DO REFERIDO MUNICÍPIO. ALEGAÇÃO DE NULIDADE INOCORRENTE DO ARESTO POR INFRINGÊNCIA DO ART. 1.022 DO CÓDIGO FUX. AUSÊNCIA DE NULIFICAÇÃO DO ARESTO QUANTO À ALEGADA PROVA ÚNICA EMPRESTADA. DOSIMETRIA DAS SANÇÕES POR IMPROBIDADE. PRONUNCIAMENTO UNIPESSOAL QUE CONSTATOU A DESPROPORÇÃO NA SANÇÃO IMPOSTA, REDUZINDO A PENA DO PATAMAR DE 15 VEZES A REMUNERAÇÃO AO TEMPO DOS FATOS PARA 3 VEZES. PEDIDO DE NOVA REDUÇÃO DA MULTA CIVIL EM AGRAVO INTERNO. A MULTA CIVIL DE 3 VEZES O VENCIMENTO À ÉPOCA DA EX-PREFEITA NÃO SE REVELA DESARRAZOADA. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. O Superior Tribunal de Justiça possui diretriz acerca da legalidade da prova emprestada, quando esta é produzida com respeito aos princípios do contraditório e da ampla defesa (REsp. 1.397.415/RS, Rel. Min. HUMBERTO MARTINS, DJe 20.11.2013).
+2. Dessume-se do aresto que não houve violação do entendimento desta Corte Superior acerca da prova emprestada, não apenas por constatar-se que a parte apresentou regular defesa na Ação Popular, esta que propiciou a obtenção dos fatos que municiaram a ACP. Além do mais, não há falar-se em prova única, mas sim em fato único adveniente de outro feito, consistente na verificação de que foi alegadamente descumprida decisão judicial que determinou abstenção de destruir árvores existentes na praça Anfilófio Feitosa, as quais seriam cortadas para que não atrapalhassem o cenário dos palcos que serão montados para os festejos do Padroeiro de Santo Antônio.
+3. Não há, portanto, prova única emprestada de outra ação e sim fato único cuja gênese foi causa material para a promoção de outra lide. Rejeita-se, portanto, a pretensão nulificatória da ação.
+4. No que se refere ao argumento de que a multa civil de 3 vezes a remuneração da agravante ao tempo dos fatos - já reduzida do patamar de 15 vezes pela decisão agravada - seria exorbitante, considerando as suas circunstâncias pessoais, não merece ele guarida.
+5. É que da leitura da decisão agravada não há violação aos parâmetros legais, nem exsurge a desproporcionalidade na aplicação das sanções (AgInt no REsp. 1.606.097/MG, Rel. Min. BENEDITO GONÇALVES, DJe 23.4.2018). Logo, inviável a pretensão de nova redução da multa civil cominada, pois a sua fixação no patamar de 3 vezes o vencimento à época da ex-Prefeita não se revela desproporcional.
+6. Agravo Interno do Particular a que se nega provimento (fls. 472/473).
+Em suas razões, a embargante alega que "há omissão em parte do acórdão embargado, uma vez que, ainda que utilizada a premissa apontada "fato único", deverão ser observadas as garantias constitucionais do contraditório e da ampla defesa para se admitir a utilização da prova empresta apta para configurar o suposto ato improbo praticado pela Embargante quando Prefeita do Município de Betânia/PE, nos termos da pacífica jurisprudência do Superior Tribunal de Justiça" (fl. 494).
+Requer que os embargos sejam acolhidos com efeitos infringentes para que seja dado provimento ao agravo.
+Sem contrarrazões, conforme certidão de fl. 509.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO REJEITADO.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil. Não há na decisão embargada vício de omissão, contradição ou obscuridade, ou erro material, não se prestando os aclaratórios para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Não identificada a presença de vício que justifique esclarecimento, complemento ou eventual integração do que foi decidido, a rejeição dos aclaratórios é medida que se impõe.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil.
+A argumentação acerca da ausência do pleno exercício do contraditório e da ampla defesa para apurar os fatos foi expressamente analisada pelo acórdão embargado.
+Colhe-se da fundamentação do acórdão embargado o seguinte:
+5. O Superior Tribunal de Justiça possui orientação jurisprudencial afirmativa da legalidade da prova emprestada, quando esta é produzida com respeito aos princípios do contraditório e da ampla defesa (REsp. 1.397.415/RS, Rel. Min. HUMBERTO MARTINS, DJe 20.11.2013).
+6. Nesse contexto, dessume-se do aresto que não houve violação do entendimento desta Corte Superior acerca da prova emprestada, não apenas por constatar-se que a parte apresentou regular defesa na Ação Popular, esta que propiciou a obtenção dos fatos que municiaram a ACP. Além do mais, não há falar-se em prova única, mas sim em fato único adveniente de outro feito, consistente na verificação de que foi alegadamente descumprida decisão judicial que determinou abstenção de destruir árvores existentes na praça Anfilófio Feitosa, as quais seriam cortadas para que não atrapalhassem o cenário dos palcos que serão montados para os festejos do Padroeiro de Santo Antônio.
+7. Foi com base na existência desse recorte histórico que a Ação Civil Pública foi desatada. Não há, portanto, prova única emprestada de outra ação e sim fato único cuja gênese foi causa material para a promoção de outra lide. Rejeita-se, portanto, a pretensão nulificatória da ação (fls. 481/482).
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
