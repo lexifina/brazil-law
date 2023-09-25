@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+DIREITO PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE REDUÇÃO DE PENA DO ART. 33, §4º, DA LEI 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. INCIDÊNCIA DA SÚMULA 7, STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+I - As premissas fáticas firmadas nas instâncias ordinárias não podem ser modific adas em sede de recurso especial, nos termos da Súmula n. 7, STJ.
+II - Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal de origem para reconhecer que o agravante não se dedica a atividades criminosas demandaria o revolvimento de fatos e provas, o que não é viável em sede de recurso especial. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DOUGLAS JOSÉ MILANI contra decisão que conheceu do agravo para não conhecer do recurso especial.
+O agravante foi condenado como incurso no art. 33, caput, da Lei 11.343/2006; art. 12, caput, da Lei 10.826/2003; e art. 180, caput, c/c art. 69, do Código Penal, às penas de 8 anos de reclusão em regime inicial fechado e 1 ano de detenção, além de 720 dias-multa (fls. 279-307).
+O Tribunal de Justiça estadual deu parcial provimento à apelação interposta pela defesa para reduzir a pena-base referente ao crime de tráfico de drogas, e aplicar, na segunda fase da dosimetria, o percentual de 1/6 em razão da atenuante da confissão espontânea, o que resultou no redimensionamento da pena para 6 anos de reclusão, em regime semiaberto; 01 ano de detenção e pagamento de 520 dias-multa (fls. 519-536).
+Inconformado, o agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 33, §4º, da Lei 11.343/2006; e aos arts. 33 e 44, do Código Penal. Na oportunidade, sustentou, em síntese, que estariam presentes os requisitos para a aplicação da redutora do tráfico privilegiado e, por conseguinte, cabível a modificação do regime prisional para aberto e a substituição da pena privativa de liberdade por restritivas de direitos (fls. 546-561).
+O recurso foi inadmitido na origem sob o fundamento de que a tese recursal encontrava óbice nas Súmulas 7 e 83, STJ (fls. 582-584).
+Em face disso, a defesa interpôs agravo em recurso especial (fls. 594-612), que fora inadmitido devido à Súmula n. 7, STJ (fls. 662-666)
+No presente agravo, a defesa sustenta que a insurgência versa sobre matéria jurídica, sendo desnecessário o reexame de fatos e provas (fls. 674-689).
+É o relatório.
+EMENTA
+DIREITO PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE REDUÇÃO DE PENA DO ART. 33, §4º, DA LEI 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. INCIDÊNCIA DA SÚMULA 7, STJ. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+I - As premissas fáticas firmadas nas instâncias ordinárias não podem ser modific adas em sede de recurso especial, nos termos da Súmula n. 7, STJ.
+II - Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal de origem para reconhecer que o agravante não se dedica a atividades criminosas demandaria o revolvimento de fatos e provas, o que não é viável em sede de recurso especial. Precedentes.
+Agravo regimental desprovido.
+VOTO
+A defesa afirma que o recurso especial deve ser admitido porque a discussão sobre a presença dos requisitos para o reconhecimento da redutora penal prevista no art. 33, § 4º, da Lei 11.343/2006, é matéria eminentemente jurídica.
+Da leitura do acórdão que deu parcial provimento à apelação interposta pela defesa, observo que o Tribunal de Justiça estadual afastou a tese de aplicação da forma privilegiada do tráfico pelos seguintes fundamentos (fl. 530):
+"O art. 33, § 4º, da Lei n. 11.343/06 estabelece que as penas do caput poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços) desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Trata-se de minorante fundada em razões de política criminal e que visa a beneficiar o pequeno traficante, aquele que ainda não está profundamente envolvido com o mundo do crime e que pelas circunstâncias merece uma oportunidade mais rápida de ressocialização.
+No presente caso, esquadrinhando os autos e demais documentos que instruem o processo, tenho que o pedido não merece guarida, considerando que: a) o acusado Eduardo foi flagrado trazendo consigo 07 (sete) porções de substância maconha e 15 (quinze) porções de substância cocaína; b) o acusado Douglas foi flagrado com 01 porção de maconha; c) na residência de Eduardo foram apreendidas 59 (cinquenta e nove) porções de substância maconha e 05 (cinco) porções de substância cocaína além de dinheiro em espécie; d) na residência de Douglas foram apreendidas 26 (vinte e seis) tabletes de substância maconha e 03 (três) porções de substância cocaína, bem como um revolver calibre 38 municiado e ainda petrechos comumente utilizados na traficância, como 01 (uma) tesoura, 02 (dois) rolos de plástico filme, diversos saquinhos plásticos (embalagens idênticas às das drogas apreendidas com o denunciado Eduardo), 01 (uma) balança de precisão, 01 (uma) faca com resquícios de maconha além de considerável quantia em espécie; e) ambos apelantes, em fase inquisitiva, relataram que vendiam drogas há aproximadamente um mês e; f) os policiais militares que participaram da ocorrência foram uníssonos, tanto em fase inquisitiva e em juízo, ao afirmarem que os apelantes confessaram que realizavam a traficância pelo menos há um mês."
+Verifico que o acórdão impugnado não merece reparos. Isso pois, ao contrário do que aduz a defesa, o afastamento da aplicação da minorante do tráfico privilegiado restou fundamentado com base em circunstâncias concretas indicativas de dedicação do agravante a atividades criminosas.
+Nesse sentido, a pretensão esbarra no óbice da Sumula n. 7, STJ, não cabendo a esta Corte Superior reexaminar o conjunto fático-probatório dos autos, por ser inviável nesta via estreita (AgRg no REsp n. 2.043.880/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023; AgRg no AREsp n. 2.295.067/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
