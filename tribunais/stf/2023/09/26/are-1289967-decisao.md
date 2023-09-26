@@ -1,0 +1,87 @@
+Decisão:
+
+    Vistos.
+
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco, assim ementado:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. PROCURADOR FEDERAL. COMPETÊNCIA DOS JEF’S PARA ANULAR ATO ADMINISTRATIVO DE NÍTIDO CARÁTER FINANCEIRO. VERBA HONORÁRIA DE SUCUMBÊNCIA PARA A ADVOCACIA PÚBLICA. REGIME DE SUBSÍDIOS. CABIMENTO. RATIO DECIDENDI ACERCA DA NÃO COMPLETUDE DO REGIME DE SUBSÍDIOS. PRECEDENTES DO STF. VERBA PAGA GENERICAMENTE. INCONSTITUCIONALIDADE DE REDUÇÃO PROGRESSIVA DE VALORES PARA O INATIVO PORTADOR DE PARIDADE. IRREDUTIBILIDADE REMUNERATÓRIA ASSEGURADA. SENTENÇA DE PROCEDÊNCIA. RECURSO INOMINADO DA UNIÃO IMPROVIDO.”
+
+    No recurso extraordinário, interposto com fundamento nas alíneas “a” e “b” do permissivo constitucional, sustenta-se violação do artigo 40, § 4º, da Constituição Federal, bem como dos artigos 7º da Emenda Constitucional nº 41/2003 e 3º da Emenda Constitucional nº 47/2005.
+
+    Aduz a União que o instituto da paridade “não ampara a concessão do pedido formulado na exordial do presente feito”, uma vez que “os honorários advocatícios não integram o conceito de remuneração pública, ao contrário do sustentado no acórdão atacado, não refletindo e nem expressando nenhum tipo de paridade no cálculo de aposentadorias e pensões”.
+
+    Afirma que a “partir da constatação de que o autor reúne requisitos para a percepção de proventos integrais, a C. Turma Recursal reconheceu-lhe o direito de receber 100% da cota-parte mensal dos honorários de sucumbência pagos aos advogados públicos federais da ativa, afastando, assim, a incidência dos artigos 29, 31 e 32 da Lei 13.327/2016, por supostamente violarem os artigos supracitados, entre outras disposições constitucionais”.
+
+    Defende que “andou mal o juízo a quo, adotando uma visão distorcida dos dispositivos. Isso porque não é verdade que toda e qualquer espécie remuneratória, concedida aos servidores ativos, seja imediatamente atribuída também aos inativos, ainda que façam jus a proventos integrais e à paridade. Há que se observar, como se sabe, a natureza jurídica da verba e os preceitos legais que a circundam”.
+
+    Assevera que “o importante para o deslinde da causa não é o regime de aposentadoria do autor, mas sim a natureza jurídica dos recursos financeiros utilizados no pagamento dos proventos. Em outras palavras, sendo garantias opostas à União, a integralidade e paridade apenas orientam a forma como os recursos públicos, oriundos de tributos, devem ser utilizados no cálculo dos estipêndios dos aposentados”.
+
+    Conclui sustentando que “ao afastar a incidência da sistemática do art. 31 da Lei 13.327/2016 no caso concreto, o julgado finda por atentar contra os princípios da isonomia e da eficiência, os quais recebem guarida no art. 5º, caput e inciso I, e no caput do art. 37 da Carta Magna”.
+
+    Decido.
+
+    A irresignação não merece prosperar, haja vista que o Plenário do Supremo Tribunal Federal, no exame do RE nº 1.223.164/SP, feito paradigma do Tema nº 1.089 Repercussão Geral, de minha relatoria, fixou entendimento de que a controvérsia relativa à definição da natureza de gratificações e outras vantagens remuneratórias concedidas aos servidores ativos para fins de incorporação aos proventos de servidores inativos ou pensionistas não possui repercussão geral, por tratar-se de matéria restrita ao campo da legislação infraconstitucional.
+
+    O acórdão desse julgado está assim ementado:
+
+    “Recurso extraordinário. Administrativo. Servidor público estadual. Inativos e pensionistas. Gratificação de Gestão Educacional (GGE). Natureza jurídica da verba. Direito à paridade. Lei complementar estadual. Matéria infraconstitucional. Ausência de repercussão geral. É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à definição da natureza de gratificações ou outras vantagens remuneratórias concedidas aos servidores ativos estaduais, municipais ou distritais para fins de incorporação aos proventos de servidores inativos e pensionistas” (DJe de 30/07/2020).
+
+    Aplicando essa orientação em casos análogos ao examinado no presente feito, destacam-se os seguinte julgados do Plenário e de ambas as Turmas da Suprema Corte em que firmado o entendimento de que a discussão acerca da natureza jurídica da verba de honorários advocatícios de sucumbência para efeito de pagamento de parcela aos membros inativos, no mesmo percentual pago aos membros ativos da Advocacia Pública da União, está restrita ao campo da legislação infraconstitucional pertinente (Lei nº 13.327/2016), cujo reexame foge do campo do recurso extraordinário:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. DIVISÃO DE HONORÁRIOS DE SUCUMBÊNCIA DA ADVOCACIA PÚBLICA. LEI N. 13.327/2016. PARIDADE ENTRE ATIVOS E INATIVOS. AUSÊNCIA DE REPERCUSSÃO GERAL: TEMA N. 1.089/RG. MATÉRIA INFRACONSTITUCIONAL. VERBA HONORÁRIA. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO CABÍVEL. 1. O Plenário, ao apreciar o RE 1.223.164 RG (Tema n. 1.089), ministro Dias Toffoli, declarou a inexistência de repercussão geral da matéria relativa à definição da natureza de gratificações e outras vantagens remuneratórias concedidas a servidores ativos para fins de incorporação a proventos de inativos ou pensionistas. 2. Em diferentes ocasiões, o Supremo tem negado provimento a recursos extraordinários similares ao ora examinado, por entender que a matéria se reveste de natureza infraconstitucional, a caracterizar como indireta ou reflexa a suposta ofensa à Carta Federal. 3. Majora-se em 1% (um por cento) a verba honorária fixada na origem, observados os limites impostos. Disciplina do art. 85, §§ 2º, 3º e 11, do Código de Processo Civil. 4. Agravo interno desprovido” (RE nº 1.382.941/DF-AgR, Segunda Turma, Relator o Ministro Nunes Marques, DJe de 13/09/2023).
+
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. HONORÁRIOS DE SUCUMBÊNCIA. ADVOCACIA PÚBLICA. LEI 13.327/2016. COTA-PARTE. PARIDADE. EXTENSÃO AOS INATIVOS. DISCUSSÃO SOBRE A NATUREZA DA VERBA. OFENSA REFLEXA. 1. Eventual divergência em relação ao entendimento adotado pela Turma de origem, no que tange à natureza jurídica da verba e ao recebimento da parcela de honorários de sucumbência pelos servidores inativos paga aos advogados públicos, demandaria a análise da norma infraconstitucional aplicável à espécie (Lei 13.327/2016), o que inviabiliza o processamento do apelo extremo. 2. Esta Corte, no julgamento do RE 1.223.164-RG (Tema 1.089), rejeitou a repercussão geral da questão relacionada à definição da natureza jurídica de gratificações ou outras vantagens remuneratórias concedidas aos servidores ativos estaduais, municipais ou distritais para fins de incorporação aos proventos de servidores inativos e pensionistas. 3. No que tange à interposição do apelo extraordinário com base no art. 102, III, alínea c, da Constituição Federal, observo que o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição Federal. Portanto, resta inviabilizado o recurso extraordinário. 4. Agravo regimental a que se nega provimento, com previsão de aplicação da multa do art. 1.021, § 4º, do CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC” (ARE nº 1.213.448/SC-ED-AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 26/11/2021).
+
+    “DIREITO ADMINISTRATIVO. ADVOCACIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. VERBA DE SUCUMBÊNCIA. EXTENSÃO AOS INATIVOS NO MESMO PERCENTUAL DOS ATIVOS. NATUREZA JURÍDICA DA VERBA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. 4. Agravo interno conhecido e não provido” (ARE nº 1.398.498/RS-AgR, Tribunal Pleno, Relatora a Ministra Presidente - Rosa Weber, DJe de 28/03/2023).
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ADMINISTRATIVO. ADVOCACIA PÚBLICA FEDERAL. HONORÁRIOS ADVOCATÍCIOS. VERBA DE SUCUMBÊNCIA. EXTENSÃO A MEMBROS INATIVOS NO MESMO PERCENTUAL DOS ATIVOS. REDUÇÃO PROGRESSIVA DE VALORES PARA OS INATIVOS. CONTROVÉRSIA QUANTO À NATUREZA DA VERBA. LEI 13.327/2016. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. INSURGÊNCIA QUANTO À MULTA APLICADA NO JULGAMENTO DO AGRAVO INTERNO, COM FUNDAMENTO NO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO DESPROVIDOS. 1. Os embargos de declaração não se prestam à rediscussão de matéria já decidida. 2. Embargos de declaração desprovidos, com imposição de multa de 2% (dois por cento) do valor atualizado da causa (artigo 1.026, § 2º, do Código de Processo Civil)” (RE nº 1.294.135/PE-AgR-ED, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 25/11/2022).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PARCELA DE HONORÁRIOS DE SUCUMBÊNCIA PAGA AOS ADVOGADOS PÚBLICOS PREVISTA NO ART. 39 DA LEI 13.327/2016. PRETENSÃO DE EXTENSÃO AOS SERVIDORES INATIVOS DE FORMA AMPLA. QUESTÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. ART. 102, III, C, DA CF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 1.021, §1º, CPC, E 317, § 1º, do RISTF. 1. É ônus do recorrente impugnar de modo específico todos os fundamentos da decisão agravada. Art. 1.021, § 1º, CPC. Na hipótese dos autos, a parte Agravante não impugnou o fundamento relativo ao não cabimento do recurso extraordinário interposto pela alínea c do art. 102, III, da CF. 2. Ademais, eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que tange à pretensão de extensão aos servidores inativos (paridade de forma ampla) da parcela de honorários de sucumbência paga aos advogados públicos, demandaria o exame da legislação infraconstitucional (Lei Federal 13.327/2016), o que impede o trânsito do apelo extremo, por ser reflexa a alegada afronta à Constituição Federal. 3. Agravo regimental a que se nega provimento, com previsão de multa do art. 1.021, § 4º, do CPC. Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem” (RE nº 1.319.957/SC-AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 28/09/2021).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADVOGADO PÚBLICO APOSENTADO. PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PARIDADE ENTRE ATIVOS E INATIVOS. PARÂMETROS LEGAIS: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INVIABILIDADE DO RECURSO PELA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 1.319.955/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 10/09/2021).
+
+    Assim, não procede a irresignação da União.
+
+    Por fim, examino os pedidos de ingresso no feito como amici curiae formulados por Associação Nacional dos Advogados Públicos Aposentados e Pensionistas - ANAPA (Petição/STF nº 98.372/21) e Associação Nacional dos Procuradores da Fazenda Nacional - ANPFN (Petições/STF nºs 39.214/22 e 57.324/22).
+
+    Assim dispõe o artigo 138 do Código de Processo Civil:
+
+    “Art. 138. O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação”.
+
+    O artigo 323, § 3º, do Regimento Interno do Supremo Tribunal Federal, por sua vez, disciplinou a matéria nos seguintes termos:
+
+    “Mediante decisão irrecorrível, poderá o(a) Relator(a) admitir de ofício ou a requerimento, em prazo que fixar, a manifestação de terceiros, subscrita por procurador habilitado, sobre a questão da repercussão geral”.
+
+    Acerca desse tema, extrai-se do voto do Ministro Celso de Mello, Relator da ADI nº 3.045/DF, a seguinte passagem:
+
+    “(...) a intervenção do amicus curiae, para legitimar-se, deve apoiar-se em razões que tornem desejável e útil a sua atuação processual na causa, em ordem a proporcionar meios que viabilizem uma adequada resolução do litígio constitucional”.
+
+    A par dessas considerações, entendo ausentes as razões que poderiam tornar desejável e útil a atuação das requerentes na resolução do caso concreto, haja vista a ausência de litígio constitucional no caso dos autos, conforme consolidado pelo Plenário do STF no Tema 1.089 da Repercussão Geral e nos vários precedentes do Plenário e de ambas as Turma do STF que ratificam a natureza infraconstitucional da controvérsia.
+
+    Impende anotar, por fim, ser excepcional a participação de terceiro no processo subjetivo, bem como ser firme o entendimento desta Corte no sentido de ser inadmissível a intervenção de amicus curiae nos recursos extraordinários em que não ficou declarada a existência de repercussão geral da controvérsia examinada no apelo extremo. Nesse sentido: RE nº 1.317.918/PR, Relator o Ministro André Mendonça, DJe de 14/9/23; RE nº 1.449.022/GO, Relator o Ministro Roberto Barroso, DJe de 25/8/23; e RE nº 1.056.363/RJ, Relator o Ministro Alexandre de Moraes, DJe de 26/2/18.
+
+    Dessa última decisão destaca-se a seguinte passagem que bem aborda a questão:
+
+    “Antes e depois do Código de Processo Civil de 2015, orienta-se esta CORTE no sentido da inadmissibilidade da admissão de amicus curiae nos recursos extraordinários em que não restou declarada a existência de repercussão geral sobre a controvérsia. Nesse sentido, destaco os seguintes trechos de decisões que analisaram questão análoga ao pedido ora em exame:
+
+    ‘2.3. Noutras palavras, o ingresso de amici curiae somente se viabiliza nos recursos extraordinários em que reconhecida a repercussão geral. Nesse sentido, inter plures: RE 953441, Rel. Min. Roberto Barroso, DJe 19.6.2017, RE 808202, Rel. Min. Dias Toffoli, DJe 19.12.2016, ARE 803462, Rel. Min. Teori Zavascki, DJe 9.3.2016, e AI 827810, Rel. Min. Cármen Lúcia, DJe 12.12.2014.’ (ARE 683.626-AgR – Segundos ED – Segundos EDv - Amicus, Rel. Min. ROSA WEBER, Dje de 29/6/2017)
+
+    ‘Quanto aos pedidos de ingresso no feito, como amicus curiae, cabe ressaltar que a admissão somente é possível nos recursos extraordinários em que se tenha sido reconhecida a repercussão geral. No mesmo sentido, confiram-se: RE 808.202, Rel. Min. Dias Toffoli; ARE 803.462, Rel. Min. Teori Zavascki; AI 827.810, Rel.ª Min.ª Cármen Lúcia; RE 536.973-ED, Rel.ª Min.ª Cármen Lúcia. Tendo em vista que o recurso em exame não foi submetido à análise de repercussão geral e que o Supremo Tribunal Federal já entendeu pela inexistência de repercussão geral da matéria ora em discussão, indefiro os requerimentos formulados.’ (ARE 953.441, Rel. Min. ROBERTO BARROSO, DJe de 19/6/2017)
+
+    ‘ 2. Não há qualquer previsão legal para a intervenção de amici curiae nesta demanda, que não está sendo processada sob o rito da repercussão geral.’ (ARE 803.462, Rel. Min. TEORI ZAVASCKI, DJe de 9/3/2016)
+
+    É certo que o art. 138 do Novo Código de Processo parece não veicular esta restrição. Isso, contudo, não acarreta a invalidação da jurisprudência da CORTE, que segue fornecendo importante critério para o exame d admissão de amici curiae em recursos desprovidos do selo da repercussão geral.”
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso extraordinário da União e indefiro os pedidos de ingresso das peticionantes como amici curie.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 26 de setembro de 2023.
+
+Ministro Dias Toffoli
+
+Relator
+
+Documento assinado digitalmente
