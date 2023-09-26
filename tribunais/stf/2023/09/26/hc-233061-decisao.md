@@ -1,0 +1,85 @@
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO. ARTIGO 121, § 2º, II E III, DO CÓDIGO PENAL. ALEGADA INEXISTÊNCIA DE PROVA DE AUTORIA. SUPRESSÃO DE INSTÂNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF. Prejudicado o exame do pedido liminar.
+
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão proferido no âmbito do Superior Tribunal de Justiça no agravo regimental no agravo em recurso especial nº 1.948.886, cuja ementa transcrevo abaixo:
+
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ART. 121, §2º, INCISOS II E III, DO CP. PRONÚNCIA. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTES PARA EMBASAR A DECISÃO. FASE PROCESSUAL NA QUAL VIGORA O PRINCÍPIO DO IN DUBIO PRO SOCIETATE. REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+
+    1. Dispõe o artigo 413 do CPP que o juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, ficando tal fundamentação limitada à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena.
+
+    2. A pronúncia encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência do crime e de indícios de sua autoria, não se demandando aqueles requisitos de certeza necessários à prolação da sentença condenatória, sendo que as dúvidas, nessa fase processual, resolvem-se in dubio pro societate.
+
+    3. Para a admissão da denúncia, há que se sopesar as provas, indicando os indícios da autoria e da materialidade do crime, bem como apontar os elementos em que se funda para admitir as qualificadoras porventura capituladas na inicial, dando os motivos do convencimento, sob pena de nulidade da decisão, por ausência de fundamentação.
+
+    4. O Tribunal local, soberano na análise do conjunto fático-probatório, mantendo a sentença de pronúncia, concluiu pela presença de elementos indicativos da autoria do acusado pelo homicídio da vítima, supostamente por motivação fútil e com o emprego de asfixia. Assim, para alterar a conclusão a que chegou a instância ordinária e decidir pela impronúncia, tendo em vista a ausência de provas acerca dos indícios da prática do homicídio pelo acusado, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+
+    5. Agravo regimental não provido.”
+
+    Colhe-se dos autos que o paciente foi pronunciado pela suposta prática do crime previsto no artigo 121, § 2º, II e III, do Código Penal,
+
+    Contra esse decisum, foi interposto recurso em sentido estrito, que foi desprovido pelo Tribunal de origem.
+
+    Os embargos de declaração opostos foram rejeitados.
+
+    Ainda irresignada, a defesa interpôs recurso especial, o qual foi inadmitido na origem. O agravo em recurso especial foi julgado nos termos da ementa supratranscrita.
+
+    No presente mandamus, a defesa sustenta, em síntese, a existência de constrangimento ilegal consubstanciado na pronúncia do paciente.
+
+    Arrazoa que, “percorrendo o lastro probatório constante nos autos vê-se, sem dificuldade que nenhuma testemunha chegou a presenciar na eventual contenda entre o recorrente e a vítima, pai e filho sem aproximação, em face desse estar em intensa embriaguez, consoante laudo de constatação alcóolica às fls. 145/147, qualquer conduta ou estrita situação fática que possa subsumir a descrição lançada na denúncia. De fato, não houve conduta ou comportamento do recorrente que se possa inferir em ato de asfixia ou esganadura na vítima. A acusação não logrou êxito em demonstrar cabalmente qualquer dolo do recorrente albergando animus necandi.”
+
+    Alega, ainda, que a “gravidade da imputação perpetrada ao recorrente, quando não se tem uma prova técnica idônea do óbito da vítima, nem prova testemunhal, por menor que seja, que assegure a existência, por parte do recorrente, de animus necandi em dolo irretorquível, afasta sobremaneira eventual subsunção com o instituto da pronúncia, maculando o princípio da garantia da presunção de inocência, prevista no artigo 5ª, caput, LVII, da Constituição Federal, no artigo 8.2 do Pacto de San José da Costa Rica e, ainda, artigo 14, item 2, do Pacto Internacional de Direito Civis e Políticos da ONU, estes últimos reconhecidos pelo Brasil.”
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Delineados os argumentos retro, com fulcro nos artigos 5º, LXVIII, e 102, I, “i”, ambos da Constituição Federal, e nos artigos 647, 648, inciso VI, e 654, §2º, todos do Código de Processo Penal, bem como nos demais normativos legais e regimentais de regência, requer-se seja conhecida e concedida a ordem da presente impetração para:
+
+    (i) A concessão de medida liminar, a fim de se determinar o sobrestamento do feito (Ação penal nº 0000409-38.2011.8.20.0137 da Vara Única da Comarca de Campo Grande/RN), considerando que se encontra designada a sessão de julgamento pelo Tribunal do Juri para 23. 11.2023, às 09h, até a apreciação do mérito do presente writ.
+
+    (ii) No mérito, seja concedida a ordem, confirmando-se a liminar eventualmente concedida, para que seja impugnado o v. acórdão do e. STJ referido, objeto deste habeas corpus, e em consequência declarada a nulidade da decisão de pronúncia nos autos da ação penal nº 0000409- 38.2011.8.20.0137 da Vara Única da Comarca de Campo Grande/RN.”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] Como visto, o Tribunal local, soberano na análise do conjunto fático-probatório, mantendo a sentença de pronúncia, concluiu pela presença de elementos indicativos da autoria do acusado pelo homicídio da vítima, supostamente por motivação fútil e com o emprego de asfixia.
+
+    Assim, para alterar a conclusão a que chegou a instância ordinária e decidir pela impronúncia, tendo em vista a ausência de provas acerca dos indícios da prática do homicídio pelo acusado, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+
+    Sendo assim, o inconformismo não merece prosperar.
+
+    Ante o exposto, nego provimento ao agravo regimental.”
+
+    Deveras, em relação à matéria de fundo, verifico que a fundamentação da decisão do Tribunal a quo reside na insuscetibilidade da atuação do Superior Tribunal de Justiça, “ante o óbice contido na Súmula 7/STJ”.
+
+    Nesse contexto, impende destacar que o conhecimento desta impetração sem que a instância precedente tenha examinado o mérito da questão levada a seu conhecimento consubstancia indevida supressão de instância e, por conseguinte, violação das regras constitucionais definidoras da competência dos Tribunais Superiores, valendo conferir os seguintes precedentes desta Corte:
+
+    Direito processual penal. Agravo regimental em habeas corpus. Crimes de tortura, roubo majorado e corrupção de menores. Pedido de prisão domiciliar. Inadequação da via eleita. Supressão de instâncias. Jurisprudência do Supremo Tribunal Federal. 1. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux). 2. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça (STJ), não compete ao STF examinar a questão de direito implicada na impetração. Precedentes. 3. As alegações da defesa não foram sequer analisadas pelas instâncias de origem (Tribunal de Justiça do Estado de São Paulo e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias. 4. A Segunda Turma do STF, no julgamento do HC 143.641, Rel. Min. Ricardo Lewandowski, decidiu pela “substituição da prisão preventiva pela domiciliar – sem prejuízo da aplicação concomitante das medidas alternativas previstas no art. 319 do CPP – de todas as mulheres presas, gestantes, puérperas ou mães de crianças e deficientes, nos termos do art. 2º do ECA e da Convenção sobre Direitos das Pessoas com Deficiências (Decreto Legislativo 186/2008 e Lei 13.146/2015), relacionadas neste processo pelo DEPEN e outras autoridades estaduais, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício” (grifos acrescentados). Na sequência, determinou a “extensão da ordem de ofício a todas as demais mulheres presas, gestantes, puérperas ou mães de crianças e de pessoas com deficiência, bem assim às adolescentes sujeitas a medidas socioeducativas em idêntica situação no território nacional, observadas as restrições acima” (grifos acrescentados). 5. Trata-se de paciente presa preventivamente pela suposta prática dos crimes de tortura, roubo majorado e corrupção de menores. De modo que, tendo os crimes sido praticados com violência, não é possível estender à acionante os efeitos da decisão proferida pela Segunda Turma do STF. Precedente: o HC 156.026-AgR, Rel. Min. Edson Fachin. 6. Agravo regimental a que se nega provimento. (HC 216.782-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 31/8/2022)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. ART. 317, § 1º, DO RISTF. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO STJ. INVIABILIDADE DE O WRIT FIGURAR COMO SUBSTITUTIVO DE AGRAVO REGIMENTAL. SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO. 1. É inadmissível o agravo regimental que não impugna de modo especificado todos os fundamentos da decisão agravada. Manutenção da decisão recorrida. Precedentes. 2. O Supremo Tribunal Federal tem posição firme pela impossibilidade de admissão de writ impetrado contra decisão proferida por membro de Tribunal Superior, uma vez que, a teor do art. 102, I, “i”, da Constituição da República, sob o prisma da autoridade coatora, a competência originária desta Suprema Corte somente se perfectibiliza na hipótese em que Tribunal Superior, por meio de órgão colegiado, atue nessa condição. 3. O habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 4. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 5. Agravo regimental desprovido. (HC 210.524-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 20/7/2022)
+
+    Demais disso, eventual exame da pretensão defensiva demandaria uma indevida incursão na moldura fática delineada nos autos. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    AGRAVO INTERNO EM HABEAS CORPUS. PEDIDO DE RECONHECIMENTO DE AUSÊNCIA DE MATERIALIDADE E DE AUTORIA. NECESSÁRIO REEXAME FÁTICO-PROBATÓRIO. ALEGADO VÍCIO EM RECONHECIMENTO FOTOGRÁFICO. APONTADOS DEMAIS ELEMENTOS DE PROVA DA MATERIALIDADE E DE INDÍCIOS DE AUTORIA. NECESSÁRIA SUBMISSÃO AO TRIBUNAL DO JÚRI. HABEAS CORPUS INDEFERIDO. 1. Não se admite, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – ausência de prova da materialidade e de indícios de autoria suficientes para a pronúncia do réu –, do conjunto fáticoprobatório produzido nas instâncias ordinárias. 2. O apontamento, pelas instâncias ordinárias, da existência de outras provas da materialidade e de indícios da autoria, além do impugnado reconhecimento fotográfico, impõe a submissão do caso a julgamento pelo Tribunal do Júri. 3. Agravo interno desprovido. (HC 215.283-AgR, Segunda Turma, Rel. Min. Nunes Marques, DJe de 26/10/2022)
+
+    Agravo regimental em habeas corpus. Direito Processual Penal. Homicídio qualificado. Pronúncia. Indícios de autoria e materialidade. Reexame de fatos e provas. Impossibilidade. Precedentes. Caso que não encerra situação de constrangimento ilegal que ampare a concessão da ordem de ofício. Agravo regimental não provido. 1. Divergir do entendimento firmado pelas instâncias ordinárias demandaria necessariamente a incursão em fatos e provas, a qual a via do habeas corpus não comporta. 2. Estabelece o art. 413 do Código de Processo Penal que, para a decisão de pronúncia, basta, além da constatação de indícios de autoria, que esteja o julgador convencido da existência do crime. Não se exige, portanto, prova inconteste de sua autoria, sendo bastante que o magistrado se convença da materialidade da infração. 3. Agravo regimental ao qual se nega provimento. (HC 210.299-AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 29/4/2022)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. TENTATIVAS DE HOMICÍDIO QUALIFICADO. PRONÚNCIA . FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE INSUFICIÊNCIA PROBATÓRIA. VIA INADEQUADA. 1. Nos termos do artigo 413 do Código de Processo Penal, a decisão de pronúncia configura um juízo de admissibilidade da acusação , aplicável nas situações em que o julgador se mostra convencido (a) da materialidade do delito e (b) da existência de indícios – e não certeza – de autoria ou de participação. 2. Os indícios declinados pela instância ordinária, ao menos nesta sede processual, revelam-se idôneos para submissão do paciente ao Conselho de Sentença. 3. Para acolher a alegação de insuficiência probatória, tal como já afirmou o STJ, seria necessário proceder à análise de fatos e provas, providência incompatível com a via do Habeas Corpus. 4. Agravo Regimental a que se nega provimento. (HC 206.244-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 22/10/2021)
+
+    Impende consignar, por fim, que não cabe a rediscussão da matéria perante esta Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Para concluir em sentido diverso das instâncias anteriores quanto ao pleito de absolvição ou desclassificação da imputação de falta grave, imprescindíveis o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 217371-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 09/09/2022)
+
+    AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. MATÉRIA CRIMINAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. REGIME. AUSÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOROLOGIA A INFIRMAR JULGAMENTO ACOBERTADO PELA COISA JULGADA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso ordinário em habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 2. Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, o que não se verifica na espécie. 3. Agravo regimental desprovido. (RHC 213694-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 26/08/2022)
+
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com esteio no artigo 21, § 1º, do RISTF. Prejudicado o exame da medida liminar.
+
+    Publique-se.
+
+    Brasília, 26 de setembro de 2023.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
