@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de RICHARD DE GODOY FERREIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do Agravo de Execução Penal n. 0003090-35.2023.8.26.0996.
+Consta dos autos que o paciente cumpre pena na Penitenciária de Pracinha/SP, onde, no dia 15 de janeiro de 2023, durante procedimento de revista de sua visitante, foram encontrados 18 (dezoito) gramas de substância entorpecente popularmente conhecida como maconha em sua peça íntima.
+Em procedimento administrativo, a conduta foi considerada falta grave. O juízo de primeira instância, ao analisar o pedido da defesa absolveu o paciente, considerando ausência de provas.
+Inconformado, o Ministério Público, interpôs agravo de execução que reconheceu a natureza grave da falta disciplinar cometida pelo paciente, determinando a interrupção do lapso para progressão de regime e a perda de 1/3 dos dias remidos ou a remir, nos termos do art. 127 da Lei n. 7.210/84, assim ementado:
+"AGRAVO EM EXECUÇÃO FALTA GRAVE - Recurso ministerial. Reconhecer falta grave. Necessidade. Conjunto probatório suficiente para reformar a decisão. Conduta típica, prevista no artigo 52, da LEP. Tentativa de entrada de entorpecentes no presídio pela companheira do agravante. Responsabilidade de terceiro. Não acolhimento. Conjunto probatório firme e coerente no sentido de imputar a falta grave ao sentenciado. Declaração da perda dos dias remidos e a remir. Possibilidade. Conduta grave. Fração de um terço. Proporcionalidade à gravidade da conduta. Interrupção do prazo para aquisição de progressão de regime. Possibilidade. Decorrência lógica do sistema PROVIMENTO AO AGRAVO."
+A defesa sustenta ausência de prova do fato, aduzindo que o paciente não pode ser responsabilizado por ato de terceiros e que o fato de a sua visitante estar em posse de drogas, não comprova a sua participação no ilícito.
+Requer a concessão da ordem para afastar a prática de falta grave, ou determinar sua desclassificação para outra de natureza mais branda.
+O pedido liminar foi indeferido em decisão de fls. 72/73.
+As informações foram prestadas às fls. 81/83 e 84/95.
+O Ministério Público Federal opinou pela concessão da ordem, em parecer de fls. 99/101, assim sumariado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. APREENSÃO DE ENTORPECENTES QUANDO DA REVISTA PESSOAL A VISITANTE DO SENTENCIADO. ATO DE TERCEIRO. IMPOSSIBILIDADE DE RESPONSABILIZAÇÃO. COMPROVAÇÃO DA AQUISIÇÃO/PROPRIEDADE/DESTINAÇÃO. AUSÊNCIA DE ELEMENTOS. PELA CONCESSÃO.
+1. Não é possível a punição por falta grave imputando-se a prática da conduta descrita no art. 33, da Lei 11.343/06, se os entorpecentes são apreendidos por ocasião da revista pessoal em visitante, uma vez que não é possível se responsabilizar o detento por ato de terceiro.
+2. Se não há elementos suficientes que comprovem que o paciente tenha adquirido, que fosse proprietário ou mesmo destinatário dos entorpecentes, não há segurança para condenação.
+3. Parecer pela concessão da ordem."
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Ao indeferir o pedido, o acordão assentou:
+"Não obstante os argumentos constantes na r. decisão objurgada, tenho que a tentativa de entrada de drogas no estabelecimento prisional subsume-se à norma, configurando conduta típica e ilícita, porquanto prevista nos artigos 49, parágrafo único, e 52 da Lei de Execução Penal.
+Por outro lado, não há que se falar em responsabilidade de terceiros, uma vez que conduta deve ser imputada a ambos, sua companheira e o sentenciado, tendo em vista que os elementos dos autos apontam com segurança o conluio entre ambos para que esta cadastrada no rol de visitas do sentenciado (fls. 18) adentrasse o presídio com os entorpecentes para beneficiá-lo." (fl . 65)
+Da leitura dos trechos acima transcritos, verifica-se que o ora paciente não praticou qualquer conduta que pudesse ser considerada como início do iter criminis do delito de tráfico de entorpecentes.
+Nesse contexto, a interceptação da droga pelos agentes penitenciários, antes de ser entregue ao destinatário, impede a ocorrência da conduta típica do art. 33 da Lei n. 11.343/2006 na modalidade "adquirir" que viria, em tese, a ser praticada por este.
+Evidencia-se, portanto, a atipicidade da conduta imputada ao reeducando, na medida em que não praticou as condutas previstas no art. 28 ou 33 da Lei n. 11343/2006, pois o iter criminis do delito sequer foi iniciado.
+Vejam-se os precedentes nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ATO DE EXECUÇÃO. MERA SOLICITAÇÃO. ATIPICIDADE DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame da pretensão contida no recurso especial dispensa a análise do material probatório, uma vez que se restringe em saber se a interceptação da droga pelos agentes penitenciários antes de ela ser entregue ao seu destinatário, recolhido em estabelecimento prisional, impede a sua condenação pela prática do delito do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada, tratando-se, portanto, de questão eminentemente jurídica.
+2. O apelo nobre foi interposto com fundamento na alínea "a" do permissivo constitucional, por ofensa ao art. 33, da Lei 11.343/06, não havendo que se falar na necessidade d e cotejo analítico para fins de comprovação de divergência jurisprudencial.
+3. O agravado não praticou qualquer conduta que possa configurar o início do iter criminis do delito descrito no art. 33 da Lei 11.343/2006, porquanto limitou-se, supostamente, a solicitar à sua companheira (corré) a entrega da droga no interior do presídio em que se encontrava recolhido.
+4. Esta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível. Logo, é de rigor a absolvição do ora agravado, em razão da atipicidade de sua conduta, notadamente porque não comprovada a propriedade da droga.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 1.999.604/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. ATIPICIDADE DA CONDUTA. AGRAVO DESPROVIDO.
+1. Segundo o decidido pelas instâncias ordinárias, a única ação praticada pelo Acusado foi ter solicitado à sua namorada que lhe levasse entorpecentes no presídio em que se encontrava recolhido. Não há notícia, ainda, de que o Réu a tivesse ameaçado, tampouco comprovação de que esse tenha adquirido os entorpecentes. Por outro lado, a entrega da droga não se concretizou.
+2. Tão somente a ação do Acusado de solicitar que fossem levadas drogas, cuja propriedade não se conseguiu comprovar, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja na conduta de "adquirir", a qual se entendeu subsumir a ação, seja nas demais modalidades previstas no tipo. Evidencia-se, portanto, a atipicidade da conduta.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.189.239/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. MERA SOLICITAÇÃO. ATIPICIDADE DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A interceptação da droga pelos agentes penitenciários antes de ser entregue ao destinatário, recolhido em estabelecimento prisional, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada. Precedentes.
+2. Na espécie, extrai-se do acórdão proferido pela Corte a quo que a única ação imputada ao ora recorrido foi ter solicitado à sua companheira (corré) a entrega da droga no interior do presídio em que se encontrava recolhido. Ademais, não há nos autos notícia de que o réu a tivesse ameaçado, tampouco comprovação de que esse tenha adquirido os entorpecentes.
+3. Nesse contexto, o ora recorrido não praticou qualquer conduta que pudesse ser considerada como início do iter criminis do delito de tráfico de entorpecentes, porquanto a mera solicitação para que fossem levadas drogas para ele, no interior ao estabelecimento prisional em que se encontra recolhido, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja no núcleo "adquirir", seja nas demais modalidades previstas no tipo penal.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.922.955/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/5/2021, DJe de 14/5/2021.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para absolver o paciente da falta a ele imputada.
+Publique-se.
+Intimem-se.
+ EMENTA
