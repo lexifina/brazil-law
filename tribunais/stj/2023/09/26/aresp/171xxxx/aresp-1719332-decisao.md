@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (com fundamento no art. 105, III, a e c, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de Santa Catarina (Apelação Criminal n. 0001094-61.2018.8.24.0081) que manteve a condenação de Eliane de Oliveira como incursa no crime de tráfico de drogas.
+Nas razões do recurso especial, a defesa do agravante suscitou dissídio jurisprudencial e violação do art. 33, § 4º, da Lei n. 11.343/2006 (fls. 704/709).
+A Corte de origem inadmitiu o recurso por reputá-lo intempestivo (fls. 704/709).
+Contra o decisum a defesa interpôs o presente agravo (fls. 711/713).
+Instado a se manifestar, o Ministério Público Federal opinou pela manutenção da decisão agravada (fls. 737/740).
+É o relatório.
+Com razão o parecerista. De fato, o recurso especial é inadmissível.
+A jurisprudência deste Superior Tribunal é firme no sentido de que a contagem de prazo em processo penal obedece a regramento próprio. Importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado" e que "não se computará o prazo o dia do começo, incluindo-se, porém, o do vencimento", constitui norma especial em relação às alterações trazidas pela Lei n. 13.105/2015 (AgRg no AREsp n. 1.225.053/RS, Ministro Felix Fischer, Quinta Turma, DJe 30/4/2018 - grifo nosso).
+Ademais, entende-se, também, que a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade (AgRg nos EDcl no REsp n. 1.744.776/SP, Ministro Jorge Mussi, Quinta Turma, julgado em 18/10/2018, DJe 29/10/2018 - grifo nosso)
+No mesmo sentido, destaco os seguintes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO RECURSAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Aos processos criminais não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n. 244/2016, em razão da especialidade das disposições previstas no art. 798, caput e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro e 20 de janeiro.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.718.132/SC, Ministro João Otávio de Noronha, Quinta Turma, DJe 17/12/2020 - grifo nosso)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO NO DIÁRIO DE JUSTIÇA ELETRÔNICO PREVALECE SOBRE QUALQUER OUTRO MEIO DE PUBLICAÇÃO OFICIAL. PRECEDENTES. INTERPOSIÇÃO DO APELO NOBRE APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com a jurisprudência desta Corte Superior de Justiça, em sendo publicada a decisão no Diário de Justiça Eletrônico, essa, para todos os efeitos legais previstos - no caso, a contagem do prazo recursal -, sobrepõe-se a qualquer outra espécie de publicação oficial, inclusive a intimação eletrônica prevista na Lei n. 11.419/2006.
+2. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VIII, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+3. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+4. No caso, o acórdão recorrido foi publicado em 27/02/2020, e o recurso especial foi interposto em 23/03/2020, quando já havia escoado o prazo para a sua interposição.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.770.623/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020 - grifo nosso)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL PROTOCOLIZADO APÓS O 15º DIA. INTEMPESTIVIDADE. CONTAGEM DO PRAZO.
+1. No processo penal, iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente forense, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeira dia útil seguinte.
+2. Publicado o acórdão de apelação em 14/12/2017, o início do prazo recursal ocorreu aos 15/12/2017 e terminou em 29/12/2017, sendo, pois, intempestivo o especial protocolado em 19/01/2018.
+3. A extensão do prazo recursal não é amparada pela Resolução CNJ n. 244, de 12/9/2016. Referido ato normativo regulamenta o art. 220 do NCPC, que estatuiu a suspensão do curso dos prazos processuais nos dias compreendidos entre 20 de dezembro e 20 de janeiro. Não tem força, todavia, para incidir sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento do art. 798, caput e §3º, do CPP.
+4. Agravo regimental a que se nega provimento.
+(AgInt no AREsp n. 1.322.223/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/10/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VI, c.c. os arts. 1.003, § 5.º, e 1.029, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+2. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/2/2017, DJe 22/2/2017).
+3. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp n. 1.070.415/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/5/2017, DJe de 22/5/2017.).
+4. No caso, o acórdão recorrido foi publicado em 19/12/2017 (fl. 678), e o recurso especial foi interposto em 5/2/2018 (fl. 681), quando já havia escoado o prazo para a sua interposição.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.322.909/SP, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018)
+O caso dos autos também não contempla a aplicação do art. 798-A do CPP, pois o acórdão atacado foi publicado anterior ao advento da Lei n. 14.365/2022.
+Assim, na espécie, só se poderia cogitar de tempestividade fundada na suspensão dos prazos recursais decorrente da suspensão do expediente forense por ato normativo local, hipótese essa na qual incumbia à agravante comprovar a suspensão no ato da interposição do recurso (mediante documento idôneo), o que não ocorreu no caso dos autos (fls. 653/669), sendo inviável comprovação subsequente.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. TEMPESTIVIDADE DO RECURSO ESPECIAL NÃO DEMONSTRADA. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO NA INTERPOSIÇÃO DO APELO. INCIDÊNCIA DO ART. 1.003 DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. Acerca da tempestividade do Recurso Especial, não merece prosperar o argumento da parte recorrente, visto que, de fato, o acórdão recorrido foi publicado no DJe no dia 19.6.2019 (fl. 113, e-STJ). Logo, em respeito ao prazo de 15 dias úteis, previsto no art. 1.003, parágrafo 5º, do CPC, é intempestivo o presente Recurso Especial, já que interposto no dia 12.7.2019 (fl. 118, e-STJ).
+2. Em virtude de determinação expressa no atual Código de Processo Civil, a jurisprudência do STJ é no sentido de que eventual suspensão do prazo recursal decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, deve ser comprovada, durante a interposição do recurso, no Tribunal de origem.
+3. Na hipótese dos autos, não houve comprovação, por documento idôneo, quando da interposição do Recurso Especial, de que foram suspensos os prazos processuais no Tribunal de origem nas datas apontadas pelo agravante, razão por que não há como alterar a decisão agravada.
+4. A jurisprudência do Superior Tribunal de Justiça é de que "a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão de tempestividade expedida por servidor na instância de origem não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, ou seja, aportados os autos neste Sodalício, é imprescindível nova análise dos pressupostos recursais" (EDcl no AgInt no REsp 1.702.212/ES, Rel. Ministro Felix Fischer, DJe de 21.3.2018). 5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.714.592/SE, Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020 - grifo nosso)
+Logo, o recurso especial é intempestivo, sendo de rigor a manutenção da conclusão constante da decisão agravada (fl. 709):
+ ..
+Nesse cenário, verifica-se que a parte dispositiva do acórdão impugnado foi considerada publicada no dia 13/12/2019 (sexta-feira), nos termos do art. 4º, § 3º, da Lei n. 11.419/2006, conforme se infere da certidão de fl. 632, de modo que o prazo recursal esgotou-se em 7/1/2020 (terça-feira - primeiro dia útil após o término do recesso forense).
+Deste modo, verificado que o reclamo especial foi protocolizado somente em 21/01/2020 (fl. 1), a respectiva interposição revela-se intempestiva.
+ ..
+Por fim, ressalto que a intempestividade verificada, no caso, obstou a interrupção do prazo para interposição de quaisquer recursos subsequentes, inclusive do presente, circunstância que firma a preclusão temporal para eventuais recursos dirigidos a esta Corte.
+Nesse sentido, destaco que:
+ ..
+2. Nos termos da jurisprudência do STJ, o recurso intempestivo não possui o condão de suspender ou interromper o prazo para interposição de outro recurso, razão pela qual a decisão que atesta sua intempestividade não é apta a postergar o termo final do trânsito em julgado, que ocorre imediatamente no dia seguinte após expirado o prazo para interposição do recurso intempestivo (AgRg no AgRg no RE nos EDcl no AgRg nos EAREsp n. 822.343/MG, Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 15/8/2018, DJe 22/8/2018 - grifo nosso).
+ ..
+Ante o exposto, acolhendo o parecer, não conheço do agravo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL INTERPOSTO APÓS O PRAZO DE 15 DIAS CONTADOS DE FORMA CONTÍNUA. INTEMPESTIVIDADE. ART. 220 DO CPC. NÃO INCIDÊNCIA EM MATÉRIA CRIMINAL. INAPLICABILIDADE DO ART. 798-A DO CPP (ACÓRDÃO IMPUGNADO PUBLICADO EM DATA ANTERIOR AO ADVENTO DA LEI N. 14.365/2022). PRECEDENTES DO STJ. AUSÊNCIA DE COMPROVAÇÃO DE SUSPENSÃO DO EXPEDIENTE NO TRIBUNAL LOCAL, POR DOCUMENTO IDÔNEO. INTEMPESTIVIDADE QUE OBSTOU A INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE RECURSOS SUBSEQUENTES. PRECLUSÃO TEMPORAL.
+Agravo não conhecido.
