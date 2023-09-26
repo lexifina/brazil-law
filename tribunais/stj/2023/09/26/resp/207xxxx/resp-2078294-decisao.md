@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERATIVA DE CREDITO, POUPANCA E INVESTIMENTO DA REGIAO ALTOS DA SERRA - SICREDI ALTOS DA SERRA RS/SC (COOPERATIVA), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO.
+APLICAÇÃO DO CDC. Aplicam-se as disposições do Código de Defesa do Consumidor às instituições financeiras (Súmula n. 297 do STJ).
+CDI/CETIP. É vedada a aplicação da taxa CDI/CETIP como índice de correção monetária, impondo-se a substituição do índice pelo IGP-M, índice que melhor recompõe a perda monetária (Súmula n. 176 do STJ).
+APELAÇÃO DESPROVIDA (e-STJ, fl. 390).
+Os embargos de declaração opostos por COOPERATIVA foram rejeitados (e-STJ, fls. 425/428).
+Nas razões do presente recurso, COOPERATIVA alegou a violação aos arts. 122, do CC, 489, § 1º, IV, 1.022, do CPC ao sustentar que (1) o STJ já fixou entendimento quanto à legalidade da taxa CDI como indexador em contrato bancário, afastando a aplicação da Súmula nº 176 do STJ; (2) não há qualquer abusividade no uso do CDI como taxa das cédulas de crédito bancário ou rural, já que é justificado pela própria dinâmica do mercado financeiro. Postula, ademais, que o recurso seja remetido à Segunda Seção para cancelamento ou alteração da Súmula 176 do STJ.
+foram apresentadas contrarrazões (e-STJ, fls. 460/465).
+O apelo nobre foi admitido pelo Tribunal estadual (e-STJ, fls. 469/472).
+É o relatório.
+DECIDO.
+(1) Da omissão
+Nas razões do seu recurso, COOPERATIVA alegou a violação do art. 1.022, do CPC em virtude da omissão do Tribunal estadual acerca da inaplicabilidade da Súmula nº 176 do STJ.
+No julgamento dos embargos de declaração, foi destacado que
+O acórdão embargado enfrentou de maneira suficiente a questão ao entender como "ilegal a aplicação da remuneração acumulada nos Certificados de Depósito Interfinanceiro - CDI, apurada e divulgada pela CETIP S.A. - Balcão Organizado de Ativos e Derivativos, uma vez que tal índice tem natureza de taxa remuneratória e não possui relação com o efetivo poder aquisitivo no mercado de consumo." (e-STJ, fls. 425/426).
+Por entender ser vedada a aplicação da referida taxa como índice de correção monetária, o Tribunal gaúcho rechaçou os argumentos utilizados pelo banco, o que afasta o alardeado vício da omissão.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL. CUPLA EXCLUSIVA DA VÍTIMA. REVISÃO. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. SÚMULA 7/STJ, TERMO INICIAL. JUROS DE MORA. SÚMULA 54/STJ. CORREÇÃO MONETÁRIA. SÚMULA 362/STJ. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, acerca da alegada culpa exclusiva da vítima e do direito à indenização por danos morais, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. Na hipótese de responsabilidade extracontratual, os juros de mora são devidos desde a data do evento danoso (óbito), nos termos da Súmula 54 deste Tribunal.
+4. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+5. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.983.815/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023, sem destaque no original.)
+Afasta-se, portanto, a alegada violação.
+(2) Utilização da taxa CDI
+O Tribunal gaúcho reputou correta a sentença que afastou a CDI como índice de correção monetária, aplicando, em substituição, o IGPM.
+Foi interposto recurso especial pela COOPERATIVA defendendo a legalidade do referido encargo, indicando, para tanto, a violação do artigo 122 do CC, que dispõe: São lícitas, em geral, todas as condições não contrárias à lei, à ordem pública ou aos bons costumes; entre as condições defesas se incluem as que privarem de todo efeito o negócio jurídico, ou o sujeitarem ao puro arbítrio de uma das partes.
+Ocorre que, analisando o artigo apontado como violado no recurso especial, é possível constatar que este não possui conteúdo normativo apto modificar a decisão combatida, visto que não trata propriamente dos encargos moratórios e da taxa CDI, mas apenas das condições impostas aos negócios jurídicos.
+Ora, por óbvio que a discussão sobre a inclusão da taxa CDI como encargo moratório está muito além das condições, "em geral" tratadas no Código Civil, o que afasta a pretensão de modificação do acórdão.
+Em assim sendo, quanto ao ponto, porque inviabilizada a compreensão da controvérsia, o recurso não pode ser conhecido em virtude da deficiência na sua fundamentação, acarretando a aplicação da Súmula 284 do STF, por analogia, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, inclusive, é a jurisprudência desta Corte, a saber:
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. RATEIO. COBRANÇA INDIVIDUALIZADA. CARÁTER PROPTER REM. DISTINÇÃO DA COBRANÇA DE TARIFA POR CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CERCEAMENTO DE DEFESA. ARTIGO SEM PERTINÊNCIA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência desta Corte Especial, é "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016)" (EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021).
+3. As contribuições condominiais, previstas na respectiva convenção ou aprovadas em assembleia geral, possuem natureza propter rem e podem ser objeto de cobrança individualizada mediante rateio das despesas entre os condôminos. Precedentes.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.002.183/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022, sem destaque no original.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PRESTAÇÃO DE SERVIÇOS. DEFEITO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DANOS MORAIS. RAZOABILIDADE E PROPORCIONALIDADE. OBSERVÂNCIA. REDUÇÃO DA INDENIZAÇÃO. SÚMULA N. 7 DO STJ. DISPOSITIVOS LEGAIS. OFENSA. DEMONSTRAÇÃO. AUSÊNCIA. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. 1.1. A alteração da conclusão do acórdão recorrido quanto ao defeito na prestação do serviço demandaria reexame da prova dos autos. 1.2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+2. Ademais, tal recurso é de fundamentação vinculada. Para seu conhecimento, é imprescindível que o recorrente desenvolva argumentação própria e associada à impugnação direta das razões de decidir do acórdão recorrido. Em respeito à dialética recursal, a parte deve demonstrar como foi contrariada a lei federal à qual foi atribuída interpretação divergente, bem como comprovar o dissídio mediante cotejo analítico entre o aresto impugnado e os paradigmas - o que não ocorreu. Não serve para tal propósito a citação inespecífica de normas, a mera transcrição de julgados ou a simples referência a razões apresentadas em recursos antecedentes. Aplicação, por analogia, da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.151.353/CE, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022, sem destaque no original.)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de MAURO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. CÉDULA DE CRÉDITO BANCÁRIO. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. TAXA CDI. UTILIZAÇÃO COMO CORREÇÃO MONETÁRIA. INDICAÇÃO GENÉRICA DO ARTIGO 122 DO CC, QUE TRATA DAS CONDIÇOES, EM GERAL, DOS NEGÓCIOS JURÍDICOS. ARTIGO SUSCITADO SEM CONTEÚDO NORMATIVO APTO A MODIFICAR A DECISÃO COMBATIDA. SÚMULA Nº 284 DO STF, POR ANALOGIA. RECURSO ESPECIAL NÃO CONHECIDO.
