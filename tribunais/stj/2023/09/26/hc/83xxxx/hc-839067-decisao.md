@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VIVIANE CRISTINA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2132679-27.2023.8.26.0000.
+Consta nos autos que, após representação da Autoridade Policial, foi decretada a prisão temporária da Acusada em razão de, juntamente com a Corré, "teriam participado da ação criminosa ocorrida em 24/08/2022, quando dois indivíduos armados tiveram acesso ao escritório da empresa VVMB Participações Ltda e, após a rendição de funcionário do local, exigiram que os funcionários do setor financeiro realizassem inúmeros depósitos para contas de terceiros indicadas pelos autores, totalizando a quantia de R$ 10.741.425,64 (dez milhões setecentos e quarenta e um mil quatrocentos e vinte e cinco reais e sessenta e quatro centavos)" (fl. 513).
+O mandado de prisão foi cumprido no dia 06/12/2022.
+Posteriormente a Paciente foi denunciada como incursa nas penas do "art. 2º, parágrafo 2º, da Lei 12850 (organização criminosa), art. 158, parágrafo 3º, e art. 29 e 70 do Código Penal (extorsão restrição de liberdade - concurso formal- cinco vítimas), art. 157, parágrafo 2º, inciso I e parágrafo 2º-A, I e art. 29 e 70 do Código Penal (roubo circunstanciado c/ restrição liberdade - concurso formal- cinco vítimas), e artigo 1º, da Lei 9.613/1998 c.c. art. 71 do Código Penal (lavagem de dinheiro) todos somados na forma do art. 69 do Código Penal." (f ls. 454-455).
+A denúncia foi recebida no dia 03/02/2023, ocasião em que foi decretada a prisão preventiva da Paciente.
+Impetrado prévio writ na origem, a Corte local denegou a ordem (fls. 494-503). Eis a ementa do acórdão:
+"Habeas corpus. ORGANIZAÇÃO CRIMINOSA ARMADA, EXTORSÃO QUALIFICADA, ROUBO MAJORADO E LAVAGEM DE DINHEIRO. Pretendida revogação da prisão preventiva. Inadmissibilidade. Presença de indícios de autoria e materialidade. Gravidade concreta das condutas. Delitos em tese cometidos em concurso de agentes, com emprego de arma de fogo e com restrição de liberdade das vítimas. Além disto, a paciente possui maus antecedentes e é reincidente. Custódia necessária para a garantia da ordem pública. Decisões impugnadas fundamentadas. Excesso de prazo para a formação da culpa. Não verificada ofensa aos princípios da razoabilidade e da proporcionalidade no trâmite do feito, que possui audiência em continuação marcada para data próxima. Ordem denegada."
+Neste writ, a Parte Impetrante alega, em suma, que há excesso de prazo para a formação da culpa, estando a Paciente presa desde 06/12/2022.
+Sustenta, ainda, ausência de fundamentação idônea da decisão que converteu a prisão temporária em preventiva bem como de revisão da segregação cautelar nos termos do art. 316 do Código de Processo Penal.
+Salienta a presença de condições favoráveis em favor da Acusada.
+Requer, em liminar e no mérito, a concessão de liberdade provisória e a expedição de alvará de soltura em favor da Paciente.
+O pedido liminar foi indeferido às fls. 506-507, pela Presidência desta Corte.
+As informações foram prestadas às fls. 513-516 e 519-541.
+O Ministério Público Federal manifestou-se às fls. 543-546 pelo pela prejudicialidade do mandamus.
+É o relatório.
+Passo a decidir.
+Inicialmente, no tocante à tese de demora na formação da culpa, friso que em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que, no dia 25/08/2023, foi proferida sentença nos autos da Ação Penal n. 0000956-38.2020.8.17.1110, sendo a Paciente VIVIANE CRISTINA SILVA condenado às penas de 34 (trinta e quatro) anos, 02 (dois) meses e 19 (dezenove) dias de reclusão e pagamento de 225 (duzentos e vinte e cinco) dias-multa, em regime fechado, sendo-lhe negado o apelo em liberdade. Nesse contexto, está prejudicado, no ponto, o presente writ.
+No caso, não é possível analisar a viabilidade dos requisitos da prisão preventiva, pois a Parte Impetrante não acostou aos autos cópia das peças processuais necessárias à compreensão da controvérsia, notadamente inteiro teor da decisão que converteu a prisão temporária em preventiva.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso).
+Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do writ .
+No mesmo sentido: HC n. 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 08/05/2019; HC n. 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 08/05/2019; HC n. 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 08/05/2019; HC n. 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 08/05/2019.
+Por fim, quanto à tese de reexame da prisão cautelar, nos termos dos art. 316 do Código de Processo Penal, observo que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Ante o exposto, JULGO PARCIALMENTE PREJUDICADA a ordem de habeas corpus e, no mais, NÃO CONHECIDA.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. EXTORSÃO QUALIFICADA. ROUBO CIRCUNSTANCIADO. L AVAGEM DE DINHEIRO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO INTERESSE JURÍDICO. REQUISITOS DA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. REVISÃO PERIÓDICA DA PRISÃO PREVENTIVA. ART. 316, PARÁGRAFO ÚNICO, DO CÓDIGO DE PROCESSO PENAL. MATÉRIA NÃO APRECIADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. ORDEM PARCIALMENTE PREJUDICADA E, NO MAIS, NÃO CONHECIDA.
