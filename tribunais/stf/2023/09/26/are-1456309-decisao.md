@@ -1,0 +1,59 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em desfavor de acórdão cuja ementa é a seguinte:
+
+    “APELAÇÃO CRIMINAL. CRIMES DE TRÁFICO DE DROGAS. AUSÊNCIA DE FUNDADAS SUSPEITAS (JUSTA CAUSA) A JUSTIFICAR A BUSCA PESSOAL. NULIDADE DA PROVA. AUSÊNCIA DE MATERIALIDADE. ABSOLVIÇÃO QUE SE IMPÕE” (doc. eletrônico 11, pp. 12-13).
+
+    No recurso extraordinário, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação dos arts. 5º, X; e 144, § 5º, da mesma Carta (doc. eletrônico 17).
+
+    A pretensão recursal não merece acolhida.
+
+    Como tem consignado este Supremo Tribunal Federal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+
+    Com esse entendimento, menciono julgados de ambas as Turmas desta Suprema Corte:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. PREVIDENCIÁRIO. TERMO INICIAL DO BENEFÍCIO. APLICAÇÃO DA SÚMULA 279/STF. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS SUFICIENTES DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283/STF. INOBSERVÂNCIA DO ART. 1.021, § 1°, DO CÓDIGO DE PROCESSO CIVIL/2015. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    I – É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência da Súmula 282/STF. Ademais, a tardia alegação de ofensa à Constituição, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+
+    II – Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos.
+
+    III – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de legislação infraconstitucional que fundamenta o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.
+
+    IV – É deficiente a fundamentação do agravo regimental cujas razões não atacam todos os fundamentos suficientes da decisão agravada. Incidência da Súmula 283/STF.
+
+    V – Consoante o art. 1.021, § 1°, do CPC/2015, o agravante deverá impugnar especificadamente os fundamentos da decisão agravada.
+
+    VI – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados os limites legais. VII – Agravo regimental a que se nega provimento.” (ARE 1.340.960 AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 10/8/2022, grifei).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. CONTENÇÃO DE ENCOSTAS, SANEAMENTO BÁSICO E REFLORESTAMENTO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO DOS DISPOSITIVOS CONSTITUCIONAIS SUSCITADOS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. ALEGAÇÃO TARDIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 955.250 AgR/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 7/5/2018, grifei).
+
+    Ademais, o Juízo de origem, amparado na interpretação do Código de Processo Penal e nas provas produzidas, deu provimento à apelação interposta pelo réu.
+
+    Nesse contexto, para divergir do acórdão recorrido, seria necessário o reexame das citada norma infraconstitucional e do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Com esse entendimento, cito o seguinte julgado desta Suprema Corte:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO EXTRARDINÁRIO COM AGRAVO. CRIMES DE HOMICÍCIO QUALIFICADO E DESTRUIÇÃO DE CADÁVER. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENETE E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. ART. 93, IX, DA CONSTITUIÇÃO FEDERAL. DECISÃO DEVIDAMENTE FUNDAMENTADA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+
+    1. A jurisprudência do Supremo Tribunal Federal é no sentido de que a controvérsia relativa à individualização da pena passa necessariamente pelo exame prévio da legislação infraconstitucional. Precedentes: AI 797.666-AgR, Rel. Min Ayres Britto; AI 796.208-AgR, Rel Min. Dias Toffoli; RE 505.815-AgR, Rel. Min. Joaquim Barbosa.
+
+    2. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Precedente: ARE 1.398.668-AgR, Relª. Minª. Rosa Weber.
+
+    3. O Supremo Tribunal Federal tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+
+    4. Agravo regimental a que se nega provimento” (ARE 1.174.120 AgR/SP, Rel. Min. Luís Roberto Barroso, Primeira Turma, DJe 15/9/2023).
+
+    “DIREITO PENAL E PROCESSUAL PENAL. USO DE DOCUMENTO FALSO. AUTORIA E MATERIALIDADE COMPROVADAS. ALEGAÇÃO DE OFENSA AO ART. 5º, LXI, DA CONSTITUIÇÃO DA REPÚBLICA. CONTROVÉRSIA DE NATUREZA INFRACONSTITUCIONAL. COMPREENSÃO DIVERSA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. SÚMULA Nº 279/STF. VIOLAÇÃO REFLEXA DA LEI MAIOR NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. AGRAVO NÃO PROVIDO.
+
+    1. A controvérsia, conforme asseverado na decisão guerreada, não alcança estatura constitucional. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte a quo, bem como a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência desta Suprema Corte.
+
+    2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+
+    3. Agravo interno conhecido e não provido” (ARE 1.407.407 AgR/MG, Rel. Min. Rosa Weber, Tribunal Pleno, DJe 4/9/2023).
+
+    Posto isso, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 26 de setembro de 2023.
+
+Ministro Cristiano Zanin
+
+Relator
