@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANDERSON RIBEIRO contra decisão, da lavra deste signatário, acostada às fls. 1845/1847, que conheceu do presente incidente e, por conseguinte, declarou a competência do r. juízo da 1ª Vara Cível de Brumadinho/MG, onde se processa a recuperação judicial da suscitante, ora embargada.
+Em suas razões, o insurgente aponta omissão no julgado porquanto, na sua compreensão, "(..) a recuperação sequer foi levada ao conhecimento da justiça do trabalho nos autos da RT 0500002-42.2013.5.17.0006, o que impede o contraditório e ampla defesa. Neste aspecto requer seja sanada a omissão do v. despacho, e o pronunciamento jurisdicional de que a empresa deve informar primeiramente na justiça do trabalho, para que então o juízo de primeiro grau manifeste-se antes da instauração do conflito de competência, sob pena de cerceio do direito de defesa bem como da supressão de instancias visto que já esta entrando pelo STJ."
+Requer, assim, o acolhimento da insurgência a fim de sanar a omissão apontada. (fls. 1853/1856)
+Impugnação juntada às fls. 1859/1861.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, registram-se os seguintes precedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que este signatário, apoiado em pacífica orientação jurisprudencial da Segunda Seção, deixou consignado compreensão segundo a qual iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei 11.101/2005).
+Na mesma linha: CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016; AgInt no CC 146.036/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016.
+Com efeito, na hipótese em foco, Diante da jurisprudência supramencionada, e das decisões cujas cópias foram juntadas às fls. 60/67 (Juízo da Recuperação Judicial) e à fl. 2227 (Justiça do Trabalho) revela-se o direito invocado na exordial. De igual forma, observa-se a efetivação determinação de constrição judicial, sem o devido exame pelo Juízo Recuperacional, não havendo se falar, portanto, em negativa de prestação jurisdicional p orquanto a decisão ora combatida está devidamente fundamentada.
+Desse modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
