@@ -1,0 +1,3 @@
+# LEI Nº 22.292, DE 26 DE SETEMBRO DE 2023
+Ratifica o protocolo de intenções firmado entre os Estados de Goiás, Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe, Tocantins e o Distrito Federal para a constituição do consórcio interestadual com o objetivo de promover o enfrentamento aos efeitos adversos das mudanças do clima no Brasil.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
