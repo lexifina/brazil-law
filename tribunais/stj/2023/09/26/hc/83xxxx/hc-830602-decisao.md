@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de MAURICIO BARBOSA DE OLIVEIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2089283-97.2023.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, convertido em preventiva, e denunciado por ter supostamente praticado os delitos tipificados nos arts. 171, caput, c/c art. 14, inciso II, 297 e 304, do Código Penal - CP (estelionato tentado, falsificação de documento público e uso de documento falso).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas Corpus. Uso de documento público falso e estelionato. Pleito de revogação da prisão cautelar. Dúvida acerca da identidade do paciente. Manutenção posterior da prisão preventiva com fundamento no risco de reiteração delitiva. Necessidade de garantia à ordem pública demonstrada. Ordem denegada" (fl. 22).
+No presente writ, o impetrante alega a prescindibilidade da custódia cautelar, mormente em se considerando que não houve a obtenção da vantagem ilícita. Reputa ausentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Destaca as condições pessoais favoráveis do paciente, como bons antecedentes e residência fixa, além do fato de possuir filhos menores que dependem de seu sustento.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Pondera que não há elementos mínimos que indiquem a autoria delitiva.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido de liminar foi indeferido (fls. 80/81), as informações foram prestadas (fls. 86/112), e o Ministério Público Federal opinou pela denegação da ordem (fls. 118/119).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Busca-se, no presente writ, a revogação da prisão preventiva do paciente.
+Inicialmente, cumpre consignar que, conforme informações obtidas no sistema informatizado do Tribunal de origem, em 14/8/2023, nos autos da Ação Penal n. 1513569-86.2023.8.26.0228, sobreveio sentença condenando o ora paciente à pena total de 2 anos e 8 meses de reclusão, em regime inicial semiaberto. Na ocasião a custódia cautelar restou mantida com base em fundamentos diversos daqueles utilizados na decisão da preventiva, tendo sido determinada a expedição de guia de recolhimento.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar dos réus, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Por ter permanecido preso durante o processo e porque ainda presentes os requisitos autorizadores da prisão cautelar, não faculto ao réu o direito de recorrer em liberdade"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora recorrente, fica superada a alegação trazida no mandamus na parte que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância. No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA PROFERIDA. PENA DE 09 (NOVE) ANOS DE RECLUSÃO EM REGIME FECHADO. NOVOS FUNDAMENTOS. PREJUDICIALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Regimento Interno desta Corte (arts. 34, XX) permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+II - A superveniência de sentença condenatória poderá caracterizar novo título judicial quando forem inseridos novos fundamentos para a segregação cautelar, sendo capaz de prejudicar o writ. In casu, sobreveio sentença condenatória em desfavor do ora agravante, condenando-o à pena de 9 (nove) anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto art 33, § 1º, II, da Lei 11.343/2006. Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva.
+III - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg na PET no RHC 106.567/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 02/04/2019)
+Noutro giro, a análise quanto à autoria e materialidade delitiva já foi realizada pelo Juízo competente para a instrução e julgamento da causa, que, considerando suficientes os elementos probatórios contidos nos autos, proferiu sentença condenando o ora paciente. No ponto, é inadmissível o enfrentamento da tese na via estreita do habeas corpus, ante a necessária incursão probatória, incompatível com o rito do remédio constitucional.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. NEGATIVA DE AUTORIA. ALEGAÇÃO DE INOCÊNCIA. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. RÉU REINCIDENTE. SENTENÇA CONDENATÓRIA QUE NEGOU O DIREITO DE RECORRER EM LIBERDADE. RÉU PRESO DURANTE A INSTRUÇÃO. CONDENAÇÃO FIXADA EM 5 ANOS, 10 MESES DE RECLUSÃO, APÓS JULGAMENTO EM 2ª INSTÂNCIA. NECESSIDADE DE ASSEGURAR A ORDEM PÚBLICA. AUSENTE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A tese de que não há prova suficiente de autoria em relação ao agravante consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. As instâncias ordinárias destacaram a necessidade da medida extrema, especialmente diante da grande quantidade de drogas apreendidas (1 kg de maconha) e do fato de o réu ser reincidente, ostentando duas condenações definitivas.
+4. O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o agravante permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, lhe fosse deferida a liberdade.
+5. Agravo regimental improvido.
+(AgRg no RHC 125.973/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 30/06/2020).
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
