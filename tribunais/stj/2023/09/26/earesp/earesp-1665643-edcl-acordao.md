@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 20/09/2023 a 26/09/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Ausente vício capaz de ensejar o acolhimento dos declaratórios, verifica-se tratar-se de mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. SUFICIÊNCIADA FUNDAMENTAÇÃO DO JULGADO RECORRIDO. CONFORMIDADE COM O TEMA N. 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE COMPETÊNCIA DO STJ. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. NEGATIVA DE SEGUIMENTO.
+1. "O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (Tema n. 339/STF, QO no Ag n. 791.292/PE).
+2. Existente a fundamentação, entende o Supremo Tribunal Federal que foi respeitado o art. 93, IX, da CF, mesmo que a parte não a repute adequada ou completa, conforme a conclusão firmada no Tema n. 339/STF, tese de observância obrigatória (CPC, art. 927, III).
+3. "A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+4. Incide a tese fixada no Tema n. 181/STF, conquanto se queira, no recurso extraordinário, discutir o mérito da causa ou as razões impeditivas do conhecimento do recurso.
+5. Agravo interno a que se nega provimento.
+As partes embargantes sustentam (fls. 1.063 e 1.065):
+O V. Acórdão ora embargado OBSCURAMENTE está afirmando que seu julgado negando processamento dos Embargos de Divergência teve fundamentação suficiente, quando a negação da prestação jurisdicional/violação da coisa julgada decorrem do descumprimento de dever de ofício dos julgadores, que se impõe independentemente de ter sido conhecido ou não os Embargos de Divergência, posto ser obrigatória a observância dos julgados em regime repetitivo, in casu, REsp n. 1.134.186-RS, 1.262.933-RJ e 1.102.460-RJ - Temas n. 407, 536 e 893 do STJ, afinal, é do entendimento deste C. STJ que é impossível o afastamento da multa e honorários, para o devedor que não paga no prazo do art. 523, caput, do CPC/15, descabendo o descumprimento do dever de ofício, sob justificação de imposição de óbices regimentais que se aplicam apenas aos jurisdicionados recorrentes, jamais aos julgadores à quem, diante da decisão que confirma que deu-se "depósito em garantia" tem o dever de impor a incidência de multa e honorários previstos no art. 523, § 1º, do CPC/15, assim como, diante da superveniente comprovação de estarem findos com trânsito em julgado os recursos opostos pelo banco devedor, se impõe declarar o cancelamento da exigência de caução dos devedores, mesmo não tendo sido reconhecida a negativa de vigência ao art. 525, § 6º, do CPC/15 (que exige caução dos devedores e não dos credores), afinal, sem a pendência de recursos, não há possibilidade jurídica do cumprimento de sentença causar prejuízo ao banco devedor.
+O V. Acórdão ora embargado apresenta-se omisso de fundamentação legal para justificação do descumprimento do dever de ofício, posto que os fundamentos utilizados para o não conhecimento dos Embargos Infringentes limitam-se a referido recurso e aos jurisdicionados recorrentes, não se justificando para fundamentação da negação de cumprimento de dever de ofício de enfrentamento das questões de ordem pública que se verificaram supervenientemente que obrigam dar observância dos julgados em regime repetitivo e de dar solução as questões supervenientes ao término da impugnação.
+Aduzem, ademais, que teria sido (fl. 1.070):
+Obscura a invocação do Tema n. 181 da repercussão geral, posto que, o Recurso Extraordinário não está buscando revisão do cabimento do Embargos de Divergência em razão dos óbices impostos, mas sim, por ter havido ilegal negação do conhecimento parcial do Recurso Especial e negação do cumprimento do dever de ofício de enfrentamento das questões supervenientes que declararam ser depósito em garantia o que se defendia ser pagamento sem ressalvas e impôs trânsito em julgado aos recursos do banco devedor, tornando obrigatório o dever de observância aos julgados em regime repetitivo, in casu, REsp n. 1.134.186-RS, 1.262.933-RJ e 1.102.460-RJ - Temas n. 407, 536 e 893 do STJ e insubsistente a mantença da exigência de caução, cujo descumprimento enseja NEGAÇÃO DA PRESTAÇÃO JURISDICIONAL e demais razões de direito apresentadas no Recurso Extraordinário. Requer-se o aclaramento do V. Acórdão posto que, descabe aos julgadores modificarem as razões recursais para adaptação de seus entendimentos denegatórios da prestação jurisdicional requerida.
+Requerem o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Ausente vício capaz de ensejar o acolhimento dos declaratórios, verifica-se tratar-se de mera discordância da parte com a solução apresentada e o propósito de modificação do julgamento.
+3. Embargos de declaração rejeitados.
+VOTO
+O art. 1.022 do Código de Processo Civil define as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, da mesma norma, que configurariam a carência de fundamentação válida; e d) erro material.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, foi consignado que a discussão dos autos não poderia ser realizada em recurso extraordinário, consoante os Temas n. 181 e 339 do STF.
+Portanto, inexistindo vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com a via aclaratória.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto, desde logo, que reiterados embargos de declaração dessa natureza serão sancionados com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
