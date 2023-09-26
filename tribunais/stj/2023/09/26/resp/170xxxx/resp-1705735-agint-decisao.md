@@ -1,0 +1,12 @@
+DECISÃO
+De acordo com os autos, o MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS ajuizou, em 23/12/2015 (fls. 37/47e), Ação Civil Pública, Cautelar, contra a SAMARCO MINERAÇÃO S/A, requerendo, liminarmente, "seja ordenado à requerida a obrigação de fazer no sentido de entregar água mineral em cada residência do município de Alpercata, facultando-lhe, porém, a elaboração de um plano de logística que atenda a população de forma a respeitar o princípio da dignidade da pessoa humana, o que poderá ser apresentado aos autos e analisado sob o crivo do contraditório" (fl. 49e). Ao final, postulou a procedência do pedido, "com a finalidade de confirmar a liminar e obrigação de fazer no sentido de entregar água mineral em cada residência do Município de Alpercata, com a faculdade já citada no pedido liminar" (fl. 50e).
+Em 13/01/2016, a SAMARCO interpôs Agravo de Instrumento contra decisão que deferiu a liminar, para lhe impor a "obrigação de fazer consistente na entrega de 20 (vinte) litros de água mineral para cada residência do município de Alpercata ("Município"), sob pena de multa diária no valor de R$ 300.000,00 (trezentos mil reais), com a possibilidade de apresentação de um plano de logística para o cumprimento da referida obrigação" (fl. 5e).
+No acórdão objeto do Recurso Especial, publicado em 21/09/2016, o Tribunal de origem declinou "a competência para a 12a Vara Federal da Seção Judiciária de Minas Gerais, em razão da conexão, e determino a remessa dos autos do processo originário e os recursos e ele atrelados ao referido Juízo" (fl. 1.090e).
+Em consulta à página eletrônica do Tribunal de Justiça do Estado de Minas Gerais, constato que fora dada baixa definitiva à mencionada Ação Civil Pública em 09/05/2019.
+Diante de tal cenário, as partes foram intimadas a informar se ainda teriam interesse no julgamento do feito.
+Na petição de fl. 2.129e), o agravante requer "a extinção do feito em razão da perda superveniente do objeto".
+Igual postulação foi feita pela União na petição de fl. 2.135e.
+Nesse contexto, confirmada a baixa definitiva da Ação Civil Pública que deu origem ao presente ao Recurso Especial e o teor da manifestação da parte agravante, forçoso reconhecer a perda do objeto do recurso.
+Ante o exposto, reconsidero da decisão de fls. 1.295/1.302e. Com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial, ante a perda superveniente do seu objeto.
+I.
+EMENTA
