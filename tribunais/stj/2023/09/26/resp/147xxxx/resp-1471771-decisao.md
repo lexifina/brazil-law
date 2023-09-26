@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo do HSBC Bank Brasil S.A. - Banco Múltiplo em recurso especial contra acórdão de seguinte ementa (fl. 1.375):
+AGRAVO DE INSTRUMENTO. PRELIMINARES. FALTA DE ASSINATURA NA CERTIDÃO. LITIGÂNCIA DE MÁ-FÉ. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE PASSIVA DO HSBC. COISA JULGADA. PRESCRIÇÃO. INOCORRÊNCIA.
+1. Conquanto a certidão de intimação não esteja assinada pelo escrivão, consigna a decisão na integra e a data em que, as partes foram intimadas da decisão agravada. (Maioria)
+2. Deve haver prova inequívoca do dolo para que se considere a parte litigante de má-fé.
+3. Descabe a pretensão em ver reexaminada questão já superada processualmente e transitada em julgado, através de decisão do Tribunal de Justiça.
+4. A prescrição que deve ser observada é a referente ao cumprimento de sentença, de modo que o termo a ser observado é o trânsito em julgado da decisão do processo de conhecimento, e não a data de celebração do contrato de compra e venda entre o HSBC e o Bamerindus.
+Agravo de Instrumento conhecido, por maioria, e desprovido.
+Alega o banco ofensa aos arts. 6º da Lei 9.447/97; 16 e 50 da Lei 6.024/74; 267, 458, 472, 475-J, 535 e 568 do Código de Processo Civil; 206 e 265 do Código Civil, bem como dissídio.
+Aponta vício de prestação jurisdicional relativo a questões levantadas em embargos de declaração, não tratadas pelo Tribunal de origem, notadamente em relação à ilegitimidade para responder à causa, à duplicidade de cobrança e à prescrição intercorrente.
+Alega que a coisa julgada não se opera contra o banco recorrente, eis que não era parte quando da prolação do acórdão que o incluiu na lide.
+Aduz ser parte ilegítima para figurar como réu e que não haveria nenhuma previsão legal que imponha a obrigatoriedade de comprovação de que o crédito objeto da execução estava entre os excluídos na operação realizada entre as instituições financeiras e que, ao contrário, inexistindo sucessão entre as instituições, deveria o recorrido, ao postular a inclusão do HSBC no polo passivo da medida executiva, comprovar que seu crédito estava entre aqueles cedidos ao Banco HSBC, o que não teria ocorrido.
+Sustenta a existência de habilitação de crédito em liquidação do banco Bamerindus, o que configuraria cobrança em duplicidade dos valores em ações diferentes.
+Alega a prescrição intercorrente na espécie.
+Argumenta que há fato superveniente à interposição de recurso na origem, qual seja, transação ocorrida em ação de responsabilidade proposta pelo Ministério Público do Estado do Paraná.
+Por ocasião da MC 21.539/PR deferi medida liminar para atribuir efeito suspensivo ao recurso especial, uma vez que, em exame preliminar, havia indícios de vício de prestação jurisdicional, notadamente quanto a manifestações específicas em relação a fatos relevantes invocados pela instituição financeira recorrente.
+Relatados, passo a decidir.
+De início, tendo em vista as alegações e impugnações da parte adversária quanto ao conhecimento do agravo de instrumento na origem, registro que correto o acórdão recorrido ao afastar o vício formal da impugnação do HSBC, ora recorrente.
+Tem-se que o Tribunal de origem, ao afastar a irregularidade do agravo de instrumento, assim registrou (fl. 1.377):
+Não merece prosperar a preliminar de não conhecimento do recurso, arguida pelos agravados. Conquanto a certidão de intimação de fls. 989-TJ não esteja assinada pelo escrivão, consigna a decisão na íntegra e a data em que as partes foram intimadas da decisão agravada, consoante se vislumbra da cópia extraída dos autos originais e juntada no recurso.
+É bem verdade, que a certidão de intimação constitui documento obrigatório para a formação do agravo de instrumento, consoante o artigo 525, I, do Código de Processo Civil, ônus que incumbe à parte. Assim procedeu o agravante, ao instruir o recurso de agravo de instrumento com as cópias da decisão agravada, das procurações outorgadas ao agravante e agravados e da certidão de intimação, que todavia, não restou firmada pelo escrivão.
+Entretanto, a mera falta de assinatura da Certidão de veiculação, publicação e prazo não impede o conhecimento do agravo de instrumento, por se tratar de irregularidade sanável.
+De outro lado, não desconheço haver jurisprudência deste Tribunal no sentido do não-conhecimento do recurso quando incompleta a certidão de intimação. Entretanto, no caso dos autos, além de constar o documento obrigatório, é possível se aferir a autenticidade do conteúdo do documento mediante simples consulta ao site do Tribunal de Justiça, não sendo a falta da assinatura do escrivão motivo suficiente para se negar o prosseguimento do feito.
+Ademais, sabe-se das enormes dificuldades que os cartórios das Varas Civeis da Capital enfrentam em face da enorme quantidade de processos, o que acarreta equívocos da serventia, como no caso dos autos, a falta de assinatura."
+Esta Corte Superior firmou seu posicionamento no sentido de consagrar o princípio da instrumentalidade das formas e admitir o exame de tempestividade por meio de outros elementos. Neste sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO DO ART. 525, DO CPC. AUSÊNCIA DA CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA. AFERIÇÃO DA TEMPESTIVIDADE POR OUTROS MEIOS. POSSIBILIDADE. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. RECURSO ESPECIAL REPETITIVO. ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. PROVIMENTO DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TESE CONSOLIDADA.
+1.- Para os efeitos do art. 543-C do Código de Processo Civil, foi fixada a seguinte tese: "A ausência da cópia da certidão de intimação da decisão agravada não é óbice ao conhecimento do Agravo de Instrumento quando, por outros meios inequívocos, for possível aferir a tempestividade do recurso, em atendimento ao princípio da instrumentalidade das formas."
+2.- No caso concreto, por meio da cópia da publicação efetivada no próprio Diário da Justiça Eletrônico n. 1468 (e-STJ fls. 22), é possível aferir-se o teor da decisão agravada e a da data de sua disponibilização - "sexta-feira, 31/8/2012". Assim, conforme dispõe o artigo 4º, § 3º, da Lei 11.419/2006, que regra o processo eletrônico, a publicação deve ser considerada no primeiro dia útil seguinte que, no caso, seria segunda-feira, dia 3/9/2012, o que demonstra a tempestividade do agravo de instrumento protocolado em 13/9/2012, como se vê do carimbo de e-STJ fls. 2.
+3.- Recurso Especial provido: a) consolidando-se a tese supra, no regime do art. 543-C do Código de Processo Civil e da Resolução 08/2008 do Superior Tribunal de Justiça; b) no caso concreto, dá-se provimento ao Recurso Especial para determinar o retorno dos autos à instância de origem para apreciação do Agravo de Instrumento.
+Ademais, acresça-se que, tendo o Tribunal de origem atestado e registrado a tempestividade do agravo de instrumento lá interposto, não pode a parte ser prejudicada por eventual falta cometida pelo próprio Poder Judiciário, ao juntar aos autos certidão desprovida de assinatura do escrivão.
+Correto, portanto, o Tribunal local ao conhecer do recurso na origem.
+Ultrapassada a preliminar, passo ao mérito.
+A causa diz respeito a revisional de contrato de abertura de crédito fixo com repasse da Finame, em fase de cumprimento de sentença.
+Não se trata, pois, de hipótese do Tema 1.015/STJ, restrito às ações relativas a expurgos inflacionários em cadernetas de poupança.
+O cumprimento de sentença foi movido inicialmente contra o Banco Bamerindus, tendo sido incluído o HSBC como sucessor universal daquela instituição financeira.
+O HSBC vem insistindo na tese de que o Bamerindus reconheceu ser responsável pelo débito e provisionou valores para o pagamento, tendo arrolado os recorridos como credores junto à liquidação e convocado para recebimento.
+Sustentou que os valores estariam sendo cobrados tanto na ação contra o HSBC quanto na liquidação em habilitação do crédito contra o Bamerindus (bis in idem).
+Invocou ainda a existência de acordo entre Bamerindus e Ministério Público do Estado do Paraná dispondo sobre os créditos (Fundo Garantidor de Créditos - FGC).
+Não fosse o suficiente, o HSBC ainda invocou a existência de suspensão do processo que implicaria prescrição intercorrente.
+Alegou que, após o reconhecimento da dívida pelo Bamerindus, teria havido suspensão do processo e que o pedido de inclusão do HSBC teria sido formulado somente 9 anos após a declaração de suspensão, o que atrairia a modalidade de prescrição intercorrente.
+Quanto aos limites da coisa julgada, vem sustentando reiteradamente que não teria feito parte da lide quando da decisão que se pronunciou sobre a sua legitimidade.
+Tais questões não foram objeto de pronunciamento específico pelo Tribunal de origem, tendo-se revelado o provimento consideravelmente genérico, o que revela a negativa de prestação jurisdicional e a necessidade de complementação do julgado, dada a relevância das alegações e seus possíveis reflexos na causa.
+Houve, de fato, vício de prestação jurisdicional, devendo o Tribunal de origem se pronunciar especificamente sobre as questões invocadas nas razões dos embargos de declaração, sob pena de ofensa ao devido processo legal e contraditório.
+Assim, merece amparo o recurso no ponto.
+Quanto aos demais aspectos, ficam naturalmente prejudicados porque dizem respeito justamente às questões omitidas pela Corte de origem.
+Em face do exposto, conheço parcialmente do agravo e dou parcial provimento ao recurso especial para reconhecer a ofensa ao art. 535 do Código de Processo Civil de 1973, determinando que as questões específicas levantadas pelo HSBC nos embargos de declaração quanto ao crédito executado e quanto à alegação de prescrição intercorrente sejam analisadas pelo Tribunal de origem.
+Intimem-se.
+EMENTA
