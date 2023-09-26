@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de Robson Tafarel Mamedes, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido na Revisão Criminal n. 5033273-36.2023.8.24.0000.
+Consta dos autos que o paciente foi condenado a 3 anos e 8 meses de reclusão, no regime fechado, e 66 dias-multa, pela prática do crime previsto no artigo 155, §§ 1º e 4º, I, do Código Penal (furto qualificado).
+A revisão criminal foi indeferida por aresto assim ementado:
+"REVISÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. FURTO PRATICADO DURANTE O REPOUSO NOTURNO E QUALIFICADO PELO ARROMBAMENTO (ART. 155, §§1º E 4º, INCISO I, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA E ACÓRDÃO CONFIRMATÓRIO IMUTÁVEIS. PRETENSA DESCONSTITUIÇÃO DA COISA JULGADA. ALEGAÇÃO DE JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. PRETENSO RECONHECIMENTO DA ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. TESE NÃO SUSCITADA EM RECURSO DE APELAÇÃO. ADEMAIS, IMPOSSIBILIDADE DE RECONHECIMENTO DA BAGATELA. RES FURTIVA CUJO VALOR, SOMADO AO PREJUÍZO DECORRENTE DO ROMPIMENTO DO OBSTÁCULO, ULTRAPASSAM 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. REINCIDÊNCIA, QUALIFICADORA E CAUSA DE AUMENTO QUE DENOTAM A RELEVÂNCIA PENAL DA CONDUTA. PRECEDENTES. PEDIDO REVISIONAL CONHECIDO E INDEFERIDO." (fl. 388)
+Na presente impetração, a defesa busca a aplicação do princípio da insignificância com a finalidade de absolver o paciente.
+Pretende, em liminar, a suspensão dos efeitos da condenação até o julgamento do mandamus.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+No caso em análise, contudo, a despeito do valor do bem, consignou a Corte de origem cuidar-se de paciente contumaz na prática de delitos (réu reincidente), porquanto ostenta condenação com trânsito em julgado, sobretudo por crime de natureza patrimonial, bem como se trata de furto qualificado pelo arrombamento.
+Além disso, mesmo considerando que o valor subtraído é inferior a 10% do salário mínimo, o prejuízo sofrido pela vítima com o arrombamento de seu carro e perda do bem aproxima-se a 15% do salário mínimo, o que também deve ser considerado para impedir a aplicação desse princípio, pois não houve somente a subtração da res, mas, também, a destruição do vidro do automóvel.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. RES FURTIVA SUPERIOR A 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. EXISTÊNCIA DE ANOTAÇÕES NA FOLHA DE ANTECEDENTES CRIMINAIS. AGRAVO IMPROVIDO.
+1. Esta Corte Superior de Justiça firmou entendimento de que a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo ou concurso de agentes, caso dos autos, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância (HC n. 351.207/RS, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 28/6/2016, DJe 1/8/2016) (HC n. 459.407/SC, Relator Ministro Ribeiro Dantas, DJe 23/10/2018).
+2. Não é insignificante o furto de objeto avaliado em R$ 280,00 (duzentos e oitenta reais), mais de 25% do valor do salário mínimo vigente ao tempo da subtração (R$ 1.100,00).
+3. A reiteração no cometimento de infrações penais se reveste de relevante reprovabilidade e se mostra, no caso, incompatível com a aplicação do princípio da insignificância.
+4. O simples fato de o bem haver sido restituído à vítima, não constitui, por si só, razão suficiente para a aplicação do princípio da insignificância" (AgRg no REsp n. 1.996.285/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 15/9/2022.) 5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.378.868/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/9/2023, DJe de 8/9/2023.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ATIPICIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES. CRIME COM ARROMBAMENTO DE PORTA E SUBTRAÇÃO DE DINHEIRO EM ESPÉCIE DE CAIXA DO ESTABELECIMENTO. IMPOSSIBILIDADE DE RECONHECIMENTO DA INSIGNIFICÂNCIA DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora seja possível o reconhecimento da bagatela própria aos réus reincidentes e aos acusados de furto qualificado, a referida aplicação excepcional depende do exame de cada caso concreto.
+Tratando-se de acusado reincidente e com maus antecedentes que, mediante arrombamento de porta de vidro, furtou objetos (caixa de band-aid e balança manual) e dinheiro em espécie do caixa do estabelecimento (R$ 103,00), não se verifica nenhuma singularidade apta a permitir a incidência da insignificância. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 823.163/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA. REGIME DE CUMPRIMENTO DE PENA. SEMIABERTO. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante entendimento da Suprema Corte, são requisitos para aplicação do princípio da insignificância: a mínima ofensividade da conduta, a ausência de periculosidade social na ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada. No caso dos autos, as instâncias ordinárias concluíram que não houve reduzido grau de reprovabilidade do comportamento, pois se trata de agente reincidente na prática de crimes contra o patrimônio.
+2. Ainda que a pena privativa de liberdade tenha sido estipulada em patamar inferior a 4 anos de reclusão, a reincidência justifica a fixação de regime mais gravoso, no caso, o semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 822.961/RJ, de minha relatoria, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. FURTO TENTADO QUALIFICADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CRIME PRATICADO EM CONCURSO DE AGENTES, ALÉM DE REITERAÇÃO CRIMINOSA, REINDICÊNCIA E MAUS ANTECEDETNES. PRECEDENTES. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Nesse compasso, é pacífico o entendimento desta Corte no sentido de que a prática do delito de furto qualificado por escalada, por arrombamento ou rompimento de obstáculo, por concurso de agentes, ou por ser o paciente reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância. (REsp n. 1.678.651/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/08/2017); (HC n. 385.427/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/3/2017).
+III - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 716.893/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
