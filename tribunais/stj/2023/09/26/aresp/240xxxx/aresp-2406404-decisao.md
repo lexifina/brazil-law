@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por LEANDRO MOTTA DA SILVA, contra decisão que não admitiu o recurso especial do insurgente.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 317-318, e-STJ):
+RECURSO DE AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTLO EXTRAJUDICIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - REJEIÇÃO - EXCESSO DE EXECUÇÃO - NECESSIDADE DE DILAÇÃO PROBATÓRIA - DECISÃO MANTIDA - RECURSO NÃO PROVIDO I - A questão em debate é incompatível com a via estreita da exceção e demanda enfrentamento pela via processual adequada, qual seja, os Embargos à Execução. II - O excesso de execução não é questão de ordem pública, mas, sim, matéria de defesa do executado, que deve ser alegada a tempo e modo oportunos, sob pena de preclusão.
+Os embargos de declaração foram rejeitados (fls. 350-354, e-STJ).
+Nas razões do recurso especial (fls. 361-379, e-STJ), o insurgente alega que o acórdão recorrido violou os artigos 489, § 1º, IV e VI, 1.022, II e parágrafo único, II do CPC, aduzindo omissão no julgado.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 439-444, e-STJ), dando ensejo a interposição do presente agravo (fls. 445-458, e- STJ).
+Foi apresentada contraminuta (fls. 461-463, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. O recorrente aponta violação aos artigos 489, § 1º, IV e VI, 1.022, II e parágrafo único, II do CPC, sob o argumento de que o Tribunal local incorreu em omissão quanto à análise das seguintes alegações: a) ausência de preclusão na alegação de excesso à execução; b) quanto à desnecessidade de produção de provas, e c) quanto à possibilidade de envio dos autos à contadoria.
+Da leitura do aresto embargado, verifica-se que a alegada violação não se configura, na medida em que a Corte Estadual, ao apreciar os recursos interpostos pela parte, dirimiu de forma clara e integralmente a controvérsia, sem omissões, abordando as teses apontadas, porém em sentido contrário ao pretendido pela parte recorrente, como se vê dos seguintes trechos do decisum (fls. 319-321, e-STJ, grifou-se):
+Inicialmente cumpre destacar que a exceção de pré-executividade constitui via excepcional, que deve ser admitida apenas quando a matéria nela suscitada possa ser conhecida de ofício pelo juiz e não dependa de dilação probatória.
+(..)
+No caso em exame, o agravante sustenta a ocorrência de suposto excesso de execução, que alega ser matéria de ofício e não sujeita à preclusão. Diz que o excesso de cobrança alcança a vultosa quantia de R$ 3.483.608,91 (três milhões quatrocentos e oitenta e três mil seiscentos e oito reais e noventa e um centavos) e que é devida a suspensão do trâmite da demanda executiva, até porque está garantida pela penhora de 9 (nove) imóveis de propriedade do requerente, que superam em muito a dívida executada.
+Todavia, ao contrário do que anuncia o agravante, o excesso de execução não é questão de ordem pública, mas, sim, matéria de defesa do executado, que deve ser alegada a tempo e modo oportunos, sob pena de preclusão.
+Conforme destacado desde a análise perfunctória do recurso, a discussão acerca de eventual excesso de execução decorrente de suposta aplicação inadequada de taxas de correção monetária, juros, multa, cobrança em duplicidade, erro material da cártula, dentre outras matérias, aponta para a necessidade de larga margem de debate, o que, por sua vez, demanda enfrentamento pela via processual adequada, incompatível com a via estreita da exceção.
+Assim, a questão em debate é incompatível com a via eleita e demanda enfrentamento pela via processual adequada, qual seja, os Embargos à Execução.
+(..)
+Quanto ao pedido alternativo, se a matéria demanda enfrentamento pela via dos Embargos à Execução, não é por meio da exceção de pré-executividade que o agravante alcançará o seu intento de ver refeitos os cálculos apresentados pelo agravado/excepto.
+E, no julgamento dos embargos de declaração, esclareceu que (fls. 352-353, e-STJ):
+Não obstante as alegações do embargante, o acórdão objurgado foi claro ao destacar a necessidade de dilação probatória, pela via adequada, para se aferir o eventual excesso de execução decorrente de suposta aplicação inadequada de taxas de correção monetária, juros, multa, cobrança em duplicidade, erro material da cártula, dentre outras matérias alegadas pelo embargante na exceção.
+De outra feita, em que pese o embargante defender a existência de omissão em relação à distinção entre os julgados por ele apresentados nas razões recursais, os precedentes invocados pelo embargante não possuem caráter vinculante e, nesse caso, o julgador não se encontra obrigado a aplicar o entendimento nele esposado, bem como empregar as técnicas de hermenêutica cunhadas como distinguishing e overruling para afastá-lo, haja vista que tais mecanismos somente operam em relação a precedentes vinculantes. " (TJ-DF 07115048820178070003 DF 0711504-88.2017.8.07.0003, Relator: ALFEU MACHADO, Data de Julgamento: 01/07/2020, 6ª Turma Cível, Data de Publicação: Publicado no DJE: 16/07/2020).
+Calha frisar que o órgão colegiado não é obrigado a responder meticulosamente todas as alegações expendidas pelos litigantes, desde que vislumbre razões bastantes a direcionar sua decisão e o faça, examinando suficientemente os fundamentos fático-jurídicos aplicáveis à espécie e decidindo de forma clara e precisa, solucionando adequadamente o objeto da controvérsia: (..).
+Como visto, as teses da parte insurgente foram apreciadas pelo Tribunal a quo, que a afastou apontando os fundamentos jurídicos para tal. Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AÇÃO DE OBRIGAÇÃO DE PAGAR QUANTIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. OMISSÃO. NÃO CONFIGURADAS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.(EDcl no AgInt no AREsp n. 2.116.996/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)  grifou-se
+AGRAVO INTERNO. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. NEXO CAUSAL. DANO MORAL. OCORRÊNCIA. INDENIZAÇÃO. VALOR. VERIFICAÇÃO. IMPOSSIBILIDADE. SUCUMBÊNCIA. MONTANTE, PERCENTUAL E DECAIMENTO. AVERIGUAÇÃO. INVIABILIDADE. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. CONCLUSÕES ADOTADAS COM FASE EM ELEMENTOS FÁTICOS DOS AUTOS. JUROS E CORREÇÃO MONETÁRIA DOS HONORÁRIOS ADVOCATÍCIOS. NÃO DEMONSTRAÇÃO DE MOTIVOS PARA REFORMA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. NÃO PROVIMENTO.
+1. Não configurada a alegada omissão, contradição ou obscuridade, tendo em vista que houve manifestação suficiente e clara acerca dos temas postos em discussão desde a origem.
+2. A reanálise das conclusões acerca do nexo causal, dano moral, valor da indenização, montante, decaimento e percentual de sucumbência e à litigância de má-fé, fundamentadas nos fatos e provas dos autos, esbarra no óbice da Súmula n.º 7 do STJ.
+3. Não havendo esclarecimento suficiente acerca dos motivos aptos à modificação do entendimento adotado pela Corte de origem e da violação dos dispositivos legais trazidos ao debate, inviável o conhecimento do especial pelo óbice da Súmula n.º 284 do STF.
+4. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.139.665/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NÃO CONFIGURADAS. ERRO MATERIAL CONSTATADO. MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/2015. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS.
+1. Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2. É descabida a pretensão da parte embargada de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, na hipótese, porquanto inexistente o caráter protelatório apontado.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos .
+(EDcl no AgInt no AREsp n. 1.979.004/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)  grifou-se
+Afasta-se, portanto, a alegada ofensa ao artigo 1022 do CPC.
+2. Ante o exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
