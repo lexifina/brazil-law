@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência negativo envolvendo o r. JUÍZO DA 3.ª VARA DO TRABALHO DE SANTO ANDRÉ-SP, suscitante, e o r. JUÍZO DE DIREITO DA 7.ª VARA CÍVEL DE SANTO ANDRÉ-SP, suscitado.
+Ação: Cominatória ajuizada por ENEAS ZANOZELO e OUTROS, perante o r. Juízo suscitado em face de POSTAL SAÚDE-CAIXA DE ASSISTÊNCIA E SAÚDE DOS EMPREGADOS DOS CORREIOS.
+Decisão do Juízo Suscitado: declinou de sua competência ao fundamento de que "(..) apesar de ser a ré pessoa jurídica de direito privado, o plano de saúde objeto deste feito é coletivo empresarial com regime de auto gestão, sendo tal benefícios instituído em razão de convenção coletiva de trabalho. Imperativo, portanto que se aplique o quanto exposto no IAC nº 05/STJ", logo, a competência para o julgamento da ação é da Justiça do Trabalho. (fls. 86-88).
+Decisão do Juízo Suscitante: suscitou o presente conflito, pois "(..) Somente se o plano fosse gerido pelo próprio empregador a competência seria da Justiça do Trabalho, como a gestão competia a Caixa Assistencial/Fundação criada pelo empregador, dada a autonomia em relação ao contrato de trabalho, a competência é da Justiça Comum Estadual." (fls. 2064-2066).
+Parecer do Ministério Público Federal: opinou pela competência do juízo suscitado (fls. 2281-2285).
+É o relatório.
+Decisão.
+O presente conflito de competência deve ser conhecido, porquanto instaurado entre juízos vinculados a Tribunais distintos (artigo 105, inciso I, alínea "d", da Constituição da República de 1988).
+1. A questão tratada nos presentes autos foi objeto de debate pela Segunda Seção desta Corte e na oportunidade firmou-se posicionamento no sentido da competência da Justiça do Trabalho para processar e julgar as controvérsias instauradas entre usuários e plano de saúde constituído sob a modalidade de autogestão e operado pela própria empresa, na hipótese de o benefício ter sido criado mediante convenção coletiva de trabalho.
+Confira-se a ementa do referido julgado:
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE PLANO DE SAÚDE. MODALIDADE DE AUTOGESTÃO INSTITUÍDA. INATIVIDADE DO EX-EMPREGADO. MANUTENÇÃO DAS MESMAS CONDIÇÕES. COMPETÊNCIA. JUSTIÇA COMUM.
+1. Ação de obrigação de fazer ajuizada em 2015, da qual foi extraído o presente recurso especial, interposto em 06/11/2017.
+2. Incidente de assunção de competência instaurado para decidir sobre a Justiça competente para julgamento de demanda relativa a contrato de plano de saúde assegurado em contrato de trabalho, acordo ou convenção coletiva.
+3. A jurisprudência da Segunda Seção reconhece a autonomia da saúde suplementar em relação ao Direito do Trabalho, tendo em vista que o plano de saúde coletivo disponibilizado pelo empregador ao empregado não é considerado salário, a operadora de plano de saúde de autogestão, vinculada à instituição empregadora, é disciplinada no âmbito do sistema de saúde suplementar, e o fundamento jurídico para avaliar a procedência ou improcedência do pedido está estritamente vinculado à interpretação da Lei dos Planos de Saúde, o que evidencia a natureza eminentemente civil da demanda.
+4. Tese firmada para efeito do art. 947 do CPC/15: Compete à Justiça comum julgar as demandas relativas a plano de saúde de autogestão empresarial, exceto quando o benefício for instituído em contrato de trabalho, convenção ou acordo coletivo, hipótese em que a competência será da Justiça do Trabalho, ainda que figure como parte trabalhador aposentado ou dependente do trabalhador.
+5. Hipótese que trata de contrato de plano de saúde na modalidade autogestão instituída, pois operado por uma fundação instituída pelo empregador, o que impõe seja declarada a competência da Justiça comum Estadual.
+6. Recurso especial conhecido e provido.
+(REsp n. 1.799.343/SP, relator Ministro Paulo de Tarso Sanseverino, relatora para acórdão Ministra Nancy Andrighi, Segunda Seção, julgado em 11/3/2020, DJe de 18/3/2020) - grifamos.
+Nesse sentido, confiram-se as seguintes decisões monocráticas: CC 167.595/MS, Rel. Ministra Maria Isabel Gallotti, DJe 04/05/2020; CC 171.248/RJ Rel. Ministro Marco Buzzi, DJe de 15.4.2020; CC 170.218/RJ, Rel. Ministro Marco Aurélio Bellizze, DJe de 25.3.2020; e CC 146.551/SP, Rel. Ministro Ricardo Villas Bôas Cueva, DJe de 1º.2.2018.
+Contudo, considerando que na hipótese dos autos não se tem notícia de que o plano de saúde em tela tenha sido instituído mediante convenção coletiva de trabalho, essa circunstância atrai, por conseguinte, a competência da Justiça comum para o exame da controvérsia.
+2. Ante o exposto, com base no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, conheço do conflito e declaro competente o r. JUÍZO DE DIREITO DA 7.ª VARA CÍVEL DE SANTO ANDRÉ-SP, ora suscitado .
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
