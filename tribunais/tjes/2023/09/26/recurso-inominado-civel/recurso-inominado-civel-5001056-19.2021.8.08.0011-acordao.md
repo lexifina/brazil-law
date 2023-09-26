@@ -1,0 +1,32 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+TURMA RECURSAL - 1ª TURMA
+
+PROCESSO Nº
+5001056-19.2021.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: LAILA MENGALI MORO DA SILVA
+RELATOR(A):BRUNO SILVEIRA DE OLIVEIRA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: A unanimidade, conceder parcialmente a seguranca, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 1ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
