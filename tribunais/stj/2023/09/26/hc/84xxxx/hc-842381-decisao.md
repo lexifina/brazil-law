@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Rafael Mendes de Souza, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0007563-64.2023.8.26.0996.
+Consta dos autos que o paciente cumpre duas penas, com a somatória de 31 anos, pelos crimes de receptação e homicídio qualificado.
+A defesa requereu a remição da pena por estudo ao juízo da execução, que indeferiu o pedido.
+Irresignada, interpôs agravo de execução, que foi desprovido em acordão de fls. 42/47.
+No presente writ, a defesa sustenta a ocorrência de constrangimento ilegal à liberdade do ora paciente, decorrente do indeferimento da remição da pena.
+Argumenta que o paciente estudou por conta própria, tendo apresentado as "grades de estudo", o atestado de comportamento carcerário e o certificado de conclusão do curso.
+Requer a concessão da remição.
+Indeferido o pedido liminar às fls. 55/56.
+As informações foram prestadas às fls. 63/65 e 69/78.
+O Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem, em parecer de fls. 80/82.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Ao indeferir o pedido, o acordão assentou:
+"Como se vê, o texto legal exige que as atividades de estudo realizadas sejam certificadas por autoridades educacionais competentes.
+Ademais, em se tratando de ensino à distância, com o fito de garantir uma fiscalização da unidade prisional acerca do estudo realizado, passou-se a exigir uma formalidade mínima, consistente no cadastramento de tais instituições junto à Secretaria de Administração Penitenciária.
+ ..
+Assim, como o agravante não logrou êxito em comprovar que a instituição emitente do certificado estava, ao tempo de sua emissão, integrada ao projeto político-pedagógico da unidade e autorizada ou conveniada com o poder público para os fins a que se propõe, incabível o deferimento do pleito sustentado." (fls. 44/46)
+Da análise dos trechos acima transcritos, constata-se que a orientação firmada no acórdão impugnado não destoa da jurisprudência desta Corte Superior, no sentido de que a remição de pena pelo estudo somente é possível quando devidamente acompanhados de dados a respeito da carga diária de estudos, frequência escolar e métodos de avaliação empregados, além de haver habilitação da instituição para ministrar os cursos, nos termos do art. 126, §§ 1º e 2º, da Lei de Execução Penal.
+Vejam-se os seguintes precedentes nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REMIÇÃO DE PENA. ENSINO À DISTÂNCIA. ENTIDADE EDUCACIONAL (ESCOLA CENED) QUE NÃO POSSUI CREDENCIAMENTO, PERANTE O MINISTÉRIO DA EDUCAÇÃO, PARA OFERTAR O CURSO PROFISSIONALIZANTE EFETUADO PELO EXECUTADO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. Nos termos do art. 126, § 2º, da Lei de Execução Penal, a remição de pena em virtude de estudo realizado pelo apenado deve atender o que estabelece a Resolução n. 391, de 10/05/2021, do Conselho Nacional de Justiça (publicada no DJe/CNJ n. 120/2021, de 11/05/2021), a qual explicita que as atividades de educação não escolar, tais quais as de capacitação profissional, devem ser integradas ao projeto político-pedagógico da unidade prisional e devem ser realizadas por instituições de ensino autorizadas ou conveniadas com o poder público para esse fim, além de reprisar, em essência, os requisitos postos na revogada Recomendação n. 44/2013, do CNJ.
+3. Na hipótese vertente, a Corte de origem entendeu que os requisitos necessários à concessão do benefício da remição não foram preenchidos, pois o curso realizado na modalidade de ensino a distância não teve nenhuma fiscalização de horas diárias estudadas ou de grade curricular por parte da unidade penitenciária ou de entidade escolar a ela conveniada, isso sem contar que a instituição emissora do certificado não possui credenciamento, junto ao Sistema Nacional de Informações da Educação Profissional e Tecnológica (SISTEC) do Ministério da Educação, para ofertar os cursos à distância em questão.
+4. Com efeito, a consulta ao site do Sistema Nacional de Informações da Educação Profissional e Tecnológica (SISTEC) do Ministério da Educação permite constatar que a instituição responsável pela certificação dos cursos realizados pelo apenado (Centro de Educação Profissional - Escola CENED) apresenta credenciamento, na modalidade de ensino a distância, apenas para a oferta de dois cursos (Técnico em Secretaria Escolar e Técnico em Transações Imobiliárias), que não coincidem com aquele realizado pelo reeducando.
+5. Precedentes entendendo pela impossibilidade de remição de pena em virtude de conclusão de curso à distância oferecido por entidade não credenciada para o seu oferecimento perante o Ministério da Educação: AgRg no HC n. 747.415/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022;AgRg no HC n. 721.471/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/3/2022, DJe de 31/3/2022; AgRg no HC 640.074/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 11/5/2021, DJe 17/5/2021; AgRg no HC 655.672/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021; AgRg no HC 626.363/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 13/4/2021, DJe 20/4/2021; AgRg no HC 643.088/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 9/3/2021, DJe 15/3/2021.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 821.778/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/5/2023, DJe de 5/6/2023.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REMIÇÃO PELO ESTUDO. INVIABILIDADE. CURSO PROFISSIONALIZANTE À DISTÂNCIA. CERTIFICADO COM DADOS INSUFICIENTES. CARGA HORÁRIA TOTAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos.
+2. A defesa não se desincumbiu de demonstrar a carga horária de efetivo estudo realizado pelo executado, a forma como os cursos foram ministrados e o método de avaliação, de forma que não restaram atendidos os requisitos legais para concessão do benefício. Cabe destacar, ainda, que a desconstituição das conclusões das instâncias ordinárias depende do exame aprofundado do conjunto fático-probatório, providencia incompatível com os estreitos limites da via eleita. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 722.145/SC, de minha relatoria, Quinta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. REMIÇÃO POR ESTUDO. REALIZAÇÃO DE CURSOS PROFISSIONALIZANTES. AUSÊNCIA DE CONFORMIDADE COM EXIGÊNCIAS LEGAIS.
+1. Ausente a apontada violação do princípio da colegialidade, porquanto o julgamento monocrático encontra previsão no Regimento Interno do Superior Tribunal de Justiça, permitindo, ao relator, decidir o habeas corpus contrário à jurisprudência dominante acerca do tema (art. 34, XX - RISTJ).
+2. A Lei 7.210, de 11/07/84 (LEP) permite a remição por estudo a distância, desde que observados os critérios para comprovação da frequência e do aproveitamento escolares.
+3. Consoante destacado pelas instâncias ordinárias, os certificados de conclusão de curso estão desacompanhados de dados a respeito de carga diária de estudos, frequência escolar e métodos de avaliação empregados, além de não haver habilitação da instituição para ministrar os cursos, em desacordo com as disposições do art. 126, §§ 1º e 2º, da Lei de Execução Penal.
+4. Agravo regimental improvido.
+(AgRg no HC n. 685.247/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Desse modo, inexi ste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
