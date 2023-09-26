@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de OSVALDO MENDONCA DE PAULA contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul proferido na Apelação Criminal n. 0000447-45.2020.8.12.0044.
+Consta nos autos que, em primeiro grau, o Paciente foi condenado às penas de "10 (dez) meses de detenção, 10 (dez) dias-multa, mantendo-se o valor anteriormente fixado (1/30 do salário-mínimo), bem como a suspensão de sua CNH ou do direito de obtê-la pelo prazo de 5 (cinco) meses" (fl. 139), pela prática dos "crimes previstos no artigo 306, caput e artigo 309 ambos da Lei 9.503/97, na forma do artigo 69 do Código Penal" (fl. 138).
+O Ministério Público estadual interpôs recurso de apelação, o qual foi provido pela Corte estadual a fim de elevar a pena para 1 (um) ano de detenção, em regime inicial aberto, e 10 (dez) dias-multa (fls. 189-192).
+Neste writ, a Impetrante sustenta, em suma, ser devida a atenuação da pena, em razão da confissão espontânea, em patamar abaixo da sanção mínima prevista no preceito secundário do delito, afastando-se o entendimento sedimentado no enunciado da Súmula n. 231 desta Corte Superior de Justiça.
+Requer o redimensionamento da reprimenda.
+Não foi formulado pleito liminar.
+Foram prestadas informações às fls. 207-214.
+O Ministério Público Federal opinou pela concessão da ordem (fls. 216-220).
+É o relatório. Decido.
+No que interessa à solução da controvérsia, tem-se que o Colegiado estadual declinou as seguintes razões (fl. 191; sem grifos no original):
+"Ademais, excluindo a possibilidade de redução aquém do mínimo, e pacificando a questão, o enunciado da Súmula 231 do STJ estipula que "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Tal Enunciado, embora não vinculante, cooptou minha aderência porque abarca os fundamentos que sempre esposei, dentre os quais os acima expostos, e dos quais motivo algum tenho para me divorciar.
+Ainda, o STJ, reiteradamente, vem confirmando os termos da Súmula 231, de forma que não se há falar em qualquer ofensa ao texto Constitucional vigente."
+Irretocável a conclusão adotada pelo Tribunal local. Com efeito, inexiste a possibilidade de redução da pena, na segunda fase dosimétrica, em patamar inferior à sanção penal mínima prevista no preceito secundário do crime. Trata-se de entendimento consolidado no enunciado da Súmula n. 231 desta Corte Superior de Justiça, in verbis: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Referido enunciado vem sendo regularmente aplicado no âmbito do Superior Tribunal de Justiça em decisões recentes, conforme se verifica nos seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. PLEITO DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência de circunstância atenuante, como a confissão espontânea, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido." (AgRg no AREsp n. 2.233.466/TO, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023.)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. ART. 33, § 4º, DA LEI N. 11.343/06. CIRCUNSTÂNCIAS ATENUANTES CAPITULADAS NO ART. 65, I E III, ALÍNEA "D", DO CÓDIGO PENAL - CP. MENORIDADE PENAL RELATIVA E CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+1. Nos termos da Súmula n. 231 do STJ, "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+1.1. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.) 2. Agravo regimental conhecido e desprovido." (AgRg no AREsp n. 2.226.158/SC, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. ATENUANTES DA CONFISSÃO ESPONTÂNEA E DA MENORIDADE RELATIVA. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. PLEITO DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A incidência de circunstância atenuante, como a confissão espontânea e a menoridade relativa, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 deste Tribunal Superior.
+2. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+3. Agravo regimental desprovido." (AgRg no AREsp n. 2.236.332/TO, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+" ..  3. Da mesma forma, também encontra amparo na jurisprudência desta Corte Superior o entendimento, segundo o qual, não é admissível a redução da pena aquém do mínimo legal pelo reconhecimento da atenuante da confissão espontânea (Súmula 231 do STJ).
+4. Agravos regimentais improvidos." (AgRg no AREsp 1908536/PE, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO), SEXTA TURMA, julgado em 22/02/2022, DJe 02/03/2022.)
+"3. No acórdão combatido, restou consignado que "a atenuante da confissão ficou sem efeito ante a manutenção da pena no mínimo legal, em respeito ao enunciado 231 da súmula de jurisprudência do Superior Tribunal de Justiça", não tendo sido demonstrada, portanto, ilegalidade a ser reparada.  ..
+5. Agravo regimental improvido." (AgRg no HC 701.879/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1. ª REGIÃO), SEXTA TURMA, julgado em 15/02/2022, DJe 21/02/2022.)
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. CRIMES PREVISTOS NOS ARTS. 306 E 309, AMBOS DA LEI N. 9.503/1997. IMPOSSIBILIDADE DE DIMINUIÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL NA SEGUNDA FASE DA DOSIMETRIA. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ORDEM DE HABEAS CORPUS DENEGADA.
