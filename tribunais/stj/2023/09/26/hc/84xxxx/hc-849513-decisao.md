@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Tarcísio de Lima Rocha, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo em Execução Penal n. 0004740-20.2023.8.26.0026.
+Consta dos autos que o paciente cumpre pena privativa de liberdade unificada pela prática dos delitos de tráfico, tráfico privilegiado e receptação, referentes a condenações penais distintas, e cujas penas, somadas, perfazem o montante de 8 anos e 6 meses de reclusão.
+A defesa requereu o indulto, referente aos crimes de tráfico privilegiado e receptação, o pedido foi indeferido pelo Juízo da Execução.
+Contra essa decisão restou aviado agravo em execução, o qual foi improvido, por acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - Indulto - Penas privativas de liberdade máxima em abstrato que somadas ultrapassam 5 anos - Requisito não preenchido -Inteligência dos artigos 5º e 11 do Decreto Presidencial 11.302/2022 - Agravo desprovido." (fl. 50)
+Na presente impetração, a defesa aduz que o paciente foi condenado a crimes cuja pena máxima não supera os 5 anos, e delito que supera os 5 anos.
+Busca a concessão do indulto para os primeiros crimes.
+Indeferido o pedido liminar às fls. 60/61.
+O Ministério Público Federal opinou pelo não conhecimento e pela denegação da ordem, em parecer de fls. 68/74.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+O voto condutor do julgado atacado assentou:
+"No caso em concreto, verifica-se que as penas privativas de liberdade máximas em abstrato pelos crimes nos quais o sentenciado foi condenado são de 08 (oito) anos e 06 (seis) meses de reclusão pelos crimes insertos no artigo 33, caput e artigo 33, § 4º,ambos da Lei n. 11.343/06 e artigo 180, caput, do Código Penal.
+Nesse contexto, as penas privativas de liberdade máximas em abstrato somadas resultam em período superior a 5 anos, impedindo-se a concessão do benefício.
+ ..
+Dessa feita, com base na exegese dos artigos 5 e 11 do Decreto Presidencial 11.302/2022, o agravante não preencheu os requisitos legais para a concessão do indulto." (fls. 54/56)
+O acordão impugnado entendeu que deve ser combinado o limite temporal de 5 anos previsto no art. 5º do Decreto com a unificação de penas estabelecida no art. 11 do mesmo decreto, de forma que devem ser somadas as penas abstratas máximas dos delitos praticados, não podendo ultrapassar 5 anos a somatória.
+Esse entendimento não encontra amparo na jurisprudência desta Corte superior, que entende que "a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade" (AgRg no REsp n. 1.902.850/GO, relator Ministro MESSOD AZULAY NETO, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Por outro lado, o parágrafo único do art. 11 do referido decreto veda a concessão do indulto aos condenados que não cumpriram a pena do crime impeditivo do benefício. Vejamos:
+"Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do disposto no art. 111 da Lei nº 7.210, de 11 de julho de 1984. Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º."
+No caso em exame, além da condenação pelos crimes de receptação e tráfico privilegiado, referentes aos quais postula o indulto, o paciente cumpre pena pela prática do crime de tráfico de drogas, considerado hediondo, cuja reprimenda ainda não foi totalmente cumprida, sendo, portanto, fator impeditivo da concessão do benefício. Vejam-se os precedentes nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NATUREZA DO DELITO DE TRÁFICO DE DROGAS. LEI N. 13.964/2019. EQUIPARAÇÃO A DELITOS HEDIONDOS. MAIOR GRAVIDADE APONTADA PELA PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA DE 1988. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É consolidado que " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021).
+2. Diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas.
+3. Agravo regimental não provido.
+(AgRg no HC n. 736.796/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. INTELIGÊNCIA DOS ARTS. 159 DO REGIMENTO INTERNO DESTA CORTE E ARTS. 937 C.C 1021, AMBOS DO CÓDIGO DE PROCESSO CIVIL. COMUTAÇÃO DE PENAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. VEDAÇÃO LEGAL (ART. 44 DA LEI N. 11.343/2006). TRÁFICO NA FORMA NÃO PRIVILEGIADA. VEDAÇÃO LEGAL E CONSTITUCIONAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Esta Corte Superior possui pacífica jurisprudência no sentido de não ser cabível prévia intimação para sessão de julgamento de agravo regimental, uma vez que esse recurso interno independe de inclusão em pauta (art. 258 do Regimento Interno do Superior Tribunal de Justiça). Há, ainda, disposição expressa quanto ao não cabimento de sustentação oral nos julgamentos de recursos internos (art. 159 do Regimento Interno desta Corte e arts. 937 c.c 1021, ambos do Código de Processo Civil).
+2. Estabelece o art. 44 da Lei n. 11.343/2006 que os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+3. Embora a vedação à concessão da comutação ao crime de associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006) não conste no Decreto Presidencial n. 9.246/2017, está expressamente delineada no art. 44, caput, da Lei n. 11.343/2006.
+4. Precedentes desta Corte Superior de Justiça no sentido da impossibilidade de concessão de indulto/comutação de penas no que tange ao crime de associação para o tráfico de drogas.
+5. Por fim, é vedada a concessão de indulto ou de comutação aos condenados por crimes hediondos ou outros a eles equiparados, entre os quais se insere o tráfico de drogas sem a incidência do art. 33, § 4º, da Lei n. 11.343/2006. Regra do art. 2º, I, da Lei n. 8.072/1990 e do art. 5º, XLIII, da CF.
+6. Agravo regimental não provido.
+(AgRg no HC n. 670.378/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/6/2021, DJe de 21/6/2021.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
