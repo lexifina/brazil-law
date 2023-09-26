@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial de MAGNO HENRIQUE CÂNDIDO DE ALMEIDA (MAGNO), pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribunal de Justiça de São Paulo (TJSP), relator CARLOS DIAS MOTTA, assim ementado:
+TELEFONIA. Ação declaratória de inexigibilidade de débito c. c. indenização por danos morais. Sentença de improcedência.
+Interposição de apelação pelo autor. Inscrição do nome do autor em cadastro de órgão de proteção ao crédito por iniciativa da empresa ré. Aplicabilidade do Código de Defesa do Consumidor. Inversão do ônus da prova. Artigo 6º, inciso VIII, do CDC. Empresa ré que tinha o dever de comprovar a exigibilidade das dívidas apontadas no cadastro de inadimplentes. Elementos constantes nos autos denotam que a empresa ré se desincumbiu a contento do seu ônus probatório.
+Impressões de tela do sistema interno da empresa ré, juntamente com os ofícios expedidos por instituições financeiras, demonstram que as dívidas apontadas no cadastro de inadimplentes decorreram da falta de pagamento das faturas de serviços de telefonia que foram prestados em favor do endereço que correspondia à residência do autor à época dos vencimentos das referidas dívidas. Alegação genérica de ausência de apresentação de contrato físico não afasta a exigibilidade das dívidas apontadas, pois não se pode descartar a hipótese de o serviço de telefonia ter sido contratado por meio eletrônico, e a exatidão dos dados pessoais do autor constantes no sistema interno da empresa ré corrobora a existência de relação jurídica entre as partes. Ausência de indício fraude. Inscrição do nome do autor no cadastro de inadimplentes caracterizou mero exercício regular de direito de credora pela empresa ré. Afastamento das pretensões declaração de inexigibilidade de débito e de reparação por danos morais. Ausência de ato ilí cito indenizável. Artigo 188, inciso I, do Código Civil. Manutenção da r. sentença. Apelação não provida. (e-STJ, fl. 698)
+Os embargos de declaração opostos por MAGNO foram rejeitados (e-STJ, fls. 725/729).
+Irresignado, MAGNO interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 373, II, 422, § 1º, 489, II, § 1º, IV, 1.022 e 1.025 do CPC/15; 6º, VIII, e 43, § 1º c/c 73 do CDC; e 186,187, 225 e 927 do CC/02, afirmando que (1) omisso o Tribunal de origem ao não considerar os elementos expostos nos autos (2) não comprovada a regularidade da cobrança realizada pela empresa e, portanto, ausente regularidade na inscrição de seu nome em cadastros de inadimplência, sobretudo porque feita com documentos apócrifos e sem validade.
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 931/933).
+Nas razões do presente agravo, alegou-se que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) omissão e negativa de prestação jurisdicional
+Inicialmente observe-se que, ao indicar afronta aos arts. 489, II, § 1º, IV, 1.022, MAGNO não demonstrou motivos consistentes para justificar a pretendida reforma do acórdão recorrido.
+Dessa forma, ante a deficiente fundamentação do recurso, incide a Súmula nº 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. DEVER DE INDENIZAÇÃO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. DESCABIMENTO. SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp 1.526.287/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/3/2020, DJe 20/3/2020)
+(2) regularidade da cobrança e da inscrição
+O Tribunal de origem, ao julgar a apelação, entendeu que comprovada a dívida e, portanto, regular a inscrição. Confira-se:
+ ..  as pretensões do autor não merecem acolhimento, conforme os fundamentos a seguir aduzidos.
+Com efeito, aplica-se ao caso concreto as disposições do Código de Defesa do Consumidor, pois a alegada relação jurídica havida entre as partes teria natureza de consumo, na medida em que o autor figuraria na condição de consumidor e a empresa ré na de fornecedora de serviços, consoante os artigos 2º e 3º do referido diploma legal.
+E o autor é hipossuficiente perante a empresa ré, pois esta é pessoa jurídica experiente na prestação do serviço de telefonia e tem melhores condições de fornecer informações relativas ao serviço prestado.
+Desse modo, cabia à empresa ré o dever de comprovar a exigibilidade das dívidas no cadastro de inadimplentes, em razão da inversão do ônus da prova, conforme o artigo 6º, inciso VIII, do CDC.
+Sucede que os elementos constantes nos autos denotam que a empresa ré se desincumbiu a contento do seu ônus probatório.
+Pois as impressões de tela do sistema interno da empresa ré, juntamente com os ofícios expedidos por instituições financeiras, demonstram que as dívidas apontadas no cadastro de inadimplentes decorreram da falta de pagamento das faturas de serviços de telefonia que foram prestados em favor do endereço que correspondia à residência do autor à época dos vencimentos das referidas dívidas (fls. 36, 39, 67/68, 479 e 483/484).
+Cumpre anotar que não há nos autos prova de que, à época dos vencimentos das dívidas apontadas, o autor residia em endereço diverso daquele constante no sistema interno da empresa ré.
+Aliás, o autor não apresentou qualquer comprovante de que ele resida no enderenço indicado na exordial (fls. 01).
+Por sua vez, o ofício de fls. 479 aponta que, entre os anos de 2011 e 2012, o que abrange o período de vencimento das dívidas apontadas, o autor residia no endereço constante no sistema interno da empresa ré.
+Ademais, ressalta-se que a alegação genérica de ausência de apresentação de contrato físico não afasta a exigibilidade das dívidas apontadas, pois não se pode descartar a hipótese de o serviço de telefonia ter sido contratado por meio eletrônico (fls. 69), e a exatidão dos dados pessoais do autor constantes no sistema interno da empresa ré corrobora a existência de relação jurídica entre as partes, não havendo nos autos qualquer indício de que a contratação tenha sido firmada mediante fraude de terceiros.
+Dessa maneira, verifica-se que as dívidas apontadas no cadastro de inadimplentes eram exigíveis, pois derivadas da falta de pagamento de faturas de serviço de telefonia, de modo que a inscrição do nome do autor no cadastro de inadimplentes caracterizou mero exercício regular de direito de credora pela empresa ré, o que afasta as pretensões declaração de inexigibilidade de débito e de reparação por danos morais, dada a ausência de ato ilícito indenizável, conforme o artigo 188, inciso I, do Código Civil. (e-STJ, fls. 701/703)
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ. Na mesma direção:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que a inscrição do nome da recorrente em cadastro de proteção ao crédito foi regular, uma vez que decorreu do inadimplemento de empréstimo concedido pelo recorrido. Alterar essa conclusão demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 795.608/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/2/2016, DJe de 1/3/2016)
+Nessas condições, CONHEÇO o agravo para NÃO CONHECER o recurso especial e NEGAR-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de TELEFÔNICA BRASIL S.A., limitados a 20%, nos termos do art. 85, § 11, do CPC, ficando suspensa a exigibilidade em caso de gratuidade da justiça (artigo 98, § 3º, CPC)
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. TELEFONIA. DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C.C. INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO DEMONSTRAÇÃO. SÚMULA Nº 284/STF. COBRANÇA. INSCRIÇÃO DO NOME EM CADASTRO DE INADIMPLÊNCIA. REGULARIDADE. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
