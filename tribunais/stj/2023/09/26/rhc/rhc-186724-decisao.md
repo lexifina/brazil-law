@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por GABRIEL FELIPE BARBOSA GOMES e JOSE ROBSON DAS CHAGAS FERREIRA desafiando acórdão do Tribunal de Justiça do Estado de Alagoas (HC n. 0803300-03.2023.8.02.0000).
+Depreende-se dos autos que os recorrentes encontram-se presos preventivamente, desde o dia 18/9/2021, pela suposta prática do delito tipificado no art. 121, § 2º, I e IV, do Código Penal.
+Impetrado habeas corpus na origem, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 486):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. CRIME DE HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA INSTRUÇÃO. NÃO VERIFICAÇÃO. INEXISTÊNCIA DE PRAZO PEREMPTÓRIO. TEMPO PARA O ENCERRAMENTO DA INSTRUÇÃO PROCESSUAL QUE NÃO PODE SER CONSIDERADO POR MERA CONTA ARITMÉTICA. INEXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS CONHECIDO PARA DENEGAR A ORDEM IMPETRADA.
+1 - Quando se trata de alegação de excesso de prazo, para a sua averiguação em sede de prisão cautelar, as decisões do Superior Tribunal de Justiça têm sido uníssonas em aplicar o princípio da proporcionalidade, o que exclui o critério unicamente aritmético.
+2 - A verificação do excesso de prazo deve observância ao princípio da proporcionalidade, analisando, caso a caso, se há desídia atribuível ao Poder Judiciário, o que não pode ser verificado nos presentes autos.
+3 - Ordem conhecida e, no mérito, denegada.
+No presente recurso, alega a Defensoria Pública que, "passados mais de 02 (dois) anos da prisão, os pacientes ainda não foram submetidos a julgamento popular, sequer há data para a finalização da fase instrutória" (e-STJ fl. 498).
+Argumenta estar configurado constrangimento ilegal pelo excesso de prazo para o encerramento da instrução criminal.
+Requer, desse modo, inclusive liminarmente, o relaxamento da prisão preventiva (e-STJ fls. 497/505).
+Liminar indeferida (e-STJ fls. 517/518).
+Informações prestadas (e-STJ fls. 525/527 e 531/537).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, porém com a recomendação de que se dê celeridade ao trâmite processual (e-STJ fls. 539/542).
+É o relatório.
+Decido.
+Passo a examinar a alegação de que há excesso de prazo na segregação cautelar. E, ao fazê-lo, verifico não assistir razão à defesa.
+Insta consignar que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Cumpre esclarecer que os pacientes estão custodiados desde 15/9/2021, e a defesa alega que não há previsão para a formação da culpa.
+Na origem, a ordem foi denegada, firmado o entendimento de que o excesso de prazo não estava configurado. Consignou o voto condutor do acórdão impugnado (e-STJ fls. 488/489):
+10. Inicialmente, convém registrar que a concessão de Habeas Corpus em decorrência da configuração de excesso de prazo é medida excepcional, somente reconhecida nos casos em que a delonga viole o princípio da razoável duração do processo, encartado no art. 5º, LXXVIII, da Constituição da República, e tenha sido ocasionada pela atuação processual da acusação ou resulte da inércia do Poder Judiciário.
+11. Portanto, o excesso de prazo não pode ser analisado através de uma simples operação matemática. De acordo o entendimento pacífico e reiterado do Superior Tribunal de Justiça, a caracterização da ilegalidade na delonga para a conclusão do processo deve decorrer de negligência na atuação judicial ou dos órgãos relacionados à persecução penal, conforme se depreende do julgado a seguir transcrito:  ..
+12. - Logo, o prazo para desfecho da persecução criminal não é peremptório e fatal, podendo até mesmo ser prorrogado, desde que as particularidades do caso demonstrem a sua efetiva necessidade, sempre tendo como parâmetro de contenção o princípio da razoabilidade.
+13. Nesse sentido, bem pontuou a douta Procuradoria de Justiça, em parecer de fls. 478/481:
+Destarte, visto que o prazo para a conclusão de processo criminal não pode ser resultado da simples somatória dos lapsos temporais, mas deve adequar-se à complexidade da causa, entendemos que não houve inobservância da razoabilidade da medida extrema no caso em apreço, inclusive, a custódia cautelar está em harmonia com a pena em abstrato estipulada para a espécie.
+14. No caso em análise, o magistrado a quo, nas informações prestadas, bem justificou o andamento do feito, aduzindo que o lapso temporal processual perdurou principalmente pelo fato de estar sobrestado, aguardando a chegada de perícia nos aparelhos celulares apreendidos, bem como o relatório de monitoramento eletrônico dos pacientes, 15. Ademais, conforme despacho de fls. 499 dos autos de origem, constata-se que o Ministério Público já tomou ciência do referido relatório de monitoramento e foi intimado dos laudos de perícia nos aparelhos dos celulares apreendidos, sendo determinada abertura de vista ao representante do Ministério Público e a defesa para que apresentem as alegações finais.
+16. Assim, consoante se infere, à luz do princípio da razoabilidade, os autos originários marcham de maneira regular, com destaque para as peculiaridades acima destacadas, não se demonstrando qualquer desídia do magistrado na condução do feito.
+As informações complementares dão conta de que (e-STJ fls. 531/535):
+Os ora pacientes figuram como denunciados nos autos de nº 0700668-57.2021.8.02.0067, como incursos nas sanções previstas no artigo 121, § 2º, incisos I e IV, do Código Penal, tendo como vítima Ygor Lutuan Pontes de Araújo, por fato ocorrido em 15 de setembro de 2021, por volta das 22h30min, em via pública, bairro do Vergel do Lago, nesta capital,  ..
+Os pacientes foram presos em flagrante delito no dia 17 de setembro de 2021, tendo suas prisões sido relaxadas em razão da ilegalidade do flagrante, no momento da audiência de custódia. Após, o juízo plantonista entendeu presentes os requisitos da prisão preventiva e decretou a medida em desfavor dos ora pacientes, conforme decisão de fls. 56/63, diante da presença do fumus comissi delicti e diante do periculum libertatis, ..
+Portanto, este Juízo entende que o decreto de prisão encontra-se Portanto, devidamente fundamentado, com a demonstração de indícios suficientes de autoria e da necessidade da medida.
+Denúncia ofertada pelo representante do Ministério Público em 07 de outubro de 2021 (fls. 01/08) e recebida por este juizo em 20 de outubro de 2021 (fls. 01/11 das peças sigilosas).
+Citação do paciente José Robson das Chagas Ferreira realizada em 14 de novembro de 2021, conforme fls. 219.
+Citação do paciente Gabiel Felipe Barbosa Gomes realizada em 14 de novembro de 2021, conforme fls. 220.
+Resposta à acusação dos pacientes apresentada em 19 de janeiro de 2022, às fls. 239/240.
+Audiência de instrução realizada em 04 de outubro de 2022, oportunidade em que o Ministério Público requereu diligências que foram deferidas por este Juízo (fl. 365).
+Realizadas as diligências requeridas pelo membro do parquet, foi dada vista dos autos ao Ministério Público (fls. 499) para que este apresentasse suas alegações finais, o que fora feito em 14 de junho de 2023, confoime fls. 503/507.
+Em 05 de julho de 2023, o Tribunal de Justiça de Alagoas denegou o Habeas Corpus impetrado pelos pacientes  ..
+Atualmente o processo encontra-se com vista às Defesas para que apresente alegações finais.
+Destaque-se que o lapso temporal processual perdurou principalmente enquanto se aguardava a chegada dos laudos periciais referentes às perícias requeridas pelo Ministério Público e do relatório de monitoramento eletrônico dos pacientes.
+Sendo assim, não há qualquer ilegalidade na condução do feito que denote constrangimento ilegal para os pacientes.
+No mais, esclareça-se que não houve requerimentos de diligências excessivas e imoderadas por parte do Ministério Público; não houve inércia indevida por parte deste Juízo; e, em juízo prospectivo, o tempo de prisão, até o fim da instrução criminal, não durará mais tempo do que o razoável. Até porque o tempo de prisão é compatível com a acusação formal. (Grifei.)
+Desse modo, considerados os dados acima referidos, não há falar-se em excesso de prazo, pois o processo vem tendo regular andamento na origem, estando no aguardos da apresentação das alegações finais pela defesa.
+Ademais, foi destacada a necessidade de se aguardar a chegada dos laudos periciais referentes às perícias requeridas pelo órgão ministerial, bem como do relatório de monitoramento eletrônico dos pacientes, o que afasta, por ora, a ocorrência de excesso de prazo para a conclusão da instrução criminal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO TRIPLAMENTE QUALIFICADO E CONSTRANGIMENTO ILEGAL. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE REITERAÇÃO. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. NÃO CONFIGURADO. MEDIDAS CAUTELARES. INVIABILIDADE. RECURSO DEPROVIDO.
+1. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+ ..
+4. "A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto" (HC n. 331.669/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 10/3/2016, DJe 16/3/2016).
+5. Em não se verificando a alegada desídia da autoridade judiciária na condução da demanda, não há falar em constrangimento ilegal. Ao revés, nota-se que o feito encontra-se na fase das alegações finais, sinalizando a prolação da sentença.
+6. Agravo regimental a que se nega provimento. (AgRg no HC n. 784.246/ES, de minha relatoria, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. FUNDADO RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO CONCRETA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. CONDIÇÕES PESSOAIS IRRELEVANTES, NO CASO. MEDIDAS CAUTELARES ALTERNATIVAS INSUFICIENTES, NA HIPÓTESE. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+ ..
+5. Não se verifica o excesso de prazo sustentado pela Defesa, se considerado o tempo concreto da prisão preventiva do Agravante frente à quantidade abstrata de pena prevista para o ilícito em apuração (homicídio qualificado tentado), sobretudo quando já foram acostadas aos autos da ação penal originária as alegações finais defensivas e os autos encontram-se conclusos ao Magistrado da causa.
+6. Agravo regimental desprovido. (AgRg no HC n. 802.593/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. HOMICÍDIO NA FORMA TENTADA. AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. PREPONDERANTES OS FUNDAMENTOS PARA MANUTENÇÃO DA PRISÃO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA. AUSÊNCIA DE REVISÃO DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBLIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+ ..
+V - Quanto à alegação de excesso de prazo na formação da culpa encontra-se superada, segundo informações prestadas pelo d. juízo de origem, colacionadas às fls. 108-121, constata-se o encerramento da instrução criminal, em 03/10/2022, sendo que o feito aguarda a apresentação das alegações finais das partes. Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+ ..
+Agravo Regimental desprovido. (AgRg no HC n. 767.411/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/11/2022, DJe de 18/11/2022.)
+Ante todo o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
