@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE BELO HORIZONTE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - PERDA SUPERVENIENTE DO OBJETO - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO - HONORÁRIOS SUCUMBENCIAIS - PRINCÍPIO DA CAUSALIDADE - CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. O PRINCÍPIO DA CAUSALIDADE IMPÕE O ÔNUS DOS HONORÁRIOS SUCUMBENCIAIS ÀQUELE QUE DEU CAUSA À PROPOSITURA DA AÇÃO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 85, § 10, do Código de Processo Civil. Sustenta que foi a parte contrária quem deu causa ao ajuizamento da ação, trazendo a seguinte argumentação:
+O Acórdão recorrido contraria o teor do art. 85 do CPC, ao ter invertido os ônus sucumbenciais condenando o Munícipio a suportar os ônus sucumbenciais, em que pese ter extinguido o processo, sem resolução do mérito, em decorrência da perda superveniente do seu objeto.
+Assim prevê o art. 85, § 10 prevê que:
+Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+O i. Relator entendeu por não acolher a alegação do Município ao argumento de que  "(..), em relação à alegação da parte embargante de que seria a embargada a causadora da ação, verifica-se que restou sedimentado no acórdão embargado que, pelo princípio da causalidade, o Município, ora embargante, é o responsável pelo pagamento dos ônus sucumbenciais, eis que o alvará somente foi obtido após o ajuizamento da ação pela ora embargada".
+Na fundamentação do decisum, consignou o i. Relator, a título de conclusão, a manutenção da condenação do Município aos ônus sucumbenciais, em evidente contradição com a norma processual e o entendimento jurisprudencial.
+No presente caso, concessão do ALF não se deu em virtude de suposto reconhecimento do direito da recorrida pelo Município, mas sim em razão de alteração legislativa superveniente que passou a permitir a atividade da autora no local.
+Nesse passo, somente após a superveniência da Lei Municipal 11.181/2019 que alterou os limites da ADE Estoril e retirou o logradouro da recorrida dos limites da ADE Estoril é que foi permitido a autora a concessão da referida licença pretendida.
+Sem essa alteração legislativa, não teria sido possível o atendimento da pretensão da Apelada, uma vez que a Lei Municipal n. 7.166/96 não autorizava o exercício das atividades pretendidas pela autora nos limites da ADE Estoril.
+Assim, o alvará não foi concedido pelo reconhecimento do direito discutido na ação.
+Fato atestado, inclusive, pelos laudos periciais acostados aos autos.
+Assim, o direito perseguido pela parte autora foi concedido por lei superveniente à propositura da demanda, anteriormente a essa norma não havia amparo legal para a pretensão formulada; ipso facto, legítima seria a negativa administrativa, tal como ocorreu.
+Desse modo, por não haver qualquer fundamento jurídico para a condenação da municipalidade em honorários feita no acordão, ora questionado, torna-se forçoso reconhecer a condenação, devendo ser os ônus sucumbenciais assumidos pela autora, vis-à-vis o princípio da causalidade.
+De acordo com o princípio da causalidade, portanto, aplicado ao caso dos autos, foi a parte autora quem deu causa à ação, ao formular pedido desamparado por lei à época em que formulado, e desta forma deve arcar com os ônus da sucumbência.
+De maneira que não tendo sido o Recorrente o causador da presente ação, após a extinção do processo por perda superveniente de objeto, ele jamais poderia ter sido condenado nos honorários sucumbenciais.
+Assim tem decidido o Tribunal Estadual em oportunidades mais felizes e ilustradas, senão vejamos:
+ ..
+Portanto, como apregoa o princípio da causalidade os honorários advocatícios, nos casos de extinção do feito pela perda superveniente do objeto, a parte que deu causa à ação é a responsável pelos ônus sucumbenciais por desencadear um processo sem justo motivo (fls. 1.912-1.915).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Trata-se de ação ordinária pretendendo a parte autora a obtenção do alvará de localização e funcionamento diante da construção de nova sede da empresa, alegando ter sido indeferido seu pedido administrativo.
+Compulsando os autos verifica-se que a parte apelante juntou contestação, impugnando os pedidos autorais alegando ausência de fundamento legal para a procedência, impugnando os documentos juntados com a peça de ingresso. Após a realização de perícia técnica, e juntada do laudo pericial, doc. de ordem 245, em manifestação contida no Id n.º 2105269949, o requerido arguiu a perda do objeto da ação, alegando que em fato novo encaminhado à Diretoria de Legislação Urbanística -DILU informou que, em 14/01/2021, a parte autora obj ete o pleiteado alvará de localização.
+Diante da perda superveniente, o Juiz singular decretou a extinção do feito com a condenação da parte ré ao pagamento de honorários advocatícios que fixou em 10% sobre o valor da causa.
+Pois bem. A quaestio iuris cinge-se exclusivamente aos honorários advocatícios.
+De acordo com o princípio da causalidade aquele que deu causa à instauração da relação processual deve arcar com o pagamento das custas e honorários de sucumbência.
+Sobre o tema, eis os ensinamentos de Nelson Nery Junior e Rosa Maria de Andrade:
+"Pelo princípio da causalidade, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas despesas daí decorrentes. Isto porque, às vezes, o princípio da sucumbência se mostra insatisfatório para a solução de algumas questões sobre responsabilidade pelas despesas do processo. (..)".(NERY JUNIOR, Nelson, NERY, Rosa Maria de Andrade, Código de Processo Civil Comentado E Legislação Extravagante, 9ª ed., São Paulo: Editora Revista dos Tribunais, 2006, p. 192)
+No mesmo sentido, prevê o artigo 85, §10 do CPC, que: "Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo".
+No caso em tela, a ação foi extinta com fulcro no artigo 485, IV, do CPC, por perda superveniente do objeto, porquanto o objeto da ação, ou seja, a obtenção do pleiteado alvará de localização, foi alcançado.
+Tenho que a instauração do presente processo ocorreu em virtude da demora do Poder Público em atender à solicitação da parte autora, razão pela qual inconteste a responsabilidade do réu pela propositura desta ação (fl. 1873-1874).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
