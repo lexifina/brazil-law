@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUAN SILVA SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1502296-69.2022.8.26.0544).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, às penas de 6 anos, 9 meses e 20 dias de reclusão, no regime prisional inicial fechado, e pagamento de 680 dias-multa.
+A defesa apelou e o Tribunal a quo deu parcial provimento ao recurso para reduzir as penas do paciente a 5 anos e 10 meses de reclusão, no regime prisional inicial fechado, e pagamento de 583 dias-multa, mantida inalterada, no mais, a sentença.
+No presente mandamus, a impetrante sustenta que o paciente sofre constrangimento ilegal em razão da fixação de regime prisional inicialmente fechado, a despeito do disposto no art. 33 do Código Penal e nos enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal.
+Ao final, liminarmente e no mérito, requer a concessão da ordem para que seja fixado o regime prisional inicial semiaberto.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+É o relatório. Decido.
+Inicialmente, o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego do habeas corpus e prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio. Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora a impetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, passo à análise da pretensão formulada na inicial, a fim de verificar a existência de eventual constrangimento ilegal.
+Busca a defesa a fixação de regime prisional inicialmente mais brando.
+Da análise dos autos, verifica-se que o paciente é reincidente e a conduta imputada é grave, tanto que pena-base foi aplicada acima do mínimo legal (e-STJ fls. 28/29), resultando em uma pena superior a 4 e inferior a 8 anos de reclusão.
+Assim, ante a reincidência do paciente e existência de circunstância judicial negativa, a manutenção do regime prisional inicialmente fechado é medida de rigor, conforme previsão do art. 33, § 2º e § 3º, do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. REINCIDÊNCIA OSTENTADA. AUSÊNCIA DE REQUISITOS. REGIME FECHADO. ADEQUADO. LITERALIDADE DO ART. 33, § 2º, "B", DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. DESCABIMENTO. REQUISITOS NÃO PREENCHIDOS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas e nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto. Na hipótese, a reincidência ostentada pelo paciente afasta a benesse pleiteada, ante o não preenchimento de um dos requisitos legais cumulativos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Inviável, portanto, o acolhimento da pretensão recursal.
+III - Quanto ao regime prisional, no caso dos autos, mantida a pena no patamar estabelecido pelas instâncias ordinárias, ou seja, 6 anos e 3 meses de reclusão, não há se falar em fixação de regime prisional menos gravoso, pois o meio prisional fechado decorre da própria literalidade no art. 33, caput, § 2º, alínea "b", Código Penal, haja vista que o paciente ostenta diversas anotações configuradoras de reincidência.
+IV - Mantida pena superior a 4 (quatro) anos de reclusão, não há se falar em substituição da corporal por restritiva de direito, nos termos do art. 44, inciso I, do Código Penal.
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC n. 749.612/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 16/8/2022, DJe de 26/8/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Intimem-se.
+EMENTA
