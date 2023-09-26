@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Alisson dos Santos da Silva - atacando-se o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Recurso em Sentido Estrito n. 0708964-56.2020.8.07.0005 - fls. 740/755) que manteve a pronúncia do paciente pela prática, em tese, do crime de tentativa de homicídio qualificado pelo motivo torpe e recurso que dificultou a defesa da vítima, proferida na Ação Penal n. 0708964-56.2020.8.07.0005 (fls. 597/605), do Tribunal do Júri da circunscrição judiciária de Planaltina/DF -, não comporta acolhimento.
+Com efeito, busca a impetração a impronúncia do paciente, ao argumento de que fundamentada exclusivamente em elementos informativos colhidos na fase inquisitorial não confirmados em juízo e em testemunhos indiretos.
+Entretanto, tem-se que não demonstrado constrangimento ilegal, pois, para modificar as conclusões consignadas no acórdão hostilizado, acerca da tese das alegações mandamentais, demandaria reexame probatório, providencia vedada na via eleita. Confira-se:
+a) a pronúncia foi baseada em provas judiciais de autoria delitiva - os elementos angariados no inquérito, especialmente as declarações de Alex, foram confirmadas em Juízo pelo depoimento do Marlos Vinícius e em parte pelas declarações da vítima. Dessa forma, ao contrário do que afirma a defesa, a conclusão pela pronúncia do réu não se fundou exclusivamente nos elementos indiciários, mas os levou em consideração em conjunto com as provas judiciais (fl. 19). Nesse sentido: AgRg no AREsp n. 2.199.720/DF, de minha relatoria, Sexta Turma, julgado em 12/6/2023, DJe 16/6/2023; e
+b) a alegação da que a pronúncia foi baseada em testemunhos indiretos não pode ser conhecida, p ois não foi analisada pela Corte estadual, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ALEGAÇÃO DE PRONÚNCIA BASEADA EM TESTEMUNHOS INDIRETOS. MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. PRONÚNCIA. FUNDAMENTAÇÃO. ALEGAÇÃO DE PROVAS PRODUZIDAS APENAS NO CURSO DO INQUÉRITO POLICIAL. EXISTÊNCIA DE PROVA JUDICIAL. SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
