@@ -1,0 +1,105 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5009553-28.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BB CORRETORA DE SEGUROS E ADMINISTRADORA DE BENS S/A e outros
+RECORRIDO: LUIZ ALVES MACHADO
+RELATOR(A):
+FELIPE LEITAO GOMES
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: Por maioria, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nos autos n° 5009553-28.2022.8.08.0030.
+Recorrente: BB CORRETORA DE SEGUROS E ADMINISTRADORA DE BENS S/A E ALIANCA DO BRASIL SEGUROS S/A.
+Recorrido: LUIZ ALVES MACHADOS.
+Relator: DR. FELIPE LEITÃO GOMES.
+
+VOTO
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA C/C DANOS MATERIAIS E MORAIS. DESCUMPRIMENTO CONTRATUAL. DIREITO DO CONSUMIDOR. (1). TESE AUTORAL.
+ALEGA A PARTE AUTORA, EM SÍNTESE, QUE POSSUI SEGURO RESIDENCIAL CONTRATADO JUNTO À RÉ, E RELATA QUE EM 17/07/2022, SEU FAMILIAR, AO CHEGAR EM SUA RESIDÊNCIA, NOTOU QUE A GRADE DE MADEIRA FOI DANIFICADA, SOLICITANDO A PRESENÇA DA POLÍCIA, ONDE HOUVE A CONSTATAÇÃO QUE HAVIA SIDO SUBTRAÍDO DO LOCAL UMA BICICLETA. AFIRMA QUE NO MESMO DIA ACIONOU A SEGURADORA A FIM DE REQUERER O PAGAMENTO DE INDENIZAÇÃO, PORÉM, NÃO OBTEVE ÊXITO EM SEU INTENTO. DIANTE DISSO, INGRESSOU COM A PRESENTE DEMANDA JUDICIAL REQUERENDO QUE SEJA A DEMANDADA CONDENADA A EFETUAR O PAGAMENTO DO VALOR DA INDENIZAÇÃO SECURITÁRIA, BEM COMO DE DANOS MORAIS.
+(2). ANTÍTESE.
+A REQUERIDA ALIANÇA ALEGA EM CONTESTAÇÃO QUE TRATA-SE DE FURTO SIMPLES, BEM COMO, QUE O BEM ESTAVA EM QUINTAL DA CASA, QUE NÃO É COBERTO PELO SEGURO, CONFORME CLÁUSULA CONTRATUAL. ASSIM, REQUER A IMPROCEDÊNCIA DO PEDIDO INICIAL.
+(2.1). DECRETADA A REVELIA DA PARTE DEMANDADA BB CORRETORA. (3). DISPOSITIVO DA SENTENÇA.
+
+“Isto posto, decreto a revelia da bb corretora e JULGO PROCEDENTE, em parte, o pedido inicial, pelo que, condeno, as requeridas, de forma solidária, a pagarem, à parte autora, o valor de r$ 995,99 (novecentos e noventa e cinco reais e noventa e nove centavos), a título de danos materiais, devidamente atualizado com juros de 1% ao mês e correção monetária (índice da cgjes), a contar de trinta dias do prazo de solicitação de pagamento do sinistro. condeno, ainda, as requeridas, de forma solidária, a pagarem, ao autor, o valor de r$ 7.000,00 (sete mil reais), a título de danos morais, devidamente atualizado com juros de 1% ao mês e correção monetária (índice da cgjes), desde a presente data.’’.
+
+(4). RECURSO DA PARTE RÉ BB CORRETORA DE SEGUROS E ADMINISTRADORA DE BENS S/A .
+REQUER SEJA O RECURSO INOMINADO INTERPOSTO CONHECIDO E PROVIDO. NÃO OBSTANTE DOS FATOS, CASO ESTE NÃO SEJA O ENTENDIMENTO DO DOUTO JUÍZO, REQUER A REFORMA DA R. SENTENÇA JULGANDO-SE IMPROCEDENTE A AÇÃO, ACOLHENDO-SE AS RAZÕES PRELIMINARES E DE MÉRITO, NO PONTO EM QUE SUCUMBIU, AFASTANDO-SE A CONDENAÇÃO IMPOSTA AO BANCO ORA RECORRENTE, POR TOTAL FALTA DE AMPARO LEGAL, CONDENANDO O RECORRIDA NAS PENAS DA SUCUMBÊNCIA E DEMAIS CONSECTÁRIOS LEGAIS.
+(5). CONTRARRAZÕES DA PARTE RÉ ALIANCA DO BRASIL SEGUROS S/A.
+REQUER QUE O RECURSO ORA CONTRA-ARRAZOADO SEJA DEVIDAMENTE PROVIDO, COM A REFORMA DA SENTENÇA, POR TODOS OS MOTIVOS DEMONSTRADOS.
+(6). DA QUESTÃO PROCESSUAL. (6.1).
+AUSÊNCIA DE DANO IRREPARÁVEL QUE JUSTIFIQUE A CONCESSÃO DO EFEITO SUSPENSIVO PLEITEADO. GRAVE RISCO À RECORRENTE NÃO DEMONSTRADO. EFEITOS DA SENTENÇA DE PISO QUE NÃO TÊM O CONDÃO DE TRAZER GRAVES PREJUÍZOS AO PATRIMÔNIO DA RÉ.
+EFEITO SUSPENSIVO PLEITEADO NÃO ATRIBUÍDO
+. RECEBO O RECURSO SOMENTE EM SEU EFEITO DEVOLUTIVO, CONSOANTE O DISPOSTO NO ART. 43 DA LEI 9099/95.
+(6.2).
+NO QUE TANGE DA AUSÊNCIA DO INTERESSE DE AGIR, TENHO QUE NÃO DEVE PROSPERAR, POSTO QUE, A PARTE AUTORA BUSCA NA VIA JUDICIAL O RECEBIMENTO DE INDENIZAÇÃO QUE ALEGA LHE SER DEVIDA. LOGO, RESTA-SE CONFIGURADA A LEGITIMIDADE DO REQUERENTE E SUA PERTINÊNCIA NA RELAÇÃO PROCESSUAL, DEVENDO SER AFERIDA EM OBSERVÂNCIA AO PRINCÍPIO DA ASSERÇÃO.
+(6.3).
+REJEITO A PRELIMINAR DE ILEGITIMIDADE PASSIVA DAS EMPRESA REQUERIDA BB CORRETORA DE SEGUROS, TENDO EM VISTA A PARTICIPAÇÃO DA RÉ NA RELAÇÃO DE CONSUMO.
+(7). DO MÉRITO.
+A
+PRIORI
+, CUMPRE-ME DESTACAR QUE A DEMANDA VERSA SOBRE DIREITO DO CONSUMIDOR, INCIDINDO, PORTANTO, AS NORMAS CONSTANTES DA LEI N.º 8.078/1990, SENDO O AUTOR CONSUMIDOR NA FORMA DO ART. 2.º E AS REQUERIDAS FORNECEDORAS NA FORMA DO ART. 3.º, AMBOS DO ALUDIDO DIPLOMA LEGAL. POIS BEM, NO CASO EM COMENTO, AO ANALISAR O FEITO, TENHO QUE ASSISTE RAZÃO O AUTOR, EM PARTE, EM SEU PEDIDO INICIAL. DE INÍCIO, O CONTRATO DE SEGURO TEM O OBJETIVO DE GARANTIR O PAGAMENTO DE INDENIZAÇÃO PARA A HIPÓTESE DE OCORRER CONDIÇÃO SUSPENSIVA, CONSUBSTANCIADA NO EVENTO DANOSO PREVISTO CONTRATUALMENTE, SENDO OBRIGAÇÃO DO SEGURADO O PAGAMENTO DO VALOR DEVIDO E A PRESTAÇÃO DAS INFORMAÇÕES NECESSÁRIAS PARA A AVALIAÇÃO DO RISCO. EM CONTRAPARTIDA A SEGURADORA DEVE INFORMAR AS GARANTIAS DADAS E PAGAR A INDENIZAÇÃO DEVIDA ANTE O SINISTRO OCORRIDO, CONFORME ART. 757 E SEGUINTES DO CÓDIGO CIVIL.
+É ATRIBUIÇÃO DA SEGURADORA, QUANDO DA CONTRATAÇÃO DO
+SEGURO
+
+RESIDENCIAL
+, REALIZAR A VISTORIA PRÉVIA A FIM DE AVERIGUAR O PATRIMÔNIO DO SEGURADO, A FIM DE VERIFICAR, QUANTIFICAR E DISCRIMINAR O QUE EXISTIA NO LOCAL, O QUE NÃO OCORREU NO CASO EM ANÁLISE.
+ADEMAIS, O CDC ESTIPULA EM SEU ART. 54, § 4º, QUE AS CLÁUSULAS QUE LIMITAM O DIREITO DO CONSUMIDOR DEVEM SER DESTACADAS OBJETIVANDO A SUA IMEDIATA E FÁCIL COMPREENSÃO E QUE OS CONTRATOS OBRIGARÃO OS CONSUMIDORES DESDE QUE TENHAM TOMADO CIÊNCIA DO SEU CONTEÚDO OU SE REDIGIDOS DE MODO A FACILITAR A COMPREENSÃO DE SEU SENTIDO E ALCANCE, COM BASE NO ART. 46 DO CDC. NA ESPÉCIE, É INCONTROVERSA A CONTRATAÇÃO DE SEGURO RESIDENCIAL ENTRE AS PARTES. NÃO RESTOU COMPROVADO NOS AUTOS QUE A PARTE AUTORA TOMOU CIÊNCIA DAS LIMITAÇÕES DO CONTRATO, JÁ QUE AS CONDIÇÕES GERAIS JUNTADAS PELA REQUERIDA ALIANÇA SÃO DIFERENTES DA QUE CONSTA NA CONTESTAÇÃO.
+ENTENDO QUE HOUVE RESTRIÇÃO INDEVIDA DE DIREITO DO SEGURADO, REPRESENTANDO VANTAGEM INDEVIDA SOBRE O CONSUMIDOR, A TEOR DO DISPOSTO NO ART. 51, IV, § 1º DO CÓDIGO DE DEFESA DO CONSUMIDOR, SENDO PORTANTO, A INDENIZAÇÃO SECURITÁRIA DEVIDA.
+
+O MERO DESCUMPRIMENTO ENVOLVENDO CONTRATO DE
+SEGURO
+, SEJA DECORRENTE DE INADIMPLEMENTO DA OBRIGAÇÃO, SEJA POR INEXISTÊNCIA DE COBERTURA, NÃO GERA DIREITO À INDENIZAÇÃO POR DANO MORAL, POIS NÃO SE TRATA DE DANO
+IN RE IPSA
+, PELO QUAL A SIMPLES OCORRÊNCIA DO FATO É ENSEJADOR DA REPARAÇÃO CIVIL.
+DANO MORAL INEXISTENTE.
+
+(8).
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. (9). SENTENÇA PARCIALMENTE REFORMADA APENAS PARA JULGAR IMPROCEDENTE O PEDIDO DE DANOS MORAIS, MANTIDA NOS DEMAIS TERMOS POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. (10). SEM CUSTAS E HONORÁRIOS.
+
+É COMO VOTO.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
+O SR. JUIZ DE DIREITO VLADSON COUTO BITTENCOURT:-
+
+Eminente Relator,
+
+Peço vênia para divergir do entendimento de Vossa Excelência, por entender que a sentença merece ser mantida. Explico:
+
+O valor da condenação a título de danos morais deve ser fixado pelo prudente arbítrio do Juiz, devendo este se atentar aos princípios da proporcionalidade e da razoabilidade, não se afastando, ainda, do caráter punitivo-pedagógico da condenação, tampouco do postulado da vedação ao enriquecimento sem causa.
+
+Em razão disso, não se pode arbitrar como indenização uma soma vultosa e exagerada de forma a ensejar o enriquecimento sem causa da parte lesada, como também não se pode fixar um valor irrisório de forma que o causador do dano não sofra qualquer diminuição em seu patrimônio capaz de dissuadi-lo de repetir a prática.
+
+Enfrentando o conjunto fático dos autos, e considerando a reprovabilidade da conduta, a duração e intensidade do sofrimento da vítima e, igualmente, a capacidade econômica do responsável pela conduta lesiva e pelas condições pessoais do ofendido, em respeito ao artigo 5º, inciso V, da CRFB/88, entendo que o
+quantum
+indenizatório fixado está em conformidade com a situação vivenciada.
+
+Ante o exposto, conheço do recurso inominado interposto, mas nego-lhe provimento, para manter a sentença objurgada.
+
+Condeno a parte recorrente ao pagamento de honorários sucumbenciais, que fixo em 20% sobre o valor da condenação.
+
+É como voto.
