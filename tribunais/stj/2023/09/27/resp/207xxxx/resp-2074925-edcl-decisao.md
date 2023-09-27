@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão (fls. 451-453, e-STJ) que proveu o Recurso Especial da ora embargante para determinar a concessão do benefício de pensão por morte desde a data do requerimento administrativo e, por conseguinte, inverteu os ônus da sucumbência.
+A parte alega que a decisão incorreu em omissão acerca do pedido sucessivo de modificação da base de cálculo dos honorários sucumbenciais. Afirma que, com o provimento do Recurso, os honorários advocatícios devem ser fixados sobre o valor da condenação nos termos do art. 85, §§ 2º, 3º, I, do CPC/2015, incluindo as parcelas vencidas que restaram deferidas pelo STJ. Aduz ainda a existência de erro material na determinação de inverter-se os ônus da sucumbência, tendo em vista que não houve sucumbência da recorrente.
+Pugna, ao final, seja sanada a omissão e erro material.
+Sem impugnação, nos termos da certidão à fl. 470, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.9.2023.
+Na origem, a sentença julgou parcialmente procedente o pedido formulado pela autora (mãe do de cujus) e determinou ao INSS a exclusão da ex-esposa do falecido no rol de beneficiários da pensão por morte e a consequente inclusão da genitora do de cujus, com a implantação do benefício previdenciário em favor da autora no prazo de 30 (trinta) dias a contar da decisão. Ademais, a sentença reconheceu a sucumbência mínima e condenou os demandados ao pagamento de honorários advocatícios no percentual de 10% sobre o valor atualizado da causa, com base no art. 85, § 4º, III, do CPC (fl. 229, e-STJ).
+O TJRN, no julgamento das Apelações, manteve a sentença e consignou que "a habilitação posterior do dependente somente deverá produzir efeitos a contar do seu reconhecimento, de modo que não há falar em efeitos financeiros para momento anterior à inclusão da dependente" (fl. 333, e-STJ).
+Ao examinar o Apelo Nobre interposto contra o acórdão da Corte a quo, dei-lhe provimento para reformar o aresto recorrido e estabelecer que o termo inicial do benefício de pensão por morte da genitora do falecido é a data do seu requerimento administrativo.
+Diante do tal provimento, a embargante alega que a condenação em honorários deveria recair sobre os parâmetros legais fixados pelo art. 85, §§ 2º e 3º, I, do CPC/2015, levando-se em consideração o valor da condenação.
+Com efeito, prevê o Código de Processo Civil que, nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e que os percentuais terão por base o valor da condenação ou do proveito econômico (art. 85, § 3º, do CPC/2015). Não sendo líquida a condenação, a definição do percentual, nos termos previstos nos incisos I a V do § 3º, somente ocorrerá quando liquidado o julgado (art. 85, § 4º, II, CPC/2015).
+No caso dos autos, apesar do provimento do Recurso Especial com a expressa condenação ao pagamento de valores a título de pensão por morte a partir da data do requerimento administrativo, trata-se de sentença ilíquida, pois desconhecido o conteúdo econômico do pleito.
+Desse modo, justifica-se a definição do percentual dos honorários sucumbenciais somente quando da liquidação do julgado, de acordo com o art. 85, § 4º, II, da Lei 13.105/2015. Registre-se que a possibilidade de sua fixação, com fundamento no art. 85, § 11, do CPC/2015, está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada quando não imposta.
+Ante o exposto, acolho os Embargos de Declaração para: a) corrigir erro material excluindo da parte dispositiva do decisum embargado a expressão "Invertam-se os ônus da sucumbência"; e b) integralizar a decisão embargada, sem efeitos infringentes, para estabelecer que a definição do percentual dos honorários sucumbenciais deverá ser efetuada, nas competentes instâncias ordinárias, em fase de liquidação do julgado.
+Publique-se.
+Intimem-se.
+EMENTA
