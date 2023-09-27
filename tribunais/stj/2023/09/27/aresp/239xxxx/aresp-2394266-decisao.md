@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. PROCEDÊNCIA DO PEDIDO EM SEDE RECURSAL. AGRAVO INTERNO DO INSS. DESPROVIMENTO. ATIVIDADE ESPECIAL COMPROVADA. PROVAS TÉCNICAS COLACIONADAS AOS AUTOS E ESCLARECIMENTOS DO EMPREGADOR EVIDENCIAM O EXERCÍCIO DA FAINA NOCENTE. IMPLEMENTO DOS REQUISITOS LEGAIS NECESSÁRIOS À CONCESSÃO DA BENESSE ALMEJADA. JULGADO MANTIDO. RECURSO DESPROVIDO.
+1. Agravo interno manejado pelo ente autárquico impugnando o reconhecimento de atividade especial exercida pela segurada.
+2. Descabimento. A prova técnica colacionada aos autos e devidamente confirmada pelo empregador no curso da instrução processual evidencia a sujeição habitual e permanente da demandante ao agente agressivo ruído, sob níveis sonoros superiores aos parâmetros legalmente exigidos à época da prestação do serviço para a caracterização de atividade especial.
+3. Implemento dos requisitos legais necessários à concessão do benefício de aposentadoria especial desde a DER. Procedência da pretensão de rigor.
+4. Agravo interno do INSS desprovido.
+No Recurso Especial, o agravante alega violação dos arts. 22, II, da Lei 8.212/1991; 57, §§ 3º, 4º e 6º, e 58, §§ 1º e 2º, da Lei 8.213/1991; e 371, 374, 375, 412, 479 e 948 do CPC/2015. Em suma, sustenta (fl. 1.233, e-STJ):
+(..)
+Ora, inexistindo no PPP informações sobre o responsável pelos registros ambientais, nos períodos requeridos pela parte autora e não apresentado LTCAT ou elementos técnicos equivalentes acompanhado de declaração do empregador ou outro documento que comprove a inexistência de alteração no ambiente de trabalho ou na sua organização ao longo do tempo, inviável o reconhecimento do período como especial, haja vista o contido no artigo 58, parágrafo 1º da Lei 8213/91:
+(..)
+Afirma que, "a norma não exige a simples prova da presença do agente prejudicial à saúde no ambiente de trabalho, mas a efetiva exposição, e, como não poderia deixar de ser, aponta o meio pelo qual deve ser feita tal comprovação, razão pela qual é de rigor a reforma do acórdão regional, afastando-se o reconhecimento da especialidade, visto que os respectivos documentos não foram assinados pelo responsável técnico" (fls. 1.235-1.236, e-STJ).
+Contrarrazões às fls. 1.241-1.245, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de setembro de 2023.
+Cuida-se, na origem, de Ação Judicial contra o INSS na qual se objetiva a concessão de aposentadoria especial mediante o reconhecimento de exercício de atividade prejudicial à saúde.
+Ao analisar a controvérsia, o Colegiado originário assim se pronunciou no que interessa (fl.1.218, e-STJ, grifei):
+(..), por fim, que não coaduno do entendimento exarado pelo d. Juízo singular e ora suscitado pelo ente autárquico para justificar a exclusão dos períodos de 10.05.2005 a 18.09.2005, 02.10.2006 a 01.04.2007, 01.09.2007 a 01.06.2008 e de 11.09.2010 a 12.09.2010, do cômputo de atividade especial exercida pela demandante, em virtude da suposta irregularidade formal havida no PPP fornecido pelo empregador, consistente na ausência de identificação do profissional técnico habilitado para aferição das condições laborais vivenciadas pela requerente.
+Isso porque, conforme expressamente certificado pelo representante legal da empresa, não houve alteração significativa no layout do estabelecimento comercial em que a segurada prestou serviços na integralidade dos períodos vindicados no presente feito, de modo que a identificação dos profissionais técnicos atuantes nos períodos subsequentes àqueles desconsiderados pelo d. Juízo, certificando a a quo continuidade da sujeição da segurada ao agente agressivo ruído, sob níveis sonoros superiores aos parâmetros estabelecidos pela legislação em regência, a meu ver, nos permite concluir pelo desenvolvimento ininterrupto de atividade especial, posto que os avanços tecnológicos observados no processo de produção industrial tendem a amenizar as condições laborais vivenciadas pelos trabalhadores.
+Logo, diante da certificação técnica da efetiva sujeição da segurada ao agente agressivo ruído nos períodos subsequentes àqueles em que não houve a devida identificação dos profissionais habilitados para aferição das condições laborais, a meu ver, é plenamente admissível o enquadramento da faina nocente também nesses períodos excluídos pelo d. Juízo singular.
+Acrescente-se, por fim, que em homenagem aos princípios constitucionais do contraditório e da ampla defesa, este Relator determinou a conversão do julgamento em diligência, a fim de que o empregador prestasse esclarecimentos acerca da apontada irregularidade formal nos documentos técnicos fornecidos à segurada, ocasião em que restou devidamente certificada a continuidade de sua exposição a condições insalubres na integralidade dos períodos de atividade especial declarados judicialmente.
+Por consequência, mantenho inalterada a decisão agravada quanto ao enquadramento dos períodos acima explicitados como atividade especial exercida pela demandante, a fim de viabilizar a concessão do benefício de aposentadoria especial em seu favor.
+Verifica-se que o órgão julgador concluiu pela necessidade de reconhecimento como tempo especial, de todos os períodos de labor pelo recorrente diante da comprovação pelo PPP da exposição do segurado, de forma habitual e permanente, ao agente físico ruído acima dos limites de tolerância, ainda que não conste no PPP a indicação do responsável pelo registro ambiental relativo ao período. Para rever tal entendimento, seria necessária a incursão no acervo fático-probatório dos autos, o que é vedado nesta instância nos termos da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1022 DO CPC/2015 NÃO CONFIGURADA. APOSENTADORIA ESPECIAL. COMPROVAÇÃO DE TEMPO DE SERVIÇO ESPECIAL. EXPOSIÇÃO EFETIVA AO AGENTE DANOSO. SÚMULA 7/STJ. REEXAME DE PROVA INVIÁVEL EM RECURSO ESPECIAL
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC/2015.
+2. A jurisprudência do Superior Tribunal de Justiça admite a comprovação do labor especial por meio do PPP - Perfil Profissiográfico Profissional, o qual, por espelhar o laudo técnico, dispensa apresentação, inclusive no caso do agente ruído (REsp 1.649.102, Ministro Og Fernandes, 30/6/2017).
+3. Consoante afirmado pela Corte a quo, ficou devidamente comprovado nos autos o exercício de atividade especial pelo recorrido em virtude de sua exposição, de forma habitual e permanente, ao agente nocivo referido.
+Desse modo, para rever tal entendimento, necessária a incursão no acervo fático-probatório dos autos, o que é vedado ante o óbice da Súmula 7 do STJ.
+4. Recurso Especial conhecido em parte, e nessa extensão, não provido.
+(REsp 1.761.519/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 28/11/2018)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC /2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
