@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por RAFAEL PEREIRA DO NASCIMENTO GONÇALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.23.156977-3/000).
+Consta dos autos ter sido o recorrente preso cautelarmente pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes), ante a apreensão de "pedras de crack, pesando aproximadamente 60 gramas e 02 buchas de maconha, com massa total aproximada de 03 gramas" (e-STJ fls. 227/228).
+Impetrado habeas corpus pela defesa no Tribunal de origem, objetivando a sua soltura, o Tribunal a quo denegou a ordem, nos termos da ementa de e-STJ fl. 223, in verbis:
+HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM - NEGATIVA DE AUTORIA - IMPROPRIEDADE DA VIA - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS DOS ARTIGOS 312 E 313 DO CPP - GARANTIA DA ORDEM PÚBLICA - INADEQUAÇÃO E INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. - Alegações de teor meritório, como a de negativa de autoria e materialidade, requerem aprofundada apreciação de prova e são vedadas através da estreita via do habeas corpus, sendo suficiente a presença de indícios de autoria e prova de materialidade para a admissibilidade da prisão preventiva. - Cabível a manutenção da prisão preventiva quando o decreto constritivo estiver devidamente fundamentado na presença dos requisitos dos artigos 312 e 313 do Código de Processo Penal, conforme preceitua o artigo 93, IX da CRFB/88, e na inadequação e insuficiência de medidas cautelares mais brandas. - A imprescindibilidade da segregação cautelar para o acautelamento da ordem pública é delineada pela apreensão de relevante fracionamento e variedade de drogas, somada a aparente recalcitrância delitiva específica do paciente.
+No presente recurso, sustenta a defesa inexistir motivação idônea para a segregação antecipada, visto que não foi apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal, asseverando que militam em favor do recorrente sua primariedade e a não comprovação concreta da insuficiência das medidas cautelares diversas.
+Busca assim (e-STJ fl. 258):
+Diante do exposto, requer o recebimento do presente recurso, no seu efeito devolutivo e suspensivo, para tornar sem efeito o acórdão recorrido, concedendo a ordem para fazer cessar a coação ilegal que o paciente está submetido, com a expedição imediata de alvará de soltura.
+REQUER SEJA ANALISADA A NULIDADE ARGUIDA NO HC IMPETRADO, VISTO O IRMP JÁ TER APRESENTADO DENÚNCIA EM DESFAVOR DO ACUSADO.
+Liminar deferida.
+É o relatório.
+Decido.
+O presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Isso, porque, consoante parecer do Parquet Federal (e informações complementares obtidas no sítio eletrônico do Tribunal de origem) "foi prolatada sentença que, julgando procedente a pretensão punitiva, condenou o ora recorrente à pena de 2 anos e 6 meses de reclusão, em regime inicial aberto, e ao pagamento de 166 dias-multa, sendo a pena privativa substituída por duas medidas restritivas de direito consistentes em prestação pecuniária e prestação de serviços" (e-STJ fl. 301).
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+EMENTA
