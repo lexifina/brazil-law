@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Israel Natha Testoni Correa contra o ato coator proferido pela Primeira Câmara Criminal do Tribunal de Justiça de Santa Catarina que, nos autos do Recurso em Sentido Estrito n. 5022835-24.2023.8.24.0008, deu provimento ao recurso ministerial para manter o paciente preso preventivamente pela suposta prática de tráfico de drogas (Proc esso n. 5020021-39.2023.8.24.0008, da 1ª Vara Criminal de Blumenau/SC).
+O impetrante alega, em síntese, que o voto condutor se baseou em argumentos genéricos, como a gravidade em abstrato do delito, a previsão de pena em abstrato maior do que 4 anos, a presença de indícios de autoria e a quantidade de droga apreendida.
+Sustenta que o paciente possui bons predicados pessoais.
+Afirma que a quantidade de droga não é expressiva.
+Pede, em caráter liminar e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de cautelares (fls. 3/14).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local proveu a insurgência ministerial aos seguintes termos (fls. 81/82):
+Sem se pretender incursionar indevidamente no arcabouço probatório, extrai-se, dos elementos coligidos aos autos de origem, que há indícios suficientes para sustentar a imputação feita ao recorrido.
+Segundo consta, alguns policiais militares, em patrulha, teriam estranhado a presença de um automóvel em um local ermo, o que fez com que se aproximassem. Após sentirem um forte odor de maconha queimada oriundo do veículo, os agentes públicos decidiram abordar seus ocupantes - que seriam identificados como Israel Nathã Testoni Corrêa e Gabriel Sangaletti. No interior do carro, havia cerca de 2,160kg (dois quilogramas e cento e sessenta gramas) de maconha. Informados pelo próprio Israel de que este mantinha mais tóxicos em sua residência, os agentes policiais, autorizados, teriam efetuado buscas no local e localizado aproximadamente 1,5kg (um quilograma e meio) de maconha, além de duas balanças de precisão (vide registros audiovisuais veiculados no Evento 1 do caderno indiciário; Evento 1, BOC3, do caderno indiciário; auto de exibição e apreensão de fl. 12do Evento 1, P_FLAGRANTE1, do caderno indiciário; laudo pericial do Evento 16 dos autos da ação penal; filmagens veiculadas no Evento 50 dos autos da ação penal).
+O próprio Israel Nathã, perante a autoridade policial, disse que havia sido instado a fazer uma entrega de drogas a terceiro nas dependências de um posto de gasolina, em troca de R$ 600,00 (seiscentos reais). Afirmou que a pegou com seu fornecedor, vulgo "Oluap". Quanto ao material encontrado em sua casa, disse ser de sua propriedade, para consumo próprio e vendas esporádicas (registro audiovisual veiculado no Evento 1 do caderno indiciário).
+Esses elementos, concatenados, sugerem que o réu teria se envolvido com a narcomercancia, inclusive envolvendo grandes volumes de entorpecente, e de forma reiterada.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, tal decreto deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+E, de fato, para esta Corte Superior, a quantidade, a variedade e a natureza da droga apreendida podem servir para o Magistrado reconhecer a gravidade concreta da ação e a dedicação do agente a atividades criminosas, elementos capazes de justificar a necessidade da custódia preventiva para a garantia da ordem pública (HC n. 466.654/PR, Ministra Laurita Vaz, Sexta Turma, DJe 13/11/2018).
+In casu, verifico que a quantidade de droga (3,5 kg de maconha) apreendida se mostra relevante para fins de imposição de cautelares, visto que traduzem tráfico acima do ordinário, não acautelados por medidas diversas da prisão.
+Ademais, eventuais condi ções pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva.
+Nesse cenário, há nos autos elementos hábeis a recomendar a manutenção da custódia cautelar do paciente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Não vislumbro, assim, ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (3,5 KG DE MACONHA). PRISÃO PREVENTIVA. ART. 312 DO CPP. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. QUANTIDADE RELEVANTE. AUSÊNCIA DE PERICULOSIDADE CONCRETA.
+Writ indeferido liminarmente.
