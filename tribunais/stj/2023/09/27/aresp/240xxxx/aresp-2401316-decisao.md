@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+EXECUÇÃO FISCAL. Débitos de ICMS declarado e não pago. Adesão a parcelamento, que posteriormente foi rompido. Decisão que rejeita exceção de pré-executividade. Cerceamento de defesa não configurado. Desnecessidade de procedimento administrativo. Súmula 436 do C. STJ. CDA que preenche todos os requisitos legais. Multa de 20% que não se mostra excessiva, não cabendo falar em incidência do percentual previsto no Código do Consumidor. Título que já havia sido objeto de ação anulatória anterior e na qual a única tese levantada foi de excesso de juros. Recurso de agravo que, ao insistir em tese há muito superadas, considerando ainda as demais circunstâncias, ostenta caráter nitidamente protelatório. Art. 80, VII e 81, caput e §3º, do Codex. Decisão mantida. Recurso conhecido e não provido, com imposição de multa por litigância de má-fé e condenação no pagamento de indenização.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 80, VII, 81 do CPC, "o juízo equivoca-se em grande medida ao considerar como má-fé o mero exercício de defesa da ora recorrente acerca de questões que não antes haviam sido apreciadas sob a égide judicial e representam mácula ao título executivo originário".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fl. 194, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O Tribunal de origem entendeu, em síntese, que o Recurso merecia ser conhecido e não provido, porém, com imposição de multa por litigância de má-fé.
+Acolher a pretensão recursal, para efeito de reputar não evidenciada a litigância de má-fé, e proceder ao afastamento da correlata multa aplicada pelas instâncias ordinárias, implica a incursão na matéria de fato, providência obstada na via do recurso especial em razão do óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. 1. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 3. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. 4. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 5. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 6. LITIGÂNCIA DE MÁ-FÉ. PECULIARIDADES DO CASO CONCRETO. FUNDAMENTAÇÃO ADEQUADA. REEXAME DE FATOS E PROVAS INVIÁVEL. SÚMULA 7/STJ. 7. AGRAVO IMPROVIDO.
+1. É evidente a inadequação da via recursal eleita para alegação de ofensa a dispositivo constitucional, pois a matéria é de competência do STF.
+2. Em relação à negativa de prestação jurisdicional, verifica-se que a parte ora recorrente se limitou a defender genericamente a ocorrência de violação do artigo 535 do CPC/1973, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+3. Quanto à alegação de julgamento extra petita, a falta de indicação do dispositivo legal que teria sido eventualmente violado faz incidir à hipótese o teor da Súmula n. 284 do STF, por analogia.
+(É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+4. Não cabe a este Tribunal apreciar ofensa a súmula em recurso especial, uma vez que tal enunciado não se insere no conceito de lei federal, previsto no art. 105, II, a, da Constituição Federal.
+Incide, ao caso, o óbice da Súmula 518 desta Corte.
+5. É inadmissível o recurso especial nas hipóteses em que o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Aplicação analógica do enunciado n. 283 da Súmula do STF.
+6. Uma vez que a Corte de origem, a partir da análise dos elementos de convicção presentes no feito, concluiu pela caracterização da litigância de má-fé, acolher a pretensão recursal implicaria no necessário revolvimento do acervo fático-probatório dos autos, medida vedada pela Súmula 7 do STJ.
+7. Agravo interno improvido.
+(AgInt no AREsp 1200579/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/04/2018, DJe 18/04/2018) (grifou-se)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ALEGADA AUSÊNCIA DE LITIGÂNCIA DE MÁ-FÉ. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. CONHEÇO DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
