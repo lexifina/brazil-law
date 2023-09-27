@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIAGO GABRIEL DOS SANTOS SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2179774-87.2022.8.26.0000).
+Consta dos autos que o Paciente foi preso preventivamente pela suposta prática dos delitos previstos no art. 121, §2.º, inciso II, c.c. o art. 29, caput, ambos do Código Penal, pelo qual foi denunciado.
+Impetrado prévio writ na origem, a Corte local denegou a ordem (fls. 37-44).
+Neste habeas corpus, a Defesa alega a ausência de fundamentos e de requisitos idôneos para a prisão cautelar e que o Paciente ostenta condições pessoais favoráveis. Assinala, ainda, que o Acusado agiu em legítima defesa putativa.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+Indeferida a liminar (fls. 47-48) e prestadas as informações (fls. 51-68), sobreveio o parecer do Ministério Público Federal, opinando pela denegação da ordem (fls. 72-78).
+É o relatório.
+Decido.
+Em consulta ao sítio eletrônico mantido pela Corte de origem (Autos n. 1500875-88.2022.8.26.0.400) verifica-se que, em 30/05/2023, o Paciente foi pronunciado como incurso no art. 121, § 2.º, incisos II e IV, c.c. o art. 29, caput, do Código Penal para que, oportunamente, seja submetido a julgame nto pelo Tribunal do Júri.
+Na ocasião, o Magistrado singular manteve a prisão preventiva assinalando que, in verbis (grifos no original):
+"Em atenção ao art. 413, § 3º, do CPP, NECESSÁRIA a manutenção da prisão da parte pronunciada, que não poderá recorrer em liberdade, porque respondeu ao processo presa (TJSP - 4ª Câmara de Direito Criminal - Apelação n. 0000033-41.2018.8.26.0557,da Vara Criminal da Comarca da Estância Turística de Olímpia - Rel. Des. EDISON APARECIDO BRANDÃO, j.09/04/2019, p. 03  "Ora, se durante toda a instrução o acusado foi mantido no cárcere, temerário que agora, após a efetiva condenação pela prática de delitos gravíssimos, possa ser solto para recorrer." ; TJSP - 7ª Câmara de Direito Criminal - HC n. 0080825-14.2012.8.26.0000, da 1ª Vara da Comarca da Estância Turística de Pereira Barreto - Rel. Des. FERNANDO MIRANDA, j. 19/07/2012  "É certo que o apelo em liberdade, tendo o paciente respondido ao processo preso, quando existiam somente indícios de autoria, seria um contra-senso conceder a ele, depois de condenado, permissão para recorrer solto. Já está pacífico na jurisprudência dos EE. Tribunais Superiores que, salvo raríssimas exceções, plenamente justificadas, o normal é o réu, ao recorrer, permanecer na situação em que se encontra, isto é, preso, se custodiado cautelarmente e solto, se não." , "tratando-se, agora, de prisão oriunda de "decisão de pronúncia" "(TJSP - 3ª Câmara de Direito Criminal - Habeas Corpus Criminal n.2272171-73.2019.8.26.0000, da Vara Criminal da Comarca de Olímpia - Rel. Des. ANTÔNIO ÁLVARO CASTELLO,V.U., j. 19/02/2020."
+Assim, tendo em vista que o acórdão ora impugnado foi proferido antes da referida sentença, eventual existência de constrangimento ilegal praticado pelo Juízo de primeira instância ao manter a prisão preventiva na pronúncia deve ser suscitado primeiramente perante a Corte estadual, sob pena de indevida supressão de instância, considerando que se tratará de novo ato coator.
+Ante o exposto, JULGO PREJUDICADO o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DIREITO PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA QUE MANTEVE A CUSTÓDIA. NOVO ATO COATOR. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS PREJUDICADO.
