@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THOMAS AUGUSTO FERREIRA BILINO, contra acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 0012774-18.2022.8.26.0996.
+Consta dos autos que o Juízo das Execuções Penais determinou a anotação da falta disciplinar de natureza média no prontuário do Reeducando (fls. 19-20).
+Inconformado, o Ministério Público estadual interpôs agravo em execução, o qual foi provido pelo Tribunal de origem a fim reconhecer a prática da falta disciplinar, ocorrida em 26/08/2022, como de natureza grave, consistente em ato de desrespeito, nos termos do art. 50, inciso VI, c.c. o art. 39, incisos II e V, todos da Lei de Execução Penal, determinando-se, consequentemente, a perda de 1/3 (um terço) dos dias remidos e o reinício da contagem do prazo exigido para a concessão da progressão da pena (fls. 14-18).
+Nas razões deste writ destaca que "o comportamento irrogado ao reeducando não se subsume a qualquer das faltas graves previstas nos artigos. 50 a 52 da Lei de Execução Penal, porquanto despido de qualquer periculosidade e ofensividade ao estabelecimento prisional" (fl. 09).
+Requer, em liminar e no mérito, a absolvição do Paciente da suposta prática de infração disciplinar de natureza grave, e, subsidiariamente, pleiteia pela desclassificação da conduta para infração de natureza média ou leve.
+O pedido liminar foi indeferido (fls. 68-69).
+Após as informações, o Ministério Público Federal opinou pela denegação da ordem (fls. 100-103).
+É o relatório. Decido.
+A demanda não merece prosperar.
+O Tribunal estadual reformou o decisum considerando a conduta como falta grave nos seguintes termos, no que interessa (fl. 17 ; sem grifos no original):
+"A conduta do agravado não configurou mera atuação inconveniente, consubstanciando-se em afronta à autoridade dos agentes penitenciários. Admitir-se tal maneira de agir corresponderia a se instaurar o caos no presídio, tornando inócua a autoridade dos servidores e a organização do sistema penitenciário. Neste diapasão, a manutenção do reconhecimento da conduta apenas como falta média não observaria a necessária repreensão ao comportamento do agravado, sob o risco da criação de um perigoso precedente.
+O art. 50, inciso VI, c/c art. 39, incisos II e V, define o comportamento praticado pelo agravante como falta grave, posto prever como deveres do condenado "obediência ao servidor e respeito a qualquer pessoa com quem deva relacionar-se", bem como "execução do trabalho, das tarefas e das ordens recebidas".
+De rigor, portanto, o reconhecimento da falta disciplinar de natureza grave.
+Tendo em vista este reconhecimento, impõe-se a perda de 1/3 (um terço) dos dias remidos, pois a falta grave cometida pelo agravado, nos termos do art. 57 da Lei de Execução Penal, recomenda o desconto no máximo legal, já que caracterizou conduta de desrespeito e insubordinação, abrangendo a exteriorização de sentimento pessoal de teor agressivo, em sobreposição às obrigações atinentes a qualquer reeducando em cumprimento de pena.
+Por fim, ante a constatação de que o agravado encontra-se cumprindo sua reprimenda no mais rigoroso dos regimes, inviável sua regressão ao regime fechado. Inobstante, faz-se de rigor a interrupção do lapso temporal visando à concessão de progressão de regime prisional."
+Como se vê, o Tribunal de origem concluiu, com base nas provas dos autos e em regular processo administrativo, que a conduta do Paciente restou configurada como falta disciplinar de natureza grave.
+Desse modo, cumpre consignar que o reexame da questão consubstanciada nas alegações de atipicidade e ausência de prova da falta grave imputada ao Sentenciado, bem como a desclassificação para falta média ou leve não se coadunam com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão em matéria fático-probatória, incabível nesta via, sobretudo quando as instâncias ordinárias firmaram entendimento em sentido contrário.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DA CONDUTA. INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA ESTREITA VIA DO HABEAS CORPUS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que a desobediência aos agentes penitenciários constitui-se em falta grave, a teor do art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execuções Penais".(HC n. 377.551/SP, Quinta Turma, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe de 28/3/2017).
+2. Tendo as instâncias ordinárias concluído, de modo fundamentado e com base em elementos concretos, que restou configurada a falta disciplinar de natureza grave, rever esse entendimento a fim de afastar a falta grave ou desclassificar a conduta para infração de natureza média ou leve demandaria, impreterivelmente, incursão na seara fático-probatória, inviável na estreita via do habeas corpus.
+3. Agravo Regimental no habeas corpus desprovido." (AgRg no HC n. 702.678/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/03/2022, DJe 21/03/2022; sem grifos no original.)
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. INVIABILIDADE. ORDEM DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há ilegalidade, nos termos dos arts. 50, inciso VI, e 39, incisos II e V, da Lei de Execução Penal, de decisão que reconhece a prática de falta grave de sentenciado que, juntamente com outros detentos, todos visivelmente embriagados, hostilizam os agentes e não acatam suas ordens.
+2. A discussão sobre a configuração da infração disciplinar ou até mesmo a sua desclassificação para falta de natureza média demandaria o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus. Precedentes.
+3. Agravo regimental desprovido." (AgRg no HC n. 617.508/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/06/2021, DJe 29/06/2021.)
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem- se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. PLEITO ABSOLUTÓRIO OU, SUBSIDIARIAMENTE, DE DESCLASSIFICAÇÃO PARA NATUREZA MÉDIA . IMPOSSIBILIDADE. REVOLVIMENTO DO QUADRO FÁTICO-PROBATÓRIO. ORDEM DENEGADA.
