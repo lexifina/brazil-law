@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (fl. 636, e-STJ):
+DIREITO PREVIDENCIÁRIO. APELAÇÃO. APOSHNTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. ART. 29-C DA LEI 8.213/1991. ATIVIDADE ESPECIAL RURAL COMPROVADAS. REQUISITOS PREENCHIDOS. APELAÇÃO DO INSS PARCIALMENTE PROVIDA. APELAÇÃO DA PARTE AUTORA PROVIDA EM PARTE.
+Os Embargos de Declaração foram rejeitados (fls. 771-788, e-STJ).
+A parte recorrente alega divergência jurisprudencial e violação aos arts. 85 e 1.022, II, do CPC. Afirma que o acórdão recorrido é nulo, porquanto foi omisso na análise de algumas questões de direito (fl. 738, e-STJ).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 12.9.2023.
+A irresignação merece acolhida.
+A parte recorrente sustenta que o art. 1.022, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial, nesse ponto, ante o óbice da Súmula 284/STF. Cito precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A alegação de afronta ao art. 535 do CPC/73, vigente à época, de forma genérica, sem a efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284/STF.
+2. Acórdão recorrido em consonância com o entendimento desta Corte acerca da legitimidade passiva da demandada, a atrair a aplicação do disposto na Súmula 83/STJ. 2.1. Revisar as conclusões do órgão julgador acerca da legitimidade passiva, tal como pretende a recorrente, demandaria o revolvimento de fatos e provas, providência obstada pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.762.391/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 28/5/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM ARESP. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL QUANTO A QUESTÃO QUE, A DESPEITO DA OPOSIÇÃO DE ACLARATÓRIOS, NÃO FOI APRECIADA PELO TRIBUNAL A QUO. SÚMULA 211/STJ. AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Esta Corte Superior tem a diretriz de que é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF (AgInt no AREsp 1.530.183/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, DJe de 19.12.2019; AgInt no AREsp 1.559.920/SE, Rel. Min. FRANCISCO FALCÃO, DJe 22.10.2020).
+2. Na espécie, incide ao caso o óbice da Súmula 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do CPC/2015, sem especificar, todavia, quais incisos teriam sido contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+3. Em referência à suposta violação ao art. 489, § 1o., IV, do CPC, sabe-se que é inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (AgRg nos EREsp. 1.138.634/RS, Rel. Min. ALDIR PASSARINHO JÚNIOR, DJe 19.10.2010). Note-se, também: AgRg no AREsp 1.647.409/SC, Rel. Min. ROGÉRIO SCHIETTI CRUZ, DJe de 01.07.2020; AgInt no AREsp 1.264.021/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 01.03.2019; REsp 1.771.637/PR, Rel. Min. HERMAN BENJAMIN, DJe de 04.02.2019.
+4. Na presente demanda - e à luz dos julgados ilustrativos - , incide o óbice da Súmula 211/STJ, uma vez que a questão suscitada no Recurso Especial não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Ressente-se o apelo especial do requisito do prequestionamento.
+5. Agravo Interno do Ente Federativo desprovido.
+(AgInt no AREsp 1766826/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe 30/4/2021).
+Quanto à infringência ao art. 85 do CPC, o TRF3 fundamentou o decisum com fulcro na Súmula 111 do STJ. In verbis:
+Em virtude do acolhimento total do pedido, condeno a autarquia ao pagamento de honorários fixados no montante de 10% (dez por cento) sobre o valor da condenação, conforme entendimento desta Turma (artigo 85. §§ 2º e 3o, do Código de Processo Civil/2015), aplicada a Súmula 111 do C. Superior Tribunal de Justiça, segundo a qual os honorários advocatícios, nas ações de cunho previdenciário, não incidem sobre o valor das prestações vencidas após a data da prolação da sentença.
+Sem razão o Tribunal a quo, pois o STJ reconheceu a aplicabilidade da Súmula 111 do STJ, mesmo após a vigência do Código de Processo Civil de 2015, uma vez que permanece inalterado o escopo do enunciado. Portanto, o termo final da verba honorária, deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111/STJ, mesmo tratando-se de questões decididas após a entrada em vigor do CPC/2015. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL. PRIMEIRO PROVIMENTO FAVORÁVEL. SÚMULA 111/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, PARA DAR PARCIAL PROVIMENTO AO AGRAVO INTERNO.
+I - Na origem, trata-se de ação ajuizada contra o INSS objetivando a concessão de aposentadoria por tempo de contribuição rural e urbana. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada para julgar parcialmente procedente o pedido, concedendo a aposentadoria por tempo de contribuição. Nesta Corte, deu-se provimento ao recurso especial para determinar a data do requerimento administrativo como termo a quo para o recebimento do benefício. A decisão foi mantida em sede de agravo interno.
+II - De fato o Tribunal de origem fixou a sentença de improcedência como o termo final dos honorários advocatícios, senão vejamos (fl. 238):" ..  Os honorários advocatícios são de 10% (dez por cento) sobre o valor das parcelas vencidas até a data da prolação da sentença, consoante § 3º do artigo 20 do Código de Processo Civil, orientação desta Turma e nova redação da Súmula n. 111 do Superior Tribunal de Justiça .. ". Nessas circunstâncias, deve-se corrigir o erro material ocorrido, para que o entendimento, no sentido de que o termo final dos honorários advocatícios, em matéria previdenciária, deve ser fixado na data do julgamento favorável à concessão do benefício, excluindo-se as parcelas vincendas, a teor da Súmula 111/STJ, seja respeitado.
+III - Embargos de declaração acolhidos.
+(EDcl no AgInt no REsp 1.900.650/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 15/9/2023.)
+PROCESSUAL CIVIL. DEMANDA PREVIDENCIÁRIA. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL. DECISÃO CONCESSIVA DO BENEFÍCIO. PRINCÍPIOS DA EFETIVIDADE E DA DURAÇÃO RAZOÁVEL DO PROCESSO. APLICAÇÃO.
+1. A respeito do termo final dos honorários advocatícios em matéria previdenciária, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111 desta Corte.
+2. O Código de Processo Civil de 2015 não inovou em relação aos critérios para a fixação da verba honorária sucumbencial estabelecidos no § 2º do art. 85, pois a referida norma consubstancia-se repetição da legislação anterior (art. 20, § 3º, do CPC/1973).
+3. A própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença, e morte ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidencia a necessidade de adoção de instrumentos que assegurem a duração razoável do processo, motivo pelo qual permanece inalterado o escopo da Súmula 111 do STJ, de modo a evitar possível conflito de interesses entre o patrono e seu representado.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.888.117/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/2/2021, DJe de 17/2/2021.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Com efeito, a respeito do termo final da verba honorária, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que este deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111/STJ, mesmo em se tratando de questões decididas após a entrada em vigor do CPC/2015.
+2. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+3. Recurso Especial provido para reconhecer a aplicação da Súmula 111 do STJ.
+(REsp 1.900.790/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/12/2020.)
+Diante do exposto, conheço parcialmente do Recurso Especial, e, nessa parte, dou-lhe provimento, com fulcro no art. 932 do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
