@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal) interposto de acórdão assim ementado (fls. 637-638, e-STJ):
+APELAÇÕES e REEXAME NECESSÁRIO  Reclamação trabalhista  Servidor público municipal  Estatutário  Motorista de ônibus  Pretensão ao recebimento de horas extras, adicional noturno, indenização pela supressão do intervalo intrajornada, adicional de insalubridade, mais indenização por danos materiais e morais face à perda auditiva por ruído  Sentença de parcial procedência.
+Recurso do autor  Insistência no pagamento das horas extras, com reflexos, adicional noturno e indenização pela supressão de intervalo intrajornada  Improcedência  Sujeição do autor ao regime estatutário  Incabível a aplicação das normas celetistas - Evidência de regularidade do pagamento dás , verbas, de acordo, com a jornada de trabalho especial e as normas especiais aplicáveis  Ausência de prova quanto às horas extras supostamente exercidas e não remuneradas, e de incorreção no pagamento de adicional noturno  Supressão de intervalo intrajornada não caracterizada, à luz da jornada especial reduzida exercida pelo autor  Majoração da indenização por danos morais  Não cabimento  Obediência aos critérios estabelecidos pela Lei n. 11.960/09, até o julgamento de repercussão geral sobre a matéria (Tema 810)  Não provimento do recurso.
+Recurso do réu  Pretensão de reforma quanto à condenação ao pagamento de adicional insalubridade  Impossibilidade  Laudo conclusivo quanto ao exercício de  trabalho em condições insalubres  Base de cálculo desse adicional  Alegação de inconstitucionalidade e ofensa à Súmula vinculante nº 4 do STF  Inocorrência  Fixação sobre o vencimento-base que não viola a referida Súmula  Jurisprudência do próprio Eg. STF  Pensão mensal vitalícia  Condenação afastada  Incapacidade do autor para o exercício de atividade laborai que não é absoluta  Perito que apontou a possibilidade de readaptação para função de menor complexidade  Autor que, aliás, continua a exercer suas atividades  Possibilidade de exercício de atividade laborativa que impede a concessão da pensão mensal  .Precedentes  Indenização por danos morais devida  Comprovação do caráter ocupacional da perda auditiva sofrida pelo autor  Dano moral in re ipsa  Cabível, contudo, a redução do valor arbitrado  Parcial provimento do recurso, com solução extensiva ao reexame necessário.
+Os Embargos de Declaração foram rejeitados (fls. 719-725, e-STJ).
+A parte recorrente alega que houve violação dos arts. 86 do Código de Processo Civil de 2015 e 186, 187, 373, 402, 927, 944, 949, 950, 951 e 953 do Código Civil de 2002, além de divergência jurisprudencial.
+Não foram apresentadas contrarrazões, tampouco contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.9.2023.
+Cuida-se, na origem, de Reclamação Trabalhista proposta por particular em face de empresa de transporte coletivo, a quem prestava serviço como motorista de ônibus, com o objetivo de obter o pagamento de horas extras, adicional noturno, indenização pela supressão do intervalo intrajornada, adicional de insalubridade e das diárias, bem como ao pagamento de indenização por danos materiais e morais decorrente da perda auditiva por ruído.
+Ao dirimir a controvérsia, o Tribunal de Justiça do Estado de São Paulo consignou (fls. 641-648, e-STJ):
+Ao contrário, como bem decidiu o MM. Juiz, infere-se tanto a partir da prova documental, quanto da prova testemunhal, que o autor não logrou comprovar o exercício habitual da jornada de trabalho nos moldes por ele apontados na inicial.
+De um lado, cumpre consignar que há acordo coletivo de trabalho firmado entre a autarquia e o Sindicato dos Servidores Públicos Municipais de Araras que prevê expressamente a possibilidade de prestação de serviços em horas extraordinárias, com convocação antecipada, inclusive para a realização de jornadas duplas, quando solicitado, em função das folgas (fls. 231/232).
+E de outro, não apenas o réu impugnou as alegações da inicial, como juntou cópias das escalas de trabalho, dos controles de horas e holerites, em que ficou demonstrado o pagamento de contraprestação referente às horas extras exercidas e adicionais nos percentuais pleiteados na inicial, bem como a com concessão de folgas semanais (fls. 91, 92/152 e 153/228).
+Por sua vez, a prova testemunhal, com a oitiva de servidores da autarquia (fls. 370 e 371), também foi no sentido de que eram devidamente pagas aos funcionários as horas extras realizadas.
+Ou seja, era do autor o ônus de comprovar, de maneira contundente, o exercício de trabalho extraordinário não remunerado ou pago em desacordo com as normas aplicáveis, mas ele não se desincumbiu desse ônus.
+O mesmo se diga em relação ao adicional noturno, eis que a mesma documentação evidencia que as horas noturnas exercidas eram pagas com o adicional de 20% devido sobre elas.
+E, ainda, no que tange ao intervalo intrajornada, não restou comprovada a existência de norma estatutária que lhe conferisse o suposto direito a tal intervalo.
+Alias, ao contrário, o acordo coletivo já mencionado previa expressamente a jornada ininterrupta de 6h40, sem intervalo para descanso e refeição.
+E, ressalte-se, nada impede seja a jornada fixada nesses termos, ou seja, sem intervalo para descanso e refeição, desde que ocorra a redução da carga horária diária, exatamente como ocorre no caso.
+Por outro lado, o recurso do réu comporta parcial provimento.
+A condenação da autarquia ao pagamento de adicional de insalubridade ao autor deve ser mantida.
+(..)
+Assim, num primeiro momento, extrai-se que o adicional de insalubridade não pode incidir sobre o salário mínimo.
+Todavia, caso assim disponha a lei do ente estatal empregador, não cabe ao Poder Judiciário a alteração da base de cálculo do benefício, sob pena de afronta ao artigo 37, inciso X, da Constituição Federal, que exige lei específica para alteração da remuneração dos servidores públicos. Aliás, a própria Súmula Vinculante no 04 proíbe a substituição da base de cálculo "por decisão judicial": Neste caso, todavia, ao que consta dos autos, não há lei municipal a fixar a base de cálculo do adicional.
+Por conclusão, a meu ver, na ausência de lei municipal a respeito, não poderia a Administração se utilizar do salário mínimo como base de cálculo do benefício, sob pena de flagrante violação à Súmula Vinculante no 04.
+(..)
+Desse modo, o autor faz jus ao recálculo do seu adicional de insalubridade para que este passe a incidir sobre seu vencimento-base, bem como ao pagamento das parcelas vencidas não prescritas, compreendidas no lapso temporal de cinco anos anteriores ao ajuizamento desta ação. Contudo, a autarquia tem razão do requerer seja afastada a condenação ao pagamento de pensão vitalícia ao autor.
+(..) Ou seja, não foi constatada a total incapacidade do autor para o trabalho, tanto que ele continua exercendo suas funções junto à autarquia, e há a possibilidade/indicação de readaptação para o exercício de atividades de menor complexidade.
+Daí a necessidade de afastamento da pensão vitalícia pretendida; afinal, neste momento, verifica-se que a lesão não impede o exercício profissional, sendo necessária, apenas, a readaptação do autor.
+(..) Por outro lado, é devida a condenação da ré ao pagamento de indenização por danos morais; mas, de fato, o valor arbitrado na sentença comporta redução.
+Ficou comprovado o dano suportado pelo autor, qual seja, a perda auditiva e a consequente redução da incapacidade laboral, sendo tal moléstia de caráter ocupacional.
+Ressalte-se que embora a etiologia da lesão do autor também esteja relacionada à idade, não se pode ignorar a grave e prejudicial concorrência do fator "exposição a ruído", este decorrente m exercício, por mais de 17 anos, da função de motorista de ônibus pelo autor, tudo conforme o laudo de fls. 319/323.
+E no que se refere ao dano moral, cumpre destacar que este dispensa comprovação, pois ocorre in re ipsa, ou seja, decorre da própria ofensa a qual foi submetida a vítima, sendo devida, pois, a condenação do réu a esse título.
+Nesse contexto, está evidentemente caracterizada a hipótese de responsabilização da autarquia pelos danos morais sofridos pelo autor.
+Contudo, a fixação do valor indenizatório deve seguir o princípio da razoabilidade. Assim, a reparação do dano moral, exatamente porque não comporta medição matemática, deve ser avaliada em cada caso concreto, segundo suas particularidades e circunstâncias. Não pode servir, de um lado, como fator de enriquecimento da vítima, nem de outro lado ser de valor desprezível para o causador do dano, pois aí não se atenderia ao objetivo de lhe mostrar a reprovabilidade social da sua conduta. Consideradas as circunstâncias do fato, as condições do autor e a linha de valores fixados em casos parelhos, cumpre reconhecer que o valor equivalente a R$ 25.000 00 (vinte e cinco mil reais) mostra-se mais razoável e proporcional na hipótese dos autos.
+Verifica-se que alterar as conclusões da Corte a quo sobre cada um dos pontos suscitados pela parte ora recorrente demandaria o reexame de todo o conjunto fático-probatório, especialmente de holerites, a extensão do dano moral sofrido, as cópias das escalas de trabalho, o acordo coletivo de trabalho entre a autarquia e o sindicato, o nível de incapacidade laboral para fins de recebimento de pensão vitalícia, medida inviável na via eleita ante a incidência da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. PODER DE POLÍCIA. AÇÃO CIVIL PÚBLICA. TRANSPORTE PÚBLICO. MÁ PRESTAÇÃO. CONCESSIONÁRIA. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. SOLIDARIEDADE ENTRE AS EMPRESAS CONSORCIADAS. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. ART. 28, § 3º DA LEI 8.078/90. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. DANO MORAL COLETIVO. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Inadmissível o recurso especial que pretenda debater questões que envolvem dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca o afastamento dos danos morais coletivos, no caso concreto, em razão da incidência do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.965.977/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29/9/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 925.488/MG, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/6/2017.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. O entendimento deste Sodalício é pacífico no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, que não é o caso dos autos. Incidência da Súmula 7 do STJ.
+(..) 4. Agravo regimental desprovido. (AgRg no AREsp 44.611/AP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 21/11/2016.)
+No que concerne à alegada ofensa ao art. 86 do CPC/2015, a jurisprudência desta Corte Superior de Justiça é no sentido de que a revisão dos critérios adotados para atribuição da sucumbência, com intuito de aferir se foi mínima ou recíproca, demanda incursão nos suportes fático e probatório dos autos, esbarrando novamente na referida Súmula. Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) SUCUMBÊNCIA RECÍPROCA. AFERIÇÃO. MATÉRIA FÁTICA. EXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. (..)
+(..)
+2. A jurisprudência deste Superior Tribunal firmou entendimento no sentido de que aferir a proporção do decaimento de cada parte, para concluir pela ocorrência de sucumbência recíproca ou mínima, demanda o revolvimento do acervo probatório, providência incompatível com a via eleita, a teor da Súmula 7/STJ.
+(..)
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1.157.707/MG, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 1/6/2018).
+(..) PROCESSUAL CIVIL. (..) GRAU DE SUCUMBÊNCIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. (..)
+(..)
+V. Na forma da jurisprudência desta Corte, "o STJ não pode reexaminar os fatos narrados pelo Tribunal regional para perscrutar o quanto cada parte sucumbiu na demanda, pois esta Corte já consolidou o entendimento de que a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos, bem como de existência de sucumbência mínima ou recíproca, requer o revolvimento de matéria fática, vedado pela Súmula 7/STJ" (STJ, REsp 1.637.091/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016). Nesse contexto, inviável acolher, sem rever o conteúdo fático-probatório dos autos, a alegação de decaimento sucumbencial mínimo, na forma da Súmula 7/STJ.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1226916/SP, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/02/2019).
+Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do REsp pela alínea "a" do permissivo constitucional. Veja-se:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO DA MOEDA. URV. PERDAS SALARIAIS. LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO DE CARREIRA. POSSIBILIDADE. LEI 16.190/2006. PERÍCIA JUDICIAL. EXAME. INVIABILIDADE. SÚMULAS 280/STF E 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. JUROS DE MORA DEVIDOS PELA FAZENDA PÚBLICA. ALTERAÇÕES AO ART. 1º-F DA LEI 9.494/1997. APLICABILIDADE IMEDIATA.
+(..)
+3. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada foi afastada no exame do recurso especial pela alínea "a" do permissivo constitucional, tendo em conta a aplicação das vedações previstas nos citados verbetes sumulares.
+(..)
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 289.699/MG, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 13/5/2013).
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
