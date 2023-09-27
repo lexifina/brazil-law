@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Trata-se de Conflito de Competência suscitado pelo JUÍZO DA 1ª VARA DO TRABALHO DE BRASÍLIA/DF em face do JUÍZO FEDERAL DA 7ª VARA CÍVEL DE BRASÍLIA - SJ/DF, nos autos de Ação de Conhecimento proposta por TATIANE OLIVEIRA QUEVEDO proposta contra a UNIÃO.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil.
+Feito breve relatório, decido.
+Nos termos do art. 955, parágrafo único, I, do Código de Processo Civil de 2015, combinado com o art. 34, XXII, do RISTJ, o Relator está autorizado, mediante decisão monocrática, a decidir o conflito de competência quando inadmissível, prejudicado, ou em conformidade com tese firmada em julgamento de recurso repetitivo ou de repercussão geral, incidente de assunção de competência, súmula desta Corte e do Supremo Tribunal Federal, ou jurisprudência dominante acerca do tema.
+Sublinho que o presente incidente comporta conhecimento, porquanto se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, consoante o disposto no art. 105, I, d, da Constituição da República.
+O Supremo Tribunal Federal, ao julgar ADI 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC 45/2004, excluiu da expressão "relação de trabalho" qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+No caso em exame, das provas juntadas e da narrativa contida na exordial e na contestação, observa-se que a Autora exerce cargo público sob regime estatutário, evidenciando a natureza jurídico-administrativa do vínculo, o que atrai a competência da Justiça Comum para solucionar a controvérsia.
+Tal orientação, restou cristalizada na Súmula n. 137/STJ:
+Compete a Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vinculo estatutário.
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, CONHEÇO do conflito para declarar competente o JUÍZO FEDERAL DA 7ª VARA CÍVEL DE BRASÍLIA - SJ/DF.
+Publique-se. Intimem-se.
+Comunique-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Após as providências cabíveis, arquivem-se os autos.
+EMENTA
