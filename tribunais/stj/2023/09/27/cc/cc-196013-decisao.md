@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 17ª VARA DE BRASÍLIA - SJ/DF, o suscitante, e o JUÍZO FEDERAL DA 13ª VARA DE PORTO ALEGRE - SJ/RS , o suscitado.
+O Juízo Federal de Porto Alegre/RS, em que foi ajuizada a ação ordinária coletiva por instituto de defesa do consumidor (Instituto Terra Goyazes), em que se busca afastar a incidência do PIS e da COFINS sobre as tarifas de energia elétrica acrescidas do ICMS, no âmbito do Estado do Rio Grande do Sul, declinou da competência para o processamento do feito, ao fundamento de que "a Subseção de Porto Alegre/RS não se enquadra nas opções previstas ao demandante considerando o disposto no art. 109, § 2º, da Constituição Federal, conjugado com o art. 51, parágrafo único, do CPC" (e-STJ fl. 24), determinando a distribuição do processo a uma das Varas Federal do Distrito Federal.
+Por seu turno, o Juízo Federal de Brasília - SJ/DF, ora suscitante, defendeu que, "tendo o autor optado pelo foro no qual proporá a ação, firma-se a competência territorial para o seu processamento, não sendo conferido ao juízo eleito declinar da competência" (e-STJ fl. 29).
+O Ministério Público Federal opinou pelo conhecimento do conflito para declarar competente o Juízo suscitado (e-STJ fls. 40/43).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, verifico que assiste razão ao suscitante.
+Os autos, na origem, tratam de ação ordinária coletiva por associação civil de defesa do consumidor (Instituto Terra Goyazes), em que se pleiteia afastar a incidência do PIS e da COFINS sobre as tarifas de energia elétrica acrescidas de ICMS, no âmbito do Estado do Rio Grande do Sul.
+A solução da questão posta demanda o exame, em conjunto, dos arts. 109, § 2º, da Constituição Federal, 51, parágrafo único, do CPC/2015, 2º da Lei n. 7.347/1985 (Lei da Ação Civil Pública) e 93 da Lei n. 8.078/1990 (Código de Defesa do Consumidor), que assim dispõem, respectivamente:
+Constituição Federal:
+Art. 109, § 2º As causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+Código de Processo Civil
+Art. 51. É competente o foro de domicílio do réu para as causas em que seja autora a União.
+Parágrafo único. Se a União for a demandada, a ação poderá ser proposta no foro de domicílio do autor, no de ocorrência do ato ou fato que originou a demanda, no de situação da coisa ou no Distrito Federal.
+Lei n. 7.374/1985:
+Art. 2º As ações previstas nesta Lei serão propostas no foro do local onde ocorrer o dano, cujo juízo terá competência funcional para processar e julgar a causa.
+Lei n. 8.078/1990
+Art. 93. Ressalvada a competência da Justiça Federal, é competente para a causa a justiça local:
+I - no foro do lugar onde ocorreu ou deva ocorrer o dano, quando de âmbito local;
+II - no foro da Capital do Estado ou no do Distrito Federal, para os danos de âmbito nacional ou regional, aplicando-se as regras do Código de Processo Civil aos casos de competência concorrente. (Grifos acrescidos).
+Desse arcabouço normativo, é possível concluir que, como a associação autora da ação coletiva busca a proteção de direitos de consumidores/contribuintes de fato de tributo federal situados apenas no Estado do Rio Grande do Sul, indicando, no polo passivo da demanda, a União Federal, o feito apenas poderia ser ajuizado na Justiça Federal, sendo essa competência funcional e, por isso, absoluta. Porém, poderá escolher entre o Juízo Federal da Capital do Estado ou do Distrito Federal, estando-se, aqui, diante de competência territorial e, portanto, relativa.
+Vale destacar que a escolha entre o Juízo Federal regional e o Juízo Federal do Distrito Federal teria efeitos apenas em relação à eficácia subjetiva da coisa julgada, prevista no art. 2º-A da Lei n. 9.494/1997, sendo certo que, na hipótese em análise, a petição inicial já evidencia que o provimento judicial pretendido atingirá somente os substituídos domiciliados no Estado do Rio Grande do Sul.
+Para amparar esse entendimento, destaco o seguinte julgado, que, mutatis mutandis, também se aplica à espécie:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL E DO ESTADO DE SÃO PAULO. DEMANDA COLETIVA AJUIZADA POR ENTIDADE DE ABRANGÊNCIA LOCAL EM FACE DA UNIÃO. COMPETÊNCIA CONSTITUCIONALMENTE ATRIBUÍDA À SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL (ART. 109, § 2º), QUE NÃO SE ALTERA EM FACE DA LIMITAÇÃO SUBJETIVA PREVISTA NO ART. 2º-A DA LEI 9.494/97.
+1. Conflito negativo de competência instaurado entre Juízo Federal da Seção Judiciária do Distrito Federal e do Estado de São Paulo para processar e julgar ação coletiva proposta por associação local de servidores domiciliados no Estado de São Paulo (Oficiais de Justiça Avaliadores Federais da Justiça do Trabalho da 2ª Região) em desfavor da União, no caso, para discutir a incidência do imposto de renda sobre o auxílio creche (ou auxílio pré-escolar). A ação foi ajuizada junto à Seção Judiciária do Distrito Federal.
+2. O Juízo Federal do Distrito Federal, o suscitado, declinou da competência ao fundamento de que eficácia subjetiva da sentença coletiva almejada, segundo o que dispõe o art. 2º-A da Lei 9.494/97, estaria limitada à competência territorial do seu órgão prolator. O Juízo Federal de São Paulo, o suscitante, alega que a competência constitucional da Justiça Federal do Distrito Federal não poderia ser preterida por norma infraconstitucional e que o art. 2º-A da Lei 9.494/97 não trataria de competência, mas dos efeitos da sentença.
+3. A Justiça Federal do Distrito Federal, na exegese do art. 109, § 2º, da CF, tem competência em todo o território nacional, pois, a critério do autor, pode ser instada a processar e julgar qualquer demanda ajuizada em desfavor da União.
+4. O art. 2º-A da lei 9.494/97 estabelece que: "A sentença civil prolatada em ação de caráter coletivo proposta por entidade associativa, na defesa dos interesses e direitos dos seus associados, abrangerá apenas os substituídos que tenham, na data da propositura da ação, domicílio no âmbito da competência territorial do órgão prolator".
+5. Assim, proposta a ação coletiva na Seção Judiciária do Distrito Federal, não há cogitar de falta de competência territorial, sendo que a eficácia subjetiva da sentença ficará limitada ao espectro de abrangência da associação autora.
+6. Conflito de competência conhecido, para declarar a competência 22ª Vara da Seção Judiciária do Distrito Federal, o suscitado.
+(CC n. 133.536/SP, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 14/8/2014, DJe de 21/8/2014.)
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 13ª VARA DE PORTO ALEGRE/RS.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
