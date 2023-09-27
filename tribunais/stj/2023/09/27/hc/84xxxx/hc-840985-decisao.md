@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SAMUEL EVERTON TENORIO SANTANA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi inicialmente condenado às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa, por infração ao disposto no artigo 33, caput, da Lei 11.343/2006, conforme sentença às fls. 25-39.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 43-56.
+No presente writ, o impetrante sustenta a existência de constrangimento ilegal em razão da ausência de fundamentação idônea a ensejar a exasperação da pena-base com fulcro nos maus antecedentes, bem como a justificar a fixação do regime prisional inicial fechado.
+Argumenta, nesse sentido, que "é impossível que uma condenação que configure reincidência se transforme em maus antecedentes e, caso isso ocorra não só se trata de um erro técnico, como também se tem caracterizado o bis in idem, uma vez que a reincidência foi utilizada para incrementar a pena na segunda fase da dosimetria".
+Assinala que, "considerando que ainda não foi ultrapassado o período depurador da reincidência nos dois processos, tais condenação apenas são aptas a configurar a circunstância agravante, de forma que não há que se falar que Samuel ostenta maus antecedentes, sendo de rigor que a sua pena-base seja fixada no mínimo legal".
+Requer, ao final, a concessão da ordem para decotar os maus antecedentes e estabelecer o regime inicial semiaberto.
+Informações prestadas às fls. 67-82 e 85-102.
+O Ministério Público Federal, às fls. 104-106, opinou pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na alegação de ilegalidade em razão da exasperação da pena-base com fulcro na vetorial dos maus antecedentes, bem como da fixação do regime prisional inicial fechado, sem fundamentação idônea para tanto.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No tocante à valoração negativa da circunstância judicial referente aos maus antecedentes na primeira fase da dosimetria da pena, tenho que não resta configurado o alegado constrangimento ilegal.
+Verifico da sentença que foram consideradas duas condenações anteriores definitivas, ambas pelo delito de roubo, para exasperar a basilar em 1/6 (um sexto), com fulcro nos maus antecedentes e, na segunda fase, a título da agravante da reincidência, foi utilizada uma terceira condenação, esta por tráfico de entorpecentes.
+Trata-se de entendimento que está em consonância com a jurisprudência desta Corte Superior, que se firmou no sentido de que "se admite a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, bem como para configurar a agravante da reincidência, na segunda fase, ficando apenas vedado o bis in idem. Assim, considerando a existência de múltiplas condenações transitadas em julgado, pode uma, desde que não sopesada na segunda etapa do procedimento dosimétrico, ser valorada como maus antecedentes, não se vislumbrando, no ponto, flagrante ilegalidade" (AgRg no HC n. 799.521/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 25/5/2023).
+Corroborando o entendimento, os seguintes julgados: AgRg no HC n. 763.135/SP, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 28/4/2023; AgRg no HC n. 703.115/SC, Sexta Turma, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 15/8/2022; e AgRg no HC n. 732.603/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/8/2022.
+Assim, não há que se falar em ilegalidade quanto ao ponto.
+No tocante ao regime prisional inicial, o Plenário do Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo.
+Para tanto, devem ser observados os preceitos constantes dos artigos 33 e 59, ambos do Código Penal. Esse também é entendimento perfilhado por esta Corte: HC n. 271.147/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 26/9/2014.
+No presente caso, não obstante a quantidade não excepcional de entorpecentes apreendidos (2g de cocaína e 3,8g de crack), não há ilegalidade na fixação do regime prisional inicial fechado, em razão da reincidência e das circunstâncias judiciais negativas (maus antecedentes), nos termos do artigo 33, § 2º, "b", do Código Penal.
+Nesse sentido: AgRg no HC n. 738.656/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 19/5/2022; AgRg no HC n. 708.627/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 27/4/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
