@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HESA 20 - Investimentos Imobiliários LTDA. à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 450):
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. APELAÇÃO CÍVEL. 1. DIREITO PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. 2. DIREITO CIVIL. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. 3. TAXAS DE CONDOMÍNIO. RESPONSABILIDADE A PARTIR DA IMISSÃO DA POSSE. PRECEDENTES DO STJ. SÚMULA N. 83/STJ. 4. EXAME DE DISSÍDIO PREJUDICADO. 5. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 463-466), a embargante sustenta que a decisão que monocrática (e-STJ, fls. 450-460) incorreu em vício de omissão, porquanto não apresentou os motivos da aplicação da Súmula n. 211/STJ.
+Para tanto, alega que os arts. 476 e 884 foram objeto de extensa análise ao longo do processo.
+Aduz, ainda, que a decisão embargada foi omissa, tendo em vista que se silenciou em relação a inaplicabilidade do art. 1.025 do CPC/2015.
+Pugna, ao fim, pelo acolhimento dos embargos.
+Não foram apresentadas as impugnações, conforme certidão (e-STJ, fl. 470).
+Brevemente relatado, decido
+Os declaratórios não merecem ser acolhidos.
+De início, cabe rememorar que os embargos de declaração constituem meio de impugnação à decisão judicial de fundamentação vinculada, cabíveis apenas nas hipóteses estabelecidas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+Tal recurso objetiva o aprimoramento das decisões judiciais, com o propósito de prestara tutela jurisdicional de forma clara e completa, sem, contudo, revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissões, prestam-se os declaratórios a modificar o julgado.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.475.227/RS,Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+Na presente insurgência, a embargante argumenta que a decisão monocrática foi omissa em relação a aplicação da Súmula n. 211/STJ. No ponto, sem razão!
+Na hipótese, ficou claramente fundamentada que (i) a exceção de contrato não cumprido (art. 476, CC) foi rechaçada pela Corte de origem, porquanto não foi levada à apreciação no âmbito recursal, apenas nos embargos; e (ii) ausência de manifestação pelo Tribunal de origem sobre o enriquecimento sem causa.
+Confira-se (e-STJ, fls. 453-455):
+Na hipótese dos autos, a recorrente aduz que a Corte de origem foi omissa quanto à tese central suscitada, qual seja, a mora da recorrida.
+Para tanto, fundamentou os embargos de declaração opostos em duas premissas: a exceção de contrato não cumprido (art. 476,CC) e o princípio da vedação ao benefício da própria torpeza da adquirente do imóvel (e-STJ, fl. 384).
+Ocorre que, ao apreciar os declaratórios, a Corte de origem rechaçou a omissão alegada sob o argumento de que os temas não foram levados à apreciação no âmbito recursal.
+Veja-se (e-STJ, fl. 396):
+Em suas razões, a embargante sustenta a existência de omissão ao argumento de que não houve manifestação acerca da exceção de contrato não cumprido (art. 476 do Código Civil) e da existência de benefício da própria torpeza da adquirente. Destaca, ainda, que caberia a este colegiado a apreciação, de ofício, no que tange à superação do Tema Repetitivo 886 do STJ quando foi julgado o REsp 1847734/SP, em 29/03/2022. Defende, assim, a existência de violação ao art. 489, § 1º, IV, do Código de Processo Civil.
+Todavia, da simples leitura da apelação interposta ao ID 8345097, constata-se que os aludidos temas sequer foram trazidos à discussão no âmbito recursal, já que a apelante/embargante cingiu-se a defender que "a responsabilidade pelos encargos condominiais foi transferida da incorporadora ao adquirente por meio de cláusula contratual" e que, acaso mantida o afastamento da cláusula 15.2, que os juros de mora passem a incidir a partir do trânsito em julgado ou da prolação sentença.
+Logo, não há que se falar em omissão se a matéria sequer foi objeto de discussão nos autos, configurando, pois, nítida inovação recursal, além de representar ofensa ao contraditório e à ampla defesa.
+Não bastasse isso, vale pontuar que, uma vez que o caso concreto se amolda ao que decidido pela Câmara de Uniformização desta Corte, do IRDR nº 2016.00.2.034904-4 (Tema 6) e pelo colendo Superior Tribunal de Justiça no REsp 1345331/RS (Tema 886), firmado na sistemática dos recursos especiais repetitivos, a aplicação das teses firmadas é impositiva, conforme determinação expressa previsão do art. 927, inciso III, do Código de Processo Civil.
+Com efeito, esta Corte Superior consolidou sua jurisprudência no sentido de não ocorrer violação aos arts. 489 e 1.022 do CPC/2015, tampouco negativa de prestação jurisdicional ou nulidade da decisão, quando o Tribunal de origem examina, de forma fundamentada, as questões fundamentais para o deslinde da controvérsia, ainda que em sentido contrário à pretensão manifestada pela parte, de modo que o resultado desfavorável não deve ser confundido com a violação aos dispositivos invocados.
+ ..
+No que tange às questões do enriquecimento sem causa e a mora da recorrida, nota-se a ausência de descumprimento do requisito do prequestionamento na medida em que o Tribunal de origem não se manifestou sobre os temas aqui controvertidos, ainda que opostos os embargos de declaração pela recorrente.
+Deveras, consoante entendimento albergado neste Superior Tribunal, a ausência de de debate no acórdão recorrido acerca do conteúdo normativo do dispositivo de lei federal apontado como violado, não obstante a oposição dos declaratórios, obsta o conhecimento do recurso especial pela ausência de prequestionamento, atraindo a incidência da Súmula n. 211/STJ.
+Por fim, quanto à aplicação do art. 1.025 do CPC/2015, convém registrar que, nos termos da jurisprudência desta Corte Superior, a admissão do prequestionamento ficto em reclamo especial exige que no mesmo recurso seja reconhecida a existência da violação do art. 1.022 do código de ritos, o que não aconteceu no caso sob julgamento.
+Na mesma linha de cognição:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. FUNDAMENTO INATACADO. SÚMULA N. 283/STF. DEVER DE INDENIZAR. REVISÃO DO ACERVO FÁTICO. SÚMULA N. 7/STJ.
+1. Ausente o debate no Tribunal de origem acerca dos dispositivos tidos por violados no recurso especial, não é possível o seu conhecimento. Incidência das Súmulas n. 282 e 356/STF.
+2. Nos termos da jurisprudência pacífica desta Corte, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+3. A recorrente deixou de impugnar o fundamento do acordão recorrido no sentido de não houve comprovação de que efetivamente a requisição médica fora realizada de forma irregular, o que atrai a incidência da Súmula n. 283/STF 4. No presente caso, afastar a conclusão do Tribunal de origem de que "a negativa administrativa aposta pela operadora (e considerada indevida) acarretou abalo anímico indenizável" demandaria a análise do contexto fático probatório, o que se mostra inviável em sede de recurso especial a teor da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.154.635/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+No caso, não obstante a alegação de pretensa omissão no decisum, o que se constata, na verdade, é tão só a pretensão de rejulgamento da causa, em virtude do inconformismo da parte com o resultado, tornando inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ART. 1.022 DO CPC/2015. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS REJEITADOS.
