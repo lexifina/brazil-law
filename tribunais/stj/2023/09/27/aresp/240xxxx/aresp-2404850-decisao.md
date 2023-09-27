@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul.
+A parte agravante aponta, em Recurso Especial, violação, no mérito, dos arts. 373 do CPC e 6º, VIII, do CDC. Defende a nulidade da perícia realizada, eis que o termo de ocorrência e inspeção do medidor de energia foi confeccionado de forma unilateral pela concessionária recorrida. In verbis:
+No caso em apreço, a prova da conduta fraudadora da Recorrente mostra-se imprescindível para que a concessionária de energia possa exigir o ressarcimento pela energia supostamente consumida e não faturada, não existindo, não se pode atribuir qualquer responsabilidade à Recorrente.
+Repisa-se que, era de Recorrida o dever processual de demonstrar cabalmente que a Recorrente quem praticou a fraude no medidor, sendo que a Recorrente vivia relatando problemas para a concessionária, conforme documentos robustos de fls. 58-82.
+A consumidora/recorrente somente pode ser responsabilizada se houver dado causa ao defeito apontado, prova esta de cujo ônus a Ré não se desincumbiu.
+Vejamos abaixo julgado que comprova que o ônus de comprovar a fraude no medidor de energia elétrica se imputa à concessionária (..)
+Ressalta-se que na hipótese de constatação de irregularidade, cabe à concessionária fazer prova em juízo, de qual foi a irregularidade que levou à cobrança da multa, não podendo simplesmente atribuir sem o devido procedimento legal, sobretudo o da anuência do usuário no envelope que lacrou o medidor, para, após sua intimação da data e horário, ser aberto apenas por um órgão idôneo (INMETRO), que seja o responsável pela perícia, além do mais, o termo de ciência da vistoria que constatou suposta fraude e originou o débito, está com todos os campos do citado termo ilegíveis, E POR FIM, NÃO HOUVE GRANDES ALTERAÇÕES NO CONSUMO APTAS A ENSEJAR QUE A RECORRENTE SE BENEFICIOU DA SUPOSTA FRAUDE.
+Contrarrazões às fls. 418-427 .
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de setembro de 2023.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que os Declaratórios são acolhidos "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fl. 283):
+Desse modo, infere-se que o magistrado enfrentou as teses suscitadas pela apelante, especialmente no tocante à regularidade da inspeção realizada pelos funcionários da concessionária ré, uma vez que a atuação destes foi acompanhada pela própria apelante, que exarou sua assinatura no Termo de Ocorrência e Inspeção (f. 168), o que, inclusive, não foi objeto de irresignação pela parte.
+Registre-se, ainda, que o relógio medidor está instalado dentro da residência da apelante, de modo que para a realização da inspeção, foi necessária sua permissão; além do mais, destaca-se que o exame do respectivo relógio medidor poderia ter sido acompanhado pela apelante, o que evidencia que tal ato não foi praticado de forma unilateral da concessionária, como sustentado em suas razões recursais.
+O Tribunal de origem destacou a regularidade da inspeção realizada pelos funcionários da concessionária, uma vez que a atuação foi acompanhada pela própria recorrente, que exarou sua assinatura no Termo de Ocorrência e Inspeção.
+Afasta-se a ideia de simples valoração da prova, já que a instância originária decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça ante a incidência de sua Súmula 7: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
