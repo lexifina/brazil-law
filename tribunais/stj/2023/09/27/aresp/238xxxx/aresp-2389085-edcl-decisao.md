@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OI S. A. - EM RECUPERAÇÃO JUDICIAL à decisão desta relatoria prof erida nos termos da seguinte ementa (e-STJ, fls. 1.559-1.563):
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CRÉDITO CONCURSAL. SUJEIÇÃO AOS EFEITOS AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO ESTADUAL E RAZÕES DISSOCIADAS. SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 1.568-1.572), a embargante aduz haver omissão na decisão embargada, argumentando, em resumo, que o Tribunal de origem decidiu acerca da não submissão do crédito discutido nos autos ao plano de recuperação judicial, o que evidencia que as razões vertidas no apelo especial, além de não estarem dissociadas dos argumentos do acórdão estadual, impugnaram todos os fundamentos deste, sendo descabida a incidência das Súmulas 283 e 284 do STF ao caso.
+Sem impugnação.
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 1.022 do CPC/2015, são cabíveis embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. ART. 28 DO CDC. POSSIBILIDADE. PRECEDENTES. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Precedentes.
+3. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.825.577/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/8/2021, DJe 26/8/2021.)
+No caso, ao analisar as questões aduzidas no recurso especial, a decisão embargada foi clara ao consignar a aplicabilidade das Súmulas 283 e 284 do STF, no que concerne à tese recursal de que o pagamento deve ocorrer na forma dos termos deliberados no plano de soerguimento e de acordo com as limitações da lei de regência, ainda que o crédito não esteja habilitado. Isso porque a Corte de origem reconheceu a inviabilidade de discussão de tais questões considerando a ocorrência de indevida supressão de instância, mas não houve, nas razões do recurso especial interposto pela ora embargante, impugnação específica desse argumento utilizado no aresto estadual, estando, por conseguinte, a aludida tese recursal dissociada dos fundamentos do acórdão recorrido, o que justifica a incidência dos referidos óbices sumulares.
+Nessas circunstâncias, são inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015, porque não há omissão a ser desfeita no julgamento monocrático, mas apenas a pretensão de rejulgamento da causa em razão do inconformismo da parte com o resultado, o que torna inviável o acolhimento dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015..
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
