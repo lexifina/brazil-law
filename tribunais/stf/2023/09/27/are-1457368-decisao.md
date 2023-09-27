@@ -1,0 +1,59 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO PROPOSTA POR ENTIDADE SINDICAL. LIMITAÇÃO DOS BENEFICIÁRIOS NO PROCESSO DE CONHECIMENTO. LIMITES SUBJETIVOS DA COISA JULGADA. INAPLICABILIDADE DO TEMA 823 DA REPERCUSSÃO GERAL. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Quarta Região:
+
+    “CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. SUBSTITUÍDOS. LEGITIMIDADE ATIVA. LIMITAÇÃO. COISA JULGADA.
+
+    1. É entendimento pacífico desta Corte que a coisa julgada formada em ação coletiva ajuizada por entidade sindical abrange todos os servidores da respectiva categoria profissional, os quais passam a ter legitimidade para executar individualmente o título executivo, independentemente de comprovação da sua condição de filiado ao sindicato autor da ação de conhecimento.
+
+    2. Contudo, em havendo previsão expressa no título executivo limitando a concessão do benefício pleiteado aos substituídos na ação de conhecimento, deve ser respeitada a coisa julgada.
+
+    3. No caso dos autos, em que o título executivo se origina das decisões proferidas na ação coletiva ajuizada pelo Sindicato Nacional dos Técnicos da Receita Federal - SINDTTEN, sob o nº 0002767-94.2001.401.3400 (2001.34.00.002765-2), a decisão executada estendeu o direito nela reconhecido somente aos servidores/pensionistas constantes do rol que estão presentes nos autos, devendo tal limitação ser observada em sede de execução, sob pena de ofensa à coisa julgada” (fl. 1, e-doc. 6).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado os §§ 1º e 2º, o inc. XX e o caput do art. 5º e o inc. III do art. 8º da Constituição da República. Argumenta que “o não reconhecimento da legitimidade ativa do Recorrente configura clara exclusão de direitos, não só dele, mas de todos os demais servidores da categoria que não estão com seus nomes lançados na inócua lista de filiados juntada com a petição inicial da referida ação coletiva, afetando direitos fundamentais como, por exemplo, a dignidade da pessoa, visto que o crédito que busca-se possui natureza alimentar decorrente do trabalho lícito do Recorrente” (fl. 6, e-doc. 12).
+
+    Ressalta que “esta Suprema Corte ao proferir o Acórdão no RE 883.642-AL, conferiu-lhe repercussão geral, vinculando todo o Poder Judiciário, pela ampla legitimidade dos sindicatos, tornando-se inócua a lista de sindicalizados” (fl. 12, e-doc. 12).
+
+    3. O recurso extraordinário foi inadmitido pela aplicação do Tema 660 da repercussão geral e ausência de ofensa constitucional direta (e-doc. 18).
+
+    4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante sustenta que, “com o entendimento sedimentado desta Corte Suprema, o essencial para comprovar a legitimidade ativa do servidor e/ou pensionista na propositura do cumprimento de sentença coletivo movida por sindicato nacional, como a dos autos, é a comprovação da qualidade de substituído e não se filiado ou não” (fl. 11, e-doc. 22).
+
+    Pede o “provimento integral do presente Agravo, com a admissibilidade, seguimento e provimento do Recurso Extraordinário, conforme os pleitos nele encartados” (fl. 14, e-doc. 22).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    6. No julgamento do Recurso Extraordinário n. 883.642, Relator o Ministro Ricardo Lewandowski, Tema 823, este Supremo Tribunal fixou a tese de que “os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos” (DJe 26.5.2015).
+
+    Não é o caso, entretanto, de se aplicar a tese de repercussão geral fixada no Tema 823, pois o Tribunal Regional afastou sua incidência, ao fundamento de que os filiados da entidade sindical, beneficiários da sentença coletiva, foram delimitados no processo de conhecimento, sendo que essa situação jurídico-processual estaria acobertada pela coisa julgada. Tem-se no acórdão recorrido:
+
+    “É entendimento pacífico desta Corte que a coisa julgada formada em ação coletiva ajuizada por entidade sindical abrange todos os servidores da respectiva categoria profissional, os quais passam a ter legitimidade para executar individualmente o título executivo, independentemente de comprovação da sua condição de filiado ao sindicato autor da ação de conhecimento. Contudo, em havendo previsão expressa no título executivo limitando a concessão do benefício pleiteado aos substituídos na ação de conhecimento, deve ser respeitada a coisa julgada. No caso dos autos, em que o título executivo se origina das decisões proferidas na ação coletiva ajuizada pelo Sindicato Nacional dos Técnicos da Receita Federal - SINDTTEN, sob o nº 0002767-94.2001.401.3400 (2001.34.00.002765-2), esta Terceira Turma já manifestou entendimento de que houve a limitação dos efeitos da referida ação aos substituídos no processo de conhecimento. Trago, com razões de decidir, o bem lançado voto de relatoria da Desembargadora Federal Vânia Hack de Almeida no julgamento do AI nº 5003883-80.2021.4.04.0000/RS, ocorrido na sessão de 0/08/2021: (...) Concluindo, o presente recurso deve ser provido para extinguir a execução originária pela ilegitimidade ativa da parte exequente, condenando-a ao pagamento dos honorários advocatícios, fixados em 10% sobre o valor executado” (fls. 4-8, e-doc. 6).
+
+    Sobre a inaplicabilidade do tema de repercussão, no julgamento do Recurso Extraordinário com Agravo n. 1.361.146/ES, que versava sobre controvérsia análoga à trazida neste processo, o Ministro Alexandre de Moraes ressaltou que, “no caso concreto, todavia, embora o Tribunal de origem reconheça a jurisprudência do STF, em observância à coisa julgada, deixou de aplicar a tese fixada no Tema 823, tendo em vista que a sentença em execução limitou os servidores que seriam beneficiados” (DJe 15.6.2023). Na mesma linha são os seguintes julgados:
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. 3. Ação coletiva. Execução individualizada. 4. Título executivo restringiu expressamente os efeitos da sentença aos servidores constantes da relação nominal juntada aos autos. Necessária observância à coisa julgada. Inaplicabilidade do tema 823 da repercussão geral 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Negado provimento ao agravo regimental” (ARE n. 1.368.061-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 4.11.2022).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 25.10.2022. CUMPRIMENTO DE SENTENÇA. SINDICATO. LEGITIMIDADE. DESNECESSIDADE DE FILIAÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM PROCESSO COLETIVO. INAPLICABILIDADE DO TEMA 823 DA REPERCUSSÃO GERAL. PROCESSO DE CONHECIMENTO. COISA JULGADA. LIMITAÇÃO DOS EFEITOS DA SENTENÇA. EXEQUENTES QUE NÃO CONSTAVAM DA LISTA NOMINAL. TEMAS 339, 660 E 895 DA REPERCUSSÃO GERAL. 1. O Supremo Tribunal Federal, em sede de repercussão geral (Tema 823, RE 883.642-RG, Rel. Min. Ricardo Lewandowski, DJe 26.06.2015), assentou a ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos. 2. No caso concreto, contudo, apesar de o Tribunal de origem reconhecer tal orientação afastou a pretensão da parte Recorrente em observância ao título executivo que limitou os efeitos da condenação aos exequentes constantes da lista nominal e em respeito à coisa julgada. 3. O Supremo Tribunal Federal já decidiu no julgamento do ARE 748.371-RG, rel. Min. Gilmar Mendes, DJe 1º.08.2013, sob a sistemática da repercussão geral, que não há ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição da República, o que torna inadmissível o recurso extraordinário (Tema 660). 4. Esta Corte reconheceu não haver repercussão geral da questão (Tema 895) relativa à ofensa ao princípio da inafastabilidade de jurisdição na hipótese em que há óbice processual intransponível ao julgamento de mérito. 5. Ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição da República exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 6. Ainda que se considere, na espécie, preenchido o requisito do prequestionamento de todos os dispositivos dados como contrariados no apelo extremo, verifica-se que, na hipótese, eventual divergência em relação ao entendimento adotado pelo juízo a quo, para a verificação da legitimidade ativa do recorrente quanto ao título judicial, demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. 7. Agravo regimental a que se nega provimento. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC” (ARE n. 1.399.521-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 11.5.2023).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO RECORRIDO EM HARMONIA COM O TEMA 823 DA REPERCUSSÃO GERAL. OBSERVÂNCIA DOS LIMITES DA COISA JULGADA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. TEMA 660. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.395.503-AgR, de minha relatoria, Primeira Turma, DJe 5.10.2022).
+
+    O Tribunal de origem observou a orientação jurisprudencial deste Supremo Tribunal.
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento ao presente recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 27 de setembro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
