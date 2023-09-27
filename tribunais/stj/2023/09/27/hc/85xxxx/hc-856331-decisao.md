@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Raimundo Duarte dos Santos - beneficiado com progressão para o regime semiaberto -, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais, que não conheceu da impetração ali ajuizada (Habeas Corpus n. 1.0000.23.196043-6/000), mantendo a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Teófilo Otoni/MG (PEC n. 0078892-79.2011.8.13.0686), que considerou como data-base para nova progressão de regime a data em que o paciente foi efetivamente beneficiado com a progressão ao semiaberto.
+Alega a impetrante, em síntese, que a decisão que concede a progressão de regime possui natureza meramente declaratória. Nesse sentido, após a progressão de regime, a nova data-base deve ser o momento em que a sentenciado adquiriu o direito, isto é, 9 de setembro de 2022 e não a data da decisão que viabilizou o seu efetivo exercício (fl. 11).
+Postula, então, a concessão liminar da ordem, a fim de que seja determinado ao Tribunal de origem o conhecimento da impetração originária, para determinar a retificação do atestado de penas fazendo constar como data-base a data da última progressão (9 de setembro de 2022), uma vez que a decisão que reconhece o direito tem natureza declaratória e não constitutiva (fl. 15).
+É o relatório.
+Com efeito, a Sexta Turma desta Corte Superior de Justiça passou a corroborar o entendimento manifestado pelo Supremo Tribunal Federal, no sentido de fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das execuções deferiu o benefício, haja vista tal decisão ter caráter meramente declaratório, não constitutivo (AgRg no HC n. 540.250/SP, Ministro Jorge Mussi, Quinta Turma, DJe 16/3/2020).
+Com essas considerações, concedo liminarmente a ordem para determinar a retificação do cálculo de penas do paciente no PEC n. 0078892-79.2011.8.13.0686, devendo ser considerada como data-base, para a concessão da progressão de regime, o dia em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal para a progressão ao regime semiaberto, e não a data em que foi deferido o benefício.
+Comunique-se com urgência às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME PRISIONAL. MARCO INICIAL. DATA-BASE EM QUE EFETIVAMENTE FOI DEFERIDO O BENEFÍCIO. ILEGALIDADE. NECESSIDADE DE RETIFICAÇÃO DO CÁLCULO PARA CONSIDERAR A DATA EM QUE O APENADO PREENCHEU OS REQUISITOS LEGAIS.
+Ordem concedida liminarmente nos termos do dispositivo.
