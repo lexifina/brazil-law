@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de incidente de liberação de bloqueio judicial para pagamento de honorários advocatícios apresentado por TEBAR CONTENTE SOCIEDADE INDIVIDUAL DE ADVOCACIA, antiga denominação social SÁ PEREIRA CONSULTORIA ADVOCATÍCIA, em face de AEDI CORDEIRO DOS SANTOS, com fundamento no artigo 24-A da Lei nº 8.906/94.
+O Requerente alega que, "conforme avençado em contrato de prestação de serviços advocatícios, a parte Requerente aos dia 17 de julho de 2021, interpôs Habeas Corpus do nº 00224820- 13.2021.3.000000 junto ao Superior Tribunal de Justiça, em que ocorreu a expedição de alvará de soltura ao Requerido".
+Aduz, contudo, "que o contrato firmado entre as partes não foi completamente adimplido, restando o pagamento pelos honorários ad exitum" e que, com base no "artigo supramencionado, entende-se que o advogado-credor do débito, possui o direito de ser ressarcido pelos serviços prestados e os gastos ocasionados enquanto patrono do cliente, através dos bens já bloqueados nos autos do processo nº 5008194-62.2021.403.6105", uma vez que "o artigo garante ao advogado, a liberação de até 20% dos bens que foram tornados indisponíveis mediante determinação judicial"
+Assim, requer o desbloqueio do valor que entende devido, a fim de que seja a quantia transferida diretamente para a conta corrente do próprio advogado, ora Requerente, e que seja o Ministério Público intimado para manifestar se possui interesse ou não, quanto a liberação do valor pleiteado.
+É o breve relatório.
+Decido.
+A Lei 14.365 de junho de 2022 inseriu o art. 24-A no Estatuto da Ordem dos Advogados, que possibilitou expressamente a liberação de até 20% dos bens bloqueados na hipótese de bloqueio universal do patrimônio do cliente por determinação judicial, com a finalidade exclusiva de viabilizar o pagamento de honorários advocatícios e o reembolso de gastos com a defesa, in verbis:
+"Art. 24-A. No caso de bloqueio universal do patrimônio do cliente por decisão judicial, garantir-se-á ao advogado a liberação de até 20% (vinte por cento) dos bens bloqueados para fins de recebimento de honorários e reembolso de gastos com a defesa, ressalvadas as causas relacionadas aos crimes previstos na Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), e observado o disposto no parágrafo único do art. 243 da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)".
+O pedido formulado no bojo deste writ, no entanto, não deve ser conhecido porquanto não fora nestes autos determinado qualquer bloqueio de bens do paciente, o que afasta a competência desta Corte para decidir acerca de eventual desbloqueio com a finalidade de possibilitar pagamento de honorários contratuais avençados entre o paciente e seu patrono.
+Ante o exposto, não conheço do pedido.
+P.I.
+EMENTA
