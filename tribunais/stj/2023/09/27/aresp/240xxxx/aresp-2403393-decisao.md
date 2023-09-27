@@ -1,0 +1,65 @@
+DECISÃO
+A controvérsia se encontra bem delimitada no parecer ministerial, in verbis (e-STJ fls. 808/810):
+Trata-se de agravo interposto por JONAS GOMES DA SILVA contra decisão que não admitiu o recurso especial ofertado pela defesa.
+Consoante se extrai dos autos, o agravante foi condenado como incurso no art.121, §2º, inciso IV, do Código Penal, à pena de 12 anos de reclusão, no regime inicial fechado.
+Inconformada, a defesa interpôs apelação, tendo a Terceira Câmara Criminal do Tribunal de Justiça do Estado de Goiás, por unanimidade de votos, negado provimento ao recurso, consoante acórdão que espelha a seguinte ementa (fl. 745):
+EMENTA: APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. CONFISSÃO ESPONTÂNEA. REDUÇÃO DA PENA A AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. 1. Inviável a redução da pena-base a aquém do mínimo legal (STJ, Súmula 231). 2. Apelação conhecida e desprovida.
+Sobreveio recurso especial, com fundamento no art. 105, inciso III, alínea "a", da CF, no qual a defesa alega violação aos arts. 59, 65 e 68 do CP. Requer o provimento do recurso especial para (fl. 725):
+a) corrigir a pena-base aplicada ao caso concreto, fixando-se no mínimo legal, frente à ausência de circunstâncias judiciais negativas;
+b) seja proclamado o oerruling do Enunciado nº 231 da Súmula deste colendo Superior Tribunal de Justiça, reformando, de conseguinte, o v. acórdão recorrido para aplicar a atenuante da confissão espontânea no presente caso, reduzindo-se a pena-base do recorrente na segunda fase da dosimetria penal na fração de 1/6 (um sexto), sendo fixada a pena definitiva em 10 anos.
+O recurso especial foi inadmitido na origem (fls. 779/780) por incidência do Enunciado da Súmula n. 83/STJ.
+Daí o presente agravo em recurso especial, em que a defesa afirma que "estender a incidência da Súmula nº 83 para negar seguimento a recursos interpostos com fulcro na letra "a", do permissivo constitucional, equivale dizer que os julgados deste STJ são vinculantes, porque ao se transpor a interpretação da súmula para também barrar recursos que aleguem violação de lei federal, basta que exista um julgado desta Corte aparentemente em conformidade com o acórdão, para que o recurso seja obstado" (fl. 791).
+É a síntese do necessário.
+Inadmitido o apelo extremo, os autos foram encaminhados a esta Corte em virtude do presente agravo (e-STJ fls. 736/743).
+Contrarrazões ao recurso especial às e-STJ fls. 770/774. Contraminuta ao agravo às e-STJ fls. 796/797.
+Opina o Ministério Público Federal pelo conhecimento do agravo para negar provimento ao recurso especial.
+É o relatório. Decido.
+De início, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+Por oportuno, consigno que a condenação se deu porque (e-STJ 746):
+Segundo a denúncia (mov. 8), no dia 12.08.2017, por volta de 21hs, na Rua SC-54, esquina com a Rua SC-57, no Bairro São Carlos, nesta Capital, o ora apelante efetuou vários disparos de arma de fogo em direção à vítima Carlos Henrique Rodrigues da Silva (15 anos de idade), atingindo-a na cabeça e causando-lhe a morte.
+Em aludida data, horário, local e utilizando-se da mesma arma de fogo, deu início ao homicídio da vítima Felipe Augusto de Jesus Silva (16 anos de idade), o qual não se consumou por circunstâncias alheias à sua vontade (mov. 8).
+Consequentemente, foi denunciado (mov. 8), pronunciado (mov. 165) e submetido ao Júri Popular, que acolheu em parte a denúncia, condenando-o como incurso nas sanções do art. 121, § 2º, inc. IV, do Código Penal, em relação à primeira vítima, e o absolveu pela tentativa de homicídio da segunda (mov. 233).
+Adstrito ao veredicto popular, o dirigente procedimental o sentenciou à pena de 12 (doze) anos de reclusão em regime inicial fechado (mov. 223).
+Em sua insurgência, a defesa alega que, "apesar de NENHUMA circunstância judicial ter sido negativada, a pena-base foi fixada acima do mínimo legal, o que se mostra flagrantemente absurdo. Além disso, não se aplicou a atenuante da confissão espontânea da maneira correta, tendo a Defensoria Pública interposto recurso de apelação pugnando pela diminuição da pena intermediária na fração de 1/6, conforme amplamente aceito pelos Tribunais" (e-STJ fl. 753).
+DA PENA-BASE
+Sobre a pena-base, assim se manifestou o acórdão impugnado:
+Na sentença (mov. 223), a pena-base foi fixada em 12 anos e 6 meses de reclusão, a despeito de não desvalorada nenhuma das circunstâncias judiciais (CP, art. 59). A intermediária retornou ao piso: 12 anos, porquanto atenuada em 6 meses pela confissão espontânea. A definitiva em 12 (doze) anos de reclusão, a ser cumprida em regime inicial fechado.
+Portanto, a dosimetria não merece reforma. Afinal, a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal (STJ, Súmula 231).
+Diante do excerto acima transcrito, vislumbra-se ilegalidade a ser corrigida na presente ocasião, conforme pretende a defesa.
+Isto, porque, se não foi negativada nenhuma das circunstâncias judiciais do art. 59 do Código Penal, a pena-base tem de ser reduzida ao seu mínimo legal.
+Desse modo, fixo a pena-base em 12 anos de reclusão.
+DA PENA INTERMEDIÁRIA
+No ponto, a defesa afirma que, diante do reconhecimento da confissão, a pena intermediária tem de ser reduzida à fração de 1/6, superando-se a Súmula n. 231/STJ. Assim, requer que a confissão realizada pelo recorrente seja aplicada integralmente para reduzir a reprimenda, na segunda fase da dosimetria, para aquém do mínimo legal, independentemente da aplicação da Súmula n. 231/STJ, que entende que deve ser superada.
+Todavia, em que pese a presença e reconhecimento da referida atenuante, a pena intermediária não pode ser alterada, permanecendo no mesmo patamar da basilar acima fixada, uma vez que a Súmula n. 231/STJ veda a redução da pena, na segunda fase da dosimetria, para aquém do mínimo legal.
+Sobre a questão, o acórdão recorrido não merece reparos, tendo em vista que está de acordo com a orientação firmada no Superior Tribunal de Justiça segundo a qual a incidência de circunstância atenuante, como a confissão, não pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231/STJ. Incide, neste particular, o óbice da Súmula n. 83/STJ.
+À propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLEITO DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL NA SEGUNDA FASE DA DOSIMETRIA. ATENUANTES DA MENORIDADE RELATIVA E DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. SÚMULA N. 231 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo o enunciado na Súmula n. 231 do STJ, "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". Entendimento confirmado pela Terceira Seção desta Corte com o julgamento do REsp n. 1.117.073/PR, Rel. Ministra Laurita Vaz, apreciado sob o rito do recurso especial repetitivo.
+2. Embora reconhecidas as atenuantes da menoridade relativa e da confissão espontânea, não há como as reprimendas serem reduzidas na segunda fase da dosimetria, em razão de as penas-base já haverem sido estabelecidas no mínimo legal.
+3. Agravo regimental não provido.
+(AgRg no REsp 188232/MS, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, j. 15/12/2020, DJE 18/12/2020.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. ATENUANTES. CONFISSÃO ESPONTÂNEA. MENORIDADE RELATIVA. ENUNCIADO N. 231. SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. BASE NO MÍNIMO LEGAL. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DA DROGA. REGIME. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.  ..
+2. Na segunda fase da dosimetria, a pena não pode ficar aquém do mínimo legal, conforme o entendimento consolidado no enunciado n. 231 da Súmula desta Corte Superior de Justiça, verbis: "a incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal". Assim, a despeito das atenuantes suscitadas pelo impetrante, não seria cabível a redução pena do paciente, na segunda fase, visto que a pena-base foi fixada no mínimo legal.  ..
+5. Habeas corpus não conhecido.
+(HC 507.331/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 6/8/2019, DJe 19/8/2019.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. REVISÃO CRIMINAL REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. CONDUTA SOCIAL. FUNDAMENTAÇÃO IDÔNEA. ATENUANTES. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. SÚMULA N. 231 DO STJ. AGRAVO PARCIALMENTE PROVIDO.
+1. "(..) embora seja possível rever a dosimetria da pena em revisão criminal, a utilização do pleito revisional é prática excepcional, somente justificada quando houver contrariedade ao texto expresso da lei ou à evidência dos autos" (AgRg no AREsp n. 734.052/MS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/12/2015, DJe 16/12/2015).
+2. Constando do acórdão proferido pelo Tribunal de origem que o agente capitaneava um "reinado de barbáries" e impunha uma "lei do silêncio", tem-se por idoneamente fundamentada a valoração negativa da conduta social, assim entendida como circunstância judicial que reflete o comportamento do agente em seu ambiente familiar e comunitário.
+3. Nos termos do enunciado 231 da Súmula de Jurisprudência deste Tribunal Superior, não é possível que a incidência de circunstâncias atenuantes conduzam a reprimenda a patamar abaixo do mínimo legal.
+4. Agravo regimental parcialmente provido.
+(AgR g no AREsp 1239294/PE, de minha Relatoria, SEXTA TURMA, julgado em 11/6/2019, DJe 21/6/2019.)
+É digno de nota que "a incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. DESCABIMENTO. SÚMULA N. 231 DO STJ. TESE DE OVERRULING. DESCABIMENTO. ARGUMENTAÇÃO DESCONEXA E SEM RAZOABILIDADE. REGIMENTAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PLEITO DE SOBRESTAMENTO DO JULGAMENTO DO FEITO EM RAZÃO DA REALIZAÇÃO DE AUDIÊNCIA PÚBLICA ACERCA DO TEMA TRATADO NOS AUTOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling).
+2. No regimental, não houve impugnação aos fundamentos da decisão agravada, incidindo, assim, a Súmula n. 182/STJ.
+3. Agravo regimental não conhecido. Indeferido o pleito de sobrestamento do julgamento deste feito em razão da ausência de previsão legal para tanto.
+(AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 65, III, "D", DO CÓDIGO PENAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 231/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A jurisprudência e a doutrina pátrias têm o entendimento que o Magistrado, na segunda fase de aplicação da pena, não pode aplicar redução abaixo do limite mínimo previsto para a terceira fase da dosimetria, qual seja, 1/6 (um sexto), a não ser que o faça fundamentadamente, indicando elementos concretos constantes dos autos, a justificar a necessidade de uma menor redução, respeitada sempre a vedação à diminuição da pena abaixo do mínimo legal, nos termos da Súmula n. 231 do STJ" (AgRg no HC n. 639.536/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/3/2023, DJe de 29/3/2023.).
+2. Noutro giro, de acordo com a jurisprudência firmada nesta Corte Superior, "o artigo 543-C do CPC, regulador do julgamento do recurso especial repetitivo, prevê o sobrestamento dos autos que tratam da matéria afetada como representativa da controvérsia somente em relação aos feitos da instância ordinária, não se aplicando aos apelos nobres que tramitam neste Superior Tribunal de Justiça" (AgRg no REsp 1.377.687/DF, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 23/6/2015, DJe 3/8/2015).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.249.146/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023).
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento, tão somente para reduzir a pena-base ao mínimo legal.
+Publique-se. Intimem-se.
+EMENTA
