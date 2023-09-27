@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto pela Fazenda do Estado de São Paulo contra decisão da Presidência da Seção de Direito Público do Tribunal de Justiça daquele Estado que, quanto à questão referente a responsabilidade subsidiária do sócio, negou seguimento ao recurso com base no art. 1.030, I, b, tendo em vista o entendimento proferido pelo STJ no REsp 1.101.728/SP -Tema 97; e, no mais, não admitiu o recurso ante os seguintes fundamentos: (I) os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido; e (II) incidência da Súmula 7/STJ.
+A parte agravante sustenta que "a apreciação da questão levada a exame do C. STJ não envolve reexame de matéria fático-probatória, não incidindo o óbice consubstanciado no enunciado da Súmula 07 deste C. Superior Tribunal de Justiça" (fl. 183).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, a parte agravante deixou de rebater, de modo específico, a apontada incidência da Súmula 7/STJ.
+Em relação ao referido óbice, conquanto a ora agravante tenha mencionado que "a apreciação da questão levada a exame do C. STJ não envolve reexame de matéria fático-probatória, não incidindo o óbice consubstanciado no enunciado da Súmula 07 deste C. Superior Tribunal de Justiça" (fl. 183), cingiu-se a defender a não ofensividade à referida súmula, à míngua de demonstrar a particularidade do caso dos autos suficiente para afastar o óbice apontado, deixando, portanto, de impugná-lo de forma específica.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
