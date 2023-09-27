@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto de acórdão assim ementado (fl. 1404, e-STJ):
+Processual civil. Torna dos autos, por decisão no C. Superior Tribunal de Justiça, para novo julgamento. Decisão determinante de análise, e julgamento, dos pontos indicados como não resolvidos no anterior julgamento da rescisória. Embargos de declaração. Busca de rescisão de julgamento condenatório de fixação de verba honorária em prol da Fazenda do Estado de São Paulo. Fixação entendida impertinente, por infração ao artigo 20, § 4º, do CPC/2015, vigente na época daquele julgamento. Alegada inversão dos ônus de sucumbência. Inocorrência. Julgamento extra petita. Inocorrência. Violação aos artigos 128, 460 e 515 do então vigente Código de Processo Civil. Inocorrência. Princípio da causalidade a que se dá vigência. Ação rescisória improcedente. Embargos rejeitados.
+Os Embargos de Declaração foram rejeitados (fl. 1432, e-STJ).
+Aponta a parte agravante, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1.022 do CPC; e, no mérito, dos arts. 85 e 505 do CPC/2015; 20, 128, 460, 515, 794, I, do CPC/1973; e 26 da Lei 6.830/1980, ao consignar que a inversão do ônus sucumbencial, quando do julgamento rescindendo, não representa um julgamento extra petita.
+Contrarrazões às fls. 1477-1480, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de setembro de 2023.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Colegiado a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Registre-se, portanto, que a Corte local examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. É inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de EDcl e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que os Declaratórios são acolhidos "para efeito de prequestionamento", não é satisfeita tal exigência. Isso porque, para que se tenha por atendido esse requisito, não basta que se dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+A fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NULIDADE DO TÍTULO EXECUTIVO. HONORÁRIOS. EXORBITANTES. MODIFICAÇÃO. POSSIBILIDADE. PRECLUSÃO. INEXISTÊNCIA.
+1. A jurisprudência do STJ reconhece que os honorários advocatícios são passíveis de modificação na instância especial, tão somente quando se mostrarem irrisórios ou exorbitantes, de modo a afastar o óbice da Súmula 7/STJ.
+2. Vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+3. "A remessa oficial devolve ao Tribunal o reexame de todas as parcelas da condenação suportadas pela Fazenda Pública, inclusive dos honorários de advogado" (Súmula 325 do STJ), o que afasta a alegação de preclusão ante a ausência de apelação por parte do ente público.
+Agravo regimental improvido.
+(AgRg no AREsp 20.294/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 04/10/2011, DJe 14/10/2011)
+Acrescente-se que o STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+Nesses casos, esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram o Tribunal de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias.
+Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implicaria, necessariamente, o reexame da matéria fático-probatória, o que é obstado nesta via ante a incidência da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial". Nessa linha:
+PROCESSUAL CIVIL. VERBA HONORÁRIA. ART. 20, § 4º, DO CPC. VALOR IRRISÓRIO. INOCORRÊNCIA. MAJORAÇÃO. SÚMULA 07/STJ.
+1. Nas causas em que for vencida a Fazenda Pública, os honorários advocatícios devem ser fixados de acordo com o artigo 20, § 4º, do Código de Processo Civil.
+2. A jurisprudência desta Corte adotou o entendimento de que os honorários advocatícios são passíveis de modificação na instância especial tão-somente quando se mostrarem irrisórios ou exorbitantes.
+3. Não sendo desarrazoada a verba honorária, sua majoração importa, necessariamente, no revolvimento dos aspectos fáticos do caso, o que é defeso no âmbito do apelo nobre, a teor da Súmula 07/STJ.
+4. Agravo regimental improvido.
+(AgRg no Ag 775.536/RS, Relator Ministro Castro Meira, DJ de 29/09/2006).
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas com relação à violação do art. 1.022 do CPC e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
