@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de petição interposta por ALYSSON JOSÉ AZEVEDO VITAL (e-STJ fls. 39/48- expediente avulso) alegando que ficou comprovado nos autos a ausência de intimação eletrônica da defesa, tendo sido efetuada somente a intimação eletrônica da acusação, considera-se concretizada a ciência da decisão no dia em que a parte realizar a consulta do ato processual objeto da ciência, sendo, portanto, tempestivo o presente agravo (e-STJ fls, 44). Apresenta o mérito recursal.
+Indefiro o pedido
+No acórdão colegiado ficou consignado que a decisão agravada foi disponibilizada no DJe/STJ, de 14/7/2023, e considerada publicada em 17/7/2023 (segunda-feira), tendo o prazo recursal de cinco dias iniciado em 1º/8/2023 (terça-feira), em razão do recesso forense, findando-se, portanto, em 5/8/2023 (sábado), prorrogado para 7/8/2023 (segunda-feira). Todavia, o recurso somente foi protocolizado em 15/8/2023, intempestivamente.
+Ademais, a prerrogativa de intimação pessoal é exclusiva da Defensoria Pública, nos termos do art. 5º, § 5º, da Lei n. 1.060/1950, não se estendendo ao advogado particular. Precedentes: AgRg no AREsp n. 2.299.484/RO, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023; AgRg no HC n. 677.137/PR, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 26/10/2021, DJe de 4/11/2021; e AgRg no REsp n. 1.669.965/MG, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 10/10/2017, DJe de 23/10/2017
+Assim, não há qualquer ilegalidade na intimação feita pela publicação do Diário de Justiça Eletrônico.
+Intimem-se.
+EMENTA
