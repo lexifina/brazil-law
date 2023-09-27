@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Wellington dos Santos Rodrigues, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação n. 0006776-90.2018.8.07.0009).
+Consta dos autos que o paciente foi condenado pela prática do delito de roubo circunstanciado à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e pagamento de 13 dias-multa.
+Interposta apelação pela defesa, o Tribunal a quo negou-lhe provimento.
+Narra o impetrante que o paciente apresentou revisional sob o n. 0733368-84.2023.8.07.0000 na qual encontra-se em fase de agravo regimental. A principal questão da revisional e do presente habeas corpus é simplesmente a condenação por roubo majorado em razão de prova inválida, ou seja, o reconhecimento fotográfico realizado 8 meses após o cometimento do ilícito (fl. 5). Afirma que a expedição da ordem de prisão justifica a impetração do writ.
+Alega que o paciente sofre evidente constrangimento ilegal, pois condenado por sentença, confirmada em grau recursal, que acolheu como único elemento a respaldar a condenação, a palavra da vítima, que se funda em reconhecimento feito completamente ao arrepio das normas legais de garantia enunciadas no art. 226 do CPP, as quais estabelecem os requisitos de validade do reconhecimetno de pessoas (fl. 6).
+Requer o impetrante, em suma, o provimento desta impetração, com fulcro no art. 5º, LXVIII, da Constituição Federal, para que seja anulado o acórdão condenatório, para que outro julgamento se realize pelo Colegiado, em sede de apelação defensiva, no amplo efeito devolutivo desta, com a desconsideração dos reconhecimentos ilegais realizados, cuja nulidade se requer, neste writ, seja declarada (fl. 17).
+É o relatório.
+O writ é manifestamente inadmissível.
+Primeiro, porque a questão ora suscitada foi objeto do HC 842.013/DF, impetrado em benefício do mesmo réu, contra o mesmo acórdão (Apelação n. 0006776-90.2018.8.07.0009) e com a mesma causa de pedir, configurando indesejável reiteração de pedidos.
+Oportuno ressaltar que, na oportunidade, asseverou-se que, transitada em julgado a condenação, o habeas corpus é sucedâneo de revisão criminal e, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte para o processamento do presente pedido. Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+Como fundamento subsidiário, acrescentou-se que, não havia ilegalidade flagrante apta a justificar a concessão da ordem de ofício, considerando-se que a alegada violação do art. 226 do CPP não foi apreciada pela Corte de origem, o que obsta a análise do tema diretamente por esta Corte, sob pena de indevida supressão de instância.
+Por fim, devo acrescentar que, conforme informou o impetrante, a defesa ajuizou, no Tribunal de origem, pleito revisional. Assim, deve-se aguardar o seu desfecho, seja por ser o caminho processual cabível, seja porque a jurisprudência desta Corte Superior não admite a utilização concomitante de dois meios de impugnação com idêntica pretensão. Nesse sentido: HC n. 482.549/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 3/4/2020.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ALEGAÇÃO DE NULIDADE DO RECONHECIMENTO REALIZADO POR FOTOGRAFIA. VIOLAÇÃO DO ART. 226 DO CPP. WRIT COM FUNDAMENTO IDÊNTICO AO HC N. 842.013/DF. REITERAÇÃO DE PEDIDOS. IMPOSSIBILIDADE.
+Writ não conhecido
