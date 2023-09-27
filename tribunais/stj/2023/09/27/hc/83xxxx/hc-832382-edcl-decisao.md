@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DIEGO MIRANDA DOS SANTOS de decisão na qual indeferi o pedido de extensão.
+A defesa afirma que o julgado padece de omissão, argumentando, em suma, que logrou demonstrar "o idêntico contexto fático-processual entre as ações penais nº 5047811-90.2022.8.13.0702e 5047837-88.2022.8.13.0702, qual seja a mesma origem através da ação cautelar nº 0015730-76.2022.8.13.0702, bem como a AUSÊNCIA de Laudo Preliminar e Definitivo de Droga ou qualquer auto de apreensão de substâncias ilícitas" (e-STJ, fl. 662).
+Requer, assim, o acolhimento dos aclaratórios, com efeitos infringentes, a fim de que se estenda a decisão de trancamento da ação penal, quanto ao crime previsto no art. 33, caput, da Lei11.343/2006, em favor do embargante, com base no artigo 580 do CPP.
+É o breve relato.
+Decido.
+O recurso não comporta acolhimento.
+A teor do art. 619 do Código de Processo Penal, os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619
+do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+No caso, a decisão embargada declinou, claramente, as razões que levaram ao indeferimento do pedido de extensão, nos seguintes termos:
+"Ao apreciar o presente habeas corpus, apliquei a orientação firmada pela Terceira Seção desta Corte, no âmbito do HC 686.312/MS, Rel. p/o acórdão Min. Rogerio Schietti Cruz, segundo a qual, sem a apreensão de entorpecentes, o crime de tráfico não se configura, por ausência de prova da materialidade.
+Assim, da análise do contexto fático-probatório delineado pelas instâncias ordinárias, verifiquei que o entendimento declinado pela Corte de origem estava em dissonância com a atual orientação deste Superior Tribunal de Justiça, razão por que concedi a ordem, de ofício, "para reconhecer a ausência de justa causa para a persecução criminal em relação ao crime de tráfico de drogas e, por conseguinte, determinar o trancamento parcial do processo 5047837-88.2022.8.13.0702 quanto ao crime do art. 33, caput, da Lei n. 11.343/2006."
+Ocorre que, no caso, não fica evidenciada a similitude fático-jurídica necessária à aplicação do disposto no art. 580 do CPP, pois o requerente não é corréu em relação ao paciente na mesma ação penal, figurando como acusado em processo distinto, que tramita Juízo da 4ª Vara Criminal da Comarca de Uberlândia/MG sob o nº 5047811-90.2022.8.13.0702.
+Portanto, ainda que haja similaridade das teses levantadas neste requerimento e naquele writ, não há que se falar em extensão dos efeitos da decisão com fundamento no dispositivo legal acima referido.
+No mesmo sentido, cito:
+"PROCESSUAL PENAL. HABEAS CORPUS. PEDIDO DE EXTENSÃO. PRESSUPOSTOS NÃO PREENCHIDOS. REQUERENTES QUE SÃO RÉUS EM AÇÃO PENAL DIVERSA.1. O art. 580 do Código de Processo Penal estabelece que, no caso de concurso de agentes (Código Penal, art. 25) a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.2. Os requerentes não são corréus em relação à paciente, mas figuram como acusados no processo cujo desmembramento deu origem à ação penal anulada no presente habeas corpus. Assim, a extensão dos efeitos da anulação deferida nesses autos não surtiria nenhum efeito em relação ao processo em que são réus.3. A pretensão formulada não é que lhes seja estendida a ordem, nos termos permitidos no artigo citado, mas sim que, a partir do mesmo fundamento utilizado para a concessão do writ, seja-lhes deferido pedido de natureza diversa (anulação de outra ação penal e exclusão, de seu bojo, de elementos probatórios).4. Pedido de extensão indeferido."(PExtDe no HC n. 162.970/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/10/2012, DJe de 16/11/2012.)
+Ante o exposto, indefiro o pedido."
+Os argumentos da parte embargante demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão não cabível na estreita via dos aclaratórios.
+Logo, na falta de vício algum que justifique a integração da decisão, não há como acolher os embargos de declaração .
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
