@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA AJUIZADA PELO SINDICATO NACIONAL DOS TÉCNICOS DA RECEITA FEDERAL - SINDTTEN. SUBSTITUÍDOS. LEGITIMIDADE ATIVA. LIMITAÇÃO. OBSERVÂNCIA DA COISA JULGADA.
+1. O STF, ao julgar o RE 883642, em repercussão geral, fixou a tese de que "os sindicatos possuem ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos" (Tema 823).
+2. No entanto, apesar da ampla legitimidade dos sindicatos, deve sempre ser repeitada a coisa julgada, nos casos em que houver previsão expressa no título executivo limitando a concessão do benefício pleiteado aos substituídos na ação de conhecimento.
+3. No caso concreto, diante da formação da coisa julgada que estabeleceu que as diferenças são devidas apenas aos substituídos arrolados com a inicial da ação coletiva, resta inaplicável a orientação estabelecida pelo Tema 823/STF.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 337, 502, 508 e 1.022 do Código de Processo Civil. Sustenta:
+Não obstante o entendimento da guerreada decisão - que extingue a execução -, indeclinável a improcedência das PRETENSÕES AGITADAS NO PRESENTE AGRAVO DE INSTRUMENTO, especialmente, porque em centenas de feitos idênticos a DECISÃO DA CORTE SUPERIOR FOI OBSERVADA e, em função dos caros princípios constitucionais DA SEGURANÇA JURÍDICA E DA ISONOMIA entre os servidores beneficiados da ação coletiva, para manter o entendimento centenas de vezes adotado, inclusive na Corte Regional, para reconhecer a legitimidade da servidora.
+E X C E L Ê N C I A S, diante do fato concreto de que a sentença da ação ordinária foi anulada pelo TRF-1, cuja decisão favorável à União-devedora foi SUBSTITUÍDA PEL A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, na forma do artigo 1.008 do Código de Processo Civil, não há falar-se na ALEGADA ILEGITIMIDADE ATIVA da parte exequente, primordialmente, porque a Egrégia Corte Superior dignou-se a estabelecer, de forma expressa e definitiva, a abrangência do julgado.
+Contrarrazões às fls. 421-428 , e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.7.2023.
+Merece prosperar a irresignação.
+O Tribunal de origem consignou:
+No caso concreto, o nome da exequente MARGARIDA FERREIRA DE MATOS não consta na relação dos filiados ativos, substituídos pelo SINDTTEN, juntada com a inicial na ação coletiva, conforme se verifica do documento juntado no evento 1, OUT2.
+Sobre o título executivo formado nos autos da ação coletiva n. 2001.34.00.002765-2 (0002767-94.2001.401.3400), que tramitou na 13ªVara Federal de Brasília/DF, verifico que na sentença proferida constou expressamente a condenação da União ao pagamento das diferenças pleiteadas aos substituídos arrolados nos documentos juntados com a petição inicial, conforme excerto abaixo transcrito:
+Pelo exposto, JULGO PROCEDENTE o pedido, com fulcro no art. 269, I, do CPC, para, afastando a aplicação das Resoluções CRAV nºs 01 e 02, DECLARAR o direito dos substituídos do Sindicato-autor de perceber a RAV até o limite máximo estabelecido na Medida Provisória nº 831/95 (convertida na Lei nº 9624/98) e CONDENAR a UNIÃO a pagar aos filiados relacionados às fls. 89/304 as diferenças vencidas, referentes ao período de janeiro/96 a junho/99, a serem apuradas em liquidação por artigos, atualizadas monetariamente pela UFIR/IPCAE e acrescidas de juros moratórios, na taxa de 1% (um por cento) ao mês, a partir da citação. (grifei)
+Em apelação, foi indeferida a preliminar de ilegitimidade do sindicato e indeferido o pedido de exigência de autorizações específicas e individuais para ajuizamento da lide e, no mérito, foi dado provimento ao recurso da União.
+Na sequência, foram interpostos recursos pela parte exequente, nos quais não foi abordado o ponto referente à limitação imposta na sentença, ou seja, em nenhum momento o sindicato autor buscou alterar ou ampliar o rol de substituídos. Dessa forma, a questão transitou em julgado, permanecendo válida, portanto, a limitação subjetiva.
+Assim, diante da formação da coisa julgada que estabeleceu que as diferenças são devidas apenas aos substituídos arrolados com a inicial da ação coletiva, resta inaplicável a orientação estabelecida pelo Tema 823/STF.
+(..)
+Em Embargos de Declaração, a recorrente requereu a manifestação acerca do argumento de que a sentença referida no acórdão embargado foi anulada, e que o entendimento que transitou em julgado seria o proferido em Recurso Especial pelo STJ, que determinou "que os efeitos da decisão proferida nestes autos, em ação coletiva, ABRANJA TODOS OS SUBSTITUÍDOS domiciliados no TERRITÓRIO NACIONAL":
+E X C E L Ê N C I A S, não obstante o insistente argumento adotado no acórdão recorrido, também nessa quadra a decisão ignora, menospreza e se distancia do fato concreto, P O R Q U E, a SENTENÇA DA AÇÃO ORDINÁRIA DE CONHECIMENTO FOI ANULADA pelo TRF/1ª/Região e a decisão que transitou em julgado é a proferida pelo Superior Tribunal de Justiça, uma coisa de clareza solar que torna cada dia mais difícil entender o "suposto entendimento" que visa claramente dizimar o cristalino direito dos servidores. ISSO É UM FATO, NÃO O MERO INTERESSE OU O ENTENDIMENTO DOS SERVIDORES -- A CORTE SUPEIROR RECONHECEU O DIREITO E ESTABELECEU DE FORMA EXPRESSA A ABRANGÊNCIA DA DECISÃO PROFERIDA. INTERPRETAR DIFERENTE SIGNIFICA BURLAR A DECISÃO.
+(..)
+Salvo mais isento juízo, as alegações utilizadas no voto da Nobre Relatora não se sustentam, porque destacam a validade permanente da SENTENÇA ANULADA PELO TRIBUNAL -- "sentença proferida constou expressamente a condenação da União ao pagamento das diferenças pleiteadas aos substituídos arrolados nos documentos juntados com a petição inicial" -- insistência sem fundamento e preocupante, porque ignora grosseiramente o caso concreto dos autos para confiscar o direito.
+O famigerado voto ainda registra a alegação de que -- foram interpostos recursos pela parte exequente, nos quais não foi abordado o ponto referente à limitação imposta na sentença, ou seja, em nenhum momento o sindicato autor buscou alterar ou ampliar o rol de substituídos -- o que compromete ainda mais esse esdrúxulo entendimento que nega o fato concreto para sustentar uma tese prejudicial ao processo e ao direito dos exequentes, com a evidente pretensão de desconsiderar a anulação da sentença.
+I N S I S T E - S E, que os pedidos do Sindicato na ação coletiva foram acolhidos por sentença da 13ª Vara do DF mas o TRF-1 deu provimento à apelação da União, para ANULAR A SENTENÇA.
+O Sindicato ajuizou Recurso Especial fundado no permissivo do art. 105, III, alíneas a e c, da Constituição Federal, apontando violação ao art. 8º da MP nº 831/95 e divergência jurisprudencial notória e qualificada, mas o TRF-1 negou seguimento ao REsp.
+O Sindicato entrou com o Agravo de Instrumento 1.424.442/DF, que foi desprovido pelo Ministro BENEDITO GONÇALVES (Relator) que, mediante Agravo, REEXAMINOU A MATÉRIA, exercendo o nobre JUÍZO DE RETRATAÇÃO, conforme decisão dos autos.
+Em sede de AGRAVO REGIMENTAL, a Primeira Turma da Corte Superior de Justiça estabeleceu - de forma expressa e definitiva - a abrangência da decisão proferido pelo Senhor Ministro BENEDITO GONÇALVES, nos seguintes termos:
+Agravo regimental do Sindicato provido para determinar que os efeitos da decisão proferida nestes autos, em ação coletiva, ABRANJA TODOS OS SUBSTITUÍDOS domiciliados no TERRITÓRIO NACIONAL.
+Agravo regimental da União não provido.
+Rejeitados os embargos declaratórios agitados perante a Primeira Turma da Corte Superior - que confirmou a douta decisão do Ministro BENEDITO GONÇALVES -, a União entrou com o RE nº 862.020/DF mas o Ministro DIAS TOFFOLI (relator) negou seguimento ao recurso da União, o que foi mantido pela Segunda Turma, verbis:
+Agravo regimental no recurso extraordinário.
+Processual civil. Prequestionamento. Ausência.
+Ação coletiva. Limites territoriais da eficácia da decisão. Legislação infraconstitucional. Ofensa reflexa. Reexame. Impossibilidade. Violação do princípio da reserva de plenário. Inexistência.
+Precedentes.
+1. Inadmissível o recurso extraordinário se o dispositivo constitucional que nele se alega violado não está devidamente prequestionado.
+Incidência das Súmulas nºs 282 e 356/STF.
+2. A questão sobre a limitação territorial da eficácia da decisão proferida em ação coletiva proposta por sindicato restringe-se ao âmbito infraconstitucional.
+3. Agravo regimental não provido.
+Conforme expresso na anexa Certidão Narrativa, o acórdão transitou em julgado em 20/06/2016 e decorreu o prazo decadencial, SEM QUE A UNIÃO PROMOVESSE AÇÃO RESCISÓRIA, restando consolidada a coisa julgada na hipótese, no sentido de que os efeitos da decisão proferida na ação coletiva ABRANGEM TODOS OS REPRESENTADOS DOMICILIADOS NO TERRITÓRIO NACIONAL, independentemente da própria filiação ou de eventual lista de filiados, com amparo na explícita garantia constitucional.
+Acrescentou:
+Data máxima vênia, basta compulsar os autos de execução para verificar que a decisão do STJ NÃO RESTAUROU A DECISÃO ANULADA PELA CORTE REGIONAL, porque cuidou de reconhecer o direito negado (TRF-1) e estabelecer de forma expressa a abrangência da decisão proferida pela Corte Superior, rechaçando alegação de que a decisão deveria ser limitada aos FILIADOS RELACIONADOS pelo Sindicato ou residentes na sede do Juízo, conforme referida CERTIDÃO NARRATIVA DO JUÍZO DA AÇÃO COLETIVA em que se formou o título, que afasta qualquer dúvida sobre a EXTENSÃO DO TÍTULO EXECUTIVO, QUE FAVORECE A TODOS OS SUBSTITUÍDOS DOMICILIADOS NO TERRITÓRIO NACIONAL, verbis:
+CERTIDÃO NARRATIVA Nº. 087/2018, DA SEÇÃO JUDICIÁRIA DISTRITO FEDERAL ( . . . ) .
+4. Agravo Regimental do Sindicato provido para determinar que os efeitos da decisão proferida nestes autos, em ação coletiva, abranja TODOS OS SUBSTITUÍDOS DOMICILIADOS NO TERRITÓRIO NACIONAL.
+Agravo da União não provido.
+( . . . ) .
+ALINE FARIA DE LIMA ARANTES MORAES
+Diretora de Secretaria da 13ª Vara/DF
+A Corte a quo, contudo, ao julgar os Aclaratórios, manteve-se silente quanto à questão.
+De fato, houve omissão no tocante à análise da aplicação do ponto, que configura matéria relevante para o deslinde da controvérsia. Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO. INVESTIGAÇÃO GENÉRICA. DESPROPORCIONALIDADE DA MULTA APLICADA. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. APELAÇÃO NÃO CONHECIDA. FALTA DE RATIFICAÇÃO. EXTEMPORANEIDADE. AUSÊNCIA DE MODIFICAÇÃO DO CAPÍTULO IMPUGNADO DA SENTENÇA. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA FÁTICA. RECURSO ESPECIAL PROVIDO. PRECEDENTES.
+(..)
+IV - Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou questão jurídica relevante, a fim de esclarecer se, in casu, o julgamento dos embargos modificou a sentença monocrática, induzindo à prejudicialidade do apelo apresentado anteriormente - ou seja, se o recurso interposto possui como objeto os honorários advocatícios, única parcela alterada da sentença.
+V - Diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com a devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos, na medida em que, apesar do disposto no art. 1.025 do CPC/2015, tratando-se de matéria fático-probatória, incabível a apreciação desta por este Superior Tribunal de Justiça, ante o óbice sumular n. 7/STJ.
+(..)
+VI - Agravo conhecido para dar provimento ao Recurso Especial e anular o acórdão que julgou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem para que se manifeste especificamente sobre as questões articuladas nos declaratórios e, se o caso for, aprecie de logo a apelação interposta.
+(AREsp 1465390/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/02/2021, DJe 02/03/2021)
+Diante do exposto, dou provimento ao Recurso Especial, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, a fim de que se manifeste especificamente acerca do argumento de que a sentença referida no acórdão embargado foi anulada, e que o entendimento que transitou em julgado seria o proferido em Recurso Especial pelo STJ, que determinou "que os efeitos da decisão proferida nestes autos, em ação coletiva, ABRANJA TODOS OS SUBSTITUÍDOS domiciliados no TERRITÓRIO NACIONAL"  .
+Publique-se.
+Intimem-se.
+EMENTA
