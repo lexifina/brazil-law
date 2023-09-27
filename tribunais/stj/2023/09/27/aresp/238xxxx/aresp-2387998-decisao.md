@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão assim ementado (fl. 300, e-STJ):
+RECURSO DE APELAÇÃO Servidor Público Municipal de Bastos/SP Auxiliar de Supervisor da Divisão de Fiscalização Uso de motocicleta no exercício da função pública Pretensão de recebimento de Adicional de Periculosidade de 30% (trinta por cento) Sentença de improcedência Irresignação Cabimento - Lei Municipal nº 870/1990, que instituiu o Estatuto Único dos Servidores Públicos Municipais de Bastos, que prevê o pagamento de adicional de periculosidade e a aplicação das normas da Consolidação das Leis do Trabalho - CLT para o tema Inteligência do artigo 193, §4º, da CLT Previsão de serem consideradas perigosas as atividades de trabalhador de motocicleta Norma Regulamentadora - NR 16, do Ministério do Trabalho e Emprego - Anexo 15 Prova pericial que concluiu que o ambiente de trabalho do autor tem caráter periculoso Motocicleta disponibilizada pela municipalidade para o desempenho das funções Uso que não se dá de forma eventual, nem habitual por tempo reduzido Precedentes dessa Corte Paulista - Termo inicial do pagam ento do adicional que deve se dar desde o início da atividade perigosa, e não a partir do laudo, uma vez que este tem natureza declaratória, e não constitutiva do direito do autor, considerada a prescrição quinquenal - Sentença reformada - Recurso provido.
+Os Embargos de Declaração foram rejeitados (fls. 315-318, e-STJ).
+A parte recorrente alega que houve violação dos arts. 927, III, do Código de Processo Civil de 2015; 192 e 195 da Consolidação das Leis do Trabalho; e 6º do Decreto Federal 97.458/1989, além de divergência jurisprudencial. Em síntese, afirma que "não se pode emprestar efeitos retroativos ao laudo pericial que atestou as supostas situações periculosas/insalubres, consoante assentado no julgamento do PUIL n.º 413/RS" (fl. 345, e-STJ).
+Contrarrazões apresentadas às fls. 377-380, e-STJ.
+Contraminuta às fls. 394-396, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.9.2023.
+Ao dirimir a controvérsia, o Tribunal de Justiça do Estado de São Paulo consignou (fl. 305, e-STJ, grifo acrescido):
+O termo inicial do pagamento do adicional deve mesmo se dar desde o início da atividade perigosa, e não a partir do laudo, uma vez que este tem natureza declaratória, e não constitutiva do direito do autor, considerada a prescrição quinquenal, corrigindo-se monetariamente pelo IPCA-E, conforme tese firmada pelo STF no julgamento do RE 870947/SE, atrelado à Repercussão Geral nº 810, desde as datas dos respectivos vencimentos, incidindo juros de mora na forma da Lei 11.909/09, desde a citação. Nesse sentido, observa-se que o entendimento fixado no PUIL 413/RS, que não possui efeito vinculante, não se aplica ao caso presente.
+A Primeira Seção do STJ decidiu, no julgamento do PUIL 413/RS (Rel. Min. Bendito Gonçalves, DJe de 18.4.2018), que o pagamento de adicional de insalubridade ou periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres ou perigosas a que estão submetidos os servidores, de modo que não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual.
+Ainda, segundo esta Corte, aplica-se o referido entendimento também aos casos que envolvem servidores públicos municipais, se não apontado qualquer elemento diferenciador da legislação local em relação à federal. Nesse sentido: AgInt nos EDcl no PUIL n. 1.954/SC, relator Ministro Herman Benjamin, Primeira Seção, DJe de 1/7/2021.
+Como o presente caso não se amolda à ressalva acima, dessume-se que o aresto combatido está em descompasso com o entendimento firmado no âmbito do STJ, devendo ser reformado.
+Diante do exposto, conheço do Agravo para dar provimento ao Recurso Especial.
+Inverto os ônus sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
