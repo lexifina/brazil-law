@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/SP, assim ementado (fl. 240):
+COBRANÇA - Pretensão a declaração de inexigibilidade- Dívida que, embora prescrita, não é objeto de cobrança abusiva Registro em portais ditos "meu serasa" ou "limpa nome" de banco de dados de proteção ao crédito Acesso permitido apenas ao devedor e aos credores, sem feitio de desabono Inviabilidade do reconhecimento de sua inexistência A prescrição não atinge o direito subjetivo do credor - Inadmissibilidade de cobrança apenas pela via judicial, não por outros meios lícitos e sob observância do art. 42 do CDC - Sentença de improcedência da ação mantida Apelação improvida.
+Embargos de declaração rejeitados.
+Em suas razões de recurso especial, sustenta ofensa aos artigos 206, §5º, inciso I do Código Civil e 43, § 1º e 84 da Lei n. 8.078/1990 e dissídio jurisprudencial, sob o argumento de que é indevida a cobrança extrajudicial de dívida prescrita e manutenção da inscrição da dívida na plataforma Serasa Limpa Nome.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 340-341.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que diz respeito à alegação de ofensa aos artigos 206, §5º, inciso I do Código Civil e 43, § 1º e 84 da Lei n. 8.078/1990, o acórdão recorrido consignou o seguinte (fl. 241):
+Prescrição não é forma de extinção de obrigação de pagamento, se não apenas de óbice a que seja judicialmente cobrada, isto é, nada impede que o seja pela via extrajudicial, desde que sob obediência ao disposto no art. 42 do CDC no que se refere à abordagem do devedor, porque o direito subjetivo do credor remanesce.
+Isto porque "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo." (STJ-REsp 1.694.322-SP, j. em 07.11.2017, Rel. Min. NANCY ANDRIGHI).
+A cobrança pela forma antes mencionada é lícita, demais disso, com base na teoria de que ninguém pode enriquecer-se indevidamente em detrimento de outrem.
+Ocorre que o recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Além do mais, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
