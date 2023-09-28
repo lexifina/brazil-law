@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA HELENA CARREIRA ALVIM RIBEIRO com fundamento no art. 105, III, da Constituição Federal.
+Na origem, a parte autora ajuizou ação ordinária com valor da causa atribuído em R$ 68.075,30 (sessenta e oito mil, setenta e cinco reais e trinta centavos), objetivando o pagamento do valor relativo a 5 (cinco) meses de licença-prêmio não gozados.
+Após sentença que julgou procedente o pedido, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS deu provimento à apelação do ente público e julgou prejudicada a remessa necessária, ficando consignado que o termo inicial da prescrição sobre a pretensão indenizatória se estabelece no ato ou fato a partir do qual fica obstado o gozo das férias-prêmio adquiridas, que se verifica na hipótese com o rompimento do vínculo funcional da parte autora com o Estado de Minas Gerais mediante sua exoneração em 1993.
+O referido acórdão foi assim ementado, in verbis:
+EMENTA: APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - AÇÃO ORDINÁRIA - SERVIDOR PÚBLICO ESTADUAL - FÉRIAS-PRÊMIO NÃO GOZADAS ATÉ O ROMPIMENTO DO VÍNCULO FUNCIONAL - CONVERSÃO EM PECÚNIA - PRECEDENTE VINCULANTE ARE Nº 721.001 DO STF - TERMO INICIAL DO PRAZO PRESCRICIONAL - EXONERAÇÃO JUNTO AO ESTADO DE MINAS GERAIS - VÍNCULO SUBSEQUENTE EM SERVIÇO PÚBLICO FEDERAL E APOSENTADORIA - IRRELEVÂNCIA SOBRE DIREITO EM FACE DO ENTE ESTATAL - PRESCRIÇÃO DE FUNDO DE DIREITO - OCORRÊNCIA.
+O Supremo Tribunal Federal no ARE n.º 721.001 RG/RJ, em sede de repercussão geral, decidiu que é devida a conversão de férias prêmio não gozadas em indenização pecuniária por aqueles que não mais podem delas usufruir, em razão do rompimento do vínculo com a Administração, sob pena de enriquecimento indevido da Administração Pública.
+As ações pessoais contra a Fazenda Pública, seja qual for a sua natureza, prescrevem em cinco anos, nos termos do art. 1º do Decreto nº 20.910/32.
+A jurisprudência firmada pelo Superior Tribunal de Justiça "orienta-se no sentido de que o direito de conversão em pecúnia de licença prêmio surge com o rompimento do vínculo jurídico que gerou tal direito, seja em razão da aposentadoria ou da exoneração do servidor." (AgInt no REsp n. 1.555.466/SP, julgado em 24/5/2021, DJe de 27/5/2021.)
+O termo inicial da prescrição sobre a pretensão indenizatória se estabelece no ato ou fato a partir do qual fica obstado o gozo das férias-prêmio adquiridas, que se verifica na hipótese com o rompimento do vínculo funcional da parte autora com o Estado de Minas Gerais mediante sua exoneração em 1993.
+Não demostrada a ocorrência de causa interruptiva ou suspensiva da prescrição hábil a obstar o decurso do prazo prescricional, impositivo o reconhecimento do respectivo perecimento do direito.
+Não foram opostos embargos de declaração.
+Foi interposto o presente recurso especial, em que se aponta violação do art. 1º do Decreto n. 20.910/1932, bem como divergência com o entendimento firmado no Tema n. 516/STJ.
+Sustenta, em síntese, que a prescrição do direito de pleitear indenização referente a férias-prêmio não gozada somente tem início com o ato de aposentadoria.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Este Superior Tribunal de Justiça orienta-se no sentido de que o direito de conversão em pecúnia de licença prêmio surge com o rompimento do vínculo jurídico que gerou tal direito, seja em razão da aposentadoria ou da exoneração do servidor.
+Confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRESCRIÇÃO. TERMO INICIAL. APLICAÇÃO DA TEORIA DA ACTIO NATA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - Este Superior Tribunal de Justiça orienta-se no sentido de que o direito de conversão em pecúnia de licença prêmio surge com o rompimento do vínculo jurídico que gerou tal direito, seja em razão da aposentadoria ou da exoneração do servidor.
+III - Contudo, no caso dos autos, o acórdão recorrido consigna que o TRT da 2a., em 14.9.1998, já havia assegurado o direito à averbação e fruição das licenças-prêmio anteriormente adquiridas pelo autor.
+Somente em 18.8.2005 o mesmo tribunal indeferiu o pleito gozo do período de licença já averbado.
+V - O termo inicial da prescrição surge com o nascimento da pretensão (teoria da actio nata), assim considerada a data a partir da qual a ação poderia ter sido proposta.
+VI - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 1.555.466/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 24/5/2021, DJe de 27/5/2021.)
+Necessário destacar que tal entendimento não confronta com aquele firmado na ocasião do julgamento do Tema n. 516/STJ, uma vez que em ambas as hipóteses, se considerou que o termo inicial da prescrição surge com o nascimento da pretensão (teoria da actio nata), assim considerada a data a partir da qual a ação poderia ter sido proposta.
+Noutro giro, a Recorrente alega que, embora tenha havido mudança do Ente ao qual estava vinculada, não houve qualquer interrupção do vínculo com a Administração Pública até o requerimento da aposentadoria. Afirma, ainda, que o art. 31 da Constituição Estadual ao conferir o direito pleiteado não o restringe à apenas o servidor vinculado ao Estado de Minas Gerais.
+Ocorre que os aludidos pontos não foram debatidos pelo TJMG, nem foram opostos embargos declaratórios para tanto, de modo que falta o requisito do prequestionamento, necessário para viabilizar seu debate nessa seara especial.
+Assim, tendo a Corte a quo concluído que houve a interrupção do vínculo da Recorrente com a Administração Pública, não é possível rever tal conclusão, uma vez que seria necessário o revolvimento do contexto fático-probatório dos autos, providência vedada em recurso especial, nos termos do disposto no enunciado n. 7 da Súmula do STJ.
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada pelo Tribunal de origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
+ EMENTA
