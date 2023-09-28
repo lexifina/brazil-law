@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 83/STJ.
+Sustenta o agravante que não incide o referido óbice, pois o tema relativo à aplicabilidade da Súmula 231/STJ não há está consolidado na jurisprudência do Superior Tribunal de Justiça, tanto que afetado à Terceira Seção do STJ.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Consta dos autos que o recorrente foi condenado pela prática do delito previsto no artigo 334, §1º, inciso IV, do Código Penal, às penas de 1 (um) ano de reclusão, em regime inicial aberto, substituída por uma restritiva de direitos, consistente em prestação de serviços à comunidade ou a entidades públicas.
+Interposto recurso de apelação, foi o apelo desprovido.
+Nas razões do especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, alega a defesa violação do art. 65, III, d, do Código Penal, sob o argumento de que "ao deixar de fazer incidir, na dosimetria da pena, a atenuante genérica da confissão. Como será demonstrado, a decisão confrontada afastou o comando normativo da citada norma." (fl. 463).
+Assevera que "ao negar a possibilidade de aplicação da pena abaixo do mínimo legal ao sentenciado se aceitará a interpretação restritiva em desfavor do réu, o que não pode ser admitido" (fl. 468).
+Requer o provimento do recurso para, com o reconhecimento da atenuante de confissão na segunda fase da dosimetria da pena, afastar a aplicação da Súmula 231 do STJ e, de consequência, diminuir a pena definitiva imposta.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do recurso especial.
+Quanto ao tema, verifica-se do acórdão impugnado (fl. 448):
+A defesa pugnou pela redução da pena do réu abaixo do mínimo legal, que "seja afastada a incidência da Súmula 231/STJ, por manifesta ilegalidade (ofensa aos artigos 65 e 68 do CP) e por inconstitucionalidade frente às novas diretrizes instituídas pela Constituição Federal de 1988, especialmente por violação aos princípios da culpabilidade, da proporcionalidade e da individualização da pena".
+A propósito, conforme a jurisprudência deste Tribunal, "Não há inconstitucionalidade ou ilegalidade no enunciado da súmula nº 231 do STJ"(ACR nº 5009922-15.2016.404.7002, 8ª T., Relator Desembargador Federal JOÃO PEDRO GEBRAN NETO, por unanimidade, j. 25-08-2017). Tal entendimento foi reafirmado pelo STF, em sede de Repercussão Geral, nos autos do RE nº 597.270/RS, em que a questão foi discutida à luz dos princípios constitucionais da reserva legal, da proporcionalidade e da individualização da pena:
+ ..
+O entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte. Ressalte-se que "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023)" .(AgRg no AREsp n. 2.233.466/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023.). Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. FURTOS QUALIFICADOS EM CONTINUIDADE DELITIVA. RÉU JOÃO FILIPI. REINCIDÊNCIA. DIREITO AO ESQUECIMENTO. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO. RÉU VINÍCIUS. REDUÇÃO DA PENA, NA SEGUNDA FASE DA DOSIMETRIA, PARA AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL AO QUAL SE CONCEDE PARCIAL CONHECIMENTO E, NESSA EXTENSÃO, NEGA-SE PROVIMENTO.
+ ..
+2. No que toca ao agravante Vinícius, não há que se falar que o reconhecimento da atenuante da confissão possa reduzir a pena, na segunda fase da dosimetria, para patamar aquém do mínimo legal. No ponto, ressalva-se que a Súmula n. 231/STJ possui plena validade, pois "temos posicionamento mais do que pacificado nesta Corte Superior sobre a impossibilidade de, ao se reconhecer causas atenuantes na segunda-fase do cálculo dosimétrico, aferir-se a pena-base abaixo do mínimo legal nos termos da súmula 231/STJ" (AgRg nos EDcl no AREsp n. 2.083.360/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022, grifei).
+3. Agravo regimental ao qual se concede parcial conhecimento, nesta extensão, nega-se provimento.
+(AgRg no REsp n. 2.013.585/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Por fim, cabe destacar que, "Segundo entendimento desta Corte, a afetação de tema como representativo da controvérsia, por aplicação do art. 1037, II, do CPC/2015, somente atinge os recursos em trâmite perante os Tribunais locais, não se aplicando aos processos em curso nesta Corte" (AgRg no AREsp n. 1.818.139/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/11/2021, DJe de 16/11/2021 ).
+Incide, pois, a Súmula 83/STJ.
+Ressalta-se que "O comando contido na Súmula n.º 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional" (AgRg no AREsp n. 1.414.734/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 30/5/2019, DJe de 11/6/2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
