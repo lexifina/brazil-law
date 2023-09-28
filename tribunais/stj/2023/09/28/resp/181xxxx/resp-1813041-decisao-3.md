@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela UNIÃO, contra decisão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"APELAÇÃO. APOSENTADORIA DE ANISTIADO POLÍTICO. REAJUSTAMENTO. LEGITIMIDADE PASSIVA DA UNIÃO E INSS. SUSPENSÃO DO PRAZO. IMPOSTO DE RENDA E CONTRIBUIÇÃO PREVIDENCIÁRIA. ISENÇÃO.
+1. É necessária a formação de litisconsórcio passivo necessário entre a União e o INSS, uma vez que aquela se constitui no ente que deverá arcar com as eventuais despesas advindas da condenação e este por ser o responsável pela concessão do benefício ao anistiado político, nos termos do art. 47 do CPC.
+2. Tendo havido, por parte da beneficiária, apresentação de requerimento administrativo pleiteando o pagamento de pensão por morte, permanece suspenso o prazo prescricional, até que a autarquia previdenciária comunique sua decisão à interessada.
+4. O reajustamento do valor da prestação mensal se dará nas mesmas datas e nos mesmos índices da alteração da remuneração que o anistiado político receberia se estivesse em serviço ativo.
+5. A extensão de benefícios e vantagens aos anistiados só pode se dar em relação às verbas e gratificações de caráter geral, não as de natureza individual, que dependam de desempenho pessoal e da situação particular do trabalhador.
+6. O Imposto de Renda e a Contribuição Previdenciária não incidem sobre os proventos de aposentadoria e de pensão de anistiados políticos, nos termos da Lei 10.559 /2002" (fl. 1.398e).
+Opostos Embargos de Declaração foram parcialmente acolhidos, apenas para fins de prequestionamento (fls. 1.440/1.442e).
+Em suas razões, sustenta a UNIÃO, em resumo, além da negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), violação aos arts. 6º, § 6º, da Lei 10.559/02, 1º do Decreto 20.910/32, no tocante à prescrição e, no mérito, ao art. 6º, § 5º, da Lei 10.559/02, 150 da Lei 8.213/91 e 134, § 3º, do Decreto 611/92.
+Requer, por fim, o conhecimento e provimento do Recurso Especial, "para anular o acórdão recorrido, determinando o retorno dos autos à origem, a fim de que sejam efetivamente analisadas as questões suscitadas em embargos declaratórios. Subsidiariamente, requer a reformar o acórdão recorrido e, por consequência, seja dado total provimento ao apelo da União, invertendo-se a condenação ao ônus da sucumbência. Subsidiariamente, requer a reforma do acórdão para considerar prescritas as parcelas vencidas há mais de cinco anos da data do ajuizamento da ação e, subsidiariamente, da data do protocolo do requerimento administrativo de revisão do benefício" (fls. 1.471/1.472e).
+Apresentadas as contrarrazões, o Recurso Especial foi admitido, na origem.
+Verifica-se que, no caso, o Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, foi conhecido e parcialmente provido, para anular o acórdão proferido no julgamento dos Embargos de Declaração, e, como corolário, devolver os autos ao Tribunal de origem, a fim de que seja proferido novo julgamento.
+Diante desse quadro, considerando que, conforme previsão constitucional, a competência recursal desta Corte refere-se aos recursos interpostos contra acórdão proferidos em única ou última instância, a análise do presente recurso restou inviabilizada, sendo de rigor o retorno dos autos à origem, para aguardar o novo julgamento.
+Ante o exposto, julgo prejudicado o Recurso Especial.
+I.
+EMENTA
