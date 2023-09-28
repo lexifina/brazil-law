@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ contra decisão de inadmissibilidade de recurso que se opunha a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Recurso em Sentido Estrito n. 0004167-07.2020.8.16.0174).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 403/404, in verbis:
+Trata-se de agravo contra a decisão do Tribunal de Justiça do Estado do Paraná, que negou seguimento ao recurso especial interposto em face de julgado da 5ª Câmara Criminal daquele Tribunal, no Recurso em Sentido Estrito nº 0004167-07.2020.8.16.0174.
+Consta dos autos que Tiago Bueno foi denunciado pela prática do crime descrito no artigo 33, caput, da Lei 11.343/06. O acusado tinha em depósito, para fins de tráfico, 134g de maconha (fls. 109/111).
+A denúncia foi rejeitada, com fundamento no art. 395, inciso III, do CPP (fls.167/169).
+O Ministério Público interpôs recurso em sentido estrito, que foi provido pelo Tribunal de origem, nos termos do acórdão assim ementado (fl. 259):
+RECURSO EM SENTIDO ESTRITO - TRÁFICO DE DROGAS (ARTIGO 33, §1º, INCISO II, DA LEI 11.343/2006) - REJEIÇÃO DADENÚNCIA POR AUSÊNCIA DE JUSTA CAUSA - MATERIALIDADEE INDÍCIOS SUFICIENTES DE AUTORIA - IN DUBIO PROSOCIETATE - EXORDIAL ACUSATÓRIA EM CONFORMIDADE COM ART. 41 DO CÓDIGO DE PROCESSO PENAL - NECESSÁRIA INSTRUÇÃO CRIMINAL - RECURSO CONHECIDO, AO QUAL SEDÁ PROVIMENTO. "Seria prematuro, neste ponto do processo, concluir que a parte não participou de alguma forma no evento criminoso, devendo privilegiar-se, nesta fase processual, o princípio do in dubio pro societate."
+No recurso especial, interposto com fundamento no art. 105, III, alínea "a" da CF, o MPPR alega violação ao art. 13 do CP (fls. 303/322).
+Foi negado seguimento ao recurso especial, por aplicação das Súmulas 83/STJ e 283/STF (fls. 341/346).
+Adveio então o presente agravo (fls. 356/369).
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para desprover o recurso especial (e-STJ fl. 407).
+É o relatório.
+Decido.
+Preenchidos os requisitos de admissibilidade do agravo, passo a analisar o recurso especial.
+Conforme relatado, pretende o recorrente a análise da locução "ter em depósito" do art. 33, caput, da Lei de Drogas, ao argumento de que a referida conduta não pode ser considerada uma ação ou omissão, mas tão somente um estado de pessoa.
+Ao analisar o recurso em sentido estrito interposto pelo Parquet, a Corte de origem consignou que (e-STJ fls. 262 /268):
+PARECER DA PROCURADORIA:
+O D. Procurador de Justiça manifestou-se, em seu parecer, pelo desprovimento da irresignação ministerial, "muito embora entendamos que a materialidade delitiva restou devidamente consubstanciada (..), bem como, que os indícios de autoria se fazem presentes no caso em estudo"(sic), mas sim, pelo "conflito aparente de normas entre o artigo 33 da Lei 11.343/06, especificamente em uma de suas modalidades típicas (a saber, ter em depósito) e o art. 13, caput, do Código Penal".
+Neste aspecto, assevera que o verbo utilizado na denúncia foi "ter em depósito", e ter é um estado de pessoa e não uma conduta. Ter não é verbo capaz de expressar ação alguma e, por essa razão não subsiste qualquer possibilidade de incriminação.
+Articulou que, de acordo com o Direito Penal do fato, só se pode imputar a um agente uma conduta comissiva ou omissiva, ainda que desprovida de resultado naturalístico, mas que "possuir e ter não são verbos que representam uma ação, assim como os verbos brilhar e valer".
+Salientou que ter em depósito drogas, como não configura ação nem omissão, viola o disposto no artigo 13, segunda parte, do Código Penal, que tem aplicabilidade total por estar insculpido na parte geral do estatuto repressivo.
+Assinala que "ter, em si mesmo, não pode ser ação, ainda que possa, isso sim, ser um elemento circunstancial probatório de uma ação precedente ou de uma omissão subsequente. As ações são realizações de alguém e são diferentes dos fatos, porque estes simplesmente acontecem".
+Em síntese, o representante do Ministério Público em segunda instância compreende e concorda que o delito previsto no artigo 33, caput, da Lei 11.343/06 é de mera conduta, mas defende que, como não configura estritamente uma ação ou omissão, mas sim um fato, há violação ao artigo 13 do Código Penal, que estabelece que só ações ou omissões penalmente relevantes podem ser punidas.
+Em outra oportunidade, nos autos de apelação criminal nº 0009940-66.2015.8.16.0058, julgado por unanimidade em 14 de junho de 2018, já me manifestei a respeito da tese aventada pelo i. Procurador de Justiça.
+Naquela ocasião, afastei a absolvição do acusado ante a alegada atipicidade da conduta, nos seguintes termos: o Direito Penal brasileiro admite os chamados crimes de mera conduta, que se consumam independentemente da ocorrência de um resultado naturalístico. A probabilidade de dano, nestes casos, é presumida pelo tipo penal.
+Busca-se, com a criminalização do tráfico de drogas, tutelar a saúde pública e a paz social, tanto é que se um indivíduo é preso em flagrante momentos antes de efetuar uma venda, por exemplo, não se pune o crime na modalidade tentada, por expressa previsão legal (art. 33, caput, da Lei11.343/2006).
+Não vislumbro qualquer possibilidade, neste momento, de modificação do entendimento já preconizado naquela ocasião, mormente porque em consonância com o entendimento do Superior Tribunal de Justiça e deste Tribunal de Justiça do Estado do Paraná:
+(..)
+Como se denota, a tipificação penal da conduta ter em depósito se justifica na gravidade da lesão à saúde pública e o legislador, dentro de sua discricionariedade e, considerando os diversos dispositivos constitucionais que visam coibir o tráfico ilícito de entorpecentes, entendeu por bem em penalizá-la em virtude das consequências nefastas à sociedade brasileira, oque não pode passar despercebido pelo Poder Público.
+Ademais, ouso discordar da alegação contida no parecer da douta Procuradoria-Geral da Justiça, posto que o verbo ter implica evidentemente uma ação, até porque, o agente criminoso, para ter alguma coisa, adota uma conduta ativa previamente, ou seja, in casu, adquire o material ilícito. Portanto, entendeu adequadamente o legislador que ela não pode ficar impune, razão pela qual não vislumbro qualquer conflito entre o artigo 33 da Lei de Drogas e o artigo 13 do Código Penal.
+Desse modo, não há como acolher as teses apresentadas no parecer da douta Procuradoria-Geral da Justiça.
+Nota-se, assim, que o Tribunal de origem entendeu devida a denúncia do agravado em razão da conduta de ter em depósito substância ilícita, entendimento esse que se encontra em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. CONDENAÇÃO. PROVA ACERCA DA TRAFICÂNCIA. SÚMULA 7/STJ. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O tráfico ilícito de entorpecentes, crime plurinuclear ou de condutas múltiplas, formal, consuma-se com a prática de qualquer um de seus verbos (Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal).
+3. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que o art. 33, caput, da Lei n. 11.343/2006 trata de delito de ação múltipla, que se consuma com a prática de qualquer dos verbos nele descritos, inclusive o depósito, sendo prescindível a comprovação da finalidade de comercialização.
+ ..
+6. Agravo regimental não provido. (AgRg no REsp n. 1.992.544/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022, grifei.)
+Ademais, a Corte de origem consignou que "o verbo implica evidentemente uma ação, até porque o agente criminoso, para ter alguma coisa, adota uma conduta ativa previamente, ou seja, in casu, adquire o material ilícito e, no caso em exame, como se verá, para posterior revenda. Portanto, entendeu adequadamente o legislador que ela não pode ficar impune, razão pela qual não vislumbro qualquer ofensa ao artigo 13 do Código Penal", o que demonstra que, no presente caso, a conduta de ter em depósito representa uma conduta humana consciente, voluntária, finalística e aceita pela jurisprudência desta Corte Superior.
+Dessa forma, estando o acórdão prolatado pelo Tribunal de origem em conformidade com o entendimento desta Corte quanto à questão referente à dosimetria, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis : "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
