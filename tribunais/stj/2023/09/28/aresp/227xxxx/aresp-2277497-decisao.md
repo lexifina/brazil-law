@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LEDA MARIA KOSINSKI, contra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 26/10/2022.
+Concluso ao gabinete em: 04/04/2023.
+Ação: de usucapião ajuizada por LEDA MARIA KOSINSKI, em face de MOUSES PIETRO CARDOZO, CARLA ROSANA DA CO STA CARDOZO E DA CAIXA ECONÔMICA FEDERAL- CEF.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+"ADMINISTRATIVO. USUCAPIÃO. CEF. SISTEMA FINANCEIRO DEHABITAÇÃO. PRESCRIÇÃO AQUISITIVA. IMPRESCRITIBILIDADE. FUNÇÃO SOCIAL DA PROPRIEDADE.
+1. Imóveis adquiridos pela Caixa Econômica Federal com vínculo ao Sistema Financeiro de Habitação não são suscetíveis à usucapião.
+2. O princípio constitucional da função social da propriedade não se presta a justificar a pretensão de usucapião sobre bens públicos." (e-STJ-fl. 659).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 1.240 do Código Civil; 1º e 2º do Decreto-Lei 759/79; 5º da Lei 4.380/64 e 1.022 do CPC/2015, sustentando: i) omissão e negativa de prestação jurisdicional do acórdão recorrido; ii) que a vinculação ao Sistema Financeiro de Habitação não é presumida; iii) que a caracterização dos bens da CAIXA enquanto bens públicos é exceção, e não regra; que na presente hipótese, o imóvel objeto do processo foi hipotecado em 1974, juntamente com outros imóveis, pelo Sr. Farydo Salomão à Caixa Econômica Federal como garantia de um contrato de mútuo bancário, sem vinculação com o Sistema Financeiro da Habitação, sendo posteriormente, em 1978, o imóvel adjudicado em favor da Caixa Econômica Federal, via ordem judicial, em razão da inadimplência do contrato, conforme anotação R.1/7.879 na matrícula do bem; iv) que mostra-se evidente que o imóvel não foi adquirido pela empresa pública enquanto agente estatal exercendo sua função pública, por meio do Sistema Financeiro de Habitação, tendo a Caixa adquirido a propriedade do imóvel por meio de operação financeira de contrato de empréstimo, na modalidade de mútuo hipotecário, portanto, exercendo atividade típica de instituição financeira; v) que foi demonstrado que a aquisição do imóvel pela Empresa Pública - consolidando a propriedade do bem em seu favor em 1978 - não está vinculada ao Sistema Financeiro de Habitação, sendo passível, portanto, de usucapião.
+RELATADO O PROCESSO. DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com base na incidência das Súmulas 7 e 83 do STJ, relativamente às alegadas ofensas.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Especificamente quanto à Súmula 7/STJ, é de se ressaltar, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a sua revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame, na hipótese em que o Tribunal de origem declara que "O recurso não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em recurso especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial." (e-STJ, fl. 782), o que não foi feito.
+Ao contrário, apenas houve a alegação genérica acerca da prescindibilidade do reexame de provas e de que a questão debatida é questão de direito.
+Especificamente quanto à Súmula 83/STJ, cumpre esclarecer, que seu afastamento deve ser demonstrado com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que também não ocorreu na espécie.
+Isso porque o agravante limitou-se a alegar que não incide na presente hipótese, a Súmula 83/STJ, insistindo na ofensa aos arts. tidos por violados.
+E, consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, §11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% calculado sobre o valor atualizado da causa (e-STJ, fl. 666), para 12%, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
