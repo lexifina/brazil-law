@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se  de  agravo  de CLARO NXT TELECOMUNICACOES LTDA. , em que objetiva admissão  de  recurso especial interposto  contra  acórdão  do TJPE assim  ementado:
+DIREITO TRIBUTÁRIO. RECURSO DE AGRAVO NA APELAÇÃO CÍVEL. ICMS-COMUNICAÇÃO. INCIDÊNCIA SOBRE A TARIFA DE ASSINATURA BÁSICA MENSAL. NOVA ORIENTAÇÃO FIRMADA PELO STF EM SEDE DE REPERCUSSÃO GERAL. RECURSO NÃO PROVIDO.
+1. O plenário do STF, em decisão datada de 13/10/2016, prolatada em sede do RE 912.888 - processado sob a sistemática de repercussão geral - promoveu reviravolta na orientação até então vigente, assentando que "o ICMS incide sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras de serviços de telefonia, independentemente da franquia de minutos concedida ou não ao usuário".
+2. De acordo com o ministro Relator, Teori Zavascki, a assinatura básica é, sim, prestação de serviço, que é o oferecimento de condições para que haja a comunicação entre os usuários e terceiros - ainda que não remunere a ligação em si. Em seu voto, o ministro ressaltou existir inequívoca relação entre a tarifa de assinatura e a efetiva prestação de serviço de telecomunicação. Para ele, como toda tarifa ou preço, também ela, cobrada mensalmente e continuadamente, é destinada a remunerar a prestação, também de caráter continuado, do serviço público concedido, no caso de telefonia.
+3. Recurso de Agravo desprovido.
+No  especial,  a  parte  alega  violação  dos  arts.489, § 1º, V e VI, 927, § 3º, e 1.022, II, e parágrafo único, II, do CPC/2015 e dos arts. 2º, III, e 12, VII, da LC 87/1996,  bem  como  a  ocorrência  de  divergência  jurisprudencial.
+ Sustenta,  em  síntese, a existência de omissão no acórdão que teria deixado de apreciar as alegações de que: (i) o precedente firmado em repercussão geral seria inaplicável à hipótese dos autos em que se trata de ICMS sobre assinatura mensal sem cobrança de franquia e não de assinatura básica mensal; (ii) inexistência de trânsito em julgado desse acórdão do STF, uma vez que aguarda a fixação da modulação de efeitos.
+No mérito, defende ser inaplicável o precedente firmado em repercussão geral e que a figura da assinatura mensal sem franquia em minutos é atividade-meio não tributada pelo ICMS.
+O recurso especial foi inadmitido em razão da ausência de vício de integração e da aplicação do óbice da Súmula 83 do STJ em face dos precedentes desta Corte Superior que aplicam o entendimento firmado em repercussão geral pelo STF, fundamentos atacados no agravo.
+O douto representante do Ministério Público Federal manifestou-se pela ausência de interesse para a sua intervenção.
+Passo  a  decidir.
+Na sentença de primeiro grau, foi denegada a segurança, com amparo no entendimento do Supremo Tribunal Federal em julgamento submetido ao rito da repercussão geral - RE 912.888/RS, Tema 827 - em que se fixou tese de que incide ICMS sobre tarifa de assinatura mensal de telefonia, independentemente da concessão de franquia de minutos ou não.
+Interposta apelação, o Tribunal bandeirante negou-lhe provimento em decisão monocrática, reiterada no julgamento do agravo interno com base nos seguintes fundamentos:
+Pois bem.
+É bem certo que a jurisprudência pátria encontrava-se firmada no sentido de que a "assinatura básica mensal" não seria hipótese de incidência do ICMS, seja por não remunerar serviço de comunicação, mas apenas a disponibilização do acesso à rede, seja por constituir atividade-meio ou serviço suplementar à telefonia.
+Outro não é o entendimento destacado nos diversos precedentes jurisprudenciais do STF e STJ reproduzidos na exordial do impetrante, na sentença recorrida e no parecer ministerial.
+Ocorre, porém, que o plenário do STF, em decisão datada de 13/10/2016, prolatada em sede do RE 912.888 - processado sob a sistemática de repercussão geral - promoveu reviravolta na orientação até então vigente, assentando que "o ICMS incide sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras de serviços de telefonia, independentemente da franquia de minutos concedida ou não ao usuário".
+De acordo com o ministro Relator, Teori Zavascki, a assinatura básica é, sim, prestação de serviço, que é o oferecimento de condições para que haja a comunicação entre os usuários e terceiros - ainda que não remunere a ligação em si.
+Em seu voto, o ministro ressaltou existir inequívoca relação entre a tarifa de assinatura e a efetiva prestação de serviço de telecomunicação. Para ele, como toda tarifa ou preço, também ela, cobrada mensalmente e continuadamente, é destinada a remunerar a prestação, também de caráter continuado, do serviço público concedido, no caso de telefonia.
+ ..
+Feitas essas considerações, voto pelo improvimento do presente Recurso de agravo, mantendo a decisão vergastada nos exatos termos lançados.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+De início, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acolhendo a tese defendida pelo recorrente.
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Como relatado, o Tribunal a quo expressamente aplicou o precedente firmado em repercussão geral ao caso concreto, afirmado de forma clara e coerente que o ICMS incide sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras de serviços de telefonia, independentemente da franquia de minutos concedida ou não ao usuário.
+Nesse panorama, a insurgência da recorrente não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, não se confundindo, assim, com negativa de prestação jurisdicional.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação do art. 1.022 do CPC/2015.
+Em relação ao juízo de reforma, tem-se que o debate sobre a pertinência de aplicação da tese firmada no julgamento do aludido precedente vinculante à realidade desta causa, a modulação de efeitos e a eventual existência de equívoco por parte da Suprema Corte quando do exame da controvérsia é de índole constitucional, não competindo a este Tribunal Superior decidir sobre o alcance de julgado do Pretório Excelso.
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II, "a" e  "b",  do  RISTJ,  CONHEÇO  do  agravo  para  CONHECER  PARCIALMENTE  do recurso especial  e,  nessa  parte,  NEGAR-LHE  PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
