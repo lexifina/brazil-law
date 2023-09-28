@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS contra decisão que inadmitiu recurso especial com fundamento na incidência da Súmula n. 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe (Agravo de Instrumento n. 202133441) nos autos de cumprimento de sentença.
+O julgado foi assim ementado (fl. 63):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA -INCIDÊNCIA DE MULTA E HONORÁRIOS ADVOCATÍCIOS - DEPÓSITO PARA FINS DE GARANTIA DO JUÍZO - CABIMENTO - INTELIGÊNCIA DO ART. 523, §1º DO CPC - MANIFESTANDO O EXECUTADO, EXPRESSAMENTE, QUE SUA INTENÇÃO É APENAS GARANTIR O JUÍZO, NÃO HÁ COMO AFASTAR A COMINAÇÃO LEGAL - DECISÃO REFORMADA - AGRAVO PROVIDO - DECISÃO UNÂNIME.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a parte ora agravante, além de suscitar a ocorrência de dissídio jurisprudencial, aponta violação dos arts. 848, parágrafo único, e 523, § 1º, do CPC. Defende a tese de que é indevida a aplicação de multa e honorários advocatícios na vertente hipótese, uma vez que a apresentação de apólice de seguro garantia judicial equipara-se ao depósito em dinheiro.
+Requer o provimento do recurso a fim de que sejam afastadas as penalidades previstas no § 1º do art. 523 do CPC.
+As contrarrazões ao recurso especial foram apresentadas às fls. 133-162.
+O apelo extremo foi inadmitido (fls. 165-172), tendo sido apresentado o agravo em recurso especial (fls. 177-194).
+É o relatório. Decido.
+Trata-se na origem de cumprimento de sentença ajuizada pelos ora agravados em face da parte agravante, na qual foi proferida decisão que rejeitou a impugnação ao cumprimento de sentença, tornando líquida a dívida em favor dos exequentes.
+Inconformados, os exequentes agravaram de instrumento. Alegaram que, como não houve o pagamento voluntário da dívida, impunha-se a aplicação da multa e dos honorários advocatícios previstos no art. 523, § 1º, do CPC.
+A Corte a quo concluiu que o depósito foi realizado a título de garantia e não de pagamento, razão pela qual deu provimento ao agravo de instrumento para aplicar a multa e honorários advocatícios. A propósito, veja-se excerto do julgado (fl. 64, destaquei):
+Estabelecido, portanto, o cabimento da multa em sede de cumprimento de sentença, deve-se analisar se a sanção efetivamente incide na hipótese em apreço.
+Numa análise perfunctória dos fatos, aliada à leitura da norma processual correlata, entendo que, conquanto no cumprimento definitivo o mero depósito a título de garantia do Juízo não afasta a incidência de multa e honorários.
+O Tribunal de origem decidiu em consonância com a jurisprudência do STJ de que o depósito ou oferecimento de seguro para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do CPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A jurisprudência desta Corte Superior tem entendimento no sentido de que o depósito ou oferecimento de seguro para garantia do juízo não exime o executado da multa e dos honorários previstos no art. 523, § 1º, do NCPC. Precedentes.
+2. Derruir as conclusões a que chegou o Tribunal de origem, no sentido de verificar se estaria garantida a execução pelo oferecimento de seguro-garantia, na forma como posta pelo recorrente, demandaria o reexame da matéria fática, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido. (AgItn no AREsp n. 2.189.739/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023, destaquei).
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CORREÇÃO MONETÁRIA. PENSÃO TESTAMENTÁRIA. SÚMULA N. 284/STF. SÚMULAS N. 83 E 568 DO STJ. ALCANCE DO TÍTULO EXEQUENDO. COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. BOA-FÉ. "SUPRESSIO". INCIDÊNCIA DA SÚMULA N. 7/STJ. MULTA DO ART. 523, § 1º, DO CPC/2015. SÚMULAS N. 83 E 568 DO STJ. DECISÃO MANTIDA.
+ ..
+7. "A jurisprudência assente do STJ é no sentido de que o pagamento constante do art. 523, § 1º, do NCPC deve ser interpretado de forma restritiva, isto é, somente é considerada como pagamento a hipótese na qual o devedor deposita em juízo a quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa quando o depósito se deu a título de garantia do juízo" (AgInt no REsp n. 1.906.380/MG, Relator Ministro Raul Araújo, Quarta Turma, julgado em 10/5/2021, DJe de 9/6/2021).
+8. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.798.652/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/11/2022, DJe de 21/11/2022, destaquei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. GARANTIA DO JUÍZO. DEPÓSITO INTEGRAL. POSTERIOR IMPUGNAÇÃO. MULTA E HONORÁRIOS. INCIDÊNCIA. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DESTA CORTE. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os aclaratórios são recursos de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC), não se prestando a sua utilização ao rejulgamento da causa.
+3. O aresto combatido foi proferido de acordo com a jurisprudência desta Corte, no sentido de que o pagamento constante do art. 523, § 1º, do NCPC deve ser interpretado de forma restritiva, isto é, somente é considerada como pagamento a hipótese na qual o devedor deposita em juízo a quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa quando o depósito se deu a título de garantia do juízo.
+Incidência da Súmula n.º 568 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido. (AgInt no AREsp n. 1.965.900/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022, destaquei).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ARBITRAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DEPÓSITO PARA GARANTIA DO JUÍZO. PAGAMENTO VOLUNTÁRIO. NÃO OCORRÊNCIA. APLICAÇÃO DAS PENALIDADES PREVISTAS NO ART. 523, § 1º, DO CPC/2015. MULTA E HONORÁRIOS ADVOCATÍCIOS.
+1. Cumprimento de sentença arbitral.
+2. Ação ajuizada em 03/06/2019. Recurso especial concluso ao gabinete em 05/10/2021. Julgamento: CPC/2015.
+3. O propósito recursal consiste em definir se, no caso concreto, a recorrida deve ser condenada ao pagamento das penalidades previstas no art. 523, § 1º, do CPC/2015.
+4. A multa e honorários advocatícios a que se refere o § 1º do art. 523 do CPC/2015 serão excluídos apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito.
+5. Na hipótese dos autos, a recorrida manifestou a sua intenção de depositar o valor executado como forma de garantia do juízo, destacando expressamente que não se tratava de cumprimento voluntário da obrigação, razão pela qual o débito exequendo deve ser acrescido das penalidades previstas no art. 523, § 1º, do CPC/2015.
+6. Recurso especial conhecido e provido. (REsp n. 2.007.874/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2022, DJe de 6/10/2022, destaquei).
+Dessa forma, o Tribunal local observou a jurisprudência pacífica do Superior Tribunal de Justiça, o que atrai a incidência da Súmula n. 83 do STJ.
+Ademais, para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+No acórdão proferido pela Corte de origem (fls. 62-65), entendeu-se pela aplicação da multa e dos honorários advocatícios previstos no art. 523, § 1º, do CPC, porquanto o depósito se deu a título de garantia do juízo. No recurso especial, entretanto, a parte agravante, a título de divergência pretoriana, colaciona julgado acerca da tese da possibilidade de se substituir a penhora em dinheiro pelo seguro garantia judicial, desde que seja apresentada a certidão de regularidade da sociedade seguradora perante a referida autarquia.
+Nesse contexto, não há semelhança entre as bases fáticas os acórdãos confrontados, razão pela qual não são aptos para demonstrar o dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
