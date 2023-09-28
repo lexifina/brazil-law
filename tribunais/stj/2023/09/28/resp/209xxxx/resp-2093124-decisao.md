@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão assim ementado (fl. 263):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - AUTORIA E MATERIALIDADE COMPROVADAS - DEPOIMENTO DE POLICIAIS - VALIDADE - ABSOLVIÇÃO - IMPOSSIBILIDADE - DESCLASSIFICAÇÃO PARA PORTE DE DROGA PARA CONSUMO PRÓPRIO - DESCABIMENTO - DOSIMETRIA - AFASTAMENTO DA MAJORANTE PREVISTA NO ART. 40, VI, DA LEI DE DROGAS - INVIABILIDADE - RECONHECIMENTO DA MINORANTE DO ART. 33, § 4º DA LEI N.º 11.343/06 - DEDICAÇÃO A ATIVIDADES CRIMINOSAS - BENEFÍCIO NÃO RECOMENDADO - RECURSO DESPROVIDO.
+1. Se a autoria e a materialidade do crime de tráfico de drogas restaram comprovadas pelo firme conjunto probatório depoimentos dos policiais militares, que, in casu, nãotem motivo para ser desprezados , não há que se falar em absolvição, ou mesmo em desclassificação para o delito de porte de droga para uso próprio.
+2. Caracterizado o envolvimento de menor no delito praticado pelo réu, imperativa a incidência da majorante do àrt. 40, VI, da Lei n.º 11.343/06.
+3. Evidenciado que o réu dedica-se a atividades criminosas, especialmente ao tráfico de drogas, inviável a incidência da minorante do artigo 33, § 4º, da Lei de Tóxicos.
+4. Recurso desprovido
+V. V. À míngua de documento formal a comprovar a idade do suposto menor envolvido no crime em tela, imperioso é o decote da causa de aumento de Dena, prevista no art. 40, inciso VI, da Lei n.º 11.343106.
+Consta dos autos que o recorrente foi condenado como incurso no art. 33, caput, c.c. o art. 40, inciso VI, da Lei n. 11.343/2006, a 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 583 dias-multa, pena que foi mantida, por maioria, pelo Tribunal de origem. Opostos embargos infringentes, apenas na parte referente à incidência da majorante, os quais foram rejeitados.
+Sustenta a defesa violação do artigo 33, § 4º, da Lei n. 11.343/2006, 33, § 2º, "c", e artigo 44 do CP, aduzindo, em síntese, que a existência de ações penais em curso não justifica o afastamento da minorante do tráfico privilegiado, sendo possível, ainda, a fixação de regime inicial menos gravoso, com a substituição da pena privativa por restritivas de direitos.
+Apresentadas contrarrazões, o Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+Quanto à minorante do tráfico privilegiado, o acórdão recorrido está assim fundamentado (fls. 273-275):
+ .. .No tocante: ao derradeiro pleito defensivo no sentido de se reconhecer a minorante prevista no art. 33, § 4º , da Lei n.º 11.343106, vejo que, mais uma vez, razão não assiste, d. v., à profícua Defensoria Pública.
+Isso, pois, como cediço, tal causa especial de diminuição de pena tem lugar "desde que o agente, seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+ ..
+No caso específico dos autos, malgrado a primariedade do acusado, ele indiscutivelmente se dedica às atividades criminosas, pois, conforme se extrai da CAC de fls. 47148, Mateus Paulo Carvalho Solimar de Freitas responde a uma ação penal pela prática, em tese, do delito de roubo majorado (autos n.º 0352525-62.2019.8.13.0024) e outra pelo suposto cometimento do crime de tráfico de drogas (processo-crime n.º 0963601-45.2020.8.13.0024).
+Dessarte, considerando a dedicação de Mateus Paulo Carvalho Solimar de Freitas às atividades criminosas, inviável a aplicação da causa especial de diminuição de pena, razão pela qual mantenho a reprimenda concretizada em 05 (cinco) anos e 10 (de z) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa. .. .
+Na sentença, a benesse foi afastada tendo em vista que "O acusado não faz jus à causa de diminuição prevista no § 4º do art. 33 da Lei n.º 11.343/2006, pois responde a outras ações penais, conforme consta na CAC de f. 47." (fl. 183).
+Como se vê, a causa de diminuição do tráfico privilegiado foi afastada nas instâncias de origem considerando-se que o acusado "responde a uma ação penal pela prática, em tese, do delito de roubo majorado (autos n.º 0352525-62.2019.8.13.0024) e outra pelo suposto cometimento do crime de tráfico de drogas (processo-crime n.º 0963601-45.2020.8.13.0024)", entendimento que destoa da jurisprudência desta Corte Superior.
+Com efeito, no julgamento do REsp n. 1.977.027/PR, de relatoria Ministra Laurita Vaz (DJe de 18/8/2022), submetido ao rito dos recursos repetitivos (Tema 1.139), firmou-se a seguinte tese: "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06".
+Desse modo, assim como demonstrado pelo Ministério Público Federal (fls. 342-346), deve ser aplicada a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, tendo em vista a ausência de indicação de circunstâncias concretas adicionais desfavoráveis.
+A reprimenda deve, assim, ser redimensionada, motivo pelo qual, mantida a dosimetria realizada na primeira e na segunda fases, bem como o reconhecimento, na terceira fase, da majorante prevista no artigo 40, VI, da Lei 11.343/2006, o que resultou em 5 anos e 10 meses de reclusão e 583 dias-multa, a pena deve ser diminuída em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa.
+Tendo em vista a inexistência de circunstância judicial defavorável e a primariedade do acusado, fixa-se o regime inicial aberto, nos termos do art. 33, § 2º, "c", do CP, substituindo-se a pena privativa de liberdade por duas restritivas de direitos.
+Ante o exposto, dou provimento ao recurso especial para fixar a pena do paciente em 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, e 194 dias-multa, substituída a pena privativa de liberdade por penas restritivas de direitos, a serem fixadas pelo Juízo de Execução.
+Publique-se.
+Intimem-se.
+EMENTA
