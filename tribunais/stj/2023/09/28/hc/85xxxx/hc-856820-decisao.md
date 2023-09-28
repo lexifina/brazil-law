@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FRANCIS DUTRA DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Apelação Criminal n. 0019623-86.2020.8.09.0175).
+Consta dos autos que o paciente foi condenado como incurso nas penas do art. 155, § 4º, inciso IV, do Código Penal, à reprimenda definitiva de 2 (dois) anos e 1 (um) mês de reclusão, no regime aberto, além do pagamento de 10 (dez) dias-multa.
+Inconformada, a Defesa apelou perante o Tribunal de origem, que negou provimento ao recurso, em julgado assim ementado (fl. 15):
+FURTO QUALIFICADO PELO CONCURSO DE PESSOAS. ABSOLVIÇÃO. AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE.
+1. Resultando das provas dos autos a certeza da conduta ilícita pertinente ao delito de furto qualificado, incomportável a absolvição. APELO CONHECIDO E DESPROVIDO.
+No presente writ, a Defesa sustenta, em apertada síntese, que "a comprovação da inocência do paciente ficou significativamente prejudicada, uma vez que a acusação não produziu todas as provas possíveis e essenciais para elucidação dos fatos, de maneira que a condenação se torna completamente inviável" (fl. 6).
+Ressalta que o Ministério Público pediu a dispensa da oitiva das testemunhas e, com isso, deixou de produzir provas aptas para a condenação.
+Pontua que os depoimentos dos policiais não são suficientes ao embasamento do decreto condenatório.
+Requer, liminarmente, que seja obstado o início de cumprimento da pena. No mérito, pugna pela absolvição com fulcro no artigo 386, inciso VII, do Código de Processo Penal.
+É o relatório. DECIDO.
+No presente caso, da análise dos elementos informativos constantes dos autos, não se verifica qualquer flagrante ilegalidade a legitimar a atuação deste Sodalício.
+No caso concreto, o voto-condutor do acórdão combatido afastou a alegação de insuficiência probatória a teor dos excertos abaixo (fls. 10/13):
+A autoria, por sua vez, ressai cristalina das declarações colhidas e da prova testemunhal, além do que a apreensão do aparelho de televisão e do notebook também corrobora a certeza acerca da responsabilidade por parte do apelante na prática da infração.
+O policial José Octaviano de Albuquerque Filho, um juízo (mídia digital - mov. 71),contou que estava em serviço pelo 7º Batalhão, como motorista, e houve o chamado de uma ocorrência. Uma senhora, na Vila Resende, relatou para o COPOM que dois indivíduos haviam arrebentado o portão e estavam tentando estourar a porta da residência, com o objetivo de invadir o local. A vítima se trancou no banheiro, gritou e ligou no 190. Foram até o local, oportunidade em que a vítima narrou os fatos. Intensificou o patrulhamento na região e localizaram o veículo descrito na denúncia parado na porta de um imóvel. Que o portão da casa estava aberto e dois indivíduos estavam tentando colocar uma geladeira em cima do automóvel.
+Relatou que no instante em que os indivíduos perceberam a presença da viatura, tentaram evadir-se do local, e um deles, ora apelante, empreendeu fuga com o carro. Francis perdeu o controle e bateu o veículo, sendo que em seguida tentou fugir correndo por algumas ruas. Conseguiu alcançar o acusado.
+Disse que o acusado não apresentou nenhuma justificativa por transportar os objetos. Após a abordagem, as vítimas foram até a delegacia e reconheceram os objetos.
+(..)
+Diante do conjunto probatório, verifica-se que não há dúvida quanto a prática do delito de furto, já que os objetos subtraídos (aparelho de televisão e notebook) foram encontrados dentro do veículo do apelante. Acrescenta-se, ainda, que o acusado e os demais indivíduos estavam tentando colocar a geladeira em cima do carro, no instante em que os policiais se aproximaram.
+Ademais, segundo as declarações dos policiais, o recorrente evadiu-se em alta velocidade ao notar a presença da viatura.
+Importante ressaltar que a versão apresentada pela defesa do acusado de que ele estava no local para realizar um frete não é coerente com as provas apresentadas, vez que não apontou nenhum nome ou qualquer dado que fosse possível identificar a pessoa que o teria contratado para realizar o transporte dos objetos.
+Além disso, conforme mencionado pelo Juízo sentenciante, o suposto frete realizado aproximadamente às 22h00min se revela, no mínimo, estranho.
+Assim, tendo em vista os elementos que constam dos autos, seguros e colhidos sob o crivo do contraditório e ampla defesa, há que se considerar que assiste razão ao Ministério Público em seu parecer de cúpula, devendo ser mantida a sentença condenatória.
+A alegação trazida na inicial, no sentido de que a dispensa da oitiva de testemunhas pelo Ministério Público ensejou a ausência de provas da autoria delitiva, não tem o condão de ensejar a absolvição do acusado. Da leitura da sentença e do acórdão que a confirmou percebe-se que as instâncias de origem concluíram, fundamentadamente, que havia provas suficientes da autoria delitiva, de maneira que eventual desconstituição das premissas fáticas estabelecidas demandaria aprofundada dilação probatória, totalmente incompatível com a via eleita.
+Não se descure que, para a eventual concessão da ordem, far-se-ia necessário que o direito alegado pela Defesa fosse líquido - dispensando apuração probatória - e certo - indene de dúvidas.
+In casu, ao cotejar as alegações vertidas na exordial com a fundamentação exposta no acórdão objurgado, não se divisa a existência de ilegalidade ou constrangimento ilegal ao direito ambulatorial da parte paciente.
+Isso até mesmo porque a pretensão defensiva não se mostra inconteste ou incontroversa à luz da normatividade aplicável à espécie e da moldura fático-jurídica delineada no aresto impugnado.
+De mais a mais, como dito, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+Sobre o tema: AgRg no HC n. 814.843/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023; AgRg no HC n. 806.652/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2023, DJe de 26/4/2023; AgRg no HC n. 771.324/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023; e AgRg no HC n. 772.855/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Diante disso, não se constatou, de plano, a flagrante ilegalidade apontada pela Defesa nestes autos.
+Ante o exposto, denego o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
