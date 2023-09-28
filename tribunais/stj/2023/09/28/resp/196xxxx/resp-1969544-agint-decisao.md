@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE BELO HORIZONTE contra decisão monocrática do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região), proferida com a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PERDA DE INTERESSE RECURSAL. PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. ANÁLISEDO PERCENTUALDA SUCUMBÊNCIA. IMPOSSIBILIDADE DE REVISÃO DO ARESTO RECORRIDO. APLICAÇÃO DA SÚMULA 7/STJ. PRECEDENTES DO STJ. RECURSO ESPECIAL DO MUNICÍPIO NÃO CONHECIDO.
+Alega a parte agravante não discutir questões de sucumbência mínima ou recíproca no recurso especial. Aduz defender a manutenção do interesse recursal do ente público, a fim de que se discuta a legalidade da conduta do Município de Belo Horizonte, para se verificar quem deve suportar os ônus sucumbenciais, em razão do princípio da causalidade, mesmo que reconhecida a perda superveniente do objeto.
+Decorrido o prazo, não foi apresentada impugnação.
+É o relatório.
+Merece reforma a decisão agravada.
+Conforme orientação desta Corte Superior de Justiça, o simples fato do cumprimento da ordem em antecipação de tutela, não implica a perda do objeto da demanda ou a falta de interesse processual, sendo necessário o julgamento do mérito da causa, para definir se a parte beneficiada, de fato, fazia jus a tal pretensão (STJ, REsp 1.645.812/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/4/2017)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSIONÁRIA DE TELEFONIA MÓVEL. POSTES DE TELETRANSMISSÃO DE DADOS. DESLOCAMENTO PARA VIABILIZAÇÃO DE OBRAS DE INFRAESTRUTURA. OMISSÃO DO ACÓRDÃO ESTADUAL AFASATADA. FALTA DE INTERESSE DE AGIR E PERDA SUPERVENIENTE DO OBJETO. PRECEDENTES DO STJ. AUSÊNCIA DE CONDENÇÃO GENÉRICA. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. OMISSÃO DO ACÓRDÃO ESTADUAL AFASTADA. PRETENSÃO DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+(..).
+3. O acórdão recorrido não se afastou da orientação jurisprudencial deste Superior Tribunal, firme no sentido de que "o simples fato do cumprimento da ordem em antecipação de tutela, não implica a perda do objeto da demanda ou a falta de interesse processual, sendo necessário o julgamento do mérito da causa, para definir se a parte beneficiada, de fato, fazia jus a tal pretensão" (REsp 1.645.812/MG, Rel. Ministro Herman Benjamin, DJe 19/4/2017).
+(..).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.650.286/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/9/2022, DJe de 16/9/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. TUTELA PROVISÓRIA DE URGÊNCIA. VULNERÁVEL. ABRIGAMENTO. PROCEDÊNCIA DO PEDIDO. CUMPRIMENTO DA ORDEM. PERDA DO OBJETO DA DEMANDA. INEXTÊNCIA. MÉRITO DA CAUSA. JULGAMENTO. NECESSIDADE. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83/STF.
+I - Na origem, trata-se de Tutela Provisória de Urgência Antecipada Antecedente ajuizada pelo Ministério Público contra o Estado do Amapá objetivando o imediato abrigamento de vulnerável no Abrigo São José na cidade de Macapá, sob pena de multa por descumprimento, uma vez que estaria em estado de vulnerabilidade extrema, eis que teria necessidades especiais (paraplegia), não possuía parentes no Estado, não possuía nenhum vínculo pessoal com alguém no Estado, bem como não tinha residência ou outro abrigo para se instalar.
+II - Na sentença julgou-se procedente o pedido. No Tribunal a quo a sentença foi mantida. Esta Corte conheceu do agravo para negar provimento ao recurso especial.
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato do cumprimento da ordem em antecipação de tutela, não implica a perda do objeto da demanda ou a falta de interesse processual, sendo necessário o julgamento do mérito da causa, para definir se a parte beneficiada, de fato, fazia jus a tal pretensão" (STJ, REsp 1.645.812/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/4/2017). Nesse mesmo sentido, confiram-se: (AgInt no AREsp n. 1.650.286/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/9/2022, DJe de 16/9/2022 e STJ, AgInt no AREsp 1.065.109/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/10/2017 e AgInt no AREsp n. 1.194.286/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 24/4/2018, DJe de 27/4/2018.)
+IV - O acórdão recorrido encontra-se no mesmo sentido da Jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83/STJ.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.146.442/AP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Ante o exposto, reconsidero a decisão de fls. 312/315, para dar provimento ao recurso especial, reconhecendo a necessidade de julgamento do mérito da causa, afastando-se a suposta falta de interesse recursal.
+Publique-se. Intimem-se.
+EMENTA
