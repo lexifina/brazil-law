@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PETIÇÃO CÍVEL. DECISÃO QUE INDEFERIU PEDIDO DE SUSPENSÃO DE ATOS EXPROPRIATÓRIOS.
+1. Agravo de Instrumento manejado pelo Particular objetivando a suspensão da decisão que, nos autos da1. Petição Cível, deferiu a venda direta da Aeronave CESSNA PROUR, modelo 560 XL, SN 5371, ano 2004, à Empresa VOAR AVIATION MANUTENÇÃO DE AERONAVES LTDA pelo valor por ela ofertado, entendendo desnecessária uma nova avaliação.
+2. Nas razões recursais, o Agravante alega, em síntese, que não foi oportunizada a manifestação das partes sobre a venda direta, bem como o valor ofertado é quase 50% inferior ao da avaliação feita em outubro/2019 pelo Oficial de Justiça responsável. Aduz, ainda, que há pedido expresso da própria Leiloeira para que haja uma nova avaliação.
+3. Compulsando os autos originários, verifica-se que, de fato, a própria Leiloeira requereu uma nova avaliação e vistoria da Aeronave, posto que, "em Janeiro de 2020, esta auxiliar do juízo analisou o auto de penhora e avaliação, da aeronave CESSNA PR-OUR, MODELO 560 XL, SN 5371, ano 2004, elaborado pelo Senhor Oficial de Justiça, ocasião em que se constatou a ausência de informações importantes para que se obtenha sucesso na eventual venda futura da aeronave".
+4. Desse modo, se reputa presente a probabilidade do direito alegado pelo Agravante, de modo que dever ser reformada a decisão guerreada.
+5. Agravo de Instrumento provido para ratificar os termos da liminar concedida e determinar a suspensão da decisão que determinou a venda direta do bem.
+Os embargos declaratórios opostos pela recorrente foram rejeitados.
+Em suas razões, a Fazenda aponta violação dos arts. 489, II, § 1º, IV, 1022, II, 797 e 835, do CPC/2015 e 11 da Lei n. 6.830/1980.
+Diz omisso o julgado recorrido a acerca da total desnecessidade de nova avaliação do bem, registrando que "a empresa VOAR AVIATION MANUTENÇÃO DE AERONAVES LTDA. informou ter interesse na aquisição da referida aeronave, ainda que o bem não esteja em boas condições e com o seu certificado de aeronavegabilidade" (e-STJ fls. 184). Alega, ainda, omissão quanto ao fato de que não é do interesse de nenhuma das partes o prolongamento do depósito da aeronave, posto que isso levará a sua desvalorização.
+No mérito, ratifica os fundamentos que embasaram a omissão supracitada, defendendo que o Tribunal a quo não observou que a execução fiscal se realiza no interesse do exequente, nos termos do art. 797 do CPC/2015. Reforça que a opção do legislador é que a penhora recaia preferencialmente sobre dinheiro, consoante a ordem estabelecida no art. 11 da LEF e art. 835 do CPC/2015.
+Sem apresentação de resposta.
+Decisão a quo de admissão do recurso especial às e-STJ fls. 193.
+Passo a decidir.
+O recurso especial origina-se de agravo de instrumento contra decisão que deferiu a suspensão da alienação do bem penhorado.
+O Tribunal Regional deu provimento ao agravo de instrumento nos seguintes termos (e-STJ fl. 120):
+A questão a ser dirimida no presente Agravo de Instrumento foi satisfatoriamente enfrentada quando da apreciação do pedido de liminar, razão pela qual mantenho seus fundamentos como razão de decidir, "in verbis":
+"Compulsando os autos originários (id. 4058401.10760155), verifico que, de fato, a própria Leiloeira requereu uma nova avaliação e vistoria da aeronave, posto que, "em Janeiro de 2020, esta auxiliar do juízo analisou o auto de penhora e avaliação, da aeronave CESSNA PR-OUR, MODELO 560 XL,SN 5371, ano 2004, elaborado pelo Senhor Oficial de Justiça, ocasião em que se constatou a ausência de informações importantes para que se obtenha sucesso na eventual venda futura da aeronave"."
+"Sendo assim, para evitar o perecimento do direito diante da iminência de uma venda direta, entendo devida a suspensão da mesma até ulterior deliberação."
+Com essas considerações, dou provimento ao Agravo de Instrumento
+É como voto.
+Pois bem.
+Não há violação dos arts. 489, II, § 1º, IV, 1.022, inciso II, do CPC quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do excerto do acórdão supracitado, constata-se que o Tribunal de origem foi expresso ao ratificar a necessidade de uma nova avaliação do bem penhorado, tendo em vista a ausência de informações necessárias para sua alienação (e-STJ fl.166):
+O Acórdão foi claro em seus fundamentos ao consignar, expressamente, que a própria Leiloeira requereu uma nova Avaliação e Vistoria da Aeronave, posto que, "em Janeiro de 2020, esta auxiliar do juízo analisou o auto de penhora e avaliação, da aeronave CESSNA PR-OUR, MODELO 560 XL, SN 5371, ano 2004, elaborado pelo Senhor Oficial de Justiça, ocasião em que se constatou a ausência de informações importantes para que se obtenha sucesso na eventual venda futura da aeronave".
+Desse modo, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa. Nesse sentido: AgInt no AREsp 520.705/SC, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016 e REsp 1.349.293/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/8/2018.
+No mais, embora a Fazenda tenha manejado os aclaratórios com o fim de obter pronunciamento acerca da desnecessidade de uma nova avaliação do bem, verifica-se a discussão não foi analisada pela instância ordinária à luz dos arts. 797 e 835, do CPC/2015 e art. 11 da Lei n. 6.830/1980. Além disso, destaca-se que a recorrente não desenvolveu nenhuma tese sobre os referidos dispositivos em seus aclaratórios (e-STJ fls. 152/153)
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pela recorrente, o que não se constata na espécie. Aplica-se, então, o óbice das Súmulas 282 e 356 do STF
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
