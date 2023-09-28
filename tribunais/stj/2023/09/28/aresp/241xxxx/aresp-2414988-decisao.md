@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por UBIRATAN PUBLIO SILVA PEREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES E ROUBO MAJORADO - CRIME PATRIMONIAL PRATICADO COM EMPREGO DE ARMA DE FOGO. EM CONCURSO DE AGENTES E COM RESTRIÇÃO DA LIBERDADE DA VÍTIMA - AUTORIA E MATERIALIDADE DOS DELITOS COMPROVADAS - PROVA SUFICIENTE PARA O DECRETO CONDENATÓRIO - PENAS E REGIMES PRISIONAIS FIXADOS COM CRITÉRIO E CONSERVADOS - RECURSOS NÃO PROVIDOS.
+Quanto à controvérsia recursal, alega violação e interpretação divergente dos arts. 155 e 156 do CPP, no que concerne à falta de provas suficientes à manutenção da decisão que condenou o recorrente, uma vez que se baseou exclusivamente em elementos informativos colhidos na fase inquisitiva - depoimento da vítima - e não confirmado na fase judicial, ferindo o contraditório e a ampla defesa, trazendo os seguintes argumentos:
+De acordo com a jurisprudência do STJ, sob pena de lesão ao art. 155 do CPP, não se admite condenação fundada exclusivamente em elementos de informação colhidos durante investigação policial, não submetida ao crivo do contraditório e da ampla defesa.
+Sendo certo que os policiais não avistaram o ocorrido, a única prova a embasar eventual condenação pelo delito de roubo seria a versão da vítima, que não compareceu em Juízo. Até porque se trata de indivíduo foragido da justiça, que certamente estava com receio de ser descoberto pelos policiais que atenderam o flagrante e passou a discorrer o que quer que o tenham solicitado e que fosse mais convincente.
+ ..
+Isto é, a manutenção da condenação pelo delito de roubo fundamentado em uma revelação não confirmada durante a instrução fere o contraditório. A acusação não logrou êxito em transformar os elementos do inquérito em prova.
+ ..
+Assim, não restam dúvidas de que a condenatória quanto ao delito de roubo utilizou o relato esparso da vítima no Boletim de Ocorrência, atribuindo valor probatório e  elemento seguro  a um a declaração colhida sem a observância do princípio do contraditório.
+ ..
+O elemento primordial colhido no inquérito policial e utilizado para a denúncia não foi confirmado em juízo. A prova judicial (depoimento do policial que participou da diligência) não aponta, inequivocamente, a autoria do acusado, que negou a todo momento a prática do delito.
+ ..
+No caso, inexistem provas produzidas em juízo aptas a ratificar a prova produzida na fase inquisitorial, de modo que, em observância aos arts. 155 e 156 do CPP, a absolvição do apelante é medida que se impõe.
+ ..
+O julgado ora apontado traz situação idêntica à dos autos, na qual o Tribunal reconheceu a importância da fala dos policiais, mas observou que não estiverem presentes no momento do delito, de modo que seus depoimentos não se prestavam a substituir a palavra da vítima, o que mantém o descumprimento dos artigos 155 e 156, ambos do CPP (fls. 735/744).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+A versão ofertada pela vítima na fase extrajudicial foi corroborada em juízo pelos testemunhos dos policiais que prenderam os réus em flagrante, não havendo que se falar em violação ao artigo 155 do Código de Processo Penal. Estes, por outro lado, não forneceram narrativa linear que isentasse seu envolvimento nos delitos ora apurados.
+ ..
+De todo modo, repita-se, a versão dos policiais complementou a da vítima, descortinando que os réus, embora não tenham dado voz de assalto, agindo em concurso de pessoas, subtraíram, mediante grave ameaça exercida com o emprego de armas de fogo, seu telefone celular e restringiram sua liberdade, enquanto buscavam realizar subtrações de dinheiro e drogas em pontos de tráfico (fl. 719).
+Nessa linha, segundo o acórdão recorrido a condenação não estaria lastreada somente em elementos informativos do inquérito policial.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório baseado na suposta ausência de provas produzidas sobre o crivo do contraditório, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: AgRg no AREsp n. 2.030.511/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/5/2022; AgRg no AREsp n. 1.924.674/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 7/4/2022; AgRg no AREsp n. 1.773.536/AM, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/8/2021.
+Quanto à controvérsia recursal, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
