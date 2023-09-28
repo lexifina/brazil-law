@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Emerson Aguiar Gomes, apontando-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Agravo em Execução Penal n. 5065164-11.2023.8.21.7000).
+Narram os autos que o Juízo de primeiro grau (Autos n. 4537499-86.2010.8.21.1001) reconheceu a prática de faltas graves pelo paciente e determinou a regressão ao regime fechado.
+Neste mandamus, o impetrante alega que a decisão manteve o reconhecimento de falta grave sem que houvessem provas contundentes contra o paciente e, ainda, sequer foram realizadas diligências junto à Delegacia para confirmar o que ocorreu, limitando-se a apoiar a decisão na versão trazida pela polícia ou a judicialização da prova, ou seja, expor ao contraditória e ampla defesa as testemunhas na audiência de justificação (fl. 5).
+Requer, em liminar, seja atribuído efeito suspensivo para o fim de suspender os efeitos da decisão ora atacada até o efetivo julgamento (fl. 7). No mérito, pugna pela concessão da ordem com o fim de reformar a decisão e manter o apenado no regime anteriormente estabelecido, semiaberto, bem como, manter os dias remidos e a data-base anterior (fl. 7).
+Indeferida a liminar, dispensadas as informações, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Roberto dos Santos Ferreira, pelo não conhecimento ou pela denegação do writ (fls. 110/114).
+É o relatório.
+In casu, sob a alegação de ausência de provas contu ndentes, busca a impetração a reforma da decisão que reconheceu a prática de faltas graves pelo ora paciente, mantendo-o no regime anteriormente estabelecido, assim como os dias remidos e a data-base para futuros benefícios.
+Contudo, sem sorte o paciente.
+Vejamos, no ponto, o que consta do acórdão impugnado (fls. 9/11 - grifo nosso):
+ ..
+No curso da execução penal, sobreveio a notícia de que, em 19MAI2019, houve o rompimento da tornozeleira eletrônica utilizada pelo apenado, o qual passou à condição de foragido, sendo recapturado apenas no dia 10FEV2022, ocasião em que foi preso pelo cometimento, em tese, de novo delito (porte ilegal de arma de fogo), circunstância que ensejou a instauração da ação penal n.º 5026955- 52.2022.8.21.0001.
+Após a oitiva do réu em juízo e colhidas as manifestações das partes, o magistrado a quo reconheceu a prática das faltas graves, aplicando os consectários legais consistentes em regressão para o regime fechado, alteração da data-base e a perda de 1/3 (um terço) dos dias remidos.
+ ..
+Inobstante as judiciosas razões recursais, entendo viável a manutenção do reconhecimento da falta praticada; isso porque, em que pese a justificativa apresentada pela defesa - de que o equipamento passou a apresentar falha no início da pandemia -, ainda que proceda, não é suficiente para afastar o reconhecimento da falta, tendo ele agido em inobservância à sanção penal que lhe fora imposta, visto que permaneceu foragido desde 19MAI2019, somente retornado à vigilância estatal após ter sido preso em flagrante delito no dia 10FEV2022.
+Desse modo, inconteste que o apenado deixou de cumprir as condições do beneficio que lhe fora concedido (monitoramento eletrônico), o que efetivamente caracteriza falta grave - tanto por violação às ordens recebidas, quanto por fuga - aproveitando-se da diminuição de vigilância estatal como forma de descumprir a devida execução de sua sanção penal.
+ ..
+No mesmo sentido, mostra-se impositiva a manutenção da decisão que reconheceu a prática de falta grave pelo cometimento de novo delito no curso da execução, apurado no Processo n. 5026955-52.2022.8.21.0001.
+Isso porque é desnecessário o trânsito em julgado de condenação pelo novo delito, para que seja reconhecida a falta, consoante entendimento sumulado pelo e. Superior Tribunal de Justiça:
+ ..
+A simples notícia de que o réu teria se envolvido em crime doloso já é causa suficiente para que seja reconhecida, em sede de execução penal, a prática de falta grave prevista no art. 52 da LEP. Assim, ainda que não tenha havido condenação definitiva em sede judicial, os demais elementos constantes dos autos sustentam a caracterização de falta grave pela prática de novo delito.
+ ..
+Assim sendo, tenho que restou devidamente comprovada a prática de ambas as faltas graves pelo apenado, por infringência ao disposto nos artigos 50, inciso II, e 52, ambos da Lei de Execução Penal, rejeitando as alegações defensivas, razão pela qual imperativa a aplicação dos consectários legais, uma vez que a imposição de sanções no âmbito administrativo e no judicial não se confundem.
+Como corolário da constatação das faltas graves, fica o apenado sujeito à regressão do regime de cumprimento da pena, tal como previsto no artigo 118, inciso I, da LEP, nos exatos termos procedidos pelo juízo da execução. Ainda, a alteração da data-base quando o apenado comete falta grave é medida legal e compatível com a sistemática da Execução Penal.
+A fixação de nova data-base tem por objetivo dificultar a concessão de futuros benefícios ao reeducando, o qual demonstrou não ser merecedor daqueles anteriormente deferidos. Autorizar a imediata concessão de benesses, sem fixar novo marco para a contagem do pressuposto objetivo, seria forma de tolerar conduta não condizente com a finalidade maior da Lei de Execução Penal, a ressocialização do apenada.
+ ..
+Portanto, o apenado que comete falta grave deverá reiniciar a contagem do tempo exigido, mas apenas para a concessão de futura progressão de regime, a partir da última falta, qual seja, 10FEV2022, limitação esta que ora se determina de oficio.
+Ainda, plenamente possível a aplicação do consectário referente à perda de dias remidos, conforme o que dispõe o art. 127 da LEP, sendo inviável qualquer redução no montante eleito (1/3), em virtude da gravidade da conduta do apenado, que além de foragir do sistema penitenciário, permanecendo período considerável nesta condição, se envolveu na prática de novo delito no curso da execução.
+ ..
+Assim, com razão o nobre parecerista, com cujo parecer estou de acordo, quando destacou que, para alterar a conclusão do acórdão impugnado, e, assim, entender pela ausência de provas suficientes da prática de falta grave, imperiosa a aprofundada incursão no acervo fático-probatório dos autos, providência que não se coaduna com os limites cognitivos do habeas corpus, que não comporta dilação probatória (fl. 113 - grifo nosso).
+A propósito, nos termos da jurisprudência desta Corte, rever o entendimento do eg. Tribunal a quo, para afastar a falta grave imputada ao paciente, demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via do habeas corpus (HC n. 729.524/RS, Ministro Jesuíno Rissato (Desembargador convocado), Quinta Turma, DJe 3/5/2022). E, mais: AgRg no HC n. 821.526/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/6/2023.
+Ante o exposto, à vista do parecer e dos precedentes, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ROMPIMENTO DE TORNOZELEIRA, FUGA E PRÁTICA DE NOVO CRIME. ABSOLVIÇÃO. TESE QUE PRETENDE DISCUTIR PROVAS. NÍTIDO REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. PARECER ACOLHIDO.
+Habeas corpus não conhecido.
