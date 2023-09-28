@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo interposto por NEUSA BOMFIM CIACCIO DENKER, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de NEUSA BOMFIM CIACCIO DENKER, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+Registre-se que o documento de fl. 376 não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barras.
+Este Superior Tribunal de Justiça consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+Antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil, a parte juntou o documento que demonstra apenas o pagamento de forma simples (fl. 367).
+Outrossim, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, apresentou recurso contra a certidão de saneamento de óbices.
+Convém esclarecer, que ao caso, aplica-se, por analogia, o entendimento previsto no art. 1.001 do CPC, em que a certidão é irrecorrível, uma vez que não possui conteúdo decisório (Nesse sentido, mutatis mutandis: AgInt nos EDcl na PET nos EAREsp 1209653/SP, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 06/11/2019, DJe 11/11/2019; AgInt na PET na PET no AgInt nos EDcl no RE nos EDcl nos EDcl no MS 20.443/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 22/10/2019, DJe 28/10/2019).
+Portanto, não conheço da irresignação, uma vez que manifestamente incabível.
+Esclareça que o recurso manifestamente incabível não interrompe o prazo para a regularização do vício apontado.
+Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso não foi devida e oportunamente regularizado.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno. Nesse sentido: AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Caso exista n os autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
