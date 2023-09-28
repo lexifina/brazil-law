@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por DERSA - DESENVOLVIMENTO RODOVIARIO S/A - EM LIQUIDACAO EM LIQUIDACAO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - Ação buscando a conversão da obrigação de fazer em perdas e danos "Programa de Compensação Social e Reassentamento" firmado entre as partes - Pretensão da DERSA em denunciar a CDHU à lide Descabimento - Não configurada hipótese prevista no art. 125 do CPC - Ampliação indevida da discussão em desfavor do autor, ora agravante - Reforma da r. decisão - Recurso provido.
+Quanto à controvérsia recursal, a parte recorrente alega violação do artigo 125, II, do Código de Processo Civil, no que concerne ao cabimento da denunciação à lide em razão da responsabilidade exclusiva da CDHU na entrega de unidade habitacional requerida pelo recorrido, conforme termos previstos no Convênio 173/2009 firmado entre a DERSA e a CDHU. E traz a seguinte argumentação:
+Primeiramente, esclarece-se que a DERSA firmou o Convênio nº 173/2009 com a CDHU, por meio da qual assumiu a exclusiva responsabilidade em viabilizar moradias provisórias e pagamento de auxílio aluguel às famílias atingidas pelas obras do Rodoanel Sul, até que a alocação destas famílias em moradias definitivas.
+Relembre-se que o Recorrido era ocupante irregular de área utilizada para a implantação do empreendimento rodoviário, e, por não possuir título de propriedade, foi cadastrado no Plano de Compensação Social e Reassentamento da Dersa;
+assim, aceitou por livre e espontânea vontade as disposições do Termo de Compromisso, dente as quais o recebimento de Unidade Habitacional, sem prazo de entrega e valor estipulado.
+E assim ocorreu. A DERSA efetuou todos os trâmites necessários para cadastramento do Recorrido para o recebimento dessa Unidade Habitacional no Programa de Reassentamento, cumprindo fielmente sua obrigação.
+Nos termos do Convênio nº 173/2009 firmado entre a DERSA e a CDHU, foram expressamente pactuadas as atribuições e responsabilidades da CDHU, que se obrigou a conferir unidades habitacionais às famílias que não dispõem de título de propriedade dos imóveis localizados nas áreas que serão desapropriadas.
+ ..
+Verifica-se que é responsabilidade da CDHI o atendimento às famílias, cabendo à DERSA apenas indicar as famílias a serem atendidas pela CDHU, confira-se:
+ ..
+Como se vê as cláusulas livremente pactuadas entre a DERSA e a CDHU são de uma clareza meridiana e corroboram pela completa ilegitimidade passiva da DERSA, especificamente porque a única responsável pelo pagamento do benefício e entrega das Unidades Habitacionais é a CDHU, motivo pelo qual deveria ter sido mantida a denunciação à lide deferida pelo MM. Juízo singular, sob pena de violação do artigo 125, II, do Código de Processo Civil.
+Tudo isso comprova e corrobora a necessidade de reforma do v.
+acórdão para que seja deferida a denunciação à lide, sob pena de afronta ao artigo 125, II, do Código de Processo Civil, para figurar no polo passivo da demanda, a CDHU - Companhia de Desenvolvimento Habitacional Urbano, considerando os termos do Convênio nº 173/2009 firmado entre a DERSA e a CDHU, que estabelece as obrigações pela entrega das unidades habitacionais às famílias.
+Verifica-se que a CDHU assumiu o ônus de efetuar o pagamento do auxílio aluguel de moradia, bem como de proceder pela liberação da carta de crédito e, por consequência. Conclui-se que a CDHU é diretamente responsável pelos pagamentos em comento, deveria fazer parte do litígio, eis que se enquadra na hipótese do artigo 125, II do CPC e evitaria, principalmente, o prejuízo ao erário público (fls. 62/64).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Isso porque o convênio celebrado entre a DERSA e a CDHU previu a responsabilidade daquela pelos repasses de verbas decorrentes de auxílio aluguel a serem pagos aos expropriados e, ainda, dos valores dos imóveis a serem doados pela CDHU aos expropriados, conforme consta na Cláusula Quinta, itens IV e VI:
+ ..
+Sob este prisma, como a responsabilidade pelos pagamentos era mesmo da DERSA, não há direito regressivo a ser perseguido em face da CDHU, o que afasta a incidência do artigo 125, inciso II, do CPC (fls. 35/36).
+Conforme se vê, o v. aresto fundamentadamente afastou o cabimento da denunciação à lide, em virtude da previsão contratual que excluiu o direito regressivo em face da CDHU (fl. 49).
+Aplicável, portanto, os óbices das Súm ulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
