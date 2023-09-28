@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  pelo  MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO  contra  o  acórdão  prolatado  pelo  Tribunal de Justiça de referida Unidade Federativa que, por unanimidade, deu provimento ao recurso defensivo para absolver o recorrido da acusação que se lhe fez, nos termos do art. 386, inc. III, do CPP, julgando, ainda, prejudicado o recurso do Ministério Público (fls. 196-200).
+O Parquet  interpôs  recurso  especial,  com  fulcro  no  art.  105,  inciso  III,  alínea  a ,  da  Constituição  da  República,  alegando  contrariedade  e negativa de vigência  ao  art.  155  do  CP,  "pela aplicação do princípio da insignificância, em relação a bem (ferramentas utilizadas como instrumentos de trabalho da vítima) avaliados em R$ 370,00 (aproximadamente 30% do salário mínimo vigente), e a réu que ostenta passagens anteriores, tratando-se inclusive, de REINCIDENTE ESPECÍFICO por furto cometido em 2018, conforme certidão de objeto e pé de fs. 20"  (fls.  215-216). Aduz "que o fato de os bens terem sido recuperados não afasta a tipicidade da conduta, nem enseja, por si só, a incidência do princípio bagatelar" (fl. 225). Pleiteou,  ao  final,  pelo  provimento  do  recurso  "para a cassação do v. acórdão de fls. 197/201, com restabelecimento da r. sentença de fls. 143/147, impondo-se regime inicial de cumprimento no semiaberto, nos moldes do requerido em apelação Ministerial e em atenção à Súmula 269/STJ"  (fl.  228).
+Apresentadas  as  contrarrazões  (fls.  239-245),  o  recurso  especial  foi  admitido  na  origem  e  encaminhado  a  esta  Corte  Superior  de  Justiça  (fl.  252).
+O  Ministério  Público  Federal  se manifestou no sentido do provimento do  recurso  especial  (fls.  265-266).
+Petição da defesa juntando a certidão de óbito do recorrido e postulando a extinção da punibilidade (fls. 268-270).
+O  Ministério  Público  Federal  se manifestou no sentido da extinção da punibilidade (fl. 278)
+É  o  relatório. Decido.
+Ante  a  comprovação  do  óbito  do  réu  -  Certidão  de  Óbito  de  fl.  269  -,  e  considerando a  manifestação  do  Ministério  Público  Federal  (fl. 278),  declaro  extinta  a  punibilidade  do  agente,  com  fundamento  no  art.  107,  inc.  I,  do  Código  Penal.
+Ante  o  exposto,  com  fulcro  no  art.  255,  §  4º,  inc.  I,  do  RISTJ,  julgo  extinta  a  pretensão  punitiva  do  Estado  em  decorrência  da  morte  do  recorrente,  restando  prejudicado  o  presente  recurso  especial.
+Publique-se.  Intime-se .
+EMENTA
+PENAL.  RECURSO  ESPECIAL.  CERTIDÃO  DE  ÓBITO  CERTIFICANDO  A  MORTE  DO  RECORRENTE.  RECURSO  PREJUDICADO,  POR  PERDA  DO  SEU  OBJETO.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
