@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de DENILDO DE ANDRADE DA MATTA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO nos autos n. 0000079-36.2021.8.08.0004.
+Observa-se que o paciente foi preso em flagrante em 24/1/2021, convertido em preventiva, e posteriormente pronunciado pela suposta prática do crime previsto no art. 121, § 2º, II e IV, do Código Penal (homicídio qualificado).
+Contra a pronúncia, a defesa interpôs recurso em sentido estrito, que até a presente data está pendente de julgamento.
+No presente writ, o impetrante sustenta a existência de excesso de prazo no julgamento do recurso em sentido estrito. Afirma que já se passou quase 1 ano da sentença de pronúncia e o recurso não teve nenhum andamento. Indica ofensa ao princípio da razoabilidade.
+Nega a prática delitiva e indica que o paciente conta com condições pessoais favoráveis.
+Requer, em liminar e no mérito, o relaxamento da prisão preventiva do paciente, ou a concessão da liberdade provisória. Subsidiariamente pugna pela determinação de imediato julgamento do Recurso em Sentido Estrito.
+Indeferido o pedido liminar (fls. 31/32), as informações foram prestadas (fls. 40/46), e o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem (fls. 48/51).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente writ, o relaxamento da prisão preventiva em razão do excesso de prazo no julgamento do Recurso em Sentido Estrito.
+Com efeito, esta Corte Superior tem o entendimento de que, somente configura constrangimento ilegal por excesso de prazo no julgamento de recursos, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+Verifica-se, das informações prestadas (fls. 40/46) complementadas por consulta ao site do Tribunal de origem, que o fato foi praticado em 24/1/2021, a denúncia foi recebida em 5/2/2021 e o réu foi pronunciado em 15/12/2021 em razão da prática do crime tipificado no art. 121, § 2º , incisos II e IV, do Código Penal, ocasião em que a prisão preventiva foi mantida (fl. 25).
+A defesa, então, interpôs recurso em sentido estrito, que aportou ao Tribunal de origem em 17/10/2022, tendo sido redistribuído por prevenção em 13/10/2022.
+Em 24/3/2023 a defesa apresentou petição pleiteando a revogação da prisão preventiva do paciente, que foi indeferida em Desembargador Relator do feito em 8/5/2023 (fls. 43/45), após o que o feito foi concluso para julgamento.
+Na hipótese, por ora, não restou caracterizada a existência de mora na tramitação do recurso que justifique o relaxamento da prisão preventiva, não havendo, pois, falar em desídia do Judiciário.
+Em hipóteses análogas, assim se posicionou esta Corte Superior:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. OCULTAÇÃO DE CADÁVER E FRAUDE PROCESSUAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. SÚMULA N. 21/STJ. RECURSO EM SENTIDO ESTRITO. MARCHA REGULAR. ILEGALIDADE. AUSÊNCIA.
+1. O excesso de prazo não resulta de mero critério matemático, mas de uma ponderação do julgador, observando os princípios da razoabilidade e proporcionalidade, levando em consideração as peculiaridades do caso concreto, a evitar o retardamento injustificado da prestação jurisdicional.
+2. Conforme a jurisprudência desta Corte, "Proferida decisão de pronúncia, esvaziada está a alegação de excesso de prazo para a formação da culpa, nos moldes do que disciplina o enunciado n. 21 da Súmula desta Casa" (AgRg no HC n. 776.255/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+3. Não se verifica manifesta ilegalidade por excesso de prazo para o julgamento do recurso em sentido estrito, pois este esteve em constante movimentação, apesar de ter sido necessária a nomeação de defensor dativo para a corré, tendo em vista que o paciente, preso desde 4/7/2020, foi pronunciado em 10/3/2022 e interpôs o recurso em 17/5/2022, abrindo-se vista ao Ministério para contrarrazões em 29/3/2023, as quais foram juntadas aos autos em 3/4/2023, não se verificando desídia por parte do Estado.
+4. Agravo regimental improvido.
+(AgRg no HC n. 788.717/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO EM SENTIDO ESTRITO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO, COM RECOMENDAÇÃO.
+1. O retardo injustificado à prestação jurisdicional viola o Princípio da Duração Razoável do Processo, previsto no art. 5.º, inciso LXXVIII, da Constituição da República, acrescido pela Emenda Constitucional n. 45/2004 ("a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação"), sendo certo, ainda, que somente se cogita da existência de constrangimento ilegal quando o excesso de prazo for motivado pelo descaso injustificado do órgão jurisdicional, o que não se verifica na hipótese em tela.
+2. Com efeito, extrai-se dos autos que, em primeira instância, foi protocolizada a petição de recurso em sentido estrito contra a decisão de pronúncia no dia 24/03/2021. Após a realização de diversos atos processuais, e apresentadas as contrarrazões pelo Ministério Público, o Juízo singular proferiu decisão em 08/07/2021 mantendo a decisão de pronúncia. Na sequência, houve realização de novos atos processuais, incluindo o desmembramento do feito, sendo os autos posteriormente remetidos ao Tribunal a quo.
+3. Na Corte de origem, o recurso em sentido estrito foi cadastrado no dia 01/12/2021, sendo os autos remetidos em diligência para a Procuradoria-Geral de Justiça, em 06/12/2021. Em 11/01/2022, foi determinada a redistribuição do recurso por prevenção. Assim, em 15/02/2022, o feito foi recebido por outro Órgão Julgador do Tribunal a quo, estando os autos, no momento, aguardando juntada de petição, conforme movimentação do dia 16/02/2022.
+4. Nesse contexto, não se evidencia, por ora, a existência de desídia estatal e injustificada do aparelho judiciário na condução do feito, notadamente porque o tempo de tramitação processual do recurso em sentido estrito perante a Corte a quo não transborda os limites da razoabilidade.
+5. Agravo regimental desprovido, com recomendação.
+(AgRg no HC n. 724.884/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/3/2022).
+Nesse contexto, não verifico, por ora, a presença de constrangimento ilegal capaz de justificar o relaxamento da custódia cautelar do paciente.
+Todavia, diante do prazo em que o réu encontra-se custodiado - desde 24/1/2021 - , recomenda-se ao Tribunal de origem que diligencie no sentido de dar maior celeridade ao julgamento do recurso, a fim de se evitar futura configuração de constrangimento ilegal.
+Considerando o julgamento do mérito da impetração, fica superado o pedido de reconsideração do pleito liminar de fls. 55/62.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, denego o presente habeas corpus, recomendando-se ao Tribunal de origem que imprima maior celeridade no julgamento do Recurso em Sentido Estrito.
+Publique-se.
+Intimem-se.
+ EMENTA
