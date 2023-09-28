@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas co rpus, com pedido liminar, impetrado em favor de VICENTE APARECIDO DE MATOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, cuja ementa teve o seguinte teor (fls. 83/84):
+HABEAS CORPUS. ESTELIONATO. PRISÃO PREVENTIVA. REQUISITOS AUTORIZADORES DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL. TESE DE INEXISTÊNCIA DE REPRESENTAÇÃO DA VÍTIMA EM DESCOMPASSO COM A CÓPIA DO INQUÉRITO POLICIAL VINCULADO AO PRESENTE WRIT. PEDIDO DE REVOGAÇÃO DA SEGREGAÇÃO CAUTELAR INVIABILIZADO PELA CONCRETA GRAVIDADE DO DELITO EM INVESTIGAÇÃO. DEMONSTRAÇÃO DA NECESSIDADE DO CÁRCERE PARA A GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. IMPOSSIBILIDADE DE INCIDÊNCIA DE MEDIDAS CAUTELARES DIVERSAS. MEDIDA PROPORCIONAL À CONDUTA INVESTIGADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT DENEGADO.
+I. O habeas corpus é procedimento célere e simplificado, sendo inadmissível a discussão de matéria que demanda a aprofundada análise do conjunto probatório produzido em juízo.
+II. Presente fundamentação idônea e demonstrada a necessidade da prisão para garantia da ordem pública e aplicação da lei penal, a partir da concreta gravidade do delito e da periculosidade do acusado, está ausente o alegado constrangimento ilegal.
+III. É indevida a aplicação de medidas cautelares diversas da prisão quando esta encontra-se justificada na gravidade concreta do delito e na periculosidade do acusado, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+IV. "A preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (STJ, HC 450.322/SP).
+V. "Não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, apena e o regime a serem aplicados" (STJ, AgRg no RHC 167.771/GO).
+Consta dos autos que o paciente foi preso em flagrante, custódia convertida em preventiva, pela suposta prática do delito descrito no art. 171 do Código Penal.
+No presente writ, sustentam os impetrantes, em síntese, que o crime imputado ao paciente somente pode ser instaurado mediante representação da vitima, o que não existe no presente feito, de modo que se revela ilegal a prisão preventiva do paciente.
+Aduzem que "a presente ocorrência aconteceu sem vitima , somente prenderam o paciente por suspeita de praticarem o crime de estelionato da modalidade de "conto do bilhete premiado", mas sem vitima nenhuma" (fl. 4).
+Asseveram que "a pena para o estelionato na modalidade tentado, certamente ficará ABAIXO dos 4 an os, o que significa o NÃO CABIMENTO DA PRISÃO PREVENTIVA" (fl. 10)
+Requerem a concessão da ordem, liminarmente e no mérito, para anular o auto de prisão em flagrante e determinar a expedição de alvará de soltura em favor do paciente ou que sejam aplicadas medidas cautelares diversas da prisão.
+A liminar foi deferida para substituir a prisão do paciente por medidas cautelares previstas no art. 319 do CPP. Prestadas informações, o Ministério Público Federal se manifestou pela prejudicialidade do writ.
+Em conformidade com informações prestadas às fls. 648/650, "no dia 19.09.2023, houve a homologação do arquivamento dos autos de Inquérito Policial, formulado pelo representante do Ministério Público, ante a ausência de condição de procedibilidade para o exercício da ação penal e falta de justa causa, com fundamento no artigo 395, incisos II e III, do Código de Processo Penal" (fl. 649), expedindo-se, na sequência, o alvará de soltura.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
