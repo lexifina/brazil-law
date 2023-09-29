@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por ASSOCIACAO DOS ADVOGADOS DO BANCO DO BRASIL - ASABB, contra decisão que não admitiu recurso especial (fls. 927/928, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 672, e-STJ):
+EMBARGOS DO DEVEDOR - EXECUÇÃO - CÉDULA DE CRÉDITO BANCÁRIO - TÍTULO LÍQUIDO, CERTO E EXIGÍVEL - LEI Nº 10.931/04, ART. 28 - ALEGAÇÃO DE EXCESSO SEM OBSERVÂNCIA DO ART. 739-A, § 5º, DO CPC - INADMISSIBILIDADE - CAPITAL DE GIRO DE EMPRESÁRIO - CÓDIGO DE DEFESA DO CONSUMIDOR INAPLICÁVEL - ALEGADA COBRANÇA DE CORREÇÃO MONETÁRIA PELA TAXA CDI, TARIFA DE ABERTURA DE CRÉDITO E COMISSÃO FLAT - INOCORRÊNCIA - DESCARACTERIZAÇÃO DA MORA NÃO CONFIGURADA - INCIDÊNCIA PREFERENCIAL, MAS NÃO ABSOLUTA, SOBRE IMÓVEL HIPOTECADO - IMPUGNAÇÃO ERRONEAMENTE PROTOCOLADA NOS AUTOS DA EXECUÇÃO E POSTERIORMENTE JUNTADA AOS EMBARGOS - TEMPESTIVIDADE - RECURSO IMPROVIDO.
+RECURSO DA ASSOCIAÇÃO DOS ADVOGADOS DO BANCO DO BRASIL S/A - AUSÊNCIA DE COMPROVAÇÃO DA ASSOCIAÇÃO DE QUE PATRONOS TITULARES DAS VERBAS SUCUMBENCIAIS SEJAM SEUS ASSOCIADOS - ILEGITIMIDADE - NÃO CONHECIMENTO DO RECURSO.
+Em suas razões de recurso especial (fls. 684/693, e-STJ), a recorrente aponta ofensa aos artigos 21 e 23 da Lei n.º 8.906/94; e 932, parágrafo único, do CPC/15.
+Sustenta, em síntese: (a) possuir legitimidade para realizar a cobrança dos honorários dos advogados empregados do Banco do Brasil; e que, (b) antes de considerar inadmissível o recurso, o relator deve conceder o prazo de cinco dias à associação para que seja sanado vício ou complementada a documentação exigível.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas e, ademais, haveria incidência da Súmula 7/STJ; e (ii) quanto ao dissídio, verificou-se a ausência de similitude fática.
+Daí o presente agravo (art. 1042 do CPC/15) de fls. 950/958, e-STJ, buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, quanto à alegada ofensa ao artigo 932, parágrafo único, do CPC/15, - relativamente à tese de que, antes de considerar inadmissível o recurso, o relator deve conceder o prazo de cinco dias à associação para que seja sanado vício ou complementada a documentação exigível - depreende-se dos autos que o conteúdo normativo de tal dispositivo; não foi analisado pelo Tribunal local, carecendo de prequestionamento, tampouco foram opostos embargos de declaração a fim de suscitar a discussão do tema nele contido, razão pela qual incide, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+Sobre o tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AÇÃO CIVIL PÚBLICA. CUMULAÇÃO DE CONDENAÇÕES. OBRIGAÇÃO DE FAZER E DE INDENIZAR. POSSIBILIDADE. PRECEDENTES. COMODATO VERBAL. OCUPAÇÃO PRECÁRIA. FUNDAMENTOS BASILARES DO ACÓRDÃO RECORRIDO INATACADOS. SÚMULA 283/STF. 1. Inexistindo, na Corte de origem, efetivo debate sobre a tese jurídica veiculada nas razões do recurso especial, resta descumprido o requisito do prequestionamento, conforme dispõe a Súmula 282/STF. (..) 4. Agravo Regimental a que se nega provimento. (AgRg no AREsp 482.717/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/03/2016, DJe 29/03/2016)
+2. Na espécie, a Corte local concluiu, com base nos elementos fáticos dos autos, que a associação, ora agravante, não demonstrou a sua legitimidade para postular em juízo em nome dos advogados do Banco do Brasil.
+É o que se extrai do seguinte trecho do acórdão recorrido (fl. 674, e-STJ):
+Entrementes, não se reconhece legitimidade da associação para representar os interesses dos patronos titulares das verbas de sucumbência, sem demonstração de que sejam seus associados.
+Nesse sentido há precedentes desta Corte, inclusive da Câmara: Embargos de Declaração Cível nº 1018055-23.2018.8.26.0625/50001, da Comarca de Taubaté, Rel. Des. Roberto Mac Cracken, j. 31.03.2020; Apelação Cível nº 1098168-84.2018.8.26.0100, da Comarca de São Paulo, 18ª Câmara de Direito Privado, Rel. Des. Helio Faria, j. 18.06.2020; Agravo de Instrumento nº 2005378-39.2019.8.26.0000, de Santa Bárbara D"Oeste, 2ª Câmara Reservada de Direito Empresarial, Rel. Des. Ricardo Negrão; j. 04/04/2014; Agravo de Instrumento 2110665-88.2019.8.26.0000, de São Paulo, 13ª Câmara de Direito Privado, Rel. Des. Ana de Lourdes Coutinho Silva da Fonseca, j. 23.07.2019; Agravo de Instrumento 2241092-47.2017.8.26.0000, de São Paulo, 20ª Câmara de Direito Privado, Rel. Des. Álvaro Torres Júnior, j. 07.05.2018.
+Acolho, pois, a preliminar de ilegitimidade ativa suscitada na resposta (fls. 484/487).
+Assim, reexaminar o entendimento da instância inferior demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Nesse sentido: REsp 2070955/SP, Relatora Ministra MARIA ISABEL GALLOTTI, data da publicação 28/08/2023; AREsp 2338517/SP, Relator Ministro SÉRGIO KUKINA, data da publicação 02/08/2023; e AREsp 1858786/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, data da publicação 30/08/2022.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
