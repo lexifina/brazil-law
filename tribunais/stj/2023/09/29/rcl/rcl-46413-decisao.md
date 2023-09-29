@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de reclamação apresentada por KARINE COSTA DE ARAÚJO, contra decisão proferida pelo Tribunal de Justiça do Estado da Paraíba.
+Aduz que interposto agravo em recurso especial em face de decisão que negou seguimento ao recurso especial, o Presidente do Tribunal de Justiça do Estado da PAraíba proferiu decisão não conhecendo do agravo, ocorrendo, assim, a usurpação de competência deste Superior Tribunal de Justiça,
+Requer a procedência da presente reclamação, com o fito de determinar a remessa dos autos ao Superior Tribunal de Justiça para admissibilidade do agravo em recurso especial. Pugna pela concessão de medida liminar.
+É o relatório. Decido.
+A presente reclamação não é cognoscível.
+A decisão reclamada assim consignou quanto ao não conhecimento do agravo em recurso especial:
+Por conseguinte, não há motivos para se desprezar tal entendimento quando o recurso aviado objetiva alçar recurso especial ao STJ, cujo seguimento foi negado na origem com base em tema de recursos repetitivos.
+De fato, verifica-se que a ora recorrente, inconformada com o que aplicou decisum entendimento firmado em regime de recursos repetitivos, lançou mão de agravo em recurso especial. Com isso, utilizou-se de via manifestamente inadmissível e, destarte, totalmente inapta a possibilitar a transposição do juízo de admissibilidade rumo ao STJ. Por conseguinte, o não conhecimento do recurso é medida impositiva.
+O art. 1.042 do Código de Processo Civil de 2015, que estabelece não ser cabível a interposição de agravo contra a decisão que não admite o recurso especial, quando a matéria, nele discutida, tiver sido decidida pelo Tribunal de origem em conformidade com precedente firmado por esta Corte sob o rito dos recursos repetitivos ou da repercussão geral.
+Desse modo, não se afigura possível a apresentação de qualquer outro recurso a esta Corte Superior contra tal decisão, porque incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em recurso repetitivo ou com repercussão geral reconhecida, sob pena de tornar-se ineficaz o propósito racionalizador da sistemática dos recursos representativos de controvérsia, instituída pela Lei n. 11.672/2008.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA O CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3. Não se configura ofensa ao art. 535 do CPC/73 quando o Tribunal de origem, embora rejeite os embargos de declaração opostos, manifesta-se acerca de todas as questões devolvidas com o recurso e consideradas necessárias à solução da controvérsia, sendo desnecessária a manifestação pontual sobre todos os artigos de lei indicados como violados pela parte vencida.
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp n. 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/8/2016, DJe 26/8/2016.)  Sem grifos no original .
+Assim, não cabe reclamação em face de decisão proferida pelo Tribunal de origem que não conhece o agravo em recurso especial manifestamente incabível.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STJ. NÃO CARACTERIZAÇÃO.
+1. É da competência desta Corte Superior o exame da admissibilidade do agravo em recurso especial quando intentado contra a decisão da instância ordinária que inadmite o recurso especial por outros fundamentos que não os previstos nos incisos I e III do artigo 1.030 do CPC, ex vi do disposto nos §§ 1º e 2º do aludido dispositivo legal.
+2. Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, razão pela qual não se admite o manejo da via reclamatória.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt na Rcl n. 42.266/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 15/3/2022, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. SUPERIOR TRIBUNAL DE JUSTIÇA. HIPÓTESES DE CABIMENTO. AUSÊNCIA. PEDIDO IMPROCEDENTE. AGRAVO INTERNO DESPROVIDO.
+1. Este agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Já se decidiu no Superior Tribunal de Justiça ser manifestamente inadmissível a reclamação constitucional manejada em face de decisão que não conheceu de agravo em recurso especial movido contra acórdão de Tribunal local que, promovendo o juízo de adequação previsto no rito dos recursos repetitivos (art. 1.040, I, do CPC;
+art. 543-C, § 7º, I, do CPC/1973), nega seguimento a recurso especial ao constatar que o aresto recorrido coincide com a orientação consolidada por esta Corte sob o rito singular (AgInt na Rcl 34.672, Ministro LÁZARO GUIMARÃES, Desembargador Convocado do TRF/5ª Região, DJe de 27/11/2017).
+3. Também aqui ficou assentado ser possível a interposição de mais de um recurso, na hipótese de existência de outros fundamentos além da questão do repetitivo (AgInt na Rcl 39.040, Ministro LUIS FELIPE SALOMÃO, DJe de 26/5/2020).
+4. Caso em que se alegou ter a Corte local invadido a competência do Superior Tribunal de Justiça, quando não conheceu de agravo em recurso especial interposto contra decisão que não admitiu o apelo nobre com base em recurso repetitivo, cujo pedido foi julgado improcedente.
+5. Agravo interno que não trouxe argumentos bastantes e suficientes para infirmar os fundamentos da decisão agravada que concluiu não ser cabível a reclamação, sendo, portanto, improcedente.
+6. Agravo interno desprovido.
+(AgInt na Rcl n. 39.287/SP, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 18/8/2020, DJe de 21/8/2020.)
+Ante o exposto, com base no art. 34, XVIII, do RISTJ, não conheço da reclamação, prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
