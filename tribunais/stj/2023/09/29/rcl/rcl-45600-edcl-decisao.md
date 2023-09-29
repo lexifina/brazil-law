@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  pelo ESTADO DE MATO GROSSO DO SUL contra a decisão em que deferi a medida liminar pleiteada para suspender os efeitos da decisão reclamada até o julgamento final da presente reclamação.
+Em suas razões recursais, a parte embargante afirma, em resumo, que a decisão publicada no RE 1.366.243, Tema 1234, pelo STF, "determinou a suspensão dos processos em que se debate a competência para julgamento de ações em que se requer o fornecimento de medicamentos com registro na ANVISA ainda não incorporados ao SUS" (fls. 135/136).
+Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  com  efeitos  infringentes, para determinar a devolução dos autos à origem "para que seja realizada a análise do recurso à luz do RE 1.366.243 (Tema 1234), Rel. Ministro Gilmar Mendes, sob a metodologia prevista nos artigos 1030, II e 1040, II, do CPC" (fl. 137).
+Não foi apresentada impugnação (fl. 178).
+  É o relatório.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+A decisão embargada foi clara, fundamentada e coerente acerca do decidido pelo Supremo Tribunal Federal, no deferimento parcial da cautelar requerida nos autos do RE 1.366.243/SC, vinculado ao Tema 1234/STF. Segundo os parâmetros estabelecidos naquela oportunidade, a determinação de suspensão nacional dos processos limita-se àqueles em fase de recurso especial ou extraordinário, senão vejamos (fl. 124):
+ ..
+A respeito do tema aqui tratado, destaco que, em 17/4/2023, nos autos do RE 1.366.243/SC, submetido ao regime de repercussão geral (Tema 1.234), o STF, ao apreciar pedido de tutela provisória incidental, deferiu parcialmente a cautelar para estabelecer a adoção dos seguintes parâmetros até o julgamento definitivo da questão, nos seguintes termos:
+Ante o exposto, defiro em parte o pedido incidental de tutela provisória formulado pelo CONPEG, com fundamento no art. 300 do Código de Processo Civil, para estabelecer que, até o julgamento definitivo do Tema 1234 da Repercussão Geral, a atuação do Poder Judiciário seja regida pelos seguintes parâmetros:
+(i) nas demandas judiciais envolvendo medicamentos ou tratamentos padronizados: a composição do polo passivo deve observar a repartição de responsabilidades estruturada no Sistema Único de Saúde, ainda que isso implique deslocamento de competência, cabendo ao magistrado verificar a correta formação da relação processual, sem prejuízo da concessão de provimento de natureza cautelar ainda que antes do deslocamento de competência, se o caso assim exigir;
+(ii) nas demandas judiciais relativas a medicamentos não incorporados: devem ser processadas e julgadas pelo Juízo, estadual ou federal, ao qual foram direcionadas pelo cidadão, sendo vedada, até o julgamento definitivo do Tema 1234 da Repercussão Geral, a declinação da competência ou determinação de inclusão da União no polo passivo;
+(iii) diante da necessidade de evitar cenário de insegurança jurídica, esses parâmetros devem ser observados pelos processos sem sentença prolatada; diferentemente, os processos com sentença prolatada até a data desta decisão (17 de abril de 2023) devem permanecer no ramo da Justiça do magistrado sentenciante até o trânsito em julgado e respectiva execução (adotei essa regra de julgamento em: RE 960429 ED-segundos Tema 992, de minha relatoria, DJe de 5.2.2021);
+(iv) ficam mantidas as demais determinações contidas na decisão de suspensão nacional de processos na fase de recursos especial e extraordinário. (RE n. 1.366.243 TPI/SC, relator Ministro Gilmar Mendes, decisão confirmada pelo Tribunal Pleno, sessão virtual extraordinária de 18/4/2023, julgado em 19/4/2023, DJe de 25/4/2023.)
+Considerando a decisão da Suprema Corte de que as ações sem sentença prolatada devem ser processadas e julgadas pelo juízo ao qual foram direcionadas pelo cidadão, o processo que deu ensejo à presente reclamação deve permanecer na Justiça estadual.
+Assim, não há omissão a ser corrigida.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
