@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por PQ SILICAS BRAZIL LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 366):
+PRESTAÇÃO DE SERVIÇOS - Vigilância - Ação de cobrança de multa contratual proposta pela contratada - Reconvenção - Sentença de procedência da ação e de improcedência da reconvenção - Apelo da ré - Contratação de ex-empregados da autora não comprovada - Infração contratual pela autora-reconvinda não demonstrada- Ação e reconvenção improcedentes - Apelação provida em parte.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 396-399).
+Nas razões do recurso especial (e-STJ, fls. 421-433), a recorrente apontou violação aos arts. 143 da CLT e 86 do CPC/2015.
+Sustentou, em síntese, que o pedido reconvencional deve ser julgado procedente, tendo em vista que a recorrida deixou de cumprir com as obrigações previstas no contrato firmado entre as partes, referente ao recolhimento de verbas de natureza trabalhista, previdenciária e fiscal, devendo arcar com a multa contratual.
+Pleiteou, ainda, a majoração dos honorários para 15% (quinze por cento), em razão da sucumbência recíproca.
+Não foram apresentadas contrarrazões, conforme certidão juntada à fl. 451 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No tocante à alegada ofensa ao art. 143 da CLT, consta do acórdão recorrido (e-STJ, fl. 371, sem grifo no original):
+A apelante não demonstrou de maneira suficiente que houve descumprimento pela autora a direitos trabalhistas e previdenciários dos empregados que prestavam serviços a ela, apelante.
+As ilicitudes apontadas na notificação extrajudicial de fls. 99/110 (pagamento de horas extras trabalhadas no feriado de 1 de maio e funcionária que trabalhou em período de férias) não foram demonstradas documentalmente, e a prova oral foi genérica no sentido de que tais infrações advieram de reclamações de funcionários, sem, contudo, formalização legal.
+Os documentos juntados pela autora demonstram que houve recolhimento de FGTS, previdência, férias e verbas rescisórias (fls. 129/155), inclusive do adicional de férias referente à empregada Adriana Marisa de Souza (fls. 152/156), que prestou declaração por escrito dando conta de que preferia receber o valor das férias em dinheiro.
+Desse modo, não foi comprovado que a autora descumpriu as obrigações trabalhistas mencionadas na notificação extrajudicial (fls. 34/37) mediante a qual a ré apelante deu por rescindido o contrato.
+A jornada de trabalho exercida pelos funcionários da autora, de acordo com o que consta a fls. 114/128, é de 12 horas trabalhadas por 36 horas de folga e está prevista no artigo 59-A da Consolidação das Leis do Trabalho (Art. 59-A. Em exceção ao disposto no art. 59desta Consolidação, é facultado às partes, mediante acordo individual escrito, convenção coletiva ou acordo coletivo de trabalho, estabelecer horário de trabalho de doze horas seguidas por trinta e seis horas ininterruptas de descanso, observados ou indenizados os intervalos para repouso e alimentação), não havendo indício de irregularidade a ausência de remuneração como hora-extra o feriado eventualmente trabalhado nessas circunstâncias.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Em relação à revisão dos honorários sucumbenciais, convém ressaltar que, de acordo com a orientação deste Tribunal de Uniformização, em virtude do quantitativo da verba honorária decorrer de uma análise específica dos fatos ocorridos durante a marcha processual, na qual o julgador avalia o trabalho desenvolvido pelo patrono e a complexidade da causa, a fim de fixar o percentual que considera correto, não cabe ao Superior Tribunal de Justiça revisar a quantia estabelecida, exceto quando constatada sua manifesta insignificância ou excessividade apta a afastar o óbice da Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃOMONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.(..)
+3. Rever as conclusões da Corte de origem, acerca do montante arbitrado a título de honorários sucumbenciais e distribuição da sucumbência, encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no REsp n. 1.961.902/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de13/5/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUALCIVIL. INDENIZAÇÃO. INSCRIÇÃO. CADASTRO. RESTRITIVO. CULPACONCORRENTE. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC/2015.INEXISTÊNCIA. REEXAME DE PROVAS. DANOS MORAIS. VALOR. IMPOSSIBLIDADE DEREVISÃO. SÚMULA Nº 7/STJ. SUCUMBÊNCIA. GRAU. MATÉRIA DE FATO. HONORÁRIOSRECURSAIS. MAJORAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2e 3/STJ). ..
+6. A jurisprudência desta Corte é firme no sentido de não se poder revero entendimento exarado na origem, fixado a título de honoráriosde sucumbência, ante o óbice da Súmula nº 7/STJ.(..)
+8. Agravo interno não provido. (AgInt no AREsp 1.514.423/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/3/2020, DJe 19/3/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial interposto por PQ SILICAS BRAZIL LTDA.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor do advogado da parte recorrida para 18% (dezoito por cento) sobre o valor da reconvenção.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RECONVENÇÃO IMPROCEDENTE. OBRIGAÇÕES CONTRATUAIS DE RECOLHIMENTO DE VERBAS TRABALHISTAS, PREVIDENCIÁRIA E FISCAL DEVIDAMENTE CUMP RIDAS PELA AGRAVADA. HONORÁRIOS SUCUMBENCIAIS. REVISÃO.REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL INTERPOSTO POR PQ SILICAS BRAZIL LTDA.
