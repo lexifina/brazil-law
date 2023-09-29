@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto por CAMILA ALMEIDA DA SILVA, ZELIA ALMEIDA DA SILVA, AMAURI DE MELLO ALMEIDA, EDUARDO ALMEIDA DA SILVA, JULIO HILGERT, RICARDO ALMEIDA DA SILVA, ORIETA GOIS ALMEIDA contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. CONTRATOS AGRÁRIOS. AÇÃO DE EXECUÇÃO. DECISÃO QUE ACOLHEU A ALEGAÇÃO DE FRAUDE À EXECUÇÃO. MANUTENÇÃO. ESCRITURA PÚBLICA DE CESSÃO E TRANSFERÊNCIA DE DIREITOS OURTORGADA POSTERIORMENTE AO AJUIZAMENTO DA AÇÃO EXECUTIVA. GRAU DE PARENTESCO ENTRE A EXECUTADA-CEDENTE E TERCEIRA-CESSIONÁRIA QUE DENOTA O CONHECIMENTO DA SUA SITUAÇÃO FINANCEIRA E DA EXISTÊNCIA DA DÍVIDA. PRECEDENTES DESTA CORTE. DECISÃO AGRAVADA MANTIDA. RECURSO DESPROVIDO. UNÂNIME" (fls. 797 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 866-873 e-STJ).
+No recurso especial, os recorrentes alegam dissídio jurisprudencial no que diz respeito à interpretação conferida ao art. 792 do Código de Processo Civil. Sustenta, em síntese, que é necessária a demonstração de má-fé do terceiro adquirente/cessionário para o reconhecimento de fraude à execução.
+Ao final, requer o provimento do recurso especial para afastar a existência de fraude à execução, devido a falta de comprovação da má-fé do cedente da cessionária.
+Apresentadas as contrarrazões (fls. 980-997 e-STJ)., o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal estadual reconheceu má-fé, bem como a fraude à execução, porque a cessão de crédito ocorreu após o ajuizamento da execução.
+É o que se extrai da seguinte passagem do acórdão recorrido:
+"(..)
+Trata-se, em breve síntese, de execução para entrega de coisa certa (254.100,00 kg de soja em grãos) consubstanciada no instrumento particular de confissão de dívida firmado entre as partes (fls. 12/16v).
+A controvérsia posta em debate diz respeito ao reconhecimento, pelo Juízo de origem, de fraude à execução perpetrada pela executada Zélia, face à cessão do crédito decorrente da demanda judicial n.º 011/1.09.0004561-1, no valor de R$ 1.004.503,02 (um milhão, quatro mil quinhentos e três reais e dois centavos).
+Penso que nenhum reparo merece a decisão agravada.
+Primeiramente, incontroverso que a cessão foi levada a efeito em 13/05/2015, conforme instrumento colacionado em fls. 275/276, muito posterior, portanto, à propositura da presente demanda executiva, ocorrida em 17/08/2000.
+Como sabido, a fraude à execução ocorre nas seguintes hipóteses legais:
+(..)
+O voto condutor do precedente, da lavra do Eminente Ministro João Otávio de Noronha, sedimentou o entendimento no sentido de que cabe ao credor provar a má-fé do terceiro adquirente.
+E nesta linha é a redação do verbete da Súmula n.º 375 do Superior Tribunal de Justiça, assim cristalizado:
+"Súmula 375: O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente".
+Na hipótese, como visto, além da cessão ter sido realizada após o ajuizamento da ação executiva e ter tornado o devedor insolvente, há grau de parentesco entre cedente e cessionária - considerando, como bem observado pelo Juízo de origem, que não foi controvertida a alegação.
+E, em razão da proximidade da relação - tão próxima a ponto de ter havido cessão de tamanha quantia - possível concluir que era sabedora da situação econômica de Zélia.
+(..)
+Em sendo assim, entendo que restou devidamente configurada a hipótese prevista no inciso IV, do art. 792, do Código de Processo Civil, sendo de rigor o reconhecimento da fraude à execução perpetrada pela parte ora agravante, nos exatos termos da decisão agravada" (fls. 805-807 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal para afastar a má-fé dos recorrentes, bem como a existência de fraude à execução, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+A propósito:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+3. No caso concreto, o Tribunal de origem concluiu pela inexistência de fraude à execução e de ofensa ao art. 782, § 3º, do CPC/2015.
+Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. (..)
+5. Agravo interno a que se nega provimento" (AgInt nos EDcl no AREsp n. 1.971.054/DF, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/12/2022, DJe de 15/12/2022.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. FALECIMENTO DE EXECUTADO. PROSSEGUIMENTO EM RELAÇÃO AOS DEMAIS. DECISÃO QUE PROMOVE A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. FUNDAMENTAÇÃO. OPORTUNA E ADEQUADA IMPUGNAÇÃO. NECESSIDADE. FRAUDE À EXECUÇÃO. PRONUNCIAMENTO, ATÉ MESMO DE OFÍCIO. POSSIBILIDADE. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. VEDAÇÃO SUMULAR.
+(..)
+5. A utilização do instituto da desconsideração da personalidade jurídica, na vigência do CPC/73, dispensa a prévia citação. Com efeito, verificados os pressupostos de sua incidência, o juiz, no próprio processo, de forma incidental, poderá desconsiderar a personalidade e indicando, especificamente, quais os sócios e/ou administradores que responderiam com seus bens particulares, sempre com o objetivo de impedir a concretização de atos de fraude à lei ou contra terceiros.
+(..)
+7. Recurso especial não provido" (REsp 1.698.102/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/6/2018, DJe de 23/8/2018).
+Demais disso, observa-se que o entendimento da Corte estadual encontra-se em harmonia com a jurisprudência deste Superior Tribunal de Justiça, a exemplo dos seguintes julgados.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AÇÃO DE DESPEJO E COBRANÇA DE ALUGUÉIS. FIADOR. FRAUDE À EXECUÇÃO RECONHECIDA NA ORIGEM. ALIENAÇÃO FRAUDULENTA DE TODOS OS BENS DO DEVEDOR. TRANSFERÊNCIA DE IMÓVEIS À IRMÃ E AO CÔNJUGE EM REGIME DE SEPARAÇÃO TOTAL DE PATRIMÔNIO. "CONCILIUM FRAUDIS" COMPROVADO. IRRELEVÂNCIA DE QUE A TRANSFERÊNCIA DOS BENS TENHA OCORRIDO ANTES DA CITAÇÃO FORMAL DO DEVEDOR. CIÊNCIA DA AÇÃO EM TRÂMITE. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Consoante entendimento desta Corte Superior, considera-se fraude à execução a transferência de bens entre familiares quando, ao tempo da alienação, tramitava contra o devedor alienante demanda capaz de reduzi-lo à insolvência.
+2. A exegese do artigo 792, IV, do CPC/2015 (art. 593, II, do CPC/73), de se fixar a citação como momento a partir do qual poderá configurar-se a fraude à execução, exsurgiu com o nítido objetivo de proteger terceiros adquirentes de boa fé. No caso, não há terceiro de boa-fé a ser protegido, pois os elementos dos autos indicam haver a devedora transferido, de má-fé, todo o patrimônio à sua irmã e ao seu cônjuge, em regime de separação total de bens, quando já tinham ciência da demanda capaz de reduzi-la à insolvência.
+3. Assim, à vista das peculiaridades do caso concreto, bem delineadas na decisão do Juízo a quo, deve ser confirmada a decretação da fraude à execução, mesmo que o ato da transferência dos bens tenha ocorrido antes da citação formal da devedora no processo de execução.
+4. Agravo interno a que se nega provimento" (AgInt no REsp n. 1.877.279/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022 - grifou-se).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. DAÇÃO EM PAGAMENTO DE IMÓVEL PELO DEVEDOR INSOLVENTE EM FAVOR DE DESCENDENTE MENOR. DESNECESSIDADE DA EXISTÊNCIA DE AVERBAÇÃO DA PENHORA OU DA EXECUÇÃO NA MATRÍCULA DO IMÓVEL OU DE PROVA DA MÁ-FÉ.
+1. Embargos de terceiro opostos em 19/02/2019, dos quais foi extraído o presente recurso especial interposto em 20/07/2021 e concluso ao gabinete em 01/02/2022.
+2. O propósito recursal consiste em definir se a averbação da penhora ou da pendência de ação de execução na matrícula do bem ou a prova da má-fé é requisito imprescindível para a caracterização de fraude à execução na hipótese de transferência de imóvel pelo devedor a seu descendente.
+3. A fraude à execução atua no plano da eficácia, de modo que conduz à ineficácia da alienação ou oneração do bem em relação ao exequente (art. 592, V, do CPC/73; art. 792, § 2º, do CPC/2015).
+4. As hipóteses em que a alienação ou oneração do bem são consideradas fraude à execução podem ser assim sintetizadas: (i) quando sobre o bem pender ação fundada em direito real ou com pretensão reipersecutória; (ii) quando tiver sido averbada, no registro do bem, a pendência do processo de execução; (iii) quando o bem tiver sido objeto de constrição judicial nos autos do processo no qual foi suscitada a fraude; (iv) quando, no momento da alienação ou oneração, tramitava contra o devedor ação capaz de reduzi-lo à insolvência (art. 593 do CPC/73 e art. 792 do CPC/2015).
+5. Esta Corte tem entendimento sedimentado no sentido de que a inscrição da penhora no registro do bem não constitui elemento integrativo do ato, mas sim requisito de eficácia perante terceiros. Precedentes. Por essa razão, o prévio registro da penhora do bem constrito gera presunção absoluta (juris et de jure) de conhecimento para terceiros e, portanto, de fraude à execução caso o bem seja alienado ou onerado após a averbação (art. 659, § 4º, do CPC/73; art. 844 do CPC/2015). Essa presunção também é aplicável à hipótese na qual o credor providenciou a averbação, à margem do registro, da pendência de ação de execução (art. 615-A, § 3º, do CPC/73; art. 828, § 4º, do CPC/2015).
+6. Por outro lado, se o bem se sujeitar a registro e a penhora ou a execução não tiver sido averbada, tal circunstância não obsta, prima facie, o reconhecimento da fraude à execução. Na hipótese, entretanto, caberá ao credor comprovar a má-fé do terceiro; vale dizer, que o adquirente tinha conhecimento acerca da pendência do processo. Essa orientação é consolidada na jurisprudência deste Tribunal Superior e está cristalizada na Súmula 375 do STJ e no julgamento do Tema 243.
+7. Entretanto, essa proteção não se justifica quando o devedor procura blindar seu patrimônio dentro da própria família mediante a transferência de bem para seu descendente, sobretudo menor, com objetivo de fraudar execução já em curso. Nessas situações, não há importância em indagar se o descendente conhecia ou não a penhora sobre o imóvel ou se estava ou não de má fé. Isso porque o destaque é a má-fé do devedor que procura blindar seu patrimônio dentro da própria família.
+8. Recurso especial conhecido e parcialmente provido" (REsp n. 1.981.646/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/8/2022, DJe de 5/8/2022 - grifou-se).
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CHEQUE. FRAUDE À EXECUÇÃO CONFIGURADA. TRANSFERÊNCIA DE BENS DE ASCENDENTE PARA DESCENDENTE. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, considera-se fraude à execução a transferência de bens de ascendente para descendente quando, ao tempo da doação, tramitava contra o devedor alienante demanda capaz de reduzi-lo à insolvência.
+2. A exegese do artigo 792, IV, do CPC/2015 (art. 593, II, do CPC/73), de se fixar a citação como momento a partir do qual estaria configurada a fraude de execução, exsurgiu com o nítido objetivo de proteger terceiros adquirentes de boa fé. No caso, não há terceiro de boa-fé a ser protegido, havendo elementos nos autos a indicar que a devedora doou intencionalmente e de má-fé todo o patrimônio ao próprio filho, quando ambos já tinham ciência da demanda capaz de reduzi-la à insolvência.
+3. Assim, à vista das peculiaridades do caso concreto, bem delineadas na decisão do Juízo a quo, deve ser confirmada a decretação da fraude à execução, mesmo que o ato da transferência dos bens tenha ocorrido antes da citação formal da devedora no processo de execução.
+4. Agravo interno a que se nega provimento" (AgInt no REsp n. 1.885.750/AM, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/4/2021, DJe de 28/4/2021).
+Portanto, o entendimento do acórdão atacado encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça o que que faz atrair, nesse ponto, o óbice da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa parte, negar-lhe provimento.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
