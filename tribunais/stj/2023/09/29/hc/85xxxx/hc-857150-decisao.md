@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra decisão monocrática que não conheceu da impetração originária.
+Consta dos autos que o paciente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão e 583 dias-multa, e no art. 16, § 1º, inciso IV, da Lei n. 10.826/2003, à pena de 3 anos de reclusão e 10 dias-multa, em concurso material, em regime inicial fechado.
+Foram interpostos recursos de apelação, tendo a Corte de origem dado parcial provimento ao apelo defensivo para reduzir a pena do delito de tráfico de drogas para 5 anos de reclusão e 500 dias-multa, mantendo-se, no mais, os termos da sentença.
+No presente writ, a defesa alega que deve ser aplicada a minorante prevista no art. 33, § 4º, da Lei 11.343/2006 e fixado o regime semiaberto. Argumenta que, conforme decidido pela Sexta Turma do STJ no HC 596.603/SP, deve ser estabelecido o regime aberto a todas as pessoas condenadas no estado por tráfico privilegiado.
+Pleiteia a extensão dos efeitos da decisão proferida no HC coletivo n. 596.603, no sentido de proibir o regime fechado assegurar a presos enquadrados no parágrafo 4º do artigo 33 da Lei n. 11.343/2006.
+Requer, liminarmente, que o paciente possa aguardar em liberdade o julgamento definitivo do presente habeas corpus. No mérito, o reconhecimento do tráfico privilegiado e a fixação de regime prisional mais brando.
+Conforme adiantado, o presente mandamus se volta contra decisão monocrática do relator que deixou de conhecer da impetração originária.
+A competência do STJ é inaugurada, nos termos do art. 105, I, "c", da CF, com o esgotamento da instância ordinária, o que não ocorreu no caso, porquanto não interposto agravo regimental para submissão da decisão monocrática ao colegiado competente, não sendo cabível a inauguração, per saltum, de irresignação junto a Tribunal Superior, suprimindo instância recursal.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe ao Superior Tribunal de Justiça a apreciação do pedido, sob pena de indevida supressão de instância. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FORMAÇÃO DE QUADRILHA, CORRUPÇÃO ATIVA E INSERÇÃO DE DADOS FALSOS EM SISTEMAS DE INFORMAÇÃO. IMPETRAÇÃO MANEJADA CONTRA DECISÃO MONOCRÁTICA NÃO RESOLUTIVA DE MÉRITO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. QUESTÃO DE FUNDO AINDA NÃO APRECIADA DEFINITIVAMENTE EM SEGUNDO GRAU. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DESTA CORTE EXAMINAR A CONTROVÉRSIA PER SALTUM, AINDA QUE SE TRATE, EVENTUALMENTE, DE QUESTÃO DE ORDEM PÚBLICA. PRETENDIDA CONCESSÃO DA ORDEM EX OFFICIO. PROVIDÊNCIA QUE NÃO PODE SERVIR PARA ULTRAPASSAR A INADMISSIBILIDADE DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se a inicial do habeas corpus é manejada contra decisão singular do Relator no Tribunal de origem, sem a interposição de agravo com a finalidade de obter manifestação do Órgão Colegiado, impõe-se reconhecer a incognoscibilidade da ação mandamental, impetrada antes do exaurimento da instância antecedente.
+2. A Jurisprudência do Superior Tribunal de Justiça "é pacífica no sentido de que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/09/2019, DJe 10/10/2019)" (STJ, AgRg no HC 666.908/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021).
+3. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é concedido por iniciativa dos Tribunais ao identificaram ilegalidade flagrante. Tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 711.980/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
