@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por DOUGLAS DOS ANJOS FREITAS contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, que rejeitou os embargos de declaração, visando à revogação da prisão preventiva (e-STJ fl. 1157).
+Nas razões do recurso especial (e-STJ, fls. 1165/1169), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 619 do CPP, por negativa de prestação jurisdicional, a fim de que a prisão preventiva seja revisada, na forma do artigo 316, parágrafo único, do CPP, e, forte no excesso de prazo na formação definitiva da culpa, por medidas cautelares alternativas substituída (art. 319, CPP).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial , ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se às fls.1305/1313
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Insurge-se o recorrente contra acórdão que rejeitou os embargos de declaração opostos pela defesa, ao fundamento de que não suscitado, nas razões recursais, pedido de revogação da prisão preventiva, constituindo inovação recursal, determinando-se, ao final, fosse oficiado o Juízo de origem para deliberação sobre a manutenção da prisão preventiva, nos termos do art. 316, parágrafo único, do Código de Processo Penal.
+Como se vê do acórdão, a Corte de origem consignou: (i) "não há omissão a ser sanada e, quanto a tal tema, está configurada a inovação recursal, impedindo, inclusive, o conhecimento dos aclaratórios" (e-STJ fl. 1158); (ii) a análise acerca da necessidade de manutenção da segregação preventiva, no termos do art. 316, parágrafo único, do Código de Processo Penal, compete ao juízo ou ao Tribunal que originalmente a decretou (e-STJ fls. 1159).
+Contudo, a parte recorrente, em seu recurso especial, limita-se a alegar "o Tribunal de Apelação não sanou o vício de que padece o acórdão, quanto à omissão devidamente identificada pela defesa técnica, acerca da necessidade de revisão da prisão preventiva", nada falando acerca da inovação recursal, pois a matéria foi deduzida apenas em embargos de declaração. Assim, a falta de impugnação do referido fundamento do acórdão recorrido atrai o óbice da Súmula 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
