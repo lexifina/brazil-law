@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por TRANSCONTINENTAL LOGISTICA S.A. EM RECUPERACAO JUDICIAL e PLINIO FRACCARO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, ao fundamento de deserção (e-STJ, fls. 684-685).
+Nas razões recursais, os recorrentes alegaram que juntamente com a peça recursal fora acostado extrato de recolhimento de custas.
+Asseveraram que (e-STJ, fl. 700) "que o comprovante de pagamento, embora na parte superior tenha constado agendamento, a data do pagamento é para o MESMO DIA, ou seja, dia 14/02/2023, data limite para interposição do apelo especial".
+Defenderam que não foi emitido comprovante imediato de quitação instantânea em razão de procedimento protocolar do sistema.
+Argumentaram que tendo sido devidamente recolhido o preparo dentro do prazo legal, não se justifica o recolhimento em dobro.
+Contrarrazões à fl. 711 (e-STJ).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+O Tribunal de origem consignou haver irregularidade no recolhimento do preparo recursal, determinando a intimação da (e-STJ, fl. 667) "parte recorrente para, no prazo de 05 (cinco) dias, comprovar o recolhimento em dobro, conforme preconiza o §4º do art. 1.007 do Código de Processo Civil, sob pena de deserção".
+Apesar de intimada para saneamento do vício, a parte ora agravante deixou transcorrer in albis o prazo, sendo reconhecida a deserção do recurso interposto conforme decisão de fls. 684-685 (e-STJ).
+Consoante jurisprudência desta Corte é "essencial à comprovação do preparo a juntada da Guia de Recolhimento da União com o respectivo comprovante de pagamento no ato da interposição do recurso especial, sob pena de deserção" (AgInt no AREsp 1.641.953/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 3/9/2020).
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DO PAGAMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO COM RECOLHIMENTO EM DOBRO DAS CUSTAS. NÃO ATENDIMENTO. DESERÇÃO. SÚMULA N. 187 DO STJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO DESPROVIDO.
+1. Na hipótese de não comprovação do recolhimento do preparo no ato de interposição do recurso, o demandante será intimado para efetuá-lo em dobro, sob pena de consolidação da deserção do pleito recursal, conforme estabelece o art. 1.007, caput e § 4º, do CPC.
+2. "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos" (Súmula n. 187 do STJ).
+3. O comprovante de agendamento bancário não é meio apto a comprovar o efetivo recolhimento do preparo.
+4. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.338.054/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. O entendimento sedimentado nesta Corte Superior aponta a necessidade de juntada das guias de recolhimento e dos comprovantes de pagamento, para fins de prova da realização do preparo, no ato de interposição do recurso especial, sob pena de deserção, atraindo a aplicação da Súmula 187/STJ.
+1.1. Intimada a recolher em dobro as custas recursais, a parte limitou-se a infirmar a decisão agravada, sem, contudo, realizar a complementação do preparo, que era devido em dobro, nos termos do art. 1.007, § 4º, do CPC/15.
+1.2. "A juntada de comprovante de agendamento não é meio apto a comprovar que o preparo foi devidamente recolhido (Súmula 187 do STJ), não sendo possível sua juntada posterior, em decorrência da preclusão consumativa". (AgInt nos EDcl no AREsp n. 2.098.989/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 18/11/2022).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.126.505/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Desse modo, considerando que a jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, nos termos do art. 1.007, § 7º, do CPC/2015, ou a efetuar o pagamento em dobro (§ 4º do mesmo artigo), não o faz devidamente, é inafastável a incidência da Súmula n. 187/STJ ao caso.
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. INTIMAÇÃO PARA SANAR VÍCIO REFERENTE AO PREPARO. ART. 1.007, § 7º, DO CPC/2015. NÃO CUMPRIMENTO. DESERÇÃO DO RECURSO ESPECIAL.
+1. Ação de cobrança de seguro obrigatório DPVAT.
+2. Não comprovado devidamente o recolhimento do preparo no ato de interposição do recurso e, intimada para regularizar o vício, a parte recorrente não cumpre a providência determinada, impõe-se a pena de deserção. Precedentes.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para conhecer do agravo interno e negar-lhe provimento.
+(EDcl no AgInt no AREsp 1839604/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DETERMINAÇÃO DE REGULARIZAÇÃO COM RECOLHIMENTO DO PREPARO EM DOBRO. PROVIDÊNCIA NÃO CUMPRIDA. PRECLUSÃO. RECURSO CONSIDERADO DESERTO. INCIDÊNCIA DA SÚMULA 187 DO STJ.
+1. A determinação do § 4º do art. 1.007 do Código de Processo Civil de 2015 é uma obrigação processual da parte. Assim, sendo determinado à parte que realize o pagamento em dobro, cabe a ela fazê-lo ou impugnar a determinação com o recurso apropriado. A juntada de nova petição, sem o cumprimento da determinação de recolhimento em dobro, diante da falha na comprovação do preparo, gera a preclusão para realizar o ato de comprová-lo.
+2. Registre-se que, embora regularmente intimado para sanar o referido vício, o agravante não o fez, limitando-se a trazer o comprovante de pagamento, desacompanhado da guia de recolhimento das custas devidas ao STJ (fls. 204-206, e-STJ).
+3. O Superior Tribunal de Justiça consolidou o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no AREsp 1.132.940/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/8/2018).
+4. Essa exigência tem respaldo na necessidade de constarem o número do código de barras e o do processo, viabilizando o cotejo com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do efetivo recolhimento do preparo.
+5. Dessa forma, o Recurso Especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula 187 deste Tribunal, que dispõe sobre a deserção: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos." 6. Agravo interno improvido.
+(AgRg no RMS 63.518/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 500,00 (quinhentos reais) .
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. VÍCIO NO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. RECOLHIMENTO EM DOBRO. PRAZO TRANSCORRIDO IN ALBIS. DESERÇÃO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
