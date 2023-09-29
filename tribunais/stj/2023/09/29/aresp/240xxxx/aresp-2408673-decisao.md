@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo interposto por ELLEN KRISCIA SANTOS VIEIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE cuja ementa guarda os seguintes termos (fls. 387-388):
+APELAÇÃO CÍVEL EM AÇÃO DE REPARAÇÃO DE DANO MORAL E MATERIAL DECORRENTE DE ACIDENTE AUTOMOBILÍSTICO. NA INICIAL NÃO CONSTA A DINÂMICA DO ACIDENTE, MAS TÃO SOMENTE QUE A AUTORA TRAFEGAVA NA AV. ROTARY E FOI ATINGIDA PELA REQUERIDA. CONTESTAÇÃO COM RECONVENÇÃO, ALEGANDO QUE A RÉ TRAFEGAVA PELA AV. ROTARY QUANDO A AUTORA, VINDO PELA RUA JORNALISTA PAULO COSTA ATINGIU A LATERAL DO SEU CARRO AO TENTAR CRUZAR A AV. PREFERENCIAL. SENTENÇA DE IMPROCEDÊNCIA DA DEMANDA PRINCIPAL E PROCEDÊNCIA DA RECONVENÇÃO. APELO AUTORA. DA PARTE PUGNANDO PELA REFORMA DA SENTENÇA. FRAGILIDADE DO BOLETIM DE OCORRÊNCIA. NA INICIAL NÃO CONSTA SEQUER A DINÂMICA DO ACIDENTE. DAS FOTOS DO VEÍCULO E DO LOCAL DO ACIDENTE, FLS. 3232, CORROBORAM A TESE DO REQUERIDA DE QUE A AUTORA AO TENTAR CRUZAR A AVENIDA PREFERENCIAL, NÃO TEVE O DEVIDO CUIDADO, ATINGINDO AO RÉ. AUTOMÓVEL DA FATO CONSTITUTIVO DO DIREITO DA AUTORA NÃO COMPROVADO. SENTENÇA MANTIDA. RECURSO CONHECIDO PROVIDO. UNANIMIDADE.
+Sem embargos de declaração.
+No recurso especial, a recorrente alega que o acórdão contrariou as disposições contidas nos arts. 28, 29, 44, 214 e 220 do Código de Trânsito Brasileiro; 373, II, do CPC; e 5º da Constituição Federal. Suscita, em síntese, ausência do dever de cuidado da recorrida.
+Assevera ausência de perícia no dia do acidente.
+Argui dever de indenização por danos materiais e morais em razão da culpa da recorrida.
+Aponta divergên cia jurisprudencial com arestos desta corte.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 433-436), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, não comporta conhecimento o recurso especial quanto à alegação de malferimento do art. 5º da Constituição Federal, por ser a via inadequada à alegação de afronta a artigos e preceitos da Constituição Federal, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte.
+Nesse sentido, cito os seguintes precedentes:
+III - Não cabe a esta Corte a apreciação de violação de dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. (AREsp n. 1.970.639/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 8/11/2022, DJe de 14/11/2022.)
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal. (AgInt no AgInt nos EDcl no AREsp n. 2.007.927/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Quanto à alegada ausência de perícia, nos termos da jurisprudência pacífica desta corte, cabe ao magistrado, destinatário da prova, valorar sua necessidade, conforme o princípio do livre convencimento motivado. Não obstante, o entendimento desta corte é firme no sentido de que a aferição acerca da necessidade de produção de prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, em recurso especial, ante o óbice erigido pela Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não cabe, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é reservada à Suprema Corte. Precedentes.
+2. No sistema de persuasão racional adotado pelo Código de Processo Civil, cabe ao magistrado determinar a conveniência e a necessidade da produção probatória, mormente quando, por outros meios, já esteja persuadido acerca da verdade dos fatos. Na forma da jurisprudência desta Corte, aferir se as provas são suficientes ou se o recorrido desincumbiu-se de seu ônus probatório demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte ante o óbice da Súmula 7 do STJ.
+3. Para acolher a pretensão recursal acerca do alegado cerceamento de defesa decorrente do julgamento antecipado da lide, seria necessário o revolvimento do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.824.242/AC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/10/2019, DJe de 12/11/2019.)
+No que tange à tese de existência de danos materiais e morais a indenizar a recorrida em razão de sua culpa, alterar a conclusão do Tribunal de origem no sentido de reconhecer a culpa da recorrida demandaria também o reexame de matéria fático-probatória, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS PARTES RÉS.
+1. Derruir as conclusões do Tribunal de origem no tocante a responsabilidade objetiva e a ausência de comprovação de culpa exclusiva da vítima demandaria, inexoravelmente, o revolvimento de matéria fático-probatória, providência essa que é inadmissível na estreita via do recurso especial, consoante o enunciado da Súmula 7 do STJ.
+2. A revisão do entendimento da Corte Estadual acerca do preenchimento dos requisitos para a inversão do ônus da prova reclama, necessariamente, o reenfrentamento da matéria fática dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Segundo a consolidada jurisprudência desta Corte Superior, na ação de indenização, é necessária a constituição de capital ou caução fidejussória para a garantia de pagamento da pensão, independentemente da situação financeira do demandado, a teor da Súmula 313 do STJ. Precedentes.
+4. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+5. Agravo interno interposto pela BMW do Brasil LTDA e OUTRA desprovido.
+(AgInt no REsp n. 1.651.663/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/3/2023, DJe de 4/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. CULPA. NÃO COMPROVAÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O eg. Tribunal de origem, com fundamento nas provas documentais trazidas aos autos e depoimento de testemunhas, reconheceu a falta de comprovação da culpa dos recorridos pelo acidente de trânsito, sendo indevida a reparação por danos mate riais e morais pleiteada pelo recorrente.
+2. A modificação de tal entendimento demandaria o revolvimento de suporte fático-probatório dos autos, medida inviável em sede de recurso especial, a teor da Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.871.178/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/10/2021, DJe de 8/11/2021.)
+Quanto à alegada violação dos arts. 28, 29, 44, 214 e 220 do Código de Trânsito Brasileiro, verifica-se que não houve debate na instância de origem, tampouco foram opostos embargos de declaração a fim de forçar a sua análise. Desse modo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal dos recorrentes, incidindo, no caso, por analogia, os óbices das Súmulas n. 282 e 356/STF.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. RECEBIMENTO DA PETIÇÃO INICIAL. FUNDAMENTOS AUTÔNOMOS NÃO ATACADOS. SÚMULAS 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há que se falar na suscitada ocorrência de violação do art. 1.022 do Código de Processo Civil de 2015.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Incidência das Súmulas 282 e 356/STF.
+3. Na hipótese dos autos, o Ministério Público do Estado do Rio de Janeiro ajuizou ação civil pública por ato de improbidade administrativa em razão de suposto esquema ilícito de agenciamento de mão de obra em órgãos públicos mediante a contratação de entidade com dispensa indevida de licitação e para prestação de serviços que seriam próprios de servidores concursados.
+4. O Tribunal de origem manteve a sentença de não recebimento da petição inicial, tendo consignado no acórdão recorrido que as provas apresentadas pelo Ministério Público do Estado do Rio de Janeiro não demonstram sequer indícios do cometimento de ato ímprobo pelo recorrido e, ainda, que inexiste elemento subjetivo na conduta imputada aos acusados. O recurso especial, por sua vez, limitou-se a defender de maneira genérica que estão presentes indícios suficientes ao recebimento da petição inicial. Dessa forma, incide a Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Ademais, a revisão dos fundamentos do Tribunal de origem, na forma em que pretende o recorrente, demanda o revolvimento do conjunto fático-probatório dos autos. Sendo assim, incide à espécie o óbice da Súmula 7/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.945.778/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/2/2022, DJe de 17/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE PRESCRIÇÃO DE COBRANÇA. AÇÃO ANTERIOR DE CONSIGNAÇÃO EM PAGAMENTO. AUSÊNCIADE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AÇÃO REVISIONAL. EXCLUSÃO DA MORA DO DEVEDOR. DESCABIMENTO. SÚMULA 380/STJ. INTERRUPÇÃO DO PRAZO PRESCRICIONAL DA AÇÃO EXECUTIVA. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, que tampouco foi alvo dos embargos de declaração opostos, para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+2. Segundo a jurisprudência desta Corte Superior, como a ação revisional não exclui a mora do devedor (Súmula 380/STJ), também não possui o condão de interromper o prazo prescricional da ação executiva. Isso, porque o manejo da revisional não impede que o credor busque a satisfação do seu crédito.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/2/2019, DJe de 15/2/2019.)
+No mais, fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" em razão da incidência dos óbices das Súmulas n. 7/STJ e 282 e 356/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
