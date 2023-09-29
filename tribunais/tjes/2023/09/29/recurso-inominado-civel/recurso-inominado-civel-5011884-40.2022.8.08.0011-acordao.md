@@ -1,0 +1,73 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5011884-40.2022.8.08.0011
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: PAULISTA - SERVICOS DE RECEBIMENTOS E PAGAMENTOS LTDA
+RECORRIDO: DESENILTO MENDES DE SOUZA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+50118
+8
+4-40.2022.8.08.0011
+
+Recorrente: PAULISTA – SERVICOS DE RECEBIMENTO E PAGAMENTOS LTDA
+
+Recorrido: DESENILTO MENDES DE SOUZA
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. INSTITUIÇÃO BANCÁRIA. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DO NEGÓCIO JURÍDICO. NARRA O AUTOR QUE ESTAVAM SENDO DESCONTADOS POR MÊS R$64,00 (SESSENTA E QUATRO REAIS) EM SUA CONTA-CORRENTE, VALORES CUJA ORIGEM DESCONHECIA. AO TODO, OS LANÇAMENTOS INDEVIDOS PERFIZERAM O MONTANTE DE R$320,00 (TREZENTOS E VINTE REAIS). TENTATIVA DE RESOLUÇÃO ADMINISTRATIVA REALIZADA VIA PROCON, ONDE HOUVE ACORDO, TENDO A RÉ RESTITUÍDO OS VALORES INDEVIDAMENTE DESCONTADOS, DECLARADO A INEXISTÊNCIA DOS DÉBITOS E CANCELADO OS DESCONTOS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS, CONDENANDO A RECORRENTE A RESTITUIR O IMPORTE DE R$320,00 (TREZENTOS E VINTE REAIS) E AO PAGAMENTO DE R$3.000,00 (TRÊS MIL REAIS) A TÍTULO DE DANOS MORAIS. RECURSO DA PARTE REQUERIDA, PEDINDO A REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS, OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS. PRINCÍPIO DA COOPERAÇÃO. PARTE RÉ QUE POR VIA ADMINISTRATIVA PROCEDEU À SOLUÇÃO DO CASO, ANTES MESMO DO AJUIZAMENTO DA DEMANDA. AUDIÊNCIA NO PROCON, EM QUE FOI RECONHECIDA A FALHA E COMUNICADO O RESSARCIMENTO, OCORRIDA EM 21/09/2022. PROCESSO AFORADO EM JUÍZO EM 27/09/2022. PARTE AUTORA QUE DEU ENTRADA NO PEDIDO NA ESFERA JUDICIAL POUCOS DIAS APÓS RECLAMAÇÃO NO PROCON E JÁ COMUNICADA DO ASSENTIMENTO DA REQUERIDA QUANTO À SUA PRETENSÃO NA ESFERA EXTRAJUDICIAL. FATOS ESSES QUE FORAM OMITIDOS NA PEÇA DE INGRESSO. FALTA DO DEVER DE COOPERAÇÃO, PELO CONSUMIDOR, AO LITIGAR APÓS AUDIÊNCIA DE CONCILIAÇÃO NA ESFERA ADMINISTRATIVA, QUANDO FORA RESTITUÍDO O VALOR CONTROVERSO. INEXISTÊNCIA DO DEVER DE RESSARCIR EM DOBRO. DANOS MORAIS IMPROVIDOS, FACE À CONDUTA DA RÉ NA ESFERA PRÉ-PROCESSUAL. RECURSO CONHECIDO PROVIDO. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS. SEM CUSTAS E HONORÁRIOS.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Como consta da ata a decisão foi a seguinte: por unanimidade de votos,
+CONHECER
+do recurso inominado interposto e, por unanimidade, dar a ele
+DAR PROVIMENTO,
+para reformar a sentença e
+JULGAR IMPROCEDENTES OS PEDIDOS
+. Sem custas e honorários.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
