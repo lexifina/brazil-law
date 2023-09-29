@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso extraordinário, interposto por MARIA TERESA NAVES ADRIANO ARAÚJO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão da Corte Especial do Superior Tribunal de Justiça, assim ementado (fls. 914-915):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE NA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE IDENTIDADE FÁTICO-JURÍDICA RELATIVAMENTE AOS ACÓRDÃOS PARADIGMAS. SUPOSTO ERRO DE JULGAMENTO. DESCABIMENTO DA DISCUSSÃO NA VIA ELEITA.
+1. Faltando aos embargos de divergência pressuposto básico de admissibilidade, qual seja, a discrepância entre julgados a respeito da mesma questão jurídica, não se tem por caracterizado o dissídio jurisprudencial apto a ensejar o cabimento do recurso.
+2. A pretensão de revisão das premissas adotadas no acórdão embargado não se mostra cabível na via eleita, já que os embargos de divergência não servem como recurso de correção de suposto equívoco havido no julgamento anterior.
+3. Agravo interno a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados (fls. 944-948).
+No recurso extraordinário (fls. 954-961), a recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade ao art. 93, IX, da Constituição Federal.
+Sustenta que o acórdão impugnado teria violado a obrigatoriedade de motivação das decisões judiciais, porquanto teria sido omisso acerca de matéria de ordem pública, qual seja, a aplicabilidade do Tema Repetitivo n. 568/STJ, o que afirma ter sido suscitado "por (seis) vezes em todas as instâncias judiciais" (fl. 957).
+Acrescenta, ainda, que esta Corte, ao entender que a tese firmada em tal repetitivo não se aplicaria à hipótese dos autos, sob o fundamento de que se restringiria às execuções fiscais, configuraria "grave decisão surpresa" (fl. 958), haja vista que tal questão seria inédita, pois jamais teria sido consignada nos autos.
+Defende, ademais, que "o IAC n.º 1 do STJ que deixa claro que o tema repetitivo suscitado pela recorrente se aplica, sim, às execuções extrajudiciais" (fl. 958).
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 968-979.
+É o relatório.
+A insurgência não comporta seguimento.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF, ao apreciar o Tema n. 339 de repercussão geral, firmou a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+O respectivo acórdão recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a existência de nulidade do provimento questionado, a despeito de a parte recorrente reputar as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos para a manutenção da decisão que indeferiu liminarmente os embargos de divergência, conforme se depreende dos seguintes trechos do pronunciamento impugnado (fls. 919-921):
+ ..
+Como se vê, para os paradigmas (amparados em recurso repetitivo da Seção de Direito Público segundo o qual o termo inicial da prescrição tem início após o esgotamento do prazo da suspensão, contado da decisão judicial que suspende o feito ou da intimação do credor acerca da não localização de bens penhoráveis), tem-se que, na contagem do prazo prescricional, o peticionamento em juízo infrutífero na localização de bens do devedor não tem o condão de interromper a prescrição intercorrente (termo final).
+Assim, independentemente de tratar-se de execução fiscal, os julgados em confronto não apreciaram a questão jurídica (prescrição intercorrente no processo de execução) sob idêntica ótica, na medida em que os acórdãos paradigmas referem-se a uma situação posterior ao início da prescrição, viés diverso do trazido pelo embargante.
+A propósito, a pretensão de revisão das premissas adotadas no acórdão embargado demandaria a apreciação de circunstâncias processuais específicas dos autos, o que não se mostra cabível na via eleita, já que os embargos de divergência não servem como recurso de correção de suposto equívoco havido em julgamento anterior.
+Em resumo, constata-se que falta aos embargos de divergência pressuposto básico de admissibilidade, qual seja, discrepância entre julgados que tenham debatido a mesma questão jurídica.
+ ..
+Por fim, vale consignar que a decisão que indefere liminarmente os embargos de divergência por ausência de similitude entre acórdãos embargado e paradigmas não configura decisão-surpresa, pois não pode a parte se considerar surpreendida pelo que é o próprio objeto do recurso que escolheu interpor.
+Do mesmo modo, foi devidamente fundamentada a rejeição dos embargos de declaração opostos na sequência, nos seguintes termos (fls. 947-948):
+ ..  ao contrário do que pretende fazer crer a embargante, não se verifica no julgado questionado o alegado vício de fundamentação, uma vez que foram examinados todos os pontos necessários à solução da controvérsia, consoante se observa na transcrição a seguir (fls. 919-921):
+Como se vê, para os paradigmas (amparados em recurso repetitivo da Seção de Direito Público segundo o qual o termo inicial da prescrição tem início após o esgotamento do prazo da suspensão, contado da decisão judicial que suspende o feito ou da intimação do credor acerca da não localização de bens penhoráveis), tem-se que, na contagem do prazo prescricional, o peticionamento em juízo infrutífero na localização de bens do devedor não tem o condão de interromper a prescrição intercorrente (termo final).
+Assim, independentemente de tratar-se de execução fiscal, os julgados em confronto não apreciaram a questão jurídica (prescrição intercorrente no processo de execução) sob idêntica ótica, na medida em que os acórdãos paradigmas referem-se a uma situação posterior ao início da prescrição, viés diverso do trazido pelo embargante.
+A propósito, a pretensão de revisão das premissas adotadas no acórdão embargado demandaria a apreciação de circunstâncias processuais específicas dos autos, o que não se mostra cabível na via eleita, já que os embargos de divergência não servem como recurso de correção de suposto equívoco havido em julgamento anterior. Em resumo, constata-se que falta aos embargos de divergência pressuposto básico de admissibilidade, qual seja, discrepância entre julgados que tenham debatido a mesma questão jurídica.
+ ..
+Por fim, vale consignar que a decisão que indefere liminarmente os embargos de divergência por ausência de similitude entre acórdãos embargado e paradigmas não configura decisão-surpresa, pois não pode a parte se considerar surpreendida pelo que é o próprio objeto do recurso que escolheu interpor.
+Ou seja, ficou expressamente registrado que são inadmissíveis embargos de divergência quando não há similitude fático-jurídica dos arestos em confronto. Na hipótese dos autos, o acórdão embargado não enfrenta diretamente a questão tratada nos paradigmas acerca da suspensão ou não do prazo prescricional.
+Em conclusão, não se identifica no acórdão vício capaz de ensejar o acolhimento dos declaratórios, mas apenas a discordância da parte com a solução apresentada no julgamento e o propósito de modificação.
+Com efeito, verificada a ocorrência de prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339/STF, de observância obrigatória (CPC, art. 927, III).
+Outrossim, conforme orientação também vinculante do STF, nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que nele se busque debater o mérito.
+A compreensão é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do STJ.
+Esse é o entendimento fixado pelo STF no regime de repercussão geral, como se verifica na seguinte tese:
+Tema n. 181/STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, o acolhimento da irresignação pressupõe a análise dos requisitos de admissibilidade do recurso anteriormente dirigido ao Superior Tribunal de Justiça, haja vista que o acórdão recorrido consignou a ausência de requisito essencial à interposição dos embargos de divergência, qual seja, a similitude fático-jurídica dos arestos confrontados.
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, na linha da compreensão do STF de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não prospera.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
