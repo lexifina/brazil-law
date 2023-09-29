@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. HABEAS CORPUS. OPERAÇÃO ARCOVERDE I. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. CONTRADIÇÃO, OBSCURIDADE, OMISSÃO INEXISTENTES. MERO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Alan Prost Paixao Silva opõe embargos de declaração ao acórdão de fls. 856/867, assim ementado:
+AGRAVO REGIMENTAL. HABEAS CORPUS. OPERAÇÃO ARCOVERDE I. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. NULIDADES APONTADAS. CITAÇÃO EFETIVA DO ACUSADO PARA INTEGRAR RELAÇÃO PROCESSUAL. PARTICIPAÇÃO DA DEFESA EM TODOS OS ATOS PROCESSUAIS. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO E DE PROVA PRÉ-CONSTITUÍDA DAS ALEGAÇÕES. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PUBLICAÇÃO DA INTIMAÇÃO PROCESSUAL EM NOME DE DETERMINADO CAUSÍDICO. PRÉVIDO REQUERIMENTO EXPRESSO DA DEFESA NESSE SENTIDO. PRETENSÃO DE RENOVAÇÃO DO PRAZO. CERCEAMENTO DE DEFESA. NULIDADE NO TRÂNSITO EM JULGADO. REABERTURA DE PRAZO.
+1. O pedido de absolvição, em razão da ausência de prova da materialidade e porque teria sido condenado, exclusivamente, com base em elementos colhidos no inquérito policial, não encontra respaldo nos elementos dos autos, que, para serem ultrapassados, demandaria amplo revolvimento do acervo fático-probatório.
+2. O paciente habilitou advogada nos autos, suprindo qualquer defeito existente no ato citatório, acrescentando que a defesa participou de todos os atos processuais, incluindo audiência de instrução e julgamento, apresentação de alegações finais e interposição de apelação, tendo, ainda, a defesa sido efetivamente intimada dos atos processuais, atuando em todas as oportunidades, sem qualquer prejuízo evidenciado no presente writ.
+3. Especificamente quanto à publicação do acórdão dos embargos de declaração, como não ocorreu em nome do advogado Célio Avelino de Andrade, nem constou o nome dos outros novos advogados constituídos (fls. 131/132), além de ter sido certificado o trânsito em julgado, entendo configurada a ilegalidade e o prejuízo advindo à Defesa para a eventual interposição do recurso adequado, mormente porque houve pedido expresso para que as publicações ocorressem em nome do referido advogado.
+4. Agravo regimental conhecido e parcialmente provido apenas para determinar a republicação do acórdão dos embargos de declaração (0470243-4), devendo constar o nome do advogado Célio Avelino de Andrade, anulando o trânsito em julgado, com a reabertura do prazo recursal.
+Alega o embargante, em síntese, que o acórdão embargado, partindo da premissa de que a análise da arguição demandaria uma reanálise de provas, deixou de apreciar questão estritamente jurídica colocada em discussão no presente mandamus, qual seja, se é possível uma condenação pelo crime de tráfico de entorpecentes sem que haja laudo preliminar.
+Requer o acolhimento dos conferindo-lhes efeitos infringentes e dando provimento ao agravo regimental para absolver o paciente, em razão da manifesta ausência de prova da materialidade.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. HABEAS CORPUS. OPERAÇÃO ARCOVERDE I. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO. AUTORIA E MATERIALIDADE COMPROVADAS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. CONTRADIÇÃO, OBSCURIDADE, OMISSÃO INEXISTENTES. MERO CARÁTER INFRINGENTE. IMPOSSIBILIDADE.
+Embargos de declaração rejeitados.
+VOTO
+Não há contradição, obscuridade ou omissão a ser sanada.
+O acórdão embargado, quanto ao ponto da insurgência nestes embargos, está ampla e suficiente fundamentado, no sentido de que as razões do agravo regimental não infirmaram a fundamentação da decisão agravada (fl. 861):
+Consta dos autos que o paciente foi condenado, como incurso nos arts. 33 e 35 da Lei n. 11.343/2006, após o julgamento da apelação, às penas de 10 anos e 6 meses de reclusão, mais o pagamento de 1.450 dias-multa.
+O pedido de absolvição, em razão da ausência de prova da materialidade e porque teria sido condenado, exclusivamente, com base em elementos colhidos no inquérito policial, não encontra respaldo nos elementos dos autos, que, para serem ultrapassados, demandaria amplo revolvimento do acervo fático-probatório. Anote-se (fls. 63/70):
+ ..  não há dúvidas sobre a materialidade e autoria dos delitos, diante dos autos de apresentação e apreensão de fls. 434/635, 469 e 486/488, comprovante de depósito dos valores apreendidos (fls. 604), relatório das transcrições das interceptações telefônicas constante dos autos no 0001990- 46.2013.8.17.02 20 (fls. 1391), relatório da Autoridade policial e, de forma indireta, pelos depoimentos colhidos em sede judicial e inquisitiva.
+Neste sentido verifica-se pelo conjunto probatório que os ora apelantes estavam empenhados e associados praticando o tráfico de drogas.
+Importa destacar a situação do réu FLAVIO FERNANDO DE MACEDO PEREIRA, cuja conduta foi analisada, nestes autos, apenas quanto ao crime de associação ao tráfico, pois ele já foi julgado e condenado pelo tráfico no processo no 0003830 - 91.2013.8.17.0220.
+No entanto, a apreensão de drogas em poder de Flávio Fernando, como foi comprovado no processo no 0003830-91.2013.8.17.0220, é mais uma prova do tráfico praticado pelos réus ora julgados.
+Com efeito, concluindo o Tribunal de origem, com base no exame de todo o acervo probatório dos autos, que comprovadas a autoria e a materialidade dos delitos, a pretensão da Defesa enseja o amplo revolvimento do acervo fático-probatório, o que não é possível na via eleita, de cognição sumária.
+Assim, os presentes embargos revestem-se de mero caráter infringente, o que não se mostra possível.
+Ante o exposto, rejeito os embargos de declaração.
