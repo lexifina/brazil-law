@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por RENATA CRISTINA MARINHO TREVIZAN contra decisão mediante a qual, nos termos dos arts. 932, III, do Código de Processo Civil de 2015 e 253, I, do RISTJ, não conheci do Agravo em Recurso Especial, fundamentada na incidência da Súmula n. 182 desta Corte, porquanto não impugnado especificamente um dos fundamentos da decisão agravada (fls. 54/60e - expediente avulso).
+Sustenta, em síntese, que a decisão padece de contradição, porquanto necessário o pronunciamento acerca das razões expostas no Agravo em Recurso Especial que demonstrariam a impugnação específica da Súmula n. 7/STJ, uma vez que, a condenação da Embargante não teria observado atentamente os fatos apresentados.
+Alega, ainda, que não houve manifestação quanto à aplicação da Lei n. 14.230/2021 ao caso concreto, em consonância com o Tema n. 1.199/STF (fls. 65/75e - expediente avulso).
+Impugnação do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO às fls. 133/140e - expediente avulso.
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustenta a Embargante que há contradição a ser sanada, nos termos do art. 1.022, I, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+No caso, a Embargante aponta que a decisão padece de contradição, porquanto necessário o pronunciamento acerca das razões expostas no Agravo em Recurso Especial que demonstrariam a impugnação específica da Súmula n. 7/STJ, uma vez que, a condenação da Embargante não teria observado atentamente os fatos apresentados.
+Alega, ainda, que não houve manifestação quanto à aplicação da Lei n. 14.230/2021 ao caso concreto, em consonância com o Tema n. 1.199/STF.
+Contudo, tais alegações não merecem guarida, porquanto consignadas as razões pelas quais os argumentos apresentados no Agravo em Recurso Especial não se apresentaram suficientes para atendimento ao princípio da dialeticidade, inclusive indicando o que deveria ter sido demonstrado e não o foi.
+Conforme consignado na decisão embargada, nas razões do agravo em recurso especial o combate ao óbice de incidência da Súmula n. 7/STJ, foi apresentado de forma genérica, porquanto não demonstrado o modo como seria possível a análise das apontadas violações, por esta Corte, a partir da revaloração de premissas do acórdão recorrido (identificando-as) e, portanto, sem que implique o revolvimento do conjunto fático-probatório.
+Por tal motivo o agravo em recurso especial não foi conhecido pela incidência da Súmula n. 182/STJ (fls. 54/60e - expediente avulso).
+Assim, não há que se falar em omissão do acórdão embargado, visto que o reconhecimento do não preenchimento de requisitos processuais de admissibilidade preliminares impede a análise de mérito do recurso, consoante a jurisprudência pacífica desta Corte.
+Com efeito, depreende-se da leitura da decisão embargada que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Quanto à aplicação da Lei n. 14.230/2021 ao caso concreto, em consonância com o Tema n. 1.199/STF, foi consignado pelo tribunal de origem às fls. 3422/3424e, após a devolução dos autos por essa Corte e julgamento do ARE 843.989 RG, a condenação da Agravante por ato doloso - destaquei:
+No caso dos autos, porém, os recursos extremos não abordam a aplicação retroativa da Lei n. 14.230/2021, como também não há condenação pelo tipo culposo, na medida em que o v. Acórdão da Turma Julgadora reconheceu a existência de prova de demonstrar o elemento subjetivo doloso.
+Não tendo o recurso superado a barreira do conhecimento, por óbice da Súmula n. 182/STJ, não há que se falar em omissão da decisão embargado.
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Ademais, constatada apenas a discordância da Embargante com o deslinde da controvérsia, não restou demonstrada efetiva contradição a ensejar a integração do julgado, porquanto a fundamentação adotada no venerando acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição dos presentes embargos.
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
+EMENTA
