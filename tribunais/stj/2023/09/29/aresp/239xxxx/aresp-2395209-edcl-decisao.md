@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AMERICANAS S.A - EM RECUPERACAO JUDICIAL, à decisão de fls. 1993/1994, que não conheceu do recurso.
+Sustenta a parte embargante que:
+3. Ocorre que, em verdade, o agravo em recurso especial foi regularmente interposto em 5 de setembro de 2022, conforme consta na certidão de fl. 1.951.
+ ..
+4. Cumpre registrar que o protocolo nº 2022.00086739-3, realizado em 05/09/2022, corresponde à petição de agravo em recurso especial de fls. 1.953/1.964, vide chancela na lateral direita da folha 1.953 (fl. 1999).
+ ..
+5. Com o objetivo de afastar qualquer dúvida acerca da tempestividade recursal em comento, cumpre informar que a petição de fls. 1.747/1.758 se trata da via original do agravo em recurso especial, este protocolado via e-mail no dia 5 de setembro de 2022, conforme expressamente autorizado pelo E. Tribunal a quo (fl. 1.760), nos termos da Lei nº 9.800, de 26 de maio de 1999 1 , da Portaria nº 49.111/2000 2 e do Comunicado CG nº 9.431/2014.
+6. Portanto, considerando que a r. decisão de fls. 1.741/1.742 foi publicada em 15/08/2022, conforme certificado à fl. 1.743, e que o agravo em recurso especial foi regularmente interposto em 05/09/2022, conforme certificado à fl. 1.951, resta demonstrada a plena tempestividade recursal, eis que o recurso foi interposto dentro do prazo de 15 (quinze) dias úteis, na forma dos artigos 994, inciso VIII, 1.003, § 5º, 219, 224 e 1.042, todos do Código de Processo Civil.
+7. Sendo assim, resta evidenciado o erro material constante na r. decisão ora embargada, passível de correção até mesmo de ofício, ex vi do artigo 494, do CPC, tendo em vista que restou consignado no r. decisum que o agravo em recurso especial teria sido interposto em 06/09/2022, quando, na verdade, foi interposto em 05/09/2022 (fls. 1.952/1.964), conforme certificou a Secretaria do Tribunal a quo às fls. 1.951, em cumprimento à Lei nº 9.800, de 26 de maio de 1999, certo que apenas a via original foi apresentada no dia 06/09/2022 (fls. 1.746/1.758) (fl. 2001).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a jurisprudência firmada no âmbito deste Superior Tribunal de Justiça consolidou o entendimento de que, para fins de aplicação do art. 1.º da Lei n. 9.800/1999, o e-mail não configura meio eletrônico equiparado ao fac-símile, como, de fato, foi o modo de interposição recursal na espécie (fls. 1746/1759).
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 1295788/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/5/2019; AgInt no AREsp 1216048/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 22/4/2019; AgInt no AREsp 1113888/MG, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 1º/2/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
