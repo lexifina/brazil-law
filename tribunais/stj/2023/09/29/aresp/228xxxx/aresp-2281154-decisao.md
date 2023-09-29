@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HENRIQUE GABRIEL DOS SANTOS contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+Depreende-se dos autos que o agravante foi condenado, pela prática dos delitos previstos nos arts. 33, caput, da Lei n. 11.343/2006, 12 e 16, ambos da Lei n. 10.826/2003, à pena de 8 anos de reclusão e 1 ano de detenção, em regime inicial semiaberto.
+A apelação defensiva foi parcialmente provida, tão somente para abrandar o regime prisional inicial da pena de detenção fixando-a no aberto.
+No recurso especial, a defesa requereu a aplicação da minorante prevista no art. 33 da Lei n. 11.343/2006.
+Inadmitido o recurso na origem, os autos subiram a esta Corte Superior por força de agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do recurso (e-STJ fls. 296/297).
+É o relatório.
+Decido.
+De acordo com o art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Digno de nota que, no julgamento do REsp n. 1.887.511/SP, de relatoria do Ministro João Otávio de Noronha, concluiu a Terceira Seção do Superior Tribunal de Justiça que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Na espécie, acerca da dosimetria da pena, o Tribunal de origem decidiu nos seguintes termos (e-STJ fl. 229):
+Em relação à aplicação da causa de diminuição de pena, prevista no §4º, art. 33, da Lei 11.343/06, em que pese ser o apelante primário e com bons antecedentes (CAC de fI. 81), vê-se que pela quantidade de droga encontrada - 82g (oitenta e duas gramas) de maconha - além da arma e do dinheiro trocado, não se trata de mero traficante eventual, o que impossibilita a aplicação da benesse do tráfico privilegiado.
+ ..
+Em se tratando da aplicação do princípio da consunção, verifica-se que o réu possuía arma de fogo de uso permitido em via pública e arma de fogo com sinal de identificação raspado no interior da residência, sendo as armas encontradas em locais diversos e contextos fáticos variados.
+Dessa forma, tendo em vista que os delitos praticados nos arts. 12 e 16, parágrafo único, inciso IV, ambos da Lei n. 10.826103, foram praticados de forma autônoma, não sendo utilizado como crime-meio necessário á execução de crime-fim, é inviável que o delito de menor gravidade seja absorvido pelo de maior gravidade.
+Como se vê, a dedicação à atividade criminosa foi assentada basicamente na quantidade da droga apreendida e em fundamentação genérica, que diz respeito aos próprios elementos do tipo penal do tráfico de drogas. Digno de nota que a própria Corte de origem entendeu que as armas foram encontradas em locais diversos e em contextos fáticos variados, porém os crimes relacionados a elas foram praticados de forma autônoma.
+No ponto, cabe, ainda, a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "o paciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderem ser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregado não são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena do paciente deve ser reduzida para 1 ano e 8 meses de reclusão.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, e, assim, reduzir a reprimenda relativa ao delito de tráfico de drogas para 1 ano e 8 meses de reclusão.
+Tendo em vista que a pena total do agravante ficará estabelecida em 4 anos e 8 meses de reclusão e 1 ano de detenção, mantenho o regime inicial semiaberto e a negativa de substituição da pena.
+Publique-se. Intimem-se.
+EMENTA
