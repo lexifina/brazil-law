@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de “arguição de relevância”, com pedido de liminar, ajuizada por Antônio Bernardo Vieira, por meio da qual requer a reforma da decisão do Tribunal de Justiça do Estado de São Paulo que não conheceu do agravo interposto contra decisão que negou seguimento ao recurso extraordinário, nos autos do Processo nº 1027362-53.2019.8.26.0564.
+
+    É o relatório do necessário.
+
+    Decido.
+
+    Inviável o pedido.
+
+    Verifica-se que o pedido formulado nesta ação cautelar não encontra fundamento em nenhum dos dispositivos constitucionais que fixam a competência originária deste Supremo Tribunal Federal (art. 102, I, da CF/1988), que, nos termos da jurisprudência pacífica da Corte, submete-se a regime de direito estrito. Nesse sentido, confiram-se os seguintes precedentes:
+
+    “NOTITIA CRIMINIS’ DEDUZIDA EM FACE DE PESSOA QUE NÃO OSTENTA PRERROGATIVA DE FORO “RATIONE MUNERIS” NESTA SUPREMA CORTE – AUSÊNCIA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL – INAPLICABILIDADE DA REGRA INSCRITA NO ART. 40 DO CÓDIGO DE PROCESSO PENAL – MANIFESTAÇÃO DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DO AGRAVO – RECURSO DE AGRAVO IMPROVIDO. – Não há como determinar-se o processamento da ‘notitia criminis’ quando o suposto autor da infração penal indicada em mencionada peça não ostentar prerrogativa de foro ‘ratione muneris’ perante o Supremo Tribunal Federal, que não pode ser confundido com órgão de encaminhamento, a outras autoridades penais, de comunicações referentes a alegadas práticas delituosas supostamente cometidas por quem não consta do rol exaustivo inscrito no art. 102, I, alíneas ‘b’ e ‘c’, da Constituição da República, sendo insuscetível de invocação, no caso, a regra inscrita no art. 40 do CPP, ainda mais se se constatar que o noticiante sequer produziu quaisquer peças e documentos cujo teor pudesse sugerir o cometimento de ilícito penal por parte daquele por ele nominado em sua ‘delatio criminis’. A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL, CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA, SUBMETE-SE A REGIME DE DIREITO ESTRITO –A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional – e ante o regime de direito estrito a que se acha submetida –, não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em ‘numerus clausus’, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes” (Pet 8818 AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 15.10.2020; grifo nosso)
+
+    “AGRAVO REGIMENTAL NA PETIÇÃO. DIREITO PENAL E PROCESSUAL PENAL. INÉPCIA DA PETIÇÃO. REPETIÇÃO DE AÇÃO ANTERIORMENTE IMPETRADA COM O MESMO OBJETO. INCOGNOSCIBILIDADE DA AÇÃO ULTERIORMENTE PROPOSTA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL: CF, ART. 102. ROL TAXATIVO. MATÉRIA DE DIREITO ESTRITO. INTERPRETAÇÃO EXTENSIVA: PARADOXO. ORGANICIDADE DO DIREITO. AGRAVO REGIMENTAL DESPROVIDO. 1. Revela-se inepta a petição inicial em razão da maneira como foi formalizado o pedido - relato confuso e sem documentos essenciais à compreensão da controvérsia. 2. In casu, o recorrente impetrou Petição, com pedido de liminar, intitulada ‘ação ordinária com cautelar de evidência e pedido de liminar em ação de improbidade administrativa em face da administração federal na pessoa do Presidente da Câmara do Senado, do Ministro da Justiça e Segurança Pública e o presidente da República Federativa do Brasil por motivo de incidente de falsidade, aferido na representação criminal na tipificação do artigo 319 cumulada em concurso material do mesmo artigo do Código Penal – crime de prevaricação – em face do soldado Arlindo Moraes Farias, se apurado verdadeiro infere diretamente ao cerceamento de defesa, falsidade ideológica com crime de falsificação de documento oficial e peculato eletrônico sem autoria definida’. 3. A repetição de postulação anteriormente trazida ao conhecimento do Supremo Tribunal Federal torna insuscetível de conhecimento a presente impetração. 4. A reiteração dos argumentos trazidos pelo agravante na petição inicial da impetração é insuscetível de modificar a decisão agravada. Precedentes: HC 136.071-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 09/05/2017; HC 122.904-AgR, Primeira Turma Rel. Min. Edson Fachin, DJe de 17/05/2016; RHC 124.487-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 01/07/2015. 5. Agravo regimental desprovido” (Pet 7.435 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 17.09.2018; grifo nosso)
+
+    Efetivamente, a arguição de relevância consiste em instituto não mais admitido no ordenamento jurídico brasileiro, dada a criação do Superior Tribunal de Justiça, ainda que algumas disposições a respeito do instituto remanesçam previstas do Regimento Interno do STF. A propósito, confira-se o seguinte precedente:
+
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA APRECIAR MANDADO DE SEGURANÇA CONTRA ATOS DE OUTROS TRIBUNAIS. SÚMULA 624/STF. REQUERIMENTO DE CONVERSÃO DO WRIT EM ARGÜIÇÃO DE RELEVÂNCIA. PEDIDO MANIFESTAMENTE INCABÍVEL. A decisão atacada está de acordo com a sumulada jurisprudência do STF, dado que incumbe ao próprio Superior Tribunal de Justiça apreciar e julgar mandados de segurança contra atos de suas Turmas. É manifestamente incabível o pedido de conversão do mandamus em argüição de relevância, que não mais subsiste no Direito brasileiro. Agravo Regimental a que se nega provimento” (MS 25145 AgR, Rel. Min. Carlos Britto, Tribunal Pleno, DJ 25.08.2006 – grifo nosso)
+
+    Diante do exposto, nego seguimento ao pedido (art. 21, §1º, do RISTF). Prejudicado o pedido de medida cautelar.
+
+    Publique-se.
+
+    Brasília, 29 de setembro de 2023.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
