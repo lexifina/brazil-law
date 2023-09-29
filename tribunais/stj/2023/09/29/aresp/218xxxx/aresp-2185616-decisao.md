@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por HESA 75 - INVESTIMENTOS IMOBILIÁRIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 487):
+AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR, DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. DECISÃO ANTECIPATÓRIA DE MÉRITO. ATRASO INJUSTIFICADO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. ALEGAÇÃO DE MORA DA MUNICIPALIDADE NA ENTREGA DO HABITE-SE. INCOMPROVAÇÃO DO CUMPRIMENTO DE TODOS OS ÍTENS NECESSÁRIOS À LIBERAÇÃO DO IMÓVEL PARAA HABITAÇÃO. EFEITOS CLIMÁTICOS E GREVES DOS TRABALHADORES DA CONSTRUÇÃO CIVIL SÃO EVENTOS PREVISÍVEIS E QUE JUSTIFICAM A CLÁSULA DE TOLERÂNCIA. CULPA EXCLUSIVA DA CONSTRUTORA PELA DEMORA E RESCISÃO CONTRATUAL. DEVOLUÇÃO DOS VALORES DAS PARCELAS JÁ ADIMPLIDAS PELOS AUTORES/AGRAVADOS, NOS TERMOS DA DECISÃO RECORRIDA. IRREPARABILIDADE. AGRAVO DE INSTRUMENTO IMPROVIDO, DECISÃO INTERLOCUTÓRIA MANTIDA.
+Rejeitados os embargos de declaração opostos.
+No recurso especial, a agravante alega ofensa ao art. 418 do CC. Argumenta, em síntese, que a rescisão do contrato de compra e venda do imóvel se deu por iniciativa dos compradores, sendo indevida a imputação, em seu desfavor, de culpa pelo atraso.
+Acena com dissídio jurisprudencial.
+Oferecidas contrarrazões (fls. 535-553), sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 554-559), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 583-600).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+As instâncias ordinárias, após a análise do acervo fático dos autos, concluiu que a culpa pela rescisão era do recorrente. Vejamos:
+A irresignação das empresas Rés/Agravantes não merece prosperar. Começando com os alegados fatos de terceiros como efetivos causadores da entrega do imóvel ao Autores/Agravados, no prazo contratualmente estipulado, estou convicto de que as empresas Rés/Agravados não comprovaram o cumprimento de todos os itens exigidos pela Municipalidade ara a expedição do habite-se. Logo, o argumento de mora do Município do Salvador na expedição da autorização para ocupação e moradia dos Autores/Agravados não passam de meras palavras sem qualquer eco nos documentos trazidos aos autos.
+Ademais, quanto às alegações de que eventos climáticos e paredistas dos trabalhadores da construção civil não foram igualmente comprovados, são desnudos, portanto, de base documental.
+Friso, por oportuno, que nos termos da bem lançada decisão antecipatória do mérito, em consonância com a jurisprudência citada, tanto a possível demora na expedição do habite-se, quanto aos já surrados argumentos de chuvas torrenciais e greves no setor da construção civil, são eventos perfeitamente previsíveis, justificando-se, inclusive, a legalidade e aceitação da chamada cláusula de tolerância, servível para alongamento do prazo de entrega do imóvel, na ocorrência de fatores externos, como os apontados na peça de irresignação. Por isso, caem por terra, por sua vez, as alegações de que a culpa pela rescisão contratual deve ser atribuída aos Autores/Agravados.
+Com efeito, reiterados são os julgados da Segunda Seção no sentido de que, resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador.
+A título exemplificativo:
+4. Consoante a jurisprudência desta Corte, resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, com incidência dos juros de mora a partir da citação. Precedentes.
+(AgInt no AREsp n. 2.178.302/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 6/9/2023.)
+Inclusive, o entendimento jurisprudencial pacificado sobre o tema levou à formulação da Súmula n. 543/STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento".
+Por seu turno, inviável a revisão do entendimento de origem quanto a quem deu culpa à rescisão contratual, porquanto apurado à luz do acervo fático-probatório dos autos, o que esbarra no óbice da Súmula n. 7/STJ.
+Nesse sentido, cito :
+1. No presente caso, o acolhimento da pretensão recursal, para afastar a culpa da construtora pelo atraso na entrega do imóvel, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+(AgInt no REsp n. 1.987.981/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2022.)
+3. No caso, rever a conclusão do tribunal de origem para afastar a responsabilidade da construtora pelo inadimplemento do contrato demandaria o reexame de matéria fática, procedimento inviável em recurso especial. Aplicação da Súmula nº 7/STJ.
+(AgInt no AREsp n. 1.994.231/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
