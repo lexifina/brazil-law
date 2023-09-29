@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 14.723):
+AGRAVO DE INSTRUMENTO ICMS ExecuçãoFiscal - Creditamento indevido Embargos à Execução Rejeição da preliminar de decadência - Pretensão de reforma da decisão a quo Impossibilidade - Prazo decadencial para a constituição do crédito tributário, bem como prazo prescricional para a sua cobrança não consumados - Precedentes - Decisão a quo mantida - Recurso desprovido.
+Embargos de declaração rejeitados 14.761-14.764.
+O recorrente alega, preliminarmente, violação do artigo 1.022, II, do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito da necessidade de observância do art. 150, § 4º do CTN, bem como sobre o entendimento sedimentado no STJ em sede de repetitivo. Isto porque, a Recorrente demonstrou, DESDE A PEÇA PREAMBULAR, que procedeu à escrituração dos documentos fiscais que acobertam as aquisições do fornecedor considerado inidôneo posteriormente pela Fiscalização estadual, bem como efetuou o recolhimento do ICMS ainda que parcialmente, sendo medida de rigor a aplicação do entendimento pacificado por este C. Superior Tribunal de Justiça, no sentido de que a contagem do prazo decadencial para o lançamento de tributo sujeito à homologação - ainda que o seu pagamento tenha sido parcial, deve observar o comando contido no artigo 150, § 4º, do Código Tributário Nacional. (fl. 14.777)
+Quanto a questão de fundo, sustenta ofensa aos artigos 150, §4º e 173, I, ambos do CTN, e dissídio jurisprudencial, sob os seguintes argumentos: i) havendo qualquer pagamento do tributo sujeito a lançamento por homologação, e desde que não tenha sido comprovada a ocorrência de dolo, fraude ou simulação, o prazo de decadência para a constituição do crédito tributário por parte da autoridade fiscal será de cinco anos, contados a partir da ocorrência do fato gerador; e ii) não há que se falar, in casu, na aplicação da regra de decadência prevista no art. 173, I, do Código Tributário Nacional, sob o argumento de que a o creditamento do ICMS teria levado a Recorrente a não efetuar o pagamento do imposto. Isso porque, havendo pagamento do tributo (e isso não se discute no caso dos autos), cabe ao Fisco apurar a regularidade e suficiência do creditamento efetuado pelo contribuinte e cujas receitas não tenham sido oferecidas à tributação.
+Contrarrazões às fls. 14.824-14.838.
+Juízo positivo de admissibilidade às fls. 14.839-14.841.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O acórdão recorrido aplicou ao caso o art. 173, I, do CTN, sob o seguinte fundamento (fls. 14.724-14.725):
+ ..
+O ICMS, imposto cobrado na presente execução, é sujeito a lançamento por homologação, de modo que, nos termos do artigo 150, §4º, do Código Tributário Nacional, a Fazenda tem o prazo de cinco anos para constituir o crédito tributário, contado do fato gerador.
+Ocorre, entretanto, que ao caso aplica-se o disposto no artigo 173, inciso I, do CTN, sendo o termo a quo do prazo decadencial "o primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado".
+Da leitura da Certidão de Dívida de Dívida Ativa verifica-se que a empresa Agravante foi autuada por creditamento indevido de ICMS, o que permite concluir que o montante do crédito de ICMS glosado não foi declarado ao Fisco como devido e, consequentemente, não foi recolhido.
+Assim, é caso de omissão do contribuinte que deixou de cumprir com seu dever de antecipar o pagamento sem prévio exame da autoridade administrativa, ensejando o lançamento de ofício da obrigação tributária, nos termos do mencionado artigo 173, inciso I, do CTN, nos termos da Súmula 555 do STJ:
+ ..
+Diante disso, o ora recorrente interpôs embargos de declaração, no qual se requereu a manifestação expressa a respeito dos precedentes do STJ aplicáveis ao caso (fls. 14.754-):
+ ..
+Contudo, em que pese respeitável, tem-se que o v. acórdão restou omisso, bem como equivocou-se quanto à premissa fática, na medida que não levou em consideração (e, consequentemente, deixou de apreciar) o fato de que inúmeros são os precedentes dos Tribunais Superiores, que consignam justamente o fato de que o imposto, ainda que recolhido a menor, se sujeita à homologação pelo artigo 150, § 4º, do Código Tributário Nacional.
+ ..
+Segundo o entendimento pacificado pelo Superior Tribunal de Justiça, o tributo, cujo recolhimento tenha sido parcial, é sujeito à contagem do prazo decadencial previsto no artigo 150, § 4º, do Código Tributário Nacional.
+Ora, se a própria Embargada glosou os créditos tomados pela Embargante é porque, justamente, esta apurou regularmente o imposto, reduzindo o montante a pagar de ICMS, cenário este que se amolda perfeitamente aos ditames do art. 150, § 4 do CTN.
+ ..
+Dessa forma, mister se faz que, ante a omissão desta premissa fática, conste expressamente no v. acórdão que o valor do crédito glosado pela Embargada foi, exatamente, a parcela do imposto foi reduzida do imposto a pagar no período de janeiro de 2011 até novembro de 2013, não havendo que se falar em falta de pagamento.
+Não obstante isso, o decisum ora embargado - além de omisso - vai de encontro com a jurisprudência dominante adotada pelo C. STJ, que assim consigna a necessidade de que o lançamento do crédito tributário de ICMS, ainda que o respectivo recolhimento tenha sido a menor, deve ser feito por homologação.
+ ..
+Entretanto, o Tribunal a quo rejeitou os declaratórios, em voto genérico, às fls. 14.761-14.764, sem apreciar o questionamento da parte recorrente.
+Verifico, portanto, a existência de omissão relevante no julgado, nos termos do art. 1.022 do CPC/2015, notadamente em razão da regência legal da matéria e da jurisprudência desta Corte Superior, no sentido de afastar a aplicação da regra geral prevista no art. 173, I, do CTN, quando houver pagamento antecipado, ainda que em valor menor do que aquele que a Administração entende devido, hipótese na qual incide o disposto no art. 150, § 4º, do CTN.
+Observo, ainda, que o acórdão recorrido, embora tenha aplicado o art. 173, I, do CTN, ao caso, deixou de analisar a ocorrência de dolo ou má-fé do ora recorrente.
+A propósito:
+TRIBUTÁRIO. ICMS. CREDITAMENTO INDEVIDO. LANÇAMENTO. DECADÊNCIA. CONTAGEM. TERMO INICIAL. PAGAMENTO PARCIAL DE BOA-FÉ: FATO GERADOR.
+MÁ-FÉ. RECONHECIMENTO. AUSÊNCIA.
+1. A decadência para a realização de lançamento de ICMS pago a menor, inclusive quando fundado em creditamento indevido, deve ser contada de acordo com a regra contida no art. 150, § 4º, do CTN, exceto nos casos de dolo ou má-fé, em que deverá ser observado o disposto no art. 173, I, do CTN.
+2. Hipótese em que, diversamente do assentado pelo ente público agravante, as instâncias ordinárias não afirmaram que a contribuinte agiu de má-fé ao realizar o creditamento glosado, mas, apenas, que não logrou comprovar a realização da operação estampada na nota fiscal posteriormente declarada inidônea.
+3. A comprovação da operação comercial é condição para o adquirente de boa-fé proceder ao creditamento do ICMS destacado na correspondente nota fiscal posteriormente declarada inidônea (Súmula 509 do STJ).
+4. A falta da referida comprovação não é suficiente para a caracterização de má-fé na conduta do contribuinte, cujo reconhecimento pressupõe juízo de valor fundado em prova específica, sendo inadmissível a presunção desse elemento subjetivo.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.978.830/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I ou II, do CPC/15, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/15. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
