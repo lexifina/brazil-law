@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por DILSON SEVERINO DA SILVA contra decisão que inadmitiu recurso especial (e-STJ, fls. 248-256) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ, fl. 163):
+APELAÇÃO CÍVEL - AÇÃO DE EXIBIÇÃO DE DOCUMENTOS - PRESCRIÇÃO - OCORRÊNCIA - SENTENÇA EXTINTIVA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO. Ultrapassado o prazo prescricional das pretensões relativas aos documentos pleiteados, torna-se inexigível sua guarda e posterior exibição.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 190):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - ALEGAÇÃO DE OMISSÃO - VÍCIO INEXISTENTE - REDISCUSSÃO DE MATÉRIA - MERO INCONFORMISMO - ACLARATÓRIOS REJEITADOS. O judicante não aplica o direito conforme a pretensão das partes, mas, sim, de acordo como seu convencimento motivado. Logo, basta ao magistrado encontrar e justificar o motivo que o persuadiu acerca de que a razão está com esta ou aquela parte para, assim, encerrar a questão jurídica objeto de análise, sem necessidade de fazer expressa referência sobre cada dispositivo legal no transcurso processual abordado. Rejeita-se os aclaratórios quando inexiste o vício, mas tão-somente rediscussão de matéria.
+Nas razões do recurso especial, o recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação ao art. 1.022 do CPC/2015, afirmando que o Tribunal de origem deixou de se manifestar sobre os argumentos que apontam para a não implementação do prazo prescricional da ação de exibição de documentos.
+Sustentou também, com base no art. 105, inciso III, alínea c, da CF/1988, a existência de divergência jurisprudencial pautada na afronta aos arts. 189 e 205 do CC/2002. Destacou que a ação não está prescrita, pois não ultrapassado o prazo prescricional decenal.
+Asseverou que o termo inicial da contagem do prazo prescrional, em caso de ação de exibição de documentos, é a data da recu sa administrativa em exibir a documentação requerida.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 248-256).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 258-271).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, no tocante à alegação de violação ao art. 1.022 do CPC/2015, não há como ser examinada a tese, pois o recorrente, nas razões recursais, apresentou argumentação genérica, sem a indicação dos incisos em que está embasada a alegada negativa de prestação jurisdicional.
+É necessário frisar que o recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão.
+Nesse sentido, incidente, in casu, o enunciado da Súmula 284/STF.
+Em relação à divergência jurisprudencial, do exame dos argumentos expostos nas razões do recurso especial, constata-se que o agravante não demonstrou o dissídio nos termos estabelecidos em lei.
+Importa ponderar que a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelo recorrente.
+A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE CONHECIMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. A simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial, incidindo, portanto, o disposto na Súmula 284 do STF.
+2. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico, que evidencie a similitude fática entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+3. De acordo com a orientação firmada neste Superior Tribunal de Justiça, "os honorários advocatícios pactuados com a cláusula de êxito são exigíveis apenas a partir do implemento da condição suspensiva, mesmo nos casos de revogação do mandato no curso da demanda" (AgInt no REsp n. 1.704.707/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/9/2021, DJe de 24/9/2021). Ademais, para alterar o entendimento do Tribunal de origem seria necessário o reexame de fatos e provas, o que é vedado em recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.936.563/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO DA DIVERGÊNCIA. DECISÃO UNIPESSOAL. IMPOSSIBILIDADE.
+1. Ação de cobrança.
+2. A insurgência da parte agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. A ausência de cotejo analítico e a não comprovação da similitude fática, aptas a demonstrar a divergência jurisprudencial sustentada pela parte agravante, violam o art. 1.029, § 1º do CPC/2015.
+4. Decisão unipessoal não é adequada para comprovação da divergência jurisprudencial.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.345.611/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+No caso em exame, depreende-se que o agravante, ao interpor o recurso especial, limitou-se a citar os acórdãos paradigmas sem realizar o devido cotejo analítico para fins de comprovação da divergência jurisprudencial alegada.
+Logo, não há como ser julgado o recurso especial com base na alínea c do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do r ecurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 250,00 (duzentos e cinquenta reais), observada a gratuidade judiciária.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
