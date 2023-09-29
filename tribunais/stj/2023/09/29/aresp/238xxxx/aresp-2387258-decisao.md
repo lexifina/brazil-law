@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial de FERNANDA NASCIMENTO DA SILVA no qual se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 64):
+GRATUIDADE DE JUSTIÇA - NÃO SE A CONCEDE À PARTE QUE NÃO COMPROVA A AUSÊNCIA DE RECURSOS PARA O PAGAMENTO DAS CUSTAS PROCESSUAIS - DOCUMENTO ANEXADO AOS AUTOS QUE SE REVELA INSUFICIÊNTE PARA ATESTAR A ALEGADA HIPOSSUFICIÊNCIA - DESPROVIMENTO DO RECURSO.
+Uma das questões debatidas nos autos, qual seja, "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos Recursos Especiais 1.988.686/RJ, 1.988.687/RJ e 1.988.697/RJ, da relatoria do Ministro Og Fernandes (Tema 1.178/STJ).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em ob servância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
