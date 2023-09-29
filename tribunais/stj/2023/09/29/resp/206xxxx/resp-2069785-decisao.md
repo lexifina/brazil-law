@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra acórdão do Tribunal de Justiça local no Agravo em Execução Penal n. 1.0290.18.000535-4/001.
+Consta dos autos que o Juízo das Execuções indeferiu o pedido de extinção da punibilidade do Sentenciado, em razão do não pagamento da pena de multa.
+Irresignada, a Defesa interpôs agravo em execução penal, que foi provido, por maioria de votos, para declarar extinta a punibilidade do Apenado, independente do pagamento da pena pecuniária . O acórdão ficou assim ementado (fl. 55):
+"AGRAVO EM EXECUÇÃO PENAL - RECURSO DEFENSIVO - EXTINÇÃO DA PUNIBILIDADE SEM O ADIMPLEMENTO DA PENA DE MULTA - POSSIBILIDADE - TRANSCURSO DO PRAZO DA PENA PRIVATIVA DE LIBERDADE - SENTENCIADO ASSISTIDO PELA DEFENSORIA PÚBLICA - HIPOSSUFICIÊNCIA PRESUMIDA - RECURSO PROVIDO.
+- Conforme entendimento firmado pelos Tribunais Superiores, o inadimplemento da pena de multa aplicada ao sentenciado impede a extinção da punibilidade do agente, salvo se comprovada a situação de hipossuficiência do reeducando.
+- In casu, o apenado é presumidamente hipossuficiente, circunstância verificada em razão do patrocínio da causa pela Defensoria Pública, caso em que é devido o reconhecimento da extinção da punibilidade.
+V.V.:
+AGRAVO EM EXECUÇÃO - EXTINÇÃO DA PUNIBILIDADE - IMPOSSIBILIDADE - INADIMPLEMENTO DA PENA DE MULTA - HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. O simples fato de o sentenciado ser assistido pela Defensoria Pública não implica, por si só, na comprovação da hipossuficiência para o pagamento da pena de multa. (Des. Flávio Batista Leite)."
+Nas razões do recurso especial, o Recorrente alega ofensa aos arts. 50 e 51, ambos do Código Penal.
+Argumenta que "a orientação firmada pelo Superior Tribunal de Justiça não permitiu utilizar da presunção de hipossuficiência para dispensar o condenado do pagamento da pena de multa a ele aplicada, mas tão somente decidiu que, havendo comprovação inequívoca da impossibilidade do pagamento de multa é possível que haja a extinção de punibilidade sem esta, o que não foi observado no presente caso" (fl. 81).
+Assevera que, "constatado o inadimplemento da pena de multa aplicada cumulativamente à privativa de liberdade, o Juízo da Execução Criminal deverá, mediante prévia oitiva do Ministério Público, antes de deliberar acerca da extinção da punibilidade, intimar o reeducando para efetuar o pagamento, ainda que parcelado, ou que comprove a sua incapacidade financeira para tanto" (fl. 81).
+Oferecidas contrarrazões (fls. 91-94), admitiu-se o recurso na origem (fls. 98-99).
+O Ministério Público Federal manifestou-se pelo "PROVIMENTO do Recurso Especial, eis que inexiste nos autos comprovação da hipossuficiência do ora Recorrente para o pagamento da multa, motivo pelo qual não há falar em extinção da punibilidade" (fl. 116).
+É o relatório.
+Decido.
+Extrai-se do voto-vencedor do acórdão recorrido a seguinte fundamentação (fls. 56-63; sem grifos no original):
+"Conforme adiantado alhures, a Defesa pretende a extinção da punibilidade independente do pagamento da multa, diante da impossibilidade do adimplemento da pena de multa pelo Agravante diante de sua notória hipossuficiência financeira (ordem n.º 06).
+Pois bem.
+Analisando detidamente a questão, nota-se que o reeducando foi condenado à pena privativa de liberdade, bem como ao pagamento da pena de multa, em razão da prática do delito previsto no art. 33, caput, da Lei n.º 11.343/06 (ordem n.º 08).
+O sentenciado, no entanto, não adimpliu o pagamento da pena de multa imposta.
+O cerne da questão paira acerca da possibilidade da extinção da punibilidade do agente sem o pagamento da pena de multa.
+Com efeito, insta consignar que a controvérsia já foi decidida por meio da sistemática dos recursos repetitivos, em 2015, no âmbito do Superior Tribunal de Justiça (Tema n.º 931).
+ ..
+Contudo, na ADI n.º 3.150/DF, julgada pelo Supremo Tribunal Federal, a Corte Suprema declarou que, segundo o disposto no art. 5º, XLVI, da CF/88, a multa, ao lado da privação de liberdade e de outras restrições, é uma pena que se aplica em razão da prática de crimes bem como em prevenção à prática dos mesmos, sem perder a natureza das sanções penais.
+ ..
+Entretanto, não obstante a obrigatoriedade no adimplemento da pena de multa para a extinção da punibilidade do agente, tal situação só ocorre se quando o agente possui condições financeiras de realizar a quitação da pena acessória.
+ ..
+Conclui-se, portanto, quanto ao Tema 931 do STJ "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade".
+In casu, o agravante é pessoa pobre no sentido legal, assistido pela Defensoria Pública do Estado de Minas Gerais e, portanto, possui presunção de hipossuficiência financeira, razão pela qual, a meu ver, o inadimplemento da pena de multa não pode ser impedimento à extinção da punibilidade.
+ ..
+Destaca-se que o novo entendimento exarado pela Corte Cidadã, no Tema 931, significa para o condenado sem condições financeiras "a reconquista de sua posição como indivíduo aos olhos do Estado, permitindo-lhe reconstruir sua vida sob as balizas de um patamar civilizatório mínimo. A interdição de direitos decorrente da não extinção da punibilidade, segundo Schietti, leva esses condenados a um estágio de desmedida invisibilidade, comparável a própria inexistência de registro civil".
+Dessa sorte, tem-se que o condicionamento da extinção da punibilidade ao adimplemento da pena de multa transmuda-se em punição hábil a acentuar a já agravada situação de penúria e indigência dos apenados em situação hipossuficientes.
+Portanto, não obstante a ausência de quitação da pena de multa, uma vez comprovada a condição de hipossuficiência do reeducando, mostra-se viável a declaração da extinção da punibilidade da pena."
+Quanto à possibilidade de extinção da punibilidade independentemente do adimplemento da pena de multa, a Terceira Seção desta Corte Superior de Justiça, no julgamento do RESP n. 1.785.383/SP, realizado em 24/11/2021 e sob o rito dos recursos especiais repetitivos, fixou a seguinte tese: "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade".
+Na hipótese, ao declarar extinta a punibilidade do Sentenciado, a Corte local salientou que "o agravante é pessoa pobre no sentido legal, assistido pela Defensoria Pública do Estado de Minas Gerais e, portanto, possui presunção de hipossuficiência financeira" (fl. 61).
+Como se vê, a orientação exposta no acórdão impugnado divergiu do entendimento desta Corte Superior, pois o "fato de o reeducando ser assistido pela Defensoria Pública não faz presumir, por si só, a sua completa e absoluta impossibilidade de adimplir a sanção pecuniária. A demonstração da incapacidade econômica de pagamento da multa criminal, como requisito para a extinção da punibilidade, deve ser comprovada" (AgRg no HC n. 823.580/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/08/2023, DJe 24/08/2023).
+Nesse sentido:
+" ..
+8. In casu, colhe-se do acórdão recorrido que as instâncias ordinárias deferiram a progressão de regime ao reeducando, mediante mera presunção de sua incapacidade econômica para o pagamento da sanção pecuniária, ante o simples fato de estar assistido pela Defensoria Pública (e-STJ fls. 101/102), o que não merece prosperar, na medida em que, como bem ponderou o Ministro ROGERIO SCHIETTI CRUZ, no julgamento do HC n. 672.632, DJe 15/6/2021, "nem todos os processados criminalmente, patrocinados pela Defensoria Pública, são hipossuficientes.  .. . Assim, é ônus do sentenciado, durante a execução, justificar o descumprimento da sentença, também no ponto relacionado à multa. Isso deve ser feito, primeiramente, ao Juiz da VEC, com oportunidade de oitiva do Ministério Público".
+9. Agravo regimental não provido." (AgRg no REsp n. 1.990.425/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/04/2022, DJe 29/04/2022; sem grifos no original .)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INSERÇÃO DE DADOS FALSOS EM SISTEMA DE INFORMAÇÃO. CONDENAÇÃO BASEADA EM ELEMENTOS DO INQUÉRITO POLICIAL CORROBORADA POR PROVA JUDICIAL. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Ademais, a circunstância de o agravante ser beneficiário da assistência judiciária gratuita não autoriza a presunção absoluta de hipossuficiência econômica, depende, pois, de demonstração do preenchimento dos requisitos legais.
+5. Agravo regimental não provido." (AgRg no REsp n. 2.006.769/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2022, DJe 02/12/2022; sem grifos no original.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para cassar o acórdão que declarou extinta a punibilidade do Sentenciado, determinando que o Juízo das Execuções intime o Apenado para compr ovar o pagamento da multa ou a falta de condições de fazê-lo, ainda que de forma parcelada, condicionando a extinção de punibilidade ao adimplemento da sanção pecuniária, salvo se comprovada a insolvabilidade do Reeducando, a qual não pode ser presumida.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. EXTINÇÃO DA PUNIBILIDADE. NÃO PAGAMENTO DA PENA DE MULTA CUMULATIVAMENTE APLICADA. HIPOSSUFICIÊNCIA PRESUMIDA PELA CORTE DE ORIGEM. APENADO REPRESENTADO PELA DEFENSORIA PÚBLICA. PRESUNÇÃO INDEVIDA. AUSÊNCIA DE COMPROVAÇÃO DA ABSOLUTA INCAPACIDADE ECONÔMICA DE ARCAR COM A SANÇÃO PECUNIÁRIA. RECURSO ESPECIAL PROVIDO.
