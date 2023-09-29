@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Anailson Monteiro da Silva - preso preventivamente pela prática, em tese, dos crimes de roubo circunstanciado e falsa identidade -, em que se aponta como autoridade coatora o Tribunal de Justiça do Espírito Santo (Habeas Corpus n. 5010733-72.2022.8.08.0000), que manteve a segregação cautelar imposta pelo Juízo de Direito da 4ª Vara Criminal da comarca de Serra/ES (Ação Penal n. 0015041-29.2021.8.08.0048).
+Busca a impetração o relaxamento da prisão cautelar imposta ao paciente, ao argumento de excesso de prazo na formação da culpa, uma vez que o acusado se encontra custodiado desde 3/11/2021, sem que tenha sido encerrada a instrução criminal.
+Postula, ao final, a concessão da ordem para invalidar o ato constritor da liberdade de locomoção do paciente, por ser esta a única medida compatível com o bom direito e com a Justiça (fl. 11).
+Indeferi o pedido liminar (fls. 308/309).
+Instado a prestar informações, o Juízo singular se quedou silente (fls. 309, 319 e 324).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus, conforme se extrai (fls. 332/335):
+MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL, COMO CUSTOS IURIS, NO HABEAS CORPUS. DIREITO PROCESSUAL PENAL. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSENTES OS PRESSUPOSTOS QUE AUTORIZAM A CONCESSÃO DA ORDEM DE OFÍCIO. ARTIGO 34, INCISO XX, DO RISTJ. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. NÃO AFERIDO. MARCHA PROCESSUAL EM FLUXO REGULAR.
+1. "O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício" (AgRg no HC n. 736.573-SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/5/2022, DJe 20/5/2022.).
+2. "A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória, mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (HC n. 664.463-SE, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/3/2022, DJe 4/4/2022.).
+3. Manifestação do Ministério Público Federal pelo não conhecimento do presente habeas corpus substitutivo de recurso próprio.
+É o relatório.
+Vislumbro, no caso, o alegado constrangimento ilegal. Vejamos.
+Em um primeiro momento, em consulta ao andamento processual no sítio eletrônico do Tribunal de Justiça do Espírito Santo, observei que foi realizada audiência de instrução em julgamento em 28/6/2022, estando aparentemente encerrada a instrução (fl. 250).
+Em razão da inércia do Juízo singular em relação às informações solicitadas, intimei a defesa para apresentar cópia do andamento processual (fls. 343/348).
+Do referido andamento processual, extrai-se que o processo foi concluso para julgamento pela primeira vez em 3/10/2022. Depois desta data, observo que o processo apresentou andamento para movimentações de praxe e reanálise da prisão preventiva, encontrando-se novamente concluso para julgamento deste 6/9/2023.
+Assim, evidenciado que, ainda que a instrução processual se encontra encerrada desde 28/6/2022, não há justificativa plausível para que ainda não tenha sido proferida sentença, não se podendo admitir que o paciente arque com a mora da ineficiência da prestação jurisdicional.
+Mostra-se suficiente, no caso, a aplicação das medidas alternativas, consistentes em: a) comparecimento periódico em Juízo, no prazo e nas condições a serem fixadas pelo Juiz, para informar e justificar atividades (art. 319, I, do CPP); b) proibição de acesso ou frequência a lugares a serem identificados pelo Magistrado singular, relacionados com a prática criminosa (art. 319, II, do CPP); c) proibição de se ausentar da comarca, sem autorização judicial (art. 319, IV, do CPP); d) recolhimento domiciliar no período noturno e nos dias de folga, exceto se estiver trabalhando (art. 319, V, do CPP); e e) monitoramento eletrônico, se possível (art. 319, IX, do CPP).
+Em face do exposto, concedo a ordem para assegurar ao paciente o direito de aguardar em liberdade o julgamento do mérito da ação penal, mediante o cumprimento das medidas cautelares previstas no art. 319, I, II, IV, V e IX, do Código de Processo Penal, salvo prisão por outro motivo e sem prejuízo da aplicação, ou não, de outras medidas alternativas à prisão, fundamentadamente.
+Comunique-se com urgência.
+Comunique-se à Corregedoria para que tome as providências cabíveis ante a inércia adotada pelo Juízo de Direito da 4ª Vara Criminal da comarca de Serra/ES perante esta Corte Superior de Justiça.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E FALSA IDENTIDADE. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA EM 28/6/2020. DESÍDIA DO PODER JUDICIÁRIO. MORA QUE NÃO DEVE SER IMPUTADA AO PACIENTE. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida nos termos do dispositivo.
