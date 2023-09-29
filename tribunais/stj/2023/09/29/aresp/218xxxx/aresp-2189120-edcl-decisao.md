@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO IVO VIEIRA DE ANDRADE contra a decisão de fls. 820/821, de minha relatoria, que determinou o retorno dos autos ao Tribunal de origem em razão da afetação do Tema 1.024 do STJ.
+Sustenta a parte embargante que "a ocorrência de omissão quanto à análise do segundo tópico ventilado no agravo em recurso especial onde o ora embargante contende o direito ao cálculo mais rentável da RMI da aposentadoria à luz da violação direta aos artigos 29 (redação original) e 122 da Lei n. 8.213/91c/c TEMA 334/STF, conforme item "IV -DO DIREITO", alínea "B" da referida peça recursal" (fl. 825).
+Requer "o recebimento dos presentes Embargos de Declaração, interrompendo-se o prazo para a interposição de qualquer outro recurso na dicção do artigo 538 do CPC, para, dando-lhe provimento, seja declarada a r. decisão monocrática para examinar as questões acima apontadas" (fl. 826).
+Não houve impugnação ao recurso (fl. 835).
+É o relatório.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+No caso dos autos, a decisão embargada determinou a devolução dos autos porquanto a questão debatida no feito, qual seja, "o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos REsps 1.905.830/SP, 1.912.784/SP e 1.913.152/SP, de relatoria do Ministro Herman Benjamin, sob o rito dos recursos repetitivos (Tema 1.124/STJ).
+Consoante entendimento consolidado nesta Corte, a decisão de sobrestamento, com determinação de retorno dos autos ao Tribunal de origem a fim de que lá seja exercido o juízo de conformidade (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, sendo, portanto, irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não é o caso dos autos. Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. TEMA AFETADO E JULGADO EM SEDE DE RECURSO REPETITIVO PELO STJ. CASO DOS AUTOS. PERTINÊNCIA TEMÁTICA. DEVOLUÇÃO DO FEITO AO TRIBUNAL A QUO PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES.
+1. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.030, I, b, II, 1.040 e 1.041 do CPC/2015), não possui carga decisória e, por isso, trata-se de provimento irrecorrível. Precedentes.
+2. Agravo interno não conhecido. (AgInt no AREsp n. 1.227.445/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2020.)
+Determinado o retorno dos autos à Corte de origem para oportuna aplicação dos arts. 1.040 e 1.041 do CPC/2015 , o exame dos demais tópicos constantes das razões do recurso especial fica prejudicado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
