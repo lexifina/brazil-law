@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCELO HENRIQUE JESUS DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução nº 0007606-98.2023.8.26.0996).
+Consta dos autos que o paciente, em cumprimento de pena total de 5 anos e 10 meses de reclusão, teve pedido de progressão ao regime aberto indeferido pela ausência de requisito subjetivo.
+O impetrante alega, em síntese, que estão preenchidos os requisitos para progressão ao regime aberto, uma vez que o paciente encontra-se plenamente reabilitado das faltas médias, possui bom comportamento carcerário e resgatou os requisitos objetivos e subjetivos.
+Destaca que o cálculo penal da guia de execução traz que o lapso para concessão de regime aberto seria em 25/3/2023 e, conforme informado no histórico prisional, a reabilitação se deu em 24/4/2023.
+Requer, liminarmente e no mérito, a progressão ao regime aberto.
+Solicitadas informações, foram prestadas às fls. 48-50 e 53-64.
+O Ministério Público Federal, às fls. 66-69, opinou pela denegação da ordem, à luz da seguinte ementa:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO DEVIDAMENTE FUNDAMENTADO EM ELEMENTOS CONCRETOS. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA DE FALTAS DISCIPLINARES DE NATUREZA MÉDIA SEM A REABILITAÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório. DECIDO.
+Para melhor delimitar a questão, transcrevo os fundamentos do acórdão combatido quanto ao ponto pertinente (fls. 36-37):
+No caso em tela, o custodiado cometeu uma falta de natureza média em 02/10/2022, que de acordo com o artigo 89, inciso II, da Resolução SAP 144/2010, estaria reabilitada no prazo de 06 (seis) meses. Ocorre que em 24/10/2022, o reeducando cometeu nova falta da mesma natureza, acarretando assim, a imediata interrupção do tempo já cumprido, exigindo-se novo prazo para reabilitação das respectivas faltas, conforme preconiza o artigo 90, in verbis:
+Artigo 90 - o cometimento de falta disciplinar de qualquer natureza, durante o período de reabilitação, acarreta a imediata interrupção do tempo até então cumprido.
+Parágrafo único - com a prática de nova falta disciplinar, exige-se novo tempo para reabilitação que deve ser somado ao tempo estabelecido para a falta anterior, sendo detraído do total o período já cumprido.
+Percebe-se, portanto, que não houve a reabilitação de uma das faltas cometidas pelo reeducando, na medida em que não transcorreu o lapso temporal necessário para tanto.
+Dessa forma, por onde quer que se analise a questão, tem-se que inviável a pretensão do recorrente, já que a não reabilitação das faltas cometidas macula o comportamento carcerário do agravante, não restando preenchido o requisito subjetivo para a concessão do benefício (artigo 85, III, da Resolução SAP 144/2010).
+Verifica-se que o Tribunal de origem, ao indeferir o pleito de progressão de regime prisional do paciente, fundamentou o acórdão no fato de o paciente ter praticado uma falta média em 02/10/2022 e nova falta média em 24/10/2022, o que acarretou a interrupção do prazo para a reabilitação. Assim, considerou-se que as faltas disciplinares não foram reabilitadas, o que ensejou o indeferimento da progressão de maneira fundamentada.
+Nesse sentido, mutatis mutandis:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA DE FALTAS DISCIPLINARES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte considera que a existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo.
+2. Configura-se legítimo o indeferimento da progressão de regime prisional, com base em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico do agravante, que praticou faltas disciplinares de natureza grave, consistentes em posse de entorpecente e de celular, nos anos de 2017 e 2019.
+3. Agravo regimental improvido. (AgRg no HC 668.421/SP, Rel. Ministro Olindo Menezes - Desembargador Convocado do TRF 1.ª Região -, Sexta Turma, DJe 17/09/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO DE REGIME INDEFERIDOS. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTA DISCIPLINAR GRAVE. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo", bem como, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/6/2020, DJe 23/6/2020).
+2. "A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário" (HC n. 347.194/SP, Relator Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. No caso concreto, o Tribunal Estadual concluiu que o caso em questão requer cautela, diante do histórico carcerário conturbado do paciente que perpetrou faltas graves em reduzidíssimo período de tempo, reconhecidas e homologadas em 23/4/2020 e 17/6/2020, além de falta média em 18/6/2021, demonstrando que ao invés de aproveitar a chance para se reabilitar, o executado não assimilou a terapêutica penal.
+4. Agravo regimental desprovido. (AgRg no HC n. 767.408/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 04/11/2022)
+Desta forma, não se vislumbra qualquer ilegalidade ou arbitrariedade no acórdão combatido, tendo em vista as peculiaridades do caso concreto, que justificam o indeferimento da progressão de regime devido ao não preenchimento do requisito subjetivo.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
