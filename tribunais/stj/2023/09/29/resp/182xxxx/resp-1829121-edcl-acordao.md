@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 90 DA LEI N. 8.666/1993. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos declaratórios opostos contra acórdão de e-STJ fls. 923/924, assim ementado:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 90 DA LEI N. 8.666/1993. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. AGRAVO REGIMENTAL DE FRANCIEL. APLICAÇÃO ANALÓGICA DAS SÚMULAS N. 283 E 284/STF. RECURSO DE DALCI FILIPETTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. DOSIMETRIA. PENA-BASE. CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. CONFISSÃO ESPONTÂNEA. NÃO INCIDÊNCIA. APLICAÇÃO DA ATENUANTE INOMINADA PREVISTA NO ART. 66 DO CP. SÚMULA N. 7/STJ.
+1. Em relação à FRANCIEL, as razões regimentais estão dissociadas do fundamento da decisão agravada, motivo pelo qual permanece incólume. Aplicação analógica das Súmulas n. 283 e 284/STF.
+2. Pertinente à DALCI FILIPETTO, em primeiro lugar, a arguida negativa de prestação jurisdicional também esbarra no óbice da Súmula n. 284/STF, uma vez que a defesa argumentou genericamente que a Corte de origem foi omissa, porém deixou de especificar as teses que não teriam sido analisadas, não logrando delimitar de forma específica as razões de sua insurgência.
+3. Não prospera a arguida ilegalidade quanto à exasperação da pena-base em relação à culpabilidade do crime de fraude à licitação, uma vez que foi apontada a posição de liderança do agravante no grupo criminoso, destacando, ainda, a "utilização de empregados para ocultar a condição de real administrador". Esses elementos, de fato, desbordam da subsunção típica e são suficientes para demonstrar a maior reprovabilidade do seu comportamento.
+4. Na segunda fase da dosimetria, em que pese a obrigatoriedade de o magistrado atenuar a pena pela confissão espontânea, verifico que, na hipótese, essa circunstância não se verifica. Com efeito, observa-se que o recorrente negou totalmente a prática delitiva, não sendo apontadas razões suficientes que pudessem indicar a assunção dos fatos de sua parte, seja de forma parcial ou qualificada.
+5. Ainda na segunda etapa, assinalou a instância de origem que não foi demonstrada pela defesa a existência de situação indicativa de uma menor culpabilidade do réu. Por conseguinte, inviável a aplicação da atenuante inominada descrita no art. 66 do CPP, pois seria imprescindível o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7/STJ. Precedentes.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+No presente recurso, a parte embargante alega haver "omissão e obscuridade, uma vez que, além de não analisados os princípios aportados (item 3 e 4) e do devido processo legal (item 5)" (e-STJ fl. 942).
+Acrescenta que, "quanto aos pontos 3 e 4, ao não reconhecer a atenuante inominada prevista no art. 66, referente ao arrependimento posterior decorrente do encerramento das atividades empresariais em 12.06.2012, acaba por tolher direito fundamental do recorrente" (e-STJ fl. 942).
+Invoca os princípios da presunção de inocência e da dignidade da pessoa humana e aponta como vulnerado o art. 1º, caput e inciso III, da CF.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 90 DA LEI N. 8.666/1993. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. Percebe-se que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+7. Embargos de declaração rejeitados. (EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No caso em tela, não se fazem presentes nenhum dos citados defeitos.
+No que se refere à arguida ilegalidade na dosimetria da pena cominada a DALCI FILIPETTO, vale transcrever os seguintes excertos do acórdão ora embargado (e-STJ fl. 932 ):
+Como antes analisado, não se verifica ilegalidade na exasperação da pena-base, com lastro na culpabilidade negativa, na medida em que foi apontada a posição de liderança do réu no grupo criminoso, "com especial controle sobre a conduta do corréu Reginaldo Rossi, funcionário de sua empresa. Tal circunstância, aliada à utilização de empregados para ocultar a condição de real administrador da MULTIMEDI, eleva o grau de reprovabilidade da conduta" (sentença condenatória - e-STJ fls. 249/250). Esses elementos, de fato, desbordam da subsunção típica e são suficientes para demonstrar a maior reprovabilidade do seu comportamento.
+A circunstância judicial da culpabilidade pode ser compreendida como a maior ou menor censurabilidade do comportamento do agente, a maior ou menor reprovabilidade da conduta praticada. Sendo assim, na análise dessa circunstância, deve-se "aferir o maior ou menor índice de reprovabilidade do agente pelo fato criminoso praticado, não só em razão de suas condições pessoais, como também em vista da situação de fato em que ocorreu a indigitada prática delituosa, sempre levando em conta a conduta que era exigível do agente, na situação em que o fato ocorreu" (DELMANTO, Celso. Código Penal Comentado. 8. ed. São Paulo: Saraiva, 2010, p. 273).
+Na segunda fase da dosimetria, em que pese a obrigatoriedade de o magistrado atenuar a pena pela confissão espontânea, seja na forma parcial seja na forma qualificada, verifico que, na hipótese, essa circunstância não se verifica. Com efeito, observa-se que o agravante negou totalmente a prática delitiva, não sendo apontadas razões suficientes que pudessem indicar a assunção dos fatos de sua parte, seja de forma parcial ou qualificada.
+Ainda na segunda etapa, a defesa pugna pela incidência da analogia, a fim de que seja reconhecida atenuante não prevista em lei, consistente no encerramento das atividades empresariais no dia 12/6/2012, quando alegadamente se iniciava a persecução penal.
+No caso em desfile, assinalou o Tribunal de origem que não foi demonstrada pela defesa a existência de situação indicativa de uma menor culpabilidade do agente. Por conseguinte, inviável a aplicação da atenuante inominada descrita no art. 66 do Código de Processo Penal, pois seria imprescindível o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7/STJ.
+Além disso, vale registrar que é incabível a pretensão de forçar o pronunciamento desta Corte sobre eventual ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 266-C DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA - RISTJ. INADMISSIBILIDADE. INDEFERIMENTO LIMINAR. POSSIBILIDADE. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊ NCIA. CONVERGÊNCIA DE ENTENDIMENTOS ENTRE AS PRIMEIRAS DUAS CONTROVÉRSIAS E INEXISTÊNCIA DE DISSIDÊNCIA JURÍDICA QUANTO À ÚLTIMA. RECURSO QUE NÃO SE PRESTA A ANALISAR O ACERTO OU DESACERTO DO ACÓRDÃO EMBARGADO. UNIFORMIZAÇÃO DE JURISPRUDÊNCIA INTERNA. PREQUESTIONAM ENTO DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - STF. RECURSO INADMITIDO. AGRAVO DESPROVIDO.
+1. O art. 266-C do Regimento Interno do Superior Tribunal de Justiça autoriza ao relator indeferir liminarmente os embargos de divergência manifestamente inadmissíveis ou improcedentes, exatamente como se verificou no presente caso.
+2. Nos termos da jurisprudência pacífica desta Corte Superior, não há que se falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, estando o princípio da colegialidade preservado ante a possibilidade de submissão da decisão singular ao controle recursal por meio da interposição de agravo interno.
+3. No caso, além de clara sintonia entre o acórdão embargado e os paradigmas citados quanto às duas primeiras controvérsias, na última não se identificou identidade jurídica entre os arestos confrontados.
+4. Os embargos de divergência cingem-se à natureza uniformizadora da jurisprudência interna, e não ao acerto ou desacerto do acórdão embargado.
+5. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição Federal - CF.
+6. Agravo regimental desprovido.
+(AgRg nos EAREsp n. 1.800.259/MS, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 26/10/2022, DJe de 3/11/2022, grifei.)
+Com efeito, inexistem os vícios da omissão ou da obscuridade na decisão objurgada. Percebe-se, isso sim, uma insatisfação da parte com o resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos declaratórios.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
