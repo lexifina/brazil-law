@@ -1,0 +1,29 @@
+DECISÃO
+JAMES ROSS -ESPÓLIO interpõe agravo interno (fls. 1.380/1.390, e-STJ) contra decisão proferida pela Presidência do Superior Tribunal de Justiça (fls. 1.374/1.376, e-STJ) que não conheceu do agravo em recurso especial (fls. 1.302/1.316, e-STJ) em virtude da não impugnação específica a fundamentos da decisão agravada (fls. 1.295/1.296, e-STJ).
+Nesta feita, a parte agravante aduz que refutou expressamente todos os fundamentos da decisão agravada.
+É o relatório.
+DECIDO.
+Observa-se que a parte recorrente, na petição de agravo impugnou suficientemente todos os fundamentos da decisão que deixou de admitir o seu recurso especial, razão pela qual se há de reconsiderar a decisão de fls. 1.374/1.376 (e-STJ).
+Passa-se, pois, ao exame do recurso especial fundamentado no art. 105, inciso III, alínea "a" e "c, da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Embargos de terceiro - Cumprimento de sentença - Alegação de fraude à execução - Apelo da ré Majer - Indeferimento de pedido de justiça gratuita feito no apelo - Fixação de prazo para o recolhimento do preparo - Preparo não recolhido - Deserção.- Não foram preenchidos os requisitos da súmula 375 do Superior Tribunal de Justiça, porque a penhora do bem objeto da lide não foi averbada no Registro de Imóveis e não foi produzida prova de má-fé dos autores - Fraude à execução não comprovada - Inversão do resultado do julgamento e da responsabilidade das partes pelo ônus da sucumbência - Apelo da ré não conhecido, apelo dos autores provido" (fl. 1.194, e-STJ).
+No especial o recorrente, além de divergência jurisprudencial, sustenta a violação do artigo 792, IV, do Código de Processo Civil. Sustenta, em síntese, que ficou comprovada a prática de fraude à execução por parte dos recorridos, pois quando foi feita a dação em pagamento havia ação capaz de reduzí-la a insolvência.
+A irresignação não merece prosperar.
+Compulsando os autos, verifica-se que a Corte local dirimiu a controvérsia nos seguintes termos:
+"(..) Considera-se fraude à execução a alienação de bem quando, a seu tempo, pendia contra o alienante, devidamente citado, ação de conhecimento ou de execução capaz de reduzi-lo à insolvência (artigo 792, do Código de Processo Civil), exigindo-se, ainda, para a sua caracterização, o registro da penhora do bem alienado ou a existência de prova de má-fé do terceiro adquirente (súmula 375 do Superior Tribunal de Justiça).
+(..)
+No caso em exame, a ré Majer foi intimada, no cumprimento de sentença, a pagar dívida para com o Espólio de James Ross, demais de R$6,3 milhões, no dia 27.09.2017, mas não o fez, nem ofereceu bens à penhora (fls. 23/25 dos respectivos autos).
+Determinada a penhora do imóvel de que cuida os embargos, ela não foi, contudo, averbada no Registro de Imóveis, antes da devolução do mesmo móvel aos autores, com o registro da dação em pagamento, tampouco foi produzida prova de que os autores agiram com má-féno episódio, o que afasta a caracterização de fraude à execução.
+De fato, o caso em exame difere de compra e venda comum, ou de dação em pagamento, como as partes resolveram nomear o negócio realizado no dia 22.02.2019, em que as partes envolvidas não mantinham relação jurídica, porque, neste caso, os autores não adquiriram bem cuja origem desconheciam ou que passaram a conhecer por ocasião do negócio, mas readquiriram imóvel do qual haviam sido proprietários até meados de 2016,quando o venderam à executada Majer, não tendo, desde então, deixado de negociar com ela, para que o contrato que entabularam fosse efetivamente cumprido, o que não foi possível, daí a solução de voltarem as partes às suas condições originárias.
+Em tais circunstâncias, é razoável admitir que não se exigia dos autores que realizassem pesquisas a respeito de negócios ou dívidas que pudessem envolver o imóvel, porque nunca deixaram de ter contato com a Majer a respeito do contrato que firmaram e que o envolvia e porque eram eles próprios os proprietários anteriores do bem" (fls. 1.199/1.200, e-STJ).
+Portanto, alterar o decidido no acórdão impugnado, no que se refere a não ter sido configurada a má-fé dos adquirentes demandaria a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. IMPENHORABILIDADE DE BEM DE FAMÍLIA. VIOLAÇÃO AO ART. 792, IV, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO PREJUDICADO. OCORRÊNCIA DE FRAUDE À EXECUÇÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Referente à matéria de que trata os art. 792, IV, do CPC/2015, incide a Súmula 211/STJ, na espécie, porquanto ausente o prequestionamento. Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+2. No caso, o acolhimento das teses veiculadas nas razões do recurso especial, centralizadas na alegação de que a transmissão do imóvel discutido nos autos ocorreu de forma fraudulenta, sendo incontroversa a fraude à execução, exigiria necessariamente o reexame do conjunto fático-probatório dos autos, incidindo o óbice da Súmula 7 do Superior Tribunal de Justiça no ponto.
+3. Agravo interno desprovido"
+(AgInt no AREsp n. 2.216.577/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/6/2023, DJe de 29/6/2023.)
+Ante o exposto, reconsidero a decisão de (fls. 1.374/1.376, e-STJ) para, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor da causa, os quais deverão ser majorados para 11% (onze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
