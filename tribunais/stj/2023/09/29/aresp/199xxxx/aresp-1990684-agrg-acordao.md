@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FEMINICÍDIO E AMEAÇA. DOSIMETRIA. PENA-BASE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. CONFISSÃO ESPONTÂNEA. IDONEIDADE DA DECISÃO QUE NÃO A RECONHECEU. SÚMULA N. 7/STJ. RECURSO DESPROVIDO.
+1. A alegação deduzida no recurso especial quanto à pena-base não foi analisada pela Corte de origem ao examinar o recurso de apelação; ausente, portanto, o preenchimento do requisito do prequestionamento. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Quanto à confissão espontânea, consta do acórdão que "não se pode aceitar tenha o acusado confessado o crime, pelo contrário, afirmou de maneira pouco crível não se recordar dos fatos em razão da embriaguez e consumo de cocaína. Assim, não tendo havido confissão por parte do réu, deixo de reconhecer a atenuante".
+3. "Não reconhecida a confissão espontânea pelas instâncias ordinárias, para divergir dessa conclusão, seria necessário revolvimento do quadro fático-probatório, inadmissível em recurso especial, conforme a Súmula n. 7 do STJ" (AgRg no REsp n. 1.874.324/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021).
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FRANCISCO JOSÉ BORGES contra decisão proferida pela Presidência desta Corte que conheceu do agravo e não conheceu do recurso especial anteriormente manejado.
+A controvérsia foi bem sumariada pela própria decisão agravada (e-STJ fls. 698/699):
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar os acórdãos  de fls. 607/612 e de fls. 652/655, respectivamente  exarados pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à "primeira controvérsia", aponta a Defesa degeneração do art. 59 do CP, ao raciocínio de que, como o objurgado "patamar elevado de 1/2, acima do mínimo legal", com arrimo em "condenação antiga, nas consequências do delito para a vitima" (fl. 644), as quais se afiguram ínsitas ao delito em destaque - não possuem fundamentação idônea, o redimensionamento da pena-base do apenado é medida que se impõe.
+Para tanto, explicita os seguintes argumentos:
+No caso em tela, em sede de razões de apelação, foi argumentado que a pena base, fixada em primeira Instância, no patamar elevado de 1/2 acima do mínimo legal, sob a justificativa de mau antecedente do recorrente, por ostentar condenação antiga, nas consequências do delito para a vitima e por haver mais de uma qualificadora, resultou em transgressão aos critérios previstos no citado dispositivo legal, já que não foram analisados em seu conjunto, mesmo porque as consequências do delito para a vitima são inerentes ao tipo penal, visto tratar-se de tentativa de crime contra a vida. (fls. 644). Todavia, no acórdão impugnado a questão da analise conjunta dos critérios legais para a fixação da pena, não foi analisada, ficando a decisão sem fundamentação própria, apenas fazendo menção que foram satisfatoriamente justificadas em primeira instância, que não pode prevalecer por ausência de analise conjunta de todos os critérios estabelecidos no art. 59 do CP . (fls. 644).
+Em série, acerca da "segunda controvérsia", sinaliza menoscabo ao art. 65, inciso III, alínea "d", do CP, sob o argumento de que, malgrado o apenado tenha confessado os fatos a ele imputados em sessão plenária, as instâncias ordinárias não reconheceram a aludida circunstância atenuante, razão pela qual a reforma do aresto fustigado - consoante inteligência da Súmula 545/STJ -, com o conseguinte redimensionamento das sanções impingidas, na segunda etapa dosimétrica, é providência de rigor.
+Nessa senda, traz à colação os seguintes argumentos:
+A atenuante da confissão espontânea tem caráter objetivo, não fazendo a lei referência a motivos ou circunstâncias que a determinaram.
+Trata-se de um direito público subjetivo do réu ter a pena reduzida quando confessa espontaneamente. (fls. 645).
+No caso em tela, restou plenamente claro nos autos que o réu admitiu a autoria, tanto que ouvido em plenário (gravação audiovisual) não negou que jogou álcool e ateou fogo em sua sogra, Rita, e afirmou que abraçou Rita para apagar o fogo, declarou que estava arrependido e pediu perdão à ela pelo ato que praticou, fato que foi expressamente exposto tanto nas razões da apelação como nos embargos de declaração. (fls. 645).
+Também foi exposto tanto nas razões da apelação como nos embargos de declaração, que não foi somente em plenário que o réu confessou, posto que, na fase do sumário de culpa, interrogado pela mesma Magistrada de primeiro Grau, que presidiu a sessão do júri, declarou  ..  (fls. 645).
+O fato do réu, em razão do seu estado de embriaguez e consumo de cocaína, não se recordar de detalhes de como o fato ocorreu, argumentos utilizados na sentença de primeiro grau, não retira o valor de sua confissão, posto que em seus interrogatórios, perante a autoridade judicial, declarou que colocou fogo na sogra e que estava arrependido, conforme acima transcrito. (fls. 646).
+Dessa forma, resta flagrante a ilegalidade já que a lei não discrimina qualquer tipo de confissão. (fls. 646).
+Nas razões do presente recurso, reitera a defesa os mesmos argumentos expendidos por ocasião do recurso especial, repisando, basicamente, que não pretende "o reexame das provas, mas a apreciação deste E. Superior Tribunal de Justiça, de matéria de direito, por violação lei federal, artigos 59 e 65, III, alínea "d", ambos do Código Penal" (e-STJ fl. 716).
+Requer, ao final, a reconsideração da decisão ora fustigada ou a submissão do feito ao colegiado para que seja dado provimento ao agravo regimental (e-STJ fl. 721).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FEMINICÍDIO E AMEAÇA. DOSIMETRIA. PENA-BASE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. CONFISSÃO ESPONTÂNEA. IDONEIDADE DA DECISÃO QUE NÃO A RECONHECEU. SÚMULA N. 7/STJ. RECURSO DESPROVIDO.
+1. A alegação deduzida no recurso especial quanto à pena-base não foi analisada pela Corte de origem ao examinar o recurso de apelação; ausente, portanto, o preenchimento do requisito do prequestionamento. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Quanto à confissão espontânea, consta do acórdão que "não se pode aceitar tenha o acusado confessado o crime, pelo contrário, afirmou de maneira pouco crível não se recordar dos fatos em razão da embriaguez e consumo de cocaína. Assim, não tendo havido confissão por parte do réu, deixo de reconhecer a atenuante".
+3. "Não reconhecida a confissão espontânea pelas instâncias ordinárias, para divergir dessa conclusão, seria necessário revolvimento do quadro fático-probatório, inadmissível em recurso especial, conforme a Súmula n. 7 do STJ" (AgRg no REsp n. 1.874.324/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de razões aptas a infirmar as fundações da decisão recorrida.
+Com efeito, constatou-se que o tema trazido nas razões recursais - ofensa ao art. 59 do CP, especificamente quanto ao "patamar elevado de 1/2 acima do mínimo legal, sob a justificativa de mau antecedente do recorrente, por ostentar condenação antiga, nas consequências do delito para a vítima e por haver mais de uma qualificadora" (e-STJ fl. 644) - não foi objeto do devido prequestionamento, e a parte interessada não logrou opor embargos de declaração, quanto a esse ponto, a fim de provocar a manifestação do órgão julgador, deixando de atender ao comando constitucional que exige a presença de causa decidida como pressuposto para a interposição do recurso excepcional.
+No presente caso, irretocável a decisão agravada que entendeu pela incidência dos verbetes n. 282 e 356 da Súmula do STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PENA-BASE. EXASPERAÇÃO. CAUSA DE AUMENTO. INTERNACIONALIDADE. ALEGAÇÃO DE BIS IN IDEM. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. IMPUGNAÇÃO. AUSÊNCIA. AUMENTO. QUANTIDADE E NATUREZA DAS DROGAS. DESPROPORCIONALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Defesa não impugna a afirmação da decisão agravada de que não houve o prequestionamento, ou seja, o debate, pelo Tribunal de origem, da alegação de que teria havido bis in idem na dosimetria da pena, mas busca a análise da matéria, diretamente pelo Superior Tribunal de Justiça, por meio do argumento de que o tema seria de ordem pública e deveria ser conhecido, ainda que de ofício.
+2. Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014).
+3. Diante da quantidade de drogas apreendidas, não há falar que estaria desproporcional a pena-base, exasperada em 10 (dez) meses acima do mínimo legal.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.880.849/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/11/2022, DJe de 28/11/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. PRONÚNCIA. EXCESSO DE LINGUAGEM NÃO CONFIGURADO. ART. 581 DO CPP. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FALTA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Não há prequestionamento - nem implícito - do art. 581 do CPP, pois o Tribunal local não analisou a tese de descabimento do recurso em sentido estrito por erro grosseiro. Tampouco foram opostos embargos de declaração para buscar seu pronunciamento sobre o tema. Incidência das Súmulas 282 e 356/STF.
+ ..
+4. Agravo regimental desprovido. (AgRg no REsp n. 1.989.504/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/5/2022, DJe de 31/5/2022.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/3/2017, DJe 17/3/2017.)
+Ademais, verifica-se que o recurso aclaratório manejado veiculou pretensão voltada apenas ao reconhecimento da confissão espontânea, não tendo se desincumbido a parte de fazê-lo também em relação à primeira fase dosimétrica.
+Sendo assim, aplicável à hipótese o disposto no enunciado 211 da Súmula desta Casa, segundo o qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA RELAÇÕES DE CONSUMO. ART. 7º, VII, DA LEI N. 8.137/1990. VIOLAÇÃO DO ART. 155 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃO PROFERIDO EM HABEAS CORPUS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que não ocorreu neste caso. Incidência da Súmula n. 211 do STJ.
+2. Não obstante a oposição do embargos, remanesceu a omissão, no acórdão recorrido, relativamente à violação do art. 155 do CP. Registre-se que inexiste, em situações tais, cerceamento ao contraditório, porquanto incumbia ao recorrente alegar violação do art. 619 do Código de Processo Penal.
+3. Para infirmar a conclusão adotada, no sentido de insuficiência de provas para a condenação, seria necessário o reexame do suporte fático delineado nos autos, o que é vedado pela Súmula n. 7 do STJ.
+4. A jurisprudência deste Superior Tribunal é pacífica quanto à impossibilidade de acórdão proferido em habeas corpus servir de paradigma para fins de comprovação de alegado dissídio jurisprudencial. Ressalva deste relator.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 540.734/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/11/2017, DJe de 4/12/2017, grifei.)
+Com efeito, vale frisar, outrossim , que o verbete sumular acima referido coexiste com o advento do CPC/2015, pois "o prequestionamento ficto é possível até mesmo na esfera penal, desde que, no recurso especial, tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, caso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC" (AgRg no REsp n. 1.669.113/MG, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 19/4/2018, DJe 11/5/2018).
+Não obstante, esse expediente não foi aventado na espécie, razão pela qual também não há que se falar em prequestionamento ficto.
+A respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME DE TORTURA. POLICIAL MILITAR. PERDA DO CARGO PÚBLICO. COMPETÊNCIA DA JUSTIÇA COMUM. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. VIOLAÇÃO À CONSTITUIÇÃO DA REPÚBLICA. VIA INADEQUADA. CONVERSÃO EM RECURSO EXTRAORDINÁRIO. IMPOSSIBILIDADE. ART. 9.º, INCISO II, DO CÓDIGO PENAL MILITAR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N.º 211 DESTA CORTE SUPERIOR. PREQUESTIONAMENTO FICTO. AUSÊNCIA DE ALEGAÇÃO DA OFENSA AO ART. 619 DO CÓDIGO DE PROCESSO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Embora o art. 1.025 do Código de Processo Civil/2015 admita a figura do prequestionamento ficto, somente é possível a incidência do referido dispositivo caso haja, no recurso especial, alegação de ofensa ao art. 619 do Código de Processo Penal, o que não ocorreu na espécie.
+6. Agravo regimental desprovido.
+(AgRg no REsp 1863948/GO, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/5/2020, DJe 28/5/2020.)
+Por fim, quanto à confissão espontânea, consta do acórdão que julgou os embargos de declaração (e-STJ fl. 654):
+E especificamente no que diz respeito à incidência da atenuante, infere-se da sentença que "(..) Na segunda fase da aplicação da pena, deixo de reconhecer a atenuante da confissão espontânea, alegada pela defesa nos debates, na medida em que não se pode aceitar tenha o acusado confessado o crime, pelo contrário, afirmou de maneira pouco crível, não se recordar dos fatos em razão da embriaguez e consumo de cocaína. Assim, não tendo havido confissão por parte do réu, deixo de reconhecer a atenuante" (fls. 500).
+Do excerto acima colacionado, verifica-se haver fundamentação idônea para afastar a referida atenuante, o que, nos moldes da jurisprudência desta Corte, autoriza o não reconhecimento da benesse.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. EXASPERAÇÃO MANTIDA. CONFISSÃO ESPONTÂNEA. ATOS ATÍPICOS. IMPOSSIBILIDADE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES DELITUOSAS COMPROVADA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Quanto ao afastamento da atenuante da confissão espontânea, não há qualquer ilegalidade a ser combatida, pois o acusado em momento algum confessou o transporte de substâncias entorpecentes, havendo confirmado tão somente o transporte de aparelhos eletrônicos - telefones celulares - e dito que desconhecia haver drogas em tais recipientes.
+ ..
+7. Agravo regimental não provido.
+(AgRg no AgRg no AREsp n. 2.259.388/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/5/2023, DJe de 15/5/2023.)
+E, "não reconhecida a confissão espontânea pelas instâncias ordinárias, para divergir dessa conclusão, seria necessário revolvimento do quadro fático-probatório, inadmissível em recurso especial, conforme a Súmula n. 7 do STJ" (AgRg no REsp n. 1.874.324/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021).
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ATENUANTE DA CONFISSÃO. RECONHECIMENTO. INVIABILIDADE. IRRELEVÂNCIA PARA O FEITO.
+I - Consoante a Súmula n. 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha dela se retratar, quando a manifestação for utilizada para motivar a sua condenação.
+II - No caso não há falar-se na incidência da atenuante da confissão espontânea, se o réu negou os fatos com veemência, e "advertido pelo Promotor de Justiça que a confissão poderia atenuar sua pena, mesmo assim, o apelado tornou a negar os fatos".
+III - "Inviável o reconhecimento da confissão espontânea se as instâncias ordinárias não consideraram que o depoimento do agravante tenha configurado confissão, pelo contrário, afirmaram que a informação passada refutava a prática do crime. E a desconstituição dessa conclusão esbarra no impedimento da Súmula 7 do STJ." (AgRg nos EAREsp n. 2.173.816/PR, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 26/4/2023, DJe de 28/4/2023).
+IV - Agravo regimental desprovido.
+(AgRg no HC n. 800.04 5/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
