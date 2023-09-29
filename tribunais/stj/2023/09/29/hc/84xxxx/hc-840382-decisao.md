@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Aline Aparecida Valentim de Souza Silva e Danielle Tofanin, em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul, que deu parcial provimento ao recurso de Apelação n. 0005662-43.2021.8.12.0019. Eis a ementa do julgado (fl. 332):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - RECURSO MINISTERIAL - PLEITO DE REDUÇÃO DA FRAÇÃO DE DIMINUIÇÃO DECORRENTE DO TRÁFICO PRIVILEGIADO - INCABÍVEL -OBSERVÂNCIAS AOS PARÂMETROS LEGAIS - AGRAVAMENTO DO REGIME PRISIONAL - IMPOSSIBILIDADE - PRETENSÃO DE AFASTAMENTO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS - ACOLHIDA - RECURSO PARCIALMENTE PROVIDO. Em atenção aos princípios da razoabilidade e da proporcionalidade, revela-se justo e adequado a majoração da fração do tráfico privilegiado no patamar de 1/3, como aplicado na sentença. Se o agente for condenado a pena igual ou inferior a 4 anos e não ser reincidente, deve ser mantido o cumprimento da reprimenda no regime aberto. Afasta-se a substituição da pena privativa de liberdade por sanções restritivas de direitos, quando essa medida não se revelar socialmente adequada, diante da natureza deletéria do entorpecente.
+Aqui, a defesa alega constrangimento ilegal em razão do afastamento da substituição da pena privativa de liberdade.
+Aduz que preenchidos os requisitos cumulativos do art. 44 do Código Penal, a concessão do benefício é medida imperativa, uma vez que se trata de direito subjetivo do réu (fl. 5).
+Requer, ao final, a concessão da ordem para restabelecer a sentença do juízo de primeiro grau, que substituiu a pena privativa de liberdade por restritivas de direito (fl. 6).
+O Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem. (fls. 350/354).
+É o relatório.
+Não verifico ilegalidade a ser sanada.
+O Tribunal a quo deu parcial provimento ao recurso ministerial para afastar a substituição da pena privativa de liberdade por restritivas de direitos, nos seguintes termos (fls. 335/336):
+ ..
+Tenho que essa insurgência do órgão de acusação merece prosperar, pois, apesar de as penas das acusadas ser inferior a 4 anos de reclusão e não serem reincidentes, foi considerada desfavorável ao menos uma circunstância judicial, de modo que, a meu sentir, as rés não fazem jus ao benefício da substituição da pena privativa de liberdade por sanções restritivas de direitos, posto que essa medida não se revela socialmente adequada, diante da natureza deletéria do entorpecente.
+ ..
+Ora, não é o caso de mitigação da substituição da pena corporal por restritivas de direitos, porquanto, ainda que o quantum de pena seja inferior a 4 anos, há circunstância judicial desfavorável.
+Com efeito, a presença de qualquer circunstância judicial negativa justifica a não concessão do benefício.
+A corroborar:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA MAJORADA. REVISÃO DA CONDENAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DOSIMETRIA. MAUS ANTECEDENTES. DOCUMENTO IDÔNEO. FALTA DE PREQUESTIONAMENTO. CONSEQUÊNCIAS. FUNDAMENTAÇÃO IDÔNEA. CONFISSÃO DA PRÁTICA DO DELITO. INEXISTÊNCIA. SÚMULA N. 7/STJ. FRAÇÃO DE AUMENTO POR CIRCUNSTÂNCIA AGRAVANTE. ADEQUAÇÃO E PROPORCIONALIDADE. REGIME MAIS GRAVOSO. NEGATIVA DA SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, para que fosse possível a análise do pleito absolutório, diante da alegada falta de provas da autoria, da apropriação e do dolo na conduta da ré, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7/STJ.
+2. A insurgência acerca da idoneidade e suficiência da certidão de antecedentes criminais exarada pelo Tribunal de Justiça do Estado do Paraná, a fim de exasperar a pena-base, não foi objeto de análise pelo acórdão recorrido e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Súmulas n. 282 e 356/STF.
+3. Quanto às consequências negativas, embora o prejuízo financeiro seja decorrência comum de crimes patrimoniais, sua análise pode ser considerada quando extrapolar a normalidade, como na hipótese dos autos.
+4. Conforme o entendimento das instâncias de origem, a ré , em nenhum momento, admitiu a prática do delito que lhe foi imputado, ainda que de forma parcial ou qualificada. Assim, "Inafastável a incidência do verbete n. 7 da Súmula do STJ, pois a alteração da conclusão a que chegou a Corte local sobre a alegada confissão espontânea demandaria nova incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial" (AgRg no AREsp n. 1.353.606/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2019, DJe 13/12/2019).
+5. O aumento da pena intermediária na fração de 1/6, pela incidência da circunstância agravante da alínea h do inciso II do art. 61 do CP (vítima maior de 60 anos) revela-se proporcional e adequado, não havendo ilegalidade a ser sanada. Precedente.
+6. A análise desfavorável das circunstâncias judiciais justifica a fixação do regime semiaberto, bem como o afastamento da substituição da sanção privativa de liberdade por restritivas de direitos, ainda que a pena imposta à ré seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal.
+7 . Agravo regimental desprovido.
+(AgRg no AREsp n. 2.249.220/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. REGIME INICIAL SEMIABERTO. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO IDÔNEA. MANTIDA A NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR SANÇÕES RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora a pena imposta tenha sido inferior a 4 anos de reclusão, a pen a-base foi fixada acima do mínimo legal tendo em vista o reconhecimento de circunstância judicial desfavorável (quantidade e natureza das drogas apreendidas), o que justifica o agravamento do regime prisional.
+2. Impende destacar que o Superior Tribunal de Justiça - STJ tem entendido que a gravidade concreta, evidenciada pela natureza e quantidade dos entorpecentes apreendidos, constitui elemento indicativo de que a substituição da pena privativa de liberdade por restritiva de direitos não seja suficiente para a prevenção e repressão do delito no caso concreto.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 821.230/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/8/2023, DJe 16/8/2023)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS PRIVILEGIADO. SUBSTITUIÇÃO DA PENA CORPORAL AFASTADA PELO TRIBUNAL A QUO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
