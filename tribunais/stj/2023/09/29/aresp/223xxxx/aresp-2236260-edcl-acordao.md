@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, determinando que, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado, efetivando-se, na sequência, a baixa dos autos ao Tribunal de origem, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SEGUNDOS ACLARATÓRIOS MANIFESTAMENTE IMPROCEDENTES. CARÁTER PROTELATÓRIO RECONHECIDO.
+Embargos de declaração rejeitados, com determinação de que, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado, efetivando-se, na sequência, a baixa dos autos ao Tribunal de origem.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por Clarí Terezinha Backes ao acórdão assim ementado (fl. 8.811):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+Insiste a embargante nas seguintes omissões (fl. 8827):
+- Primeiro, sob o viés literal da análise dos recursos anteriores, foi omisso com relação ao argumento de que, efetivamente, a recorrente expôs, nas razões do agravo em recurso especial, no agravo regimental e nos próprios embargos de declaração anteriores os fundamentos que caracterizam a afronta aos arts. 619 e 620 do CPP (persistência dos vícios dos aclaratórios opostos ao acórdão proferido no recurso em sentido estrito), explicando, ainda, por qual razão não é aplicável a Súmula n. 83/STJ ao presente caso;
+- Segundo, foi omisso o acórdão quanto ao argumento de que é inaplicável a menção de "impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário", quando parte dos arestos indicados como paradigma decorrem de recurso especial, no âmbito do STJ, e recurso de apelação, do TJSP, a saber: REsp 1.674.198/MG, AgRg no REsp n. 1.740.921/GO; TJSP, AC n. 0007378- 26.2013.8.26.0495;
+- Terceiro, foi omisso o acórdão ao desconsiderar que, quanto à alegação genérica de deficiência do cotejo analítico, o argumento foi devidamente enfrentado pelo agravo em recurso especial, sob o fundamento de que se trata de "afirmação genérica que não explicou em qual ponto as razões do recurso especial deixaram de "mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados""; e,
+- Quarto, foi omisso também quanto à alegação de que não prevalece o argumento de que não houve impugnação quanto à apontada "deficiência do cotejo analítico", pois o decisum que inadmitiu o recurso especial assentou que estaria prejudicado o exame da alegada divergência jurisprudencial, "diante dos óbices das Súmulas 7 e 83/STJ, além do descumprimento dos requisitos estampados no art. 1.029, § 1º, do Código de Processo Civil, c/c. art. 255, § 1º, do RISTJ". Ou seja, afastada a incidência de tais Súmulas, o exame da divergência jurisprudencial seria realizado conforme fundamentação exposta no recurso especial.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SEGUNDOS ACLARATÓRIOS MANIFESTAMENTE IMPROCEDENTES. CARÁTER PROTELATÓRIO RECONHECIDO.
+Embargos de declaração rejeitados, com determinação de que, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado, efetivando-se, na sequência, a baixa dos autos ao Tribunal de origem.
+VOTO
+Os presentes embargos de declaração são manifestamente protelatórios e improcedentes.
+Ora, a argumentação deduzida está nitidamente voltada à rediscussão da conclusão estabelecida no acórdão exarado no julgamento do AgRg no AREsp n. 2.236.260/SC, no sentido da inadmissibilidade do agravo em recurso especial, ante a ausência de impugnação suficiente de um dos fundamentos da decisão de inadmissão do recurso especial na origem.
+A defesa já havia sido advertid a no acórdão ora embargado de que a reiteração de aclaratórios manifestamente improcedentes - como verificada no caso - ensejaria a baixa dos autos com certificação do trânsito em julgado, procedimento esse que não vulnera o disposto no art. 5º, XXXV e LV, da Constituição Federal.
+Ora, o acesso à Justiça e a ampla defesa não são princípios absolutos, sendo certo que o abuso da via recursal e o uso protelatório do recurso justificam a baixa dos autos com certificação do trânsito em julgado.
+Nesse sentido, destaco o seguinte precedente do Plenário do Supremo Tribunal Federal:
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO EXTRAORDINÁRIO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU AMBIGUIDADE. INOCORRÊNCIA. REJEIÇÃO. MANIFESTO CARÁTER PROCRASTINATÓRIO. ABUSO DO DIREITO DE RECORRER.
+1. Não se ressente dos vícios da omissão, contradição, obscuridade ou ambiguidade, nos termos do art. 619 do Código de Processo Penal, o decisum no qual se assenta a inviabilidade de exame da matéria, à míngua do preenchimento dos pressupostos recursais de admissibilidade.
+2. Inocorrente hipótese autorizadora da oposição dos embargos de declaração, evidenciados, ainda, o intuito protelatório e o abuso do direito de recorrer. Precedentes. 3. Embargos de declaração rejeitados, com determinação de imediata certificação do trânsito em julgado e de devolução dos autos à origem.
+(ARE 837803 AgR-EDv-AgR-ED, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em 06/02/2017, PROCESSO ELETRÔNICO DJe-036 DIVULG 22-02-2017 PUBLIC 23-02-2017)
+Ante o expo sto, rejeito os embargos de declaração, determinando que, publicado o acórdão exarado no presente julgamento, certifique-se o trânsito em julgado, efetivando-se, na sequência, a baixa dos autos ao Tribunal de origem.
