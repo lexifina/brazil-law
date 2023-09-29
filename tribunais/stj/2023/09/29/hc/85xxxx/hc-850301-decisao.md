@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+A paciente foi condenada a 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Pugna o impetrante, liminarmente e no mérito, pela alteração do regime prisional para o modo semiaberto.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+Sobre a pretensão aqui trazida, extrai-se do acórdão impugnado (fls. 26-27):
+ ..  E o regime inicial de cumprimento deve ser mesmo o fechado para ambas as acusadas, como apregoado pelo Ministério Público, o único cabível na hipótese, ainda que não fosse pelo quantum das penas e lembradas a reprovabilidade da conduta e a hediondez do crime (Lei nº 11.464/07). Outro nem seria recomendável, a teor do disposto nos artigos 33 e 59 do Código Penal e obedecidos os princípios da necessidade e suficiência.
+Ademais, embora se lembre aqui a decisão do Pleno da c. Suprema Corte declarando a inconstitucionalidade do artigo 2º, § 1º, da Lei de Crimes Hediondos (HC nº 111.840/ES, rel. Min. Dias Toffoli, j. em 14.6.2012), importa consignar que o que lá se decidiu foi que se deveria afastar a obrigatoriedade de início do cumprimento de pena no regime fechado para aqueles que preencham todos os demais requisitos previstos no artigo 33, §§ 2º, b, e 3º, do Código Penal.
+Contudo nos casos de tráfico, em face do bem jurídico protegido e observado o disposto no artigo 42 da Lei nº 11.343/06, quanto maior a capacidade de viciar da droga, em abstrato, maior a reprovabilidade. Portanto, demonstrou periculosidade e culpabilidade acima da média, de forma que o regime fechado é o único que se mostra suficiente para atingir a função preventiva específica da pena, que é inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal (Apelação Criminal nº 1501748-68.2022.8.26.0536, rel. Lauro Mens de Mello, j. em 27.04.2023).
+Reitere-se: como já se decidiu recentemente, "a jurisprudência desta Corte é firme no sentido de que a quantidade e a nocividade das drogas apreendidas constituem fundamentos idôneos para justificar a imposição de regime prisional mais gravoso" (AgRg no REsp n. 1.994.397/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/11/2022, DJe de 17/11/2022)." (AgRg no HC nº 754.645/SP, rel. Min. Jesuíno Rissato, j. em 17.04.2023 - grifo nosso).
+Fato é que a conduta penal aqui apurada é grave, a par de provocar desassossego à sociedade, ocasionando sérios problemas de saúde pública, sem falar na personalidade distorcida e ousada das acusadas, que praticavam o delito sem qualquer preocupação com a vigilância policial ou delação de terceiros.
+Aliás, a reincidência de Glauciele, por si só, exige a fixação do regime mais gravoso (art. 33, § 2º, do Código Penal). ..
+Como visto, o regime inicial fechado foi arbitrado em razão da reincidência específica da ré (fls. 21-22), ora paciente, não havendo falar-se em ilegalidade, de acordo com a jurisprudência desta Corte.
+"Estabelecida pena final em 5 anos e sendo reincidente o réu, o regime inicial fechado é o cabível para o cumprimento da pena privativa de liberdade, nos termos do art. 33, §§ 2º e 3º, do CP" (AgRg no HC n. 780.854/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/5/2023, DJe de 25/5/2023).
+"Na hipótese, considerada a pena imposta (5 anos e 10 meses de reclusão) e a reincidência do agravante Carlos, justificado se mostra o regime prisional fechado para início de cumprimento da pena, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal" (AgRg no HC n. 563.849/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/2/2022, DJe de 3/3/2022).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
