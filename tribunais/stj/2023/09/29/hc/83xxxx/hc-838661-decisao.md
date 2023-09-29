@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Vinicius Nascimento de Almeida, apontando-se como autoridade coatora o Tribunal de Justiça de Mato Grosso do Sul no julgamento da Apelação Criminal n. 0011718-15.2022.8.12.0001.
+Extrai-se dos autos que Juízo da 3ª Vara Criminal da comarca de Campo Grande/MS, nos Autos n. 0011718-15.2022.8.12.0001, condenou o paciente pela prática do crime de tráfico de drogas, impondo-lhe a pena de 6 anos de reclusão, em regime inicial fechado, bem como ao pagamento de 600 dias-multa, porquanto mantinha em depósito 4.168 kg de maconha e 1.466 kg de cocaína (fls. 51/57).
+Irresignada, a defesa interpôs recurso de apelação no Tribunal de origem, que deu parcial provimento ao apelo, por maioria, para impor o regime inicial semiaberto para o cumprimento da pena, expedindo-se o alvará de soltura, conforme acórdão acostado às fls. 393/406.
+Daí o  presente writ, no qual a defesa alega existir constrangimento ilegal, tendo em vista a negativa de aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, afirmando que o Tribunal de origem negou a benesse com base em meras presunções de que o paciente se dedica a atividades criminosas.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja aplicada a causa de diminuição de pena especial da Lei n. 11.343/2006, no patamar máximo de 2/3 e, consequentemente, fixado o regime inicial aberto, substituindo-se a pena privativa de liberdade de liberdade por restritiva de direitos.
+O pedido liminar foi indeferido às fls. 442/444.
+Informações prestadas às fls. 451/462, 463 /474 e 475/479.
+O Ministério Público Federal, às fls. 484/489, opina pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem.
+É o relatório.
+Busca-se, na presente impetração, o reconhecimento do tráfico privilegiado e aplicação dos consectários legais (imposição do regime aberto e a substituição da pena).
+Da análise dos autos tem-se que o Magistrado sentenciante deixou de aplicar a causa de diminuição especial de pena do art. 33, § 4º, da Lei n. 11.343/2003, e estabeleceu o regime fechado, aos seguintes fundamentos (fls. 276/277 - grifo nosso):
+ ..
+O reconhecimento da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, não é devido aos acusados.
+ ..
+Quanto o(a)(s) réu(é)(s) Vinicius é tecnicamente primário (fls. 94-95). Entretanto, resta devidamente comprovado que passou(aram) a se dedicar à atividade criminosa, no caso o comércio ilícito de substância entorpecente, tanto que dois usuários de entorpecentes afirmaram terem adquirido drogas com o réu em questão e, ainda, os policiais receberam denúncia informando sobre o ponto de venda de drogas, indicativo de que o comércio era reiterado (f. 19-20; 21-22; f. 45 e 46), o que afasta a incidência da benesse pretendida.
+Diante da impossibilidade do reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 resta prejudicado o pedido de afastamento da hediondez do crime.
+ ..
+Ao examinar a apelação da defesa, o Tribunal de origem indeferiu o pedido de aplicação do redutor da Lei de Drogas, consignando (fls. 403/404 - grifo nosso):
+ ..
+Para que o acusado possa fazer jus ao reconhecimento da minorante deverão estar presentes quatro requisitos cumulativos: agente primário, bons antecedentes, não dedicação a atividades criminosas e não integração de organização criminosa. A ausência de apenas um desses requisitos determina negar a benesse.
+Com relação aos dois primeiros requisitos estampados no dispositivo legal ora examinado (primariedade e bons antecedentes), estes se submetem a uma avaliação estritamente objetiva, pois basta verificar a certidão de antecedentes criminais do agente para chegar à conclusão se ele preenche ou não esses requisitos.
+Por outro lado, no tocante aos últimos requisitos, a análise deve ser mais criteriosa e envolve uma apreciação subjetiva do julgador que, a partir dos elementos de convicção existentes nos autos, deverá concluir se o agente é "dedicado às atividades criminosas" e/ou se "integra organização criminosa".
+Para avaliar tais aspectos é necessário analisar as circunstâncias em que o crime de tráfico de drogas se desenvolveu, isto é, se ele foi realizado de forma isolada, eventual, ou em um contexto de habitualidade. Em síntese, deve ficar demonstrado que o crime de tráfico de drogas representou "um ponto fora da curva" na vida do agente, um erro que contradiz o seu estilo de vida.
+No caso, não obstante a primariedade e bons antecedentes do acusado, restou evidente sua dedicação ao tráfico de drogas, já que ficou comprovado ao longo da instrução processual que comercializava entorpecentes em contexto de boca de fumo, na própria residência, já havia um certo período.
+Vejam que a diligência que resultou na apreensão de drogas na residência do apelado é decorrente de denúncias anônimas que motivaram a ida dos policiais até o local, onde encontraram usuários adquirindo entorpecentes e significativa quantidade de maconha e cocaína armazenada para posterior comercialização.
+ ..
+Malgrado tenha o mencionado acusado tentado alterar parcialmente sua versão ao ser interrogado em Juízo, declarou na fase policial que estava realizando a venda de entorpecentes há dois anos. (fl. 24)
+Esse elemento informativo restou fortalecido em Juízo a partir dos depoimentos dos policiais em audiência, que apontaram a residência do apelante como um ponto de venda de drogas, o que permite concluir que já havia algum tempo estava se de dedicando ao comércio de entorpecentes, o que impede o reconhecimento da referida minorante.
+Assim, não preenchidos todos os requisitos previstos no § 4º do art. 33 da Lei n.º 11.343/2006, eis que comprovada a dedicação do apelado à prática de atividades criminosas, não é possível a concessão do benefício do tráfico privilegiado.
+Finalizando, afigura-me possível o abrandamento do regime prisional, tendo em vista que a ampla maioria das circunstâncias judiciais são neutras e, a despeito da relevante quantidade de drogas e da variedade, não é assim exorbitante, sendo a maior parte maconha e a menor cocaína.
+Nesse contexto, observados os parâmetros do art. 33 do Código Penal e o princípio constitucional da razoabilidade, tratando-se sentenciado primário e portador de bons antecedentes, é possível a fixação do regime intermediário.
+ ..
+Diferentemente do que alega a defesa, vê-se que o Juízo de primeiro grau e o Tribunal a quo decidiram em consonância com a jurisprudência desta Corte Superior de Justiça, pois afastou a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, em razão do contexto delitivo que evidenciaram a dedicação do paciente a atividades criminosas, pois restou apurado na instrução processual que a sua residência funcionava como um ponto de venda de drogas - boca de fumo -, já havia um certo período. Registre-se, ainda, que, por ocasião da prisão em flagrante, os policiais encontraram usuários realizando a compra de entorpecentes e significativa quantidade de drogas armazenadas no imóvel do acusado - 168 kg de maconha e 1.466 kg de cocaína.
+Nessa ordem de ideias, as circunstâncias do delito delineadas em linhas pretéritas impedem a incidência da causa especial de diminuição de pena pretendida.
+A propósito, confiram-se os seguintes julgados: AgRg no HC n. 800.195/SP, Ministra Laurita Vaz, Sexta Turma, DJe 30/8/2023; e AgRg no HC n. 843.432/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/8/2023.
+Com efeito, uma vez afastado o redutor, ao argumento de que o agravante se dedicava a atividades criminosas, não se mostra possível rever tal entendimento para fazer incidir a causa especial de diminuição, porquanto demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus (HC n. 683.182/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 5/10/2021) - (AgRg no HC n. 748.063/SP, de minha relatoria, Sexta Turma, DJe 15/8/2022).
+Conclui-se, então, que a impetração não evidenciou constrangimento ilegal no acórdão ora hostilizado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (4.168 KG DE MACONHA E 1.466 KG DE COCAÍNA). DOSIMETRIA. PLEITO DE APLICAÇÃO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DA CONDUTA CRIMINOSA QUE, SOB A PERSPECTIVA DO JULGADOR ORDINÁRIO, INDICAVAM DEDICAÇÃO AO CRIME. IDONEIDADE. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO
+Ordem denegada.
