@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DESENBAHIA - AGÊNCIA DE FOMENTO DO ESTADO DA BAHIA S.A. à decisão monocrática que, em juízo de retratação, conheceu do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (e-STJ, fl. 270):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. EMBARGOS DE TERCEIRO. IMÓVEL DADO EM GARANTIA REAL DA OPERAÇÃO DE CRÉDITO EXECUTADA. GRAVAME DESCONSTITUÍDO POR DECISÃO JUDICIAL DEVIDAMENTE AVERBADA NO REGISTRO IMOBILIÁRIO. PENHORA NÃO AVERBADA. FRAUDE À EXECUÇÃO NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, EM JUÍZO DE RETRATAÇÃO.
+A embargante, em suas razões, alega, em síntese, omissão na decisão recorrida quanto à alegação de que a Lei de Registros Públicos veda a averbação de cancelamento de hipoteca na matrícula do imóvel quando o cancelamento resulta de decisão judicial precária, provisória.
+Impugnação apresentada (e-STJ, fls. 283-285).
+Brevemente relatado, decido.
+Os embargos de declaração não merecem acolhida.
+De início, registre-se que esta espécie recursal tem por finalidade suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+A propósito (sem grifo no original):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSOS. SUSPENSÃO. DETERMINAÇÃO. RECURSO ESPECIAL REPETITIVO. JULGAMENTO. MATÉRIA AFETADA. TEMA Nº 1.069/STJ.
+1. Nos termos do artigo 1.022 do CPC, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão acerca da qual devia se pronunciar o juiz de ofício ou a requerimento ou corrigir erro material.
+2. A controvérsia submetida a esta Corte Superior no recurso especial foi afetada ao rito dos recursos especiais repetitivos (REsp 1.870.834/SP).
+3. Em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no tribunal de origem, o qual incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC.
+4. Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no AREsp n. 1.828.487/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2023, DJe de 28/4/2023.)
+No caso em tela, verifica-se que irresignação da embargante não merece prosperar , uma vez que a decisão embargada mostra-se cristalina e coerente ao concluir pela incidência da Súmula n. 7/STJ à presente demanda.
+Veja-se (e-STJ, fls. 271-272; sem grifo no original):
+Nas razões do recurso especial, a recorrente alegou a ofensa aos arts. 250 e 259, ambos da Lei n. 6.216/1975, e ao art. 792, inciso IV, do CPC/2015, sustentando, em síntese, que ocorreu a fraude à execução; que o cancelamento de registro público não pode ser efetuado por força de decisão ainda sujeita a recurso, mas tão somente por determinação judicial constante em sentença transitada em julgado; que não foi intimada acerca da decisão do cancelamento de hipoteca de imóvel do qual era credora hipotecária, sendo flagrante a fraude à execução; que está evidente a má-fé da recorrida na condução da compra de bem imóvel que, claramente, foi objeto de transmissão fraudulenta; bem como que deve ser mantida a penhora realizada sobre o imóvel.
+O Tribunal de Justiça do Estado da Bahia, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 159-160, sem destaque no original):
+Da análise detida dos autos, adiro ao entendimento esposado pelo Magistrado sentenciante no sentido de que "ao tempo da compra do imóvel não subsistia a hipoteca - tampouco, da análise da matrícula do imóvel, verifica-se o registro da penhora, cuja existência era imprescindível, a fim de caracterizar a alegada má-fé do embargante", ou seja, configurar fraude à execução. Ademais, a simples alegação de que teria havido a citação da empresa executada antes da transferência da propriedade do imóvel em questão, por si só, não é suficiente para afastar a desconstituição da garantia real da operação de crédito executada por decisão judicial devidamente averbada no registro imobiliário do bem. Veja-se que não há registro no assentamento imobiliário de cancelamento do pronunciamento judicial proferido pelo juízo da Comarca de Canto do Buriti/PI, tampouco foi demonstrada a sua cassação através dos meios legais cabíveis, a exemplo da ação rescisória. Nessas circunstâncias, entendo como irretocável a sentença prolatada pelo Magistrado singular, não merecendo qualquer adendo ou modificação.
+Com efeito, percebe-se que a irresignação da recorrente não merece prosperar, uma vez que rever os fundamentos do aresto recorrido quanto à inexistência da fraude à execução, demandaria o revolvimento do conjunto fático-probatório dos autos, procedimento defeso em face da incidência da Súmula n. 7/STJ.
+Ilustrativamente:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. AUSÊNCIA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE. MATÉRIA FÁTICA. SÚMULA 07. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. RAZÕES DISSOCIDAS. NÃO CONHECIMENTO DO RECURSO.
+1. A Corte de origem assentou inexistirem provas nos autos capazes de estabelecer a má-fé do terceiro adquirente do imóvel, afastando a apontada fraude à execução, a teor da Súmula 375 do STJ.
+2. Inviável o reexame desta matéria fático-probatória nesta instância excepcional, conforme estabelece o Enunciado da Súmula 07 desta Corte.
+3. Razões recursais, ademais, dissociadas, pois apontam violação a dispositivo legal diverso daquele no qual amparada a decisão recorrida. Súmula 284/STF.
+4. Ausência de cotejo analítico entre as decisões tidas por paradigma e a recorrida, sem a demonstração efetiva da similitude fática e jurídica entre os julgados. Transcrição de ementas ou excertos de decisão que desservem para este propósito, não atendendo à exigência contida nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.807.633/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 28/11/2022, DJe de 13/12/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. ALIENAÇÃO DE IMÓVEL PENHORADO. AUSÊNCIA DE REGISTRO DA PENHORA. PROVA DA MÁ-FÉ. NECESSIDADE. SÚMULA 375 DO STJ. AUSÊNCIA DE DEMONSTRAÇÃO DA MÁ-FÉ DO TERCEIRO EMBARGANTE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. NATUREZA DO CONTRATO E DA POSSE EXERCIDA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. É pacífico nesta Corte que, não havendo registro da penhora, compete ao exequente fazer prova da má-fé do terceiro adquirente (Súmula 375, STJ).
+2. Mesmo antes das Leis 10.444/2002 e 8.953/1994, esta Corte já entendia que, na ausência do registro da penhora, era imprescindível a demonstração da má-fé do terceiro adquirente para a caracterização da fraude à execução (AgRg no REsp 1126191/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/6/2014, DJe 1º/8/2014).
+3. Caso concreto em que não houve o registro da penhora - ao menos com relação à época em que foi celebrado o negócio envolvendo o imóvel penhorado - e nem ficou demonstrada a má-fé do terceiro adquirente. Logo, aplicável o entendimento pacífico desta Corte, resta afastada a alegação de fraude à execução.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.736.883/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, mediante juízo de retratação.
+Nessa esteira, depreende-se das razões apresentadas que a embargante não se conforma com a conclusão do acórdão referente à incidência da Súmula n. 7/STJ ao caso, buscando, por via imprópria, a reforma do resultado do julgamento.
+Todavia, a atribuição de efeitos infringentes aos embargos somente se faz possível em situações excepcionais, notadamente nos casos em que a alteração do julgado decorre da correção de algum dos vícios apontados, o que não é a hipótese dos autos.
+À guisa de exemplo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, INCISO III, DO CPC/2015. EMBARGOS DE DECLARAÇÃO. ACOLHIMENTO. REAUTUAÇÃO.
+1. Os embargos de declaração são cabíveis para suprir omissão, contradição, obscuridade ou erro material do acórdão.
+2. Admite-se, excepcionalmente, que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do artigo 1.022 do Código de Processo Civil de 2015, cuja correção importe alteração da conclusão do julgado.
+3. No caso concreto, impõe-se o reconhecimento do vício da omissão no julgamento do agravo interno, pois a incidência da Súmula nº 284/STF foi devidamente rebatida no agravo em recurso especial.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno.
+(EDcl no AgInt no AREsp n. 1.566.233/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ademais, destaca-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte, quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da ora embargante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos.
+Por fim, no que se refere ao pedido de condenação da embargante ao pagamento da multa (e-STJ, fl. 284), vislumbra-se que razão não assiste à parte adversa, uma vez que não se verifica, por ora, o nítido caráter protelatório dos aclaratórios ou evidente má-fé que autorizaria a sua aplicação.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO CPC/2015. OMISSÃO. NÃO OCORRÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
