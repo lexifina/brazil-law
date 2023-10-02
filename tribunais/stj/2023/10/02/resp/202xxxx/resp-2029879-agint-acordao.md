@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+3. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+4. Agravo interno conhecido em parte e, nessa extensão, desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo ESTADO DE PERNAMBUCO para desafiar decisão de minha lavra (e-STJ fls. 752/757), em que conheci parcialmente do recurso especial para negar-lhe provimento sob os seguintes fundamentos: i) não houve a dita ofensa ao art. 1.022 do CPC/2015; ii) o recorrente não impugnou todos os fundamentos do acórdão recorrido (Súmula 283 do STF) e iii) em sede de recurso especial é inviável o exame de matéria constitucional, cuja competência é exclusiva da Suprema Corte.
+Em suas razões, a parte agravante reitera que houve negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem não enfrentou a questão da necessidade de direcionamento da obrigação de fazer conforme as regras de repartição de competência, apesar de ter sido provocado a isso por meio de embargos de declaração.
+Afirma, ainda, que impugnou devidamente todos os fundamentos do acórdão recorrido ao consignar que, "consoante exaustivamente alegado e comprovado nos autos, a E. Corte local limitou-se a afirmar que há responsabilidade solidária dos entes públicos, sem, contudo, direcionar o cumprimento da obrigação para aquela, conforme as regras de repartição de competência do SUS. Muito menos houve determinação do ressarcimento ao Estado de Pernambuco do ônus financeiro que tenha suportado ou que suportará com a obrigação a si imposta" (fls. e-STJ 617).
+Requer, assim, a reconsideração do decisum impugnado para que seja provido o recurso especial.
+Impugnação apresentada (e-STJ fls. 770/771).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+3. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+4. Agravo interno conhecido em parte e, nessa extensão, desprovido.
+VOTO
+Inicialmente, não se verifica a alegada ofensa ao art. 1.022, do CPC/2015, porquanto não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Especificamente quanto à omissão apontada, a Corte regional assentou expressamente que "requerer, em sede de Apelação, o ressarcimento por parte da União dos valores bloqueados pelo apelante como pretende o Estado de Pernambuco, é inviável nesta instância. Referido ressarcimento deverá ser postulado no âmbito administrativo ou, se for o caso, na via judicial, uma vez que a matéria é estranha à pretensão inicial em que se busca o fornecimento do medicamento" (e-STJ fl. 522).
+Acrescentou, ainda, julgando os aclaratórios, o seguinte (e-STJ fl. 592):
+Conforme foi exarado pela Turma, na Sessão Virtual de 27 de junho de 2021, o art. 196 da Constituição, ao dispor que é dever do Estado garantir a todos o direito à saúde, emprega a expressão Estado, Poder Público, de modo genérico, sendo essa responsabilidade solidária de incumbência da União, dos Estados - enquanto unidades federadas, e dos municípios, Portanto, conforme sumulado no Tema 793, do Supremo Tribunal Federal, no RE 855178.
+Consignou que (e-STJ fl. 592), "nesta ação ordinária o que se pretende preservar é a vida. Não há espaço para discutir, em ação de regresso, as dívidas arcadas pelos entes estatais".
+Ademais, ao exercer o juízo de conformação com o entendimento firmado no RE 855.178/SE (Tema 793), o Tribunal de origem reafirmou que "o acórdão se encontra compatível com o entendimento exarado pelo Colendo Supremo Tribunal Federal e, reconhecendo que o ressarcimento poderá ser postulado no âmbito administrativo ou, se for o caso, na via judicial, uma vez que a matéria é estranha à pretensão inicial em que se busca o fornecimento do medicamento, não há outro remédio, a não ser manter o acórdão proferido por esta Turma".
+Em relação à questão de fundo, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1 .424.404/SP (Rel. Ministra Luis Felipe Salomão, julgado em 20/10/2021, DJe 17/1 1/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja , ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido, no ponto.
+Com efeito, no decisum ora recorrido, conheci parcialmente do recurso especial para negar-lhe provimento, tendo em vista a incidência da Súmula 283 do STF e a impossibilidade de apreciação de matéria constitucional em recurso especial.
+Entretanto, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente a incidência da Súmula 283 do STF e o fundamento de que o acórdão recorrido pautou-se em fundamentação eminentemente constitucional (interpretação de entendimento do STF sobre a matéria).
+No que tange à Súmula 283, o recorrente não apresentou nenhum argumento para rebater a impossibilidade do ressarcimento pretendido nos próprios autos da ação ordinária em que se busca o fornecimento do medicamento, deixando de impugnar, ainda, o fundamento de que eventual ofensa à legislação infraconstitucional seria indireta e reflexa.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, §1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO PARCIALMENTE do agravo interno e, nessa parte, NEGO-LHE PROVIMENTO.
+É como voto.
