@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 11, 489, II, § 1º, IV E 1022, II, do CPC. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação do art. 11, 489, II, § 1º, IV E 1022, II, do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial reclama a intepretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+ROBERTO WAGNER DE MIRANDA interpõe agravo interno contra a decisão de fls. 382-388, que negou provimento ao agravo.
+No presente recurso, o agravante defende o seguinte (fls. 392-395):
+2.3. Primeiramente, houve, sim, deficiente prestação jurisdicional por parte do Tribunal Mineiro, que foi jejuno em respeito à matéria exposta nos declaratórios, interpostos para sanar a omissão relativa à efetiva ausência de elementos para o efetivo cumprimento do negócio jurídico, que, de per se, viola o disposto no artigo 481 do CCB, do princípio do exceptio non adimpleti contractus e também dos demais fundamentos referentes à boa-fé objetiva, sendo que os vv. Acórdãos nada se pronunciaram sobre a matéria em questão.
+ ..
+2.9. O reexame pressupõe a existência de um exame anterior, o qual não ocorreu no caso em questão. Portanto, não se trata de simples reexame de prova, mas sim da ausência de exame prévio e do próprio conjunto probatório, o que justifica a necessidade de apreciação do tema! Sobre tal temática:
+ ..
+2.11. Já quanto a Súmula 5/STJ, não persiste de igual modo. Ora, o agravante em nenhum momento pretendeu revisão contratual. A questão versa acerca da exceção de contrato não cumprido, pelo fato incontestável de que ambas partes caíram em golpe, o histórico de boletim de ocorrência é claro neste ponto, e esclarece que ambos perceberam que era um golpe, ou seja, não havia fundamento para que o recorrido apontasse o golpista como seu cunhado como alegou a inicial e a testemunha Eliéser, e muito menos que o recorrente tivesse autorizado o depósito na conta de uma terceira pessoa como quis deixar transparecer o depoimento leviano da testemunha do recorrido.
+Requer o conhecimento e provimento do presente recurso.
+Transcorreu in albis o prazo para a parte agravada apresentar impugnação ao recurso, conforme certidão à fl. 404.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 11, 489, II, § 1º, IV E 1022, II, do CPC. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. NÃO CABIMENTO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação do art. 11, 489, II, § 1º, IV E 1022, II, do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial reclama a intepretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos.
+3. Agravo interno desprovido.
+VOTO
+A decisão agravada adotou os fundamentos a seguir (fls. 384-388 ):
+É o relatório. Decido.
+Consta do acórdão impugnado o seguinte (fls. 284-287):
+Dessa forma, impõe-se avaliar se o autor/apelado se desobrigou do gravame de comprovar o direito alegado, nos termos do artigo 373, inciso I, do Código de Processo Civil, cabendo analisar as provas produzidas nos autos.
+Compulsando a prova produzida, ao contrário do alegado nas razões recursais, vislumbra-se a necessária demonstração do contrato verbal de compra e venda do veículo, bem assim do pagamento do preço acordado.
+No Boletim de Ocorrência de ordem 08 (fls. 12/15), o autor narra, em suma, os mesmo fatos relatados na exordial, sustentando haver negociado o veículo pelo aplicativo Whatsapp com o Sr. Luiz Carlos Batista, bem assim haver realizado o pagamento do preço acordado (R$ 20.500,00) para a conta bancária indicada pelo vendedor.
+Igualmente, a transcrição das conversas realizadas pelo referido aplicativo, juntadas à ordem 08 (fls. 16/20) referendam a tese autoral, demonstrado a existência da negociação, nos termos narrados na exordial.
+O comprovante de transferência bancária, no valor pactuado (R$ 25.500,00), anexado à ordem 08 (fl. 21), atesta o pagamento, sendo este realizado à pessoa indicada pelo vendedor.
+À ordem 29, juntou-se, ainda, o Certificado de Registro do Veículo e a Autorização para Transferência de Propriedade de Veículo, preenchida em nome do autor e firmada pelo réu/apelante, com firma reconhecida pelo Cartório do 2º Ofício de Notas de Lagoa da Prata.
+A única testemunha ouvida nos autos, Eliéser Gonçalves do Santos, relata, com detalhes a negociação do veículo, atestando que toda a negociação se deu pessoalmente com o ora apelante, este afirmou que a negociação seria intermediada por seu parente e, ainda, que a transferência ocorreu na presença do requerido, em conta por ele indicada.
+ ..
+Portanto, restando demonstrados, pela prova produzida nos autos, a compra e venda do veículo, a transferência do valor acordado para conta bancária indicada pelo réu e a não entrega do bem, nos termos relatados na exordial, impõe-se a manutenção da sentença de procedência do pedido objeto desta ação de busca e apreensão.
+No julgamento dos embargos de declaração, a Corte de origem decidiu nestes termos (fls. 317-318):
+O embargante pretende, ao desenvolver extensa argumentação quanto aos ventilados vícios processuais no acórdão embargado, revaloração do acervo probatório dos autos, incabível nessa via recursal.
+Quanto ao diversos dispositivos legais e constitucional apontados sob a perspectiva apresentada pelo embargante, é certo que a conclusão alcançada pela Turma Julgadora, prescinde da exegese de todos eles, notadamente quanto à exceção do contrato não cumprido.
+ ..
+Nesse contexto, inexiste no acórdão embargado violação aos artigos 11, 481, 489, II, §1º, III e IV, do Código de Processo Civil; artigos 113, 422,476, 482 e 2.035do Código Civil; art. 93, IX, CR/1988.
+Em relação à violação dos arts.11, 489, II, § 1º, IV, e 1022, II, do CPC, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante à ofensa aos arts. 113, 422, 476, 481, 482 e 2.035 do CC, considerando os trechos do acórdão ora transcritos, verifica-se que o Tribunal local, instância soberana na análise das provas, concluiu que houve a compra e venda do veículo em questão, a transferência do valor acordado para conta bancária indicada pelo réu e a não entrega do bem.
+Desse modo, é importante aduzir que, para adotar conclusões diversas das que restaram assentadas no acórdão de origem e acolher a tese defendida pela parte ora recorrente, implicaria a interpretação de cláusulas contratuais e o reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito:
+RECURSOS ESPECIAIS. CIVIL E PROCESSUAL CIVIL.  ..  . EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. INTERPRETAÇÃO DO CONTRATO. REEXAME DE PROVAS.
+ ..
+8. As conclusões do Tribunal de origem quanto à ordem da mora e à exceção do contrato não cumprido somente poderiam ser alteradas mediante a interpretação das cláusulas e o reexame dos fatos, o que não se admite em recurso especial (Súmulas nºs 5 e 7/STJ).
+9. Recursos especiais não providos. Agravo interno prejudicado. (REsp n. 1.663.221/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/8/2022, DJe de 26/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  .. . EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REEXAME DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, o que não ocorreu na hipótese.
+2. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o seu reconhecimento nesta instância extraordinária por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+3. A Corte de origem, diante do exame das cláusulas contratuais e do acervo fático-probatório dos autos, entendeu que o objeto da demanda decorre de contrato firmado entre partes.
+4. Rever o entendimento do Tribunal de origem acerca da ocorrência ou não de exceção do contrato não cumprido demanda o reexame de cláusulas contratuais e do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência dos óbices das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.085.760/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a ausência do devido cotejo entre o acórdão recorrido e o paradigma indicado - com o apontamento de circunstâncias que assemelhem e identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC) - implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANOS MORAIS. MERO ABORRECIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A admissibilidade do recurso especial pela alínea "c" do permissivo constitucional exige, para a correta demonstração da divergência jurisprudencial, o cotejo analítico dos julgados confrontados, expondo-se as circunstâncias que identificam ou assemelham os casos, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.837.356/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/8/2021, DJe de 1/10/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO DE CONTRATO. ATRASO NA CONCLUSÃO DAS OBRAS. AÇÃO DE RESCISÃO CONTRATUAL, COM PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS C/C INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. DIVERGÊNCIA JURISRUDENCIAL NÃO DEMONSTRADA.
+1. O dissídio jurisprudencial não foi devidamente comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC, e 255, §§ 1º e 2º, do RISTJ. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+2. "O STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto". (AgInt no AgInt no AREsp 879.722/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/11/2016, DJe 16/11/2016).
+AGRAVO DESPROVIDO. (AgInt no AREsp n. 2.076.125/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 29/9/2022.)
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor do patrono da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem -se.
+Presente essa motivação decisória, e considerando os argumentos recursais ora expostos, a irresignação não reúne condições de êxito.
+Vê-se que a alegada ofensa aos arts. 11, 489, II, § 1º, IV, e 1.022, II, foi afastada porque a Corte de origem examinara e decidira, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+No tocante ao afastamento da aplicação das Súmulas n. 5 e 7 desta Corte, melhor sorte não socorre a parte agravante.
+A jurisprudência do STJ firmou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+Conforme devidamente explicitado na decisão ora agravada, o Tribunal de origem assim decidiu (fls. 286-287):
+Portanto, restando demonstrados, pela prova produzida nos autos, a compra e venda do veículo, a transferência do valor acordado para conta bancária indicada pelo réu e a não entrega do bem, nos termos relatados na exordial, impõe-se a manutenção da sentença de procedência do pedido objeto desta ação de busca e apreensão.
+Dessa forma, a adoção de conclusão diversa daquela a que chegou o acórdão recorrido e o acolhimento das teses recursais defendidas implicariam, efetivamente, a interpretação de cláusulas contratuais e o reexame dos elementos fático-probatórios dos autos, medidas inviáveis em recurso especial, em razão do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito, confiram-se os seguintes julgados: AgInt no REsp n. 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 30/9/2019, DJe de 3/10/2019; AgInt no AREsp n. 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2019, DJe de 4/10/2019; e A gInt no REsp n. 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/9/2019, DJe de 23/9/2019.
+Portanto, o recorrente não logrou êxito em apresentar argumentos suficientes que justificassem a alteração do decisum agravado, que deve ser mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
