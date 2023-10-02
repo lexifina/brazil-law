@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida".
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A. desafiando decisão que não conheceu do agravo em recurso especial, ante a Súmula 182/STJ, visto que não refutados todos os fundamentos do juízo de inadmissão.
+O agravante, em suas razões, sustenta que "o argumento da regular apreciação dos Embargos de Declaração encontra-se abarcado pela aplicação do óbice da Súmula nº 07/STJ para inadmitir o Recurso Especial e este, por sua vez, foi devidamente impugnado no Agravo interposto, inclusive por meio de capítulo específico às fls. 799/802 (e-STJ)" (fl. 836).
+Transcorreu in albis o prazo para impugnação (fl. 847).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida".
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de agravo interposto por Escelsa - Espírito Santo Centrais Elétricas S.A. desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial com base nos seguintes fundamentos: (I) "Nada há no acórdão impugnado que contrarie, in abstracto, os dispositivos infraconstitucionais alegadamente violados" (fl. 787); (II) "não cabe recurso especial, pois a aferição da ofensa a texto de lei teria que reanalisar os fatos, e isto é incabível" (fl. 787); (III) "os embargos de declaração foram regularmente apreciados" (fl. 787); (IV) "o julgado, em princípio e em juízo de delibação, parece não destoar da linha do STJ, e torna imperativa a incidência da súmula n. 83 do próprio STJ" (fl. 788); e (V) "Em relação à alegada existência de dissídio jurisprudencial, verifica-se que não estão presentes os pressupostos de admissibilidade recursal, nos termos do disposto no artt 1.029, § 1º, do CPC" (fl. 789).
+A parte agravante sustenta, em resumo: (i) a "não-incidência do enunciado da Súmula nº 07/STJ" (fl. 799); (ii) a "inaplicabilidade da Súmula nº 83/STJ" (fl. 802); (iii) houve "adequada demonstração da divergência jurisprudencial" (fl. 803); e (iv) "o fisco deveria necessariamente ter efetuado o lançamento do débito apurado em vista da inadmissão das compensações efetuadas. Não o tendo assim feito, certo é também que seu direito de lançá-lo encontra-se decaído, nos termos do art. 156, V, do CTN" (fl. 807).
+Contraminuta às fls. 811/818.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, o de que "os embargos de declaração foram regularmente apreciados" (fl. 787).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30.11.2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+Conforme antes consignado, no juízo de inadmissão, a vice-Presidência do Tribunal a quo registrou que o apelo raro apontou "violação aos arts. 489, § 1º, e 1.022, III, do CPC; arts. 142, 149, V, 150, 156, V, do CTN; art. 90 da MP n.º 2.158-35/2001; art. 74, § 11, da Lei n.º 9.430/96; arts. 9º a 11 do Decreto n.º 70.235/72; arts. 59 e 61 da Lei n.º 9.784/99; bem como  ..  divergência jurisprudencial sobre a matéria" (fl. 787 - g.n.), tendo inadmitido a insurgência excepcional com base nos seguintes fundamentos: (I) "Nada há no acórdão impugnado que contrarie, in abstracto, os dispositivos infraconstitucionais alegadamente violados" (fl. 787); (II) "não cabe recurso especial, pois a aferição da ofensa a texto de lei teria que reanalisar os fatos, e isto é incabível" (fl. 787); (III) "os embargos de declaração foram regularmente apreciados" (fl. 787 - g.n.); (IV) "o julgado, em princípio e em juízo de delibação, parece não destoar da linha do STJ, e torna imperativa a incidência da súmula n. 83 do próprio STJ" (fl. 788); e (V) "Em relação à alegada existência de dissídio jurisprudencial, verifica-se que não estão presentes os pressupostos de admissibilidade recursal, nos termos do disposto no artt 1.029, § 1º, do CPC" (fl. 789).
+A ora agravante defende que "o argumento da regular apreciação dos Embargos de Declaração encontra-se abarcado pela aplicação do óbice da Súmula nº 07/STJ para inadmitir o Recurso Especial e este, por sua vez, foi devidamente impugnado no Agravo interposto, inclusive por meio de capítulo específico às fls. 799/802 (e-STJ)" (fl. 836).
+Ocorre que a leitura atenta do caderno processual não confirma essa alegação.
+Isso porque, no agravo em recurso especial, ela assim resumiu os pilares do juízo de inadmissão (fl. 799):
+A irresignação, entretanto, restou inadmitida, tendo a Vice -Presidência do TRF-2 entendido que
+(i) a conclusão do v. acórdão recorrido teria se fundado em matéria fático- probatória, de maneira que a revisão do seu entendimento em sede de recurso especial encontraria óbice na Súmula nº 07/STJ;
+(iii) incidiria, à espécie, o óbice da Súmula nº 83/STI, ao argumento de que o entendimento perfilhado no v. acórdão recorrido estaria em conformidade com a jurisprudência deste E. STJ;
+(iv) a Agravante não teria logrado êxito na demonstração da existência de dissídio jurisprudencial, motivo pelo qual estariam ausentes os pressupostos de admissibilidade inscritos no art. 1.029, §1º, do CPC/2015.
+Como se vê, dentre os alicerces da decisão de prelibação ali mencionados, não fez a agravante incluir aquele relativo à ofensa aos arts. 489 e 1.022 do CPC, o que, por si só, revela a equívoca percepção da parte quanto ao aludido decisum.
+Além disso, do capítulo do agravo em recurso especial voltado à Súmula 7/STJ (fls. 799/802) extrai-se que, em momento algum, houve referência específica à negativa de prestação jurisdicional, como agora intenciona a agravante.
+Acrescente-se ainda, por pertinente e a fim de arredar quaisquer dúvidas a respeito, que realmente se colhe do juízo de prelibação o seguinte excerto: "Por seu turno, os embargos de declaração foram regularmente apreciados. De fato, alegar que não o foram, quando isto pressuponha, para que acatado, reexaminar os fatos e, só assim, perquirir a correção ou não do julgado, torna inviável a via extrema" (fls. 787/788).
+Ocorre que, ainda que se pudesse entrever, como sugere a agravante, que o Sodalício Regional tenha relacionado a negativa de prestação jurisdicional a revolvimento de fatos e provas, o fato é que, inegavelmente, assentou que "os embargos de declaração foram regularmente apreciados" (fl. 787), alicerce esse autônomo e próprio à questão de ofensa aos arts. 489 e 1.022 do CPC, a qual, como cediço, diz com eventual error in procedendo por parte da Corte revisora no julgamento do recurso integrativo.
+Logo, era essencial e i ndispensável ao conhecimento do agravo em recurso especial que a parte interessada cuidasse de bem refutar o aludido pilar, reitere-se, o de que "os embargos de declaração foram regularmente apreciados" (fl. 787), para que a insurgência lograsse ultrapassar a barreira de cognoscibilidade, o que, como visto, não ocorreu.
+Remanesce, pois, hígida a aplicação da Súmula 182/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
