@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DE DANOS MATERIAIS À AGRAVANTE. INDENIZAÇÃO AFASTADA. CULPA EXCLUSIVA DA RECORRENTE COMPROVADA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REVALORAÇÃO DAS PROVAS. NÃO CABIMENTO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LASA LAGO AZUL S.A. contra decisão monocrática desta relatoria que conheceu do agravo para não conhecer do recurso especial, assim ementada (e-STJ, fl. 617):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO A ARTIGOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE CONHECIMENTO NESTA CORTE SUPERIOR. NÃO COMPROVAÇÃO DE DANOS MATERIAIS À AGRAVANTE. INDENIZAÇÃO AFASTADA. CULPA EXCLUSIVA DA AGRAVANTE COMPROVADA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REVALORAÇÃO DAS PROVAS. NÃO CABIMENTO. SÚMULA 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante, em suas razões (e-STJ, fls. 632-639), sustenta que "o inadimplemento é incontroverso, pois evidenciada a culpa exclusiva da agravada pela resolução unilateral do contrato, o que gera, por si só, a obrigação de indenizar por perdas e danos".
+Alega a inaplicabilidade da Súmula 7/STJ, porque todas as premissas já estão devidamente delimitadas no acórdão de origem, não havendo falar em nova análise de fatos ou provas, mas tão somente avaliar a aplicação da legislação.
+Foi apresentada impugnação (e-ST J, fls. 648-650).
+Busca, assim, a reconsideração da decisão agravada ou o julgamento deste recurso pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO COMPROVAÇÃO DE DANOS MATERIAIS À AGRAVANTE. INDENIZAÇÃO AFASTADA. CULPA EXCLUSIVA DA RECORRENTE COMPROVADA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. REVALORAÇÃO DAS PROVAS. NÃO CABIMENTO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Agravo interno improvido.
+VOTO
+Os argumentos da agravante não são aptos a ilidir os fundamentos da decisão recorrida, a qual, por isso, merece ser mantida.
+De início, quanto à alegação de ser cabível a indenização por perdas e danos, o Tribunal de Justiça do Estado de Goiás fundamentou da seguinte forma (e-STJ, fls. 384-386; sem destaque no original):
+Como bem delineado pelo magistrado sentenciante, nos termos do art. 475, do Código Civil: "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos.
+"Não obstante, é de notório conhecimento que a condenação de perdas e danos pressupõe a comprovação dos prejuízos sofridos em razão do descumprimento contratual, não sendo possível o acolhimento de tal pleito por meio de suposição, como feito em sentença.
+Apenas a título de esclarecimento, veja-se o trecho atinente ao tema:
+"E, diante da rescisão acima decretada, deve a autora ser condenada às perdas e danos ocasionados à ré, pois é inegável que o inadimplemento contratual com a não retirada do combustível ocasionou efetivo prejuízo a empresa vendedora, seja pelo que foi gasto com sua produção e manutenção do produto, seja pelo que razoavelmente deixou de lucrar ao não o vender de forma antecipada a outra empresa."
+Não se ignora que, de fato, o combustível possui custo de produção e comercialização, porém não se pode ignorar, de igual modo, que o combustível supostamente reservado à apelante (pois não se conhece a logística interna da empresa) pode ter sido vendido a outro contratante por igual preço, por preço menor ou até por preço maior, o que torna temerário admitira indenização por perdas e danos sem a efetiva comprovação dos prejuízos, principalmente considerando-se pedido genérico de perda de danos, como feito na hipótese.
+(..)
+Portanto, não há que se falar em indenização por perdas e danos.
+Noutro turno, como antecipado, entendo que o desfecho das ações (principal e reconvencional) deve ser mantido. Isso porque, na hipótese em estudo, não se verificou qualquer inadimplência da apelada/reconvinte/ré na relação contratual, inclusive um dos pedidos reconvencionais consubstanciava-se na execução forçada do contrato para a entrega do combustível restante, desde que pago o valor do contrato.
+Entrementes, o valor de R$ 91.206,21 (noventa e um mil, duzentos e seis reais e vinte e seis centavos), questão central do apelo, refere-se à 36.629 m  de combustível que somente não foi retirado por culpa exclusiva da apelante, pois optou por assim não o fazer. Ressalte-se, o modelo de negócio compreendia o pagamento dos metros cúbicos de combustível e a sua imediata retirada, inexistindo nos autos qualquer prova de óbice à execução desta última.
+Portanto, diante do instrumento contratual omisso e atécnico, sem quaisquer cláusulas de resolução, multa ou detalhamento da sua execução, em respeito à boa-fé objetiva das relações contratuais, não há que se falar em restituição do valor, mas sim direito à retenção desses valores (como reconhecido em sentença), pois o combustível estava e ainda está disponível para a retirada, como se dispôs a fazer a apelada ao pugnar pelo cumprimento forçado do contrato.
+Entretanto, em respeito ao princípio da adstrição e congruência, ante a inexistência de qualquer pedido alternativo na petição inicial para retirada do combustível já pago, caberá aos litigantes procederem com eventuais tratativas extrajudiciais em busca da solução para esta questão em específico.
+Dessa forma, o acórdão recorrido concluiu que não se verificou nenhuma inadimplência da parte agravada na relação contratual, inclusive um dos pedidos reconvencionais consubstanciava-se na execução forçada do contrato para a entrega do combustível restante, desde que pago o valor do contrato. O que permite afastar a indenização por danos materiais.
+Assim, não há como alterar a conclusão do aresto impugnado - no sentido de afirmar que a agravada gerou a inadimplência e, por isso, deve arcar com os danos materiais - sem que se proceda ao revolvimento do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o disposto no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Além disso, na hipótese, tendo a Corte estadual, à luz das provas existentes nos autos, alcançado o entendimento pelo afastamento do dano material, em virtude da ausência de prova do prejuízo, não pode este Superior Tribunal revolver o acervo fático-probatório para adotar conclusão diversa. Assim, dada a excepcionalidade da via eleita, o acolhimento da pretensão recursal é providência inviável, a incidir o enunciado da Súmula n. 7/STJ; não sendo o caso, também, de revaloração da prova.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
