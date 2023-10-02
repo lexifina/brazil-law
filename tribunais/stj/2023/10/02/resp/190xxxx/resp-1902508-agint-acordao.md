@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. PROFESSOR II. CERTIFICADO DE CONCLUSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste ofensa ao art. 1.022, I e II, do CPC/2015, visto que o Tribunal de origem apreciou devidamente a matéria em debate, de forma clara e adequada, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Não há que se falar em julgamento extra petita quando o Tribunal a quo analisa a controvérsia e, à luz da legislação aplicável - no presente caso, o art. 62 da Lei de Diretrizes e Bases da Educação - e mediante nova análise do conjunto probatório, entende pela ausência de preenchimento de requisito para atuar na educação básica.
+3. A modificação das conclusões a que chegou a Corte de origem quanto à ausência de formação da ora agravante para lecionar na educação básica implica o revolvimento de fatos e provas, o que é inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA REGINA DA SILVA contra decisão monocrática do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+ADMINISTRATIVO. RECURSO ESPECIAL. CONCURSO PÚBLICO. PROFESSOR II. CERTIFICADO DE CONCLUSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO (fl. 677).
+Em suas razões, sustenta a parte autora: (i) que o Tribunal de origem foi omisso quanto à matéria discutida; (ii) quanto à afirmação da Corte de origem de que "não há prova de que a impetrante possui formação específica em nível médio para lecionar" (fl. 560), "o Tribunal ao apresentar fundamento novo relacionado a ausência de prova não objeto do recurso de apelação vulnerou o princípio da congruência e da coisa julgada. A matéria não foi ventilada no recurso, impedindo inclusive o contraditório e ampla defesa. Trata-se de decisão que extrapola o pedido recursal e viola inclusive o princípio da dialeticidade dos recursos" (fl. 691); (iii) "a desnecessidade de revolvimento do contexto fático-probatório para se chegar ao juízo valorativo de que o Tribunal apreciou matéria não impugnada na recurso" (fls. 691/692); e (iv) "a exigência de prova da formação mínima para o magistério na forma do art. 62 da LDB, de oficio, sem que a sentença tenha sido recorrido nesse ponto impõe violação aos princípios da coisa julgada, da congruência e da devolutividade dos recursos, por não se tratar de matéria de ordem pública" (fl. 692).
+Sem contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. PROFESSOR II. CERTIFICADO DE CONCLUSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. JULGAMENTO EXTRA PETITA. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Inexiste ofensa ao art. 1.022, I e II, do CPC/2015, visto que o Tribunal de origem apreciou devidamente a matéria em debate, de forma clara e adequada, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Não há que se falar em julgamento extra petita quando o Tribunal a quo analisa a controvérsia e, à luz da legislação aplicável - no presente caso, o art. 62 da Lei de Diretrizes e Bases da Educação - e mediante nova análise do conjunto probatório, entende pela ausência de preenchimento de requisito para atuar na educação básica.
+3. A modificação das conclusões a que chegou a Corte de origem quanto à ausência de formação da ora agravante para lecionar na educação básica implica o revolvimento de fatos e provas, o que é inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+A Corte de origem, ao apreciar a controvérsia, assim se manifestou:
+Ao julgar novamente os aclaratórios, este Colegiado entendeu que realmente o art. 62 da Lei de Diretrizes e Bases da Educação dispensa a formação em nível superior. Por outro lado, consignou que não há prova de que a impetrante possui formação especifica em nível médio para lecionar.
+Conquanto o ato administrativo desclassificatório restrinja-se à ausência de formação em nível superior, não pressupõe que a formação em nível médio se encontra devidamente preenchida.
+Ou seja, não há presunção de que a embargante possui formação especifica em nível médio para lecionar.
+ ..
+Tal conclusão não constitui decisão extra petita ou violação ao efeito devolutivo dos recursos, uma vez que a própria impetrante/embargante no mandado de segurança trouxe informações sobre o tema e, ainda, confirmou que não possuía formação em nível médio para docência, mas apenas realização de estágio na área, como adiante se vê:
+"Ademais, a impetrante, conforme a cópia de sua Carteira de Trabalho anexa (doc. 09), demonstra também o vínculo em docência em 2003, quando da matrícula no programa de formação, ainda que de estágio, razão pela qual não pode ser penalizada pela exclusão da nomeação".
+Ou seja, a apreciação do argumento pelo qual este E. TJ-PR foi reconhecidamente omisso, - segundo decidiu a Corte Superior - decorreu logicamente a análise do conteúdo probatório.
+ ..
+Não seria dado a este E. TJ-PR reconhecer que o art. 62 da LDBE dispensa a formação em nível superior e, por conseguinte, permitir a nomeação da candidata sem que houvesse prova de que ela possui a respectiva formação específica em nível médio para lecionar.
+No caso em tela, a apreciação das provas decorreu logicamente do fundamento jurídico de que o art. 62 LDBE não exige comprovação de formação em nível superior, logo, não prospera a alegação de que o v. acórdão atacado desrespeitou o princípio da congruência.
+Outrossim, oportuno salientar que o §1º do art. 1.013, CPC determina que serão objeto de apreciação do Tribunal todas as questões suscitadas e discutidas no processo, desde que relacionadas ao capítulo impugnado.
+Significa que o Tribunal poderá, desde que observado o contraditório e a ampla defesa, apreciar todas as questões suscitadas relacionadas àquilo que é objeto litigioso do procedimento.
+Portanto, a apreciação da prova dos autos à luz do argumento jurídico suscitado pela embargante não constitui decisão extra petita ou violação ao efeito devolutivo dos recursos. Até porque, foi a própria embargante que recorreu ao STJ para que a questão fosse devidamente apreciada por este E. TJPR, considerando que o v. acórdão havia se limitado ao diploma da VIZIVALI (fls. 560/562).
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade.
+Ademais, não há que se falar em julgamento extra petita quando o Tribunal a quo, ao julgar novamente os embargos de declaração, em obediência à decisão proferida por esta Corte Superior, analisa a controvérsia à luz da legislação aplicável - no presente caso, o art. 62 da Lei de Diretrizes e Bases da Educação - e, mediante nova análise do conjunto probatório, entende pela ausência de preenchimento de requisito para a parte atuar na educação básica.
+Ressalto que a modificação das conclusões a que chegou a Corte de origem quanto à ausência de formação da ora agravante para lecionar na educação básica implica o revolvimento de fatos e provas, o que é inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
