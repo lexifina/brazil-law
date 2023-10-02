@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO QUE OS RECEBEU COM EFEITO SUSPENSIVO. CONTRATAÇÃO DE SEGURO GARANTIA DE VALOR SUPERIOR AO DA EXECUÇÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. CÓDIGO DE PROCESSO CIVIL QUE EXPRESSAMENTE EQUIPAROU A FIANÇA BANCÁRIA E O SEGURO GARANTIA JUDICIAL AO DINHEIRO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Embargos à execução em que foi proferida decisão os recebendo com efeito suspensivo, tendo em vista a contratação de seguro garantia de valor superior ao da execução.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. De acordo com o §2º do art. 835 do CPC/15, equiparam-se a dinheiro a fiança bancária e o seguro garantia judicial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BANCO RENDIMENTO S/A contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa parte, negar-lhe provimento, pelos seguintes fundamentos: incidência da Súmula 283/STF; e harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Ação: embargos à execução, opostos por RADIO E TELEVISAO BANDEIRANTES S.A. e OUTROS, em face do agravante.
+Decisão interlocutória: recebeu os embargos à execução com efeito suspensivo, tendo em vista a contratação de seguro garantia de valor superior ao da execução.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+Embargos do devedor - Execução por quantia certa de título extrajudicial - Efeito suspensivo deferido pelo juízo de primeiro grau - Inconformismo do exequente - Coexistência dos pressupostos do art. 919, § 1º, do novo CPC - Fundamento relevante, calcado no ajuizamento de ação revisional de contratos na qual os executados atribuem ilegalidades ao exequente, juros não contratados e emprego do CDI como indexador, dizendo-se credores de mais de R$ 2 milhões - Execução garantida por seguro judicial, equiparado a dinheiro nos arts. 835, § 2º, e 848, parágrafo único, do novo CPC - Efeito mantido - Recurso desprovido.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação do art. 919 do CPC/15. Sustenta que: i) na presente lide impossível é a concessão de efeito suspensivo aos embargos à execução, porque logo de início não foram preenchidos os requisitos legais, porquanto a execução ainda não se encontrava suficientemente garantida pela penhora e nem tampouco foi apresentada fundamentação relevante a ensejar a suspensão do trâmite da execução; ii) a utilização do CDI como indexador não pode mais ser considerada como fato relevante a autorizar a suspensão da execução, tendo em vista a mais nova interpretação do STJ quanto à legalidade de cláusulas que preveem a incidência do CDI pelas instituições financeiras.
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial interposto pelo agravante e, nessa parte, negar-lhe provimento.
+Agravo interno: em suas razões, o agravante afirma que: i) logicamente o suposto crédito dos agravados na ação revisional está embasado em cálculos que afastaram a incidência do CDI indevidamente, de forma que, ao impugnar a ilegalidade deste critério, praticamente fica integralmente impugnada toda a matéria de falta de fundamentação relevante para a concessão de efeito suspensivo; ii) na presente hipótese, houve o próprio oferecimento do seguro à penhora e não substituição, conforme possibilidade legal prevista no art. 835, §2º, do CPC/15.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO QUE OS RECEBEU COM EFEITO SUSPENSIVO. CONTRATAÇÃO DE SEGURO GARANTIA DE VALOR SUPERIOR AO DA EXECUÇÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. CÓDIGO DE PROCESSO CIVIL QUE EXPRESSAMENTE EQUIPAROU A FIANÇA BANCÁRIA E O SEGURO GARANTIA JUDICIAL AO DINHEIRO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Embargos à execução em que foi proferida decisão os recebendo com efeito suspensivo, tendo em vista a contratação de seguro garantia de valor superior ao da execução.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. De acordo com o §2º do art. 835 do CPC/15, equiparam-se a dinheiro a fiança bancária e o seguro garantia judicial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, ante a incidência da Súmula 283/STF; e a harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+1. Da existência de fundamento não impugnado
+Conforme consignado na decisão agravada, o agravante não impugnou devidamente todos os fundamentos que sustentam o acórdão recorrido no que se refere ao deferimento do efeito suspensivo aos embargos à execução.
+Constata-se, de fato, que o seguinte fundamento não foi devidamente atacado: a tese dos agravados não é apenas em torno da capitalização de juros, porquanto fazem remissão a ação revisional de contratos, que, se não é motivo para inibir o ajuizamento da execução pelo credor, pode ter reflexos no crédito do exequente, e, com lastro em estudo técnico, imputam ao agravante a prática de taxas ilegais de juros e não contratadas, dizendo-se credores de indébito superior a 2 milhões de reais.
+No recurso especial, o agravante limitou-se a argumentar que: i) na presente lide impossível é a concessão de efeito suspensivo aos embargos à execução, porque logo de início não foram preenchidos os requisitos legais, porquanto a execução ainda não se encontrava suficientemente garantida pela penhora e nem tampouco foi apresentada fundamentação relevante a ensejar a suspensão do trâmite da execução; ii) a utilização do CDI como indexador não pode mais ser considerada como fato relevante a autorizar a suspensão da execução, tendo em vista a mais nova interpretação do STJ quanto à legalidade de cláusulas que preveem a incidência do CDI pelas instituições financeiras.
+Assim, não impugnou, de forma consistente, o fato de que a tese dos agravados não se restringe à capitalização de juros.
+2. Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+Por fim, ao entender pela equiparação do seguro judicial a dinheiro, o TJ/SP adotou de forma adequada a jurisprudência do STJ no sentido de que, de acordo com o §2º do art. 835 do CPC/15, equiparam-se a dinheiro a fiança bancária e o seguro garantia judicial (REsp n. 2.034.482/SP, 3ª Turma, DJe de 23/3/2023; e AgInt no REsp n. 1.749.620/SP, 4ª Turma, DJe de 27/9/2021).
+O agravante não trouxe qualquer argumento novo capaz de demonstrar, de forma consistente, que os precedentes indicados não se aplicam à hipótese dos autos ou foram superados.
+Ressalta-se, ainda, o entendimento da 3ª Turma do STJ quanto ao disposto no §2º do art. 835 do CPC/15, no sentido de que, embora a lei se refira a "substituição", que pressupõe a anterior penhora de outro bem, o seguro-garantia judicial produz os mesmos efeitos jurídicos que o dinheiro, seja para fins de garantir o juízo, seja para possibilitar a substituição de outro bem objeto de anterior penhora, não podendo o exequente rejeitar a indicação, salvo por insuficiência, defeito formal ou inidoneidade da salvaguarda oferecida (REsp n. 1.838.837/SP, 3ª Turma, DJe de 21/5/2020).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
