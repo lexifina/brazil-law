@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REEMBOLSO. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022, DO NCPC. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissã o, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIA CARLOTTA QUARTARA FARINI (MARIA), contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REEMBOLSO. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. ALEGAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. NEGATIVA DE COBERTURA. MEDICAMENTO NÃO REGISTRADO NA ANVISA. DEVER DE COBERTURA QUE SE IMPÕE APENAS APÓS O REGISTRO. INCIDÊNCIA DA SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se pode conhecer da apontada violação do art. 1.022 do NCPC, porque as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência impede a abertura da instância especial, nos termos da Súmula n.º 284 do STF, aplicável, por analogia, neste Tribunal Superior.
+3. Segundo a jurisprudência desta Corte, apenas deve ser reconhecido o dever de cobertura contratual a partir do efetivo registro do medicamento pela ANVISA, de forma que o reembolso fica limitado aos valores despendidos após esse fato.
+4. Aplicação da modulação de efeitos nos exatos termos em que deferida no Tema n.º 990 do STJ somente para permitir a procedência parcial do pedido no caso de superveniência do registro no curso da demanda.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+Nas razões do presente inconformismo, defendeu que o acórdão embargado não apreciou a alegação de que, em se tratando de doença rara, a operadora pode ser compelida a fornecer medicamento sem registro na ANVISA.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REEMBOLSO. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022, DO NCPC. NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissã o, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece ser provido.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões destes aclaratórios, MARIA defendeu que o acórdão embargado não apreciou a alegação de que, em se tratando de doença rara, a operadora pode ser compelida a fornecer medicamento sem registro na ANVISA.
+Contudo, sem razão.
+Da acurada análise dos autos se verifica que o acórdão embargado foi claro ao pontuar que, antes do registro da medicação na ANVISA ou pelo menos da autorização desta Agência para a importação de medicamento para uso próprio, sob prescrição médica, as operadoras de plano de saúde não são obrigadas a custear o tratamento medicamentoso do segurado.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. ASTREINTES. REVISÃO. SÚMULA 7/STJ. 3. MULTA DO ART. 1.026 DO CPC/2015. MODIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. HONORÁRIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO. SÚMULAN. 83/STJ . 5. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal de origem decidido todas as questões suficientes ao deslinde da controvérsia, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do acórdão recorrido, afastando-se, com isso, a apontada violação dos arts. 489 e 1.022 do CPC/2015.
+2. "O exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade" (AgInt no AREsp 1.433.346/SP, Rel. Ministro Raul Araújo, julgado em 21/11/2019, DJe 29/11/2019).
+2.1. No caso, a alteração do entendimento adotado pela Corte de origem no que concerne ao cabimento e à proporcionalidade da multa diária imposta pelo descumprimento da determinação judicial demandaria, necessariamente, o reexame de fatos e provas constantes dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Salvo em hipóteses excepcionais, não é possível, na via do recurso especial, desconstituir o entendimento do Tribunal de origem que concluiu pelo caráter protelatório dos embargos de declaração opostos na origem, aplicando, com isso, a referida sanção processual e o respectivo parâmetro a ser adotado, tendo em vista o óbice da Súmula n. 7/STJ, mormente na hipótese dos autos, em que a sanção foi aplicada em decorrência da impertinência dos segundos embargos de declaração.
+4. "Nos conflitos de direito material entre operadora de plano de saúde e seus beneficiários, acerca do alcance da cobertura de procedimentos médico-hospitalares, é inegável que a obrigação de fazer determinada em sentença não só ostenta natureza condenatória como também possui um montante econômico aferível. O título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas condenações. Nessas hipóteses, o montante econômico da obrigação de fazer se expressa pelo valor da cobertura indevidamente negada" (REsp n. 1.738.737/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/10/2019, DJe de 11/10/2019.).
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.990.274/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/4/2023, DJe de 26/4/2023. - destacou-se)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
