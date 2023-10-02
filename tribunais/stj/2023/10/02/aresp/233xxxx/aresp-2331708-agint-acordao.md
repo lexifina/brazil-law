@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO EM DECISÃO DA PRESIDÊNCIA DESTA CORTE. PREVIDENCIÁRIO. REQUERIMENTO DE APOSENTADORIA POR TEMPO DE SERVIÇO. PROPORCIONAL. NO STJ, NÃO CONHECIMENTO. SÚMULA N. 284/STF. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de ação ordinária ajuizada por Márcio Martinelle contra o INSS, requerendo aposentadoria por tempo de serviço. Na sentença, julgou-se parcialmente procedente, para determinar a conversão de tempo especial em comum, para incluir no cálculo no INSS. No Tribunal a sentença foi parcialmente reformada, para conceder a aposentadoria por tempo de serviço/contribuição proporcional, a partir do requerimento administrativo.
+II - Evidencia-se a deficiência na fundamentação recursal quando a parte recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, em que não se conheceu do recurso especial.
+O recurso especial foi interposto contra acórdão proferido no Tribunal Regional Federal da 3ª Região com o seguinte resumo da ementa:
+PREVIDENCIÁRIO. AGRAVO LEGAL. ART. 557 DO CPC. APOSENTADORIA POR TEMPO DE SERVIÇO. ARTIGOS 52 A 56, DA LEI N"8.213, DE 24.07.1991.
+Após devolução dos autos para juízo de retratação, o Tribunal manteve o acórdão recorrido, nos seguintes termos da ementa:
+PROCESSO CIVIL. CONSTITUCIONAL. PREVIDENCIÁRIO. JUROS EM CONTINUAÇÃO. JUÍZO DE RETRATAÇÃO NEGATIVO.
+1. Nos termos do artigo 1.040, II, do CPC/2015, uma vez publicado o acórdão paradigma, "o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior". Como se vê, o juízo de retratação tem lugar quando o acórdão recorrido divergir do entendimento adotado pelo STF ou pelo STJ num precedente de observância obrigatória.
+2. No caso dos autos, não há que se falar em retratação, eis que o acórdão em reexame não contrariou o entendimento do Egrégio Supremo Tribunal Federal, adotado em regime de repercussão geral, no sentido de que devem incidir juros de mora entre a data da realização dos cálculos e a da requisição.
+3. O julgado desta Corte não contraria o precedente obrigatório sobre o tema dos juros em continuação, sendo certo que a pretensão da parte autora no que tange ao recebimento de juros moratórios desde a DER até a data do efetivo pagamento não encontra amparo no mencionado precedente, o qual limita a incidência dos juros moratórios entre a citação e datada expedição do requisitório/precatório.
+4. Juízo negativo de retratação.
+Interposto agravo interno contra a decisão da Presidência, alega a parte agravante, resumidamente:
+ ..
+Nesse sentido, pede-se vênia, para destacar que a Súmula 284 do STF não pode ser um óbice ao conhecimento do recurso especial interposto, visto que quanto ao permissivo constitucional previsto na alínea "a", a Agravante expressamente expôs em seus fundamentos os dispositivos de lei tidos por violados, notadamente, relativos ao Código de Processo Civil.
+No caso dos autos, vale destacar que o Agravante apontou de forma específica quais foram os dispositivos legais violados com o devido dissídio, não sendo o caso de incidência da súmula 284 do STF, conforme se observa nos trechos abaixo -fls. 612/634:
+ ..
+Assim, importa destacar que o Agravante indicou de forma clara quais foram os dispositivos legais federais violados no recurso especial interposto conforme se verifica às fls. 492/514, não havendo, portanto, que se falar em incidência da súmula 284 do STF.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECIDO EM DECISÃO DA PRESIDÊNCIA DESTA CORTE. PREVIDENCIÁRIO. REQUERIMENTO DE APOSENTADORIA POR TEMPO DE SERVIÇO. PROPORCIONAL. NO STJ, NÃO CONHECIMENTO. SÚMULA N. 284/STF. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de ação ordinária ajuizada por Márcio Martinelle contra o INSS, requerendo aposentadoria por tempo de serviço. Na sentença, julgou-se parcialmente procedente, para determinar a conversão de tempo especial em comum, para incluir no cálculo no INSS. No Tribunal a sentença foi parcialmente reformada, para conceder a aposentadoria por tempo de serviço/contribuição proporcional, a partir do requerimento administrativo.
+II - Evidencia-se a deficiência na fundamentação recursal quando a parte recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados. A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, relator Ministro Francisco Falcão, DJe 10/3/2017.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
