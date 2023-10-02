@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. PLEITO DE ABSOLVIÇÃO. INSUFIÊNCIA DE PROVAS. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DEMONSTRADAS. SUSPENSÃO CONDICIONAL DA PENA E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. INOVAÇÃO RECURSAL. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1.In casu, o Tribunal de origem entendeu que existe prova definitiva acerca do delito de tráfico, especialmente diante das prova oral produzida.
+2. A mudança da conclusão alcançada no acórdão impugnado, de sorte a absolver a agravante pelo delito de tráfico, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, conforme o disposto na Súmula n. 7/STJ. Precedentes.
+3. Os pleitos de suspensão condicional da pena e substituição da pena privativa de liberdade por restritiva de direitos constituem inovação recursal, não devendo ser conhecidos.
+4. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, na fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+5. No caso, a existência de circunstância judicial desfavorável (culpabilidade) justifica o recrudescimento do regime prisional.
+6 . Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CIBELE FERNANDA ROMUALDO MAIA contra decisão em que conheci parcialmente do recurso especial e, nessa parte, dei-lhe provimento (e-STJ fls. 642/652).
+Depreende-se dos autos que a ora agravante foi condenada como incursa nas sanções do art. 33, caput, da Lei 11.343/2006, à pena de 06 anos de reclusão, em regime inicial semiaberto, e multa (e-STJ fls. 393/394).
+O apelo defensivo foi desprovido nos termos da seguinte ementa (e-STJ fl. 494):
+RECURSO DE APELAÇÃO CRIMINAL - TRÁFICO ILÍCITO DE DROGA- ABSOLVIÇÃO - IMPOSSIBILIDADE - DOSIMETRIA DA PENA -PRIVILEGIADORA DO § 4º, DO ART. 33, DA LEI Nº 11.343/06 -INAPLICABILIDADE - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO. A infração de narcotráfico tem natureza mista alternativa, consumando-se com a realização de qualquer dos dezoitos verbos constantes no art. 33, caput, da Lei nº 11.343/06, mesmo que não haja comprovação de efetiva comercialização do entorpecente apreendido.
+O Superior Tribunal de Justiça permite que a dedicação à atividade criminosa seja demonstrada por meio de denúncias anônimas e dos depoimentos dos policiais atuantes no caso.
+Apelação conhecida não provida.
+Opostos, os embargos de declaração foram rejeitados (e-STJ fls. 540/542).
+Foi então interposto recurso especial pela defesa, com fundamento no art. 105, III, a, da Constituição Federal, no qual se alegou violação ao art. 386, VI, do Código de Processo Penal.
+Argumentou, em síntese, insuficiência de provas para subsidiar a condenação da recorrente.
+Subsidiariamente, requereu a aplicação da minorante prevista no § 4º art. 33 em seu patamar máximo, ao argumento de que a referida causa especial de diminuição não pode ser afastada com base em denúncias anônimas.
+Contrarrazões às e-STJ fls. 565/570.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso ou, superados os óbices, pelo seu desprovimento (e-STJ fls. 627/640).
+Às e-STJ fls. 642/652, conheci parcialmente do recurso especial e, nessa parte, dei-lhe provimento para reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, e, assim, reduzir a reprimenda para 2 (dois) anos de reclusão, mantendo o regime inicial semiaberto de cumprimento de pena.
+Contra a decisão a defesa interpõe o presente agravo regimental, em que repisa suas alegações acerca da insuficiência probatória em relação ao delito de tráfico.
+Obtempera que, " d iante da impossibilidade de comprovar a efetiva participação da apelante no crime em questão, evoca-se a interpretação do princípio in dubio pro reo" (e-STJ fl. 660).
+Aduz que " ..  havendo dúvidas razoáveis sobre a culpabilidade da Requerente, a medida que se impõe é a absolvição, uma vez que o ônus da prova recai exclusivamente sobre a acusação" (e-STJ fl. 662).
+Ainda, pleiteia a fixação do regime mais brando para início do cumprimento de pena, diante do quantum da reprimenda fixado, a suspensão condicional da pena e a substituição da pena privativa de liberdade pela restritiva de direitos.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. PLEITO DE ABSOLVIÇÃO. INSUFIÊNCIA DE PROVAS. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DEMONSTRADAS. SUSPENSÃO CONDICIONAL DA PENA E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. INOVAÇÃO RECURSAL. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1.In casu, o Tribunal de origem entendeu que existe prova definitiva acerca do delito de tráfico, especialmente diante das prova oral produzida.
+2. A mudança da conclusão alcançada no acórdão impugnado, de sorte a absolver a agravante pelo delito de tráfico, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, conforme o disposto na Súmula n. 7/STJ. Precedentes.
+3. Os pleitos de suspensão condicional da pena e substituição da pena privativa de liberdade por restritiva de direitos constituem inovação recursal, não devendo ser conhecidos.
+4. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, na fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+5. No caso, a existência de circunstância judicial desfavorável (culpabilidade) justifica o recrudescimento do regime prisional.
+6 . Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelos agravantes, o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida.
+O Tribunal de origem, ao confirmar a condenação da recorrente pelo crime de tráfico de drogas, assim consignou (e-STJ fls. 495/497):
+A pretensão absolutória não merece prosperar.
+A materialidade delitiva restou consubstanciada no boletim de ocorrência (mov. 4.3 -AP), auto de apreensão (mov. 4.7 - AP), auto de prisão em flagrante (mov. 4.12 - AP), auto de constatação provisória de droga (mov. 4.12 - AP), laudo toxicológico (mov. 290.1 - AP) e na prova oral colhida durante a instrução.
+A autoria, da mesma forma, é incontroversa.
+Cibele Fernanda Romualdo Maia, em seu interrogatório judicial, disse não se recordar de ter guardado o psicoativo no carrinho de bebê.
+Apontou que o convivente era usuário de drogas e, provavelmente, depositou o cigarro de maconha no utensílio.
+Rejeitou a sua intenção de repassar o entorpecente confiscado e sustentou que, apesar dos boatos, nunca comercializou substâncias proscritas (mov. 273.1 - AP).
+A seu turno, José Leonardo Algarte assumiu ter comprado o tóxico para consumi-lo em momento posterior, colocando a porção no carregador infantil.
+Esqueceu de retirar o invólucro do compartimento antes da recorrente sair para levar os filhos para a escola e, naquele dia, uma funcionária pediu para Cibele deixar o carrinho na instituição para facilitar a locomoção das crianças.
+Depois de ser chamado a comparecer até a sede policial, ficou com medo por já ter passagens pretéritas. Diante disso, a sentenciada confessou a aquisição da droga em favor de ambos (mov. 273.2 - AP).
+Para elucidar o caso, assumem crucial importância os depoimentos prestados pelos agentes de segurança pública responsáveis pela prisão da condenada.
+Os servidores relataram terem recebido diversas notícias acerca da distribuição de tóxicos por Cibele, exercida enquanto José executava pena pelo cometimento de crime dessa mesma natureza.
+Na data da ocorrência, foram acionados pelos trabalhadores da creche frequentada pelos filhos do casal, os quais encontraram maconha em meio aos objetos pessoais dos menores.
+Explicaram que a quantidade do psicoativo não era expressiva.
+Contudo, o método da apelante de utilizar o carrinho de bebê para levar e buscar os produtos ilegais e, até mesmo, escondê-los em roupas infantis, já era conhecido pelos milicianos.
+Por fim, aduziram que, em oportunidade posterior, mas no mesmo ano de 2018, cumpriram mandado de busca e apreensão na residência dos denunciados, detectando maior volume de maconha embalada e pronta para o repasse (mov. 123.4, 136.4 e 220.4 - AP).
+ ..
+Outrossim, o fato de existirem diversas denúncias anônimas dando conta da distribuição de entorpecentes por Cibele e a presença do pacote encontrado pelos funcionários da instituição de ensino apontam para a perpetração do delito imputado.
+Como se não bastasse, a versão da inculpada não passou de mera negativa, a qual, inclusive, restou contraditória.
+Assim, concluo pela suficiência e estabilidade do conjunto probatório obtido na instrução, sendo inviável afastar a condenação de Cibele Fernanda Romualdo Maia
+Na decisão agravada, consignei que a condenação da recorrente, pelo crime de tráfico, decorreu de criterioso exame dos elementos colhidos na fase policial e da prova produzida em juízo, sobretudo da prova oral, consistente no depoimento dos policiais militares envolvidos na prisão da recorrente, os quais foram firmes e coesos ao detalharem as circunstâncias de apreensão da ré após o recebimento de várias denúncias anônimas que davam conta da traficância por parte dos corréus.
+No ponto, destaquei os depoimentos das testemunhas de acusação, transcritos na sentença condenatória (e-STJ fls. 386/387):
+A Autoridade Policial prestou depoimento em fase processual (seq. 123.4) e Adilson José da Silva confirmou a ocorrência dos fatos narrados na denúncia. Senão vejamos: "A Cibele e o José Leonardo são conviventes, eram desde a época dos fatos. Antes desses fatos, o José Leonardo foi preso pela ROTAM com uma quantidade expressiva de drogas e uma arma de fogo na cidade de Marumbi. Estava louco na rua, chegou apontar a arma até para o destacamento da Polícia e então foi preso. Enquanto o José estava preso, nós recebemos informações de que a Cibele estava traficando. Então, havia denúncias deles. Eu tomei todos os cuidados, quando veio a informação de que a Cibele estava traficando,eu pedi para que a informação fosse confirmada e foi. No dia em que José Leonardo saiu da cadeia, nós cumprimos um mandado de busca na casa dele e da Cibele e então eles foram presos. Foi encontrado droga na parede da residência, embaixo da caixa registradora do mercadinho que eles tinham, dentro do para choque do carro que eles tinham. Estou narrando essas situações para demonstrar que havia denúncias. Desta situação do carrinho de bebê, eu participei somente da investigação no procedimento. Salvo engano, o pessoal do local onde ela levava a criança encontrou essa quantidade de droga nas partes do carrinho de bebê. Quem encontrou a droga foi o pessoal de CMEI. A quantidade da droga não era expressiva, foi até por causa disso que eu não fiz o flagrante e instaurei por portaria, a fim de apurar melhor os fatos. No momento, eu não tinha a convicção de que ela estava exercendo o tráfico, posteriormente chegaram novas informações que confirmaram isso. O José Leonardo, além de traficante, era usuário. Tanto que, na situação em que ele foi preso com a arma de fogo, estava em uma situação deplorável, fazia fezes nas roupas, estava com as falas desconexas. O José Leonardo usava e traficava. Ele já tinha preso com quantidade expressiva de droga. No dia em que o José saiu da cadeia, ele voltou para a casa em que morava com a Cibele e, mais tarde, nós cumprimos o mandado de busca e apreensão e encontramos quantidade expressiva de droga."
+A testemunha Abner Castilho Petta, policial militar, ao ser ouvido em juízo (seq. 136.4) disse: "Eu estava de serviço com o Soldado Andrei e as funcionárias da creche nos ligaram informando que haviam achado uma substância suspeita no carrinho do filho da Cibele. Nós deslocamos até lá, era substância análoga a maconha, os pais do bebê já eram conhecidos, nós sabíamos que eles eram traficantes. A Cibele e José Leonardo têm um relacionamento e ela deixou o carrinho de bebê com a droga na creche. Quando nós chegamos, a droga já estavam na mão de uma das funcionárias. Eu não me recordo se a droga estava ou não escondida no carrinho. O José Leonardo já tinha muitas passagens pela polícia, ele era usuário também.
+No mesmo sentido, o policial militar Andrei Robison Marques Coutinho, ouvido em juízo (seq. 220.4), relatou: "Nós fomos solicitados pela diretora da creche, pois a Cibele tinha deixado o filho dela na creche junto com o carrinho do bebê. Quando o pessoal da creche foi fazer uma limpeza do carrinho, encontrou a droga. Nós já tínhamos conhecimento de que eles utilizavam desse meio para traficar, escondiam droga no carrinho da criança, até nas roupas da criança. Diante disso, fomos até a creche, encontramos essa droga dentro do carrinho, encontramos a Cibele próxima ao local e demos voz de prisão à ela. A substância encontrada era maconha. Era uma quantidade pequena de droga, porque, na verdade, eles guardavam droga em casa e levam e buscavam em quantidades pequenas. Eles já são conhecidos pela Polícia em razão do tráfico, tanto a Cibele quanto o José Leonardo. O José Leonardo não foi encontrado no dia, encontramos apenas a Cibele.
+Destaquei, por oportuno, que esta Corte Superior entende que "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova" (AgRg no HC n. 672.359/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/6/2021, DJe 28/6/2021).
+Dessa forma, a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que - apesar da pequena quantidade de entorpecente apreendido - o recorrente estava, de fato, realizando a comercialização de drogas. Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do recorrente, ou até mesmo pela desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.222.297/SE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)
+Quanto ao pedido de abrandamento do regime de cumprimento de pena, tendo em vista a manutenção da pena-base acima do mínimo legal, entendo que o regime inicial deve ser mantido no semiaberto.
+Isso, porque é firme o posicionamento deste Tribunal Superior de ser possível a fixação do regime inicial mais gravoso do que aquele indicado pelo quantum de pena estabelecido, quando presentes uma ou mais circunstâncias judiciais desfavoráveis, ex vi do art. 33, §§ 2º e 3º, do Código Penal, como na hipótese.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PENA-BASE. PERSONALIDADE DO AGENTE. ILEGALIDADE CONSTATADA. REGIME FECHADO. PENA IGUAL A UM ANO DE RECLUSÃO. REGIME SEMIABERTO ADEQUADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+VI - Conforme o disposto no artigo 33, § 3º, do Código Penal, em relação ao regime inicial para o resgate da reprimenda, além do quantum da pena, também deve haver a análise das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+VII - In casu, consoante consta na decisão agravada, considerando o quantum de pena estabelecido (01 (um) ano de reclusão), bem como a existência de circunstâncias judiciais desfavoráveis, o regime mais gravoso sequente, qual seja, o semiaberto, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º do Código Penal.
+Agravo regimental desprovido. (AgRg no HC n. 688.856/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021.)
+No caso do autos, a existência de circunstância judicial desfavorável (culpabilidade) justifica o recrudescimento do regime prisional. Não vislumbro, portanto, o alegado constrangimento ilegal.
+Por fim, destaco que os pedidos de suspensão condicional da pena e de substituição da pena privativa de liberdade por pena restritiva de direitos não podem ser analisados, tendo em vista que a defesa apenas apresentou tais teses no presente agravo regimental, configurando, assim, indevida inovação recursal.
+Ainda que assim não fosse, os requisitos do art. 44 e 77, ambos do Código Penal não foram preenchidos, tendo em vista a fixação da pena-base acima do mínimo legal, em razão da existência de circunstância judicial desfavorável.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
