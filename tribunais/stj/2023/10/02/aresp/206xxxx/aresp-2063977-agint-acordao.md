@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+
+PROCESSUAL  CIVIL.  ADMINISTRATIVO.  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  CUMPRIMENTO  DA  SENTENÇA.  AUSÊNCIA  DE  OMISSÃO  NO  ACÓRDÃO  REGIONAL.  DETERMINAÇÃO  DE  PRODUÇÃO  DE  NOVA  PROVA  PERICIAL.  PRETENSÃO  DE  REEXAME  DE  PROVAS.  SÚMULA  N.  7/STJ.
+1.  Inexiste  a  alegada  ofensa  ao  art.  1.022  do  Código  de  Processo  Civil,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.
+2.  Inviável  a  revisão  o  entendimento  do  Tribunal  de  origem,  com  base  no  conjunto  fático-probatório  dos  autos,  no  sentido  de  determinar  ao  Juízo  de  primeiro  grau  que  proceda  à  fundamentação  acerca  da  necessidade  de  realização  de  nova  perícia.  Rever  o  entendimento  implicaria  revisão  de  matéria  fática,  o  que  é  vedado  em  recurso  especial,  nos  termos  da  Súmula  7  desta  corte:  "a  pretensão  de  simples  reexame  de  prova  não  enseja  Recurso  Especial".
+Agravo  interno  improvido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  JOÃO  CAETANO  NETO  contra  decisão  monocrática  por  mim  proferida,  por  meio  da  qual  conheci  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento,  em  razão  do  entendimento  assentado  de  ausência  de  ofensa  aos  arts.  489,  §  1º,  IV,  e  1.022  do  Código  de  Processo  Civil,  e  de  aplicação  da  Súmula  n.  7/STJ,  no  caso  autos,  por  demandar  análise  de  provas  a  pretensão  dos  ora  agravantes  referente  à  produção  de  prova  (fls.  523-525).
+Extrai-se  dos  autos  que  a  parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  RIO  DE  JANEIRO  cuja  ementa  guarda  os  seguintes  termos  (fl.  154):
+AGRAVO  DE  INSTRUMENTO.  CUMPRIMENTO  DA  SENTENÇA.  DETERMINAÇÃO  DE  PRODUÇÃO  DE  NOVA  PROVA  PERICIAL.  Falta  de  especificação  pelo  juízo  dos  critérios  a  serem  adotados  na  perícia.  Necessidade  de  indicação.  Anulação  da  decisão  agravada  com  atendimento  do  pedido  eventual  formulado  neste  recurso.  Agravo  provido.
+
+Embargos  de  declaração  rejeitados  (fls.  930-935).
+No  presente  agravo  interno,  reitera  o  agravante  a  alegação  do  recurso  especial  de  existência  de  omissão  no  acórdão  regional  ,  em  ofensa  aos  arts.  489,  §  1º,  IV,  e  1.022  do  Código  de  Processo  Civil,  ao  defender  que  efetivamente  não  houve  o  enfrentamento  do  pedido  para  que  fosse  reformada  a  decisão  em  que se  determinou  a  perícia  contábil,  considerando  o  não  cabimento  de  referida  prova,  porquanto  os  cálculos  da  Contadoria  Judicial  estariam  corretos.
+Sustenta,  ainda,  que  é  inaplicável  o  óbice  da  Súmula  7/STJ,  no  caso,  porquanto  desnecessário  reexame  de  fatos  e  provas,  sendo  a  questão  exclusivamente  de  jurídica,  quando  o  que  se  pretende  é  o  reconhecimento  da  suscitada  omissão  no  acórdão  recorrido.
+Pugna,  por  fim,  pelo  encaminhamento  do  feito  à  apreciação  da  Turma  e  pelo  seu  provimento.
+A  parte  agravada,  instada  a  manifestar-se,  apresentou  contrarrazões  (fls.  543-544).
+É,  no  essencial,  o  relatório.
+EMENTA
+
+PROCESSUAL  CIVIL.  ADMINISTRATIVO.  AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  CUMPRIMENTO  DA  SENTENÇA.  AUSÊNCIA  DE  OMISSÃO  NO  ACÓRDÃO  REGIONAL.  DETERMINAÇÃO  DE  PRODUÇÃO  DE  NOVA  PROVA  PERICIAL.  PRETENSÃO  DE  REEXAME  DE  PROVAS.  SÚMULA  N.  7/STJ.
+1.  Inexiste  a  alegada  ofensa  ao  art.  1.022  do  Código  de  Processo  Civil,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.
+2.  Inviável  a  revisão  o  entendimento  do  Tribunal  de  origem,  com  base  no  conjunto  fático-probatório  dos  autos,  no  sentido  de  determinar  ao  Juízo  de  primeiro  grau  que  proceda  à  fundamentação  acerca  da  necessidade  de  realização  de  nova  perícia.  Rever  o  entendimento  implicaria  revisão  de  matéria  fática,  o  que  é  vedado  em  recurso  especial,  nos  termos  da  Súmula  7  desta  corte:  "a  pretensão  de  simples  reexame  de  prova  não  enseja  Recurso  Especial".
+Agravo  interno  improvido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+No  caso  dos  autos,  pleiteia  o  ora  agravante,  em  síntese,  a  desnecessidade  da  realização  de  perícia  contábil  determinada  pelo  Juízo  de  primeiro  grau,  e  o  reconhecimento  de  omissão  no  acórdão  recorrido  acerca  da  questão.
+Consoante  relatado,  por  meio  da  decisão  agravada,  o  agravo  em  recurso  especial  foi  conhecido  para  se  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento,  em  razão  do  entendimento  assentado  de  ausência  de  ofensa  aos  arts.  489,  §  1º,  IV,  e  1.022  do  Código  de  Processo  Civil,  e  de  aplicação  da  Súmula  n.  7/STJ,  no  caso  autos,  por  demandar  análise  provas  a  pretensão  do  ora  agravante  referente  à  produção  de  prova
+Não  merece  prosperar  o  recurso.
+De  início,  consoante  assentado  na  decisão  agravada,  inexiste  a  alegada  ofensa  ao  art.  1.022  do  Código  de  Processo  Civil,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.
+  Com  efeito,  o  Tribunal  de  origem  apreciou  os  pedidos  do  agravante  acerca  da  determinação  de  nova  perícia,  momento  em  que  entendeu  por  determinar  que  o  Juízo  esclareça  em  que  consiste  a  necessidade  de  nova  perícia,  e  também  indique  os  critérios  que  deverão  ser  seguidos  pelo  perito,  inclusive,  para  tanto,  deu  provimento  ao  agravo  de  instrumento  do  ora  agravante.  Confira-se  o  seguinte  excerto  do  acórdão  recorrido  (fls.  155-158):
+Argumenta  que,  ainda  assim,  o  juízo  determinou  a  realização  de  perícia  contábil,  o  que  é  desnecessário.  Obtempera  que  a  prova  pericial  já  foi  realizada  nos  autos  dos  embargos  à  execução.  Defende  que  os  cálculos  corretos  apresentados  pela  contadoria  judicial  devem  ser  homologados  pelo  juízo.  Cita  ofensa  à  coisa  julgada  e  aos  princípios  da  celeridade  e  da  razoável  duração  do  processo.  Em  caráter  eventual,  aduz  que  o  juízo  a  quo  deve  delimitar  os  parâmetros  a  serem  observados  pelo  perito,  sob  pena  de  nulidade.
+(..)
+A  agravada  insistiu  em  discordar  (pasta  1.743,  dos  autos  originários),  reeditando  os  mesmos  argumentos  já  expostos  e  rebatidos  pelo  contador  judicial.
+Foi  determinada  a  prova  pericial,  através  da  decisão  da  pasta  1762,  sem  definir  qualquer  critério  quanto  à  realização  da  perícia,  transferindo  o  magistrado  para  o  perito  a  responsabilidade,  que  é  sua,  de  decidir  as  questões  de  direito.
+Assim,  para  a  realização  de  nova  perícia,  deve  o  juízo  a  quo  esclarecer  em  que  consiste  a  perplexidade  que  enseja  nova  perícia,  bem  como  indicar  os  critérios  que  deverão  ser  seguidos  pelo  experto.
+Confira-se,  outrossim,  o  seguinte  excerto  do  acórdão  dos  embargos  de  declaração  (fls.  218-221):
+(..)  Alega  que  não  foi  apreciada  a  alegação  de  desnecessidade  de  nova  perícia.  Reafirma  que  os  cálculos  apresentados  estão  corretos.
+(..)
+O  aresto  embargado  manteve  a  realização  de  nova  perícia  e  ainda  determinou  que  "o  juiz  de  1º  grau  estabeleça  os  pontos  a  serem  observados  pelo  perito,  decidindo  as  questões  de  direito,  previamente,  para  a  realização  da  prova  técnica",  com  a  finalidade,  justamente,  de  se  conhecer  em  definitivo  a  importância  do  crédito.
+Assim,  manifestou-se  a  Corte  a  quo  de  maneira  clara  e  fundamentada  sobre  as  questões  postas  a  julgamento,  não  obstante  tenha  entendido  o  julgador  de  segundo  grau  em  sentido  contrário  ao  posicionamento  defendido  pelo  ora  agravante.
+Outrossim,  conforme,  também,  assentado  na  decisão  agravada,  verifica-se  que  o  Tribunal  de  origem  determinou  ao  Juízo  a  quo  que  proceda  à  fundamentação  acerca  da  necessidade  de  realização  de  nova  perícia.  Confira-se  o  seguinte  excerto  do  referido  acórdão  (fl.  158):
+Foi  determinada  a  prova  pericial,  através  da  decisão  da  pasta  1762,  sem  definir  qualquer  critério  quanto  à  realização  da  perícia,  transferindo  o  magistrado  para  o  perito  a  responsabilidade,  que  é  sua,  de  decidir  as  questões  de  direito.
+Assim,  para  a  realização  de  nova  perícia,  deve  o  juízo  a  quo  esclarecer  em  que  consiste  a  perplexidade  que  enseja  nova  perícia,  bem  como  indicar  os  critérios  que  deverão  ser  seguidos  pelo  experto.
+Assim,  consigne-se  que  cabe  às  cortes  ordinárias  decidir  pela  produção  probatória  necessária  à  formação  do  seu  convencimento,  entendimento  esse  insuscetível  de  revisão  por  demandar  reapreciação  de  provas,  a  atrair  o  óbice  da  Súmula  n.  7/STJ.  Nesse  sentido,  cito:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  TÍTULO  EXECUTIVO  EXTRAJUDICIAL.  OMISSÃO.  AUSÊNCIA.  INCONFORMISMO.  CERCEAMENTO  DE  DEFESA.  INEXISTÊNCIA.  REEXAME  DE  FATOS  E  PROVAS.  INVIABILIDADE.  PRESCRIÇÃO.  TERMO  INICIAL.  VENCIMENTO  ANTECIPADO  DA  DÍVIDA.  IRRELEVÂNCIA.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Inexistem  omissão,  contradição  ou  obscuridade,  vícios  elencados  no  art.  1.022  do  NCPC,  sendo  forçoso  reconhecer  que  a  pretensão  recursal  ostentava  caráter  nitidamente  infringente,  visando  rediscutir  matéria  que  já  havia  sido  analisada  pelo  acórdão  vergastado.
+2.  Nos  termos  da  jurisprudência  desta  Corte,  cabe  ao  Juiz,  como  destinatário  final  da  prova,  respeitando  os  limites  adotados  pelo  CPC,  decidir  pela  produção  probatória  necessária  à  formação  do  seu  convencimento.  O  Tribunal  estadual  assentou  que  era  desnecessária  a  dilação  probatória.  Alterar  as  conclusões  do  acórdão  impugnado  exigiria  incursão  fático-probatória,  em  afronta  à  Súmula  nº  7  do  STJ.
+3.  O  prazo  prescricional  não  tem  sua  contagem  iniciada  a  partir  do  vencimento  antecipado
+4.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+5.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.219.123/SC,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  DJe  de  29/3/2023.)
+Não  tendo  a  parte  agravante  trazido  fundamento  ou  fato  novo  a  ensejar  a  alteração  do  referido  entendimento,  a  negativa  de  provimento  ao  presente  recurso  é  medida  que  se  impõe.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  como  penso.  É  como  voto.
