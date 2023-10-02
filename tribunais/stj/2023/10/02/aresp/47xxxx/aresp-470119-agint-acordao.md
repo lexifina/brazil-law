@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. O Tribunal local decidiu de forma clara e suficientemente fundamentada a controvérsia, considerando que todas as questões postas à discussão foram devidamente dirimidas, portanto não há que se falar em negativa de prestação jurisdicional.
+2. A pretensão da agravante, no sentido de ser eximida do pagamento de indenização ao recorrido, pela falta de comprovação da existência de dano material, demanda o revolvimento do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Nos termos do art. 206, § 3º, do Código Civil, para as hipóteses de reparação civil decorrente de ato ilícito, verifica-se que o entendimento do acórdão recorrido está em consonância com o entendimento desta Corte, no sentido de ser trienal e de ter como marco inicial a d ata em que foi preterido na realização do acordo. Incidência da Súmula 83/STJ.
+4 . Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de agravo interno interposto por FUNDAÇÃO ENERSUL, contra decisão de fls. 702-706, de lavra deste signatário, que negou provimento ao apelo recursal pelos seguintes fundamentos: i) ausência de violação ao art. 535 do CPC/73; ii) incidência do óbice da Súmula 7/STJ, quanto às alegadas ofensas aos arts. 267, V e 301, §1.º, do CPC/73; iii) bem como quanto aos arts. 331, §1.º do CPC/73; 188, I e 840 do CC; iv) incidência da Súmula 83/STJ, quanto à indigitada violação do art. 267, §3.º, do CC.
+O apelo nobre foi interposto contra acórdão proferido pela 2ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, que recebeu a seguinte ementa (fl. 619):
+APELAÇÃO CÍVEL E RECURSO ADESIVO -COBRANÇA - FUNDAÇÃO ENERSUL - MIGRAÇÃO DE PLANOS DEBENEFÍCIOS-AÇÃO AJUIZADA NA JUSTIÇA DO TRABALHO-PRELIMINARES AFASTADAS - REALIZAÇÃO DE ACORDOS -VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA- DANO MATERIALCONFIGURADO - JUROS DE MORA A PARTIR DA CITAÇÃO - DANOMORAL INDEVIDO-RECURSO PRINCIPAL PARCIALMENTEPROVIDO E ADESIVO NÃO PROVIDO. Viola o princípio da isonomia e o livre acesso ao Judiciário a realização de acordo apenas com aqueles que não ajuizaram ações na justiça, configurando ato ilícito passível de ser indenizado. Quando a condenação decorrer de relação contratual, os juros demora incidem a partir da citação. Meros aborrecimentos não configuram danos morais.
+Em suas razões, a agravante sustentou que o acórdão proferido pelo Tribunal local violou os seguintes artigos 463, II, 535, I e II, do CPC/73; 267, V e 301, §1º, do CPC/73; 266, §3º, V, do CC; 333, I, do CPC/73; e 188, I e 840 do CC. Aduziu, em síntese: 1) omissão do acórdão atacado, que se deteve tão-somente na causa de pedir entre a ação em curso perante a Justiça Comum e a Trabalhista, não atentado para a identidade dos pedidos ali formulados; 2) há total identidade entre o pedido formulado na Justiça Obreira e o formulado no presente feito; 3) a pretensão autoral se encontra prescrita; 4) não há prova da existência de dano material indenizável; e 5) a transação efetivada não constitui ato ilícito.
+Foram apresentadas contrarrazões às fls. 641-648.
+O recurso especial foi inadmitido na origem sob os seguintes fundamentos: (i) a análise das questões relativas ao não reconhecimento da coisa julgada e da prescrição encontra óbice na Súmula 7/STJ; e (ii) as matérias tratadas nos arts. 333, I do CPC/73, 188, I e 840 do CC, não foram objeto de debate na instância de origem, atraindo o teor das Súmulas 282 e 356/STF. Irresignada, a Fundação interpôs o agravo de fls. 663-675, rebatendo os óbices da admissibilidade, e pugnando pelo processamento do especial, ao qual foi negado provimento nos termos já mencionados (fls. 702-706).
+No agravo interno de fls. 864-878, repisa a agravante os argumentos já apresentados, ressaltando que "(..) o agravo em Recurso Especial interposto pela agravante demonstra corno o mencionado recurso reúne TODAS as condições de admissibilidade, não se revelando a existência de qualquer um dos vícios apontados, sendo de rigor o provimento ao presente agravo interno."
+Pede, assim, a reconsideração da decisão agravada ou o julgamento do recurso pelo e. Colegiado.
+Não foi apresentada impugnação (fl. 887).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. O Tribunal local decidiu de forma clara e suficientemente fundamentada a controvérsia, considerando que todas as questões postas à discussão foram devidamente dirimidas, portanto não há que se falar em negativa de prestação jurisdicional.
+2. A pretensão da agravante, no sentido de ser eximida do pagamento de indenização ao recorrido, pela falta de comprovação da existência de dano material, demanda o revolvimento do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. Nos termos do art. 206, § 3º, do Código Civil, para as hipóteses de reparação civil decorrente de ato ilícito, verifica-se que o entendimento do acórdão recorrido está em consonância com o entendimento desta Corte, no sentido de ser trienal e de ter como marco inicial a d ata em que foi preterido na realização do acordo. Incidência da Súmula 83/STJ.
+4 . Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O inconformismo não merece prosperar.
+1. Com efeito, como consignado da decisão ora agravada, quanto à alegada violação ao art. 535 do CPC/73, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, tendo em vista que todas as questões postas à discussão foram dirimidas.
+Especificamente quanto à alegação de existência de coisa julgada, o Tribunal local afirmou que "(..) ainda que se assemelhem, a causa de pedir e o pedido são diversos entre as lides." (fl. 574). Nesse contexto, depreende-se que, sob o pretexto de omissão, a agravante pretende, na verdade, obter um pronunciamento judicial favorável à sua pretensão, quando sustenta que "(..) houve alguns fundamentos que não foram enfrentados pelo voto", pois "(..) a análise da existência ou não de coisa julgada pela Câmara focou-se exclusivamente na causa de pedir, negligenciando o cotejo dos pedidos deduzidos nas duas ações" (fl. 605).
+Verifica-se, portanto, que o órgão julgador manifestou-se expressamente sobre a tese apontada como omissa nas razões recursais, em decisão suficientemente fundamentada, porém em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação. Na mesma linha, confiram-se os seguintes precedentes: AgInt no AREsp 1.534.000/ES, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020; AgInt no AREsp 1.682.730/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020; AgInt no AREsp 1.577.584/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/11/2020, DJe 17/11/2020.
+2. Quanto às alegadas violações dos arts. 267, V, e 301, §1º, do CPC/73, efetivamente verifica-se que a pretensão da agravante encontra óbice no teor da Súmula 7/STJ.
+Isso porque, ao analisar a alegação de existência de coisa julgada, assim se posicionou o Tribunal local (fl. 574):
+(..)
+Também não prospera a alegação de que a pretensão posta é idêntica á ação ajuizada perante a Justiça do Trabalho e julgada improcedente. É que a causa de pedir e o pedido apresentados nesta ação divergem substancialmente dos daquela que visava a recomposição das reservas matemáticas dos planos de previdência privada. Aqui o pedido principal é compelir a Fundação Enersul a transacionar com o autor, nos termos dos acordos realizados com outros participantes, sustentando como ato ilícito a própria recusa, além de pleitear danos morais. Portanto, ainda que se assemelhem, a causa de pedir e o pedido são diversos entre as lides.
+(..)
+Nesse contexto, revela-se evidente que se contrapor a tal fundamentação, como pretende a agravante ao insistir na existência de coisa julgada, demandaria o revolvimento do contexto fático-probatório dos autos, o que não se admite nesta instância recursal pelo mencionado óbice sumular.
+3. Da mesma forma, a análise das indigitadas violações dos arts. 331, I do CPC/73, 188, I e 840 do CC, também estão obstadas pelo teor da Súmula 7/STJ. Isso porque, neste particular, a Corte de origem entendeu que "(..) embora o juiz tenha julgado improcedente a pretensão de obrigar a Fundação a firmar com o ex-participante o indigitado acordo, acolheu o pedido de dano patrimonial decorrente do ato ilícito em tratar iguais com desigualdade, fato que gerou inequívoco prejuízo financeiro ao apelado, passível de ser indenizado." (fl. 576). Nessa seara, a pretensão da agravante, no sentido de ser eximida do pagamento de indenização ao recorrido, pela falta de comprovação da existência de dano material, também demandaria o revolvimento do contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ. Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1.(..)
+2. (..)
+3. O acolhimento da tese de inexistência de ato ilícito a justificar o pagamento de indenização por danos materiais e morais demandaria o reexame do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+4. É entendimento firme nesta Corte Superior que a mera transcrição de ementas e de excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.181.215/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CERCEAMENTO DE DEFESA, INEXISTÊNCIA DE ATO ILÍCITO E FALTA DE COMPROVAÇÃO DO NEXO CAUSAL E DOS DANOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal de reforma do acórdão recorrido quanto à inexistência de cerceamento de defesa e à comprovação da responsabilidade da recorrente demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento do conjunto fático-probatório dos autos, o que é vedado na via especial, ante o óbice da Súmula 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.908.743/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+4. Finalmente, quanto à aplicação do prazo prescricional previsto no art. 206, § 3º, do Código Civil, para as hipóteses de reparação civil decorrente de ato ilícito, verifica-se que o entendimento do acórdão recorrido encontra-se em consonância com o entendimento desta Corte Superior sobre o tema, no sentido de ser trienal e de ter como marco inicial a data em que foi preterido na realização do acordo. Nesse sentido, confiram-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE CIVIL. QUEDA NO INTERIOR DE TRANSPORTE COLETIVO. PRAZO PRESCRICIONAL TRIENAL. ART. 206, § 3º, V, DO CÓDIGO CIVIL. TERMO INICIAL. DATA DO EVENTO DANOSO.
+1. "Conforme entendimento sedimentado no STJ, o prazo prescricional, em caso de responsabilidade civil, decorrente de ato ilícito, começa a correr da ciência do fato ensejador da reparação, qual seja, o evento danoso" (AgInt no REsp 1.415.061/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12.9.2017, DJe de 15.9.2017).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.910.592/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Marco inicial para contagem da prescrição fixado pelo acórdão recorrido, em consonância com a jurisprudência desta Corte assente no sentido de que o prazo prescricional em caso de responsabilidade civil por ato ilícito tem início da ciência do evento danoso.
+Incidência da Súmula 83 do STJ.
+(AgInt no AREsp n. 1.303.789/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/5/2019, DJe de 5/6/2019.)
+Depreende-se, portanto, que apesar do esforço da agravante, a decisão agravada deve ser mantida na íntegra.
+Ante o exposto, nega-se provimento ao presente agravo interno.
+É o voto.
