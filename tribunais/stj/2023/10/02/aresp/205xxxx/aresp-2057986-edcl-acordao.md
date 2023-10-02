@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração opostos por ACF INDUSTRIA DE PLASTICOS LTDA.-ME, contra o acórdão proferido pela Quarta Turma sob a relatoria deste signatário, que negou provimento ao agravo interno interposto pela parte ora embargante.
+O aresto em questão recebeu a seguinte ementa (fl. 567, e-STJ):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+Em síntese, a parte embargante alega a existência de omissão e obscuridade no julgado embargado, alegando ausência de análise ou julgamento do pedido específico contido no agravo interno no agravo em recurso especial.
+Impugnação apresentada às fls. 582-584, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar.
+1. Com efeito, nos estreitos lindes do art. 1.022 do CPC/2015, os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material.
+Entretanto, a presente insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACÓRDÃO DESTE ÓRGÃO FRACIO NÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA. 1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. 2. Embargos de declaração rejeitados. (EDcl no AgInt nos EDcl no REsp 1743741/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)  grifou-se
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. (..) 2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente. 3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. (..) 6. Agravo interno não provido. (AgInt no AREsp 1582425/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)  grifou-se
+No que tange às alegações do ora embargante, cumpre asseverar que o acórdão que julgou o agravo interno foi claro nas suas razões ao reconhecer a incidência do óbice da Súmulas 182 do STJ à hipótese.
+Aduz o embargante que o julgado embargado foi omisso e obscuro, por ausência de análise ou julgamento do pedido específico contido no agravo interno no agravo em recurso especial.
+Contudo, da leitura dos autos, constata-se que referida tese fora expressamente examinada pelo julgado embargado (fls. 571-572, e-STJ):
+No caso dos autos, o Tribunal local negou seguimento ao apelo extremo, ante os seguintes fundamentos: a) a necessidade de reexame de fatos e provas dos autos, no tocante à pretensão de inversão do ônus da prova, a atrair o teor da Súmula 7/STJ; b) a necessidade de reexame de fatos e provas dos autos, no tocante à pretensão de revisão do valor da indenização por dano moral, a atrair o teor da Súmula 7/STJ.
+Todavia, nas razões do agravo em recurso especial (fls. 476-485, e-STJ), a parte insurgente repisou os argumentos do apelo extremo no sentido da violação a dispositivos legais e divergência jurisprudencial e sustentou - de forma genérica - a inaplicabilidade da Súmula 7 do STJ, deixando de atender a dialeticidade recursal.
+A propósito, com relação à Súmula 7/STJ, esta eg. Quarta Turma, nos autos do AGInt no ARESp n. 1.490.629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 25/08/2021, firmou o entendimento de que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias.".
+Eis a ementa do referido julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do do mesmo Código de Ritos), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+4. Agravo interno não provido. (AgInt no AREsp 1490629/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/08/2021, DJe 25/08/2021) grifou-se
+Desta forma, cabia à parte insurgente apresentar fundamentos aptos a justificar, no caso, o porquê da aplicação do dispositivo não demandar - em contraste ao que concluiu a Corte local - a análise de fatos, obrigação processual da qual, a rigor, não se desincumbiu.
+A recente jurisprudência desta Corte, à luz do princípio da dialeticidade, que norteia os recursos, é no sentido de que deve a parte recorrente impugnar especificamente todos os fundamentos suficientes para manter o decisum recorrido, de maneira a demonstrar que o juízo de admissibilidade do Tribunal de origem merece ser modificado, o que não se vislumbra no recurso em questão.
+Desta forma, irrefutável a incidência da Súmula 182 do STJ, porquanto inexistiu ataque específico a todos os fundamentos da decisão que obstou a ascensão do recurso especial ao Superior Tribunal de Justiça.
+Observa-se, portanto, que a parte embargante pretende, em verdade, obter uma decisão favorável às suas teses, o que deixa nítido o caráter infringente dos presentes embargos declaratórios, mormente porque a decisão atacada explicitou os motivos que levaram ao não provimento do recurso.
+Assim, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, não havendo nada a mais a ser esclarecido.
+Dessa forma, não cabe alegação de violação ao art. 1.022 do CPC/15, quando a decisão embargada está devidamente fundamentada, apenas não se adotando a tese da parte embargante.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2. Do exposto, rejeito os embargos de declaração.
+É como voto.
