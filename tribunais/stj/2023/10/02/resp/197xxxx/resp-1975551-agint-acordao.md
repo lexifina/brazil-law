@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS. RETROAÇÃO À DATA DE IMPLEMENTAÇÃO DOS REQUISITOS. ACORDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. Esta Corte tem o entendimento de que, em se tratando de progressão ou promoção de servidor público, os efeitos financeiros devem retroagir à data em que cumpridos os requisitos legais para tanto, e não da publicação da portaria, tampouco do requerimento administrativo. Precedentes: AgInt no AREsp 2.220.300/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023; AgInt no REsp 1.988.371/AL, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no REsp 1.903.985/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/3/2021, DJe de 6/4/2021.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO RIO GRANDE DO NORTE contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fls. 582/590):
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDORA PÚBLICA. PROFESSORA TITULAR DE INSTITUIÇÃO DE ENSINO. PROGRESSÃO FUNCIONAL/TITULAÇÃO. DECADÊNCIA ADMINISTRATIVA. OCORRÊNCIA. TERMO INICIAL DOS EFEITOS FINANCEIROS. DATA DO REQUERIMENTO ADMINISTRATIVO. RECURSO ESPECIAL DO INSTITUTO FEDERAL A QUE SE NEGA PROVIMENTO.
+A parte agravante alega que "o ato administrativo que concede a progressão/promoção tem natureza constitutiva, motivo pelo qual seus efeitos começam a fluir a partir do instante em que ele é praticado, ou seja, no momento em que assinada e publicada a portaria de progressão/promoção" (fl. 594).
+Requer,  desse modo, a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+Impugnação apresentada às fls. 603/607.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS. RETROAÇÃO À DATA DE IMPLEMENTAÇÃO DOS REQUISITOS. ACORDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+1. Esta Corte tem o entendimento de que, em se tratando de progressão ou promoção de servidor público, os efeitos financeiros devem retroagir à data em que cumpridos os requisitos legais para tanto, e não da publicação da portaria, tampouco do requerimento administrativo. Precedentes: AgInt no AREsp 2.220.300/ES, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023; AgInt no REsp 1.988.371/AL, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022; AgInt no REsp 1.903.985/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/3/2021, DJe de 6/4/2021.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Discute-se nos autos sobre o termo inicial dos efeitos financeiros decorrentes da progressão/promoção funcional de servidor ocupante da carreira de magistério.
+Quanto ao assunto, esta Corte possui entendimento pacífico de que, em se tratando de progressão/promoção de servidor público, os efeitos financeiros devem retroagir à data em que cumpridos os requisitos legais para tanto, e não da publicação da portaria, tampouco do requerimento administrativo.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS. RETROAÇÃO À DATA DE IMPLEMENTAÇÃO DOS REQUISITOS. ACORDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A respeito do cerne da insurgência, o Tribunal de origem decidiu que "o termo inicial a ser aplicado para fins de progressão funcional na carreira de magistério é a data em que o servidor público de fato implementou os requisitos legais para tanto" (fl. 376).
+2. Esta Corte tem o entendimento de que, "quanto à Progressão por mérito (interstício), os efeitos financeiros devem retroagir à data em que cumpridos os requisitos para tanto, ou seja, à data em que implementado o interstício, e não da publicação da Portaria, tampouco do Requerimento Administrativo" (REsp 1.958.528/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/10/2021), o que atrai a incidência da Súmula 83 do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.220.300/ES, de minha relatoria, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. MAGISTÉRIO SUPERIOR. PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS. RETROAÇÃO À DATA DE IMPLEMENTAÇÃO DOS REQUISITOS. ACORDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+ ..
+2. O acórdão recorrido manteve a sentença de procedência da ação ao entendimento de que o termo inicial dos efeitos financeiros da promoção deve retroagir à data que o docente cumprir o interstício e os requisitos estabelecidos em lei para o desenvolvimento na carreira, nos termos § 3º do artigo 14 da Lei n. 12.772/2012, e não à data de conclusão da avaliação de desempenho ou a de outro momento distinto.
+ ..
+4. Além disso, conforme já consignado na decisão agravada, o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte no sentido de que, quanto à promoção por mérito (interstício), os efeitos financeiros devem retroagir à data em que cumpridos os requisitos para tanto, ou seja, à data em que implementado o interstício, e não da publicação da Portaria, tampouco do Requerimento Administrativo. Precedente: AgInt no REsp 1.903.985/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/4/2021.
+5. Agravo interno não provido. (AgInt no REsp n. 1.988.371/AL, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1º/9/2022.)
+ADMINISTRATIVO. DIREITO SUBJETIVO A PROMOÇÃO/PROGRESSÃO FUNCIONAL. EFEITOS FINANCEIROS A PARTIR DA DATA EM QUE PREENCHIDOS TODOS OS REQUISITOS LEGAIS ATÉ A DATA EM QUE O SERVIDOR FOI DEVIDAMENTE PROMOVIDO PELA ADMINISTRAÇÃO PÚBLICA.
+1. Conforme já disposto no decisum combatido, no enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "No tocante ao mérito da lide propriamente dito, (1) o direito subjetivo à progressão funcional surge com a implementação dos requisitos legais, pelo que os respectivos efeitos financeiros devem retroagir a essa data, sob pena ofensa ao direito adquirido do servidor (art. 5º, inciso XXXVI, da Constituição Federal); (2) a homologação de sua avaliação é ato puramente declaratório, que confirma direito preexistente; (3) os efeitos financeiros da progressão ou promoção funcional estão atrelados ao cumprimento dos requisitos legais pelo servidor, independentemente da data de sua verificação pela Administração ou publicação da respectiva portaria, e (4) essa data pode coincidir ou não com a da formulação do pedido administrativo."
+2. Com efeito, a posição firmada no aresto combatido não destoa da jurisprudência dominante do STJ no sentido de que os efeitos financeiros do direito subjetivo à promoção/progressão funcional devem vigorar a partir da data em que preenchidos todos os requisitos legais até a data em que o servidor foi devidamente promovido pela Administração Pública.
+3. Agravo Interno não provido. (AgInt no REsp n. 1.903.985/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/3/2021, DJe de 6/4/2021.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
