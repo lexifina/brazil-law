@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. PLEITO DEFENSIVO PARA SE RECONHECER A PRESENÇA DO CONCURSO FORMAL PRÓPRIO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA DO HABEAS CORPUS.
+1. A distinção entre o concurso formal próprio e o impróprio relaciona-se com o elemento subjetivo do agente, ou seja, a existência ou não de desígnios autônomos (AgRg no REsp n. 1.299.942/DF, rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 21/6/2013).
+2. As instâncias de origem, com base nas provas dos autos, entenderam pela aplicação da regra da continuidade delitiva específica, considerando que "é inegável que os crimes dolosos contra a vida, tanto o consumado como os tentados, foram perpetrados nas mesmas condições de tempo e lugar, mediante diversos disparos de arma de fogo. E também é possível vislumbrar unidade de desígnios no comportamento do acusado, por ter praticado todos os delitos contra membros de uma mesma família."
+3. Alterar a referida conclusão, com o intuito de acolher o pleito de reconhecimento do concurso formal próprio, no caso, demandaria inevitável incursão no conjunto fático-probatório dos autos, providência inadmissível na via estreita do writ.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+Consta dos autos que Edgar Croci de Oliveira foi condenado pela prática dos delitos previstos nos arts. 121, § 2º, IV, 121, § 2º, IV, c/c o 14, II, e 121, § 2º, IV e §4º, segunda parte, c/c o 14, II, na forma do art. 71, parágrafo único, todos do Código Penal, à pena de 20 anos de reclusão, em regime prisional inicial fechado.
+Neste recurso, o agravante defende que deve ser aplicado o concurso formal próprio, disciplinado na primeira parte do art. 70 do CP.
+Aponta que "o caso em apreço preenche todos os requisitos para a configuração do concurso formal próprio de crimes tendo em vista que fora praticada somente uma conduta, ainda que segmentada em vários atos, sem pluralidade de desígnios" (fl. 150).
+Requer o provimento do agravo para que seja "aplicada a exasperação de 1/5 (um quinto) na pena mais grave fixada, qual seja: 12 anos de reclusão em relação à vítima Donald, no critério de concurso formal próprio" (fl. 152).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. PLEITO DEFENSIVO PARA SE RECONHECER A PRESENÇA DO CONCURSO FORMAL PRÓPRIO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA DO HABEAS CORPUS.
+1. A distinção entre o concurso formal próprio e o impróprio relaciona-se com o elemento subjetivo do agente, ou seja, a existência ou não de desígnios autônomos (AgRg no REsp n. 1.299.942/DF, rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 21/6/2013).
+2. As instâncias de origem, com base nas provas dos autos, entenderam pela aplicação da regra da continuidade delitiva específica, considerando que "é inegável que os crimes dolosos contra a vida, tanto o consumado como os tentados, foram perpetrados nas mesmas condições de tempo e lugar, mediante diversos disparos de arma de fogo. E também é possível vislumbrar unidade de desígnios no comportamento do acusado, por ter praticado todos os delitos contra membros de uma mesma família."
+3. Alterar a referida conclusão, com o intuito de acolher o pleito de reconhecimento do concurso formal próprio, no caso, demandaria inevitável incursão no conjunto fático-probatório dos autos, providência inadmissível na via estreita do writ.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 139-141):
+Em relação ao reconhecimento da continuidade delitiva específica, entendeu o Tribunal a quo (fls. 134/135):
+A pretensão recursal do réu, de ver reduzidas as suas penas, deve ser acolhida, embora por motivação diversa da que foi invocada nas razões recursais.
+O acusado foi condenado pela prática de um crime de homicídio qualificado consumado (vítima Donald) e de dois crimes de homicídio qualificado na forma tentada (vítimas Karine e Marcelo).
+As penas foram fixadas em doze anos de reclusão (vítima Donald), quatro anos de reclusão (vítima Karine) e oito anos de reclusão (vítima Marcelo), sendo ao final somadas, totalizando vinte e quatro anos de reclusão.
+Pois bem. Consoante se extrai dos autos, e consta da denúncia de fls. 371/372, embora no mesmo contexto, o recorrente efetuou diversos disparos de arma de fogo contra três pessoas diferentes. Praticou, portanto, várias ações, o que impede o reconhecimento do concurso formal, para o qual, a teor do artigo 70 do Código Penal, seria exigível que o agente tivesse praticado dois ou mais crimes "mediante uma só ação" .
+É possível, contudo, o reconhecimento da continuidade delitiva específica. Com efeito, o artigo 71, parágrafo único, do Código Penal, prevê que "Nos crimes dolosos, contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, poderá o juiz, considerando a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, aumentar a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, até o triplo, observadas as regras do parágrafo único do Código".
+  No caso, é inegável que os crimes dolosos contra a vida, tanto o consumado como os tentados, foram perpetrados nas mesmas condições de tempo e lugar, mediante diversos disparos de arma de fogo. E também é possível vislumbrar unidade de desígnios no comportamento do acusado, por ter praticado todos os delitos contra membros de uma mesma família. Consoante se extrai da jurisprudência:
+  Diante disso, fica reconhecida a ocorrência do crime continuado específico.
+Como se vê, o Tribunal de Justiça entendeu pela aplicação da regra da continuidade delitiva específica, considerando que "é inegável que os crimes dolosos contra a vida, tanto o consumado como os tentados, foram perpetrados nas mesmas condições de tempo e lugar, mediante diversos disparos de arma de fogo. E também é possível vislumbrar unidade de desígnios no comportamento do acusado, por ter praticado todos os delitos contra membros de uma mesma família."
+Nos termos da jurisprudência desta Corte, o "concurso formal perfeito caracteriza-se quando o agente pratica duas ou mais infrações penais mediante uma única ação ou omissão; já o concurso formal imperfeito evidencia-se quando a conduta única (ação ou omissão) é dolosa e os delitos concorrentes resultam de desígnios autônomos.
+Ou seja a distinção fundamental entre os dois tipos de concurso formal varia de acordo com o elemento subjetivo que animou o agente a iniciar a sua conduta. A expressão "desígnios autônomos" refere-se a qualquer forma de dolo, seja ele direto ou eventual" (HC 191.490/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 27/9/2012, DJe 9/10/2012).
+No caso, a desconstituição da premissa fática delineada no acórdão recorrido demandaria aprofundado reexame probatório, a que a via estreita do writ não se presta.
+Ante o exposto, denego o habeas corpus.
+A decisão agravada deve ser mantida por seus próprios fundamentos, pois, assim como demonstrado, as instâncias de origem, com base nas provas dos autos, entenderam pela aplicação da regra da continuidade delitiva específica, considerando que "é inegável que os crimes dolosos contra a vida, tanto o consumado como os tentados, foram perpetrados nas mesmas condições de tempo e lugar, mediante diversos disparos de arma de fogo. E também é possível vislumbrar unidade de desígnios no comportamento do acusado, por ter praticado todos os delitos contra membros de uma mesma família" (fl. 101).
+Alterar a referida conclusão, com o intuito de acolher o pleito de reconhecimento do concurso formal próprio, no caso, demandaria inevitável incursão no conjunto fático-probatório dos autos, providência inadmissível na via estreita do writ. No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS . LATROCÍNIO. RECONHECIMENTO DE CONDUTA ÚNICA. CONCURSO FORMAL IMPRÓPRIO. MAIS DE UMA VÍTIMA. IMPROPRIEDADE DA VIA ELEITA. PENA-BASE. CONDUTA SOCIAL. MOTIVAÇÃO IDÔNEA DECLINADA. AGRAVO DESPROVIDO.
+ ..
+2. Descabe falar em reconhecimento de crime único de latrocínio. Isso porque as instâncias ordinárias adotaram entendimento em consonância com a jurisprudência prevalente neste Superior Tribunal de Justiça, no sentido de que há concurso formal impróprio na prática de latrocínio quando a conduta do agente tenha por escopo mais de um resultado morte, ainda que a subtração recaia sobre os bens de uma única vítima, na medida em que ficam evidenciados desígnios autônomos, atraindo, portanto, o comando legal disposto no art. 70, segunda parte, do Código Penal.
+3. Para infirmar a conclusão da sentença condenatória, no sentido da ausência de unidade de desígnios nos crimes de latrocínio, o que ensejou o reconhecimento do concurso formal impróprio, para infirmar tal conclusão seria necessário revolver o contexto fático probatório dos autos, o que não se coaduna com a via do habeas corpus.
+ ..
+5. Agravo regimental desprovido" (AgRg no HC n. 531.133/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 25/11/2019).  gn .
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
