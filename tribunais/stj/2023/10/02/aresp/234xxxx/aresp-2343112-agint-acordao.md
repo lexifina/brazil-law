@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 489 e 1022 DO CPC. ALEGAÇÃO GENÉRICA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO. DEFICIÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. Para infirmar o entendimento alcançado pela Corte de origem, a respeito do enquadramento da empresa a justificar a cobrança da contribuição adicional ao SENAI, seria essencial o reexame do conjunto fático-probatório dos autos, o que é inviável nesta instância superior, nos termos da Súmula 7 do STJ.
+3  . Incide a Súmula 284 do STF quando, nas razões do recurso especial, não se ataca especificamente os fundamentos condutores do julgado impugnado, sendo considerada deficiente a fundamentação recursal.
+4. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, mesmo em relação à matéria de ordem pública, porquanto não preenchido o requisito constitucional do prequestionamento. Aplicação das Súmulas 282 e 356 do STF.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL contra a decisão de e-STJ fls. 497/501, em que conheci do agra vo para não conhecer do recurso especial em razão dos seguintes fundamentos: a) aplicação da Súmula 284 do STF quanto à alegada negativa de prestação jurisdicional; b) ausência de prequestionamento (Súmulas 282 e 256 do STF); c) incidência da Súmula 7 do STJ.
+O agravante alega, em síntese, que (e-STJ fl. 509):
+(..) expôs as razões de fato e os fundamentos jurídicos aptos e suficientes para sustentar a reforma da r. decisão, a fim de obter o pronunciamento final desta Colenda Corte acerca da interpretação da norma ora afrontada, ou seja, o recorrente demonstrou satisfatoriamente que o acórdão recorrido insisti na violação artigos 4º e 6º do Decreto-lei nº 4.048/42, artigos 2º, alínea b e 3º do Decreto-lei 6.246/44, além dos arts. 577 e 581 da CLT; incisos XXVIII e XXVI do art. 109/D da Instrução Normativa da Receita Federal do Brasil nº 971/2009; alínea "c", do inciso I, do art. 3º, da Lei n.º 11.445/07.
+Afirma que "não é o caso de incidência da Súmula 07 do STJ, porquanto a decisão poderia ser apreciada SEM o reexame das provas, bastando a análise dos fatos incontroversos consignados no próprio v. acórdão recorrido" (e-STJ fl. 507).
+Ao final, busca a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 489 e 1022 DO CPC. ALEGAÇÃO GENÉRICA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO. DEFICIÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A alegação genérica de ofensa aos arts. 489 e 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. Para infirmar o entendimento alcançado pela Corte de origem, a respeito do enquadramento da empresa a justificar a cobrança da contribuição adicional ao SENAI, seria essencial o reexame do conjunto fático-probatório dos autos, o que é inviável nesta instância superior, nos termos da Súmula 7 do STJ.
+3  . Incide a Súmula 284 do STF quando, nas razões do recurso especial, não se ataca especificamente os fundamentos condutores do julgado impugnado, sendo considerada deficiente a fundamentação recursal.
+4. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, mesmo em relação à matéria de ordem pública, porquanto não preenchido o requisito constitucional do prequestionamento. Aplicação das Súmulas 282 e 356 do STF.
+5. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+O apelo raro se origina de ação ordinária ajuizada pelo SENAI "para cobrança da contribuição geral prevista no Decreto- Lei nº 4.048/1942, singularizada na Notificação de Débito nº 71283-L, no valor de R$ 605.206,05" (e-STJ fl. 356).
+No juízo de primeiro grau, o pedido foi julgado improcedente.
+Interposta apelação, o Tribunal regional negou-lhe provimento, com base nos seguintes fundamentos (e-STJ fls. 356/358):
+(..) a r. sentença recorrida, no essencial, bem estabeleceu a improcedência da ação, destacando-se do decidido:
+"(..) Nos termos do Decreto-lei 4.048/1942, o adicional de vinte por cento é devido pelos "estabelecimentos industriais" com "mais de quinhentos operários".
+A ré, no entanto, tem por objeto social "a importação, comércio, revenda, substituição e reparação de peças de reposição de produtos eletroeletrônicos de telecomunicações, de informática e de comunicação, além da prestação de serviços de instalação, manutenção e treinamento correlacionado às áreas técnicas referidas, bem como o desenvolvimento de projetos executivos, gerenciamento e fiscalização de obras e projetos e a realização de serviços de obra civil, bem como o licenciamento, desenvolvimento e atualização de software" (f1s.93/94).
+Pela descrição acima, depreende-se que a ré atua de forma preponderante o nos ramos de comércio e serviços. Prova disso é que recolhe suas contribuições paraestatais em favor do Serviço Nacional de Aprendizagem Comercial (SENAC) e ao ó Serviço Social do Comércio (SESC), entidades mantidas por empresas comerciais e de serviços, diferentemente da entidade autora, que e mantida por empresas industriais.
+Além disso, a ré faz parte do Sindicato Nacional das Empresas Prestadoras de Serviço e Instaladoras de Sistemas e Redes de TV por Assinatura, Cabo, MMDS, DTH e Telecomunicações SINSTAL, e seus empregados são vinculados ao Sindicato dos Trabalhadores em Empresas de Telecomunicações e Operadores de Mesas Telefônicas no Estado de São Paulo SINTETEL (f1s.250/252), enquadramentos sindicais que demonstram não ser industrial a principal atividade da empresa ré.
+O pedido, dessa forma, deve ser rejeitado.
+Ante o exposto, julgo improcedente o pedido e condeno o autor Serviço Nacional de Aprendizagem Industrial (SENAI) ao pagamento das custas e despesas processuais, além de honorários advocatícios que fixo em dez por cento (10%) do valor atualizado da causa".
+Ademais, em que pesem as razões recursais do SENAI, verifica-se que a r.
+sentença recorrida está em consonância com a orientação deste Egrégio Tribunal de Justiça, consoante se verifica dos seguintes precedentes, tirados de casos iguais ao presente, a envolver cobrança de contribuição patronal, pelo SENAI, da mesma empresa ora requerida (Huawei Serviços do Brasil Ltda).
+Pois bem.
+Conso ante anteriormente explicitado, no tocante aos arts. 489 e 1022 do CPC/2015, o recurso especial não merece mesmo ser conhecido, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, o recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do STF.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 2107963/MG, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 14/09/2022; AgInt no AREsp 2053264/SP, Relator Ministro Marco Buzzi, Quarta Turma, DJe 01/09/2022; AgInt no REsp 1987496/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 01/09/2022; EDcl nos EDcl no AgInt no AREsp 1574705/PR, Relator Ministro Herman Benjamin, Segunda Turma, DJe 15/03/2022; AgInt no AREsp 1718316/RS, Relator Ministro Og Fernandes; Segunda Turma, DJe 24/11/2020.
+Quanto à incidência da Súmula 7 do STJ, ficou assentado na decisão combatida que, entre outros fundamentos, o voto condutor do julgado destacou que a preponderância da atividade desenvolvida pela ora agravada não ensejava o pagamento da Contribuição Adicional ao SENAI, conforme apontaram os documentos.
+Assim, a revisão do entendimento do Tribunal de origem, a fim de decidir pela desconsideração dos documentos em que amparado o acórdão recorrido e, de outro lado, pelo suposto enquadramento da empresa, a fim de dar consistência à autuação fiscal impugnada, demandaria o reexame do conjunto probatório, providência que encontra óbice no referido verbete, devidamente aplicado ao caso.
+No tocante às demais alegações, por sinal bastante genéricas, entendo que também incide o enunciado sumular 284 do STF, em razão da deficiência na fundamentação do recurso: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A agravante tão somente afirma que todas as questões foram debatidas, que houve a violação dos artigos violados e que dever ser reconsiderada a decisão, mas em momento algum apresenta razões convincentes e sólidas que sustentariam os seus argumentos.
+Por fim, no que diz respeito ao pedido subsidiário (honorários advocatícios), o recurso também não merece prosperar, diante da ausência de prequestionamento da matéria suscitada.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF, in verbis:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Ressalte-se que essa questão não foi sequer levantada nos aclaratórios opostos pela parte recorrente na instância ordinária.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao presente agravo interno.
+É como voto.
