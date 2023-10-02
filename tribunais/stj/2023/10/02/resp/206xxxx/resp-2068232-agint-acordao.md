@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. ADMINISTRATIVO. APOSENTADORIA DE SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. INCLUSÃO DO 13º DÉCIMO TERCEIRO, FÉRIAS E AUXÍLIO ALIMENTAÇÃO PAGO EM PECÚNIA E SAÚDE SUPLEMENTAR. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Na origem, a parte autora, em 9/3/2021, ajuizou ação ordinária com valor da causa atribuído em R$ 82.912,30 (oitenta e dois mil, novecentos e doze reais e trinta centavos), objetivando a condenação do réu a converter em pecúnia suas licenças-prêmio por assiduidade não gozadas referentes aos quinquênios de 20/3/1984 a 19/3/1989 e 20/3/1989 a 19/3/1994. Após sentença que julgou procedentes os pedidos, o Tribunal Regional Federal da 4ª Região negou provimento à apelação do ente público.
+II - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - A jurisprudência do STJ firmou-se no sentido de que o auxílio-alimentação pago em pecúnia, os valores de saúde suplementar, o abono de permanência, a gratificação natalina e o terço de férias, em razão de comporem a remuneração do servidor, integram a base de cálculo para conversão da licença-prêmio em pecúnia. (AgInt no AREsp n. 2.058.188/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023; AgInt no AgInt no AREsp n. 2.227.292/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt no REsp n. 2.029.722/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julga do em 27/3/2023, DJe de 31/3/2023; AgInt no AREsp n. 2.126.867/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+ADMINISTRATIVO. APOSENTADORIA DE SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO.
+1. O Superior Tribunal de Justiça firmou entendimento de que é possível, no momento da aposentação do agente público, a conversão em pecúnia de licenças-prêmio não gozadas, tendo em vista o princípio da vedação ao enriquecimento sem causa por parte da Administração.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida. Confira-se:
+ ..
+DA EXCLUSÃO DA BASE DE CÁLCULO DO AUXÍLIO-ALIMENTAÇÃO E SAÚDE SUPLEMENTAR
+Contudo, defende o INSS que deve ser excluído o auxílio-alimentação e saúde suplementar -não podem ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. ADMINISTRATIVO. APOSENTADORIA DE SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. INCLUSÃO DO 13º DÉCIMO TERCEIRO, FÉRIAS E AUXÍLIO ALIMENTAÇÃO PAGO EM PECÚNIA E SAÚDE SUPLEMENTAR. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO AINDA QUE POR OUTROS FUNDAMENTOS.
+I - Na origem, a parte autora, em 9/3/2021, ajuizou ação ordinária com valor da causa atribuído em R$ 82.912,30 (oitenta e dois mil, novecentos e doze reais e trinta centavos), objetivando a condenação do réu a converter em pecúnia suas licenças-prêmio por assiduidade não gozadas referentes aos quinquênios de 20/3/1984 a 19/3/1989 e 20/3/1989 a 19/3/1994. Após sentença que julgou procedentes os pedidos, o Tribunal Regional Federal da 4ª Região negou provimento à apelação do ente público.
+II - Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - A jurisprudência do STJ firmou-se no sentido de que o auxílio-alimentação pago em pecúnia, os valores de saúde suplementar, o abono de permanência, a gratificação natalina e o terço de férias, em razão de comporem a remuneração do servidor, integram a base de cálculo para conversão da licença-prêmio em pecúnia. (AgInt no AREsp n. 2.058.188/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023; AgInt no AgInt no AREsp n. 2.227.292/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt no REsp n. 2.029.722/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julga do em 27/3/2023, DJe de 31/3/2023; AgInt no AREsp n. 2.126.867/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+IV - Agravo interno improvido.
+VOTO
+A decisão agravada merece ser mantida.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a base de cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente e pagas em pecúnia, inclusive, auxílio alimentação, valores pagos a título de saúde suplementar, 13º salário e abono de permanência.
+Nesse sentido:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. BASE DE CÁLCULO. REMUNERAÇÃO DO SERVIDOR. ADICIONAL DE INSALUBRIDADE. VANTAGEM NÃO PERMANENTE. EXCLUSÃO. AGRAVO INTERNO PROVIDO EM PARTE.
+1. Quanto ao pagamento de licença-prêmio não usufruída, a jurisprudência deste Superior Tribunal é firme no sentido de que as rubricas que compõem a remuneração do servidor deverão ser incluídas na base de cálculo da conversão do benefício em pecúnia, dentre elas, o 13º salário, o 1/3 constitucional de férias, o auxílio-alimentação, a gratificação natalina e o abono de permanência.
+2. O aresto recorrido afastou-se de entendimento consolidado nesta Corte, segundo o qual o adicional de insalubridade, tratando-se de vantagem pecuniária não permanente, não integra a remuneração do servidor, devendo ser excluído da base de cálculo da conversão da licença-prêmio em pecúnia.
+3. Agravo interno provido em parte.
+(AgInt no AREsp n. 2.058.188/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. INCLUSÃO DE AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO. POSSIBILIDADE.
+1. A jurisprudência do STJ entende que o auxílio-alimentação, quando pago em dinheiro, tem natureza remuneratória e constitui, assim, a base de cálculo da conversão da licença-prêmio em pecúnia.
+2. Agravo Interno não provido.
+(AgInt no AgInt no AREsp n. 2.227.292/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. LICENÇA-PRÊMIO. PRESCRIÇÃO. CONVERSÃO EM PECÚNIA. INCLUSÃO DO AUXÍLIO-ALIMENTAÇÃO NA BASE DE CÁLCULO. POSSIBILIDADE. PRECEDENTES.
+1. O posicionamento da Corte a quo diverge da orientação jurisprudencial do Superior Tribunal de Justiça no sentido de que (. ..) as rubricas que compõem a remuneração do Servidor deverão ser incluídas na base de cálculo da conversão da licença-prêmio em pecúnia, dentre elas o auxílio-alimentação, o abono de permanência e a saúde suplementar" (AgInt no AREsp 475.822/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 06/12/2018, DJe 19/12/2018).
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.029.722/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA PRÊMIO. INDENIZAÇÃO. PROCEDÊNCIA DO PEDIDO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA N. 83/STJ.
+I - Na origem. trata-se de ação ajuizada contra a União objetivando o autor indenização pelas licenças-prêmios não gozadas.
+II - Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, apenas para fixar os honorários advocatícios em 10% sobre o valor da condenação. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - A jurisprudência d o Superior Tribunal de Justiça é firme no sentido de que, se o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+IV - A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos: "Não merece provimento o apelo. É entendimento assente neste Tribunal que o cálculo da licença-prêmio convertida em pecúnia deve se dar com base em todas as verbas de natureza permanente, em quantia correspondente à da última remuneração do servidor quando em atividade, inclusive abono permanência, décimo terceiro salário proporcional, terço constitucional de férias e saúde suplementar, se for o caso.  .. " Nesse sentido, destacam-se: (AgInt no AREsp 475.822/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 6/12/2018, DJe 19/12/2018, AgRg no REsp. 1.530.494/SC, relator Ministro Sérgio Kukina, DJe 29/3/2016 e AgInt no REsp. 1.591.606/RS, relator Ministro Benedito Gonçalves, DJe 7/12/2016.) V - Agravo interno improvido.
+(AgInt no AREsp n. 2.126.867/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
