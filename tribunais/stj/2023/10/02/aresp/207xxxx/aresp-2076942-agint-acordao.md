@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DISPOSITIVO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. Não há violação do art. 1.022, I e II, do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. É "inviável a apreciação de violação de dispositivos e princípios constitucionais, ainda que a título de prequestionamento, uma vez que não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribun al Federal, nos termos do art. 102, III, da Carta Magna" (AgInt no AREsp 2.047.788/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/08/2022, DJe de 22/08/2022).
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO CLÁSSICO S.A. contra decisão em que não conheci do recurso especial, porquanto não houve omissão do acórdão recorrido e por ser inviável a apreciação de dispositivos constitucionais em recurso especial.
+A parte agravante sustenta que o acórdão recorrido incorreu em violação do art. 1.022, I e II, do CPC/2015, ao argumento de que teria ficado silente quanto à prescrição intercorrente no processo administrativo sob o viés constitucional.
+Aduz estar sendo impedido de levar a discussão da matéria ao Supremo Tribunal Federal, em razão de o decisum agravado ter entendido ter ocorrido fundamentação suficiente pelo Tribunal de origem.
+Alega que "a prescrição tem como objetivo dar efetividade aos princípios constitucionais da eficiência, da segurança jurídica e da duração razoável do processo, insculpidos no art. 37 e no art. 5, incisos XXXV, XXXVI e LXXVIII da CF/88" (e-STJ fl. 701) e que, por isso, o Tribunal a quo teria violado o princípio da duração razoável do processo.
+Sem impugnação (e-STJ fl. 717).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DISPOSITIVO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. Não há violação do art. 1.022, I e II, do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. É "inviável a apreciação de violação de dispositivos e princípios constitucionais, ainda que a título de prequestionamento, uma vez que não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribun al Federal, nos termos do art. 102, III, da Carta Magna" (AgInt no AREsp 2.047.788/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/08/2022, DJe de 22/08/2022).
+3. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+Impende ressaltar que o Tribunal Regional Federal da 2ª Região, no acórdão recorrido, negou provimento ao agravo de instrumento do BANCO CLÁSSICO S.A. , ao fundamento de que não ocorreu a prescrição intercorrente na esfera administrativa.
+Eis a ementa do acórdão (e-STJ fl. 430):
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃODE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE NA ESFERA ADMINISTRATIVA. INOCORRÊNCIA. FALTA PREVISÃO LEGAL. PRECEDENTE STJ - RESP 1.113.959/RJ - RECURSO REPETITIVO. AGRAVO DE INSTRUMENTO DESPROVIDO.
+1. A questão cinge-se na análise prescrição do crédito tributário em razão da demora no julgamento, pelo CARF, do Recurso Administrativo interposto pelo contribuinte, ora agravante. No caso, o recorrente afirma que o Recurso Voluntário foi interposto em agosto de 2012 e só foi julgado em 30/08/2017.
+2. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.113.959/RJ, firmou o entendimento de que "o recurso administrativo suspende a exigibilidade do crédito tributário, enquanto perdurar o contencioso administrativo, nos termos do art. 151, III do CTN, desde o lançamento (efetuado concomitantemente com auto de infração), momento em que não se cogita do prazo decadencial, até seu julgamento ou a revisão ex officio, sendo certo que somente a partir da notificação do resultado do recurso ou da sua revisão, tem início a contagem do prazo prescricional, afastando-se a incidência da prescrição intercorrente em sede de processo administrativo fiscal, pela ausência de previsão normativa específica". (REsp1.113.959/RJ, Rel. Ministro LUIZ FUX,PRIMEIRA TURMA, DJe de11/03/2010).
+3. Uma vez lavrado o auto de infração, tem-se por interrompido o prazo decadencial (CTN, art. 173), sendo que a apresentação de impugnação ou recurso suspende o prazo prescricional até o julgamento final do processo administrativo (CTN, art. 151, III).
+4. Consoante pacífica orientação doutrinária e jurisprudencial, não incide a prescrição intercorrente em sede de processo administrativo fiscal, à mingua de previsão legal.
+4. Agravo de instrumento desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 489/490).
+Cabe ressaltar, quanto à alegada ofensa ao art. 1.022, I e II, do CPC/2015, que não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CREDENCIAMENTO JUNTO AO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO (MAPA). EXIGÊNCIA DE CERTIDÃO NEGATIVA DE DÉBITO. ARTS. 489, § 1º, E 1022 DO CPC/2015. OMISSÃO NÃO CARACTERIZADA. INCABÍVEL A ALEGAÇÃO DE OFENSA À SÚMULA. SÚMULA 518/STJ. PRINCÍPIO DA LEGALIDADE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM AMPARADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ. CONTROVÉRSIA QUE DEMANDA A INTERPRETAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.
+1. Verifica-se não ter ocorrido ofensa aos arts. 10, 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.646.468/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCESSIONÁRIO DE SERVIÇO PÚBLICO. RODOVIA FEDERAL. FAIXA DE DOMÍNIO. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. UTILIZAÇÃO. INSTALAÇÃO DE POSTES E FIOS. REMUNERAÇÃO EXIGIBILIDADE. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. PRESCRIÇÃO QUINQUENAL. COBRANÇA PREVISTA NO CONTRATO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação dos arts. 489 e 1.022, ambos do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - Da alegada violação dos arts. 489, §1º, IV e V, e 1.022, I e II, do CPC/2015, sem razão os recorrentes, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide, mormente aquelas indicadas como omitidas (fls. 893-902) não obstante tenha decidido contrariamente às suas pretensões.
+V - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso. Tem-se, ainda, que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp n. 1.046.644/MS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017 e AgInt no REsp n. 1.625.513/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017).
+ ..
+XI - Agravo interno improvido.
+(AgInt no AREsp 1.604.913/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022).
+Da análise do julgado recorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Conforme exposto na decisão agravada, a conclusão do acórdão a quo é de que "não há que se cogitar em ocorrência de prescrição intercorrente pela demora no julgamento final do recurso administrativo, por falta de previsão legal para tanto" (e-STJ fl. 433). Assim, ainda que o resultado tenha sido desfavorável ao litigante, não houve omissão acerca da questão.
+Acrescenta-se ser "inviável a apreciação de violação de dispositivos e princípios constitucionais, ainda que a título de prequestionamento, uma vez que não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Carta Magna" (AgInt no AREsp 2.047.788/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/08/2022, DJe de 22/08/2022).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considera r manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É com o voto.
