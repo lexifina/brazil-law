@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF.
+1.1. O Tribunal de origem, com base nas provas carreadas aos autos, concluiu estarem presentes os requisitos autorizadores da antecipação de tutela. Alterar tal conclusão, proferida em juízo provisório, demandaria o reexame de fatos e provas, providência vedada em sede de recurso especial. Incidência das Súmulas 735/STF e 7/STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO MARCO BUZZI: Trata-se de agravo interno, interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão monocrática desta Relatoria (fls. 207-210, e-STJ), que conheceu do agravo em recurso especial para não conhecer do reclamo da ora insurgente.
+O apelo extremo, interposto com fundamento no artigo 105, inciso III, alínea "a" da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 61, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PEDIDO DE TUTELA DE URGÊNCIA DEFERIDO PELO JUÍZO A QUO. OPERADORA DE PLANO DE SAÚDE QUE DEVE FORNECER O MEDICAMENTO INDICADO AO TRATAMENTO DO AUTOR, QUE SOFRE DE ENCEFALOPATIA EPILÉPTICA ASSOCIADA A SÍNDROME DE DOOSE, NO PRAZO DE 72 (SETENTA E DUAS) HORAS, SOB PENA DE MULTA DIÁRIA NO VALOR DE R$ 1.000,00 (MIL REAIS) LIMITADA A R$ 50.000,00 (CINQUENTA MIL REAIS). RELATÓRIO MÉDICO ATESTANDO A NECESSIDADE DO TRATAMENTO REQUERIDO. PRODUTO DERIVADO DE CANNABIS. IMPORTAÇÃO AUTORIZADA PELA ANVISA. AFASTADA A VIOLAÇÃO AO TEMA 990 DO STJ E A PRÁTICA DA CONDUTA TIPIFICADA NO ART. 273, §1º-B, I, DO CÓDIGO PENAL. PRESENÇA DOS REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA (ART. 300 DO CPC). VALOR DA MULTA QUE NÃO MERECE REPARO. PRAZO PARA CUMPRIMENTO DA OBRIGAÇÃO QUE SE AMPLIA PARA 30 (TRINTA) DIAS, ANTE A NECESSIDADE DE IMPORTAÇÃO DO FÁRMACO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos declaratórios (fls. 94-105, e-STJ), restaram desacolhidos na origem (fls. 129-134, e-STJ).
+Nas razões do recurso especial (fls. 148-162, e-STJ), a insurgente alegou que o acórdão recorrido violou os artigos 300, 927, III e 1.039 do CPC, 10, V, da Lei 9.656/98, 12 e 66 da Lei 6.360/76 e 10, V, da Lei 6.437/76, aduzindo ser legítima a recusa da operadora de plano de saúde a custear à parte autora medicamento importado e não registrado na ANVISA e que não se encontram presentes os requisitos para deferimento da antecipação de tutela pleiteada pela recorrida.
+Contrarrazões não apresentadas.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 176-178, e-STJ), dando ensejo a interposição do agravo (fls. 186-191, e- STJ).
+Sem contraminuta.
+Em decisão monocrática (fls. 207-210, e-STJ), esta Relatoria conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 7/STJ e 735/STF.
+Daí o presente agravo interno (fls. 215-225, e-STJ), no qual a agravante aduz não ser caso de reexame de provas dos autos e sustenta ser inaplicável o óbice da Súmula 735/STF, pois o que visa é a correta aplicação da lei ao caso. Ademais, alega a ausência de probabilidade de direito da recorrida, de forma que injustificável, a manutenção da tutela antecipada deferida em seu favor.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF.
+1.1. O Tribunal de origem, com base nas provas carreadas aos autos, concluiu estarem presentes os requisitos autorizadores da antecipação de tutela. Alterar tal conclusão, proferida em juízo provisório, demandaria o reexame de fatos e provas, providência vedada em sede de recurso especial. Incidência das Súmulas 735/STF e 7/STJ.
+2. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO MARCO BUZZI (RELATOR): O agravo interno não merece acolhida, porquanto os argumentos apresentados pela parte agravante são incapazes de infirmar os fundamentos da decisão agravada, que merece ser mantida.
+1. O recurso especial é inadmissível por impugnar decisão de cunho provisório.
+Segundo consta, o Tribunal a quo verificou estarem presentes os requisitos autorizadores da medida, sob os seguintes fundamentos (fls. 67-70, e-STJ):
+"É consabido que a tutela provisória de urgência se pauta na necessidade de a prestação da tutela jurisdicional evitar um prejuízo à parte.
+Da simples leitura do art. 300 do CPC, nota-se que existem dois requisitos autorizadores para a concessão desse tipo de tutela, quais sejam: a) elementos que evidenciem a probabilidade do direito; e b) o perigo de dano ou o risco ao resultado útil do processo.
+In casu, em linha de cognição sumária, a probabilidade do direito resta consubstanciada no delicado quadro clínico da parte Autora, ora Agravada, conforme laudo médico acostado aos autos originais.
+Ademais, é forçoso reconhecer que a situação narrada reclama providência urgente, sob pena de se pôr em risco a própria saúde ou mesmo a vida do Recorrido, tendo em conta as consequências que podem advir da falta de ministração do medicamento postulado. Configurado, portanto, o periculum in mora.
+Às operadoras de planos de saúde é facultada a eleição de doenças que são excluídas da cobertura, contudo revela-se abusiva a cláusula restritiva de direito que afasta o custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico.
+(..)
+Ressalte-se que a autorização para importação do medicamento restou comprovada (IE 28 do feito originário), não havendo que se falar em risco sanitário, de maneira a afastar a aduzida violação ao Tema 990 do STJ e a prática da conduta tipificada no art. art. 273, §1º-B, inciso I, do Código Penal.
+(..)
+Além disso, inexiste o perigo de irreversibilidade da medida, vez que, no caso de eventual improcedência do pedido, a Ré poderá cobrar do Autor os valores despendidos com o tratamento. Portanto, uma vez caracterizados os requisitos autorizadores, há de ser mantida a tutela de urgência concedida".
+Como visto, a Corte de origem considerou estarem presentes os requisitos para manutenção da medida de antecipação da tutela, concluindo pela presença de verossimilhança do direito invocado pela demandante a partir da análise das provas coligidas aos autos.
+A revisão de tais questões, para concluir pela ausência dos requisitos autorizadores da antecipação de tutela, exigiria a incursão em matéria probatória, vedada nesta instância, por óbice da Súmula 7/STJ.
+Igualmente, a jurisprudência é uníssona em considerar descabido, via de regra, o apelo nobre que verse sobre reexame do deferimento ou indeferimento de medidas acautelatórias ou antecipatórias, proferidas em sede liminar. Aplica-se, por analogia, o óbice da Súmula 735/STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Trata-se, na espécie, de provimentos judiciais de natureza precária, cuja reversão, a qualquer tempo, é possível, e que demandam posterior ratificação por decisão de cunho definitivo, proferida após cognição exauriente dos elementos de prova. Não constituem, portanto, causas decididas em última ou única instância por Tribunais Estaduais ou Regionais Federais, nos termos do art. 105, III, da Constituição da República, razão pela qual não são sindicáveis por recurso especial.
+Colhem-se, a título exemplificativo, os seguintes precedentes: AgInt no AREsp 1248498/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/06/2018, DJe 29/06/2018; AgInt no AREsp 1186207/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/06/2018, DJe 11/06/2018; REsp 1722672/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2018, DJe 25/05/2018; AgRg no AREsp 744.749/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017; AgInt no AgInt no AREsp 976.909/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/02/2017, DJe 14/03/2017; AgInt no AREsp 979.512/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017; AgInt no AREsp 886.909/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
