@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO INTEIRAMENTE DEDICADO A TEMA CUJA ADMISSIBILIDADE FOI INDEFERIDA COM BASE NOS ARTS. 1.030, I, E 1.040, I, DO CPC/2015. AUSÊNCIA DE QUESTÃO REMANESCENTE A SER APRECIADA PELO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Havendo indeferimento ao trâmite do recurso especial com fundamento nos arts. 1.030, I, e 1.040, I, do CPC/2015, e estando a insurgência plenamente dedicada ao tema abrangido pela questão versada em repercussão geral ou em temática repetitiva, nada mais resta em cognição ao Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 2.369):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO REFUTADO PELA CORTE REGIONAL. TRÂMITE DO RESP INDEFERIDO COM BASE NO TEMA 1.011/STF. REMESSA AO STJ QUANTO A QUESTÕES REMANESCENTES. RECURSO ESPECIAL INTEIRAMENTE DEDICADO AO TEMA ABRANGIDO PELA SOLUÇÃO DA CORTE SUPREMA EM REPERCUSSÃO GERAL. AUSÊNCIA DE QUESTÃO REMANESCENTE.
+O agravante alega que "o presente recurso trata da questão de competência e não acerca de matéria relativa ao mérito. Assim, ainda que o processo tenha sido julgado na Justiça Federal, todos os atos decisórios proferidos serão nulos, na hipótese de modificação da decisão e reconhecimento da incompetência, devolvendo-se os autos a juiz competente, ou seja, o Estadual" (fl. 2.377). Aduz que até mesmo a existência de sentença não é causa de perda do objeto do agravo de Instrumento, e por isso deve ser assegurado ao agravante que os autos de agravo de instrumento sejam julgados antes da apelação.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO INTEIRAMENTE DEDICADO A TEMA CUJA ADMISSIBILIDADE FOI INDEFERIDA COM BASE NOS ARTS. 1.030, I, E 1.040, I, DO CPC/2015. AUSÊNCIA DE QUESTÃO REMANESCENTE A SER APRECIADA PELO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Havendo indeferimento ao trâmite do recurso especial com fundamento nos arts. 1.030, I, e 1.040, I, do CPC/2015, e estando a insurgência plenamente dedicada ao tema abrangido pela questão versada em repercussão geral ou em temática repetitiva, nada mais resta em cognição ao Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o recurso especial, após análise do caso em juízo de retratação, apontou que havia outros temas a serem apreciados no caso concreto (fl. 2.349):
+Verifica-se, entretanto, que o recurso especial abrange outras matérias distintas daquela analisada pelo STF no Tema acima referido, razão porque ratifico o juízo de admissibilidade anterior (grifo nosso).
+Contudo, consoante anotou a decisão ora agravada, analisando-se a argumentação e o pedido constantes do recurso especial, verifica-se que a insurgência de fls. 1.911/1.932 está completamente dedicada ao tema do interesse da Caixa Econômica Federal para tomar parte na demanda, dada a existência - ou não - de comprometimento do FCVS, o que implica, nesse debate, em critério de fixação de competência. Na ótica da parte recorrente, a ação deveria ser processada na Justiça Estadual.
+Não há, portanto, outras matérias distintas, ao contrário do que se verifica do juízo de admissibilidade. Não há questão remanescente alguma a ser apreciada no recurso especial.
+Só há a temática da competência para o processamento da demanda.
+No entanto, conforme salientado na decisão contra a qual ora se recorre, deve-se levar em consideração que, de acordo com o que ficou decidido no acórdão regional, e segundo o que consta da pretensão recursal, o caso está totalmente abrangido pela solução oriunda da Corte Suprema no Tema. 1.011/STF.
+Cabe registrar que o recurso não foi admitido por aplicação dos artigos 1.030, I, e 1.040, I, do CPC/2015.
+Esse cenário processual conduz à conclusão de que nada mais há a ser apreciado no Superior Tribunal de Justiça, pois não há questão remanescente a ser verificada e o recurso especial, no ponto central, teve seu processamento não admitido por incidência dos artigos 1.030, I, e 1.040, I, do CPC/2015. Confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. APLICAÇÃO AO CASO CONCRETO DE ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. TRIBUNAL DE ORIGEM. IDÊNTICA QUESTÃO JURÍDICA. ANÁLISE PREJUDICADA. IPTU. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE IMUNIDADE RECÍPROCA. IMÓVEL. AFETAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. ENTENDIMENTO DO ACÓRDÃO RECORRIDO. DESCONSTITUIÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. A Corte a quo decidiu a controvérsia acerca da alegada prescrição com base no entendimento proferido em recurso especial julgado pelo rito dos recursos repetitivos, a saber, REsp 1.340.553/RS - Tema 566, concluindo pela adequação do acórdão recorrido a esse precedente, de modo que resta prejudicada a apreciação do apelo nobre no ponto.
+2. Nesse panorama, já tendo sido realizado o juízo de adequação pelo Tribunal a quo referente à prescrição, nos termos dos arts. 1.030 e 1.040 do CPC, fica prejudicada a análise da matéria do presente recurso especial, inclusive no tocante à alegada afronta ao art. 1.022 do CPC, tendo em vista ser coincidente com aquela discutida no repetitivo. Precedente: Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, Corte Especial, DJe de 12/5/2011.
+(..).
+7. Agravo interno não provido (AgInt no AREsp n. 2.062.366/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/9/2022, DJe de 29/9/2022, grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. JULGAMENTO EXTRA PETITIA. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. EFEITO TRANSLATIVO. PRECLUSÃO. NÃO OCORRÊNCIA. COISA JULGADA. TESE RECURSAL CUJO SEGUIMENTO FOI NEGADO. ARTS. 1.030, I, "B", e 1.040, I, DO CPC/2015. AGRAVO NÃO PROVIDO.
+1. Não procede a tese de violação dos arts. 489 e 1.022 do CPC/2015, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo as questões suscitadas pela recorrente.
+2. Com relação ao alegado julgamento extra petita, por se tratar de matéria de ordem pública e diante do efeito translativo do agravo de instrumento, a parte se sujeitou à modificação dos juros de mora além do período objeto do recurso.
+3. Conforme jurisprudência pacífica desta Corte, " ..  não se cogita da ocorrência de reformatio in pejus quando a alteração da sentença, em sede de remessa necessária ou recurso voluntário, se dá em razão de matéria de ordem pública" (AgRg no REsp 1.261.397/MA, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, julgado em 20/9/2012, DJe 3/10/2012).
+4. Quanto à suposta preclusão, esta não se verifica na hipótese, haja vista que a questão do índice legal de juros é matéria de ordem pública que não havia sido objeto de análise nos embargos à execução, podendo ser, portanto, conhecido até mesmo de ofício pelo órgão julgador.
+5. A tese recursal relativa à coisa julgada teve o seguimento negado pelo Tribunal de origem, nos termos dos arts. 1.030, I, "b", e 1.040, I, do CPC/2015, razão pela qual ela não foi devolvida ao conhecimento desta Corte.
+6. Agravo interno a que se nega provimento (AgInt nos EDcl no REsp n. 1.498.441/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/10/2021, DJe de 18/10/2021, grifo nosso)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
