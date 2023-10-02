@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por MARLON PEREIRA DA SILVA contra decisão proferida às e-STJ fls. 809/8015, em que conheci do agravo para conhecer em parte do recurso especial e negar-lhe provimento, ante a incidência da Súmula 7 do STJ e ausência de omissão e erro material no acórdão recorrido.
+A parte agravante sustenta, em síntese, que o argumento não enfrentado pelo Tribunal de origem é capaz de infirmar a conclusão do acórdão, que a decisão se baseou em alegação não aduzida pelo autor e que prescinde do reexame de prova a conclusão de violação do devido processo legal, uma vez que a irrecorribilidade decorre da regra do edital transcrita no acórdão recorrido.
+Sem impugnação (e-STJ fl. 837).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. A análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+O presente agravo não merece prosperar.
+Em relação à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. RESPONSABILIDADE CIVIL. DANO MORAL. AÇÃO EXTINTA, SEM APRECIAÇÃO DO MÉRITO. ART. 1022 DO CPC. OMISSÃO NÃO CONFIGURADA. ART. 337 DO CPC. COISA JULGADA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de Rodovias Integradas do Oeste S.A., na qual o autor pretende obter indenização pelos danos morais e estéticos decorrentes de acidente em rodovia concedida à parte ré, o qual fora causado pela presença de animal no leito trafegável.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. O Tribunal a quo, com base em premissas fáticas, concluiu que a presente ação está fulminada pela eficácia preclusiva da coisa julgada que se formou em demanda anteriormente proposta pelo autor, em razão dos mesmos fatos. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se há ou não identidade entre as ações, exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.924.900/SP, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe de 19/4/2022) (Grifos acrescidos).
+No caso dos autos, o recorrente afirma que o Tribunal regional nada disse sobre a substância dos atos praticados de acordo com o edital, bem como sobre a impossibilidade de acesso do recorrente aos motivos da declaração de inaptidão antes do fim do prazo recursal. Aduz também erro material que mudou a causa de pedir, pois o acórdão se formou a partir de alegação que o recorrente não fez.
+Mostra-se pertinente transcrever trecho do acórdão recorrido (e-STJ fls. 407/409):
+Conforme entendimento pacificado na jurisprudência pátria, cabe à Administração, de acordo com seus critérios de conveniência e oportunidade, realizar concurso público para provimentos de cargos públicos, estabelecendo os critérios que devam ser observados para verificação da aptidão intelectual, física e psíquica dos interessados, de forma a selecionar os mais qualificados à vaga pretendida.
+Afigura-se, assim, que o Edital do concurso é o instrumento apto a dispor sobre as regras do certame, propiciando a todos os candidatos igualdade de condições no ingresso no serviço público. Desse modo, a Administração edita normas, preexistentes ao certame, às quais se submetem voluntariamente os concorrentes, assim como a Administração.
+No presente caso, o Autor participou do Concurso de Admissão às Turmas I e II/2016 do Curso de Formação de Soldados Fuzileiros Navais (edital às fls. 26/52) e foi considerado inapto na avaliação psicológica.
+Compulsando os autos verifico que o documento que rege o concurso em tela previa os critérios de aptidão psicológica necessárias ao Serviço Militar (item 3.4 - fl. 35). Transcrevo:
+ ..
+Outrossim, nada mais razoável a realização do exame psicológico para que a profissão tenha como critérios de inadmissão patologias que possam vir a comprometer futuramente a capacidade do candidato de exercer tais atividades.
+A aprovação em exame anterior, no ano de 2014, é insuficiente para garantir que o candidato seja considerado apto em momento posterior, cerca de dois anos depois. Do mesmo modo, eventuais registros constantes na caderneta do Autor não podem substituir a avaliação realizada por profissionais aptos para tanto.
+Também não prospera a alegação do Autor de que não foi observado o devido processo legal. Isso porque os critérios de avaliação do exame já constavam no Edital de abertura do concurso, conforme já transcrito. Além disso, foi assegurado o direito do candidato recorrer da decisão, conforme previsto no item 3.4.5 (fl. 35), sendo que a decisão e sua fundamentação foram acostadas à fl. 25. Transcrevo:
+"3.4.5 - O candidato eliminado no Exame Psicológico poderá solicitar uma Entrevista de Apresentação de Resultados e/ou interpor Recurso, mediante o preenchimento do modelo do Anexo G. Estas solicitações deverão ser encaminhadas via Sedex ao Posto de Recrutamento de Fuzileiros Navais, situado na Av. Brasil 10.590 - Penha - Rio de Janeiro/RJ - CEP: 21012-350 ou via Órgão Executor da Seleção, em até 3 (três) dias úteis, após a publicação do Resultado do Exame Psicológico.
+a) A avaliação dos recursos recebidos será efetuada por psicólogos que não participaram da avaliação dos testes;
+b) Será reavaliado o material do Exame Psicológico do candidato eliminado, não consistindo em reaplicação dos testes; e
+c) A Entrevista de Apresentação de Resultados será realizada na cidade do Rio de Janeiro, no CPesFN, e as despesas com transporte e hospedagem serão custeadas pelo candidato."
+Ademais, o Autor/Apelante não logrou êxito em comprovar sua alegação de que a avaliação do recurso teria sido efetuada pelos mesmos profissionais. Nesse ponto, ressalto a presunção de veracidade e legitimidade dos atos administrativos, cabendo ao particular produzir prova suficiente a ensejar sua relativização.
+Portanto, a eliminação do Autor está pautada no Edital do certame, que é a lei entre as partes. Indevida a intromissão do Poder Judiciário ao caso, pois a este cabe tão somente a verificação de questões em torno da legalidade, não podendo, em nenhuma hipótese, substituir-se à Administração Pública e proceder à mudança de critérios previamente estipulados para o certame, a qual tem a discricionariedade de escolher.
+Ademais, acolher a pretensão do Autor violaria o Princípio da Isonomia com que são tratados todos os candidatos que concorreram ao certame. Assim, é defeso a qualquer candidato vindicar direito alusivo à quebra das condutas lineares, universais e imparciais adotadas no certame. (Grifos acrescidos).
+Não há que falar, portanto, em negativa de prestação jurisdicional.
+Especificamente em relação ao erro material, a doutrina e a jurisprudência desta Corte Superior entendem que a sua ocorrência fica restrita às hipóteses de equívocos facilmente perceptíveis e que não correspondam de forma evidente à vontade do órgão prolator da decisão, não decorrendo, assim, de suposto "erro de julgamento" ou de "premissa fática equivocada".
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. HIPÓTESES DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. ERRO MATERIAL. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC/2015 ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. No caso, o aresto embargado, ao reconhecer a procedência da alegativa de afronta ao art. 535 do CPC/1973, examinou todos os pontos necessários à solução do litígio, inexistindo o suscitado erro material.
+3. Na linha da jurisprudência do STJ, erro material é aquele passível de ser reconhecido ex officio pelo magistrado, estando relacionado com a inexatidão perceptível à primeira vista e cuja correção não modifica o conteúdo decisório do julgado. O erro material, por seu turno, não pode ser confundido com o erro de julgamento, o qual apenas se corrige por meio da via recursal apropriada.
+4. Excetuados os casos envolvendo precedentes de cunho vinculante e não demonstrados pelo embargante os vícios de omissão, contradição e obscuridade, não se prestam os aclaratórios para a revisão de erro de julgamento.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.679.189/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 25/04/2018) (Grifos acrescidos).
+No mais, o Tribunal de origem afastou o alegado cerceamento de defesa ao entender que foi observado o devido processo legal, porque os critérios de avaliação do exame já constavam no edital de abertura do concurso, tendo sido assegurado o direito de o candidato recorrer da decisão. Assim, infirmar o entendimento alcançado pela Corte a quo demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via de recurso especial em face da Súmula 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. REINTEGRAÇÃO EM CONCURSO PÚBLICO. INABILITAÇÃO EM EXAME PSICOTÉCNICO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+I - Na origem, L. M. S. ajuizou ação ordinária, c/c indenização por danos morais e materiais contra a Fazenda do Estado de São Paulo, objetivando sua reintegração ao concurso de Formação de Soldados de 2a. Classe da Polícia Militar do Estado de São Paulo, regido pelo Edital n. DP-01/321/11, por ter sido considerado inabilitado no exame psicotécnico.
+II - Por sentença, foi julgado extinto o processo, sem resolução do mérito, quanto ao pedido de reintegração ao concurso, e improcedente o pedido de indenização por dano material e moral. Desta decisão foi apresentada apelação, cujo efeito suspensivo foi negado pelo Tribunal a quo. Não se conheceu do recurso especial.
+III - Não há violação do 489 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente, e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verif icado na hipótese.
+IV - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas que envolvem a matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial". Ressalte-se ainda que a incidência do enunciado n. 7, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos.
+V - Agravo interno improvido.
+(AgInt no AREsp 1.762.344/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 25/6/2021).
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. TÉCNICO PENITENCIÁRIO. TESTE DE APTIDÃO FÍSICA. REEXAME DE EDITAL E DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. Hipótese em que o Tribunal de origem concluiu, com base na prova dos autos, que não foi comprovada a alegação do candidato de ter sido determinada a interrupção do teste antes do tempo previsto no Edital para sua realização e que não foi verificada nenhuma irregularidade no presente caso a possibilitar a exclusão do ato que eliminou o candidato do concurso. A revisão desse entendimento implica reexame das regras do Edital e dos fatos e provas, obstado pelo teor das Súmulas 5 e 7 do STJ.
+2. A análise do dissídio jurisprudencial fica prejudicada, em razão da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+3. Recurso Especial não conhecido.
+(REsp 1.654.997/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/9/2017).
+Relativamente à divergência jurisprudencial suscitada, esta se mostra prejudicada, visto que a tese sustentada já foi afastada na ocasião do exame do recurso pela alínea "a" do permissivo constitucional.
+Nessa esteira é o entendimento desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANO AMBIENTAL. ALEGADA VIOLAÇÃO AOS ARTS. 489, § 1º, E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, NOS MOLDES LEGAIS E REGIMENTAIS. AGRAVO INTERNO IMPROVIDO.
+ ..
+V. Ademais, na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.146.384/SE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 12/12/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA QUE VERIFICOU A CONSONÂNCIA DO ACÓRDÃO DO TRIBUNAL A QUO COM A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O TEMA. ANÁLISE PREJUDICADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO, NA ESPÉCIE. AÇÃO ORIGINÁRIA. MANDADO DE SEGURANÇA.
+ ..
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+ ..
+(AgInt no REsp 1.648.828/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 16/11/2017).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
