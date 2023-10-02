@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  ARTIGO DE LEI FEDERAL. VIOLAÇÃO OU INTERPRETAÇÃO DIVERGENTE. INDICAÇÃO. AUSÊNCIA.  SÚMULA  Nº  284/STF.  PLANO DE SAÚDE. PRESTAÇÕES. REAJUSTE. ABUSIVIDADE.  REEXAME  .  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  SIMILITUDE  FÁTICA. AUSÊNCIA.
+1.  Incide  o  óbice  da  Súmula  nº  284/STF  quando  o  recorrente  não  indica  precisamente  os  dispositivos  de  lei  federal  que  foram  violados  pelo  tribunal  de  origem  ou  que  foram  objeto  do  dissídio  interpretativo.
+2.  No caso, as  conclusões  acerca  do  reajuste  desproporcional  das  parcelas  do  plano  de  saúde  decorreram  da  análise  de  cláusulas  contratuais  e  do  conjunto  fático-probatório  carreado  aos  autos, sendo inafastáveis  as  Súmulas  nºs  5  e  7/STJ.
+3.  Quando  o  dissídio  tem  por  objeto  a  mesma  matéria  aventada  pela  alínea  "a",  que  foi  obstaculizada  pela  Súmula  nº  7/STJ,  impõe-se  o  reconhecimento  de  inexistência  de  similitude  fática  entre  os  arestos  confrontados.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  GEAP  AUTOGESTÃO  EM  SAÚDE  contra  a  decisão  que  conheceu  do  seu  agravo  para  não  conhecer  do  recurso  especial  (fls.  703-708).
+Em  suas  razões,  a  agravante  insurge-se  contra  a  incidência  das  Súmulas  nº  284/STF e nºs  5  e  7/STJ.
+Aduz  que  "(..) as  razões  do  Recurso  não  esbarram  na  previsão  da  Súmula  284  do  STF,  pois  é  nítido  que  a  violação  restou  apontada  e  exaustivamente  discutida  nos  autos"  (fl.  714).
+Sustenta  que
+"(..) a  questão  de  fundo  do  recurso  especial  é  a  correta  interpretação  da  forma  de  custeio  da  Recorrente,  nos  termos  da  previsão  estabelecida  pela  Lei  9.656/98,  além  da  notória  Divergência  Jurisprudencial  demonstrada  no  recurso  em  contraponto  ao  aresto  recorrido,  sendo  despiciendo  o  reexame  das  provas  dos  autos  ou  novo  exame  de  cláusulas  contratuais"  (fl.  715).
+Não  houve  impugnação.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  ARTIGO DE LEI FEDERAL. VIOLAÇÃO OU INTERPRETAÇÃO DIVERGENTE. INDICAÇÃO. AUSÊNCIA.  SÚMULA  Nº  284/STF.  PLANO DE SAÚDE. PRESTAÇÕES. REAJUSTE. ABUSIVIDADE.  REEXAME  .  SÚMULA  Nº  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  SIMILITUDE  FÁTICA. AUSÊNCIA.
+1.  Incide  o  óbice  da  Súmula  nº  284/STF  quando  o  recorrente  não  indica  precisamente  os  dispositivos  de  lei  federal  que  foram  violados  pelo  tribunal  de  origem  ou  que  foram  objeto  do  dissídio  interpretativo.
+2.  No caso, as  conclusões  acerca  do  reajuste  desproporcional  das  parcelas  do  plano  de  saúde  decorreram  da  análise  de  cláusulas  contratuais  e  do  conjunto  fático-probatório  carreado  aos  autos, sendo inafastáveis  as  Súmulas  nºs  5  e  7/STJ.
+3.  Quando  o  dissídio  tem  por  objeto  a  mesma  matéria  aventada  pela  alínea  "a",  que  foi  obstaculizada  pela  Súmula  nº  7/STJ,  impõe-se  o  reconhecimento  de  inexistência  de  similitude  fática  entre  os  arestos  confrontados.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+De  início,  é  inafastável  a  aplicação  do  óbice  da  Súmula  nº  284/STF,  haja vista a  ausência  de  expressa  indicação  no  corpo  do  recurso  especial  dos  dispositivos  que  teriam  sido  violados  ou  interpretados  de  forma  divergente  pelo  tribunal  de  origem.
+Ressalta-se  que  a  citação  genérica  de  violação  da  lei  federal  sem  se  particularizar  quais  artigos  teriam  sido  ofendidos  implica  deficiência  de  fundamentação  do  apelo  nobre.
+Ademais,  portarias,  resoluções,  regimentos  internos,  circulares  e  estatutos  não  se  equiparam  a  leis  federais  para  fins  de  viabilizar  a  interposição  de  recurso  especial.
+Confiram-se:
+"PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  DISPOSITIVO  LEGAL  VIOLADO.  INDICAÇÃO.  INEXISTÊNCIA.  NORMA  INFRALEGAL.  EXAME.  INVIABILIDADE.
+1.  É  firme  a  jurisprudência  desta  Corte  Superior  no  sentido  de  que  a  falta  de  indicação  clara  e  precisa  do  dispositivo  de  lei  federal  alegadamente  violado  implica  deficiência  na  fundamentação  do  recurso  especial  (Súmula  284  do  STF).
+2.  Segundo  o  entendimento  do  STJ,  portarias,  circulares  e  resoluções  não  se  equiparam  a  leis  federais  para  fins  de  interposição  do  recurso  especial.
+3.  Agravo  interno  desprovido".
+(AgInt  no  AREsp  nº  2.069.868/RJ,  relator  MINISTRO  GURGEL  DE FARIA ,  Primeira  Turma,  julgado  em  26/9/2022,  DJe  de  3/10/2022).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  INDENIZAÇÃO.  ATRASO  NA  ENTREGA  DO  IMÓVEL  EM  CONSTRUÇÃO.  VIOLAÇÃO  AOS  ARTS.  104  E  394,  DO  CC.  SÚMULA  N.  284/STF.  ALEGADO  NÃO  CABIMENTO  DE  DANOS  MORAIS.  AUSÊNCIA  DE  INDICAÇÃO  DE  DISPOSITIVO  LEGAL.  APLICAÇÃO  DA  SÚMULA  N.  284/STF.  NÃO  INDICAÇÃO  DO  DISPOSITIVO  LEGAL  QUE  TENHA  SOFRIDO  INTERPRETAÇÃO  DIVERGENTE.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  N.  284/STF.  AGRAVO  INTERNO  NÃO  PROVIDO.
+ ..
+2.  Em  relação  ao  alegado  não  cabimento  de  danos  morais,  a  alegação  genérica  de  violação  à  lei  federal,  sem  indicar  de  forma  precisa  o  artigo,  parágrafo  ou  alínea,  da  legislação  tida  por  violada,  tampouco  em  que  medida  teria  o  acórdão  recorrido  vulnerado  a  lei  federal,  bem  como  em  que  consistiu  a  suposta  negativa  de  vigência  da  lei  e,  ainda,  qual  seria  sua  correta  interpretação,  ensejam  deficiência  de  fundamentação  no  recurso  especial,  inviabilizando  a  abertura  da  instância  excepcional.  Aplicação  da  Súmula  n.  284/STF.  Precedentes.
+3.  Ademais,  ainda  em  relação  ao  alegado  não  cabimento  de  danos  morais,  a  parte  recorrente  não  apontou  o  dispositivo  legal  cuja  interpretação  tenha  sido  divergente,  a  fim  de  viabilizar  o  conhecimento  da  insurgência  a  respeito  da  tese  de  mérito.  Dessa  forma,  constata-se  que  a  argumentação  apresentada  no  recurso  mostra-se  deficiente.  Incidência,  mais  uma  vez,  do  verbete  n.  284  da  Súmula  do  STF.
+4.  Agravo  interno  não  provido".
+(AgInt  no  AREsp  nº  1.988.182/RJ,  relator  MINISTRO  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  20/6/2022,  DJe  de  24/6/2022).
+"AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA  C/C  INDENIZAÇÃO  POR  DANOS  MORAIS.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  ALEGADA  VIOLAÇÃO  A  DECRETO.  IMPOSSIBILIDADE  DE  EXAME.  DANO  MORAL.  NÃO  OCORRÊNCIA.  REVISÃO.  SÚMULA  7/STJ.  VIOLAÇÃO  AO  ART.  304  DO  CC.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  AGRAVO  INTERNO  DESPROVIDO.
+ ..
+2.  Não  cabe,  no  âmbito  do  recurso  especial,  a  análise  de  eventual  ofensa  a  decreto  regulamentar,  resoluções,  portarias  ou  instruções  normativas,  por  não  se  enquadrarem  no  conceito  de  lei  federal,  nos  termos  do  art.  105,  III,  da  Constituição  Federal.
+ ..
+7.  Agravo  interno  desprovido".
+(AgInt  no  AgInt  no  AREsp  nº  2.106.824/RJ,  relator  MINISTRO  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  14/11/2022,  DJe  de  18/11/2022).
+Devem  ser  mantidos  também  os  óbices  das  Súmulas  nºs  5  e  7/STJ.
+A  Corte  local  manteve  o  entendimento  que  que  foram  abusivos  os  reajustes  praticados  pela  ora  agravante,  nos  seguintes  termos:
+"(..)
+Extrai-se  dos  autos  que  houve  o  aumento  de  187%  na  mensalidade  da  parte  autora  e,  assim,  apesar  de  ser  válido  o  reajuste  anual  do  plano  de  saúde,  o  aumento  realizado  no  caso  dos  presentes  autos  é  sobremaneira  elevado.  O  reajuste  em  valor  tão  expressivo  rompe  o  equilíbrio  contratual,  principio  este  elementar  nas  relações  de  consumo,  e  inviabiliza  a  continuidade  dos  contratos  a  segurados  nessa  faixa  etária.  Deve  ser  ressaltado,  ainda,  que  o  consumidor  tem  o  direito  de  prever  qual  será  a  amplitude  do  aumento  dos  preços  do  contrato  a  que  está  submetido,  que  deve  ser  equitativo  entre  os  contratantes.  Cumpre  observar,  ainda,  que  o  princípio  da  boa-fé  objetiva,  que  tem  por  escopo  preservar  as  legítimas  expectativas  dos  contratantes,  exige  das  partes  condutas  baseadas  na  honestidade  e  lealdade.  Assim,  considera-se  antijurídico  qualquer  conduta  que  gere  vantagem  injustificável  e  onerosidade  excessiva  para  uma  das  partes,  capaz  de  frustrar  a  satisfação  dos  interesses  legítimos.  Ademais,  como  já  dito  anteriormente,  o  ordenamento  jurídico  não  admite  a  discriminação  do  idoso  pelas  empresas  de  plano  de  saúde,  O  §3º  do  art.  15  do  Estatuto  do  Idoso,  expressamente  preconiza  que:  "3º-  é  vedada  a  discriminação  do  idoso  nos  planos  de  saúde  pela  cobrança  de  valores  diferenciados  em  razão  da  idade".  Importante  destacar  que  o  Estatuto  acima  mencionado  se  aplica  aos  contratos  firmados  antes  de  sua  entrada  em  vigor,  uma  vez  que  o  contrato  de  plano  de  saúde  é  de  trato  sucessivo  e  deve  a  cada  renovação  se  adequar  às  leis  vigentes.
+(..)
+No  caso  em  tela,  o  reajuste  e  os  percentuais  que  seriam  adotados  não  estão  previstos  no  contrato,  foram  aplicados  sem  prévia  autorização  da  ANS  em  faixa  etária  proibida  pela  legislação  (60  anos)  e  se  deu  em  quantia  muito  superior  ao  considerado  razoável.  Assim,  conclui-se  que  a  conduta  da  requerida  não  está  em  consonância  com  o  ordenamento  jurídico  e  se  mostra  abusiva  e  ilegal.  Deve  ela  recalcular  a  mensalidade  da  parte  autora  adotando  o  índice  previsto  pela  ANS  -  Agência  Nacional  de  Saúde  Suplementar.  Registra-se  que  está  sendo  vedado  não  o  aumento  do  preço,  até  porque  é  cediço  que  com  o  acréscimo  do  risco  do  negócio,  haverá  reflexos  no  valor  da  contraprestação  pecuniária.  Coibi-se  o  aumento  injustificado  e  desproporcional  das  parcelas  avençadas  e  contrário  ao  permitido  por  lei,  o  que  evidentemente  ocorreu  no  caso  em  tela"  (f.  322/324)"  (fls.  567-569  -  grifou-se).
+Assim,  o  revolvimento  dos  fundamentos  do  acórdão  recorrido  demandaria  nova  análise  de  cláusulas  contratuais  e  das  circunstâncias  fático-probatórias  dos  autos,  o  que  é  inviável  na  estreita  via  do  recurso  especial.
+Pela  alínea  "c"  do  permissivo  constitucional,  que  tem  como  objeto  a  mesma  questão  relativa  ao  reajuste  das  mensalidades  do  plano  de  saúde,  o  recurso  especial  também  não  merece  conhecimento  em  virtude  dos  óbices  acima  aplicados.
+Destaca-se  que  quando  o  dissídio  tem  por  objeto  a  mesma  matéria  aventada  pela  alínea  "a",  que  foi  obstaculizada  pela  Súmula  nº  7/STJ,  impõe-se  o  reconhecimento  de  inexistência  de  similitude  fática  entre  os  arestos  confrontados.
+Assim,  as  alegações  postas  no  presente  agravo  interno  não  prosperam  e  são  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto  , nego  provimento  ao  agravo interno.
+É  o  voto.
