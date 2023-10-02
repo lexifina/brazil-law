@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO QUALIFICADO E EXTORSÃO MEDIANTE SEQUESTRO. ALEGAÇÃO DE NULIDADE. AUSÊNCIA DE CITAÇÃO. PLEITO ABSOLUTÓRIO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVISÃO CRIMINAL AJUIZADA E PENDENTE DE JULGAMENTO. AGRAVO DESPROVIDO.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos Tribunais Superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Deveras, o agravante não se desincumbiu de demonstrar teratologia ou manifesta ilegalidade no ato impugnado que justificasse a atuação precoce desta Corte, contrariando as regras de competência e os princípios do devido processo legal substancial e do duplo grau de jurisdição.
+3. Como consta do próprio acórdão recorrido, o agravante já ingressou com pedido de revisão criminal perante o Tribunal de origem. A pacífica jurisprudência desta Corte não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus ou recursos ordinários manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por RAFAEL TOZZATO contra decisão de minha lavra, assim relatada:
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por RAFAEL TOZZATO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Consta dos autos que o recorrente foi condenado às penas de 23 anos e 4 meses de reclusão no regime fechado, como incurso nos arts. 157, § 2º, I e II, e 159 do Código Penal, havendo registro do trânsito em julgado da decisão.
+Na origem, foi impetrado o habeas corpus, mediante o qual pretende o reconhecimento da nulidade da condenação.
+O recorrente sustenta não ter ocorrido citação válida, porquanto estava preso no Estado de Minas Gerais, e defende descaber a presunção da ocorrência do ato, visto o seu caráter formal.
+Aponta a nulidade da audiência de instrução de julgamento, destacando que não foi interrogado ao seu final; não foi conduzido para a oitiva das testemunhas de acusação; e não teve acesso ao seu defensor.
+Requer, liminarmente, a suspensão da execução da pena até o julgamento do habeas corpus e a expedição de alvará de soltura. No mérito, pugna pelo provimento do recurso para que seja dado conhecimento ao mérito do habeas corpus impetrado na origem; por sua absolvição ou pela desclassificação da imputação para a conduta descrita no art. 157, § 20, I, II e V, do CP; e pelo recálculo da dosimetria das penas.
+Nas razões do agravo regimental, reitera os termos já trazidos na petição inicial do recurso.
+Assim, pugna pela reconsideração da decisão recorrida ou pela apreciação da matéria pelo colegiado da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO QUALIFICADO E EXTORSÃO MEDIANTE SEQUESTRO. ALEGAÇÃO DE NULIDADE. AUSÊNCIA DE CITAÇÃO. PLEITO ABSOLUTÓRIO. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REVISÃO CRIMINAL AJUIZADA E PENDENTE DE JULGAMENTO. AGRAVO DESPROVIDO.
+1. O conhecimento do habeas corpus, sem o pronunciamento definitivo do Tribunal a quo, traduz supressão de instância e, via de consequência, violação às regras constitucionais definidoras da competência dos Tribunais Superiores, estabelecidas numerus clausus na Constituição Federal.
+2. Deveras, o agravante não se desincumbiu de demonstrar teratologia ou manifesta ilegalidade no ato impugnado que justificasse a atuação precoce desta Corte, contrariando as regras de competência e os princípios do devido processo legal substancial e do duplo grau de jurisdição.
+3. Como consta do próprio acórdão recorrido, o agravante já ingressou com pedido de revisão criminal perante o Tribunal de origem. A pacífica jurisprudência desta Corte não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus ou recursos ordinários manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo não merece ser provido.
+Isto porque o agravante não trouxe elementos capazes de infirmar a decisão vergastada, que merece ser mantida na íntegra.
+Ora, como bem destacado na decisão recorrida, analisando o acórdão guerreado (e-STJ fls. 327/330), verifiquei que não houve manifestação do Tribunal de origem sobre as questões agitadas pela defesa.
+Desse modo, afirmei que fica impossibilitada a manifestação deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de ensejar verdadeira supressão de instância e violação aos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Mencionei que, ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que "revela- se inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4ª ed. rev. ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Assim, ante a falta de manifestação do colegiado estadual, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do recurso ordinário, já que inexiste ato a ser imputado à autoridade coatora, nos termos do art. 105, II, da Constituição Federal.
+Nesse sentido:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.
+ ..  (HC 278.542/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.
+5. Embargos de declaração rejeitados. (EDcl no HC 230.583/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014.)
+Por fim, ainda destaquei que, como consta do próprio acórdão recorrido, o agravante já ingressou com pedido de revisão criminal perante o Tribunal de origem.
+Ressaltei que a pacífica jurisprudência desta Corte não admite a tramitação concomitante de recursos legalmente previstos e habeas corpus ou recursos ordinários manejados contra o mesmo ato ou que questionem as mesmas matérias, sob pena de violação do princípio da unirrecorribilidade.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MANEJO CONCOMITANTE, CONTRA O ACÓRDÃO DO JULGAMENTO DA REVISÃO CRIMINAL, DA INICIAL DO PRESENTE FEITO E DE RECURSO ESPECIAL, A INDICAR A POSSIBILIDADE DE QUE A MATÉRIA ORA VENTILADA SEJA ANALISADA NA VIA DE IMPUGNAÇÃO INTERPOSTA NA CAUSA PRINCIPAL. PRETENSÕES DE MÉRITO COINCIDENTES. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE OU UNICIDADE. PREJUÍZO PELO NÃO CONHECIMENTO DO WRIT NÃO DEMONSTRADO. POSSIBILIDADE DE FORMULAÇÃO DE PEDIDO URGENTE AO ÓRGÃO JURISDICIONAL COMPETENTE, NA VIA DE IMPUGNAÇÃO ADEQUADA. RECURSO DESPROVIDO.
+1. "Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial  ..  (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020)" (STJ, AgRg no HC 590.414/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/05/2021, DJe 10/05/2021).
+2. No recurso especial interposto pelo Agravante também contra o acórdão impugnado na inicial destes autos, formulou-se pretensão de mérito idêntica à que ora se postula. Ocorre que, em razão da coincidência de pedidos, não se configura a conjuntura na qual seria admissível a tramitação simultânea de habeas corpus e de recurso, conforme o que fora definido em leading case da Terceira Seção do Superior Tribunal de Justiça (HC 482.549/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 11/03/2020, DJe 03/04/2020).
+3. As vias recursais - nelas incluídas o recurso especial (a via de impugnação cabível no caso) - não são incompatíveis com o manejo de pedidos que demandam apreciação urgente. O Código de Processo Civil, aliás, em seu art. 1.029, § 5.º, inciso III, prevê o remédio jurídico para a referida hipótese, ao possibilitar a atribuição de efeito suspensivo ao recurso, ainda na origem, por meio de decisão proferida pelo Presidente ou Vice-Presidente do Tribunal recorrido.
+Nesse caso, incumbe à Defesa formular pedido de tutela de urgência recursal que demonstre a plausibilidade jurídica da pretensão invocada e que a imediata produção dos efeitos do acórdão recorrido pode implicar risco de dano grave, de difícil ou impossível reparação (art. 995, parágrafo único, do Código de Processo Civil). Precedente.
+4. Ao menos por ora, deve tramitar tão somente a via de impugnação manejada na causa principal, a qual ainda não tem solução definitiva (valendo destacar que as alegações ora formuladas poderão, eventualmente, ser apreciadas pelo Superior Tribunal de Justiça no julgamento do recurso especial). Diante desse cenário fático-processual, em que na via de impugnação adequada ainda é possível a análise da pretensão recursal, ou até mesmo a concessão de ordem de habeas corpus ex officio, "qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado  pelo  impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus" (STJ, AgRg no HC 733.563/RS, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 10/05/2022, DJe 16/05/2022).
+5. Recurso desprovido.
+(AgRg no HC n. 788.403/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2023, DJe de 14/2/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS JULGADO PREJUDICADO. PRETENSÃO DE REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL DEDUZIDA CONCOMITANTEMENTE NO WRIT E EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. QUESTÃO ANALISADA NO MEIO PRÓPRIO. PERDA DO OBJETO. PRECEDENTES.
+1. O presente habeas corpus, impetrado em benefício de Alberto Pereira - no qual se busca a reforma da dosimetria das penas impostas na sentença penal que condenou o paciente por tráfico de drogas e associação ao narcotráfico nos autos nº 033.03.006441-7 da 1ª Vara Criminal da Comarca de Itajaí-SC, ao final, fixando-as definitivamente e em concurso material ao máximo previsível de 7 (sete) anos e 7 (sete) meses de reclusão, em razão da interposição de agravo em recurso especial perante esta Corte - perdeu seu objeto, eis que o AREsp n. 1.706.557/SC foi julgado em 8/9/2020, com trânsito em julgado em 13/10/2020.
+2. Em ambas as insurgências, o agravante postula a redução das penas-base ao mínimo legal.
+3.  ..  dizem os precedentes do Superior Tribunal de Justiça que, havendo a interposição de recurso e impetração de habeas corpus com objetos idênticos, o julgamento do recurso pela Turma deste Tribunal prejudica o exame da impetração, haja vista a reiteração de pedidos (AgRg no HC n. 492.527/SP, de minha relatoria, Sexta Turma, DJe 20/11/2020).
+4. Ao impetrar habeas corpus após a interposição de recurso especial, cujo fundamento abrange o constante no writ, a defesa pretende a obtenção da mesma prestação jurisdicional nas duas vias de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais (AgRg no HC n. 560.166/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/3/2020).
+5. Em atenção ao princípio da unirrecorribilidade das decisões, não é possível a impetração de habeas corpus para tratar de máculas já suscitadas em recurso especial. Precedentes (AgRg no HC n. 573.510/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/8/2020).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 590.414/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/5/2021, DJe de 10/5/2021.)
+Ante todo o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
