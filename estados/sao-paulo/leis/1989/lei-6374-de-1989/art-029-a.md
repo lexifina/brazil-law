@@ -1,0 +1,1 @@
+Artigo 29-A - Tratando-se de fumo e seus sucedâneos manufaturados, a retenção antecipada do imposto se aplica, também, quando o sujeito passivo por substituição tributária auferir, ainda que sob outro título, valores decorrentes de reajuste de preço. (NR)

@@ -1,0 +1,4 @@
+Artigo 66-H - O complemento do imposto retido antecipadamente deverá ser pago pelo contribuinte substituído, observada a sua regulamentação pelo Poder Executivo, quando: (NR)
+I - o valor da operação ou prestação final com a mercadoria ou serviço for maior que a base de cálculo da retenção; (NR)
+II - da superveniente majoração da carga tributária incidente sobre a operação ou prestação final com a mercadoria ou serviço. (NR)
+Parágrafo único - Fica o Poder Executivo autorizado a instituir regime optativo de tributação da substituição tributária, para segmentos varejistas, com dispensa de pagamento do valor correspondente à complementação do imposto retido antecipadamente, nas hipóteses em que o preço praticado na operação a consumidor final for superior à base de cálculo utilizada para o cálculo do débito de responsabilidade por substituição tributária, compensando-se com a restituição do imposto assegurada ao contribuinte. (NR)

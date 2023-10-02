@@ -1,0 +1,1 @@
+Artigo 84-A - A autoridade fiscal pode desconsiderar atos ou negócios jurídicos praticados com a finalidade de dissimular a ocorrência do fato gerador do tributo ou a natureza dos elementos constitutivos da obrigação tributária. (NR)

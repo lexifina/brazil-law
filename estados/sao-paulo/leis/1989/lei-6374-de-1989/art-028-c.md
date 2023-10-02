@@ -1,0 +1,7 @@
+Artigo 28-C - Para fins de estabelecimento do percentual de margem de valor agregado a que se refere o artigo 28-A, o levantamento de preços previsto no artigo 28-B deverá apurar também: (NR)
+I - o preço de venda à vista no estabelecimento fabricante ou importador, incluindo o IPI, frete, seguro e demais despesas cobradas do destinatário, excluído o valor do ICMS relativo à substituição tributária; (NR)
+II - o preço à vista no estabelecimento atacadista, incluindo o frete, seguro e demais despesas cobradas do destinatário, excluindo o valor do ICMS relativo à substituição tributária. (NR)
+§ 1° - O percentual de margem de valor agregado será fixado com base nos preços obtidos pelo levantamento, estabelecendo-se a relação percentual entre os valores apurados relativamente: (NR)
+1 - ao item 1 do § 1° do artigo 28-B e o inciso I; (NR)
+2 - ao item 1 do § 1° do artigo 28-B e o inciso II. (NR)
+§ 2° - Poderão ser adotados percentuais de margem de valor agregado ou preço final a consumidor fixados com observância do disposto em lei complementar relativa à matéria, em acordo celebrado pelo Estado de São Paulo com outras unidades da Federação. (NR)

@@ -1,0 +1,1 @@
+Artigo 66-G - A legislação paulista relativa ao regime jurídico-tributário de sujeigio passiva por substituição com retenção do imposto será observada também por contribuinte estabelecido em outro Estado ou no Distrito Federal, quando, na condição de responsável, efetuar retenção do imposto em favor deste Estado. (NR)

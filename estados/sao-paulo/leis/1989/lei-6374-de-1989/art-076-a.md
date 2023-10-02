@@ -1,0 +1,3 @@
+Artigo 76-A - Está sujeito ao exercício regular da fiscalização tributária o escritório onde o contribuinte desenvolve atividades de gestão empresarial ou de processamento eletrônico de suas operações ou prestações, ainda que não inscrito. (NR)
+§ 1° - A restrição ou negativa de acesso do Agente Fiscal de Rendas ao escritório do contribuinte caracteriza resistência à fiscalização. (NR)
+§ 2° - Aplica-se o disposto neste artigo ao escritório de administrador, sócio ou ex-sócio de empresa ou empresas de contribuinte, na hipótese de indícios ou de fundada suspeita da existência, no local, de documentos e informações, em meio digital ou não, que se relacionem ao imposto. (NR)

@@ -1,0 +1,2 @@
+Artigo 65-A - O saldo devedor ou credor apurado em cada estabelecimento localizado neste Estado, na forma prevista nesta subseção, será compensado entre os estabelecimentos pertencentes ao mesmo titular, localizados em território paulista, conforme dispuser o regulamento. (NR)
+Parágrafo único - O disposto no "caput" não se aplica à parcela dos saldos, credor e devedor, apurada com a revenda de combustíveis e outros derivados de petróleo, conforme definida em legislação federal. (NR)

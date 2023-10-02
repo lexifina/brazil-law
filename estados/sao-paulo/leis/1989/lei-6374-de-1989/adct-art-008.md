@@ -1,0 +1,5 @@
+Artigo 8° - O recolhimento a que se refere o § 7° do artigo 2° desta lei deverá ser realizado pelo contribuinte remetente ou prestador localizado em outra unidade da federação na seguinte proporção: (NR)
+I - para o ano de 2016: 40% (quarenta por cento) do valor correspondente à diferença entre a alíquota interna e a interestadual; (NR)
+II - para o ano de 2017: 60% (sessenta por cento) do valor correspondente à diferença entre a alíquota interna e a interestadual; (NR)
+III - para o ano de 2018: 80% (oitenta por cento) do valor correspondente à diferença entre a alíquota interna e a interestadual; (NR)
+IV - a partir do ano de 2019: 100% (cem por cento) do valor correspondente à diferença entre a alíquota interna e a interestadual. (NR)
