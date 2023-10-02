@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO QUE NÃO ATACA, DE FORMA ESPECÍFICA, FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Não se conhece do agravo interno quando este deixa de atacar, especificamente, fundamento da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MUNICÍPIO DE GUARUJÁ contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF. INADEQUAÇÃO DA VIA ELEITA. AGRAVO CONHECIDO E NÃO PROVIDO.
+No presente recurso, sustenta-se que
+ ..  nos presentes autos não se discutem fatos ou direito local, mas apenas a aplicação da norma federal ao caso. O que se pretende com o presente recurso é a correta aplicação do art. 8º, da LC 173/20, nos termos como interpretado pelo STF na Reclamação nº 48.178, de relatoria da Ministra CÁRMEN LÚCIA. garantindo o dever da municipalidade de não computar o tempo de trabalho dos servidores entre os meses de maio/2020 e dezembro de 2021,para os fins que especificam a lei federal. O Recurso Especial interposto se baseia na aplicação em âmbito local da LC n. 173/20, mais especificadamente seu art. 8º, vez que norma de reprodução obrigatória para os entes públicos em matéria orçamentária.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO QUE NÃO ATACA, DE FORMA ESPECÍFICA, FUNDAMENTO DA DECISÃO AGRAVADA.
+1. Não se conhece do agravo interno quando este deixa de atacar, especificamente, fundamento da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+O agravo interno não pode ser conhecido.
+Dessume-se das razões recursais que a parte agravante não cuidou de impugnar fundamento adotado na decisão combatida, qual seja, de que,
+para o conhecimento da suposta violação do direito federal, deve demonstrar a parte que o aresto objurgado não decidiu a querela com fundamento em lei ou ato normativo local, o que não ocorreu. Isso porque, além de não se conhecer de ofensa reflexa à lei federal (cf. AgInt no REsp 1889505/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 13/05/2021), de não ser possível a interpretação do direito local (cf. Súmula nº 280/STF), deve se ter em conta que a aferição de contraste entre o direito local e o direito federal não compete ao STJ (cf. art. 102, III, "d", da CF/1988).
+Na espécie, para o Tribunal a quo,
+o Decreto Municipal não pode estender a proibição, restrita aos casos em que a simples passagem do tempo importa em aumento de despesas com pessoal, às hipóteses de promoção por mérito e qualificação, promoção horizontal e progressão por títulos a que não se procede por mero decurso de prazo.
+Dessarte, o acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem é vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+O Código de Ritos é expresso no sentido de que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada (art. 1.021, § 1º, do CPC/2015).
+Apesar de o agravo interno ter sido erigido sobre o inconformismo da parte, agravada com o decisum monocrático, o recurso ao Colegiado deve cumprir, além dos requisitos formais, o princípio da dialeticidade, sob pena de não conhecimento. Isso significa dizer que não pode assentar o agravo interno em consideração jurídicas absolutamente estranhas ao julgamento: o recurso deve ser redigido de forma a impugnar todos os fundamentos da decisão que são suficientes para mantê-la (v.g. o teor da Súmula nº 182/STJ).
+No escólio de Nelson Nery Júnior:
+As razões do recurso são elemento indispensável a que o tribunal, para o qual se dirige, possa julgar o mérito do recurso, ponderando-as em confronto com os motivos da decisão recorrida. A sua falta acarreta o não conhecimento. Tendo em vista que o recurso visa, precipuamente, modificar ou anular a decisão considerada injusta ou ilegal, é necessária a apresentação das razões pelas quais se aponta a ilegalidade ou injustiça da referida decisão judicial. Sem as razões seria impossível formar-se o contraditório, pois o recorrido não saberia o que rebater; nem seria viável, ainda, delinear-se o âmbito de devolutividade do recurso, já que o efeito devolutivo tem a aptidão para devolver ao reconhecimento do tribunal somente a matéria impugnada (in: Teoria Geral dos Recursos - Princípios Fundamentais. Revista dos Tribunais, 4ª ed., fls. 148/149).
+A impugnação deve ser suficientemente demonstrada, não bastando à parte, para assentar a viabilidade do apelo, desdizer as palavras de julgamento, tal como ocorrido. Ilustrativamente, os seguintes precedentes:
+É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica, dos fundamentos da decisão agravada (AgInt no AREsp n. 855.681/RS, relator Ministro Humberto Martins, Segunda Turma, DJe de 15/4/2016 - grifei).
+À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia. De mais a mais, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente em sede de agravo regimental, não tem o condão de afastar a aplicação da Súmula 182/STJ (AgRg no AREsp n. 705.564/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 25/8/2015 - grifei).
+Tampouco serve o agravo interno como meio para que a parte realize, tardiamente, a impugnação que ficou faltando no momento oportuno. Sobre a matéria, relembre-se de que
+ ..  a interposição de um recurso implica em preclusão consumativa, obstando o conhecimento de qualquer recurso do mesmo gênero que venha a ser interposto contra uma mesma decisão. Assim, o juízo de admissibilidade recursal deve considerar tão somente as razões apresentadas no primeiro recurso que venha a ser interposto, não conhecendo qualquer argumento que venha a ser apresentado posteriormente a título de aditamento. Por tal razão, não há que se falar na possibilidade de aditar o recurso, sanando eventuais vícios posteriormente verificados (AgInt no AREsp n. 1.040.787/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/5/2018 - grifei).
+Com essas considerações, não conheço do agravo interno.
+É como voto.
