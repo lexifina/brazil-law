@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL . AGRAVO INTERNO NO RECURSO ESPECIAL.DESONERAÇÃO DA FOLHA DE PAGAMENTOS. LEI 12.546/2011. AMPLIAÇÃO DO ROL DE BENEFICIADOS PELA LEI 12.715/2012. INCLUSÃO DAS ATIVIDADES OU PRODUTOS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7. IMPOSSIBILIDADE.
+1. Trata-se do enquadramento das atividades/produtos da parte agravante na desoneração de folha de pagamentos prevista na Lei 12.546/2011, com o rol ampliado pela Lei 12.715/2012.
+2. É vedado o reexame do entendimento proferido pelo Tribunal de origem pois implica no reexame da matéria fático-probatória, com óbice na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MECESA EMBALAGENS S/A e TINTAS HIDRACOR S/A contra a decisão proferida pelo Ministro Napoleão Nunes Maia Filho assim ementada (fl. 254):
+TRIBUTÁRIO. RECURSO ESPECIAL. DESONERAÇÃO DA FOLHA DE PAGAMENTOS. LEI 12.546/2011. AMPLIAÇÃO DO ROL DE BENEFICIADOS PELA LEI 12.715/2012. ATIVIDADES DAS AUTORAS NÃO ALBERGADAS PELAS HIPÓTESES PREVISTAS NA NORMA. INTERPRETAÇÃO EXTENSIVA. DESCABIMENTO. RECURSO ESPECIAL DAS EMPRESAS DESPROVIDO.
+Em suas razões recursais (fls. 257/260), argumenta a parte agravante que (i) em nenhum momento a Lei 12.715/2012 afirmou expressamente que as atividades exercidas por ela não estariam aptas a procederem com o recolhimento da contribuição previdenciária patronal prevista no art. 22, inciso III, da Lei 8.212/1991, estando silente; (ii) a despeito de as leis silenciarem sobre as atividades por ela exercida, não fizeram o mesmo em relação aos produtos por ela fabricados; e, (iii) como grande parte dos produtos fabricados e comercializados por ela foram contemplados pela nova sistemática, entende que deixou de ter a obrigação de proceder com o recolhimento das contribuições previdenciárias previstas no art. 22, incisos I e III, da Lei 8.212/1991.
+Destaca que "em nenhum momento  fez  uso da interpretação extensiva, tendo a legislação sido interpretada de forma literal, em consonância com o artigo 97 e incisos do CTN, uma vez que todo o arcabouço jurídico montado na presente ação foi devidamente demonstrado e interpretado de acordo com a literalidade das normas".
+Requer, ao final, o provimento do agravo interno, reconsiderando a decisão monocrática para que seja dado provimento ao recurso especial interposto.
+Não foi apresentada impugnação (fl. 266).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL . AGRAVO INTERNO NO RECURSO ESPECIAL.DESONERAÇÃO DA FOLHA DE PAGAMENTOS. LEI 12.546/2011. AMPLIAÇÃO DO ROL DE BENEFICIADOS PELA LEI 12.715/2012. INCLUSÃO DAS ATIVIDADES OU PRODUTOS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7. IMPOSSIBILIDADE.
+1. Trata-se do enquadramento das atividades/produtos da parte agravante na desoneração de folha de pagamentos prevista na Lei 12.546/2011, com o rol ampliado pela Lei 12.715/2012.
+2. É vedado o reexame do entendimento proferido pelo Tribunal de origem pois implica no reexame da matéria fático-probatória, com óbice na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O cerne da controvérsia gira em torno do enquadramento das atividades/produtos da parte agravante na desoneração de folha de pagamentos prevista na Lei 12.546/2011, com o rol ampliado pela Lei 12.715/2012.
+Conforme exposto na decisão agravada, "o Tribunal a quo salientou que a Lei 12.546/2001, posteriormente alterada pela Lei 12.715/2012, para incluir novas empresas, expressamente afirmou que as recorrentes não se enquadram na modificação legislativa. Dessa forma, não há como alterar tal premissa, uma vez demanda a incursão em matéria fático-probatória".
+Não cabe ao Superior Tribunal de Justiça a análise requerida pela parte agravante acerca do enquadramento dos seus produtos (e não atividades) na nova sistemática de recolhimento da contribuição previdenciária pois implica no reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ ("a pretensão de simples reexame de prova não enseja recurso especial"). Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IRPJ E CSLL. BASE DE CÁLCULO REDUZIDA. PRESTADORA DE SERVIÇOS HOSPITALARES. REQUISITOS. INOBSERVÂNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.116.399/BA, submetido ao regime de recursos repetitivos, firmou o entendimento de que, "para fins do pagamento dos tributos com as alíquotas reduzidas, a expressão "serviços hospitalares", constante do artigo 15, § 1º, inciso III, da Lei 9.249/95, deve ser interpretada de forma objetiva (ou seja, sob a perspectiva da atividade realizada pelo contribuinte), devendo ser considerados serviços hospitalares "aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde", de sorte que, "em regra, mas não necessariamente, são prestados no interior do estabelecimento hospitalar, excluindo-se as simples consultas médicas, atividade que não se identifica com as prestadas no âmbito hospitalar, mas nos consultórios médicos"".
+2. Com o advento da Lei n. 11.727/2008, com início de vigência em 1º/01/2009, passou-se a exigir, além do enquadramento da atividade como de natureza hospitalar, outros dois requisitos para a concessão do benefício: estar o contribuinte constituído como sociedade empresária e atender às normas da ANVISA.
+3. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois o Tribunal de origem, com base no conjunto fático-probatório dos autos, consignou que a parte recorrente não preenche os requisitos legais, razão pela qual não faz jus ao benefício.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.768.558/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/3/2023, DJe de 15/3/2023 - sem destaque no original.)
+TRIBUTÁRIO. ISS. SOCIEDADE UNIPROFISSIONAL. TRATAMENTO TRIBUTÁRIO DIFERENCIADO PREVISTO NO ART. 9º, §§ 1º E 3º, DO DECRETO-LEI 406/1968. REQUISITOS PARA O BENEFÍCIO LEGAL. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. ÓBICES DAS SÚMULAS 5 e 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. A questão de fundo é o enquadramento da atividade societária no disposto no art. 9º, §§ 1º e 3º, do Decreto-Lei 406/1968.
+2. A pretensão de revisão do entendimento proferido na origem acerca da natureza jurídica da sociedade formada pela parte agravante implica, no caso, reexame dos aspectos concretos da causa e da interpretação de cláusulas contratuais, o que é vedado em Recurso Especial, conforme as Súmulas 5 e 7/STJ.
+3. Os óbices impostos à admissão do Recurso Especial pela alínea "a" do permissivo constitucional obsta a análise pela alínea "c".
+4. Agravo conhecido para não se conhecer do Recurso Especial. (AREsp n. 1.680.513/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/8/2020, DJe de 5/10/2020 - sem destaque no original.)
+Sobre a interpretação da legislação na forma do art. 97 do CTN, assim dispôs o acórdão proferido pelo Tribunal de origem:
+É cediço que em matéria tributária, a instituição de tributos, sua extinção, majoração ou redução só pode ser feita por meio de lei, bem como a definição do fato gerador, sujeito passivo, a fixação de sua alíquota e sua base de cálculos, conforme dispõe o art. 97, e seus incisos, do CTN.
+Outrossim não se admite o uso de interpretação extensiva, conforme dispõe a regra inserta no art. 111, do CTN, vez que a interpretação de norma tributária para gozar dos benefícios fiscais deve circunscrever-se amais estrita literalidade (fl. 142).
+Dessa forma, não cabe ao STJ revisar como foi feita a interpretação pela parte agravante por também implicar no reexame dos aspectos concretos da causa, incidindo no óbice da Súmula 7.
+Pelo exposto, nego provimento ao agravo.
+É o voto.
