@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. SÚMULA 519/STJ. PROVIMENTO NEGADO.
+1. "A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença. Nos termos da Súmula 519 do STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios"". (AgInt no REsp 1.988.414/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se agravo interno interposto por SÔNIA MARIA SERRA AZUL GUIMARÃES e OUTRO contra decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada (fls. 100/102) :
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. TESE FIRMADA EM JULGAMENTO DE RECURSOS REPETITIVOS (RESP 1.134.186/RS). RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+Nas razões do recurso, os agravantes alegam, tão somente, que "no caso de cumprimento de sentença contra a Fazenda Pública, e desde que tal tenha sido por ela impugnada, caso dos autos, sempre serão devidos os respectivos honorários, por força do que dispõe referido comando legal, restando afastada, nessas hipóteses específicas e em razão disso, a incidência da famigerada Súmula 519 desse C. Superior Tribunal de Justiça" (fl. 108).
+Sem contrarrazões (fl. 117).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. SÚMULA 519/STJ. PROVIMENTO NEGADO.
+1. "A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença. Nos termos da Súmula 519 do STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios"". (AgInt no REsp 1.988.414/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023).
+2. Agravo interno a que se nega provimento.
+VOTO
+O Tribunal de origem, no tocante aos honorários advocatícios, apresentou o seguinte fundamento:
+Melhor sorte, todavia, está reser vada ao pleito subsidiário, uma vez que os termos da Súmula 519 do Superior Tribunal de Justiça, "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios" (fl. 39).
+Reitero que tal entendimento se encontra em consonância com a jurisprudência desta Corte, uma vez que "A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de que não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença. Nos termos da Súmula 519 do STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios"". (AgInt no REsp 1.988.414/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. "A Corte Especial do Superior Tribunal de Justiça, sob o regime dos recursos especiais repetitivos, pacificou o entendimento de não são cabíveis honorários advocatícios quando rejeitada a impugnação ao cumprimento de sentença. Nos termos da Súmula 519 do STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios". (AgInt no REsp n. 1.988.414/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023).
+2. Agravo interno não provido. (AgInt no AgInt no REsp n. 2.024.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/5/2023, DJe de 5/5/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HIPÓTESE DE REJEIÇÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. MATÉRIA DECIDIDA EM RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA DO ART. 543-C DO CPC. SÚMULA 519/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte, ao julgar o Recurso Especial n. 1.134.186/RS, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, a respeito da condenação ao pagamento de honorários advocatícios em impugnação ao cumprimento de sentença, firmou entendimento segundo o qual: a) são cabíveis em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se"; b) descabida a condenação quando rejeitada a impugnação; e c) devida a verba quando acolhida, ainda que em parte, a impugnação.
+III - Consoante a Súmula 519/STJ, aplicável às execuções contra a Fazenda Pública, "na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt no REsp n. 1.864.374/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/9/2020, DJe de 14/9/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
