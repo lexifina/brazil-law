@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/09/2023 a 02/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE CONTRABANDO E FALSIFICAÇÃO DE DOCUMENTO. NULIDADE DA DECISÃO QUE RECEBEU A DENÚNCIA. NÃO CONSTATAÇÃO DE ILEGALIDADE. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, não se exige fundamentação complexa no recebimento da denúncia - sobretudo no primeiro momento (art. 396 do CPP) - em virtude de sua natureza interlocutória, não se equiparando à decisão judicial a que se refere o art. 93, inciso IX, da Constituição da República.
+2. Considerando o teor das teses defensivas elencadas na resposta à acusação (atipicidade da conduta e insuficiência de indícios de autoria e materialidade), não há ilegalidade na decisão do Juízo de 1º grau ao destacar que tais matérias poderão ser melhor analisadas durante a instrução processual, pois dependem invariavelmente de uma apreciação das provas.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GILSON DE SOUZA contra a decisão de fls. 27-29, e-STJ, que indeferiu liminarmente o habeas corpus diante da ausência de flagrante ilegalidade.
+O agravante, em síntese, renova a tese defensiva acerca da nulidade da decisão que recebeu a denúncia, em virtude da ausência de fundamentação.
+Requer a reconsideração da decisão agravada ou a submissão deste agravo regimental à Quinta Turma para que seja concedido o habeas corpus, nos termos pleiteados.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE CONTRABANDO E FALSIFICAÇÃO DE DOCUMENTO. NULIDADE DA DECISÃO QUE RECEBEU A DENÚNCIA. NÃO CONSTATAÇÃO DE ILEGALIDADE. FUNDAMENTAÇÃO SUFICIENTE. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, não se exige fundamentação complexa no recebimento da denúncia - sobretudo no primeiro momento (art. 396 do CPP) - em virtude de sua natureza interlocutória, não se equiparando à decisão judicial a que se refere o art. 93, inciso IX, da Constituição da República.
+2. Considerando o teor das teses defensivas elencadas na resposta à acusação (atipicidade da conduta e insuficiência de indícios de autoria e materialidade), não há ilegalidade na decisão do Juízo de 1º grau ao destacar que tais matérias poderão ser melhor analisadas durante a instrução processual, pois dependem invariavelmente de uma apreciação das provas.
+3. Agravo regimental não provido.
+VOTO
+A irresignação não merece guarida, pois a decisão ora guerreada foi proferida em consonância à orientação jurisprudencial desta Corte Superior.
+Inicialmente, registre-se que, apesar da possibilidade de questionamentos teóricos quanto à prática, a jurisprudência tem admitido até mesmo o recebimento tácito da peça acusatória:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. PROCESSUAL PENAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RECEBIMENTO TÁCITO DA DENÚNCIA. ADMISSIBILIDADE. INOCORRÊNCIA DA PRESCRIÇÃO: PRECEDENTES. PEDIDO MANIFESTAMENTE IMPROCEDENTE E CONTRÁRIO À JURISPRUDÊNCIA DOMINANTE DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (HC 200570 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 24/05/2021, PROCESSO ELETRÔNICO DJe-100 DIVULG 25-05-2021 PUBLIC 26-05-2021)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. FUNDAMENTAÇÃO SUCINTA DA DECISÃO DE RECEBIMENTO DA DENÚNCIA. INSTRUÇÃO DEFICIENTE. INOBSERVÂNCIA DE PRESSUPOSTO INDISPENSÁVEL AO CONHECIMENTO DO WRIT. PRECEDENTES. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIADECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - Cabe salientar que "Conforme reiterada jurisprudência do Superior Tribunal de Justiça e na esteira do posicionamento adotado pelo Supremo Tribunal Federal, consagrou-se o entendimento de inexigibilidade de fundamentação complexa no recebimento da denúncia, em virtude de sua natureza interlocutória, não se equiparando à decisão judicial a que se refere o art. 93, inciso IX, da Constituição da República" (AgRg no RHC n. 174.156/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023) - grifei).
+III - Cumpre salientar que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298).
+Agravo regimental desprovido.
+(AgRg no HC n. 736.181/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+PENAL. RECEBIMENTO IMPLÍCITO DA DENÚNCIA. POSSIBILIDADE. JUÍZO DE MERA PRELIBAÇÃO. MARCO INTERRUPTIVO DA PRESCRIÇÃO. AGRAVO DESPROVIDO.
+1. A decisão que recebe a denúncia possui natureza interlocutória e emite juízo de mera prelibação. 2. É assente na jurisprudência desta Corte Superior e do Supremo Tribunal Federal o entendimento de que se trata de ato que dispensa maior fundamentação, não se subsumindo à norma insculpida no art. 93, inciso IX, da Constituição da República. Assim, admite-se, inclusive, o recebimento tácito ou implícito da denúncia, justamente diante da ausência de formalidade que o ordenamento jurídico empresta ao ato judicial em questão. 3. A prática pelo magistrado de atos inerentes ao prosseguimento do feito compatíveis com o recebimento da denúncia afigura-se suficiente a ter por recebida a peça acusatória.
+Por consequência, não se reputando nulo ou inexistente o recebimento da denúncia, não há razão para afastar sua característica de marco interruptivo do prazo prescricional.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.450.363/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/6/2017, DJe de 30/6/2017.)
+No caso concreto, conforme salientado na decisão anterior, a simples leitura da decisão do Juízo de 1º grau permite concluir que não há ilegalidade a ser reparada nesta via, pois está suficientemente fundamentad o o ato decisório, senão vejamos:
+A resposta à acusação apresentada não demonstrou a incidência de qualquer hipótese de absolvição sumária (art. 397 do Código de Processo Penal). Com efeito, a princípio, não está configurada a existência manifesta de qualquer causa excludente de ilicitude do fato, de qualquer causa excludente de culpabilidade ou extintiva da punibilidade do denunciado, ou ainda a evidente atipicidade do fato narrado.
+As alegações do acusado quanto à rejeição da denúncia adentram no mérito da demanda e exigem dilação probatória, pois se referem aos próprios fatos.
+Ademais, a denúncia apresentou indícios de autoria e materialidade suficientes para seu recebimento, não havendo necessidade de provas robustas para a instauração da ação penal.
+Assim, MANTENHO o recebimento da denúncia e dou início à fase instrutória. (e- STJ, fl. 18)
+Imperioso ressaltar que, embora a defesa não tenha especificado quais as teses foram elencadas em sua resposta à acusação, o Tribunal de Justiça informou, no acórdão recorrido, que o réu pugnou pelo reconhecimento da atipicidade da conduta e pela constatação de inexistência de indícios de autoria e de materialidade delitiva. Nesse sentido, tem razão o Juízo de 1º grau ao atestar que tais matérias podem ser melhor analisadas durante a instrução processual, pois dependem invariavelmente de uma apreciação das provas.
+Na mesma linha, destacou a autoridade coatora: "Sendo assim, não se mostra adequada a decretação da nulidade da decisão que recebeu a denúncia, uma vez que seria temerário obstar por completo o andamento de procedimento cuja matéria depende de dilação probatória e análise aprofundada de elementos, o que se mostra incabível nesta via estreita." (e-STJ, fl. 9).
+Desse modo, não se verifica constrangimento ilegal nesse ponto.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
