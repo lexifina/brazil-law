@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCELO ALVES DOS SANTOS - ESPÓLIO à decisão de fls. 492/493, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entende o embargante ter havido contradição na r. sentença, posto que o Douto Magistrado entendeu pela intempestividade do agravo interposto, sob o fundamento de que a parte recorrente havia sido intimada da decisão agravada em 15 de maio de 2023, no entanto apenas teria interposto o agravo em 13 de junho de 2023, fora, portanto, do prazo legal.
+Ocorre que, conforme constata-se da certidão de publicação que segue anexa, em que pese a decisão agravada tenha sido proferida em 10 de maio de 2023, sua publicação só se deu em 19 de maio de 2023, vejamos:
+ ..
+Desta forma, tem-se que o prazo final para interposição do agravo se deu em 13 de junho de 2023, como observa-se: (fl. 499).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado, nos autos há apenas a certidão de fl. 446, atestando a disponibilização ocorrida em 12/5/2023, com a publicação no próximo dia útil subsequente, ou seja, 15/5/2023. Além disso, não há nenhum documento do tribunal de origem certificando o exposto pela parte.
+Cabia a esta fazer prova de sua argumentação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada no ato de interposição do recurso. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgInt no AREsp 1349668/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 27/2/2019; e AgInt no AREsp 1329622/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 17/12/2018.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
