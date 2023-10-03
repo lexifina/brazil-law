@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 7 do STJ (e-STJ fls. 785/786).
+O acórdão recorrido está assim ementado (e-STJ fls. 637/638):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - SENTENÇA DE EXTINÇÃO, SEM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ART. 485, IV, DO CPC - APELAÇÃO CÍVEL 1 (BANCO): PLEITO DE CONVERSÃO DO FEITO EXECUTIVO PARA AÇÃO MONITÓRIA. INOVAÇÃO RECURSAL. NÃO CONHECIMENTO - EXECUÇÃO LASTREADA EM CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE. DESCABIMENTO. AUSÊNCIA DE TÍTULO EXECUTIVO. ILIQUIDEZ. INTELIGÊNCIA DA SUMÚLA 233 DO COLENDO STJ. EXTINÇÃO DA EXECUÇÃO MANTIDA - ÔNUS SUCUMBENCIAL. MANTIDO - (EXECUTADA): HONORÁRIOS APELAÇÃO CÍVEL 2 ADVOCATÍCIOS. AUSÊNCIA DE CONDENAÇÃO. ARBITRAMENTO PELO PROVEITO ECONÔMICO OBTIDO. POSSIBILIDADE. JUROS DE MORA SOBRE OS HONORÁRIOS ADVOCATÍCIOS. TERMO INICIAL CITAÇÃO DO DEVEDOR PARA PAGAMENTO - HONORÁRIOS RECURSAIS. FIXAÇÃO - SENTENÇA PARCIALMENTE REFORMADA.
+1. Há inovação recursal quando a matéria não foi controvertida anteriormente, não podendo ser conhecida pelo Tribunal.
+2. Ao editar a súmula 233, o colendo Superior Tribunal de Justiça consolidou o entendimento de que "O contrato de abertura de crédito, ainda que acompanhado de extrato da conta-corrente, não é título executivo".
+3. Tendo sido mantida a sentença de extinção da execução, em razão da ausência de título executivo certo, líquido e exigível e restando a parte exequente vencida na demanda, não há que se falar em inversão do ônus sucumbencial.
+4. Em não havendo condenação e, por outro lado, sendo possível mensurar o proveito econômico, os honorários advocatícios devem ser fixados entre 10% e 20% sobre o valor atualizado do proveito econômico obtido, de acordo com o disposto no art. 85, §2º, do CPC.
+5. Consoante entendimento do colendo Superior Tribunal de Justiça, os juros de mora sobre os honorários sucumbenciais devem incidir a partir da citação do devedor para pagamento da referida verba.
+6. Segundo entendimento do colendo Superior Tribunal de Justiça, haverá fixação dos honorários recursais, quando preenchidos os requisitos para tanto, quais sejam: a) O recurso deverá desafiar decisão publicada a partir de 18 de março de 2016; b) O não conhecimento integral ou o desprovimento do recurso pelo relator monocraticamente, ou pelo órgão colegiado competente; c) A verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; e d) Não terem sido atingidos os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/15 (EDcl no REsp 1.573.573/RJ, de relatoria do Min. Marco Bellizze).
+7. Apelação cível 1 parcialmente conhecida e desprovida e apelação cível 2 conhecida e parcialmente provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 682/695).
+No recurso especial (e-STJ fls. 738/752), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e violação do art. 85, § 10, do CPC/2015, porque a fixação da sucumbência não considerou o princípio da causalidade, argumentando que foi a parte recorrida que deu causa à propositura da ação, por não ter adimplido o débito.
+Argumenta que (e-STJ fls. 747/748):
+Desta feita, não se pode interpretar a norma legal como realizou o acórdão recorrido, pois o Recorrente não é causador do ajuizamento da ação, quando se viu obrigado a buscar seu crédito de forma judicial, por ausência de pagamento do débito pela Recorrida. Por consequência, não se mostra adequado penalizar o Exequente, ora Recorrente, ao pagamento de honorários sucumbenciais ao Recorrido que não cumpriu a obrigação contratual de forma espontânea e já se viu beneficiado por esta situação.
+No agravo (e-STJ fls. 789/798), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta, com pedido de majoração de honorários advocatícios (e-STJ fls. 810/817).
+É o relatório.
+Decido.
+A Corte estadual condenou o recorrente ao pagamento dos encargos sucumbenciais mediante os seguintes fundamentos (e-STJ fl. 645):
+Afirma o banco apelante 1 que em atenção ao princípio da causalidade, deve ser afastada a condenação do banco ao pagamento de custas e honorários, atribuindo-se referido ônus exclusivamente ao apelado.
+Não obstante, não vislumbro a possibilidade de condenação da apelada ao pagamento do ônus sucumbencial em razão da aplicação do princípio da causalidade, visto que o causador da extinção da demanda executiva, sem resolução de mérito, foi o próprio banco apelante 1, ao ajuizar demanda executiva com base em título que não goza dos requisitos essenciais de certeza, liquidez e exigibilidade.
+Frise-se, ademais, que foi a apelada que, em sede de exceção de pré-executividade, trouxe à apreciação do magistrado singular o tema relativo à necessidade de extinção da lide executiva, com base na súmula 233, do STJ, razão pela qual, conforme dispõem os arts. 82, § 2º e 85, do CPC, "Art. 82. (..) § 2º A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou" e "Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor"
+O Tribunal de origem entendeu que foi a parte recorrente que deu causa ao processo, por ter ajuizad o execução com título que não apresentava os requisitos legais.
+Dess a forma, não logrou demonstrar de que forma houve ofensa ao art. 85, § 10, do CPC/2015, pois foi observado o princípio da causalidade para a distribuição do encargo sucumbencial.
+A alegação de que a súmula que dispõe que o contrato de abertura de crédito não é título executivo surgiu somente após a propositura da ação não foi objeto de análise pela Corte estadual, de modo que ausente o requisito do prequestionamento. Incide, dessa forma, a Súmula n. 282 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
