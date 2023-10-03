@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 29-30):
+HABEAS CORPUS. LIMINAR INDEFERIDA. PACIENTES DENUNCIADOS PELA PRÁTICA, EM TESE, DOS CRIMES PREVISTOS NO ART. 33 E 35 C/C ART. 40, INCISO V, TODOS DA LEI Nº 11.343/06. IMPETRANTE QUE ALEGA CONSTRANGIMENTO ILEGAL SOB O ARGUMENTO DE QUE (I) HÁ EXCESSO DE PRAZO NA PRESTAÇÃO JURISDICIONAL, BEM COMO DE QUE (II) A MANUTENÇÃO DA PRISÃO PREVENTIVA CARECE DE FUNDAMENTAÇÃO IDÔNEA POR SE MOSTRAREM SUFICIENTES AS MEDIDAS CAUTELARES DIVERSAS DA SEGREGAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO. COMPLEXIDADE DA CAUSA QUE SE EXTRAI DA PRÓPRIA NATUREZA DOS DELITOS, BEM COMO DA PLURALIDADE DE RÉUS. EXCESSO DE PRAZO QUE NÃO DEVE SER AFERIDO POR MERO CÁLCULO ARITMÉTICO, MAS SIM À LUZ DA COMPLEXIDADE DA CAUSA, DA ATUAÇÃO DAS PARTES E DO ESTADO-JUIZ. PRECEDENTE DO EG. STJ. SOMENTE SE ENCONTRA PENDENTE A APRESENTAÇÃO DO LAUDO PERICIAL, APÓS O QUE SERÁ ABERTA VISTA PARA APRESENTAÇÃO DE ALEGAÇÕES FINAIS PELO MINISTÉRIO PÚBLICO. PRISÃO PREVENTIVA CONCRETAMENTE FUNDAMENTADA NA NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO QUE SE EXTRAI A PARTIR DA ENORME QUANTIDADE DE DROGAS APREENDI DAS (440.000g DE MACONHA) E SEU TRANSPORTE INTERESTADUAL. CONDIÇÕES SUBJETIVAS FAVORÁVEIS, POR SI SÓS, NÃO OBSTAM A SEGREGAÇÃO CAUTELAR, QUANDO PRESENTES OS REQUISITOS LEGAIS PARA A DECRETAÇÃO DA PRISÃO PREVENTIVA. PRECEDENTES. ORDEM DENEGADA.
+Consta dos autos que o paciente foi preso em flagrante em 30/6/2021, posteriormente convertido em prisão preventiva, e denunciado pela suposta prática dos delitos descritos nos arts. 33 e 35, c.c. art. 40, V, todos da Lei n. 11.343/2006.
+No presente writ, alega o impetrante excesso de prazo para o encerramento da instrução criminal, sustentando que o paciente se encontra preso há cerca de 2 anos e 3 meses.
+Aduz, ainda, que estão ausentes os requisitos autorizadores da prisão preventiva (art. 312 do CPP).
+Requer, liminarmente e no mérito, o relaxamento ou a revogação da prisão preventiva, ainda que fixadas, na última hipótese, medidas cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Em consulta realizada ao site do Tribunal de origem, verifica-se que, em audiência realizada em 21/8/2023, os réus tiveram suas prisões preventivas relaxadas pelo magistrado, dado o excesso de prazo para o encerramento da instrução, sendo de rigor reconhecer a perda do objeto do presente mandamus.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
