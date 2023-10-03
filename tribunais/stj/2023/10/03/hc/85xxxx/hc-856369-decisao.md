@@ -1,0 +1,8 @@
+DECISÃO
+SIDNEY PEREIRA DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 1.0024.18.010770-8/001, em que foi cassada a decisão que "indeferiu o pedido do Ministério Público para reconhecimento da reincidência do agravado, considerando a integralidade da execução" (fl. 36), "determinando a retificação do atestado de penas para que a reincidência incida sobre a integralidade das penas impostas" (fl. 38).
+Assere a defesa que "os três delitos foram cometidos quando o recorrente ainda ostentava situação de primariedade, sendo o primeiro cometido em 18/03/2016, transitado em julgado em 03/11/2021, o segundo em 18/04/2017, com transito em julgado na data de 27/08/2019 e o terceiro delito em 10/02/2019, com transito em julgado em 23/03/2020; ou seja, nos três delitos supramencionados não há que se falar em reincidência tendo em vista as datas de infração e de transito em julgado das sentenças condenatórias" (fl. 10).
+Todavia, consoante destacado pela Corte de origem, "a condição de reincidente do reeducando deve ser reconhecida quando da unificação das reprimendas, perante o juízo da execução, devendo incidir sobre a integralidade da pena a ser cumprida. Além disso, deve ser considerada para todos os efeitos no processo de execução penal" (fl. 38).
+A esse respeito, urge consignar que, "consistindo a reincidência em condição pessoal, uma vez reconhecida, influi sobre o requisito objetivo dos benefícios da execução em relação a todas as condenações" (AgRg no HC n. 608.770/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 20/11/2020).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
