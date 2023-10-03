@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ e inexistência de violação de artigos de lei federal e ausência de comprovação do dissídio.
+O acórdão recorrido está assim ementado (e-STJ fl. 513):
+NULIDADE DE SENTENÇA Ausência de fundamentação Vício não verificado Decisão suficientemente embasada, nela constando as razões do convencimento Observância do que previsto os arts. 93, IX, da Constituição Federal e 489, § 1º,do CPC Argumento rejeitado.
+CERCEAMENTO DE DEFESA Situação não ocorrente Desnecessidade da produção doutras provas Possibilidade de julgamento imediato do mérito.
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS RESCISÃO CONTRATUAL Convênio educacional com fornecimento de material didático Rescisão imotivada por parte da autora Pagamento da multa contratualmente prevista, bem assim o que devido pela desinstalação de equipamentos Sentença mantida Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 521/543), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 11, 489, § 1º, IV, e 1.022, II, do CPC/2015 e 93, IX da CF, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matéria deduzidas nos embargos de declaração,
+(ii) arts. 282, §1º, 357, V, 370, 371 do CPC/2015, por entender que "prescreve que ao pronunciar a nulidade, o juiz declarará que atos são atingidos e ordenará as providências necessárias a fim de que sejam repetidos ou retificados, e que o ato não será repetido nem sua falta será suprida quando não prejudicar a parte  ..  É claro o prejuízo sofrido pelo recorrente, tanto é assim, mais uma vez, é bom que se diga, que se a prova oral fosse produzida, como destacou o Juízo sentenciante, a conclusão dos autos, provavelmente, seria outra" (e-STJ fl. 536),
+(iii) arts. 98, § 5º, 99, § 7º, do CPC/2015, 5º, XXXV e LXXIV, da CF e Súmula n. 481 do STJ, sustentando que teve sua hipossuficiência comprovada e que "não dispõe de condições financeiras para arcar com as custas processuais sem prejuízo da saúde financeira já abalada da empresa, conforme documentos em anexo" (e-STJ fl. 533).
+Em suma, são estes os pedidos recursais (e-STJ fl. 543):
+a) a concessão dos benefícios da justiça gratuita nos termos do artigo 98 e ss, do NCPC, assim como na forma do artigo 5º, LXXIV, da CF/88, sendo a recorrente dispensado da juntada do preparo (§ 3º do artigo 99 do CPC);
+b) que seja o recorrido intimado para, querendo, apresentar contraminuta ao presente recurso;
+c) seja reconhecida a nulidade no julgado ante a violação ao devido processo legal por violação ao contraditório e a ampla defesa; e
+d) no mérito, que essa Egrégia Turma dê provimento ao presente recurso, para, desconstituir e reformar a decisão recorrida, julgando o feito totalmente procedente. Termos em que, pede deferimento.
+Foram oferecidas contrarrazões (e-STJ fls. 581/596).
+No agravo (e-STJ fls. 603/628), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 631/641).
+É o relatório.
+Decido.
+No que se refere aos arts. 5º, XXXV e LXXIV, e 93, IX, da CF, compete ao STJ zelar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+A alegada violação da Súmula n. 481 do STJ não comporta análise no recurso, pois, de acordo com a Súmula n. 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Na petição de recurso especial, o recorrente postula a assistência judiciária gratuita. Não havendo nos autos elementos concretos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, defiro, com efeito ex nunc, os benefícios da justiça gratuita ao recorrente.
+O TJSP, ao analisar as provas, entendeu que não houve cerceamento de defesa, conforme assentou (e-STJ fls. 515/517):
+Não se cerceou defesa os fatos, quais postos, denotaram da desnecessidade (falta de proveito) de produção de quaisquer outras provas, sob pena de protelação. Aqui, incide o art. 370 do Código de Processo Civil(CPC). Lembre-se de que a prova se destina ao juiz, não às partes.
+Pode-se mencionar significativo precedente jurisprudencial: "Constantes dos autos elementos de prova documental suficientes para formar o convencimento do julgador, inocorre cerceamento de defesa se julgada antecipadamente a controvérsia" (Agravo Regimental no Agravo de Instrumento nº 111.249 GO, 4ª Turma do Superior Tribunal de Justiça, v. un., Rel. Min. Sálvio de Figueiredo Teixeira, em 24/9/96, DJU de 17/3/97,pág. 7521).
+(..)
+Assim, o juiz estava autorizado a julgar antecipadamente a lide, evitada prova desnecessária, prestigiada da celeridade e economia processuais. De resto, a questão litigiosa ficou perfeitamente delineada e não se atina com necessidade de produção de provas para comprovação daquilo que se tornou incontroverso. Não está configurado prejuízo algum para qualquer dos interessados e a solução jurídica há de ser, desde logo, proferida.
+Além disso, a decisão saneadora de fls. 286/288, que permitiu produção de prova oral, foi publicada em 01.07.2019 (fl. 290), mas a autora só se preocupou em apresentar o rol de testemunhas no dia 08 de agosto daquele ano (petição de fls. 292/293). Verifique-se que a certidão da secretaria de fl. 314 é no sentido da prática do ato além do prazo fixado pelo magistrado, com o que inegável a ocorrência de preclusão na produção da prova requerida. Não era, por outro lado, hipótese de que se procedesse a produção de provas "de ofício". A lide, aqui, envolve particulares e cabe a quem formulou o pedido comprová-lo.
+Em arremate, as testemunhas arroladas são, respectivamente, o representante legal da autora (Dorgival fl. 11) e uma de suas funcionárias (Edjane fl. 71). Apenas a título de complemento de raciocínio, óbvio que estes apenas iriam sustentar o que a inicial afirmou, com o que, além da clara ocorrência de preclusão acima aludida, não se vislumbra qualquer prejuízo à defesa dos interesses da autora.
+Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação de seu convencimento.
+A alteração do decidido pelo Colegiado implicaria inadequada reavaliação do suporte fático-probatório dos autos, atraindo a Súmula n. 7/STJ.
+Ante o exposto, DEFIRO com efeito ex nunc, a assis tência judiciária gratuita ao recorrente e NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estando a parte recorrente amparada pela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
