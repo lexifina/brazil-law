@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 625/628) opostos à decisão desta relatoria que deu parcial provimento ao recurso especial de fls. 469/480 (e-STJ), para manter a comissão de permanência nos termos efetivamente cobrados pela instituição financeira, sem prejuízo da eventual propositura de ação revisional (e-STJ fls. 407/409).
+A parte embargante sustenta que a decisão embargada incorreu em contradição e omissão, na medida em que "está autorizando a cobrança de um encargo sem qualquer previsão em contrato" (e-STJ fl. 627).
+Impugnação apresentada às fls. 631/636 (e-STJ), com pedido de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando na decisão judicial houver obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+A omissão que autoriza os embargos de declaração consiste na ausência de manifestação sobre fundamento de fato ou de direito apontado nas razões recursais e sobre o qual o magistrado deve se manifestar, enquanto a contradição que dá ensejo aos aclaratórios é a interna, isto é, entre proposições do próprio julgado que, inconciliáveis entre si, impedem a compreensão do provimento jurisdicional.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Com efeito, a decisão embargada tratou, de forma expressa e logicamente fundamentada, da questão relativa à impossibilidade, na presente causa, de afastar a comissão de permanência, concluindo, em síntese, no sentido de que a aferição da legalidade de encargo cobrado na relação contratual deve ser objeto de ação revisional. A propósito (e-STJ fl. 621):
+ ..  no tocante ao afastamento da comissão de permanência, justificada pela ausência de previsão contratual e proibição de sua cumulação com demais encargos moratórios, a conclusão da Corte de origem destoa da tese firmada pela Segunda Seção desta Corte no julgamento do REsp n. 1.497.831/PR (relatora para acórdão Ministra Maria Isabel Gallotti, julgado em 14/9/2016, DJe de 7/11/2016), submetido ao rito dos recursos repetitivos (Tema n. 908/STJ), no sentido da "impossibilidade de revisão de cláusulas contratuais em ação de prestação de contas".
+Assim, "não cabe a revisão de cláusulas contratuais em ação de prestação de contas, sendo que a exclusão de encargos incidentes na relação contratual (..) caracteriza revisão contratual" (EDcl nos EDcl no AgInt no REsp n. 1.592.521/PR, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/2/2017, DJe 24/2/2017 - grifei).
+No mesmo sentido: AgInt no REsp n. 1.805.335/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; e AgInt nos EDcl nos EDcl no REsp n. 1.537.338/RJ, de minha relatoria, Quarta Turma, julgado em 23/11/2020, DJe de 30/11/2020.
+Assim, a pretensão recursal se volta, em última análise, à rediscussão de matéria devidamente examinada na decisão embargada, o que é incabível nos embargos declaratórios.
+Havendo motivação satisfatória para dirimir o litígio nos moldes do juízo embargado, não se constata nenhuma das hipóteses de cabimento dos declaratórios, não configurando nenhum dos vícios previstos no art. 1.022 do CPC/2015 o fato de a decisão recorrida ser contrária aos interesses da parte embargante.
+Em face do exposto, REJEITO os embargos de declaração.
+Indefiro, por ora, o pedido de condenação da parte recorrente à multa prevista no art. 1.026, § 2º, do CPC/2015, visto que não demonstrada conduta maliciosa ou temerária, a justificar tal sanção.
+Publique-se e intimem-se.
+EMENTA
