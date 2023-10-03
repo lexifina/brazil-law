@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 2.391/2.395) opostos à decisão desta relatoria que deu provimento ao recurso especial de LEONOR BARBOSA BONFIM E SILVA e OUTROS "para extinguir a ação de dissolução parcial de Sociedade Anônima Familiar fechada quanto aos sócios, sem resolução do mérito, por ilegitimidade passiva, na forma do art. 485, VI, do CPC/2015" (e-STJ fl. 2.364).
+A parte embargante sustenta que "o recurso não poderia sequer ser conhecido por esse C. STJ, haja vista o não cumprimento de pressuposto formal extrínseco de admissibilidade: a ausência de pagamento da guia de porte de remessa e retorno, conforme determinado na Resolução STJ nº 25 de 27 de agosto de 2012" (e-STJ fl. 2.392).
+Defende o não conhecimento do recurso da parte embargada em razão da incidência das Súmulas n. 211 do STJ, 282 e 284 do STF, ausência de dissídio jurisprudencial e de violação a dispositivo legal.
+Aponta que a decisão "incorreu-se em obscuridade ao se estender os efeitos da Decisão Embargada a todos os sócios da Mainline Móveis S/A e não somente os sócios recorrentes -- ou seja, os Embargados - alargando a determinação de ilegitimidade a terceiros que não jamais se insurgiram contra a nítida legitimidade passiva que lhes foi confirmada na sentença de dissolução proferida na origem. Nesse ponto, cumpre destacar que, com relação aos sócios Apkels Participações e Empreendimentos Ltda. e Ariel Patric Landwehr, formou-se coisa julgada a respeito de sua legitimidade passiva, o que não pode ser revertido por meio da Decisão Embargada" (e-STJ fls. 2.394/2.395).
+Busca "o acolhimento dos presentes embargos de declaração, a fim de que sejam sanadas a obscuridade e as omissões apontadas na r. Decisão Embargada, nos termos do art. 1.022, I e II do CPC, de modo que se analisem todos os argumentos apresentados pelos Embargantes, que demonstram que (i) o REsp interposto pelos Embargados não poderia ter sequer sido conhecido e (ii) mesmo que fosse passível de conhecimento -- o que não é -- os efeitos do julgamento do REsp não poderiam se estender aos demais sócios da Mainline, somente aos Embargados" (e-STJ fl. 2.395).
+Impugnação apresentada às fls. 2.413/2.427 (e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+No caso, não houve omissão na decisão agravada, tendo sido dado provimento ao recurso de LEONOR BARBOSA BONFIM E SILVA e OUTROS, haja vista ausência de óbice impeditivo do seu conhecimento.
+Não é caso de deserção, pois, segundo a jurisprudência desta Corte Superior, "a isenção do pagamento do porte de remessa e retorno dos autos, prevista em norma interna do STJ, aplica-se a processos que já se encontrem digitalizados no momento da interposição do recurso especial" (AgRg no AREsp n. 350.600/MG, relator Ministro Castro Meira, Segunda Turma, julgado em 17/9/2013, DJe de 2/10/2013).
+Em relação aos sócios que não recorreram, tratando-se a hipótese dos autos de litisconsórcio unitário, em que há uma relação jurídica única ou incindível e a necessidade de uniformidade de decisão para todos os litisconsortes, aplica-se a regra geral prevista no art. 1.005 do CPC, que dispõe que "o recurso interposto por um dos litisconsortes a todos aproveita, salvo se distintos ou opostos a seus interesses".
+No mais, a irresignação com o resultado adverso, por si, não deve ser tratada em sede de embargos de declaração.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+ EMENTA
