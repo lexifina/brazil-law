@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Beatriz Pereira Carneiro Cunha e outras contra os acórdãos de fls. 87-102 e 144-156 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Maranhão, assim ementados:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DESPERSONALIZAÇÃO DA PESSOA JURÍDICA. APLICAÇÃO DO ART. 50 DO CC. POSSIBILIDADE. DECISÃO DE 1o GRAU QUE DEVE SER MANTIDA. MATÉRIA JÁ JULGADA PELO TRIBUNAL DE JUSTIÇA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO CONFORME PARECER MINISTERIAL. I. No caso em tela, devem ser rejeitados os argumentos da agravante, uma vez que é cabível a despersonalização da pessoa jurídica, máxime quando a ação judicial tramita desde 1995. II. Agravo de instrumento conhecido e não provido, conforme parecer ministerial.
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DAS CLÁUSULAS PREVISTAS NO ART. 1.022 DO CPC. EMBARGOS REJEITADOS. I - Não havendo violação das cláusulas enumeradas no art. 1.022 do caderno processual, inviáveis se tornam os embargos de declaração, os quais não se prestam ao rejulgamento da causa. II - Embargos rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 157-167), apontam as insurgentes, além de dissídio jurisprudencial, a existência de violação do art. 50, §§ 1º, 2º e 4º, do CCB. Sustentam, em síntese, a impossibilidade do deferimento da desconsideração da personalidade jurídica considerando apenas a ausência de bens e o tempo da dívida.
+Contrarrazões às fls. 175-187 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 189-192), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Da acurada análise da decisão recorrida, verifica-se que o Tribunal de origem presumiu o abuso da personalidade jurídica considerando apenas o tempo da dívida, sem solução.
+Veja-se à fl. 95 (e-STJ):
+Art. 50. Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, desconsiderá-la para que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares de administradores ou de sócios da pessoa jurídica beneficiados direta ou indiretamente pelo abuso. (Redação dada pela Lei nº 13.874, de 2019)
+§ 1º Para os fins do disposto neste artigo, desvio de finalidade é a utilização da pessoa jurídica com o propósito de lesar credores e para a prática de atos ilícitos de qualquer natureza. (Incluído pela Lei nº 13.874, de 2019)
+§ 2º Entende-se por confusão patrimonial a ausência de separação de fato entre os patrimônios, caracterizada por: (Incluído pela Lei nº 13.874, de 2019)
+I - cumprimento repetitivo pela sociedade de obrigações do sócio ou do administrador ou vice-versa; (Incluído pela Lei nº13.874, de 2019)
+II - transferência de ativos ou de passivos sem efetivas contraprestações, exceto os de valor proporcionalmente insignificante; e (Incluído pela Lei nº 13.874, de 2019)
+III - outros atos de descumprimento da autonomia patrimonial. (Incluído pela Lei nº 13.874, de 2019)
+§ 3º O disposto no caput e nos §§ 1º e 2º deste artigo também se aplica à extensão das obrigações de sócios ou de administradores à pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
+§ 4º A mera existência de grupo econômico sem a presença dos requisitos de que trata o caput deste artigo não autoriza a desconsideração da personalidade da pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
+§ 5º Não constitui desvio de finalidade a mera expansão ou a alteração da finalidade original da atividade econômica específica da pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
+Registra-se que a empresa agravada vem tentando receber seus créditos desde o ano de 1995 e somente agora conseguiu efetivar a penhora. Sabe-se que a desconsideração da personalidade jurídica, apesar de ser uma medida excepcional, mereceu acolhimento, já que pelo longo período sem nenhuma solução em relação ao crédito executado, presume-se claramente o preenchimento dos requisitos da confusão patrimonial, abuso da personalidade jurídica e desvio de finalidade, para evitar o pagamento do crédito, como é o caso dos autos.
+Ocorre que a jurisprudência desta Corte é de que a desconsideração da personalidade jurídica exige a evidência do abuso de direito, caracterizado pelo desvio de finalidade ou confusão patrimonial, e que tal abuso não pode ser presumido pela dissolução irregular ou insolvência.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SÓCIO MINORITÁRIO. PODERES DE GERÊNCIA OU ADMINISTRAÇÃO. AUSÊNCIA DE ATOS FRAUDULENTOS. RESPONSABILIDADE. EXCLUSÃO. AGRAVO INTERNO DESPROVIDO.
+1. "A desconsideração da personalidade jurídica é medida de caráter excepcional que somente pode ser decretada após a análise, no caso concreto, da existência de vícios que configurem abuso de direito, caracterizado por desvio de finalidade ou confusão patrimonial, requisitos que não se presumem em casos de dissolução irregular ou de insolvência. Precedentes" (AgInt no REsp 1.812.292/RO, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 18/5/2020, DJe de 21/5/2020).
+2. Em regra, a desconsideração da personalidade jurídica alcança somente os sócios administradores e aqueles que comprovadamente contribuíram para a prática dos atos caracterizadores do abuso ou fraude. 3. No caso dos autos, deve ser afastada a responsabilidade do sócio minoritário, sem poderes de administração, porquanto não se extrai do v. Acórdão recorrido quaisquer elementos que corroborem ter o citado sócio contribuído para a prática de atos fraudulentos.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.070.566/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Dessa forma, a decisão recorrida não refletiu o entendimento desta Corte, razão pela qual merece reforma.
+Diante do exposto, conheço do recurso especial e dou-lhe provimento para determinar o retorno dos autos à origem para que seja feita nova análise do cabimento da desconsideração da personalidade jurídica com base no entendimento acima exposto.
+Fiquem a s partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NECESSIDADE DA APURAÇÃO DO EFETIVO ABUSO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
