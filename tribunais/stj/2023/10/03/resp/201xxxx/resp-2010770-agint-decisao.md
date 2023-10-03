@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto por RICIERI ROBERTO BANDEIRA contra decisão, de minha relatoria, na qual dei provimento ao recurso especial do INSS para restabelecer a sentença de primeiro grau (e-STJ fls. 982/989).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1012/1015).
+Em suas razões, a parte agravante sustenta que "tem caracterizado o interesse de agir na lide previdenciária de aposentadoria, com direito à REAFIRMAÇÃO DA DER JUDICIAL, porque o INSS indeferiu os seus requerimentos administrativos de reconhecimentos de labor rural e de labor especial, QUE FORAM DECLARADOS SOMENTE NESTA AÇÃO PREVIDENCIÁRIA, sendo incontroversa a continuidade de pagamentos mensais de contribuições previdenciárias - de 23-05-2014 até o momento" (e-STJ fl. 1032).
+Requer, ao final, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não ofertou impugnação (e-STJ fl. 1042).
+Passo a decidir.
+Em novo exame, registro que a matéria controvertida foi objeto de debate no âmbito do colegiado da Primeira Turma desta Corte, na sessão de 22/08/2023. Na ocasião, prevaleceu o entendimento sustentado pela parte autora no sentido de reconhecer o interesse de agir quando o direito do segurado à reafirmação da DER, pela implementação dos requisitos necessários à concessão do benefício previdenciário, ocorrer entre o encerramento do processo administrativo e o ajuizamento da demanda judicial.
+O referido acórdão foi assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. PREENCHIMENTO DOS REQUISITOS DE CONCESSÃO EM PERÍODO POSTERIOR AO REQUERIMENTO ADMINISTRATIVO E ANTECEDENTE À AÇÃO JUDICIAL. INTERESSE DE AGIR CARACTERIZADO. DESNECESSIDADE DE RENOVAÇÃO DA POSTULAÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE DE REAFIRMAÇÃO DA DER PARA A DATA DE IMPLEMENTO. TERMO INICIAL DO BENEFÍCIO. CITAÇÃO VÁLIDA. PRECEDENTES.
+I - O Supremo Tribunal Federal, no julgamento do Tema n. 350/STF, fixou orientação segundo a qual a concessão de benefícios previdenciários depende de prévio requerimento do interessado na seara administrativa, porquanto para configurar o interesse de agir é preciso estar caracterizada a necessidade da prestação jurisdicional para a satisfação da pretensão do autor.
+II - Havendo pedido de reconhecimento de tempo de contribuição, em relação ao qual o INSS se insurgiu, forçoso reconhecer o atendimento ao princípio da necessidade, pois o indeferimento desse pedido dá causa à demanda judicial.
+III - A Primeira Seção, no julgamento dos Embargos de Declaração do Tema n. 995/STJ, deliberou pela impossibilidade de reafirmação da DER para a data de implemento dos requisitos de concessão quando o fato superveniente for posterior à propositura da ação.
+IV - Não se obstou a viabilidade de reconhecimento do direito à prestação previdenciária nessas hipóteses, apenas rechaçou-se a possibilidade de reafirmação da DER para a data de implemento dos requisitos correspondentes ao benefício, impondo-se a fixação do termo inicial na data da citação válida do INSS.
+V - Agravo interno parcialmente provido. (REsp n. 2.018.250/RS, Rel. Min. Gurgel de Faria, Rel. p/ Acórdão Min. Regina Helena Costa, julgado em 22/08/2023, DJe de 31/08/2023).
+Por essa razão, torno sem efeito as decisões agravadas e, analisando novamente o recurso, reconheço que assiste razão em parte ao INSS.
+Segundo se colhe dos autos, o Tribunal de origem manifestou-se no sentido de que é possível o reconhecimento da reafirmação do requerimento administrativo em período anterior à demanda e de que deve ser considerado como termo inicial da aposentadoria o momento do preenchimento dos requisitos.
+Ocorre que, no caso de a implementação dos requisitos antes do ajuizamento da demanda, os efeitos financeiros decorrentes da aposentadoria devem ter seu termo inicial fixado na citação, data em que a autarquia tomou ciência da pretensão de concessão d o benefício mediante reafirmação da DER.
+Ante o exposto, em juízo de retratação, TORNO SEM EFEITO as decisões de e-STJ fls. 982/989 e 1. 012/1.015 e, com base no art. 255, § 4º, II e III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial do INSS para fixar o termo inicial do benefício a partir da citação.
+Publique-se. Intimem-se.
+EMENTA
