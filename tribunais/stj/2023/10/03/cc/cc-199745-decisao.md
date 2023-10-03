@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO FEDERAL DA 4A VARA DE CAMPO GRANDE - SJ/MS (suscitante) e o JUÍZO DE DIREITO DA 2A VARA DA FAZENDA PÚBLICA E REGISTROS PÚBLICOS DE CAMPO GRANDE - MS (suscitado), nos autos de cumprimento de sentença proposto pelo INSS contra o Estado de Mato Grosso do Sul, visando ao ressarcimento das despesas adiantadas pela autarquia previdenciária a título de honorários periciais.
+O Juízo suscitado declinou de sua competência ao o argumento de que, embora a ação tenha sido ajuizada em desfavor do Estado de Mato Grosso do Sul, o polo ativo é autarquia federal, razão por que compete à Justiça Federal processar e julgar o feito, nos termos do art. 109, I, da Constituição Federal (fls. 36/38).
+O Juízo suscitante, por sua vez, suscitou o presente conflito argumentando, em suma, o seguinte (fls. 54/55):
+Tratando-se de procedimento executório de título executivo judicial, não há que se falar em autonomia da execução, a qual, ao revés, se processa como módulo processual de processo sincrético, isto é, como fase de cumprimento de sentença (art. 513 e ss. do CPC).
+Nesse contexto, não surpreende a opção legislativa por atribuir ao juízo prolator da sentença, em primeiro grau, a competência para fazer cumpri-la. São os dizeres do art. 516, II do CPC.
+No caso destes autos, ainda que o exequente seja autarquia federal - o que, em regra, atrairia a competência para a Justiça Federal -, a fase cognitiva do processo tramitou perante a Justiça Estadual, por força da exceção constante no art. 109, I da CF, dada a natureza acidentária da causa.
+Nesse passo, considerando a sistemática do rito executivo civil e a noção de sincretismo processual, entendo que a competência estadual, para julgar demandas em que o INSS é parte, não se esgota na fase cognitiva do processo, devendo estender-se, também, para a fase de cumprimento de sentença.
+À luz do exposto, concluo pela inviabilidade de a Justiça Federal executar, em sede de cumprimento de sentença, decisões judiciais prolatadas pela Justiça Estadual, ainda que digam respeito à autarquia previdenciária federal. Nesse sentido, veja-se:
+ ..
+Registro, por oportuno, que o entendimento ora esposado não destoa da jurisprudência do e. STJ, o qual, em casos que tais, vem reconhecendo a competência estadual, conforme se extrai dos seguintes julgados: CC 174.194 (publicado em 29.10.2020) e CC 174.172 (publicado em 01.03.2021).
+Em parecer, o Ministério Público Federal opinou a favor de que seja declarada a competência do Juízo de Direito da 2ª Vara da Fazenda Pública e Registros Públicos de Campo Grande - MS, o suscitado (fls. 61/65).
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+Discute-se nos presentes autos a competência para processar e julgar ação de execução de sentença instaurada contra o Estado de Mato Grosso do Sul, objetivando a devolução de valores adiantados pela autarquia federal em ação de natureza acidentária julgada improcedente, na qual a parte sucumbente era beneficiária de gratuidade de justiça.
+Conforme preconiza o art. 516, II, do CPC/2015: "O cumprimento da sentença efetuar-se-á perante: II - o juízo que decidiu a causa no primeiro grau de jurisdição".
+O Superior Tribunal de Justiça já se posicionou no sentido de que "embora não haja título executivo formal contra o Estado, fato é que a sua responsabilidade decorre do fato de a requerente/vencida ser beneficiária da justiça gratuita (..) mesmo que o Estado não tenha participado da lide originária, é cabível o cumprimento da sentença iniciado pelo INSS visando o ressarcimento dos honorários periciais antecipados pela autarquia previdenciária, porque a autora/vencida é beneficiária da justiça gratuita" (AREsp 1.615.830/MS, relatora Ministra Assusete Magalhães, decisão monocrática, julgado em 27/9/2020, DJe 2/9/2020).
+No mesmo sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. HONORÁRIOS PERICIAIS. HIPÓTESE EM QUE O ÔNUS RECAI SOBRE BENEFICIÁRIO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. RESPONSABILIDADE DO ESTADO.
+1. Esta Superior Corte possui entendimento de que o ônus de arcar com honorários periciais na hipótese em que a sucumbência recai sobre o beneficiário da assistência judiciária deve ser imputado ao Estado. Precedentes.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 151.478/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/3/2013, DJe 12/3/2013.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). HONORÁRIOS PERICIAIS. BENEFICIÁRIO DA GRATUIDADE DE JUSTIÇA SUCUMBENTE. OBRIGAÇÃO DO ESTADO. FALTA DE INTERESSE RECURSAL. AGRAVO INTERNO DESPROVIDO COM APLICAÇÃO DE MULTA.
+(AgInt no AREsp 923.112/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/6/2017, DJe 1º/8/2017.)
+Dessa forma, não obstante a presença da autarquia previdenciária federal no polo ativo da demanda, o cumprimento de se ntença deverá prosseguir no Juízo estadual da Fazenda Pública.
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo de Direito da 2ª Vara da Fazenda Pública e Registros Públicos de Campo Grande - MS, ora suscitado, para processamento e julgamento do feito.
+Publique-se. Comunique-se.
+EMENTA
