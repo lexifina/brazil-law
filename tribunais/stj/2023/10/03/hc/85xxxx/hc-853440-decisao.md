@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 133):
+HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - Pedido de revogação da prisão preventiva - Pressupostos e fundamentos para a segregação provisória presentes - Decisão que justifica suficientemente a custódia cautelar - Constrangimento ilegal não verificado - Ordem denegada.
+Narram os autos que o paciente foi preso preventivamente pela suposta prática do crime tipificado no art. 121, §2º, inciso III, c/c art. 14, II, do Código Penal.
+Sustenta a defesa, em suma, ausência dos requisitos autorizadores da prisão preventiva, requerendo, liminarmente e no mérito, a revogação da custódia.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não conhecimento ou denegação da ordem.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi assim decretada (fl. 130):
+1. Os fatos e suas circunstâncias estão devidamente articulados na denúncia, foram delimitados no tempo, no espaço e a conduta imputada ao acusado foi individualizada.
+A materialidade do crime testifica-se essencialmente do laudo de exame de corpo de delito a que foi submetida a vítima, encartado nos autos às folhas 37/38.
+Há indícios de autoria contra o denunciado, consubstanciados, em síntese, nas declarações da vítima, nos depoimentos das testemunhas, nos relatórios de investigação e no próprio interrogatório do réu, que confessou a autoria do fato, ainda que sob circunstâncias diversas daquelas a ele imputados.
+2. Sob tais fundamentos, RECEBO A DENÚNCIA oferecida às folhas 86/88, bem como seu aditamento de folhas 93/94, em desfavor de Thiago Wallace de Jesus Quadro, qualificado nos autos, pela prática do crime previsto no artigo 121, § 2º, inciso III c.c. artigo 14 II todos do Código Penal, para o fim de processa-lo segundo o procedimento previsto nos artigos 406 e seguintes do Código de Processo Penal.
+3. Passo à análise das representações pela prisão preventiva do denunciado.
+Reuniram-se significativos indícios do envolvimento do denunciado no crime de homicídio tentado ora apurado, o qual teria sido cometido em um evento conhecido como "fluxo" que acontecia no local dos fatos.
+Consta que o réu compareceu ao local portanto arma de fogo, a qual foi manuseada pela namorada do réu, Diovana, que teria apontado-a na direção da vítima, dando inicio a uma confusão.
+Consta, outrossim, que o réu tentou efetuar disparos em direção à cabeça da vítima, os quais somente não foram realizados em razão de falha do referido armamento. Posteriormente, o réu conseguiu efetuar novos disparos, tendo a vítima sido atingida no ombro.
+Tais circunstâncias apontam para concreta gravidade do fato e periculosidade do agentes. Pese o acusado tenha confessado espontaneamente a autoria do fato, tal caracteriza, em tese, o crime de homicídio doloso, na modalidade tentada, qualificado pelo emprego de meio que resultou perigo comum, delito hediondo, portanto.
+Além disso, logo após os fatos, o denunciado se mudou para o município de Jeremoabo-BA.
+A prisão preventiva emerge como medida imperiosa para preservar a ordem pública face a imensa gravidade concreta dos fatos, as circunstâncias pessoais desfavoráveis do denunciado e o risco de, em liberdade, tornar a delinquir.
+Ainda por tais circunstâncias, há evidente risco de que o réu venha tomar rumo ignorado, frustrando a aplicação da Lei Penal, já que, logo após os fatos, ele se evadiu do distrito da culpa.
+A prisão também é conveniente à instrução, de maneira a que a vítima e as testemunhas sejam ouvidas livres de constrangimentos e riscos.
+Pelo exposto, acolho as representações da autoridade policial e do Ministério Público e decreto a prisão preventiva de THIAGO WALLACE DE JESUS QUADRO para preservar a ordem pública, por convir à instrução e *como meio de assegurar a aplicação da Lei Penal. Expeça-se mandado de prisão.
+Como se vê, consta do decreto prisional fundamentação idônea, baseada nas circunstâncias do crime, destacando-se que "o réu tentou efetuar disparos em direção à cabeça da vítima, os quais somente não foram realizados em razão de falha do referido armamento. Posteriormente, o réu conseguiu efetuar novos disparos, tendo a vítima sido atingida no ombro".
+Consignou-se, ainda, que, "após os fatos, o denunciado se mudou para o município de Jeremoabo-BA".
+Com efeito, a prisão preventiva impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confiram-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ademais, a fuga do distrito da culpa é fundamento válido à prisão cautelar, a fim de assegurar a aplicação da lei penal. Confiram-se: RHC n. 52.178/DF - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe 2/12/2014; HC n. 289636/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 46439/PR - 5ª T. - unânime - Rel. Min. Marco Aurélio Bellizze - DJe 2/5/2014; HC n. 261383/MG - 5ª T. - Rel. Min. Laurita Vaz - DJe 3/4/2014; HC n. 189212/MG - 6ª T. - unânime - Rel. Min. Marilza Maynard - Des. convocada do TJSE - DJe 12/12/2013.
+Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
+EMENTA
