@@ -1,0 +1,13 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE EXECUÇÕES CRIMINIAIS DE PALMEIRAS DAS MISSÕES - RS suscita conflito de competência, em execução penal, diante do JUÍZO FEDERAL DA CORREGEDORIA DA PENITENCIÁRIA DE MOSSORÓ - SJ/RN.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para avaliar a necessidade de transferência de preso para presídio de segurança máxima (se basta que essa avaliação de conveniência seja feita pelo juízo que determina a sua inclusão nesse sistema).
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito, para que seja declarado competente o Juízo Federal da Corregedoria da Penitenciária Federal em Mossoró - SJ/RN, ora suscitado (fls. 298-305).
+Decido.
+Com razão o Ministério Público Federal. No caso, observa-se que o Juízo suscitante declinou os fundamentos que subsidiariam a necessidade de inclusão do custodiado em estabelecimento federal, em razão da sua alta periculosidade e dos riscos de mantê-lo na Penitenciária local.
+Deveras, como afirmou, "o sistema penitenciário gaúcho não possui condições de gerir/custodiar um preso de tamanha periculosidade, chefe de facção que atua nesta região, com elevado grau de comando, tendo sido apontado como mandante de diversos homicídios, na região, inclusive quando segregado" (fl. 4).
+Assim, denota-se claramente que o custodiado é líder de organização criminosa de alta periculosidade e bastante estruturada, cujo retorno ao estabelecimento prisional estadual poderá ocasionar grave risco à ordem pública.
+Ora, uma vez explicitada adequadamente a necessidade da transferência do preso para presídio de segurança máxima, não cabe ao Juízo Federal da Corregedoria da Penitenciária de Mossoró - SJ/RN emitir juízo de valor a respeito do decidido pelo Juízo de origem, único habilitado, a partir da análise do caso concreto, a aferir a necessidade de adoção da medida, nos termos da orientação desta Corte.
+Nesse sentido: "A Terceira Seção desta Corte Superior de Justiça entende que não cabe ao Juízo Federal Corregedor discutir as razões do Juízo que solicitou a medida de transferência de preso para estabelecimento prisional de segurança máxima - ou que pediu a renovação do prazo de permanência - porquanto este é o único habilitado a declarar a excepcionalidade da medida" (AgRg no CC n. 181.039/MS, Rel. Ministro Joel Ilan Paciornik, DJe 27/9/2021).
+Ante o exposto, conheço do conflito, a fim de declarar competente o Juízo Federal da Corregedoria da Penitenciária Federal em Mossoró - SJ/RN, ora suscitado, para incluir o custodiado no Sistema Penitenciário Federal , a partir do juízo de conveniência ou necessidade feito pelo Juízo suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
