@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/09/2023 a 03/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Messod Azulay Neto, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Batista Moreira (Desembargador convocado do TRF1) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA NULIDADE DA PROVA OBTIDA MEDIANTE ANÁLISE DAS CONVERSAS EXTRAÍDAS DO APARELHO CELULAR. QUEBRA DE SIGILO TELEMÁTICO COM AUTORIZAÇÃO JUDICIAL. HIPÓTESE DO PARADIGMA DIVERSA. MANIFESTA AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS COMPARADOS. DISSÍDIO INEXISTENTE. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sob o pretexto de haver "omissão", a Embargante busca, indisfarçavelmente, impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a matéria decidida, o que não se coaduna com a via eleita.
+2. Não há omissão nenhuma no acórdão embargado, que foi claro e expresso ao refutar a insistência da ora Embargante em rediscutir, em embargos de divergência, via imprópria, as premissas fáticas estabelecidas pelas instâncias ordinárias e adotadas pelo acórdão da Quinta Turma.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por REBECA ADORNO BLANCO NUNES contra acórdão desta TERCEIRA SEÇÃO, por mim relatado, e ementado nestes termos:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA NULIDADE DA PROVA OBTIDA MEDIANTE ANÁLISE DAS CONVERSAS EXTRAÍDAS DO APARELHO CELULAR. QUEBRA DE SIGILO TELEMÁTICO COM AUTORIZAÇÃO JUDICIAL. HIPÓTESE DO PARADIGMA DIVERSA. MANIFESTA AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS COMPARADOS. DISSÍDIO INEXISTENTE. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão embargado consignou expressamente que, "no caso dos autos, não haveria prova de que os policiais teriam acessado o celular da agravante antes da autorização judicial, constando, inclusive, da prova oral que ela teria permanecido na posse do aparelho mesmo após o flagrante." E o acesso aos dados telefônicos se deu mediante autorização judicial.
+2. No acórdão paradigma, ao contrário da hipótese destes autos, não houve autorização judicial e a controvérsia girava em torno da existência ou não de autorização do suspeito, preso em flagrante, de acesso dos policiais ao celular, mediante a entrega de senha.
+3. Constata-se, portanto, manifesta ausência de similitude fático-jurídica entre os casos comparados, o que enseja a inadmissibilidade dos embargos de divergência.
+4. Agravo regimental desprovido."
+Alega a Embargante que o acórdão embargado incorreu em omissão "ao desconsiderar argumentos da defesa que expuseram que os casos em comparação possuem idêntica situação fático-jurídica, pois a flagrante ilegalidade aqui posta diz respeito ao momento do flagrante, que se deu previamente à autorização judicial, e no qual se demonstrou não ter havido autorização da embargante para acesso ao seu celular pelos policiais, exatamente como no acórdão paradigma" (fl. 1675).
+Insiste na demonstração do dissídio jurisprudencial porque "a C. Quinta Turma considerou que a palavra do policial em juízo, por si só, bastaria para atestar que não houve devassa aos dados sem autorização, contrariando as demais provas dos autos."
+Requer, pois, o acolhimento dos embargos, "para se sanar a omissão supramencionada, com a concessão de especiais efeitos infringentes, para que seja provido o presente Agravo Regimental, para que seja conhecido e seja determinando o processamento dos embargos de divergência" (fl. 1678).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA NULIDADE DA PROVA OBTIDA MEDIANTE ANÁLISE DAS CONVERSAS EXTRAÍDAS DO APARELHO CELULAR. QUEBRA DE SIGILO TELEMÁTICO COM AUTORIZAÇÃO JUDICIAL. HIPÓTESE DO PARADIGMA DIVERSA. MANIFESTA AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS CASOS COMPARADOS. DISSÍDIO INEXISTENTE. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Sob o pretexto de haver "omissão", a Embargante busca, indisfarçavelmente, impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a matéria decidida, o que não se coaduna com a via eleita.
+2. Não há omissão nenhuma no acórdão embargado, que foi claro e expresso ao refutar a insistência da ora Embargante em rediscutir, em embargos de divergência, via imprópria, as premissas fáticas estabelecidas pelas instâncias ordinárias e adotadas pelo acórdão da Quinta Turma.
+3. Embargos de declaração rejeitados.
+VOTO
+Sob o pretexto de haver "omissão", a Embargante busca, indisfarçavelmente, impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a matéria decidida, o que não se coaduna com a via eleita.
+Não há omissão nenhuma no acórdão embargado, que foi claro e expresso ao refutar a insistência da ora Embargante em rediscutir, em embargos de divergência, via imprópria, as premissas fáticas estabelecidas pelas instâncias ordinárias e adotadas pelo acórdão da Quinta Turma, in verbis:
+"O acórdão embargado consignou expressamente que, "no caso dos autos, não haveria prova de que os policiais teriam acessado o celular da agravante antes da autorização judicial, constando, inclusive, da prova oral que ela teria permanecido na posse do aparelho mesmo após o flagrante."
+A Embargante, ora Agravante, insiste em contrariar a premissa fática adotada no acórdão paradigma, discussão que, evidentemente, não cabe em embargos de divergência, que não se presta a mero rejulgamento do recurso especial (fl. 1623)."
+Conforme anotado no acórdão embargado, "A falta de similitude fático-jurídica entre o acórdão embargado e o apresentado como paradigma obsta a admissão do recurso de embargos de divergência, pois tem-se por não cumpridos os arts. 1.043, § 4º, do CPC e 266, § 4º, do RI/STJ" (AgInt nos EDcl nos EAREsp 1337814/RS, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, DJe de 24/03/2022).
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO JULGADO. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+1. Não há violação do art. 932, IV, do CPC, porquanto a decisão monocrática fundamentou-se na jurisprudência desta corte. No mais, a possível violação fica suprida com a apreciação do agravo interno pelo colegiado. Precedente.
+2. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+3. O acórdão embargado, de maneira clara, analisou todos os pontos tidos por omissos ou obscuros.
+4. Os embargos de divergência, caracterizados como recurso de fundamentação vinculada, devem, necessariamente, demonstrar o confronto de teses entre o acórdão embargado e aquele apontado com paradigma, não sendo possível sua interposição com intuito de mera rediscussão do quanto já decidido em recurso especial. Precedente.
+5. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados." (EDcl no AgInt nos EDcl nos EREsp n. 1.882.262/TO, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 25/0 8/2023.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
