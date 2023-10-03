@@ -1,0 +1,25 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno (e-STJ, fls. 142/147), reconsidero a decisão e-STJ, fls. 136/138 e passo a novo exame do agravo em recurso especial interposto pelo BANCO ITAUCARD S.A (e-STJ, fls. 122/127), contra decisão que não conheceu do recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: de busca e apreensão ajuizada pelo BANCO ITAUCARD S.A em face de PAMELLA CRISTINA MOREIRA DE FREITAS.
+Sentença: extinguiu o feito, nos termos do 485, IV, do CPC, ante ausência dos pressupostos de constituição e de desenvolvimento válido e regular do processo.
+Acórdão: negou provimento ao recurso do agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO - ALIENAÇÃO FIDUCIÁRIA - NOTIFICAÇÃO EXTRAJUDICIAL ENVIADA PARA O ENDEREÇO INDICADO NO CONTRATO - DEVOLUÇÃO DO AR COM O MOTIVO "OUTROS" - PROTESTO DO TÍTULO NÃO REALIZADO - MORA NÃO COMPROVADA - AUSÊNCIA DE PRESSUPOSTO PARA O DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - SENTENÇ MANTIDA - RECURSO DESPROVIDO. Nos termos do Decreto Lei nº. 911 /69, exige-se como requisito para a propositura da ação de busca e apreensão a comprovação da mora do devedor, que pode ser feita através de correspondência, com aviso de recebimento, para o endereço constante do contrato, ou pelo protesto do título com intimação por edital. Considerando que a notificação extrajudicial enviada pelo credor para o endereço do devedor, ainda que constante do contrato, retornou com resultado negativo pelo motivo "Outros", em rigor, deveria ter a parte credora, não localizando o devedor, ter providenciado o protesto do título, com respectiva notificação por edital, mas assim não o fez, motivo pelo qual a manutenção do decisum que bem julgou extinto o feito por ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo deve ser mantido." (e-STJ, fls. 64/65)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 2º, §2º, e 3º, do DL 911/69, sustentando que se o devedor não pode ser encontrado no endereço fornecido ao credor, deve ser considerada válida a notificação expedida no endereço do contrato, para fins de sua constituição em mora em razão da boa-fé objetiva, que deve reger as relações contratuais.
+Decisão agravada: não conheceu do agravo em recurso especial, ante a incidência da Súmula 284/STf.
+Agravo interno: alega ter preenchido todos os requisitos para a interposição do recurso, pugnando pelo afastamento da Súmula aplicada, pois descabida. Repisa, no mais, os argumentos expendidos anteriormente , em defesa de suas teses.
+É O RELATÓRIO.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com base na incidência da Súmulas 83 do STJ, relativamente às alegadas ofensas.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, o óbice aplicado, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Especificamente quanto à Súmula 83/STJ, cumpre esclarecer, que seu afastamento deve ser demonstrado com a indicação de precedentes relativos à tese defendida, contemporâneos ou supervenientes aos referidos na decisão agravada, e com o devido cotejo analítico e similitude fática ao caso tratado nos autos, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não houve na espécie, na medida em que a agravante apenas alega haver jurisprudência em seu favor, sem qualquer demonstração ou indicação de qualquer precedente nesse sentido.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, reconsiderando a decisão agravada, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Deixo de majorar os honorários recursais, pois não fixados na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Decisão reconsiderada. Agravo em recurso especial não conhecido.
