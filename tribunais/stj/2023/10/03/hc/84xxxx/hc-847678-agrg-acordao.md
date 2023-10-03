@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. CRIME NOVO. PERDA DOS DIAS REMIDOS. FRAÇÃO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "a falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE)" (HC n. 466.243/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe de 10/12/2018).
+2. Na hipótese, a sanção disciplinar fundamentou-se em argumentação idônea, pois o Magistrado levou em conta a natureza da falta, qualificada como de acentuada gravidade, pois consubstanciada na prática de novo crime durante a execução das penas (dentro da cela), motivação idônea e que, conforme o princípio da proporcionalidade, justifica, inclusive, a escolha da fração máxima de 1/3.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ISMAEL GOMES AMORAS interpõe agravo regimental contra a decisão de fls. 154-156, por meio da qual deneguei a ordem de habeas corpus.
+Em suas razões, o agravante sustenta que "a fração aplicada na atual sentença é desproporcional ao quadro fático, bem como não atinge o objetivo punitivo" (fl. 164). Nesse sentido, aduz que " a  conduta em comento não foi cometida com violência ou grave ameaça e o agravante sempre foi detentor do bom comportamento carcerário, logo, a determinação de perda de 1/3 (um terço) do tempo remido, carece de fundamentação concreta, logo, não está em consonância com o artigo 57 da LEP, restando evidente a falta de ponderação do magistrado singular" (fl. 164).
+Argumenta que, ainda que "observa-se que a fração do perdimento das remições deverá ser de 1/6 (um sexto) e não de 1/3 (um terço) como determinado pelo magistrado singular" (fl. 164).
+Requer o provimento do regimental, a fim de que seja concedida a ordem de habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. CRIME NOVO. PERDA DOS DIAS REMIDOS. FRAÇÃO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "a falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE)" (HC n. 466.243/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe de 10/12/2018).
+2. Na hipótese, a sanção disciplinar fundamentou-se em argumentação idônea, pois o Magistrado levou em conta a natureza da falta, qualificada como de acentuada gravidade, pois consubstanciada na prática de novo crime durante a execução das penas (dentro da cela), motivação idônea e que, conforme o princípio da proporcionalidade, justifica, inclusive, a escolha da fração máxima de 1/3.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A irresignação não merece prosperar.
+Conforme dito anteriormente, o Tribunal de Justiça deu provimento ao agravo em execução do Ministério Público estadual, a fim de decertar a perda dos dias remidos, nos seguintes termos:
+Sobre os dias remidos, é cediço que o art. 57 da LEP disciplina que "na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão" .
+Contudo, conforme entendimento do Superior Tribunal de Justiça, "a natureza especialmente grave da falta disciplinar (fuga) justifica a adoção do percentual máximo de perda dos dias remidos (HC n. 347.147/RS, relator o Ministro Joel Ilan Paciornik, Quinta Turma , DJe de 18/5/2016)" (AgRg no HC n. 689.147/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022).
+Sendo assim "a prática de novo delito durante o cumprimento de pena surge, do ponto de vista de reinserção do apenado na sociedade, como uma das piores, senão a pior, práticas infracionais, na medida em que demonstra que o reeducando não assimilou o caráter ressocializador da reprimenda, quebrando por completo a confiança anteriormente conquistada e que lhe colocou no regime aberto" (TJSC, Agravo de Execução Penal n. 5001365-31.2021.8.24.0064, rel. Luiz Antônio Zanini Fornerolli, Quarta Câmara Criminal, j. 08-04-2021).
+Deste modo, impossível ignorar que a prática de crime de roubo no momento que estava evadido do sistema prisional, o que revela uma conduta demasiadamente grave, extrapolando o grau de reprovabilidade abstrato previsto para a tipificação.
+Por todo o exposto, voto no sentido de conhecer e dar provimento ao recurso (fl. 89, grifei).
+Reafirmo que o acórdão recorrido está conforme a jurisprudência desta Corte, firme em assinalar que a "perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a Lei de Execução Penal, nos seus arts. 57 e 127" (HC n. 663.285/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T, DJe 30/8/2021).
+Na hipótese, a sanção disciplinar fundamentou-se em argumentação idônea, pois o Magistrado levou em conta a natureza da falta, qualificada como de acentuada gravidade, pois consubstanciada na prática de novo crime durante a execução das penas (dentro da cela), motivação idônea e que, conforme o princípio da proporcionalidade, justifica, inclusive, a escolha da fração máxima de 1/3.
+Aplica-se ao caso a compreensão de que "a falta grave consistente em novo crime justifica a adoção do percentual máximo de perda dos dias remidos (art. 127 da Lei de Execução Penal - LEE)" (HC n. 466.243/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe de 10/12/2018).
+Todavia, no caso dos autos, importante ressaltar apenas que o pedido feito pelo Parquet estadual cingiu-se à perda do benefício em comento da fração de 1/4 (fl. 78), de modo não haver se falar em alteração desse percentual, diante do provimento dado pela Corte local.
+De toda forma, "a discricionariedade prevista no artigo 127 da Lei de Execução Penal não se refere à aplicabilidade ou não da sanção  .. , mas tão somente à fração que incidirá no caso concreto, à luz das circunstâncias ali previstas" (AgRg no AREsp n. 957.884/MG, Rel. Ministro Jorge Mussi, 5ª T., DJe 22/3/2017).
+In casu, a perda de dos dias eventualmente remidos na fração eleita foi justificada considerando a gravidade da conduta, conforme exposto. Não há vício de fundamentação a ensejar a revisão do julgado.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+A propósito: "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+À vista do exposto, nego provimento ao agravo regimental.
