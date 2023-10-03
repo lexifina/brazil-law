@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FRANCISCO DE ASSIS DA SILVA (FRANCISCO), MARIA DO PILAR MACIEL DA SILVA (MARIA), FORMATUS MÓVEIS LTDA ME (FORMATUS), contra decisão monocrática de minha relatoria, assim ementada:
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. 1. OMISSÃO. NÃO DEMONSTRAÇÃO. SÚMULA Nº 284 DO STF. DISPOSITIVO LEGAL INVOCADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. 2. BLOQUEIO DE VALORES. TRANSFERÊNCIA TARDIA PARA CONTA JUDICIAL. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA PELOS ENCARGOS MORATÓRIOS. NÃO RECONHECIMENTO. SÚMULA Nº 83 DO STJ. 3. REFORMATIO IN PEJUS. ALTERAÇÃO DA DECISÃO DE PRIMEIRO GRAU. NÃO OCORRÊNCIA. INEXISTÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DO ACÓRDÃO APTO, POR SI SÓ, A MANTER A DECISÃO. SÚMULA Nº 283 DO STF. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE OS ÓBICES SUMULARES. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO. (e-STJ, fls. 336/343).
+Nas razões do presente inconformismo, defendeu que a decisão foi omissa, pois não observou novo entendimento fixado no Tema nº 677 do STJ, perfeitamente aplicável ao caso em tela.
+Foi apresentada contraminuta (e-STJ, fls. 356/359).
+É o relatório.
+Da inexistência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Ao contrário do que entende FRANCISCO e OUTROS não se aplica no caso em tela a tese firmada no Tema Repetitivo nº 677 do STJ, que dispõe: Na execução, o depósito efetuado a título de garantia do juízo ou decorrente da penhora de ativos financeiros não isenta o devedor do pagamento dos consectários de sua mora, conforme previstos no título executivo, devendo-se, quando da efetiva entrega do dinheiro ao credor, deduzir do montante final devido o saldo da conta judicial.
+Isso porque, a fundamentação do acórdão traz peculiaridades que não permitem fazer a exata correlação entre a tese firmada e o caso em concreto. Confira-se:
+Eventual retardamento da conversão da verba bloqueada em depósito ensejará a ausência de atualização monetária do valor e não poderá ser imputado ao agravado. Isso porque a transferência da verba bloqueada para conta vinculada ao Juízo deveria ter sido requerida pelos agravantes ou determinada, de ofício, pelo Juízo.
+Em outras palavras, o grande lapso temporal havido entre o bloqueio do débito até efetiva transferência para conta judicial não pode ser imputado ao executado, mas sim ao exequente (e-STJ, fls. 121).
+Tendo bem vista que a demora na transferência dos valores bloqueados para a conta vinculada do Juízo foi imputada ao exequente, não há como determinar a incidência de encargos moratórios em desfavor da instituição financeira.
+Dessa forma, a mera veiculação de inconformismo com o resultado do julgamento, que a parte reputa lhe ter sido desfavorável, não é finalidade a que se presta a via eleita.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM PEDIDOS DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. CONTRADIÇÃO. OMISSÃO. OBSCURIDADE. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação de indenização por danos materiais cumulada com pedidos de obrigação de fazer e compensação por danos morais.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui- se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.524.835/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 17/2/2020, DJe 19/2/2020 - sem destaque no original).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. IMPUGNAÇÃO DE DECISÃO ANTERIOR AO JULGAMENTO PROFERIDO NO AGRAVO INTERNO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. "Os embargos de declaração devem ter como objeto apenas o decisum embargado, não se prestando para sanar eventual vício ocorrido em decisão judicial anterior, em face da ocorrência da preclusão.  ..  Nos termos do enunciado n.º 317 da Súmula do Supremo Tribunal, "São improcedentes os embargos declaratórios, quando não pedida a declaração do julgado anterior, em que se verificou a omissão" (EDcl nos EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no REsp 1.267.160/PR, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 30/8/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.427.815/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 17/2/2020, DJe 20/2/2020 - sem destaques no original).
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. BLOQUEIO DE VALORES. TRANSFERÊNCIA TARDIA PARA CONTA JUDICIAL. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA PELOS ENCARGOS MORATÓRIOS. NÃO RECONHECIMENTO. DEMORA IMPUTADA À PARTE EXEQUENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
