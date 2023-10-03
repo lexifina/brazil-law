@@ -1,0 +1,10 @@
+DECISÃO
+MÁRCIO RODRIGUES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0004853-75.2023.8.26.0348, em que foi mantida a decisão que "indeferiu o seu pedido de indulto de penas formulado com base no Decreto Presidencial n. 11.302/22" (fl. 15).
+Asseriu a defesa, perante a Corte de origem, que " o  sentenciado preencheu os requisitos para obtenção do benefício, nos termos do artigo 5º do decreto presidencial" (fl. 15).
+Todavia, consoante asseverou o Tribunal local, " n os termos do artigo 5º do Decreto nº 11.302/2022, será concedido indulto à pessoa condenada por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos. Contudo, nos termos do preceito secundário do artigo 155, parágrafo 4º, do Código Penal, o crime de furto qualificado é apenado com reclusão de 2 a 8 anos, ou seja, a pena máxima em abstrato é superior a 5 anos" (fls. 21, sublinhei).
+A esse respeito, urge consignar que " o  indulto, ato político, está previsto no art. 84, XII, da CF, e é privativo do Presidente da República. Vale dizer, tem por escopo extinguir os efeitos primários da condenação, isto é, a pena, de forma plena ou parcial (perfazendo a comutação).  ..  Como ato discricionário do Chefe do Poder Executivo, concedido por meio de decreto, o indulto é dirigido a apenados circunscritos às condições e situações específicas delineadas, cujos efeitos se irradiam por período de tempo estabelecido. Não restando preenchidos os requisitos, não há aplicar referido decreto" (HC n. 118.128/SC, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 20/10/2009, DJe de 16/11/2009, grifei.)
+No mesmo sentido:
+ ..  Tratando-se o indulto e a comutação de pena de atos discricionários do Presidente da República, cabe a este a definição da extensão do benefício, a teor do art. 84, XII, da Constituição Federal  ..  (HC n. 193.694/SP, relator Ministro Gurgel de Faria, Quinta Turma, DJe de 4/11/2014.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
