@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AROLDO IGOR BERNARDO DA COSTA contra decisão de minha lavra, na qual deneguei a ordem de habeas corpus, nos termos da seguinte ementa (fl. 199):
+"HABEAS CORPUS. PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE ABSOLVIÇÃO QUANTO AO CRIME DO ART. 35 DA LEI N. 11.343/2006. REQUISITOS RECONHECIDOS, NA ORIGEM, COM BASE EM DADOS CONCRETOS. INVERSÃO DO JULGADO. NECESSIDADE, NA HIPÓTESE, DE AMPLA REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI DE DROGAS. MANUTENÇÃO DA CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. IMPOSSIBILIDADE DE SE RECONHECER O TRÁFICO PRIVILEGIADO. ORDEM DENEGADA."
+O Embargante aduz que o parecer do Ministério Público Federal juntado aos autos é referente a procedimento diverso, tratando de tema também diverso, o que acarretaria nulidade da decisão em razão da ausência de manifestação ministerial sobre o caso.
+Requer o acolhimento dos embargos, com o reconhecimento da nulidade da decisão e a remessa dos autos ao Ministério Público Federal para prolação de novo parecer.
+O Ministério Público Federal manifestou-se sobre os embargos de declaração às fls. 227-230, opinando pela rejeição dos embargos.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, vícios inexistentes na espécie.
+A controvérsia foi decidida em conformidade com a jurisprudência desta Corte na matéria e, como se sabe, "O pronunciamento da Procuradoria da República, na qualidade de custos legis, não vincula o julgador, pois a manifestação do Ministério Público, traduzida em parecer, embora de grande valia, é peça de cunho eminentemente opinativo, sem carga ou caráter vinculante ao órgão julgador. Precedentes. (AgRg no HC n. 632.848/ES, Ministro Messod Azulay Neto, Quinta Turma, DJe de 3/5/2023)." (AgRg no HC n. 822.782/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/08/2023, DJe 18/08/2023).
+Ademais, "a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que "o princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, podendo ser ela tanto a nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção" (HC 132.149-AgR, Rel. Min. Luiz Fux)" (HC 184.709 AgR, Relator ROBERTO BARROSO, Primeira Turma, julgado em 16/06/2020, PROCESSO ELETRÔNICO DJe-177 DIVULG 14-07-2020 PUBLIC 15-07-2020).
+Cabe, no ponto, transcrever trechos do parecer do Ministério Público Federal, da lavra da Subprocuradora-Geral da República RAQUEL ELIAS FERREIRA DODGE (fls. 228-229; sem grifos no original):
+"Os embargos de declaração possuem como pressuposto a indicação de algum dos vícios constantes do art. 619 do Estatuto Adjetivo. Não ocorrendo ambiguidade, obscuridade, contradição nem omissão, deve-se rejeitar os aclaratórios.
+In casu, o acordão embargado não foi omisso, apreciou a matéria submetida ao Superior Tribunal de Justiça de forma fundamentada, clara e sem ambiguidade. Não podem, portanto, os presentes embargos de declaração serem acolhidos.
+Nesse sentido, essa Corte assim decidiu:
+ ..
+Sobre a arguida nulidade da decisão embargada, não merece prosperar.
+Cabe destacar que " o  sistema das nulidades estatuído no Código de Processo Penal é orientado, basicamente, por dois princípios gerais: pas de nullité sans grief (art. 563 do CPP) e da instrumentalidade das formas (art. 572, II, do CPP), cabendo a" defesa demonstrar o prejuízo suportado pela parte" (AgRg no HC n. 823.676/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Dispõe o art. 563 do Código de Processo Penal que "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação e para a defesa" e, no caso, o embargante não logrou êxito em demonstrar o prejuízo sofrido. No mais, o parecer do Ministério Público não vincula a decisão do Ministro Relator, pois vigora o princípio do livre convencimento motivado no ordenamento jurídico brasileiro."
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. VÍCIOS INEXISTENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
