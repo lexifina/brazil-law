@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da deserção (e-STJ fls. 258/259).
+No agravo (e-STJ fls. 262/266), a parte afirma que "realizou o pagamento em dobro do preparo, dentro do prazo estipulado" (e-STJ fl. 264).
+Assim, requer que "seja conhecido e provido o presente agravo, com o destrancamento do Recurso Especial, e o seu imediato julgamento, com o seu provimento" (e-STJ fl. 265).
+Contraminuta apresentada às fls. 269/272 (e-STJ).
+É o relatório.
+Decido.
+No caso, quando da interposição do especial, não foi corretamente comprovado o recolhimento do preparo recursal. Por tal razão, a parte foi intimada para sanar o vício, em 5 (cinco) dias, sob pena de deserção (e-STJ fl. 246).
+Na petição de fls. 249/250 (e-STJ), a recorrente comprovou o recolhimento em dobro do preparo recursal no prazo assinalado.
+Desse modo, conheço do agravo e passo à análise do recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 215):
+SEGURO PRESTAMISTA. PRELIMINAR SUSCITADA EM CONTRARRAZÕES PELO RÉU. Falta de impugnação dos fundamentos da sentença. Afastamento. Razões recursais que estão em consonância com os fundamentos da sentença. MÉRITO. Acidente fatal do segurado. Indenização deferida. Pretensão à reforma. Agravamento do risco. Embriaguez do condutor não exime a seguradora do pagamento da indenização. Súmula 620, do C. Superior Tribunal de Justiça. Sentença mantida. Recurso não provido.
+Nas razões recursais (e-STJ fls. 221/233), a parte alega, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 768, 778, 788, 789 e 802 do CC/2002, "pois este é claro ao afirmar que o agravamento do risco gera a perda do direito à garantia securitária. A condução do veículo embriagado, por si só, já acarreta no agravamento do risco, independentemente da existência de outros fatores" (e-STJ fl. 226). "No caso dos autos, restou devidamente comprovado que o segurado estava embriagado (..), não havendo qualquer outra causa para o acidente, se não a própria embriaguez" (e-STJ fl. 226),
+(ii) arts. 762 e 765 do CC/2002 e 306, § 1º, I, do CTB, porque "o segurado adotou comportamento ilícito, dolosamente, (..), bem com o não agiu com a boa-fé que as relações securitárias exigem" (e-STJ fl. 227).
+Nesses termos, requer o provimento do recurso, para que "seja reformada a r. decisão recorrida para julgar improcedentes os pedidos autorais, reconhecendo a perda do direito à indenização securitária em razão do agravamento do risco pelo segurado" (e-STJ fl. 232).
+Não foram apresentadas contrarrazões (e-STJ fl. 245).
+Verifica-se que o Tribunal de origem decidiu com base nos seguintes fundamentos:
+Dos autos extrai-se que o segurado (..) faleceu ao se envolver em acidente de trânsito e de acordo com o exame toxicológico, foi detectada a concentração de 1,9 g/l de álcool etílico em seu sangue, no momento do acidente. Apesar da embriaguez do segurado configurar ato ilícito, bem como, o alegado agravamento de risco, de acordo com a Súmula 620, do C. Superior Tribunal de Justiça: (..). O seguro prestamista é modalidade de seguro de vida, vida a ser pago em caso de morte acidental ou natural do segurado. Não se justifica, portanto, a recusa do réu no pagamento da indenização securitária. (e-STJ fls. 216/217).
+Nos termos da jurisprudência desta Corte, "a embriaguez, por si só, não exime o segurador do pagamento de indenização prevista em contrato de seguro de vida, sendo necessária a prova de que o agravamento do risco decorrente da embriaguez influiu decisivamente na ocorrência do sinistro" (AgInt no AREsp n. 2.282.051/SP, de minha relatoria, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023).
+O entendimento, expresso na Súmula n. 620 do STJ, foi firmado pela Segunda Seção do STJ no julgamento do EREsp n. 973.725/SP (Relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF 5ª Região -, Segunda Seção, julgado em 25/4/2018, DJe de 2/5/2018), bem como no REsp n. 1.999.624/PR (Relator Ministro Raul Araújo, Segunda Seção, julgado em 28/9/2022, DJe de 2/12/2022).
+Entretanto, constata-se que o Tribunal a quo não se pronunciou quanto ao ponto - se há prova de que o agravamento do risco decorrente da embriaguez importou decisivamente na ocorrência do sinistro -, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF.
+Ademais, para modificar o entendimento do acórdão impugnado, no sentido de apurar se o estado de embriaguez influiu decisivamente na ocorrência do evento, seria necessário o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Com efeito, a incidência dos referidos óbices sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da CF.
+Além disso, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, CONHEÇO do agravo, para NÃO CONHECER do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
