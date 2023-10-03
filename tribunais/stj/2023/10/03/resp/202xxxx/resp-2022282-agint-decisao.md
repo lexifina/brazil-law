@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto por CLOVIS NATALINO CARDOSO contra decisão, de minha relatoria, na qual dei provimento ao recurso especial do INSS para julgar extinta a ação no tocante ao pedido de reafirmação da DER, por ausência de interesse processual (e-STJ fls. 813/819).
+Em suas razões, o agravante sustenta que está presente o interesse de agir e que " requereu na inicial a concessão do benefício previdenciário desde a DER, ou, subsidiariamente, desde o ajuizamento da presente demanda ou na data que preencheu os requisitos para tanto durante o trâmite da ação, como autorizado pelo Tema 995" (e-STJ fl. 828).
+Requer, ao final, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada não ofertou impugnação (e-STJ fl. 837.
+Passo a decidir.
+Em novo exame, registro que a matéria controvertida foi objeto de debate no âmbito do colegiado da Primeira Turma desta Corte, na sessão de 22/08/2023. Na ocasião, prevaleceu o entendimento sustentado pela parte autora no sentido de reconhecer o interesse de agir quando o direito do segurado à reafirmação da DER, pela implementação dos requisitos necessários à concessão do benefício previdenciário, ocorrer entre o encerramento do processo administrativo e o ajuizamento da demanda judicial.
+O referido acórdão foi assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. PREENCHIMENTO DOS REQUISITOS DE CONCESSÃO EM PERÍODO POSTERIOR AO REQUERIMENTO ADMINISTRATIVO E ANTECEDENTE À AÇÃO JUDICIAL. INTERESSE DE AGIR CARACTERIZADO. DESNECESSIDADE DE RENOVAÇÃO DA POSTULAÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE DE REAFIRMAÇÃO DA DER PARA A DATA DE IMPLEMENTO. TERMO INICIAL DO BENEFÍCIO. CITAÇÃO VÁLIDA. PRECEDENTES.
+I - O Supremo Tribunal Federal, no julgamento do Tema n. 350/STF, fixou orientação segundo a qual a concessão de benefícios previdenciários depende de prévio requerimento do interessado na seara administrativa, porquanto para configurar o interesse de agir é preciso estar caracterizada a necessidade da prestação jurisdicional para a satisfação da pretensão do autor.
+II - Havendo pedido de reconhecimento de tempo de contribuição, em relação ao qual o INSS se insurgiu, forçoso reconhecer o atendimento ao princípio da necessidade, pois o indeferimento desse pedido dá causa à demanda judicial.
+III - A Primeira Seção, no julgamento dos Embargos de Declaração do Tema n. 995/STJ, deliberou pela impossibilidade de reafirmação da DER para a data de implemento dos requisitos de concessão quando o fato superveniente for posterior à propositura da ação.
+IV - Não se obstou a viabilidade de reconhecimento do direito à prestação previdenciária nessas hipóteses, apenas rechaçou-se a possibilidade de reafirmação da DER para a data de implemento dos requisitos correspondentes ao benefício, impondo-se a fixação do termo inicial na data da citação válida do INSS.
+V - Agravo interno parcialmente provido. (REsp n. 2.018.250/RS, Rel. Min. Gurgel de Faria, Rel. p/ Acórdão Min. Regina Helena Costa, julgado em 22/08/2023, DJe de 31/08/2023).
+Por essa razão, torno sem efeito a decisão agravada e, analisando novamente o recurso, reconheço que assiste razão em parte ao INSS.
+Segundo se colhe dos autos, o Tribunal de origem manifestou-se no sentido de que é possível o reconhecimento da reafirmação do requerimento administrativo em período anterior à demanda e de que deve ser considerado como termo inicial da aposentadoria o momento do preenchimento dos requisitos.
+Ocorre que, no caso de a implementação dos requisitos ocorrer antes do ajuizamento da demanda, os efeitos financeiros decorrentes da aposentadoria deve ter seu termo inicial fixado na citação, data em que a autarquia tomou ciência da pretensão de concessão d o benefício mediante reafirmação da DER.
+Ante o exposto, em juízo de retratação, TORNO SEM EFEITO a decisão de e-STJ fls. 813/819 e, com base no art. 255, § 4º, II e III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial do INSS para fixar o termo inicial do benefício a partir da citação.
+Publique-se. Intimem-se.
+EMENTA
