@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 1.563/1.581) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial (e-STJ fls. 1.556/1.558).
+A parte embargante sustenta a existência de erro material, destacando que "o v. Acordão proferido pelo Eminente Ministro, data máxima vênia, necessita ser reparado, visto existir interpretação divergente da realidade dos fatos, onde reside a questão suscitada com os presentes embargos de declaração, para eliminar o erro material, pelo fato de Merval não ser funcionário da empresa, há época da propositura da ação, também, corrigindo-se o erro material, pois Merval de Moura não era mais o gerente da empresa, quando do trâmite do feito, diferentemente do que consta do inteiro teor do voto do senhor Ministro" (e-STJ fl. 1.568).
+Acrescenta ainda que "já a contradição, extrai-se das condições impostas ao autor da ação, como se fosse sua obrigação arrolar essa ou aquela pessoa como testemunha, sob o risco de vir o mesmo a mentir em juízo, como se espera de pessoa que comete delito e se defende, visando sair ileso, sem sofrer nenhuma punição, por certo iria mentor. O autor, ora agravante, não poderia ser ingênuo a tal ponto, restando nítido que a testemunha somente se livraria da imputação de crime, caso mentisse ou omitisse a situação fática da transação" (e-STJ fl. 1.578).
+Busca, em síntese, o acolhimento do recurso para que "sejam sanadas a CONTRADIÇÃO, ao impor ao embargante a obrigação de arrolar testemunha que não estava obrigada a falar a verdade, não compromissada, testemunhado juízo, além de não estar obrigada a produzir prova contra si. Também, diante do demonstrado ERRO MATERIAL, quando tratado o ex-gerente, como se ainda fosse empregado da empresa, há época da instrução processual, para, com a devida vênia, se desafaça a contradição e o erro material apontados, estabelecendo que o tratamento ao então empregado da empresa, seria na condição de ex-funcionário, sendo o ex-gerente, por ter sido demitido quando a empresa tomou conhecimento de seus atos ilícitos cometido no exercício de sua atividade profissional. Também, verificada a contradição existente no v. acórdão, não havendo a condição da obrigação de arrolar ou permitir ouvir testemunha, quando restou nítido que sua oitiva seria no sentido de se defender, sem produzir prova contra si, não compromissado, como é esperado do ser humano comum" (e-STJ fls. 1.579/1.580).
+Não foi apresentada impugnação (e-STJ fl. 1.585).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+No caso concreto, sob o pretexto de que houve ofensa ao art. 1.022 do CPC/2015, pretende a parte embargante nova análise dos argumentos apresentados nos recursos anteriormente interpostos.
+Ocorre que as questões foram devidamente examinadas na decisão ora embargada, que afastou as alegações repetidas nas presentes razões, reconhecendo a aplicação das Súmulas n. 7 e 211 do STJ e 283 do STF.
+No mais, a contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado, e não entre o julgado e as razões da parte.
+No caso, não se observa a apontada contradição.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
