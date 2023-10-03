@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELDER NOGUEIRA LOPES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/10/2022.
+Concluso ao gabinete em: 19/9/2023.
+Ação: rescisória ajuizada por MÁRIO VICENTE DO NASCIMENTO, LUÍS AMÉRICO NASCIMENTO e FÁBIO DO NASCIMENTO, em face de ELDER NOGUEIRA LOPES, LEANDRO TESSAROTTO REIS, HUMBERTO AZEVEDO REIS, DANIEL TESSAROTTO REIS SCHEWINSKY (DANIEL TESSAROTTO REIS) e MARIA RITA NETTO DE ANDRADE.
+Sentença: julgou procedente o pedido de ELDER NOGUEIRA LOPES, LEANDRO TESSAROTTO REIS, HUMBERTO AZEVEDO REIS, DANIEL TESSAROTO REIS e MARIA RITA NETTO DE ANDRADE, em face de DANIEL DOMINGOS DOS SANTOS (espólio), SEVERINA JOSÉ DOMINGOS, CAMILO DA SILVA TURATTI e ROGÉRIO MARTINS DE OLIVEIRA para declarar a nulidade da alienação de imóveis registrados.
+Acórdão: julgou procedente a ação rescisória, nos termos da seguinte ementa (e-STJ fl. 909):
+AÇÃO RESCISÓRIA - PROCESSUAL CIVIL - fundada no art. 966, V e VIII do CPC - Pretensão de declaração de nulidade da r. sentença proferida em ação pauliana, porque não houve a citação do ora autor que também figurava como compromissário comprador do imóvel objeto da lide - Ação pauliana - Natureza desconstitutiva do pedido - Hipótese de litisconsórcio necessário unitário - Polo passivo que deve ser ocupado por aqueles que celebraram o negócio fraudulento (adquirentes e titulares do domínio), bem como adquirentes posteriores e aqueles em nome de quem atualmente o bem se encontre registrado - caracterizado o litisconsórcio necessário, se a sentença foi proferida sem que fosse formada a relação processual, impõe-se reconhecer que faltou pressuposto de formação e desenvolvimento válido do processo e consequentemente o processo deve ser anulado ab initio - Rescisória provida.
+Recurso especial: alega violação aos artigos 1.029 do CPC/2015; e 161 do CC/2002.
+Postula, de início, a atribuição de efeito suspensivo ao recurso, nos termos do artigo 1.029 do CPC/2015.
+Sustenta, em síntese, que o " ..  entendimento firmado pelo e. Tribunal a quo em v. Acórdão não merece prosperar, vez que a tramitação processual do caso sub judice atendeu aos requisitos procedimentais e pressupostos de validade, não admitindo-se interpretação diversa ao art. 161 do CPC, que prevê de forma taxativa àqueles que devem integrar o polo passivo da ação pauliana como litisconsortes necessários, o que não abarca os adquirentes de boa-fé, como no caso dos recorridos que figuram tão somente como litisconsortes facultativos  .. " (e-STJ fl. 928).
+Parecer do Ministério Púbico Federal: da lavra do I. Subprocurador-Geral SADY D"ASSUMPÇÃO TORRES FILHO, opina pelo desprovimento do agravo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do pedido de efeito suspensivo.
+Quanto à pretensão de efeito suspensivo, a parte recorrente não demonstrou a excepcionalidade necessária para a sua concessão, o que inviabiliza o pedido.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no TP n. 1.692/SP, Terceira Turma, DJe de 5/12/2018; e AgInt no TP n. 996/CE, Quarta Turma, DJe de 27/11/2017.
+- Da ausência de prequestionamento.
+Quanto à suposta violação ao artigo 161 do CC/2002, observo que tal dispositivo legal não foi objeto de exame pelo Tribunal local, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a tal aspecto, razão pela qual é inviável a análise da matéria pertinente, ante a ausência do requisito do prequestionamento. Incide, na espécie, portanto, por analogia, o óbice previsto na Súmula n. 282/STF.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgRg nos EAREsp n. 374.897/RS, Segunda Seção, DJe de 27/5/2014; AgInt no AREsp n. 1.476.907/RJ, Terceira Turma, DJe de 24/5/2023; e AgInt no AREsp n. 2.056.808/SP, Quarta Turma, DJe de 15/6/2023.
+- Da alegação genérica de ofensa à lei.
+Ainda que superado o óbice supracitado, com relação à afronta ao artigo 161 do CC/2002, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial.
+O entendimento desta Corte Superior, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a incidência da orientação contida na Súmula n. 284/STF, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no AgInt no AREsp n. 2.106.824/RJ, Terceira Turma, DJe de 18/11/2022; e AgInt no AREsp n. 2.239.372/MG, Quarta Turma, DJe de 17/5/2023.
+- Da existência de fundamento não impugnado.
+A parte agravante não impugnou o fundamento utilizado pelo TJ/SP, no que diz respeito à necessidade de formação do litisconsórcio, tendo em vista o potencial de atingir, especificamente, o patrimônio do terceiro adquirente.
+Nas razões do recurso especial, tais fundamentações não foram refutadas, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283/STF.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt nos EREsp n. 1.834.637/RS, Corte Especial, DJe de 1º/7/2021; AgInt nos EDcl nos EREsp n. 1.346.220/SP, Segunda Seção, DJe de 9/12/2020; AgInt no REsp n. 2.023.459/SP, Terceira Turma, DJe de 10/5/2023; e AgInt no AREsp n. 1.986.647/SP, Quarta Turma, DJe de 9/6/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no artigo 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Nos termos do artigo 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) sobre o valor da causa (e-STJ fls. 906/915) para 15% (quinze por cento), observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos artigos 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PEDIDO DE EFEITO SUSPENSIVO. INVIABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 282/STF. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 283/STF.
+1. Ação rescisória.
+2. Não demonstrada a excepcionalidade, não há que se falar em efeito suspensivo do recurso.
+3. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incide, por analogia, a Súmula n. 282/STF. Precedentes.
+4. A alegação genérica de violação a dispositivos de lei, sem a demonstração, de forma clara e precisa, de que modo o aresto os teria contrariado, atrai, por analogia, a Súmula n. 284/STF. Precedentes.
+5. A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283/STF. Precedentes.
+6. Agravo conhecido. Recurso especial não conhecido.
