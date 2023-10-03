@@ -1,0 +1,29 @@
+DECISÃO
+LUIZ EDUARDO BASTOS MARQUEZ alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no HC n. 0629151-17.2023.8.06.0000.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para converter a prisão em flagrante do réu, pela suposta prática do crime de tráfico de drogas, em custódia preventiva. Pugna, liminarmente e no mérito, pela revogação da prisão provisória ou pela sua substituição por cautelares diversas.
+Decido.
+I. Contextualização
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos crimes previstos nos arts. 33 e 40, V, ambos da Lei n. 11.343/2006 - o requerente, em tese, transportou e trouxe consigo 27 kg de crack.
+O flagrante foi convolado em prisão preventiva (fls. 50-52).
+A defesa postulou a revogação da medida cautelar pessoal extrema em detrimento da liberdade do réu. Por ocasião da análise do pedido, o Magistrado manteve a prisão provisória ao ressaltar (fl. 161, grifei):
+ ..  devidamente fundamentada na garantia da ordem pública e aplicação da lei penal, dada a circunstância do denunciado ter sido apreendido quando, em tese, trazia elevada quantidade de droga do Estado de Mato Grosso (27kg de crack, fracionados em 26 tabletes), além do que, como bem apontou o parquet, a inteligência da PRF já estaria monitorando o acusado, tendo repassado ao Núcleo de Combate ao Tráfico de Drogas da Delegacia Regional de Juazeiro do Norte, informações de que provavelmente o veículo conduzido pelo requerente estaria transportando entorpecentes, em virtude deste veículo ter realizado rota semelhante há três meses. Ademais, em relação ao pedido de prisão domiciliar, sob o argumento de que o requerente encontra-se acometido de doença severa bem como de ser o único responsável pelos cuidados da genitora idosa, conforme exposto pelo próprio Ministério Público, não merecem ser acolhidos já que, não se desincumbiu a defesa em demonstrar que o tratamento médico de que necessita o custodiado não possa ser prestado no local da prisão ou em estabelecimento hospitalar nem que os cuidados da genitora idosa só poderão ser realizados exclusivamente pelo requerente. A documentação de fls. 17 - 50 não altera o quadro fático que ensejou a decretação da prisão preventiva, tampouco revela a impossibilidade de manutenção da prisão do réu  .. .
+II. Prisão preventiva
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado, desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+A decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou do réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico não haver ilegalidade a sanar no decreto prisional, pois este encerra motivação idônea e corrobora a periculosidade do agente, em prejuízo da liberdade de locomoção.
+Pela leitura do excerto transcrito, considero idôneos os motivos da decisão combatida, ao destacar a gravidade da conduta em tese perpetrada, notadamente pela apreensão de 27 kg de crack, além dos indícios de associação do paciente, haja vista que estaria em monitoramento pelas autoridades policiais há três meses, para a prática habitual do comércio espúrio.
+A esse respeito é imperioso ressaltar que, "consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (RHC n. 115.823/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/9/2019, destaquei).
+A propósito , é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, cifrada na apreensão de significativa quantidade de droga (493,9 gramas de maconha), além de uma balança de precisão e um rolo de plástico filme, demonstrando a necessidade da prisão para a garantia da ordem pública.
+2. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+3. Ordem denegada (HC n. 454.511/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 14/8/2018, grifei).
+ ..
+2. O Magistrado de primeiro grau expôs os motivos pelos quais a prisão preventiva seria necessária, ao destacar a elevada quantidade de droga apreendida em poder do acusado - 377 g de maconha -, além dos petrechos utilizados para a comercialização. Tais elementos, nos termos da jurisprudência desta Corte Superior, são indicativos da dedicação habitual ao comércio ilegal de entorpecentes e, por isso mesmo, constituem motivação idônea a justificar a custódia provisória do indiciado.
+3. Diante do fundado risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido (RHC n. 99.826/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/8/2018, destaquei).
+Ademais, " m ostra-se indevida a aplicação de medidas cautelares diversas da prisão, q uando a segregação se encontra fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC n. 714.681/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 2/5/2022).
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
