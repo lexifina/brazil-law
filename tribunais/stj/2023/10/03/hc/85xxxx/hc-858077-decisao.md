@@ -1,0 +1,27 @@
+DECISÃO
+KUNITERO SHONO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no HC n. º 0017075-31.2023.8.16.0000.
+A defesa busca a desconstituição do trânsito em julgado de condenação do paciente e a determinação de remessa dos autos ao Juízo de origem, a fim de que o Ministério Público lhe proponha acordo de não persecução penal.
+Decido.
+Infere-se dos autos que o paciente foi denunciado como incurso no art. 15 da Lei n. 7.802/1989. A denúncia foi recebida no dia 19/8/2019 e, em 1/6/2021, o réu foi condenado, nos termos da incoativa, à pena de 2 anos de reclusão, em regime aberto, substituída a privativa de liberdade por duas restritivas de direitos.
+A condenação transitou em julgado, em 12/7/2022.
+Iniciada a execução da reprimenda imposta, a defesa impetrou prévio writ, cuja ordem foi denegada. Colhe-se do acórdão ora impugnado, no que interessa (fl. 69):
+Em primeira análise, a impetrante questiona a mora do Juízo em deliberar pedido do paciente de remessa dos autos ao Ministério Público para oferecimento de ANPP.
+Essencialmente, no entanto, o que requer neste é que se writ reconheça a possibilidade de oferta de ANPP mesmo em tendo havido o trânsito em julgado da sentença condenatória.
+Desta ótica, o é de ser conhecido, porque habeas corpus questiona ato de autoridade judicial de primeiro grau, ademais de que nem poderia o Juízo, seja o do processo de conhecimento ou o do processo de execução, anular a sentença ou suspender o cumprimento da pena pelos motivos sustentados pelo condenado.
+A tese exordial vem calcada em interpretação de retroatividade do instituto de ANPP para que incida em processos com condenação transitada em julgado, arrimando-se a impetrante, no campo da jurisprudência, em decisão do STF proferida pelo Ministro Edson Fachin no HC 217.275.
+Contudo, conforme antecipado na decisão inicial, o julgado invocado não tem força vinculativa - em que pese o vigor e a importância da decisão.
+A matéria foi afetada como sendo de repercussão geral no HC 185.913/DF, pendente de análise pelo Pleno do STF, inclusive para definição do termo final para ANPP, é dizer, se alcança ou não as ações penais transitadas em julgado.
+Prevalece nesta Câmara entendimento, quanto ao termo final, de que a retroatividade, quando cabível, não alcança ações penais com trânsito em julgado da sentença condenatória.
+3. Do exposto, voto por conhecer do habeas corpus e denegar a ordem.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas" (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, relator Min. Rogerio Schietti, 6ª T., DJe de 16/5/2022).
+A controvérsia deste mandamus reside no alcance da retroatividade a ser dada à nova disposição contida no art. 28-A do CPP, introduzida pela Lei n. 13.964/2019, com a seguinte redação:
+Art. 28-A. Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente.
+Nesse contexto, consigno que, de acordo com a jurisprudência do STF, cabe acordo de não persecução penal para fatos ocorridos antes da vigência da Lei n. 13.964/2019, desde que não recebida a denúncia.
+O caráter predominantemente processual do art. 28-A do CPP, em que pese ter reflexos penais, e a própria razão de ser do instituto - evitar a deflagração de processo criminal - conduzem a se sustentar que sua retroatividade, diversamente do que ocorre com as normas híbridas com prevalente conteúdo material (de que é exemplo o dispositivo que condiciona a ação penal à prévia representação da vítima), deve ser limitada ao recebimento da denúncia, isto é, à fase pré-processual da persecutio criminis.
+O pedido da defesa vai de encontro à jurisprudência desta Corte, in verbis: "a possibilidade de oferecimento do acordo de não persecução penal, previsto no artigo 28-A do Código de Processo Penal, inserido pela Lei n. 13.964/2019, é restrita aos processos em curso até o recebimento da denúncia, o que não se enquadra na hipótese em apreço" (AgRg no AREsp n. 1.909.408/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/10/2021).
+Deveras: "a finalidade do ANPP é evitar que se inicie o processo, não havendo lógica em se discutir a composição depois da condenação, como pretende a defesa  .. " (HC n. 191.464-AgR/SC, Rel. Ministro Roberto Barroso, 1ª T., DJe 26/11/2020).
+Ainda: "é descabida a aplicação retroativa do instituto mais benéfico previsto no art. 28-A do CP  ..  quando a persecução penal já ocorreu, estando o feito sentenciado, inclusive com condenação confirmada pelo acórdão proferido pelo Tribunal de Justiça" (AgRg no REsp n. 1.860.770/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T, DJe 9/9/2020), como na espécie.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
