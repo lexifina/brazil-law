@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por IGOR CAVALCANTI, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ, fls. 183-197):
+"PENAL. CONTRABANDO. ARMAS E PETRECHOS DE AIRSOFT. ART.334-A, § 1º, INCISO II, DO CÓDIGO PENAL. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. DOSIMETRIA. PRESTAÇÃO PECUNIÁRIA. ASSISTÊNCIA JURÍDICA GRATUITA. JUÍZO DA EXECUÇÃO.
+1. Pratica o delito de contrabando (art. 334-A, § 1º, inciso II, do Código Penal) aquele que importa ou exporta clandestinamente mercadoria que dependa de registro, análise ou autorização de órgão público competente.
+2. Comprovado que o réu agiu de forma voluntária e consciente ao importar e transportar, sem documentação comprobatória da regular internalização no País, 5 (cinco) pistolas de airsoft, 4 (quatro) rifles de airsoft, 54 (cinquenta e quatro) peças, munições e gás para armas de pressão tipo airsoft.
+3. Considerado o tempo da pena privativa de liberdade imposta ao réu, a cifra fixada a título de prestação pecuniária substitutiva representa menos de 30% (trinta por cento) de sua renda mensal, quantia suficiente e adequada para bem reprimir a conduta e inibir sua recorrência.
+4. Eventual exame acerca da miserabilidade para ser concedida isenção de custas processuais, bem como da assistência judiciária gratuita, deverá ser feito em sede de execução, fase adequada para aferir a real situação financeira do condenado. Pedido do qual não se conhece.
+5. Sentença mantida".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 45, § 1º, e 65, III, "d", do Código Penal. Aduz para tanto, em síntese, que "ao negar a possibilidade de aplicação da pena abaixo do mínimo legal ao sentenciado se aceitará a interpretação restritiva em desfavor do réu, o que não pode ser admitido. Além disso, estar-se-ia violando, de forma muito clara, os princípios constitucionais da individualização da pena, da proporcionalidade e da culpabilidade" (e-STJ, fl. 211); (II) a prestação pecuniária foi fixada de forma desproporcional, não se atentando a situação financeira do réu, bem como a sua culpabilidade.
+Com contrarrazões (e-STJ, fls. 227-247), o recurso especial foi admitido na origem (e-STJ, fls. 250-251).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 264-270).
+É o relatório.
+Decido.
+No que diz respeito à pretensão de que pena seja reduzida aquém do mínimo legal na segunda etapa da dosimetria, não assiste razão à parte recorrente. Afinal, a aspiração defensiva esbarra na jurisprudência deste Tribunal Superior, que mantém plenamente aplicável o enunciado da Súmula 231/STJ. Confiram-se, a propósito, os seguintes julgados:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA E DA NÃO UTILIZAÇÃO DO ARTEFATO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REDUÇÃO DA PENA-BASE. AUSÊNCIA DE INTERESSE RECURSAL. CONFISSÃO. SÚMULA 231/STJ. REGIME MAIS GRAVOSO. LEGALIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ .. .
+4. No que tange à incidência da atenuante da confissão, o entendimento esposado pela Corte de origem encontra-se no mesmo sentido do disposto na Súmula n. 231/STJ (A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal).
+ .. .
+7. Agravo regimental não provido".
+(AgRg no AREsp n. 2.223.435/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. DESCABIMENTO. SÚMULA N. 231 DO STJ. TESE DE OVERRULING. DESCABIMENTO. ARGUMENTAÇÃO DESCONEXA E SEM RAZOABILIDADE. REGIMENTAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. PLEITO DE SOBRESTAMENTO DO JULGAMENTO DO FEITO EM RAZÃO DA REALIZAÇÃO DE AUDIÊNCIA PÚBLICA ACERCA DO TEMA TRATADO NOS AUTOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling).
+2. No regimental, não houve impugnação aos fundamentos da decisão agravada, incidindo, assim, a Súmula n. 182/STJ.
+3. Agravo regimental não conhecido. Indeferido o pleito de sobrestamento do julgamento deste feito em razão da ausência de previsão legal para tanto".
+(AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+No mais, observa-se que o valor da pena de prestação pecuniária foi fixado levando-se em conta as peculiaridades do caso, bem como a situação financeira do recorrente. Além disso, foi destacada a possibilidade de parcelamento do montante devido em sede de execução penal, conforme se pode observar do seguinte trecho do aresto:
+"No que toca à prestação pecuniária, anoto que, para definição do valor da restritiva de direitos em questão, devem ser levadas em conta as vetoriais do artigo 59 do Código Penal, a extensão do dano ocasionado pelo delito, a situação financeira do agente e a necessária correspondência com apena substituída.
+Ainda, a prestação pecuniária substitutiva da pena privativa de liberdade deve ser fixada levando-se em consideração também a extensão de sua conduta e o eventual pagamento de fiança.
+No caso dos autos, o réu atuou como "laranja" ao adquirir e transportar clandestinamente mercadoria de procedência estrangeira dependente de registro, análise ou autorização de órgão público, desacompanhada de documentação legal, consistente em diversas armas e petrechos de airsoft, avaliados em mais de R$ 7.000,00. Diante de tais fatores, mantenho a prestação pecuniária em R$ 5.000,00, corrigidos desde a sentença até o efetivo pagamento.
+Em relação à condição financeira do réu, este informou em audiência (processo de origem, Evento 33, TERMOAUD1) que trabalha como motoboy aufere renda mensal aproximada de R$ 1.200,00.
+Assim, considerado o tempo da pena privativa de liberdade imposta ao réu, a cifra fixada representa menos de 30% (trinta por cento) de sua renda mensal, quantia suficiente e adequada para bem reprimir a conduta e inibir sua recorrência.
+A adoção de tais penas restritivas de direitos é suficiente para os fins de reprovação e prevenção do delito. Além de não onerar excessivamente o réu, permite a realização de uma atividade social útil, ao contrário do que ocorre quando fixada apenas a pena privativa de liberdade.
+Ressalto, ainda, que, comprovada a impossibilidade do pagamento integral, poderá haver o parcelamento em sede de execução penal" (e-STJ, fl. 194).
+Desse modo, a alteração do julgado encontra óbice na Súmula 7 desta Corte, haja vista a necessidade de incursão no arcabouço fático e probatório dos autos. A propósito:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. SÚMULA N. 7/STJ. AFASTAMENTO DA SUSPENSÃO DA HABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR. SOBRESTAMENTO DO FEITO. RE N. 607.107/MG. TEMA 486. JULGADO CONSTITUCIONAL. MANUTENÇÃO DAS PENAS RESTRITIVAS DE DIREITOS. PLEITO DE REDUÇÃO DA SANÇÃO PECUNIÁRIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CORRETA. SÚMULA N. 7/STJ.
+ .. .
+5. Inviável a redução pecuniária pretendida pela defesa. As instâncias ordinárias fixaram multa no valor de 10 salários mínimos com base na capacidade econômica do acusado. Desconstituir a conclusão alcançada, demandaria, necessariamente, um aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ.
+6. Agravo regimental a que se nega provimento".
+(AgRg no AREsp n. 1.677.731/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/8/2020, DJe de 24/8/2020.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO PECUNIÁRIA. VALOR FIXADO DE FORMA FUNDAMENTADA. REVISÃO DO MONTANTE. NÃO CABIMENTO. SÚMULA 7/STJ. EXECUÇÃO PROVISÓRIA DA PENA PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E DAR-LHE PARCIAL PROVIMENTO.
+1. Fixada fundamentadamente pelo Tribunal de origem a prestação pecuniária, levando em conta as peculiaridades do caso e a renda mensal declarada pelo réu, o acolhimento do pleito de revisão da proporcionalidade da prestação pecuniária demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ.
+2. Estando na pendência de recursos especial ou extraordinário, inviável a execução provisória de pena não transitada em julgado.
+3. Agravo regimental provido para conhecer do agravo em recurso especial e dar-lhe parcial provimento, apenas para suspender a execução provisória das penas restritivas de direitos".
+(AgRg nos EDcl no AREsp n. 1.686.679/PR, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2020, DJe de 13/8/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
