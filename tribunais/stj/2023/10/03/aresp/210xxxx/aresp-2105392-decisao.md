@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Narram os autos que o ora agravante propôs a subjacente ação civil pública em desfavor dos ora agravados, ao fundamento de ser desarrazoado e ofensivo à moralidade pública e impessoalidade o aumento dos subsídios dos agentes políticos do Poder Executivo de Paracatu, fixados pelas Leis Municipais 2.536/2004 e 2.708/2008.
+O Juízo de 1º Grau julgou improcedente os pedidos de declaração de inconstitucionalidade das leis municipais e procedente em parte o pedido de nulidade do reajuste concedido em 2008, reduzindo os subsídios do prefeito, vice-prefeito e secretários municipais para os valores de R$ 15.944,00, R$ 7.972,00 e R$ 7.972,00, respectivamente, a partir de 01/01/2009 (fls. 1.413/1.429).
+O Tribunal de origem confirmou a sentença nos termos da ementa que segue (fl. 1.785):
+AÇÃO CIVIL PÚBLICA - SUBSÍDIOS - AGENTES POLÍTICOS - LEI 270812008 - AUMENTO GLOBAL DESPESAS - AFRONTA AO ART. 21, PARÁGRAFO ÚNICO DA LC 101/2000 - ADAPTAÇÃO - POSSIBILIDADE.- Evidenciado o vultoso aumento nos subsídios dos agentes políticos decorrente da Lei 2.708/2008, correta a decisão que determina sua adaptação à realidade financeira do Município de forma que não ofenda a Lei de Responsabilidade Fiscal.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.810/1.813).
+Inconformado, o Parquet estadual interpôs o REsp n. 1.521.261/MG, ao qual dei provimento para anular o acórdão dos embargos de declaração, determinado que outro fosse prolatado em seu lugar pelo Tribunal de origem (fls. 2.016/2.021).
+Baixados os autos à origem, sobreveio o novo julgamento dos aclaratórios, os quais restaram acolhidos, sem efeitos modificativos, nos seguintes termos (fl. 2.152):
+EMBARGOS DE DECLARAÇÃO  APELAÇÃO CÍVEL  OMISSÃO QUANTO À INCONSTITUCIONALIDADE DO ART. 50 DA LEI 2.708/08 DO MUNICÍPIO DE PARACATU  INCONSTITUCIONALIDADE JÁ RECONHECIDA POR ESTE TRIBUNAL  EMBARGOS ACOLHIDOS.
+Novos embargos de declaração foram opostos pelo MINISTÉRIO PÚBLICO mineiro, os quais foram rejeitados (fls. 2.172/2.177).
+Em seu recurso especial inadmitido, sustenta o ora agravante violação aos seguintes dispositivos legais:
+a) art. 1.022, II, do CPC, pois a despeito da oposição de aclaratórios, o Tribunal de origem permaneceu omisso quanto às seguintes questões (fl. 2.186):
+a) falta de exame do fato de que a desistência do pedido pelo autor limitou-se aos aumentos fundados na Lei 2.536/2004, NÃO atingido a majoração implementada pela Lei 2.708/2008;
+b) persistência da ausência de análise das questões cuja omissão foi reconhecida pelo STJ, mormente quanto à inexistência "de previsão legal a autorizar mero decote do montante que ultrapassou o limite de gastos municipais".
+b) art. 21, parágrafo único, da Lei Complementar 101/2000, ao argumento de que "a pretexto de regulamentar novo sistema de fixação de subsídios, foi promulgada e publicada, a menos de 180 dias do término do mandato do Chefe do Poder Executivo local, a Lei Municipal nº 2.708/2008, em 11 de julho de 2008" (fl. 2.188), sendo inadequada a solução adotada na espécie, no sentido de meramente se decotar o montante que ultrapassou o limites de gastos municipais, haja vista que a hipótese versa a respeito de nulidade de pleno direito, "além de evidentemente lesivo ao erário, não podendo receber qualquer tipo de convalidação (arts. 169 do CC e 55 da Lei n.º 9.784/99, o último, contrario sensu)" (fl. 2.189).
+Nas razões do agravo, afirma que os pressupostos de admissibilidade do apelo nobre encontram-se presentes (fls. 2.225/2.237).
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República AURÉLIO VIRGÍLIO VEIGA RIOS, opinou pelo provimento do agravo em recurso especial (fls. 2.288/2.295).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Preenchidos os pressupostos de admissibilidade do agravo, desde já examino o próprio recurso especial.
+Dito isto, verifica-se que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência deste Superior Tribunal, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp n. 1.678.312/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 13/4/2021.).
+Com efeito, a delimitação da desistência formulado pelo autor, ora recorrente, foi expressamente reconhecida pelo Tribunal de origem ainda no julgamento do recurso de apelação. Senão vejamos (fl. 1.787):
+ ..
+Inicialmente, afirma o autor, ora apelante, que realmente se convenceu que a Lei municipal nº 2.536/2004 não gerou aumento de despesa com pessoal em 2005, contudo tal sorte não teve a Lei municipal nº 2.708/2008.
+ ..
+Da mesma forma, por ocasião do rejulgamento dos primeiros embargos de declaração a Câmara Julgadora assim se pronunciou, in litteris (fls. 2.155/2.156):
+ ..
+De uma detida análise dos autos, verifica-se que o acórdão embargado merece, de fato, revisão, notadamente porque o artigo 5º da Lei nº 2.708/08 já teve sua inconstitucionalidade reconhecida por este Tribunal, por meio do Incidente nº 1.0470.08.053054-1/004, sob a relatoria do em. Des. Francisco Kupidlowski.
+Na ocasião, reconheceu-se que "é inconstitucional a Lei Municipal que institui gratificação natalina para Prefeito, Vice-Prefeito e Vereadores sem observar as normas constitucionais que especificam o sistema remuneratório dos agentes políticos detentores de mandato eletivo, por meio de subsídio fixado em parcela única, vedado o - acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou qualquer outra espécie remuneratória, bem como o critério da anterioridade para a fixação das respectivas remunerações".
+Assim, é de se admitir a apontada omissão, uma vez que necessário o reconhecimento da referida inconstitucionalidade, notadamente considerando que, quando do julgamento do recurso de apelação e do primeiro julgamento destes embargos, já havia sido julgado o anteriormente citado Incidente de Inconstitucionalidade.
+Assim é que, diante do exposto, ACOLHO OS EMBARGOS DE DECLARAÇÃO, reconhecendo a inconstitucionalidade do artigo 5º da Lei nº 2.708/08, porém, sem efeitos modificativos, uma vez que já reconhecido, nos autos, pelo Ministério Público a irrepetibilidade do valor pago aos agentes políticos municipais, ante sua natureza o alimentar.
+Logo, não procede a tese de negativa de prestação jurisdicional.
+Quanto ao mérito, carece a parte recorrente de interesse recursal quanto à tese de afronta ao art. 21, parágrafo único, da Lei Complementar 101/2000, haja vista que, como se extrai do trecho acima colacionado, restou expressamente reconhecido pelo Tribunal de origem a inconstitucionalidade do art. 5º da Lei Municipal n. 2.708/2008.
+Sobreleva notar, por sua vez, que em nenhum momento a Corte estadual aduziu a possibilidade de convalidação do aludido reajuste tido por inconstitucional, limitando-se a consignar que, em face da natureza alimentar dos valores recebidos indevidamente, não precisariam ser restituídos ao erário.
+Ocorre que esse específico fundamento não foi impugnado pelo recorrente, sequer apontado qual o dispositivo de lei federal restaria efetivamente contrariado, o que atrai a incidência das Súmulas 283 e 284 /STF.
+ANTE O EXPOSTO, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se.
+EMENTA
