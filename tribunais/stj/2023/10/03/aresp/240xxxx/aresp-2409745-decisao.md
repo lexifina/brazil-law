@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por ZELIA DA SILVA HENNING contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia o acórdão assim ementado (e-STJ fls. 412):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS. QUALIDADE DE DEPENDENTE. VÍNCULO DE DEPENDÊNCIA ECONÔMICA DA GENITORA PARA COM O FILHO, INSTITUIDOR. NÃO COMPROVAÇÃO. AMPARO PREVIDENCIÁRIO. NÃO CABIMENTO. CONSECTÁRIOS DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. INVERSÃO. AJG. INEXIGIBILIDADE TEMPORÁRIA.
+1. A concessão do benefício de pensão por morte depende da ocorrência do evento morte, da demonstração da qualidade de segurado do de cujus e da condição de dependente de quem objetiva a pensão.
+2. A dependência econômica dos genitores em relação aos filhos não é presumida, devendo ser comprovada, a teor do disposto no art. 16, inciso II, c/c § 4º, da Lei 8.213/91. Para auferir o quadro de dependência econômica, não se exige que esta seja plena ou comprovada apenas documentalmente, mas deve ser lastreada em evidências concretas de aportes regulares e significativos ao sustento da parte-requerente, consubstanciando-se em mais do que simples "ajuda" financeira.
+3. Invertida a sucumbência, condena-se a parte autora ao pagamento das custas processuais e de honorários advocatícios, estes fixados em 10% sobre o valor da causa atualizado, considerando as variáveis dos incisos I a IV do § 2º e o § 11, ambos do artigo 85 do CPC, suspendendo-se a sua exigibilidade temporariamente em face do benefício da assistência judiciária gratuita.
+Os embargos de declaração foram rejeitados (e-STJ fl. 444).
+No especial obstaculizado, a parte recorrente apontou, além de dissídio jurisprudencial, violação dos arts. 373, I, do CPC/2015, 16, II, § 4º, da Lei n. 8.213/1991, ao argumento de que faz jus ao benefício de pensão por morte, visto que restou comprovado, por meio de testemunhas e relato individualizado de despesas domésticas, que dependia do filho falecido para sobreviver, embora não vivessem sob o mesmo teto na época do óbito.
+Alegou, ainda, que não foram considerados a prova testemunhal colhida e o depoimento pessoal, que, por si sós, comprovariam a dependência econômica da parte autora para o com o seu filho, instituidor da pensão.
+Sem contrarrazões. O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Não merece acolhida a irresignação.
+Destaco que esta Corte Superior de Justiça pacificou o entendimento no sentido de que, para fins de percepção de pensão por morte, a presunção de dependência econômica trazida no art. 16, § 4º, da Lei n. 8.213/91 é relativa, podendo ser afastada diante da existência de provas em sentido contrário.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORIGINÁRIA PELA OBTENÇÃO DE PENSÃO POR MORTE. JULGAMENTO DA APELAÇÃO POR DECISÃO MONOCRÁTICA. ALEGAÇÃO DE NULIDADE. NÃO OCORRÊNCIA. SITUAÇÃO SUPERADA PELO JULGAMENTO DO AGRAVO REGIMENTAL POR ÓRGÃO COLEGIADO. PRESUNÇÃO RELATIVA DE DEPENDÊNCIA ECONÔMICA NÃO SUPRIDA POR PROVA ADEQUADA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS. INVIABILIDADE DE REVISÃO DE MATÉRIA PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ALEGAÇÃO DE NULIDADE DA DECISÃO RECORRIDA, PELA IMPOSSIBILIDADE DA REALIZAÇÃO DE SUSTENTAÇÃO ORAL, OU SEJA, CERCEAMENTO DE DEFESA. INOCORRÊNCIA. O ART. 16 DA LEI 8.213/1991 NÃO PREVÊ QUE A SUSTENTAÇÃO ORAL SUPRA A INSUFICIÊNCIA DE PROVAS. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. A eventual nulidade de decisão monocrática lastreada no art. 557 do CPC/1973 fica superada com a reapreciação do recurso pelo órgão colegiado na via de agravo regimental.
+2. O inc. II, § 4º do art. 16 da Lei 8.213/1991 estabelece uma presunção relativa de dependência econômica dos pais em relação de filho falecido.
+3. As instâncias de origem, com base no exame do acervo probatório dos autos, concluíram que não há comprovação de dependência econômica dos autores em relação ao falecido, restando consignado na sentença, inclusive, que os autores levaram anos após o óbito para demandar junto ao Judiciário o benefício da pensão por morte, em questão.
+4. Não comprovados os requisitos para a concessão do benefício, não merece reparos o acórdão recorrido.
+5. Agravo Interno dos Particulares a que se nega provimento. (AgInt no AREsp 699.775/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/03/2019, DJe 26/03/2019).
+Cito, ainda, o AgRg nos EDcl no AREsp 396.299/SP, rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 17/12/2013, DJe 07/02/2014, e o AgRg no REsp 1474478/SP, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/11/2015, DJe 10/12/2015.
+Segundo consta dos autos, a Corte de origem, instância soberana na análise de provas, concluiu pela não comprovação da dependência econômica da recorrente em relação ao seu filho falecido, com apoio no conjunto fático-probatório, como se lê do seguinte trecho (e-STJ fls. 415/416):
+Caso concreto:
+Analisando os autos, denota-se que a parte autora alega que a renda do falecido era voltada ao seu sustento e de seus pais.
+Em juízo, a oitiva das testemunhas fornece um relato uníssono, no sentido da contribuição do falecido no sustento do lar.
+A testemunha Joana Benck disse que é proprietária de uma loja de roupas, e a autora é sua cliente há muitos anos. Afirmou que todos os produtos comprados a prazo pela Sra. Zélia eram posteriormente pagos por seu filho Fernando, uma vez que era ele que custeava as despesas da casa (movimento 80. 3).
+A testemunha Luiz Carlos Giovanetti disse que é proprietário de uma farmácia no município de Sengés, e conhece a autora há aproximadamente trinta anos. Relatou ainda que todos os meses a autora comprava medicamentos a prazo, os quais eram posteriormente pagos pelo filho da autora na data convencionada. Por fim, afirmou que após o óbito do Sr. Fernando as compras da autora na farmácia reduziam (movimento 80.4).
+A testemunha Marcos Rocha disse que é proprietário de um mercado no município de Sengés e sempre vendeu produtos a prazo para a sra. Zélia, e posteriormente seu filho Fernando quitava todas as contas feitas por ela em seu estabelecimento (movimento 80.5).
+Não obstante, além dos testemunhos, a parte autora juntou aos autos apenas contas de energia elétrica em nome do finado em endereço de propriedade dos pais, demonstrando que era ele quem custeava a despesa (movimento 1.7).
+Ao contrário do magistrado de primeiro grau, entendo que não há demonstração de quais expensas domésticas fossem atribuídas exclusivamente ao falecido, que já contava com 25 anos quando sobreveio seu falecimento, e que mantinha despesas próprias - enfatiza-se o fato de que o instinto morava separado de seus pais. Tenho que não está comprovada a situação de dependência econômica. De fato, não se exige que esta seja plena ou comprovada apenas documentalmente, mas que seja lastreada em evidências concretas de trabalho regular e significativo ao sustento da família ou mais especificamente, da requerente, consubstanciando-se em algo mais do que simples "ajuda" financeira.
+Ante a fragilidade dos relatos colhidos, e sua natural imprecisão quando aos aspectos intrínsecos do orçamento doméstico, considero que deve ser provido o recurso.
+Nesse sentido, colaciono:
+ ..
+Neste sentido tenho que merece provimento a irresignação.
+Diferentemente do alegado, houve análise de todos os meios de prova produzidos, quais sejam as provas materiais e testemunhais, porém, o juízo a quo concluiu pela não comprovação da dependência econômica.
+Dessa forma, a modificação desse esse entendimento demandaria necessariamente o reexame de matéria fático-probatória, providência vedada em sede de recurso especial ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. PENSÃO POR MORTE. AUSÊNCIA DE COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Não pode esta Corte Superior rever o entendimento, baseado no conjunto de fatos e de provas dos autos, firmado pelo Tribunal local, no sentido de que não ficou comprovada a dependência econômica entre parte autora (filho maior que recebe aposentadoria por invalidez) e o instituidor do benefício.
+2. A averiguação do preenchimento dos requisitos para a concessão do benefício previdenciário em debate é medida que implicaria em reexame do arcabouço de fatos e provas integrantes dos autos, o que é vedado do STJ, a teor de sua Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 938.392/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 21/11/2017).
+PREVIDENCIÁRIO. PENSÃO POR MORTE. EX-CÔNJUGE. COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA NÃO DEMONSTRADA. REVALORAÇÃO DA PROVA. DESCABIMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Para fins de percepção de pensão por morte, a dependência econômica entre o ex-cônjuge e o segurado falecido deve ser demonstrada, não podendo ser presumida.
+2. No caso dos autos, o acórdão recorrido entendeu que "o conjunto probatório apresentado nos autos não logrou êxito em comprovar a alegada dependência econômica entre a parte autora e o de cujus ".
+ ..
+5. Tendo o acórdão de origem assentado suas conclusões sobre a prova juntada aos autos, não se pode acolher a pretensão recursal sem proceder ao revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+6. Agravo Interno não provido (AgInt no AREsp 899.286/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/08/2016, DJe 09/09/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
