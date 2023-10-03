@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/09/2023 a 03/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. NÃO PREENCHIMENTO DO REQUISITOS DOS ARTIGOS 105, INC. I, ALÍNEA F, DA CRFB E 988 DO CPC. UTILIZAÇÃO DO INSTITUTO COMO VIA RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+A reclamação não se mostra como a via adequada para revisar ou rejulgar decisão contrária ao interesse da reclamante, ainda que tenha contrariado julgados deste Tribunal em outros processos, porque a reclamação não pode funcionar como sucedâneo de recurso próprio, devendo, o reclamante, se valer do meio processual adequado.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAIMUNDO JOSÉ DOS REIS FILHO contra decisão monocrática de fls. 17-19, que não conheceu da reclamação.
+Neste regimental, o agravante alega que "o douto Ministro equivocadamente proferiu Decisão interlocutória, na qual "não conheceu da Reclamação" regularmente intentada, cerceando a defesa dos direitos do Agravante, de ver apreciado pelo Judiciário, a ilegalidade do Atos do Juiz Reclamado, em violenta afronta à regra de respeito ao "devido processo legal"" (fl. 23).
+Assevera que "com a equivocada Decisão que "não conheceu da Reclamação", ignora o douto Ministro, o que DETERMINA o Art. 46 do RISTJ, em face do "Descumprimento" das Ordens desta Corte, por parte do Magistrado, ora Agravado Assim deve ser conhecido o presente AGRAVO, com o consequente prosseguimento da "Reclamação" regularmente proposta, para "apreciação", pelo (PLENO) Superior Tribunal de Justiça, das ilegalidades cometidas pelo Juiz Reclamado, ora Agravado" (fl. 25).
+Requer o provimento do agravo regimental, para que seja julgada procedente a reclamação, "para "apreciação" pelo (PLENO) Superior Tribunal de Justiça, da "desobediência" das Ordens desta Corte Superior, por parte do Juiz de Direito, da Vara de CORREIÇÕS PRISIONAIS da Comarca de Uberlandia / MG, ora Agravado" (fl. 25).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. NÃO PREENCHIMENTO DO REQUISITOS DOS ARTIGOS 105, INC. I, ALÍNEA F, DA CRFB E 988 DO CPC. UTILIZAÇÃO DO INSTITUTO COMO VIA RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+A reclamação não se mostra como a via adequada para revisar ou rejulgar decisão contrária ao interesse da reclamante, ainda que tenha contrariado julgados deste Tribunal em outros processos, porque a reclamação não pode funcionar como sucedâneo de recurso próprio, devendo, o reclamante, se valer do meio processual adequado.
+Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece prosperar.
+Com efeito, em suas razões, o agravante não traz nenhum argumento apto a desconstituir a decisão monocrática que culminou no não conhecimento da reclamação.
+Conforme já consignado na decisão agravada (fls. 18-19):
+"Nos termos dos artigos 105, I, f, da Constituição Federal e 988 do CPC, a Reclamação tem como finalidade preservar a competência do Superior Tribunal de Justiça ou garantir a autoridade de suas decisões, sempre que haja indevida usurpação, por parte de outros órgãos, de sua competência constitucional.
+Registre-se, ainda, que o referido instituto não é o instrumento adequado para preservar a jurisprudência do STJ, mas sim, a autoridade de decisão tomada em caso concreto, envolvendo as partes postas no litígio do qual ela se origina, sob pena de tornar o instrumento processual mero sucedâneo recursal (AgRg na Rcl 37.822/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 12/06/2019, DJe 17/06/2019 e AgInt na Rcl n. 31.462/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 29/3/2022, DJe de 31/3/2022.)
+Ademais, "a utilização da reclamação para preservação da competência do STJ não deve ser ampliada para o controle do mérito das decisões tomadas por juízes inegavelmente competentes para o processo principal, fora das hipóteses contidas no art. 988 do CPC, sob pena de transformar o presente instrumento de cunho excepcional em mero sucedâneo de recurso" (STJ, Rcl 39.884/AL, Rel. p/ acórdão Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 19/08/2022).
+In casu, pretende o Reclamante a preservação da decisão proferida por esta Corte de Justiça, nos autos do RHC nº 177.017/MG, de minha Relatoria, que não conheceu do recurso, contudo, concedeu a ordem de writ de ofício "para anular o julgamento constante do v. acórdão proferido nos autos do HC n. 1.0000.22.159158-9/000, determinando sejam apreciadas pelo eg. Tribunal a quo, como entender de direito, as questões ali deduzidas, com recomendação de celeridade" (fls. 7/10).
+Ocorre que o reclamante se insurge contra ato praticado pelo Juízo de Direito da Corregedoria dos Presídios do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que procedeu ao arquivamento do processo nº 4400327-05.2020.8.13.0701, nos seguintes termos:
+"Ciente das informações contidas nos autos, considerando que não há alterações a serem feitas no presente feito, visto que se trata de incidente no meio Corregedoria dos Presídios, bem como determinação a ser cumprida pelo Eg. Tribunal de Justiça de Minas Gerais, proceda-se ao arquivamento definitivo do presente feito." (fl. 11).
+Com efeito, consoante despacho supra, verifica-se que a ordem emanada no RHC nº 177.017/MG, consistente em novo julgamento do writ, foi direcionada ao TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS e não ao Juiz de Direito da Corregedoria dos Presídios do TJMG, razão pela qual a decisão de arquivamento dos autos nº 4400327-05.2020.8.13.0701 não descumpriu diretamente decisão proferida por esta Corte de Justiça, não tendo restado configurada, por conseguinte, a necessidade de preservação da competência do STJ.
+Em verdade, o que pretende o reclamante é rever julgado proferido no processo nº 4400327-05.2020.8.13.0701, sendo certo que é inviável o ajuizamento de reclamação como sucedâneo recursal.
+Portanto, eventual insatisfação do reclamante quanto à decisão proferida somente é possível de ser questionada pelas vias recursais cabíveis.
+Por fim, o reclamante possui a faculdade de diretamente representar junto ao Ministério Público Federal, ao Conselho Nacional de Justiça e à Ordem dos Advogados do Brasil, noticiando os fatos ora relatados. "
+Assim, conforme já salientado na r. decisão agravada, a reclamação não se mostra como a via adequada para revisar ou rejulgar decisão contrária ao interesse da reclamante, ainda que tenha contrariado julgados des te Tribunal em outros processos, porque a reclamação não pode funcionar como sucedâneo de recurso próprio, devendo, o reclamante, se valer do meio processual adequado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. ALEGAÇÃO DE DESRESPEITO DE MATÉRIA JULGADA EM HABEAS CORPUS COLETIVO. FATOS DISTINTOS. NÃO CABIMENTO. RECLAMAÇÃO JULGADA EXTINTA SEM RESOLUÇÃO DO MÉRITO.
+A reclamação não se mostra como a via adequada para impugnar descumprimento de decisão proferida em sede de habeas corpus coletivo, ou ainda para revisar ou rejulgar decisão contrária ao interesse da reclamante, devendo se valer do meio processual adequado.
+Agravo regimental desprovido" (AgRg na Rcl n. 41.443/PR, Terceira Seção, Rel. Min. Felix Fischer, DJe de 04/05/2021).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
