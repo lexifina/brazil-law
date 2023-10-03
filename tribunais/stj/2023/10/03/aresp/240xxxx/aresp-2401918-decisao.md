@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional e da incidência da Súmula n. 7 do STJ (e-STJ fls. 429/431).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 355):
+Embargos de terceiro. Sentença de extinção, sem resolução do mérito, em razão da perda de objeto. Irresignação do embargado. Oposição justificada pela determinação de bloqueio na matrícula do imóvel de propriedade dos embargantes em ação pauliana. Evidente interesse processual de defesa da propriedade. Superveniência de perda de objeto devido à inclusão dos demandantes no polo passivo da ação pauliana. Banco embargado que tinha ciência da alienação do imóvel aos embargantes mas somente requereu a inclusão destes no polo passivo após determinação judicial. Embargado que deu causa ao ajuizamento da demanda e ao seu esvaziamento, devendo arcar como ônus da sucumbência. Sentença mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 375/379).
+Nas razões do recurso especial (e-STJ fls. 381/402), fundamentado no art. 105, III, "a", da CF, a parte alega violação dos arts. 447 e 450 do CC/2002, 6º, 11, 85, 86, 114, 115, 371, 489, § 1º, e 1.022, II, e § 1º do CPC/2015.
+Aponta negativa de prestação jurisdicional, aduzindo que o Tribunal de origem deixou de se manifestar acerca dos seguintes pontos: "(i) inexistência de litisconsórcio necessário ante a possibilidade de utilização do instituto da evicção, bem como (ii) a impossibilidade de condenação do Recorrente ante o acolhimento do pleito de extinção do feito sem resolução do mérito, ou quando muito porque não deu origem aos Embargos de Terceiro, razão pela qual teria decaído o mínimo, como demonstra abaixo" (e-STJ fls. 394/395).
+Assevera que "conforme amplamente mencionado pelo Recorrente não havia necessidade do ajuizamento dos Embargos de Terceiros, tendo em vista que os Recorridos poderiam ter ingressado nos autos da Ação Pauliana por meio de assistência litisconsorcial ou quando muito por mera petição, como ocorreu no presente caso, razão pela qual o Banco Safra confia que este E. Superior Tribunal de Justiça reformará o v. acórdão para que seja reconhecida ausência de interesse de agir dos Recorridos ante a desnecessidade da interposição dos Embargos de Terceiros" (e-STJ fl. 398).
+Acrescenta que o princípio da causalidade prevê que a parte responsável pelo ajuizamento da demanda deve arcar com as custas e os honorários advocatícios e afirma que, "tendo optado por ajuizar a ação de origem para discutir matéria que não possui interesse de agir, ou que poderia ter apresentado mera petição nos autos principais, não há dúvidas que foram os Recorridos quem deram causa aos Embargos de Terceiros" (e-STJ fl. 400).
+No agravo (e-STJ fls. 434/455), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 459/485 (e-STJ).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Em relação à tese, o Tribunal de origem assim se manifestou (e-STJ fls. 356/357):
+Em primeiro lugar, impende esclarecer que não prospera a alegação de ausência do interesse processual dos embargantes.
+Nos termos do artigo 674 do CPC: "Quem, não sendo parte do processo, sofrer constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, deverá requerer seu desfazimento ou sua inibição por meio de embargo de terceiro".
+Havendo determinação de bloqueio da matrícula do imóvel (fls. 515/518 dos autos da ação pauliana) e recaindo a constrição sobre bem alienado a terceiro, perfeitamente se amolda o caso a uma das hipóteses de utilização dos embargos de terceiro para defesa do direito de propriedade pelos adquirentes.
+Aliás, por expressa previsão legal a mera ameaça de perda da propriedade já geraria o interesse de agir dos embargantes.
+(..)
+Assim, é descabida a afirmação de que a ação sequer deveria ter sido proposta, visto que enquanto não houve a inclusão dos embargantes no polo passivo da ação pauliana eles eram terceiros e poderiam defender o direito por esta via.
+(..)
+Havendo perda superveniente de objeto, a condenação a suportar os ônus sucumbenciais ocorre por aplicação do princípio da causalidade, de modo que a imputação da sucumbência requer a investigação de qual parte teve a responsabilidade pelo ajuizamento da demanda, bem como pelo seu esvaziamento(cf. STJ, AgInt no REsp 1825839/BA, 2ª Turma, Rel. Min. Francisco Falcão, j. 12/11/2019; AgInt no REsp 1862605/RS, 1ª Turma, Rel. Min. Gurgel de Faria, j. 16/11/2020; REsp 1854706/RS, 2ª Turma, Rel. Min Herman Benjamin, j. 05/03/2020).
+Sendo dever do banco embargado o requerimento de citação dos réus da ação pauliana e havendo inclusão tardia dos embargantes no polo passivo, é certo afirmar que o embargado deu causa ao ajuizamento desta demanda, devendo suportar integralmente o ônus da sucumbência.
+Ademais, pelos motivos já expostos, não se poderia afirmar que houve sucumbência recíproca, tampouco que o apelante sucumbiu na parte mínima, devendo ser mantida a condenação nos exatos termos da sentença.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Ademais, a Corte estadual decidiu os temas com base no exame de fatos e provas. Concluir de outra forma, acolhendo as alegações recursais, no que diz respeito ao interesse de agir dos agravados e à sucumbência , demandaria revisão do conjunto fático-probatório, o que, repito, é obstado pela Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
