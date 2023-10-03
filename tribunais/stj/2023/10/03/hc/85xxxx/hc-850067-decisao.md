@@ -1,0 +1,28 @@
+DECISÃO
+ADELICIO ASSUNÇAO DE SOUZA JUNIOR alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0000011-75.2017.8.26.0570.
+Consta dos autos que o paciente foi condenado a 15 anos de reclusão, em regime inicialmente fechado, pela prática do delito previsto no art. 121, § 2º, II, III e IV.
+O impetrante busca, por meio deste writ, o redimensionamento da reprimenda imposta.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+Decido.
+I. Contextualização
+O paciente foi condenado pelo crime descrito no art. 121, § 2º, II e IV, tendo o Juízo singular fixado a pena-base da seguinte forma (fls. 635-636):
+Na primeira fase em relação as oitos circunstâncias judiciais do art. 59 do Código Penal,não há elementos que justifiquem a exasperação da pena, mormente porque os motivos e o modode execução do delito já foram objeto de quesitação. Ressalto, ainda, que não consta dos autos a existência de sentença penal condenatória transitada em julgado por fato pretérito àqueles objetodeste processo, razão pela qual, em atenção ao princípio da presunção de inocência, nada há a serconsiderado neste momento. Fixo, portanto, a pena-base no mínimo legal, de 12 anos de reclusão. Bastando uma circunstância qualificadora para fixação de novo patamar, no caso a prevista pelo artigo 121, §2º, inciso III, as duas qualificadoras remanescentes devem ser usadascomo agravantes já que constam do rol do artigo 61 do Código Penal, sendo esta segunda fase, no caso, a adequada para incidência.
+ ..
+No entanto, observo que ambos os réu apresentaram, em sede de autodefesa, confissãoparcial dos fatos, já que, apesar de admitirem ter golpeado a vítima, alegaram que o fizeram emlegítima defesa. Nesta hipótese, a Jurisprudência, embora não seja uníssona, entende que "a confissão qualificada, quando efetivamente utilizada como elemento de convicção, enseja a aplicação da atenuante prevista na alínea "d" do inciso III do art. 65 do CP (STJ. 5ª Turma. AgRgno REsp 1.198.354-ES, Rel. Min. Jorge Mussi, julgado em 16/10/2014)". E em se tratando de crimes da competência do Tribunal do Juri, em que o julgamento se funda na intima convicçãodos jurados, não há como se desconsiderar que a confissão tenha influído no ânimo dos jurados,sendo de rigor o reconhecimento desta atenuante. Assim, e considerando a predominância destaatenuante, por um lado, e a existência de duas agravantes, de outro, exaspero a pena base em  , fixando-a em 15 anos de reclusão. Na terceira fase, sem causas de aumento ou diminuição, torno definitiva a pena em 15 anos de reclusão.
+Ante o exposto, julgo procedente o pedido para o fim de dar os réu como incurso naspenas do art. 121, § 2º, II, III e IV, do Código Penal, condenandoAdelício Assunção de Souzae Daniel Felix dos Santos a pena de 15 anos de reclusão.
+Inconformada, a defesa interpôs apelação perante a Corte estadual que, à unanimidade, negou provimento ao apelo, nos termos a seguir (fl. 730):
+ApelaçãoCriminalHOMICÍDIOQUALIFICADOPreliminar. Uso de algemas. Nulidade. Não reconhecimento. Não incidência da Súmula Vinculante 11 do C. SupremoTribunal Federal. Situação excepcional reconhecida de maneiramotivada. Mérito. Conjunto probatório que não afasta a responsabilidade dos réus Opção dos jurados pela teseacusatória que encontrou respaldo nas provas produzidasdurantes a persecução penal. Legitimidade do decisum que se mantém intacto, mesmo em relação às qualificadoras do motivo fútil e recurso que impossibilitou a defesa da vítima. NEGADO PROVIMENTO AOS APELOS.
+II. Dosimetria da pena
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Na hipótese, ao contrário do alegado pela defesa, noto que o Juízo de primeiro grau reconheceu a atenuante da confissão, in verbis: "E em se tratando de crimes da competência do Tribunal do Juri, em que o julgamento se funda na intima convicção dos jurados, não há como se desconsiderar que a confissão tenha influído no ânimo dos jurados, sendo de rigor o reconhecimento desta atenuante".
+Lado outro, assiste razão à Defensoria Pública da União em relação ao quantum de aumento de pena, tendo em vista que o juízo a quo erroneamente asseverou que, "considerando a predominância desta atenuante, por um lado, e a existência de duas agravantes, de outro, exaspero a pena base em  , fixando-a em 15 anos de reclusão".
+Ora, se a atenuante da confissão é predominante, inequívoco que a fração de aumento decorrente das agravantes deve ser inferior a 1/6, e não superior, como fixado pelo juiz sentenciante.
+Passo, portanto, à nova dosimetria.
+A reprimenda-base foi fixada em 12 anos de reclusão.
+Na segunda fase, diante da reconhecida predominância da atenuante da confissão, agravo a reprimenda em 1/8, tornando definitiva a pena de 13 anos e 6 meses de reclusão, diante da ausência de outras causas de aumento ou diminuição de pena.
+III. Dispositivo
+À vista do expos to, concedo parcialmente a ordem, a fim de reduzir a reprimenda da paciente para 13 anos e 6 meses de reclusão, mantidos os demais termos da decisão impugnada.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para adoção das providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
