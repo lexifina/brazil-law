@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por M DE OLIVEIRA ADVOGADOS & ASSOCIADOS, contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA COLETIVO. CUMPRIMENTO DE SENTENÇA INDIVIDUAL. HONORÁRIOS ADVOCATÍCIOS CONTRATADOS EXCLUSIVAMENTE PELO SINDICATO. RETENÇÃO PELO ESCRITÓRIO DE ADVOCACIA. AUSÊNCIA DE AUTORIZAÇÃO DOS FILIADOS. IMPOSSIBILIDADE.
+1. O Supremo Tribunal Federal já reconheceu a ampla legitimidade extraordinária dos sindicatos para defender em juízo os direitos e interesses coletivos ou individuais dos integrantes da categoria que representam, inclusive nas liquidações e execuções de sentença, independentemente de autorização dos substituídos.
+2. A retenção pleiteada pela parte agravante sobre o montante da condenação do que lhe cabe por força de honorários contratuais firmados com o sindicato só é permitida quando juntado aos autos, antes da expedição da requisição, o contrato respectivo, que deve ter sido celebrado com cada um dos filiados, ou, ainda, a autorização destes para que haja tal retenção.
+3. Agravo de Instrumento conhecido e não provido."
+Opostos Embargos Declaratórios, em 2º Grau, restaram eles parcialmente acolhidos, sem efeitos infringentes.
+No Recurso Especial a parte ora agravante apontou violação aos arts. 1.022, II, do CPC/2015, 884 do Código Civil e 22, §§ 4º e 7º, da Lei 8.906/94, sustentando a nulidade do acórdão dos Embargos Declaratórios, por suposta omissão não suprida, bem como a possibilidade de destaque dos honorários contratuais, na espécie.
+Inadmitido o Recurso Especial, na origem, foi interposto o Agravo em Recurso Especial.
+A referida matéria foi afetada, em 25/10/2022, pela Primeira Seção do STJ, para julgamento segundo o rito dos recursos repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, nos REsp 1.965.394/DF, REsp 1.965.559/DF, REsp 1.965.849/DF e REsp 1.979.911/DF, de relatoria do Ministro GURGEL DE FARIA.
+Na ocasião, a controvérsia a ser dirimida restou assim delimitada: "Necessidade de apresentação do contrato celebrado com cada um dos filiados para que o sindicato p ossa reter os honorários contratuais sobre o montante da condenação" (Tema 1.175/STJ).
+Nesse julgamento, determinou-se a suspensão da tramitação de processos com recurso especial e/ou agravo em recurso especial interposto, em tramitação na origem e/ou no STJ.
+Ante o exposto, determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o Recurso Especial: (a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I.
+EMENTA
