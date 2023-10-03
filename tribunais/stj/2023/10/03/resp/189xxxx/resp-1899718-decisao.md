@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pela CONSTRUTORA VETOR LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 387):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DO IRPJ E CSLL. LEGALIDADE. IMPROVIMENTO.
+1. Trata-se de apelação interposta por Construtora Vetor LTDA e outro em face de sentença que denegou a segurança. Os impetrantes tinham por objetivo o reconhecimento da não inclusão dos valores do ICMS e do ICMS-ST na base de cálculo do IRPJ e da CSLL. Sem condenação em honorários advocatícios, a teor do art. 25 da Lei 12.016/09.
+2. Em suas razões recursais, os apelantes requerem a inexistência de relação jurídico-tributária ao recolhimento no regime do lucro presumido do IRPJ e da CSLL calculados indevidamente sobre o valor total devido de ICMS e ICMS-ST (substituição tributária). Além disso, pugnam pelo direito de compensação dos valores indevidamente recolhidos nos últimos cinco anos e eventualmente no curso da demanda.
+3. O Supremo Tribunal Federal, nos autos do RE 574.706/PR, com repercussão geral reconhecida, firmou o entendimento que o Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) não integra a base de cálculo das contribuições para o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (COFINS). Precedente: RE 574.706/PR, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgamento em 15/03/2017.
+4. Quanto à inclusão do ICMS, ICMS-ST, na base de cálculo do IRPJ e da CSLL, a Segunda Turma tem posicionamento firme no sentido de que "há de se respeitar a presunção de constitucionalidade das normas de regência, sobretudo pelo fato de que a tese firmada pelo STF, no bojo do RE 574.706-PR, limita-se à exclusão do ICMS da base de cálculo das contribuições para o PIS/COFINS, não abrangendo outras exações, de modo que permanece legal a inclusão do ICMS na base de cálculo do IRPJ e da CSLL. Precedentes: TRF5, PJE 08018613320174058401, Rel. Des. Federal Paulo Machado Cordeiro, Segunda Turma, Julgado em 26/06/2019; TRF5, PJE 0806448-67.2018.4.05.8400, Rel. Des. Federal Paulo Roberto de Oliveira Lima, Segunda Turma, Julgado em 28/05/2019.
+5. Apelação improvida.
+Embargos de declaração rejeitados (e-STJ fls. 410/413).
+Em seu recurso especial, a parte sustenta, além de divergência entre julgados, violação do art. 110 do CTN e das Leis n. 9.718/1998, n. 10.637/2002 e n. 10.833/2003.
+Defende, em suma, ser ilegal a inclusão do ICMS - substituição tributária - na base de cálculo do IRPJ e da CSLL no lucro presumido.
+Contrarrazões às e-STJ fls. 533/572.
+Recurso admitido na origem (e-STJ fl. 617).
+O parecer do MPF, às e-STJ fls. 638/642 opina pelo parcial provimento do recurso.
+Passo a decidir.
+A questão jurídica relativa à possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido, foi afetado à sistemática do recursos especiais repetitivos (REsps n. 1.767.631/SC, 1.772.634/RS e 1.772.470/RS, relatora a em. Ministra Regina Helena (Tema 1.008).
+Esse mesmo entendimento deve ser aplicado quando a pretensão é a exclusão do ISS das bases de cálculo do IRPJ e CSLL - um dos temas versados no presente recurso especial.
+Nesse sentido, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. AGRAVO NÃO CONHECIDO.
+1. Recurso especial em que se discute a possibilidade de inclusão de valores de ISS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido.
+2. A questão jurídica relativa à possibilidade de inclusão de valores de ICMS nas bases de cálculo do Imposto sobre a Renda de Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL, quando apurados pela sistemática do lucro presumido, constitui tema dos Recursos Especiais n. 1.767.631/SC, 1.772.634/RS e 1.772.470/RS, da relatoria da Min. Regina Helena Costa, submetido ao rito dos recursos repetitivos (Tema 1.008), cujo processamento se encontra pendente na Primeira Seção.
+3. Esta Corte tem entendido que as mesmas regras aplicáveis aos casos de ICMS devem ser adotadas ao ISS. Portanto, por economia processual, o presente feito deve ser suspenso para aguardar a manifestação desta Corte sobre o tema paradigma.
+4. Ademais, "é inadmissível a interposição de recurso em desfavor de decisão que determina a baixa dos autos para juízo de conformação do feito, em virtude do julgamento de recurso especial submetido à sistemática dos recursos repetitivos" (AgInt no REsp 1.719.843/AM, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 25/9/2019).
+5. Agravo interno não conhecido.
+(AgInt no REsp 1864439/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/06/2020, DJe 30/06/2020).
+Assim, encontrando-se o tema afetado à sistemática dos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012.
+Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Min. Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, rel. Min. Benedito Gonçalves, DJe 17/03/2016.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, observe o disposto no art. 1.040 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
