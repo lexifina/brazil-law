@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMT assim ementado (e-STJ fl. 530):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDOS DE DANOS MATERIAIS E MORAIS - PLANO DE SAÚDE - FORNECIMENTO DE MEDICAMENTO "ENOXAPARINA 40MG" - USO DOMICILIAR - TRATAMENTO PRESCRITO POR MÉDICO DA PACIENTE - RECUSA INDEVIDA - ABUSIVIDADE CONSTATADA - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+1. Se o tratamento está prescrito pelo médico assistente, sendo ele ministrado em ambulatório ou no domicílio do paciente, a cláusula contratual que a exclui seu fornecimento é abusiva.
+2. Nesse passo, embora a requerida, ora apelante, não se conforme com o resultado da sentença recorrida, na hipótese, o item "b" da cláusula sétima do contrato firmado entre as partes (id. 107293054 - pág. 8), na qual, redigida de forma genérica, exclui o fornecimento de medicamento para tratamento domiciliar, é abusiva.
+3. Ainda que reconhecida a taxatividade do rol da ANS, da análise de todo o processado, a requerida, ora apelante, não comprovou que no referido rol haja tratamento com método eficaz, efetivo e seguro para o tratamento da requerente, ora apelada.
+4. Por sua vez, quanto à análise do preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela requerente, ora apelada, delineados pela Segunda Seção do Superior Tribunal de Justiça nos EREsps de n.ºs 1.889.704/SP e 1.886.929/SP, extrai-se que não há nada nos autos que evidencie que a ANS tenha indeferido expressamente a utilização do medicamento "Enoxaparina 40mg", razão pela qual, ao negar o seu fornecimento, a requerida, ora apelante, evidentemente, praticou ato ilícito.
+5. Não fosse suficiente, deve ser considerado que, se a doença diagnosticada na requerente, ora apelada, está listada na classificação da Organização Mundial da Saúde, sob o código CID D 68.9, logo, a cobertura para seu tratamento, ao simples fundamento de que se trata de medicamento de uso domiciliar, não pode ser negada.
+Nas razões do especial (e-STJ fls. 545/558), fundamentado no art. 105, III, "a" e "c", da CF/1988, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 10, VI, e § 4º, e 12,VI, da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000, afirmando ser legítima a limitação do custeio do remédio descrito na exordial, pois ele seria de uso domiciliar, além de que não estaria previsto no rol da ANS, que teria natureza taxativa.
+Contrarrazões às fls. 564/574 (e-STJ) , requerendo a condenação da recorrente ao pagamento de multa por litigância de má-fé.
+Decisão pela admissibilidade do recurso às fls. 575/578 (e-STJ).
+É o relatório.
+Decido.
+Conforme o entendimento desta Corte Superior, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+Do mesmo modo:
+DIREITO CIVIL E CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES MELLITUS TIPO 1. BOMBA INFUSORA DE INSULINA. USO DOMICILIAR. AUTOADMINISTRAÇÃO. EXCLUSÃO DE COBERTURA. POSSIBILIDADE. NEGATIVA LEGÍTIMA. AGRAVO INTERNO PROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. Conforme entendimento de ambas as Turmas que compõem a Segunda Seção do STJ, não há obrigatoriedade de cobertura de bomba infusora de insulina (e insumos), por se tratar de equipamento de uso domiciliar.
+3. Agravo interno provido.
+(AgInt no REsp n. 1.933.209/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/6/2023, DJe de 19/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA USO DOMICILIAR. EXCLUSÃO DE COBERTURA LÍCITA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Conforme entendimento do Superior Tribunal de Justiça, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim" (REsp 1692938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.124.296/GO, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/6/2023, DJe de 15/6/2023.)
+O TJMT dissentiu de tal entendimento, porque condenou a recorrente ao custeio do medicamento descrito na exordial, mesmo ele sendo de uso domiciliar. Confira-se (e-STJ fls. 532/535):
+Inicialmente, insta consignar que, à época, a requerida, ora apelante, ao interpor seu apelo, apontava que, como o medicamento "Enoxaparina 40mg" seria de uso domiciliar, não teria qualquer obrigação no seu fornecimento.
+Ao analisar a questão, esta Quarta Câmara Cível, por unanimidade, refutou o argumento recursal da requerida, ora apelante, sob o fundamento de que a cláusula contratual que exclui o fornecimento, pela operadora do plano de saúde, de medicamentos que devem ser ministrados em ambulatório ou no domicílio do paciente é abusiva.
+E, para que dúvidas não remanesçam, transcrevo o excerto do acórdão mencionado:
+(..)
+Em suas razões recursais, a requerida UNIMED NORTE MATO GROSSO - COOPERATIVA DE TRABALHO MÉDICO, ora primeira apelante, sustenta que, tratando-se o medicamento "Enoxaparina 40mg" de uso domiciliar, não tem qualquer obrigatoriedade no seu fornecimento.
+Salienta que, conforme contrato firmado entre as partes e por não haver previsão no Rol da ANS, não há cobertura para medicamento de uso domiciliar, exceto para os casos de tratamento de câncer, de modo que a ação deve ser julgada improcedente.
+Não assiste razão à requerida, ora primeira apelante.
+Isso porque, embora não se conforme com o resultado da sentença recorrida, esta Quarta Câmara Cível possui entendimento no sentido de que é abusiva a cláusula contratual que exclui o fornecimento, pela operadora do plano de saúde, de medicamentos que devem ser ministrados em ambulatório ou no domicílio do paciente.
+Nesse sentido, vejamos o recentíssimo precedente desta Quarta Câmara Cível:
+(..)
+Aplica-se o Código de Defesa do Consumidor aos planos de saúde, salvo os administrados por entidades de autogestão (Súmula nº. 608 do STJ).
+A administradora do plano de saúde é parte legítima para figurar no polo passivo da demanda pois o parágrafo único do artigo 7º do CDC preceitua que todos os participantes da cadeia de fornecimento do serviço respondem solidariamente pela reparação de danos causados ao consumidor, até mesmo porque a administradora aufere benefício financeiro com a permanência do beneficiário no plano, razão pela qual responde objetivamente com a operadora do plano de saúde pelos danos decorrentes da prestação do serviço defeituosa.
+(..)
+A alegação de que o método indicado não consta no rol da ANS não justifica a recusa no custeio, visto que essa lista é meramente exemplificativa e contém apenas o mínimo obrigatório de procedimentos a serem cobertos pela operadora.
+O médico que acompanha o paciente é quem apresenta melhor condição técnica para a escolha da intervenção mais adequada ao combate dos sintomas diagnosticados, sendo desaconselhável a prestação jurisdicional contrária a essa prescrição e sem suporte científico.
+(..)
+Feito esse introito, o não provimento do apelo da requerida, ora apelante, é medida que se impõe.
+Isso porque, como dito em linhas acima, o entendimento adotado por esta Quarta Câmara Cível é no sentido de que, se o tratamento está prescrito pelo médico assistente, sendo ele ministrado em ambulatório ou no domicílio do paciente, a cláusula contratual que a exclui seu fornecimento é abusiva.
+Nesse passo, embora a requerida, ora apelante, não se conforme com o resultado da sentença recorrida, na hipótese, o item "b" da cláusula sétima do contrato firmado entre as partes (id. 107293054 - pág. 8), na qual, redigida de forma genérica, exclui o fornecimento de medicamento para tratamento domiciliar, é abusiva.
+A propósito, vejamos o que dispõe a supramencionada cláusula:
+(..)
+Seguindo, ainda que reconhecida a taxatividade do rol da ANS, da análise de todo o processado, a requerida, ora apelante, não comprovou que no referido rol haja tratamento com método eficaz, efetivo e seguro para o tratamento da requerente, ora apelada.
+Por sua vez, quanto à análise do preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela requerente, ora apelada, delineados pela Segunda Seção do Superior Tribunal de Justiça nos EREsps de n.ºs 1.889.704/SP e 1.886.929/SP, extrai-se que não há nada nos autos que evidencie que a ANS tenha indeferido expressamente a utilização do medicamento "Enoxaparina 40mg", razão pela qual, ao negar o seu fornecimento, a requerida, ora apelante, evidentemente, praticou ato ilícito.
+Não fosse suficiente, deve ser considerado que, se a doença diagnosticada na requerente, ora apelada, está listada na classificação da Organização Mundial da Saúde, sob o código CID D 68.9, logo, a cobertura para seu tratamento, ao simples fundamento de que se trata de medicamento de uso domiciliar, não pode ser negada.
+Em tais condições, impõe-se a reforma do aresto impugnado, a fim de excluir o dever de a recorrente custear o fármaco mencionado.
+Por fim, rejeito o pedido de condenação da recorrente à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para excluir o dever de a recorrente custear o medicamento descrito na exordial e, por consequência, julgar improcedente a demanda autoral.
+Condeno a parte recorrida no pagamento das custas e dos honorários advocatícios, os quais fixo 10% (de z por cento) do valor atualizado da causa, com fundamento no art. 85, § 2º, do CPC/2015, observada eventual gratuidade de justiça deferida na instância de origem, nos termos do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
