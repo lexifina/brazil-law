@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por RUMO S/A, contra decisão que não admitiu recurso especial (fls. 364/367 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 216, e-STJ):
+AGRAVO INTERNO - CUMPRIMENTO DE SENTENÇA - DECISÃO QUE REJEITOU A IMPUGNAÇÃO APRESENTADA - JUROS E CORREÇÃO MONETÁRIA - ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA - PLEITO PARA SUSPENDER O PROCEDIMENTO - INDEFERIMENTO - INEXISTÊNCIA DE FUNDAMENTAÇÃO RELEVANTE, OU PERIGO DE GRAVE DANO DE DIFÍCIL OU INCERTA REPARAÇÃO - AUSÊNCIA DE JUSTIFICATIVA PARA DEFERIMENTO DO EFEITO ALMEJADO - DECISÃO MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 260/263, e-STJ).
+Em suas razões de recurso especial, a recorrente, ora agravante, aponta ofensa aos artigos 489, 525, § 6º, 805, 835, §2º, 927, 966, V, §5º, do CPC/15, 406 e 884 do CC/02. Sustenta, em síntese: i) negativa de prestação jurisdicional, pois a Corte de origem não se manifestou sobre os os motivos que levaram à conclusão adotada; ii) o seguro garantia produz os mesmos efeitos jurídicos que o dinheiro, "motivo pelo qual não há que se falar em incidência de correção monetária e juros de mora sobre o débito já garantido." (fl. 288, e-STJ); iii) deve ser adotada a taxa SELIC; iv) há evidente enriquecimento sem causa, ante a não adoção da SELIC; v) deve ser reconhecida a culpa exclusiva do recorrido.
+Após a apresentação das contrarrazões, o apelo não foi admitido na origem (fls. 364/367, e-STJ), dando ensejo ao agravo (fls. 376/386, e-STJ), visando destrancar o processamento daquela insurgência, no qual a recorrente refutou os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 397/401, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Não se pode conhecer da apontada violação dos arts. 489 e 1022 do CPC/15, pois as alegações que a fundamentaram são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CONTRATOS BANCÁRIOS C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIO DE JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC/1973. ARGUMENTOS GENÉRICOS. INCIDÊNCIA. SÚMULA 284/STF. VIOLAÇÃO A DISPOSITIVOS DE LEI. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 165, 458 e 535 do CPC/1973 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+7. Agravo interno desprovido.
+(AgInt no AREsp 1040688/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017)
+2. Ademais, constata-se da leitura do acórdão recorrido, que o Tribunal de origem não decidiu acerca dos arts. 805, 835, §2º, 927, 966, V, §5º, do CPC/15, 406 e 884 do CC/02, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial, seja porque não foram objeto de deliberação por parte da Corte local, seja porque as teses pertinentes aos dispositivos legais supracitados estão acobertadas pela coisa julgada.
+Ademais, é o entendimento dessa Corte Superior que "não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 535 do Código de Processo Civil de 1973, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (AgRg no AREsp 524.768/SP, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014).
+Incide, portanto, o óbice disposto na Súmula 282/STF.
+3. Por fim, quanto ao pedido de suspensão do cumprimento de sentença, a Corte local consignou "não se vislumbra fundamento relevante, tampouco o grave dano de difícil ou incerta reparação, a justificar a suspensão da execução." (fl. 219, e-STJ).
+Assim, para alterar tal conclusão no sentido de que inexiste grave dano ou incerta reparação em razão do prosseguimento do cumprimento de sentença, seria necessário promover o reexame do acervo fático-probatórios dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO EM CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. PLANOS ECONÔMICOS. REPERCUSSÃO GERAL. RECONHECIMENTO. SOBRESTAMENTO DA MATÉRIA. DETERMINAÇÃO DO SUPREMO TRIBUNAL FEDERAL (RREE 591.797/SP e 626.307/SP). PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO. ART. 475-M DO CPC. TEMÁTICA NÃO ALCANÇADA PELAS DECISÕES DO STF. DESNECESSIDADE DE SUSPENSÃO. PRECEDENTES. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS AUTORIZADORES DA SUSPENSÃO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O recorrente busca a atribuição de efeito suspensivo à impugnação ao cumprimento de sentença, com base no art. 475-M do Código de Processo Civil, controvérsia que não se encontra atingida pela suspensão decorrente da repercussão geral assinalada nos RREE 591.797/SP e 626.307/SP. Precedentes em situações análogas.
+2. Com a nova sistemática do cumprimento de sentença inaugurada pela Lei n. 11.232/2005 - diferentemente do que ocorria com os embargos à execução, que possuíam efeito suspensivo ope legis -, a impugnação não obsta ordinariamente o prosseguimento da etapa satisfativa da dívida, podendo, excepcionalmente, ser concedido tal efeito ope judicis, nos termos do que dispõe o art. 475-M do CPC.
+3. Na espécie, o Tribunal de origem afastou o efeito suspensivo concedido pelo juízo singular, mercê da ausência de indicação de qualquer fundamento relevante de grave dano de difícil ou incerta reparação. Dessa sorte, a revisão do julgado demandaria o revolvimento das provas carreadas aos autos, providência inviável em sede de recurso especial por força do óbice da Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 1.189.943/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/6/2013, DJe de 26/6/2013.)
+4. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Deixo de fixar os honorários advocatícios recursais, por se tratar de agravo de instrumento na origem.
+Publique-se. Intimem-se.
+EMENTA
