@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interposto pela IFOOR - INSTITUTO DE FRATURA, ORTOPEDIA, ODONTOLOGIA E REABILITACAO S.S. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 297):
+Ementa: Apelação e reexame necessário. Embargos à execução fiscal julgados procedentes. Suposto recolhimento a menor de ISSQN.
+A análise da controvérsia recursal cinge-se em aferir se a autora possui condições para gozar do tratamento tributário diferenciado das sociedades uniprofissionais. Apenas em caso afirmativo da premissa anterior é que a cobrança lançada pelo Fisco se mostrará equivocada.
+Sabe-se que sociedade uniprofissional é aquela cujo objeto social consiste justamente na exploração da mesma profissão intelectual dos sócios.
+De acordo com seu contrato social, tem-se que a autora é constituída por dois sócios de profissões distintas, a saber, médico e dentista. Não há, portanto, caracterização do uniprofisisonalismo, fato que, por si só, é capaz de afastar o reenquadramento pretendido.
+Desse modo, como não preenchido o principal requisito para gozo do tratamento diferenciado, de rigor a reforma da sentença para manter a cobrança do ISSQN lançado pela autoridade fiscal.
+Tecidas tais considerações, a sentença deve ser reformada para julgar-se totalmente improcedente o pedido inicial, com inversão da sucumbência.
+Dá-se provimento ao recurso para reformar-se a sentença e julgar-se totalmente improcedente o pedido inicial, com inversão da sucumbência, nos termos do acórdão.
+No especial obstaculizado (e-STJ fls. 305/327), além de divergência jurisprudencial, o recorrente sustenta que o acórdão recorrido violou o art. 9º do Decreto-lei n. 406/1968 "ao afastar o direito de recolher o ISS pela alíquota fixa  .. , uma vez que o serviço é prestado de maneira pessoal e sem característica de empresa" (e-STJ fl. 311).
+No que diz respeito à interposição recursal pela divergência, afirma que o julgado recorrido apresentaria dissídio com o AREsp 155.844/SP, o REsp 1.645.754/MG e o REsp 1.512.652/RS.
+Além disso, aponta contrariedade ao Código Civil, alegando, em síntese, que "a sociedade em questão não é limitada" (e-STJ fls. 319), o que justificaria o já mencionado direito.
+As contrarrazões não foram oferecidas.
+O recurso não foi admitido em razão da incidência da Súmula 7 do STJ (e-STJ fls. 334/337).
+No agravo em recurso especial (e-STJ fls. 340/344), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta não foi apresentada.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem reformou a sentença que julgou procedente o pedido formulado em embargos à execução para extinguir execução fiscal de valores relativos ao ISS. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 299/302):
+Pretende o Município reformar sentença que julgou procedente a ação para afastar a cobrança de multa por suposto recolhimento de ISSQN a menor.
+Para tanto, alega que a autora possui caráter empresarial e não possui condições para fruir do tratamento diferenciado para recolhimento do imposto, previsto no artigo 9º, §§1º e 3º, do Decreto-lei 406/68, que tem a seguinte redação:
+Art. 9º. A base de cálculo do imposto é o preço do serviço.
+§1º. Quando se tratar de prestação de serviços sob a forma de trabalho pessoal do próprio contribuinte, o imposto será calculado, por meio de alíquotas fixas ou variáveis, em função da natureza do serviço ou de outros fatores pertinentes, nestes não compreendida a importância paga a título de remuneração do próprio trabalho.
+(..)
+§3º. Quando os serviços a que se referem os itens 1, 4, 8, 25, 52, 88, 89, 90, 91 e 92 da lista anexa forem prestados por sociedades, estas ficarão sujeitas ao imposto na forma do §1º, calculado em relação a cada profissional habilitado, sócio, empregado ou não, que preste serviços em nome da sociedade, embora assumindo responsabilidade pessoal, nos termos da lei aplicável.
+(..)
+De acordo com o §3º do dispositivo legal em apreço, as sociedades prestadoras dos serviços nele indicados (itens 1, 4, 8, 25, 52, 88, 89, 90, 91 e 92 da lista anexa ao Decreto), formadas por profissionais que prestam serviços em nome da pessoa jurídica, mas com responsabilidade pessoal, nos termos da lei aplicável, estão sujeitas ao recolhimento do imposto por meio de valores fixos, calculados em relação a cada profissional, seja ele sócio ou empregado da sociedade.
+Como se vê, é uma exceção à regra de que o preço do serviço constitui a base de cálculo do ISSQN (art. 9º, caput, do Decreto-lei 406/68 e art. 7º, caput, da Lei Complementar 116/03).
+Embora ainda haja quem sustente a revogação do artigo 9º do Decreto-lei nº 406/68 pela Lei Complementar nº 116/03, a questão já foi bastante discutida no Judiciário, até que o Superior Tribunal de Justiça firmou entendimento em sentido contrário. Com efeito, "segundo a jurisprudência firmada no âmbito da 1ª Seção do STJ, o tratamento diferenciado dispensado às sociedades profissionais, nos moldes do artigo 9º do Decreto-Lei 406/68, não foi revogado pela Lei Complementar 116/03" (REsp 919.067/MG Data do Julgamento: 02/08/2011).
+Ainda segundo a mesma Corte, esse tratamento diferenciado destina-se às sociedades uniprofissionais que não tenham caráter empresarial (REsp 867715/ES).
+Sabe-se que sociedade uniprofissional é aquela cujo objeto social consiste justamente na exploração da mesma profissão intelectual de seus sócios.
+Partindo de tal premissa, deve-se indagar se tal requisito foi preenchido pela autora para, só então, analisar-se eventual caráter empresarial de suas atividades.
+De acordo com o contrato social, tem-se que a sociedade apelada é constituída por dois sócios de profissões distintas, a saber, médico e dentista. Não há, portanto, caracterização do uniprofisisonalismo, fato que, por si só, é capaz de afastar o reenquadramento pretendido.
+Nesse sentido, já decidiu esta Câmara:
+ ..
+Desse modo, como não preenchido o principal requisito para gozo do tratamento diferenciado, de rigor a reforma da sentença para manter-se a cobrança de ISSQN lançada pela autoridade fiscal.
+Tecidas tais considerações, a sentença deve ser reformada para julgar-se totalmente improcedente o pedido inicial.
+O desfecho impõe seja invertida a sucumbência, impingindo à apelada a responsabilidade pelo pagamento das custas, despesas processuais e honorários fixados no mínimo legal.
+Pois bem.
+Com relação à alegada violação do art. 9º do Decreto-lei n. 406/1968, o recorrente não indicou precisamente qual o inciso ou parágrafo do referido dispositivo legal teria sido supostamente violado pelo acórdão recorrido, demonstrando a deficiência de fundamentação que atrai a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. EXCLUSÃO DA BASE DE CÁLCULO DO IRPF/CSLL. ALEGAÇÃO DE OFENSA AO ART. 489 DO CPC/2015. DEFICIÊNCIA RECURSAL. AUSÊNCIA EM PARTICULARIZAR OS DISPOSITIVOS LEGAIS VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. OFENSA A SÚMULA. APLICAÇÃO DO ENUNCIADO N. 518 DA SÚMULA DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado por Nilko Tecnologia Ltda. contra o Delegado da Receita Federal em Curitiba/PR objetivando excluir os créditos presumidos de ICMS da base de cálculo do IRPJ/CSLL, com a compensação dos valores recolhidos indevidamente a tal título nos últimos cinco anos. Na sentença, concedeu-se a segurança. No Tribunal a quo, a sentença foi mantida.
+Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+III - Impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+IV - Com relação ao art. 489, §1º, do CPC, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+V - A indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas. Nesse sentido: (AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020, AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017.
+ ..
+XII - Agravo interno improvido.
+(AgInt no AREsp n. 1.849.346/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/2/2022, DJe de 16/2/2022.).
+Alem disso, as razões recursais deixam de impugnar o julgado recorrido no ponto em que destacou a ausência de uniprofissionalismo da sociedade empresária para afastar o tratamento diferenciado de recolhimento do ISS.
+Como se sabe, a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Com relação à alegada violação ao Código Civil, ainda que a peça recursal faça menção a alguns dispositivos durante a argumentação, o recorrente não demonstra com clareza qual deles teria sido afrontado, razão pela qual fica comprometida a compreensão da controvérsia.
+Assim, nos  termos  da  jurisprudência  desta  Corte  Superior,  não  se  conhece  de  recurso  especial  que  deixa  de  apontar  o  dispositivo  legal  violado  no  acórdão  recorrido,  incidindo  na  hipótese,  por  analogia,  a  Súmula  284  do  Supremo  Tribunal  Federal  (AgInt  no  AREsp  1625350/DF,  de  minha  relatoria,  Primeira Turma,  julgado  em  28/04/2020,  DJe  07/05/2020,  v.g.).
+No tema, acrescento que  "a  mera  menção  a  dispositivos  de  lei  federal  ou  mesmo  a  narrativa  acerca  da  legislação  que  rege  o  tema  em  debate,  sem  que  se  aponte  com  precisão  a  contrariedade  ou  a  negativa  de  vigência  pelo  julgado  recorrido,  não  preenchem  os  requisitos  formais  de  admissibilidade  recursal,  a  atrair  a  incidência  da  Súmula  284 do STF"  (STJ,  AgRg  no  AREsp  722.008/PB,  Rel.  Ministro  HUMBERTO  MARTINS,  Segunda Turma,  DJe  de  14/09/2015).
+De fato, "nessa linha, esta Corte Superior de Justiça já se manifestou no sentido de que a "argumentação recursal em torno de normas infraconstitucionais não pode ser meramente genérica, sem o desenvolvimento de teses efetivamente vinculadas a elas e sem a demonstração objetiva de como o acórdão recorrido as teria violado. Incidência da Súmula 284 do STF" (REsp 1.293.548/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018.)" (AgInt no AREsp 1.559.920/SE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 19/10/2020, DJe 22/10/2020).
+Ainda sobre a questão:
+ADMINISTRATIVO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRANSFERÊNCIA  DE  ESTUDANTE.  INDENIZAÇÃO  POR  DANO  MORAL.  FUNDAMENTAÇÃO  DEFICIENTE.  AUSÊNCIA  DE  INDICAÇÃO  DOS  DISPOSITIVOS  VIOLADOS.  SÚMULA  284  DO  STF.  AGRAVO  INTERNO  DO  PARTICULAR  A  QUE  SE  NEGA  PROVIMENTO.
+1.  Verifica-se  que  o  Apelo  Nobre  se  encontra  deficientemente  fundamentado,  porquanto  a  parte  recorrente  não  indica  de  forma  precisa  qual  dispositivo  de  lei  federal  foi  violado.  Aplica-se,  na  hipótese,  por  analogia,  a  Súmula  284  do  STF,  segundo  a  qual  é  inadmissível  o  Recurso  Extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.
+2.  Agravo  Interno  do  Particular  a  que  se  nega  provimento.
+(AgInt  no  AREsp  1.601.470/MG,  Rel.  Ministro  NAPOLEÃO  NUNES  MAIA  FILHO,  PRIMEIRA  TURMA,  julgado  em  11/11/2020,  DJe  17/11/2020).
+Por fim, acrescento que "o não conhecimento do especial pelo conduto da alínea "a" do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
