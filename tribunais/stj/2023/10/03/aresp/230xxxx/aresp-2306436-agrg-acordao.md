@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há violação do art. 619 do CPP se o aresto objeto do recurso especial contém razões de decidir coerentes com seu dispositivo, dirimiu todas as questões relevantes para o deslinde da ação penal e afastou as teses defensivas à luz das particularidades do caso concreto, de forma a viabilizar o controle sobre a atividade jurisdicional.
+2. O exame da pretensão de desclassificação da conduta imputada ao agravante para aquela prevista no § 3º do art. 180 do Código Penal demandaria o revolvimento do suporte fático-probatório delineado nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUCIANO APARECIDO SEVERINO agrava de decisão de fls. 533-538, em que conheci do agravo para dar parcial provimento ao recurso especial, a fim de afastar a forma qualificada da receptação e redimensionar a reprimenda para 1 ano de reclusão e 10 dias-multa, mantidos o regime aberto e a substituição da pena.
+A defesa alega violação dos arts. 619 do Código de Processo Penal e 180, caput e § 3º, do Código Penal. Requer a desclassificação do crime para a modalidade culposa e, por consequência, o perdão judicial.
+Pleiteia, dessa forma, a reconsideração do decisum agravado ou a submissão ao órgão colegiado.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.306.436 - MG (2023/0056878-0)
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+Não há violação do art. 619 do CPP se o aresto objeto do recurso especial contém razões de decidir coerentes com seu dispositivo, dirimiu todas as questões relevantes para o deslinde da ação penal e afastou as teses defensivas à luz das particularidades do caso concreto, de forma a viabilizar o controle sobre a atividade jurisdicional.
+O exame da pretensão de desclassificação da conduta imputada ao agravante para aquela prevista no § 3º do art. 180 do Código Penal demandaria o revolvimento do suporte fático-probatório delineado nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho. Confira-se (fls. 534-537, destaques no original):
+De início, não identifico nenhuma omissão no julgado proferido pelo Tribunal a quo, de modo a gerar o pretendido reconhecimento de violação do art. 619 do Código de Processo Penal. Isso porque a matéria objeto do recurso especial foi satisfatoriamente examinada.
+Extrai-se da sentença (fls. 264-266, grifei):
+Trata-se de ação penal ofertada pelo Ministério Público do Estado de Minas Gerais contra Luciano Aparecido Severino, por que ele, livre e conscientemente, recebeu, em proveito próprio, no exercício da atividade de comércio, ferramentas diversas das marcas Makita e Schulz, sabendo ser produto de roubo perpetrado na Rodovia BR 381 (Fernão Dias), nos dia 28.01.2018 e 22.02.2018, conduta tipificada no art. 180, § 1º, do Código Penal.
+ ..
+Conforme se constata pelo confronto do depoimento do acusado e das demais testemunhas, resta evidente o seu intuito de se esquivar da autoria do delito imputado, tentando construir um álibi quanto a legalidade das mesmas.
+Contudo, sua versão não encontra sequer um suporte probatório mínimo para ensejar dúvidas quanto a autoria do delito. Não é crível que uma enorme quantidade de ferramentas se destinaria ao seu uso doméstico, ainda mais, quando o acusado afirma ser proprietário de bar e comprador de frutas para revenda, atividades estas totalmente distintas dos profissionais da construção civil, que utilizam ferramentas da mesma espécie das apreendidas.
+Ressalto, ainda, que o acusado não trouxe elementos probatórios mínimos, tais como notas fiscais ou outro documento capaz de demonstrar que as mercadorias encontradas em seu galpão eram de origem lícita, o que demonstra que o mesmo tinha conhecimento ou, no mínimo, deveria suspeitar, da origem ilícita dos materiais.
+Com isso, afasta-se a tese defensiva de que o acusado não tinha conhecimento da origem ilícita do material apreendido e que adquiriu as ferramentas para uso doméstico e não para a revenda para terceira pessoa.
+Ademais, em delitos contra o patrimônio localizada a res em poder do acusado, instala-se presunção de responsabilidade pelo agir delituoso. A posse injustificada de res inverte o ônus da prova, cabendo ao acusado explicitar, de modo convincente, a detenção do bem.
+A receptação é delito que em regra dependente da clandestinidade, cuja prova nem sempre é contundente, vistosa; no entanto, se o agente foi encontrado com a res em seu depósito, apreendendo-a em seu poder, gera a presunção de sua responsabilidade, invertendo-se o ônus da prova e impondo-se-lhe justificativa inequívoca, pois a dubiedade e a inverossimilhança transmudam a posição em certeza e autorizam a condenação.
+O dolo no crime de receptação é de difícil senão impossível comprovação, eis que a transação é quase sempre feita às ocultas, sem testemunhas. Para se demonstrar que o agente sabia da proveniência ilícita do bem não devemos considerar somente os pensamentos do meliante. Sua constatação deve ser aferida através de indícios, circunstâncias exteriores que envolvam os fatos e a própria conduta do agente, inclusive na ocasião da apreensão dos objetos, que pode vir a revelar o intuito delituoso.
+No caso em espécie, pode-se constatar que o acusado conhecia a origem ilícita dos objetos apreendidos, visto que era de grande vulto a quantidade dos materiais que adquiriu, circunstância que revela o fim evidente de auferir lucro do produto do crime com a revenda.
+A Corte estadual, ao manter a condenação do réu, consignou (fls. 368-374, destaquei):
+Nos termos do artigo l80, § 1º, do Código Penal, pratica o crime de receptação qualificada aquele que "Adquirir, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, coisa que deve saber ser produto de crime".
+Ao comentar o dispositivo legal em questão, Guilherme de Souza Nucci elucida que "  ..  o agente comerciante ou industrial, atuando com dolo eventual (devendo saber que a coisa é produto de crime), responde pela figura qualificada do § 1º, com pena de reclusão de 3 a 8 anos e multa" (Código Penal Comentado. 191 ed. Rio de Janeiro: Forense, 2019, p. 1.094) (grifei).
+No caso, em que pese a combativa atuação da defesa, todas as evidências extraíveis dos autos dão conta de que o réu Luciano sabia ou devia saber que as coisas por ele adquiridas eram produto de crime.
+Neste sentido, verifico que a materialidade delitiva restou comprovada pelo Auto de Prisão em Flagrante Delito de fls. 02/06, Boletim de Ocorrência de fls. 10/15, Boletim de Acidente de Trânsito de fls. 18/23, Auto de Apreensão de fls. 29/30, Notas Fiscais de fls. 44/67, Termos de Restituição de fls. 70 e 80/82 e prova oral produzida nos autos.
+Com relação à autoria, restou também demonstrada, a começar pelo depoimento do condutor do flagrante, policial civil José Augusto Machado Vasconcelos, que assim expressou na Depol (fls. 02/03):
+ ..
+Conforme se observa, os policiais civis diretamente envolvidos na diligência que culminou com a prisão em flagrante do réu Luciano disseram, de forma clara e convergente, que a autoridade policial já vinha recebendo denúncias de que Luciano adquiria e mantinha em depósito objetos produtos de crime.
+Requerida, assim, a expedição de mandado de busca e apreensão à autoridade judiciária, o pedido foi deferido e os policiais civis, acompanhados de policiais militares, se dirigiram ao endereço do réu, onde foram localizadas diversas ferramentas, conforme descrição dos autos de apreensão.
+Em continuação aos trabalhos investigativos, a polícia judiciária constatou que as ferramentas localizadas na posse do réu Luciano eram provenientes de furtos a cargas de caminhões que se acidentaram na BR-381, na região das cidades de Carmo da Cachoeira, Três Corações e Campanha/MG.
+Efetuados, então, contatos entre a Polícia Civil e as empresas Makita e Schulz, estas confirmaram, mediante o envio de notas fiscais, que as ferramentas que o réu Luciano mantinha em depósito eram, de fato, pertencentes a lotes de mercadorias que haviam sido furtadas nos acidentes de trânsito alhures referidos.
+Destaco, a título exemplificativo que enquanto as notas fiscais emitidas pela empresa Schulz datam de dezembro de 2017, o acidente envolvendo o caminhão que transportava as respectivas mercadorias - furtadas na BR-381 - ocorreu em janeiro de 2018, havendo, pois, compatibilidade cronológica entre os fatos ocorridos.
+ ..
+Neste aspecto, verifico que a negativa de autoria apresentada pelo réu não resiste ao conjunto probatório constante dos autos.
+Com efeito, ao ser indagado pelo d. Juiz singular sobre como a pessoa de "Chico Anísio" teria adquirido tantas ferramentas "novas na caixa" - aproximadamente 15 (quinze), nas palavras de Luciano -, o réu terversou, dizendo apenas que "Chico Anísio montou um bar em Três Corações".
+Ora, se tanto a atividade do réu, quanto a atividade de "Chico Anísio", estava relacionada à operação de um bar", é no mínimo estranho pensar por qual motivo eles se interessariam em negociar tamanha quantidade de ferramentas (vide autos de apreensão de fls. 29/30).
+Em outras palavras, não há como aceitar o argumento de que o réu Luciano não tinha como desconfiar que as ferramentas que confessou ter adquirido eram produto de crime.
+Por conseguinte, observo que as circunstâncias em que os fatos ocorreram desfavorecem a versão da defesa, no sentido de que Luciano não sabia ou não tinha como saber da origem ilícita das ferramentas consigo apreendidas.
+Em situações como a caracterizada nos autos, a jurisprudência não endossa o pedido de absolvição do crime de receptação qualificada, pois cabia ao réu - é evidente que as ferramentas seriam destinadas à venda por Luciano, ainda que de modo informal, ressoando por demais inusitada a alegação de que ele as utilizaria para montar uma "pequena fábrica" - ao menor ter a cautela de perquirir qual era a origem da coisa, o que, conforme visto, não foi feito pelo agente.
+ ..
+Em consequência, rejeito os pedidos de absolvição e de desclassificação.
+ ..
+Notadamente pela prova oral e documental colhida na instrução criminal, as instâncias ordinárias evidenciaram que o réu adquiriu ferramentas das marcas Makita e Schulz provenientes de furtos a cargas de caminhões e que não apresentou notas fiscais ou outro documento capaz de demonstrar que as mercadorias encontradas em seu galpão eram de origem lícita. O comportamento por ele exteriorizado comprova o elemento subjetivo do tipo.
+Para desclassificar a conduta para a modalidade culposa seria imprescindível o reexame do acervo fático-probatório, o que é vedado na via especial, a teor da Súmula n. 7 desta Corte Superior.
+A propósito:
+ ..
+1. A pretensão de reverter a conclusão da Corte de origem para proceder à desclassificação do crime doloso para a forma culposa, implica no revolvimento fático-probatório, o que encontra óbice na Súmula 7/STJ.
+ ..
+(AgInt no AREsp n. 1.163.445/SE, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 11/5/2018)
+Na hipótese, o decisum recorrido deixou claro que o acórdão estadual enfrentou de maneira satisfatória a tese de receptação culposa.
+Com efeito, não há violação do art. 619 do CPP se o aresto objeto do recurso especial contém razões de decidir coerentes com seu dispositivo, dirimiu todas as questões relevantes para o deslinde da ação penal e afastou as teses defensivas à luz das particularidades do caso concreto, de forma a viabilizar o controle sobre a atividade jurisdicional.
+Ainda, evidenciou que o exame da pretensão de desclassificação da conduta imputada ao agravante para aquela prevista no § 3º do art. 180 do Código Penal demandaria o revolvimento do suporte fático-probatório delineado nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
