@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos contra decisão monocrática de minha lavra, acostada às e-STJ fls. 734/743 onde foi negado provimento ao recurso especial, consoante a seguinte ementa:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. COFINS - IMPORTAÇÃO. INCIDÊNCIA DO ADICIONAL DE ALÍQUOTA PREVISTO NO ART. 8º, § 21, DA LEI 10.865/2004 SOBRE OS TODOS CASOS DE ALÍQUOTA ZERO PREVISTOS NO MESMO ARTIGO DE LEI. PRODUTOS DESTINADOS AO USO MÉDICO-HOSPITALAR. ART. 8º, §11, DA LEI N. 10.865/2004. DERROGAÇÃO DO DECRETO N. 6426/2008. TEMA JÁ JULGADO PELO STF NO RE N. 1.178.310/PR. RECURSO ESPECIAL NÃO PROVIDO (ART. 932, IV, CPC/2015 C/C ART. 255, § 4º, II, RISTJ).
+Alega a embargante que houve obscuridade no julgado monocrático. Insurge-se quanto ao argumento da decisão monocrática de que "quando há "imunidade", "isenção" ou "suspensão da incidência do tributo", não existe sequer alíquota incidente a ser majorada, daí a inaplicabilidade lógica da majoração a casos que tais". Discute as aplicações do Parecer Normativo Cosit n. 10/2014, diante do Decreto 6.426/2008. Reitera que "alíquota zero e isenção mantem (sic) os mesmos objetivos e consequências". (e-STJ fls. 748/755).
+Sem impugnação (e-STJ fls. 763).
+É o relatório. Passo a decidir.
+Sem razão a embargante. Efetivamente, a decisão embargada foi bastante clara quanto à interpretação dada ao Parecer Normativo Cosit n. 10/2014, em suas conclusões:
+Finalmente, a "suspensão da incidência do tributo" é a postergação no tempo da incidência da norma tributária realizada pelo ente tributante competente. Esta não se confunde com a "suspensão do pagamento" ou com a "suspensão da exigência" que atuam em um momento posterior do iter de formação do crédito tributário já que pressupõe a incidência da norma tributária (fato gerador e obrigação tributária) e a possibilidade de constituição do crédito tributário (lançamento) e ocorrem, normalmente, em regimes tributários especiais, estando fora do referido art. 8º, da Lei n. 10.865/2004.
+Não por outro motivo que o próprio Parecer Normativo Cosit n. 10/2014 (Disponível em:<http://normas.receita.fazenda.gov.br/sijut2consulta/link.action visao=anotado&idAto=58531> Acesso em: 25.08.2017) definiu que a majoração de alíquotas deve ser sim aplicada aos casos onde há a incidência de alíquota zero (redução total da alíquota), a saber:
+PARECER NORMATIVO COSIT Nº 10, DE 20 DE NOVEMBRO DE 2014
+(Publicado(a) no DOU de 21/11/2014, seção 1, pág. 14)
+Adicional de alíquota da Cofins-Importação estabelecido pelo § 21 do art. 8º da Lei nº 10.865, de 2004.
+Ementa.
+O adicional de alíquota da Cofins-Importação estabelecido pelo § 21 do art. 8º da Lei nº 10.865, de 2004:
+ ..
+c) deve ser aplicado na importação de produto integrante de seu campo de incidência mesmo que em relação a tal produto exista redução, parcial ou total, ou majoração da alíquota da Cofins-Importação, concedida diretamente pelo art. 8º da Lei nº 10.865, de 2004, ou por ato infralegal, sejam as alíquotas aplicáveis ad valorem ou específicas;
+ ..
+À toda evidência, o parecer não é favorável à embargante. Acaso o fosse, desnecessária seria a presente demanda que já haveria de ter sido extinta em razão da ausência de interesse de agir diante da concordância da administração tributária com sua pretensão.
+De registro que os demais questionamentos feitos pela embargante intentam transformar este Superior Tribunal de Justiça em órgão particular de consulta da embargante, o que é expressamente vedado pela jurisprudência, a saber:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSO PENAL. COGNIÇÃO DOS ACLARATÓRIOS. QUESTIONÁRIO DO EMBARGANTE. EMBARGOS REJEITADOS.
+1 - A cognição nos embargos declaratórios é restrita às eivas de ambiguidade, contradição, omissão e obscuridade previstas no artigo 619 do CPP.
+2 - "Não cabe ao tribunal, que não é órgão de consulta, responder a "questionários" postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do decisum (..)". (EDCLREsp 739/RJ, Relator Ministro Athos Carneiro, in DJ 12/11//90).
+3 - Embargos de declaração rejeitados (EDcl no AgRg no RE nos EDcl no REsp. n. 1.465.219 / RN, Corte Especial, Rel. Min. Maria Thereza de Assis Moura, julgado em 08.04.2019).
+EMBARGOS DE DECLARAÇÃO. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CPC, ART. 543-C. QUESTIONAMENTOS ACERCA DO ALCANCE DO JULGADO. DESCABIMENTO. HIPÓTESE NÃO PREVISTA NO ART. 535 DO CPC.
+1. Os embargos declaratórios não se prestam a perquirições acerca do alcance do julgado embargado. Conforme já decidiu esta Corte, "não cabe ao Tribunal, que não é órgão de consulta, responder a "questionários" postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão (..)" (EDcl no REsp 739/RJ, Rel. Ministro ATHOS CARNEIRO, QUARTA TURMA, julgado em 23/10/1990).
+2. Em julgamentos representativos de controvérsia (CPC, art. 543-C), cabe ao Superior Tribunal de Justiça traçar as linhas gerais acerca da tese aprovada, descabendo a inserção de soluções episódicas ou exceções que porventura possam surgir em outros indetermináveis casos, sob pena de se ter de redigir verdadeiros tratados sobre todos os temas conexos ao objeto do recurso.
+3. Embargos de declaração rejeitados (EDcl no REsp. n. 1.124.552 / RS, Corte Especial, Rel. Min. Luis Felipe Salomão, julgado em 08.04.2019).
+Desta forma, indubitável que o aresto ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso especial, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC/2015, art. 1.022). Não havendo quaisquer desses vícios, impõe-se a sua rejeição.
+Desta forma, REJEITO os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE ERRO, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. EMBARGOS REJEITADOS.
