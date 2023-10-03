@@ -1,0 +1,57 @@
+DECISÃO
+GABRIEL RIBEIRO DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501768-93.2021.8.26.0536.
+Consta dos autos que o paciente foi condenado como incurso no art. 155, § 4º, IV, do Código Penal, ao cumprimento de 2 anos, 9 meses e 18 dias de reclusão, no regime inicial fechado, e ao pagamento de 13 dias-multa, no valor unitário mínimo.
+A defesa pretende, por meio deste writ, seja reduzida a pena-base ao mínimo legal, afastada a agravante prevista no art. 61, II, "j", do CP (calamidade pública) e fixado regime inicial mais brando.
+A liminar foi indeferida.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão parcial da ordem.
+Decido.
+I. Pena-base
+Quanto à dosimetria, destaco que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto e, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não se deve furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, manifestou-se o Tribunal a quo acerca da questão em debate nos termos que se seguem (fl. 33):
+a) estando-se atento ao quanto disposto no art. 59 do CP, as penas-base devem ser fixadas 1/6 acima do mínimo legal. Justifica-se esse quantum em razão dos maus antecedentes ostentados (fls. 146 - processo n. 0000169-57.2017.8.26.0562).
+Desde que ambas as condenações se refiram a ações penais diversas, é perfeitamente possível seja uma das condenações considerada a título de "maus antecedentes" na primeira fase do cálculo de pena, elaborada com base nos elementos previstos no art. 59 do CP, e a outra delas levada em conta já na segunda fase, referente às agravantes e atenuantes. Ocorrerá o alegado bis in idem apenas na hipótese de uma mesma condenação computada duas vezes para finalidades distintas.
+Ora, o entendimento firmado pelas instâncias ordinárias encontra-se em consonância com o firmado por esta Corte, que entende que " ser  possível a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes, ficando apenas vedado o bis in idem. Assim, tendo em vista a existência de duas condenações transitadas em julgado não sopesadas na segunda etapa do procedimento dosimétrico, descabe falar em flagrante ilegalidade na valoração negativa dos maus antecedentes" (HC n. 594.024/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/8/2020)
+Destaco, ainda, que o recrudescimento da pena-base em razão dos maus antecedentes não foi excessivo, havendo o acréscimo de 1/6 em razão da incidência dessa circunstância judicial; não se evidencia, portanto, falta de proporcionalidade na dosimetria da pena.
+II. Calamidade pública
+A Corte de origem, ao reconhecer a incidência da agravante prevista no art. 61, II, "j", do CP, assim fundamentou (fl. 32):
+Pondere-se, por primeiro, que deve ser acolhido o pleito do Ministério Público, que almeja o reconhecimento da agravante prevista no art. 61, II, "j", do CP, eis que o delito ora analisado teria sido praticado durante período de calamidade pública, a saber, a notória pandemia do Covid-19.
+A incidência de tal circunstância é de caráter objetivo e a existência da pandemia, que ensejou o estado de calamidade, já era pública e notória ao redor do mundo na época dos fatos
+O reconhecimento de tal agravante deve se dar, com efeito, pois é evidentemente mais grave a conduta daquele que, mesmo diante de uma dificuldade geral da sociedade, pratica o crime, mostrando-se insensível com a situação.
+Não há como se olvidar que a pandemia e seus efeitos são fatos públicos e notórios, com repercussões econômicas, sociais e sanitárias, cujo alegado desconhecimento desafia o bom senso, mormente se considerada a ampla e diária divulgação em todas as mídias.
+Embora, em tese, seja possível sustentar que o agente estivesse em situação excepcional, não há registros no acórdão ou na sentença de provas que apontem o total desconhecimento do agente em relação à pandemia.
+O art. 61, II, "j", do CP prevê como circunstâncias que sempre agravam a pena a prática de delito "em ocasião de incêndio, naufrágio, inundação ou qualquer calamidade pública, ou de desgraça particular do ofendido".
+De fato, a conduta do agente que se vale da maior vulnerabilidade do ofendido nessas situações autoriza a elevação da pena a título da referida agravante.
+Nesse sentido, Damásio Evangelista de Jesus leciona:
+A alínea j  do art. 61, II, do CP  refere-se a crime cometido "em ocasião de incêndio, naufrágio, inundação ou qualquer calamidade pública, ou de desgraça particular do ofendido". São casos em que, não causada pelo agente, este se aproveita da situação para cometer o delito, agravando-se a pena em face da ausência de solidariedade humana.
+(Comentários ao Código Penal: parte geral. São Paulo: Saraiva, 1986, p. 624)
+Entender de maneira diversa implicaria a aplicação indiscriminada da agravante para todos os crimes ocorridos no período da pandemia, de término ainda incerto, em operação dosimétrica que frustra o princípio da individualização da pena, pois não particulariza o cálculo ao contexto em que ocorrido o fato delituoso.
+No caso, o Tribunal de origem decidiu em desacordo com a jurisprudência desta Corte Superior, que entende pela não incidência da agravante quando não há nexo de causalidade entre o estado de calamidade e a conduta do acusado, tampouco de eventual circunstância de fragilidade das vítimas em função dessa calamidade. Nesse sentido, menciono:
+ ..
+2. A incidência da agravante do art. 61, II, j, do Código Penal exige demonstração de que o agente se valeu do contexto de pandemia para prática do delito.
+3. O art. 33, § 4º, da Lei n. 11.343/2006 exige que o paciente seja primário e de bons antecedentes, condição essa não preenchida pelo paciente.
+4. Ordem parcialmente concedida para redimensionar a pena a 5 anos e 3 meses de reclusão, em regime fechado, e 530 dias-multa, à razão mínima, pelos fundamentos declinados.
+(HC n. 654.255/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 7/6/2021).
+ ..
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva (HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido.
+(AgRg no HC n. 655.339/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 19/4/2021)
+Diante de tais considerações, deve a ordem ser concedida a fim de afastar a incidência da referida agravante.
+III. Nova dosimetria
+Deve ser realizada a nova dosimetria da pena do paciente.
+Na primeira fase, a sanção ficou estabelecida 1/6 acima do mínimo legal. Na segunda etapa, afastado a causa de aumento relativa à calamidade pública, persiste a reincidência; assim, aumenta-se a pena em 1/6. Na terceira etapa, ausentes causas de aumento ou diminuição. Portanto, torno a reprimenda definitiva em 2 anos, 8 meses e 20 dias de reclusão e 12 dias-multa.
+IV. Regime de cumprimento da pena
+Cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Com efeito, o art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Nos autos em exame, o Tribunal a quo impôs ao paciente o regime fechado com base nos argumentos seguintes (fl. 79, destaquei):
+Em se tratando de apelante cujas circunstâncias judiciais sejam desfavoráveis, e que ainda seja reincidente, a opção pelo regime fechado mostra-se como sendo a mais adequada, considerando-se a orientação do art. 33, § 2º, alíneas "a" e "b", e § 3º,do CP, e a necessidade de efetiva repressão e prevenção do delito, bem como da ressocialização do réu.
+Pela leitura do trecho destacado, observo que, ao contrário do sustentado pela impetrante, o regime prisional imposto ao acusado foi fundamentado com base nas circunstâncias concretas dos autos.
+Contudo, considerando que o crime foi praticado em circunstâncias normais à espécie e que a pena ficou em patamar reduzido, entendo que o regime semiaberto é o mais adequado ao caso.
+Com efeito, não basta citar os maus antecedentes (duas condenações pretéritas) para obstar o regime aberto e impor automaticamente o fechado. Inviável conceber tamanha relevância aos registros criminais pretéritos, principalmente quando a letra da lei impede apenas a aplicação do regime aberto na hipótese de reincidência com pena fixada em patamar igual ou inferior a 4 anos de reclusão.
+Era imperiosa, para manter o regime mais gravoso, a indicação de elementos concretos mais graves do delito praticado, ou mesmo a análise desfavorável de outras circunstâncias do art. 59 do CP, o que não existiu na espécie. Assim, o recorrente faz jus ao regime intermediário.
+V. Dispositivo
+À vista do exposto, concedo, em parte, a ordem, a fim de afastar a agravante prevista no art. 61, II, "j", do CP e tornar a reprimenda definitiva em 2 anos, 8 meses e 20 dias de reclusão, no regime inicial semiaberto, e 12 dias-multa.
+Publique-se e intimem-se.
+EMENTA
