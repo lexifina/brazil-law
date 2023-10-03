@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/09/2023 a 03/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. MULTA DO ART. 8º DA LEI 3.254/2016. EDIÇÃO DE MEDIDA PROVISÓRIA 753/2016. PERDA SUPERVENIENTE DO OBJETO. FORMA DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que indeferira liminarmente os Embargos de Divergência, opostos contra acórdão publicado na vigência do CPC/2015.
+II. Nos termos da jurisprudência do Superior Tribunal de Justiça, "há divergência jurisprudencial quando os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotam posicionamentos dissonantes quanto ao direito federal aplicável" (STJ, AgRg nos EREsp 1.235.184/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 06/03/2013).
+III. No caso, em que pese a semelhança quanto à matéria de fundo, as questões objeto da irresignação da parte embargante (fixação dos honorários advocatícios por equidade e julgamento ultra petita) não foram apreciadas pela Segunda Turma nos acórdãos indicados como paradigma. Com efeito, nos acórdãos paradigma, a Segunda Turma do STJ, com base no princípio da causalidade, decidiu apenas a questão referente à possibilidade de condenação da União no pagamento de honorários advocatícios nas demandas envolvendo o repasse ao Fundo de Participação dos Municípios de valores referentes à multa do art. 8º da Lei 13.254/2016, e extintas ante superveniência da Medida Provisória 753/2016. No entanto, em tais julgados, não foram apreciadas as teses relacionadas à forma de cálculo dos honorários advocatícios devidos pela União ou à ocorrência de julgamento ultra petita. Assim, não há a divergência apontada pela parte embargante quanto ao direito federal aplicável.
+IV. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que indeferiu liminarmente os Embargos de Divergência (fls. 641/644e).
+Inconformada, sustenta a parte agravante que:
+"Com a devida vênia, percebe-se que não houve atenção necessária sobre os fundamentos dos acórdãos paradigmas.
+Com efeito, todos os acórdãos anexados expressamente determinaram que o cálculo dos honorários deveriam ser feito nos termos dos percentuais e parâmetros previstos nos §§ 2º, 3º e 4º do art. 85 do CPC. Ou seja, todos os paradigmas decidiram que o cálculo deveria ocorrer na forma de percentual incidente sobre o valor da causa, afastando, portanto, a fixação via sucumbência.
+Vejamos os referidos trechos que expressamente mencionam a forma de cálculo dos honorários:
+(..)
+Assim, percebe-se que - ao contrário do afirmado na decisão agravada -, todos os acórdãos paradigmas expressamente fixaram sucumbência em acordo com os parâmetros estabelecidos no art. 85 do CPC, o que evidencia o afastamento do critério de equidade" (fls. 651/655e).
+Por fim, requer:
+"(..) o CONHECIMENTO E PROVIMENTO DO AGRAVO INTERNO, para reformar a decisão agravada e DAR SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA, com seu consequente julgamento e provimento, a fim de modificar o acórdão embargado para determinar que a verba honorária seja fixada em sede de liquidação nos termos do artigo 85, § 4º, II, do Código de Processo Civil, com a respectiva majoração dos honorários, inclusive os devidos nas fases recursais" (fl. 655e).
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.774.047 - AL (2018/0270578-1)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+MUNICIPIO DE ARAPIRACA
+ADVOGADO
+:
+LUIZ ROBERTO BARROS FARIAS E OUTRO(S) - AL008740
+AGRAVADO
+:
+UNIÃO
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. MULTA DO ART. 8º DA LEI 3.254/2016. EDIÇÃO DE MEDIDA PROVISÓRIA 753/2016. PERDA SUPERVENIENTE DO OBJETO. FORMA DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. JULGAMENTO ULTRA PETITA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que indeferira liminarmente os Embargos de Divergência, opostos contra acórdão publicado na vigência do CPC/2015.
+II. Nos termos da jurisprudência do Superior Tribunal de Justiça, "há divergência jurisprudencial quando os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotam posicionamentos dissonantes quanto ao direito federal aplicável" (STJ, AgRg nos EREsp 1.235.184/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 06/03/2013).
+III. No caso, em que pese a semelhança quanto à matéria de fundo, as questões objeto da irresignação da parte embargante (fixação dos honorários advocatícios por equidade e julgamento ultra petita) não foram apreciadas pela Segunda Turma nos acórdãos indicados como paradigma. Com efeito, nos acórdãos paradigma, a Segunda Turma do STJ, com base no princípio da causalidade, decidiu apenas a questão referente à possibilidade de condenação da União no pagamento de honorários advocatícios nas demandas envolvendo o repasse ao Fundo de Participação dos Municípios de valores referentes à multa do art. 8º da Lei 13.254/2016, e extintas ante superveniência da Medida Provisória 753/2016. No entanto, em tais julgados, não foram apreciadas as teses relacionadas à forma de cálculo dos honorários advocatícios devidos pela União ou à ocorrência de julgamento ultra petita. Assim, não há a divergência apontada pela parte embargante quanto ao direito federal aplicável.
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Com efeito, conforme destacado na decisão agravada, é firme o entendimento do Superior Tribunal de Justiça no sentido de que somente "há divergência jurisprudencial quando os acórdãos em confronto, partindo de quadro fático semelhante, ou assemelhado, adotam posicionamentos dissonantes quanto ao direito federal aplicável" (STJ, AgRg nos EREsp 1.235.184/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 06/03/2013). Nesse sentido: STJ, AgRg nos EREsp 1.112.702/SP, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 16/11/2010; AgRg nos EREsp 744.286/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, DJe de 09/11/2009.
+No caso, em que pese a semelhança quanto à matéria de fundo, as questões objeto da irresignação da parte embargante (fixação dos honorários advocatícios por equidade e julgamento ultra petita) não foram apreciadas pela Segunda Turma nos acórdãos indicados como paradigma.
+Com efeito, no julgamento do AgInt no AgInt no REsp 1.781.348/PB, de minha relatoria, a Segunda Turma apenas decidiu que, "na forma da jurisprudência do STJ, em caso análogo ao dos presentes autos, "se, pelo contexto descrito nos autos, a pretensão do município, anteriormente resistida, foi atendida em consequência de conduta extraprocessual da União, evidencia- se a necessidade dessa ação ao tempo de seu ajuizamento e a responsabilidade da ré pelos ônus advindos da instauração do processo" (STJ, REsp 1.777.160/PB, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 01/03/2019)" (fl. 605e).
+Já no julgamento do AgInt no REsp 1.826.656/BA, Rel. Ministro HERMAN BENJAMIN, a Segunda Turma concluiu que, "nas ações ajuizadas por municípios contra a União, visando ao repasse ao Fundo de Participação dos Municípios de valores referentes à multa do art. 8º da Lei 13.254/2016, e extintas ante superveniência da Medida Provisória 753/2016, é cabível a condenação em honorários, levando-se em consideração o princípio da causalidade e da sucumbência" (fl. 613e).
+Ao apreciar o AgInt no REsp 1.826.658/BA, Rel. Ministro MAURO CAMPBELL MARQUES, a Segunda Turma decidiu que, "segundo consolidada jurisprudência desta Corte, "por força do princípio da causalidade, é cabível a condenação em honorários, a fim de retribuir o empenho do patrono dos autores na busca do êxito da demanda, na hipótese de fato superveniente esvaziar o objeto do feito, se legítimas as partes e presente o interesse de agir quando do ajuizamento da ação" (AgRg no Ag 515.907/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 21/08/2007, DJ 03/09/2007, p. 179)" (fl. 621e).
+Por fim, no julgamento do AgInt no REsp 1.781.362/PB, Rel. Ministro FRANCISCO FALCÃO, a Segunda Turma concluiu que "é cabível a condenação em honorários, levando-se em consideração o princípio da causalidade. Indica a jurisprudência que: "se, pelo contexto descrito nos autos, a pretensão do município, anteriormente resistida, foi atendida em consequência de conduta extraprocessual da União, evidencia-se a necessidade dessa ação ao tempo de seu ajuizamento e a responsabilidade da ré pelos ônus advindos da instauração do processo"" (fl. 629e).
+Ou seja, nos acórdãos paradigma, a Segunda Turma do STJ, com base no princípio da causalidade, decidiu apenas a questão referente à possibilidade de condenação da União no pagamento de honorários advocatícios nas demandas envolvendo o repasse ao Fundo de Participação dos Municípios de valores referentes à multa do art. 8º da Lei 13.254/2016, e extintas ante superveniência da Medida Provisória 753/2016.
+No entanto, em tais julgados, não foram apreciadas, expressamente, as teses relacionadas à forma de cálculo dos honorários advocatícios devidos pela União ou à ocorrência de julgamento ultra petita. Assim, não há a divergência apontada pela parte embargante quanto ao direito federal aplicável.
+Desta forma, o embargante pretende, na verdade, o rejulgamento de seu Recurso Especial, para que, em um novo exame causa, conclua-se pela impossibilidade de fixação dos honorários advocatícios por equidade. No entanto, tal finalidade é estranha ao objetivo dos Embargos de Divergência. Nesse sentido: STJ, AgRg nos EREsp1.155.859/MT, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe de 12/08/2014.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
