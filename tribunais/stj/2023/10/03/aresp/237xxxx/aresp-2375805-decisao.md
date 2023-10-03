@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por LB TRANSPORTE DE CARGAS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 581-586):
+AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS - ACIDENTE DE TRÂNSITO - PROVA PERICIAL INDIRETA - ROL TAXATIVO ART. 1.015 DO CPC - NÃO CONHECIMENTO - EMPRESA TERCEIRIZADA DE TRANSPORTE - LEGITIMIDADE PASSIVA RECONHECIDA - PRELIMINAR REJEITADA - DENUNCIAÇÃO DA LIDE - HIPÓTESES DO ART. 125 DO CPC NÃO PREENCHIDAS. - O Agravo de Instrumento está restrito às hipóteses legais previstas no rol taxativo do art. 1.105, do Código de Processo Civil. -"O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. STJ. Corte Especial. REsp 1.704.520-MT, Rel. Min. Nancy Andrighi, julgado em 05/12/2018 (recurso repetitivo, Tema 988)."-Nos termos do entendimento firmado pelo STJ, no julgamento do REsp 1.282.069/SP, verificada culpa do condutor a é solidária a responsabilidade da empresa que terceirizou o transporte e do fornecedor da carga. - Não se configura denunciação da lide, com base no disposto no inciso II, do art. 125, do CPC, se o intuito do denunciante é se eximir da responsabilidade pelo evento danoso, para atribui-la exclusivamente ao denunciado, vez que o instituto se presta a outras finalidades.
+Não foram opostos embargos de declaração.
+No recurso especial, o recorrente aduz, no mérito, que o acórdão recorrido violou os arts. 125, II, do CPC e 8º da Lei n. 11.442/2007, sustentando que seu pedido de denunciação da lide deveria ter sido acolhido em face do proprietário e do motorista do veículo que o conduzia no momento do evento danoso. Defende que a responsabilidade por danos ocasionados a terceiros seria do transportador.
+Os recorridos ofereceram contrarrazões ao recurso especial (fls. 399-413).
+Sobreveio o juízo de admissibilidade positivo na instância de origem (fls. 417-419).
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, não merece conhecimento o apelo nobre quanto à suscitada violação do art. 125, II, do CPC, referente ao pedido de acolhimento da denunciação da lide em relação ao proprietário do caminhão e ao condutor do veículo no momento do evento danoso.
+Ocorre que, de acordo com o acórdão recorrido, o Tribunal de origem atestou que não foi demonstrado o preenchimento dos requisitos que autorizassem o acolhimento do pedido de denunciação da lide, restando comprovada a pretensão do recorrente de se esquivar de sua responsabilidade.
+Por oportuno, cito trecho do acórdão recorrido (fls. 378-379):
+Por fim, a agravante afirma que o motorista do caminhão deveria ser responsabilizado pelos atos por ele cometido, pontuando que "o referido motorista não é empregado da agravante, e foi contratado pela agravante LB Transporte como motorista autônomo, unicamente para efetuar o transporte descrito no referido contrato, qual seja, da empresa DVG Industrial S/A, na cidade de Pedro Leopoldo, para a empresa JDA Construções, na cidade de Montes Claros.".
+A princípio, é possível perceber que a agravante ao denunciar a lide ao motorista pretende, unicamente, esquivar da responsabilidade civil que lhe é imputada. Todavia, não é esse o alcance do instituto.
+O art. 125, do Código de Processo Civil estabelece que:
+ ..
+Prima facie, não verifico a presença das situações descritas no artigo supramencionado, que autorizasse a intervenção de terceiros. A motivação apresentada para a denunciação não se encaixa, como assinalado, às abrangidas na lei para permitir a denunciação visada.
+Assim, a desconstituição das premissas a que chegou o Tribunal de origem ao negar o pedido de denunciação da lide demandaria nova incursão no conjunto fático-probatório, o que é vedado pela Súmula n. 7/STJ.
+Nesse sentido, cito precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE REPRESENTAÇÃO COMERCIAL. OMISSÃO. ART. 535 DO CPC/1973. INEXISTÊNCIA. CONVENÇÃO DE ARBITRAGEM. ART. 267, VII, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. INÉPCIA DA INICIAL E ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. REEXAME DE PROVA. SÚMULA 7/STJ. DENUNCIAÇÃO DA LIDE. ART. 70, III, DO CPC/1973.
+INADMISSIBILIDADE NO CASO. AGRAVO NÃO PROVIDO. 1. Não se verifica a alegada ofensa ao art. 535, II, do CPC/1973, uma vez que o Tribunal de origem prestou jurisdição completa. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Especificamente quanto ao art. 267, VII, do CPC/1973, que trata da convenção de arbitragem, verifica-se que não foi apreciado, sequer implicitamente, pelo Tribunal a quo, tampouco foi invocado nos embargos de declaração opostos pela parte, a fim de sanar eventual omissão. Ausente, assim, o indispensável prequestionamento, atraindo o óbice das Súmulas 282 e 356/STF.
+3. Ao examinar os aspectos relativos à inépcia da inicial, ilegitimidade passiva da demandada e denunciação da lide, o Tribunal de origem decidiu com base nas circunstâncias da causa, razão pela qual a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de matéria fático-probatória, inviável em sede de recurso especial (Súmula 7/STJ).
+4. As condições da ação, nos termos da jurisprudência do Superior Tribunal de Justiça, devem ser aferidas com base na teoria da asserção, ou seja, à luz das afirmações deduzidas na inicial, sem a necessidade de uma investigação mais aprofundada das provas.
+5. A denunciação da lide, na hipótese do inciso III do art. 70 do CPC/1973, não deve ser admitida quando, para tanto, se fizer necessária a realização de provas adicionais, estranhas e desnecessárias à causa original, conforme consignado pelo v. acórdão recorrido. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 410.544/SP, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 22/3/2018, DJe de 27/3/2018.)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE OBRIGATORIEDADE. SÚMULA 7/STJ.
+1. Em matéria de responsabilidade civil objetiva do Estado não existe obrigatoriedade de ser deferida denunciação da lide, de modo a atribuir-se a responsabilidade a terceiro.
+2. Tendo a Corte local afirmado que eventual deferimento do pleito tornaria mais complexa a relação jurídica e importaria a ampliação do objeto da demanda, a alteração da conclusão adotada exigiria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.756.583/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/4/2021, DJe de 27/4/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSO CIVIL E CONSTITUCIONAL. AÇÃO DE INDENIZAÇÃO. DESAPROPRIAÇÃO INDIRETA. ARTIGOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DENUNCIAÇÃO DA LIDE. SÚMULA 7/STJ.
+1. Não foi objeto de análise pelo Tribunal de origem a matéria referente aos arts. 14, II, 248, 249 e 339 do Código de Processo Civil de 1973; 38 do Decreto-Lei n. 3.365/41; 22 da Lei n. 6.766/79;
+e 99, I, e 102 do Código Civil. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 211 desta Corte e 282 do Supremo Tribunal Federal.
+2. Rever o entendimento do Tribunal de origem, no tocante à denunciação da lide, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em sede de recurso especial ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 817.478/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 6/12/2016, DJe de 15/12/2016.)
+Por fim, acerca da suscitada ofensa ao art. 8º da Lei n. 11.442/2007, o recurso também não merece ser conhecido, visto que a Corte a quo não analisou, sequer implicitamente, a matéria recursal à luz dos dispositivos legais.
+Desse modo, impõe-se o não conhecimento do recurso especial, neste ponto, por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal.
+Incidência, no caso, do enunciado da Súmula n. 211 do Superior Tribunal de Justiça: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, confiram-se precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SEGURO DE VIDA EM GRUPO. SEGURADA. INVALIDEZ. CLÁUSULAS RESTRITIVAS. CONTRATO. LIMITAÇÕES. ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISPOSITIVOS LEGAIS. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEVER DE INFORMAÇÃO. RESPONSABILIDADE DA ESTIPULANTE. REEXAME FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, a ausência de discussão, pelo tribunal de origem, acerca da tese ventilada no recurso especial acarreta a falta de prequestionamento. Incidência da Súmula nº 211/STJ.
+4. O atual entendimento firmado pela Terceira Turma do Superior Tribunal de Justiça é no sentido de que, no contrato de seguro de vida em grupo, cabe à estipulante - e não à seguradora - o dever de fornecer ao segurado ampla e prévia informação acerca dos contornos contratuais, no que se inserem, em especial, as cláusulas restritivas.
+5. No caso concreto, rever as conclusões do acórdão, para afastar o entendimento de ausência de comprovação de que o segurado teve conhecimento das cláusulas restritivas, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, procedimentos obstados pelas Súmulas nºs 5 e 7/STJ.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.909.136/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/12/2021, DJe de 14/12/2021.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
