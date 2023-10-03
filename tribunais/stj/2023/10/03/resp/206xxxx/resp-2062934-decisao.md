@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE JUIZ DE FORA, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+EMENTA: APELAÇÃO - EXECUÇÃO FISCAL - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA - HONORÁRIOS ADVOCATÍCIOS - PRINCÍPIO DA SUCUMBÊNCIA - VALOR DOS HONORÁRIOS - ART. 85,§§3º, I E II, E 5º, DO CPC.
+1 - Extrai-se, como pontos essenciais do julgamento, pelo Superior Tribunal de Justiça, do REsp nº. 1.340.553/RS, submetido à sistemática dos recursos repetitivos: a contagem da suspensão do feito executivo a partir da ciência/intimação da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, independentemente de o juiz ter expressamente determinado referida suspensão; a irrelevância das petições fazendárias infrutíferas para fins de interrupção do prazo prescricional e a caracterização das nulidades no procedimento do art. 40 da LEF (Lei nº. 6.830/80) como relativas.
+2 - O exequente deve ser condenado ao pagamento dos honorários advocatícios quando se opõe ao reconhecimento da prescrição intercorrente. Aplicação do princípio da sucumbência. Precedentes STJ.
+3 - Nos termos do art. 85,§§3º, I e II, e 5º, do CPC, quando a condenação contra a Fazenda Pública ou o benefício econômico obtido pelo vencedor ou o valor da causa for superior ao valor previsto no inciso I do § 3º, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente.
+O município recorrente, apontando violação dos arts. 85, § 10, e 921, § 5º, do CPC/2015, sustenta, em resumo, que, em razão do princípio da causalidade, a extinção da execução fiscal com fundamento na ocorrência da prescrição intercorrente não enseja a condenação do exequente ao pagamento dos honorários advocatícios.
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+O presente recurso especial não ultrapassa o juízo de admissibilidade.
+Isso porque, primeiro, o conteúdo normativo dos dispositivos de lei federal apontados como violados (arts. 85, § 10, e 921, § 5º, do CPC/2015) não foi efetivamente analisado pela Corte estadual, carecendo o recurso especial, portanto, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+A par disso, o fundamento condutor consignado no acórdão recorrido, amparado em arestos desta Corte Superior, de que a circunstância de a Fazenda Pública exequente ter oposto resistência ao reconhecimento da prescrição intercorrente justifica a sua condenação na verba honorária em face do princípio da sucumbência, não foi especificamente impugnado nas razões do apelo raro, o que revela a deficiência da irresignação recursal, a ensejar a aplicação do óbice de conhecimento estampado na Súmula 283 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+EMENTA
