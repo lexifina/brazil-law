@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+"PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS A EXECUÇÃO. BENEFICIO PREVIDENCIÁRIO. REVISÃO. FALECIMENTO. HABILITAÇÃO CÁLCULOS. DIFERENÇA DEVIDA APÓS O ÓBITO. ACORDO. NÃO COMPROVAÇÃO. ELABORAÇÃO PELA CONTADORIA JUDICIAL. CREDIBILIDADE. EXCESSO DE EXECUÇÃO. INOCORRÊNCIA. SENTENÇA MANTIDA. APELAÇÃO NÃO PROVIDA" (fl. 241e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta violação ao art. 1.022, do CPC/2015 por negativa de prestação jurisdicional, sustentando que:
+"O Tribunal de origem rejeitou os embargos de declaração do INSS, sob o pálio de fundamentação genérica.
+Ao rejeitar os declaratórios do INSS, sob o fundamento genérico de que o recurso evidenciaria a pretensão de reforma do julgado e de que não existiriam os defeitos alegados, e não se pronunciar sobre as questões neles suscitadas, o v.
+acórdão violou o disposto no artigo 1.022, II, do CPC.
+Com efeito, cabia ao Tribunal a que apreciar as questões formuladas nos embargos declaratórios, motivo pelo qual restou configurada a ofensa ao artigo 1.022 do CPC.
+Contudo, o cômputo de parcelas posteriores ao óbito de segurado é inadmissível, já que, no caso, os herdeiros são meros sucessores processuais, sendo- lhe devido, portanto, por força do disposto no art. 112 da Lei n 2 8.113/91, tão somente o pagamento dos valores não recebidos em vida pelos autores falecidos, em decorrência da revisão procedida em seus benefícios, compreendidos no interregno entre a DIB e a data do óbito do titular do benefício revisado por força da sentença.
+Em resumo, tendo os benefícios dos autores Milton Neves de Lima Filho e Dantes de Oliveira Reis sido cessado em 30/01/2006 e 24/07/2004, respectivamente, em virtude de seus óbitos, o termo final da execução do julgado deve coincidir com a data da cessação dos referidos benefícios, sob pena de não serem respeitados os limites subjetivos da lide.
+Ainda que, posteriormente, tenha sido concedido benefício de pensão por morte aos sucessores, e que por força da revisão na aposentadoria do instituidor da pensão possa haver repercussão no valor da pensão por morte, mesmo assim NÃO PODERÃO os herdeiros, na qualidade de sucessores/substitutos processuais do autor falecido, executar valores que extrapolem a data do óbito.
+Como foi ressaltado nos autos, os exequentes foram incluídos no polo ativo da ação, na qualidade de sucessores processuais do autor falecido, não sendo possível, nesta qualidade defender direito próprio, mas tão-somente defender direito do substituído (autor falecido). qual sela, de receber os valores atrasados decorrentes da revisão de seu benefício de aposentadoria.
+A decisão ora impugnada adotou interpretação que não acata o determinado na decisão executada, violando os artigos 503 e 506 do NCPC, caracterizando ofensa à coisa julgada (ou aos limites da coisa julgada).
+Por todo o exposto, é forçoso reconhecer que a execução está divorciada do que restou decidido no processo de conhecimento, em flagrante violação ao que prevê a lei processual civil.
+Evidencia-se, especialmente, que não foi observado o disposto nos artigos 503 e 506, todos do NCPC:
+(..)
+Destarte, é obscuro o provimento judicial contido no acórdão no sentido de assegurar ao sucessor do falecido a o recebimento de diferenças relativas a revisão de benefício após o falecimento de seu titular.
+De rigor, portanto, o conhecimento e provimento do presente recurso especial, para que o aresto que julgou os embargos declaratórios seja anulado e outro seja proferido, analisando a eiva apontada" (fls. 263/267e).
+Por fim, "requer seja conhecido e provido o presente recurso especial, por violação ao art. 1.022, I, do CPC, anulando o v. acórdão recorrido e determinando novo julgamento, conforme a fundamentação acima" (fls. 266/267e).
+O Recurso Especial foi admitido na origem.
+A irresignação merece parcial acolhimento.
+Na origem, trata-se de Embargos à Execução opostos pela parte ora Recorrente. Julgado improcedente, recorreu o INSS, tendo sido mantida a sentença, nos seguintes termos:
+"Da análise dos autos, verifica-se que em face da divergência entre os cálculos apresentados pelas partes, o MM. Juiz determinou a remessa dos autos à Contadoria Judicial para informar o real valor do débito exequendo, determinando que "os mesmos deveriam observar os índices de deflação e desprezar o limite temporal relativo ao óbito dos EMBARGADOS MILTON NEVES DE LIMA FILHO E DANTE DE OLIVEIRA REIS, já que homologado nos autos principais a habilitação dos respectivos sucessores" (cf. fl. 193).
+O apelante não concorda com tal determinação, alegando que nos cálculos elaborados pela Contadoria Judicial os segurados falecidos Milton Neves de Lima e Dantes de Oliveira Reis tiveram diferenças computadas além da data de seus óbitos. Defende que eventuais diferenças devidas devem ser limitadas até a data dos seus respectivos óbitos.
+Insurge-se, ainda, o INSS contra os cálculos, sob o argumento de que foi firmado acordo com segurado Milton Neves de Lima, nos termos da MP 201/04, e, assim, não são devidas diferenças.
+Razão não lhe assiste, contudo.
+Compulsando os autos, depreende-se do despacho de fl. 304, juntado por cópia, que as habilitações das sucessoras dos falecidos Milton Neves de Lima e Dantes de Oliveira Reis foram homologadas nos termos do art. 112 da Lei nº8.213/91.
+4110 É certo que referido dispositivo legal não limita o direito de pagamento dos valores não recebidos em vida pelos seus dependentes à data do óbito. A norma prevê pagamento aos seus dependentes habilitado à pensão por morte de todos os valores que, se vivo estivesse, o segurado receberia. Não pode o INSS pretender beneficiar-se do evento morte para deixar de pagar as diferenças posteriores a que o segurado tinha direito se vivo estivesse. Nesse sentido:
+TRF1, AC 2006.38.00.013471-3/MG; Relator DESEMBARGADOR FEDERAL CARLOS OLAVO, PRIMEIRA TURMA, e-DJF1 de 22/02/2010.
+Diante disso, os titulares da pensão por morte têm direito de receber as diferenças posteriores ao óbito do segurado e, assim, não há falar em limitação do cálculo à data do óbito como pretende o apelante.
+Quanto à alegação de que o segurado Milton Neves de Lima firmou acordo, nos termos da MP 201/04, e, portanto, não seria devido as diferenças computadas no cálculo elaborado pela Contadoria Judicial, ressalto que o INSS não logrou comprovar a realização do alegado acordo, pois não juntou nos autos qualquer documento comprobatório de houve transação.
+Consoante restou consignado pela MM º Juíza prolatora da sentença recorrida:
+(..)
+Ademais, a Contadoria Judicial é órgão auxiliar do juízo que presta serviço de importância relevante em processos que envolvem cálculos de diferentes graus de complexidade, gozando de prestígio e confiança do julgador, que se utiliza de seus pareceres e cálculos para embasar os julgamentos que necessitem de análise de provas técnicas desse jaez.
+Dessa forma, os pareceres e cálculos provenientes da Contadoria Judicial merecem credibilidade.
+Nesse sentido vem decidindo este Tribunal:
+(..)
+Mantenho, pois, a r. sentença recorrida pelos seus próprios fundamentos" (fls. 236/242e).
+Contra esse acórdão, a parte recorrente opôs Embargos de Declaração, questionando os limites da coisa julgada, sustentando, no ponto:
+"A ação principal foi proposta com o objetivo de revisão do benefício, tendo os autores Milton Neves de Lima Filho e Dantes de Oliveira Reis falecido no curso do processo. O acórdão prolatado negou provimento ao recurso do INSS para que os herdeiros tenham direito a receber as diferenças posteriores ao óbito.
+Contudo, o cômputo de parcelas posteriores ao óbito de segurado é inadmissível, já que, no caso, os herdeiros são meros sucessores processuais, sendo - lhe devido, portanto, por força do disposto no art. 112 da Lei nº 8.113/91, tão somente o pagamento dos valores não recebidos em vida pelos autores falecidos, em decorrência da revisão procedida em seus benefícios, compreendidos no interregno entre a DIB e a data do óbito do titular do benefício revisado por força da sentença.
+Em resumo, tendo os benefícios dos autores Milton Neves de Lima Filho e Dantes de Oliveira Reis sido cessado em 30/01/2006 e 24/07/2004, respectivamente, em virtude de seus óbitos, o termo final da execução do julgado deve coincidir com a data da cessação dos referidos benefícios, sob pena de não serem respeitados os limites subjetivos da lide.
+Ainda que, posteriormente, tenha sido concedido benefício de pensão por morte aos sucessores, e que por força da revisão na aposentadoria do instituidor da pensão possa haver repercussão no valor da pensão por morte, mesmo assim NÃO PODERÃO os herdeiros, na qualidade de sucessores/substitutos processuais do autor falecido, executar valores que extrapolem a data do óbito.
+Como foi ressaltado nos autos, os exequentes foram incluídos no polo ativo da ação, na qualidade de sucessores processuais do autor falecido, não sendo possível, nesta qualidade, defender direito próprio, mas tão-somente defender direito do substituído (autor falecido), qual seja, de receber os valores atrasados decorrentes da revisão de seu benefício de aposentadoria.
+A decisão ora impugnada adotou interpretação que não acata o determinado na decisão executada, violando os artigos 128, 460, 463, 467, 468, 471, 472 e 473 do CPC, caracterizando ofensa à coisa julgada (ou aos limites da coisa julgada).
+Por todo o exposto, é forçoso reconhecer que a execução está divorciada do que restou decidido no processo de conhecimento, em flagrante violação ao que prevê a lei processual civil.
+Evidencia-se, especialmente, que não foi observado o disposto nos artigos 468 e 472, todos do CPC:
+(..)
+Destarte, é obscuro o provimento judicial contido no acórdão no sentido de assegurar ao sucessor do falecido a o recebimento de diferenças relativas a revisão de benefício após o falecimento de seu titular.
+A decisão ora embargada foi evidentemente omissa sobre a abrangência do título executado" (fl. 245/248e).
+No entanto, os Embargos de Declaração foram rejeitados, sem que o questionamento suscitado fosse efetivamente apreciado, tendo o Tribunal de origem se limitado a afirmar que não há vício no acórdão recorrido.
+Assim, não tendo o Tribunal de origem emitido juízo de valor sobre o ponto, tem razão a parte recorrente, quando alega a existência de omissão no acórdão impugnado, tendo em vista que a questão sobre a qual a Corte de origem não se pronunciou de maneira específica é relevante para o deslinde da controvérsia.
+Destarte, resta configurada a violação ao art. 1.022, II, do CPC/2015 e, assim, a negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.421.705/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/02/2014; REsp 900.238/BA, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJU de 07/05/2007; REsp 1.512.047/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao Recurso Especial, para anular o acórdão referente aos Embargos de Declaração, a fim de que o Tribunal de origem se pronuncie, de maneira motivada, com a análise das alegações da parte recorrente.
+I.
+EMENTA
