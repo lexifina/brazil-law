@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Alan César Macário Pinheiro - condenado como incurso no crime de tráfico de drogas - contra o acórdão do Tribunal de Justiça do Ceará (Habeas Corpus n. 629877-88.2023.8.06.0000), não comporta seguimento.
+Com efeito, insurge-se o recorrente contra a manutenção da sentença que lhe fixou o regime semiaberto (Ação Penal n. 0200415-58.2022.8.06.0301), concedeu-lhe o direito de recorrer em liberdade, mas manteve a medida cautelar de monitoramento eletrônico, ao argumento de que a autoridade coatora tenta justificar a imposição da medida cautelar em razão do risco de reiteração delituosa e com base na gravidade dos fatos, se mostrando tais medidas suficientes para garantia da ordem pública e aplicação da lei penal, contudo, esquece de apontar, qual o risco ocasionado durante todo o período de tramitação processual em que ficou preso e agora com o monitoramento eletrônico, que justifique a manutenção da medida cautelar diversa mais gravosa (fl. 140).
+Da atenta análise dos autos não observo ser desproporcional a manutenção da medida de monitoramento eletrônico aplicada ao recorrente desde janeiro de 2023, pois aplicada de modo a frear a reiteração delitiva, tendo em vista que o sentenciado responde à ação penal por crime idêntico, não havendo falar em excesso de prazo para a manutenção da cautelar, cujo prazo de duração deve ser avaliado de acordo com o andamento da ação penal, que já conta com sentença.
+Em face do exposto, nego seguimento ao recurso ordinário.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE, MEDIANTE A MANUTENÇÃO DA CAUTELAR DE MONITORAMENTO ELETRÔNICO APLICADA NO DECORRER DA AÇÃO PENAL. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso a que se nega seguimento.
