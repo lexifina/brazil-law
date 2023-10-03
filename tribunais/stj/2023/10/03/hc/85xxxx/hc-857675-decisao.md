@@ -1,0 +1,14 @@
+DECISÃO
+PAULO CESAR MARINO alega sofrer coação ilegal em face de acórdão do Tribunal a quo. O impetrante busca a concessão do indulto previsto no Decreto Presidencial n. 11.302/2022 ao crime não impeditivo, pois considera que essa é a inteligência da norma.
+Decido.
+O writ comporta avanço para pronta solução, pois "a concessão do indulto/comutação de penas deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos" (HC n. 341.986/SP, Rel. Min. Reynaldo Soares da Fonseca, 5ª T., DJe de 1º/02/2016).
+No caso, o decreto de regência estabelece:
+Art. 7º O indulto natalino concedido nos termos do disposto neste Decreto não abrange os crimes: I - considerados hediondos ou a eles equiparados  .. ; VI - tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei n. 11.343/2006  ..
+Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022  ..
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º  ..
+O decreto de regência estabelece que não será concedido indulto correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício. Constou da decisão do Juiz da VEC, mantida em segundo grau, que "O sentenciado cumpre pena por crime praticado com violência e grave ameaça contra pessoa, impeditivo para concessão do indulto do delito de furto conforme dicção dos artigos 7º, II e 11, parágrafo único do Decreto Presidencial 11.302/2022" (fl. 24).
+Assim, não há falar em concessão da ordem. A plicável ao caso a compreensão de que, a "melhor interpretação sistêmica oriunda da leitura conjunta do art. 5º e do art. 11 do Decreto n. 11.302/2022 é a que entende que o resultado da soma ou da unificação de penas efetuada até 25/12/2022 não constitui óbice à concessão do indulto àqueles condenados por delitos com pena em abstrato não superior a 5 (cinco) anos, desde que (1) cumprida integralmente a pena por crime impeditivo do benefício; (2) o crime indultado corresponda a condenação primária (art. 12 do Decreto) e (3) o beneficiado não seja integrante de facção criminosa (parágrafo 1º do art. 7º do Decreto)" (AgRg no HC n. 824.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023).
+No mesmo sentido cito o HC n. 832.773/SP, Rel. Ministra Laurita Vaz, Dje de 29/9/2023 e HC n. 852.570/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJE DE 28/9/2023.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
