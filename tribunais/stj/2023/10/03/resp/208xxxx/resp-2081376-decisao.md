@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MUNICÍPIO DE SOROCABA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO , assim ementado:
+"APELAÇÃO CIVEL.
+1. Servidor público do Município de Sorocaba - Sexta-parte - Pedido de revisão de base de cálculo - Restabelecimento da Lei Municipal n.º 3.627/91, pela Lei Municipal n. º 4.702/94, que disciplinou e alterou seu artigo 5º - Aplicação da Lei Municipal n. º 3.627/91 para o cálculo da sexta parte - Cálculo da vantagem temporal que deve ter como base o vencimento padrão, adicionado das parcelas por enquadramento e/ou outras incorporações legais e não a totalidade da remuneração - Sucumbência reciproca de ambas as partes - Procedência parcial da ação.
+2. Recurso parcialmente provido" (fl. 238e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 249/254e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO.
+1. Ausência de omissão, obscuridade ou contradição a ser suprida - Decisão colegiada que reflete o entendimento consolidado pela E. Turma - Questões suscitadas devidamente enfrentadas e apreciadas - Finalidade de prequestionamento - Observância dos limites traçados pelo artigo 535 do Código de Processo Civil.
+2. Embargos rejeitados" (fl. 260e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 2º, § 1º da Lei de Introdução às Normas do Direito Brasileiro, ao fundamento de que, "a Lei posterior nº 4.816/95 e nº 4.472/94, (..) fez alterar a forma antiga de composição que continha em sua formula o pagamento da gratificação de função ora pleiteada, fato que acarretou na revogação da regra anterior, nos termos do artigo 2º, § 1º, da Lei de Introdução às normas do Direito Brasileiro" (fls. 266/277e).
+Por fim, requer "o recebimento e processamento do presente recurso, a . fim de que seja dado provimento ao mesmo " (fl. 277e).
+Sem contrarrazões a fl. 279e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 296e).
+A irresignação não merece conhecimento.
+Com efeito, em que pese a alegada violação art. 2º, § 1º da Lei de Introdução às Normas do Direito Brasileiro, verifica-se que o Tribunal de origem resolveu a controvérsia com base em interpretações de Lei Local, quais sejam, Lei Municipal 3.627/91 e Lei Municipal 4.702/94 de modo que se torna prejudicada a análise do presente Recurso Especial em face da vedação prevista na Súmula 280/STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, assim já decidiu o STJ, in verbis:
+"PROCESSUAL CIVIL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ISENÇÃO. IPTU. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO VERIFICADA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 211/STJ E 282/STF. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA EXCLUSIVA DO STF. MATÉRIA DE DIREITO LOCAL. SÚMULA N. 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. INSUFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF.
+(..)
+IX - Da mesma forma, não é cabível a interposição de recurso especial por ofensa a ato normativo local, incidindo por analogia o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: AgInt no AREsp n. 970.011/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, Julgado em 18/5/2017, DJe 24/5/2017 e AgRg no AgRg nos EDcl no AREsp n. 4.111/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 12/11/2014.
+(..)
+XII - Agravo interno improvido" (STJ, AgInt no AgInt no AREsp 1.070.584/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 14/12/2018).
+"CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE PROMOÇÃO EM RESSARCIMENTO POR PRETERIÇÃO. POLICIAL MILITAR. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES DO STJ.
+1. Quanto à ofensa à Lei Estadual 19.833/2003 e à Lei 4853/2003, sua análise é obstada em Recurso Especial pela incidência, por analogia, da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+(..)
+4. Recurso Especial não conhecido" (STJ, REsp 1.758.206/MA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 27/11/2018).
+Além disso, do simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 2º, § 1º da LINDB, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ, segundo a qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo".
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022, do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Outrossim, para a adoção do denominado prequestionamento ficto, previsto no art. 1.025, do CPC/2015 - segundo o qual a oposição dos Embargos de Declaração seria suficiente ao suprimento do requisito do prequestionamento - faz-se necessária, além da invocação da questão, por ocasião dos Embargos de Declaração, opostos contra o acórdão do Tribunal de origem, que a Corte superior considere a existência de erro, omissão, contradição ou obscuridade no referido decisum, em razão da alegação de contrariedade ao art. 1.022 do CPC/2015, nas razões do Recurso Especial.
+Sobre o tema, confira-se o seguinte precedente do STJ:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+Nesse contexto, conquanto tenham sido o art. 2º, § 1º da Lei de Introdução às Normas do Direito Brasileiro, invocado nos Embargos de Declaração, opostos contra o aresto do Tribunal de origem, não foi apontada, nas razões do Recurso Especial, a contrariedade ao art. 1.022 do CPC/2015, a fim de ser verificada a ocorrência de erro, omissão, contradição ou obscuridade no referido julgado, cujo reconhecimento poderia ensejar a adoção do prequestionamento ficto, razão pela qual resta afastada, in casu, a aplicabilidade do art. 1.025 do CPC/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
+ EMENTA
