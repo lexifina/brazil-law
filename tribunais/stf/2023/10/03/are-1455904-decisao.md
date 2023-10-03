@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissão do recurso extraordinário, interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    ADMINISTRATIVO. CERCEAMENTO DE DEFESA. REEXAME DE QUESTÕES DE CONCURSO PÚBLICO. EXCEPCIONALIDADE DA INTERFERÊNCIA DO JUDICIÁRIO.
+
+    1. Compete ao julgador a quo decidir acerca da necessidade de produção da prova, porquanto é o seu destinatário e a ele cabe decidir sobre os elementos necessários à formação do próprio convencimento. Desse modo, não configura cerceamento de defesa o indeferimento de produção de prova quando o conjunto probatório dos autos é suficiente para formação da convicção do magistrado.
+
+    2. "Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame" (RExt. 632.853/CE com regime de repercussão geral).
+
+    3. A interferência do Judiciário na avaliação/correção de provas de concurso público é admissível em situações excepcionais, quando evidenciada a ilegalidade do edital ou o descumprimento deste pela comissão competente. Não cabe ao judiciário decidir se existem outras ou melhores soluções para os casos hipotéticos formulados nas provas pela banca examinadora.
+
+    4. Foge à competência do Poder Judiciário examinar - ou reexaminar - critérios adotados pela Administração na correção/avaliação de provas de concurso público, em nome da independência entre os poderes e mesmo da autonomia que a Constituição Federal e as leis conferem às instituições de ensino.
+
+    5. Apelação improvida.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, caput e incisos I e II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas editalícias, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte. Nesse sentido:
+
+    “DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. SÚMULAS Nº 279 E Nº 454 DO STF. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, o reexame da interpretação conferida a cláusulas de edital de concurso público e a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+
+    2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+
+    3. Ausente condenação anterior em honorários, inaplicável o art. 85, § 11, do CPC/2015.
+
+    4. Agravo interno conhecido e não provido”. (ARE 1.037.228-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 20/09/2017)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CUMPRIMENTO DOS REQUISITOS EXIGIDOS PARA A POSSE DO CANDIDATO NO CARGO. NECESSIDADE DE ANÁLISE DE PROVAS E CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos e de cláusulas editalícias, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes.
+
+    II – Agravo regimental a que se nega provimento”. (ARE 821.913-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 28/8/2014)
+
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 757.852-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 16/09/2013)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 3 de outubro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
