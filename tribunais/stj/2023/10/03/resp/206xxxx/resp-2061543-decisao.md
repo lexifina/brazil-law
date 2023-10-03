@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJPR assim ementado (e-STJ fl. 3.733):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO DE CONTRATO. CÉDULA DE CRÉDITO BANCÁRIO - CHEQUE EMPRESA PLUS - BUSINESS. 1. JUROS REMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO. IMPOSSIBILIDADE. ABUSIVIDADE NÃO COMPROVADA. MANUTENÇÃO DAS TAXAS PRATICADAS. INAPLICAÇÃO DA SÚMULA 530 DO STJ. 2. COMISSÃO DE PERMANÊNCIA. AUSÊNCIA DE PACTUAÇÃO. INCIDÊNCIA NÃO DEMONSTRADA. PEDIDO DE EXPURGO REJEITADO.3. TAXAS E TARIFAS BANCÁRIAS. POSSIBILIDADE DE COBRANÇA.
+1. Não estando demonstrada a abusividade dos juros remuneratórios, deve ser mantida a taxa praticada.
+2. Não estando comprovado nos autos a pactuação da comissão de permanência cumulada com outros encargos moratórios, tampouco, sua incidência no caso concreto, descabe falar em expurgo da sua cobrança.
+3. Conforme entendimento pacífico desta Câmara, em regra, é permitida a cobrança - independentemente de contratação específica - das taxas e tarifas bancárias lançadas pela instituição financeira, por corresponderem à prestação de serviço e estarem legalmente previstas em legislação especial e normatizações do Banco Central. Do mesmo modo, indevida a repetição dos lançamentos a débitos realizados em benefício do correntista. Apelação cível não provida.
+A Corte local, em juízo de retratação, na sistemática dos recursos repetitivos, decidiu que (e-STJ fl. 3.747):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUÍZO DE RETRATAÇÃO (CPC, ART. 1.030, II, C/C RI/TJPR, ARTS. 109 E 110). ACÓRDÃO RECORRIDO. JUROS REMUNERATÓRIOS. ENTENDIMENTO FIXADO PELO STJ EM RECURSOS REPETITIVOS. RESP.  1.112.879/PR (TEMA 233), RESP.  1.112.879/PR (TEMA 224) E SÚMULA 530. DIVERGÊNCIA. INOCORRÊNCIA. AUSÊNCIA DE DISCREPÂNCIA EXPRESSIVA ENTRE AS TAXAS PRATICADAS NA CONTA-CORRENTE E EM COTEJO COM AS TAXAS MÉDIAS DE MERCADO. LIMITAÇÃO. NÃO CABIMENTO. ACÓRDÃO MANTIDO.
+1. O
+entendimento fixado pelo Superior Tribunal de Justiça (STJ) no julgamento
+dos Recursos Especiais Repetitivos nº 1.112.879/PR e nº 1.112.880/PR, como no enunciado da Súmula nº 530 do mesmo Tribunal, devem ser aplicados em consonância com os demais julgados daquela Corte sobre a matéria, no sentido de que a readequação de juros remuneratórios em contratos bancários pressupõe a demonstração de abusividade, caracterizada pela discrepância expressiva entre as taxas pactuadas e as taxas médias de mercado divulgadas pelo Bacen. Assim, constatada a inexistência de abusividade, por meio de perícia contábil, devem ser mantidas as taxas de juros remuneratórios praticadas na conta-corrente, em consonância com o entendimento da Corte Superior nos recursos representativos da controvérsia, não havendo divergência no Acórdão recorrido a justificar o juízo de retratação (CPC, art. 1.030, II).
+2. Juízo de retratação não exercido.
+Nas razões apresentadas (e-STJ fls. 3.754/3.768), a recorrente aponta dissídio jurisprudencial e ofensa aos arts. 122 do CC/2002 e 51, X, do CDC e à Súmula n. 530/STJ, argumentando que "quando o contrato que funda a relação jurídica em questão não é trazido aos autos ou, quando acostado, é demonstrada a ausência de pactuação de taxa de juros remuneratórios, estes são devidos de acordo com a média de mercado para o mesmo período e tipo de operação, conforme dados divulgados pelo BACEN, salvo se a taxa efetivamente praticada for inferior" (e-STJ fl. 3.759).
+Foram apresentadas contrarrazões (e-STJ fls. 3.784/3.787).
+O recurso foi admitido na origem (e-STJ fls. 3.791/3.792).
+É o relatório.
+Decido.
+A tese de violação da Súmula n. 530/STJ não comporta análise no recurso. Nesse sentido: "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+A fim de sustentar a limitação dos juros remuneratórios à media de mercado, ante a ausência de pactuação do encargo no contrato, a recorrente apontou violação dos arts. 122 do CC/2002 e 51, X, do CDC
+Ocorre que tais dispositivos legais não possuem o alcance normativo pretendido, porque nada dispõem a respeito dos encargos bancários, tampouco disciplinam o sistema financeiro nacional.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+A Corte local não se manifestou quanto ao art. 122 do CC/2002. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
