@@ -1,3 +1,7 @@
 Art. 4º A inexistência de registro no Cadin não implica reconhecimento de regularidade de situação, nem elide a apresentação dos documentos exigidos em lei, decreto ou demais atos normativos.
 § 1º No caso de operações de crédito contratadas por instituições financeiras, no âmbito de programas oficiais de apoio à microempresa e empresa de pequeno porte, ficam as mutuárias, no caso de não estarem inscritas no Cadin, dispensadas da apresentação, inclusive aos cartórios, quando do registro dos instrumentos de crédito e respectivas garantias, de quaisquer certidões exigidas em lei, decreto ou demais atos normativos, comprobatórias da quitação de quaisquer tributos e contribuições federais.
-§ 2º O disposto no § 1º aplica-se também aos mini e pequenos produtores rurais e aos agricultores familiares.
+§ 2º O disposto no § 1º deste artigo aplica-se:
+I - aos mini e pequenos produtores rurais;
+II - aos agricultores familiares, aos empreendedores familiares rurais e aos demais beneficiários da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais, bem como às cooperativas e associações da agricultura familiar de que trata o § 4º do art. 3º da Lei nº 11.326, de 24 de julho de 2006; e
+III - às pessoas naturais que exerçam atividade econômica e que aufiram, em cada ano-calendário, receita ou renda bruta igual ou inferior à máxima permitida para enquadramento como empresas de pequeno porte nos termos do inciso II do caput do art. 3º da Lei Complementar nº 123, de 14 de dezembro de 2006.
+§ 3º A dispensa de que trata o § 1º deste artigo terá validade de 180 (cento e oitenta) dias, contados da data da consulta de inexistência de registro no Cadin.
