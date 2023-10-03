@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (suscitante) e o TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO (suscitado).
+O conflito decorre de agravo de instrumento interposto contra decisão proferida em ação ajuizada em desfavor do Instituto Nacional do Seguro Social na qual a parte autora pleiteava a concessão do benefício de aposentadoria rural por idade.
+A ação previdenciária foi processada no Juízo de Direito da Comarca de Grandes Rios/PR, que a julgou procedente (fls. 30/37).
+Em fase de cumprimento de sentença, Juliano Borba Siqueira, escrivão da Comarca de Grandes Rios/PR, interpôs recurso de agravo de instrumento contra decisão do Juízo estadual, que indeferiu o pedido de levantamento das custas e despesas processuais encaminhado ao TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, ora suscitado, o qual declinou de sua competência sob o argumento de que "a matéria objeto do presente agravo de instrumento não se enquadra dentre aquelas previstas no art. 109 da Constituição Federal, e envolve disputa de interesses entre pessoas que não têm foro na Justiça Federal. O registro do INSS como agravado, no caso, deu-se de forma automática e por equívoco, uma vez que não há interesse da autarquia no recurso" (fl. 102).
+Os autos foram, então, remetidos ao TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que suscitou o presente conflito nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE PREVIDENCIÁRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. COMPETÊNCIA FIXADA A PARTIR DO PEDIDO E CAUSA DE PEDIR DA EXORDIAL. CONCESSÃO DE APOSENTADORIA RURAL POR IDADE. COMPETÊNCIA DA JUSTIÇA FEDERAL, PREVISÃO DO ART. 109, I, § 3º DA CF. INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU O LEVANTAMENTO DAS CUSTAS JUDICIAIS. JUÍZO ESTADUAL QUE ATUA POR COMPETÊNCIA DELEGADA. RECURSO REMETIDO AO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO QUE DECLINOU DA COMPETÊNCIA PARA A JUSTIÇA ESTADUAL. INCOMPETÊNCIA DESTA CORTE, ART. 109, I, § 4º DA CF. SUSCITAÇÃO DE CONFLITO NEGATIVO DE COMPETÊNCIA AO STJ. RECURSO NÃO CONHECIDO (fl. 126).
+O Ministério Público Federal opinou a favor de que fosse declarado competente o TRF da 4ª Região, ora suscitado (fls. 145/149).
+É o relatório.
+No caso dos autos, a ação originária que ensejou o agravo de instrumento diz respeito à concessão do benefício de natureza previdenciária -aposentadoria rural por idade - processada e julgada no primeiro grau de jurisdição de competência delegada, na forma do art. 109, § 3º, da Constituição Federal.
+Nestas hipóteses, por se tratar de competência federal por delegação, o recurso interposto contra a decisão proferida pelo Juízo de direito investido de jurisdição federal deverá ser processado e julgado pelo Tribunal Regional Federal da respectiva região, e não pelo Tribunal de Justiça, conforme dispõe o § 4º do art. 109 da Constituição Federal:
+Art. 109 -
+§ 3º - Serão processadas e julgadas na justiça estadual, no foro do domicílio dos segurados ou beneficiários, as causas em que forem parte instituição de previdência social e segurado, sempre que a comarca não seja sede de vara do juízo federal, e, se verificada essa condição, a lei poderá permitir que outras causas sejam também processadas e julgadas pela justiça estadual.
+§ 4º - Na hipótese do parágrafo anterior, o recurso cabível será sempre para o Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau.
+Dessa forma, ainda que o agravo de instrumento verse sobre questão que dispensa a análise de matéria previdenciária, impõe-se reconhecer a competência da Justiça Federal para julgamento do recurso.
+A propósito:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL AJUIZADA PELA UNIÃO (FAZENDA NACIONAL). COMPETÊNCIA DELEGADA. RECURSO. JULGAMENTO PELO TRIBUNAL REGIONAL FEDERAL.
+1. Compete ao respectivo Tribunal Regional Federal julgar recurso interposto contra decisão proferida por Juiz Estadual investido de competência federal delegada na forma do art. 15, I, da Lei 5.010/1966. Precedentes do STJ.
+2. Conflito de Competência conhecido, declarando-se competente o Tribunal Regional Federal da 3ª Região, o suscitado. (CC n. 114.650/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 11/5/2011, DJe de 17/5/2011.)
+Ante o exposto, conheço do presente conflito para declarar a competência do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO para o processamento e o julgamento do feito.
+Publique-se. Comunique-se.
+EMENTA
