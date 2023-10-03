@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBOS MAJORADOS. CONVEXÃO COM CRIME DOLOSO CONTRA A VIDA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO CONFIGURADO. PROCEDIMENTO BIFÁSITO DO TRIBUNAL DO JÚRI. DEMORA IRRAZOÁVEL DO ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. RECURSO EM HABEAS CORPUS PROVIDO.
+1. Segundo a jurisprudência desta Corte, os prazos previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Identifica-se o constrangimento ilegal ante o imoderado prazo da prisão preventiva do paciente, que foi denunciado somente pelos crimes conexos aos de homicídio tentado (roubos majorados) e aguarda há mais de quatro anos o término da primeira fase do procedimento do Tribunal do Júri, período incompatível com o princípio da razoável duração do processo, mormente quando há notícia de reconhecimento fotográfico que, sem apoio de outras provas ou sem observância do art. 226 do CPP, seria imprestável a embasar eventual condenação.
+3. Recurso em habeas corpus provido para relaxar a prisão preventiva do paciente.
+RELATÓRIO
+FABIANO LUIS OLIVEIRA alega sofrer coação ilegal ante acórdão do Tribunal a quo.
+O recorrente, denunciado por roubo majorado (três vezes), aponta o excesso de prazo injustificável para o término da instrução criminal, pois ele está segregado, desde 2/5/2019, sem previsão para o deslinde do feito. A parte explica o seguinte (fl. 112):
+ ..  em que pese as sucessivas decisões da MM. Magistradas singular mantendo a prisão do Recorrente, como abaixo podemos constatar, a mesma se vale de argumento equivocado, pois alega que O réu FABIANO LUIS OLIVEIRA encontra-se preso, pelo cometimento, em tese, do delito de TENTATIVA HOMICÍDIO QUALIFICADO, enquanto que, reportando-nos ao Aditamento à Denúncia, ao acusado é atribuída a suposta prática do crime de roubo majorado, não tendo nenhuma relação com a tentativa de homicídio atribuída ao corréu EDSON JUNIOR PECHOTO PALMA  ..
+Ainda, o insurgente assinala que as vítimas o teriam reconhecido por fotografia, campo fértil para o erro judicial, o que também não constitui lastro para a prisão cautelar "há mais de três anos" (fl. 115).
+Pede, por isso, a determinação de sua "imediata liberdade" (fl. 122).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 144-149).
+EMENTA
+RECURSO EM HABEAS CORPUS. ROUBOS MAJORADOS. CONVEXÃO COM CRIME DOLOSO CONTRA A VIDA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO CONFIGURADO. PROCEDIMENTO BIFÁSITO DO TRIBUNAL DO JÚRI. DEMORA IRRAZOÁVEL DO ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. RECURSO EM HABEAS CORPUS PROVIDO.
+1. Segundo a jurisprudência desta Corte, os prazos previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Identifica-se o constrangimento ilegal ante o imoderado prazo da prisão preventiva do paciente, que foi denunciado somente pelos crimes conexos aos de homicídio tentado (roubos majorados) e aguarda há mais de quatro anos o término da primeira fase do procedimento do Tribunal do Júri, período incompatível com o princípio da razoável duração do processo, mormente quando há notícia de reconhecimento fotográfico que, sem apoio de outras provas ou sem observância do art. 226 do CPP, seria imprestável a embasar eventual condenação.
+3. Recurso em habeas corpus provido para relaxar a prisão preventiva do paciente.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Segundo as informações prestadas pelo Juiz de primeiro grau (fls. 72-74):
+Em 06/10/2018, o acusado Edson Junior Pechoto Palma foi preso em flagrante pelo suposto delito de tentativa de homicídio, porte ilegal de arma de fogo de uso permitido, constrangimento ilegal, posse/porte ilegal de arma de uso restrito e tentativa de roubo a residência. Em 07/10/2018, este Juízo decretou a prisão preventiva do acusado Edson Junior Pechoto Palma. Em 10/10/2018, a Autoridade Policial instaurou o inquérito policial tombado sob o número 155/2018/100444/A. Em 01/11/2018, a Defensoria Pública requereu a revogação da prisão preventiva do acusado. Em 13/11/2018, o Ministério Público ofereceu denúncia contra Edson Junior Pechoto Palma, bem como manifestou-se pelo indeferimento do pedido defensivo. Em 20/11/2018, foi recebida a denúncia e determinada a citação do réu, bem como decidiu pelo indeferimento do pedido defensivo. Em 14/12/2018, o Ministério Público ofereceu aditamento a denúncia, acrescentando como acusado Vagner de Oliveira Guedes e Fabiano Luis Oliveira. Na mesma data o Ministério Público requereu a decretação da prisão preventiva de Vagner e Fabiano.
+Em 09/01/2019, foi recebido o aditamento a denúncia e determinada a citação dos acusados. Na mesma data este Juízo decretou a prisão preventiva de Vagner de Oliveira Guedes e Fabiano Luis Oliveira, bem como houve a cisão processual em relação aos corréu e Fabiano Luis Oliveira. Em 31/01/2019, o paciente foi citado por edital. Em 03/05/2019, o paciente foi devidamente preso, uma vez que estava foragido desde a decretação da sua prisão preventiva. Em 05/07/2019, o paciente foi citado por mandado.
+Em 29/01/2020, este Juízo  ..  aprazou audiência de instrução e julgamento para o dia 15/07/2020.
+Em 10/06/2020, devido à pandemia de Covid-19 a audiência foi cancelada.
+ ..
+Em 29/01/2021, este Juízo aprazou audiência de instrução para o dia 04/03/2021, às14h00min.
+Em 02/06/2021, devido a restrição de acesso às dependências do Fórum de Gravataí impostas em razão do decreto estadual n.º 55.764 e do ato conjunto n.º 01/2021 - 1ªVP/CGJ, este Juízo redesignou a audiência para o dia 12/08/2021, às 13h30min.
+ ..
+Em 12/08/2021, a audiência foi devidamente realizada, faltando algumas testemunhas para serem ouvidas em outra oportunidade. Em 27/08/2021, o Ministério Público informou os endereços atualizados das testemunhas a serem ouvidas.
+Em 31/08/2021, este Juízo designou nova solenidade para o dia 04/04/2022.  ..
+Em 28/03/2022, este Juízo transferiu a solenidade para o dia 10/10/2022, às13h00min, devido à convocação realizada pelo Tribunal de Justiça do Estado do Rio Grande do Sul, para que a Magistrada participasse do Curso de Aperfeiçoamento para Magistrados (CAM) -Direitos Humanos e Agenda 2030.
+ ..
+Em acréscimo aos esclarecimentos, o Magistrado especificou o seguinte (fls. 228-283):
+Realizada audiência de instrução, houve testemunhas faltantes Na ocasião, redesignou-se nova solenidade para o dia 13/02/2023.
+ ..
+Em 13/02/2023, aberta a audiência de instrução e julgamento, ausentes as testemunhas de acusação Alan Costa Dias e o Guarda Municipal Deividi de Moraes Fagundes, bem como a testemunha defensiva Andressa Ingrid Martins, ambos devidamente intimados para a solenidade, aprazou-se nova solenidade para o dia 06/07/2023, às 14h30min.
+Em 06/07/2023, aberta a audiência de instrução e julgamento, ausente a testemunha de acusação Alan Costa Dias, pela Juíza foi dito que, diante da ausência e da insistência do Ministério Público na oitiva de Alan, deferia o prazo de 48 horas afim de que o Órgão Ministerial acostasse o endereço físico/eletrônico da referida testemunha  ..
+Em 31/07/2023, designou-se audiência de instrução e julgamento para o dia 12/09/2023, às 15h30min.
+Em 15/08/2023, tendo em vista a necessidade de readequação de pauta (realização de Plenário do Júri em 12/09/2023), transferiu-se a solenidade anteriormente aprazada para o dia 21/09/2023,às 14h45min.
+II. Excesso de prazo
+Segundo a jurisprudência desta Corte, os prazos previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Identifica-se o constrangimento ilegal se houver prova de "(i) evidente desídia do órgão judicial; (ii) exclusiva atuação da parte acusadora; ou (iii) outra situação incompatível com o princípio da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal" (STF, HC n. 216752 AgR, Rel. Ministro Ricardo Lewandowski, 2ª T., DJe 8/9/2022).
+No caso, o tempo que perdura a marcha processual é preocupante e desperta sensibilidade. Trata-se de réu acusado de incursão "nas sanções do art. 157, § 2º, II e V, § 2º-A, I, por três vezes" (fl. 319). Apesar do destaque à sua periculosidade no édito prisional (o suspeito encontrava-se foragido do sistema prisional e teria praticado as subtrações durante a execução de suas penas, fl. 443), e à complexidade da ação penal (corréu denunciado por crime doloso contra a vida, pandemia, ausência de testemunhas etc.), a prisão cautelar perdura por mais de quatro anos e a ação penal tramita sob o procedimento bifásico do Tribunal do Júri, sem previsão para o encerramento da primeira fase do sumário da culpa.
+O denunciado teve a prisão efetuada no dia 2/5/2019. Desde então, a instrução criminal se arrasta e as audiências foram sucessivamente remarcadas, muitas vezes por motivos que não podem ser debitados à defesa (pandemia, falta de testemunhas de acusação, convocação do juiz para realização de cursos, readequação da pauta etc.).
+As complexidades da ação penal não justificam o prazo imoderado da prisão preventiva de réu não denunciado por crime doloso contra a vida (apenas por crimes conexos), principalmente ante o registro de "reconhecimento de pessoa por fotografia" (fl. 441), o que, uma vez caracterizada a inobservância do procedimento do art. 226 do CPP, seria insuficiente para a sua condenação criminal.
+III. Dispositivo
+À vista do exposto, reconheço a demora no encerramento da instrução processual criminal e dou provimento ao recurso em habeas corpus para relaxar a prisão preventiva do paciente.
+O acusado deverá, por ocasião de sua soltura, ser intimado do ônus processual de declinar endereço para receber intimações e manter atualizada, no processo, a comunicação de seu paradeiro.
+A análise feita nesta oportunidade não afasta a possibilidade de nova decretação da prisão preventiva se fatos novos justificarem a imprescindibilidade dessa providência.
