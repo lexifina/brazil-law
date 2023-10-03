@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 12ª VARA DE CURITIBA - SJ/PR suscita conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DA VARA DE EXECUÇÕES PENAIS E CORREGEDORIA DE PRESÍDIOS DE MARINGÁ - PR.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para execução de penas unificadas (ou a serem unificadas) decorrentes de condenações por crimes comuns federais e comum estadual, na hipótese do condenado se encontrar recolhido em presídio estadual .
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria de Presídios de Maringá - PR, ora suscitado (fls. 145-151).
+Decido.
+Segundo o Juízo suscitante, "este Juízo declinou a competência para a execução da pena privativa de liberdade em favor do Juízo da Vara de Execuções Penais de Maringá/PR em razão da notícia de o executado se encontrar preso naquela localidade e tramitar perante aquele Juízo a Execução Penal nº 4000013-84.2021.8.16.0094 - SEEU, e expediu a Guia de Recolhimento respectiva".
+Tal diretriz se coaduna com o enunciado contido na Súmula n. 192 do STJ: "Compete ao Juízo das Execuções Penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos a administração estadual".
+De fato, embora no caso, o sentenciado haja sido condenado perante a Justiça Federal em dois processos, os quais seriam anteriores ao que tramita perante a Justiça estadual, não há como desconsiderar o fato de que ele se encontrava preso em estabelecimento estadual em razão da existência de prisão por outro processo, o qual culminou com sua condenação e redundou em uma nova execução.
+Assim, embora o Juízo da Vara de Execuções Penais de Maringá - PR entenda que a competência para a execução/unificação das penas impostas ao apenado seja da 12ª Vara Federal de Curitiba, em virtude das execuções referentes à condenação de sua alçada serem anteriores à estadual, entendo que essas execuções devem tramitar perante o Juízo suscitado, onde o apenado se encontrava recolhido, nos termos da Súmula 192 do STJ, ainda que o custodiado tenha se evadido do estabelecimento penal.
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria de Presídios de Maringá - PR, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
