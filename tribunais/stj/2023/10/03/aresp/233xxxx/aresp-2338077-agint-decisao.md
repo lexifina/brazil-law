@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE SERGIPE para desafiar decisão proferida pela Presidência desta Corte, às e-STJ fls. 271/272, na qual não se conheceu do recurso, considerando a incidência da Súmula 284 do STF.
+A parte agravante alega, em síntese, que houve indicação precisa dos artigos violados em seu agravo em recurso especial.
+Sem impugnação (e-STJ fl. 285).
+É o relatório.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando a nova análise da insurgência.
+O STF, considerando a questão relativa à "constitucionalidade da decisão judicial que concedeu a equiparação do salário-base do professor da educação básica do Estado de São Paulo ao piso nacional da categoria, estabelecido pela Lei 11.738/2008, com incidência escalonada nas diversas faixas, níveis e classes", afetou à sistemática das repercussão geral o Tema 1.218, em 27/05/2022, nos seguintes termos: "Adoção do piso nacional estipulado pela Lei federal 11.738/2008 como base para o vencimento inicial da carreira do magistério da Educação Básica estadual, com reflexos nos demais níveis, faixas e classes da carreira escalonada".
+Encontrando-se o tema afetado à sistemática da repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Confiram-se as seguintes decisões monocráticas no mesmo viés: AgInt nos EDcl no Ag 1.432.709/ES, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 18/12/2018; REsp 1.770.141/RJ, rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 18/10/2018.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar também o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou unicidade recursal.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 271/272 e DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do RE 1.326.541 (Tema 1.218) pelo Supremo Tribunal Federal e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral.
+Publique-se. Intimem-se.
+EMENTA
