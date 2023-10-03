@@ -1,0 +1,66 @@
+DECISÃO
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 1.217/1.218):
+Trata-se de agravo em recurso especial interposto por MAICON DE SOUZA (e-STJ fls. 1168/1183), em face da decisão que negou seguimento ao recurso especial por ele interposto, que, por seu turno, foi interposto em face do Acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina que deu parcial provimento ao apelo defensivo para, mantendo a condenação do Agravante pelos crimes de tráfico de drogas e porte ilegal de arma de fogo de uso restrito, absolvê-lo do crime de associação para o narcotráfico, fixando sua pena em 08 (oito) anos de reclusão, em regime inicial semiaberto, e pagamento de 510 (quinhentos e dez) dias-multa.
+Contra esse Acórdão, a Defesa interpôs recurso especial, com fulcro na alínea " a", do art. 105, III, da CF, no qual apontou violação ao art. 33, §4º, da Lei nº 11.343/06, ao art. 5º da LINDB e ao art. 155 do CPP, tendo em vista que restam preenchidos todos os requisitos legais necessários para a incidência do benefício do tráfico privilegiado, não sendo possível negar a minorante com base exclusivamente em elementos informativos colhidos na fase pré-processual.
+Requereu o reconhecimento da minorante, com o consequente redimensionamento da reprimenda.
+O Tribunal Estadual inadmitu o recurso especial, tendo em vista a incidência das Súmulas nsº 7/STJ e 83/STJ (e-STJ fls. 1157/1159).
+Dessa decisão, foi interposto o presente recurso, no qual o Agravante, em resumo, refuta a incidência dos óbices contidos na decisão agravada.
+É o necessário a relatar.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial interposto.
+Ao fazê-lo, destaco, preliminarmente, que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+Acerca da controvérsia, assim se manifestou a Corte de origem (e-STJ fls. 1.112/1.113, grifei):
+Em relação à pena aplicada, os Apelantes almejam reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06.
+Sem razão.
+A pena-base foi fixada no mínimo legal para ambos os Recorrentes, ou seja, em 5 anos de reclusão e 500 dias-multa.
+Na etapa intermediária, ausentes agravantes e atenuantes, as reprimendas foram mantidas no mínimo legal.
+Na derradeira fase dosimétrica, não deve ser reconhecido o tráfico privilegiado.
+Como se sabe, a minorante prevista no art. 33, § 4º, da Lei 11.343/06 só se mostra aplicável quando o acusado preenche cumulativamente as seguintes exigências: a) primariedade; b) bons antecedentes; e c) não se dedicar às atividades criminosas, nem integrar organização criminosa.
+ ..
+Na hipótese dos autos, constata-se que Maicon de Souza e Ivan da Rosa não preenchem os requisitos estabelecidos na norma excepcional, pois embora tenham sido absolvidos em relação ao crime de associação, há elementos concretos capazes de certificar que não se trata de episódio isolado em suas vidas.
+Os Policiais Militares relataram, em Juízo, que após receberem denúncias a respeito do tráfico de drogas que estava sendo praticado da residência de Maicon de Souza, realizaram monitoramentos no local. Assim, durante os meses de dezembro de 2018 e janeiro de 2019, constataram que estava ocorrendo o comércio no local, bem como que Maicon de Souza e Ivan da Rosa se revezavam nas funções para exercer a comercialização ilícita.
+Diante disso, representaram pela expedição de mandado de busca e apreensão e lograram êxito em apreender a droga, o dinheiro e a arma no local.
+Logo, pela análise dos elementos fáticos-probatórios coligidos ao feito, verifica-se que o caso revela tratar-se de situação envolvendo Agentes que se dedicavam ao tráfico de drogas pelo menos pelo período de dezembro de 2018 a janeiro de 2019, sobretudo diante do monitoramento realizado; das palavras dos Policiais Militares e das delações dos usuários; elementos que corroboram a certeza de que o vínculo deles com atividade criminosa não ocorreu de maneira episódica.
+Em caso análogo ao presente feito, já decidiu a Corte da Cidadania:
+ ..
+Pois bem.
+Delineada a situação fática, passo à análise da tese trazida pela defesa.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Nos termos do disposto no art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Evidente, portanto, que o benefício descrito no aludido dispositivo legal tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes, muitas vezes até para viabilizar seu próprio consumo, e não para os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Na hipótese, contudo, entendo que melhor sorte não assiste à defesa.
+É que, no caso dos autos, as instâncias ordinárias excluíram a possibilidade de aplicação do pretendido redutor por entender que o paciente se dedica às atividades criminosas, em respeito aos critérios estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006, o que entendo ter ocorrido mediante fundamentação idônea.
+Nesse mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Fixada a pena-base no mínimo legal, a instância de origem indeferiu a minorante do § 4º do art. 33 da Lei n. 11.343/2006, com base em dados concretos que evidenciavam a dedicação do agravante às atividades criminosas. Além do transporte de relevante quantidade de drogas especialmente nocivas, destacou a Corte de origem que, nesse contexto da prática de traficância, ele portava arma de fogo com numeração suprimida, que estava municiada.
+2. A revisão desse entendimento demandaria imprescindível reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula n. 7 desta Corte Superior 3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.982.667/RS, minha relatoria, Sexta Turma, julgado em 8/5/2023, DJe de 11/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES DE USO PERMITIDO. DOSIMETRIA. ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. REGIME INICIAL FECHADO. POSSIBILIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a conclusão de que o Agravante se dedicava a atividades ilícitas não decorreu apenas da quantidade e variedade de drogas apreendidas, mas também das circunstâncias em que praticado o delito, com apreensão concomitante de duas armas de fogo e mais de trinta cartuchos; conjuntura que realmente denota não se tratar de Agente incipiente na lida delitiva do tráfico de drogas e, além disso, revela que a Jurisdição ordinária não incorreu em indevido bis in idem na dosimetria da pena. A modificação desse entendimento, com o objetivo de fazer incidir a minorante, exigiria aprofundado reexame probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ.
+2. A presença de circunstância judicial desfavorável, na primeira fase da dosimetria da pena, justifica a imposição do regime inicial imediatamente mais gravoso (arts. 59 e 33, §§ 2.º e 3.º, ambos do Código Penal).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.201.316/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/8/2023, DJe de 30/8/2023.)
+Assim, para a desconstituição dos fundamentos adotados pelas instâncias ordinárias, seria necessário o reexame das provas, o que é vedado pela Súmula n. 7 desta Corte.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. ATENUANTE DA CONFISSÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 42 da Lei n. 11.343/2006, mostra-se devido o aumento da reprimenda na primeira fase da dosimetria, com base na natureza e na quantidade da droga apreendida.
+2. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que a Corte de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam a dedicação dos acusados a atividades criminosas.
+3. O pretendido reconhecimento da atenuante da confissão espontânea não foi analisado pelo Tribunal a quo, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+5. Agravo regimental não provido. (AgRg no HC 541.363/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/2/2020, DJe 14/2/2020, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE DROGAS. MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. QUANTIDADE E VARIEDADE DE DROGAS. PARÂMETRO IDÔNEO PARA FIXAÇÃO DA FRAÇÃO DE DIMINUIÇÃO. PRECEDENTES. ALTERAÇÃO DO QUANTUM. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA SOCIALMENTE RECOMENDÁVEL. REEXAME DE PROVAS. SÚMULA N.º 7/STJ. REGIME INICIAL DE CUMPRIMENTO DE PENA. FUNDAMENTAÇÃO IDÔNEA PARA A FIXAÇÃO DO REGIME ABERTO AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A jurisprudência desta Corte Superior, no tocante à fixação da fração de redução devida pela aplicação da causa especial de diminuição de pena prevista no § 4.º do art. 33 da Lei de Drogas, admite que, "na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes" (HC 453.535/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/08/2018, DJe 28/08/2018, sem grifos no original).
+3. Não havendo ilegalidade patente na fixação do quantum a ser reduzido pela minorante do art. 33, § 4.º, da Lei de Drogas, não pode esta Corte proceder à alteração do referido patamar sem revolver o acervo fático-probatório, providência incabível na via do recurso especial, a teor do óbice contido no Verbete Sumular n.º 7 deste Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido. (AgRg no AREsp 1.389.733/GO, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/5/2019, DJe 24/5/2019, grifei.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA. PEDIDO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - O parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Os requisitos previstos na causa de diminuição (o agente ser primário, de bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa) são de observância cumulativa, vale dizer, a ausência de qualquer deles, implica a não aplicação da causa de diminuição de pena.
+IV - Na espécie, houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada na grande quantidade e variedade de drogas aprendidas (as particularidades e a natureza, quantidade e variedade dos entorpecentes - apreensão de 151 porções de crack, 71 de cocaína, 109 de maconha), elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas. Rever esse entendimento demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+ ..  (HC 542.499/SP, relator Ministro LEOPOLDO DE ARRUDA RAPOSO, Desembargador convocado do TJPE, QUINTA TURMA, julgado em 5/12/2019, DJe 13/12/2019, grifei.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
