@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela UNIÃO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+"CONSTITUCIONAL E ADMINISTRATIVO. PENSÃO POR MORTE. EX-COMBATENTE. FILHO MAIOR INVÁLIDO. REGÊNCIA PELA LEGISLAÇÃO DA ÉPOCA DO FALECIMENTO. LEIS Nº 3.765/60 E Nº 4.242/63. VALOR DO BENEFÍCIO. EQUIVALÊNCIA COM A PENSÃO DEIXADA POR UM SEGUNDO-SARGENTO. ATUALIZAÇÃO DA CONTA COM CORREÇÃO PELO MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL E JUROS COM BASE NO ARTIGO 1º-F, DA LEI Nº 9.494/97. SUCUMBÊNCIA RECIPROCA. HONORÁRIOS ADVOCATÍCIOS. EXCLUSÃO DA CONDENAÇÃO.
+1. Tratando-se de discussão envolvendo prestação de trato sucessivo, não há prescrição do fundo de direito.
+2. Para a concessão de pensão especial de ex-combatente, deve ser observada a legislação vigente à época do óbito do instituidor do benefício.
+3. Hipótese em que, ocorrido o falecimento do pai do autor em 19.01.1985, a concessão de pensão há de considerar as disposições das Leis nº 3.765/60 e nº 4.242/63.
+4. Sendo o autor inválido á época do óbito de seu genitor, consoante perícia em juízo produzida, e aplicáveis os diplomas normativos supra, o valor da pensão especial devida corresponde à pensão deixada por um segundo-sargento, não não se aplicando o disposto na Lei nº 8.059/90.
+5. peradas declarações de inconstitucionalidade na ADI nº 4357 e na ADI nº 4425, a atualização da conta há de considerar o Manual de Cálculos da Justiça Federal no tocante à correção monetária e o teor do artigo 1º-F da Lei nº 9.494/97 em relação aos juros.
+6. Não tendo sido integralmente acolhida a pretensão autoral, resta configurada sucumbência recíproca, devendo ser suprimida a condenação da União em honorários advocatícios.
+7. Apelação autoral desprovida. Apelo da União e remessa oficial parcialmente providas" (fl. 277e).
+O acórdão em questão foi objeto de Embargos de Declaração, pela parte autora (fls. 286/297e), pela União (fls. 301/305e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição ou omissão no julgado e, por construção pretoriana integrativa, erro material.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso interposto.
+3. Embargos de declaração desprovidos" (fl. 314e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação dos arts. 219 e 535, II, do CPC/73, 5º, 11, 12, 13, e 14 da Lei 8.059/90, 1º do Decreto 20.910/32 e 1º-F da Lei 9.494/97, sustentando, para tanto, que:
+"DA PRESCRIÇÃO DO FUNDO DE DIREITO
+Invoca-se, nesta oportunidade, como prejudicial de mérito, a prescrição quinquenal, nos moldes do art. 1º, do Decreto nº 20.910/32, visto que todo e qualquer direito ou ação contra a União, independentemente de sua natureza, prescreve em cinco anos, contados da data do ato ou fato que o originou.
+A Autora busca a reversão da pensão especial de ex-combatente percebida pelo seu genitor, falecido em 19.01.1985. Assim, o suposto direito invocado nesta ação teria sua origem na data de falecimento do de cujos, ou seja, em 19.01.1985.
+Acontece que a presente demanda somente foi proposta em 26 do novembro de 2013, sendo de se aplicar, in casu, o disposto no art. 1º do Decreto nº 20.910/32, senão vejamos:
+(..)
+Da contrariedade à lei federal: Da violação aos arts. 5º e 14 da Lei n. 8.059/90
+A lei, portanto, é clara ao não permitir que dependentes menores e não inválidos, quando atingirem a maioridade, continuem possuindo a qualidade de dependente do ex-combatente.
+Dessa maneira, a invalidez deve preexistir tanto à morte do "instituidor" como à maioridade do suposto beneficiário, pois, caso o contrário, a dependência econômica jamais teria um fim, perpetuando-se ad eternum. o que contraria a finalidade da norma (que é a proteção daqueles que vivem de forma continuada em dependência do ex-combatente) ou qualquer outra lógica jurídica.
+(..)
+Da violação aos arts. 11.12 e 13 da Lei n. 8.059/90
+(..)
+Há que se notar, portanto, que não há como, in casu. a pensão especial de ex-combatente ser concedida com efeitos retroativos anteriores à citação da União.
+Não havendo prova da existência do prévio requerimento administrativo, em prol do recebimento da pensão por morte de ex-combatente, o termo inicial a ser considerado em eventual concessão judicial do benefício deve ser a data da citação da União.
+DA VIOLAÇÃO AO ART. 1º-F DA LEI Nº 9494/97: declaração parcial de inconstitucionalidade do artigo 5º da Lei nº 11.960/09
+(..)
+Assim, faz-se mister que esse E. Tribunal promova a adequação do julgado, a fim de ser mantida a aplicação do art. 5º da Lei nº 11960/09 no tocante aos juros de mora, bem como que seja fixada a correção monetária, com base no mesmo dispositivo, até que o STF promova a efetiva modulação dos efeitos da declaração parcial de inconstitucionalidade" (fls. 422/432e).
+Requer, ao final, "primeiramente, a anulação do acórdão pela ofensa ao art. 535 do Código de Processo Civil, e, caso V. Exas. entendam que não existem vícios a levá-lo à nulidade, o que se admite apenas para argumentar, requer sua reforma pela ofensa aos dispositivos legais mencionados e pela divergência jurisprudencial demonstrada, para dar provimento ao Recurso Especial interposto, julgando improcedente o pleito autoral para cassar a concessão da Pensão pleiteada ou, subsidiariamente, ao menos para que o seu termo inicial para o pagamento dos atrasados seja a citação válida do ente público. Por fim, caso seja mantida a condenação, o que evidentemente não se espera, que seja fixada a correção monetária na forma ora requerida" (fls. 432/433e).
+Contrarrazões, a fls. 473/490e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 502/503e).
+A irresignação não merece ser conhecido.
+Na origem, trata-se de Ação ajuizada por Edmil Merencio da Silva, em face da União, "cujo objeto é a condenação da ré ao pagamento da pensão especial de ex-combatente, em decorrência da morte de seu pai, bem como, o pagamento das parcelas atrasadas" (fl. 183e).
+O Juízo de 1º Grau julgou procedente o pedido (fls. 183/188e).
+O Tribunal de origem negou provimento ao recurso de Apelação, interposto pelo autor e deu parcial provimento ao recurso da União e à remessa necessária, "tão-somente para determinar que a pensão em debate tome por base o valor percebido por Segundo-Sargento e para, declarando a sucumbência recíproca, isentar a UNIÃO do pagamento de honorários advocatícios" (fls. 275/278e).
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 313/314e).
+Daí a interposição do presente Recurso Especial.
+O Parquet Federal manifestou-se "pelo desprovimento de ambos os recursos especiais" (fls. 588/595e).
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+De início, observo que, no tocante aos critérios de aplicação de juros e correção monetária, houve negativa de seguimento à insurgência, nos termos do art. 1.040, I, do CPC/2015, do que resulta a perda do objeto da respectiva tese recursal.
+No caso, quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o artigo 535 do CPC/73, o recorrente não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+Quanto à suposta ofensa ao art. 1º do Decreto 20.910/32, o Tribunal de origem asseverou que "inicialmente, cumpre rechaçar a alegação de prescrição formulada pela UNIÃO, pois, em se tratando de prestação de trato sucessivo, o fundo de direito não é atingido pela prescrição, que só alcança as parcelas vencidas no período anterior aos cinco anos que antecederam a data da propositura da ação" (fl. 276e).
+Com efeito, o entendimento do acórdão recorrido encontra-se em sintonia com a orientação desta Corte Superior. A Primeira Seção desta Corte, em sessão realizada em 13/03/2019, nos autos dos EREsp 1.269.726/MG (Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 20/03/2019), examinou essa questão, para reconhecer que "o pedido de concessão do benefício de pensão por morte deve ser tratado como uma relação de trato sucessivo, que atende necessidades de caráter alimentar, (..). Assim, não havendo óbice legal a que se postule o benefício pretendido em outra oportunidade, o beneficiário pode postular sua concessão quando dele necessitar".
+Nesse mesmo sentido:
+"SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que "o pedido de concessão do benefício de pensão por morte deve ser tratado como uma relação de trato sucessivo, que atende necessidades de caráter alimentar, razão pela qual a pretensão à obtenção de um benefício é imprescritível. Assim, a concessão inicial do benefício poderá ser solicitada a qualquer tempo, e somente existirá prescrição do fundo de direito se não for ajuizada ação nos cinco anos posteriores à ciência do respectivo indeferimento administrativo, se houver" (AgInt no REsp 1749680/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 12/4/2021, DJe 20/4/2021).
+2. Agravo interno não provido" (STJ, AgInt no AREsp 1.868.586/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/10/2021).
+"ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. REVISÃO DA PENSÃO POR MORTE. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PRECEDENTES.
+1. O entendimento firmado pelo STJ é no sentido de que, na hipótese de revisão de pensão anteriormente concedida, a prestação é de trato sucessivo e a prescrição quinquenal atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação. Precedentes.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 1.338.715/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/12/2018).
+Nesse contexto, incide, na espécie, a Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ademais, a Corte de origem, ao analisar a controvérsia, consignou que "destarte, tendo essa norma contemplado o direito do filho maior inválido ao recebimento da pensão especial de ex-combatente e tendo sido constatado, como se observa do laudo em juízo produzido, que o autor, a despeito de sua tardia interdição, já era incapaz à época do óbito do instituidor da pensão (documento de nº 4058300.567338), há que se reconhecer que o mesmo faz jus ao benefício reclamado, sendo inaplicáveis as diretrizes estabelecidas pela Lei nº 8.059/90." (fl. 276e).
+Entretanto, tal fundamento não foi impugnado pelo recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ademais, ainda que possível fosse ultrapassar o óbice supra - o que não é o caso, registra-se desde já - a título meramente ilustrativo -, saliente-se que, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recu rso Especial, pela Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
+EMENTA
