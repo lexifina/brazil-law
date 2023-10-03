@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 261/269) interposto contra decisão (e-STJ fls. 250/253) que negou provimento ao agravo em recurso especial.
+Em suas razões, a p arte agravante sustenta a negativa de prestação jurisdicional pelo Tribunal de origem e argumenta com a inaplicabilidade da Súmula n. 83 do STJ.
+A parte agravada apresentou contrarrazões (e-STJ fls. 273/275).
+É o relatório.
+Decido.
+Tendo em vista as razões de agravo interno, reconsidero a monocrática agravada e passo a novo exame do recurso.
+Cuida-se de agravo nos próprios autos (e-STJ fls. 217/221) interposto contra decisão (e-STJ fls. 204/210) que inadmitiu recurso especial sob os seguintes fundamentos: (a) não caracterização de negativa de prestação jurisdicional, e (b) incidência da Súmula n. 7 do STJ.
+O agravo refuta os fundamentos da decisão agravada e alega o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 235/239).
+O acórdão recorrido está assim ementado (e-STJ fl. 120):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS 1ª FASE. FUNDO 157.
+1. Preliminares contrarrecursal e de inépcia da inicial, de ausência de interesse de agir bem como de ofensa à recurso repetitivo não reconhecidas.
+2. Considerando que o investimento do fundo 157 não tinha prazo previamente estabelecido para vencimento ou resgate, inviável o reconhecimento da prescrição ou a aplicação da teoria da supressio.
+3. O banco-agravante, como atual administrador do fundo no qual o agravado investiu capital, tem o dever de prestar contas.
+Recurso desprovido.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 144/147).
+O recurso especial (e-STJ fls. 153/159), fundamentado no art. 105, inc. III, alíneas "a" e "c", da CF, apontou dissídio jurisprudencial e ofensa aos seguintes dispositivos legais, sob as respectivas teses:
+(i) art. 1.022, inc. II, do CPC, afirmando negativa de prestação jurisdicional; e
+(ii) arts. 319, incs. III e IV, e 550, § 1º, do CPC, sustentando que (e-STJ fl. 156): "a petição inicial  é  genérica, padronizada, sem a identificação de exemplos concretos dos lançamentos supostamente não autorizados ou de origem desconhecida não satisfaz endo  os requisitos de admissibilidade postos pela lei processual civil", e "incumbe ao autor provar o fato constitutivo de seu direito o que, com efeito, não restou observado na petição inicial genérica feita pelo recorrido".
+Não foram oferecidas contrarrazões (e-STJ fls. 182/185).
+Segundo o acórdão recorrido, a instituição financeira interpôs agravo de instrumento "contra a decisão do Juízo da 6ª Vara Cível do Foro Central da Comarca de Porto Alegre, que julgou procedente a 1ª fase da ação de exigir contas ajuizada por Carlos Alberto Gonçalves da fonte, determinando que a instituição preste contas no prazo de 15 dias. Argumenta, em síntese, inépcia da inicial; ausência de interesse processual; falta de interesse de agir e ofensa ao Recurso Repetitivo Resp nº 1349453/MS. Ainda, aduz, a existência de prescrição; e a aplicação da teoria da supressio; ou alternativamente, a necessidade de ser aceita como prestadas as contas. Pede a concessão de efeito suspensivo e, ao final, o provimento do recurso para reformar a decisão" (e-STJ fl. 121).
+Ao negar provimento ao agravo de instrumento, o Tribunal de origem concluiu que "O fato de inexistir informação precisa do valor e da data inicial dos aportes, por si só, não demonstra a alegada inépcia, estando documentalmente comprovada a existência do investimento pelo agravado (fl. 42), afastando a tese de violação ao direito de ampla defesa" (e-STJ fl. 122).
+No entanto, tal conclusão diverge do entendimento atual da Quarta Turma do STJ, que, ao decidir caso semelhante, por maioria, concluiu pela inépcia da inicial e pela carência da ação de exigir contas sobre o "Fundo 157", quando não especificados minimamente os fatos constitutivos do direito. Conforme destacou a relatora do acórdão, tratava-se de modalidade de investimento criado pelo Decreto-Lei n. 157/1967, no qual o contribuinte poderia, na declaração do imposto de renda, optar por utilizar parte do imposto devido para adquirir cotas de fundos administrados por instituições financeiras de livre escolha do investidor. Desse modo, "Como se trata de investimento relacionado à sua própria declaração de imposto de renda, não é razoável, cerca de quarenta anos após, exigir fosse a atual instituição financeira administradora do Fundo de Ações responsável por informar quanto fora investido, em data desconhecida, para fins de abatimento de imposto de renda devido, entre 1967 e 1983".
+Esta a ementa do julgado:
+RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. FUNDO 157. PRIMEIRA FASE. PEDIDO GENÉRICO. AUSÊNCIA DE ESPECIFICAÇÃO DO OBJETO DA PRESTAÇÃO DE CONTAS. PRELIMINAR DE INÉPCIA DA INICIAL ACOLHIDA. CONTAS PRESTADAS PELA INSTITUIÇÃO FINANCEIRA, A DESPEITO DO CARÁTER GENÉRICO DA INICIAL. CONTAS QUE, EMBORA NÃO TENHAM SIDO PRESTADAS DE FORMA MERCANTIL, TRANSPORTAM O VALOR NOMINAL PARA O NÚMERO DE QUOTAS DO AUTOR, ORA RECORRIDO, REPRODUZINDO-O DE FORMA CRONOLOGICAMENTE POSSÍVEL.
+1. Hipótese em que não está presente a concreta necessidade de intervenção do Poder Judiciário para a obtenção de prestação de contas acerca de investimentos realizados no Fundo 157, sequer concretamente especificados pelo recorrido, em razão da padronizada e genérica inicial, onde não se indica o valor aplicado e a data em que foi feita a aplicação.
+2. Como se trata de investimento relacionado à declaração de imposto de renda, não é razoável, cerca de quarenta anos após, exigir fosse a atual instituição financeira administradora do Fundo de Ações responsável por informar quanto fora investido, em data desconhecida, para fins de abatimento de imposto de renda devido, entre 1967 e 1983, único dado temporal trazido com a inicial.
+3. Hipótese em que a instituição financeira, a despeito do caráter genérico da inicial e do pedido, prestou as contas, na medida do possível, com base no número de quotas relacionadas ao CPF do autor em cada fundo por ela administrado.
+4. No presente caso, o recorrido destinou parte do imposto de renda devido para um fundo investidor (Fundo 157), administrado por instituição financeira que recebia os recursos e podia adquirir ações ou debêntures emitidas por sociedades empresárias que cumprissem os requisitos previstos no Decreto-Lei n. 157/1967.
+5. O investimento no fundo se dava em comunhão de ativos de renda variável, que, como tal não estava isento de riscos, que a depender de diversos fatores, dentre eles, a boa ou má administração da empresa, além de fatores econômicos ou políticos, interferem no comportamento dos preços das ações que compõem a carteira de investimentos do fundo. Por certo, nesse tipo de investimento não há garantia de lucro em relação ao montante aplicado.
+6. Diante da sujeição do investimento a eventuais variações e risco de mercado, é improcedente a pretensão do recorrido no sentido de que, desde o aporte inicial, sejam aplicados índices de correção monetária e juros de mercado, como se o caso tratasse, por exemplo, de certificado de depósito bancário ou de caderneta de poupança, o que não se verifica. Na presente situação, o valor atual do investimento é representado pelo número de quotas correspondente aos valores aplicados, multiplicado pelo valor diário da quota, o que foi devidamente demonstrado pelo banco recorrente.
+7. Recurso especial parcialmente provido.
+(REsp n. 1.994.044/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2023, DJe de 10/8/2023 - Negritei.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. AUSÊNCIA DE INTERESSE DE AGIR. RECONHECIMENTO. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Não se verifica a alegada violação ao art 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. Na hipótese, a generalidade da petição inicial padronizada, a qual não indica os valores e a data do investimento inicial, além de declarar não saber se houve resgates parciais ou totais ao longo de aproximadamente quarenta anos, evidencia a ausência de interesse de agir para ação de exigir contas acerca de investimentos realizados no Fundo 157. Precedente.
+3. Agravo interno provido para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.860.460/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Assim, a Súmula n. 568 do STJ autoriza o provimento do especial.
+Prejudicado o exame da alegação de negativa de prestação jurisdicional.
+Ante o exposto, DOU PROVIMENTO ao agravo interno a fim de RECONSIDERAR a monocrática de fls. 250/253 (e-STJ) - tornando-a sem efeito - e CONHECER do agravo nos próprios para DAR PROVIMENTO ao recurso especial , reconhecendo a ausência do interesse de agir e extinguindo a ação sem julgamento do mérito .
+Inverto, em desfavor da parte autora, os ônus sucumbenciais fixados na origem.
+Caso deferida anteriormente a gratuidade da justiça na instância ordinária, deve ser observada a regra do § 3º do art. 98 do CPC.
+Publique-se e intimem-se.
+EMENTA
