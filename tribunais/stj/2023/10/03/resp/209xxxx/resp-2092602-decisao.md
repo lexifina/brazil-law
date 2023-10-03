@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, interposto por ZIRANLOG - ARMAZÉNS GERAIS E TRANSPORTES LTDA., com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 38, e-STJ):
+Agravo de Instrumento. Ação de Busca e Apreensão. Contrato de Participação e Grupo de Consórcio Segmentos Veículo Automotor. Gravação do ônus da propriedade fiduciária. Decisão vergastada deferiu o pedido de concessão de medida liminar. Mora comprovada, devidamente, por carta registrada com aviso de recebimento. Agravante em recuperação judicial. Alegação de essencialidade do caminhão para o desempenho e manutenção da sua atividade econômica. Argumento recursal no sentido de que eventual admissibilidade da apreensão deve ser submetida à apreciação do juízo universal onde tramita a recuperação judicial. O crédito em questão possui natureza extraconcursal. Inteligência do artigo 49, parágrafo 3º, da Lei 11.101/05. Não se submete aos efeitos da recuperação judicial, prevalecendo os direitos de propriedade sobre a coisa e as condições contratuais. Não se permite, contudo, durante o stay period a que se refere o parágrafo 4º do artigo 6º da Lei 11.101/05, a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais a sua atividade empresarial, porém, tal prazo já expirou, sendo assim, inexiste óbice à busca e apreensão. Portanto, despropositada, na presente demanda, qualquer discussão acerca da essencialidade do bem dado em garantia. Desprovimento do Agravo de Instrumento.
+Opostos embargos de declaração, foram rejeitados (fls. 66/69, e-STJ).
+Em suas razões de recurso especial, a Recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 6º, § 4º, 47 e 76 da Lei 11.101/05. Sustenta, em síntese, que a apreensão do veículo dado como garantia deve ser submetida à análise do juízo recuperacional, dada a sua essencialidade para o exercício da sua atividade.
+Após a apresentação das contrarrazões (fls. 114/119, e-STJ), e após decisão de admissão do recurso especial (fls. 121/126, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar.
+1. Com efeito, a busca e apreensão de veículo dado em garantia por empresa em recuperação judicial deve ser submetida ao juízo da recuperação judicial a fim de que se verifique a essencialidade do respectivo bem para a manutenção da atividade econômica, ainda que ultrapassado o período de suspensão (stay period), e que se trate de alienação fiduciária em garantia, como no caso dos autos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. AÇÃO DE BUSCA E APREENSÃO DE BENS. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. ESSENCIALIDADE DO BEM COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Não se aplica a vedação veiculada pela Súmula n. 735 do STF quando a pretensão recursal não se funda na análise dos requisitos ensejadores do deferimento da tutela provisória.
+2. Ainda que ultrapassado o período de suspensão (stay period) a que se refere o art. 6º, § 4º, da Lei n. 11.101/2005, compete ao juízo da recuperação judicial dispor acerca da essencialidade dos bens para a manutenção da atividade econômica da empresa, mesmo que se trate de alienação fiduciária em garantia, que não estaria sujeita aos efeitos da recuperação judicial (art. 49, § 3º). Precedente da Segunda Seção.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.529.808/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou provimento a fim de determinar que a busca e apreensão do veículo da empresa recuperanda se submeta ao juízo da recuperação judicial a fim de que este avalie a essencialidade do bem para o exercício da atividade empresarial.
+Sem honorários recursais, por se tratar de agravo de instrumento na origem.
+Publique-se. Intimem-se.
+EMENTA
