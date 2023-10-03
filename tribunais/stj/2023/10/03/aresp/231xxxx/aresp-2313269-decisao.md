@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (e-STJ fls. 184/188).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 110):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. CONSUMIDOR. AÇÃO DECLARATÓRIA. INSCRIÇÃO NEGATIVA. COMUNICAÇÃO PRÉVIA. ENDEREÇO ELETRÔNICO (E-MAIL). POSSIBILIDADE. NOTIFICAÇÃO COMPROVADA.
+1. É ILEGAL E DEVE SER CANCELADA A INSCRIÇÃO DO NOME DO DEVEDOR EM CADASTROS DE PROTEÇÃO AO CRÉDITO SEM QUE VERIFICADA A PRÉVIA NOTIFICAÇÃO EXIGIDA PELO ART. 43, § 2º, DO CDC. STJ, RESP N. 1061134/RS, REPRESENTATIVO DE CONTROVÉRSIA, PROVIDÊNCIA A CARGO DA INSTITUIÇÃO MANTENEDORA DO BANCO DE DADOS.
+2. HIPÓTESE EM QUE A PARTE DEMANDADA COMPROVOU A REMESSA DA NOTIFICAÇÃO PRÉVIA RELATIVAMENTE AO REGISTRO IMPUGNADO VIA E-MAIL. A REMESSA DA COMUNICAÇÃO PARA O ENDEREÇO RESIDENCIAL, E POR ANALOGIA, PARA O ENDEREÇO ELETRÔNICO FORNECIDO PELA ENTIDADE CREDORA OU PELO CONSUMIDOR É SUFICIENTE PARA O CUMPRIMENTO DO DEVER DE CIENTIFICAÇÃO PRÉVIA A QUE ALUDE O ARTIGO 43, § 2º, DO CDC, QUANDO OS ELEMENTOS DE CONVICÇÃO PERMITEM CONCLUIR POR SUA IDONEIDADE. CASO DOS AUTOS, EM QUE O ENDEREÇO ELETRÔNICO É COMPOSTO PELO NOME DA AUTORA, HAVENDO COMPROVAÇÃO DA ENTREGA EM SUA CAIXA DE CORRESPONDÊNCIA. PRECEDENTE DESTA CORTE.
+3. SENTENÇA CONFIRMADA. HONORÁRIOS RECURSAIS DEVIDOS.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 131/133).
+Nas razões do recurso especial (e-STJ fls. 139/149), fundamentado no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 1.020 do CPC/2015, 149, 150, 186, 264, 271, 680, 927, 942 e 1.016 do CC/2002 e 6º, VI, VII e VIII, 14, 28, § 3º, 42, 43, § 2º, e 83 do CDC.
+Defende a irregularidade da notificação prévia efetuada por e-mail e ressalta que, "não efetuando a comunicação prévia obrigatória em comento, é indubitável que o requerido causou danos e prejuízos irreparáveis à consumidora, danos esses que são IN RE IPSA, ou seja, na própria coisa, no simples fato de que a inserção acolhida pelo recorrido, em seu banco de dados, foi totalmente desprovida de licitude" (e-STJ fl. 142).
+Ao final, requer o provimento do recurso para "que seja julgado procedente o pedido de reparação de danos morais" (e-STJ fl. 148).
+No agravo (e-STJ fls. 195/206), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 210/214 (e-STJ).
+É o relatório.
+Decido.
+Nos termos da jurisprudência do STJ, a validade da notificação prévia do consumidor, para sua inscrição em cadastro de inadimplentes, exige o envio de carta ao endereço constante do respectivo cadastro, não cumprindo tal exigência o envio exclusivo de e-mail ou mensagem de texto (SMS).
+Nesse sentido:
+RECURSO ESPECIAL. CONSUMIDOR. CADASTRO DE PROTEÇÃO AO CRÉDITO. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. NOTIFICAÇÃO POR E MAIL OU MENSAGEM DE TEXTO DE CELULAR. IMPOSSIBILIDADE. NECESSIDADE DE CORRESPONDÊNCIA AO ENDEREÇO DO CONSUMIDOR.
+1. Ação de cancelamento de registro e indenizatória ajuizada em 21/1/2022, da qual foi extraído o presente recurso especial, interposto em 14/12/2022 e concluso ao gabinete em 15/3/2023.
+2. O propósito recursal consiste em dizer se a notificação prévia à inscrição do consumidor em cadastro de inadimplentes, prevista no §2º, do art. 43, do CDC, pode ser realizada, exclusivamente, por e-mail ou por mensagem de texto de celular (SMS).
+3. O Direito do Consumidor, como ramo especial do Direito, possui autonomia e lógica de funcionamento próprias, notadamente por regular relações jurídicas especiais compostas por um sujeito em situação de vulnerabilidade. Toda legislação dedicada à tutela do consumidor tem a mesma finalidade: reequilibrar a relação entre consumidores e fornecedores, reforçando a posição da parte vulnerável e, quando necessário, impondo restrições a certas práticas comerciais.
+4. É dever do órgão mantenedor do cadastro notificar o consumidor previamente à inscrição - e não apenas de que a inscrição foi realizada -, conferindo prazo para que este tenha a chance (I) de pagar a dívida, impedindo a negativação ou (II) de adotar medidas extrajudiciais ou judiciais para se opor à negativação quando ilegal.
+5. Na sociedade brasileira contemporânea, fruto de um desenvolvimento permeado, historicamente, por profundas desigualdades econômicas e sociais, não se pode ignorar que o consumidor, parte vulnerável da relação, em muitas hipóteses, não possui endereço eletrônico (e-mail) ou, quando o possui, não tem acesso facilitado a computadores, celulares ou outros dispositivos que permitam acessá-lo constantemente e sem maiores dificuldades, ressaltando-se a sua vulnerabilidade técnica, informacional e socioeconômica.
+6. A partir de uma interpretação teleológica do § 2º, do art. 43, do CDC, e tendo em vista o imperativo de proteção do consumidor como parte vulnerável, conclui-se que a notificação do consumidor acerca da inscrição de seu nome em cadastro restritivo de crédito exige o envio de correspondência ao seu endereço, sendo vedada a notificação exclusiva através de e-mail ou mensagem de texto de celular (SMS).
+7. Na hipótese dos autos, merece reforma o acórdão recorrido, com o cancelamento das inscrições mencionadas na inicial, pois, à luz das disposições do CDC, não se admite a notificação do consumidor, exclusivamente, através de e-mail ou mensagem de texto de celular.
+8. No que diz respeito à eventual compensação por danos morais, não é possível o seu arbitramento neste momento processual, pois não se extrai dos fatos delineados pelo acórdão recorrido a existência ou não, em nome da parte autora, de inscrições preexistentes e válidas além daquelas que compõem o objeto da presente demanda, o que afastaria a caracterização do dano extrapatrimonial alegado.
+9. Recurso especial conhecido e provido para determinar o cancelamento das inscrições mencionadas na exordial por ausência da notificação exigida pelo art. 43, § 2º, do CDC, e o retorno dos autos à origem para que examine a caracterização ou não dos danos morais, a partir das peculiaridades da hipótese concreta.
+(REsp n. 2.056.285/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA POR INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PRÉVIA NOTIFICAÇÃO. DANO MORAL NÃO CONFIGURADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+ ..
+4. Ademais, a Segunda Seção desta Corte, no julgamento de Recurso Repetitivo (REsp 1.083.291/RS, Rel. Ministra NANCY ANDRIGHI, DJe de 20/10/2009), consolidou o entendimento de que, "para cumprimento do dever estabelecido no § 2º do art. 43, do CDC, que Órgãos Mantenedores de Cadastros Restritivos comprovem o envio de correspondência ao endereço fornecido pelo credor, sem que seja necessário a comprovação do efetivo recebimento da carta, mediante AR." Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.329.057/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/3/2019, DJe de 29/3/2019.)
+No caso, o Tribunal de origem, ao analisar a controvérsia, assim decidiu (e-STJ fl. 108):
+Desse modo, a remessa da comunicação para o endereço residencial, e por analogia, para o endereço eletrônico (e-mail) fornecido pela entidade credora ou pelo consumidor é suficiente para o cumprimento do dever de cientificação prévia a que alude o artigo 43, § 2º, do Código de Defesa do Consumidor, desde que os elementos probatórios permitam concluir por sua idoneidade.
+No caso, a notificação foi enviada em 17.10.2020 para o e-mail SANTOSDENISETHAINA@GMAIL. COM - nome da autora -, havendo evidência de que foi entregue na caixa de correspondência eletrônica no mesmo dia.
+Em réplica, apesar de impugnar o meio de comunicação através do qual foi feita a notificação e negar o respectivo recebimento, a demandante não negou que o endereço eletrônico lhe pertence, nem afastou a presunção de que foi pessoalmente informado à credora.
+Contexto em que se tem por atendida, pela ré, a exigência prevista no art. 43, § 2º, do CPC, não podendo ser responsabilizada pela efetiva leitura por parte da autora.
+Conforme se depreende da fundamentação do acórdão recorrido, o Tribunal a quo considerou que o órgão mantenedor do cadastro de inadimplentes teria cumprido com a formalidade legal ao enviar simples e-mail ao consumidor.
+Desse modo, o entendimento do Tribunal de origem encontra-se em desacordo com a jurisprudência do STJ.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso para determinar o retorno dos autos à origem, a fim de que a questão seja apreciada à luz da jurisprudência do STJ.
+Publique-se e intimem-se.
+EMENTA
