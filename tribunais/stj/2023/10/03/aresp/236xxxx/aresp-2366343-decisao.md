@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto por LIPPEL - SOLUÇÕES INTEGRADAS PARA BIOMASSA LTDA. contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CDA. MULTA. TAXA SELIC. ENCARGO LEGAL.
+1. Oportunizada a realização da prova pericial, não há falar em cerceamento de defesa.
+2. A CDA que instrumentaliza a execução fiscal possui todos os requisitos exigidos pelo art. 202 do CTN e § 5º do art. 2º da Lei 6.830/80.
+3. Em execução fiscal, é desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito, por se tratar de requisito não previsto no art. 6º da Lei nº 6.830/1980, bem como não se exige a juntada do processo administrativo.
+4. Não se revela confiscatória a multa fixada no percentual de 20% sobre o valor do débito.
+5. É legítima a incidência da taxa SELIC na atualização de débito tributário.
+6. A inclusão do encargo legal na certidão de dívida ativa decorre de imposição legal e está em consonância com o entendimento jurisprudencial desta Corte.
+Os embargos declaratórios opostos pela agravante foram rejeitados.
+Em suas razões, a empresa agravante aponta violação dos arts. 48, I, 150, I, 150, III, b, 151, I e 193, §3º da Constituição Federal; 39, §4º, da Lei n. 9.250/95; 61, §1º, 202 e 203 do Código Tributário Nacional; 13 da Lei n. 9.065/95; 2º, § 5º, da LEF e 1º, do Decreto-Lei n. 1.025/59.
+Alega, em síntese, a nulidade das CDAs ante o não preenchimento dos requisitos mínimos constantes do art. 202 do CTN.
+Defende a inconstitucionalidade do encargo legal, visto que não se enquadra no conceito de receita originária nem de tributo, além de não haver fundamento de validade constitucional, isto é, norma expressa que permita instituir sua cobrança.
+Sustenta a ilegalidade da utilização da taxa Selic para o cálculo dos juros moratórios, quando excede o percentual de 1% ao mês.
+Contrarrazões apresentadas às e-STJ fls. 1.222/1.224.
+A Corte a quo negou seguimento ao recurso especial no que diz respeito ao Tema 214 do STF e o inadmitiu no tocante à incidência das Súmulas 7 e 83 do STJ, fundamento com o qual não concorda a parte agravante.
+No tocante à aplicabilidade do Tema 214 do STF, a agravante interpôs agravo interno, ao qual foi negado provimento.
+Sem apresentação de contraminuta.
+Passo a decidir.
+O recurso especial origina-se de embargos opostos pela empresa agravante à execução fiscal em que alega a nulidade da execução.
+Em primeiro grau de jurisdição, o Juízo da 9ª Vara Federal de Florianópolis/SC julgou improcedentes os pedidos, nos termos do art. 487, I, do CPC.
+A agravante interpôs recurso de apelação, a que foi negado provimento pelo Tribunal Regional. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 1.084/1.085):
+Nulidade CDA
+A certidão de dívida ativa constitui-se em título executivo extrajudicial (arts. 585, VI, e 586, do CPC/73; correspondente aos art. 784, IX, e783, respectivamente, do CPC), apta a, por si só, ensejar a execução, pois decorre de lei a presunção de liquidez e certeza do débito que traduz. A inscrição cria o título, e a certidão de inscrição o documento para efeito de ajuizamento da cobrança judicial pelo rito especial da Lei nº 6.830/80.
+No caso, as CDAs preenchem os requisitos do art. 202 do CTN, repetidos no art. 2º, §5º, da LEF.
+Estão presentes nos títulos todos os elementos necessários que permitem identificar o devedor, o valor da dívida e respectivos juros, a origem e natureza do crédito, os preceitos legais que o fundamentam e a data da inscrição.
+Não há falar, também, em nulidade da CDA em face da ausência de demonstrativo de débito, porquanto não se aplica a esse título executivo o disposto no art. 798, I, "b", do CPC, não exigindo, a Lei nº 6.830/80, a juntada deste documento.
+Registre-se, ainda, o teor da Súmula nº 559 do e. STJ: "Em ações de execução fiscal, é desnecessária a instrução da petição inicial com o demonstrativo de cálculo do débito, por tratar-se de requisito não previsto no art. 6º da Lei nº 6.830/1980".
+Cumpre salientar, ainda, que o crédito exequendo foi constituído mediante declaração do próprio contribuinte, a qual, inclusive, dispensa o lançamento, nos termos da Súmula 436 do STJ: "A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco".
+Assim, não se verifica no caso qualquer nulidade a autorizar tanto a nulidade da CDA, como o cerceamento de defesa do executado, pois a execução fiscal, como já mencionado, embasou-se em declaração apresentada pelo próprio contribuinte.
+Multa de mora
+A aplicação da multa moratória encontra-se amparada no art. 161, caput, do CTN, estando sua incidência vinculada estritamente à circunstância objetiva da ausência de adimplemento de tributo à época própria.
+De se ver que o Fisco está cobrando multa moratória de 20%, com fundamento no artigo 61 da Lei nº 9.430/96, conforme consta da execução fiscal. Assim, estando a multa expressamente prevista em lei, não cabe ao julgador, por mero critério subjetivo, proceder à sua redução ou à sua exclusão, sendo esta tarefa pertinente ao legislativo.
+Por fim, destaque-se a ausência de caráter confiscatório relativamente ao patamar imposto. Com efeito, no julgamento do Incidente de Arguição de Inconstitucionalidade na AC nº 2000.04.01.063415-0/RS, esta Corte Especial, na esteira de precedentes do Supremo Tribunal Federal, sufragou o entendimento de que as multas até o limite de 100% do principal não ofendem o princípio da vedação ao confisco. No caso, a multa aplicada tem natureza sancionatória, sendo exercida em decorrência do não recolhimento na época oportuna do tributo a que estava sujeita a empresa, ou seja, tem a finalidade de penalizar o infrator, fazendo o papel de prevenção geral. Assim, pequenos valores de multa, equiparáveis aos juros de mercado, permitiriam fosse a multa incorporada ao gasto empresarial e a reiterada infração à lei. O julgamento recebeu a seguinte ementa, da lavra do Desembargador Néfi Cordeiro:  ..
+Juros e Taxa SELIC
+Em relação à taxa de juros de mora em matéria tributária, o art.161, § 1.º, do CTN, define que: "Se a lei não dispuser de modo diverso, os juros de mora são calculados à taxa de 1% (um por cento) ao mês", possibilitando afixação de juros de mora em patamar superior a 1% (um por cento) ao mês desde que haja previsão legal nesse sentido.
+Dessa forma, o fato de a taxa SELIC ser superior à correção monetária cumulada com a taxa de juros de 1% ao mês, não há óbice algum a sua aplicação, pois assim permite o CTN.
+A correção do débito pela taxa SELIC encontra esteio no artigo 84, I,da Lei 8.981/95, combinado com o artigo 13 da Lei 9.065/95, inexistindo qualquer ilegalidade em sua incidência.
+Por outro lado, o artigo 161, § 1º, do CTN, não refere ser necessária a existência de lei instituindo taxa de juros diversa, mas apenas que exista lei dispondo que outra será a taxa de juros. Assim, basta que a lei determine a incidência da taxa SELIC para que seja afastada a taxa de juros prevista no dispositivo em comento. Pouco importa, para este fim, de que maneira esta ou aquela taxa de juros foi instituída.
+Ademais, é pacífico o entendimento jurisprudencial do STJ no sentido de ser legítima a utilização da taxa SELIC como índice de correção monetária e de juros moratórios sobre dívidas tributárias (REsp 665320/PR, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 19/02/2008,DJe 03/03/2008).
+Assim, os débitos tributários não pagos são corrigidos monetariamente e acrescidos de juros de acordo com a variação da Taxa SELIC, conforme expressamente prevê o artigo art. 13 da Lei nº 9.065/95, não restando demonstrado que estejam incidindo de maneira diversa daquela prevista no dispositivo legal.
+Cumulação de juros e multa
+Com base nas Súmulas 45 e 209 do extinto Tribunal Federal de Recursos, a jurisprudência dos Tribunais Regionais Federais e do Superior Tribunal de Justiça pacificou-se no sentido de ser legítima a cobrança cumulativa de juros de mora, multa moratória e correção monetária.
+Encargo Legal do Decreto-lei nº 1025/69
+A constitucionalidade do encargo legal (Decreto-Lei nº 1.025, de1969) já foi reconhecida por este Tribunal (TRF4, ARGINC 2004.70.08.001295-0, Corte Especial, Relator Otávio Roberto Pamplona, D. E. 07/10/2009), sendo inclusive objeto da Súmula 168 do TFR (O encargo de 20%, do Decreto-Lei1.025, de 1969, é sempre devido nas execuções fiscais da União e substitui, nos embargos, a condenação do devedor em honorários advocatícios).
+O Superior Tribunal de Justiça, de igual forma, reconhece a "legalidade de aplicação do encargo legal de 20%, previsto no Decreto-Lei n.1.025/1969, em substituição à condenação em honorários advocatícios, nos embargos à execução" (AgInt no REsp 1759512/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/10/2019, DJe18/10/2019).
+Portanto, a inclusão do encargo legal na certidão de dívida ativa decorre de imposição legal e está em consonância com o entendimento jurisprudencial desta Corte e do Superior Tribunal de Justiça.
+Destarte, a sentença não merece reparos.
+4. Honorários recursais
+Não tendo havido condenação do embargante, considerando que já incluído o encargo do Decreto-lei nº 1.025/69, não há falar em majoração prevista no art. 85, §11, do CPC.
+5. Dispostivo
+Ante o exposto, voto por negar provimento ao apelo.
+Pois bem.
+O recurso não comporta acolhimento.
+Inicialmente, verifica-se que a decisão de admissibilidade do recurso especial inadmitiu o apelo no tocante a incidência da taxa Selic em razão da conformidade do acórdão recorrido com o Tema 214 do STF. Portanto, fica prejudicado o exame do recurso especial no tocante a esses tópicos.
+No pertinente aos arts. 48, I, 150, I, 150, III, b, 151, I e 193, § 3º, da Constituição da República, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF/1988).
+Dito isso, passo à análise da temática remanescente, alusiva à nulidade da CDA e ao encargo legal.
+Da leitura do acórdão supra, constata-se que a Corte de origem reconheceu a validade da CDA, por entender que se encontram presentes todos os elementos elencados no art. 2º, § 5º, da Lei 6.830/1980 e no art. 202 do CTN.
+Desse modo, a verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 489, § 1º, DO CPC. NÃO OCORRÊNCIA. NULIDADE DA CDA. AFERIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DO ÓBICE DA SÚMULA Nº 7 DO STJ. CORREÇÃO DOS JUROS. SIMPLES CÁLCULOS ARITMÉTICOS. DECOTE DA CDA. POSSIBILIDADE.
+1. Ausência de ofensa ao art. 489 do CPC, eis que o acórdão recorrido se manifestou de forma clara e fundamentada sobre a matéria posta em debate na medida necessária para o deslinde da controvérsia. A motivação contrária ao interesse da parte não se traduz em maltrato ao artigo 1.022 do CPC/2015.
+2. A jurisprudência desta Corte firmou o entendimento no sentido de que a aferição da presença dos requisitos essenciais à validade da CDA demanda reexame do conjunto fático-probatório, o que esbarra, inequivocamente, no óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". A propósito: AgRg no AREsp 337.432/MG, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 30/10/2013; AgRg no REsp 1387858/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 18/09/2013; AgRg no AREsp 341.862/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12/09/2013.
+3. O não conhecimento do recurso especial pela alínea "a" do permissivo constitucional em razão do óbice da Súmula nº 7 do STJ também se aplica em relação à alegada divergência interpretativa no ponto não conhecido.
+4. É cediço nesta Corte que eventual exclusão de parcela do débito por simples cálculos aritméticos não invalida todo o crédito inscrito na CDA (REsp n. 1.115.501/SP, na sistemática do art. 543-C do CPC), permanecendo parcialmente exigível a parcela não eivada de vício, não havendo sequer necessidade de emenda ou substituição da CDA. Em casos que tais, esta Corte tem autorizado o chamado "decote" na CDA, sobretudo em casos que demandam meros cálculos aritméticos.
+Nesse sentido: AgInt no AREsp 1331901/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/11/2019, DJe 29/11/2019; AgInt no REsp 1642196/AC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 25/09/2018, DJe 17/12/2018.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.234.468/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1/6/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL COM FUNDAMENTO NO ART. 543-C, § 7º, I, DO CPC/1973. NOVA ANÁLISE DA QUESTÃO. IMPOSSIBILIDADE. COMPETÊNCIA EXCLUSIVA, E EM CARÁTER DEFINITIVO, DA CORTE A QUO PARA A REALIZAÇÃO DO JUÍZO DE ADEQUAÇÃO. NULIDADE DAS CDA"S. INADMISSÃO DO ESPECIAL BASEADO NO ENUNCIADO DA SÚMULA 7/STJ. IMPUGNAÇÃO GÉNERICA. APLICAÇÃO DOS ARTS. 253, I, DO RISTJ E 932, III, DO CPC/2015, E DA SÚMULA 182 DO STJ. AFERIÇÃO DOS REQUISITOS DE VALIDADE DAS CDA"S. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Não cabe ao STJ proceder a novo exame da controvérsia quando a Corte a quo nega seguimento ao recurso especial com fundamento art. 543-C, § 7º, I, do CPC/1973. Isso porque incumbe exclusivamente à instância ordinária realizar, em caráter definitivo, o juízo de adequação do caso ao entendimento firmado sob o rito dos repetitivos. Precedentes.
+2. No que toca à Súmula 7/STJ, registre-se que a parte agravante não logrou rebater adequadamente o fundamento da decisão agravada, limitando-se a sustentar, de forma genérica, que, para a análise da controvérsia, não seria necessário o reexame fático-probatório dos autos. Assim, não houve observância à regra da dialeticidade recursal, o que atrai a incidência dos arts. 253, I, do RISTJ e 932, III, do CPC/2015 e da Súmula 182 do STJ, aplicável por analogia.
+3. Ademais, a revisão da conclusão a que chegou o Tribunal a quo sobre a presença dos requisitos legais de validade das CDAs pressupõe, in casu, reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do Recurso Especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno do contribuinte a que se nega provimento.
+(AgInt no AREsp n. 1.285.160/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Relativamente ao encargo legal de 20%, previsto no Decreto-Lei n. 1.025/1969, a Primeira Seção do STJ, no julgamento do REsp 1.143.320/RS, DJe 21/5/2010, sob o rito do art. 543-C do CPC/1973, reiterou o entendimento fixado na Súmula 168 do extinto TFR que dispõe que o encargo de 20%, do Decreto-Lei n. 1.025, de 1969, é sempre devido nas execuções fiscais da União e substitui, nos embargos, a condenação do devedor em honorários advocatícios.
+Nesse contexto, a conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ, o que inviabiliza o conhecimento do recurso pelas alíneas "a" e "c" do permissivo.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem fixação de honorários recursais, ante a ausência de condenação ao pagamento de verba honorária nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
