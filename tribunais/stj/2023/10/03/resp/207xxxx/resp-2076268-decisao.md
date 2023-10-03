@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCIA LOPES DE SOUZA com respaldo na alínea "a" do permissivo constitucional contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 276):
+AÇÃO ACIDENTÁRIA CONDIÇÕES AGRESSIVAS - LESÕES NOS MEMBROS SUPERIORES - SENTENÇA DE PROCEDÊNCIA - APELAÇÃO DA AUTORA E REEXAME NECESSÁRIO - LAUDO PERICIAL CONCLUSIVO - CONSTATAÇÃO DA REDUÇÃO TOTAL E PERMANENTE DA CAPACIDADE LABORATIVA E NEXO CAUSAL COMPROVADOS - APOSENTADORIA POR INVALIDEZ DEVIDA, EXCEPCIONALMENTE, A PARTIR DA JUNTADA DO LAUDO PERICIAL AOS AUTOS - SENTENÇA REFORMADA NO QUE TANGE AO TERMO INICIAL DO BENEFÍCIO - ADEQUAÇÃO DO JULGADO COM RELAÇÃO À FIXAÇÃO DOS JUROS E CORREÇÃO MONETÁRIA - SENTENÇA PARCIALMENTE REFORMADA. Recurso desprovido. Sentença parcialmente reformada em sede de reexame necessário, mantido o decreto de procedência do pedido inicial.
+Em suas razões, a parte recorrente aponta violação dos arts. 23, 44 e 86, § 2º, da Lei n. 8.213/1991 e 219, caput, do CPC/2015, pleiteando, em suma, a fixação do termo inicial da aposentadoria a partir da cessação do auxílio-acidente (28/02/2015), e não do laudo pericial.
+Sem contrarrazões.
+Em juízo de retratação, o acórdão foi mantido, nos seguintes termos (e-STJ fl. 303):
+AÇÃO ACIDENTÁRIA REEXAME EM RECURSO REPETITIVO TERMO INICIAL DA APOSENTADORIA POR INVALIDEZ CONSIDERADA NA DATA DA CITAÇÃO - TEMA 626 DO STJ - IMPERTINÊNCIA - HIPÓTESE DOS AUTOS QUE NÃO SE ADEQUA AO PARADIGMA SUBMETIDO AO REGIME DE JULGAMENTO DOS RECURSOS REPETITIVOS. Acórdão mantido.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 309/310.
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar, em parte .
+É cediço que "o termo inicial da aposentadoria por invalidez corresponde ao dia seguinte à cessação do benefício anteriormente concedido ou do prévio requerimento administrativo; subsidiariamente, quando ausente as condições anteriores, o marco inicial para pagamento será a data da citação" (AgInt no REsp 1.381.631/RS, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 16/05/2017, DJe 23/05/2017).
+Ocorre que, segundo colhe-se dos autos, o Tribunal de origem fixou o termo inicial do benefício a partir da perícia médica, como atesta o trecho do acórdão recorrido (e-STJ fl. 279):
+Deste modo, verificada a incapacidade total e permanente e o nexo causal entre os males diagnosticados e o labor, é de rigor a concessão do benefício de aposentadoria por invalidez acidentária à parte autora, no valor correspondente a 100% do salário-de-benefício, além do respectivo abono anual, contudo, excepcionalmente, a partir da data da juntada do laudo pericial aos autos, ou seja, 13 de junho de 2021, porque, embora a segurada tenha recebido auxílios-doença e recebe auxílio-acidente em razão das moléstias em tela, somente nesta oportunidade é que a autarquia teve ciência da incapacidade total e permanente para o trabalho que acomete a segurada.
+No entanto, ao fixar o termo inicial do benefício a partir da data da juntada do laudo pericial em juízo, o acórdão recorrido divergiu da orientação desta Corte Superior, segundo a qual "o laudo pericial apenas norteia o livre convencimento do Juiz e serve tão somente para constatar alguma incapacidade ou mal surgidos anteriormente à propositura da ação, portanto, não serve como parâmetro para fixar termo inicial de aquisição de direitos" (REsp 1.559.324/SP, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 13/12/2018, DJe 04/02/2019).
+Nesse sentido:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA.
+ART. 543-C DO CPC. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. ART. 219, CAPUT, DO CPC. CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA.
+1. Com a finalidade para a qual é destinado o recurso especial submetido a julgamento pelo rito do artigo 543-C do CPC, define-se:
+A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação administrativa.
+2. Recurso especial do INSS não provido.(REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 07/03/2014).
+No entanto, a pretensão de fixação da DIB da aposentadoria por invalidez a partir da cessão do benefício anterior não é possível, visto que, como salientou o Tribunal de origem, com base no acervo fático-probatório da lide, somente a partir do laudo técnico é que restou comprovada a incapacidade total e permanente para o labor, ensejadora do benefício.
+No caso concreto, diante da impossibilidade de fixação do benefício a partir do laudo pericial ou da cessação do benefício anterior, a parte autora faz jus ao benefício previdenciário a contar da citação.
+Ante o exposto, com base no art. 255, § 4º, II e III, do RISTJ, DOU PARCIAL PROVIMEN TO ao recurso especial para reconhecer o termo inicial do benefício desde a citação.
+Publique-se. Intimem-se.
+EMENTA
