@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DO AMAZONAS contra decisão de minha lavra, proferida às e-STJ fls. 784/788, em que conheci do agravo para dar provimento ao recurso especial em virtude da existência de omissão no acórdão recorrido.
+Rejeitados os aclaratórios (e-STJ fls. 821/822).
+Aduz a parte agravante a necessidade de acolhimento mais amplo do apelo, uma vez que o aresto hostilizado seria " ..  contraditório porque, após reconhecer que a ação rescisória foi extinta sem resolução do mérito, por força do reconhecimento da ilegitimidade ativa do Estado do Amazonas, afirmou que a questão pertinente à nulidade do título executivo foi julgada na mencionada ação rescisória" (e-STJ fl. 833).
+Pontua, ainda, a necessidade de o apelo nobre ser provido também em relação à suposta violação ao art. 10 do CPC/21015, arrazoando que, " ..  se tal conduta não for reconhecida como ilegal neste recurso especial, certamente não o fará antes do novo julgamento, inviabilizando que o Estado do Amazonas se manifeste sobre a matéria" (e-STJ fl. 837).
+Requer, assim, a reconsideração ou a reforma da decisão atacada para que seja provido em maior extensão o recurso especial.
+Passo a decidir.
+Com a razão, em parte, o agravante, uma vez que necessário o provimento do apelo nobre em maior extensão em relação aos argumentos de negativa de prestação jurisdicional, de modo reconsidero a decisão anteriormente proferida, apenas quanto ao ponto, e passo à análise de tal matéria.
+Nesse aspecto, imprescindível o saneamento da contradição apontada pelo ente federativo nos seguintes termos: "o acórdão embargado é contraditório, porquanto, após reconhecer que a ação rescisória foi extinta sem resolução do mérito, por força do reconhecimento da ilegitimidade ativa do Estado do Amazonas, afirma que a questão pertinente à nulidade do título executivo foi julgada na mencionada ação rescisória" (e-STJ fl. 713).
+Na hipótese dos autos, apontada a incongruência interna nas razões de decidir postas pelo acórdão hostilizado, a sua permanência, após o manejo da medida integrativa, viola o disposto no art. 1.022, I, do CPC/2015. A propósito: AgInt no REsp n. 1.963.181/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/3/2023, DJe de 30/6/2023; AgInt no REsp n. 1.963.351/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/02/2022, DJe de 23/0 2/2022.
+Ante o exposto, RECONSIDERO EM PARTE a decisão de e-STJ fls. 784/788 e, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, em maior extensão, a fim de que seja também sanada a contradição acima delineada.
+Publique-se. Intimem-se.
+EMENTA
