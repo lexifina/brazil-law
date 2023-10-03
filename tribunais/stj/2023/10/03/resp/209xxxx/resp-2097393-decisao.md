@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONTROLLER PEDERNEIRAS EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. (CONTROLLER), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, da relatoria do Desembargador EDSON LUIZ DE QUEIROZ, assim ementado:
+Apelação cível. Compra e venda de imóvel. Ação de rescisão contratual cumulada com devolução dos valores pagos. Desinteresse do comprador na continuidade do negócio jurídico firmado entre as partes. Sentença de procedência parcial. Legitimidade passiva. Reconhecimento. Ré participante originária do contrato de compra e venda firmado entre as partes, na qualidade de promitente vendedora. Denunciação da lide. Descabimento. Relação de consumo configurada. Aplicação do artigo 88, do Código de Defesa do Consumidor. Apuração de eventual responsabilidade de outra empresa deve ser objeto de ação própria. Mérito. Contrato imobiliário com cláusula de alienação fiduciária. Não incidência do Tema 1095 do STJ. Desvirtuamento da cláusula de alienação fiduciária. Confusão entre credor fiduciário e vendedor. Inaplicabilidade da Lei nº 9.514/97. Incidência do Código de Defesa do Consumidor. Nova Lei do Distrato. Contrato firmado em 08/03/2016. Disposições da Lei nº 13.786/18 que alterou a Lei nº 4.591/64, em vigor desde 27/12/2018, apenas serão aplicadas aos contratos celebrados após a sua entrada em vigor. Incidência dos princípios da irretroatividade e da segurança jurídica (artigo 6º e §1º da Lei de Introdução às Normas do Direito Brasileiro). Adoção do princípio "tempus regit actum". Desistência contratual por conveniência da compradora. Possibilidade. Devolução das parcelas pagas. Princípios da equidade e da boa-fé que regem as relações de consumo, bem como o do equilíbrio contratual. Aplicação dos artigos51 e 53 do Código de Defesa do Consumidor. Sentença mantida, com determinação de restituição aos autores, em parcela única, de 80% dos valores pagos com retenção de 20%. Correção monetária. Incidência a partir de cada desembolso. Honorários recursais. Aplicação do disposto no artigo 85,§11 do CPC. Majoração da verba honorária devida pela ré para 20% do valor da condenação. Resultado. Preliminares rejeitadas. Recurso não provido. (e-STJ, fl. 274).
+Nas razões do presente recurso, CONTROLLER alegou a violação aos arts. 26 e 27 da Lei nº 9.514/97, ao sustentar que o interesse de rescindir o contrato equivale à mora, logo, a rescisão do contrato só é possível com a consolidação da propriedade em nome da credora fiduciária, sendo que a adquirente somente terá o direito de receber o valor que sobejar a venda do imóvel através do público leilão. Não fosse assim, a garantia instituída sobre os contratos perderia a eficácia que lhe é conferida pela lei, não sendo aplicável ao caso o CDC. Indica dissídio em relação ao tema.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Da rescisão contratual
+Assim se posicionaram os julgadores em relação ao tema:
+A princípio, se o contrato com cláusula de alienação fiduciária foi registrado, como é o caso dos autos (fls. 76), aplica-se a legislação específica (Lei n. 9514/97).
+Entretanto, no presente caso, há alegação de desvirtuamento da alienação fiduciária, porque o vendedor e o credor fiduciário são a mesma pessoa (fls. 32 e 50).
+Nessas condições, está devidamente caracterizado o desvirtuamento da alienação fiduciária, visando evitar a desistência contratual.
+ ..
+Assim, não há que se falar em aplicação da Lei nº 9.514/97e sim do Código de Defesa do Consumidor. (e-STJ, fls. 276/277).
+Assim, da análise das razões do presente recurso verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia, cabível ao recurso com base em ambas as alíneas do permissivo constitucional.
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de ESPÓLIO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. COMPRA E VENDA. IMÓVEL. RESCISÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS MENCIONADOS NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
