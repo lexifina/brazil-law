@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 729/732).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 498):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. REVISIONAL BANCÁRIA. PRESCRIÇÃO TRIENAL. DESCABIMENTO. PRAZO PRESCRICIONAL APLICÁVEL É O DECENAL. ABUSIVIDADE CONFIGURADA. FIXAÇÃO DE TAXA DE JUROS CONFORME TAXA MÉDIA DE MERCADO. SENTENÇA MANTIDA.
+Consoante entendimento firmado pelo superior tribunal de justiça no julgamento do Resp n.º 1061530/RS, realizado sob a sistemática dos recursos repetitivos, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade, capaz de colocar o consumidor em desvantagem exagerada, fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto, caso dos autos.
+APELAÇÃO DESPROVIDA.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (e-STJ fls. 508/533), fundamentado no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, VI, e 927, III, do CPC/2015, sob o argumento de que "a decisão recorrida deixou de conferir expressa observância a precedente e jurisprudência pacífica do STJ, invocados pela Portocred mediante reprodução das ementas de julgamento do Resp n. 1.061.530 (julgado sob o rito do art. 543-C do CPC/73) e do AgInt no AREsp 1493171/RS" (e-STJ fl. 555), e
+(ii) art. 51, IV, e § 1º, do CDC, ante a falta de comprovação, mediante análise individualizada das peculiaridades do caso concreto, de abuso da taxa de juros remuneratórios pactuada.
+No agravo (e-STJ fls. 741/759), em sede preliminar, a parte pugna pela suspensão da presente ação, "considerando que  ..  teve decretada a sua liquidação extrajudicial, através do Ato do Presidente do Banco Central nº 1.360 de 15/02/2023" (e-STJ fl. 743).
+Alternativamente, requer a concessão dos benefícios da justiça gratuita.
+No mérito, afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 764/765 (e-STJ).
+É o relatório.
+Decido.
+Da suspensão do processo
+O entendimento desta Corte é de que a norma inscrita no art. 18 da Lei n. 6.024/1974 "não alcança as ações de conhecimento voltadas à obtenção de provimento relativo à certeza e liquidez do crédito" (AgInt no REsp n. 1.985.667/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022).
+No mesmo sentido: AgInt no REsp n. 1.969.577/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; AgInt no REsp n. 1.783.833/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/10/2020, DJe de 27/10/2020.
+A ação revisional de contrato demanda quantia ilíquida, razão pela qual não se justifica a suspensão do processo.
+Da justiça gratuita
+O pleito de gratuidade da justiça nesta fase recursal em nada aproveitaria à parte, tendo em vista que tanto o agravo em recurso especial quanto o agravo interno independem de recolhimento de custas.
+Além disso, embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição econômico-financeira, segundo o entendimento jurisprudencial do Superior Tribunal de Justiça, a concessão do benefício somente produzirá efeitos ex nunc, não sendo admitida, portanto, sua retroatividade.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.064.541/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023; e AgInt no AREsp n. 2.182.992/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/6/2023, DJe de 29/6/2023.
+Da ofensa ao art. 489, § 1º, VI, do CPC/2015
+Não há falar em afronta ao art. 489, § 1º, do CPC/2015, por vício de fundamentação no acórdão recorrido, quando a parte agravante nem sequer opôs embargos de declaração àquela decisão para fins de sanar os vícios apontados em sede de recurso especial.
+Da violação do art. 927, III, do CPC/2015
+A tese de inobservância da jurisprudência qualificada desta Corte Superior, bem como a alegação de violação do art. 927, III, do CPC/2015, não foram objeto de pronunciamento por parte do Tribunal de origem, circunstância que, cumulada com a ausência de oposição de aclaratórios, impede o conhecimento da insurgência por falta de prequestionamento. Incidem as Súmulas n. 282 e 356 do STF.
+Da afronta ao art. 51, IV, e § 1º, do CDC e do dissídio jurisprudencial respectivo
+Na origem, foi ajuizada ação de revisão de contratos de empréstimo consignado em folha de pagamento, com pedido de devolução de valores, por abuso nos encargos (e-STJ fls. 3/14).
+A demanda foi julgada procedente, fixando-se os juros remuneratórios na taxa média de mercado prevista pelo BACEN, observada a Série n. 25468 (Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado para aposentados e pensionistas do INSS) (e-STJ fls. 394/396).
+No julgamento do recurso de apelação, o Tribunal de origem manteve a sentença, por entender que houve excesso na fixação da taxa dos juros remuneratórios, nos seguintes termos (e-STJ fl. 497):
+ ..  conforme demonstrado em sentença, os juros praticados são significativamente superiores à média de mercado, a caracterizar a alegada abusividade, senão vejamos:
+ContratoTaxa de juros pactuadaTaxa média de juros nº 38075039984,31% a.m.1,81% a.m.nº 38095217634,31% a.m.1,69% a.m.nº 38043303185,30% a.m.1,93% a.m.nº 38050048175,30% a.m.1,89% a.m.nº 38055153974,31% a.m.1,88% a.m.
+Assim, as instâncias de origem, ao analisarem o abuso da taxa de juros remuneratórios, consideraram as peculiaridades do caso, especialmente os caracteres distintivos da modalidade da operação de crédito contratada e o nível de risco envolvido no referido mútuo.
+Isso porque se trata de mútuo bancário na modalidade de consignação em pagamento, o que reduz significativamente o risco de inadimplência, conforme esclarecido na exposição de motivos da medida provisória que dispõe sobre a autorização para desconto de prestações em folha de pagamento:
+ ..  um dos principais componentes do elevado custo dos empréstimos e financiamentos disponíveis aos cidadãos está relacionado ao risco potencial de inadimplência por parte dos tomadores. Tais riscos são estimados pelas instituições financeiras com base em modelos estatísticos próprios, e repassados às taxas de juros exigidas nas diversas formas de crédito oferecidas à clientela.
+ ..  a possibilidade de consignação das prestações em folha de pagamento, em caráter irrevogável e irretratável, por parte do empregado, virtualmente elimina o risco de inadimplência nessas operações, permitindo a substancial redução deste componente na composição das taxas de juros cobradas (EM Interministerial n. 176, de 16/9/2003 - grifei).
+Por sua vez, a Segunda Seção do STJ, ao julgar o Recurso Especial n. 1.877.113/SP, esclareceu que "o empréstimo consignado apresenta-se como uma das modalidades de empréstimo com menores riscos de inadimplência para a instituição financeira mutuante, na medida em que o desconto das parcelas do mútuo dá-se diretamente na folha de pagamento do trabalhador regido pela CLT, do servidor público ou do segurado do RGPS (Regime Geral de Previdência Social), sem nenhuma ingerência por parte do mutuário/correntista, o que, por outro lado, em razão justamente da robustez dessa garantia, reverte em taxas de juros significativamente menores em seu favor, se comparado com outros empréstimos" (relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 9/3/2022, DJe de 15/3/2022 - grifei).
+Sob esse aspecto, no caso dos autos, apesar dos baixos riscos envolvidos nas operações contratadas pela parte agravada, foram pactuadas taxa de juros de 4,31%, 4,31%, 5,30%, 5,30% e 4,31% ao mês, enquanto as taxas médias mensais divulgadas pelo BACEN para operações da mesma espécie, nos períodos das contratações, eram, respectivamente, de 1,81%, 1,69%, 1,93%, 1,89% e 1,88% a.m.
+Nesse contexto, o Tribunal de origem decidiu em conformidade com a jurisprudência firmada no julgamento de recurso especial repetitivo, segundo a qual, "é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento), observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
