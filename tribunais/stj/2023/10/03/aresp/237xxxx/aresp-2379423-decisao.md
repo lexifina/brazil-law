@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7/STJ e ausência de ofensa aos artigos de lei apontados.
+O acórdão recorrido está assim ementado (e-STJ fl. 499):
+APELAÇÃO CIVEL - INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS -MOTORISTA DE APLICATIVO - 99 - DESCREDENCIAMENTO - ALEGAÇÃO DE FRAUDE NO CADASTRO - INSUBSISTÊNCIA - APARENTE ERRO DO SISTEMA - AUTOR QUE SE DESINCUMBIU DO ONUS DA PROVA - OITIVA DE TESTEMUNHAS - FATO NEGATIVO NÃO DEMONSTRADO PELA RÉ - LUCROS CESSANTES DEVIDOS - DANO MORAL CONFIGURADO - RECURSO PROVIDO PARCIALMENTE.
+Os embargos de declaração de Odai Alves dos Santos foram parcialmente acolhidos, em julgado assim ementado (e-STJ fl. 521):
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CIVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS E LUCROS CESSANTES - PLEITO DE RECADASTRAMENTO DO MOTORISTANO APLICATIVO - OMISSÃO - EXISTENCIA - PAGAMENTO DE PARCELAS VINCENDAS - IMPOSSIBILIDADE - LUCROS CESSANTES COMPROVADOS - RECURSO PROVIDO PARCIALMENTE.
+Os declaratórios de 99 Tecnologia Ltda foram rejeitados (e-STJ fls. 527/529).
+Nas razões do recurso especial (e-STJ fls. 531/550), interposto com base no art. 105, III, "a" e "c", da CF, a parte recorrente apontou violação dos seguintes dispositivos, além de dissídio jurisprudencial:
+(i) arts. 489, II, do CPC/2015, alegando que "não foi aplicado ao presente caso. Dispõe o referido dispositivo legal que os fundamentos, oportunidade em que o juiz analisa as questões de fato e de direito, são elementos da sentença. Como visto, no presente caso, mesmo após o prequestionamento da Recorrente em sede de Embargos de Declaração, o Douto Juízo deixou de expor os fundamentos fáticos e jurídicos que amparam a condenação por lucros cessantes, limitando-se a fazer remissão aos fundamentos do v. Acórdão fustigado e a dizer que os pontos questionados no recurso foram analisados à "exaustão", o que não correspondente à realidade processual" (e-STJ fl. 537),
+(ii) arts. 402 e 403 do CC/2002, por entender que, "ao reformar a decisão de r. sentença de primeira instância, a Colenda Câmara Cível não fundamentou concretamente se o prejuízo alegado decorreu diretamente do evento danoso, ou seja, se a não percepção dos valores de corridas, calculados como média mensal pelo Recorrido, decorreu diretamente do bloqueio de acesso à plataforma da Ré" (e-STJ fl. 537).
+Em suma, são estes os pedidos recursais (e-STJ fls. 549/550):
+(I) CONHECER DO PRESENTE RECURSO ESPECIAL, pelas alíneas "a" e "c", do inciso III, do art. 105 da Constituição Federal, reconhecendo a presença e demonstração dos requisitos legais de cabimento;
+(II) seja apreciado o respectivo mérito, sendo, ao final, DADO PROVIMENTO AO INCONFORMISMO DESTA RECORRENTE, com o fim de reconhecera violação à Lei Federal, apontada na forma das razões acima, e reformar o venerando acórdão proferido pelo Egrégio Tribunal de Justiça do Estado de Sergipe, de forma a afastar a condenação da Recorrente ao pagamento de indenização por lucros cessantes, porquanto a condenação, como dito, afronta o artigo 489, inciso II do Código de Processo Civil e artigos 402 e 403 do Código Civil, além de afrontar também as jurisprudências do próprio TJSE, manifestado pela 1a Câmara Cível, e do TJSP.
+Foram oferecidas contrarrazões (e-STJ fls. 566/571).
+No agravo (e-STJ fls. 584/596), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 615/635).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 489 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+O TJSE, ao analisar as provas e as particularidades do caso, deu parcial provimento à apelação, condenando a empresa recorrente ao pagamento de danos morais e materiais, sob a seguinte motivação (e-STJ fls. 500/502):
+Ora, inicialmente devemos registrar que a liberdade contratual, embora seja um ato discricionário dos envolvidos na relação jurídica, tem seus limites claros estabelecidos pelo Código Civil e pela própria Constituição Federal, consoante o que dispõe o art. 421 e 422 do CC:
+(..)
+Sendo assim, a 99 embora com fundamento nos Termos de Uso do Aplicativo possa descredenciar algum motorista, que descumpra tais regra, não é absoluta sua vontade, devendo sim demonstrar os motivos que geraram a exclusão do recorrente.
+Observamos que a reclamada às fls.115 e 469, traz um do sistema interno, com o cadastro do motorista Yuri Ferreira de Oliveira, print APROVADO, fotos deste, bem como, o Certificado do Registro do Veículo e, totalmente desconexa ou fora de contexto, a foto do apelante, com a mensagem "NÃO APROVADO".
+Assim, percebe-se claramente a ausência de fraude cometida pelo Recorrente, pois, inclusive, no depoimento do Sr. Yuri, em audiência, ambos se desconheciam, além de que o autor há dois anos exercia a função de motorista de aplicativo, com boas avaliações.
+Portanto, a falha no sistema interno da empresa se apresenta como razão mais provável da existência da foto do demandante no cadastro do terceiro estranho.
+Acrescentamos que se fosse constatada efetivamente qualquer fraude, poder-se-ia averiguar a culpa do Sr. Yuri, e não do Sr. Odai, haja vista a antecedência do cadastro deste.
+Caberia, desta forma, à 99, nos termos do art.373, II do CPC, comprovar fraude no seu sistema pelo apelante.
+Destacamos que as representantes da Ré nada declararam em seus depoimentos, nem mesmo esclareceram os procedimentos específicos para a realização do cadastro de cada motorista, se através de senha pessoal, entre outros.
+Como já exposto, a liberdade contratual não é passagem para todo e qualquer tipo de decisão unilateral e arbitrária, sem obedecer aos ditames legais da boa-fé e função social do contrato, além do princípio constitucional da ampla defesa, previsto no art.5º, LV da CF - "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes".
+(..)
+Portanto, se realmente houvessem provas acerca de atitudes ilícitas ou comportamento inapropriado do autor, prevaleceria a rescisão unilateral do contrato pela 99, o que não é o caso dos autos.
+Desta forma, demonstra-se o nexo causal entre a conduta da recorrida e o dano causado ao motorista, seja ele moral ou material.
+(.._
+No tocante à quantificação da indenização, é necessário analisar alguns aspectos para se chegar a um valor justo para o caso concreto, atentando-se à extensão do dano, ao comportamento dos envolvidos, às condições econômicas e sociais das partes e à repercussão do fato, valendo-se o Julgador de sua experiência e do bom senso necessário às peculiaridades de cada caso.
+É sabido que o quantum indenizatório não é fixado a bel prazer do magistrado. Deve este trazer consigo critérios de razoabilidade e proporcionalidade, ao vislumbrar a situação deflagrada no caso concreto, critérios estes, que por sua vez se correlacionam com a busca incessante da verdadeira justiça.
+Nesta senda, fixamos o dano moral em R$ 4.000,00 (quatro mil reais), e os lucros cessantes em R$ 24.842,28, consoante valores médios recebidos pelo apelante.
+Ante o exposto, voto pelo conhecimento do recurso, para lhe dar parcial provimento, condenando a 99 ao pagamento de R$ 4.000,00 a título de dano moral, corrigidos pelo INPC a partir deste arbitramento, com juros de mora de 1% ao mês a partir da citação, e dano material no valor de R$ 24.842,28, corrigidos a partir de 10/01/2020 (exclusão do aplicativo), e juros a partir da citação. Inverto o ônus de sucumbência, cm 12% sobre a condenação.
+E ainda (e-STJ fl. 523):
+Realmente, observamos que no decorrer do voto, destaca-se a inexistência de fraude, e um aparente erro do sistema da embargada, pois não se comprovou qualquer atitude ilícita ou inapropriada do autor. Assim, deve a 99 promover o recadastramento do motorista em seu aplicativo.
+Já com relação ao pagamento das parcelas vincendas, a partir de 10/01/2020, tal pleito não se mostra razoável, pois as viagens são variáveis, e os valores comprovados nos autos já foram concedidos a título de lucros cessantes, não se mostrando legal a determinação de pagamento de quantia incerta ou ilíquida.
+Destacamos que a vestibular em seus pedidos apenas constam o dano moral, e os lucros cessantes, comprovados no valor de RS 24.842,28.
+Frente às razões supra, conheço do recurso, para lhe dar parcial provimento, apenas para determinar o recadastramento do embargante no aplicativo.
+A Corte local consignou que, se realmente houvesse provas de atitudes ilícitas ou comportamento inapropriado do recorrido, prevaleceria a rescisão unilateral do contrato pela 99, o que não é o caso dos autos. Além disso, o Tribunal concluiu que houve comprovação dos lucros cessantes. A alteração do decidido pelo Colegiado implicaria inadequada reavaliação fático-probatória, atraindo a Súmula n. 7/STJ.
+A necessidade de reexame fático-probatório dos autos impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários ad vocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
