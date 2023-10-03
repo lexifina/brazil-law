@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Reclamação com pedido de Tutela de Urgência, amparada no art. 988, II e IV, do CPC c/c art. 105, I, "f" da Constituição da República, proposta por José Alves Santiago em face de decisão Juízo da Vara da Fazenda Pública de Alexânia - GO.
+A decisão reclamada faz menção a diversos normativos e decisões que embasam a declaração de incompetência, entre eles a Lei 13.876/2019, a Resolução CJF 603/2019 e uma decisão liminar no IAC 6 do STJ.
+O juiz cita um ofício circular expedido pelo Corregedor-Geral da Justiça e uma Portaria do Tribunal Regional Federal da 1ª Região, que listam as comarcas com competência federal delegada. A Comarca de Alexânia não está incluída nessa lista.
+Por fim, o juiz, com base nos argumentos apresentados, declinou da competência para processar a ação e determinou a remessa do feito à Justiça Federal.
+O reclamante afirma que o juízo singular não observou o IAC 6/ STJ, que estabeleceu a competência da Justiça Estadual para as causas ajuizadas antes de 1º.1.2020. A ação foi ajuizada em 12/2019 - portanto, sua causa deveria permanecer na Justiça Estadual. Sustenta, ainda, não ser necessário o esgotamento das vias ordinárias para a preservação da competência do Tribunal ou para a observância de IAC, conforme prevê o art. 988, § 5º, CPC.
+Ao final, o reclamante requer a suspensão do ato impugnado em virtude de periculum in mora, uma vez que é idoso (64 anos) e está há três anos a espera da verba alimentar para subsistência.
+É o relatório.
+Decido.
+Os autos foram recebidos no Gabinete em 21.09.2023.
+Nos termos do art. 105, I, "f", da Constituição Federal, c/c o art. 988 do CPC/2015, e do art. 187 do RI/STJ, cabe Reclamação da parte interessada para preservar a competência do Superior Tribunal de Justiça e garantir a autoridade de suas decisões, bem como para "assegurar a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de Incidente de Assunção de Competência".
+Caso não haja uma ordem afirmativa do Tribunal que necessite de garantia de eficácia através da ação correcional da Reclamação, essa medida deverá ser considerada infundada. Nesse sentido: Rcl 45.795, Rel. Ministro Marco Buzzi, DJe 20.6.2023; e Rcl 45.597, Rel. Ministra Assusete Magalhães, DJe 23.5.2023. Pode-se concluir que a presente demanda se enquadra nessa hipótese.
+Não há ofensa à decisão do Superior Tribunal de Justiça no IAC 6 quando o Juízo singular profere decisão juridicamente fundamentada conforme o seu entendimento - inclusive, com informações prestadas por meio de ofício circular expedido pelo Corregedor-Geral da Justiça e de Portaria do Tribunal Regional Federal da 1ª Região, que listam as comarcas com competência federal delegada, entre as quais não se inclui a Comarca de Alexânia - GO
+O inconformismo da parte deve ser tratado na via recursal própria, uma vez que a Reclamação não pode ser utilizada com sucedâneo recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO QUE INDEFERIU O PEDIDO LIMINAR NA RECLAMAÇÃO.
+1. A decisão do Tribunal de segundo grau que, em sede de agravo de instrumento, reforma a decisão do juízo singular que suscitou conflito de competência não usurpa competência do Superior Tribunal de Justiça. Isso porque o agravo de instrumento é o recurso adequado para se pleitear a reforma da decisão, sendo que o julgamento do recurso no âmbito do Tribunal enseja efeito substitutivo em relação à decisão proferida pelo juízo singular.
+2. Como bem observado pelo Ministério Público Federal, a competência do Superior Tribunal de Justiça para processar e julgar conflito de competência "não exclui a deflagração de mecanismo endoprocessual de revisão da decisão do Juízo singular que suscitou o conflito. Trata-se de ato revestido de conteúdo decisório, sendo passível de reexame via agravo de instrumento. Esse recurso é apto a alterar o entendimento referente à incompetência afirmada em primeiro grau, dele resultando decisão que substituirá integralmente o ato judicial da instância inferior. Subsistindo a recorribilidade do ato, descabe cogitar-se de subtração de competência do STJ".
+3. Além disso, não é possível que a reforma do acórdão proferido em sede de agravo de instrumento ocorra nos autos da presente reclamação. Isso porque, na hipótese, há previsão de recurso próprio, não sendo admissível a utilização da reclamação como sucedâneo recursal. Ressalte-se que "há nesta Corte o entendimento de que a reclamação constitucional não se presta a substituir o recurso especial. Nesse sentido: AgInt na Rcl n. 36.151/PE, Rel. Ministro Herman Benjamin, Primeira Seção, julgado em 12/6/2019, DJe 1º/7/2019" (AgInt na Rcl 38.236/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 23/10/2019, DJe 28/10/2019).
+4. Agravo interno não provido.
+(AgInt na Rcl 42.791/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe de 5/4/2022.)
+Na mesma linha, entre muitos outros julgados: Rcl 44.885, Rel. Ministro Paulo Sérgio Domingues, DJe de 13.6.2023; EDcl na Rcl 39.456, Rel. Ministra Assusete Magalhães, DJe de 1º.6.2020.
+Ante o exposto, com arrimo no art. 34, XXII, do RI/STJ, não conheço da presente Reclamação e julgo prejudicada a análise da liminar.
+Publique-se.
+Intimem-se.
+EMENTA
