@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial, interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A., amparado na alínea ""a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃOFIDUCIÁRIA. CONSTITUIÇÃO EM MORA. NOTIFICAÇÃO ENVIADA PORCARTA REGISTRADA COM AVISO DE RECEBIMENTO. RETORNONEGATIVO. AUSENTE. IRREGULARIDADE. AUSÊNCIA DE CONDIÇÃODA AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DA AÇÃO. SENTENÇAMANTIDA. NOS TERMOS DO ART. 2º, §2º, DO DECRETO-LEI Nº 911/69, A MORADECORRERÁ DO SIMPLES VENCIMENTO DO PRAZO PARAPAGAMENTO E PODERÁ SER COMPROVADA POR CARTA REGISTRADACOM AVISO DE RECEBIMENTO, NÃO SE EXIGINDO QUE A ASSINATURACONSTANTE DO REFERIDO AVISO SEJA A DO PRÓPRIO DESTINATÁRIO. CASO CONCRETO. NOTIFICAÇÃO ENVIADA POR CARTA REGISTRADACOM AVISO DE RECEBIMENTO PARA O ENDEREÇO DO CONTRATO. RETORNO NEGATIVO. CERTIFICADO QUE A CARTA NÃO FOIENTREGUE AO DESTINATÁRIO PELO MOTIVO "AUSENTE". NÃODEMONSTRADO OUTRAS TENTATIVAS DE NOTIFICAÇÃO. INEXISTÊNCIA DE COMPROVAÇÃO DE PRÉVIA CONSTITUIÇÃO DODEVEDOR EM MORA. TRATANDO-SE DE CONDIÇÃO DEPROCEDIBILIDADE PARA PROPOSITURA DA AÇÃO DE BUSCA EAPREENSÃO, NÃO HÁ FALAR EM PRÉVIA INTIMAÇÃO DO AUTORPARA EMENDAR A INICIAL. AUSÊNCIA DE CONDIÇÃO DA CONDIÇÃODA AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DA AÇÃO. ART. 485, VI,DO CPC. SENTENÇA MANTIDA. APELO DESPROVIDO.
+Nas razões do recurso especial, a recorrente aponta, além de dissídio jurisprudencial, violação, pelo aresto estadual, ao artigo 2º, § 2º do Decreto-Lei 911/69. Sustenta a validade da notificação extrajudicial encaminhada ao endereço do consumidor indicado no contrato e não entregue por motivo de ausência.
+Em juízo prévio de admissibilidade, o apelo foi admitido, ascendendo os autos a esta Corte.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Em assentada recente, a Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1132, pacificando o entendimento de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023).
+No caso concreto, houve o envio regular da notificação para o endereço do devedor, cuja comunicação não se completou em virtude de sua ausência. Veja-se:
+In casu, a notificação foi enviada por carta registrada com aviso de recebimento para o endereço fornecido pelo devedor quando da contratação, porém, não restou perfectibilizada, ante a certidão dos Correios de que a carta deixou de ser entregue no endereço do destinatário pelo motivo "AUSENTE" (evento 1 - NOT6).
+Portanto, comprovada a mora, deve prosseguir a ação de busca e apreensão. Nesse sentido: AgInt no REsp n. 1.958.331/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.
+O acórdão recorrido, portanto, destoa da jurisprudência desta Corte, merecendo reforma.
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Juízo de primeiro grau para que prossiga na regular tramitação da ação de busca e apreensão.
+Publique-se.
+Intimem-se.
+EMENTA
