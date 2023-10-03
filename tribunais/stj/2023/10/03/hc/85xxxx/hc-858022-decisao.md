@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de EDIVANDRO DE OLIVEIRA BUENO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do HC n. 2233171-27.2023.8.26.0000.
+Extrai-se dos autos que o Juízo das execuções indeferiu o pedido de retificação dos cálculos da pena imposta ao paciente.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+""Habeas Corpus" impetrado contra decisão judicial do juiz da execução que indeferiu pedido de retificação de pena. 1. Conquanto o "habeas corpus" tenha sido listado, pelo legislador constituinte, entre os direitos e garantias fundamentais (artigo 5º, LXVIII, da CF), constituindo-se num instrumento de salvaguarda do direito de liberdade absolutamente indispensável a um Estado Democrático de Direito, sua utilização deve ser pautada pelo principio da razoabilidade  evitando-se sua vulgarização, atentando-se para a lógica do sistema recursal. Neste sentido, vem se firmando a jurisprudência no sentido de inadmissibilidade do manejo do "habeas corpus" em substituição a recurso ordinário previsto na lei processual. A decisão judicial proferida em execução penal desafia recurso de agravo, na dicção legal (artigo 197, da Lei nº 7.210/84), pelo que este "habeas corpus" mostra-se incognoscivel. 2. Por sua vez, tomando-se em conta uma cognição estreita, tal como é próprio do "habeas corpus", não se tem um quadro de manifesta ilegalidade, a ensejar a concessão de "habeas corpus" de oficio. Ordem não conhecida."
+No presente writ, o impetrante sustenta que o paciente está submetido a constrangimento ilegal, uma vez que "a data base para progressão ao regime aberto, deverá ser aquela que o Paciente implementou o requisito objetivo, qual seja, 1/6 de 29 anos e 6 meses, devendo ser a mesma data que atingiu o benefício para saída temporária e não como constou no cálculo ora agravado, 27 de fevereiro de 2021" (fl. 4).
+Requer, liminarmente e no mérito, a retificação do cálculo de pena do paciente para constar como data base para fins de progressão de regime a data que alcançou o requisito objetivo, qual seja, 29/04/2020.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O acórdão impugnado afastou a ocorrência de flagrante constrangimento ilegal alegando que "a impetração se limita a afirmar que o paciente faria jus ao cômputo do período de remição como pena efetivamente cumprida, sem explicitar os motivos  e indicar a respectiva comprovação  pelos quais a decisão judicial hostilizada padeceria de ilegalidade" (fl. 29).
+Com efeito, o pedido de fixação da data-base para a progressão de regime aberto em 29/4/2020 não encontra qualquer amparo nos documentos juntados.
+O paciente foi progredido ao regime semiaberto em 15/9/2021 (fl. 11), assim, nos termos da jurisprudência desta Corte, esta deve ser a data-base para o cálculo da próxima progressão.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. PROGRESSÃO DE REGIME CONCEDIDA. POSTERIOR REVOGAÇÃO DIANTE DO NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. COISA JULGADA. CLÁUSULA REBUS SIC STANDIBUS. ALTERAÇÃO DO SUBSTRATO FÁTICO-JURÍDICO. ERRO MATERIAL. POSSIBILIDADE DE CORREÇÃO. RECURSO IMPROVIDO.
+1- A retificação de ofício pelo Juiz da Execução do incorreto atestado de pena não encontra óbice nos institutos da preclusão e da coisa julgada, por não importar em alteração no título executório a ser cumprido pelo Sentenciado, não configurando, portanto, em reformatio in pejus. Precedentes.  ..  (AgRg no HC n. 738.234/RS, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+2- No caso, os cálculos da execução foram refeitos, porque constatou-se, posteriormente, que a data-base considerada para a concessão de regime aberto foi a data da primeira prisão do executado, em vez de a data da última progressão de regime, bem como que o SEEU somente computou o período de cumprimento de pena do crime equiparado a hediondo, desconsiderando os crimes comuns. Sendo assim, foi revogada a decisão anterior concessiva da progressão ao regime aberto.
+3- Trata-se de aplicação da interpretação jurisprudencial mais recente e harmônica desta Corte ao caso concreto, que implica em realização de justiça, no caso concreto, como também em observância do princípio da isonomia.
+3- Agravo regimental não provido.
+(AgRg no HC n. 769.677/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
