@@ -1,0 +1,7 @@
+DECISÃO
+O presente recurso especial (e-STJ fls. 297/331) versa, dentre outras matérias, sobre tema afetado à Corte Especial do STJ, nos autos dos Recursos Especiais representativos da controvérsia n. 1.978.629/RJ, 1.985.037/RJ e 1.985/491/RJ , para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir "se a liqu idação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos" (Tema n. 1.169/STJ).
+Nos term os do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos ao TJBA, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
