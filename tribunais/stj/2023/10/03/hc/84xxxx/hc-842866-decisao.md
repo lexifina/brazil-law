@@ -1,0 +1,28 @@
+DECISÃO
+ERLANE BATISTA DUARTE alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500681-03.2020.8.26.0548.
+Nesta Corte, a defesa sustenta a nulidade do feito, por não haver fundadas razões que justificassem o ingresso dos policiais no domicílio do acusado, bem como a ausência de fundamentação concreta para lastrear a escolha da fração de redução de pena pela incidência do § 4º do art. 33 da Lei n. 11.343/2006.
+Pugna pela absolvição do réu ou pela redução da pena a ele imposta.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo conhecimento parcial da impetração e pela denegação da ordem.
+Decido.
+Extrai-se dos autos que o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, mais multa, como incurso no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Inicialmente, observo que o acórdão combatido não tratou da nulidade suscitada neste feito - violação de domicílio -, por ausência de provocação da defesa (que buscou, no recurso interposto, apenas a revisão da dosimetria da pena). Assim, fica inviabilizado o exame do tema diretamente nesta oportunidade, pro configurar supressão de instância.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Ao negar provimento ao apelo defensivo, o Tribunal a quo manteve a escolha da fração de 1/3 pelos seguintes motivos (fl. 56, grifei):
+Na derradeira etapa dosimétrica, reputo presentes os requisitos do artigo 33, § 4º da Lei 11.343/06, eis que se trata de agente primário, de bons antecedentes e que não se dedica comprovadamente às atividades ilícitas. Assim, tendo em conta que ERLANE foi surpreendido na mantendo em depósito droga cuja natureza é altamente perniciosa e destrutiva ("cocaína")  cerca de 480 g , além de grande quantidade de insumos  cerca de 21 kg  utilizados para aumentar quantidade e o volume de entorpecentes, entendo proporcional a redução na fração mínima de 1/3 (um terço). Nada há, portanto, a ser alterado.
+Na hipótese, a escolha da fração de redução em 1/3 foi lastreada na natureza da droga apreendida - cocaína - e no elevado montante de insumos encontrados (mais de 21 kg de substâncias comumente usadas no preparo e comercialização da droga), circunstância não valorada na primeira etapa da dosimetria e, por isso mesmo idônea, consoante a jurisprudência desta Corte Superior, para justificar a escolha do patamar mínimo. A propósito:
+ ..
+2. Segundo entendimento adotado pela Terceira Seção desta Corte, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenha sido utilizada na primeira fase da dosimetria (HC n. 725.534/SP, Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2022) - (AgRg no REsp n. 2.002.824/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/12/2022).
+3. Agravo regimental não conhecido. Habeas corpus concedido de ofício, para determinar que o Tribunal a quo proceda à nova dosimetria da pena do réu, limitando-se a utilizar as circunstâncias relativas à natureza e à quantidade da droga apreendida em somente uma das etapas do cálculo da pena.
+(AgRg no AREsp n. 2.260.415/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 2/5/2023, grifei)
+ ..
+3. Uma vez que, no caso, a instância de origem - dentro do seu livre convencimento motivado - fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/3 (quantidade de drogas apreendidas, que nem sequer foi sopesada na primeira fase da dosimetria, para fins de exasperação da pena-base), deve ser mantida inalterada a reprimenda imposta ao réu.
+ ..
+5. Agravo regimental não provido.
+(AgRg no HC n. 767.179/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/4/2023, destaquei)
+Uma vez que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do julgador e é regulada pelos critérios da razoabilidade e da proporcionalidade, não constato flagrante ilegalidade na hipótese.
+Assim, mantida a reprimenda definitivamente imposta ao paciente, está correta a fixação do regime inicial semiaberto e a negativa de substituição da pena privativa de liberdade por restritivas de direitos, por se tratar de pena definitiva superior a 4 anos de reclusão.
+À vista do exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
