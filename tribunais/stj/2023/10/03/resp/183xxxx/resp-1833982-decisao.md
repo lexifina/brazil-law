@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MRS LOGISTICA S/A, impugnando acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que modificou a sentença que fixara a verba honorária de sucumbência com base em apreciação equitativa, mesmo quando elevado o valor da causa ou do proveito econômico.
+Tendo em vista que foi determinada, neste mesmo processo, a devolução dos autos à 2ª Instância, para aguardar o julgamento da matéria relativa aos honorários de sucumbência, que é o objeto daquele Recurso Especial, aviado pela parte ex adversa, tem-se que a competência do Tribunal de origem ainda não foi esgotada. Impossível, portanto, o imediato julgamento do presente Recurso Especial.
+Portanto, determino o sobrestamento do Recurso Especial de MRS LOGÍSTICA S/A até o julgamento da matéria afetada como representativa da controvérsia, já que "não é possível cindir o julgamento dos Recurso Especiais, de modo a julgar apenas aquele que não se refere à matéria afetada ao rito dos Recursos Repetitivos (..)" (STJ, EDcl no REsp 1.568.817/MS, Rel. Ministra REGINA HELENA COSTA, DJe de 17/03/2016). No mesmo sentido: REsp 1.585.977/RS, Rel. Ministro GURGEL DE FARIA, DJe 02/06/2016; REsp 1.602.496/BA, Rel. Ministro SÉRGIO KUKINA, DJe 27/05/2016.
+Ante o exposto, determino a devolução do presente feito ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, seja o presente recurso novamente remetido a este STJ, para regular apreciação.
+I.
+EMENTA
