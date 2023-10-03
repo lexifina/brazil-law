@@ -1,0 +1,16 @@
+DECISÃO
+O JUÍZO FEDERAL DA 6ª VARA CRIMINAL DE SÃO PAULO - SJ/SP suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL BARRA FUNDA - DIPO 4 - SÃO PAULO - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de medidas judiciais que se façam necessárias, em investigação deflagrada para apurar eventual tentativa de roubo na residência do agente policial federal.
+Ouvido manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito do Foro Central Criminal Barra Funda - Dipo 4 - São Paulo - SP, ora suscitado (fls. 110-114).
+Decido.
+Segundo o relato do Ministério Público do Estado de São Paulo, o fato teria consistido no seguinte (fl. 93):
+ ..  a vítima dormia em sua casa, de madrugada, quando ouviu barulho no andar inferior; mesmo depois de Reinaldo anunciar-se policial, notou que alguém forçava a porta. A certa altura, um homem conseguiu arrombar aporta e entrou correndo na direção da vítima com algo na mão, para atacá-la; nesse momento, o ofendido efetuou três disparos em direção ao invasor, que finalmente fugiu sem levar nenhum bem.
+Há notícia de que um suspeito foi socorrido em um hospital com ferimentos de arma de fogo, com fortes indícios de que tenha sido o invasor; imagens obtidas em câmeras de vigilância permitem verificar que houve concurso de outros quatro agentes na empreitada.
+Consoante enunciado contido na Súmula n. 147 do STJ, somente "compete à Justiça Federal processar e julgar os crimes praticados contra funcionário público federal, quando relacionados com o exercício da função", situação não verificada na espécie.
+De fato, como ressalou o Ministério Público Federal,"não há indícios suficientes de que o delito teria sido praticado em razão de a vítima ser policial federal, tampouco de que os tiros disparados por ele quando a residência estava sendo invadida atingiram os autores do delito" (fl. 112).
+No particular, destacou o Juízo suscitante (fl. 103): " ..  a partir das declarações de ID 297930992, Págs. 8/9, não há elementos para concluir que eventuais reações dos envolvidos na tentativa de furto, após o anúncio da vítima, teriam sido praticados em razão da função de policial federal do morador da residência".
+Além disso, "impõe-se reconhecer que o agente policial não se encontrava em serviço, sendo razoável e verossímil, no atual estágio das investigações, a alegação de que teria efetuado disparos em legítima defesa, diante da reação dos supostos invasores" (fl. 104).
+Esta Corte, mutatis mutandis, tem entendido o seguinte: " r estando caracterizado que os acusados não praticaram os crimes em serviço ou atuando na função de policiais militares, mas visando tão somente a satisfação de interesses exclusivamente pessoais, não há que se falar em competência da Justiça Militar" (HC n. 509.078/MG, Rel. Ministro Joel Ilan Paciornik, DJe 10/9/2019). O racionício para o caso é o mesmo.
+Assim, conheço do conflito para declarar competente o Juízo de Direito do Foro Central Criminal Barra Funda - Dipo 4 - São Paulo - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
