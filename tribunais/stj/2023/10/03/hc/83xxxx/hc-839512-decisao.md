@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Edson Ferreira Cândido Júnior, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do Agravo de Execução Penal n. 0003610-92.2023.8.26.0996.
+Consta dos autos que o Juízo da execução homologou os cálculos da pena do paciente e estabeleceu como marco para a progressão de regime a data do preenchimento do requisito objetivo.
+Interposto agravo em execução pelo Parquet, o Tribunal de origem deu provimento ao recurso, a fim de fixar a data-base como sendo a da realização do exame criminológico, em acórdão assim ementado:
+"Execução Penal. Deferimento de progressão ao regime semiaberto. Juízo da Execução que estabelece o marco para a progressão ao regime aberto na data do preenchimento do requisito objetivo, razão do inconformismo do Ministério Público. Pleito que comporta acolhimento. Reeducando que deve permanecer no regime anterior pelo prazo estipulado na lei, durante o qual será aferido seu mérito para progredir. Inteligência do artigo 112, da LEP. Prazo, em atenção à decisão proferida pela E. Turma Especial Criminal nos autos do IRDR n. 2103746-20.2018.8.26.0000,a despeito do posicionamento anterior desta C. 5ª Câmara de Direito Criminal que deve, no caso, ser aferido a partir da data da realização do exame criminológico. Desacerto na decisão agravada. Agravo provido." (fl. 51)
+A impetrante sustenta que "a data-base a ser observada, para fins de futura progressão ao regime aberto, consiste na data em que o paciente atingiu os requisitos objetivo e subjetivo para a progressão ao regime semiaberto, e não a data em que tal benefício foi deferido, tampouco aquela em que foi transferido ao novo regime ou do exame criminológico, dado seu caráter meramente declaratório" (fl. 12).
+Requer que "seja determinada a análise e apreciação por aquele R. Juízo a quo do PEDIDO DE PROGRESSÃO DE REGIME PRISIONAL para o REGIME ABERTO, com base nos requisitos legais objetivo e subjetivo previstos no Art. 112 da LEP" (fl. 16).
+O pedido liminar foi indeferido em decisão de fls.64/65.
+As informações foram prestadas às fls. 70/73.
+O Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem, em parecer de fl. 77.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Ao indeferir o pedido, o acordão assentou:
+"Para que o sentenciado seja agraciado com regime menos gravoso, que é o objetivo maior dele, deve permanecer no regime anterior pelo prazo estipulado na lei, durante o qual será aferido seu mérito para progredir.
+Vale dizer que a progressão a regime menos gravoso, sem o necessário estágio, pelo tempo previsto na legislação, no regime que o antecede, implica em desvio de execução, eis que viabiliza a promoção do sentenciado a regime de maior liberdade sem demonstração do mérito no regime anterior, pelo tempo previsto na legislação, insisto mais uma vez.
+Ademais, a antiga redação do artigo 112, da Lei de Execução Penal, é clara ao afirmar que o sentenciado será transferido a regime menos rigoroso quando tiver cumpridoaomenos1/6 da pena no regime anterior (ou 2/5 ou 3/5, na hipótese de crimes hediondos ou assemelhados cometidos após a vigência da Lei n. 11.464/2007), ou seja, não vincula a progressão à exata fração, mesmo porque outro requisito deve ser preenchido, qual seja, o subjetivo. A atual redação, inclusive, manteve a exigência de que o sentenciado cumpra, ao menos, determinada porcentagem da pena.
+ ..
+Desta forma, e em obediência ao efeito vinculante da decisão proferida pela Colenda Turma Especial Criminal no bojo do Incidente de Resolução de Demandas Repetitivas já citado, a decisão agravada merece reforma, devendo o prazo para nova progressão ser computado, na hipótese e não havendo outra razão (v. g. falta disciplinar), da data da confecção do exame criminológico que lastreou a promoção do agravado ao regime intermediário, qual seja,9 de fevereiro de 2023 (página 7)." (fls. 54/56)
+Da leitura do acordão, observa-se que foi considerada a data da realização do exame criminológico como a data que foi preenchido o requisito subjetivo para a progressão da pena, estando portanto de acordo com a jurisprudência desta Corte Superior. Vejam-se os precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. TERMO INICIAL PARA NOVA PROGRESSÃO DE REGIME PRISIONAL. PREENCHIMENTO DO ÚLTIMO REQUISITO PENDENTE. DATA DO EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO. RECURSO IMPROVIDO.
+1- Se por último for preenchido o requisito subjetivo, independentemente da anterior implementação do requisito objetivo, será aquele (o subjetivo) o marco para fixação da data-base para efeito de nova progressão de regime".  ..  (ProAfR no REsp n. 1.972.187/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Terceira Seção, julgado em 23/8/2022, DJe de 16/9/2022.)
+2- No caso, o Tribunal, confirmando a decisão singular, em consonância com tal diretriz jurisprudencial, considerou como data-base para a nova progressão de regime prisional (aberto), o dia em que foi realizado o exame criminológico, e se implementou, em consequência, o último requisito (subjetivo) da progressão ao regime anterior (intermediário).
+3- Agravo regimental não provido.
+(AgRg no HC n. 788.218/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MARCO INICIAL. DATA EM QUE IMPLEMENTADOS TODOS OS REQUISITOS (OBJETIVO E SUBJETIVO). DATA DO EXAME CRIMINOLÓGICO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. No caso dos autos, o Tribunal de origem, ao dar provimento ao agravo do Ministério Público, determinou a retificação do cálculo a fim de que fosse adotada como marco inicial a data em que o sentenciado preenchera o requisito subjetivo (o dia do exame criminológico).
+2. De acordo com a jurisprudência desta Corte, "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016).
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 630.809/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/5/2021, DJe de 20/5/2021.)
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
