@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da falta de violação do dispositivo legal apontado (e-STJ fls. 442/446).
+O acórdão recorrido está assim ementado (e-STJ fl. 386):
+AÇÃO DE OBRIGAÇÃO DE FAZER. Plano de saúde coletivo empresarial. Rescisão unilateral do contrato após a falência da ex-empregadora do falecido marido da autora. Pleito visando à manutenção do contrato nas mesmas condições anteriores. Impossibilidade. Contrato coletivo de assistência à saúde extinto. Oferecido um novo plano à beneficiária, livre de carências, nos termos do art. 1º da Resolução nº 19 do CONSU. Recurso negado.
+No recurso especial (e-STJ fls. 394/405), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 31 da Lei n. 9.656/1998, sustentando que (e-STJ fls. 399/400):
+(..) a conduta da UNIMED em não oferecer a Recorrente um plano de saúde nas mesmas condições a que possui direito, é o equivalente a negar a vigência de toda a proteção conferida pela Lei nº 9.656/98, e a proteção prevista nos dispositivos do Código de Defesa do Consumidor, ambos amparados na Constituição Federal, sendo normas de ordem pública e interesse social, que visam o melhor desenvolvimento social.
+No agravo (e-STJ fls. 449/457), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto à rescisão do plano de saúde coletivo, o TJSP consignou que (e-STJ fls. 387/389):
+No mérito, cumpre destacar que o a questão relevante deste processo não versou sobre quais condições assistenciais e de custeio devem ser mantidas a beneficiários inativos, mas sim sobre a possibilidade da ré-operadora em dar continuidade ao plano que havia sido contratado, em benefício do falecido marido da autora, pela Mabe Brasil Eletrodomésticos Ltda., após a falência desta última, nas mesmas condições daquele plano coletivo empresarial que lhe era fornecido.
+Com efeito, afetando o beneficiário inativo, revela-se possível a rescisão do contrato de assistência médica coletivo, nos termos do art. 17 da Resolução Normativa nº 195/2009, da ANS,in verbis:
+(..)
+Dentro desse contexto, cumpria à requerida - ônus do qual se desincumbiu satisfatoriamente -, considerando que o direito de manutenção no plano de saúde não cria contrato individual, oferecer um novo plano individual ou familiar ao beneficiário do plano de saúde coletivo, livre de carências, nos termos do art. 1º da Resolução nº 19 do CONSU, que assim dispõe:
+(..)
+Ora, restou incontroverso que um novo plano, livre de carências, foi oferecido à parte autora após a rescisão do contrato coletivo, não buscando a parte autora, em seu pleito inicial, obter novo plano individual com mesmas condições assistenciais, mas o restabelecimento do plano coletivo em caráter definitivo e por prazo indeterminado.
+Nesse vértice, destaca-se que "não há como obrigar as operadoras de planos de saúde a manter válidas, para um único segurado, as condições e cláusulas previstas em contrato coletivo de assistência à saúde já extinto" (STJ, REsp nº 1.119.370/PE, 3ª Turma, Rel. Min. Nancy Andrighi, j. 07/12/2010, DJe 17/12/2010).
+O Tribunal de origem decidiu segundo a jurisprudência desta Corte Superior, que estabelece que, "cancelado o contrato de plano de saúde coletivo, não há fundamento legal para obrigar a seguradora a manter o ex-empregado da estipulante no plano de saúde coletivo extinto, com as mesmas condições e valores anteriormente vigentes" (AgInt no REsp n. 1.791.515/SP, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/2/2020, DJe de 26/2/2020).
+Destaca-se que "rescindido o contrato coletivo antes existente entre operadora e empregadora, o beneficiário possui direito a ser incluído no novo plano de saúde coletivo eventualmente contratado pela ex-empregadora ou fazer a migração para plano de saúde na modalidade individual ou familiar (quando comercializados pela operadora), sem cumprimento de novos prazos de carência, desde que se submeta às novas regras e encargos inerentes a essa modalidade contratual" (AgInt no AREsp n. 2.047.276/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023).
+A Corte local reconheceu que teria sido oferecido à recorrente um novo plano, livre de carências, logo após a rescisão do contrato coletivo.
+Confira-se:
+RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. OPERADORA. RESILIÇÃO UNILATERAL. LEGALIDADE. ESTIPULANTE. FALÊNCIA. INADIMPLEMENTO. BENEFICIÁRIO APOSENTADO. PLANO INDIVIDUAL. MIGRAÇÃO. PREÇO DAS MENSALIDADES. VALORES DE MERCADO. ADAPTAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a operadora que rescindiu unilateralmente plano de saúde coletivo empresarial, em virtude da inadimplência da empresa estipulante por falência, possui a obrigação de manter usuário aposentado (inclusive sua família) em tal plano, nas mesmas condições de cobertura assistencial e de valores quando da vigência do contrato de trabalho.
+3. Quando houver o cancelamento do plano privado coletivo de assistência à saúde, deve ser permitido que empregados ou ex-empregados migrem para planos individuais ou familiares, sem o cumprimento de carência, desde que a operadora comercialize tais modalidades de plano (arts. 1º a 3º da Res.-CONSU nº 19/1999).
+4. A Segunda Seção desta Corte Superior já decidiu que o ex-empregado aposentado não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente à época da aposentadoria se o modelo para os trabalhadores ativos sofreu modificações (Tema Repetitivo/STJ nº 1034).
+5. Não há falar em manutenção do mesmo valor das mensalidades aos beneficiários que migram do plano coletivo empresarial para o plano individual, haja vista as peculiaridades de cada regime e o tipo contratual (atuária e massa de beneficiários), que geram preços diferenciados. O que deve ser evitado é a abusividade, tomando-se como referência o valor de mercado da modalidade contratual.
+6. Rescindido o contrato de plano de saúde coletivo, o beneficiário possui direito à migração para plano individual ou familiar quando comercializados pela operadora, sem o cumprimento de novos prazos de carência, desde que se submeta às novas regras e aos encargos inerentes a essa modalidade contratual.
+7. Recurso especial não provido.
+(REsp n. 1.884.465/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
