@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEINNY CAROLAINE RAMOS SOARES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0005282-94.2016.8.26.0604.
+Colhe-se nos autos que a Paciente foi condenada como incursa no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, em virtude da apreensão de "06 (seis) pedaços de Cannabis sativa L, popularmente conhecida como "maconha", pesando aproximadamente 156g (cento e cinquenta e seis gramas); 75 (setenta e cinco) porções da mesma droga em papel alumínio, pesando aproximadamente 228g (duzentos e vinte e oito gramas); 16 (dezesseis) pedras de crack, de peso aproximado de 6g (seis gramas); bem como 54 (cinquenta e quatro) porções de cocaína" (fl. 14).
+A sentença condenatória foi integralmente mantida pelo Tribunal de origem, que negou provimento ao recurso de apelação interposto pela Defesa.
+Neste habeas corpus, alega o Impetrante, em síntese, que a Paciente faz jus à incidência da causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei de Drogas, sendo inidônea a fundamentação utilizada para o indeferimento do benefício.
+Requer a redução da pena.
+É o relatório. Decido .
+Observo que no HC n. 775.766/SP foi formulada idêntica pretensão à veiculada no presente feito, em favor da mesma Paciente, tendo sido denegada a ordem, em decisão que foi confirmada pela Sexta Turma desta Corte, em acórdão assim ementado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. INDEFERIMENTO MOTIVADO. PRECEDENTES. DEDICAÇÃO À ATIVIDADE CRIMINOSA. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. São condições para que o condenado faça jus à aplicação da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividade s criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+2. No caso, as instâncias ordinárias afastaram a incidência da minorante prevista no art. 33, § 4.º, da Lei de Drogas, destacando, sobretudo, a apreensão das anotações detalhadas referentes à venda das drogas, o que indica o grau de envolvimento da Acusada com a traficância, denotando sua dedicação a essa atividade criminosa. Precedentes.
+3. Nesse contexto, não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação da Agravante à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos. Precedentes.
+4. Agravo desprovido."
+A impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem a mesma matéria, inexistindo alteração fático-processual que justifique a reapreciação do julgado.
+Conclui-se, assim, pela inadmissibilidade do mandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte". No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO § 4.º DO ART. 33 DA LEI DE DROGAS. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 775.766/SP. INADMISSIBILIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
