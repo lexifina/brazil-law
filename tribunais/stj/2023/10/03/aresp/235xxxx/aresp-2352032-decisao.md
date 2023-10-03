@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por LEONARDO OLIVEIRA DA COSTA MONTEIRO, contra decisão que não admitiu recurso especial (fls. 1065/1075 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 964/965, e-STJ):
+APELAÇÕESCÍVEIS. IMISSÃO NA POSSE. SENTENÇA DEPROCEDÊNCIA. RECURSOS DAS PARTES.
+- O instituto jurídico da ação de imissão na posse está disciplinado no artigo 1.228 do Código Civil.
+- Cabe destacar que essa Colenda Câmara Cível, no julgamento do Agravo de Instrumento nº 0015083-66.2014.8.19.0000,por unanimidade de votos, deferiu a tutela de urgência pleiteada pela parte Autora (ora Apelantes 3)e determinou a imediata imissão na posse dos imóveis, já tendo ocorrido o trânsito em julgado do referido agravo de instrumento. -O entendimento deste Colegiado, que ora se reitera, foi no sentido de que a cessão onerosa de créditos realizada pelo condomínio (credor de débito condominial) em favor do ora Apelante 2, não garante a este o direito de exercer a posse direta sobre os respectivos imóveis em detrimento das proprietárias, sob pena de se admitir como legítimo o exercício arbitrário das próprias razões. O instituto transmite ao cessionário, apenas, as mesmas garantias que tinha o cedente.
+- A ação de imissão na posse tem natureza petitória, com base no título de domínio. Envolve, portanto, direito de propriedade e, nesse contexto, quem ostenta essa qualidade são as Autoras. Assim, correta a sentença recorrida que determinou a imissão definitiva delas na posse dos imóveis mencionados na exordial, não havendo que se falar em inadequação da via eleita. Precedentes desta Corte de Justiça.
+- Ressalte-se, ainda, que não há nos autos prova cabal de preenchimento de requisitos de usucapião por parte do Apelante 1, cumprindo destacar que foram impetrados dois mandados de segurança por ele contra a determinação de imediata imissão das Autoras na posse dos imóveis, proveniente do aludido agravo de instrumento, e em nenhum dos writs obteve êxito.
+- Por fim, nota-se que as Autoras pleitearam na exordial a taxa de ocupação mensal dos bens, mencionando expressamente que deveria ser apurada mediante perícia técnica. Entretanto, não houve requerimento por parte delas a esse título no curso do feito, antes de ser prolatada a sentença, o que demonstra a desistência tácita. Assim, não deve ser acolhida a pretensão recursal de que seja apurado em liquidação, eis que não houve comprovação nos autos oportunamente. RECURSOS CONHECIDOS E DESPROVIDOS.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aos artigos 373, I, do CPC/15, 1228 do CC/02. Sustenta, em síntese: i) não há qualquer prova nos autos que demonstre que a sua posse é exercida com base na cessão de créditos; ii) a ação de imissão na posse não é adequada para tutelar o direito alegada pelas recorridas.
+Após a apresentação das contrarrazões (fls. 1013/1021, e-STJ), o apelo não foi admitido na origem (fls. 1065/1075, e-STJ), dando ensejo ao agravo (fls. 1114/1125, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrentes refutou os óbices aplicados pela Corte estadual.
+Sem contraminuta (fl. 1167, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local consignou (fl. 967, e-STJ):
+O entendimento deste Colegiado, que ora se reitera, foi no sentido de que a cessão onerosa de créditos realizada pelo condomínio (credor de débito condominial) em favor do ora Apelante 2, não garante a este o direito de exercer a posse direta sobre os respectivos imóveis em detrimento das proprietárias, sob pena de se admitir como legítimo o exercício arbitrário das próprias razões. O instituto transmite ao cessionário, apenas, as mesmas garantias que tinha o cedente.
+Assim, para alterar a conclusão da Corte local no sentido de que a cessão onerosa de créditos não confere ao cessionário o exercício da posse do imóvel, assim como para acolher a alegada violação ao art. 373, I, do CPC/15, sob a alegação de que não exerce a posse em razão da supracitada cessão, seria necessário para promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RITO COMUM. ART. 1.021, § 1º, DO CPC/2015. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. OMISSÃO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. JUNTADA DE DOCUMENTOS. PRECLUSÃO. INEXISTÊNCIA. OFENSA AO ART. 333, II, DO CPC/73. NECESSIDADE DE REVISÃO DE PROVAS. SÚMULA 7/STJ. ALTERAÇÃO DA SUCUMBÊNCIA. REEXAME DE FATOS DA CAUSA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+5. " A  Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 5/9/2017, DJe de 13/9/2017).
+ ..
+(AgInt no AREsp n. 1.564.199/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+2. Por fim, constata-se da leitura do acórdão recorrido, que o Tribunal de origem não decidiu acerca da adequação da ação de imissão de posse sob a alegação de que as recorridas teriam exercido a posse anteriormente ao ajuizamento da demanda, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Saliente-se, ainda, que o agravante não opôs embargos declaratórios contra a decisão impugnada, a fim de atender ao aludido requisito de admissibilidade ou à pretensa alegação de negativa de prestação jurisdicional.
+Incide, portanto, o óbice disposto na Súmula 282/STF.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2 % sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
