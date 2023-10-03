@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO contra acórdão proferido pelo TJGO assim ementado:
+EMENTA: Agravo interno em Apelação Cível. Embargos à execução. Pagamento administrativo. Anterior a citação. Honorários advocatícios indevidos. Não cabe condenação em honorários da parte executada quando há pagamento administrativo do débito litigioso em momento posterior ao ajuizamento da ação e anterior à citação. Precedentes.
+Agravo interno conhecido e improvido. Decisão monocrática mantida.
+Em seu recurso especial, manejado com apoio na alínea "a" do permissivo constitucional, a parte recorrente aponta violação dos arts. 85, 90, 924 e 925 do CPC/2015.
+Sustenta, em síntese, que, em face do princípio da causalidade, o executado responde pelo pagamento dos honorários advocatícios decorrentes da sentença de extinção da execução fiscal pelo pagamento espontâneo da dívida na via administrativa, ainda que realizado antes da citação.
+Sem contrarrazões.
+O Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+O recurso especial origina-se de execução fiscal extinta após a informação de quitação do crédito tributário na via administrativa.
+No primeiro grau de jurisdição, a ação foi extinta, sem condenação do executado ao pagamento das verbas de sucumbência.
+O Tribunal goiano, em sede de agravo interno, manteve a decisão do relator, que negara provimento à apelação do Município.
+Entendeu que, mesmo havendo sido a quitação da dívida realizada na via administrativa após a propositura da execução, porém antes da citação válida do executado, não poderia ser a este imputado o ônus do pagamento das verbas sucumbenciais.
+A irresignação merece provimento.
+A orientação jurisprudencial desta Corte superior é a de que "o pagamento extrajudicial do débito fiscal equivale ao reconhecimento da dívida executada e do pedido da execução, e, em homenagem ao princípio da causalidade, leva o executado a arcar com o adimplemento integral dos honorários advocatícios, por ter dado causa ao ajuizamento da ação, consoante previsto nos arts. 85, §§1º, 2º e 10, c/c art. 90 do CPC/2015" e de que "o simples ajuizamento da execução implicou despesas para a Fazenda exequente, que provocou o Judiciário para cobrança de valores a ela devidos, após a lavratura do auto de infração por conta do inadimplemento do contribuinte", não podendo a FAZENDA "ser prejudicada pelo exercício de um direito legítimo, qual seja, a propositura da execução fiscal para cobrança de débito fiscal líquido e certo, sendo impositiva a aplicação do ônus de sucumbência ao executado que confessou, reconheceu e pagou o débito" (REsp n. 1.931.060/PE, rel. Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 14/09/2021, DJe de 23/09/2021).
+Assim, no caso concreto, "o entendimento do Tribunal local vai de encontro com o Princípio da Causalidade, que prevê o pagamento das despesas e dos honorários por aquele que der causa à demanda, mesmo que a relação jurídica processual não tenha sido formada, pois o autor da ação não pode ser prejudicado pelo exercício de direito legítimo, que, no caso, é a propositura da execução fiscal. (REsp 1.592.755/MG, rel. Ministro Herman Benjamin, Segunda Turma, DJe 2/9/2016 e AgRg no AREsp 759.959/SP, rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 28/9/2015)" (REsp n. 1.854.592/SC, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/03/2020, DJe de 31/08/2020).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, com a DETERMINAÇÃO de retorno dos autos ao Tribunal de origem para que promova a condenação do executado em verbas de sucumbência, em observância à orientação jurisprudencial desta Corte Superior.
+Publique-se. Intimem-se.
+EMENTA
