@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 1.542, e-STJ):
+TRIBUTÁRIO. CONCEITO DE INSUMOS PARA FINS DE CRÉDITOS DE PIS/COFINS. TEMA 779 DO STJ. ESSENCIALIDADE E RELEVÂNCIA.
+1. O conceito de insumo, para fins de creditamento no regime não cumulativo do PIS e da COFINS, deve ser aferido à luz dos critérios de essencialidade ou relevância, considerando-se a imprescindibilidade ou a importância de determinado item, bem ou serviço para o desenvolvimento da atividade econômica desempenhada pelo contribuinte (REsp nº 1.221.170/PR, Tema 779/STJ).
+2. Caso em que, em face do Tema 779/STJ e do objeto social da requerente, afasta-se a possibilidade de creditamento de PIS/COFINS das despesas relativas a comissões sobre vendas.
+Os Embargos de Declaração foram rejeitados (fls. 1.569-1.573, e-STJ).
+Em seu Recurso Especial, a agravante alega violação dos arts. 141, 489, § 1º, 490, 492, 927, III, IV e § 1º, e 1.022 do Código de Processo Civil de 2015, dos arts. 97, 109 e 110 do Código Tributário Nacional e do art. 195 da Constituição Federal de 1988. Afirma que há vícios nos acórdãos recorridos e que "(..) merecem reforma os v. acórdãos para reconhecer o direito ao crédito de PIS e COFINS decorrente das comissões pagas sobre as vendas, sendo evidente a sua essencialidade e relevância ao atingimento da atividade empresarial da ora recorrente" (fl. 1.603, e-STJ).
+Contrarrazões às fls. 1.641-1.643, e-STJ.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25.9.2023.
+Ao dirimir o conflito, o TRF da 4ª Região consignou (fls. 1.539-1.541, e-STJ):
+As Leis nºs. 10.637/2002 e 10.833/2003, entretanto, não definem o que se pode considerar como insumos para fins de aproveitamento no sistema da não-cumulatividade de PIS e COFINS, embora considere os insumos como geradores de créditos.
+Objetivando preencher tal lacuna, a Secretaria da Receita Federal do Brasil editou as Instruções Normativas nºs. 247/2002 (PIS/PASEP) e 404/04 (COFINS), as quais foram objeto de questionamentos na via judicial, culminando na afetação da matéria à sistemática dos recursos repetitivos (Temas 779 e 780), definida por ocasião do julgamento do REsp n.º 1.221.170/PR, que assentou o entendimento no sentido de que o conceito de insumo deve ser verificado de acordo com os critérios de essencialidade e relevância, considerando-se sua imprescindibilidade e importância para o desenvolvimento da atividade social.
+(..)
+3.3.1. Comissões sobre as vendas Em observância ao objeto social da Impetrante, cabe dizer que as despesas referentes às comissões sobre as vendas são despesas operacionais que podem contribuir para o crescimento ou manutenção da atividade econômica, mas que não são essenciais para a sua realização.
+Portanto, os custos decorrentes com comissões sobre as vendas não se enquadram no conceito de insumo, tratando-se tão somente de despesa operacional que visa auxiliar a execução da atividade econômica. Nesse sentido, ainda que a contratação de representantes comerciais resulte em um desenvolvimento/fortalecimento no exercício do objeto social da Impetrante, "tais despesas não se revestem de magnitude a ponto de inviabilizar a atividade da empresa, tampouco de lhe retirar substancialmente a qualidade dos serviços prestados" (a propósito: TRF4, AC 5008926- 37.2018.4.04.7005, PRIMEIRA TURMA, Relator ROGER RAUPP RIOS, juntado aos autos em 20/11/2019).
+Preliminarmente, constato que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil. O Colegiado originário examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca modificar o julgado ao asseverar que o Tribunal a quo não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem embasado, sem quaisquer dos vícios previstos no art. 1.022 do CPC.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+No mérito, melhor sorte não assiste à agravante.
+A respeito da orientação consolidada no julgamento do Tema 779/STJ, não é possível verificar, na via especial, a essencialidade ou a relevância das despesas para fins de enquadramento como insumos passíveis de creditamento no PIS e na Cofins, sob pena de infringência à Súmula 7/STJ.
+Confira-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS/COFINS. REGIME NÃO-CUMULATIVO. CREDITAMENTO. TEMA DECIDIDO EM RECURSO ESPECIAL REPETITIVO (RESP 1.221.170/PR). CONCEITO DE INSUMOS. CRITÉRIOS DE ESSENCIALIDADE OU RELEVÂNCIA, A SEREM AFERIDOS NO CASO CONCRETO. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Mandado de Segurança impetrado pela parte ora agravante, contra ato do Delegado da Receita Federal do Brasil em Recife/PE, objetivando reconhecimento de direito a creditamento do PIS e da COFINS incidentes sobre despesas com "utensílios móveis e maquinas; água; serviços prestados por atividade econômica PJ; conservação e manutenção; manutenção de máquinas e equipamentos", os quais considera essenciais e relevantes para sua atividade econômica. O Juízo de 1º Grau denegou a segurança. O Tribunal de origem manteve a sentença de denegação.
+III. A Primeira Seção do STJ, sob a sistemática dos recursos repetitivos, definiu que "o conceito de insumo deve ser aferido à luz dos critérios da essencialidade ou relevância, vale dizer, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo contribuinte" (STJ, REsp 1.221.170/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe de 24/04/2018).
+IV. No caso, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "é inviável o creditamento pretendido, já que os bens e serviços listados na inicial não trazem, necessariamente, relação direta com a atividade-fim da impetrante. Ou seja, são despesas que, embora tenham importância para o custo de operação da empresa, não têm relação com a produção e/ou venda de bens ou prestação de serviços que compõe seu objeto social, como, por exemplo, consumo de água, conservação e manutenção de máquinas" e, ainda, que "as despensas mencionadas, ainda que tenham utilidade para a existência e regula funcionamento da impetrante, mormente em sua atividade administrativa e promocional no mercado, não são insumos em sua atividade-fim produtiva. Logo, não são nem essenciais nem relevantes, por imprescindíveis ou importantes, ao processo produtivo realizado, mas apenas à sua organização administrativa". Tal entendimento, firmado pelo Tribunal a quo, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedentes: STJ, AgInt no AREsp 1.576.570/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 23/08/2021; AgInt no REsp 1.902.904/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 20/04/2021; AgInt no REsp 1.822.551/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 03/08/2020; AgInt no AREsp 1.530.250/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AgInt no REsp 1.747.154/SE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 24/04/2020.
+V. Agravo interno improvido.
+(AgInt no REsp 1.897.982/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 29/4/2022)
+Por fim, a discussão acerca de suposta infringência a dispositivo constitucional é inviável em Recurso Especial, porquanto sua apreciação é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da CF/1988. Não se pode, portanto, conhecer do apelo em relação à contrariedade ao art. 195 da Constituição da República.
+A propósito:
+(..) RECURSO ESPECIAL. (..)
+1. Descabe o exame de violação de dispositivos constitucionais em recurso especial, por faltar a este Superior Tribunal de Justiça essa competência.
+(..)
+4. Recurso especial não conhecido.
+(REsp 1.195.328/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13/3/2018)
+(..) PROCESSUAL CIVIL. (..) ANÁLISE DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. (..)
+(..)
+III. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição da República, sendo defeso o seu exame, no âmbito do Recurso Especial, ainda que para fins de prequestionamento, conforme pacífica jurisprudência do STJ.
+(..)
+(AgInt no AREsp 1.179.536/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 8/3/2018)
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente no que tange à alegação de afronta aos arts. 489 e 1.022 do CPC/2015, para, nessa parte, negar-lhe provimento.
+Sem arbitramento de honorários recursais, pois o apelo tem origem em Mandado de Segurança (art. 25 da Lei 12.016/2009 e Súmula 105 do STJ).
+Publique-se.
+Intimem-se.
+EMENTA
