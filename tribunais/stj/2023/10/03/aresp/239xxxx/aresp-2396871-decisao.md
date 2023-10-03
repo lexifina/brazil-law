@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da Constituição Federal de 1988) interposto contra acórdão assim ementado (fl. 442, e-STJ):
+Apelação Cível - Anulatória de auto de infração lavrado pela Fundação de Proteção e Defesa do Consumidor (Procon), tendo em vista o descumprimento de dispositivos legais previstos no Código de Defesa do Consumidor (Lei nº 8.078/90) - Preliminar de nulidade da sentença ante a ocorrência do cerceamento de defesa - Inadmissibilidade - O destinatário da prova é o Juiz, pois a ele compete formar o livre convencimento motivado a fim de dar a prestação jurisdicional - Inteligência do artigo 370 do CPC - Provas constantes nos autos suficientes para o deslinde da causa - Pretensão de desconstituição do AI nº 13700-D8, ou redução do valor da multa - Não cabimento - Auto de infração bem fundamentado - Desrespeito à legislação consumerista verificado - Incidência do art. 57, parágrafo único, do mesmo diploma legal - "Quantum" fixado a título de multa que se encontra em harmonia com os princípios da proporcionalidade, da razoabilidade e da finalidade, tendo em vista da condição econômica da Apelante - Sentença mantida.
+Recurso não provido.
+Os Embargos de Declaração foram rejeitados (fls. 463-471, e-STJ).
+A parte agravante, nas razões do Recurso Especial, aponta violação dos arts. 369, 480 e 1.022 do CPC, 37, § 1º do CDC e 2º da Lei 9.784/1999. Afirma:
+De fato, a prova pericial vindicada às fls. 304 era imprescindível para o julgamento do mérito da demanda, pois apenas um expert no setor da comunicação poderia analisar e concluir se a propaganda foi promovida com as devidas informações ao consumidor, conhecimento este que, infelizmente, foge do know-how dos Magistrados.
+(..)
+Ocorre que a defesa na esfera administrativa sequer é pressuposto para o ajuizamento da ação de nulidade da multa imposta pelo PROCON, não havendo que se falar em preclusão. Sendo a multa desproporcional, é dever do Poder Judiciário colocá-la em patamar compatível com o Princípio da Razoabilidade e Proporcionalidade, na forma requerida na petição inicial, nos termos da jurisprudência pátria: (..)
+Apresentadas as contrarrazões às fls. 581-612, e-STJ, houve juízo negativo de admissibilidade às fls. 615-617, e-STJ, o que ensejou a interposição do presente Agravo.
+Contraminuta às fls. 675-685, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.9.2023.
+A irresignação não merece prosperar.
+Afasta-se a alegação de contrariedade aos arts. 489 e 1.022 do CPC/2015, pois não foi demonstrada omissão capaz de comprometer o embasamento do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do Apelo Nobre.
+A ausência de manifestação sobre determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há nulidade do julgado quando o Tribunal a quo decide de modo claro e fundamentado, como ocorreu na hipótese. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO DE CONCESSÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E REVISÃO DAS CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.649.268/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 14/9/2021)
+No tocante ao cerceamento de defesa, o Colegiado originário assim se manifestou (fls. 443-444, e-STJ):
+De início, não há que se falar em nulidade da sentença, ante o cerceamento de defesa, pela falta de realização de prova pericial.
+É sabido que o destinatário da prova é o Juiz, pois a ele compete formar o livre convencimento motivado a fim de dar a prestação jurisdicional.
+(..)
+Tendo o Juiz concluído que os documentos juntados aos autos eram suficientes para o deslinde da causa, as outras eventuais provas requeridas mostraram-se desnecessárias.
+A jurisprudência do Superior Tribunal de Justiça inclina-se no sentido de que o julgamento antecipado da lide, por si só, não caracteriza cerceamento de defesa:
+(..)
+Inexiste, portanto, o cerceamento de defesa alegado em sede de apelação.
+Sobre o suposto cerceamento de defesa, a legislação processual civil consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento, à luz das provas que entender aplicáveis ao caso concreto constantes dos autos. Sendo assim, a avaliação quanto à necessidade e à suficiência ou não das provas e a fundamentação da decisão demanda, em regra, incursão no acervo fático-probatório dos autos e encontra óbice na Súmula 7/STJ. Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PISO SALARIAL NACIONAL DO MAGISTÉRIO PÚBLICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARGUIÇÃO DE CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. AUSÊNCIA DE PREJUÍZO. INCIDÊNCIA DA SÚMULA 7/STJ. PAGAMENTO DO PISO SALARIAL. ANÁLISE. INCIDÊNCIA DAS SÚMULAS 7/STJ E 280/STF.
+1. Afasta-se a ofensa ao art. 1.022, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. "Não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender adequadamente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente". (AgInt no AREsp n. 1.885.284/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022).
+3. Acrescente-se, ainda, que a análise quanto à arguição de cerceamento de defesa, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+4. No mais, quanto ao pagamento do piso salarial, cumpre observar que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, exigiria, necessariamente, nova incursão no acervo fático-probatório constante dos autos bem como análise de legislação local, providências vedadas em recurso especial, conforme as Súmulas 7/STJ e 280/STF.
+5. Agravo interno não provido. (AgInt no AREsp n. 2.294.049/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Quanto à imposição da penalidade e o quantum da multa, a Corte de origem consignou (fls. 445-449, e-STJ):
+Analisando-se o conteúdo da propaganda veiculada, é possível ao telespectador médio imaginar que as imagens ditas como "meramente ilustrativas", ao final da inserção publicitária, são componentes do produto: afinal, são figuras cartonadas simples, que surgem dentro do contexto da embalagem e que a ela retornam, cenário esse ainda reforçado pelos dizeres do interlocutor, "agora a turma do Carrossel está no Kit Habib"s" e "tudo faz parte do delicioso Kit Habib"s que você já conhece".
+Verifica-se que o consumidor, considerando que o destinatário da campanha publicitária (venda do Kit Habib"s Carrossel) é o público infantil, mais frágil e suscetível ao consumo, pode ser facilmente induzido a erro de interpretação, pois, além da menor experiência de vida e de menor acúmulo de conhecimentos, a criança ainda não possui maturidade, nem discernimento total da realidade.
+Outrossim, na análise feita no procedimento administrativo, o Requerido teceu considerações que bem refletem a posição deste Relator e que são adotadas como razão de decidir (fls. 415):
+(..)
+A infração, portanto, consiste na capacidade de indução em erro do consumidor, influindo no processo decisório do consumidor e levando-o a adquirir produtos e serviços que, estivesse melhor informado, não o faria.
+A conduta, sem dúvida, subsume-se ao conceito de publicidade enganosa, prescrito no artigo 37, § 1º, da Lei 8.078/90, não havendo se falar, portanto, em ofensa aos princípios da legalidade, interesse público, livre concorrência e isonomia.
+Ocorrida a tipicidade aberta prevista no Código de Defesa do Consumidor, autorizado está a Administração para fixar as penalidades levando em consideração a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor, nos exatos termos do art. 57, do Código de Defesa do Consumidor 1 .
+O argumento de que foi registrada reclamação de um único consumidor não merece prosperar, eis que a multa foi aplicada por reflexos no âmbito coletivo, ou seja, uma pessoa fez a reclamação, mas outros são prejudicados ou atraídos pelo equívoco.
+Os parâmetros para aplicação da multa foram traçados pela lei, e a discricionariedade, perfeitamente lícita, não pode ser confundida com arbítrio. O quantum debeatur também se mostra adequado, diante do porte econômico do autor e da gravidade da infração, e foi estabelecido em consonância com a norma retro referida aliada aos critérios estabelecidos pela Portaria Procon 26/2006, com as alterações promovidas pela Portaria Procon 33/2009, atual Portaria Procon 45/15, que dispõe minuciosamente sobre os critérios de dosimetria e arbitramento das penas de multa nas infrações praticadas em detrimento das regras do Código de Defesa do Consumidor, estabelecendo balizas objetivas para a graduação do valor da sanção.
+Acerca da aferição da condição econômica de empresas autuadas, dispõe o artigo 32 da Portaria nº 45/PROCON:
+(..)
+A previsão de apuração da receita bruta de forma estimada, decorre da impossibilidade de se obter no mais das vezes valores exatos, a menos que a autuada forneça informações e/ou impugne a estimativa, mediante indicação e demonstração de que é equivocada.
+No caso em tela, o autor não ofereceu impugnação no curso do procedimento administrativo (fls. 171) e que não atende ao artigo 32 da Portaria nº 45/15, portanto, não há razão para que não prevaleça, e não cabe agora pretender comprovar que a sua receita mensal bruta é diversa, pois ocorreu a preclusão.
+(..)
+Ainda que assim não fosse, os documentos instruídos com a Apelação, que consiste em "Demonstração de Resultado do Exercício" e "Declaração" (fls. 398/399) indica datas que não correspondem aos três meses anteriores à data da lavratura do auto de infração, que ocorreu em 16.10.2014, e não há nos autos qualquer outro documento pertinente, hábil à comprovação da real receita alegada.
+Acrescente-se que a constitucionalidade e legalidade da mencionada Portaria nº 26/2006 foram confirmadas por este Tribunal de Justiça:
+(..) Por isso, dada a legalidade do método utilizado pelo PROCON-SP, associado inércia da empresa-autuada, apresenta-se irrelevante a apresentação dos documentos de fls. 398/399.
+Assim, razão não assiste ao Apelante quanto aos critérios que norteiam a imposição da penalidade e o cálculo do valor da multa.
+Na hipótese dos autos, o TJSP, examinando os elementos de fato e as provas dos autos, concluiu que a conduta da recorrente caracterizou infração nos termos do art. 37, § 1º, do Código de Defesa do Consumidor, sendo admissível a aplicação da multa do art. 57 do referido diploma legal, a qual foi imposta com base em critérios de razoabilidade e proporcionalidade em valor compatível com a extensão do dano causado.
+Desse modo, alterar tal entendimento demanda, considerando as circunstâncias do caso concreto, nova análise do conjunto fático-probatório dos autos, fazendo incidir, mais uma vez, a Súmula 7/STJ.
+Por fim, constato que a conclusão do Tribunal estadual está amparada no conteúdo das portarias expedidas pelo PROCON. Dessa forma, a análise do REsp requer também a interpretação das referidas portarias, o que é inviável na via eleita, haja vista esse ato normativo não se enquadrar no conceito de tratado ou lei federal de que cuida o art. 105, III, "a", da CF/1988.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente com relação à preliminar de afronta aos arts. 489 e 1.022 do CPC, e, nessa parte, negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
