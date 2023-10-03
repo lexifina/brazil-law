@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por Valdemar Abilio de Souza contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (Fls. 217-223):
+ACIDENTE DO TRABALHO - SENTENÇA CONDENATÓRIA -REEXAME NECESSÁRIO - Sentença prolatada no processo de conhecimento, contrária aos interesses do INSS, autarquia federal, publicada após a edição da Medida Provisória nº 1.561/97, convertida na Lei nº 9.469/97, está sujeita ao duplo grau de jurisdição obrigatório.
+ACIDENTE DO TRABALHO - MAL COLUNAR - NEXO CAUSAL COMPROVADO PELA PROVA TESTEMUNHAL - BENEFIC O CONCEDIDO - SENTENÇA MANTIDA - Admissível a concessão do benefício acidentário a obreiro que, em decorrência da atividade exercida, executando movimentos repetitivos com os membros superiores apresenta mal colunar, reduzindo sua capacidade funcional.
+Naquela ocasião, o Tribunal consignou ainda o seguinte:
+Não havendo comunicação administrativa, o termo inicial do benefício é a data da juntada do laudo pericial em Juízo (04 de julho de 2006 - fls. 73), ocasião em que dado o diagnóstico da moléstia (artigo 23, da Lei nº 8.213/91).
+Assim, concedido o auxílio-acidente sob os ditames da Lei nº 9.528/97, que estabelecendo nova redação ao § 2% do artigo 86 da Lei nº 8.213/91, vedou a cumulação de auxílio-acidente com qualquer tipo de aposentadoria, torna-se necessário a observação que o auxílio-acidente não mais tem o caráter vitalício.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões de recurso especial (fls.259-271), fundamentado na alínea "a" do permissivo constitucional, o obreiro suscita violação aos arts. 535, II, do CPC/73, 18, § 2º e 86 §§ 1º e 3º, da Lei 8.213/91, 219 do CPC/15, 406 do Código Civil e 3º do Decreto Lei 2.322/87.
+Suscita, em síntese, o reconhecimento do caráter vitalício do auxílio-acidente cujo fato gerador é anterior à Lei 9.528/97, o reconhecimento dos valores devidos desde a citação e a incidência de juros sobre os atrasados em 1% ao mês.
+Sem contrarrazões, o feito foi encaminhado para juízo de retratação, tendo sido mantida o acórdão recorrido em aresto fundamentado, in verbis (fls. 301-304):
+JUÍZO DE RETRATAÇÃO. Art. 1.030, II, do CPC.
+1. Termo inicial - Inexistentes o auxílio-doença e o requerimento administrativo, o auxílio-acidente deve ter início na data da citação - Jurisprudência do Superior Tribunal de Justiça ratificada no julgamento do Tema Repetitivo 862.
+2. Correção monetária de débitos judiciais do INSS - afastada a incidência da Lei nº 11.960/2009, a partir de 30/06/2009.
+3. Juros de mora - A partir de 30/06/2009, fica mantida a aplicação do índice de remuneração da caderneta de poupança, nos termos do que o STF decidiu no RE nº 870.947, em 20/09/2017 (Tema 810 de repercussão geral).
+4. A partir de 09/12/2021, data da entrada em vigor da Emenda Constitucional nº 113, incidirá unicamente o índice da taxa SELIC, nos ternos do seu art. 3º, tanto para os juros de mora como para a correção monetária. MODIFICADO EM PARTE O ENTENDIMENTO ANTERIORMENTE ADOTADO.
+O feito foi então admitido às fls. 313/315.
+É o relatório.
+Decido.
+Pelo que se dessume do acórdão recorrido, é questão controversa delimitada no Recurso Especial interposto reverter entendimento esposado no acórdão recorrido de que o auxílio-acidente concedido ao obreiro não tem caráter vitalício, não podendo ser cumulado com aposentadoria.
+O Tribunal a quo entendeu não ser devida a cumulação, já que o benefício foi concedido sob a Lei 9.528/97.
+Quanto à referida questão, há posicionamento do STJ firmado no Tema 555, sob o rito dos recursos repetitivos, no seguinte sentido, in verbis:
+A acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, apta a gerar o direito ao auxílio-acidente, e a concessão da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991, promovida em 11.11.1997 pela Medida Provisória 1.596-14/1997, posteriormente convertida na Lei 9.528/1997.
+Entretanto, no Recurso Especial o que se afirma é que a doença do obreiro é anterior à vedação legal. Trata-se de questão que aborda controvérsia cuja Repercussão Geral foi reconhecida pelo STF no tema 599, qual seja, "acumulação da aposentadoria por invalidez com o benefício suplementar, previsto no art. 9º da Lei 6.367/76, incorporado pela normatização do atual auxílio-acidente, a teor do que dispunha o art. 86 da Lei 8.213/91, na sua redação primitiva".
+Assim, encontrando-se a matéria com repercussão geral reconhecida pelo STF, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia aqui no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse contexto, cumpre esclarecer que somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o apelo nobre deverá ser encaminhado, em sua totalidade, para este Tribunal Superior a fim de que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. AUXÍLIO ACIDENTE E APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. PRETENSÃO DE CUMULAÇÃO DOS BENEFÍCIOS. INDEFERIMENTO NA INSTANCIA ORDINÁRIA. ENTENDIMENTO EM CONSONÂNCIA COM O TEMA REPETITIVO 555 DO STJ. QUESTÃO PENDENTE DE JULGAMENTO NO SUPREMO TRIBUNAL FEDERAL. TEMA 599 DO STF. DEVOLUÇÃO DOS AUTOS A ORIGEM.
