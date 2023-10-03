@@ -1,0 +1,7 @@
+DECISÃO
+O presente recurso especial (e-STJ fls. 267/282) versa sobre tema afetado à Corte Especial do Superior Tribunal de Justiça, nos autos dos Recursos Especiais representativos da controvérsia n. 2.043.826/SC, 2.043.887/SC, 2.044.143/SC e 2.006/910/PA, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir sobre a "1) aplicabilidade da multa prevista no § 4º do art. 1.021 do CPC quando o acórdão recorrido baseia-se em precedente qualificado (art. 927, III, do CPC); 2) possibilidade de se considerar manifestamente inadmissível ou improcedente (ainda que em votação unânime) agravo interno cujas razões apontam a indevida ou incorreta aplicação de tese firmada em sede de precedente qualificado" (Tema n. 1.201/STJ).
+Nos termos do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte que tenha como fundamento idêntica questão de direito afetada será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre os recursos especiais representativos da controvérsia.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos ao TJMG, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
