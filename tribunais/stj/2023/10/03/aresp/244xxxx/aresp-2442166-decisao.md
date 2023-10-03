@@ -1,0 +1,21 @@
+DECISÃO
+BRUNO GAZZANI agrava de decisão que inadmitiu seu recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1.0079.20.012650-0/001.
+Nas razões do recurso especial, a defesa aponta a violação dos arts. 59, do Código Penal, 315, VI, 564, V e 617, do Código de Processo Penal, ao argumento de ausência de fundamentação idônea para valorar negativamente a personalidade do agente.
+Requer o provimento do recurso, a fim de que a pena-base seja fixada no mínimo legal.
+O apelo especial foi inadmitido durante o juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do reclamo (fls. 426-427).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o agravante foi condenado à pena de 2 anos, 8 meses e 20 dias de reclusão, em regime aberto, pela prática do delito previsto no art. 155, § 4º, IV, do Código Penal, em continuidade com o art. 155, § 4º, I, IV, do mesmo diploma legal.
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+No caso, o Juiz de primeiro grau considerou negativa a personalidade do réu, porquanto "verifica-se que o acusado possui outras anotações de natureza criminal (vide fls. 170/178), o que denota sua personalidade desvirtuada e afeita às práticas criminosas" (fl. 246, grifei).
+A Corte de origem, por sua vez, consignou: "A personalidade deturpada do réu, de outro lado, ao contrário do alegado, prescinde de um exame apurado, saltando ela nítida da extensa folha de antecedentes que deixa claro que o réu fazia do crime o seu meio de vida" (fl. 299).
+Sobre o tema, a Terceira Seção deste Superior Tribunal entende que "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser val oradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte" (EAREsp n. 1.311.636/MS, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 26/4/2019, grifei).
+Assim, constato a ilegalidade apontada, pois não é possível a utilização de condenações anteriores para negativar a personalidade do agente, razão pela qual o acórdão impugnado está em dissonância com a jurisprudência desta Corte Superior sobre o tema.
+Identificada a ilegalidade na primeira fase da dosimetria, passo a readequar a pena.
+Partindo dos critérios adotados pelas instâncias ordinárias e verificada a exasperação ilegal na primeira etapa, afasto a análise desfavorável da personalidade e fixo a pena-base em 2 anos de reclusão mais 10 dias-multa. Na segunda etapa, a pena permaneceu inalterada, ante a ausência de circunstâncias agravantes e atenuantes. Na terceira fase, a sanção foi elevada em 1/6, pela continuidade delitiva, o que a torna definitivamente estabelecida em 2 anos e 4 meses de reclusão mais 11 dias-multa.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de redimensionar a pena para 2 anos e 4 meses de reclusão mais 11 dias-multa.
+Publique-se e intimem-se.
+EMENTA
