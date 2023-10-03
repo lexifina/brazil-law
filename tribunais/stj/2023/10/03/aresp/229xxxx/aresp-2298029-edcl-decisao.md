@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos por JUS CIMARA LEONEL PEDROSO, a decisão de minha lavra, na qual não conheci do Agravo em Recurso Especial (fls. 276/277 e).
+Inconformada, sustenta a parte embargante que a decisão é omissa "já que emprega conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso, além de invocar motivos que se prestariam a justificar qualquer outra decisão". Ademais, alega que "impugnou especificamente todos os fundamentos da decisão recorrida" (fl. 282e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Na decisão ora embargada, inexistem vícios sanáveis via Embargos de Declaração, eis que, de modo claro, coerente e fundamentado, o recurso não foi conhecido, tendo em vista a reiteração das razões já expostas no Recurso Especial. Repise-se que o entendimento jurisprudencial desta Corte é no sentido de que a mera reprodução das razões recursais inviabiliza o exame do Agravo em Recurso Especial.
+Observa-se, portanto, que ao contrário do que pretende fazer crer a parte embargante, o decisum está suficientemente fundamentado, não havendo que se falar em qualquer dos vícios que permitem a oposição de Embargos de Declaração. O que deseja a parte embargante, em seu recurso, é a rediscussão da matéria de fundo, e não a correção dos vícios que permitem a oposição dos Aclaratórios.
+Nesse contexto, deve-se ressaltar que os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida. Nesse sentido: STJ, EDcl no AgRg no AREsp 847.491/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2016.
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
+EMENTA
