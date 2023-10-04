@@ -1,0 +1,2 @@
+Altera as Leis nºs 12.340, de 1º de dezembro de 2010, e 9.605, de 12 de fevereiro de 1998, para destinar parcela das arrecadações de recursos financeiros advindos do pagamento de multas por crimes e infrações ambientais e de acordos judiciais e extrajudiciais de reparação de danos socioambientais para o Fundo Nacional para Calamidades Públicas, Proteção e Defesa Civil (Funcap).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
