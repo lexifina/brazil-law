@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso especial interposto por HIPERCARD BANCO MÚLTIPLO S/A, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/RS.
+Recurso especial interposto em: 30/6/2023.
+Concluso ao gabinete em: 27/9/2023.
+Ação: revisional de contrato de cartão de crédito cumulada com pedido de repetição do indébito, ajuizada por LUCIANA APARECIDA RAMBOR em face da recorrente.
+Sentença: julgou procedentes os pedidos iniciais, para revisar as faturas do período de junho de 2015 a julho de 2016, devendo os juros incidirem nos mesmos percentuais da taxa médica de mercado divulgada pelo Bancen nas datas de vencimento, ficando condenada a parte ré, ora recorrente, ao ressarcimento ou compensação dos valores pagos a maior, na forma simples.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pela parte recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.
+INÉPCIA DA INICIAL.
+Preliminar de inépcia da inicial afastada, tendo em vista que os fundamentos da peça inaugural foram indicados de forma satisfatória, tendo cada um deles a respectiva defesa, demonstrando a inexistência de qualquer prejuízo à ré. Economia processual e primazia do julgamento de mérito que recomendam o enfrentamento da matéria posta a exame.
+LIMITAÇÃO DOS JUROS. TAXA DO BACEN.
+O argumento de que as taxas foram livremente pactuadas, não elide nem neutraliza a evidência de que está cobrando taxas superiores à média mensal aferida pelo BACEN. E isso a enquadra nos precedentes do STJ que consideram a ultrapassagem daquela média como indicativa da abusividade na cobrança dos encargos do empréstimo.
+O paradigma do STJ, estabelece um critério único e objetivo a ser observado no exame da abusividade da cláusula de pactuação dos juros remuneratórios em todos os contratos de empréstimo.
+Por esse prisma, não se pode criticar a eleição dessa taxa média como referencial pelo STJ, eis que, a priori, não se vislumbra, por ora, outra mais adequada para operar como padrão.
+Exame dos recursos, sob o enfoque do Recurso Repetitivo nº 1.061.530/RS.
+EXAME DA ABUSIVIDADE DOS JUROS QUE ADOTA MARGEM DE TOLERÂNCIA ENTRE OS PRATICADOS E A TABELA DO BACEN EM RAZÃO DE JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+No norte trilhado pelo eg. STJ, para verificação da configuração, ou não, de abusividade, deve-se fazer o confronto entre as taxas de juros cobradas pela instituição financeira e as constantes da tabela divulgada pelo BACEN para as mesmas operações de crédito, consoante consolidado no Julgamento efetuado pela 2ª Seção do Superior Tribunal de Justiça no REsp nº 1.061.530/RS, julgado pela sistemática dos recursos repetitivos.
+O Tribunal da Cidadania tem reiteradamente decidido no sentido de que o reconhecimento da abusividade dos juros deve ser comprovada diante de discrepância entre a taxa de média de mercado e aquela praticada pela instituição financeira.
+Mesmo com convencimento de que a taxa média do Bacen é não apenas o parâmetro para a redução do excesso de juros como, também, para a aferição dele e, de que sempre que ultrapassada, há excesso passível de redução por "processos de revisão bancária" , porque "os juros estão acima do mercado e que acrescentar-se à média outro valor, implica na distorção da própria média, fato é que que o eg. STJ tem firmado posicionamento no sentido de se admitir uma faixa razoável para a variação dos juros.
+Como o STJ é o órgão constitucionalmente competente para uniformização da jurisprudência infraconstitucional, e atenta aos ditames do art. 926 do CPC de que "os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente", acolho a orientação consignando a possibilidade de, frente ao caso concreto, aplicar posicionamento até então utilizado.
+Modificada a série utilizada para cotejo dos juros remuneratórios, visto que, a natureza contratual faz referência a modalidade correspondente à série 25477 (cartão de crédito, pessoa física, rotativo).
+De qualquer sorte, verificado que os encargos praticados no contrato ultrapassam em 10% a taxa média de mercado divulgada pelo Banco Central, cabível a revisão.
+REPETIÇÃO DO INDÉBITO.
+O pagamento resultante de cláusula contratual, declarada nula em sede judicial deve ser devolvido de modo simples, e não em dobro. No caso de ser apurado eventual excesso, poderá ser compensado com o restante da dívida, ou, se a obrigação restar quitada, a sua devolução, de forma simples.
+APELO PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pela parte recorrente, foram acolhidos, sem efeitos infringentes, apenas para retificar o percentual referente ao mês de maio.
+Recurso especial: aponta violação aos arts. 1022, II, do CPC; 1º e 4º, IX, da Lei 4.595/64; 39, 51 e 52, II, do CDC, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, que "o entendimento do Superior Tribunal de Justiça se consolidou no sentido de que, para apurar eventual abusividade dos juros remuneratórios nos contratos bancários, é necessário observar se o percentual praticado é significativamente superior à média de mercado divulgada pelo BACEN, que servirá de referencial, devendo-se, para autorização da revisão contratual, estar cabalmente demonstrada a abusividade, mediante análise concreta das peculiaridades do caso concreto, podendo se admitir uma variação de até o triplo superior ao valor médio divulgado"; e que "não é possível o mero cotejo entre a taxa pactuada e a respectiva média divulgada pelo Banco Central, tampouco definição de um patamar fixo pelo Tribunal local como critério de abusividade, sendo necessária a efetiva análise do caso concreto e suas respectivas particularidades, uma vez que a revisão contratual é medida excepcional" (e-STJ fl. 230).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que é possível a limitação dos juros remuneratórios, de forma excepcional, desde que fique cabalmente demonstrada no caso concreto a desvantagem exagerada do consumidor, não sendo suficiente para aferir a abusividade o simples fato de a taxa contratada superar a taxa média de mercado. Nesse sentido: REsp nº 1.061.530/RS, Segunda Seção, DJe 10/3/2009.
+Vê-se, assim, que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+No particular, o TJ/RS limitou os juros remuneratórios à taxa média de mercado divulgada pelo Bacen, apenas por considerar que os encargos praticados ultrapassam em 10% a referida taxa (e-STJ fl. 220), sem demostrar qualquer situação excepcional de abusividade, com a comprovação do desequilíbrio contratual ou de lucros excessivos no julgamento em concreto.
+Dessa forma, o entendimento proferido pelo Tribunal de origem diverge da jurisprudência do Superior Tribunal de Justiça sobre a matéria.
+Logo, quanto ao ponto, deve ser reformado o acórdão recorrido, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Aplica-se, na espécie, a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda novo julgamento da apelação interposta, em observância à orientação fixada por esta Corte Superior, relativamente ao critério a ser adotado na aferição de abusividade dos juros remuneratórios. Por conseguinte, fica prejudicado o exame das demais questões aventadas no presente recurso.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE CARTÃO CRÉDITO CUMULADA COM PEDIDO DE REPETIÇÃO DO INDÉBITO. JUROS REMUNERATÓRIOS. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação revisional de contrato de cartão de crédito cumulada com pedido de repetição do indébito.
+2. A jurisprudência do STJ orienta que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+3. Recurso especial conhecido e provido.
