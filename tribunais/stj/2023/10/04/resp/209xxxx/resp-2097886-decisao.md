@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE BELO HORIZONTE contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+APELAÇÃO - AÇÃO ANULATÓRIA - IPTU - ISENÇÃO - TOMBAMENTO - FATO GERADOR - LANÇAMENTO - RECURSO PARCIALMENTE PROVIDO. - O DIREITO À ISENÇÃO DO IPTU É POSTERIOR À INSCRIÇÃO NO LIVRO DE TOMBOS, E DESDE QUE MANTIDAS AS CARACTERÍSTICAS QUE AUTORIZARAM O TOMBAMENTO. - SENDO O TOMBAMENTO DATADO DE MAIO, RAZOÁVEL EXIGIR DO CONTRIBUINTE, PROPORCIONALMENTE, O IMPOSTO RELATIVO A PARTE DO EXERCÍCIO DE 2012. - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente sustenta violação aos artigos 489, § 1º, IV, e 1.022, I e II, parágrafo único, do CPC/2015; e 144 e 167 do Código Tributário Nacional - CTN.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+No mérito, defende que ao tempo do fato gerador do IPTU o tombamento não recaia sobre os imóveis, devendo ser reconhecido que o lançamento do mencionado tributo está consonância com os ditames da legislação em vigor, em conformidade com o disposto no art. 144 do CTN.
+Contrarrazões ao recurso especial às fls. 269/278.
+Decisão de admissibilidade às fls. 321/326.
+É o relatório. Decido.
+Antes de tudo, a decisão de origem negou seguimento ao recurso especial aplicando tese consolidada em sede de repetitivo proferido pelo STJ (Tema 905), quanto a aplicação do regramento do art. 1º-F da Lei 9.494/1997.
+Cumpre asseverar que a decisão de inadmissibilidade do especial proferida pelo Tribunal a quo, em parte foi baseada no artigo 1.030, § 2º, do CPC/2015, que é expresso ao prever o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do CPC/2015, nega seguimento ao recurso especial, in verbis:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+ ..
+V - realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que:
+ ..
+§ 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Destarte, inviável o recurso especial quanto ao ponto relacionado ao tema mencionado, razão pela qual passo a análise da matéria remanescente.
+Consta do v. acórdão de origem:
+Pretendem os apelantes desconstituir os lançamentos tributários alusivos ao IPTU do ano de 2012, incidente sobre os imóveis situados na Rua Santa Catarina, nº 746, Bairro de Lourdes e Avenida Afonso Pena, nº 2.161, Bairro Funcionários, em Belo Horizonte, aduzindo fazerem jus à isenção tributária de referido exercício, porquanto referidos imóveis foram tombados pela autoridade administrativa competente em maio de 2012, fls. 61 e 64-TJ, sendo incontroverso que já experimentavam os efeitos do tombamento muito antes de citada data. Nesses contornos, de se registrar que, no âmbito do Município de Belo Horizonte, regulamentando o disposto no art. 215 e no art. 216, da CF/88, o art. 11, da Lei Municipal n. 3.802184, recepcionado pelo aludido diploma constitucional, estatui que  ..  Logo, do cotejo dos referidos dispositivos legais, exsurge a conclusão de que o direito à isenção do IPTU é posterior á inscrição no Livro de Tombos, e desde que mantidas as características que autorizaram o tombamento. A esse respeito, de se esclarecer que o IPTU é imposto de competência dos municípios, incidente sobre a propriedade territorial urbana, que tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou acessão física, localizado na zona urbana do município (art. 35, do CTN); que possui como base de cálculo o valor venal do imóvel (art. 33, do CTN); e como contribuinte o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a qualquer título (art. 34, do CTN), no dia 10 de janeiro de cada exercício financeiro. Destarte, o fato gerador do IPTU se dá em 10 de janeiro e se refere a todo o ano, sendo certo que, em 0110112012, os imóveis ainda não estavam tombados pelo Patrimônio Histórico, obstando, portanto, que a isenção abranja os meses anteriores ao ato administrativo de registro do tombamento.  ..  Lado outro, no que concerne ao pedido eventual, para que o valor do IPTU observe a isenção posterior a 17/05/2012, razão assiste ao recorrente. Por certo, em sendo o tombamento datado de maio, descabido exigir do contribuinte o imposto relativo a todo o período, de forma que, em sendo o ato administrativo datado de 17/05/2012, devem os valores correspondentes ser proporcionalmente restituídos.
+A despeito do que constou do acórdão recorrido, verifica-se que o Tribunal de origem não se pronunciou de forma adequada sobre a seguinte alegação:
+Com efeito, pediu o Município, em seus Declaratórios, expressa manifestação quanto ao disposto no art. 144 do CTN, estando evidenciada a contradição existente no acórdão - que reforça a impossibilidade de desconsiderar a data da ocorrência do fato gerador e considerar a isenção para meses posteriores ao tombamento.
+Cumpre registrar que tal alegação foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, os quais foram rejeitados, persistindo a omissão destacada.
+Para fins de conhecimento do recurso especial, é indispensável a prévia manifestação do Tribunal a quo acerca da tese de direito suscitada, ou seja, a ausência de prequestionamento impede o conhecimento do recurso (Súmulas 282 e 356 do STF e Súmula 211/STJ). Assim, tratando-se de questão relevante para o deslinde da causa que foi suscitada no momento oportuno e reiterada em sede de embargos de declaração, a ausência de manifestação sobre ela caracteriza ofensa ao art. 1.022 do CPC/2015. Verificada tal ofensa, em sede de recurso especial, impõe-se, em regra, a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão.
+No mesmo sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. APELAÇÃO. SUPOSTA INTEMPESTIVIDADE. OMISSÃO CONFIGURADA.
+1. Apesar de provocada pela via dos embargos declaratórios, a Corte de origem não se pronunciou efetivamente sobre a tese articulada em torno da ocorrência de julgamento extra petita e de reformatio in pejus consistentes na redução da alíquota do ITCD sem que houvesse apelação do contribuinte, mas apenas do Fisco Estadual.
+2. Caracterizado o vício da omissão, impõe-se o reconhecimento de ofensa ao art. 535 do CPC, anulando-se o acórdão proferido no julgamento dos embargos de declaração e determinando-se o retorno dos autos à origem para que seja sanada a eiva apontada, prejudicada a análise dos demais tópicos.
+3. Recurso especial provido.
+(REsp 1.187.583/RS, 2ª Turma, Rel. Min. Castro Meira, DJe de 17.5.2010)
+PROCESSUAL CIVIL. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA.
+1. Caracteriza-se ofensa ao art. 535 do Código de Processo Civil se o Tribunal de origem deixar de pronunciar-se acerca de matéria veiculada pela parte sobre a qual era imprescindível manifestação expressa. Determinação de retorno dos autos para que se profira nova decisão nos Embargos de Declaração.
+3. Embargos Declaratórios acolhidos com efeitos infringentes.
+(EDcl no AgRg no REsp 1.137.175/RJ, 2ª Turma, Rel. Min. Herman Benjamin, DJe de 6.4.2010)
+Assim, merece ser provido o recurso especial, a fim de anular o aresto proferido em sede de embargos de declaração, determinando-se o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
