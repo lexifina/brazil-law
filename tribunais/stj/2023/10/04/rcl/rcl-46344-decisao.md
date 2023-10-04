@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de reclamação constitucional ajuizada por João Batista dos Santos, com fundamento no art. 105, I, "f", da Constituição Federal e art. 988 e seguintes do Código de Processo Civil, em face de decisão monocrática prolatada pelo Vice-Presidente do TRF da 3ª Região na apelação Cível n. 5048624-14.2021.4.03.9999, uma vez que a controvérsia julgada estaria afetada a julgamento de repetitivo (tema 1.124/STJ), ainda pendente de julgamento.
+Aduz a reclamante, em síntese, que o decisum do TRF da 3ª Região "contrariou a decisão proferida por este tribunal nos autos do Resp 1.894.637-SC, que recusou a adequação do julgado" ao julgamento de repetitivo.
+Deferido o pedido de Assistência Judiciária Gratuita na origem (fl. 85).
+É o relatório. Passo a decidir.
+A reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015, constitui incidente processual destinado à preservação da competência deste Superior Tribunal de Justiça (inciso I), a garantir a autoridade de suas decisões, no próprio caso concreto, em que o Reclamante tenha figurado como parte, (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+Desse modo, por absoluta falta de previsão legal: "É incabível o ajuizamento de reclamação contra decisão que defere ou indefere o sobrestamento do feito em razão de processamento de pedido de uniformização ou recurso especial repetitivo." (AgInt na Rcl n. 31.193/SC, rel. Regina Helena Costa, Primeira Seção, DJe de 20/10/2021.)
+No caso, repita-se, a Reclamante se insurge contra a decisão que postergou o juízo de admissibilidade de recurso especial interposto na origem para data posterior ao julgamento do REsp 1.905.830/SP e do REsp 1.912.784/SP, afetados para julgamento dos recursos representativos de controvérsia, pelo Superior Tribunal de Justiça.
+Assim, a pretensão deve ser rechaçada pois o assinalado recurso representativo da controvérsia ainda não foi julgado pelo STJ, o que justifica o sobrestamento de todos os recursos na origem, seja no Tribunal de segundo grau seja nesta Corte.
+Ante o exposto, não conheço da reclamação, com fundamento no artigo 34, XVIII, a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO ULTILIZADA PARA IMPUGNAR DECISÃO DA CORTE DE ORIGEM QUE POSTERGOU O JUÍZO DE ADMISSIBILIDADE DE RECURSO ESPECIAL PARA DATA POSTERIOR AO JULGAMENTO DEFINITIVO DE RECURSOS REPRESENTATIVOS DE CONTROVÉRSIA PELO STJ. IMPOSSIBILIDADE. RECLAMAÇÃO NÃO CONHECIDA.
