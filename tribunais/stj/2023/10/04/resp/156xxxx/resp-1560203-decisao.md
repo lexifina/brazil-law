@@ -1,0 +1,7 @@
+DECISÃO
+Estando em curso o prazo para apresentação de eventual inconformismo contra a decisão de fls. 1.784-1.787 (e-STJ), foram juntadas aos autos as Petições n. 988.138/2023 e 988.145/2023, por intermédio das quais o autor/recorrido, Dilmar de Arruda Campos, e os corréus/recorrentes João Batista Nunes Rondon Filho, Antônio Sebastião da Costa Marques, Jânio Márcio Rondon e Jorge Luis de Arruda e Silva, devidamente representados pelos respectivos advogados, noticiam a celebração de acordo para encerrar o litígio, tendo solicitado a sua homologação.
+Com amparo na redação conferida ao art. 34, IX, do RISTJ pela Emenda Regimental n. 24/2016, homologo o acordo celebrado por Dilmar de Arruda Campos, João Batista Nunes Rondon Filho, Antônio Sebastião da Costa Marques, Jânio Márcio Rondon e Jorge Luis de Arruda e Silva, na forma do instrumento de fls. 1.791-1.792 (e-STJ), replicado às fls. 1.794-1.795 (e-STJ), a fim de que produza seus jurídicos e legais efeitos.
+Em consequência, torno sem efeito a decisão de fls. 1.784-1.787 (e-STJ) e julgo extinto o processo com resolução de mérito apenas em relação às referidas partes, nos termos do art. 487, III, "b", do CPC/2015.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, devolver os autos conclusos para julgamento do agravo em recurso especial interposto por Central das Cooperativas de Crédito dos Estados de Mato Grosso e Mato Grosso do Sul - SICOOB Central MT/MS (e-STJ, fls. 1.462-1. 468).
+Publique-se.
+EMENTA
