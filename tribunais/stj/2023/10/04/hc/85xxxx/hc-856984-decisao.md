@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VALDEREDO LUIZ CORDEIRO em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (Apelação Criminal 5004077-49.2014.4.04.7203/SC).
+O paciente foi absolvido da imputação do delito previsto no art. 334, § 1º, c, do Código Penal.
+O recurso de apelação interposto pelo Ministério Público Federal foi provido pelo Tribunal de origem a fim de condenar o paciente à pena de 3 anos, 1 mês e 10 dias de reclusão no regime semiaberto, pela prática do tipo penal supracitado.
+A defesa alega: a) equívoco na fixação da pena-base, visto que o "o TRF4 partiu da pena mínima cominada ao delito dada redação nova do art. 334-A do CP (2 anos) e não a pena mínima prevista no art. 334, § 1º, c, do CP (1 ano)." (e-STJ, fl. 5); e b) ocorrência da prescrição da pretensão punitiva, nos termos dos arts. 107, IV e 109, V, do Código Penal.
+Requer liminar para suspensão do acórdão recorrido e, definitivamente, deferimento da ordem para sanar o erro formal na dosimetria da pena e, consequentemente, declarar extinta a punibilidade pela prescrição.
+É o relatório.
+As matérias relativas ao parâmetro utilizado pelo Tribunal de origem para a fixação da pena-base imposta ao paciente, bem como sobre possível ocorrência da prescrição da pretensão punitiva não foram apreciadas no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. ROUBO MAJORADO ( POR TRÊS VEZES), TENTATIVA DE ROUBO MAJORADO E RECEPTAÇÃO. RECONHECIMENTO. FOTOGRÁFICO. PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. ABSOLVIÇÃO. DESCABIMENTO. AUTORIA ESTABELECIDA COM BASE EM OUTROS ELEMENTOSPROBATÓRIOS. PRECEDENTES. DOSIMETRIA. ART. 68, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. MAJORANTES. CÁLCULO CUMULATIVO. FUNDAMENTAÇÃO IDÔNEA. PRETENDIDA APLICAÇÃO DA CONTINUIDADE DELITIVA. INEXISTÊNCIA DE UNIDADE DE DESÍGNIOS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. TESES RELATIVAS A EXASPERAÇÃO DA PENA-BASE E AGRAVANTE DA CALAMIDADE PÚBLICA. MATÉRIAS NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO INSTÂNCIA. INOVAÇÃO RECURSAL. AGRAVO DESPROVIDO.
+ ..
+V - Ademais, para chegar a conclusões diversas Tribunal de origem e acolher a tese da defesa, demandaria inevitável reanálise fático-probatória dos autos, medida incompatível na estreita via do habeas corpus. A corroborar tal entendimento, confiram-se estes julgados: AgRg no HC n. 659.946/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 7/6/2021; e AgRg no HC n. 616.743/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/10/2020.
+VI - Por fim, as alegações defensivas sobre o aumento da pena-base em razão do concurso de pessoas e a agravante da calamidade pública, a despeito da oposição de embargos de declaração, não foram apreciadas pelo Tribunal de origem, pois não foi ventilada nas razões da apelação, caracterizando inovação recursal. Logo, é inviável o enfrentamento dos temas por esta Corte Superior diretamente, sob pena de incorrer em indevida supressão de instância. Nesse sentido, confiram-se os seguintes julgados: AgRg no RHC n. 113.160/PI, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 10/9/2019 e RHC n.116.635/SC, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 9/10/2019.
+Agravo regimental desprovido.
+(AgRg no HC 675.140/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/5/2023, DJe de 12/5/2023)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
