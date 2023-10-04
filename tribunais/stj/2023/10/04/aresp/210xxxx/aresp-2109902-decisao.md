@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por JBA CONSTRUÇÃO E INCORPORAÇÃO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 108):
+DIREITO PROCESSUAL CIVIL. TÍTULO EXTRAJUDICIAL. EXECUÇÃO. ACORDO ANTERIOR. CITAÇÃO VÁLIDA. AUSÊNCIA. INTERESSE DE AGIR. PERDA SUPERVENIENTE. PRESSUPOSTO. DESENVOLVIMENTO VÁLIDO. PERDA. PROCESSO. EXTINÇÃO. CABIMENTO.1. O acordo extrajudicial celebrado entre as partes em momento anterior à citação válida, implica na perda superveniente do interesse de agir, retirando um pressuposto de desenvolvimento válido e regular do processo, levando à extinção do feito sem resolução de mérito, nos termos do artigo 485, IV e VI, do CPC. Precedentes. 1.1. A mera assinatura do executado no acordo não tem aptidão para suprir o ato citatório2. Recurso conhecido e desprovido.
+Embargos de declaração rejeitados (fls. 139-154).
+No recurso especial, alega a recorrente ofensa aos arts. 17, 18, 103, 189, 239, 282, 485 e 487 do Código de Processo Civil e 841 do Código Civil, ao defender, em síntese, que a celebração de acordo extrajudicial entre as partes, após a distribuição e o recebimento do feito executório e antes da citação formal, constitui transação de direitos e deveres suficiente a justificar o suprimento da citação formal, a apreciação do mérito e a homologação do acordo.
+Afirma que a transação firmada pelas partes está em total adequação ao ordenamento jurídico, livre de vícios formais e/ou materiais, bem como que estão demonstrados a legitimidade e o interesse das partes, ainda que desassistidas por advogado, razão pela qual se impõe, de rigor, a homologação do acordo, razão por que não poderia o feito ter sido extinto sem resolução do mérito.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta corte.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 210-211), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, o Juízo de primeiro grau extinguiu o processo com fundamento na perda superveniente do interesse processual, ressaltando não ser possível a homologação de acordo firmado antes da citação, já que os executados não foram representados por advogado.
+Defende a agravante, no caso dos autos, em síntese, que a celebração de acordo extrajudicial entre as partes, após a distribuição e o recebimento do feito executório e antes da citação formal, constitui transação de direitos e deveres suficiente a justificar o suprimento da citação formal, a apreciação do mérito e a homologação do acordo, e não fundamento para a extinção do feito conforme entendeu o Tribunal de origem.
+Merece prosperar o recurso.
+Com efeito, nos termos da jurisprudência desta c orte, "apresentado o acordo, cabe ao juiz averiguar a presença dos requisitos necessários à sua homologação, mesmo que o executado não esteja representado por advogado".
+Nesse sentido, cito:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HOMOLAÇÃO. ACORDO EXTRAJUDICIAL. ANTES DA CITAÇÃO. PARTE NÃO REPRESENTADA POR ADVOGADO. INTERESSE DE AGIR. PRESENÇA.
+1. Recurso especial interposto em 22/01/2019 e concluso ao gabinete em: 27/02/2019.
+2. O propósito recursal consiste em determinar se a celebração de acordo extrajudicial entre a recorrente e os recorridos - respectivamente, exequente e executados -, após a distribuição do processo, mas antes da citação, constitui transação a ser homologada judicialmente, mesmo sem a presença de advogados constituídos pelos executados.
+3. Ausentes a omissão, a contradição e o erro material, não há ofensa ao art. 1.022 do CPC/2015.
+4. Configura-se perda superveniente de interesse processual quando não se tem mais necessidade de prosseguir com a ação para obter o resultado útil que pretendiam quando a propuseram, o que não se verifica na hipótese.
+5. Esta Corte Superior afirmou em julgamento recente da Terceira Turma que "a presença voluntária do réu ou do devedor só para firmar acordo, sem a presença de advogado constituído, difere do comparecimento para apresentação de defesa, hipótese que não supre a citação".
+6. Necessidade de Tribunal de origem verificar a presença dos requisitos para a homologação do acordo submetido pelas partes.
+7. Recurso conhecido e parcialmente provido.
+(REsp n. 1.798.423/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/9/2020, DJe de 28/9/2020.)
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TRANSAÇÃO EXTRAJUDICIAL. AUSÊNCIA DE CITAÇÃO. HOMOLOGAÇÃO. POSSIBILIDADE. INTERESSE DE AGIR. PRESENÇA.
+1. Ação de execução de título extrajudicial ajuizada em 30/11/2021, da qual foi extraído o presente recurso especial interposto em 14/02/2023 e concluso ao gabinete em 19/04/2023.
+2. O propósito recursal consiste em definir se a transação extrajudicial celebrada entre as partes, após a distribuição do processo, mas antes da citação, pode ser homologada judicialmente, mesmo sem a presença de advogado constituído pela parte ré ou executada.
+3. A autocomposição é gênero do qual, dentre outros, a transação é espécie. Além de encontrar previsão no CPC/2015, a transação também é regulamentada no CC/02, no Título V, que versa sobre os contratos.
+Ou seja, a transação é um negócio jurídico bilateral de direito material. A homologação judicial não é elemento constitutivo da transação, a qual cria direito material e gera efeitos independentemente de sentença.
+4. A transação pode ser celebrada na via judicial ou extrajudicial. Ainda que firmada extrajudicialmente, é possível a homologação judicial, com vistas à obtenção de um título executivo judicial e à formação de coisa julgada material (arts. 487, III, "b"; 515, III e 725, VIII, do CPC/2015). A ausência de advogado constituído nos autos pela parte ré ou executada não constitui óbice à homologação da transação pactuada entre as partes, desde que preenchidos os requisitos legais, porquanto a lei não exige capacidade postulatória. Esta apenas tem relevância para a condução do processo e não para a transação, que é negócio jurídico.
+5. A transação extrajudicial prévia à citação não caracteriza perda superveniente do interesse de agir a ensejar a extinção do processo sem resolução do mérito (art. 485, IV, do CPC/2015). Mesmo com a realização da transação, qualquer das partes que dela participaram tem interesse em postular, em juízo, a homologação do acordo. E, especificamente no âmbito da execução, se houver ajuste entre as partes, o juiz declarará suspensa a execução durante o prazo concedido pelo exequente para que o executado cumpra voluntariamente a obrigação e, findo o prazo sem cumprimento, o processo retomará o seu curso (art. 922 do CPC/2015).
+6. Na espécie, o juízo de primeiro grau extinguiu o processo com fundamento na perda superveniente do interesse processual, ressaltando não ser possível a homologação de acordo firmado antes da citação, já que os executados não foram representados por advogado. Todavia, apresentado o acordo, cabe ao juiz averiguar a presença dos requisitos necessários à sua homologação, mesmo que o executado não esteja representado por advogado.
+7. Recurso especial conhecido e provido.
+(REsp n. 2.062.295/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 8/8/2023, DJe de 14/8/2023.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de determinar o retorno à origem para que proceda à análise dos requisitos para a homologação do acordo apresentado pelas partes.
+Publique-se. Intimem-se.
+ EMENTA
