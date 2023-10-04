@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE ANTONIO CONTEL ANZULIM contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+EXECUÇÃO FISCAL - ICMS - EXCEÇÃO DE PRÉ- EXECUTIVIDADE ACOLHIDA  RECONHECIDA A OCORRÊNCIA DA PRESCRIÇÃO QÜINQÜENAL INTERCORRENTE - EXECUÇÃO EXTINTA - INSURGÊNCIA APENAS CONTRA O VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS - AÇÃO DE NATUREZA SIMPLES E VALOR MÓDICO DO DÉBITO EXECUTADO - HONORÁRIOS REAJUSTADOS  RECURSO DE APELAÇÃO PROVIDO EM PARTE.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação ao artigo 85, §§ 2º, 6º e 8º, do CPC/2015.
+Defende que a fixação da verba honorária deve respeitar o critério objetivo da lei processual, não sendo o caso sob análise a hipótese de aplicação da equidade.
+Contrarrazões ao recurso especial às fls. 523/539.
+Decisão de admissibilidade às fls. 553/554.
+É o relatório. Decido.
+A Corte de origem, invocando o art. 85, § 8º, do CPC/2015, fixou os honorários advocatícios em R$ 200,00 para cada execução.
+Contudo, em sede de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Fernandes), a Corte Especial/STJ firmou as seguintes teses jurídicas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso concreto, verifica-se que o acórdão recorrido está em dissonância com as teses supra, razão pela qual se impõe o provimento do recurso especial, a fim de que a verba honorária seja fixada nos termos do art. 85, §§2º, 3º e 5º, do CPC/2015 (observando-se o percentual mínimo de cada inciso do §3º), cujo quantum deverá ser apurado em fase de liquidação.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CAUSAS EM QUE A FAZENDA PÚBLICA FOR PARTE. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. OBSERVÂNCIA DOS PERCENTUAIS PREVISTOS NO § 3º DO ART. 85 CPC/2015. RECURSO ESPECIAL PROVIDO.
