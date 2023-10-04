@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de LEANDRO CARVALHO GOMES contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação Criminal n. 5003633-20.2020.8.21.0018.
+Consta nos autos que o Paciente foi condenado, em primeiro grau, com outros corréus, às penas de 10 (dez) anos, 3 (três) meses e 19 (dezenove) dias de reclusão, em regime inicial fechado, e 1.200 (mil e duzentos) dias-multa, pela prática dos delitos previstos nos arts. 33, caput, e 35, caput, c.c. o art. 40, inciso III, todos da Lei n. 11.343/2006.
+Foram apreendidos com o Paciente e os corréus 781g de maconha.
+Irresignada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento. Em seguida, os respectivos embargos de declaração foram rejeitados e o recurso especial defensivo inadmitido.
+Neste writ, o Impetrante alega que o tipo penal do art. 35 da Lei n. 11.343/2006 não está configurado e que o Paciente preenche os requisitos para a aplicação da causa de diminuição da pena prevista no § 4.º do art. 33 da Lei de Drogas, termos em que requer a concessão da ordem de habeas corpus.
+Foram prestadas informações às fls. 1122-1178.
+O Ministério Público Federal manifestou-se às fls. 1183-1194, opinando "pela concessão da ordem para absolver o paciente da imputação do crime de associação para o tráfico de drogas, aplicar a minorante do tráfico privilegiado na fração de 2/3 (dois terços), fixar o regime inicial aberto, substituir a pena corporal por restritivas de direitos e, de ofício, fixar a pena-base no mínimo legal" (fl. 1193).
+É o relatório.
+Decido.
+Nos os autos do HC n. 824.265/RS, também de minha relatoria, as matérias tratadas no presente writ já foram objeto de decisão, na qual foi concedida a ordem em favor de Corréu para absolvê-lo quanto ao crime de associação para o tráfico de drogas e redimensionar as penas quanto ao crime de tráfico de drogas, reconhecendo a minorante prevista no § 4.º do art. 33 da Lei n. 11.343/2006, com extensão da medida ao Paciente, nos seguintes termos (fls. 1196-1198 - HC 82 4.265/RS):
+" Fixadas essas premissas, passo a redimensionar as penas do Paciente e dos corréus, EDINALDO FRANCIS PEREIRA DE SOUZA e WILLIAN TAVARES RODRIGUES.
+Na primeira fase, mantenho as penas-bases acima do mínimo legal, nos moldes fixados pelas instâncias ordinárias: 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase, ausentes atenuantes e agravantes, as penas permanecem inalteradas.
+Na terceira fase, incide a causa de aumento do inciso III do art. 40 da Lei de Drogas, de forma que as penas são acrescidas em 1/6 (um sexto), indo a 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão e 680 (seiscentos e oitenta) dias-multa. Nos termos dessa decisão, aplico a minorante do tráfico privilegiado, na fração de 2/3 (dois terços), de forma que ficam estabelecidas as reprimendas do Paciente e dos corréus em 2 (dois) anos, 3 (três) meses e 7 (sete) dias de reclusão e 227 (duzentos e vinte e sete) dias-multa.
+Considerando o quantum de pena estabelecido, a primariedade dos Condenados e a fixação das penas-bases acima do mínimo legal, ante a presença de circunstância judicial desfavorável, mostra-se cabível a fixação do regime inicial semiaberto, conforme o disposto no art. 33, § 2.º, alínea b, e § 3.º, do Código Penal.
+Saliento que " n ão há como determinar a substituição da pena privativa de liberdade por restritiva de direitos, por ausência de cumprimento do requisito subjetivo (circunstância judicial desfavorável, com a fixação da pena-base acima do mínimo legal - art. 44, III, do Código Penal) (AgRg no AREsp 1058790/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/08/2018, DJe 09/08/2018)" (AgRg no HC 527.992/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019).
+ ..
+Ante o exposto, CONCEDO PARCIALMENTE a ordem de habeas corpus, inclusive com concessão de ofício, para absolver o Paciente quanto ao crime de associação para o tráfico de drogas e redimensionar as penas do Paciente quanto ao crime de tráfico de drogas, nos termos desta decisão, e fixar o regime inicial semiaberto, com extensão da medida aos corréus, EDINALDO FRANCIS PEREIRA DE SOUZA e WILLIAN TAVARES RODRIGUES, nos termos do art. 580 do Código de Processo Penal."
+Portanto, ante a superveniência de provimento judicial acerca d os temas, constata-se a perda de objeto deste writ.
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. AUSÊNCIA DE CONFIGURAÇÃO DO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4.º DO ART. 33 DA LEI DE DROGAS. MATÉRIAS DECIDIDAS NO HC. N. 824.265/RS EM FAVOR DE CORRÉU COM EXTENSÃO AO PACIENTE. PERDA DE OBJETO. PEDIDO DE HABEAS CORPUS PREJUDICADO.
