@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, com fundamento, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/GO.
+Recurso especial interposto em: 24/8/2023.
+Concluso ao gabinete em: 2/10/2023.
+Ação: de embargos à execução, opostos pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, no exercício de curatela especial de KINGO KIHARA, em desfavor do BANCO BRADESCO S/A.
+Sentença: julgou improcedentes os embargos à execução, determinando o regular prosseguimento da ação executiva.
+Acórdão: deu parcial provimento ao recurso de apelação interposto pelo recorrido, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PEDIDO ANALISADO DE FORMA INCONGRUENTE COM A MANIFESTAÇÃO DA PARTE AUTORA. JULGAMENTO EXTRA PETITA. NULIDADE ABSOLUTA. APLICAÇÃO DA TEORIA DA CAUSA MADURA. TARIFA GENÉRICA. AFASTAMENTO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. DEFENSORIA PÚBLICA. AUSÊNCIA DE CABIMENTO.
+1. Consoante o princípio da adstrição e congruência (artigos 141 e 492 do CPC/2015), o magistrado deve decidir a lide dentro dos limites objetivados pelas partes, não podendo proferir sentença de forma "extra", "ultra" ou "infra petita". 2. Constatado error in procedendo por parte do julgador, que incidiu em realidade extra petita, impõe-se a cassação da sentença combatida. 3. Nos termos do artigo 1.013, § 3º, do Código de Processo Civil, é cabível o julgamento da lide pelo Tribunal quando a demanda estiver apta a ser julgada. 4. A cláusula genérica correspondente ao pagamento de tarifa, sem especificar no que consiste a contraprestação, revela-se abusiva, afrontando os princípios da boa-fé objetiva, informação e transparência. 5. Em que pese a inversão dos ônus sucumbenciais, quanto aos honorários de sucumbência em favor da Defensoria Pública do Estado de Goiás, este Tribunal de Justiça uniformizou o tratamento dado à matéria por meio do julgamento do Incidente de Arguição de Inconstitucionalidade nº 5113935-10.2019.8.09.0011, tendo o Órgão Especial declarado a inconstitucionalidade do art. 4º, XXI, da Lei Complementar n. 80/1994, e do art. 1º da Lei Estadual n. 17.654/2012, os quais preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual. APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA CASSADA. EMBARGOS À EXECUÇÃO ACOLHIDOS.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação ao art. 4º, XXI, da Lei Complementar nº 80/94, argumentando que são devidos honorários advocatícios sucumbenciais à Defensoria Pública nos processos em que ela logra êxito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos honorários sucumbenciais devidos à defensoria pública
+Aduz a parte recorrente que são devidos honorários advocatícios sucumbenciais à Defensoria Pública nos processos em que ela logra êxito.
+A Corte de origem, não obstante, afastou a referida condenação, verbis:
+"(..) deixo de fixar os honorários sucumbenciais em favor do apelante, porquanto este Tribunal de Justiça uniformizou o tratamento dado à matéria por meio do julgamento do Incidente de Arguição de Inconstitucionalidade nº 5113935-10.2019.8.09.0011, tendo o Órgão Especial declarado a inconstitucionalidade do art. 4º, XXI, da Lei Complementar n. 80/1994, e do art. 1º da Lei Estadual n. 17.654/2012, os quais preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual." (e-STJ fl. 124)
+Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimento de que "a Defensoria Pública, no exercício da função de curador especial, faz jus à verba decorrente da condenação em honorários sucumbenciais caso o seu assistido sagre-se vencedor na demanda" (AgInt no REsp 1.787.471/DF, Quarta Turma, julgado em 27/8/2019, DJe de 11/9/2019).
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. DEFENSORIA PÚBLICA ESTADUAL. CURADOR ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. CONDENAÇÃO DO MUNICÍPIO.
+1. Discute-se se Defensoria Pública Estadual pode receber honorários sucumbenciais quando seus membros atuarem na qualidade de curadores especiais.
+2. O embargante alega não se insurgir contra a orientação adotada no julgamento do REsp 1.108.013/RJ, representativo de controvérsia, que deu origem à Súmula 421/STJ (Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença). Argumenta apenas que descabe a condenação do Município em honorários advocatícios quando os defensores públicos atuarem na qualidade de curadores especiais, ante a vedação prevista no artigo 130, inciso III, da LC 80/94.
+3. O artigo 130, inciso III, da LC 80/94 proíbe o recebimento pessoal dos honorários pelos defensores públicos, mas não o auferimento da verba com a destinação aos fundos geridos pela Defensoria Pública, consoante previsto no inciso XXI, do artigo 4º, da LC 80/94, o qual consigna expressamente competir àquela instituição executar e receber as verbas sucumbenciais decorrentes de sua atuação.
+4. Concluir-se diversamente implicaria ofensa ao princípio da causalidade e da isonomia. Com efeito, aquele que deu causa à instauração do processo deve responder pelas despesas dele decorrentes. Não é razoável exigir-se os honorários quando a parte vencedora é representada por curador nomeado sem vínculo com o Estado e dispensá-los justamente quando o ente estatal cumpre sua missão constitucional e oferece assistência judiciária por meio da Defensoria Pública.
+5. Embargos de divergência não providos.
+(EREsp 1.060.459/MG, Corte Especial, julgado em 24/11/2011, DJe de 1/2/2012.)  g.n.
+No mesmo sentido: AgInt no REsp 1.991.998/RS, Primeira Turma, julgado em 5/9/2022, DJe de 8/9/2022; AgRg no REsp 1.225.561/SP, Quarta Turma, julgado em 6/9/2012, DJe de 19/9/2012; REsp 1201674/SP, Corte Especial, julgado em 6/6/2012, DJe 1º/8/2012.
+Desse modo, merece reforma o acórdão recorrido, para fixar os honorários sucumbenciais em favor da Defensoria Pública em 15% sobre o valor da condenação, nos termos do art. 85, § 2º, do CPC/15.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para fixar os honorários sucumbenciais em favor da Defensoria Pública em 15% sobre o valor da condenação, nos termos do art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DEFENSORIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ARBITRAMENTO. POSSIBILIDADE.
+1. Embargos à execução.
+2. Nos termos da jurisprudência desta Corte, a Defensoria Pública, no exercício da função de curador especial, faz jus à verba decorrente da condenação em honorários sucumbenciais caso o seu assistido se sagrar vencedor no processo. Precedentes.
+3. Recurso especial conhecido e provido.
