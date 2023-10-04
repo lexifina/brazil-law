@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JERRY TCHIDI DANIEL, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2034064-02.2023.8.26.0000).
+Depreende-se dos autos que o paciente é acusado por suposta infração ao artigo 33, caput, da Lei nº 11.343/06.
+O Tribunal de origem denegou o habeas corpus lá impetrado, nos termos da ementa abaixo (fl. 18):
+1-) "Habeas Corpus" com pedido liminar. Tráfico ilícito de entorpecentes.
+2-) Pleito de reconhecimento de nulidade das provas, por ilegalidade da busca pessoal, e trancamento da ação penal.
+3-) A r. decisão impugnada apresenta-se suficientemente motivada.
+4-) Verifica-se que a busca policial se deu de forma legal. Havia fundada suspeita de que estivesse ocultando algo ilícito, o paciente carregava uma sacola e apresentou nervosismo com a presença dos policiais no local, ensejando sua abordagem. Ele estava em situação de flagrância (foram localizados em sua posse 701,2g de cocaína),sendo lícita a busca pessoal, conduta legitimada pela ressalva à inviolabilidade da intimidade, art. 5º, X, da Constituição Federal.
+5-) Pleito para trancamento da ação penal. Impossibilidade. O remédio constitucional pode ser usado para a finalidade almejada se não houver necessidade de revolvimento da matéria fático-probatória, na hipótese, é imprescindível.
+6-) Ordem denegada.
+No presente writ, sustenta a defesa a flagrante ilegalidade na realização de busca pessoal sem fundadas suspeitas, lastr eada apenas no nervosismo do paciente com a presença de policiais no local, sendo ilícitas as provas dela derivadas.
+Requer, ao final, a absolvição do paciente.
+As informações foram prestadas às fls. 84-131.
+O Ministério Público Federal manifestou-se, às fls. 135-139, pela concessão da ordem, nos termos da seguinte ementa:
+Direito Penal e Processual Penal. Habeas Corpus substitutivo de recurso. Inadequação. Tráfico ilícito de entorpecentes. Apreensão de 701,2 g de cocaína. Busca pessoal ilegal. Abordagem policial sem fundada suspeita. Nulidade das provas obtidas em decorrência da diligência.  Requer-se o não conhecimento do habeas corpus e a concessão da ordem, de oficio, para reconhecer a nulidade das provas obtidas mediante busca pessoal e, em consequência, trancar o processo.
+É o relatório.
+Decido.
+No que tange à suposta nulidade absoluta, configurada pela realização de prisão em flagrante, esta Corte firmou o posicionamento de que, "consoante disposto no art. 301 do CPP, "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito"." (AgRg no HC n. 748.019/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+Assim, há que se considerar o que está disposto no art. 303 do Código de Processo Penal, segundo o qual "nas infrações permanentes, entende-se o agente em flagrante delito enquanto não cessar a permanência", conforme entendimento desta Corte de Justiça, em especial, mutatis mutandis, nos AgRg no AREsp n. 2.224.876/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, julgado em 16/5/2023, DJe de 22/5/2023; AgRg no REsp n. 2.027.118/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, julgado em 15/5/2023, DJe de 18/5/2023; EDcl no AgRg no HC n. 753.294/RS, Quinta Turma, de minha relatoria, julgado em 7/2/2023, DJe de 14/2/2023.
+Saliente-se, ademais, que, tratando-se de crime de tráfico ilícito de substância entorpecente, de natureza permanente, a ação se prolonga no tempo, de modo que, enquanto não cessada a permanência, haverá o estado de flagrância, o que possibilita a prisão, diga-se novamente, por qualquer do povo e sem mandado.
+Feitas estas considerações iniciais, passo ao caso concreto.
+In casu, o acordão considerou a validade da busca pessoal, nos seguintes termos (fl. 21):
+"O paciente estava em situação de flagrância, era perfeitamente lícito que os policiais realizassem a busca pessoal, estando a sua conduta legitimada pela ressalva à inviolabilidade da intimidade, contida no artigo 5º, X, da Constituição Federal.
+Ainda, de acordo com o artigo 240, § 2º do Código de Processo Penal, basta que haja "fundada suspeita de que alguém oculte consigo arma proibida ou objetos mencionados nas letras b a f e letra h do parágrafo anterior" e artigo 244, do mesmo Código "A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papeis que constituam corpo de delito, ou quando a medida foi determinada no curso de busca domiciliar".
+Logo, são válidas as provas produzidas a partir da prisão em flagrante do paciente e da apreensão da droga, estando plenamente justificada a diligência policial."
+No caso, ao contrário do que sustentado na presente insurgência, verifica-se que o paciente foi avistado em plena prática da infração penal, situação em que: "qualquer do povo poderá e as autoridades policiais e seus agentes deverão prender quem quer que seja encontrado em flagrante delito", conforme o disposto no art. 301 do Código Processo Penal.
+Assim, havendo, de fato, fundada suspeita de que o paciente estava na posse de objetos ilícitos, não há que se falar em nulidade da busca pessoal realizada, o que coaduna com entendimento desta Corte de Justiça, em especial nos REsp n. 1.977.119/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, julgado em 16/8/2022, DJe de 23/8/2022; AgRg no HC n. 810.608/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, julgado em 25/4/2023, DJe de 28/4/2023.
+Nesse compasso, portanto, compreende-se igualmente que não há nulidade nas provas obtidas em decorrência da situação de flagrância.
+De mais a mais, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo processual, conforme entendimento julgados nos Sobre o tema: AgRg no HC n. 814.843/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023; AgRg no HC n. 822.901/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2023, DJe de 29/6/2023.
+Assim, estando as decisões em consonância com a legislação e jurisprudência desta Corte, não se verifica, portanto, qualquer ilegalidade passível de ser sanada pela via mandamental do habeas corpus.
+Ante o exposto, denego a ordem no presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
