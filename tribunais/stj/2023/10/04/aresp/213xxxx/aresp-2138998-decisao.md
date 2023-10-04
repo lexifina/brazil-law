@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, manejado por Biosev Bioenergia S.A, contra decisão da Presidência do Tribunal Regional Federal da 3ª Região que inadmitiu seu recurso especial ante os seguintes fundamentos: (I) "Não cabe o recurso por eventual violação ao art. 1.022 do CPC/2015, dado que o acórdão recorrido enfrentou o cerne da controvérsia submetida ao Judiciário, consistindo em resposta jurisdicional plena e suficiente à solução do conflito e à pretensão das partes" (fl. 703) e (II) "o entendimento emanado desta Corte encontra-se no mesmo sentido da jurisprudência superior, o que faz incidir à pretensão recursal o óbice da Súmula 83 do STJ" (fl. 705).
+A agravante, em síntese, reitera os fundamentos do recurso especial e afirma que "a interpretação da Súmula STF nº 343 aduz que a 2ª Seção do Tribunal Regional Federal da 3ª Região NÃO seguiu a orientação firmada pelo Supremo Tribunal Federal, razão pela qual facilmente se afasta a alegação de que o Recurso Especial da ora Agravante esbarraria na Súmula STJ nº 83" (fl. 728).
+Parecer do Ministério Público Federal (fls. 925/296).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgInt no REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/9/2019.
+Ocorre que o agravante se limitou a afirmar que "a interpretação da Súmula STF nº 343 aduz que a 2ª Seção do Tribunal Regional Federal da 3ª Região NÃO seguiu a orientação firmada pelo Supremo Tribunal Federal, razão pela qual facilmente se afasta a alegação de que o Recurso Especial da ora Agravante esbarraria na Súmula STJ nº 83" (fl. 728) e reiterar os fundamentos do apelo especial.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
