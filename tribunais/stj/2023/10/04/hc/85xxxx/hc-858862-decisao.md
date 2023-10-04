@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARLON MACHADO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, proferido na Apelação n. 5000778-66.2023.8.21.0017, assim ementado:
+"APELAÇÃO CRIME. LEI DE ARMAS. POSSE IRREGULAR DE MUNIÇÕES E ACESSÓRIOS. ARTIGO 12 DA LEI Nº 10.826/03. PRELIMINAR. NULIDADE DO MANDADO DE BUSCA E APREENSÃO. PREFACIAL AFASTADA. CONDENAÇÃO. TESE INSUFICIÊNCIA PROBATÓRIA. REJEIÇÃO. APREENSÃO DE MUNIÇÕES OCORRIDAS NO CUMPRIMENTO DE MBA. PALAVRA DOS POLICIAIS. VALIDADE. ATIPICIDADE DA CONDUTA PELA AUSÊNCIA DE LESIVIDADE AO BEM JURÍDICO. INOCORRÊNCIA. CRIME DE PERIGO ABSTRATO. INVIÁVEL A APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. APREENDIDAS MAIS DE 6 MUNIÇÕES, ALÉM DE SE TRATAR DE RÉU REINCIDENTE. CONDENAÇÃO MANTIDA. APELAÇÃO DESPROVIDA" (fl. 50).
+Consta dos autos que o paciente foi condenado como incurso no art. 12 da Lei n. 10.826/03 (posse ilegal de munição de arma de fogo de uso permitido) a 1 ano, 1 mês e 15 dias de detenção, no regime inicial semiaberto. O Tribunal a quo manteve a sentença penal.
+A impetrante busca seja "reconhecida a nulidade do mandado de busca e apreensão expedido em desfavor do paciente, fundado unicamente em "denúncias anônimas", ausente a realização de diligências complementares que corroborassem o teor do informe anônimo" (fl. 5).
+Alternativamente, alega ser possível a aplicação do princípio da insignificância, considerando a quantidade de munições apreendidas (vinte).
+Requer, assim, a absolvição do paciente.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Por oportuno, confiram-se os seguintes trechos proferidos pelas instâncias ordinárias:
+Sentença:
+" ..
+Por primeiro, não pode prosperar a tese defensiva de ilicitude do mandado de busca e apreensão. Insta salientar, no particular, que informação anônima, como instrumento noticiador de comportamento ilícito, encontra respaldo no ordenamento jurídico e na jurisprudência, podendo ser utilizada para dar início às diligências policiais preliminares com o objetivo de apurar a verossimilhança daquilo então levado ao conhecimento da autoridade pública e, posteriormente, eventualmente dar causa a formal acusação - exatamente como ocorreu no feito em tela.
+ ..
+No caso, consoante indicado em Juízo pelos agentes públicos, embora as primeiras informações tenham chegado até a polícia anonimamente, através de um "informante", foram realizadas diligências, a fim de "outorgar credibilidade à informações aportadas", como (i) a identificação de Marlon, sua companheira e seu local de residência; (ii) o monitoramento e concatenação dos dados e (iii) a produção de um relatório de investigações - tudo em conformidade com a representação de evento evento 1, REPRESENTACAO_BUSCA1.
+Não bastante, as mencionadas informações anônimas foram bastante precisas, contendo dados pormenorizados e pertinentes, as quais conferiam com o histórico policial de Marlon. Este conjunto de dados, portanto, legitimou a ação policial - tanto é que a representação foi devidamente acolhida. Deve ser afastada, portanto, a alegação de nulidade das provas que compõem o caderno processual.
+ ..
+Por fim, também sem razão a defesa ao sustentar a atipicidade da conduta por ausência de potencialidade lesiva, uma vez que, embora nenhuma arma tenha sido apreendida na residência de Marlon, foram encontradas, no local, vinte munições (número não irrisório), em relação às quais foi constatada, através do laudo pericial nº 270037/2022 (41.1), a eficácia. Ao lado disso, destaco que a apreensão se deu no bojo de investigação policial, a qual indicou que o acusado armazenava armas e munições sob orientação de integrantes de facção criminosa, para possível confronto que visava recuperação de pontos de droga - não se podendo falar em ausência de ameaça/lesão ao bem jurídico tutelado" (fls. 203/205).
+Acórdão:
+" ..
+O competente mandado de busca e apreensão foi deferido tendo em vista os termos da representação policial, a qual deu conta de que, após a denúncia recebida, foram realizadas investigações preliminares no local.
+As incursões policiais deram credibilidade à denúncia anônima, no sentido de o réu estaria guardando artefatos bélicos em sua residência, o que restou efetivamente comprovado (evento 12, OFIC1).
+Assim, não se verifica a apontada nulidade, uma vez que a delação criminal anônima é instrumento adequado para deflagrar ação investigativa preliminar, como ocorreu no caso.
+ ..
+Ainda, não há falar em atipicidade da conduta, uma vez que, para a configuração do delito em comento, basta que o agente pratique qualquer uma das condutas descritas no artigo 12 da Lei nº 10.826/03.
+O tipo penal em comento, referindo-se a posse de armas, munições e acessórios, não exige resultado naturalístico, tratando-se de crime de perigo abstrato, cuja lesividade ao bem jurídico é presumida.
+Além disso, a situação dos autos não se credencia para o reconhecimento do princípio da insignificância. A um, porque apreendidas munições em quantidade superior a 6 (seis), portanto, acima do limite razoável aceito por este colegiado. E, a dois, porque o acusado ostenta a condição de multirreincidente, havendo ainda informações de que guardava as munições em prol de facção criminosa" (fls. 45/48).
+No caso, verifica-se que as instâncias ordinárias ressaltaram que, além do recebimento de informações anônimas, houve diligências prévias para apurar os fatos, ocorrendo o monitoramento e concatenação de dados, confirmação da identidade do paciente e produção de um relatório de investigações. Assim, não há falar em inidoneidade na expedição de mandado de busca e apreensão expedido com base apenas em denúncia anônima.
+Além disso, para rever o entendimento da origem e reconhecer a aventada nulidade, seria necessário o aprofundado revolvimento da matéria fático-probatória, providência incabível na via eleita.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE TRÁFICO DE ENTORPECENTES. CONDENAÇÃO MANTIDA PELA CORTE LOCAL EM SEDE DE REVISÃO CRIMINAL. NULIDADE. ALEGADA INVASÃO DOMICILIAR. INOCORRÊNCIA. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO PRECEDIDO DE INVESTIGAÇÃO PRÉVIA. DESCLASSIFICAÇÃO PARA O TIPO PENAL DO ART. 28 DA LEI DE DROGAS. DOSIMETRIA DA PENA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPEDIMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ALTERAÇÃO QUE EXIGE INCURSÃO EM FATOS E PROVAS. REGIME INICIAL. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+1. Não há falar em nulidade da busca e apreensão se precedida de mandado judicial em razão de investigações já realizadas pela polícia.
+2. Para concluir que o mandado judicial de busca e apreensão não teria sido derivado de investigações já realizadas pela polícia e que o inquérito policial teria sido instaurado com base, exclusivamente, em denúncia anônima, como faz crer a defesa, seria necessário o reexame do conjunto fático-probatório, incompatível com os estreitos limites da via eleita, ainda mais nos autos de ação penal transitada em julgado, cuja revisão criminal foi indeferida pela Corte local.
+ ..
+7. Agravo regimental improvido.
+(AgRg no HC n. 696.534/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 3/11/2021).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CUMPRIMENTO DE MANDADO DE BUSCA E APREENSÃO DOMICILIAR. PRESENÇA DE RESPALDO FÁTICO E LEGAL. FUNDAMENTAÇÃO ADEQUADA. NULIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do art. 240, § 1º, "d", do Código de Processo Penal, a ordem judicial que autorizar a realização de busca domiciliar deverá estar amparada em fundadas razões aptas a justificar a apreensão de armas e munições, instrumentos utilizados na prática de crime ou destinados a fim delituoso.
+2. No caso, verifica-se que a medida foi autorizada em atenção a todos os requisitos legais pertinentes, porquanto fundada em elementos indiciários concretos, obtidos em procedimentos investigativos prévios, que forneceram indícios sobre o suposto homicídio no qual o agravante estaria envolvido.
+3. Para alterar a conclusão da Corte local e entender que não houve diligências complementares à denúncia anônima que embasaram o pedido de busca e apreensão, como faz crer a combativa defesa, necessário o reexame do conjunto fático-probatório, incompatível com os estreitos limites da via eleita.
+4. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 172.055/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/11/2022).
+Prosseguindo, nos crimes de perigo abstrato, dentre eles o previsto no art. 12 da Lei n. 10.826/03, presume-se que o agente, ao realizar a conduta descrita na norma incriminadora, expõe a risco o bem jurídico tutelado, prescindindo de demonstração de efetiva situação de perigo.
+Com base nessa premissa, esta Corte firmou o entendimento de que a simples conduta de possuir ou portar ilegalmente arma, acessório ou munição é suficiente para a configuração dos delitos previstos nos arts. 12, 14 e 16 da Lei n. 10.826/03, sendo inaplicável o princípio da insignificância.
+Embora a jurisprudência desta Corte entenda que em determinadas hipóteses pode ocorrer a relativização e a aplicação do referido princípio, quando apreendida pequena quantidade de munições desacompanhada de arma de fogo, na hipótese, a apreensão de 20 munições, carregador e o fato de o ora paciente ser multirreincidente impedem a incidência do princípio em questão.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 12 DA LEI N. 10.826/2003. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS DO DELITO. MULTIRREINCIDÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+1. No caso dos autos, houve apreensão de 4 munições de uso permitido, calibre .38, e de arma de fogo de uso permitido atestada no laudo pericial como ineficaz à produção de disparos.
+2. Incabível a incidência do princípio da insignificância, considerando as circunstâncias do delito, pois, apesar de apreendida apenas 4 munições calibre .38, o réu é multirreincidente, possuindo diversas condenações com trânsito em julgado, sendo duas delas por roubo qualificado, bem como possui outras duas condenações em fase recursal.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.135.135/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/8/2023, DJe de 18/8/2023).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO. POSSIBILIDADE, EM TESE, DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NO CASO CONCRETO. AGRAVO DESPROVIDO.
+1. A questão controvertida cinge-se à possibilidade de se reconhecer atípica a conduta do indivíduo preso na posse de pequena quantidade de munição, apenas 3 (três) munições calibre 9mm, desacompanhadas de armamento capaz de deflagrá-las.
+2. A jurisprudência deste Superior Tribunal de Justiça aponta que os crimes previstos nos artigos 12, 14 e 16 da Lei 10.826/2003 são de perigo abstrato, sendo desnecessário perquirir sobre a lesividade concreta da conduta, porquanto o objeto jurídico tutelado não é a incolumidade física e, sim, a segurança pública e a paz social, colocadas em risco com a posse das munições, ainda que desacompanhadas de arma de fogo, revelando-se despicienda a comprovação do potencial ofensivo dos artefatos por meio de laudo pericial.
+3. Por outro lado, na esteira da jurisprudência do Supremo Tribunal Federal, esta Corte passou a admitir a incidência do princípio da insignificância quando se tratar de posse de pequena quantidade de munição, desacompanhada de armamento capaz de deflagrá-la, quando ficar evidenciado o reduzido grau de reprovabilidade da conduta.
+4. No presente caso, porém, o acórdão recorrido registra que o acusado é reincidente - condenado anteriormente por homicídio qualificado com emprega de arma de fogo (e-STJ, fl. 214), de maneira que sua reiteração delitiva obsta a incidência do princípio da insignificância, como já se pronunciou este STJ em situações análogas.
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 1.994.114/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE MUNIÇÕES E RECEPTAÇÃO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. EXAME DO CASO CONCRETO. APREENSÃO DE 10 (DEZ) MUNIÇÕES E REINCIDÊNCIA ESPECÍFICA. ALTA REPROVABILIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte acompanhou a nova diretriz jurisprudencial do Supremo Tribunal Federal que passou a admitir a incidência do princípio da insignificância na hipótese da posse de pequena quantidade de munição, desacompanhada de armamento hábil a deflagrá-la.
+Saliente-se, contudo, que, para que exista, de fato, a possibilidade de incidência do princípio da insignificância, deve-se examinar o caso concreto, afastando-se o critério meramente matemático (AgRg no HC 554.858/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 12/5/2020, DJe de 18/5/2020) (HC 613.195/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/12/2020, DJe 7/12/2020).
+2. No caso dos autos, além da apreensão de 10 (dez) munições de calibre 9 mm, está presente a reincidência específica do recorrente, circunstâncias que impedem o reconhecimento do princípio da insignificância, devido ao alto grau de reprovabilidade da conduta.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.906.535/SP, de minha Relatoria, Quinta Turma, julgado em 2/2/2021, DJe de 8/2/2021).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE ILEGAL DE MUNIÇÃO RELATIVA A ARMA DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos art. 12, 14 e 16 da Lei 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a comprovação de prejuízo para a configuração do ilícito e incabível a aplicação do princípio da insignificância.
+2. Recurso ordinário improvido.
+(RHC 65.385/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 10/12/2015).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
