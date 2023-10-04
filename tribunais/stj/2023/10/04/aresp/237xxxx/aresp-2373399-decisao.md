@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por Renan Mendes Prete contra a decisão do Tribunal de Justiça do Rio de Janeiro que, em juízo de admissibilidade, inadmitiu o recurso especial por ele apresentado, interposto com fundamento na alíena a do permissivo constitucional, em que impugnava acórdão proferido nos Embargos Infringentes e de Nulidade n. 0199427-09.2019.8.19.0001, assim ementado (fl. 252):
+EMBARGOS INFRINGENTES E DE NULIDADE. APELAÇÃO CRIMINAL. ART. 155, CAPUT, DO CÓDIGO PENAL. VOTO VENCIDO QUE NEGAVA PROVIMENTO AO RECURSO MINISTERIAL PARA MANTER A SENTENÇA ABSOLUTÓRIA, NOS TERMOS DO ART. 386, III, DO CPP. PRETENSÃO DEFENSIVA DE PREVALÊNCIA DO VOTO VENCIDO.
+Voto da maioria que reconheceu, de ofício, a ocorrência do furto privilegiado, diante da primariedade do recorrente e do valor das res furtivae.
+Embargante que adentrou ao mercado, palco do evento, e subtraiu 20 latas de Red Bull e uma garrada de Whisky, evadindo-se, sem efetuar o pagamento.
+No caso dos autos, os bens furtados, não são considerados de valor irrisório, eis que perfazem o montante de R$ 323,60, o que correspondia, à época dos fatos, percentual superior a 10% do salário mínimo, mostrando-se expressiva a lesão jurídica provocada, evidenciando a periculosidade social na ação do réu. Precedente do STJ.
+Superado o limite jurisprudencial para que se considere inexpressiva a lesão jurídica provocada, pouco importaria eventual primariedade do réu.
+Contudo, diante dos limites da presente insurgência, mister desacolher-se os embargos infringentes, para acompanhar o acórdão exarado pela douta maioria da Colenda Sétima Câmara Criminal deste E. Tribunal de Justiça.
+Desprovimento dos Embargos. Unânime.
+Nas razões do especial, apontou a Defensoria Pública contrariedade ao art. 155 do Código Penal e 386, III, do Código de Processo Penal. Defendeu, em suma, a atipicidade da conduta, com a aplicação do princípio da insignificância e a consequente absolvição do réu, considerando-se, no caso, a mínimo ofensividade da conduta, tendo em vista que os bens subtraídos foram recuperados pelo estabelecimento comercial (fls. 281/287).
+Apresentadas contrarrazões (fls. 293/306), o recurso foi inadmitido na origem, por incidência das Súmulas 7 e 83/STJ (fls. 308/312).
+Daí o presente agravo (fls. 321/333). Instado a se manifestar, o Ministério Público Federal opina pelo não conhecimento do agravo, nos seguintes termos (fl. 357):
+AGRAVO. RECURSO ESPECIAL. INADMISSÃO. SÚMULAS N. 7 E 83 DO STJ. FURTO QUALIFICADO. ABSOLVIÇÃO. CONDENAÇÃO EM SEGUNDA INSTÂNCIA PELO CRIME DE FURTO PRIVILEGIADO. PRETENSÃO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. ALEGADA VIOLAÇÃO AO ART. 155 DO CP.
+- Ausência de impugnação adequada à Súmula nº 83/STJ, que se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial do STJ. Incidência da Súmula n. 182/STJ.
+- Inaplicabilidade do princípio da insignificância quando o valor do bem furtado supera o percentual de 10% do salário- mínimo em vigor à época dos fatos. Precedentes do STJ. Súmula 83/STJ.
+Pelo não conhecimento do agravo.
+É o relatório.
+Presentes os requisitos de admissibilidade do agravo, passo ao exame das razões recursais.
+A pretensão recursal direciona-se à aplicação do princípio da insignificância, com a absolvição do ora agravante.
+Todavia, a irresignação não comporta provimento.
+Consta do acórdão impugnado (fls. 257/258 - grifo nosso):
+ ..  Examinados os requisitos acima elencados, verifica-se que, na hipótese vertente, os bens furtados, não são considerados de valor irrisório, eis que perfazem o montante de R$ 323,60 (trezentos e vinte e três reais e sessenta centavos), o qual correspondia, à época dos fatos, percentual superior a 10% do salário mínimo então vigente (R$ 998,00), mostrando-se expressiva a lesão jurídica provocada, evidenciando a periculosidade social na ação do réu. Assim sendo, tratar a conduta como algo irrelevante desvirtua o propósito do instituto e incentiva à ação delituosa não apenas o próprio beneficiado como também outros indivíduos que acabam percebendo a falta de rigor no trato de criminosos.
+Recentemente, o STJ afastou a insignificância pretendida a favor de um indivíduo condenado pelo furto de duas garrafas de whisky, avaliadas em R$ 106,90, considerando que tal valor superava o percentual de 10% do salário mínimo, o que impediu a incidência do benefício em questão. A corroborar tal entendimento, os seguintes julgados:
+ ..
+No caso concreto, descaberia a incidência do princípio da insignificância. Isso porque o valor dos objetos subtraídos superou 10% do salário mínimo vigente à época do fato, o que não pode ser considerado ínfimo ou irrisório. Ademais, superado o limite jurisprudencial para que se considere inexpressiva a lesão jurídica provocada, pouco importaria eventual primariedade do réu.  ..
+Decidiu com acerto o Tribunal de origem.
+De fato, na hipótese dos autos, não há como se afirmar o desinteresse estatal à repressão da conduta praticada.
+Na hipótese dos autos, não se mostra insignificante a conduta praticada, mormente diante do valor dos bens objetos de subtração, superior a 10% do salário mínimo da época (R$ 323,60 - trezentos e vinte e três reais e sessenta centavos -, o qual correspondia, em 2019, a mais de 30% do salário mínimo então vigente - R$ 998,00 - novecentos e noventa e oito reais), não havendo, por certo, como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, tampouco a inexpressividade da lesão jurídica provocada.
+Nessa linha: AgRg no HC n. 788.660/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/9/2023; AgRg no AREsp n. 2.073.863/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 12/6/2023; AgRg no AREsp n. 2.289.468/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/5/2023; AgRg no AREsp n. 2.273.191/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/4/2023; AgRg no REsp n. 2.005.962/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/3/2023, entre outros.
+Não é outra a opinião do Subprocurador-Geral da República (fl. 360): conforme reconhece a defesa, o valor dos bens subtraídos correspondem a 32% do salário mínimo vigente à época dos fatos. Portanto, a decisão recorrida está em consonância com a jurisprudência do STJ, no sentido da inaplicabilidade do princípio da insignificância quando o valor do bem furtado supera o percentual de 10% do salário mínimo em vigor à época dos fatos" (AgRg no HC n. 788.660/RJ, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 18/9/2023, DJe 20/9/2023).
+Logo, está o acórdão recorrido em harmonia com a jurisprudência desta Corte Superior.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES (20 LATAS DE BEBIDA ENERGÉTICA E 1 GARRAFA DE WHISKY). PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. RELEVÂNCIA DA CONDUTA. VALOR DOS BENS SUPERIOR A 30% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO MAJORITÁRIO DESTA CORTE.
+Agravo conhecido para desprover o recurso especial.
