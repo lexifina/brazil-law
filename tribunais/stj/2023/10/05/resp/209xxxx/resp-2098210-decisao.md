@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por JOEL ALMEIDA DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado:
+"RECURSOS DE APELAÇÃO - POLICIAL CIVIL - INFRAÇÃO ADMINISTRATIVA APURADA EM PROCESSO ADMINISTRATIVO DISCIPLINAR - CONTRADITÓRIO E AMPLA DEFESA OBSERVADOS - PENA DE DEMISSÃO DO SERVIÇO PÚBLICO - PREVISÃO DA LCE N.º 155/2004 - POSTERIOR ABSOLVIÇÃO EM PROCESSO CRIMINAL (ART. 386, VII, DO CPP) - INDEPENDÊNCIA ENTRE AS INSTÂNCIAS PENAL E ADMINISTRATIVA - FALTA RESIDUAL - INCIDÊNCIA DA SÚMULA 18/STF - HIGIDEZ DO ATO ADMINISTRATIVO - IMPROCEDÊNCIA DO PEDIDO NA ORIGEM - MANUTENÇÃO DODECISUM- HONORÁRIOS DE SUCUMBÊNCIA - INEXISTÊNCIA DE CONDENAÇÃO - PEQUENO VALOR DA CAUSA - ARBITRAMENTO POR EQUIDADE - NECESSIDADE -TEMA 1076/STJ - REFORMA DO JULGADO TÂO SOMENTE NESTE PONTO.
+1. As esferas criminal e administrativa são independentes, de tal sorte que posterior sentença de absolvição na esfera penal por ausência de provas(art. 386, VII, do CPP) não enseja revogação/nulidade da decisão administrativa, visto como a absolvição sumária, em casos tais, decorre da insuficiência probatória, incidindo - face à incerteza do conjunto probatório disponível nos autos da ação penal - o princípio do "in dubio pro reo".
+2. A vinculação da instância administrativa ocorre apenas quando a absolvição na espera penal se embase na inexistência do fato ou em negativa de autoria, não sendo possível invalidar a punição imposta ao servidor na esfera administrativa, se a absolvição decorrer de motivos outros.
+3. A controvérsia referente aos critérios para o arbitramento dos honorários sucumbenciais (se de forma equitativa ou em percentual previsto no CPC) foi definida no julgamento do paradigma REsp 1.850.512/SP (Tema 1.076), quando se firmou segunda tese autorizando o arbitramento por equidade nas hipóteses em que, havendo ou não condenação, a causa for de pequeno valor.
+4. Recurso do 1º Apelante desprovido. Apelação do Estado de Mato Grosso provida" (fl. 867e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 874/879e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO - RECURSO DE APELAÇÃO - AÇÃOANULATÓRIA - OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NÃOVERIFICADA - MERO INCONFORMISMO - REDISCUSSÃO DAMATÉRIA - IMPOSSIBILIDADE - PREQUESTIONAMENTO -DESNECESSIDADE - EMBARGOS REJEITADOS.
+1. A interposição de Embargos de Declaração somente se justifica quando a decisão recorrida estiver maculada por obscuridade, omissão, contradição ou contiver erro material. Inteligência do art. 1022 do CPC. Se os argumentos do embargante denotam mero inconformismo com o que foi julgado e rediscussão da matéria, não são os embargos de declaração via adequada para esses fins.
+2. O prequestionamento para a interposição de recurso especial ou extraordinário é dispensável, porque não há necessidade do órgão colegiado citar os dispositivos usados, desde que o acórdão aprecie integralmente a questão trazida ao feito com a devida fundamentação" (fl. 965e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts. 489, § 1º, II, III e IV, e 1.022, I e II, do CPC/2015, sustentando que:
+"O Tribunal de Justiça negou provimento à apelação e não conheceu dos embargos de declaração, com violação aos arts. 489, §1º, incisos II, III e IV; 1.022, inciso I, II, todos do CPC, além da ilegalidade e desproporcionalidade da pena aplicada.
+Os embargos servem para elucidar questões fundamentais que deveriam ter sido apreciadas ou foram apreciadas de forma obscura e contraditória. Logo, destinam-se a atacar vícios de fundamentação, cuja inobservância enseja a preclusão da matéria por ausência de prequestionamento. Neste sentido, o acórdão recorrido infringiu o disposto no artigo 1022, I e II, do CPC, deixando de analisar fundamentos essenciais ao processo, tais como a presunção de dolo atribuída à conduta do recorrente na decisão administrativa, malferindo o princípio da presunção de inocência, circunstância indissociável da análise da legalidade do ato possibilitando, consequentemente, que seja sindicado pelo Poder Judiciário.
+Infringiu o dispositivo contido no artigo 489, §1º, incisos II, III e IV,do CPC, ao omitir-se em apontar, quando afastado o dolo, qual seria a falta residual, haja vista inexistir tipificação administrativa apenada com demissão. A decisão imputa genérica e exclusivamente o descumprimento do dever policial previsto no art. 164, X e XIX (quarto grau), da LCE n.º 155/2004, qual seja: adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé a adquira, receba ou oculte; e fazer uso de documento falso. Dessa forma, excluído o dolo, como fez a sentença na ação penal, elemento subjetivo do tipo, excluída a ilicitude da conduta, vale dizer, a conduta é atípica e não pode servir de fundamento para o decreto demissional. Assim, de um lado, inexiste tipo penal e, de outro, inexiste falta residual para sustentar a decisão administrativa.
+(..)
+4. DAS QUESTÕES DE FUNDO
+4.1. DEMISSÃO POR ATO FORA DO EXERCÍCIO DE SUA FUNÇÃO
+(..)
+Contudo, no caso concreto, o Servidor não atuou no exercício de sua função ou com relação às atribuições do seu cargo, tendo em vista estar de folga, em seu carro particular, tratando de uma negociação (que acreditava legal) com seu irmão, e não tinha ideia de que estava sendo infringida a lei.
+Não havia qualquer tipo de relação com a profissão de policial a compra de um veículo de seu próprio irmão, pessoa que detinha a confiança do Recorrente. Neste sentido não há qualquer reponsabilidade disciplinar passível de punição por completa ausência de nexo causal entre a conduta do Servidor e o exercício das funções profissionais.
+(..)
+4.2. DA PRESUNÇÃO DO DOLO NO PROCESSO ADMINISTRATIVO E A VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA
+(..)
+O PAD após devido processo legal teve por resultado exatamente a ausência de certeza do fato, valendo-se de meras presunções para, contrariando a própria conclusão, afirmar um dolo não comprovado, o que acarretou uma punição descabida e desproporcional.
+Tal decisão viola claramente o dispositivo constitucional do art. 5º, LVII, onde está insculpido o princípio da presunção de inocência
+(..)
+É evidente a nulidade da decisão administrativa que culminou na demissão Requerente, subvertendo o pilar constitucional da presunção de inocência: ante a decisão criminal que reconheceu inexistência de dolo na conduta do recorrente e em se tratando da análise dos mesmíssimos fatos, não poderia a decisão administrativa persistir no entendimento do DOLO PRESUMIDO. POR DECISÃO JUDICIAL DOLO NÃO HÁ.
+Ante a dissonância entre o PAD, que presumiu indevidamente o dolo, e a Ação Penal, que decidiu pela inexistência dele, faz-se necessária adequação dos julgados a fim de garantir a segurança jurídica pertinente ao caso, com a devida nulidade do PAD e reintegração do servidor.
+(..)
+Diante disso, conclui-se que a decisão proferida no juízo criminal deve prevalecer sobre aquela administrativa, a fim de evitar decisões contraditórias. A ausência de dolo, declarada pela esfera criminal, deve ser reconhecida na via administrativa, não sendo caso de falar em independência das esferas neste caso. Ressalte-se: a imputação administrativa é exatamente a prática de ilícitos penais.
+4.3. DA INEXISTÊNCIA DE FALTA RESIDUAL DE DEMISSÃO
+(..)
+Considerando o exposto na sentença apelada, a única infração administrativa autônoma passível de demissão é o uso de documento falso, conforme o "art. 167, XIX (de quarto grau), da LCE n. 155/2004".
+Todavia, esta infração equivale ao crime do art. 304 do Código Penal, do qual o Recorrente já foi absolvido na esfera criminal.
+Ou seja, é necessário coerência entre as searas, pois tanto no âmbito administrativo quanto no penal, a pessoa se defende dos fatos, e a conduta do uso de documento falso já fora solucionada (com absolvição), não restando outra falta residual a ser observada no procedimento administrativo, apta a autorizar aplicação da pena de demissão.
+Embora o juízo criminal não tenha, quando da absolvição do recorrente, negado expressamente a existência do fato ou da sua autoria, é inequívoca a existência de circunstância excludente do crime, considerando a atipicidade do ato praticado pelo Recorrente, o que leva à conclusão sobre inexistência de ilicitude. Inexiste outro fato ou motivo apto a ensejar a exclusão da Polícia Civil do Estado de Mato Grosso.
+Dessa forma, no presente caso, deve haver a comunicabilidade das esferas penal e administrativa, não subsistindo o argumento de independência absoluta entre as instâncias. Também deve ocorrer controle judicial diante da inexistência de justa causa para a aplicação da pena de demissão ao recorrente.
+4.4. DA PENA DE DEMISSÃO E VIOLAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE
+(..)
+Desta maneira, conclui-se que, com a presença de circunstâncias que excluem o crime, a demissão não pode ser fundada no dispositivo supracitado, pois a absolvição na seara criminal por ausência de dolo, elemento subjetivo do tipo, leva à consequência lógica da inexistência de crime, uma vez que o elemento subjetivo é essencial à própria caracterização da conduta típica.
+Ainda que houvesse crime, o art. 175, IV, é forma de execução de penalidade e não uma infração disciplinar, pois as infrações estão capituladas no campo dos deveres e proibições, e como forma de execução de penalidade administrativa é necessário estar o crime previsto, primeiramente no Estatuto Especial (Lei Complementar 155/2004), e, nos casos omissos, conforme dispõe o art. 252 da LC nº 155/2004, necessariamente deve usar o Estatuto dos Servidores Públicos, Lei Complementar n. 4/1990.
+(..)
+Inexistindo fundamento para a pena de demissão, ainda que se fale em violação a preceitos administrativos, há de se respeitar os princípios da proporcionalidade, da razoabilidade e da dignidade humana. Sobre a transgressão destes princípios deve haver controle jurisdicional, não se limitando aos aspectos formais do PAD.
+Há de se respeitar a incidência destes princípios na esfera administrativa: verificada a inexistência do dolo do Recorrente, a pena de demissão, sem demonstração do animus do agente, resulta em clara violação ao princípio da proporcionalidade.
+(..)
+4.5. DA ATIPICIDADE DA INFRAÇÃO
+(..)
+A própria sentença reconhece que o Recorrente não tinha consciência do que fazia, pois, além de confiar na idoneidade moral do seu irmão, o corréu (GILMAR) usou de métodos ardilosos para mascarar/ludibriar JOEL para que ele aceitasse a motocicleta como pagamento, tornando o erro cometido pelo Recorrente escusável.
+(..)
+No caso, considerando a atipicidade do ato praticado pelo Recorrente, inexiste outro motivo apto a ensejar a sua exclusão da Polícia Civil do Estado de Mato Grosso.
+(..)" (fls. 984/1.001e).
+Por fim, requer o provimento do recurso.
+Não foram apresentadas contrarrazões (fls. 1.013/1.015e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.016/1.021e).
+A irresignação merece parcial conhecimento e, nessa parte, não merece prosperar.
+Na origem, trata-se de demanda proposta pela parte ora recorrente, com o objetivo de anular decisão proferida em PAD, que aplicou a penalidade de demissão.
+Julgada improcedente a demanda, recorreram ambas as partes, tendo sido reformada, em parte, a sentença, pelo Tribunal local, "para arbitrar os honorários advocatícios em R$ 5.000,00 (cinco mil reais), nos termos do art. 85, § 8º, do CPC, declarando suspensa, contudo, a sua exigibilidade segundo a exegese do art. 98, § 3º do CPC" (fl. 858e).
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação à alegação de violação dos arts. 489 e 1.022 do CPC/2015, por simples leitura do acórdão recorrido observa-se que a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou, fundamentadamente e de modo completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Registre-se, ainda, que não cabem Declaratórios para obrigar o Tribunal a
+reapreciar provas, sob o ponto de vista da parte recorrente (STJ, AgRg no Ag 117.463/RJ, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, DJU de
+27/10/1997).
+Vale ressaltar, ademais, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgInt no AREsp 1.689.528/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 25/03/2021, AgInt no AREsp 1.653.798/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/03/2021, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJU de 23/4/2008.
+Outrossim, este Tribunal já decidiu que "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 458, II, do CPC/73 e 489, II, § 1º, IV a VI, do CPC/2015" (STJ, REsp 1.823.944/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 22/11/2019).
+No mérito, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
+ EMENTA
