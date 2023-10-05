@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de MATEUS ELIAS COELHO DE OLIVEIRA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que denegou o pedido de liminar formulado no HC n. 1.0000.23.228131-1/000.
+Consta dos autos a prisão em flagrante do paciente, posteriormente convertida em preventiva, decorrente de suposta prática dos delitos capitulados nos arts. 33 e 35 da Lei n. 11.343/2006.
+S ustentam os impetrantes a ocorrência de constrangimento ilegal, tendo em vista a nulidade do flagrante em razão da busca pessoal realizada sem fundadas suspeitas e sem autorização judicial, sendo ilícitas as provas dela derivadas.
+Alegam que a segregação processual do paciente encontra-se despida de fundamentação idônea, pois "o Superior Tribunal de Justiça, já decidiu em algumas oportunidades que, a reincidência, por si só, ou seja, desamparada de outros elementos concretos, não é fundamento suficiente hábil a justificar a manutenção da prisão preventiva em casos que o delito apurado é o de tráfico de drogas, por se tratar de infração não dotada de violência ou grave ameaça" (fl. 12).
+Asseveram que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP, e que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Acrescentam que "o delito de tráfico de drogas não é uma infração penal marcada pela violência ou grave ameaça a pessoa, bem como ser o paciente individuo que possuí ocupação lícita e residência fixa, tem-se que a prisão processual é medida plenamente desarrazoada e desproporcional nos presentes autos" (fl. 14).
+Requerem, assim, liminarmente, o relaxamento da prisão cautelar ou sua revogação, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais. No mérito, pugnam pela confirmação da liminar deferida.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+O mesmo se pode dizer em relação à motivação da segregação cautelar, tendo em vista que a seguinte fundamentação, adotada na origem (fl. 27):
+"Logo, considerando tais informações, havia, prima facie, descrição concreta dos elementos que justificaram a abordagem do acusado, em obediência aos artigos 240, §2º, e 244, do Código de Processo Penal, vislumbrando-se, assim, a fundada suspeita. Afinal, os agentes se evadiram dos policiais militares, sendo necessária uma perseguição em via pública para abordá-los. Além disso, havia informações precedentes do sistema de inteligência policial acerca do tráfico de drogas por um dos autuados no local dos fatos.
+Quanto aos requisitos da prisão preventiva, a decisão de primeira instância encontra-se, a um primeiro exame, devidamente fundamentada, sendo que, na oportunidade, o douto Juiz a quo ressaltou a necessidade de se garantir a ordem pública, diante dos indícios de autoria, gravidade concreta do delito e reiteração delitiva do autor, que é reincidente (ordem n. 06).
+Nesse contexto, as medidas cautelares diversas da prisão não se mostram adequadas e suficientes, mormente por se encontrarem presentes, a princípio, os requisitos autorizadores da prisão preventiva, insculpidos no artigo 312 do CPP."
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
