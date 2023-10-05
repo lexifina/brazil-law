@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência entre o Juízo de Direito da 1ª Vara Criminal de Joinville/SC, suscitante, e o Juízo de Direito da Vara Criminal de Mamborê/PR, suscitado.
+Consta dos autos a instauração de inquérito policial para a apurar a suposta prática do delito de furto qualificado mediante fraude eletrônica (art. 155, §4º-B, do CP), em que a vítima Maicon Daubermann, residente no Município de Mamborê/PR, teria notado a subtração de R$ 7.821,42 de sua conta bancária, por intermédio de transferência de valores por meio eletrônico (pix), além da realização de um empréstimo pessoal.
+O juízo suscitado, acolhendo parecer ministerial, declinou de sua competência por entender que o furto se consuma quando o agente passa a ter a posse do bem, no caso, quando os valores são transferidos para a conta bancária de destino.
+Por sua vez, o juízo suscitante entendeu que "diante da concorrência de juízos competentes, prevalece o critério da prevenção, nos termos dos arts. 78, II, "c" e 83, ambos do Código de Processo Penal, de modo que o processamento e julgamento dos autos deve ficar a cargo do juízo da Vara Criminal de Mamborê/PR, que antecedeu o presente juízo na prática dos atos processuais" (fl. 25).
+O Juízo de Direito da 1ª Vara Criminal de Campo Mourão/PR manifestou-se no sentido de que nos casos como dos autos, a competência é definida pelo local de domicílio da vítima e não do juízo onde está localizado o estabelecimento bancário (fls. 59-60).
+Os autos, então, vieram a esta instância, tendo o Ministério Público Federal ofertado parecer para declarar a competência da 1ª Vara Criminal de Campo Mourão/PR.
+É o relatório.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal.
+Conforme se aduz dos documentos trazidos à baila, a controvérsia versa sobre a competência para processamento de ação penal referente à furto mediante fraude de valores de conta bancária.
+Nesse diapasão, convém registrar que em se tratando de delito de furto praticado mediante fraude (artigo 155 § 4º, II, do CP), a Terceira Seção desta Corte Superior de Justiça sedimentou entendimento de ser competente o foro do local de sua consumação, vale dizer, de onde o bem é subtraído da vítima, saindo de sua esfera de disponibilidade, qual seja, o Juízo da Comarca de Campo Mourão/PR, local em que a vítima possui conta bancária. Nesse sentido:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. FURTO MEDIANTE FRAUDE ELETRÔNICA (VIA INTERNET). COMPETÊNCIA. CONSUMAÇÃO. AGÊNCIA DA VÍTIMA. LOCAL ONDE O BEM FOI SUBTRAÍDO. ART. 70 DO CPP. PRECEDENTES DA TERCEIRA SEÇÃO. RECURSO NÃO PROVIDO.
+1. Hipótese em que a denúncia imputa à recorrente a prática de furto mediante fraude, através da invasão, via rede mundial de computadores, de contas bancárias mantidas em agências da Caixa Econômica Federal na cidade de Curitiba/PR.
+2. A jurisprudência da Terceira Seção desta Corte se firmou no sentido de que a competência para o julgamento de furtos mediante fraude eletrônica (via internet) se define pelo local onde o bem foi subtraído da vítima, nos termos do art. 70, caput, do CPP.
+3. Recurso não provido. (RHC 84.622/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/8/2017, DJe 28/8/2017)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL E PROCESSUAL PENAL. FURTO MEDIANTE FRAUDE. TRANSFERÊNCIA BANCÁRIA VIA INTERNET SEM O CONSENTIMENTO DA VÍTIMA. CONSUMAÇÃO NO LOCAL DA AGÊNCIA ONDE O CORRENTISTA POSSUI A CONTA FRAUDADA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A Terceira Seção desta Corte Superior firmou o entendimento no sentido de que a subtração de valores de conta corrente, mediante transferência fraudulenta, utilizada para ludibriar o sistema informatizado de proteção de valores, mantidos sob guarda bancária, sem consentimento da vítima, configura crime de furto mediante fraude, previsto no art. 155, § 4º, inciso II, do Código Penal - CP.
+2. O delito em questão consuma-se no local da agência bancária onde o correntista fraudado possui a conta, nos termos do art. 70 do Código de Processo Penal - CPP; no caso, na Comarca de Barueri/SP.
+Conflito de competência conhecido para declarar competente o Juízo de Direito da 1ª Vara Criminal de Barueri/SP, o suscitado. (CC 145.576/MA, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 13/4/2016, DJe 20/4/2016).
+Do mesmo modo, como bem apontado pelo Ministério Público Federal, " a  consumação, portanto, ocorreu no local onde sediada a instituição financeira que hospeda a conta bancária da vítima - agência 0179, Banco Bradesco - que, segundo as informações constantes dos autos, localiza-se em Campo Mourão/PR, cujo Juízo Criminal, consultado, também se proclamou incompetente" (fl. 69).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de Campo Mourão/PR.
+Publique-se.
+Intimem-se.
+EMENTA
