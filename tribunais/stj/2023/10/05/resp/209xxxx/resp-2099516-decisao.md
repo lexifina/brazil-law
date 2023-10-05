@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com base no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ fl. 99):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SERVIDORA PÚBLICA ESTADUAL. CONVERSÃO EM PECÚNIA DE LICENÇA ESPECIAL NÃO USUFRUÍDA. SENTENÇA. VÍCIO ULTRA PETITA DE JULGAMENTO CONFIGURADO. PROVIMENTO JURISDICIONAL QUE INCLUIU NA BASE DE CÁLCULO DA QUANTIA DEVIDA OUTRAS VERBAS ALÉM DAQUELAS QUE FORAM DELIMITADAS NA EXORDIAL. CONDENAÇÃO LIMITADA AO PLEITO DA AUTORA. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO PELA METADE, NA FORMA DO ARTIGO 90, §4º. DO CÓDIGO DE PROCESSO CIVIL/15. IMPOSSIBILIDADE. NORMA INCOMPATÍVEL COM O REGIME CONSTITUCIONAL DE PRECATÓRIOS AO QUAL O RECORRENTE ESTÁ SUBMETIDO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial o recorrente alega, em síntese, violação ao art. 90, § 4º, do CPC/2015, ao argumento de que seria devida a redução pela metade dos honorários advocatícios, uma vez que reconheceu o pedido da parte autora, antecipando a resolução da lide.
+Ademais, sustenta que "ao contrário da conclusão do Acórdão, o regime de pagamento imposto à Fazenda Pública não impede a aplicação do art. 90, § 4º do CPC" (e-STJ fl. 114).
+Aduz que "uma vez que o réu não contestou a demanda, não apresentando lide indenizatória, é perfeitamente cabível a aplicação do § 4º artigo 90 do CPC, já que a finalidade da norma processual é justamente evitar o litígio e abreviar a lide, exatamente como ocorreu no caso em tela" (e-STJ fl. 114).
+Por fim, alega que (e-STJ fls. 116/118):
+Vale destacar que na hipótese em que a Fazenda Pública figura como demandada, o benefício deve ser aplicado não apenas quando há o pagamento imediato (até porque, via de regra, não há essa possibilidade ao ente público, conforme o artigo 100 da CF), mas também quando se reconhece o pedido.
+Por certo, não é razoável que a Fazenda Pública não seja favorecida pela benesse do art. 90, § 4º do CPC apenas porque o pagamento dos valores está sujeito ao regime da RPV/precatório, sob pena de se comprometer a finalidade perseguida pela norma, que é justamente a redução da litigiosidade e abreviação da lide, exatamente como ocorreu no caso em tela.
+Não se pode negar que mesmo a parte tenha que aguardar para receber pelo regime especial de pagamento (do qual a Fazenda Pública não pode renunciar) - o reconhecimento do pedido estabelece situação muito mais favorável para o autor, com redução de tempo e litigiosidade.
+ ..
+Destaca-se, por fim, que o precedente desta Corte citado na fundamentação do Acórdão trata de inaplicabilidade do art. 90, § 4º do CPC em sede de execução ou cumprimento de sentença. Nessas hipóteses, não se desconhece que o STJ tem entendimento de que não seria aplicável a referida norma. No entanto, o fundamento de precedentes dessa natureza é a existência de previsão específica de isenção de honorários no cumprimento de sentença, em caso de ausência de impugnação, conforme § 7º do art. 85 do CPC1 - situação que diverge daquela versada neste recurso.
+Intimada para apresentar contrarrazões, a recorrida concordou com a redução dos honorários e requereu que não fosse dado seguimento ao recurso, com certificação do trânsito em julgado, nos termos da petição juntada à e-STJ fl. 126.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Decido.
+O recurso está prejudicado por perda de objeto.
+Com efeito, a parte recorrida concordou com a redução dos honorários pela metade, razão pela qual não há mais controvérsia a ser dirimida no presente feito, restando prejudicado o recurso.
+Diante do exposto, com base no 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO DE CONHECIMENTO EM FACE DA FAZENDA PÚBLICA. OBRIGAÇÃO DE PAGAR. VIOLAÇÃO AO ART. 90, § 4º, DO CPC/2015. RECONHECIMENTO DO PEDIDO. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELA METADE. CONCORDÂNCIA DA PARTE RECORRIDA EM SEDE DE CONTRARRAZÕES. PERDA DO OBJETO. RECURSO ESPECIAL NÃO CONHECIDO.
