@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 2ª Região, assim ementado (fl. 232):
+APELAÇÃO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES. ATUALIZAÇÃO DE VALORES NÃO PAGOS. TAXA SELIC. AUSÊNCIA DE INDICAÇÃO NA CERTIDÃO DE DÍVIDA ATIVA. VÍCIO INSANÁVEL.
+1. Os títulos executivos que instruem execuções ajuizadas pelos conselhos devem observar os requisitos dispostos nos arts. 202 do CTN e 2º, § 5º, da Lei nº 6.830/80 (LEF), sobretudo em relação à demonstração da origem, natureza e fundamento legal da dívida.
+2. O índice previsto em lei para a atualização dos créditos tributários, bem assim para débitos de qualquer natureza das autarquias, é a Taxa Selic (arts. 13 da Lei nº 9.065/95, 61, §3º da Lei nº9.430/1996 e 30 e 37-A da Lei nº 10.522/2002), cuja utilização para esse fim já foi considerada como legítima em precedentes vinculantes do STF e do STJ.
+3. A única exceção à aplicação da Taxa Selic para a atualização de débitos relativos a anuidades devidas a conselhos profissionais é a existência de previsão legal específica de um outro índice de atualização. À míngua de tal previsão, a norma geral sobre atualização pela Taxa Selic prevalece sobre disposições contidas em ato normativo de hierarquia inferior.
+4. A Lei nº 3.268/1957, que regula o exercício da profissão de médico, nada dispõe sobre os parâmetros para a cobrança das anuidades devidas ao respectivo conselho profissional, apenas estipulando, a competência do Conselho Federal para "fixar e alterar o valor da anuidade única, cobrada aos inscritos nos Conselhos Regionais de Medicina" (art. 5º, alínea "j"), de modo que lhes são aplicáveis as disposições da Lei nº 12.514, publicada em 31.10.2011, a partir do exercício de 2013, em razão das anterioridades de exercício e nonagesimal.
+5. O art. 6º, § 1º, da Lei nº 12.514/11, por sua vez, prevê a utilização do INPC/IBGE apenas para o reajuste do valor máximo das anuidades devidas a conselhos profissionais, sem nada dispor sobre a atualização do indébito relativo a tais tributos.
+6. Na dicção desta 7ª Turma Especializada, "a ausência de indicação do índice de atualização a ser efetivamente utilizado e a inobservância do índice correto constituem vícios no próprio lançamento, e não mero erro material, sendo inviável a emenda ou substituição da CDA" (AC 5083241-11.2020.4.02.5101, 7ª Turma, Rel. Des. Federal Luiz Paulo da Silva Araújo Filho, j. 27/04/2022). Ressalva do ponto de vista da Relatora quanto ao ponto.
+7. No ca so, da análise da CDA, observa-se que a atualização do débito foi feita pelo INPC/IBGE, e não pela Taxa Selic.
+8. Apelação a que se nega provimento.
+Embargos de declaração rejeitados (fls. 286-288).
+O recorrente alega violação do art. 2º, § 8º da Lei 6.830/80, ao argumento de que o referido dispositivo legal não cria qualquer restrição à possibilidade de emenda ou substituição da Certidão de Dívida Ativa, desde que anterior à decisão de primeira instância e assegurando a devolução do prazo para embargos, havendo cerceamento de defesa ao não ser intimado para proceder à retificação do índice de correção monetária constante na CDA, substituindo-o para a taxa SELIC.
+Contrarrazões às fls. 319-321.
+Juízo positivo de admissibilidade às fls. 330-331.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão merece prosperar.
+Isso porque o entendimento esposado no acórdão recorrido não encontra respaldo na jurisprudência pacífica desta Corte, no sentido de que é possível o prosseguimento da execução fiscal sem necessidade de emenda ou substituição da CDA quando se tratar de simples operação aritmética, como adequações no cálculo de juros ou correção monetária.
+Nesse sentido, com grifos nossos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. APURAÇÃO DO MONTANTE QUE PODE SER FEITA MEDIANTE SIMPLES CÁLCULO ARITMÉTICO PARA SE RETIFICAR O VALOR INSCRITO. NULIDADE DA CDA. INEXISTÊNCIA.
+HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE ALTERAR A BASE DE CÁLCULO. IMPOSSIBILIDADE. INCURSÃO NO CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA n. 7/STJ.
+1. Em relação as CDAs, o Tribunal local consignou: "Entendo que as certidões da dívida ativa nº 1.221.329.749 e 1.222.998.469, após devida retificação para aplicar os juros conforme a Selic, preenchem todos os requisitos previstos no art. 202 do CTN e não padecem de irregularidade quanto à inscrição do débito, não se configurando a nulidade alegada pela empresa na inicial, bastando a realização de mero cálculo aritmético para adequação dos juros. (..) Desta forma, entendo que a decisão de primeiro grau corretamente reconheceu a impossibilidade de aplicação dos juros previstos na Lei Estadual nº 13.918/09, sendo inviável reconhecer a nulidade das CDAs, uma vez que é possível a revisão dos valores inscritos, de modo a afastar a lei inconstitucional, aplicando-se a Selic." (fls. 32-35, e-STJ, grifos acrescidos).
+2. Conforme já mencionado no decisum monocrático, o acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que "é possível prosseguir na execução fiscal sem necessidade de emenda ou substituição da CDA, quando viável o decote das parcelas do título executivo fiscal tidas por ilegais na sentença por simples cálculo aritmético, permanecendo incólume a presunção de liquidez e certeza do título executivo" (REsp 1.887.677/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 5.10.2020).
+ ..  6. Agravo Interno não provido.
+(AgInt no REsp n. 1.791.067/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/11/2021, DJe de 16/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX. EXECUÇÃO FISCAL. VALIDADE DA CDA. PRESENÇA DOS REQUISITOS LEGAIS ATESTADA PELO TRIBUNAL DE ORIGEM. MODIFICAÇÃO DO JULGADO QUE REQUER O REEXAME DE PROVAS. PARCELA INDEVIDA. MERO CÁLCULO ARITMÉTICO. EXIGIBILIDADE PARCIAL DO VALOR INSCRITO NA DÍVIDA ATIVA. AUSÊNCIA DE NULIDADE DO TÍTULO. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Não houve violação do art. 1.022 do Código Fux, tendo em vista que o Tribunal de origem apreciou a lide de forma clara e adotou fundamentação suficiente para negar a pretensão da parte recorrente.
+Portanto, em não havendo omissão, contradição ou obscuridade no julgado, rejeita-se a tese de violação do mencionado artigo.
+2. É entendimento pacífico nesta egrégia Corte Superior de que o enfrentamento de questão relacionada à verificação do preenchimento dos requisitos legais da Certidão de Dívida Ativa - CDA implica, necessariamente, o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. A jurisprudência desta Corte entende pela possibilidade de alteração da CDA, desde que haja simples operação aritmética para expurgar a parcela indevida, como no presente caso, em que houve apenas a adequação no cálculo dos juros de mora (substituição para a Selic).
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AREsp n. 1.254.709/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 31/8/2020, DJe de 4/9/2020.)
+Confira-se ainda a seguinte decisão monocrática proferida em caso análogo ao dos autos: REsp n. 2.043.165/RJ, Ministro Humberto Martins, DJe de 17/04/2023.
+Ante o exposto, dou provimento ao recurso especial para determinar o prosseguimento da execução fiscal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES. ALTERAÇÃO DA CDA. SIMPLES CÁLCULO ARITMÉTICO. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
