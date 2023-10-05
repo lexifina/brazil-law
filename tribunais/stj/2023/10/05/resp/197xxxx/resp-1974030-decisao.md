@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por DEIVISTI DA SILVA NORBERT, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos impronúncia do recorrente da imputação da prática do crime de homicídio qualificado tentado, édito reformado pelo Tribunal de origem que deu provimento ao apelo ministerial para pronunciá-lo nos termos da denúncia e rejeitou embargos declaratórios defensivos.
+Nas razões do recurso especial, a defesa sustenta ofensa ao art. 155 do CPP, diante da fragilidade probatória para estear decisão de pronúncia.
+Pugna pelo provimento do recurso para que o recorrente seja despronunciado.
+Apresentadas as contrarrazões, o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento do recurso especial.
+É o relatório. DECIDO.
+A (in)suficiência probatória para pronúncia constitui o cerne do recurso especial.
+Acerca da temática recursal, o Tribunal de origem, no que interessa ao caso, ao julgar o recurso de apelação criminal ali interposto pela acusação, assim dispôs:
+"Como se vê dos depoimentos alhures reproduzidos, a despeito da tese sustentada pela defesa, extraem-se dos autos, sobretudo do depoimento da vítima, na fase administrativa, indícios suficientes a imputarem ao recorrido o cometimento do delito sub judice.
+Veja-se, para tanto, que o sedizente ofendido, durante a confecção do inquérito policial, descreveu as circunstâncias do delito, assim como reconheceu o réu como sendo o autor do crime.
+Não se desconhece, é verdade, que na primeira oportunidade em que foi ouvido, Gilberto (vítima) identificou pessoa diversa do réu, como sendo o autor do crime (Deivid da Silva Dolz);
+contudo, não se pode desconsiderar que, na mesma data em que efetivado o primeiro registro (14JUL2010), Gilberto retornou à Delegacia de Polícia e retificou o nome do autor dos disparos, para Deivisti Norbert, ocasião em que, inclusive, reconheceu o réu a partir de uma foto sua publicada no jornal local (jornal NH  fls. 11 e 13).
+Além disso, como destacado pelo Ministério Público de primeiro grau, a vítima, por ocasião de sua primeira oitiva na polícia, não identificou apenas o nome do autor do crime, mas também o prenome da mãe do réu ("Rose de tal"), o locai de onde o conhecia ("conhecido do declarante, pois ele morou de aluguel na casa da Rua Emílio Riegel, ele e a mãe dele" 2 ) e o endereço residencial de Deivist ("ele está morando na Rua Ramiro Otávio Siebel 3 "), que correspondem, em tese, à identificação de Deivist da Silva Norbert.
+Assim, não se pode desconsiderar a possibilidade de que Gilberto tenha se equivocada na identificação do autor do crime, por ocasião de sua primeira altiva na fase administrativa.
+De outro lado, o fato do depoimento de Gilberto, em juízo, ter tomado rumo oposto àquele apresentado na polícia, não autoriza a impronúncia do acusado, na medida em que, existindo mais de uma versão para o fato criminoso, compete ao Tribunal do júri examinar a prova colhida e optar pela versão que lhe parecer mais verossímil, não cabendo ao juízo monocrático e nem ao Tribunal dirimir a controvérsia que ressai da retratação da vítima, considerando que é o Conselho de Sentença o órgão competente para decidir se a prova coletada é, ou não, suficiente para a condenação, mesmo porque não pode ser exigida, no juízo provisório da pronúncia, prova plena de autoria. Não se pode desconsiderar, outrossim, a possibilidade de a vítima ter modificado o seu depoimento por medo de sofrer represálias por parte do réu.
+Com efeito, segundo o informante G.S. (irmão da vítima), "O acusado ficou perseguindo a vítima depois que ele retornou do hospital, passando de moto na rua". Já 0,R.S. (pai da vítima), referiu que "Deivist passava de motocicleta pela rua que Gilberto estava, procurando-o para mata-/o".
+ ..
+Nesse contexto, cabe salientar que os jurados possuem competência constitucional para julgar os crimes dolosos contra a vida e, para tanto, devem analisar os autos de "capa a capa". Desse modo, toda e qualquer prova carreada aos autos é apta para o Conselho de Sentença firmar o seu convencimento. Nessa toada, tenho que os elementos colhidos na fase pré-processual são aptos para a pronúncia do acusado, pois esta possui conteúdo meramente declaratório e não configura juízo de certeza. Nesse sentido já se manifestou o Superior Tribunal de Justiça" (fls. 422-441).
+Como se denota, o Tribunal de origem concluiu pela pronúncia do recorrente diante da suficiência probatória da materialidade e de indícios suficientes de autoria, em especial consoante os depoimentos prestados em juízo que corroboram os elementos colhidos na fase investigativa.
+Entender de modo diverso ao que estabelecido pelo Tribunal de origem para se despronunciar o agravante demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. PRONÚNCIA. COMPETÊNCIA DO TRIBUNAL DO JÚRI. AUSÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283/STF.
+1. Do conjunto probatório coligido aos autos, a materialidade foi comprovada e há suficientes indícios de autoria para a submissão do agravante ao Tribunal popular.
+2. Havendo indícios da prática de crime doloso contra a vida, faz-se necessária a pronúncia, para que o juiz natural da causa aprecie o mérito da imputação.
+3. Alterar o entendimento do Tribunal de origem, a fim de concluir que a dinâmica dos fatos teria ocorrido de forma diversa, demandaria análise probatória, providência vedada na via eleita, a teor da Súmula n. 7 do STJ.
+4. Entre a fundamentação do acórdão objurgado e a argumentação do recurso especial, nota-se que a parte recorrente deixou de impugnar fundamento suficiente capaz de manter a decisão inalterada, fazendo incidir a Súmula n. 283/STF.
+5. Agravo regimental desprovido" (AgRg no AREsp n. 2.211.016/RS, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 24/4/2023)
+Ainda: AREsp n. 2.215.915/SP, Quinta Turma, da minha relatoria, DJe de 3/7/2023.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PLEITO DE DESPRONÚNCIA. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7, STJ. RECURSO NÃO CONHECIDO.
