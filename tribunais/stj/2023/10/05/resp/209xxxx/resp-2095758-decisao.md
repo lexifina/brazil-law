@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RENATO LEITE com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 26/6/2023.
+Concluso ao gabinete em: 2/10/2023.
+Ação: de execução ajuizada pela parte recorrida.
+Decisão interlocutória: rejeitou a exceção de pré-executividade.
+Acórdão: por unanimidade, negou provimento ao recurso de agravo de instrumento, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO EXECUÇÃO - Locação comercial Insurgência contra a decisão que rejeitou a exceção de pré-executividade apresentada pelo agravante OFENSA À COISA JULGADA Inocorrência Anterior ação de despejo cumulada com cobrança que fez coisa julgada apenas em relação à locatária que integrou referida ação COMPETÊNCIA DO JUÍZO Alegação de incompetência relativa que não constitui matéria de ordem pública, única passível de análise em exceção de pré-executividade Não conhecimento da questão Observância, ademais, de que o feito foi proposto no domicílio do requerido, conforme facultado à exequente LEGITIMIDADE DO EXECUTADO Verificada Inteligência do art. 779, V, do CPC Descabimento da alegação de extinção da garantia após entrega das chaves Entendimento que esvaziaria a garantia da locadora IMPENHORABILIDADE DO IMÓVEL OFERECIDO EM CAUÇÃO POR TRATAR-SE DE BEM DE FAMÍLIA Descabimento Imóvel espontaneamente indicado como caução em contrato de locação Pedido de liberação que viola a confiança depositada pelo locador, atentando contra os ditames da boa-fé objetiva, notadamente no tocante ao dever anexo de lealdade e ao instituto do "venire contra factum proprium", não podendo ser aceito por esta Corte Hipótese que se enquadra analogicamente no disposto pelo artigo 3º, V da Lei 8009/90 - Negado provimento.
+(fl. 218)
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa aos arts. 337, 4º, 785, 779, V, do Código de Processo Civil e ao art. 3º da Lei n. 8.009/1990, ao argumento de que: a) estaria caracterizada ofensa à coisa julgada; b) estaria configurada a ilegitimidade passiva da parte recorrente, pois, de acordo com o contrato de locação em apreço, o termo final da garantia prestada seria a entrega das chaves; e c) a caução não se confunde com a hipoteca, motivo pelo qual deve prevalecer a impenhorabilidade do bem de família.
+Prévio juízo de admissibilidade: o TJSP admitiu o recurso especial interposto (fls. 328-329).
+É o relatório.
+DECIDO.
+1. DA SÚMULA 7 DO STJ
+1. No que diz respeito à alegação de ofensa à coisa julgada, importa consignar que esta Corte Superior perfilha o entendimento de que, "quanto aos limites subjetivos e objetivos da coisa julgada, também a sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ" (REsp n. 2.035.667/RJ, Segunda Turma, julgado em 9/5/2023, DJe de 22/6/2023)
+2. DA SÚMULA 5 DO STJ
+2. Aduz a parte recorrente, ainda, que estaria configurada a sua ilegitimidade passiva, pois, de acordo com o contrato de locação em apreço, o termo final da garantia prestada seria a entrega das chaves.
+3. Quanto ao ponto, observa-se que o acolhimento da tese recursal, na forma como veiculada, demandaria o exame e a interpretação das cláusulas contratuais mencionadas, o que é vedado pelo enunciado da Súmula 5 do STJ.
+3. DA IMPENHORABILIDADE E DA CAUÇÃO
+4. Por fim, sustenta que a caução não se confunde com a hipoteca, motivo pelo qual deve prevalecer a impenhorabilidade do bem de família.
+5. A Corte de origem, no entanto, afastou a referida garantia, por entender que a própria parte recorrente indicou o bem como garantia, sendo possível, ademais, equiparar a caução à hipoteca, aplicando-se, por analogia, o art. 3º, V, da Lei n. 8.009/1990, verbis:
+Imperioso afastar a alegação de impenhorabilidade do imóvel, tendo em vista que este foi expressamente indicado pelo agravante como garantia real no contrato de locação que embasa a demanda.
+À luz de tais circunstâncias, notória a contradição interna entre o comportamento e alegações do agravante, que ora aponta o imóvel como principal garantia da obrigação entabulada evidenciando a disponibilidade do bem e criando uma justa expectativa de penhorabilidade nos demais contratantes , e depois pleiteia sua liberação sob o argumento de constituir bem inalienável e indispensável à sobrevivência de sua entidade familiar.
+Tal postura não só viola a confiança depositada pela locadora, mas atenta contra os ditames da boa-fé objetiva, notadamente no tocante a dever anexo de lealdade e ao instituto do venire contra factum proprium, não podendo ser aceita por esta Corte.
+Desta feita, já se manifestou este Tribunal de Justiça no sentido de que tal situação deve ser equiparada à hipoteca, enquadrando-se analogicamente na regra prevista pelo artigo 3º, V da Lei 8009/90, não havendo se falar em impenhorabilidade do bem espontaneamente ofertado como caução em relação locatícia.
+ ..
+A alegação de impenhorabilidade, portanto, não prevalece, sendo lícito que o credor se valha da excepcional prerrogativa que lhe é garantida pelo ordenamento, penhorando o imóvel litigioso.
+(fls. 226-229)
+6. Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimento de que, "em se tratando de caução oferecida em contrato de locação, não se aplica a exceção prevista no art. 3º, VII, da Lei 8.009/90. Caso o legislador desejasse afastar da regra da impenhorabilidade o imóvel residencial oferecido em caução o teria feito, assim como o fez no caso do imóvel dado em garantia hipotecária (art. 3º, V, da Lei 8.009/90)" (REsp n. 1.873.594/SP, Terceira Turma, julgado em 2/3/2021, DJe de 4/3/2021).
+7. A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONTRATO DE LOCAÇÃO COMERCIAL. CAUÇÃO. BEM DE FAMÍLIA. IMPENHORABILIDADE.
+1. "Em se tratando de caução oferecida em contrato de locação, não se aplica a exceção prevista no art. 3º, VII, da Lei 8.009/90. Caso o legislador desejasse afastar da regra da impenhorabilidade o imóvel residencial oferecido em caução o teria feito, assim como o fez no caso do imóvel dado em garantia hipotecária (art. 3º, V, da Lei 8.009/90)" (REsp 1873594/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/03/2021, DJe 04/03/2021).
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.970.700/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+8. No mesmo sentido: REsp n. 1.789.505/SP, Quarta Turma, julgado em 22/3/2022, DJe de 7/4/2022; AgInt no AgInt no AREsp n. 2.210.235/SP, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; REsp n. 1.887.492/SP, Terceira Turma, julgado em 13/4/2021, DJe de 15/4/2021.
+9. Desse modo, impõe-se o retorno dos autos à Corte de origem, para examinar se o bem penhorado se enquadra no conceito legal de bem de família (art. 1º da Lei 8.009/90). Se a conclusão for positiva, o imóvel é impenhorável e, sendo assim, eventual constrição deverá ser cancelada ante os fundamentos acima exarados.
+Forte nessas razões, CONHEÇO EM PARTE do recurso especial e, nesta extensão, DOU-LHE PROVIMENTO, a fim de declarar a inaplicabilidade da exceção prevista no art. 3º, VII, da Lei 8.009/90, e determinar o retorno dos autos ao Tribunal de origem, para examinar, com base nas orientações firmadas por esta Corte, se o imóvel dado em caução pelo recorrente se enquadra no conceito legal de bem de família.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. OFENSA À COISA JULGADA. SÚMULA 7 DO STJ. ILEGITIMIDADE PASSIVA. SÚMULA 5 DO STJ. CONTRATO DE LOCAÇÃO. CAUÇÃO. INAPLICABILIDADE DA EXCEÇÃO PREVISTA NO ART. 3º, VII, DA LEI 8.009/90.
+1. No que diz respeito à alegação de ofensa à coisa julgada, importa consignar que esta Corte Superior perfilha o entendimento de que, "quanto aos limites subjetivos e objetivos da coisa julgada, também a sua apreciação não é permitida pelo STJ na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ" (REsp n. 2.035.667/RJ, Segunda Turma, julgado em 9/5/2023, DJe de 22/6/2023).
+2. Quanto à ilegitimidade passiva, o acolhimento da tese recursal, na forma como veiculada, demandaria o exame e a interpretação das cláusulas contratuais mencionadas, o que é vedado pelo enunciado da Súmula 5 do STJ.
+3. Esta Corte Superior perfilha o entendimento de que, "em se tratando de caução oferecida em contrato de locação, não se aplica a exceção prevista no art. 3º, VII, da Lei 8.009/90. Caso o legislador desejasse afastar da regra da impenhorabilidade o imóvel residencial oferecido em caução o teria feito, assim como o fez no caso do imóvel dado em garantia hipotecária (art. 3º, V, da Lei 8.009/90)" (REsp n. 1.873.594/SP, Terceira Turma, julgado em 2/3/2021, DJe de 4/3/2021).
+4. Recurso especial conhecido em parte e, nesta extensão, provido.
