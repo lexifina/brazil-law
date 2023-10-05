@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por PABULO DANTAS DE NOVAES contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ fl. 831/832):
+HABEAS CORPUS. CRIMES DE EXTORSÃO MEDIANTE SEQUESTRO EASSOCIAÇÃO CRIMINOSA. PEDIDO DE TRANCAMENTO DA AÇÃOPENAL. IMPOSSIBILIDADE. FATO PENALMENTE TÍPICO. ALEGAÇÃODE FALTA DE JUSTA CAUSA DECORRENTE DA NULIDADE DORECONHECIMENTO FOTOGRÁFICO REALIZADO EM DELEGACIA. DEFLAGRAÇÃO DA AÇÃO PENAL QUE NÃO SE BASEOUUNICAMENTE DO RECONHECIMENTO FOTOGRÁFICO. PROVAS QUEAINDA SERÃO COLHIDAS NO DECORRER DA INSTRUÇÃOPROCESSUAL. ALEGAÇÃO DE DESNECESSIDADE DA PRISÃOPREVENTIVA. DECISÃO QUE RECENTEMENTE INDEFERIU O PEDIDODEFENSIVO DE REVOGAÇÃO DA SEGREGAÇÃO CAUTELARSATISFATORIAMENTE FUNDAMENTADO. DEMONSTRADO O RISCOCONCRETO À ORDEM PÚBLICA E TAMBÉM À FUTURA APLICAÇÃODA LEI PENAL. PACIENTE QUE PERMANECE FORAGIDO DODISTRITO DA CULPA DESDE OS FATOS DELITUSOSOS, OCORRIDOS EM 2016. ORDEM CONHECIDA E DENEGADA, EM HARMONIA COM O PRONUNCIAMENTO DA PROCURADORIA DE JUSTIÇA.
+Consta dos autos que o recorrente foi denunciado pela suposta prática dos crimes de extorsão mediante sequestro e associação criminosa.
+No presente recurso, sustenta a defesa a possibilidade de trancamento da ação penal, uma vez que a denúncia encontra-se apoiada em reconhecimento fotográfico realizado em desacordo com as regras do art. 226 do CPP.
+Aponta, ainda, que a prisão preventiva não se encontra devidamente fundamentada, pois ausentes elementos concretos da necessidade da medida extrema.
+Requer, liminarmente, possa o recorrente aguardar em liberdade o jul gamento da ação penal. No mérito, pleiteia seja provido o recurso ordinário para revogar o decreto preventivo e reconhecida a nulidade do reconhecimento fotográfico realizado em sede policial.
+É o relatório. Decido.
+De início, observa-se que o as alegações apresentadas no presente recurso ordinário foram por mim enfrentadas no julgamento do HC-858.383/BA, impetrado em favor do ora recorrente (decisão de 3/10/2023).
+Assim, a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores". (AgRg no RHC n. 103.808/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus.
+Intimem-se.
+EMENTA
