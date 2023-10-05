@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERNANI PEREIRA DA SILVA JUNIOR, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal Regional Federal da 5ª Região.
+Depreende-se dos autos condenação do recorrente à pena de 2 (dois) anos e 6 (seis) meses de reclusão, em regime aberto, pela prática do crime do art. 90 da Lei n. 8.666/1993 (fl. 1273), édito mantido íntegro pelo Tribunal de origem que negou provimento ao apelo defensivo (fls. 1665-1670) e rejeitou embargos declaratórios (fls. 1798-1815).
+Nas razões do recurso especial (fls. 1902-1923), a defesa sustenta ofensa ao art. 155 do CPP, em face da inidoneidade do acervo probatório para estear a condenação, uma vez que não foram chanceladas em juízo, sendo estritamente produzidas no curso do procedimento administrativo.
+Pugna pelo provimento do recurso para que seja absolvido.
+Apresentadas as contrarrazões, o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A Subprocuradoria-Geral da República apresentou parecer pelo não conhecimento ou pelo desprovimento do recurso especial.
+É o relatório. DECIDO.
+A (in)idoneidade do acervo probatório que esteia o decreto condenatório constitui o cerne do recurso especial.
+Acerca da temática recursal, o Tribunal de origem assim dispôs:
+"Sem maiores delongas, na hipótese dos autos, nã o enxergo ambiguidade, obscuridade, contradição ou omissão no julgado. Ao contrário, resta claro que o órgão julgador enfrentou a matéria de que cuida o presente recurso, como se constata do trecho do acórdão a seguir transcrito:
+" ..  Nesse passo, a sentença demonstrou com propriedade a prática delituosa em análise percuciente do conjunto probatório, razão pela qual adoto seus fundamentos como razão de decidir, passando a transcrevê-los no que importa  .. "
+Outrossim, é perfeitamente possível a condenação baseada em provas colhidas na fase extrajudicial, desde que estas sejam cautelares, não repetíveis ou antecipadas, consoante dispõe o art. 155 do Código de Processo Penal.
+Na hipótese dos autos, as provas levadas a efeito no curso do inquérito civil público foram todas submetidas ao contraditório diferido, de sorte que a defesa pôde contestá-las no curso do processo.
+Ademais, além das provas colhidas na fase extrajudicial, a sentença condenatória fez consignar que, na oportunidade em que realizada a audiência de instrução, "foi inquirida uma testemunha e, em face da ausência injustificada de todos os réus para interrogatório, este juízo reputou prejudicada a produção da prova oral referente às testemunhas de defesa arroladas pelo réu FELIPE FIGUEIREDO NÓBREGA , que deveriam comparecer ao ato independente de intimação judicial. Ainda na referida audiência, a defesa dos réus ERNANI PEREIRA DA SILVA JÚNIOR e ROSÉLIA PEREIRA DA SILVA solicitou o aproveitamento dos depoimentos pessoais prestados na Ação de Improbidade Administrativa nº 0800626-83.2016.4.05.8201, o que foi deferido pelo juízo "
+Consoante se denota, o Tribunal de origem manteve a condenação e reforçou que "as provas levadas a efeito no curso do inquérito civil público foram todas submetidas ao contraditório diferido, de sorte que a defesa pôde contestá-las no curso do processo".
+Entender de modo diverso ao que estabelecido pelo Tribunal de origem para se concluir pelo amparo exclusivo da condenação em elementos produzidos na fase administrativa demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência que não se coaduna com os propósitos da via eleita, nos termos da Súmula n. 7/STJ, que dispõe que "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, "A revisão da conclusão das instâncias ordinárias para se acatar a tese de que a condenação foi amparada exclusivamente em elementos colhidos na fase inquisitorial e de que o agravante não cometeu o delito em questão, ou que não agiu com dolo, demandaria o necessário revolvimento do conjunto fático-probatório do feito, o que se mostra inviável nesta via especial, nos termos da Súmula n. 7 do STJ" (AgRg no REsp n. 1.969.364/CE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 31/5/2023).
+E mais: REsp n. 1.853.401/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 4/9/2020.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO ESPECIAL. FRAUDE AO PROCESSO LICITATÓRIO. ART. 155 DO CPP. ACERVO PROBATÓRIO SUBMETIDO AO CRIVO JUDICIAL. CONCLUSÃO DIVERSA. REEXAME FACTUAL. SÚMULA 7, STJ. RECURSO NÃO CONHECIDO.
