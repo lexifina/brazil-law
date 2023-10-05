@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DO AMAZONAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim resumido:
+MANDADO DE SEGURANÇA. QUINTOS INCORPORADOS. CORREÇÃO. VANTAGEM INDIVIDUAL NOMINALMENTE IDENTIFICADA (VTNI). POSSIBILIDADE. ÍNDICE APLICÁVEL. REVISÃO GERAL DA REMUNERAÇÃO. PRECEDENTES DO STF E STJ. DIREITO À PERMANÊNCIA DO REGIME DE REAJUSTE DE VANTAGEM. SEGURANÇA CONCEDIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 1.022, parágrafo único, II, e 489, § 1º, IV, do CPC, no que concerne ao reconhecimento de nulidade do acórdão recorrido por negativa de prestação jurisdicional, trazendo a seguinte argumentação:
+Em sede de contestação, o recorrente sustentou que o valor dos "quintos" a serem incluídos na remuneração não corresponde a R$ 3.300,84 (três mil, trezentos reais e oitenta e quatro centavos), tendo em vista que se cometeram equívocos nos respectivos cálculos (fl. 306).
+Em que pese toda essa argumentação, o acórdão recorrido deixou de apreciar todos esses pontos, razão pela qual foram opostos os embargos de declaração n.º 0002128-39.2022.8.04.0000.
+Todavia, o juízo a quo novamente deixou de enfrentar esses argumentos relevantes e capazes de, em tese, infirmar a conclusão que se adotou no acórdão recorrido, sob o fundamento de que inexistia omissão para se suprir, razão pela qual rejeitou os embargos de declaração.
+Impende destacar que constam em(dois) trechos do acórdão recorrido que a os quintos devem equivaler à diferença entre a remuneração do cargo em comissão e o vencimento do cargo efetivo.
+ ..
+Porém, muito embora se tenha feito menção a tal regra, o acórdão recorrida determinou que se incluíssem na remuneração do recorrido os quintos de R$ 3.300,84 (três mil, trezentos reais e oitenta e quatro centavos), sem a devida observância do que previa o art. 82, inciso I, da Lei Estadual n.º 1.782/1.986.
+Não resta dúvida de que as questões jurídicas supracitadas são relevantes, tendo em vista que, caso analisadas, acarretariam a alteração do valor dos quintos.
+Nota-se que o órgão julgador deixou de enfrentar argumentos relevantes e capazes de, em tese, infirmar a conclusão que se adotou nos acórdãos recorridos, configurando a deficiência da fundamentação da decisão judicial nos termos do art. 489, § r, inciso IV, do CPC/2.015 (fls. 312-313).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento dos dispositivos de lei federal apontados como violados, uma vez que não houve o devido e necessário debate a respeito destes dispositivos no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual é "inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração" (AgInt no REsp n. 1.858.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.883.703/ES, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1/9/2022; REsp n. 1.666.862/CE, relator Ministro Francisco Falcão, relator para acórdão Ministro Og Fernandes, Segunda Turma, DJe de 8/9/2022; AgRg no AREsp n. 2.089.384/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/8/2022; AgInt no AREsp n. 2.101.047/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; AgInt no AREsp n. 2.033.678/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/8/2022; AgInt no AREsp n. 1.812.402/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17/6/2022; AgInt no AREsp n. 743.795/RN, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28/4/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
