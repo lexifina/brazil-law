@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante VIÇÃO NORDESTE LTDA. - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO DE DIREITO DA 24ª VARA CÍVEL DE NATAL - RN e o JUÍZO DA 2ª VARA DO TRABALHO DE NATAL - RN.
+Ação em trâmite no juízo cível: recuperação judicial da suscitante.
+Ação em trâmite no juízo trabalhista: reclamatória n. 0000570-38.2021.5.21.0002 ajuizada por RUI OLIVEIRA DA SILVA em face da suscitante.
+Conflito de competência: alega, em síntese, que o juízo recuperacional é o único competente para dispor sobre o destino de seu acervo patrimonial. Pleiteia, liminarmente, a suspensão dos efeitos da decisão proferida pelo juízo trabalhista que determinou a liberação de depósitos recursais em favor da parte adversa.
+Tutela antecipada: indeferida à e-STJ fl. 60.
+Reconsideração: pedido formulado às fls. 67/68, se insurgindo contra o indeferimento da liminar.
+Informações prestadas pelo Juízo Laboral: afirmou que o bloqueio efetivado na execução trabalhista em face da empresa devedora não amortece de forma razoável o débito e determinou a habilitação, no processo piloto n. 091000-05.2013.5.21.0006, em trâmite no TRT da 21ª Região, dos créditos reunidos no feito, inclusive com a disponibilização do objeto do bloqueio realizado (e-STJ, fls. 81/90).
+Parecer do MPF: opina pela declaração da competência do juízo recuperacional.
+É O RELATÓRIO. DECIDO.
+Depreende-se dos autos que o processo de recuperação judicial da suscitante está em regular andamento perante a Justiça Comum do Estado do Rio Grande do Norte. Constata-se, ainda, que o juízo trabalhista suscitado determinou o bloqueio de bens de titularidade da recuperanda para pagamento do débito trabalhista.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que "os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da última norma" (EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015).
+Vale lembrar, ademais, que a Segunda Seção do STJ possui entendimento consolidado no sentido de que é "da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento" (AgInt nos EDcl no CC 165.079/SP, DJe 08/05/2020).
+Dessa forma, o Juízo perante o qual tramita o processo de soerguimento da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da empresa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA 24ª VARA CÍVEL DE NATAL - RN para deliberar, em relação à ação trabalhista indicada na inicial, acerca da constrição, excussão ou liberação de valores de titularidade da suscitante. Julgo prejudicada a análise do pedido de reconsideração formulado contra a liminar.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o Juízo recuperacional para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA 24ª VARA CÍVEL DE NATAL - RN. Prejudicada a análise do pedido de reconsideração formulado contra a liminar.
