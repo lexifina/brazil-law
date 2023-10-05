@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Pedido de Reconsideração formulado por JOÃO EMILIO GONÇALVES FERREIRA DOS REIS, contra decisão da minha lavra que não conheceu da Reclamação, ao fundamento de que:
+"Conforme relatado, objetiva a parte reclamante obter a reforma do acórdão reclamado, para fazer prevalecer a conclusão adotada em Súmula do STJ.
+Nesse contexto, afigura-se a impropriedade do meio recursal escolhido, pois, conforme a firme jurisprudência desta Corte, a reclamação tem por objeto garantir o quanto decido pelo STJ no julgamento do caso concreto, em que a parte reclamante tenha figurado como parte. Nesse sentido, entre muitos outros, destaco, por ilustrativos, os seguintes precedentes:
+(..)
+Por outro lado, vale registrar que a reclamação para o Superior Tribunal de Justiça é destinada à "preservação de sua competência e garantia da autoridade de suas decisões" (CF, art. 105, I, f), bem como a observância de julgamento proferido em IRDR e IAC, não se admitindo o seu uso como sucedâneo recursal. Nesse sentido, entre muitos outros, destaco os seguintes precedentes:
+(..)
+Nesse panorama, não restou configurada hipótese de cabimento da reclamação para o STJ, na linha dos precedentes desta Corte a respeito da matéria" (fls. 129/131e).
+Inconformado, o requerente sustenta que:
+"Data máxima vênia, Excelência, parece ter havido um equívoco na interpretação da intenção da reclamação apresentada.
+O Reclamante se insurgiu contra o julgamento pela 6.ª Turma Recursal do Tribunal de Justiça da Bahia, do processo em que é parte, cuja sentença inicial, lhe havia sido favorável ao observar a ausência da dupla notificação dando-lhe ciência da penalidade aplicada, como assevera a Súmula 312 deste Egrégio Tribunal.
+A 6.ª Turma Recursal do TJBA da Bahia, reformou a sentença, contrariando frontalmente o dispositivo sumulado dando interpretação própria ao texto, acrescentando que o fato do condutor residir no mesmo endereço da proprietária supriria o envio da notificação para ele, enquanto condutor devidamente apresentado perante o órgão de trânsito, mediante defesa prévia, da qual não foi informado do resultado.
+Ademais, após o julgamento, em sede de embargos, foi informado sobre o sobrestamento de todos os processos em trâmite, enquanto pendente o julgamento do RESp 1925456/SP, de relatoria do Excelentíssimo Ministro Herman Benjamim, que versava justamente sobre a exigência da dupla notificação para a aplicação da penalidade de trânsito.
+Dessa forma, cumpre esclarecer que a presente Reclamação não foi proposta como sucedâneo recursal, mas como insurgência ao julgamento pela 6ª Turma Recursal que deu interpretação própria divergindo do entendimento sumulado por este Egrégio Tribunal que exige a dupla notificação para a aplicação da penalidade" (fls.135/136e).
+Por fim, requer o provimento do pedido.
+O presente Pedido de Reconsideração não merece conhecimento.
+A doutrina majoritária defende o cabimento dos "sucedâneos recursais" que, "a despeito de não terem sido criados legislativamente como um recurso, fazem as vezes deste. Tal ocorre, por exemplo, com o pedido de reconsideração" (JOSÉ MIGUEL GARCIA MEDINA e TERESA ARRUDA ALVIM WAMBIER, in Recursos e Ações Autônomas de Impugnação, 2ª ed., Ed. Revista dos Tribunais, pp. 34/35), em razão do princípio da fungibilidade recursal.
+Tal princípio, inclusive, obteve novo contorno, no âmbito do CPC/2015, como na propalada regra interpretativa da primazia da análise de mérito (art. 4º), que busca o máximo aproveitamento da atividade processual.
+No que tange ao Pedido de Reconsideração contra decisão monocrática, apesar de não possuir previsão normativa - seja à luz do CPC/73 ou do CPC vigente -, tem sido admitida, pelo Superior Tribunal de Justiça, a sua conversão em Agravo Regimental ou interno, desde que não tenha sido utilizado com má-fé, não decorra de erro grosseiro e tenha sido apresentado dentro do prazo legal.
+No caso, contudo, deve ser afastada tal possibilidade, porqua nto não fora apresentado dentro do prazo legal, sendo, portanto, intempestivo.
+Conforme consta na certidão de publicação de fls 132e, a decisão ora impugnada fora publicada em 29 de novembro de 2021, ao passo que o pedido de reconsideração fora interposto em 01 de fevereiro, ultrapassando, portanto, o prazo de 15 (quinze) dias previsto no art. 1.070 do CPC/15.
+Nesse sentido:
+"PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO. INTERPOSIÇÃO CONTRA ACÓRDÃO. DESCABIMENTO. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. PEDIDO NÃO CONHECIDO.
+I - Na origem, trata-se de ação objetivando que sejam pagas à parte autora verbas rescisórias. Na origem, julgou-se improcedente o pedido. Esta Corte não conheceu do agravo em recurso especial, sendo negado provimento ao agravo interno.
+II - É inaplicável o princípio da fungibilidade recursal para fins de recebimento do pedido de reconsideração como embargos de declaração ou agravo interno, pois o recurso não atende a previsão legal de nenhuma das duas espécies (AgInt no RCD no AREsp n. 1.274.055/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/6/2019, DJe 25/6/2019).
+III - A jurisprudência desta Corte é no sentido de que a interposição de pedido de reconsideração é manifestamente incabível contra decisão emanada de órgão colegiado, o que impede a aplicação do princípio da fungibilidade recursal (AgInt no AgInt no AREsp n. 918.299/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 16/2/2017, DJe 23/2/2017).
+IV - Ademais, também nos termos da jurisprudência do Superior Tribunal de Justiça, o recebimento do pedido de reconsideração, como embargos de declaração, não se afigura possível, por se tratar de erro grosseiro (RCD no AgInt no AREsp n. 1.114.753/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/6/2018, DJe 3/8/2018).
+V - Pedido de reconsideração não conhecido. Consideram-se prejudicados os demais pedidos de reconsideração e determina-se a imediata baixa dos autos independentemente do transcurso do prazo do trânsito em julgado" (STJ, RCD no AgInt no AgInt nos EDcl no AREsp n. 1.588.683/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 12/2/2021).
+Ante todo o exposto, não conheço do Pedido de Reconsideração.
+I.
+EMENTA
