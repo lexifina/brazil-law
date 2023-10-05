@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão de fls. 110-118, que concedeu parcialmente a ordem para redimensionar a pena do paciente e fixar o regime semiaberto, com efeitos extensivos (art. 580 do CPP).
+Sustenta o embargante que haveria contradição na decisão, pois, "na aplicação do regime, o eminente ministro, aplica o regime semiaberto fundamentando no art. 33 §2º, "c" e § 3º, do Código Penal, contudo o próprio julgador em sua decisão traz que não há qualquer circunstância desfavorável ao paciente" (fls. 123-124). Defende ser "o regime ABERTO o mais adequado ao caso concreto, nos termos do próprio art. 33, §2º, "c"" (fl. 124).
+Requer o acolhimento dos presentes embargos para, sanando o vício apontado, fixar o regime aberto.
+Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+No caso, não há que se falar em contradição na decisão.
+O regime semiaberto foi fixado com fundamento no art. 33, § 2º, c e § 3º, pois, sendo a pena final fixada em patamar inferior a 4 anos de reclusão, e em que pese tratar-se de paciente primário e sem antecedentes, a pena-base sofreu acréscimo na forma do art. 42 da Lei 11.343/2006, em razão da natureza a quantidade da droga apreendida - "200g (duzentos gramas) de substância pulverulenta de cor branca (pasta base), acondicionada em 02 (duas) unidades de saco plástico transparente, bem como 2g (dois gramas) de substância pulverulenta de cor branca (pó branco), acondicionada em 1 (uma) unidade de pino de plástico transparente do tipo "eppendorf", identificadas como Cloridrato de Cocaína, popularmente conhecida como "cocaína"" (fl. 47) -, o que coaduna-se com a jurisprudência desta Corte Superior.
+A esse respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. FIXAÇÃO DE REGIME MAIS GRAVOSO. PENA-BASE ACIMA DO MÍNIMO LEGAL. NATUREZA E QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, na fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do agente, bem como a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+2. No caso, embora a pena definitiva tenha sido fixada em patamar inferior a 4 anos de reclusão, a natureza e a quantidade de droga apreendidas em poder da recorrente revela-se como circunstância judicial desfavorável, nos termos do art. 42 da Lei n. 11.343/2006, o que justifica o recrudescimento do regime prisional.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.053.415/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+A decisão embargada, ao consignar não ter "sido indicada qualquer circunstância adicional desfavorável" (fl. 117), não se referiu às circunstâncias judiciais do art. 59 do CP, mas, sim, a elementos fáticos que pudessem ser empregados para afastar a minorante do art. 33, § 4º, da Lei 11.343/2006, como inserção em grupo criminoso de maior risco social, atuação armada, prática delitiva envolvendo menores ou com instrumentos de refino da droga, entre outras. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DESNECESSIDADE. AÇÕES PENAIS SEM TRÂNSITO EM JULGADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. NÃO COMPROVAÇÃO. PENA-BASE. QUANTIDADE NÃO RELEVANTE.
+ ..  3. A quantidade não relevante de drogas, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção e m grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não ensejam a exasperação da pena-base, a vedação da minorante do tráfico no seu quantum máximo de 2/3, o rec rudescimento do regime prisional ou a negativa à substituição das penas.
+ ..  5. Agravo regimental provido para conhecer do agravo e prover recurso especial para aplicar a minorante do tráfico privilegiado, pela fração de 2/3, o que implica (à recorrente) a pena final de 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa.
+Extensão do resultado aos corréus Bruno Silva Miranda e Geibson Alves Serralho (art. 580 - CPP), aos quais a sentença estabeleceu o redutor de 1/2 (metade).
+(AgRg no AREsp n. 1.892.962/AM, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Desse modo, não se verifica qualquer vício integrativo na decisão embargada, que deve ser mantida.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+Oportunamente, voltem os autos conclusos para análise do agravo regimental interposto pelo embargante.
+EMENTA
