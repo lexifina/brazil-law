@@ -1,0 +1,8 @@
+DECISÃO
+CEZAR AUGUSTO SIGAKI opõe embargos contra a decisão de fls. 82-83, em que concedi, in limine, o habeas corpus a fim de conceder ao apenado a remição com fulcro em sua aprovação no ENEM 2020.
+Para tanto, assere que "a ordem de Habeas Corpus foi deferida a fim de conceder ao paciente a remição com fulcro em sua aprovação no ENEM - PPL 2022; contudo, não restou especificada a quantidade de dias remidos" (fl. 85).
+A despeito da insurgência defensiva, urge consignar que, ao conceder a ordem, destaquei que "há direito à remição da pena, pelo estudo, em decorrência da aprovação parcial no Exame Nacional do Ensino Médio - ENEM.  ..  O tema encontra-se atualmente pacificado em consonância com a jurisprudência prevalente na Quinta Turma desta Corte, no sentido de considerar como bases de cálculo para a remição pela aprovação no ENCCEJA os totais de 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio, o que corresponde a 50% (cinquenta por cento) da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça" (AgRg no REsp n. 1.995.491/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 13/6/2022, grifei.)
+Dessa forma, embora não especificada a quantidade de dias remidos, foi ressaltada a base de cálculo a ser empregada pelo Juízo da execução penal, de modo que não há que se falar em omissão na hipótese.
+À vista do exposto, rejeito os embargos.
+Publique-se e intimem-se.
+EMENTA
