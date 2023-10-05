@@ -1,0 +1,30 @@
+DECISÃO
+Depreende-se da minuta da petição inicial que deu origem ao presente recurso que UNIMED PAULISTANA SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO - EM LIQUIDAÇÃO EXTRAJUDICIAL (UNIMED) manifestou agravo de instrumento contra a decisão que, em ação de indenização por danos morais movida por M. A. C. (M), representada por sua genitora T. A. A., ora em fase de cumprimento de sentença, rejeitou a respectiva impugnação ao fundamento de ausência de excesso de execução e indeferiu o pedido de suspensão do trâmite processual.
+O agravo de instrumento foi provido pelo Tribunal de Justiça do Estado de São Paulo, em acórdão relatado pelo Des. JOSÉ APARÍCIO COELHO PRADO NETO assim ementado:
+AGRAVO DE INSTRUMENTO - Ação de Indenização por Danos Morais - Plano de Saúde - Cumprimento de Sentença - Decisão que rejeitou a impugnação ofertada pela empresa ré - Inconformismo da executada - Alegação de que deve ser deferido o pedido de suspensão do processo por incidência do artigo 18, "a" e da Lei Federal n.º 6.024/74, devendo a exequente habilitar seu crédito no processo falimentar - Cabimento - Necessária a suspensão da execução até o termino da liquidação extrajudicial da executada - Incidência da Lei nº 6.024/74 - Autora que deve proceder à habilitação de seus créditos no juízo falimentar, para que o pagamento observe o quadro geral de credores e a ordem preferencial de pagamento - Recurso provido para determinar a suspensão da execução (e-STJ, fl. 128).
+Os embargos de declaração opostos por M foram rejeitados (e-STJ, fls. 181/183).
+Inconformada, M manejou recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando violação do art. 18, a, da Lei nº 6.024/74 e art. 24-D da Lei nº 9.656/98, sob o argumento de que a determinação de suspender a execução até o termino da liquidação extrajudicial da recorrida não se justificaria na medida em que teria sido proferida sentença de extinção na ação falimentar por ela proposta, não havendo massa liquidanda e nem habilitação de crédito, devendo ser reconhecida a circunstância de que a UNIMED integra o grupo econômico Sistema Nacional Unimed, contra o qual a demanda deve ser redirecionada.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal bandeirante admitiu o referido apelo nobre (e-STJ, fls. 200/201).
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 221/224).
+Em decisão de minha lavra, foi dado parcial provimento ao apelo, facultando à exequente optar entre a imediata habilitação do seu crédito ou aguardar o encerramento do processo falimentar, mantendo, por ora, a suspensão do cumprimento de sentença, nos termos do seguinte sumário:
+COMERCIAL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FASE DE CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO EXTRAJUDICIAL DA RECORRIDA. SENTENÇA PROFERIDA EM AUTOS DIVERSOS QUE EXTINGUIU A AÇÃO FALIMENTAR. AUSÊNCIA DE TRÂNSITO EM JULGADO. IMPOSSIBILIDADE DE SE PRESUMIR QUE A EXTINÇÃO SERÁ MANTIDA EM DEFINITIVO. FACULDADE DO TITULAR PRETERIDO EM HABILITAR OU NÃO SEU CRÉDITO. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Os embargos de declaração interpostos por M foram rejeitados (e-STJ, fls. 266/267).
+Neste agravo interno, M defendeu que deve haver o prosseguimento da execução contra o conglomerado econômico UNIMED, com a consequente determinação de que A EXECUÇÃO DEVERÁ PROSSEGUIR CONTRA O CONGLOMERADO ECONÔMICO (SISTEMA NACIONAL UNIMED)  e-STJ, fls. 272/278 .
+Não houve impugnação.
+É o relatório.
+Decido.
+Do agravo interno
+A decisão deve ser reconsiderada em virtude do superveniente trânsito em julgado da decisão terminativa que julgou extinta a ação falimentar (Processo nº 1115021- 08.2017.8.26.0100), promovida pela UNIMED PAULISTANA SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO (e-STJ, fl. 264).
+Assim, RECONSIDERO a decisão agravada e passo ao julgamento do agravo em recurso especial.
+Do agravo em recurso especial
+No caso, o presente recurso especial teve origem nos autos do Agravo de Instrumento n.º 2022146-11.2017.8.26.0000, então manifestado pela UNIMED contra a decisão que, em ação de indenização por danos morais movida por M. A. C. (M), representada por sua genitora T. A. A., ora em fase de cumprimento de sentença, rejeitou a respectiva impugnação ao fundamento de ausência de excesso de execução e indeferiu o pedido de suspensão do trâmite processual.
+Conforme acima relatado, o acórdão recorrido acolheu o pleito da UNIMED para suspender a execução, até o término da liquidação extrajudicial.
+Entretanto, segundo informações trazidas por M, constatou-se que houve o superveniente trânsito em julgado da decisão terminativa que julgou extinta a ação falimentar (Processo nº 1115021-08.2017.8.26.0100 e AREsp 1.653.538/SP).
+Nesse contexto, observa-se que o acórdão que originou o presente inconformismo não mais produz efeito legal, o que torna prejudicado o apelo nobre.
+Por derradeiro, a alegação de que deve haver o prosseguimento da execução contra o conglomerado econômico UNIMED, com a consequente determinação de que A EXECUÇÃO DEVERÁ PROSSEGUIR CONTRA O CONGLOMERADO ECONÔMICO (SISTEMA NACIONAL UNIMED)  e-STJ, fls. 272/278 , não pode ser aqui conhecida, em virtude da manifesta supressão de instância, devendo tal pedido ser requerido, primeiramente, no Juízo competente.
+Nessas condições, JULGO PREJUDICADO o presente recurso especial em razão da perda superveniente do objeto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FASE DE CUMPRIMENTO DE SENTENÇA. LIQUIDAÇÃO EXTRAJUDICIAL DA RECORRIDA. SUSPENSÃO DA EXECUÇÃO. SENTENÇA PROFERIDA EM AUTOS DIVERSOS QUE EXTINGUIU A AÇÃO FALIMENTAR. SUPERVENIÊNCIA DE TRÂNSITO EM JULGADO. PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
