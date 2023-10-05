@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7/STJ.
+Sustenta o agravante, em apertada síntese, que a decisão recorrida diverge do entendimento desta Corte no que se refere: i) à incidência da agravante do art. 62, II, j, do Código Penal, pois ausente a demonstração do nexo causal entre a prática delitiva cometida pelo acusado e a pandemia decorrente do coronavírus; ii) à elevação da pena intermediária, pela incidência da agravante da reincidência, em fração superior a 1/6.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, portanto, à análise do mérito.
+Consta dos autos que o recorrente foi condenado à pena de 3 anos, 1 mês e 10 dias de reclusão, no regime inicial fechado, mais 7 dias-multa, pela prática do crime previsto no art. 157, § 2º, II, na forma do art. 14, II, ambos do Código Penal.
+Interposto recurso de apelação, foi negado provimento ao recurso.
+Nas razões do especial, interposto com fundamento na alínea a do permissivo constitucional, alega a defesa violação dos arts. 1º (legalidade estrita em matéria penal), 61, I (aumento em relação à reincidência) e 62, II, j (agravante relativa à pandemia), todos do Código Penal.
+Requer o provimento do recurso para afastar a agravante prevista no art. 62, II, j, do Código Penal e para decotar o aumento decorrente da agravante da reincidência para 1/6.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo conhecimento do agravo para dar parcial provimento ao recurso especial, apenas para afastar da segunda fase da dosimetria da pena a agravante prevista no art. 61, II, j, do Código Penal.
+Quanto às alegadas violações, verifica-se do acórdão impugnado (fls. 353/355):
+4. Sob outro giro, o escarmento foi estabelecido a partir da rigorosa observância do sistema trifásico e das pertinentes reflexões que circunstâncias deste caso específico aconselhavam, valendo realçar que:
+4.1. na primeira fase da apenação as basais foram corretamente exasperadas em 1/6 (um sexto), tendo em vista o mau antecedente ostentado por Alex Vinicius (condenado por desacato, processo nº 0215501-83.2009.8.26.0005, fls. 46);
+4.2. na segunda etapa do procedimento individualizatório a douta Juíza a quo novamente agiu com acerto ao elevar as reprimendas em 1/2 (metade) em razão da circunstância agravante prevista no artigo 61, inciso II, alínea j, do estatuto repressivo e pelas comprovadas reincidências de Alex Vinicius, duas delas específicas  processos nºs 0049303-47.2011.8.26.0050 (roubo), 0052045-79.2010.8.26.0050 (roubo) e 0029210-29.2012.8.26.0050 (condenado por incurso no artigo 14, caput, da Lei nº 10.826/03), vide fls. 46/8 e 56 .
+Não se há falar em afastamento da primeira das aludidas agravantes, tendo em vista que o delito foi realmente praticado durante o período de calamidade pública instituído pelo Decreto nº 64.879, de 20 de março de 2020, do Estado de São Paulo. Cumpre salientar que se trata de agravante de caráter objetivo, não se exigindo, portanto, outro requisito que não a mera existência do estado emergencial, a atribuir maior grau de reprovabilidade às condutas ilícitas perpetradas durante sua vigência.
+A propósito do tema, confira-se o que já assentou este Augusto Sodalício:
+ ..
+Vale destacar que o aumento das básicas se escorou, como visto, no mau antecedente do acusado; a majoração seguinte decorreu de clara comprovação de reincidência (além da outra agravante, como visto), ressaltada n"outros apontamentos - sem que se mostre adequado dizer que a consideração dessas duas circunstâncias tenha caracterizado bis in idem, porquanto os incrementos punitivos lastrearam-se em condenações distintas;
+Deve ser decotada a agravante de calamidade pública, pois o entendimento esposado no acórdão destoa da jurisprudência desta Corte, segundo a qual "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC n. 625.645/SP, Relator Ministro FELIX FISCHER, DJe 4/12/2020). Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA. ORDEM CONCEDIDA DE OFÍCO PARA AFASTAR A AGRAVANTE.
+ ..
+6. No caso em tela, por não ter sido demonstrado que o agente se aproveitou do estado de calamidade pública para a prática do crime apurado nos autos, é necessário o afastamento da agravante, com o redimensionamento da pena
+7. Agravo regimental não conhecido. Concessão da ordem, de ofício, para afastar a agravante da calamidade pública e redimensionar a pena.
+(AgRg no HC n. 844.720/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Lado outro, a elevação da reprimenda em índice superior a 1/6, com fundamento na multirreincidência do réu, revela-se em harmonia com a jurisprudência desta Corte, segundo a qual "É consabido que o Código Penal não estabeleceu o quantum de aumento para as circunstâncias agravantes genéricas, dentre elas a reincidência (art. 61, I, do Código Penal), cabendo a escolha ao juiz, em decisão fundamentada. Usualmente, utiliza-se a fração de 1/6, permitindo-se a sua elevação quando há dupla ou multirreincidência" (AgRg no HC n. 811.829/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Assim, afastada a agravante da calamidade pública, reduzo a pena intermediária em 1/6, fixando a sanção definitiva em 2 anos, 9 meses e 5 dias de reclusão, mais o pagamento de 6 dias-multa.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar o recrudescimento da pena pela agravante prevista no art. 62, II, j, do Código Penal, reduzindo a sanção definitiva a 2 anos, 9 meses e 5 dias de reclusão, mais o pagamento de 6 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
