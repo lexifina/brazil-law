@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GRAZIENE VIANA DE SOUZA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 1501744-83.2021.8.26.0530).
+A paciente foi condenada à pena de 2 anos, 1 mês e 8 dias de reclusão em regime aberto, além do pagamento de 210 dias-multa, pela prática do crime previsto no art. 33, § 4º, c/c art. 40, V, da Lei 11.343/2006, substituída a pena privativa de liberdade por uma pena restritiva de direitos (e-STJ fls. 48-61).
+O Tribunal Estadual negou provimento ao recurso de apelação interposto pela defesa e deu parcial provimento ao apelo do Ministério Público para modificar o regime para o semiaberto e afastar a substituição da pena privativa de liberdade por restritivas de direitos (e-STJ fls. 110-118).
+A impetrante sustenta: a) ausência de fundamentação para justificar o patamar de exasperação aplicado na pena-base, a imposição do regime semiaberto e o afastamento da substituição da pena privativa de liberdade por restritivas de direitos; b) paciente preencheria os requisitos previstos nos arts. 33 e 44 do Código Penal, para ter restabelecidos o modo mais brando para o início da execução e a substituição da pena corporal por restritivas de direitos; e c) descumprimento do disposto nas Súmulas 440/STJ, 718/STF e 719/STF.
+Requer deferimento da ordem para que sejam restabelecidos o regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Liminar indeferida (e-STJ fls. 121-122)
+Informações prestadas às e-STJ fls. 127-130 e 133-170.
+Parecer do Ministério Público pelo não conhecimento da impetração ou pela denegação da ordem (e-STJ fls. 172-179).
+É o relatório.
+Para melhor elucidação da controvérsia, necessário transcrever os seguintes trechos do acórdão impugnado (e-STJ fls. 114-118):
+Quanto às dosimetrias das penas, as penas-base foram fixadas em 7 anos de reclusão e 700 dias-multa para MARIA (2/5 acima do mínimo) e 6 anos e 6 meses de reclusão e 650 dias-multa para GRAZIENE (3/10 acima do mínimo), as quais se mostraram proporcionais em razão da alta quantidade de drogas apreendidas e pelo mau antecedente de MARIA, não havendo motivos para majorá-las.
+Nas segundas fases, atenuaram-se as penas pelas confissões espontâneas e, por fim, houve o aumento de 1/6 pelo tráfico interestadual.
+ ..
+Inexistindo prova de que GRAZIENE se dedicava às atividades criminosas ou integrava organização criminosa, rigorosa a manutenção da causa de diminuição de pena.
+Por outro lado, rigorosa a modificação do regime inicial e o afastamento da substituição da pena privativa de liberdade por penas restritivas de direitos.
+Isso porque, valorada circunstância judicial negativa em patamar tão elevado, justificada pela grande quantidade de droga, reclama-se a fixação de regime inicial mais gravoso do que o cabível tão só pelo quantum da pena, nos termos do art. 33, § 3.º, do Código Penal, idêntico motivo que demonstra insuficiência da substituição da pena corporal por penas restritivas de direitos (Código Penal, art. 44, III).
+As conclusões adotadas pelo Tribunal a quo, quanto à exasperação da pena-base, à fixação de regime mais gravoso e o afastamento da substituição da pena corporal por penas restritivas de direito em razão da quantidade de droga apreendida - 50.429g de maconha - (e-STJ fl. 113), alinham-se à jurisprudência do STJ, conforme se verifica dos seguintes julgados:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA. PENA-BASE. DESPROPORCIONALIDADE. NÃO VERIFICAÇÃO. GRANDE QUANTIDADE DE DROGAS. ART. 42, DA LEI N. 11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, po r exigirem revolvimento probatório.
+2. Nesse contexto, considerando a elevada quantidade de drogas apreendida em poder do paciente (73 kg de maconha), entendo como proporcional o aumento de 3/5 promovido pelas instâncias ordinárias, em cumprimento ao que determina o art. 42 da Lei n. 11.343/2006, que o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+3. Agravo regimental desprovido.
+(AgRg no HC 804.346/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. PEDIDOS DE ABRANDAMENTO DE REGIME PRISIONAL E DE SUBSTITUIÇÃO DA PENA CORPORAL POR PENAS RESTRITIVAS DE DIREITOS. PRETENSÃO DEFENSIVA RECHAÇADA. QUANTIDADE E NATUREZA DO ENTORPECENTE APREEENDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Cumpre destacar que "é pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo" (HC n. 452.147/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 14/08/2018, grifei).
+III - In casu, a quantidade e a natureza do entorpecente - 257 g de maconha - são elementos aptos a ensejar a aplicação do regime inicial semiaberto, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "b", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Precedentes.
+IV - No que concerne à possibilidade de substituição da pena privativa de liberdade por restritivas de direitos, ressalta-se que esta Corte Superior de Justiça tem decidido que a quantidade da droga apreendida pode, associadas aos demais elementos constantes do processo, interferir na possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos.
+V - Na hipótese em análise, a quantidade e a natureza da droga apreendida - 257 g de maconha - não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante o disposto no art. 44, inciso III, do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 792.504/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/3/2023, DJe de 28/3/2023).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. WRIT CONCEDIDO PARA O REDIMENSIONAMENTO DA PENA. PENA INFERIOR A 4 ANOS. FIXAÇÃO DO REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO CONCRETA. GRANDE QUANTIDADE DE DROGA APREENDIDA. ART. 387, § 2º, DO CPP. NÃO APLICAÇÃO. DECISÃO MANTIDA.
+1. Como o regime imediatamente mais gravoso, o semiaberto, foi fixado com base em motivação concreta, em razão da grande quantidade de droga apreendida (9,96 kg de maconha), não há manifesta ilegalidade.
+2. Conforme a jurisprudência desta Corte Superior, não obstante a fixação de pena inferior a 4 anos de reclusão, tendo sido apresentada fundamentação concreta para a fixação do regime imediatamente mais gravoso, não é aplicável a detração prevista no art. 387, § 2º, do CPP.
+3. Agravo regimental desprovido.
+(AgRg no HC 775.224/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+Ante o exposto, indefiro a ordem.
+Publique-se. Intimem-se.
+EMENTA
