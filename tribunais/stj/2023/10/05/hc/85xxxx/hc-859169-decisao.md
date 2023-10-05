@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 15):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PRELIMINAR. PLEITO DE NULIDADE. ILEGALIDADE NA ATUAÇÃO DA GUARDA MUNICIPAL. AUSÊNCIA DE JUSTA CAUSA NA REVISTA PESSOAL E NA PRISÃO EM FLAGRANTE. NÃO CONHECIMENTO. MATÉRIA JÁ ANALISADA POR ESTE COLEGIADO E, TAMBÉM AFASTADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. PRELIMINAR NÃO CONHECIDA. MÉRITO. PEDIDO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS. ACERVO PROBATÓRIO SEGURO A ATESTAR A RESPONSABILIDADE PENAL DO ACUSADO. PRISÃO EM FLAGRANTE QUE EVIDENCIA A PRÁTICA DO CRIME DE TRÁFICO DE DROGAS. VALIDADE DA PALAVRA DOS POLICIAIS. DEPOIMENTOS HARMÔNICOS E COESOS. SENTENÇA MANTIDA. DOSIMETRIA. PLEITO DE REDUÇÃO DA PENA-BASE. IMPOSSIBILIDADE. APLICAÇÃO DA FRAÇÃO DE 2/9 (DOIS NONOS) EM RAZÃO DE DUAS CIRCUNSTÂNCIAS JUDICIAISDES FAVORÁVEIS AO RÉU. FUNDAMENTAÇÃO IDÔNEA. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+O paciente foi condenado, pelo juízo de primeiro grau, como incurso o art. 33, caput, da Lei 11.343/2006, à pena de 8 anos, 5 meses e 3 dias de reclusão, em regime inicial fechado, e 842 dias-multa. Interposta apelação, restou improvida.
+No presente writ, a defesa sustenta, em síntese, que a Corte de origem, ao deixar de analisar as preliminares de mérito suscitadas, negou a devida prestação jurisdicional.
+Requer, "liminarmente, seja suspenso o curso dos autos dos embargos de declaração sob nº 0023368-75.2023.8.16.0013, interrompendo o prazo para a apresentação dos recursos cabíveis, até que seja decidido o mérito do presente Habeas Corpus". No mérito, a concessão da ordem para "afastar o não conhecimento da matéria e determinar ao Tribunal de Justiça que julgue as preliminares de mérito suscitadas, pois ocorre negativa de prestação jurisdicional em desfavor do Paciente" (fl. 8).
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+O impetrante busca, inclusive liminarmente, a concessão da ordem para que se determine ao Tribunal de origem que aprecie as teses relativas à ilegalidade na prisão em flagrante do paciente, realizada pela Guarda Municipal, bem como à ausência de justa causa para a revista pessoal.
+O Tribunal de origem deixou de conhecer das matérias ao entendimento de que já teriam sido apreciadas em impetração anterior, naquela Corte, sob o n. 0034990-30.2022.8.16.0000, bem como pelo STJ no RHC 167.442/PR.
+Com efeito, em consulta ao sistema de informações processuais desta Corte Superior, verifica-se que a questão atinente à nulidade do flagrante, nos termos da presente impetração, já foi analisada nos autos do RHC 167.442/PR, por meio de decisão publicada em 18/8/2022, que denegou a ordem e cujo recurso de agravo regimental encontra-se pendente de julgamento.
+Trata-se, pois, de mera reiteração de pedido, não se verificando, na hipótese, ilegalidade flagrante e apta a autorizar a concessão do pedido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
