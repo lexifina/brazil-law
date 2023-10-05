@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDERSON MARIANO DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 0008960-61.2023.8.26.0996).
+Consta dos autos que o paciente, após ser aprovado em duas matérias, formulou requerimento de remição por aprovação parcial no ENCCEJA.
+Neste habeas corpus, a defesa afirma a necessidade de concessão da remição, mesmo tendo sido o paciente aprovado apenas parcialmente.
+Requer, inclusive liminarmente, "cassar acórdão atacado, e conceder ao sentenciado o benefício da remição de penas em seu período total, porquanto presentes os respectivos requisitos" (fl. 15).
+É o relatório. DECIDO.
+Conforme se apreende dos autos, o paciente busca reconhecer o seu direito à remição pela aprovação parcial no exame ENCCEJA, o que teria sido negado pela origem no acórdão de agravo em execução n. 0002521-34.2023.8.26.0996 por falta de instrução e, no acórdão de mesma natureza, de n. 0008960-61.2023.8.26.0996, afastado por ausência de aprovação integral no mencionado exame.
+Nesta Corte, importante consignar que o acórdão de n. 0008960-61.2023.8.26.0996 foi justamente o ato coator desta impetração e da registrada sob o HC n. 849.788/SP, a qual não foi aqui conhecida, em 25/8/2023, pela reiteração de pedidos no HC n. 818.102/SP, que, à época, estava ainda em trâmite neste STJ.
+Vale destacar que, em relação ao HC n. 818.102/SP, nesta mesma assentada, está sendo concedida a ordem, nas seguintes linhas:
+"Ante o exposto, concedo a ordem de habeas corpus para restabelecer a decisão do Juiz da execução, que reconheceu a remição da pena em 52 dias (pela aprovação em duas matérias no ENCCEJA - Ensino fundamental), também determinando, ao referido juízo, que proceda aos novos cálculos para benefícios, com recomendação de celeridade."
+Diante desse cenário (perda de objeto) e porque devidamente prestada a jurisdição no feito conexo, não há falar em necessidade de nova apreciação da matéria no presente writ.
+Ainda, sobre a impossibilidade de conhecimento de habeas corpus, ou de seu recurso ordinário, quando configurada a mera reiteração de pedidos, o seguinte julgado deste STJ:
+"No presente caso, não constatada nenhuma flagrante ilegalidade, tem-se que o presente recurso ordinário em habeas corpus não passou de mera reiteração de pedidos no HC n. 719.739/GO, inclusive, impetrado com os mesmos argumentos em geral e em face do mesmo v. acórdão de origem (HC n. 5449889-09.2021.8.09.0000). Assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)" (AgRg no RHC n. 161.259/GO, Quinta Turma, de minha relatoria, DJe de 14/3/2023).
+Corroborando: AgRg no HC 478.216/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 19/2/2019; AgRg no RHC 106.171/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 1º/3/2019; e AgRg no AREsp n. 2.355.597/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023.
+Trata-se de hipótese, inclusive, que ocorre até mesmo quando a reiteração de pedidos é realizada contra acórdãos diferentes ou em tipos de recursos e ações diversos (AgRg no RHC n. 156.181/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/2/2022; e EDcl no AgRg nos EDcl nos EDcl no AREsp n. 2.249.797/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/6/2023).
+Ante o exposto, não conheço do habeas corpus pela perda do objeto.
+Publique-se. Intime-se.
+EMENTA
