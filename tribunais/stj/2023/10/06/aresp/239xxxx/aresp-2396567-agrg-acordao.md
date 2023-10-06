@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO PRAZO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AUSÊNCIA. RECURSO DESPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo legal de 15 dias. Na hipótese, o recorrente foi intimado da decisão que não admitiu o recurso especial em 11/11/2022, porém o agravo em recurso especial foi protocolizado apenas em 29/11/2022, após escoado o prazo legal.
+2. Na linha dos precedentes desta Corte, "é necessária a comprovação da suspensão do prazo ou da ocorrência de feriado local por meio de documento idôneo no ato de interposição do recurso, até mesmo no caso do recesso forense, o que não foi feito pela Defesa na ocasião da interposição do recurso especial" (AgRg no REsp n. 2.017.960/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANTONIO MARCOS DA SILVA contra decisão da lavra da Presidência desta Corte que não conheceu do agravo em recurso especial, ante sua intempestividade, nos seguintes termos (e-STJ fl. 1.156, grifei):
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ANTONIO MARCOS DA SILVA, a parte recorrente foi intimada do acórdão recorrido em 11/11/2022, sendo o recurso especial interposto somente em 29/11/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+No presente agravo regimental, sustenta a defesa, em síntese, que "o feriado da Proclamação da República existe desde 1949, ou seja, há 74 anos, sendo notória a praxe de todos Tribunais, declarar ponto facultativo o dia 14 de novembro, quando este coincidir com segundas- feiras ou sextas-feiras" (e-STJ fl. 1.172).
+Requer a reconsideração da decisão agravada ou a submissão do tema ao colegiado.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO PRAZO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. AUSÊNCIA. RECURSO DESPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo legal de 15 dias. Na hipótese, o recorrente foi intimado da decisão que não admitiu o recurso especial em 11/11/2022, porém o agravo em recurso especial foi protocolizado apenas em 29/11/2022, após escoado o prazo legal.
+2. Na linha dos precedentes desta Corte, "é necessária a comprovação da suspensão do prazo ou da ocorrência de feriado local por meio de documento idôneo no ato de interposição do recurso, até mesmo no caso do recesso forense, o que não foi feito pela Defesa na ocasião da interposição do recurso especial" (AgRg no REsp n. 2.017.960/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão agravada não comporta reparos.
+Compulsando os autos, verifico que o recorrente foi intimado da decisão que não admitiu o recurso especial em 11/11/2022, porém o agravo em recurso especial foi protocolizado apenas em 29/11/2022, após escoado o prazo legal.
+Com efeito, impõe-se ao recorrente comprovar eventual suspensão dos prazos no ato da interposição do recurso, o que não ocorreu no caso em tela.
+Na linha dos precedentes do Superior Tribunal de Justiça, "constitui ônus do recorrente, no ato da interposição do recurso, comprovar sua tempestividade, conforme o art. 1.003, § 6º, do CPC, inclusive a ocorrência de feriados locais e a suspensão do expediente forense, sendo incabível a comprovação posterior" (AgRg no AREsp n. 1.939.545/ES, relator Ministro Olindo Menezes, Desembargador c onvocado do TRF 1ª Região, Sexta Turma, julgado em 16/11/2021, DJe 19/11/2021).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. INOBSERVÂNCIA DO PRAZO LEGAL DE 15 DIAS CORRIDOS. RECESSO FORENSE. NECESSIDADE DE COMPROVAÇÃO DA SUSPENSÃO DOS PRAZOS NO ATO DA INTERPOSIÇÃO DO RECURSO. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias corridos previsto no art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, e no art. 798, do CPP" (AgRg no AREsp 1661671/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/5/2020).
+2. Verifica-se que o acórdão recorrido foi publicado em 14/12/2021. O recurso especial somente foi protocolado em 9/1/2022, quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade.
+3. Em matéria penal, não há a automática suspensão dos prazos processuais no recesso forense, senão mera prorrogação do vencimento para o primeiro dia útil subsequente ao término do aludido período, não se aplicando o Código de Processo Civil - CPC à hipótese, mas sim, o art. 798 do Código de Processo Penal - CPP, em razão do princípio da especialidade.
+4. É necessária a comprovação da suspensão do prazo ou da ocorrência de feriado local por meio de documento idôneo no ato de interposição do recurso, até mesmo no caso do recesso forense, o que não foi feito pela Defesa na ocasião da interposição do recurso especial. Precedente.
+5. É incabível o pedido de concessão de habeas corpus de ofício como forma de burlar a inadmissão do apelo nobre ou de seus respectivos recursos.
+6. Agravo regimental desprovido. (AgRg no REsp n. 2.017.960/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022, grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR RESTRITA AO FERIADO DA SEGUNDA-FEIRA DE CARNAVAL. FERIADOS E SUSPENSÕES PREVISTAS EM PORTARIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IRRELEVÂNCIA. PRINCÍPIO DA PRIMAZIA DA RESOLUÇÃO DO MÉRITO. INAPLICABILIDADE. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis.
+2. A Corte Especial do Superior Tribunal de Justiça, ao interpretar os arts. 932, parágrafo único, e 1.003, § 6º, do CPC/2015, assim como os princípios consagrados pelo novo código, por maioria, firmou orientação de que a parte recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", sendo inviável a apresentação de documento hábil, em momento posterior, para demonstrar a tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, julgado em 20/11/2017, DJe 19/12/2017).
+3. Cabe destacar que a Corte Especial, no julgamento da QO no REsp 1.813.684/SP (Rel. Ministra Nancy Andrighi, julgada em 3/2/2020, DJe 28/2/2020), entendeu que "a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais", restrição aplicável ao alcance da modulação dos efeitos do decisum, o que foi reafirmado por ocasião do julgamento dos EDcl na QO no RESP 1.813.684/SP, em sessão realizada em 19/5/2021.
+4. Ademais, "os recursos interpostos na instância de origem, mesmo que direcionados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgInt no AREsp n. 1.548.931/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/8/2020).
+5. No caso dos autos, o recorrente não comprovou, por ocasião da interposição do recurso, o período alegado de suspensão dos prazos processuais na origem, não havendo como afastar a intempestividade do agravo em recurso especial.
+6. Ademais, não há falar em aplicação dos princípios da primazia da resolução do mérito e da instrumentalidade das formas, a fim de sobrepujar a não observância dos requisitos de admissibilidade recursal, sobretudo quando se tratar de defeito grave e insanável.
+7. Agravo interno desprovido. (AgInt no AREsp n. 2.042.017/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023, grifei.)
+Diante do exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
