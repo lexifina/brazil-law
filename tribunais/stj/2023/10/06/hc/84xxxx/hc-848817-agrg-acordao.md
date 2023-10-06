@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE NEGOU A MEDIDA DE URGÊNCIA NO WRIT ORIGINÁRIO. INDEFERIMENTO LIMINAR DA INICIAL. EXCEPCIONALIDADE NÃO EVIDENCIADA. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+1. O habeas corpus é incabível contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, para não incorrer em supressão de instância. Precedentes.
+2. Por estar a decisão da autoridade impetrada suficientemente motivada, não há como afastar o óbice ao conhecimento do habeas corpus, imposto pela Súmula 691 do Supremo Tribunal Federal.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CASSIANO RODRIGUES DE OLIVEIRA contra decisão proferida pela Ministra Presidente, que indeferiu liminarmente o presente remédio constitucional por incidência da Súmula 691 do Supremo Tribunal Federal.
+O agravante alega: a) viabilidade de relativização do enunciado 691 da Súmula do Supremo Tribunal Federal em razão da flagrante ilegalidade; b) ausência de fundamentação a justificar a segregação cautelar, pois amparada em motivos genéricos; c) condições pessoais favoráveis, notadamente: bons antecedentes e residência fixa; d) desproporcionalidade da prisão preventiva, pois, em caso de eventual condenação, o agravante será condenado a cumprir pena em regime prisional menos gravoso; e e) falta de demonstração de como a liberdade do agravante poderia oferecer riscos à ordem pública, à instrução processual e à aplicação da lei penal.
+Requer provimento do agravo para que seja conhecido e julgado o habeas corpus com deferimento da ordem.
+O Ministério Público do Estado de Mato Grosso manifestou-se pelo desprovimento do agravo regimental (e-STJ fls. 130-133).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE NEGOU A MEDIDA DE URGÊNCIA NO WRIT ORIGINÁRIO. INDEFERIMENTO LIMINAR DA INICIAL. EXCEPCIONALIDADE NÃO EVIDENCIADA. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO DESPROVIDO.
+1. O habeas corpus é incabível contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, para não incorrer em supressão de instância. Precedentes.
+2. Por estar a decisão da autoridade impetrada suficientemente motivada, não há como afastar o óbice ao conhecimento do habeas corpus, imposto pela Súmula 691 do Supremo Tribunal Federal.
+3. Agravo regimental desprovido.
+VOTO
+O recurso é tempestivo, pois a decisão agravada foi publicada em 25/08/2023 (e-STJ fl. 104) e o agravo foi interposto em 24/08/2023 (e-STJ fl. 102), no prazo legal previsto no art. 258, caput, do RISTJ.
+O habeas corpus impetrado no Tribunal de origem teve o pedido de liminar indeferido (e-STJ fls. 85-89). Sucessivamente, impetrou-se writ nesta Corte, que foi liminarmente indeferido em decisão assim fundamentada (e-STJ fls. 92-94):
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+ ..
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+O mesmo se pode dizer em relação à fundamentação da segregação cautelar, tendo em vista que o decreto prisional tem por base elementos concretos que indicam a gravidade do crime em razão deter sido apreendida a quantidade de 13,42 kg de maconha (fl. 85), além do risco de reiteração delitiva pelo paciente tendo em vista que o paciente "já vinha sendo investigado desde o ano de 2021 pelo envolvimento com o tráfico de drogas, tendo sua residência, inclusive, já sido alvo de busca e apreensão (n. 1023119-49.2021.8.11.0003)" (fl. 86).
+Esta Corte, nos termos da Súmula 691 do Supremo Tribunal Federal, orienta que "não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau" (AgRg no HC 755.038/SP, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, julgado em 09/08/2022, DJe 18/08/2022).
+Admite-se o mandamus "em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia" (AgRg no HC 772.639/AC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022).
+O Desembargador relator do Habeas Corpus 1018783-40.2023.8.11.0000 indeferiu a pretensão sumária com os seguintes fundamentos (e-STJ fls. 85-88):
+No entanto, ao menos nesta limitada e prematura análise que me é permitida, não vejo qualquer ilegalidade na prisão suportada pelo paciente.
+Pelo que noto, o Magistrado a quo decretou a prisão preventiva, para garantia da ordem pública, com base na significativa quantidade de droga apreendida (total de 13,42 kg de maconha), e cujo flagrante, de acordo com a decisão atacada, se deu após investigações da polícia local que, não só identificou o paciente como um dos responsáveis por transportar drogas pela cidade de Rondonópolis/MT e outras para cidades vizinhas, como também tantos outros envolvidos na narcotraficância, conforme se extrai do IP 1023937-30.2023.8.11.0003.
+E nesse ponto, diferentemente do que alega o impetrante, entendo que a decisão está fundamentada de forma satisfatória e idônea, pois a quantidade de droga apreendida é relevante e autoriza o decreto prisional; aliás, sobre isso, a matéria encontra-se sedimentada no Enunciado Orientativo n. 25 da Turma de Câmaras Criminais Reunidas, verbis:
+"A expressiva quantidade e/ou variedade de drogas ensejam garantia da ordem pública para decretação ou manutenção de prisão preventiva".
+ ..
+Se não bastasse, na contramão do que alega o Impetrante, vejo que para além da quantidade de drogas apreendidas, o Magistrado a quo fundamentou a necessidade da preventiva no fato de que, de acordo com informações do IP 1023937-30.2023.8.11.0003, Cassiano já vinha sendo investigado desde o ano de 2021 pelo envolvimento com o tráfico de drogas, tendo sua residência, inclusive, já sido alvo de busca e apreensão (n. 1023119-49.2021.8.11.0003).
+No mais, fez questão de frisar que no momento da prisão, Cassiano tentou quebrar seu aparelho celular (conduta muito comum - aliás, de ordem - entre integrantes da facção criminosa denominada "Comando Vermelho" para destruição de provas), e tal fato, aliado a quantidade de drogas apreendidas e às informações de que sua prisão não foi por acaso, me fazem, a priori, concluir pelo acerto da decisão e, portanto, pela necessidade da cautelar se garantir a ordem pública.
+Enfim, ao menos nesta limitada análise que me é permitida, não visualizo, de plano, a existência de manifesta ilegalidade ou teratologia no decreto constritivo a ensejar o acolhimento da pretensão já em sede de liminar, encontrando-se aparentemente fundamentada a prisão cautelar do paciente nos termos dos artigos 312 e 313, ambos do Código de Processo Penal, o que torna desaconselhado o deferimento da provisão cautelar pretendida nesta oportunidade.
+Registre-se, outrossim, que este Tribunal de Justiça consolidou, há muito, o entendimento de que "as condições pessoais favoráveis não justificam a revogação, tampouco impedem a decretação da custódia cautelar, quando presente o periculum libertatis", nos termos do enunciado sumular n. 43 da Turma de Câmaras Criminais Reunidas, razão pela qual, na espécie, não se afigura pertinente a circunstância de o paciente ser primário, possuir residência fixa e ocupação lícita.
+Igualmente, por ora, não há que se cogitar a substituição da medida extrema por medidas cautelares à prisão, porquanto uma vez presentes os pressupostos de admissibilidade da prisão preventiva, as medidas mais brandas tornam-se insuficientes.
+Consigne-se, ainda, que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade da conduta delituosa (concretizada, em especial, na quantidade de drogas), indica que a ordem pública não estaria acautelada com a soltura do paciente.
+ ..
+Outrossim, apenas para que a Defesa não fique sem resposta, não há se falar em desproporcionalidade da prisão preventiva, não apenas pelas razões acima ditas, mas também porque é absolutamente inviável, em sede de Habeas Corpus, conjecturar sobre quantitativo de pena e regime prisional; toda e qualquer prisão, antes da sentença condenatória transitada em julgado, tem caráter provisório e cautelar e é completamente distinta da chamada sanção penal e, por conseguinte, das do regime prisional.
+Não está caracterizada manifesta ilegalidade para superar o óbice sumular, sendo certo que o revolvimento das questões aventadas implicaria supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA OU FALTA DE RAZOABILIDADE. REVOGAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do me ncionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No presente caso, a decisão que decretou a prisão preventiva destacou a a apreensão de expressiva quantidade de entorpecentes e a reincidência do acusado.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC 794.623/SP, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
