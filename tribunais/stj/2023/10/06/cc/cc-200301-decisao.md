@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o 11º Juizado Especial Cível da Seção Judiciária do Rio de Janeiro, como suscitante, e a 1ª Vara Cível do Rio de Janeiro, a suscitada, nos autos de ação de natureza previdenciária, com pedido de auxílio-acidente.
+A ação foi originariamente proposta perante a Justiça estadual, que declinou da competência à Justiça Federal em razão da edição da Lei 13.876/09. O magistrado da União, por sua vez, discordando desse entendimento, suscitou o presente incidente processual, por entender tratar-se de causa relativa a acidente de trabalho.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a competência da Justiça Federal é constitucional e taxativa. Define-se, como regra, em razão da pessoa envolvida no processo, como se extrai da previsão contida no art. 109, I, da Constituição Federal. A conferir:
+Art. 109. Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Figurando nos autos, na condição de autora, ré, assistente ou opoente qualquer das pessoas listadas na referida norma, a competência será da Justiça Federal. A exceção, também expressamente prevista no texto constitucional, diz respeito às ações "de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho".
+Nesse viés, o entendimento consolidado no âmbito da Primeira Seção desta Corte é no sentido de que a definição da competência deve considerar o teor da petição inicial - pedido e causa de pedir - e não um juízo preliminar acerca do mérito da causa. Observe-se:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. PEDIDO E CAUSA DE PEDIR NÃO VINCULADA A ACIDENTE DO TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que conhecera do Conflito de Competência, instaurado em Ação ajuizada por segurada, perante a Justiça Federal, contra o Instituto Nacional do Seguro Social - INSS, postulando benefício previdenciário de auxílio-doença ou aposentadoria por invalidez.
+II. Não resta configurada hipótese de aplicação da Súmula 15/STJ ("Compete a justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho"), porquanto ausente a alegação, na petição inicial, de liame entre o benefício requerido pela parte segurada e acidente do trabalho, que não foi, sequer, mencionado, como fundamento do pleito.
+III. Na forma da jurisprudência do STJ, "a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda).O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa.
+Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012).
+Precedentes.
+IV. Agravo interno improvido.
+(AgInt no CC n. 154.273/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 29/11/2022, DJe de 1/12/2022).
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9), é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR.
+(CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022).
+No caso dos autos, a petição inicial traz como causa de pedir uma incapacidade laborativa advinda de acidente de trabalho. Confira-se, a propósito, o seguinte trecho da inicial:
+Por trabalhar desde 2004 com atividades que demandam grande esforço físico, como carregamento de peso e movimentos repetitivos, o autor adquiriu hérnia de disco. Por essa razão, esteve afastado do trabalho 3 vezes por auxílio-doença por acidente de trabalho, com emissão de CAT pelo empregador, conformemostram os laudos do INSS. Apesar dos tratamentos, não apresenta grande melhora.
+Nesses termos, a competência é da Justiça estadual, onde a ação foi inicialmente proposta.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 1ª Vara Cível do Rio de Janeiro, ora suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
