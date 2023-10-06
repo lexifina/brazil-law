@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 186, DE 5 DE OUTUBRO DE 2023
+Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás; e a Lei nº 21.202, de 16 de dezembro de 2021, que institui a "Política de Divulgação da Lei Maria da Penha nas Escolas" visando sensibilizar o público escolar sobre a Violência Doméstica e Familiar contra a mulher e divulgar a Lei federal nº 11.340/2006 e dá outras providências.
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos dos arts. 10 e 156, § 3º, da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:
