@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS DE SOUZA RICCI contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no HC n. 0051969-83.2022.8.19.0000.
+Consta nos autos que durante o cumprimento de mandado de busca e apreensão expedido pelo Juízo de primeiro grau, o Paciente foi preso em flagrante e, após, preventivamente, pela suposta prática dos delitos previstos nos arts. 33, 34 e 35, todos da Lei n. 11.343/2006; 12 e 16, § 1.º, inciso IV, ambos da Lei n. 10.826/2003; e 180, caput, do Código Penal. Posteriormente, o Magistrado singular determinou o arquivamento do feito em relação à conduta prevista no art. 33 da Lei de Drogas, recebeu a denúncia em relação aos demais delitos e indeferiu o pedido de revogação da custódia.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal a quo, que denegou a ordem.
+Neste writ, o Impetrante sustenta, em síntese, a ausência de fundamentação idônea e dos requisitos legais para a manutenção da custódia preventiva do Paciente.
+Argumenta que "o juízo primevo não demonstrou qualquer motivação concreta para a segregação cautelar do paciente, a não ser presunções, conjecturas, não analisando ainda os argumentos trazidos pela defesa, se valendo apenas da cota ministerial para escorar sua decisão" (fl. 6).
+Alega que " n ão há qualquer comprovação que o acusado cause qualquer perturbação as testemunhas, trata-se de um argumento completamente genérico e infundado, já que, inclusive, deve-se citar que três das cinco testemunhas são os Policiais Militares e os outros dois são parentes do paciente" (fl. 7).
+Ressalta que "não há que se falar em Periculum Libertatis, já que o paciente possui residência fixa, emprego fixo, que mantem a subsistência de sua esposa e filho de forma regular e legal" (ibidem).
+Aduz, ademais, que "as provas foram maculadas pela atitude irregular e ilegal dos policiais civis ao cumprirem o mandado de busca e apreensão, que inclusive gerou o arquivamento da acusação referente ao art. 33 da lei 11.343/2006" (fl. 7).
+Afirma que "não há como se garantir que realmente tenha sido encontrada a arma dentro da residência" (fl. 8) e que "tanto o "terreno em frente" quanto o "cômodo colado na parede" pertencem à casa vizinha que é abandonada, não abrangida pelo Mandado de Busca e Apreensão" (fls. 9-10).
+Salienta que "mesmo em caso de possível condenação, está, certamente não passaria de 04 anos, sendo, por consequência, a conversão da pena privativa de liberdade pela restritiva de direitos" (fl. 12).
+Requer (fl. 13):
+"A) Seja deferida  sic  o pleito liminar, para que a prisão seja relaxada, tendo em vista a ausência da fundamentação, bem como a referência exclusivamente a fundamentação ministerial, subsidiariamente, ainda em medida liminar, a conversão da prisão preventiva em restritivas de direito, nos termos do art. 319 do CPP;
+B) Que seja conhecido por todos os motivos expostos, com a CONCESSÃO DA ORDEM do presente "writ";
+C) Por consequência, a EXPEDIDAÇÃO DE ALVARÁ DE SOLTURA, em nome do paciente, a ser cumprido no Presídio Carlos Tinoco da Fonseca;
+D) Requer ainda que seja reconhecida a ILEGALIDADE DE TODAS AS PROVAS obtidas através do mandado de Busca e apreensão que extrapolou seus limites legais."
+O pedido liminar foi indeferido (fls. 280-284).
+As informações foram prestadas (fls. 288-292 e 293-297).
+O Ministério Público Federal opinou pelo não conhecimento do mandamus (fls. 299-314).
+A Defesa apresentou memorial e formulou pedido de intimação para sustentação oral (fls. 318-323).
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, constatei que, após a impetração do presente mandamus, o Juízo de primeiro grau julgou parcialmente procedente a pretensão punitiva estatal para "CONDENAR o acusado LUCAS DE SOUZA RICCI nas penas dos injustos penais previstos no artigo 34 e 35, na forma do artigo 40, IV, todos da Lei 11.343/06, e no artigo 180 do Código Penal, tudo em concurso material (art. 69, CP), afastando a imputação dos artigos 12, caput e 16, §1º, IV da Lei 10.826/03", oportunidade em que foi apreciada a questão referente à nulidade das provas.
+Desse modo, está prejudicada a análise da matéria, nesta oportunidade, tendo em vista que o Juízo sentenciante refutou, em cognição profunda e exauriente, as alegações da Defesa. A propósito:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. ESTELIONATO E FALSIDADE IDEOLÓGICA. NULIDADE. CERCEAMENTO DE DEFESA. APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO POR DEFENSOR DATIVO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. JUÍZO DE COGNIÇÃO MAIS AMPLO. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL.
+1. Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita.
+2. A posterior análise do apontado vício no âmbito de regular ação penal, em cognição exauriente, impõe a matéria ao Tribunal local para apreciação em eventual recurso contra a sentença.
+3. Agravo regimental improvido." (AgRg no RHC 71.840/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018.)
+Observo, ainda, que, na sentença, o Juízo de primeira instância negou ao Apenado o direito de recorrer em liberdade, valendo-se de fundamentação diversa daquela utilizada para a conversão da prisão em flagrante em preventiva, in verbis:
+"O "fumus comissi delicti" resta devidamente demonstrado com a prolação da sentença condenatória. O "periculum libertatis" advém da necessidade de garantir a ordem pública e a aplicação da lei penal, mormente se considerarmos o montante da pena fixado, razão pela qual, decreto a prisão preventiva do acusado, não permitindo que o mesmo recorra em liberdade, razão pela qual mantenho sua prisão preventiva."
+Assim, há novo título a respaldar a custódia cautelar do Paciente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que somente poderá ser submetido a esta Corte após analisado pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, na qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal, in verbis:
+"Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta." (sem grifos no original.)
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foram agregados novos fundamentos, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior adiantar-se em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso I, alínea c).
+Nesse sentido:
+"AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. FORMAÇÃO DE NOVO TÍTULO. REALIDADE JURÍDICO-PROCESSUAL ALTERADA. PREJUDICIALIDADE DA QUESTÃO SUSCITADA NO RHC. PRECEDENTES.
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ARTS. 34 E 35 AMBOS C.C. O ART. 40, INCISO IV, TODOS DA LEI N. 11.343/2006, E ART. 180 DO CÓDIGO PENAL. TESE DE NULIDADE DAS PROVAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA ALEGAÇÃO. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO NO ACÓRDÃO IMPUGNADO. IMPOSSIBILIDADE DE APRECIAÇÃO. PEDIDO PREJUDICADO.
