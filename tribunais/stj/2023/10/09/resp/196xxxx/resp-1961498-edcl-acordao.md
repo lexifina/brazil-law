@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMISSÃO DE CORRETAGEM. DEVER DE INFORMAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+WILSON VICENTE DA CRUZ (WILSON) e CÉLIA RAMOS DA CRUZ (CÉLIA) ingressaram com ação de indenização por danos materiais e morais contra BROOKFIELD SÃO PAULO EMPREENDIMENTOS IMOBILIÁRIOS S.A. (BROOKFIELD), ABYARA BROKERS INTERMEDIAÇÃO IMOBILIÁRIA CASA FÁCIL E PRONTOS LTDA. (ABYARA) e BANCO REDIMENTO S.A. (BANCO), postulando, dentre outros, a devolução dos valores pagos aos réus em decorrência do compromisso de compra e venda de unidade imobiliária, bem como do montante despendido a título de comissão de corretagem (e-STJ, fls. 1-9).
+Em primeira instância, os pedidos foram julgados parcialmente procedentes, condenando os réus a (1) restituir o valor integral da comissão de corretagem; (2) devolver a quantia de R$ 38.167,72; e (3) arcar com o pagamento de honorários no importe de 10% sobre o valor atualizado da condenação (e-STJ, fls. 760-770).
+ABYARA e BANCO interpuseram apelação, que não foi provida nos termos da seguinte ementa:
+APELAÇÃO. Compromisso de compra e venda de imóvel. Distrato por iniciativa da parte adquirente. Direito de retenção. Manutenção do percentual a ser retido em 20% (vinte por cento). Comissão de Corretagem. Abusividade configurada. Documentação acostada que dá conta do descumprimento do dever de informação. Transferência deste encargo ao consumidor tida por inválida sob estas condições. Tema 938 do STJ. Ilegitimidade passiva. Afastada. Mesmo grupo econômico. Sentença mantida. Adoção do art. 252 do RITJ. RECURSOS DESPROVIDOS. (e-STJ, fl. 587)
+Os embargos de declaração de TG SÃO PAULO (atual denominação de Brookfield) foram rejeitados (e-STJ, fls. 889-892).
+Inconformados, ABYARA e BANCO apresentaram recurso especial, com fundamento no art. 105, III, a e c, da CF, no qual alegaram violação dos seguintes dispositivos, acompanhados das respectivas teses: (1) art. 485, VI, do CPC, sustentando a suposta ilegitimidade passiva do BANCO sob o argumento de que não participou da venda de unidade imobiliária; (2) art. 6º, III, do CDC, assentando que foi devidamente observado o dever de informação sobre responsabilidade de WILSON e CÉLIA pelo pagamento da comissão de corretagem; e (3) arts. 722 e 725 do CC/02, afirmando a legalidade da cobrança da comissão de corretagem (e-STJ, fls. 895/911).
+Em decisão monocrática, neguei provimento ao recurso especial devido à incidência das Súmulas n.ºs 5 e 7 do STJ e à conformidade do acórdão recorrido com a jurisprudência desta Corte Superior no tocante à comissão de corretagem (Súmula n.º 568 do STJ)  e-STJ, fls. 1.054-1.058 .
+No julgamento do agravo interno, a Terceira Turma negou provimento ao recurso em acórdão de minha relatoria assim ementado:
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL. ILEGITIMIDADE PASSIVA DO BANCO. INOCORRÊNCIA. CORRÉ INTEGRANTE DA CADEIA DE CONSUMO. COMISSÃO DE CORRETAGEM. DEVER DE INFORMAÇÃO E LEGALIDADE DA COBRANÇA NÃO COMPROVADOS. INCIDÊNCIA DAS SÚMULASN. os 5, 7 E 568 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A conclusão adotada na origem acerca da legitimidade passiva do banco teve por base os elementos fático-probatórios dos autos, sendo inviável sua revisão diante da incidência da Súmula n.º 7 do STJ.
+2. É válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem.
+3. A revisão do acórdão recorrido no tocante ao descumprimento do dever de informação esbarra nos óbices das Súmula n.ºs 5 e 7 do STJ.
+4. Agravo interno não provido. (e-STJ, fls. 1.083-1.084)
+Nos presentes embargos de declaração, ABYARA e BANCO apontam a violação do art. 1.022 do CPC, destacando que (1) o acórdão ora embargado aplicou indevidamente a tese fixada no Recurso Especial repetitivo n.º 1.599.511-SP; e (2) foi observado o dever de informação, tendo em conta que a responsabilidade pelo pagamento da comissão de corretagem está prevista em contrato específico com a descriminação de valores em planilha (e-STJ, fls. 1.093/1.096).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. COMISSÃO DE CORRETAGEM. DEVER DE INFORMAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Não se reconhece a violação do art. 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. Embargos de declaração rejeitados.
+VOTO
+O recurso não merece ser acolhido.
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, em razão da desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do CPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do CPC).
+Nas razões destes aclaratórios, ABYARA e BANCO alegaram que (1) o acórdão ora embargado aplicou indevidamente a tese fixada no Recurso Especial repetitivo n.º 1.599.511-SP; e (2) foi observado o dever de informação, considerando que a responsabilidade pelo pagamento da comissão de corretagem está prevista em contrato específico com a descriminação de valores em planilha.
+Contudo, sem razão.
+Da acurada análise dos autos, verifica-se que o acórdão embargado foi claro ao pontuar que a revisão do entendimento da Corte local acerca da falta de cumprimento do dever de informação encontra óbice nas Súmulas n.ºs 5 e 7 do STJ.
+Ademais, também ficou destacado que o Tribunal de origem aplicou corretamente a tese jurídica do Recurso Especial repetitivo n.º 1.599.511-SP, conforme a transcrição a seguir:
+O Tribunal paulista reconheceu ser devida a restituição dos valores pagos a título de comissão de corretagem sob o fundamento de que as vendedoras não cumpriram com o seu dever de informação, de modo que os adquirentes do imóvel não estavam cientes de que tal incumbência lhes cabia.  ..
+Como se vê da transcrição acima, o acórdão recorrido consignou que é devida a restituição da comissão de corretagem na forma preconizada no julgamento do Recurso Especial Repetitivo n.º 1.599.511/SP, porque os adquirentes não foram cientificados de que sobre eles recairia tal obrigação, ficando assim descumprido o dever de informação a que alude o referido recurso representativo de controvérsia.
+Com efeito, estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, correta a aplicação da Súmula n.º 568 do STJ.
+Ademais, para reformar o entendimento acima adotado se faz necessário o revolvimento do acervo fático-probatório dos autos, bem como das cláusulas do contrato de compra e venda firmado entre as partes, incidindo, no ponto, as Súmulas n.ºs 5 e 7 do STJ. (e-STJ, fls. 1.077-1.088)
+Observa-se, dessa forma, que não foi demonstrado nenhum vício no acórdão embargado a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Esse, inclusive, é o posicionamento desta Corte, a saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. DANOS CAUSADOS EM RESIDÊNCIA POR CAMINHÃO. RESPONSABILIDADE SOLIDÁRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.873.253/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.  ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do CPC.
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
