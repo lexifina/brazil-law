@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS AGRAVANTES.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2. A revisão do entendimento do Tribunal local acerca da ocorrência da preclusão consumativa em relação as teses afetas ao excesso de execução e ilegitimidade passiva, pois já analisadas em momento anterior, demandaria o reexame dos fatos e das provas dos autos, atraindo a incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por BELINE JOSÉ SALLES RAMOS e OUTRO, contra decisão monocrática deste signatário (fls. 557/561, e-STJ), que conheceu do agravo para negar provimento ao recurso especial.
+O apelo extremo (art. 105, III, "a" da CF/88) fora deduzido em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, o qual se encontra assim ementado (fl. 450, e-STJ):
+LEGITIMIDADE "AD CAUSAM" - Legitimidade passiva - Executados que foram incluídos na demanda após resolução de incidente de desconsideração da personalidade jurídica - Regularidade - Alegação afastada.
+CUMPRIMENTO DE SENTENÇA - Pretensão à discussão dos requisitos legais para desconsideração da personalidade jurídica Inadmissibilidade - Matéria que deve ser analisada nos autos do incidente, já resolvido - Preclusão e inadequação da via - Exceção de execução - Inocorrência - Taxa de juros moratórios fixada expressamente no título judicial abrangida pela coisa julgada -Alteração inadmissível - Inteligência dos arts. 502 e 508 do Cód. de Proc. Civil -Decisão mantidas - Agravo de instrumento improvido.
+Opostos embargos de declaração (fls. 486/488, e-STJ), esses foram rejeitados.
+Em suas razões recursais (fls. 454/482, e-STJ), os insurgentes apontaram violação aos artigos 50 e 406 do Código Civil; 161, § 1º do Código Tributário Nacional; 525, § 1 º, inciso II, 779, 485, inciso VI, 926 e 927, § 4º do Código de Processo Civil/15. Sustentaram, em síntese: i) excesso de execução tendo em vista a incidência indevida de juros de 1% ao mês e correção monetária; ii) a ilegitimidade passiva dos agravantes. Alegaram que a ilegitimidade passiva constitui matéria de ordem pública, podendo ser alegada em qualquer tempo e grau de jurisdição.
+Contrarrazões às fls. 497/508, e-STJ.
+Em juízo de admissibilidade (fls. 509/512, e-STJ), negou-se o processamento do recurso especial, sob os seguintes fundamentos: i) não foi demonstrada a alegada vulneração ao dispositivo arrolado; ii) incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 515/531, e-STJ), buscando destrancar o processamento daquela insurgência, no qual os insurgentes refutaram os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 534/546, e-STJ.
+Em decisão monocrática (fls. 557/5611, e-STJ), negou-se provimento ao reclamo, em razão da incidência das Súmulas 211 e 7 do STJ.
+Daí o agravo interno (fls. 564/583, e-STJ), no qual os agravantes repisam as alegações expostas no apelo extremo, além de refutar os supracitados óbices.
+Impugnação às fls. 586/600, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS AGRAVANTES.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2. A revisão do entendimento do Tribunal local acerca da ocorrência da preclusão consumativa em relação as teses afetas ao excesso de execução e ilegitimidade passiva, pois já analisadas em momento anterior, demandaria o reexame dos fatos e das provas dos autos, atraindo a incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelos agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Pretendem os agravantes o afastamento da Súmula 211 do STJ, ao argumento ter havido o prequestionamento da matéria.
+No concernente à afronta ao artigo 50 do Código Civil (ausência dos requisitos para a desconsideração da personalidade jurídica), embora os insurgentes tenham apresentado embargos de declaração, incide, na espécie, o óbice da Súmula 211 do STJ, porquanto ausente o devido prequestionamento, haja vista que a matéria regulada no aludido dispositivo não foi interpretada pelo Tribunal de origem, não tendo havido alegação de negativa de prestação jurisdicional nas razões do recurso especial , a fim de que se pudesse aplicar o prequestionamento ficto do artigo 1025 do NCPC.
+Oportuno consignar, que para se configurar o prequestionamento da matéria
+é necessário extrai do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Até mesmo em se tratando de matérias de ordem pública ou de alegações relativas a nulidades absolutas, é imprescindível o pronunciamento do órgão jurisdicional a quo. Sem a existência dessa manifestação, o apelo nobre não comporta conhecimento por quaisquer das alíneas do permissivo constitucional.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TITULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE, RECONSIDERANDO DELIBERAÇÃO ANTERIOR, CONHECEU DO RECLAMO PARA NEGAR PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DA PARTE EXEQUENTE
+1. A ausência de enfrentamento da regra prevista no art. 34, da Lei 5.764/71 pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do requestionamento, no termo da Súmula 211/STJ.
+2. Nos termos da jurisprudência desta Corte Superior, a aplicação do artigo 1.025 do CPC/15 exige que a parte recorrente tenha oposto aclaratórios na origem e apontado, no recurso especial, violação ao artigo 1.022 do mesmo diploma e indicado de forma clara e específica, o vício existente no acórdão recorrido.
+3. A limitação dos juros de mora incidente sobre cédula ou nota promissória rural à taxa de 1% a.a. (um por cento ao ano), reconhecida pela Corte de origem, encontra amparo na orientação jurisprudencial adotada por esta Corte, razão pela qual há de incidir sobre a espécie o enunciado contido na Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1352912/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+Desta forma, inafastável a aplicação da Súmula 211 do STJ, ante a ausência
+de prequestionamento, porquanto o dispositivo apontado como violados não teve o competente juízo de valor aferido, nem foram interpretados pelo Tribunal de origem, ainda que opostos embargos declaratórios.
+2. Consoante asseverado na decisão agravada, os insurgentes alegam excesso de execução, bem como serem parte ilegítima para figurarem no polo passivo da execução.
+No ponto, assim decidiu o órgão julgador (fls. 450/451, e-STJ):
+Anote-se, de pronto, que não há falar em ilegitimidade passivados agravantes, uma vez que, como ressaltado pelo MM. Juízo de Primeiro Grau, sua inclusão no cumprimento está fundada em r. decisão transitada em julgado que acolheu o incidente de desconsideração da personalidade jurídica da empresa executada originária.
+(..)
+Por fim, não há falar em excesso de execução, uma vez que a taxa de juros aplicada corresponde exatamente àquela expressamente fixada na r. sentença, que foi mantida em apelação. Com efeito, da simples leitura do dispositivo se tira que incidem "juros pro rata dies, à taxa de 1% ao mês, a contar da citação, nos termos do artigo 406 do Código Civil vigente, combinado com o artigo 161, § 1º, do CTN" (fls.85).
+Assim, e exatamente como anotou a culta Magistrada, a taxa de juros está coberta pela coisa julgada, não mais podendo ser alterada, registrado que, "transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido" (arts. 502 e 508 do Cód. de Proc. Civil).
+Com efeito, a alteração do entendimento firmado no acórdão recorrido (acerca da ocorrência da preclusão consumativa e da coisa julgada, porquanto não suscitadas no momento oportuno) demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7 do STJ.
+Nesse sentido, confira-se:
+CIVIL E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. AÇÃO DE COBRANÇA DE MULTA CONVENCIONAL MORATÓRIA. VIOLAÇÃO DO ART. 51, IV, DO CDC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRECLUSÃO CONSUMATIVA DE MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE. NÃO CONFIGURAÇÃO NA ESPÉCIE. APELAÇÃO NÃO INTERPOSTA POR AUSÊNCIA DE INTERESSE RECURSAL. PRESCRIÇÃO. OBRIGAÇÃO DE TRATO SUCESSIVO. PRAZO APLICÁVEL. REGRA DE TRANSIÇÃO. PRETENSÃO NÃO PRESCRITA. CLÁUSULA PENAL. DEVER DE REDUÇÃO IMPOSTO PELO ART. 413 DO CC/2002. ANULAÇÃO POR OUTROS FUNDAMENTOS. POSSIBILIDADE. ABUSO DE SITUAÇÃO MANIFESTAMENTE DESFAVORÁVEL A OUTRA PARTE. DEVER DE COOPERAÇÃO E COLABORAÇÃO. VIOLAÇÃO À BOA-FÉ OBJETIVA. CONFIGURAÇÃO.
+(..)
+5. Segundo a jurisprudência do STJ, as matérias de ordem pública não estão sujeitas à preclusão temporal, porém, uma vez decididas e julgados ou não interpostos os recursos cabíveis, submetem-se à preclusão consumativa, não podendo ser reapreciadas, a teor do disposto nos arts. 505 e 507 do CPC/2015.
+6. Se a sentença julgar integralmente improcedente a pretensão autoral, apesar de afastar a prescrição alegada pelo réu, não haverá interesse recursal deste para fazer prevalecer a tese relativa à prescrição. Assim, a interposição de recurso apenas pelo autor não acarreta a preclusão consumativa da matéria naquele momento processual, porquanto contra eventual decisão de provimento, caberá recurso pelo réu, no qual será possível reiterar a tese de prescrição afastada na sentença.
+(..)
+9. O art. 413 do CC/2002 não veda que o Juiz, em vez de reduzir, anule a cláusula penal, em razão de excepcional e manifesta hipótese de violação à boa-fé objetiva, a partir das circunstâncias concretas. São soluções distintas que não se confundem.
+10. A despeito de ser imprescindível preservar a autonomia da vontade, em virtude da boa-fé objetiva que deve nortear as relações contratuais, não se pode admitir cláusulas decorrentes de abuso, por uma das partes, de determinada situação fática que deixa a outra em condição manifestamente desfavorável, suportando excessivo e injustificável prejuízo, notadamente quando deveria prevalecer o dever de cooperação e colaboração.
+11. Hipótese em que (I) apesar da ausência de preclusão da matéria, não se operou a prescrição da pretensão da autora; e (II) a cláusula penal, no excepcional contexto em que foi inserida, violou a boa-fé objetiva, devendo ser anulada, porquanto a autora recorrida faltou com o dever de colaboração, aproveitando-se de uma situação manifestamente desfavorável aos réus recorrentes para enriquecer-se indevidamente com a multa contratual, mediante a implementação de um prazo impossível de ser cumprido por pessoas que não são do ramo da construção civil e precisavam providenciar a construção de um prédio com seus próprios recursos, sem objetivo de lucro, mas apenas de evitar prejuízo a eles e à própria recorrida, em razão da falência da construtora original.
+12. Recurso especial interposto por ASSOCIACAO DOS MUTUARIOS DO EDIFICIO SAN FRANCISCO e OUTROS parcialmente conhecido e, nessa extensão, parcialmente provido, para reestabelecer a sentença.
+13. Recurso especial interposto por GEN GERENCIAMENTO E ENGENHARIA LTDA prejudicado.
+(REsp n. 1.989.439/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/10/2022, DJe de 6/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. ILEGITIMIDADE PASSIVA. PRECLUSÃO. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PERCENTUAL DA COMISSÃO DE CORRETAGEM PARA A TEMPORADA DE 2004-2005. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Rever o acórdão recorrido e acolher a pretensão recursal de inexistência de preclusão sobre a tese de ilegitimidade passiva embasada em documento novo demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+2. Esta Corte Superior possui jurisprudência no sentido de que "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/06/2016, DJe 01/07/2016).
+3. O exame da pretensão recursal de reforma do entendimento da Corte local quanto ao percentual da corretagem para o período da temporada de 2004-2005 ante a ocorrência de comportamento contraditório e preclusão exigiria o revolvimento do conjunto fático-probatório dos autos e a interpretação do contrato, o que é vedado na via especial ante os óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.030.343/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
