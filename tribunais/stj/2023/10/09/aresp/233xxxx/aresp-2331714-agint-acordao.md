@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante não impugnou o único fundamento da decisão agravada .
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Unimar Agenciamentos Marítimos Ltda. desafiando decisão que não conheceu de seu agravo em recurso especial ante a incidência da Súmula 182/STJ, por falta de impugnação à totalidade dos fundamentos da decisão do Tribunal de origem que inadmitiu o especial apelo.
+Inconformada, a parte agravante "pede vênia para reiterar e ratificar integralmente os termos do seu RECURSO ESPECIAL onde pode demonstrar não só o preenchimento de todos os pressupostos de admissibilidade, mas, também, a extrema necessidade de que seja integralmente reformado o v. acórdão proferido pelo E. Tribunal Regional Federal da 3ª Região -3ª Turma" (fl. 963). Defende, em síntese, a inexistência de reexame do conjunto fático-probatório dos autos, a ofensa aos arts. 97 e 121 do CTN e a ocorrência da prescrição intercorrente do processo administrativo (fls. 957 a 981).
+Aberta vista à parte agravada, decorreu in albis o prazo para impugnação (fl. 998).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante não impugnou o único fundamento da decisão agravada .
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+Na espécie, conforme destacado no relatório, não se conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, devido à falta de impugnação à totalidade dos fundamentos da decisão do Tribunal de origem que inadmitiu o especial apelo, especificamente: (II) "Violação aos artigos 663 do CC, 121 do CTN e 37 e 107, IV, e, do Decreto-Lei nº 37/1966. O acórdão recorrido não enfrentou a alegação da ausência de responsabilidade solidária do agente marítimo por infrações de transportador. Simplesmente considerou configurado o ilícito administrativo previsto no artigo 107, IV, e, do Decreto-Lei nº 37/1966, sem abordar a relação entre agente marítimo, agente de carga e transportador. O recorrente deveria ter oposto embargos de declaração para o suprimento da omissão; não o fez, porém, desatendendo ao requisito do prequestionamento (Súmula 211 do STJ)" (fl. 887); (V) "Violação ao artigo 138 do CTN. O Superior Tribunal de Justiça possui o entendimento de que a denúncia espontânea não abrange infrações decorrentes de descumprimento de obrigações acessórias isoladas, sob pena de completa inutilidade do poder sancionador e da ausência de qualquer proveito ao Fisco:  .. . O acórdão recorrido adotou a fundamentação de que a prestação de informações sobre carga transportada configura obrigação acessória, à qual não se aplica o instituto da denúncia espontânea em caso de cumprimento extemporâneo e realizado antes de qualquer ação fiscal. Nota-se convergência entre o acórdão recorrido e a jurisprudência do STJ citada, o que compromete a alegação de violação de lei federal" (fl. 888).
+Sucede que o ora agravante, em seu agravo interno, limitou-se a reiterar os termos de seu recurso especial e a defender, em síntese, a inexistência de reexame do conjunto fático-probatório dos autos, a ofensa aos arts. 97 e 121 do CTN e a ocorrência da prescrição intercorrente do processo administrativo (fls. 957 a 981), sem, contudo, impugnar especificamente a decisão agravada, deixando de combater a apontada incidência da Súmula 182/STJ à espécie, a qual fora aplicada devido à falta de refut ação específica à totalidade dos fundamentos da decisão da Corte de origem que inadmitiu o recurso especial.
+Deficiente, pois, a fundamentação recursal do presente agravo interno, conforme a inteligência da Súmula 284/STF.
+Nesse contexto, incide a Súmula 182/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1.861.630/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/03/2022, DJe 22/03/2022)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
