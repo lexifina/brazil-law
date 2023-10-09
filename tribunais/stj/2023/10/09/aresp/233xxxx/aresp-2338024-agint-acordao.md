@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Aplicação correta da Súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FMI SECURITIZADORA S/A, contra decisão monocrática de fls. 184/187 (e-STJ), da lavra deste signatário, a qual não conheceu do agravo (art. 1.042, do CPC/15) manejado pela ora insurgente, por ofensa ao princípio da dialeticidade - Súmula 182/STJ.
+Em suas razões recursais (fls. 191/203, e-STJ), a recorrente lança argumentos para desconstituir os fundamentos que embasaram o decisum recorrido oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Sem impugnação (certidão de fl. 208, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Aplicação correta da Súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela recorrente são incapazes de infirmar a decisão impugnada, motivo pelo qual ela merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Efetivamente, nas razões do agravo em recurso especial (fls. 139/158, e-STJ), a parte insurgente não combateu, adequadamente, todos fundamentos utilizados pela Corte de origem para inadmitir o processamento do apelo extremo.
+No que se refere à aplicação da Súmula 07 do STJ, convém destacar que a alegação genérica de que o tema discutido no recurso especial representa matéria de direito e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada.
+Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição articulada da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias.
+No particular, esta eg. Quarta Turma, nos autos do AGInt no ARESp n. 1.490.629/SP, publicado no DJe de 25/08/2021, firmou o entendimento de que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias."
+Necessário consignar, em um primeiro momento, que todo recurso especial, por pressuposto de cabimento, discute a aplicação da lei federal, pois essa a "competência" que lhe foi atribuída pelo texto constitucional. A circunstância de o reclamo discutir a aplicação de dispositivo de lei federal não exclui, por si só - para conferir amparo à tese da parte insurgente - eventual necessidade de revolvimento do acervo fático-probatório dos autos.
+Desta forma, cabia à parte insurgente apresentar fundamentos aptos a justificar, no caso, o porquê da aplicação do dispositivo não demandar - em contraste ao que concluiu a Corte local - a análise de fatos, obrigação processual da qual, a rigor, não se desincumbiu.
+Cumpre ressaltar, por oportuno, que apesar dos argumentos deduzidos pelo recorrente, a revaloração da prova consiste em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial, como bem observou o E. Ministro Felix Fischer: "A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento" (REsp 683702/RS, QUINTA TURMA, julgado em 01.03.2005).
+Entretanto, na hipótese dos autos, para superar as premissas sobre as quais se apoiou a Corte de origem, a fim de se reconhecer o preenchimento dos requisitos necessários para o deferimento do pedido de desconsideração da personalidade jurídica da empresa demandada, decorrente de abuso da personalidade jurídica, consubstanciado em confusão patrimonial, fraude ou sucessão empresarial, mister seria o reexame das provas colacionadas aos autos, prática que é vedada a esta Corte Superior.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 489, § 1º, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REQUISITOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo Tribunal de origem e não foram opostos embargos de declaração para provocar sua análise.
+2. Não há ofensa ao art. 489 do CPC quando o Tribunal estadual decide, de modo fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+3. "A teoria da desconsideração da personalidade jurídica, medida excepcional prevista no art. 50 do Código Civil, pressupõe a ocorrência de abusos da sociedade, advindos do desvio de finalidade ou da demonstração de confusão patrimonial. A mera inexistência de bens penhoráveis ou eventual encerramento irregular das atividades da empresa não enseja a desconsideração da personalidade jurídica" (AgInt no AREsp n. 924.641/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/10/2019, DJe de 12/11/2019).
+4. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+5 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.246.569/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 50 DO CÓDIGO CIVIL. INCIDENTE DE DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. REQUISITOS OBJETIVOS. TRIBUNAL A QUO CONCLUIU PELA NÃO COMPROVAÇÃO DOS REQUISITOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. O legislador pátrio, no art. 50 do CC de 2002, adotou a teoria maior da desconsideração, que exige a demonstração da ocorrência de elemento objetivo relativo a qualquer um dos requisitos previstos na norma, caracterizadores de abuso da personalidade jurídica, como excesso de mandato, demonstração do desvio de finalidade (ato intencional dos sócios em fraudar terceiros com o uso abusivo da personalidade jurídica) ou a demonstração de confusão patrimonial (caracterizada pela inexistência, no campo dos fatos, de separação patrimonial entre o patrimônio da pessoa jurídica e dos sócios ou, ainda, dos haveres de diversas pessoas jurídicas).
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu expressamente que "não se verificam nesses casos concretos os requisitos legais para desconsideração da personalidade jurídica para extensão da responsabilidade à agravada", sobretudo não ocorrendo desvio de finalidade ou confusão patrimonial. Rever a conclusão a que chegou o acórdão recorrido importaria, necessariamente, o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.141.540/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023.)
+Ora, como é cediço, a falta de ataque específico aos fundamentos da decisão agravada atrai, por analogia, o óbice contido no Enunciado n.º 182, da Súmula do STJ, verbis:
+"É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Assim, conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).
+Desta forma, irrefutável a incidência do enunciado n.º 182, da Súmula do STJ, porquanto inexistiu ataque específico aos fundamentos da decisão que obstou a ascensão do recurso especial ao Superior Tribunal de Justiça.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
