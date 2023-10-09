@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação declaratória de inexigibilidade de débito.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno, manejado por PRIME PERFORMANCE SISTEMAS S.A., contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: declaratória de inexigibilidade de débito, movida por SMC AUTOMACAO DO BRASIL LTDA. em desfavor do agravante.
+Sentença: julgou procedentes os pedidos e, ato contínuo, julgou improcedente a reconvenção apresentada.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. INADIMPLEMENTO CONTRATUAL. FALHA NA PRESTAÇÃO DE SERVIÇOS RELACIONADOS À IMPLANTAÇÃO DO SOFTWARE DA EMPRESA RÉ. AUSÊNCIA DE INSTALAÇÃO DAS ATUALIZAÇÕES DO SOFTWARE. A decisão de primeiro grau concluiu que a cobrança dos valores relativos às atualizações do softwares foi indevida, diante do inadimplemento contratual da ré. A resolução do contrato por culpa da ré mostrou-se adequada à realidade comprovada pela documentação. Instrução processual que demonstrou os seguintes fatos: (i) a partir do ano de 2016 e coma instalação da versão 3 do sistema, o programa apresentou diversas falhas de funcionamento, constatando-se (fls. 163/167,179/191, 192/197 e 856/869) cerca de 685 chamados em um espaço de um ano, (ii) a ré não instalou as atualizações conforme previsão contratual, conforme extraído de um print da tela de um equipamento da empresa autora (fl. 1723), em19/11/2019, época em que a versão instalada era a terceira, sendo que já havia pelo menos a quinta e a sétima, (iii) em relação à quinta versão, houve confirmação pela ré de problemas na sua instalação (fl. 411), tanto que houve suspensão da anuidade de 2017, (iv) ausência de prova de instalação completadas versões 5 e 7 do software num flagrante descumprimento da cláusula 18.1 (fl. 75) e (v) desorganização no quadro de funcionários, em especial ao mencionar dificuldade do atendimento da autora pelo desligamento de 02 técnicos. Além disso, não se sustentaram as alegações da ré: (a) o encerramento se deu por resilição, a partir do desinteresse da autora (por troca da diretoria) e (b) falta de treinamento de funcionários e diretoria. Demonstrado o descumprimento contratual da ré, a emissão das notas fiscais de números 1390,1403, 1712, 1724 e 1781 referentes a esses períodos mostrou-se indevida. Anota-se que valor principal do contrato foi integralmente quitado e o valor constante das notas tratavam de despesas acessórias. Aplicável a exceção do contrato não cumprido, nos termos do artigo 476 do Código Civil. A partir da constatação de resolução contratual por culpa da ré, inaplicável também a multa contratual pretendida na apelação. Ação procedente e reconvenção improcedente.
+SENTENÇA MANTIDA. RECURSO IMPROVIDO. (e-STJ Fl. 1874)
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega ofensa aos arts. 156, 369 e 489, § 1º, IV, do CPC/15, bem como dissídio jurisprudencial. A par da ausência de fundamentação no acórdão recorrido, sustenta, em suma, a necessidade de produção de prova pericial no caso concreto.
+Decisão monocrática: não conheceu do agravo em recurso especial devido à incidência da Súmula 182 do STJ (e-STJ Fls. 2013/2016).
+Agravo interno: nas razões de e-STJ Fls. 2020/2030, o agravante insurge-se contra a decisão e reitera a ofensa aos arts. 156, 369 e 489, §1º, do CPC, deduzindo que fora efetivamente demonstrada a sua vulneração e, bem assim, a divergência jurisprudencial suscitada. Alega, ainda, que o TJ/SP extrapolou o juízo de admissibilidade, não sendo aplicável a Súmula 7/STJ ao caso concreto.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação declaratória de inexigibilidade de débito.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno, interposto por PRIME PERFORMANCE SISTEMAS S.A., contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera em virtude da incidência da Súmula 182 do STJ.
+Nas razões do presente agravo, o agravante insurge-se contra a decisão, reiterando as suas razões de mérito. Entretanto, os argumentos expostos não são aptos a desconstituir a decisão recorrida, assim delimitada:
+(..) Da análise da decisão agravada, constata-se que o recurso especial interposto pelo ora agravante foi inadmitido com fulcro nos seguintes fundamentos: a) ausência de ofensa ao art. 489 do CPC, mormente ante a efetiva prestação jurisdicional e fundamentação da decisão; b) no que tange aos arts. 156 e 369 do CPC, falta de demonstração da alegada vulneração, a par da incidência da Súmula 7/STJ; e c) inexistência de comprovação do dissídio jurisprudencial, havendo mera transcrição de ementas.
+Entretanto, no agravo em recurso especial, o agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência.
+Nesse passo, limitou-se a reprisar as razões de seu recurso especial e deixou de refutar especificamente os fundamentos adotados, notadamente a incidência da Súmula 7/STJ, de forma a demonstrar o seu desacerto.
+Cumpre consignar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela incidência do enunciado n. 7/STJ, incumbe à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos. Nesse sentido: AgInt nos EDcl no AREsp n. 2.189.780/SP, Terceira Turma, DJe de 31/3/2023; AgInt no AREsp n. 2.199.998/SP, Quarta Turma, DJe de 10/3/2023; AgInt no AREsp n. 2.144.317/RS, Quarta Turma, DJe de 16/2/2023.
+Frise-se, quanto à Súmula 7/STJ, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente ser a questão de direito ou requerer a revaloração ou a correta aplicação da legislação que entende violada. (..) (e-STJ Fls. 2014/2015, grifo nosso)
+Nesse passo, observa-se que, na petição do agravo em recurso especial, o agravante cingiu-se a deduzir genericamente a inaplicabilidade da decisão de inadmissão, limitando-se a reprisar as razões de mérito e o teor de seu recurso especial.
+Deixou de evidenciar, portanto, de forma específica e pormenorizada, o desacerto da decisão, precipuamente a desnecessidade do reexame de fatos e provas quanto às questões concretamente debatidas no recurso especial.
+Dessa forma, constata-se, de fato, que o agravante não evidenciou, nas razões do agravo em recurso especial, que refutou suficientemente a incidência dos referidos óbices, furtando-se em demonstrar que os pressupostos fáticos necessários ao julgamento da causa estavam delineados no acórdão recorrido.
+Em atenção ao princípio da dialeticidade, é ônus da parte recorrente demonstrar a inaplicabilidade da decisão de inadmissão, ainda que a considere carente da devida fundamentação, de sorte a evidenciar o seu desacerto.
+Ademais, cabia ao agravante o apontamento de que, nas razões do agravo em recurso especial, refutou pontualmente os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de inadmissibilidade em sede de agravo intern o.
+Nesse contexto, consoante entendimento pacífico desta Corte, o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ, a qual se subsume perfeitamente o caso em análise.
+Assim, a incidência da Súmula 182/STJ deve ser mantida.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
