@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 157, CAPUT, DO CP. RECONHECIMENTO FOTOGRÁFICO. INOBSERVÂNCIA DO ART. 226 DO CPP. NÃO VERIFICAÇÃO. CONDENAÇÃO MANTIDA. EXISTÊNCIA DE OUTRAS PROVAS SUFICIENTES. PROVA TESTEMUNHAL COESA. CONCLUSÃO DIVERSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem destacou que foram apresentadas à vítima diversas fotos por ocasião do reconhecimento fotográfico do paciente e que o referido reconhecimento foi confirmado judicialmente. Ademais, ressai dos autos a existência de outras provas hábeis a manter a condenação, consoante se verifica da prova testemunhal e quebra de sigilo telefônico levada a efeito.
+2. Verificada a suficiência dos elementos probatórios dos autos, concluir de forma diversa, a fim de alcançar a absolvição do paciente, ensejaria revolvimento fático-probatório vedado na presente sede.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS ANTÔNIO DA SILVA contra decisão monocrática que não conheceu do habeas corp us (e-STJ fls. 732/748 ).
+Afirma a defesa que em sede de inquérito policial foi apresentada apenas uma única foto, de má qualidade, à vítima, a fim de realizar o reconhecimento do paciente. Ademais, que o reconhecimento feito em juízo, por meio de videoconferência, não é válido, pois na ocasião tampouco foi o paciente colocado ao lado de outros presos.
+Aduz que a condenação do paciente se deu sem provas contundentes, pois se baseia em ligação realizada para o terminal cadastrado no CPF de companheira do corréu, o que não passa de mera presunção quanto ao cometimento do delito pelo paciente.
+Requer seja dado provimento ao agravo regimental para reconhecer a ilegalidade do reconhecimento feito pela vítima e, não havendo outras provas aptas a sustentar a condenação, seja o paciente absolvido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 157, CAPUT, DO CP. RECONHECIMENTO FOTOGRÁFICO. INOBSERVÂNCIA DO ART. 226 DO CPP. NÃO VERIFICAÇÃO. CONDENAÇÃO MANTIDA. EXISTÊNCIA DE OUTRAS PROVAS SUFICIENTES. PROVA TESTEMUNHAL COESA. CONCLUSÃO DIVERSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem destacou que foram apresentadas à vítima diversas fotos por ocasião do reconhecimento fotográfico do paciente e que o referido reconhecimento foi confirmado judicialmente. Ademais, ressai dos autos a existência de outras provas hábeis a manter a condenação, consoante se verifica da prova testemunhal e quebra de sigilo telefônico levada a efeito.
+2. Verificada a suficiência dos elementos probatórios dos autos, concluir de forma diversa, a fim de alcançar a absolvição do paciente, ensejaria revolvimento fático-probatório vedado na presente sede.
+3. Agravo regimental improvido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+Pretende a defesa, em suma, seja reconhecida a ilegalidade no reconhecimento fotográfico, feito em sede de inquérito policial, e por meio de vide oconferência, realizado em sede judicial, e a consequente absolvição do paciente, ante a inexistência de outras provas que sustentem a acusação.
+A decisão recorrida deve ser mantida, ante a ausência de fundamentos que a infirme.
+Com efeito, no que concerne ao reconhecimento do paciente, consta que A ofendida reconheceu os acusados na Delegacia de Polícia Civil, quando lhe foram apresentadas várias fotos de alguns indivíduos, tendo identificado, com certeza, LUCAS ANTÔNIO DA SILVA e WILLEN DE CARVALHO SANTOS como sendo os autores do roubo do qual foi vítima (e-STJ fl. 737/738). Assim, diferentemente do que sustenta a defesa, não houve apresentação de uma única foto à vítima a fim de efetuar o reconhecimento do paciente.
+Ademais, O reconhecimento dos réus mencionados pela ofendida também se deu durante a instrução processual, e perguntada pelo juízo, disse não haver nenhuma dúvida de que foram eles os autores do delito. Destacou-se que além de individualizar a conduta de cada um dos envolvidos na prática delitiva, a vítima apontou as características físicas dos criminosos, que são compatíveis com os anexos fotográficos constantes nos autos (e-STJ fl. 738).
+Somado a isso, extrai-se da decisão recorrida a existência de outras provas que indicam a autoria do delito por parte do paciente, consoante se verifica do depoimento da testemunha Maria Robianne, delegada de polícia, ouvida em juízo, a qual declarou que pela forma truculenta perpetrada pelos criminosos no assalto, começaram a suspeitar que os indivíduos executores do delito eram de fora. Revelou que, passados alguns dias dos fatos narrados na denúncia, ocorreu um roubo no município de Pio IX/PI, que pela semelhança do modus operandi lá empregado, as investigações se voltaram para as pessoas de LUCAS ANTÔNIO DA SILVA e WILLEN DE CARVALHO SANTOS, que também respondem criminalmente na Comarca de Pio IV/PI pelo aludido delito (e-STJ fl. 738).
+Outrossim, a vítima informou que durante a prática delitiva, os acusados pegaram o seu aparelho celular e efetuaram algumas ligações e, em umas dessas ligações, os criminosos cobraram um comparsa, dizendo que as informações em relação à pistola e o cofre teriam sido equivocadas, pois não havia nada disso na casa (e-STJ fl. 738). Determinada a quebra de sigilo telefônico, constatou-se que a ligação houvera sido feita para a companheira do corréu Willen de Carvalho Santos fato que, em conjunto com os demais elementos de informação constantes nos autos, leva diretamente ambos os denunciados à cena do crime (e-STJ fl. 738).
+Portanto, verificada a suficiência dos elementos probatórios dos autos, concluir de forma diversa, a fim de alcançar a absolvição do paciente, ensejaria revolvimento fático-probatório vedado na presente sede.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
