@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ALEGAÇÃO DE NULIDADE NO RECONHECIMENTO. JULGAMENTO DO TRIBUNAL DO JÚRI. INDEFERIMENTO DE APRESENTAÇÃO DE VÍDEO DO FANTÁSTICO NO PLENÁRIO NÃO SIGNIFICA QUE EXISTA NULIDADE NO RECONHECIMENTO QUE FOI FEITO SEM DÚVIDA ALGUMA E DE ACORDO COM AS DEMAIS PROVAS.
+1. No parecer ministerial apresentado na ocasião do julgamento, consta que a vítima apresentou características do autor do crime antes de seu reconhecimento e que, no momento que viu a imagem, entendeu com certeza ser o paciente e também que outras provas confirmaram a autoria.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Josinaldo Ramos da Silva Junior, contra decisão de minha Relatoria, que concedeu, em parte, a ordem de habeas corpus, para redimensionar a pena final do paciente. A decisão recebeu ementa no seguinte teor (fl. 106):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. JULGAMENTO DO TRIBUNAL DO JÚRI. APONTAMENTO DE NULIDADE POR INDEFERIMENTO DE APRESENTAÇÃO DE VÍDEO DO FANTÁSTICO NO PLENÁRIO. VÍDEO SOBRE TEMA GENÉRICO. AUSÊNCIA DE DISCUSSÃO NO ACÓRDÃO SOBRE DÚVIDA NO RECONHECIMENTO FEITO PELA VÍTIMA. DOSIMETRIA. REDIMENSIONAMENTO DA PENA COM O AFASTAMENTO DA CONDUTA SOCIAL. Ordem parcialmente concedida nos termos do dispositivo.
+Alega a defesa que há nulidade no julgamento por não ter sido deferido o seu pedido de juntar uma matéria jornalística de vídeo, que havia sido produzida no programa Fantástico e que fazia referência ao reconhecimento de pessoas por fotografia, art. 226 do Código de Processo Penal.
+Sustenta que houve nulidade no reconhecimento feito apenas pela vítima.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ALEGAÇÃO DE NULIDADE NO RECONHECIMENTO. JULGAMENTO DO TRIBUNAL DO JÚRI. INDEFERIMENTO DE APRESENTAÇÃO DE VÍDEO DO FANTÁSTICO NO PLENÁRIO NÃO SIGNIFICA QUE EXISTA NULIDADE NO RECONHECIMENTO QUE FOI FEITO SEM DÚVIDA ALGUMA E DE ACORDO COM AS DEMAIS PROVAS.
+1. No parecer ministerial apresentado na ocasião do julgamento, consta que a vítima apresentou características do autor do crime antes de seu reconhecimento e que, no momento que viu a imagem, entendeu com certeza ser o paciente e também que outras provas confirmaram a autoria.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste ao agravante, pois não consta do acórdão hostilizado que tenha havido alguma dúvida quando feito o reconhecimento do réu por parte da vítima. Vê-se que o acórdão hostilizado trata apenas sobre o indeferimento da apresentação do vídeo que, de acordo com o Magistrado, fazia menção ao tema do reconhecimento por fotografia, de maneira geral, e não trazia nenhum aspecto concreto às provas dos autos, era uma matéria sobre o reconhecimento. Não havia qualquer particularidade a ser analisada sobre o processo em si. No acórdão hostilizado foi transcrito trecho do indeferimento feito pelo Magistrado quanto ao pedido de apresentação de vídeo na sessão de julgamento (fls. 71):
+ ..
+É sabido que o art. 479, do CPP tem por finalidade garantir a paridade de armas e o exercício do contraditório e ampla defesa e, em que pese preconizar o seu parágrafo único a vedação quanto a conteúdo que verse sobre a matéria de fato submetido à apreciação e julgamento dos jurados, observo que o vídeo a que a defesa pretende ver exibido é matéria jornalística exibida no programa do Fantástico em relação aos vícios de reconhecimento pela testemunha/vítima que, inevitavelmente, poderá influenciar os jurados, sobretudo porque a grande discussão entre as partes é o reconhecimento realizado pela vítima, pautada em características pessoais do acusado. Desta feita, coaduno-me como entendimento já firmado pelos Tribunais Superiores, incluindo o STJ, que entende que a proibição imposta no art. 479, do CPP alcança quaisquer documentos que digam respeito diretamente à situação fática tratada nos autos, ou que, a despeito de não se referirem diretamente ao fato em discussão, digam respeito a questões que serão submetidas à apreciação dos jurados e aptas a influenciarem as suas tomadas de decisões. INDEFIRO, portanto, o pleito defensivo, dando os presentes pessoalmente por intimados.
+ ..
+No parecer ministerial apresentado na ocasião do julgamento (fls. 64/68), consta que a vítima apresentou características do autor do crime antes de seu reconhecimento e que, no momento que viu a imagem, entendeu com certeza ser o paciente e também que outras provas confirmaram a autoria.
+O fato de ter sido indeferida a apresentação de um vídeo sobre o assunto não torna nulo o reconhecimento que foi feito com certeza por parte da vítima, confirmando as demais provas do processo.
+Ante o exposto, nego provimento ao agravo regimental.
