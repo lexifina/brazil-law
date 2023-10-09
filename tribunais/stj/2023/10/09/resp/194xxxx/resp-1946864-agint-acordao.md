@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO COLETIVA. SINDICATO. CUMPRIMENTO DE SENTENÇA. EXPRESSA RESTRIÇÃO AOS SUBSTITUÍDOS ARROLADOS NA AÇÃO COLETIVA. NÃO INTEGRAÇÃO AO ROL DE SUBSTITUÍDOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de execução objetivando o pagamento da quantia de R$ 418.180,55 (quatrocentos e dezoito mil, cento e oitenta reais e cinquenta e cinco centavos), valores estes atualizados até fevereiro de 2016. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi parcialmente reformada para reduzir o valor da verba honorária.
+II - O acórdão recorrido consignou a inexistência de proveito econômico estimável a favor do recorrente.
+III - Esta Corte possui firme entendimento de que, em regra, não é possível a revisão do valor fixado a título de verba honorária em recurso especial, assim porque implica, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado pela incidência da Súmula n. 7/STJ.
+IV - Entretanto, o referido óbice pode ser afastado quando for verificado que o valor arbitrado pelas instâncias ordinárias se mostra irrisório ou exorbitante, não sendo essa a hipótese dos autos. Precedentes: REsp n. 1.684.753/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2017, DJe 10/10/2017; AgInt no AgRg no REsp n. 1.230.148/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/8/2017, DJe 17/8/2017.
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, visando reformar o acórdão do Tribunal Regional Federal da 3ª Região, assim resumido:
+DIREITO PROCESSUAL CIVIL. AÇÃO COLETIVA AJUIZADA POR SINDICATO. CUMPRIMENTO DE SENTENÇA. EXPRESSA RESTRIÇÃO AOS SUBSTITUÍDOS ARROLADOS NA AÇÃO COLETIVA. REQUERENTE QUE NÃO INTEGRA O ROL DE SUBSTITUÍDOS. IMPUGNAÇÃO ACOLHIDA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. EQUIDADE. ART. 85, §§ 2º E 8º DO CPC/2015. APELAÇÃO PARCIALMENTE PROVIDA.
+1. O arbitramento dos honorários advocatícios deve basear-se nos princípios da proporcionalidade e da razoabilidade e resultar de uma apreciação equitativa dos critérios contidos no artigo 85, § 2º do Novo Código de Processo Civil, bem como observar o disposto no artigo 85, § 8º do mesmo diploma legal, de modo que não sejam estipulados em valor irrisório ou excessivo. Precedente desta Corte.
+2. A fixação dos honorários em percentual incidente sobre o valor da causa resultaria em quantia desarrazoada e desproporcional, ensejadora de enriquecimento sem causa, ainda mais quando considerada a baixa complexidade do feito, resolvido pela adoção de tese de direito (impossibilidade de cumprimento de sentença por servidor público federal não constante do rol de substituídos em ação coletiva movida por sindicato), sem necessidade, portanto, de detida análise da matéria fática da demanda.
+3. Considerando a baixa complexidade da causa, já que o processo foi extinto com resolução do mérito com base tão somente em aplicação de tese de direito (impossibilidade de cumprimento de sentença por servidor público federal não constante do rol de substituídos em ação coletiva movida por sindicato, ante a expressa limitação constante do título executivo), bem como não houve proveito econômico imediato à Fazenda Pública executada, reduzo o valor da verba honorária ao patamar de R$ 2.000,00 (dois mil reais), nos termos do artigo 85, §§ 2º e 8º, do Novo Código de Processo Civil.
+4. Apelação parcialmente provida.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+O conhecimento do recurso especial não necessita de revolvimento fático-probatório. Todos os elementos necessários ao deslinde da controvérsia são os pressupostos fáticos estabelecidos no acórdão de origem.
+Perceba-se que a razão para se concluir pela "inexistência de proveito econômico estimável a favor do recorrente" foi a circunstância de a extinção sem resolução de mérito ter ocorrido por ilegitimidade da exequente!
+Ora, isso não retira de modo algum a possibilidade de estimativa do proveito econômico, que pode ser mensurado pela observação do valor da causa, que é critério de base de cálculo dos honorários!
+No presente caso, houve inclinação da Corte de origem em não condenar o exequente a honorários na forma da lei. Veja-se a decisão em sede de embargos de declaração: "No caso concreto, o valor da causa é elevado, de R$ 418.180,55(quatrocentos e dezoito mil, cento e oitenta reais e cinquenta e cinco centavos) em fevereiro de 2016 (Num. 89883757 - pág. 23). Desta forma, tenho que a fixação dos honorários em percentual incidente sobre o valor da causa resultaria em quantia desarrazoada e desproporcional".
+O que é mais grave: mesmo com a fixação de tese repetitiva por este STJ (Tema 1.076), a Corte de origem se negou à sua aplicação, invocando um descabido fundamento de que a extinção por ilegitimidade da parte tornaria impossível mensurar o proveito econômico da União.
+ ..
+O óbice da súmula 7/STJ não se sustenta. Como demonstrado acima, em nenhum momento a União se utilizou de questionamento dos fatos expostos para sustentar sua tese jurídica; apenas demonstrou o desacerto da aplicação do direito aos fatos pressupostos.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO COLETIVA. SINDICATO. CUMPRIMENTO DE SENTENÇA. EXPRESSA RESTRIÇÃO AOS SUBSTITUÍDOS ARROLADOS NA AÇÃO COLETIVA. NÃO INTEGRAÇÃO AO ROL DE SUBSTITUÍDOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de execução objetivando o pagamento da quantia de R$ 418.180,55 (quatrocentos e dezoito mil, cento e oitenta reais e cinquenta e cinco centavos), valores estes atualizados até fevereiro de 2016. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi parcialmente reformada para reduzir o valor da verba honorária.
+II - O acórdão recorrido consignou a inexistência de proveito econômico estimável a favor do recorrente.
+III - Esta Corte possui firme entendimento de que, em regra, não é possível a revisão do valor fixado a título de verba honorária em recurso especial, assim porque implica, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado pela incidência da Súmula n. 7/STJ.
+IV - Entretanto, o referido óbice pode ser afastado quando for verificado que o valor arbitrado pelas instâncias ordinárias se mostra irrisório ou exorbitante, não sendo essa a hipótese dos autos. Precedentes: REsp n. 1.684.753/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2017, DJe 10/10/2017; AgInt no AgRg no REsp n. 1.230.148/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/8/2017, DJe 17/8/2017.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão recorrido consignou a inexistência de proveito econômico estimável a favor do recorrente.
+Esta Corte possui firme entendimento de que, em regra, não é possível a revisão do valor fixado a título de verba honorária em recurso especial, assim porque implica, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado pela incidência da Súmula n. 7/STJ.
+Entretanto, o referido óbice pode ser afastado quando for verificado que o valor arbitrado pelas instâncias ordinárias se mostra irrisório ou exorbitante, não sendo essa a hipótese dos autos. Precedentes: REsp n. 1.684.753/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2017, DJe 10/10/2017; AgInt no AgRg no REsp n. 1.230.148/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 8/8/2017, DJe 17/8/2017.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
