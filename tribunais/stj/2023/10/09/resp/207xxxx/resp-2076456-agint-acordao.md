@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. INOVAÇÃO RECURSAL. VEDAÇÃO. PRECLUSÃO CONSUMATIVA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. É vedado o exame de inovação recursal no recurso especial ou no agravo interno diante da preclusão consumativa
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DISBRAVE COMÉRCIO DE AUTOMÓVEIS LTDA., DISTRIBUIDORA BRASÍLIA DE VEICULOS S.A., CARLOS ALBERTO GIANESELLA TAURISANO (DISBRAVE e outros) contra decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 697 - com destaque no original).
+Nas razões do presente inconformismo, repisando os argumentos trazidos nas razões recursais, defenderam (1) a violação do art. 85 do NCPC, alegando que os honorários sucumbenciais são matéria de ordem pública havendo equívoco na fixação e distribuição; e (2) a não incidência da Súmula n.º 7 do STJ, havendo a impossibilidade da desconsideração da personalidade jurídica por encerramento das atividades da empresa, pois não foi identificado o abuso da personalidade ou confusão patrimonial.
+Houve impugnação ao recurso (e-STJ, fls. 724/734).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. INOVAÇÃO RECURSAL. VEDAÇÃO. PRECLUSÃO CONSUMATIVA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. É vedado o exame de inovação recursal no recurso especial ou no agravo interno diante da preclusão consumativa
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+Inicialmente, ressalto não ser cabível a inovação recursal no recurso especial ou no agravo interno, o que ocorre na espécie quanto à alegada violação do art. 85, § 11, do NCPC.
+A propósito, confiram-se os seguintes precedentes:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CÁLCULO DOS PROVENTOS DE COMPLEMENTAÇÃO. INCLUSÃO DE VERBA REMUNERATÓRIA RECONHECIDA NA JUSTIÇA DO TRABALHO. RESERVA MATEMÁTICA DO BENEFICIÁRIO A SER APURADA EM LIQUIDAÇÃO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. POSSIBILIDDAE. EXCLUSÃO DOS JUROS MORATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. os 282 E 356 DO STF, POR ANALOGIA. REDIMENSIONAMENTO DE VERBA HONORÁRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. NÃO OCORRÊNCIA. NÃO CABIMENTO. FIXAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+2. No caso, o acórdão recorrido não deliberou sobre o descabimento da incidência de juros de mora, sem que fosse suscitada a discussão por ocasião da oposição dos embargos de declaração, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à hipótese, os óbices das Súmulas n.ºs 282 e 356 do STF, por analogia.
+3. No que se refere à modificação do arbitramento sucumbencial, este Tribunal Superior consolidou o entendimento de que, via de regra, se mostra inviável, em recurso especial, porquanto referida discussão encontra-se no contexto fático-probatório dos autos, inviabilizando, em princípio, a alteração do valor arbitrado nas instâncias ordinárias, ressalvando-se as hipóteses de valor excessivo ou irrisório.
+4. A questão do não cabimento dos honorários sucumbenciais, com base no entendimento firmado em tese de demanda repetitiva, não foi suscitada anteriormente pela parte agravante, inviabilizando que seja levantada em agravo interno, por configurar inovação recursal.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.991.051/MG, de minha relatoria, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. INOVAÇÃO RECURSAL. PRECLUSÃO. CONTESTAÇÃO INTEMPESTIVA. ANDAMENTO PROCESSUAL ELETRÔNICO. FALHA. JUSTA CAUSA. DEMONSTRAÇÃO. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A alegação tardia de tese em agravo interno configura inovação recursal, insuscetível de exame diante da preclusão consumativa.
+3. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que as informações acerca de processos disponibilizadas em página eletrônica de tribunal possuem caráter informativo, e não oficial, de forma que a justa causa, para fins de renovação de prazo processual, apenas pode se dar quando os erros ou omissões nessas comunicações suscitarem dúvida razoável no causídico, mesmo porque é seu dever zelar pelo andamento processual, diligenciando para a correta contagem de prazos.
+4. Agravo interno não provido.
+(AgInt no REsp 1501018/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/3/2021, DJe 12/3/2021)
+De outra parte, a decisão recorrida consignou que, em relação à alegada violação dos arts. 28, § 5º, do CDC, e 50 do CC/2002, no que concerne à impossibilidade da desconsideração da personalidade jurídica por encerramento das atividades da empresa, pois não foi identificado o abuso da personalidade ou confusão patrimonial, o Tribunal local, com amparo no acervo fático-probatório dos autos, julgou nos seguintes termos:
+A desconsideração da personalidade jurídica tem por fim exatamente estender a responsabilidade patrimonial da pessoa jurídica aos seus sócios, nos termos do artigo 50, caput, do Código Civil:
+ ..
+Significa dizer que, desconsiderada a personalidade jurídica, a obrigação imposta à pessoa jurídica passa à esfera patrimonial dos sócios. Esse é o seu fundamento e a sua finalidade! Assim sendo, os sócios DISTRIBUIDORA BRASÍLIA DE VEÍCULOS e CARLOS ALBERTO GIANESELLA TAURISANO, agregados ao polo passivo da demanda e considerados responsáveis patrimoniais pela obrigação atribuída a DISBRAVE COMÉRCIO DE AUTOMÓVEIS LTDA, por óbvio devem se sujeitar à tutela jurisdicional outorgada ao Apelante.
+Note-se que a obrigação de quitação do financiamento do veículo e dos débitos até a sua entrega ao Autor tem conteúdo essencialmente patrimonial. E, mesmo que seja considerada obrigação tipicamente de fazer, pode ser convertida em perdas e danos, conforme prescrevem os artigos 247 e 248 do Código Civil.
+Assim sendo, como se cuida de obrigação de pagamento, a ela estão sujeitos os sócios cuja responsabilidade patrimonial foi reconhecida.
+ ..
+Levando em consideração, de um lado, que o primeiro, segundo e terceiro Réus têm lastro patrimonial e que houve grave descumprimento contratual, na medida em que foi vendido veículo alienado fiduciariamente a terceiro e não houve o mínimo de esforços para permitir a transferência; e, de outro que o Autor vem suportando adversidades por longo período devido à situação irregular do veículo adquirido, tem-se que a importância de R$ 20.000,00 se amolda melhor às particularidades do caso concreto, de modo a compensar adequadamente o dano moral e não desvirtuar em enriquecimento injustificado.
+ ..
+Demais disso, a primeira Ré responde pelas ações e omissões de seus prepostos, na linha do que dispõem os artigos 932, inciso III, e 933 do Código Civil.
+A desconsideração da personalidade jurídica foi decretada mediante a seguinte fundamentação:
+"Da desconsideração da personalidade jurídica da ré Disbrave
+A desconsideração da personalidade jurídica é um instituto advindo do direito inglês, que autoriza o afastamento da autonomia patrimonial, permitindo-se chegar aos bens particulares dos sócios por dívidas da sociedade, nas hipóteses previstas no art. 50 do Código Civil.
+Essas hipóteses consistem no gênero abuso da personalidade jurídica, que tem como espécies a confusão patrimonial e o desvio de finalidade.
+Os sócios de uma sociedade empresária, aproveitando-se do princípio da autonomia patrimonial da pessoa jurídica, utilizam-na como subterfúgio para ludibriar pessoas, causando-as prejuízos econômicos. Quando tentam buscar o recebimento de seus créditos esbarram em uma sociedade desprovida de bens.
+A demanda encontra-se submetida aos ditames do Código de Defesa do Consumidor, o qual adotou a Teoria Menor da desconsideração da Personalidade Jurídica, prevendo que, in verbis:
+ ..
+No caso dos autos, observa-se que a empresa Disbrave encerrou suas atividades, além da informação de que uma gestão fraudulenta falsificou contratos de financiamento perante o Banco Bradesco  ID 50382176 - pág. 4 .
+Desse modo, presentes os requisitos autorizadores, acolho o pedido de desconsideração da personalidade jurídica da empresa ré. Os sócios Distribuidora Brasília de Veículos e Carlos Alberto Gianesella Taurisano já constam no polo passivo."
+O encerramento das atividades que afeta ou inviabiliza o cumprimento da obrigação de fazer autoriza a desconsideração da personalidade jurídica com base no artigo 28, § 5º, do Código de Defesa do Consumidor, valendo destacar que a obrigação de fazer é potencialmente conversível em perdas e danos, nos termos dos artigos 247 e 248 do Código Civil.
+As provas dos autos, com destaque para os diálogos de IDs 31402415 a 31402417, evidenciam que, a despeito do pagamento do preço do veículo, a primeira Ré não cumpriu a obrigação de quitar o financiamento e levantar o gravame fiduciário, de maneira a permitir a sua transferência para o Autor.
+O claro inadimplemento, que perdura desde 04/06/2018, dá respaldo ao cumprimento forçado da obrigação com fundamento no artigo 475 do Código Civil, sobretudo à falta de prova de que a transferência deixou de ser realizada em função de ação ou omissão imputável ao Autor, presente o disposto no artigo 373, inciso II, do Código de Processo Civil.
+Não é demasiado salientar que o descumprimento da obrigação induz à presunção de culpa do devedor, a quem compete a prova de algum fato extintivo, modificativo ou impeditivo do direito do credor. No consagrado ensinamento de Miguel Maria de Serpa Lopes: (e-STJ, fls. 567/574 - negritei).
+Esta Corte Superior firmou seu posicionamento no sentido de que a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do art. 50 do Código Civil de 2002, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial).
+Nesse sentido, o Tribunal estadual, soberano na análise das provas, concluiu que ficaram demonstrados os requisitos para a desconsideração da personalidade jurídica, uma vez que: Os sócios  ..  aproveitando-se do princípio da autonomia patrimonial da pessoa jurídica, utilizam-na como subterfúgio para ludibriar pessoas  .. . Quando tentam buscar o recebimento de seus créditos esbarram em uma sociedade desprovida de bens  ..  que a empresa Disbrave encerrou suas atividades, além da informação de que uma gestão fraudulenta falsificou contratos de financiamento perante o Banco Bradesco (e-STJ, fls. 567/574 - sem destaques no original).
+Assim, para se chegar a conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula n.º 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. CARÊNCIA DE FUNDAMENTAÇÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDCIA. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, tendo as questões postas em discussão sido dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022, ambos do CPC/15.
+2. A jurisprudência do Superior Tribunal de Justiça flui no sentido de que a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do art. 50, do Código Civil, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial).
+3. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de fundamentos suficientes para a medida extrema. Nesse contexto, rever as conclusões das instâncias ordinárias, quanto ao preenchimento dos requisitos para a desconsideração da personalidade jurídica da empresa, demandaria o reexame de matéria fático-probatória, providência vedada diante do óbice do Enunciado n.º 7/STJ.
+4. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 2.014.286/MS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/3/2023, DJe de 23/3/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INCLUSÃO EM AÇÃO DE RECUPERAÇÃO JUDICIAL CONVOLADA EM FALÊNCIA. FUMUS BONI IURIS NÃO VERIFICADO. RECURSO NÃO PROVIDO.
+1. A concessão de tutela antecipada se condiciona à existência dos requisitos do periculum in mora e do fumus boni iuris.
+2. Alterar a conclusão do acórdão recorrido quanto confusão patrimonial entre as empresas e abuso da personalidade jurídica, exigiria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial ante o óbice da Súmula n.º 7 do STJ, razão pela qual não se antevê a presença do fumus boni iuris, necessário para a concessão do efeito suspensivo.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no TP n. 4.213/SP, de minha relatoria, Terceira Turma, julgado em 5/6/2023, DJe de 7/6/2023)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. DISSOLUÇÃO IRREGULAR E AUSÊNCIA DE BENS PENHORÁVEIS. INSUFICIÊNCIA.
+1. Esta Corte Superior firmou seu posicionamento no sentido de que a irregularidade no encerramento das atividades ou dissolução da sociedade não é causa suficiente para a desconsideração da personalidade jurídica, nos termos do artigo 50 do Código Civil, devendo ser demonstrada a ocorrência de caso extremo, como a utilização da pessoa jurídica para fins fraudulentos (desvio de finalidade institucional ou confusão patrimonial).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.958.685/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SOCIEDADE. CONSTRUÇÃO DE SHOPPING CENTER. ALIENAÇÃO DAS UNIDADES. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ILEGITIMIDADE PASSIVA. CONFUSÃO PATRIMONIAL E INTUITO DE FRAUDE. REVISÃO. SÚMULA 7/STJ. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. ÓBICE DA SÚMULA 7/STJ.
+1. Verifica-se que não há qualquer ofensa ao art. art. 535 do CPC/1973, pois o Tribunal a quodirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+Inexiste omissão no acórdão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+2. Na presente hipótese, percebe-se que a Corte local foi categórica ao afirmar que o julgamento foi realizado nos exatos limites da demanda proposta, afastando a alegação de decisão extra petita.
+3. Considerando a moldura fática estabelecida nos autos, constata-se que a análise acerca da observância ou não, pela instância inferior, do princípio da adstrição excederia as razões colacionadas no aresto impugnado, implicando revolvimento do contexto fático-probatório dos autos, o que é vedado em Recurso Especial, ante o disposto na Súmula 7/STJ.
+4. A desconsideração da personalidade jurídica da sociedade empresária foi declarada em razão do entendimento firmado na instância ordinária, a partir da análise dos fatos e das provas, de que houve desvio de finalidade, confusão patrimonial e a prática de atos fraudulentos. Incidência das Súmulas 7 e 83 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.332.715/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
