@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. FURTO NOTURNO TENTADO. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DA PENA. TENTATIVA. QUANTUM DE REDUÇÃO. FUNDAMENTAÇÃO IDÔNEA, CRITÉRIO OBJETIVO. PROXIMIDADE COM O MOMENTO CONSUMATIVO. REANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. A pretensão de alteração da fração da minorante da tentativa encontra óbice na Súmula 7/STJ, porque seria necessário o reexame dos fatos e provas da causa para avaliar a maior ou menor proximidade da conduta ao resultado almejado. Precedentes.
+2. Agravo regimental improvido.
+RELATÓRIO
+Everton Gomes Ribeiro interpõe agravo regimental contra a decisão monocrática proferida pela Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial em razão da incidência do óbice da Súmula 7/STJ.
+Nas razões do agravo regimental, a Defensoria Pública estadual reitera a tese de mérito suscitada no recurso especial, de que emerge dos elementos acidentais e circunstanciais delineados na sentença de primeiro grau que o juízo de primeiro grau modulou o fator de redução da tentativa para 1/3, com fundamento na alegação genérica a conduta se aproximou da consumação (fl. 649).
+Entende que o suprimento da fundamentação do juízo de primeiro grau pela corte de origem quanto à modulação do redutor da minorante do tráfico privilegiado deve ser desconsiderada, dado configurar reformatio in pejus, pois suprida a deficiência da fundamentação, em prejuízo do réu, em recurso exclusivo da defesa, e que a modulação do redutor da minorante do tráfico privilegiado abaixo do máximo legal (2/3), sendo certo que tal mister prescinde de reexame fático (fl. 652), pugnando, ao final, pela reforma da decisão agravada (fl. 653).
+Opina o Ministério Público Federal pelo desprovimento do agravo regimental (fls. 664/669).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. FURTO NOTURNO TENTADO. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DA PENA. TENTATIVA. QUANTUM DE REDUÇÃO. FUNDAMENTAÇÃO IDÔNEA, CRITÉRIO OBJETIVO. PROXIMIDADE COM O MOMENTO CONSUMATIVO. REANÁLISE DO ITER CRIMINIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. A pretensão de alteração da fração da minorante da tentativa encontra óbice na Súmula 7/STJ, porque seria necessário o reexame dos fatos e provas da causa para avaliar a maior ou menor proximidade da conduta ao resultado almejado. Precedentes.
+2. Agravo regimental improvido.
+VOTO
+O inconformismo não prospera.
+A redução da pena pela tentativa deve observar o estágio do iter criminis já percorrido pelo agente. Quanto mais perto da consumação, menor será a fração redutora, pois maior a reprovabilidade da conduta.
+Na hipótese, consta do acórdão recorrido (fls. 553/554 - grifo nosso):
+ ..  Prosseguindo na análise da dosimetria, agora na terceira fase, entendo que não merece guarida o pleito recursal de que seja aplicada a maior fração redutora prevista para o crime tentado (2/3). Para pautar o fundamento abraçado nesse particular, evitando tautologia, peço venia para transcrever um trecho do Parecer emitido pela Procuradoria de Justiça, posto que reflete exatamente o entendimento deste julgado, verbis:
+"( ) Avançando na análise recursal e passando ao exame do terceiro estágio do processo dosador, pensamos ser despropositado o reclamo pela incidência causa redutora da tentativa na fração máxima de 2/3 (dois terços).
+É bem verdade que o critério adotado pela doutrina e jurisprudência para a fixação da fração correspondente ao conatus guarda relação direta com a distância percorrida do iter criminis iniciado, diga-se, maior ou menor proximidade com a consumação do tipo penal.
+In hipothesis, há informação nos autos eletrônicos de que a subtração dos materiais de construção que estavam no interior da Escola Municipal Nossa Senhora do Socorro somente não se consumou em razão da intervenção dos policiais responsáveis pelo flagrante do Réu, razão pela qual entendemos escorreita a aplicação dessa causa de diminuição de pena na sua menor extensão, a saber, 1/3 (um terço), como bem consignado pela e. Togada Primeva:
+"(..) Diante da causa de diminuição de pena do artigo 14, inciso II, tendo em vista que o crime não foi consumado, reduzo a pena em 1/3, tendo em vista que o delito esteve muito próximo da consumação, o que equivale a 12 meses, fixando-a em 01 ano e 8 meses de reclusão e 10 dias-multa, a qual torno definitiva. (..)" (fl. 390)
+Logo, mantendo-se o patamar de 1/3, diante da causa de diminuição (crime tentado - art. 14, II, do CP), a pena resta fixada em 09 (nove) meses 25 (vinte e cinco) dias de reclusão e 10 (dez) dias-multa.  ..
+Com efeito, no caso, o Tribunal local, a partir do conjunto probatório dos autos, apresentou fundamentação idônea, lançada com base no critério objetivo, para justificar a adoção da fração de 1/3 para a diminuição da pena em razão da tentativa, no sentido de que o iter criminis percorrido pelo agente foi avançado, tendo em vista que a subtração dos materiais de construção somente não se consumou em razão da intervenção dos policiais responsáveis pelo flagrante do réu.
+É evidente que maiores digressões acerca do tema demandariam reexame minucioso dos fatos e provas da causa, o que é defeso em sede de recurso especial, mostrando-se correta a incidência do óbice da Súmula 7 desta Corte Superior.
+Em reforço aos precedentes citados na decisão impugnada, veja-se mais este:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIOS QUALIFICADOS CONSUMADOS E TENTADOS. JULGAMENTO CONTRÁRIO ÀS PROVAS DOS AUTOS. EXCLUSÃO DAS QUALIFICADORAS. VIOLAÇÃO AO ART. 593, III, DO CÓDIGO DE PROCESSO PENAL - CPP. TENTATIVA. FRAÇÃO DE REDUÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PRECEDENTES DESTA CORTE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A avaliação do iter criminis percorrido pelo agravante, para que seja aplicado o grau máximo da fração pela tentativa, enseja o revolvimento de fatos e provas, o que não se viabiliza em recurso especial. Inafastável a incidência da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no REsp n. 2.001.616/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 30/8/2023)
+Esclareço que, a teor da jurisprudência desta Corte Superior, O efeito devolutivo da apelação é amplo, permitindo a revisão da dosimetria da pena e do regime de cumprimento, mesmo que em recurso exclusivo da defesa, sem que haja violação do disposto no art. 617 do Código de Processo Penal. Nesse contexto, ainda que em recurso exclusivo da defesa e desde que não seja agravada a situação do acusado, não configura reformatio in pejus a adoção de fundamentação própria pelo Tribunal a quo para manter a pena ou o regime prisional fixados na sentença" (AgRg no HC n. 706.077/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 2/3/2023). Na mesma linha: AgRg no AREsp n. 2.246.763/GO, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/3/2023 e AgRg no REsp n. 1.984.554/PA, de minh a relatoria, Sexta Turma, DJe 2/12/2022.
+Diante desse cenário, os argumentos apresentados não são aptos a desconstituir a decisão agravada proferida pela Presidência desta Corte, subsistindo incólume o entendimento nela firmado.
+Ante o exposto, nego provimento ao agravo regimental.
