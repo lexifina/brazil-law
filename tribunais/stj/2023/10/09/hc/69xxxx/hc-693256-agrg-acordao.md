@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO (ART. 121, II E IV, DO CP). ALEGAÇÃO DA DEFESA DE TER HAVIDO ABUSO DE AUTORIDADE COM A LEITURA DA PRONÚNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO COMPROVADO NENHUM EXCESSO . DOSIMETRIA. AUSÊNCIA DE DEBATE SOBRE A MATÉRIA APONTADA.
+1. Nada foi mencionado a respeito de abuso de autoridade na ata de julgamento. Assim, a alegação da defesa sobre a ocorrência de nulidade no julgamento não se fez sequer demonstrar, tal como expresso no acórdão hostilizado.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental em habeas corpus interposto por Lindor Wander Cezario da Silva contra a decisão de minha Relatoria que denegou a ordem de habeas corpus. A decisão recebeu ementa no seguinte teor (fl. 95):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO (ART. 121, II E IV, DO CP). PEDIDO DE COMPENSAÇÃO ENTRE AGRAVANTE DE REINCIDÊNCIA E CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE DISCUSSÃO. AUSÊNCIA DE ANÁLISE PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. APONTAMENTO DE NULIDADE PELA FALA DA ACUSAÇÃO EM PLENÁRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO COMPROVADO NENHUM EXCESSO. Ordem denegada.
+Alega o agravante que a leitura da decisão de pronúncia, em plenário, é causa de nulidade, porque não poderia a acusação usar dessa autoridade para influenciar os jurados.
+Sustenta que houve influência dessa leitura na decisão do Conselho de Sentença.
+Por fim, aduz o agravante não ser o paciente multirreincidente e que deve ser feita a compensação da atenuante de confissão com a agravante de reincidência. Afirma ainda que houve discussão sobre a matéria na sentença e no acórdão.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO (ART. 121, II E IV, DO CP). ALEGAÇÃO DA DEFESA DE TER HAVIDO ABUSO DE AUTORIDADE COM A LEITURA DA PRONÚNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NÃO COMPROVADO NENHUM EXCESSO . DOSIMETRIA. AUSÊNCIA DE DEBATE SOBRE A MATÉRIA APONTADA.
+1. Nada foi mencionado a respeito de abuso de autoridade na ata de julgamento. Assim, a alegação da defesa sobre a ocorrência de nulidade no julgamento não se fez sequer demonstrar, tal como expresso no acórdão hostilizado.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste à defesa. Como mencionado na decisão, na ata de julgamento da Sessão Plenária, quando dada a palavra ao Ministério Público, foi dito que (fls. 23/24):
+ ..  Dada a palavra ao Ministério Público, disse: "MM. Juiz, como cediço, o acusado se defende dos fatos narrados na denúncia e não da capitulação nela contida. No caso tios presentes autos, consta da exordial acusatória que o acusado efetuou três disparos de revólver contra a vitima, dois deles quando elo já se encontrava caída no chão, o que caracteriza a impossibilidade de qualquer defesa. Ademais, entende o Ministério Público que em não tendo havido recurso da decisão de pronúncia, a matéria suscitada encontra-se preclusa. Assim, manifesta-se o Ministério Público pelo indeferimento do pedido ora formulado pela defesa". Em seguida, prolatou o MM. Juiz a seguinte DECISÃO: Embora não tenha constado da capitulação legal contida na denúncia, o inciso IV, do parágrafo 2º, do art. 121, consta da peça acusatória que o acusado matou a vítima com disparos de arma de fogo, dois deles quando ela já estava caída no chão, o que em tese pode significar que o crime teria sido praticado por meio indefensável. O réu se defende dos fatos narrados na denúncia e não da capitulação legal dada pelo Ministério Público aos fatos. Pelo exposto, indefiro o pedido formulado pela douta Defensoria Pública. ..
+Como pode ser verificado, nada foi mencionado a respeito de abuso de autoridade na ata de julgamento. Assim, a alegação da defesa sobre a ocorrência de nulidade no julgamento não se fez sequer demonstrar, tal como expresso no acórdão hostilizado. Não foi mencionado em qual circunstância a menção à pronúncia ou ao silêncio do réu teriam influenciado o convencimento dos jurados, para que se caracterize ofensa ao art. 478, II, do Código de Processo Penal.
+Os fatos narrados no julgamento foram os mesmos colocados na denúncia e a limitação em rebater a tese da defesa sobre não ser aplicada a qualificadora. A propósito:
+ ..
+APONTADA VIOLAÇÃO AO ARTIGO 478 DO CÓDIGO DE PROCESSO PENAL ANTE A LEITURA DA DECISÃO QUE RECEBEU A DENÚNCIA E DECRETOU A PRISÃO PREVENTIVA DO PACIENTE PELO ÓRGÃO MINISTERIAL. PEÇA PROCESSUAL QUE PODE SER MENCIONADA PELAS PARTES. NULIDADE INEXISTENTE.
+1. Pela letra do artigo 478 do Código de Processo Penal, as partes não podem fazer referências, durante os debates, "à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado", bem como "ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo".
+2. A decisão por meio da qual a denúncia é recebida, assim como aquela que decreta a segregação cautelar do acusado, não constam dos incisos I e II do artigo 478 da Lei Processual Penal, inexistindo óbice à sua menção por quaisquer das partes.
+3. Aliás, o próprio caput do artigo 480 do Código de Processo Penal estabelece a possibilidade de leitura de peças processuais pelas partes, podendo a acusação, a defesa e os jurados, a qualquer momento e por intermédio do Juiz Presidente, pedir que o orador indique a folha dos autos onde se encontra o trecho lido ou citado.
+4. Desse modo, não se pode afirmar que a leitura pelo membro do Ministério Público da decisão que admitiu a inicial acusatória e decretou a custódia preventiva do paciente tenha se dado em dissonância com o que prevê a legislação processual penal pertinente, não se vislumbrando a ocorrência da eiva indicada pelos impetrantes.
+ ..
+(HC n. 153.121/SP, Ministro Jorge Mussi, Quinta Turma, DJe 1º/9/2011)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI. ART. 478, II, DO CÓDIGO DE PROCESSO PENAL. REFERÊNCIA AO SILÊNCIO DO ACUSADO. NULIDADE RELATIVA. PREJUÍZO NÃO DEMONSTRADO.
+1. De acordo com a orientação firmada pelo Superior Tribunal de Justiça, as nulidades previstas no art. 478 do Código de Processo Penal somente devem ser reconhecidas se houver manifesto prejuízo à defesa, o que não se verifica na hipótese dos autos.
+2. "O reconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief). Destaque-se que a condenação, por si só, não pode ser considerada como prejuízo, pois, para tanto, caberia ao recorrente demonstrar que a nulidade apontada, acaso não tivesse ocorrido, ensejaria sua absolvição, situação que não se verifica os autos" (AgRg no AREsp n. 1.637.411/RS, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 904.270/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/3/2021)
+Por fim, verifica-se dos autos que, no acórdão hostilizado, não há debate a respeito da dosimetria ou sobre o pedido referente à confissão espontânea. O Tribunal somente confirma a sentença no sentido de que, na época do cometimento do delito, o paciente cumpria pena, razão pela qual a reincidência teve um peso maior. No entanto, não houve debate sobre a matéria, para que a discussão referente a esse tema esteja prequestionada.
+Assim, mostra-se inviável a análise por parte desta Corte Superior para não incorrer em supressão de instância.
+Nego provimento ao agravo regimental.
