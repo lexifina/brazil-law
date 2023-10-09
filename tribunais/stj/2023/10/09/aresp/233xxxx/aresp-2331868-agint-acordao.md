@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE INTERRUPÇÃO DE PRESCRIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Eventual alteração das conclusões adotadas pela Corte local no tocante aos temas da interrupção de prescrição intercorrente por ato de cedente de crédito, como colocadas as questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão unipessoal de Ministro Relator, assim ementada (fl. 272):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO DE INTERRUPÇÃO DA CONTAGEM DE PRAZO POR ATO DE CEDENTE DE CRÉDITO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+O agravante alega que não é caso de aplicação da Súmula 7/STJ, uma vez que é caso de revaloração de prova. Aduz que "cuida-se de discussão acerca de matéria de direito material, qual seja, a possibilidade da interrupção da prescrição pelo ato praticado por terceiro, que, embora interessado, não seja titular do crédito executado" (fl. 284).
+Argumenta que o que se pretende via Recurso Especial não é outra providência senão a aplicação da lei aos elementos fáticos incontroversos em que está firmado o acórdão recorrido, para, com isso, alcançar-se conclusão diversa da proclamada, o que não ofende a Súmula 7/STJ.
+Pede a reforma da solução unipessoal, a fim de que a questão da prescrição seja analisada à luz da tese veiculada.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE INTERRUPÇÃO DE PRESCRIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Eventual alteração das conclusões adotadas pela Corte local no tocante aos temas da interrupção de prescrição intercorrente por ato de cedente de crédito, como colocadas as questões nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque cuida-se, originariamente, de pretensão da parte ora agravante à expedição de precatório complementar para o adimplemento de rubricas financeiras (juros e correção monetária relativos ao período compreendido entre a data-base dos cálculos e a data da expedição do precatório originariamente expedido).
+A Corte estadual, em agravo de instrumento, manteve a decisão de primeiro grau que proclamou a prescrição intercorrente. A parte que recorre ao STJ figura como cessionária de créditos alusivos ao precatório complementar e busca o reconhecimento de que houve a interrupção da contagem do prazo de prescrição por providência da parte cedente.
+No que diz respeito aos artigos 202, V e 203, do Código Civil, bem como dos artigos 489, §1º, IV, e 932, VIII, do Código de Processo Civil, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que ocorreu a prescrição intercorrente, uma vez que a instrução dos autos com os elementos necessários para o desate da pretensão executória só foi realizada 6 anos após o pagamento do precatório original. Confira-se (fl. 137):
+4. Embora a parte agravante teça comentários acerca de uma suposta interrupção do fenômeno prescricional pela inauguração do procedimento executivo em maio de 2017, não é isso que se vê da peça de i. 2087. Ali, a Câmara Gestora de Direitos Creditórios LTDA, ora cedente, apenas manifestou interesse na emissão de um precatório complementar, com intimação da parte adversa e remessa dos autos ao Contador Judicial.
+5. Neste sentido, inclusive, o Juízo condutor do procedimento, às fls. 2341 (i.2339), deixou claro ser ônus dos exequentes a apresentação de memória discriminada e atualizada de eventual crédito remanescente, indeferindo tal requerimento, entendimento que restou precluso.
+6. Ademais, conforme enfatizado com precisão no decisum, o artigo 534 do Código de Processo Civil é claro ao dispor que no cumprimento de sentença que impuser à Fazenda Pública o dever de pagar quantia certa, o exequente apresentará demonstrativo discriminado e atualizado do crédito contendo, inclusive, os juros aplicados e as respectivas taxas.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ. Confira-se:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. AVERIGUAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Não houve ofensa ao art. 1.022 do Código de Processo Civil, visto que a Corte de origem apreciou as questões relevantes ao deslinde da controvérsia, ainda que sob ótica diversa daquela pretendida pela parte ora recorrente, não havendo que se falar em negativa de prestação jurisdicional.
+2. O acolhimento das alegações deduzidas no recurso especial acerca da ocorrência da prescrição intercorrente, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A Primeira Seção desta Corte Superior de Justiça, sob o rito do art. 1.036 e seguintes do CPC/2015 (Temas 566 a 571), pacificou o entendimento de que o termo inicial do prazo prescricional previsto no art. 40 da Lei 6.830/1980 conta-se, automaticamente, da data da ciência da Fazenda Pública acerca da não localização do devedor ou de bens penhoráveis (REsp 1.340.553/RS, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 12/9/2018, DJe de 16/10/2018). No caso em questão, inexistem os pressupostos para o reconhecimento da prescrição porquanto houve a localização do devedor e a nomeação de bem imóvel à penhora.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.892.288/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. CONFISSÃO DE DÍVIDA. COMPRA E VENDA DE MÁQUINAS. PRESCRIÇÃO. TERMO INICIAL. VENCIMENTO ANTECIPADO. ÚLTIMA PRESTAÇÃO. PRESCRIÇÃO INTERCORRENTE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA.
+1. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato. Precedentes.
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da prescrição intercorrente demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+3. A Segunda Seção desta Corte já decidiu que a aplicação da multa por litigância de má-fé não é automática, visto não se tratar de mera decorrência lógica da rejeição do agravo interno.
+4. Agravo interno não provido.
+(AgInt no REsp 1.946.428/MA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/5/2023, DJe de 25/5/2023)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. TESE JURÍDICA FIRMADA EM PRECEDENTE QUALIFICADO. ACÓRDÃO RECORRIDO PELA NÃO OCORRÊNCIA. REVISÃO. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Não se conhece de recurso especial, na hipótese em que a revisão do acórdão recorrido depender do reexame fático-probatório.
+Observância da Súmula 7 do STJ.
+3. No caso dos autos, o órgão julgador a quo, no exercício do juízo de conformação com as teses firmadas no REsp 1.340.553/RS, manteve a conclusão pela ocorrência da prescrição intercorrente e o contexto fático descrito no acórdão recorrido não indica equívoco na aplicação da tese repetitiva, de tal sorte que eventual acolhimento da tese dependeria do reexame fático-probatório.
+4. Agravo interno não provido.
+(AgInt no REsp 2.000.736/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE EM PROCESSO ADMINISTRATIVO. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. ÓBICE DA SÚMULA 7 DO STJ. AUTO DE INFRAÇÃO. LAVRATURA. COMPETÊNCIA DO IBAMA.
+1. A alteração das conclusões adotadas pelo Tribunal local, tal como colocada a questão nas razões recursais, no sentido de afirmar a não ocorrência de causa interruptiva da prescrição no curso do processo administrativo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Quanto à nulidade da autuação, constata-se que a Corte de origem, ao afastá-la, decidiu de acordo com o entendimento firmado no âmbito deste Sodalício, o qual assentou "a competência do IBAMA para exercer atividade fiscalizatória, materializada na atribuição dos técnicos ambientais do órgão para exercer atividade de lavratura de auto de infração ambiental" (AgInt nos EDcl no REsp 1.538.508/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 17/2/2020, DJe 3/3/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.923.015/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/2/2022, DJe de 24/2/2022)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
