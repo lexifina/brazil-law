@@ -1,0 +1,118 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. COMPETÊNCIA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO FEDERAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO RECORRIDO COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Agravo de Instrumento interposto contra decisão que, nos autos de Ação Civil Pública ajuizada pelo Ministério Público Federal em face de Pedreira Britafoz Ltda, Município de Foz do Iguaçu, Agência Nacional de Mineração - ANM e Instituto Ambiental do Paraná - IAP, deferiu pedido de tutela provisória, para o fim de determinar a imediata interdição da atividade de extração mineral realizada pela Pedreira Britafoz Ltda na área da poligonal indicada no DNPM 826.069/91 (Portaria de Lavra 137/2010), e 826.991/2001 (Portaria 27/2010), sob pena de multa diária no valor de R$ 50.000,00 (cinquenta mil reais), em caso de descumprimento da ordem judicial. O Tribunal de origem negou provimento ao recurso.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do aresto proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Existindo fundamento de índole constitucional, suficiente para a manutenção do acórdão recorrido, caberia à parte recorrente a interposição do imprescindível Recurso Extraordinário, de modo a desconstituí-lo. Ausente essa providência, o conhecimento do Especial esbarra no óbice da Súmula 126/STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário". Precedentes do STJ.
+V. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que conheceu do Agravo, para não conhecer do Recurso Especial, pela inexistência de violação ao art. 1.022 do CPC/2015 e pela incidência da Súmula 126/STJ.
+Inconformada, sustenta a parte agravante que "como já se demonstrou nas razões do especial, os Embargos de Declaração aviados pela Recorrente tinham por escopo corrigir estes vícios materializados em omissões, contradições e obscuridades relativas a diversas matérias e questões, inclusive para efeitos de seu prequestionamento. Assim, as irregularidades são as apontadas não no v. acórdão que julgou os agravos de instrumento mas sim dos embargos opostos contra essa r.decisão, como aliás se demonstrou nas razões do recurso especial. Assim, com a rejeição dos aclaratórios sem qualquer deliberação sobre essas questões persistiram as omissões, contradições e obscuridades, a justificar o cabimento do recurso especial por afronta ao artigo 1.022 do Código de Processo Civil sem que isso implique, como entendeu, o r. despacho agravado que se pretende a rediscussão da questão, não podendo prevalecer a posição de que ".. o voto condutor do julgado apreciou fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, 16 solução jurídica diversa da pretendida pela parte recorrente", eis que, reitere-se - as questões não apreciadas não estavam no julgado do agravo mas sim no que rejeitou os embargos deste opostos" (fls. 892/893e).
+No mais, defende que "o v. acórdão apresenta apenas fundamentos infraconstitucionais sendo os argumentos constitucionais apenas reflexos, oblíquos e indiretos. Demonstre-se. Como se demonstrou, entende a agravante que o artigo 42 do Código de Minas foi vilipendiado, porquanto, embora este decrete a incompetência da Justiça Federal, ou, reputando-se presente o pressuposto processual de competência, quando ausente o interesse processual relativamente à Agência Nacional de Mineração, o que redundaria também na ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO FEDERAL, o v. acórdão que julgou o agravo, apesar disso, não reconheceu nem a incompetência nem a ilegitimidade ativa. Se assim é, eventual ofensa ao dispositivo do art. 109 da Constituição Federal e apenas reflexa o obliqua, mesmo porque, como o citado dispositivo legal antes invocado (artigo 42) exige para que a ANM seja parte no feito que esta tenha nele interesse, o que foi por esta expressa e categoricamente negado, plasma, isto, por si só, é fundamento suficiente para afastar as conclusões do v. acórdão recorrido de que a Justiça Federal é competente para processar e julgar o presente feito, bem como para afastar a legitimidade ativa do agravado não sendo necessária qualquer digressão ao fundamento constitucional que somente se prestou como reforço de argumentação" (fls. 893/894e).
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.018.383 - PR (2021/0349927-7)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+PEDREIRA BRITAFOZ LTDA
+ADVOGADOS
+:
+CÉZAR EDUARDO ZILIOTTO - PR022832
+LUCIANA CRISTIANE NOVAKOSKI - PR040002
+FRANCIELLY RAMON BERNARDI - PR072812
+CARLOS ALBERTO ZBIERSKY - PR083945
+AGRAVADO
+:
+MINISTÉRIO PÚBLICO FEDERAL
+AGRAVADO
+:
+CONDOMINIO VILA RESIDENCIAL B
+ADVOGADOS
+:
+LUCAS CHINEN MACHADO - PR071743
+LIIZ PAULO DAMMSKI - PR070073
+INTERES.
+:
+AGENCIA NACIONAL DE MINERACAO
+INTERES.
+:
+INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA
+INTERES.
+:
+INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE
+INTERES.
+:
+MUNICIPIO DE FOZ DO IGUACU
+INTERES.
+:
+INSTITUTO AMBIENTAL DO PARANÁ
+OUTRO NOME
+:
+INSTITUTO AMBIENTAL DO PARANA
+OUTRO NOME
+:
+INSTITUTO AGUA E TERRA
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. COMPETÊNCIA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO FEDERAL. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO RECORRIDO COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Agravo de Instrumento interposto contra decisão que, nos autos de Ação Civil Pública ajuizada pelo Ministério Público Federal em face de Pedreira Britafoz Ltda, Município de Foz do Iguaçu, Agência Nacional de Mineração - ANM e Instituto Ambiental do Paraná - IAP, deferiu pedido de tutela provisória, para o fim de determinar a imediata interdição da atividade de extração mineral realizada pela Pedreira Britafoz Ltda na área da poligonal indicada no DNPM 826.069/91 (Portaria de Lavra 137/2010), e 826.991/2001 (Portaria 27/2010), sob pena de multa diária no valor de R$ 50.000,00 (cinquenta mil reais), em caso de descumprimento da ordem judicial. O Tribunal de origem negou provimento ao recurso.
+III. Não há falar, na hipótese, em violação ao art. 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do aresto proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+IV. Existindo fundamento de índole constitucional, suficiente para a manutenção do acórdão recorrido, caberia à parte recorrente a interposição do imprescindível Recurso Extraordinário, de modo a desconstituí-lo. Ausente essa providência, o conhecimento do Especial esbarra no óbice da Súmula 126/STJ, segundo a qual "É inadmissível recurso especial, quando o acórdão recorrido assenta-se em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário". Precedentes do STJ.
+V. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Agravo de Instrumento interposto contra decisão que, nos autos de ação civil pública ajuizada pelo MINISTÉRIO PÚBLICO em face de PEDREIRA BRITAFOZ LTDA., MUNICÍPIO DE FOZ DO IGUAÇU, AGÊNCIA NACIONAL DE MINERAÇÃO - ANM e INSTITUTO AMBIENTAL DO PARANÁ - IAP, deferiu pedido de tutela provisória, para o fim de determinar a imediata interdição da atividade de extração mineral realizada pela PEDREIRA BRITAFOZ LTDA., na área da poligonal indicada no DNPM 826.069/1991 (Portaria de Lavra 137/2010), e 826.991/2001 (Portaria 27/2010), sob pena de multa diária no valor de R$ 50.000,00 (cinquenta mil reais), em caso de descumprimento da ordem judicial.
+O Tribunal de origem negou provimento ao recurso.
+Opostos Embargos Declaratórios, restaram eles parcialmente acolhidos, apenas para fins de prequestionamento.
+À luz do que decidido pelo acórdão recorrido, cumpre asseverar que, ao contrário do que ora se sustenta, não houve violação ao art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram, fundamentadamente e de modo completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+Como visto, o acórdão ressaltou que "a autorização e, posteriormente, a concessão da lavra, ocorreram, em princípio, de forma regular por parte do DNPM/ANM. A licença ambiental está vigente, e sob o aspecto estritamente ambiental não há, por ora, indícios de ilegalidade. A situação é um pouco mais complexa quando abordada a questão que diz com direito de vizinhança e com direito urbanístico. E quanto a este aspecto percebe-se da resposta apresentada pelo Município de Foz do Iguaçu (EVENTO 105 CONTEST1) que a exploração da atividade minerária estava ocorrendo ao arrepio dos limites decorrentes do ato administrativo. Com efeito, em diversas ocasiões, desde 2014, constatou-se o uso de explosivos, o que não teria sido autorizado pela municipalidade". Acrescentou que "a conduta reiterada da agravante em extrapolar os limites da licença municipal constitui indício de que a aplicação de penalidades em razão da indevida detonação de explosivos não foi suficiente para fazer cessar a conduta questionada. A renitência na inobservância dos limites da licença evidencia, em primeira análise, intento de dar prosseguimento à atividade em desconformidade com a ordem jurídica. E havendo indícios de persistência em conduta vedada, sem que a atuação administrativa tenha estancado a prática, a medida extrema decretada judicialmente resta justificada. Ademais, se até então entendeu a Municipalidade que a utilização de explosivos não era possível, mesmo ato administrativo posterior que tenha permitido atividade com tais características em princípio não se sustenta, pois com o crescimento da ocupação humana no entorno a restrição às detonações em tese ganha maior justificativa".
+Assim, o acórdão de 2º Grau conta com motivação suficiente e não deixou de se manifestar sobre a matéria cujo conhecimento lhe competia, permitindo, por conseguinte, a exata compreensão e resolução da controvérsia, não havendo falar em descumprimento ao art. 1.022 do CPC/2015.
+Nesse contexto, "a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015" (STJ, REsp 1.829.231/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/12/2020).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+Por outro lado, não se presta a via declaratória para obrigar o Tribunal a reapreciar provas, sob o ponto de vista da parte recorrente (STJ, AgRg no Ag 117.463/RJ, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, DJU de 27/10/97).
+A propósito, ainda:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. AUSÊNCIA. HASTA PÚBLICA. SUBAVALIÇÃO DO BEM. DESNECESSIDADE DE NOVA AVALIAÇÃO. DEMONSTRAÇÃO DA NECESSIDADE. REEXAME. SUMULA 7/STJ. OFENSA AO PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA 7/STJ.
+1. No que tange à admissibilidade do presente recurso por violação aos arts. 489 e 1.022, ambos do CPC, verifica-se que, no ponto, não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou de maneira adequada e suficiente as questões deduzidas pelos recorrentes.
+2. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que não houve a suficiência do suporte fático previsto no art. 873 do CPC, notadamente porque inexiste comprovação de eventual subavaliação do bem, demandaria o revolvimento do arcabouço fático-probatório dos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+3. Esta Corte Superior perfilha o entendimento de que a reavaliação de bem penhorado depende da existência de elementos capazes de demonstrar a sua efetiva necessidade.
+4. Alterar a conclusão a que chegou o Tribunal a quo no sentido de que não houve a comprovação da necessidade de reavaliação do bem, demandaria o revolvimento de fatos e provas, o que é vedado ante o enunciado da Súmula 7 do STJ.
+5. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que os agravantes não lograram êxito em comprovar a alegada ofensa ao princípio da menor onerosidade, demandaria o revolvimento do arcabouço fático-probatório colacionado aos autos, o que é vedado pelo enunciado da Súmula 7 do STJ.
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.736.385/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 02/12/2020).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. SERVIDOR PÚBLICO. DOENÇA OCUPACIONAL. PENSÃO MENSAL AFASTADA. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 126/STJ. DANO MATERIAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Não há violação dos arts. 489, § 1º, VI, e 1.022, parágrafo único, II, do CPC de 2015, pois há fundamentação suficiente para amparar o acórdão recorrido.
+2. Firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário, ocasionando a preclusão de uma das questões e o consequente não conhecimento do recurso. Aplicação da Súmula 126 do STJ.
+3. O Tribunal de origem, com base nas provas existentes, entendeu não haver comprovação do dano material. A inversão do julgado nos moldes pretendidos pela recorrente demanda revolvimento das provas, o que encontra óbice na Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa extensão, não provido" (STJ, REsp 1.707.574/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MULTA DO ARTIGO 1.021, §4º, DO CPC/2015. EXCLUSÃO. INADMISSIBILIDADE OU IMPROCEDÊNCIA DO AGRAVO INTERNO INTERPOSTO NA ORIGEM. NÃO VERIFICAÇÃO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. IMPOSIÇÃO DE MULTA. EXCLUSÃO. PROPÓSITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. O acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, decidindo, apenas, de forma contrária à pretensão do recorrente, não havendo, portanto, omissão ensejadora de oposição de embargos de declaração, pelo que, deve ser rejeitada a alegação de violação ao artigo 1.022 do CPC/2015.
+(..)
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido" (STJ, REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REAJUSTE DE BENEFÍCIO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. ACÓRDÃO RECORRIDO QUE DECIDE COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. EMBARGOS PROTELATÓRIOS. VIOLAÇÃO AO ART. 1.026, § 2º, DO CPC/2015. MULTA AFASTADA.
+1. Inicialmente, quanto à alegação de violação ao artigo 1.022 do CPC/2015, cumpre asseverar que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em Embargos de Declaração apenas pelo fato de a Corte ter decidido de forma contrária à pretensão do recorrente.
+2. Quanto à questão de fundo, isto é, a revisão do benefício previdenciário observando os valores dos tetos estabelecidos nas Emendas Constitucionais 20/1998 e 41/2003, o recurso não merece que dela se conheça. Com efeito, verifica-se que o acórdão recorrido negou provimento à apelação com fundamento em precedentes do Supremo Tribunal Federal. Dessa forma, dada a natureza estritamente constitucional do decidido pelo Tribunal de origem, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. A irresignação merece acolhida em relação à alegada ofensa ao art. 1.026, § 2º, do CPC/2015 nos termos da Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório". No caso dos autos, os Embargos de Declaração ofertados na origem tiverem tal propósito, de maneira que deve ser excluída a multa fixada com base no supracitado dispositivo legal.
+4. Recurso Especial parcialmente provido" (STJ, REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+Cabe esclarecer, ainda, que é firme o entendimento desta Corte no sentido de que ""não cabe ao STJ, em sede de recurso especial, examinar omissão de questões constitucionais, a pretexto de violação ao art. 535 do CPC, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário" (EDcl no AgRg no AREsp 637.679/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 6.5.2015)" (STJ, AgRg no AREsp 743.167/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2016).
+Portanto, ao contrário do que pretende fazer crer a parte agravante, não há que se falar em negativa de prestação jurisdicional ou ausência de fundamentação.
+No mais, como ressaltou a decisão ora agravada, tendo o acórdão recorrido fundamento constitucional, não impugnado, mediante Recurso Extraordinário, incide, no ponto, a Súmula 126 do STJ, segundo a qual "É inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+Nesse sentido, confiram-se os seguintes precedentes desta Corte:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. NORMA PENDENTE DE REGULAMENTAÇÃO. PRINCÍPIO DA LEGALIDADE.
+1. Conforme se depreende da decisão regional, a controvérsia apresentada era se manter o interstício de 18 meses para a progressão violaria o princípio da legalidade, pois a alteração procedida pela MP 479/09 (convertida na Lei nº 12.269/10) garante que, até a regulamentação da Lei, deve ser aplicado o período de 12 meses para a progressão funcional (fl. 121, e-STJ).
+2. O Tribunal Regional Federal da 4ª Região, ao analisar a matéria, acolheu a pretensão da parte autora, ora agravada, de que realmente a aplicação do interstício de 18 para a progressão funcional violaria o princípio da legalidade, porquanto seria necessária a edição de regulamento para a aplicação do prazo de 8 meses de que trata a Lei 11.501, de 11/7/2007. Assim, decidiu que, para a progressão funcional da autora, deveria ser observado o prazo de 12 meses.
+3. Assentado o aresto regional em fundamento de natureza constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e não tendo a parte vencida manifestado Recurso Extraordinário, é inadmissível o Recurso Especial, nos termos da Súmula 126 do STJ.
+4. Agravo Interno não provido" (STJ, AgInt no REsp 1.593.783/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/10/2016)
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXCLUSÃO DE ÍNDICE INFLACIONÁRIO DETERMINADO NO TÍTULO EXECUTIVO. DECISÃO FUNDAMENTADA EM PRECEITO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. INCIDÊNCIA DA SÚMULA 126/STJ. REVISÃO DE MATÉRIA DE FATO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Consoante afirmado na decisão atacada, tendo o Tribunal de origem concluído pela ocorrência de erro material e, não existindo no acórdão regional elementos que indiquem ter havido reforma no critério de elaboração do cálculo de liquidação, a inversão do julgado, como propugnado, demandaria necessariamente o reexame de aspectos fáticos da causa, providência vedada nesta via, a teor do óbice contido no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+2. Apesar de o acórdão recorrido também ter utilizado fundamento constitucional para decidir a causa, não foi interposto pelos autores recurso extraordinário, evidência que atrai o óbice da Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Agravo regimental improvido" (STJ, AgInt no REsp 1.591.194/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 30/05/2016).
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
