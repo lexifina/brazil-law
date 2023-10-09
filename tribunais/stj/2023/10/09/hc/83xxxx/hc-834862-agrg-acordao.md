@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECEPTAÇÃO. BUSCA PESSOAL. VIOLAÇÃO DE DOMICÍLIO. ILICITUDE DAS PROVAS. TRANCAMENTO DA AÇÃO PENAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. WRIT PREJUDICADO.
+1. A superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de prova, tendo em vista o disposto na Súmula n. 648/STJ, aplicável ao caso dos autos. Precedentes.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que julgou prejudicado o habeas corpus, porquanto incidente a Súmula n. 648/STJ.
+Alega o agravante, em suma, que a aplicação da referida súmula não é absoluta, " i sso porque não se pode imputar ao agravante, tampouco ao paciente, a morosidade em se julgar o presente mandamus, tendo em vista que, no espaço de poucos dias, cada uma das peças foi adequadamente apresentada" (fl. 291), acrescendo que "o presente remédio foi impetrado antes da existência da r. sentença, sendo forçoso mencionar que o habeas corpus de origem tramitou em segunda instância por mais de dois meses" (fl. 292).
+Ressalta que "a r. sentença não passa de uma mera repetição dos já conhecidos argumentos feitos pelo Tribunal de Justiça do Estado de São Paulo, motivo pelo qual o não julgamento deste ordem trará claros prejuízos ao paciente, porquanto, em cárcere, terá de aguardar um novo pronunciamento da autoridade coatora, cujos argumentos serão exatamente os mesmos, onde será impetrado um novo habeas corpus idêntico a este (com as mesmas teses), o que vai de forma contrária aos princípios da eficiência e da celeridade processual" (fls. 292-293), requerendo, ao final, a concessão do writ.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. RECEPTAÇÃO. BUSCA PESSOAL. VIOLAÇÃO DE DOMICÍLIO. ILICITUDE DAS PROVAS. TRANCAMENTO DA AÇÃO PENAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. WRIT PREJUDICADO.
+1. A superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de prova, tendo em vista o disposto na Súmula n. 648/STJ, aplicável ao caso dos autos. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se desta (fls. 285-286):
+ ..  Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi preso em flagrante em 3/3/2023, convertido em prisão preventiva, sendo denunciado nos termos dos arts. 33, caput, da Lei n. 11.343/2006 e 180, caput, do Código Penal.
+Argumenta o impetrante, em suma, com a ilicitude das provas diante da busca pessoal indevida e posterior invasão de domicílio, também ilegal, alegando que a "mera fuga, ao avistar a viatura policial, não é motivo idôneo para a abordagem, tampouco para a invasão domiciliar" (fl. 13), requerendo, liminarmente e no mérito, o trancamento da ação penal.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela prejudicialidade do writ.
+Na origem, em 14/7/2023, o réu, ora paciente, foi condenado "por infração ao artigo 33, caput, da Lei 11.343/06, à pena de 06 anos e 08 meses de reclusão, em regime inicial fechado, e 666 dias-multa, no valor unitário de 1/30 do salário-mínimo e por infração ao artigo 180, caput, do Código Penal e à pena de 01 ano e 02 meses de reclusão, em regime inicial fechado, e 11 dias-multa, no valor unitário de 1/30 do salário-mínimo, c/c art. 69, do Código Penal", conforme o documento de fls. 283-284.
+Consoante bem observado pelo Ministério Público Federal, o presente writ encontra-se prejudicado, porquanto " a  superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de prova, tendo em vista o disposto na Súmula n. 648/STJ, aplicável ao caso dos autos" (AgRg no HC n. 789.240/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 29/5/2023, DJe de 1/6/2023). No mesmo sentido:
+ ..
+Ante o exposto, julgo prejudicado o habeas corpus. ..
+Como visto, durante o processamento deste writ, impetrado em 28/6/2023, proferiu-se sentença na origem, em 14/7/2023, condenando o réu, ora agravante, "por infração ao artigo 33, caput, da Lei 11.343/06, à pena de 06 anos e 08 meses de reclusão, em regime inicial fechado, e 666 dias-multa, no valor unitário de 1/30 do salário-mínimo e por infração ao artigo 180, caput, do Código Penal e à pena de 01 ano e 02 meses de reclusão, em regime inicial fechado, e 11 dias-multa, no valor unitário de 1/30 do salário-mínimo, c/c art. 69, do Código Penal", conforme o documento de fls. 283-284.
+Sendo assim, " a  superveniência de novo título (sentença condenatória) torna prejudicado o habeas corpus que visa o trancamento da ação penal por ilicitude de prova, tendo em vista o disposto na Súmula n. 648/STJ, aplicável ao caso dos autos" (AgRg no HC n. 789.240/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 29/5/2023, DJe de 1º /6/2023). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA QUE CONCEDEU O DIREITO DE RECORRER EM LIBERDADE. QUESTÃO SUPERADA. VIOLAÇÃO DE DOMICÍLIO AFASTADA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO DEVE SER ENFRENTADA PREVIAMENTE PELA CORTE A QUO. AGRAVO PREJUDICADO.
+1. Em data posterior à decisão agravada, foi proferida sentença condenando a ré às penas de 5 anos de reclusão, em regime inicial semiaberto, e pagamento de 500 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, tendo sido concedido o direito de recorrer em liberdade. Dessa forma, não mais persistindo a segregação ora debatida, vislumbra-se a perda de objeto pretendido.
+2. No que se refere à alegada ilicitude das provas, o pleito também se encontra prejudicado, tendo em vista que foi analisado pelo Magistrado sentenciante, que, analisando as provas juntadas durante a instrução criminal - dentre elas, autorização de busca domiciliar assinada por moradores do imóvel -, entendeu não ter ocorrido violação ao domicílio da paciente.
+3. É certo que os elementos de convicção utilizados pelo Juízo de primeiro grau adotados na sentença condenatória a fim de afastar a violação de domicílio devem ser levados à apreciação do Tribunal de origem, antes de serem analisados por esta Corte Superior.
+4. Agravo Regimental prejudicado. (AgRg no HC n. 765.589/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, diante da incidência da Súmula n. 648/STJ, nego provimento ao agravo regimental.
+É o voto.
