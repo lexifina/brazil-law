@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DISTINÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No acórdão recorrido, o Tribunal de origem afirma expressamente que a situação dos autos é a execução individual de sentença coletiva, que enseja o arbitramento de honorários advocatícios.
+2. A análise sobre qual hipótese ficou configurada nos autos, para saber se enseja ou não o cabimento de honorários advocatícios, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela União em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DISTINÇÃO DA TESE CABÍVEL. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte agravante alega, em síntese, que inicialmente se insurge contra o óbice que aplicou a súmula 7/STJ, e que tal óbice não se aplica ao caso concreto, mas demanda-se apenas a aplicação REsp nº 1.134.186/RS, que foi julgado na sistemática dos recursos repetitivos, desrespeitando sua aplicação mantendo a condenação da União em honorários advocatícios em face da rejeição da impugnação ao cumprimento de sentença.
+Requer a reconsideração da decisão agravada ou que seja a decisão analisada pelo órgão colegiado.
+Apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DISTINÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No acórdão recorrido, o Tribunal de origem afirma expressamente que a situação dos autos é a execução individual de sentença coletiva, que enseja o arbitramento de honorários advocatícios.
+2. A análise sobre qual hipótese ficou configurada nos autos, para saber se enseja ou não o cabimento de honorários advocatícios, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+No acórdão recorrido, o Tribunal de origem afirma expressamente que a situação dos autos é a execução individual de sentença coletiva, que enseja o arbitramento de honorários advocatícios. É o que se infere do seguinte trecho do acórdão recorrido:
+Neste norte, em paralelo ao que restou decidido pelo STJ no âmbito do referenciado julgado, esta Turma entende ser cabível a condenação em honorários advocatícios pela propositura da execução individual da sentença coletiva, assim como em decorrência da impugnação ao cumprimento de sentença, desde que não tenha sido rejeitada(ressalvado meu entendimento pessoal) e que a cumulação da verba honorária respeite os limites máximos previstos no art. 85, § 3º, do CPC/2015. Em assim sendo, os honorários fixados na impugnação ao cumprimento de sentença não se confundem com os honorários fixados pelo ajuizamento da execução individual de sentença coletiva, cabendo, portanto, a condenação em honorários, de forma cumulativa, desde que as alíquotas não ultrapassem o limite máximo previsto no art. 85, § 3º do CPC. Sendo esta a situação em apreço, não há dúvidas quanto ao cabimento do arbitramento dos honorários advocatícios em razão da promoção do cumprimento de sentença proferida em demanda coletiva como a situação dos autos.
+Assim, a análise sobre qual hipótese ficou configurada nos autos, para saber se enseja ou não o cabimento de honorários advocatícios, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÁLCULOS. OFENSA À COISA JULGADA E PRECLUSÃO. CONSTATAÇÃO. IMPOSSIBILIDADE. ÍNDICE DE CORREÇÃO MONETÁRIA. SÚMULA 283 DO STF. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. EXAME. PREJUÍZO. (..) 3. A revisão do entendimento do Tribunal a quo para reconhecer ofensa à coisa julgada sobre a matéria em debate demandaria reexame do conjunto fático-probatório, consistente no cotejo de peças processuais, providência vedada em recurso especial, nos termos da Súmula 7 do STJ. (..) 7. Divergir do aresto impugnado acerca do enquadramento da parte nas condutas dos incisos II e V do art. 80 do CPC/2015, pois estava "distorcendo completamente o que foi decidido" e praticando "atos incompatíveis com a boa-fé processual", esbarra no óbice da Súmula 7 do STJ, visto que demanda imperioso reexame dos fatos e provas constantes nos autos. (..) 9. Agravo interno desprovido.
+(AgInt no AREsp 1311173/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 16/10/2020 - grifo nosso)
+Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016). Em igual sentido: STJ, AgInt no AREsp 1.160.527/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/03/2018; AgInt no REsp 1.506.498/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 28/08/2018.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
