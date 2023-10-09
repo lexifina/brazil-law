@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA JULGADA IMPROCEDENTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO NO SENTIDO DE AUSÊNCIA DE ABUSIVIDADE NA CLÁUSULA CONTRATUAL QUE PREVÊ LIMITAÇÃO DOS RISCOS COBERTOS E DE CIÊNCIA DA RECORRENTE ACERCA DA REFERIDA LIMITAÇÃO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do colegiado estadual, para acolher a pretensão recursal, demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, em face dos óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto CÂMARA DE DIRIGENTES LOJISTAS DE BLUMENAU contra a decisão de fls. 626-629 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial interposto, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA JULGADA IMPROCEDENTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO NO SENTIDO DE AUSÊNCIA DE ABUSIVIDADE NA CLÁUSULA CONTRATUAL QUE PREVÊ LIMITAÇÃO DOS RISCOS COBERTOS E DE CIÊNCIA DA RECORRENTE ACERCA DA REFERIDA LIMITAÇÃO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O apelo extremo foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 450, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO EMPRESARIAL. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA AUTORASEGURO EMPRESARIAL. COBERTURA PARA "RESPONSABILIDADE CIVIL OPERAÇÕES". NEGATIVA DA SEGURADORA SOB O ARGUMENTO DE QUE A OBRA REALIZADA ULTRAPASSOU 5% DO LIMITE SEGURADO. ALEGAÇÃO DE ABUSIVIDADE E VIOLAÇÃO AODEVER DE INFORMAÇÃO. INSUBSISTÊNCIA. DEMANDANTE QUE ACOSTOU CORRESPONDÊNCIA DE BOAS-VINDAS AO SEGURO E A APÓLICE, CONSTANDO SUA CIÊNCIA SOBRE AS CLÁUSULAS GERAIS E ESPECIAIS. CONHECIMENTO ACERCA DAS CLÁUSULAS LIMITATIVAS. EXCLUSÃO DE COBERTURA PARA OBRAS DE VALOR SUPERIOR A5% DO LIMITE MÁXIMO DE INDENIZAÇÃO FIXADO PARA REFERIDA COBERTURA. CLÁUSULADESTACADA E DE FÁCIL COMPREENSÃO, EM CONFORMIDADE COM O ART. 54, § 4º, DO CDC. DEVER DE INFORMAÇÃO OBSERVADO PELA DEMANDADA. INDENIZAÇÃO SECURITÁRIA INDEVIDA. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. PRESENÇA DOS PRESSUPOSTOS LEGAIS. CABIMENTO. SUSPENSÃO, PORÉM, DA EXIGIBILIDADE DA VERBA POR SER A APELANTE BENEFICIÁRIADA JUSTIÇA GRATUITA (ART. 98, § 3º, DO CPC). RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (fls. 464-483, e-STJ), além de dissídio jurisprudencial, a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 6º, 46, 47, 51 e 54 do Código de Defesa do Consumidor.
+Sustentou, em suma, fazer jus à indenização securitária contratada, uma vez que não teve ciência prévia da cláusula limitativa de cobertura constante da apólice, e, por isso, a referida cláusula limitativa é nula.
+Em razão do juízo prévio negativo de admissibilidade, a insurgente interpôs agravo, do qual se conheceu para não conhecer do recurso especial ante a aplicação das Súmulas 5 e 7/STJ, óbices que tornaram prejudicada a análise da divergência jurisprudencial colacionada.
+Neste agravo interno (fls. 633-639, e-STJ), a agravante postula pela inaplicabilidade dos óbices apontados para o não conhecimento de seu reclamo, ao tempo que repisa as mesmas razões trazidas no recurso especial.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 643-658 (e-STJ), em cujas razões pleiteia a agravada a imposição da multa disposta no art. 1.021, § 4º, do CPC/2015 à agravante, em virtude da interposição de recurso protelatório, bem como da anterior advertência nesse sentido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA JULGADA IMPROCEDENTE. CONCLUSÃO DO ACÓRDÃO RECORRIDO NO SENTIDO DE AUSÊNCIA DE ABUSIVIDADE NA CLÁUSULA CONTRATUAL QUE PREVÊ LIMITAÇÃO DOS RISCOS COBERTOS E DE CIÊNCIA DA RECORRENTE ACERCA DA REFERIDA LIMITAÇÃO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do colegiado estadual, para acolher a pretensão recursal, demandaria necessariamente a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, em face dos óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Conforme asseverado na decisão agravada, o Tribunal de origem, ao dirimir a controvérsia, manteve a sentença de improcedência do pedido autoral, consistente no pagamento de indenização securitária, nos termos da seguinte fundamentação (fls. 452-454, e-STJ; sem grifos no original):
+Assim, verifica-se claramente que os contratos de seguro submetem-se às normas do Código de Defesa do Consumidor, porquanto se trata de típica relação de consumo, haja vista que a atividade securitária é considerada serviço, equiparando-se a seguradora a fornecedor, enquanto o segurado é conceituado consumidor do serviço.
+(..)
+Assim, é certo que as cláusulas contratuais devem ser interpretadas da maneira mais favorável ao consumidor, nos termos do art. 47 do CDC. Além disso, é direito do consumidor ser informado clara e adequadamente sobre os produtos e serviços oferecidos pelo fornecedor (art. 6º, III, do CDC). Também merece destaque o disposto no art. 46 do CDC, in verbis:
+(..)
+Com efeito, de acordo com o art. 757 do Código Civil, "pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados." Isto é, no contrato de seguro o segurador assume, perante o segurado, mediante recebimento de um prêmio, a obrigação de lhe pagar uma indenização caso se concretize o risco previsto no contrato. No caso em análise, a condição de segurada da apelante e a ocorrência do sinistro que acarretou prejuízos são incontroversos, porquanto reconhecidos pela recorrida. O contrato de seguro (Evento 37, ANEXO 59/ANEXO61), por sua vez, previa a cobertura de "responsabilidade civil operações", no valor máximo de R$ 50.000,00. Extrai-se das cláusulas particulares e especiais a respeito da responsabilidade civil operações (Evento37, ANEXO 219/ANEXO220):
+(..)
+Também constam nas referidas cláusulas particulares e especiais os riscos excluídos do contrato securitário, merecendo destaque o contido no item "w" da cláusula 1.2, in verbis:)
+DANOS CAUSADOS POR CONSTRUÇÃO, DEMOLIÇÃO, RECONSTRUÇÃO OU ALTERAÇÃOESTRUTURAL DO IMÓVEL, BEM COMO QUALQUER TIPO DE OBRA, INCLUSIVE INSTALAÇÕES E MONTAGENS ADMITIDOS, PORÉM, PEQUENOS TRABALHOS DE REPAROS DESTINADOS À MANUTENÇÃO DO IMÓVEL, LIMITADO A 5% (CINCO POR CENTO) DO LIMITE MÁXIMO DE INDENIZAÇÃO FIXADO PARA ESTA COBERTURA.
+(..)
+Desta feita, conforme bem decidiu o juiz singular, "A ré juntou as condições gerais da apólice (Evento 37, anexos 224-247), que indicam os riscos não cobertos pelo seguro com letras maiúsculas, e, portanto, de forma destacada, conforme impõe o art. 54, § 4º do CDC (Evento 37, anexos 244-245)."
+Além disso, não merece prosperar a tese de que a segurada/apelante não estava ciente da limitação imposta pela seguradora/apelada.
+Veja-se que a empresa segurada acostou aos autos a correspondência de boas-vindas ao seguro(Evento 37, ANEXO 58) e a apólice securitária (Evento 37, ANEXO 59/ANEXO 61). Ainda que não tenha trazido as condições gerais, certamente foram encaminhadas conjuntamente com os demais documentos, até mesmo porque ali constou:
+(..)
+Indubitável a ciência da segurada a respeito das condições gerais e cláusulas especiais do seguro, até mesmo porque é necessário seu conhecimento para averiguar o que, efetivamente, está englobado na cobertura de "responsabilidade civil operações", visto que a expressão constante na apólice é extremamente vaga.
+(..)
+Assim sendo, ciente a segurada acerca das limitações da apólice e inexistente abusividade contratual, deve ser mantida a sentença de improcedência.
+Essas ponderações - acerca de ser indevido o pagamento da indenização contratada em virtude da exclusão contratual expressa, porquanto os danos alegados ultrapassaram o máximo estipulado para cobertura, bem como da ciência da recorrente acerca das referidas limitações constantes da apólice - foram extraídas da análise de fatos, provas e termos contratuais, a atrair a aplicação das Súmulas 5 e 7/STJ, o que inviabiliza o conhecimento da pretensão pelo Superior Tribunal de Justiça, por ambas as alíneas do permissivo constitucional.
+Denota-se que a ora demandante não busca a mera qualificação jurídica do acervo fático-probatório, mas sim sua reanálise, o que é vedado nesta Corte Superior.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão agravada.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, não verificado na presente hipótese.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido
+pretendido pela parte.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+5. Agravo interno não pr ovido.
+(AgInt no AREsp n. 1.728.999/SP. Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 3/9/2021).
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
