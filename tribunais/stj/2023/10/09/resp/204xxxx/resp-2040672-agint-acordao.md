@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA. REVISÃO. SÚMULA N. 7/STJ. DANO MORAL. NÃO CONFIGURAÇÃO. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal de origem - acerca da ausência de inovação recursal e da não configuração do dano moral - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Esta Corte Superior firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei, considerando que a Súmula n. 7/STJ é aplicável, também, aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MICHELE MONTANARI contra decisão desta relatoria, assim ementada (e-STJ, fl. 454):
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA. REVISÃO. SÚMULA N. 7/STJ. DANO MORAL. NÃO CONFIGURAÇÃO. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA. RECURSO ESPECIAL DESPROVIDO.
+Nas razões do agravo, a insurgente alega inaplicabilidade da Súmula n. 7/STJ e repisa as razões da peça inicial de negativa de prestação jurisdicional; inovação recursal; ser indevida a recusa de fornecimento dos materiais solicitados para a realização da cirurgia; ausência de comprovação pela recorrida da impertinência da solicitação médica; configuração do dano moral e necessidade de sua majoração.
+Requer o provimento do agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA. REVISÃO. SÚMULA N. 7/STJ. DANO MORAL. NÃO CONFIGURAÇÃO. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+2. Rever a conclusão do Tribunal de origem - acerca da ausência de inovação recursal e da não configuração do dano moral - demanda o reexame das provas produzidas no processo, o que é defeso na via eleita, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Esta Corte Superior firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei, considerando que a Súmula n. 7/STJ é aplicável, também, aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para alterar os fundamentos da decisão ora agravada.
+Conforme salientado na decisão recorrida, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia.
+O Tribunal de Justiça do Estado de São Paulo, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação suscitada pela parte recorrente, assim asseverando em embargos de declaração (e-STJ, fls. 422-423):
+Busca a embargante, na verdade, o reexame da matéria o que não lhe é permitido nesta fase recursal.
+A modificação requerida deverá ser perseguida pelos meios processuais adequados, pois na verdade, insurge-se contra o resultado do julgamento do recurso de apelação.
+Pretende claramente a reapreciação sobre a negativa da operadora quanto às diárias hospitalares e a utilização de materiais, com nítido caráter infringente do julgado, o que não se admite nessa fase recursal.
+Outrossim, a contradição que autoriza o acolhimento dos declaratórios deve ser intrínseca ao julgado, e não em relação às provas produzidas ou às alegações arguidas, como convergem os entendimentos do STF e do STJ a propósito do tema, abaixo transcritos:
+"O entendimento iterativo do Plenário desta Corte é no sentido de que a contradição hábil a autorizar o acolhimento da pretensão declaratória é a intrínseca, verificada entre as partes ou proposições da decisão." (STF, EDcl no AgRg nos EDcl no AgRg no RE 538.635/PR, REl. Min. Edson Fachin, Primeira Turma, j. 11.11.2016).
+"A contradição que autoriza a oposição dos embargos é intrínseca ao julgado impugnado, ou seja, entre as suas proposições, fundamentação e conclusão, e não entre ele e fatores externos a si, como, por exemplo, as provas dos autos ou as alegações das partes." (STJ, EDcl nos EDcl no REsp 1710743/AM, Rel. Min.
+Mauro Campbell Marques, Segunda Turma, j. 23/08/2018, DJe 29/08/2018).
+Vale destacar que não há contradição com o anterior julgado pois no presente feito não há relatório do médico assistente a justificar a pertinência dos materiais.
+Assim, não justifica a alegação de violação aos arts. 489 e 1.022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+No que concerne à alegada inovação recursal, a Corte de origem concluiu que o procedimento foi parcialmente autorizado, assentando que "não há se falar em inovação recursal pois a própria autora narra na exordial, no último parágrafo de fls. 03, que houve autorização parcial por parte da operadora, limitando apenas as diárias hospitalares e os materiais relacionados" (e-STJ fl. 328).
+Desse modo, elidir a conclusão da Corte de origem demandaria a análise do conteúdo fático-probatório, o que se mostra inviável em recurso especial, consoante Súmula n. 7/STJ.
+Quanto ao dano moral, o Tribunal estadual concluiu pela não configuração, haja vista que a cirurgia foi autorizada e que a negativa foi parcial quanto às diárias hospitalares e à utilização de materiais. Asseverou não existir relatório do médico assistente a justificar a pertinência dos materiais e a necessidade destes para a realização da cirurgia, destacando que o único fundamento da autora seria a urgência na realização do procedimento; nestes termos (e-STJ, fls. 328-329):
+Quanto ao mérito recursal, como já salientado, a própria autora narra que necessitou realizar cirurgia de parotidectomia parcial com conservação do nervo facial, em razão de neoplasia de parótida.
+Foi encaminhada guia à operadora ré solicitando a internação, no entanto, houve negativa parcial quanto às diárias hospitalares e a utilização de materiais.
+Como se pode verificar no documento de fls. 61 estão relacionados o procedimentos negados.
+Ressalta-se os termos da justificativa de fls. 63: "Monitoramento do nervo recorrente em cirurgias de cabeça e pescoço é indicado, conforme Parecer da Sociedade Brasileira de Cirurgia de Cabeça e Pescoço: A nos pacientes com bócios volumosos, C- Nos pacientes que tenham realizado Radioterapia em região cervical. Paciente em tela não apresenta nenhuma das condições citadas. Não imprescindível aos eventos autorizados; possível usar material permanente para hemostasia sem prejuízo aos eventos solicitados.
+Contudo, não há qualquer relatório do médico assistente a justificar a pertinência de referidos materiais e a necessidade objetiva destes para a realização da cirurgia, em contraposição à referida negativa, que, como destacada, foi autorizada pela operadora.
+Vale destacar que o único fundamento da autora seria a urgência na realização do procedimento, sem qualquer menção específica esclarecendo a pertinência dos referidos materiais.
+Logo, não elementos objetivos para a procedência do pedidos nos termos em que delimitados na petição inicial, ressaltando, novamente que a autora não estava desamparada pois o procedimento foi parcialmente autorizado.
+Assim, afastar a conclusão do acórdão recorrido acerca da configuração do dano moral exigiria a análise das particularidades do caso concreto, situação que encontra óbice na Súmula n. 7/STJ.
+No que concerne ao dissídio, o Superior Tribunal de Justiça firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei, considerando que a Súmula n. 7/STJ é aplicável, também, aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - REQUISITOS DO ARTIGO 927 DO CPC - SÚMULA 7/STJ - IMPOSSIBILIDADE DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA - DECISÃO AGRAVADA MANTIDA
+1.- A revisão, em autos de Recurso especial, das conclusões levadas a efeito pelas decisões precedentes acerca da satisfação dos requisitos do artigo 927 do CPC para o provimento do pedido de reintegração de posse encontra óbice na súmula 7/STJ.
+2.- Impossível se torna o confronto entre os paradigmas e o acórdão recorrido, quando a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de se realizar nesta via Especial, por força do enunciado 07 da Súmula desta Corte.
+3.- Agravo Regimental improvido. (AgRg no AREsp 279.116/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 23/04/2013, DJe 07/05/2013).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
