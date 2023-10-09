@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVAS REQUERIDAS. NÃO CABIMENTO. SUFICIÊNCIA DE PROVAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. Modificar o que foi concluído pelos órgãos de origem - no sentido de verificar a efetiva insuficiência das provas até então existentes ou necessidade de outras mais - demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por COCA-COLA INDÚSTRIAS LTDA. e SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S/A (fls. 521-526 e-STJ), em face de decisão singular de minha Relatoria, em que neguei provimento ao agravo em recurso especial, sob os seguintes fundamentos: i) não cabe a esta Corte a análise de dispositivos constitucionais; ii) não houve deficiência de fundamentação ou omissão do acórdão recorrido; iii) incidência da Súmula 7 do STJ.
+Em suas razões (fls. 521-526 e-STJ), a parte agravante alega que não incide a Súmula 7 no presente caso, "pois o que as agravantes pretendem é que se verifique se o Tribunal a quo aplicou devidamente dispositivos de lei e se estes foram ou não violados" (fl. 524 e-STJ).
+Argumenta ainda que houve cerceamento de defesa pelo indeferimento da prova oral e pericial, requeridas oportuna e justificadamente pela parte.
+A parte agravada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidão de fl. 530 e-STJ.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.224.662 - MG (2022/0317809-0)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+COCA COLA INDUSTRIAS LTDA
+AGRAVANTE
+:
+SPAL INDÚSTRIA BRASILEIRA DE BEBIDAS S/A
+ADVOGADOS
+:
+LOYANNA DE ANDRADE MIRANDA MENEZES - MG111202
+JOSIANE LESSA VIANA - MG138706
+MARCO TULIO PINTO DIAS - MG109139
+MARIANA ROHRMANN CARRATO - MG184453
+AGRAVADO
+:
+KEILA VIANA ROCHA 06569535609
+ADVOGADO
+:
+MAYSA HELENA PEREIRA - MG066144
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVAS REQUERIDAS. NÃO CABIMENTO. SUFICIÊNCIA DE PROVAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. Modificar o que foi concluído pelos órgãos de origem - no sentido de verificar a efetiva insuficiência das provas até então existentes ou necessidade de outras mais - demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não merece prosperar o recurso da parte agravante, devendo ser mantida a decisão singular de minha Relatoria por seus próprios fundamentos.
+Em síntese, na origem, trata-se agravo de instrumento da parte agravante em face de decisão que determinou ser desnecessária a produção de prova pericial e oral.
+O Tribunal de origem deu parcial provimento ao recurso, apenas para determinar a realização de perícia técnica sobre a embalagem do produto debatido nos autos. Segue a ementa:
+AGRAVO DE INSTRUMENTO - PROCEDIMENTO COMUM - CORPO ESTRANHO EM REFRIGERANTE - ILEGITIMIDADE PASSIVA - TEORIA DA ASSERÇÃO - TEORIA DA APARÊNCIA - PROVA ORAL - PERÍCIA NA LINHA DE PRODUÇÃO - DESNECESSIDADE - DILIGÊNCIA ONEROSA E INCAPAZ DE GARANTIR A IMPOSSIBILIDADE DE FALHA NO PRODUTO EM ESPECÍFICO - PERÍCIA NA EMBALAGEM - PROVA ÚTIL - INTEGRIDADE DO LACRE E CARACTERÍSTICAS DO CORPO ESTRANHO NO PRODUTO. A ausência de fundamentação apta a ensejar a nulidade do decisum não se relaciona ao seu acerto, tampouco com a injustiça da decisão, e a fundamentação deficiente ou o erro na análise das provas não podem ser invocados por simples inconformismo da parte com a conclusão do juízo. A pessoa jurídica que aufere lucro ao estampar sua marca em bebidas refrigerantes não pode alegar ilegitimidade quando confrontada com vícios nos referidos produtos. A prova pericial na linha de produção de refrigerantes é inócua para se concluir pela ocorrência de vícios no produto em específico debatido nos autos, porquanto qualquer processo de fabricação está sujeito a erros, mesmo se adotadas medidas eficientes de segurança e higiene. Por outro lado, a perícia sobre a embalagem do produto é essencial para se constatar a integridade do lacre e as características do suposto corpo estranho nela inserido. Deve ser indeferida a prova oral inútil ao deslinde do feito.
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte agravante aponta violação aos artigos 369, 373 e 489 do Código de Processo Civil de 2015; 12, § 3º, da Lei n. 8.078/1990 (Código de Defesa do Consumidor); e 5º, LV, Constituição Federal (e-STJ fls. 456/463).
+O Tribunal de origem não admitiu o recurso especial, entendimento este seguido por esta Relatora em sede de agravo em recurso especial.
+Com base nessas premissas, a parte agravante continua alegando que houve cerceamento de defesa na origem em razão do indeferimento das provas requeridas.
+Com efeito, em regra, as partes possuem direito à produção de provas, ao contraditório e à ampla defesa. Como todo direito, contudo, também estes direitos não são irrestritos ou infinitos. A Constituição e a lei infraconstitucional, por exemplo, trazem algumas balizas que limitam esses direitos, assim como o traz o disposto no art. 371, do CPC.
+Conforme Cândido Rangel Dinamarco sobre essa restrição possível no direito probatório:
+"A Constituição e a lei estabelecem certas balizas que também concorrem a traçar-lhe o perfil dogmático, a principiar pelo veto às provas obtidas por meio ilícito; em nível infraconstitucional o próprio sistema dos meios de prova, regido por formas preestabelecidas, momentos, fases e principalmente preclusões, constitui legítima delimitação ao direito à prova e ao seu exercício. Falar em direito à prova, portanto, é falar em direito à prova legítima, a ser exercido segundo os procedimentos regidos pela lei". (Instituições de direito processual civil. 7ª ed. Vol. III. São Paulo: Malheiros, 2017, p. 53).
+Percebe-se, portanto, que há limitações ao direito probatório das partes, não possibilitando que haja a sua produção quando protelatória ou desnecessária ao andamento do feito.
+Por isso, a decisão de indeferimento de provas meramente protelatórias está em consonância com o ordenamento vigente, tendo em vista que está na livre seara do magistrado entender dessa forma.
+Assim, formada a sua convicção pela análise dos elementos presentes nos autos, impertinente seria a determinação de outras provas, não havendo que se falar em cerceamento de defesa. Isso porque o próprio art. 370 doCPC, estabelece que "caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito", estipulando em seu próprio parágrafo único que o juiz "indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias".
+Por isso, não há que se cogitar em cerceamento de defesa, tendo em vista que está na livre discricionariedade do magistrado decidir pela sua produção, necessidade ou não, desde que fundamentado e demonstrado que o feito se encontrava suficientemente instruído - como o foi na situação presente.
+Segue no mesmo sentido essa Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE IMAGEM. USO INDEVIDO. DANOS MORAIS. AUSÊNCIA DE PROVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REQUISIÇÃO DE DADOS AO PROVEDOR FACEBOOK. CRIAÇÃO DO PERFIL FALSO. INDEFERIMENTO DE PROVA. POSSIBILIDADE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SÚMULA N. 83 DO STJ. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O entendimento deste Tribunal Superior é de que o magistrado é o destinatário final das provas, cabendo-lhe analisar a necessidade de sua produção, cujo indeferimento não configura cerceamento de defesa.
+3. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência do dever de indenizar. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.600.225/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/11/2021, DJe de 26/11/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ERRO MÉDICO. INDEFERIMENTO DE PRODUÇÃO DE PROVA ORAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.885.002/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021).
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ROMPIMENTO ANTECIPADO. VIOLAÇÃO DO ART. 1.022 DO NCPC NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. LIVRE CONVENCIMENTO. PERÍCIA TÉCNICA. DESNECESSIDADE. PRECEDENTES. ARTS. 20, § 3º, DO CPC/73. REGRA DE CONCLUSÃO DO PROCESSO. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ESTADUAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211 DO STJ. REVOGAÇÃO DO MANDATO POR INICIATIVA DO CONTRATANTE. REVISÃO DO PERCENTUAL ENCONTRADO PELO ACÓRDÃO RECORRIDO PARA REMUNERAR DEVIDAMENTE O ADVOGADO DESTITUÍDO. POSSIBILIDADE. BASE DE CÁLCULO. ALTERAÇÃO. VALOR ECONÔMICO DA QUESTÃO. SUSPENSÃO DO PROCESSO. IMPOSSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE PROVIDO, NA PARTE CONHECIDA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário a pretensão da parte.
+3. Inexiste cerceamento de defesa se a diligência pleiteada não se apresenta como pressuposto necessário ao desfecho da lide, sendo o magistrado o destinatário da prova com discricionariedade para indeferir o pedido de produção de provas inúteis.
+(..) 8. Não há relação de prejudicialidade externa entre a ação de arbitramento de honorários ajuizada em virtude de rompimento imotivado de contrato de prestação de serviços advocatícios e a demanda para o qual foi contratado o mandatário.
+9. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido. (REsp n. 1.866.108/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2022, DJe de 17/5/2022).
+Em semelhante sentido, o Tribunal de origem entendeu ser desnecessária a realização de outras provas requeridas pela parte agravante. Conforme trechos do acórdão recorrido:
+"(..) As agravantes pleiteiam a oitiva de testemunha e depoimento pessoal da agravada.
+Contudo, as provas em comento não se prestam a solucionar o conflito dos autos.
+A testemunha arrolada, qualificada como "analista de qualidade", nada poderá dizer sobre a embalagem especificamente debatida nos autos, mas apenas sobre a linha de produção de forma geral.
+O fundamento para o indeferimento da referida prova é análogo ao que justifica o indeferimento da perícia na linha de produção das agravantes.
+O depoimento pessoal da agravada também em nada acrescenta aos autos, pois a veracidade dos fatos alegados deverá ser comprovada pela perícia a ser realizada na embalagem do produto, e eventual dano moral a ser indenizado será delimitado com base na narrativa da exordial e demais provas dos autos.
+Assim, despiciendas as provas requeridas. (..)" (fl. 430 e-STJ).
+Assim, entender em sentido diverso e modificar o que foi concluído pelos órgãos de origem - no sentido de verificar a efetiva insuficiência das provas até então existentes ou necessidade de outras mais - demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ, conforme já fundamentado em sede de decisão singular de minha Relatoria, mas não impugnado de forma específica como deveria pela parte agravante.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. Opera-se a preclusão do direito à produção de determinada prova na hipótese em que a parte, intimada a especificar aquelas que pretende produzir, silencia, mesmo no caso de o pedido ter sido formulado em momento anterior. Precedentes. 2. O Recurso Especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). 3. No caso concreto, o Tribunal de origem concluiu pela inexistência de cerceamento de defesa. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em Recurso Especial. 4. Agravo interno a que se nega provimento. (STJ; AgInt-AREsp 2.068.718; Proc. 2022/0043354-9; MG; Quarta Turma; Rel. Min. Antonio Carlos Ferreira; DJE 01/07/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. 1. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. 3. AGRAVO INTERNO DESPROVIDO. 1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. Os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento. 2.1. A desconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas) é procedimento vedado na via eleita, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula nº 7/STJ. 3. Agravo interno desprovido. (STJ; AgInt-EDcl-AgInt-AREsp 2.046.069; Proc. 2021/0402714-3; SP; Terceira Turma; Rel. Min. Marco Aurélio Bellizze; DJE 29/06/2022).
+Por isso, como a parte agravante não trouxe argumentos novos ou aptos a modificar a decisão agravada, mantenho-a por seus próprios fundamentos.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
