@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. AGRAVO DE INSTRUMENTO. INSOLVÊNCIA CIVIL. COMPETÊNCIA DO JUÍZO DA INSOLVÊNCIA PARA DELIBERAR SOBRE ATOS EXECUTÓRIOS OU CONSTRITIVOS. SENTENÇA. EFICÁCIA IMEDIATA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, o juízo em que se processa o pedido de insolvência civil é o competente para deliberar acerca atos de natureza constritiva dos bens do insolvente, bem como a sentença que declara a insolvência civil do devedor tem eficácia imediata, produzindo efeitos na data de sua prolação. Precedentes.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FRANCISCO LUIZ CORDEIRO GUIMARÃES (FRANCISCO) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. EMPRESARIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. INSOLVÊNCIA CIVIL. COMPETÊNCIA DO JUÍZO DA INSOLVÊNCIA PARA A DELIBERAR SOBRE ATOS EXECUTÓRIOS OU CONSTRITIVOS. SENTENÇA. EFICÁCIA IMEDIATA. RECURSO ESPECIAL CONHECIDO, EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 584).
+Nas razões do presente inconformismo, repisando os argumentos trazidos nas razões recursais, alegou afronta aos arts. 761 do CPC/1973 e 1.052 do NCPC, não sendo possível a transferência dos valores depositados nos autos para o Juízo da insolvência civil sem haver sentença declaratória, sob pena de violação do procedimento bifásico.
+Não houve impugnação ao recurso (e-STJ, fl. 605).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. AGRAVO DE INSTRUMENTO. INSOLVÊNCIA CIVIL. COMPETÊNCIA DO JUÍZO DA INSOLVÊNCIA PARA DELIBERAR SOBRE ATOS EXECUTÓRIOS OU CONSTRITIVOS. SENTENÇA. EFICÁCIA IMEDIATA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, o juízo em que se processa o pedido de insolvência civil é o competente para deliberar acerca atos de natureza constritiva dos bens do insolvente, bem como a sentença que declara a insolvência civil do devedor tem eficácia imediata, produzindo efeitos na data de sua prolação. Precedentes.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, a decisão recorrida consignou expressamente, quanto à alegada afronta aos arts, 761 do CPC/1973 c/c 1.052 do NCPC, a par do dissídio jurisprudencial, no que concerne a não ser possível a transferência dos valores depositados nos autos para o Juízo da insolvência civil sem haver sentença declaratória, sob pena de violação do procedimento bifásico, que o entendimento adotado pelo Tribunal local estaria em conformidade com a jurisprudência desta Corte, pois julgou nos seguintes termos:
+O agravante sustenta a nulidade da decisão por negativa da prestação jurisdicional. Alude que enquanto não houver sentença declarando a insolvência civil, ela não estará concretizada. Afirma que não há "óbice ao agravante, que possui crédito reconhecido perante o Juízo a quo de receber o que lhe é de direito pelo agravado, assim como promover as medidas legais cabíveis para tanto". Aduz que a determinação para que os valores até então depositados nos autos sejam remetidos ao Juízo da insolvência representa óbice ao regular deslinde do litígio e, se revela temerária. Defende a reforma da decisão.
+O Superior Tribunal de Justiça já decidiu:
+ ..
+Portanto, a sentença que declara a insolvência civil do devedor tem eficácia imediata, produzindo efeitos na data de sua prolação, para o devedor e os credores, a despeito do trânsito em julgado.
+O exame dos autos mostra que o agravado requereu a sua insolvência civil, processo extinto, sem resolução de mérito, por falta de interesse processual, pelo motivo não existência de bens passíveis de penhora (doc. 07).
+A sentença referenciada foi desconstituída por este egrégio Tribunal, para deferir a inicial, uma vez que a não existência de bens penhoráveis não enseja a falta de interesse processual, devendo o processo ficar suspenso na fase executória propriamente dita (doc. 10).
+A decisão recorrida, ao acolher exceção de pé-executividade, determinou a transferência do valor depositado nos autos ao juízo da insolvência civil, bem como, oficiar ao INSS para que transfira àquele juízo os valores a serem bloqueados do benefício previdenciário do devedor. (doc. 01).
+Nesse contexto, a decisão recorrida não desafia a reforma, porquanto elemento de probabilidade lógica de maior grau de confirmação de uma declaração de insolvência do agravado, o que justifica a ordem de transferência do valor depositado nos autos da execução para o juízo da insolvência civil em curso, bem como a expedição de ofício ao INSS para que transfira para o juízo da insolvência civil os valores bloqueados do benefício previdenciário do devedor (agravado).
+A proposição de nulidade da decisão por negativa da prestação jurisdicional não prospera, de vez que proferida com base na prova de que existe uma ação declaratória de insolvência civil em curso ajuizada pelo agravado (devedor), logo, de todo razoável que se concentrem no juízo da insolvência civil os ativos do agravado para os fins de direitos vinculados à declaração de insolvência civil.
+Em suma: provado que existe uma ação declaratória de insolvência civil em curso ajuizada pelo devedor, de todo razoável que se concentrem no juízo da insolvência civil os ativos do devedor para os fins de direitos vinculados à probabilidade lógica de declaração de insolvência civil (e-STJ, fls, 533/536 - sem destaques no original).
+Incialmente, ressalta-se que a jurisprudência desta Corte se consolidou no sentido de que o juízo onde se processa o pedido de insolvência civil é o competente para deliberar acerca dos atos de natureza constritiva dos bens do insolvente, incluindo-se os créditos apurados por outros juízos, como o trabalhista.
+A propósito:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO DA INSOLVÊNCIA CIVIL E JUÍZO LABORAL. INSOLVÊNCIA CIVIL AINDA NÃO DECLARADA. REGIME DE COOPERAÇÃO ESTABELECIDO ENTRE OS JUÍZOS. AUSÊNCIA DE DECISÕES CONFLITANTES.
+1. A jurisprudência desta Corte consolidou-se no sentido de que o juízo onde se processa o pedido insolvência civil é o competente para deliberar acerca atos de natureza constritiva dos bens do insolvente, incluindo-se os créditos apurados por outros juízos, como o trabalhista. Precedentes.
+2. No presente caso, conforme informações prestadas pelos Juízos suscitados, todos os atos constritivos praticados pelo Juízo Laboral que atingem o patrimônio da insolvente foram realizados com expresso consentimento do Juízo Universal. Conflito de competência não caracterizado, nos termos do art. 66 do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no CC n. 165.083/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 18/8/2020, DJe de 21/8/2020)
+De outra parte, a jurisprudência desta Corte também é no sentido de que "a sentença que declara a insolvência civil do devedor tem eficácia imediata, produzindo efeitos na data de sua prolação, tanto para o devedor como para os credores, independentemente do trânsito em julgado" (REsp n. 1.074.724/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/4/2017, DJe de 18/5/2017.)
+Nesse contexto, o Tribunal local estaria em conformidade com a jurisprudência firmada por esta Corte no sentido de que o juízo onde se processa o pedido de insolvência civil é o competente para deliberar acerca de atos de natureza constritiva dos bens do insolvente, bem como a sentença que declara a insolvência civil do devedor tem eficácia imediata, produzindo efeitos na data de sua prolação.
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
