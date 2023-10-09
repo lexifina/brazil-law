@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ERIZANOR LEITE DEMELO agrava da decisão de fls. 80-81, em que indeferi liminarmente o habeas corpus, dado o não preenchimento do requisito de ordem subjetiva para a progressão.
+Para tanto, assere que, "a motivação utilizada para negar ao sentenciado o seu direito de progredir ao regime intermediário viola a sua ampla defesa de sobremaneira, pois, o agravante assume todos os delitos que ensejaram em suas condenações, todavia, sem que todas as ações penais tenham transitado em julgado, não se pode exigir que ele assuma integralmente sua responsabilidade, pois, isto é evidentemente inconstitucional, já que mitiga o artigo 5º, inciso LXIII, da CF" (fl. 89).
+Requer, assim, "a  concessão da  ordem do Writ para que os pedidos do agravante sejam acolhidos, pois, a fundamentação da r. Decisão Monocrática, que ora se agrava, resta fragilizada e merece a reforma desta Colenda Turma" (fl. 89).
+AgRg no HABEAS CORPUS Nº 849.920 - SP (2023/0308455-0)
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, na hipótese, o Juízo singular salientou que "o relatório psicológico apurou que o sentenciado "demonstrou dificuldade em elaborar motivadores" (fls. 1175) e que "assume responsabilidades plenas em algumas situações, parciais em outras" (fls. 1175 - grifado).  ..  As circunstâncias, portanto, demonstram falta de amadurecimento psicológico do executado para desfrutar de regime mais brando, mostrando-se prematura a concessão do benefício pretendido" (fl. 41, grifei).
+Dessa forma, assim como bem apontado pelo Magistrado singular, dada a conclusão desfavorável do exame criminológico, é forçosa a manutenção da decisão.
+É imperioso reconhecer que as características negativas do laudo pericial se sobressaem, de modo que, por ocasião do indeferimento da postulação, a agravante não revelava mesmo mérito para a progressão de regime, conforme exige o art. 112, caput, da Lei de Execução Penal.
+Com efeito, segundo entendimento consolidado neste Superior Tribunal, não há óbice à utilização de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade de dilação probatória.
+No entanto, para que se perquira o preenchimento do requisito de ordem subjetiva, de forma a permitir a concessão da progressão de regime, alcançando conclusão diversa da exarada pela Corte de origem, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ. Confira-se:
+ ..
+II - No presente caso, a eg. Corte de origem manteve, de forma fundamentada, a r. decisão do d. Juízo da Vara de Execuções Penais que havia indeferido a progressão ao regime semiaberto em razão da ausência de requisito subjetivo do apenado, constatada mediante a realização de exame criminológico, no qual se verificou, notadamente, que "o reeducando não apresenta crítica satisfatória sobre os crimes cometidos, sem expressar arrependimento, de forma que a progressão neste momento se mostra precoce" (fl. 37 - grifei). In casu, portanto, afere-se que a r. decisão está devidamente amparada em elementos concretos aferidos no curso da execução e em aspectos desfavoráveis constatados por meio do exame criminológico realizado, o que impede a progressão de regime, segundo entendimento desta Corte Superior, sendo a fundamentação idônea para negar o benefício, ante a ausência de preenchimento do requisito subjetivo (precedentes).
+III - Esta Corte Superior possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, a dilação probatória necessária para o exame amplo e aprofundado da conduta carcerária do apenado, ora agravante, a fim de se vislumbrar possível inversão do que restou decidido pelo eg. Tribunal a quo quanto ao não preenchimento do requisito subjetivo para concessão dos benefícios da execução da pena, como a progressão de regime  ..  (AgRg no HC n. 683.913/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 17/11/2021, sublinhei).
+No caso concreto, o Juízo de primeira instância registrou que a conclusão do exame criminológico desfavorece o sentenciado, de modo a indicar que o apenado não preenche o requisito de ordem subjetiva.
+À vista do exposto, nego provimento ao recurso.
