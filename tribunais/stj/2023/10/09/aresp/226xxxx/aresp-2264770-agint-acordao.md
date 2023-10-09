@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. A alegação de ofensa do art. 1.022, I, do Código de Processo Civil foi procedida de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por LAVANDERIA CASAGRANDE LTDA contra a decisão de minha relatoria de fls. 2.654/2.656 .
+A parte agravante se insurge contra a incidência da Súmula 284/STF, alegando não ter sido genérica a argumentação do recurso especial, bem como ter havido a indicação específica dos dispositivos de lei supostamente violados, quais sejam, arts. 489 e 1.022 do CPC.
+Requer,  desse modo, a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+Impugnação não apresentada conforme certidão de fl. 2.672.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA 284/STF. PROVIMENTO NEGADO.
+1. A alegação de ofensa do art. 1.022, I, do Código de Processo Civil foi procedida de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+A decisão ora recorrida não conheceu do recurso especial em virtude da alegação genérica de violação ao art. 1.022, I, do CPC/2015, bem como pela ausência de clareza em relação à ofensa à legislação infraconstitucional, incidindo o óbice da Súmula 284/STF.
+Em nova análise do recurso especial, a alegação de ofensa ao art. 1.022, I, do Código de Processo Civil foi procedida, de fato, de forma genérica, sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia. Incide no caso em questão, assim, o óbice previsto na Súmula 284 do Supremo Tribunal Federal, por analogia.
+Também destaco que a parte não desenvolveu argumentação a fim de demonstrar em que consistiam as ofensas aos artigos apontados como violados, atraindo a incidência da Súmula 284/STF. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO E SEGURO HABITACIONAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. AUSÊNCIA DE INDICAÇÃO CLARA DO DISPOSITIVO LEGAL VIOLADO, PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. ALEGADA AUSÊNCIA DE COMPROMETIMENTO DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS - FCVS. REEXAME. IMPOSSIBILIDADE. MATÉRIA FÁTICA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto em 21/03/2016, contra decisão publicada em 14/03/2016.
+II. Trata-se, na origem, de Agravo de Instrumento, interposto pela parte ora agravante, contra decisão que declinou da competência para a Justiça Federal. A parte agravante sustenta, em síntese, a competência da Justiça Estadual, tendo em vista a falta de interesse da Caixa Econômica Federal no caso, bem como a ausência de comprometimento do Fundo de Compensação de Variações Salariais - FCVS.
+III. Segundo a jurisprudência do STJ, "a admissibilidade do recurso especial exige a clareza na indicação dos artigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses dispositivos ou a eles tenha dado interpretação divergente da adotada por outro Tribunal, sob pena de incidência da Súmula nº 284 do STF" (STJ, AgRg no AREsp 457.771/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/04/2014). No caso, tendo a parte recorrente deixado de indicar, de forma clara e precisa, qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, não há como afastar, no ponto, o óbice contido na Súmula 284 do Supremo Tribunal Federal.
+IV. Ademais, o entendimento pacificado nesta Corte, por ocasião do julgamento do REsp 1.091.363/SC, sob a sistemática dos recursos repetitivos, é no sentido de que, sendo a apólice de seguro habitacional de natureza pública, do Ramo 66, garantida pelo Fundo de Compensação de Variações Salariais - FCVS, existe interesse jurídico a amparar o pedido de intervenção da CEF, na forma do art. 50 do CPC/73, com a consequente remessa dos autos à Justiça Federal.
+V. Na hipótese, o Tribunal a quo, com fundamento no contexto fático-probatório dos autos, assegurou tratar-se, na hipótese, de apólice de seguro habitacional de natureza pública (Ramo 66), garantida pelo Fundo de Compensação de Variações Salariais - FCVS, com efetivo comprometimento do FCVS. Nesse contexto, a análise da pretensão recursal, acerca da alegada ausência de comprometimento do FCVS, demandaria a incursão no contexto fático-probatório dos autos, vedada, em Recurso Especial, conforme Súmula 7 desta Corte. No mesmo sentido: STJ, AgRg no REsp 1.485.479/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/10/2015; STJ, AgRg no AREsp 643.155/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/06/2015.
+VI. Agravo interno improvido. (AgInt no AREsp n. 605.134/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/4/2016, DJe de 19/4/2016.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. DECISÃO ULTRA PETITA. DECOTE.
+1. É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal que rege a temática tratada nos autos implica deficiência na fundamentação do recurso especial, hipótese que impõe a incidência do óbice da Súmula 284 do STF.
+2. Não há falar em decisão extra petita no caso em apreço, mas decisão ultra petita a qual não requer maiores digressões, mas tão somente o decote constante na parte da decisão que remetia à controvérsia à base de cálculo das exações: imposto de importação, IPI, PIS-Importação e Cofins-Importação, quando na realidade somente diz respeito ao imposto de importação.
+3. Agravo interno desprovido, com o decote da parte ultra petita. (AgInt no AgInt no REsp n. 1.934.615/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/6/2023, DJe de 16/6/2023.)
+Diante dessas considerações, nego provimento ao agravo interno.
+É o voto.
