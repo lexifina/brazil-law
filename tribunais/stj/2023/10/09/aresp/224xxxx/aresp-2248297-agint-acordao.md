@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO OCORRÊNCIA.  PLANO  DE  BENEFÍCIO.  MANUTENÇÃO.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  Não  há  negativa  de  prestação  jurisdicional  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+2.  Alterar  a  conclusão  do  tribunal  de  origem  quanto  à  situação  do  participante  na  manutenção  do  plano  de  benefício  atrai  a  incidência  do  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDAÇÃO  NESTLÉ  DE  PREVIDÊNCIA  PRIVADA  -  FUNEPP  contra  a  decisão  (fls.  418/421)  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e  negar-lhe  provimento  por  incidência  do  óbice  da  Súmula  nº  7/STJ  e  pela  ausência  de  negativa  de  prestação  jurisdicional.
+Nas  presentes  razões,  a  agravante  sustenta  que  pretende  tão  somente  a  atribuição  de  nova  definição  jurídica  sobre  o  quadro  fático  consolidado  pelo  tribunal  de  origem.
+Além  disso,  sustenta  que  houve  negativa  de  prestação  jurisdicional,  tendo  em  vista  omissões  apontadas  nos  embargos  de  declaração,  tais  como:  a  extinção  do  plano  de  benefício,  a  não  afetação  do  agravado  por  ser  autopatrocinado  e  a  recusa  em  receber  o  valor  objeto  da  ação  de  consignação  em  pagamento.
+Contraminuta  apresentada  às  fls.  437/446.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO OCORRÊNCIA.  PLANO  DE  BENEFÍCIO.  MANUTENÇÃO.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  Não  há  negativa  de  prestação  jurisdicional  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+2.  Alterar  a  conclusão  do  tribunal  de  origem  quanto  à  situação  do  participante  na  manutenção  do  plano  de  benefício  atrai  a  incidência  do  óbice  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+As  razões  expendidas  no  agravo  são  insuficientes  para  autorizar  a  reforma  da  decisão  atacada.
+No  tocante  à  negativa  de  prestação  jurisdicional,  verifica-se  que  o  tribunal  de  origem  motivou  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese.
+No  caso,  a Corte local  manifestou-se  expressamente  quanto  à  condição  de  autopatrocinado  do  ora  recorrido,  conforme  se  verifica  do  seguinte  trecho  do  acórdão:
+"(..)
+Conforme  consta  da  anotação  da  Carteira  de  Trabalho,  o  Apelante  jamais  esteve  vinculado  a  LATICÍNIOS  BELA  VISTA,  tendo  por  rescindido  seu  contrato  de  trabalho  em  30/12/2019,  antes  que  houvesse  a  incorporação  da  NESTLÉ  SUDESTE ALIMENTOS  E  BEBIDAS  LTDA  pela  LATICÍNIOS  BELA  VISTA,  sendo  integrante  do  PAP  na  condição  de  auto-patrocinado,  não  estando  abrangido  pela  comunicação  de  retirada  apresentada  pela  FUNEPP  que  indica  que  os  processos  de  retirada  de  patrocínio  afetarão  apenas  os  participantes  vinculados  à  NESTLÉ  SUDESTE  ALIMENTOS  E  BEBIDAS LTDA.
+(..)
+Cumpre  obtemperar  que  os  questionamentos  encontram  subsídio,  não  apenas  nos  comunicados  encaminhados  ao  apelante,  mas  também  no  próprio  Termo  de  Retirada  apresentado  nos  autos  da  presente  demanda,  que  traz  na  alínea  "g"  da  Cláusula  1ª  (fs.  81)  a  delimitação  dos  termos  "Participantes  da  Retirada"  ou  "Assistidos  da  Retirada"  tão  somente  aqueles  ligados  à  Patrocinadora,  condição  distinta  da  ocupada  pelo  apelante  no  Plano"  (fls.  307/308).
+Não  há  falar,  portanto,  em  existência  de  omissão  apenas  pelo  fato  de  o  julgado  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da  parte.
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  CUSTEIO  DE  MEDICAMENTO  (THIOTEPA).  1.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  2.  FUNDAMENTO  SUFICIENTE  NÃO  ATACADO.  SÚMULA  283/STF.  3.  ACÓRDÃO  EM  CONSONÂNCIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  SÚMULA  83/STJ.  4.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  INCIDÊNCIA  DAS  SÚMULAS  282/STF  E  211/STJ.  5.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Não  ficou  configurada  a  violação  ao  art.  1.022  do  CPC/2015,  uma  vez  que  o  Tribunal  de  origem  se  manifestou,  de  forma  fundamentada,  sobre  todas  as  questões  necessárias  para  o  deslinde  da  controvérsia.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+2.  O  acórdão  recorrido  encontra-se  em  perfeita  harmonia  com  a  jurisprudência  desta  Corte  no  sentido  de  que,  "embora  se  trate  de  fármaco  importado  ainda  não  registrado  pela  ANVISA,  teve  a  sua  importação  excepcionalmente  autorizada  pela  referida  Agência  Nacional,  sendo,  pois,  de  cobertura  obrigatória  pela  operadora  de  plano  de  saúde"  (REsp  1.923.107/SP,  relatora  ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  10/8/2021,  DJe  16/8/2021).
+3.  Atentando-se  aos  argumentos  trazidos  pela  recorrente  e  aos  fundamentos  adotados  pela  Corte  estadual  de  que  a  ANVISA  admite  a  importação  do  fármaco,  verifica-se  que  estes  não  foram  objeto  de  impugnação  nas  razões  do  recurso  especial,  e  a  subsistência  de  argumento  que,  por  si  só,  mantém  o  acórdão  recorrido  torna  inviável  o  conhecimento  do  apelo  especial,  atraindo  a  aplicação  do  enunciado  n.  283  da  Súmula  do  Supremo  Tribunal  Federal.
+4.  A  ausência  de  debate  acerca  do  conteúdo  normativo  dos  arts.  66  da  Lei  n.  6.360/1976  e  10,  V,  da  Lei  n.  6.437/1976,  apesar  da  oposição  de  embargos  de  declaração,  atrai  os  óbices  das  Súmulas  282/STF  e  211/STJ.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  2.164.998/RJ,  Relator  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  REGRESSO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DOS  DEMANDADOS.
+1.  Não  há  se  falar  em  negativa  de  prestação  jurisdicional,  na  medida  em  que  o  órgão  julgador  dirimiu  todas  as  questões  que  lhe  foram  postas  à  apreciação,  de  forma  clara  e  sem  omissões,  embora  não  tenha  acolhido  a  pretensão  da  parte.
+2.  Rever  a  conclusão  do  Tribunal  de  origem  com  relação  à  responsabilidade  pelo  ressarcimento  dos  valores  pagos  em  reclamação  trabalhista  demandaria  o  reexame  do  conjunto  fático-probatório  dos  autos  e  a  interpretação  de  cláusulas  contratuais,  providencias  que  encontram  óbice  no  disposto  nas  Súmulas  5  e  7  do  STJ.  Precedentes.
+3.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  AREsp  2.135.800/SP,  Relator  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023).
+Quanto  ao  alegado  não  cabimento  da  manutenção  em  plano  de  benefício  extinto  após  a  retirada  do  patrocínio,  as  conclusões  do  tribunal  de  origem  acerca  do  mérito  da  demanda  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  aferir  da  leitura  dos  fundamentos  do  julgado  atacado,  ora  colacionados  na  parte  que  interessa:
+"(..)  restou  demonstrado  que,  muito  embora  tenha  ocorrido  a  incorporação  da  NESTLÉ  SUDESTE  ALIMENTOS  E  BEBIDAS  LTDA  pela  LATICÍNIOS  BELA  VISTA,  o  apelante  teve  seu  contrato  de  trabalho  rescindido  com  aquela  em  30/12/2019,  momento  em  que  passou  a  participar  do  Plano  de  Aposentadoria  Programada,  como  participante  auto-patrocinado,  motivo  pelo  qual  não  poderia  ser  atingido  pelos  efeitos  da  Retirada  de  Patrocínio  intentada  pela  parte  autora.
+Cumpre  obtemperar  que  os  questionamentos  encontram  subsídio,  não  apenas  nos  comunicados  encaminhados  ao  apelante,  mas  também  no  próprio  Termo  de  Retirada  apresentado  nos  autos  da  presente  demanda,  que  traz  na  alínea  "g"  da  Cláusula  1ª  (fs.  81)  a  delimitação  dos  termos  "Participantes  da  Retirada"  ou  "Assistidos  da  Retirada"  tão  somente  aqueles  ligados  à  Patrocinadora,  condição  distinta  da  ocupada  pelo  apelante  no  Plano"  (fls.  307/308).
+Assim,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7/STJ.
+A  propósito:
+"AGRAVO  INTERNO.  PROCESSUAL  CIVIL.  REEXAME  DE  PROVAS  E  INTERPRETAÇÃO  DE  REGULAMENTO  DE  PLANO  DE  BENEFÍCIOS,  EM  SEDE  DE  RECURSO  ESPECIAL.  INVIABILIDADE.  SÚMULAS  5  E  7  DO  STL.
+1.  Consoante  apurado/assegurado  pela  Corte  local,  "a  Recorrida  enquadra-se  na  ressalva  contida  na  encimada  disposição  contratual,  pois  ..  apesar  de  não  figurar  mais  como  cônjuge  do  falecido  ..  continuava  recebendo  alimentos  diante  de  sua  condição  de  dependência  (fls.23)".
+2.  Fica  nítido  que  a  revisão  do  decidido  exigiria  interpretação  do  regulamento  do  plano  de  benefícios  e  de  elemento  de  prova  contido  nos  autos,  o  que  esbarra  no  óbice  intransponível  das  Súmulas  5  e  7  do  STJ.
+3.  Agravo  interno  não  provido"  (AgInt  no  REsp  1.702.277/AM,  Rel.  Min.  LUIS  FELIPE  SALOMÃO,  Quarta  Turma,  julgado  em  23/08/2022,  DJe  31/08/2022).
+Nesse  contexto,  os  argumentos  expostos  pela  agravante  são  incapazes  de  alterar  os  fundamentos  da  decisão  agravada,  os  quais  permanecem  integralmente  incólumes.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
