@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO FISCAL. FIGURAS TÍPICAS DO ART. 1º DA LEI N. 8.137/1990. DOLO ESPECÍFICO DESNECESSÁRIO. DISTINÇÃO EM RELAÇÃO AO ACÓRDÃO DO STF NO RHC 163.334/SC. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos crimes do art. 1º da Lei n. 8.137/1990, o preenchimento das elementares típicas se satisfaz com a comprovação do dolo genérico, sendo prescindível a existência de um especial fim de agir na conduta do réu. Precedentes.
+2. A situação é diferente daquela decidida pelo STF no RHC 163.334/SC, que dizia respeito a tipo penal diverso: o do art. 2º, II, da Lei n. 8.137/1990, quando a conduta for a omissão no recolhimento do ICMS próprio. Nos casos de sonegação fiscal tratados pelo art. 1º da mesma Lei, por outro lado, permanece o entendimento jurisprudencial sobre a desnecessidade do dolo específico.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WAGNER ELIESER TRINDADE, contra decisão monocrática de minha relatoria que negou provimento ao seu recurso especial (e-STJ, fls. 748-750).
+A parte agravante reitera que a prática do crime de sonegação fiscal (nas figuras típicas do art. 1º, I, II e V, da Lei 8.137/1990) exigira a presença do dolo específico na conduta do réu. Alega que tal entendimento teria sido adotado pelo STF no julgamento do RHC 163.334/SC, e que os precedentes do STJ que dispensam o elemento subjetivo especial do tipo de sonegação fiscal seriam anteriores ao resto do STF.
+Pede, ao final, o provimento deste agravo regimental, para prover também o recurso especial e absolver o acusado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SONEGAÇÃO FISCAL. FIGURAS TÍPICAS DO ART. 1º DA LEI N. 8.137/1990. DOLO ESPECÍFICO DESNECESSÁRIO. DISTINÇÃO EM RELAÇÃO AO ACÓRDÃO DO STF NO RHC 163.334/SC. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos crimes do art. 1º da Lei n. 8.137/1990, o preenchimento das elementares típicas se satisfaz com a comprovação do dolo genérico, sendo prescindível a existência de um especial fim de agir na conduta do réu. Precedentes.
+2. A situação é diferente daquela decidida pelo STF no RHC 163.334/SC, que dizia respeito a tipo penal diverso: o do art. 2º, II, da Lei n. 8.137/1990, quando a conduta for a omissão no recolhimento do ICMS próprio. Nos casos de sonegação fiscal tratados pelo art. 1º da mesma Lei, por outro lado, permanece o entendimento jurisprudencial sobre a desnecessidade do dolo específico.
+3. Agravo regimental desprovido.
+VOTO
+As alegações da parte agravante não são suficientes para a modificação da decisão agravada, que deve subsistir por seus próprios fundamentos.
+Inicialmente, destaco que este agravo regimental é um recurso parcial (art. 1.002 do CPC), porque não impugnou o capítulo decisório referente ao ANPP, mas somente aquele que dizia respeito à tese de atipicidade da conduta. Portanto, o capítulo não questionado pela defesa fica precluso e este voto se deterá unicamente sobre os argumentos defensivos relativos à atipicidade.
+Como afirmei quando do julgamento monocrático, o acórdão proferido pelo Tribunal local está em sintonia com a jurisprudência deste STJ. Isso porque, nos crimes do art. 1º da Lei 8.137/1990, o preenchimento das elementares típicas se satisfaz com a comprovação do dolo genérico, sendo prescindível a existência de um especial fim de agir na conduta do réu - e isso mesmo para as condutas omissivas. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. DELITO DO ART. 1.º, CAPUT, E INCISO I, DA LEI N. 8.137/1990. TESE DE INEXISTÊNCIA DE COMPROVAÇÃO DE DOLO DO AGENTE. DISPENSABILIDADE. SÚMULA N. 83 DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos da jurisprudência desta Corte Superior, os crimes de sonegação fiscal e apropriação indébita previdenciária prescindem de dolo específico, sendo suficiente, para a sua caracterização, a presença do dolo genérico consistente na omissão voluntária do recolhimento, no prazo legal, dos valores devidos" (AgRg no AREsp 469.137/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/12/2017, DJe 13/12/2017)." (AgRg nos EDcl no AREsp n. 1.650.790/RN, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 4/8/2020, DJe de 13/8/2020.).
+2. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.894.753/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 28/2/2023, DJe de 9/3/2023.)
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SONEGAÇÃO FISCAL. ART. 1º, I e II, DA LEI Nº 8.137/1990. DOLO ESPECÍFICO. PRESCINDIBILIDADE. ABSOLVIÇÃO. SÚMULA 7/STJ. DOSIMETRIA DA PENA. CONTINUIDADE DELITIVA. ART. 71, CAPUT, DO CÓDIGO PENAL. FRAÇÃO DE AUMENTO. REDUÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos da jurisprudência desta Corte Superior, os crimes de sonegação fiscal e apropriação indébita previdenciária prescindem de dolo específico, sendo suficiente, para a sua caracterização, a presença do dolo genérico consistente na omissão voluntária do recolhimento, no prazo legal, dos valores devidos" (AgRg no AREsp 469.137/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/12/2017, DJe 13/12/2017).
+2. Na espécie, a instância ordinária, após detida análise do acervo fático e probatório amealhado aos autos, concluiu que o acusado agiu com dolo, de modo que a alteração do julgado, quanto ao ponto, encontra óbice na Súmula 7 desta Corte Superior.
+ ..
+5. Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp n. 1.650.790/RN, de minha relatoria, Quinta Turma, julgado em 4/8/2020, DJe de 13/8/2020.)
+A situação é diferente daquela decidida pelo STF no RHC 163.334/SC, que dizia respeito a tipo penal diverso: o do art. 2º, II, da Lei 8.137/1990, quando a conduta for a omissão no recolhimento do ICMS próprio. Nos casos de sonegação fiscal tratados pelo art. 1º da mesma Lei, por outro lado, permanece o entendimento jurisprudencial sobre a desnecessidade do dolo específico. Isto é: os fatos deste caso, em que se imputou ao réu a fraude ao Fisco (conduta tipificada pelo art. 1º da Lei 8.137/1990), é diferente da situação julgada pelo STF, restrita como foi à específica hipótese de tipificação da conduta de deixar de recolher o ICMS próprio, à luz do art. 2º, II, da Lei 8.137/1990 - dispositivo que nem sequer diz respeito aos fatos debatidos na presente ação penal.
+Outrossim, não é verdadeira a alegação defensiva de que "os precedentes deste STJ são decorrentes também de um período em que se entendia que para o delito do art. 2º, IV, da Lei 8.037/90  sic , o dolo seria genérico" (e-STJ, fl. 762). Ora, o julgamento do RHC 163.334/SC pelo STF, em que se definiu a interpretação do art. 2º, II, da Lei 8.137/1990 - que, reafirmo, não guarda nenhuma relação com este caso - aconteceu em 18/12/2019, enquanto os precedentes acima citados são a ele posteriores.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
