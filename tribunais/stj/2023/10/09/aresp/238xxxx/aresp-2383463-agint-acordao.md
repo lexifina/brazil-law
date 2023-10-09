@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO A QUO. AGRAVO INTERNO NÃO PROVIDO.
+1. O ora recorrido opôs embargos de declaração para suprir omissões acerca de sua filiação e de seu nome constar da lista dos substituídos na fase de conhecimento e na liquidação coletiva promovida pelo sindicato .
+2. O Tribunal de origem não se manifestou acerca de argumentos relevantes para reconhecer eventual legitimidade ativa do exequente.
+3. Houve, portanto, violação do art. 1.022 do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem com a determinação de novo julgamento dos embargos de declaração para que seja sanada as omissões.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Estado do Maranhão contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. URV. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO DA ORIGEM. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA REJULGAMENTO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+No agravo interno, o Estado do Maranhão defende, em síntese, que Tribunal de origem se manifestou expressamente acerca da ilegitimidade da exequente por pertencer a sindicato diverso do autor da ação coletiva, o SINTSEP-MA.
+Alega que (e-STJ fl. 353):
+Como se vê do trecho acima colacionado, o Eg. TJMA manifestou-se expressamente acerca da ilegitimidade da parte por pertencer a sindicato diverso do autor da ação coletiva(SINTSEP-MA), qual seja, o Sindicato dos Trabalhadores em Educação Básica das Redes Públicas Estaduais e Municipais do Estado do Maranhão -SINPROESEMMA.
+É de se destacar que o voto proferido no julgamento do recurso de apelação expressamente considera a alegação de preclusão da matéria atinente à ilegitimidade da parte exequente, concluindo que "na pre"via ac a o de conhecimento cujo ti"tulo se busca executar, houve inequi"voca limitac a o a categoria da autora que os representou naquela lide"(e-STJ fl. 200)
+Ou seja, analisando exaustivamente a matéria atinente à ilegitimidade da parte exequente, a Corte de origem evidentemente suplantou o argumento de preclusão da análise da referida controvérsia e manifestou seu entendimento pela inequívoca limitação à categoria do sindicato autor que substituiu seus filiados na lide de conhecimento, em que pese o argumento de que o nome do exequente constava na lista anexa à demanda.
+Não há como se falar em qualquer omissão no julgado, pelo que os aclaratórios manejados pela parte Exequente tinham nítido caráter de rediscutir o mérito da demanda e foram repelidos pela corte maranhense justamente com base na inviabilidade de interposição do recurso integrativo com a finalidade de reforma do julgado.  ..
+Sustenta que (e-STJ fl. 355):
+Como se vê, não há que se falar na omissão suscitada na decisão ora recorrida, mas, em verdade, em evidente insurgência da parte exequente em face do conteúdo decisório que lhe foi desfavorável, pelo que não procede a argumentação de violação aos arts. 1.022 e 489 do Código de Processo Civil. Assim, a decisão ora recorrida merece reforma, a fim de que não seja conhecido o recurso especial da parte adversa.
+Outrossim, inequivocamente, para que se modifique as conclusões adotadas pela Corte de origem, conforme pretende a parte Exequente, seria imprescindível que se procedesse à reanálise do conjunto fático-probatório dos autos por este C. STJ, providência inviável em sede de Recurso Especial, nos termos da Súmula nº 7/STJ.
+Contrarrazões ao agravo interno (e-STJ fls. 363/370).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO A QUO. AGRAVO INTERNO NÃO PROVIDO.
+1. O ora recorrido opôs embargos de declaração para suprir omissões acerca de sua filiação e de seu nome constar da lista dos substituídos na fase de conhecimento e na liquidação coletiva promovida pelo sindicato .
+2. O Tribunal de origem não se manifestou acerca de argumentos relevantes para reconhecer eventual legitimidade ativa do exequente.
+3. Houve, portanto, violação do art. 1.022 do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem com a determinação de novo julgamento dos embargos de declaração para que seja sanada as omissões.
+4. Agravo interno não provido.
+VOTO
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Como destacado na decisão ora impugnada, o recorrente defende a violação aos artigos 1022, II, e 489, § 1º, IV, do CPC/2015, pois o acórdão recorrido teria se omitido sobre a preclusão, nestes termos (e-STJ fls. 318/319):
+A corte estadual não se pronunciou sobre a alegação de preclusão da aferição da ilegitimidade e sobre o cargo da parte recorrente não ser abrangido pelo sindicato indicado como mais específico. Ressalte-se que os documentos e questões apontadas são indispensáveis para a aferição de matéria de ordem pública - legitimidade ativa - cognoscíveis em qualquer grau de jurisdição, inclusive de ofício, revelando dupla deficiência da atividade judicante, posto que não pronunciou-se nem de ofício e nem após direta provocação pelo instrumento recursal cabível
+Contudo, o Tribunal de origem declarou que (e-STJ fls. 252/253):
+Nos autos originários, a parte apelante objetiva dar concreção ao título judicial obtido pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão - SINTSEP/MA na ação coletiva nº 6542/2005. Em outros termos, na prévia ação de conhecimento cujo título se busca executar, houve inequívoca limitação a categoria da autora que os representou naquela lide, delimitando, assim, o campo subjetivo da coisa julgada a categoria representada pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão - SINTSEP/MA. Diante desse cenário fático, tenho que a parte apelante não possui legitimidade para executar o título executivo oriundo da ação coletiva na medida em que o acórdão que reconheceu o direito aos servidores estaduais limita-se, a obviedade, àqueles substituídos pelo Sindicato dos Trabalhadores no Serviço Público do Estado do Maranhão - SINTSEP/MA, não abarcando, portanto, a parte apelante, Professor da Rede Estadual de ensino, vinculado a um sindicato específico, o Sindicato dos Trabalhadores em Educação Básica das Redes Públicas Estaduais e Municipais do Estado do Maranhão - SINPROESEMMA. Analisando causas idênticas ao caso sub judice, este Eg. TJMA tem perfilhado o mesmo entendimento que aqui se propõe, isto é, de que se há um sindicato próprio e específico dos servidores da Rede Estadual e Municipal de ensino, cabe a este representar os interesses da classe, e não ao sindicato de maior abrangência, na mesma base territorial, em atenção à unicidade sindical e à especialidade, não tendo este servidor legitimidade para executar a sentença obtida pelo sindicato de maior abrangência.
+Foram opostos embargos de declaração. Ressalta-se o seguinte trecho da petição oposta pelo ora recorrente (e-STJ fl. 208, grifos nossos):
+Na origem, o processo de conhecimento 6542/2005 dependeu de liquidação coletiva por arbitramento, tendo como um dos participantes a parte Exequente, fase essa que durou cerca de 10 anos.
+Houve apuração do percentual de perda salarial pela Contadoria Judicial nesta liquidação por arbitramento coletiva, momento em que o quantum foi individualizado e oportuno à aferição da legitimidade, havendo decisão posterior homologando e transitando em julgado, conforme doc. de ID 15100012 dos autos de base.
+E esse relato pode ser extraído facilmente das decisões colacionadas no processo de cumprimento de sentença.
+Com isso, conclui-se que a matéria foi atingida pela preclusão, na medida em que transitou em julgado a parte da decisão proferida na fase de conhecimento e liquidação que condenou e homologou o percentual devido a parte, reconhecendo, assim, ainda que implicitamente, a legitimidade ativa ad causam.  ..
+Verifica-se que o exequente buscou pronunciamento específico acerca da preclusão por estar seu nome incluso na lista inicial da referida ação. Contudo, os embargos de declaração foram rejeitados (e-STJ fls. 217/231).
+Conclui-se, portanto que houve violação do art. 1.022 do CPC/2015, o que impõe o reconhecimento de nulidade do acórdão, bem com a determinação de novo julgamento dos embargos de declaração para que seja sanada as omissões. Sobre o tema, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC.CARACTERIZAÇÃO. GRATIFICAÇÃO DE DESEMPENHO TÉCNICO ADMINISTRATIVO - GDATA.LIMITAÇÃO TEMPORAL. LEI 11.357/2006. ENTRADA EM VIGOR APÓS O JULGAMENTO DAAPELAÇÃO E DOS EMBARGOS INFRINGENTES NA ORIGEM. TEMA SUSCITADO EM SEDE DEEMBARGOS DE DECLARAÇÃO. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. Sabe-se que os embargos de declaração constituem instrumento processual
+com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pela decisão ou, ainda, de corrigir evidente erro material. Serve, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC, art. 535).
+2. No caso dos autos, muito embora provocada a Corte de origem por meio de
+embargos declaratórios, não houve manifestação acerca da limitação temporal para concessão da Gratificação de Desempenho Técnico Administrativo - GDATA decorrente da edição da Lei 11.357/2006, que promoveu a reestruturação dos cargos no âmbito do Poder Executivo, instituindo o Plano Geral de Cargos de Poder Executivo - PGPE, e criando a Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte - GDPGTAS, o que, no entender do recorrente, impediria a percepção de GDATA pelos integrantes do PGPE.
+3. Insta destacar que os embargos infringentes de iniciativa da União interpostos contra acórdão que, por votação não unânime, deu provimento à apelação cível foram protocolizados em 21/9/2006, ou seja, em data anterior à publicação da Lei 11.357, de 19/10/2006. Assim, somente nos embargos de declaração opostos contra acórdão que apreciou os embargos infringentes, caberia a União levantar o tema referente à delimitação da GDATA, diante da entrada em vigor da novel legislação. Não há, portanto, falar em preclusão da matéria.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 241.138/PB, Rel. Ministro MAURO CAMPBELL MARQUES,
+SEGUNDA TURMA, julgado em 04/12/2012, DJe 10/12/2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSOESPECIAL. EXECUÇÃO FISCAL. TERRENO DE MARINHA. DISCUSSÃO SOBRE ARESPONSABILIDADE SOBRE O RECOLHIMENTO DA TAXA ANUAL DE OCUPAÇÃO. ALEGAÇÃODE VIOLAÇÃO DO ARTIGO 535 DO CPC. VÍCIO EXISTENTE. ACÓRDÃO ANULADO.RETORNO DOS AUTOS À ORIGEM.
+1. Os presentes embargos declaratórios merecem acolhimento, porquanto este
+colegiado incidiu em erro material ao concluir pela ausência de afronta ao art. 535, II, do CPC e reconhecer que o Tribunal de origem se manifestou de maneira clara e fundamentada sobre todas as questões postas a julgamento.
+2. No caso em análise, em que se discute a responsabilidade pelo pagamento de Taxa de Ocupação relativa a período posterior à transferência de terreno de marinha, verifica-se que o executado desde do início defendia sua ilegitimidade passiva sobre vários argumentos, dentre eles o de que, tanto na execução fiscal quanto no processo administrativo para cobrança da taxa de ocupação, foi informado a qualificação do atual ocupante, bem como que o Processo Administrativo de cobrança de foros em atraso reconheceu que os valores posteriores a 1997 eram de responsabilidade de Mario Cesar Couto Guimarães.
+3. Contudo, a Corte a quo, mesmo após ser instada mediante aclaratórios sobre as questões, deixou de se pronunciar sobre a matéria relevante à solução da controvérsia, do que resulta na necessária anulação do acórdão que julgou os embargos de declaração, a fim de que haja manifestação sobre os pontos levantados pela executada.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial, ante o reconhecimento da violação ao art.535, II, do CPC, com o consequente retorno dos autos ao Tribunal de
+origem.
+(EDcl no REsp 1.201.256/RJ, 1ª Turma, Rel. Min. Benedito Gonçalves, DJe02.03.2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO RECONHECIDA.
+1 - Caracterizada está a violação do artigo 535 do Código de Processo Civil quando o Tribunal de origem não aprecia matéria relevante ao deslinde da controvérsia oportunamente suscitada.
+2 - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.173.019/RS, 5ª Turma, Rel. Min. Marco Aurélio Bellizze,
+DJe 28.02.2012)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS.PRESCRIÇÃO. APELAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VIOLAÇÃO DO ART.535 DO CPC. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO.
+1. Da análise do acórdão recorrido é possível constatar que a questão da ocorrência de prescrição, suscitada nas contrarrazões ao recurso de apelação e reiterada por ocasião dos embargos de declaração, não foi, efetivamente, discutida pelo Tribunal de origem.
+2. Quanto à relevância do tema, impende apontar que a omissão, indubitavelmente, acarretou ao recorrente nítido prejuízo, pois, ausente o prequestionamento, impossível a revisão da questão diretamente em recurso especial, sendo que esta Corte já firmou o entendimento de que mesmo as chamadas questões de ordem pública devem estar prequestionadas, a fim de viabilizar sua análise nesta Instância Especial.
+3. A existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 535 do CPC.
+4. Recurso especial provido, para, em consequência do reconhecimento da violação do artigo 535 do CPC, determinar o retorno dos autos ao Tribunal
+de origem a fim de que seja proferido novo julgamento.
+(REsp 1.171.712/RS, 3ª Turma, Rel. Min. Nancy Andrighi, DJe 02.02.2012)
+Logo, o provimento do recurso especial pela decisão ora recorrida deve ser mantido, pois o acórdão proferido em sede de embargos de declaração deve ser anulado por omissão, e os autos devem retornar à origem para novo julgamento.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
