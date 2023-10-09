@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE TERCEIRO. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de embargos de terceiro.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido.
+3. Agravo interno não conhecido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por COOPERATIVA DE CRÉDITO POUPANÇA E INVESTIMENTO DEXISSICREDI DEXIS (COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP ou COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP).
+Ação: embargos de terceiro, oposto por VALDAIRA FERNANDA ELIDIO, em face de COOPERATIVA DE CRÉDITO POUPANÇA E INVESTIMENTO DEXISSICREDI DEXIS (COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP ou COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP).
+Sentença: deu provimento aos embargos de terceiro, julgando-os procedentes, nos termos do artigo 487, inciso I, do Código de Processo Civil, para declarar a ilegitimidade da penhora sobre o imóvel, bem como determinar o cancelamento dos atos expropriatórios, além dos demais atos constritivos resultantes da ação de execução 1006850-15.2015.8.26.0362, referentes ao imóvel de matrícula nº 41.416 do Cartório de Registro de Imóveis de Mogi Guaçu - SP. Ainda, confirmou a tutela concedida em sua integralidade e, ante a sucumbência, condenou a agravante ao pagamento das custas e dos honorários, que foram fixados em 10% sobre o valor atualizado da causa.
+Acórdão: negou provimento à Apelação interposta pela agravante, nos termos da seguinte ementa:
+"Apelação Cível. Embargos de terceiro. Sentença de procedência dos pedidos. Inconformismo da embargada. Súmula nº 486 do STJ, "é impenhorável o único imóvel residencial do devedor que esteja locado a terceiros, desde que a renda obtida com a locação seja revertida para a subsistência ou a moradia da sua família". A proteção social se volta à dignidade da pessoa ter garantido um teto para habitar e dizer que é seu, ideia nuclear da lei que não retira da pessoa a discricionariedade de ter sua moradia em outro endereço por opção, conveniência ou qualidade de vida, sem, necessariamente, perder a proteção social de ter na unidade adquirida (no caso recebida em doação), se única, como bem de família, não estar submetida à penhora e desapropriação judicial. Impenhorabilidade mantida. Sentença mantida. Recurso não provido." (e-STJ fl. 167)
+Recurso especial: alega violação dos arts. 85, § 2º, 485, VI, CPC/15, 5º, Lei 8.009/90, Súmula 486/STJ, bem como dissídio jurisprudencial, sustentando que: i) a recorrida não possui legitimidade ativa para opor os referidos embargos, haja vista que não houve esbulho judicial da sua fração ideal, visto que foi penhorado 1/3 do imóvel em comento, respeitando a fração ideal das demais coproprietárias, inclusive da recorrida, bem como o usufruto, conforme se verifica da AV.12/41.416; e, ii) na hipótese em questão não se trata o imóvel de bem de família e, ainda, mesmo que fosse, a penhora recaiu apenas e tão somente sobre 1/3 da nua-propriedade, relativa à fração ideal pertencente à devedora nos autos da demanda executiva; e, iii) além de a recorrida informar diversas vezes residir em endereço diverso, também não há prova de que o bem em questão seja o único imóvel de sua genitora e tampouco que aquele lhe sirva de residência; e, iv) não há que se falar em condenação da recorrente ao pagamento das verbas sucumbenciais.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Razões do agravo interno: sustenta a inaplicabilidade das Súmulas 284/STF, 282/STJ, a presença do dissídio jurisprudencial e a violação de Súmula desta Corte.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE TERCEIRO. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de embargos de terceiro.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por COOPERATIVA DE CRÉDITO POUPANÇA E INVESTIMENTO DEXISSICREDI DEXIS (COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP ou COOPERATIVA DE CRÉDITO E INVESTIMENTO DE LIVRE ADMISSÃO UNIÃO PARANÁ/SÃO PAULO - SICREDI UNIÃO PR/SP), contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Cabe observar que a decisão agravada se pautou nos seguintes argumentos: i) violação de súmula; e, ii) fundamentação deficiente (Súmula 284/STF); e, iii) ausência do prequestionamento (Súmula 282/STF); e, iv) ausência do dissídio jurisprudencial; e, v) não indicação do dispositivo legal sobre o qual recaia a divergência.
+Observa-se, pelas razões expostas no agravo interno, que a parte agravante deixou de impugnar especificamente a não indicação do dispositivo legal sobre o qual recaia a divergência.
+Assim, como esse ponto não foi objeto de insurgência da parte agravante e o entendimento pacífico desta Corte é o de que não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182/STJ, a qual se subsome perfeitamente ao presente recurso, é o caso de não se conhecer do agravo interno.
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
