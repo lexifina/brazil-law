@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA. ACIDENTE DE TRÂNSITO. IMPENHORABILIDADE SALARIAL. RELATIVIZAÇÃO. DIGNIDADE DA PESSOA HUMANA. SUBSISTÊNCIA. PREJUÍZO NÃO VERIFICADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A impenhorabilidade salarial deve ser relativizada em atenção ao princípio da máxima efetividade da execução, desde que compatibilizada com a dignidade da pessoa humana.
+2. O acórdão vergastado assentou que não haveria prejuízo à subsistência do agravante e de sua família. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto HÉLVIO CARVALHO (HÉLVIO) contra decisão de minha relatoria assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA. ACIDENTE DE TRÂNSITO. IMPENHORABILIDADE SALARIAL. POSSIBILIDADE. PRESERVAÇÃO DA DIGNIDADE DO DEVEDOR. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 321).
+Nas razões do presente inconformismo, defendeu que comprovou que seu sustento e de sua família serão afetados caso realizada a penhora da verba salarial (e-STJ, fls. 331/342).
+Foi apresentada contraminuta (e-STJ, fls. 345/349).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CUMPRIMENTO DE SENTENÇA. ACIDENTE DE TRÂNSITO. IMPENHORABILIDADE SALARIAL. RELATIVIZAÇÃO. DIGNIDADE DA PESSOA HUMANA. SUBSISTÊNCIA. PREJUÍZO NÃO VERIFICADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A impenhorabilidade salarial deve ser relativizada em atenção ao princípio da máxima efetividade da execução, desde que compatibilizada com a dignidade da pessoa humana.
+2. O acórdão vergastado assentou que não haveria prejuízo à subsistência do agravante e de sua família. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula n.º 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1) Da penhora salarial
+Nas razões do presente recurso, HÉLVIO alegou que comprovou que seu sustento e de sua família serão afetados caso realizada a penhora da verba salarial.
+Contudo, o Tribunal estadual entendeu que as parcelas que não configuram verba alimentar podem ser penhoradas, sem prejuízo da sobrevivência digna de HÉLVIO e sua família, porquanto há diversas despesas não essenciais, em valor significativo, em sua fatura de cartão de crédito. Veja-se o excerto:
+Contudo exame da única fatura jungida aos autos referente ao cartão de crédito junto ao Banco do Brasil mostra expressivos gastos envolvendo automóvel, e que pelo exame das discriminações indicia que o agravado é detentor de motocicleta. A fls. 149, em 30.07, há gasto de R$ 150,70 discriminado como "POSTO MONTE CARLO PARQ SÃO JOSE DO R", em 02.08, importe de R$ 190,00 referente a "AUTOMÓVEL CLUBE SÃO JOSE DO R", em 04.08 e 05.08, gastos de R$ 33,00 e 116,80, respectivamente, sob igual rubrica, em 10.08, é despendido R$ 140,00 com "POSTO MARTINELLI SÃO JOSE DO R", em 12.08 despesa de R$ 220,00 "PAG*DELEIRODAS SÃO JOSE DO R", em 18.08, gasto de R$ 132,00 "POSTO MARTINELI SÃO JOSE DO R", R$ 87,35 R$ "AUTOMOVEL CLUBE SÃO JOSE DO R", em igual data, em 25.08, novo gasto de R$ 50,00 em "POSTO MARTINELLI SÃOJOSE DO R". Em relação aos pagamentos parcelados: em 17.03,"PAG*M Boys peca PARC 06/10 SÃO JOSE DO", no valor da parcela de R$ 265,50, de 04.04 "PARC=110 MAPFR PARCELA 05/10 SÃO PAULO", de R$ 138,54, de 10.06 "AUTOPECAS FU PARC 03/03 SÃO JOSE DO", de R$58,66, em 27.07 "M BOYS PECAS PARC 01/03SÃO JOSÉ DO", no valor de R$ 120,00. Os gastos em menção totalizam R$ 1.702,55.
+Teve o agravado condições de dispender importe significativo em restaurantes: em 06.08, R$ 157,60 "MANTA NABRASA SÃO JOSE DO R", em 09.08, R$ 22,88 "MOLECAGGIOPIZZAS LTDA SÃO JOSE DO R", em 14.08, R$ 52,00 em "PAG*Pontodochopp SÃO JOSE DOR", em 27.08, R$ 117,00 "MARCOS TARAGANO LTDA SÃO JOSE DO R" e em 28.08, R$ 45,00 "PAG*bardo Roberto SÃO JOSE DO R", totalizando R$ 394,48.
+Ostentou condições de utilização de transporte por aplicativo em 06.08, e por duas vezes em 28.08, dispendendo, respectivamente, R$ 13,68, R$ 24,40 e R$ 28,96, bem como pagamento de consulta médica particular consoante item constante dos parcelamentos em "Hospitais", discriminado dispêndio de parcela de R$ 222,50 a "RAFAEL NUNO M PARC 02/04 SÃO JOSE DO R", apesar de detentor de plano de saúde, conforme demonstrativo de pagamento de fls. (137).
+Não suficiente deixou de ser juntado extrato bancário junto ao Banco do Brasil, conta que parece concentrar as movimentações financeiras do agravado, vez que o local é indicado para pagamento do salário (fls. 137) e a conta junto a Caixa Econômica é destinada unicamente ao pagamento de prestação pela aquisição do imóvel em que reside (fls. 152/153), bem como não foi colacionada documentação que comprovasse endividamento em virtude dos gastos ultimados com o cartão de crédito levando a conclusão que o valor recebido é suficiente a quitação dos gastos regulares, bem como de significativo importe com cartão de crédito.
+Deve ser apontado, ainda, que em 2013, já havia alegação pelo agravado de que quando da ocorrência do acidente dirigia veículo titularizado por terceira empresa (vide fls. 127/128 do processo 4001924-19.2013.8.26.0132), indiciando dupla jornada de trabalho com empregadores distintos, sendo uma de autônomo, e que parece remanescer até o presente.
+Desta forma, sem que tenha logrado o agravado comprovar de forma idônea que constrição de percentual de seu salário comprometa sua subsistência, ao deixar de apresentar elementos seguros para que se afirme que valores aferidos em virtude de seu labor como professor de educação física são comprometidos aos custeio de suas despesas e que eventual constrição implica em comprometimento de preservação de mínimo existencial e de sobrevivência digna, fica autorizado, que após o desconto do importe de prestação alimentar, seja descontado percentual de 20% do rendimento mensal do agravado (e-STJ, fls. 163/165).
+Acerca do tema, a jurisprudência do STJ é firme no sentido de que a impenhorabilidade salarial deve ser relativizada em atenção ao princípio da máxima efetividade da execução, desde que compatibilizada com a dignidade da pessoa humana.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL . AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DOS RENDIMENTOS. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. DEVEDOR. VALOR PENHORADO. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ ).
+2. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal, poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. No caso concreto, o T ribunal de origem concluiu pela existência de situação excepcional a autorizar a mitigação da regra da impenhorabilidade, tendo em vista tratar-se de alimentos decorrentes de prática de ato ilícito.
+4. Na hipótese, rever a conclusão de que o valor penhorado não compromete o sustento familiar encontra óbice na Súmula nº 7/STJ.
+5. A Segunda Seção do Superior Tribunal de Justiça já decidiu que a aplicação da multa por litigância de má-fé não é automática, visto não se tratar de mera decorrência lógica da rejeição do agravo interno. Precedente.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.003.534/DF, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 9/11/2022, DJe de 16/11/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA.
+1. De acordo com a jurisprudência desta Corte Superior, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Incidência da Súmula 83/STJ. Precedentes.
+1.1. Derruir as conclusões do Tribunal local, no sentido de aferir a razoabilidade do percentual do salário penhorado, demandaria reanálise do acervo probatório. Incidência da Súmula 7/STJ.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.990.171/DF, relator Ministro MARCO BUZZI, Quarta Turma, j. em 26/10/2022, DJe de 4/11/2022)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. PENHORA DE RENDIMENTOS PREVIDENCIÁRIOS. CRÉDITO ORIUNDO DE HONORÁRIOS ADVOCATÍCIOS. IMPENHORABILIDADE. ORIENTAÇÃO RECENTEMENTE FIRMADA PELA CORTE ESPECIAL. MITIGAÇÃO. POSSIBILIDADE À LUZ DA PRESERVAÇÃO DA DIGNIDADE E SUBSISTÊNCIA DO DEVEDOR E DE SEU NÚCLEO FAMILIAR. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Corte Especial, no julgamento do REsp 1.815.055/SP, Rel. Ministra NANCY ANDRIGHI, DJe 26/8/2020, consignou que a impenhorabilidade do salário pode ser mitigada em respeito ao princípio da máxima efetividade da execução, desde que respeitada a dignidade da pessoa humana.
+3. Do mencionado aresto constou a possibilidade de mitigação da impenhorabilidade de salários desde que preservada parcela suficiente para resguardar a dignidade e subsistência do devedor e de seu núcleo familiar.
+4. O acórdão vergastado assentou que não há comprovação do comprometimento da subsistência do devedor, razão das peculiaridades do caso concreto, afigurava-se em consonância com os princípios da proporcionalidade e razoabilidade. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula n.º 7 do STJ.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.965.708/RS, de minha relatoria, Terceira Turma, j. em 10/10/2022, DJe de 13/10/2022)
+No caso dos autos, como o Colegiado entendeu que não haveria comprometimento da subsistência de HÉLVIO e de sua família, há que se reconhecer a inviabilidade da alteração de tal conclusão, em face do óbice da Súmula n.º 7 do STJ. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Segundo o entendimento firmado pela jurisprudência desta Corte, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Incidência da Súmula 83/STJ. Precedentes.
+1.2 Derruir as conclusões do Tribunal local, no sentido de aferir a razoabilidade do percentual do salário penhorado, demandaria reanálise do acervo probatório. Incidência da Súmula 7/STJ.
+Precedentes.
+2. A incidência dos enunciados contidos nas Súmulas 07 e 83/STJ impede o exame do dissídio jurisprudencial na medida em que, além da falta identidade entre os paradigmas apresentados e os fundamentos que embasaram o acórdão recorrido, se a jurisprudência do STJ já se firmou no mesmo sentido do julgado hostilizado, não há conceber tenha ela contrariado o dispositivo de lei federal ou lhe negado vigência.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.063.540/SE, relator Ministro MARCO BUZZI, Quarta Turma, j. em 26/6/2023, DJe de 30/6/2023)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
