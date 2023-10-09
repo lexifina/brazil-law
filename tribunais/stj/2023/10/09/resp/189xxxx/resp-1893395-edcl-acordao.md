@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VENDA FRAUDULENTA DE IMÓVEL. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destin am-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, entendeu pela responsabilidade objetiva da administradora a que vinculada a corretora falsária, deixando evidente o caminho e conexões utilizadas. A alegação de "erro de fato" não desafia embargos de declaração, que somente se identifica com as situações de erro material, obscuridade, contradição ou omissão.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por AUXILIADORA PREDIAL LTDA. contra acórdão da Segunda Turma, que manteve decisão monocrática do Ministro Paulo de Tarso Sanseverino, que conheceu em parte do recurso especial para negar-lhe provimento.
+O aresto embargado tem a seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. VENDA FRAUDULENTA DE IMÓVEL. RESPONSABILIDADE OBJETIVA DA ADMINISTRADORA A QUE VINCULADA A CORRETORA FALSÁRIA.
+1. Grave falha na prestação dos serviços de intermediação imobiliária consubstanciada na venda fraudulenta de imóveis por corretora vinculada à Auxiliadora Predial.
+2. Não há falar em omissão ou contradição aptas a fazer nulificado o acórdão que julgou os aclaratórios, tendo o órgão julgador perpassado clara e suficientemente pelos fatos relevantes alegados pela defesa, mas concluído no sentido da responsabilidade da administradora de imóveis pela fraude cometida por uma de suas corretoras.
+3. Na forma do que se deixou ver na origem, o cenário fora bastante bem urdido pela criminosa, não havendo falar em culpa exclusiva de terceiro, porque o corretor não figura como terceiro em face da fornecedora dos serviços de corretagem.
+4. Necessário nexo de causalidade entre a gravíssima falha na prestação dos serviços de corretagem e o dano que ora se busca indenizar que não se mostra rompido.
+5. A alegada ausência de diligência por parte dos adquirentes e, assim, de uma pretensa culpa nos danos experimentados é questão que não extravasa o contexto fático probatório, de hegemônica análise da instância primeva, incidindo, na espécie, o enunciado n. 7/STJ.
+Agravo interno improvido.
+Sustenta a parte embargante que o "acórdão incorreu em relevantes erros de fato, os quais merecem ser corrigidos, até mesmo porque podem levar a solução jurídica diversa da adotada pelo v. acórdão embargado" (fl. 891). Afirma que o acórdão foi "omisso ao fato de que o crime de estelionato praticado por Rilda Barrios - o qual é fato incontroverso - rompeu o nexo de causalidade e, portanto, exclui o dever da embargante de indenizar. Este é o principal fundamento da defesa e, quanto a isso, o Tribunal a quo não teceu uma linha sequer!" (fl. 892).
+Obtempera que (fl. 893):
+11. Além disso, o acórdão do tribunal a quo persistiu omisso quanto ao fato de que os contratos forjados são muito diferentes do único contrato verdadeiro intermediado uma única vez pela franqueada da agravante - a IMOBILIÁRIA JR2 - CONSULTORIA IMOBILIÁRIA. Assim como também foi omisso ao fato de que o preço dos imóveis objeto do estelionato de Rilda era muito inferior ao valor constante nas matrículas, quase vil! E, ainda, o acórdão recorrido também continuou omisso ao fato de que os embargados foram avisados que a corretora Rilda era uma golpista, mas seguiram acreditando nela, como admitido na própria petição inicial!
+ .. .
+13. De outra parte, ao afirmar que "Havia, sim, um consumidor diante de um corretor da administradora de imóveis demandada, fornecedora de serviços imobiliários, razão por que responde ela, seja na forma do art. 932, III, do CCB, pelos atos danosos que viesse ele a, em razão de sua atividade, causar, seja na forma do art. 14 do CDC", o v. acórdão está sendo omisso ao fato de que "o consumidor" não estava diante de uma corretora da AUXILIADORA PREDIAL, mas sim diante de um corretor da IMOBILIÁRIA JR2 - CONSULTORIA IMOBILIÁRIA; e, está sendo omisso ao fato de que, ainda que tenha havido um consumidor, existia também uma segunda vítima diante de um terceiro criminoso! E o crime praticado por esse terceiro rompe o nexo de causalidade, e, portanto, afasta o dever de indenizar, ainda que a responsabilidade da empresa fosse objetiva!
+ .. .
+15. Além disso, ao afirmar que "não teriam, assim, os demandantes agido de modo desconexo ao que determinado pelos arts. 422 e 113 do CCB, razão por que o acórdão não os poderia afrontar, máxime o estreito vínculo mantido pelas conclusões do acórdão com a prova dos autos, circunstâncias que não poderiam ser sindicadas por esta Corte Superior, na forma do enunciado n. 7/STJ", o v. acórdão foi omisso ao fato de que "a pretensão recursal no sentido da pura e simples descaracterização do nexo causal não requer a revisão de fatos e provas" (AgRg no Ag 1.271.648/GO); assim como "o restabelecimento do decisum de 1º Grau não pressupõe o reexame de fatos ou provas" (AgRg no AgRg no AREsp 558.920/MG).
+16. De outra parte, ao afirmar que "esta Turma se orienta no sentido da responsabilidade da franqueadora em face da inadequação dos serviços prestados em razão da franquia. A propósito: "..Cabe às franqueadoras a organização da cadeia de franqueados do serviço, atraindo para si a responsabilidade solidária pelos danos decorrentes da inadequação dos serviços prestados em razão da franquia.." (REsp n. 1.426.578/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/6/2015, DJe de 22/9/2015)", o v. acórdão está sendo omisso ao fato de que no precedente referido não houve a prática de um crime, tal qual no caso concreto. E vale lembrar que não se considera fundamentado o acórdão que "se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida" e "se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos" (art. 489, §1º, I e V, do CPC).
+Requer, ao final, o acolhimento dos embargos declaratórios para emprestar-lhes efeitos infringentes, de modo a que seja provido o recurso especial
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VENDA FRAUDULENTA DE IMÓVEL. IMPOSSIBILIDADE DE EXAME MERITÓRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destin am-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, entendeu pela responsabilidade objetiva da administradora a que vinculada a corretora falsária, deixando evidente o caminho e conexões utilizadas. A alegação de "erro de fato" não desafia embargos de declaração, que somente se identifica com as situações de erro material, obscuridade, contradição ou omissão.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Verifica-se que o acórdão embargado, de maneira clara e fundamentada, entendeu pela responsabilidade objetiva da administradora a que vinculada a corretora falsária, deixando evidente o caminho e conexões utilizadas. A alegação de "erro de fato" não desafia embargos de declaração que, como dito acima, somente se identifica com as situações de erro material, obscuridade, contradição ou omissão.
+Na verdade, a parte embargante não se conforma com o não conhecimento do recurso especial e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
