@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A ausência de indicação clara e precisa dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+2. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por BRADESCO SEGUROS S/A,, em face de decisão da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial ante a incidência da Súmula 284 do STF.
+Irresignada, a parte manejou o presente agravo interno, no qual lança argumentos a fim de combater o retrocitado óbice.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A ausência de indicação clara e precisa dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+2. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Consoante asseverado na decisão agravada, da análise das razões recursais, denota-se que a parte recorrente não indicou com clareza os dispositivos legais que teriam sido violados, o que inviabiliza a compreensão da controvérsia e, por sua vez, caracteriza a deficiência na fundamentação do recurso, atraindo a incidência da Súmula 284 do STF, por analogia.
+Com efeito, esta Corte tem orientação no sentido de que não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal violados ou em torno dos quais haveria a divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+Nesse sentido, transcreve-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FULCRO NA ALÍNEA "C" DO ART. 105, III DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF.
+ ..
+2. A jurisprudência consolidada deste Superior Tribunal determina que na interposição do recurso especial pela alínea ""c" do permissivo constitucional é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta deste pressuposto recursal enseja deficiência na fundamentação e inviabiliza do conhecimento do apelo nobre, ante a incidência, por analogia, da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. "Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial" (..) "A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial" (AgRg no REsp 1346588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/03/2014).
+4. Agravo interno não provido. (AgInt no AREsp 887.907/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/09/2016, DJe 19/09/2016)  grifou-se
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.  ..  AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF, POR ANALOGIA. HONORÁRIOS ADVOCATÍCIOS. VALOR FIXADO POR EQUIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.  ..
+5. Não tendo sido feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, evidencia-se a deficiência na fundamentação do recurso a atrair o óbice da Súmula 284 do STF.
+6. O reexame dos critérios fáticos, sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC) é inviável em recurso especial, em virtude do óbice erigido pela Súmula nº 7 do STJ. 7. Agravo não provido. (AgRg no REsp 1543201/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 06/10/2015, DJe 09/10/2015)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMISSIBILIDADE DO APELO NOBRE. DIVERGÊNCIA JURISPRUDENCIAL. DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA DO SUPREMO TRIBUNAL FEDERAL. INTERPRETAÇÃO. INADEQUAÇÃO DA VIA ELEITA. INEXISTÊNCIA DE OUTROS VÍCIOS. EFEITOS INFRINGENTES PRETENDIDOS. IMPOSSIBILIDADE.
+1. A caracterização de omissão no julgado - no tocante ao cabimento do recurso especial pela alínea "c" do permissivo constitucional - impõe o acolhimento dos declaratórios para suprimento.
+2. A divergência jurisprudencial exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem a realização do necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. É inadmissível o recurso especial interposto pela alínea "c" do art. 105 da Constituição Federal sem a indicação expressa da norma federal a respeito da qual estaria configurado o dissídio pretoriano.  ..
+5. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes. (EDcl no AgRg no REsp 1449367/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/09/2015, DJe 30/09/2015)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA DOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF.  ..  DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).  ..
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC), ônus dos quais os recorrentes não se desincumbiram.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 591.622/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/05/2015, DJe 27/05/2015)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE AFRONTA AO ART. 535 DO CPC. OMISSÃO NÃO VERIFICADA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. MULTA POR EMBARGOS PROTELATÓRIOS. REVISÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.  ..
+2. O conhecimento do recurso especial com base em alegada divergência jurisprudencial exige a indicação dos dispositivos legais objeto da discordância interpretativa. Ausente tal requisito, incide a Súmula n. 284/STF.  ..
+6. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 119.397/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/04/2015, DJe 05/05/2015)  grifou-se
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DANOS MORAIS E MATERIAIS - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DA RÉ.
+ ..
+1.2. Ademais, a indicação do dispositivo tido como objeto da divergência jurisprudencial é imprescindível para a correta configuração do dissídio, nos termos do art. 105, III, "c", da Constituição Federal. Contudo, esta circunstância não se verifica na espécie, motivo pelo qual vislumbra-se a incidência da Súmula n. 284 do STF.
+2. "A alteração do temo inicial dos juros moratórios pelo Tribunal estadual, ainda que inexistente impugnação da outra parte, não caracteriza julgamento extra petita ou reformatio in pejus." (AgRg no Ag 1114664/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 02/12/2010, DJe 15/12/2010) 3. Agravo regimental desprovido.
+(AgRg no REsp 1403195/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/03/2014, DJe 25/03/2014)  grifou-se
+E, ainda: "A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF)" (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+Infere-se, portanto, que a agravante não apresentou qualquer argumento capaz de infirmar a decisão hostilizada, razão pela qual merece ser mantida por seus próprios fundamentos.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
