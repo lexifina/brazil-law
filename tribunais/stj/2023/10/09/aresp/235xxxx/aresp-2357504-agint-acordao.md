@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE .
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto o Tribunal a quo foi claro ao se manifestar sobre a possibilidade de chamamento ao processo e acerca da incompetência da Justiça Federal, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Consoante entendimento do STJ, reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A em face de decisão monocrática de lavra deste signatário (fls. 230/232, e-STJ), que negou provimento ao agravo em recurso especial.
+Eis o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul (fl. 65, e-STJ):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. EXPURGOS INFLACIONÁRIOS. DECISÃO SANEADORA. Litisconsórcio Passivo Necessário. A legitimidade passiva da União é matéria já controvertida na ação de conhecimento, atingindo o efeito preclusivo. Competência. Compete à Justiça Estadual o processamento do pedido de cumprimento individual de sentença coletiva que, nos autos da ação civil pública, no caso, uma vez ausente interesse da União ou de Ente Federal que justifique a remessados autos para a Justiça Federal. Assim, impõe-se a manutenção da tramitação do feito perante a Justiça Estadual. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 98/99, e-STJ.
+Interposto recurso especial com fundamento na alínea "a" do permissivo constitucional, o recorrente, ora agravante, apontou ofensa aos artigos 130, 132, 509, II, 511, 1022 do CPC/15. Sustentou, em síntese: (i) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre a alegada prejudicialidade, assim como acerca da solidariedade e possibilidade de chamamento ao processo; (ii) deve ser admitido o chamamento ao processo, ante a solidariedade dos devedores (União e BACEN).
+Sem contrarrazões (fl. 147, e-STJ), o apelo não foi admitido na origem (fls. 150/154, e-STJ), dando ensejo ao agravo (fls. 167/175, e-STJ), visando destrancar o processamento daquela insurgência, no qual o recorrente refutou os óbices aplicados pela Corte estadual.
+Em decisão monocrática de fls. 230/232 e-STJ, este signatário negou provimento ao recurso, sob os seguintes fundamentos: i) quanto à apontada violação dos artigos 489 e 1022, do CPC/15, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia; ii) não há falar em análise prejudicada, porquanto o chamamento ao processo e, por consequência, a competência da justiça federal devem ser analisadas a fim de permitir o prosseguimento do cumprimento de sentença no juízo competente; iii) consoante entendimento do STJ, reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários.
+Irresignado, o agravante interpôs agravo interno (fls. 237/248, e-STJ), no qual asseverou, em suma: a) restou configurada a negativa de prestação jurisdicional; e b) ante a condenação solidária, "se faz necessário o ingresso da União e BACEN no polo passivo da demanda" (fl. 245, e-STJ).
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação (fls. 258/259, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE .
+1. Não há falar em ofensa aos arts. 489 e 1022 do CPC/15, porquanto o Tribunal a quo foi claro ao se manifestar sobre a possibilidade de chamamento ao processo e acerca da incompetência da Justiça Federal, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Consoante entendimento do STJ, reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A irresignação não merece prosperar, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida.
+1. A apontada violação dos arts. 489 e 1022 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia acerca do chamamento ao processo e competência da Justiça Federal, de modo que não constando do acórdão recorrido os defeitos previstos no citado dispositivo do Código de Processual Civil, mas decisão adversa à pretendida pela parte agravante.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fl. 63, e-STJ):
+"Há que se considerar, assim, que, muito embora a ação civil pública, em que proferido o julgamento que a parte pretende executar, tenha tramitado junto à Seção Judiciária do Distrito Federal, tratando-se a parte ré de sociedade de economia mista, ausente, igualmente, causa de atração da competência da Justiça Federal. Nesse sentido, a jurisprudência deste Superior Tribunal de Justiça2 é unânime ao sinalizar que a competência da Justiça Federal é absoluta, ratione materia e, sendo definida quando a União, autarquias ou empresas públicas federais, forem interessadas na condição de autoras, rés, assistentes ou oponentes, nos termos do art. 109, I, da Constituição Federal o que, comprovadamente, não é o caso dos autos. Logo, não envolvendo a demanda qualquer dos sujeitos elencados no supracitado artigo e, considerando, igualmente, o enunciado da Súmula 42 do Superior Tribunal de Justiça3,compete à Justiça Comum o processamento e julgamento das causas cíveis que, como esta, envolvam sociedade de economia mista.".
+Portanto, o acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece qualquer reparo.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. ALEGADA VIOLAÇÃO AOS ARTS. 131, 165, 458, II, E 535 DO CPC/1973. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AFASTAMENTO DA MULTA APLICADA EM SENTENÇA JÁ COBERTA PELA COISA JULGADA. POSSIBILIDADE. ASTREINTES. AUSÊNCIA DE PRECLUSÃO OU OFENSA À COISA JULGADA. PRECEDENTES. PROVIMENTO NEGADO.
+1. Não se verifica a alegada violação aos arts. 131, 165, 458, II, e 535 do CPC/1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+(..)
+(AgInt no AREsp 717.668/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+2. Por fim, consoante entendimento do STJ "reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União."(AgInt no AREsp 1309643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019), como no caso dos autos.
+Aplicável a Súmula 83/STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
