@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  PREQUESTIONAMENTO.  AUSÊNCIA.  REVOLVIMENTO  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.
+1.  Não  enfrentada  no  julgado  impugnado  tese  referente  a  artigo  de  lei  federal  apontado  no  recurso  especial,  há  falta  do  prequestionamento,  o  que  faz  incidir  o  óbice  da  Súmula  282  do  STF.
+2.  A  revisão  do  entendimento  do  aresto  hostilizado  no  tocante  à  prescrição do fundo de direito  esbarra  no  óbice  da  Súmula  7  do  STJ,  uma  vez  que  o  Tribunal  de  origem  decidiu  a  questão  com  base  na  realidade  fático-probatório  dos  autos.
+3.  Agravo  interno  desprovido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  pelo SINDICATO NACIONAL DOS SERVIDORES FEDERAIS DA EDUCACAO BASICA, PROFISSIONAL E TECNOLOGICA  contra  decisão  de  minha  lavra,  proferida  às  e-STJ  fls.  274/277,  em  que  não  conheci  do  recurso  especial  em  virtude  da  incidência  das  Súmulas  282  do  STF  e  7  do  STJ.
+Rejeitados os aclaratórios (e-STJ  fls.  291/292).
+Aduz  a  parte  agravante,  em  síntese,  a  inaplicabilidade  dos  óbices  sumulares  aludidos,  bem  como  a impossibilidade, por aplicabilidade ao caso das normas do CPC/1973, de majoração da verba honorária.
+Requer,  assim,  a  reforma  da  decisão  atacada .
+É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  PREQUESTIONAMENTO.  AUSÊNCIA.  REVOLVIMENTO  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.
+1.  Não  enfrentada  no  julgado  impugnado  tese  referente  a  artigo  de  lei  federal  apontado  no  recurso  especial,  há  falta  do  prequestionamento,  o  que  faz  incidir  o  óbice  da  Súmula  282  do  STF.
+2.  A  revisão  do  entendimento  do  aresto  hostilizado  no  tocante  à  prescrição do fundo de direito  esbarra  no  óbice  da  Súmula  7  do  STJ,  uma  vez  que  o  Tribunal  de  origem  decidiu  a  questão  com  base  na  realidade  fático-probatório  dos  autos.
+3.  Agravo  interno  desprovido.
+VOTO
+O  presente  agravo  não  merece  prosperar.
+Conforme consta na decisão ora recorrida, no que toca à alegação de contrariedade do art. 219, § 1º do CPC/1973 e do art. 202, parágrafo único, do Código Civil, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ressalte-se, ainda, que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que, no mesmo recurso, seja indicada violação do art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 10/04/2017). No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4o, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso. VII - Agravo Interno improvido. (AgInt no REsp 1682293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 10/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1098633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/09/2017)
+In casu, nem sequer foram opostos declaratórios em segunda instância, não havendo que se falar em prequestionamento ficto.
+Ademais, o acórdão combatido, quando do reconhecimento da prescrição, destacou o seguinte (e-STJ fl. 98):
+Assim, os autores somente fariam jus ao reajuste com data limite em 31/12/2001, sendo que a partir da publicação da mencionada MP começou a contar o prazo prescricional de 05 anos, antes renunciado.
+Desta feita, com o ajuizamento da ação originária em 17/08/2006 o prazo prescricional foi interrompido e recomeçou a correr pelo prazo de 2,5 anos (dois anos e meio) a partir da data em que os autores foram excluídos do polo ativo daquela demanda (2006.39.00.006432-5  vide sentença de fls. 63/67).
+Em consulta ao sistema processual do TRF1, corroborada pela cópia da sentença de fls. 64/68 (destes autos), observa-se que às fls. 55 dos autos nº 2006.39.00.006432-5 foi determinada a exclusão dos recorrentes daquela demanda, sendo a decisão mantida às fls. 62/63, publicada em 16/11/2006, sem interposição de recurso. No entanto, a presente ação foi ajuizada somente em 22/09/2009, ou seja, após dois anos e meio da data em que a pretensão poderia ter sido exercida pelos apelantes.
+Configurada, portanto, a prescrição do próprio fundo de direito, vez que o reajuste postulado limitar-se-ia, em qualquer hipótese, a 31/12/2001.
+Assim, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Por fim, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) dec isão recorrida publicada a partir de 18/03/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (AgInt nos EREsp 1.539.725/DF, rel. Ministro ANTONIO CARLOS FERREIRA, julgado em 09/08/2017, DJe de 19/10/2017).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO PARCIAL DA DECISÃO AGRAVADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART. 1021, § 1º, DO CPC/2015 E ART. 259, § 2º, DO RISTJ. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. CABIMENTO. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. A decisão ora agravada não conheceu do recurso especial quanto à violação ao art. 1022 do CPC/2015 ao argumento de que  a jurisprudência desta Corte fixou-se no sentido de  não caber ao STJ, com vistas a examinar suposta ofensa ao art. 535 do CPC/73, aferir a existência ou não de omissão no Tribunal de origem acerca de matéria constitucional, sob pena de usurpação da competência do STF
+  (e-STJ fl. 446).
+2. Nas razões do presente agravo interno, contudo, o agravante não impugnou de forma específica referido fundamento, isto é, deixou de combater o não conhecimento do recurso especial em referido ponto.
+Logo, inviável o conhecimento do agravo interno, neste ponto, nos termos do art. 1021, § 1º, do CPC/2015 e do art. 259, § 2º, do RISTJ, ante o descumprimento do ônus da dialeticidade.
+3. A Segunda Seção deste Tribunal Superior, ao julgar o EREsp nº 1.539.725/DF, estabeleceu os seguintes requisitos para a fixação de honorários recursais: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+4. No presente caso restaram preenchidos referidos requisitos, sendo devida a fixação dos honorários recursais em sede de agravo em recurso especial, nos termos do art. 85, § 11, do CPC/2015.
+5. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp 1.861.307/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 25/10/2021).
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO ACERCA DA INVERSÃO DOS ÔNUS SUCUMBENCIAS. HONORÁRIOS RECURSAIS. DESCABIMENTO. EMBARGOS DECLARATÓRIOS DA UNIÃO ACOLHIDOS.
+1. A a fixação dos honorários advocatícios recursais é devida quando atendidos, cumulativamente, os seguintes pressupostos: (a) publicação da decisão recorrida na vigência do Código Fux, consoante o Enunciado Administrativo 7; (b) desprovimento ou não conhecimento do recurso; (c) a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; e (d) respeito aos percentuais previstos nos §§ 2o. e 3o. do art. 85 do Código Fux.
+2. No presente caso, não houve desprovimento do Recurso interposto, ausente, assim, um dos requisitos para a fixação dos honorários recursais.
+3. Embargos de Declaração da UNIAO acolhidos, a fim de inverter os ônus sucumbenciais, fixando-se os honorários em 10% sobre o valor atualizado da causa em favor da UNIÃO.
+(EDcl nos EDcl no AgInt no AREsp 1.601.277/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+Na hipótese em tela, atendidos os requisitos destacados, sendo certo, ainda, que a majoração se deu em patamar razoável.
+Deixo  de  aplicar  a  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015,  tendo  em  vista  que  o  mero  inconformismo  com  a  decisão  agravada  não  enseja  a  necessária  imposição  da  sanção,  quando  não  configurada  a  manifesta  inadmissibilidade  ou  improcedência  do  recurso,  por  decisão  unânime  do  Colegiado,  como  no  caso  em  análise.
+Ante  o  expo sto,  NEGO  PROVIMENTO  ao  agravo  interno.
+É  como  voto.
