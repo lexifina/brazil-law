@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/10/2023 a 09/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXEME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ARRAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DIREITO DE RETENÇÃO NO PERCENTUAL DE 20%. POSSIBILIDADE. PRECEDENTES. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. IMPOSSIBILIDADE. PRECEDENTES. JUROS DE MORA. A PARTIR DO TRÂNSITO. PRECEDENTES. SUCUMBÊNCIA MÍNIMA. SÚMULA 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Quanto à alegação de violação dos arts. 417 e 418 do CC, que tratam das arras ou sinal, observa-se que tal questão não foi discutida no acórdão recorrido e não foram opostos embargos de declaração quanto ao ponto. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Incidência da Súmula n. 211/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça permite a retenção no percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador.
+4. Quanto à taxa de fruição, nos termos da jurisprudência pacífica do STJ, é indevida a taxa de ocupação ou fr uição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja nenhum enriquecimento do comprador ou empobrecimento do vendedor (AgInt no REsp n. 2.020.258/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+5. Por fim, os juros de mora devem incidir a partir da data do trânsito em julgado, uma vez que inexiste mora anterior do promitente vendedor. Já a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso. Precedentes.
+6. A aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FFE CONSTRUÇÕES, INCORPORAÇÕES E PARTICIPAÇÕES LTDA. contra decisão monocrática de minha relatoria que apreciou recurso especial interposto com o objetivo de reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 324):
+CERCEAMENTO DE DEFESA. Não configuração. Matéria cuja apreciação prescinde de dilação probatória (art. 370 do CPC). Julgamento antecipado. Possibilidade (art. 355, I, do CPC). Preliminar afastada.
+RESCISÃO CONTRATUAL. Compromisso de compra e venda de bem imóvel. Resolução postulada pelo promitente-comprador. Distrato anterior que, no caso, não extirpa o interesse processual do consumidor. Renúncia abdicativa que não guarda eficácia legal em face do art. 53, caput, do CDC, norma jurídico de ordem público e prevalecente. Restituição das parcelas pagas. Dever jurídico e moral de reembolso. Medida que visa evitar o enriquecimento sem justa causa. Abusividade da cláusula contratual que estabelece a perda integral do montante desembolsado. Retenção de 20% dos valores pagos pelo autor a título de indenização pelas perdas e danos experimentados pela ré. Plausibilidade e adequação. Precedentes do C. STJ. Aplicabilidade das Súmulas 1 e 2 da Seção de Direito Privado desta Corte e da Súmula 543 do STJ. Sentença reformada. Recurso parcialmente provido.
+A decisão agravada negou provimento ao recurso especial do agravante (fls. 622-636).
+Embargos de declaração rejeitados (fls. 677-678).
+Nas razões do agravo interno, sustenta que houve omissão "acerca de várias teses defensivas, dentre elas a revogação da assistência judiciária gratuita, falta das condições da ação e impossibilidade de modificação da transação extrajudicial perfeita e acabada" (fl. 683).
+Ainda, defende que "o acórdão é contraditório em relação às teses de não comprovação de todos os pagamentos em favor da construtora, da impossibilidade da rescisão e indenização em favor da promitente vendedora" (fl. 683).
+Argumenta que "não houve manifestação clara e precisa no que tange à perda do sinal, cláusula penal, indenização decorrente da fruição do imóvel e taxas" (fl. 683). E, ainda, alega que há contradição relativa à incidência de correção e juros de mora, que devem ocorrer somente após o trânsito (Tema n. 1.002/STJ), e que não deve ocorrer a condenação em honorários, pois afirma que a parte contrária restou majoritariamente vencida.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou impugnação (fls. 707-713)
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REEXEME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ARRAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DIREITO DE RETENÇÃO NO PERCENTUAL DE 20%. POSSIBILIDADE. PRECEDENTES. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. IMPOSSIBILIDADE. PRECEDENTES. JUROS DE MORA. A PARTIR DO TRÂNSITO. PRECEDENTES. SUCUMBÊNCIA MÍNIMA. SÚMULA 7/STJ.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação dos arts. 489 e 1.022 do CPC.
+2. Quanto à alegação de violação dos arts. 417 e 418 do CC, que tratam das arras ou sinal, observa-se que tal questão não foi discutida no acórdão recorrido e não foram opostos embargos de declaração quanto ao ponto. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Incidência da Súmula n. 211/STJ.
+3. A jurisprudência do Superior Tribunal de Justiça permite a retenção no percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador.
+4. Quanto à taxa de fruição, nos termos da jurisprudência pacífica do STJ, é indevida a taxa de ocupação ou fr uição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja nenhum enriquecimento do comprador ou empobrecimento do vendedor (AgInt no REsp n. 2.020.258/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+5. Por fim, os juros de mora devem incidir a partir da data do trânsito em julgado, uma vez que inexiste mora anterior do promitente vendedor. Já a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso. Precedentes.
+6. A aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, tendo em vista a circunstância obstativa decorrente do disposto na Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, pois a parte não trouxe novos argumentos capazes de infirmar as teses reiteradamente ventiladas anteriormente. Ao contrário, limitou-se a repeti-las, uma vez mais, no presente recurso.
+Da detida análise dos autos, vê-se que não há omissão acerca das teses da revogação da assistência judiciária gratuita, falta das condições da ação (art. 330, III) e impossibilidade de modificação da transação extrajudicial perfeita e acabada, porquanto o Tribunal a quo asseverou que:
+a) quanto à assistência judicial gratuita (fls. 503-504):
+Excepcionalmente, quando houver prova nos autos de que tal declaração não corresponde à verdade, deve o Magistrado indeferir tal pleito, fundamentando, conforme permissivo contido no § 2º do art. 99 do CPC.
+Outrossim, interpretação em sentido oposto equivaleria à presunção de má-fé, o que não se admite, sobretudo diante da peculiaridade de ser este um país no qual mais de 80% da população em idade laboral aufere renda de até dois salários-mínimos.
+Nesse desdobrar, a declaração de impossibilidade financeira tem prevalência legal e constitutiva do direito subjetivo à gratuidade. Em tal gramatura, ante a concessão do benefício da gratuidade judiciária, cabia à ré desincumbir-se do ônus de comprovar que o autor não é financeiramente hipossuficiente.
+No caso, ausente contraprova acerca da hipossuficiência financeira declarada, a pretendida revogação do benefício equivaleria à negativa ao princípio constitucional de acesso à Justiça (art. 5º, inciso XXXV, CF).
+b) quanto à ausência do interesse de agir e da legitimidade - condições da ação - e impossibilidade de modificação da transação extrajudicial perfeita e acabada (fl. 326):
+Neste ponto, primeiramente, não há se falar em carência de ação por falta de interesse de agir, com base em anterior distrato entabulado entre as partes, mormente quando a abusividade dos seus termos serve como fundamento para a pretensão formulada na exordial.
+Com efeito, em hipótese de resolução de negócio jurídico alusivo a promessa particular de compra e venda de imóvel intentada pelo promitente-comprador, é inegável o direito subjetivo material de ser restituído dos valores pagos à ré. (grifo nosso)
+A respeito dessas teses, nota-se que não há omissão, na medida em que o Tribunal de origem manifestou-se de forma clara e fundamentada sobre as respectivas matérias. Não há que se confundir omissão com resultado contrário às pretensões da parte.
+Nesse sentido, cito:
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008; REsp 1.672.822/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017; REsp 1.669.867/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017.
+(REsp n. 1.899.698/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 2/3/2021, DJe de 16/4/2021.)
+A parte sustenta que "o acórdão é contraditório em relação às teses de não comprovação de todos os pagamentos em favor da construtora, da impossibilidade da rescisão e indenização em favor da promitente vendedora" (fl. 683).
+Observa-se que a instância ordinária apontou que:
+ ..
+o conjunto probatório produzido pelas partes nas oportunidades processuais que tiveram mostra-se suficiente à resolução do mérito".
+ ..
+Outrossim, a não configuração de mora por parte da promitente-vendedora não extirpa a juridicidade da pretensão formulada pelo promitente-comprador, tampouco o seu interesse de agir.
+ ..
+Na espécie, a previsão constante do distrato (fls. 153/153) no sentido da retenção integral dos valores pagos mostra-se abusiva, vez que submete o consumidor à desvantagem exagerada (art. 51, inciso IV, do CDC).
+Em tal gramatura, afigura-se razoável a retenção pela ré-apelante de 20% dos valores pagos pelo autor a título de indenização pelas perdas e danos experimentados em função da rescisão contratual.
+Assim, não há a alegada contradição. Ao contrário, nota-se que a origem foi clara quanto à suficiência probatória e quanto à possibilidade de a promitente compradora rescindir o contrato.
+No que toca à perda do sinal, ou arras, observa-se que tal questão não foi discutida no acórdão recorrido e não foram opostos embargos quanto ao ponto. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula n. 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito: AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022; AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022; AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.
+Com relação à taxa de fruição/ocupação, a origem destacou que se trata de lote urbano não edificado (fl. 503). Desse modo, a decisão originária não destoa da jurisprudência desta corte superior, que é pacífica ao fixar que não cabe taxa de fruição/ocupação em lote não edificado.
+A propósito, cito:
+1. Consoante a jurisprudência do Superior Tribunal de Justiça, é indevida a taxa de ocupação ou fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor.
+3. AGRAVO INTERNO CONHECIDO E DESPROVIDO. (AgInt no REsp n. 2.020.258/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+O agravante sustenta, ainda, que os juros de mora devem ocorrer após o trânsito em julgado, nos termos do Tema Repetitivo 1.002: "Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei nº 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão".
+Ocorre que a Corte bandeirante, ao manifestar-se sobre o tema, decidiu que os juros incidirão após o trânsito, ou seja, no mesmo sentido que a parte requer.
+Quanto a esse ponto, nada há a prover.
+Com relação à correção monetária, o Tribunal decidiu que incidirá a partir de cada desembolso, nos moldes da jurisprudência desta corte:
+3. O entendimento desta Corte é no sentido de que, em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso.4. Agravo interno não provido. (AgInt no REsp n. 1.988.931/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022.)
+Por fim, a aferição do percentual em que cada litigante foi vencedor ou vencido, ou a conclusão pela existência de sucumbência mínima ou recíproca das partes, é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese o enunciado 7 da Súmula/STJ (AgInt no AREsp n. 2.280.233/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+Ante o exposto, nego provimento ao recurso de agravo interno.
+É como penso. É como voto.
