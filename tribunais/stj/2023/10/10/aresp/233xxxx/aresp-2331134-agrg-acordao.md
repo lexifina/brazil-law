@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECEPTAÇÃO E USO DE DOCUMENTO FALSO. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. MINUTA DE AGRAVO QUE NÃO IMPUGNA CONCRETAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SUMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à parte da decisão que negou seguimento ao recurso especial com fundamento em recurso extraordinário julgado sob a sistemática da repercussão geral, o único recurso cabível para impugnar o tema da tese aplicada seria o agravo interno ou regimental, dirigido ao próprio Tribunal de origem, segundo previsão expressa do art. 1.030, § 2.º, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal.
+2. Quanto aos temas remanescentes, o Agravante não impugnou concreta e especificamente cada um dos fundamentos da decisão agravada, limitando-se a tecer considerações genéricas acerca da admissibilidade recursal e a repetir os argumentos do apelo nobre. Incidência da Súmula n. 182/STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO ROBERTO DA SILVA COSTA contra decisão em que não conheci de agravo em recurso especial, nos termos da seguinte ementa (fl. 481):
+"AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. MINUTA DE AGRAVO QUE NÃO IMPUGNA CONCRETAMENTE OS FUNDAMENTOS DA DECISÃOAGRAVADA. SUMULA N. 182/STJ. AGRAVO NÃO CONHECIDO." (fl. 585).
+Nas razões do agravo regimental, o Agravante defende a admissibilidade do agravo, pois teriam sido impugnados especificamente todos os fundamentos da decisão agravada e não haveria a necessidade de reexame de provas.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. RECEPTAÇÃO E USO DE DOCUMENTO FALSO. NEGATIVA DE SEGUIMENTO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CÓDIGO DE PROCESSO CIVIL. VIA RECURSAL INADEQUADA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. MINUTA DE AGRAVO QUE NÃO IMPUGNA CONCRETAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. SUMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Quanto à parte da decisão que negou seguimento ao recurso especial com fundamento em recurso extraordinário julgado sob a sistemática da repercussão geral, o único recurso cabível para impugnar o tema da tese aplicada seria o agravo interno ou regimental, dirigido ao próprio Tribunal de origem, segundo previsão expressa do art. 1.030, § 2.º, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal.
+2. Quanto aos temas remanescentes, o Agravante não impugnou concreta e especificamente cada um dos fundamentos da decisão agravada, limitando-se a tecer considerações genéricas acerca da admissibilidade recursal e a repetir os argumentos do apelo nobre. Incidência da Súmula n. 182/STJ.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não comporta provimento.
+Conforme destacado na decisão impugnada, o Tribunal de origem, no juízo de admissibilidade, decidiu: a) negar seguimento ao recurso especial, nos termos do art. 1.030, inciso I, alínea b, do Código de Processo Civil, com fundamento no Recurso Extraordinário n. 593.818/SC (Tema n. 150/STF); e b) no mais, inadmitir o recurso especial devido aos óbices das Súmula n. 284/STF e 7/STJ.
+Quanto à parte da decisão que negou seguimento ao recurso especial com fundamento em recurso extraordinário julgado sob a sistemática da repercussão geral, o único recurso cabível para impugnar o tema da tese aplicada seria o agravo interno ou regimental, dirigido ao próprio Tribunal de origem, segundo previsão expressa do art. 1.030, § 2.º, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal.
+Ressalte-se que, quanto a este ponto, é inviável a aplicação do princípio da fungibilidade, pois, diante da clareza da norma processual, não há dúvida objetiva acerca do recurso cabível, constituindo erro grosseiro a interposição do recurso inadequado.
+A propósito:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO QUE INADMITIU OS RECURSOS PARA A INSTÂNCIA EXTRAORDINÁRIA. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais.
+ .. " (AgRg nos EDcl no HC n. 807.368/RJ, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+Quanto aos temas remanescentes, o recurso especial não foi admitido pelo Tribunal de origem devido: a) à deficiência na fundamentação do recurso (Súmula n. 284 /STF); e b) à impossibilidade de reexame fático-probatório (Súmula n. 7/STJ).
+Todavia , nas razões do agravo contra essa decisão, o Agravante não impugnou concreta e especificamente cada um desses fundamentos, limitando-se a tecer considerações genéricas acerca da admissibilidade recursal e a repetir os argumentos do apelo nobre. Inclusive, segundo mencionou a decisão agravada " n o tocante à Súmula n. 284 do Supremo Tribunal Federal, como bem salientou o parecer ministerial, as razões do agravo em recurso especial foram completamente silentes".
+Em razão de o Agravante não haver rebatido concreta e especificamente cada um dos fundamentos empregados pela decisão agravada, revela-se correta a decisão que não conheceu do agravo, conforme se extrai da Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA APLICAÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+ ..
+5. Agravo regimental desprovido." (AgRg no AREsp n. 2.121.358/ES, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 27/09/2022, DJe 30/09/2022, sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto .
