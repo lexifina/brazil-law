@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 139, IV, 489, § 1º, IV, 772, III, e 773 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 781):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PEDIDO DE EXPEDIÇÃO DE OFÍCIO AO MINISTÉRIO PÚBLICO DE SERGIPE, A FIM DE QUE SEJA REALIZADA A PESQUISA POR MEIO DO SIMBA - SISTEMA DE INVESTIGAÇÃO DE MOVIMENTAÇÕES BANCÁRIAS EM NOME DA EXECUTADA. - IMPOSSIBILIDADE - SISTEMA QUE SÓ DEVE SER ACIONADO EM CASOS EXCEPCIONAIS UMA VEZ QUE ELE CONSISTE EM FERRAMENTA ELETRÔNICA REGULAMENTADA PELA INSTRUÇÃO NORMATIVA N. 03/2010 DO CNJ, DESTINADO À REQUISIÇÕES DE INFORMAÇÕES SOBRE MOVIMENTAÇÕES FINANCEIRAS, VISANDO O COMBATE DA CORRUPÇÃO E LAVAGEM DE DINHEIRO, E NÃO A LOCALIZAÇÃO DE BENS PARA A EXECUÇÃO, COMO É O CASO DO SISTEMA BACENJUD, - RECURSO CONHECIDO E IMPROVIDO - À UNANIMIDADE
+Sustenta a parte agravante que é cabível a expedição de ofício ao Ministério Público do Estado de Sergipe para a realização de pesquisa via SIMBA - Sistema de Investigação de Movimentações Bancárias, por se tratar de medida atípica que visa garantir a efetividade da execução, eis que esgotadas as medidas tradicionais para localização e expropriação de bens.
+Alega que a "consulta ao SIMBA (Sistema de Investigação de Movimentações Bancárias) visa verificar eventuais movimentações financeiras, transferência de patrimônio, fraudes etc. praticadas pela recorrida, com o fim de identificar possíveis movimentações suspeitas, até patrimônio penhorável" (fl. 794).
+Assim posta a questão, passo a decidir.
+Para melhor exame da matéria, dou provimento ao agravo e converto em recurso especial.
+Intimem-se.
+EMENTA
