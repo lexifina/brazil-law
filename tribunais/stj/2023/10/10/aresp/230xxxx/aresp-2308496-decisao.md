@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo de ALEX SALVADOR MENDIETA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 006763-42.2019.8.16.0030.
+Consta dos autos que o agravante foi condenado pela prática dos delitos tipificados nos arts. 306, § 1º, I, e 309, ambos da Lei n. 9.503/1997 - Código de Trânsito Brasileiro - CTB (conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência; e dirigir veículo automotor, em via pública, sem permissão para dirigir ou habilitação ou, ainda, cassado o direito de dirigir, gerando perigo de dano), às penas de 1 ano e 22 dias de detenção, em regime inicial semiaberto, 11 dias-multa, à razão mínima, e suspensão ou proibição de se obter habilitação para dirigir veículo automotor pelo prazo de 2 meses e 7 dias (fls. 331/334).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 445). O acórdão ficou assim ementado:
+"Apelação crime. Embriaguez ao volante e direção sem habilitação (arts. 306 e 309 do Código de Trânsito Brasileiro). Sentença condenatória. Autoria e materialidade incontestes e devidamente comprovadas nos autos. Pleito de absolvição em relação ao delito de direção sem habilitação. Não acolhimento. Réu que dirigiu alcoolizado de forma imprudente e se envolveu em acidente automobilístico em rodovia federal. Perigo concreto evidente. Condenação mantida. Dosimetria da Pena. Atenuante da confissão espontânea compensada com a agravante da reincidência. Manutenção. Precedentes do Superior Tribunal de Justiça. Pleito de substituição do regime para o aberto e da penada pena privativa de liberdade por restritivas de direitos. Impossibilidade. Réu reincidente com pena fixada acima do mínimo legal. Interpretação do art. 33, § 2º, "b" e § 3º, e 44, § 3º,do Código Penal. Manutenção integral da sentença. Recurso desprovido.
+1.É evidente o perigo de dano causado pelo réu, que, além de não possuir habilitação para dirigir e conduzir veículo automotor, conduzia-o embriagado, em alta velocidade, e se envolveu em acidente automobilístico em rodovia federal de grande movimentação.
+2. Em consonância com as diretrizes do art. 33, § 2º, alínea "c", e § 3º, do Código Penal, o recorrente deve iniciar o cumprimento da pena em regime mais gravoso, mormente porque teve as penas fixadas acima do mínimo legal" (fls. 433/434).
+Em recurso especial (fls. 452/461), a defesa apontou violação aos arts. 155, 156 e 386, V, do Código de Processo Penal - CPP, "ante a ausência de elementos necessários para a fundamentação na elevada pena de 10 salários Mínimos" (fl. 455).
+Em seguida, sustentou que o recorrente não teve diminuição de pena pelo reconhecimento da atenuante da confissão espontânea, já que ela foi compensada com a agravante da reincidência. Requer a aplicação da atenuante com redução de pena, sem a compensação com a reincidência.
+Depois, afirmou que o fato de o recorrente não possuir carteira de habilitação não é motivo para condenação pela prática do delito previsto no art. 309 do CTB.
+Ainda, aduziu cabível a fixação do regime inicial aberto para cumprimento de pena por conta da quantidade da pena aplicada e das circunstanciais judiciais favoráveis.
+Requereu a absolvição do recorrente da prática do art. 309 do CTB, a redução da pena pela aplicação da atenuante da confissão espontânea, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Contrarrazões do MINISTÉRIO PÚBLICO DO PARANÁ (fls. 464/470).
+Quanto às pretensões atinentes à dosimetria da pena, ao regime prisional e à substituição de pena privativa por restritivas de direitos, o recurso especial foi inadmitido no TJ em razão da incidência do óbice da Súmula n. 284 do Supremo Tribunal Federal - STF (deficiência de fundamentação).
+Quanto à controvérsia sobre a pena de multa, por ofensa aos arts. 155, 156 e 386, V, do CPP, o recurso especial foi inadmitido no TJ em razão da incidência do óbice das Súmulas n. 282 e 356 do STF (ausência de prequestionamento).
+No que se refere à pretensão de absolvição do delito previsto no art. 309 do CTB, o recurso especial foi inadmitido no TJ em razão da incidência do óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (reexame de provas).
+Ainda, sobre a validade da compensação da atenuante da confissão espontânea com a agravante da reincidência, o recurso teve negado seguimento com base no art. 1.030, I, "b", do Código de Processo Civil - CPC (fls. 472/474) (acórdão recorrido em consonância com Tema repetitivo n. 585/STJ).
+Em agravo em recurso especial, a defesa reproduziu as razões do recurso especial (fls. 480/496).
+Contraminuta do Ministério Público (fls. 499/502).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do agravo em recurso especial (fls. 518/520).
+É o relatório.
+Decido.
+O presente agravo em recurso especial não merece ser conhecido.
+Na espécie, a defesa deixou de impugnar de forma concreta os fundamentos da decisão de inadmissibilidade da origem, já que se limitou a afirmar que "não se trata, aqui, de mero reexame de prova" (fl. 438) e de que houve prequestionamento "do tema constante no recurso especial" (fl. 484). No mais, cingiu-se a reproduzir os termos do seu apelo nobre.
+Conforme é cediço, faz-se necessária a impugnação específica, concreta e pormenorizada dos fundamentos da decisão agravada, sob pena de vê-los mantidos.
+Na espécie, a defesa faz afirmação ampla e genérica acerca dos óbices da Súmula n. 7 do STJ e da ausência de prequestionamento, silencia-se completamente sobre a Súmula n. 284 do STF, e reproduz os termos do recurso especial.
+Nessas condições, a manifestação recursal não enfrenta as razões de decidir da decisão de inadmissibilidade do recurso especial proferida na origem, de maneira que o recurso apresentado é incapaz de demonstrar o equívoco da decisão contra a qual se insurge, mantendo-a incólume.
+Dessarte, aplicável, por analogia, a Súmula n. 182 do STJ, que dispõe ser "inviável o agravo do art. 545 do Código de Processo Civil - CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Igualmente, o art. 932, III, do Código de Processo Civil - CPC e o art. 253, parágrafo único, I, do Regimento Interno desta Corte dispõem que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Nesse sentido (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. Na modalidade do recurso previsto no art. 1.042 do CPC, "é inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes". Precedente da Corte Especial do STJ.
+2. A decisão que não admitiu o recurso especial assentou o óbice da Súmula 7 do STJ. No respectivo agravo, contudo, a parte limitou-se a arguir, genericamente, desnecessidade de reexame de matéria fático-probatória para exame da pretensão meritória.
+3. Esta Corte Superior pacificou entendimento de que a ausência de efetiva impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos da Súmula 182 do STJ.
+4. Agravo desprovido.
+(AgRg no AREsp n. 2.202.802/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. APELO RARO. INADMISSÃO. ÓBICES DAS SÚMULAS N. 07 DO STJ, 283 E 284 DO STF. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É necessário a impugnação específica, concreta e pormenorizada dos fundamentos da decisão contra a qual se insurge o recorrente, sob pena de vê-los mantidos, conforme previsão do art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, em consonância com a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. É vedado à parte sanar os vícios de impugnação à decisão agravada de origem em sede de agravo regimental, em razão do instituto da preclusão.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp 1998402/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/3/2022, DJe 21/3/2022).
+Desse modo, o presente agravo em recurso especial não ultrapassa o juízo de admissibilidade.
+Ante o exposto, com base nos arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
