@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JJ CAJURU EMPREENDIMENTOS IMOBILIÁRIOS LTDA em face da decisão acostada às fls. 488-494 e-STJ, da lavra deste signatário, em que se negou provimento a recurso especial manejado pela ora embargante.
+Nas razões dos aclaratórios (fls. 497-525 e-STJ) a construtora alegou omissão no decisum impugnado quanto aos seguintes pontos:
+a) ofensa aos arts. 11, 489 e 1022 do NCPC, porque a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional; b) não se discute violação a norma constitucional; c) a não incidência das Súmulas 5 e 7 do STJ, porque não pretende reexame de matéria fático-probatória. d) violação aos arts. 416, 417 e 418 do CC e à Lei 13.786/2018 e 416 do Código Civil, defendendo que a multa contratual é de natureza tipicamente compensatória, ou seja, cláusula penal que incide em caso de inadimplemento absoluto do contrato, e não em inadimplemento relativo, restrito ao mero e suposto atraso na conclusão das obras; e) violação ao art. 884 do CC/02, sob o argumento de que o afastamento da indenização mensal implicaria em enriquecimento sem causa do embargado; f) a não incidência da Súmula 83 do STJ em relação à correção monetária sobre os valores pagos, e a consequente afronta ao art. 405 do CC; g) a não incidência da Súmula n. 7 do ST quanto a discussão acerca da distribuição da sucumbência (art. 86, § único do CPC), afirmando ter ocorrido a sucumbência mínima da construtora (fls 497-525 e-STJ).
+Impugnação não apresentada (fls. 529 e-STJ).
+É o relatório.
+Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgInt no AREsp 1488352/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020; EDcl no AgInt no AREsp 1649618/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; EDcl no AgInt no AREsp 895.807/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/06/2020, DJe 03/08/2020; EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+No caso em tela, a embargante, sob pretexto de omissão e de deficiência de fundamentação no julgado, reedita todas as alegações lançadas nas razões do apelo especial.
+Contudo, como se sabe, os embargos de declaração são cabíveis apenas quando o provimento jurisdicional padece de omissão, contradição, obscuridade ou erro material (art. 1.022 do CPC/2015).
+Não é, portanto, o recurso cabível para as partes manifestarem a sua irresignação com o resultado do julgamento que lhes foi desfavorável.
+Como bem esclarecido por este Superior Tribunal de Justiça no julgamento dos EDcl no AgRg na AR 4471/RS, Rel. Ministro Mauro Campbell Marques, DJe 03/09/2015, "a interposição do recurso de embargos de declaração não pode se dar exclusivamente por dever funcional, é necessário que o embargante verifique com seriedade se efetivamente estão presentes os requisitos que permitem o manuseio do recurso, quais sejam: omissão, obscuridade, contradição ou erro material. A ausência dessa verificação evidencia o caráter protelatório do recurso, a exigir a aplicação da multa prevista no art. 538, parágrafo único, do CPC".
+Nesse mesmo sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO (ART. 535 DO CPC) OU ERRO MATERIAL. INEXISTÊNCIA. EFEITOS INFRINGENTES. INCOMPATIBILIDADE. NATUREZA INTEGRATIVA DO RECURSO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são inviáveis se a parte não demonstra a ocorrência de obscuridade, contradição ou omissão, a teor das disposições do art. 535 do CPC, ou ainda erro material no julgado.
+(..)
+3. Quando a parte, a pretexto de sanar supostos vícios no decisum questionado, tem por objetivo promover o reexame de matéria já decidida, evidencia-se seu inconformismo com o resultado do julgamento da causa, o que não justifica o manuseio dos embargos de declaração, que, servindo para esclarecer ou aprimorar a decisão, não se prestam ao simples propósito de sua modificação, o que é incompatível com a natureza integrativa desse recurso.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1428903/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA ESPECIAL, julgado em 17/03/2015, DJe 29/03/2016)  grifou-se
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. NÃO CONFIGURAÇÃO. JULGADO FUNDADO NA ANÁLISE DE FATOS E PROVAS. NOVO REJULGAMENTO DA CAUSA EM RESCISÓRIA. IMPOSSIBILIDADE. AÇÃO DE ÍNDOLE RESTRITA. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável no julgamento ou para rediscutir matéria já decidida. Logo, o seu não acolhimento, quando manejados nesses termos, não acarreta ofensa ao artigo 535 do Código de Processo Civil.
+(..)
+5. Agravo regimental não provido.
+(AgRg no AREsp 450787/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/04/2014, DJe 26/05/2014)  grifou-se
+Na espécie, a decisão embargada contém fundamentação clara, apta e suficiente para justificar o desprovimento do recurso especial, senão vejamos:
+2. No tocante à alegada violação ao art. 93, IX, da Constituição Federal, esta Corte possui a orientação de que a via especial é inadequada para análise de arguição de contrariedade a texto constitucional, sob pena de usurpação da competência atribuída ao STF. Precedentes:
+A propósito, ilustrativamente: AgInt no AREsp 899.863/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/04/2018, DJe 17/04/2018); e AgInt no AREsp 1206969/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/04/2018, DJe 13/04/2018).
+3. Com relação à ofensa aos arts. 11, 489 e 1022 do CPC/15, observa-se que houve no acórdão fundamentação clara, apta e suficiente para embasar o afastamento da cláusula penal moratória, que previa retenção de 20% do preço total da alienação, por importar desequilíbrio entre as partes contratantes, em prejuízo do consumidor.
+4. No que tange à reten ção das arras, o debate sobre o tema reclama debate de matéria fática e das cláusulas do contrato de promessa de compra e venda de imóvel, o que faz incidir, no ponto, as Súmulas n. 5 e 7 do STJ, cuja análise é vedada, na via eleita.
+5. Quanto ao termo inicial da correção monetária, o acórdão dirimiu a controvérsia em conformidade com a orientação firmada nesta Corte, segundo a qual, "a correção monetária não constitui um acréscimo indevido à dívida, porquanto apenas recompõe o valor real da moeda, corroído pela inflação ao longo do tempo. Sua observância prescinde, inclusive, de prévio ajuste entre as partes contratantes ou de pedido expresso nesse sentido" (AInt nos Edcl o Res 1.881.813/SP, Rel. Ministro MOURA RIBEIRO, Terceira Turma, j. 25/5/2021, DJe 28/5/2021).
+Assim, era mesmo de rigor a aplicação da Súmula n. 83 do STJ.
+Também não há falar em violação do art. 86 do CPC/15, quanto à fixação da verba honorária sucumbencial, pois, para tanto, se mostra indispensável, o reexame de matéria fático-probatória.
+Desse modo, corretamente aplicada a Súmula n. 7 desta Corte, quanto ao tema.
+Conclui-se, portanto, que: tendo a decisão embargada decidido de modo claro e fundamentado as questões postas em debate, porém, em sentido contrário aos interesses da parte embargante, não há que se falar em vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente, razão pela qual se impõe a sua rejeição.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA PROTELATÓRIA FIXADA NA ORIGEM. ART. 1.026, § 2º, DO CPC/2015. REVISÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE TERATOLOGIA.
+1. Nos termos do art. 1.022 do Códi go de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, consignou que afastar as conclusões do acórdão recorrido, o qual reconheceu o caráter protelatório do recurso, demandaria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial, de acordo com a Súmula n. 7/STJ.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.973.670/RJ, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA PETIÇÃO DE DISTINGUISHING NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TITULO EXTRAJUDICIAL - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA PARTE EXEQUENTE.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no PDist no AREsp n. 1.908.791/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+6 . Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
