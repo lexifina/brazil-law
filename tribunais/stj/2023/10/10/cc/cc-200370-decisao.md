@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por ITALSPEED AUTOMOTIVE LTDA. - EM RECUPERAÇÃO JUDICIAL envolvendo, como suscitados, o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo/SP, onde se processa a recuperação judicial da suscitante, e o r. Juízo da 17ª Vara do Trabalho de São Paulo/SP, onde tramita a Reclamação Trabalhista nº 1001340-02.2019.5.02.0717, movida por ANTONIO GONÇALVES GOMES FILHO.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio. Cita, em favor de sua tese, julgados deste STJ.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+É o relatório.
+Decisão.
+1. Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+A situação em análise, todavia, não se amolda às hipóteses previstas no referido dispositivo porquanto os r. juízos suscitados encontram-se em linha de entendimento na medida em que o r. juízo da recuperação (fls. 44/68) entendeu que o crédito sob foco tem natureza extraconcursal não havendo se falar, portanto, em conflito de competência, a teor da decisão do r. juízo laboral de fls. 39/41, de modo que, se assim entender, poderá a suscitante valer-se dos instrumentos jurídicos próprios para reformar a decisão do r. juízo laboral.
+2. Do exposto, com fundamento no art. 66, do CPC c/c Súmula 568/STJ não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Cumpra-se. Oficiem-se.
+EMENTA
