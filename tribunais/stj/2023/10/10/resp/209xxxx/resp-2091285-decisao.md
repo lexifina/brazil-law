@@ -1,0 +1,30 @@
+DECISÃO
+FELIPE LOPES ROCHA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0083635-64.2016.8.26.0050.
+Depreende-se dos autos que o réu foi condenado a 5 anos, 5 meses e 10 dias de reclusão, em regime fechado, mais 24 dias-multa, pela prática do crime previsto no art. 155, §§ 1º e 4º, I e IV, do CP.
+O Tribunal de origem negou provimento à apelação e rejeitou os embargos infringentes, ambos defensivos.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 59 do CP, ao argumento de que a pena-base foi exasperada em patamar desproporcional.
+Sustenta afronta ao art. 155, § 1º, do CP, uma vez que a majorante relativa ao repouso noturno é incompatível com a forma qualificada do furto.
+Requer seja diminuída a reprimenda na primeira fase e afastada a referida causa de aumento.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu provimento parcial.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Na primeira fase, diante da presença de duas qualificadoras (rompimento de obstáculo e concurso deagentes), uma delas foi utilizada para qualificar o crime, enquanto a outra surgiu como circunstância desfavorável, sendo adequadamente utilizada para exasperar a basilar, no caso, no índice de 1/6 (um sexto). Ademais, embora a douta sentenciante tenha destacado a má conduta social, a personalidade desvirtuada, voltada à prática de crimes patrimoniais, com clara inexistência de regeneração (o que inclusive foi admitido pelo réu em juízo, ao declarar que já havia sido condenado por 09 furtos e 01 roubo), os maus antecedentes (Certidão de distribuições criminais: Processo nº 0001567-38.2008.8.26.0050 - art. 157, § 2º, I e II, c. c art. 14, II, do CP pena julgada extinta pelo cumprimento em 05/11/2014, fls. 256/257), por si só, já justificam o incremento da reprimenda, conforme realizado pelo juízo a quo, também, em 1/6 (um sexto). Portanto, diante das circunstâncias desfavoráveis apontadas, mostrou-se razoável a fixação da basilar em 02 (dois) anos, 08 (oito) meses e vinte dias de reclusão, e pagamento de 12 (doze) dias-multa.
+ ..
+Na terceira etapa, adequado o reconhecimento da causa de aumento do repouso noturno. Nesse ponto, insta destacar que a referida causa especial de aumento de pena é de natureza eminentemente objetiva, mostrando-se suficiente, para sua configuração, que o delito tenha sido praticado durante o repouso noturno, período de maior vulnerabilidade para o bem jurídico, sendo irrelevante o fato de se tratar de estabelecimento comercial ou de residência habitada ou desabitada, bem como o fato de a vítima estar, ou não, efetivamente repousando. Aqui, cumpre, ainda, ressaltar não se desconhecer o atual Tema nº 1087, Recursos Repetitivos, da 3ª Turma do C. Superior Tribunal de Justiça, que entende, agora, modificando entendimento, que a causa de aumento do repouso noturno não incide no crime de furto na sua forma qualificada. Entretanto, o Supremo Tribunal Federal apresenta, ainda, posicionamento diverso, o que se observa, também, na 6ª Turma do próprio Superior Tribunal de Justiça  ..  Portanto, correta a exasperação no índice legal de 1/3 (um terço), perfazendo-se na pena definitiva de 05 (cinco) anos, 05 (cinco) meses e 10 (dez) dias de reclusão, e pagamento de 24 (vinte e quatro) dias-multa, no valor unitário mínimo.
+(fls. 345-348, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Relativamente ao quantum de pena estabelecido para a pena-base, a jurisprudência uníssona das Turmas que compõem a Terceira Seção entende que cabe ao magistrado observar os princípios da razoabilidade e da proporcionalidade.
+Na espécie, o acórdão recorrido levou em conta, na primeira fase da dosimetria, a qualificadora sobejante e os maus antecedentes para acrescer 4 meses de reclusão para cada uma dessas vetoriais.
+Como a reprimenda mínima prevista para o furto é de 2 anos de reclusão e a máxima, de 8 anos, é proporcional a fixação da pena-base em 2 anos e 8 meses de reclusão, ante o amplo intervalo entre os limites fixados em lei.
+No que tange à majorante relativa ao repouso noturno, esta Corte Superior firmou a sua incompatibilidade com a forma qualificada do furto no Tema Repetitivo n. 1.087:
+ ..
+1. A Terceira Seção desta Casa, no julgamento do Tema Repetitivo n. 1.087, estabeleceu que "a causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)".
+2. Na espécie, o réu foi condenado pela prática da conduta descrita no art. 155, § 1º e § 4º, I e IV, do Código Penal. Desse modo, em observância ao sistema de precedentes e à hodierna orientação do Superior Tribunal de Justiça, imperiosa a exclusão da majorante do repouso noturno da dosimetria das penas.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 778.896/SC, relator Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 21/12/2022.)
+Por conseguinte, deve ser afastada a majorante do repouso noturno em nova dosimetria da pena, que passo a recalcular.
+Fixada a sanção intermediária em 4 anos e 1 mês de reclusão mais 18 dias-multa, torna-o definitiva, haja vista o afastamento da majorante relativa ao repouso noturno.
+Diante do exposto, dou parcial provimento ao recurso especial, a fim de ajustar a pena para 4 anos e 1 mês de reclusão mais 18 dias-multa, mantidos os demais termos do acórdão atacado.
+Publique-se e intimem-se.
+EMENTA
