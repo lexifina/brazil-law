@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLAYTON OLIVEIRA FELIX contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DANOS FÍSICOS DECORRENTES DE TIRO DADO POR POLICIAL MILITAR. PRESCRIÇÃO. A pretensão à reparação civil prescreve em três anos, conforme preceitua expressamente o artigo 206, §3º, inciso V, do Código Civil. A imprescritibilidade dos direitos de personalidade não se confunde com a pretensão à sua reparação civil. Sentença mantida.
+RECURSO NÃO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1º do Decreto n. 20.910/1932, no que concerne à necessidade de aplicação da prescrição quinquenal cujo termo inicial deu-se em 26/11/2015, com o trânsito em julgado da decisão condenatória para o assistente de acusação, visto que se trata de pedido de indenização em desfavor da Fazenda Pública, trazendo a seguinte argumentação:
+Nos termos do dispositivo indicado como violado, a jurisprudência desta Corte Superior é no sentido de que é quinquenal o prazo de prescrição nas ações indenizatórias ajuizadas contra a Fazenda Pública, nos termos do art. 1º do Decreto n. 20.910/1932.
+Pelo princípio da isonomia, o mesmo prazo deve ser aplicado nos casos em que a Fazenda Pública é autora. Precedentes: REsp n. 1.840.570/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/11/2021, DJe de 23/11/2021 e AgInt no AREsp n. 1.647.056/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 31/8/2020, DJe de 16/9/2020.
+Na hipótese, o termo inicial da prescrição tem início na data do trânsito em julgado da decisão condenatório para o assistente de condenação, que no caso ocorreu em 26-11-2015  vide fls. 16/17 e 1121, logo, não há que se falar em prescrição, principalmente a trienal.
+Ora, o transito em julgado ocorrerá quando não couber mais recurso, dai porque o termo inicial só começou quando certificado o transito em julgado para o assistente da condenação em 26/11/2015. Na dicção do art. 6º, parágrafo 3º, da Lei de Introdução às Normas do Direito Brasileiro:  Chama-se coisa julgada ou caso julgado a decisão judicial de que já não caiba recurso .
+ ..
+Acerca dessa questão, o STJ já se posicionou inúmeras vezes no sentido de que a  prescrição contra a fazenda publica  - CONFORME TEMA 553 afetado em 13/06/2012 -  Aplica-se o prazo prescricional quinquenal - previsto do Decreto 20.910/32 - nas ações indenizatórias ajuizadas contra a Fazenda Pública, em detrimento do prazo trienal contido do Código Civil de 2002. (fls. 1216-1217).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Depreende-se da cópia integral do processo criminal juntado aos autos que o trânsito em julgado da condenação do corréu Rogério se deu em 24.08.2012, e não 26.11.2015 como alega o autor.
+ ..
+Entre a data do trânsito em julgado da sentença criminal condenatória e o ajuizamento da presente demanda houve o decurso de mais de 08 anos, por esta razão a pretensão do autor restou fulminada pela prescrição, tal como reconheceu a r. sentença.
+Com o reconhecimento inafastável da prescrição da pretensão do autor, fica prejudicada a análise das demais teses recursais. (fls. 1207-1210, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
