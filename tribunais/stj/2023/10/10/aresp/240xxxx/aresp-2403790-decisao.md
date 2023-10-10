@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 3.011):
+AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SENTENÇA DE EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. APELAÇÃO DO EXEQUENTE PROVIDA. APELAÇÃO ADESIVA DO ADVOGADO DOS EXECUTADOS PREJUDICADA.
+EXTINÇÃO DO PROCESSO COM APLICAÇÃO DO ARTIGO 485, VI DO CPC. FALTA DE INTERESSE DE AGIR NÃO VERIFICADA. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA PARTE. EXTINÇÃO AFASTADA. SENTENÇA ANULADA. Execução extinta com fundamento no artigo 485, inciso VI, do CPC. Todavia, restou evidente que a referida decisão foi desencadeada pela ausência de movimentação do apelante no cumprimento da determinação judicial. Caberia a aplicação do artigo 485, inciso III do CPC, que dependia do cumprimento do requisito previsto no artigo 485, §1º do CPC, qual seja, a intimação pessoal da exequente para dar andamento ao feito. Providência não tomada pelo juízo. Prejudicado o recurso adesivo interposto pelo advogado dos executados. Extinção da ação afastada em segundo grau.
+SENTENÇA ANULADA. RECURSO DO EXEQUENTE PROVIDO. RECURSO ADESIVO DO ADVOGADO DOS EXECUTADOS PREJUDICADO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 485, IV, 489, § 1º, IV, 1.007, § 4º, 1.022, II, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustentam que houve negativa de prestação jurisdicional, pois, a despeito da oposição dos embargos de declaração "apontando a omissão do acórdão quanto à apreciação da questão objetiva suscitada em sede de preliminar de recurso (ausência de comprovação e recolhimento tempestivo do preparo nos termos do art. 1007, caput do CPC) e requerendo a "anulação do julgamento ocorrido no dia 24 de outubro p.p., pois não houve a intimação do banco-embargado para recolhimento em dobro do valor do preparo recursal" (art. 1007, § 4º do CPC)", o acórdão recorrido deixou de examinar a alegação dos recorrentes (e-STJ, fl.3.049).
+Afirmam que o recorrente deixou de recolher e comprovar o preparo no ato da interposição do recurso.
+Alegam que o" recolhimento do preparo foi providenciado às fls. 2983/2984 o V. acórdão recorrido reconhece que o preparo não foi realizado na data da interposição do recurso (6.7.22), mas um dia depois (7.7.22) por meio de outra guia (de nº 220590077415188), violando assim frontalmente o disposto no art. 1007, caput do CPC" (e-STJ, fl.3052).
+Aduzem que "a C. Câmara julgadora deixou de intimar o Recorrido para que providenciasse o recolhimento em dobro do preparo e examinou o mérito do recurso de apelação, dando-lhe integral provimento. Assim procedendo, o V. acórdão recorrido afrontou literalmente o comando do art. 1007, § 4º do CPC e do artigo 485, IV do CPC" (e-STJ, fl.3.052).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Trata-se na origem de ação de execução de título extrajudicial ajuizada por Banco Tricury S/A contra Têxtil São João Clímaco Ltda e outros que foi extinta, nos termos do art. 485, VI, do Código de Processo Civil, em razão da inércia do exequente que, intimado para dar andamento ao feito, deixou de apresentar memória discriminada do débito.
+O Tribunal de origem, ao analisar a apelação do exequente, deu provimento ao recurso para anular a sentença e determinar o prosseguimento da execução, visto que não houve intimação pessoal da parte para dar andamento ao feito. Assim consignou o acórdão recorrido (e-STJ, fls.3.012/3.015):
+Recursos formalmente em ordem, devidamente processados e tempestivos. O exequente providenciou o recolhimento do preparo (fls. 2983/2984), conforme guia devidamente vinculada ao processo pelo sistema do Portal de Custas (fl. 2988). O advogado dos executados requereu o diferimento do pagamento das custas de preparo ao final.
+Nos termos do artigo 101, § 1º, do novo Código de Processo Civil combinado com o artigo 5º, inciso IV da Lei nº 11.608/2003 (aplicado por extensão), fica diferido o pagamento da taxa judiciária pelo advogado dos executados, em nome próprio, no prazo de 30 dias, contados do julgamento do recurso, sob pena de inscrição da dívida. Essa decisão viabiliza o pronto julgamento do recurso.
+Caberá ao juízo de primeiro grau fiscalizar e determinar, o recolhimento da taxa judiciária, conforme antes mencionado. A solução preconizada prestigia o julgamento do mérito do recurso e o processo justo e efetivo.
+PASSO A EXAMINAR OS RECURSOS
+Cuida-se de execução de título extrajudicial fundamentada em Nota Promissória e Contrato de Mútuo celebrado entre as partes, no valor de R$. 1.000,00 (um milhão de reais).
+O feito encontra-se em tramite desde 04/07/2000.
+Os executados solicitaram a realização de nova avaliação de imóvel penhorado nos autos, concordando com o levantamento de valores de aluguéis depositados nos autos, à favor do exequente (fls. 2484/2485).
+Em 23/06/2021, foi proferida a seguinte decisão (fl. 2498):
+"" 1 - Fls. 2262/3 e 2264/5: Indefiro, porquanto a hipótese prevista para nova avaliação no artigo 873, II do Código de Processo Civil não se confunde com meras oscilações, que, na própria narrativa do executado, é da ordem de 5%, algo que é próprio de uma economia de mercado 2 - Fls. 2273: Anote-se;
+3 - Fls. 2256: Defiro o levantamento dos alugueres depositados.
+Em quinze dias após o levantamento, deverá o credor apresentar memória discriminada do débito, encaminhando-se, então, o imóvel a novo leilão.
+Intime-se" Após, em 04/08/2021, sob fundamento de que o exequente não teria apresentado memória discriminada do débito, determinou-se o cumprimento do § 1º do artigo 485 do Código de Processo Civil (fl. 2539):
+"1 - Fls.2283: Ciência da interposição de agravo de instrumento, a que não se deu efeito suspensivo na superior instância.
+2 - Como o credor não apresentou a memória discriminada do débito, cumpra -se art. 485, § 1 º CPC."
+Através de ato ordinatório datado de 20/06/2022, publicado no Diário Oficial em 22/06/2022, deu-se ciência às partes sobre a conversão dos autos físicos para autos digitais (fls. 2541).
+Respeitado o entendimento exposto pelo juízo de primeiro grau, a r. sentença deverá ser anulada.
+A ação de execução foi extinta com base no artigo 485, inciso VI do Código de Processo Civil, sob o argumento de que não teria o exequente atendido o comando contido na decisão de fls. 2498, deixando de apresentar memória discriminada do débito (fl. 2543), ficando inerte por período de quase um ano.
+A hipótese não era de extinção do feito. Essa conclusão não podia ser extraída do processo de execução, considerando que, após a decisão proferida em 23/06/2021 (fl. 2498), houve manifestação do exequente através de pedido protocolado em 12/05/2022, como Tutela Antecipada Antecedente, distribuída sob nº 1047312-77.2022.8.26.0100.
+Além disso, assiste razão ao exequente, ao afirmar que a memória do cálculo não foi apresentada, ante a ausência de notícia nos autos sobre a expedição da guia determinada e correspondente levantamento - condição colocada na decisão de fls. 2498, para apresentação da memória de cálculo.
+Partindo-se das premissas fixadas, se o caso, caberia a aplicação do artigo 485, inciso III do CPC, que dispõe que ""o juiz não resolverá o mérito quando por não promover os atos e as diligências que lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias."" Entretanto, a aplicação do referido dispositivo legal dependia do cumprimento do requisito previsto no artigo 485, §1º do CPC, qual seja, a intimação pessoal da exequente para dar andamento ao feito.
+E, tal providência não foi tomada pelo juízo, devendo ser anulada a r. sentença, prosseguindo-se a execução em todos os seus termos.
+Confiram-se precedentes de minha relatoria na 12ª Câmara de Direito Privado, destacando-se as ementas:
+(..)
+Concluindo-se, dou provimento ao recurso para anular a r. sentença e ordenar o prosseguimento da ação de execução, que deverá retomar seu curso mantidos todos os atos de constrição realizados.
+O recurso de Agravo de Instrumento nº 2195394-42.2022.8.26.0000 será julgado simultaneamente.
+Por fim, diante do resultado do recurso do exequente, fica prejudicado o recurso adesivo interposto pelo advogado dos executados.
+Ao julgar os embargos de declaração opostos pelos recorrentes, o Tribunal estadual ainda esclareceu (e-STJ, fls. 3036.3037):
+No tocante a alegada deserção do recurso do Banco Tricury, vê-se que foi considerado o recolhimento correto do preparo conforme anotado a fls. 3.012, evidenciada a boa-fé da casa bancária ao explicitar toda a situação corrida no pagamento da guia recursal (fls. 2.990/2.993).
+Relativamente à questão de paralisação do processo e inércia do exequente, restou decidido que o exequente deve ser intimado pessoalmente para dar andamento ao feito, providência que não foi adotada.
+Na verdade, as questões suscitadas pelos embargantes, ao invés de vícios do julgado, retratam apenas a insatisfação com o julgamento realizado, o que não se presta a ser feito por esta estreita via recursal.
+Nas razões do recurso especial, buscam os recorrentes que seja determinado o recolhimento em dobro do preparo nos termos do art. 1.007, §4º, do CPC, ao argumento de que não foi realizado o devido recolhimento das custas no ato de interposição do recurso de apelação.
+Quanto à alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, não observo omissão ou obscuridade no acórdão estadual, senão julgamento contrário aos interesses do recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Ressalto que o julgador não está obrigado a responder a todos os questionamentos das partes, todavia, deve resolver o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, o que ocorreu no presente caso.
+No caso, reconheceu a Corte local que o exequente providenciou o recolhimento do preparo, conforme guia devidamente vinculada ao processo pelo sistema do Portal de Custas, de forma que reconhecida a regularidade no pagamento das custas processuais.
+Nesse contexto, rever a conclusão do acórdão recorrido, que entendeu pela regularidade no recolhimento do preparo do recurso, demandaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante o óbice contido na Súmula 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO DESERTA. INTIMAÇÃO PARA REGULARIZAÇÃO DO PREPARO. INÉRCIA DO RECORRENTE. SÚMULA N. 283/STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A Corte de origem atestou a deserção do apelo porque o apelante permaneceu inerte mesmo após a intimação para comprovar sua hipossuficiência ou o recolhimento do preparo no prazo de 5 (cinco) dias.
+2. A parte ora agravante, no recurso especial, não controverteu a motivação do acórdão do TJDFT, limitando-se a afirmar que teria sido intimado apenas para demonstrar sua hipossuficiência. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF, aplicada por analogia.
+3. Ademais, para alterar o entendimento do Tribunal de origem e concluir que o apelante não desatendeu intimação para regularizar o preparo recursal, seria necessário o reexame de fatos e provas dos autos, o que é vedado em recurso especial (Súmula n. 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.002.136/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
