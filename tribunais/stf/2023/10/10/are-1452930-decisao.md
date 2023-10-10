@@ -1,0 +1,69 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Norte, ementado nos seguintes termos:
+
+    “CONSTITUCIONAL, ADMINISTRATIVO E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL COLETIVO. SENTENÇA DE PARCIAL PROCEDÊNCIA. IMPOSIÇÃO DE TEMPO MÍNIMO DE GRATUIDADE EM ESTACIONAMENTO PRIVADO. PRETENSÃO DE NORMATIZAÇÃO JUDICIAL DA MATÉRIA JÁ AMPLAMENTE DECLARADA INCONSTITUCIONAL PELO SUPREMO TRIBUNAL FEDERAL. REGULAÇÃO PRÓPRIA A SER VEICULADA PELA UNIÃO, NA ESFERA DO DIREITO CIVIL. AUSÊNCIA DE IMPOSIÇÃO LEGAL NESTE SENTIDO. INCONSTITUCIONALIDADE DA OBRIGAÇÃO FIRMADA EM SENTENÇA. PRINCÍPIOS DA ORDEM ECONÔMICA QUE DEVEM SER INTERPRETADOS EM HARMONIA. INEXISTÊNCIA DE VIOLAÇÃO ÀS NORMAS DE DEFESA DO CONSUMIDOR. REFORMA DA SENTENÇA. PRETENSÃO DE CONDENAÇÃO POR DANO MORAL COLETIVO QUE PRESSUPÕE A EXISTÊNCIA DE ATO ILÍCITO E LESÃO INTOLERÁVEL À VALORES FUNDAMENTAIS DA SOCIEDADE. INOCORRÊNCIA. PRECEDENTES DO STF E DO STJ. CONHECIMENTO E PROVIMENTO DO RECURSO DA PARTE DEMANDADA E CONHECIMENTO E DESPROVIMENTO DO RECURSO DA PARTE AUTORA. REFORMA DA SENTENÇA PARA JULGAR TOTALMENTE IMPROCEDENTES OS PLEITOS INICIAIS” (eDOC 24 – ID: 4edfc9b8)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXII, XXXV e LIV; e 170, V, do texto constitucional.
+
+    Nas razões recursais, sustenta-se a constitucionalidade da imposição de tempo razoável de tolerância para clientes de estacionamentos privados, sob o fundamento de ser prática abusiva não permitir tempo mínimo gratuito aos usuários do estabelecimento.
+
+    Alega-se que, ao impor tal medida, a competência privativa da União é preservada, na medida em que já legislou sobre direito consumerista por meio do Código de Defesa do Consumidor, de onde se extrai a abusividade na conduta dos estacionamentos privados (eDOC 26 – ID: 6617c7d9, p. 6).
+
+    Argumenta-se que, ao deixar de debater sobre a prática abusiva em questão com fundamento na competência privativa da União para legislar sobre Direito Civil, reservando exclusivamente ao ente federado a possibilidade de discussão sobre a matéria, o acórdão inquinado acabou por afastar a possibilidade de controle pelo Poder Judiciário sobre práticas abusivas perpetradas por empresas de estacionamento privado relacionadas a controle de preços e gratuidade, em nítida ofensa ao art. 5°, XXXV, da CF” (eDOC 26 – ID: 6617c7d9, p. 5).
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor) e o conjunto probatório constante dos autos, consignou não ser possível impor aos estacionamentos privados, por meio da via judicial, tempo mínimo de permanência gratuita em seus estabelecimentos, tendo em vista ser indevida a intervenção do Estado na atividade econômica, sendo necessária a edição de lei federal para tanto. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “Em princípio, verifico que o demandado, ora Apelante, alega que há inconstitucionalidade formal e material na pretensão de impor tempo mínimo de gratuidade em estacionamento particular.
+
+    Com efeito, entendo que a pretensão, a despeito de se pautar no Código de Defesa do Consumidor e não em lei própria do Município ou do Estado, encontra-se em sentido oposto ao entendimento amplamente firmado pelo Supremo Tribunal Federal em diversos precedentes sobre a matéria.
+
+    Isto porque, a pretensão é fundamentada na necessidade de atenção às normas de proteção ao consumidor, especificamente para o fim de evitar obtenção de vantagens manifestamente excessivas, para se impor, no caso concreto, a obrigação de a sociedade empresária destinar o tempo mínimo que o órgão ministerial entende ser suficiente para a gratuidade em estacionamentos particulares.
+
+    Todavia, em relação às diversas pretensões neste sentido veiculadas por imposições gerais definidas em leis estaduais e municipais, que surgiram no sentido de controlar os preços e impor gratuidade nos estacionamentos privados, o Supremo Tribunal Federal firmou entendimento no sentido de que a regulação de preço de estacionamento é matéria de direito civil, inserindo-se na competência privativa da União para legislar (CF/88, art. 22, I), representando manifesta inconstitucionalidade declarada por aquela Suprema Corte em reiteradas oportunidades.
+
+    (...)
+
+    Como se vê, a Suprema Corte já se pronunciou de forma exaustiva sobre a matéria, tendo assentado que a regulação da cobrança pela utilização dos serviços de estacionamento privado constitui matéria de direito civil, sendo a interferência do Estado na fixação de um preço privado, salvo circunstâncias excepcionais, verdadeira intromissão inadequada no princípio da livre iniciativa, não justificável sequer frente ao suposto direito tido por violado, relativo ao consumidor.
+
+    Ao reconhecer ser a questão uma matéria eminentemente de Direito Civil, o Supremo firma que se trata, em verdade, de uma interferência direta na propriedade, a qual incumbe apenas e tão somente à União regular e restringir, não havendo conduta ilegal da Recorrente para eventual adequação por meio da presente ação civil pública, que demonstra a intenção de uma normatização judicial da matéria contrariamente à Constituição.
+
+    Não se olvide que tanto a defesa do consumidor quanto a livre iniciativa são corolários constitucionais da Ordem Econômica, devendo ser interpretados de forma conjugada e harmônica, não devendo prevalecer sobremaneira qualquer deles, motivo pelo qual não se justifica a alegação de suposta vantagem manifestamente excessiva com o tempo mínimo dado pela Recorrente em apenas 5(cinco) minutos para permanência gratuita em seu estacionamento.
+
+    Assim, verifico o equívoco na decisão recorrida a ensejar a sua reforma, com o total julgamento de improcedência do pleito inicial, vez que contrária aos precedentes do Supremo Tribunal Federal sobre a matéria” (eDOC 24 – ID: 4edfc9b8)
+
+    Inicialmente, registro que, a despeito de o acórdão ter mencionado jurisprudência do Supremo Tribunal Federal quanto à inconstitucionalidade de leis estaduais e municipais que impõem obrigações às atividades empresariais, a pretexto de atuar na defesa do consumidor, quando em verdade está-se a interferir na atividade econômica e regular matéria de direito civil, a controvérsia dos autos não foi sanada em razão da inconstitucionalidade de lei local, mas da apreciação dos pedidos à luz da legislação infraconstitucional, notadamente o Código de Defesa do Consumidor e suas disposições sobre a suposta abusividade da conduta de estacionamentos privados não fixarem tempo razoável de tolerância a seus clientes.
+
+    No ponto, traço um paralelo com a jurisprudência desta Corte quanto à desnecessidade de observância da cláusula de reserva de plenário quando o tribunal de origem não declara a inconstitucionalidade ou afasta a aplicação de norma, mas apenas interpreta a legislação infraconstitucional à luz da Constituição Federal. Nesse sentido, cito os seguintes precedentes:
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPRETAÇÃO DE NORMA. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. NÃO OCORRÊNCIA. EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA AJUIZADA POR ASSOCIAÇÃO. LIMITES SUBJETIVOS DA COISA JULGADA. AUSÊNCIA DE REPERCUSSÃO GERAL – TEMA N. 848/RG. 1. A jurisprudência do Supremo é firme no sentido de que mera interpretação de norma não viola a cláusula de reserva de plenário (CF, art. 97). 2. O Plenário do Supremo – ao apreciar o ARE 901.963 RG (Tema n. 848), ministro Teori Zavascki, DJe de 16 de setembro de 2015 – assentou a inexistência de repercussão geral da questão relativa ao alcance subjetivo da coisa julgada formada em ação civil pública ajuizada por associação. 3. Agravo interno desprovido” (ARE 1277256 AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 20.09.2023 - grifo nosso)
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. RENOVAÇÃO DE CONTRATO SEM PRÉVIA LICITAÇÃO. IMPOSSIBILIDADE. CONTROVÉRSIA QUE DEMANDA A ANÁLISE DO MATERIAL PROBATÓRIO E DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. AUSÊNCIA DE OFENSA AO ART. 97 DA CF/88. 1. Dissentir das conclusões adotadas pelo Tribunal de origem acerca da nulidade do contrato pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos, do material probatório contantes dos autos (Súmulas 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes) 3. A jurisprudência desta Corte é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes. 4. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (arts. 17 e 18, Lei nº 7.347/1985). 5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 1396893 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 22.03.2023 - grifo nosso)
+
+    Ora, o fato de o Tribunal de origem ter utilizado, ad argumentandum tantum, precedentes do Supremo Tribunal Federal que declararam a inconstitucionalidade de normas locais por invasão da competência privativa da União não implica, por si só, na declaração de inconstitucionalidade da legislação infraconstitucional pertinente (Código de Defesa do Consumidor), especialmente se considerado que não foram indicadas, nestes autos, norma estadual ou municipal que, porventura, poderia ter adentrado em matéria própria de lei federal. Há, sim, a realização de um juízo de valor, à luz da Constituição Federal, da adequação da medida pleiteada nos autos (imposição de tempo razoável de tolerância em estacionamentos privados).
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. TAXA DE PERMANÊNCIA DE ACOMPANHANTE DE PACIENTE INTERNADO EM UNIDADE HOSPITALAR. COBRANÇA. ABUSIVIDADE DECLARADA À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. EXAME DE FATOS E PROVAS E DE MATÉRIA INFRACONSTITUCIONAL:INVIABILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICES DOS VERBETES Nº 279 E Nº 636 DA SÚMULA DO STF. 1. É inviável, em recurso extraordinário, o reexame da legislação infraconstitucional e dos elementos fático-probatórios que fundamentam o acórdão recorrido. Incidência do óbice do enunciado nº 279 da Súmula do STF. 2. No caso, o Tribunal de origem, com fundamento na legislação infraconstitucional de regência e analisando o teor das provas carreadas aos autos, reconheceu a ilegalidade da cobrança realizada pela simples permanência do acompanhante nas dependências do hospital. Nota-se, entretanto, que foi ressalvada a possibilidade de cobrança dos serviços efetivamente prestados. 3. Ademais, o Supremo Tribunal Federal não admite a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa dependa da análise de normas infraconstitucionais (enunciado nº 636 da Súmula do STF). 4. Agravo regimental ao qual se nega provimento” (RE 1378636 AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 26.09.2023 – grifo nosso)
+
+    “Agravo regimental em recurso extraordinário com agravo. Administrativo. ANATEL. Norma do Decreto nº 2.338/97. Excesso. Sistema Nacional de Defesa do Consumidor. Princípio da legalidade. Necessidade de interpretação de normas infraconstitucionais. 1. A questão suscitada no recurso extraordinário não extrapola a esfera da legalidade, haja vista que sua análise demanda, necessariamente, o cotejo entre a norma do parágrafo único do art. 19 do Decreto nº 2.338/97 à luz de disposições do Código de Defesa do Consumidor (Lei nº 8.078/90). 2. É pacífica a jurisprudência da Corte de que não há violação do art. 97 da Constituição Federal quando o tribunal de origem, sem declarar a inconstitucionalidade da norma nem afastá-la com fundamento de contrariedade à Constituição Federal, se limita a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 3. Agravo regimental não provido. 4. É inaplicável o art. 85, § 11, do CPC, haja vista tratar-se, na origem, de ação civil pública (art. 18 da Lei nº 7.347/85)” (ARE 1403137 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 16.03.2023 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 10 de outubro de 2023.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
