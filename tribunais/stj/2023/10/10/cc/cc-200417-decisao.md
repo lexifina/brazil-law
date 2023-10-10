@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo da 1ª Vara do Trabalho de Governador Valadares/MG e o Tribunal de Justiça do Estado de Minas Gerais, nos autos da Ação Ordinária de Cobrança de Adicional de Insalubridade proposta contra o Município de Engenheiro Caldas/MG.
+É o breve relatório. Passo a decidir.
+O STF, no julgamento da ADI 3.395/DF, em 05.04.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus Servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Tem-se que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+A propósito:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CONFLITO INSTAURADO ENTRE A JUSTIÇA DO TRABALHO E A JUSTIÇA COMUM ESTADUAL. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL, QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. O STF, no julgamento da ADI 3.395/DF, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF/88, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+II. É firme a jurisprudência desta Corte, acompanhando o STF, no sentido de que, "se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal) (..)" (STJ, AgRg no CC 126.125/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira seção, DJe de 30/04/2014).
+VI. Agravo Regimental improvido (AgRg no CC 135.356/RN, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 6/4/2015).
+In casu, observa-se que a parte autora é servidora concursada do Município de Engenheiro Caldas/MG, exercendo a função de agente comunitário de saúde e, conforme estabelecido pelos artigos 1º, § 1º, da Lei Municipal 748/2003 (fl. 610), 2º, parágrafo único, da Lei Municipal 44/2017 (fl. 67), os servidores da referida municipalidade submetem-se ao regime estatutário, o que atrai a competência da Justiça Estadual para julgar o feito.
+Isso posto, conheço do conflito para declarar a competência do Tribunal de Justiça do Estado de Minas Gerais, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO COMUM ESTADUAL E JUÍZO TRABALHISTA. AÇÃO ORDINÁRIA. AGENTE COMUNITÁRIO DE SAÚDE. SERVIDOR REGIDO POR VÍNCULO JURÍDICO-ADMINISTRATIVO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
