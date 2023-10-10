@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por MÔNICA PIRES GAUSSMANN (MÔNICA) com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria da Des. FERNANDA GOMES CAMACHO, assim ementado:
+Compra e venda de imóvel - Resolução a pedido da adquirente sob o argumento de existência de elevada dívida de IPTU dos imóveis anterior ao negócio - Responsabilidade pelo débito que é da vendedora conforme expressa cláusula contratual - Prejuízo à adquirente não demonstrado - Inexistência de culpa da ré pelo desfazimento do negócio - Precedentes desta E. Câmara e desta E. Corte - Rescisão que decorre, pois, da vontade da compradora - Restituição de 80% das quantias pagas - Razoabilidade - Responsabilidade da autora, ademais, pelo pagamento da comissão de corretagem - Sentença mantida - Recurso desprovido. (e-STJ fl. 688)
+Nas razões do presente recurso, MÔNICA alegou violação aos arts. 489 e 1.022 do CPC; 413, 422, 475, 725, 884 do CC e 4º, 6º, III, 14, 31, 39, V, 51, IV, §1º, III, e 53 do CDC, ao sustentar que (1) o acórdão recorrido foi omisso, (2) a culpa da rescisão foi da vendedora MOMENTUM EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (MOMENTUM) pelo descumprimento do dever de informação; (3) é indevida a cobrança de "taxa de fruição" por lote não edificado; e, (4) comprovou a divergência jurisprudencial.
+Foram apresentadas contrarrazões (e-STJ fls. 797/806).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Da negativa de prestação jurisdicional (violação dos arts. 489 e 1.022 do CPC)
+MÔNICA insurgiu-se contra a falta de manifestação do acórdão recorrido quanto ao seu legítimo receio e desconforto pela grande probabilidade de perecerem os bens em debate pelo não pagamento do débito de IPTU, ou seja, os contratos serem pagos ao longo dos anos, e a qualquer momento os lotes em testilha serem penhorados e leiloados pelo Fisco Municipal (e-STJ fl. 735).
+Assegurou que, por essa razão, demonstrou o prejuízo negado pelo TJSP para declarar a sua culpa na rescisão do contrato de de compra e venda.
+Todavia, de omissão não se pode falar pois o TJSP definiu expressamente que nos exatos termos da cláusula 7.1 do contrato, os débitos relativos ao IPTU de exercícios anteriores à aquisição são de inteira responsabilidade da vendedora (fls. 50) (e-STJ fl. 689).
+Ainda foi pontuado pelo Tribunal Estadual que:
+Ora, como já observado por esta Relatora, nos autos da apelação nº 1016168-18.2021.8.26.0554, julgada em 14 de março p. passado e que trata de caso análogo, não se demonstrou a ocorrência de prejuízos para a autora decorrente da simples existência de dívidas tributárias anteriores.
+Não consta, ainda, tenha a demandante encaminhado notificação premonitória, exigindo da ré o pagamento da dívida de IPTU, sob pena de resolução do contrato.
+Assim, antes do aforamento desta ação não foi a requerida constituída em mora.
+Além do mais, não se vislumbra risco de inclusão do nome da demandante na dívida ativa, já que a vendedora é que figura como devedora perante o Fisco Municipal. (e-STJ fls. 689/690)
+Assim, inexistem os vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Afasta-se, portanto, a alegada violação.
+(2) Da culpa pela rescisão do contrato
+MÔNICA ainda defendeu a violação do art. 6º, III, do CDC, pelo Tribunal Paulista, pois como foi descumprido o dever de informar sobre os débitos fiscais dos lotes que adquiriu, a culpa pela rescisão do contrato é, objetivamente, da vendedora MOMENTUM.
+Contudo, sobre o tema, o TJSP esclareceu que não houve descumprimento do dever de informação uma vez que constou no próprio contrato entabulado entre as partes que os débitos relativos ao IPTU de exercícios anteriores à aquisição seriam de inteira responsabilidade da vendedora.
+Eis o trecho do v. acórdão recorrido:
+Em segundo lugar, vale ressaltar que não são desconhecidas desta E. Câmara as questões envolvendo as dívidas tributárias dos imóveis localizados no condomínio "Águas de Santa Bárbara Resort Residence" e que são de responsabilidade da vendedora.
+Aliás e nos exatos termos da cláusula 7.1 do contrato, os débitos relativos ao IPTU de exercícios anteriores à aquisição são de inteira responsabilidade da vendedora (fls. 50) (e-STJ fl. 689).
+Finalmente, o TJSP afirmou que incide, na espécie, pois, a regra do art. 32-A da Lei nº 13.786/2018, já que a rescisão do contrato decorre da simples desistência da adquirente (e-STJ fl. 692).
+Assim, rever a conclusão do acórdão recorrido sobre a informação do débito de IPTU constar no ajuste entre as partes e a desistência da recorrente MÔNICA, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes, o que é vedado em razão dos óbices das Súmulas nºs 5 e 7 do STJ.
+Logo, o acórdão recorrido não merece reforma quanto ao ponto.
+(3) Da taxa de fruição
+No presente inconformismo, MÔNICA também apontou a violação dos arts. 413, 884 do CC, 6º, V , 39, 51, IV, §1º, III e 53 do CDC, em razão da determinação ao pagamento da taxa de fruição pois entende que não lhe restará quase nada a ser restituído.
+Pugnou pela reforma do acórdão recorrido para o fim de determinar o afastamento da Taxa de Fruição e demais taxas, (..), sob pena de afronta ao Código de Defesa do Consumidor, na medida que representará verdadeiro "bis in idem" e flagrante enriquecimento sem causa por parte da Recorrida (e-STJ fl. 741)
+Contudo, consta do aresto impugnado que:
+Diversamente do pontuado pela recorrente, não se trata de cobrança de taxa de ocupação como forma de indenizar a contraparte privada da posse do bem e do recebimento das parcelas do preço, mas de taxa vinculada à conservação, aos melhoramentos, ao fundo de transporte e à contribuição do Clube Slim, que não compõem o preço do imóvel e são mesmo de responsabilidade da adquirente até a data do aforamento da demanda, como destacado na r. sentença e no v. acórdão prolatado por esta relatora, nos autos da Apelação nº 1031097-94.2020.8.26.0100, invocado como razão de decidir (fls. 691).
+Aliás, a sentença, mantida pelo v. acórdão, foi bem clara ao destacar que se cuidava de taxa relacionada à fruição das comodidades do empreendimento, cujo pagamento foi expressamente aceito pela adquirente (fls. 638). (e-STJ fl. 715)
+Do mesmo modo, alterar o entendimento do acórdão recorrido de que a cobrança indicada não se trata de taxa de ocupação como forma de indenizar a contraparte privada da posse do bem e do recebimento das parcelas do preço, mas sim para fruição das comodidades do empreendimento aceita por MÔNICA, demandaria, necessariamente, o indevido reexame do conjunto fático-probatório dos autos e do contrato firmado entre as partes.
+Ainda que assim não fosse, da análise das razões do recurso especial, verifica-se que os referidos fundamentos não foram impugnados, o que também atrai a incidência da Súmula nº 283 do STF, por analogia.
+O recurso, portanto, não merece ser conhecido quanto à questão.
+(4) Da divergência jurisprudencial
+Por fim, MÔNICA defendeu que a Corte Especial do STJ, no julgamento do EREsp 1.192.281/SP, firmou o entendimento no sentido de ser abusiva a cláusula constante de contratos de compra e venda de lote que impõe ao consumidor o pagamento de "taxa de conservação".
+No entanto, o recurso especial apenas traz jurisprudência que MÔNICA entende divergir do acórdão recorrido, sem, contudo, realizar o cotejo analítico entre os precedentes para comprovar, notadamente, a existência de similitude fática, elementos indispensáveis à demonstração da divergência.
+Além disso, sustentou que o TJSP contrariou o entendimento do STJ quanto à impossibilidade da cobrança de "taxa de fruição" por lote não edificado, e da retenção da taxa de corretagem quando a rescisão é motivada pelo vendedor.
+Repita-se que, na hipótese em julgamento, o TJSP explicitou que não se trata de cobrança de taxa de fruição por lote não edificado, mas de taxa de ocupação como forma de indenizar a contraparte privada da posse do bem e do recebimento das parcelas do preço (e-STJ fl. 715), o que por si só, diferencia as situações do acórdão recorrido e dos acórdãos trazidos como paradigma.
+Finalmente, como já referido, o acórdão recorrido concluiu que a rescisão do contrato firmado entre as partes decorreu da desistência de MÔNICA, e por isso julgou no seguinte sentido quanto à restituição da comissão de corretagem:
+Em razão ainda da desistência da compradora, descabido cogitar-se da restituição das quantias pagas a título de comissão de corretagem, dada a licitude da cláusula contratual que atribuiu à compradora a responsabilidade pelo pagamento de tal verba, posto que atendidos os requisitos definidos do REsp 1.599.511/SP, julgado sob o rito dos repetitivos. (e-STJ fl. 692)
+Nesse contexto, a análise da existência do dissídio é inviável, haja vista o descumprimento dos arts. 1029, §1º, do CPC/15 e 255, §§1º e 2º, do RISTJ, e a incidência dos óbices das Súmula nº 5 e 7 do STJ, que também prejudica o conhecimento do dissídio jurisprudencial pretendido.
+Nessas condições, CONHEÇO EM PARTE do recurso especial, e nessa extensão, a ele NEGO PROVIMENTO.
+Deixo de majorar os honorários advocatícios visto que não houve sua fixação em desfavor MÔNICA.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL, DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C.C. DEVOLUÇÃO DE VALORES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO DO ARTS. 489 E 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INFORMAÇÃO E CULPA PELA RESCISÃO. ALTERAÇÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7 DO STJ. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
