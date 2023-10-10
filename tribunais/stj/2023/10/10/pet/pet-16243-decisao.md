@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de petição por meio da qual José Rosa dos Santos pretende a concessão de efeito suspensivo a recurso especial interposto em face do seguinte acórdão (fl. 12):
+DUPLA APELAÇÃO CÍVEL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. DEPÓSITO INSUFICIENTE. FINALIDADE DE EXTINÇÃO DA OBRIGAÇÃO NÃO ALCANÇADA. IMPROCEDÊNCIA DA AÇÃO CONSIGNATÓRIA. ÔNUS SUCUMBENCIAIS A CARGO DO CONSIGNANTE. LIBERAÇÃO DA QUANTIA EM FAVOR DO CONSIGNANTE. HONORÁRIOS RECURSAIS.
+1. A consignação só poderá ter força de pagamento se concorrerem "em relação às pessoas, ao objeto, modo e tempo, todos os requisitos sem os quais não é válido o pagamento" (art. 336 do CC).
+2. O depósito de quantia insuficiente para a liquidação integral da dívida não conduz à liberação do devedor, ensejando a improcedência da consignatória.
+3. Comprovada a insuficiência do depósito, deve ser julgada improcedente a ação e, dentro deste enfoque, a sucumbência deve ser imputada ao Consignante.
+4. Com a improcedência da ação consignatória, a situação jurídica das partes retorna a seu status quo ante, fato que enseja a expedição de alvará para levantamento dos valores das parcelas depositadas em juízo em favor do Consignante.
+5. Quanto à 1ª apelação, diante a reforma da sentença por esta instância julgadora, descabível a majoração dos honorários sucumbenciais.
+6. Em relação à 2ª apelação, evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada. 1ª APELAÇÃO CONHECIDA E PROVIDA. SEGUNDA APELAÇÃO PREJUDICADA.
+Afirma, tão somente, que, "no caso em tela o Eminente Vice-Presidente salientou que não havia o recorrente demonstrado os requisitos que ancoram a pretensão suspensiva. Data venia, do eminente prolator da decisão não se trata de reavaliar matéria fática mas de ver aplicada a norma adequada do art. 396 do C.C.B. ao caso sub examem, tendo em vista que o E. TJ/GO negou-se a aplicá-la. De forma que não se trata de reapreciar matéria fática, mas analisar os dispositivos feridos pela decisão. Este o primeiro requisito. No tocante ao segundo requisito, Dano Irreparável, basta verificar o dano irreparável que poderá causar a decisão do Tribunal de Origem ao recorrente: no caso em exame a condenação do recorrente em honorários de sucumbência lhe trará dano irreparável com eventual cumprimento de sentença".
+Essas, em síntese, as razões que configuram o periculum in mora e o fumus boni juris.
+Assim postos os fatos, cumpre destacar que, nos termos do art. 1.029, do CPC/2015, a competência para apreciar o pedido de efeito suspensivo a recurso especial somente passa a ser do Superior Tribunal de Justiça a partir da publicação da decisão de admissibilidade, o que ainda não ocorreu, conforme afirmado pelo próprio requerente, já tendo sido, contudo, o pedido de efeito suspensivo negado pelo Tribunal de origem (fls. 58/61).
+É bem verdade que, em casos excepcionais, "é possível a concessão diretamente pelo Superior Tribunal de Justiça de efeito suspensivo a recurso especial pendente de juízo de admissibilidade na origem, quando efetivamente demonstrada, além dos requisitos próprios da tutela de urgência, situação de manifesta ilegalidade ou teratologia" (AgInt na TP 18/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 18.4.2017), o que entendo não ocorrer no presente caso.
+Com efeito, são relevantes os fundamentos adotados no acórdão recorrido, in verbis (fls. 18/19):
+(..)
+Nessa vertente, merece reforma a sentença, haja vista que na ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional.
+Deixo de determinar o complemento, conforme permissivo do caput do art. 545 do Código de Processo Civil, em razão de não ser mais possível o cumprimento da obrigação em razão da superveniência da prolatação de sentença.
+Por derradeiro, reconhecida a insuficiência do primeiro depósito, e, de consequência, sobrevindo a improcedência do pedido, resta prejudicada a análise das demais teses aventadas no duplo recurso de apelação.
+Dos ônus sucumbenciais
+Comprovada a insuficiência do depósito, deve ser julgada improcedente a ação e, dentro desse enfoque, a sucumbência deve ser imputada ao Consignante/Autor/2º Apelante (José Rosa), sob pena de infringência ao caput do art.
+85 do Código de Processo Civil, mantidos os honorários sucumbenciais em 10% (dez por cento) sobre o valor atualizado da causa.
+Dos honorários recursais
+Diante disso, quanto à 1ª apelação, diante a reforma da sentença por esta instância julgadora, descabível a majoração dos honorários sucumbenciais, prevista no art. 85, § 11, do Código de Processo Civil, em razão do provimento do recurso.
+Noutra senda, em relação à 2ª apelação, evidenciada a sucumbência recursal, impende majorar a verba honorária anteriormente fixada, conforme previsão do supramencionado dispositivo legal.
+Nesse contexto, diante do desprovimento do recurso, majoro a verba honorária fixada de 10% (dez por cento) para 15% (quinze por cento) sobre o valor da causa.
+Ademais, tal como bem registrou o Tribunal de Justiça do Estado de Goiás, ao analisar o pedido liminar de efeito suspensivo (fls. 58/61), ambos os requisitos devem estar presentes para a concessão do efeito suspensivo, o que não ocorre, claramente, no caso:
+A propósito, impõe-se registrar que o recorrente não se ocupou de demonstrar a existência da fumaça do bom direito, haja vista que as teses jurídicas por ele apresentadas, exigem uma interpretação aprofundada do direito e a reapreciação das provas, o que, frise-se, não convém seja realizada no estreito limite do juízo superficial que ora se faz.
+Por outro lado, cumpre consignar que o temor de que seja iniciada eventual execução provisória não é suficiente à caracterização do periculum in mora, posto que o referido procedimento possui mecanismos próprios para evitar prejuízos ao executado, situação esta que já desautoriza a acolhida da pretensão deduzida.
+Na presente petição o requerente não especifica o fumus boni iuris do pedido e se limita a afirmar a presença do perigo da demora no fato de ter que vir a arcar com os honorários, o que não se mostra suficiente à sua caracterização, dado que se trata de consequência natural do processo, advinda do cumprimento de sentença .
+Desse modo, como bem registrado naquela instância de origem, não se faz presente demonstração inequívoca dos requisitos para a concessão da medida de urgência (fumaça do bom direito e perigo na demora), razão pela qual deve ser indeferido o pedido liminar de atribuição de efeito suspensivo ao recurso.
+Em face do exposto, indefiro a inicial.
+Intimem-se.
+EMENTA
