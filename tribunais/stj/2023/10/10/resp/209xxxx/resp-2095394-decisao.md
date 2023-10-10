@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por SÉRGIO QUEIROZ DIAS ROSA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 464):
+EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. SINDSPREV/RJ. REPRESENTAÇÃO DOS SERVIDORES DA PREVIDÊNCIA SOCIAL. SERVIDOR PÚBLICO APOSENTADO VINCULADO AO MINISTÉRIO DA SAÚDE. ILEGITIMIDADE ATIVA AD CAUSAM. APELAÇÃO DESPROVIDA.
+I - Trata-se de Apelação Cível interposta em face de sentença que acolheu a impugnação da União Federal e julgou extinto o processo, sem resolução do mérito, na forma do art. 485, VI, do CPC. Condenação do exequente ao pagamento de honorários, fixados em 10% sobre o valor atribuído à causa, observando-se o disposto no art. 98, §3º, do CPC.
+II - O cerne da questão cinge-se a verificar se o exequente, ora apelante, enquanto médico aposentado vinculado ao Ministério da Saúde, teria legitimidade ativa ad causam para executar sentença oriunda de ação coletiva ajuizada pelo Sindicato dos Trabalhadores em Saúde, Trabalho e Previdência Social no Estado do Rio de Janeiro - SINDSPREV/RJ.
+III - O E. Superior Tribunal de Justiça, quando do julgamento do RMS nº 54.509/RJ, decidiu que o referido sindicato não possui legitimidade para a defesa do interesse de servidores vinculados à área da saúde, uma vez que seu cadastro perante o Ministério do Trabalho indica que representa apenas os trabalhadores da Previdência Social. (AgInt no RMS 54.509/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 14/11/2018).
+IV - Desta forma, os servidores públicos da área da saúde, tal como o exequente, não são representados pelo SINDSPREV/RJ, não lhes alcançando, portanto, o título formado em ação judicial coletiva ajuizada pelo referido Sindicato para o reconhecimento de direito a seus substituídos.
+V - Apelação desprovida. Honorários advocatícios majorados em 1% sobre o valor fixado na sentença, nos termos do art. 85, §11, do CPC, cuja exigibilidade encontra-se suspensa em razão da gratuidade de justiça deferida.
+Embargos de declaração rejeitados (e-STJ fls. 490/493).
+Nas suas razões, a parte recorrente aponta violação do art. 16 da Lei n. 7.347/1985 e do art. 502 do CPC/2015, sustentando, em síntese, a violação da coisa julgada e que a alegada ausência de condição da ação não foi questionada na ação de conhecimento.
+Contrarrazões às e-STJ fls. 515/520.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 538/540.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à tese de que alegada a alegada ausência de condição da ação não foi questionada na ação de conhecimento, observa-se que o Tribunal a quo não emitiu juízo de valor sobre o tema, embora suscitado nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide na espécie o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017), o que não ocorreu in casu.
+Ademais, o acórdão combatido entendeu pela ilegitimidade da parte exequente, uma vez que não abrangida pela categoria representada pelo sindicato autor da ação que engendrou o título coletivo (e-STJ fls. 461/462):
+Com efeito, o E. Superior Tribunal de Justiça, quando do julgamento do RMS nº 54.509/RJ, decidiu que o Sindicato dos Trabalhadores em Saúde, Trabalho e Previdência Social no Estado do Rio de Janeiro -SINDSPREV/RJ não possui legitimidade para a defesa do interesse de servidores vinculados à área da saúde, uma vez que seu cadastro perante o Ministério do Trabalho indica que representa apenas os trabalhadores da Previdência Social.
+ ..
+Desta forma, os servidores públicos da área da saúde, tal como o exequente, não são representados pelo SINDSPREV/RJ, não lhes alcançando, portanto, o título formado em ação judicial coletiva ajuizada pelo referido Sindicato para o reconhecimento de direito a seus substituídos.
+Assim, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
