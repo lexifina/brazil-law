@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de AMILTON SOUZA CAMPOS JUNIOR contra sentença proferida pela 1ª Vara Criminal da Comarca de Jequié, nos autos da ação penal n. 304711-37.2014.8.05.0141 e em favor de AIRTON SILVA ELOY contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, no julgamento da apelação criminal n. 0304711-37.2014.8.05.0141.
+Consta dos autos que os pacientes foram condenados pelo Juízo da 1ª Vara Criminal da Comarca de Jequié pela prática do delito previsto no artigo 316, do Código Penal, à pena privativa de liberdade de 03 (três) anos e 03 (três) meses de reclusão, a ser cumprida em regime inicial aberto, além do pagamento de 30 (trinta) dias-multa, consoante relatado à folha 26.
+Não resignado, apenas o paciente AIRTON SILVA ELOY interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 23-42.
+Em relação ao paciente AMILTON SOUZA CAMPOS JUNIOR, consta da inicial que a sentença condenatória transitou em julgado, sem a interposição de recurso.
+O impetrante alega que a sentença e o acórdão impugnado padecem de flagrante ilegalidade, consistente na exasperação da pena-base sem fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que a pena-base seja fixada no mínimo legal.
+É o relatório. DECIDO.
+Os autos não foram suficientemente instruídos, pois o impetrante não juntou aos autos a cópia do acórdão que apreciou os embargos declaração (EDCrim 0304711-37.2014.8.05.014) mencionado à folha 05, tampouco juntou cópia da sentença condenatória.
+Não obstante, em relação ao paciente AMILTON SOUZA CAMPOS JUNIOR, o impetrante aponta como autoridade coatora o Juízo de Direto da 1ª Vara Criminal da Comarca de Jequié, porquanto a sentença condenatória noticiada na petição inicial transitou em julgado sem a interposição de recurso.
+A competência do Superior Tribunal de Justiça é taxativamente estabelecida pelo artigo 105, inciso I, alínea "c", da Constituição Federal, não contemplando o processamento e julgamento de habeas corpus impetrado contra sentença de Juiz de Direito.
+A orientação firmada no âmbito desta Corte é no sentido de que constitui ônus do impetrante instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido: AgRg no HC 834755/MS, Relator Ministro REYNALDO SOARES DA FONSECA, 5ª Turma, DJ-e de DJe 14/08/2023; AgRg no HC 730.759/SP, Relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), 5ª Turma, DJ-e de 19/5/2022; AgRg no HC 660.445/MG, Relatora Ministra LAURITA VAZ, 6ª Turma, DJ-e de 03/3/2022.
+Anoto que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Por essa razão, firmou-se a jurisprudência no sentido de que é ônus do impetrante a correta instrução dos autos, no momento do protocolo da impetração ou da interposição do recurso ordinário, sob pena de não conhecimento.
+No caso, a deficiência de instrução inviabiliza a análise da questão atinente ao mérito do habeas corpus e, em relação ao paciente AMILTON SOUZA CAMPOS JUNIOR, o Superior Tribunal de Justiça não possui competência para processar e julgar habeas corpus impetrado contra sentença proferida por Juiz de Direito.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do artigo 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
