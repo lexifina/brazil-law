@@ -1,0 +1,81 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. MANDADO DE SEGURANÇA. EMPRESAS ADERENTES AO SIMPLES NACIONAL. DIFERENÇA ENTRE ALÍQUOTA INTERNA E ALÍQUOTA INTERESTADUAL – DIFAL. EXIGÊNCIA DE ANTECIPAÇÃO DA DIFERENÇA DE ALÍQUOTA DE EMPRESA OPTANTE PELO SIMPLES NACIONAL. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. TEMA 517 – RECURSO EXTRAORDINÁRIO N. 970.821/RS, COM REPERCUSSÃO GERAL. INAPLICABILIDADE. INEXISTÊNCIA DE LEI: IMPOSSIBILIDADE DE COBRANÇA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA DAS SÚMULAS NS. 279 E 280 DESTE SUPREMO TRIBUNAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Goiás:
+
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. MATÉRIA TRIBUTÁRIA. EMPRESAS ADERENTES AO SIMPLES NACIONAL. DIFERENÇA ENTRE ALÍQUOTA INTERNA E A ALÍQUOTA INTERESTADUAL (DIFAL). EXIGÊNCIA DE ANTECIPAÇÃO DA DIFERENÇA DE ALÍQUOTA DE EMPRESA OPTANTE PELO SIMPLES NACIONAL. CONSTITUCIONALIDADE DA EXIGÊNCIA RECONHECIDA PELO STF. TEMA 517, ORIUNDO DO JULGAMENTO DO RE Nº 970.821/RS COM REPERCUSSÃO GERAL. INAPLICABILIDADE AO CASO CONCRETO. INEXISTÊNCIA, NO ESTADO DE GOIÁS, DE LEI EM SENTIDO ESTRITO. IMPOSSIBILIDADE DE COBRANÇA. PRECEDENTES DO STF. 1. O Supremo Tribunal Federal, no julgamento do RE Nº 970.821/RS, Tema 517, fixou tese no seguinte sentido: ‘É constitucional a imposição tributária de diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu território devido por sociedade empresária aderente ao Simples Nacional, independentemente da posição desta na cadeia produtiva ou possibilidade de compensação dos créditos’. 2. Entretanto, para que seja possível a tributação em questão, o próprio STF cuidou de ressalvar a necessidade de previsão da exação em lei (em sentido estrito) da Unidade Federada, em atenção ao princípio da reserva legal. 3. No caso específico do Estado de Goiás, decidiu o STF, em recentes julgados, que não basta a autorização geral conferida pela Lei Complementar nº 123/2006 e a regulamentação no Decreto 9.104/2017 para autorizar a exigência do DIFAL, sendo inaplicável, para os contribuintes localizados neste Estado, a tese firmada no Tema 517, em razão da inexistência, nesta Unidade Federada, de lei específica autorizando a tributação. 4. Portanto, havendo lacuna na cadeia legislativa necessária à instituição da tributação, não é possível a exigência do DIFAL incidente nas operações de aquisição interestadual de mercadorias por empresas optantes do SIMPLES NACIONAL localizadas no Estado de Goiás, impondo-se a confirmação da sentença que concedeu a segurança para afastar a exigência do tributo. REMESSA NECESSÁRIA E APELAÇÃO CÍVEL CONHECIDAS E DESPROVIDAS” (fls. 1-2, e-doc. 10).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o inc. I do art. 150 da Constituição da República.
+
+    Salienta que o acórdão recorrido “não merece prosperar, porquanto viola frontalmente o art. 150, I, da CF, ao consignar não haver lei estadual goiana a reger o tema” (fl. 4, e-doc. 16).
+
+    Argumenta que “o STF decidiu pela constitucionalidade da cobrança do DIFAL para empresa optante do SIMPLES (...) pouco importa que a recorrida seja consumidor final ou integrante da cadeia de comercialização do produto, ele se submete ao pagamento do diferencial de alíquotas, não por força do Decreto Estadual n. 9,104/17, mas por força da própria Lei Complementar 123/06” (fl. 9, e-doc. 16).
+
+    3. O Vice-Presidente do Tribunal de origem inadmitiu o recurso extraordinário pela ausência de ofensa constitucional direta e pela incidência da Súmula n. 280 deste Supremo Tribunal (e-doc. 20).
+
+    4. No recurso extraordinário com agravo, o agravante assinala que, “no que pese um dos pontos centrais da controvérsia seja a validade do Decreto Estadual nº 9.104/17, não é a ofensa ao referido normativo que justificou a interposição do recurso extraordinário, mas sim a ofensa ao art. 150, I, da Constituição Federal, e a negativa de aplicação, por parte da Corte de Justiça local do procedente do RE 970.821/RS, pois o referido Decreto Estadual apenas regulamentou os pormenores necessários à concretização da cobrança do DIFAL - ICMS, no entanto, todo o plexo normativo que lhe dá fundamento encontra-se na Constituição Federal e, por este motivo, é incorreto dizer que há ofensa a direito local, quando, na verdade, a ofensa é direta à Carta Política” (fl. 4, e-doc. 22).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    6. O Desembargador relator dirimiu a controvérsia nesses termos:
+
+    “Cinge-se a controvérsia em dizer quanto a (in)constitucionalidade do Decreto n. 9.104/2017, que regulamenta a cobrança do DIFAL-ICMS de empresas optantes do Simples Nacional pelo Estado de Goiás (...)
+
+    Como visto, pretende o Estado de Goiás reconhecer a constitucionalidade da exigência do DIFAL de empresas optantes do SIMPLES NACIONAL que adquirem mercadorias em outros estados, conforme previsões da Lei Complementar n 123/2006 e do Decreto Estadual nº 9.104/2017, com a incidência da Tese fixada no julgamento do Tema nº 517/2006.
+
+    De fato, o entendimento desta Câmara exposto em outras oportunidades caminhava naquele sentido, reconhecendo a legalidade da cobrança.
+
+    Entretanto, recentemente, houve um amadurecimento hermenêutico acerca da questão, tendo o próprio Supremo Tribunal Federal reconhecido que, no caso específico do Estado de Goiás, não há como aplicar a referida tese, porquanto há evidente distinção entre os regimes fiscais deste Estado e daquele originário do caso paradigma (RE nº 970.821/RS). É que, no Estado de Goiás, inexiste lei (em sentido estrito) instituindo a cobrança do DIFAL.
+
+    Nesse sentido, tem-se que a Lei Complementar apenas confere autorização para que os Entes Federados instituam a cobrança do DIFAL, cabendo a estes, individualmente, no exercício da sua competência legislativa tributária, a edição de diploma normativo próprio instituindo, efetivamente, a sua incidência, o que, no âmbito do Estado de Goiás, nunca ocorreu, apenas existindo decreto regulamentador que, entretanto, não possui força para a instituição de tributo, em atenção ao princípio da reserva legal. (...)
+
+    Portanto, havendo lacuna na cadeia legislativa necessária à instituição da tributação, não é possível a exigência do DIFAL incidente nas operações de aquisição interestadual de mercadorias por empresas optantes do SIMPLES NACIONAL localizadas no Estado de Goiás, impondo-se a confirmação da sentença que concedeu a segurança para afastar a exigência do tributo” (fls. 1-7, e-doc. 10).
+
+    7. Na espécie vertente, o juízo singular concedeu a ordem, para “Afastar a aplicação do Decreto nº 9.104/2017, reconhecendo sua inconstitucionalidade e, consequentemente, afastar a cobrança do Diferencial de Alíquota do ICMS no Estado de Goiás, ante a necessidade de Lei Complementar que regule a matéria, a qual inexiste até a presente data” (fl. 8, e-doc. 4).
+
+    Esse entendimento foi mantido pelo acórdão recorrido, porque, “havendo lacuna na cadeia legislativa necessária à instituição da tributação, não é possível a exigência do DIFAL incidente nas operações de aquisição interestadual de mercadorias por empresas optantes do Simples Nacional localizadas no Estado de Goiás, impondo-se a confirmação da sentença que concedeu a segurança para afastar a exigência do tributo” (fl. 7, e-doc. 10).
+
+     A alegada ofensa ao princípio da legalidade tributária, previsto no inc. I do art. 150 da Constituição da República, quando dependente de análise prévia de legislação infraconstitucional, esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, pela qual se dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Sobre o tema, confiram-se os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E TRIBUTÁRIO. SUBSTITUIÇÃO COMPULSÓRIA DE REGIME DE RECOLHIMENTO TRIBUTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.363.688-AgR, de minha relatoria, Primeira Turma, DJe 18.5.2022).
+
+    “Em relação à ofensa aos artigos 5º, II, e 150, I, da Constituição Federal, aplica-se neste caso a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (ARE n. 1.391.073-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 14.10.2022).
+
+    8. Ainda que se pudesse superar o óbice da Súmula n. 636 deste Supremo Tribunal, o que não é possível na espécie, melhor sorte não assistiria ao agravante.
+
+    No julgamento do Recurso Extraordinário n. 970.821-RG (Tema 517), este Supremo Tribunal, após reconhecer a repercussão geral da controvérsia constitucional, fixou a tese de que “é constitucional a imposição tributária de diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu território devido por sociedade empresária aderente ao Simples Nacional, independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos” (DJe 19.8.2021).
+
+    Não é o caso, entretanto, de aplicação desse tema de repercussão geral. Na espécie, o Tribunal de origem afastou o tema e a aplicação da tese fixada, como se extrai dos seguintes trechos do acórdão recorrido:
+
+    “De fato, o entendimento desta Câmara exposto em outras oportunidades caminhava naquele sentido, reconhecendo a legalidade da cobrança.
+
+    Entretanto, recentemente, houve um amadurecimento hermenêutico acerca da questão, tendo o próprio Supremo Tribunal Federal reconhecido que, no caso específico do Estado de Goiás, não há como aplicar a referida tese, porquanto há evidente distinção entre os regimes fiscais deste Estado e daquele originário do caso paradigma (RE nº 970.821/RS). É que, no Estado de Goiás, inexiste lei (em sentido estrito) instituindo a cobrança do DIFAL.
+
+    Nesse sentido, tem-se que a Lei Complementar apenas confere autorização para que os Entes Federados instituam a cobrança do DIFAL, cabendo a estes, individualmente, no exercício da sua competência legislativa tributária, a edição de diploma normativo próprio instituindo, efetivamente, a sua incidência, o que, no âmbito do Estado de Goiás, nunca ocorreu, apenas existindo decreto regulamentador que, entretanto, não possui força para a instituição de tributo, em atenção ao princípio da reserva legal” (fl. 6, e-doc. 10).
+
+    9. Rever o entendimento adotado pelo Tribunal de origem quanto à cobrança do diferencial de alíquota de imposto sobre circulação de mercadorias e serviços de empresa optante pelo Simples Nacional com o atendimento do requisito da legalidade estrita (instituição por lei da exigência) demandaria a análise dos dados relativos à legislação infraconstitucional goiana. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie vertente, a Súmula n. 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+     “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ICMS.DIFAL. AQUISIÇÃO DE PRODUTO OU SERVIÇO POR CONSUMIDOR FINAL. TEMA 1.093 DA RG. INVIABILIDADE. LC 87/96 E LEGISLAÇÃO LOCAL. SÚMULAS 279/STF E 280/STF. 1. É inviável a aplicação do Tema 1.093 da sistemática da repercussão geral no presente caso, tendo em vista que, no paradigma, a controvérsia estava centrada nas operações e prestações a consumidor final não contribuinte do ICMS, hipótese diversa da presente, em que o consumidor final é contribuinte do tributo. 2. Dissentir das conclusões adotadas demandaria o reexame do material probatório constante dos autos e da legislação infraconstitucional pertinente à questão, providência vedada nesta fase processual (Súmulas 279 e 280/STF). Precedente. 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento, com a aplicação da multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.021, § 4°, do CPC” (RE n. 1.425.064-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 17.5.2023).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ICMS-DIFAL. DIFERENCIAL DE ALÍQUOTA. OPERAÇÕES INTERESTADUAIS ENVOLVENDO CONSUMIDOR FINAL CONTRIBUINTE DO IMPOSTO QUE ADQUIRE BENS DESTINADOS AO ATIVO FIXO OU AO USO PRÓPRIO. CONTROVÉRSIA DE NATUREZA CONSTITUCIONAL. ENUNCIADO Nº 279 DA SÚMULA DO STF: NÃO INCIDENTE NO CASO. EXIGÊNCIA DE LEI COMPLEMENTAR. PRECEDENTES. 1. É constitucional a controvérsia relativa à necessidade, ou não, de edição de lei complementar visando a cobrança do ICMS–DIFAL nas operações interestaduais envolvendo consumidores finais contribuintes do imposto que adquirem bens destinados ao ativo fixo ou permanente e ao seu próprio uso ou consumo. Inaplicável, na espécie, o óbice do enunciado nº 279 da Súmula do STF. 2. À luz da Emenda Constitucional nº 87, de 2015, é imprescindível a edição de lei complementar para exigir o ICMS-DIFAL de consumidor final, contribuinte do ICMS, em operações interestaduais de aquisição de bens destinados ao ativo fixo ou permanente e ao seu próprio uso ou consumo. 3. Entendimento em harmonia (i) com o Tema RG nº 517, quando somente se demonstrou possível a cobrança do ICMS-DIFAL das empresas aderentes ao Simples Nacional em virtude da existência de autorização na Lei Complementar nº 123, de 2006, e (ii) com o Tema RG nº 1.093 e a ADI nº 5.469/DF, quando se decidiu pela imprescindibilidade de lei complementar para cobrança do ICMS-DIFAL em operações interestaduais envolvendo consumidores finais não contribuintes do imposto. 4. Agravo regimental provido, para reformar a decisão agravada e dar provimento ao recurso extraordinário, concedendo a segurança pleiteada” (RE n. 1.385.852-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 5.6.2023).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ICMS. DIFERENCIAL DE ALÍQUOTAS. ALEGAÇÃO DE NÃO CONTRIBUINTE DE ICMS-DIFAL. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. HONORÁRIOS ADVOCATÍCIOS MAJORADOS AO MÁXIMO LEGAL EM DESFAVOR DA PARTE RECORRENTE, CASO AS INSTÂNCIAS DE ORIGEM OS TENHAM FIXADO, NOS TERMOS DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL, OBSERVADOS OS LIMITES DOS §§ 2º E 3º E A EVENTUAL CONCESSÃO DE JUSTIÇA GRATUITA. MANIFESTO INTUITO PROTELATÓRIO. AGRAVO INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO” (RE n. 1.319.021-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 14.12.2022).
+
+    Nada há prover quanto às alegações do agravante.
+
+    10. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 10 de outubro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
