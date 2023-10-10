@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento ao agravo interno, para dar provimento ao recurso especial, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. DIREITO AMBIENTAL. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. LEI N. 9.783/99. INAPLICABILIDADE AOS ENTES ESTADUAIS E MUNICIPAIS. PROVIMENTO DO AGRAVO INTERNO.
+I - Na origem, trata-se de execução fiscal ajuizada por entidade estadual. Na sentença, julgou-se extinta a execução em virtude da prescrição. No Tribunal a quo, a sentença foi mantida.
+II - No julgamento do Recurso Especial 1.115.078/RS, sob a sistemática dos recursos repetitivos, adotou-se o entendimento de que a Lei n. 9.873/99 - cujo art. 1º, § 1º, prevê a prescrição intercorrente - não se aplica às ações administrativas punitivas desenvolvidas por estados e municípios, pois o âmbito espacial da aludida Lei limita-se ao plano federal, nos termos de seu art. 1º.
+III - Nesse caso, portanto, nos procedimentos de infração administrativa dos Estados que não apresentem regra própria, não é cabível prescrição intercorrente, não sendo aplicável a previsão do Tema n. 328 /STJ.
+IV - Na hipótese dos autos, inexistindo norma local sobre a aplicação da prescrição intercorrente, inaplicável a prescrição intercorrente prevista na Lei n. 9.873/99.
+V - Agravo interno provido para dar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto contra decisão que conheceu parcialmente e, nessa parte, negou provimento a recurso especial fundado no art. 105, III, a, da Constituição da República, interposto contra acórdão do Tribunal de Justiça de Minas Gerais que negou provimento à apelação da parte recorrente, assim ementado:
+APELAÇÃO CÍVEL -EMBARGOS À EXECUÇÃO FISCAL -MULTA AMBIENTAL -PRESCRIÇÃO INTERCORRENTE -PROCESSO ADMINISTRATIVO PARALISADO POR MAIS DE CINCO ANOS -DECRETO N. 20.910/32 -RECONHECIMENTO.
+- A regra de prescritibilidade no Direito brasileiro é exigência dos princípios da segurança jurídica e do devido processo legal, o qual, em seu sentido material, deve garantir efetiva e real proteção contra o exercício do arbítrio, com a imposição de restrições substanciais ao poder do Estado em relação à liberdade e à propriedade individuais, entre as quais a impossibilidade de permanência infinita do poder persecutório do Estado".(STF, RE 636886, Relator: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 20/04/2020).
+- Constatado que o processo administrativo para imposição de multa ambiental ficou sem andamento por mais de cinco anos, deve ser reconhecida a ocorrência da prescrição intercorrente, pela incidência da regra geral da prescrição, contida no Decreto n. 20.910/32.
+A decisão ora recorrida conheceu parcialmente do recurso especial e, nesta extensão, negou-lhe provimento, apresentando os seguintes fundamentos:
+" ..
+Quanto a questão de fundo, o acórdão recorrido, reconhecendo a ocorrência da prescrição assim se pronunciou à fl. 116:
+Com efeito, como bem pontuado na sentença, no presente caso "a infração ocorreu em 22/08/2008, o executado foi intimado em 22/08/2008 e apresentou defesa, conforme documentos às ff. 40/19" (dos autos de origem) (..) por "outro lado, a defesa apresentada pelo executado em 2008 somente foi apreciada no ano de 2017, ou seja, quase 09 anos após, conforme parecer de ff. 50 e 74/75(dos autos de origem), que, aliás, não possui nenhuma informação no relatório acerca de eventual suspensão do processo administrativo, a fim de justificar essa demora."
+Desse modo, comprovada a paralisação do processo administrativo pelo período mencionado acima, efetivamente deve ser reconhecida a prescrição, uma vez que não se pode admitir que o sujeito passivo permaneça indefinidamente à mercê da atividade estatal, situação que não se coaduna com a regra do direito brasileiro, que é a prescrição, balizada pela razoável duração do processo, princípio constitucional com previsão no art. 5º, LXXVIII.
+O Superior Tribunal de Justiça, no julgamento do REsp. n. 1.115.078/RS, julgado sob o rito dos recursos repetitivos firmou a tese, correspondente ao Tema 328, no sentido de que é de três anos o prazo para a conclusão do processo administrativo instaurado para se apurar a infração administrativa ("prescrição intercorrente").
+Assim, tendo o acórdão recorrido consignado que o processo administrativo demorou quase nove anos para ser concluindo, sem qualquer informação acerca de eventual suspensão, o reconhecimento da prescrição encontra-se em harmonia com a tese firmada no Tema 328."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+" ..
+No caso, mediante Embargos de Declaração tempestivamente opostos em face do acórdão proferido pela colenda 19ª Câmara Cível do egrégio Tribunal de Justiça de Minas Gerais, a recorrente demonstrou que o acórdão embargado foi omisso quanto aos seguintes fundamentos:
+1) O ordenamento jurídico mineiro não possui previsão constitucional ou legal de prescrição intercorrente.
+2) A prescrição é matéria administrativa cujo interesse é próprio de cada ente político.
+A recorrente também demonstrou em sede de embargos de declaração as seguintes contradições:
+1) O Acórdão, ao entender aplicável a regra estabelecida no Decreto 20.910/32 é contraditório quanto ao entendimento firmado pelo STJ que, analisando o recurso especial repetitivo 1.122.577/SP, assentou que o prazo prescricional não fluiria durante a tramitação do processo administrativo;
+2) A aplicabilidade da súmula 467 do STJ é incompatível com a decretação da prescrição intercorrente, sendo contraditória sua menção no acórdão e o não provimento da apelação.
+ .. "
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO AMBIENTAL. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. LEI N. 9.783/99. INAPLICABILIDADE AOS ENTES ESTADUAIS E MUNICIPAIS. PROVIMENTO DO AGRAVO INTERNO.
+I - Na origem, trata-se de execução fiscal ajuizada por entidade estadual. Na sentença, julgou-se extinta a execução em virtude da prescrição. No Tribunal a quo, a sentença foi mantida.
+II - No julgamento do Recurso Especial 1.115.078/RS, sob a sistemática dos recursos repetitivos, adotou-se o entendimento de que a Lei n. 9.873/99 - cujo art. 1º, § 1º, prevê a prescrição intercorrente - não se aplica às ações administrativas punitivas desenvolvidas por estados e municípios, pois o âmbito espacial da aludida Lei limita-se ao plano federal, nos termos de seu art. 1º.
+III - Nesse caso, portanto, nos procedimentos de infração administrativa dos Estados que não apresentem regra própria, não é cabível prescrição intercorrente, não sendo aplicável a previsão do Tema n. 328 /STJ.
+IV - Na hipótese dos autos, inexistindo norma local sobre a aplicação da prescrição intercorrente, inaplicável a prescrição intercorrente prevista na Lei n. 9.873/99.
+V - Agravo interno provido para dar provimento ao recurso especial.
+VOTO
+O agravo interno merece provimento.
+De fato, esta Corte adota o posicionamento de que , nos procedimentos de infração administrativa dos Estados que não apresentem regra própria, não é cabível prescrição intercorrente, não sendo aplicável a previsão do Tema n. 328 /STJ.
+No julgamento do Recurso Especial 1.115.078/RS, sob a sistemática dos recursos repetitivos, adotou-se o entendimento de que a Lei n. 9.873/99 - cujo art. 1º, § 1º, prevê a prescrição intercorrente - não se aplica às ações administrativas punitivas desenvolvidas por estados e municípios, pois o âmbito espacial da aludida Lei limita-se ao plano federal, nos termos de seu art. 1º. No ponto, cabe ressaltar que o referido entendimento não se restringe aos procedimentos de apuração de infrações ambientais, na forma da pacífica jurisprudência do STJ (AgInt no REsp 1.608.710/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 28/08/2017; AgRg no AREsp 750.574/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 13/11/2015).
+Neste sentido, são os seguintes precedentes:
+PROCESSUAL CIVIL. DIREITO AMBIENTAL. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. INFRAÇÃO ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de execução fiscal. Na sentença, julgou-se extinta a execução em virtude da prescrição. No Tribunal a quo, a sentença foi mantida.
+II - Conforme a jurisprudência deste Superior Tribunal de Justiça, nos procedimentos de infração administrativa dos Estados que não apresentem regra própria, não é cabível prescrição intercorrente, não sendo aplicável a previsão do Tema n. 328 /STJ.
+III - Na hipótese dos autos, inexistindo norma local sobre a aplicação da prescrição intercorrente, aplicável o Decreto-Lei n. 20.910/1932, iniciando-se a contagem do prazo prescricional após o término do processo administrativo que culminou com a multa administrativa, conforme o enunciado n. 467 da Súmula do STJ, que dispõe: "Prescreve em cinco anos, contados do término do processo administrativo, a pretensão da Administração Pública de promover a execução da multa por infração ambiental." Nesse sentido: AgInt nos EDcl no REsp n. 1.893.478/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; REsp n. 1.193.998/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 23/6/2015, DJe de 1/7/2015; AgRg no AgRg no AREsp n. 596.376/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/12/2015, DJe de 5/2/2016.
+IV - Agravo interno improvido.
+(AgInt no REsp 2020900/MG; Relator Ministro Francisco Falcão; Segunda Turma; julgado em 15/12/2022; DJe 19/12/2022)
+PROCESSUAL CIVIL. ADMINISTRATIVO. MULTA. ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. LEI N. 9.783/99. INAPLICABILIDADE AOS ENTES ESTADUAIS E MUNICIPAIS. PRESCRIÇÃO AFASTADA. I - Primeira Seção deste Superior Tribunal de Justiça, no julgamento do recurso especial repetitivo n. 1.115.078/RS (Rel. Min. Castro Meira, DJe de 24/3/2010), processado nos moldes do art. 543-C do CPC/73, consignou no bojo do voto a inaplicabilidade da Lei n. 9.873/1999 às ações administrativas punitivas desenvolvidas por Estados e Municípios, em razão da limitação do âmbito espacial da lei ao plano federal, nos termos de seu art. lº.
+II - Entendimento firmado consolidado no julgamento do recurso especial repetitivo 1.115.078/RS que não se restringe aos procedimentos de apuração de infrações ambientais.
+III - Agravo interno improvido. (AgInt no REsp n. 1.608.710/PR, Relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/8/2017, DJe de 28/8/2017.)
+Na presente hipótese, trata-se de uma execução fiscal instaurada pela Fundação Estadual do Meio Ambiente do estado de Minas Gerais; sendo, portanto, uma entidade estadual, não lhe é aplicada a tese fixada no Tema 328 dos recursos repetitivos, no qual se decidiu que é de três anos o prazo para a conclusão do processo administrativo instaurado para se apurar a infração administrativa ("prescrição intercorrente") - REsp. n. 1.115.078/RS.
+Nesse caso, mostra-se correta a irresignação d a recorrente, já que, sem previsão legal, não é possível reconhecer a ocorrência da prescrição intercorrente nos processos administrativos locais.
+Ante o exposto, dou provimento ao agravo interno para dar provimento ao recurso especial.
+É o voto.
