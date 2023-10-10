@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RONIELY SOARES SANTOS, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O recorrente foi preso em temporariamente e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 662-672.
+No presente recurso ordinário, o recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar. Pondera, neste sentido, que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, bem como que possuiria condições pessoais favoráveis.
+Sustenta que o Tribunal de origem acrescentou fundamentos para a manutenção da prisão preventiva, o que entende que tornaria nulo o decreto e ilegal a prisão preventiva.
+Requer, ao final, a revogação da prisão preventiva, sem prejuízo da imposição de medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+A liminar foi indeferida.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, no parecer de fls. 727-729.
+É o relatório.
+Decido.
+Na hipótese, a segregação cautelar do recorrente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, seja pela forma na qual o delito foi em tese praticado, consistente em homicídio qualificado, com emprego de recurso que impediu a defesa da vítima, no qual o recorrente executou a vítima com diversos disparos de arma de fogo, inclusive depois de a vítima estar caída, em razão de uma discussão acerca do derramamento de bebidas em uma lanchonete; seja em razão de o recorrente ostentar diversos registros por delitos semelhantes, circunstâncias que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas, tudo a demonstrar a indispensabilidade da imposição da segregação cautelar. em virtude do fundado receio de reiteração delitiva.
+Nesse sentido: HC n. 746.144/BA, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 13/4/2023; AgRg no HC n. 802.845/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023; AgRg no HC n. 792.071/MS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 19/4/2023; AgRg no HC n. 795.867/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/4/2023; DJe de 24/4/2023; AgRg no RHC n. 178.042/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023.
+Quanto à alegação de inovação da fundamentação da prisão preventiva no acórdão recorrido, verifico que a prisão preventiva se justifica em razão da gravidade concreta da conduta supostamente perpetrada evidenciada pelo modus operandi empregado na conduta, conforme o decreto prisional primevo, cujos fundamentos permanecem válidos.
+Esses fatos são suficientes para justificar a medida, e o acréscimo de informação pela Corte estadual, no sentido de que o recorrente ostenta outros registros criminais, em nada enfraquece ou afasta a necessidade da prisão, tampouco tem o condão de tornar nulo o julgado.
+Deve-se ressaltar, ainda, que a presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+Ante o exposto, com fulcro no art. 34, inciso XVIII, alínea "b" do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+ EMENTA
