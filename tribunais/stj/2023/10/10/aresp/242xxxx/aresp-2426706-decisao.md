@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo interposto por GAFISA S.A. e GRAND PARK - PARQUE DAS ARVORES EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que as agravantes interpuseram recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fls. 383-384):
+EMENTA - PROCESSO CIVIL. AGRAVO INTERNO NA APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVELADQUIRIDO NA PLANTA. SENTENÇA DE PARCIAL PROCEDÊNCIA. CESSAÇÃO DA MORA PELO "HABITE-SE". DESCABIMENTO. TERMO AD QUEM. DATA DAEFETIVA ENTREGA DAS CHAVES. APELO PARCIALMENTE PROVIDO. JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O STJ e, julgamento sobre a sistemática dos Recursos Repetitivos firmou tese no sentido de que "No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp. repetitivo n. 1729593/SP. Tema n. 996, Rel. Ministro MARCO AURÉLIO BELLIZZE,SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 27/09/2019).
+2. Descabida a pretensão de comprovação de cumprimento dos prazos da obra apenas com o registro do habite-se.
+3. Mora da construtora que tem início a partir da data contratual prevista, já contado o prazo de tolerância, até a entrega das chaves.
+4. Agravo Interno Conhecido e Improvido.
+Sem embargos de declaração.
+No recurso especial, as recorrentes aduzem que o acórdão contrariou as disposições contidas nos artigos 373, I, e 86 do CPC.
+Sustentam, em síntese, que "a respeitável decisão merece ser reformada, visto que sequer houve atraso na entrega do imóvel a fim de caracterizar a incidência dos lucros cessantes, eis que a obra fora devidamente concluída em Dezembro/2010, conforme se comprova pelo HABITE-SE às fls. 193, ou seja, dentro do prazo de tolerância de 180 (cento e oitenta) dias previsto no contrato -estando a unidade disponível para entrega desde a referida data -bem como a Ata de Instalação do Condomínio às fls. 195/196, que ocorreu em Abril/2011, dentro do prazo previsto para imissão na posse, que deveria ocorrer em Junho/2011" (fl. 447).
+Alegam, ainda, que "verifica-se que a indenização por danos materiais é cabível somente nos casos em já houve comprovadamente perda material ou quando certamente se deixará de ganhar futuramente (lucros cessantes), visto que o dano material não se baseia em meras expectativas, tampouco deve ser presumido, necessitando, dessa forma, ser comprovado, o que não ocorreu no caso. Inobstante tal fato, ainda assim, repise-se que não restaram comprovados os alegados danos materiais, não havendo como se vislumbrar de forma expressa e quantificada, seja documental ou narrativamente, nenhuma perda patrimonial decorrente dos fatos narrados pela parte ora Recorrida" (fl. 448).
+Por fim, requerem o reconhecimento da sucumbência recíproca.
+Foram oferecidas contrarrazões ao recurso especial (fls. 554-568).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 570-573), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 609-622).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+A jurisprudência desta Terceira Turma é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes.
+A propósito, cito a ementa do julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA C/C INDENIZAÇÃO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DEVOLUÇÃO DOS VALORES PAGOS NA INTEGRALIDADE. JUROS DE MORA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. ENRQUECIMENTO SEM CAUSA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. LUCROS CESSANTES E REEMBOLSO INTEGRAL. SÚMULA 568/STJ. HONORÁRIOS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação rescisória c/c indenização.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. Consoante a jurisprudência desta Corte, resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, com incidência dos juros de mora a partir da citação. Precedentes.
+5. Reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.178.302/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO DO CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES PRESUMIDOS. BASE DE CÁLCULO. PERCENTUAL DE 0,5% SOBRE O VALOR DO IMÓVEL. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. RAZOABILIDADE DO VALOR. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. APLICAÇÃO DA PENA POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Incidência da Súmula n.º 83 do STJ.
+2. No caso, o acolhimento da tese recursal de que o aluguel fixado em 0,5% sobre o valor do imóvel seria desarrazoado, e ensejaria o enriquecimento sem causa da parte recorrida, encontra óbice na Súmula n.º 7 do STJ.
+3. A litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.015.049/PA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+No caso dos autos, o Tribunal de origem, ao analisar a controvérsia, assim se manifestou (fl. 386):
+Analisando os fundamentos do presente recurso entendo que a agravante não apresentou argumentos suficientemente aptos a desconstituir a decisão recorrida, inexistindo motivos para reconsideração da decisão agravada. Vejamos.
+O Superior Tribunal de Justiça já pacificou entendimento em sede de Recurso Especial julgado sob a sistemática de recurso repetitivo, segundo o qual, "No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp. repetitivo n.1729593/SP. Tema n. 996, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019,DJe 27/09/2019).
+A decisão monocrática foi bem clara ao não acolher a alegação de que o atraso na entrega do imóvel se deu por culpa do consumidor em virtude de sua inadimplência. Ficou assentado que o agravado estava quite com suas obrigações contratuais na data em que o imóvel deveria ter sido entregue (dezembro de 2010), já se levando em consideração o período de tolerância contratual de 180 dias.
+Quanto a alegação de que o habite-se foi expedido em dezembro de 2010 e, portanto, estaria comprovado a ausência de mora, também não prospera vez que a jurisprudência pátria é clara que a simples expedição do "habite-se" não é suficiente para comprovar a entrega do imóvel, como quer fazer crer o agravante:
+ ..
+Nesse contexto, ficou demonstrado que o imóvel só foi entregue ao autor/agravado, em 31 de outubro de 2011 (Id.13057292 - p. 4 e 5), caracterizando-se, de forma clara, o inadimplemento contratual dos agravantes o que enseja o dever de indenizar conforme determinado pela decisão atacada.
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula 568/STJ, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ademais, a alegação de que não houve atraso na entrega da obra requer, necessariamente, o reexame de fatos e provas, o que é vedado a esta Corte, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ.
+Por fim, a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica também em reexame de matéria fático-probatório, incidindo a Súmula n. 7/STJ (AgInt no REsp n. 1.995.734/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
