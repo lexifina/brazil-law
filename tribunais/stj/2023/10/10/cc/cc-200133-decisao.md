@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 1ª Vara Descentralizada do Bairro Novo (Sítio Cercado) do Foro Central da Comarca de Curitiba/PR, como suscitante, e a 6ª Vara Federal da Seção Judiciária do Paraná, a suscitada, nos autos de ação proposta contra instituição de ensino superior privada e a União, com o pleito de ordem assecuratória de expedição e registro de diploma de curso superior.
+A ação foi originariamente proposta perante a Justiça Federal, que declinou da competência após afastar o interesse da União na lide. O magistrado estadual, por sua vez, ressaltando tratar-se de ação objetivando a obtenção de diploma de formação superior, entendeu aplicável o entendimento firmado pelo STF no Tema 1154 de sua Repercussão Geral, pelo que suscitou o presente incidente processual.
+O conflito foi inicialmente distribuído à Segunda Seção desta Corte e, logo após manifestação do Ministério Público Federal, restou reconhecida a competência da Primeira Seção.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao tema de fundo, verifica-se da petição inicial ostentar a ação subjacente típica pretensão de obtenção de diploma de formação no curso superior de psicologia, em razão do descredenciamento da instituição de ensino. É o que deixam ver os seguintes trechos da vestibular:
+O requerente conclui na modalidade presencial o seu curso superior de Bacharel em Psicologia junto à instituição FACEL - FACULADE DE ADMINISTRAÇÃO, CIÊNCIAS, EDUCAÇÃO E LETRAS, em 09.04.2016, conforme certidão de conclusão de curso em anexo.
+(..)
+Ocorre, Excelência, que a requerida foi descredenciada pelo MEC por "medida de supervisão" em 23.10.2019, e, consequentemente, só ocasionou ainda mais prejuízos aos alunos que estudaram e estudavam na referida instituição de ensino.
+Depois do descredenciamento, a instituição encerrou suas atividades, e os seus representantes simplesmente sumiram, e o MEC não indicou nenhuma instituição de ensino receptora. (fl. 9)
+Ao final, pede a parte autora a condenação da União em obrigação de fazer consistente na "indicação da IES ou IFES que emitirá o diploma do requente", além de dano moral, dentre outras providências.
+A moldura delineada pela vestibular evidencia, como se nota, ser aplicável ao caso sub judice o entendimento firmado pelo STF no RE 1.304.964, no qual firmada a seguinte tese:
+Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização.
+O entendimento exarado pela Suprema Corte ratifica a compreensão consolidada na Súmula 570/STJ, segundo a qual "Compete à Justiça Federal o processo e julgamento de demanda em que se discute a ausência de ou o obstáculo ao credenciamento de instituição particular de ensino superior no Ministério da Educação como condição de expedição de diploma de ensino a distância aos estudantes". Nesse mesmo sentido:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. AÇÃO PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR. DECLARAÇÃO DE VALIDADE DE DIPLOMA. TEMA 1.154/STF. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS MODIFICATIVOS.
+I - Trata-se de embargos de declaração opostos contra acórdão que negou provimento a agravo interno interposto contra decisão que, no âmbito de conflito negativo de competência instaurado entre o Juízo de Direito da 1ª Vara Cível de Birigui/SP e o Juízo Federal da 2ª Vara de Araçatuba - SJ/SP, nos autos de ação movida por particular contra instituições privadas de ensino superior, objetivando a regularização de registro de diploma, declarou competente o Juízo estadual.
+II - O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 1.304.904/SP, submetido à sistemática da repercussão geral, estabeleceu a compreensão de que compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização (Tema n. 1.154).
+III - Nesse panorama, recentemente, o STJ aderiu ao entendimento prestigiado pelo STF, passando a deliberar sobre a competência do Juízo federal para apreciação das demandas concernentes à expedição de certificados por entidades de ensino superior.
+IV - Evidenciada que a hipótese dos autos, que discute a validade de diploma, é análoga ao respectivo precedente da Suprema Corte, compete ao Juízo federal solucionar a lide.
+V - Embargos de declaração acolhidos.
+(EDcl no AgInt no CC n. 178.566/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 22/3/2023, DJe de 24/3/2023).
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a causa a 6ª Vara Federal da Seção Judiciária do Paraná, ora suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
