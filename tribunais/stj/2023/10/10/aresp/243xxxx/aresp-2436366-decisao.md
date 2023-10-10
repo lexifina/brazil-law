@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interposto por WELLINGTON ROBSON AUGUSTO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial aviado com fulcro na alínea "a" do permissivo constitucional e interposto contra o acórdão prolatado na Apelação Criminal n. 152 8779-51.2021.8.26.0228.
+Os autos dão conta de que o recorrente foi condenado, nos termos do art. 155, § 4º, inc. I e IV, do Código Penal (furto duplamente qualificado), à pena de 2 anos e 4 meses de reclusão, em regime aberto, substituída por penas restritivas de direitos consistentes em prestação de serviços à comunidade e prestação pecuniária (e-STJ fls. 115/125).
+As seguintes condutas foram imputadas ao recorrente (e-STJ fl. 117):
+ ..  em 27 de novembro de 2021, por volta das 5h25, nas dependências de uma obra localizada na rua Gaspar de Lemos, 106, Carrão, nesta Capital, durante o período de calamidade pública e durante o repouso noturno, mediante rompimento de obstáculo consistente na violação do cadeado do portão da obra, agindo em concurso e com identidade de propósitos com outros dois indivíduos não identificados, subtraiu, para proveito comum, 02 serras elétricas, da marca Makita, avaliadas em R$ 200,00 cada, 02 furadeiras elétricas, uma avaliada em R$ 400,00 e outra avaliada em R$ 800,00, 01 rolo de cabo de condução de energia, avaliado em R$ 250,00, e 01 bolsa contendo em seu interior diversas ferramentas, avaliada em R$ 200,00, em prejuízo da vítima Elizabeth Mendes Araújo Miyashiro.
+Interposta apelação pelo órgão acusatório, o recurso foi parcialmente provido. Esta é a ementa do acórdão (e-STJ fl. 180):
+Furto duplamente qualificado: art. 155, § 4º, inc. I e IV, do Cód. Penal. Apelação: Acusação. Materialidade e autoria não impugnadas: provas bastantes para a condenação. Pena-base: acréscimo de 1/6. Manutenção, por antecedentes. Agravante do estado de calamidade pública: não incidência, ausente o nexo de causalidade. Majorante do repouso noturno: inaplicabilidade (STJ/Tema 1087). Regime aberto: readequação ao semiaberto, diante dos antecedentes (STJ). Medidas alternativas: não cabimento (art. 44, III, Cód. Penal). Recurso parcialmente provido, para readequação do regime ao semiaberto e afastar a substituição da pena de reclusão por medidas restritivas de direitos.
+Os embargos de declaração opostos pela defesa foram rejeitados.
+No recurso especial, o recorrente alega que o acórdão afronta, de forma literal, os arts. 33, 44 e 59, todos do Código Penal. Afirma ser cabível o regime inicial aberto e a substituição da reprimenda corporal, como fixado na sentença condenatória.
+Contrarrazões às e-STJ fls. 225/229.
+Inadmitido o apelo extremo, os autos foram encaminhados a esta Corte em virtude do presente agravo.
+Contraminuta às e-STJ fls. 247/250.
+Opina o Ministério Público Federal pelo não conhecimento do recurso especial (e-STJ fl. 264).
+É o relatório. Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+DO MODO CARCERÁRIO INICIAL
+A defesa se insurge contra o agravamento para o regime semiaberto unicamente com lastro na gravidade em abstrato do delito e na reincidência do recorrente, sendo que a opinião do julgador sobre a gravidade em abstrato da infração não é fundamento idôneo para a fixação de regime mais severo do que o previsto em lei, conforme o entendimento dos artigos invocados e o firmado nas Súmulas n. 440 deste Superior Tribunal de Justiça e 718 e 719 do Pretório Excelso.
+Acrescenta que o crime cometido, no caso, é delito "de pequeno potencial ofensivo, mero furto, e o crime foi cometido sem violência ou grave ameaça à pessoa, e em condições ordinárias ao delito" (e-STJ fl. 218); portanto seria desproporcional o agravamento do regime para o semiaberto, assim como haveria violação ao princípio da individualização da pena.
+Sobre o tema, assim se manifestou o acórdão recorrido (e-STJ fl. 184, grifei):
+No tocante ao regime, com todo respeito, embora pela pena arbitrada fosse o caso de aberto, a condenação pretérita por tráfico (fls. 33/34) justifica prevaleça o semiaberto.
+Nesse sentido:
+ ..  2. Na hipótese, estabelecida a sanção corporal definitiva em patamar inferior a 4 anos de reclusão e verificada a circunstância judicial desfavorável (maus antecedentes), de fato, o regime inicial semiaberto é o cabível para o cumprimento da pena privativa de liberdade, nos termos do art. 33, § 2º, alíneas "b" e "c", do Código Penal.  ..  STJ: AgRg no AREsp 1.260.173, 5ª Turma, rel. Min. Ribeiro Dantas, j. 7.8.2018 (www.stj.jus.br).
+Da leitura do excerto acima, observa-se que, ao contrário do que alega a defesa, o regime mais gravoso não foi alvitrado com lastro na gravidade do delito ou na reincidência do recorrente; mas, sim, na existência de circunstância judicial do art. 59 do Código Penal considerada desfavorável (maus antecedentes). Logo, por estarem as razões recursais dissociadas do que efetivamente se mostra dos autos, o caso é de incidência da Súmula n. 284/STF, que obsta o conhecimento do recurso no ponto.
+Ainda que não fosse o caso de aplicação do óbice ao conhecimento acima referido, não seria hipótese de concessão de ofício da ordem de habeas corpus, como será explicado adiante.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis.
+Na hipótese, em que pese a pena ser inferior a 4 anos, a existência de circunstância judicial desfavorável justifica a fixação de regime inicial mais gravoso, no caso, o semiaberto.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. DOSIMETRIA. ART. 1º, INCISO I, DO DECRETO-LEI N. 201/1967. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA ACERCA DAS CIRCUNSTÂNCIAS JUDICIAIS DA CULPABILIDADE, MOTIVOS E CIRCUNSTÂNCIAS DO CRIME. EXISTÊNCIA DE JUSTIFICATIVA PARA MAJORAÇÃO DA PENA PELAS CONSEQUÊNCIAS DO CRIME. REDIMENSIONAMENTO DA PENA. PENA ABAIXO DE 4 ANOS. REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme o posicionamento desta Corte no sentido da possibilidade de estabelecimento de regime inicial mais gravoso do que aquele indicado pelo quantum de pena estabelecido, quando presentes uma ou mais circunstâncias judiciais desfavoráveis, ex vi do art. 33, §§2º e 3º, do Código Penal, como na hipótese.
+2. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 544.801/RO, de minha relatoria, Sexta Turma, julgado em 6/10/2020, DJe de 13/10/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. DOSIMETRIA. PENA-BASE. PERSONALIDADE DO AGENTE. ILEGALIDADE CONSTATADA. REGIME FECHADO. PENA IGUAL A UM ANO DE RECLUSÃO. REGIME SEMIABERTO ADEQUADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+ ..
+VI - Conforme o disposto no artigo 33, § 3º, do Código Penal, em relação ao regime inicial para o resgate da reprimenda, além do quantum da pena, também deve haver a análise das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+VII - In casu, consoante consta na decisão agravada, considerando o quantum de pena estabelecido (01 (um) ano de reclusão), bem como a existência de circunstâncias judiciais desfavoráveis, o regime mais gravoso sequente, qual seja, o semiaberto, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º do Código Penal.
+Agravo regimental desprovido.
+(AgRg no HC n. 688.856/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 7/12/2021, DJe de 15/12/2021.)
+DA SUBSTITUIÇÃO DA REPRIMENDA
+A defesa, ao pleitear a substituição da reprimenda corporal por sanções restritivas de direitos, alega, genericamente, que "o acórdão  .. , ao impedir a substituição por penas alternativas, maculou o artigo 44 do mesmo diploma legal" (e-STJ fl. 220).
+Tal situação, em que a defesa não justifica os motivos pelos quais o dispositivo invocado teria sido violado, atrai, também, o já mencionado óbice da Súmula n. 284/STF.
+Ainda assim, não seria caso de substituição da pena por sanções restritivas de direitos, nem mesmo de ofício.
+O art. 44 do Código Penal prevê a substituição das penas privativas de liberdade por restritivas de direitos desde que preenchidos os seguintes requisitos, cumulativamente:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo; (Redação dada pela Lei nº 9.714, de 1998)
+II - o réu não for reincidente em crime doloso; (Redação dada pela Lei nº 9.714, de 1998)
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente. (Redação dada pela Lei nº 9.714, de 1998)
+Na hipótese, não obstante a reprimenda final seja inferior a 4 anos, revela-se inviável a substituição da pena privativa de liberdade por restritivas de direitos em razão da presença de circunstância desfavorável, qual seja, os maus antecedentes, o que inclusive ensejou o aumento da pena-base.
+Tal circunstância não indica, na hipótese, que a substituição seja suficiente, nos termos do inciso III do art. 44 do Código Penal.
+No mesmo sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DA SUBSTÂNCIA ENTORPECENTE APREENDIDA. EXASPERAÇÃO JUSTIFICADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. CONFISSÃO ESPONTÂNEA PARCIAL NÃO CONSIDERADA PARA EMBASAR A CONDENAÇÃO. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. RECONHECIMENTO DA ATENUANTE DE OFÍCIO. IMPOSSIBILIDADE. REGIME FECHADO. PENA IGUAL A 8 ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ADEQUAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIAS DESFAVORÁVEIS. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO. CONHECIMENTO PARCIAL DO HABEAS CORPUS E, NESSA EXTENSÃO, DENEGAÇÃO DA ORDEM.
+ ..
+5. A substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal. Não obstante a reprimenda final do paciente Emerson da Silva seja inferior a 4 anos, preenchendo o requisito objetivo do art. 44, I do CP, é inviável a substituição da pena privativa de liberdade por restritivas de direitos diante dos elementos concretos a figurar em demérito do paciente, a saber, a quantidade e a natureza dos entorpecentes apreendidos, o que, inclusive, ensejou aumento da sua pena-base.
+6. Habeas corpus parcialmente conhecido e, nessa extensão, denegado.
+(HC n. 389.213/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/4/2018, DJe 9/4/2018.)
+À guisa do exposto, conheço do agravo para não conhecer do recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
