@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERGIO LUIS GUERREIRO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 320):
+ACIDENTÁRIA - PERDA AUDITIVA E LESÃO COLUNAR - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE. "Atestada pela prova médica a redução da capacidade profissional em razão da perda auditiva e do problema colunar de origem ocupacional que acometem o obreiro, de rigor a concessão do auxílio-acidente com início, na hipótese, a partir da data da realização da perícia médica. Os valores em atraso serão apurados na forma da Lei 8.213/91 com atualização pelo IGP-DI e acrescidos de juros de mora (estes à base mensal conforme Lei 11.960/09). A renda mensal a ser implantada será reajustada pelos índices de manutenção". Sentença reformada em parte por força do reexame necessário e do provimento parcial do recurso voluntário.
+Embargos de declaração rejeitados (e-STJ fls. 359/365).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do dos arts. 23 e 86, § 2º, da Lei n. 8.213/1991 e 219, caput, do CPC/2015, pleiteando, em suma, a fixação do termo inicial do auxílio-acidente a partir da citação, e não do laudo pericial.
+Sem contrarrazões. Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 415/416.
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar.
+Como é cediço, a questão acerca do termo inicial do benefício de auxílio-acidente, decorrente da cessação de auxílio-doença, foi submetida à Primeira Seção dessa Corte Superior para ser julgada pela sistemática dos recursos repetitivos (Tema 862), que fixou a tese de que "o termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei n. 8.213/1991, observando-se a prescrição quinquenal da Súmula 85 do STJ" (REsp 1.729.555/SP, relatora Ministra Assusete Magalhães, Dje 1º/07/2021).
+Colhe-se dos autos que o Tribunal de origem fixou o termo inicial do benefício a partir da perícia médi ca, como atesta o trecho do acórdão recorrido (e-STJ fl. 324):
+Nesse passo, face à segura conclusão médica não impugnada por nenhuma outra prova técnica ao longo do feito, outro não poderia ser o desfecho da demanda senão a concessão do auxílio-acidente, como decidido pelo julgado singular.
+O termo inicial do benefício fica mantido na data de realização da perícia médica (13.03.2013 - fls. 234), uma vez que o reconhecimento do déficit funcional somente se deu com a prova médica aqui produzida, de modo que fica afastada a pretensão do autor neste aspecto (o auxílio-doença mencionado pelo autor na apelação interposta foi concedido em razão de "lesões nos joelhos", ou seja, moléstia aqui não considerada como ocupacional para o decreto de procedência do feito - ver fls. 81, 100 e 239).
+No entanto, ao fixar o termo inicial do benefício a partir da data da juntada do laudo pericial em juízo, o acórdão recorrido divergiu da orientação desta Corte Superior , segundo a qual "o laudo pericial apenas norteia o livre convencimento do Juiz e serve tão somente para constatar alguma incapacidade ou mal surgidos anteriormente à propositura da ação, portanto, não serve como parâmetro para fixar termo inicial de aquisição de direitos" (REsp 1.559.324/SP, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 13/12/2018, DJe 04/02/2019).
+Nesse sentido:
+PREVIDENCIÁRI O. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA.
+ART. 543-C DO CPC. APOSENTADORIA POR INVALIDEZ. TERMO INICIAL PARA A IMPLEMENTAÇÃO DO BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. AUSÊNCIA DE PEDIDO ADMINISTRATIVO. ART. 219, CAPUT, DO CPC. CITAÇÃO VÁLIDA DA AUTARQUIA PREVIDENCIÁRIA.
+1. Com a finalidade para a qual é destinado o recurso especial submetido a julgamento pelo rito do artigo 543-C do CPC, define-se:
+A citação válida informa o litígio, constitui em mora a autarquia previdenciária federal e deve ser considerada como termo inicial para a implantação da aposentadoria por invalidez concedida na via judicial quando ausente a prévia postulação administrativa.
+2. Recurso especial do INSS não provido.(REsp 1.369.165/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/02/2014, DJe 07/03/2014).
+No caso, diante da impossibilidade de fixação do benefício a partir do laudo pericial, a parte autora faz jus ao benefício previdenciário a partir da citação.
+Ante o expost o, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer o termo inicial do benefício desde a citação.
+Publique-se. Intimem-se.
+EMENTA
