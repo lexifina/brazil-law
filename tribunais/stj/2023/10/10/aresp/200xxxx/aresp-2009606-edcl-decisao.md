@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos por RODOLFO NATALINO SIBIN contra decisão que não conheceu do agravo em recurso especial (fls. 2.501-2.505).
+Nas razões recursais, sustenta o embargante que a decisão foi omissa em relação aos seguintes pontos: a) a conduta foi atípica, pois foi utilizada cópia não autenticada do documento; b) é incontroverso que as duas cartas de fiança bancária, consideradas falsas, visavam a garantir financeiramente a empresa DSG Mineração Ltda. em leilão da ANEEL e c) o recurso especial foi interposto com fundamento na alínea "c" do permissivo constitucional, mas não houve manifestação acerca do dissídio jurisprudencial alegado (fls. 2.508-2.520).
+Em contrarrazões, o Ministério Público Federal pugna pelo desprovimento dos embargos de declaração, uma vez que as questões suscitadas implicam o reexame de fatos e provas (fls. 2.522-2.525).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que não houve omissão quanto à tese de atipicidade da conduta por utilização de cópia não autenticada. Isso porque consta do acórdão de apelação que os documentos utilizados pelo embargante eram falsos.
+Confira-se (fl. 2.324 e 2.327-2.328, grifei):
+"Embora haja duas versões acerca do motivo da recusa das garantias por parte da CBLC - insuficiência dos valores ou ausência de reconhecimento de firma - o fato é que os documentos eram comprovadamente falsos, conforme afirmado pela área técnica do Banco do Brasil (152207167).  ..
+No tocante às cartas de fiança, porém, a contrafação é inquestionável. Elas não foram emitidas pelo Banco do Brasil, ou seja, os documentos foram criados, o que por si só demonstra a sua origem delituosa"
+Quanto à destinação das cartas de fiança, o Tribunal também concluiu em sentido diverso do afirmado pelo embargante.
+Veja-se (fls. 2.315 e 2.324, grifei):
+"Embora as garantias financeiras apresentadas pela DSG, consistentes em duas cartas de fiança supostamente emitidas pelo Banco do Brasil, não tenham sido consideradas suficientes pela ANEEL (ID 152207168, p. 106), a empresa obteve judicialmente o direito de participar do certame.
+Isso porque, em 15.12.2005, a DSG impetrou o mandado de segurança nº 2005.61.27.002424-3 e obteve liminar que lhe garantiu a participação no processo licitatório. Esse mandado de segurança, que tramitou pela 1ª Vara Federal de São João da Boa Vista (SP), foi instruído com as cartas de fiança falsificadas (ID 152207532, pp.35/40), dentre outros documentos.
+ ..
+Com efeito, o corréu RODOLFO apresentou, em 14.12.2005, duas cartas de fiança sabidamente falsas, nos valores de R$ 5.630.000,00 (cinco milhões, seiscentos e trinta mil reais) e R$ 10.490.000,00 (dez milhões, quatrocentos e noventa mil reais) para os empreendimentos de Paulínia e Mogi Mirim, respectivamente. Após, em 15.12.2005, determinou a impetração de mandado de segurança perante a Justiça Federal, mais uma vez utilizando-se dos documentos inautênticos (ID 152207532, anexo 1).
+Logo, as questões deixaram de ser enfrentadas, não por omissão, e sim pela impossibilidade de conhecimento de teses que pressupõem o revolvimento de fatos e provas.
+A propósito, transcrevo trecho da decisão embargada que trata do óbice da Súmula n. 7, STJ: " ..  para alterar o entendimento do Tribunal a quo no tocante à insuficiência probatória ou ao reconhecimento da continuidade delitiva, é necessária a incursão no conjunto fático-probatório dos autos, providência inviável nesta via, nos termos da Súmula n 7 do STJ" (fl. 2.504).
+Noutro giro, observo que a decisão embargada nada mencionou acerca do dissídio jurisprudencial alegado.
+Passo, então, à análise da questão.
+Conquanto o recurso especial tenha sido instruído com decisão do Tribunal de Justiça de Minas Gerais que considerou atípica a conduta de utilizar cópia não autenticada de documento falso (fl. 2.380), a análise da matéria se mostra inviável porque o cotejo analítico pressupôs que o embargante teria se utilizado de cópia falsa, ao passo que os fatos descritos no acórdão recorrido são diversos, conforme já demonstrado.
+Diante do exposto, dou parcial provimento aos embargos de declaração para integrar a decisão embargada no que diz respeito à alegação de dissídio jurisprudencial, mantido, contudo, o não conhecimento do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU DO RECURSO ANTERIORMENTE INTERPOSTO. NÃO CONHECIMENTO DE TESE DEFENSIVA EM VIRTUDE DA SÚMULA 7, STJ, OMISSÃO NÃO CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO SOBRE O DISSÍDIO JURISPRUDENCIAL. OMISSÃO VERIFICADA. INVIÁVEL, TODAVIA, A ANÁLISE DA TESE. COTEJO ANALÍTICO QUE PRESSUPÕE FATO DISTINTO DO QUE CONSTA NO ACÓRDÃO. EMBARGOS DE DECLARAÇÃO PARCIALMENTE PROVIDOS PARA INTEGRAR A DECISÃO EMBARGADA NO QUE DIZ RESPEITO À ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL, MANTIDO, CONTUDO, O NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL.
