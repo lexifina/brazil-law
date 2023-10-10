@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RAFAEL VENTURA RIBEIRO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que o ora Paciente teve a prisão preventiva decretada pela suposta prática do delito de uso de documento falso, ressaltando o Juízo de primeiro grau que:
+"o acusado, conforme se infere dos documentos juntados (FAC e CAC), é reincidente e portador de maus antecedentes. Com efeito, as certidões de antecedentes criminais revelam que o acusado é contumaz na prática docrimeprevistonoartigo33 da Lei nº 11.343/06, uma vez que já foi condenado pelo tráfico de drogas, em duas oportunidades distintas, bem como pelo crime de associação para o tráfico (art. 35 da Lei nº 11.343/06). Além disso, verifico que, de acordo com o depoimento do condutor, o acusado, além de continuar a atuar no tráfico de drogas, estava foragido. Diante disso, a concessão de medidas cautelares diversas da prisão não se mostra adequada" (fls. 56-57).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão cautelar:
+"em análise às Certidões de Antecedentes Criminais acostadas aos autos (docs. de ordem n.º 05 e 06), verifico que o paciente é reincidente, ostentando condenação criminal transitada em julgado pela prática dos delitos de tráfico de drogas, associação para o tráfico e posse/porte ilegal de arma de fogo de uso restrito e está, inclusive, em cumprimento de pena (SEEU -autos n.º 0282939-52.2011.8.13.0027)" (fl. 20).
+Neste writ, alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a segregação cautelar do Paciente.
+Requer a revogação da prisão preventiva e, subsidiariamente, a aplicação de medidas cautelares diversas da p risão.
+A liminar foi indeferida às fls. 66-68.
+As informações foram prestadas às fls. 83-107. O Ministério Público Federal, às fls. 109-114, manifestou pelo não conhecimento do writ, em parecer que restou assim ementado:
+"HC. PRESSUPOSTOS. NÃO CABIMENTO E NÃO CONHECIMENTO. IMPUTAÇÃO DO USO DE DOCUMENTOS FALSO POR PACIENTE REINCIDENTE. PRISÃO PARA A PROTEÇÃO DA ORDEM PÚBLICA. PROCESSO EM CURSO INICIAL NA PRIMEIRA INTÂNCIA. ACERTO DO TJ/MG AO DENEGAR HC. PELO NÃO CONHECIMENTO E, CASO CONHECIDO, PELO NÃO PROVIMENTO" (fl. 109).
+É o relatório. DECIDO.
+In casu, a prisão preventiva do Paciente se encontra fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública; notadamente se considerado o receio de reiteração criminosa, pois ele é reincidente e possui maus antecedentes, encontrando-se, inclusive, em cumprimento de pena; circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade do ora Paciente, justificando a segregação cautelar imposta, diante da sua contumácia em práticas delitivas.
+"Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Ademais, a reiteração delitiva justifica a prisão cautelar para a garantia da ordem pública, (AgRg no RHC n. 158.624/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/2/2022; AgRg no HC n. 758.159/PE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 16/9/2022 e AgRg no HC n. 573.962/PA, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 3/6/2020).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se .
+EMENTA
