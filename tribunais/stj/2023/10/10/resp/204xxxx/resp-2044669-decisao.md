@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra  acórdão  prolatado  pelo Tribunal de Justiça estadual  que deu parcial provimento ao recurso defensivo para afastar a majorante do emprego de arma de fogo, o que resultou no redimensionamento da pena ao patamar de 2 anos e 4 meses de reclusão, em regime aberto, além de 6 dias-multa (fls. 275-291).
+Nas  razões  do  recurso especial,  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  o  recorrente  alega  violação ao art. 157, § 2º-A, I, do Código Penal, bem como aos arts. 155, 158, 167 e 564, III, "b", do Código de Processo Penal. Sustenta, em síntese, a desnecessidade de apreensão e perícia da arma de fogo para fins da incidência da causa de aumento de pena (fls. 306-332).
+Em contrarrazões, a defesa pugna pela manutenção do acórdão prolatado pelo Tribunal de origem por seus próprios fundamentos (fls. 338-343).
+O Ministério Público Federal se manifestou pelo conhecimento e provimento do recurso especial para que seja restabelecida a condenação do recorrido (fls. 367-373).
+É  o  relatório. DECIDO.
+Da leitura do acórdão que deu parcial provimento à apelação defensiva, observo que o Tribunal de Justiça estadual afastou a majorante do emprego de arma de fogo sob os seguintes fundamentos (fl. 288):
+"(..) no tocante à majorante descrita no artigo 157, § 2º-A, inciso I, do CP, esta deve ser arredada, pois, em que pese a narrativa dos lesados acerca da abordagem do apelante, mediante o emprego de arma de fogo, não há em seus relatos uma maior descrição apta a conferir autenticidade à referida arma, não havendo, assim, certeza de que se tratava de um armamento lesivo, o que impõe o seu afastamento."
+Verifico que o entendimento exposto no acórdão de origem não está em consonância com a jurisprudência desta Corte Superior, a qual é assente no sentido de que é dispensável a apreensão e a perícia da arma de fogo para a incidência da respectiva majorante, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como no caso concreto (AgRg no AREsp n. 2.282.032/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 11/9/2023; AgRg no HC n. 787.685/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe de 30/8/2023).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a condenação do recorrido, nos termos da sentença.
+Publique-se. Intime-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. ROUBO MAJORADO. ARMA DE FOGO. POTENCIALIDADE LESIVA. APREENSÃO E PERÍCIA. PRESCINDIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
