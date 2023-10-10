@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de JULIANO RODRIGUES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL proferido na Apelação n. 5002334- 37.2019.8.21.0052.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 14, "caput", da Lei n. 10.826/03 (porte ilegal de arma de fogo), à pena de 2 anos de reclusão, em regime aberto, substituída por duas penas restritivas de direitos, e ao pagamento de 24 dias-multa.
+Interposta apelação pela defesa, foi parcialmente provida apenas para reduzir a pena pecuniária para 10 dias-multa. Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL. ART. 14 DA LEI 10.826/03. PORTE ILEGAL DE ARMA DE FOGO. BUSCA PESSOAL. FUNDADAS SUSPEITA. ART. 240 DO CPP. PROVAS DA AUTORIA E DA MATERIALIDADE. PENA DE MULTA.
+1. Pratica o crime do art. 14 da Lei 10.826/03 quem porta uma pistola 7.65, municiada com cinco cartuchos, em via pública, no interior de um veículo, sem autorização e em desacordo com determinação legal ou regulamentar.
+2. Nos termos do art. 240 e seguintes do CPP, é possível que se proceda à busca pessoal, diante de fundada suspeita. Conforme entendimento jurisprudencial corrente, a suspeita não deve decorrer exclusivamente do subjetivismo dos agentes da segurança - tirocínio -, a demandar "que a suspeita seja amparada em elementos concretos, tangíveis e perceptíveis inclusive por qualquer pessoa" (STJ, AgRg no HC809069/RS). No caso concreto, indicou o policial ouvido que, após a inicial voz de abordagem, decorrente do fato de estarem dois indivíduos circulando em veículo durante a madrugada (4horas da madrugada), naturalmente perceptível como uma atitude suspeita, sobretudo em determinadas regiões, houve tentativa de fuga. Por conta disso, quando da abordagem, somadas todas essas circunstâncias, havia fundada suspeita para a busca pessoal e no veículo.
+3. As provas produzidas nos autos não deixam dúvida sobre o porte ilegal de arma de fogo imputado ao acusado. Ouvido em juízo, o policial que realizou a abordagem confirmou as declarações e demais elementos informativos produzidos em sede inquisitorial. As circunstâncias evidenciadas comprovam que o réu portava revólver no interior do veículo, em via pública, fato confessado por ele. Validade dos depoimentos dos policiais militares. Condenação mantida.
+4. A multa é preceito secundário do tipo pelo qual o réu foi condenado, não havendo previsão legal para a isenção do pagamento. No caso concreto, no entanto, deve ser reduzida para o mínimo legal, em proporção à pena privativa de liberdade aplicada.
+APELAÇÃO PARCIALMENTE PROVIDA." (fls. 55/56).
+Na presente impetração, a defesa alega a nulidade do flagrante, por ausência de fundada suspeita para a busca pessoal e veicular.
+Busca a absolvição do paciente.
+A liminar foi indeferida, conforme decisão de fls. 67/68.
+O Ministério Público Federal opinou pelo não conhecimento do writ, conforme parecer de fls. 77/78.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+O Tribunal a quo, ao analisar a nulidade da busca pessoal, entendeu:
+"No que se refere à licitude da prova, o art. 244 do CPP dispõe que:
+"A busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida foi determinada no curso de busca domiciliar".
+Na espécie, conforme narra a peça acusatória, "Policiais Militares, durante patrulhamento de rotina, avistaram um veículo em atitude suspeita e efetuaram a sua abordagem", tendo sido encontrada, no interior do veículo, "entre os pés do denunciado, a pistola e munições acima referidas". A narrativa acima reproduz aquela constante nas peças do Auto de Prisão em Flagrante, a exemplo do Boletim de Ocorrência e relato do condutor:
+ ..
+A narrativa foi replicada quando da oitiva em juízo, conforme extrato da sentença:
+Inácio Luis Conceição da Silva, policial militar, relatou que o réu estava em atitude suspeita, momento em que deram sinal de parada para o réu, tendo ele desobedecido à ordem de parada. O réu empreendeu fuga, sendo feita a perseguição do réu. Narrou que logo em seguida obtiveram êxito na abordagem, apreendendo a arma com Juliano. Disse recordar vagamente que o réu teria confessado que a arma era dele.
+Indicou o policial ouvido que, após a inicial voz de abordagem, decorrente do fato de estarem dois indivíduos circulando em veículo durante a madrugada (4 horas da madrugada), naturalmente perceptível por quem faz a segurança pública como uma atitude suspeita, sobretudo em determinadas regiões, houve tentativa de fuga. Quando da abordagem, somadas todas essas circunstâncias, por evidente, havia fundada suspeita para a busca pessoal e no veículo. A situação, claramente, não se enquadra nos casos, qual apontam os precedentes mais recentes do Superior Tribunal de Justiça, em abordagem por mero subjetivismo dos agentes da segurança.
+ ..
+Nada há nos autos que indique ter havido arbitrariedade na abordagem ou mesmo a sua ilegalidade, firmando-se a regularidade a partir da confirmação da prática de ato ilícito - e permanente - com a apreensão da arma.
+Conclui-se, portanto, pela inexistência de mácula na prova.
+Assim, afasto a preliminar." (fls. 58/61).
+Nos termos do art. 240, § 2º, do Código de Processo Penal - CPP, para a realização de busca pessoal é necessária a presença de fundada suspeita no sentido de que a pessoa abordada esteja na posse de arma proibida, objetos ou papéis que constituam corpo de delito.
+De acordo com o que consta dos autos, a abordagem dos policiais somente ocorreu em razão de atitude suspeita, porquanto dois indivíduos estavam circulando em veículo de madrugada e, ao avistarem os policiais, tentaram fugir. Suspeita confirmada, uma vez que foi apreendida uma arma com o paciente.
+Nesse contexto, a partir da leitura dos autos, verifica-se que foi constatada a existência de indícios prévios da prática de porte ilegal de arma de fogo, a autorizar a atuação policial, não havendo falar em nulidade da busca pessoal. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS COR PUS. TRÁFICO DE DROGAS, DESOBEDIÊNCIA E PORTE DE ARMA DE FOGO DE USO PERMITIDO. BUSCA PESSOAL. REQUISITOS DO ART. 244 DO CÓDIGO DE PROCESSO PENAL. PRESENÇA DE FUNDADAS SUSPEITAS. DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ART. 28 DA LEI N. 11.343/2006. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRETENDIDA APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. INVIABILIDADE, NA ESPÉCIE. DESÍGNIOS AUTÔNOMOS. AGRAVO PROVIDO.
+1. Ficou evidenciada a existência de fundadas suspeitas para a busca pessoal, pois o Agravado, conhecido pela prática da traficância, foi abordado em região próxima a local de intenso tráfico de entorpecentes e empreendeu fuga, tendo dispensado, no caminho, arma de fogo, que foi visualizada pelos policiais.
+2. As instâncias ordinárias, soberanas na análise de provas, concluíram que a conduta praticada pelo Agravado se amolda ao delito previsto no art. 33 da Lei n. 11.343/2006, destacando, para tanto, as circunstâncias da abordagem. Portanto, concluir de maneira diversa, a fim de desclassificar para a conduta atinente ao art. 28 da Lei de drogas, demandaria o revolvimento do conjunto fático probatório, incabível na via eleita.
+3. Na hipótese de os delitos de porte ilegal de arma de fogo e de tráfico de drogas serem praticados por meio de desígnios e condutas autônomas, mostra-se cabível o reconhecimento do concurso material, sendo inviável a absorção do crime previsto no Estatuto do Desarmamento e a aplicação da majorante prevista no art. 40, inciso IV, da Lei n. 11.343/2006.
+4. Agravo regimental provido, para denegar a ordem de habeas corpus.
+(AgRg no HC n. 782.742/SC, relator Ministro Sebastião Reis Júnior, relatora para acórdão Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 21/9/2023.)
+PENAL E PROCESSO PENAL. PORTE ILEGAL DE ARMA DE FOGO. BUSCA PESSOAL. VOLUME ESTRANHO NA CINTURA. FUNDADAS SUSPEITAS. LEGALIDADE DA ABORDAGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. "A busca pessoal é legítima se amparada em fundadas razões, se devidamente justificada pelas circunstâncias do caso concreto" (AgRg no RHC n. 164.112/MG, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 2/8/2022, DJe 8/8/2022).
+2. Na espécie, consoante trecho do acórdão de apelação, a abordagem policial realizada no paciente não foi arbitrária e motivada por "rotina" ou "praxe" do policiamento ostensivo, com finalidade preventiva e motivação exploratória, mas teve por objetivo a busca em uma pessoa com um volume na cintura e que teria demonstrando bastante nervosismo, fatos, inclusive, confirmados pelo próprio paciente. Assim, o que levou os policiais a efetuarem a busca pessoal não foi exclusivamente o nervosismo do paciente, mas a legítima suspeita de elemento concreto advindo do volume apresentado na sua cintura, que indicava a fundada suspeita de estar portando uma arma de fogo.
+3. Agravo regimental improvido.
+(AgRg no HC n. 830.248/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. INOCORRÊNCIA. FUNDADA SUSPEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006 à pena de 8 anos de reclusão, em regime inicial fechado, mais o pagamento de 799 dias-multa.
+2. Não se vislumbra qualquer ilegalidade na atuação dos policiais na busca pessoal, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 746.064/SP, relator Ministro Ribeiro Danta s, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. RISCO DE REITERAÇÃO DELITIVA. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS. REINCIDÊNCIA ESPECÍFICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. BUSCA PESSOAL. FUNDADAS RAZÕES. INTELIGÊNCIA POLICIAL. ATITUDE SUSPEITA DO AGENTE. NULIDADE PROCESSUAL NÃO ACOLHIDA. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente.
+3. A reincidência específica evidencia maior envolvimento do paciente com a prática delituosa, podendo ser utilizada para justificar a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+4. As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+5. Nos termos do art. 244 do CPP , a busca pessoal independerá de mandado quando houver prisão ou fundada suspeita de que a pessoa esteja na posse de arma proibida, de objetos ou papéis que constituam corpo de delito, ou ainda quando a medida for determinada no curso de busca domiciliar.
+6. A busca pessoal é legítima se amparada em fundadas razões, se devidamente justificada pelas circunstâncias do caso concreto.
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 164.112/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+Nesse contexto, não se vislumbra flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
