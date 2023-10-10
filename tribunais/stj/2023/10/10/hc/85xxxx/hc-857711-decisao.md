@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Roberval Jean de Oliveira, em que se aponta como autoridade coatora a Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que deu provimento ao Agravo em Execução n. 0006207-34.2023.8.26.0996 interposto pelo Ministério Público estadual, determinando que o marco para a progressão ao regime aberto seja a data em que o sentenciado preencheu o último requisito subjetivo.
+Neste writ, sustenta-se que o marco inicial para direito à progressão, mediante preenchimento dos requisitos exigidos pela LEP, (requisitos objetivo e subjetivo) deve ser a data em que foi adquirido o direito à progressão de regime, desse modo é de rigor a retificação do cálculo para constar a data base para progressões 7/1/2022, data da realização do exame criminológico para RSA (fl. 6).
+Pontua-se que está ocorrendo uma flagrante ilegalidade no que tange ao cálculo de pena do paciente, visto que, o paciente foi submetido à exame criminológico para benefício ao qual ele não goza de seus privilégios já que foi cassado por não ter à época alcançado o requisito objetivo para tanto  ..  se houve a cassação da decisão de deferimento do benefício de Livramento Condicional por não haver preenchido o requisito objetivo, todos os acessórios da decisão também devem ser cassados sob pena de haver total ilegalidade (fls. 6/7).
+Requer-se, assim, a concessão liminar da ordem, a fim de que seja cassada a decisão proferida pela Sexta Câmara de Direito Criminal do TJSP, a qual deu provimento ao Agravo Ministerial, determinando-se que o marco para a progressão ao regime aberto seja o dia 19/12/2021 ao paciente (fl. 7).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constit uída de suas alegações, em mandamus viável.
+In casu, o writ deve ser indeferido liminarmente.
+O Tribunal de Justiça, ao prover o agravo em execução ministerial, destacou (fl. 39):
+ ..  Nesse contexto, a data-base para a progressão de regime será fixada no momento em que o apenado preencher todos os requisitos previstos no art. 112, da LEP, ou seja, após a concretização do último requisito pendente - objetivo ou subjetivo -, que, no presente caso, é a data do exame criminológico com parecer favorável (24/3/2023).
+Nota-se que a Corte estadual adotou entendimento conforme a jurisprudência do Superior Tribunal de Justiça, no sentido de fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos do art. 112 da Lei de Execução Penal e não aquela em que o Juízo das execuções deferiu o benefício, haja vista tal decisão ter caráter meramente declaratório, não constitutivo (AgRg no HC n. 540.250/SP, Ministro Jorge Mussi, Quinta Turma, DJe 16/3/2020).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. DATA-BASE PARA A CONCESSÃO DE BENEFÍCIO. MARCO INICIAL. DATA-BASE EM QUE EFETIVAMENTE FOI DEFERIDO O BENEFÍCIO. ENTENDIMENTO DO TRIBUNAL DE JUSTIÇA EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
