@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JAILSON RODRIGUES DA SILVA, contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor, em que se pleiteou a progressão ao regime semiaberto de pena, com a dispensa do exame criminológico (e-STJ, fls. 24/30).
+Neste recurso, a defesa insiste que a exigência na realização do exame criminológico deve se fundamentar em elementos ocorridos no curso da execução da pena, e não na gravidade do c r ime pelo qual o apenado foi condenado.
+Traz julgado do próprio Ministro Relator na página 04 do Agravo Regimental, para sustentar a sua tese.
+Aponta, no mais, excesso de prazo para a realização do exame, que já foi exigido pela magistrada há mais de 04 (quatro) meses, e até o presente momento sequer foi realizado.
+Em vista do exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte (conhecimento e provimento).
+É o relatório. Decido.
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+No entanto, constato elementos suficientes para reconsiderar minha decisão.
+Estes foram os fundamentos adotados na decisão agravada (e-STJ, fls. 27/30):
+ ..
+No caso, como bem explicou o Tribunal, o Juiz fundamentou a decisão, tendo em vista o grave risco para a sociedade e para a família, diante da gravidade concreta do crime praticado, assim descrito pelo Juiz, em resumo (e-STJ, fl. 16):
+ ..  o reeducando se aproveitava para abusar da menor impúbere, e todas as noites o apenado obrigava a menor a praticar coito anal com o mesmo, tudo mediante ameaças, sendo que tais abusos foram praticados ali mesmo no colchão onde eles dormiam, na presença do irmão da vítima.
+Em casos como esse, esta Corte tem considerado não só o risco à convivência com a vítima, mas também a necessidade de mais elementos para se aferir a periculosidade do apenado, uma vez que a conduta boa carcerária e o lapso temporal não são suficientes:  ..
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Como se pode ver da decisão acima, não obstante o zelo da autoridade coatora, não foram utilizados fundamentos concretos, relacionados ao cumprimento da pena corporal, para justificar a realização do exame criminológico.
+Destacou-se apenas elementos abstratos, ao mencionar a gravidade do delito praticado pelo executado, elemento que não pode ser mais avaliado na fase de execução, porquanto já sopesado pelo legislador, ao tipificar o crime e sua pena, e pelo julgador, ao fixar o quantum da reprimenda.
+Assim, não foi relatado, de forma concreta, em nenhum momento, o comportamento do executado e suas eventuais faltas disciplinares.
+Folheando o Boletim Informativo do paciente, contatei que ele não tem registro de faltas disciplinares.
+Esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime ou livramento condicional, de modo que o exame criminológico somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. CONCESSÃO PELO JUÍZO DE PRIMEIRO GRAU. DECISÃO CASSADA PELO TRIBUNAL A QUO. DETERMINAÇÃO DE QUE O PACIENTE SEJA SUBMETIDO A EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No caso, o eg. Tribunal a quo cassou a r. decisão que deferiu a progressão de regime ao paciente e determinou a realização de exame criminológico, com fundamento, apenas, na gravidade abstrata dos crimes praticados e na longa pena a cumprir, não apontando elementos concretos ocorridos durante a execução da pena, aptos a impedir o benefício.
+III - Dessarte, foi concedida a ordem, de ofício, para cassar o v. acórdão proferido no agravo em execução e restabelecer a r. decisão do d. Juízo das execuções que concedeu a progressão ao regime semiaberto ao paciente, em razão da constatação da flagrante ilegalidade. Agravo regimental do Ministério Público Federal desprovido.
+(AgRg no HC n. 553.355/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 10/3/2020, DJe 18/3/2020)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PROGRESSÃO AO REGIME SEMIABERTO. CONCESSÃO PELO JUÍZO DE PRIMEIRO GRAU. DECISÃO CASSADA PELO TRIBUNAL A QUO. DETERMINAÇÃO QUE O PACIENTE SEJA SUBMETIDO A EXAME CRIMINOLÓGICO. GRAVIDADE DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - O eg. Tribunal a quo cassou a decisão que deferiu a progressão de regime ao paciente e determinou a realização de exame criminológico, com fundamento apenas na gravidade abstrata do crime por ele praticado e na longa pena a cumprir, não apontando elementos concretos ocorridos durante a execução da pena, aptos a impedir o benefício. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o v. acórdão proferido no Agravo de Execução n. 7000464-31.2018.8.26.0047 e restabelecer a decisão do d. Juízo das Execuções que concedeu a progressão de regime ao paciente.
+(HC n. 507.811/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 1º/10/2019, DJe 9/10/2019)
+Configurada, portanto, na espécie, flagrante ilegalidade, a justificar a concessão do writ de ofício.
+Ante o exposto, em juízo de retratação, próprio do agravo regimental, reconsidero a decisão agravada, para conceder a ordem de ofício, a fim de determinar que Juízo das Execuções Criminais justifique novamente a necessidade de realização de exame criminológico, sem considerar a gravidade do crime praticado, e, sim, somente, fatores relacionados ao cumprimento da falta, como por exemplo, eventuais faltas disciplinares, ausência de trabalho e estudo etc.
+Comunique-se a presente decisão, com urgência, ao Juízo singular das execuções e ao Tribunal coator.
+Intimem-se.
+EMENTA
