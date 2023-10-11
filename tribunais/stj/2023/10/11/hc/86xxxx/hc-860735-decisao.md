@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Thaina da Silva Meira, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO, ante o julgamento proferido no dia 10/5/2023 na Apelação Criminal n. 1501062-93.2023.8.26.0228 (fls. 20/32).
+Consta dos autos que a paciente foi condenada, pelo Juízo da 7ª Vara Criminal da comarca da Capital/SP, à pena de 5 anos e 10 meses de reclusão, em regime fechado, e pagamento de 583 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Interposta apelação, o Tribunal a quo lhe negou provimento.
+Daí a presente impetração, na qual a defesa pleiteia a desclassificação da conduta para o art. 28 da Lei n. 11.343/2006. Isso porque (fls. 8/9 - grifo nosso):
+Observa-se que, desde o início, os milicianos, em solo policial, relatam que a Maconha encontrada estava em apenas 1 porção em poder da paciente, sendo que com a mesma não foi encontrada em qualquer quantia em dinheiro.
+Ora, seria lógico, se estivéssemos diante de uma situação de tráfico de drogas, o encontro de droga fragmentadas, ou em poder da paciente ou escondido no local, além do encontro de valores em dinheiro vivo, haja vista a prática mercantil que supostamente se desenvolveria.
+Não há como conceber uma biqueira, sem valores em dinheiro picado ou droga fragmentada: se não há mais droga, estas foram vendidas e teria dinheiro; se não há dinheiro é porque a droga, previamente picada, separada e embalada individualmente, ainda não fora vendida.
+Também sabe-se que não é comum, em biqueiras, que a droga esteja em pedaço bruto, haja vista que o entorpecente é previamente preparado, picado, separado e embalado em porções individuais para a comercialização, sendo que este preparo não é feito no local da venda por razões óbvias.
+Qual a praticidade do traficante em ostentar um pedaço bruto da droga, a qual não pode ser vendida em porções individuais, além de dificultar, em muito, sua ocultação
+Logicamente que este pedaço bruto foi levado, naquele momento, por algum indivíduo, com o intuito de ser assim comercializado, porém não há qualquer evidencia que a paciente era a pessoa que iria mercantilizar essa droga.
+Ademais, não se pode olvidar e até mesmo desacreditar na versão prestada pela paciente, que desde o início, mesmo de forma informal, disse que era usuária de Maconha e que estava no local de venda de entorpecente para adquirir a aludida droga para seu próprio consumo, não tendo nada a ver com possível movimentação de tráfico de drogas. Observa-se que tal versão se amolda com todo o contexto fático relatado pelos milicianos, tanto em sede de inquérito quanto em juízo.
+Subsidiariamente, requer a aplicação da fração de 1/7 pelo reconhecimento da reincidência específica e afirma em favor de sua tese que há precedentes do Superior Tribunal de Justiça nesse sentido.
+É o relatório.
+Não tem cabimento o presente writ.
+Primeiro, a condenação já transitou em julgado; portanto, o presente habeas corpus é sucedâneo de revisão criminal (informação extraída do endereço eletrônico do TJ/SP).
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Ora, diz a nossa jurisprudência que não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça (AgRg no HC n. 751.156/SP, Ministra Laurita Vaz, Sexta Turma, DJe 18/8/2022).
+Segundo, o habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 701.589/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021).
+Terceiro, porque também não prospera a tese subsidiária, porquanto, como cediço, o Código Penal não estabeleceu o quantum de aumento para as circunstâncias agravantes genéricas, dentre elas a reincidência (art. 61, I, do Código Penal), cabendo a escolha ao juiz, em decisão fundamentada. Usualmente, utiliza-se a fração de 1/6, permitindo-se a sua elevação quando há dupla ou multirreincidência (AgRg no HC n. 811.829/SP, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/5/2023, DJe 18/5/2023).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. TRÁFICO DE DROGAS. ABSOLVIÇÃO/DESCLASSIFICAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REINCIDÊNCIA. FRAÇÃO DE 1/6. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTE.
+Writ indeferido liminarmente.
