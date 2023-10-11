@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HIRAM RODRIGUES FRAGOSO contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, manifestado contra o acórdão prolatado na Apelação Criminal n. 0708756-35.2021.8.07.0006.
+Consta nos autos que o Agravante foi condenado a 5 (cinco) anos de reclusão, em regime inicial semiaberto, e 500 (quinhentos) dias-multa (fls. 309-310), como incurso no art. 33, caput, da Lei n. 11.343/2006, caracterizado pela apreensão de 7g (sete gramas) de cocaína; 375ml (trezentos e setenta e cinco mililitros) de lança perfume; 31,47g (trinta e um gramas e quarenta e sete centigramas) de maconha; balança de precisão e uma tesoura (fls. 306 e 388).
+A Corte de justiça de origem negou provimento ao apelo da Defesa (fls. 382-399).
+Nas razões do apelo nobre, a Defesa aponta violação ao art. 28 da Lei n. 11.343/2003, pugnando, em suma, pela desclassificação da conduta para porte de drogas para consumo próprio (fls. 408-411); e alega violação ao art. 33, § 4.º, da Lei de Drogas, aduzindo, em suma, que a quantidade e a variedade de drogas, por si sós, não impedem a concessão do redutor da pena (fls. 411-412).
+As contrarrazões foram apresentadas (fls. 420-423).
+O Recurso especial não foi admitido na origem (fls. 426-428).
+Interposto o agravo em recurso especial (fls. 433-442), a Acusação apresentou contraminuta (fl. 446).
+O Ministério Público Federal manifestou-se às fls. 461-465, opinando pelo desprovimento do agravo.
+É o relatório. Decido.
+A Corte de justiça de origem superou o pleito de desclassificação da conduta para o tipo do art. 28 da Lei de Drogas nestes termos (fls. 387-389, grifei):
+"A controvérsia surge quanto ao propósito da difusão desses entorpecentes.
+Ressalte-se que, de acordo com o auto de apresentação e apreensão (ID 41596379), foram encontrados com o réu diferentes tipos de entorpecentes (maconha, cocaína, lança perfume), além de apetrechos comumente usados na preparação para a venda da droga, como balança de precisão e tesoura pequena, o que inviabiliza acreditar que a substância se destinava para consumo próprio.
+Aliado a isso, tem-se o fato de que foram encontradas, no aparelho celular do réu (laudo de informática de ID 41597101), diversas mensagens sobre o comércio ilícito de entorpecentes, bem como que ele realizava a venda em diferentes meios de comunicação.
+Ademais, como consta do Laudo Definitivo de Exame Químico (ID 41597018) estava em poder do apelante 31,47 gramas de maconha, 7,00 gramas de cocaína e 375 ml de "lança-perfume".
+Assim, como bem enfatizado na sentença, considerando que "200mg é a dose típica de maconha e de 100mg a 200mg a dose típica de cocaína. (..) seria possível preparar em torno de 35 a 70 porções unitárias de cocaína e cerca de 157 porções unitárias de maconha" (ID 51497120).
+Assim, não prospera a alegação da defesa de que os entorpecentes encontrados com o réu eram compatíveis com o uso.
+ ..
+Sob esse enfoque, é possível distinguir o usuário do traficante levando-se em consideração os fatores em que incidiram o delito, tais como lugar e o horário em que o agente foi surpreendido, levando consigo ou mantendo em depósito a droga, a quantidade e variedade da substância ilícita apreendida, bem como as atitudes do acusado antes da abordagem.
+Por último, o fato de o recorrente ser usuário em nenhuma medida a impede de traficar as substâncias proscritas, pelo contrário, é comum, inclusive, que em alguns casos o usuário trafique as substâncias para conseguir manter seu vício a partir do lucro da atividade ilícita.
+Destarte, inexistindo dúvidas a respeito da materialidade e da autoria do delito, bem como considerando que a conduta perpetrada pelo apelante se amolda ao tipo legal previsto no artigo 33, caput, da Lei 11.343/06, impossível a desclassificação da conduta, impondo-se a manutenção do édito condenatório."
+Como se vê, o pleito de desclassificação da conduta para porte ilegal de droga para consumo próprio foi superado em razão não só da quantidade e da variedade das drogas apreendidas (maconha, cocaína e lança perfume), mas também com apoio nos petrechos comumente usados na preparação para a venda de entorpecentes (tesoura e balança de precisão), encontrados com o Réu, além de mensagens, sobre o comércio ilícito de entorpecentes, encontradas no seu aparelho celular.
+Nas razões do apelo nobre, é possível verificar que a Defesa não cuidou de refutar, de forma específica e individualizada, essas razões de decidir, tendo se restringido a asseverar, de forma genérica, que a quantidade e a variedade de drogas, por si sós, não impedem a concessão do redutor da pena (fls. 411-412).
+Assim, à míngua de impugnação precisa e individualizada de todos os fundamentos declinados pela Corte de justiça de origem para superar o pedido de desclassificação da conduta para o tipo do art. 28 da Lei de Drogas, o óbice da Súmula n. 283/STF mostra-se insuperável.
+A propósito:
+" ..
+1. O Tribunal de origem afastou a nulidade do reconhecimento fotográfico, asseverando que não houve reconhecimento fotográfico em relação ao recorrente, tendo sido condenado com base em outras provas produzidas nos autos. Incidente o verbete n. 283 do STF, pois não impugnado o referido fundamento do acórdão recorrido. Concluiu o juízo a quo pela presença de elementos informativos e probatórios suficientes, por si sós, a sustentarem a condenação do recorrente.
+ ..
+4. Agravo regimental desprovido." (AgRg no AgRg no AREsp n. 2.157.615/MG, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 21/3/2023, DJe de 23/3/2023.)
+No mais, a sentença de primeiro grau, corroborada pelo acórdão recorrido, apresenta os seguintes fundamentos para alicerçar o indeferimento do redutor da pena (fls. 308-309, grifei):
+" ..  os elementos de prova existentes nos autos demonstram de maneira satisfatória a sua dedicação à atividade criminosa da traficância. Consoante se apurou nos autos, foi apreendida grande quantidade e variedade de drogas, o que evidencia a gravidade da conduta perpetrada pelo réu e a sua dedicação à atividade criminosa de mercancia ilícita de entorpecentes  ..  Mas não é só, conjugado a isso, o Laudo de Exame de Informática n. 54.627/2022 (ID n. 131667406) trouxe fartos elementos acerca da atuação de HIRAM na traficância de forma habitual, com ele negociando e efetivando a venda de drogas em várias ocasiões, a demonstrar que ele se dedicava à atividade criminosa (traficância), em situação incompatível com a figura do denominado tráfico privilegiado  .. "
+As instâncias ordinárias concluíram pela dedicação do Agravante a atividades criminosas com lastro na grande quantidade e variedade de drogas.
+Diante desse cenário, para o Superior Tribunal de Justiça decidir em sentido contrário, seria necessário reapreciar fatos e provas, providência terminantemente vedada pelo óbice absoluto da Súmula n. 7/STJ.
+A propósito:
+" ..
+4. Os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação da recorrente à atividade criminosa (tráfico de drogas) evidenciada sobretudo nas circunstâncias do cometimento do delito - o armazenamento de grande quantidade de drogas na residência dos réus, que seriam os responsáveis pelo abastecimento de drogas na "biqueira" localizada no mesmo bairro, tendo sido apreendido, inclusive, caderno de anotações de contabilidade do tráfico - tudo a indicar que não se trataria de traficante eventual.
+5. Desse modo, para modificar o entendimento adotado nas instâncias inferiores de que a prática do tráfico de drogas e a dedicação em atividade criminosa estão configuradas e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ. Precedentes.
+6. Agravo regimental desprovido." (AgRg no AREsp n. 2.378.959/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 26/9/2023, DJe de 3/10/2023, grifei.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O TIPO DO ART. 28 DA LEI DE DROGAS. SÚMULA N. 283/STF. PLEITO DE APLICAÇÃO DO REDUTOR DA PENA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
