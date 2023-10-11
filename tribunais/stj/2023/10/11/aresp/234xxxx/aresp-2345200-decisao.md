@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto por JHSF SALVADOR EMPREENDIMENTOS E INCORPORAÇÕES LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ, fl. 170):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA CONTRA DECISÃO QUE DETERMINOU A PENHORA DE IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE DEMONSTRADA. DECISUM REVOGADO. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, foram rejeitados pelo tribunal de origem (e-STJ, fls. 211-236).
+Nas razões do recurso especial (e-STJ, fls. 241-250), a recorrente apontou que o acórdão impugnado negou vigência aos arts. 1.711 do Código Civil, 1º e 5º da Lei n. 8.009/1990.
+Sustentou, em síntese, que o acórdão recorrido deixou de considerar que o imóvel penhorado não é a moradia dos executados e, com isso, deixou de verificar se o bem cumpre os requisitos indispensáveis para ser considerado um bem de família.
+Os recorridos apresentaram contrarrazões (e-STJ, fls.315-324).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 129-133 (e-STJ).
+Brevemente relatado, decido.
+A recorrente sustentou que o tribunal de origem negou vigência aos arts. 1.711 do Código Civil, 1º e 5º da Lei n. 8.009/1990 ao não verificar se o imóvel penhorado coincide com o local de moradia dos recorridos.
+O Tribunal de Justiça da Bahia deu provimento ao agravo de instrumento dos recorridos e afastou a penhora do imóvel com os seguintes fundamentos (e-STJ, fls. 175-177):
+In casu, sabe-se que a Lei nº 8.009/90 impossibilita a penhora de bem de família ressalvando hipóteses em que a excepciona. A norma é de ordem pública, mas não afasta o ônus subjetivo da prova pelo qual incumbe a quem alega produzir prova convincente dos fatos constitutivos do seu direito; e a quem se opõe produzir prova adversa, nos termos do art. 373 do CPC/15.
+Observa-se, de forma não exauriente, típica deste momento processual, que a decisão agravada determinou a penhora do imóvel localizado no Ed. Mansão Duque de York, na Av. Paulo VI, com matrícula nº 62.619, do 6º Ofício do Registro de Imóveis de Salvador - BA.
+Entretanto, vislumbra-se que o referido imóvel é o único bem dos agravantes, bem de família, conforme demonstrado através das certidões de todos os Cartórios de Registro de Imóveis de Salvador - Ids 18280909; 18280910; 18280911; 18280912; 18280913; 18280914; 18280915; 18280916; 18280917; 18280919; 18280920; 18280923; 18280925,protegido, portanto, pelo benefício legal da impenhorabilidade, incidindo ao caso o disposto no art. 1º,da Lei n. 8.009/90, que assim estabelece:
+"Art. 1º O imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei".
+ ..
+Logo, percebe-se a comprovação da probabilidade do direito invocado, bem como do perigo de dano grave de difícil ou impossível reparação, uma vez que o prosseguimento da penhora é suscetível de causar dano irreversível.
+Desse modo, por ora, persistem razões para o deferimento da tutela de urgência postulada.
+Por sua vez, em relação à alegada violação aos arts. 1.711 do Código Civil, 1º e 5º da Lei n. 8.009/1990, verifica-se que a matéria a eles atinente não foi enfrentada pelo Tribunal estadual sob o enfoque das normas legais e dos argumentos deduzidos pela recorrente, tampouco essa tese foi ventilada nos embargos de declaração de fls. 195-196 (e-STJ).
+Não houve debate na origem sobre o imóvel penhorado ser ou não utilizado como moradia pelo executado, o que impede o exame da insurgência, no ponto, por ausência de prequestionamento (Súmulas 282 do STF e 211 do STJ).
+Na hipótese, a Corte de origem se limitou a consignar que "a decisão agravada determinou a penhora do imóvel localizado no Ed. Mansão Duque de York, na Av. Paulo VI, com matrícula nº 62.619, do 6º Ofício do Registro de Imóveis de Salvador - BA. Entretanto, vislumbra-se que o referido imóvel é o único bem dos agravantes, bem de família, conforme demonstrado através das certidões de todos os Cartórios de Registro de Imóveis de Salvador - Ids 18280909; 18280910; 18280911; 18280912; 18280913; 18280914; 18280915; 18280916; 18280917; 18280919; 18280920; 18280923; 18280925,protegido, portanto, pelo benefício legal da impenhorabilidade, incidindo ao caso o disposto no art. 1º,da Lei n. 8.009/90  ..  Logo, percebe-se a comprovação da probabilidade do direito invocado, bem como do perigo de dano grave de difícil ou impossível reparação, uma vez que o prosseguimento da penhora é suscetível de causar dano irreversível." (e-STJ, fls. 176-177).
+Dito isso, a despeito de ter apontado violação aos dispositivos legais supostamente violados arts. 1.711 do Código Civil, 1º e 5º da Lei n. 8.009/1990, os quais foram objeto tão somente das razões do recurso especial de fls. 241-250 (e-STJ), cumpre esclarecer que a Corte local não se manifestou quanto ao conteúdo normativo desses dispositivos legais, o que atrai a incidência da Súmula 282 do STF e 211 do STJ, e também não é o caso de considerar a ocorrência do prequestionamento ficto previsto no disposto no art. 1.025 do CPC/2015.
+Como se sabe, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+À vista disso, ausente o devido prequestionamento, aplica-se o disposto na Súmula 211/STJ.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. AÇÃO DE REGRESSO. CONEXÃO ENTRE AÇÕES. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. REEXAME DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Apenas a indevida rejeição dos embargos de declaração opostos ao acórdão recorrido para provocar o debate da corte de origem acerca de dispositivos de lei considerados violados que versam sobre temas indispensáveis à solução da controvérsia permite o conhecimento do recurso especial em virtude do prequestionamento ficto (art. 1.025 do CPC) desde que, no apelo extremo, seja arguida violação do art. 1.022 do CPC, o que não ocorreu na hipótese.
+2. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza o seu reconhecimento nesta instância extraordinária por falta de presquestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+3. A Corte de origem, diante do exame das cláusulas contratuais e do acervo fático-probatório dos autos, entendeu que o objeto da demanda decorre de contrato firmado entre partes.
+4. Rever o entendimento do Tribunal de origem acerca da ocorrência ou não
+de exceção do contrato não cumprido demanda o reexame de cláusulas contratuais e do suporte fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência dos óbices das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.085.760/MT, relator Ministro João Otávio de Noronha,
+Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Em relação à possibilidade de reconhecer o prequestionamento ficto, esta Corte Superior possui jurisprudência assentada no sentido de que a matéria só pode ser implicitamente incluída no acórdão recorrido quando, ao menos, a tese foi objeto de embargos de declaração na origem e, no Superior Tribunal de Justiça, foi verificada violação ao art. 1.022 do CPC/2015.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. PREQUESTIONAMENTO. AUSÊNCIA. FICTO. FUNDAMENTO NÃO ATACADO. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF. REEXAME DE PROVAS E CLÁUSULAS. SÚMULAS Nº 5 E 7/STJ. ARRAS CONFIRMATÓRIAS. DEVOLUÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ.
+3. A admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a
+existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+4. A jurisprudência desta Corte é firme no sentido de que o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública.
+5. A subsistência de fundamento não atacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+6. Estando as razões do agravo interno dissociadas do que restou decidido na decisão atacada, é inadmissível o recurso por deficiência na sua fundamentação. Incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+7. Na hipótese, o acolhimento da pretensão recursal esbarra no enunciado das Súmulas nºs 5 e 7/STJ, tendo em vista que a conclusão do acórdão decorreu inquestionavelmente da análise das circunstâncias fáticas dos autos e da interpretação de cláusula contratual.
+8. A conclusão do tribunal de origem não destoa do entendimento desta Corte, no sentido de que o arrependimento do promitente comprador de unidade habitacional em construção não importa em perda das arras se estas forem confirmatórias. Aplicação da Súmula nº 83/STJ.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/10/2022, DJe de 10/10/2022).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE. BEM DE FAMÍLIA. AUSÊNCIA DE ANÁLISE QUANTO AO USO DO IMÓVEL PARA MORADIA. AUSÊNCIA DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. SÚMULAS N. 211/STJ E 282/ STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
