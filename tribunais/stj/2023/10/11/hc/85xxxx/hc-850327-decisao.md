@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de LEANDRO CALIXTO DA SILVA, no qual se ataca o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO no Agravo de Execução Penal n. 0009509-71.2023.8.26.0996 (fls. 51/58).
+Alega-se que não há nada que comprove o alegado no procedimento disciplinar que culminou com o reconhecimento de falta grave praticada pelo paciente no PEC n. 7014846-98.2010.8.26.0050.
+Aduz-se que não ficou demonstrado que o objeto perfurante apreendido em sua cela pertencia ao paciente.
+Sustenta-se que não foi comprovada a alegação de que havia várias denúncias de agressões do agente contra outros detentos, não tendo sido juntado nenhum boletim de ocorrência acerca de tais questões, nem tampouco ouvida qualquer testemunha que foi uma suposta vítima.
+Requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja absolvido da falta grave, caso o entendimento for contrário que seja reconhecido em seu favor o princípio bis in idem (fl. 9).
+Depois de indeferida a liminar (fls. 61/62) e de prestadas as informações (fls. 69/70), o Ministério Público Federal opinou de acordo com esta ementa (fl. 81):
+HABEAS CORPUS. MANEJO DO WRIT COMO SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. EXECUÇÃO PENAL. RECONHECIMENTO DE FALTA GRAVE. APREENSÃO DE UM "ESPETO COM APROXIMADAMENTE 20 CENTÍMETROS" NO INTERIOR DA CELA DO ESTABELECIMENTO PRISIONAL, TENDO O DETENTO ADMITIDO SUA PROPRIEDADE AOS AGENTES DE SEGURANÇA. DECISÃO DEVIDAMENTE FUNDAMENTADA. MODIFICAÇÃO DO JULGADO QUE ENSEJA O REEXAME DA PROVA. INVIABILIDADE NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DO MÉRITO OU PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus substitutivo deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre, porquanto, para alterar as conclusões da Juíza da execução e do Tribunal local, seria necessário o amplo reexame da matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus.
+No caso, como bem observado pela Subprocuradora-Geral da República Elizeta Maria de Paiva Ramos, a Corte a quo consignou que o processo administrativo disciplinar (PAD) transcorreu em conformidade com as normas de regência, concluindo pela prática da falta grave em comento por parte do reeducando, sendo homologada pelo Juízo da execução (fl. 84). Enfim, entendeu o Tribunal paulista pela comprovação da responsabilidade do ora paciente pelo aludido objeto perfurante apreendido e pela manutenção da falta grave prevista no art. 50, VI, c/c o art. 39, II e V, ambos da Lei de Execução Penal.
+Ora, se as instâncias ordinárias, motivadamente, concluíram que as provas são uníssonas em indicar a prática da falta grave cometida pelo apenado, não há falar em ausência  de provas , sobretudo se a conduta foi individualizada, conforme depoimento das agentes penitenciárias, que gozam de presunção de veracidade (AgRg no HC 811.101/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/5/2023).
+Ademais, nos termos da jurisprudência desta Corte, não se coadunam com a via do habeas corpus as pretensões de afastar a infração disciplinar, absolver o apenado ou desclassificar sua conduta para falta média, dada a necessidade de reexame de todo o conjunto fático-probatório. Precedentes (AgRg no RHC n. 131.569/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/10/2020).
+Assim, com base nos precedentes e na manifestação ministerial, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. ABSOLVIÇÃO. NECESSÁRIO REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. PRECEDENTES. PARECER ACOLHIDO .
+Writ denegado.
