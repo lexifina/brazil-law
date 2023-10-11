@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido limi nar, impetrado em favor de JOAO BEZERRA DE SOUZA FILHO contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios proferido no Agravo em Execução Penal n. 0716112-31.2023.8.07.0000.
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de indulto formulado com base no Decreto n. 11.302/2022 (fls. 932-933).
+Irresignado, o Apenado interpôs agravo em execução, ao qual foi negado provimento pelo Tribunal estadual nos termos do acórdão acostado às fls. 1.039-1.056.
+Daí o presente writ, em que a Parte Impetrante aduz que foi pleiteado o indulto referente às penas impostas pela prática dos delitos tipificados nos arts. 14, caput, da Lei n. 10.826/2003, 155, caput, (duas vezes), do Código Penal, e 306, caput, da Lei n. 9.503/1997, pois preenchidos os requisitos previstos no Decreto n. 11.302/2022.
+Sustenta, para tanto, que, ao contrário do afirmado pelas instâncias ordinárias, "embora a execução compreenda outros delitos, em tese, impeditivos, não tem passagem, aqui, a norma impeditiva extraída do parágrafo único do art. 11 do Decreto de regência", pois "o disposto no art. 5º , ora invocado para embasar o pedido de indulto, por seu parágrafo único, estabelece que, mesmo havendo uma pluralidade de delitos, as penas devem ser consideradas, autonomamente, para fins de aferição da hipótese do "caput"" (fl. 7).
+Requer, assim, a concessão do indulto natalino previsto no Decreto n. 11.302/2022.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 1.100-1.108).
+É o relatório.
+Decido.
+Cumpre consignar que o exame de pedido de indulto ou de comutação de pena deve se ater à análise objetiva do preenchimento dos requisitos previstos no decreto presidencial, sob pena de ofensa ao princípio da legalidade. Nesse sentido:
+"A jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018) (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)." (AgRg no HC 623.203/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021.)
+"A interpretação extensiva das restrições contidas no decreto concessivo de comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, não preenchidos os requisitos estabelecidos na norma legal para a concessão do indulto ou da comutação, o benefício deve ser indeferido, sob pena de ofensa ao princípio da legalidade." (AgRg no HC 550.268/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020; sem grifos no original.)
+Assim, em homenagem ao princípio da legalidade, os decretos presidenciais são interpretados de forma literal, não havendo margem discricionária ao Magistrado para atuar além das exaustivas hipóteses legais previstas para conceder indulto ou comutação de pena.
+Na hipótese, o Tribunal estadual, ao manter o indeferimento do indulto, consignou que (fls. 1.055-1.056; sem grifos no original):
+" ..
+Por fim, volvendo ao caso em apreço, importante ressaltar que, dentre suas diversas condenações, o agravante cumpre três penas por roubo - circunstanciado e simples (nº 0003346-20.2015.8.07.0015; nº 0014101-40.2014.8.07.0015 e nº 0003121-34.2014.8.07.0015), ID 46199191 - págs. 413/423.
+Na esteira, o parágrafo único do artigo 11 do Decreto Presidencial é taxativo ao vedar o induto natalino ao crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo, verbis:
+ ..
+O termo "concurso" empregado no decreto presidencial deve ser interpretado de forma ampla, não se limitando aos casos em que foi reconhecido o concurso formal ou material entre os delitos. Deve abranger, portanto, os casos de mera unificação das penas, sob pena de tratamento desigual entre pessoas que cometeram exatamente os mesmos delitos, mas em circunstâncias diversas.
+Assim, tendo em vista que até a data relevante da norma (25/12/2022), o reeducando não havia cumprido a integralidade das penas dos delitos impeditivos ao benefício, não preenche o requisito objetivo para concessão do indulto quanto as execuções n. 0713127-22.2019.8.07.0003, n. 20130310077509, n. 20130310077654 e n. 0002669- 84.2019.8.07.0003. Destarte, irretocável a decisão ora questionada."
+Pela análise do aresto ora combatido, entendo correta a conclusão, tendo em conta que o parágrafo único do art. 11 do Decreto n. 11.302/2022 assim dispõe:
+"Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do disposto no art. 111 da Lei n.º 7.210, de 11 de julho de 1984.
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º."
+Com efeito, ao contrário do afirmado pela Defesa, o Apenado ainda está no cumprimento de pena imposta pelo cometimento de crimes impeditivos - tipificado nos arts. 157, caput, (duas vezes) e 157, § 2.º-A, inciso I, ambos do Código Penal -, situação que inibe o deferimento do indulto previsto no men cionado decreto.
+Assim, as instâncias ordinárias interpretaram o dispositivo em comento de forma literal, de maneira que não prospera a insurgência defensiva.
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. NÃO PREENCHIMENTO DE REQUISITO OBJETIVO. ORDEM DENEGADA.
