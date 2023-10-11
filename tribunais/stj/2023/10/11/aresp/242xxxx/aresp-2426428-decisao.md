@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por VALDIR JOSÉ FEDERHEN contra a decisão de fls. 574-577 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 465, e-STJ, grifos no original):
+APELAÇÃO CÍVEL. SEGUROS. AÇÃO DE COBRANÇA. SEGURO DE MÁQUINA AGRÍCOLA. PRESCRIÇÃO OCORRENTE.
+1. TRATANDO-SE DE AÇÃO ENVOLVENDO CONTRATO DE SEGURO DE VEÍCULO, APLICÁVEL, NA ESPÉCIE, A PRESCRIÇÃO ÂNUA, PREVISTANO ARTIGO 206, §1º, II, "B", DO CC.
+2. O MARCO INICIAL DO PRAZO PRESCRICIONAL DEVE SER A DATA DO SINISTRO. TODAVIA, HAVENDO PEDIDO ADMINISTRATIVO, SUSPENDE-SE O PRAZO PRESCRICIONAL, ATÉ QUE O SEGURADO TENHA CIÊNCIA DA DECISÃO, NOS TERMOS DA SÚMULA 229 DO STJ.
+3. CASO EM QUE A NEGATIVA PELA RÉ OCORREU EM 11-07-2018. AÇÃO AJUIZADA SOMENTE EM 22-07-2019, QUANDO JÁ ULTRAPASSADO O PRAZO PRESCRICIONAL.
+4. CONFISSÃO DA PARTE AUTORA ACERCA DA DATA DA CIÊNCIA INEQUÍVOCA DA NEGATIVA ADMINISTRATIVA DE COBERTURA.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 497-501, e-STJ).
+Nas razões do recurso especial (fls. 509-526, e-STJ), além de dissídio jurisprudencial, o recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 6º, VIII, do Código de Defesa do Consumidor e 206, § 1º, II, do Código Civil de 2002.
+Sustentou que o acórdão recorrido contém omissões acerca da aplicação do normativo atinente ao prazo prescricional, em especial acerca da ausência de comprovação, por parte da seguradora, de que o segurado recebeu a carta contendo a negativa de pagamento da indenização securitária pleiteada.
+Apontou que sua pretensão - de receber a indenização securitária contratada - não se encontra prescrita tendo em vista que, nos termos do normativo citado, o termo inicial para contagem do prazo ânuo aplicável à espécie somente tem início a partir da ciência inequívoca do segurado acerca da negativa de cobertura pela seguradora e não há nos autos comprovação do recebimento da aludida negativa, constando apenas missiva com data de envio, sem comprovação de seu recebimento, motivo pelo qual indevida a extinção do feito pela prescrição, devendo ter ele prosseguimento, com o deferimento da indenização pleiteada.
+Em juízo de admissibilidade (fls. 574-577, e-STJ), a corte de origem negou o processamento do recurso especial ante a aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido, óbice que tornou prejudicada a análise da divergência jurisprudencial apontada.
+Irresignado (fls. 586-603, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 607-630 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 462-, e-STJ):
+Pretende o autor o recebimento da indenização securitária relativamente ao sinistro envolvendo a escavadeira hidráulica de sua propriedade.
+A sentença extinguiu o feito em razão do reconhecimento da prescrição, considerando a ciência da negativa de cobertura em 11-07-2018 e o ajuizamento da demanda 22-07-2019.
+Pois bem. Tratando-se de ação envolvendo contrato de seguro, em que a parte autora busca a condenação da parte ré ao pagamento da indenização securitária em razão de invalidez permanente, aplicável, na espécie, a prescrição ânua, prevista no art. 206, §1º, II, "b", do CCB, verbis:
+(..)
+Além disso, este o prazo que restou consagrado na Súmula n. 101 do e. STJ: "a ação de indenização do segurado em grupo contra a seguradora prescreve em um ano".
+Na hipótese, tenho que há prova segura no sentido de que a parte segurada teve ciência inequívoca da negativa de cobertura em 11-07-2018, conforme narrativa posta na inicial.
+Assim, tendo em vista que a presente demanda foi ajuizada somente em 22-07-2019, conta-se a ocorrência da prescrição, porquanto ultrapassado o lapso anual.
+(..)
+Na mesma toada, a r. sentença recorrida, da lavra do ilustre Juiz de Direito, Dr. Marcelo da Silva Carvalho, cuja fundamentação peço vênia para transcrever e adoto como razões de decidir:
+ ..  Com efeito, com base na inicial verifiquei que o autor recebeu a carta de notificação da decisão negativa da seguradora na data de 11/07/2018, conforme referido em sua petição inicial.
+1.7. Somente diante de tal solicitação foi que a Ré, após muita resistência, enviou, em 11/07/2018, uma correspondência (DOC. 8), datada de 04/052018, dando conta de que "Com relação a este processo, informamos que não será possível atender ao seu pedido de indenização", pelo fato de que a mesma não identificou " a ocorrência de um evento amparado pelas coberturas contratadas"
+Ademais, pelo que constatei a carta de notificação foi redigida na data de 04/05/2018. Logo, causa estranheza que a carta teria sido entregue quase dois meses após sua confecção. Contudo, como não há nos autos documento indicando outra data, reputo válida a data indicada pelo próprio autor em sua inicial, recebimento da negativa em 11/07/2018, vez que não juntando documentos que comprovem o contrário, conforme preceitua o art. 373, I e II do CPC/2015.(sEM GRIFOS NO ORIGINAL)
+(..)
+Outrossim, com base na data informada (11/07/2018) e, considerando o disposto no art. 206, §1º, II, "b", do Código Civil, o qual, estabelece o prazo prescricional ânuo para pretensão do segurado contra o segurador, verifica-se que o feito restou fulminado pela prescrição, uma vez que a ação foi ajuizada apenas em 22/07/2019, mais de ano da negativa formal.  ..  - (grifos no original)
+Vale gizar que a inversão do ônus da prova - inclusive deferida no curso do processo, não serve para alterar o entendimento firmado, pois consta na inicial a data da comunicação da ne gativa, aliás, quase 02 (dois) meses depois da elaboração da missiva (04-05-2018).
+Idêntico raciocínio vale para a ausência de juntada do comprovante por parte da seguradora, pois a questão resta superada pelo relato da inicial e demais documentos existentes nos autos.
+Destarte, sob qualquer ângulo que se visualize a questão, a manutenção do decreto de prescrição é medida que se impõe (sem grifos no original).
+E nos embargos de declaração rejeitados (fl. 500, e-STJ, sem grifos no original):
+A parte embargante afirma que o acórdão incorreu em vícios, nos termos do art. 1.022do CPC.
+Na hipótese em apreço, entretanto, não vislumbro qualquer lacuna no aresto recorrido que justifique o acolhimento dos presentes embargos, porquanto, como se confere do teor do julgamento, restaram devidamente analisadas as questões trazidas ao exame do Tribunal e explicitadas as razões de convencimento do colegiado. Atinente ao primeiro ponto, constou expressamente no acórdão embargado que a parte segurada teve ciência inequívoca da negativa de cobertura em 11-07-2018, conforme narrativa posta na inicial.
+Igualmente foi mencionado que a inversão do ônus da prova deferida no curso do processo, não altera o entendimento firmado, pois na petição inicial há indicação da data da comunicação da negativa.
+As questões aventadas nos autos, destarte, foram apreciadas por este Colegiado e a conclusão adotada pelo acórdão proferido está devidamente fundamentada e motivada, ausente qualquer vício que implique nulidade do julgado, inclusive ofensa aos artigos 6º, VIII, do Código de Defesa do Consumidor e 206, § 1º, II, do Código Civil.
+Evidente, portanto, a pretensão da parte embargante de ver rediscutida a matéria posta no recurso e já apreciada por este Juízo, o que não é permitido pelo sistema processual vigente.
+Dessa forma, a revisão das conclusões do Tribunal de origem - de que o segurado teve ciência inequívoca acerca da negativa da seguradora em pagar a indenização securitária em 11/07/2018 -, para assim acolher a pretensão recursal, nos moldes em que pleiteada demandaria o reexame do acervo fático probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. CONCLUSÃO ESTADUAL DE TER OCORRIDO A CIÊNCIA INEQUIVOCA DO SEGURADO ACERCA DA NEGATIVA DA SEGURADORA EM PAGAR A INDENIZAÇÃO SECURITÁRIA CONTRATADA. PRESCRIÇÃO ÃNUA IMPLEMENTADA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
