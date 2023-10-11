@@ -1,0 +1,17 @@
+DECISÃO
+Kayti Gracia Gouvêa ajuizou a presente reclamação, com pedido liminar, fundamentada nos arts. 102, I, alínea I, e 105, I, f, ambos da CRFB, apontando como reclamado o Tribunal de Justiça do Estado de São Paulo, que julgou improcedente a ação rescisória ajuizada pela reclamante, em acórdão assim ementado:
+AÇÃO RESCISÓRIA. DECISÃO RESCINDENDA PROLATADA NOS AUTOS DE AÇÃO DE COBRANÇA DE TAXA DE MANUTENÇÃO E CONSERVAÇÃO DE LOTEAMENTO. DECADÊNCIA. OCORRÊNCIA. PRAZO DE DOIS ANOS DECORRIDOS DO TRÂNSITO EM JULGADO DA DECISÃO QUE SE PRETENDE RESCINDIR E NÃO DO TRÂNSITO EM JULGADO DO TEMA 492 DO STF. INTELIGÊNCIA DO ART. 975 DO CPC. AUSÊNCIA DE VIOLAÇÃO A NORMA JURÍDICA. SÚMULA Nº 343 DO STF.
+IMPROCEDÊNCIA DA PRETENSÃO RESCISÓRIA.
+Sustenta a reclamante, em síntese, que o referido acórdão "violou o entendimento sumulado do Egrégio Supremo Tribunal (Tema 492), e violou o determinado deste Egrégio Superior Tribunal (REsp 1.995.213 - SP) e não determinou a suspensão da ação de piso" (e-STJ, fl. 4).
+Brevemente relatado, decido.
+Não há como dar prosseguimento à presente reclamação.
+De início, não compete ao Superior Tribunal de Justiça examinar reclamação em que se aponta eventual descumprimento de tese fixada em recurso extraordinário (Tema 492/STF), sob pena de usurpação da competência do Supremo Tribunal Federal.
+Já em relação ao Recurso Especial n. 1.995.213/SP, melhor sorte não assiste à reclamante.
+A uma, porque o referido recurso especial foi afetado como representativo da controvérsia para definir "qual a natureza do crédito oriundo do rateio de despesas e cobrado por associações de moradores, se propter rem ou pessoal, a fim de viabilizar, ou não, a penhora do bem de família", matéria que não foi discutida, e nem sequer alegada, no bojo da ação rescisória subjacente.
+A duas, porque, segundo a iterativa jurisprudência deste Tribunal Superior, é inadmissível a reclamação para se realizar o controle de adequação do entendimento das instâncias ordinárias com as teses fixadas pelo STJ, em sede de recurso especial repetitivo, sendo impositiva a extinção do feito, sem resolução do mérito, por inadequação da via eleita (Rcl 36.476/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/02/2020, DJe 06/03/2020).
+E, a três, porque "não há previsão legal que autorize a suspensão de Ação Rescisória para que se aguarde o julgamento de recursos representativos da controvérsia e eventual alteração da jurisprudência do STJ ou do STF. O sobrestamento previsto na legislação processual, tanto na sistemática do CPC/1973 quanto na atualmente vigente, aplica-se apenas aos Recursos Esp eciais ou Recursos Extraordinários que ainda estejam em curso e que versem sobre a mesma matéria em discussão no recurso paradigma" (AR 5.720/PR, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 13/2/2019, DJe 1º/7/2019).
+Ante o exposto, indefiro liminarmente a petição inicial (art. 330, III, do CPC), por inadequação da via eleita, julgando extinta, por conseguinte, a reclamação, sem resolução do mérito, com fundamento no art. 485, I, do CPC.
+Fiquem as partes cientificadas de que a insistência injustificada (ou desnecessária) no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL. MANIFESTA INADMISSIBILIDADE. EXTINÇÃO, SEM RESOLUÇÃO DO MÉRITO.
