@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 8ª Vara do Trabalho de João Pessoa/PB, como suscitante, e a 2ª Vara de Fazenda Pública da Comarca daquela capital, a suscitada, nos autos de ação indenizatória movida contra o município de João Pessoa.
+A ação foi originariamente proposta perante a Justiça estadual, que declinou da competência, porque, segundo entende o magistrado local, de "acordo com o art. 114, da CF, com a inovação introduzida pela EC/45, a competência para o processo de julgamento de ações tais passou a ser da justiça obreira". O julgador trabalhista, por sua vez, ressaltou que "o autor trabalhava sem vínculo empregatício com o reclamado, a quem prestava serviço mediante contrato temporário, junto a Secretaria de Saúde do réu" (fl. 69), em razão de contrato administrativo, situação não abrangida pela competência da Justiça do Trabalho.
+Em razão dessa controvérsia restou suscitado o presente incidente processual, a ser dirimido por este Tribunal Superior.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, a questão posta a desa te encontra solução uniforme na jurisprudência desta Corte, no sentido da competência da Justiça estadual, em razão do caráter jurídico-administrativo do vínculo estabelecido entre o servidor, parte autora, e o ente público réu. Nesse sentido:
+PROCESSUAL CIVIL. SERVIDOR PUBLICO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DEMANDA ENVOLVENDO EMPREGADO CONTRATADO TEMPORARIAMENTE SOB O REGIME CELETISTA. ART 37, IX, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA COMUM. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou orientação segundo a qual compete à Justiça Comum processar e julgar as causas com origem nos contratos temporários firmados entre a Administração Pública e seus agentes, com fundamento no art 37, IX, da Constituição Federal, para a satisfação de necessidade transitória de excepcional interesse público, ainda que o instrumento de contrato ou a legislação local façam remissão ao regime da CLT (1ª S., AgRg no CC 138.953/RS, Rel. Min. Sérgio Kukina, DJe de 18.11.2016).
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no CC n. 184.362/PR, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 20/9/2022, DJe de 23/9/2022).
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. AJUIZADA COM O OBJETIVO DE OBTER CONDENAÇÃO DE MUNICÍPIO AO PAGAMENTO DE VERBAS DECORRENTES DE CONTRATO DE TRABALHO. REGIME TEMPORÁRIO. PRORROGAÇÃO. MANUTENÇÃO DO VÍNCULO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM.
+- O STF, ao julgar a ADln n.º 3.395-DF, excluiu da expressão relação de trabalho as ações decorrentes do regime estatutário. Assim, a competência para julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho, quando envolverem servidor estatutário não celetista e ente público, será da Justiça comum, estadual ou Federal, conforme o caso.
+- A contratação temporária terá sempre caráter jurídico-administrativo, ainda que haja prorrogação do contrato de maneira irregular, pois estas mudanças não têm o condão de alterar o vínculo inicialmente estabelecido entre as partes. Precedentes do STF e do STJ.
+- Agravo provido para declarar competente o Juízo de Direito da 3ª Vara Cível de Salto - SP.
+(AgRg no CC n. 116.913/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 25/4/2012, DJe de 3/5/2012).
+No caso dos autos, extrai-se da inicial a existência de uma contratação temporária pelo município réu, restando patente a natureza jurídico-administrativa do vínculo, a impor o afastamento da competência da Justiça do Trabalho.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 2ª Vara de Fazenda Pública da Comarca de João Pessoa, a suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
