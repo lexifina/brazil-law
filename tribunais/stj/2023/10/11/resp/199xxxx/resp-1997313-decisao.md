@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça daquela Unidade Federativa no Agravo em Execução n. 70077507978 (n. CNJ: 011600 9-11.2018.8.21.7000).
+Consta dos autos que o Juízo de primeiro grau homologou a falta grave cometida pelo Recorrido, determinando a regressão ao regime fechado, alterando a data-base para fins de progressão de regime e decretando a perda de 1/3 (um terço) dos dias já remidos (fl. 8).
+Contra essa decisão, a Defesa interpôs agravo em execução. O Tribunal de origem deu provimento ao recurso e afastou o reconhecimento da falta grave (fls. 52-59).
+Os embargos de declaração opostos foram rejeitados (fls. 79-83).
+A Acusação interpôs recursos extraordinário (fls. 90-106), o qual foi sobrestado, a fim de aguardar exame de matéria submetida ao rito da Repercussão Geral (Tema n. 941/STF), nos termos da decisão de fls. 120-122.
+O 2.º Vice-Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul, tendo em vista o julgamento pelo Pretório Excelso do tema de repercussão geral antes mencionado, determinou o envio dos autos ao órgão julgador, a fim de que fosse verificada a possibilidade de exercer juízo de retratação (fls. 128-131).
+A 3.ª Câmara Criminal da Corte de origem, em juízo de retratação, afastou a nulidade da decisão de primeiro grau que homologara a falta grave e, de ofício, declarou a prescrição da pretensão punitiva estatal, nos termos do inciso VI do art. 109 do Código Penal, julgando prejudicado o agravo em execução (fls. 134-141).
+Os embargos de declaração opostos foram rejeitados (fls. 164-171).
+Sustenta a Acusação, nas razões do apelo nobre, contrariedade ao art. 619 do Código de Processo Penal; bem como aos arts. 109, inciso IV, e 116, inciso I, do Código Penal.
+Aduz que houve negativa de prestação jurisdicional, por parte do Tribunal a quo, quando do julgamento dos embargos de declaração.
+Alega que o prazo prescricional de 3 (três) anos a ser observado no processo de execução penal, na hipótese de falta grave, deve ser contado entre a apuração dessa e a respectiva homologação.
+Afirma que, na espécie, " ..  considerando que, na espécie, a falta grave objeto do presente feito foi cometida em 05/05/2017, sendo devidamente apurada, reconhecida e homologada no juízo de origem em 28/11/2017 (fl. 06), não transcorreu o prazo de três anos entre os referidos marcos, e, não se havendo falar em prescrição com base em período posterior à data em que homologada a falta, a reversão da decisão recorrida é medida que se impõe" (fl. 187).
+Argumenta que, independentemente de determinação expressa quanto ao sobrestamento do exame do recurso extraordinário interposto, de rigor reconhecer que a tramitação do citado apelo extremo interposto pelo Parquet foi obstada até o julgamento, pelo Supremo Tribunal Federal, do Tema de Repercussão Geral n. 941/STF. Portanto, houve implícita suspensão do prazo prescricional decorrente do sobrestamento, o que caracteriza questão externa prejudicial ao julgamento.
+Assevera que, " ..  considerando que a falta foi cometida em 05/05/2017, sendo devidamente apurada, reconhecida e homologada no juízo de origem em 28/11/2017 (fl. 06) e, em 24/10/2018 (fls. 72/73), foi aplicada a sistemática de repercussão geral pela Vice-Presidência do Tribunal local, que durou até o julgamento do tema, inviável o reconhecimento da prescrição no caso em tela" (fl. 189).
+Foram apresentadas contrarrazões (fls. 199-205). O recurso especial foi admitido (fls. 207-219).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento e provimento do apelo nobre (fls. 239-250).
+É o relatório.
+Decido.
+No que diz respeito à contrariedade ao art. 619 do Código de Processo Penal, verifica-se que o Tribunal de origem apresentou fundamentos suficientes para rejeitar os aclaratórios opostos pela Defesa. A propósito, da atenta leitura do acórdão recorrido, constata-se que o Tribunal a quo solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento.
+Vale ressaltar que, ainda que o Recorrente entenda equivocada ou insubsistente a fundamentação que alicerça o acórdão recorrido, isso não implica, necessariamente, que esta seja ausente. Há significativa distinção entre a decisão que peca pela inexistência de fundamentos e aquela que traz resultado desfavorável à pretensão do litigante.
+A jurisprudência desta Corte Superior de Justiça é firme no sentido de que o órgão judicial, para expressar sua convicção, não está obrigado a aduzir comentários a respeito de todos os argumentos levantados pelas partes, quando decidir a causa com fundamentos capazes de sustentar sua conclusão.
+Nesse sentido:
+" ..
+1. No recurso especial, a parte pretende a declaração de nulidade do acórdão recorrido por ofensa ao art. 619 do CPP, ao argumento de que o Tribunal a quo não teria se manifestado em relação à omissão apontada pelo agravante.
+2. É cediço que o puro e simples inconformismo do recorrente com a solução dada pela Corte a quo à controvérsia não dá ensejo à oposição de embargos de declaração.
+3. O julgador não está obrigado a refutar expressamente todos os argumentos declinados pelas partes na defesa de suas posições processuais, desde que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões deduzidas.
+4. Na hipótese dos autos não se vislumbra a aventada negativa de prestação jurisdicional pela Corte a quo no julgamento dos embargos declaratórios, uma vez que foram refutadas todas as alegações do réu, ainda que de forma contrária aos interesses da defesa.
+ ..
+Agravo improvido." (AgRg no AREsp 463.300/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/03/2018, DJe 23/03/2018.)
+No mais, o acórdão recorrido, na parte que interessa, adotou a seguinte fundamentação (fls. 366; sem grifos no original):
+" ..  o reconhecimento da repercussão geral não provoca a suspensão ou interrupção automática do prazo prescricional, devendo ocorrer declaração. expressa do sobrestamento pelo Ministro Relator, o que não ocorreu na espécie.
+Feitas estas considerações, na esteira do entendimento Pacificado, no Superior Tribunal de Justiça e no Supremo Tribunal Federal, destaco que a prescrição é regida pelo artigo 109, inciso VI, do Código Penal ante a ausência de norma especifica, cujo prazo prescricional é de três anos para a aplicação da sanção administrativa disciplinar decorrente do cometimento da falta grave.
+Dessa forma, declaro prescrita a possibilidade de análise da falta disciplinar, uma vez que decorridos mais de três anos do cometimento da falta disciplinar, datada de 05 de maio de 2017, resultando prejudicado o presente recurso.
+Diante do exposto, em juízo de retratação, de ofício, declaro extinta a punibilidade da conduta faltosa pela prescrição, com base no artigo 109, inciso VI, do Código Penai, restando prejudicado o presente recurso."
+Nos termos da jurisprudência desta Corte Superior de Justiça, " ..  não houve o sobrestamento dos processos, nem a suspensão do prazo prescricional, pelo Supremo Tribunal Federal no RE n. 972.598/RS - tema 941" (HC n. 682.633/MG, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1.ª Região), Sexta Turma, julgado em 5/10/2021, DJe de 11/10/2021).
+No mesmo sentido:
+" ..
+1. O Supremo Tribunal Federal, ao reconhecer a repercussão geral no RE n. 972.5 9 8/RS - Tema n. 941, não sobrestou o andamento nem suspendeu o prazo prescricional dos processos em curso
+2. É bem verdade que o art. 1.030, III, do Código de Processo Civil prevê a possibilidade de o relator sobrestar o recurso que versar sobre controvérsia de carácter repetitivo. Contudo, nada dispõe acerca da possibilidade de suspensão do prazo prescricional nos casos em que reconhecida a repercussão geral do tema.
+3. Assim, em razão da omissão legal, não há como aplicar, de forma extensiva e prejudicial ao recorrido, o que preceitua o art. 1.035, § 5º, do CPC, no que tange à suspensão do prazo prescricional, pois não é admissível a analogia in malam partem.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 2.073.647/RS, relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+" ..
+1.  ..  não houve o sobrestamento dos processos nem a suspensão do prazo prescricional, pelo Supremo Tribunal Federal, no RE n. 972.598/RS - tema 941 (HC n. 682.633/MG, relator Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe de 11/10/2021).
+ ..
+4. Agravo regimental improvido." (AgRg no REsp n. 2.010.353/RS, relator Ministro SEBASTIÃO REIS JÚNIOR , Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Por outro lado, também conforme o entendimento pacificado nesta Corte Superior de Justiça, ante a ausência de norma legal expressa sobre o tema, aplica-se às faltas graves o menor dos prazos prescricionais gerais previstos no art. 109 do Código Penal, qual seja, 3 (três) anos (inciso VI).
+Sobre o tema, destaco os seguintes julgados:
+" ..
+3. É de 3 (três) anos o prazo prescricional para a aplicação de sanção disciplinar decorrente do cometimento de falta grave, após a edição da Lei n. 12.234/2010, utilizando-se, para tanto, o art. 109, VI, do Código Penal, diante da falta de norma específica quanto à prescrição em sede de execução. Na hipótese, verifica-se que a falta grave teria sido, em tese, cometida em 20/9/2014 e anulada por esta Corte em decisão Colegiada publicada em 9/12/2015. Assim, é de rigor o reconhecimento da ocorrência da prescrição, pois ultrapassado o referido lapso de 3 (três) anos para o reconhecimento judicial da suposta falta.
+4. Em juízo de retratação, recurso ordinário em habeas corpus improvido e ordem concedida de ofício para ver reconhecida a prescrição da falta grave." (RHC 58.726/MT, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021, sem grifos no original.)
+" ..
+1. As Turmas que compõem a Terceira Seção desta Corte firmaram o entendimento de que, em razão da ausência de legislação específica, a prescrição da pretensão de se apurar falta disciplinar, cometida no curso da execução penal, deve ser regulada, por analogia, pelo prazo do art. 109 do Código Penal, com a incidência do menor lapso previsto, atualmente de três anos, conforme dispõe o inciso VI do aludido artigo (HC 527.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/11/2019, DJe 26/11/2019).
+ .. ." (AgRg no HC 618.536/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 17/02/2021, sem grifos no original.)
+" ..
+1. A prescrição das faltas disciplinares de natureza grave, em virtude da inexistência de legislação específica, regula-se, por analogia, pelo menor dos prazos previstos no art. 109, VI, do Código Penal, de 3 (três) anos.
+2. Em observância ao princípio da legalidade, as causas suspensivas da prescrição demandam expressa previsão legal, o que não se vislumbra na hipótese prevista no art. 1.030, III, do CPC, utilizada para sobrestar o processo no Tribunal de origem, não sendo admissível a analogia in malam partem.
+3. Como a decisão proferida na QO no RE n. 966.177/RS refere-se especificamente à hipótese prevista no art. 1.035, § 5º, do CPC, e não houve o sobrestamento dos processos, nem a suspensão do prazo prescricional, pelo Supremo Tribunal Federal no RE n. 972.598/RS - tema 941, verifica-se a ocorrência de manifesta ilegalidade.
+4. Decorrido lapso superior a 3 (três) anos, previsto no art. 109, VI, do CP, desde a prática da falta disciplinar grave e o seu reconhecimento, em juízo de retratação, pelo Tribunal de origem, deve ser reconhecida a prescrição.
+5. Habeas corpus concedido para afastar o reconhecimento da falta disciplinar e de seus consectários legais." (HC 682.633/MG, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO, SEXTA TURMA, DJe 11/10/2021.)
+Na hipótese dos autos, conforme consta das decisões proferidas pelas instâncias ordinárias, a falta grave atribuída ao Recorrido foi cometida em 05/05/2017 e homologada em 28/11/2017. Ocorre que, nos termos do acórdão proferido pela Corte a quo, quando do julgamento do agravo em execução, o provimento judicial proferido pelo magistrado de piso foi reformado, a fim de afastar o reconhecimento da falta grave e dos respectivos consectários legais (fls. 52-59).
+Nesse diapasão, não merece reproche o aresto atacado, pois foi proferido em 26/10/2020 (considerado publicado em 17/02/2021 - fl. 148) e, tal como consignou o Tribunal de origem, forçoso reconhecer transcurso do prazo trienal entre a data em que cometida a falta grave e aquela em que ocorreu o julgamento, em juízo de retratação, do agravo em execução.
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL PENAL. EXECUÇÃO. FALTA GRAVE. PRESCRIÇÃO. ALEGAÇÃO DE AFRONTA AO ART. 619 DO CPP. INEXISTENTE. TEMA DE REPERCUSSÃO GERAL N. 941/STF. SOBRESTAMENTO DO PRAZO PRESCRICIONAL. INEXISTENTE. PRESCRIÇÃO. PRAZO TRIENAL. ART. 109, INCISO VI, DO CÓDIGO PENAL. OCORRRÊNCIA. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
