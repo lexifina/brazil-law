@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VENAIDE SGANDERLA CANTERLE contra a decisão monocrática que, às fls. 297-300, conheceu do agravo em recurso especial interposto pelo INSS para conceder provimento ao recurso especial da autarquia previdenciária.
+Em seus aclaratórios, fls. 302-304, o contribuinte suscitou que o decisum ora embargado foi omisso ao não tratar acerca da (i) eventual necessidade de devolução dos valores que o segurado havia recebido na rede bancária em virtude da eficácia da decisão proferida pelo Tribunal de origem e (ii) do possível cabimento de concessão aposentadoria híbrida ao particular, com fundamento no princípio da fungibilidade dos pedidos.
+É o relatório. Decido.
+Primeiramente, cumpre observar que tanto o recurso especial, quanto o agravo em recurso especial interpostos pelo INSS versaram apenas acerca da impossibilidade de concessão de aposentadoria por idade rural ao segurado, não havendo pleito acerca dos dois pontos indicados como omissos pelo embargante, fator que ensejou em pronunciamento judicial que se limitou a resolver a controvérsia jurídica arguida pela Autarquia.
+Ressalta-se, ainda, que o segurado, quando intimado a se manifestar, não apresentou contrarrazões ao recurso especial nem contrarrazões ao agravo em recurso especial interpostos pelo INSS, momentos processuais adequados para reivindicar eventual direito subsidiário à concessão de aposentadoria híbrida e de não devolução dos valores recebidos em virtude da eficácia da decisão proferida pelo Tribunal de origem.
+Deve-se destacar, por fim, que mediante a simples leitura dos pedidos formulados na petição inicial pelo segurado, percebe-se que não existe qualquer arguição de concessão, ainda que a título subsidiário, de aposentadoria híbrida, pleito que, por óbvio, não pode ser inicialmente apreciado por esta Corte Superior no âmbito da apreciação estreita de um recurso especial.
+Ante o exposto, nego provimento aos embargos de declaração apresentados pelo segurado.
+Publique-se. Intimem-se.
+EMENTA
