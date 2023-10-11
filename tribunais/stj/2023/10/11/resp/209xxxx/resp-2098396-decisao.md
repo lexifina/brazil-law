@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A., fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 124):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL. ENDEREÇO INFORMADO NO CONTRATO. NÃO RECEBIMENTO. ANOTAÇÃO DE AUSENTE. DETERMINAÇÃO DE EMENDA. DESCUMPRIMENTO.
+1. O Superior Tribunal de Justiça firmou o entendimento de que "a comprovação da mora é imprescindível à busca e apreensão do bem alienado fiduciariamente" (Súmula nº 72)
+2. A constituição regular mora não resta configurada se a notificação extrajudicial retorna com a anotação de que o devedor se encontrava ausente no momento da diligência.
+3. O descumprimento da ordem emenda implica no indeferimento da petição inicial.
+4. Negou-se provimento ao recurso.
+Nas razões recursais, a recorrente alega, além de divergência jurisprudencial, violação ao art. 2º, § 2º, do Decreto-Lei n. 911/1969, sustentando que (e-STJ, fl. 144) "a constituição da mora ocorreu de pleno direito, independentemente de qualquer ato ou iniciativa do credor, por aplicação simples da regra dies interpellat pro homine, situação em que, a lex ou dies assumem o papel de intimação".
+Defende que o simples envio da notificação por meio de carta registrada com aviso de recebimento ao endereço do devedor, lançado no contrato, já é suficiente para a comprovação da mora.
+Assevera ter a mora decorrido do simples vencimento do prazo para o pagamento, e estando ela devidamente comprovada através da notificação expedida, irrelevante se torna o fato de a correspondência não ter sido entregue nas mãos do devedor.
+Argumenta que (e-STJ, fl. 145-146):
+A procura só poderia ser feita naquele endereço (único indicado no contrato). Se não encontrado o notificando no seu endereço domiciliar, não se afigura lógico e tampouco jurídico impingir ao recorrente o diabólico ônus de saber qual o melhor horário para notificá-lo, quanto menos limitar o seu direito de reaver a coisa dada em garantia contratual porque não conseguiu, em nenhuma das oportunidades, encontrar o recorrido ou qualquer outra pessoa que pudesse receber a correspondência.
+Neste descortino, afigura-se absolutamente legal e regular a notificação apresentada pelo recorrente para fins de comprovação da mora, seja porque o inadimplemento não chegou a ser negado, bem como porque a carta registrada com aviso de recebimento foi corretamente direcionada para o endereço anotado do contrato e só não foi entregue por circunstância alheia à vontade do credor - ausência do devedor nas três vezes em que o agente dos Correios lá compareceu para proceder a entrega.
+Sem contrarrazões (e-STJ, fl. 166).
+Brevemente relatado, decido.
+A pretensão recursal merece prosperar.
+O Tribunal de origem, ao se manifestar sobre a validade da notificação extrajudicial realizada no endereço constante no contrato firmado entre as partes para constituí-lo em mora, que retornou pelo motivo "ausente", concluiu pela ausência de demonstração da mora nestes termos (e-STJ, fls. 127-128):
+Como se vê, a regra prevê que a mora poderá ser comprovada com envio de carta registrada com aviso de recebimento, dispensando, porém, a necessidade de que a assinatura apostada no AR seja do próprio destinatário.
+No presente caso, a notificação extrajudicial foi enviada ao endereço informado no contrato celebrado. No entanto, esta retornou pelo motivo ausente em três oportunidades.
+Logo, não se trata da hipótese de mudança de domicílio sem prévia comunicação ao credor fiduciário, mas de não entrega da correspondência no endereço informado no contrato, seja para o devedor, seja para qualquer outra pessoa.
+Nessas circunstâncias, havendo a carta retornado com a anotação de que o devedor se encontrava ausente no momento da diligência, entendo não demonstrada a mora.
+ ..
+Assim, por entender que não é possível aferir a constituição da mora pelo simples envio da notificação extrajudicial sem o seu efetivo recebimento, conforme prevê a legislação, impõe-se a manutenção da sentença que indeferiu a petição e, por consequência, a extinção do processo sem resolução do mérito, com fundamento nos arts 321, parágrafo único, e 485, I, ambos do Código de Processo Civil.
+A questão refere-se ao Tema repetitivo n. 1.132, delimitado na seguinte ementa:
+PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - COMPROVAÇÃO DA MORA - ALIENAÇÃO FIDUCIÁRIA EM GARANTIA - NOTIFICAÇÃO EXTRAJUDICIAL - ENTREGA NO ENDEREÇO DO DEVEDOR - NECESSITA, OU NÃO, DE RECEBIMENTO PESSOAL PELO DESTINATÁRIO.
+1. Delimitação da controvérsia: 1.1. Definir se, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente, ou não, o envio de notificação extrajudicial ao endereço do devedor indicado no instrumento contratual, dispensando-se, por conseguinte, que a assinatura do aviso de recebimento seja do próprio destinatário.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+Recentemente, a Segunda Seção do Superior Tribunal de Justiça apreciou a questão no julgamento do REsp n. 1.951.662/RS definindo que, para comprovação da mora, em contratos de alienação fiduciária, é suficiente o envio de notificação ao endereço do devedor indicado no instrumento contratual, ficando a tese aprovada com a seguinte redação:
+Para a comprovação da mora nos contratos garantidos "Para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023)
+No mesmo sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. RECONSIDERAÇÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO. DEVEDOR AUSENTE. ENVIO PARA O ENDEREÇO DO DEVEDOR. SÚMULA 568/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Em assentada recente, a Segunda Seção do Superior Tribunal de Justiça deliberou o Tema repetitivo 1132, pacificando o entendimento de que, "para a comprovação da mora nos contratos garantidos por alienação fiduciária é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pro próprio destinatário, quer seja por terceiros" (REsp 1.951.662/RS, Relator para acórdão Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 9/8/2023).
+2. No caso concreto, houve o envio regular da notificação para o endereço do devedor, cuja comunicação não se completou em virtude de sua ausência. Portanto, comprovada a mora, deve prosseguir a ação de busca e apreensão.
+3. Agravo interno provido. Recurso especial provido. (AgInt no REsp 1.958.331/RJ, Relator Min. RAUL ARAÚJO, Quarta Turma, julgado em 4 /9/2023, DJe de 08/9/2023).
+Diante do recente entendimento desta Corte Superior é de rigor o provimento do presente recurso especial.
+Ante o exposto, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Juízo de primeiro grau para que prossiga na regular tramitação da ação de busca e apreensão.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL. DEVEDOR AUSENTE. ENVIO PARA O ENDEREÇO DO DEVEDOR. TEMA1.132. SUFICIENTE O ENVIO DE NOTIFICAÇÃO EXTRAJUDICIAL AO DEVEDOR NO ENDEREÇO INDICADO NO INSTRUMENTO CONTRATUAL. DISPENSA-SE A PROVA DO RECEBIMENTO. RECURSO ESPECIAL PROVIDO.
