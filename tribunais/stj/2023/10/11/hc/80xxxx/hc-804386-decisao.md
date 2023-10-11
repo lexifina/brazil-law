@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOEL MATIAS RIBEIRO LEITE contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no HC n. 1.0000.22.289522-9/000.
+Colhe-se nos autos que o Paciente foi denunciado como incurso nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, tendo sido decretada sua prisão preventiva no dia 30/11/2022. Segundo afirma a Defesa, o mandado de prisão foi cumprido no dia 1.º/12/2022.
+Irresignada com a segregação cautelar, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Neste writ, o Imperante narra que, " a pós o cumprimento do mandado de prisão, os policiais localizaram no interior da residência do paciente uma pequena bucha de maconha, pesando aproximadamente 5g, conforme laudo preliminar em anexo. Não foi encontrado nenhum outro objeto relacionado ao tráfico de drogas, como balança de precisão, dinheiro, caderno de anotação e etc." (fl. 8).
+Sustenta que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal, e que é suficiente a imposição de medidas cautelares diversas.
+Aduz que, "em que pese ser reprovável as supostas condutas praticadas pelo paciente, os diálogos se tratam de conversas antigas, sendo a primeira há mais de 02 anos e a última em 24.08.2021, ou seja, há mais de um ano. Não guardando, logicamente, mínima contemporaneidade com a prisão preventiva decretada em face do paciente" (fl. 10).
+Ressalta que se trata de Réu primário, com residência fixa e atividade lícita.
+Pede, em liminar e no mérito, a revogação da prisão preventiva do Paciente, mediante a aplicação das medidas cautelares previstas no art. 319, incisos I e IV, do Código de Processo Penal.
+O pedido liminar foi indeferido às fls. 104-106.
+Informações prestadas às fls. 109-114 e 116-132.
+O Ministério Público Federal manifestou-se às fls. 141-146, opinando pelo não conhecimento da impetração e, se conhecida, pela denegação da ordem.
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que, no dia 24/08/2023, foi proferida sentença nos autos da ação penal em epígrafe, na qual o Paciente foi condenado como incurso no art. 33, caput, e no art. 35, caput, ambos da Lei n. 11.343/2006, na forma do art. 69 do Código Penal, ao cumprimento da pena de 09 (nove) anos de reclusão e 1.349 (hum mil e trezentos e quarenta e nove) dias-multa.
+Na oportunidade, a Juíza sentenciante negou ao Acusado o direito de recorrer em liberdade com base nas seguintes razões:
+"Verifico que os acusados responderam a todo o processo em prisão preventiva, em razão da decisão que a decretou a fim de garantir a ordem pública, comprometida pelo risco de reiteração criminosa. Assim, ainda presentes os requisitos dos artigos 312 e 313 do CPP, eis que restaram comprovadas a prática do tráfico de drogas e associação para o tráfico pelos acusados, sendo condenado em regime fechado. Portanto, mantidos os elementos que ensejaram sua prisão, MANTENHO a prisão preventiva dos acusados Rafael Gonçalves Ferreira, Joel Matias Ribeiro Leite e Tiago Alves Alvarenga, NEGANDO-LHES o direito de recorrer em liberdade. Atenta ao pedido formulado no item f) das alegações finais ofertadas pelo acusado Rafael Gonçalves." (grifos diversos do original)
+Assim, há novo título a respaldar a custódia cautelar do Paciente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, por meio da qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal, in verbis: "Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta".
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foi agregada nova fundamentação, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso II, alínea a).
+Nesse sentido, mutatis mutandis:
+" ..
+1. A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTO AO DECRETO PRISIONAL PRIMITIVO. PREJUDICIALIDADE.  ..  AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, NESTA EXTENSÃO, DESPROVIDO.
+ ..
+2. In casu, da leitura da sentença condenatória, verifica-se que foram agregados novos fundamentos ao decreto prisional primitivo, tendo em vista que mantida a segregação cautelar também em observação ao reconhecimento da responsabilidade criminal e devido ao fato do agravante ter permanecido preso durante toda a instrução processual. Os novos fundamentos devem ser submetidos perante ao Tribunal a quo antes de serem aqui analisados, sob pena de se incidir em indevida supressão de instância.
+ ..
+6. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido." (AgRg no HC 604.548/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 1.º/12/2020, DJe 03/12/2020; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO. IMPOSSIBILIDADE DE APRECIAÇÃO. PEDIDO DE HABEAS CORPUS PREJUDICADO.
