@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS HENRIQUE FERREIRA DA SILVA contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial manejado com apoio no art. 105, III, alíneas "a" e "c", da Constituição Federal.
+Em suma, requer o provimento do recurso para que seja reformado o acórdão recorrido, sustentando:
+"a) a ABSOLVIÇÃO do Recorrente com fundamento no artigo 386, inciso VII, do Código de Processo Penal, EM RAZÃO DA AUSÊNCIA DE PRESSUPOSTOS VÁLIDOS PARA A REALIZAÇÃO DA INTERCEPTAÇÃO TELEFÔNICA; ou
+b) a Absolvição do Recorrente, POR FALTA DE PROVAS DE QUE CONCORREU PARA A INFRAÇÃO PENAL, com fulcro no artigo 386, inciso III, do Código de Processo Penal.
+Caso entenda não ser caso de nulidade ou absolvição, requer:
+a) a fixação da pena-base para seu patamar mínimo legal; e
+b) a aplicação da causa de diminuição do artigo 33, § 4º, da Lei 11.343/06 em seu grau máximo, qual seja, dois terços; e
+c) a fixação de regime inicial aberto, com a substituição da pena privativa de liberdade em pena restritiva de direitos, na forma da lei."
+Foram apresentadas contrarrazões (e-STJ, fls. 1855-1872).
+O recurso foi inadmitido (e-STJ, fls. 1898-1900). Daí este agravo (e-STJ, fls. 1910-1917).
+O Ministério Público Federal opina pelo não conhecimento do agravo (e-STJ, fls. 2017-2032).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, o recurso especial não foi admitido diante do contido nas Súmulas 7 e 182, ambas do STJ; diante da não comprovação do dissídio jurisprudencial, nos termos exigidos legal e regimentalmente; e diante da impropriedade da via eleita para alegação de violação de dispositivo constitucional.
+Por outro lado, o agravante não refutou adequadamente todos os fundamentos da decisão agravada.
+Sobre a aplicação da Súmula 7/STJ, o agravo traz apenas razões genéricas de inconformismo (aduzindo que não seria necessário reexaminar as provas dos autos), o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182/STJ. PENAL E PROCESSUAL PENAL. FURTO SIMPLES NA MODALIDADE TENTADA. MINUTA DE AGRAVO QUE NÃO INFIRMA DE FORMA ESPECIFICA E CONCRETA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. IMPUGNAÇÃO GENÉRICA. SÚMULA N. 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO INADMITIDO. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, de modo específico e concreto, os fundamentos da decisão agravada relativos à aplicação das Súmulas n. 7 e 83, ambas do Superior Tribunal de Justiça, atraindo, à espécie, a incidência da Súmula n. 182 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula n. 7/STJ, a Agravante limitou-se a sustentar, genericamente, que as pretensões elencadas no apelo nobre envolvem mero debate jurídico, não demandando, assim, reexame de provas, sem explicitar, contudo, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+ ..  6. Agravo regimental desprovido".
+(AgRg no AREsp 1789363/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/02/2021, DJe 17/02/2021).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. MERA REITERAÇÃO DOS ARGUMENTOS JÁ EXAMINADOS. SÚMULA N. 182/STJ. TRÁFICO INTERNACIONAL DE ENTORPECENTES. RÉ FLAGRADA COM 2KG DE COCAÍNA NO AEROPORTO INTERNACIONAL DE SÃO PAULO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RECORRENTE SEM RESIDÊNCIA OU VÍNCULO LABORAL NO BRASIL. MÃE DE 2 FILHOS MENORES QUE MORAM COM O PAI NO EXTERIOR (GEÓRGIA). IMPOSSIBILIDADE DA CONCESSÃO DE PRISÃO DOMICILIAR. PORTADORA DE DIABETES. COVID-19. ACORDO DE NÃO PERSECUÇÃO PENAL (ART. 28-A DO CPP). PENA MÍNIMA SUPERIOR A 4 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas ou à insistência no mérito da controvérsia.
+ ..  11. Agravo regimental não conhecido".
+(AgRg no RHC 128.660/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/08/2020, DJe 24/08/2020).
+Ademais, a impugnação relativa ao óbice da não demonstração do dissídio jurisprudencial também foi feita de forma genérica, sem a demonstração do devido cotejo analítico quando da interposição do recurso especial.
+E, ainda, o agravo não faz qualquer menção ao óbice relativo à impropriedade da via eleita para alegação de violação a dispositivos e princípios constitucionais.
+A propósito, como bem pontuou o Ministério Público Federal em seu parecer:
+"De fato. LUIS HENRIQUE deixou de impugnar o fundamento pertinente à inadequação do recurso especial para alegar violação a dispositivos constitucionais.
+Mesmo em relação ao dissídio, não demonstra que tenha realizado o indispensável cotejamento entre os acórdãos ditos dissidentes, de modo a evide nciar a igualdade de situação fática e diversidade de solução jurídica, com base no mesmo dispositivo de lei federal, um dos motivos para inadmissão do apelo.
+Relativamente ao fundamento imposto pela Súmula 7-STJ, de forma muito genérica, alegou ser "mais ilusório ainda suscitar a aplicação da Súmula 07 - STJ", diante da legislação apontada como violada, deixando, todavia, de transcrever qualquer trecho do acórdão recorrido através do qual se possa evidenciar, sem necessidade devasculhar o sítio probatório, a violação dos dispositivos de lei violados, especialmente o art356, VII, do CPP, que trata da insuficiência de provas para a condenação, ou mesmo parademonstrar a alega ocorrência de bis in idem na dosimetria penal.
+Desatendido, portanto, o requisito da dialeticidade recursal, não se esquecendo que para demonstração da impertinência da Súmula 7-STJ ou 279-STF, "não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe de 18/11/2016)." (e-STJ, fl. 2028, grifou-se).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ante o exposto, com apo io no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
