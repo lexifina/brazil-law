@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Faro - Juízo Local Criminal de Faro - Juiz 3) solicita a cooperação jurídica internacional, no sentido de obtenção de informações acerca do paradeiro de RAFAEL FERNANDO FRANCISCO TEIXEIRA SILVA, ora interessado, bem como de sua posterior notificação para tomar ciência da conversão da penalidade de multa em pena de 66 (sessenta e seis) dias de prisão subsidiária, nos autos do Processo n.º 22/11.6PCFAR (fl. 38-40).
+A intimação prévia foi recebida por terceiro, após o auxílio do Parquet federal, conforme avisos de recebimento acostados às fls. 65-66 e 71-72.
+Tendo decorrido o prazo para manifestação do interessado, a Defensoria Pública da União o representou na condição de curadora especial e impugnou a carta rogatória. Argumenta, para tanto, que os requisitos formais para a apresentação da comissão não estão preenchidos, ante a ausência da integralidade dos elementos informativos do processo originário. Assinala que a providência adotada pela justiça estrangeira - conversão da multa em prisão subsidiária - não é compatível com a ordem constitucional brasileira. Acrescenta que a comissão constitui mera reiteração de instrumento anterior. Requer a não concessão do exequatur (fls. 95-96).
+O Ministério Público Federal opinou pela concessão do exequatur para notificar a parte interessada (fls. 103-106).
+É o relatório.
+Decido.
+De início, no que tange à suposta reiteração de pedidos, é de se destacar que a CR 15246 objetivava dar ciência ao interessado acerca da sentença que o condenou pela prática do crime de condução de veículo sem habilitação legal e fora cumprida. O pedido encartado na presente rogatória se refere ao inadimplemento da obrigação anterior, não constitui reiteração e está em outra fase processual.
+No que se refere à alegação de que a carta rogatória foi deficientemente instruída, a impugnação tampouco procede. O pedido de diligência contém todas as informações necessárias à compreensão da controvérsia e da providência requerida pela Justiça rogante, em especial as cópias dos documentos que apontam o delito e a punição imposta.
+Portanto, é desnecessária a juntada de elementos informativos aos autos, conforme demonstra o seguinte precedente da Corte Especial:
+AGRAVO INTERNO NA CARTA ROGATÓRIA. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA COMPREENSÃO DA CONTROVÉRSIA. A CONCESSÃO DE EXEQUATUR À CARTA ROGATÓRIA NÃO IMPORTA EM VIOLAÇÃO DA GARANTIA CONTRA A AUTOINCRIMINAÇÃO. DIREITO DE O AGRAVANTE NÃO PRODUZIR PROVA CONTRA SI PRESERVADO. AGRAVO INTERNO DESPROVIDO.
+1. A carta rogatória para a concessão do exequatur não precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+ ..
+3. Agravo interno desprovido. (AgInt na CR n. 11.000/EX, relatora Ministra Laurita Vaz, DJe de 6/12/2016.)
+Não há, por outro lado, a alegada incompatibilidade do ato rogado com a ordem jurídica interna ou mesmo a violação da dignidade humana. Afinal, a finalidade da carta rogatória é, tão somente, dar ciência ao interessado dos termos da decisão proferida pela Justiça estrangeira, não se tratando, portanto, de execução do que ali foi deliberado.
+Aliás, a intimação, na hipótese, torna-se necessária para que o interessado tome ciência das deliberações lá proferidas, o que representa pressuposto essencial para o exercício da ampla defesa. Não obstante, anoto que as questões suscitadas na impugnação guardam relação com o mérito da demanda em curso no Juízo rogante, transcendendo, portanto, os limites estabelecidos no art. 216-Q, § 2º, do RISTJ.
+Nessa linha de intelecção, o objeto da presente carta rogatória não atenta contra os requisitos legais (ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos e inteligência da decisão), razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Assim, remeta-se a comissão à Justiça Federal, Seções Judiciárias dos Estados do Paraná e de Mato Grosso do Sul, em razão de constar mais de um possível endereço da parte interessada.
+Recomenda-se que, caso a parte interessada não seja localizada, promovam-se as diligências para encontrar o endereço atualizado, notadamente em órgãos públicos, bem como nas concessionárias de serviços públicos (v. g., água, energia e telefonia).
+Cumpra-se em 60 dias.
+Após, retornem os autos ao STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se. Intimem-se.
+EMENTA
