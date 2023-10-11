@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Alexsandre Freitas da Silva, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (fls. 61/62 - Agravo de Execução Penal n. 5002706-15.2023.8.19.0500):
+AGRAVO EM EXECUÇÃO PENAL. Remição de pena por estudo. Curso à distância. Deferimento. RECURSO DEFENSIVO. Pretensão de reforma da Decisão.
+1. A Lei de Execuções Penais, em seu art. 126, prevê a remição da pena pelo Estudo, inclusive com a metodologia de ensino à distância, porém, as atividades deverão ser certificados pelas autoridades educacionais competentes dos cursos frequentados, bem como, a Recomendação n. 44/2013, do CNJ, sugere que as atividades estejam integradas ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional local e oferecidas por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim. Evidente que, com a remição, o legislador permite ao apenado, abreviar parte da condenação e incentivar o bom comportamento e a readaptação do preso ao convívio social, pelo que inquestionável é a importância do estudo. Todavia, não se pode olvidar que, o cálculo para contagem do tempo a ser remido deve ser feito com base na comprovação das horas de efetivo estudo, seja de ensino presencial ou à distância. No caso, consta dos autos, a Certidão de Conclusão do Curso de Direito e Economia EAD da Rede de Ensino Técnico - RET, vinculada ao Colégio Serrana Um, conveniado à SEAP, subscrita pelo Diretor da Unidade Prisional. Anote-se que, o curso teria sido desempenhado no período de 16/9/2022 e 7/11/2022, totalizando 180 horas, havendo planilhas de anotação de carga horário de estudo, as quais, no entanto, foram preenchidas pelo próprio apenado, sendo recolhidas na Unidade prisional. Assim, inexiste qualquer informação sobre a frequência e a fiscalização das horas efetivamente dispensadas ao estudo que autorizem a remição de 15 dias de pena.
+RECURSO PROVIDO.
+Alega-se que o curso realizado pelo paciente, a distância, possui inegável conteúdo capaz de promover a requalificação profissional, razão pela qual se enquadra no conceito de atividades educativas não escolares delineado pelo Conselho Nacional de Justiça (fl. 8).
+Sustenta-se, ainda, que o Diretor da Unidade Prisional assinou a Certidão de Conclusão de Curso, e foram apresentadas planilhas que indicam as datas e horários destinadas pelo apenado ao estudo, assinadas pelo apenado e pela supervisora de secretaria, exatamente como observado pelo Juízo da Vara de Execuções Penais (fl. 8).
+Postula-se a concessão da ordem para reconhecer ilegalidade da decisão impugnada, com a desconstituição de todos os seus efeitos e retorno das partes ao status quo ante; qual seja, a remição dos dias de pena pelo estudo a distância, restabelecendo a decisão do Juízo de Execução Penal (fl. 13).
+É o relatório.
+Vislumbro a possibilidade de concessão da ordem, inclusive liminarmente.
+O pedido de remição foi indeferido no acórdão impugnado, mediante a fundamentação a seguir (fl. 66 - grifo nosso):
+No caso, consta dos Autos a Certidão de Conclusão do Curso de Direito e Economia EAD (Doc. 000002 - p. 5) da Rede de Ensino Técnico - RET, vinculada ao Colégio Serrana Um, conveniado à SEAP, subscrita pelo Diretor da Unidade Prisional.
+O Curso teria sido desempenhado no período de 16/09/2022 e 07/11/2022, totalizando 180 horas, havendo planilhas de anotação de carga horário de estudo, as quais, no entanto, foram preenchidas pelo próprio apenado (Doc. 000002 - p. 6/9), sendo recolhidas na Unidade prisional.
+Acostou-se, ainda, o Certificado de Qualificação Profissional - EAD (Doc. 000002 - p.10) e a ementa relativa ao conteúdo do curso (Doc. 000002 - p. 11).
+Assim, inexiste qualquer informação sobre a frequência e a fiscalização das horas efetivamente dispensadas ao estudo que autorizem a remição de 15 dias de pena.
+Ocorre que o Juízo singular, ao determinar remição por estudo referente ao curso a distância, fê-lo nos seguintes termos (fl. 27 - grifo nosso):
+Assim, para apreciação da remição pretendida, necessário que a instituição possua convênio com o Poder Público ou autorização para promover curso à distância no sistema prisional, o que restou comprovado mediante certidão subscrita pelo Diretor da Unidade Prisional.
+Ademais, as planilhas juntadas são aptas ao controle das horas efetivamente estudadas, uma vez que preenchidas com a carga horária inicial e final de cada dia, assinadas pela supervisora de secretaria, o que denota a fiscalização, portanto, do efetivo estudo.
+Assim, o Juízo da execução, mais próximo dos fatos e provas dos autos, entendeu que as folhas de presença foram devidamente preenchidas e assinadas por responsável do estabelecimento prisional, devendo aquela decisão prevalecer no caso concreto.
+Em face ao exposto, concedo liminarmente a ordem para restabelecer a decisão do Juízo de Direito da Vara Meio Fechado e Semiaberto - Final 1 e 2 da comarca da Capital/RJ.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. ESTUDO REALIZADO A DISTÂNCIA (EAD). COMPROVAÇÃO DE FREQUÊNCIA ÀS AULAS. DOCUMENTO ASSINADO POR RESPONSÁVEL DO ESTABELECIMENTO PRISIONAL. CONSTRANGIMENTO ILEGAL. MANIFESTO.
+Ordem concedida liminarmente nos termos do dispositivo.
