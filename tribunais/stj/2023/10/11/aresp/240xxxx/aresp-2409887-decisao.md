@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por RUTE SOL contra decisão que não admitiu recurso especial, manejado em desfavor do acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado (e-STJ, fl. 280):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DEINEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - QUANTIAS DESCONTADAS DO BENEFÍCIO PREVIDENCIÁRIO DAAUTORA - RESTITUIÇÃO SIMPLES - VALOR DO DANO MORAL MANTIDO - ATENÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE- RECURSO CONHECIDO E NÃO PROVIDO
+No caso dos autos a sentença, ao determinar a restituição na forma simples, deve ser mantida, já que não restou evidenciado que agiu a empresa apelada com má-fé.
+Na quantificação da indenização por dano moral, deve o julgador, atendo-se às específicas condições do caso concreto, fixar o valor mais justo para o ressarcimento, lastreado nos princípios da razoabilidade e proporcionalidade. Nesse propósito, impõe-se que sejam observadas as condições do ofensor, assim como a intensidade do sofrimento, o grau de reprovação da atuação do agente ativo da ilicitude, bem como a finalidade de impor ao executor o caráter punitivo da condenação para que não seja reincidente nessa conduta. De outro lado, não se pode perder de vista que o ressarcimento da lesão ao patrimônio moral deve ser suficiente para recompor os prejuízos suportados, sem importar em enriquecimento sem causa da vítima.
+No recurso especial, alegou a recorrente a ofensa aos arts. 186, 927 e 944, todos do Código Civil, e aos arts. 6º, inciso VI, e 14. ambos do Código de Defesa do Consumidor, sustentando, em síntese, a majoração do valor fixado a título de danos morais, uma vez que não foram observados os padrões de razoabilidade e de proporcionalidade, bem como dissídio pretoriano.
+Afirmou que, considerando "as condições econômicas do ofendido e do ofensor e principalmente que a lesada se trata de uma pessoa idosa, que recebe mensalmente um salário-mínimo para a sua mínima sobrevivência", não é proporcional e razoável o quantum indenizatório mantido no valor irrisório de R$ 5.000,00 (cinco mil reais).
+Nas razões do agravo, a insurgente impugna os fundamentos da decisão denegatória do recurso especial.
+Contraminuta não apresentada (e-STJ, fl. 469).
+Brevemente relatado, decido.
+A controvérsia refere-se, em suma, à majoração do valor fixado a título de danos morais em razão do desconto indevido da aposentadoria da ora agravante de valor referente às parcelas de contrato de empréstimo consignado não contratado.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 281-282; sem grifo no original):
+A insurgência limita-se ao pedido de majoração da quantia arbitrada na sentença a título de danos morais, bem como a restituição em dobro dos valores indevidamente descontados pela ré.  ..
+Assim, na ausência de critérios legais para fixar o valor da indenização por danos morais, decorrente da contratação fraudulenta de empréstimo consignado em nome da parte autora, tenho que quantia arbitrada na sentença (R$5.000,00) não comporta qualquer modificação, por apresentar-se adequada à realidade fática, estando de acordo com os princípios da razoabilidade e proporcionalidade e, em especial, atende à finalidade de desestimular, no futuro, a reincidência desse tipo de conduta.
+Ademais, tenho que os parâmetros adotados, como forma de decidir, encontram-se adequados à jurisprudência e de acordo com a importância que vem sendo arbitrada por esta Corte.
+Com efeito, no que concerne ao valor da indenização por danos morais, dispõe a jurisprudência do STJ que "a intervenção desta egrégia Corte para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes" (AgRg na Rcl n. 4.847/SE, Rel. Min. Raul Araújo, Segunda Seção, DJe 17/2/2011).
+Ilustrativamente (sem grifo no original):
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO. DEMONSTRADO NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. SÚMULA N.º 7 DO STJ. DANOS MORAIS. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É inviável, na estreita via do recurso especial, a revisão da conclusão adotada pelo Tribunal de origem no sentido da caracterização de falha na prestação do serviço da equipe médica do hospital, que acarretou o agravamento do estado de saúde do paciente. Incidência da Súmula n.º 7 do STJ.
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n.º 7 do STJ, impedindo o conhecimento do recurso.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.257.386/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Nessa esteira, verifica-se que a quantia fixada em R$ 5.000,00 (cinco mil reais) não se afigura exorbitante, tendo sido observados os postulados da proporcionalidade e da razoabilidade de acordo com as particularidades do caso vertente, o que torna inviável o recurso especial, nos termos do Enunciado n. 7 do STJ.
+Guardadas as particularidades do caso, confiram-se (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMPRÉSTIMO CONSIGNADO. RELAÇÃO JURÍDICA. INEXISTÊNCIA. DESCONTOS INDEVIDOS. DANOS MORAIS. INDENIZAÇÃO. CONJUNTO FÁTICO-PROBATÓRIO. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever as conclusões do tribunal de origem, que resultaram da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, atrai a incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.994.849/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022. Danos morais fixados em mil reais)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. EMPRÉSTIMO CONSIGNADO NÃO CONTRATADO. ILEGALIDADE DOS DESCONTOS. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS. AGRAVO INTERNO DESPROVIDO.
+1. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide no caso a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+2. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+3. Agravo interno desprovido.
+(AgInt no RCD no AREsp n. 2.339.475/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 4/9/2023, DJe de 6/9/2023. Danos morais fixados em cinco mil reais)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C.C. REPETIÇÃO DE INDÉBITO E DANOS MORAIS. QUANTIAS DESCONTADAS DO BENEFÍCIO PREVIDENCIÁRIO DA ORA AGRAVADA. DANO MORAL CONFIGURADO. QUANTUM. RAZOABILIDADE. REVISÃO. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
