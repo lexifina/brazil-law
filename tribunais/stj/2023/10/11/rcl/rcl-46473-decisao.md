@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de reclamação ajuizada por Valdecir Alberto Cassanei e Luciana de Oliveira em face do seguinte acórdão do Tribunal de Justiça do Estado da Bahia (fl. 1.127):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. MÓDULO DE EXECUÇÃO. INDICAÇÃO DE BENS A PENHORA PELO DEVEDOR. RECUSA DO CREDOR. LEGITIMIDADE. BAIXA LIQUIDEZ. INTELIGÊNCIA DO ART. 848 DO CPC. PENHORA SOBRE BEM DE FAMÍLIA INDICADO PELO EXEQUENTE. IMÓVEL DE PROPRIEDADE DOS FIADORES DO CONTRATO DE LOCAÇÃO DO QUAL SE ORIGINA A DÍVIDA EXEQUENDA. POSSIBILIDADE. EXCEÇÃO CONTIDA NO INCISO VII DO ART. 3º DA LEI FEDERAL nº 8.009/90. RECURSO IMPROVIDO. DECISÃO MANTIDA.
+1. O cerne do recurso posto a acertamento reside na análise da inservibilidade dos bens indicados pelo Executado, ora agravante, recusados pelo Exequente/Agravado, para fins de satisfação da execução, bem assim, da possibilidade de se proceder à penhora do bem indicado pelo credor Exequente, o qual aduzem os Agravantes ostentar a qualidade de bem de família, a ensejar sua impenhorabilidade.
+2. No caso dos autos, pretenderam os Agravantes ofertar mercadorias e mobiliários, envolvidos na ação de despejo nº 0503147-37.2015.8.05.0001, e. no caso de eventual necessidade de complementação, a fração ideal de 30% de um imóvel na localidade de Abrantes, Município de Camaçari  Bahia.
+3. Despiciendo tecer maiores considerações, bastando apenas o bom senso para se concluir acerca da maior dificuldade de alienação de tais bens, se comparados a um único imóvel residencial, sito em bairro nobre da capital baiana, infinitamente mais vendável que as citadas mercadorias, mobiliários e etc. Assim sendo, plenamente lícito ao exequente a recusa de bens ofertados pelo devedor que apresentem-se como de difícil alienação.
+4. Outrossim, no que toca à possibilidade de recair sobre o bem descrito às fls. 733 dos autos originários, - Casa descrita na matrícula 56.949, com inscrição municipal nº 250.646-7, edificada no terreno 05 da quadra B-4, do Loteamento Itaigara  consta do documento de fls. 735 dos autos originários, que o referido bem fora adquirido em 2011 pelos Agravantes Valdecir Alberto Cassanei e Luciana de Oliveira.
+5. In casu, os mencionados senhores figuram como fiadores do contrato de locação do qual exsurge a dívida exequenda nos autos de origem. (fls. 87/107 dos autos do agravo de instrumento).
+6. Nesse sentido, à vista de ostentarem tal condição, conforme bem salientado pelo Agravado em sua manifestação, sobre o multi referido bem imóvel recai a exceção à impenhorabilidade do bem de família, prevista inciso VII do art. 3º da Lei Federal nº 8.009/90.
+7. Recurso Improvido. Decisão mantida.
+Afirmam que esta Corte "deve proceder à análise do tema posto nesta Reclamação, porquanto há inequívoca aplicação indevida da tese jurídica ventilada ao TEMA 708 (REsp nº 1363368 / MS)", dado que "há traço distintivo nos autos, reconhecido porém não sopesado nos julgados até aqui, que implica na impossibilidade de aplicação do retrocitado Tema nos moldes pretendidos pelo TJ-Ba", "qual seja: autorização para penhora de bem de família a partir de fiança prestada em locação de sala comercial (loja em shopping center), quando há reconhecidamente outros bens disponíveis e ofertados para garantia".
+Assim posta a questão, no presente caso, fica claro que a reclamação não foi manejada para preservar a competência desta Corte nem para garantir a autoridade de suas decisões, mas, simplesmente, com o propósito de reformar acórdão do Tribunal de Justiça de São Paulo, em face do qual cabe recurso, não se verificando, pois, nenhuma das hipóteses previstas nos artigos 105, I, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, mostrando-se totalmente incompatível com os objetivos tutelados pelo instituto processual-constitucional da Reclamação, tornando inviável o seu seguimento, já que utilizada com claro propósito de reforma do julgado .
+Nesse sentido são, entre diversos outros, os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. APLICAÇÃO DE REPETITIVO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A Corte Especial do STJ decidiu que a reclamação constitucional não é "instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos" (Rcl 36.476/SP, Relatora Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 5/2/2020, DJe 6/3/2020).
+2. "A reclamação não é instrumento processual adequado para o exame do acerto ou desacerto da decisão impugnada, como sucedâneo de recurso" (AgInt na Rcl 40.171/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 1º/9/2020, DJe 9/9/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt na Rcl 40.576/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 01/12/2020, DJe 09/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CONTROLE DA APLICAÇÃO, NO CASO CONCRETO, DE TESE REPETITIVA FIRMADA PELO STJ. DESCABIMENTO. REDISCUSSÃO DA SUCUMBÊNCIA DECRETADA PELO TRIBUNAL DE ORIGEM. INADMISSIBILIDADE.
+1. Consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+2. Não se admite o manejo da reclamação como sucedâneo recursal, com vistas a rediscutir o teor da decisão judicial que foi desfavorável ao reclamante, in casu, em relação à sua condenação ao pagamento de honorários advocatícios de sucumbência.
+3. Agravo interno não provido.
+(AgInt na Rcl 40.581/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 20/10/2020, DJe 26/10/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. ART. 988, II DO CPC. OFENSA A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO OCORRÊNCIA. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é cabível reclamação para se verificar no caso concreto se foram realizadas alienações judiciais em fraude à execução, devendo a parte agravante valer-se dos meios processuais pertinentes.
+2. A reclamação não é passível de utilização como sucedâneo recursal, com vistas a discutir o teor da decisão hostilizada.
+3. Agravo interno não provido.
+(AgInt na Rcl 40.177/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 02/10/2020)
+A Corte Especial do STJ, ao concluir o julgamento da Rcl n. 36.476/SP, de relatoria da Ministra Nancy Andrighi, DJe 6/3/2020, firmou entendimento de que não cabe o ajuizamento de reclamação para garantir observância de tese firmada em recurso especial repetitivo.
+Em face do exposto, com fundamento no art. 34, XVIII, do Regimento Interno
+do Superior Tribunal de Justiça, nego seguimento à reclamação.
+Intimem-se.
+EMENTA
