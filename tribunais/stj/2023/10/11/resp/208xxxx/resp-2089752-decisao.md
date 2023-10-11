@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto por NICHIA CORPORATION, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado:
+"HONORÁRIOS DO PERITO Ônus de recolhimento da verba Decisão singular que determinou que os honorários periciais fossem recolhidos pela Ré Razões recursais defendendo o rateio, pois a prova também teria sido pleiteada pela Autora Pertinência Protesto por produção de prova pericial desde o pedido inicial Inteligência do caput do art. 95 do CPC/15 Pouco influente se houve divergência sobre a especialidade do profissional a ser indicado para a realização da prova Ciência da Autora de que a lide é complexa e requer conhecimento técnico não detido pelo Juízo Rateio determinado Decisão singular reformada nessa extensão Agravo parcialmente provido. PONTOS CONTROVERTIDOS Pedido de reforma para que (a) seja discutida a nulidade da patente de invenção; e (b) seja corrigido o objeto da patente descrito na r. decisão agravada Parcial pertinência Possibilidade de arguição de nulidade de patente como matéria de defesa Inteligência do art. 56, parágrafo 1º da Lei n. 9.279/96 e precedentes da E. 2ª Câmara de Direito Empresarial nesse sentido Determinação de que a prova pericial considere, portanto, como ponto controvertido a arguição de nulidade Correção sobre a descrição dada pelo Juízo ao objeto da patente, por sua vez, considerada desnecessária, vez que o estudo técnico se pautará pelo descritivo da carta de patente e informações dos autos Pretensão de reforma insubsistente nesse segundo aspecto Agravo parcialmente provido. DISPOSITIVO: Deram parcial provimento ao agravo de instrumento." (fl. 234 e-STJ).
+Os embargos de declaração foram rejeitados (fls. 251/260 e-STJ).
+Em suas razões, a recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, § 1º, VI, e e 1.022, parágrafo único, II, do Código de Processo Civil - haja vista a nulidade do acórdão recorrido por deficiência de fundamentação, notadamente a omissão quanto à jurisprudência que não admite a discussão acerca da nulidade da patente em ação de infração;
+(ii) arts. 4º, 5º, 8º e 139, II, do CPC - porque, ao permitir a indagação em torno da validade de patente nesta ação de infração, o acórdão combatido violou os princípios da eficiência e da duração razoável do processo e chancelou manifesto abuso no direito de defesa da ré, ora recorrida; invoca, no ponto, o risco de decisões contraditórias em razão da ação de nulidade que tramita na Justiça Federal, e
+(iii) arts. 44, 56, § 1º, e 57 da Lei de Propriedade Industrial - porque há ação de nulidade em estado adiantado em trâmite na Justiça Federal, de modo que a incursão na seara da nulidade da patente, no presente feito, implica em usurpação daquela competência.
+Ao final, requer, preliminarmente, a anulação do acórdão dos embargos de declaração, a fim de que outro seja proferido, com o saneamento dos vícios apontados.
+No mérito, postula a reforma do julgado da Corte local, para afastar a questão da nulidade patentária do objeto da perícia.
+Contrarrazões às fls. 285/299 (e-STJ).
+É o relatório.
+DECIDO.
+A insurgência nã o merece prosperar.
+Inicialmente, importa destacar que não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+Na espécie, verifica-se que a Corte local decidiu a questão de forma clara e fundamentada, apreciando todas as alegações da recorrente, inclusive quanto à competência da Justiça Federal para a apreciação de nulidade de patente, tendo em vista a necessidade de participação, no feito, do Instituto Nacional de Propriedade Industrial (INPI), de modo que não se verifica vício de fundamentação ou negativa de prestação jurisdicional.
+No que se refere à ofensa aos arts. 4º, 5º, 8º e 139, II, do CPC, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide a Súmula nº 211/STJ.
+De mais a mais, não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista o julgado estar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+Por fim, no que diz respeito à fixação dos pontos controvertidos e ao objeto da perícia, a Corte local teceu as seguintes considerações, transcritas na parte que interessa:
+"O DD. Magistrado saneou o feito e fixou os pontos controvertidos, nos seguintes termos:
+ ..  2.4. Como se observa da análise da petição inicial e da contestação, as partes divergem sobre a validade da patente PI9710792-1 B, concedida pelo INPI em 28/06/2011e comprazo de vigência até 28/06/2021, que tem por objeto tecnologia referente a iluminação LED branca, a qual é discutida nos autos da ação anulatória autuada sob o nº 5026688-41.2020.4.02.5101, em trâmite perante a 13ª Vara Federal da Seção Judiciária do Rio de Janeiro; e a existência de violação à referida patente em razão da importação pela ré dos produtos identificados pelos códigosEAHE5630WE03,EZHV-K51C4-2LPGS-F5700e 67-21S/KK6C-E6528C6/DT(EMM), da terceira fabricante Everlight. Dessa forma, é necessária a produção de provas. Diante do exposto:
+a) dou o feito por saneado;
+b) fixo como pontos controvertidos:
+b-1) a validade da patente PI9710792-1 B, concedida pelo INPI em 28/06/2011 e com prazo de vigência até28/06/2021, que tem por objeto tecnologia referente a iluminação LED branca, a qual é discutida nos autos da ação anulatória autuada sob o nº 5026688-41.2020.4.02.5101, em trâmite perante a 13ª Vara Federal da Seção Judiciária do Rio de Janeiro;
+b-2) a existência de violação à referida patente em razão da importação pela ré dos produtos identificados pelos códigosEAHE5630WE03,EZHV-K51C4-2LPGS-F5700e 67-21S/KK6C-E6528C6/DT(EMM), da terceira fabricante Everlight;
+c) defiro a produção de prova pericial de engenharia elétrica e, considerando as especificidades do caso, faculto às partes, em 15 dias, apresentarem nome consensual para ser nomeado como perito judicial.
+d) Em 15 (quinze) dias, as partes deverão indicar assistente técnico e apresentar quesitos.
+e) São quesitos do Juízo:
+1) Os produtos identificados pelos códigos EAHE5630WE03, EZHV-K51C4-2LPGS-F5700 e 67-21S/KK6C-E6528C6/DT(EMM), importados pela ré da terceira fabricante Everlight e comercializados por aquela em território nacional, contém violação ou violações à patente PI9710792-1 B, concedida pelo INPI em 28/06/2011 e com prazo de vigência até 28/06/2021, que tem por objeto tecnologia referente a iluminação LED branca
+2) em caso de resposta positiva ao primeiro quesito, quais as violações e em quais dos produtos indicados estas foram identificadas
+f) Uma vez que a perícia foi requerida pela parte ré, esta deverá arcar com os honorários periciais, que deverão ser pagos em 05 (cinco) dias após a fixação do montante art. 95 do CPC.
+g) a eventual necessidade de produção de provas suplementares será apreciada oportunamente.
+h) com fundamento no art. 357, III, do CPC, determino que cada uma das partes deverá provar os fatos alegados, nos termos do 373 do CPC. Saliento que a existência de normas que autorizam a inversão do ônus da prova (v. g. art. 6º,VIII, da Lei n. 8.078/90) permitem e não justificam a inércia proposital das partes, que têm o dever de colaborar para o descobrimento da verdade art. 378 do CPC.
+Observo que, por ora, as peculiaridades da causa não justificam a eventual distribuição diversa dos ônus da prova.
+Intime-se.
+(..)
+II PONTOS CONTROVERTIDOS
+Nessa extensão, a Demandada Arrow compreende que o i. Julgador teria se equivocado em dois aspectos: (a) por não delimitar que deveria ser verificada a nulidade da PI 9710791-1; e (b) por ter descrito o objeto da patente como sendo "tecnologia referente a iluminação LED branca".
+Sobre a nulidade da PI 9710791-1, o inconformismo recursal repousa no seguinte trecho da r. decisão agravada:
+ ..  b-1) a validade da patente PI9710792-1 B, concedida pelo INPI em 28/06/2011 e com prazo de vigência até28/06/2021, que tem por objeto tecnologia referente a iluminação LED branca, a qual é discutida nos autos da ação anulatória autuada sob o nº 5026688-41.2020.4.02.5101, em trâmite perante a 13ª Vara Federal da Seção Judiciária do Rio de Janeiro;  ..
+Na avaliação da Recorrente, a parte final do item, ao fazer referência à ação de nulidade em trâmite perante a Justiça Federal, indicaria que "essa questão não será objeto da perícia" (fl. 9 do agravo de instrumento).
+Em que pese não esteja claro se por "validade da patente" o i. Juízo esteja reconhecendo a possibilidade de arguição incidental da nulidade na Justiça Estadual, para eliminar qualquer questionamento se aplica o entendimento em vigor na E. 2ª Câmara Reservada de Direito Empresarial.
+Nesse sentido, esclareça-se que vem compreendendo essa Corte pela possibilidade de arguição como matéria de defesa em lides sem a participação do Instituto Nacional de Propriedade Industrial, nos termos do que preceitua o art. 56, parágrafo 1º da Lei n. 9.279/96.
+(..)
+Possível, portanto, que a prova pericial considere como ponto controvertido a arguição de nulidade formulada como matéria de defesa nessa demanda" (e-STJ fls. 234/242 - grifou-se).
+No caso, como se verifica, o Juízo de primeiro grau incluiu no objeto da perícia a nulidade da patente porque desta investigação dependente a sua decisão acerca do pedido de reparação pelo uso indevido da invenção.
+De fato, a nulidade da patente somente pode ser decretada pelo Juízo Federal, tendo em vista a necessidade de participação, no feito, do INPI, órgão prolator do ato administrativo de expedição da carta-patente.
+Ocorre que, na inteligência do art. 56, § 1º, da LPI, a nulidade pode ser alegada e apreciada, de forma incidente, na ação de infração que tramita perante o Juízo estadual, a fim de se obter a certeza final acerca do direito ou à indenização, o que eventualmente pode vir a exigir a produção da prova em torno da validade da patente.
+Confira-se, a propósito:
+"RECURSO ESPECIAL. DIREITO DA PROPRIEDADE INDUSTRIAL. PATENTE E DESENHO INDUSTRIAL. ALEGAÇÃO DE POSSIBILIDADE DE RECONHECIMENTO INCIDENTAL DA NULIDADE DOS DIREITOS DE PROPRIEDADE INDUSTRIAL NO CURSO DE AÇÃO DE INFRAÇÃO EM TRÂMITE NA JUSTIÇA ESTADUAL. ARTS 56, § 1º, E 118 DA LEI N. 9.279/96. REDAÇÃO CLARA DA LEI NO SENTIDO DA POSSIBILIDADE DE ARGUIÇÃO DE NULIDADE COMO MATÉRIA DE DEFESA. RESSALVA APLICÁVEL APENAS A PATENTES E A DESENHOS INDUSTRIAIS. RESSALVA NÃO APLICÁVEL A MARCAS.
+1. A Lei n. 9.279/96 - Lei de Propriedade Industrial - exige, como regra, a participação do INPI, autarquia federal, nas ações de nulidade de direitos da propriedade industrial.
+2. Nos termos dos arts. 57, 118 e 175 da Lei n. 9.279/96, as ações de nulidade de patentes, desenhos industriais e de marcas devem ser propostas perante a Justiça Federal.
+3. Esse mesmo diploma legal, no entanto, faz uma ressalva expressa no que diz respeito à s patentes e aos desenhos industriais, ao possibilitar a arguição de sua nulidade pelo réu, em ação de infração, como matéria de defesa, dispensando, excepcionalmente, portanto, a participação do INPI.
+4. Essa ressalva não é aplicável às marcas.
+5. O reconhecimento da nulidade de patentes e de desenhos industriais pelo juízo estadual, por ocorrer apenas "incidenter tant um", não faz coisa julgada e não opera efeitos para fora do processo, tendo apenas o condão de levar à improcedência do pedido veiculado na ação de infração.
+6. RECURSO ESPECIAL PROVIDO" (REsp n. 1.843.507/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 6/10/2020, DJe de 29/10/2020 - grifou-se).
+Verifica-se, assim, que as razões de decidir da Corte local se coadunam com a jurisprudência desta Corte, o que inviabiliza o provimento do recurso especial, tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Prejudicado o pedido de tutela provisória formulado às fls. 326/351 (e-STJ).
+Deixo de majorar os honorários, nos termos do art. 85, § 11, do CPC, tendo em vista a ausência de fixação na origem.
+Publique-se.
+Intimem-se.
+ EMENTA
