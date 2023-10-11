@@ -1,0 +1,103 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia. Precedentes.
+3. Não se verifica omissão no acórdão embargado que julgou integralmente a matéria submetida a esta Corte e solucionou a controvérsia de forma fundamentada e suficiente, ainda que de maneira contrária à pretensão do embargante
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos. Prosseguindo no julgamento, após o voto vista do Sr. Ministro Moura Ribeiro, por unanimidade, rejeitar os embargos de declaração nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora. Ausente, justificadamente, o Sr. Ministro Marco Aurélio Bellizze.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (RELATORA):
+Cuida-se de embargos de declaração opostos por ALUMINAL QUIMICA DO NORDESTE LTDA contra o acórdão que conheceu parcialmente do recurso especial interposto por LUIZ GONZAGA LANZI (ESPÓLIO) e, nessa extensão, deu-lhe parcial provimento, nos termos da seguinte ementa:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL C/C PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS E INDENIZAÇÃO POR PERDAS E DANOS. VIOLAÇÃO DOS ARTS. 489 E 1.022. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. PRAZO DECENAL OU VINTENÁRIO. INCIDÊNCIA DO PRAZO DECENAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. LIMITES DAS QUESTÕES ACOBERTADAS PELA COISA JULGADA MATERIAL. DECISÃO EXPRESSA NO DISPOSITIVO. CRITÉRIO DE INTERPRETAÇÃO DA SENTENÇA. LEITURA DO DISPOSITIVO EM CONFORMIDADE COM A FUNDAMENTAÇÃO. QUESTÕES DECIDIDAS NA AÇÃO DE DECLARAÇÃO DE DISSOLUÇÃO DE SOCIEDADE QUE TRAMITOU ENTRE AS PARTES. TRANSFERÊNCIA DE QUOTAS EFETIVADA POR MERO INSTRUMENTO PARTICULAR. DESNECESSIDADE DE ALTERAÇÃO DO CONTRATO SOCIAL E DO CONSENSO DOS DEMAIS SÓCIOS. REPETIÇÃO DA MESMA AÇÃO. NÃO OCORRÊNCIA. PEDIDO DISTINTO BASEADO EXCLUSIVAMENTE EM ALEGAÇÕES AFASTADAS POR DECISÃO TRANSITADA EM JULGADO. AUSÊNCIA DE INADIMPLÊNCIA DO RÉU RECORRENTE. IMPROCEDÊNCIA DO PEDIDO. PREJUDICADAS AS OUTRAS TESES ALEGADAS PELO RECORRENTE.
+1. Ação de resolução contratual c/c pedido de restituição de quantias pagas e indenização por perdas e danos, ajuizada em 19/4/2007, da qual foi extraído o presente recurso especial, interposto em 30/9/2019 e concluso ao gabinete em 8/2/2022.
+2. O propósito recursal é decidir se houve (I) omissões e contradições no acórdão recorrido; (II) violação ao art. 1.022 do CPC/2015, pelo rejulgamento do mérito em sede de embargos de declaração; (III) a ocorrência da prescrição da pretensão autoral; (III) ofensa à coisa julgada, diante da sentença proferida em ação declaratória envolvendo as mesmas partes e o mesmo contrato; (IV) cerceamento de defesa; (V) e se o não pagamento integral das parcelas pela recorrida e a ausência de notificação impedem que se exija o cumprimento da obrigação pelo recorrente.
+3. Não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que emsentido contrário à pretensão da parte. Precedentes.
+4. É firme a jurisprudência desta Corte no sentido de que a pretensão de resolução de contrato e de consequente restituição das parcelas pagas se submete ao prazo prescricional decenal, sob a égide do CC/2002, ou vintenário, sob a égide do CC/1916, por ser fundada em direito pessoal. No particular, não se operou a prescrição.
+5. As questões de mérito ficam abrangidas pela coisa julgada material nos limites do que estiver expressamente decidido no dispositivo da decisão judicial. Não obstante, o exame da fundamentação é indispensável para a compreensão da real extensão do dispositivo e, consequentemente, das questões que foram decididas.
+6. Segundo a jurisprudência desta Corte, para interpretar uma sentença, não basta a leitura de seu dispositivo. O dispositivo deve ser integrado com a fundamentação, que lhe dá o sentido e o alcance. Havendo dúvidas na interpretação do dispositivo da sentença, deve-se preferir a que seja mais conforme à fundamentação e aos limites da lide, em conformidade com o pedido formulado no processo.
+7. Na espécie, em anterior ação declaratória de dissolução de sociedade, envolvendo as mesmas partes e o mesmo contrato, foi proferida sentença transitada em julgado e, da interpretação do seu dispositivo em conjunto com a fundamentação, conclui-se ter sido decidido expressamente que, para a transferência das quotas sociais entre as partes, era desnecessária a alteração do contrato social e o consenso dos demais sócios, bastando a celebração do Instrumento Particular, com o seu depósito na sede da sociedade e o seu arquivamento no Registro do Comércio, para os devidos efeitos perante terceiros - o que foi determinado pelo Juízo. Essas questões foram expressamente decididas no mesmo sentido pelo acórdão que confirmou a sentença.
+8. Por sua vez, na presente ação, a autora pleiteia a resolução do contrato, sob o único argumento de que o réu está inadimplente, porque não bastava a celebração do Instrumento Particular para a transferência das quotas, sendo necessária a alteração do contrato social, demonstrando o consenso dos demais sócios, o que não ocorreu.
+9. As duas ações têm as mesmas partes e a mesma causa de pedir, mas pedidos distintos. Não se trata, portanto, da repetição da mesma ação a determinar extinção do processo sem resolução de mérito. Além disso, nos termos do art. 488 do CPC/2015, "desde que possível, o juiz resolverá o mérito sempre que a decisão for favorável à parte a quem aproveitaria eventual pronunciamento nos termos do art. 485".
+10. Em que pese o pedido de resolução contratual possa ser formulado, as questões referentes à efetiva transferência das quotas pelo Instrumento Particular e à desnecessidade da alteração do contrato social e do consenso dos demais sócios já foram decididas e não podem ser rediscutidas na presente ação.
+11. Assim, afastada a única causa alegada na inicial do inadimplemento do réu e, consequentemente, da resolução do contrato, deve o respectivo pedido ser julgado improcedente.
+12. Acolhida a pretensão do recorrente quanto ao ponto, ficam prejudicadas as alegações subsidiárias de cerceamento de defesa e impossibilidade de exigir o cumprimento da obrigação alheia, diante da ausência de pagamento integral pela recorrida, e necessidade de notificação para constituir a mora, consistente nas supostas violações aos arts. 313, V, "a", 355, I, 370, e 435, parágrafo único, do CPC/2015; e 397, 422, 474 e 476 do CC/2002.
+13. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido, para julgar improcedentes os pedidos formulados na inicial.
+(e-STJ fls. 3554-3556)
+Nas razões do presente recurso, a embargante alega a ocorrência de omissão no acórdão embargado quanto à sentença proferida em outro processo entre as partes, nos embargos à execução de obrigação de fazer nº 8.479/99, que julgou o processo extinto sem resolução de mérito, por impossibilidade jurídica do pedido de determinar o registro do contrato sem o cumprimento das exigências da Junta Comercial.
+É o relatório.
+EDcl no RECURSO ESPECIAL Nº 2.059.857 - BA (2021/0335253-0)
+RELATORA
+:
+MINISTRA NANCY ANDRIGHI
+EMBARGANTE
+:
+ALUMINAL QUIMICA DO NORDESTE LTDA
+ADVOGADOS
+:
+KARLA CRISTINA FERREIRA DE SIQUEIRA - DF013899
+TIAGO PIMENTEL SOUZA - DF015243
+RONALDO SOARES ROCHA - DF012949
+FERNANDO GAIAO TORREAO DE CARVALHO - DF020800
+CARLOS MACEDO BARROS - DF050253
+ELIANA CALMON ALVES - DF046625
+ROGERIO FRANÇA ATHAYDE DE ALMEIDA - DF058809
+ERIC DINIZ CASIMIRO - DF063071
+RENATO CALMON ALVES BERNARDO DA CUNHA - DF019863
+CAMILA RIBEIRO SANSAO - DF071604
+EMBARGADO
+:
+LUIZ GONZAGA LANZI
+REPR. POR
+:
+MARIA LUCIA BUENO LANZI - INVENTARIANTE
+ADVOGADOS
+:
+JÚLIO CALMON DE PASSOS RAMOS - BA021000
+GABRIEL FELICIO GIACOMINI ROCCO - SP246281
+MARCUS VINICIUS PEREIRA LUCAS - SP285739
+MARINA CAETANO SARRAF GALRÃO - SP391132
+BRENDA FERREIRA ALMEIDA - SP436154
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+2. A omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia. Precedentes.
+3. Não se verifica omissão no acórdão embargado que julgou integralmente a matéria submetida a esta Corte e solucionou a controvérsia de forma fundamentada e suficiente, ainda que de maneira contrária à pretensão do embargante
+4. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (RELATORA):
+Os embargos de declaração são instrumento processual excepcional e, a teor do art. 1.022 do CPC/2015, destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na espécie, contudo, verifica-se que as questões apontadas pela embargante não constituem algum desses vícios, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+É firme a jurisprudência desta Corte no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte (REsp 1.995.565/SP, Terceira Turma, DJe de 24/11/2022; AgInt no AREsp 1.997.395/RJ, Terceira Turma, DJe 19/4/2022; AgInt nos EDcl no AREsp 1.844.912/DF, Quarta Turma, DJe 18/4/2022; AgInt no AREsp 1.924.900/SP, Primeira Turma, DJe 19/4/2022; AgInt no AREsp 1.901.718/PE, Segunda Turma, DJe 25/3/2022).
+Ademais, a omissão justificadora de suprimento no julgado embargado é aquela concernente a ponto suscitado pela parte e sobre o qual o órgão julgador deveria se manifestar, por ser fundamental ao pleno desfecho da controvérsia (EDcl no AgInt no AREsp 1.694.301/PE, 3ª Turma, DJe 3/3/2021).
+A embargante alega omissão quanto à sentença transitada em julgado proferida nos embargos à execução de obrigação de fazer nº 8.479/99, que julgou o processo de execução extinto sem resolução de mérito, por impossibilidade jurídica do pedido de determinar o registro do contrato sem o cumprimento das exigências da Junta Comercial.
+Por sua vez, o embargado, ao impugnar os presentes embargos, sustenta que a embargante apresenta inconformismo com o julgado, pois "agora busca que prevaleça a sentença, sem resolução de mérito, proferida em outra ação". Ademais, "não se trata de decisões conflitantes; o que acontece, na verdade, é que a r. sentença da Ação Declaratória tornou prejudicada a discussão objeto da Execução, já que, diante da dispensa expressa da necessidade do registro da alteração do contrato social da Aluminal, nenhum interesse tinha o Embargado em obrigar a Embargante a proceder tal registro, tanto que ele desistiu da Apelação interposta nos autos da Execução" (e-STJ fls. 3004-3606).
+Pelo que consta do acórdão recorrido, a sentença mencionada pela embargante decorre de ação de execução de obrigação de fazer ajuizada pelo embargado (LUIZ) contra ela, com base no contrato de cessão de quotas firmado entre as partes, objetivando que a embargante fosse determinada a registrar ou mandar registrar a alteração contratual consistente na retirada de LUIZ da sociedade.
+Trata-se de uma das diversas ações que tramitaram entre as partes após o início do litígio entre elas por volta de 1999, em razão da negativa da Junta Comercial em efetivar o registro do instrumento de cessão, sob o argumento de que seria indispensável também a alteração do contrato social para evidenciar o consenso dos sócios, como relatado no acórdão embargado (e-STJ fl. 3566).
+Diante da referida ação executiva, a ALUMINAL ajuizou a ação de embargos à execução nº 8.479/99, na qual foi proferida a mencionada sentença que julgou "procedente os embargos, extinguindo a execução, com fundamento no VI, do artigo 267, do CPC" (e-STJ fl. 697), segundo o qual "extingue-se o processo, sem julgamento de mérito, quando não concorrer qualquer das condições da ação, como a possibilidade jurídica, a legitimidade das partes e o interesse processual".
+Destaca-se que o presente recurso especial foi extraído de ação de resolução de contrato de cessão e transferência de quotas, ajuizada pela embargante, com fundamento no inadimplemento do embargado, ao argumento de que seria necessária a alteração do contrato social, a demonstrar o consentimento dos demais sócios, o que não foi feito pelo réu.
+O acórdão embargado sintetizou o longo panorama fático-processual envolvendo as partes, de modo a delimitar as questões fundamentais ao pleno desfecho da controvérsia, concluindo que "a principal discussão a ser dirimida é saber se a sentença proferida na presente ação de resolução contratual, mantida pelo acórdão ora recorrido, ofendeu ou não e, caso positivo, em qual medida, as questões decididas na sentença transitada em julgado proferida na ação declaratória nº 8.253/99" (e-STJ fl. 3568).
+Com efeito, a discussão ficou centrada na sentença proferida na ação declaratória nº 8.253/99, porque foi a única decisão de mérito transitada em julgado, que decidiu sobre efetiva transferência das quotas pelo Instrumento Particular e à desnecessidade da alteração do contrato social e do consenso dos demais sócios já foram decididas e não podem ser rediscutidas na presente ação.
+Nos termos do decidido no acórdão embargado, apenas "as questões de mérito ficam abrangidas pela coisa julgada material nos limites do que estiver expressamente decidido no dispositivo da decisão judicial" (e-STJ fl. 3573).
+Nesse contexto, não é fundamental ao pleno desfecho da controvérsia a análise pormenorizada das diversas ações que tramitaram entre as partes e que não formaram coisa julgada material sobre as questões objeto do recurso especial.
+Afinal, "o julgador não está obrigado a examinar, como se respondesse a um questionário, a totalidade das afirmações deduzidas pelas partes no curso da marcha processual, bastando, para a higidez do pronunciamento judicial, que sejam enfrentados os aspectos essenciais à resolução da controvérsia" (EDcl no AgInt no RMS 62.808/PR, Terceira Turma, DJe de 6/4/2021).
+Não procede o argumento da embargante no sentido de que o acórdão recorrido teria se fundamentado também na sentença proferida nos embargos à execução nº 8.479/99, porquanto em momento algum há referência à existência de coisa julgada material pela referida decisão. Na realidade, o Tribunal de origem fez apenas uma breve menção a essa sentença, consignando que foi proferida em 4/3/2005 e extinguiu a execução, por impossibilidade jurídica do pedido.
+De fato, toda a fundamentação do acórdão recorrido, quanto ao ponto, se concentrou na sentença proferida na ação declaratória nº 8.253/99 e, mais precisamente, na inexistência de coisa julgada sobre as questões referentes à efetiva transferência das quotas pelo Instrumento Particular e à desnecessidade da alteração do contrato social e do consenso dos demais sócios e, em razão disso, analisou o mérito para concluir pela ausência da transferência e da necessidade dessas formalidades.
+A partir desse panorama fático-processual, o acórdão embargado fundamentou que as referidas questões foram decididas pela sentença de mérito proferida na ação declaratória nº 8.253/99 e, portanto, não podem ser rediscutidas na presente ação. Por consequência, "afastada a alegação de inadimplência do recorrente (LUIZ), a improcedência do pedido de resolução contratual é medida que se impõe" (e-STJ fl. 3585).
+Confira-se o inteiro teor do acórdão embargado, quanto ao ponto:
+73. Em outros termos, a única causa apontada pela ALUMINAL da inadimplência de LUIZ consiste na alegação de que não bastava a celebração do Instrumento Particular para a transferência das quotas, pois era necessária a alteração do contrato social, demonstrando o consenso dos demais sócios, e o respectivo registro na Junta Comercial. Logo, como LUIZ não promoveu tais atos, restou inadimplente, motivando o pedido de resolução contratual formulado pela ALUMINAL na presente ação.
+74. Ocorre que essa questão foi justamente o objeto da controvérsia na ação declaratória nº 8253/99 e a respectiva sentença decidiu expressamente que era desnecessária a alteração do contrato social e o consenso dos demais sócios, bastando a celebração do Instrumento Particular para a transferência das quotas e o depósito do Instrumento na sede da sociedade e o seu arquivamento no Registro do Comércio, para os devidos efeitos perante terceiros.
+ ..
+77. Em que pese o pedido de resolução contratual possa ser formulado pela autora recorrida, não se pode promover a rediscussão de questões decididas em ação anterior por sentença de mérito transitada em julgada, pois abrangidas pelo manto da coisa julgada material.
+78. No particular, as únicas alegações da autora recorrida (ALUMINAL) que justificariam a procedência do seu pedido de resolução contratual já foram expressamente afastadas pela sentença proferida na ação declaratória nº 8253/99.
+79. Não se pode mais discutir o acerto ou equívoco jurídico da referida sentença, sendo imutáveis e indiscutíveis as questões nela decididas, especificamente a desnecessidade da alteração do contrato social e do consenso dos demais sócios e, consequentemente, a validade da cessão e transferência de quotas pela simples celebração do Instrumento Particular, com depósito na sede e arquivamento no Registro do Comércio.
+ ..
+83. No ponto, o acórdão recorrido ao acolher a alegação da recorrida, rediscutiu questões acobertadas pela coisa julgada e decidiu em sentido diametralmente oposto à sentença e ao acórdão proferidos na ação declaratória nº 8253/99, violando, assim, os arts. 502 e 503 do CPC/2015.
+84. Nesse contexto, afastada a alegação de inadimplência do recorrente (LUIZ), a improcedência do pedido de resolução contratual é medida que se impõe.
+85. Portanto, o recurso merece ser provido, para julgar improcedentes os pedidos formulados na inicial.
+(e-STJ fls. 3583-3585)
+Por fim, o acórdão embargado ressaltou que "tendo a sentença decidido pela desnecessidade da alteração do contrato social, com a assinatura dos demais sócios, e determinado o respectivo arquivamento no Registro do Comércio, não cabe à recorrida, tampouco à Junta Comercial questionar tal decisão.  ..  Além disso, tratando-se de ordem judicial, eventual descumprimento por parte da Junta Comercial pode ser impugnado pela recorrida pelas vias cabíveis, não cabendo, contudo, ajuizamento de nova ação para rediscutir questões já decididas" (e-STJ fl. 3586).
+Desse modo, não se verifica omissão no acórdão embargado que julgou integralmente a matéria submetida a esta Corte e solucionou a controvérsia de forma fundamentada e suficiente, ainda que de maneira contrária à pretensão da embargante. Nesse sentido: EDcl no REsp 1.993.772/PR, Terceira Turma, DJe 12/8/2022.
+Portanto, não havendo omissão, contradição, obscuridade ou erro material no acórdão embargado, impõe-se a rejeição dos presentes embargos declaratórios.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
