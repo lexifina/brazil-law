@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ALLIED TECNOLOGIA S.A E FILIAL(IS), contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+"TRIBUTÁRIO. REMESSA NECESSÁRIA E RECURSO VOLUNTÁRIO. MANDADO DE SEGURANÇA. DIFERENCIAL DE ALÍQUOTA INTERESTADUAL DE ICMS - DIFAL. REPERCUSSÃO GERAL. JULGAMENTO DO RE 1.237.351/DF (Tema 1.093) STF. NECESSIDADE DE LEI COMPLEMENTAR. MODULAÇÃO EFEITOS.
+1. O mandado de segurança se trata de instrumento processual destinado a "proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça" (art. 1º da Lei 12.016/2009).
+2. O DIFAL visa garantir ao Estado de destino a parcela que lhe cabe na partilha do ICMS sobre operações interestaduais. Trata-se, de fato, de uma complementação do ICMS resultante da diferença entre os valores cobrados do referido imposto entre os Estados-Membros que participaram da transação comercial.
+3. Na modulação dos efeitos da declaração de inconstitucionalidade, o Supremo Tribunal Federal ressalvou da proposta as ações judiciais em curso, nos termos da decisão prolatada pelo Tribunal Pleno em 24/2/2021 no RE 1.287.019.
+4. O presente mandado de segurança foi impetrado após o julgamento da questão pela Corte Suprema, estando o writ incluso na modulação dos efeitos.
+5. Recurso conhecido e parcialmente provido" (fl. 174e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 187/192e), os quais restaram rejeitados (fls. 205/220e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte recorrente alega que o acórdão recorrido incorreu em violação aos arts. 927, I e III, do CPC e 3º da LC 190/2022, sustentando, em síntese, que "o acórdão recorrido deixou de aplicar o princípio das anterioridades nonagesimal expressamente previstas no art. 3º da LC 190/22, autorizando a cobrança de tributo que ainda não estava regulamentado nos termos de julgamento do Tema 1093 e da ADI 5469, precedentes vinculantes pelos quais o STF assentou a necessidade de referida legislação complementar" (fl. 229e); que "o fundamento normativo para a exigência do DIFAL somente se tornará completo a partir da publicação da LC 190, a qual, por ter ocorrido em 2022, atrai a incidência da anterioridade tributária nonagesimal" (fl. 235e).
+Por fim, requer "seja conhecido e provido o presente recurso, a fim de ser reformado o acórdão recorrido e, a partir da aplicação da anterioridade nonagesimal tendo por parâmetro a publicação da LC 190/2022, seja afastada a cobrança do DIFAL/ICMS sobre operações interestaduais de vendas de mercadorias realizadas pela Recorrente a destinatários não-contribuintes situados no Distrito Federal até 01.01.20 23, afastando-se, portanto, a violação aos art. 927, I e III, do CPC, e art. 3º da LC 190/2022" (fl. 236e).
+Apresentadas as contrarrazões (fls. 262/277e), o Recurso Especial foi admitido (fls. 297/298 e).
+O Recurso Especial não merece conhecimento.
+Com efeito, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+Nesse sentido:
+"TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. DIFAL. ANTERIORIDADE. MATÉRIA DECIDIDA À LUZ DE FUNDAMENTOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Ainda que apontado como violado dispositivo de lei federal, é inviável o exame da controvérsia por este Tribunal Superior quando solucionada, na Corte local, sob a ótica de fundamento constitucional.
+2. Verifica-se da leitura do aresto combatido que a Corte local decidiu a questão da anterioridade à luz da interpretação da Emenda Constitucional n. 87/2015 e do entendimento do STF no julgamento do Tema n. 1.093 e da ADI n. 5.469/DF (e-STJ fls. 201/211).
+3. Assim, considerando que a tese recursal diz respeito à matéria analisada na origem à luz de fundamento constitucional, o conhecimento da matéria envolve, obrigatoriamente, o enfrentamento de matéria constitucional, inviável em recurso especial, sob pena de usurpação da competência do STF prevista no art. 102 da CRFB/88.
+4. Agravo interno não provido" (STJ, AgInt no REsp n. 2.075.943/DF, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA , DJe de 1/9/2023.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
+EMENTA
