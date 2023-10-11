@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de reclamação proposta por JHULISON DA SILVA ARAÚJO, com pedido de liminar, contra decisão proferida pelo Juízo de Direito da Unidade Regional do Departamento Estadual de Execução Criminal de São Paulo - DEECRIM 1ª RAJ, que determinou a expedição do mandado de prisão em regime aberto.
+Assevera que a autoridade judicial descumpriu a ordem concedida nos autos do RHC n. 185.403/SP, de minha relatoria, a qual ordenou "a expedição da guia de recolhimento definitiva, bem como a expedição de mandado de intimação para início de cumprimento de pena, ao invés do mandado de prisão" (e-STJ, fl. 4).
+Requer, liminarmente, a suspensão dos efeitos da decisão reclamada no processo n. 0015926-92.2023.8.26.0041 até o julgamento definitivo desta Reclamação. No mérito, pleiteia que seja cassada a decisão, para que seja intimado para o início do cumprimento de pena em regime aberto.
+É o relatório.
+Decido.
+Conforme apontado na decisão prolatada no RHC n. 185.403/SP, o Conselho Nacional de Justiça editou a Resolução n. 474/2022, que modifica o art. 23 da Resolução n. 417/2021, a fim de possibilitar ao condenado à pena privativa de liberdade, em regime inicial semiaberto ou aberto, que seja intimado para começar seu cumprimento, antes da expedição de mandado de prisão.
+A norma passou a ostentar, pois, a seguinte redação:
+"Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante no 56."
+Com base nesse comando, foi concedida a ordem nos seguintes termos:
+"Na hipótese, verifico que o pedido de expedição da guia definitiva se reveste de plausibilidade jurídica, uma vez que se encontra pendente de análise o pleito de progressão do sentenciado ao regime aberto, o que pode impactar, com efeito, no início do cumprimento de sua pena, decorrente da ação penal n. 1519010-53.2020.8.26.0228.
+Nesse contexto, a ordem deve ser concedida de ofício, para que seja expedida a guia definitiva de execução, independentemente do recolhimento do sentenciado à prisão, possibilitando, dessa forma, a demanda ao Juízo da Execução que analise as questões que possam impactar no início do cumprimento da pena.
+Nesse contexto, portanto, resta evidenciada a existência de flagrante ilegalidade, o que enseja a concessão da ordem, de ofício.
+Ante o exposto, dou provimento ao recurso, a fim de que seja expedida a guia de execução definitiva ref. ao processo n. 1519010-53.2020.8.26.0228, para que, intimado a iniciar seu cumprimento de pena, sem recolhimento prévio ao cárcere, possa pleitear junto ao Juízo competente o que lhe seja de direito.
+Publique-se. Intimem-se."
+Da leitura das decisões proferidas pelo Juízo da Execução (e-STJ, fls. 15-19), observo que foi expedida a guia de recolhimento definitiva, bem como examinado e deferido o regime aberto ao sentenciado, com imposição das condições n. 1 a 8 (e-STJ, fls. 15-16), ocasião em que se determinou a expedição de mandado de prisão em regime aberto.
+Vale acrescentar que, questionado pela defesa a se manifestar sobre a determinação de "expedição de mandado de prisão em regime aberto" (e-STJ, fl. 16), o Juízo de primeiro grau esclareceu que o sentenciado não será recolhido ao cárcere:
+"Às fls.193/195 o sentenciado foi beneficiado com a progressão ao regime aberto. No Estado de São Paulo o cumprimento do regime aberto ocorre na modalidade de regime aberto domiciliar, pois não existe Casa de Albergado.
+No caso, a prisão decorre de sentença já transita em julgado e portanto, o sentenciado não será recolhido ao cárcere, o que afasta, no particular, a incidência da regra jurídica constante da Súmula Vinculante nº 56 do Egrégio Supremo Tribunal Federal, pois o regime aberto será cumprido de forma domiciliar, perante as condições já impostas.
+O acima esclarecido, torna desnecessária a prévia intimação de JHULISON DA SILVA ARAUJO a respeito, pois, após o cumprimento do mandado de prisão e realização da audiência de advertência do regime aberto, o sentenciado cumprirá a reprimenda mediante as condições, sem a necessidade de ingressar em estabelecimento prisional, garantindo-se, portanto, todos os direitos previstos nas normas de regência.
+De observar-se, também, que a prévia intimação de JHULISON DA SILVA ARAUJO somente se faria necessária caso não houvesse vaga para cumprimento da reprimenda aplicada em estabelecimento prisional adequado - o que, repita-se, não é o caso -, pois o reeducando já foi promovido ao regime aberto.
+Observa-se ainda que esse tem sido o entendimento mesmo se o regime a ser cumprido fosse o semiaberto.
+Interpretação teleológica e sistemática da Resolução nº 474/2022 do Colendo Conselho Nacional de Justiça, conduz a essa compreensão.
+ ..
+Assim, mantenho a decisão anterior. Cumpra-se o determinado às fls.193/195 e expeça-se mandado de prisão em desfavor de JHULISON DA SILVA ARAUJO consignando-se nele o regime prisional imposto - ABERTO." (e-STJ, fls. 18-19, grifou-se).
+Dessa forma, não constato desobediência do comando emanado por esta Instância Superior, visto que, muito embora não tenha sido utilizada a terminologia "expedição de mandado para início de cumprimento de pena no regime aberto", o efeito prático do termo "expedição do mandado de prisão em regime aberto", é o mesmo da decisão proferida no RHC n. 185.403/SP - expedição da guia definitiva de execução, "independentemente do recolhimento do sentenciado à prisão, possibilitando, dessa forma, a demanda ao Juízo da Execução que analise as questões que possam impactar no início do cumprimento da pena" (e-STJ, fl. 1.019 daqueles autos).
+Ante o exposto, julgo improcedente a Reclamação.
+Publique-se. Intimem-se.
+EMENTA
