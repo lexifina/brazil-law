@@ -1,0 +1,39 @@
+Trata-se de embargos de declaração opostos em desfavor de decisão que negou seguimento ao agravo em recurso extraordinário, com fundamento em precedente vinculante emanado por esta Suprema Corte, na ADI 4.171. (doc. eletrônico 160)
+
+     A embargante aduz, em suma, que:
+
+    “[...] a questão fundamental sobre a qual remanesce controvérsia está relacionada à modulação de 4 efeitos. Isso porque, no inteiro teor do voto condutor, essa Suprema Corte não tratou das ações ajuizadas anteriormente ao julgamento da ADI n.º 4171/DF. 06. Conforme se demonstrou exaustivamente no RECURSO EXTRAORDINÁRIO e no respectivo AGRAVO EM RECURSO EXTRAORDINÁRIO, é imperativo que essa questão seja apreciada, para definir com precisão e clareza, atributos indispensáveis de qualquer decisão judicial, se a modulação atinge indistintamente todos os processos individuais que se encontravam em curso no país ou se tais demandas devem ser ressalvadas dos aludidos efeitos prospectivos.
+
+    [...]
+
+    09. Com efeito, a “oportunidade nova e futura para revisitar o tema da eficácia prospectiva da decisão” vislumbrada por Sua Excelência, até o momento, não se concretizou, ensejando a necessidade de processamento do presente RECURSO EXTRAORDINÁRIO para se alcançar o objetivo preconizado, com a conclusão da prestação jurisdicional. 10. Até porque, enquanto esse Pretório Excelso não deliberar acerca da aplicabilidade ou não da modulação de efeitos para os processos individuais que reproduzem a controvérsia objeto da ADI N.º 4.171, a solução de centenas, quiçá milhares de processos que tramitam em todo o território nacional ficará à mercê da interpretação extraída por cada um dos 27 (vinte e sete) tribunais locais.
+
+    [...]
+
+    15. Em razão do exposto e pelo quanto mais dos autos consta, com fundamento no Artigo 1.022, II, do Estatuto Processual Civil, REQUER-SE de Vossa Excelência se digne de acolher os presentes EMBARGOS DE DECLARAÇÃO, para o fim de: (i) suprir a omissão, afastando a modulação de feitos operada nos autos da ADI Nº 4171/DF, porque inaplicável às demandas individuais que já se encontravam em curso na data daquele julgamento; e (ii) sucessivamente, tendo em conta o princípio da fungibilidade recursal, caso Vossa Excelência entenda de forma diversa, sejam os presentes EMBARGOS DE DECLARAÇÃO recebidos e processados como Agravo Regimental, nos moldes do Artigo 317 do Regimento Interno dessa Colenda Corte Constitucional.” (doc. eletrônico 161, pp. 3-11)
+
+     É o relatório. Decido.
+
+     Reexaminados os autos, verifico que os embargos de declaração são manifestamente inadmissíveis.
+
+     A embargante, a pretexto de sanar suposta omissão, busca apenas o reexame da matéria.
+
+    Com efeito, o entendimento desta Suprema Corte é no sentido de que os embargos de declaração não constituem meio processual adequado para a reforma de atos decisórios, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+
+     No caso, o que se tem é o mero inconformismo da embargante com o resultado que não lhe foi favorável. A decisão embargada não padece de vícios de omissão, e deixa claro que:
+
+    “Esta Suprema Corte emanou precedente vinculante na ADI 4.171, em que declarou inconstitucionais os §§ 10 e 11 da Cláusula 20 do Convênio ICMS 110/2007, e modulou os efeitos temporais da decisão, determinando o período de seis meses contados da publicação do referido acórdão para início de sua eficácia. Confira-se a ementa do decisório:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEGITIMIDADE ATIVA AD CAUSAM DA CONFEDERAÇÃO NACIONAL DO COMÉRCIO - CNC. CABIMENTO DO CONTROLE ABSTRATO AÇÃO PARA O QUESTIONAMENTO DA CONSTITUCIONALIDADE DE CONVÊNIO FIRMADO PELOS ESTADOS MEMBROS. INCIDÊNCIA DO ICMS NA OPERAÇÃO DE COMBUSTÍVEIS. PARÁGRAFOS 10 E 11 DA CLÁUSULA VIGÉSIMA DO CONVÊNIO ICMS 110/2007, COM REDAÇÃO DADA PELO CONVÊNIO 101/2008 E, MEDIANTE ADITAMENTO, TAMBÉM COM A REDAÇÃO DADA PELO CONVÊNIO 136/2008. ESTORNO, NA FORMA DE RECOLHIMENTO, DO VALOR CORRESPONDENTE AO ICMS DIFERIDO. NATUREZA MERAMENTE CONTÁBIL DO CRÉDITO DO ICMS. O DIFERIMENTO DO LANÇAMENTO DO ICMS NÃO GERA DIREITO A CRÉDITO. ESTABELECIMENTO DE NOVA OBRIGAÇÃO TRIBUTÁRIA POR MEIO DE CONVÊNIO. VIOLAÇÃO DO DISPOSTO NOS ARTS. 145, § 1º; 150, INCISO I; E 155, § 2º, INCISO I E § 5º, DA CONSTITUIÇÃO FEDERAL. AÇÃO DIRETA JULGADA PROCEDENTE. I - A legitimidade da Confederação Nacional do Comércio - CNC para propor ação direta de constitucionalidade questionando dispositivos do interesse de setores do comércio já foi reconhecida por este Tribunal na ADI 1.332/RJ, de relatoria do Min. Sydney Sanches. II - Cabe a ação direta de inconstitucionalidade para questionar convênios, em matéria tributária, firmado pelos Estados membros, por constituírem atos normativos de caráter estrutural, requeridos pelo próprio texto Constitucional (art. 155, § 5º). Precedente da Corte. III – O Convênio 110/2007, com a redação dos Convênios 101/2008 e 136/2008, atribuiu às refinarias de petróleo (que efetuam a venda de gasolina A às distribuidoras) a responsabilidade tributária pelo recolhimento do ICMS incidente sobre as operações comerciais interestaduais com o álcool etílico anidro combustível (AEAC) e biodiesel (B100), realizadas entre as usinas e destilarias, de um lado, e as distribuidoras de combustíveis, de outro (§ 5º da Cláusula Vigésima Primeira). IV – Os §§ 10 e 11 da Cláusula Vigésima Primeira do Convênio ICMS 110/2007, preveem o estorno do crédito, condizente com a saída de mercadoria sem incidência do ICMS, na forma de recolhimento do valor correspondente ao ICMS diferido, e não mediante anulação escritural. É dizer, em vez de ser determinado o estorno de um crédito, determina-se a realização de um recolhimento. V - A distribuidora não se credita do ICMS diferido que onerou a operação de entrada, já que não há pagamento direto por ela. Isso porque a operação posterior de venda dos combustíveis gasolina tipo C e óleo diesel B5 aos postos em operação interestadual será imune e a distribuidora simplesmente informa à refinaria para o repasse. VI - As matérias passíveis de tratamento via convênio são aquelas especificadas no § 4º do art. 155 da Constituição Federal. Portanto, não poderia o Convênio, a título de estorno, determinar novo recolhimento, inovando na ordem jurídica, transmudando a medida escritural – anulação de um crédito - em obrigação de pagar. VII - Além disso, considerando que o ICMS diferido já fora suportado pelo substituto, na medida em que destacado na operação de aquisição do álcool e do biodiesel, tendo sido recolhido mediante repasse pela refinaria, a determinação de novo recolhimento de valor correspondente, dessa feita, a outro Estado, implica bitributação não autorizada pela Carta Magna. VIII - Inexistência de violação à destinação constitucional do ICMS sobre operações com combustíveis derivados de petróleo (art. 155, § 4º, I), na medida em que o montante recolhido a título de estorno diz respeito ao ICMS diferido, incidente sobre o álcool (AEAC) e o biodiesel (B100), e que não compromete o repasse do valor do ICMS presumido sobre a operação final com combustível derivado de petróleo ao Estado de destino. IX – Necessidade, em homenagem à segurança jurídica, da modulação dos efeitos temporais da decisão que declara a inconstitucionalidade dos atos normativos atacados, para que produza efeitos a partir de seis meses contados da publicação do acórdão. X - Ação direta de inconstitucionalidade cujo pedido se julga procedente.” (ADI 4.171/DF, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 21/8/2015).” (doc. eletrônico 160)
+
+     Fica evidente, portanto, a ausência de vícios de obscuridade, omissão, contradição ou erro na referida decisão.
+
+     Posto isso, rejeito os embargos de declaração (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 12 de outubro de 2023.
+
+Ministro Cristiano Zanin
+
+Relator
