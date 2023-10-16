@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara de Dourados-SJ/MS, suscitante, e o Juízo de Direito da 1ª Vara Criminal de Dourados/MS, suscitado, no âmbito da Ação Penal 0813506-28.2022.8.12.0002, em curso na Justiça Estadual.
+O Juízo suscitado, acolhendo manifestação do Ministério Público do Estado de Mato Grosso do Sul, declinou da competência em razão de a apuração instaurada na origem indicar que o grupo denunciado, "em tese, utilizava os dados de beneficiários da Previdência Social, cuidadosamente selecionados, para realizar empréstimos em instituições bancárias, fazendo uso de documentos falsos para tanto" (e-STJ fl. 302).
+O Juízo suscitante, por sua vez, assentou que "o fato ocorrido em 29/11/2022 já foi denunciado pelo Ministério Público Estadual e a denúncia já foi recebida pelo Juízo Estadual, ao contrário da investigação acerca de eventuais crimes de estelionato previdenciário, que nem sequer foi instaurada" (e-STJ fl. 7).
+Em razão de um dos investigados encontrar-se preso à época da instauração do presente conflito e ter impetrado habeas corpus perante o Superior Tribunal de Justiça, essa relatoria designou, em caráter provisório, o juízo suscitado para responder por eventuais medidas urgentes e requisitou informações (e-STJ fls. 620-622).
+O investigado Reginaldo França de Souza requereu a revogação de sua prisão preventiva ou substituição por uma das medidas cautelares diversas (e-STJ fls. 626-631).
+O Juízo da 1ª Vara Criminal de Dourados/MS prestou informações, segundo as quais, "analisando os fatos narrados na denúncia e do inquérito policial, a Justiça Estadual é a competente para julgar os fatos ali descritos, considerando a inexistência de interesse do INSS enquanto autarquia federal nos fatos, pois a pretensão dos agentes era obter prejuízo em face do Banco do Brasil com dados falsificados de segurandos do INSS" (e-STJ fl. 640). Na mesma oportunidade, revogou a prisão preventiva de Reginaldo França de Souza e outros 3 investigados.
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 658-661).
+É o relatório.
+O exame dos requisitos de admissibilidade evidencia que o conflito comporta conhecimento, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para o processo em que se apura eventual lesão ao Banco do Brasil foi estabelecida entre o Juízo Federal da 2ª Vara de Dourados-SJ/MS, suscitante, e o Juízo de Direito da 1ª Vara Criminal de Dourados/MS, suscitado.
+O avanço das investigações, na origem, desde a instauração do conflito em exame evidenciou ser competente o juízo suscitado para processamento da causa, conforme essa relatoria já havia estabelecido em caráter provisório.
+Com a chegada das informações por parte do Juízo de Direito da 1ª Vara Criminal de Dourados/MS, foi esclarecido que, em tese, "a lesão não é do INSS, mas sim do Banco do Brasil ou no máximo do verdadeiro proprietário dos documentos falsificados e dados pessoais obtidos ilegalmente, uma vez que a lesão, ou seja, obter para si vantagem indevida seria em face do Banco do Brasil." (e-STJ fl. 640).
+I ncide o enunciado da Súmula 42/STJ: "Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento".
+Uma vez que o juízo designado para solucionar provisoriamente as medidas urgentes revogou a prisão preventiva de Reginaldo França de Souza, fica prejudicado o pedido formulado às e-STJ fls. 626-631.
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo de Direito da 1ª Vara Criminal de Dourados/MS , suscitado.
+Dê-se ciência aos juízos suscitante e suscitado.
+Publique-se.
+EMENTA
