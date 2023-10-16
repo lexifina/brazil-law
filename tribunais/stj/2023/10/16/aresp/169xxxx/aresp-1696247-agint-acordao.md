@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. CUMPRIMENTO DOS REQUISITOS DO ART. 150, VI, c, DA CF, C/C O ART. 14 do CTN. TRIBUNAL A QUO QUE ENTENDEU PELO CUMPRIMENTO DOS REQUISITOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - O Tribunal a quo, para afirmar que o recorrente cumpriu os requisitos do art. 14 do CTN a fim de obter a imunidade tributária, consignou que constava documentação nos autos apta para provar que a entidade fazia jus ao benefício tributário.
+II - No acórdão recorrido, não foi analisado a quem cabia o ônus de demonstrar o atendimento aos requisitos do art. 14 do CTN; art. 373, I, do CPC/2015, mas, sim, que o ora recorrente, então réu na ação declaratória, não teria demonstrado fato modificativo ou extintivo do direito do autor, art. 373, II, do CPC/2015.
+III - Neste panorama, a um só tempo, tem-se de rigor a aplicação dos óbices constantes da Súmula n. 7/STJ, diante da impossibilidade de se acolher a tese do recorrente sem analisar os elementos probatórios examinados pelo julgador para entender pelo cumprimento dos requisitos do art. 150 da CF, c/c o art. 14 do CTN; da Súmula n. 282/STF, uma vez que a questão do art. 373, I não foi abordada no acórdão recorrido e; da Súmula n. 283/STF, porque o recorrente não enfrentou a afirmação do julgador que deveria ele ter rebatido as provas apresentadas pelo autor.
+IV - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo Município de Salto de Pirarapora contra a decisão de fls. 444-445, pela qual não foi conhecido seu recurso especial.
+Na referida decisão, foi explicitado que o Tribunal a quo havia afirmado a existência de documentação apta para demonstrar a condição de entidade passível de imunidade tributária de acordo com o art. 1 50 da CF, não sendo possível analisar a tese do recorrente pela falta de tal condição, diante da vedação contida na Súmula n. 7/STJ.
+Adiante foi observado que as matérias constantes dos demais dispositivos legais indicados pelo recorrente não foram abordadas no acórdão recorrido, implicando a falta de prequestionamento, a atrair o comando da Súmula n. 282/STF.
+No presente agravo interno, o recorrente afirma, em síntese, que o óbice da Súmula n. 7 do STJ deve ser afastado, "pois a questão principal do recurso é de ordem objetiva, consistente na apreciação do ônus da prova do atendimento aos requisitos do art. 14 do CTN."
+Afirma que a questão é de direito, ou seja, a quem compete o ônus de comprovar os requisitos para reconhecimento da imunidade tributária prevista no art. 14 do CTN.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. CUMPRIMENTO DOS REQUISITOS DO ART. 150, VI, c, DA CF, C/C O ART. 14 do CTN. TRIBUNAL A QUO QUE ENTENDEU PELO CUMPRIMENTO DOS REQUISITOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO.
+I - O Tribunal a quo, para afirmar que o recorrente cumpriu os requisitos do art. 14 do CTN a fim de obter a imunidade tributária, consignou que constava documentação nos autos apta para provar que a entidade fazia jus ao benefício tributário.
+II - No acórdão recorrido, não foi analisado a quem cabia o ônus de demonstrar o atendimento aos requisitos do art. 14 do CTN; art. 373, I, do CPC/2015, mas, sim, que o ora recorrente, então réu na ação declaratória, não teria demonstrado fato modificativo ou extintivo do direito do autor, art. 373, II, do CPC/2015.
+III - Neste panorama, a um só tempo, tem-se de rigor a aplicação dos óbices constantes da Súmula n. 7/STJ, diante da impossibilidade de se acolher a tese do recorrente sem analisar os elementos probatórios examinados pelo julgador para entender pelo cumprimento dos requisitos do art. 150 da CF, c/c o art. 14 do CTN; da Súmula n. 282/STF, uma vez que a questão do art. 373, I não foi abordada no acórdão recorrido e; da Súmula n. 283/STF, porque o recorrente não enfrentou a afirmação do julgador que deveria ele ter rebatido as provas apresentadas pelo autor.
+IV - Agravo interno improvido.
+VOTO
+Não assiste razão ao recorrente.
+O Tribunal a quo, para afirmar que o recorrente cumpriu os requisitos do art. 14 do CTN a fim de obter a imunidade tributária, explicitou que constava documentação nos autos apta para provar que a entidade fazia jus ao benefício tributário. No ponto, transcreve-se excerto do acórdão recorrido:
+De fato, com esta ação declaratória cumulada com repetição de indébito, busca a associação autora a declaração de inexigibilidade do crédito de ITBI incidente sobre o imóvel por ela adquirido, com a consequente devolução do valor pago, ao argumento de que é entidade imune.
+O estatuto social acostado a fls. 16/28 revela a condição da demandante de entidade beneficente e educacional, sem fins lucrativos, que não distribui resultados, dividendos, bonificações, participações ou parcela de seu patrimônio e que reinveste seu superávit no desenvolvimento de suas atividades. Ademais a autora trouxe aos autos certidões expedidas por órgãos das esferas federal, estadual e municipal que a reconhecem como entidade beneficente de assistência social (fls.
+29/53), documentos esses que dão conta de sua condição de instituição assistencial.
+Logo, conclui-se da documentação aqui reunida que a apelada é uma instituição de fins filantrópicos que, nessa qualidade, faz jus ao benefício pleiteado, nos termos da alínea "c", VI, do art. 150 da CR, combinado com o disposto nos arts. 9º, alínea "c", e 14, ambos do CTN.
+Sobre isso o Município nada disse em sua contestação de fls. 60 a 67. Limitou-se a arguir a ilegitimidade ad causam da demandante, não buscando tecer argumentos que rebatessem a invocada imunidade.
+Ora, diante da documentação acostada pela autora, cumpria ao ente público tributante provar alguma incongruência ou vício em suas informações, que indicassem o não atendimento às exigências legais. Mas desse ônus não se desincumbiu. (grifos não constam do texto original).
+No acórdão recorrido, não se analisou a quem cabia o ônus de demonstrar o atendimento aos requisitos do art. 14 do CTN; art. 373, I, do CPC/2015, mas, sim, que o ora recorrente, então réu na ação declaratória, não teria demonstrado fato modificativo ou extintivo do direito do autor, art. 373, II, do CPC/2015.
+Neste panorama, a um só tempo, tem-se de rigor a aplicação dos óbices constantes da Súmula n. 7/STJ, diante da impossibilidade de se acolher a tese do recorrente sem analisar os elementos probatórios examinados pelo julgador para entender pelo cumprimento dos requisitos do art. 150 da CF, c/c o art. 14 do CTN; da Súmula n. 282/STF, uma vez que a questão do art. 373, I não foi abordada no acórdão recorrido e; da Súmula n. 283/STF, porque o recorrente não rebateu a afirmação do julgador que deveria ele ter rebatido as provas apresentadas pelo autor.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
