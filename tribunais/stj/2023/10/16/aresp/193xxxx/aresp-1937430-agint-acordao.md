@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. TRANSPORTE INTERNACIONAL. AVARIA. ÔNUS DA PROVA. SÚMULA 283/STF. REVISÃO DO JULGADO. SÚMULA N. 7/STJ.
+1. Da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar seu dever de responsabilidade sobre a carga efetivamente danificada e deixa de impugnar o fundamento do acordão recorrido no sentido de que não cumpriu seu ônus probatório ("isto porque a vistoria constatou amassados e rachaduras nos equipamentos (fls. 70/75), e não houve individualização dos pesos dos volumes avariados, ônus que incumbia à apelante"), o que atrai a incidência da Súmula n. 283/STF.
+2. Inafastável os preceitos da Súmula n. 7/STJ à hipótese dos autos, visto que o valor devido foi apurado à luz do acervo fático dos autos, mormente diante da conclusão de que não houve prova apta à individualização das avarias.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por KUEHNE NAGEL SERVIÇOS LOGÍSTICOS LTDA. contra decisão monocrática do Ministro Paulo de Tarso Sanseverino que conheceu do agravo para não conhecer do recurso especial (fls. 520-525).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que acolheu embargos de declaração sem efeitos, nos termos da seguinte ementa (fl. 467):
+Embargos de declaração da parte apelante. Recurso contra acórdão que deu parcial provimento ao recurso de apelação. Omissão. Ocorrência. Aplicação da Convenção de Montreal, em detrimento do Código de Defesa do Consumidor (Tema 210). Precedentes. Valor pleiteado na inicial que está dentro do limite da indenização. Embargos acolhidos, sem efeito modificativo.
+Nas razões do recurso interno, a agravante aduz a inaplicabilidade das Súmulas n. 283/STF e 384/STF, porquanto devidamente fundamentas as razões do recurso especial.
+Sustenta, outrossim, que a Súmula n. 7/STJ não incide na hipótese dos autos, pois "o pedido é que se reconheça a negativa de vigência ao artigo 22, item 4, da Convenção de Montreal, sendo de espartana clareza que o fato em si não seria examinado em suas minúcias documentais" (fl. 552).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada apresentou contrarrazões (fls. 563-570).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. TRANSPORTE INTERNACIONAL. AVARIA. ÔNUS DA PROVA. SÚMULA 283/STF. REVISÃO DO JULGADO. SÚMULA N. 7/STJ.
+1. Da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar seu dever de responsabilidade sobre a carga efetivamente danificada e deixa de impugnar o fundamento do acordão recorrido no sentido de que não cumpriu seu ônus probatório ("isto porque a vistoria constatou amassados e rachaduras nos equipamentos (fls. 70/75), e não houve individualização dos pesos dos volumes avariados, ônus que incumbia à apelante"), o que atrai a incidência da Súmula n. 283/STF.
+2. Inafastável os preceitos da Súmula n. 7/STJ à hipótese dos autos, visto que o valor devido foi apurado à luz do acervo fático dos autos, mormente diante da conclusão de que não houve prova apta à individualização das avarias.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a prover.
+Ao estabelecer a responsabilidade da agravante sobre o transporte de mercadoria avariada, assim se manifestou a Corte de origem (fls. 467-):
+Com relação à legislação aplicável, observo mudança de meu de entendimento acerca do ressarcimento de dano material em transporte de pessoas, para adotar ao orientação jurisprudencial decorrente do RE nº 636331, relativo ao TEMA 210, para a hipótese especifica tratada neste recurso:
+Tema nº 210 - Nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor.
+ ..
+O Decreto nº 5.910/2006, que promulga a Convenção para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, celebrada em Montreal, em 28 de maio de 1999, prevê em seu artigo 22 que: "No transporte de carga, a responsabilidade do transportador em caso de destruição, perda, avaria ou atraso se limita a uma quantia de 17 Direitos Especiais de Saque por quilograma, a menos que o expedidor haja feito ao transportador, ao entregar-lhe o volume, uma declaração especial de valor de sua entrega no lugar de destino, e tenha pago uma quantia suplementar, se for cabível. Neste caso, o transportador estará obrigado a pagar uma quantia que não excederá o valor declarado, a menos que prove que este valor é superior ao valor real da entrega no lugar de destino.".
+O mesmo dispositivo acrescenta que: "Em caso de destruição, perda, avaria ou atraso de uma parte da carga ou de qualquer objeto que ela contenha, para determinar a quantia que constitui o limite de responsabilidade do transportador, somente se levará em conta o peso total do volume ou volumes afetados. Não obstante, quando a destruição, perda, avaria ou atraso de uma parte da carga ou de um objeto que ela contenha afete o valor de outros volumes compreendidos no mesmo conhecimento aéreo, ou no mesmo recibo ou, se não houver sido expedido nenhum desses documentos, nos registros conservados por outros meios, mencionados no número 2 do Artigo 4, para determinar o limite de responsabilidade também se levará em conta o peso total de tais volumes."
+No caso, não houve apresentação de declaração especial de valor da entrega (fl. 54), de modo que a indenização deve respeitar o limite de 17 Direitos Especiais de Saque (DES) por quilograma, que deve considerar o peso total (1502,2 Kg - fl. 64), isto porque a vistoria constatou amassados e rachaduras nos equipamentos (fls. 70/75), e não houve individualização dos pesos dos volumes avariados, ônus que incumbia à apelante.
+De acordo com o site do Banco Central (https://www.bcb.gov.br/conversao), em 20/02/2019 (ajuizamento da ação), 1,000 DES correspondiam a R$ 5,16.
+Considerando que a responsabilidade da ré se limita a 17 Direitos Especiais de Saque por quilograma, equivalente a 25.537,4 DES (1502,2 Kg x 17 DES/Kg), montante perfaz o total de R$ 131.813,84.
+No caso, o montante reconhecido como devido no acórdão corresponde a R$ 7.007,52 (fl. 76), quantia que se encontra dentro do limite estabelecido na Convenção de Montreal.
+Com efeito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar seu dever de responsabilidade sobre a carga efetivamente danificada e deixa de impugnar o fundamento do acordão recorrido no sentido de que não cumpriu seu ônus probatório ("isto porque a vistoria constatou amassados e rachaduras nos equipamentos (fls. 70/75), e não houve individualização dos pesos dos volumes avariados, ônus que incumbia à apelante"), o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+2. A falta de impugnação especificada de fundamento autônomo, no caso, (i) a inversão do ônus da prova e a (ii) ausência de qualquer prova, mesmo indiciária, acerca do empréstimo do montante total informado, enseja a aplicação do óbice da Súmula n.º 283 do STF, por analogia.
+(AgInt no AREsp n. 2.087.998/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/8/2023.)
+3. O acórdão recorrido afirmou a irrelevância do debate acerca do momento da inversão do ônus da prova em favor da consumidora, considerando-se a responsabilidade objetiva do fornecedor, conforme previsão legal do art. 14, caput, do CDC, competindo a ele a prova do fato impeditivo, modificativo ou extintivo do direito. Fundamento não impugnado. Súmula nº 283 do STF.
+(AgInt nos EDcl no AREsp n. 1.544.082/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 27/11/2020.)
+Do mesmo modo, ao contrário do que aduz a agravante, inafastável os preceitos da Súmula n. 7/STJ à hipótese dos autos, visto que o valor devido foi apurado à luz do acervo fático dos autos, mormente diante da conclusão de que não houve prova apta à individualização das avarias.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE TRANSPORTE AÉREO INTERNACIONAL. AÇÃO REGRESSIVA. SEGURADOR. CONTRATO DE SEGURO. AVARIA EM MERCADORIA. AUSÊNCIA DE DECLARAÇÃO ESPECIAL. LIMITAÇÃO DA INDENIZAÇÃO AO VALOR TARIFÁRIO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO.
+1. "Nos termos do artigo 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (RE n. 636.331/RJ, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 25.5.2017, Repercussão Geral-Mérito, DJe 13.11.2017).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.023.067/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 9/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. TRANSPORTE DE COISAS. INDENIZAÇÃO PELO EXTRAVIO. VALOR INTEGRAL DO DANO MATERIAL. APRESENTAÇÃO DE DECLARAÇÃO ESPECIAL DOS BENS OBJETO DO CONTRATO DE TRANSPORTE. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO.
+1. Conforme entendimento desta Corte Superior, o art. 22, alínea 3, da Convenção de Montreal estabelece que, no transporte de carga, a responsabilidade do transportador em caso de destruição, perda, avaria ou atraso se limita a uma quantia de 17 Direitos Especiais de Saque por quilograma, a menos que o expedidor haja feito ao transportador, ao entregar-lhe o volume, uma declaração especial de valor de sua entrega no lugar de destino, e tenha pago quantia suplementar, se for cabível. Com efeito, o Diploma transnacional não impõe uma forçosa tarifação, mas faculta ao expedidor da mercadoria que se submeta a ela, caso não opte por fazer declaração especial - o que envolve, em regra, pagamento de quantia suplementar.
+Precedentes.
+2. Na hipótese vertente, o Tribunal de origem, amparado nos elementos fático-probatórios dos autos, concluiu que: "No caso dos autos, o valor das mercadorias avariadas foi declarado, pois constava da fatura comercial mencionada no conhecimento de transporte. Também restou demonstrada a reparação dos danos sofridos pela segurada e a consequente sub-rogação da apelada no direito dela.". Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno provido.
+(AgInt no AREsp n. 1.472.850/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 9/12/2020.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
