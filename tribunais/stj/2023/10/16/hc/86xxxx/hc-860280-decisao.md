@@ -1,0 +1,12 @@
+DECISÃO
+JHON EVERTON SIQUEIRA - condenado por roubo majorado - alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, que manteve a fixação do regime inicial fechado para o resgate da pena de 6 anos e 8 meses de reclusã o.
+A defesa assere não existir motivação para a escolha do modo mais severo de cumprimento da pena e pede a mudança para o regime inicial semiaberto.
+Decido.
+O modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto. Devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+Com fundamento no art. 33, § 3º, do CP, é cabível o regime inicial fechado aos condenados primários e com circunstâncias judiciais desfavoráveis, mesmo que a pena seja superior a quatro anos e inferior a oito anos de reclusão.
+O writ comporta avanço para solução in limine, pois o acórdão recorrido está conforme a jurisprudência desta Corte. Da análise da sentença e do acórdão, verifica-se que foram reconhecidas em desfavor do réu vetoriais negativas do art. 59 do CP o que ensejou a exasperação da pena-base. Dessa forma, existe justificativa para a escolha do regime inicial fechado, "haja vista a culpabilidade e circunstâncias do crime, com fulcro no art. 33, §§ 2º e 3º do CP" (fl. 29).
+A teor dos julgados desta Corte, "embora o paciente seja primário e a pena tenha sido estabelecida em patamar superior a 4 anos e não excedente a 8 anos, o modo fechado é o adequado e suficiente para o início do cumprimento da pena reclusiva, diante da aferição desfavorável de circunstância judicial" (AgRg no HC n. 753.166/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/9/2022, DJe de 21/9/2022).
+Aplica-se ao caso o entendimento de que, "embora a pena privativa de liberdade tenha sido estabelecida em patamar inferior a 8 (oito) anos de reclusão, fixada a pena-base acima do mínimo legal, com base em duas circunstâncias judiciais desfavoráveis, deve ser mantido o regime fechado para a prevenção e a repressão do delito perpetrado, nos moldes do art. 33, § 3º, do Código Penal" (AgRg no HC n. 418.159/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/2/2018, DJe de 2/3/2018).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
