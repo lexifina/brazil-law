@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado:
+Tributário. Não incidência da contribuição previdenciária patronal sobre os valores referentes aos 15 primeiros dias de afastamento do empregado, salário maternidade, férias usufruídas e adicional de férias. Jurisprudência dominante do Superior Tribunal de Justiça. Provimento da apelação da autora. Desprovimento da apelação da Fazenda Nacional e da remessa oficial (fl. 251)
+Os embargos de declaração opostos foram rejeitados (fls. 278/280).
+Das razões recursais (fls. 299/312), o Tribunal de origem admitiu o recurso especial em relação à suposta violação aos "arts. 22, I e § 2º e 28, § 9º, "d" e "n", da Lei 8.212/91, no tocante à discussão sobre a incidência de contribuição previdenciária sobre férias gozadas" (fl. 649), pois o acórdão recorrido encontra -se alinhado aos precedentes qualificados nos outros pontos.
+É o relatório.
+O Tribunal de origem assim decidiu sobre a incidência da contribuição previdenciária patronal sobre férias gozadas:
+A jurisprudência dominante deste Tribunal e do Superior Tribunal de Justiça reconhece o caráter indenizatório das verbas referentes a férias usufruídas (..), daí a não incidência da contribuição previdenciária patronal. (fl. 245)
+Entretanto, a orientação da Primeira Seção/STJ é pacífica no sentido de que o pagamento de férias gozadas possui natureza remuneratória e salarial, nos termos do art. 148 da CLT, e integra o salário de contribuição (AgRg nos EAREsp 138.628/AC, Primeira Seção, relator Ministro Sérgio Kukina, DJe de 18/8/2014; AgRg nos EREsp 1.355.594/PB, Primeira Seção, relator Ministro Mauro Campbell Marques, DJe de 17/9/2014).
+No mesmo sentido, cito decisões recentes das Primeira e Segunda Turmas do STJ:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. FÉRIAS GOZADAS E ADICIONAL DE INSALUBRIDADE.
+1. A jurisprudência desta Corte é firme no sentido de que incide a contribuição previdenciária patronal sobre os valores pagos a título de férias gozadas e adicional de insalubridade. Precedentes: AgInt no REsp n. 1.997.982/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022; AgInt no AREsp n. 2.009.788/RS, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022; AgInt no REsp n. 1.921.297/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/6/2021, DJe de 1º/7/2021.
+2. Agravo interno a que se nega provimento. (AgInt no AgInt nos EDcl no AREsp n. 2.013.484/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023 - sem destaque no original.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. PRECEDENTES.
+1. "A orientação das Turmas que integram a Primeira Seção do STJ é pacífica quanto à incidência da contribuição previdenciária sobre férias gozadas, bem como sobre os valores pagos a título de décimo terceiro salário proporcional ao aviso prévio indenizado.
+Precedentes: AgInt no REsp 1.836.748/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021; AgInt no REsp 1.849.802/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 03/09/2020; AgInt no AREsp 1.650.746/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/02/2021, DJe 26/02/2021; e AgInt no REsp 1.849.126/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 23/09/2020" (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 03/05/2021, DJe 07/05/2021).
+2. Agravo interno não provido. (AgInt no REsp n. 1.945.323/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/4/2022, DJe de 19/4/2022 - sem destaque no original.)
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS GOZADAS, ADICIONAL DE INSALUBRIDADE E ATESTADO MÉDICO. INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Consolidou-se na Seção de Direito Público desta Corte o entendimento de que incide Contribuição Previdenciária sobre férias usufruídas, adicional de insalubridade e período abonado com atestado médico. Precedentes.
+3. Hipótese em que, na decisão impugnada, em conformidade com a orientação jurisprudencial desta Corte Superior de Justiça, reconheceu-se a incidência de contribuição previdenciária sobre férias gozadas, adicional de insalubridade e atestado médico.
+4. Agravo interno desprovido. (AgInt no REsp n. 1.849.126/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/9/2020, DJe de 23/9/2020 - sem destaque no original.)
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. FÉRIAS GOZADAS.
+1. Esta Corte Superior tem jurisprudência no sentido de que a contribuição previdenciária patronal incide sobre a remuneração das férias usufruídas.
+2. Em razão da identidade de base de cálculo entre as contribuições em questão, aproveita à contribuição destinada ao SAT/RAT a mesma sistemática.
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.506.719/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 8/3/2021, DJe de 28/5/2021 - sem destaque no original.)
+Pelo exposto, dou provimento ao recurso especial interposto pela Fazenda Nacional para reconhecer a incidência da contribuição previdenciária patronal sobre os valores pagos a título de férias gozadas .
+Publique-se. Intimações necessárias.
+EMENTA
