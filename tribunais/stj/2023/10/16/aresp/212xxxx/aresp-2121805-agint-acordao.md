@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM.
+1. No caso dos autos, não houve impugnação efetiva de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por PIETRO RODERJAN MALUCELLI contra decisão monocrática por mim proferida que não conheceu do agravo em recurso especial (fls. 984-986).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fls. 647-648):
+APELAÇÃO CÍVEL. EMBARGOS Ã EXECUÇÃO. PRELIMINARES. CERCEAMENTO DE DEFESA. AUSÊNCIA DE PRAZO PARA APRESENTAÇÃO DE ALEGAÇÕES FINAIS. PEÇA FACULTATIVA. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. ALEGAÇÃO DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURAÇÃO. SENTENÇA EXTRA PETITA. INEXISTÊNCIA. DO MÉRITO. NULIDADE DA PERÍCIA TÉCNICA REALIZADA. NÃO VERIFICAÇÃO. EXPERT QUE COM BASE NOS DOCUMENTOS FORNECIDOS PELAS PARTES CONSTATOU A RETENÇÃO DE VALORES A TÍTULO DE CAUÇÃO E NÃO IDENTIFICOU A DEVIDA DEVOLUÇÃO DO MONTANTE AO EMBARGANTE. ARTIGO 373, II, DO CPC, ÔNUS QUE CUMPRIA Ã PARTE EMBARGADA. COMPENSAÇÃO DE VALORES EM EMBARGOS Ã EXECUÇÃO. POSSIBILIDADE. CONSEQÜÊNCIA LÓGICA DA VERIFICAÇÃO DE EXCESSO DE EXECUÇÃO DIANTE DA AFERIÇÃO DE VALORES RETIDOS NÃO DEVOLVIDOS Ã PARTE EMBARGANTE. RECURSO CONHECIDO E NÃO PROVIDO.
+I."A ausência de intimação do recorrente para apresentar alegações finais, pois, assim como asseverado pelo Tribunal local, só se declara a nulidade que cause efetivo prejuízo à parte que a alega, conforme preconiza a máxima do sistema das nulidades processuais e o pas de nullité sans grief. 5. princípio da instrumentalidade das formas. Outrossim, constitui faculdade do Juiz possibilitar às partes a apresentação de alegações finais(art. 454, § 3º, do CPC/1973), sendo que a ausência de intimação para a prática do referido ato processual não é suficiente, por si só, a se reconhecer a ocorrência de de nulidade. (..)." 9. Agravo interno desprovido. (STJ, 3.ª Turma, AgInt no AREsp 1264791/DF, Rel. Min. Marco Aurélio Bellizze, julg. em 13.05.19) É ônus do réu comprovar a existência de fato impeditivo, modificativo II. ou extintivo do direito do autor, nos termos do art. 373, II do Código de Processo Civil, o que não ocorreu no caso em tela. III."A compensação ou restituição de valores é consequência lógica do" reconhecimento da ilegalidade da cobrança de determinados encargos (..)(15ª C. Cível - AC - 985983-6 - Des. Jucimar Novochadlo - J. 30.01.2013).
+Em suas razões recursais, a parte agravante defende que (fl. 991):
+4.1 Na forma do art. 1.021, §19, do Código de Processo Civil, é condição de admissibilidade do agravo interno a impugnação específica dos fundamentos da r. decisão agravada.
+4.2 Isso porque, a r. decisão agravada do "Agravo em Recurso Especial se fundou, exclusivamente, na suposta ausência de impugnação específica aos fundamentos da decisão e na ofensa ao princípio da dialeticidade recursal.
+4.3 No entanto, com o devido respeito, pela mera análise do "Agravo em Recurso Especial", verifica-se que o agravante impugnou todos os fundamentos da decisão atacada, bem como indicou expressamente os dispositivos legais violados.
+4.4 Inclusive, o agravante demonstrou que a r. decisão proferida pelo E. Tribunal de origem foi elaborada de forma genérica e sem analisar adequadamente o conteúdo do recurso, razão pela qual foi reiterada a violação a diversos dispositivos de lei federal e a divergência com o entendimento de outros tribunais pátrios.
+4.5 Ora Excelência, o E. Tribunal de origem negou seguimento ao "Recurso Especial" por conta da suposta ausência de afronta ao art. 1022 do CPC, Súmula 283/STF, violação às súmulas 7 e 83, do Superior Tribunal de Justiça.
+4.6 Tais pleitos foram expressamente atacados no agravo interposto com tal finalidade, no qual o agravante comprovou não existir qualquer óbice ao prosseguimento do recurso por conta do contido nas súmulas, não havendo o que se falar em ausência de impugnação específica ou ofensa ao princípio da dialeticidade recursal.
+Impugnação às fls. 1004-1010.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM.
+1. No caso dos autos, não houve impugnação efetiva de todos os fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não merecem prosperar as alegações da parte agravante.
+Na espécie, o agravo em recurso especial não foi conhecido em razão dos seguintes fundamentos (fls. 984-985):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, Súmula 283/STF, Súmula 83/STJ (art. 364, § 2º do CPC), Súmula 83/STJ (arts. 141 e 492 do CPC), Súmula 7/STJ (arts. 368 e 369 do CC) e Súmula 7/STJ (valores retidos).
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ (art. 364, § 2º do CPC) e Súmula 83/STJ (arts. 141 e 492 do CPC).
+ ..
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Com efeito, da leitura do agravo em recurso especial, verifica-se que, de fato, a parte agravante deixou de impugnar especificamente o óbice da Súmula n. 83/STJ.
+Nessa esteira, destaca-se que a jurisprudência desta Corte é no sentido de que a impugnação à Súmula n. 83/STJ ocorre com a indicação de julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não aconteceu no presente caso.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 83/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, ou deixar claro que os julgados apontados como precedentes não se aplicam ao caso concreto em análise.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.932.535/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/3/2022.)
+Nesse contexto, registre-se que, conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, cito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018, grifei.)
+Desse modo, em virtude da ausência de elementos aptos a modificar o julgado, mantenho a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
