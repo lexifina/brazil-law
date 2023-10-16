@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o acórdão recorrido reconheceu o período de trabalho, para fins de aposentadoria especial, pelo servidor público, como submetido a condições nocivas, pois, não obstante a inexistência de laudo, "a Impetrante conseguiu demonstrar mediante contracheques (fls. 53/200) que de fato recebeu a gratificação de insalubridade durante o período de Julho/1990 até Julho/2016".
+III. Ocorre que a jurisprudência deste Tribunal orienta-se no sentido de que "a percepção de adicional de insalubridade pelo segurado, por si só, não confere o direito ao servidor de ter o respectivo período reconhecido como especial" (STJ, AgRg nos EDcl no REsp 1.256.458/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/11/2015).
+IV. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que conheceu do Agravo, para dar provimento ao Recurso Especial.
+Inconformada, sustenta a parte agravante que "o próprio PPP (PERFIL PROFISSIOGRÁFICO PREVIDENCIÁRIO) apresentado pela demandante e que parece ter sido IGNORADO, demonstra, CLARAMENTE, que esta última esteve, ao longo de toda a sua vida funcional, lotada em ambientes TOTALMENTE insalubres, bem como, exercendo atividade de risco inerente à sua saúde e integridade física desde 10/05/1986" (fl. 466e).
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+AgInt nos EDcl nos EDcl no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.404.177 - RN (2018/0309778-4)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+MARIA EDNILZA GOMES
+ADVOGADO
+:
+JULIA JALES DE LIRA SILVA SOUTO - RN006094
+AGRAVADO
+:
+ESTADO DO RIO GRANDE DO NORTE
+ADVOGADO
+:
+RICARDO GEORGE FURTADO DE MENDONÇA E MENEZES - RN001665
+ADVOGADA
+:
+ANA CAROLINA MONTE PROCÓPIO DE ARAÚJO E OUTRO(S) - RN003367
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NOS EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o acórdão recorrido reconheceu o período de trabalho, para fins de aposentadoria especial, pelo servidor público, como submetido a condições nocivas, pois, não obstante a inexistência de laudo, "a Impetrante conseguiu demonstrar mediante contracheques (fls. 53/200) que de fato recebeu a gratificação de insalubridade durante o período de Julho/1990 até Julho/2016".
+III. Ocorre que a jurisprudência deste Tribunal orienta-se no sentido de que "a percepção de adicional de insalubridade pelo segurado, por si só, não confere o direito ao servidor de ter o respectivo período reconhecido como especial" (STJ, AgRg nos EDcl no REsp 1.256.458/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/11/2015).
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+No caso, o acórdão recorrido reconheceu o período de trabalho, para fins de aposentadoria especial, pelo servidor público, como submetido a condições nocivas, pois "a Impetrante conseguiu demonstrar mediante contracheques (fls. 53/200) que de fato recebeu a gratificação de insalubridade durante o período de Julho/1990 até Julho/2016" (fl. 251e), fundamentando que "apresentou provas capazes de demonstrar que trabalhou em condições insalubres ininterruptamente durante o período indicado na petição inicial" (fls. 252/253e).
+Ocorre que, a jurisprudência deste Tribunal orienta-se no sentido de que o recebimento de adicional de insalubridade, por si só, não é suficiente para comprovação do efetivo exercício de atividade especial. A propósito:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS. 1. Nos termos da jurisprudência do STJ, "a percepção de adicional de insalubridade pelo segurado, por si só, não lhe confere o direito de ter o respectivo período reconhecido como especial, porquanto os requisitos para a percepção do direito trabalhista são distintos dos requisitos para o reconhecimento da especialidade do trabalho no âmbito da Previdência Social" (EDcl no AgRg no REsp 1.005.028/RS, Rel. Ministro Celso Limongi, Sexta Turma, DJe 02/03/2009). Precedentes no mesmo sentido: REsp 1.476.932/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/03/2015; AgInt no AREsp 219.422/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 31/08/2016. 2. No caso dos autos, Tribunal a quo reconheceu o período trabalhado como especial, tão somente em razão da percepção pelo trabalhador segurado do adicional de insalubridade, razão pela qual deve ser reformado. 3. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação. 4. Recurso Especial provido" (STJ, REsp 1.810.794/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 28/10/2019).
+"PREVIDENCIÁRIO. APOSENTADORIA. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS. 1. Nos termos da jurisprudência do STJ "a percepção de adicional de insalubridade pelo segurado, por si só, não lhe confere o direito de ter o respectivo período reconhecido como especial, porquanto os requisitos para a percepção do direito trabalhista são distintos dos requisitos para o reconhecimento da especialidade do trabalho no âmbito da Previdência Social".(EDcl no AgRg no REsp 1.005.028/RS, Rel. Ministro Celso Limongi, Sexta Turma, DJe 02/03/2009). Precedentes no mesmo sentido: REsp 1.476.932/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/03/2015; AgInt no AREsp 219.422/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 31/08/2016. 2. No caso dos autos, Tribunal a quo reconheceu o período trabalhado como especial, tão somente em razão da percepção pelo trabalhador segurado do adicional de insalubridade, razão pela qual deve ser reformado. 3. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação. 4. Recurso Especial provido" (STJ, REsp 1.702.179/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. FUNDAMENTO GENÉRICO. SÚMULA 284/STF. SERVIDOR.
+CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. 1. A alegada ofensa ao art. 535 do CPC foi apresentada de forma genérica pelas recorrentes, tendo em vista que não demonstraram, de maneira clara e específica, a ocorrência de omissão no julgado, atraindo, assim, o enunciado da Súmula 284 da Suprema Corte. 2. A percepção de adicional de insalubridade pelo segurado, por si só, não confere o direito ao servidor de ter o respectivo período reconhecido como especial. 3. Agravo regimental a que se nega provimento" (STJ, AgRg nos EDcl no REsp 1.256.458/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/11/2015).
+"PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL EM RAZÃO DE RECEBIMENTO DO ADICIONAL DE INSALUBRIDADE. INSUFICIÊNCIA. NECESSIDADE DE COMPROVAÇÃO DA EXPOSIÇÃO HABITUAL E PERMANENTE POR INTERMÉDIO DE FORMULÁRIOS E LAUDOS. RECURSO ESPECIAL CONHECIDO E PROVIDO. 1. Após o advento da Lei 9.032/1995 vedou-se o reconhecimento da especialidade do trabalho por mero enquadramento profissional ou enquadramento do agente nocivo, passando a exigir a efetiva exposição do trabalhador ao agente nocivo. 2. A percepção de adicional de insalubridade pelo segurado, por si só, não lhe confere o direito de ter o respectivo período reconhecido como especial, porquanto os requisitos para a percepção do direito trabalhista são distintos dos requisitos para o reconhecimento da especialidade do trabalho no âmbito da Previdência Social. 3. In casu, o acórdão proferido Tribunal a quo reconheceu o período trabalhado como especial, tão somente em razão da percepção pelo trabalhador segurado do adicional de insalubridade, razão pela qual deve ser reformado. 4. Recurso especial conhecido e provido" (STJ, REsp 1.476.932/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/03/2015).
+Embora a parte agravante sustente que as provas carreadas aos autos demonstrem a existência de laudo, não é isso que afirmou o Tribunal de origem, inclusive quando rejeitou Embargos de Declaração do Estado, assentado:
+"Desse modo, o Acórdão Embargado perfilhou o entendimento consolidado na Corte de que a comprovação por meio das fichas financeiras quanto ao recebimento do adicional de insalubridade por período superior a 25 (vinte e cinco) anos, aliado as demais circunstâncias do processo que denotam o trabalho permanente, não ocasional e nem intermitente, autorizam a aplicação do art. 57, § 3º da Lei nº 8.213/1991, independentemente da juntada de laudo técnico visando a comprovação da atividade de risco como requerido pelo Ente Publico que insiste na necessidade de aplicação do art. 58. da Lei nº 8.213/1991" (fls. 328/329e).
+Nem mesmo nas contrarrazões ao Recurso Especial, isso foi alegado pela parte agravante, que sustentou o seguinte: "Não há razão lógica para se requerer um laudo a ser emitido pelo empregador que já reconheceu a condição insalubre" (fl. 358e).
+Diante do exposto, nego provimento ao Agravo interno.
+É como voto.
