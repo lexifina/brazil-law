@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. REAJUSTE SALARIAL. SENTENÇA QUE RECONHECE A PRESCRIÇÃO DO FUNDO DE DIREITO. ACÓRDÃO REGIONAL QUE RECONHECE A INOBSERVÂNCIA AO CONTRADITÓRIO E A AMPLA DEFESA E AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA VEDAÇÃO À DECISÃO-SURPRESA. ALEGADA VIOLAÇÃO AO ART. 332, CAPUT E § 1º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. In casu, trata-se de Recurso Especial, interposto com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, que deu provimento ao apelo interposto pela parte agravada, no sentido de "anular a sentença e determinar o retorno dos autos à instância de origem para o regular processamento do feito e posterior julgamento".
+III. Não tendo o acórdão hostilizado expendido juízo de valor sobre o art. 332, caput e § 1º, do CPC/2015, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+V. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+VI. Consoante se depreende dos autos, o acórdão recorrido não expendeu juízo de valor sobre o art. 332, caput e § 1º, do CPC/2015, invocado na petição do Recurso Especial, nem a parte ora agravante opôs os cabíveis Embargos de Declaração, nem suscitou, perante o Tribunal de origem, qualquer nulidade do acórdão recorrido, por suposta ausência da devida fundamentação do julgado, não se alegando, no Especial, ademais, violação ao art. 1.022 do CPC/2015, razão pela qual impossível aplicar-se, no caso, o art. 1.025 do CPC vigente.
+VII. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão proferida pela Presidência do STJ, que conheceu do Agravo, para não conhecer do Recurso Especial, em razão da ausência de prequestionamento da questão federal suscitada.
+Inconformada, sustenta a parte agravante:
+"III - DAS RAZÕES PARA REFORMA DA DECISÃO AGRAVADA:
+(..)
+Como se observa, a decisão recorrida considerou, como seu principal fundamento, que a matéria objeto do recurso não teria sido prequestionada na origem.
+Veja-se que, ao compulsar as razões recursais, a principal matéria suscitada pelo Estado do Rio Grande do Norte consiste na premissa de que "não há nenhuma relação de dependência entre a improcedência/indeferimento liminar do pedido e a observância do princípio da não surpresa (arts. 9º e 10, NCPC), desde que atendidas as exigências do art. 332, I a IV e §1º.".
+Diferentemente do que entendeu a decisão recorrida, o acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte abordou expressamente a matéria em análise (grifos nossos):
+(..)
+Veja-se que houve a referência à temática debatida e a sua abordagem na origem, não havendo que se cogitar ofensa ao pré-requisito do prequestionamento.
+Diante de todo o exposto, pleiteia-se a reconsideração da decisão agravada, ou, caso seja mantida, que se incluam os autos em pauta de julgamento do colegiado" (fls. 1.129/1.131e).
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.328.380 - RN (2023/0093087-8)
+RELATORA
+:
+MINISTRA ASSUSETE MAGALHÃES
+AGRAVANTE
+:
+IDEMA - INSTITUTO DE DESENVOLVIMENTO SUSTENTAVEL E MEIO AMBIENTE DO RIO GRANDE DO NORTE
+ADVOGADO
+:
+RICARDO GEORGE FURTADO DE MENDONÇA E MENEZES - RN001665
+AGRAVADO
+:
+CELUQUIA MARIA BARBOSA MILITAO
+ADVOGADOS
+:
+JOÃO HÉLDER DANTAS CAVALCANTI - RN001361
+MARCOS VINÍCIO SANTIAGO DE OLIVEIRA - RN001420
+MANOEL BATISTA DANTAS NETO - RN001996
+LUCAS BATISTA DANTAS - RN015527
+KARLA MIRALICE DE ARAÚJO DA SILVA - RN019221
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. REAJUSTE SALARIAL. SENTENÇA QUE RECONHECE A PRESCRIÇÃO DO FUNDO DE DIREITO. ACÓRDÃO REGIONAL QUE RECONHECE A INOBSERVÂNCIA AO CONTRADITÓRIO E A AMPLA DEFESA E AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA VEDAÇÃO À DECISÃO-SURPRESA. ALEGADA VIOLAÇÃO AO ART. 332, CAPUT E § 1º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. In casu, trata-se de Recurso Especial, interposto com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, que deu provimento ao apelo interposto pela parte agravada, no sentido de "anular a sentença e determinar o retorno dos autos à instância de origem para o regular processamento do feito e posterior julgamento".
+III. Não tendo o acórdão hostilizado expendido juízo de valor sobre o art. 332, caput e § 1º, do CPC/2015, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+V. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+VI. Consoante se depreende dos autos, o acórdão recorrido não expendeu juízo de valor sobre o art. 332, caput e § 1º, do CPC/2015, invocado na petição do Recurso Especial, nem a parte ora agravante opôs os cabíveis Embargos de Declaração, nem suscitou, perante o Tribunal de origem, qualquer nulidade do acórdão recorrido, por suposta ausência da devida fundamentação do julgado, não se alegando, no Especial, ademais, violação ao art. 1.022 do CPC/2015, razão pela qual impossível aplicar-se, no caso, o art. 1.025 do CPC vigente.
+VII. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Na origem, trata-se de Cumprimento Individual de Sentença Coletiva proposto pela parte agravada, tendo por objeto a sentença coletiva transitada em julgado proferida nos autos da Ação Ordinária n. 0002868-53.1999.8.20.0001, ocasião em que foi assegurado aos beneficiários a percepção de eventuais perdas salariais decorrentes dos termos de conversão de suas vantagens remuneratórias para o URV.
+O Juízo de 1º Grau, verificada a prescrição da pretensão executória, indeferiu a petição inicial (fls. 171/180e).
+O Tribunal de origem, por sua vez, deu provimento ao apelo interposto pela parte agravada, para "anular a sentença e determinar o retorno dos autos à instância de origem para o regular processamento do feito e posterior julgamento", nos termos da seguinte ementa, in verbis:
+"APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRETENSÃO DE PERCEPÇÃO DE PERDAS SALARIAIS DECORRENTES DA CONVERSÃO DAS VANTAGENS REMUNERATÓRIAS EM URV. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO DE FUNDO DO DIREITO. INOBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. VIOLAÇÃO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. VEDAÇÃO À DECISÃO-SURPRESA. AFRONTA AOS ART. 7º, 9º, 10º, 437, § 1º, DO CPC, E ART. 5º, LV, DA CF. NULIDADE DE SENTENÇA QUE SE IMPÕE. AUSÊNCIA DE MANIFESTAÇÃO DA PARTE CONTRÁRIA OU DE INSTRUÇÃO PROCESSUAL. CAUSA QUE NÃO SE ENCONTRA MADURA. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA PROSSEGUIMENTO DO FEITO E NOVO JULGAMENTO. RECURSO PROVIDO" (fls. 1.075/1.080e).
+Nas razões do Recurso Especial, a parte agravante aponta ofensa ao art. 332, caput e § 1º, do CPC/2015. Alega, para tanto, que "a regra do art. 332 do NCPC é clara e, como toda norma jurídica, não se acha inserida à toa no ordenamento em vigor: tem papel a cumprir dentro do sistema processual. Ou seja, sua eficácia é absolutamente compatível com o disposto nos arts. 9º e 10 do NCPC, diversamente do que expressa o acórdão vergastado. (..) "(A improcedência liminar do pedido) É técnica de aceleração do processo. Em situações de manifesta improcedência do pedido, o legislador dispensa a citação do demandado, autorizando que se profira um julgamento a ele favorável. Não há, por isso, qualquer violação à garantia do contraditório, tendo em vista que se trata de um julgamento de improcedência. O demandado não precisa ser ouvido para sair vitorioso. Não há qualquer prejuízo para o réu decorrente da prolação de uma decisão que lhe favoreça". (..) "Admite-se a improcedência liminar de mérito quando o magistrado reconhecer ex officio a decadência ou a prescrição (art. 332, § 1º, CPC). Perceba que, no caso, a improcedência liminar somente poderá ocorrer quando tais questões puderem ser examinadas ex officio, pois o réu ainda não foi citado". (..) É facilmente constatado, portanto, que não há nenhuma relação de dependência entre a improcedência/indeferimento liminar do pedido e a observância do princípio da não surpresa (arts. 9º e 10, NCPC) , desde que atendidas as exigências do art. 332, I a IV e § 1º. São institutos processuais distintos, autônomos, em que um não interfere no outro. Agiu, pois, com acerto a sentença de primeira instância, pondo fim, liminarmente, ao processo em razão da prescrição, de modo que o acórdão local, por seu turno, contraria diretamente o disposto no citado art. 332, "caput" e § 1º, do novo CPC" (fls. 1.089/1.094e).
+Sem razão, contudo.
+Com efeito, o acórdão recorrido não expendeu juízo de valor sobre o art. 332, caput e § 1º, do CPC/2015, invocados na petição do Recurso Especial.
+De fato, por simples cotejo das razões recursais e dos fundamentos do acórdão, percebe-se que, além da ausência de manifestação expressa, a tese recursal, vinculada ao citado dispositivo legal, tido como violado, não foi apreciada, no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, nem opôs a parte ora agravante os devidos Embargos de Declaração para suprir eventual omissão do julgado.
+Diante desse contexto, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto. A propósito:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REENQUADRAMENTO FUNCIONAL DO SERVIDOR. HERDEIROS DE EX-PENSIONISTAS. PRESCRIÇÃO DO FUNDO DE DIREITO. FALTA DE PREQUESTIONAMENTO DA TESE RECURSAL. INCIDÊNCIA DA SÚMULA 282/STF. CORRETA APLICAÇÃO DA LEGISLAÇÃO FEDERAL.
+1. A tese jurídica debatida no recurso especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF (AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 26/6/2013).
+(..)
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 447.352/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 27/02/2014).
+"PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. (..) ART. 192 DO CC. FALTA DE PREQUESTIONAMENTO. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR. AFERIÇÃO. SÚMULA 7/STJ.
+(..)
+4. A tese da prescrição com base no art. 192 do Código Civil não comporta conhecimento, por falta de prequestionamento, visto que o acórdão abordou a questão prescricional com base nos arts. 174 do CTN e 40 da Lei n. 6.830/80, o que atrai a incidência das Súmulas 282/STF e 356/STF ao ponto.
+(..)
+Agravo regimental improvido" (STJ, AgRg no REsp 1.461.155/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 24/03/2015).
+Com efeito, "a exigência do prequestionamento, impende salientar, não é mero rigorismo formal, que pode ser afastado pelo julgador a que pretexto for. Ele consubstancia a necessidade de obediência aos limites impostos ao julgamento das questões submetidas ao E. Superior Tribunal de Justiça, cuja competência fora outorgada pela Constituição Federal, em seu art. 105. (..) A competência para a apreciação originária de pleitos no C. STJ está exaustivamente arrolada no mencionado dispositivo constitucional, não podendo sofrer ampliação" (STJ, REsp 1.033.844/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 20/05/2009).
+De outro lado, publicado o acórdão ora recorrido na vigência do CPC/2015, cumpre ressaltar que, nos termos do art. 1.025 do CPC/2015, "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Infere-se, assim, da lei de regência, que, para a adoção do denominado prequestionamento ficto - segundo o qual a oposição dos Embargos de Declaração seria suficiente ao suprimento do requisito do prequestionamento - faz-se necessário, além da invocação da questão, por ocasião dos Embargos de Declaração, opostos a acórdão do Tribunal de origem, que a Corte Superior considere a existência de erro, omissão, contradição ou obscuridade no referido decisum, em razão da alegação de contrariedade ao art. 1.022 do CPC/2015, nas razões do Recurso Especial.
+Sobre o tema, confira-se o seguinte precedente do STJ:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+No entanto, não foram opostos Embargos de Declaração, em 2º Grau, além de, no presente Recurso Especial, não se alegar violação ao art. 1.022 do CPC/2015, razão pela qual não restaram observados os requisitos, previstos no art. 1.025 do CPC/2015, para fins de consideração do prequestionamento ficto.
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
