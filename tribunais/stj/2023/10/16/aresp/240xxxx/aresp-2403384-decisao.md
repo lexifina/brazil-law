@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por TITO ALCANTARA BESSA JUNIOR e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 47 da Lei 11.101/2005, no que concerne à necessidade de suspensão da execução , tendo em vista o processamento da recuperação judicial da empresa, não podendo qualquer coobrigado e sócio sofrer expropriação de bens, trazendo a seguinte argumentação:
+Com efeito, foi deferido o processamento da recuperação judicial por decisão interlocutória de fls.3123-3139 nos autos do processo supracitado. Tal decisão, em acordo com a Lei nº 11.101/2005, determina expressamente a suspensão de todas as execuções em curso, bem como dos prazos prescricionais, cessando assim todo e qualquer ato expropriatório.
+Inclusive, recentemente o plano de recuperação judicial foi aprovado na assembleia geral de credores, estando pendente apenas de homologação pelo juízo recuperacional, assim, o executado reitera a tese de que a execução em face do sócio e fiador TITO deve ser suspensa e ele não poderá sofrer expropriação de bens.
+ ..
+Desses excertos, resta claro que não se pode prosseguir a execução contra nenhum dos Recorrentes, sob pena de desestruturar o plano de recuperação judicial de importante player do mercado de varejo e, por conseguinte, ensejar a demissão de diversas pessoas, reduzir importes contribuições ao Fisco, sem contar demais prejuízos socioeconômicos.
+Nesse mesmo diapasão, o art. 47 da Lei de Recuperação Judicial é cristalino:
+Art. 47. A recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica.
+Portanto, a execução deve ser suspensa em face do Sócio e fiador. Neste sentido, em que pese a controvérsia que rege o tema, com entendimentos em sentido diverso já manifestados por diversos Tribunais, inclusive o STJ, traz alento a recente interpretação manifestada pelo Desembargador Federal Dr. Wilson Zauhy do Tribunal Regional Federal da 3ª Região  São Paulo que, em sede de agravo de instrumento interposto por empresa recuperanda, concedeu efeito suspensivo ao recurso determinando a suspensão da execução em face dos coobrigados, nos seguintes termos:
+ ..
+Nesse sentido, permitir que as dívidas sejam exigidas do coobrigado e SÓCIO é no mínimo contraditório, de modo que na prática, de um lado concede o benefício legal e, de outro lado, retira o mesmo  benefício , não permitindo que a devedora e seus gestores, por exemplo, tenham o  fôlego  pretendido e criado pela lei.
+Ademais, caso seja dado o prosseguimento da execução com relação a pessoa do fiador, é imperioso concluir que incorreria em duplicidade no pagamento do crédito, eis que o credor, ora Recorrido, receberia os mesmos valores e de mesmo destino tanto na recuperação judicial, quanto na ação de execução, o que certamente promoveria o enriquecimento sem causa e onerosidade excessiva do Recorrentes, o que não se pode admitir.
+Logo, se a recuperação judicial é um instituto focalizado na recomposição econômico- financeiro de modo global que, envolve todas as obrigações constituídas tanto com os devedores principais quanto com os garantidores, tais como fiadores, avalistas, coobrigados, à medida que se impõe ao caso em tela é a suspensão da execução em face do Sócio e fiador, TITO ALCANTARA BESSA JUNIOR (fls. 116-119).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo.
+Consoante entendimento firmado pelo Supremo Tribunal Federal, é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial (Súmula n. 281 do STF).
+É, pois, pacífico o entendimento do STJ de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado do Tribunal de origem. Nesse sentido, o AgInt nos EDcl no AREsp 1571531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
