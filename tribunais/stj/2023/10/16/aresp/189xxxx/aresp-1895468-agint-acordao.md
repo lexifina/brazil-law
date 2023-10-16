@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. CONEXÃO. REVISÃO. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência desta corte, a reunião dos processos por conexão configura faculdade atribuída ao julgador, que possui certa margem de discricionariedade para avaliar a intensidade da conexão e o grau de risco da ocorrência de decisões contraditórias (AgInt no AREsp n. 1.980.346/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/3/2022, DJe de 30/3/2022).
+2. Rever o entendimento fixado no acórdão recorrido, a fim de afastar a conexão por meio da análise sobre a causa de pedir de cada uma das ações, demandaria reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por TROPICAL BIOENERGIA S.A. contra decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula 7/STJ (fls. 539-545).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fls. 356-357):
+DUPLA APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DEFAZER C/C REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. REUNIÃO DE PROCESSOS. INCOMPORTABILIDADE. DANO MATERIAL COMPROVADO. DANO MORAL INEXISTENTE. OBRIGAÇÃO DE FAZER. DESCABIMENTO. HONORÁRIOS RECURSAIS.
+1. A despeito da relação de afinidade, decorrente da mesma causa de pedir, existente entre este processo e os demais, indicados na inicial e no 1º recurso, os fatos delineados não são os mesmos, até por que, os prejuízos e as avaliações variam conf. cada imóvel envolvido na questão, evidenciando-se um litisconsórcio "facultativo", havido entre o 1º Apelante/A. e os demais Autores dos referidos processos. Dessa forma, não se verifica o risco de ocorrência de decisões contraditórias, prescindindo-se a rogada reunião dos processos pela conexão.
+2. Ressai do processo que, ao tempo da prolatação da sentença ora fustigada, encontrava-se nele os elementos, suficientemente hábeis, à elucidação dos fatos, bem como ao desfecho da demanda, não havendo que se falar em cerceamento do direito de defesa do 1º Apelante/A.
+3. Demonstrado o alegado dano ocorrido no imóvel do 1º Apelante/A., ocasionado pelos veículos da 1ª Apelada/R., restam demonstrados os requisitos ensejadores da devida reparação, devendo responder por tal, conf. art. 186 do Código Civil. Quanto ao valor do prejuízo de ordem material, observa-se que no laudo pericial resta apontado o valor do metro quadrado (m ) do terreno (R$ 30,00), não indicando, todavia, o valor do metro quadrado (m ) para construção na região. Dessa forma, impende serem utilizados os critérios adotados pelo "sistema nacional de pesquisa de custos e índices da construção civil", no qual estabelece como custo mínimo de uma casa devidamente construída, o valor de R$ 333,35 (trezentos e trinta e três reais e trinta e cinco centavos), devendo o montante, para fins de indenização, ser calculado na fase de cumprimento de sentença.
+4. In casu,, tem que se levar em consideração que o imóvel do 1ºApelante/A. não possui estrutura, não tendo sido construído em conformidade com as normas, regras e padrões de construção recomendados. Diante de tal, verifico uma mitigação do abalo extrapatrimonial sofrido, evidenciando um dissabor não significante, não rendendo indenização por dano moral, como pretendido na inicial, porquanto, como dito, o mencionado imóvel já possuía anomalias preexistentes, de modo que o agravamento da situação, decorrente do trânsito dos veículos da 1ª Apelada/R, não tem força para atingir a honra e dignidade do 1ª Apelante/A.
+5. Quanto à obrigação de fazer, resta obstada, tendo em vista a ausência de vedação legal do tráfego de veículos na área, onde localiza-se o imóvel do 1ª Apelante/A.
+6. Majorando os honorários recursais em 5% (cinco por cento) sobre o valor da condenação, cumuláveis com os já arbitrados no 1º grau. DUPLA APELAÇÃO, CONHECIDAS E DESPROVIDAS. SENTENÇA MANTIDA.
+Alega a agravante, nas razões do agravo interno, que "a Agravante não pretende, em momento algum, que a Colenda Corte Superior se debruce sobre a matéria de fundo da demanda, mas tão somente que identifique que, realmente, existiu a omissão apontada com a violação e negativa de vigência dos dispositivos legais indicados e, por conseguinte, determine que o Tribunal a quo supra as referidas omissões, além do dissídio jurisprudencial devidamente indicado em suas razões de Recurso Especial" (fl. 555).
+Aduz, ainda, ser necessária a manifestação do Superior Tribunal de Justiça, a fim de garantir a uniformização do entendimento e fazer prevalecer a segurança jurídica, uma vez que "a recorrente está sendo demandada em 21 (vinte e uma) causas de igual teor, sendo incerta a aplicação do direito, em especial quando de eventual cumprimento de sentença, cuja liquidação poderá dar azo ao verdadeiro imbróglio, além de permitir que novas demandas sejam ajuizadas, sob o manto de suposto prejuízo material, que não restou devidamente identificado e limitado nas causas" (fl. 560).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou (fl. 569).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E DANOS MORAIS. CONEXÃO. REVISÃO. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência desta corte, a reunião dos processos por conexão configura faculdade atribuída ao julgador, que possui certa margem de discricionariedade para avaliar a intensidade da conexão e o grau de risco da ocorrência de decisões contraditórias (AgInt no AREsp n. 1.980.346/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/3/2022, DJe de 30/3/2022).
+2. Rever o entendimento fixado no acórdão recorrido, a fim de afastar a conexão por meio da análise sobre a causa de pedir de cada uma das ações, demandaria reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, ante o óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não merece prosperar.
+Não obstante o esforço argumentativo, entendo que a ausência de qualquer novo subsídio trazido pelo agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Consoante aludido na decisão agravada, o recurso especial interposto pelo agravante não comporta conhecimento.
+Nos termos da jurisprudência desta corte, a reunião dos processos por conexão configura faculdade atribuída ao julgador, que possui certa margem de discricionariedade para avaliar a intensidade da conexão e o grau de risco da ocorrência de decisões contraditórias (AgInt no AREsp n. 1.980.346/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/3/2022, DJe de 30/3/2022). Quanto ao ponto, assim fundamentou-se o acórdão recorrido (fl. 351):
+Ab initio, a despeito da relação de afinidade, decorrente da mesma causa de pedir, existente entre este processo e os demais, indicados na inicial e no 1º recurso, os fatos delineados não são os mesmos, até por que, os prejuízos e as avaliações variam conf. cada imóvel envolvido na questão, evidenciando-se um litisconsórcio "facultativo", havido entre o 1º Apelante/A. e os demais Autores dos referidos processos. Dessa forma, não verifico o risco de ocorrência de decisões contraditórias, prescindindo-se a rogada reunião dos processos pela conexão.
+Ainda, ressai do processo que, ao tempo da prolatação da sentença ora fustigada, encontrava-se nele os elementos, suficientemente hábeis, à elucidação dos fatos, bem como ao desfecho da demanda, não havendo que se falar em cerceamento do direito de defesa do 1º Apelante/A., porquanto, desnecessária a produção de outras provas, e ou, a prática de qualquer outro ato.
+Daí, rejeito estas preliminares.
+Desse modo, rever o entendimento fixado no acórdão recorrido, a fim de afastar a conexão por meio da análise sobre a causa de pedir de cada uma das ações, demandaria reexame de fatos e provas o que é vedado ao STJ, em recurso especial, ante ao óbice da Súmula n. 7/STJ.
+No mesmo sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação desconstitutiva de averbação em matrícula de imóvel.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Ainda que haja conexão entre as ações, ela não determina a reunião dos processos, se um deles já foi julgado. Precedentes.
+5. Se trata de uma faculdade do julgador a análise da necessidade de os processos serem reunidos para julgamento conjunto, porquanto cabe a ele avaliar a conveniência da medida em cada caso concreto. Precedentes.
+6. Ante o entendimento do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+7. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp n. 2.085.666/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONEXÃO. REVISÃO. SÚMULA N. 7/STJ.
+1. Nos termos da jurisprudência desta Corte, a reunião dos processos por conexão configura faculdade atribuída ao julgador, que possui certa margem de discricionariedade para avaliar a intensidade da conexão e o grau de risco da ocorrência de decisões contraditórias (AgInt no AREsp n. 1.980.346/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/3/2022, DJe de 30/3/2022).
+2. Rever o entendimento fixado no acórdão recorrido, a fim de afastar a conexão por meio da análise sobre a causa de pedir de cada uma das ações, demandaria reexame de fatos e provas o que é vedado ao STJ, em recurso especial, ante ao óbice da Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.064.372/MA, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Logo, correta a decisão que aplicou a Súmula n. 7/STJ, porquanto é pacífica a jurisprudência desta corte no sentido que rever a existência de conexão demanda reanálise fático-probatória.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
