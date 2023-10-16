@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DAS CUSTAS DO RECURSO ESPECIAL NO ATO DA SUA INTERPOSIÇÃO. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DAS CUSTAS. ART. 1.007, § 4º, DO CPC/2015. NÃO CUMPRIMENTO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Este Tribunal Superior consolidou o entendimento de que "a ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. Com o advento do CPC/2015, a falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Na espécie, constatada a irregularidade e devidamente intimado, o recorrente deixou de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto contra decisão da Presidência, às fls. 382-384, que não conheceu do recurso, em razão da deserção, uma vez que a parte, após intimada, não regularizou a comprovação do preparo, conforme dispõe o art. 1.007, § 4º, do CPC/2015, aplicando-se o teor da Súmula 187/STJ.
+A agravante alega, à fl. 392, que os novos meios de pagamento disponibilizados pelas novas tecnologias existentes, mormente os aplicativos de banco virtual, constam informações que permitem a identificação do pagamento, porém, muitas vezes, não trazem o código de barras existente no boleto.
+Aduz, à fl. 393, que a parte jamais foi intimada para regularizar o ato tendo havido determinação para o recolhimento em dobro das custas, o que deve ser interpretado como um excesso de recolhimento do Tribunal. Houve por parte da r. decisão agravada uma aplicação equivocada do art. 1.007, §4º do CPC e ainda um excesso de forma com a não aceitação do documento de fls. 300 como comprovante de preparo recursal, causando flagrante agressãoao direito de defesa da parte.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO RECOLHIMENTO DAS CUSTAS DO RECURSO ESPECIAL NO ATO DA SUA INTERPOSIÇÃO. INTIMAÇÃO PARA PAGAMENTO EM DOBRO DAS CUSTAS. ART. 1.007, § 4º, DO CPC/2015. NÃO CUMPRIMENTO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. Este Tribunal Superior consolidou o entendimento de que "a ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. Com o advento do CPC/2015, a falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Na espécie, constatada a irregularidade e devidamente intimado, o recorrente deixou de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): O inconformismo recursal não alcança êxito.
+Este Tribunal Superior consolidou o entendimento de que "a ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Com o advento do CPC/2015, a falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+No caso, constatou-se que o documento de fl. 300 não se trata de efetivo comprovante de pagamento apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não contém a sequência numérica do código de barra (fl. 383).
+Embora a parte tenha sido devidamente intimada (fls. 375-376), não efetuou o pagamento em dobro (fl. 380).
+Nesse passo, é de rigor o reconhecimento da deserção recursal, incidindo o disposto na Súmula 187/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DA GUIA DE RECOLHIMENTO. DESERÇÃO. SÚMULA 187/STJ. PRIMAZIA DE MÉRITO. INAPLICABILIDADE AO CASO. INVIAVILIDADE DE EXAME DO MÉRITO DO RECURSO QUE NÃO ULTRAPASSOU OS REQUISITOS DE ADMISSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu o recurso especial em razão da incidência da Súmula 187 do Superior Tribunal de Justiça.
+2. É dever da parte, quando da interposição do recurso especial, juntar as guias de recolhimento devidamente preenchidas, acompanhadas com os respectivos comprovantes de pagamento, sob pena de deserção e não conhecimento do recurso, nos termos da Súmula 187/STJ.
+3. Não é possível a aplicação do p rincípio da primazia do julgamento de mérito quando a parte, embora intimada para a regularização de vício no preparo recursal, não procede à sua correção. Isso porque cabe à parte observar as regras instrumentais traçadas pelo Código de Processo Civil, o qual impõe responsabilidades a todos os envolvidos na resolução da controvérsia. Assim, em se tratando de vício que se tornou insanável diante das falhas imputadas à parte recorrente, não há que se falar em aplicação do referido princípio.
+4. A jurisprudência desta Corte entende que cabe à parte recorrente zelar pela correta instrução do feito, sendo descabida a alegação de que a incorreta indexação, na origem, a induziu a erro.
+5. Inviável a análise de questões atinentes ao mérito do recurso especial que sequer ultrapassou o juízo de admissibilidade 6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.266.625/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 15/5/2023, DJe de 18/5/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. AUSÊNCIA. PAGAMENTO EM DOBRO. NÃO CUMPRIMENTO. DESERÇÃO.
+1. Consolidado nesta Corte o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Hipótese em que, constatada a irregularidade e devidamente intimados , os recorrentes deixaram de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.185.968/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREPARO. AUSÊNCIA. PAGAMENTO EM DOBRO. NÃO CUMPRIMENTO. DESERÇÃO.
+1. Consolidado nesta Corte o entendimento de que a "ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção" (AgInt no REsp 1.811.652/PA, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. A falta de comprovação do preparo no ato da interposição do recurso não gera a sua imediata deserção, que só ocorrerá depois de conferida ao interessado a oportunidade de providenciar o recolhimento em dobro, consoante o art. 1.007, § 4º, do novo estatuto processual.
+3. Hipótese em que, constatada a irregularidade e devidamente intimado, o recorrente deixou de efetuar o recolhimento em dobro, o que torna inafastável a incidência da Súmula 187 desta Corte.
+4. Ao contrário do alegado, não se aplica à hipótese o art. 1.007, § 7º, do CPC/2015, pois não se trata de equívoco no preenchimento da guia de custas, o que levaria à intimação do recorrente para sanar o vício em cinco dias, mas, sim, "de ausência de código de barras no comprovante de pagamento do preparo apresentado quando da interposição do recurso especial, levando à incidência do § 4º do mesmo artigo, ou seja, a intimação para recolhimento do preparo em dobro (..) ."(AgInt no AREsp 1.353.063/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 07/10/2019, DJe 15/10/2019) 5. Agravo desprovido.
+(AgInt no AREsp n. 1.757.402/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/6/2021, DJe de 29/6/2021.)
+Convém ressaltar que ao caso não se aplica a hipótese o art. 1.007, § 7º, do CPC/2015, como demonstram o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. 1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro.
+3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.
+4. Cumpre frisar que "(..) 1. A inexistência de identificação numérica no documento indicado como comprovante de pagamento leva à deserção, vez que torna-se impossível a demonstração de correspondência deste com o código de barras da guia de recolhimento. (..)" AgInt no AREsp 954.976/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/02/2017, DJe 23/02/2017).
+5. Ao contrário do que alega a parte recorrente, não se aplica o art. 1.007, § 7º, do CPC/15 ao caso em tela, pois não se trata de equívoco no preenchimento da guia de custas, o que levaria à intimação do recorrente para sanar o vício em cinco dias. Trata-se, sim, de ausência de código de barras no comprovante de pagamento do preparo apresentado quando da interposição do recurso especial, levando à incidência do § 4º do mesmo artigo, ou seja, a intimação para recolhimento do preparo em dobro, devidamente determinada pela Presidência deste Sodalício e não observada pelos recorrentes, levando à deserção do recurso e ao seu não conhecimento.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.353.063/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2019, DJe 15/10/2019) (grifos acrescidos).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
