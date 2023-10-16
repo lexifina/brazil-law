@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. DESAPROPRIAÇÃO POR INTERESSE PÚBLICO. INDENIZAÇÃO DAS TERRAS MARGINAIS, DESDE QUE COMPROVADA A POSSE DE BOA-FÉ. DIREITO RECONHECIDO ADMINISTRATIVAMENTE PELA CONCESSIONÁRIA EXPRIOPRIANTE. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. O recurso especial deixou de impugnar fundamento basilar que ampara o acórdão recorrido e, portanto, a irresignação esbarra no obstáculo da Súmula 283/STF, assim erigida: "É inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Agravo interno da União não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto pela União contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, pelas seguintes razões: (I) negativa de prestação jurisdicional não configurada; (II) não foi impugnado fundamento apto, por si só, a manter incólume o acórdão recorrido, o que atrai o Enunciado Sumular 283/STF; e (III) é incabível o reexame de matéria fática no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+Inconformada, a parte agravante sustenta que seria inaplicável o Enunciado 283/STF na espécie, porque "o fundamento do acórdão de que a concessionária expropriante reconheceu a indenizabilidade do terreno marginal não é suficiente para sua manutenção, na medida em que a área é de propriedade da União, por disposição constitucional e previsão do art. 1º "c" do Decreto-lei nº 9.760/46, não podendo, portanto, ser incluída na indenização da desapropriação" (fl. 2.525). Por fim, argumenta que "Também deve ser afastado o óbice da Súmula 7 do STJ, porquanto a premissa fática essencial ao acolhimento da pretensão recursal está delineada no acórdão recorrido: a área é terreno marginal, logo de propriedade da União, nos termos do art. 1º "c" do Decreto-lei nº 9.760/46, sendo, portanto, insuscetível de desapropriação e indenização" (fl. .525).
+O recurso foi impugnado às fls. 2.531/2.532.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. DESAPROPRIAÇÃO POR INTERESSE PÚBLICO. INDENIZAÇÃO DAS TERRAS MARGINAIS, DESDE QUE COMPROVADA A POSSE DE BOA-FÉ. DIREITO RECONHECIDO ADMINISTRATIVAMENTE PELA CONCESSIONÁRIA EXPRIOPRIANTE. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. O recurso especial deixou de impugnar fundamento basilar que ampara o acórdão recorrido e, portanto, a irresignação esbarra no obstáculo da Súmula 283/STF, assim erigida: "É inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Agravo interno da União não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese
+aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fl. 1765):
+Foi elaborado pela expropriante um "Termo de Acordo da Política, Diretriz e Critérios para Remanejamento dos Atingidos", cujo objetivo era "definir a linha de conduta para o trato das questões relativas aos serviços e ações necessárias à execução do programa de remanejamento populacional", assegurando que os atingidos que se enquadrassem nos critérios fixados seriam indenizados ou reassentados de forma "satisfatória e adequada". A respeito da indenizabilidade das áreas de posse, assim consignou o documento emitido pela própria expropriante, equiparando-as às terras legalizadas, verbis:
+Para fins de composição, as áreas de posse e/ou marinha serão avaliadas dentro dos mesmos critérios adotados para avaliação de terras legalizadas, desde que fique constatado tratar-se de possuidor de boa-fé (evento 6, PROCADM12, fl.5 ).
+As áreas de posse ou de Marinha são avaliadas com os mesmos critérios para a avaliação de áreas legalizadas, somente nos casos que fique constatado tratar-se de possuidor de boa-fé (evento 6 PROCADM 14, fl. 20).
+Observo que o termo de acordo foi elaborado para a garantia de uniformidade do valor a servir de indenização, criando nos desapropriados a expectativa legítima de um padrão de condutas a serem tomadas pela autora no âmbito administrativo, incluindo, no ponto, a indenização dos terrenos marginais em equiparação às terras legalizadas.
+Se o próprio ente desapropriante fornece aos expropriados a garantia de identidade de critérios entre terras de posse e/ou marinha e as legalizadas, criando neles a expectativa legítima de inclusão no montante financeiro de indenização, seria incoerente que, na esfera judicial, se viesse a suprimir tal direito, na forma em que suscitado pela desapropriante e pela União. Não por outra razão, aliás, na proposta administrativa a autora incluiu o terreno à margem do Rio Uruguai como área indenizável, o que - em que pese não obstar, por si, a supressão requerida - é critério a ser levado em consideração.
+Destaco, também, que a questão acerca do direito à indenização pelas margens de rios navegáveis (como visto supra) é controversa quando tal bem é objeto de posse legítima dos expropriados, não havendo, pois, se falar que o "Termo de Acordo" entabulado é contra legis.
+Nada obstante, a União se limitou a defender que "é descabida a reparação pela suposta "perda" da faixa de terreno marginal ao Rio Uruguai, porquanto a propriedade da União decorre da própria Constituição Federal (art. 20, III), como definido pelo legislador Constituinte, e, ainda, do Decreto-lei nº 9.760/46 (art. 1º, alíneas "a" e "c e 4º"), que trata acerca dos bens imóveis deste ente federativo, sendo inviável ignorar a força cogente dessas prescrições normativas" (fl. 1.924).
+Destarte, o recurso especial não impugna fundamento basilar que ampara o acórdão recorrido, qual seja, o de que o ente expropriante, administrativamente, reconheceu a indenizabilidade da posse sobre os terrenos marginais, pois equiparou referidas áreas às terras legalizadas.
+Assim, o inconformismo esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida as senta em mais de um fundamento suficiente e o recurso não abrange todos eles". Para ilustrar, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. COBERTURA FLORÍSTICA. ACORDO PRÉVIO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DIREITO À INDENIZAÇÃO. CRITÉRIOS UTILIZADOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+ ..
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede, no ponto, a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+ ..
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.836.689/RO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.)
+ADMINISTRATIVO. COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL - CAESB. OBRA DE IMPLANTAÇÃO DO SISTEMA DE ESGOTAMENTO SANITÁRIO. TERRENO EM POSSE DE PARTICULAR. PEDIDO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. EXPROPRIAÇÃO NÃO CONFIGURADA. OCUPAÇÃO TRANSITÓRIA DO IMÓVEL PARA EXECUÇÃO DA OBRA. ENTENDIMENTO DO TRIBUNAL A QUO. FUNDAMENTAÇÃO NÃO REBATIDA NO APELO ESPECIAL. INCIDÊNCIA DOS ÓBICES SUMULARES 283 E 284/STF.
+I - Na origem, trata-se de pedido de indenização por desapropriação indireta formalizado por particular possuidor de imóvel contra concessionária de serviço público de saneamento.
+II - Ação julgada improcedente, entendimento mantido pelo Tribunal de origem, em grau recursal, considerando não se tratar de desapropriação indireta mas, apenas, de ocupação provisória do imóvel para a implantação do sistema de escoamento de esgoto.
+III - Fundamento não rebatido no apelo especial, incidência dos óbices dos enunciados das Súmulas 283 e 284/STF.
+IV - Patente, no caso em análise, não se tratar de desapropriação indireta, podendo configurar, no final da execução dos serviços, apenas limitação ou servidão administrativa, com direito ou não de indenização.
+V - Recurso especial conhecido e não provido.
+(REsp n. 1.906.576/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2021, DJe de 1/7/2021.)
+Não bastasse isso, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É com o voto.
