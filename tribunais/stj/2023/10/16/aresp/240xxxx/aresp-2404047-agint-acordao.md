@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RETROATIVIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. NÃO DEMONSTRAÇÃO DE OFENSA A LEI FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. MULTA DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ARNALDO SMIRNE e ARNALDO SMIRNE JUNIOR contra decisão proferida pela Presidência desta Corte que não conheceu do agravo em virtude da aplicação da Súmula 284/STF.
+Em suas alegações (e-STJ, fls. 92-94), os insurgentes refutam o referido enunciado sumular, argumentando que a fundamentação do recurso especial "não aborda especificamente um ou outro artigo como violado, mas sim sustenta a inaplicabilidade do Código de Defesa do Consumidor, por não ter a lei efeitos retroativos, visando alcançar fatos pretéritos à sua promulgação" (e-STJ, fl. 92).
+Impugnação apresentada às fls. 99-102 (e-STJ), em que há pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RETROATIVIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. DISPOSITIVO LEGAL VIOLADO. AUSÊNCIA DE INDICAÇÃO. NÃO DEMONSTRAÇÃO DE OFENSA A LEI FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. MULTA DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Conforme consignado na decisão agravada, a jurisprudência do Superior Tribunal de Justiça assenta que "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+Na mesma direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DANO MORAL POR CANCELAMENTO DE VOO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. "No precedente firmado em sede de repercussão geral (RE 646.331/RJ - Tema 210/STF) o STF afastou expressamente a aplicação da Convenção de Montreal ao dano moral, uma vez que não estaria regulado pelo acordo aludido, atraindo a aplicação da lei geral, no caso, o CDC." (AgInt no REsp 1944539/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 25/11/2021) 1.1. Na hipótese sub judice, a pretensão deduzida na origem diz respeito unicamente à imposição de dano moral por cancelamento de voo. Ausente regulação da matéria em acordo internacional, aplicam-se as normas do CDC. Incidência da Súmula 83 do STJ.
+2. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.937.590/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/3/2022, DJe de 26/4/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula nº 284 do STF.
+3. O conhecimento do recurso especial pela alínea c do permissivo constitucional exige, além de demonstração e comprovação do dissídio jurisprudencial, a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF. Precedentes.
+4. A jurisprudência desta Corte também é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula nº 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do quantum indenizatório.
+5. A jurisprudência do STJ firmou o posicionamento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.960.286/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão agravada.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso (veja-se: AgInt no AREsp 1.728.999/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/08/2021, DJe 03/09/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
