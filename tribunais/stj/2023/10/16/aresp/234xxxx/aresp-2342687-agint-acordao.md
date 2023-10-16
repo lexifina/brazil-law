@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Quanto ao art. 4º da Lei n. 12.651/2012, o recorrente cinge-se à alegação genérica de violação ao caput do artigo, uma vez que não indicou, de forma clara e expressa, inciso ou parágrafo da referida norma, não particularizando, assim, o dispositivo legal supostamente violado - circunstância que configura deficiência da fundamentação recursal, não permitindo a exata compreensão da controvérsia. Incidência da Súmula 284/STF. Cite-se: AgInt no AREsp n. 2.243.619/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 17/5/2023.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência, a qual conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula 284/STF.
+O agravante alega que indicou expressamente o dispositivo dito por violado em suas razões de recurso especial, razão pela qual pugna pelo afastamento da Súmula 284/STF à hipótese.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Quanto ao art. 4º da Lei n. 12.651/2012, o recorrente cinge-se à alegação genérica de violação ao caput do artigo, uma vez que não indicou, de forma clara e expressa, inciso ou parágrafo da referida norma, não particularizando, assim, o dispositivo legal supostamente violado - circunstância que configura deficiência da fundamentação recursal, não permitindo a exata compreensão da controvérsia. Incidência da Súmula 284/STF. Cite-se: AgInt no AREsp n. 2.243.619/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 17/5/2023.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Isso porque, assim como consignado na decisão agravada, quanto ao artigo 4º da Lei n. 12.651/2012, a parte recorrente cinge-se à alegação genérica de violação ao caput do artigo, uma vez que não indicou, de forma clara e expressa, inciso ou parágrafo da referida norma, não particularizando, assim, o dispositivo legal supostamente violado, circunstância que configura deficiência da fundamentação recursal, não permitindo a exata compreensão da controvérsia, razão pela qual mantém-se a incidência da Súmula 284/STF, nos termos da jurisprudência do Superior Tribunal de Justiça.
+A propósito, no trecho pertinente:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CUMPRIENTO DE SENTENÇA. GRATIFICAÇÃO DO PROGRAMA "NOVA ESCOLA". PRESCRIÇÃO. NÃO OCORRÊNCIA. DEFICIÊNCIA RECURSAL. PARTICULARIZAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. AUSÊNCIA. RAZÕES RECURSAIS DISSOCIADAS DO COMANDO NORMATIVO. APLICAÇÃO DA SÚMULA N. 284 DO STF. DISSÍDIO JURISPRUDENCIAL. INTERPRETAÇÃO DE TRATADO OU LEI. AUSÊNCIA.
+ ..
+V - O recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+VI - Quanto ao art. 927 do CPC, incide o óbice da Súmula n. 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do recurso especial não se particularizou o inciso, o parágrafo ou a alínea sobre o qual recairia a referida ofensa, incidindo, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+VII - A indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, que, no caso, traz em seu texto uma mera introdução ao regramento legal contido nos incisos, nos parágrafos ou nas alíneas. Nesse sentido: (AgInt no AREsp n. 1.558.460/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/3/2020.) VIII - "A ausência de particularização dos incisos do artigo supostamente violado, inviabilizam a compreensão da irresignação recursal, em face da deficiência da fundamentação do apelo raro" (AgRg no AREsp n. 522.621/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 12/12/2014.) Confiram-se também os seguintes julgados: AgInt no AREsp n. 1.229.292/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018; AgInt no AgRg no AREsp n. 801.901/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 1º/12/2017; AgInt nos EDcl no AREsp n. 875.399/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º/8/2017; AgInt no REsp n. 1.679.614/PE, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 18/9/2017; e AgRg no REsp n. 695.304/RJ, relator Ministro Francisco Falcão, Primeira Turma, DJ de 5/9/2005; EDcl no AgRg no AREsp n. 1.962.212/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/2/2022.
+ ..  (AgInt no AREsp n. 2.243.619/RJ, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 15/5/2023, DJe de 17/5/2023.) (grifo nosso)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACIDENTE DE TRÂNSITO. INCIDÊNCIA DAS SÚMULAS 284/STF E 7/STJ.
+1. Cuida-se de Agravo Interno contra decisum que conheceu do Agravo para não conhecer do Recurso Especial.
+2. No que concerne à alegação de violação do art. 373 do CPC, incide o óbice da Súmula 284/STF, uma vez que não há a indicação clara e precisa do dispositivo de lei federal tido por violado, pois nas razões do Recurso Especial não se particularizou o inciso, o parágrafo ou a alínea sobre os quais recairia a referida ofensa.
+3. Ademais, no que tange à alegação de violação do art. 389 do CPC, incide o óbice da Súmula 284/STF, uma vez que a parte recorrente não demonstrou, de forma clara, direta e particularizada, como o acórdão recorrido violou o dispositivo de lei federal.
+4. Incide o óbice da Súmula 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria reexame do acervo fático-probatório juntado aos autos.
+5. Agravo Interno não provido. (AgInt no AREsp n. 2.101.998/GO, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
