@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ e 83/STJ, bem como porque olvidou cumprir os requisitos inerentes à comprovação do dissídio jurisprudencial.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 461):
+ADMINISTRATIVO. MILITAR. REINTEGRAÇÃO AO EXÉRCITO PARA TRATAMENTO DE SAÚDE. RESTITUIÇÃO DOS VALORES RECEBIDOS A TÍTULO DE COMPENSAÇÃO PECUNIÁRIA. POSSIBILIDADE. APELAÇÃO DESPROVIDA.
+1. A controvérsia posta nos autos cinge-se a aferir a possibilidade de serem suspensos os descontos referentes à importância auferida a título de compensação pecuniária, a qual o Apelante fez jus quando foi desligado das Forças Armadas.
+2. O Apelante foi licenciado das fileiras do Exército em 28/02/13, quando lhe foi concedida compensação pecuniária no valor de R$ 17.274,32 (dezessete mil, duzentos e setenta e quatro reais e trinta e dois centavos). Posteriormente, em virtude de decisão judicial nos autos do processo nº 1019623-57.2017.4.01.3400, que tramitou na 4ª Vara Federal da Seção Judiciária do Distrito Federal, o Demandante foi reintegrado, em 01/02/18, para fins de tratamento de saúde.
+3. A compensação pecuniária está disciplinada no art. 1º da Lei 7.963/89, que dispõe ser devida ao militar licenciado ex-officio pelo término da prorrogação do tempo de serviço.
+4. Obtida a reintegração, desaparece o pressuposto fático autorizativo da compensação pecuniária, de modo que as quantias pagas devem ser ressarcidas.
+5. Apelação desprovida.
+No recurso especial o recorrente alega ter havido a preclusão do direito da Administração de cobrar os valores pagos a título de compensação pecuniária, a ocorrência de decadência, pois ultrapassado o prazo de 5 anos constante do art. 54 da Lei 9.784/1999 para cobrar os valores foram pagos a título da referido compensação.
+Defende, ainda, que a decisão que o reintegrou às fileiras do excército seria de natureza precária, ainda pendente de exame de mérito, "ou seja, a discussão acerca da ilegalidade do ato de licenciamento do Recorrente está sub judice , não pode a Administração Militar adotar medidas administrativas com a finalidade de se ver restituída do que despendeu a título de compensação pecuniária, afinal, não houve ainda, a consolidação dos procedimentos" (fl. 484).
+Aduz, por fim, que o valor foi recebido de boa-fé e detém natureza alimentar, sendo descabida a devolução ao erário e suscita a existência de dissídio jurisprudencial.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A pretensão recursal sequer ultrapassa a barreira do conhecimento.
+Isso porque, da leitura das razões do apelo especial, observa-se que a parte olvida indicar o(s) normativo(s) de lei federal ou tratado supostamente violado(s) pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Da mesma forma, no que se refere ao alegado dissídio jurisprudencial, aplica-se o referido óbice sumular, porquanto a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MILITAR. REINTEGRAÇÃO. COMPENSAÇÃO PECUNIÁRIA. DEVOLUÇÃO AO ERÁRIO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
