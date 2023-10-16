@@ -1,0 +1,7 @@
+LEI Nº 6.516, DE 16 DE OUTUBRO DE 2023.
+
+INSTITUI a Política Estadual do Desporto e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
