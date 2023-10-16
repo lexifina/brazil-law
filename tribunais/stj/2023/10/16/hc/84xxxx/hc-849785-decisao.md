@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEANDRO RIBEIRO MENDES contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Depreende-se dos autos que o paciente foi condenado às penas de 09 anos e 04 meses de reclusão, em regime fechado, e ao pagamento de 933 dias-multa, como incurso nas sanções dos art. 33, caput, da Lei n. 11.343/06.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao recurso, nos termos do acórdão juntado às fls. 322-331, com a seguinte ementa:
+APELAÇÃO CRIMINAL - PENAL E PROCESSO PENAL - TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - PROVA SUFICIENTE - REDUÇÃO DA PENA-BASE - CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS- NÃO PROVIMENTO.
+Se o acervo probatório demonstrou de maneira suficiente que o acusado praticou o delito imputado resta incabível o pleito absolutório.
+A existência de circunstâncias judiciais desfavoráveis autoriza a imposição da pena-base acima do mínimo legal.
+Apelação defensiva a que se nega provimento com base na correta aplicação da lei.
+No presente writ, a impetrante sustenta a atipicidade da conduta, ao argumento de que "a conduta do paciente de tão somente solicitar a entrega de entorpecentes não se amolda ao tipo penal do tráfico de drogas, constituindo, no máximo, mero ato preparatório do delito, sendo impositiva sua absolvição." - fl. 14.
+Requer, ao final, a concessão da ordem, para absolver o paciente, nos termos do art. 386, inciso III do Código de Processo Penal.
+As informações foram prestadas às fls. 341-351.
+O Ministério Público Federal, às fls. 356-358, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS. PLEITO QUE DEMANDA REEXAME DE PROVAS.
+1. Sendo o writ de natureza angusta, não se presta ao reexame de fatos e provas, aspecto em torno do qual as instâncias ordinárias são soberanas. Assim, inadmissível o HC em que o impetrante, sob pecha de constrangimento ilegal por suposto erro na condenação, insiste em teses que demandam revolvimento do conjunto probatório dos autos.
+Parecer pela denegação da ordem.
+É o breve relatório.
+Decido.
+A impetrante sustenta a atipicidade da conduta, ao argumento de que "a conduta do paciente de tão somente solicitar a entrega de entorpecentes não se amolda ao tipo penal do tráfico de drogas, constituindo, no máximo, mero ato preparatório do delito, sendo impositiva sua absolvição." - fl. 14.
+No que se refere à controvérsia, o Tribunal de origem consignou (fls. 326-330):
+É cediço que a realização do crime engloba uma série de atos, qual seja, o denominado "iter criminis" em que "para chegar à fase de consumação (meta optata), o delinquente realiza uma série de atos, que se sucedem, cronologicamente, no desenvolvimento da conduta criminosa, quais sejam: cogitação, atos preparatórios; atos executórios". 1
+A cogitação consiste na formação da ideia de cometer o crime, a qual será externada através dos atos preparatórios e executórios na busca pela consumação.
+Na cogitação e nos atos preparatórios não há falar em punição, pois ainda não há crime, sobretudo considerando que a tentativa necessariamente "depende da realização de atos executórios". 2
+Assim, após cotejar minudentemente as provas verifica-se que os atos praticados pelo acusado ultrapassaram a fase de cogitação ingressando na prática de atos executórios de modo que o delito imputado efetivamente se consumou. A materialidade delitiva encontra-se comprovada pelo "boletim de ocorrência" (f. 27/29); "auto de apreensão" (f. 32/34); "exame preliminar de constatação" (f. 35); "relatório de verificação de aparelho celular" (f. 55/62) e "laudo de exame toxicológico" (f. 78/81).
+Interrogado LEANDRO confessou o delito esclarecendo à magistrada que pediu ao seu genitor que lhe entregasse no presídio uma garrafa térmica e que dentro do objeto havia maconha. Destacou que aceitou receber essa droga por que estava sendo ameaçado "pelo comando" e esta era uma forma de resolver esse problema. Esclareceu que seu genitor desconhecia a existência da droga.
+A testemunha RAUL AUGUSTO APARECIDO SÁ RAMALHO, Diretor da unidade prisional, relatou que estava presente no momento da inspeção e que esse senhor apareceu no local com uma garrafa e perceberam uma grande diferença no peso. Começaram a indagar sobre o objeto, de onde veio, o que tinha e que era um senhor muito simples e que ao realizarem a prisão ele demorou para entender o que efetivamente estava acontecendo. Precisaram destruir a garrafa para retirar a droga de dentro. A polícia civil estava no local e vistoriou o veículo do genitor do acusado e não encontraram nada verificando que de fato era uma pessoa muito humilde e de boa fé. Ficou comprovado que a garrafa seria entregue ao filho desse senhor (o acusado).
+BIANCA RIBEIRO MENDES, irmã do acusado, informou que LEANDRO solicitou por mensagem a entrega da garrafa para sua genitora e esta lhe encaminhou a mensagem, a qual foi ainda repassada para seu genitor que recebeu a garrafa de terceira pessoa e um ventilador tendo se dirigido a unidade prisional para entrega no dia da visita.
+As declarações do acusado e prova testemunhal foram corroboradas pelo "Relatório de Verificação de Aparelho Celular" em que o aparelho telefônico do acusado foi periciado constatando-se o pedido de entrega (f. 55/62), in verbis:
+ ..
+No referido relatório é possível, inclusive, constatar que o acusado percebendo a demora em receber a garrafa térmica contendo a droga passou a enviar mensagens e ligar insistentemente para o genitor conforme se extrai da imagem de f. 61.
+Vê-se que o acusado efetivamente praticou atos de execução do crime de tráfico de drogas e embora a substância ilícita tenha sido interceptada antes de chegarem suas mãos é certo que foi efetivamente entregue em sua residência e ingressou na unidade prisional conforme orientação expressa e direcionada do acusado.
+O tráfico de drogas se consumou no exato momento em que a ilícita substância foi entregue a interposta pessoa a pedido do réu de modo que sua efetiva entrega em suas mãos consistiria em mero exaurimento da conduta praticada.
+ ..
+Destarte, inarredável a manutenção do decreto condenatório.
+Segundo o art. 33 da Lei n. 11.343/2006, o delito de tráfico de drogas ocorre quando praticadas as condutas de "importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas".
+No caso, o paciente "solicitou" que a droga fosse entregue ao estabelecimento prisional em que se encontrava custodiado, oportunidade em que as substâncias não chegaram ao seu poder, diante da interceptação das drogas na revista pessoal.
+A interceptação da droga pelos agentes penitenciários antes de ser entregue ao destinatário, recolhido em estabelecimento prisional, impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO CONFIGURAÇÃO. AUSÊNCIA DE ATO DE EXECUÇÃO. MERA SOLICITAÇÃO. ATIPICIDADE DA CONDUTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame da pretensão contida no recurso especial dispensa a análise do material probatório, uma vez que se restringe em saber se a interceptação da droga pelos agentes penitenciários antes de ela ser entregue ao seu destinatário, recolhido em estabelecimento prisional, impede a sua condenação pela prática do delito do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir", que viria, em tese, a ser por esse praticada, tratando-se, portanto, de questão eminentemente jurídica.
+2. O apelo nobre foi interposto com fundamento na alínea "a" do permissivo constitucional, por ofensa ao art. 33, da Lei 11.343/06, não havendo que se falar na necessidade d e cotejo analítico para fins de comprovação de divergência jurisprudencial.
+3. O agravado não praticou qualquer conduta que possa configurar o início do iter criminis do delito descrito no art. 33 da Lei 11.343/2006, porquanto limitou-se, supostamente, a solicitar à sua companheira (corré) a entrega da droga no interior do presídio em que se encontrava recolhido.
+4. Esta Corte tem decidido que a mera solicitação, sem a efetiva entrega do entorpecente ao destinatário no estabelecimento prisional, configura, no máximo, ato preparatório e, sendo assim, impunível. Logo, é de rigor a absolvição do ora agravado, em razão da atipicidade de sua conduta, notadamente porque não comprovada a propriedade da droga.
+5. Agravo regimental não provido." (AgRg no REsp n. 1.999.604/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. ATIPICIDADE DA CONDUTA. AGRAVO DESPROVIDO.
+1. Segundo o decidido pelas instâncias ordinárias, a única ação praticada pelo Acusado foi ter solicitado à sua namorada que lhe levasse entorpecentes no presídio em que se encontrava recolhido.
+Não há notícia, ainda, de que o Réu a tivesse ameaçado, tampouco comprovação de que esse tenha adquirido os entorpecentes. Por outro lado, a entrega da droga não se concretizou.
+2. Tão somente a ação do Acusado de solicitar que fossem levadas drogas, cuja propriedade não se conseguiu comprovar, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja na conduta de "adquirir", a qual se entendeu subsumir a ação, seja nas demais modalidades previstas no tipo. Evidencia-se, portanto, a atipicidade da conduta.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.189.239/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023, DJe de 23/2/2023.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. ART. 33 DA LEI N. 11.343/2006. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE ATO DE EXECUÇÃO. ITER CRIMINIS NÃO INICIADO. ATIPICIDADE DA CONDUTA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ação imputada ao Acusado foi ser supostamente o destinatário de um colchão que os Corréus haviam entregue no presídio onde o primeiro se encontrava recolhido, tendo sido encontrados ocultos no citado objeto 21,70g de maconha. Não há notícia, ainda, de que ele tivesse ameaçado os Corréus e, tampouco, conseguiu se comprovar de quem seria o entorpecente. Por outro lado, a entrega da droga não se concretizou.
+2. A tão só ação imputada de, em tese, solicitar que fossem levadas drogas para o interior do estabelecimento prisional, entorpecentes esses cuja propriedade não se conseguiu comprovar, poderia configurar, no máximo, ato preparatório e, portanto, impunível, mas não ato executório do delito, seja na conduta de "adquirir", a qual se entendeu subsumir a ação, seja nas demais modalidades previstas no tipo. Evidencia-se, portanto, a atipicidade da conduta.
+3. Agravo regimental desprovido." (AgRg no REsp n. 1.937.949/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/8/2021, DJe de 27/8/2021.)
+Ante o exposto, concedo o habeas corpus para absolver o paciente, diante da atipicidade formal da conduta.
+P. e I.
+EMENTA
