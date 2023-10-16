@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO BRADESCO S.A. com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0300652-37.2018.8.24.0076), nos autos dos embargos à execução.
+O julgado foi assim ementado (fl. 440):
+APELAÇÕES CÍVEIS. EMBARGOS À EXECUÇÃO. SENTENÇA QUE JULGOU PARCIALMENTEPROCEDENTES OS EMBARGOS DO DEVEDOR. IRRESIGNAÇÃO DAS DUAS PARTES.
+1. RECURSO DA EMBARGANTE/EXECUTADA.
+PRETENDIDA EXTINÇÃO DO PROCESSO POR FALTA DE EXIBIÇÃO PELA PARTE EMBARGADADE CONTRATOS PRETÉRITOS QUE DERAM ORIGEM AO INSTRUMENTO PARTICULAR DECONFISSÃO DE DÍVIDA DADO À EXECUÇÃO. PRESUNÇÃO RELATIVA DE VERACIDADE DOS FATOS QUE A EXECUTADA PRETENDIA PROVAR, QUE NÃO INDUZ À CONCLUSÃO DE NULIDADE DA CONFISSÃO DE DÍVIDA. TÍTULO EXECUTIVO DOTADO DE CERTEZA E EXIGIBILIDADE. ADEMAIS, EXIGÊNCIA DE QUE, JÁ NA PETIÇÃO INICIAL, O EMBARGANTE ESPECIFIQUE AS ABUSIVIDADES CONTRATUAIS E QUANTIFIQUE O SUPOSTO EXCESSO DE EXECUÇÃO. INCIDENTAL EXIBIÇÃO DE DOCUMENTOS QUE, POR SI SÓ, NÃO AUTORIZARIA A COMPLEMENTAÇÃO DA CAUSA DE PEDIR E DOS PEDIDOS. TÍTULO EXECUTIVO DOTADO DECERTEZA E EXIGIBILIDADE. IMPOSSIBILIDADE JURÍDICA DO PEDIDO QUE NÃO MERECE GUARIDA. ARGUMENTOS ABSTRATOS E GENÉRICOS QUANTO A ALEGADAS ABUSIVIDADES EM CONTRATOS ANTERIORES. IMPOSSIBILIDADE DE MODIFICAÇÃO DA CAUSA DE PEDIR APÓS A ESTABILIZAÇÃO DA DEMANDA. SENTENÇA ESCORREITA QUE SE MANTÉM.
+2. RECURSO DO BANCO EMBARGADO/EXEQUENTE
+JUROS REMUNERATÓRIOS. ALEGADA AUSÊNCIA DE ABUSIVIDADE NA TAXA DE JUROS PREVISTA NO CONTRATO. TESE ACOLHIDA. TAXA MÉDIA QUE NÃO CONSTITUI UM TETO, MAS, SIM, UM PARÂMETRO DE COMPARAÇÃO PARA AFERIR A ABUSIVIDADE DE TAXAS QUE COM ELA SE DISTANCIEM DE FORMA IRRAZOÁVEL, HIPÓTESE EM QUE AUTORIZADA A INTERVENÇÃO JUDICIAL PARA O FIM DE REDUÇÃO DA TAXA PACTUADA. TAXAS DE JUROS REMUNERATÓRIOS CONTRATADAS QUE, NO CASO CONCRETO, NÃO ULTRAPASSAM DEMASIADAMENTE A MÉDIA PRATICADA PELO MERCADO EM OPERAÇÕES DA MESMA NATUREZA NO RESPECTIVO PERÍODO DE CONTRATAÇÃO. AUSÊNCIA DE ONEROSIDADE EXCESSIVA. ATENÇÃO À ORIENTAÇÃO FIRMADA PELO STJ EM SEDE DE RECURSOS REPETITIVOS (RESP N. 1.061.530/RS). CONTEXTO EM QUE OS ÍNDICES CONTRATADOS DEVEM SER MANTIDOS. RECURSO PROVIDO NO PONTO.
+ÔNUS DE SUCUMBÊNCIA. PLEITO PARA REDISTRIBUIÇÃO ACOLHIDO. SUCUMBÊNCIAPARCIAL RECONHECIDA NA SENTENÇA QUE MERECE SER MODIFICADA APENAS NA PROPORÇÃO DA REDISTRIBUIÇÃO, AO PASSO QUE A EMBARGANTE TEVE PARTE DE SEUS PEDIDOS JULGADOS PROCEDENTES.
+3. HONORÁRIOS RECURSAIS. DESPROVIMENTO DO RECURSO INTERPOSTO PELA PARTE EMBARGANTE QUE IMPÕE A APLICAÇÃO DA NORMA DO ARTIGO 85, § 11, DO CPC/2015 EM SEU DESFAVOR. HONORÁRIOS RECURSAIS INCABÍVEL EM RELAÇÃO A CASA BANCÁRIA EMBARGADA, TENDO EM VISTA QUE SEU RECURSO FOI CONHECIDO E PROVIDO.
+RECURSO DA PARTE EMBARGANTE/EXECUTADA CONHECIDO E DESPROVIDO. RECURSO DO EXEQUENTE/EMBARGADO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alega a parte recorrente violação dos arts. 85, 86, 489 e 1.022 do CPC.
+Afirma a existência de contradição no acórdão recorrido a respeito da fixação dos honorários advocatícios de sucumbência. Argumenta que havia sido condenada pela sentença ao pagamento do percentual de 40% sobre 10% do valor da causa, tendo o seu recurso de apelação sido provido e a sucumbência redistribuída resultando-lhe numa condenação pior de 50% sobre 15% do valor da causa.
+Requer o provimento do recurso para que seja redistribuído os ônus sucumbenciais.
+As contrarrazões foram apresentadas às fls. 502-504.
+Admitido o apelo extremo (fls. 507-508), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso reúne condições de prosperar.
+Consta dos autos que o ora recorrido opôs embargos à execução ajuizada pela instituição financeira, ora recorrente.
+Os embargos à execução foram julgados parcialmente procedentes, tendo sido os honorários fixados em 10% sobre o valor da causa e, considerando a sucumbência recíproca, o magistrado distribuiu a sucumbência da seguinte maneira: 60% para a parte embargante, ora recorrida, e 40% para a parte embargada, ora recorrente.
+Ambas as partes apelaram.
+O Tribunal de origem negou provimento ao apelo da parte embargante, ora recorrida, e deu provimento ao recurso da instituição financeira, ora recorrente. Redistribuiu os ônus sucumbenciais, majorando a verba para 15% sobre o valor da causa e, também ante a sucumbência recíproca, redimensionou o decaimento de cada parte para 50%.
+A instituição financeira, ora recorrente, opôs embargos de declaração questionando contradição no acórdão recorrido, na medida em que desproveu o recurso da parte adversa e deu provimento a seu apelo, mesmo assim piorou a sua condenação ao pagamento de honorários, aumentando a proporção do decaimento.
+No entanto, o Tribunal a quo rejeitou referido recurso por entender que fora interposto com o intuito de rediscutir matéria já enfrentada.
+Contudo, no contexto ora demonstrado, houve contradição acerca da proporção dos sucumbência arbitrada, uma vez que, apesar de a apelação interposta pela instituição financeira ter sido provida para manter a taxa de juros remuneratórios estabelecida no contrato em execução e a apelação interposta pela parte embargante, ora recorrida, não ter sido provida, a redistribuição do ônus da sucumbência efetuada pela Corte de origem piorou a situação da parte que saiu vencedora na apelação.
+Assim, considerando o reconhecimento da violação do art. 1.022 do CPC, é de rigor o provimento do recurso especial para anular o julgamento dos embargos de declaração pela origem, determinando-se o retorno dos autos à Corte a quo para que profira outro julgamento, sanando a contradição apontada quanto à redistribuição da sucumbência.
+Ante o exposto, conheço do recurso especial e dou-lhe provimento a fim de anular o julgamento dos embargos de declaração para que o Tribunal a quo, apreciando os citados aclaratórios, manifeste-se a respeito da contradição apontada.
+Publique-se. Intimem-se.
+ EMENTA
