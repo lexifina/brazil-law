@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Ordinário interposto, com fundamento no art. 105, inciso II, alínea "b", da Constituição Federal, contra acórdão assim ementado:
+"MANDADO DE SEGURANÇA. EMBARGOS DE DECLARAÇÃO. SERVIDOR PÚBLICO. CARGO COMISSIONADO. CONCESSÃO DE LICENÇA MÉDICA. EXONERAÇÃO. POSSIBILIDADE. INTELIGÊNCIA DO ART. 37, INC. II, DA CONSTITUIÇÃO FEDERAL. VÍNCULO PRECÁRIO E INSTÁVEL QUE PERMITE A DISPENSA AD NUTUM DO SERVIDOR DO CARGO EM COMISSÃO, AINDA QUE LICENCIADO PARA TRATAMENTO DE SAÚDE. PRECEDENTES DO STJ. LESÃO A DIREITO LÍQUIDO E CERTO QUE NÃO SE OSTENTA. EMBARGOS DE DECLARAÇÃO PREJUDICADO. SEGURANÇA DENEGADA.
+1. Preliminarmente, resta prejudicado o julgamento dos embargos de declaração (fls. 163/164) opostos pelo Estado da Bahia, em razão do enfrentamento do mérito da ação mandamental.
+2. A questão a ser solvida no presente mandamus se resume à possibilidade de ocupantes de cargos em comissão serem exonerados a qualquer tempo, inclusive quando estiverem no gozo de licença para tratamento de saúde.
+3. Na espécie, não se divisa a presença do direito líquido e certo, uma vez que nos termos do art. 37, inc. II, da Constituição Federal, os cargos em comissão são de livre nomeação e exoneração.
+4. Cabe salientar que o entendimento firmado pelo eg. Superior Tribunal de Justiça é no sentido de que a exoneração em cargos em comissão e funções de confiança é possível, inclusive, quando o servidor estiver em gozo de licença- saúde.
+5. Nesse contexto, não obstante a atual e grave crise causada pela pandemia em todos os setores da sociedade e dos problemas de saúde enfrentados pelo impetrante, não vislumbro qualquer ilegalidade ou abuso de poder passível de correção por meio do presente mandamus, haja vista a natureza precária da investidura, que sujeita o ocupante do cargo comissionado à exoneração ad nutum, de acordo com critérios de conveniência e oportunidade da autoridade e a competência da autoridade acoimada coatora para a prática do ato.
+Segurança denegada" (fls. 120/121e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 377/415e).
+Alega a parte recorrente que a sua exoneração ofende direito líquido e certo porque "o servidor está com laudo médico indicando seu afastamento por motivo de saúde" e, "diante da excepcionalíssima situação do COVID 19 a situação dos grupos de risco implica em um tratamento que não implique em VIOLAÇÃO DA DIGNIDADE DA PESSOA HUMANA" (fl. 163e).
+A pretensão não merece acolhimento.
+Em relação aos arts. 489, § 1º, IV, e 1022, ambos do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, a decisão recorrida está em consonância com a jurisprudência do STJ.
+Nesse sentido:
+"ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA PARA TRATAMENTO DE SAÚDE. CARGO EM COMISSÃO. DISPENSA. POSSIBILIDADE.
+(..)
+2. O exercício de função comissionada é de livre nomeação e exoneração, configurando ato administrativo discricionário, submetido exclusivamente à conveniência e à oportunidade da autoridade pública competente, considerada a relação de confiança entre o nomeado e o seu superior hierárquico, ainda que no curso de licença para tratamento de saúde.
+3. Agravo interno desprovido" (STJ, AgInt no REsp 1.599.920/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 08/08/2018).
+"ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. LICENÇA PARA TRATAMENTO DE SAÚDE. CARGO EM COMISSÃO. DISPENSA/EXONERAÇÃO. ATO ADMINISTRATIVO DISCRICIONÁRIO.
+1. É possível a exoneração de servidor designado em caráter precário no curso de licença para tratamento de saúde, com base no disposto no art. 37, II, da Constituição Federal, na redação dada pela Emenda Constitucional n. 19/98. Precedentes do STJ. (AgRg no AgRg no RMS 27.249/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 10/06/2014, DJe 18/06/2014). Precedentes.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.596.637/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 04/11/2016).
+"ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CARGO DE EM COMISSÃO. EXONERAÇÃO DURANTE LICENÇA-SAÚDE. POSSIBILIDADE. ART. 37, II, DA CF. COMPLEMENTAÇÃO ATÉ O VALOR DA REMUNERAÇÃO. IMPOSSIBILIDADE. ART. 40, § 13, DA CF. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Cuida-se de recurso ordinário interposto contra acórdão que denegou a ordem em writ, no qual se postulava a ilegalidade da exoneração de cargo em comissão no curso de licença-saúde, bem como a retribuição pelo erário estadual de complementação do auxílio-doença de modo a atingir a remuneração do cargo antes ocupado.
+2. A nomeação para os cargos em comissão, consignados como de livre provimento por força do art. 37, II, da Constituição Federal, em via de regra, não confere estabilidade - sequer relativa - a seus ocupantes; portanto, infere-se que a exoneração é também despida de tais restrições. Precedente: RMS 25.138/MG, Rel. Ministro Felix Fischer, Quinta Turma, DJe 30.6.2008.
+3. Por força do art. 40, § 13, da Constituição Federal, incluído pela Emenda Constitucional n. 20/98, os ocupantes de cargos em comissão estão vinculados ao Regime Geral de Previdência Social; logo, a licença-saúde será fruída somente sob a percepção de auxílio-doença, não existindo amparo legal para a complementação pretendida. Precedente: RMS 18.134/PB, Rel. Ministro Paulo Medina, Sexta Turma, DJ 21.11.2005, p. 298.
+Recurso ordinário improvido" (STJ, RMS 33.859/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 11/11/2011).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao Recurso Ordinário.
+I.
+EMENTA
