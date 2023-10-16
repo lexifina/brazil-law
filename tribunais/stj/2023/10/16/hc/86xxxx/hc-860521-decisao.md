@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCOS ROGERIO LYRA, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi condenado à pena de 2 anos de detenção, em regime aberto, pela prática da infração prevista no 7º, VII e IX, da Lei 8.137/1990 (e-STJ, fls. 120-124).
+Interposta apelação, a Corte Estadual negou provimento ao recurso da defesa, em acordão assim ementado:
+"APELAÇÃO CRIMINAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. INDUZIR O CONSUMIDOR OU USUÁRIO A ERRO, POR VIA DE INDICAÇÃO OU AFIRMAÇÃO FALSA OU ENGANOSA SOBRE A NATUREZA, QUALIDADE DO BEM OU SERVIÇO, UTILIZANDO-SE DE QUALQUER MEIO, INCLUSIVE A VEICULAÇÃO OU DIVULGAÇÃO PUBLICITÁRIA E EXPOR À VENDA MERCADORIA EM CONDIÇÕES IMPRÓPRIAS (LEI 8.137/1990, ART. 7º, VII E IX). SENTENÇA CONDENATÓRIA. INSURGIMENTO DA DEFESA.
+PRETENSA ABSOLVIÇÃO ANTE A INEXISTÊNCIA DE SUBSTRATOS DE CONVICÇÃO SUFICIENTES DA AUTORIA DELITIVA BEM COMO PELA AUSÊNCIA DE DOLO NO AGIR. IMPOSSIBILIDADE. ACUSADO QUE, NO EXERCÍCIO DE ATIVIDADE COMERCIAL DE COMPRA E VENDA DE AUTOMÓVEIS, ADQUIRE VEÍCULO E POSTERIORMENTE O EXPÕE À VENDA COM HODÔMETRO ADULTERADO. VISTORIA QUE INDICOU MAIS DE CEM MIL QUILÔMETROS A MENOS DO QUE NA VERIFICAÇÃO ANTERIOR. ALTERAÇÃO REALIZADA QUANDO O BEM ESTAVA NA POSSE DO AGENTE. CONJUNTO PROBATÓRIO CONSTANTE DO FEITO A INDICAR, COM A SEGURANÇA NECESSÁRIA, A PERPETRAÇÃO DA CONDUTA PELO RÉU. ELEMENTO SUBJETIVO DO TIPO IGUALMENTE EVIDENCIADO. CONDENAÇÃO INARREDÁVEL.
+COGITADA ATIPICIDADE DO AGIR DADA A NÃO CONFECÇÃO DE LAUDO PERICIAL. DESCABIMENTO. PROVA ORAL E DOCUMENTAL COM A ROBUSTEZ NECESSÁRIA PARA EMBASAR O ÉDITO CONDENATÓRIO. PROVA TÉCNICA PRESCINDÍVEL NA ESPÉCIE.
+PRONUNCIAMENTO MANTIDO. RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fl. 208).
+Os embargos de declaração opostos foram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. INDUZIR O CONSUMIDOR OU USUÁRIO A ERRO, POR VIA DE INDICAÇÃO OU AFIRMAÇÃO FALSA OU ENGANOSA SOBRE A NATUREZA, QUALIDADE DO BEM OU SERVIÇO, UTILIZANDO-SE DE QUALQUER MEIO, INCLUSIVE A VEICULAÇÃO OU DIVULGAÇÃO PUBLICITÁRIA E EXPOR À VENDA MERCADORIA EM CONDIÇÕES IMPRÓPRIAS (LEI 8.137/1990, ART. 7º, VII E IX). SENTENÇA CONDENATÓRIA. DESACOLHIMENTO DO PRETÉRITO INCONFORMISMO DEFENSIVO.
+APONTADA OMISSÃO INDIRETA DO JULGADO. MATÉRIA A SER ALEGADAMENTE APRECIADA DE OFÍCIO. POSSIBILIDADE DE APLICAÇÃO DA PENA ISOLADA DE MULTA. INOCORRÊNCIA. QUESTÃO NÃO SUBMETIDA À ESFERA RECURSAL. PRECLUSÃO TEMPORAL. INEXISTÊNCIA DE MÁCULA A SER SANADA. CONCOMITANTE DESCABIMENTO DA CONCESSÃO DE HABEAS CORPUS EX OFFICIO. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+ACLARATÓRIOS CONHECIDOS E REJEITADOS." (e-STJ, fl. 8).
+Neste writ, a defesa sustenta a ocorrência de constrangimento ilegal na pena aplicada ao paciente, eis que a pena de detenção teria sido imposta ao paciente sem que fosse justificada a não aplicação da pena isolada de multa, cominada como alternativa no tipo penal pelo qual foi condenado, apesar de favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal.
+Requer, liminarmente e no mérito, que seja aplicada ao paciente exclusivamente a pena de multa.
+É o relatório.
+Decido.
+Em que pesem os esforços da defesa, verifica-se que a questão ora deduzida não foi objeto de cognição pela Corte de origem, eis que, não tendo a matéria sido arguida no recurso de apelação, os embargos declaratórios foram rejeitados pelo Tribunal a quo em razão da indevida inovação.
+Neste contexto, resta obstado o exame da matéria por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+A fim de corroborar tal conclusão, trago à baila os seguintes precedentes:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROVA PRÉ-CONSTITUÍDA. DOCUMENTOS IMPRESCINDÍVEIS PARA A ANÁLISE DAS AVENTADAS ILEGALIDADES. INSTRUÇÃO DEFICITÁRIA. EXAME DAS QUESTÕES DE OFÍCIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM. ECONOMIA PROCESSUAL. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. O rito célere do habeas corpus pressupõe prova pré-constituída do direito alegado, incumbindo ao impetrante o dever de instruí-lo corretamente, com todos os documentos necessários à análise das teses trazidas a julgamento, posto que a via estreita da ação mandamental não comporta dilação probatória, não havendo que se falar em intimar o impetrante para apresentar as peças faltantes.
+Este aspecto foi muito bem pontuado pelo acórdão do Tribunal de origem, pelo que não merece qualquer reparo a decisão liminar proferida no ponto.
+2. O exame das teses defensivas ventiladas tampouco pode ser realizado diretamente por esta Corte, sob pena de incorrer em indevida supressão de instância e em patente desprestígio às instâncias ordinárias, as quais não analisaram o mérito da impetração, justamente pela falta de instrução do writ na origem.
+3. No entanto, em atenção ao princípio da razoável duração do processo e da economia processual, estando o writ suficientemente instruído nesta instância, entendo ser possível a remessa dos autos à Corte estadual, para que analise as questões apresentadas.
+4. Agravo regimental parcialmente provido apenas para determinar a remessa dos autos ao TJ/ES para o exame do pleito defensivo." (AgRg no HC 513.060/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/06/2019, DJe 28/06/2019, grifou-se);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. AUTORIA E MATERIALIDADE. TESE DE INOCÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. CONDENAÇÃO CONFIRMADA EM APELAÇÃO. EXECUÇÃO PROVISÓRIA EM CURSO. AUSÊNCIA DE RECURSO COM EFEITO SUSPENSIVO. REGIME DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não permite a dilação probatória, destinando-se a sanar ilegalidades verificáveis de plano, assim não sendo possível valorar teses de insuficiência de provas da materialidade e da autoria, assim como de suficiência da justa causa para a prisão preventiva.
+2. Não cabe a análise, por esta Corte, de questão não submetida à apreciação do Tribunal de origem, sob pena de supressão de instância.
+3. A execução provisória é da pena definitiva, não mais cabendo perquirir fundamentos do art. 312 do CPP para seu cabimento.
+4. Agravo regimental improvido." (AgRg no HC 493.905/SE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/5/2019, DJe 15/5/2019, grifou-se).
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
