@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. CONDIÇÕES DA AÇÃO. ART. 485, VI, DO CPC/2015. LEGITIMIDADE. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E O EXAME DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada no Superior Tribunal de Justiça, a pretensão recursal cuja finalidade é dirigida à reapreciação de fatos e provas não comporta a interposição de recurso especial, pois este instrumento é vocacionado à tutela do direito objetivo federal.
+2. Reverter a conclusão do Tribunal local no tocante à legitimidade passiva demandaria o exame das cláusulas contratuais e o revolvimento do conjunto fático-probatório, providências inviáveis na esfera especial. Súmulas n. 5 e 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por COMUNIDADE EVANGÉLICA DE CONFISSÃO LUTERANA DE BRUSQUE - UNIÃO PAROQUIAL com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Segunda Câmara de Direito Civil do Tribunal de Justiça do Estado de Santa Catarina (e-STJ, fl. 1.433):
+APELAÇÕES CÍVEIS. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER COM INDENIZAÇÃO POR DANOS MATERIAIS. CONTRATO DE LOCAÇÃO COMERCIAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA PARTE AUTORA E DA RÉ. ADMISSIBILIDADE. RÉ QUE PUGNA PELA CONCESSÃO DA JUSTIÇA GRATUITA PARA SUSPENDER A EXIGIBILIDADE DO CUSTEIO DO PREPARO, CONTUDO, RECOLHE O PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. SÚMULA 51 DO ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA. ATO INCOMPATÍVEL. REQUERIMENTO DE GRATUIDADE PREJUDICADO.
+PRELIMINARES.
+RECURSO DA RÉ. PRETENSO RECONHECIMENTO DE SUA ILEGITIMIDADE PASSIVA. NÃO ACOLHIMENTO. ACIONADA QUE É SUCESSORA PROCESSUAL DA CONTRATANTE ORIGINAL, CONFORME PREVISÃO CONTRATUAL FIRMADA. PLEITO DE SUCESSÃO PROCESSUAL REALIZADO PELA PRÓPRIA APELANTE/RÉ DURANTE O TRÂMITE PROCESSUAL. LEGITIMIDADE PASSIVA CONFIGURADA. REINCLUSÃO DA SUCEDIDA DESNECESSÁRIA, INCLUSIVE CONTRÁRIA AO PEDIDO DA INSURGENTE QUANDO DO INGRESSO NA LIDE.
+RECURSO DE AMBAS AS PARTES. ALMEJADA A REFORMA DA SENTENÇA PARA CONSIDERAR O SEGUNDO RÉU COMO PARTE LEGÍTIMA NA DEMANDA. SUBSISTÊNCIA. RÉU QUE FAZ PARTE DO CONTRATO DE LOCAÇÃO COMERCIAL FIRMADO COM O AUTOR. CLÁUSULA QUE PREVÊ A OBRIGAÇÃO DE NÃO LOCAR O IMÓVEL PARA TERCEIROS COM A MESMA ATIVIDADE DO LOCATÁRIO/AUTOR SEM EXPRESSA AUTORIZAÇÃO DESSE. LEGITIMIDADE PASSIVA CONFIGURADA. SENTENÇA REFORMADA.
+MÉRITO.
+RECURSO DA RÉ. INSURGÊNCIA NO TOCANTE AOS LUCROS CESSANTES. 1) PRETENSO AFASTAMENTO DE SUA CONDENAÇÃO, SOB O FUNDAMENTO DE QUE O DEVER DE INDENIZAR É SOMENTE DA PRIMEIRA RÉ. INSUBSISTÊNCIA. CONJUNTO PROBATÓRIO QUE EVIDENCIA A EXISTÊNCIA DE UM CONTRATO COM PREVISÃO DE SUCESSÃO PROCESSUAL DA RÉ. RESPONSABILIDADE MANTIDA. 2) PLEITO SUBSIDIÁRIO DE MODIFICAÇÃO DO PERÍODO REFERENTE À INDENIZAÇÃO POR DANOS MATERIAIS (LUCROS CESSANTES). INVIABILIDADE. CONTRATO FIRMADO PELA RÉ QUE TEVE SUA VIGÊNCIA INICIADA EM MAIO/2015. ADMINISTRAÇÃO DO HOSPITAL DURANTE O PERÍODO CONSIGNADO NO DECISUM VERGASTADO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE.
+RÉU CONSIDERADO LEGÍTIMO PARA FIGURAR NO POLO PASSIVO QUE DEVE SER CONDENADO, SOLIDARIAMENTE, AO PAGAMENTO DE INDENIZAÇÃO POR LUCROS CESSANTES E ÔNUS SUCUMBENCIAIS.
+RECURSO DA RÉ CONHECIDO E PARCIALMENTE PROVIDO. APELO DO AUTOR CONHECIDO E PROVIDO.
+Opostos os embargos de declaração, o TJSC os rejeitou (e-STJ, fl. 1.472).
+Nas razões do recurso especial (e-STJ, fls. 1.484-1.499), a recorrente apontou violação ao art. 485, VI, do CPC/2015.
+Alegou, em síntese:
+a) que o Tribunal de origem entendeu que a legitimidade passiva decorria do fato de a recorrente ser a única proprietária do prédio construído pela parte r ecorrida, além de figurar como anuente no contrato de locação firmado;
+b) que o contrato de locação não é alvo da controvérsia dos autos.
+Não foram apresentadas as contrarrazões.
+Inadmitido o reclamo especial (e-STJ, fls. 1.553-1.554), houve a interposição do agravo em recurso especial (e-STJ, fls. 1.566-1.577).
+Em decisão monocrática (e-STJ, fls. 1.607-1.610), a Presidência desta Corte Superior conheceu do agravo para não conhecer do recurso especial com fundamento na incidência das Súmulas 5 e 7/STJ.
+Nas razões do presente agravo interno (e-STJ, fls. 1.614-1.626), a agravante, além de defender a inaplicabilidade das Súmulas 5 e 7/STJ, reitera as alegações do agravo em recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. CONDIÇÕES DA AÇÃO. ART. 485, VI, DO CPC/2015. LEGITIMIDADE. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E O EXAME DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência firmada no Superior Tribunal de Justiça, a pretensão recursal cuja finalidade é dirigida à reapreciação de fatos e provas não comporta a interposição de recurso especial, pois este instrumento é vocacionado à tutela do direito objetivo federal.
+2. Reverter a conclusão do Tribunal local no tocante à legitimidade passiva demandaria o exame das cláusulas contratuais e o revolvimento do conjunto fático-probatório, providências inviáveis na esfera especial. Súmulas n. 5 e 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da decisão agravada.
+Sobre a questão controvertida, o Tribunal de origem assim se manifestou sobre a legitimidade (e-STJ, fl. 1.474-1.475):
+Conforme extrai-se do acórdão embargado (Evento 24, RELVOTO2), o recurso interposto pela autora/embargada restou conhecido e provido para reconhecer a legitimidade passiva da ré/embargante Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial, determinando-se a sua condenação solidária ao pagamento de indenização pelos danos materiais (lucros cessantes) e aos ônus sucumbenciais.
+Registra-se que referidas questões foram enfrentadas e, portanto, fundamentadas no julgado (Evento24, RELVOTO2):
+2.2 RECURSO DE AMBAS AS PARTES
+A autora e a ré/sucessora Maternidade e Hospital Aliança Ltda. objetivam a reforma da sentença para reconhecer a legitimidade passiva da Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial.
+Para tanto, a autora argumenta que deve ser mantida a ré Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial no polo passivo, "porquanto figura na qualidade de única beneficiária do prédio que foi construído pelo Apelante em terreno de sua propriedade, devendo responder juntamente com a 1ª Apelada pelo cumprimento da avença de prestação de serviços laboratoriais do Apelante ao hospital, invertendo-se o ônus da sucumbência outrora fixada em desfavor desta".
+Igualmente, a ré Maternidade e Hospital Aliança Ltda. alega que o "reconhecimento da ilegitimidade passiva da segunda requerida está em profunda dissonância com a Cláusula Décima Oitava do contrato firmado entre as partes".
+Adianta-se, razão lhes assiste.
+Analisando os contratos juntados aos autos, infere-se que no próprio contrato de locação comercial firmado entre aparte autora e Associação Hospitalar e Maternidade Cônsul Carlos Renaux e Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial e seus aditivos, há expressamente a obrigação da parte autora em construir "um prédio de alvenaria com 2 pavimentos, conforme projeto a ser elaborado e aprovado por todas as partes envolvidas, sendo que, o piso térreo será destinado para locação à LOCATÁRIA e o primeiro piso disponibilizado ao TERCEIRO ANUENTE para locação a outro interessado. Parágrafo Primeiro: O prédio a ser construído pela LOCATÁRIA será de única e exclusiva propriedade da CELBRUS-UP, sendo-lhe entregue após a conclusão das obras, mediante termo próprio (Evento 331, INF 25 a 43).
+Inclusive, extrai-se do "termo aditivo ao contrato de locação comercial e outras avenças", em que figurava como parte a Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial, a disposição contratual a respeito dos custos da obra a ser realizada pela parte autora (Evento 331, INF 41 a 43).
+Além disso, constata-se da Cláusula Oitava e Décima oitava que a Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial - CELBRUS - UP também possuía a obrigação de não locar o imóvel de sua propriedade para terceiros com a mesma atividade do locatário/autor sem expressa autorização desse. Veja-se (Evento 331,INF36 a 38):
+CLÁUSULA OITAVA  DA RESCISÃO: O presente contrato poderá ser rescindido a qualquer tempo, seja por descumprimento de quaisquer condições pactuadas no presente instrumento ou pelo descumprimento de quaisquer condições pactuadas no instrumento particular de prestação de serviços firmado entre as partes, bem como pela má qualidade na prestação de serviços laboratoriais.
+CLÁUSULA DÉCIMA OITAVA  DA OBRIGAÇÃO DE NÃO FAZER: A CELBRUSUP e o LOCADOR comprometem-se a não locar outro imóvel de sua propriedade para terceiros que explorem o mesmo serviço de laboratório, salvo expressa autorização da LOCATÁRIA, ou na hipótese do não cumprimento por parte da LOCATARIA dos serviços laboratoriais com qualidade, que possam ensejar a rescisão do contrato de prestação de serviços, conforme previsão contida na cláusula oitava.
+Frisa-se, ainda, que a ré é a única proprietária do prédio construído pela parte autora (Evento 331, INF 25).
+Desse modo, resta evidente a legitimidade da ré Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial para figurar no polo passivo da demanda, devendo ser reformada a sentença no ponto.
+Sob esse prisma, verifica-se que o acórdão embargado fundamentou especificamente o motivo pelo qual reformou a sentença para reconhecer a legitimidade passiva do réu Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial, determinando-se a sua condenação solidária ao pagamento de indenização pelos danos materiais (lucros cessantes) e aos ônus sucumbenciais.
+Além disso, não é demais mencionar que a relação discutida na presente demanda também diz respeito ao contrato de locação comercial firmado entre as partes, em que havia a previsão de obrigações e deveres recíprocos, restando evidente a legitimidade da ré Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial para figurar no polo passivo da demanda, consoante restou consignado no decisum.
+Significa dizer, portanto, que a ré, ora embargante, Comunidade Evangélica de Confissão Luterana de Brusque União Paroquial, é parte legítima a figurar no polo passivo da demanda, conforme restou exaustivamente analisado no acórdão embargado.
+Da leitura do excerto transcrito acima depreende-se que, para o Tribunal estadual, à luz das peculiaridades do caso concreto, a legitimidade da agravante ficou configurada, pois havia previsão de obrigações e deveres recíprocos.
+Nesse sentido, a rediscussão da legitimidade passiva demandaria o exame de cláusulas contratuais e o revolvimento do acervo fático-probatório, providências inviáveis na esfera especial, incidindo os enunciados das Súmulas n. 5 e 7/STJ.
+Tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
