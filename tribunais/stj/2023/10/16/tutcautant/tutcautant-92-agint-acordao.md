@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. ALEGAÇÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. INTUITO MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DE MULTA.
+1. Consoante o art. 1.021, § 1º, do CPC, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Com a ausência de impugnação dos fundamentos da decisão agravada, a parte não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais é necessária a caracterização da indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+3. O intuito protelatório da presente insurgência torna o presente recurso manifestamente inadmissível a ensejar a aplicação da multa prevista no § 4º do art. 1.021 do CPC, no percentual de 1% sobre o valor atualizado da causa.
+Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por JACQUELINE MARIA DIAS PEREIRA DE CARVALHO contra decisão monocrática de minha relatoria que indeferiu o pedido de tutela cautelar de urgência (fls. 167-170).
+Nas razões do agravo interno, aduz a agravante que "a decisão monocrática lavrada por este Exmo. Ministro se assemelhou à decisão da Corte Pernambucana, embora não tenha realizado uma interpretação simbiótica entre os dois institutos, o legal (Lei n.º 8.009/90) e o voluntário (Código Civil). Contudo, deu a entender que o caso estaria ligado à possibilidade de penhora do bem de família por estar em jogo o bem de família legal, nos termos da Lei n.º 8.009/90. Tanto é que a decisão levou em consideração o Tema n.º 1091 e julgado lavrado pela e. 2ª Seção sobre o tema (REsp n. 1.822.033/PR)" (fl. 183).
+Alega, ainda, que o "bem imóvel penhorado está clausulado como bem de família, nos moldes dos arts. 1.711 e seguintes do CC e, por isso, deve ser aplicada ao mesmo a redação do art. 1.715 daquele diploma legal, que permite sua penhora unicamente em função de dívida tributária ligada ao bem ou taxas condominiais. Todavia, o acórdão da Corte Pernambucana, como antecipado, afirmou que a exceção do inciso VII do art. 3º da Lei n.º 8.009/90 também seria aplicável aos casos de bem de família convencional" (fl. 194).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou (fl. 203).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. ALEGAÇÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. INTUITO MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DE MULTA.
+1. Consoante o art. 1.021, § 1º, do CPC, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Com a ausência de impugnação dos fundamentos da decisão agravada, a parte não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais é necessária a caracterização da indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+3. O intuito protelatório da presente insurgência torna o presente recurso manifestamente inadmissível a ensejar a aplicação da multa prevista no § 4º do art. 1.021 do CPC, no percentual de 1% sobre o valor atualizado da causa.
+Agravo interno não conhecido, com aplicação de multa.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+De plano, não conheço do presente agravo interno.
+Consoante o art. 1.021, § 1º, do CPC, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Assim, "viola-se o princípio da dialeticidade recursal quando as razões do agravo interno deixam de infirmar especificadamente os fundamentos da decisão agravada" (AgInt no AREsp n. 1.380.158/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/3/2019, DJe 28/3/2019).
+No caso, convém rememorar a decisão agravada:
+Cuida-se de pedido de tutela cautelar de urgência apresentado por JACQUELINE MARIA DIAS PEREIRA DE CARVALHO no qual postula a concessão de efeito suspensivo a recurso especial e a consequente retirada do imóvel de matrícula n. 99.643 do leilão judicial designado pelo Juízo da 8ª Vara Cível -Seção A da Comarca de Recife/PE (Processo n. 0042720-23.2015.8.17.200). Sustenta que o ora requerido ingressou com ação visando a cobrança de alugueis oriundos de contrato de locação não residencial firmado entre Aporte Logística e Transporte LTDA. e o requerido, tendo a requerente como fiadora. O magistrado de Primeiro grau determinou a expedição de mandado de penhora e avaliação de imóvel de propriedade da requerente e indeferiu o pedido de baixa da penhora. Contra a referida decisão foi interposto agravo de instrumento, o qual foi desprovido pelo TJPE nos termos da seguinte ementa (fl. 93):
+RELATOR DO ART. 932 DO CPC - BEM DE FAMÍLIA LEGAL E BEM DE FAMÍLIACONVENCIONAL - EXCEÇÕES À IMPENHORABILIDADE - APLICAÇÃO PARAAMBAS AS ESPÉCIES - RECURSO IMPROVIDO.1. Pode o Relator julgar monocraticamente recursos em que há tese firmada acerca dotema pelo Supremo Tribunal Federal e Superior Tribunal de Justiça, conforme art. 932, IV,"b", do CPC.2. Na forma do art. 1.711 do Código Civil, o bem de família convencional deve observar asregras sobre a impenhorabilidade do imóvel residencial estabelecida em lei especial, qualseja, a Lei nº 8.009/90.3. Aplica-se sobre o bem de família, legal ou convencional, as exceções àimpenhorabilidade do art. 3º da Lei nº 8.009/90, o que inclui a penhora do bem de famíliade fiador apontado em contrato de locação de imóvel, sendoplenamente válida econstitucional tal possibilidade. Tese nº 1.091 do STJ. Tema nº 1.127 do STF.4. Agravo interno improvido.
+Contra o acórdão do TJPE foi interposto, em 4/8/2023, recurso especial ainda pendente de admissibilidade.
+É, no essencial, o relatório.
+Inicialmente, importante consignar que, nos termos do art. 1.029, § 5º, III, do CPC e das Súmulas 634 e 635/STF, o pedido de concessão de efeito suspensivo ao recurso especial, nos casos em que se encontra pendente o exame prévio de admissibilidade, deve ser dirigido ao Presidente ou Vice-Presidente do Tribunal de origem.
+Com efeito, antes de admitido o recurso especial pelo Tribunal local, não está aberta a jurisdição desta Corte, de modo que, em regra, o deferimento de tutela provisória resultaria em usurpação de competência.
+A jurisprudência desta Corte somente admite a mitigação desse entendimento para que seja concedido efeito suspensivo a recurso especial ainda pendente do prévio juízo de admissibilidade ou mesmo não interposto em hipóteses excepcionais, quando, além do periculum in mora e do fumus bonis iuris, for demonstrada a teratologia da decisão recorrida, o que não é o caso dos autos.
+A propósito:
+ ..
+No mais, de acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na hipótese em tela, em exame perfunctório, não verifico o requisito do fumus boni juris, consubstanciado na ausência de probabilidade de êxito do recurso especial, em razão de a fundamentação apresentada pelo Tribunal de Justiça do Estado de Pernambuco estar em conformidade com a jurisprudência pacífica desta Corte, consolidada em recurso repetitivo - REsp n. 1822033 / PR - Tema n. 1091, que firmou a seguinte tese jurídica: "É válida a penhora do bem de família de fiador apontado em contrato de locação de imóvel, seja residencial, seja comercial, nos termos do inciso VII do art. 3º da Lei n. 8.009/1990".
+A propósito, cito a ementa do referido julgado:
+ ..
+Diante dessa análise perfunctória dos autos, própria das medidas liminares, não se vislumbra, além do requisito dofumus boni iuris, a teratologia do acórdão a quo a fim de justificar a mitigação da regra do art. 1.029, § 5º, I, do CPC.
+Ante o exposto, indefiro o pedido de tutela cautelar de urgência. Publique-se. Intimem-se.
+Nas razões do agravo interno, o agravante se limita a reiterar as razões já deduzidas no recurso especial, bem como no pedido de tutela provisória de urgência que, a bem da verdade, se voltam muito mais contra o acórdão recorrido do que contra a decisão agravada.
+A ausência de apresentação de argumentação jurídica mínima capaz de infirmar especificamente todos os fundamentos da decisão agravada viola o princípio da dialeticidade, razão pela qual o agravo interno não pode ser conhecido.
+A propósito, cito :
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. ALEGAÇÕES GENÉRICAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. INTUITO MANIFESTAMENTE PROTELATÓRIO. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. Consoante o art. 1.021, § 1º, do CPC "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Com a ausência de impugnação dos fundamentos da decisão agravada, a parte não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais é necessária a caracterização da indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado.
+3. O intuito protelatório da presente insurgência torna o presente recurso manifestamente inadmissível a ensejar a aplicação da multa prevista no § 4º do art. 1.021 do CPC, no percentual de 1% sobre o valor atualizado da causa.
+Agravo interno não conhecido.
+(AgInt no TP n. 4.353/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA. DIREITO PROCESSUAL CIVIL. PERDA DE OBJETO DA TUTELA PROVISÓRIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS. AGRAVO INTERNO NÃO CONHECIDO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015.
+1. Diante do julgamento do MS 28.073/DF, reafirma-se a perda de objeto da tutela provisória e, por consequência, do presente agravo interno.
+2. A simples reiteração de argumentos já apresentados em petições recursais anteriores não tem o condão de impugnar os fundamentos das decisões que não conheceram do pedido de tutela provisória, bem como dos embargos declaratórios apresentados neste feito. Assim, o agravo interno mostra-se inadmissível, em razão da ausência de cumprimento do requisito previsto no § 1º do art. 1.021 do Estatuto Processual.
+2. Agravo interno não conhecido, com aplicação da multa do § 4º do art. 1.021 do CPC.
+(AgInt nos EDcl nos EDcl no TP n. 3.884/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 11/10/2022, DJe de 24/10/2022.)
+Com todas essas considerações, além de violado o princípio da dialeticidade, o debilitado teor das razões recusais revelam o intuito protelatório da presente insurgência, tornando o presente recurso manifestamente inadmissível, a ensejar a aplicação da multa prevista no § 4º do art. 1.021 do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia.
+Ante o exposto, não conheço do agravo interno e condeno o agravante ao pagamento de multa de 1% sobre o valor atualizado da causa.
+É como penso. É como voto.
