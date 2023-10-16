@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. AFASTAMENTO DA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. FUNDAMENTAÇÃO IDÔNEA. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, foi afastada com a justificativa de que o Agravante se dedicava a atividades criminosas em razão das circunstâncias da prática delitiva, tendo sido ressaltado que o Acusado transportava, em região de fronteira, expressiva quantidade de droga no compartimento oculto previamente preparado do veículo que conduzia.
+2. Não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do Acusado à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ALEFI CLAUDINO EVANGELISTA contra decisão de minha lavra, ementada nos seguintes termos (fl. 379):
+"HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. AFASTAMENTO DA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. FUNDAMENTAÇÃO IDÔNEA. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. ORDEM DENEGADA."
+Consta nos autos que o Paciente, ora Agravante, foi condenado, em primeiro grau, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de "115 tabletes de "maconha", totalizando 85,5kg; e 09 pacotes de "skank", totalizando 4,5kg" (fl. 210).
+Irresignada, a Defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento.
+Neste writ, a Defensoria Pública sustentou, em síntese, que o Sentenciado faria jus à aplicação da causa especial de diminuição de pena prevista no § 4.º do art. 33 da Lei n. 11.343/2006.
+Requereu, liminarmente e no mérito, " fosse  aplicada a causa especial de diminuição de pena prevista no §4º do artigo 33 da Lei 11.343/06, visto ter o paciente preenchido, como fartamente comprovado, todos os requisitos legais para tal, bem como a alteração do regime inicial de cumprimento de pena, nos termos da nova reprimenda, e a substituição da pena privativa de liberdade pela restritiva de direitos" (fl. 32).
+O pedido liminar foi indeferido pelo Ministro OG FERNANDES, Vice-Presidente do Superior Tribunal de Justiça, no exercício da Presidência (fls. 343-345).
+Foram prestadas informações às fls. 352-365.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 371-377).
+Às fls. 379-382 deneguei a ordem de habeas corpus.
+No presente recurso, a Defesa reitera que o Agravante preenche os requisitos para a aplicação da causa de diminuição prevista no § 4.º do art. 33 da Lei n. 11.343/2006, com a consequente modificação do regime inicial e substituição da pena privativa de liberdade por sanções restritivas de direitos.
+Pede, desse modo, a reconsideração da decisão impugnada ou a apresentação do feito para a análise colegiada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. AFASTAMENTO DA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. FUNDAMENTAÇÃO IDÔNEA. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, foi afastada com a justificativa de que o Agravante se dedicava a atividades criminosas em razão das circunstâncias da prática delitiva, tendo sido ressaltado que o Acusado transportava, em região de fronteira, expressiva quantidade de droga no compartimento oculto previamente preparado do veículo que conduzia.
+2. Não é possível desconstituir a conclusão da Jurisdição ordinária sobre a dedicação do Acusado à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação não prospera.
+São condições para que o condenado faça jus à causa de diminuição prevista no § 4.º do art. 33 da Lei n. 11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+Na hipótese, reafirmo que a minorante em questão foi obstada com a justificativa de que o Acusado se dedicava às atividades criminosas em razão do modus operandi delitivo. Com efeito, o Tribunal a quo destacou que o Sentenciado "deslocou-se até a fronteira deste País com o Paraguai com o veículo previamente preparado para o transporte da droga, a qual estava acondicionada em compartimento oculto no automóvel por ele conduzido, o que, além de evidenciar certo requinte na empreitada delitiva, indicia a participação de mais agentes na empreitada" (fl. 331; grifos diversos do original).
+Essas circunstâncias constituem conjuntura que impede a desconstituição da conclusão das instâncias ordinárias sobre a dedicação do Acusado à atividade criminosa e, por conse guinte, o pretendido reconhecimento da causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático- probatório dos autos.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4. º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO RÉU À ATIVIDADE CRIMINOSA RECONHECIDA PELO TRIBUNAL DE ORIGEM. ELEMENTOS CONCRETOS. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE AMPLO REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. AGRAVO PROVIDO. ORDEM DENEGADA.
+ ..
+2. No caso, o Tribunal de origem constatou que o Agravado se dedicava às atividades criminosas em razão das circunstâncias específicas do caso, tendo sido declinados elementos idôneos e concretos indicadores de envolvimento habitual com o esquema criminoso, notadamente o recebimento de vultosa quantia para o transporte, com uma considerável estrutura para o cometimento do crime, incluindo hospedagem e auxílio de outras pessoas, e, ainda, preparação do veículo para o armazenamento das drogas em compartimento oculto.
+3. Nesse contexto, não é possível desconstituir a conclusão das instâncias de origem sobre a dedicação do Agravado à atividade criminosa e, por conseguinte, reconhecer a causa de redução de pena prevista no art. 33, § 4.º, da Lei de Drogas, notadamente por ser vedado, na presente via, revolver o contexto fático-probatório dos autos.
+4. Agravo regimental provido, para denegar a ordem de habeas corpus." (AgRg no HC n. 807.712/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministra LAURITA VAZ, SEXTA TURMA, julgado em 9/5/2023, DJe 16/5/2023; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E TRAFICÂNCIA INTERRESTADUAL. MANTIDO O AFASTAMENTO DO REDUTOR DO TRÁFICO. REEXAME DO ACERVO FÁTICO PROBATÓRIO. AGRAVO DESPROVIDO.
+1. No tocante o afastamento do privilégio previsto no art. 33, § 4º, da Lei de Drogas, nota-se que as instâncias ordinárias concluíram que o agravante se dedicava a atividade delitiva, em decorrência do modus operandi do paciente que praticou o transporte interestadual de grande quantidade de drogas - 65kg de maconha - acondicionada em compartimento oculto em veículo especialmente preparado para tal fim. Assim, modificar tal conclusão demandaria o aprofundado reexame do conjunto probatório, procedimento vedado na via eleita.
+2 . Agravo desprovido." (AgRg no HC n. 750.274/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/8/2022, DJe 26/8/2022; sem grifos no original.)
+Por fim, conforme consignado na decisão recorrida, tendo sido mantida inalterada a reprimenda, ficam prejudicados, na hipótese, os pedidos de modificação do regime prisional e de substituição da pena privativa de liberdade por sanções restritivas de direitos.
+Desse modo, na ausência de argumento apto a infirmar as razões consideradas no julgado, ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
