@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESTADO DO MARANHÃO, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, nesses termos ementado:
+APELAÇÃO CÍVEL. ADMINISTRATIVO E CONSTITUCIONAL. PROGRESSÃO CARREIRA DO MAGISTÉRIO. INTERPRETAÇÃO DAS LEIS 6.110/94 E 9.860/2013. APLICAÇÃO DO PRINCÍPIO TEMPUS REGIT ACTUM. APELO PARCIALMENTE PROVIDO. I. É inaplicável o novo Estatuto do Magistério (Lei Estadual nº 9.860/2013) a situação pretérita, sob pena de violar a relação jurídica vigente à época da Lei Estadual nº 6.110/94, que previa tempo de serviço e avaliação de desempenho como critérios para a progressão, mediante pedido do interessado. II. Apelação parcialmente provido de acordo com o parecer ministerial.
+Os embargos de declaração opostos foram rejeitados.
+Sustenta a parte recorrente que o acórdão estadual contrariou as disposições dos art. (a) 1.022 do CPC, pois, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso; (b) 1º do Decreto 20.910/32, sob o fundamento de que transcorreu a prescrição quinquenal no caso presente.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Observo que deveria ter havido a manifestação expressa na origem sobre a questão suscitada, o que não ocorreu por falha do Tribunal a quo, o qual não dirimiu, como deveria, a controvérsia nos autos quanto à possível ocorrência de prescrição quinquenal.
+Manifesta a doutrina no sentido de que
+uma corte que visa ao controle da decisão recorrida é uma corte reativa. Vale dizer: a corte desempenha um papel que pressupõe a existência de uma violação ao direito já ocorrida, sendo sua tarefa sancioná-la e, quando possível, neutralizar ou eliminar os seus efeitos mediante cassação ou reforma dessa decisão. O recurso serve para reagir a uma violação ao direito já ocorrida, perpetrada pela decisão judicial que constitui o seu objeto, sendo a atuação da corte pensada tão somente para o passado. (MARINONI, Luiz Guilherme, MITIDIERO, Daniel. Recurso extraordinário e recurso especial: do "jus litigatoris" ao "jus constitutionis"  livro eletrônico . 3. ed. rev. atual. São Paulo: Revista dos Tribunais, 2021).
+Assim, importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Revista dos Tribunais, 2012).
+Desse modo, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO CARREIRA DE MAGISTÉRIO. PRESCRIÇÃO QUINQUENAL. OMISSÃO CARACTERIZADA. RECURSO ESPECIAL PROVIDO.
