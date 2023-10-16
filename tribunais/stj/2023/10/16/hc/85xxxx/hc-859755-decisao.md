@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de HUGO JOSE LUCIANO SIQUEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (HC 0803704-91.2023.8.15.0000).
+O paciente foi condenado à pena de 9 anos, 5 meses e 8 dias de reclusão em regime fechado, por infração ao art. 157, § 2º, II, e § 2º-A, I, c/c o art. 71, do Código Penal.
+A Corte de origem negou provimento ao agravo interno interposto pela defesa.
+A defesa alega: a) "o paciente desempenhou apenas o papel de partícipe no evento delituoso, sendo que, surpreendentemente, sua pena foi estabelecida em regime fechado, superando a pena aplicada aos autores do delito" (e-STJ fl. 4); b) "a figura do partícipe, conforme previsto no artigo 29, § 1º, do Código Penal modificará o quantum de pena, influenciando no regime inicial de pena, sendo este semiaberto" (e-STJ fl. 6); c) "fundamentação da sentença apresentou uma desproporcionalidade marcante no tratamento dos réus que, embora estivessem em idêntica situação fática, foram agraciados com penas notoriamente discrepantes" (e-STJ fl. 7); e d) "é justo e legítimo pleitear a revisão da sentença para que esta reflita adequadamente a igualdade de tratamento jurídico entre os acusados" (e-STJ fl. 7), nos termos do art. 580 do CPP.
+Requer, liminar e definitivamente, deferimento da ordem para reconhecer a participação de menor importância, aplicar o art. 580 do CPP, reduzir a pena, alterar o regime para o semiaberto e reconhecer o direito de recorrer em liberdade.
+É o relatório.
+As matérias relativas ao reconhecimento da participação de menor importância, à aplicação do art. 580 do CPP, à revisão da dosimetria da pena, alteração do regime prisional e ao direito de recorrer em liberdade não foram apreciadas no acórdão impugnado. Assim, para não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. NEGATIVA DE AUTORIA E MATERIALIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CUSTÓDIA CAUTELAR. GARANTIA DA ORDEM PÚBLICA. ENVOLVIMENTO DO AGENTE EM ORGANIZAÇÃO CRIMINOSA.
+EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉUS. INOVAÇÃO RECURSAL.
+SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Consta dos autos que o recorrente foi denunciado, juntamente com outros 39 acusados, pela suposta prática do delito previsto no artigo 2º, caput, § 2º, § 3º e § 4º, II e IV, da Lei n. 12.850/2013, em razão de investigação instaurada para apurar a existência de grupo criminoso voltado para obtenção de lucros a partir da comercialização ilegal de cigarros, por meio da prática dos crimes de extorsão, roubo, corrupção, lavagem de dinheiro, duplicada simulada e delitos tributários.
+2. No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objetivo sanar ilegalidade verificada de plano, não se fazendo possível aferir a materialidade e a autoria delitiva quando controversas.
+3. Em relação ao fumus comissi delicti, o decreto prisional indicou a existência de elementos indiciários colhidos não apenas na colaboração premiada, mas em conteúdos de aparelhos celulares apreendidos, em vigilâncias de investigados, em interceptações telefônicas e em diligência de busca e apreensão.
+4. Não se registra manifesta ilegalidade, pois houve a indicação individualizada da conduta do recorrente, e consta fundamentação concreta, igualmente, quanto ao periculum libertatis, porquanto apontado que seria um dos líderes da organização criminosa, responsável pela prática de diversos crimes com o emprego de violência e por ordenar a repressão a comerciantes.
+5. Assim, tem-se por devidamente fundamentada a prisão cautelar, diante da gravidade concreta dos fatos, evidenciada no envolvimento com organização criminosa estruturada e complexa, com relevante movimentação de capital e uso de violência. Tais fatos, consoante a jurisprudência desta Corte, justificam a prisão preventiva para a garantia da ordem pública, em face da periculosidade do agente.
+6. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+7. O pedido de extensão da liberdade concedida aos corréus constitui inovação recursal. Não consta que tenha sido apreciado pelo Tribunal de origem, o que obsta a apreciação da questão por essa Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+8. Agravo regimental improvido.
+(AgRg no RHC 157198/RJ, relator Ministro Olindo Menezes, Sexta Turma, julgado em 22/3/2022, DJe de 25/3/2022)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
