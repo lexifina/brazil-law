@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Felipe Ramos de Oliveira dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que deu provimento ao Agravo de Execução Penal n. 0003746-89.2023.8.26.0026, para determinar o retorno do paciente ao regime semiaberto.
+Pleiteia o impetrante, inclusive liminarmente, o restabelecimento do regime aberto, uma vez que o paciente vem cumprindo com todas as obrigações estabelecidas para essa nova etapa do cumprimento da pena; enfatizando, ainda, que continua sob a vigilância do Estado e que, em caso de descumprimento das condições impostas, retornará ao regime mais gravoso.
+É o relatório.
+Está sob discussão no presente writ, a ilegalidade do indeferimento da progressão de regime, por ausência do requisito subjetivo.
+Consoante a dicção do art. 112 da Lei de Execução Penal, para que o apenado faça jus à acessão carcerária é necessário o preenchimento de requisitos objetivo e subjetivo.
+Relativamente ao requisito subjetivo, nos moldes do dispositivo legal sob comento, esse é aferido por meio de atestado de bom comportamento carcerário, expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+Todavia, não é vedado o indeferimento da benesse quando, a despeito de o apenado apresentar bom comportamento carcerário certificado pelo Diretor do estabelecimento prisional onde esteja cumprindo pena, entender não implementado o requisito subjetivo, desde que aponte particularidades fáticas, no curso da execução da pena, que expressem a ausência de mérito do condenado.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO FAVORÁVEL. AUSÊNCIA DE VINCULAÇÃO PELO JULGADOR. CONTURBADO HISTÓRICO PRISIONAL DO APENADO. REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto, e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Verifica-se que o pedido de progressão de regime pleiteado pelo recorrente foi indeferido pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração, sobretudo, o conturbado histórico prisional do apenado, destacando-se a presença de faltas disciplinares de natureza grave.
+3. Frise-se, ademais, que o Superior Tribunal de Justiça possui entendimento de que "o Magistrado não está adstrito ao laudo favorável do exame criminológico, o qual poderá formar sua própria convicção acerca do pedido de progressão, com base nos dados concretos da execução da pena" (AgRg no HC n. 419.539/SP, rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/2/2018, DJe 16/2/2018), o que ocorreu na espécie.
+4. Como quer que seja, é firme o posicionamento desta Corte Superior de ser inviável, em habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório, procedimento incompatível com os estreitos limites da via eleita.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 662.916/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/12/2021)
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO FUNDAMENTADO. AUSÊNCIA DO REQUISITO SUBJETIVO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. Não há constrangimento ilegal no indeferimento de pedido de progressão de regime concretamente fundamentado nas peculiaridades do caso, notadamente em virtude da multirreincidência do Paciente e das diversas anotações de faltas disciplinares de natureza grave em seu histórico prisional.
+3. Ordem de habeas corpus denegada.
+(HC n. 470.296/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/2/2019)
+Na hipótese, o acórdão impugnado não destacou apenas a gravidade dos delitos (roubo majorado, tráfico de entorpecentes e posse de arma de uso restrito) e a longa pena a cumprir (13 anos, 10 meses e 18 dias de reclusão), fundamentos inidôneos segundo a jurisprudência desta Corte, consignou, também, que o reeducando, sempre que posto em liberdade, o que ocorreu por diversas vezes, preferiu rumar na senda do crime, voltando a delinquir (fl. 21). Vê-se, pois, que ele não honrou a confiança que lhe depositou o Estado, praticando novos delitos quando em gozo de benefício (fl. 90).
+Sob essa moldura, não se divisa no acórdão hostilizado constrangimento ilegal a ser reparado por esta Corte Superior, uma vez que o benefício foi indeferido com fundamento idôneo, qual seja, o cometimento de novo delito quando beneficiado com o cumprimento da pena em meio aberto.
+Além disso, a estreita via do habeas corpus não se presta a contrariar o entendimento firmado pelas instâncias ordinárias acerca do preenchimento ou não do requisito subjetivo, dada a necessidade de incursão na seara fático-probatória, insuscetível nesta sede.
+Nesse sentido: AgRg no REsp n. 1.952.241/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/11/2021; e HC n. 696.541/SP, Ministro Jesuíno Rissato (Desembargador convocado Do TJDFT), Quinta Turma, DJe 17/11/2021.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. HISTÓRICO PRISIONAL DESFAVORÁVEL. COMETIMENTO DE NOVO DELITO NO CURSO DA EXECUÇÃO DA PENA. DECISÃO FUNDAMENTADA. AUSÊNCIA DO REQUISITO SUBJETIVO. PARTICULARIDADES DO CASO CONCRETO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Writ indeferido liminarmente.
