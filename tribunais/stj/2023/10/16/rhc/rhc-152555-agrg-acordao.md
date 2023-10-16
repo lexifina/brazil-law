@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. FUNDAMENTAÇÃO SUFICIENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto da conduta delitiva, porquanto " o  réu está sendo acusado de praticar homicídio contra um taxista por briga banal de trânsito enquanto o mesmo estava trabalhando, com motivação totalmente desproporcional".
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+GUSTAVO TEIXEIRA CORREA agrava da decisão de fls. 1.177-1.178, em que neguei provimento ao recurso em habeas corpus, dada a ausência de manifesta ilegalidade na manutenção de sua prisão preventiva.
+Para tanto, assere que " o  recorrente está preso desde fevereiro de 2019, sem que o processamento da primeira instância tenha se encerrado. Em suas últimas manifestações, o próprio juízo de piso admite, expressamente, que há retardamento na tramitação da ação penal" (fl. 1.186).
+Salienta também que "a decisão simplesmente desconsiderou toda a fundamentação defensiva acerca da manifesta inexistência de quaisquer dos requisitos cautelares no caso concreto, limitando-se a afirmar que a gravidade em concreto do delito justificaria a manutenção da prisão cautelar" (fl. 1.194).
+Requer, assim, "que o presente agravo regimental seja levado a julgamento perante a Sexta Turma desse colendo Superior Tribunal de Justiça, para que se dê provimento, nos termos postulados no recurso ordinário em habeas corpus" (fl. 1.198).
+AgRg no RECURSO EM HABEAS CORPUS Nº 152.555 - PB (2021/0266719-9)
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. FUNDAMENTAÇÃO SUFICIENTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a gravidade em concreto da conduta delitiva, porquanto " o  réu está sendo acusado de praticar homicídio contra um taxista por briga banal de trânsito enquanto o mesmo estava trabalhando, com motivação totalmente desproporcional".
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Primeiramente, consoante apontado nos termos da decisão de fl. 1.209, em 23/3/2022, foi prolatada sentença condenatória, o que evidencia a prejudicialidade deste writ no que se refere à alegação de excesso de prazo para o encerramento do feito.
+Já em relação aos fundamentos para a imposição da medida cautelar extrema, conforme já apontado na decisão vergastada, depreende-se dos autos que "ao custodiado, teria sido atribuída a conduta de ceifar a vida de um motorista de táxi, em plena luz do dia, no estacionamento de um supermercado localizado no bairro Aeroclube, nesta capital, no momento em que a vítima manobrava seu automóvel para estacioná-lo. Após a prática delituosa, o agente deixou o local a pé e se dirigiu para sua residência, situada próximo ao local do crime, tendo sido preso em flagrante em seguida" (fl. 1.057, grifei).
+Ao manter a medida cautelar máxima, o Juízo singular apontou que "o modus operandi como o crime foi praticado extrapolou o tipo penal. Por causa da forma como foi praticado o crime causou clamor público. Como é cediço, a presença desses dois elementos justifica a necessidade da garantia ordem pública. O réu está sendo acusado de praticar homicídio contra um taxista por briga banal de trânsito enquanto o mesmo estava trabalhando, com motivação totalmente desproporcional. Foram poucos segundos de discussão que resultou nesse fim trágico, conforme narra a denúncia" (fl. 657, destaquei).
+Nos termos postos na denúncia, o ofendido abriu os braços no interior de seu carro, insinuando que não havia espaço para concluir a sua manobra, ocasião em que, antes que Bruno pudesse engatar a marcha ré, Gustavo, sem nada verberar, desceu do mencionado veículo, dirigiu-se até o desafortunado e, exatamente 07 (SETE) SEGUNDOS depois, efetuou vários disparos de arma de fogo à curta distância" (|fl. 69, grifei).
+A esse respeito, como oportunamente destacou o Parquet, "consoante orientação pacificada nesse Superior Tribunal de Justiça, a gravidade concreta do crime, evidenciada pelo modus operandi da conduta, é circunstância que autoriza a conclusão indiciária acerca da periculosidade social do agente, interferindo, assim, na ordem pública, sendo aceitável estimule a imposição da medida de exceção, a qual, cabe ressaltar, satisfaz-se com mero juízo de probabilidade" (fl. 1.136).
+Nesse sentido:
+ ..
+3. Na hipótese, as instâncias ordinárias apresentaram fundamentação idônea à manutenção da segregação cautelar do agravante, notadamente em virtude da gravidade concreta da conduta delitiva e do modus operandi empregado pelo agente, que haveria desferido um golpe de faca contra a vítima durante uma festividade, onde havia aglomeração de pessoas.
+4. Ademais, registro que as condições subjetivas favoráveis do paciente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+5. Agravo regimental não provido (AgRg no HC n. 770.848/MG, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 10/10/2022.)
+ ..
+1. O Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública  ..  (AgRg no RHC n. 177.112/MA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 22/6/2023, sublinhei.)
+À vista do exposto, nego provimento ao recurso.
