@@ -1,0 +1,60 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela UNIÃO - FAZENDA NACIONAL contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 5ª Região no julgamento de Apelação e Remessa Necessária, assim ementado (fls. 275/285e):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. INSCRIÇÃO NO CADASTRO NACIONAL DA PESSOA JURÍDICA (CNPJ). CONDOMÍNIO DA CONSTRUÇÃO. POSSIBILIDADE. INSTRUÇÃO NORMATIVA DA RFB Nº 1.634/2016. REMESSA NECESSÁRIA E APELAÇÃO IMPROVIDAS. MANUTENÇÃO DA SENTENÇA CONCESSIVA DA SEGURANÇA IMPETRADA.
+1. Trata-se de remessa necessária e de apelação interposta pela FAZENDA NACIONAL contra sentença proferida pelo Juízo da 1ª Vara Federal da SJ/AL, que concedeu a segurança impetrada, determinando que a autoridade impetrada promova a inscrição do CNPJ para o Condomínio de Construção do Edifício Harmony Medical Center Farol com os CNAE"s informados, conforme previsto no § 1º do art. 31-F da Lei 4.591/64, sob pena incorrer em crime de desobediência e fixação de multa-diária. A apelante alega, em apertada síntese, inexistir qualquer ilegalidade na negativa de inscrição da impetrante no Cadastro Nacional de Pessoas Jurídicas e que a edificação em condomínio não é inscrita no CNPJ, mas no Cadastro Nacional de Obras (CNO).
+2. A pretensão da impetrante (Condomínio de Construção do Edifício Harmony Medical Center Farol) de se inscrever no CNPJ encontra previsão no próprio âmbito da Secretaria da Receita Federal do Brasil através da Instrução Normativa da RFB nº 1.634/2016, cujo art. 3º dispõe que " todas as entidades domiciliadas no Brasil, inclusive as pessoas jurídicas equiparadas pela legislação do Imposto sobre a Renda, estão obrigadas a se inscrever no CNPJ e a cada um de seus estabelecimentos localizados no ". A possibilidade de inscrição no CNPJ não só Brasil ou no exterior, antes do início de suas atividades abrange pessoas jurídicas, mas entidades como um todo domiciliadas no Brasil e sendo o condomínio de uma entidade potencialmente capaz de praticar negócios jurídicos tributáveis, fica claro que construção há obrigação da impetrante de se inscrever no referido cadastro fiscal.
+3. Frise-se que, embora não constitua pessoa jurídica, o condomínio da construção é figura que identifica uma situação de fato com esteio jurídico, conforme previsão da Lei nº 4.591/64, a qual dispõe sobre o condomínio em edificações e as incorporações imobiliárias, cujo art. 31-F, § 11, prevê que " Caso decidam pela continuação da obra, os adquirentes ficarão automaticamente sub-rogados nos direitos, nas obrigações e nos encargos relativos à incorporação", não sendo, portanto, razoável a recusa da de gestão dos negócios inscrição pela Administração, por implicar o embaraço do exercício da atividade da entidade, impedindo-a, por exemplo, de realizar contratações, abrir conta bancária, contratar funcionários, dentre outras.
+4. A propósito esta Corte e outros TRF"s registram precedentes no sentido da possibilidade da inscrição de Condomínio de Construção no Cadastro Nacional de Pessoa Jurídica. Nesse sentido:
+08101315120184058000, Des. Federal Manoel de Oliveira Erhardt, 4ª T. j. 02/06/2020; TRF4, 5000206-12.2017.4.04.7201, Des. Federal Luiz Carlos Cervi, 2ª T., j. 23/08/2017; TRF4, 5005295-79.2018.4.04.7201, Relatora Vivian Josete Pantaleão Caminha, 4ª T., j. 13/12/2018; TRF3, 0009167-63.2016.4.03.6110, Rel. Desembargadora Federal Mônica Nobre, 4ª T., j. 10/05/2018).
+5. Não há o que reparar na sentença, tendo o juízo agido acertadamente ao conceder a segurança a quo impetrada, para determinar que a autoridade impetrada proceda à inscrição da impetrante no CNPJ.
+6. Apelação e remessa necessária improvidas.
+Opostos embargos de declaração, foram rejeitados (fls. 253/257e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 1º da Lei n. 5.614/1970, e 48 e 62 da Lei n. 4.591/1964, alegando-se, em síntese, que " ..  a Instrução Normativa RFB nº 1.863/2018, editada por força do art. 1º da Lei nº 5.614/70, somente prevê em seu artigo 4º, o qual relaciona as entidades sem personalidade jurídica, obrigadas ao CNPJ, a inscrição de condomínio edilício. Se a entidade não se constitui em um condomínio edilício, conforme assevera a Impetrante, não pode, consequentemente, ser inscrita no CNPJ como "condomínio", posto que inexiste previsão de outra espécie no rol do referido dispositivo" (fl. 280e).
+Com contrarrazões (fls. 297/303e), o recurso foi admitido (fl. 305e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O Recurso Especial não merece prosperar.
+Com efeito, embora indicada a ofensa aos arts. 1º da Lei n. 5.614/1970, e 48 e 62 da Lei n. 4.591/1964, segundo a Recorrente, o direito por ela defendido encontra respaldo, em tese, nos arts. 3º, 4º, 5º e 6º, da Instrução Normativa RFB n. 1.863/2018, de 28 de dezembro de 2018, da Receita Federal do Brasil, de modo que a violação à lei federal seria meramente reflexa.
+Nesse sentido, os precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ICMS. FORNECIMENTO DE REFEIÇÕES PRONTAS. TRIBUTAÇÃO DIFERENCIADA. FRUIÇÃO POR SUPERMERCADO. ACÓRDÃO RECORRIDO FUNDADO EM INTERPRETAÇÃO CONSTITUCIONAL (ART. 155, § 2º, III, DA CF) DO TERMO "SIMILARES" A BARES E RESTAURANTES CONTIDO NA LEGISLAÇÃO ESTADUAL. REVISÃO. IMPOSSIBILIDADE. MATÉRIA CONSTITUCIONAL E SÚMULA 280/STF.
+1. Fundada na alegação de violação do art. 111, II, do CTN, a Fazenda estadual interpõe recurso especial contra acórdão que, interpretando o alcance do termo "similares" contido na legislação estadual, entendeu que supermercado, no tocante especificamente ao fornecimento de refeições prontas dentro de suas dependências, tem direito a usufruir do tratamento tributário diferenciado de recolhimento de ICMS, porquanto assemelha-se a "bares, lanchonetes, restaurantes, cozinhas industriais e similares".
+2. Para esse mister, a Corte estadual respaldou-se no princípio constitucional da seletividade (art. 155, § 2º, III, da CF), para decidir que o termo "similares" deve levar em consideração a natureza da mercadoria fornecida e não a natureza do estabelecimento.
+3. Não cabe a esta Corte Superior, em sede de recurso especial, rever a interpretação que o Tribunal de origem deu à legislação local, notadamente quando amparada em preceito constitucional.
+Incide, na espécie, o óbice estampado na Súmula 280/STF.
+4. "Por ofensa reflexa à lei federal não é cabível recurso especial" (AgRg no AREsp 62.249/MG, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 24/05/2012).
+5. Recurso especial não conhecido.
+(REsp 1.338.038/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/10/2013, DJe 05/12/2013).
+DIREITO ADMINISTRATIVO E CONSTITUCIONAL. MILITAR. ANISTIA. ART. 8º DO ADCT DE 1988. PROMOÇÕES POR MERECIMENTO. QUESTÃO CONSTITUCIONAL. VIOLAÇÃO LEGAL REFLEXA. NÃO-CONHECIMENTO DO RECURSO ESPECIAL.
+1. O Recurso Especial discute os critérios das promoções asseguradas pelo art. 8º do ADCT da Constituição Federal.
+2. A despeito de a norma legal estabelecer com maior clareza critérios, a promoção fixada pelo preceito do ADCT tem sido examinada em sua inteireza pelo Supremo Tribunal Federal, inclusive em relação à aplicação dos referidos critérios aclarados infraconstitucionalmente.
+3. A leitura do acórdão recorrido, do Recurso Especial e, especialmente, do Agravo Regimental interposto indica alguma divergência do STF sobre a interpretação do art. 8º do ADCT, que não pode ser aqui solucionada.
+4. Tal contexto remete à violação reflexa da Lei 10.599/2002.
+Inviável, portanto, o conhecimento do Recurso Especial.
+5. Recurso Especial não conhecido.
+(REsp 1.124.302/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/02/2011, DJe 16/03/2011).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. EXECUÇÃO FISCAL. ADESÃO A PROGRAMA DE PARCELAMENTO. SUSPENSÃO DA EXECUÇÃO. PENHORA. IMPOSSIBILIDADE DE ANÁLISE DO RECURSO ESPECIAL. NECESSIDADE DA INTERPRETAÇÃO DE LEI LOCAL. APLICAÇÃO DO ENUNCIADO DA SÚMULA 280 DO STF. VIOLAÇÃO REFLEXA A LEI FEDERAL.
+1. A ausência de prequestionamento da matéria discutida impede o conhecimento do recurso especial, nos termos da Súmula 211/STJ.
+2. O artigo 155-A do CTN estabelece que "o parcelamento será concedido na forma e condição estabelecidas em lei específica". Essa lei específica deverá ser editada pelo respectivo ente federativo que instituir o parcelamento fiscal.
+3. No caso em apreço, a pretensão recursal tem por fundamento legislação estadual, qual seja, o art. 100 da Lei Estadual n.
+6.374/89 e o disposto no art. 580 do Decreto Estadual n.
+45.490/2000. Assim, reformar o acórdão do Tribunal de Justiça de São Paulo para reconhecer ser legítima a imposição de garantia do juízo como requisito para suspensão da execução fiscal requer, necessariamente, o exame da legislação estadual, o que é vedado em sede de recurso especial, a teor do óbice contido no enunciado da Súmula 280 do STF.
+4. Dessa feita, a violação de lei federal, quando necessária análise da lei local para sua aferição, é reflexa, razão pela qual não cabe recurso especial, por incidência da referida súmula. Precedentes.
+5. Recurso especial não conhecido.
+(REsp 1.157.687/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/08/2010, DJe 10/09/2010).
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. RECURSO ESPECIAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO DO ART. 535, II, DO CPC.
+NÃO-OCORRÊNCIA. APELAÇÃO. PREPARO RECURSAL. DIFERIMENTO. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. VIOLAÇÃO REFLEXA DE LEI FEDERAL. APLICAÇÃO DA SÚMULA 280/STF. PRECEDENTES DO STJ.
+1. Não viola o art. 535, II, do CPC, nem importa negativa de prestação jurisdicional, o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pela vencida, adotou, entretanto, fundamentação suficiente para decidir de modo integral a questão controvertida.
+2. A controvérsia acerca da necessidade de preparo de recurso de apelação em embargos à execução no Estado de São Paulo demanda análise e interpretação de legislação estadual (Leis 4.952/85 e 11.608/03).
+3. Aplicação da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário." 4. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 800.271/SP, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 16/05/2006, DJ 01/06/2006, p. 165).
+PROCESSO CIVIL E ADMINISTRATIVO - PROAGRO - COBERTURA SECURITÁRIA - VIOLAÇÃO AO ART. 458 DO CPC - INEXISTÊNCIA - LEI 5.969/73 - VIOLAÇÃO REFLEXA.
+1. Inexiste nulidade na sentença concisa e objetiva que transcreve fundamentos da inicial e conclui, com base na prova dos autos, pela procedência do pedido, o mesmo ocorrendo com o acórdão recorrido.
+Violação ao art. 458 do CPC que se afasta.
+2. A previsão de que a comunicação das perdas deve ser feita no início do evento danoso está contida em norma infralegal (Manual de Crédito Rural - MCR), não passível de impugnação pela via do recurso especial. A possível violação à Lei 5.969/73, instituidora do Programa de Garantia da Atividade Agropecuária - PROAGRO, somente se daria por via reflexa.
+3. Recurso especial improvido.
+(REsp 438.786/DF, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 22/06/2004, DJ 20/09/2004, p. 230).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015, e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
