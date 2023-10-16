@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. REDUTOR DO §4º DO ART. 33 DA LEI DE DROGAS. AÇÕES PENAIS EM CURSO. MUDANÇA JURISPRUDENCIAL MAIS FAVORÁVEL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora o paciente seja primário e possua bons antecedentes, a minorante foi afastada com base na existência de ações penais em curso. Nesse diapasão, inexiste constrangimento ilegal na dosimetria da pena, uma vez que, à época da prolação da sentença condenatória (18/11/2013), era plenamente "possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006" (EREsp n. 1.431.091/SP, rel. Min. Felix Fischer, DJe de 1º/2/2017).
+2. Esta Corte já firmou a compreensão de que a mudança de entendimento jurisprudencial, superveniente ao trânsito em julgado da sentença condenatória, não autoriza a revisão da aplicação da pena.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental contra decisão que acolheu os embargos de declaração apenas para suprir a omissão apontada, sem efeitos infringentes, mantido o não conhecimento do recurso em habeas corpus.
+Sustenta o agravante constrangimento ilegal, em razão do afastamento da causa especial de redução de pena prevista na Lei n. 11.343/2006, ao fundamento de existência de ação penal em curso, não havendo, assim, fundamentação concreta para a negativa da minorante.
+Argumenta "que o FATO CRIMINOSO aconteceu no dia 05/06/2011 (e-STJ Fl. 15 e 16), enquanto a SENTENÇA vergastada, a qual não reconheceu o tráfico privilegiado, fora prolatada em 18/11/2013" (fl. 204).
+Requer a reconsideração da decisão ou a submissão do recurso ao colegiado para que seja provido, a fim de reconhecer a incidência da causa especial de diminuição da pena.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. REDUTOR DO §4º DO ART. 33 DA LEI DE DROGAS. AÇÕES PENAIS EM CURSO. MUDANÇA JURISPRUDENCIAL MAIS FAVORÁVEL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Embora o paciente seja primário e possua bons antecedentes, a minorante foi afastada com base na existência de ações penais em curso. Nesse diapasão, inexiste constrangimento ilegal na dosimetria da pena, uma vez que, à época da prolação da sentença condenatória (18/11/2013), era plenamente "possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006" (EREsp n. 1.431.091/SP, rel. Min. Felix Fischer, DJe de 1º/2/2017).
+2. Esta Corte já firmou a compreensão de que a mudança de entendimento jurisprudencial, superveniente ao trânsito em julgado da sentença condenatória, não autoriza a revisão da aplicação da pena.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada foi assim proferida (fls. 196-197):
+Assiste razão ao embargante quanto à presença de omissão na decisão.
+Na decisão embargada, o pedido principal trazido pela defesa no recurso ordinário, nos moldes em que formulado, não pôde ser conhecido, em razão da supressão de instância. Já o pedido subsidiário, no sentido de que se determinasse ao Tribunal a quo que conhecesse da impetração apresentada na origem, de fato, não foi analisado.
+Não obstante a ocorrência de omissão na decisão embargada, não há falar em retorno dos autos à Corte de origem.
+Com efeito, ao denegar a ordem lá impetrada, a Corte regional destacou (fl. 73):
+O que se pretende neste feito é a desconstituição dos efeitos da coisa julgada com fundamento na posterior alteração de entendimento jurisprudencial que é mais favorável ao sentenciado. Ocorre que a pacífica jurisprudência desta Corte rechaça a pretensão que visa à revisão de decisão já transitada em julgado com base na simples modificação da compreensão jurisprudencial de determinada controvérsia. Recurso desprovido. (STJ. AgRg. no HC. nº. 779.647/SC. Relª. Minª. Laurita Vaz. 6ª T. J. em 06.12.2022. DJe, edição do dia 15.12.2022);
+De fato, o acórdão recorrido encontra-se em harmonia com a orientação desta Corte, no sentido de que "Novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao Réu, não autoriza, por si só, a revisão do édito condenatório" (AgRg no HC n. 804.414/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/4/2023, DJe de 28/4/2023.) No mesmo sentido: AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022.
+Ante o exposto, acolho os embargos de declaração apenas para suprir a omissão apontada, sem efeitos infringentes, mantido o não conhecimento do recurso em habeas corpus.
+O § 4º do art. 33 da Lei n. 11.343/2006 dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de 1/6 a 2/3, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual do referido redutor, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+Extrai-se da transcrição supra que, embora o paciente seja primário e possua bons antecedentes, a minorante foi afastada com base na existência de ações penais em curso. Nesse diapasão, inexiste constrangimento ilegal na dosimetria da pena, uma vez que, à época da prolação da sentença condenatória, era plenamente "possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006" (EREsp n. 1.431.091/SP, rel. Min. Felix Fischer, DJe de 1º/2/2017).
+Apenas recentemente a Sexta Turma do Superior Tribunal de Justiça alterou seu posicionamento sobre o tema, e decidiu pela impossibilidade de serem utilizadas ações penais em curso, isoladamente, para afastar o benefício.
+Assim, consoante consignado, as alegações da defesa sequer ultrapassam o conhecimento, uma vez que esta Corte já firmou a compreensão de que a mudança de entendimento jurisprudencial, superveniente ao trânsito em julgado da sentença condenatória, não autoriza a revisão da aplicação da pena. Nesse sentido:
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. MUDANÇA JURISPRUDENCIAL MAIS FAVORÁVEL. APLICAÇÃO DA PENA NO TRÁFICO DE DROGAS. IMPOSSIBILIDADE DE UTILIZAÇÃO DA VIA REVISIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme assentado recentemente pela Terceira Seção desta Corte (RvCr n. 5620/SP, julgado em 14/6/2023), a modificação da jurisprudência em relação aos critérios de fixação da pena, para entendimento mais favorável ao réu, após o trânsito em julgado de sua condenação, não autoriza o uso da revisão criminal.
+2. Agravo regimental não provido.
+(AgRg na RvCr n. 5.637/DF, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 3/8/2023, DJe de 8/8/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
