@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO AGRAVO.
+INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. Rever a conclusão da Corte local quanto à inexistência de dano moral exigiria o reexame de todo o acervo fático e probatório dos autos, providencia que esbarra no disposto na Súmula 7 do STJ. Precedentes.
+2. Agravo interno provido, para reconsiderar a decisão singular anteriormente proferida e, de plano, conhecer do agravo para não conhecer do recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por COMPANHIA SIDERÚRGICA NACIONAL - CSN, em face de decisão monocrática de lavra da Presidência do STJ (fls. 621/622, e-STJ), que não conheceu do agravo da ora insurgente.
+O apelo nobre desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 557/558, e-STJ):
+APELAÇÃO. INDENIZAÇÃO DECORRENTE DE CONTRATO DE ALUGUEL NÃO RESIDENCIAL. MULTA CONTRATUAL JÁ INSERIDA NA CONDENAÇÃO. FALTA DE INTERESSE RECURSAL. DANOS MORAIS NÃO CONFIGURADOS. INEXISTÊNCIA DE MÁCULA À PESSOA JURÍDICA. Pretensão de ressarcimento de prejuízos materiais advindos de contrato de aluguel, além de compensação por danos morais. A sentença julgou procedente em parte o pedido e condenou o réu ao pagamento dos aluguéis e demais encargos contratuais relativos aos meses de junho e julho de 2012, todos os encargos locatícios decorrentes do período necessário para reparação do imóvel (60 dias), e danos materiais no valor de R$ 123.300,00. Apela a autora com pretensão de reforma para que o réu seja condenado na multa contratual de 10% prevista pela cláusula quinta do contrato de locação referente ao atraso dos aluguéis, além de reconhecimento do dano moral. Ausência de interesse quanto a multa, eis que já inserida no pedido e acolhida pela sentença. Dano moral ausente, em razão de falta de comprovação nos autos de violação à honra objetiva da Pessoa Jurídica decorrente dos prejuízos materiais sofridos em decorrência de contrato de locação. RECURSODESPROVIDO.
+Nas razões de recurso especial (fls. 569/581, e-STJ), a agravante apontou ofensa aos artigos 186 e 927 do CC, sustentando, em suma, o cabimento de indenização por dano moral.
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 591/593, e-STJ), o Tribunal de origem inadmitiu o recurso especial, em razão da incidência da Súmula 7 do STJ.
+Inconformada, a insurgente apresentou agravo em recurso especial (fls. 599/607, e-STJ), sustentando a viabilidade do apelo.
+Em decisão monocrática (fls. 621/622, e-STJ), o recurso não foi conhecido, ante a incidência da Súmula 182 do STJ.
+Daí o presente agravo interno (fls. 626/632, e-STJ), no qual a agravante se insurge contra os fundamentos da decisão impugnada, sustentando que impugnou todos os pontos da decisão que não admitiu o recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO AGRAVO.
+INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1. Rever a conclusão da Corte local quanto à inexistência de dano moral exigiria o reexame de todo o acervo fático e probatório dos autos, providencia que esbarra no disposto na Súmula 7 do STJ. Precedentes.
+2. Agravo interno provido, para reconsiderar a decisão singular anteriormente proferida e, de plano, conhecer do agravo para não conhecer do recurso especial.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno merece acolhimento, porquanto a incidência da Súmula 7 do STJ foi devidamente impugnada nas razões do agravo em recurso especial.
+Reconsidero, portanto, a decisão singular ora agravada (fls. 621/622, e-STJ) e passo, de pronto, a nova apreciação das razões recursais.
+1. A agravante se insurge contra a ausência de reconhecimento de dano moral na hipótese.
+Quanto ao ponto, concluiu a Corte local (fl. 566, e-STJ):
+In casu, em que pese devidos os prejuízos materiais em decorrência de contrato de locação, tais fatos em si não atingiram sua honra objetiva uma vez que não há demonstração de negativação do nome da empresa, não havendo comprovação de afetação do seu nome e tradição de mercado, com repercussão econômica, à sua honra objetiva perante seus fornecedores. Os fatos narrados causaram dissabores que, contudo, não tem o condão de ferir sua honra objetiva, tratando-se de mero aborrecimento cotidiano e descumprimento contratual, não passíveis de indenização, merecendo ser mantida a improcedência quanto a indenização extrapatrimonial.
+Como se verifica, o órgão julgador rejeitou a alegação de dano moral, reconhecendo que não houve ofensa à honra objetiva da empresa.
+Nesse contexto, o acolhimento da pretensão recursal exigiria o reexame de todo o acervo fático e probatório dos autos, providencia que esbarra no disposto na Súmula 7 do STJ.
+Nesse sentido, precedentes:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VÍTIMA PESSOA JURÍDICA. SUPOSTO ILÍCITO PRATICADO INTERNA CORPORIS. DANOS MORAIS NÃO CARACTERIZADOS (SÚMULA 7/STJ). AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. 1. A decisão agravada merece ser reconsiderada, uma vez que há dialeticidade recursal apta ao conhecimento do agravo em recurso especial. 2. Segundo o entendimento desta Corte, para a pessoa jurídica, o dano moral é fenômeno distinto daquele relacionado à pessoa natural, não se admitindo o dano moral em si mesmo, como decorrência intrínseca à existência de ato ilícito, devendo haver a demonstração do prejuízo extrapatrimonial. Precedentes. 3. Na hipótese, as instâncias ordinárias entenderam não ter havido dano moral à sociedade empresária, notadamente pelo fato de o ato praticado pelo réu, quando empregado da autora, ter ocorrido no âmbito interno da empregadora, sem repercussão desabonadora externa, tampouco mácula à honra objetiva da pessoa jurídica. A modificação de tal entendimento demandaria o reexame do conjunto fático-probatório, providência vedada no recurso especial, nos termos da Súmula 7 do STJ. 4. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para não conhecer do recurso especial. (AgInt no AREsp n. 1.809.643/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/2/2022, DJe de 9/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDANTE. 1. Nos termos da Súmula 518 desta Corte Superior, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula". 2. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a não comprovação dos danos materiais alegados pelas recorrentes, bem como dos danos morais à pessoa jurídica. Incidência da Súmula 7/STJ. 3. Agravo interno desprovido. (AgInt no AREsp n. 426.527/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 1/6/2020, DJe de 10/6/2020.)
+Logo, de rigor a incidência da Súmula 7 do STJ.
+2. Do exposto, dá-se provimento ao agravo interno, para reconsiderar a decisão singular de fls. 621/622 (e-STJ) e, de plano, conhecer do agravo para não conhecer do recurso especial.
+É como voto.
