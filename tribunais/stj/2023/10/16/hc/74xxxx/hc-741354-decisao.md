@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARIO LUIZ MALAGUTTI apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - HC n. 2003223-58.2022.8.26.0000.
+Depreende-se dos autos que o paciente foi pronunciado por infração ao art. 121, caput, do Código Penal - homicídio simples -, pois, aos 4/10/2015, agindo com dolo eventual, por dirigir veículo automotor, embriagado, causou a morte de Marcos Roberto Fracaroli
+Irresignada, a defesa impetrou habeas corpus perante a Corte de origem sustentando a nulidade da sentença de pronúncia. Em decisão monocrática, a ordem foi indeferida liminarmente.
+No julgamento do agravo regimental, o Tribunal a quo negou provimento ao recurso, nos termos da seguinte ementa (e-STJ fl. 70):
+AGRAVO REGIMENTAL EM HABEAS CORPUS.
+Decisão monocrática que indeferiu liminarmente o writ, com base no artigo 168, § 3º, do RITJSP e do artigo 666 do CPP. Pedido de declaração de nulidade da r. decisão que manteve a sentença de pronúncia. Impossibilidade. Ausência de violação aos princípios da colegialidade e do duplo grau de jurisdição. Salvo hipóteses excepcionalíssimas de flagrante ilegalidade, abuso de poder ou teratologia, o habeas corpus não pode ser manejado para solução de questões fático-probatórias intrínsecas à sentença de pronúncia, sob pena de desvirtuamento da finalidade da ação mandamental, transformando-a em verdadeira substituta de recursos legalmente previstos para impugnar determinadas decisões judiciais. A questão posta demanda análise que foge aos estreitos limites do remédio heroico. Ademais, esta C. Corte já confirmou a r. sentença de pronúncia objurgada, inexistindo novos elementos a justificar reanálise que, outrossim, não seria da competência deste Sodalício. Agravo improvido.
+Nas razões do presente writ, a defesa afirma que, pouco mais de 2 (dois) anos após o acidente, a Lei n. 13.546/2017 introduziu o § 3º no art. 302 do Código de Trânsito Brasileiro, tipificando conduta de quem, conduzindo veículo automotor, sob influência de álcool, comete a figura do homicídio culposo no trânsito qualificado pela embriaguez ao volante, cuja pena prevista é de reclusão - de 5 a 8 anos - e suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor.
+Busca, assim, a submissão do "PACIENTE a julgamento pela lei posterior que o favorece, ou seja, a de nº 13.546, de 19 de dezembro de 2017 , que introduziu o parágrafo terceiro no artigo 302, caput, do Código de Trânsito Brasileiro, remetendo-se o processo para julgamento pelo Juiz singular" (e-STJ fl. 15).
+Indeferida a liminar (e-STJ fls. 94/95) e prestadas as informações (e-STJ fls. 98/102 e 104/125), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ fl. 129):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO AO VOLANTE. DIRIGIR EMBRIAGADO. DOLO EVENTUAL. DESCLASSIFICAÇÃO PARA HOMICÍDIO CULPOSO (ART. 302, §3º, DO CTB). IMPOSSIBILIDADE. PARECER PELO NÃO CONHECIMENTO DA IMPETRAÇÃO; ALTERNATIVAMENTE, PELA DENEGAÇÃO DA ORDEM.
+1. "A aferição da existência ou da ausência do elemento subjetivo da infração, para a desclassificação do delito de homicídio qualificado para duplo homicídio culposo na direção de veículo automotor, art.302 da Lei n. 9.503/1997 (Código de Trânsito Brasileiro), demanda o revolvimento da prova produzida, o que não é possível em habeas corpus substitutivo de recurso especial.";
+2. Nenhum reflexo trouxe a Lei 13.546, de 19/12/2017, ao introduzir parágrafo terceiro no art. 302, caput, do CTB, uma vez que reportada lei apenas alterou o dispositivo que tipifica o crime culposo, enquanto, no presente caso, a conclusão a que chegaram o Ministério Público do Estado Estadual e o Juízo singular foi a de que a condutado Paciente foi dolosa, não culposa, por um conjunto de fatores, que não só a embriaguez, como, por exemplo, velocidade excessiva;
+3. Parecer pelo não conhecimento do habeas corpus; alternativamente, pela denegação da ordem.
+É o relatório.
+Decido.
+O habeas corpus não merece ser conhecido.
+É que a presente irresignação é idêntica à postulada no habeas corpus anteriormente dirigido a esta Corte (HC n. 738068/SP), também impetrado em favor do ora paciente e contra o mesmo acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2003223-58.2022.8.26.0000/50000, sendo ainda idênticos o pedido e a causa de pedir.
+Naquele writ, a liminar foi indeferida em 28/4/2022. Em decisão proferida aos 6/10/2023, não conheci da ordem, sob os seguintes fundamentos:
+O habeas corpus está prejudicado.
+Isto porque, em consulta ao sítio do Tribunal de Justiça do Estado de São Paulo, aos 08/07/2022, foi proferida sentença condenando o paciente à pena de 11 anos, 01 mês e 11 dias de reclusão, como incurso no art. 121, caput, do Código Penal.
+E, interposta apelação, a Corte de origem, aos 09/03/2023, proveu em parte o recurso, para mitigar a reprimenda para 8 anos de reclusão, mantida, no mais, a r. sentença, em acórdão assim ementado:
+ ..
+Ora, de acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença condenatória prejudica a pretensão de nulidade da sentença de pronúncia.
+ ..
+No mais, " a  superveniência de nova legislação, no curso do processo de conhecimento, criando a figura do homicídio culposo praticado por condutor de veículo sob a influência de álcool, não admite a aplicação imediata da lei mais benéfica àqueles que dirigiam embriagados ou sob efeito de substâncias psicoativas e se envolveram em homicídio no trânsito qualificado, nas instâncias ordinárias, como doloso (dolo eventual)  ..  (AgRg no HC n. 685.252/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/9/2021, DJe de 27/9/2021.)
+Diante do exposto, não conheço do habeas corpus.
+.
+Assim, o proceder da defesa caracteriza mera reiteração de pedido já apreciado, pois já prestada a tutela jurisdicional por esta Corte Superior e inviável a dupla apreciação da matéria.
+No mesmo sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DE PEDIDOS JÁ FORMULADOS NO HABEAS CORPUS N. 701.258/RS, PREVIAMENTE IMPETRADO NO STJ. DESCABIMENTO. CONTEMPORANEIDADE. POSSIBILIDADE. MANUTENÇÃO DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO.
+1. Não há falar em ofensa ao princípio da colegialidade, em razão de se ter negado provimento ao recurso por meio de decisão unipessoal, pois o art. 210 do RISTJ dispõe que, quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente.
+2. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+3. No caso, a fundamentação da segregação cautelar já foi analisada no writ previamente impetrado perante esta Corte Superior de Justiça, tendo sido por mim asseverado que o delito  foi  cometido com notas de execução, com envolvimento de facções criminosas e que os agentes apresentam diversidade de antecedentes criminais, o que representa fundamento concreto para a manutenção da prisão cautelar.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 161.267/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. APROPRIAÇÃO INDÉBITA. CONDENAÇÃO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MERA REITERAÇÃO DE MANDAMUS JÁ JULGADO POR ESTA CORTE SUPERIOR. INADMISSIBILIDADE. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA PARA ANÁLISE DE INSURGÊNCIA CONTRA SEUS PRÓPRIOS JULGADOS. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos formulados no HC 700.113/PR, o qual, não foi conhecido em decisão por mim proferida em 16/10/2021, após o que foram rejeitados os embargos de declaração opostos. Verifica-se que ambas as impetrações se insurgem contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0010907-90.2018.8.16.0031 e trazem as mesmas alegações.
+2. Esta Corte Superior não é competente para julgamento das insurgências contra seus próprios julgados, razão pela qual não há falar em conhecimento da impugnação relativa ao julgamento do HC 700.113/PR.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 733.916/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1 7/5/2022, DJe de 19/5/2022, grifei.)
+Diante do exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
