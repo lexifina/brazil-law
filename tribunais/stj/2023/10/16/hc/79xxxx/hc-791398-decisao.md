@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRE REIS contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado às penas de 06 (seis) meses de detenção, em regime inicial aberto, e 10 (dez) dias-multa, além de 02 (dois) meses de suspensão do direito de dirigir, por infração ao artigo 306, § 1º, II, da Lei 9.503/2007, substituída a reprimenda por uma restritiva de direito, consistente em prestação pecuniária, conforme a sentença de fls. 291-297.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que, por maioria, negou provimento ao apelo, nos termos do acórdão juntado às fls. 418-425.
+Opostos embargos infringentes e de nulidade perante a Corte de origem, foram rejeitados, conforme o acórdão de fls. 465-468.
+No presente writ, o impetrante sustenta que "É ilegal a fixação da pena de prestação pecuniária no valor de R$ 2.175,00 sem fundamentação concreta. E o fato de o agente ter prestado fiança no mesmo valor, em momento de coação, não é fundamento suficiente para fixar a pena acima do mínimo legal."
+Requer, ao final, a concessão da liminar para suspender os efeitos da condenação até o julgamento deste writ. No mérito, requer a concessão da ordem para reduzir o valor da pena de prestação pecuniária para o mínimo legal, equivalente a um salário-mínimo, vigente à época do fato e, por consequência, declarar extinta a pena por seu integral cumprimento, nos termos do art. 336 do CPP.
+O pedido liminar foi indeferido às fls. 484-485.
+Informações prestadas às fls. 488-525.
+O Ministério Público Federal, às fls. 527-531, opinou pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na suposta ilegalidade no montante fixado a título de prestação pecuniária, ao argumento de que não houve fundamentação idônea para tanto.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+O art. 44, § 2º, do Código Penal, prevê que, "Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos".
+Já o art. 45, §1º, do Código Penal, determina que "a prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários".
+Ressalto, ainda, que "A pena restritiva de direitos consistente na prestação pecuniária deve ser calculada com base no valor do salário mínimo vigente à época do pagamento. Precedentes" (EDcl no HC n. 529.379/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 16/3/2020).
+Ademais, este Superior Tribunal de Justiça tem entendido que, fixada a pena corporal nos patamares delineados no art. 44, § 2º, do Código Penal, compete ao julgador a escolha fundamentada do modo de aplicação da benesse legal (AgRg no HC 644.371/SC, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 31/05/2021).
+No presente caso, a pena privativa de liberdade do paciente foi substituída por uma prestação pecuniária, representada pela perda da fiança e dos seus acréscimos legais.
+Como se observa, o Tribunal de origem consignou que a fixação do montante da prestação pecuniária observou a maior reprovabilidade da conduta, bem como as condições financeiras do paciente.
+Nesse sentido, atestou que a conduta reclama maior reprovabilidade, uma vez que, ao conduzir embriagado um veículo de grande porte, o paciente ainda colidiu, efetivamente, em um poste de energia elétrica, causando danos concretos a bem público.
+Concluiu também, de forma fundamentada, que o valor fixado é proporcional à capacidade econômica do paciente, que possuía renda mensal de R$ 1.600,00 (mil e seiscentos reais), tendo pago o valor arbitrado a título de fiança, já no dia seguinte, indicando que o valor não destoa de suas capacidades financeiras.
+Assim, a fundamentação do acórdão impugnado é idônea e adequada ao valor da prestação pecuniária.
+Não se pode perder de vista que "A prestação pecuniária possui caráter sancionatório e visa atingir a finalidade reparadora. Sua fixação não está vinculada ao quantum de pena privativa de liberdade, apesar de ser observada a capacidade/razoabilidade de ser cumprida" (AgRg no AgRg no EDcl no AREsp n. 1666649/PR, Sexta Turma, Rel. Ministro Rogério Schietti Cruz, DJe 4/8/2020), tal qual ocorreu no presente caso.
+Nesse contexto, para desconstituir as conclusões alcançadas pelas instâncias ordinárias, com fundamento em exame do conjunto fático-probatório carreado aos autos, para o fim de reduzir o valor da prestação pecuniária, com base na sua alegada desproporcionalidade, seria necessário o revolvimento do conjunto probatório, providência vedada na via estreita do habeas corpus.
+A propósito: AgRg no HC n. 725.461/SC, Sexta Turma, Rel. Ministro Olindo Menezes (Desembargador Convocado d o TRF 1ª Região), DJe de 10/6/2022; AgRg no AREsp n. 1.885.974/SC, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 25/10/2021; e AgRg no REsp n. 1.854.277/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 31/8/2020.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
