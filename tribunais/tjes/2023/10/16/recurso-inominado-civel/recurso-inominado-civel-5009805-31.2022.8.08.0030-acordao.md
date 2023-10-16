@@ -1,0 +1,76 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5009805-31.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: DECOLAR. COM LTDA.
+RECORRIDO: TRANSPORTES AEREOS PORTUGUESES SA e outros (3)
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5009805-31.2022.8.08.0030
+Origem
+: Juízo de Linhares - 1º Juizado Especial Cível
+RECORRENTE
+: DECOLAR. COM LTDA.
+RECORRIDOS
+: WASHINGTON ANTONIO OLIVEIRA GOMES, VICTOR ALEX NASCIMENTO TRINDADE, LUCIANA LIMA DE ARAUJO TRINDADE
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA. DIREITO DO CONSUMIDOR. AÉREO. VIAGEM PARA PARTICIPAÇÃO NOS JOGOS MUNDIAIS DE POLÍCIA E BOMBEIROS DE 2022. CANCELAMENTO DE PASSAGENS AÉREAS A PEDIDO DOS AUTORES. NÃO DEVOLUÇÃO DOS VALORES PAGOS. PUGNAM OS AUTORES PELA CONDENAÇÃO DAS RÉS AO PAGAMENTO DE DANOS MATERIAIS E MORAIS.
+SENTENÇA DE PARCIAL PROCEDÊNCIA.
+RECURSO INOMINADO INTERPOSTO PELA PARTE RÉ “DECOLAR.COM LTDA”. EM RELAÇÃO À PRELIMINAR DE ILEGITIMIDADE PASSIVA, RENOVADA NAS RAZÕES RECURSAIS, ADOTA-SE A FUNDAMENTAÇÃO DE REJEIÇÃO LANÇADA NA SENTENÇA GUERREADA, COM BASE NO ART. 46 DA LEI 9.099/95. DO MÉRITO. OS AUTORES COMPROVARAM QUE O CANCELAMENTO DAS PASSAGENS AÉREAS FOI SOLICITADO EM RAZÃO DO DESCOBRIMENTO DE DOENÇA (câncer) DO 2º AUTOR (Victor Alex Nascimento Trindade). CONSIDERANDO QUE A 3ª AUTORA É ESPOSA DO 2º AUTOR, E QUE O 1º AUTOR FARIA DUPLA COM O SR. VICTOR NOS JOGOS DE VÔLEI DO ALUDIDO EVENTO ESPORTIVO, RESTA JUSTIFICADO O CANCELAMENTO DAS PASSAGENS. ALÉM DISSO, O PEDIDO DE CANCELAMENTO FOI REALIZADO COM ANTECEDÊNCIA DE 07 DIAS, DE MODO QUE A NÃO DEVOLUÇÃO DOS VALORES PAGOS PELOS AUTORES CAUSARIA O ENRIQUECIMENTO SEM CAUSA DAS RÉS, CONFORME ACERTADO PELO JUÍZO SENTENCIANTE. COMPROVAÇÃO DE PAGAMENTO DA QUANTIA DE
+R$18.733,93 (DEZOITO MIL, SETECENTOS E TRINTA E TRÊS REAIS E NOVENTA E TRÊS CENTAVOS) REFERENTE ÀS PASSAGENS AÉREAS
+. RESTITUIÇÃO DEVIDA A TÍTULO D
+E DANOS MATERIAIS. POR FIM, A
+SITUAÇÃO DOS AUTOS NÃO PODE SER TIDA COMO MERO DISSABOR DO COTIDIANO. CONFIGURADA, PORTANTO, A LESÃO INDENIZÁVEL EXTRAPATRIMONIAL.
+
+NO QUE SE REFERE AO
+QUANTUM
+INDENIZATÓRIO, O VALOR ARBITRADO SE ENCONTRA DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO DA VERBA INDENIZATÓRIA, A TÍTULO DE DANOS MORAIS, NO IMPORTE DE R$ 5.000,00 (cinco mil reais) PARA CADA AUTOR, POR ESTAR EM CONSONÂNCIA COM AS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. DA CONCLUSÃO.
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL
+, CONDENA-SE A PARTE RÉ/RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% (dez por cento) SOBRE O VALOR DA CONDENAÇÃO
+
+OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA
+(ART. 55
+DA LEI 9.099/95)
+.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
