@@ -1,0 +1,13 @@
+DECISÃO
+A paciente, condenada por homicídio qualificado (art. 121, §2º, I, III e IV c/c o art. 305, do Código Penal), alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrante busca o restabelecimento da decisão que deferiu o resgate do regime fechado em prisão domiciliar, por ser mãe de filhos menores.
+Decido.
+O habeas corpus está deficientemente instruído. Não consta cópia da sentença, da guia penal e, o mais importante, da decisão de primeiro grau, que a defesa busca restabelecer. Nem sequer é possível estabelecer se a condenação a 14 anos de 3 meses de reclusão transitou em julgado.
+Além disso, a pretensão é contrária à jurisprudência desta Corte, pois a prática de crime violento (homicídio) é circunstância que impede a automática concessão da prisão domiciliar às mães de filhos menores de 12 anos.
+Na hipótese das mais graves condutas contrárias ao direito, porque reveladoras de periculosidade exacerbada, até mesmo o art. 318-A do CPP e o habeas corpus coletivo concedido pelo Supremo Tribunal Federal excepcionam a possibilidade do benefício.
+Deveras: "não satisfeitos os requisitos do art. 318-A do Código de Processo Penal para a concessão da prisão domiciliar, na medida em que a agravante se encontra em cumprimento de pena definitiva  ..  este último cometido com violência  .. ", "as circunstâncias do caso concreto encontram-se entre as exceções proferidas pelo STF, quando então não será possível a concessão do benefício ora pretendido" (AgRg no HC n. 614.029/SP, relator Ministro Ribeiro Dantas, 5ª T., DJe 3/11/2020).
+Ilustrativamente: "a prática de crime violento (homicídio) impede a concessão da prisão domiciliar às mães de filhos menores de 12 anos. A invocação genérica da maternidade não as exime de cumprir a sanção penal, nos moldes legais e em estabelecimento próprio. 4. Na hipótese das mais graves condutas contrárias ao direito, porque reveladoras de periculosidade exacerbada, até mesmo o art. 318-A do CPP e habeas corpus coletivo concedido pelo Supremo Tribunal Federal excepcionam a possibilidade de deferimento da prisão domiciliar.5. Agravo regimental não provido.(AgRg no HC n. 781.979/PR, relator Ministro Rogerio Schietti, 6ª T., DJe 30/3/2023).
+Ainda que a condenação não seja definitiva, "nos termos do art. 318-A do Código de Processo Penal, a prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que não tenha cometido crime com violência ou grave ameaça à pessoa" (HC n. 568.436/GO, relatora Ministra Laurita Vaz, 6ª T., DJe 3/6/2020).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
