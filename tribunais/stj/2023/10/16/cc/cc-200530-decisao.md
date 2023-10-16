@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que são suscitantes VIA CAPITALIZAÇÃO S.A. e HEALTHPAR ADMINISTRAÇÃO E PARTICIPAÇÕES S.A. e suscitados o JUÍZO DE DIREITO DA VARA DE EMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE - RS e o JUÍZO DE DIREITO DA 9ª VARA CÍVEL DE PORTO ALEGRE - RS.
+Ação em trâmite no Juízo da Vara Empresarial, Recuperação de Empresas e Falências de Porto Alegre - RS: falência da ASSOCIAÇÃO DOS PROFISSIONAIS LIBERAIS UNIVERSITÁRIOS DO BRASIL - APLUB PREV.
+Ação em trâmite no Juízo da 9ª Vara Cível de Porto Alegre - RS: ação ordinária ajuizada por PROMOAM AMAZONAS PRESTAÇÃO DE SERVIÇOS DE DISTRIBUIÇÃO LTDA.
+Conflito de competência: alegam, em síntese, que a APLUB CAPITALIZAÇÃO S.A. (atual VIA CAPITALIZAÇÃO) compunha os ativos da massa falida APLUB PREV, tendo sido levada a leilão judicial, nos autos da falência e arrematada por HEALTHPAR ADMINISTRAÇÃO E PARTICIPAÇÕES S.A., livre de qualquer ônus, de modo que "todo o passivo anterior à alienação judicial da suscitante, por disposição da Vara de Falências,  ..  é de responsabilidade da massa falida da Aplub Prev" (e-STJ, fl. 7). Defendem, assim, que o redirecionamento da execução acaba por burlar o concurso de credores e usurpar a competência legal do juízo falimentar. Pleiteiam seja concedia tutela de urgência para "proibir a constrição de valores a parte autora até efetiva decisão de mérito do presente conflito de competência" (e-STJ fl. 12).
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos do que dispõe o artigo 105, I, "d", da Constituição da República, compete ao Superior Tribunal de Justiça o processamento e julgamento de conflitos de competência envolvendo juízos vinculados a Tribunais diversos.
+Na hipótese dos autos, todavia, trata-se de incidente deduzido entre o Juízo da Vara Empresarial, Recuperação de Empresas e Falências de Porto Alegre e o Juízo da 9ª Vara Cível de Porto Alegre , ambos vinculados ao mesmo Tribunal de Justiça do Estado do Rio Grande do Sul, circunstância que afasta a competência deste Tribunal Superior para a sua análise. A propósito: AgInt no CC 194.933/MG, Primeira Seção, DJe 19/5/2023; AgInt no CC 191.918/DF, Segunda Seção, DJe 15/3/2023.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
