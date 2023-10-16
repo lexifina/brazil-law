@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 10/10/2023 a 16/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. VÍCIOS NOS ATOS CONSTITUTIVOS DE CONGREGAÇÃO RELIGIOSA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. JULGAMENTO FORA OU ALÉM DO PEDIDO. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação declaratória de nulidade em razão de vícios nos atos constitutivos de congregação religiosa.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não ocorre julgamento fora ou além do pedido quando não há afronta aos limites objetivos do pedido e o resultado da decisão é uma decorrência lógica dos fatos e fundamentos expostos na exordial. Precedentes.
+6. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CLAUDINEI LEITE DA SILVA contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa parte, negar-lhe provimento, pelos seguintes fundamentos: não cabimento por violação de dispositivo constitucional; incidência da Súmula 282/STF; ausência de cotejo analítico e similitude fática na demonstração do dissídio jurisprudencial; e harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Ação: declaratória de nulidade, ajuizada por CONGREGACAO CRISTA NO BRASIL, em face do agravante, em razão de vícios nos atos constitutivos de congregação religiosa.
+Sentença: julgou procedente o pedido, para declarar como pertencentes à congregação local de Bragança da Congregação Cristã do Brasil os templos de cultos adquiridos ou edificados com base nas contribuições dos fiéis dessa organização religiosa; impor ao agravante abstenção de toda e qualquer conduta voltada para impedir a utilização dos templos pelos fiéis da confissão religiosa agravada, bem como de praticar qualquer ato em nome da organização; e determinar o cancelamento do registro da ata da assembleia geral que elegeu o agravante presidente da congregação.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+DIREITO PRIVADO. DIREITO CIVIL. VÍCIO NOS ATOS CONSTITUTIVOS DE CONGREGAÇÃO RELIGIOSA. AÇÃO DECLARATÓRIA DE NULIDADE. SENTENÇA DE PROCEDÊNCIA DOS PEDIDOS. RECURSO DE APELAÇÃO. AGRAVO RETIDO PREJUDICADO. RECURSO DE APELAÇÃO. AUSÊNCIA DE VIOLAÇÃO DO ART. 141 DO CPC. SENTENÇA QUE SE ATEVE AOS LIMITES PROPOSTOS NA CONTENDA. DECISÃO EXTRA OU ULTRA PETITA INOCORRENTE. INSTITUIÇÃO DE ADMINISTRAÇÃO EM BRAGANÇA. NATUREZA LOCAL E NÃO REGIONAL. VINCULAÇÃO À ADMINISTRAÇÃO DE BELÉM, EX VI DA DELIBERAÇÃO DA ASSEMBLEIA GERAL EXTRAORDINÁRIA E DAS DISPOSIÇÕES ESTATUTÁRIAS MATRIZES. INOBSERVÂNCIA PELA PARTE APELADA.
+SENTENÇA MANTIDA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. CPC, ART. 85, § 11. RECURSO COHECIDO E DESPROVIDO.
+Recurso especial: alega violação dos arts. 5º, VI, da CF, 44, IV, §1º, do CC/02, e 492 do CPC/15, bem como dissídio jurisprudencial. Sustenta que: i) deve ser respeitado o livre exercício de culto e seus locais; ii) as organizações religiosas possuem liberdade para sua criação, organização, estruturação interna e funcionamento; iii) segundo o princípio da adstrição, o juiz não pode surpreender as partes de modo a prejudicar seu direito de defesa, devendo vincular o julgamento com o pedido.
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial interposto pelo agravante e, nessa parte, negar-lhe provimento.
+Agravo interno: em suas razões, o agravante afirma que: i) os mandamentos contidos na Carta Magna foram referidos no recurso especial apenas como reforço argumentativo, porquanto a essência do reclamo cinge-se na violação dos arts. 40 e 44 do CC/02; ii) inexiste a imposição de que a lei federal tida como ofendida seja explicitamente mencionada, exigindo-se tão somente que o acórdão recorrido tenha decidido acerca do tema; iii) o cotejo foi realizado da forma como impõe as normas cogentes, entendendo-se como configurado o dissídio jurisprudencial; iv) o provimento judicial havido em 1º grau de jurisdição e confirmado em grau recursal transborda sobremaneira ao pleiteado pela agravada, resultando em julgamento fora do pedido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. VÍCIOS NOS ATOS CONSTITUTIVOS DE CONGREGAÇÃO RELIGIOSA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. JULGAMENTO FORA OU ALÉM DO PEDIDO. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação declaratória de nulidade em razão de vícios nos atos constitutivos de congregação religiosa.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não ocorre julgamento fora ou além do pedido quando não há afronta aos limites objetivos do pedido e o resultado da decisão é uma decorrência lógica dos fatos e fundamentos expostos na exordial. Precedentes.
+6. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, ante o não cabimento por violação de dispositivo constitucional; a incidência da Súmula 282/STF; a ausência de cotejo analítico e similitude fática na demonstração do dissídio jurisprudencial; e a harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+1. Da violação de dispositivo constitucional
+Verifica-se que o agravante alegou a violação do art. 5º, VI, da CF. Entretanto, conforme consignado na decisão agravada, não cabe a este Tribunal a apreciação de eventual ofensa a súmula, a dispositivo constitucional ou a qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Da ausência de prequestionamento
+O art. 44, IV, §1º, do CC/02, não foi objeto de expresso prequestionamento pelo Tribunal de origem, o que importa na incidência do óbice da Súmula 282/STF.
+Saliente-se, outrossim, que a parte agravante sequer interpôs embargos de declaração contra o acórdão recorrido para que o Tribunal de origem se manifestasse acerca do dispositivo.
+3. Da divergência jurisprudencial
+Com relação ao dissídio jurisprudencial, não pode ser tido como demonstrado da forma devida, pois, para sua caracterização, não basta a transcrição de ementas e trechos dos acórdãos paradigmas. Também é necessário que se aponte e explicite por que os casos são semelhantes e qual é a proximidade fática entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese dos autos.
+4. Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+Por fim, o TJ/PA entendeu pela inexistência de julgamento fora ou além do pedido, concluindo ser evidente que o juiz se ateve exclusivamente ao quanto pleiteado inicialmente, de maneira que até mesmo a declaração de pertencimento à Congregação Cristã no Brasil - Bragança dos templos de cultos adquiridos ou edificados com base nas contribuições de fiéis dessa organização religiosa, não expressamente requerido na inicial, observou o princípio da congruência, pois lógica e sistematicamente consentâneo com o contexto geral da petição inicial e com a natureza dos demais pedidos.
+Portanto, o Tribunal de origem aplicou de forma adequada a jurisprudência do STJ no sentido de que não ocorre julgamento fora ou além do pedido quando não há afronta aos limites objetivos do pedido e o resultado da decisão é uma decorrência lógica dos fatos e fundamentos expostos na exordial (AgInt no AREsp 1.263.748/MG, 3ª Turma, DJe de 13/8/2018; e AgInt no AREsp 667.492/MS, 4ª Turma, DJe de 30/4/2018).
+O agravante não trouxe qualquer argumento novo capaz de demonstrar, de forma consistente, que os precedentes indicados não se aplicam à hipótese dos autos ou foram superados.
+Assim, a decisão monocrática deve ser mantida.
+DISPOSITIVO
+Forte nessa s razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
