@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSTRUTORA H. M. LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSO CIVIL. APELAÇÃO. RESPONSABILIDADE CIVIL. CONTRATO ENTRE PARTICULARES. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. DIREITO DE PROVA DAS PARTES. SENTENÇA ANULADA. APELO PROVIDO. NECESSIDADE DE DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Quanto à controvérsia, a parte recorrente alega violação do art. 2º do CDC, no que concerne à anulação do acórdão recorrido, visto que apesar de negar a aplicação da legislação consumerista, utiliza o código do consumidor para condenar o recorrente, inclusive com a inversão do ônus da prova, trazendo a seguinte argumentação:
+Ora, o acórdão nega a aplicação do CDC, mas ao mesmo tempo mantém parte da sentença que inverteu o ônus da prova utilizando o CDC.
+ ..
+Importante registrar que, em que pese o acórdão corretamente negar aplicação do CDC, manteve parte da sentença que utiliza o CDC para condenar o recorrente, inclusive com inversão do ônus da prova.
+Não há incidência do CDC já que o recorrido não é destinatário final (fls. 387-388).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O caso em epígrafe se trata de uma típica relação entre particulares e por essa razão não deve ser regido e analisado à luz do CDC, principalmente quanto a inversão automática do ônus da prova.
+Nesse toar, incumbe ao autor comprovar os fatos constitutivos de seu direito e ao requerido os fatos impeditivos, extintivos ou modificativos do direito do autor conforme redação do art. 373, I e II, do Código de Processo Civil (fls. 302).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF". (AgRg no AREsp 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp 7.458.831/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/3/2018; AgInt nos EAREsp n. 1.371.200/SP, relator Ministro OG Fernandes, Corte Especial, DJe de 13/9/2019; e REsp 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 15/3/2019.
+Ademais, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
