@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por JUNIOR BARBOZA ALVES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o recorrente foi condenado definitivamente à pena de 8 anos de reclusão, em regime fechado, mais pagamento de 1.200 dias-multa, como incurso no art. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que foi indeferido liminarmente.
+Nos autos do RHC n. 188525/RJ, dei provimento ao recurso, para determinar que o TJRJ analisasse o mérito do HC n. 0018012-57.2023.8.19.0000.
+Em novo julgamento, a Corte Estadual denegou a ordem.
+Neste Tribunal Superior, alega o recorrente ausência de comprovação da estabilidade e permanência necessária para configuração do crime de associação para o tráfico de entorpecentes.
+Destaca que a condenação está ampara unicamente em presunções, em razão do paciente ter sido flagrado na posse de entorpecentes em local dominado pela facção criminosa Comando Vermelho.
+Requer, assim, a absolvição da prática do crime do art. 35, caput, da Lei n. 11.343/2006 e, consequentemente, a aplicação do redutor do art. 33, § 4º, da referida norma.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+A Corte de origem, ao denegar a ordem, consignou o seguinte acerca condenação pela prática do crime de associação para o tráfico de drogas:
+"E aqui, data máxima vênia em relação ao que pensa a combativa Defesa Técnica, não há qualquer ilegalidade flagrante para que seja impetrado o remédio heróico.
+In casu, além das palavras dos policiais militares, que efetuaram a prisão em flagrante do ora paciente e a apreensão do menor W., as circunstâncias das infrações, sua dinâmica, a forma como as drogas estavam acondicionadas, o dinheiro trocado, em cédulas, e a apreensão dos dois rádios transmissores aprendidos (um com o menor e o outro com o ora paciente), ambos em locais estratégicos, indicam que o acusado e outras pessoas não identificadas, além do menor, estavam associados em caráter estável e permanente para a prática do tráfico, em local dominado pela Facção Criminosa Comando Vermelho - e não é somente por este motivo, mas é principalmente por conta das próprias afirmações (menor, policiais e do próprio acusado de que havia entrado para o tráfico de drogas, após brigar com seu pai), que se extraem da decisão de 1º grau.
+Em verdade, extrai-se da sentença o seguinte trecho, in litteris:
+"(..).
+A culpabilidade dele (Junior Barboza Alves), como indicação do juízo de reprovação de que era traficante de drogas e associado ao crime é indiscutível, ainda mais quando adicionado os termos da oitiva do menor Willian que, ao ser ouvido no juízo menorista, confirmou que a droga era do acusado, que o conhecia e que o local da prisão era uma boca de fumo aberta recentemente.
+O delito de associação para o tráfico restou demonstrado pela prova produzida no curso da instrução.
+Com efeito, os policiais que efetuaram a prisão esclareceram que junto com o acusado além da apreensão das drogas, também foi apreendido um rádio transmissor, tal como foi arrecado do menor Wiliam que atuava, ao que tudo indica, à sua frente, dando-lhe cobertura.
+Como dito, a prova emprestada, apreciada sob o crivo do contraditório e da ampla defesa, afasta os senões da Defesa, já que o menor relata que faz parte do "Comando Vermelho";
+que é pago; que faz a função de "radinho"; que conhece Júnior; que o mesmo foi preso na outra "boca de fumo" e que a droga apreendida é dele.
+(..)".
+Em verdade, o que i. impetrante almeja é a revisão do que foi exaustivamente discutido no processo judicial, não se prestando o habeas corpus, para tal finalidade, pois isso demandaria o revolvimento das provas, que são cristalinas, ao apontarem o ora paciente como "vapor" do tráfico, da localidade conhecida como "Beco da Jovita", da comunidade "Vai Quem Quer", como bem decidido pelo Supremo Tribunal Federal, em situações semelhantes, in litteris".
+ ..
+Repise-se: não há, no ato impugnado neste writ, manifesta ilegalidade que justifique a concessão da ordem de habeas corpus, sobretudo porque, à época, o Juiz sentenciante analisou, corretamente, todas as questões processuais e materiais necessárias para a solução da lide.
+Por tais motivos, meu voto é no sentido de JULGAR IMPROCEDENTE O PEDIDO deduzido no presente habeas corpus" (e-STJ, fls. 179-181)
+Como visto, a Corte de origem, acertadamente, denegou a ordem, por entender que o habeas corpus não seria a via eleita para analisar questões afetas ao pedido de revisão criminal, não havendo constatado flagrante ilegalidade apta a ensejar a concessão da ordem, na medida em que o Juízo da 3ª Vara Criminal do Foro da Comarca de Duque de Caxias/RJ apresentou elementos suficientes para condenação pelo crime previsto no art. 35, caput, da Lei n. 11.343/2006. Nesse contexto, destacou a impossibilidade do revolvimento de fatos e provas em sede de habeas corpus, a fim de acolher o pleito defensivo.
+De fato, da análise do acórdão impugnado e da sentença condenatória, nos estritos limites do writ, não se verifica flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício.
+Como é cediço, para a caracterização do crime de associação criminosa, é imprescindível a demonstração concreta do vínculo permanente e estável entre duas ou mais pessoas, com a finalidade de praticarem os delitos do art. 33, caput e § 1º e/ou do art. 34, da Lei de Drogas (HC 354.109/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/09/2016, DJe 22/09/2016; HC 391.325/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/05/2017, DJe 25/05/2017).
+Na hipótese, observa-se que há testemunhos seguros, somado ao conjunto probatório trazido como fundamento no acórdão recorrido e na sentença condenatória, que comprovam o animus associativo entre a recorrente, o menor apreendido e a facção criminosa Comando Vermelho.
+Conforme destacado pelas instâncias ordinárias, as provas colhidas nos autos não deixam dúvida de que o acusado e o adolescente apreendido estavam associados entre si e integravam a facção criminosa Comando Vermelho, pois, além da apreensão de 29 porções de haxixe (8g), 69 de cocaína (36,2g), 33 de maconha (43g), R$ 104,00, em espécie, e 2 radiotransmissores, ficou comprovado que o menor exercia a função de "radinho", dando cobertura ao recorrente, o qual atuava como "vapor" em "boca de fumo" recentemente aberta, em local conhecido como "Beco da Jovita" na Comunidade do "Vai Quem Quer".
+Dessa forma, concluído pelas instâncias ordinárias, em decisão motivada, que existem elementos suficientes da estabilidade e da permanência do recorrente com o menor de idade no reiterado comércio ilícito de drogas, a alteração desse entendimento é inadmissível na via eleita, uma vez que exige o reexame do conteúdo fático probatório.
+Confira:
+"II - O tipo previsto no artigo art. 35 da Lei nº 11.343/2006 se configura quando duas ou mais pessoas se reúnem com a finalidade de praticar os crimes previstos nos art. 33 e 34 da norma referenciada. Indispensável, portanto, para a comprovação da materialidade, o animus associativo de forma estável e duradoura com a finalidade de cometer tais delitos.
+III - In casu, o Tribunal de origem se apoiou em robusto conjunto probatório para impor a condenação ao paciente, quais sejam, depoimentos testemunhais e os dados constantes da interceptação telefônica. Dessa forma, estando demonstrado a associação do paciente à estável societas criminis dedicada à prática do tráfico ilícito de entorpecentes, correta sua condenação como incurso no art. 35, caput, da Lei n. 11.343/06.
+IV - Qualquer incursão que escape a moldura fática ora apresentada, não se coaduna com os estreitos limites do mandamus, já que o amplo reexame de provas é inadmissível no espectro processual do habeas corpus, ação constitucional que pressupõe, para seu manejo, uma ilegalidade ou abuso de poder tão flagrante que pode ser demonstrada de plano.
+Precedentes.
+Habeas Corpus não conhecido."
+(HC 460.083/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/10/2018, DJe 29/10/2018).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. APREENSÃO DE DROGAS VARIADAS E RÁDIO TRANSMISSOR EM ATIVIDADE. FUNDAMENTAÇÃO IDÔNEA. DESNECESSIDADE DE IDENTIFICAÇÃO DOS DEMAIS CO-AUTORES. ABSOLVIÇÃO. REVISÃO FÁTICO-PROBATÓRIA. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Corte de origem, ao examinar a autoria delitiva do crime de associação para o tráfico de drogas, expressamente afastou o concurso eventual de pessoas, para consignar que o agente agia sob a chancela do Comando Vermelho, sendo preso na posse de considerável quantidade de entorpecentes e com rádio transmissor em atividade, o que afasta a alegação de ausência de provas em relação à estabilidade e permanência do vínculo associativo.
+2. Por outro lado, a pretensão de absolvição da prática do delito de associação para o tráfico não pode ser apreciada por esta Corte Superior, na via estreita do habeas corpus, por demandar o exame aprofundado do conjunto fático-probatório dos autos. Precedentes.
+3. Por fim, o fato de os demais integrantes da organização criminosa não terem sido identificados no momento da denúncia, não invalida a ação penal, tampouco impede a condenação do paciente pelo delito em questão.
+4. Agravo regimental improvido."
+(AgRg no HC 556.655/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/03/2020, DJe 17/03/2020)
+Por certo, se preenchido algum dos requisitos descritos nos incisos do artigo 621 do Código de Processo Penal, poderá a defesa ingressar com revisão criminal, meio processual adequado para rescindir sentença condenatória transitada em julgado, no qual o Colegiado de origem poderá analisar mais profundamente as questões suscitadas pela defesa. A propósito: (HC n. 421.441/RJ, relator Ministro Ribeiro Dantas, Quinta Tur ma, julgado em 19/4/2018, DJe de 25/4/2018; AgRg no HC n. 727.221/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 19/4/2022, DJe de 10/5/2022.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
