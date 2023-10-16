@@ -1,0 +1,24 @@
+DECISÃO
+Neste habeas corpus, impetrado em benefício de Jorge Dias da Silva, aponta-se como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul, que deu parcial provimento à apelação defensiva, redimensionando a pena do paciente para 5 anos e 9 meses de reclusão, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Busca-se, aqui, inclusive em caráter liminar, a declaração de nulidade de prova, por violação de domicílio, visto que a denúncia anônima e/ou a simples fuga do agente para o interior de sua residência, exatamente como no presente caso, não é fundamento idôneo para relativizar seu direito à inviolabilidade de domicílio (fl. 8).
+Depois de indeferido o pedido liminar (fls. 474/475) e de prestadas informações, dando conta do trânsito em julgado da condenação (fls. 478/496), o Ministério Público Federal emitiu parecer pela denegação da ordem, conforme esta ementa (fl. 519):
+PENAL - PROCESSUAL PENAL - HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS - INVIOLABILIDADE DE DOMICÍLIO - CRIME PERMANENTE - ELEMENTOS CONCRETOS DA AUTORIA - ILICITUDE DAS PROVAS - AUSÊNCIA DE ILEGALIDADE - PRECEDENTE/STJ.
+PARECER PELA DENEGAÇÃO DA ORDEM.
+  O Ministério Público do Rio Grande do Sul veio aos autos, aduzindo que não há ilegalidade flagrante a justificar o acolhimento do pleito (fl. 527).
+É o relatório.
+O habeas corpus não merece acolhida.
+Isso porque, conforme o entendimento desta Corte Superior, o empreendimento de diligências (a partir até mesmo de denúncia anônima), com posterior fuga do suspeito, perseguição e prisão no interior de domicílio, na posse de drogas, armas e/ou objetos ilícitos caracteriza as fundadas razões que autorizam o ingresso em domicílio sem mandado.
+Não foi outra a manifestação do Subprocurador-Geral da República João Pedro de Saboia, segundo a qual a decisão do tribunal de origem está em perfeita harmonia com a orientação jurisprudencial do Superior Tribunal de Justiça (fl. 523). S. Exa. lembrou bem este precedente, entre outros:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. NULIDADE. ILICITUDE DA PROVA. VIOLAÇÃO DE DOMICÍLIO. CRIME PERMANENTE. AUSÊNCIA DE MANDADO. FUNDADAS RAZÕES. ELEMENTOS CONCRETOS DA AUTORIA E LOCAL DE DEPÓSITO DA DROGA. INCORRÊNCIA DE ILEGALIDADE.
+1. Diante da existência da prática de delito permanente, caberá à autoridade policial, que exerce a função preventiva e de proteção da ordem pública, agir de modo imediato, inclusive, se o caso, adentrar no domicílio do autor do crime para o fim de proceder à revista do local e apreender o produto e os instrumentos do crime.
+2. Além do que, conforme deliberado pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário 603.616/RO, não há de se exigir uma certeza acerca da prática delitiva para se admitir a entrada em domicílio, sendo bastante a demonstração, compatível com a fase de obtenção de provas, de que a medida foi adotada mediante justa causa, com amparo em elementos que indiquem a suspeita da ocorrência de situação autorizadora do ingresso forçado na casa.
+3. In casu, restou comprovado que um primeiro cidadão em atitude suspeita foi abordado pelos policiais e declarou que iria comprar droga do paciente; na sequência, o paciente foi abordado e revistado pelos policiais e com ele foi encontrada substância entorpecente; ademais, os policiais verificaram no visor do aparelho celular do paciente mensagens de pedidos de compra de droga por parte de terceiros; e, por fim, o paciente levou os milicianos a casa e lá foram encontradas mais substâncias entorpecentes, o que se confirmou a justa causa do ingresso domiciliar como exercício regular de um poder administrativo de proteção coletiva em detrimento de uma garantia individual, tudo a afastar a apontada ilegalidade da prova.
+4. Ordem denegada
+(HC n. 413.801/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/3/2018).
+Mais recentes, por exemplo, AgRg no HC n. 799.290/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/6/2023; e EDcl no AgRg no HC n. 753.294/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 14/2/2023.
+De mais a mais, afastada qualquer flagrante ilegalidade, devidamente esclarecida a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo da ação penal (AgRg no HC n. 737.486/GO, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 27/6/2022).
+Pelo exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. ALEGAÇÃO DE ILICITUDE DAS PROVAS. NÃO OCORRÊNCIA. PRECEDENTES DO STJ. REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. PARECER ACOLHIDO.
+Ordem denegada.
