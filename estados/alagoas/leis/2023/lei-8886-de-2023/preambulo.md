@@ -1,0 +1,5 @@
+LEI Nº 8.886, DE 17 DE JULHO DE 2023.
+
+INSTITUI O PROGRAMA BANCO DE ALIMENTOS NO ESTADO DE ALAGOAS, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
