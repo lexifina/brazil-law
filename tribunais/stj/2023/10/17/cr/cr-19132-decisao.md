@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se  de  carta  rogatória  por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Braga) solicita que se proceda à localização de Américo José Peixoto Guimarães, bem como à sua notificação pessoal dos termos da decisão que recebeu a acusação formulada nos autos do Processo n. 879/03.4TAGMR, em que se lhe imputa o crime de abuso de confiança.
+A intimação prévia foi recebida por terceiro, conforme o documento postal de fls. 41-42. Transcorreu in albis o prazo para apresentar impugnação (fl. 43).
+A Defensoria Pública da União, na qualidade de curadora especial, manifestou-se contrariamente à concessão do exequatur. Afirmou que o interessado não foi intimado dos termos da rogatória e que o aviso de recebimento foi firmado por terceira pessoa. Apresentou ainda contestação por "negativa geral, com fundamento nos arts. 1.692 e 1.733, § 2º, do CC, art. 33 do CPP, arts. 72, 341 e 671 do NCPC" (fl. 890). Requereu, ademais, a concessão dos benefícios da justiça gratuita e a própria intimação para acompanhar o feito, contando-se em dobro todos os prazos (fls. 58-60).
+O Ministério Público Federal opinou pela concessão do exequatur para notificar a parte interessada (fls. 62-65).
+É o relatório. Decido.
+Inicialmente, defiro os benefícios da justiça gratuita e a intimação da Defensoria Pública da União, nos termos do art. 44, I, da Lei Complementar n. 80/1994.
+Não prosperam os argumentos aduzidos pela Defensoria Pública da União. Anoto que a intimação inicial não teve por objeto a própria diligência rogada, mas sim a ciência do requerido quanto à distribuição do pedido cooperatório pela Justiça estrangeira. De qualquer modo, os autos serão remetidos ao Juízo federal competente para que se dê cumprimento à diligência requerida, nos termos do art. 216-V do RISTJ. Assim, caso venha a ser pessoalmente notificado, o requerido poderá impugnar os requisitos para o processamento desta rogatória.
+Ademais, a validade da intimação prévia da carta rogatória, por via postal, recebida por terceiro encontra-se pacificada na jurisprudência do STJ. Nesse sentido, veja-se precedente:
+CARTA ROGATÓRIA. INTIMAÇÃO PRÉVIA. ART. 216-Q DO RISTJ. AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO. INOCORRÊNCIA DE NULIDADE.
+I - Segundo dispõe o art. 216-Q do Regimento Interno do Superior Tribunal de Justiça, a parte interessada será intimada para, no prazo de quinze dias, impugnar o pedido de concessão do exequatur.
+II - No caso concreto, essa intimação foi feita pela via postal, porém o aviso de recebimento (fls. 41 e 42) foi assinado por terceiro.
+III - Segundo jurisprudência pacífica desta Corte, é válida "a citação postal, com aviso de recebimento e entregue no endereço correto do executado, mesmo que recebida por terceiros, o que ocorreu no caso em exame" (AgRg no AREsp n. 253.709/RJ, relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 13/12/2012).
+IV - Outrossim, conforme cediço, não há nulidade sem prejuízo (pas de nullité sans grief). Na hipótese, a parte interessada posteriormente tomou conhecimento da comissão rogatória, já que, ao cumprir o pedido de cooperação internacional, a Justiça Federal, via oficial de justiça (fl. 91), citou a parte interessada para que tomasse conhecimento da demanda proposta na Justiça rogante. Diante dessa ciência, a parte interessada teve a oportunidade de alegar eventual nulidade nos autos, mas não o fez, motivo pelo qual se entremostra inexistir vício processual gerador de prejuízo.
+Agravo regimental improvido. (AgRg na CR n. 9.824/EX, relator Ministro Francisco Falcão, DJe de 28/6/2016.)
+Desse modo, esta carta rogatória não atenta contra a soberania nacional, contra a dignidade da pessoa humana ou contra a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P, ambos do RISTJ, concedo o exequatur para a notificação de Américo José Peixoto Guimarães.
+Assim, remeta-se a comissão à Justiça Federal, Seção Judiciária do Estado do Rio de Janeiro, para as providências cabíveis.
+Recomenda-se que, na hipótese de não se localizar a parte interessada, o Juízo promova as diligências necessárias à obtenção do endereço atualizado, notadamente em órgãos públicos, bem como em concessionárias de serviços públicos (v.g., água, energia e telefonia).
+Cumpra-se a diligência em 60 dias.
+Após, devolvam-se os autos ao STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se.
+EMENTA
