@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por DIRETORIO ACADÊMICO DO CURSO DE PSICOLOGIA CIÊNCIAS HUMANAS DO CENTRO UNIVERSITÁRIO FUMEC contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - CITAÇÃO POR EDITAL -NULIDADE NÃO CONFIGURADA -SERVIÇOS ADVOCATÍCIOS PRESTADOS -COMPROVAÇÃO - CONTRATO VERBAL - AUSÊNCIA DE PRÉVIO AJUSTE DO PREÇO - ARBITRAMENTO JUDICIAL - TABELA DA OAB - CORREÇÃO MONETÁRIA - TERMO INICIAL. Descabe falar em nulidade da citação por edital se esta foi determinada somente após envidados esforços para localização e identificação da atual sede e dos representantes legais da pessoa jurídica demandada, sem sucesso. O contrato de prestação de serviços advocatícios não possui forma prescrita em lei, tampouco é exigido, para fins de validar a outorga de poderes pela pessoa jurídica, o reconhecimento de firma da assinatura aposta no instrumento de mandado. À mingua de outras informações acerca do prévio ajuste quanto ao valor devido para remunerar o autor, tem lugar o pleito de arbitramento judicial da verba honorária contratual, cujo valor deve ser corrigido monetariamente desde o ajuizamento da ação" (fl. 387, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, os recorrentes apontam violação dos arts. 6 º, 256, § 3 º, 280, 282, 4 89 e 1.022 do Código de Processo Civil.
+Sustenta, em síntese, a existência de omissões que não foram sanadas no Tribunal local, as quais eram imprescindíveis para o deslinde da demanda.
+Defende a nulidade da citação por edital, pois não esgotado os meios para a sua localização.
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+No tocante à violação dos artigos 489 e 1.022 do Código de Processo Civil, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte (AgInt no AREsp nº 1.274.918/BA, Rel. Ministro Moura Ribeiro, DJe 27/9/2018).
+Sobre a nulidade da citação, destaca-se a seguinte fundamentação adotada pelo Tribunal de origem como razões de decidir:
+"(..) da análise detida dos autos verifica-se que o d. Julgador se atentou para o disposto no art. 356, §3º, do CPC, eis que, antes de determinar a citação por edital da pessoa jurídica demandada, determinou fosse oficiado o Cartório de Registro Civil das Pessoas Jurídicas para obter informações acerca dos últimos atos constitutivos registrados em nome do Diretório Acadêmico do Curso de Psicologia da Faculdade Ciências Humanas do Centro Universitário FUMEC, conforme decisão de fl. 161 -doc. único.
+Além disso, realizou pesquisas junto aos sistemas conveniados para localizar os últimos representantes legais da pessoa jurídica demandada, como se observa dos documentos de fls. 203, 215, 223 e 232/245. Não bastasse, consoante certidão de fl. 280, o sr. Ronan Borges Júnior foi intimado no ano de 2019, na qualidade de terceiro, ante o término do seu mandato como vice-presidente do diretório, oportunidade em que informou não saber quem seria o atual representante do "D. A".
+Assim, considerando a ausência de informações acerca da atual representação legal da pessoa jurídica demandada, bem como ausentes informações atualizadas acerca do local de sua sede, mostra-se correta a promoção da citação por edital, tal como efetivada". (fl. 390, e-STJ)
+Dessa maneira, tendo o tribunal local afirmado a validade da citação por edital, diante do cumprimento de todas as diligências cabíveis, não há como rever tal premissa nesta oportunidade, pois implicaria no revolvimento do contexto fático-probatório dos autos, procedimento vedado em recurso especial, nos termos da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL. VALIDADE. ESGOTAMENTO DOS MEIOS NECESSÁRIOS PARA LOCALIZAR O RÉU. SÚMULA 7 DO STJ. EXPEDIÇÃO DE OFÍCIOS ÀS REPARTIÇÕES PÚBLICAS.
+AUSÊNCIA DE IMPOSIÇÃO LEGAL. PRECEDENTE DESTA CORTE. RECURSO NÃO PROVIDO.
+1. Para modificar o que foi decidido pela Corte de origem, no tocante à ausência de nulidade da citação por edital, em virtude do cumprimento de todas as diligências necessárias para citação pessoal do réu, seria necessário o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial ante o óbice previsto na Súmula 7 desta Corte.
+2. Ademais, conforme já decidiu esta Corte, "não há imposição legal de expedição de ofícios às repartições públicas, para fins de localização do réu tido em local incerto ou não sabido, cuja necessidade deve ser analisada no caso em concreto" (REsp 364.424/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2002, DJ 06/05/2002, p. 289).
+3. Agravo interno não provido" (AgInt no AREsp 1.233.310/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2018, DJe 21/5/2018).
+Registra-se, por fim, que, também conforme firme jurisprudência deste Tribunal Superior, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nesta parte, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 15% (quinze por cento) sob re o valor da condenação, os quais devem ser majorados para 18% (dezoito por cento) em favor do advogado do recorrido , observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se
+EMENTA
