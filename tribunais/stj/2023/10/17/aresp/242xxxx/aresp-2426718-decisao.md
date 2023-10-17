@@ -1,0 +1,71 @@
+DECISÃO
+MAURICIO DAL AGNOL (MAURICIO) ajuizou ação de arbitramento cumulada com cobrança de honorários contra ELISEU RICHTER e RALF WERNER KIRCHHEIM (ELISEU e RALF), tendo sido extinto o processo, com resolução de mérito, diante do reconhecimento da prescrição quinquenal da pretensão do autor, adotando-se como termo inicial a inabilitação do profissional, com a cessação do mandato outorgado pelo réu em favor do autor, ainda que o pacto de prestação de serviços vinculasse o recebimento dos honorários ao sucesso na demanda para a qual foi contratado, devendo este arcar com as custas processuais (e-STJ, fls. 474/475).
+Irresignado, MAURICIO interpôs apelação, que foi desprovida pelo Tribunal de Justiça do Rio Grande do Sul em acórdão assim ementado:
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+I. NO CASO, O TERMO INICIAL DA PRESCRIÇÃO DEVE SER A DATA DA INABILITAÇÃO PROFISSIONAL JUNTO À ORDEM DOS ADVOGADOS DO BRASIL.
+II. PRAZO PRESCRICIONAL IMPLEMENTADO.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME. (e-STJ, fl. 578 ).
+Inconformado, MAURICIO interpôs recurso especial com fundamento nas alíneas a e c do permissivo constitucional, apontando a violação dos seguintes dispositivos legais (1) art. 1.022, II, do NCPC, por reputar omisso o aresto recorrido; e (2) arts. 121, 125, 189, 199, 202, IV, e 206, § 5º, do CC/02 e art. 25, I, da Lei n.º 8.906/94, sob os argumentos de que deveria ser adotado como termo inicial da prescrição do pleito de cobrança de honorários advocatícios a implementação de cláusula condicional de êxito inserta em contrato firmado pelas partes, ocasião em que se identifica o nascimento da pretensão conforme o princípio da actio nata, e não a data da revogação dos poderes outorgados ao recorrente. Também indicou dissídio jurisprudencial, tendo por paradigma precedente desta Corte Superior.
+Em juízo de admissibilidade, a Terceira Vice-presidência do Tribunal gaúcho não admitiu o referido apelo nobre (e-STJ, fls. 762/766).
+MAURÍCIO interpôs agravo em recurso especial contra a decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 94/800).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar em parte.
+(1) Da apontada violação do art. 1.022 do NCPC
+No pertinente à apontada vulneração ao dispositivo legal mencionado, a interpretação que se extrai é que a parte se limitou a manifestar sua irresignação, não tendo declinado as correspondentes razões.
+Ressalta-se que o mero inconformismo sem especificar de que modo teria concretamente ocorrido a violação de normativo federal, inclusive delimitando as matérias tidas por viciadas, não supre a exigência de fundamentação adequada do recurso especial, incidindo, por analogia, o óbice da Súmula n.º 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, vejam-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 170, §1º, DA LEI Nº 6.404/76, 467 E 471 DO CPC DE 1973. SÚMULA 284 DO STF. SÚMULA 371 DO STJ. VALOR PATRIMONIAL DA AÇÃO. INVIABILIDADE DE VIOLAÇÃO DE SÚMULA DE TRIBUNAL SUPERIOR E FALTA DE PREQUESTIONAMENTO. VALOR CORRETO DA COTAÇÃO DA AÇÃO. SÚMULA 7 DO STJ. RENDIMENTOS DOS DIVIDENDOS. SÚMULA 284 DO STF.
+1. Em relação à alegada ofensa aos arts. 170, §1º, da Lei nº 6.404/76, 467 e 471 do CPC/73, não se vislumbra a aduzida violação por falta de articulação de argumentos jurídicos a embasar tal assertiva, caracterizando deficiência de fundamentação. Incidência da Súmula 284 do STF.
+2. "Incabível a análise de recurso especial, por quaisquer das alíneas do permissivo constitucional, que tenha por fundamento violação de enunciado ou súmula de Tribunal Superior". (AgRg no AREsp 462.700/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/05/2014, DJe 05/06/2014).
+3. A matéria referente ao critério do balancete mensal para a apuração do valor patrimonial da ação não foi apreciada pelo Tribunal de origem,
+carecendo do indispensável prequestionamento.
+4. O acolhimento da pretensão recursal acerca do correto valor da cotação da ação demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+5. No tocante ao tema dos rendimentos dos dividendos, a ausência de indicação de dispositivo de lei federal tido por violado caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 802.042/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 29/8/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO. ADOÇÃO DOS FUNDAMENTOS DA SENTENÇA. POSSIBILIDADE. DANOS MATERIAIS E MORAIS. REEXAME DE PROVAS.SÚMULA Nº 7/STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.
+1. Esta Corte já se posicionou no sentido de não ser desprovido de fundamento o julgado que ratifica as razões de decidir adotadas na sentença, transcritas no corpo do acórdão.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Rever as conclusões do acórdão recorrido acerca da ocorrência dos danos materiais e morais demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar de modo preciso como teria ocorrido a violação legal. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+5. Agravo regimental não provido.
+(AgRg no AREsp 473.327/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 20/6/2016)
+(2) Do termo inicial da pretensão autoral
+MAURICIO sustentou que deveria ser adotado como termo inicial da prescrição do pleito de cobrança de honorários advocatícios a implementação de cláusula condicional de êxito inserta em contrato firmado pelas partes, ocasião em que se identifica o nascimento da pretensão conforme o princípio da actio nata, e não a data da revogação dos poderes outorgados ao recorrente.
+O Tribunal gaúcho concluiu que o prazo quinquenal começou a fluir a partir da revogação do mandato, nos termos do art. 25, V, da Lei n.º 8.904/1994 e art. 206, § 5º, II, do vigente Código Civil. Confira-se:
+Trata-se de ação de arbitramento de honorário, lastreada na prestação de serviçosadvocatícios pelo autor no curso do processo de n.º 001/1.07.00475820-0, em que a ré saiuvencedora.
+O autor argui que o contrato de honorários pactuado pelas partes previa pagamento depercentual sobre o valor obtido com a demanda, resultante de seu êxito. Percentual, este, sobre oqual alega possuir direito ao recebimento, pois atuou quase que na integralidade do tempo detramitação da ação, sempre diligente ao provimento da demanda.
+Ora, segundo cláusula contratual, o adimplemento da verba honorária estaria condicionado ao recebimento dos valores pelo cliente (cláusula de êxito), e seria igualmente devida em caso de "desistência da ação" ou a "revogação da procuração" pelo cliente.
+Deve-se observar, entretanto, que em 21 de fevereiro de 2014 houve a suspensão, junto à Ordem dos Advogados do Brasil, dos direitos do autor ao exercício da advocacia. Em razão disso, restou automaticamente cessado o mandato, nos termos em que estabelece o artigo 42 do Estatuto da Ordem dos Advogados do Brasil.
+Merece atenção o fato da relação de mandato ter sido extinta de forma motivada e por conta da inabilitação do profissional (suspensão do direito ao exercício da profissão).
+Deste modo, considerando que não houve desistência ou a revogação unilateral dos poderes conferidos ao profissional, mas sim a cessação do mandato por culpa exclusiva do advogado, o termo inicial da prescrição deve ser a data da inabilitação profissional junto à Ordem dos Advogados do Brasil.
+Aliás, incabível a aplicação e interpretação extensiva da condição suspensiva disposta pelo art. 121 do Código Civil.
+Assim, mesmo se tratando de caso em que avençado pagamento após êxito da demanda, com levantamento de alvará, isso não transfere a contagem do prazo prescricional para a data da liberação de valores naquele feito, pois o direito ao arbitramento surgiu quando extinto o mandato. (e-STJ, fl. 580/581).
+Esta Corte Superior já assentou em considerável número de precedentes que a exigibilidade dos valores objeto de contrato de prestação de honorários advocatícios subordinado a condição somente ocorre a partir da implementação desta, de modo que o marco inaugural da pretensão de cobrança é a data em que obtido proveito na demanda, no caso de cláusula ad exitum, em observância ao princípio da actio nata.
+Confiram-se os precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO PARA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS QUOTA LITIS AD EXITUM. CONDIÇÃO SUSPENSIVA. NÃO IMPLEMENTAÇÃO. PRECEDENTE. MULTA. NÃO INCIDÊNCIA. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO DESPROVIDO.
+1. Nas hipóteses de contrato de prestação de serviços advocatícios com previsão de cláusula quota litis ad exitum, a condição suspensiva não se verifica com a renúncia ou revogação do mandato, mas somente com o êxito estabelecido no instrumento. Precedente.
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+(AgInt no REsp n. 1.760.969/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, j. 16/8/2021, DJe de 19/8/2021)
+RECURSO ESPECIAL. CONTRATO. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRESCRIÇÃO. NÃO OCORRÊNCIA. FALECIMENTO. MANDATO. EXTINÇÃO. ART. 689, II, CC/2002. CLÁUSULA QUOTA LITIS. ÊXITO. CONDIÇÃO SUSPENSIVA. ART. 199, I, CC/2002.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir o termo inicial da prescrição da pretensão de obter o pagamento de honorários advocatícios contratuais na hipótese em que, ocorrendo o falecimento do mandante, o instrumento negocial estipula cláusula quota litis e condiciona o recebimento da referida verba à liberação dos valores da condenação.
+3. O prazo prescricional é contado, em regra, a partir do momento em que configurada lesão ao direito subjetivo, sendo desinfluente para tanto ter ou não seu titular conhecimento pleno do ocorrido ou da extensão dos danos (art. 189 do CC/2002).
+4. O termo inicial do prazo prescricional, em situações específicas, pode ser deslocado para o momento de conhecimento da lesão, aplicando-se excepcionalmente a actio nata em seu viés subjetivo. Precedentes.
+5. Nas ações de cobrança de honorários advocatícios contratuais, ocorrendo o falecimento do mandante, o termo inicial da prescrição, em regra, é a data da ciência desse fato pelo advogado (mandatário).
+6. A existência de cláusula quota litis em contrato de prestação de serviços advocatícios faz postergar o início da prescrição até o momento da implementação da condição suspensiva.
+7. Recurso especial não provido.
+(REsp n. 1.605.604/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. 20/4/2021, DJe de 26/4/2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CLÁUSULA DE ÊXITO. CONDIÇÃO SUSPENSIVA. SUSPENSÃO DA INSCRIÇÃO DO ADVOGADO NOS QUADROS DA OAB. TERMO INICIAL DA PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA.
+1. Cuida-se, na origem, de ação de arbitramento de honorários advocatícios, na qual se pretende o pagamento de honorários contratuais de êxito, por advogado que, em decorrência de condenação criminal, teve sua inscrição perante os quadros da OAB suspensa.
+2. A jurisprudência do STJ se firmou no sentido de que o prazo prescricional para a cobrança de honorários contratuais pactuados com cláusula de êxito somente tem início a partir do momento em que verificada a condição contratualmente prevista, sem qual "não se terá adquirido o direito" (art. 125 do CC/02). Nesse norte, e à luz da teoria da actio nata, o prazo começa a correr apenas quando obtido o sucesso na ação, ainda que haja a revogação ou cessação do mandato no curso da demanda. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.128.140/RS, relatora Ministra Nancy Andrighi, Terceira Turma, j. 29/4/2019, DJe de 2/5/2019)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, DAR-LHE PROVIMENTO para, fixando como termo inicial a implementação da condição a que se subordinam os honorários advocatícios objeto de contrato firmado entre as partes, determinar o retorno dos autos ao TJRS a fim de que prossiga no julgamento da causa como entender de direito.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO CUMULADA COM COBRANÇA DE HONORÁRIOS. (1) ALEGADA VIOLAÇÃO DO ART. 1.022 DO NCPC. AUSÊNCIA DE INDICAÇÃO DAS CORRESPONDENTES RAZÕES. INCIDÊNCIA DA SÚMULA N.º 284 DO STF. (2) PRESCRIÇÃO. TERMO INICIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS COM CLÁUSULA AD EXITUM. EXTINÇÃO DO MANDATO ANTES DE IMPLEMENTADA A CONDIÇÃO ESTIPULADA PELAS PARTES PARA PAGAMENTO. CONFIGURAÇÃO DO PROVEITO COMO MARCO INAUGURAL DA PRETENSÃO. PRINCÍPIO DA ACTIO NATA. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO.
