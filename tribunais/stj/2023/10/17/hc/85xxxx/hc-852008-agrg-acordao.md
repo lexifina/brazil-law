@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INDEFERIMENTO LIMINAR DO WRIT PELA INCIDÊNCIA DA SÚMULA N. 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. ABSOLVIÇÃO. NEGATIVA DE AUTORIA. INADMISSIBILIDADE. INADEQUEAÇÃO DA VIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - I - O writ foi impetrado contra decisão monocrática de Desembargador que rejeitou os embargos opostos na Corte de origem. Assim, impetrado habeas corpus nesta Corte em face de tal decisão, e não se vislumbrando flagrante ilegalidade ou teratologia, incide ao caso o teor da Súmula n. 691/STF.
+III - Ainda que se considere que o objeto da impetração seja o acórdão que deu provimento ao recurso de apelação, o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANIEL FERREIRA PINTO DA ROCHA, contra a decisão que indeferiu liminarmente o habeas corpus impetrado contra decisão monocrática de desembargador relator do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O agravante foi denunciado pela suposta prática do delito de tráfico de drogas e foi absolvido em primeira instância.
+Irresignado, o Ministério Público interpôs recurso de apelação, ao qual o Tribunal de origem deu provimento para condenar o agravante, às penas de cinco anos e dez meses de reclusão, em regime inicial fechado, mais o pagamento de quinhentos e oitenta e três dias-multa, como incurso na sanção do art. 33, caput, da Lei n. 11.343/2006, nos termos do acórdão de fls. 41-63.
+A defesa opôs embargos de declaração, que foram rejeitados pela decisão monocrática de fls. 126-131.
+No respectivo writ impetrado nesta Corte, a defesa requereu a concessão da ordem, para que o agravante fosse absolvido, sustentando a ausência de provas de autoria e materialidade.
+O habeas corpus foi indeferido liminarmente, ante o óbice da Súmula 691 do STF e interpôs-se o presente agravo.
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ denegado, sustentando a ausência indícios suficientes de autoria a sustentar a condenação do agravante.
+Alega que o writ não foi impetrado contra a decisão que rejeitou os embargos de declaração na origem, mas contra o acórdão que deu provimento à apelação do Ministério Público.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para a concessão da ordem.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INDEFERIMENTO LIMINAR DO WRIT PELA INCIDÊNCIA DA SÚMULA N. 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. ABSOLVIÇÃO. NEGATIVA DE AUTORIA. INADMISSIBILIDADE. INADEQUEAÇÃO DA VIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - I - O writ foi impetrado contra decisão monocrática de Desembargador que rejeitou os embargos opostos na Corte de origem. Assim, impetrado habeas corpus nesta Corte em face de tal decisão, e não se vislumbrando flagrante ilegalidade ou teratologia, incide ao caso o teor da Súmula n. 691/STF.
+III - Ainda que se considere que o objeto da impetração seja o acórdão que deu provimento ao recurso de apelação, o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita. Precedentes.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e seu recurso ordinário, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Pretende a defesa a reforma da decisão que fez incidir para o caso o enunciado n. 691, da Súmula do Supremo Tribunal Federal, uma vez que o habeas corpus investiu contra decisão monocrática que rejeitou os embargos de declaração na origem.
+Alega que o writ não foi impetrado contra a decisão que rejeitou os embargos de declaração, mas contra o acórdão que deu provimento à apelação do Ministério Público.
+Contudo, não lhe assiste razão, tendo em vista que, como consignado na decisão agravada, a jurisprudência desta Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heroico em situação como a presente, sob pena de indevida supressão de instância.
+Na presente hipótese, não se verifica, da análise da r. decisão do Desembargador relator que indeferiu o pedido liminar deduzido no habeas corpus originário, a existência de qualquer flagrante ilegalidade, apta a ensejar o afastamento do óbice contido na Súmula n. 691 do STF.
+Ainda que se considere que o objeto da impetração seja o acórdão que deu provimento ao recurso de apelação, o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Corte superior:
+"Para entender-se de forma diversa e afastar a compreensão das instâncias de origem de que o recorrente se associou, com estabilidade e permanência, para o fim de praticar o crime de tráfico de drogas, seria necessário o revolvimento do acervo fático-probatório amealhado aos autos, providência vedada na via estreita do habeas corpus" (AgRg no HC n. 833.244/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/10/2023).
+"O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória. Precedentes" (AgRg no HC n. 854.390/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/9/2023).
+No mesmo sentido: AgRg no HC n. 800.289/SP, Quinta Turma, de minha relatoria, DJe de 28/9/2023; AgRg no HC n. 824.515/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/9/2023; AgRg no HC n. 842.317/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 20/9/2023; AgRg no HC n. 785.676/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 15/9/2023.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
