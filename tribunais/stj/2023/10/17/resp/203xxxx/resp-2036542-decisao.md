@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDUARDO GOMES contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+O recorrente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 01 (um) ano e 08 (oito) meses de reclusão, em regime inicial aberto, e 167 (cento e sessenta e sete) dias-multa (fls. 238-248).
+O Tribunal negou provimento à apelação em que a defesa requeria o reconhecimento da ilicitude das provas obtidas por meio de invasão de domicílio com a consequente absolvição do recorrente (fls. 344-352).
+Inconformado, o recorrente interpõe recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação ao art. 157, caput, ao art. 386, inciso VII, e ao art. 564, inciso IV, todos do Código de Processo Penal, e ao art. 33 da Lei n. 11.343/2006 (fls. 363-374).
+Em contrarrazões, o Ministério Público do Estado do Paraná pugna pelo não conhecimento do recurso especial (fls. 384-390).
+O Ministério Público Federal opinou pelo não provimento do apelo nobre (fls.409-415).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que o recurso não deve ser conhecido.
+Em primeiro lugar, porque o reconhecimento da tese defensiva pressupõe o reexame de fatos e provas, consoante se depreende do seguinte excerto (fl. 368):
+"Com a devida vênia, NÃO havia justa causa a amparar o ingresso dos policiais no domicílio do recorrente, sendo inequívoco nos autos que a apreensão de droga e demais apetrechos no domicílio foi obtida, sim, de maneira ilícita, em atenção ao disposto no artigo 157 do Código de Processo Penal.
+Isto porque a dinâmica dos fatos, comprovada pelos depoimentos em Juízo e depoimento do réu em fase inquisitorial, demonstra que a abordagem inicial ao acusado foi realizada em via pública, quando ele conduzia seu veículo, e o posterior ingresso pelos policiais no domicílio do apelante em NÍTIDA AFRONTA aos ditames legais e constitucionais que regem a licitude da prova processual penal.
+Nesse sentido, cumpre trazer excerto da sentença de 1º grau, confirmado o juízo ad quem, que fundamentou com base no relato das testemunhas de acusação e desconsiderou o relato do acusado:  .. "
+Assim, é inviável o reexame de fatos e provas com a finalidade de substituir a ponderação feita pelas instâncias ordinárias, nos termos da Súmula n. 7, STJ.
+Outrossim, esta Corte admite que a condenação seja proferida a partir do testemunho policial, mormente quando não há qualquer indício de parcialidade desses agentes.
+Nesse sentido:
+" ..  segundo a jurisprudência consolidada desta Corte, o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso. Precedentes." (AgRg no HC n. 854.390/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 29/9/2023)
+Soma-se a isso o fato de que os policiais puderam visualizar as drogas de fora da casa do recorrente, o que configurou a justa causa para a busca domiciliar. Veja-se (fl. 346, grifei):
+"Na hipótese dos autos, verifica-se que os agentes estatais, de forma consonante, aduziram que foram acionados pela inteligência da polícia militar para que abordassem um motorista de veículo suspeito de tráfico de drogas. Que ao assim procederem, foi contatado que o condutor não possuía documentação, razão pela qual se dirigiram até a sua residência, a fim de confirmar os dados fornecidos. Afirmaram que da porta da casa já puderam visualizar objetos em cima da televisão, que se pareciam com buchas de cocaína, tendo o réu franqueado as suas entradas no local."
+Em situação semelhante, esta Corte já validou a apreensão realizada.
+Confira-se:
+" ..  4. Neste caso, a prisão em flagrante aconteceu após policiais civis terem recebido informações a respeito da prática de comércio ilícito de entorpecentes e, ao chegarem ao local, avistaram uma porção da substância entorpecente na cozinha. Diante disso, decidiram entrar na casa e realizar as buscas, encontrando o remanescente das porções de entorpecente no quarto do denunciado, além da munição.
+5. Dessa maneira, diferentemente do afirmado pelo agravante, antes mesmo da entrada dos policiais na residência, havia estado flagrancial visível, de maneira que não há como acolher a tese de nulidade da prisão ou das provas obtidas levando-se em conta o contorno fático estabelecido pelas instâncias ordinárias, cuja modificação é inviável em sede de habeas corpus."(AgRg no HC n. 776.076/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 23/3/2023, grifei)
+" ..  No caso, não há flagrante ilegalidade, porquanto, após denúncias de tráfico de drogas na residência do ora agravante, os policiais se dirigiram ao local e aqueles que ficaram nos fundos da casa, do lado de fora, lograram visualizar, previamente, o momento em que o ora agravante tentou esconder a arma e os entorpecentes no quintal do imóvel, o que configurou a justa causa para a entrada no domicílio e, portanto, não invalida a prova produzida." (AgRg no AgRg no AREsp n. 1.987.449/SE, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 14/12/2022, grifei)
+Por conseguinte, o recurso não deve ser conhecido, também, devido à Súmula n. 83, STJ.
+Diante do exposto, e nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA VIOLAÇÃO DE DOMICÍLIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7, STJ. CONDENAÇÃO COM BASE EM TESTEMUNHO POLICIAL. AUSÊNCIA DE INDÍCIO DE PARCIALID ADE. POSSIBILIDADE. PRECEDENTES. VISUALIZAÇÃO DE SITUAÇÃO DE FLAGRÂNCIA. JUSTA CAUSA. PRECEDENTES. SÚMULA 83, STJ. RECURSO ESPECIAL NÃO CONHECIDO.
