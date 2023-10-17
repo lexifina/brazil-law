@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por TSC RORAIMA SHOPPING S.A. (TSC SHOPPING CENTERS EMPREENDIMENTOS S.A.). O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Roraima assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CONTRATO DE LOCAÇÃO E DE CESSÃO DE DIREITO DE INTEGRAÇÃO A SHOPPING CENTER - INADIMPLÊNCIA DE ENCARGOS CONTRATUAIS - CERCEAMENTO DE DEFESA - AUSÊNCIA DE DOCUMENTOS QUE NÃO INFLUENCIAM NO JULGAMENTO DA CAUSA - PRELIMINAR REJEITADA - MÉRITO: RESPONSABILIZAÇÃO DO SHOPPING PELA COLOCAÇÃO DE QUADRO ENERGÉTICO NO INTERIOR DA LOJA LOCADA PREJUDICANDO 50% (CINQUENTA POR CENTO) DA ATIVIDADE DA APELANTE - DEVER DE OFERTA DE LOCAL ADEQUADO PELO LOCADOR - ART. 22, I, DALEI Nº 8.245/91 - FATO, DANO E NEXO CAUSAL DEMONSTRADOS - RESPONSABILIZAÇÃO DEVIDA - ARTS. 186, 187 E 944 DO CC - INDENIZAÇÃO POR BENFEITORIAS - AUSÊNCIA DE PREVISÃO CONTRATUAL - INCIDÊNCIA DA LEI DE LOCAÇÕES (ART. 35) - INDENIZAÇÃO CABÍVEL APENAS ÀS BENFEITORIAS ÚTEIS - QUANTIAS QUE DEVEM SER ABATIDAS DO TOTAL DA DÍVIDA ATÉ O LIMITE DE SEU VALOR - ART. 368 E 369 DO CC - MANUTENÇÃO DOS JUROS, MULTA E ATUALIZAÇÃO MONETÁRIA PREVISTOS CONTRATUALMENTE - SENTENÇA REFORMADA - RECURSO PARCIALMENTE PROVIDO" (fl. 515 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 569 e-STJ).
+Nas razões do recurso especial, a recorrente aponta violação dos artigos 784, III, do CPC e 54 da Lei nº 8.245/1991. Defende "a ausência do dever de indenizar a Recorrida pelas benfeitorias úteis, bem como que essa seja integralmente responsabilizada pela dívida existente" (fls. 596/597 e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+Na hipótese dos autos, o Tribunal de origem consignou:
+"Ao analisar os autos do processo de execução nº 0820838-26.2016.8.23.0010, verifico que os contratos de locação e de cessão de direito de integração ao shopping (e. p. 1.5 e 1.6) não contêm nenhuma cláusula de responsabilização da locadora frente a prejuízos causados à locatária, desse modo, o caso deve ser dirimido segundo o regramento geral da Lei de Locações nº 8.245/91.
+(..)
+In casu, embora o espaço locado tenha sido entregue à apelante aparentemente apto ao exercício da atividade comercial (e. p. 1.8), denota-se do testemunho de Caio Vinicius de Meneses (e. p. 57) e do laudo pericial do e. p. 1.2 que, após a abertura da loja, as alterações estruturais promovidas pela apelada (colocação de um quadro energético no interior do estabelecimento) tornaram o local arriscado para a segurança dos animais.
+Nesse sentindo, considerando que a apelada descumpriu com sua obrigação de ofertar espaço adequado às finalidades comerciais da apelante, é imperioso que seja responsabilizada pelas consequências de sua conduta na proporção de sua participação, em atenção aos art. 186, 187 e 944 do CC.
+Por outro lado, não há de se considerar que a baixa publicidade do shopping contribuiu para o fechamento da loja, pois como prova do alegado há apenas os depoimentos testemunhais de Kennedy Bernardino de Oliveira e de Caio Vinicius de Meneses (e. p. 57), os quais, isolados de outros elementos probatórios, se mostram insuficientes para comprovar o fato e o nexo de causalidade entre ele e o dano sofrido, logo, nos termos do art. 373, I, do CPC, a tese deve ser afastada para fins de responsabilização civil.
+Posto isso, tendo em vista que a apelante realizava basicamente duas atividades, quais sejam, a de vender produtos de pet shop e de prestar serviços para animais, e que a última restou comprometida pela colocação do quadro energético na loja, denota-se que o seu negócio foi prejudicado em 50% (cinquenta por cento), devendo a apelada ser responsabilizada no mesmo percentual.
+Assim, acolho o pedido da recorrente para atribuir à recorrida a responsabilização por 50% da dívida e determinar que o montante seja abatido do total devido, ante o permissivo legal dos arts. 368 e 369 do CC.
+No que tange à indenização das benfeitorias, observo, novamente, que nenhum dos instrumentos contratuais celebrados entre as partes prevê clausula específica sobre o tema, portanto a questão também deve ser dirimida pela Lei nº 8.245/91.
+(..)
+Na hipótese, a apelante trouxe aos autos, por meio de laudo pericial, uma lista de benfeitorias úteis realizadas por si e não retiradas ao fim da locação (e. p. 1.2 e 1.3),junto delas há uma vasta gama de recibos e notas fiscais atestando o valor de cada uma (e. p.1.3 a 1.17).
+Em face de tais provas, a apelada não apresentou impugnação específica, tampouco mencionou se autorizou, ou não, a realização das benfeitorias (e. p. 9). Desse modo, considera-se que essas foram tacitamente aceitas, assim como os valores por elas despendidos.
+Ocorre, todavia, que nem todas as benfeitorias previstas na lista enquadram-se como úteis, desta feita, em atenção ao art. 35 da Lei nº 8.245/91, apenas aquelas que aumentam ou facilitam o uso do bem comportam indenização.
+Dentre as listadas, as únicas que se enquadram na classificação são a colocação de vidraçaria na fachada e no interior da loja, a confecção de mobiliário e revestimento e a instalação do piso e sistema elétrico (e. p. 1.2).
+Nesse contexto, não havendo óbice contratual e nem oposição da apelada, bem como restando comprovado os valores gastos pela apelante, acolho o pleito indenizatório, devendo o montante, entretanto, se restringir aos custos das benfeitorias úteis apontadas acima.
+Determino, ainda, que a indenização seja abatida do restante da dívida, até o limite do seu valor, em atenção aos arts. 368 e 369 do CC" (fls. 51 1/513 e-STJ).
+Nesse cenário, a revisão do julgado esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
