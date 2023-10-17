@@ -1,0 +1,53 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005173-08.2022.8.08.0047
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ELLO CONTABILIDADE EMPRESARIAL LTDA
+RECORRIDO: BANCO DO ESTADO DO ESPIRITO SANTO
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS. ALEGA A PARTE AUTORA, EM SÍNTESE, QUE FOI ABERTA CONTA-CORRENTE COM AS TRÊS SÓCIAS DA EMPRESA, MAS O BANCO RÉU PERMITIU QUE UMA DELAS FIZESSE MOVIMENTAÇÕES INDIVIDUALMENTE, SEM ANUÊNCIA DAS DEMAIS SÓCIAS, O QUE A POSSIBILITOU REALIZAR TRANSAÇÕES PARA PAGAR DÍVIDAS PESSOAIS. REQUER INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA E RECURSO INOMINADO VISANDO A REFORMA DA SENTENÇA.
+RECURSO CONHECIDO E IMPROVIDO.
+INICIALMENTE, NÃO RESTOU COMPROVADA FALHA NA PRESTAÇÃO DE SERVIÇOS OU ATO ILÍCITO A CARGO DO BANCO RÉU. CONFORME CONSTA EM SENTENÇA, O TERMO DE ADESÃO PREVÊ QUE CADA TITULAR DE CARTÃO MAGNÉTICO CONSEGUIRÁ REALIZAR TRANSAÇÕES INDIVIDUALMENTE. AS TRÊS SÓCIAS ASSINARAM SOLICITAÇÃO DE CARTÃO MAGNÉTICO EM NOME DA SÓCIA EMILLY, COM PERMISSÃO EXPRESSA PARA QUAISQUER TIPOS DE AUTORIZAÇÃO. A RIGOR, A EMPRESA AUTORA SEQUER APONTA QUAIS AS OPERAÇÕES SÃO IMPUGNADAS. A AUDITORIA APRESENTADA, PORÉM, APONTA QUE AS MOVIMENTAÇÕES SE DERAM DURANTE DE MAIS DE ANO, O QUE DENOTA QUE AS DEMAIS SÓCIAS DESCUIDARAM DE SEU DEVER DE CONFERIR AS MOVIMENTAÇÕES BANCÁRIAS REALIZADAS EM REFERIDO PERÍODO. ADEMAIS, NÃO É FUNÇÃO DO BANCO MONITORAR A NATUREZA DAS OPERAÇÕES FEITAS PELOS SEUS CORRENTISTAS E USUÁRIOS, DE FORMA A IMPEDIR QUE CONTA DE PESSOA JURÍDICA SEJA UTILIZADA PARA PAGAR DÉBITOS DE UM DOS SÓCIOS SEM A ANUÊNCIA DOS DEMAIS. A RIGOR, TAL HIPÓTESE INCLUSIVE RESULTARIA EM VIOLAÇÃO AO SIGILO BANCÁRIO. POR FIM, NÃO HOUVE DANO MORAL CONFIGURADO, ANTE À AUSÊNCIA DE VIOLAÇÃO À HONRA OBJETIVA DA EMPRESA AUTORA. EMPRESAS NÃO SÃO DOTADAS DE SENTIMENTOS, DE FORMA QUE O RECONHECIMENTO DE DANO MORAL EXIGE COMPROVAÇÃO DE ABALO DA IMAGEM DA PESSOA JURÍDICA DE DIREITO PRIVADO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS QUE FIXO NO IMPORTE DE 10% DO VALOR ATUALIZADO DA CAUSA.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
