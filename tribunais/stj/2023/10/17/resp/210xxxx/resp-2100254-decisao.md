@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ITAPEVA XII MULTICARTEIRA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O julgado deu provimento em parte ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 365):
+Apelação. Ação declaratória de inexigibilidade de débito prescrito. Dívida de 2016 registrada na plataforma "Serasa Limpa Nome". Prescrição quinquenal incontroversa. Impossibilidade de cobrança tanto por meios judiciais como extrajudiciais. Aplicação do Enunciado nº 11, da Subseção II de Direito Privado do TJSP e em atenção ao princípio da colegialidade. Sentença reformada para julgar parcialmente procedentes os pedidos iniciais, determinando a exclusão dos dados do autor e a cessação de possíveis cobranças.
+Recurso parcialmente provido.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente aponta divergência jurisprudencial com arestos desta corte quanto à interpretação dos arts. 189, 882, 385, 188, I, e 191 do Código Civil.
+Sustenta, outrossim, que o "instituto jurídico da prescrição pode ser definido como a perda, pelo titular do direito violado, da pretensão à sua reparação, ou seja, a prescrição não atinge o direito subjetivo em si mesmo, mas tão somente o direito de o credor pleitear judicialmente o pagamento de um débito inadimplido, permanecendo, portanto, incólume a possibilidade de negociar, através de meios amigáveis, sem qualquer publicidade, que é justamente o que fora adotado pelo Recorrente. Saliente-se que a prescrição do débito não se confunde com a extinção da obrigação, cabendo apenas ao credor remir a dívida, nos termos do Art. 385 do CC/2002, não sendo este o caso, ou então que o devedor efetue o pagamento" (fl. 375).
+Não apresentadas as contrarrazões (fl. 593), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 594-595).
+É, no essencial, o relatório.
+As alegações da recorrente merecem prosperar.
+Cuida-se na origem de ação declaratória de prescrição c/c inexigência de débito em decorrência de inscrição de dívida prescrita no site "Serasa Limpa Nome".
+O Tribunal de origem, modificando a sentença, entendeu pela impossibilidade de cobrança judicial e extrajudicial de dívida prescrita e determinou a exclusão dos dados do autor da plataforma "Serasa Limpa Nome" e a cessação de possíveis cobranças sob os seguintes argumentos (fl. 366):
+É incontroverso o decurso do prazo prescricional do débito contraído pelo autor, a teor do que dispõe o artigo 206, § 5º, inciso I, do Código Civil. Inexiste, ademais, alegação ou comprovação da interrupção do prazo prescricional, nos termos do artigo 202, do mesmo diploma legal.
+Assim, verificada a perda da pretensão em virtude da prescrição, o débito não mais pode ser exigido.
+Especificamente quanto à cobrança extrajudicial, ressalvo meu entendimento pessoal expresso em julgados anteriores, em atenção à necessidade de uniformização da jurisprudência e a fim de aplicar o quanto preconizado pelo Enunciado nº 11, aprovado pela C. Turma Especial da Subseção II de Direito Privado, em sessão realizada em 22 de setembro de 2022 (DJe de 7/10/2022, pp.14-16; 18/10/2022, pp. 2-4 e 20/10/2022, pp. 4-6):
+Enunciado nº 11 A cobrança extrajudicial de dívida prescrita é ilícita. O seu registro na plataforma "Serasa Limpa Nome" ou similares de mesma natureza, por si só, não caracteriza dano moral, exceto provada divulgação a terceiros ou alteração no sistema de pontuação de créditos: score.
+Desse modo, e em atenção ao princípio da colegialidade, aplico o entendimento quanto à impossibilidade de cobrança judicial e extrajudicial da dívida alcançada pela prescrição.
+O acórdão merece reforma.
+Quanto à possibilidade de cobrança extrajudicial de dívida prescrita, a jurisprudência desta Corte é no sentido de que a prescrição apenas impede a pretensão à reparação, não tornando inexistente a dívida.
+Como bem determinou a Min. Nancy Andrighi no julgamento do REsp n. 1.694.322/SP, "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp n. 1.694.322 /SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/11/2017).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÍVIDA. PRESCRIÇÃO. PERDA DA PRETENSÃO. AÇÃO INCABÍVEL. RELAÇÃO JURÍDICA DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a declaração de inexistência de uma relação jurídica em razão da ocorrência da prescrição, que extingue apenas a pretensão, mas não o próprio direito violado, que permanece hígido.
+2. No caso, ficou demonstrada a existência da relação jurídica entre as partes, da obrigação inadimplida e da condição de devedor do recorrente, autor da ação, que não se altera em virtude da prescrição, que apenas atinge a pretensão do titular do direito violado.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.279.848/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPUGNAÇÃO ESPECÍFICA CONSTATADA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA JULGADA IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DÉBITO PRESCRITO. RECONHECIMENTO DE QUITAÇÃO. INVIABILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, consoante o disposto no art. 1.418 do Código Civil de 2002" (REsp 1.601.575/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 23.8.2016).
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017).
+3. O Tribunal de Justiça julgou improcedente o pedido da parte autora, sob o fundamento de que "não há falar-se em outorga de escritura pública de imóvel mediante ação de adjudicação compulsória quando não provada a quitação integral do preço ajustado, sendo irrelevante o fato de o débito já se encontrar prescrito". Decisão em consonância com o entendimento desta Corte Superior. Aplicação da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.816.356/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 20/9/2022.)
+Ressalta-se, ainda, que "a plataforma Serasa Limpa Nome não é propriamente um órgão de restrição de crédito, mas sim uma plataforma com o fim de viabilizar a renegociação entre o consumidor e o credor" (AgInt no AREsp n. 2.067.213, Ministra Maria Isabel Gallotti, DJe de 2/12/2022).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença, invertendo-se os ônus da sucumbência nos termos fixados na origem.
+Publique-se. Intimem-se.
+ EMENTA
