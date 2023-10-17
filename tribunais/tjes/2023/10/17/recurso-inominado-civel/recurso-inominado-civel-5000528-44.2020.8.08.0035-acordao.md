@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000528-44.2020.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RHAIRA BOLDRINI SAIBERT
+RECORRIDO: BANCO BRADESCO CARTOES S.A. e outros
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE INDENIZAÇÃO DE DANOS MORAIS. FALHA NO SERVIÇO. MENSAGENS INDEVIDAS. NARRA A AUTORA QUE VEM RECEBENDO MENSAGENS DA RÉ REFERENTES AO USO DE CARTÃO DE CRÉDITO BRADESCO PERTENCENTE A TERCEIRO DESCONHECIDO DESDE 2018, MENSAGENS QUE CONTINUARAM MESMO APÓS INFORMAR À REQUERIDA QUE NÃO POSSUI SERVIÇOS DA MESMA. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) TUTELA DE EVIDÊNCIA OU URGÊNCIA PARA QUE A RÉ SE ABSTENHA DE ENVIAR MENSAGENS REFERENTES AO CARTÃO DO TERCEIRO E B) CONDENAÇÃO DA RÉ AO PAGAMENTO DE R$10.000,00 À TÍTULO DE DANOS MORAIS. SENTENÇA DE PISO JULGOU PARCIALMENTE PROCEDENTE O PEDIDO DA INICIAL PARA CONDENAR A RÉ BRADESCO CARTÕES S.A AO PAGAMENTO DE R$1.000,00 À TÍTULO DE DANOS MORAIS. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA MAJORAR A CONDENAÇÃO EM DANOS MORAIS.
+RECURSO CONHECIDO E PROVIDO
+. TRATA-SE DE PLEITO CONSUMERISTA NO QUAL A RECORRIDA NÃO CONSEGUIU AFASTAR OS FATOS CONSTITUTIVOS DO DIREITO DA ORA RECORRENTE. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA DIANTE DAS PROVAS DOS AUTOS PENDENDO REFORMA TÃO SOMENTE QUANTO AO VALOR DA CONDENAÇÃO. RETIRA-SE DOS AUTOS QUE A AUTORA VEM RECEBENDO, HÁ VÁRIOS ANOS, MENSAGENS REFERENTES A UM CARTÃO PERTENCENTE A TERCEIRO, SEM OBTER SUCESSO EM IMPEDIR O “SPAM” DE MENSAGENS JUNTO À INSTITUIÇÃO BANCÁRIA. DESTARTE, ENTENDO PELA NECESSIDADE DA MAJORAÇÃO DA CONDENAÇÃO VISANDO O CARÁTER EDUCATIVO DOS DANOS MORAIS A FIM DE INCENTIVAR QUE SITUAÇÕES COMO AS DOS AUTOS NÃO SE REPITAM.
+ISSO POSTO, CONHEÇO DO RECURSO E DOU-LHE PROVIMENTO PARA REFORMAR A SENTENÇA PARA MAJORAR A CONDENAÇÃO EM DANOS MORAIS AO PATAMAR DE R$4.000,00 (QUATRO MIL REAIS)
+. MANTENDO-SE INCÓLUME A R. SENTENÇA RECORRIDA POR SEUS PRÓPRIOS FUNDAMENTOS NO TOCANTE ÀS DEMAIS MATÉRIAS. SEM CUSTAS E HONORÁRIOS.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
