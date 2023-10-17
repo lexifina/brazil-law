@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de FRENTZEN JHONNI PEREIRA PEGO, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500763-11.2022.8.26.0630) - fl. 64:
+Apelação criminal Tráfico de drogas Recurso ministerial - Pena Majoração Afastamento do redutor do § 4º do art. 33 da Lei n. 11.343/2006 Admissibilidade Réu primário Irrelevância - Evidente envolvimento e dedicação do acusado a atividades criminosas tendo em vista a quantidade elevada e variedade de drogas apreendidas Requisitos legais não preenchidos Benesse afastada Regime inicial fechado Necessidade - Recurso provido.
+Apelo defensivo aplicação da causa de diminuição do § 4º do art. 33 da Lei n.
+11.343/2006 em sua fração máxima Inviabilidade Benefício afastado, por ausência dos requisitos legais Recurso desprovido.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006, à pena de 4 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto (99 porções de crack, pesando 18 g, 71 porções de cocaína, pesando 49 g, e 139 porções de maconha, pesando 217 g) - fls. 30/40.
+O Tribunal de origem negou provimento à apelação da defesa e deu provimento ao apelo do Ministério Público para afastar a aplicação da causa de diminuição da pena do art. 33, § 4º, da Lei n. 11.343/2006, redimensionando a pena aplicada para 6 anos e 8 meses de reclusão, em regime inicial fechado.
+Requer-se, em liminar e no mérito, a concessão da ordem para reduzir a pena do paciente, fixando a pena-base no mínimo legal e aplicando a minorante do tráfico privilegiado, em seu patamar máximo, com a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+A liminar foi indeferida (fls. 80/81).
+Parecer do Ministério Público Federal opinando pela concessão da ordem (fls. 121/126):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. TRÁFICO DE DROGAS. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE NÃO EXPRESSIVA. FUNDAMENTAÇÃO INIDÔNEA. PEDIDO DE APLICAÇÃO DA MINORANTE DO ARTIGO 33, §4º, DA LEI Nº 11.343/06 NA FRAÇÃO MÁXIMA. POSSIBILIDADE. QUANTIDADE DA DROGA APREENDIDA, DESPROVIDA DE OUTROS ELEMENTOS CONCRETOS, NÃO JUSTIFICA O AFASTAMENTO DO TRÁFICO PRIVILEGIADO. NECESSIDADE DE FIXAÇÃO DO REGIME MAIS BRANDO. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, CASO CONHECIDO, PELA CONCESSÃO DA ORDEM.
+É o relatório.
+Entendo presente a ilegalidade nos termos da manifestação do Parquet Federal, a qual adoto como razões de decidir (fls. 123/126):
+Por força do que dispõe o art. 42 da Lei de Drogas, o juiz considerará, com preponderância sobre as circunstâncias judiciais do 59 do Código Penal, a natureza e a quantidade da substância, na fixação da pena-base.
+A fixação da pena-base, dada a ausência de critérios legais objetivos, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 para cada circunstância desfavorável, sobre o mínimo previsto para o delito, ou também as frações de 1/6 e 1/8 sobre o intervalo entre mínimo e máximo abstratamente previsto (HC 305.505/RR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2016, DJe 19/12/2016; AgRg no AREsp 1222597/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/04/2018, DJe 13/04/2018).
+É certo que há relativa margem de discricionariedade do juiz na fixação da pena-base, mediante fundamentação que exige análise das circunstâncias fáticas do caso concreto e observância dos princípios da razoabilidade e da proporcionalidade (HC 364.893/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/12/2017).
+No caso concreto, inobstante a nocividade das substâncias, a quantidade de drogas apreendidas (99 porções de crack, pesando 18g, 71 porções de cocaína, pesando 49g, e 139 porções de maconha, pesando 217g) não se mostra expressiva a ponto de justificar a fixação da pena-base acima do mínimo legal. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.
+TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CIRCUNSTÂNCIAS DO CRIME. NATUREZA E QUANTIDADE DA DROGA.
+FUNDAMENTAÇÃO INIDÔNEA. VALORAÇÃO NEGATIVA AFASTADA. READEQUAÇÃO DA PENA BASE. TRÁFICO PRIVILEGIADO. AÇÃO PENAL EM CURSO. TRÂNSITO EM JULGADO ANTERIOR AO JULGAMENTO DA APELAÇÃO.
+DEDICAÇÃO A ATIVIDADES CRIMINOSAS .
+I - A exasperação da pena-base no crime de tráfico de drogas, em razão da natureza e da quantidade de tóxicos, deve se atentar para os princípios da proporcionalidade e razoabilidade, só se justificando quando o cenário fático extrapolar as circunstâncias normalmente esperadas para o tipo penal.
+II - Em juízo de proporcionalidade, no caso dos autos, o agravante foi encontrado com 3g de crack e 120g de maconha, quantidades que não justificam a exasperação aplicada na origem. Precedentes.
+III - Ao apreciar o Tema Repetitivo 1139, a Terceira Seção do STJ fixou a tese de que inquéritos e ações penais em curso não podem impedir a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei 11.343/06.
+IV - No caso sob exame, a apelação referente ao crime de tráfico de drogas foi apreciada após o trânsito em julgado da ação penal que havia obstado a aplicação da causa de diminuição de pena em comento, inexistindo, portanto, incerteza quanto à dedicação do réu a atividades criminosas.
+Agravo regimental parcialmente provido.
+(AgRg no AREsp n. 2.066.116/AL, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023.) - grifos nosso
+Assim, deve ser revisada a pena aplicada na primeira fase da dosimetria, para que seja fixada no mínimo legal.
+Da minorante do artigo 33, § 4º, da Lei de Drogas.
+O Tribunal de origem afastou a aplicação da causa de diminuição da pena do artigo 33, § 4º, da Lei nº 11.343/06, considerando a dedicação do acusado às atividades delitivas, evidenciada pela quantidade e diversidade das drogas apreendidas. Vejamos (fl. 72):
+Na terceira fase, afastado, como visto, o reconhecimento do privilégio, as penas resultam definitivas em 06 anos e 08 meses de reclusão e 666 dias- multa.
+Anote-se, que o afastamento da benesse não configura bis in idem, posto que na primeira fase de fixação da pena, o aumento se dá em face da considerável quantidade de drogas, seguindo critério de fixação da pena disposto no art. 42 da Lei de Drogas; já a não aplicação do redutor previsto no referido § 4º está sendo pautado no evidente envolvimento do acusado com o crime organizado, ao lado da inquestionável dedicação a atividades criminosas, tendo em vista a expressiva quantidade e diversidade dos entorpecentes, não reunindo mérito para o benefício.
+A aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei 11.343/06 está condicionada ao preenchimento concomitante dos seguintes requisitos legais:
+primariedade, bons antecedentes e agente que não se dedique a atividades criminosas, nem integre organização criminosa.
+O acórdão do Tribunal de origem não apresentou fundamentação suficiente para não aplicar a minorante do tráfico privilegiado. Embora não seja irrisória, a quantidade de droga encontrada em poder do acusado (99 porções de crack, pesando 18g, 71 porções de cocaína, pesando 49g, e 139 porções de maconha, pesando 217g), sem o acréscimo de outras circunstâncias indicativas de dedicação ao tráfico, não justifica a recusa de aplicação da causa de diminuição da pena do artigo 33, §4º, da Lei de Drogas. Ademais, o fundamento utilizado para afastar o reconhecimento do tráfico privilegiado foi o mesmo que justificou a fixação da pena-base acima do mínimo legal (quantidade da droga apreendida), caracterizando indevido bis in idem. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL.
+RECURSO DO MINISTÉRIO PÚBLICO. DOSIMETRIA. TRÁFICO DE ENTORPECENTES. MINORANTE. FRAÇÃO DE 2/3. ADEQUAÇÃO.
+QUANTIDADE DE DROGA, POR SI SÓ, NÃO AFASTA O BENEFÍCIO.
+AGRAVO REGIMENTAL DESPROVIDO.
+1 . Conforme entendimento consolidado desta Corte Superior, a quantidade de droga, em si, desprovida de outros elementos concretos, não se revela fundamento idôneo para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+2. Na hipótese, preenchidos os requisitos legais, a incidência da minorante do tráfico privilegiado na fração de 2/3 se revela em consonância com o entendimento desta Corte Superior.
+3 . Ademais, tendo sido a pena-base exasperada pelas instâncias ordinárias com fundamento na natureza e quantidade de drogas apreendida, de rigor se faz a aplicação da minorante em seu grau máximo, sob pena de bis in idem. Afinal, segundo a jurisprudência desta Corte, a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 801.517/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/5/2023, DJe de 25/5/2023.) - grifo nosso
+Por força do que dispõe o artigo 33, § 3º do CP, a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 do mesmo Código. Vale dizer, a fixação do regime de cumprimento da pena deve pautar-se nos fatos e circunstâncias judiciais concretamente havidos e demonstrados, nos termos do art. 59 do CP.
+Fixada a pena-base no mínimo legal (5 anos) e aplicada a minorante do tráfico privilegiado na fração de 2/3, tem-se por cabível a fixação do regime inicial aberto, nos termos do artigo 33, §2º, "c", do CP.
+III Em face do exposto, o parecer do Ministério Público Federal é pelo não conhecimento do habeas corpus; caso conhecido, pela concessão da ordem.
+Ante o exposto, nos termos do parecer do Ministério Público Federal, não conheço do habeas corpus e concedo a ordem de ofício, para redimensionar a pena do paciente, tornando-a definitiva em 1 ano e 8 meses de reclusão, no regime aberto, mais o pagamento de 166 dias-multa, no mínimo legal.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. TRÁFICO DE DROGAS. DOSIMETRIA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE NÃO EXPRESSIVA. FUNDAMENTAÇÃO INIDÔNEA. PEDIDO DE APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006 NA FRAÇÃO MÁXIMA. POSSIBILIDADE. QUANTIDADE DA DROGA APREENDIDA, DESPROVIDA DE OUTROS ELEMENTOS CONCRETOS. TRÁFICO PRIVILEGIADO RECONHECIDO. FIXAÇÃO DO REGIME MAIS BRANDO. PARECER DO MINISTÉRIO PÚBLICO FEDERAL ACOLHIDO.
+Habeas corpus não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
