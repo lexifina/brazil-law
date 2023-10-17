@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 718/734) interposto contra decisão desta relatoria (e-STJ fls. 704/707) , que conheceu do agravo em recurso especial para dar parcial provimento ao recurso de fls. 617/624 (e-STJ), a fim de afastar a prescrição quinquenal, em razão da interrupção do curso de seu prazo.
+Em suas razões, a parte alega que o acórdão recorrido "não incorreu em qualquer erro ao refutar a alegada interrupção do prazo prescritivo, justamente, porque o que foi pedido e julgado foi o pedido da renúncia e não da interrupção" (e-STJ fl. 729).
+Aduz, a propósito, que "o agravado (..) só começou a tratar do instituto da interrupção da prescrição após a sentença de piso, em sede de apelação" (e-STJ fl. 727).
+Defende ainda ter sido inobservada a Súmula n. 7 do STJ, tendo em vista que "o acórdão que julgou o Recurso de Apelação foi claro ao dispor que não havia, nos autos, o ato inequívoco pelo devedor, hábil a configurar seja a renúncia, seja a interrupção" (e-STJ fl. 731).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação às fls. 739/747 e-STJ).
+É o relatório.
+Decido.
+A insurgência merece acolhida.
+Em virtude das razões de fls. 718/734 (e-STJ), apresentadas pela parte agravante, reconsidero a decisão de fls. 704/707 (e-STJ), com fundamento no art. 259 do RISTJ, e passo a novo exame do agravo em recurso especial.
+Adota-se o relatório da decisão de fls. 704/707 (e-STJ):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o especial em razão da falta de prequestionamento da tese recursal (e-STJ fls. 672/674).
+O acórdão recorrido encontra-se assim ementado (e-STJ fls. 522/523):
+RECURSO DE APELAÇÃO. DIREITO CIVIL. CÉDULA DE CRÉDITO COMERCIAL. TÍTULO DE CRÉDITO COM REGULAMENTAÇÃO ESPECIAL. PRESCRIÇÃO TRIENAL. LEI 6840/80 C/C DECRETO-LEI Nº 413/1969 C/C LEI UNIFORME DE GENEBRA. PRECEDENTES DO STJ. CAUSA INTERRUPTIVA. NÃO CONFIGURAÇÃO. AJUIZAMENTO POSTERIOR. PRESCRIÇÃO CONFIGURADA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+I - As Cédulas de Crédito Comercial são espécies de títulos de créditos que possuem regulamentação legal própria.
+II - Na esteira do precedente estabelecido pelo Superior Tribunal de Justiça, o prazo de prescrição da cédula de crédito comercial é trienal, conforme o teor do artigo 5º da Lei 6840/80 c/c artigo 52 do Decreto-Lei nº 413/69. Precedentes do STJ.
+III - Assim, considerando que os vencimentos das Cédulas de Crédito Comerciais, objeto da dívida em discussão, foram fixados em 30/05/2002 e 30/01/2002, considera-se efetivada a prescrição em 2005 e, portanto, incumbe reconhecer que o ajuizamento demanda, em 2010, foi realizado de forma deveras intempestiva.
+IV - Demais, mesmo que se considerasse a existência de causa interruptiva da prescrição em 26/01/2006 e o reinício do prazo trienal da prescrição na referida data, o ajuizamento da demanda apenas foi efetivado em 07/12/2010, ou seja, após a ocorrência da prescrição, que teria, neste cenário, se realizado em 2009.
+V - Por derradeiro, cabe reconhecer que não há, in casu, sequer a prática de ato inequívoco pelo devedor que seja hábil a configurar a renúncia tácita da prescrição, inexistindo, por consectário, a presença de requisito indispensável, conforme entendimento consolidado no Superior Tribunal de Justiça, na esteira do entendimento consolidado no Superior Tribunal de Justiça.
+VI - Manutenção da sentença. Desprovimento do recurso.
+Os embargos de declaração foram acolhidos em parte, nos termos da ementa transcrita a seguir (e-STJ fls. 579/580):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM APELO. AÇÃO ORDINÁRIA DE COBRANÇA. CÉDULA DE CRÉDITO COMERCIAL. ART. 1.022 DO CPC. AFRONTA AO ART. 10 DO CPC. ADOÇÃO DE TESE NÃO DEBATIDA ENTRE AS PARTES. REANÁLISE. AFASTADA PRESCRIÇÃO TRIENAL. INCIDÊNCIA RESTRITA À EXECUÇÃO. PRESCRIÇÃO QUINQUENAL. ART. 206, § 5º, INC. I DO CÓDIGO CIVIL. INTERRUPÇÃO DO PRAZO PRESCRITIVO. MATÉRIA EXAUSTIVAMENTE DEBATIDA. INCONFORMISMO. INTEGRATIVO CONHECIDO E ACOLHIDO, EM PARTE.
+1. Inicialmente é preciso registrar que assiste razão ao embargante quanto a alegada inobservância à regra do art. 10 do CPC, uma vez que aplicação do art. 70 da Lei Uniforme de Genebra não foi objeto de debate entre as partes, tendo o relator originário trazido este fundamento quando da prolação do voto fustigado.
+2. Reinaugurada a discussão em razão do exercício do contraditório, é certo que os prazos prescritivos aplicáveis à execução e a ação de cobrança, firmadas em cédula de crédito comercial, são distintos, prelecionando o STJ, que "Não se tratando de execução, cujo prazo é trienal, a prescrição da pretensão de cobrança de dívida documentada em título de crédito regula-se pelo prazo quinquenal." (REsp n.1.810.431/RJ)
+3. O aresto não incorreu em qualquer do vício ao refutar a alegada interrupção do prazo prescritivo, revelando-se, em sentido diverso, o inconformismo do embargante com entendimento jurídico em desacordo com seus interesses.
+4. Com fincas no art. 1.022 do CPC, o voto é no sentido de conhecer e acolher, em parte, o declaratório, para, afastar atese de prescrição trienal, mantendo-se o improvimento do apelo do Banco do Nordeste diante do reconhecimento da prescrição quinquenal prevista no art. 206, § 5º inc. I do código Civil.
+Nas razões do recurso especial (e-STJ fls. 617/624), fundamentado no art. 105, III, "a", da CF, a parte alegou violação do art. 202, VI, do CC.
+Relata que o Tribunal de origem "afastou a prescrição trienal e reconheceu a incidência ao caso da prescrição quinquenal, sem, contudo, reconhecer a interrupção da prescrição por ato inequívoco do recorrido" (e-STJ fl. 622).
+Aduz que "o ato do recorrido apto a interromper o curso prescricional está inequivocamente referido no acórdão do Tribunal a quo, como tendo ocorrido em 26/01/2006, momento em que estava em curso o prazo quinquenal" (e-STJ fl. 622), bem como que "decorrem do próprio acórdão do TJBA as datas de vencimentos das Cédulas de Crédito Comerciais, objeto da dívida em discussão, fixados em 30/05/2002 e 30/01/2002" (e-STJ fl. 622).
+Defende que, "como o documento foi entregue ao Banco no curso da prescrição (26/01/2006) (..), cumpria ao Tribunal baiano afastar o decreto prescricional pois que ajuizada a ação de cobrança em 07/12/2010" (e-STJ fl. 622).
+No agravo (e-STJ fls. 677/681), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 685/693 (e-STJ).
+É o relatório.
+Relatado o recurso, passo a novo julgamento.
+Trata-se, na origem, de ação de cobrança ajuizada pela parte ora agravada contra a parte ora agravante, tendo por objeto débito oriundo de cédulas de crédito comercial com "prazos de vencimento final em 30/05/2002 (..) e 30/01/2002" (e-STJ fl. 527).
+Em primeira instância, foi reconhecida a "incidência da prescrição quinquenal extintiva" (e-STJ fl. 442), havendo sido julgado extinto o processo, com resolução de mérito, nos termos do art. 487, II, do CPC/2015.
+Interposta apelação pela parte ora agravada, o TJBA negou provimento ao recurso, entendendo, ademais, pela incidência da prescrição trienal.
+No acórdão de fls. 579/614 (e-STJ), o Tribunal de origem acolheu, em parte, os embargos de declaração opostos pela instituição bancária, para, imprimindo-lhes efeito modificativo, afastar a tese de prescrição trienal e reconhecer a sujeição da pretensão autoral ao prazo prescricional de 5 (cinco) anos (art. 206, § 5º, I, do CC). Concluiu, todavia, no mesmo sentido do acórdão então embargado, quanto à incidência da prescrição no caso concreto.
+Além de se manter o entendimento de que a prescrição ocorreu, os efeitos modificativos do acórdão proferido em sede de julgamento do recurso integrativo não alcançaram o consignado no acórdão de fls. 522/534 (e-STJ) a respeito da inexistência de ato inequívoco do devedor que tenha importado reconhecimento da dívida exequenda.
+A propósito, consta às fls. 531/532 (e-STJ) que:
+ ..  ainda que superadas as considerações acima, cumpre sinalizar que o documento direcionado ao Banco apelante não apresenta a certeza necessária a respaldar o reconhecimento inequívoco do débito objeto da execução, uma vez que foi elaborado de forma ampla e genérica, sem mencionar qualquer título comercial específico, afirmando apenas a existência de dívida perante aquela Instituição, mas sem trazer elementos que possam correlacionar os débitos com os títulos de crédito ora exequendos e sem formalizar qualquer acordo, não apresentando, portanto, os requisitos necessários para configuração da hipótese prevista no artigo 191 ou 202, VI, do Código Civil.
+Não há, assim, in casu, sequer a prática de ato inequívoco pelo devedor que seja hábil a configurar a renúncia tácita da prescrição, inexistindo, por consectário, a presença de requisito indispensável  .. .
+O acolhimento da pretensão recursal pressupõe, necessariamente, reconhecer a existência de "ato do recorrido  ora agravante  apto a interromper o curso prescricional" (e-STJ fl. 622), o que, todavia, vai de encontro à conclusão do Tribunal de origem, cujo afastamento, por sua vez, demandaria a incursão no contexto fático-probatório dos autos, vedada pela Súmula n. 7 do STJ.
+Diante do exposto, DOU PROVIMENTO ao agravo interno, a fim de RECONSIDERAR a decisão monocrática de fls. 704/707 (e-STJ), e NEGO PROVIMENTO ao agravo de fls. 677/681 (e-STJ).
+Publique-se e intimem-se.
+EMENTA
