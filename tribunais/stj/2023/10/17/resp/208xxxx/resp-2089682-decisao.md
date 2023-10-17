@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo COMERCIAL DE COMBUSTÍVEIS CIDRA LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+CRÉDITOS DE PIS E COFINS. ICMS-ST.
+Não tem o contribuinte direito de apurar créditos de PIS e COFINS sobre o valor pago a título de ICMS recolhido sob o regime de substituição tributária (ICMS-ST).
+Os embargos declaratórios opostos pela recorrente foram rejeitados.
+Em suas razões, a recorrente aponta violação do art. 3º, I, da Lei n. 10.637/2002; do art. 3º, I, da Lei n. 10.833/2003, defendendo, em síntese, que "se o ICMS-ST integra o custo de aquisição da mercadoria adquirida para revenda e se os créditos PIS/COFINS são calculados sobre o custo de aquisição da mercadoria (art. 3º, I, das Leis n. 10.637 e n. 10.833), incontestável que devem ser admitidos os créditos de PIS/COFINS sobre o custo de aquisição." (e-STJ Fl.566)
+Sem apresentação de contrarrazões.
+Decisão a quo de admissão do recurso especial às e-STJ fls. 181/183.
+Parecer do Ministério Público pelo não provimento do recurso especial.
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança em que se postula o direito de apurar créditos de PIS e COFINS sobre o valor pago a título de ICMS recolhido sob o regime de substituição tributária (ICMS-ST).
+Em primeiro grau de jurisdição, o Juízo da 1ª Vara Federal de Carazinho/RS denegou a segurança, extinguindo o processo como julgamento do mérito, nos termos do art. 487, I, do CPC.
+Irresignada, a recorrente interpôs recurso de apelação, que foi negado provimento pelo Tribunal Regional da 4ª Região. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 542/545):
+Quando o ICMS é recolhido em regime de substituição tributária (ICMS-ST, LC 87/1996) o substituto tributário é incumbido de recolher o valor presumido de ICMS, calculado com base na expectativa do acontecimento de fatos geradores nas operações seguintes da cadeia de comercialização. A obrigação tributária do substituído, mais à frente na cadeia de comercialização, já estará satisfeita pelo substituto em operação anterior.
+Nesse sentido, o valor repassado pelo substituído ao substituto atítulo de ICMS-ST não configura custo de aquisição da mercadoria, mas repercussão jurídica e econômica do valor pago antecipadamente pelo substituto, decorrente do encargo incidente na venda/revenda da mercadoria ao consumidor final. Na apuração de contribuições para PIS-PASEP e COFINSpelo sistema da não cumulatividade, portanto, o substituído tributário não tem direito ao creditamento dos valores que repassa ao substituto a título de reembolso pelo recolhimento do ICMS-ST. Nesse sentido precedentes desseTribunal:  ..
+A matéria foi apreciada no julgamento da apelação cível 50166223820204047108, pelo quórum estendido do art. 942 do CPC completo com membros desta Primeira Turma, concluindo que  N ão tem o contribuinte direito ao creditamento, no âmbito do regime não-cumulativo do PIS e COFINS, dos valores que, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição. (TRF4,Segunda Turma, AC 5016622-38.2020.4.04.7108, rel. para acórdão Rômulo Pizzolatti, 15out.2021). Nos termos do voto do relator para acórdão:  ..
+Como se vê, a Lei nº 9.718, de 1998, expressamente excluiu da base de cálculo do PIS e da COFINS, no regime cumulativo, os valores cobrados do adquirente da mercadoria - contribuinte substituído - pelo vendedor, a título de reembolso do ICMS recolhido por esse na condição de substituto tributário. Por outro lado, ainda que nas Leis nºs 10.637, de 2002, e 10.833, de 2003, não tenha igual previsão de exclusão desses valores da base de cálculo da contribuição ao PIS e da COFINS no regime não-cumulativo, essa previsão é desnecessária. É que o substituto tributário atua como mero agente repassador do tributo, e o valor que cobra do contribuinte substituído, quando a esse vende a mercadoria, não representa receita ou faturamento, mas mero reembolso pelo valor despendido a título de tributo recolhido na condição de responsável, em relação ao qual não é o contribuinte de direito.
+E, em assim sendo, não havendo a anterior incidência das contribuições, não se cogita de creditamentono âmbito do regime não-cumulativo do PIS e COFINS, dos valores pagos pelo contribuinte substituído ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição. Em resumo, não tem o contribuinte o direito à dedução de crédito, no âmbito do regime não-cumulativo do PIS e da COFINS, dos valores pagos ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição.
+No mesmo sentido é a jurisprudência da Segunda Turma do Superior Tribunal de Justiça:  ..
+Diante do exposto, não tem o contribuinte direito de apurar créditos de PIS e COFINS sobre o valor pago a título de ICMS recolhido sob o regime de substituição tributária (ICMS-ST).
+Deve ser mantida a sentença no ponto, inclusive no que se refere à distribuição dos ônus da sucumbência.
+Pois bem.
+A irresignação merece prosperar.
+O acórdão recorrido está em confronto com a jurisprudência desta Primeira Turma do STJ, no sentido da que o ICMS-ST, na aquisição de bens para revenda posterior, gera direito de crédito de PIS e de COFINS em favor da empresa substituída.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO RECURSO ESPECIAL. PIS E COFINS. BASE DE CÁLCULO DO CRÉDITO. INCLUSÃO DO ICMS-ST. AQUISIÇÃO DE BENS PARA REVENDA POR EMPRESA SUBSTITUÍDA. POSSIBILIDADE.
+1. A Primeira Turma do Superior Tribunal de Justiça firmou o entendimento no sentido de reconhecer que o ICMS-ST está apto a ser incluído na base de cálculo do crédito da contribuição ao PIS e da COFINS.
+2. "Sendo o fato gerador da substituição tributária prévio e definitivo, o direito ao crédito do substituído decorre, a rigor, da repercussão econômica do ônus gerado pelo recolhimento antecipado do ICMS-ST atribuído ao substituto, compondo, desse modo, o custo de aquisição da mercadoria adquirida pelo revendedor." (REsp 1.909.823/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, 02/03/2021, DJe 11/03/2021).
+3. Agravo interno não provido.
+(AgInt no REsp 1.926.461/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 15/12/2021).
+Ante o exposto, com base no art. art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para conceder a ordem, de modo a assegurar o direito da recorrente de incluir o ICMS-ST, destacados nos documentos fiscais, como custo de aquisição de mercadorias, para fins de apuração de créditos da Contribuição ao PIS e da COFINS, no regime nã o cumulativo, e declarar o direito à compensação em sua escrita fiscal, observada a prescrição quinquenal e sob fiscalização da autoridade tributária.
+Custas ex lege.
+Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
