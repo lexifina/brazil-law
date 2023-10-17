@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, em adversidade à decisão que inadmitiu recurso especial manejado com fundamento nas alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, assim ementado (e-STJ fls. 4.040/4.047):
+EMENTA: PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO CONTRA DECISÃO DO JUÍZO A QUO QUE RELAXOU AS PRISÕES PREVENTIVAS. PRELIMINAR DE NULIDADE DA DECISÃO SUSCITADA PELO PARQUET DE PRIMEIRO GRAU. TRANSFERÊNCIA PARA O MÉRITO. MÉRITO. NULIDADE DA DECISÃO ANTE A EXTENSÃO DOS EFEITOS ENVOLVENDO OS MESMOS FATOS. INOCORRÊNCIA. SIMILITUDE FÁTICA VERIFICADA. PLEITO DE RESTABELECIMENTO DAS PRISÕES CAUTELARES AO ARGUMENTO DE QUE O EXCESSO DE PRAZO, RECONHECIDO NO DECISUM A QUO, FOI CAUSADO PELA DEFESA. ARGUMENTO INSUFICIENTE A ENSEJAR O RESTABELECIMENTO DO CÁRCERE CAUTELAR. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA NÃO DEMONSTRADA ANTE A AUSÊNCIA DE CONTEMPORANEIDADE. RECORRIDOS QUE NÃO REITERARAM NA PRÁTICA DELITIVA DESDE QUE PROFERIDA A DECISÃO. MEDIDAS CAUTELARES QUE SE REVELAM ADEQUADAS AO CASO CONCRETO. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alega a defesa violação dos artigos arts. 312, 313, I, 319, 580 e 619, todos do Código de Processo Penal. Sustenta a nulidade do aresto recorrido por ausência de enfrentamento de importantes questões suscitadas pelo parquet e/stadual. Reitera ser indevida a revogação da prisão preventiva ou substituição da custódia por medidas cautelares, considerando a conveniência da instrução criminal e a necessidade de se assegurar a aplicação da lei penal. Aduz que a revogação da prisão preventiva de um dos réus por excesso de prazo não deve, automaticamente, ser estendida aos demais acusados, sendo imprescindível uma análise detalhada dos pontos divergentes entre as situações fático-processuais dos réus.
+Sem contrarrazões, o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 708/712), dando ensejo à interposição do agravo ora apreciado.
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo provimento do recurso (e-STJ fls. 770/781).
+É o relatório. Decido.
+De pronto, cumpre registrar que a pretensão da parte recorrente é o restabelecimento das prisões preventivas revogadas na origem, com confirmação pela Corte a quo no acórdão recorrido que julgou o recurso em sentido estrito.
+Ocorre que, consoante informações obtidas no endereço eletrônico do Tribunal de Justiça do Estado do Rio Grande do Norte, após submetida a ação penal ação penal nº 0100586-77.2019.8.20.0121, subjacente ao presente recurso, em 15/9/2023, foi proferida sentença que expressamente discorre sobre a prisão dos acusados, agregando nova fundamentação.
+Nesse contexto, fica sem objeto a pretensão recursal.
+Ante o exposto, julgo prejudicado o recurso.
+Intimem-se.
+EMENTA
