@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de Nicole Feres da Silva e Willian dos Santos Portalez, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n. 1505053-82.2020.8.26.0228.
+Consta dos autos que os pacientes foram condenados, respectivamente, à pena de 1 ano de reclusão, no regime semiaberto e ao pagamento de 10 dias-multa, por infração ao artigo 180 do Código Penal (receptação) e 1 ano, 4 meses e 10 dias de reclusão, em regime inicial fechado e ao pagamento de 12 dias-multa, por infração ao disposto no artigo 155 do Código Penal (furto).
+A apelação interposta pela defesa foi parcialmente provida, por aresto assim ementado:
+"APELAÇÃO CRIMINAL - FURTO E RECEPTAÇÃO - PLEITO MINISTERIAL PRETENDENDO A MAJORAÇÃO DA PENA BASE - AFASTAR A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE DIREITOS - FIXAÇÃO DE REGIME FECHADO -CERTIDÕES QUE NÃO SE PRESTAM A CONFIGURAR MAUS ANTECEDENTES - FIXA REGIME SEMIABERTO PARA A RÉ NICOLE E FECHADO PARA O RÉU WILLIAN EM RAZÃO DA REINCIDÊNCIA - PARCIAL PROVIMENTO DO APELO." (fl. 21)
+Na presente impetração, a defesa busca, em liminar e no mérito, a fixação do regime aberto para a paciente Nicole e o semiaberto para Willian.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+Como a paciente foi condenada a 1 ano de reclusão, é primária e não houve a valoração de circunstância judicial negativa, o regime a ser fixado deve ser o aberto; o paciente foi condenado a 1 ano, 4 meses e 10 dias e não teve circunstância judicial valorada negativamente, mas é reincidente, portanto, deve ser aplicado o regime semiaberto.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AMEAÇA E INCÊNDIO. PROVAS PARA A CONDENAÇÃO. SÚMULA N. 7/STJ. REGIME PRISIONAL ADEQUAÇÃO. RECURSO IMPROVIDO.
+1. O entendimento adotado pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior "no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP" (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/2/2016, DJe 25/2/2016).
+2. A matéria objeto do recurso especial (ausência de provas para a condenação) não prescinde do revolvimento do conjunto fático-probatório dos autos. Incidência do enunciado n. 7 da Súmula do STJ.
+3. Adequado a fixação do regime prisional semiaberto para o crime de ameaça, considerado o quantum da pena, inferior a 4 anos, e a reincidência do recorrente.
+4. Para o crime de incêndio, além da reincidência, levou-se em consideração o quantum da pena a autorizar a fixação do regime fechado.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.383.944/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO TENTADO. NOVATIO LEGIS IN MELLIUS. ARMA BRANCA (FACA). AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE MAIOR REPROVABILIDADE DA CONDUTA. REGIME MAIS GRAVOSO. IMPOSSIBILIDADE. PENA-BASE NO MÍNIMO LEGAL. SÚMULAS 440/STJ E 718 E 719/STF.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial n. 1.921.190/MG, sob a égide dos recursos repetitivos - Tema n. 1.110, firmou entendimento no sentido de que: 1. Em razão da novatio legis in mellius engendrada pela Lei n. 13.654/2018, o emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado como fundamento para a majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem. 2. O julgador deve fundamentar o novo apenamento ou justificar a não realização do incremento na basilar, nos termos do que dispõe o art. 387, II e III, do CPP. 3. Não cabe a esta Corte Superior a transposição valorativa da circunstância para a primeira fase da dosimetria ou mesmo compelir que o Tribunal de origem assim o faça, em razão da discricionariedade do julgador ao aplicar a novatio legis in mellius (Relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 25/5/2022, DJe de 27/5/2022).
+2. Considerando que as circunstâncias fáticas delineadas no acórdão recorrido não apontaram nenhuma conduta que demonstrasse a maior reprovabilidade pelo uso da arma branca a justificar o aumento da pena-base, motivo pelo qual deve ser mantida a sanção inicial no mínimo legal por se mostrar inerente ao tipo penal de roubo.
+3. Em se tratando de réu primário, com todas as circunstâncias judiciais favoráveis, tendo sido estabelecida a sanção definitiva em patamar inferior a 4 anos, cabível o regime inicial para o aberto, em conformidade com o art. 33, § 2º, "c" e § 3º, do Código Penal e Súmulas 440/STJ e 718 e 719/STF.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 2.005.023/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Por tais razões, com fulcro no art. 34, inc. XX, do RISTJ não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para fixar o regime aberto para Nicole e o semiaberto para Willian.
+Publique-se.
+Intimem-se.
+EMENTA
