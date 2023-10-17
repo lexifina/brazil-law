@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Banco Central do Brasil (BACEN) contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 430):
+PROCESSUAL CIVIL. APELAÇÃO. BACEN. MULTA. NECESSIDADE DEOBSERVÂNCIA DO PRINCÍPIO DA LEGALIDADE. Não foi observado pelo BACEN o princípio da legalidade para aplicação da sanção, pois os fatos descritos, autuados e punidos como infrações, aqui discutidos, não parecem se encontrar tipificados na Lei aplicada, sendo previstos tão somente em Resolução da autarquia.
+Defende o ente federal, em resumo, além de dissídio jurisprudencial, violação dos arts. 4º; 9º; 10, IX; 11, VII, e 44 da Lei n. 4.595/1964.
+O recurso não foi admitido na origem, tendo a parte interposto agravo.
+Passo a decidir.
+De início, saliento que "o agravo poderá ser julgado, conforme o caso, conjuntamente com o recurso especial ou extraordinário, assegurada, neste caso, sustentação oral, observando-se, ainda, o disposto no regimento interno do tribunal respectivo" (art. 1.042, §5º, do CPC).
+No caso, embora o BACEN tenha infirmado em concreto a razão da inadmissão do apelo, admitindo o exame deste, o mérito em si do recurso especial não pode ser conhecido.
+Preliminarmente, registro não ser o caso de aplicação da previsão do art. 1,031, §2º, do CPC, pois a matéria constitucional a ser examinada pelo Supremo não é prejudicial em relação ao presente apelo, já que não está em discussão (prévia) a própria validade/constitucionalidade da norma infraconstitucional, mas apenas sua interpretação.
+Dito isso, constato que, para a Corte Regional, não seria possível a manutenção da sanção imposta à parte recorrida, porque "não parece ter sido observado pelo BACEN o princípio da legalidade para aplicação de sanção, pois os fatos descritos, autuados e punidos como infrações, aqui discutidos, não parecem se encontrar tipificados na Lei aplicada, sendo previstos tão somente em Resolução do Bacen" (e-STJ fl. 433).
+O entendimento converge com a jurisprudência dominante desta Corte acerca do tema, que há muito é firme no sentido de que "as sanções previstas no art. 44 da Lei n. 4.595/1964 aplicam-se exclusivamente às condutas tipificadas naquele mesmo ato normativo, referindo-se expressamente às "infrações aos dispositivos desta lei"" (STJ, REsp 1.255.987/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/04/2012).
+Nesse mesmo sentido: REsp 1.921.187/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 13/04/2021, DJe 20/04/2021; STJ, AgInt no REsp 1.547.743/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 10/02/2021; AgInt no REsp 1.463.711/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 12/12/2017; AgInt no REsp 1.611.187/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/09/2017; REsp 438.132/RS, Rel. Ministro José Delgado, Primeira Turma, DJe de 15/03/2004; REsp 324.181/RS, Rel. Ministra Eliana Calmon, Segunda Turma, DJe de 12/05/2003.
+Aplico, portanto, a Súmula 83 do STJ ao caso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
