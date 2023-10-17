@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 170-171):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PROVA CONCRETA DA ESTABILIDADE E PERMANÊNCIA. AUSÊNCIA. ABSOLVIÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO TRÁFICO PRIVILEGIADO. INCIDÊNCIA. MODULAÇÃO DA FRAÇÃO. INVIÁVEL. QUANTIDADE UTILIZADA PARA EXASPERAR A PENA-BASE. BIS IN IDEM. AGRAVO IMPROVIDO.
+1. Revela-se indispensável, para a configuração do crime de associação para o tráfico, a evidência do vínculo estável e permanente do acusado com outros indivíduos. Há que ser provado, de forma concreta e contextualizada, o crime de associação, autônomo e independentemente dos crimes individuais praticados pelo grupo associado.
+2. No caso, as instâncias ordinárias fizeram somente afirmações (ilações), com base em meras suposições a respeito da prévia existência de uma associação, sem indicar elementos concretos, contextualizados, indicativos da estabilidade e permanência na associação criminosa voltada à comercialização ilícita de drogas, havendo a indicação apenas do concurso de agentes em crime de tráfico.
+3. Tendo em vista que o crime de associação para o tráfico foi o único fundamento para o afastamento da causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006, não há óbice à incidência da minorante do tráfico privilegiado, pois cumpridos os requisitos previstos no art. 33, § 4º, da Lei 11.343/2006.
+4. "A jurisprudência da Sexta Turma entende que constitui indevido bis in idem a valoração negativa de idênticos fundamentos na primeira etapa da dosimetria da pena, para elevar a pena-base, e na terceira, para negar ou mesmo modular a fração da minorante do tráfico privilegiado" (AgRg no REsp n. 1782263/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/9/2019, DJe 12/9/2019).
+5. Agravo regimental improvido.
+Os embargos opostos na sequência foram rejeitados (fls. 202-211).
+A parte recorrente sustenta a ocorrência de violação do art. 5º, caput, e XLVI, da Constituição Federal e aduz que há repercussão geral da matéria tratada.
+Aduz que o princípio da individualização da pena teria sido violado, em razão do reconhecimento da minorante do tráfico privilegiado no caso, tendo em vista que o recorrido estaria transportando mais de uma tonelada de maconha e que a referida minorante teria sido idealizada para beneficiar o traficante eventual, diferenciando-o daquele que se dedica a essa atividade criminosa.
+A defesa sustenta que a reprimenda imposta ao recorrido não se mostrou adequada, uma vez que a forma como foi aplicada a dosimetria da pena (utilizando-se a quantidade de droga na primeira etapa, em vez de modular a aplicação da minorante do tráfico privilegiado) não cumpriu com os objetivos de prevenção e repressão do delito cometido.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 246-261.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão do reconhecimento do tráfico privilegiado, estando o acórdão recorrido assim fundamentado (fls. 180-181):
+Contudo, revela-se indispensável, para a configuração do crime de associação para o tráfico, a evidência do vínculo estável e permanente do acusado com outros indivíduos. Há que ser provado, de forma concreta e contextualizada, o crime de associação, autônomo e independentemente dos crimes individuais praticados pelo grupo associado. Como está claro dos excertos, as instâncias ordinárias fizeram somente afirmações (ilações), com base em meras suposições a respeito da prévia existência de uma associação, sem indicar elementos concretos, contextualizados, indicativos da estabilidade e permanência da ré na associação criminosa voltada à comercialização ilícita de drogas, havendo a indicação apenas do concurso de agentes em crime de tráfico.
+Ademais, tendo em vista que o crime de associação para o tráfico foi o único fundamento para o afastamento da causa de diminuição de pena prevista no art. 33, §4º, da Lei n. 11.343/2006, e que o paciente é primário, não há óbice à incidência da minorante do tráfico privilegiado, pois cumpridos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006.
+Além disso, não é o caso de modulação da fração do tráfico privilegiado (2/3), uma vez que se verificou que a quantidade de drogas já foi utilizada para exasperar a pena-base.
+Quanto ao tema, a jurisprudência da Sexta Turma entende que constitui indevido bis in idem a valoração negativa de idênticos fundamentos na primeira etapa da dosimetria da pena, para elevar a pena-base, e, na terceira, para negar ou mesmo modular a fração da minorante do tráfico privilegiado (AgRg no REsp n. 1782263/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/9/2019, DJe 12/9/2019.)
+Desse modo, a análise da matéria ventilada depende do exame do art. 33, § 4º, da Lei n. 11.343/2006, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em caso semelhante assim já decidiu a Suprema Corte:
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA INOBSERVÂNCIA DO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. OFENSA REFLEXA.
+1. A análise da aplicação do tráfico privilegiado passa necessariamente pela interpretação de legislação infraconstitucional (Lei n. 11.343/2006, art. 33, § 4º), de modo que a suposta ofensa à Constituição Federal seria indireta ou reflexa.
+2. Agravo interno desprovido.
+(ARE n. 1.341.202-AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 16/5/2022, DJe de 2/6/2022.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL. RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
