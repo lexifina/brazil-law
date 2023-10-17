@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por SANTO ANTÔNIO ENERGIA S.A. contra decisão do Tribunal de Justiça do Estado de Rondônia, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl . 470):
+Apelação cível. Servidão administrativa. Sentença. Julgamento ultra petita. Pretensão. Característica. Provisoriedade. Ausência de alegações finais. Prejuízo. Nulidade. Inocorrência. Usina. Instalação. Imóvel. Posse. Indenizabilidade. Propriedade. Prova. Desnecessidade. Laudo pericial. Coeficiente. Modificação. Caso concreto. Valoração da prova. Juros de mora. Correção monetária. Termo inicial. Honorários de advogado. Fixação.
+Não há que falar em julgamento ultra petita quando a pretensão deduzida na inicial apresenta caracteres de provisoriedade do valor pretendido a título de indenização pela perda da posse de imóvel em razão da instalação de lago de usina hidrelétrica.
+A ausência de intimação para apresentação de alegações finais, por si só, não gera nulidade ao processo, já que a finalidade de tal ato é a de reafirmar argumentos já expostos anteriormente e sobre provas acrescidas, não sendo verificado prejuízo a parte apelante que teve oportunidade de se manifestar em todas as fases anteriores no processo.
+É assegurado ao possuidor o direito à indenização pela perda do direito possessório sobre imóvel expropriado, sendo prescindível a prova da propriedade.
+Sendo inconteste, ao tempo oportuno, a data da construção da residência no imóvel que sofreu servidão administrativa deve ser mantida a indenização decorrente da necessidade de demolição e construção de nova casa atingida pela passagem da linha de transmissão.
+Justificado pelo perito as razões da fixação do coeficiente de servidão no percentual máximo previsto no método utilizado, este deve ser mantido, notadamente quando a parte-autora pede a fixação no percentual mínimo sem apresentar justificativa para tanto.
+O laudo pericial confeccionado por expert nomeado pelo juiz possui presunção de veracidade, e só pode ser desconsiderado quando houver flagrante erro, obscuridade ou imprecisão na prova técnica produzida.
+Em servidão administrativa, os juros moratórios limitam-se à taxa de 6% ao ano e contam-se do trânsito em julgado da sentença e a correção monetária da indenização se dará a partir da data da confecção do laudo pericial.
+Por não haver parâmetro - na via administrativa ou na via judicial - para cálculo de diferença na aplicação de percentual de honorários de advogado previsto na legislação especial que rege a servidão administrativa, é possível a fixação de honorários de advogado em percentual previsto na regra comum do Código de Processo Civil.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 502/505).
+No especial obstaculizado, o ora agravante apontou violação do art. 27, § 1º, do Decreto-Lei n. 3.365/1941 e dos arts. 141, 322, 324, 364, 371, 473, 477, § 3º, 489, § 1º, I, II, III, IV, V e VI, 492 e 1.022, II, todos do Código de Processo Civil/2015, bem como dissídio jurisprudencial.
+Sustentou, preliminarmente, a existência de negativa de prestação jurisdicional, ante a falta de enfrentamento, pela Corte a quo, do tema relativo à inautenticidade dos documentos apresentados pelo autor para comprovar a posse ou propriedade do imóvel, das impugnações feitas ao laudo pericial e do fato de a sentença não ter analisado o erro quanto à área objeto de reintegração.
+No mérito, defendeu a ocorrência de julgamento extra petita, pois, apesar de o autor ter pleiteado na exordial o pagamento de R$ 37.480,00 pelos danos causados ao imóvel, em face da servidão instituída em favor da parte ré, o Juiz de primeiro grau acolheu o laudo pericial e concedeu indenização superior, no valor de R$ 73.534,38, extrapolando os limites da lide.
+Aduziu, ainda, a nulidade da sentença porque não foi oportunizado às partes o oferecimento das alegações finais e por estar o julgado amparado em documentos inidôneos para comprovar a posse do autor, pois o contrato de compra e venda do imóvel e as declarações de vizinhos, que asseveram que o apelado residia desde 2010 no local, foram redigidos à mão, sem reconhecimento de firma em cartório.
+Alegou cerceamento de defesa, em virtude da realização incompleta de produção da prova pericial, bem como ofensa ao princípio da persuasão racional, ante a ausência de exame e de valoração correta dos fatos, como a circunstância de se tratar de área de floresta nativa inteiramente inexplorada, portanto insusceptível de indenização.
+Por fim, requer a correta aplicação dos honorários advocatícios sucumbenciais, visto que as instâncias ordinárias consideraram a regra comum do Código de Processo Civil/2015, e não a norma de regência, qual seja, o Decreto-Lei n. 3.365/41, em seu art. 27, § 1º.
+Contrarrazões apresentadas às e-STJ fls. 552/557.
+A decisão a quo inadmitiu o recurso especial ante a incidência da Súmula 7 do STJ, fundamento com o qual não concorda a parte agravante.
+Contraminuta às e-STJ fls. 600/605.
+Passo a decidir.
+Cumpre registrar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada.
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial se deu com base no seguinte fundamento: a modificação dos fundamentos adotados, como pretende a recorrente, necessariamente perpassa pela análise do conjunto probatório, razão pela qual o seguimento do recurso especial encontra óbice na Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Entretanto, a parte agravante deixou de impugnar específica e adequadamente o único fundamento da decisão impugnada, limitando-se a alegar que pretende a revaloração de fatos e provas, que teria sido feita de forma equivocada pelas instâncias ordinárias. Eis os argumentos apresentados no agravo em recurso especial sobre a incidência da Súmula 7 do STJ:
+V. Da inaplicabilidade da Súmula 7/STJ.
+O presente recurso tem o intuito de verificar negativa de vigência e interpretação divergente. Quanto às matérias de prova, caso necessário, mostra-se imperativo e cabível diante da violação do art. 371 do CPC, quanto à aplicação do princípio da persuasão racional.
+Restou demonstrado, à saciedade, que o Tribunal a quo deixou de dar o devido valor jurídico a provas relativas a fatos incontroversos, e com poder de alterar totalmente a conclusão do julgado. Assim, pugnou-se pela anulação da decisão e conhecimento das matérias em fase de mérito, para o devido e julgamento da demanda, ressalvada a hipótese de acolhimento das preliminares que pretender anular o acórdão.
+Não se vê, portanto, a incidência da Súmula 7 no caso presente.
+Sobre a possibilidade de verificação de erro in judicando, relacionado à interpretação jurídica sobre fatos, Marinoni explicita que não se trata de simples reexame dos fatos e provas, mas aferição da presente de ilicitude, o que é plenamente possível: (..).
+(..)
+Neste ínterim, o que se pretende no presente recurso especial passa pela impugnação sobre a convicção do juízo que não se escuda pelos próprios critérios enunciados expressamente no acórdão, o que gera total possibilidade de impugnação conforme pacífico entendimento dessa c. Corte.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade da análise dos elementos de convicção existentes nos autos.
+O princípio da dialeticidade impõe à parte recorrente o ônus de explicitar, de forma específica, concreta e pormenorizada, os motivos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. APLICAÇÃO DO ART. 1.030, I, "b", DO CPC/2015. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. FUNDAMENTO DE INADMISSIBILIDADE NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+ ..
+3. A jurisprudência do Superior Tribunal de Justiça considera necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+4. Inadmitido o apelo nobre com base na Súmula 7/STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível, o que não ocorreu na espécie.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.829.565/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/10/2021, DJe de 22/10/2021.)
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
