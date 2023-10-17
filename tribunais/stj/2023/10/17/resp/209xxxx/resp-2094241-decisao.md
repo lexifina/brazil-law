@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  MAYARA CASTAGNARO DE SOUZA PRADO,  com amparo nas  alíneas a e c do  inciso  III  do  art.  105  da  Constituição  Federal,  em desfavor do  acórdão  prolatado  pelo  Tribunal  de  Justiça do Estado de São Paulo  assim  ementado  (e-STJ,  fl. 217):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADEDE DÉBITOS C/C OBRIGAÇÃO DE FAZER - SENTENÇA DE PARCIAL PROCEDÊNCIA - APELAÇÃO DA AUTORA
+- Autora alega que seu nome foi inserido no site "Serasa Limpa Nome", pelo réu, em virtude de dívida prescrita - Sentença que reconheceu a prescrição da dívida discutida nos autos - Pedido de obrigação de fazer para a exclusão da dívida da plataforma Serasa Limpa Nome ou qualquer outro meio de cobrança extrajudicial - Não acolhimento - O fato de a dívida estar prescrita não a torna inexistente e pode ser objeto de cobrança - A prescrição alcança tão somente o direito de ação do credor em exigir judicialmente o pagamento dos débitos contraídos pela autora - Cadastro de dívidas na plataforma "Serasa Limpa Nome", de acesso exclusivo da consumidora - Inexistência de inscrição desabonadora - Sentença mantida.
+- Ônus da sucumbência Sentença que fixou a sucumbência recíproca Insurgência da autora - Pedido de atribuição do ônus da sucumbência ao réu - Não acolhimento - Inteligência do artigo 86 do CPC - Sentença mantida.
+- Pedido de majoração dos honorários advocatícios - Não acolhimento - Os honorários foram fixados de acordo com o art. 85, § 2º, do CPC - Sentença mantida.
+Recurso não provido.
+Nas razões do recurso especial, a recorrente alega a ofensa ao art. 206, §5º, inciso I, do Código Civil, e aos arts. 43, §1º, e 84, ambos do Código de Defesa do Consumidor, sustentando, em síntese, a abusividade das cobranças extrajudiciais por parte da recorrido, uma vez que as dívidas estão prescritas.
+Afirma, ainda, a condenação do recorrido à obrigação de retirar a dívida do "Serasa Limpa Nome", bem como dissídio pretoriano.
+Não foram apresentadas contrarrazões (e-STJ, fl. 310).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 311-312).
+Brevemente relatado, decido.
+A controvérsia refere-se à abusividade das cobranças extrajudiciais, uma vez que as dívidas estão prescritas, bem como à condenação do recorrido à obrigação de retirar a dívida do Serasa Limpa Nome.
+O Tribunal de origem, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fls. 219-221; sem grifo no original):
+A prescrição consiste na perda da pretensão do titular de um direito pelo seu não exercício em determinado lapso temporal.
+A prescrição alcança tão somente o direito de ação do credor em exigir judicialmente o pagamento do débito contraído pela autora, o que não implica extinção de referida dívida, mas sim apenas a sua inexigibilidade judicial.
+O fato de a dívida estar prescrita não a torna inexistente e pode ser objeto de cobrança.
+A plataforma "Serasa Limpa Nome" é de acesso exclusivo da consumidora, com uso de senha pessoal, de modo que suas informações não podem ser consultadas por terceiros. Dessa forma, o nome da autora não foi inserido em órgão de proteção ao crédito, de ampla divulgação no mercado.  ..
+A autora ajuizou a ação buscando (i) a declaração de inexigibilidade do débito em razão da prescrição; e (ii) a condenação do réu na obrigação de fazer para que retire o nome da autora da plataforma Serasa Limpa Nome e se abstenha de realizar cobranças extrajudiciais. A sentença de parcial procedência acolheu tão somente o pedido declaratório para reconhecer a prescrição do débito indicado na petição inicial.
+Convém colacionar, ainda, o seguinte trecho da sentença (e-STJ, fl. 164):
+Destaco, por oportuno, que a simples manutenção do nome da parte demandante na plataforma "Serasa Limpa Nome" não enseja, propriamente, cobrança, de modo que não é possível sua exclusão. Com efeito, o aqui determinado consiste em evitar que a parte ré faça cobranças de qualquer tipo em relação aos débitos prescritos. A manutenção do nome da parte autora em tal plataforma, de seu turno, não importa comportamento ativo no intuito de buscar o valor do débito, sendo que somente haverá influência na esfera jurídica da parte demandante caso essa faça a consulta, o que não pode ser imputado à parte ré.
+Com efeito, destaca-se que o acórdão recorrido, ao concluir que a prescrição da dívida não a torna inexistente, podendo ser objeto de cobrança, vai ao encontro do entendimento desta Corte Superior, confira-se (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PRESCRIÇÃO. OBRIGAÇÃO DE NÃO FAZER. INEXISTÊNCIA DO DÉBITO. NÃO CABIMENTO. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. FUNDAMENTO NÃO ATACADO. DEFICIÊNCIA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede seu conhecimento, conforme dispõe a Súmula nº 211 do Superior Tribunal e Justiça.
+3. Se a questão levantada não foi discutida pelo tribunal de origem, e não foi verificada a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015.
+4. O reconhecimento da prescrição afasta apenas a pretensão do credor de exigir o débito judicialmente, mas não extingue o débito ou o direito subjetivo da cobrança na via extrajudicial.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso não impugnam os fundamentos do acórdão recorrido. Aplicação da Súmula nº 283 do Supremo Tribunal Federal.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.592.662/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2020, DJe de 3/9/2020.)
+Nessa esteira, é de rigor a incidência da Súmula n. 83/STJ ao caso em tela.
+De outra parte, quanto à alegada condenação do recorrido à obrigação de retirar a dívida do Serasa Limpa Nome, vislumbra-se que a irresignação da recorrente não merece prosperar, haja vista que rever o fundamento do acórdão recorrido - de que "o nome da autora não foi inserido em órgão de proteção ao crédito, de ampla divulgação no mercado" (e-STJ, fl. 220), exigiria o revolvimento do conjunto fático-probatório dos autos, providência que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Por fim, cabe salientar que, nos termos da consolidada jurisprudência deste Tribunal Superior, a incidência do óbice constante da Súmula n. 7/STJ impede a apreciação do dissídio, diante da constatação da ausência de similitude fático-jurídica entre os julgados confrontados.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA DA CEF. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568 D0 STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 5/STJ. NADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7 DO STJ. PREJUDICADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de rescisão contratual cumulada com indenizatória por danos morais e materiais.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+4. O reexame de fatos e provas e a nova interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+7. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+8. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.264.506/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa, suspensa a exigibilidade em razão da anterior concessão dos benefícios da gratuidade de justiça.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS C.C. OBRIGAÇÃO DE FAZER. DÍVIDA PRESCRITA. COBRANÇA EXTRAJUDICIAL. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 83/STJ. PLATAFORMA "SERASA LIMPA NOME". INEXISTÊNCIA DE INSCRIÇÃO DESABONADORA. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMUL A N. 7/STJ. RECURSO  ESPECIAL  PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
