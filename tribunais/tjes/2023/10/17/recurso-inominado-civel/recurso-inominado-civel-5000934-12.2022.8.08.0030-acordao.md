@@ -1,0 +1,54 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000934-12.2022.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MARIA WANKLER LUNZ
+RECORRIDO: SERVICO AUTONOMO DE AGUA E ESGOTO DE LINHARES
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita ao Recorrente
+
+EMENTA: JUIZADO ESPECIAL CRIMINAL E FAZENDA PÚBLICA. RECURSO INOMINADO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO DE DANOS MORAIS. FORNECIMENTO DE ÁGUA. SUSPENSÃO DO SERVIÇO. A REQUERENTE TEVE O FORNECIMENTO DE ÁGUA DE SEU IMÓVEL SUSPENSO INDEVIDAMENTE, FICANDO ENTÃO PRIVADA DE UM DOS BENS DE MAIOR RELEVÂNCIA E IMPORTÂNCIA NA VIDA COTIDIANA, AINDA QUE EM POUCAS HORAS. E DECERTO QUE TAL PRIVAÇÃO TEVE O CONDÃO DE CAUSAR DIFICULDADE NA CONDUÇÃO DO DIA DA PARTE AUTORA, COM O REGISTRO DE QUE A ÁGUA É CONSIDERADA BEM ESSENCIAL, DEVENDO SER PRESTADO DE FORMA CONTÍNUA.
+SENTENÇA DE PISO
+JULGO PARCIALMENTE PROCEDENTE O PEDIDO INICIAL PARA CONDENAR A PARTE REQUERIDA, SAAE DE LINHARES, A PAGAR A QUANTIA DE R$500,00 A REQUERENTE, MARIA WANKLER LUNZ, A TÍTULO DE DANOS MORAIS.
+RECURSO DA PARTE AUTORA
+PUGNANDO PELA REFORMA DA SENTENÇA NO QUESITO DANO MORAL. MANUTENÇÃO DO VALOR ARBITRADO.
+RECURSO DA PARTE AUTORA CONHECIDO E PARCIALMENTE PROVIDO.
+NA CONTESTAÇÃO ANEXADA PELA PARTE REQUERIDA INFORMA SOMENTE O HORÁRIO DA RESOLUÇÃO DA LIDE, PERFEITO, ISSO DEMONSTRA QUE O REQUERIDO NO MOMENTO EM QUE FOI INFORMADO, DE PRONTIDÃO LEGALIZOU A PROBLEMÁTICA. MAS, INSTA FRISAR QUE, O FATO OCORREU UM DIA ANTES DA RECLAMAÇÃO DE BALCÃO, CARACTERIZANDO ASSIM MAIS DE 24 HORAS DE INTERRUPÇÃO INDEVIDA. LOGO FICOU CONSTATADA A FALHA DO SERVIÇO DE FORNECIMENTO DO BEM ESSENCIAL À VIDA E COM ISSO, É CLARO E NOTÓRIO O DESGASTE QUE A REQUERENTE TEVE PARA SE MANTER NESTAS HORAS EM QUE TEVE SEU ABASTECIMENTO INTERROMPIDO.
+ISTO POSTO, REFORMO A SENTENÇA PARA MAJORAR O VALOR DA INDENIZAÇÃO POR DANOS MORAIS PARA R$2.000,00 (DOIS MIL REAIS)
+.
+ACRESCIDOS DE JUROS MORATÓRIOS DE 1% AO MÊS E CORREÇÃO MONETÁRIA PELO IPCA-E, EM CONFORMIDADE COM O RE 870942 - STF - JULGADO EM 20/11/2017, A PARTIR DO PRESENTE ARBITRAMENTO, EM CONFORMIDADE COM A SÚMULA 362 DO STJ
+. QUANTO AO RESTANTE, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
