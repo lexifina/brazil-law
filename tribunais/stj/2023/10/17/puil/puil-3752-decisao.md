@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de "Pedido de Uniformização de Interpretação de Lei (PUIL)" apresentado por Debora Feder Brand (e-STJ fls. 348/358) contra acórdão da Segunda Turma Recursal do Estado de Santa Catarina, assim ementado (e-STJ fl. 310):
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. FRAUDE NA SOLICITAÇÃO DE CÓDIGO DE BARRAS PARA QUITAÇÃO DE PARCELA DE FINANCIAMENTO. SENTENÇA DE PROCEDÊNCIA. RECURSO DO DEMANDADO. PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM. TESE QUE SE CONFUNDE COM O MÉRITO E SERÁ COM ELE ANALISADA. MÉRITO. ALEGADA AUSÊNCIA DE RESPONSABILIDADE. ACOLHIMENTO. NEGOCIAÇÃO REALIZADA FORA DOS CANAIS OFICIAIS DE CONTATO DA INSTITUIÇÃO FINANCEIRA. DEMANDANTE QUE FORNECE DADOS PESSOAIS E DO CONTRATO. COMPROVANTE DE PAGAMENTO QUE APRESENTA BENEFICIÁRIO DIVERSO. CULPA EXCLUSIVA DA PARTE AUTORA OU DE TERCEIRO. EXEGESE DO INCISO II DO PARÁGRAFO 3º DO ARTIGO 14 DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESPONSABILIDADE CIVIL NÃO CONFIGURADA. DEVER DE INDENIZAR AFASTADO. SENTENÇA REFORMADA PARA JULGAR IMPROCEDENTES OS PEDIDOS. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 341/342).
+A requerente sustenta que a Turma Recursal (e-STJ fl. 349):
+(..) diverge de outras Turmas Recursais de Juizados Especiais Federais, bem como de jurisprudência dominante do STJ, e súmula da STJ, nos termos do artigo supracitado, uma vez comprovado durante o processo de primeiro grau inclusive procedente, que ocorreu no caso o sumulado do STJ 479, e TEMA 466 do STJ, portanto, o acordão recorrido não merece ser transitado em julgado da forma julgada, posto que toda prova material e processual nos autos desde o início garante o direito da Recorrente ora Autora.
+Aduz que o acórdão recorrido não observou a Súmula n. 479/STJ nem a jurisprudência que estabelece a responsabilidade objetiva da instituição bancária pelos danos decorrentes de fraude ou de delitos praticados por terceiro.
+Destaca ser "patente falha na prestação do serviço que não apresentou a segurança que dele se esperava, razão pela qual não há falar em rompimento do nexo causal, por culpa exclusiva da vítima, tampouco por culpa de terceiro, dado que os fatos narrados na inicial constituem fortuito interno, inerente ao risco do exercício da atividade bancária. Ev.1 OUT12" (e-STJ fl. 355).
+Por fim, requer (e-STJ fl. 358):
+A) O recebimento, tempestivo e conhecimento do presente incidente;
+B) O provimento ao presente incidente com a finalidade de reformar in totum o r. Acordão proferido pela 2ª Turma Recursal da seção judiciária de Santa Catarina, reconhecendo-se que "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito das operações bancárias", mantendo o julgamento inalterado do juízo de primeiro grau, tal sentença respeitou o que é de entendimento firmado da sumula como previsto na legislação.
+C) Afastar a culpa exclusiva da Autora ou terceiro;
+Inicialmente, a requerente endereçou o pedido à Turma Recursal dos Juizados Federais da Seção Judiciária de Santa Catarina. No entanto, a Segunda Turma Recursal do Estado de Santa Catarina decidiu que (e-STJ fl. 382):
+O artigo 18, caput e § 3º, da Lei n. 12.153/2009, estabelecem que: Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material. (..) Quando as Turmas de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Considerando, portanto, que o presente pedido de uniformização deve ser julgado pelo Superior Tribunal de Justiça, incabível a análise dos requisitos de admissibilidade (inclusive tempestividade) e preenchimento dos pressupostos legais pela Turma Recursal.
+(..)
+Dessa forma, ENCAMINHEM-SE os autos ao colendo Superior Tribunal de Justiça.
+As partes foram intimadas eletronicamente da decisão proferida (e-STJ fls. 384/389), não tendo sido interposto recurso.
+É o relatório.
+Decido.
+O Pedido de Uniformização de Interpretação de Lei Federal no STJ está previsto nas leis que disciplinam o Juizados Federais (art. 14, § 4º, da Lei n. 10.259/2001) e Juizados Especiais da Fazenda Pública estaduais, distritais e municipais (art. 18, § 3º, da Lei n. 12.153/2009). Portanto, esta Corte Superior detém competência para julgar pedidos de uniformização de interpretação de lei federal deduzidos no âmbito dos Juizados Especiais Federais e dos Juizados da Fazenda Pública estaduais, distritais e municipais.
+A propósito:
+AGRAVO INTERNO NA RECLAMAÇÃO. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃO DE TURMA RECURSAL DOS JUIZADOS ESPECIAIS CÍVEIS. NÃO CABIMENTO. PREVISÃO LEGAL RESTRITA AO SISTEMA DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA (LEI 12.153/2009, ART. 18). AGRAVO INTERNO DESPROVIDO.
+1. Segundo se extrai dos princípios diretores do sistema recursal do ordenamento processual nacional, os da legalidade e da taxatividade:
+(I) não há recursos sem que a Constituição Federal ou lei federal os estabeleça; e, assim, (II) só existem os recursos previstos por tais normas.
+2. Nos termos do art. 18 da Lei 12.153/2009, o Pedido de Uniformização de Interpretação de Lei só é cabível em relação a decisões divergentes proferidas por Turmas Recursais dos Juizados Especiais da Fazenda Pública, sobre questões de direito material, inexistindo previsão legal para uniformização de decisões discordantes entre Turmas Recursais dos Juizados Especiais Cíveis, como sucede no caso.
+3. Por sua vez, a competência do Superior Tribunal de Justiça somente se instaura quando Turmas Recursais dos Juizados Especiais da Fazenda Pública de diferentes Estados derem à lei federal interpretações divergentes ou quando a decisão de Turma Recursal dos Juizados Especiais da Fazenda Pública contrariar súmula da Corte Superior (Lei 12.153/2009, art. 18, § 3º).
+4. Agravo interno não provido.
+(AgInt no PUIL n. 1.807/BA, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 20/10/2020, DJe de 27/10/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ACÓRDÃO DE TURMA RECURSAL CÍVEL. COBRANÇA INDEVIDA. DANOS MORAIS. CONSUMIDOR. INAPLICABILIDADE DA LEI N. 12.153/2009.
+1. Pedido de uniformização de interpretação de lei que não encontra amparo nas regras da Lei n. 12.153/2009, tendo em vista que o acórdão impugnado não foi proferido no âmbito dos Juizados Especiais da Fazenda Pública estaduais, distritais ou municipais, mas de Juizado Especial Cível.
+2. Agravo interno a que se nega provimento.
+(AgInt no PUIL n. 1.798/BA, da minha relatoria, SEGUNDA SEÇÃO, julgado em 29/9/2020, DJe de 2/10/2020.)
+AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PROCESSUAL CIVIL. CABIMENTO PARA AS HIPÓTESES PREVISTAS NOS ARTIGOS 14, § 4º, DA LEI 10.259/2001 E 18, § 3º, E 19, CAPUT, DA LEI 12.153/2009. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO PEDIDO.
+1. O Pedido de Uniformização de Interpretação de Lei somente é cabível no âmbito de processos de competência dos Juizados Especiais da Fazenda Pública dos Estados, do Distrito Federal, dos Territórios e dos Municípios, os quais são regulados pela Lei 12.153/09, e aqueles relacionados aos Juizados Especiais Federais, regidos pela Lei 10.259/01. Precedentes.
+2. Na hipótese, o pedido foi manejado em demanda ajuizada por consumidor contra instituição financeira privada com esteio no procedimento definido pela Lei 9.099/95, tendo o acórdão impugnado sido proferido pela Quarta Turma Recursal dos Juizados Especiais do Estado da Bahia.
+3. Agravo Interno a que se nega provimento.
+(AgInt no PUIL n. 1.751/BA, relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 1/9/2020, DJe de 4/9/2020.)
+Nesse sentido, cito ainda as seguintes decisões monocráticas desta Corte Superior: PUIL 3719/DF, Rel. Ministra NANCY ANDRIGHI, DJe 10/8/2023, PUIL n. 1.751/BA, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe 12/6/2020; PUIL n. 1.728/BA, Rel. Ministro MOURA RIBEIRO, DJe 14/5/2020; PUIL n. 1.454/DF, de minha relatoria, DJe 2/8/2019.
+No presente caso, o acórdão impugnado não foi proferido no âmbito dos Juizados Especiais Civis da Justiça Federal, tampouco dos Juizados Especiais da Fazenda Pública estaduais, distritais e municipais, mas sim de Juizado Especial Cível. A sentença foi proferida na 1ª Vara do Sistema dos Juizados Especiais do Cível da Comarca de Guaramirim - SC, e o recurso inominado foi decidido pela Segunda Turma Recursal do Estado de Santa Catarina.
+Logo, o presente pedido não encontra amparo nos arts. 14, § 4º, da Lei n. 10.259/2001 e 18, § 3º, da Lei n. 12.153/20 09, não configurando a competência desta Corte Superior.
+Ante o exposto, NÃO CONHEÇO do presente pedido.
+Publique-se e intimem-se.
+EMENTA
