@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MI NISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fl. 1312):
+EMENTA: APELAÇÃO CRIMINAL - TÓXICOS - INTERCEPTAÇÃO TELEFÔNICA - AUSÊNCIA DE NULIDADE - PRELIMINARES REJEITADAS - TRÁFICO DE DROGAS EM ASSOCIAÇÃO - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - PENAS-BASE - MANUTENÇÕES - REINCIDÊNCIA - DECOTE - MAJORANTE DO TRÁFICO INTERESTADUAL - DECOTE - CAUSA ESPECIAL DE REDUÇÃO DE PENAS - INAPLICABILIDADE - REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - IMPOSSIBILIDADES.
+- Realizadas interceptações telefônicas, autorizadas judicialmente, as informações e provas coletadas são indiscutivelmente lícitas.
+- Contendo a exordial acusatória todos os requisitos previstos no artigo 41, do Código de Processo Penal, e retratando o modo como foram praticados os delitos e possibilitando o exercício da ampla defesa, deve ser rejeitada a preliminar de inépcia da denúncia.
+Constando do processo laudo pericial elaborado pelo instituto de criminalística, atestando que as substâncias apreendidas são ilícitas, resta demonstrada a materialidade do delito de tráfico.
+- As provas evidenciam a ocorrência do crime de tráfico ilícito de drogas em associação, e não se desincumbindo o acusado de retirar a sua responsabilidade penal, impossível a absolvição pretendida.
+- As penas-base não devem ser modificadas por esta instância revisora, porque estão fixadas em patamares justos para a reprovação das condutas e prevenção delitiva.
+- É necessário o decote da causa de aumento de penas prevista no artigo 40, inciso V, Lei 11.343/06, uma vez que a conduta do apelante não se amolda ao tipo penal ali descrito.
+- Não é de se aplicar a causa especial de diminuição de penas prevista no § 4º, do artigo 33, da Lei 11.343/06, porque o condenado integra organização criminosa.
+- REJEIÇÃO DAS PRELIMINARES E PROVIMENTO PARCIAL AO RECURSO.
+Apresentados embargos de declaração, esses foram rejeitados (e-STJ fls. 1389/1392).
+Nas razões do recurso especial (e-STJ fls. 1445/1451), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação do artigo 40, inciso V, da Lei nº 11.343/06. Sustenta que, reconhecido no aresto que parte da droga comercializada pelo réu vinha de outro Estado da Federação (Paraná), equivocado o decote a majorante prevista no art. 40, V, da Lei de Drogas, ao argumento de que a apreensão se deu em Minas Gerais (e-STJ fls. 1450).
+O Tribunal a quo admitiu o recurso especial (e-STJ fls. 1507/1509), manifestando-se o Ministério Público Federal pelo não conhecimento do recurso especial (e-STJ fl. 1535).
+É o relatório. Decido.
+O recurso merece acolhida.
+De início, a revaloração dos critérios jurídicos concernentes à utilização e à formação da convicção do julgador não encontra óbice na Súmula 7/STJ. A análise dos fatos e fundamentos expressamente mencionados no acórdão recorrido não constitui reexame do contexto fático-probatório, e sim valoração jurídica dos fatos já delineados pelas instâncias ordinárias.
+Sabe-se que o entendimento prevalente na Terceira Seção deste Tribunal Superior é no sentido de que basta que esteja comprovado que o entorpecente tinha como destino outra unidade federativa, sendo irrelevante que haja ou não a efetiva transposição da divisa interestadual para a incidência da causa especial de aumento do art. 40, V, da Lei n. 11.343/06.
+No presente caso, o juízo sentenciante entendeu pela incidência da referida causa de aumento, conforme trecho abaixo (e-STJ fls. 1056):
+07. Entendo que a causa de aumento de pena prevista no Art. 40, V da Lei 11 .343/06 está configurada, posto que nas transcrições das degravações constantes no ACIT em anexo resta claro que parte da droga comercializada pelos réus era trazida da cidade de Foz do Iguaçu, no estado do Paraná.
+É o que se nota das conversas havidas entre "Flavinho" (Flávio de Souza Rocha) e "Magrão" às fis. 40/85 (ACIT), e entre o denunciado Carlos Alexandre (Lorinho) e "Fabinho" às fis. 58/85 a 6 1/85 do ACIT.
+Por sua vez, a Corte de origem afastou o aumento do art. 40, V, da Lei n. 11.343/06, com base no seguinte fundamento (e-STJ fls. 1328):
+Noutro norte, sorte assiste ao apelante quanto ao pedido de decote da majorante prevista pelo inciso V, do artigo 40, da Lei 11.343/06.
+Apesar de restar comprovado que parte da droga comercializada pelos apelantes vinha de outro Estado da Federação, a droga foi apreendida em Divinópolis, Estado de Minas Gerais, sendo certo que o objetivo do legislador ao criar este instituto foi o de combater com maior rigor o tráfico praticado além da fronteira terrestre, observada a circulação no território nacional, já que nestes casos a disseminação da droga envolve um maior perigo à saúde pública; pois, visa atingir um maior número de pessoas.
+In casu, restando inconteste que a droga apreendida na cidade de Divinópolis, Minas Gerais, era proveniente de Foz do Iguaçu, Paraná, a incidência da majorante é medida que se impõe.
+Dessa forma, mantidos os critérios das instâncias de origem, aplicada a causa de aumento do art. 40, V, da Lei n. 11.343/06, no patamar de 1/6, fica a pena do crime de tráfico em 7 anos e 7 meses de reclusão e pagamento de 735 dias-multa e para o crime de associação para o tráfico em 4 anos e 8 meses de reclusão e pagamento de 886 dias-multa.
+Em face do concurso material, as penas concretizam-se 12 anos e 3 meses de reclusão e pagamento de 1621 dias-multa.
+Ante o exposto, com fundamento no art. 932, inciso VIII do CPC, e no art. 255, § 4º, inciso III, do RISTJ e na Súmula 568/STJ, dou provimento ao recurso especial, para reconhecer a incidência da causa de aumento do art. 40, V, da Lei n. 11.343/06, redimensionando a pena final do acusado Flávio de Sousa Rocha para 12 anos e 3 meses de reclusão e pagamento de 1621 dias-multa, mantidos os demais termos da condenação.
+Intimem-se.
+EMENTA
