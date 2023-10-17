@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por FERRO, CASTRO NEVES & DALTRO BORGES SOCIEDADE DE ADVOGADOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 162):
+AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS À EXECUÇÃO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. IMPUGNAÇÃO. A matéria já coberta pela coisa julgada não pode ser rediscutida em juízo, conforme inteligência dos arts. 502 e 503, do CPC/15, não sendo a impugnação ao cumprimento de sentença ou o agravo de instrumento os meios para a sua desconstituição. Decisão mantida. Recurso desprovido.
+Foram acolhidos os embargos de declaração opostos pelo ora recorrido (fls. 343-350) e rejeitados os da ora recorrente (fls. 450-459).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aponta, ainda, afronta aos arts. 223, 505, 507, 508, 520, § 1º, 525, § 1º, e 1.000, parágrafo único, do CPC, ao defender a improcedência de se rediscutir em agravo de instrumento o percentual fixado a título de honorários sucumbenciais na sentença em embargos à execução.
+Sustenta que o Tribunal de origem, ao acolher os embargos de declaração e reduzir a verba honorária, equitativamente, altera por completo o conteúdo do próprio título executivo judicial em execução, o que implica julgar matéria de defesa incabível em impugnação ao cumprimento de sentença, por não ser hipótese do rol dos dispositivos legais pertinentes e se referir ao mérito já decidido na fase de conhecimento dos embargos à execução. Aduz que foi julgada matéria preclusa, consumativa e temporal, em ofensa à coisa julgada e ao título executivo judicial objeto do cumprimento provisório de sentença de origem.
+Foram oferecidas contrarrazões ao recurso especial (fls. 554-575).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 576-578), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 605-619).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, inexiste a alegada ofensa ao art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender que não há preclusão no caso em relação à revisão do valor dos honorário advocatícios, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão dos embargos de declaração opostos pela ora recorrida (fls. 345-348):
+Tendo em vista a determinação do Colendo Superior Tribunal de Justiça, acolho os embargos de declaração para sanara omissão apontada.
+Pretende o embargante a redução dos honorários sucumbenciais fixados nos autos de embargos à execução nº 1017551-74.2017.8.26.0100.
+De fato, a sentença de primeiro grau fixou os honorários sucumbenciais em 10% sobre o valor da causa, conforme fls. 895 dos autos originários.
+E sendo desprovido o recurso de apelação, conforme v. acórdão de nossa relatoria, a verba honorária foi majorada para12% sobre o valor da causa atualizado, nos termos do art. 85, § 11, do CPC (Fls. 1014).
+Ocorre que o valor dado à causa nos embargos à execução foi de R$ 4.862.913,18 (fls. 28 daqueles autos), e a fixação de verba honorária sucumbencial com base nesta quantia atingiu montante exorbitante, sendo evidente o enriquecimento sem causa da parte contrária.
+(..)
+De fato, verifica-se dos autos dos embargos à execução que estes foram distribuídos em 26/02/2017, o embargado apresentou impugnação , tendo sido o feito sentenciado em 12/05/2017(três meses após a distribuição), com interposição pelo ora embargante de recurso de apelação e posteriormente agravado à Superior Instância, não contendo questões de grande complexidade ou intercorrências que justificassem a fixação da verba honorária em patamar tão elevado. Assim, sem desmerecer o trabalho dos ilustres patronos da embargada e em caráter excepcional, é mesmo o caso de se acolher o pedido de minoração da verba honorária fixada, que deverá ser estabelecida conforme disposição contida no art. 85, § 8º do Código de Processo Civil, nos seguintes termos:
+(..)
+Ademais, o parágrafo 8º, do artigo 85, do CPC, ao estabelecer a valoração dos honorários sucumbenciais pela apreciação equitativa vale não apenas para quando estes resultarem insignificantes, mas também quando excessivos, frente à complexidade da causa. Neste sentido o entendimento do Colendo Superior Tribunal de Justiça em decisão monocrática proferida no REsp nº 1.864.345 / SP, e disponibilizada no DJe de 20/03/2020,verbis:
+(..)
+Assim, atendendo-se aos parâmetros legalmente estipulados, e com base na análise do caso concreto, de rigor a fixação da verba honorária em R$60.000,00 (sessenta mil reais), já considerada a majoração em sede de recurso de apelação, quantia que representa, de um lado, condigna e justa remuneração do advogado e, doutro, moderação frente à complexidade da demanda.
+E nem se alegue a impossibilidade de alteração do valor da verba fixada em sentença e majorada em recurso de apelação, tendo em consideração a situação excepcional posta nos autos, bem como o evidente enriquecimento sem causa da parte vencedora.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DE CÁLCULO JUDICIAL. PRETENSÃO DE COMPENSAÇÃO DE INCENTIVOS DE MIGRAÇÃO DE PLANOS. MATÉRIA QUE DEVERIA TER SIDO DEDUZIDA NA FASE DE CONHECIMENTO. PRECLUSÃO. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. METODOLOGIA DOS CÁLCULOS APLICADOS. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Para elidir a conclusão da Corte estadual quanto à ocorrência da preclusão, seria imprescindível a incursão no conjunto fático-probatório, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+2. Com o trânsito em julgado da sentença de mérito, reputam-se repelidas as alegações efetivamente deduzidas e aquelas que poderiam ter sido suscitadas e não o foram a tempo e modo pelo interessado.
+Precedente.
+3. Com efeito, "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp n. 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.342.807/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
