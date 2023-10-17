@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA DO SOCORRO FERNANDES COSTA DE FREITAS e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO ORDINÁRIA DE CUMPRIMENTO DE CONTRATO. RECURSO ADESIVO NÃO CONHECIDO POR DESERÇÃO. CONTRATO ENTABULADO ENTRE AS PATES. DISTRATO VERBAL. DESFAZIMENTO DO CONTRATO E REINTEGRAÇÃO DE POSSE. SENTENÇA MANTIDA. APELO CONHECIDO E IMPROVIDO. RECURSO ADESIVO NÃO CONHECIDO FACE A DESERÇÃO (fl. 491).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 472 do CC, no que concerne ao indevido reconhecimento de distrato verbal, em afronta ao direito de arrependimento previsto no instrumento particular firmado, trazendo a seguinte argumentação:
+Ora Excelência, o Magistrado singular exara seu livre convencimento de que houve um suposto distrato verbal entre as partes, contudo, não se pode cogitar o distrato deste modo no presente caso, haja vista que a existência de instrumento particular próprio e escrito que veda tal desfazimento do negócio jurídico.
+Deste modo, longe de discutir o contrato no presente recuso, ante a sua vedação expressa, mas tão somente com o fito de chamar atenção de Vossa Excelência, o contrato firmado mais notadamente na CLÁUSULA SEXTA (evento nº 1, contr3), constava a época mandamento contratual no sentido de que o negócio jurídico pactuado era em caráter irrevogável e irretratável, não podendo assim haver arrependimento.
+Ora, além de não haver previsão para eventual distrato, ante a clausula de vedação para tal, a própria lei civilista, destaca que em caso da existência de distrato tal conduta deve ser precedida da mesma forma exigida no contrato assim assegura o Código Civil:
+ ..
+Que no presente caso por sinal, nem é admitido, vez que contém cláusula contratual que veda comportamento de arrependimento no negócio praticado. Assim, quanto a sua existência é necessário que se observe a forma disposta em contrato, não podendo ser reconhecido simplesmente de forma verbal, já que o que se tem é a formalização por escrito de instrumento de contrato e se assim o for estará em plena afronta a legislação civil vigente (fls. 506/507).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+De acordo com o cenário fático delineado na instâncias primeira, não se cogita a inexistência de distrato.
+Pois bem, a conduta do Apelante, no caso concreto, deve ser analisada na perspectiva da teoria dos atos próprios, enquadrando-se nas fórmulas jurídicas nemo potest venire contra factum proprio e tu quoque, como consectários do princípio da boa-fé objetiva.
+Assim descreve o Magistrado, com acerto:
+(..)
+Dos depoimentos extraio que houve um distrato verbal, no qual ficou ajustado o desfazimento do negócio sem prejuízo de ressarcimento ao comprador, todavia, até o presente momento a restituição não ocorreu e tão pouco ficou alinhado a quantia a ser devolvida.
+Dito isto, devemos aplicar o disposto no art. 418 do CC, no qual impõe a devolução da quantia paga; e ainda recorrer as estipulações fixadas no contrato.
+É salutar assinalar que o valor dispendido pelos autores com o terreno foi de R$ 7.212,40 (sete mil, duzentos e doze reais e quarenta centavos), pois foi juntado dois cheques, um no valor de R$ 4.790,40 (quatro mil, setecentos e noventa reais e quarenta centavos) e outro de R$ 2.000,00 (dois mil reais), em favor do requerido; ademais, o autor demonstrou ter pago as mensalidades junto a associação referente ao terreno em questão, que perfez R$ 422,00 (quatrocentos e vinte e dois reais). Aponto que, apenas o gasto com trator não há como vincular ao bem em testilha, pois no recibo inexiste qualquer referência onde foi executado o serviço.
+Irrefragável que as partes firmaram contrato de compra e venda (evento 1 contr3), no qual a tradição do bem não aconteceu porque o vendedor, ora requerido, se arrependeu. Noto que restou ajustado cláusula penal - 6ª, cuja multa foi delimitada em 10% sobre o valor do imóvel.
+(..)
+O retorno à condição anterior ao ajuste objeto da presente avença é medida que se impõe, restando corretamente distribuídos os valores pagos, na forma do art. 418, CC (fl.483).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
