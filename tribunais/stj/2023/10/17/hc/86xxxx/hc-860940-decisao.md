@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de NATALIA MINGONI PONTE (ou NATALIA MINGONE PONTE), contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Recurso Em Sentido Estrito n. 0065983-29.2013.8.26.0506.
+Extrai-se dos autos que a paciente foi pronunciada pela prática do crime de homicídio qualificado.
+Irresignada, a defesa interpôs recurso em sentido estrito perante o Tribunal de origem, o qual deu parcial provimento ao recurso, para desclassificar a conduta imputada para o crime de homicídio culposo nos termos do acórdão que restou assim ementado:
+"RECURSO EM SENTIDO ESTRITO. Homicídio triplamente qualificado e omissão penalmente relevante. Decisão de pronúncia. Defesa de N.M.P. arguiu nulidade ante o cerceamento de defesa e, no mérito, pretende absolvição sumária da recorrente ou sua impronúncia. Subsidiariamente, pretende o afastamento das qualificadoras. Por seu turno, defesa de G.R.L. pretende, preliminarmente, nulidade por ausência de fundamentação na decisão de pronúncia. No mérito, objetiva a impronúncia, por ausência de indícios de autoria ou falta de materialidade do delito - Preliminares rejeitadas. Decisão de pronúncia devidamente fundamentada. Determinada requisição à Record da gravação de entrevista de G.R.L.. No mérito, quanto ao réu GR.L., indícios suficientes de autoria e prova da materialidade. Não se mostra evidente a ausência do animus necandi. Quanto à corré N.M.P.. possível a desclassificação para o delito de homicídio culposo. Não comprovação da ciência da ré acerca do modo de execução do delito. - Preliminares rejeitadas; determinada requisição da gravação de entrevista dada por G.R.L. à emissora de televisão - na impossibilidade do cumprimento, fica prejudicada tal requisição; 110 mérito, recurso parcialmente provido" (fl. 26).
+Posteriormente, esta Corte Superior, no julgamento do RESP n. 1.790.603/SP, deu provimento ao recurso ministerial para restabelecer a decisão de pronúncia.
+No presente writ, a defesa sustenta que "o princípio in dubio pro societate tem sua aplicação limitada a questões relacionadas a materialidade e autoria, não se aplicando quando o ponto de divergência é o elemento subjetivo da conduta" (fl. 4). Logo, "não há falar em aplicação do princípio in dubio pro societate, tendo em vista que, com o afastamento do dolo eventual na conduta do agente, considerando a ausência de demonstração concreta de circunstâncias objetivas, demonstrativas do referido elemento volitivo, imperiosa a desclassificação.." (fl. 5).
+Requer, assim, o restabelecimento do acórdão que desclassificou a conduta imputada à paciente.
+É o relatório.
+Decido.
+O writ não comporta conhecimento.
+Nos termos do art. 105, da Constituição Federal, não compete ao Superior Tribunal de Justiça processar e julgar os habeas corpus impetrados contra atos de quaisquer de seus órgãos ou de seus membros. Logo, inviável a análise da impetração que impugna exclusivamente decisão desta Corte Superior que cassou o acórdão que se pretende restabelecer.
+Nesse sentido:
+AGRAVO REGIMENTAL EM REVISÃO CRIMINAL. ART. 621, I E III, CPP. JULGADO RESCINDENDO PROFERIDO EM RECURSO ORDINÁRIO EM HABEAS CORPUS QUE NÃO CHEGOU A SER CONHECIDO, ANTE A REITERAÇÃO DO PEDIDO. SUPOSTAS PROVAS NOVAS QUE NÃO POSSUEM CARÁTER DE INEDITISMO. INEXISTÊNCIA DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO: DESCABIMENTO DA REVISÃO CRIMINAL.
+1. A revisão criminal fulcrada na primeira parte do inciso I do art. 621 do CPP somente é cabível perante esta Corte quando impugna julgamento de mérito em sede de recurso especial. No caso concreto o autor da revisão criminal buscava a rescisão de julgado proferido em Recurso Ordinário em Habeas Corpus que não chegou a ser conhecido pelo Relator.
+2. Meras acusações de supostos interesses eleitoreiros que teriam movido a autoridade policial responsável pela escuta telefônica e provas colhidas ao longo da instrução criminal ou durante o inquérito não se enquadram no conceito de prova nova apta a ensejar a rescisão do julgado, por serem desprovidas de ineditismo.
+3. O trânsito em julgado de sentença penal condenatória é requisito indispensável para o ajuizamento de revisão criminal, o que não ocorreu no caso concreto.
+4. Inviável o conhecimento da revisão criminal como habeas corpus, ante a impossibilidade de concessão de habeas corpus, ainda que de ofício, por qualquer órgão julgador do STJ contra atos dos próprios membros da Corte, diante da expressa previsão constitucional que atribui a competência, nesses casos, ao Supremo Tribunal Federal.
+5. Inviável o conhecimento da revisão criminal como habeas corpus, ante a impossibilidade de concessão de habeas corpus, ainda que de ofício, por qualquer órgão julgador do STJ contra atos dos próprios membros da Corte, diante da expressa previsão constitucional que atribui a competência, nesses casos, ao Supremo Tribunal Federal.
+Precedentes.
+6. Agravo regimental a que se nega provimento.
+(AgRg na RvCr n. 4.296/PE, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 11/4/2018, DJe de 7/5/2018.)
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
