@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCISCO MARCELO GOMES contra acórdão do Tribunal de Justiça do Estado de Goiás proferido nos autos do HC n. 5546095-22.2020.8.09.0000.
+Narra a petição inicial que o Paciente teve a prisão preventiva decretada pela suposta prática do crime de homicídio qualificado. Posteriormente, o Acusado foi pronunciado, juntamente com outros corréus, como incurso no "artigo 121,§ 2º, I, em relação a vítima José Ferreira da Silva e artigo 121,§ 2º, V, em relação a vítima Rogério Capitulino da Silva" (fl. 69), sendo mantida a prisão preventiva.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão de fls. 22-31.
+Neste writ, a Defesa alega a ausência dos requisitos e de fundamentação idônea para a prisão preventiva. Aponta ofens a ao princípio da presunção de inocência pela existência de dúvidas acerca da autoria do delito. Aduz, ainda, que o Paciente ostenta condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva com "a imediata expedição do contramandado de prisão, para que possa aguardar o deslinde de seu processo em liberdade" (fl. 21).
+É o relatório.
+Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, a Defesa não juntou aos autos a cópia da decisão que decretou a prisão preventiva do Paciente, mantida na decisão de pronúncia.
+Ocorre que, como se sabe, a "adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX - Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para q ue se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, o pedido não pode ser conhecido, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
