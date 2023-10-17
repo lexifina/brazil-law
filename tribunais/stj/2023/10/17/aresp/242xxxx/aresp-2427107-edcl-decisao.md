@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LETICIA LOPES VASCONCELOS NETA, à decisão de fls. 915/916, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Todavia, data maxima venia do quanto concluído, o Recurso Especial foi interposto no prazo legal.
+Com efeito, no tópico que inicia as razões do Recurso Especial interposto (I - DA TEMPESTIVIDADE), a Recorrente cuidou de demonstrar que não houve expediente forense no interregno compreendido entre os dias 16 e 22 de fevereiro do corrente ano, em virtude do Carnaval e da Quarta-Feira de Cinzas, consoante se verifica da captura de tela a seguir reproduzida (id. Num. 41716911 - Pág. 2 / e-STJ Fl.868): (fls. 920/921).
+ ..
+Registre-se que o Decreto Judiciário n.º 31/2023 do e. TJBA, referido no tópico em questão, encontra-se nos ids. 43011668 (e-STJ Fl.868) e 46438481 (e-STJ Fl.906), restando devidamente comprovado nos autos o feriado local (fl. 921).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023; e AgInt no AREsp n. 2.280.536/BA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.
+Do mesmo modo, a jurisprudência entende que a mera transcrição do texto de artigo de resolução local no corpo da petição não elide a necessidade da apresentação do documento original para a comprovação da suspensão de prazo na Instância de origem. Nesse sentido, AgInt no AREsp 1158537/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018; AgInt nos EDcl no AREsp 1421854/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Não se desconhece os documentos de fls. 868 e 906, no entanto, não têm o condão de afastar a intempestividade do recurso, uma vez que juntados em momento posterior à interposição do recurso especial.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
