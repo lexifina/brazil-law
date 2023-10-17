@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO E CONSECTÁRIOS LEGAIS. ENVOLVIMENTO EM ATIVIDADES CRIMINOSAS. REVISÃO DAS CONCLUSÕES. INVIABILIDADE. REEXAME APROFUNDADO DE FATOS E PROVAS. SÚMULA N. 7, STJ. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+I - Os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal de Justiça, na medida em que dizem respeito à dedica ção do agravante à atividade criminosa (tráfico de drogas), consubstanciada não somente em razão da quantidade e da natureza da droga apreendida, mas também pelas circunstâncias concretas do crime, não se tratando de traficante ocasional.
+II - A pretensão esbarra, ainda, no óbice da Sumula n. 7, STJ, não cabendo a esta Corte Superior reexaminar o conjunto fático-probatório dos autos, por ser inviável nesta via estreita.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIS GABRIEL XENOFONTE LOPES contra decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial.
+O agravante foi condenado pela prática do crime previsto no art. 33, § 4º, da Lei 11.343/2006, à pena de 1 ano e 8 meses de reclusão, no regime aberto, além do pagamento de 166 dias-multa (fls. 241-263).
+O Tribunal de origem deu parcial provimento à apelação interposta pelo Ministério Público para afastar a minorante do tráfico privilegiado, redimensionando a pena ao patamar de 5 anos de reclusão, em regime fechado, e 500 dias-multa (fls. 358-371).
+Inconformado, o agravante interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar: a) a absolvição por falta de provas; b) subsidiariamente, a desclassificação para o crime do art. 28 da Lei de Drogas; e c) a aplicação da redutora do tráfico privilegiado, com a consequente fixação de regime mais brando para cumprimento da pena e a substituição da privativa de liberdade por restritiva de direitos (fls. 378-405).
+O recurso foi inadmitido na origem por incidência dos óbices das Súmulas n.s 182 e 7, STJ (fls. 436-437).
+Em face disso, a defesa interpôs agravo em recurso especial (fls. 439-448), que fora inadmitido devido à Súmula n. 182, STJ (fls. 464-465).
+No presente agravo, a defesa sustenta que não há incidência de nenhum óbice de admissibilidade (fls. 474-505).
+O Ministério Público Federal opinou pelo não conhecimento ou pelo desprovimento do agravo regimental (fls. 513-521).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO E CONSECTÁRIOS LEGAIS. ENVOLVIMENTO EM ATIVIDADES CRIMINOSAS. REVISÃO DAS CONCLUSÕES. INVIABILIDADE. REEXAME APROFUNDADO DE FATOS E PROVAS. SÚMULA N. 7, STJ. DESPROVIMENTO DO AGRAVO REGIMENTAL.
+I - Os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal de Justiça, na medida em que dizem respeito à dedica ção do agravante à atividade criminosa (tráfico de drogas), consubstanciada não somente em razão da quantidade e da natureza da droga apreendida, mas também pelas circunstâncias concretas do crime, não se tratando de traficante ocasional.
+II - A pretensão esbarra, ainda, no óbice da Sumula n. 7, STJ, não cabendo a esta Corte Superior reexaminar o conjunto fático-probatório dos autos, por ser inviável nesta via estreita.
+Agravo regimental desprovido.
+VOTO
+Compulsando os autos, verifico que o Tribunal de origem afastou a minorante do tráfico privilegiado pelos seguintes fundamentos (fls. 360-369):
+"(..) o réu guardava para venda, fornecimento ou entrega de qualquer forma a consumo de terceiros, 05 (cinco) porções grandes de maconha (130g), substância entorpecente capaz de causar dependência física e psíquica, sem autorização e em desacordo com determinação legal ou regulamentar, bem como R$ 187,00, em espécie.
+No caso concreto, nada obstante a primariedade, não se pode olvidar que a diligência policial foi precedida de investigações e obtenção de mandado de busca e apreensão, mediante informações de que Luis estaria envolvido com a mercancia ilícita, no bairro para o qual havia recentemente mudado, local conhecido pela atividade espúria. E, na oportunidade da diligência, que culminou com a apreensão de relevante quantidade de drogas e de importância monetária, o réu confirmou que vinha mesmo realizando o comércio proscrito, há algum tempo, como meio de vida, por estar desempregado.
+Destarte, diante de tais circunstâncias, a sinalizar a dedicação às atividades criminosas (narcotraficância), inviável a concessão da benesse legal."
+Na hipótese, a causa de diminuição de pena foi afastada em razão da quantidade da droga apreendida - 5 porções de maconha com peso líquido de 130g -, aliada à circunstância de que o recorrente estaria envolvido com a mercancia ilícita, o que inclusive teria sido por ele admitido.
+Portanto, os fundamentos utilizados pela Corte de origem para não aplicar a referida redutora ao caso concreto estão em consonância com a jurisprudência deste Superior Tribunal, na medida em que dizem respeito à dedicação do agravante à atividade criminosa (tráfico de drogas), consubstanciada não somente em razão da quantidade e da natureza da droga apreendida, mas também pelas circunstâncias concretas do crime, não se tratando de traficante ocasional, situação que corrobora a conclusão de que se dedicava às atividades ilícitas (AgRg no AgRg no AREsp n. 2.358.942/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/9/2023; AgRg no HC n. 753.299/CE, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 28/9/2023).
+Assim, para se acolher a tese de que o agravante não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial, devido ao óbice da Súmula n. 7, STJ (AgRg no REsp n. 2.043.880/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2023; AgRg no AREsp n. 2.295.067/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/ 8/2023).
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
