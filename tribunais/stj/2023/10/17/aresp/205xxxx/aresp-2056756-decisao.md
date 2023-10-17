@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por USINA BOA ESPERANÇA AÇÚCAR E ÁLCOOL LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 180):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. Prestação de serviços. Nota Fiscal de prestação de serviços que contém dados sobre solicitação e aprovação. Duplicatas emitidas acompanhadas dos instrumentos de protestos. Devedora que não opôs resistência ao protesto. Adequação da via eleita. Documentos hábeis ao ajuizamento da ação monitória. Embargos julgados improcedentes. Sentença confirmada, com majoração dos honorários advocatícios, nos termos do art. 85, § 11, do CPC. Recurso provido em parte.
+Rejeitados os embargos de declaração opostos (fls. 235-340).
+No recurso especial, alega a recorrente, preliminarmente, ofensa aos arts. 489, § 1º, inciso IV, 1.022, incisos I, II, e III, do Código de Processo Civil, ao sustentar ausência de fundamentação do acórdão recorrido, e que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aponta ainda afronta aos arts. 373, I, e 86 do CPC; e 476 do Código Civil, ao defender, em síntese, a improcedência da ação monitória considerando que a recorrida não comprovou que os produtos constantes nas duplicatas tenham sido entregues a recorrente, o ônus que lhe cabia, e do qual não se desincumbiu, Aduz que a recorrida não apresentando documentos hábeis ao processo monitório, não demonstrou fato constitutivo de seu direito.
+Alega, ainda, que a sucumbência no caso é recíproca, pois não foi única sucumbente, e a recorrida não foi condenada em honorários advocatícios, o que não pode prosperar.
+Foram oferecidas contrarrazões ao recurso especial (fls. 325-326).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 249-251), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 280-288).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No caso dos autos, defende a recorrente a improcedência da ação monitória considerando que a recorrida não comprovou que os produtos constantes nas duplicatas tenham sido entregues a recorrente, o ônus que lhe cabia, e do qual não se desincumbiu. Alega, também, que a sucumbência no caso é recíproca.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das demais alegações do recorrente, considerando que a Corte de origem, ao entender pela ocorrência de preclusão em relação à questão por ele suscitada e pela aplicação de multa por litigância de má-fé, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 182-183):
+Documento idôneo, no sistema monitório, é o escrito que demonstra os fatos alegados pelo autor, isto é, do qual se possa depreender a existência do crédito afirmado. Basta isso, não se exige título executivo líquido e certo.
+(..)
+As duplicatas foram protestadas, sem qualquer resistência da parte ré (instrumentos de protestos de 23/24).
+Além da nota fiscal e das correspondentes duplicatas emitidas, vieram aos autos os instrumentos públicos de protestos.
+A embargante não negou a prestação de serviços, limitando-se a reclamar, genericamente, da ausência do recibo de entrega de mercadorias.
+Não é o caso, todavia, de se exigir comprovante de entrega de mercadorias, pois se está diante de prestação de serviços de manutenção, cuja realização não foi negada nos autos.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e dos provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. AUSÊNCIA DE COMPROVAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO AUTORAL. ART. 373, II, DO CPC/2015. 3. VIOLAÇÃO À LEI N. 8.004/1990. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 4. INADIMPLEMENTO DO CONTRATO DE COMPRA E VENDA DO IMÓVEL E SUFICIÊNCIA DOS DOCUMENTOS QUE EMBASARAM A AÇÃO MONITÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. ARTS. 884, 885 E 886 DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 6. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O colegiado estadual consignou que os agravantes deixaram de comprovar fato impeditivo, modificativo ou extintivo do direito autoral, em desconformidade ao disposto no art. 373, II, do CPC/2015.
+3. Quanto a alegada ofensa à Lei n. 8.004/1990, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+4. Modificar o entendimento do Tribunal local (acerca do inadimplemento dos agravantes relativo ao contrato de compra e venda do imóvel e da suficiência dos documentos que embasaram a ação monitória) demanda reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo também o caso de revaloração das provas.
+5. Em relação aos arts. 884, 885 e 886 do Código Civil apontados como ofendidos, a leitura do acórdão recorrido revela que as matérias a eles relativas não foram objeto de debate e decisão pela Corte estadual, carecendo, assim, de prequestionamento. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+6. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 259, § 4º, do RISTJ, devendo ser analisado caso a caso.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.325.795/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+Quanto à sucumbência, no caso, entendeu o Tribunal a quo (fls. 237 do acórdão dos embargos de declaração):
+Malgrado as boas razões deduzidas nos aclaratórios, o provimento parcial do recurso de apelação não tem potencial de alterara disciplina da sucumbência imposta em 1º grau, que, no julgamento colegiado, permaneceu inalterada, pois em caso de decaimento mínino, como é a hipótese dos autos, a parte que sucumbiu quase integralmente, responderá, por inteiro, pelas despesas e honorários (parágrafo único do artigo 86 do Código de Processo Civil).
+Como se vê, o V. Acórdão, no ponto, não padece do vício de omissão, notadamente em relação à disciplina da sucumbência.
+Cabe apenas corrigir o erro material que se vê na parte final da ementa, pois a sentença foi reformada em pequena parte, sem majoração dos honorários advocatícios, permanecendo válida a disciplina bem imposta em 1º grau de jurisdição.
+Nesse contexto , igualmente inviável a revisão do entendimento da Corte de origem, quanto o grau de sucumbência da ora recorrente, porquanto, também, implicaria o reexame do contexto fático-probatório dos autos, a incidir o óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. PERCENTUAL DE RETENÇÃO. LIMITES. FIXAÇÃO. RAZOABILIDADE. REVISÃO. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ. JUROS MORATÓRIOS. TAXA SELIC. NÃO APLICAÇÃO. PREVISÃO CONTRATUAL. REVISÃO. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+4. A jurisprudência desta Corte está consolidada no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), de acordo com as circunstâncias do caso concreto.
+5. A revisão do percentual de retenção estipulado pelas instâncias ordinárias demandaria a análise de circunstâncias fático-probatórias dos autos, providência que esbarra nos óbices das Súmulas nºs 5 e 7/STJ.
+6. Os juros moratórios devem ser pagos com base na taxa Selic, a não ser que outra taxa tenha sido contratada.
+7. Alterar as conclusões firmadas no acórdão recorrido acerca da inaplicabilidade da taxa SELIC, a partir da tese de que não existe previsão contratual quanto a juros e correção monetária, reclamaria o reexame de fatos, provas e de cláusulas contratuais por este Corte, o que atrai a incidência das Súmulas nºs 5 e 7/STJ.
+8. A jurisprudência pacífica desta Corte é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatório, incidindo a Súmula nº 7/STJ.
+9. Agravo interno não provido.
+(AgInt no REsp n. 1.995.734/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
