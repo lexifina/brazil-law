@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 7ª VARA DO RIO DE JANEIRO - SJ//RJ em face do JUÍZO FEDERAL DA VARA CÍVEL E CRIMINAL DE ITUIUTABA - SJ/MG, nos autos de Mandado de Segurança impetrado por em face de ato da Fundação Getúlio Vargas, objetivando anular questões do concurso público da Receita Federal.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil.
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 955, parágrafo único, I, do Código de Processo Civil de 2015, combinado com o art. 34, XXII, do RISTJ, o Relator está autorizado, mediante decisão monocrática, a decidir o conflito de competência quando inadmissível, prejudicado, ou em conformidade com tese firmada em julgamento de recurso repetitivo ou de repercussão geral, incidente de assunção de competência, súmula desta Corte e do Supremo Tribunal Federal, ou jurisprudência dominante acerca do tema.
+Sublinho que o presente incidente comporta conhecimento, porquanto se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, consoante o disposto no art. 105, I, d, da Constituição da República.
+No caso, a competência para conhecer e processar mandado de segurança encontra-se expressamente delimitada na Constituição da República e é aferida a partir da categoria funcional da autoridade apontada como coatora; assim, no conflito entre Justiça Estadual e Federal, ela é absoluta quando se tratar de writ impetrado contra Autoridade Federal, ou no exercício de delegação federal.
+Ademais o art. 109, § 2º, da Constituição da República determina que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal".
+Da interpretação do art. 109, § 2º, da Constituição da República extrai-se que constitui faculdade da Impetrante a escolha do foro conveniente para a propositura da ação mandamental, cabendo sua impetração perante os juízos ali indicados.
+A jurisprudência do Supremo Tribunal Federal, firmada no julgamento de recurso extraordinário com repercussão geral, é no sentido de que esse dispositivo constitucional objetiva facilitar o acesso ao Poder Judiciário da parte litigante contra a União ou seus entes da Administração Indireta, sendo legítima a opção do Impetrante de ajuizar a ação mandamental no foro de seu domicílio - Tema 374 daquela Corte.
+Nesse sentido:
+CONSTITUCIONAL. COMPETÊNCIA. CAUSAS AJUIZADAS CONTRA A UNIÃO. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. APLICABILIDADE ÀS AUTARQUIAS FEDERAIS, INCLUSIVE AO CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA - CADE. RECURSO CONHECIDO E IMPROVIDO.
+I - A faculdade atribuída ao autor quanto à escolha do foro competente entre os indicados no art. 109, § 2º, da Constituição Federal para julgar as ações propostas contra a União tem por escopo facilitar o acesso ao Poder Judiciário àqueles que se encontram afastados das sedes das autarquias.
+II _ Em situação semelhante à da União, as autarquias federais possuem representação em todo o território nacional.
+III - As autarquias federais gozam, de maneira geral, dos mesmos privilégios e vantagens processuais concedidos ao ente político a que pertencem.
+IV - A pretendida fixação do foro competente com base no art. 100, IV, a, do CPC nas ações propostas contra as autarquias federais resultaria na concessão de vantagem processual não estabelecida para a União, ente maior, que possui foro privilegiado limitado pelo referido dispositivo constitucional.
+V - A jurisprudência do Supremo Tribunal Federal tem decidido pela incidência do disposto no art. 109, § 2º, da Constituição Federal às autarquias federais. Precedentes.
+VI - Recurso extraordinário conhecido e improvido.
+(RE 627709, Relator(a): Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 20/08/2014, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014 - destaque meu)
+Na mesma linha, os precedentes da 1ª Seção desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. JUÍZO COMPETENTE. CAUSAS CONTRA A UNIÃO FEDERAL. JUÍZO NO DOMICÍLIO DO IMPETRANTE. POSSIBILIDADE. ART. 109, § 2º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A orientação da Suprema Corte é no sentido de que a regra do art. 109, § 2º, da Constituição da República também se aplica ao mandado de segurança.
+III - Na linha do entendimento do STF, esta Corte reviu posicionamento para reconhecer legítima a opção do Impetrante de propor o mandamus no foro do seu domicílio quando impetrado contra ato de autoridade integrante da Administração Pública Federal.
+Precedentes.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no CC n. 175.134/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 31/8/2021, DJe de 3/9/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. AUTARQUIA FEDERAL. ARTIGO 109, § 2º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE.
+1. Não se desconhece a existência de jurisprudência no âmbito deste Superior Tribunal de Justiça segundo a qual, em se tratando de Mandado de Segurança, a competência para processamento e julgamento da demanda é estabelecida de acordo com a sede funcional da autoridade apontada como coatora e a sua categoria profissional. No entanto, a aplicação absoluta de tal entendimento não se coaduna com a jurisprudência, também albergada por esta Corte de Justiça, no sentido de que "Proposta ação em face da União, a Constituição Federal (art. 109, § 2º) possibilita à parte autora o ajuizamento no foro de seu domicílio" (REsp 942.185/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 02/06/2009, DJe 03/08/2009).
+2. Diante do aparente conflito de interpretações, tenho que deve prevalecer a compreensão de que o art. 109 da Constituição Federal não faz distinção entre as várias espécies de ações e procedimentos previstos na legislação processual, motivo pelo qual o fato de se tratar de uma ação mandamental não impede o autor de escolher, entre as opções definidas pela Lei Maior, o foro mais conveniente à satisfação de sua pretensão.
+3. A faculdade prevista no art. 109, § 2º, da Constituição Federal, abrange o ajuizamento de ação contra quaisquer das entidades federais capazes de atrair a competência da Justiça Federal, uma vez que o ordenamento constitucional, neste aspecto, objetiva facilitar o acesso ao Poder Judiciário da parte litigante.
+4. Agravo interno a que se nega provimento.
+(AgInt no CC 153.878/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 13/06/2018, DJe 19/06/2018).
+Posto isso, nos termos do art. 955, parágrafo único, I, do Código de Processo Civil, conheço do conflito para declarar competente o JUÍZO FEDERAL DA VARA CÍVEL E CRIMINAL DE ITUIUTABA - SJ/MG
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se. Comunique-se.
+EMENTA
