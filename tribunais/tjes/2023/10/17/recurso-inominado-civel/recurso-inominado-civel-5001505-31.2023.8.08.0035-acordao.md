@@ -1,0 +1,57 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001505-31.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ESTADO DO ESPIRITO SANTO
+RECORRIDO: ANDRE NASCIMENTO HONORATO
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RESPONSABILIDADE DO ESTADO. DANO MORAL. TRATA-SE DE AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS EM QUE O AUTOR ALEGA TER SIDO SUBMETIDO A PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR INDEVIDAMENTE, VINDO A SER DECLARADO INOCENTE. MILITAR ESTADUAL QUE FORA ACUSADO POR SUPERIOR HIERÁRQUICO DE TRANSGRESSÃO FUNCIONAL. PAD QUE RESTOU ARQUIVADO. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO O RÉU NO PAGAMENTO DE R$6.000,00 (SEIS MIL REAIS) DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO INOMINADO PUGNANDO PELA REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS.
+RECURSO CONHECIDO E IMPROVIDO
+. PRELIMINAR DE INCOMPETÊNCIA DO JUÍZO JÁ AFASTADA EM SENTENÇA. NÃO SE DISCUTE, NOS PRESENTES AUTOS, A APLICAÇÃO DE EVENTUAL SANÇÃO DISCIPLINAR AO AUTOR (QUE INEXISTIU), APENAS SE BUSCA REPARAÇÃO DO ESTADO PELOS DANOS MORAIS NARRADOS PELO AUTOR, MANTENDO-SE A COMPETÊNCIA DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. NO MÉRITO, SENTENÇA DEVIDAMENTE FUNDAMENTADA. O AUTOR FOI SUBMETIDO A PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR DE MANEIRA TEMERÁRIA, EIS QUE EVIDENTE, DESDE O INÍCIO, QUE NÃO HAVIA PRÁTICA DE QUALQUER ILICITUDE NO DOCUMENTO CONFECCIONADO E ENCAMINHADO PELO SERVIDOR. NÃO BASTASSE, MESMO SAGRANDO-SE INOCENTE DAS ACUSAÇÕES QUE LHE FORAM IMPUTADAS, O AUTOR FOI TRANSFERIDO DA UNIDADE EM QUE ESTAVA. COMPROVAÇÃO SUFICIENTE DOS FATOS ENSEJADORES DO DIREITO À REPARAÇÃO. VEDAÇÃO DE UTILIZAÇÃO DE PROCESSO DISCIPLINAR COM INTUITO PERSECUTÓRIO. JUROS E CORREÇÃO MONETÁRIA APLICADOS CORRETAMENTE, DA MANEIRA EM QUE SE POSTULA NO RECURSO INOMINADO.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95
+. CONDENO A PARTE RECORRENTE AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS QUE ARBITRO EM 10% SOBRE O VALOR DA CAUSA. SEM CUSTAS.
+
+É como voto.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
