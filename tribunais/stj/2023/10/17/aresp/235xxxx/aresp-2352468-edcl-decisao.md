@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA., à decisão de fls. 607/608, que não conheceu do recurso.
+Sustenta a parte embargante que:
+6.) De acordo com a r. Decisão monocrática, "a parte recorrente foi intimada do acórdão recorrido em 13/08/2021, sendo o recurso especial interposto somente em 24/06/2022." (e-STJ, fl. 607) 7.) No entanto, a simples análise dos autos permite verificar que o Recurso Especial NÃO foi interposto na data indicada na r. Decisão monocrática, mas sim em 2.9.2021 (e-STJ, fls. 536-552), dentro do prazo legal de 15 (quinze) dias úteis indicados pelo Código de Processo Civil.
+8.) A constatação da tempestividade do REsp interposto pela FCA é simples: a intimação do v. Aresto que não acolheu os Embargos de Declaração opostos pela FCA foi disponibilizada no dia 12.8.2021, considerando-se sua data de publicação 13.8.2021 (e-STJ, fl. 533). Logo, o prazo de 15 (quinze) dias úteis se encerrou em 3.9.2021, quando já havia sido protocolado o recurso (fl. 615).
+9.) Nesse sentido, confira-se cópia do comprovante de protocolo do recurso (Doc. 2) acostado à e-STJ, fl. 536, indicando como data do protocolo o dia 2.9.2021:
+ ..
+10.) Da mesma maneira, não há que se falar em ausência de comprovação de feriado, visto que no curso do prazo em questão não ocorreu a suspensão do expediente forense, consoante comprova o provimento do E. TJSP CSM N.º 2.584.2020 (Doc. 3).
+11.) A simples análise do cenário em destaque comprova a tempestividade do Recurso Especial interposto pela FCA. Há, portanto, patente erro de fato que eiva a r. decisão monocrática, ao considerar o REsp interposto somente em 24.6.2022, quando na realidade o foi em 2.9.2021 (fl. 616).
+ ..
+14.) Assim, por qualquer ótica que se observe a questão atingir-se-á seguinte conclusão: tanto o Recurso Especial como o Agravo em Recurso Especial foram interpostos pela FCA dentro do prazo legal, sendo, portanto, tempestivos (fl. 617).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, há apenas a certidão de fl. 602, atestando que o protocolo do recurso ocorreu em 24/06/2022. Ou seja, não há documento do Tribunal de origem certificando o alegado pela parte.
+De acordo com a jurisprudência do STJ, "diante da ilegitimidade do carimbo de protocolo é dever da parte providenciar certidão da Secretaria do Tribunal respectivo, a fim de possibilitar a aferição da tempestividade do recurso, ônus este do qual não se desincumbiram os agravantes". (AgInt no REsp 1623416/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 21/8/2018.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
