@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, indeferir o pedido de extensão, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 580 DO CPP. PEDIDO INDEFERIDO.
+1. A teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. Todavia, a extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter fático e fundamentação idênticos.
+2. Ausente essa similitude, o atalho processual não pode ser utilizado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se o julgado possuísse força vinculante similar a de um leading case.
+3. A paciente e o corréu foram denunciados na mesma ação penal. A beneficiária do habeas corpus teve a ordem concedida para o trancamento do exercício da ação penal em relação aos estelionatos, duplicatas simuladas e falsidade ideológica, porque a denúncia não descreveu sua contribuição para os ilícitos em apreço.
+4. Diversamente, o requerente é delineado pelo Ministério Público como alguém que figurou em quadro societário das pessoas jurídicas, funcionou como advogado do grupo e em contratos, empréstimos e emissão de duplicatas. Em relação a ele não é possível, objetivamente, estender as razões objetivas do acórdão da Sexta Turma.
+5. O interessado deve deduzir a pretensão e buscar o trancamento do exercício da ação penal em impetração própria.
+6. Pedido de extensão indeferido.
+RELATÓRIO
+EMENTA
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 580 DO CPP. PEDIDO INDEFERIDO.
+1. A teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. Todavia, a extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter fático e fundamentação idênticos.
+2. Ausente essa similitude, o atalho processual não pode ser utilizado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se o julgado possuísse força vinculante similar a de um leading case.
+3. A paciente e o corréu foram denunciados na mesma ação penal. A beneficiária do habeas corpus teve a ordem concedida para o trancamento do exercício da ação penal em relação aos estelionatos, duplicatas simuladas e falsidade ideológica, porque a denúncia não descreveu sua contribuição para os ilícitos em apreço.
+4. Diversamente, o requerente é delineado pelo Ministério Público como alguém que figurou em quadro societário das pessoas jurídicas, funcionou como advogado do grupo e em contratos, empréstimos e emissão de duplicatas. Em relação a ele não é possível, objetivamente, estender as razões objetivas do acórdão da Sexta Turma.
+5. O interessado deve deduzir a pretensão e buscar o trancamento do exercício da ação penal em impetração própria.
+6. Pedido de extensão indeferido.
+VOTO
+Segundo o art. 580 do CPP, na hipótese de concurso de agentes, verificada a identidade de situações fática e processual, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+A paciente e o requerente são réus no mesmo processo, mas não estão na mesma situação fática (os fatos que lastreiam a imputação, em relação aos dois, são diferentes). Por isso, não é possível a extensão objetiva da ordem concedida. Não estamos diante de mera ampliação das razões de decidir do acórdão da Sexta Turma, mas de inédita análise da situação de Israel Rodrigues de Queiroz Júnior.
+A beneficiária do habeas corpus teve a ordem concedida para o trancamento do exercício da ação penal em relação aos estelionatos, duplicatas simuladas e falsidade ideológica, porque o órgão acusatório não descreveu sua contribuição para os ilícitos em apreço.
+Na denúncia, a paciente foi contextualizada como esposa do empresário Alexandre Nardini (suposto líder da organização criminosa). O Ministério Público descreve, contra ela, a existência de movimentação de dinheiro das pessoas jurídicas em sua conta bancária, bem como de bens do casal (um carro e um imóvel) que, em tese, tiveram a origem dissimulada. Com lastro nessa narrativa, não foi possível identificar em que consistiu a atuação da ré em estelionatos, duplicatas simuladas e falsidade ideológica.
+Diversamente, o Estado-acusador afirmou que Israel figurou em quadro societário das pessoas jurídicas utilizadas nos estelionatos. Em relação a ele, a denúncia descreve que era advogado, atuou "em lides de interesse do grupo, além de funcionar em contratos, empréstimos e emissão de duplicatas" (fl. 99, grifei).
+Ausente a similitude entre os denunciados, o atalho processual não pode ser utilizado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se a concessão da ordem possuísse força vinculante similar a de um leading case.
+O requente deve deduzir a pretensão e buscar o trancamento do exercício da ação penal em impetração própria, à luz dos fatos a ele imputados, pois, a "teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. Todavia, a extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter objetivo idêntico" (AgRg no HC n. 790.642/RS, relator Ministro Rogerio Schietti, 6ª T., DJe de 19/4/2023), o que não se identifica.
+À vista do exposto, indefiro o pedido de extensão.
