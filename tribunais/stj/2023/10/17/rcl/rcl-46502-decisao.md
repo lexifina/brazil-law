@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por PAULO AUGUSTO DE CAMPOS TEIXEIRA DA SILVA, "com fundamento no artigo 105, inciso I, letra f, da Constituição Federal" (na fl. 3), visando garantir a autoridade de acórdão desta Corte, proferido no Agravo em Recurso Especial nº 287.113/SP, desta relatoria, interposto pelo reclamante em sede de ação de arbitramento de honorários advocatícios cumulada com indenização por danos materiais.
+Na decisão desta Corte, ora reclamada, discutia-se a (im)prescindibilidade de perícia judicial para que o Juízo promovesse o alegado arbitramento dos honorários advocatícios.
+Ao final, foi dado "provimento ao recurso especial, determinando o retorno dos autos ao juízo de origem para que prossiga no julgamento do feito, arbitrando os honorários advocatícios devidos ao recorrente como entender de direito", prescindindo-se da realização de perícia (grifou-se, na fl. 25).
+Retornando os autos à primeira instância para novo julgamento, o d. Juízo da 2ª Vara Cível do Foro Regional de Santo Amaro/SP, julgou "improcedente o pedido formulado na inicial", condenando "a parte requerente ao pagamento das custas e despesas processuais, que devem ser depositados nos autos após o transito em julgado, sob pena de inscrição na divida ativa, e de honorários advocatícios no valor de 10% do valor atualizado da causa" (na fl. 29).
+É o relatório.
+Passo a decidir.
+O pedido liminar deve ser deferido.
+Com efeito,
+A inicial da ação de arbitramento de honorários advocatícios, a parte autora, ora reclamante, afirmou que ela e outros foram contratados para "apresentaram para a Ré defesa em Auto de Infração e Imposição de Multa lavrado pela Delegacia Regional Tributária de Presidente Prudente" (na fl. 3 dos autos do AREsp nº 287/113/SP, originários à presente), cujo objeto era a "exigência de R$ 1.448.827,10, em razão de diversas infrações apontadas à Ré sobre o recolhimento de ICMS" (na fl. 4, idem), sustentando que, "os honorários para tal trabalho não foram contratados por escrito; é certo que os Autores, em 01.10.98, receberam R$ 14.488,27 (idem, na fl. 5).
+A assinalada decisão desta Corte deu "provimento ao recurso especial, determinando o retorno dos autos ao juízo de origem para que prossiga no julgamento do feito, arbitrando os honorários advocatícios devidos ao recorrente como entender de direito", prescindindo-se da realização de perícia (grifou-se, na fl. 25)
+Retornados os autos à primeira instância para novo julgamento, o d. Juízo da 2ª Vara Cível do Foro Regional de Santo Amaro/SP, por sua vez, considerando que o valor anteriormente fixado a título de verba honorária, e já recebido, no "valor de R$ 14.488,27 (quatorze mil e quatrocentos e oitenta e oito reais e vinte e sete centavos), o que equivale a 1% do valor da auto de imposição de infração e multa" (na fl. 28), corresponde à justa remuneração pelo trabalho desenvolvido, julgou "improcedente o pedido formulado na inicial", de elevação desse valor.
+Confira-se, o seguinte excerto da assinalada decisão rebelde:
+"Com efeito, da análise dos autos observa-se que, pela atuação em questão, a parte autora recebeu o valor de R$ 14.488,27 (quatorze mil e quatrocentos e oitenta e oito reais e vinte e sete centavos), o que equivale a 1% do valor da auto de imposição de infração e multa.
+Não há nada nos autos que justifique a imposição de percentual maior.
+A defesa foi apresentada às fls. 806/818 e o recurso às fls. 837/858, não se justificando fixação em percentual acima de 1% do valor do débito - até mesmo por se tratar de atuação administrativa.
+No mais, conforme mencionado na petição inicial, a relação entre as partes durou por muitos anos e atingiu mais de 2000 processos, todos muito possivelmente com teses muito similares, de modo que certamente se o valor contratado verbalmente atingisse sempre 10% do valor do beneficio econômico pretendido tal valor estaria expresso em um contrato escrito.
+Especialmente diante dos elevados valores envolvidos.
+Ressalte-se que a tabela da OAB cede espaço diante do ajuste havido entre as partes, não havendo duvidas de que estas estabeleceram percentuais diminutos sobre os beneficios econômicos pretendidos, conforme consta de outros processos havidos entre as mesmas partes, não se justificando a adoção de percentual maior.
+Tendo sido os valores devidos quitados, injustificado o pedido de danos materiais, que, ressalte-se, não foram minimamente comprovados" (grifou-se, na fl. 28).
+Assim, a ação de arbitramento foi julgada sem que houvesse descumprimento da decisão desta Corte, que, lembre-se limitou-se a afastar a necessidade de perícia para o julgamento assinalado.
+Insatisfeito, deve o reclamante manejar recurso de apelação.
+Ante o exposto indefiro liminarmente a presente reclamação.
+EMENTA
