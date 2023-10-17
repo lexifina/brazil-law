@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELISEU RODRIGUES DE CAMARGO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA PREVIDENCIÁRIO. MANUTENÇÃO DA QUALIDADE DE SEGURADO. INCAPACIDADE PARCIAL E PERMANENTE RECONHECIDA. CONCESSÃO DO BENEFÍCIO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 42 da Lei n. 8.213/1991, no que concerne ao direito do recorrente ao benefício previdenciário da aposentadoria por invalidez, considerando sua incapacidade parcial e permanente para o trabalho que, somada às condições particulares do segurado (idade avançada e pouca instrução), inviabilizam sua readaptação para o retorno ao mercado de trabalho, trazendo a seguinte argumentação:
+O v. acórdão de fls.., julgou parcialmente procedente a ação, condenando o INSS ao pagamento do benefício de auxílio-doença, negando o benefício de aposentadoria por invalidez sob o fundamento de que o recorrente pode ser readaptado para funções leves.
+Ocorre, que conforme pode ser observada na farta documentação anexa aos autos, inclusive no laudo pericial juntado pelo médico perito do juízo, o recorrente é indiscutivelmente portador de SEQUELA DE FRATURA DE ÚMERO, estando incapacitado de forma PARCIAL E PERMANENTE para o trabalho.
+Ainda, necessário se faz levar em consideração as condições particulares do recorrente, quais sejam:
+possui idade já avançada (mais de 54 anos), pouca instrução e sempre desenvolveu atividades incompatíveis com o quadro que apresenta (PEDREIRO), estando, agora, impossibilitado de desenvolver qualquer atividade que lhe garanta sobrevivência.
+Com isso, as doenças apresentadas pelo recorrente e que foram constatadas por laudos médicos e pelo próprio perito judicial, somadas as condições particulares do mesmo (fatores acima descritos) o incapacitam de forma total e permanente para qualquer tipo de trabalho, sendo impossível o mesmo ser readaptado para funções leves, haja vista, sua baixa instrução e idade avançada (fl. 216).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
