@@ -1,0 +1,56 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001210-91.2023.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TRANSPORTES AEREOS PORTUGUESES SA
+RECORRIDO: RODRIGO CARNEIRO MACHADO ENNES
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. TRANSPORTE AÉREO. ATRASO E CANCELAMENTO DE VOO. PASSAGEIRO ABANDONADO ANTES DA CHEGADA AO DESTINO FINAL. ADUZ O AUTOR QUE ADQUIRIU PASSAGEM AÉREA DE PARIS A VITÓRIA, MAS HOUVE ATRASO EM UMA DAS CONEXÕES, QUE FEZ COM QUE O REQUERENTE PERDESSE A CONEXÃO SEGUINTE, TENDO QUE CUSTEAR UM VOO DE BELO HORIZONTE A VITÓRIA E SUA ALIMENTAÇÃO NO AEROPORTO. PUGNA PELA CONDENAÇÃO DA RÉ NA RESTITUIÇÃO DO VALOR GASTO COM A PASSAGEM EXTRA E ALIMENTAÇÃO, ALÉM DE INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PISO QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS PARA CONDENAR A RÉ NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS ARBITRADOS EM R$8.000,00 (OITO MIL REAIS) E DANOS MATERIAIS EM R$3.248,62. RECURSO INOMINADO PUGNANDO PELA REFORMA DA SENTENÇA PARA RECONHECER EXISTÊNCIA DE EXCLUDENTE DE RESPONSABILIDADE EM FAVOR DA RÉ, EM RAZÃO DA NECESSIDADE DE MANUTENÇÃO DE AERONAVE.
+RECURSO CONHECIDO E, NO MÉRITO, IMPROVIDO.
+É INCONTROVERSO QUE A RECORRENTE ABANDONOU O PASSAGEIRO/AUTOR EM OUTRO AEROPORTO, LONGE DE SEU DESTINO FINAL. EMBORA NO RECURSO INOMINADO CONSTE “HOUVE ATRASO DE VOO DEVIDO A PROBLEMAS OPERACIONAIS”, SEQUER HÁ ESPECIFICAÇÃO DE QUAL TERIA SIDO O PROBLEMA OPERACIONAL. PROBLEMAS OPERACIONAIS CONFIGURAM FORTUITO INTERNO, QUE NÃO EXCLUI A RESPONSABILIDADE DA TRANSPORTADORA. RISCO DA ATIVIDADE. AUSÊNCIA DE OFERTA DE SOLUÇÕES APTAS A MINIMIZAR OS DANOS DA PARTE AUTORA, COMO REALOCAÇÃO EM VOOS QUE A POSSIBILITASSEM CHEGAR AO DESTINO FINAL. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MORAL CONFIGURADO. MONTANTE ARBITRADO EM OBEDIÊNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+,
+NOS MOLDES DO ART. 46 DA LEI N. 9.099/95. CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS, BEM COMO HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE 10% (DEZ POR CENTO) DO VALOR DA CONDENAÇÃO, DEVIDAMENTE ATUALIZADO.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
