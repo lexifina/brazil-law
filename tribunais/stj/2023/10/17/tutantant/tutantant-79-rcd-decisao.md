@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de pedido de reconsideração/contracautela apresentado por SOFTCONTROL ENGENHERIA E INSTALAÇÕES LTDA, em face da decisão de fls. 175-177, da lavra deste signatário, que acolheu o pleito formulado na petição da parte adversa para, em sede de tutela antecipada antecedente, conferir efeito suspensivo ao recurso especial, já admitido na origem e pendente de remessa a esta Corte Superior, ficando suspensos os procedimentos de praceamento do bem, até o julgamento do reclamo no âmbito do STJ.
+A ora peticionante requer a revogação da tutela provisória concedida, diante da fraude a execução comprovada no AREsp 2427408 (2023/0246149-7) e, subsidiariamente, caso não revogada a tutela, que a requerida Paula seja intimada a fazer depósito em dinheiro nos autos nº 0033865-15.2017.8.26.0100, no valor da dívida de R$ 2.642.029,27, para a garantia da execução.
+Afirma a peticionante que "está desde 2006 sem nada receber, sofrendo prejuízos e danos de difícil reparação, e a Requerida Paula, que possuía patrimônio de R$ 32.839.135,17 em 2019, não tem valores em conta e não apresenta declaração de IRPF desde 2020".
+Para corroborar o pedido de contracautela apresentou as petições de fls. 202-217, 219-223 e 224-227.
+É o relato do necessário.
+Decido.
+A contracautela não comporta deferimento.
+1. Esta Corte Superior tem admitido, em situações excepcionais, a apreciação de medida cautelar/tutela de urgência que vise à cassação do aludido efeito suspensivo a recurso especial, condicionando sua procedência à demonstração da inexistência de perigo da demora (periculum in mora) e a inviabilidade do apelo (fumus bonis iuris).
+Tal medida é conhecida, usualmente, por contracautela, consoante precedente deste Tribunal (MC 20.854/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/06/2013, DJe 19/06/2013)
+Em exame perfunctório do pedido de tutela de antecipada antecedente, asseverou-se a relevância dos argumentos apresentados no recurso especial da parte adversa a denotar a viabilidade de êxito do reclamo.
+Asseverou-se, na oportunidade, a possível ofensa ao ditame estabelecido no artigo 14 do CPC, pois a Corte local, ao reformar a decisão de origem e permitir a penhora sobre o imóvel da executada, utilizou como fundamento dispositivo legal do CPC/2015, o qual, em tese, em razão da irretroatividade da lei, não poderia ser utilizado para desfazer situação jurídica consolidada sob a vigência da norma revogada, sob pena de grave violação aos princípios da irretroatividade e da segurança jurídica.
+No tocante ao periculum in mora, é certo que havia risco premente de que o imóvel fosse objeto de praceamento, dada a expedição do edital de leilão eletrônico constante de fls. 137-139, cujo termo inicial do pregão (1ª praça) ocorreu no dia 16 de agosto com término previsto para dia 21 de agosto e, em 2ª praça com previsão de início no dia 21 de agosto e término na data de 19 de setembro.
+No petitório de contracautela, limita-se o peticionante a afirmar já ter havido deliberação definitiva na qual assentada a fraude à execução, com o estabelecimento inequívoco de atos relacionados ao esvaziamento patrimonial da devedora principal.
+Contudo, a despeito da alegação, o fato de não terem sido encontrados bens da devedora principal ou o encerramento irregular de suas atividades, não tem o condão, pro si só, de autorizar o reconhecimento de fraude à execução, principalmente quando a Corte local utiliza como premissa de julgamento dispositivo legal, em princípio, inaplicável ao caso dada a irretroatividade da lei.
+Ressalte-se, por fim, que, no presente caso, a concessão do efeito suspensivo não trouxe qualquer prejuízo ao credor, uma vez que o imóvel em questão encontra-se com a averbação da penhora nos autos, tendo sido apenas inviabilizada a excussão até o julgamento definitivo da questão.
+2. Do exposto, rejeita-se o pedido de contracautela formulado.
+Publique-se. Intimem-se.
+EMENTA
