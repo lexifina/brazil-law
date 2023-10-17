@@ -1,0 +1,8 @@
+DECISÃO
+O agravado, BANCO SAFRA S.A., apresentou petição, protocolizada sob o n. 00611697/2023 (e-STJ fls. 1.682/1.690), informando que as partes celebraram acordo, consoante instrumento apresentado. Ao final, requereu a homologação do acordo e a extinção do feito, conforme o art. 487, inc. III, "b" do Código de Processo Civil".
+Intimados, os agravantes, CONVERGENCE TECHNOLOGY INDÚSTRIA E COMÉRCIO LTDA., UZ INDÚSTRIA COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS ELETRÔNICOS LTDA., CARLOS ALBERTO PENTEADO PROENÇA e VIVIANE GIMENEZ MALUF PROENÇA, apresentaram petição, protocolizada sob o n. 00676016/2023 (e-STJ fl. 1695), esclarecendo que "considerando que as partes firmaram acordo que resolveu integralmente a discussão sobre o crédito outrora executado pela Agravada, já não persiste interesse no julgamento do agravo em recurso especial" e reiterando "os termos do acordo de fls. 1.682/1.690 para que produza os respectivos efeitos legais, com a consequente extinção do feito, com resolução de mérito, nos termos do artigo 487, inciso III, alínea "b" do CPC."
+Os advogados subscritores das referidas petições possuem poderes para tanto (e-STJ fls. 12/14, 1.171 e 1.707/1.710).
+A realização de acordo pelas partes, conforme se infere das informações constantes dos autos, denota a superveniente falta de interesse recursal por perda de objeto do presente agravo em recurso especial (e-STJ fls. 1.652/1.660).
+Diante do exposto, homologo o acordo firmado entre as partes, às fls. 1.682/1.683 (e-STJ), em conformidade com o art. 34, IX, do RISTJ, e julgo prejudicado o recurso por perda de objeto.
+Publique-se e intimem-se.
+EMENTA
