@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  por VALDINETE DE MELO MACIEL  contra a d ecisão  proferida pelo Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim  ementada:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FUNDO PASEP. SAQUES INDEVIDOS. FATO CONSTITUTIVO DO DIREITO DO AUTOR NÃO COMPROVADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXCLUDENTE DE CULPA. ATO ILÍCITO. MATÉRIAS NÃO APRECIADAS PELO TRIBUNAL A QUO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL (fl. 462).
+Sustenta a parte embargante haver omissão no julgado já que o objeto da presente demanda foi afetado à sistemática dos recursos repetitivos (REsp 1.895.936/TO - Tema 1.150). Argumenta que os autos deste feito devem ser sobrestados e que deve ser determinada a sua devolução à origem.
+Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  com  efeitos  infringentes.
+Impugnação ao recurso apresentada (fls. 487/496).
+  É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC/2015). Nada há, enfim, que impeça o seu conhecimento.
+Na espécie, houve, de fato, omissão em razão da ausência de análise da afetação à sistemática dos recursos repetitivos (REsp 1.895.936/TO - Tema 1.150). Sendo assim, devem ser acolhidos os embargos de declaração. Passo a novo exame da demanda.
+A Primeira Seção do Superior Tribunal de Justiça decidiu afetar os Recursos Especiais 1.895.936/TO, 1.895.941/TO e 1.951.931/DF para julgamento pelo sistema dos recursos repetitivos, ficando estabelecida a seguinte questão de direito controvertida - Tema 1.150:
+a) O Banco do Brasil possui, ou não, legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa;
+b) A pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao PASEP se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil ou ao prazo quinquenal estipulado pelo artigo 1º do Decreto nº 20.910/32;
+c) O termo inicial para a contagem do prazo prescricional é o dia em que o titular toma ciência dos desfalques ou a data do último depósito efetuado na conta individual vinculada ao PASEP.
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal d e Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, acolho os embargos de declaração com efeitos infringentes e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão dos recursos re presentativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
