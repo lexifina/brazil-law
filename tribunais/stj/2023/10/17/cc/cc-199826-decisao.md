@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 19ª VARA CÍVEL DE SÃO PAULO/SP e o JUÍZO FEDERAL DA 17ª VARA CÍVEL DE BRASÍLIA/DF, nos autos de ação de cumprimento individual de sentença coletiva, movida pelo MUNICÍPIO DE JATI/CE contra a UNIÃO, em razão da condenação que foi imposta ao ente federal a ressarcir os municípios brasileiros, quanto aos valores a eles repassados a menor, a título de complementação do FUNDEF (art. 6º, § 1º, da Lei 9.424/1996).
+O Juízo Federal do Distrito Federal declinou da competência, por entender que a eleição de foro pela parte autora está limitada ao local onde a ação coletiva foi julgada e ao foro do domicílio do exequente. O Juízo da 19ª Vara Federal suscitou o presente conflito negativo , com arrimo em precedente desta Corte e na regra prevista no art. 109, § 2º, da CF/1988.
+Manifestação do MPF pela competência do Juízo Federal paulista (e-STJ fls. 27/32).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, constato a competência do Juízo Federal suscitado.
+É que, em casos tais, os Ministros que compõem a eg. Primeira Seção desta Corte têm reconhecido a possibilidade de eleição pelo autor da ação do foro de seu domicílio, daquele em que processada a ação de origem ou, ainda, do Distrito Federal, para fins de cumprimento da sentença coletiva, nos termos da disciplina do art. 109, § 2º, da CF/1988, sendo lícito o processamento do feito na Capital federal.
+Nesse sentido, especificamente quanto ao cumprimento da sentença coletiva do FUNDEF, reporto-me aos seguintes precedentes: CC 195.107, Ministro Benedito Gonçalves, DJe de 13/9/2023; CC 198.758, Ministro Francisco Falcão, DJe de 2/8/2023; CC 189.628, Ministra Assusete Magalhães, DJe de 2/6/2023; CC 196.546, Ministra Assusete Magalhães, DJe de 17/5/2023; CC 192.592, Ministra Assusete Magalhães, DJe de 15/2/2023.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO FEDERAL DA 17ª VARA CÍVEL DE BRASÍLIA/DF.
+Pu blique-se. Intimem-se.
+EMENTA
