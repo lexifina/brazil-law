@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIANA PEDRON MEZZOMO contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DO DEVEDOR/EMBARGANTE. PRELIMINAR DE FALTA DE INTERESSE DE AGIR POR INADEQUAÇÃO DA VIA ELEITA. ACOLHIMENTO. INTERPOSIÇÃO DE EXECUÇÃO PARA PAGAMENTO DE QUANTIA CERTA. ERRONIA. CONTRATO QUE PREVÊ A ENTREGA DE 828 TONELADAS DE ARROZ, COMO PARCELA DE PAGAMENTO DO PREÇO. FACULDADE DOS EXECUTADOS DE PAGAR O MONTANTE EQUIVALENTE ATÉ A DATA AJUSTADA QUE NÃO DESVIRTUA A NATUREZA DA OBRIGAÇÃO DE DAR. INTERPOSIÇÃO DIRETA DE EXECUÇÃO POR QUANTIA CERTA QUE NÃO SE ENCONTRA PREVISTA NO ART. 627, CAPUT, CPC/73 (ART. 809, CAPUT, DOCPC/2015). AUSÊNCIA DE INTERESSE PROCESSUAL EVIDENCIADO. LITIGÂNCIA DE MÁ-FÉ. PEDIDO DE CONDENAÇÃO DO ADVERSO AO PAGAMENTO DE MULTA LEGAL FORMULADO EM APELAÇAO E EM CONTRARRAZÕES. IMPOSSIBILIDADE. MERO EXERCÍCIO DO DIREITO À AMPLA DEFESA. HIPÓTESES DO ART. 80 DO CPC NÃOCONFIGURADAS. PLEITO RECHAÇADO. "Para a caracterização da litigância de má-fé é necessária a presença concomitante dos requisitos objetivo e subjetivo do tipo, ou seja, o dano processual e o dolo ou a culpa grave da parte maliciosa, sem os quais a pretensão condenatória afigura-se descabida. O fato de o Réu ter apresentado defesa aos pedidos iniciais, bem como se insurgido contra a sentença que lhe foi desfavorável, não justifica, por si só, a condenação às penas por litigância de má-fé, mas simplesmente o exercício do contraditório e da ampla defesa" (TJSC, Apelação Cível n. 0313467-02.2016.8.24.0023, da Capital, rel. João Batista Góes Ulysséa, Segunda Câmara de Direito Civil, j. 10-12-2020). RECURSO CONHECIDO E PROVIDO." (fl. 1934, e-STJ).
+Os primeiros embargos de declaração opostos foram rejeitados (fls. 2002/2006, e-STJ) e os segundos foram acolhidos, sem efeitos infringentes (fls. 2084/2087, e-STJ).
+Nas razões do especial (fls. 2093/2101, e-STJ), a recorrente aponta negativa de vigência do art. 585, II, do CPC.
+Sustenta, em síntese, que "o Termo de Confissão de Dívida preencheu os requisitos estabelecidos na norma processual para ser um título executivo extrajudicial, tanto pela expressa disposição do valor devido, quanto pela assinatura das partes e de duas testemunhas" (fl. 2096, e-STJ)
+Oferecidas as contrarrazões (fls. 2113/2127, e-STJ), o recurso não foi admitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhida.
+Com efeito, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"Para o perfeito entendimento da lide, faz-se necessário a transcrição da cláusula contida no título executivo extrajudicial que lastreia a demanda expropriatória,
+(..)
+Em situação idêntica à relatada nos autos, foi reconhecida a inadequação da via eleita nos autos da Apelação Cível n. 0300177-65.2016.8.24.0104, de Ascurra, rel. José Carlos Carstens K hler, julgado pela Quarta Câmara de Direito Comercial, em 02-04-2019, decisão esta a qual transcrevo, a fim de evitar tautologia:
+(..)
+Além disso, exsurge com clareza solar a concessão aos Embargantes da faculdade de, até a data da entregadas sacas de arroz, optar pelo pagamento do equivalente, por intermédio de depósito em conta bancária de titularidade do Exequente (cláusula n. 4.3).
+Ora, como se trata de mera possibilidade conferida aos Executados, tal circunstância não implica no desvirtuamento da natureza do pacto, que é eminentemente de entregar coisa determinada pelo gênero e pela quantidade.
+Não passa desapercebido por esta relatoria que a opção de pagamento do equivalente às sacas de arroz foi conferida pelo Credor aos Devedores, de sorte que, por obviedade ululante, não pode aquele se valer da sobredita faculdade para travestir os meandros do negócio jurídico em voga.
+ .. Diante disso, para o ajuizamento de execução por quantia certa, imperativa a liquidação ou arbitramento pelo juiz, porquanto inconcebível a indicação unilateral do valor supostamente devido pelo Exequente.
+(..)
+Logo, pelo que se infere da leitura das passagens doutrinárias, deveria o Exequente ter se valido do procedimento estatuído no art. 811 e seguintes do CPC/2015, que prevê a execução para entrega de coisa incerta.
+ ..
+Por óbvio, a extinção da lide executiva é medida de rigor, diante do acolhimento da preliminar de ausência de interesse processual suscitada pelos Embargantes  .. .
+No caso dos autos, a ação restou interposta durante a vigência do Código de Processo Civil anterior, o que não modifica o entendimento acima exarado, uma vez que nos dois códigos, quando se trata de entrega de coisa incerta (toneladas de arroz, no caso), deve-se primeiramente intimar o devedor para que entregue a coisa e, em não o fazendo, poderá o juiz converter a obrigação em perdas e danos.
+Os procedimentos previstos na lei processual anterior para as execuções por quantia certa e para a entrega de coisa fungível eram diversos (e continuam), cada um com particularidades e pressupostos específicos, não podendo o credor pretender considerar como título executivo, nos termos do art. 585, II, do CPC, o contrato no qual se consigna a obrigação de entrega de coisa incerta.
+O que se infere dos autos é que a exequente postulou, expressamente, na petição inicial a condenação dos devedores ao pagamento de quantia certa, convertendo o montante de arroz devido (828 toneladas) atribuindo, unilateralmente, um valor determinado para cada saca de arroz, que é inadmissível pela legislação que rege a matéria" (fls. 1937/1939, e-STJ- grifou-se).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional da via eleita, conforme dispõem as Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
