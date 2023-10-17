@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCOS SANTOS DO CARMO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO CRIMINAL. CRIME TIPIFICADO NO ART. 157, §2º, II, DO CÓDIGO PENAL BRASILEIRO. 1 - PLEITO PELA ABSOLVIÇÃO POR FRAGILIDADE DO CONJUNTO PROBATÓRIO. INVIABILIDADE. ARCABOUÇO PROBATÓRIO HÍGIDO. MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE COMPROVADAS AO LONGO DA PERSECUÇÀO PENAL. PEDIDO DO "RECONHECIMENTO DE QUE O CRIME EM COMENTO SE DEU NA SUA MODALIDADE TENTADA, CONFORME DISPÕE O ART. 14, II, CPB, COM A CONSEQÜENTE APLICAÇÃO DA REDUTORA EM SEU GRAU MÁXIMO" (SIC), BEM COMO "AFASTAMENTO DA MAJORANTE PREVISTAS NO ART. 157, § 2º, INC I, DO CPB" (SIC). DESCABIMENTO. DEMONSTRADA A VIOLÊNCIA E A GRAVE AMEAÇA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. PROVAS IRREFUTÁVEIS ACERCA DA CONSUMAÇÃO DO DELITO. MANUTENÇÃO DA SENTENÇA OBJURGADA.
+Quanto à controvérsia recursal, alega violação do art. 386, VII, do CPP, no que concerne à falta de provas suficientes para a condenação do recorrente pelo crime de roubo, uma vez que a condenação se baseou exclusivamente no testemunho dos policiai s que efetuaram a prisão, dissociado das demais provas dos autos, trazendo a seguinte argumentação:
+Excelências, o Tribunal a quo ao manter a Sentença primeva violou completamente o quanto prevê a norma entabulada no art.
+386, inciso VII, do Código de Processo Penal, além do Direito Constitucional à liberdade e a presunção de inocência estabelecida na Carta Magna, eis que prolatou uma condenação apesar de não existirem provas cabais de que o ora Recorrente tenha praticado o delito em comento.
+A prova testemunhal fora fornecida, exclusivamente, pelos policiais militares responsáveis pela prisão do Recorrente, que não presenciaram os fatos.
+Não é demais lembrar que, em nome do princípio da Presunção de Inocência, previsto no artigo 5º, inciso LVII, CR, não cabe a defesa fazer prova da inocência do acusado ou de que os fatos não aconteceram da maneira descrita na denúncia.
+Ao contrário, compete à acusação produzir todas as provas necessárias e suficientes para demonstrar, cabalmente, a veracidade dos fatos narrados na peça exordial.
+No processo criminal tudo deve ser claro como a luz, certo como a evidência, positivo como qualquer grandeza algébrica; nada de suposto, nada de anfibológico, nada de ampliável, acusação positivamente segura, caso contrário, afastar-se-á a pretendida condenação.
+ ..
+Considerando, então, que nenhuma prova demonstrou-se coerente, convincente ou hábil para imputar ao Recorrente a participação no crime e, diante da presunção de inocência, a ABSOLVIÇÃO é medida judicial que se impõe, em obediência ao inciso VII, do art. 386, Código de Processo Penal (fl. 340).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem se manifestou nos seguintes termos:
+Diversamente da alegação da Defesa de insuficiência de elementos para comprovação da autoria delitiva, a condenação do Apelante foi baseada na palavra da vítima, como também foi ratificada pelos demais elementos probatórios acostados aos autos, em especial, o fato de o Apelante ter sido flagranteado pelos policiais em posse de parte da res furtiva (fl. 268).
+Nessa linha, segundo o acórdão recorrido a condenação não estaria lastreada somente nos depoimentos dos policiais.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório baseado na suposta ausência de provas suficientes para a condenação, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, podem ser citados, por analogia, os seguintes julgados: AgRg no AREsp n. 2.030.511/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/5/2022; AgRg no AREsp n. 1.924.674/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 7/4/2022; AgRg no AREsp n. 1.773.536/AM, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/8/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
