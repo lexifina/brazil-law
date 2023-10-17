@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interposto por JERUSA DA COSTA SOOMA e OUTRO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 494):
+Plano de saúde Beneficiária sofreu emergência fora da área de abrangência do plano - Operadora filiada ao Sistema - Abramge, que garante cobertura em todo o País a beneficiário sem trânsito Contrato celebrado entre as partes silente sobre sistema - Abramge Contrato de operadora com terceiro(Sistema Abramge) não implica obrigação com a beneficiária - Apelante Recurso improvido.
+Rejeitados os embargos de declaração opostos (fls. 546-559).
+No recurso especial, alegam os recorrentes, preliminarmente, ofensa aos arts. 489, § 1º, III, e 1.022, inciso II, do Código de Processo Civil, ao sustentarem ausência de fundamentação do acórdão recorrido. Sustentam que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia
+Apontam, ainda, afronta aos arts 4º, 6º, 39, 46, 47 e 51 do Código de Defesa do Consumidor; 421, 422, 424, 186, 927 e 944 do Código Civil; e 35-C e 35-F da Lei n. 9.656/98, ao defenderem, em síntese, a improcedência da negativa pela recorrida de internação de emergência e de custeio médico-hospitalares da Sra. Jerusa, porquanto contrataram a rede ABRAMGE justamente para dar cobertura a procedimentos e tratamentos de urgência/emergência ocorridos fora da área de cobertura do plano de saúde contratado, e que, por tal negativa, fazem jus à reparação por danos morais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 563-570).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 571-573), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta ao agravo (fl. 593).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações dos recorrentes, considerando que a Corte de origem, ao entender que não há previsão contratual de cobertura do atendimento em questão e que não ficou configurada obrigação de reparação por danos morais, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fls. 497-498):
+No caso dos autos, embora a operadora Apelada seja filiada ao Sistema Abramge (cf. fls. 317),não há prova de que a operadora tenha se obrigado contratualmente com a beneficiária Apelante a lhe estender a cobertura de emergências para o resto do País.
+Como apontado na r. sentença, o contrato é bastante claro ao especificar a abrangência geográfica limitando-a a alguns Municípios da Grande Curitiba (fls. 22):
+(..)
+Não há como depreender do termo de adesão da operadora Apelada ao Sistema Abramge uma obrigação com terceiros, ou seja, com a beneficiária Apelante.
+Era necessário que, à falta de previsão legal, houvesse alguma indicação no contrato firmado entre as partes, sem a qual se conclui pela inexistência de obrigação da operadora de cobrir o sinistro lamentavelmente sofrido pela beneficiária Apelante, tampouco dever de reparar por negativa abusiva de cobertura.
+Destarte, entendo correta a sentença, que proponho seja mantida, com ratificação de seus fundamentos como permite o art. 252 do RITJESP. Os honorários devem ser aumentados para 15% em razão do desenvolvimento de fase recursal (CPC 85 § 11). Observo finalmente que a obrigação de pagá-los encontra-se suspensa em razão de a parte Recorrente contar com assistência judiciária.
+Confira-se o seguinte excerto do acórdão dos embargos de declaração (fl. 551):
+Não há como depreender do termo de adesão da operadora Apelada ao Sistema Abramge uma obrigação com terceiros, ou seja, com a beneficiária Apelante. Era necessário que, à falta de previsão legal, houvesse alguma indicação no contrato firmado entre as partes, sem a qual se conclui pela inexistência de obrigação da operadora de cobrir o sinistro lamentavelmente sofrido pela beneficiária Apelante, tampouco dever de reparar por negativa abusiva de cobertura.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
