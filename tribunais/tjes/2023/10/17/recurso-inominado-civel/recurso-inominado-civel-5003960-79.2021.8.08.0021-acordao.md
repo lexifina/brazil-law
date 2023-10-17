@@ -1,0 +1,59 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5003960-79.2021.8.08.0021
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: GOL LINHAS AEREAS S.A.
+RECORRIDO: DECOLAR. COM LTDA. e outros (3)
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E DANOS MORAIS. TRANSPORTE AÉREO. NEGATIVA DE EMBARQUE. ALEGAM AS AUTORAS QUE A REQUERENTE ALYCIA FOI IMPEDIDA DE EMBARCAR PARA VIAGEM COM DESTINO FINAL EM PORTO (PORTUGAL), SEM QUE LHE FOSSE INFORMADO O MOTIVO. ADUZ QUE AS RÉS NÃO RESSARCIRAM O VALOR PAGO PELAS PASSAGENS. PUGNAM PELA CONDENAÇÃO SOLIDÁRIA DAS REQUERIDAS NO RESSARCIMENTO DO VALOR PAGO PELAS PASSAGENS E NO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. A SENTENÇA RECORRIDA JULGOU PROCEDENTES OS PEDIDOS AUTORAIS, PARA CONDENAR 1ª RÉ (DECOLAR) NO PAGAMENTO NO VALOR DE R$63,43, A 3ª REQUERIDA (IBÉRIA) NA RESTITUIÇÃO DA QUANTIA DE R$3.645,57, EM BENEFÍCIO DA 2ª AUTORA WELIDA VIEIRA DE ALMEIDA E, POR FIM, A 2ª REQUERIDA (GOL) AO PAGAMENTO DE R$5.000,00 (CINCO MIL REAIS) À 1ª AUTORA (ALYCIA ALMEIDA BASTOS) A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO INOMINADO DA 2ª REQUERIDA (GOL) PUGNANDO PELA REFORMA DO JULGADO, PARA SE NEGAR PROCEDÊNCIA AOS PEDIDOS AUTORAIS, OU AINDA A REDUÇÃO DO
+QUANTUM
+DA INDENIZAÇÃO ARBITRADA.
+RECURSO CONHECIDO E IMPROVIDO
+. NO TOCANTE A PRELIMINAR ARGUIDA, QUANTO A RESPONSABILIDADE DA GOL LINHAS AÉREAS S/A, INDISCUTÍVEL A SOLIDARIEDADE ENTRE AS REQUERIDAS, POIS FOI A REQUERIDA QUEM NEGOU O EMBARQUE DA AUTORA NO PRIMEIRO TRECHO DA VIAGEM. NO MÉRITO, É INCONTESTE A FALHA NA PRESTAÇÃO DOS SERVIÇOS, QUE IMPEDIU A AUTORA DE TER A CONTRAPRESTAÇÃO PELO VALOR QUE PAGOU. AUSÊNCIA DE INFORMAÇÕES POR PARTE DA COMPANHIA AÉREA AO CONSUMIDOR. IMPEDIMENTO DE EMBARQUE EM VOO INTERNACIONAL. FALTA DE QUALQUER JUSTIFICATIVA PARA A NEGATIVA DE EMBARQUE. DANOS MORAIS DECORRENTES DA FRUSTRAÇÃO E STRESS A QUE A AUTORA FOI SUBMETIDA, POR NÃO PODER REALIZAR A VIAGEM. VALOR ADEQUADAMENTE ARBITRADO, DE ACORDO COM OS CRITÉRIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. POR FORÇA DA SUCUMBÊNCIA RECURSAL, CONDENAÇÃO DA PARTE RECORRENTE EM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+É como voto.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
