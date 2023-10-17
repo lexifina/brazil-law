@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por LARA TATIANE ARAUJO DE MIRANDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CÍVEL INTERPOSTA PELO ESTADO. AÇÃO DE ANULAÇÃO DE PROTESTO C/C INDENIZAÇÃO POR DANOS MORAIS. DÉBITOS REFERENTES À IPVA. PROTESTO REGULAR. MANUTENÇÃO DO PROTESTO APÓS A QUITAÇÃO DA DÍVIDA. RESPONSABILIDADE PELA BAIXA DO PROTESTO. ÔNUS DO DEVEDOR. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA. ÔNUS SUCUMBENCIAL INVERTIDO. EXIGIBILIDADE SUSPENSA NOS TERMOS DO ART. 98, § 3º DO CPC.
+Quanto à controvérsia, a parte recorrente alega violação do art. 14, § 1º, da Lei n. 9.492/1997. Sustenta que, para a sua validade, faz-se necessária a intimação por AR do devedor do protesto levado a cabo pelo credor , trazendo a seguinte argumentação:
+A recorrente teve seu nome mantido de forma protestada pelo Estado do Tocantins durante longo período, mas sem saber, pois nunca havia sido dele intimada.
+Certo dia, ao abrir o crediário em uma loja, passou por grande constrangimento, pois descobriu que seu nome estava protestado e foi impedida de prosseguir com o crédito.
+Teve grande surpresa do acontecido, pois o veículo que ensejou o protesto, por atraso de IPVA, já havia sido vendido há anos.
+Sentindo-se injustiçada, requereu judicialmente a retirada do protesto e indenização (com liminar reconhecida em primeira instância e julgamento favorável), contudo foi reformado em 2º instância.
+Em segunda instância, o julgamento foi reformado mesmo tendo sido verificado que a autora NÃO FOI INTIMADA do protesto, declarando o julgador como ônus dela (mesmo sem saber) a retirada do protesto.
+Inconformada, apresenta o presenta Recurso Especial, por entender que o julgamento foi de encontro ao que diz o art. 14 da lei 9492/97.
+O acórdão supra também vai contra à vasta jurisprudência.
+Inclusive, o acórdão supra vai contra ao próprio entendimento do Tribunal do Estado do Tocantins que declarou o seguinte no PROVIMENTO Nº 005/97 -CGJ (Revogado pelo Provimento n. 002/01) (Ver Provs. ns. 007/96 e 001/97) "Dispõe sobre normas ao Protesto de Títulos e Documentos e dá outras providencias - Seja o Protesto levado a efeito após aceite expresso, ou na falta deste, com o comprovante da entrega da mercadoria que deu origem ao título. , assim transcrito:(..)
+RESOLVE: DETERMINAR QUE: Seja sempre facultado ao devedor o prazo previsto em Lei de 72 (setenta e duas) horas para que efetue pagamento do título antes do protesto. Prazo este contado sempre da data da notificação; Na hipótese de ser desconhecido o endereço ou a pessoa indicada para aceitar ou para pagar, seja feita a intimação através de edital afixado no átrio do Fórum local e se possível, publicado pela imprensa, no jornal de maior circulação na cidade. Seja o protesto seja levado a efeito após aceite expresso ou na falta deste, com o comprovante da entrega da mercadoria que deu origem ao título.
+De acordo com as provas dos autos, não houve sequer tentativa de notificação comum ou notificação por edital.
+Após enfrentar a questão arguida por via de embargos de declaração, o juiz manteve o acórdão incólume.
+Por isso, há violação do art. 14 da lei9492/97, sujeito a modificação pelo STJ.
+Por tudo isso, merece, há de ser conhecido este recurso especial, a fim de corrigir a ilegalidade do acórdão (fls. 228-229).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
