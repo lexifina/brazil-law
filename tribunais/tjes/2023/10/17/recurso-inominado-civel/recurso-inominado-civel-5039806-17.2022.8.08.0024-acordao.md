@@ -1,0 +1,62 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5039806-17.2022.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: RAPHAEL PARASIO HENRIQUES
+RECORRIDO: UBER DO BRASIL TECNOLOGIA LTDA.
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO CIVIL POR DANOS MATERIAIS E DANOS MORAIS. COMPRA DE PRODUTO REALIZADA POR APLICATIVO DE ENTREGA PELO VALOR DE R$899,42. PRODUTO NÃO ENTREGUE. NARRA A PARTE AUTORA TER ADQUIRIDO MEDICAMENTOS ATRAVÉS DA PLATAFORMA DO RECORRIDO, E QUE OS PRODUTOS NÃO FORAM ENTREGUES NEM HOUVE O RESSARCIMENTO DO VALOR PAGO. REQUER A CONDENAÇÃO DA RÉ NA RESTITUIÇÃO DO VALOR PAGO E INDENIZAÇÃO POR DANOS MORAIS. A SENTENÇA RECORRIDA ACOLHEU PRELIMINAR E RECONHECEU A PERDA DO OBJETO EM RELAÇÃO AO PEDIDO DE RESTITUIÇÃO DO VALOR PAGO, MAS CONDENOU O RÉU INDENIZAÇÃO POR DANOS MORAIS, ARBITRADA EM R$1.000,00.
+RECURSO INOMINADO DO AUTOR PUGNANDO PELA REFORMA DA SENTENÇA PARA JULGAR PROCEDENTE O PEDIDO DE RESTITUIÇÃO DO VALOR PAGO E PARA MAJORAR O VALOR DA INDENIZAÇÃO.
+AO CONTRÁRIO DO QUE ALEGA A PARTE RECORRIDA, NÃO HOUVE A RESTITUIÇÃO DO VALOR PAGO, MAS MERO LANÇAMENTO DE CRÉDITO NA CONTA DO RECORRIDO.
+TODAVIA, TENDO O AUTOR SE UTILIZADO DE PARTE DOS CRÉDITOS, INVIÁVEL A REFORMA DA SENTENÇA PARA CONDENAR A REQUERIDA NA RESTITUIÇÃO DO VALOR PAGO.
+NO TOCANTE À FIXAÇÃO DO QUANTUM INDENIZATÓRIO, RESTA CONSOLIDADO, TANTO NA DOUTRINA COMO NA JURISPRUDÊNCIA PÁTRIA O ENTENDIMENTO DE QUE A FIXAÇÃO DO VALOR DA INDENIZAÇÃO POR DANO MORAL DEVE OBSERVAR O PRINCÍPIO DA RAZOABILIDADE, LEVANDO-SE EM CONTA AS PECULIARIDADES DO CASO CONCRETO, COMO A SITUAÇÃO ECONÔMICA DA PARTE AUTORA, O PORTE ECONÔMICO DA EMPRESA RÉ, O GRAU DE CULPA E A ATRIBUIÇÃO DO EFEITO SANCIONATÓRIO E SEU CARÁTER PEDAGÓGICO. CONSTATA-SE, NO PRESENTE CASO, QUE O AUTOR TENTOU EXAUSTIVAMENTE SOLUCIONAR A QUESTÃO NA ESFERA ADMINISTRATIVA, SEM SUCESSO. O MONTANTE APENAS LHE FOI DEVOLVIDO, NA FORMA MAIS CONVENIENTE PARA A RÉ, FRISA-SE, APÓS O AJUIZAMENTO DA DEMANDA, E MAIS DE UM ANO APÓS A RETENÇÃO INDEVIDA.
+NESSE SENTIDO, A
+
+SENTENÇA DEVE SER REFORMADA PARA MAJORAR O DANO MORAL AO PATAMAR DE R$4.000,00 (QUATRO MIL REAIS), COM MANUTENÇÃO DOS DEMAIS ASPECTOS DA DECISÃO
+, EM ATENÇÃO ÀS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. SEM CUSTAS E HONORÁRIOS
+.
+
+É como voto.
+
+RAPHAEL RIBEIRO SANCHES
+
+JUIZ LEIGO
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pelo Ilmo. Juiz Leigo e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
