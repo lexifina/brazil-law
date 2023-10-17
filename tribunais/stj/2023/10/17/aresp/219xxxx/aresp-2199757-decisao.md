@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ ANTÔNIO SANTOS DA SILVA contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. COLISÃO ENTRE MOTOCICLETA E VEÍCULO PARTICULAR OCORRIDA DENTRO DO ESTACIONAMENTO DE LOJA. PRETENSÃO REPARATÓRIA POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. SENTENÇA DE PROCEDÊNCIA PARCIAL. INCONFORMISMO DE AMBAS AS PARTES.
+1- Agravo retido não conhecido.
+2- Preliminares de ilegitimidade passiva do 2º réu e de julgamento ultra petita afastadas.
+3- Ilegitimidade passiva do 1º réu mantida. Situação que configura caso fortuito externo, uma vez que estranho a atividade exercida, o que afasta o nexo de causalidade e exclui a responsabilidade pelo evento danoso.
+4- Em relação ao 2º réu, impõe -se afirmar que ao caso concreto incide o Código de Proteção e Defesa do Consumidor. Aplicação ainda da responsabilidade objetiva do fornecedor prevista no art. 14 do CDC. Destaca-se que o acidente ocorrido dentro do estacionamento representa fortuito interno, ou seja, risco inerente à atividade desenvolvida.
+5- Restou demonstrado que o estacionamento não possuía quebra-molas, ou qualquer outro aparato para controle de velocidade em suas vias internas, além da existência de precária sinalização indicativa de preferência ao tráfego e limite de velocidade, indispensável para segurança de seus usuários, o que comprova o nexo de causalidade entre a ocorrência do acidente e as lesões suportadas pelo demandante.
+6- Responsabilidade subjetiva do condutor do veículo. Apesar da divergência da dinâmica do evento relatada pelas partes, as provas produzidas nos autos apontam que o 3º réu deu causa ao evento danoso.
+7- Dano material na modalidade de danos emergentes decorrente da avaria na motocicleta do autor e despesas médicas devidamente comprovados.
+8- Em relação aos lucros cessantes, deve-se apenas reconhecer aqueles devidamente comprovados, quais seja, os valores referentes às diárias de motorista de taxi auxiliar. A quantia fixada sob essa rubrica mostra-se excessiva, considerando o valor das diárias que deixou de receber, devendo ser reduzida para o valor de 2 salários mínimos mensais, contados da data do evento danoso até a aposentadoria por invalidez do autor. Valores que de verão ser abatidos do valor percebido a título de indenização por invalidez permanente pelo seguro DPVAT, na forma do disposto na Súmula nº 246 do STJ.
+9- Danos morais configurados, in re ipsa, em razão da lesão a direito da personalidade presumidamente decorrente do acidente, que além das lesões, trouxe incapacidade definitiva para o autor. Laudo pericial comprovando que o autor sofreu fratura no membro inferior direito e invalidez permanente de 25,5% (debilidade funcional de grau elevado na função da marcha do membro inferior direito).
+10- O quantum indenizatório fixado a título de danos morais deve observar o critério bifásico. Em um primeiro momento, analisa-se o valor adotado em situações análogas. Após, na segunda fase, verificam-se as questões pertinentes ao caso concreto, como a reprovabilidade da conduta do ofensor, sua capacidade econômica e a extensão do dano sofrido. Desta forma, deve ser reduzida a indenização fixada para R$ 40.000,00, o que melhor atende aos princípios da razoabilidade e proporcionalidade. Verbete nº 343 da Súmula de Jurisprudência deste Tribunal de Justiça.
+11- Dano estético igualmente configurado, em grau médio, como constatado pelo perito, corretamente arbitrado em R$ 20.000,00.
+12- Precedentes do STJ e do TJRJ. Sentença parcialmente reformada. Desprovimento do 1º recurso. Provimento parcial dos 2º e 3º recursos." (e-STJ fls. 1.987/1.988)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 2.033/2.041).
+Nas razões do recurso especial (e-STJ fls. 2.043/2.051), o recorrente alega violação do artigo 944, parágrafo único, do Código Civil.
+Aduz que o Tribunal local deixou de considerar os parâmetros estabelecidos pela legislação ao estipular os danos morais em valor muito acima do que foi fixado em casos semelhantes.
+Afirma ser exorbitante a quantia arbitrada a título de danos morais (R$ 40.000,00 - quarenta mil reais), pois não atende aos princípios da razoabilidade e proporcionalidade.
+Sustenta que sua culpa pelo acidente foi reconhecida com muitas dúvidas.
+Defende que o "(..) recorrido não sofreu qualquer lesão que demonstrasse verdadeira violação a direito da personalidade seu." (e-STJ fl. 2.049).
+Salienta a inaplicabilidade das Súmulas nºs 5 e 7/STJ para a revisão da causa, visto se tratar a controvérsia de matéria unicamente de direito.
+Pugna para a redução do dano moral para o valor de R$ 10.000,00 (dez mil reais).
+Apresentadas as contrarrazões (e-STJ fls. 2.075/2.080), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação indenizatória ajuizada por Planton Lourdes Amboulos em desfavor de C & C - Casa e Construção Ltda., MF Park Estacionamento Ltda. e Luiz Antônio Santos da Silva objetivando compensação pecuniária pelos danos morais, materiais e estéticos suportados em razão da colisão com o veículo do terceiro réu dentro das dependências da primeira e segunda rés.
+O magistrado de primeiro grau de jurisdição reconheceu a ilegitimidade passiva da primeira ré, julgando os pedidos improcedentes em relação a ela.
+No mais, considerando o acervo fático e probatório encartado nos autos, entendeu que a colisão foi causada por culpa exclusiva do terceiro réu, motivo por que julgou pela procedência parcial dos pedidos nos seguintes termos:
+"(..)
+a.) condenar o segundo requerido e o denunciado PORTO SEGURO, observado quanto a esse o limite do contrato de seguro estabelecido com o terceiro réu, a ressarcir os danos materiais, solidariamente, na seguinte forma:
+a. 1) ressarcir os danos materiais na modalidade danos emergentes através do pagamento da quantia de R$ 6.195,00 (seis mil, cento e noventa e cinco reais), com a incidência de juros e correção monetária a contar do evento danoso; acrescido dos valores comprovados às fls. 29/30, 377, 379, 597/602, 607/611, 871/872 e 1008, devendo subtrair a quantia de R$ 2.491,03 (dois mil, quatrocentos e noventa e um reais, e três centavos), e o total apurado acrescidos de juros e correção monetária a contar da data de cada desembolso.
+a. 2) ressarcir os danos materiais na modalidade lucros cessantes, através do pagamento de diárias no valor de R$ 187,00 (cento e oitenta e sete reais), contados da data do evento danoso até a aposentadoria por invalidez do autor, com a incidência de juros e correção monetária a contar da data de cumprimento de cada obrigação, em valor apurado através de planilha de composição dos débitos; além da quantia de R$ 50.000,00 (cinquenta mil reais) em razão da invalidez suportada pelo autor, essa com a incidência de juros e correção monetária a contar do início da aposentadoria do autor.
+b) compensar os danos estéticos suportados pelo autor, através do pagamento da quantia de R$ 20.000,00 (vinte mil reais), com a incidência de juros de 1% a.m. a contar da data da citação, e correção monetária incidência da publicação dessa sentença.
+c) compensar os danos morais impingidos ao autor, através do pagamento da quantia de R$ 50.000,00 (cinquenta mil reais), com a incidência de juros de 1% a.m. a contar da data da citação, e correção monetária incidência da publicação dessa sentença." (e-STJ fl. 1.539)
+O Tribunal de origem, por sua vez, reformou a sentença apenas para
+"(..) reduzir o valor arbitrado a título de lucros cessantes para o valor de 2 salários mínimos mensais, contados da data do evento danoso até a aposentadoria por invalidez do autor, bem como o quantum arbitrado a título de Dano Moral para o valor de R$ 40.000,00 (quarenta mil reais), mantendo-se no mais a r. sentença." (e-STJ fl. 2.013)
+No julgamento dos declaratórios que se seguiu, em relação aos danos morais, o Tribunal local esclareceu que a redução do valor fixado pelo magistrado singular considerou as particularidades do caso concreto e a gravidade das sequelas acometidas ao autor.
+Irresignado, busca o recorrente a reforma do julgado, pugnando pela redução dos danos morais para R$ 10.000,00 (dez mil reais).
+O acórdão recorrido assentou que a lesão a direito da personalidade decorreu "(..) do trauma físico sofrido com o acidente, a fratura no membro inferior direito, o período de recuperação e a consequente invalidez permanente de 25,5% (debilidade funcional de grau elevado na função da marcha do membro inferior direito)." (e-STJ fl. 2.006)
+Nesse contexto, com base na razoabilidade e proporcionalidade, reduziu o montante fixado na sentença a título de dano moral para R$ 40.000,00 (quarenta mil reais).
+Também restou consignado nas instâncias ordinárias que a mecânica da colisão entre a motocicleta do autor e o veículo do recorrente sugere que este colheu aquele ao "(..) cruzar a pista, enquanto o autor trafegava em uma linha reta, sendo certo, ainda, que os graves danos provocados tanto no veículo quanto à integridade física do autor demonstram que o réu não trafegava em baixa velocidade." (e-STJ fl. 2.001)
+Assim, a pretensão recursal de alterar o valor arbitrado é inviável na estreita via do recurso especial.
+Isso porque, cada caso, consideradas as circunstâncias do fato, as condições do ofensor e do ofendido, a forma e o tipo de dano, bem como suas repercussões no mundo interior e exterior da vítima, revestem-se de características que lhe são próprias. Sendo assim, ainda que, objetivamente, possam parecer assemelhados, no aspecto subjetivo serão sempre diferentes.
+Nesta instância especial, não é possível a modificação do valor indenizatório fixado pelo Tribunal de origem sem esbarrar no óbice da Súmula nº 7/STJ. Admite-se a modificação, apenas excepcionalmente, nas hipóteses em que configurada a insignificância ou eventual exorbitância do valor arbitrado pelas instâncias de ampla cognição, o que não ocorre no caso em apreço.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. SÚMULA 7/STJ. 2. REVISÃO DA CULPABILIDADE DA VÍTIMA. SÚMULA 7 DO STJ. 3. ATIVIDADE LABORATIVA PREJUDICADA. PENSIONAMENTO. CABIMENTO. PRECEDENTES. 4. INCAPACIDADE PERMANENTE. PENSÃO VITALÍCIA. TERMO FINAL. SÚMULA N. 83/STJ. 5. REDUÇÃO DO QUANTUM INDENIZATÓRIO. NÃO DEMONSTRADA A ABUSIVIDADE NO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 6. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. 7. AGRAVO IMPROVIDO.
+(..)
+5. Aplica-se a Súmula n. 7/STJ também à pretensão de reexame do quantum indenizatório fixado pela origem, sendo tal providência admitida apenas quando o montante for estabelecido em patamar excessivo ou irrisório, situação que não se verifica no caso concreto, em que se fixou o montante de R$ 40.000,00 (quarenta mil reais), a título de danos morais e de R$ 48.000,00 (quarenta e oito mil reais) por danos estéticos.
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.369.233/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/2/2019, DJe de 13/3/2019)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais deverão ser majorados para 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
