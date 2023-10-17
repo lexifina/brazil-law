@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOSEMAR DE PAULO CAMARGO VEIGA contra decisão proferida pelo Ministro Jorge Mussi, que não conheceu do habeas corpus (e-STJ fls. 267-271).
+O agravante alega: a) "o único requisito subjetivo para a progressão do regime prisional é o bom comportamento carcerário" (e-STJ fl. 276); b) "a gravidade do delito praticado pelo paciente é aspecto que já foi valorado pelo legislador quando estabeleceu os limites da pena" (e-STJ fl. 277) ; c) "a realização do exame criminológico é hipótese excepcional, que deve ser fundamentada diante do caso concreto, não devendo referido exame ser realizado apenas com base na gravidade abstrata do delito praticado pelo sentenciado, em sua reincidência ou no tempo de pena remanescente" (e-STJ fl. 279); e d) "paciente já está no caminho da ressocialização, tendo conseguido emprego lícito e não descumprido nenhuma condição do regime aberto" (e-STJ fl. 279).
+Requer reconsideração da decisão ou submissão do recurso ao Colegiado para que seja dado provimento ao presente agravo a fim de dispensar a realização do exame criminológico e manter o agravante no regime aberto.
+Sem contrarrazões (e-STJ fls. 288 e 289).
+É o relatório.
+Em consulta realizada na página eletrônica do Tribunal de origem, no dia 10/10/2023, o Juízo da Vara das Execuções Criminais da Comarca de Marília/SP, nos autos do Processo 1009934-97.2023.8.26.0344, determinou: "noticiada a prática de falta disciplinar de natureza grave (fls. 02) - não retorno da saída temporária mês de junho/2023 - susto cautelarmente o semiaberto anteriormente concedido ao sentenciado Josemar de Paulo Camargo Veiga, Matr. 407.629-5, sob custódia da Penitenciária Dr. Danilo Pinheiro de Sorocaba-SP, o que faço nos termos do art. 50, inciso II, da Lei de Execução Penal, justificando a regressão cautelar para o regime fechado. Expeça-se Mandado de recaptura nos autos físicos 699.922, se o caso. Com sua recaptura, proceda-se à oitiva, nos termos do artigo 118, § 2º, da LEP, aguardando-se a conclusão do procedimento disciplinar instaurado. Intimem-se as partes e a Unidade Prisional em que o mesmo se encontrava".
+Essa circunstância evidencia a perda do objeto do presente recurso.
+Ante o exposto, julgo prejudicado o agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
