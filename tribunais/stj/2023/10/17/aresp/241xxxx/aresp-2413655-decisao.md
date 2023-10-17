@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por IGREJA CRISTÃ MARANATA com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Décima Quinta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais (e-STJ, fl. 223):
+APELAÇÃO CÍVEL - DIREITO CIVIL - RESPONSABILIDADE CIVIL -PUBLICAÇÃO NO FACEBOOK - LIBERDADE DE EXPRESSÃO - PROTEÇÃO DA HONRA - CONFLITO - EXCESSO NÃO VERIFICADO. 1. Todo aquele que praticar ato ilícito e causar dano a outrem é obrigado a repará-lo. 2. Ato ilícito é a ação ou omissão culposa que, violando direito, causa dano a outrem. 3. A manifestação do pensamento está condicionada a vedação do anonimato, bem como ao direito de resposta, sem prejuízo da reparação pelos danos materiais e morais causados, conforme art. 5º, V, da CRFB/88. 4. Se a publicação apontada como ofensiva não aponta o cometimento de determinado ato ilícito pela apelante, mas apenas demonstra o descontentamento da apelada com as notícias de que pastores da igreja apelante estavam envolvidos em atividades criminosas, não há falar em abuso no exercício do direito de liberdade de manifestação.
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 268-285), a recorrente apontou violação aos arts. 12, 17 e 20 do Código Civil; e aos arts. 18 e 19 da Lei n. 12.965/2014.
+Em síntese, alegou que:
+a) a fundamentação adotada pelo Tribunal de origem se mostra insuficiente para rejeitar o pleito, pois não é garantido ao difamador a exceção da verdade, cabendo ao mesmo demonstrar e comprovar as suas afirmações, sob pena de violar frontalmente o direito à honra e à imagem das pessoas;
+b) os usuários responsáveis pela criação e pela manutenção dos conteúdos expostos estão se utilizando indevidamente de seu nome e de seus representantes para disseminar conteúdo extremamente ofensivo à sua reputação; e
+c) "a possibilidade de remoção do conteúdo lesivo por ordem judicial dirigida ao Facebook também não é motivo de controvérsia neste Superior Tribunal de Justiça, que admite essa medida há anos e vem concentrando seus esforços em delinear as questões mais complexas, notadamente, a responsabilidade subjetiva dos provedores de redes sociais" (e-STJ, fl. 284).
+Não foram apresentadas as contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 7 deste Superior Tribunal (e-STJ, fls. 302-304), o que ensejou a interposição do presente agravo (e-STJ, fls. 307-320).
+Brevemente relatado, decido.
+O recurso não merece ser conhecido.
+Dessume-se da leitura dos autos que, na origem, a ora recorrente ajuizou ação ordinária de obrigação de fazer cumulada com reparação por danos morais, a qual foi julgada improcedente pelo Juízo de origem.
+Manejado o recurso de apelação, o Tribunal de origem, à luz dos arts. 186 e 927 do Código Civil, negou provimento à apelação, rechaçando a prática de ato ilícito caracterizador da responsabilidade civil.
+Veja-se (e-STJ, fls. 226-229):
+Ao exame da quaestio, verifica-se que a decisão a quo deve ser mantida.
+Como cediço, a responsabilidade civil designa o dever que alguém tem de reparar o prejuízo em consequência da ofensa a um direito alheio. Nas palavras de Flávio Tartuce (2015, p. 383) "a responsabilidade civil surge em face do descumprimento obrigacional, pela desobediência de uma regra estabelecida em um contrato, ou por deixar determinada pessoa de observar um preceito normativo que regula a vida" (Manual de Direito Civil, 5. ed. Rio de Janeiro: Forense, 2015).
+Para caracterização da responsabilidade civil, necessário observar que os artigos 186 e 927 do Código Civil consagram a regra de que todo aquele que praticar ato ilícito e causar dano a outrem é obrigado a repará-lo. Segundo o citado artigo 186 do Código Civil:
+ ..
+Logo, ato ilícito é a ação ou omissão culposa que, violando direito, causa dano a outrem. Em consequência da prática do ato ilícito, o artigo 927 do Código Civil impõe a obrigação de reparar o dano causado.
+Analisando os dispositivos acima transcritos, evidencia-se a presença de quatro elementos essenciais da responsabilidade civil: ação ou omissão, culpa ou dolo do agente, relação de causalidade e o dano experimentado pela vítima.
+Não obstante a argumentação da apelante, não se verifica a prática de ato ilícito no caso dos autos, uma vez que a apelada agiu no exercício de seu direito à liberdade de expressão. Conforme ata notarial juntada à ordem 7, a apelada comentou uma postagem no Facebook, dizendo que:
+ ..
+Ainda que seja uma crítica dura, ela se deu no limite do direito da apelada à liberdade de expressão. Como cediço, a liberdade de expressão consiste em direito fundamental, previsto no art. 5º, IV da Constituição da República, sendo um dos corolários do Estado Democrático de Direito. Não obstante, é cediço que nenhum direito é absoluto, devendo-se compatibilizar com os demais que integram o ordenamento jurídico.
+No caso dos autos, constata-se a existência de conflito entre o direito à livre manifestação do pensamento (art. 5º, IV, da CRFB/88) e o direito à inviolabilidade da honra (art. 5º, X, da CRFB/88). Nestes casos, o próprio texto constitucional estabelece a solução para a colisão de direitos apontados, pois a manifestação do pensamento está condicionada a vedação do anonimato, bem como ao direito de resposta, sem prejuízo da reparação pelos danos materiais e morais causados, conforme art. 5º, V, da CRFB/88.
+A liberdade de expressão, portanto, deve ser adequar aos limites do razoável, não podendo transpor fronteiras morais e jurídicas. A própria noção de liberdade está indissociavelmente vinculada à de responsabilidade, ao ponto de se assentar que a autodeterminação do indivíduo pressupõe sua capacidade de responder por seu comportamento.
+Dessa maneira, mesmo a liberdade de expressão encontra limites, não se admitindo a manifestação que extrapole o caráter de opinião ou informação, abrigando conteúdo ofensivo à honra e imagem de outrem. Nesse sentido:
+ ..
+No caso dos autos, a publicação apontada como ofensiva (ordem 7) não aponta o cometimento de determinado ato ilícito pela apelante, pois apenas demonstra o descontentamento da apelada com as notícias de que pastores da igreja apelante estavam envolvidos em atividades criminosas, o que não configura abuso no exercício do direito de liberdade de manifestação.
+Registre-se que a apelada demonstrou, em sua contestação, que a apelante foi alvo de diversas publicações jornalísticas apontando que seu fundador e pastores foram presos do Estado do Espírito Santo, que pastores foram denunciados criminalmente, que estavam sendo realizadas investigações sobre desvio dos valores do dízimo e que a apelante estava envolvida em fraudes fiscais.
+Ainda que a apuração da culpa da apelante por estas denúncias fuja ao escopo da presente ação, não se pode falar em informação inverídica maliciosamente veiculada pela apelada, de modo que a crítica formulada se insere dentro das balizas normais do direito à liberdade de expressão.
+Ademais, ao contrário do que alega a apelante, não há qualquer indício de que a publicação realizada pela apelada tenha se dado com o intuito de propagar intolerância religiosa ou atentar contra o sentimento religioso da apelante, seus líderes e fiéis. Conforme alegado em contestação e não impugnado, a apelada integrou a igreja apelada por vários anos, o que demonstra a impropriedade de se falar em intolerância religiosa.
+Logo, não constatado excesso no exercício do direito de liberdade de expressão, não há falar em ilicitude a ensejar a responsabilização da apelada, o que impõe a manutenção integral da sentença de improcedência.
+Ocorre que, ao apresentar as razões do recurso, a recorrente as desenvolveu em evidente dissonância do conteúdo decisório.
+Em verdade, nos termos da jurisprudência desta Corte Superior, a apresentação das razões recursais dissociadas do conteúdo do acórdão recorrido obsta o conhecimento do recurso, porquanto deficiente a fundamentação, incidindo o enunciado da Súmula n. 284/STF.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. AUSÊNCIA. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. PERCENTUAL DE RETENÇÃO. LIMITES. FIXAÇÃO. RAZOABILIDADE. REVISÃO. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ. JUROS MORATÓRIOS. TAXA SELIC. NÃO APLICAÇÃO. PREVISÃO CONTRATUAL. REVISÃO. SÚMULA Nº 5/STJ. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+9. Agravo interno não provido.
+(AgInt no REsp n. 1.995.734/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RAZÕES DISSOCIADAS.
+A dissociação entre as razões articuladas nos embargos de declaração e os reais fundamentos do acórdão embargado expõe a deficiência da argumentação e impede o seu conhecimento. Embargos de declaração não conhecidos.
+(EDcl no AgInt no REsp n. 2.013.853/PA, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+Em relação aos arts. 18 e 19 da Lei n. 12.965/2014, nota-se que o Tribunal de origem não enfrentou a questão suscitada, de modo que a matéria trazida deixa de cumprir o requisito indispensável do prequestionamento.
+Em verdade, o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais requisitos, de modo que sua ausência, obsta o conhecimento do recurso especial, atraindo a incidência, por analogia, da Súmula n. 282/STF.
+Na mesma linha de cognição:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SEGURO HABITACIONAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. SISTEMA FINANCEIRO DE HABITAÇÃO. MULTA DECENDIAL. INDENIZAÇÃO SECURITÁRIA. PAGAMENTO. ATRASO. CABIMENTO.
+1. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. A jurisprudência desta Corte é firmada no sentido de que a multa decendial é devida aos mutuários pelo atraso no pagamento da indenização securitária nos contratos vinculados ao SFH, devendo ser limitada ao valor da obrigação principal.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.158.650/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais em favor dos advogados da parte recorrida, tendo em vista que estes já foram fixados no valor máximo pela instância ordinária (e-STJ, fl. 229), nos termos do art. 85, § 11, do CPC/2015.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PUBLICAÇÃO EM REDE SOCIAL. APELAÇÃO CÍVEL. 1. DIREITO CIVIL. RAZÕES DISSOCIADAS. SÚMULA N. 284/STF. 2. MARCO CIVIL DA INTERNET. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
