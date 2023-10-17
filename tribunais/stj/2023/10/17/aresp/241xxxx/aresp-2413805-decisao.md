@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa ao artigo arrolado, incidência da Súmula n. 7/STJ e falta de comprovação do dissídio jurisprudencial (e-STJ fls. 536/538).
+O acórdão recorrido está assim ementado (e-STJ fl. 502):
+Cumprimento de sentença. Prescrição intercorrente. Extinção sem arbitramento de honorários. Prescrição intercorrente que não afasta a causalidade, nem atrai a sucumbência para o credor. Descabida a condenação da exequente ao pagamento de honorários. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 506/519), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa ao art. 85, § 2º, do CPC/2015.
+Indicou julgado do STJ, a fim de demonstrar a divergência de entendimentos. Citou o Tema n. 410/STJ, segundo o qual o acolhimento, ainda que parcial da impugnação ao cumprimento de sentença, geraria o arbitramento de honorários em favor do executado. Ainda fez referência a um terceiro precedente desta Corte que traria o entendimento de que a resistência do credor ao pedido do devedor ensejaria o pagamento de honorários.
+Acrescentou que "a aplicação do princípio da causalidade no caso em tela com a consequente exclusão ao pagamento dos honorários advocatícios, contraria e nega vigência às disposições legais contida no parágrafo 2º do art. 85 do Código de Processo Civil que estabelece para o vencido deverá pagar honorários advocatícios os quais serão fixados em consonância com o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço" (e-STJ fl. 516). Aduziu que "os honorários advocatícios também são devidos por força do princípio da sucumbência, segundo o qual o processo não pode gerar qualquer ônus para a parte que tem razão, impondo ao vencido, que deixou de alcançar com o processo aquilo que pretendia, devendo aquele que deu causa à instauração do processo deva responder pelas despesas dele decorrente, mesmo que não vencido, uma vez que poderia ter evitado a movimentação da máquina judiciária se tivesse agido de outra forma" (e-STJ fl. 518).
+Sem contrarrazões (e-STJ fl. 535).
+No agravo (e-STJ fls. 541/544), declara a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 556).
+É o relatório.
+Decido.
+O acórdão recorrido está em sintonia com a mais atual jurisprudência desta Corte, segundo a qual " e m face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, o devedor que deixou de satisfazer espontaneamente a obrigação - não tendo relação com a causa que ensejou a decretação da prescrição intercorrente (inação do credor durante o prazo prescricional)" (AgInt nos EDcl no AREsp n. 2.180.877/MG, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/5/2023, DJe de 17/5/2023).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. AUSÊNCIA DE BENS PENHORÁVEIS. PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DO EXECUTADO. IMPOSSIBILIDADE. CAUSALIDADE. PRECEDENTES DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. "Consoante recente jurisprudência desta Corte, seja por desistência da ação pelo credor em razão da carência de bens penhoráveis, seja por decretação de prescrição intercorrente, tal situação não atrai para o exequente a responsabilidade por honorários advocatícios" (AgInt no AgInt no AREsp 2.159.674/SP, Relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.914.368/MS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/9/2023, DJe de 22/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. ART. 85 DO CPC. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 2.211.554/PR, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 26/6/2023, DJe de 28/6/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. DECISÃO MANTIDA.
+1. "As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado. Precedentes" (AgInt nos EDcl no AREsp 1669665/MS, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 18/08/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.105.422/MS, de minha relatoria, QUARTA TURMA, julgado em 28/11/2022, DJe de 5/12/2022.)
+Incide, portanto, a Súmula n. 83/STJ que impede o conhecimento do recurso especial interposto com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
