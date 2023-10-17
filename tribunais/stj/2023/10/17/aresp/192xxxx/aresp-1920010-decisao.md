@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por WALDIR DE FELICIO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 6.194):
+AGRAVO REGIMENTAL - Interposição contra decisão que deu a correta solução à questão, em conformidade com a segura posição dos tribunais, inclusive superiores, sem apresentar qualquer omissão, contradição ou obscuridade Manutenção da decisão proferida que rejeitou os embargos de declaração interpostos anteriormente - Negado provimento ao recurso.
+No recurso especial obstaculizado, a parte apontou violação dos arts. 99, § 2º, e 99 do CPC/2015.
+Contrarrazões às e-STJ fls. 6.278/6.285.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+O parecer ministerial, às e-STJ fls. 6.347/6.351, opina pelo conhecimento do agravo e provimento do recurso especial.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Quanto à alegada contrariedade dos arts. 99, § 2º, e 99 do CPC/2015, a pretensão recursal não merece prosperar, uma vez que o ora agravante não apontou como o acórdão recorrido teria violado esses dispositivos legais, o que revela a deficiência de sua fundamentação, justificando a incidência da Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 165, 458 E 515, §1º, E 535, II, DO CÓDIGO DE PROCESSO CIVIL DE 1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. COMPETÊNCIA DO STF. CRÉDITOS RELATIVOS AO EMPRÉSTIMO COMPULSÓRIO SOBRE A ENERGIA ELÉTRICA. CONVERSÃO EM AÇÕES. ABUSO DE DIREITO NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - A jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido. (AgInt no REsp 1.564.937/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Não bastasse isso, o Superior Tribunal de Justiça entende que a concessão da gratuidade judiciária é possível a qualquer tempo, porém a concessão desse benefício somente produzirá efeitos quanto aos atos processuais posteriores ao pedido, sendo vedada a retroatividade para alcançar encargos fixados em momento anterior ao deferimento do benefício.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DOS SALÁRIOS EM URV. EXECUÇÃO INDIVIDUAL. SENTENÇA COLETIVA EM MANDADO DE SEGURANÇA. PRESCRIÇÃO. EXTINÇÃO DO FEITO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. REEXAME DE PROVAS DOS AUTOS. SÚMULA 283 DO STF E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015, quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. A Corte de origem, no caso dos autos, reconheceu o implemento da prescrição da pretensão executória dos não sindicalizados, ao afirmar que " ..  o sindicato tentou reabrir uma discussão acerca de um tema já decidido e transitado em jugado, quando interpôs execução coletiva em favor de todos os servidores, mesmo depois de excluídos os não sindicalizados, por requerimento do próprio sindicato. A partir dali, deve-se reconhecer iniciada a contagem do prazo prescricional. A reabertura da discussão não tem o condão de suspender ou interromper o prazo prescricional, porque, como dissemos, a matéria já tinha feito coisa julgada. A admitir-se uma nova discussão sobre o assunto seria como se admitir uma violação à imutabilidade da coisa julgada e ao princípio da segurança jurídica".
+3. Hipótese em que a parte recorrente deixou de impugnar, nas razões do recurso especial, os fundamentos da Corte de origem, o que, por si só, mantém incólume o acórdão recorrido. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+4. Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar que não ocorreu a prescrição executória, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável na via eleita, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." Precedentes do STJ: AgInt no REsp 1.894.324/SE, Rel. Min. Francisco Falcão, Segunda Turma, DJe 14/5/2021; RESP 1.895.499/SE, Min. Francisco Falcão, Segunda Turma, DJe 14/5/2021.
+5. A concessão da gratuidade judiciária é possível a qualquer tempo, porém, a concessão desse benefício somente produzirá efeitos quanto aos atos processuais posteriores ao pedido, sendo vedada a retroatividade para alcançar encargos fixados em momento anterior (despesas processuais e honorários advocatícios decorrentes da sucumbência) ao deferimento do benefício. Precedente: AgInt no REsp 1.855.069/RJ, Rel. Min. Gurgel de Faria, Primeira Turma DJe 17/2/2021.
+6. Pedido de gratuidade judiciária deferido, na hipótese.
+7. Agravo interno a que se nega provimento. (AgInt no REsp 1.886.651/SE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/06/2021, DJe 03/08/2021) (Grifos acrescidos).
+PROCESSUAL CIVIL. JUSTIÇA GRATUITA. DEFERIMENTO. ATOS ANTERIORES. EFEITOS. IMPOSSIBILIDADE.
+1. Consoante o entendimento desta Corte, não obstante a parte interessada possa, a qualquer tempo, formular pedido de concessão dos benefícios da assistência judiciária gratuita, o eventual deferimento somente produzirá efeitos quanto aos atos processua is relacionados ao momento do pedido ou os posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+2. Agravo interno desprovido. (AgInt no REsp 1.855.069/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021).
+Dessa orientação não divergiu o Tribunal de origem (e-STJ fls. 6.197/6.200), de modo que inexiste ensejo para o acolhimento do recurso.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
