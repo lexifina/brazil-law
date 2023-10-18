@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Luis Henrique Nalevaiko Venancio, apontando-se como autoridade coatora o Tribunal Regional Federal da 4ª Região no julgamento do HC n. 5029204-49.2023.4.04.0000/PR.
+Consta dos autos que o paciente foi preso em flagrante, tendo a prisão convertida em preventiva pelo Juízo da 23ª Vara Federal da comarca de Curitiba/PR , nos Autos do Inquérito Policial n. 5060273-51.2023.4.04.7000/PR, pela suposta prática do delito tipificado no art. 157, § 2º, II e V, e § 2º-A, I, do Código Penal (roubo majorado).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar, conforme acórdão de fls. 44/48.
+No presente writ, alega-se inidoneidade dos fundamentos lançados na decisão de conversão da prisão em flagrante em preventiva e possibilidade de substituição da prisão por cautelares diversas.
+Requer-se, em liminar e no mérito, a revogação da prisão e, subsidiariamente, a substituição da prisão por cautelares diversas, como o uso de monitoramento eletrônico.
+A liminar foi indeferida às fls. 61/63.
+As Informações foram prestadas pela instância ordinária às fls. 67/70.
+O Ministério Público Federal, às fls. 72/75, opina pela denegação da ordem.
+É o relatório.
+Estou de pleno acordo com a opinião manifestada pelo Subprocurador-Geral da República João Heliofar de Jesus Villar, in verbis (fls. 73/75 - grifo nosso):
+ ..
+O paciente foi denunciado, porque, em concurso com outro indivíduo, nas circunstâncias de tempo e lugar descritas nos autos, invadiu agência dos correios, em horário comercial e com grande circulação de pessoas, mediante ameaça com uso de arma de fogo, subtraiu dinheiro existente no caixa, incorrendo, em razão dessa conduta, nas sanções do art. art. 157, § 2º, II e V e § 2º-A, I, do Código Penal.
+ ..
+O acórdão manteve a prisão do paciente, ratificando os fundamentos da decisão de primeiro grau e considerou que a gravidade concreta do delito justificaria a manutenção da prisão:
+A prisão preventiva do paciente foi decretada com base nos seguintes fundamentos (evento 28, TERMOAUD1):
+Ressoa pertinente salientar que as circunstâncias relatadas não só no Boletim de Ocorrência nº 2023/923802 (evento 1, DOC1, p. 21/32) como também nas declarações das vítimas que trabalhavam na agência dos Correios (evento 1, DOC1, p. 09/16) denotam a gravidade concreta do fato, pois subsistem indícios de que, no momento do ocorrido, a agência dos Correios estava em horário de atendimento com diversos clientes e que um dos flagrados teria apontado a arma para os funcionários, exigindo a entrega do dinheiro que estava armazenado no caixa (evento 1, DOC1, p. 11 e 14).
+A gravidade em concreto das condutas narradas e a necessidade de diligências investigatórias ulteriores para elucidação dos fatos relatados não recomendam a liberdade provisória dos custodiados.
+Embora nada conste nas certidões de antecedentes de LUIS HENRIQUE NALEVAIKO VENANCIO (evento 5, DOC1 e evento 5, DOC3) em outros processos, RODRIGO FRANÇA LIMA já foi preso em flagrante anteriormente por receptação e porte ilegal de arma de fogo (evento 5, DOC4).
+Ainda que se possa cogitar a primariedade dos agentes, a dinâmica das condutas descritas, realizadas com violência e coação física e psicológica imposta pelo uso de armas de fogo, corrobora a existência de periculosidade dos agentes, o que não pode ser desconsiderado para fins exame do periculum libertatis.
+Revela-se inconteste, por isso, a alta periculosidade concreta das condutas noticiadas nos autos, emprego de armas de fogo, ameaça aos clientes e funcionários que estavam na agência.
+Presentes os requisitos e os fundamentos para a decretação da prisão preventiva, deve a prisão em flagrante ser convertida em prisão preventiva, não fazendo jus os indiciados, neste momento, ao benefício da liberdade provisória, por se revelarem inadequadas e insuficientes as medidas cautelares diversas da prisão, ao menos no momento, sobretudo, para preservar a ordem pública e para a garantia da aplicação da lei penal.
+ ..
+Os elementos mencionados na decisão que decretou a prisão preventiva evidenciam o fumus comissi delicti. Conforme se infere dos autos, há elementos de informação suficientes da prática do crime de roubo qualificado.
+E, na esteira da iterativa jurisprudência das Cortes Superiores, a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema (HC 5042737- 12.2022.4.04.0000, Relator CARLOS EDUARDO THOMPSON FLORES LENZ, juntado aos autos em 08/11/2022). Com efeito, não há como se isolar de forma absoluta a pessoa do preso com a ação que lhe é atribuída, por uma conclusão lógica daquilo que se conhece por fato criminoso, que é a ação de uma pessoa enquadrável numa previsão legal de um crime.
+Isto posto, tenho como correta a decisão de primeiro grau. Os elementos de informação dos autos indicam o periculum libertatis, pois como bem observou o Magistrado, a conduta foi realizada com violência, além de ter sido empregada coação física e psicológica aos clientes e empregados da agência dos correios. E o emprego de violência evidencia, com efeito, a periculosidade social do paciente. Com base nisso ainda, tenho firme que as medidas cautelares diversas da prisão não servem para garantir a ordem pública na hipótese, circunstância reconhecida pelo legislador, que não as previu para tal finalidade, como se infere da leitura do art. 282, inciso I, do Código de Processo Penal.
+O contexto fático da ação criminosa, com emprego de arma, praticada com violência e coação física e psicológica, no momento em que a agência dos correios estava em horário de funcionamento com diversos clientes, foram elementos do modus operandi utilizados para assentar a necessidade da prisão.
+Há, por outro lado, prova da materialidade e indícios suficientes da autoria, não só porque o paciente foi preso em flagrante, mas também porque ele já foi denunciado.
+Em que pese a primariedade e as condições pessoais favoráveis (dados já pacificado por essa e. Corte como insuficientes para revogação da prisão preventiva), a certidão de antecedentes não acompanha a prova pré-constituída. Tampouco acompanham documentos comprobatórios da situação de dependência da esposa e enteado.
+Dessa forma, na linha de entendimento da decisão monocrática que indeferiu o pedido liminar, é de ser mantida a segregação cautelar, tendo em vista o contexto fático da ação delitiva.
+Pelas mesmas razões, as medidas cautelares diversas da prisão não se mostram adequadas e suficientes para resguardar a ordem pública.
+ ..
+Realmente, o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, no sentido de que a segregação cautelar para a garantia da ordem pública se mostra fundamentada no caso em que o modus operandi empregado revela especial desvalor da conduta (AgRg no HC n. 582.326/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020).
+Em casos semelhantes já se manifestou essa Corte Superior. Confiram-se: AgRg no RHC n. 181.823/PE, de minha Relatoria, Sexta Turma, DJe 31/8/2023; e HC n. 621.122/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/2/2021.
+Nesse contexto, não verifico, portanto, a flagrante ilegalidade no acórdão impugnado.
+Ante o exposto, com base no parecer e nos precedentes desta Corte Superior de Justiça, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. ROUBO MAJORADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO DELITO. ROUBO À AGÊNCIA BANCÁRIA, COM EMPREGO DE ARMA DE FOGO, DURANTE O HORÁRIO DE FUNCIONAMENTO E COM COAÇÃO FÍSICA E PSICOLÓGICA DOS DIVERSOS CLIENTES. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PARECER ACOLHIDO.
+Ordem denegada.
