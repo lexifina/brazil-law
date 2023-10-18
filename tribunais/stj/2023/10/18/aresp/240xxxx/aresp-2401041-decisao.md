@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA NACIONAL AGRO INDUSTRIAL - COONAI, contra decisão que inadmitiu recurso especial com fundamento na Súmula n. 284 do STF e na ausência de demonstração de similitude fática.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, e c, da Constituição Federal, foi interposto contra acórdão (Agravo de Instrumento n. 2226469-36.2021.8.26.0000) assim ementado (fl. 201):
+Agravo de instrumento - Cumprimento de sentença - Insurgência em face de decisão que reputou corretos os cálculos da parte autora - Honorários advocatícios sucumbenciais fixados em 10% sobre o valor total da condenação, em ação de rescisão de contrato comercial, cumulada com pedido de cobrança de comissões e indenização por dano moral, julgada parcialmente procedente - Discussão acerca dos cálculos apresentados pela autora - Pretensão de que sobre o débito em litígio haja tão somente a incidência da taxa Selic, bem como, que sobre os honorários advocatícios sejam aplicados juros moratórios apenas a partir do trânsito em julgado nos termos do art. 85, § 16, do CPC e não antes como pretende a agravada - Procedência parcial do inconformismo - Correção monetária dos honorários advocatícios desde o ajuizamento da ação de conhecimento (Súmula 14, do STJ) - Juros de mora contados a partir da intimação do executado para pagamento, tal qual decidido - Precedentes do STJ/TJSP - Conveniência, no caso, que os autos tornem ao contador do Juízo para conferência dos cálculos apresentados pela autora, com análise de sua correspondência aos termos da sentença/acórdão proferidos, de forma a solucionar a divergência instalada nos autos - Inteligência do § 2º, do art. 524, do CPC - Recurso parcialmente provido, para esse fim.
+Os embargos de declaração opostos foram rejeitados (fls. 253-261).
+Nas razões do recurso especial, a parte recorrente aponta ofensa ao art. 406 do Código Civil, defendendo em síntese o seguinte (fl. 270-274):
+O presente recurso especial é cabível ante a alínea "a" do permissivo constitucional, tendo em vista a agressão ao artigo 406 do Código Civil, que tem sido utilizado para determinar a aplicação da Taxa SELIC na atualização monetária e juros nos débitos executados em processos judiciais.
+Ao não possibilitar a aplicação da Taxa SELIC ao caso concreto, o Tribunal recorrido fundamentou sua decisão sob o viés da preclusão e coisa julgada.
+ ..
+No caso em apreço, a ação foi distribuída em 02/12/1999, ou seja, antes da entrada em vigor do Código Civil de 2002, não existindo, na época, qualquer entendimento consolidado para utilização da Taxa SELIC no caso em concreto. Com essa mudança legislativa, é certo dizer que essa Taxa teria incidência a partir da entrada em vigor do novo diploma legal, ou seja, a partir de 10 de janeiro de 2003.
+Aduz ainda dissídio jurisprudencial.
+Requer o conhecimento e o provimento do recurso.
+As contrarrazões foram apresentadas (fls. 316-323).
+É o relatório. Decido.
+O recurso não deve prosperar.
+No mérito, a Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 217-222):
+Pois bem. Preservada a convicção da Magistrada "a quo", erros de cálculo não são atingidos pela preclusão nem são cobertos pela autoridade da coisa julgada e, se há insurgência contra o valor da dívida, seu montante não é incontroverso e os cálculos a tanto atinentes devem ser apreciados.
+Deste modo, se há alegação de erro nos cálculos feitos pela exequente, não há que se cogitar da ocorrência de preclusão nem de valor incontroverso do débito.
+ ..
+Neste contexto, como já dito, os autos devem retornar ao Contador do Juízo, para conferência dos cálculos apresentados pela agravada, com base nas informações constantes dos autos, a fim de apurar o valor correto do débito.
+Por ocasião do julgamento dos embargos de declaração, a Corte estadual ainda decidiu o seguinte (fls. 259-260):
+Imperioso anotar que questão trazida ao agravo de instrumento e agora novamente aos embargos, já está há muito acobertada pelo manto da preclusão, é o que se extraí da simples leitura do acórdão colacionado às fls. 110/118 que expressamente constou:
+ ..
+Causa espécie que a ré não tenha se insurgido contra o indexador da correção monetária, fixada pela sentença como sendo o que atualiza os impostos federais, ou seja, a taxa SELIC, pois o que tem vingado são os da Tabela Prática elaborada por este Tribunal. Porém diante do silencia da ré, fica mantido este indexador, por falta de devolução da questão decidida à Turma Julgadora".
+No que se refere à apontada ofensa aos art. 406 do Código Civil, a instância de origem concluiu que a questão está acobertada pelo manto da preclusão, porque, "diante do silencio da ré, fica mantido este indexador, por falta de devolução da questão decidida à Turma Julgadora" (fl. 260).
+Nesse contexto, a pretensão de novo pronunciamento da conclusão dada pela instância de origem implicaria reexame de matéria fático-probatória dos autos, medida inviável em recurso especial, em face do óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS DA CONTADORIA HOMOLOGADOS. PRETENSÃO DE INCLUSÃO DE EXPURGOS. IMPOSSIBILIDADE. PRECLUSÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento deste Superior Tribunal firmou-se "no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no REsp 1.958.481/RS, Relator Ministro Francisco Falcão, DJe de 24/3/2022).
+2. No caso dos autos, o Tribunal de origem homologou os cálculos apresentados pela Contadoria sem que houvesse irresignação da parte exequente, de forma que se mostra incabível, neste momento, a inclusão de expurgos, uma vez que a matéria se encontra preclusa.
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.068.031/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/8/2023, DJe de 1/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE IMÓVEL RURAL. DISCUSSÃO SOBRE OS CRITÉRIOS LEGAIS DE DEFINIÇÃO DA PEQUENA PROPRIEDADE RURAL PARA EFEITO DE IMPENHORABILIDADE. IMPERTINÊNCIA DO DISPOSITIVO LEGAL APONTADO COMO VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. PRECLUSÃO CONSUMATIVA QUE SE OPERA MESMO EM RELAÇÃO A QUESTÕES DE ORDEM PÚBLICA. INCIDÊNCIA DA SÚMULA N. 83/STJ. EXCESSO DE EXECUÇÃO EM RAZÃO DE PAGAMENTO PARCIAL DO DÉBITO. REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O entendimento deste Superior Tribunal firmou-se "no sentido de que tão somente o erro material pode ser corrigido a qualquer tempo, enquanto os erros sobre os critérios do cálculo, inclusive, no que concerne a juros moratórios e correção monetária sujeitam-se à preclusão" (AgInt no REsp 1.958.481/RS, Relator Ministro Francisco Falcão, DJe 24/3/2022).
+3. Reverter a conclusão do Tribunal local para acolher a pretensão recursal, sobretudo no que se refere à tese de excesso de execução em razão de pagamento parcial do débito, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.130.966/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/5/2023, DJe de 8/5/2023.)
+Quanto à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre à parte ora agravante, pois a tese arguida em relação ao apelo especial com base na alínea a do permissivo constitucional foi afastada pela impossibilidade de reexame de prova (Súmula n. 7 do STJ), o que implica a inviabilidade do recurso fundado na divergência jurisprudencial sobre a mesma questão.
+Nessa linha de entendimento, os seguintes precedentes: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+Ante o exposto, nego provimento ao agravo .
+Deixo de majorar os honorários nos term os do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
