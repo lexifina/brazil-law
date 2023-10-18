@@ -1,0 +1,36 @@
+DECISÃO
+VIA PORTO MOTOS LTDA. opõe embargos de declaração à decisão de fls. 335-339, que não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ.
+Em suas razões, a parte embargante afirma que houve obscuridade no decisum, porquanto há questões que não foram sanadas no acórdão (fl. 342).
+Alega que (fl. 344):
+O ponto fulcral dos presentes embargos declaratórios é acerca do erro cartorário e ausência de intimação do embargante para apresentar contrarrazões, o que restou comprovado nos autos se não enfrentado no julgado recorrido e nesta E. Corte.
+Aponta que houve "inversão de rotina processual" (fl. 344) e erro do Juízo de primeiro grau, em relação ao processo ter sido encaminhado à Corte de origem, sendo que deveria ter ocorrido a intimação da parte para apresentar contrarrazões.
+Pugna pelo prequestionamento do art. 5º, XXXV, da CF.
+Requer o provimento dos presentes aclaratórios a fim de que seja sanado o vício apontado.
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC de 2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Registre-se que, no caso, o decisum embargado foi claro ao analisar a questão posta, apontando os seguintes fundamentos (fls. 336-338, destaquei):
+Mediante análise dos autos, verifica-se que a decisão que inadmitiu o recurso especial adotou como fundamento a ausência de violação dos arts. 489 e 1.022 do CPC, a incidência da Súmula n. 7 do STJ e a prejudicialidade da análise do dissídio jurisprudencial.
+Entretanto, a agravante, nas razões do agravo em recurso especial, deixou de impugnar especificamente a Súmula n. 7 do STJ, restringindo-se a alegar, genericamente, que "não se trata de aplicação da Súmula 7 do STJ, não há reavaliação da prova" (fl. 283).
+Com efeito, não indicou, de forma concreta e específica, circunstâncias que afastassem, para a verificação das violações indicadas, a necessidade de reanálise de elementos probatórios considerados para a resolução da controvérsia.
+Ademais, a agravante não refutou o fundamento de ausência de ofensa aos arts. 489 e 1.022 do CPC, bem como da prejudicialidade na análise do dissídio jurisprudencial em razão da incidência da Súmula n. 7 do STJ.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+ ..
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Como visto acima, a parte ora embargante, nas razões do agravo em recurso especial, deixou de impugnar especificamente os fundamentos da decisão que inadmitira o recurso especial, incidindo, por analogia, a Súmula n. 182 do STJ.
+Nestes embargos, a parte embargante não demonstrou a ocorrência de omissão, contradição ou obscuridade na decisão embargada, mas restringiu-se a afirmar que há "questões que permanecem insanadas no acórdão" (fl. 342) e a apontar supostos erros no procedimento adotado pelo juízo de primeiro grau.
+Dessa forma, a parte embargante revela, em verdade, apenas seu inconformismo com a conclusão do julgado.
+Registre-se que, "Se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria" (EDcl no AgInt no REsp n. 2.011.951/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/5/2023, DJe de 31/5/2023, destaquei).
+Nesse sentido: EDcl no AgInt nos EDcl no AREsp n. 1.860.078/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022; EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe de 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe de 23/4/2018; e EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe de 7/11/2017.
+Anote-se que a contradição que autoriza a utilização dos aclaratórios não é a decisão proferida em outro momento do processo, mas sim aquela interna ao próprio decisum, "existente entre as proposições da própria decisão, do julgado com ele mesmo, ou seja, é aquela existente entre a fundamentação e o dispositivo, entre o re latório e a fundamentação, entre o dispositivo e a ementa e ainda entre os tópicos internos da decisão, que prejudica a racionalidade do julgado, afetando-lhe a coerência, e não aquela existente entre o julgado e a lei, o entendimento da parte, os fatos e provas dos autos ou com o entendimento exarado em outros julgados" (EDcl no MS n. 15.828/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 19/12/2016).
+Ademais, ressalte-se ser inviável ao Superior Tribunal de Justiça intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar questões constitucionais, sob pena de contrariar as rígidas atribuições recursais previstas na Carta Magna. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constata o vício alegado pela parte embargante, que busca, em verdade, a modificação do julgado, o que é incabível nos embargos declaratórios.
+3. Ausente qualquer dos vícios, é incabível a oposição dos aclaratórios para prequestionar matéria constitucional, visando a autorizar a interposição de recurso extraordinário. Precedentes.
+4. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 1.903.311/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022, destaquei .)
+Assim, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
