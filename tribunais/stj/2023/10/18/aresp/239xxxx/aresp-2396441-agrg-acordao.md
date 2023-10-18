@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental e conceder o habeas corpus, de ofício, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DECISÃO DA PRESIDÊNCIA DO STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. ILEGALIDADE MANIFESTA. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6 (UM SEXTO). REINCIDÊNCIA ESPECÍFICA. FUNDAMENTO INIDÔNEO. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Constata-se a existência de ilegalidade manifesta na segunda fase da dosimetria da pena do Agravante, pois o Tribunal de origem aplicou incremento superior a 1/6 (um sexto), apenas por se tratar de reincidência específica, o que destoa da jurisprudência desta Corte Superior.
+3. Agravo regimental não conhecido. Concedido habeas corpus, de ofício, a fim de reduzir a fração de aumento decorrente da agravante da reincidência para 1/6 (um sexto) e redimensionar a pena imposta.
+RELATÓRIO
+Trata-se de agravo regimental interposto por APARECIDO DA COSTA FERREIRA JUNIOR contra a dec isão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, pela falta de impugnação aos fundamentos de inadmissão do apelo nobre (fls. 683-684).
+Neste recurso interno, a Defesa afirma que a análise das teses recursais não exige reexame de provas e reitera as alegações de mérito veiculadas nas razões do recurso especial.
+Antes mesmo da distribuição do presente agravo, por meio de decisão da Presidência que concluiu não ser o caso de retratação do julgado, o Ministério Público Federal manifestou-se nos autos, opinando pelo não conhecimento do agravo regimental, em parecer de lavra do Subprocurador-Geral da República Elton Ghersel, assim ementado (fl. 714):
+"Penal e Processual Penal. Agravo Regimental no Agravo em Recurso Especial. Tráfico de drogas. 12,28 g de cocaína. Ausência de impugnação especifica aos fundamentos da decisão que não admitiu o recurso especial. Dialeticidade. Agravo regimental que não rebate especificamente os termos da decisão agravada. Súmula 182/STJ.
+- Requer-se o não conhecimento do agravo regimental. "
+Posteriormente, foi juntado novo parecer do Parquet federal, de lavra da Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, no mesmo sentido (fl. 723):
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO AGRAVADA. ENUNCIADO 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. O agravante apenas reafirma os argumentos apresentados nas razões do agravo em recurso especial, sem impugnar os fundamentos da decisão atacada. Assim, deu ensejo à aplicação do enunciado 182 da Súmula do Superior Tribunal de Justiça: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão."
+- Parecer pelo não conhecimento do agravo regimental."
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. DECISÃO DA PRESIDÊNCIA DO STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. ILEGALIDADE MANIFESTA. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6 (UM SEXTO). REINCIDÊNCIA ESPECÍFICA. FUNDAMENTO INIDÔNEO. PRECEDENTES. AGRAVO REGIMENTAL NÃO CONHECIDO. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Constata-se a existência de ilegalidade manifesta na segunda fase da dosimetria da pena do Agravante, pois o Tribunal de origem aplicou incremento superior a 1/6 (um sexto), apenas por se tratar de reincidência específica, o que destoa da jurisprudência desta Corte Superior.
+3. Agravo regimental não conhecido. Concedido habeas corpus, de ofício, a fim de reduzir a fração de aumento decorrente da agravante da reincidência para 1/6 (um sexto) e redimensionar a pena imposta.
+VOTO
+O recurso não deve ser conhecido.
+Disse a decisão agravada (fl. 683; sem grifos no original):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 182/STJ, Súmula 7/STJ e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 182/STJ e Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrid a"."
+O § 1.º do art. 1.021 do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, orientado pelo princípio da dialeticidade, dispõe que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No entanto, as razões do regimental nem sequer mencionam o fundamento pelo qual não se conheceu do agravo em recurso especial nesta Corte Superior, qual seja, a falta de impugnação aos fundamentos utilizados pelo Tribunal de origem para inadmitir o apelo nobre (Súmulas n. 83 e 182, ambas do STJ), t ampouco o impugnam objetiva e concretamente, ou seja, demonstrando de que maneira teriam enfrentado, nas razões do anterior agravo, os óbices apontados.
+Sendo assim, tem incidência a Súmula n. 182 do STJ.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/15. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos da decisão agravada enseja o não conhecimento do agravo re gimental, nos termos do art. 1.021, § 1º, do CPC/15 e do óbice contido na Súmula 182/STJ, aplicável por analogia.
+2. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo, tampouco o ataque tardio ao seu conteúdo, ou a insistência no mérito da controvérsia. Precedentes do STJ.
+3. Agravo regimental não conhecido." (AgRg no AREsp n. 2.091.694/SP, Rel. Ministro REYNALDO SOARES DA FO NSECA, QUINTA TURMA, julgado em 07/06/2022, DJe 13/06/2022.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA DE OFENSA. FUNDAMENTO NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. FEITO APRESENTADO EM MESA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+3. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto.
+ ..
+5. Agravo regimental não conhecido." (AgRg no AREsp n. 1.919.013/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/11/2021, DJe 30/11/2021.)
+Sem prejuízo, constata-se a existência de ilegalidade manifesta, a ser afastada, sponte propria, por esta Corte Superior, por força do art. 654, § 2.º, do Código de Processo Penal, e não em razão do acolhimento de recurso ou pedido defensivo.
+Consta dos autos que o Agravante foi condenado como incurso no art. 33, caput, c.c. o art. 40, inciso III, ambos da Lei n. 11.343/06, às penas de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa. Houve apelação somente defensiva, que foi parcialmente provida, a fim de reduzir as penas para 4 (quatro) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 466 (quatrocentos e sessenta e seis) dias-multa.
+Ao dosar as penas do Acusado, o Tribunal a quo declinou a seguinte fundamentação (fls. 550-551; sem grifos no original):
+"As bases ficaram assentadas nos patamares de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na segunda fase, as penas foram exasperadas em 1/2 (metade) por força da reincidência específica (cf. certidão unificada de fls.51/52 e 120/122 complementada pela F. A. de fls. 53/55 processo nº 0002248-80.2014.8.26.0637, trânsito em julgado em 04/07/2016). No entanto, para o caso concreto, afigura-se proporcional a elevação no coeficiente de 1/5 (um quinto), obtendo-se 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+Na terceira etapa, as reprimendas sofreram acréscimo de 1/6 (um sexto) por conta da causa especial de aumento (artigo 40, III, da Lei nº 11.343/06), isto é, 07 (sete) anos de reclusão e 700 (setecentos) dias-multa.
+Reincidente específico (como acima visto) o apelante, por expressa vedação legal, não faz jus ao benefício do redutor do § 4º do art. 33 da Lei nº 11.343/06, sem, contudo, qualquer configuração de bis in idem, porquanto o impedimento da aplicação da benesse no caso decorre de expressa disposição de lei.
+ ..
+Presente a causa de diminuição do artigo 26, parágrafo único, do Código Penal semi-imputabilidade comprovada pelo laudo de fls. 352/355 as reprimendas foram reduzidas de forma razoável na fração de 1/3 (um terço), pois "o réu Aparecido da Costa Ferreira Junior era ao tempo da ação, portador de Síndrome de Dependência a Múltiplas Drogas, condição essa que não prejudicava sua capacidade de entendimento, mas comprometia parcialmente sua capacidade de determinação, considerando o delito cometido", perfazendo, no recálculo, as definitivas de 04 (quatro) anos e 08 (oito) meses de reclusão e 466 (quatrocentos e sessenta e seis) dias-multa, no piso.
+Correto o regime inicial fechado, pois a gravidade concretada conduta já minuciosamente analisada e a recidiva (ademais, específica e, portanto, indicativa do descaso para com a Justiça, completa ausência de assimilação da terapêutica criminal e desinteresse na plena reintegração social, pois optou por perpetuar a atividade criminosa como modo de vida) incompatibilizam e desautorizam o estabelecimento de regime prisional mais brando (cf. artigo 59, III; c. c. artigo 33, § 3º, do Código Penal)."
+Como se vê do excerto acima transcrito, o Tribunal de origem entendeu cabível a majoração da pena intermediária do Réu na fração de 1/5 (um quinto), em razão da reincidência específica.
+O fundamento empregado pelo Tribunal estadual para aplicar incremento mais severo na pena destoa da jurisprudência desta Corte Superior, que orienta no sentido de que "ostentando o agente apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, com amparo apenas no fato de se tratar de reincidente específico" (AgRg no AREsp n. 2.193.431/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/11/2022, DJe 28/11/2022, sem grifos no original).
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA.
+1. "A aplicação de patamar superior a 1/6 em razão da incidência de agravante exige que o julgador apresente fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica" (AgRg no AREsp 2035357/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 29/03/2022, DJe 31/03/2022).
+2. Agravo regimental improvido." (AgRg no REsp n. 1.995.486/MG, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 02/08/2022, DJe 05/08/2022, sem grifos no original.)
+Desse modo, o aumento da pena pela agravante da reincidência deve ser reduzido à usual fração jurisprudencial de 1/6 (um sexto).
+Passo a redimensionar as penas.
+Na primeira fase, mantenho a pena-base no mínimo legal: 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na segunda etapa, presente a agravante da reincidência, deve-se adotar o patamar de aumento de 1/6 (um sexto). Dessa forma, a sanção intermediária resta fixada em 5 (cinco) anos e 10 (dez) meses de reclusão, além de 583 (quinhentos e oitenta e três) dias-multa.
+Na terceira e última fase, mantenho o incremento de 1/6 (um sexto), em razão da majorante do art. 40, inciso III, da Lei de Drogas, alcançando a reprimenda de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, além de 680 (seiscentos e oitenta) dias-multa. Por fim, mantenho a redução de 1/3 (um terço), aplicada pela Jurisdição ordinária devido ao reconhecimento da semi-imputabilidade do Acusado, tornando a pena definitiva no patamar de 4 (quatro) anos, 6 (seis) meses e 14 (quatorze) dias de reclusão, além de 453 (quatrocentos e cinquenta e três) dias-multa.
+Ante o exposto, NÃO CONHEÇO do agravo regimental; porém, CONCEDO habeas corpus, de ofício, a fim de reduzir a fração d e aumento decorrente da agravante da reincidência para 1/6 (um sexto) e redimensionar a pena imposta.
+É o voto.
