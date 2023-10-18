@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por GEAP AUTOGESTAO EM SAUDE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. GEAP. PLANO DE SAÚDE. AUTOGESTÃO. INAPLICABILIDADE DO CDC. DEMORA NA AUTORIZAÇÃO DO FORNECIMENTO DOS MATERIAIS SOLICITADOS PELO MÉDICO CIRURGIÃO. URGÊNCIA. AGRAVAMENTO DO QUADRO DE SAÚDE QUE OCASIONOU A MORTE DA GENITORA DA DEMANDANTE. SENTENÇA DE PROCEDÊNCIA QUE CONDENOU O RÉU AO PAGAMENTO DE RS 30.000.00 POR DANOS MORAIS. APLICAÇÃO DO ARTIGO 3O, XTV, DA RESOLUÇÃO NORMATIVA DA ANS  259/2011 QUE DETERMINA O ATENDIMENTO INTEGRAL E IMEDIATO DA SOLICITAÇÃO EM CASO DE URGÊNCIA. PACIENTE IDOSA. LAUDO PERICIAL QUE CONCLUIU PELO AGRAVAMENTO DO QUADRO E RESULTADO MORTE EM DECORRÊNCIA DA DEMORA PARA A REALIZAÇÃO DA CIRURGIA. DANO MORAL CONFIGURADO. QUANTUM ARBITRADO QUE DEVE SER MANTIDO. NEGADO PROVIMENTO AO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186, 188, I, 422 e 927 do CC e 5º, II, da CF, no que concerne à inexistência de ato ilícito indenizável por parte da recorrente, uma vez que não cometeu nenhuma irregularidade no atendimento da parte recorrida e não há nexo causal entre a conduta da recorrente e os fatos narrados na inicial, trazendo a seguinte argumentação:
+No processo judicial, não houve qualquer documento que comprovasse que houve negativa ou demora por ato praticado pela Recorrente apta a ensejar a condenação ao pagamento de indenização por danos morais.
+Após a análise na Regulação do detalhamento das informações da Recorrida, é possível aferir que não houve qualquer negativa de cobertura ou demora por ato praticado pela Recorrente.
+Portanto não houve a prática de nenhum fato ilícito indenizável pela Recorrente.
+É impensável a condenação quando a parte agiu com a cautela necessária em respeito à vida e saúde da Recorrida.
+Não se pode afirmar que a Recorrente não cumpriu com suas obrigações, visto que não há nos autos qualquer documento que comprove que houve negativa do serviço ou demora por ato praticado pela Recorrente.
+ ..
+Não há nexo causal entre conduta do plano de saúde e os fatos ilícitos narrados na exordial. Assim, não subsiste direito a indenização, aplicando-se contrario sensu os artigos 186, e 927 do Código Civil
+ ..
+Resta claro que nenhuma conduta adotada por parte da Recorrente teve o condão de causar danos a honra da Recorrida. Não se pode admitir que em razão dos fatos descritos, o recorrido teria sofrido relevante transtorno e desconforto psicológico ao ponto de abalar sensivelmente a sua dignidade.
+(fls. 944/946).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, com relação ao disposto no art. 5º, II, da CF, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+No mais, o Tribunal de origem se manifestou nos seguintes termos:
+Na hipótese vertente, é evidente que o procedimento cirúrgico solicitado era de caráter urgente, tendo em vista a gravidade do quadro e a idade da paciente.
+Desse modo, ao contrário do que afirma a Ré, ora Apelante, houve sim demora para a autorização dos materiais, e, consequentemente, da realização da cirurgia, já que a legislação em vigor, como visto acima, determina o atendimento integral e imediato para os casos de urgência.
+ ..
+O laudo é claro ao afirmar que, a demora para liberação da cirurgia levou ao óbito da mãe da autora, valendo destarcar que, não cabe à operadora do plano de saúde analisar qual material deve ser empregado no procedimento cirúrgico, ou fornecer outro distinto daquele requerido pelo cirurgião.
+ ..
+Assim, seja por qual prisma se analise a questão, verifica-se que a Ré descumpriu a legislação aplicável à hipótese, bem como agiu contrariamente ao princípio da boa-fé insculpido no art. 422 do Código Civil, ensejando o dever de reparar o dano moral daí decorrentes, já que houve nexo de causalidade entre este e a conduta praticada.
+Com efeito, verifica-se que o prejuízo extrapatrimonial exsurge na hipótese vertente, já que houve excessiva e injustificada demora para autorização do procedimento médico e do fornecimento de materiais necessários à cirurgia de urgência, que ocasionaram o óbito da mãe da Autora (fls. 928/931).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
