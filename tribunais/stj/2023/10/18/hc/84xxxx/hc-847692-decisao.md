@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de YGOR SILVA DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0007366-12.2023.8.26.0996).
+Consta dos autos que o paciente foi incurso em falta média por suposta conduta desobediente e indisciplinada ao recusar-se a retornar para a sua cela, mesmo após ser consultado sobre a possibilidade, ou de mudança para outro pavilhão habitacional ou de medida de segurança pessoal.
+O acórdão proferido, à unanimidade, deu provimento ao recurso ministerial para que a conduta do paciente fosse reclassificada como falta grave, com reinício da contagem do prazo para a progressão no regime prisional e declaração da perda de 1/3 (um terço) dos dias eventualmente remidos.
+Neste habeas corpus, a defesa alega a atipicidade material da conduta, uma vez que a atitude impingida ao paciente não decorreu qualquer anormalidade no seio do ambiente prisional, tampouco configurou atuação comissiva voltada à transgressão disciplinar.
+Requer, inclusive liminarmente, a absolvição da parte paciente pela suposta prática de infração disciplinar. Tudo a ser confirmado no mérito.
+Pedido liminar indeferido, à fl. 104.
+Informações, às fls. 112-116 e 120-129.
+O Ministério Público Federal opinou, à fl. 131, pelo não conhecimento do presente habeas corpus, por se tratar de writ substitutivo recursal.
+É o relatório. DECIDO.
+No presente caso, da análise dos elementos informativos constantes dos autos, não restou verificada a flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Primeiramente, verifica-se que as instâncias ordinárias, após regular processo administrativo disciplinar, com as garantias do contraditório, da ampla defesa e do devido processo legal, impuseram em desfavor do paciente infração disciplinar de natureza grave.
+Inicialmente, cabe destacar que a oitiva do apenado em juízo, após reconhecimento de falta grave em regular processo administrativo disciplinar, com observância às garantias de contraditório, ampla defesa e devido processo legal, é dispensável, nos termos da jurisprudência deste Tribunal Superior
+Vejamos:
+"O Superior Tribunal de Justiça entende ser desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica (HC n. 333.233/SP, Ministro FELIX FISCHER, Quinta Turma, DJe 6/11/2015)" (AgRg no HC n. 743.507/SP, Sexta Turma, Rel. Min. Sebastião Reis Junior, DJe de /8/2022).
+"O entendimento desta Corte é pacífico no sentido de ser dispensável a oitiva judicial do apenado, se ele foi previamente ouvido em procedimento administrativo, com observância do devido processo legal" (AgRg no HC n. 709.273/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 21/3/2022).
+No caso concreto, tem-se que restaram asseguradas as garantias constitucionais (devido processo legal, contraditório e ampla defesa) ao apenado, segundo consta dos autos (fl. 88):
+"Por meio de regular procedimento disciplinar, foi apurado que, em 07.03.2023, ao ser realizado rotineiro procedimento de recolha dos detentos, o Sentenciado-Agravado recusou-se a retornar para sua cela, mesmo após ser consultado sobre a possibilidade, ou de mudança para outro Pavilhão Habitacional, ou de medida de segurança pessoal.
+A decisão agravada verificou a regularidade da sindicância administrativa, afastado qualquer vício capaz de invalidá-la, atenta às cópias encartadas a fls.05/50.
+O Agravado, na oportunidade em que prestou sua versão, assistido por Defensor da FUNAP, disse que são verdadeiros os fatos, pois pretendia ir para o Pavilhão III onde tinha amigos que poderiam ajudá-lo com pertences, embora não tivesse inimigos (..)."
+Por terem sido asseguradas as garantias constitucionais ao paciente, é dispensável sua oitiva judicial, para fins de reconhecimento da infração disciplinar.
+Ainda nesta seara, no tocante ao pleito de absolvição ou desclassificação, observa-se que as instâncias ordinárias assentaram que restou devidamente comprovada a prática da infração disciplinar, após ampla análise dos fatos e provas produzidos nos autos.
+Extrai-se dos autos que (fls. 88-90):
+"Os agentes de segurança relataram o fato ocorrido de maneira firme e convincente. Ademais, o Agravado não informou qualquer motivo ou desavença que justificasse que os agentes lhe imputassem gratuitamente esse fato, daí porque essas declarações devem ser tidas como verdadeiras.
+(..)
+Não se trata de mera atitude inconveniente, mas de efetiva desobediência e subversão à ordem e à disciplina, pois o Agravado, sabedor de seus direitos e deveres em relação à execução da pena, em especial no tocante ao comportamento disciplinado (artigo39, incisos I, II e IV, e artigo 50, incisos I e VI, e artigo 52, "caput", todos da Lei de Execução Penal), deixou de cumpri-las de forma voluntária. Condutas assim, classificadas como perturbadoras da ordem e da disciplina no estabelecimento prisional, são tipificadas como faltas disciplinares de natureza grave, havendo, pois, proporcionalidade entre a gravidade das condutas e sua punição.
+(..)
+Aliás, a conduta de desobedecer, desrespeitar, tumultuar e subvertera ordem e a disciplina, em especial no tenso ambiente carcerário no qual há inferioridade numérica dos servidores para manutenção da ordem e da disciplina, é mais do que suficiente para gerar instabilidade. Vê-se que a conduta existiu, configurando falta disciplinar de natureza grave, não se falando em desclassificação, tal qual foi feito, sendo, portanto, necessária a determinação de sua correta anotação, com interrupção do lapso para contagem de nova progressão, nos termos da Súmula nº 534 do Superior Tribunal de Justiça."
+Dos autos, portanto, não se afere qualquer ilegalidade.
+A falta grave foi devidamente fundamentada em provas, de forma que não há como se afastar, ou mesmo desclassificar, a imputação disciplinar na hipótese.
+Nesse contexto, para modificar as decisões das instâncias ordinárias no sentido de infirmar a natureza da falta imputada ao paciente, seria necessária a aprofundada incursão no acervo fático-probatório produzido no processo disciplinar, providência, sabidamente, inviável na via estreita do habeas corpus ou do seu recurso ordinário, remédio de rito célere e que não admite dilação probatória (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Ante o exposto, não constatada a flagrante ilegalidade, denego o habeas corpus.
+Publique-se. Intime-se .
+EMENTA
