@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de recurso especial interposto por URBPLAN DESENVOLVIMENTO URBANO S.A. - EM RECUPERACAO JUDICIAL, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O julgado deu parcial provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 585):
+APELAÇÕES CÍVEIS - Interposições contra sentença que julgou parcialmente procedente ação de obrigação de fazer c. c. indenização por danos materiais e morais. Promessa de compra e venda. Loteamento. Atraso na entrega da obra. Responsabilidade civil contratual. Situação para a qual é prevista a aplicação do prazo decenal, nos termos do artigo 205 do Código Civil. Prescrição nãoverificada. Indenização por lucros cessantes na base de 0,5% sobre o preço do bem. IPTU e taxas associativas. Responsabilidade do comprador apenas após a concessão do habite-se. Dano moral configurado. Indenização fixada segundo prudente estimativa, situada em patamar que atende aos princípios da proporcionalidade e razoabilidade. Pedidos de minoração rejeitados. Honorários advocatícios contratuais despendidos para o ajuizamentoda demanda. Pedido de reembolso rejeitado e subtraído da condenação arbitrada às rés. Sentença parcialmente reformada.
+Apelações parcialmente providas.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega que o acórdão estadual contrariou as disposições contidas nos artigos 186, 884 e 927 do CC, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Sustenta, outrossim, que "não pode ser mantido o acórdão guerreado, pois, inexiste qualquer conduta ilícita passível de ser imputada à Recorrente a justificar sua condenação ao pagamento de indenização por danos morais em favor dos Recorridos, pois, o mero inadimplemento contratual não enseja danos morais, conforme entendimento do Superior Tribunal de Justiça em caso deveras semelhante" (fl. 612).
+Aduz, ainda, que "os lucros cessantes, nessas hipóteses de contrato de compra e venda de lote urbano não edificado, não podem ser presumidos, mas sim efetivamente comprovados, visto que, a geração de lucros com o imóvel não está correlata a entrega do empreendimento" (fl. 617).
+Subsidiariamente, requer a redução do percentual fixado a título de lucros cessantes para 0,3% por mês sobre o valor do imóvel.
+Apresentadas as contrarrazões (fls. 643-650), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 651-654).
+É, no essencial, o relatório.
+A irresignação não merece prosperar.
+Discute-se nos autos a ocorrência de dano moral indenizável e lucros cessantes em razão de atraso na entrega de imóvel.
+No caso dos autos, o Tribunal de origem, ao analisar a controvérsia, asseverou que houve a demonstração da ocorrência de danos morais indenizáveis. In verbis (fls. 594-596):
+Em relação aos danos morais, a avaliação deveser realizada segundo o caso concreto, concluindo-se, no presente, que o sentimento de frustração em razão da aquisição de um imóvel com a expectativa de entrega atrasada, em muitos anos, já considerado o prazo de tolerância de 180 dias, sem dúvida fere o subjetivo da personalidade.
+ ..
+Desta forma, justo o acolhimento do pedido inicial de indenização, a qual permanece no valor de R$ 10.000,00, fixados pela MMª. Magistrada com ponderação, razoabilidade e proporcionalidade, ressalvando-se que se trata de condenação solidária imposta às rés. Não há justificativa para a minoração da quantia, considerada suficiente apenas para a reparação do dano, e distanciada da hipótese do enriquecimento indevido.
+O acórdão não merece reforma.
+Nos termos da jurisprudência desta Corte, "o mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade" (AgInt no AREsp n. 2.249.896/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Entretanto, o atraso na entrega de imóvel por longo período de tempo, em geral, em torno de um ano após o prazo de prorrogação ou tolerância, pode configurar causa de dano moral indenizável.
+No mesmo sentido, cito os seguintes precedentes:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. IMPUGNAÇÃO GENÉRICA. SÚMULA N.º 284 DO STF. ATRASO, ADEMAIS, QUE SE REPUTOU EXCESSIVO. RECONHECIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. A simples alegação genérica de que o dano moral não foi comprovado é insuficiente para afastar a condenação imposta, pois não ataca satisfatoriamente os argumentos adotados pelo Tribunal para impor a indenização, incidindo, no caso, a Súmula n.º 284 do STF, por analogia. 2. Não obstante esta Corte Superior já tenha reconhecido que o simples inadimplemento contratual decorrente do atraso na entrega do imóvel é incapaz, por si só, de gerar indenização por danos morais, forçoso reconhecer que o caso em concreto configurou a lesão extrapatrimonial, pois o atraso ultrapassou um ano e meio.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.734.786/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. COMPRA E VENDA DE IMÓVEL. LUCROS CESSANTES. PRESUNÇÃO EM CASO DE ATRASO NA ENTREGA DO IMÓVEL. OCORRÊNCIA. DANOS MORAIS. MORA POR PERÍODO EXPRESSIVO. CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. Conforme entendimento da Segunda Seção do STJ, "descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação da vendedora por lucros cessantes, havendo a presunção de prejuízo do adquirente, ainda que não demonstrada a finalidade negocial da transação" (EREsp 1.341.138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 9/5/2018, DJe de 22/05/2018).
+3. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso na entrega do imóvel foi de aproximadamente um ano.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, conhecer do agravo do art. 1.042 do CPC/2015 para negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 2.062.721/BA, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+Como se vê, forçoso reconhecer que o caso em concreto configurou a lesão extrapatrimonial.
+Ademais, para acolhimento das razões do apelo extremo quanto à não ocorrência do dano, seria imprescindível o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ (AgInt no AgInt no AREsp n. 2.159.987/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/6/2023, DJe de 12/6/2023.)
+No mais, a jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. E este entendimento vem sendo aplicado, também, aos casos de aquisição de lote não edificado.
+A propósito, cito os seguintes precedentes:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DO BEM IMÓVEL. LEI N. 6.766/79, QUE PREVÊ ATRASO DE ATÉ QUATRO ANOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. LUCROS CESSANTES PRESUMIDOS. LOTE NÃO EDIFICADO. POSSIBILIDADE. REVISÃO DE DANOS MORAIS. NÃO CABIMENTO. IPTU DEVIDO PELO AGRAVANTE ATÉ A DATA DA IMISSÃO NA POSSE PELOS COMPRADORES.
+1. Alegação de que o contrato é regido pela Lei n. 6.766/79 e, por isso, as partes estariam cientes de que o prazo previsto para a entrega das obras seria de quatro anos. Questão não debatida nas instâncias ordinárias, incidindo a Súmula n. 211/STJ.
+2. A jurisprudência desta Segunda Seção é pacífica ao definir que, em caso de atraso na entrega de bem imóvel, os lucros cessantes são presumidos. Precedentes
+3. No tocante à condenação de pagamento por danos morais, a jurisprudência desta Corte é no sentido de que "o valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante". Precedentes.
+4. As despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de o IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse.
+Agravo interno improvido.
+(AgInt no REsp n. 1.975.034/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. COMPRA E VENDA DE LOTE DE TERRENO. ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. E este entendimento vem sendo aplicado, também, aos casos de aquisição de lote não edificado. Incidência da Súmula nº 83 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.839.851/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Por fim, modificar a razoabilidade do valor da indenização dos lucros cessantes demandaria o reexame de fatos e provas, procedimento vedado pela Súmula n. 7/STJ.
+Nesse sentido:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO DO CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES PRESUMIDOS. BASE DE CÁLCULO. PERCENTUAL DE 0,5% SOBRE O VALOR DO IMÓVEL. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. RAZOABILIDADE DO VALOR. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. APLICAÇÃO DA PENA POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, uma vez descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Incidência da Súmula n.º 83 do STJ.
+2. No caso, o acolhimento da tese recursal de que o aluguel fixado em 0,5% sobre o valor do imóvel seria desarrazoado, e ensejaria o enriquecimento sem causa da parte recorrida, encontra óbice na Súmula n.º 7 do STJ.
+3. A litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.015.049/PA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Cuida-se, na origem, de ação de indenização por danos materiais e compensação por danos morais, ajuizada em razão de atraso na entrega de imóvel.
+2. Alterar o decidido no acórdão impugnado, no que se refere à razoabilidade do valor da indenização por lucros cessantes, exige o reexame de fatos e provas, o que é vedado em recurso especial.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.846.667/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/5/2020, DJe de 13/5/2020.)
+Ante o exposto, conheço parcialmente do recurso especial e, ness a extensão, nego-lhe provimento.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
