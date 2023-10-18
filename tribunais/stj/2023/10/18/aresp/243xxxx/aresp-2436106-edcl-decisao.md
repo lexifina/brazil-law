@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PETROX DISTRIBUIDORA LTDA, à decisão de fls. 777/778, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Excelência, é certo que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido.
+Neste contexto, sabe-se que se a parte acosta ao autos simples comprovante de agendamento, esta deve ser intimada para comprovar o pagamento do preparo em dobro, na forma do art. 1.007, § 4º, do CPC de 2015.
+Ora, se acostado pela Recorrente o comprovante de agendamento, deveria este Douto Julgador determinar sua intimação para comprovar o pagamento do preparo em dobro, todavia isso não foi feito.
+Isso se deve, pois, estamos diante de um erro material passível de correção a qualquer tempo e em qualquer grau de jurisdição, sendo que a de comprovação de pagamento das custas, no caso em tela derivou de erro - juntada de comprovante de agendamento ao invés de comprovante de pagamento.
+ ..
+Ou seja, Excelência, ao constatar que o Recurso Especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior, com a devida vênia, deveria proferir despacho a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento.
+Todavia isso não foi feito, mesmo havendo dispositivo de lei neste sentido - Art. 1.007, § 4º do Código de Processo Civil (fl. 782).
+Ademais, conforme se verifica no documento em anexo, é possível observar que a houve sim o devido recolhimento do preparo referente ao Recurso Especial Adesivo.
+Ilustre Relator, é verdade que o documento em anexo deveria ter sido anexado junto ao Recurso Especial, todavia, isso não é fato suficiente para se considerar deserto o recurso, já que, nos termos do Art. 1.007, § 4º do CPC, a parte interessada deveria ter sido intimada para comprovar o recolhimento do preparo, mesmo que em dobro.
+Ora, o comprovante em anexo comprova o pagamento do preparo em dobro!
+Desta forma, resta devidamente demonstrado que a Recorrente recolheu o preparo recursal em dobro (fl. 783).
+ ..
+Observe Excelência que a jurisprudência é clara ao dispor que a parte deve ser intimada para comprovar o pagamento do preparo, ainda que em dobro, antes de considerar o recurso como deserto (fl. 784).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, a parte foi intimada pelo Tribunal de origem, para sanar o vício de preparo, nos termos do art. 1.007, § 4º, do Código de Processo Civil (fl. 677). Contudo, não regularizou, uma vez que foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento (fl. 685).
+O recurso encontra-se deserto, pois "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Ademais, ao contrário do alegado pela parte, quando intimado para recolher as custas nos termos do art. 1.007 do CPC, a parte deve estar atenta à sua correta comprovação, uma vez que não há previsão legal para que uma nova intimação seja efetuada a fim de sanar novo vício decorrente dessa tentativa de regularizar o óbice.
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento com o fim de regularizar o preparo, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
