@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por ANTONIO CARLOS GONCALVES JUNIOR contra acórdão lavrado pela Quarta Turma do Superior Tribunal de Justiça, de relatoria do Ministro Raul Araújo, em decisão assim ementada (fl. 567):
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. BENEFÍCIO DA GRATUIDADE DE JUSTIÇA. INDEFERIMENTO PELO TRIBUNAL DE ORIGEM. HIPOSSUFICIÊNCIA AFASTADA. RECURSO DESPROVIDO.
+1. O recorrente impugnou todos os fundamentos expendidos na decisão de inadmissibilidade do recurso especial. Decisão proferida pela em. Presidência desta Corte reconsiderada.
+2. "Em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o singelo requerimento para concessão da assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º)" (AgInt no AREsp 2.212.207/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 6/3/2023, DJe de 21/3/2023).
+3. No caso, o eg. Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que o recorrente não faz jus à justiça gratuita, tendo em vista a existência de vultoso patrimônio e padrão de vida elevado, situação que contradiz o argumento de hipossuficiência.
+4. Agravo interno desprovido.
+Sem embargos de declaração.
+Aduz a parte embargante que "Na linha da orientação jurisprudencial desta Corte Superior, a decisão sobre a concessão da assistência judiciária gratuita amparada em critérios que se revestem de caráter subjetivo, ou seja, através dos quais não se pode inferir se a atual condição econômico-financeira do Recorrente lhe permitem suportar o pagamento das custas e despesas processuais, tal como ocorreu no caso, importa em violação ao art. 98, caput, e art. 99, §2º, ambos do CPC, que determinam a avaliação concreta sobre a situação econômica da parte interessada com o objetivo de verificar a sua real possibilidade de arcar com as despesas do processo, sem prejuízo do sustento próprio ou de sua família" (fl. 595).
+Eis a ementa do acórdão apontado como paradigma:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. GRATUIDADE DE JUSTIÇA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. DECLARAÇÃO DE INSUFICIÊNCIA DE RECURSOS DO REQUERENTE. PRESUNÇÃO IURIS TANTUM. CONTRARIEDADE. PARTE ADVERSA E JUIZ, DE OFÍCIO, DECORRENTE DE FUNDADAS RAZÕES. CRITÉRIOS OBJETIVOS.
+1. Trata-se de recurso especial cuja controvérsia orbita em torno da concessão do benefício da gratuidade de justiça.
+2. O STJ, em sede de recurso especial, conforme delimitação de competência estabelecida pelo artigo 105, III, da Constituição Federal de 1988, destina-se a uniformizar a interpretação do direito infraconstitucional federal, razão pela qual é defeso, em seu bojo, o exame de matéria constitucional, cuja competência é do STF.
+3. Há violação dos artigos 2º e 4º da Lei n. 1.060/50, quando os critérios utilizados pelo magistrado para indeferir o benefício revestem-se de caráter subjetivo, ou seja, criados pelo próprio julgador, e pelos quais não se consegue inferir se o pagamento pelo jurisdicionado das despesas com o processo e dos honorários irá ou não prejudicar o seu sustento e o de sua família.
+4. A constatação da condição de necessitado e a declaração da falta de condições para pagar as despesas processuais e os honorários advocatícios erigem presunção relativa em favor do requerente, uma vez que esta pode ser contrariada tanto pela parte adversa quanto pelo juiz, de ofício, desde que este tenha razões fundadas.
+5. Para o indeferimento da gratuidade de justiça, conforme disposto no artigo 5º da Lei n. 1.060/50, o magistrado, ao analisar o pedido, perquirirá sobre as reais condições econômico-financeiras do requerente, podendo solicitar que comprove nos autos que não pode arcar com as despesas processuais e com os honorários de sucumbência. Isso porque, a fundamentação para a desconstituição da presunção estabelecida pela lei de gratuidade de justiça exige perquirir, in concreto, a atual situação financeira do requerente.
+6. No caso dos autos, os elementos utilizados pelas instâncias de origem para indeferir o pedido de justiça gratuita foram: a remuneração percebida e a contratação de advogado particular. Tais elementos não são suficientes para se concluir que os recorrentes detêm condições de arcar com as despesas processuais e honorários de sucumbência sem prejuízo dos próprios sustentos e os de suas respectivas famílias.
+7. Recurso especial provido, para cassar o acórdão de origem por falta de fundamentação, a fim de que seja apreciado o pedido de gratuidade de justiça nos termos dos artigos 4º e 5º da Lei n. 1.060/50.
+(REsp n. 1.196.941/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/3/2011, DJe de 23/3/2011.)
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade.
+Verifica-se que a divergência não ficou caracterizada, uma vez que não foi realizado o necessário cotejo analítico entre os acórdãos confrontados de modo a demonstrar os trechos que eventualmente os identificassem. Assim, não houve comprovação do dissídio jurisprudencial invocado.
+Nesse contexto, cabe aos embargantes a comprovação do dissídio nos moldes estabelecidos no art. 266, § 4º, c/c o art. 255, § 1º, do Regimento Interno do STJ:
+Art. 266. Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo:
+(..)
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+art. 255
+(..)
+§ 1º Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DA CADEIA COMPLETA DE PROCURAÇÃO E SUBSTABELECIMENTOS. SÚMULA N. 115/STJ. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Nos termos do art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte, após intimada para regularizar sua representação processual (art. 932, parágrafo único, do CPC/2015), não promove o saneamento do vício dentro do prazo concedido.
+2. A mera transcrição de trechos do acórdão paradigma e a reprodução da respectiva ementa não autorizam o processamento dos embargos de divergência.
+Agravo interno improvido.
+(AgInt nos EAREsp n. 2.018.961/RJ, relator Ministro Humberto Martins, Segunda Seção, julgado em 29/8/2023, DJe de 31/8/2023.)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA NA HIPÓTESE DE NÃO TER SIDO ANALISADO O MÉRITO DO RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. INSUFICIÊNCIA. DIVERGÊNCIA DE TESES JURÍDICAS. NÃO OCORRÊNCIA.
+1. Nos termos dos arts. 1.043 do Código de Processo Civil, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+2. Não cabe, em embargos de divergência, reexaminar os pressupostos de conhecimento do recurso especial, para extrair conclusão diversa a respeito da incidência da Súmula 7/STJ.
+3. "O dissídio jurisprudencial deve ser demonstrado conforme preceituam os arts. 266, § 4º, do RISTJ e 1.043, § 4º, do CPC, mediante o cotejo analítico dos arestos, indicando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados" (AgRg nos EREsp 1.842.988/CE, Relator Ministro João Otávio de Noronha, Corte Especial, DJe de 9.6.2021).
+4. Não se admite a oposição de embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado (Súmula n. 168/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 1.931.196/MS, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 8/3/2023, DJe de 20/3/2023.)
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
