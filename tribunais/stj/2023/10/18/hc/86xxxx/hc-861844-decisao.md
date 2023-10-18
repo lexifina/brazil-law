@@ -1,0 +1,20 @@
+DECISÃO
+Por meio desta impetração, a Defensoria Pública vem a esta Corte requerer a concessão liminar da ordem para que seja revista a reprimenda de Nilceu da Silva no Processo n. 0013592-63.2014.8.24.0039, da 1ª Vara Criminal da comarca de Lages, reconhecendo-se a ilegalidade do acórdão da apelação no ponto em que deixou de compensar a atenuante da confissão com a agravante da reincidência.
+Alega a impetrante que, em conformidade com o entendimento desta Casa, em se tratando de reincidência simples (única condenação), é caso de compensação integral, ainda que se trate de confissão qualificada. Isso porque o art. 67 do Código Penal não faz nenhuma distinção, estabelecendo que ambas as circunstâncias (reincidência e confissão) são igualmente preponderantes (fl. 7).
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+Eis o que disse o Tribunal estadual para deixar de aplicar a compensação no ponto em discussão (fl. 1.326 - grifo nosso):
+ ..
+E, apenas para argumentar, este magistrado compreende que a denominada confissão qualificada "não atenua a pena, já que, nesse caso, o réu não estaria propriamente colaborando para a elucidação da autoria, tampouco concordando com a pretensão acusatória, mas agindo no exercício do direito de autodefesa" (CAPEZ, Fernando; PRADO, Stela. Código penal comentado . 7. ed. São Paulo: Saraiva, 2016, p. 160).
+A respeito da matéria, assevera o doutrinador Cleber Masson:
+Para servir como atenuante genérica, a confissão há de ser espontânea, é dizer, deve surgir como fruto da sinceridade do íntimo do agente.  ..  Não basta ser voluntária (livre de coação), pois poderia o réu confessar apenas para aproveitar-se de um benefício legal, sem revelar crível intenção de colaborar na apuração da infração penal.  ..  Para o STF, a confissão qualificada - na qual o acusado reconhece sua participação no fato típico, mas aduz ter agido sob o manto de uma causa de exclusão da ilicitude ou da culpabilidade -, não autoriza a aplicação da atenuante genérica. Nessa hipótese, a fin alidade do réu é exercer sua autodefesa, e não contribuir para a descoberta da verdade real (Código penal comentado. 3. ed. rev., atual. e ampl., São Paulo: Método, 2015, p. 362-363).
+Registra-se, ainda, que "exige a lei que, para ser reconhecida a atenuante da confissão espontânea, deve ser ela completa e movida por um motivo moral, altruístico, demonstrando arrependimento, não se admitindo quando o apelante, confessando a autoria, alega versão justificativa ou excludente de antijuridicidade, legítima defesa ou erro de fato (Apelação Criminal n. 2003.000369-0, rel. Des. Solon d"Eça Neves, Primeira Câmara Criminal, j. 27-10-2003)" (Apelação Criminal n. 0003714-26.2014.8.24.0036, de Jaraguá do Sul, rel. Des. Marli Mosimann Vargas, j. 8-3- 2016).
+Entretanto, em observância ao princípio da non reformatio in pejus, manteve-se no pronunciamento colegiado a compensação parcial efetuada na origem.
+Sucede que tal entendimento contraria a firme jurisprudência desta Corte, segundo a qual a agravante da reincidência deve ser integralmente compensada com a atenuante da confissão, mesmo que parcial (AgRg no HC n. 623.987/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/12/2021). Nesse sentido, ver também o AgRg no HC n. 678.302/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021.
+Aplicando-se, assim, a compensação integral no ponto em discussão, resulta a pena definitiva do paciente em 3 anos de reclusão.
+Ante o exposto, concedo liminarmente a ordem para reduzir a reprimenda imposta ao paciente a 3 anos de reclusão (Processo n. 0013592-63.2014.8.24.0039, da 1ª Vara Criminal da comarca de Lages/SC).
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE HOMICÍDIO SIMPLES. DOSIMETRIA DA PENA. REINCIDÊNCIA. COMPENSAÇÃO INTEGRAL COM A CONFISSÃO QUALIFICADA. POSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente.
