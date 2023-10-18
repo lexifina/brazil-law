@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de segundos embargos de declaração opostos por DANILO DA SILVA e RAFAELA LOOS, contra decisão de minha lavra, proferida às fls. 1.228/1.242, em que conheci do recurso especial interposto pela acusação e, com fundamento na Súmula n. 568 do STJ, dei-lhe parcial provimento para reconhecer a incidência da causa de aumento prevista no art. 40, VI, da Lei n. 11.343/2006, na fração de 1/4. De ofício, elevei a fração da minorante do tráfico privilegiado para 2/3, redimensionando as penas dos embargantes DANILO DA SILVA e RAFAELA LOOS para, respectivamente, 3 anos, 2 meses e 27 dias de reclusão, em regime inicial semiaberto, e 324 dias-multa, à razão mínima; e 3 anos, 10 meses e 20 dias de reclusão, em regime inicial semiaberto, e 388 dias-multa, à razão mínima.
+Nos presentes embargos (fls. 1.252/1.254), a defesa aponta contradição e omissão na fundamentação utilizada para fixação do regime semiaberto.
+Requer a manifestação sobre os vícios indicados.
+É o relatório.
+Decido.
+Os segundos presentes embargos declaratórios opostos pela mesma parte e contra a mesma decisão não podem ser conhecidos, haja vista a preclusão consumativa e o princípio da unirrecorribilidade.
+É assente na jurisprudência do STJ o entendimento de que a interposição de dois ou mais recursos pela mesma parte e contra a mesma decisão impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Isso porque " n o sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último" (STJ, EDv no AgInt nos EAREsp 955.088/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 13/9/2018).
+No mesmo sentido (grifos nossos):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO COLEGIADA. DESCABIMENTO. ERRO GROSSEIRO. FUNGIBILIDADE. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. CERTIFICAÇÃO DO TRÂNSITO EM JULGADO E BAIXA DOS AUTOS.
+I - Nos termos do que dispõe o art. 258 do Regimento Interno do Superior Tribunal de Justiça, somente cabe agravo regimental contra decisão monocrática, não sendo cabível sua interposição contra decisão colegiada. Assim, a interposição do presente agravo regimental constitui erro grosseiro, sendo inviável a aplicação do princípio da fungibilidade recursal.
+II - A recorrente apresenta, novamente, duas petições com o mesmo conteúdo: a primeira protocolizada em 25/10/2021 e esta segunda protocolizada em 27/10/2021. Configurada, assim, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto a esta segunda petição.
+III - Prevalece o entendimento nesta Corte Superior de que, reconhecido o abuso do direito de recorrer, deve ser determinada a certificação do trânsito em julgado e a baixa imediata dos autos. Agravo regimental não conhecido. Determinada a certificação do trânsito em julgado, com imediata baixa dos autos.
+(AgRg no AgRg nos EDcl no AgRg nos EDcl nos EAREsp n. 1.806.247/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Terceira Seção, DJe de 12/11/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO.
+A interposição de recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e princípio da unirrecorribilidade das decisões.
+Em razão desse entendimento, o recurso de fls. 492-500 (Petição n. 00778148/2021) não pode ser conhecido. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.942.113/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 4/11/2021).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇAO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. VEICULAÇÃO DE SEGUNDA INSURGÊNCIA CONTRA O MESMO ACÓRDÃO PROFERIDO PELA PRIMEIRA SEÇÃO DO STJ. IMPOSSIBILIDADE LÓGICA. MANIFESTA INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO DE FLS. 305/308.
+1. Na Petição tombada sob o número 0248609/2021, o Município de Santo André/SP apresenta Embargos de Declaração, insurgindo-se contra o acórdão de fls. 269/276, que negou provimento ao Agravo Interno, nos termos do voto do então relator, Ministro NAPOLEÃO NUNES MAIA FILHO. Todavia, os presentes aclaratórios não podem ser conhecidos, pois houve prévia postulação com argumentação e pedido símiles, consoante se verifica da petição de fls. 278/287.
+2. Portanto, conforme entendimento firme desta Corte Superior, a interposição de dois recursos contra a mesma decisão resulta em não conhecimento do segundo, em função da preclusão consumativa e do princípio da unirrecorribilidade recursal. É o que deve ocorrer em relação a este recurso.
+3. Embargos de Declaração de fls. 305/308 não conhecidos.
+(EDcl no AgInt nos EREsp n. 1.559.227/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, DJe de 16/9/2021).
+Ante o exposto, não conheço dos segundos embargos declaratórios de fls. 1.252/1.254.
+Publique-se. Intimem-se.
+EMENTA
