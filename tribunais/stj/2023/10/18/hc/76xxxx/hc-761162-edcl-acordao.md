@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE OBSCURIDADE. INSUBSISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A obscuridade que autoriza a oposição de embargos de declaração é a que se verifica entre os fundamentos e as conclusões do julgado, isto é, a hipótese em que há obstáculos ao exato entendimento das premissas e das soluções jurídicas adotadas, tornando ininteligível o provimento judicial, o que não ocorre na espécie.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RAFAEL DA SILVA MOTTA contra acórdão de minha relatoria, por meio do qual o respectivo agravo regimental não foi conhecido, nos termos da seguinte ementa (fl. 3954):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ILEGALIDADE FLAGRANTE NÃO VISUALIZADA. RECURSO NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe, ao Recorrente, o ônus de demonstrar o desacerto da decisão agravada e impugnar, especificamente, seus fundamentos.
+2. Hipótese em que o Agravante não impugnou o fundamento consignado na decisão agravada quanto à incognoscibilidade do habeas corpus impetrado contra acórdão transitado em julgado, em substituição à revisão criminal.
+3. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art.1.021, § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, nos quais se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Ausente ilegalidade flagrante, no ponto, a recomendar a concessão da ordem de ofício.
+5. O entendimento adotado pela Corte a quo não destoa da jurisprudência deste Tribunal Superior, firmada no sentido do "não cabimento da revisão criminal quando utilizada como nova apelação, "com vista ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (AgRg no REsp n. 1.781.148/RJ, Ministro Joel Ilan Paciornik)  .. "" (AgRg no AREsp 1.453.128/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/02/2020, DJe 12/02/2020).
+6. Novo entendimento jurisprudencial, firmado após o trânsito em julgado da condenação, ainda que mais benéfico ao Réu, não autoriza, por si só, a revisão do édito condenatório. Precedentes.
+7. Agravo regimental não conhecido."
+Alega a Defesa, nas razões do recurso integrativo, que o acórdão recorrido é obscuro. Nesse sentido, destaca (fl. 3970):
+" ..  no presente caso verifica-se que, data máxima vênia, o acórdão fora obscuro, pois afirma que a defesa não teria enfrentando minimamente a fundamentação da decisão monocrática e que a decisão proferida pelo TJSC não destoa da jurisprudência deste Tribunal Superior, firmada no sentido do "não cabimento da revisão criminal quando utilizada como nova apelação, "com vista ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP."
+Enfatiza que impugnou os fundamentos da decisão monocrática, pois "a defesa pontuou que, é necessário esclarecer que a defesa não busca a rediscussão de provas acerca da autoria delitiva imputado ao Agravante, o cerne da questão cinge-se a materialidade" (fl. 3971).
+Salienta a adequação do habeas corpus.
+Destaca que não se trata de segunda apelação, porque a condenação transitou em julgado após a sentença.
+Indica que colacionou julgados que refletem a tese de mérito, proferidos antes da prolação da sentença, de forma que a causa de pedir da ação autônoma não é a posterior alteração de entendimento jurisprudencial.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGAÇÃO DE OBSCURIDADE. INSUBSISTENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A obscuridade que autoriza a oposição de embargos de declaração é a que se verifica entre os fundamentos e as conclusões do julgado, isto é, a hipótese em que há obstáculos ao exato entendimento das premissas e das soluções jurídicas adotadas, tornando ininteligível o provimento judicial, o que não ocorre na espécie.
+2. Embargos de declaração rejeitados.
+VOTO
+O acórdão embargado não está maculado por quaisquer das hipóteses previstas no art. 619 do Código de Processo Penal.
+No que diz respeito à alegada existência de obscuridade no aresto impugnado, esclareço que não se verifica, entre os fundamentos e as conclusões daquele julgado, quaisquer obstáculos ao exato entendimento das respectivas premissas e soluções e, portanto, não se está diante do citado vício.
+A propósito, nos termos de consagrada jurisprudência do Superior Tribunal de Justiça, "a obscuridade verifica-se quando há evidente dificuldade na compreensão do julgado. Ocorre quando há a falta de clareza do decisum, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial. Em última análise, ocorre a obscuridade quando a decisão, no tocante a alguma questão importante, soluciona-a de modo incompreensível" (AgRg no REsp 677.210/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, julgado em 18/08/2005, DJ 03/10/2005, p. 352).
+No mesmo sentido:
+" ..  4. O vício da obscuridade que autoriza a oposição de embargos é aquele que ocorre quando há falta de clareza na fundamentação do julgado, tornando difícil sua exata interpretação.
+ ..  7. Embargos de declaração rejeitados." (EDcl no AgRg no AREsp n. 2.013.144/SC, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 05/04/2022, DJe 11/04/2022.)
+In casu, ao contrário do que pretende fazer crer o Embargante, no aresto atacado, a qu aestio iuris foi devidamente examinada e decidida, tendo sido consignado que:
+1) o Agravante não impugnou minimamente os fundamentos da decisão agravada quanto à incognoscibilidade do pedido. Limitou-se apenas a reiterar a insurgência acerca do mérito da matéria, relativa à pretensão de reconhecimento da ausência de provas da materialidade;
+2) se o Embargante não se insurgiu contra a sentença com a interposição do recurso adequado, o entendimento adotado pela Corte de origem não destoa da jurisprudência deste Tribunal Superior, firmada no sentido do "não cabimento da revisão criminal quando utilizada como nova apelação, "com vista ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP (AgRg no REsp n. 1.781.148/RJ, Ministro Joel Ilan Paciornik)  .. "" (AgRg no AREsp 1.453.128/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/02/2020, DJe 12/02/2020; sem grifos no original).
+3) o acolhimento do pleito de anulação da sentença, sob o argumento de ausência de provas aptas para embasar o édito condenatório, depende da incursão em matéria de natureza fático-probatória, providência descabida na via eleita;
+4) não cabimento da desconstituição da coisa julgada a fim de se aplicar, retroativamente, a mudança de entendimento jurisprudencial. Nesse ponto, vale mencionar também que os paradigmas invocados pelo Embargante, eventualmente prolatados antes da sentença condenatória não são dotados de efeitos vinculantes. Ademais, é incabível a "revisão criminal com amparo em questão jurisprudencial controvertida nos tribunais (REsp n. 759.256/SP, Rel. Ministro Gilson Dipp, 5ª T., DJ 6/3/2006) (AgInt no AREsp n. 1.026.149/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/11/2018, DJe 3/12/2018) (AgRg no REsp 1841973/AP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 22/9/2020, DJe 28/9/2020)". (AgRg no HC n. 671.583/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/06/2021, DJe 28/06/2021.)
+Por fim, esclareço que o mero inconformismo com o resultado do julgamento que foi desfavorável não viabiliza a oposição de recurso integrativo.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
