@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por DISTRITO FEDERAL contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. ART. 1.040 DO CPC. RETOMADA DO CURSO PARA JULGAMENTO E APLICAÇÃO DA TESE FIRMADA PELO TRIBUNAL SUPERIOR. AÇÃO DE RECONHECIMENTO DE CRÉDITO EM DECORRÊNCIA DE CONTRATO ADMINISTRATIVO. HONORÁRIOS ADVOCATÍCIOS. PERCENTUAL SOBRE O VALOR DA CAUSA. DESPROPORCIONALIDADE EVIDENCIADA. ARTIGO 8º DO CPC. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REQUISITOS ELEMENTARES. ART. 85, §2º, DO CPC.
+1. A fixação dos honorários advocatícios deve ter por base, além das regras do artigo 85 do CPC, os princípios da proporcionalidade e da razoabilidade que regem o processo civil, conforme disciplina o art. 8º do CPC.
+2. Na hipótese dos autos, nota-se que o valor dos honorários de advogado fixado de forma equitativa pela sentença mostrou-se adequado e proporcional a complexidade da demanda. 2.1. Acolher o pedido de fixação em 10% do valor da causa, resultaria em honorários no valor de R$ 623.564,52 (seiscentos e vinte e três mil, quinhentos e sessenta e quatro reais e cinquenta e dois centavos) sem considerar o acréscimo de juros de mora e de correção monetária.
+3. No contexto dos autos, a fixação dos honorários realizada na origem se mostra adequada e proporcional aos elementos do caso concreto, nos termos do art. 85, §2º, em composição com o art. 8º, ambos do CPC.
+4. Acórdão mantido em sede de retratação.
+Os embargos de declaração não foram providos.
+No recurso especial, a recorrente aponta violação aos arts. 1.022, II c/c 489, § 1º, IV e VI, do CPC, atigo 85, §§ 2º, 3º e 8º, do CPC, bem como os arts. 85, §§ 2º, 3º, 6º e 6º-A, 8º e 927, III, do CPC, sustentando que o Tribunal de origem deixou de analisar a matéria à luz do disposto nos §§ 3º e 6º do art. 85 do CPC, bem como fugiu da orientação desse eg. Corte no julgamento do Tema 1.076/STJ.
+Alega que o Tribunal de origem fixou honorários advocatícios por equidade em razão do expressivo valor da causa, em contrariedade à expressa disposição legal, que prevê a fixação pelo critério equitativo apenas quando o valor da causa, ou o benefício econômico obtido, for ínfimo.
+Decisão de fls. 2913/2914 sobrestou o recurso e devolveu à origem porquanto a questão estava afetada ao Tema nº 1.076/STJ, nos termos do artigo 1.030, III, do CPC.
+Às fls. 2965/2968 (e-STJ), encaminhado o recurso à Turma Julgadora para realização de juízo de conformidade com o Tema 1076/STJ.
+Às fls. 2975/3006 (e-STJ), mantido o acórdão com juízo negativo de retratação.
+Admitido o recurso especial, os autos ascenderam a esta Corte Superior de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão merece acolhida.
+Sem prejuízo quanto às alegações de omissão por parte da Corte de origem, no tocante à questão da fixação dos honorários, o Tribunal de origem expressamente assim consignou ao realizar o juízo de retratação (2983/19303 e-STJ):
+(..)
+Nada obstante a conclusão alcançada no Tema 1076 do STJ, penso que o decido pela Corte Superior não pode estar em desarmonia com os princípios e as regras estabelecidos no atual CPC.
+Com efeito, entendo que a solução do caso em análise deve ter por base os princípios da proporcionalidade e da razoabilidade que regem o processo civil, conforme disciplina o art. 8º do CPC, verbis: "Art. 8º Ao aplicar o ordenamento jurídico, o juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade, a legalidade, a publicidade e a eficiência.".
+E nesse contexto, entendo que a fixação dos honorários em 10% (ou 20% como pede o DF) sobre o valor da causa de R$ 6.235.645,25 (seis milhões, duzentos e trinta e cinto mil, seiscentos e quarenta e cinto reais e vinte e cinco centavos) - valor atribuído em 02/07/2015 (ID15317293 - Pag. 8), nada obstante os desdobramentos ocorridos nos autos, viola referidos princípios.
+Em recente julgamento, a e. Segunda Câmara Civil deste Tribunal apresentou uma reflexão amadurecida entre a harmonia dos precedentes judiciais e os princípios balizadores de interpretação das normas do CPC.
+(..)
+Pois bem, como já ressaltado, o valor atribuído à causa foi de R$ 6.235.645,25 (seis milhões, duzentos e trinta e cinto mil, seiscentos e quarenta e cinto reais e vinte e cinco centavos) e assim, nada obstante o trabalho realizado na defesa do Distrito Federal, os honorários fixados em 10% do valor da causa atingiriam R$ 623.564,52 (seiscentos e vinte e três mil, quinhentos e sessenta e quatro reais e cinquenta e dois centavos) sem considerar o acréscimo de juros de mora e de correção monetária que remontam ao ano de 2015.
+Nesse contexto, tenho que a fixação dos honorários realizada na origem se mostra adequada e proporcional aos elementos do caso concreto, nos termos do art. 85, §2º, em composição com o art. 8º, ambos do CPC.
+Contudo, em sede de recursos especiais submetidos ao regime dos recursos repetitivos (REsp 1.850.512/SP, REsp 1.877.883/SP, REsp 1.906.623/SP e 1.906.618/SP - Relator Min. Og Ferna ndes), a Corte Especial/STJ firmou as seguintes teses jurídicas:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+No caso concreto, verifica-se que o acórdão recorrido está em dissonância com as teses supra, razão pela qual se impõe o provimento do recurso especial, com a consequente devolução dos autos ao Tribunal de origem, a fim de que haja a adequação ao entendimento deste Tribunal e fixação dos honorários conforme os critérios dos §§ 2º e 3º do artigo 85 do CPC.
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR MEIO DE APRECIAÇÃO EQUITATIVA QUANDO OS VALORES DA CONDENAÇÃO, DA CAUSA OU DO PROVEITO ECONÔMICO DA DEMANDA FOREM ELEVADOS. IMPOSSIBILIDADE. TEMA 1.076/STJ. APLICABILIDADE IMEDIATA. RECURSO ESPECIAL PROVIDO.
