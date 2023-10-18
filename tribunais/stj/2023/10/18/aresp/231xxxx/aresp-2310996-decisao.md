@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pela CIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO SABESP contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 137):
+Ementa: Apelação cível. Embargos à execução fiscal. IPTU, dos exercícios de 2015 a 2017. A sentença julgou os embargos improcedentes e deve ser mantida.
+Alegação de nulidade da Certidão da Dívida Ativa por falta de capacidade postulatória e ausência de autenticação/chancela da autoridade competente. Desacolhimento. As CDAs infirmadas, apresentam a chancela da autoridade fiscal, eis que subscritas, física e eletronicamente, por servidora pública municipal da Seção de Dívida Ativa do Município. No mais, os títulos executivos além de haverem sido autenticados por servidor competente, preenchem os demais requisitos legais necessários, de acordo com o disposto no artigo 202 do CTN e §§ 5º e 6º, do artigo 2º, da LEF. Outrossim, a petição inicial está devidamente assinada por Procurador do Município. A assinatura, inclusive, deve, necessariamente, constar da inicial executiva, na medida em que se trata de ato que depende de capacidade postulatória. Essa exigência, todavia, não alcança os demais documentos que instruem a respectiva peça, de modo que para a CDA basta a chancela da autoridade fiscal, nos termos do artigo 2º, § 6º, da LEF, o que, na hipótese dos autos, foi perfeitamente atendido. Ademais, eventual falta de assinatura na inicial seria suprida com os subsequentes peticionamentos específicos do Procurador Municipal, conduta suficiente para caracterizar ratificação dos atos antecedentes. Não há, portanto, vícios a serem afastados, pois a inicial está devida e regularmente assinada por Procurador do Município e os títulos executivos estão subscritos por servidor competente. Nega- se provimento ao recurso da embargante, com majoração de honorários, nos termos do acórdão, para R$1.200,00 (mil e duzentos reais) em atendimento ao disposto no artigo 85, §11 do CPC.
+No especial obstaculizado (e-STJ fls. 146/161), o recorrente aponta "violação do art. 1º, §2º, inciso III, letra "a", e 2º "caput", da Lei Federal n. 11.419/2006, violação do art. 1º, inciso I, da Lei Federal n. 8.906/1994 e do art. 103, "caput", do Código de Processo Civil que tratam da capacidade postulatória para a transmissão/juntada CDA nos autos de processo judicial eletrônico" (e-STJ fl. 149).
+Alega que, "mesmo com o preenchimento dos requisitos legais para a formalização da certidão da dívida ativa, consistente na assinatura do documento para dar autenticidade, esta deveria ser transmitida/protocolada nos autos por quem tem capacidade postulatória, por tratar de ato privativo de advogado" (e-STJ fl. 157).
+Argumenta que "é impossível a ratificação posterior do ato que dá início ao processo, inicial e CDA, uma vez que constituem pressupostos de constituição e de desenvolvimento válido e regular do processo" (e-STJ fl. 158)
+Diz, nesse contexto, que "a postulação por servidor municipal, sem capacidade postulatória, enseja na inexistência do ato, devendo as CDA"s serem declaradas inexistentes" (e-STJ fl. 159).
+Acrescenta que, "mesmo que seja considerado o ato de transmissão como nulidade, o prejuízo neste caso é presumido, uma vez que a transmissão/juntada (assinatura) de documento obrigatório nos autos do processo eletrônico foi feita por quem não tem capacidade postulatória" (e-STJ fl. 159).
+Aduz que "o título executivo extrajudicial deve ser transmitido/juntado aos autos em conjunto e simultaneamente por pessoa com capacidade postulatória para que o processo de execução seja constituído de forma válida e regular" (e-STJ fl. 160).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o recurso, baseado na insuficiência das razões para infirmar a conclusão do acórdão recorrido e no óbice previsto na Súmula 7 do STJ (e-STJ fl. 170).
+No agravo em recurso especial (e-STJ fls. 173/184), o agravante impugna os fundamentos da decisão agravada e reitera as razões do recurso.
+A contraminuta foi apresentada.
+Passo a decidir.
+No caso dos autos, o Tribunal de origem manteve a sentença que julgou improcedentes os embargos e determinou o prosseguimento da execução fiscal. Transcrevo os fundamentos do aresto objeto de recurso especial (e-STJ fls. 261/264):
+Com efeito, não se mantém a alegação de vício de capacidade postulatória apresentada pela embargante, eis que a petição inicial está devidamente assinada por Procurador do Município.
+Outrossim, as CDAs que instruem a ação executiva contam com a assinatura digital da autoridade fiscal competente, em estrito atendimento aos requisitos legais essenciais previstos no artigo 2º da LEF, especialmente, no § 6º, segundo o qual "a Certidão de Dívida Ativa conterá os mesmos elementos do Termo de Inscrição e será autenticada pela autoridade competente".
+No mais, é oportuno destacar que a capacidade postulatória é necessária para atuação no foro em geral diz respeito à petição inicial (e não às CDAs que a acompanharem), sendo que no caso, como já destacado acima, a peça conta com a assinatura de Procurador, em notável regularidade.
+Quanto às CDAs infirmadas, ressalte-se que possuem a chancela da autoridade fiscal, pois estão subscritas física e eletronicamente por Cleusa Dias de Maceno, servidora pela Seção de Dívida Ativa do Município de Caraguatatuba (fls. 50/55).
+Percebe-se, portanto, que os títulos executivos foram autenticados por servidor competente, além de preencherem os demais requisitos legais necessários, de acordo com o disposto no artigo 202 do CTN e §§ 5º e 6º, do artigo 2º, da LEF. Confira- se:
+"§ 5º - O Termo de Inscrição de Dívida Ativa deverá conter:
+I - o nome do devedor, dos co-responsáveis e, sempre que conhecido, o domicílio ou residência de um e de outros;
+II - o valor originário da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos em lei ou contrato;
+III - a origem, a natureza e o fundamento legal ou contratual da dívida;
+IV - a indicação, se for o caso, de estar a dívida sujeita à atualização monetária, bem como o respectivo fundamento legal e o termo inicial para o cálculo;
+V - a data e o número da inscrição, no Registro de Dívida Ativa; e VI - o número do processo administrativo ou do auto de infração, se neles estiver apurado o valor da dívida.
+§ 6º - A Certidão de Dívida Ativa conterá os mesmos elementos do Termo de Inscrição e será autenticada pela autoridade competente."
+Logo, a tese de nulidade da CDA por ausência de capacidade postulatória da autoridade fiscal que a autenticou não se mantém e, consequentemente, não comporta guarida.
+A esse propósito, vale mencionar, em iteração, que a assinatura do procurador deve, necessariamente, constar da inicial executiva, na medida em que se trata de ato que depende de capacidade postulatória, todavia, essa exigência não alcança os demais documentos que instruem a respectiva peça, de modo que para a CDA basta a chancela da autoridade fiscal, nos termos do artigo 2º, § 6º, da LEF, o que, na hipótese dos autos, foi perfeitamente atendido.
+Ademais, eventual falta de assinatura na inicial seria suprida com os subsequentes peticionamentos específicos do Procurador Municipal, conduta suficiente para caracterizar ratificação dos atos antecedentes.
+Acerca da matéria, esta Câmara de Direito Público já se posicionou em casos idênticos:
+ ..
+Dessarte, é plenamente válida a execução subjacente, eis que atendidos os requisitos legais necessários.
+Pois bem.
+Verifica-se que o acórdão recorrido entendeu que a capacidade postulatória diz respeito à petição inicial, destacando que essa peça foi regularmente assinada pelo Procurador do Município. Contudo, o recorrente não impugnou esse fundamento.
+No ponto, importa ressaltar que a falta de impugnação de todos os fundamentos em que se apoia o acórdão recorrido tem por consequência a incidência, por analogia, da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. FALTA DE PREQUESTIONAMENTO DOS ARTS. 3º, 113 E 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. MULTA DO ART. 1.026 DO CPC. APLICAÇÃO NÃO ADEQUADA NA ESPÉCIE.
+ ..
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+IV - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+V - O Agravante não apresenta argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.714.321/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/05/2018, DJe 1º/06/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
