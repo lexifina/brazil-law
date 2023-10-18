@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por HYGOR GEOVANE ANDRADE DUARTE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.23.221951-9/000.
+Extrai-se dos autos que o recorrente foi preso em flagrante por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS-TRÁFICO DE DROGAS -NEGATIVA DE AUTORIA -MATÉRIA DE MÉRITO -PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA -PRESENÇA DE FUNDAMENTOS IDÔNEOS CAPAZES DE JUSTIFICAR A CUSTÓDIA CAUTELAR -CONDIÇÕES PESSOAIS FAVORÁVEIS -INSUFICIÊNCIA -PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E PROPORCIONALIDADE -NÃO VIOLAÇÃO -APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO -IMPOSSIBILIDADE -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Em sede de habeas corpus não é possível a análise da conduta delituosa atribuída ao paciente, isso porque se trata de matéria de mérito, demandando análise detida, podendo repercutir no desfecho da demanda criminal, mas não sobre a conveniência de se manter o paciente preso. Atendido ao menos um dos pressupostos do art. 312 do CPP, qual seja a garantia da ordem pública, bem como um dos requisitos instrumentais do art. 313 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes. A presença de condições subjetivas favoráveis ao paciente não obsta a segregação cautelar quando presentes os fundamentos para justificar sua manutenção. Considerando que a prisão preventiva não se ancora em certeza de culpa, mas sim em indícios, não se verifica a violação ao princípio da presunção de inocência. A substituição da pena privativa de liberdade por restritiva de direitos é apenas uma suposição do impetrante ante os fatos narrados, no entanto, tal afirmação demanda dilação probatória e exame aprofundado do caso, não sendo o habeas corpus a via adequada para tal finalidade" (fl. 78).
+No presente recurso, a defesa alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Destaca as condições pessoais favoráveis do recorrente, como primariedade, residência fixa e trabalho lícito.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Pondera que, em caso de condenação, será fixado regime diverso do fechado, o que demonstra a desproporcionalidade da segregação antecipada.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a fixação de medidas menos gravosas.
+É o relatório.
+Decido.
+O presente reclamo traz pedido idêntico ao formulado no HC 860794/MG, cuja liminar foi deferida em 10/10/2023 e se encontra em processamento. Ambos os feitos atacam o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.23.221951-9/000.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
