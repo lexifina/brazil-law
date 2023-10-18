@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO MARANHÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO  14.440/2000 DO SINPROESEMMA. EXCESSO DE EXECUÇÃO. EXCLUSÃO DOS HONORÁRIOS SUCUMBENCIAIS. EXCESSO QUE SOMENTE PASSOU A EXISTIR EM RAZÃO DA DEFINIÇÃO DE NOVOS MARCOS INICIAL E FINAL NO IAC 18.193/2018. DESPROVIMENTO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 82, § 2º, 85, 98, § 2º e § 3º, todos do CPC, no que concerne à necessidade de fixação de honorários advocatícios sobre o excesso da execução, uma vez que a lei não faz exceção ou distinção quanto à incidência dos consectários sucumbenciais nesse sentido, mesmo para os casos de sucumbência resultante de divergência pacificada posteriormente ao ajuizamento da demanda, trazendo a seguinte argumentação:
+O caso é simples, no Tribunal local havia divergência quanto aos marcos temporais (termo inicial e termo final) para cálculos dos valores a serem recebidos pelas partes legítimas para realizarem os cumprimentos individuais do Título Judicial formado na Ação Coletiva nº 14.440. Eis a divergência resumida:
+ ..
+As partes exequentes defendiam que o termo final se iniciava em janeiro de 1998 e o termo final seria em dezembro de 2012.
+Por seu turno, o Ente Público defendia que o termo inicial deveria ser fevereiro de 1998 e termo final novembro de 2004, percebe-se aqui 8 anos de diferença no que tange aos cálculos, o que representaria um excesso de execução muito elevado.
+Neste contexto, foi apresentado pelo Estado do Maranhão o IAC nº 18.193/2018, em que o Ente Público se consagrou vencedor, passando a ser obrigatório a aplicação da metodologia de cálculo definida no IAC para todos os processos de cumprimento que ainda não tivessem sido julgados (Art. 927, inciso III, do CPC).
+Cabe destacar que não prospera o fundamento de que não incidiria honorários sobre o excesso de execução porque a parte teria ajuizado a sua execução antes da tese fixada no IAC nº 18193/2018. Isso porque a própria lógica do IAC é voltada para pacificar ou prevenir divergências dentro da Corte acerca de uma determinada demanda ou questão, conforme prevê a norma processual:
+ ..
+Neste sentido, cabe citar parte do Voto do Relator do referido IAC nº 18193/2018, que contextualiza a questão:
+ ..
+Outrossim, a existência de divergências, ainda que posteriormente venham a ser pacificadas num ou noutro sentido, não são aptas a afastar a sucumbência e nem isentam as partes do dever de pagar os consectários sucumbenciais, caso percam a demanda ao final.
+É de se frisar: a sucumbência, resultante ou não de uma divergência que foi posteriormente pacificada, ainda é sucumbência. E o CPC não faz qualquer exceção ou distinção quanto à incidência dos consectários sucumbenciais para estes casos.
+Com efeito, a fixação da obrigação de pagar as custas e honorários de sucumbência é expressa imposta na norma processual para o  vencido  (sem fazer qualquer distinção ou exceção acerca das causas que ensejaram esta condição processual), independendo, inclusive, de pedido expresso, pois decorre de comando legal expresso, inclusive para os eventualmente beneficiários da justiça gratuita, para os quais esta obrigação de pagar também existe (e deve ser certificada pela sentença). Eis o que dispõe o CPC:
+ ..
+Entender pelo contrário implicaria em criar exceções não previstas em lei para um comando normativo cogente, tratando as  divergências  como hipótese de isenção dos consectários sucumbenciais sem lastro legal neste sentido, bem como, em âmbito prático, incentivar a multiplicação de demandas ao eliminar completamente os  riscos  de uma lide sempre que houver algum tipo de divergência acerca da mesma.
+Por fim, termina por ignorar que os honorários sucumbenciais representam a remuneração do trabalho do advogado que atua na demanda, trabalho este que também existe (e, frise-se, em maior intensidade) nas demandas sobre as quais pairam divergências.
+Ainda no que se refere aos honorários, a jurisprudência do STJ se firmou no sentido de que a manifestação sobre condenação em honorários é questão de ordem pública, podendo ser, portanto, reconhecida de ofício e a qualquer tempo:
+ ..
+Portanto, ainda que beneficiária da justiça gratuita, tem-se que a decisão não poderia ter deixado de condenar a exequente nas custas e honorários advocatícios sucumbenciais, portanto, a condenação da parte em honorário é adequada à exigência processual.
+Ademais, destaque-se que o referido dispositivo determina que os honorários sucumbenciais são fixados entre 10% a 20%, e a base de cálculo dos honorários sucumbenciais é o proveito econômico (de modo que para o executado é sobre o excesso de execução justamente por ser este o valor correspondente ao que o executado deixou de pagar ou perder para a parte exequente). Eis os seus termos, bem como a jurisprudência assentada pelo STJ acerca do tema:
+ .. (fls. 126-129).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
