@@ -1,0 +1,1757 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 38
+
+18/10/2023
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 60.516 PERNAMBUCO
+RELATOR
+REDATOR DO
+ACÓRDÃO
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: MIN. GILMAR MENDES
+: ESTADO DE PERNAMBUCO
+: PROCURADOR-GERAL
+DO
+ESTADO
+DE
+PERNAMBUCO
+: YONE MARIA SANTIAGO DOS SANTOS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: SPBRASIL ALIMENTACAO E SERVICOS LTDA.
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RC NUTRY ALIMENTACAO LTDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 6ª
+REGIAO
+: SEM REPRESENTAÇÃO NOS AUTOS
+
+Agravo regimental em reclamação. 2. Direito do Trabalho. 3.
+Responsabilidade subsidiária da Administração Pública. Art. 71, § 1º, da
+Lei 8.666/1993. 4. Alegada violação ao decidido na ADC 16 e no tema 246.
+5. Impossibilidade de responsabilização automática da Administração
+Pública pelo inadimplemento das obrigações trabalhistas. Ato reclamado
+em desconformidade com a jurisprudência desta Corte. 6. Agravo
+regimental provido.
+AC ÓRDÃ O
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata de julgamento e das
+notas taquigráficas, por maioria de votos, dar provimento ao agravo
+regimental e, desde já, julgar procedente a presente reclamação para
+cassar o acórdão reclamado, no ponto em que reconhecer a
+responsabilidade subsidiária do reclamante pelo adimplemento da
+condenação sem a comprovação de culpa, determinando que outro seja
+proferido, nos termos da jurisprudência desta Corte, nos termos do voto
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6F4B-2476-E022-C115 e senha 2647-E196-6CBB-D731
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 38
+
+RCL 60516 AGR / PE
+do Ministro Gilmar Mendes, Redator para o acórdão, vencidos os
+Ministros Edson Fachin (Relator) e Dias Toffoli.
+Brasília, Sessão Virtual de 6 a 17 de setembro de 2023.
+Ministro GILMAR MENDES
+Redator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6F4B-2476-E022-C115 e senha 2647-E196-6CBB-D731
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 38
+
+18/10/2023
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 60.516 PERNAMBUCO
+RELATOR
+REDATOR DO
+ACÓRDÃO
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: MIN. GILMAR MENDES
+: ESTADO DE PERNAMBUCO
+: PROCURADOR-GERAL
+DO
+ESTADO
+DE
+PERNAMBUCO
+: YONE MARIA SANTIAGO DOS SANTOS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: SPBRASIL ALIMENTACAO E SERVICOS LTDA.
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RC NUTRY ALIMENTACAO LTDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 6ª
+REGIAO
+: SEM REPRESENTAÇÃO NOS AUTOS
+RE LAT Ó RI O
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se de agravo
+regimental interposto pelo Estado de Pernambuco em face da decisão
+pela qual neguei seguimento à reclamação.
+Ao proferir a decisão agravada, assim relatei a questão (eDOC 15):
+“DECISÃO: Trata-se de reclamação constitucional, com
+pedido de medida liminar, ajuizada pelo Estado de
+Pernambuco em face de acórdão proferido pelo Tribunal
+Regional do Trabalho da 6ª Região, nos autos do Processo
+0000012-83.2021.5.06.0002, que, ao condenar subsidiariamente o
+Estado ao pagamento de encargos trabalhistas inadimplidos
+por empresa contratada, teria ofendido a autoridade das
+decisões desta Corte proferida na ADC 16 e no RE 760.931,
+paradigma do Tema 246 da sistemática da Repercussão Geral,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4235-7150-9B2A-4A97 e senha 7F5E-4DF8-ED00-287D
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 38
+
+RCL 60516 AGR / PE
+bem como contrariado o teor da Súmula Vinculante 10 do STF.
+O reclamante sustenta, em síntese, que "o acórdão reclamado
+contrariou a tese de repercussão geral firmada no RE 760.931/DF
+(Tema 246 RG), ao impor condenação automática à Fazenda Pública,
+sem comprovação inequívoca da respectiva conduta culposa"(eDoc 1,
+p. 6).
+Aduz que "houve, ainda, afronta à ADC 16/DF, ao art. 97 da
+CF/88 e à Súmula Vinculante 10 do STF, pois a decisão reclamada
+afastou a incidência do art. 71, §1º, da Lei n. 8.666/931 , com base em
+mera presunção de culpa, sem observar a cláusula de reserva de
+plenário" (eDoc 1, p. 6).
+Salienta que "a decisão reclamada se baseia, justamente, na
+presunção de culpa, decorrente da suposta ausência de fiscalização da
+Fazenda Pública, sem indicar, de forma clara, qual teria sido o
+comportamento sistematicamente negligente na fiscalização, o nexo
+causal entre a conduta da administração pública e o dano sofrido pelo
+trabalhador, dissociando-se dos precedentes acima transcritos" (eDoc
+1, p. 13).
+Requer, liminarmente, a suspensão da decisão reclamada
+e, no mérito, "seja julgada procedente a reclamação constitucional,
+com esteio no art. 161, parágrafo único, do Regimento Interno do STF,
+cassando-se a decisão reclamada, por se tratar de matéria consolidada
+neste Tribunal” (eDoc 1, p 14).
+Dispenso o pedido de informações à autoridade
+reclamada, bem como a remessa à Procuradoria-Geral da
+República (art. 52, parágrafo único, do RISTF), por entender que
+o processo está suficientemente instruído e em condições de
+julgamento.
+Deixo, ademais, de determinar a citação da parte
+beneficiária da decisão reclamada, em face da manifesta
+inviabilidade do pedido.”
+
+Neguei seguimento à ação assentando a ausência de aderência
+estrita entre a matéria veiculada na reclamação e aquela objeto dos
+paradigmas invocados, bem como a inexistência de ofensa à Súmula
+Vinculante 10.
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4235-7150-9B2A-4A97 e senha 7F5E-4DF8-ED00-287D
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 38
+
+RCL 60516 AGR / PE
+No presente recurso, a parte agravante sustenta a existência de
+aderência estrita entre o conteúdo do ato reclamado e os paradigmas
+indicados e repisa a argumentação no sentido de que “a decisão reclamada,
+ao imputar condenação automática à Fazenda Pública, baseando-se na falha na
+fiscalização e na aplicação da teoria da aptidão da prova, com a consequente
+inversão do onus probandi, violou frontalmente a ADC 16/DF e o RE
+760.931/DF (Tema n. 246)”, citando precedentes desta Corte a respaldar o
+seu entendimento (eDOC 19, p. 6-17).
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4235-7150-9B2A-4A97 e senha 7F5E-4DF8-ED00-287D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 6 de 38
+
+18/10/2023
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 60.516 PERNAMBUCO
+VOTO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Em homenagem ao
+princípio da celeridade processual e ante a ausência de prejuízo às partes
+agravadas, em face da jurisprudência desta Segunda Turma relativamente
+à matéria objeto do presente recurso, dispenso a intimação das partes
+agravadas - vide Rcl 20896 AgR, Primeira Turma, DJe 7.2.2018; Rcl 42.296
+AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 30.11.2020; e Rcl
+45.634 AgR, de minha relatoria, Segunda Turma, DJe 16.4.2021.
+O cabimento da reclamação, instituto jurídico de natureza
+constitucional, deve ser aferido nos estritos limites das normas de
+regência, que somente a concebem para preservação da competência do
+Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF),
+bem como contra atos que contrariem ou indevidamente apliquem
+Súmula Vinculante (art. 103-A, § 3º, da CF).
+Nos termos da jurisprudência desta Corte, a existência de relação de
+estrita aderência entre a matéria objeto do acórdão reclamado e aquela
+discutida na decisão paradigma invocada é requisito indispensável para o
+cabimento de reclamação, não sendo possível a sua utilização como
+sucedâneo recursal. Nesse sentido: Rcl 7.082 AgR, Rel. Min. Roberto
+Barroso, Primeira Turma, DJe 11.12.2014; Rcl 11.463 AgR, Rel. Min. Dias
+Toffoli, Primeira Turma, DJe 13.2.2015; Rcl 15.956 ED, Rel. Min. Teori
+Zavascki, Segunda Turma, DJe 5.3.2015; Rcl 12.851 AgR-segundo, Rel.
+Min. Luiz Fux, Primeira Turma, DJe 26.3.2015, entre outros.
+Eis as razões pelas quais neguei seguimento à reclamação (eDOC
+15):
+“O cabimento da reclamação, instituto jurídico de
+natureza constitucional, deve ser aferido nos estritos limites das
+normas de regência, que somente a concebem para preservação
+da competência do Tribunal e para garantia da autoridade de
+suas decisões (art. 102, I, l, CF), bem como contra atos que
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 7 de 38
+
+RCL 60516 AGR / PE
+contrariem ou indevidamente apliquem Súmula Vinculante
+(art. 103-A, § 3º, da CF).
+A matéria também veio disciplinada pelo Novo Código de
+Processo Civil, que, no art. 988, prevê as hipóteses de seu
+cabimento, in verbis:
+Art. 988. Caberá reclamação da parte interessada ou
+do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula
+vinculante e de decisão do Supremo Tribunal Federal em
+controle concentrado de constitucionalidade; (Redação
+dada pela Lei nº 13.256, de 2016) (Vigência)
+IV - garantir a observância de acórdão proferido em
+julgamento de incidente de resolução de demandas
+repetitivas ou de incidente de assunção de competência;
+(Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+§ 1º A reclamação pode ser proposta perante
+qualquer tribunal, e seu julgamento compete ao órgão
+jurisdicional cuja competência se busca preservar ou cuja
+autoridade se pretenda garantir.
+§ 2º A reclamação deverá ser instruída com prova
+documental e dirigida ao presidente do tribunal.
+§ 3º Assim que recebida, a reclamação será autuada e
+distribuída ao relator do processo principal, sempre que
+possível.
+§ 4º As hipóteses dos incisos III e IV compreendem a
+aplicação indevida da tese jurídica e sua não aplicação aos
+casos que a ela correspondam.
+§ 5º É inadmissível a reclamação: (Redação dada pela
+Lei nº 13.256, de 2016)
+I - proposta após o trânsito em julgado da decisão
+reclamada; (Incluído pela Lei nº 13.256, de 2016)
+II - proposta para garantir a observância de acórdão
+de recurso extraordinário com repercussão geral
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 8 de 38
+
+RCL 60516 AGR / PE
+reconhecida ou de acórdão proferido em julgamento de
+recursos extraordinário ou especial repetitivos, quando
+não esgotadas as instâncias ordinárias. (Incluído pela Lei
+nº 13.256, de 2016)
+§ 6º A inadmissibilidade ou o julgamento do recurso
+interposto contra a decisão proferida pelo órgão
+reclamado não prejudica a reclamação.
+Examinando detidamente os autos, verifico que a situação
+descrita na inicial não se acomoda a nenhuma das hipóteses de
+admissibilidade de reclamação.
+De início, destaco o não cabimento desta reclamação por
+suposta ofensa à decisão do RE 760.931, paradigma do Tema
+246 da sistemática da repercussão geral.
+Nos termos do art. 988, 5º, II, do CPC, é inadmissível a
+reclamação proposta para garantir a observância de acórdão de
+recurso extraordinário com repercussão geral reconhecida ou
+de acórdão proferido em julgamento de recursos extraordinário
+ou especial repetitivos, quando não esgotadas as instâncias
+ordinárias.
+Não por outra razão, Marinoni, Arenhart e Mitidiero
+esclarecem que:
+“(…) não faz sentido introduzir e propor filtros
+recursais para o conhecimento do recurso extraordinário e
+do recurso especial com a finalidade de que essas cortes
+trabalhem menos para que trabalhem melhor, de um lado,
+se, de outro, outorga-se à reclamação amplo espectro de
+abrangência, porque aí certamente o número de
+reclamações provavelmente suplantará o número de
+recursos, obrigando esses tribunais a conviverem com
+uma carga de trabalho incompatível com suas funções
+constitucionais . Em um sistema ideal, portanto, os
+precedentes constitucionais (…) devem ser naturalmente
+respeitados por todo o sistema de Administração da
+Justiça Civil. Contudo, enquanto essa cultura de
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 9 de 38
+
+RCL 60516 AGR / PE
+precedentes não é assimilada entre nós, é necessário
+prever mecanismos que garantam a sua eficácia.”
+(MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz;
+MITIDIERO, Daniel. Novo Curso de Processo Civil
+Volume 2: Tutela dos Direitos Mediante Procedimento
+Comum . 2ª Edição. São Paulo: RT, 2016, p. 635-636).
+No caso dos autos, extrai-se do relato da parte reclamante,
+bem como de consulta ao sítio eletrônico do Tribunal Regional
+do Trabalho da 6ª Região, a ausência do esgotamento das
+instâncias ordinárias, uma vez que o processo de origem
+encontra-se em regular tramitação naquela Corte em fase de
+admissibilidade do recurso de revista interposto contra o ato
+reclamado, quadro que inviabiliza a pretensão reclamatória
+ante a ausência de atendimento da norma do art. 988, § 5º, II, do
+CPC. Confiram-se:
+“RECLAMAÇÃO. GARANTIA DE OBSERVÂNCIA
+DE ACÓRDÃO DE RECURSO EXTRAORDINÁRIO COM
+REPERCUSSÃO
+GERAL
+RECONHECIDA.
+ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+NECESSIDADE. NÃO CABIMENTO DO USO DA
+RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL.
+AGRAVO
+REGIMENTAL
+A
+QUE
+SE
+NEGA
+PROVIMENTO. 1. O esgotamento das instâncias
+ordinárias, previsto no art. 988, § 5º, II, do CPC, exige a
+impossibilidade de reforma da decisão reclamada por
+nenhum tribunal, inclusive por tribunal superior. 2. Uma
+vez pendente de análise o agravo interno interposto na
+instância de origem, incognoscível se mostra a reclamação
+proposta para garantir a observância de acórdão de
+recurso extraordinário com repercussão geral reconhecida.
+3. Agravo regimental a que se nega provimento.” (Rcl
+36278 AgR, de minha relatoria, Segunda Turma, DJe
+6.11.2020)
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 10 de 38
+
+RCL 60516 AGR / PE
+“AGRAVO REGIMENTAL NA RECLAMAÇÃO.
+ADMINISTRATIVO.
+CONCURSO
+PÚBLICO.
+ANULAÇÃO DE QUESTÕES. PRETENSÃO DE
+OBSERVÂNCIA DE PRECEDENTE FIRMADO EM SEDE
+DE REPERCUSSÃO GERAL. RE 632.853 (TEMA 485).
+INADMISSIBILIDADE DA VIA ELEITA. AUSÊNCIA DE
+ESGOTAMENTO
+DAS
+VIAS
+ORDINÁRIAS.
+UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO
+DE RECURSO OU OUTRAS AÇÕES CABÍVEIS.
+IMPOSSIBILIDADE.
+AGRAVO
+REGIMENTAL
+DESPROVIDO. (...) 4. O exaurimento da jurisdição
+ordinária antes do manejo da reclamação constitucional de
+competência do Supremo Tribunal Federal deve ser
+observado, sob pena de se estimular a propositura per
+saltum da via eleita. Precedentes: Rcl 25.596-AgR,
+Segunda Turma, Rel. Min. Dias Toffoli, DJe de 1/8/2017; e
+Rcl 18.020-AgR, Rel. Min. Rosa Weber, Primeira Turma,
+DJe de 18/4/2016. 5. In casu, não foram esgotadas as
+instâncias ordinárias. A presente reclamação foi ajuizada
+na pendência do julgamento do agravo em recurso
+especial interposto pela reclamante na demanda
+originária, claramente suprimindo instâncias recursais
+estabelecidas pelo sistema normativo processual e
+subvertendo, dessa forma, a destinação constitucional do
+instituto da reclamação, que não deve, portanto, ser
+admitida na hipótese em tela. 6. O Supremo Tribunal
+Federal deixa claro que o prévio exaurimento das
+instâncias ordinárias apenas se concretiza após o
+julgamento do agravo interno interposto contra decisão da
+Corte de origem que nega seguimento a recurso
+extraordinário. 7. Agravo regimental desprovido.” (Rcl
+27843 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe
+27.9.2018;)
+Prossigo no exame da reclamação porque também
+fundada em suposta ofensa à decisão da ADC 16 e à Súmula
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 11 de 38
+
+RCL 60516 AGR / PE
+Vinculante 10.
+Como é cediço, a questão da responsabilidade subsidiária
+do tomador de serviços por débitos trabalhistas tem sido objeto
+de controvérsia jurisprudencial desde há muito, mormente
+quando uma das partes envolvidas na questão é o poder
+público.
+A partir da discussão da constitucionalidade da Súmula
+331 do Tribunal Superior do Trabalho, o assunto foi trazido a
+este Supremo Tribunal Federal, proferindo-se julgados recentes
+em processos de controle concentrado. Para resgatar a trilha
+histórica da questão, reproduzo o entendimento do TST:
+“I - A contratação de trabalhadores por empresa
+interposta é ilegal, formando-se o vínculo diretamente
+com o tomador dos serviços, salvo no caso de trabalho
+temporário (Lei nº 6.019, de 03.01.1974).
+II - A contratação irregular de trabalhador, mediante
+empresa interposta, não gera vínculo de emprego com os
+órgãos da Administração Pública direta, indireta ou
+fundacional (art. 37, II, da CF/1988).
+III - Não forma vínculo de emprego com o tomador a
+contratação de serviços de vigilância (Lei nº 7.102, de
+20.06.1983) e de conservação e limpeza, bem como a de
+serviços especializados ligados à atividade-meio do
+tomador, desde que inexistente a pessoalidade e a
+subordinação direta.
+IV - O inadimplemento das obrigações trabalhistas,
+por parte do empregador, implica a responsabilidade
+subsidiária do tomador dos serviços quanto àquelas
+obrigações, desde que haja participado da relação
+processual e conste também do título executivo judicial.
+V - Os entes integrantes da Administração Pública
+direta e indireta respondem subsidiariamente, nas
+mesmas condições do item IV, caso evidenciada a sua
+conduta culposa no cumprimento das obrigações da Lei
+n.º 8.666, de 21.06.1993, especialmente na fiscalização do
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 12 de 38
+
+RCL 60516 AGR / PE
+cumprimento das obrigações contratuais e legais da
+prestadora de serviço como empregadora. A aludida
+responsabilidade não decorre de mero inadimplemento
+das obrigações trabalhistas assumidas pela empresa
+regularmente contratada.
+VI – A responsabilidade subsidiária do tomador de
+serviços abrange todas as verbas decorrentes da
+condenação referentes ao período da prestação laboral”.
+Por meio da Ação Declaratória de Constitucionalidade nº
+16, de relatoria do e. Min. Cezar Peluso, julgada pelo Plenário
+em 24.11.10, esta Corte firmou a constitucionalidade do art. 71
+da Lei federal nº 8.666/93, senão vejamos:
+“Ementa: RESPONSABILIDADE CONTRATUAL.
+Subsidiária. Contrato com a administração pública.
+Inadimplência
+negocial
+do
+outro
+contraente.
+Transferência consequente e automática dos seus
+encargos trabalhistas, fiscais e comerciais, resultantes da
+execução do contrato, à administração. Impossibilidade
+jurídica. Consequência proibida pelo art. 71 da Lei federal
+nº 8.666/93. Constitucionalidade reconhecida dessa norma.
+Ação direta de constitucionalidade julgada, nesse sentido,
+procedente. Voto vencido. É constitucional a norma
+inscrita no art. 71, §1º, da Lei federal nº 8.666, de 26 de
+junho de 1993, com redação dada pela Lei nº 9.032, de
+1995.”
+Em seu voto proferido na ADC nº. 16, a Ministra Cármen
+Lúcia externou que “eventual descumprimento pela administração
+pública do seu dever legal de fiscalizar o adimplemento de obrigações
+trabalhistas por seu contratado, se for o caso, não impõe a automática
+responsabilidade subsidiária da entidade da administração pública por
+esse pagamento”. E, conclui, que a pessoa jurídica de direito
+público deve zelar pela probidade e moralidade, mas não pode
+ser chamada a juízo diretamente pelas obrigações trabalhistas
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 13 de 38
+
+RCL 60516 AGR / PE
+de suas contratadas.
+Em debate, Suas Excelências bem firmaram a
+compreensão de que o enunciado nº 331 impunha a
+solidariedade do ente público, o que seria inadmissível,
+firmando-se a responsabilidade, à luz do art. 37, §6º, quando
+houvesse culpa e negligência na fiscalização das empresas
+contratadas.
+O Ministro Cezar Peluso então lembrou que a
+constitucionalidade daquele art. 71 da Lei nº 8.666/93 não
+impediria a Justiça do Trabalho de reconhecer que há
+responsabilidade do ente público diante dos fatos, isto é,
+analisando-se o caso concreto.
+Posteriormente, tratando de outro aspecto do enunciado
+da súmula nº 331/TST, esta Corte firmou entendimento no
+sentido da licitude da terceirização de atividade-fim, frisando
+que, na terceirização, compete ao contratante verificar a
+idoneidade e capacidade econômica da terceirizada,
+respondendo subsidiariamente pelo descumprimento das
+normas trabalhistas e subsidiárias.
+Importante lembrar, a propósito disso, que, com o advento
+da Lei nº. 13.467/17 (Reforma Trabalhista) e da Lei nº. 13.429/17
+(Lei da Terceirização), normatizou-se essa compreensão quanto
+à possibilidade de terceirização tanto das atividades-meio
+quanto das atividades-fim das empresas.
+A fim de melhor ilustrar a virada jurisprudencial quanto
+ao tema, confira-se a Ação de Descumprimento de Preceito
+Fundamental nº 324, de relatoria do ministro Luís Roberto
+Barroso e julgada em 30.08.2018, cuja tese fixada foi:
+“1.É lícita a terceirização de toda e qualquer
+atividade, meio ou fim, não se configurando relação de
+emprego entre a contratante e o empregado da
+contratada. 2. Na terceirização, compete à contratante: i)
+verificar a idoneidade e a capacidade econômica da
+terceirizada; e ii) responder subsidiariamente pelo
+descumprimento das normas trabalhistas, bem como por
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 14 de 38
+
+RCL 60516 AGR / PE
+obrigações previdenciárias, na forma do art. 31 da Lei
+8.212/1993, vencidos os Ministros Edson Fachin, Rosa
+Weber, Ricardo Lewandowski e Marco Aurélio. Nesta
+assentada, o Relator esclareceu que a presente decisão não
+afeta automaticamente os processos em relação aos quais
+tenha havido coisa julgada.” (Grifei).
+Atente-se ainda para o desfecho do RE nº 958.252 (Tema
+725 da repercussão geral), que também em 30.08.2018, teve o
+mérito julgado, sendo fixada a seguinte tese:
+"É lícita a terceirização ou qualquer outra forma de
+divisão do trabalho entre pessoas jurídicas distintas,
+independentemente do objeto social das empresas
+envolvidas, mantida a responsabilidade subsidiária da
+empresa contratante".
+Quanto a esse RE nº 958.252, eis que o Tribunal proveu,
+parcialmente, por maioria, terceiros e quartos Embargos de
+declaração, em 08.07.2022, com o fim de modular os efeitos do
+julgado, no seguinte sentido:
+“O Tribunal, por maioria, deu parcial provimento
+aos embargos, exclusivamente com o fim de, modulando
+os efeitos do julgamento,assentar a aplicabilidade dos
+efeitos da tese jurídica fixada apenas aos processos que
+ainda estavam em curso na data da conclusão do julgado
+(30/08/2018), restando obstado o ajuizamento de ações
+rescisórias contra decisões transitadas em julgado antes
+da mencionada data que tenham a Súmula 331 do TST
+por fundamento, mantidos todos os demais termos do
+acórdão embargado, nos termos do voto do Ministro Luiz
+Fux (Presidente e Relator), vencidos os Ministros Roberto
+Barroso e Alexandre de Moraes, que acolhiam em parte os
+embargos de declaração, assegurando o ajuizamento de
+ações rescisórias que tenham por fundamento tanto a
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 15 de 38
+
+RCL 60516 AGR / PE
+ADPF 324 como o RE 958.252, ressalvadas as condenações
+já executadas e efetivamente pagas; e os Ministros Gilmar
+Mendes e André Mendonça, que rejeitavam os embargos
+de declaração. Plenário, Sessão Virtual de 24.6.2022 a
+1.7.2022.”
+A compreensão de que a responsabilidade do poder
+público não poderia ser automática, em caso de
+inadimplemento de dívidas trabalhistas por parte de empresa
+contratada para fornecer mão-de-obra terceirizada, foi
+reafirmada pelo STF, no ano de 2019, ao analisar o tema 246 da
+repercussão geral, no leading case do RE nº 760.931:
+“O inadimplemento dos encargos trabalhistas dos
+empregados do contratado não transfere automaticamente
+ao Poder Público contratante a responsabilidade pelo seu
+pagamento, seja em caráter solidário ou subsidiário, nos
+termos do art. 71, §1º, da Lei 8.666/93”
+Apesar dos posicionamentos adotados quanto à licitude
+da terceirização das atividades-meio e fim, a questão da
+inversão do ônus da prova, isto é, conduta da Justiça do
+Trabalho de considerar que o poder público não se
+desincumbiu de demonstrar que fiscalizava os contratos de
+terceirização, esvaziaria, per se, tanto a ADC nº. 16 quanto o
+tema 246 da repercussão geral. Eis as palavras do Min. Luiz Fux
+quando do reconhecimento da repercussão do novo tema 1.118:
+“A matéria aqui suscitada possui densidade
+constitucional suficiente para o reconhecimento da
+existência de repercussão geral, competindo a esta
+Suprema Corte definir, ante o julgamento da ADC 16 e do
+RE 760.931, Tema 246 da Repercussão Geral, a validade da
+imposição
+de
+responsabilidade
+subsidiária
+à
+Administração, sob o fundamento de não comprovação da
+efetiva fiscalização, isto é, pela inversão do onus probandi.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 16 de 38
+
+RCL 60516 AGR / PE
+Demais disso, a temática revela potencial impacto em
+outros casos, tendo em vista a multiplicidade de recursos
+sobre essa específica questão constitucional, como revelam
+o juízo de admissibilidade do Tribunal Superior do
+Trabalho, a apontar que se contam na casa da dezena do
+milhar a quantidade de processos com tramitação
+suspensa por versarem a mesma matéria do presente
+recurso, além das centenas de julgados desta Suprema
+Corte, seja no campo unipessoal ou por suas Turmas, no
+julgamento de reclamações e de recursos extraordinários”.
+(RE 1.298.647 RG, Rel. Min. Luiz Fux, Presidente, Tribunal
+Pleno, DJe 17.12.2020)
+A repercussão geral reconhecida no citado Tema 1118 (RE
+1.298.647) foi reconhecida por acórdão assim ementado:
+“RECURSO
+EXTRAORDINÁRIO
+REPRESENTATIVO
+DA
+CONTROVÉRSIA.
+ADMINISTRATIVO.
+RESPONSABILIDADE
+SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA POR
+ENCARGOS
+TRABALHISTAS
+GERADOS
+PELO
+INADIMPLEMENTO DE EMPRESA PRESTADORA DE
+SERVIÇOS CONTRATADA. AÇÃO DECLARATÓRIA DE
+CONSTITUCIONALIDADE
+16
+E
+RECURSO
+EXTRAORDINÁRIO
+760.931.
+TEMA
+246
+DA
+REPERCUSSÃO
+GERAL.
+RESPONSABILIZAÇÃO
+SUBSIDIÁRIA AUTOMÁTICA DA ADMINISTRAÇÃO.
+MERA PRESUNÇÃO DE CULPA. INVERSÃO DO ÔNUS
+DA PROVA. MULTIPLICIDADE DE RECURSOS
+EXTRAORDINÁRIOS. PAPEL UNIFORMIZADOR DO
+SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA
+QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA
+EXISTÊNCIA DE REPERCUSSÃO GERAL.” (RE 1.298.647
+RG, Rel. Min. Luiz Fux, Presidente, Tribunal Pleno, DJe
+17.12.2020)
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 17 de 38
+
+RCL 60516 AGR / PE
+No presente caso, noto que não há violação ao decidido no
+âmbito da ADC nº 16, como sustenta a parte reclamante, uma
+vez que a Justiça do Trabalho reconheceu a responsabilidade
+subsidiária do ente público, por entender que este não
+comprovou a regularidade do acompanhamento da execução
+do contrato, aspecto que, como visto, é debatido no tema 1118
+da repercussão geral e não nos paradigmas indicados. Não há,
+pois, a aderência necessária ao conhecimento e acolhimento da
+reclamação.
+Colho do voto do acórdão reclamado (eDoc 32, p. 9-10):
+“Dada sua condição de tomador dos serviços, ao ser
+citado para apresentar defesa, caberia ao ESTADO DE
+PERNAMBUCO trazer ao processo elementos capazes de
+evidenciar o cumprimento do seu papel fiscalizatório, de
+forma cabal, com resultados que interferissem na conduta
+da prestadora do serviço, de modo a forçá-la a cumprir as
+obrigações básicas do contrato, mormente aquelas de
+cunho trabalhista.
+No caso em análise, vale salientar não haver alegação
+consistente sobre fraude ou qualquer irregularidade na
+contratação da prestadora de serviços, de modo que se
+presumem respeitados os preceitos legais na condução do
+processo licitatório, não havendo que se falar, portanto, na
+ocorrência de culpa in eligendo.
+Por outro lado, analisando cuidadosamente os
+elementos integrantes do feito, observei que toda a
+documentação acostada com a defesa do ente público ora
+Recorrente se resume ao contrato firmado com a
+SPBRASIL ALIMENTAÇÃO E SERVIÇOS LTDA. e ao
+termo de ajuste para quitação de passivo do Estado para
+com tal prestadora de serviço. Ou seja, nada foi trazido
+com o intuito de evidenciar a fiscalização do contrato de
+prestação de serviços.
+Tem-se, pois, que o tomador não fiscalizou, de modo
+eficaz, o cumprimento de obrigações trabalhistas pela
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 18 de 38
+
+RCL 60516 AGR / PE
+contratada, o que se pode afirmar ao menos para o caso
+destes autos, especificamente quanto à Reclamante. E é
+fato que o liame empregatício entre a primeira Ré e a
+Autora foi encerrado em virtude do término da relação de
+terceirização que a empregadora mantinha com o Estado
+de Pernambuco, e sem a devida quitação regular de todos
+os haveres trabalhistas, para além do acumulado de faltas
+no tocante à ausência do pagamento do adicional de
+insalubridade e seus reflexos.
+Observa-se que na primeira instância os Reclamados
+foram condenados ao pagamento do aviso prévio e do
+adicional de insalubridade e reflexos.
+À míngua de provas de que acompanhava o regular
+cumprimento do contrato de terceirização, não há como
+concluir que o Estado de Pernambuco efetuou as
+diligências necessárias e se certificou sobre o integral
+cumprimento das obrigações trabalhistas pela prestadora
+de serviços. Fundamental ressaltar que o ato de fiscalizar
+não se restringe à observância da documentação
+indispensável no ato da contratação.
+A propósito, de acordo com o parágrafo quinto da
+cláusula décima do contrato de prestação de serviços nº
+385/2013, atribuiu-se ao contratante (ente público) o dever
+de "Solicitar à CONTRATADA, nos prazos previstos, a
+documentação referente ao seu quadro de pessoal,
+observadas as especificações constantes deste edital,
+supervisionando rotineiramente a observância das normas
+de segurança e higiene do trabalho".
+Configurada, pois, na espécie, a chamada culpa , o
+que in vigilando confere pertinência ao julgamento
+realizado na instância de origem, no aspecto, no sentido
+de se estabelecer a condenação subsidiária do Ente Público
+Reclamado."
+Note-se que a reclamação é instituto jurídico de natureza
+constitucional, que deve ser aferido nos estritos limites das
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 19 de 38
+
+RCL 60516 AGR / PE
+normas de regência. O uso do instituto somente se concebe para
+preservação da competência do Tribunal e para garantia da
+autoridade de suas decisões (art. 102, I, l, CF), bem como contra
+atos que contrariem ou indevidamente apliquem Súmula
+Vinculante (art. 103-A, § 3º, da CF).
+A relação de pertinência estrita entre o ato reclamado e o
+parâmetro de controle é, com isso, requisito indispensável para
+o cabimento de reclamação. Nesse sentido:
+“EMENTA Agravo regimental na reclamação.
+Ausência de identidade de temas entre o ato reclamado e a
+ADI nº 3.460/DF. Reclamação como sucedâneo de recurso.
+Agravo regimental não provido. 1. Deve haver aderência
+estrita do objeto do ato reclamado ao conteúdo da decisão
+paradigmática do STF para que seja admitido o manejo da
+reclamatória constitucional. 2. Agravo regimental não
+provido”. (Rcl 11463 AgR, Rel. Min. Dias Toffoli, Primeira
+Turma, DJe 13.2.2015)
+“Agravo regimental na reclamação. 2. Alegação de
+ofensa à Súmula Vinculante 43. Necessidade de
+exaurimento das vias administrativas. Lei 11.417/2006. 3.
+Ausência de similitude fática e de estrita aderência entre o
+conteúdo do ato reclamado e o objeto das decisõesparadigma. 4. Impossibilidade de utilização da reclamação
+como sucedâneo recursal. 5. Inexistência de argumentos
+capazes de infirmar a decisão agravada. 6. Agravo
+regimental a que se nega provimento”. (Rcl 48580 AgR,
+Rel. Gilmar Mendes, Segunda Turma, DJe 22.03.2022).
+Da análise das informações trazidas na petição inicial e
+dos documentos acostados aos autos, verifica-se a ausência da
+imperativa aderência estrita entre o ato judicial de constrição e
+o paradigma apontado pelo reclamante.
+Ocorre que o reconhecimento por esta Corte de que os
+precedentes anteriores sobre terceirização e responsabilidade
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 20 de 38
+
+RCL 60516 AGR / PE
+do poder público não trataram da distribuição do ônus da
+prova no processo faz com que não se possa alterar, através de
+reclamação, entendimento originário que, examinando fatos e
+provas para decidir sobre responsabilidade e culpa, tratou
+apenas do que será julgado pela Tema 1118 da repercussão
+geral.
+Por fim, quanto à suposta ofensa a Súmula Vinculante 10,
+o que articulado pela parte reclamante não encontra guarida na
+jurisprudência desta Corte, pois a decisão impugnada não
+declarou inconstitucional a norma legal indicada. Nesse
+contexto, não houve afastamento - por inconstitucionalidade,
+direta ou indiretamente - de qualquer dispositivo legal.
+A jurisprudência do Supremo Tribunal Federal é firme
+acerca da não exigência de reserva de plenário para a mera
+interpretação e aplicação de normas jurídicas, que emerge do
+próprio exercício da jurisdição, sendo necessário para
+caracterizar violação à tal cláusula que a decisão de órgão
+fracionário fundamente-se na incompatibilidade entre a norma
+legal indicada e a Carta da República, o que não se verificou no
+caso concreto. Nesse sentido:
+“EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECLAMAÇÃO. ALEGAÇÃO DE OFENSA À SÚMULA
+VINCULANTE 10/STF. MERA INTERPRETAÇÃO E
+APLICAÇÃO
+DE
+NORMAS
+JURÍDICAS.
+NÃO
+CABIMENTO DA RECLAMAÇÃO. PRECEDENTES.
+AGRAVO NÃO PROVIDO. 1. O ato reclamado, ao
+considerar ilegal a contratação de empregado, por
+empresa interposta, para prestar serviços essenciais à
+atividade fim da tomadora, nos termos da Súmula 331, I,
+do TST, não declarou expressamente, nem implicitamente,
+a inconstitucionalidade de qualquer norma especial de
+regência aplicável ao caso. 2. É firme a jurisprudência do
+STF no sentido de que não se exige reserva de plenário
+para a mera interpretação e aplicação das normas jurídicas
+que emerge do próprio exercício da jurisdição, sendo
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 21 de 38
+
+RCL 60516 AGR / PE
+necessário para caracterizar violação à cláusula de reserva
+de plenário que a decisão de órgão fracionário
+fundamente-se na incompatibilidade entre a norma legal e
+o Texto Constitucional. 3. Agravo regimental, interposto
+em 2.3.2017, a que se nega provimento. (Rcl 26.408 AgR,
+de minha relatoria, Segunda Turma, DJe de 05.12.2017)
+Ante o exposto, considerando que a temática versada no
+ato reclamado é objeto de tema ainda não julgado por esta
+Corte, dada a falta de aderência em relação aos paradigmas
+invocados, nego seguimento à reclamação, nos termos dos arts.
+21, § 1º, e 161, parágrafo único, do RISTF, ficando prejudicado o
+exame da medida liminar.
+Em caso de interposição de agravo interno, proceda-se a
+citação da parte beneficiária, nos termos do artigo 332, § 4º, do
+CPC/2015.”
+
+No presente recurso, a parte agravante insiste em asseverar a
+existência de violação das decisão da ADC 16 e do RE 760.931, bem como
+da Súmula Vinculante 10. No entanto, os argumentos que embasam o
+recurso não são suficientes à reforma do que decidido.
+Depreende-se dos autos que a questão em debate circunscreve-se
+àquela objeto do Tema 1118 da sistemática da repercussão geral.
+Conforme se extrai da decisão impugnada, constata-se que a autoridade
+reclamada entendeu que o ente público não comprovou ter cumprido o
+seu dever de fiscalizar o contrato formalizado.
+Confira-se novamente os termos em que o acórdão reclamado restou
+sintetizado na origem (eDOC 12, p. 1):
+“EMENTA: RECURSO ORDINÁRIO DO ENTE PÚBLICO.
+TERCEIRIZAÇÃO. ADMINISTRAÇÃO PÚBLICA DIRETA E
+INDIRETA.
+RESPONSABILIDADE
+SUBSIDIÁRIA.
+FISCALIZAÇÃO DO CUMPRIMENTO DAS OBRIGAÇÕES
+TRABALHISTAS. CULPA . ÔNUS DA PROVA IN
+VIGILANDO. Em sessão realizada no dia 12.12.2019, nos autos
+
+16
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 22 de 38
+
+RCL 60516 AGR / PE
+dos Embargos E-RR-925- 07.2016.5.05.0281, a Eg. SBDI-1 do
+Colendo TST fixou a tese de que é do Poder Público, tomador
+dos serviços, o ônus de demonstrar que fiscalizou de forma
+adequada o contrato de prestação de serviços, banindo, dessa
+forma, o entendimento de que o encargo seja do trabalhador,
+parte que dispõe menos dos meios de prova. Na hipótese dos
+autos, tal encargo processual não foi satisfeito pelo Estado de
+Pernambuco. Recurso Ordinário do Estado de Pernambuco não
+provido.”
+
+Como destacado na decisão agravada, a questão constitucional
+acerca do ônus da prova na apuração de eventual conduta culposa da
+Administração Pública na fiscalização das obrigações trabalhistas de
+prestadora de serviços para fins de responsabilização subsidiária em
+virtude da tese firmada no RE 760931 será objeto de debate por ocasião
+do julgamento do RE 1298647, de relatoria do Ministro Presidente,
+processo paradigma do Tema 1118 da sistemática da repercussão geral,
+cuja questão constitucional teve repercussão geral reconhecida por esta
+Corte, mediante acórdão assim ementado:
+“RECURSO EXTRAORDINÁRIO REPRESENTATIVO DA
+CONTROVÉRSIA. ADMINISTRATIVO. RESPONSABILIDADE
+SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA POR
+ENCARGOS
+TRABALHISTAS
+GERADOS
+PELO
+INADIMPLEMENTO DE EMPRESA PRESTADORA DE
+SERVIÇOS CONTRATADA. AÇÃO DECLARATÓRIA DE
+CONSTITUCIONALIDADE
+16
+E
+RECURSO
+EXTRAORDINÁRIO 760.931. TEMA 246 DA REPERCUSSÃO
+GERAL.
+RESPONSABILIZAÇÃO
+SUBSIDIÁRIA
+AUTOMÁTICA DA ADMINISTRAÇÃO. MERA PRESUNÇÃO
+DE CULPA. INVERSÃO DO ÔNUS DA PROVA.
+MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS.
+PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL
+FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL.
+MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO
+GERAL.” (RE 1298647 RG, Rel. Ministro Presidente, Tribunal
+
+17
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 23 de 38
+
+RCL 60516 AGR / PE
+Pleno, DJe 17.12.2020).
+
+Diante disso, reafirmo o meu entendimento, no sentido de que não
+vislumbro, na espécie, quadro a revelar violação ao decidido no âmbito
+da ADC 16 e no tema 246 da repercussão geral, como sustenta a parte ora
+agravante, uma vez que a Justiça do Trabalho reconheceu a
+responsabilidade subsidiária do ente público, mas compreendeu que este
+não provou ter fiscalizado o contrato, ter agido sem culpa, aspecto que,
+como visto, é debatido no tema 1118 da repercussão geral e não nos
+paradigmas indicados, inexistindo assim a necessária aderência estrita,
+pressuposto necessário ao processamento da reclamação.
+Esse, a propósito, foi o entendimento da Segunda Turma desta
+Corte, ao apreciar questão semelhante, nos autos da Rcl 56073 AgR, de
+minha relatoria, com publicação no DJe 25.4.2023:
+“EMENTA : RECLAMAÇÃO. RESPONSABILIDADE
+SUBSIDIÁRIA. INVERSÃO DO ÔNUS DA PROVA. ADC 16 E
+TEMA 246. AUSÊNCIA DE ADERÊNCIA ESTRITA. MATÉRIA
+COM REPERCUSSÃO GERAL RECONHECIDA. TEMA 1118.
+AGRAVO REGIMENTAL DESPROVIDO. 1. A questão
+constitucional acerca do ônus da prova na apuração de eventual
+conduta culposa da Administração Pública na fiscalização das
+obrigações trabalhistas de prestadora de serviços para fins de
+responsabilização subsidiária em virtude da tese firmada no RE
+760.931 será objeto de debate por ocasião do julgamento do RE
+1298647, de relatoria do Ministro Presidente, processo
+paradigma do Tema 1118 da sistemática da repercussão geral,
+cuja questão constitucional teve repercussão geral reconhecida
+por esta Corte. 2. A existência de relação de estrita aderência
+entre a matéria objeto do acórdão reclamado e aquela discutida
+na decisão paradigma invocada é requisito indispensável para o
+cabimento de reclamação, não sendo possível a sua utilização
+como sucedâneo recursal. 3. Agravo regimental a que se nega
+provimento.”
+
+18
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 24 de 38
+
+RCL 60516 AGR / PE
+No mesmo sentido, também a envolver a mesma discussão, destaco
+os recentes julgamentos realizados por esta Segunda Turma, já na
+composição atual, em processos de minha relatoria: Rcl 59176 AgR,
+julgamento finalizado em 21.8.2023, Rcl acórdão pendente de publicação;
+Rcl 56480 AgR e Rcl 56007 AgR, com acórdãos publicados em 5.7.2023 e
+12.7.2023, respectivamente.
+A ausência de aderência estrita entre a matéria constante do ato
+impugnado e aquela analisada por este Tribunal no processo paradigma
+invocado torna inadmissível a reclamação constitucional. Nesse sentido:
+“Ementa: RECLAMAÇÃO. ADI 2777 E TEMA 201 DA
+SISTEMÁTICA
+DA
+REPERCUSSÃO
+GERAL.
+INADMISSIBILIDADE. AGRAVO REGIMENTAL. ATO
+RECLAMADO. EQUÍVOCO. PROCEDÊNCIA PARCIAL.
+AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. 1. (...)
+2. A ausência de aderência estrita entre a matéria constante dos
+atos impugnados e aquela analisada por este Tribunal no
+processo paradigma invocado torna inadmissível a reclamação
+constitucional. 3. Agravo regimental parcialmente provido.
+Reclamação a que se nega seguimento.” (Rcl 50141 AgR, de
+minha relatoria, Segunda Turma, DJe 19.7.2022)
+“EMENTA AGRAVO REGIMENTAL. RECLAMAÇÃO
+CONSTITUCIONAL.
+HONORÁRIOS
+ADVOCATÍCIOS.
+INDEFERIMENTO DE PENHORA DE SALÁRIO. SÚMULA
+VINCULANTE Nº 47. AUSÊNCIA DE ESTRITA ADERÊNCIA.
+1. (…) 2. A jurisprudência desta Corte exige, para o cabimento
+da reclamação constitucional, aderência estrita do objeto do ato
+reclamado ao conteúdo do paradigma de controle do STF (Rcl
+19394/DF, Rel. Min. Celso de Mello, DJe 24.4.2017; Rcl 19631/DF,
+Rel. Min. Dias Toffoli, DJe 01.7.2015; Rcl 4.487/PR-AgR, Rel.
+Min. Dias Toffoli, DJe 5.12.2011). 3. Agravo interno conhecido e
+não provido.” (Rcl 33911 AgR, Rel. Min. Rosa Weber, Primeira
+Turma, DJe 1º.10.2019)
+
+19
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 25 de 38
+
+RCL 60516 AGR / PE
+Por fim, mantenho os fundamentos pelos quais afastei a suposta
+ofensa à Súmula Vinculante 10, por entender que, no caso, a decisão
+impugnada não declarou inconstitucional a norma legal indicada, de
+modo que não houve afastamento - por inconstitucionalidade, direta ou
+indiretamente - de qualquer dispositivo legal.
+Nesse sentido, confira-se o seguinte acórdão:
+“EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECLAMAÇÃO. ALEGAÇÃO DE OFENSA À SÚMULA
+VINCULANTE
+10/STF.
+MERA
+INTERPRETAÇÃO
+E
+APLICAÇÃO DE NORMAS JURÍDICAS. NÃO CABIMENTO
+DA RECLAMAÇÃO. PRECEDENTES. AGRAVO NÃO
+PROVIDO. 1. O ato reclamado, ao considerar ilegal a
+contratação de empregado, por empresa interposta, para
+prestar serviços essenciais à atividade fim da tomadora, nos
+termos da Súmula 331, I, do TST, não declarou expressamente,
+nem implicitamente, a inconstitucionalidade de qualquer
+norma especial de regência aplicável ao caso. 2. É firme a
+jurisprudência do STF no sentido de que não se exige reserva de
+plenário para a mera interpretação e aplicação das normas
+jurídicas que emerge do próprio exercício da jurisdição, sendo
+necessário para caracterizar violação à cláusula de reserva de
+plenário que a decisão de órgão fracionário fundamente-se na
+incompatibilidade entre a norma legal e o Texto Constitucional.
+3. Agravo regimental, interposto em 2.3.2017, a que se nega
+provimento. (Rcl 26.408 AgR, de minha relatoria, Segunda
+Turma, DJe 5.12.2017)
+
+Confiram-se, ainda: RE 566.502 AgR, Rel. Min. Ellen Gracie, Segunda
+Turma, DJe 24.3. 2011; Rcl 19.281 AgR, Rel. Min. Celso de Mello, Segunda
+Turma, DJe 20.4.2015; Rcl 14.048 AgR, Rel. Min. Luiz Fux, Primeira
+Turma, DJe 2.2.2015; Rcl 12.623 AgR-segundo, Rel. Min. Roberto Barroso,
+Primeira Turma, DJe 18.9.2014; Rcl 20.026, Rel. Min. Rosa Weber, DJe
+15.4.2015; Rcl 17.867, Rel Min. Ricardo Lewandowski, DJe 6.8.2014; Rcl
+19.766, Rel. Min. Teori Zavascki DJe 13.3.2015; Rcl 14.623, Rel. Min.
+20
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 26 de 38
+
+RCL 60516 AGR / PE
+Joaquim Barbosa, DJe 12.11.2012; Rcl 10.829 AgR, Rel. Min. Celso de
+Mello, Tribunal Pleno, DJe 10.2.2015.
+Pelo exposto, voto para que seja negado provimento ao agravo
+regimental.
+É o voto.
+
+21
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C2C-4448-D49B-9F89 e senha 6BC3-1836-4E21-6E6D
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 27 de 38
+
+18/10/2023
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 60.516 PERNAMBUCO
+RELATOR
+REDATOR DO
+ACÓRDÃO
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: MIN. GILMAR MENDES
+: ESTADO DE PERNAMBUCO
+: PROCURADOR-GERAL
+DO
+ESTADO
+DE
+PERNAMBUCO
+: YONE MARIA SANTIAGO DOS SANTOS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: SPBRASIL ALIMENTACAO E SERVICOS LTDA.
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RC NUTRY ALIMENTACAO LTDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 6ª
+REGIAO
+: SEM REPRESENTAÇÃO NOS AUTOS
+VOTO
+
+O SENHOR MINISTRO GILMAR MENDES: Trata-se de agravo
+regimental interposto pelo Estado de Pernambuco contra decisão
+proferida pelo Ministro Edson Fachin que negou seguimento à
+reclamação.
+O agravante reitera que a decisão reclamada ofendeu a autoridade
+desta Corte na ADC 16, no RE-RG 760.931 (tema 246) e na SV 10, ao lhe
+imputar a responsabilidade direta e automática, sem averiguação de
+culpa, pelo pagamento de verbas trabalhistas.
+O relator encaminha voto no sentido de não prover o recurso.
+Peço vênia para divergir.
+A reclamação, tal como prevista no art. 102, I, “l”, da Constituição e
+regulada nos artigos 988 a 993 do Código de Processo Civil e artigos 156 a
+162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento
+para preservar a competência do Tribunal ou garantir a autoridade das
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F2A2-F58D-A7B2-0B61 e senha 3FBE-B496-805F-1376
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 28 de 38
+
+RCL 60516 AGR / PE
+suas decisões, bem como contra ato administrativo ou decisão judicial
+que contrarie súmula vinculante (art. 103-A, § 3º, do texto constitucional).
+Cabível, portanto, a peça reclamatória, fundada na violação ao
+entendimento firmado por esta Corte em ação de controle concentrado.
+O Plenário do Supremo Tribunal Federal, no julgamento da Ação
+Declaratória de Constitucionalidade 16, Rel. Min. Cezar Peluso, DJe
+9.9.2011, declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993,
+que dispõe sobre a impossibilidade jurídica de transferência de
+responsabilidade à Administração Pública de encargos decorrentes do
+não cumprimento, pelo contratado, de obrigações trabalhistas, fiscais
+ou comerciais. Confira-se a ementa do referido julgado:
+“RESPONSABILIDADE CONTRATUAL. Subsidiária.
+Contrato com a administração pública. Inadimplência negocial
+do outro contraente. Transferência consequente e automática
+dos seus encargos trabalhistas, fiscais e comerciais, resultantes
+da execução do contrato, à administração. Impossibilidade
+jurídica. Consequência proibida pelo art., 71, § 1º, da Lei federal
+nº 8.666/93. Constitucionalidade reconhecida dessa norma.
+Ação direta de constitucionalidade julgada, nesse sentido,
+procedente. Voto vencido. É constitucional a norma inscrita no
+art. 71, § 1º, da Lei federal nº 8.666, de 26 de junho de 1993, com
+a redação dada pela Lei nº 9.032, de 1995”.
+
+Ao apreciar o tema 246 da repercussão geral, esta Corte,
+confirmando o entendimento adotado na ADC 16, firmou a seguinte tese
+“O inadimplemento dos encargos trabalhistas dos empregados do contratado não
+transfere automaticamente ao Poder Público contratante a responsabilidade pelo
+seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, §
+1º, da Lei nº 8.666/93”.
+Nesses termos, para que haja a responsabilização do ente público é
+necessário que se comprove cabalmente nos autos o comportamento
+reiteradamente negligente da Administração, bem como o nexo causal
+entre a conduta comissiva ou omissiva do Poder Público e o dano
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F2A2-F58D-A7B2-0B61 e senha 3FBE-B496-805F-1376
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 29 de 38
+
+RCL 60516 AGR / PE
+sofrido pelo trabalhador.
+Assim, é imprescindível a comprovação do conhecimento, pela
+Administração Pública, da situação de ilegalidade e sua inércia em adotar
+providências para saná-la.
+Nesse sentido, cito o seguinte julgado:
+“DIREITO DO TRABALHO E ADMINISTRATIVO.
+AGRAVO
+INTERNO
+EM
+RECLAMAÇÃO.
+RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO
+POR
+DÍVIDAS
+TRABALHISTAS
+EM
+CASO
+DE
+TERCEIRIZAÇÃO. 1. O Supremo Tribunal Federal firmou, no
+julgamento do RE 760.931, redator para acórdão o Ministro Luiz
+Fux, a seguinte tese: ‘O inadimplemento dos encargos
+trabalhistas dos empregados do contratado não transfere
+automaticamente
+ao
+Poder
+Público
+contratante
+a
+responsabilidade pelo seu pagamento, seja em caráter solidário
+ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93’
+(Tema 246 da repercussão geral). 2. A responsabilização do
+ente público depende da demonstração de que ele possuía
+conhecimento da situação de ilegalidade e que, apesar disso,
+deixou de adotar as medidas necessárias para combatê-la.
+Precedentes: Rcls 36.958-AgR e 40.652-AgR, Primeira Turma. 3.
+A responsabilidade subsidiária do ente público ora agravado
+encontra-se amparada exclusivamente na (i) na ausência de
+comprovação, pela Administração, da fiscalização e (ii) na
+presunção de ineficiência da fiscalização pelo fato de ter
+havido o inadimplemento de obrigações trabalhistas. De
+modo que foi violada a tese jurídica firmada na ADC 16, Rel.
+Min. Cezar Peluso, à luz da interpretação que lhe foi dada no
+RE 760.931, Redator p/o acórdão o Ministro Luiz Fux. 4.
+Agravo interno a que se nega provimento.” (Rcl 56.579 AgR,
+Rel. Min. Roberto Barroso, Primeira Turma, DJe 30.3.2023; grifos
+nossos).
+
+No presente caso, o Tribunal Regional do Trabalho da 6ª Região
+decidiu a questão conforme acórdão assim ementado:
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F2A2-F58D-A7B2-0B61 e senha 3FBE-B496-805F-1376
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 30 de 38
+
+RCL 60516 AGR / PE
+
+“RECURSO ORDINÁRIO DO ENTE PÚBLICO.
+TERCEIRIZAÇÃO. ADMINISTRAÇÃO PÚBLICA DIRETA E
+INDIRETA.
+RESPONSABILIDADE
+SUBSIDIÁRIA.
+FISCALIZAÇÃO DO CUMPRIMENTO DAS OBRIGAÇÕES
+TRABALHISTAS. CULPA . ÔNUS DA PROVA IN
+VIGILANDO. Em sessão realizada no dia 12.12.2019, nos autos
+dos Embargos E-RR-925- 07.2016.5.05.0281, a Eg. SBDI-1 do
+Colendo TST fixou a tese de que é do Poder Público, tomador
+dos serviços, o ônus de demonstrar que fiscalizou de forma
+adequada o contrato de prestação de serviços, banindo, dessa
+forma, o entendimento de que o encargo seja do trabalhador,
+parte que dispõe menos dos meios de prova. Na hipótese dos
+autos, tal encargo processual não foi satisfeito pelo Estado de
+Pernambuco. Recurso Ordinário do Estado de Pernambuco não
+provido”. (eDOC 12, p. 2) – Grifos nossos
+
+Ora, a Justiça trabalhista, ao atribuir à Administração o ônus
+probatório ou até mesmo desqualificar toda e qualquer prova levada a
+juízo, incorre na figura da responsabilização automática combatida por
+esta Corte nos julgamentos citados, uma vez que o mero argumento de
+ausência de fiscalização
+não é suficiente para amparar a condenação
+subsidiária do ente público, sendo necessária a apresentação de prova
+inequívoca de sua conduta omissiva ou comissiva na fiscalização dos
+contratos. Corroborando essa assertiva, cito o seguinte julgado:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO
+INTERNO. RECLAMAÇÃO CONTRA DECISÃO QUE
+ATRIBUIU
+RESPONSABILIDADE
+SUBSIDIÁRIA
+AO
+RECLAMANTE
+SEM
+A
+DEMONSTRAÇÃO
+DE
+COMPORTAMENTO SISTEMATICAMENTE NEGLIGENTE
+OU DE NEXO DE CAUSALIDADE ENTRE A CONDUTA DO
+PODER PÚBLICO E O DANO SOFRIDO PELO
+TRABALHADOR. ALEGADA VIOLAÇÃO AO QUE
+DECIDIDO NA ADC 16 E NO RE 760.931. OCORRÊNCIA.
+RECURSO DESPROVIDO. 1. Por ocasião do julgamento do RE
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F2A2-F58D-A7B2-0B61 e senha 3FBE-B496-805F-1376
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 31 de 38
+
+RCL 60516 AGR / PE
+760.931, sob a sistemática da Repercussão Geral, o Plenário
+desta
+SUPREMA
+CORTE
+afirmou
+que
+inexiste
+responsabilidade do Estado por débitos trabalhistas de
+terceiros, alavancada pela premissa da inversão do ônus da
+prova em favor do trabalhador. 2. No caso sob exame, não
+houve a comprovação real de um comportamento
+sistematicamente negligente do agravante, tampouco há prova
+do nexo de causalidade entre a conduta comissiva ou omissiva
+do Poder Público e o dano sofrido pelo trabalhador, a revelar
+presunção de responsabilidade da reclamante, conclusão não
+admitida por esta CORTE quando do julgamento da ADC 16. 3.
+Recurso de Agravo a que se nega provimento.” (Rcl 58.575 AgR,
+Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe
+11.5.2023);
+“Embargos de declaração em reclamação. Embargos de
+declaração recebidos como agravo regimental, nos termos do
+art. 1.024, §3º, CPC. 2. Direito Processual Civil e do Trabalho.
+Terceirização. Responsabilidade subsidiária da Administração
+Pública. 3. Violação ao decidido na ADC 16 e ao teor da Súmula
+Vinculante 10. Configuração. 4. Impossibilidade de
+responsabilização automática da Administração Pública pelo
+inadimplemento das obrigações trabalhistas. 5. Inversão do
+ônus da prova em desfavor da Administração Pública.
+Impossibilidade. 6. Paradigma proferido no âmbito de controle
+concentrado (ADC 16). Desnecessidade de esgotamento das
+instâncias ordinárias. 7. Tema 1.118. Inexistência de
+determinação de suspensão nacional. 8. Ausência de
+argumentos capazes de infirmar a decisão agravada. 9. Negado
+provimento ao agravo regimental.” (Rcl 53.934 ED, de minha
+relatoria, Segunda Turma, DJe 3.11.2022).
+
+Desse modo, entendo que o Tribunal reclamado, ao imputar a
+responsabilidade subsidiária ao ente público, em verdade, utilizou-se de
+fundamentação com o objetivo de afastar a jurisprudência já consolidada
+pelo Supremo Tribunal Federal.
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F2A2-F58D-A7B2-0B61 e senha 3FBE-B496-805F-1376
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 32 de 38
+
+RCL 60516 AGR / PE
+Verifica-se assim violação à autoridade da decisão proferida por esta
+Corte na ADC 16.
+Por fim, cumpre esclarecer que não desconheço a existência do tema
+1.118 da repercussão geral, no qual se discutirá o “Ônus da prova acerca de
+eventual conduta culposa na fiscalização das obrigações trabalhistas de
+prestadora de serviços, para fins de responsabilização subsidiária da
+Administração Pública, em virtude da tese firmada no RE 760.931 (Tema 246)”.
+Todavia, tendo em vista que o mérito do referido paradigma ainda
+não foi julgado e que, a meu juízo, a matéria em questão já foi apreciada
+no julgamento da ADC 16, não há qualquer óbice ao julgamento da
+presente causa.
+Nesses termos, pedindo as mais respeitosas vênias ao eminente
+relator, voto no sentido de dar provimento ao agravo e, desde já, julgar
+procedente a presente reclamação para cassar o acórdão reclamado, no
+ponto em que reconheceu a responsabilidade subsidiária do reclamante
+pelo adimplemento da condenação sem a comprovação de culpa,
+determinando que outro seja proferido, nos termos da jurisprudência
+desta Corte.
+É como voto.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F2A2-F58D-A7B2-0B61 e senha 3FBE-B496-805F-1376
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 33 de 38
+
+18/10/2023
+
+SEGUNDA TURMA
+
+AG.REG. NA RECLAMAÇÃO 60.516 PERNAMBUCO
+RELATOR
+REDATOR DO
+ACÓRDÃO
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+INTDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: MIN. GILMAR MENDES
+: ESTADO DE PERNAMBUCO
+: PROCURADOR-GERAL
+DO
+ESTADO
+DE
+PERNAMBUCO
+: YONE MARIA SANTIAGO DOS SANTOS
+: SEM REPRESENTAÇÃO NOS AUTOS
+: SPBRASIL ALIMENTACAO E SERVICOS LTDA.
+: SEM REPRESENTAÇÃO NOS AUTOS
+: RC NUTRY ALIMENTACAO LTDA
+: SEM REPRESENTAÇÃO NOS AUTOS
+: TRIBUNAL REGIONAL DO TRABALHO DA 6ª
+REGIAO
+: SEM REPRESENTAÇÃO NOS AUTOS
+VOTO-VOGAL
+AGRAVO
+REGIMENTAL
+NA
+RECLAMAÇÃO.
+RESPONSABILIDADE
+SUBSIDIÁRIA DA ADMINISTRAÇÃO
+PÚBLICA. ADC Nº 16/DF. RE Nº 760.931RG/DF
+(TEMA
+RG
+Nº
+246).
+INOBSERVÂNCIA. PROVIMENTO.
+
+O SENHOR MINISTRO ANDRÉ MENDONÇA:
+1. Consoante escorreito relatório lançado pelo eminente Relator,
+trata-se de agravo regimental em reclamação, interposto contra decisão
+denegatória de seguimento, em que se alega inobservância ao que
+decidido por esta Suprema Corte nos julgamentos da ADC nº 16/DF e do
+RE nº 760.931-RG/DF (Tema nº 246 do ementário da Repercussão Geral).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0932-03E8-6D69-FB69 e senha 9304-6C9B-0A40-F990
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 34 de 38
+
+RCL 60516 AGR / PE
+2. No caso em tela, com o devido pedido de vênia ao eminente
+Ministro Relator, entendo que assiste razão à parte reclamante, ora
+agravante.
+3. O debate travado diz respeito à responsabilidade subsidiária da
+Administração, enquanto tomadora de serviços, pela inadimplência de
+empresa contratada (terceirizada) quanto a verbas trabalhistas
+reconhecidas pela Justiça especializada.
+4. No caso dos autos, o acórdão reclamado, proferido pelo Tribunal
+Regional do Trabalho da 6ª Região, reconheceu a responsabilidade
+subsidiária do Estado de Pernambuco a partir da suposta ausência de
+comprovação de que houve fiscalização adequada do contrato de
+prestação de serviços. Trago à colação o seguinte excerto:
+“Tem-se, pois, que o tomador não fiscalizou, de modo
+eficaz, o cumprimento de obrigações trabalhistas pela
+contratada, o que se pode afirmar ao menos para o caso destes
+autos, especificamente quanto à Reclamante. E é fato que o
+liame empregatício entre a primeira Ré e a Autora foi encerrado
+em virtude do término da relação de terceirização que a
+empregadora mantinha com o Estado de Pernambuco, e sem a
+devida quitação regular de todos os haveres trabalhistas, para
+além do acumulado de faltas no tocante à ausência do
+pagamento do adicional de insalubridade e seus reflexos.
+Observa-se que na primeira instância os Reclamados
+foram condenados ao pagamento do aviso prévio e do adicional
+de insalubridade e reflexos.
+À míngua de provas de que acompanhava o regular
+cumprimento do contrato de terceirização, não há como
+concluir que o Estado de Pernambuco efetuou as diligências
+necessárias e se certificou sobre o integral cumprimento das
+obrigações trabalhistas pela prestadora de serviços.
+Fundamental ressaltar que o ato de fiscalizar não se restringe à
+observância da documentação indispensável no ato da
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0932-03E8-6D69-FB69 e senha 9304-6C9B-0A40-F990
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 35 de 38
+
+RCL 60516 AGR / PE
+contratação.” (e-doc. 12, p. 11).
+
+5. Assim, a despeito de haver referência à culpa in vigilando, não
+houve o apontamento claro e objetivo de conduta sistematicamente
+negligente por parte do ente público, desvelando-se, a meu juízo, que a
+conclusão ratificada pela decisão reclamada decorre da mera verificação
+de inadimplência, incorrendo, pois, no que as decisões paradigmas
+pretenderam evitar.
+6. Registro que as duas Turmas deste Supremo Tribunal Federal têm
+julgados que condicionam o reconhecimento da responsabilidade
+subsidiária, em casos afins, à demonstração cabal de sistemática e
+reiterada negligência da Administração:
+“Agravo regimental nos embargos de declaração na
+reclamação. 2. Direito do Trabalho. 3. Terceirização.
+Responsabilidade subsidiária da Administração Pública. Art.
+71, § 1º, da Lei 8.666/1993. 4. Violação ao decidido na ADC 16 e
+ao teor da Súmula Vinculante 10. Configuração. Reclamação
+julgada procedente. 5. Impossibilidade de responsabilização
+automática da Administração Pública pelo inadimplemento das
+obrigações trabalhistas. Necessidade de comprovação
+inequívoca do seu comportamento reiteradamente negligente.
+Ausência de fiscalização ou falta de documentos que a
+comprovem não são suficientes para caracterizar a
+responsabilização. 6. Inversão do ônus da prova em desfavor
+da Administração Pública. Impossibilidade. Precedentes de
+ambas as Turmas. 7. Interposição de recursos contra o ato
+reclamado não prejudica a julgamento da reclamação. Art. 988,
+§ 6º, do CPC. 8. Argumentos incapazes de infirmar o julgado. 9.
+Negado provimento ao agravo regimental.”
+(Rcl nº 40.942-AgR-ED/MG, Rel. Min. Gilmar Mendes,
+Segunda Turma, j. 15/12/2020, p. 07/01/2021; grifos nossos).
+“EMENTA: CONSTITUCIONAL E ADMINISTRATIVO.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0932-03E8-6D69-FB69 e senha 9304-6C9B-0A40-F990
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 36 de 38
+
+RCL 60516 AGR / PE
+AGRAVO INTERNO. RECLAMAÇÃO CONTRA DECISÃO
+QUE ATRIBUIU RESPONSABILIDADE SUBSIDIÁRIA À
+PARTE RECLAMANTE SEM A DEMONSTRAÇÃO DE
+COMPORTAMENTO SISTEMATICAMENTE NEGLIGENTE
+OU DE NEXO DE CAUSALIDADE ENTRE A CONDUTA DO
+PODER PÚBLICO E O DANO SOFRIDO PELO
+TRABALHADOR. ALEGADA VIOLAÇÃO AO QUE
+DECIDIDO NA ADC 16 E NO RE 760.931. OCORRÊNCIA.
+RECURSO PROVIDO.
+1. Por ocasião do julgamento do RE 760.931, sob a
+sistemática da Repercussão Geral, o Plenário desta SUPREMA
+CORTE afirmou que inexiste responsabilidade do Estado por
+débitos trabalhistas de terceiros, alavancada pela premissa da
+inversão do ônus da prova em favor do trabalhador.
+2. No caso sob exame, não houve a comprovação real de
+um comportamento sistematicamente negligente em relação
+aos terceirizados, tampouco há prova do nexo de causalidade
+entre a conduta comissiva ou omissiva do Poder Público e o
+dano sofrido pelo trabalhador, a revelar presunção de
+responsabilidade do ora agravante, conclusão não admitida
+por esta CORTE quando do julgamento da ADC.
+3. Recurso de agravo ao qual se dá provimento.”
+(Rcl nº 45.736-AgR/SC, Rel. Min. Rosa Weber, Red. do
+Acórdão Min. Alexandre de Moraes, Primeira Turma, j.
+12/05/2021, p. 21/05/2021; grifos nossos).
+
+7. É necessário refletir acerca da imputação objetiva ao Estado e às
+estatais de dívidas trabalhistas. Nesse sentido, com relação à dinâmica da
+responsabilidade civil do Estado e da aplicação do princípio da
+solidariedade, o autor Alexandre Aragão aponta:
+“O tema dos fundamentos da responsabilidade civil do
+Estado merece ser mais aprofundado por nossa doutrina, uma
+vez que a ideia da igualdade na repartição dos encargos sociais
+como o seu único fundamento leva a uma expansão inadvertida
+dos permissivos da responsabilização estatal, quando as
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0932-03E8-6D69-FB69 e senha 9304-6C9B-0A40-F990
+
+Supremo Tribunal Federal
+Voto Vogal
+
+Inteiro Teor do Acórdão - Página 37 de 38
+
+RCL 60516 AGR / PE
+diversas circunstâncias aptas a fazer esta eclodir demandam
+maiores cautelas e sutilezas, fazendo com que o que poderia
+representar um avanço da cidadania, cada vez mais garantida
+em face do Estado, constitua na verdade uma demonstração
+cultural do pouco zelo da sociedade brasileira com o espaço
+público.
+Isto faz com que a responsabilidade da Administração
+Pública possa vir a ser injustificadamente ampliada, já que a
+sociedade muitas vezes pode não ter a exata dimensão da
+imputação do ônus financeiro correspondente, o que também
+vem acontecendo com o aumentos dos custos dos serviços
+prestados
+por
+profissionais
+sujeitos
+legal
+ou
+jurisprudencialmente a fortes obrigações indenizatórias.”
+(ARAGÃO, Alexandre Santos de. Os Fundamentos da
+Responsabilidade Civil do Estado. Revista Eletrônica de Direito do
+Estado (REDE), Salvador, Instituto Brasileiro de Direito Público,
+nº 27, julho/agosto/setembro de 2011).
+
+8. Esta Corte tem entendimento de que a responsabilidade não pode
+ser automática, devendo ser mensurados os riscos embutidos no
+posicionamento de validar a imputação de débitos trabalhistas à entidade
+contratante, descurando do liame mínimo entre conduta e dano ocorrido,
+como advertido pelo autor acima referenciado.
+9. Ante o exposto, rogando respeitosas vênias ao eminente Relator,
+dou provimento ao agravo regimental para, julgando procedente o
+pedido formulado na reclamação, cassar o acórdão reclamado na parte
+em que atribuída responsabilidade subsidiária ao ente público.
+É como voto.
+Ministro ANDRÉ MENDONÇA
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 0932-03E8-6D69-FB69 e senha 9304-6C9B-0A40-F990
+
+Supremo Tribunal Federal
+Extrato de Ata - 18/10/2023
+
+Inteiro Teor do Acórdão - Página 38 de 38
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 60.516
+PROCED. : PERNAMBUCO
+RELATOR : MIN. EDSON FACHIN
+REDATOR DO ACÓRDÃO : MIN. GILMAR MENDES
+AGTE.(S) : ESTADO DE PERNAMBUCO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE PERNAMBUCO
+AGDO.(A/S) : YONE MARIA SANTIAGO DOS SANTOS
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+AGDO.(A/S) : SPBRASIL ALIMENTACAO E SERVICOS LTDA.
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+AGDO.(A/S) : RC NUTRY ALIMENTACAO LTDA
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+INTDO.(A/S) : TRIBUNAL REGIONAL DO TRABALHO DA 6ª REGIAO
+ADV.(A/S) : SEM REPRESENTAÇÃO NOS AUTOS
+Decisão: A Turma, por maioria, deu provimento ao agravo
+regimental e, desde já, julgou procedente a presente reclamação
+para cassar o acórdão reclamado, no ponto em que reconheceu a
+responsabilidade subsidiária do reclamante pelo adimplemento da
+condenação sem a comprovação de culpa, determinando que outro seja
+proferido, nos termos da jurisprudência desta Corte, nos termos do
+voto do Ministro Gilmar Mendes, Redator para o acórdão, vencidos
+os Ministros Edson Fachin (Relator) e Dias Toffoli. Segunda Turma,
+Sessão Virtual de 6.10.2023 a 17.10.2023.
+Composição: Ministros Dias Toffoli (Presidente), Gilmar
+Mendes, Edson Fachin, Nunes Marques e André Mendonça.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5C49-CC36-CB27-B402 e senha 7D1F-ED36-F0A3-7F73
