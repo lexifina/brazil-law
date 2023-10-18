@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por IRANETE GOMES PEREIRA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO CÍVEL. DIREITO CIVIL. REPARAÇÃO POR DANOS MORAIS. CONSTRUÇÃO DA UHE SANTO ANTÔNIO. INFESTAÇÃO DE MOSQUITOS. PRESCRIÇÃO. PRINCÍPIO DA ACTIO NATA. PRAZO PRESCRICIONAL TRIENAL. NA ESTEIRA DE ENTENDIMENTO DO STJ. AS DEMANDAS INDENIZATÓRIAS AJUIZADAS COM VISTAS À REPARAÇÃO DE INTERESSES DE CUNHO INDIVIDUAL E PATRIMONIAL SUJEITAM-SE AO PRAZO PRESCRICIONAL DE TRÊS ANOS ESTABELECIDO NO ART. 206. § 3O. V. DO CÓDIGO CIVIL. COM BASE NA TEORIA ACTIO NATA, O TERMO INICIAL PARA O AJUIZAMENTO DA AÇÀO EM QUE SE OBJETIVA A REPARAÇÃO DE DANOS MATERIAIS E MORAIS  ..  A DECISÃO DE PRIMEIRO GRAU NÃO CONTÉM ERRO DE JULGAMENTO E. POR ISSO. FICA MANTIDA EM TODOS OS SEUS FUNDAMENTOS E TERMOS.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação dos arts. 205, 389 e 475 do CC, no que concerne ao equívoco na qualificação da natureza da lide e, em consequência, no prazo prescricional aplicado, uma vez que se trata de ação por inadimplemento contratual, a qual prescreve em 10 anos, trazendo a seguinte argumentação:
+O V. Acórdão da 2ª Câmara Cível do Egrégio Tribunal de Justiça de Rondônia não pode prevalecer, vez que negou vigência aos artigos 205, 389 e 475, do Código Civil, bem como é dissonante do entendimento da 13ª Câmara Cível do TJ-MG e de decisão consolidada do STJ.
+ ..
+Acontece que a empresa V. G. VIDOTI & CIA LTDA-ME alterou sua DENOMINAÇÃO SOCIAL para JOGO BRUTO SERVIÇOS DE CONSTRUÇÃO EM ALVENARIA, IMPORTAÇÃO E EXPORTAÇÃO LTDA, permanecendo o MESMO CNPJ. PERMANECENDO o mesmo CNPJ.
+Ora, existem aqui OBRIGAÇÕES CONTRATUAIS, estipuladas VERBALMENTE, mas isso não descaracteriza a relação contratual.
+Denota-se que a empresa-ré NÃO CUMPRIU SUA OBRIGAÇÃO CONTRATUAL, razão pela qual a parte autora requereu a RESTITUIÇÃO dos valores que foram efetivamente pagos.
+Trata-se, então, de DESCUMPRIMENTO DE OBRIGAÇÃO CONTRATUAL, nada tendo a ver com a prática de ato ilícito extracontratual.
+ ..
+Logo, se apresenta EQUIVOCADA a interpretação acerca da QUALIFICAÇÃO DA NATUREZA DA LIDE, BEM COMO DO PRAZO PRESCRICIONAL.
+No presente caso, deve prevalecer a aplicação do prazo prescricional aos ilícitos contratuais, derivados do descumprimento de cláusula de contrato, do acordo de vontades, que venha a acarretar prejuízo a uma das partes.
+ ..
+Segundo o STJ, as PRETENSÕES DE CREDOR POR INADIMPLEMENTO CONTRATUAL prescrevem em dez anos.
+No julgamento do REsp 1.280.825, a ministra Nancy começou o voto tratando da questão relativa se a designação  reparação civil  também poderia ser utilizada para se referir a situações de danos gerados a partir do inadimplemento contratual. (fls. 215/229).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Infere-se dos autos que o pedido lançado na apelação é de responsabilidade contratual pugnando pela aplicação do prazo prescricional da regra geral art. 205 do CC.
+A petição inicial indica o intento da apelante ao distribuir ação indenizatória, enquanto os fatos narrados direcionam como relação extra contratual, a recorrente alega que através de envolvimento amoroso com o recorrido este intermediou a construção de um imóvel.
+Não há na ação pedidos relacionados a inadimplemento contratual, tampouco de descumprimento de obrigação, a apelante postula reparação por danos materiais, ocorrendo de tal modo o prazo prescricional da reparação civil.
+Assim, o alegado evento danoso ocorreu em meados de 2015, conforme aduz a recorrente, restou comprovado nos autos que foram entregues os documentos relativos à construção do imóvel em 15/07/2016 ID 60505486, enquanto a apelante distribuiu a ação somente em 13/05/2021 ou seja transcorrido prazo prescricional com a perda da pretensão.
+Houve a distribuição de outra ação em 26/11/2018 contudo não houve sequer despacho inicial, sendo extinta e arquivada em virtude da incompatibilidade do Juízo eleito. Não havendo nenhuma causa de interrupção da prescrição.
+Sobre o caso, o código civil, prescreve em três anos a pretensão para a reparação civil (art. 206, §3º, V, CC).
+Assim, conclui-se que o pedido para a reparação dos danos alegados ultrapassou o prazo de 3 anos estabelecido no Código Civil, estando prescrita a pretensão (fl. 202).
+Tal o contexto, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ademais, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
