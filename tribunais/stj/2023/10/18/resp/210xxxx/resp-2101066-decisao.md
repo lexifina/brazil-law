@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por FACTA FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação n. 5000645-63.2021.8.21.0156) nos autos de ação revisional de contratos de empréstimo pessoal.
+O julgado foi assim ementado (fls. 237-238):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL.
+1. SENTENÇA CITRA PETITA. OCORRÊNCIA. A AUSÊNCIA DE ANÁLISE, PELO JUÍZO DE ORIGEM, DE TODOS OS PEDIDOS DA PARTE AUTORA CONFIGURA A SENTENÇA CITRA PETITA, O QUE ACARRETA SUA NULIDADE. NO CASO, NÃO FOI ANALISADO O PEDIDO RELATIVO À RETIFICAÇÃO DO VALOR DA CAUSA, ENTRETANTO, ESTANDO O PROCESSO PRONTO PARA JULGAMENTO, ANALISA-SE O MÉRITO RECURSAL, NOS TERMOS DO ART. 1.013, §§1º E 3º, INCISO III, DO CPC/2016. READEQUAÇÃO DA SENTENÇA AOS LIMITES DA LIDE.
+2. VALOR DA CAUSA. NA AÇÃO REVISIONAL DE CONTRATO O VALOR DA CAUSA DEVE SER EQUIVALENTE AO PROVEITO ECONÔMICO PRETENDIDO. CONTUDO, EM RAZÃO DA DISCIPLINA PRESENTE NO ARTIGO 292, §3º, DO CÓDIGO DE PROCESSO CIVIL, O VALOR DA CAUSA PODERÁ SER CORRIGIDO, INCLUSIVE DE OFÍCIO, PELO JUIZ. NESTE CENÁRIO, CONSIDERANDO QUE O VALOR DO PROVEITO ECONÔMICO A SER OBTIDO É AQUELE APRESENTADO PELA PARTE AUTORA COMO CONTROVERSO, ASSIM COMO, A POSTULAÇÃO DE RETIFICAÇÃO REALIZADA NA ORIGEM, POSSÍVEL A CORREÇÃO DO VALOR DA CAUSA PARA A QUANTIA POSTULADA.
+3. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. POSSIBILIDADE. VERBA HONORÁRIA FIXADA NA SENTENÇA AQUÉM DOS PARÂMETROS ESTABELECIDOS POR ESTA CÂMARA PARA OS FEITOS DESTA NATUREZA. INTELIGÊNCIA DO ART. 85, §2º, DO CPC.
+4. DESCARACATERIZAÇÃO DA MORA. CADASTROS DE INADIMPLENTES. MANUTENÇÃO DO BEM NA POSSE. INOVAÇÃO RECURSAL. ANALISANDO OS AUTOS, VERIFICA-SE QUE NA PETIÇÃO INICIAL NADA FOI MENCIONADO ACERCA DOS MENCIONADOS TÓPICOS. TAIS QUESTÕES VIERAM A SER FORMULADAS APENAS NAS RAZÕES DO APELO, O QUE CONFIGURA INOVAÇÃO RECURSAL.
+APELO NÃO CONHECIDO NOS PONTOS. RECONHECIDA A NULIDADE PARCIAL DA SENTENÇA E JULGADO O PONTO OMITIDO.
+APELAÇÃO PARCIALMENTE CONHECIDA E, NA PARTECONHECIDA, PROVIDA.
+UNÂNIME.
+Nas razões do recurso especial, a recorrente aponta violação do art. 85, § 2º, do CPC.
+Sustenta que os honorários sucumbenciais devem ser fixados de acordo com o proveito econômico da demanda, porquanto mensuráveis.
+Afirma que é possível aferir o proveito econômico mediante cálculo.
+Defende que os honorários devem ser arbitrados levando-se em consideração o trabalho realizado pelo advogado, de modo que não resulte em enriquecimento ilícito.
+Requer o provimento do recurso para a reforma do acórdão recorrido a fim de que os honorários advocatícios sejam fixados sobre o proveito econômico.
+As contrarrazões foram apresentadas às fls. 280-292.
+Admitido o apelo extremo (fls. 295-300), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Consta dos autos que a recorrida ajuizou ação de revisão contratual em desfavor da recorrente a fim de pleitear a revisão de cláusulas contratuais de 6 contratos de empréstimo pessoal.
+Na sentença, a ação revis ional foi julgada procedente para limitar os juros remuneratórios dos contratos de empréstimo às taxas médias de mercado à época da contratação, condenando a instituição financeira à devolução dos valores cobrados em excesso, monetariamente corrigidos pelo IGP-M a partir de cada desembolso e acrescidos de juros de mora de 1% ao mês a contar da data da citação. Foi condenada ainda ao pagamento das custas processuais e honorários advocatícios ao procurador da parte adversa, fixados em R$ 1.000,00, nos termos do art. 85, § 8º, do CPC.
+Interposta apelação pela recorrida, o Tribunal de origem reconheceu a nulidade parcial da sentença e, julgando o ponto omitido, conheceu parcialmente da apelação para retificar o valor da causa para R$ 40.186,32 e majorar os honorários advocatícios para 12% sobre o valor atualizado da causa.
+A respeito da fixação dos honorários sucumbenciais com o advento do CPC de 2015, o Superior Tribunal de Justiça, ao analisar o Tema n. 1.076, submetido à sistemática dos recursos especiais repetitivos, consolidou entendimento a respeito dos critérios a serem seguidos. Na oportunidade, também debateu a possibilidade de fixação de honorários advocatícios com fundamento no juízo de equidade.
+Ao final do julgamento, a Corte Especial fixou critérios objetivos para o arbitramento dos honorários de sucumbência, de acordo com a ordem de preferência estabelecida no § 2º do art. 85 do Código de Processo Civil, a saber: 1º) nas causas em que houver condenação, esse é o critério a ser utilizado pelo magistrado, observando o percentual entre 10% e 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, sendo ele inestimável ou irrisório, a verba sucumbencial deve ser fixada de acordo com o valor da causa.
+Assim, assentou que o critério de equidade, previsto no § 8º do art. 85 do CPC, é de aplicação subsidiária, devendo ser utilizado apenas quando não for possível a incidência da regra geral estabelecida no § 2º do mesmo artigo, isto é, quando for inestimável ou irrisório o proveito econômico ou o valor da causa. Portanto, o critério de equidade não se estende às hipóteses em que o valor da condenação, do proveito econômico ou da causa for elevado.
+Para melhor compreensão, confira-se trecho da ementa do precedente mencionado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SOB O RITO DOS RECURSOS REPETITIVOS. ART. 85, §§ 2º, 3º, 4º, 5º, 6º E 8º, DO CPC. HONORÁRIOS SUCUMBENCIAIS. VALORES DA CONDENAÇÃO, DA CAUSA OU PROVEITO ECONÔMICO DA DEMANDA ELEVADOS. IMPOSSIBILIDADE DE FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. RECURSO ESPECIAL CONHECIDO E PROVIDO. RECURSO JULGADO SOB A SISTEMÁTICA DO ART. 1.036 E SEGUINTES DO CPC/2015, C/C O ART. 256-N E SEGUINTES DO REGIMENTO INTERNO DO STJ.
+ ..
+24. Teses jurídicas firmadas: i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+25. Recurso especial conhecido e provido, devolvendo-se o processo ao Tribunal de origem, a fim de que arbitre os honorários observando os limites contidos no art. 85, §§ 3º, 4º, 5º e 6º, do CPC, nos termos da fundamentação.
+26. Recurso julgado sob a sistemática do art. 1.036 e seguintes do CPC/2015 e art. 256-N e seguintes do Regimento Interno do STJ. (REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022.)
+No caso, a Corte estadual, reconhecendo a nulidade parcial da sentença nesse ponto, deu provimento à apelação para retificar o valor da causa para R$ 40.186,32, ao entendimento de que o valor da causa deve ser equivalente ao proveito econômico; assim, majorou os honorários advocatícios para 12% sobre o valor atualizado da causa. Observe-se (fls. 231-236, destaquei):
+2. VALOR DA CAUSA.
+A parte autora requer a correção para o valor de R$ 40.186,32, realizando tal postulação no Evento 54 e neste âmbito recursal. Vejamos.
+Com efeito, na ação revisional de contrato, o valor da causa deve ser equivalente ao proveito econômico pretendido pela parte autora. Em razão da disciplina presente no artigo 292, §3º, do Código de Processo Civil, o valor da causa poderá ser corrigido, inclusive, de ofício, pelo juiz, veja-se:
+ ..
+Neste cenário, considerando que o valor do proveito econômico a ser obtido é aquele apontado pela parte autora como controverso, e que esta referiu como controversa a quantia de R$40.186,32 (Evento 54), este deve ser o valor atribuído à causa.
+3. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. POSSIBILIDADE.
+Requer, a parte autora, a majoração dos honorários advocatícios, os quais foram fixados na sentença em R$ 1.000,00. Vejamos.
+Com efeito, a teor do artigo 85, § 2º, incisos I, II, III e IV do CPC, o valor dos honorários deve ser fixado em quantia suficiente para atender o grau de zelo do profissional; o lugar de prestação de serviço; a natureza e a importância da causa; e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Nesse sentido, cito precedente desta Câmara:
+ ..
+Outrossim, devem ser consideradas as características da demanda, repetida em inúmeros processos e que não apresenta maiores dificuldades.
+Mais do que isso, deve ainda ser observado que o Superior Tribunal de Justiça sedimentou recentemente, em julgamento realizado na sistemática dos recursos repetitivos, teses sobre a fixação dos honorários advocatícios, dando origem ao Tema 1.076 STJ.
+ ..
+Assim, diante das características da demanda, considerando o trabalho desempenhado no processo pelo procurador da parte autora, eis que foram revisados seis contratos bancários, assim como, levando em conta os parâmetros adotados por esta Câmara em casos similares, entendo que os honorários advocatícios, arbitrados na origem em R$ 1.000,00, devem ser majorados para 10% sobre o valor da causa (R$ 40.186,32) atualizado.
+ ..
+SUCUMBÊNCIA. Diante do resultado do julgamento, mantenho a sucumbência fixada pelo Juízo a quo, observando-se a majoração dos honorários advocatícios ora determinada.
+Nos termos do art. 85, §11, do CPC, e respeitados os limites estabelecidos no §2º do mesmo diploma legal, majoro em 2% sobre o valor atualizado da causa os honorários advocatícios fixados em favor do procurador da parte apelante/autora, observado o trabalho adicional realizado neste grau de jurisdição. Somente ressalto que o valor da causa deverá ser atualizado de acordo com a Súmula14 do STJ.
+Isso posto, voto por reconhecer a nulidade parcial da sentença, julgando o ponto omitido, assim como, por conhecer parcialmente da apelação e, na parte conhecida, dar provimento para que o valor da causa seja retificado para R$ 40.186,32 e para majorar os honorários advocatícios para o valor total de 12% sobre o valor atualizado da causa.
+Ao assim decidir, o Tribunal a quo não divergiu da orientação do STJ, considerando-se o critério objetivo e a ordem de preferência previstos no § 2º do art. 85 do Código de Processo Civil, acima explicitados.
+Além d isso, revisar a conclusão do acórdão de que, na espécie, o valor atribuído à causa corresponde ao proveito econômico demandaria a incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
