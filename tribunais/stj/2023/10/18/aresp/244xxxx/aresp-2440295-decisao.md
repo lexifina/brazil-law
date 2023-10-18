@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por BLANDINA SEGALA TEIXEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUTORA PORTADORA DE "RETINOPATIA DIABÉTICA COM EDEMA MACULAR EM OLHO ESQUERDO". TRATAMENTO COM INJEÇÕES DE "LUCENTIS". SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA REQUERENTE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do arts. 5º, LV, da CF; e 369 do CPC, no que concerne à caracterização do cerceamento de defesa, uma vez que a prova juntada no recurso de apelação era essencial ao deslinde da demanda e não foi devidamente apreciada pelo colegiado, trazendo a seguinte argumentação:
+O v. Acórdão recorrido merece reforma, ou a sua devolução para análise da prova, error in judicando e cerceamento de defesa, por não ter sido apreciada a prova juntada na Apelação Evento 47-INF62 (atestado médico), assim, é nítido o equívoco, o erro e a negativa a vigência a texto de lei federal, e para que ocorra a revaloração da prova juntada na apelação.
+ ..
+Ocorre Nobre Ministro, que ficou devidamente comprovado no Recurso de Apelação que havia a prescrição médica para a realização de dois procedimentos no mesmo mês, Evento 47-INF 62.
+Ainda, em fase de Embargos de Declaração do v.
+Acórdão foi juntado cópia do prontuário médico de fevereiro 2015, para dirimir quaisquer dúvidas quanto aos procedimentos realizados.
+No entanto, o Desembargador do TJSC não apreciou o documento juntado na apelação, e lavrou seu Acórdão baseado unicamente nos documentos juntados na exordial.
+Infelizmente, o Emérito Desembargador Relator equivocou-se ao declarar que inexistia indicação do especialista acerca da necessidade das duas injeções em interregno muito inferior ao previsto no laudo acostado na exordial, pois, a Recorrente fez a aplicação em cada olho, com um espaço de tempo necessário diante do procedimento, bem como recomendado pelo médico.
+ ..
+Nesta linha de conta, o Acórdão proferido pelo Nobre Desembargador da 7ª Câmara de Direito Civil do Tribunal de Justiça de Santa Catarina, há de ser reformado integralmente pelo STJ, ou, devolvido para a análise das provas indicadas, pois, a matéria não foi examinada em sintonia com as provas constantes nos autos, sem a devida razoabilidade e proporcionalidade, não obstante o profundo conhecimento do douto julgador.
+ ..
+Nessa toada, a não apreciação do documento juntado no Evento 47-INF62, atestado médico, importa violação ao contraditório e ampla defesa e, analisando a fundamentação do convencimento do julgador Regional em confronto com os documentos do Evento 47 da ação de origem, é cristalino o error in judicando, pois, temos a prova contrário ao declarado pelo Desembargador.
+(fls. 581/585).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, com relação ao disposto no art. 5º, LV, da CF, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+No mais, o Tribunal de origem se manifestou nos seguintes termos:
+Da análise dos autos, verifico que a recorrente acostou, junto à apelação, a nota fiscal referente ao procedimento realizado em 3/2/2015, documento relativamente ao qual foi dado oportunidade para a apelada se manifestar em contrarrazões, muito embora juntado extemporaneamente (arts. 434 e 437, § 1º, do CPC/2015).
+Todavia, ainda que se considere a nota fiscal acostada ao evento 7, informação 60, como documento apto a comprovar a realização do procedimento pela autora na data de 3/2/2015, tenho que não há falar em obrigação de custeio deste pela apelada.
+Isso porque entendo que, muito embora o Rol da ANS seja meramente exemplificativo e não caiba à operadora do plano de saúde negar cobertura de procedimento relativo à doença coberta pelo plano quando expressamente indicado pelo especialista que acompanha o bene ciário, não logrou êxito, a recorrente, em demonstrar a necessidade das duas aplicações em período inferior a 10 dias, sendo que a indicação médica seria de uma injeção por mês nos primeiros 3 meses.
+ ..
+Assim sendo, porque inexistente indicação do especialista ou qualquer demonstração por parte da apelante acerca da necessidade de aplicação das duas injeções em interregno muito inferior ao previsto no laudo acostado ao feito junto à exordial, mantenho a sentença no ponto (fls. 484/485).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
