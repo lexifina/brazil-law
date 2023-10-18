@@ -1,0 +1,12 @@
+DECISÃO
+O JUÍZO FEDERAL DA 7ª VARA CRIMINAL DO RIO DE JANEIRO - SJ/RJ suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 5ª VARA DE NOVO HAMBURGO - SJ/RS.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventual medida judicial necessária, em investigação pela suposta prática de inserção de horas de voo falsas em caderneta individual de voo digital, constante no sistema informatizado da Agência Nacional de Avião Civil (ANAC).
+Posteriormente, houve a instauração de processo digital (Processo n. 00065.039536/2018-06) junto à Gerência de Certificação de Pessoal (GCEP), responsável pelo licenciamento de pilotos de avião, cuja sede é no Rio de Janeiro, com o objetivo de obter a carteira de piloto agrícola.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 5ª Vara de Novo Hamburgo - SJ/RS, ora suscitado, local de preenchimento e envio dos documentos eletrônicos, uma vez que ali foram perpetrados os últimos atos de execução (fl. 339-341).
+Decido.
+Embora a sede da agência responsável pela certificação de pessoal seja no Rio de Janeiro, verifica-se, no caso, que o requerimento de licença, habilitação e horas de Voo foi assinado, em 12/07/2018, no Município de Cachoeira do Sul - RS. O investigado também teria declarado como local de sua residência o Município de Caçapava do Sul - RS.
+Levando-se em consideração a orientação dessa Corte de que nos casos em que a inserção de informações falsas se dá de forma virtual, por meio da internet, a consumação ocorre no local de preenchimento e envio dos documentos eletrônicos, a competência deve ser firmada perante o Juízo suscitado, visto que daquela localidade é que partiu todo o procedimento eletrônico e envio para a Agência responsável.
+Nesse sentido: " ..  os documentos foram apresentados em procedimento licitatório virtual (pregão eletrônico), por meio da internet. Consequentemente, os supostos crimes perpetrados por cada um dos licitantes (uso de documento falso) têm-se por consumados no local de preenchimento e envio dos documentos eletrônicos, uma vez que ali foram perpetrados os últimos atos de execução (CC n. 125.014/DF, Rel. Ministro Sebastião Reis Junior, DJe 29/4/2015).
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 5ª Vara de Novo Hamburgo - SJ/RS, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
