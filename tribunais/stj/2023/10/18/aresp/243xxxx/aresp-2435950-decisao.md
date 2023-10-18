@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo interposto por PORTOCRED S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 469):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃOREVISIONAL. NULIDADE DA SENTENÇA AFASTADA. JUROSREMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. COMPENSAÇÃOE/OU REPETIÇÃO DE VALORES. CABIMENTO. ÍNDICE DECORREÇÃO MONETÁRIA. UTILIZAÇÃO DA SELIC. DESCABIMENTO. HONORÁRIOS SUCUMBENCIAS. FIXAÇÃOADEQUADA. SENTENÇA MANTIDA. APELO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 492-496).
+No recurso especial, a parte recorrente aponta divergência jurisprudencial com relação à interpretação do art. 51, IV, § 1º, III, da Lei n. 8.078/1990, no que concerne ao valor da taxa média de juros remuneratórios praticada pela instituição financeira ser abusivo.
+Foram oferecidas contrarrazões ao recurso especial (fls. 485-491).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 523-526), tendo em vista a incidência das Súmulas 83, 5 e 7 do STJ, o que ensejou a interposição do presente agravo (fls. 535-551).
+Não foram apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+Observa-se que o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+É cediço que a divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+No caso concreto, a recorrente, além de não proceder ao devido cotejo analítico, apontou julgados que não guardam similitude fática com a hipótese dos autos, em que o Tribunal de origem, ao apreciar as particularidades da causa, constatou discrepância excessiva entre as taxas de juros remuneratórios contratadas e a taxa média do mercado, o que redundou no reconhecimento da abusividade desse tópico no contrato entabulado entre as partes.
+Impende salientar que esta corte superior firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, não na interpretação da lei, como ocorreu na espécie.
+Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, considerando as peculiaridades do julgamento em concreto (AgInt no AREsp n. 2.177.306/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023).
+No caso dos autos, em relação à abusividade da cláusula de juros, verifica-se dos autos que o Tribunal a quo concluiu que (fls. 463-464):
+Na esteira do entendimento do Superior Tribunal de Justiça, a jurisprudência deste Tribunal de Justiça vem reconhecendo abusividade na pactuação quando a taxa de juros remuneratórios superar em 20% a taxa média de mercado divulgada pelo BACEN, como se vê dos seguintes arestos, assim ementados:
+ ..
+No caso em exame, o contrato revisado nº 3814655953, firmado entre as partes em12.08.2021 (evento 1, CONTR7), prevê a cobrança de juros remuneratórios no patamar de 4,35% ao mês e de 66,61% ao ano, o que se afigura abusivo, já que a tabela do BACEN prevê, para o período da contratação, a taxa mensal de 1,30%para a hipótese de crédito para para pessoas físicas -Crédito pessoal consignado para trabalhadores do setor público (Série 25467). Assim impõe-se a limitação do encargo, já que a taxa contratual excede o limite de tolerância de 20%, nos termos do entendimento deste Órgão Fracionário - já mencionado anteriormente.
+Da mesma forma no que diz respeito ao contrato nº 3815011178 (evento 1, CONTR9),celebrado em 09.09.2021, que prevê a cobrança de juros de 4,34% ao mês e de 66,56% ao ano, quando a tabela do BACEN para o período prevê a taxa mensal de 1,31% também para a hipótese de crédito para para pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público (Série 25467).
+Assim, alterar a conclusão do Tribunal de origem demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83/STJ. CONSUMIDOR EM DESVANTAGEM. ABUSO. SÚMULAS N. 5 E 7 DO STJ.
+DECISÃO MANTIDA.
+1. A despeito de a taxa média de mercado apurada pelo Banco Central ter sido tomada como referencial útil para o controle do abuso (REsp n. 1.821.182/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/6/2022, DJe de 29/6/2022), não foi o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado que conduziu o Tribunal a quo a concluir pela existência de excesso no caso concreto, senão a circunstância de o consumidor ter sido colocado em desvantagem exagerada (REsp n. 1.061.530/RS, submetido ao rito do art. 543-C do CPC/1973, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, Dje 10/03/2009).
+Incide a Súmula n. 83/STJ.
+2. O entendimento de abuso na taxa de juros praticada se deu mediante a análise do contrato revisado, de sorte que a modificação do acórdão demandaria o reexame de matéria fático-probatória e das cláusulas contratuais, providência não admitida no âmbito desta Corte, a teor das Súmulas n. 5 e 7 do STJ.
+3. Não há utilidade prática no pedido de justiça gratuita no agravo interno, visto que o "pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos" (AgInt no AREsp 898.288/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/4/2018, DJe 20/4/2018).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.303.392/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. REVISÃO. CONTRATO.
+BANCÁRIO. JUROS. REMUNERATÓRIOS. LIMITAÇÃO. HIPÓTESE. ABUSIVIDADE.
+RECONHECIMENTO. ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. VALORAÇÃO ERRÔNEA.
+1. O Superior Tribunal de Justiça admite a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - artigo 51, § 1º, do Código de Defesa do Consumidor) fique cabalmente demonstrada, haja vista as peculiaridades do julgamento em concreto.
+2. Na hipótese, rever a conclusão do tribunal de origem, que considerou abusivos os juros remuneratórios, demandaria a análise do conjunto fático-probatório dos autos e das cláusulas contratuais, procedimentos que esbarram nos óbices das Súmulas nºs 5 e 7/STJ.
+3. Consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.172.431/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/6/2023, DJe de 12/6/2023.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
