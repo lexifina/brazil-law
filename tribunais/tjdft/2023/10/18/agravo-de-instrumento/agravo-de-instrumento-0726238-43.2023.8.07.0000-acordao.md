@@ -1,0 +1,129 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0726238-43.2023.8.07.0000AGRAVANTE(S)JOSE DE AGUIAR SANTOROAGRAVADO(S)DISTRITO FEDERALRelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1774622
+
+EMENTA
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CRÉDITO DE NATUREZA NÃO TRIBUTÁRIA. OBJEÇÃO DE PRÉ-EXECUTIVIDADE. ARGUIÇÃO. DEFESA INDIRETA. PRESCRIÇÃO. DÉBITO. ORIGEM. INFRAÇÃO A NORMAS AMBIENTAIS. PODER ADMINISTRATIVO SANCIONATÓRIO. CONSTITUIÇÃO DO CRÉDITO. EXIGIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. APLICAÇÃO DA LEI Nº 9.873/99 EM ÂMBITO DISTRITAL. IMPOSSIBILIDADE. PRAZO. APLICAÇÃO ANALÓGICA DO ARTIGO 1º DO DECRETO Nº 20.910/32. AUTUAÇÃO. CONSUMAÇÃO. PROCESSO ADMINISTRATIVO. CURSO. TRÂNSITO ADMINISTRATIVO. LUSTRO PRESCRICIONAL. SUSPENSÃO (LEI DISTRITAL Nº 41/1989, ART. 65, § 4º; DECRETO Nº 20.910/32, ART. 4º). PRESCRIÇÃO. INOCORRÊNCIA. FATO SUSPENSIVO. AGRAVO DESPROVIDO.
+
+1. A Lei Federal nº 9.873/99, que modula a prescrição da pretensão punitiva da administração, tem sua órbita de incidência restrita à esfera federal, não se aplicando em ambiente local, e, outrossim, de conformidade com a regulação específica advinda da Lei Distrital nº 41/89, o prazo prescricional incidente sobre a pretensão da administração de impor sanção decorrente de infração ambiental é o quinquenal (art. 65), o que é corroborado pelo disposto no artigo 1º do Decreto nº 20.910/32, norma genérica que, à míngua de regulação específica, aplica-se tanto nas pretensões endereçadas em face da administração como nas pretensões que aviara em face do administrado.
+
+2. Afastada a aplicabilidade do prazo previsto no artigo 1º, §1º, da Lei nº 9.873/99 no ambiente administrativo local, a matéria afeta à prescrição da pretensão punitiva da administração distrital regula-se, mediante construção interpretativa sistemática, pelo enunciado genérico constante do artigo 1º do Decreto nº 20.910/32, que fixa o prazo quinquenal para as pretensões aviadas em desfavor da Fazenda Pública, ensejando que o mesmo interregno seja aplicado quando é a titular do direito em execução, dispositivo que coaduna-se com a regulamentação específica acerca da política ambiental no âmbito do Distrito Federal.
+
+3. De conformidade com a Lei Distrital nº 41/1989, que reproduzira a previsão contida no Decreto nº 20.910/32, é quinquenal o prazo para implemento da prescrição da pretensão punitiva pela Administração Distrital, veiculando aludido normativo, outrossim, hipótese de suspensão da prescrição diante da existência de processo administrativo em curso volvido à apuração dos fatos imputados ao administrado (art. 65, §2º), fixando que o prazo não flui enquanto em trânsito o correlato procedimento administrativo, previsão que igualmente se alinha ao prefixado no art. 4º do normativo federal individualizado (Decreto nº 20.910/32).
+
+4. Agravo conhecido e desprovido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 26 de Outubro de 2023
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo ativo, interposto por José de Aguiar Santoro em face da decisão que, nos autos da execução fiscal manejada em seu desfavor pelo agravado – Distrito Federal – rejeitara a exceção de pré-executividade que aviara almejando a extinção do executivo mediante o reconhecimento da prescrição da pretensão executória.  Essa resolução fora empreendida sob o fundamento de que, entre a data da constituição definitiva do crédito não tributário e a data do ajuizamento da execução, não transcorrera o prazo de 05 (cinco) anos e 180 (cento e oitenta) dias, previsto no artigo 1º do Decreto nº 20.910/1932. Pontuara o julgado, outrossim, que o crédito executado tem como origem multa ambiental regulamentada pela Lei Distrital nº 41/1989, e, sob a formatação legal, o prazo prescricional ficara suspenso durante o curso do procedimento administrativo que resultara na constituição do crédito em execução.
+
+De seu turno, objetiva o agravante a agregação de efeito suspensivo ao agravo, sobrestando-se o andamento do curso procedimental da execução, e, alfim, a desconstituição do decisório arrostado para que seja afirmada a prescrição da pretensão executiva. Como lastro material passível de aparelhar a irresignação, argumentara, em suma, que o provimento arrostado não afigura-se escorreito, porquanto ter-se-ia implementado, na hipótese, a prescrição da pretensão executiva.
+
+Esclarecera que, no dia 11 de maio de 1999, fora lavrado em seu desfavor o auto de infração nº 1891, que, de sua vez, originara o processo administrativo nº 191-000269/1999. Informara que apresentara defesa no procedimento administrativo em questão na data de 02.06.1999. Registrara que somente no dia 13.06.2014 fora proferida decisão, no âmbito administrativo, publicada no Diário Oficial do Distrito Federal nº 36 de 20.02.2015. Pontuara que, nesse contexto, fica patente o aperfeiçoamento da prescrição diante do lapso temporal havido entre a data da lavratura do auto de infração (11.05.1999) e a data do julgamento do recurso administrativo (13.06.2014).
+
+Assinalara que o procedimento administrativo ficara paralisado por mais de três anos, atraindo a incidência da prescrição intercorrente na forma preconizada pelo artigo 1º, §1º, da Lei nº 9.873/1999. Apontara que o Superior Tribunal de Justiça firmara entendimento objeto do Tema nº 328, estabelecendo que é de três anos o prazo para a conclusão do processo administrativo instaurado para se apurar a prática de infração administrativa. Aludindo ao preceituado no artigo 5º, incisos XLVII, “b”, e LXXVII, da Constituição da República, destacara a inexistência de pena de caráter perpétuo, sustentando que deve ser assegurada a razoável duração do processo no âmbito administrativo e judicial.
+
+Acentuara que, diante dessas circunstâncias, estando patente a plausibilidade do direito que vindica, a decisão devolvida a reexame afigura-se desprovida de sustentação, devendo, portanto, ser reformada, o que legitima, inclusive, estando a argumentação que alinhara revestida de verossimilhança, a concessão do provimento em sede de antecipação da tutela recursal, suspendendo-se a decisão agravada.
+
+Admitido o agravo, a antecipação de tutela recursal postulada restara indeferida, oportunidade em que fora assinado prazo ao agravado para, querendo, contrariar o agravo.[1]
+
+O agravado, devidamente intimado, contrariara o recurso, pugnando, em suma, por seu desprovimento.[2]
+
+É o relatório.
+
+[1] - ID Num. 48849331.
+
+[2] - ID Num. 50721656.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+Cabível, tempestivo, devidamente preparado e subscrito por advogada devidamente constituída e municiada com capacidade postulatória, suprindo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do agravo.
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo ativo, interposto por José de Aguiar Santoro em face da decisão que, nos autos da execução fiscal manejada em seu desfavor pelo agravado – Distrito Federal – rejeitara a exceção de pré-executividade que aviara almejando a extinção do executivo mediante o reconhecimento da prescrição da pretensão executória. Essa resolução fora empreendida sob o fundamento de que, entre a data da constituição definitiva do crédito não tributário e a data do ajuizamento da execução, não transcorrera o prazo de 05 (cinco) anos e 180 (cento e oitenta) dias, previsto no artigo 1º do Decreto nº 20.910/1932. Pontuara o julgado, outrossim, que o crédito executado tem como origem multa ambiental regulamentada pela Lei Distrital nº 41/1989, e, sob a formatação legal, o prazo prescricional ficara suspenso durante o curso do procedimento administrativo que resultara na constituição do crédito em execução.
+
+De seu turno, objetiva o agravante a agregação de efeito suspensivo ao agravo, sobrestando-se o andamento do curso procedimental da execução, e, alfim, a desconstituição do decisório arrostado para que seja afirmada a prescrição da pretensão executiva. Consoante emerge do alinhado, a questão controvertida originalmente resolvida e devolvida a reexame, fazendo o objeto deste agravo, cinge-se à aferição do implemento, ou não, da prescrição intercorrente, hábil a ensejar a extinção da pretensão executiva que é manejada pelo agravado em desfavor do agravante, tendo em conta a demora havida na constituição do débito em ambiente administrativo.
+
+ Segundo sustentara o agravante, se aperfeiçoara, na hipótese, a prescrição da pretensão executiva, diante do lapso temporal havido entre a data de expedição do auto de infração (11.05.1999) e a data do julgamento administrativo (13.06.2014), evidenciando que o procedimento administrativo ficara paralisado por mais de 3 (três) anos, atraindo a incidência da regra albergada no artigo 1º, §1º, da Lei nº 9.873/1999. Assim pontuada a matéria devolvida a reexame e delimitado o lastro invocado como apto a ensejar o acolhimento da pretensão reformatória que estampa, o desembaraço da questão não encerra dificuldade.
+
+Do cotejo dos autos da execução afere-se que a pretensão aviada pelo agravado está aparelhada por certidão de dívida ativa, positivando o título a existência de débito não tributário (multa ambiental prevista na Lei Distrital nº 41/1989). Com efeito, o fato que dera ensejo à aplicação da multa ocorrera no ano de 1999[1], contudo, o crédito somente fora definitivamente constituído em 04.05.2015[2], vindo a execução subjacente a ser ajuizada na data de 27.10.2015. A despeito da demora havido na constituição do débito em execução desde o aperfeiçoamento do seu fato gerador, não houvera a prescrição pretendida.
+
+O prazo da prescrição da pretensão punitiva administrativa aplicável no âmbito do Distrito Federal não é regulado pelo disposto no artigo 1º da Lei nº 9.873/99[3], conforme pretendido pelo agravante. Esse instrumento legal, regulamentando o prazo prescricional aplicável à pretensão punitiva da Administração Pública Federal, não alcança os entes federados, que, no âmbito da reserva legislativa que lhes é ressalvada, poderão regulamentar a matéria de forma diversa.
+
+Logo, seu âmbito de incidência cinge-se à esfera federal, não incidindo, assim, nas esferas estadual, municipal e distrital, sob pena de violação ao próprio princípio federativo, ao menos que sobejasse a existência de Lei Distrital dispondo no mesmo sentido ou determinando a aplicação da referida lei no âmbito do Distrito Federal, o que não é o caso. Nesse sentido é a doutrina da professora Raquel Melo Urbano de Carvalho:
+
+“Destarte, não há que se fazer aplicar, em relação ao Estado-membro ou ao Município, legislação federal que trata especificamente do exercício de poder de polícia “da Administração Pública Federal, direta e indireta” (artigo 1º da Lei Federal nº 9.873/99), nem mesmo o Estatuto de Servidores Públicos Federais (Lei nº 8.112) ou o dispositivo que estabelece prazo para exercício de autotutela (art. 54 da Lei nº 9.784). Tais diplomas sequer fazem menção expressa à estrutura administrativa dos demais entes da federação, o que, aliás, é consectário da autonomia político-administrativa resultante dos artigos 1º, 18 e 25 da Lei Magna.
+
+(...)
+
+Nesse contexto, não se mostra lícito obrigar Estado-Membro, Município ou DF a, em princípio, observar prazo de decadência administrativa federal no tocante a direitos potestativos que lhes foram reconhecidos. Afigura-se absurdo pretender centralizar na União Federal competências pertencentes a outras esferas da federação. Se, v.g, a União, ao regulamentar de modo específico o prazo para o exercício da polícia administrativa federal, terminasse por limitar as atribuições idênticas por parte dos Municípios, Distrito Federal e Estados-Membros, descumpridos estariam valores fundamentais do federalismo, afastado o mínimo de segurança jurídica e independência necessários aos entes políticos na espécie.”[4]
+
+Esse entendimento encontra ressonância no próprio Superior Tribunal de Justiça, corte encarregada de ditar a derradeira palavra na exegese e aplicação do direito federal infraconstitucional, pois positivara, em julgamento sob a sistemática do art. 543-C do Código de Processo Civil derrogado, a inaplicabilidade da Lei nº 9.873/1999 às ações administrativas punitivas manejadas por estados e municípios, in verbis:
+
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MULTA ADMINISTRATIVA. PROCON. LEI N. 9.873/1999. INAPLICABILIDADE ÀS AÇÕES ADMINISTRATIVAS PUNITIVAS DESENVOLVIDAS POR ESTADOS E MUNICÍPIOS. PRESCRIÇÃO. APLICAÇÃO DO DECRETO N. 20.910/1932. 1. A Primeira Seção deste c. Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n.º 1.115.078/RS (Rel. Min. Castro Meira, DJe de 24/3/2010), processado nos moldes do art. 543-C do CPC, consignou no bojo do voto a inaplicabilidade da Lei n. 9.873/1999 às ações administrativas punitivas desenvolvidas por estados e municípios, em razão da limitação do âmbito espacial da lei ao plano federal, nos termos de seu art. 1º. 2. No caso, a ação anulatória de ato administrativo c/c repetição de indébito foi ajuizada em desfavor da Coordenadoria Estadual de Proteção de Defesa do Município de Maringá, em decorrência do exercício do poder de polícia do Procon/PR, sendo, portanto, inaplicável a Lei n. 9.873/1999, consoante entendimento firmado por esta Corte, sujeitando-se, por conseguinte, ao prazo prescricional qüinqüenal previsto no Decreto n. 20.910/1932. 3. Agravo regimental não provido.” (AgRg no AREsp 509.704/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/06/2014, DJe 01/07/2014)
+
+Afere-se, portanto, a inaplicabilidade do prazo previsto no artigo 1º, §1º, da Lei nº 9.873/99 no ambiente administrativo local. Aplica-se ao caso o enunciado genérico, mediante construção interpretativa sistemática, constante do artigo 1º do Decreto nº 20.910/32, que fixa o prazo quinquenal para as pretensões aviadas em desfavor da Fazenda Pública, ensejando que o mesmo interregno seja aplicado quando é a titular do direito em execução. Esse normativo, trasladando-se as disposições que veiculam para a espécie, coaduna-se com a regulamentação específica acerca da política ambiental, no âmbito do Distrito Federal, a saber, a Lei Distrital nº 41/1989, que ensejara a lavratura do auto de infração individualizado.
+
+De acordo com o disposto em aludido instrumento legal, prevê idêntico prazo para o implemento da prescrição da pretensão punitiva pela Administração Distrital, consoante se depreende do preceituado em seu artigo 65[5]. O regulamento legal, a seu turno, albergara hipótese de suspensão da prescrição diante da existência de processo administrativo em curso volvido à apuração dos fatos imputados ao administrado, estabelecendo que o prazo não flui enquanto em trânsito o procedimento administrativo. Essa é a exegese possível da leitura do artigo 4º do Decreto Federal nº 20.910/32[6] e da literalidade do disposto no artigo 65, § 2º da aludida Lei Distrital nº 41/1989, adiante transliterado:
+
+“Art. 65. As infrações às disposições legais e regulamentares de ordem ambiental prescrevem em 5 (cinco) anos.
+
+§1º A prescrição interrompe-se pela notificação ou outro ato da autoridade competente que objetive a sua apuração e consequente imposição de pena.
+
+§2º Não corre o prazo prescricional enquanto houver processo administrativo pendente de decisão.”
+
+Diante da textualidade do prefixado na legislação de regência, sobeja patente que ressoa possível a aplicação do disposto na Súmula nº 467 do Superior Tribunal de Justiça[7], que se amolda à hipótese vertente, pois a pendência de resolução de recurso administrativo exsurge como causa suspensiva da prescrição da pretensão punitiva. Esse, aliás, o entendimento sufragado por esta Casa de Justiça, consoante se depreende dos arestos adiante ementados:
+
+“APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. INFRAÇÃO SANITÁRIA. PROCESSO ADMINISTRATIVO SANITÁRIO. LEI FEDERAL Nº 6.437/1977. DECRETO DISTRITAL Nº 32.568/2010. PRESCRIÇÃO INTERCORRENTE. INEXISTENTE. INAPLICABILIDADE DA LEI FEDERAL Nº 9.873/1999. MULTA. PATAMAR ADEQUADO. FALTA DE INTERESSE RECURSAL. 1. A Lei Distrital nº 5.321/2014, que institui o Código de Saúde do Distrito Federal, estabelece em seu art. 118, §5º, que ‘as infrações, as penalidades, os procedimentos e o processo administrativo sanitário são regidos pelo disposto na Lei Federal nº 6.437, de 20 de agosto de 1977.’ 2. O art. 38, §2º, da Lei Federal nº 6.4347/1977 estabelece que ‘não corre o prazo prescricional enquanto houver processo administrativo pendente de decisão’, tendo referida disposição sido replicada ipsis litteris no Decreto Distrital nº 32.568/2010, art. 285 e §§, que atualizou o Código Sanitário do Distrito Federal. 3. Dentro desse contexto, não há que se falar em aplicabilidade da Lei Federal nº 9.873/1999, tal como alegado pelo autor, uma vez que há expressa previsão em norma distrital sobre a questão em debate. 4. Tendo a multa administrativa sido fixada em estrita observância aos ditames legais e dentro do patamar requerido pelo autor em seu recurso, patente é a falta de interesse recursal. 5. Apelo parcialmente conhecido e não provido.” (Acórdão 1244307, 07023027120198070018, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 22/4/2020, publicado no DJE: 6/5/2020. Pág.:  Sem Página Cadastrada.)
+
+“APELAÇÃO. PROCESSO ADMINISTRATIVO. DISTRITO FEDERAL. INFRAÇÕES SANITÁRIAS. PRODUTOS ALIMENTÍCIOS PERECÍVEIS. AUTUAÇÃO. MULTA. PRESCRIÇÃO INTERCORRENTE. VALORAÇÃO. I - A Lei 9.873/99, consoante dispõe seu art. 1º, caput, refere-se à prescrição da pretensão punitiva no exercício do poder de polícia tão somente da Administração Pública Federal. Logo, não se aplica no âmbito do Distrito Federal a prescrição intercorrente estabelecida no §1º do citado artigo. II - Consoante legislação aplicável ao Distrito Federal, tratando-se de infração de ordem sanitária, não corre o prazo prescricional enquanto houver processo administrativo pendente de decisão. Art. 38, §2º, da Lei 6.437/77 e art. 285, §1º, do Decreto Distrital 32.568/10. Rejeitada alegação de prescrição intercorrente. III - A multa pelas infrações sanitárias foi valorada pela Diretoria de Vigilância Sanitária da SES/DF em estrita conformidade com os limites legais para a classificação gravíssima, considerando-se ainda a gravidade do fato, diante das suas consequências para a saúde pública; os antecedentes do apelante-infrator e a reincidência, pela 22ª vez, sopesando-se, ademais, a capacidade econômica do ofensor. Art. 2º, §1º, inc. III e §3°; art. 4º, inc. III; art. 6º, incs. II e III e art. 8º, incs. I e V, e parágrafo único, todos da Lei 6.437/77. IV - Apelação desprovida.” (Acórdão 1228143, 07043587720198070018, Relator: VERA  ANDRIGHI,  6ª Turma Cível, data de julgamento: 29/1/2020, publicado no DJE: 14/2/2020. Pág.:  Sem Página Cadastrada.)
+
+“APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. AUTO DE INFRAÇÃO SANITÁRIA. PRESCRIÇÃO ADMINISTRATIVA. INAPLICABILIDADE DA LEI Nº 9.873/99 NO DISTRITO FEDERAL. SUSPENSÃO DO PRAZO PRESCRICIONAL NA PENDÊNCIA DO EXAME DO RECURSO ADMINISTRATIVO. ARTIGO 285, §2º, DECRETO Nº 32.568/10, ARTIGO 38, § 2º, DA LEI Nº 6.437/77 E ARTIGO 4º, DO DECRETO Nº 20.910/32. PREJUDICIAL DE MÉRITO AFASTADA. SENTENÇA REFORMADA. MÉRITO APRECIADO. VALOR DA MULTA. LEGALIDADE, PROPORCIONALIDADE E RAZOABILIDADE. OBSERVÂNCIA. AUTO DE INFRAÇÃO E DECISÃO DE PENALIDADE DE MULTA MANTIDOS. PEDIDO ANULATÓRIO JULGADO IMPROCEDENTE.   1. Não se aplica a Lei nº 9.873/1999 às ações administrativas punitivas desenvolvidas por estados e municípios, em razão da limitação do âmbito espacial da lei ao plano federal, nos termos de seu art. 1º, de modo que o prazo prescricional é o quinquenal previsto na legislação específica (art. 285, §2º, Decreto nº 32.568/10, artigo 38, § 2º, da Lei Federal nº 6.437/77). 2. Cuidando-se de multa imposta em face de infração à legislação sanitária, não há que se falar em prescrição no curso do procedimento administrativo contencioso, de modo que o prazo prescricional quinquenal, tem o seu termo inicial quando da prolação de decisão definitiva, nos termos da legislação de regência. 3. Segundo o disposto no artigo 1.013, § 4º, do Código de Processo Civil, quando reformar sentença que reconheça a decadência ou a prescrição, o tribunal, se possível, julgará o mérito, examinando as demais questões, sem determinar o retorno do processo ao juízo de primeiro grau, como ocorre no caso. 4. O valor da multa é matéria afeta ao mérito administrativo, sopesada segundo o juízo de conveniência e oportunidade da Administração Pública, de modo que cabe ao Poder Judiciário somente o exame da legalidade e proporcionalidade do ato. 5. Verificando-se que o Poder Público, ao fixar a multa pela exposição à venda de produtos impróprios ao consumo em razão da temperatura inadequada para o acondicionamento, observou a presença de duas circunstâncias agravantes, previstas nos incisos I e V do artigo 8º da Lei Federal nº 6.437/77, quais sejam, ser o infrator reincidente genérico e, se, tendo conhecimento de ato lesivo à saúde pública, deixar de tomar as providências de sua alçada tendentes a evitá-lo, tendo sido igualmente observado que o infrator reincidiu pela 32ª vez e a gravidade do fato, tendo em vista as suas consequências para a saúde pública, bem como a capacidade econômica do ofensor, o valor da penalidade deve ser mantido hígido, posto que não se verifica qualquer ilegalidade ou desproporcionalidade da cominação.   6. Apelação conhecida e provida. Prescrição afastada. Mérito analisado. Pedido inicial julgado improcedente.” (Acórdão nº 1211854, 07032293720198070018, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 23/10/2019, publicado no DJE: 18/11/2019. Pág.:  Sem Página Cadastrada.)
+
+Fica patente, pois, a insubsistência da argumentação desenvolvida pelo agravante. Diante da interposição de recurso administrativo em face do auto lavrado em seu desfavor, enquanto estivera em trânsito a prescrição, por certo, não fluíra, pois não pode, em verdade, ser beneficiado por fato que criara e obter a extinção, por via transversa, da sanção que lhe fora imposta. Deve ser observada a textualidade dos diplomas legais incidentes à espécie, acima individualizados, donde ressoa inexorável a inviabilidade de reconhecimento da prescrição no caso concreto.
+
+Ora, o agravante fora autuado em 11.05.1999[8] e instaurado o procedimento administrativo correlato em 19.05.1999[9], sobrevindo decisão administrativa definitiva em 05.06.2015[10], não havendo que se cogitar de implemento do prazo prescricional, pois fora esse último marco que deflagrara o início da contagem do aludido prazo, e a execução fora ajuizada no dia 27.10.2015[11]. Portanto, segundo a regulação legal aplicável à espécie, não houvera a prescrição intercorrente no ambiente administrativo. Essa interpretação, aliás, se torna imperativa ante a constatação de que não se afigura viável que a própria parte crie fato apto a ensejar sua alforria da sanção que lhe fora imposta. Sob essa realidade, afere-se que o inconformismo não deve prosperar, pois destinado a desconstituir decisão que se conformara linearmente com o legalmente emoldurado, legitimando que seja desprovido o agravo.
+
+Com fundamento nos argumentos alinhados, nego provimento ao agravo, mantendo intacta a decisão arrostada. Custas pelo agravante.
+
+É como voto.
+
+[1] - ID Num. 41918906 - Pág. 24 (fl. 26) – execução fiscal –.
+
+[2] - ID Num. 41918906 - Pág. 1/2 (fls. 03/04) – execução fiscal.
+
+[3] - Lei nº 9.873/199. “Art. 1ºPrescreve em cinco anos a ação punitiva da Administração Pública Federal, direta e indireta, no exercício do poder de polícia, objetivando apurar infração à legislação em vigor, contados da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado. § 1º Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação, se for o caso.”
+
+[4] CARVALHO, Raquel Melo Urbano de. Curso de Direito Administrativo, 2ª Ed. Jus Podivm, Bahia, 2009, p. 514.
+
+[5] - “Art. 65. As infrações às disposições legais e regulamentares de ordem ambiental prescrevem em 5 (cinco) anos.”
+
+[6] - “Art. 4º Não corre a prescrição durante a demora que, no estudo, ao reconhecimento ou no pagamento da dívida, considerada líquida, tiverem as repartições ou funcionários encarregados de estudar e apurá-la.”
+
+[7] - “Súmula 467 - Prescreve em cinco anos, contados do término do processo administrativo, a pretensão da Administração Pública de promover a execução da multa por infração ambiental.”
+
+[8] - ID Num. 41918906 - Pág. 24 (fl. 26) – execução fiscal.
+
+[9] - ID Num. 41918906 - Pág. 23 (fl. 25) – execução fiscal.
+
+[10] - ID Num. 41918906 - Pág. 63 (fl. 65) – execução fiscal.
+
+[11] - ID Num. 41918906 - Pág. 1 (fl. 3) – execução fiscal.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME
