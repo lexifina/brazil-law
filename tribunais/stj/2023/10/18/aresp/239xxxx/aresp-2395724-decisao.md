@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por POLIMIX CONCRETO LTDA, URANIO CONCRETO LTDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/03/2023.
+Concluso ao gabinete em: 08/09/2023.
+Ação: declaratória de nulidade de protesto movida por COMUNIDADE EVANGÉLICA SARA NOSSA TERRA DO RIO DE JANEIRO, contra POLIMIX CONCRETO LTDA, URANIO CONCRETO LTDA e BANCO BRADESCO S/A.
+Sentença: julgou improcedentes os pedidos da inicial.
+Acórdão: deu provimento à apelação da parte agravada, nos termos da ementa:
+"APELAÇÃO CÍVEL. AÇÃO DE CANCELAMENTO DE PROTESTO DETÍTULO DE CRÉDITO. DUPLICATA. DIVERGÊNCIA ENTRE ASPARTES QUANTO À EMISSÃO DE TITULO. ENTREGA DAMERCADORIA EM LOCAL DIVERSO. ALEGAÇÃO DE AQUISIÇÃO DEMATERIAL POR TERCEIROS DESCONHECIDO UTILIZANDOINDEVIDAMENTE O NOME DA REQUERENTE PROTESTADA.ILEGITIMIDADE DO BANCO MANDATÁRIO SOMENTE EMDUPLICATAS SEM ACEITE. INSTITUIÇÃO FINANCEIRA QUE DEVEAGIR EM OBSERVÂNCIA AO DEVER DE CUIDADO. PRECEDENTESDO STJ. MATERIAL ENTREGUE E OBRA REALIZADA EM LOCALDIVERSO DA SEDE DO CONTRATANTE. INEXISTÊNCIA DE RELAÇÃOENTRE O BENEFÍCIARIO E A IGREJA CONTRATANTE. NECESSIDADEDE PRODUÇÃO DE PROVA DA IDONEIDADE NA CONTRATAÇÃO PARACONFIGURAR A LEGITIMIDADE DA COBRANÇA. REALIZAÇÃO DEPERÍCIA GRAFOTÉCNICA NO CONTRATO DE COMPRA DOMATERIAL QUE ATESTA A CONVERGÊNCIA NAS ASSINATURAS DOREPRESENTANTE DA IGREJA QUE FIGURA COMO CONTRATANTE,NO ENTANTO, RESSALTA AUSÊNCIA DOS ORIGINAIS NÃOAPRESENTADOS PELO CONTRATADO E QUE AS CÓPIAS PERICIADASAPONTAM PARA A ILEGIBILIDDADE DOS CAMPOS DEPREENCHIMENTO NÃO PERMITINDO AFIRMAR A IDONEIDADE DODOCUMENTO EM SI. CONCLUSÃO DE QUE AS ASSINATURAS PODEMOU NÃO TER SIDO FIRMADAS NAQUELE CONTEÚDO APRESENTADOEM CÓPIA. APRESENTAÇÃO DE NOTAS SEM ACEITE EM QUE PESE ADECLARAÇÃO DAS TESTEMUNHAS TAL FATO CONFIRMA AENTREGA DO MATERIAL, PORÉM NÃO A LEGITIMIDADE DACONTRATAÇÃO DO EXECUTADO. AUSÊNCIA DE CARACTERÍSTICANECESSÁRIA PARA CONFIGURAR TÍTULO EXECUTIVOEXTRAJUDICIAL EM CONTRATO FIRMADO PELAS PARTES, SEMFIRMA DOS FIADORES/TESTEMUNHAS. IN CASU, DEVE SERRECONHECIDA A INEXIGIBILIDADE DE TÍTULO EXECUTIVOEXTRAJUDICIAL A AMPARAR A PRETENSÃO EXECUTÓRIA.SENTENÇA QUE SE REFORMA. RECURSO QUE SE DÁ PROVIMENTO." (e-STJ fl. 978)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: além de pedido de nulidade do acórdão recorrido, sustenta que as notas fiscais foram emitidas, o serviço entregue e realizado pelo ora recorrente, as duplicatas foram disponibilizadas inclusive sido assinadas com o devido comprovante de entrega, conforme reconhecido em prova testemunhal e quirografária. Aduz que a Lei 5.474/68 permite a executividade da duplicata sem aceite, autorizando, de plano, a sua cobrança judicial pelo processo executivo quando o título (duplicata), que tenha sido protestado, mediante indicação do credor, esteja acompanhando de documento hábil comprobatório da entrega e recebimento da mercadoria. Afirma que a mercadoria foi entregue adequadamente e com a assinatura constante do canhoto da Nota Fiscal de entrega constitui indubitável elemento probante que instrumentalizou Execução, haja vista a presunção legal de legitimidade que emana do título executivo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da alegação genérica de ofensa à lei
+A agravante alega, genericamente, violação da Lei 5.474/68, deixando de indicar especificamente qual dispositivo legal foi violado pelo acórdão recorrido. Incide na hipótese a Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 983) para 13%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE PROTESTO. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF.
+1. Ação declaratória de nulidade de protesto.
+2. O recurso especial não pode ser conhecido quando a alegação de ofensa à lei for genérica.
+3. Agravo conhecido. Recurso especial não conhecido.
