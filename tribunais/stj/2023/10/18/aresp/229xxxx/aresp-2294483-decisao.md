@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de retorno dos autos da origem para apreciação de agravo em recurso especial apresentado por SANDRA APARECIDA DE LIMA CASTRO e OUTRO contra decisão que inadmitiu recurso especial, conforme certidão de fl. 618.
+Relatado o essencial. Decido.
+Compulsando os autos, verifica-se que o Tribunal de origem constatou a existência de autuação em duplicidade do agravo em recurso especial interposto por SANDRA APARECIDA DE LIMA CASTRO e ADRIANA GLORIA DE LIMA em face da decisão de inadmissibilidade (fls. 551/556) do recurso especial.
+Dessa forma, o Tribunal proferiu os despachos de fls. 519, 563 e 564, determinando a invalidação do incidente de nº 0006414-20.2014.8.16.0190 Pet 4/ 0006414-20.2014.8.16.0190 AREsp 06 (petição de agravo em recurso especial acostada às fls. 515/518) e o prosseguimento do trâmite quanto ao incidente de nº 0006414-20.2014.8.16.0190 AREsp 07 (petição de agravo em recurso especial acostada às fls. 565/568).
+Devidamente apreciado pelo Superior Tribunal de Justiça o agravo em recurso especial de fls. 565/568, a decisão de fls. 592/594, que não conheceu do agravo por falta de impugnação dos fundamentos da decisão agravada, transitou em julgado e os autos foram baixados à origem.
+Em seguida, os autos retornaram ao STJ, com nova documentação (fls. 598/617) enviada pelo Tribunal de Justiça do Estado do Paraná, a fim de que fosse analisada a petição de agravo em recurso especial de fls. 600/603, de autoria de SANDRA APARECIDA DE LIMA CASTRO e ADRIANA GLORIA DE LIMA.
+No entanto, o conteúdo da referida petição, inclusive a data de protocolo do recurso, possui idêntico teor ao das petições dos agravos anteriormente mencionados. Além disso, consta na página 2 do documento ora analisado a informação "Transferido do Recurso 0006414-20.2014.8.16.0190 Pet 4"(e-STJ Fl. 599).
+Ao que se vê, ainda que não se possa precisar que o agravo de fls. 600/603 corresponda ao incidente de nº 0006414-20.2014.8.16.0190 Pet 4/ 0006414-20.2014.8.16.0190 AREsp 06, que já fora invalidado pela origem, incide ao caso o instituto da preclusão consumativa, dado que já houve a devida prestação jurisdicional pelo Superior Tribunal de Justiça.
+Feitas essas considerações, determino a devolução dos autos ao Tribunal de Justiça do Estado do Paraná.
+Publique-se. Intimem-se.
