@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agra vo em recurso especial (fls. 213-224) interposto por BANCO VOLKSWAGEN S.A. contra decisão (fls. 207-208) que inadmitiu recurso especial com fundamento na Súmula n. 83 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial (fls. 180-193), fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Cível 5004721-81.2021.8.24.0113) nos autos de ação de busca apreensão em contrato de financiamento de veículo com garantia de alienação fiduciária.
+O julgado foi assim ementado (fl. 172):
+APELAÇÃO. AÇÃO DE BUSCA E APREENSÃO. SENTENÇA QUE INDEFERIU A PETIÇÃO INICIALE EXTINGUIU O FEITO SEM RESOLUÇÃO DE MÉRITO. INSURGÊNCIA DA INSTITUIÇÃOFINANCEIRA AUTORA.
+ALEGAÇÃO DE REGULARIDADE DA COMPROVAÇÃO DA CONSTITUIÇÃO EM MORA. ACOLHIMENTO IMPOSSÍVEL. NOTIFICAÇÃO EXTRAJUDICIAL QUE RETORNOU PELO MOTIVO "DESCONHECIDO". MORA NÃO CONSTITUÍDA.
+PREQUESTIONAMENTO. DESCABIMENTO.
+HONORÁRIOS RECURSAIS. DESCABIMENTO. CRITÉRIOS CUMULATIVOS ESTABELECIDOSPELO STJ NÃO ATENDIDOS (AGINT NOS ERESP N. 1539725/DF).
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta divergência jurisprudencial e alega negativa de vigência do art. 2º, § 2º, do Decreto-Lei n. 911/1969.
+Defende a regular comprovação da mora da devedora/recorrida, que decorre do simples vencimento do prazo para pagamento; bem como a validade da notificação expedida ao endereço fornecido pela contratante no ato da celebração do negócio, ante a incidência dos princípios contratuais da lealdade e da boa-fé.
+Sustenta que o acórdão combatido, ao reconhecer que a constituição em mora da recorrida não foi demonstrada, porquanto enviada correspondência sem o regular recebimento da devedora, divergiu do entendimento do Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação 0710506-43.2019.8.07.0006), no sentido de que é considerada válida a notificação enviada com aviso de recebimento ao endereço do devedor constante do contrato, ainda que por ele não recebida.
+Requer a reforma do acórdão para que se reconheça a validade da notificação encaminhada ao endereço do contrato, com o prosseguimento do feito.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Para os contratos garantidos por alienação fiduciária, embasados pelo Decreto-Lei n. 911/1969, o Superior Tribunal de Justiça firmou o entendimento de que a mora se configura automaticamente, quando vencido o prazo para o pagamento - mora ex re -, isto é, decorre do não pagamento dentro do prazo. Ou seja, o devedor estará em mora quando deixar de efetuar o pagamento no tempo, lugar e forma contratados (arts. 394 e 396 do Código Civil).
+Portanto, incumbe ao credor comprovar tão somente o envio da carta registrada com aviso de recebimento ao endereço indicado no contrato, não sendo necessária a demonstração do efetivo recebimento, quer seja pelo próprio destinatário, quer seja por terceiros.
+Registre-se que a Segunda Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 1.132), fixou entendimento no sentido de que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros. Veja-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto: Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido. (REsp n. 1.951.662/RS, relator para o acórdão Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/8/2023.)
+Essa conclusão aplica-se a situações diversas, por exemplo, quando a notificação enviada ao endereço do devedor retorna com aviso de "ausente", de "mudou-se", de "insuficiência do endereço do devedor" ou de "extravio do aviso de recebimento", reconhecendo-se que cumpre ao credor comprovar tão somente o envio da notificação com aviso de recebimento ao endereço do devedor indicado no contrato, sendo irrelevante a prova do recebimento (REsp n. 1.951.662/RS e REsp n. 1.951.888/RS, submetidos ao rito dos repetitivos).
+No caso, o Tribunal local manteve a sentença, que extinguira a ação de busca e apreensão ao fundamento de não ter sido demonstrada a regular constituição da devedora em mora, porquanto não entregue a notificação no endereço declinado pela fiduciante. Confira-se (fl. 174):
+Dito isto, percebe-se, no caso concreto, que a instituição financeira apelante, ao ajuizar a ação, apresentou como prova da mora do devedor notificação extrajudicial encaminhada ao endereço fornecido no ato da assinatura do contrato, na qual consta, expressamente, que não foi entregue pelo motivo "desconhecido" (evento 1, NOT6).
+Dessa forma, uma vez que a notificação não foi de fato entregue, a cientificação do devedor não foi perfectibilizada e, consequentemente, ausente a constituição em mora.  ..
+Por essas razões, deve ser mantida a sentença.
+Observa-se que o Tribunal a quo afirmou que não houve a constituição em mora da devedora por falta de comprovação nos autos de que a notificação fora efetivamente entregue no endereço indicado no contrato.
+Esse entendimento diverge da jurisprudência do STJ, uma vez que o Tribunal de origem não considerou válida a notificação enviada ao endereço constante do contrato, apta a configurar a mora mesmo sem a comprovação de recebimento pelo devedor ou por terceiro.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e determinar o prosseguimento do feito na origem, diante da regular constituição em mora da devedora.
+Publique-se. Intimem-se.
+EMENTA
