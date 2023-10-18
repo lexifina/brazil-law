@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANDREA BARBOSA DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2204088-63.2023.8.26.0000.
+Consta dos autos que o Juízo das Execuções indeferiu o pedido de prisão domiciliar à paciente, sob o fundamento de não haver "elementos de prova idôneos capazes de demonstrar, claramente que a criança de fato seja submetida a cuidados especiais e exclusivos da avó" (fl. 18).
+Irresignada, a defesa impetrou prévio writ na Corte de origem, que denegou a ordem, consignando (fl. 16):
+"Ainda que se permitisse a concessão da prisão domiciliar aos condenados que cumprem pena em regime fechado, tal hipótese, conforme jurisprudência dos Tribunais Superiores é excepcional, devendo ser comprovada a real necessidade da medida, o que também não ocorre no caso, uma vez que não restou comprovada a imprescindibilidade da paciente para os cuidados do neto."
+O julgamento está acostado às fls. 12/17.
+Em suas razões, a impetrante assevera que "a segregação cautelar se mostra absurdamente desproporcional, sobretudo em conta da condição de responsável e única cuidadora de 01 (UMA) criança de apenas 04 (QUATRO) anos de idade em que se apresenta a paciente" (fl. 7).
+Requer, assim, em sede liminar e no mérito, "a concessão da prisão domiciliar à paciente, com fundamento no artigo 318, inciso V, 318-A e 318-B, todos do Código de Processo Penal" (fl. 10).
+É o relatório.
+Decido.
+O pedido comporta julgamento antecipado.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque, diversamente do que afirma a impetrante, a leitura atenta dos autos revela que o decreto condenatório da paciente já transitou em julgado, não havendo que se falar em segregação cautelar.
+Noutro enfoque, não se desconhece que "o Superior Tribunal de Justiça tem decidido que é possível o deferimento de prisão domiciliar ao sentenciado recolhido no regime fechado ou semiaberto sempre que a peculiaridade concreta do caso demonstrar sua imprescindibilidade" (HC 404.006/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/11/2017, DJe 22/11/2017).
+A despeito do entendimento jurisprudencial que permite a concessão da prisão domiciliar humanitária, mesmo em regime fechado ou semiaberto, no caso, as instâncias ordinárias, com base nos elementos probatórios carreados aos autos, concluíram que a paciente não se encontra inserida em nenhuma circunstância extrema ou peculiar que ensejasse a concessão da benesse.
+A modificação deste ente ndimento não poder ser feita na via eleita, por ser necessário o exame aprofundado de provas, o que é vedado dentro dos estreitos limites do remédio heroico.
+Nesse diapasão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO HUMANITÁRIA DOMICILIAR. IMPOSSIBILIDADE. CASO CONCRETO: PENA DEFINITIVA EM REGIME FECHADO. DIVERSOS CRIMES GRAVES. AUSÊNCIA DE COMPROVAÇÃO DA EFETIVA ESSENCIALIDADE DA MEDIDA. LAUDOS QUE ATESTAM A POSSIBILIDADE DE TRATAMENTO NO CÁRCERE OU EM HOSPITAL DE CUSTÓDIA. AMPLO REVOLVIMENTO FÁTICO-PROBATÓRIO INCOMPATÍVEL COM A VIA ESTREITA DO WRIT. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO IN CASU. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. INTIMAÇÃO PARA ACOMPANHAMENTO DE SESSÃO E ENTREGA DE MEMORIAIS. DESCABIMENTO. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - No caso dos autos, foi devidamente esclarecido que o regime de cumprimento de pena em que se encontra, atualmente, o apenado (fechado), assim como a ausência de comprovação de que não poderia ser tratado no cárcere ou em hospital de custódia (os laudos atestam justamente o contrário) inviabilizam a concessão da ordem para a prisão domiciliar humanitária.
+III - Ainda, embora a d. Defesa tenha como certa a futura alta hospitalar do agravante, trata-se de situação que sequer se configurou ou mesmo foi debatida a quo.
+IV - Afastada qualquer flagrante ilegalidade in concreto, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório da execução penal de origem nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 692.026/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 4/11/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ART. 117 DA LEP. 1) NÃO DEMONSTRADA A IMPRESCINDIBILIDADE DO AGRAVANTE NOS CUIDADOS DA SUA GENITORA. 2) AUSÊNCIA DE INCOMPATIBILIDADE ENTRE O TRATAMENTO DO APENADO - ACOMETIDO DE DOENÇA PSICOLÓGICA - E O ENCARCERAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o Juízo da Execução Penal indeferiu o pedido de prisão domiciliar humanitária ao Agravante, que cumpre pena reclusiva de 6 (seis) anos no regime inicial semiaberto pelo cometimento do delito de tráfico de drogas.
+2. O Superior Tribunal de Justiça tem entendimento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos Condenados recolhidos no regime fechado ou semiaberto desde que demonstrada a excepcionalidade do caso concreto que demonstre a imprescindibilidade da medida, situação afastada pelas instâncias ordinárias, no caso em exame.
+3. Ademais, para se afastar as conclusões que justificaram a negativa do pedido de prisão domiciliar ao Agravante, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível na via estreita do habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 592.361/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1/3/2021.)
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO PENAL. PANDEMIA DE COVID-19, CAUSADA PELO NOVO CORONAVÍRUS. PEDIDO DE PRISÃO DOMICILIAR FUNDADO NA RESOLUÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. JUIZ DA VARA DE EXECUÇÕES PENAIS - MAIS PRÓXIMO DA REALIDADE CARCERÁRIA DA LOCALIDADE - QUE AFASTOU FUNDAMENTADAMENTE A POSSIBILIDADE DE PERIGO IMINENTE À SAÚDE DO SENTENCIADO. CONTEXTO DE MAIOR RISCO NÃO DEMONSTRADO. PARECER DA PROCURADORIA-GERAL DA REPÚBLICA ACOLHIDO. RECURSO DESPROVIDO.
+ ..
+5. O art. 117 da Lei de Execução Penal prevê a prisão domiciliar, dentre outros casos, ao Condenado acometido de doença grave, que cumprem pena em regime aberto, requisitos, a princípio, não preenchidos pelo Paciente. Para a prisão domiciliar humanitária, exige-se a comprovação dos requisitos legalmente previstos e a constatação da necessidade excepcional da medida, como no caso de inexistência de assistência necessária ao Apenado no interior do estabelecimento prisional - o que não é o caso dos autos, uma vez que não demonstrado que o Custodiado não receba o devido tratamento ou que seu estado de saúde esteja debilitado.
+6. Outrossim, a despeito de a Defesa alegar maior vulnerabilidade do Recorrente, não ocorre, na hipótese, a demonstração concomitante de "a) sua inequívoca adequação no chamado grupo de vulneráveis do COVID19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco do que o ambiente em que a sociedade está inserida" (STJ, AgRg no HC 566.322/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020; sem grifos no original). Não há desconsideração, portanto, das recomendações da Resolução n. 62/2020 do Conselho Nacional de Justiça, para que a situação de risco do Segregado seja analisada individualmente.
+7. Parecer da Procuradoria-Geral da República acolhido. Recurso desprovido.
+(RHC 128.081/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 02/09/2020).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
