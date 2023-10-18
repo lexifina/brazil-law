@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDSON TEIXEIRA GONCALVES JUNIOR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - CONTRAVENÇÃO PENAL DE VIAS DE FATO - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE, AUTORIA E DOLO COMPROVADOS - RECURSO NÃO PROVIDO.
+Quanto à controvérsia recursal, a parte recorrente alega violação do art. 11 da Lei de Contravenções Penais, no que concerne à necessidade de modificação do período de suspensão da pena imposta ao recorrente pela contravenção penal de vias de fato, pois tal lapso temporal corresponde ao dobro do mínimo previsto em lei, revelando-se desproporcional, trazendo a seguinte argumentação:
+Como dito anteriormente, verifica-se que o e. Tribunal de Justiça de Minas Gerais contrariou dispositivo de lei federal, mais precisamente o art. 11 do Decreto-Lei 3.68811 941, julgando a causa de forma diversa do que está expresso de forma clara no texto.
+Ao condenar o recorrente pela contravenção penal de vias de fato, a sentença apelada concedeu a suspensão condicional da pena, fixando dois anos como período de prova. Contudo, o prazo estabelecido para o periodo de prova corresponde ao dobro do minimo previsto em lei, nos termos do art. 11 do Decreto- Lei nº 3.68811941. Na sentença apelada não há qualquer motivação para a fixação do referido prazo de período de prova.
+Embora o prazo estabelecido para o período de prova esteja compreendido entre aquele previsto na Lei de Contravenções Penais, não há qualquer justificativa para sua fixação no dobro do mínimo previsto em lei, notadamente diante da pequena quantidade de pena aplicada, apenas dois dias acima da pena minima cominada ao fato.
+Foi dito na sentença, confirmada pelo acórdão, tão somente:
+"(..) concedo ao réu o benefício do sursis, pelo prazo de 02 (dois) anos" (fI. 69, verso).
+Não houve, portanto, qualquer fundamentação quanto ao prazo fixado para o período de prova. Assim, há clara violação também ao disposto no art. 11 da Lei das Contravenções Penais.
+Portanto, não há dúvida que o v. acórdão guerreado negou vigência a dispositivo de lei federal, ensejando a intervenção do egrégio Superior Tribunal de Justiça na causa (fl. 167).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; AgInt no AREsp n. 953.171/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/8/2022; AgInt no AREsp n. 1.506.939/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/8/2022; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no REsp n. 2.004.417/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
