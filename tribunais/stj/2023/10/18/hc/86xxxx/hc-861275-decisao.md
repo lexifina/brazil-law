@@ -1,0 +1,35 @@
+DECISÃO
+Estes autos foram a mim distribuídos em razão de conexão com o HC n. 797.720/MG.
+Trata-se de habeas corpus impetrado em favor de Robson Silva de Oliveira, no qual se aponta como órgão coator o Tribunal de Justiça de Minas Gerais, que julgou prejudicado o writ ali impetrado (HC n. 1.0000.23.007052-6/000 - fls. 59/63), em acórdão assim ementado (fl. 59):
+HABEAS CORPUS - CRIME DE TRÁFICO - PRISÃO PREVENTIVA - RELAXAMENTO PELA AUTORIDADE COATORA - EXPEDIÇÃO DE ALVARÁ DE SOLTURA EM FAVOR DO PACIENTE - PEDIDO PREJUDICADO.
+- Constatado que paciente não mais se encontra em prisão preventiva e, considerando que o motivo que ensejou a impetração do writ foi o pleito de revogação desta, tenho que houve perda do objeto do habeas corpus.
+Opostos embargos declaratórios, foram acolhidos, com efeitos infringentes, passando o dispositivo do acórdão a ser transcrito nos seguintes termos: "Pelo exposto, não conheço do habeas corpus no que se refere a alegação de nulidade das provas, diante da inadequação da via eleita, e na parte conhecida, julgo prejudicado, no tocante ao pedido de revogação da prisão preventiva, diante da superveniência de decisão proferida pelo Superior Tribunal de Justiça (fl. 26).
+Nesta Casa, a defesa alega que a ausência de manifestação do Tribunal de origem acerca do pedido formulado na impetração originária configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não necessita de revolvimento de matéria probatória, envolvendo apenas questão de direito (fl. 5). Sustenta que o Tribunal de Justiça de Minas Gerais não conheceu da impetração sob o fundamento de haver o recurso cabível para a modificação de decisões. Descumprindo jurisprudência pacificada nesta corte (fl. 6).
+Nesses termos, requer o deferimento de liminar determinando a suspensão do feito até a análise do HC impetrado pelo paciente. Nesse sentido, também requer a concessão da ordem de ofício determinando que o Tribunal de Justiça de Minas Gerais manifeste-se sobre o mérito do HC impetrado pelo paciente (fl. 8).
+É o relatório.
+O presente pedido comporta pronto atendimento.
+Com efeito, a defesa tem alegado a ocorrência de nulidade, pois as provas teriam sido obtidas por meio de indevida invasão de domicílio, sendo que o acórdão proferido no âmbito dos embargos de declaração assim decidiu (fls. 23/25 - grifo nosso):
+Sustenta o impetrante a ilicitude das provas constantes nos autos originários, sob o fundamento de que foram obtidas mediante invasão de domicílio, por desvio de finalidade da ordem judicial que determinava a apreensão do celular do paciente.
+Em que pese os fundamentos sustentados pela defesa, esclareço que me reposicionei quanto à possibilidade do emprego do habeas corpus como sucedâneo recursal, de modo a assentir com o entendimento adotado pelos Tribunais Superiores (Precedentes HC 213.935/RJ, rel. Min. Gilson Dipp, Euinta Turma, DJe 22/8/2012; e HC n. 150.499/SP, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 27/8/2012; HC n. 104.045/RJ, Rej. Min. Rosa Weber, Primeira Turma, DJe 6/9/2012).
+Isso porque, a utilização do presente remédio constitucional para impugnar qualquer decisão judicial desvirtua a intenção originária de resguardo do direito de ir e vir, além de acarretar morosidade na prestação jurisdicional.
+Ressalva-se, no entanto, a possibilidade de concessão da ordem, de ofício, nas situações de flagrante ilegalidade.
+ ..
+Frisa-se, a apreciação em sede de Habeas Corpus limita-se à legalidade ou não da coação na liberdade do paciente, não sendo o instrumento adequado quando se tratar de matéria atinente ao mérito da ação penal, como no presente caso.
+Como se vê, mesmo provocado a se manifestar por meio de embargos declaratórios, o Tribunal de origem não se pronunciou sobre a questão.
+Dessa forma, entendo que a ausência de manifestação do Tribunal a quo a respeito da alegada nulidade configura indevida negativa de prestação jurisdicional, pois sua apreciação é fundamental e pode ter influência direta na liberdade do paciente.
+Ora, apesar de não ser possível a utilização do habeas corpus em substituição de recurso ordinário, é possível a análise das teses defensivas a fim de verificar a existência ou não de coação ilegal na liberdade de locomoção.
+Com efeito, trata-se de questão relevante, devidamente suscitada na origem, motivo pelo qual os autos devem retornar ao Tribunal a quo para a devida apreciação do mérito do tema.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. TESE DE OFENSA À INVIOLABILIDADE DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO, TODAVIA, DE HABEAS CORPUS DE OFÍCIO DETERMINANDO O EXAME DA QUESTÃO PELA CORTE DE ORIGEM. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. PRETENSÃO DE EXAME DE DISPOSITIVO CONSTITUCIONAL PARA FINS DE PREQUESTIONAMENTO. NÃO CABIMENTO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, arrimada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista, por outro lado, a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. Precedentes.
+2. Conquanto a tese de ofensa à inviolabilidade de domicílio, suscitada no writ originário, não tenha sido efetivamente apreciada pela Corte de origem, foi concedido habeas corpus de ofício, diante da evidente negativa de prestação jurisdicional e da impossibilidade de análise direta do tema por esta Corte superior, sanando-se a ilegalidade.
+3. Tem-se por devidamente fundamentada a prisão preventiva, diante da gravidade concreta dos fatos, evidenciada especialmente pela relevante quantidade e diversidade das drogas apreendidas (1.728,97g de "maconha" e 80,01g de cocaína), o que justifica a prisão preventiva para a garantia da ordem pública, não havendo falar em substituição por medidas cautelares menos gravosas. Precedentes.
+4. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Agravo regimental improvido.
+(AgRg no RHC n. 149.926/MG, relator Ministro Olindo Menezes - Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 28/10/2021 - grifo nosso).
+Ante o exposto, concedo liminarmente a ordem para determinar que o Tribunal de Justiça de Minas Gerais analise o mérito do HC n. 1.0000.23.007052-6/001, com relação à alegada ocorrência de nulidade da prisão em flagrante e das provas obtidas mediante a suposta indevida invasão de domicílio, como entender de direito.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE NULIDADE. INVASÃO DE DOMICÍLIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
