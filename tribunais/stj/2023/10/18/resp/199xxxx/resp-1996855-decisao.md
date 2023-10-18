@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fls. 349/350):
+ILEGITIMIDADE DE PARTE  ATIVA  Ação de repetição de indébito tributário  Ocorrência em relação a um dos coautores  Taxas de limpeza, conservação e combate a sinistros do Município de São Paulo  Relação jurídico-tributária na qual não se insere o locatário do imóvel  Precedente do STJ  Extinção da ação que se impõe sem exame do mérito  Art. 267, VI do CPC. Recursos oficial e voluntário da Municipalidade parcialmente providos. Recurso dos autores não provido.
+TAXAS  Conservação e Limpeza  Município de São Paulo  Exercícios de 1992 a 1998  Ação de repetição de indébito tributário  Hipótese de não atendimento dos requisitos de especificidade e divisibilidade  Prescrição da pretensão que alcança, todavia, os valores pagos antes de 18.05.1995  Ente público que deve restituir os valores recolhidos e não alcançados pela prescrição. Recursos oficial e voluntário da Municipalidade parcialmente providos. Recurso dos autores não provido.
+TAXA  Combate a Sinistros  Exercícios de 1992 a 1998  Município de São Paulo  Ação de repetição de indébito tributário  Preenchimento dos requisitos da especificidade e divisibilidade  Precedentes jurisprudenciais  Sentença que se reforma nesse tocante. Recursos oficial e voluntário da Municipalidade parcialmente providos. Recurso dos autores não provido.
+JUROS MORATÓRIOS  Incidência a partir do trânsito em julgado da ação de repetição de indébito  Súmula nº 188 do STJ  Decisão mantida também neste aspecto. Recursos oficial e voluntário da Municipalidade parcialmente providos. Recurso dos autores não provido.
+CORREÇÃO MONETÁRIA  Utilização da UFIR  Legalidade  Aplicação até a data de prolação da sentença  Utilização da Tabela Prática do TJSP, após essa data. Recursos oficial e voluntário da Municipalidade parcialmente providos. Recurso dos autores não provido.
+Não foram apresentados embargos de declaração.
+No mérito do recurso (e-STJ fls. 365/370), o recorrente alega violação ao art. 5º da Lei n. 11.960/2009. Em síntese, busca sua aplicação ao caso concreto.
+As contrarrazões foram oferecidas (e-STJ fls. 373/383).
+O Tribunal de origem, ao examinar a possibilidade de retratação, manteve o julgado recorrido (e-STJ fls. 395/405).
+O recurso foi admitido às e-STJ fls. 404/405.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+O recurso especial tem origem em ação de repetição de indébito. Ao examinar a apelação, a Corte de origem assim decidiu a respeito da questão aqui debatida (e-STJ fls. 351/362):
+ ..
+No que diz respeito à fixação dos juros de mora e da correção monetária, não comporta acolhida, outrossim, o reclamo da Municipalidade em relação à aplicação do percentual de 0,5%, como se vê do entendimento do STJ, expressado no âmbito do REsp 1270439/PR (1ª Seção, Ministro Castro Meira, DJe 02/08/2013), cujo acórdão respectivo foi submetido ao regime do art. 543-C do CPC, e do qual se extrai:
+"(..)
+18. Em virtude da declaração de inconstitucionalidade parcial do art. 5º da Lei 11.960/09: (a) a correção monetária das dívidas fazendárias deve observar índices que reflitam a inflação acumulada do período, a ela não se aplicando os índices de remuneração básica da caderneta de poupança; e (b) os juros moratórios serão equivalentes aos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança, exceto quando a dívida ostentar natureza tributária, para as prevalecerão as regras específicas."
+No caso, à falta de informes em torno da existência de lei local disciplinando a matéria atinente aos juros, devem estes incidir, por equidade, à taxa de 1% ao mês, a teor do que dispõe o art. 161, §1, do CTN.
+Por conseguinte, é de se manter a fixação de juros moratórios em 1% (um por cento) ao mês, tal como determinado em sentença.
+Porém, no que diz respeito à correção monetária, um pequeno reparo se impõe.
+É que, relativamente à atualização monetária dos valores a serem devolvidos, deverão ser aplicados os mesmos índices de correção dos tributos até a prolação da sentença e, após, a Tabela Prática para cálculo de atualização monetária do Tribunal de Justiça do Estado de São Paulo.
+Logo, não havendo nos autos controvérsia sobre a utilização da UFIR pelo Município quando da atualização de seus créditos fiscais, há de ser aplicado esse índice na correção monetária até a data da sentença, aplicando-se a Tabela Prática desta Corte após essa data.
+ ..
+Em suma, pois, a sentença deve ser reformada tão-somente para se extinguir a ação no tocante a coautora Drogasil S/A, para se afastar a repetição de indébito no tocante à taxa de combate a sinistros e se aplicar, até a data da sentença, o índice UFIR na correção monetária dos valores a serem repetidos. No mais, confirma-se a decisão recorrida.
+Por derradeiro, para que dúvida alguma paire a respeito, consideram-se prequestionados todos os dispositivos jurídicos invocados nos recursos sob exame, assentando-se não ter o acórdão incidido em negativa de vigência aos mesmos.
+Na conformidade do exposto, em suma, e para os fins explicitados, então, meu voto propõe dar parcial provimento aos recursos oficial e voluntário da Municipalidade de São Paulo e negar provimento ao recurso dos demandantes.
+Pois bem.
+A pretensão não merece acolhida, pois " o art. 1º-F da Lei 9.494/1997, com a redação alterada pela Lei 11.960/2009, no ponto em que determina o cálculo de correção monetária e juros de mora pela adoção do índice oficial de remuneração da caderneta de poupança, não se aplica às condenações impostas à Fazenda Pública de natureza jurídico-tributária, para a qual prevalecerão as regras específicas" (AgInt no REsp n. 1.435.899/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 16/10/2018, DJe de 26/10/2018.).
+No tema, destaco, ainda:
+TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. ART. 1º-F DA LEI N. 9.494/1997, COM REDAÇÃO DADA PELA LEI N. 11.960/2009. INAPLICABILIDADE. JUÍZO DE CONFORMIDADE. 1. O Supremo Tribunal Federal, por ocasião do julgamento do RE 870.947, realizado pelo rito da repercussão geral, assentou o entendimento de que o art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei n. 11.960/2009, que estipula a correção monetária e os juros de mora de acordo com os índices utilizados para a atualização das cadernetas de poupança, não se aplica às condenações impostas à Fazenda Pública de natureza tributária.
+2. Agravo regimental não provido.
+(AgRg no AREsp n. 23.096/SP, de minha relatoria, Primeira Turma, julgado em 10/4/2018, DJe de 11/5/2018.)
+Incide in casu, portanto, a Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/08/2016, DJe 30/08/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
