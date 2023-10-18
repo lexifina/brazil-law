@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por EEC COMÉRCIO DE TECIDOS EIRELLI (EEC) contra acórdão do Tribunal de Justiça de São Paulo, de relatoria do Desembargador WALTER FONSECA, assim ementado
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - REJEIÇÃO DA IMPUGNAÇÃO À PENHORA DE ATIVOS ON LINE DE PESSOA JURÍDICA - INTANGIBILIDADE - O acervo patrimonial das empresas tem destinações diversas, inclusive com a finalidade de pagamento de credores e a distribuição de lucro, o que torna seus ativos financeiros penhoráveis - Hipótese em que a impenhorabilidade de depósitos bancários até o limite de 40 salários-mínimos é reservada apenas às pessoas físicas, para atender as suas despesas de subsistência, não se estendendo às pessoas jurídicas - Decisão mantida. Recurso desprovido (e-STJ, fls.1017).
+Irresignada, EEC interpôs recurso especial com base no art. 105, III, alínea a e c, da CF, alegando, além de dissídio jurisprudencial, violação ao art. 833, IV e X do NCPC, insurgindo-se contra a penhora de R$ 27.689,82 de sua conta, valores abaixo de 40 salários mínimos, alegando que fez por comprovar a destinação de tal numerário, a saber, para pagamento dos trabalhadores, fornecedores e tributos.
+Foram apresentadas contrarrazões (e-STJ Fl.1.056/1.061)
+É o relatório.
+DECIDO.
+Da alegada impenhorabilidade dos valores depositados em conta
+EEC alegou, além de dissídio jurisprudencial, a violação ao art. 833, IV e X do NCPC, ao se insurgir contra a penhora de R$ 27.689,82 de sua conta, por reputar tal valor abaixo de 40 salários mínimos, portanto protegidos pelos dispositivos infraconstitucionais informados, ainda mais porque fez comprovar a destinação de tal numerário, a saber, para pagamento dos trabalhadores, fornecedores e tributos.
+Na esteira dos precedentes desta Corte, em princípio, a regra da impenhorabilidade inserta no art. 833 X do CPC não se estende às pessoas jurídicas, eis que, todavia, devem comprovar a destinação do numerário, demonstrando sua imprescindibilidade para a manutenção da empresa.
+Nesse sentido
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE RECURSO. VALORES DEPOSITADOS EM APLICAÇÃO FINANCEIRA DA EMPRESA DEVEDORA. PROTEÇÃO DE PEQUENAS QUANTIAS POUPADAS ATÉ O LIMITE DE QUARENTA SALÁRIOS MÍNIMOS. INAPLICABILIDADE. PESSOAS JURÍDICAS. CONFORMIDADE DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que "a impenhorabilidade inserida no art. 833, X, do CPC/2015, reprodução da norma contida no art. 649, X, do CPC/1973, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor (pessoa física). Nesse sentido: " ..  a intenção do legislador foi proteger a poupança familiar e não a pessoa jurídica, mesmo que mantenha poupança como única conta bancária" (AREsp 873.585/SC, Rel. Ministro Raul Araújo, DJe 8/3/2017)" (AgInt no REsp 1.914.793/RS, Relator Ministro Herman Benjamin, DJe de 1º/7/2021).
+2. No caso, o Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos e da natureza da avença, concluiu a ausência de comprovação de que os recursos financeiros penhorados são imprescindíveis ao exercício da atividade empresarial exercida pela recorrente, sendo que a penhora sobre ativos financeiros existentes em conta bancária da agravante realizada no processo originário observou o regramento adequado à sua modalidade.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.141.177/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023 - sem destaque no original)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. BACENJUD. VALORES DE ATÉ 40 SALÁRIOS MÍNIMOS. REGRA DA IMPENHORABILIDADE NÃO ALCANÇA, EM REGRA, A PESSOA JURÍDICA. CASO DOS AUTOS. VALOR IRRISÓRIO. DESBLOQUEIO. NÃO CABIMENTO.
+(..)
+5. A impenhorabilidade inserida no art. 833, X, do CPC/2015, reprodução da norma contida no art. 649, X, do CPC/1973, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor (pessoa física). Nesse sentido: " ..  a intenção do legislador foi proteger a poupança familiar e não a pessoa jurídica, mesmo que mantenha poupança como única conta bancária" (AREsp 873.585/SC, Rel. Ministro Raul Araújo, DJe 8/3/2017).
+6. Conforme já assentado na decisão monocrática, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que não se pode obstar a penhora on-line pelo sistema Bacenjud a pretexto de que os valores bloqueados seriam irrisórios.
+7. Agravo Interno não provido.
+(AgInt no REsp n. 1.914.793/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/6/2021, DJe de 1/7/2021 - sem destaque no original)
+Sobre o tema proposto, o TJSP ainda consignou que
+(..) a agravante nada comprovou nos autos do processo de origem quanto ao destino que pretendia dar ao numerário bloqueado, sendo que o extrato somente agora juntado nas razões recursais (fls. 10) não se presta à comprovação da sua destinação, porquanto referente à folha de pagamento de abril de 2022, e o bloqueio ocorreu três meses depois, entre 11/07 e 08/08,conforme fls. 546/558, dos autos do processo de origem (e-STJ Fl.1021).
+Assim, rever as conclusões do acórdão recorrido quanto à destinação dos valores bloqueados demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+O recurso, portanto, não merece que dele se conheça.
+Salienta-se que, de acordo com o pacífico entendimento desta Corte Superior, os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando, portanto, prejudicada a apreciação do dissídio jurisprudencial.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do N CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TÍTULO EXTRAJUDICIAL. IMPUGNAÇÃO À PENHORA. REJEIÇÃO. ATIVOS DE PESSOA JURÍDICA. IMPENHORABILIDADE. AFASTAMENTO. DISCUSSÃO. IMPOSSIBILIDADE. REEXAME DOS ASPECTOS FÁTICOS DA CONTROVÉRSIA. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICIALIDADE. RECURSO ESPECIAL NÃO CONHECIDO.
