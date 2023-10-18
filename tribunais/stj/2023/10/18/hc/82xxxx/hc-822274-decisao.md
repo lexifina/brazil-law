@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WILLIAN KRUGER BARBOSA contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente foi preso em flagrante e teve a prisão convertida em preventiva pela prática, em tese, dos crimes previstos no art. 33 da Lei n. 11.343/2006 e art. 180 do Código Penal- preso com "20 petecas de cocaína" - fl. 25.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão do paciente para a garantia da ordem pública em razão do risco de reiteração delitiva: WILLIAN está respondendo a processo por crime de roubo qualificado e tráfico de entorpecentes"(fl. 25).
+Alega a defesa, no presente writ, em linhas gerais: a) ausência de qualquer investigação face o paciente e o suposto envolvimento com o tráfico de drogas, que o paciente é usuário; b) que a quantidade de droga é infima; c) ausência de fundamentação idônea da decisão que decretou a segregação cautelar, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 122-123.
+As informações foram prestadas às fls. 129-135 e 137-162.
+O Ministério Público Federal, às fls. 166-170, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MEDIDA DESPROPORCIONAL. PEQUENA QUANTIDADE DE DROGA. AÇÃO PENAL EM CURSO. PERICULUM LIBERTATIS QUE PODE SER TUTELADO PELAS CAUTELARES ALTERNATIVAS DO ART. 319 DO CPP. CONSTRANGIMENTO ILEGAL EVIDENCIADO. NÃO CONHECIMENTO DO WRIT, CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, PARA REVOGAR A PRISÃO PREVENTIVA DO PACIENTE E APLICAR MEDIDAS CAUTELARES DIVERSAS" (fl. 166).
+É o relatório. DECIDO.
+In casu, consta do decreto prisional que "WILLIAN está respondendo a processo por crime de roubo qualificado e tráfico de entorpecentes"(fl. 25).
+Ressalte-se que:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023, grifei)
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Quanto a alegação de ausência de qualquer investigação face o paciente e o suposto envolvimento com o tráfico de drogas, que o paciente é usuário, da leitura do acórdão objurgado verifica-se que tais matérias não foram alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Sobre o tema, os seguintes precedentes:(AgRg no RHC n. 167.227/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022), (AgRg no RHC n. 167.215/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
