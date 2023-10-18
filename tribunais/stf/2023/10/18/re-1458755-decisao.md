@@ -1,0 +1,51 @@
+Trata-se de recurso extraordinário interposto em desfavor de acórdão assim ementado:
+
+    “1. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. OBSERVÂNCIA ÀS REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA LEGISLATIVA. IMPOSSIBILIDADE DE NORMA ESTADUAL AUTORIZAR CONCESSÕES PARA A EXPLORAÇÃO DA ATIVIDADE DE VISITAÇÃO NAS UNIDADES DE CONSERVAÇÃO DO ESTADO DO TOCANTINS. INCONSTITUCIONALIDADE FORMAL E MATERIAL. COMPETÊNCIA LEGISLATIVA CONCORRENTE. COMPETENCIA DA UNIAO PARA EDIÇÃO DE NORMAS GERAIS SOBRE O MEIO AMBIENTE. EDIÇÃO DA LEI FEDERAL Nº 9.985/2000 QUE REGULAMENTA O ARTIGO 255, § 1º, INCISOS I, II, III E VII DA CONSTITUIÇÃO FEDERAL, AO INSTITUIR O SISTEMA NACIONAL DE UNIDADES DE CONSERVAÇÃO DA NATUREZA - SNUCE.
+
+    1.1 Além de não constar a possibilidade de a Administração Pública delegar à iniciativa privada, a gestão e conservação de parques ambientais protegidos, o artigo 30 da Lei nº 9.985, de 2000, também especifica que tais concessões somente poderiam ser ofertadas à organização da sociedade civil de interesse publico que, por definição, consistem em pessoas jurídicas de direito privado, sem fins lucrativos.
+
+    1.2 O regime jurídico das unidades de conservação assim definidas pelo artigo 225, caput, § 1º, III da Constituição Federal, e a Lei Federal nº 9.985/2000, atribuem somente ao poder público, a criação, manutenção e gestão das unidades de conservação, sendo a delegação destas atividades somente permitida a organização da sociedade civil de interesse publico - OSCIP, que, por definição, consistem em entidades privadas sem fins lucrativos, caso contrário, estar-se-ia violando o Princípio da Supremacia do Interesse Público e da Indisponibilidade, haja vista que a Lei nº 3.816, de 2021, extrapola os critérios constitucionais de repartição de competência, inovando a ordem jurídica de forma a redundar em prejuízo ao interesse público de conservação do meio ambiente, a pretexto de suplementar lei federal.
+
+    2. VIOLAÇÃO DO DISPOSTO NO ARTIGO 6, 1, A E B, DA CONVENÇÃO Nº 169 DA OIT, DA QUAL O BRASIL É SIGNATÁRIO, QUE INSTITUI O DEVER DE CONSULTA PRÉVIA, LIVRE E INFORMADA ÀS COMUNIDADES TRADICIONAIS SOBRE AS MEDIDAS ADMINISTRATIVAS E LEGISLATIVAS SUSCETÍVEIS DE AFETÁ-LAS DIRETAMENTE.
+
+    Embora as partes requeridas informem ter sido garantida a consulta pública por meio de sítio eletrônico, a ordem cronológica de realização destes expedientes (consultas e audiências públicas) não vem permitindo a efetiva participação da população interessada,de modo a viabilizar uma eficaz exteriorização de suas preocupações acerca das concessões, ou mesmo para tomar conhecimento dos meios e modalidades em que se dariam as suas participações no projeto, em direta afronta à Convenção nº 169 da OIT.” (doc. eletrônico 8, pp. 17-18)
+
+    Neste recurso extraordinário, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma,  ofensa ao art. 225, §1º, I, II e III, da mesma Carta.
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece acolhida.
+
+    De início, ressalto que a jurisprudência do Supremo Tribunal Federal é no sentido de que a existência de repercussão geral deve ser demonstrada em preliminar, capítulo ou tópico específico do recurso, o que não ocorreu na espécie. Com esse entendimento transcrevo as ementas abaixo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. A reversão do acórdão passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta CORTE. 4. Agravo Interno a que se nega provimento.” (RE 1.169.015 AgR/PB, Rel. Min. Alexandre de Moraes, DJe 6/2/2019 - grifei)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA. 1. Nos termos da jurisprudência do STF, cabe ao Recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em tópico específico no recurso extraordinário, o que não ocorreu no caso em exame. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC, e majoração de honorários advocatícios, nos termos do art. 85, § 11, do CPC.” (ARE 1.052.810 AgR/SE, Rel. Min. Edson Fachin, DJe 5/4/2018 - grifei).
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Civil. 3. Previdência Privada. Plano de Benefício. Diferenças. 4. Ausência de preliminar formal e fundamentada de repercussão geral (artigo 1.035, § 2º, do CPC/2015). 5. Necessidade de reexame do acervo probatório e de cláusulas contratuais. Súmulas 279 e 454 do STF. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 1.034.273 AgR/BA, Rel. Min. Gilmar Mendes, DJe 3/8/2017 - grifei)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL. MERA ALEGAÇÃO DE EXISTÊNCIA DO REQUISITO. INOBSERVÂNCIA DO ART. 1.035, §§ 1° E 2°, DO CPC/2015. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. EXCLUSÃO DE CANDIDATO EM INVESTIGAÇÃO SOCIAL. SÚMULAS 279 E 454 DO STF. OFENSA REFLEXA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar, fundamentadamente, a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, com o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico. II - Para se chegar a conclusão diversa daquela a que chegou o tribunal de origem, quanto à ilegalidade da exclusão do candidato do certame, seria necessário o reexame dos fatos e provas dos autos. Incidência da Súmula 279 do STF, bem como a interpretação de legislação infraconstitucional pertinente e das cláusulas do edital do certame, o que atrai a incidência da Súmula 454/STF. III - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 1.008.610 AgR/SP, Rel. Min. Ricardo Lewandowski, DJe 9/4/2018 - grifei)
+
+    Além disso, o Tribunal de origem declarou a inconstitucionalidade de dispositivos da Lei Estadual n. 3.816/2021, por vício de inconstitucionalidade formal e material consistente na ofensa ao previsto no art. 110, I, II e IV, da Constituição do Estado do Tocantins.
+
+    Nesse contexto, para divergir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessária a análise de fatos e provas e da legislação infraconstitucional pertinente, atraindo a incidência das Súmulas 279 e 280/STF. Com esse entendimento, menciono julgados de ambas as Turmas desta Suprema Corte:
+
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR ESTADUAL 1.089/2021. ALTERAÇÃO DE LIMITES DE UNIDADES DE CONSERVAÇÃO. NECESSIDADE DE REEXAME DE PROVAS E DE NORMA LOCAL. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RAZÕES DO APELO EXTREMO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    I – Conforme as Súmulas 279/STF e 280/STF, é inadmissível o recurso extraordinário quando sua análise implica a revisão do conjunto fático-probatório dos autos e das normas infraconstitucionais locais aplicáveis ao caso.
+
+    II - É deficiente a fundamentação do apelo extremo cujas razões estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula 284/STF.
+
+    III - Agravo regimental, a que se nega provimento.” (ARE 1.417.998 AgR/RO, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 11/4/2023).
+
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. FUNDO ESTADUAL DE EQUILÍBRIO FISCAL (FEEF). LEI ESTADUAL 7.428/2016 DO ESTADO DO RIO DE JANEIRO. DECRETO ESTADUAL 45.810/2016. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. NÃO CRIAÇÃO DE IMPOSTO NOVO. ESTABELECIMENTO DE REGRAS PARA O GOZO DE BENEFÍCIOS FISCAIS. INEXISTÊNCIA DE SUPRESSÃO DE ISENÇÕES E BENEFÍCIOS FISCAIS CONDICIONADOS. IMPOSIÇÃO DE MULTA DE 5% (CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO. AGRAVO INTERNO DESPROVIDO.” (RE 1.391.247 AgR/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 10/1/2023).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 18 de outubro de 2023.
+
+Ministro Cristiano Zanin
+
+Relator
