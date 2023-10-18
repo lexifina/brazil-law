@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência suscitado pelo Juízo de Direito da Vara Criminal e Anexos do Foro Regional de Paiçandu - Região Metropolitana de Maringá/PR, em face do Juízo de Direito da Vara do Júri/Execuções de Santo André/SP, nos autos de execução de pena de multa e pena privativa de liberdade.
+Depreende-se dos autos, que Juízo de Direito da Vara do Júri/Execuções de Santo André/SP, com base no disposto no artigo 46, §5º, da Lei nº 6.830/1980, declinou da competência para execução da pena de multa proposta pelo Ministério Público ao Juízo da Vara de execuções Criminais da Comarca de Paiçandu - Paraná, aduzindo que:
+"Verifica-se que o executado foi colocado em liberdade e possui endereço domiciliar no município de Paiçandu-PR.
+Como é sabido, a multa é considerada dívida de valor, devendo ser executada nos termos da Lei de Execução Fiscal (Lei nº 6.830/1980). à qual se aplica subsidiariamente o Código de Processo Civil. Nessa esteira, o diploma processual civil dispõe:
+"Art. 46, § 5º: A execução fiscal será proposta no foro de domicílio do réu no de sua residência ou no do lugar onde for encontrado"
+Desse modo, deverá a presente execução fiscal será proposta no foro de domicílio do executado, viabilizando, assim, atos de citação e intimação, bem como a localização de bens para adimplemento da multa." (fl. 14).
+Recebidos os autos, o Juízo de Direito da Vara do Júri/Execuções de Santo André/SP, acolhendo o pleito do Parquet estadual, suscitou o presente conflito de competência, sob os seguintes fundamentos (fls.24-27):
+"Em que pese o brilhantismo da r. decisão proferida pelo(a)nobre colega do judiciário paulista, compreende este juízo paranaense, com a devida venia, que razão não assiste àquela.
+Pois bem.
+A competência do juízo do Estado de São Paulo parece se apresentar por dois fundamentos: a uma porque a execução penal é una, e conforme assentado na Corte Cidadã, não se faz possível a cisão da execução penal a fim de que a parcela tocante à dívida e valor seja executada em diversa unidade federativa, enquanto a pena corporal no juízo da condenação, juiz natural da execução penal; a duas porque a mesma Corte Cidadã, interpretando a Lei de Execuções Penais, definiu que a execução penal compete, em regra, ao juízo da condenação, não havendo que se falar em deslocamento da competência em razão da modificação voluntária do domicílio pelo apenado."
+O Ministério Público Federal se manifestou no sentido do conhecimento e provimento do Conflito, declarando-se competente o Juízo Suscitado, qual seja, o Juízo de Direito da Vara do Júri/Execuções de Santo André/SP.
+É o relatório. DECIDO.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo deve ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+O cerne do presente conflito cinge em se verificar o juízo competente para processar a execução da pena de multa imposta cumulativamente com a pena privativa de liberdade.
+Sobre o tema, a Terceira Seção sedimentou o entendimento no sentido de que a execução da pena de multa deve ser processada no mesmo juízo em que está sendo executada a reprimenda corporal, porquanto é necessária a existência de execução penal una.
+Assim, é inadmissível a coexistência de um processo de execução da pena privativa de liberdade perante o Juízo das Execuções Penais de um estado da federação e de outro processo de execução da pena de multa imposta na mesma condenação penal perante o Juízo de estado diverso, em razão do princípio da unicidade da execução penal.
+A corroborar com o entendimento sufragado, colaciono o seguinte precedente:
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA DE MULTA. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. UNICIDADE DA EXECUÇÃO.
+IMPOSSIBILIDADE DE CISÃO DA EXECUÇÃO DAS PENAS. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. A execução penal é una, não sendo possível cindir o processo executivo para que a execução da pena privativa de liberdade seja processada perante o Juízo das Execuções Penais de um estado da federação e a execução da pena de multa imposta na mesma condenação penal seja processada em Juízo de estado diverso.
+2. A execução da pena de multa compete ao mesmo Juízo que executa a pena privativa de liberdade cumulativamente imposta.
+3. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DO 1.º JUIZADO DA VARA DE EXECUÇÕES CRIMINAIS DE NOVO HAMBURGO/RS" (CC n. 189.130/SC, Terceira Seção, Relª. Minª. Laurita Vaz, DJe de 28/9/2022, grifei).
+Ademais, a jurisprudência desta Corte Superior é firme no sentido de que a execução da pena cabe ao Juízo da condenação, não implicando deslocamento de competência a mudança voluntária de domicílio do Apenado, podendo ser deprecada apenas a fiscalização do cumprimento da pena (AgRg no CC n. 137.281/MT, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 23/9/2015, DJe de 2/10/2015.)
+No caso, considerando que a condenação decorreu de ação penal que tramitou na perante o Juízo de Direito da Vara do Júri/Execuções de Santo André/SP, compete a este Juízo executar não só a pena privativa de liberdade (art. 65 da LEP), mas, também, a pena de multa imposta no édito condenatório.
+Ante o exposto, conheço do presente conflito para declarar a competência do Juízo de Direito da Vara do Júri/Execuções de Santo André/SP para a execução da pena de multa.
+Publique-se. Intime-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA DE MULTA. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. UNICIDADE DA EXECUÇÃO. IMP OSSIBILIDADE DE CISÃO DA EXECUÇÃO DAS PENAS. MUDANÇA VOLUNTÁRIA DE DOMICÍLIO NÃO IMPORTA EM DESLOCAMENTO DE COMPETÊNCIA. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
