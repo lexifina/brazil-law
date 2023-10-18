@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 70):
+APELAÇÃO - CONTRIBUIÇÃO CRUZ AZUL.
+1. Contribuição compulsória descontada pela CBPM-SP - Financiamento do sistema de assistência médica e odontológica - Inadmissibilidade  Disponibilidade do uso do serviço que não gera obrigatoriedade ao seu custeio  Artigos 30 e 32 da Lei Estadual nº 452/74 não recepcionados pela Constituição Federal (artigo 149, § 1º) declarado incidentalmente inconstitucional pelo Órgão Especial.
+2. Condenação ao pagamento das custas - Afastamento  Isenção do entes públicos  Inteligência do artigo 61, da Lei nº 11.608/03 e artigo 2º da Lei 4.476/84 (Regimento de Custas e Emolumentos).
+3. Honorários advocatícios - Fixação equitativa pelo Magistrado  Observância do disposto no artigo 20, § 4º, do Código de Processo Civil. Recurso voluntário desprovido e Reexame necessário parcialmente provido.
+A recorrente alega violação ao artigo 1º-F da Lei 9.494/1997, com redação conferida pela Lei 11.960/2009, sob o argumento de que "a partir de 30 de junho de 2009 (data da publicação e vigência da Lei Federal 11.960/2009), a Fazenda do Estado de São Paulo apenas poderá ser condenada judicialmente a aplicar uma única vez, para fins de correção monetária, remuneração do capital e compensação da mora, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, previstos na Lei Federal 8.177191" (fl. 93).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 141-142.
+É o relatório. Passo a decidir.
+A insurgência não merece êxito. Vejamos.
+Cuida-se, na origem, de recurso de apelação interposto em face de sentença que julgou procedente ação ordinária determinando o desligamento do autor da condição de contribuinte da Associação Cruz Azul de São Paulo, bem como a restituição das contribuições descontadas a partir da citação com correção e acréscimo de juros de mora nos termos da tabela prática do Tribunal de Justiça de São Paulo.
+O Tribunal a quo negou provimento ao referido recurso de apelação e, manejado Recurso Especial, houve determinação de sobrestamento (fls. 101-102) e, em seguida, a remessa ao órgão julgador para juízo de retratação face a decisão proferida pelo Superior Tribunal de Justiça no REsp 1.492.221/PR (Tema 905/STJ) e pelo Supremo Tribunal Federal no RE 870.947/SE (Tema 810/STF), o que resultou na alteração do acórdão (fls. 111-115).
+Daí a interposição do presente Recurso Especial.
+No caso, o Tribunal de origem negou provimento ao recurso de apelação, assim manifestando-se acerca da questão controversa (fls. 72-73):
+ ..
+Quanto aos juros moratórios, não merece reparo a respeitável sentença, dada a inaplicabilidade do artigo 1º-F, da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porque o Colendo Supremo Tribunal Federal, por maioria, nas Ações Diretas de Inconstitucionalidades nº 4.357 e 4.425, declarou a inconstitucionalidade "a) da expressão "na data de expedição do precatório", contida no § 2º do art. 100 da CF; b) dos §§ 9º e 10 do art. 100 do CF; c) da expressão "índice oficial de remuneração básica do caderneta de poupança", constante do § 12 do art. 100 da CF, do inciso II do § 7º e do § 16, ambos do art. 97 do ADU, d) do fraseado "independentemente de sua natureza", inserido no § 12 do art. 100 da CF, para que aos precatórios de natureza tributária se apliquem os mesmos juros de mora incidentes sobre o crédito tributário; e) por arrastamento, do art. 5º da Lei 11.960/2009; e f) do § 15 do art. 100 da CF e de todo o art. 97 do ADCT (especificamente o caput e os §§ 1º, 2º. 4º, 6º, 8º, 9º, 14 e 15, sendo os demais por arrastamento ou reverberação normativa)" (Informativo de Jurisprudência do STF nº 698  grifo nosso).
+Conforme preleciona Pedro Lenza, "se a lei é nula, ela nunca teve eficácia. Se nunca teve eficácia, nunca revogou nenhuma norma. Se nunca revogou nenhuma norma, aquela que teria sido supostamente "revogada" continua tendo eficácia. Eis o efeito represtinatório da decisão."
+Deste modo, subsiste o cômputo dos juros moratórios nos termos do artigo 1º-F, da Lei nº 9.494/97, com a redação dada pela Medida Provisória nº 2.180-35/01, acrescido de correção monetária pela Tabela Prática deste Tribunal de Justiça.
+ ..
+Ocorre, porém, que reanalisando o caso, nos termos do artigo 1.030, II, do CPC/2015, o Tribunal de origem proferiu novo julgamento, assim manifestando-se (fls. 110-115):
+ ..
+0 Supremo Tribunal Federal concluiu o julgamento do RE n. 870.947, em que foi firmada a Tese de repercussão geral n. 810 estabelecendo o seguinte:
+ ..
+Na linha desse raciocínio, o STJ concluiu o julgamento do Recurso Especial n. 1.495.146/MG, em que foi firmada a Tese n. 905, que estabelece:
+ ..
+Em 03.10.2019, o STF rejeitou os embargos de declaração interpostos em face do acórdão proferido no RE 870.947/SE e, em razão disso, não houve modulação dos efeitos da decisão, do que se extrai a aplicação do IPCA-E desde a promulgação da Lei n. 11.960/2009.
+0 V. Acórdão afastou a aplicação da Lei n. 11.960/09.
+Dessa forma, o acórdão deve ser mantido, mas com uma pequena readequação ao entendimento consagrado pelos tribunais superiores.
+Como as prestações têm natureza tributária, devem ser remuneradas e corrigidas monetariamente pela Taxa SELIC.
+Em relação aos consectários da mora, deve ser observada a Tese 119, firmada em sede de recursos repetitivos (STJ, REsp n. 1.111.189/SP, 1ª Seção, rel. Min. Teori Albino Zavascki, J. 13.05.2009), que estabelece que "incide a taxa SELIC na repetição de indébito de tributos estaduais a partir da data de vigência da lei estadual que prevê a incidência de tal encargo sobre o pagamento atrasado de seus tributos e, relativamente ao período anterior, incide a taxa de 1% ao mês, nos termos do art. 161, § 1º, do CTN, observado o disposto no súmula 188/STJ, sendo inaplicável o art. 1º-F da Lei 9.494/97".
+Em suma, da data do pagamento indevido das parcelas pagas a partir do ajuizamento da ação, até a data do trânsito em julgado da sentença deve incidir exclusivamente correção monetária pela Tabela Prática do Tribunal de Justiça e, a partir de então, apenas a Taxa Selic, que já compreende em sua essência os índices de correção monetária e os encargos moratórios, dada sua natureza híbrida.
+Em vista do exposto, integro a fundamentação empregada pelo v. acórdão para fazer constar que os juros de mora e a correção monetária devem observar os temas n. 810 do STF e 905 do STJ, sem qualquer modulação dos efeitos.
+ ..
+A ora recorrente, contudo, deixou de se manifestar para ratificar ou complementar as razões recursais.
+Sendo assim, incide na espécie, por analogia, a Súmula 579/STJ, segundo a qual apenas seria desnecessária a ratificação do Recurso Especial interposto na pendência de julgamento dos Embargos de Declaração, quando inalterado o resultado primeiro.
+Como houve alteração do julgamento pelo Tribunal de origem, a ratificação do Apelo nobre anteriormente interposto ou a complementação das razões recursais eram medidas de rigor, sob pena de não conhecimento do Recurso Especial, aplicando-se as Súmulas 283/STF e 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. BENEFÍCIO DEFERIDO. CORREÇÃO DOS VALORES EM ATRASO. INDEXADOR. TEMAS 905/STJ E 810/STF. ADEQUAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ. APLICAÇÃO. PRECEDENTES.
+1. Trata-se de Agravo Interno contra decisão que entendeu necessária a ratificação do Recurso Especial quando o juízo de retratação modificar o acórdão para adequação aos temas repetitivos ou de repercussão geral, - In casu, os Temas 905/STJ e 810/STF - a contrario sensu da Súmula 579/STJ.
+2. De acordo com o art. 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040  seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, II, do CPC/2015) , e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao Tribunal Superior para julgamento das demais questões". Diretriz metodológica que, por certo, deve alcançar também aqueles feitos que já tenham ascendido ao STJ.
+3. O Recurso Especial não tratou de questões outras. O Tribunal a quo, em juízo de retratação, proferiu novo julgamento e modificou o entendimento anteriormente exarado. Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ. Precedentes.
+4. Agravo Interno não provido (AgInt no REsp 1.903.067/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 16/3/2021).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MODIFICADO. NOVA FUNDAMENTAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA 579/STJ. ARESTO QUE APRESENTA FUNDAMENTAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. Nos termos do art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi reapreciado e modificado, sob nova fundamentação.
+2. Caso concreto em que seria necessária a ratificação do recurso especial, providência não observada. Incidência da Súmula 579/STJ.
+3. Não é possível conhecer do recurso especial na hipótese em que o Tribunal de origem, ao decidir a questão posta a julgamento, ampara-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, e o recorrente não interpõe o competente recurso extraordinário. Incidência, à espécie, da Súmula 126/STJ.
+4. Agravo interno a que se nega provimento (AgInt no REsp 1.878.497/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 26/2/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido (AgInt no AREsp 828.379/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 25/8/2017).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. JUROS E CORREÇÃO MONETÁRIA. ACÓRDÃO MODIFICADO. NOVA FUNDAMENTAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. INEXISTÊNCIA. APLICAÇÃO DA SÚMULA 579/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
