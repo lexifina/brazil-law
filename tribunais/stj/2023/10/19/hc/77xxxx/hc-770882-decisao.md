@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ANDERSON PEREIRA SANTANA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501353-64.2021.8.26.0616.
+Consta nos autos que o Paciente foi condenado às penas de 8 (oito) anos de reclusão, em regime inicial fechado, e 800 (oitocentos) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de "946 (novecentas e quarenta e seis) porções de cocaína na forma de "crack", com peso líquido de 248,74 gramas, 06 (seis) porções de cocaína, com peso líquido de 4,01 gramas, e 01 (uma) porção de Cannabis sativa L ("maconha"), com peso líquido de 1,08 gramas" (fls. 83-84; sem grifos no original).
+A Defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem, para redimensionar as penas para 7 (sete) anos, 2 (dois) meses e 12 (doze) dias de reclusão e 720 (setecentos e vinte) dias-multa.
+Neste writ, a Impetrante alega que o fato de se tratar de reincidência específica não justifica a exasperação da pena, na segunda fase da dosimetria, em fração superior a 1/6 (um sexto).
+Requer a readequação da pena.
+Foram prestadas informações às fls. 108-132.
+O Ministério Público Federal manifestou-se às fls. 134-137, opinando pelo não conhecimento do habeas corpus, e pela concessão da ordem, de ofício, para "afastar a ilegalidade na segunda fase da dosimetria da pena".
+É o relatório. Decido.
+O Juízo sentenciante, na segunda fase da dosimetria, aumentou a pena do Paciente em 1/3 (um terço) por se tratar de reincidência específica (fl. 111).
+O Tribunal de origem, por sua vez, reduziu a fração de aumento para 1/5 (um quinto), consignando que, "Reincidente específico (autos nº 000426-32.2015 fls. 53), a reprimenda foi elevada em um terço, acréscimo que será reduzido para um quinto, diante de única condenação e da natureza da recidiva" (fl. 93).
+Ocorre que, a despeito da anterior vacilação da jurisprudência, na matéria, no âmbito deste Sodalício, atualmente, ambas as Turmas da Terceira Seção compartilham a compreensão de que a mera circunstância de ser específica a reincidência não autoriza, por si só, a exasperação da reprimenda em fração superior a 1/6 (um sexto) (HC n. 772.968/SP, Rel. Ministra LAURITA VAZ, decisão monocrática, DJe 28/09/2022; HC n. 777.327/SP, Rel. Ministra LAURITA VAZ, decisão monocrática, DJe 17/10/2022; v.g.).
+Nessa linha intelectiva, confiram-se ainda recentes julgados desta Corte:
+"HABEAS CORPUS. DOSIMETRIA.  ..  SEGUNDA FASE DA DOSIMETRIA. APLICAÇÃO DE FRAÇÃO SUPERIOR A 1/6 EM RAZÃO DA REINCIDÊNCIA ESPECÍFICA. FUNDAMENTAÇÃO INIDÔNEA. PENA REDIMENSIONADA. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+ ..
+3. A Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do HC n. 365.963/SP, pacificou o entendimento de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito (HC n. 654.120/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 25/5/2021). Dessarte, a especificidade da reincidência constitui fundamento inidôneo para justificar o agravamento da pena superior à fração de 1/6.
+ ..
+5. Ordem concedida parcialmente para reduzir a fração de agravamento na segunda fase da dosimetria e, assim, fixar a pena do paciente em 7 anos de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 700 dias-multa." (HC n. 758.154/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 18/10/2022, DJe 21/10/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DE AUMENTO SUPERIOR A 1/6. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA.
+1. "A aplicação de patamar superior a 1/6 em razão da incidência de agravante exige que o julgador apresente fundamentação idônea, não bastando para tanto que se trate de hipótese de reincidência específica." (AgRg no AREsp 2035357/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 29/03/2022, DJe 31/03/2022).
+2. Agravo regimental improvido." (AgRg no REsp n. 1.995.486/MG, Rel. Ministro OLINDO MENEZES - Desembargador Convocado do TRF 1.ª Região - , SEXTA TURMA, julgado em 02/08/2022, DJe 05/08/2022; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DESPROPORCIONAL. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem entendimento firmado de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+2. A Quinta Turma desta Corte Superior passou a adotar o entendimento de que, ostentando o paciente apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, ainda que se trate de reincidente específico.
+3. Agravo regimental não provido." (AgRg no HC n. 743.680/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/09/2022, DJe 13/09/2022; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA INTERPOSIÇÃO DO AGRAVO REGIMENTAL. ART. 258 DO RISTJ. CINCO DIAS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO. REINCIDÊNCIA ESPECÍFICA. FRAÇÃO DESPROPORCIONAL. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. O agravo regimental deve ser interposto no prazo de 5 (cinco) dias, conforme estabelecido no art. 258 do RISTJ, o que não ocorreu no caso.
+2. Todavia, impõe-se a concessão de habeas corpus de ofício, diante da ilegalidade do acórdão impugnado no que tange à fração de aumento da pena em razão da reincidência específica, a qual foi aumentada em 1/5 (um quinto) sem a devida fundamentação.
+3. "Alinhado à jurisprudência que se firmou no âmbito da Terceira Seção, extrai-se que a reincidência específica, justamente por não possuir maior desvalor no confronto com a atenuante da confissão espontânea, também não pode ensejar maior incremento da pena quando incidir, de forma isolada, na segunda fase da dosimetria." (HC 578.638/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+4. Agravo regimental não conhecido. Concessão de habeas corpus, de ofício, para readequar a pena do agravante, quanto ao delito de tráfico de entorpecentes e, assim, estabelecê-la em 7 anos, 11 meses e 8 dias de reclusão, mais o pagamento de 793 dias-multa, mantidos os demais termos da condenação. " (AgRg nos EDcl no AREsp n. 1.955.008/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 03/05/2022, DJe 10/05/2022; sem grifos no original.)
+Em conclusão, na espécie, o aumento operado na segunda etapa da dosimetria é inidôneo.
+Passo ao redimensionamento da pena do acusado.
+Na primeira fase, mantenho a pena-base acima do mínimo legal, nos termos fixados pelas instâncias ordinárias: 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa.
+Na segunda etapa, presente a agravante da reincidência, reduzo o patamar de aumento da pena para 1/6 um sexto), resultando em 7 (sete) anos de reclusão e 700 (setecentos) dias-multa.
+Na terceira fase, ausentes causas de aumento ou de diminuição, a pena permanece inalterada.
+Diante da reincidência do réu, e fixada pena acima de 4 (quatro) anos de reclusão, mantenho o regime fechado para início de cumprimento da pena.
+Ante o exposto, CONCEDO a ordem de habeas corpus para, reformando o acórdão impugnado e a sentença condenatória, redimensionar as penas do Paciente, nos termos acima explicitados.
+Oficie-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo e ao Juízo de primeira instância, comunicando-lhes o inteiro teor da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. REINCIDÊNCIA ESPECÍFICA. CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO JUSTIFICA AUMENTO SUPERIOR A UM SEXTO. CONSTRANGIMENTO ILEGAL NO CÁLCULO DA PENA CONFIGURADO. PRECEDENTES. ORDEM DE HABEAS CORPUS CONCEDIDA.
