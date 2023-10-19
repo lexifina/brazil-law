@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por JULIO CESAR DE OLIVEIRA JUNIOR contra decisão do Tribunal de Justiça do Estado de Santa Catarina que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0900182-71.2018.8.24.0135.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 658-662).
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem inadmitiu o apelo nobre, pelos seguintes fundamentos: a) necessidade de reexame de provas (Súmula n. 7 do Superior Tribunal de Justiça); b) acórdão em consonância com a jurisprudência desta Corte Superior (Súmula n. 83 do Superior Tribunal de Justiça); c) ausência de realização do cotejo analítico.
+No agravo em recurso especial, no tocante à Súmula n. 7 desta Corte Superior, aplicada no tocante aos pedidos de reconhecimento da atipicidade da conduta e da excludente da inexigibilidade de conduta diversa, a parte Agravante se limitou a aduzir, genericamente, que não seria caso de reexame de fatos, mas sem explicitar, à luz das teses recursais trazidas no recurso especial e, especialmente, dos elementos constantes do acórdão recorrido, de que maneira a análise não dependeria do reexame de provas, como afirmado na decisão de inadmissão do apelo nobre. Não houve sequer menção a nenhum dado concreto constante do acórdão objeto da insurgência.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO, RECEPTAÇÃO E RESISTÊNCIA. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, mas cabe a parte demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+ ..
+Agravo regimental desprovido." (AgRg no AREsp 1.638.260/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO RECURSO. SÚMULA N.º 7 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. HABEAS CORPUS DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, o Agravante se limitou a sustentar, genericamente, que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial - o que não se confunde com a mera transcrição das razões do apelo nobre - , de que maneira a análise não dependeria do reexame de provas. Sendo assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n.º 7 do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 1.593.391/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020.)
+Em relação à Súmula n. 182 do Superior Tribunal de Justiça e aos fundamentos referentes à falta de comprovação da divergência jurisprudencia l e à ausência de realização do cotejo analítico, o agravo em recurso especial silenciou.
+Portanto, não houve a observância da dialeticidade recursal, motivo pelo qual carece o agravo de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta de todos os fundamentos utilizados para inadmitir o recurso especial.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Verificado que o agravante se restringiu a reiterar as razões do recurso especial, sem impugnar os fundamentos da decisão agravada, incide o enunciado sumular n. 182 do STJ.
+2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos" (AgRg no AREsp 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+3. Agravo regimental não conhecido. Ordem concedida de ofício, a fim de reduzir a pena-base ao mínimo legal e, por conseguinte, reduzir a reprimenda do agravante para 5 anos e 10 meses de reclusão, no regime inicial semiaberto, mais 583 dias-multa." (AgRg no AREsp n. 2.036.220/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 29/03/2022, DJe 1.º/0 4/2022; sem grifos no original.)
+Por derradeiro, não há usurpação da competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, uma vez que constitui atribuição do Tribunal a quo o exame dos pressupostos específicos do apelo nobre relacionados ao mérito da controvérsia, nos termos da Súmula n. 123 desta Corte Superior de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. EXAME DE MATÉRIA DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Nos termos da orientação jurisprudencial desta Corte, "não há usurpação de competência quando o Tribunal local não admite o Recurso Especial sob o fundamento da inexistência de contrariedade ou negativa de vigência à lei federal, pois, conforme tem reiteradamente decidido o STJ, é possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgInt no AREsp 1839252/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/09/2021, DJe 13/10/2021).
+2. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta ao conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+3. Agravo regimental improvido." (AgRg no AREsp 1924702/GO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO), SEXTA TURMA, julgado em 08/02/2022, DJe 15/02/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. AGRAVO NÃO CONHECIDO.
