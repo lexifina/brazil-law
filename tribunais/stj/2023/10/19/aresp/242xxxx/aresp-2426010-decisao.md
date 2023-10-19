@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ELISÂNGELA ALVES XAVIER DA SILVA contra decisão que inadmitiu recurso especial diante da não demonstração de violação dos arts. 11, 489 e 1.022 do CPC e da incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo nos autos da ação de concessão de direito real de habitação (Apelação n. 1001036-07.2018.8.26.0430).
+É o relatório. Decido.
+O julgado foi assim ementado (fl. 318):
+APELAÇÃO - SUCESSÃO - DIREITO REAL DE HABITAÇÃO - Sentença favorável à viúva, que reconhece seu direito real de habitação sobre o imóvel que servia de residência ao casal - Recurso da viúva, para estender tal direito ao escritório e ao barracão, situados no mesmo imóvel - Descabimento - Norma do artigo 1.831, do CC, que protege a moradia da viúva no mesmo local de residência do casal - Ambientes profissionais que não são alcançados pela norma - Situação física do imóvel em que o escritório e o barracão são destacados do prédio residencial - Possibilidade de acesso pelos demais herdeiros pela área externa do imóvel residencial - Sentença mantida - NEGARAM PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados (fls. 345-346).
+Nas razões do recurso especial, a ora agravante aponta violação dos arts. 489, II, § 1º, II, III, IV, V e VI, e 1.022, parágrafo único, II, do CPC. Alega que houve negativa de prestação jurisdicional, com omissões a respeito da violação do direito de moradia. Ressalta ainda que a decisão não está devidamente fundamentada em afronta ao art. 11 do CPC.
+Defende que o direito de habitação no imóvel deixado pelo de cujus deferido liminarmente e ratificado em sentença deveria se estender às demais áreas do lote, quais sejam, o escritório e o barracão existentes, uma vez que o acesso a essas áreas somente se dá adentrando no imóvel residencial.
+Esclarece que esse acesso acarreta insegurança em seu espaço residencial e afronta ao disposto no art. 1.831 do CC, configurando perigo de dano. Pontua que já sofreu diversas ameaças dos recorridos ao adentrarem no seu imóvel.
+Sustenta que o Tribunal a quo não se manifestou sobre a delimitação do espaço para fixar limite entre a sua residência e as demais áreas (escritório e barracão). Expõe quanto à violação do art. 5º, X e XI, da CF, que estabelece a inviolabilidade da intimidade e da vida privada, bem como a inviolabilidade do asilo do indivíduo, respectivamente.
+Requer o provimento do recurso para anular o acórdão recorrido e determinar o retorno dos autos para análise de suas alegações.
+Passo, pois, à análise das proposições deduzidas.
+O recurso não merece prosperar.
+Afasta-se a alegada ofensa aos arts. 489, II, § 1º, II, III, IV, V e VI, e 1.022, parágrafo único, II, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, a questão referente ao direito de habitação da recorrente, previsto no art. 1.831 do CC.
+O Tribunal a quo assim se manifestou (fls. 319-320):
+Como bem explanado em sentença, destaca a doutrina que a regrado artigo 1.831, do Código Civil, visa proteger o direito de moradia do cônjuge supérstite no mesmo imóvel que servia à residência do casal.
+E residência não abarca escritório profissional e barracão, onde o falecido exercia suas atividades de produtor agroprecuário.
+É o ambiente familiar e não profissional que se vê alcançado pelo direito de habitação, protegido pela norma acima citada.
+Como o prédio residencial é destacado da edificação do escritório e do galpão, os demais herdeiros não precisam adentrar a área estritamente residencial do imóvel para acessarem as outras edificações, como se vê nas fotografias encartadas aos autos.
+Significa que não cabe ampliar o direito real de habitação para edificações sem natureza residencial, nem impedir os demais herdeiros de acessarem externamente à residência tanto o escritório, quanto o galpão, uma vez que em princípio tal acesso externo não inviabiliza a moradia tutelada pela lei.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ademais, para reconhecer que o acórdão restringiu o direito real de habitação ao cônjuge sobrevivente ao conceder somente a edificação residencial e não toda a propriedade, violando o art. 1.831 do CC, e em afronta ao seu direito de privacidade, seria preciso analisar os elementos fáticos considerados para a resolução da controvérsia, procedimento vedado na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+Pontue-se ainda que não cabe ao STJ, a pretexto de analisar alegação de violação do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário. Nesse sentido: REsp n. 1.836.088/MT, relator Ministro Francisco Falcão, Segunda Turma, julgado em 15/2/2022, DJe de 22/2/2022; e REsp n. 1.659.614/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2017, DJe de 19/6/2017.
+Ante o exposto, n ego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
