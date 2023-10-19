@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por Vibra Energia S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Cuida-se, na origem, de agravo de instrumento contra decisão interlocutória que, nos autos do cumprimento de sentença, indeferiu pedido de sucessão processual para inclusão dos sócios da recorrida na lide.
+A Vigésima Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, apreciando aquele agravo, negou-lhe provimento, consoante acórdão assim ementado (e-STJ, fl. 46):
+PROCESSUAL CIVIL. SUCESSÃO PROCESSUAL. Pretensão de incluir no polo passivo os sócios da empresa devedora, diante do seu encerramento, na forma do art. 110 do CPC, ou seja, a título de sucessão por morte. Descabimento. Empresa apenas inapta, o que não equivale à morte de pessoa física. Precedentes. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 110, 489, § 1º, IV, e 1.022, I e II, do Código de Processo Civil de 2015.
+Sustentou a existência de omissões no aresto relevantes ao julgamento da lide, notadamente quanto à possibilidade de sucessão processual da empresa pelos seus sócios em caso de encerramento irregular da pessoa jurídica, vício caracterizador de negativa de prestação jurisdicional.
+Asseverou que a sucessão processual da empresa pelos sócios independe da instauração da desconsideração da personalidade jurídica, haja vista que a empresa se encontra extinta, e que "a sucessão processual não torna o sócio pessoalmente responsável pelos débitos da pessoa jurídica extinta, ocorre, na realidade, a assunção de posição processual como representante, cuja responsabilidade patrimonial seguirá sendo regida nos moldes do contrato social, observada a constituição de cada modelo de sociedade empresária" (fls. 76-77, e-STJ).
+Sem contrarrazões, fl. 84 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 111 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, a apontada afronta aos arts. 489 e 1.022 do CPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assim sendo, aplica-se à espécie o entendimento do STJ segundo o qual "não se viabiliza o recurso especial pela violação dos arts. 489, § 1º, e 1.022 Código de Processo Civil quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente" (AgInt no AREsp n. 1.647.732/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 27/5/2022).
+Na espécie, o Tribunal de origem assim se manifestou (e-STJ, fl. 47, sem grifo no original):
+Com efeito, a agravante pretende incluir no polo passivo da execução os sócios da empresa devedora, sob a alegação de que é dispensada a instauração do incidente de desconsideração da personalidade jurídica, a versar o caso sobre sucessão processual, dada a extinção da pessoa jurídica.
+Ora, a ausência de localização de bens vinculados ao nome da devedora não implica afirmar que ela encerrou suas atividades irregularmente.
+Frise-se que o cadastro reproduzido às fls. 808 (origem) indica que devedora apresenta, perante a Receita Federal, situação cadastral de INAPTA, não de empresa ENCERRADA.
+Sendo assim, a hipótese dos autos não atrai a disciplina da sucessão processual, em que a extinção da pessoa jurídica se equipara à morte da pessoa natural.
+Desse modo, observa-se que a pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demanda o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgame nto da causa, como se o STJ fosse uma terceira instância revisora e o especial pudesse ser transmudado em uma apelação da apelação.
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. SUCESSÃO PROCESSUAL. INCLUSÃO NO POLO PASSIVO OS SÓCIOS DA EMPRESA DEVEDORA. DESCABIMENTO. ANÁLISE DOS ELEMENTOS PROBATÓRIOS SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
