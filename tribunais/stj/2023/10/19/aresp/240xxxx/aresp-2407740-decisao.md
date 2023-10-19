@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado pela Concessioná ria de Rodovias do Interior Paulista S/A, desafiando decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial, pelos seguintes motivos: (I) não restou suficientemente demonstrada a violação aos dispositivos de lei federal; (II) incidência dos óbices das Súmulas 5 e 7/STJ para análise da aventada afronta à legislação; e (III) aplicação da vedação sumular 7/STJ para a apreciação do dissídio pretoriano.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o in conformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar especificamente todos os mot ivos adotados pela instância de origem para negar trânsito ao apelo especial.
+Com efeito, a parte agravante deixou de rebater, de modo específico e mediante argumentação suficiente, o ponto do julgado em que aquela Corte aplicou a vedação sumular n. 7/STJ para o exame do dissídio jurisprudencial, uma vez que "versa a jurisprudência arrolada acerca de exegese lastreada em matéria fática, cuja verificação da possível identidade com o caso concreto implicaria reexame da prova produzida" (fl. 1.041).
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
