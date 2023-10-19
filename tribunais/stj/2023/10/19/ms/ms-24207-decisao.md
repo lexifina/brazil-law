@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de mandado de segurança com pedido liminar impetrado por ERIKA MAGAMI YAMADA contra ato atribuído ao MINISTRO DA JUSTIÇA E SEGURANÇA PÚBLICA consubstanciado no Aviso 1.206/2017-MJ, de 18/12/2017, que indeferiu o seu pedido de cessão à Procuradoria-Geral da República.
+A impetrante, servidora efetiva ocupante do cargo de Indigenista Especializado na Fundação Nacional dos Povos Indígenas (FUNAI), alega que em 19 de maio de 2017, por meio do Ofício 2.220/2017/SG, o Secretário-Geral do Ministério Público Federal solicitou ao Secretário Executivo do Ministério da Justiça sua cessão para ocupar cargo em comissão da Assessoria Jurídica da 6ª Câmara de Coordenação e Revisão. Após o devido trâmite do processo administrativo - continua -, o Ministro da Justiça indeferiu o pedido sobre o fundamento de que haveria um déficit no quadro de pessoal da FUNAI.
+Defende que a competência para expedir atos administrativos relativos à gestão de pessoal é do Presidente da FUNAI e não do Ministro de Estado da Justiça, nos termos do art. 17 do Decreto 9.144/2017. Assevera que a cessão já havia sido deferida pelo Presidente da FUNAI, não havendo respaldo legal a atuação posterior do Ministro de Estado da Justiça, devendo ser reconhecida a invalidade do ato de indeferimento.
+Aduz que a autoridade coatora utilizou-se de informações que não encontram amparo na realidade da FUNAI, em evidente descompasso com as decisões tomadas em casos semelhantes, tratando-se, assim, de ato ilegal e inválido, a merecer sua anulação pelo Poder Judiciário.
+Requer a concessão da segurança para "que seja decretada a invalidade do ato administrativo que aqui se aponta como ilegal, e, como consequência, seja confirmada a competência do Presidente da FUNAI a fim de conferir efetividade ao ato do Sr. Franklimberg Ribeiro de Freitas, realizado em 11/10/2017, às 14:51 que autorizou a cessão da impetrante ao Ministério Público Federal nos autos do Processo Administrativo nº 08000.033222/2017-77" (fl. 21).
+Indeferida a liminar às fls. 138/140.
+Informações prestadas às fls. 152/407.
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 409/412).
+É o relatório.
+De início, destaco que a competência para autorizar cessão de servidor público federal para outro poder ou ente federativo é do Ministro de Estado, nos termos do art. 17, § 1º, do Decreto 9.144/2017, in verbis:
+Art. 17. No âmbito da administração pública federal, direta e indireta, a competência para autorizar a cessão é do Ministro de Estado ou da autoridade máxima da entidade a que pertencer o agente público, ressalvada a hipótese prevista no § 4º do art. 93 da Lei nº 8.112, de 1990.
+§ 1º Na hipótese de cessão para outro Poder ou outro ente federativo, a competência será do Ministro de Estado, permitida a delegação apenas às autoridades mencionadas no Decreto no 8.851, de 20 de setembro de 2016.
+Como visto, trata-se de mandado de segurança impetrado contra ato do Ministro da Justiça que indeferiu o pedido de cessão da servidora à Procuradoria-Geral da República sobre o fundamento de que haveria um déficit no quadro de pessoal da FUNAI.
+Segundo o entendimento desta Corte, o ato de cessão de servidor perpassa pela discricionariedade conferida à administração pública, cabendo ao Poder Judiciário apenas o exame da legalidade e não do mérito administrativo.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INSTITUTO DA CESSÃO. AJUDA DE CUSTO. RENÚNCIA. ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Esta Corte Superior possui entendimento no sentido de que a ajuda de custo somente é devida aos servidores que, no interesse da Administração, forem removidos ex officio, com fundamento no art. 36, parágrafo único, inciso I, da Lei 8.112/90, hipótese na qual não se enquadra o caso dos autos, em que a cessão deu-se por interesse do recorrente, somente havendo anuência da Administração mediante renúncia do servidor à verba indenizatória.
+2. O deferimento da remoção a pedido e da cessão perpassam pela discricionariedade conferida à Administração Pública, que decorre da premissa básica de que o deslocamento do servidor, por interesse próprio, não pode ser prejudicial ao interesse da coletividade.
+3. O parágrafo único do art. 56 da norma estabelece que no afastamento previsto no inciso I do art. 93 - para exercício de cargo em comissão ou função de confiança -, a ajuda de custo será paga pelo órgão cessionário, quando cabível.
+4. Agravo regimental improvido. (AgRg no RMS n. 21.106/BA, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/9/2015, DJe de 1º/10/2015.)
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. CESSÃO. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA. ATO DISCRICIONÁRIO. RECURSO IMPROVIDO.
+1. Conforme pacífica orientação jurisprudencial do Supremo Tribunal Federal e do Superior Tribunal de Justiça, servidor público não tem direito adquirido à manutenção de regime jurídico funcional.
+2. Hipótese em que a recorrente  servidora pública do Poder Judiciário do Estado do Espírito Santo, à disposição da Câmara dos Deputados desde 1987  defende ser inaplicável o disposto na Lei Complementar Estadual 46/94, segundo a qual a cessão para outro órgão ou Poder será de 5 (cinco) anos, prorrogável a critério do governador, ao argumento de que ingressou no serviço público antes da promulgação da referida lei.
+3. A cessão de servidor público detém natureza precária e provisória. Por constituir ato discricionário, encontra-se sujeita aos juízos de conveniência e oportunidade da Administração. Precedentes.
+4. Recurso ordinário improvido. (RMS n. 23.386/ES, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 14/6/2007, DJ de 6/8/2007, p. 544.)
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. CESSÃO TEMPORÁRIA . REVOGAÇÃO. INDEFERIMENTO DO PEDIDO DE REMOÇÃO DEFINITIVA. ATO PRECÁRIO. JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO. LEGALIDADE.
+1. A cessão temporária de servidor público, bem como sua remoção definitiva, é ato precário, passível de ser revogado a qualquer momento, por juízo de conveniência e oportunidade da Administração.
+2. Ausência de ilegalidade do ato que, com base na supremacia do interesse público, indeferiu o pedido de remoção definitiva da impetrante devido à necessidade de seu retorno à comarca de origem, cuja única vaga de psicóloga judicial estaria desocupada diante de sua cessão temporária.
+3. Recurso ordinário improvido. (RMS n. 23.445/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 22/11/2007, DJ de 10/12/2007, p. 442.)
+Assim, não demonstrada nenhuma ilegalidade do ato questionado, é de rigor a denegação da segurança.
+Ante o exposto, denego a segurança.
+Publique-se. Intimem-se.
+EMENTA
