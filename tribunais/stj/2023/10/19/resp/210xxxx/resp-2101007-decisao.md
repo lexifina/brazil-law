@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO RESIDENCIAL MIRASOL, com amparo no art. 105, III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 71):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. CONDOMÍNIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCLUSÃO DAS PRESTAÇÕES VINCENDAS. IMPOSSIBILIDADE. NÃO SE MOSTRA POSSÍVEL A INCLUSÃO DAS PARCELAS VINCENDAS NO TRANSCORRER DA EXECUÇÃO, HAJA VISTA QUE TAL INCLUSÃO IMPORTA DIRETAMENTE EM OFENSA AOS REQUISITOS DA LIQUIDEZ E DA EXIGIBILIDADE DO TÍTULO. POSSÍVEL A INCLUSÃO DAS PARCELAS VINCENDAS, NA FORMA DO ART. 323 DO CPC, SOMENTE NO PROCEDIMENTO DE COGNIÇÃO, COM SENTENÇA QUE ABRANGERÁ AS PARCELAS VINCENDAS. ENTENDIMENTO PACIFICADO DESTE ÓRGÃO FRACIONÁRIO. DECISÃO MONOCRÁTICA MANTIDA. NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 96-97).
+Nas razões do recurso especial (e-STJ fls. 104-117), o insurgente alega, além de dissídio jurisprudencial, violação aos arts. 323 e 771, parágrafo único, do CPC/2015.
+Sustenta, em síntese, que, na ação de execução, é permitida a inclusão das cotas condominiais vincendas no débito exequendo até o efetivo pagamento da dívida, em observância aos princípios da efetividade e da economia processual.
+Sem contrarrazões.
+O Tribunal de origem admitiu o recurso especial, ascendendo os autos a esta Corte (e-STJ, fls. 133-136).
+Brevemente relatado, decido.
+No caso em estudo, o Tribunal de origem entendeu pela impossibilidade de inclusão das cotas condominiais vincendas no curso da ação de execução, de acordo com as seguintes justificativas (e-STJ, fls. 69-70):
+Cuida-se de agravo interno manejado em face de decisão que negou provimento ao agravo de instrumento, mantida a decisão originária que considerou incabível a pretensão de inclusão das cotas condominiais vincendas à execução manejada.
+Sem razão o recorrente.
+Nada a modificar na decisão agravada, a qual vai transcrita a fim de evitar desnecessária tautologia:
+Cuida-se de agravo de instrumento interposto contra decisão que indeferiu a inclusão das cotas condominiais vincendas, limitando o pedido do exequente às parcelas vencidas.
+O agravante, por sua vez, alega ser cabível a inclusão de parcelas vincendas na execução.
+Com a devida vênia, a insurgência não tem condições de prosperar.
+Conforme fundamentado na decisão agravada, não se mostra pertinente a inclusão das parcelas vincendas em demanda executiva, posto que tal pretensão retira do título a sua certeza e liquidez, pressupostos indispensáveis, conforme o art. 783, do CPC, que assim dispõe, in verbis:
+"Art. 783. A execução para a cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível.
+"Possível a inclusão das parcelas vincendas, na forma do art. 323 do CPC, somente no procedimento de cognição, com sentença que abrangerá as parcelas vincendas. Nesse sentido, a jurisprudência desta Câmara:
+(..)
+Assim, não se mostra possível a inclusão das parcelas vincendas no transcorrer da execução, haja vista que tal inclusão importa diretamente em ofensa aos requisitos da liquidez e da exigibilidade do título.
+Entretanto, conforme o entendimento consolidado das Turmas de Direto Privado do Superior Tribunal de Justiça, afigura-se cabível a inclusão das parcelas vincendas e não pagas, no débito exequendo, até o cumprimento integral da obrigação no curso do processo de execução.
+A respeito do tema, o art. 323 do CPC/2015 estabelece que, na ação que tiver por objeto cumprimento de obrigação em prestações sucessivas, essas serão consideradas incluídas no pedido, independentemente de declaração expressa do autor, e serão incluídas na condenação, enquanto durar a obrigação, se o devedor, no curso do processo, deixar de pagá-las ou de consigná-las.
+Nesse contexto, de acordo com orientação jurisprudencial do STJ, embora o art. 323 do CPC/2015 se refira à tutela de conhecimento, revela-se perfeitamente possível aplicá-lo ao processo de execução, a fim de permitir a inclusão das parcelas vincendas no débito exequendo, até o cumprimento integral da obrigação no curso do processo, visto que o art. 771 do CPC/2015, que regula o procedimento da execução fundada em título extrajudicial, permite, em seu parágrafo único, a aplicação subsidiária das disposições concernentes ao processo de conhecimento à execução, dentre as quais se insere a regra do aludido art. 323.
+Além disso, a adoção de entendimento diverso - no sentido de não permitir a inclusão das parcelas vincendas no curso do feito executivo - acarretaria o ajuizamento de novas execuções fundadas na mesma relação obrigacional, sobrecarregando ainda mais o Poder Judiciário, em total desconformidade com os princípios da efetividade e da economia processual.
+A esse respeito, confiram-se os seguintes precedentes de ambas as Turmas de Direto Privado do Superior Tribunal de Justiça:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO NO JULGADO. INEXISTÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCLUSÃO DAS PARCELAS VENCIDAS NO DÉBITO EXEQUENDO. POSSIBILIDADE. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. SÚMULA 83/STJ. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do Direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O entendimento firmado pelo Tribunal de origem está em consonância com a jurisprudência do Superior Tribunal de Justiça, que permite a inclusão de parcelas vincendas na ação de execução.
+Incidência da Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.328.608/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ENCARGOS CONDOMINIAIS. TÍTULO EXECUTIVO EXTRAJUDICIAL. ART. 784, X, DO CPC/15. OPÇÃO PELA AÇÃO DE CONHECIMENTO. TÍTULO JUDICIAL. ART. 785 DO CPC/15. CONDENAÇÃO JUDICIAL. PARCELAS VINCENDAS. INCLUSÃO. DATA LIMITE. EFETIVO PAGAMENTO. POSSIBILIDADE. PRECEDENTES. PRINCÍPIOS DA EFETIVIDADE E DA ECONOMIA PROCESSUAIS. EXCEÇÃO. CUMPRIMENTO DE SENTENÇA QUE FIXA TERMO DIVERSO. IMPOSSIBILIDADE DE ALTERAR. OFENSA À COISA JULGADA. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. Ação de cobrança, ajuizada em 15/8/2019, da qual foi extraído o presente recurso especial, interposto em 4/7/2022 e concluso ao gabinete em 23/9/2022.
+2. O propósito recursal consiste em definir se é possível incluir na condenação da ação de cobrança de quotas condominiais as parcelas vincendas até o efetivo pagamento, ainda que posteriores à sentença e ao trânsito em julgado.
+3. As contribuições ordinárias ou extraordinárias de condomínio edilício, previstas na respectiva convenção ou aprovadas em assembleia geral, desde que documentalmente comprovadas, autorizam a propositura de execução de título extrajudicial (art. 784, X, do CPC/15).
+4. Precedentes desta Corte no sentido de ser possível a inclusão, na execução de título extrajudicial, das parcelas vincendas no débito exequendo, até que ocorra o cumprimento integral da obrigação.
+Entendimento que privilegia os princípios da efetividade e da economia processual.
+5. A existência de título executivo extrajudicial não impede a parte de optar pela ação de conhecimento (ação de cobrança), a fim de obter título executivo judicial, nos termos do art. 785 do CPC/15.
+6. De acordo com os precedentes desta Corte, é possível a condenação das parcelas vincendas das quotas e encargos condominiais até o efetivo pagamento, desde que apresentem a mesma natureza, sejam homogêneas, contínuas e originárias do mesmo título.
+7. Todavia, na hipótese de o Tribunal de origem, diante das peculiaridades da situação em concreto, estabelecer marco diferenciado no título executivo judicial, ocorrendo o trânsito em julgado da decisão, esse não poderá ser modificado em cumprimento de sentença, sob pena de violação das normas processuais referentes à coisa julgada e à segurança jurídica.
+8. Não obstante o art. 323 do CPC/15 (art. 290 do CPC/73) admita a inclusão na sentença condenatória, de parcelas vincendas no curso da demanda até o efetivo pagamento, esta providência é vedada em cumprimento de sentença quando o título executivo judicial estabelece marco final diverso, sob pena de ofensa à coisa julgada.
+9. Hipótese em que o acórdão estadual determinou a condenação da recorrente ao pagamento de quotas condominiais vencidas e vincendas até a data do efetivo pagamento. Necessidade de manutenção da decisão.
+10. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 2.025.425/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/3/2023, DJe de 10/3/2023.)
+RECURSO ESPECIAL. CONDOMÍNIO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL, CONTRIBUIÇÕES ORDINÁRIAS OU EXTRAORDINÁRIAS DE CONDOMÍNIO EDILÍCIO. INCLUSÃO DE PRESTAÇÕES VINCENDAS NO DÉBITO EXEQUENDO. POSSIBILIDADE. INCLUSÃO AUTOMÁTICA NA EXECUÇÃO APENAS PARA AS PRESTAÇÕES HOMOGÊNEAS, CONTÍNUAS E DA MESMA NATUREZA. A MODIFICAÇÃO DE NATUREZA OU DA HOMOGENEIDADE DA PRESTAÇÃO, BEM COMO DE EVENTUAL AMPLIAÇÃO DO ATO CONSTRITIVO ENSEJA A ABERTURA DE NOVO DIREITO DE DEFESA DO DEVEDOR, RESTRITA AO ACRÉSCIMO DO REFERIDO CONTEÚDO E A ELE LIMITADA.
+1. Com o advento do CPC/2015, o crédito referente às contribuições ordinárias ou extraordinárias de condomínio edilício - previstas na respectiva convenção ou aprovadas em assembleia geral, desde que documentalmente comprovadas - passou a ser expressamente considerado como título executivo extrajudicial, nos termos do art. 784, inciso X.
+2. Com a comprovação dos requisitos do título executivo extrajudicial, mostra-se possível a inclusão, na execução, das parcelas vincendas no débito exequendo, até o cumprimento integral da obrigação do curso do processo.
+3. No entanto, apenas as prestações homogêneas, contínuas e da mesma natureza comportam essa inclusão automática na execução. Assim, em havendo modificação da natureza da prestação ou da sua homogeneidade, bem como de eventual ampliação do ato constritivo dela decorrente, deverá ser oportunizado ao devedor o direito de se defender, por meio de embargos, em relação a esse acréscimo e limitado ao referido conteúdo.
+4. Recurso especial provido.
+(REsp n. 1.835.998/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/10/2021, DJe de 17/12/2021.)
+Por conseguinte, constatada a divergência entre a conclusão adotada pela Corte de origem e o entendimento do Superior Tribunal de Justiça a respeito da matéria, impõe-se a reforma do acórdão impugnado para reconhecer a possibilidade de inclusão das cotas condominiais vincendas na ação de execução em questão
+Ante o exposto, dou provimento ao recurso especial para determinar a inclusão das cotas condominiais vincendas na ação de execução ajuizada pelo recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COTAS CONDOMINIAIS. INCLUSÃO DAS PARCELAS VINCENDAS NO DÉBITO EXEQUENDO. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
