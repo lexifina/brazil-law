@@ -1,0 +1,81 @@
+DECISÃO
+Cuida-se de agravo interposto por LITUCERA LIMPEZA E ENGENHARIA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 2018):
+APELAÇÃO - AÇÃO INDENIZATÓRIA - ATROPELAMENTO - DANOS MORAIS - PENSÃO MENSAL
+- É dever de todo motorista, nos termos do Código de Trânsito Brasileiro, guardar distância segura dos demais veículos, tanto lateral como frontal, devendo guiar seu veículo de forma atenta e diligente, com atenção e cuidados indispensáveis à segurança do trânsito;
+- Evidente que o autor sofreu grave ofensa aos seus direitos de personalidade. Foi vítima de acidente de trabalho, que culminou com amputação da sua perna. Evidentemente desnecessária a prova de que tal fato lhes causou grave dano que comporta reparação, afinal, trata-se de perda de membro inferior.
+RECURSO DO AUTOR PROVIDO
+RECURSOS DAS CORRÉS IMPROVIDOS
+Rejeitados os embargos de declaração opostos (fls. 2061-2063).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 11, 489, II, § 1º, IV, e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+No mérito, a recorrente aduz que o acórdão contrariou as disposições contidas nos arts. 5º, II, e 93, IX, da Constituição Federal; 1º e 2º, parágrafo único, do Código de Trânsito brasileiro; 186, 389, 395, 927, 944, parágrafo único, 945, 946 e 950 do Código Civil.
+Suscita, em síntese, inexistência de norma legal que obrigue a utilização de aviso sonoro de marcha ré no caminhão envolvido no acidente, aduzindo que não está inserida no rol de equipamentos obrigatórios de um caminhão.
+Argui inaplicabilidade do Código de Trânsito brasileiro em razão de não se tratar o local do acidente de via pública.
+Assevera que os juros de mora sobre a indenização por danos morais devem incidir a partir do arbitramento e não do evento danoso como fixado.
+Sustenta "impossibilidade de liquidação com relação à pensão mensal em razão da inexistência de valor líquido referente aos vencimentos mensais".
+Alega serem indevidos juros de mora sobre a pensão mensal desde a citação, por se tratar de obrigação futura, bem como a determinação de reajuste da categoria profissional, acrescida da correção monetária e dos juros de mora, o que acarretaria enriquecimento ilícito.
+Afirma ausência de elementos probatórios da responsabilidade civil.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial por Estre Ambiental S/A (fls. 2164-2170).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 2242-2247), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo por Josué Antônio Rodrigues Ferreira e por Estre Ambiental S.A., respectivamente (fls. 2369-2371 e 2419-2424).
+É, no essencial, o relatório.
+Mediante análise dos autos, verifica-se que a decisão agravada negou seguimento ao recurso especial, com base na aplicação do Tema n. 440 do STJ, e inadmitiu o recurso especial por alegação de violação de normas constitucionais, não violação dos arts. 11 e 489 do CPC, ausência de afronta a dispositivo legal, deficiência de cotejo analítico e incidência das Súmulas n. 7/STJ e 284/STF.
+Dessa decisão, a recorrente interpôs agravo em recurso especial.
+Inicialmente, cumpre registrar que, nos termos do art. 1.030, § 2º, do CPC, da decisão que nega seguimento a recurso especial em razão de o acórdão recorrido estar em conformidade com entendimento firmado em julgamento repetitivo por esta Corte Superior, cabe agravo interno.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. 1. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL CONTRA A DECISÃO FUNDADA NO ART. 1.030, I, B, DO CPC/2015. 2. AGRAVO INTERNO DESPROVIDO.
+1. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015, quando a Corte de origem o inadmitir com base em recurso repetitivo, constitui erro grosseiro.
+1.1. A irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.312.157/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO ESPECIAL PARCIALMENTE DENEGADO NA ORIGEM COM FUNDAMENTO NO REGIME DOS RECURSOS REPETITIVOS (CPC, ART. 1.030, I, B). ENCERRAMENTO DA PRESTAÇÃO JURISDICIONAL NESSE PONTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIQUIDEZ DO TÍTULO EXECUTIVO COMPROVADA. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Nos termos do que dispõe o artigo 1.030, § 2º, do atual Código de Processo Civil, não cabe agravo em recurso especial ao STJ contra decisão que nega seguimento ao recurso especial com base no art. 1.030, I, "b", do CPC/2015, sendo da competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de equívoco na aplicação de precedente do STJ em recurso especial representativo da controvérsia.
+2. O Tribunal de origem, analisando as circunstâncias do caso concreto, entendeu que não ficou evidenciado cerceamento de defesa, bem como demonstrou-se a liquidez do título executivo fundado em cédula de crédito bancário. A modificação do entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.142.925/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/3/2023, DJe de 30/3/2023.)
+Dito isso, passo à análise do agravo em recurso especial quanto aos pontos que foram inadimitidos.
+Consoante verifica-se, a parte agravante não impugnou especificamente o fundamento da decisão agravada; ao revés, replicou as razões do recurso especial.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, cito precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. A ausência de impugnação específica a todos os fundamentos da decisão combatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, § 1º, do CPC, e da Súmula 182 desta Corte.
+2. A Corte Especial do STJ firmou o entendimento segundo o qual a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.949.904/GO, relator Ministro Olindo Menezes (desembargador convocado do TRF 1ª Região),
+Sexta Turma, DJe de 10/6/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. A Súmula 182/STJ é aplicável no âmbito dos agravos internos do Superior Tribunal de Justiça, tendo sido editada, inclusive, para este fim.
+3. Conforme firmado pela Corte Especial do STJ no EREsp 1.424.404/SP (Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 17/11/2021), a aplicação da Súmula 182/STJ depende de que a parte não ataque o capítulo único da decisão agravada ou, havendo nela mais de um, que a parte deixe de atacar todos os fundamentos impostos ao capítulo impugnado. No mesmo sentido: EREsp 1738541/RJ, Rel. Min. Mauro Campbell Marques, Corte Especial, DJe de 8/2/2022.
+4. No caso concreto, o mérito do recurso especial foi decidido de forma unificada através da aplicação das Súmulas 283/STF, 7/STJ e 284/STF, tendo a parte interessada, no seu agravo interno, deixado de impugnar a incidência da Súmula 284/STF. Deste modo, como um capítulo autônomo da decisão monocrática foi combatido apenas parcialmente, aplicável o enunciado da Súmula 182/STJ.
+5. Embargos de declaração acolhidos, para esclarecimento, sem efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.689.848/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 24/3/2022.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Nesse sentido, confiram-se julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DO ENUNCIADO N. 182/STJ. HABEAS CORPUS EX OFFICIO. TRÁFICO. PENA RECLUSIVA DE 5 (CINCO) ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PRIMARIEDADE RECONHECIDA. REGIME INICIAL SEMIABERTO. ART. 33, § 2.º, ALÍNEA B, E § 3.º, DO
+CÓDIGO PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA, DE OFÍCIO.
+1. Ausente a impugnação concreta aos fundamentos utilizados pela decisão agravada, que não conheceu do recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Nos termos de reiteradas manifestações desta Corte, " a  não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessarte, não é suficiente a assertiva de que todos os requisitos foram preenchidos ou a insistência no mérito da controvérsia".
+(AgRg no AREsp 1.547.953/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/09/2019, DJe 04/10/2019.). ..  (AgRg no AREsp n. 2.016.016/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 6/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ARTS. 253, I, do RISTJ E 932, III, DO CPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão de admissibilidade do recurso especial.
+2. Como cediço, a parte, para ver seu recurso especial inadmitido ascender a esta Corte Superior, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. No caso, restou consignado na decisão ora recorrida que o recurso especial deixou de ser admitido considerando: (a) incidência da Súmula 400 do STF; (b) incidência da Súmula 7 do STJ; e (c) dissídio jurisprudencial não comprovado, à míngua do indispensável cotejo analítico e da demonstração da similitude fática.
+4. Entretanto a parte agravante deixou de impugnar especificamente a incidência da Súmula 7/STJ e a não demonstração da divergência jurisprudencial.
+5. Com relação à incidência da Súmula 7 do STJ, observa-se das razões do agravo em recurso especial que a parte agravante refutou sua incidência apenas de maneira genérica, sem explicitar, de forma clara e objetiva, a inaplicabilidade do mencionado óbice sumular.
+6. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, havendo omissão de impugnação específica acerca dos fundamentos da decisão questionada, não se conhece do Agravo em Recurso Especial, consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ.
+7. Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+8. Consigne-se que, conforme a jurisprudência do STJ, a refutação somente por ocasião do manejo de agravo interno dos fundamentos da decisão que inadmitiu o recurso especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação dos referidos óbices, tendo em vista a ocorrência de preclusão consumativa.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.477.310/RJ, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS EM QUE SE ASSENTA A DECISÃO AGRAVADA. INVIABILIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Trata-se de Agravo contra decisão que não conheceu de ambos os Agravos em Recurso Especial por ausência de impugnação às Súmulas 7/STJ (Agravo do Estado) e 83/STJ (Agravo dos particulares).
+2. Em atenção ao princípio da dialeticidade recursal, a refutação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+3. A citação en passant de precedente do STJ não pode ser considerada impugnação especificamente apta a afastar a incidência da Súmula 182/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.897.137/AL, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. I ntimem-se.
+ EMENTA
