@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela Fazenda do Estado de São Paulo em que alega omissão no exame de seu recurso especial no qual pleiteava o exame da suposta violação aos arts. 490 e 1.022, II, do CPC.
+Ao final, requer a reconsideração da decisão embargada e sanada a omissão apontada.
+É o breve relato.
+Razão assiste ao ente estatal embargante, pois de fato, não houve exame do recurso especial de fls. 221/235.
+No caso, a decisão embargada deu provimento ao recurso especial interposto pelo Município de Assis, pois o acórdão recorrido teria julgado em desacordo com a jurisprudência deste Sodalício.
+Contudo, após novo exame dos presentes autos verificou-se que a matéria de fundo debatida nos autos quanto à Possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral ( RE 1.412.069 - Tema 1255 ).
+Mostra-se conveniente, assim, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+Confira-se, a propósito, precedente desta Corte:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO CONSTATADA. TEMA AFETADO AO RITO DA REPERCUSSÃO GERAL (RE 928.984/SP - TEMA 914). EXEGESE DOS ARTS. 1.040 e 1.041 DO CPC/2015. DEVOLUÇÃO E SOBRESTAMENTO DO ESPECIAL NA CORTE DE ORIGEM.
+1. A matéria de fundo debatida nos autos, referente à constitucionalidade da Contribuição de Intervenção no Domínio Econômico - CIDE sobre remessas ao exterior, instituída pela Lei 10.168/2000, posteriormente alterada pela Lei 10.332/2001, foi afetada pelo Supremo Tribunal Federal ao rito da repercussão geral (RE 928.984/SP - Tema 914).
+2. Mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito as decisões anteriores, com a restituição dos autos ao Tribunal de origem, para que, no momento oportuno, seja observado o disposto nos arts. 1.040 e 1.041 do CPC/2015.
+(EDcl no AgInt no AREsp 584.511/RJ, Relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/2/2020, DJe de 20/2/2020.)
+EM RAZÃO DO EXPOSTO, acolho os embargos para reconsiderar a decisão de fls. 280/283, julgo prejudicado o recurso especial interposto pelo Município de Assis, bem como determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, onde, nos termos dos arts. 1.040 e 1.041 do CPC, deverá ser realizado o juízo de conformação ou manutenção do acórdão local frente ao que vier a ser decidido pela Excelsa Corte.
+Ademais, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado, no presente momento processual, o exame do recurso especial da Fazenda do Estado de São Paulo.
+Observa-se, ainda, que, de acordo com o artigo 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões", cuja diretriz metodológica, por certo, deve alcançar também aqueles feitos que já tenham ascendido a este STJ.
+Publique-se.
+EMENTA
