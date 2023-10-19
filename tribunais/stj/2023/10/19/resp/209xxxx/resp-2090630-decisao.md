@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado por Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 149):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE PASSIVA DA EXECUTADA. EXISTÊNCIA DE COISA JULGADA QUANTO AO TEMA. OBSERVÂNCIA. IMPROVIMENTO.
+1. Agravo de instrumento interposto pela FAZENDA NACIONAL contra decisão que, em sede de Cumprimento de Sentença, que rejeitou a impugnação ao cumprimento de sentença apresentada pela recorrente, reconhecendo que operou-se a coisa julgada quanto a preliminar de ilegitimidade alegada, vez que tal matéria já foi discutida no bojo do Recurso Especial n . 1.594.387/PE.
+2. Hipótese em que houve a incidência indevida de imposto de renda retido na fonte sobre as gratificações de atividade de atividade externa dos oficiais de justiça do Estado de Pernambuco, que foram reconhecidas como verbas indenizatórias.
+3. Impossibilidade de ser invocada a ilegitimidade passiva da recorrente neste iter processual. A prefacial deveria ter sido suscitada antes do trânsito em julgado do título exequendo. A questão foi ventilada no Recurso Especial n º 1.594.387/PE, operando-se a coisa julgada quanto à matéria em 19/05/2016. Não incidência da tese firmada no RESP nº 989.419/RS, julgado sob a sistemática dos recursos repetitivos e do teor da súmula 447 do STJ.
+4. Agravo de instrumento improvido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 274/276.
+A parte recorrente sustenta, em resumo, que a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No que diz respeito à tese a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+Além disso, é deficiente a fundamentação do recurso especial acerca da tese negativa de prestação jurisdicional, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, não sendo suficiente a mera transcrição das razões dos embargos de declaração. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
