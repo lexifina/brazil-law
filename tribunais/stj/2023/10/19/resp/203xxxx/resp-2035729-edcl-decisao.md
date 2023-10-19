@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por José Carlos Santa Ana contra decisão de fls. 325/327, que negou provimento ao seu recurso especial.
+A parte embargante aponta contradição no julgado, por considerar que os precedentes mencionados militam a favor do argumento defendido no nobre apelo, no sentido de que é desnecessário aguardar o trânsito em julgado do IRDR para a aplicação da tese ali fixada.
+O INSS deixou transcorrer in albis o prazo para resposta (fl. 341).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Os embargos devem ser acolhidos, ante a presença da contradição apontada.
+Em um breve retrospecto, o segurado interpôs reclamação, com base no art. 988, IV, do CPC, requerendo a aplicação da tese firmada no IRDR 15, oriundo do TRF4 (5054341-77.2016.4.04.0000), na ação ordinária por ele ajuizada (5061945-12.2014.4.04.7000), apresentando como pedido alternativo a suspensão do processo até o julgamento definitivo do indicado incidente.
+Como indicado na decisão embargada, o Tribunal Regional Federal da 4ª Região compreendeu que as decisões de mérito em IRDR não têm efeito vinculante antes de apreciado o mérito de recurso especial ou extraordinário eventualmente interposto. Como fundamento, adotou a previsão contida no art. 987 do CPC para que, caso aberta a instância recursal, seja este recebido com efeito suspensivo e, apreciado o mérito, a tese jurídica adotada tenha aplicação em todo o território pátrio.
+De fato, em um primeiro momento, concluiu-se que tal posicionamento não se distanciou da compreensão de que o IRDR também integra o microssistema de precedentes e, caso a tese firmada local seja submetida à instância extraordinária, ela passará a produzir efeitos na esfera nacional.
+No entanto, observando com atenção o acórdão regional, a reclamação foi improvida porque considerou-se que, até aquele momento, o STJ ainda não havia se manifestado sobre o recebimento do IRDR como repetitivo. Concluiu-se, assim, que a tese não teria observância obrigatória, porquanto e , não haveria como julgar procedente a reclamação.
+Também deve ser ponderado que, entre o acórdão recorrido e a apreciação do presente recurso especial, o citado IRDR foi recebido neste Sodalício e autuado como REsp 1.828.606/RS, sendo afetado como repetitivo. Esta foi a tese ali delimitada:
+"1) se para provar a eficácia ou ineficácia do EPI (Equipamento de Proteção Individual) para a neutralização dos agentes nocivos à saúde e integridade física do trabalhador, para fins de reconhecimento de tempo especial, basta o que consta no PPP (Perfil Profissiográfico Previdenciário) ou se a comprovação pode ser por outros meios probatórios e, nessa última circunstância, se a prova pericial é obrigatória;
+2) se é possível impor rito judicial instrutório rígido e abstrato para apuração da ineficácia do EPI, como fixado pelo Tribunal de origem, ou se o rito deve ser orientado conforme os elementos de cada contexto e os mecanismos processuais disponíveis na legislação adjetiva;
+3) se a Corte Regional ampliou o tema delimitado na admissão do IRDR e, se positivo, se é legalmente praticável a ampliação;
+4) se é cabível fixar de forma vinculativa, em julgamento de casos repetitivos, rol taxativo de situações de ineficácia do EPI e, sendo factível, examinar a viabilidade jurídica de cada hipótese considerada pelo Tribunal de origem (enquadramento por categoria profissional, ruído, agentes biológicos, agentes cancerígenos e periculosidade);
+5) se é admissível inverter, inclusive genericamente, o ônus da prova para que o INSS demonstre ausência de dúvida sobre a eficácia do EPI atestada no PPP".
+Contudo, o Tema 1.090/STJ acabou por ser desafetado, ante o entendimento de que não é possível interpor Recurso Especial contra acórdão do Tribunal de origem que estabeleça uma tese jurídica em abstrato durante o julgamento de Incidente de Resolução de Demandas Repetitivas (IRDR), pois este não preenche o requisito constitucional de "causa decidida".
+Desta forma, o recurso especial deve ser provido, para determinar o retorno dos autos à origem, a fim de que a reclamação tenha seu mérito apreciado.
+ANTE O EXPOSTO, acolho os embargos de declaração para sanar a contradição indicada e, via de consequência, modificar o julgado de fls. 325/327, para julgar procedente o recurso especial, nos termos da fundamentação supra.
+Publique-se.
+EMENTA
