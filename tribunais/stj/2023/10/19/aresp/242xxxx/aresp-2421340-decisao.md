@@ -1,0 +1,66 @@
+DECISÃO
+Cuida-se de agravo apresentado por INNOVA INVENTARIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PRESTAÇÃO DE SERVIÇOS. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO. APELAÇÃO. INTERPOSIÇÃO DESACOMPANHADA DO COMPROVANTE DO RECOLHIMENTO DO PREPARO. INDEFERIMENTO DO PLEITO DE GRATUIDADE JUDICIAL. AUSÊNCIA DE REGULARIZAÇÃO NO PRAZO CONCEDIDO. DESERÇÃO VERIFICADA. ELEVAÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL. RECURSO NÃO CONHECIDO, COM OBSERVAÇÃO. 1. Indeferido o benefício da gratuidade e concedido prazo para a comprovação do recolhimento da primeira parcela do preparo recursal, diante do deferimento de parcelamento, nos termos do artigo 99, § 7º, do Código de Processo Civil, a apelante quedou-se inerte. Assim, não há como deixar de reconhecer a deserção. 2. Diante desse resultado e por força do que estabelece o artigo 85, § 11, do CPC, impõe-se elevar a verba honorária, fixando-a em 11% sobre o valor atualizado da causa.
+Quanto à primeira controvérsia, requer a parte recorrente a exclusão da multa estabelecida no art. 1.026, § 2º, do CPC, porquanto, os embargos de declaração opostos carecem de caráter protelatório. Apresenta os seguintes argumentos:
+Em primeiro lugar, merece iniciar a questão quanto a injusta aplicação de multa de ato protelatório, nos termos do artigo 1.026, § 2º, do CPC.
+Senhores julgadores, o acórdão de fls. De embargos de declaração deve ser reformado para afastar a multa aplicada.
+O relator não fundamentou a decisão em que consiste a aplicação de multa em 1% do valor da causa.
+Não apresentou quais condutas esta requerente apresentou com intensão dolosa de protelar o feito.
+ ..
+Todavia, a aplicação de multa de ato protelatório nos termos do artigo 1.026, § 2º, do CPC, merece sofrer reforma.
+Veja que os embargos foram pertinentes e adequados para a regular tramitação do feito.
+ ..
+Ora, pelos fundamentos no V. Acórdão de embargos de declaração, analisando o V. acórdão de apelação, evidencia que o julgado de apelo não apreciou as questões acima destacadas, que veio a fazer após interposição de embargos de declaração, FATO QUE AFASTA QUALQUER ATO PROTELATÓRIO PARA JUSTIFICAR A APLICAÇÃO DE MULTA.
+Portanto, diferente do defendido pelo Desembargador não houve qualquer ato procrastinatório no processo, POIS OS QUESTIONAMENTOS SÃO sem MÁ-FÉ E PERTINENTE PARA APLICAÇÃO DE ENTENDIMENTO POR ESTE SUPERIOR Tribunal DE JUSTIÇA.
+Considerando não haver má-fé, e os fundamentos apresentados no Acórdão de embargos de declaração, ausente no V. Acórdão de apelação, não justifica a incidência da multa.
+Portanto, requer seja conhecido e provido este recurso especial para declarar nulo e/ou ser reformado o acórdão de embargos de declaração, para afastar a multa de ato procrastinatório, do artigo 1.026, § 2º, do CPC (fls. 1.892-1.894).
+Quanto à segunda controvérsia, a parte recorrente alega violação dos arts. 3º, 98 e 99, § 2º, do CPC; art. 5º, XXXV e LV, da CF/88; e inobservância ao disposto na ADI n. 3154/SP00006444-15.2004.1.00.0000, no que concerne ao cerceamento do seu direito de defesa diante da deserção reconhecida nos autos, devendo ser deferido o pedido de gratuidade de justiça formulado face a majoração do valor da causa, o que tornou impossível o adimplemento dos ônus processuais. Apresenta os seguintes argumentos:
+No caso dos autos há manifesto cerceamento o acesso à justiça, razão pela qual se impõe a reforma das decisões proferidas nos autos de apelação que sem analisar pelo colegiado determinou recolhimento de preparo recursal e ao final determinou pela preclusão, decretando a deserção.
+Nos termos do art. 99, § 2., do CPC, apenas o juiz pode indeferir um pedido após requisitar informações sobre provas do pressuposto da gratuidade judicial.
+ ..
+Assim, quando o magistrado ignorando que no caso estava a debater justamente a gratuidade judicial por força do elevado valor de preparo recursal, deveria requisitar novas provas, diante este fato e consequências novas.
+Quando o Desembargador assim não o fez, implicou no cerceamento do contraditório e à ampla defesa, art. 5., LV, da Constituição Federal.
+ ..
+Senhor julgador, o Desembargador relator da apelação, ao decidir pelo recolhimento do preparo recursal e o colegiado aderir a tese de deserção, não observou que o valor a ser recolhido é de alta monta e impossível seu recolhimento, tendo em vista a realidade financeira da recorrente, sendo a r. decisão totalmente desprovida de qualquer razoabilidade e proporcionalidade, negando total vigência ao que prevê o art. 99 do CPC.
+Em realidade, no caso dos autos, o colegiado não apreciou a gratuidade judicial e a gratuidade recursal, em verdade, julgaram a apelação para decretar a deserção e negar o acesso à justiça.
+ ..
+Observando ainda que o Tribunal de piso sequer requisitou informações sobre a condição financeira da recorrente, como determinado pelo art. 99, § 2.º do CPC.
+Pior, sequer observou o que de fato comprova a sua condição financeira, o que lhe comprovadamente lhe impossibilita em proceder ao recolhimento de preparo recursal.
+Fato que reafirma a nulidade das decisões, visto ofender o contraditório e à ampla defesa.
+Desta forma, a decisão do Tribunal de piso que decretou deserção recursal, afronta o art. 3.º do CPC e reflexamente o art. 5.º, XXXV da Constituição Federal, sem contar que havendo nas razões recursais defesa da gratuidade judicial e gratuidade de preparo recursal, a decisão atacada ofendeu jurisprudência desta Superior Corte De Justiça: (STJ ARESP 1824966 MS) (fls. 1.895-1.897).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Na verdade, os embargos não encontram razão de ser. Fica bem nítido, diante do teor do julgamento havido, que o objetivo da embargante é o de procrastinar o andamento do processo, criando óbices à atuação jurisdicional, suscitado matéria que se encontra há temos superada pela preclusão.
+Assim, sendo evidente o caráter protelatório da interposição, justifica-se, no caso, a imposição da multa de 1% sobre o valor corrigido da causa, nos termos do artigo 1.026, § 2º, do CPC (fl. 1.886).
+Desse modo, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que, "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 11/2/2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23/3/2018; AgRg no REsp n. 1.192.745/PE, relator Ministro Og Fernandes, Sexta Turma, DJe de 21/3/2011.
+Quanto à segunda controvérsia, em relação à alegada violação do art. 5º, XXXV e LV, da CF/88 e da ADI n. 3154/SP00006444-15.2004.1.00.0000, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Por certo: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+A propósito: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Doutra banda , no que tange ao benefício da gratuidade de justiça, o acórdão recorrido assim decidiu:
+2. Desde logo, constata-se que a petição recursal foi protocolizada sem a prova do preparo respectivo, com a formulação do requerimento de gratuidade judicial.
+Seguiu-se o indeferimento do pleito por parte deste Relator, considerando que a questão já havia sido analisada anteriormente, na oportunidade do julgamento do agravo de instrumento nº 2063159-53.2018.8.26.0000 (fls. 1.307/1.308).
+Entretanto, diante da constatação de que o valor da causa é de R$ 1.300.000,00, foi deferido o parcelamento das custas, nos termos do art. 98, § 6º, do CPC, sendo então concedido o prazo de cinco dias para a comprovação do recolhimento da primeira parcela do preparo, sob pena de deserção.
+Improvido o Agravo Interno Cível nº 1049444-83.2017.8.26.0100/50000 (fls. 1.425/1.430 e 1.440/1.444), a apelante interpôs Recursos Extraordinário e Especial, aos quais foi negado seguimento (fls. 1.840/1.845).
+Cuidou este Relator de determinar o recolhimento da primeira parcela do preparo, sob pena de deserção (fl. 1.846).
+A autora apelante quedou-se inerte (fl. 1.848).
+A omissão da parte apelante, tornando preclusa a oportunidade para a regularização, implica o desatendimento de requisito de admissibilidade. Daí advém a impossibilidade de conhecer do apelo, operada que está a deserção (fls. 1864-1865, grifos meus).
+Consignou ainda o TJ/SP, em sede de embargos de declaração, que:
+A argumentação desenvolvida pela embargante, na verdade, objetiva a formulação de um juízo revisional do julgado, dando conteúdo de infringência ao recurso, o que se mostra inadmissível. Pretende-se, na verdade, a reabertura da discussão do tema decidido, com a reapreciação dos argumentos, o que não encontra sentido no estreito âmbito de discussão deste recurso.
+A questão referente ao pedido de concessão do benefício da gratuidade judicial foi ampla e exaustivamente tratada no curso do processo, inexistindo violação aos princípios do contraditório e da ampla defesa, tampouco ao devido processo legal.
+ ..
+Nesse contexto, não havia possibilidade de reexame da situação, sendo desnecessária a determinação para comprovar a situação de miserabilidade.
+Além disso, foram consideradas as particularidades do caso, sendo conferida a oportunidade de parcelamento do valor do preparo em razão do expressivo valor da causa (fl. 1.308).
+Houve, ainda, a interposição de agravo regimental, de modo que a questão foi submetida ao julgamento colegiado, sendo rejeitado o pedido de concessão da gratuidade judicial em votação unânime (fls. 1.440/1.444).
+De igual modo, foi negado seguimento aos recursos especial e extraordinário interpostos pela ora embargante (fls. 1.840/1.845).
+Esgotada a discussão a respeito do tema da gratuidade, cuja apreciação deve ocorrer antes do julgamento da apelação, não havia mais possibilidade de nova discutir ser levantada a respeito desse ponto, ante a preclusão.
+No contexto da apelação restou apenas formular o juízo de admissibilidade, e evidentemente não pôde ser conhecido o recurso em virtude da falta de oportuno recolhimento das custas de preparo (fls. 1.884-1.886, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que: "É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF". (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/04/2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.690.156/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/04/2021; AgInt no AREsp n. 1.815.228/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 17/08/2021; AgInt no AREsp n. 931.169/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/04/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
