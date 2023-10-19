@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCUS RONELLE MONTEIRO NUNES em face da decisão que indeferiu liminarmente os embargos de divergência em razão da deserção.
+Em suas razões, a parte embargante alega que, (fls. 2030):
+Os presentes embargos visam suprir omissão acerca da negativa de vigência do art. 23-B, da Lei nº 8.429/1992, que dispõe que nas ações de improbidade administrativa "não haverá adiantamento de custas, de preparo, de emolumentos, de honorários periciais e de quaisquer outras despesas", o que inevitavelmente ocasionou cerceamento de defesa ao embargante e acabou por violar o art. 5º, XXXV, LIV e LV, da Constituição Federal.
+(..)
+Assim sendo, os recursos interpostos contra qualquer decisão publicada em data posterior a entrada em vigor do art. 23-B, da Lei nº 8.429/1992, devem observar a desnecessidade de adiantamento do preparo, pelo resta caracterizado o cerceamento de defesa.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição da petição de embargos de divergência perante a Secretaria deste Tribunal, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. PREENCHIMENTO DA GUIA DE RECOLHIMENTO ERRONEAMENTE. SÚMULA N. 187/STJ.
+1. De acordo com posicionamento do STJ, " é  dever do recorrente o correto recolhimento do preparo no momento da interposição do recurso. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção (AgInt no AREsp 1.313.440/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, REPDJe 29/05/2019, DJe 15/5/2019). Aplicação da Súmula 187/STJ, por analogia.
+2. Agravo interno não provido.
+(AgInt no AREsp 1667778/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+Nos autos, a parte embargante não cumpriu devidamente os requisitos relativos ao preparo, mesmo após intimada para regularização, conforme faculdade conferida sob a égide do Código de Processo Civil em vigor, quedou-se inerte.
+Ademais, veja-se que, na origem, cuida-se de ação civil pública de atos de improbidade administrativa apresentada pelo Ministério Público contra o ora agravante e outros. Porém, cumpre registrar que conforme entendimento jurisprudencial desta Corte, na ação civil pública, apenas o autor da ação possui a isenção de custas, não se estendendo tal benefício ao réu da demanda.
+Nesse sentido:
+SANCIONADOR. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA DE IMPROBIDADE ADMINISTRATIVA. ALEGAÇÃO DE QUE SERIA APLICÁVEL À ESPÉCIE A DISCIPLINA DO ART. 88 DO ESTATUTO DO IDOSO, QUE PREVÊ ISENÇÃO DE CUSTAS. CONTUDO, AS AÇÕES RELATIVAS AO ESTATUTO DO IDOSO SÃO AQUELAS LIGADAS A SEUS DIREITOS, DESTINADAS À PROTEÇÃO DE SAÚDE, INTEGRIDADE FÍSICA, ACESSO A RECURSOS FINANCEIROS E SERVIÇOS PÚBLICOS, SOBRETUDO CONSIDERANDO A SUA CONDIÇÃO DE HIPOSSUFICIENTE. POR ISSO, NESSAS AÇÕES, NÃO HÁ COBRANÇA DE TAXAS E EMOLUMENTOS. O ESTATUTO DO IDOSO NÃO É FRANQUIA LEGAL A QUE O RÉU IMPUTADO POR IMPROBIDADE SEJA CONSIDERADO ISENTO DE CUSTAS, OU QUE PRETENDA PAGÁ-LAS AO FINAL, PELA CIRCUNSTÂNCIA DE SER IDOSO. AGRAVO INTERNO DO DEMANDADO DESPROVIDO.
+1. Cinge-se a controvérsia em saber se é possível aplicar à espécie - Ação Civil Pública de Improbidade Administrativa em que idoso figura como acionado - o diferimento do pagamento de custas processuais a que alude o art. 88 do Estatuto do Idoso.
+2. Inicialmente, ressalva-se entendimento do Relator de que as ações de natureza sancionadora são movidas pelo princípio processual penal da necessidade, em que, imperiosamente, o acionado deve se defender, motivo pelo qual as garantias devem ser conferidas em sua maior amplitude, sem o pagamento de custas e despesas também por parte do demandado.
+3. Contudo, a compreensão desta Corte Superior é a de que o art. 18 da Lei 7.347/1985 é dirigido apenas ao autor da Ação Civil Pública, não estando o réu daquela espécie de demanda isento do pagamento das custas e despesas processuais (AgInt no AREsp 1.189.733/SP, Rel. Min. SÉRGIO KUKINA, DJe 12.11.2018).
+4.  ..
+10. Agravo Interno do demandado desprovido.
+(AgInt no AREsp n. 1.432.391/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 3/12/2019, DJe de 9/12/2019.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 03/STJ. AÇÃO CIVIL PÚBLICA. DIREITOS INDIVIDUAIS HOMOGÊNEOS. CONSUMIDOR. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. EFEITO ERGA OMNES DO JULGADO. ATO ILÍCITO. VALOR DA MULTA. REVISÃO. SÚMULA 7/STJ. RESOLUÇÃO DA ANATEL. ATO NORMATIVO QUE NÃO SE INSERE NO CONCEITO DE LEI FEDERAL. PARTE RÉ CONDENADA NAS CUSTAS PROCESSUAIS. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional, nem em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+ ..
+6. Esta "Corte Superior já firmou entendimento no sentido de que o art. 18 da Lei n. 7.347/85 é dirigido apenas ao autor da ação civil pública, não estando o réu daquela espécie de demanda isento do pagamento das custas e despesas processuais." (AgRg no AREsp 685.931/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9/9/2015).
+7. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.465.539/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/8/2019, DJe de 19/8/2019.)
+Assim, conforme entendimento acima exposado, não se aplica a isenção ao Sr. MARCUS RONELLE MONTEIRO NUNES, réu da demanda originária, ora embargante. Do mesmo modo, inaplicável o art. 23-B da Lei 8.429/92.
+Portanto, correta a decisão que julgou deserto o recurso especial, uma vez que tendo sido intimado a parte para regularizar as custas, quedou-se inerte.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1315507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
