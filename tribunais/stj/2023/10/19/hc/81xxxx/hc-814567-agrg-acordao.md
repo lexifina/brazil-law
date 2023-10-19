@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O habeas corpus não se presta para a apreciação de alegações que buscam a desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita, em especial diante da fundamentação expendida pelas instâncias de origem, no sentido de que havia relatos da vizinhança atestando o tráfico de entorpecentes, com grande movimentação de entrada e saída de pessoas na residência, ressaltando-se, em especial, o depoimento testemunhal nesse sentido, prestado em sede judicial, de uma das vizinhas. Precedentes.
+III - Foram ainda apreendidos na residência do paciente entorpecentes (46,3g de maconha) e dinheiro, em cédulas fracionadas em diversas notas (R$ 340,00), elementos que, harmônicos e coerentes entre si, confirmam os fatos deduzidos na exordial acusatória, atribuindo a autoria do delito previsto no art. 33 da Lei de Drogas ao ora agravante.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCIRIO PAULO RODRIGUES contra a decisão que denegou o habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o agravante foi condenado às penas de 05 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, por infringir o artigo 33, caput, da Lei n. 11.343/2006.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão de fls. 324-333.
+Opostos embargos infringentes e de nulidade, foram rejeitados nos termos do acórdão de fls. 368-397.
+No respectivo writ impetrado nesta Corte, a defesa requereu a concessão da ordem para desclassificar a conduta do paciente para aquela prevista no art. 28 da Lei 11.343/2006.
+A ordem de habeas corpus foi denegada (fls. 488-490).
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando que a conduta do paciente deve ser desclassificada para aquela prevista no art. 28 da Lei n. 11.343/2006, em razão da fragilidade probatória.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 498-503).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE DESCLASSIFICAÇÃO DO CRIME PARA A CONDUTA PREVISTA NO ART. 28 DA LEI DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O habeas corpus não se presta para a apreciação de alegações que buscam a desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita, em especial diante da fundamentação expendida pelas instâncias de origem, no sentido de que havia relatos da vizinhança atestando o tráfico de entorpecentes, com grande movimentação de entrada e saída de pessoas na residência, ressaltando-se, em especial, o depoimento testemunhal nesse sentido, prestado em sede judicial, de uma das vizinhas. Precedentes.
+III - Foram ainda apreendidos na residência do paciente entorpecentes (46,3g de maconha) e dinheiro, em cédulas fracionadas em diversas notas (R$ 340,00), elementos que, harmônicos e coerentes entre si, confirmam os fatos deduzidos na exordial acusatória, atribuindo a autoria do delito previsto no art. 33 da Lei de Drogas ao ora agravante.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Presentes os requisitos legais, conheço do agravo regimental.
+Como relatado, a defesa repisa argumentos de mérito, sustentando que a conduta do paciente deve ser desclassificada para aquela prevista no art. 28 da Lei n. 11.343/2006, em razão da fragilidade probatória.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+A Lei n. 11.343/2006 estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas, de modo que, em relação ao artigo 33, caput, dispõe dos seguintes verbos: "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas".
+No presente caso, diversamente do que foi alegado pelo impetrante, o que avulta do contexto fático delineado pela Corte de origem não é uma conduta de usuário de substância entorpecente, mas a de alguém que fazia a mercancia de drogas, ante os depoimentos harmônicos dos policiais, que relataram que a guarnição recebeu informações da vizinhança de que ele estaria traficando drogas ilícitas, havendo grande movimentação na residência, com entrada e saída de pessoas, bem como ante o depoimento, em sede judicial, da testemunha Micheli, vizinha do paciente, no mesmo sentido, a qual declarou que "o réu era traficante na época dos fatos; que morava na frente da casa dele; que inclusive Marcírio viciou o filho da depoente nas drogas".
+Ademais, foram apreendidos na residência do paciente entorpecentes (46,3g de maconha) e dinheiro, em cédulas fracionadas em diversas notas (R$ 340,00), elementos que, harmônicos e coerentes entre si, confirmam os fatos deduzidos na exordial acusatória, atribuindo a autoria do delito previsto no art. 33 da Lei de Drogas ao ora paciente.
+A propósito, o crime de tráfico de drogas é tipo misto alternativo restando consumado quando o agente pratica um dos vários verbos nucleares inserido no artigo 33, caput, da Lei n. 11.343/2006, sendo a venda prescindível ao seu reconhecimento.
+Qualquer incursão que escape a moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Nessa linha:
+" ..
+2. O Tribunal local ressaltou, ademais, que o fato de o recorrente ser eventual usuário de entorpecentes não tem o condão de afastar a responsabilidade penal pela prática do delito de tráfico de drogas, tampouco justifica a desclassificação da conduta para a prevista no art. 28, da Lei de Drogas.
+3. Desse modo, tendo a Corte de origem reputado farto o conjunto fático-probatório constante dos autos, a corroborar a condenação do recorrente pela prática de tráfico ilícito de drogas, afastando a postulada desclassificação para o art. 28, da Lei n. 11.343/2006, inviável, no caso em tela, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial. Incidência do óbice da Súmula n. 7/STJ.
+4. Agravo regimental não provido" (AgRg no AREsp n. 2.063.835/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 06/05/2022).
+Em reforço, os seguintes julgados: AgRg no HC n. 758.733/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 26/9/2022 e AgRg no HC n. 454.242/ES, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/11/2018.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
