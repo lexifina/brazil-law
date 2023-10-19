@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONCESSIONARIA DA RODOVIA OSORIO PORTO ALEGRE SA - CONCEPA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. OBJETO NA PISTA. COLISÃO E ATROPELAMENTO.
+RESPONSABILIDADE OBJETIVA DA EMPRESA PÚBLICA RESPONSÁVEL PELA ADMINSITRAÇÃO DA RODOVIA. DANO MATERIAL E MORAL. APELAÇÃO PROVIDA EM PARTE.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à exclusão da sua responsabilidade civil pelos danos decorrentes de acidente automobilístico ocorrido na Rodovia BR-290, porquanto, embora seja concessionária do serviço de administração e conservação não há como fiscalizar permanentemente os objetos descartados sobre a pista. Apresenta os seguintes argumentos:
+No caso em apreço, a recorrente entende que o acórdão hostilizado contraria regras infraconstitucionais de tal modo que restara tipificada a alínea "a", supra.
+Nesse sentido, é possível antecipar que o Acórdão recorrido viola, expressamente, os artigos 186 e 927 do Código Civil, ao atribuir à concessionária responsabilidade pelo acidente pela omissão no que concerne à conservação, manutenção, desobstrução, fiscalização e/ou sinalização da via pública.
+ ..
+Ora, muito embora a recorrente tenha responsabilidade pela administração e conservação da rodovia BR-290, decorrente do próprio contrato de concessão, não há como lhe atribuir a obrigação de controlar, 24 hs por dia, qualquer objeto que esteja na pista de rolamento.
+ ..
+A ora recorrente crê na necessidade de total reforma do acórdão, pois não foi demonstrado o nexo de causalidade entre a conduta da empresa e o suposto dano sofrido pela parte adversa.
+Ora, doutos magistrados, com a devida data vênia, percebe- se claramente que se deixou de aplicar o Código Civil no caso dos presentes autos, vez que o magistrado relator da decisão recorrida não avaliou se de fato havia nexo causal entre os fatos narrados.
+Diante de todo o exposto, verifica-se que a Colenda Câmara negou vigência às disposições de artigo de Lei Federal, eis que, não há qualquer ato ilícito praticado pelo recorrente que ensejasse o dever de indenizar os autores.
+A ora recorrente crê na necessidade de improcedência total do presente feito, vez que não restou caracterizado ato ilícito pela mesma, devendo, portanto, ser afastada a condenação em danos morais e materiais fixados no acórdão recorrido (fls. 932-935).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Relativamente à demandada CONCEPA - CONCESSIONÁRIA DA RODOVIA OSÓRIO-PORTO ALEGRE S/A, a causa de pedir está relacionada à omissão específica da concessionária quanto à manutenção, conservação e sinalização da rodovia, a desafiar hipótese de responsabilidade civil objetiva, nos termos do art. 37, § 6º, da CF e da jurisprudência que se pacificou no âmbito deste Colegiado, assentada na premissa de que a gestora/executora desse serviço público - a quem foi delegada a atividade estatal -, tem (ou deve ter) pleno conhecimento das condições da via de tráfego e da necessidade dos consertos.
+ ..
+Ademais, em razão de sua natureza de prestadora de serviço público, a apreciação da pretensão indenizatória deve ser dar sob o enfoque da responsabilidade civil objetiva, com amparo no disposto no art. 37, § 6º, da Constituição Federal, que dispõe (fl. 876).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ademais, o acórdão recorrido assim decidiu:
+Igualmente, a relação mantida entre as empresas prestadoras de serviços públicos e os usuários dos serviços caracteriza relação de consumo a atrair a responsabilização objetiva pelos danos decorrentes da falha na prestação dos serviços, conforme disposto no art. 14 e 22 do CDC:
+ ..
+Ainda, a natureza consumerista desta relação e a responsabilidade objetiva dela decorrente é reconhecida pelo Superior Tribunal de Justiça:
+ ..
+Desse modo, para que seja reconhecido o dever de indenizar, cumpre à parte autora demonstrar a ocorrência do dano e o nexo de causalidade entre este e a desídia da empresa pública no cumprimento de suas atribuições e na prestação do serviço.
+Na hipótese examinada, o dano está consubstanciado no óbito da vítima do acidente de trânsito, e o nexo causal entre o dano e má-prestação do serviço pela concessionária demandada se encontra evidenciado pela prova carreada ao feito, em especial o boletim da ocorrência e o depoimento de testemunha ouvida, no sentido de existir objeto de grande porte na pista de rolamento, recapagem de pneu de caminhão, causa determinante do acidente.
+ ..
+Foi elaborado croqui, e, apesar de desfeita a posição dos veículos em virtude de segurança, há expressa indicação da recapagem na pista (Evento 5, PROCJUDIC1, Página 39):
+ ..
+No relato do policial que compareceu ao local constou a existência do objeto solto na pista (Evento 5, PROCJUDIC1, Páginas 46 a 48):
+ ..
+Com amparo na vasta prova produzida, portanto, restou evidenciado que a causa do acidente foi o objeto solto na pista de rolamento, inexistindo qualquer indicativo de que a vítima obrou com imperícia ou que poderia ter evitado o acidente.
+ ..
+Por conseguinte, merece reforma a conclusão sentencial, por evidente a a falha na prestação do serviço pela ré CONCEPA - Concessionária da Rodovia Osório-Porto Alegre S/A, que deve ser condenada a indenizar o dano material e moral suportado pelos demandantes.
+ ..
+De outra banda, presente o dever legal da concessinária ré de reparar os danos advindos do evento, na forma do art. 927 do CC, passo a apreciar as verbas indenizatórias pretendidas pelos demandantes (fls. 877-882, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+A propósito: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Além disso, considerando os supracitados trechos do aresto objurgado, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da p retensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Destarte: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Em consonância: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
