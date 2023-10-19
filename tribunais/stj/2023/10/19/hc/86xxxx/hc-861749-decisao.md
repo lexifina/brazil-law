@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se habeas corpus, com pedido liminar, impetrado em favor de LEANDRO DA SILVA NOGUEIRA, contra acórdão Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o paciente foi condenado pela prática do crime previsto ao artigo 121. § 2º, I, III e IV. c/c o artigo 14, II, ambos do Código Penal, à pena de 10 anos e 8 meses de reclusão, em regime inicial fechado.
+O Tribunal de origem deu parcial provimento à apelação defensiva, para, compensada uma das qualificadoras com a atenuante da menoridade relativa, reduzir sua pena, pelo homicídio triplamente qualificado na modalidade tentada, a 09 anos e 04 meses de reclusão (e-STJ, fls. 13-20).
+Nesta Corte, a defesa alega a ocorrência de constrangimento ilegal em razão de o Tribunal a quo não ter julgado de acordo com a lei e o critério trifásico adotado pelo Código Penal, destacando que "Os julgadores deveriam julgar de acordo com o artigo 59 do CP que estabelece: "o juiz, atendendo à culpabilidade, aos antecedentes, a conduta social à personalidade do agente, aos motivos, às circunstâncias e consequências do crime, bem como o comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação". (e-STJ, fl. 4)
+Requer a concessão da ordem para readequar a pena.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Primeiramente, não houve i mpugnação específica de quaisquer aspectos da dosimetria da pena, não sendo possível sequer entender quais pontos o impetrante controverte em relação à dosimetria. Isso porque o impetrante cingiu-se à alegação genérica de ilegalidade da dosimetria.
+Outrossim, a pena base foi fixada no mínimo legal, sendo que o outro capítulo abordado no acórdão foi favorável ao paciente, tendo sido compensada uma das qualificadoras com a atenuante da menoridade relativa.
+Por fim, demais critérios dosimétricos não foram apreciados pelo Tribunal a quo. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
