@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL PETROS contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. AÇÃOORDINÁRIA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS FORMULADOS PELOS AUTORES PARA DETERMINAR A INCIDÊNCIA DE CORREÇÃO MONETÁRIA SOBRE OS SALÁRIOS UTILIZADOS PARA O CÁLCULO DA RENDA MENSAL INICIAL DOS AUTORES E MANTER O REDUTOR DE 90% SOBRE OS BENEFÍCIOS PAGOS PELA RÉ. INSURGÊNCIA DE AMBAS AS PARTES. PRINCÍPIO DO "TEMPUS REGIT". APLICAÇÃO DAS NORMAS VIGENTES ACTUM QUANDO DO PREENCHIMENTO DAS CONDIÇÕES PARA OBTENÇÃO DE BENEFÍCIO COMPLEMENTAR. RESP 1.435.837/RS (TEMA 907 DO STJ). CASO EM ANÁLISE EM QUE HOUVE RECONHECIMENTO PELA RÉ QUANTO AO AFASTAMENTO DO REDUTOR DE 90% PREVISTO NO REGULAMENTO EM MOMENTO POSTERIOR AO DO AJUIZAMENTO DA AÇÃO. NOTÍCIA VEICULADA NO PORTAL DA PETROS QUANTO À RETIRADA DO LIMITADOR OPERACIONAL DO TETO. DOCUMENTO SUBMETIDO AO CONTRADITÓRIO. REFORMA DA SENTENÇA PARA QUE SE PROCEDA O RECÁLCULO DOS BENEFÍCIOS DOS AUTORES, AFASTANDO-SE O LIMITADOR DE 90% PREVISTO DO ART. 42 DO REGULAMENTO DA PETROS. CORREÇÃO MONETÁRIA SOBRE OS SALÁRIOS-REAIS-DE-BENEFÍCIO, UTILIZADOS PARA CÁLCULO DA RENDA MENSAL INICIAL. FORMA DE CORREÇÃO DOS VALORES JÁ PREVISTO NO REGULAMENTO PELA INCIDÊNCIA DO FATOR DE REAJUSTE INICIAL (FAT). SENTENÇA ALTERADA NO PONTO. PARCELAS VENCIDAS A SEREM CALCULADAS EM SEDE DE LIQUIDAÇÃO, COM INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA. RECURSOS DE APELAÇÃO CONHECIDOS E PARCIALMENTE PROVIDO" (fls. 703/704 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 804 e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos arts. 6º, § 1º, da LICC e 17 e 68, § 1º, da Lei Complementar nº 109/2001. Defende, em síntese, que "o cálculo da suplementação de aposentadoria concedida aos participantes, após tais alterações, encontra-se em estrita observância às normas regulamentares que regem o cálculo e reajuste do benefício a partir de 1985" (fl. 837 e-STJ).
+Co m as contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+As matérias referentes aos arts. 6º, § 1º, da LICC e 17 e 68, § 1º, da Lei Complementar nº 109/2001 não foram prequestionadas pelo Tribunal de origem, de modo que incide, na espécie, a Súmula nº 211/STJ.
+Ademais, consoante iterativa jurisprudência desta Corte, a ausência de prequestionamento impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.000,00 (mil reais), ficando a recorrente responsável pelo pagamento de 50% (cinquenta por cento) e a parte recorrida em 50% (cinquenta por cento) desse valor, em razão da sucumbência recíproca. Assim, em observância ao art. 85, § 11, do CPC, majoro os honorários em R$ 100,00 (cem reais), em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se
+EMENTA
