@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MANUELLY TAVARES XAVIER, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/07/2023
+Concluso ao gabinete em: 17/10/2023.
+Ação: de despejo, com pedido de pagamento dos aluguéis em atraso movida por ESPÓLIO DE JAMIL BORGES, contra a agravante. Bem como reconvenção que esta moveu contra aquele.
+Sentença: julgou procedentes os pedidos da inicial e improcedentes os pedidos da reconvenção.
+Acórdão: negou provimento à apelação da agravante, nos termos da ementa:
+"APELAÇÃO CÍVEL. DIREITO IMOBILIÁRIO. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS. SENTENÇA DE PROCEDÊNCIA. Apelo da ré. Comprovada a existência de contrato de locação verbal, fato reconhecido pela própria demandada, em depoimento pessoal. Incongruência no relato da defesa. Ausência de provas robustas a demonstrar a aquisição do imóvel. Descumprimento do art. 373, II do CPC. Constatada a existência de contrato de locação e considerando que a própria ré reconhece a ausência de pagamento dos alugueis cobrados na inicial, a rescisão contratual por inadimplemento, o despejo e a condenação ao pagamento dos aluguéis eram imperativos. Rejeição do pedido de retenção de benfeitorias, que não foram especificadas na contestação/reconvenção, nem tampouco trazidos aos autos os comprovantes das compras dos materiais de construção e/ou pagamento de mão-de-obra a fim de atestar a quem se deve indenizar. Resilição do contrato de locação que torna a posse precária. Art. 1210 do CC e 560 do CPC. Ausência dos requisitos do art. 561 do CPC a justificar a proteção possessória. Rejeição do pedido reconvencional. Sentença que se mantém. DESPROVIMENTO DO RECURSO."
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 884, 1.210 e 1.219 do Código Civil; 561, 489, § 1º, IV, 1.022, I, do Código de Processo Civil e 35 da Lei 8.245/1991.. Além de negativa de prestação jurisdicional, sustenta que a ora agravante, adquiriu o imóvel objeto da ação do Sr. Jamil, ainda em vida, pelo valor de R$ 30.000,00 (trinta mil reais), o que fica comprovado pelo recibo juntado à contestação, assinado pelo falecido Sr. Jamil. Aduz que tal documento é suficiente para demonstrar que houve um negócio jurídico relativo ao imóvel em questão. Veja-se, ainda, que no verso do recibo foi escrito "venda da casa" pelo próprio vendedor, sendo evidente que este documento é considerado como justo título da compra e venda, e legitima a posse da ora agravante no local.
+Alega que não há comprovação da existência de contrato de aluguel, ao contrário da compra e venda que foi comprovada por meio de provas documentais e testemunhais.
+Pugna ainda pela indenização pela benfeitorias necessárias e úteis realizadas no imóvel.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca de que (i) não foi minimamente comprovada a compra e venda do imóvel, ao contrário da existência de contrato verbal de locação (e-STJ fls. 341/342) e (ii) não foram trazidos elementos aos autos que comprovassem a realização das benfeitorias alegadas pela agravante (e-STJ fl. 342).
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos art. 489 e 1.022 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no sentido de que (i) não foi minimamente comprovada a compra e venda do imóvel, ao contrário da existência de contrato verbal de locação (e-STJ fls. 341/342) e (ii) não foram trazidos elementos aos autos que comprovassem a realização das benfeitorias alegadas pela agravante (e-STJ fl. 342) exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente (e-STJ fls. 345) em mais 2%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESEPJO COM PEDIDO DE PAGAMENTO DE ALUGUÉIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de despejo com pedido de pagamento de alugueis.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Modificar a conclusão do Tribunal de origem no sentido de que (i) não foi minimamente comprovada a compra e venda do imóvel, ao contrário da existência de contrato verbal de locação (e-STJ fls. 341/342) e (ii) não foram trazidos elementos aos autos que comprovassem a realização das benfeitorias alegadas pela agravante (e-STJ fl. 342) implica reexame de fatos e provas.
+5. Agravo conhecido. Recurso especial não conhecido.
