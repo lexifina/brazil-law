@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCOS ELIEZER NOGUEIRA com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, em oposição a a córdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Em suas razões recursais, a parte recorrente aponta violação dos artigos 33, §§ 2º e 3º, e 59, ambos do Código Penal.
+Alega, em suma, que faria jus ao regime inicial aberto, pois ausente fundamentação concreta para a fixação do regime prisional mais gravoso.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido.
+Com contrarrazões (e-STJ, fls. 406-411), o recurso especial foi admitido na origem (e-STJ, fl. 414).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 423-428).
+É o relatório.
+Decido.
+O recurso prospera.
+Acerca do regime prisional, assim constou do acórdão recorrido (e-STJ, fls. 385-386, grifos do original):
+"Foi eleito o regime inicial fechado, ponderando-se que a pena total tinha somado 08 anos.
+Remanesceu, contudo, apenas a pena de 04 anos de reclusão referente ao roubo. E, considerando que ele era tecnicamente primário quando dos fatos (fl. 309/311) e que se reconheceu a prática do roubo na modalidade simples, não há óbice à eleição do regime inicial semiaberto, nos termos do art. 33, CP."
+De acordo com a Súmula 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Ademais, tem-se decidido que considerações genéricas a respeito da gravidade abstrata do delito de roubo, com menção a circunstâncias inerentes ao tipo penal, não são argumentos idôneos para justificar a imposição de regime prisional mais gravoso que o estabelecido no Código Penal (art. 33, §§ 2º e 3º).
+In casu, as circunstâncias judiciais previstas no art. 59 do Código Penal foram consideradas favoráveis, tanto que a pena-base foi fixada no mínimo legal. O recorrente é primário, e a pena definitiva é igual a 4 (quatro) anos de reclusão. Assim, faz jus ao cumprimento inicial da pena no regime aberto.
+Nesse sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. ROUBO SIMPLES. DOSIMETRIA. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. REGIME INICIAL SEMIABERTO. PENA-BASE. MÍNIMO LEGAL. ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. GRAVIDADE ABSTRATA. DIREITO AO REGIME MENOS SEVERO. SÚMULAS 718 E 719 DO STF E SÚMULA 440 DO STJ. FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II. Conforme dispõe o artigo 33, parágrafo 3º, do Código Penal, a fixação do regime inicial de cumprimento da pena, pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+III. Na hipótese, o regime semiaberto foi mantido com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal. Nesse compasso, considerando a primariedade do paciente e o quantum de pena estabelecido, bem como a inexistência de circunstâncias judiciais desfavoráveis, forçoso concluir que faz jus ao regime aberto, para início de cumprimento de pena, ex vi do art. 33, § 2º, alínea c, e § 3º, do Estatuto Penal e das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior.
+Habeas corpus não conhecido. Ordem concedida de ofício."
+(HC n. 673.682/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 24/8/2021, DJe de 1/9/2021.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES. ACÓRDÃO IMPUGNADO MANIFESTAMENTE CONTRÁRIO À JURISPRUDÊNCIA DO STJ. CONCESSÃO DO WRIT LIMINARMENTE. POSSIBILIDADE. ART. 34, VIII E XX, DO RISTJ. COMPETÊNCIA DO STJ. AUSÊNCIA DE VISTA AO MINISTÉRIO PÚBLICO E DE INFORMAÇÕES DA AUTORIDADE COATORA. OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO. NÃO OCORRÊNCIA. REGIME INICIAL SEMIABERTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. OCORRÊNCIA. FIXAÇÃO DO REGIME ABERTO. AGRAVO IMPROVIDO.
+1. Nos termos do arts. 34 do RISTJ, é atribuição do relator decidir liminarmente a pretensão contrária a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante acerca do tema.
+3. As normas que prevêem a abertura de vista ao Parquet não obstam que o relator, em observância do princípio da celeridade processual, julgue liminarmente quando o acórdão impugnado for manifestamente contrário à jurisprudência dominante do Superior Tribunal de Justiça.
+4. Não há ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo em vista a possibilidade de submissão do julgado a exame do órgão colegiado, mediante a interposição de agravo regimental, após a devida intimação do Parquet.
+5. Tendo as instâncias de origem fixado o regime semiaberto para o cumprimento de pena ao condenado à pena de 4 anos de reclusão, com fundamento na gravidade abstrata do delito, ressaltando circunstâncias inerentes ao próprio tipo penal, deve ser reconhecida a ilegalidade, com a concessão da ordem para a fixação do regime aberto.
+6. Agravo regimental improvido."
+(AgRg no HC n. 643.507/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 9/3/2021, DJe de 15/3/2021, grifou-se.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de fixar o regime inicial aberto para o cumprimento da pena privativa de liberdade.
+Publique-se. Intimem-se.
+ EMENTA
