@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por LUIZ EDUARDO AURICCHIO BOTTURA em face da decisão acostada às fls. 1291-1293 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 1201-1203 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Agravo Interno. Decisão que não conheceu da Reclamação ajuizada pelo agravado. Inconformismo. Descabimento. Prevenção da 9ª Câmara de Direito Privado gerada pelo julgamento de feito conexo. Decisão mantida. Recurso improvido.
+Opostos embargos declaratórios (fls. 1211-1212 e-STJ), restaram desacolhidos na origem (fls. 1219-1223 e-STJ).
+Nas razões de recurso especial (fls. 1232-1247 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 1.021, § 4º, do CPC/15, bem como dissídio jurisprudencial, aduzindo o cabimento da aplicação de multa à parte adversa; (ii) artigo 85, § 2º e §11, do CPC/15, pugnando pela fixação de honorários de sucumbência; e, (iii) artigo 1.022, inc. II, do CPC/15, porquanto inobservado o artigo 1.021, § 4º, do CPC/15.
+Contrarrazões às fls. 1280-1288 e-STJ.
+Em juízo prévio de admissibilidade (fls. 1291-1293 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 1296-1309 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 1317-1331 e-STJ.
+É o relatório. Decide-se.
+A pretensão recursal não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado deixou de observar o disposto no artigo 1.021, § 4º, do CPC/15. Todavia, o Tribunal local tratou expressamente do referido dispositivo, bem como do pedido de aplicação de multa.
+Não há falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+2. A Segunda Seção desta Corte Superior firmou o entendimento de que a multa recursal prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório. Confira-se, por oportuno, a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+No mesmo sentido, os recentes precedentes das Turmas de Direito Privado desta Corte: AgInt no AgInt nos EDcl no AREsp n. 2.169.172/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023; AgInt no REsp n. 1.818.994/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023; AgInt no AREsp n. 2.165.163/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 25/9/2023, DJe de 27/9/2023; e, EDcl no AgInt no AREsp n. 2.109.882/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.
+Logo, a decisão proferida pela Corte de origem encontra-se em consonância com a jurisprudência deste STJ.
+3. Por fim, em relação ao artigo 85, § 2º e §11, do CPC/15, o Tribunal local limitou-se a afirmar que os honorários recursais "não são cabíveis no julgamento do recurso de agravo interno" (fl. 1222 e-STJ).
+Este fundamento não foi devidamente impugnado nas razões do apelo nobre, o que atrai a incidência da Súmula 283/STF.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para conhecer em parte e negar provimento ao recurso especial.
+Incabível a majoração de honorários (artigo 85, § 11, do CPC/15), pois inexistente condenação desde a origem no presente feito recursal.
+Publique-se. Intimem-se.
+EMENTA
