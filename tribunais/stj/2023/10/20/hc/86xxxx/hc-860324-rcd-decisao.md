@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por MARCO ANTONIO ABRANTES da decisão de fls. 59-60, em que indeferi liminarmente o habeas corpus. O decisum foi assim ementado (fl. 59):
+"HABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 808.958/RJ. WRIT INDEFERIDO LIMINARMENTE."
+Alega-se, em suma, que "não se busca através do presente a ilegalidade da decisão revestida pela soberania dos jurados o que se aponta no presente é o fato de que o Paciente não deveria nem ter sido enviado ao plenário, a ilegalidade é anterior e matéria de direito devidamente comprovada pela ilegalidade presente na própria decisão de pronúncia, sendo assim não há que se falar de reiteração da pretensão, o objeto do presente writ, mesmo sendo referente ao mesmo Paciente e instrução é comprovadamente diverso da pretensão presente no HC 808.958/RJ" (fl. 66).
+Requer-se a reconsideração da decisão para análise e concessão do pedido de habeas corpus.
+É o relatório. Decido .
+Não há previsão legal de pedido de reconsideração de decisão monocrática proferida no âmbito da ação constitucional de habeas corpus.
+De toda forma, ressalto que os argumentos trazidos pela Defesa não se mostram suficientes para alterar as conclusões exaradas na decisão cuja reconsideração ora se postula, que deve, assim, ser mantida por seus próprios fundamentos.
+Com efeito, no HC n. 808.958/RJ, do qual também sou relatora, foram formuladas pretensões idênticas às veiculadas nesta impetração, em favor do mesmo Sentenciado, que pugnava pela anulação de "toda a instrução com a devida impronúncia do Paciente", sustentando, em suma, que "as provas que foram utilizadas para fundamentar a pronúncia e condenação em sede de plenário em desfavor do Paciente não foram corroboradas em sede de contraditório" (fl. 18 daquele writ).
+Ademais, ressalto que "a superveniência de sentença penal condenatória pelo Tribunal do Júri, em regra, prejudica o exame de eventual nulidade da sentença de pronúncia" (HC 688.594/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10 /2021). No caso, superada a tese de que os elementos coligidos são inaptos a lastrear uma decisão de pronúncia porque obtidos exclusivamente na fase policial, desprovidos, portanto, da observância aos princípios da ampla defesa e do contraditório, tendo em vista que a Corte local entendeu haver lastro probatório suficiente para a condenação pelo delito de homicídio qualificado, especialmente em razão de a tese da acusação estar corroborada por provas testemunhais e "elementos colhidos durante a instrução processual" (fl. 51) dando conta de que o Réu praticou o crime.
+Ante o exposto, INDEFIRO o pedido de reconsideração.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
