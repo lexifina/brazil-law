@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado entre o JUÍZO FEDERAL DA 17ª VARA CÍVEL DE BRASÍLIA - SJ/DF e o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE TAGUATINGA (DF) nos autos da "ação de repactuação de dívidas" movida por PATRICIA RODRIGUES DE SOUSA em desfavor da CAIXA ECONÔMICA FEDERAL E OUTROS.
+Ajuizada a ação inicialmente perante a Justiça estadual (fls. 8-32) (Processo n. 0706276-13.2023.8.07.0007), o magistrado declinou da competência para a Justiça Federal em razão da presença no polo passivo da Caixa Econômica Federal (fl. 34).
+Recebidos os autos, o Juízo federal (Processo n. 1052398-18.2023.4.01.3400), citando julgados desta Corte (CC n. 192.140/DF e CC 193.066/DF), entendeu que era incompetente para processar e julgar a demanda nos termos da decisão transcrita a seguir, na parte que interessa (fls. 74-75):
+ ..
+Dessa forma, com esteio na orientação firmada pelo Superior Tribunal de Justiça acima citada, a mera presença da Caixa Econômica Federal - CEF no polo passivo da ação de repactuação de dívidas decorrentes de superendividamento, em litisconsórcio com diversas outras entidades privadas, não tem o condão de impor à Justiça Federal a competência para o processamento e julgamento do feito, haja vista que a lide em comento insere-se nas hipóteses de exceção indicadas no art. 109, inciso I, da Constituição Federal
+O Ministério Público Federal opinou pela declaração da competência do Juízo estadual (fls. 44-48).
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, procedo ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de se reduzirem as pautas já bastante numerosas da Segunda Seção.
+Assiste razão ao Juízo suscitante.
+Como bem pontuado pelo Juízo federal, ao apreciar o tema em debate, a Segunda Seção do STJ firmou o entendimento no sentido de que compete à Justiça estadual processar e julgar a demanda relativa à repactuação de dívidas (superendividamento) amparada na Lei n. 14.181/2021, ainda que o ente federal figure como requerido na demanda. Confira-se a ementa do referido julgado:
+CONFLITO DE COMPETÊNCIA - CÓDIGO DE DEFESA DO CONSUMIDOR - AÇÃO DE REPACTUAÇÃO DE DÍVIDAS - SUPERENDIVIDAMENTO - CONCURSO DE CREDORES PREVISTO NOS ARTIGOS 104-A, B E C, DO CDC, NA REDAÇÃO CONFERIDA PELA LEI 14.181/21 - POLO PASSIVO COMPOSTO POR DIVERSOS CREDORES BANCÁRIOS, DENTRE ELES, A CAIXA ECONÔMICA FEDERAL - EXCEÇÃO À REGRA DE COMPETÊNCIA PREVISTA NO ART. 109, I, DA CF/88 - EXEGESE DO COL. SUPREMO TRIBUNAL FEDERAL DEFINIDA EM REPERCUSSÃO GERAL - DECLARAÇÃO DE COMPETÊNCIA DA JUSTIÇA COMUM DO DISTRITO FEDERAL.
+1. O Superior Tribunal de Justiça é competente para o conhecimento e processamento do presente incidente, pois apresenta controvérsia acerca do exercício da jurisdição entre juízos vinculados a Tribunais diversos, nos termos do artigo 105, I, "d", da Constituição Federal.
+2. A discussão subjacente ao conflito consiste na declaração do juízo competente para o processar e julgar ação de repactuação de dívidas decorrentes do superendividamento do consumidor, em que é parte, além de outras instituições financeiras privadas, a Caixa Econômica Federal.
+3. A alteração promovida no Código de Defesa do Consumidor, por meio do normativo legal n.º 14.181/2021, de 1º de julho de 2021, supriu lacuna legislativa a fim de oferecer à pessoa física, em situação de vulnerabilidade (superendividamento), a possibilidade de, perante seus credores, rediscutir, repactuar e, finalmente, cumprir suas obrigações contratuais/financeiras.
+4. Cabe à Justiça comum estadual e/ou distrital processar e julgar as demandas oriundas de ações de repactuação de dívidas decorrentes de superendividamento - ainda que exista interesse de ente federal - porquanto a exegese do art. 109, I, do texto maior, deve ser teleológica de forma a alcançar, na exceção da competência da Justiça Federal, as hipóteses em que existe o concurso de credores.
+5. Conflito conhecido para declarar a competência do r. juízo comum do Distrito Federal e Territórios para processar e julgar a ação de repactuação de dívidas por superendividamento, recomendando-se ao respectivo juízo, ante à delicada condição de saúde do interessado, a máxima brevidade no exame do feito.
+(CC 193.066/DF, relator Ministro Marco Buzzi, julgado em 22/03/2023, DJe de 31/03/2023.)
+O presente caso amolda-se perfeitamente ao julgado acima, devendo ser adotada a mesma solução jurídica para a hipótese.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE TAGUATINGA (DF) , o suscitado.
+Comunique-se o teor da presente decisão aos juízos suscitado e suscitante.
+Publique-se. Intimem-se.
+EMENTA
