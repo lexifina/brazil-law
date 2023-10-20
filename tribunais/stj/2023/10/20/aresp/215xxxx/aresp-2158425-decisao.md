@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MASSA FALIDA DE HABITARE CONSTRUTORA E INCORPORADORA S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: de rescisão contratual c/c reparação por dano material e compensação por dano moral, ajuizada por ADILSON PAIM PAMPLONA e VERILDA MARIA RODRIGUES PAIM, em face de HABITARE CONSTRUTORA E INCORPORADORA S/A, devido ao atraso na entrega de unidade imobiliária, pleiteando a declaração de rescisão do contrato celebrado entre as partes, assim como reparação por dano material e compensação por dano moral.
+Sentença: julgou procedente a pretensão autoral para rescindir o contrato e determinar o pagamento no valor de R$ 68.225,09 (sessenta e oito mil, duzentos e vinte e cinco reais e nove centavos), a título de danos materiais, e de R$ 10.000,00 (dez mil reais) a título de danos morais.
+Acórdão: manteve a decisão unipessoal que indeferiu o pedido de gratuidade de justiça, nos termos da seguinte ementa:
+AGRAVO INTERNO - APELAÇÃO CÍVEL - DECISÃO QUE INDEFERIU A JUSTIÇA GRATUITA - PESSSOA JURÍDICA - MASSA FALIDA - AUSÊNCIA DE DOCUMENTOS HÁBEIS A COMPROVAR A ALEGADA HIPOSSUFICIENCIA FINANCEIRA. O Agravo Interno é cabível contra decisão proferida pelo Relator, a teor do art. 1.021 do CPC. Inexistentes provas de hipossuficiência econômica, não se há falar em deferimento da gratuidade da justiça. (e-STJ Fl. 389).
+Recurso especial: alega violação dos artigos 98 e 99, §2º, do CPC/15. Sustenta fazer jus ao benefício da gratuidade de justiça.
+Prévio juízo de admissibilidade: recurso especial inadmitido pelo TJ/MG (e-STJ fls. 549/550).
+Agravo em recurso especial: conhecido e, com fundamento no art. 932, III, do CPC/15, deixou de conhecer o recurso especial, nos termos da seguinte ementa (e-STJ fls. 613/615):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. Ação de rescisão contratual cumulada com reparação por dano material e compensação por dano moral.2. O reexame de fatos e provas em recurso especial é inadmissível.3. Agravo conhecido. Recurso especial não conhecido.
+Agravo interno: alega a inaplicabilidade da Súmula 7/STJ à hipótese, eis que a discussão dos autos dispensa o reexame de fatos e provas e requer, tão somente, a verificação de suposta violação aos artigos ora apontados e aplicação do direito à espécie. Sustenta, além de dissídio jurisprudencial, a violação aos artigos 98 e 99, §2º, ambos do CPC/15, que disciplinam a matéria da gratuidade de justiça.
+Decisão unipessoal: reconsiderou a decisão de fls. 613/615 (e-STJ) e determinou a devolução dos autos ao Tribunal de origem, para que o recurso permanecesse suspenso até a publicação do acórdão paradigma do Tema 1.178 do STJ (e-STJ fls. 636/ 637).
+Decisão TJ/MG: agravo em recurso especial reencaminhado ao Superior Tribunal de Justiça, sob o fundamento de "não haver identificação entre a questão legal versada no inconformismo com o tema de caráter multitudinário em discussão" (e-STJ fls. 642/643).
+RELATADO O PROCESSO, DECIDE-SE.
+De início, frisa-se que a presente hipótese, de fato, não corresponde à questão do acórdão paradigma do Tema 1.178 do STJ.
+A presente controvérsia trata da possibilidade de concessão do benefício da gratuidade de justiça para a ré, MASSA FALIDA DE HABITARE CONSTRUTORA E INCORPORADORA S/A, enquanto a questão submetida a julgamento no Tema 1.178 do STJ é "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural".
+Em não se tratando de apreciação de pedido de gratuidade de justiça formulado por pessoa natural, mas sim por massa falida, ou seja, aquela que "não tem personalidade jurídica, mas tem personalidade judiciária" (Nery Junior, Nelson Código Civil comentado  livro eletrônico  / Nelson Nery Junior, Rosa Maria de Andrade Nery. -- 4. ed. -- São Paulo : Thomson Reuters Brasil, 2022), a identificação ora suscitada entre as hipóteses não prospera.
+Nesses termos, no particular, alterar o decidido no acórdão impugnado, no que se refere ao indeferimento do pedido de gratuidade de justiça, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+No mais, diante da reconsideração da decisão de agravo em recurso especial de fls. 636/637 (e-STJ), deixo de analisar o agravo interno ora interposto de fls. 554/564 (e-STJ).
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REPARAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. MASSA FALIDA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de rescisão contratual c/c reparação por dano material e compensação por dano moral.
+2. Alterar o decidido no acórdão impugnado, no que se refere ao indeferimento do pedido de gratuidade de justiça, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Agravo conhecido. Recurso especial não conhecido.
