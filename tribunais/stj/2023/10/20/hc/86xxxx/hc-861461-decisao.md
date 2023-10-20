@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MAYCK MENDES QUEIROZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC 1.0000.23.259592-6/000).
+O paciente está preso preventivamente pela suposta prática do crime previsto no art. 129, § 13º, do Código Penal.
+A defesa alega: a) "penas mínimas que incorrem ao paciente são de prisão simples ou detenção, entre 15 dias e 3 meses, podendo ocorrer o antecipado cumprimento da pena, ou absolvição, razão pelo qual se faz necessária a concessão da liminar" (e-STJ fl. 8); b) "requerido chora extremamente arrependido pois, após descobrir que é adotado, o autor dos fatos se revoltou, o requerido teve um choque de realidade, agiu após um trauma, agiu com cabeça quente, seu comportamento foi em razão de estado emocional, além de estar sob o efeito de álcool, está arrependido" (e-STJ fl. 8); c) "não há nos autos elementos suficientemente idôneos para se chegar a inarredável conclusão de que a liberdade do paciente causará alguma insegurança à sociedade, isso pelo fato de que o estado terá o controle sobre o indiciado, de forma eficiente, com a aplicação de medidas cautelares alternativas à prisão" (e-STJ fl. 13); e d) "reincidência e os maus antecedentes, por si só, não são justificativas para a decretação da prisão acautelatória" (e-STJ fl. 14).
+Requer, liminar e definitivamente, deferimento da ordem para revogar a prisão preventiva, com ou sem imposição de medidas cautelares diversas e trancar a ação penal.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 30):
+É cediço que a tutela de urgência reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do paciente, e desde que preenchidos os pressupostos legais, que são o "fumus boni juris" e o "periculum in mora".
+Em análise ao caso dos autos, a meu ver, à primeira vista, os argumentos lançados na exordial não se mostram suficientes para caracterizar os requisitos autorizadores do acolhimento do pedido liminar.
+No caso, não se verifica nenhuma ilegalidade flagrante na manutenção da segregação provisória, tampouco abuso de poder, haja vista que a decisão encontra-se pautada em motivação concreta, de forma a resguardar a integridade física e psicológica das vítimas, sobretudo diante da gravidade dos fatos narrados.
+Diante disso, reputa-se necessário ser o caso mais detalhadamente analisado após se ouvir a autoridade apontada como coatora para elucidação de todos os fatos narrados na inicial.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
