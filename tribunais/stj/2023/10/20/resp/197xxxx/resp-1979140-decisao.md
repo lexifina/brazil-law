@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de recurso especial interposto por J. L. B. C., O. H. B. C., J. M. B. V. e R. O. C., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que julgou demanda relativa a indenização por danos morais em razão de ofensa à imagem.
+O julgado negou provimento ao recurso de apelação do recorrente nos termos da seguinte ementa (fl. 208):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. DANO MORAL POR OFENSA À IMAGEM. PUBLICAÇÃO DE FOTOS DOS AUTORES NAS PÁGINAS DE REDES SOCIAIS DO RÉU. DANOS MORAIS NÃO CONFIGURADOS.
+1 . FOTOGRAFIAS E COMENTÁRIOS SEM CUNHO OFENSIVO OU PREJUDICIAL À IMAGEM DOS AUTORES OU DE SUA FAMÍLIA.
+2. RELAÇÃO DE CUNHO FAMILIAR. AUSÊNCIA DE LESÃO À DIREITO DE PERSONALIDADE. DANO MORAL NÃO COMPROVADO. APELO IMPROVIDO.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega violação do art. 20 do Código Civil.
+Sustenta divergência jurisprudencial entre o acórdão recorrido e aresto do TJSP, segundo o qual "ausente a produção de prova no sentido de que o autor concordou com o uso de suas imagens, afigura-se caracterizado o ilícito praticado pela ré, passível de indenização, na esteira da Súmula 403 do Superior Tribunal de Justiça: (Independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais). (fl. 227).
+Assim, ressalta que é prescindível a demonstração de violação de imagem, honra, boa fama ou respeitabilidade, conforme elucida o art. 20 do CC, a Súmula 403 do STJ e o entendimento pacífico da jurisprudência.
+Sem contrarrazões, sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 245-247).
+O Ministério Público Federal opinou pelo conhecimento em parte do recurso especial e, nessa extensão, pelo seu desprovimento (fls. 267-273).
+É, no essencial, o relatório.
+Cuida-se de ação indenizatória por publicação não autorizada de fotografias de família nas redes sociais pelo requerido que, além de pai e avô, é figura pública (locutor esportivo).
+Em sentença, a tutela provisória anteriormente deferida foi mantida, para determinar a retirada das fotos da internet. Contudo, o pedido indenizatório foi julgado improcedente.
+O Tribunal a quo negou provimento à apelação dos recorrentes.
+Alega o recorrente violação do art. 20 do Código Civil, que dispõe o seguinte:
+Art. 20. Salvo se autorizadas, ou se necessárias à administração da justiça ou à manutenção da ordem pública, a divulgação de escritos, a transmissão da palavra, ou a publicação, a exposição ou a utilização da imagem de uma pessoa poderão ser proibidas, a seu requerimento e sem prejuízo da indenização que couber, se lhe atingirem a honra, a boa fama ou a respeitabilidade, ou se se destinarem a fins comerciais.
+Ao manter integralmente a sentença, a Corte de origem entendeu não ter havido nenhuma ofensa à imagem ou à honra dos autores pelas postagens e comentários efetuados pelo réu nas redes sociais. Segue trecho do acórdão recorrido (fl. 212):
+Verifica-se, pela análise das postagens publicadas pelo réu, juntada aos autos pelos autores (Evento1 - COMP13, COMP14), que as fotos em questão, embora tenham sido divulgadas sem a prévia autorização dos autores, não atingem a imagem, a honra, boa fama ou respeitabilidade dos autores, como exige o art. 20 do Código Civil, pois se limitam apenas a demonstrar expressões afetuosas pelos netos João Lucca e Olívia, tendo em vista que o réu é pai da autora Juliana.
+Não se vislumbra ter havido qualquer ofensa à imagem ou à honra dos autores pelas postagens e comentários efetuados pelo réu, nas redes sociais, não tendo ele feito qualquer menção desabonatória aos autores, inexistindo qualquer referência de caráter pessoal, de forma a expor sua intimidade.
+No caso, trata-se, a toda evidência, de desavença de cunho familiar, não sendo apresente ação reparatória o meio idôneo para dirimi-la, sobretudo quando, como bem salientado no douto parecer do Ministério Público, não há qualquer prejuízo para as crianças.
+Destarte, entendo que a parte autora não se desincumbiu de demonstrar a ocorrência de lesão a direito da personalidade apta a ensejar a reparação buscada. Isso posto, voto por negar provimento ao recurso, mantendo inalterada a r. sentença recorrida.
+Deixo de fixar sucumbência recursal em razão de ausência condenação dos autores à verba honorária, na origem.
+Desta feita, afastar a conclusão do acórdão de que não teria havido ofensa à honra dos recorrentes ou mesmo lesão a direito da personalidade apta a ensejar a reparação, demandaria evidente reexame do material fático-probatório dos autos, o que implica ofensa à Súmula 7/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE IMAGEM. ALBUM DE FIGURINHAS. PRESCRIÇÃO. MATÉRIA NÃO PREQUESTIONADA. SÚMULAS N. 282 E 356 DO STF. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO FICTO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. USO DE IMAGEM. AUSÊNCIA DE AUTORIZAÇÃO. SÚMULA N. 403 DO STJ. INDENIZAÇÃO DEVIDA. ENTENDIMENTO DA CORTE LOCAL EM CONSONÂNCIA COM A JURISPRUDENCIA DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. REVISÃO. INVIABILIDADE. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado.
+Trata-se de requisito constitucional indispensável para o acesso à instância especial.
+2. A ausência de enfrentamento da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos das Súmulas n. 282 e 356 do STF.
+3. É assente no Superior Tribunal de Justiça ser imprescindível o prequestionamento, ainda que se trate de matéria de ordem pública.
+4. Não é admissível a apreciação de tese que configure inovação recursal no agravo interno, em razão da ocorrência de preclusão consumativa.
+5. Não se conhece de recurso especial quando o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça (Súmula n. 83 do STJ).
+6. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+7. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.304.385/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 5/6/2023, DJe de 7/6/2023.)
+Quanto à alínea c, "consoante iterativa jurisprudência desta corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/4/2023, DJe de 11/4/2023). Nesse sentido, confira-se precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL . INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Apesar de o RE 636.331/RJ e o ARE 766.618/SP - AgR terem sido levados para julgamento conjunto, a tese firmada pela Suprema Corte no Tema 210, da repercussão geral, é adstrita às pretensões indenizatórias fundadas em danos materiais decorrentes de extravio de bagagens em transporte aéreo internacional de passageiros, e não à reparação por danos morais. Precedentes.
+2. Nos termos da orientação jurisprudencial adotada por esta Colenda Corte, as Convenções de Varsóvia, Montreal e demais acordos internacionais subscritos pelo Brasil devem prevalecer em detrimento do Código de Defesa do Consumidor, apenas nas condenações por danos materiais decorrentes de extravio de bagagens em voos internacionais, não se aplicando à tese relacionada com indenizações por danos morais - incidência da Súmula 83/STJ.
+3. Para superar as premissas sobre as quais se apoiou a Corte estadual, a fim de afastar o abalo moral suportado pela parte - em especial no que diz respeito à má-prestação de serviços e à ausência de informações ao consumidor - mister seria o revolvimento dos elementos de prova constantes do autos, hipótese vedada na presente esfera recursal, ante o óbice contido na Súmula 7/STJ.
+4. A incidência dos enunciados sumulares 07 e 83/STJ impede o exame exame do dissídio jurisprudencial na medida em que, além da falta identidade entre os paradigmas apresentados e os fundamentos que embasaram o acórdão recorrido, se a jurisprudência do STJ já se firmou no mesmo sentido do julgado hostilizado, não há conceber tenha ela contrariado o dispositivo de lei federal ou lhe negado vigência.
+5. Agravo interno desprovido. (AgInt no AREsp n. 2.281.400/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/6/2023, DJe de 30/6/2023.)
+Não se olvida do teor da Súmula n. 403 do STJ, segundo a qual, "independe de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais".
+Contudo, do exame dos autos não se verifica nenhuma manifestação do Tribunal de origem acerca da comprovação de que as imagens teriam sido utilizadas com fins econômicos ou comerciais.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Por seu turno, se a recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
