@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se  de  agravo  manejado  por  GOLDSZTEIN  CYRELA  EMPREENDIMENTOS  IMOBILIÁRIOS  S/A  contra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fl.  723):
+APELAÇÃO  CÍVEL.  RECURSO  ADESIVO.  PROMESSA  DE  COMPRA  E  VENDA.  AQUISIÇÃO  DE  IMÓVEL  NA  PLANTA.  RESCISÃO  CONTRATUAL.  CULPA  DA  PROMITENTE  VENDEDORA.  RESTITUIÇÃO  DAS  PARTES  AO  STATUS  QUO  ANTE.  DEVOLUÇÃO  DO  MONTANTE  PAGO  PELO  PROMITENTE  COMPRADOR,  COM  APLICAÇÃO  INVERSA  DA  MULTA  COMPENSATÓRIA.  DESCABIDA  A  CUMULAÇÃO  COM  LUCROS  CESSANTES.  COMISSÃO  DE  CORRETAGEM.  PRECLUSÃO.  DESPESAS  EXTRAJUDICIAIS  QUE  INCUMBEM  ÀS  PARTES.  DANO  MORAL  CONFIGURADO.
+APELAÇÃO  E  RECURSO  ADESIVO  PROVIDOS  EM  PARTE.
+Opostos  embargos  de  declaração,  foram  rejeitados.
+Nas  razões  do  recurso  especial,  a  parte  agravante  sustenta  pela  inaplicabilidade  do  entendimento  firmado  no  Tema  971  do  STJ,  uma  vez  que  a  situação  dos  autos  não  diz  respeito  a  atraso  na  entrega  da  obra,  mas  de  suposto  vício  de  consentimento,  "consubstanciado  em  informação  errônea  prestada  pelo  corretor  imobiliário  acerca  da  posição  solar  do  imóvel".
+Assim,  assevera  não  ser  cabível  a  inversão  da  cláusula  penal.  Subsidiariamente,  pugna  pela  minoração  de  seu  montante,  afirmando  que  o  Tribunal  de  origem  deixou  de  avaliar  a  sua  proporcionalidade.
+Contrarrazões  apresentadas.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Embora  a  parte  recorrente  pretenda  ver  reconhecida  a  distinção  existente  entre  o  caso  dos  autos  e  o  entendimento  fixado  na  tese  do  Tema  971  do  STJ,  deixou  de  indicar  quais  dispositivos  da  legislação  federal  teriam  sido  violados  pelo  acórdão  recorrido.
+Com  efeito,  para  fins  de  admissão  do  recurso  especial,  seja  pela  alínea  "a"  seja  pela  alínea  "c",  do  art.  105,  inciso  III,  da  Constituição  Federal,  não  é  suficiente  que  a  parte  recorrente  reproduza  argumentos  expendidos  ao  longo  do  feito,  acompanhados  de  ementas  que  entende  respaldar  as  suas  teses.
+O  recurso  especial  é  recurso  de  fundamentação  vinculada,  de  modo  que  a  impugnação  aos  fundamentos  do  acórdão  recorrido  há  de  vir  atrelada  à  demonstração  de  violação  a  dispositivo  de  lei  federal,  o  que  não  ocorreu  no  caso  dos  autos.
+Nesse  sentido,  cito  o  seguinte  julgado:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  CERCEAMENTO  DE  DEFESA.  AUSÊNCIA  DE  INDICAÇÃO  DO  DISPOSITIVO  LEGAL  VIOLADO.  SÚMULA  284/STF.  INEXIGIBILIDADE  OU  INEXEQUIBILIDADE  DO  CRÉDITO  E  CONEXÃO  DAS  AÇÕES.  PREQUESTIONAMENTO  INEXISTENTE  E  FALTA  DE  COMBATE  A  FUNDAMENTO  DO  ACÓRDÃO  RECORRIDO.  SÚMULAS  282/STF,  211/STJ  E  283/STF.  AGRAVO  INTERNO  AO  QUAL  SE  NEGA  PROVIMENTO.  1.  A  ausência  de  indicação  do  dispositivo  de  lei  federal  supostamente  violado  impede  a  abertura  da  instância  especial,  nos  termos  da  Súmula  284  do  Supremo  Tribunal  Federal,  aplicável,  por  analogia,  neste  Tribunal.  (..)  4.  Agravo  interno  ao  qual  se  nega  provimento.  (AgInt  no  AREsp  1830228/SP,  Relator  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  25/10/2021,  DJe  25/11/2021)
+Inafastável,  portanto,  o  óbice  da  Súmula  284  do  STF,  o  que  obsta  o  conhecimento  do  recurso  especial.
+Em  face  do  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC/2015,  majoro  em  10%  (dez  por  cento)  a  quantia  já  arbitrada  a  título  de  honorários  em  favor  da  parte  recorrida,  observados  os  limites  previstos  nos  §§  2º  e  3º  do  referido  dispositivo  legal.
+Intimem-se.
+EMENTA
