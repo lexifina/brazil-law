@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de NICOLAS LIMA ALVES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o ora Paciente teve a prisão preventiva decretada pela suposta prática dos delitos de estelionato e associação criminosa, ressaltando o Juízo de primeiro grau que:
+"Conforme consta da representação, o acusado Vinicius entrou em contato com a vítima via whatsapp, oferecendo veículos que seriam pagos somente após a entrega do bem. A vítima efetuou vários depósitos totalizando a quantia de R$ 74.850,00 (setenta e quatro mil oitocentos e cinquenta reais) na conta corrente de titularidade de Vinicius, para dar início à transação. No curso da investigação a autoridade policial representou pela quebra de sigilo bancário da conta de Vinicius, apurando que foram realizadas transferências da conta de Vinicius para contas em nome de Adryano, Alex e Nicolas.
+E da tabulação dos dados decorrentes da quebra de sigilo, observa-se que, mais do que simples transferências de valores para Adryano, Alex e Nicolas, havia verdadeiro partilhamento dos valores auferidos com o golpe (evento 1, DOC2)
+Restou apurado ainda que, os representados possuem endereço na cidade de São Paulo/SP e residem próximos, havendo fortes indícios de que se trate de organização criminosa.
+A vítima, Léo Domingo Tólio, de 78 anos de idade, em depoimento à autoridade policial, relatou que recebeu mensagem via whatsapp, de uma pessoa que indentificou-se como Vinicius funcionário da empresa Copart/Net do Brasil Organziação de Leilões Ltda, oferecendo veículos. Aduziu que manifestou o interesse em urna camionete Toyota/SW4, no valor de R$ 139.900,00 (cento e trinta e nove mil e novecentos reais), tendo realizado vários depósitos, em dias alternados, para dar andamento no processo de compra. Contou que desconfiado da situação parou de transferir valores. Informou à autoridade policial os dados da conta e respectivo titular (evento 1, DOC8)" (fl. 52).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão cautelar:
+"Não obstante não serem os delitos de associação criminosa e de estelionato cometidos com grave ameaça ou violência à pessoa, revestem-se de especial gravidade, pois praticados mediante ação organizada e previamente concertada, com divisão de tarefas entre os agentes, visando ludibriar as vítimas e lhes causar, como no caso, vultosos prejuízos financeiros (mais de R$ 74.000,00), dos quais o imputado se beneficiou, aproveitando-se da maior fragilidade do ofendido, pessoa idosa, circunstâncias que demonstram a maior audácia e periculosidade social dos agentes, a justificar a manutenção da prisão para a garantia da ordem pública" (fl. 142).
+Neste writ, alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a segregação cautelar do Paciente.
+Aponta a existência de excesso de prazo para a formação da culpa.
+Requer a expedição de alvará de soltura em favor do Paciente.
+A liminar foi indeferida às fls. 155-157.
+As informações foram prestadas às fls. 165-230 e 243-245. O Ministério Público Federal, às fls. 250-257, manifestou pelo não conhecimento do writ, em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSOORDINÁRIO. CRIME DE ESTELIONATO PRATICADOEM ASSOCIAÇÃO CRIMINOSA CONTRA IDOSO POR10 VEZES. PREJUÍZO DE MAIS DE 70 MIL REAIS. ALEGAÇÃO DE EXCESSO DE PRAZO. PREJUDICADO. SÚMULA N. 52/STJ. PEDIDO DE REVOGAÇÃO DAPRISÃO PREVENTIVA. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- Preliminar de prejudicialidade em relação à alegação de excesso de prazo;
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.
+- 2ª Preliminar: conhecimento de ofício; ausência de competência.
+- Precedentes: STJ (HC nº 245.731/MS; HC nº248.757/SP).
+- Parecer, em relação à alegação de excesso de prazo, pela prejudicialidade deste habeas corpus; em relação ao pedido de revogação da prisão preventiva, pelo não conhecimento do habeas corpus" (fl. 250).
+É o relatório. DECIDO.
+In casu, a prisão se encontra devidamente fundamenta em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerada gravidade concreta da conduta, haja vista que o Paciente, supostamente, teria se associado a outros agentes com o objetivo de perpetrar condutas delituosas, eis que integrantes do grupo criminoso teriam se passado por funcionários de empresa de leilão de carros e realizaram ofertas (via whatsapp) de veículos, os quais somente seriam pagos após a entrega do bem; todavia, após o ofendido escolher um modelo, passou a ser cobrado por supostas despesas do negócio, a exemplo de comissão de leiloeiro, levando a vítima idosa a efetuar vários depósitos, o que lhe resultou substancial prejuízo no valor de R$ 74.850,00 (setenta e quatro mil, oitocentos e cinquenta reais).
+Tais circunstâncias evidenciam um maior desvalor da conduta e a periculosidade do Paciente, justificando a segregação cautelar imposta.
+Nesse sentido:
+"No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada, tendo as instâncias ordinárias demonstrado, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do agravante, evidenciadas pelas circunstâncias do delito, pois o recorrente e os corréus se associaram para com a finalidade de cometer inúmeros crimes de estelionato, ao induzirem e manterem em erro pessoas idosas que, acreditando que estariam negociando cotas bonificadas do clube de vantagens "Motel Clube do Brasil", efetuaram diversas transferências bancárias, totalizando a quantia de R$ 799.923,50 (setecentos e noventa e nove mil novecentos e vinte e três reais e cinquenta centavos), o que demonstra concreto risco ao meio social" (AgRg no RHC n. 165.718/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/10/2022, DJe de 3/11/2022.)
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Por outro lado, tenho que a alegação de excesso de prazo está superada, tendo em vista que o feito se encontra em fase de alegações finais, evidenciando o término da instrução processual.
+Incide no caso, portanto, o enunciado sumular n. 52 desta Corte Superior, segundo o qual:
+"encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Nesse sentido:
+"Encontrando-se o processo na fase de alegações finais, verifica-se a incidência ao presente caso da Súmula n. 52 deste Superior Tribunal de Justiça" (AgRg no HC n. 721.578/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/5/2022, DJe de 6/5/20 22).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
