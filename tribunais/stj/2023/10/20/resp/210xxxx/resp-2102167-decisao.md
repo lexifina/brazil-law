@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Na origem, cuida-se de ação ordinária na qual a parte autora, ora recorrida, busca a anulação do ato administrativo de licenciamento, bem como sua reforma militar, com a remuneração calculada com base no soldo correspondente ao grau hierarquicamente superior, nos termos dos arts. 104, II, 106, II, 108, V, 109 e 110, §§ 1º e 2º, c, todos da Lei nº 6.880/1980, ou, caso comprovada que esteja somente incapaz definitivamente podendo prover os meios no âmbito civil, a sua reforma deve ser com vencimentos na mesma graduação com todos os consectários inerentes. Subsidiariamente, caso não reconhecida a sua reforma, requer sua reintegração para fins de tratamento, até sua alta médica.
+O pedido de antecipação dos efeitos da tutela foi indeferida pelo Juízo de 1º Grau (fls. 100/102), a qual restou reformada pelo Tribunal de origem a fim de que fosse reintegrada ""como agragado/adido para receber tratamento médico adequado até sua cura ou estabilização da doença, com o objetivo de recuperar a capacidade laborativa"" (fl.113).
+Após regular processamento do feito, sobreveio então a sentença de mérito na qual o magistrado, a despeito de julgar improcedente o pedido autoral, manteve "os efeitos da tutela antecipatória deferida nos autos do agravo de instrumento nº 5006870-02.2015.4.04.0000 até futura manifestação do TRF da 4ª Região acercado mérito da presente demanda  ..  ou até o trânsito em julgado da presente sentença" (fl. 1.013).
+O Tribunal a quo confirmou a sentença de improcedência do pedido autoral, nos termos da ementa que segue (fls. 1.423/1.424):
+ADMINISTRATIVO. MILITAR. PERÍCIA. LICENCIAMENTO. MOLÉSTIA SEM RELAÇÃO DE CAUSA E EFEITO COM O SERVIÇO MILITAR. AUSÊNCIA DE INCAPACIDADE. REINTEGRAÇÃO ÀS FILEIRAS DO EXÉRCITO. REFORMA. DESCABIMENTO.
+1. Tendo sido as perícias realizadas sob o crivo do contraditório por peritos imparciais e equidistantes dos interesses das partes, especialistas em Traumatologia, os quais responderam a todos os quesitos suscitados, por óbvio devem ser prestigiadas, não prosperando o pedido formulado de anulação da sentença e reabertura da instrução.
+2. Em se tratando de militar temporário, não demonstrada a relação de causa e efeito entre a lesão sofrida e o serviço militar, e ausente incapacidade tanto para atividade castrense como para as atividades civis, não há qualquer ilegalidade no ato que o licenciou das fileiras castrenses, descabida sua reintegração e reforma.
+A esse acórdão foram opostos embargos de declaração, os quais restaram parcialmente acolhidos, tão somente para condenar a parte autora, ora recorrida, em honorários advocatícios recursais (fls. 1.492/1.496).
+Sustenta a recorrente violação ao art. 302, III, parágrafo único, do CPC c/c os arts. 186, 876, 884 e 885 do Código Civil, ao argumento de que deve a autora, ora recorrida, ser condenada a devolver aos cofres públicos os valores recebidos a título de antecipação dos efeito da tutela, pois em tal hipótese não há falar em boa-fé.
+Requer, assim, o provimento do apelo nobre.
+Contrarrazões às fls. 1.521/1.531.
+Em juízo negativo de retratação, a Corte regional manteve o acórdão recorrido (fls. 1.598/1.659).
+A UNIÃO promoveu o aditamento de seu recurso especial, para consignar que o Tribunal a quo teria se afastado da razão de decidir que orientou o julgamento do Tema repetitivo 692/STJ. Isso porque a restituição dos valores recebidos por força de decisão precária deve ser aplicada em todos os casos de revogação de tutela.
+Recurso admitido na origem (fls. 1.678/1.681).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Como se extrai dos autos, a hipótese não versa a respeito de eventual recebimento de valores indevidos por força de tutela antecipada posteriormente reformada, eis que a remuneração recebida pela parte autora, ora recorrida - bem como eventual tratamento médico recebido -, foi decorrente de sua respectiva contrapartida laboral, motivo pelo qual não há falar em ressarcimento ao erário.
+De fato, uma vez reintegrada ao serviço ativo do Exército, a parte recorrida gozava de todos os direitos inerentes a essa condição, ainda que na condição de agregada/adido, nos termos dos arts. 81 e 82 da Lei 6.880/1980.
+Nesse sentido, mutatis mutandis:
+ADMINISTRATIVO. MILITAR INCORPORADO. ACIDENTE DE SERVIÇO. ASSISTÊNCIA MÉDICO-HOSPITALAR. REFORMA. DIREITO RECONHECIDO. HONORÁRIOS. REEXAME. INVIABILIDADE.
+1. Hipótese em que se discute a situação de militar incorporado para o serviço obrigatório que se acidentou no percurso entre sua residência e a unidade militar. Como estava dirigindo motocicleta sem possuir habilitação, o Exército considerou que houve transgressão militar (art. 14 e item 82 do Anexo I do Decreto 4.346/2002), o que afastava a figura do acidente em serviço (art.
+1º, § 2º, do Decreto 57.272/1965). Por essa razão, houve a desincorporação (art. 140, 6, do Decreto 57.654/1966), sem direito à assistência médico-hospitalar prestada pelas Forças Armadas.
+2. As instâncias de origem reconheceram ser incontroverso o acidente de trânsito entre a residência do autor e sua unidade militar.
+Ademais, não se comprovou culpa do militar, ou relação entre a ausência de habilitação e o infortúnio. A partir desses fatos, analisaram a legislação citada para concluir pela invalidade da desincorporação, devendo o recorrido permanecer no Exército, na qualidade de adido, até sua recuperação ou posterior reforma. Foi acolhido também o pleito de pagamento dos soldos em atraso.
+3. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+4. Inviável o reexame fático-probatório relativo à ocorrência do acidente entre a residência e a unidade militar e à incapacidade para o serviço, nos termos da Súmula 7/STJ.
+5. A ofensa à legislação de trânsito (condução da motocicleta sem habilitação para isso) pode implicar transgressão disciplinar, conforme o art. 14 e o item 82 do Anexo I do Decreto 4.346/2002.
+Ocorre que, para descaracterização do acidente de serviço, seria necessário que o infortúnio fosse causado pela transgressão, nos termos do art. 1º, § 2º, do Decreto 57.272/1965.
+6. No caso dos autos, as instâncias de origem apuraram que não se comprovou relação entre a inabilitação do militar para conduzir motocicleta e o acidente, o que leva ao reconhecimento do acidente de serviço descrito no art. 1º, "f", do Decreto 57.272/1965.
+7. Havendo acidente em serviço que cause incapacidade temporária, o militar da ativa tem direito à agregação, nos termos dos arts. 80 e 82, I, da Lei 6.880/1980 (Estatuto dos Militares) e, nessa condição, a receber o adequado tratamento médico-hospitalar oferecido pelas Forças Armadas aos seus quadros. Caso seja apurada, posteriormente, a incapacidade definitiva, o militar deverá ser reformado, nos termos do art. 109 c/c o art. 108, III, da mesma lei.
+8. O militar incorporado para o serviço obrigatório é considerado da ativa, para fins do Estatuto dos Militares, conforme o art. 3º da Lei 6.880/1980. Nessa qualidade, quando vítima de acidente de serviço, faz jus à assistência médico-hospitalar até a cura ou, em caso de incapacidade permanente, à reforma. Precedentes do STJ.
+9. Sendo indevida a desincorporação do militar, o pagamento dos soldos no período de afastamento é conclusão lógica. Não procede o argumento da União, contrária ao pedido por inexistir contraprestação pelo trabalho, já que isso seria impossível, não apenas por conta do afastamento determinado pela própria recorrente, mas também pela incapacidade física decorrente do acidente.
+10. Quanto aos honorários, fixados em 10% sobre o valor da condenação, não foi demonstrada a exorbitância que autorizaria sua revisão em Recurso Especial, incidindo o disposto na Súmula 7/STJ.
+11. Recurso Especial não provido.
+(REsp n. 1.265.429/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 6/3/2012.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. MILITAR TEMPORÁRIO. INCAPACIDADE TEMPORÁRIA. LICENCIAMENTO. IMPOSSIBILIDADE. REINTEGRAÇÃO PARA TRATAMENTO DE SAÚDE.
+1. Inexiste omissão no julgado quando o Tribunal local se manifesta adequadamente sobre as questões suscitadas na apelação, descabendo exigir-se pronunciamento quanto a matérias apenas alegadas nos embargos de declaração.
+2. As teses pertinentes ao descabimento da agregação do militar e da contagem do período de tratamento médico para aquisição de estabilidade ou reforma não foram objeto de prequestionamento.
+Incidência da Súmula 211/STJ.
+3. O militar temporário acometido de debilidade física ou mental não definitiva não pode ser licenciado, fazendo jus à reintegração ao quadro de origem para tratamento médico-hospitalar adequado à incapacidade temporária, como adido, bem como à percepção de soldo e demais vantagens remuneratórias desde a data do indevido licenciamento. Precedentes.
+4. Recurso especial a que se nega provimento.
+(REsp n. 1.580.184/RS, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 5/12/2022.)
+ANTE O EXPOSTO, conheço do recurso especial e nego-lhe provimento.
+Publique-se.
+EMENTA
