@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Mauricio Quintino de Oliveira Junior, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de São Paulo que denegou a ordem, por maioria, no HC n. 2073838-39.2023.8.26.0000.
+Consta dos autos que, no ato do recebimento da denúncia, o Juízo da Vara Única da comarca de Cajuru/SP, em atenção ao pedido do Ministério Público, decretou a prisão preventiva do paciente, acusado do delito de homicídio qualificado consumado - Processo n. 1500446-18.2022.8.26.0111 (fls. 35/40).
+Em 13/3/2023, a Magistrada singular indeferiu o pedido de revogação da custódia cautelar do paciente (fls. 56/61).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem, por maioria, e convalidou a segregação provisória em 29/6/2023 (fls. 63/72).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar, alicerçada em ilações e na gravidade abstrata do delito.
+Destacam-se as condições pessoais favoráveis do paciente, como primariedade e bons antecedentes.
+Assere-se que o paciente se apresentou espontaneamente na Delegacia de Polícia para prestar esclarecimentos sobre o fato, inexistindo risco para a aplicação da lei penal.
+Menciona-se que o recurso cabível foi interposto na origem.
+Requer-se a revogação do decreto prisional ou aplicação de medidas cautelares diversas da prisão.
+Os autos são conexos ao RHC n. 186.371/SP.
+Indeferida por mim a liminar em 15/8/2023 e solicitadas informações, estas foram prestadas, noticiando que, no dia 21/7/2023, foi cumprido o mandado de prisão preventiva na cidade de Garopaba/SC, na mesma data, foi realizada audiência de custódia naquela comarca, mantendo a prisão, e que os autos estavam aguardando o recambiamento do paciente e a realização da audiência de instrução e julgamento designada para o dia 14/11/2023 (fl. 109).
+Nas contrarrazões juntadas a este feito, o Parquet estadual aponta, em síntese, que um indivíduo acusado de crime com base em prova da materialidade e indícios suficientes de autoria, que demonstre colocar em risco a ordem pública, a instrução criminal e a efetiva aplicação da lei penal, como é o caso dos autos, não pode responder a essa acusação em liberdade (fl. 118).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 122/124), conforme esta ementa:
+Habeas corpus. Homicídio qualificado. Prisão preventiva. Gravidade concreta do crime e evasão do distrito de culpa. Ordem pública e aplicação da lei penal. Inexistência de flagrante ilegalidade. Parecer pela denegação da ordem.
+É o relatório.
+O writ não merece acolhida.
+Estes são os fatos, de acordo com a denúncia (fls. 27/29):
+ ..
+Segundo restou apurado, na data do fato o denunciado MAURÍCIO QUINTINO DE OLIVEIRA JÚNIOR e seu colega "Marcinho", por volta das 00h45, dirigiram-se até o ponto de tráfico de drogas localizado aos fundos do bairro Boqueirão II para adquirir droga por meio do traficante PAULO CÉSAR BATISTA, vulgo "Fi".
+Ocorre que MAURÍCIO não tinha dinheiro em espécie e seu aparelho de telefone celular não estava funcionando, razão pela qual não conseguiu fazer o pagamento via PIX. Em razão disso, MAURÍCIO pediu para que PAULO vendesse "fiado" a droga, mas tal forma de aquisição do entorpecente não foi aceita por ele e ambos acabaram discutindo.
+MAURÍCIO, então, deixou o local em seu veículo FIAT/Pálio branco para buscar dinheiro em sua casa, enquanto seu colega "Marcinho" tomou rumo ignorado.
+Por volta de 01h20 min MAURÍCIO, em poder de uma arma de fogo do tipo revólver calibre 38, dirigiu -se até o ponto de tráfico em que PAULO estava e, por motivo fútil, consistente na recusa dele em lhe vender droga "fiado" , bem como por meio de recurso que dificultou a defesa de PAULO que, além de desarmado, sequer esperava pelo ataque, efetuou dois disparos contra PAULO, sendo que um deles atingiu seu tórax e perfurou seu pulmão, vindo ele a falecer em razão de hemorragia aguda traumática causada por agente perfuro contundente, conforme restou demonstrado pelo laudo necroscópico juntado as fls. 36/38.
+Após os disparos, MAURÍCIO empreendeu fuga em seu veículo FIAT/PÁLIO, enquanto PAULO, gritando de dor, caiu ao solo.
+Consta dos autos que a testemunha "Carlinhos Salgueiro" presenciou todo o ocorrido, e juntamente com a pessoa de Marcelo de Andrade, vulgo "Brecha" prestaram socorro à vítima, chegando a ver MAURÍCIO abandonar o local às pressas.
+"Brecha", por sua vez, comunicou o ocorrido às pessoas de Eliventon e Mitielly, tendo estes se dirigido até o local para também prestar socorro, colocando a vítima dentro do veículo pata atendimento no Pronto Socorro de Cajuru, local em que PAULO chegou já sem vida.  ..
+O Juízo singular, ao decretar a prisão preventiva, assim fundamentou a sua decisão (fls. 39/40 - grifo nosso):
+ ..
+A materialidade do homicídio resta demonstrada pelo exame necroscópico realizado pelo IML (fls. 36/38).
+Há indícios veementes de que o acusado tenha praticado o homicídio, eis que no seu interrogatório, em solo policial, confessou o cometimento do crime (fls. 39/40), bem como pelos depoimentos das testemunhas, também colhidas na fase inquisitorial. (fls. 30/31, 43/44, 91/92, 93/94 e 95).
+Pesa contra o acusado acusação de homicídio qualificado, crime praticado com violência contra a pessoa, denotando periculosidade acentuada por parte do agente.
+No caso em tela, a gravidade do crime imputado ao acusado é suficiente para motivar a segregação provisória como garantia da ordem pública.
+O atuar do denunciado demonstra indiferença pela vida do próximo, evidenciando despreparo para viver em sociedade. Quem se apodera de uma arma de fogo, para abater outro ser humano, deve ser encarcerado, a fim de se garantir a ordem pública para se evitar o cometimento de outros crimes da mesma espécie.
+O fato demonstra a personalidade desviante, apartada dos padrões de conduta mínimos exigidos para a convivência em sociedade. Desta forma, impedir o cometimento de outros delitos pelo averiguado é uma das finalidades da prisão preventiva. Obstar o cometimento de delitos visa à garantir a ordem pública.
+Já nesta fase se delineia que o crime foi cometido por motivo torpe e mediante recurso que dificultou a defesa da vítima, elementos que revelam, ainda mais, a periculosidade do representado.
+Outrossim, é necessária a prisão preventiva, para garantir a aplicação da lei penal, eis que se trata de indivíduo que fugiu após a prática do crime, ele certamente se furtará da aplicação da lei penal, especialmente agora que a Justiça tem a ciência de que ele é o autor do crime.
+O denunciado se ocultou, o que reforça a ideia de que empreenderá fuga do distrito da culpa ferindo, desta forma, a aplicação da lei penal.
+Por fim, permanecendo em liberdade o investigado poderá coagir e atentar contra as testemunhas do fato.
+Ao manter o decreto prisional, o Juízo a quo reafirmou que (fls. 59/60):
+ ..
+A periculosidade do réu é evidente, pois, desferiu contra a vítima disparo de arma de fogo por motivo mesquinho e extremamente insignificante, razão pela qual deve responder por esta infração penal gravíssima estando preso, em razão de sua periculosidade demonstrada com a sua ação, sendo que as cautelares diversas da prisão não se mostram adequadas ante a gravidade do delito, que é doloso e hediondo, bem como por estar demonstrado que MAURÍCIO não possui qualquer freio moral para conviver em sociedade.
+O fato é gravíssimo, demonstra a personalidade desviante do réu, apartada dos padrões de conduta mínimos exigidos para a convivência em sociedade. Desta forma, impedir o cometimento de outros delitos pelo averiguado é uma das finalidades da prisão preventiva. Obstar o cometimento de delitos visa a garantir a ordem pública.
+ ..
+Não custa recordar que a periculosidade do agente e a gravidade do delito, presentes no caso em apreço, são a pedra de toque para a manutenção da prisão preventiva:  ..
+Outrossim, é necessária a manutenção da prisão preventiva, para garantir a aplicação da lei penal, uma vez que o réu se evadiu do distrito da culpa.
+Ante o exposto, indefiro o pedido de revogação de prisão preventiva e/ou o pedido de substituição de prisão preventiva por medidas cautelares diversas da prisão.
+O Tribunal estadual, ao denegar a ordem, convalidou a custódia cautelar imposta ao paciente por verificar a existência de risco real à ordem pública, como se vê deste excerto do acórdão ora impugnado (fls. 66/67 - grifo nosso):
+ ..
+Por sua vez, como bem destacado na r. decisão atacada, o periculum libertatis faz-se presente para a garantia da ordem pública.
+Ao contrário do alegado pelos impetrantes, o caso de que se trata, de extrema gravidade, tem suas particularidades que o distinguem da generalidade dos crimes de mesma espécie.
+As circunstâncias dos fatos, mormente, as declarações prestadas pelas testemunhas, indicando, em tese, o paciente como o autor do delito, além da motivação, para este momento processual, demonstram dolo intenso que se inclina para figura penal gravíssima, incompatível com a restituição da liberdade ou com medida mais branda, sublinhando-se a necessidade para a evolução da apuração, dadas as particularidades do caso.
+Assim, a segregação cautelar está amparada em elementos idôneos e plenamente fundamentada, não havendo como restituir ao paciente o pretendido status libertatis, eis que não se mostra adequado e suficiente também à garantia da ordem pública.
+Diz nossa jurisprudência, conforme as palavras do Ministro Antonio Saldanha Palheiro, que a validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis, como no caso em análise.
+Não é outra a manifestação do Ministério Público paulista, ao ressaltar que (fl. 117 - grifo nosso):
+ ..
+Depreende-se dos autos, portanto, o preenchimento de todos os requisitos hábeis à decretação da prisão preventiva, visto a gravidade concreta da conduta, além de estarem presentes os indícios suficientes da autoria e a comprovação da materialidade delitiva.
+Com efeito, é imputado ao paciente a prática do delito de homicídio qualificado, sendo que o paciente, ora recorrente, ceifou a vida do ofendido em razão da negativa de venda de entorpecentes de forma fiada, evidenciando-se personalidade desvirtuada e inclinada para a prática criminosa.
+Além disso, após a decretação da custódia cautelar, o paciente permaneceu foragido do distrito da culpa, sendo preso no Estado de Santa Catarina, o que demonstra ainda mais a necessidade da manutenção da prisão preventiva.
+Assim, a revogação da decisão que decretou a prisão preventiva ensejaria desprestígio à garantia da ordem pública, da instrução criminal e da efetiva aplicação da lei penal.
+Observa-se, da análise dos trechos acima, que não há constrangimento ilegal a ser reparado neste feito quanto aos fundamentos que amparam a decretação da custódia provisória, dada a presença do periculum libertatis, a necessidade de garantia da ordem pública e da aplicação da lei penal. Com efeito, ao decretar/manter a prisão preventiva do paciente, as instâncias ordinárias sopesaram a gravidade concreta do delito, o qual foi cometido com extrema violência, em razão de suposta venda de drogas. Além do fato de ter o paciente foragido do distrito da culpa e ter sido preso em outra unidade da federação. Como disse o Subprocurador-Geral da República José Elaeres Marques Teixeira, cujo parecer também adoto como razão de decidir (fls. 122/124), o fato de ele ter comparecido espontaneamente à Delegacia de Polícia para prestar esclarecimentos sobre o fato é irrelevante nesse contexto.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023). Na mesma linha, AgRg no HC n. 685.668/BA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/11/2021; e HC n. 685.080/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 22/9/2021.
+Afora isso, segundo a jurisprudência desta Corte, a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal (AgRg no RHC n. 117.337/CE, Ministro Jorge Mussi, Quinta Turma, DJe 28/11/2019).
+Por fim, é entendimento desta Corte Superior que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública, como na espécie.
+Ante o exposto, em consonância com o parecer ministerial e precedentes, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA E A APLICAÇÃO DA LEI PENAL. GRAVIDADE CONCRETA DO CRIME (MODUS OPERANDI). EVASÃO DO DISTRITO DA CULPA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
