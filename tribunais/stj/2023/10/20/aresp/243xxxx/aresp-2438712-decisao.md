@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por FABIO SILVA DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO CRIMINAL. ROUBO MAJORADO. CONCURSO DE AGENTES. SIMULACRO DE ARMA DE FOGO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. REJEIÇÃO. TESTEMUNHOS JUDICIAIS DOS POLICIAIS MILITARES RESPONSÁVEIS PELA PRISÃO DO APELANTE. HARMONIA DOS DEPOIMENTOS. ACUSADO PRESO EM FLAGRANTE LOGO APÓS A PRÁTICA DO ASSALTO, DE POSSE DA RES FURTIVA E DO SIMULACRO DE REVÓLVER. DECLARAÇÕES DA VÍTIMA EM SEDE INQUISITIVA. RECONHECIMENTO POLICIAL. CONFISSÃO EXTRAJUDICIAL. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 386, VII, do CPP, no que concerne à falta de provas suficientes para a condenação do recorrente pelo crime de roubo, uma vez que a condenação estaria baseada somente nos depoimentos de policiais militares, sendo que as demais provas foram produzidas somente no inquérito policial (confissão extrajudicial e palavra da vítima), trazendo a seguinte argumentação:
+No presente caso, tanto a sentença, como o acórdão fundamentaram a decisão condenatória na confissão do réu colhida na fase inquisitorial e depoimento policial. Em juízo, o réu retratou-se da confissão realizada em sede inquisitória, negando categoricamente a autoria dos fatos que lhe foram imputados.
+Os depoimentos dos agentes policiais necessitam estar acompanhados de outros elementos que lhes confiram sustentacão, o que não ocorre aqui, haja vista que a única confissão extraída do réu se deu em sede policial, logo a após a sua apreensão, e que foi, posteriormente, retratada em juízo.
+ ..
+De igual modo, não há como fundamentar uma condenação exclusivamente na palavra da vítima na fase inquisitorial, vez que a sua percepção acerca do fato criminoso nem sempre condiz com a exata realidade. O relato da vítima, geralmente, está impregnado de subjetividade acerca da figura do criminoso, o que dificulta que se extraia desse relato a verdade real do desenrolar dos fatos.
+Sabe-se que a confissão por si só não tem força probante suficiente para embasar uma condenação, sobretudo quando se e colhida somente em sede policial, devendo ser analisada e sopesada em conjunto com os demais elementos probatórios, que, de igual modo, devem fornecer certeza quanto à autoria e a materialidade do delito.
+Assim, a Corte de Justiça do Estado da Bahia, ao manter a condenação com base em elementos probatórios frágeis, incorreu em violação à lei federal, especificamente, o art. 386, VII do Código de Processo Penal.
+ ..
+Nesse sentido, tem-se que a condenação deve estar alicerçada em um arcabouço probatório forte, de modo que ao examiná-lo não seja possível extrair outra conclusão senão a certeza da autoria.
+Isso porque, a mera existência de dúvida quanto a autoria delitiva impõe que a medida a ser adotada é absolvição, jamais a condenação.
+Assim, diante da fragilidade do acervo probatório, incide na espécie o princípio in dubio pro reo, uma vez que, sem a certeza plena da autoria, não se pode proferir um acordão condenatório, devendo, portanto o réu ser absolvido do delito incurso nas penas do art. 157, § 2º, II do Código Penal (fls. 356/358).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, afere-se que, ao reconhecimento pessoal da fase inquisitiva, somam-se outras provas da autoria delitiva, como os testemunhos judiciais dos policiais e as circunstâncias de o Recorrente ter sido preso de posse da res furtiva e de um simulacro de arma de fogo - havendo, por conseguinte, material probatório robusto para alicerçar o édito condenatório (fl. 317).
+Assim, nessa linha, segundo o acórdão recorrido a condenação não estaria lastreada somente nos depoimentos dos policiais.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto ao pleito absolutório basead o na suposta ausência de provas suficientes para a condenação, uma vez que para dissentir da conclusão do Tribunal de origem seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, podem ser citados, por analogia, os seguintes julgados: AgRg no AREsp n. 2.030.511/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/5/2022; AgRg no AREsp n. 1.924.674/DF, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 7/4/2022; AgRg no AREsp n. 1.773.536/AM, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/8/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
