@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de pedido de reconsideração do indeferimento da liminar em habeas corpus, impetrado em favor de CARLOS NUNES DA SILVA FILHO, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios.
+O requerente reitera a alegação de excesso de prazo para realização do exame criminológico em face da ausência de profissionais habilitados, dando causa a morosidade e ineficiência do Estado.
+Aduz que "o risco da demora, fica caracterizado pela verificação do dano irreparável, pois se encontra preso indevidamente, sofrendo constrangimento ilegal, sem a devida apreciação apesar de determinado do exame criminológico e com os cálculos e os documentos juntados e a remissões que não foram computadas pelos cursos realizados na PFCAT já alcança tempo mais que suficiente para o fiel cumprimento de pena, e sendo assim excluído do convívio social irregularmente, mesmo com cumprimento dos requisitos sofrendo constrangimento ilegal por possuir objetivamente e subjetivamente os requisitos para realização do exame e mais sem esta devidamente regulado seu tempo de cumprimento de pena em atestado atualizado com a devida analise dos documentos anexo mais as remições que faz jus realizada na PFCAT, não se cumpre a 02 meses nem a decisão do se eu seq. 69.1, nem o determinado na resolução da Corte Interamericana de Direitos Humanos" (e-STJ, fl. 248)
+Requer a reconsideração da decisão, com a expedição imediata do alvará de soltura em favor do paciente.
+É o relatório.
+Decido.
+Conforme consignado na decisão ora impugnada, a concessão de liminar constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, ilegalidade no ato judicial. Em que pese a relevância dos argumentos apresentados, o pedido já foi examinado anteriormente.
+Cumpre salientar que, segundo orientação dos Tribunais Superiores, a análise do excesso de prazo será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos não acarreta automaticamente o relaxamento da segregação do apenado.
+Corrobora:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA OU FALTA DE RAZOABILIDADE. EXCESSO DE PRAZO PARA APRECIAÇÃO DE PROGRESSÃO DE REGIME. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudên cia desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No caso, a despeito de pender exame criminológico, a defesa do agente impetrou habeas corpus na origem 10 dias após cumprir o lapso temporal para progressão de regime, e 12 dias depois nesta Corte Superior, sem dar oportunidade às instâncias ordinárias de analisarem o pedido de progressão e a realização do exame criminológico em tempo hábil.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido."
+(AgRg no HC n. 832.442/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE MORA NA APRECIAÇÃO DO PEDIDO. EXCESSO DE PRAZO DEVIDAMENTE JUSTIFICADO. SUPERVENIENTE EXAME PELO JUÍZO DA EXECUÇÃO. PLEITO PREJUDICADO. DESPROVIMENTO DO RECLAMO.
+1. A via eleita revela-se inadequada para insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede seu formal conhecimento.
+2. O pleito de progressão de regime não foi objeto de debate pelo Tribunal de origem, o que evidencia a impossibilidade de conhecimento da impetração por este Sodalício, sob pena de supressão de instância. Precedentes.
+3. Quanto ao excesso de prazo na apreciação do pedido de progressão, verificou-se que a demora foi devidamente justificada e, posteriormente, o pleito foi examinado, tornando prejudicado o pedido.
+4. Agravo regimental desprovido."
+(AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXCESSO DE PRAZO INJUSTIFICADO NA APRECIAÇÃO DO PEDIDO NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO, COM RECOMENDAÇÃO.
+1. Apesar da garantia constitucional que assegura às partes a razoável duração do processo e a celeridade na tramitação do feito (art. 5º, LXXVIII, da Constituição Federal), esta Corte possui entendimento pacificado no sentido de que a demora para a conclusão dos atos processuais não pode ser verificada da simples análise dos prazos previstos em lei, devendo ser examinada de acordo com os princípios da razoabilidade e conforme as peculiaridades do caso concreto.
+2. Na hipótese, não se constata excesso de prazo injustificado, na medida em que as informações prestadas pelo Juízo a quo dão conta de que o pedido de progressão de regime foi formulado "em data recente e de forma genérica, sem acostar aos autos os documentos minimamente necessários para a apreciação da benesse", o que foi confirmado pelo Tribunal de origem.
+3. Agravo regimental desprovido, com recomendação, de ofício, ao Juízo da Execução, para que examine o pedido de progressão de regime formulado pelo agravante. Preconiza-se, igualmente, celeridade."
+(AgRg no HC n. 643.721/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021.)
+Assim, indefiro o pedido de reconsideração.
+Solicitem-se informações à autoridade coatora e ao Juízo de primeira instância, bem como a senha para consulta ao processo, se houver, a serem prestadas, preferencialmente, por meio da Central do Processo Eletrônico (CPE) do STJ.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se. Intimem-se.
+EMENTA
