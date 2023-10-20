@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 83/STJ.
+No recurso especial, sustenta a defesa violação dos arts. 33, § 2º, c, e 59 do CP, aduzindo desproporcionalidade da exasperação da pena-base e necessidade de abrandamento do regime prisional.
+Requer o provimento do recurso, a fim de que ocorra a revisão da pena aplicada em favor do Recorrente, com aplicação de um menor aumento sob a pena-base (1/8 de 2 anos ou 1/6 de 2 anos) e aplicação do regime aberto.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Consta dos autos que o recorrente foi condenado, como incurso no art. 155, § 4º, III, do CP, à pena de 2 anos e 9 meses de reclusão, em regime inicial semiaberto, e 53 dias-multa.
+Acerca da dosimetria, colhe-se do acórdão impugnado:
+Da leitura da sentença hostilizada percebe-se que o juízo a quo, em observância ao princípio da individualização da pena, e atendendo aos critérios estabelecidos em lei, especialmente o quanto disposto no art. 59, do Código Penal, fixou a pena-base em coerência com as circunstâncias e contingências do caso concreto.
+Nessa senda, segue trechos da sentença hostilizada em que o juízo primevo realiza a dosimetria do Apelante. A seguir:
+Passo à dosimetria da pena.
+No que se refere às circunstâncias judiciais previstas no art. 59 do Código Penal, que embasam a pena a ser aplicada, verifico que o réu agiu com culpabilidade normal à espécie.
+O acusado ostenta maus antecedentes, pois de acordo com documento de fls.85/86 e pesquisa realizada no sistema e-SAJ, o réu fora condenado na Ação Penal tombada sob o n.º 0502797-83.2014.8.05.0001 pela prática do delito de furto qualificado, por fato ocorrido em 05.01.2014 e decisão transitada em o delito que ora se apura em 30 de outubro de 2016, o que, embora não configure reincidência, enseja a valoração negativa da circunstância judicial dos antecedentes, consoante jurisprudência do STJ (Cf. STJ, AgRg no AREsp 1472960/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/02/2020, DJe 28/02/2020;STJ, HC 553.521/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/02/2020, DJe 14/02/2020).
+Não há nos autos elementos para se valorar a conduta social e personalidade do réu, presumindo-se regulares.
+Quanto aos motivos que levaram à prática do delito de tráfico, temos o lucro fácil, o que já é punido pelo próprio tipo.
+As circunstâncias e consequências do delito estão relatadas nos autos, nada tendo a se valorar.
+Quanto ao comportamento da vítima, em nada contribuiu para o evento delituoso.
+Assim, delimitados os elementos norteadores da individualização da pena e diante da existência de valoração negativa de uma circunstância judicial (antecedentes), fixo a pena-base em 02 (dois) anos e 09 (nove) meses de reclusão.
+Conforme leitura acurada, verifica-se que, de forma escorreita, o Magistrado primevo na primeira etapa da dosimetria da pena valorou a circunstância judicial relativa aos maus antecedentes como negativa, tendo em vista a condenação nos autos inscrito sob o número 0502797-83.2014.8.05.0001 pela prática do delito de furto qualificado.
+Digno de nota que o crime atinente ao processo mencionado em linhas anteriores ocorreu em 05.01.2014, conquanto a decisão somente transitou em julgado em 12.07.2018, sendo certo que o fato delituoso aqui apurado sucedeu em 30 de outubro de 2016,o que, apesar de não caracterizar reincidência, ensejou, diga-se que corretamente, a valoração negativa da circunstância judicial dos maus antecedentes, consoante jurisprudência do STJ citada pelo Magistrado primevo.
+ ..
+No que concerne ao quantum fixado para cada uma das circunstâncias judiciais, na primeira etapa do processo dosimétrico, do mesmo modo, não deve ser modificado.
+Valorada negativamente apenas as circunstâncias do crime relacionada aos maus antecedentes, deve a pena base permanecer fixada em 02 (dois) anos e 09 (nove) meses de reclusão, considerando a aplicação de 1/8 (um oitavo) sobre o intervalo entre os limites mínimo e máximo abstratamente cominados no tipo legal.
+Vale salientar que, nos termos da jurisprudência do STJ, a aplicação da pena, na primeira fase da dosimetria, não se submete a um critério matemático, devendo ser fixada à luz do princípio da discricionariedade motivada do juiz.
+No caso concreto, o juízo primevo fundamentou o critério utilizado, razão pela qual não é cabível a readequação.
+ ..  Deste modo, a manutenção da pena-base aplicada pelo Magistrado de primeiro grau é imperiosa. Logo, o pedido da Defesa para fixação da pena-base em patamar inferior deve ser rechaçado.
+Conforme cediço, "A estreita via do recurso especial não é adequada à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias, apenas se admitindo, excepcionalmente, seu exame nos casos de manifesta violação dos critérios dos arts. 59 e 68 do CP, sob o aspecto da legalidade, de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica" (AgRg no REsp n. 1.958.755/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+"A jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade" (AgRg no AREsp n. 2.045.906/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023.)
+Na hipótese, a pena-base sofreu acréscimo de 9 meses em razão da presença de 01 (uma) circunstância judicial desfavorável (antecedentes), o que corresponde a 1/8 do intervalo entre as penas máxima e mínima abstratamente previstas pelo tipo penal incriminador (art. 155, § 4º, III, do CP - de 2 a 8 anos de reclusão), fração que se harmoniza com a jurisprudência desta Corte, não se verificando a apontada desproporcionalidade.
+Com efeito, "O magistrado não está obrigado a seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias. No caso concreto, foi utilizada a fração de 1/8 sobre o intervalo da pena cominada ao crime de homicídio, o que está em perfeita sintonia com a jurisprudência deste Tribunal" (AgRg no AREsp n. 2.407.930/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023.)
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO BASEADA EM ELEMENTOS CONCRETOS QUE TRANSBORDAM O TIPO PENAL. AUSÊNCIA DE DESPROPORCIONALIDADE NA DOSIMETRIA DA PENA.
+ ..
+4. O julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, pois isso está no âmbito da sua discricionariedade, embora ao fazê-lo deva fundamentar com elementos concretos da conduta do acusado.
+5. O réu não tem direito subjetivo à utilização das frações de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais parâmetros não são obrigatórios, porque o que se exige das instâncias ordinárias é a fundamentação adequada e a proporcionalidade na exasperação da pena. Precedente.
+6. Agravo regimental improvido.
+(AgRg no HC n. 707.862/AC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe de 25/2/2022.)
+No que se refere ao regime prisional, colhe-se dos autos que, "além de ser reincidente específico em injustos patrimoniais, o Apelante ostenta maus antecedentes" (fls. 47-48).
+A defesa pleiteia, ainda, a fixação do regime inicial aberto.
+Considerado o patamar da pena privativa de liberdade fixado na origem - 2 anos e 9 meses de reclusão -, mas fixada a pena-base acima do mínimo legal e tratando-se de acusado reincidente, seria cabível na espécie até mesmo o regime fechado, nos termos do art. 33, § 2º, b, c.c. § 3º, do CP. Desse modo, fica mantido o regime semiaberto, conforme fixado na origem. A esse respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. REPRESENTAÇÃO DO OFENDIDO. RETROATIVIDADE DA LEI N. 13.964/2019. IMPOSSIBILIDADE QUANDO HOUVER SIDO OFERECIDA A DENÚNCIA. TEMA PACIFICADO NO ÂMBITO DESTA CORTE. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. REGIME SEMIABERTO. SUBSTITUIÇÃO DA REPRIMENDA. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Terceira Seção deste Superior Tribunal, no julgamento do HC n. 610.201/SP (DJe 8/4/2021), pacificou o entendimento de que a norma que instituiu a condição de procedibilidade, no delito previsto no art. 171 do Código Penal, não retroage para atingir os casos em que já houve o oferecimento da denúncia.
+2. O incremento da sanção básica foi devidamente justificado pelos maus antecedentes, pelas circunstâncias delito e pelas consequências do crime.
+3. Apesar de a pena aplicada ser inferior a 4 anos, a reincidência e o registro de circunstâncias judiciais desfavoráveis justificariam, em consonância com o art. 33, § 2º, "c" e § 3º do CP, a aplicação do regime inicial fechado. Todavia, ante a ausência de irresignação do Ministério Público, permaneceu o semiaberto.
+4. Incabível a substituição da pena privativa de liberdade pela ausência dos requisitos dispostos no art. 44, II e III, do CP.
+5. Agravo regimental não provido.
+(AgRg no REsp n. 2.074.116/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+O acórdão recorrido harmoniza-se com a jurisprudência desta Corte Superior, o que atrai a incidência da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
