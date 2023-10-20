@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MUNICÍPIO DE CURITIBA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+"APELAÇÃO CÍVEL. TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU E TAXA DE LIXO. QUITAÇÃO DO DÉBITO PRINCIPAL ANTES DA CITAÇÃO DA DEVEDORA. PEDIDO DE APLICAÇÃO DO ART. 924, INCISO II, DO CÓDIGO DE PROCESSO CIVIL, SEM QUE A RELAÇÃO PROCESSUAL TENHA SE FORMADO. ART. 238 DO CÓDIGO DE PROCESSO CIVIL. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS PROCESSUAIS, PELO PRINCÍPIO DA CAUSALIDADE. ART. 90 DO CÓDIGO DE PROCESSO CIVIL.
+RECURSO DE APELAÇÃO NÃO PROVIDO" (fl. 41e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além da divergência jurisprudencial, violação ao art. 90 do CPC/2015, sustentando, em síntese, que, "tendo o pagamento sido realizado administrativamente posteriormente ao ajuizamento da execução fiscal, cabe ao executado arcar com as custas processuais, tendo em vista que foi ele que deu causa a instauração da execução fiscal, ao não pagar o débito por ele devido. (..) No presente caso, ao pagar a dívida, o executado reconheceu a existência do débito. Por outro lado, por não ter pago o débito dentro do prazo, o apelado deu causa ao ajuizamento da demanda. Assim, segundo o princípio da causalidade as despesas processuais devem ser arcadas por aquele que se comportou de forma a tornar necessária a instauração do processo, ou seja, por aquele que, agindo ou se omitindo, causou a formação da relação processual" (fls. 50/51e).
+Por fim, requer "seja conhecido e recebido este recurso, e no mérito, seja provido o presente Recurso Especial" (fl. 59e).
+Sem contrarrazões (fl. 60e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 61/63e).
+A irresignação não merece prosperar.
+Ao solucionar a controvérsia, a Corte de origem asseverou que:
+"A insurgência do apelante é contra a sentença que julgou extinta a execução fiscal, em razão da satisfação do crédito tributário, condenando-o ao pagamento das custas processuais.
+No caso em análise, vislumbra-se que a execução fiscal foi ajuizada em 26/04/2021, visando o recebimento de créditos tributários relativo ao IPTU e Taxa de Lixo, dos exercícios de 2016 a 2020 (CDA nº 2.596/2021).
+Em 06/08/2021, o ente público informou não constar mais os débitos que deram ensejo à execução, requerendo a extinção do feito nos termos do art. 924, II, do CPC (mov. 7.1).
+Embora dos autos conste apenas a informação do Município de Curitiba, de não mais existirem os débitos que deram ensejo à exação, sem o esclarecimento se o pagamento se deu por meio de parcelamento ou outra forma, e até mesmo se a quitação foi posterior ao ajuizamento da execução fiscal, tais fatos se revelam de menor importância, uma vez que, no caso de parcelamento posterior à edição da LCM nº 95/2015, ante a exigência do art. 2º, § 3º, no sentido de que "tratando-se de débito inscrito em dívida ativa, ajuizado para cobrança executiva, o pagamento do débito não dispensa o recolhimento das custas processuais", e na hipótese de pagamento administrativo anterior ao ajuizamento, a responsabilidade pelo pagamento das custas processuais é imposta ao ente público" (fl. 42e).
+Com efeito, a Corte de origem asseverou que "na hipótese de pagamento administrativo anterior ao ajuizamento, a responsabilidade pelo pagamento das custas processuais é imposta ao ente público" (fl. 42e).
+Entretanto, as razões do Recurso Especial não atacam tais fundamentos, tendo a parte recorrente se limitado a manifestar seu inconformismo com o resultado que lhe foi desfavorável, pelo que incidem, na espécie, as Súmulas 283 e 284 do STF, por analogia.
+Nesse contexto, à luz do princípio da dialeticidade, não basta à parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento proferido merece ser modificado.
+Na esteira da jurisprudência dessa Corte, "a interposição do recurso especial à moda de apelação, deixando a parte recorrente de efetivamente demonstrar no que consistiu a violação da lei federal e de infirmar especificamente os fundamentos do acórdão, limitando-se a reiterar as razões dos recursos anteriores, atrai a incidência das Súmulas nºs 283 e 284 do Supremo Tribunal Federal (STJ, AgRg no AgRg no AREsp 171.093/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 26/08/2013).
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. (..). DESACATO AO PRINCÍPIO DA DIALETICIDADE E ÀS SÚMULAS 283 E 284 do STF.
+(..)
+7. Nota-se a partir do cotejo das razões do Recurso Especial (fls.
+3.970/3.999) e do Agravo em Recurso Especial (fls. 4.162/4.171) com as do Agravo ora impugnado, que, neste último, os recorrentes limitaram-se a reproduzir ipsis litteris o conteúdo apresentado no bojo dos outros recursos. Desacato ao princípio da dialeticidade e às Súmulas 283 e 284 do Colendo Supremo Tribunal Federal.
+8. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+9. Agravo Interno não provido" (STJ, AgInt no REsp 1.728.301/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/11/2019).
+Ademais, rever as conclusões adotadas pelo Tribunal de origem, no sentido de que o pagamento foi efetuado anteriormente ao ajuizamento da execução fiscal, demandaria, necessariamente, o exame do acervo fático-probatório, constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
+EMENTA
