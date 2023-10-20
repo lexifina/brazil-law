@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MATHEUS LUIZ DE CARVALHO SILVERIO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500186-81.2021.8.26.0593).
+Depreende-se dos autos que o réu foi condenado a 4 anos, 10 meses e 10 dias de reclusão, no regime inicialmente semiaberto, pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006.
+Segundo a acusação, o paciente teria sido apreendido com "1.239 (mil duzentos e trinta e nove) pinos de cocaína, pesando bruto 845g  oitocentos e quarenta e cinco gramas ; e 463 (quatrocentos e sessenta e três) porções de "maconha" - Tetrahidrocannabinol, pesando bruto 1.672g  um quilo e seiscentos e setenta e dois gramas " (e-STJ fl. 12).
+Interposta apelação pelo Ministério Público, o Tribunal de origem deu parcial provimento ao recurso para aumentar a pena do paciente para 5 anos de reclusão, no regime inicial (e-STJ fls. 21/26).
+Daí o presente writ, no qual sustenta a defesa fazer jus o réu à aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Requer, liminarmente e no mérito, a aplicação da minorante do art. 33, § 4º, da Lei de Drogas.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 106/109).
+É o relatório.
+Decido.
+Acerca da controvérsia, colhe-se do acórdão recorrido (e-STJ fls. 25/26):
+No caso concreto, a atuação do réu, com nítido intuito lucrativo, desautoriza, sem dúvida, a aplicação do redutor, sobretudo diante dos veementes indícios de que exercia a traficância profissionalmente ilação que deflui, inclusive, da expressiva quantidade de narcóticos apreendidos, destinada somente àqueles que sejam capazes de lhe dar vazão e que possuam condições imediatas para tanto, a revelar maior imersão no mundo profano, como da concatenação de esforços para a difusão.
+Impensável, enfim, que, no particular, a atuação envolvesse pessoa sem inserção em organização criminosa, mormente diante da necessidade de remanejamento de tamanha quantidade de entorpecentes, a indicar, outrossim, considerável capacidade econômica.
+In casu, ademais, não se pode olvidar dos atos infracionais cometidos pelo réu em sua adolescência; afinal, o recorrido cometeu o crime tratado na presente quando contava com apenas 18 (dezoito) anos, havia, portanto, atingido recentemente a maioridade, o que torna ainda mais relevantes os 16 (dezesseis) processos pela prática de atos infracionais listados na certidão de fls. 34/35.
+Destarte, conquanto não se trate de réu reincidente, as sobreditas circunstâncias fazem convir que seria impróprio o privilégio legal, visto que, no caso, a primariedade não aplaca os indícios de que esteja mesmo arraigado no meio profano, o que inclui, considerados os fatos apurados na presente demanda, o mundo da disseminação de drogas.
+Na linha da jurisprudência do STJ, "o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração, ressalvado o meu entendimento" (HC n. 663.705/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+Na espécie, não verifico a ocorrência de constrangimento ilegal na consideração dos atos infracionais praticados pelo paciente para a negativa de concessão da minorante do § 4º do art. 33 da Lei n. 11.343/2006. Isso, porque o acórdão impugnado faz referência a 16 processos por atos infracionais e, embora não seja detalhada a natureza do atos, a quantidade evidencia a dedicação do acusado a atividades criminosas.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ART. 33, CAPUT, DA LEI N. 11.343/2006. ILICITUDE DAS PROVAS. ATUAÇÃO INVESTIGATIVA DA GUARDA MUNICIPAL. ANULAÇÃO DO PROCESSO. AUSÊNCIA DE ILEGALIDADE. DESCLASSIFICAÇÃO DO CRIME PARA USO DE DROGAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. APLICAÇÃO DA MINORANTE NA FRAÇÃO MÁXIMA. ATOS INFRACIONAIS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL DESPROVIDO.
+1."A primeira parte do art. 301 do Código de Processo Penal autoriza a qualquer do povo prender quem quer que seja encontrado em flagrante delito. Desse modo, inexiste ilegalidade na prisão em flagrante realizada por guardas municipais. Conforme compreensão da Sexta Turma desta Corte Superior, havendo fundada suspeita a configurar situação de flagrante delito, mostra-se lícita a abordagem pessoal feita pela Guarda Civil Municipal, que não atua, nessa hipótese, como polícia investigativa" (AgRg no HC 667.413/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 1º/6/2021, DJe 16/6/2021).
+2. Na espécie, os guardas municipais, em patrulhamento de rotina, avistaram o exato momento em que o agravante realizava a venda de entorpecentes, razão pela qual o prenderam em flagrante.
+3. O pleito de desclassificação da conduta de tráfico para a de uso de entorpecente demandaria inevitável revolvimento de matéria fático-probatória, o que se não mostra viável na via estreita do habeas corpus. Precedentes.
+4. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+5. A Terceira Seção desta Corte de Justiça tem manifestado o entendimento de que é possível a utilização de atos infracionais para formação da convicção de que o réu se dedica a atividades criminosas, de modo a afastar o benefício legal previsto no art. 33, § 4º, da Lei n. 11.343/2006. Precedentes.
+6. No caso em tela, não foi reconhecida a incidência da minorante com base na dedicação do paciente à atividade criminosa, tendo em vista a anterior prática de atos infracionais, com observância aos pormenores da situação concreta e respeitando os critérios estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006, sendo excluída a possibilidade de aplicação do pretendido redutor.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 703.036/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
