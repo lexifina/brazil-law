@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No recurso especial, sustenta a defesa violação do art. 121, § 2º, II, do CP, aduzindo manifesta improcedência da qualificadora do motivo fútil.
+Requer o provimento do recurso, a fim de afastar da decisão de pronúncia a mencionada qualificadora.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+O recorrente foi pronunciado pela suposta prática de tentativa de homicídio, nos termos do art. 121, § 2º, II, c/c art.14, II, ambos do Código Penal.
+Acerca da controvérsia, extrai-se do acórdão combatido (fl. 57):
+20 - No que pertine à qualificadora de motivo fútil. Da análise dos autos, bem assim da decisão que pronunciou o recorrente, observa-se que não há que falar em afastamento da qualificadora impugnada. Extrai-se dos elementos probatórios a existência de indícios de que o delito foi cometido em virtude de a vítima ter indagado réu sobre a subtração de seu aparelho celular.
+21 - Desse modo, no que concerne à qualificadora em questão, entendo que não merece reparos a decisão de pronúncia.
+22 - Além disso, acerca dessa matéria é firme o entendimento do Superior Tribunal de Justiça no sentido de que as qualificadoras apenas devem ser afastadas se estiverem totalmente dissociadas dos elementos probatórios colhidos nos autos, o que não se vislumbra na situação em tela, consoante julgado a seguir transcrito:  ..
+Conforme cediço, somente podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem qualquer amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+Com efeito, "não se pode afastar uma qualificadora por mera opção hermenêutica, de modo que o julgador somente pode retirar da pronúncia a qualificadora que, objetivamente, inexista, mas não a que, subjetivamente, julgar não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença uma circunstância que, numa análise objetiva, mostra-se viável, ao menos em tese" (REsp n. 1.547.658/RS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 07/12/2015).
+Na hipótese, o acórdão destaca haver nos autos "indícios de que o delito foi cometido em virtude de a vítima ter indagado réu sobre a subtração de seu aparelho celular", de modo que não se verifica a manifesta improcedência da qualificadora relativa ao motivo fútil, por encontrar, ao menos em tese, amparo nas provas dos autos.
+Nesse contexto, insofismavelmente, a acolhimento da tese defensiva - pedido de exclusão das qualificadoras -, para além de caracterizar invasão na competência do Tribunal do Júri, demanda verticalização da prova, cognição não permitida no âmbito do recurso especial. Incide, portanto, a Súmula 7 do STJ.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. EXCESSO DE LINGUAGEM. RAZÕES DISSOCIADAS. SÚMULA 284/STF. EXCLUSÃO DE QUALIFICADORA. MOTIVO FÚTIL. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AUSÊNCIA DE MANIFESTA IMPROCEDÊNCIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+1. Decidiu-se em decisão monocrática que a violação do art. 413 §1º, do CPP não foi objeto de debate pela instância ordinária, estando ausente o prequestionamento. No ponto, a defesa sustenta que não é necessário o reexame de provas. Assim, as razões do agravo regimental encontram-se dissociadas da premissa exposta na decisão recorrida, o que atrai a incidência da Súmula 284/STF
+2. A pronúncia encerra simples juízo de admissibilidade da acusação, exigindo o ordenamento jurídico somente o exame da ocorrência do crime e de indícios de sua autoria, não se demandando aqueles requisitos de certeza necessários à prolação da sentença condenatória, sendo que as dúvidas, nessa fase processual, resolvem-se pro societate.
+3. Para a admissão da denúncia, há que se sopesar as provas, indicando os indícios da autoria e da materialidade do crime, bem como apontar os elementos em que se funda para admitir as qualificadoras porventura capituladas na inicial, dando os motivos do convencimento, sob pena de nulidade da decisão, por ausência de fundamentação.
+4. O Tribunal local, soberano na análise do conjunto fático-probatório, colhido nas fases inquisitorial e judicial, concluiu pela presença de elementos indicativos da autoria do acusado pelo crime de homicídio qualificado pelo motivo fútil. Assim, para alterar a conclusão a que chegou a instância ordinária e decidir, nesse momento processual, pelo afastamento da referida qualificadora, como requer a defesa, seria necessário o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+5. Ademais, o Superior Tribunal de Justiça tem assentado que a existência de discussão anterior ao cometimento do delito, entre vítima e acusado, por si só, não é suficiente para, de imediato, retirar da competência Tribunal Popular a decisão acerca do conhecimento do motivo fútil ao caso concreto (AgInt no REsp n. 1.737.292/GO, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/9/2018, DJe 25/9/2018). Precedentes.
+6. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no AREsp n. 2.422.604/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
