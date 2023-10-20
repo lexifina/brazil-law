@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interposto por CASSIO RECKZIEGEL e OUTROS, com fundamento no art. 1.015 e seguintes do CPC, contra decisão que inadmitiu o processamento de recurso especial.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+O recurso é manifestamente incabível.
+O agravo de instrumento destina-se, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+Para atacar decisão que inadmite apelo especial, o recurso cabível é o agravo previsto no art. 1.042 do Código de Processo Civil, que deve ser dirigido à Presidência do Tribunal de origem e processado nos próprios autos.
+A interposição equivocada de recurso quando há expressa disposição legal e inexiste dúvida objetiva constitui manifesto erro grosseiro.
+Portanto, é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Mesmo que se aceitasse a remota possibilidade da aplicação do princípio da fungibilidade, ainda não seria possível conhecer do recurso, tendo em vista a irregularidade no recolhimento do preparo.
+Em detida análise dos autos, observa-se haver divergência entre o número constante no código de barras da guia de preparo e seu respectivo comprovante de pagamento (fls. 337/338).
+Registre-se que o STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Constatada a referida incongruência, o Tribunal de origem determinou a intimação da parte recorrente, com fundamento no art. 1.007, § 4º, do Código de Processo Civil, para realizar, no prazo de 5 (cinco) dias, o recolhimento em dobro do preparo, sob pena de não conhecimento do recurso (fl. 350).
+Embora regularmente intimada para efetuar o recolhimento em dobro, a parte assim não procedeu, tendo, ao revés, oposto embargos de declaração, que foi recebido como mera petição, para argumentar que "a decisão do evento 87 deve ser revista, eis que devidamente fundamentado e comprovado o pagamento das custas pela parte recorrente de maneira correta, visto o erro material na juntada e emissões de guias diferentes, mas que, efetivamente ocorreu o pagamento/preparo no prazo da lei/recurso." (fl. 361)
+Dessa forma, não tendo regularizado o preparo de forma adequada, em descumprimento ao disposto no art. 1.007, § 4º, do Código de Processo Civil, incide na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
