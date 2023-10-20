@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FELIPE ANDERSON PINHEIRO ALMEIDA contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, apresentado contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará na Apelação Criminal n. 0003113-40.2009.8.06.0151.
+Consta dos autos que o Agravante foi condenado como incurso no art. 121, §§ 1.º e 2.º, inciso IV, c. c. o art. 14, inciso II, ambos do Código Penal, à pena de 8 (oito) anos de reclusão, em regime inicial semiaberto (fls. 368-371).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu parcial provimento à apelação defensiva para aplicar redução decorrente do reconhecimento da figura privilegiada do delito no patamar de 1/6 (um sexto), redimensionando a reprimenda a 6 (seis) anos e 8 (oito) meses de reclusão, mantidas as demais cominações contidas na sentença (fls. 435-443).
+Nas razões do recurso especial, aponta-se ofensa ao art. 121, § 1.º, do Código Penal, sob o argumento de que o redutor decorrente do homicídio privilegiado foi aplicado na fração mínima de 1/6 (um sexto) sem justificativa para a não incidência de patamar mais benéfico.
+O recurso especial não foi admitido pelo Tribunal de origem em razão do óbice da Súmula n. 7 desta Corte Superior (fls. 470-474). Foi interposto agravo (fls. 482-489).
+O Ministério Público Federal opinou pelo conhecimento do agravo para inadmitir ou desprover o recurso especial (fls. 518-523).
+É o relatório.
+Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos de admissibilidade, razão pela qual passo à análise do recurso especial.
+O Tribunal de origem, ao examinar a fração de redução da pena pelo reconhecimento da figura privilegiada, decidiu nos seguintes termos (fls. 442-443; sem grifos no original):
+" ..  extrai-se dos autos que a defesa do réu afirmou que a vítima havia proferido insultos verbais, destacando-se "(..)ei vagabundo, seu moleque, cadê o meu HD, se você não trouxer ele agora, você vai ver o que vai acontecer(..)". Aduziu, ainda, que o apenado se sentira humilhado ao ser chamado de "vagabundo" e "moleque" na presença de sua companheira tendo sido xingado por outros adjetivos depreciativos.
+Não obstante, creio que o valor moral invocado pelo acusado para motivar sua conduta de efetuar vários disparos de arma de fogo em desfavor da vítima ficou restrito à esfera individual, não se revestindo de grande relevância.
+O contexto probatório dos autos afirma que no dia do crime, vítima e recorrente se encontraram tendo aquela reclamado pela entrega do "HD" do seu computador que havia sido consertado pelo recorrente. O réu foi, então, à sua residência, pegou o "HD" para devolver à vítima, contudo, armou-se com um revólver para o encontro.
+Muito embora os jurados tenham concluído, nesse contexto, que o acusado agira impelido pelo privilégio previsto na lei penal, a prova dos autos evidencia que as circunstâncias do crime não autorizam a redução no grau máximo, ao contrário do que requerido pela defesa em razões recursais.
+Assim concluo sopesando os termos do diálogo entre vítima e réu, de igual modo, o fato anterior de que o recorrente ao consertar o computador da vítima, não devolvera o "HD" respectivo, motivo da pertinente reclamação feita pela vítima que, infelizmente, se transmudou para um crime.
+Dessa forma, entendo que deve ser fixada a fração de redução em seu patamar mínimo, qual seja, 1/6(um sexto).
+Considerando, então, o quantum alcançado na terceira fase da dosimetria da pena de 8(oito) anos de reclusão, aplica-se o redutor do homicídio privilegiado em sua fração mínima, 1/6(um sexto), alcançando-se a pena definitiva de 6(seis) anos e 8(oito) meses de reclusão, à míngua de circunstâncias agravantes e causas de aumento de pena."
+Como se vê, a Corte estadual, soberana quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que o motivo privilegiado que levou o Agravante a cometer o delito de homicídio não foi de relevância tal que justificasse a aplicação do respectivo redutor em patamar superior ao mínimo legal. Assim, a inversão do julgado demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7/STJ.
+Nesse sentido:
+" ..
+2. Uma vez reconhecido o privilégio pelo Conselho de Sentença, compete do Juiz Presidente do Tribunal do Júri, dentro do seu livre convencimento, aplicar fundamentadamente a redução de pena prevista no § 1º do art. 121 do Código Penal. Deve a escolha do quantum de diminuição, segundo firme entendimento do STJ, basear-se na relevância do valor moral ou social, na intensidade do domínio do acusado pela violenta emoção ou no grau da injusta provocação do ofendido.
+3. Na hipótese, o quantum da redução pelo privilégio está devidamente fundamentado em circunstâncias concretas, bem demonstradas na sentença e no acórdão impugnado, porquanto "a discussão travada entre réu e vítima, ao que se depreende dos autos, não justificava exacerbada reação, com a aplicação de ao menos três golpes de faca, não havendo qualquer informação de que o ofendido estivesse armado e causasse qualquer espécie de temor ao réu."
+4. Para rever o entendimento das instâncias ordinárias, seria necessário o revolvimento do acervo fático-probatório, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+5. Agravo regimental não provido." (AgRg no AREsp n. 1.084.313/TO, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 26/03/2019, DJe 04/04/2019.)
+" ..
+1. A escolha da fração de redução de pena deve ser aferida com base nas circunstâncias fáticas que levaram ao reconhecimento do homicídio privilegiado, especialmente "o grau emotivo do réu, além da intensidade da injusta provocação realizada pela vítima." (REsp 1475451/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/03/2017, DJe 29/03/2017)
+2. Apresentada fundamentação suficiente para a aplicação da fração de 1/6 decorrente da incidência do privilégio previsto no § 1º do art. 121 do CP, para se chegar a solução diversa da alcançada na origem seria necessário o revolvimento do acervo fático-probatório, o que é vedado pelo óbice da Súmula 7 deste Sodalício.
+ .. " (AgRg no AREsp n. 1.111.240/MT, relator Ministro JORGE MUSSI, Quinta Turma, julgado em 26/06/2018, DJe 01/08/2018.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. HOMICÍDIO PRIVILEGIADO. PLEITO PELA ELEVAÇÃO DA FRAÇÃO DO PRIVILÉGIO. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
