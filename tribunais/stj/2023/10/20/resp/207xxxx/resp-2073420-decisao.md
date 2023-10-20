@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por DINAIR PEREIRA THEISEN, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL , assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO NÃO ESPECIFICADO. MEDICAMENTOS. EXECUÇÃO PROVISÓRIA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+Em execução provisória, é descabido o arbitramento de honorários advocatícios em benefício do exeqüente, como já decidido pelo Superior Tribunal de Justiça (Recurso Especial Representativo de Controvérsia -REsp 1291736/PR).
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO" (fl. 128e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 160/164e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL INEXISTENTES.
+1. Inexistindo os pressupostos previstos no CPC, não há como acolher os embargos de declaração, já que opostos com o fim de rever a decisão. Ainda que opostos apenas com o fito de prequestionar a matéria, os embargos devem observar os limites traçados no diploma processual. 2. Segundo a tese firmada pelo Supremo Tribunal Federal no tema 339, o art. 93, IX, da Constituição da República não impõe o exame pormenorizado de cada uma das alegações. REJEITARAM OS EMBARGOS DE DECLARAÇÃO" (fl. 406e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 85, §1º, § 3º, I, § 4ºe § 6º, 292, § 2º e § 3º, do CPC/2015, sustentando que o Tribunal de origem, ao não fixar os honorários advocatícios no presente caso foi de encontro à previsão legal descrita nos dispositivos mencionados. Além do mais, o parâmetro para a fixação da verba sucumbencial deveria ser o valor da causa, "que era o valor do tratamento, exatamente o valor do pedido, que se confunde com o valor do benefício econômico obtido com a procedência da Ação" (fl. 440e).
+Acrescenta que "não há no Código de Processo Civil, qualquer instrução de que o valor da causa em Ações de Saúde, deva ser inestimável ou de alçada" (fl. 440e).
+Afirma que "não há como ser aplicado o § 8º do artigo 85 do CPC, pois o valor da causa não é baixo. Ainda, este valor da causa é exatamente o proveito econômico obtido, já que é o valor anual do tratamento, ou seja, não é inestimável, tampouco irrisório". Ainda, que "que as custas processuais, quando devidas, não são atribuídas a um valor inestimável, mas sim ao valor certo, da causa" (fl. 441/442e).
+Por fim, "pela negativa de vigência dos artigos 85, §1º,§ 3º, I, §4º, §6º, §6º-A e §8º-A e 292, §2º do CPC, pela flagrante divergência jurisprudencial apresentada, principalmente pelo Tema 1076, cumprindo-se assim, os requisitos do artigo 105, III, "a" e "c" da Constituição Federal, pede a Vossas Excelências que deem provimento ao presente Recurso Especial, para dar vigência aos artigos 85, §1º, § 3º, I, §4º, § 6º, § 6º- A e § 8º-A e 292, § 2ºdo CPC, condenando o RECORRIDO ao pagamento de honorários Advocatícios entre percentual superior a 10% até 20% sobre o valor atualizado da causa/condenação/benefício econômico, ou, considerando o valor da causa como inestimável, fixar o percentual de 20% sobre o valor o valor atualizado da causa/condenação/benefício econômico, ou seja, para a aplicação do artigo 85, § 6º-A ou § 8º-A do CPC" (fls. 463/464e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 903/908e).
+A irresignação não merece prosperar.
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 85, § 3º, I, § 4ºe § 6º, 292, § 2º e § 3º, do CPC/2015, não possui comando capaz de infirmar o fundamento do acórdão recorrido.
+O Tribunal de origem, ao decidir a controvérsia, assim entendeu, no que interessa:
+"A questão trazida ao conhecimento desta Corte de Justiça no agravo de instrumento nº 70085509354 foi a não fixação de verba honorária em favor do patrono do exequente, em execução provisória" (fl. 409e).
+Na forma da jurisprudência desta Corte, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/06/2012).
+No que se refere à impossibilidade de fixação da verba honorária em execução provisória, o Tribunal de origem decidiu com base na tese firmada por esta Corte no Tema 525. Confira-se:
+"Em execução provisória, descabe o arbitramento de honorários advocatícios em benefício do exequente.
+Posteriormente, convertendo-se a execução provisória em definitiva, após franquear ao devedor, com precedência, a possibilidade de cumprir, voluntária e tempestivamente, a condenação imposta, deverá o magistrado proceder ao arbitramento dos honorários advocatícios".
+Verifica-se, pois, que o acórdão recorrido não destoa da orientação jurisprudencial do STJ.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 522 DO CPC/1973. CUMPRIMENTO DE SENTENÇA. CONVERSÃO DA EXECUÇÃO PROVISÓRIA EM DEFINITIVA. HONORÁRIOS ADVOCATÍCIOS. ART. 475-J DO CPC/1973. MULTA. INTIMAÇÃO PRÉVIA. ADVOGADO. IMPRESCINDIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+(..)
+3. À luz das disposições do CPC/1973, convertida em definitiva a execução provisória, somente deverá o magistrado promover o arbitramento da verba honorária advocatícia após franquear ao devedor a possibilidade de cumprir voluntária e tempestivamente a condenação que lhe foi imposta e que, a partir do trânsito em julgado do título executivo judicial, se tornou definitiva.
+Precedentes.
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 551.613/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 3/8/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXECUÇÃO PROVISÓRIA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ENTENDIMENTO DO STJ FIRMADO EM RECURSO ESPECIAL REPETITIVO. APLICAÇÃO A TODOS OS FEITOS.
+1. "Em execução provisória, descabe o arbitramento de honorários advocatícios em benefício do exequente" (REsp 1.291.736/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/11/2013, DJe de 19/12/2013).
+2. O entendimento definido por esta Corte, no julgamento dos recursos especiais, tem aplicação imediata a todos os feitos sobre o tema. Nesse sentido, precedente da Primeira Seção do STJ: REsp 1.604.515/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ acórdão Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 09/08/2017, DJe de 02/02/2018.
+3. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.481.210/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe de 21/5/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+I.
+EMENTA
