@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELÍSIO DE ALMEIDA QUINTINO e ROSANA FERNANDES DE ALMEIDA QUINTINO (ELÍSIO e outra) contra decisão monocrática de minha relatoria, a seguir ementada (e-STJ, fls. 100/103):
+PROCESSUAL CIVIL. RECLAMAÇÃO. ATO RECLAMADO PROVENIENTE DE JUIZADO ESPECIAL. RESOLUÇÃO STJ Nº 3/2016. INCOMPETÊNCIA DESTA CORTE SUPERIOR. PEDIDO DE INSTAURAÇÃO DE CONFLITO DE COMPETÊNCIA ENTRE TRIBUNAL DE JUSTIÇA E TURMA RECURSAL DO MESMO ESTADO. INCABÍVEL. PRECEDENTES DO STJ E DO STF. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO. DETERMINAÇÃO DE REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM.
+Nas razões do presente inconformismo, ELÍSIO e outra sustentam, em síntese, (1) erro material quanto a indicação da parte reclamante; e (2) necessidade de esclarecimento quanto ao pedido descumprimento da decisão do STJ ou, alternativamente, quanto ao pedido de reconhecimento de conflito de competência (e-STJ, fls. 228/229).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+A irresignação merece parcial acolhimento.
+(1) Do erro material.
+Conforme se depreende da decisão embargada, a parte reclamante foi nomeada equivocadamente como DUGIBA LATICÍNIOS LTDA. (DUGIBA).
+Sendo assim, acolho os embargos de declaração, quanto ao ponto, a fim de corrigir o erro material da decisão, substituindo o nome da parte erroneamente indicado - DUGIBA - para os nomes corretos dos reclamantes: ELÍSIO DE ALMEIDA QUINTINO e ROSANA FERNANDES DE ALMEIDA QUINTINO (ELISIO e outra).
+De outra parte, reconheço, de ofício, o erro material na indicação da autoridade reclamada, substituindo a que foi indicada por equívoco - 2ª Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio de Janeiro -, para a correta qual seja: 3ª Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio de Janeiro, de onde emanou a decisão impugnada, conforme se depreende a e-STJ, fl. 54.
+(2) Da alegada necessidade de esclarecimento do julgado
+No mais, ELÍSIO e outra aduziram que a decisão comportaria esclarecimento quanto ao (i) alegado descumprimento da decisão do STJ e (ii) necessidade de apreciação do pedido alternativo de reconhecimento do conflito de competência.
+Sem razão.
+Conforme assentado na decisão embargada, a competência para o processamento e apreciação de reclamação contra ato proveniente de Turma Recursal de Juizado Especial pertence aos respectivos Tribunais de Justiça, nos termos da Resolução STJ/GP nº 3, de 7/4/2016 e em observância aos precedentes lá indicados.
+Como o ato impugnado emanou da 3ª Turma Recursal do Juizado Especial (e-STJ, fl. 54), o STJ não possui competência para a análise desta reclamação que deve ser apreciada pela Corte estadual.
+Por outro lado, o fato de o Tribunal carioca ter prolatado decisão declinando de sua competência deveria ter sido objeto de interposição recursal própria.
+Ademais, ficou consignado na decisão embargada que não ocorre conflito de competência entre Tribunais de Justiça e Turmas Recursais do mesmo estado, à luz da jurisprudência desta Corte Superior.
+Veja-se (e-STJ, fls. 102/103):
+Convém anotar também que, conforme entendimento da Segunda Seção desta Corte Superior, inexiste conflito de competência entre Tribunal de Justiça e Turma Recursal do mesmo estado. A próposito, confira-se:AGRAVO INTERNO. RECLAMAÇÃO. NECESSIDADE DE EXAURIMENTO DE INSTÂNCIA. CONFLITO DE COMPETÊNCIA ENTRE TRIBUNAL DE JUSTIÇA E TURMA RECURSAL DO MESMO ESTADO. INEXISTÊNCIA.1. Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a Reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, bem como para assegurar a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, conforme disposto nos artigos 105, "f", da Constituição Federal, e 988 do Código de Processo Civil de 2015, quando exauridas as instâncias ordinárias, sendo, pois, instrumento processual de caráter específico e de aplicação restrita.2. A jurisprudência do STJ, com apoio no entendimento do Supremo Tribunal Federal, não admite a existência de conflito de competência entre Tribunal de Justiça e Turma Recursal do mesmo Estado (Pleno, RE 590.409/RJ, Rel. Ministro Ricardo Lewandowski, unânime, DJe de 29.10.2009).3. Agravo interno a que se nega provimento.(AgInt na Rcl n. 34.197/SC, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 22/8/2018, DJe de 29/8/2018 - sem destaque no original)
+Repita-se, a presente reclamação foi ajuizada contra decisão da Turma Recursal, a impedir o conhecimento por esta Corte, que não detém competência para tanto, nos termos já expostos. Por outro lado, a decisão proveniente do TJ/RJ, que declinou da competência, remetendo os autos para a Turma Recursal (e-STJ, fls. 448/53), poderia ter sido objeto de impugnação recursal própria.
+Nada mais claro, portanto.
+Desse modo, quanto aos pontos onde se apontou necessidade de esclarecimento - (i) alegado descumprimento da decisão do STJ e (ii) necessidade de apreciação do pedido alternativo de reconhecimento do conflito de competência - , a pretensão dos embargantes apresenta nítido caráter infringente, visando o rejulgamento do pedido, o que desborda do cabimento dos aclaratórios, nos termos do art. 1.022 do CPC.
+Nessas condições, ACOLHO em parte os embargos de declaração, sem efeitos infringentes, apenas para corrigir o erro material, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. ERRO MATERIAL VERIFICADO. PRETENSÃO DE REJULGAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, APENAS PARA SANAR O ERRO MATERIAL, SEM EFEITOS MODIFICATIVOS.
