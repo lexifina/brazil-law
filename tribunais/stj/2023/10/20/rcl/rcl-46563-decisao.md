@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de reclamação ajuizada por MARCOS GARDEL OLIVEIRA DOS SANTOS contra ato praticado pelo JUIZ DE DIREITO DA 9A VARA CRIMINAL DE RECIFE - PE, nos autos do processo nº 0000392-48.2022.8.17.4001, objetivando a preservação da decisão proferida por esta Corte de Justiça nos autos HC nº 858043/PE.
+Alega, em síntese, que, "o juízo após ser intimado da liminar concedida ao ora reclamante se pronunciou "Por fim, ressalto mais uma vez, que o sentenciado não se encontra preso, ficando este Juízo impossibilitado de compatibilizar a sua prisão com o regime semiaberto.", ignorando a ordem Liminar do Superior Tribunal de Justiça." e que "Em função de estar na iminência de voltar ao cárcere ,é impetrado o presente remédio constitucional, visando liminarmente aguardar o julgamento em liberdade e, bem como ao final a confirmação da medida liminar, restabelecendo ao Reclamante o direito conferido pela decisão do HC nº 858043/PE.". Pugna, liminarmente, que seja suspendida a decisão do juízo de primeiro grau, restabelecendo a liberdade do reclamante e ao final, que seja julgada procedente a reclamação (fls. 03/08).
+É o relatório. Decido.
+Nos termos dos artigos 105, I, f, da Constituição Federal e 988 do CPC, a Reclamação tem como finalidade preservar a competência do Superior Tribunal de Justiça ou garantir a autoridade de suas decisões, sempre que haja indevida usurpação, por parte de outros órgãos, de sua competência constitucional.
+No caso, pretende o Reclamante a preservação da decisão proferida por esta Corte de Justiça, nos autos do HC nº 858043/PE, que concedeu "a liminar para que a prisão preventiva do paciente seja compatibilizada com o regime semiaberto até o julgamento do mérito deste habeas corpus, salvo se por outro motivo estiver preso".
+Contudo, verifico, no ato apontado como reclamado, que o JUIZ DE DIREITO DA 9A VARA CRIMINAL DE RECIFE - PE afirmou que "o sentenciado não se encontra preso, ficando este Juízo impossibilitado de compatibilizar a sua prisão com o regime semiaberto" (fl. 14).
+Assim, não há qualquer decisão judicial ou qualquer ato judicial que tenha inobservado a ordem deferida no citado writ, tendo em vista a total impossibilidade de cumprimento ante a ausência de prisão do reclamante.
+Inclusive, na presente reclamação, é requerido o restabelecimento da liberdade do reclamante, o que sequer foi deferido no HC nº 858043/PE.
+Ante o exposto, julgo improcedente a reclamação.
+Publique-se. Intime-se.
+EMENTA
+RECLAMAÇÃO. INEXISTÊNCIA DE DECISÃO OU ATO JUDICIAL CONTRÁRIO À DECISÃO PROFER IDA POR ESTA CORTE. RECLAMAÇÃO JULGADA IMPROCEDENTE.
