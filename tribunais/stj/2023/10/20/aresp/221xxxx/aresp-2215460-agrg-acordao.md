@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA AMPARADA EM DUPLO FUNDAMENTO PARA NEGATIVA DE ÚNICO PEDIDO. AGRAVO REGIMENTAL QUE NÃO IMPUGNA UM DESSES FUNDAMENTOS AUTÔNOMOS. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL - CPC. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A peça de agravo regimental que não impugna fundamento autônomo e capaz de manter a decisão agravada não merece conhecimento, ante a inobservância ao disposto no art. 1.021, § 1º, do CPC.
+1.1. Consoante constou na decisão agravada e não impugnado no agravo regimental, ainda que fosse reconhecida a ilegalidade das provas obtidas pelo ingresso dos policiais na residência, não há de se falar em absolvição do agravante, porquanto foram localizados entorpecentes em sua posse anteriormente à busca e apreensão domiciliar, situação suficiente para manter a condenação no mínimo legal, como já decidido desde a sentença.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Atilla Gabriel Garcia Rodrigues (fls. 463/473) em face da decisão de fls. 436/452, de minha lavra, que conheceu do seu agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do Superior Tribunal de Justiça - STJ, negar-lhe provimento.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/06 (tráfico privilegiado), à pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e 166 dias-multa. Ainda, a reprimenda corporal foi substituída por duas penas restritivas de direitos (fl. 295).
+Recurso de apelação interposto pela defesa foi desprovido.
+Em sede de recurso especial (fls. 371/389), a defesa apontou violação ao art. 157, caput, do Código de Processo Penal - CPP diante da ilegalidade da busca e apreensão efetuada pelos policiais no domicílio do ora agravante sem prévia autorização judicial. Asseverou que não havia justa causa para o ingresso dos agentes na sua residência, eis que o fato de ser detido em via pública portando drogas não é determinante para justificar a ação policial.
+Sustentou, ainda, que o suposto fornecimento voluntário do seu endereço aos policiais é fruto de violência policial e que não restou comprovado nos autos a autorização do morador para a entrada dos agentes no seu domicílio.
+Pugnou, dessarte, pelo provimento da pretensão recursal para que seja reconhecida a ilegalidade da busca e apreensão domiciliar, a fim de que sejam desentranhadas todas as provas obtidas no ato e, por consequência, o agravante seja absolvido da imputação.
+Contrarrazões do Ministério Público do Distrito Federal e Territórios - MPDFT (fls. 395/397).
+O recurso especial foi inadmitido no Tribunal de Justiça do Distrito Federal e dos Territórios - TJDFT em razão do óbice da Súmula n. 7 do STJ (fls. 401/402).
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 407/414).
+Contraminuta do MPDFT (fl. 418).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pela manutenção da decisão agravada (fl. 434).
+Ato contínuo, sobreveio a decisão ora agravada que, em síntese, não identificou nulidade por violação de domicílio, bem como rechaçou a absolvição do agravante, porquanto entorpecentes também foram encontrados antes da busca domiciliar (fls. 436/452).
+No presente agravo regimental (fls. 463/473), a agravante impugna a aplicação da Súmula n. 568 do STJ à espécie, ao argumento de que não há entendimento dominante acerca da temática.
+No mais, reiterou as teses aventadas no recurso especial, no sentido de que não havia justa causa para o ingresso dos policiais na sua residência, eis que o fato de ser detido em via pública portando drogas não é determinante para justificar a ação policial. Aduziu, ainda, que o suposto fornecimento voluntário do seu endereço aos policiais é fruto de violência policial e que não restou comprovado nos autos a autorização do morador para a entrada dos agentes no seu domicílio.
+Requereu, assim, a reconsideração da decisão agravada ou, subsidiariamente, o provimento do agravo regimental, a fim de que o recurso especial seja provido.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA AMPARADA EM DUPLO FUNDAMENTO PARA NEGATIVA DE ÚNICO PEDIDO. AGRAVO REGIMENTAL QUE NÃO IMPUGNA UM DESSES FUNDAMENTOS AUTÔNOMOS. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL - CPC. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A peça de agravo regimental que não impugna fundamento autônomo e capaz de manter a decisão agravada não merece conhecimento, ante a inobservância ao disposto no art. 1.021, § 1º, do CPC.
+1.1. Consoante constou na decisão agravada e não impugnado no agravo regimental, ainda que fosse reconhecida a ilegalidade das provas obtidas pelo ingresso dos policiais na residência, não há de se falar em absolvição do agravante, porquanto foram localizados entorpecentes em sua posse anteriormente à busca e apreensão domiciliar, situação suficiente para manter a condenação no mínimo legal, como já decidido desde a sentença.
+2. Agravo regimental não conhecido.
+VOTO
+Na hipótese, o presente agravo regimental não deve ser conhecido, uma vez que fundamento autônomo contido na decisão agravada não foi impugnado, em inobservância ao art. 1.021, § 1º, do CPC, qual seja, "ainda que fosse reconhecida a ilegalidade das provas obtidas pelo ingresso dos policiais na residência, não há de se falar em absolvição do agravante, porquanto foram localizados entorpecentes em sua posse anteriormente à busca e apreensão domiciliar, situação suficiente para manter a condenação no mínimo legal, como já decidido desde a sentença" (fl. 452).
+No mesmo sentido, precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS AUTÔNOMOS DA DECISÃO MONOCRÁTICA DO RELATOR. APLICAÇÃO DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021).
+2. A eficácia meramente preclusiva da omissão em sede de agravo regimental, dirigido a capítulo autônomo e/ou independente da decisão monocrática, não desonera o recorrente de atacar tantos quantos forem os motivos sobre os quais se ergue o capítulo recorrido, sob pena de não conhecimento. Precedentes.
+3. A decisão agravada é constituída de capítulos autônomos, consistentes na inviabilidade de exame de norma constitucional na via do apelo especial e na deficiência de fundamentação do recurso, ante a ausência de indicação de ofensa a dispositivo de lei federal.
+4. O agravo regimental, todavia, nada diz a propósito dos impedimentos supracitados, pois se limita a alegar, genericamente, "grande confusão na decisão dispensada" (e-STJ fl. 551), sem explicar a necessidade de afastamento dos óbices processuais que impediram o conhecimento do recurso.
+5. Essa omissão desconsidera o ônus de combater a totalidade dos fundamentos sobrepostos pela decisão monocrática em relação aos capítulos decisórios e atrai a incidência da Súmula 182/STJ.
+6. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.218.818/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 30/5/2023, DJe de 2/6/2023).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada.
+2. "Não merece ser conhecido o agravo regimental que deixa de infirmar todos os fundamentos utilizados na decisão agravada" (AgRg no AREsp 471.237/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+3. Na hipótese, a decisão agravada não conheceu do habeas corpus, considerando a gravidade concreta do delito, isto porque os recorrentes foram surpreendidos na posse de grande quantidade de entorpecentes - 45,7 kg de maconha - a ser transportada entre Estados, a insuficiência das medidas cautelares, indiferença das condições pessoais favoráveis e desproporcionalidade de futura pena incerta. Todavia, no presente agravo regimental, o agravante não impugnou tais fundamentos, o que faz incidir a Súmula 182 do STJ.
+4. Agravo regimental não conhecido.
+(AgRg no RHC n. 172.418/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe de 22/12/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar causa específica de não provimento do recurso especial - notadamente a impossibilidade de o STJ apreciar matéria constitucional e a ausência de cotejo analítico -, motivo pelo qual este agravo regimental não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ.
+2. Quanto ao pleito de reconhecimento da prescrição da pretensão punitiva ex officio, não há como acolhê-lo, porquanto não verificado o lapso de 20 anos (art. 109, I, do CP) entre os marcos interruptivos: 25/3/2001 (data do crime), 2/3/2007 (recebimento da denúncia), 27/4/2012 (pronúncia), 22/8/2018 (publicação da sentença) e 14/10/2019 (acórdão confirmatório da condenação).
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.728.608/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Registre-se que a não impugnação específica e pormenorizada dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, por violação ao princípio da dialeticidade. Portanto, não é suficiente para a cognição do agravo regimental assertivas de que todos os requisitos foram preenchidos ou reiteração do mérito da controvérsia.
+II - In casu, o presente inconformismo limitou-se a afirmar que a quantidade de droga não é pode modular o grau de diminuição do tráfico privilegiado, bem como que ações em andamento não podem afastar a diminuição no grau máximo.
+III - Com efeito, caberia à parte insurgente contestar a conclusão contida na deliberação unipessoal, impugnando especificamente o fundamento lançado no decisum agravado, qual seja: "O delito em questão - tráfico ilícito de entorpecentes - foi cometido quando o paciente fruía de liberdade provisória. Assim, tal circunstância demonstra o desapreço do acusado pela ordem jurídica, a revelar comportamento arredio à organização social e à autoridade do Poder Judiciário. Desse modo, verifica-se que há fundamento idôneo, por si só, a amparar a modulação realizada pelas instâncias ordinárias".
+Nessa senda, as razões expendidas no bojo do presente contrariam o comando do art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Agravo regimental não conhecido.
+(AgRg no HC n. 721.664/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/4/2022, DJe de 12/4/2022).
+Diante do exposto, voto pelo não conhecimento do agravo regimental.
