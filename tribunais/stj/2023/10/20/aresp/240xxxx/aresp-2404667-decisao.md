@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por NORBERTO TIRELLI, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"MANDADO DE SEGURANÇA - ICMS - PRETENSÃO AO PARCELAMENTO APENAS DE PARTE DO DÉBITO CONSTANTE DE ÚNICOS AUTO DE INFRAÇÃO E CDA - IMPOSSIBILIDADE - VEDAÇÃO EXPRESSA PELO ART. 4º, § 5º, DO DECRETO 59.254/13 - ORDEM DENEGADA - SENTENÇA CONFIRMADA" (fl. 1.147e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados (fls. 1.166/1.167e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 106 e 112 do CTN, sustentando, essencialmente, que (a) "cabe ao Julgador a aplicação da Lei menos gravosa e onerosa, interpretada de maneira a impedir a punição indevida (..), ao constranger terceiro que não participou da circunstância material do fato, mas, está sendo punido por extensões dos efeitos" (fl. 1.176e); (b) "o Recorrente está sofrendo investigação Inquérito Policial nº 1500538-32.2020.8.26.0348, para apuração de eventual prática de crime contra a ordem tributária, previsto no artigo 1º, caput, da Lei Federal 8.137, de dezembro de 1990, referente o não recolhimento de ICMS, no valor de R$ 26.590,71 no período de janeiro, fevereiro, junho, agosto, outubro, novembro e dezembro de 2012" (fl. 1.176e); (c) "a intenção do legislador, veio a promulgação da Constituição Federal que reiterou expressamente a filosofia legislativa de respeitar a forma menos gravosa a cada contribuinte em específico" (fl. 1.179e).
+Contrarrazões às fls. 1.186/1.190e.
+Inadmitido o Recurso Especial (fls. 1.192/1.193e), foi interposto o presente Agravo (fls. 1.196/1.205e).
+A irresignação não merece prosperar .
+Quanto à alegada ofensa aos dispositivos apontados, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao(s) dispositivo(s) tido(s) como violado(s) não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ademais, observa-se que a questão foi decidida pela Corte de origem mediante análise de legislação local, qual seja, o Decreto Estadual 58.811/2012. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL N. 4.994/95. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no AREsp 1.170.491/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
+EMENTA
