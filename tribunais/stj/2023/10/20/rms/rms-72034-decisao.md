@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Eruleide da Conceição Silva contra o acórdão de fls. 192/199, proferido à unanimidade pela Seção Cível de Direito Público do Tribunal de Justiça do Estado da Bahia, resumido na seguinte ementa:
+MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA. REJEITADA. SERVIDORA ESTADUAL. REAJUSTE DAS HORAS EXTRAS INCORPORADAS AO VENCIMENTO. NATUREZA DE VANTAGEM PESSOAL. MAJORAÇÃO APENAS QUANDO DAS REVISÕES GERAIS DE REMUNERAÇÃO DO FUNCIONALISMO (REAJUSTE LINEAR). AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+A preambular de inadequação da via eleita não merece acolhimento, vez que, no caso dos autos, a pretensão deduzida pela impetrante é juridicamente possível, inexistindo impedimento à instauração da relação processual, visando à análise e decisão sobre seu conteúdo.
+No caso, o cerne do presente Writ cinge-se em aferir se o reajuste das horas extras incorporadas deve sofrer os mesmos reajustes do vencimento da impetrante, servidora pública estadual.
+Colhe-se dos autos que as horas extras incorporadas passaram a integrar os proventos da impetrante como vantagem pessoal, estando assim sujeita apenas ao reajuste linear, e não, com base na majoração/reajuste do vencimento, como pretende a requerente, de modo que não restou demonstrada nos autos a violação de seu direito pessoal. (fl. 192).
+Nas razões recursais, fls. 213/220, a recorrente argumenta que "a não atualização da gratificação de prestação de serviço também tem o condão de violar o princípio da irredutibilidade dos vencimentos, uma vez que conforme art. 40, § 17, da CF/88, todos os valores de remuneração considerados para o cálculo do benefício previdenciário devem ser devidamente atualizados" (fl. 218) e que "se a gratificação de Hora Extra Incorporada somente será reajustada quando do reajuste linear (para toda carreira), por óbvio que merece guarida o pleito autoral de que a vantagem também sofra o reajuste do período que é de 26,31% " (fl. 219).
+O Estado da Bahia, consoante certidão de fls. 226/227, não apresentou contrarrazões ao recurso.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Humberto Jacques de Medeiros, manifestou-se pelo não provimento do apelo, consoante o parecer de fls. 235/239, que se apresenta guarnecido da seguinte ementa:
+Direito Administrativo. Recurso ordinário em mandado de segurança. Servidora pública aposentada pelo Estado da Bahia. Reajuste de horas extras incorporadas ao vencimento. Direito líquido e certo. Ausência.
+1. A recorrente não inseriu aos autos a legislação que trata do reajuste das horas extras incorporadas ao seu vencimento. Não há sequer a legislação que disciplina o seu plano de carreira.
+2. O exercício do controle de legalidade - dos atos da Administração Pública pelo Poder Judiciário - exige a demonstração jurídica de que a norma que trata do reajuste de horas extras incorporadas ao vencimento da recorrente teria sido violada, não bastando a afirmação de que possui direito líquido e certo ao referido reajuste sem encartar aos autos o arcabouço jurídico apto a ampará-lo. Parecer pelo não provimento do recurso ordinário em mandado de segurança. (fl. 235).
+Recurso tempestivo, bem como regular representação (fl. 12).
+Gratuidade de justiça deferida pela Corte Estadual (fl. 97).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Na hipótese que ora se descortina ao exame desta Corte, observa-se que a petição exordial, fls. 2/9, funda a pretensão autoral exclusivamente no argumento de que o vencimento da Impetrante teria sido reajustado em 26,31% desde 2017, mas a gratificação incorporada permaneceu inalterada (fl. 5), o que violaria suposto direito adquirido da Autora.
+A tese que agora é apresentada ao Superior Tribunal de Justiça - violação do princípio constitucional da irredutibilidade, fl. 218 - não foi apresentada ao Tribunal de origem, nem mesmo mediante manejo oportuno do recurso integrativo.
+Assim, o principal argumento veiculado pela petição do recurso ordinário, não foi submetido ao exame do Tribunal Estadual em tempo próprio e, por isso, não pode ser agora examinado, em razão da vedação à inovação recursal.
+Nesse sentido, ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS. CARGO NÃO TÉCNICO E PROFESSOR. VEDAÇÃO. DECADÊNCIA DO DIREITO À REVISÃO. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+ ..
+3. Teses e argumentos não apresentados na petição inicial do mandado de segurança e articulados apenas nas razões do recurso ordinário ou do agravo interno não podem ser conhecidos, em virtude da vedação à inovação recursal. Precedentes.
+4. Agravo interno não provido.
+(AgInt no RMS n. 69.903/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/3/2023.)
+Quanto ao argumento remanescente, a singela alegação de que "se a gratificação de Hora Extra Incorporada somente será reajustada quando do reajuste linear (para toda carreira), por óbvio que merece guarida o pleito autoral de que a vantagem também sofra o reajuste do período que é de 26,31%" (fl. 219), enquanto mera reiteração do pedido formulado na petição vestibular (fl. 8) e não oferece combate específico e integral ao fundamento do acórdão que a recorrente intenta reformar. Assim, outra vez incide sob a espécie o óbice ao conhecimento do apelo, conforme disposto no art. 932, II, do CPC.
+Assim, por não superar o juízo de admissibilidade, em razão da apontada inovação recursal e da falta de combate específico ao fundamento do acórdão recorrido, o apelo não merece conhecimento.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
