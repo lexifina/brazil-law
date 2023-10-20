@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCOS KELLER, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC nº 2028567-07.2023.8.26.0000).
+Consta dos autos que o paciente é investigado pela suposta prática dos crimes de lavagem de dinheiro e organização criminosa.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte local, que denegou a ordem nos termos do julgado assim ementado (fl. 32):
+HABEAS CORPUS - LAVAGEM DE DINHEIRO E ORGANIZAÇÃO CRIMINOSA - Trancamento do inquérito policial. Excesso de prazo para conclusão das investigações. Não acolhimento. Tramitação regular do feito. Não comprovação de desídia ou inércia do Poder Judiciário. Complexidade da causa. Documentos juntados não comprovam inequívoca ilegalidade ou ausência de justa causa, mormente quando está comprovada a materialidade e há indícios de autoria. Impossibilidade de impedimento do prosseguimento das diligências necessárias para a elucidação dos fatos - ORDEM DENEGADA.
+No presente writ, o impetrante alega, em síntese, o excesso de prazo na conclusão do inquérito policial, instaurado em 31/05/2021.
+Argumenta que a alegada complexidade do feito não pode justificar o andamento de procedimento administrativo inquisitivo perpetuamente.
+Requer, liminarmente e no mérito, o trancamento do inquérito policial ou a determinação de que seja co ncluído no prazo de 30 dias.
+A liminar foi indeferida às fls. 50-51.
+Informações prestadas às fls. 57-67.
+Pedido de preferência às fls. 71-72.
+O Ministério Público Federal, às fls. 73-78, manifestou-se pela denegação da ordem. Confira-se a ementa do parecer:
+HABEAS CORPUS SUBSTITUTIVO. INTEGRAR ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE CAPITAIS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE JUSTA CAUSA PARA A AÇÃO PENAL. EXISTÊNCIA DE LASTRO PROBATÓRIO MÍNIMO. LAVAGEM DE CAPITAIS. CRIME ANTECEDENTE. AUTONOMIA. EXCESSO DE PRAZO. INOCORRÊNCIA. RÉU SOLTO. PARECER PELO NÃO CONHECIMENTO OU, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório. DECIDO.
+Inicialmente, deve-se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, não verifico flagrante ilegalidade a ser sanada relativamente ao aventado excesso de prazo, consoante fundamentação empreendida pelo Tribunal de origem no julgamento do prévio habeas corpus, verbis (fls. 33-34):
+O prazo para formação da culpa não é absoluto, devendo ser analisado conforme o caso concreto, segundo um critério de razoabilidade e em conformidade com as peculiaridades e complexidades do processo. Nesse sentido, observo que não há comprovação nos autos de qualquer fato ou causa caracterizadores de desídia ou inércia do Poder Judiciário, do i. representante do Parquet ou da autoridade policial que possam configurar excesso de prazo na formação da culpa do paciente.
+Pelo contrário, verifica-se que o processo tem curso regular, não se verificando nenhum excesso de prazo nas diligências investigatórias a respeito de fatos que, ao que parece, são vastos e possuem complexidade considerando principalmente o número de pessoas e bens possivelmente envolvidos e a natureza das infrações (organização criminosa e lavagem de dinheiro), que exigem, por vezes, técnicas especiais direcionadas à coleta de elementos informativos.
+Assim, tendo em vista que a conduta supostamente praticada pelo investigado é, em tese, típica e ilícita, bem como que há indícios de autoria, entendo haver justa causa para a continuidade das investigações, sendo, inviável, pois, o trancamento, só admitido quando há manifesta atipicidade, que não se verifica no caso.
+Transcrevo, por oportuno, trecho das informações prestadas pelo Juízo de primeiro grau (fls. 57-60):
+Consta dos autos que os investigados estariam organizados em estrutura hierarquizada, ligados a facção criminosa denominada "PCC", e possuem o mesmo propósito de branquear valores obtidos com o tráfico de entorpecentes, entre outros delitos, fazendo uso de pessoas interpostas e pessoas jurídicas.
+O paciente foi ouvido na delegacia em 19 de janeiro de 2022 (fls. 164).
+Houve, por este Juízo, indeferimento de pedido da Defesa do paciente de trancamento do inquérito policial por excesso de prazo, cujos fundamentos foram reiterados nesta data para indeferir novo pedido formulado (fls. 432/433).
+Os autos encontram-se, atualmente, no Distrito Policial para conclusão das investigações, tendo este Juízo, nesta data, determinado a notificação da Autoridade Policial para esclarecimento das diligências faltantes para a conclusão do caderno administrativo.
+No caso concreto, o inquérito policial foi instaurado em 31/05/2021 e o paciente está em liberdade. O andamento juntado pela defesa às fls. 35-46 dá conta da existência de intensa movimentação do procedimento , razão pela qual não se verifica indevida desídia na condução do apuratório e nem a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado. Ademais, sobressai dos autos que há complexidade na investigação, destinada à elucidação de supostos crimes de lavagem de dinheiro da organização criminosa conhecida como "PCC", não se evidenciando a existência de morosidade indevida.
+Nesse sentido: AgRg no AREsp n. 2.027.487/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 5/5/2023; AgRg no RHC n. 170.531/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/3/2023; AgRg no RHC n. 150.618/PE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 2/12/2022 e AgRg no RHC n. 155.947/DF, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 15/8/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
