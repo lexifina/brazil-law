@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado entre o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE JARAGUÁ DO SUL (SC) e o JUÍZO FEDERAL DA 5ª VARA DE BLUMENAU - SJ/SC, nos autos do cumprimento de sentença movido por HASSE ADVOCACIA E CONSULTORIA contra WILSON SCHWARTZ, CLARICE APARECIDA SCHAEDLER e CLARICE APARECIDA SCHAEDLER - ME.
+A demanda foi ajuizada originariamente na Justiça Federal (Processo n. 5002819-03.2016.4.04.7213) tendo o Juízo federal declinado da competência nos seguintes termos (fls. 269-271):
+"(..)
+Trata-se de pedido de cumprimento de sentença proferida na Justiça Federal.
+Do cumprimento de sentença, todavia, não participa pessoa arrolada no art. 109 da CF, de sorte a ficar constitucionalmente afastada a competência da Justiça Federal para processamento do pedido.
+Conforme jurisprudência formada notadamente no STJ, as regras legais sobre competência funcional para o cumprimento de sentença cedem diante da norma constitucional que restringe as demandas processáveis na Justiça Federal àquelas previstas no art. 109 da CF."
+O Juízo estadual, por sua vez, nos autos do Processo n. 5008908-04.2023.8.24.0036, suscitou o presente conflito por entender que o cumprimento de sentença deve ser processado e julgado pelo Juízo que proferiu a sentença originariamente (art. 516, II, do CPC). In verbis:
+"(..)
+Revendo as razões do Juízo declinante, com a devida vênia, impende discordar dessa conclusão.
+Em análise aos julgados encartados pelo Juízo declinante, verifica-se que aqueles autos versavam sobre liquidação de sentença proferida em ação civil pública ajuizada perante a Justiça Federal, cuja situação, contudo, não é a mesma do caso ora posto sob análise.
+Neste ponto, importante observar que o processo originário em trâmite perante a Justiça Federal consistia em embargos à execução nos quais foram fixados honorários sucumbenciais (evento17, SENT1) e, posteriormente, foi determinada a reautuação do feito para cumprimento de sentença ea alteração do cadastro das partes (evento 73, DESPADEC1).
+Logo, em que pese não figurar mais nenhuma das pessoas arroladas no art. 109 da Constituição Federal, a lide versa unicamente sobre o cumprimento de decisão judicial proferida pelo próprio juízo federal, cuja competência decorre do art. 516, II, do Código de Processo Civil."
+O Ministério Público Federal opinou pela declaração da competência do Juízo suscitante (fls. 285-289).
+É, no essencial, o relatório.
+Com fundamento na orientação contida na Súmula n. 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedente acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastante numerosas da Segunda Seção.
+Conforme se depreende dos autos, o cumprimento provisório de sentença tramita somente contra pessoas físicas e pessoa jurídica de direito privado (fl. 114), não figurando como réu nenhum dos entes elencados no art. 109, I, da Constituição Federal, circunstância que afasta a competência da Justiça Federal para processar e julgar a demanda. Nesse sentido, cito:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.309.643/RS, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe de 2/5/2019.)
+No mesmo sentido, confiram-se, ainda, as seguintes decisões: CC 199.897/RS (relatora Min. Maria Isabel Gallotti, DJe de 11/10/2023), CC 199.049/MS (relator Ministro Benedito Gonçalves, DJe de 5/9/2023) e CC 106.793/MG (relator Ministro Marco Buzzi, DJe de 6/2/2012).
+Ainda, conforme o entendimento desta corte superior, "no confronto entre a competência do juiz que julgou a causa em primeiro grau, para a execução dos julgados que proferiu, e a competência ratione personae da Justiça Federal, fixada na Constituição, deve prevalecer esta última. A competência da Justiça Federal é definida em sede constitucional em razão das pessoas que figuram na relação processual como autora, ré, assistente ou oponente, não logrando ser ampliada por qualquer razão" (CC 33.111/RJ, relator Min. Sálvio de Figueiredo Teixeira, Segunda Seção, julgado em 14/5/2003, DJ de 23/6/2003, p. 233.).
+Na mesma linha, o CC 157.891/MS (relator Ministro Luis Felipe Salomão, DJe de 2/8/2018), citando, dentre outros, o CC 129.766/SP (relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 11/6/2014, DJe de 20/ 6/2014.) reforça o entendimento desta corte superior no sentido da prevalência da competência estabelecida constitucionalmente (art. 109, I, da CF) sobre a competência estabelecida em lei processual infraconstitucional (art. 516, II, do CPC).
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE JARAGUÁ DO SUL (SC), o suscitante.
+Comuniquem-se as autoridades judiciárias envolvidas acerca da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
