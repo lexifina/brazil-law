@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARIA GIOVANNA CACERES PEREIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HABEAS CORPUS n. 2098455-63.2023.8.26.0000).
+Depreende-se dos autos que a ora Paciente teve a prisão preventiva decretada pela suposta prática do delito de tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local que manteve a prisão cautelar:
+"Ademais, é imperioso destacar, como feito pelo juízo de origem, que por mais que os pacientes sejam primários (fls. 90/93), a gravidade concreta da infração demonstra o perigo gerado por suas liberdades. Afinal, o laudo pericial de fls. 48/53 indica que foram apreendidas grande quantidade e variedade de drogas (568,02g de maconha, 3,76g de cocaína, 47,66 de MDMA), sem contar ainda que houve apreensão de uma arma de fogo, um facão, uma faca, três balanças de precisão, e diversas embalagens comumente utilizadas no tráfico de drogas (ver auto de exibição de fls. 28/29)" (fl. 27).
+Neste writ, alega a Defesa a ocorrência de constrangimento ilegal consubstanciado na ausência de fundamentação concreta para a segregação cautelar da Paciente.
+Aponta que:
+"a Paciente é Primária, menor de 21 anos, e portadora de Bons Antecedentes" (fl. 11).
+Requer a revogação da prisão cautelar e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 68-70.
+Informações prestadas, às fls. 83-110.
+O Ministério Público Federal, às fls. 75-80, opinou pelo não conhecimento do writ, em parecer ementado:
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INVIABILIDADE. TRÁFICO DE DROGAS E PORTE DE ARMA DE FOGO DE USO RESTRITO. PREVENTIVA LASTREADA NA ELEVADA QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS, BEM COMO A CAPTURA DE UMA ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA, DUAS ARMAS BRANCAS E DIVERSOS PETRECHOS, TUDO AEVIDENCIAR UM MODUS OPERANDI ESTRUTURADO, REVELADOR DA PERICULOSIDADE DA RÉ. PARECER PELO NÃO CONHECIMENTO DO WRIT" (fl. 75).
+É o relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade e variedade das drogas apreendidas no contexto da traficância, (568,02 gramas de maconha, 3,76 gramas de cocaína, 47,66 de MDMA ), além de arma de fogo e 3 balanças de precisão, circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade da Paciente, justificando a segregação cautelar imposta.
+Nesse sentido:
+"Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do Agravante acarretaria risco à ordem pública, pela gravidade concreta da conduta consistente no envolvimento com tráfico de drogas, tendo em vista a "quantidade e a variedade dos entorpecentes apreendidos (117,19g de cocaína, 139,29g de maconha, e 1,08g de MDA", circunstâncias que indicam a probabilidade de repetição de condutas tidas por delituosas e revela a indispensabilidade da imposição da segregação cautelar" (AgRg no HC n. 760.036/SP, Quinta Turma, de minha relatoria, DJe de 22/2/2023).
+"Presentes elementos concretos para justificar a manutenção da prisão preventiva, para garantia da ordem pública. As instâncias ordinárias afirmaram que, em liberdade, o paciente representava risco concreto à ordem pública em razão da sua maior periculosidade , revelada pela natureza, variedade e quantidade das drogas localizadas - 732,9g de maconha e 2g de cocaína. Tais circunstâncias, somadas à apreensão de petrechos utilizados para embalar e fracionar os estupefacientes, de certa quantia em dinheiro e de anotações referentes à venda dos entorpecentes , demonstra seu maior envolvimento com o narcotráfico e o risco ao meio social" (AgRg no HC n. 709.415/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 18/2/2022).
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+ EMENTA
