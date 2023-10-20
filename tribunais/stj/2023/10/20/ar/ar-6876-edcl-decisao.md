@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PREMACOL LTDA. contra decisão, da lavra deste signatário, acostada às fls. 843/847, que julgou improcedente a presente ação rescisória.
+Em suas razões, a insurgente aponta omissão no julgado, oportunidade em que repisa os fundamentos da exordial. Destaca, nesse contexto, que o julgado rescindendo violou a coisa julgada porquanto, na sua compreensão, "(..) este próprio Tribunal, por duas vezes, consentiu com a aplicação da multa, ao não conhecer dos recursos aviados nos autos da cautelar n. 0461.03.010.153-3, (AgRg n. 848.505/MG 2007/0004108-0) e nos autos da Ação Anulatória n. 0461.06.039390-1 (agravo em recurso especial n. 360.946 - MG 2013/0190735-8), decisão esta proferida, inclusive, pela Ilustre Ministra Nancy Andrighi, em que foram improvidos ou inadmitidos os recursos."
+Requer, nesse contexto, o acolhimento da insurgência. (fls. 851/855)
+A impugnação está juntada às fls. 858/860.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante, PREMACOL LTDA.
+Com idêntico sentido, vejam-se: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Com efeito, consoante asseverado no r. decisum embargado, "(..) a r. decisão ora impugnada, proferida nos autos do REsp 1.637.922/MG, trilhou compreensão no sentido de que "(..) A jurisprudência do STJ consolidou-se no sentido de que "na ação de exibição de documentos, não cabe a aplicação de multa cominatória." (Súmula 372 do STJ)." Acrescentou, ademais, que "(..) A 2º Seção do STJ definiu no REsp 1,333.988/SP (Dje de 11/04/2014), julgado pela sistemática do art. 543-C do CPC/73, as seguintes teses: (i) "descabimento de multa cominatória na exibição, incidental ou autônoma, de documento relativo a direito disponível"; e (ii) "a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada"
+E, na hipótese dos autos, entendeu que "(..) Aplicando a supracitada compreensão ao caso concreto, destacou que "(..) O T /MG, ao decidir pela manutenção da decisão recorrida que entendeu pela exigibilidade da multa cominatória em ação de exibição de documentos, contrariou o entendimento do ST1. Logo, considerando as teses firmadas no REsp 1.331988/SP, o acórdão recorrido merece reforma."
+Ao final, destacou que o presente instrumento processual não pode se traduzir em mera tentativa de reverter a conclusão do julgamento firmado pela e. Relatora, revestindo a pretensão ora aduzida na indevida função de sucedâneo recursal, porquanto a rescisória não tem por finalidade a revisão do julgado primitivo apenas em razão do manifesto inconformismo da ora autora.
+Portanto, não há obscuridade no julgado porquanto este, de maneira fundamentada, atento à supracitada orientação jurisprudencial, determinou a remessa dos autos ao eg. TJ/BA para exame das alegações contidas na reclamação, como entender de direito.
+2. Do exposto, com fundamento no art. 1.022, do CPC/15, rejeito os presentes embargos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
