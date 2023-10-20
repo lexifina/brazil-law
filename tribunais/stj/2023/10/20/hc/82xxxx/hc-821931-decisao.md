@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATEUS FERNANDO DAROLD, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+O paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, dos delitos de tráfico de drogas e associação para o tráfico.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 35-38.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação da segregação cautelar, reforçando que as condições pessoais do paciente seriam favoráveis.
+Alega que os policiais invadiram o domicílio do paciente sem mando de prisão e sem situação de flagrante, o que considera ilegal.
+Requer, ao final, a declaração de nulidade das provas, com o trancamento da ação penal e a revogação da prisão preventiva.
+A liminar foi indeferida.
+As informações foram prestadas às fls. 51-53 e às fls. 56-72.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ, e pela concessão da ordem, no parecer de fls. 74-79.
+É o relatório.
+Decido.
+Preliminarmente, afasto a nulidade arguida, tendo em vista que a Corte de origem invocou fundamentos para refutar a alegação de nulidade por suposta violação de domicílio que estão em sintonia com o entendimento deste Tribunal bem como do Pretório Excelso no Tema n. 280, pelo qual é necessária a existência de fundadas razões para ingresso no domicílio, ainda que se trate de crime permanente, o que restou devidamente caracterizado no presente caso, haja vista o recebimento de denúncias acerca da ocorrência de tráfico na região, em veículo cujas características correspondem às do veículo do paciente reincidente, que foi encontrado com as portas abertas contendo grande quantidade de drogas em seu interior, além da apreensão de mais de trinta quilos de maconha e mais de três quilos de cocaína pela autoridade policial.
+Ademais, o próprio STF vem reformando decisões desta Corte superior no que se refere à aplicação do tema n. 280, na esteira do recentíssimo precedente:
+"4. O alcance interpretativo do inciso XI, do artigo 5º da Constituição Federal foi definido pelo SUPREMO TRIBUNAL FEDERAL, na análise do RE 603.616/RO (Rel. Min. GILMAR MENDES, DJe de 10/5/2016, Tema 280 de Repercussão Geral), a partir, exatamente, das premissas da excepcionalidade e necessidade de eficácia total da garantia fundamental; tendo sido estabelecida a seguinte TESE: "A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados."
+5. Ocorre, entretanto, que o Superior Tribunal de Justiça, no caso concreto ora sob análise, após aplicar o Tema 280 de Repercussão Geral dessa SUPREMA CORTE, foi mais longe, alegando que não obstante os agentes de segurança pública tenham recebido denúncia anônima acerca do tráfico de drogas no local e o suspeito, conhecido como chefe do tráfico na região, tenha empreendido fuga para dentro do imóvel ao perceber a presença dos policiais, tais fatos não constituem fundamentos hábeis a permitir o ingresso na casa do acusado. Assim, entendeu que o ingresso dos policiais no imóvel somente poderia ocorrer após "prévias diligências", desconsiderando as circunstâncias do caso concreto, quais sejam: denúncia anônima, suspeito conhecido como chefe do tráfico e fuga empreendida após a chegada dos policiais.
+6. Nesse ponto, não agiu com o costumeiro acerto o Tribunal de origem, pois acrescentou requisitos inexistentes no inciso XI, do artigo 5º da Constituição Federal, desrespeitando, dessa maneira, os parâmetros definidos no Tema 280 de Repercussão Geral por essa SUPREMA CORTE.
+7. Agravo Interno a que se nega provimento." (AgRg no RE 1447289 AgR, STF, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 09/10/2023).
+Quanto ao pleito de revogação da prisão preventiva, em consulta ao sítio eletrônico do Tribunal de origem, verifico que na data de 19/09/2023, o juízo de primeiro grau revogou a prisão preventiva do paciente mediante a imposição de medidas cautelares diversas.
+Desse modo, forçoso reconhecer a prejudicialidade da presente impetração, no ponto, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, incisos XI e XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se. Intime-se.
+ EMENTA
