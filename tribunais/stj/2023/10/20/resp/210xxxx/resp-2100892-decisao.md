@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por COCARI - COOPERATIVA AGROPECUARIA E INDUSTRIAL (COCARI), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, de relatoria do Des. ROSALDO ELIAS PACAGNAN, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE CONHECIMENTO - MATÉRIA ALHEIA A ÁREA DE ESPECIALIZAÇÃO. DECISÃO DE PRIMEIRO GRAU QUE RECONHECEU A NULIDADE DE CITAÇÃO E ACOLHEU PRELIMINAR DE INCOMPETÊNCIA TERRITORIAL ARGUIDA PELA RÉ NA CONTESTAÇÃO QUE APRESENTOU - INSURGÊNCIA DA AUTORA. Não conhecimento do recurso 1) pelo Relator, monocraticamente, relativamente à nulidade da citação e consequente admissão da contestação oferecida pela ré como tempestiva. Tema objeto de Agravo Interno julgado em separado. Conhecimento do 2) agravo quanto ao reconhecimento da incompetência territorial. Possibilidade de mitigação do rol taxativo do artigo 1.015 do Código de Processo Civil, conforme Tema Repetitivo nº 988 do STJ, por se tratar de matéria sensível, acerca do princípio do Juiz Natural e dos riscos potenciais envolvidos no eventual deslocamento de competência. Incompetência territorial, porém, reconhecida acertadamente. Caso que versa sobre reparação de danos derivados de relação jurídica comercial de compra e venda de produtos. Incidência da regra dos artigos 46, e 53, inciso III, letra "a", do Código de Processo Civil. Foro competente o de domicílio da pessoa jurídica demandada. Precedentes desta Corte e do STJ. Decisão a quo mantida. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO (e-STJ, fl. 54)
+Nas razões do presente recurso, COCARI alegou a violação ao art. 53, IV, a, V, do CPC, ao sustentar que a demanda visa ao ressarcimento de danos decorrentes da venda de produtos defeituosos, ou seja, hipótese de reparação de dano sofrido, em razão de delito, sendo competente o domicílio do autor ou do local do fato. Afirmou que, de qualquer modo, pode se aplicar também ao caso a regra de competência para as demandas que buscam o recebimento de indenização, sendo competente também o local onde o fato aconteceu (e-STJ, fls. 89/98).
+Foram apresentadas contrarrazões (e-STJ, fls. 128/137).
+O recurso foi admitido pelo Tribunal de Justiça do Estado do Paraná (e-STJ, fls. 138/140 ).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+O Tribunal de Justiça do Estado do Paraná, soberano na análise do conteúdo fático-probatório, manteve a decisão de primeira instância, ao considerar que se mostra competente o foro do lugar onde está a sede da empresa demandada, nos termos do art. 53, III, a, do CPC, considerando que a pretensão diz respeito à reparação de danos derivados da relação jurídica de compra e venda de produtos, como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Ocorre que, como bem pontuado pelo MM. Juiz de Direito, Dr. Max Paskin Neto: "A pretensão da cooperativa autora claramente diz respeito à reparação de danos derivados da relação jurídica de compra e venda de produtos, - "filme para estufa" - com as empresas rés", ou seja, não envolve reparação de danos provocados por relações extracontratuais para incidir o inciso V do artigo 53 do diploma processual civil, daí que, como concluiu o magistrado, "não se tendo notícias de que as partes formalizaram contrato de compra e venda por escrito, no qual poderia haver a cláusula de eleição do foro (..) não há outra conclusão senão aplicar a regra geral prevista no art. 46 c/c art. 53, III, "a"". Em se tratando de reparação de danos fundada em relação comercial e que envolve pessoa jurídica como suposta devedora, o foro competente para julgamento é o do lugar onde está a sede da empresa demandada, regra geral prevista no artigo 53, inciso III, letra "a", do Código de Processo Civil, consoante entendimento uníssono dos Tribunais (e-STJ, fls. 58 - sem destaques no original)
+Pelo que se dessume dos autos, o fundamento de que o foro competente para julgamento é o do lugar onde está a sede da pessoa jurídica demandada, em se tratando de reparação de danos fundada em relação comercial, não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Neste sentido, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.  ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+Nessas condições, NÃO CONHEÇO do recurso.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. SEDE. PESSOA JURÍDICA DEMANDADA. RELAÇÃO JURÍDICA COMERCIAL. REPARAÇÃO DE DANOS. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
