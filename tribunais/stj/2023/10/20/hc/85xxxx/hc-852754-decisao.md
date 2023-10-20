@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de JOSE RICARDO GARDINI contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no Agravo em Execução Penal n. 8000410-49.2023.8.24.0008.
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de indulto formulado com base no Decreto n. 11.302/2022 (fl. 22).
+Irresignado, o Apenado interpôs agravo em execução, ao qual foi negado provimento pelo Tribunal estadual nos termos do acórdão acostado às fls. 09-11.
+Daí o presente writ, em que a Parte Impetrante aduz que " c omo se vê, o art. 5.º concede indulto aos crimes cuja pena máxima (individualmente considerados) não ultrapasse 5 anos. Ou seja, o único critério para a concessão do indulto é a pena máxima abstratamente cominada" (fl. 7).
+Requer a concessão do indulto natalino previsto no Decreto n. 11.302/2022.
+Prestadas as informações, o Ministério Público Federal opinou pela concessão da ordem (fls.74-75).
+É o relatório. Decido.
+Cumpre consignar que o exame de pedido de indulto ou de comutação de pena deve se ater à análise objetiva do preenchimento dos requisitos previstos no decreto presidencial, sob pena de ofensa ao princípio da legalidade. Nesse sentido:
+"A jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)." (AgRg no HC 623.203/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021.)
+"A interpretação extensiva das restrições contidas no decreto concessivo de comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, não preenchidos os requisitos estabelecidos na norma legal para a concessão do indulto ou da comutação, o benefício deve ser indeferido, sob pena de ofensa ao princípio da legalidade." (AgRg no HC 550.268/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020; sem grifos no original.)
+Assim, em homenagem ao princípio da legalidade, os decretos presidenciais são interpretados de forma literal, não havendo margem discricionária ao Magistrado para atuar além das exaustivas hipóteses legais previstas para conceder indulto ou comutação de pena.
+Na hipótese, o juízo da execução assim consignou quando da análise do pedido de indulto (fl. 22):
+2. Junte-se atestado de pena preservar a memória do presente cálculo.
+3. (Seq. 110.1). Indefiro o pedido de indulto Isso porque o reeducando possui crime(s) impeditivo(s) cuja pena não foi totalmente resgatada na data de referência, qual seja, a do Decreto n. 11.302/2022 (autos n. 0014443-98.2014.8.24.0008, 0001019 -07.2006.8.24.0125, 0004385-12.2006.8.24.0139, 0026659-62.2012.8.24.0008, 0010858- 72.2013.8.24.0008 e 5015404-07.2021.8.24.0008), tudo nos termos do art. 11, parágrafo único, da referida normativa.
+Intimem-se, especialmente a defesa para requerer o que de direito acerca do manuscrito da Seq.116.2.
+No mais, prossiga-se na execução da pena. 5.
+Nas informações prestadas pelo Juízo da Execução Penal foi esclarecido o seguinte (fls. 70-71):
+"Diante desse cenário, reproduzo abaixo as informações já prestadas:
+O paciente JOSE RICARDO GARDINI, foi condenado ao cumprimento da pena de 31 anos, 2 meses e 3 dias de reclusão, sendo 6 anos pelo art. 157, caput, do CP; 1 ano pelo art. 155, caput, CP; 5 anos e 4 meses pelo art. 157, §2º, CP; 1 ano e 8 meses pelo art. 155, §4º, CP; 1 ano e 3 meses pelo art. 155 do CP; 6 anos, 2 meses e 20 dias pelo art. 157, §2º, CP; 4 anos, 8 meses e 20 dias pelo art. 157, caput, CP; 2 anos e 6 meses pelo art. 155, §4º, CP; 5 anos e 10 meses pelo art. 157, caput, CP ; e 2 anos e 4 meses pelo art. 157, caput, CP.
+Na data 23/06/2023, foi indeferido o pedido de indulto, porquanto o paciente não teria cumprido integralmente a pena dos crimes impeditivo, pois foi condenado nos autos n. 0014443-98.2014.8.24.0008 pelo art. 157, caput, do CP; 0001019 - 07.2006.8.24.0125 pelo art. 157, § 2º, CP; 0004385-12.2006.8.24.0139 pelo art. 157, § 2º, CP; 0026659-62.2012.8.24.0008 pelo art. 157, caput, CP; 0010858- 72.2013.8.24.0008 pelo art. 157, caput, CP; e 5015404-07.2021.8.24.0008 pelo art. 157, caput, CP (sq. 118.1) e cumpriu até 26/06/2023, o quantum de 18 anos, 1 mês e 13 dias do total da pena (sq. 119.1), o que é inferior ao total de pena imposta pelos crimes com violência que alcançam, somadas, patamar superior a 20 anos como acima apontado. Assim, o pedido foi indeferido nos termos dos arts. 7º, incisos I e II, e 11, parágrafo único, do Decreto n. 11.302/2022.
+Atualmente, possui o total de 412 dias remidos."
+Pela análise do aresto ora combatido, entendo correta a conclusão, tendo em conta que o parágrafo único do art. 11 do Decreto n. 11.302/2022 assim dispõe:
+"Art. 11. Para fins do disposto neste Decreto, as penas correspondentes a infrações diversas serão unificadas ou somadas até 25 de dezembro de 2022, nos termos do disposto no art. 111 da Lei n.º 7.210, de 11 de julho de 1984.
+Parágrafo único. Não será concedido indulto natalino correspondente a crime não impeditivo enquanto a pessoa condenada não cumprir a pena pelo crime impeditivo do benefício, na hipótese de haver concurso com os crimes a que se refere o art. 7º, ressalvada a concessão fundamentada no inciso III do caput do art. 1º."
+Com efeito, o Apenado ainda está no cumprimento de pena imposta pelo cometimento de crimes impeditivos (roubos), situação que inibe o deferimento do indulto previsto no mencionado decreto.
+Assim, as instâncias ordinárias interpretaram o dispositivo em comento de forma literal, de maneira que não prospera a insurgência defensiva.
+Nesse contexto, o presente caso não se enquadra nas hipóteses excepcionais passíveis de concessão da ordem, por não vei cular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável na via eleita.
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO PRESIDENCIAL N. 11.302/2022. NÃO PREENCHIMENTO DE REQUISITO OBJETIVO. ORDEM DENEGADA.
