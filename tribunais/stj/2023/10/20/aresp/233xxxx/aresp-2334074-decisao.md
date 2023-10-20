@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por SUPER MERCADO SÃO ROQUE LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 212):
+SEGURO DE VEÍCULO. Ação regressiva ajuizada pela seguradora. Sentença de procedência. Insurgência da ré. Furto de veículo segurado no estacionamento do supermercado administrado pela ré. Empresa que tem dever de guarda e se responsabiliza objetivamente pelos danos ocorridos no seu estacionamento. Súmula 130 do C. STJ. Sentença mantida. Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 230-233).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489 e 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos arts. 357, inciso III, e 373, inciso I, do CPC, ao passo que aponta divergência jurisprudencial com arestos desta corte.
+Sustenta, em síntese, que "o boletim de ocorrência de fls.49/50, lavrado unilateralmente e na conveniência da segurada, não se revela suficiente para comprovar os fatos alegados na inicial e constitutivos do direito da Recorrida, conforme teor da própria decisão saneadora de fls.133/137. Logo, ao revés do fundamentado no v. acórdão, a Recorrida não comprovou os fatos constitutivos de seu direito, sobre o qual viesse a repousar a pretensão deduzida, caracterizando a violação do disposto no artigo 373, inciso I do CPC" (fl. 244).
+Foram oferecidas contrarrazões ao recurso especial (fls. 283-297).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 298-301), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 325-338).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem manifestou-se de forma clara e fundamentada acerca dos pontos alegados como omissos. É o que se extrai do seguinte trecho do acórdão que julgou os embargos de declaração (fls. 232-233):
+Busca a parte embargante, em verdade, o simples reexame da matéria e alteração do quanto já decidido e julgado, o que não lhe é permitido por esta via recursal, sendo oportuno registrar que o tema embargado restou expressamente enfrentado, in verbis:
+"De conseguinte, pelos documentos juntados pela autora, restou demonstrado a ocorrência do sinistro na forma e data relatados (fls. 49/50), de modo que comprovados os fatos constitutivos do seu pedido, devendo ser mantida a procedência da ação. Oportuno registrar que ausência de ticket de estacionamento se deu em razão do local não possuir cancela de controle, fato este confirmado em consulta à imagem fornecida pela ferramenta do google maps"1.
+A modificação pretendida deverá, pois, ser perseguida pelos meios processuais adequados, visto que não acompanhada de nenhuma das hipóteses legais ensejadoras de embargos de declaração.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+No mais, nos termos da jurisprudência pacífica desta corte, "O estacionamento que agrega valor e comodidade ao serviço de supermercado oferecido, ainda que não cobrado de forma direta, determina que o estabelecimento assuma o dever de guarda e vigilância" (AgInt no REsp n. 1.784.021/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/8/2019, DJe de 2/9/2019).
+É o que dispõe a Súmula n. 130/STJ: "a empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento".
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. RESPONSABILIDADE CIVIL. FURTO. MOTO. ESTACIONAMENTO DE SUPERMERCADO. DANOS MATERIAIS E MORAIS. CONFIGURAÇÃO. RESPONSABILIDADE DA EMPRESA. SÚMULA Nº 130/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VALOR INDENIZATÓRIO. MANUTENÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os autos dizem respeito à ação de indenização por danos morais e materiais em decorrência de furto de moto no estacionamento de supermercado.
+3. Na hipótese, as conclusões do tribunal de origem, fundadas no acervo fático-probatório dos autos, estão de acordo com a orientação sumulada no Superior Tribunal de Justiça no sentido de que a empresa responde, perante o cliente, pela reparação de dano ou furto de veículo ocorridos em seu estacionamento. Inteligência das Súmulas nºs 7 e 130/STJ.
+4. A indenização por danos morais deve ser arbitrada com fulcro na razoabilidade e na proporcionalidade, de modo que seu valor não seja excessivo a ponto de gerar o enriquecimento ilícito do ofendido nem se mostrar irrisório e, assim, estimular a prática danosa.
+5. O Superior Tribunal de Justiça tem afastado a incidência da Súmula nº 7/STJ para reexaminar o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.352.950/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/3/2019, DJe de 29/3/2019.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - FURTO DE VEÍCULO EM ESTACIONAMENTO DE SUPERMERCADO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. "A empresa que fornece estacionamento aos veículos de seus clientes responde objetivamente pelos furtos, roubos e latrocínios ocorridos no seu interior, uma vez que, em troca dos benefícios financeiros indiretos decorrentes desse acréscimo de conforto aos consumidores, o estabelecimento assume o dever - implícito em qualquer relação contratual - de lealdade e segurança, como aplicação concreta do princípio da confiança. Inteligência da Súmula 130 do STJ" (REsp 1269691/PB, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2013, DJe 5/3/2014).
+2. No caso concreto, o Tribunal a quo, com base no suporte fático apresentado nos autos, decidiu pela presença dos requisitos ensejadores da reparação civil. A reforma de tal entendimento requer o reenfrentamento do arcabouço fático da causa, atraindo, no caso, a incidência da Súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 850.198/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 12/9/2017, DJe de 15/9/2017.)
+No caso dos autos, o Tribunal de origem expressamente consignou que, "ao contrário do alegado pela ré/apelante, sua responsabilidade é objetiva pelo furto ocorrido no estacionamento de um de seus hipermercados. De conseguinte, pelos documentos juntados pela autora, restou demonstrado a ocorrência do sinistro na forma e data relatados (fls. 49/50), de modo que comprovados os fatos constitutivos do seu pedido, devendo ser mantida a procedência da ação. Oportuno registrar que ausência de ticket de estacionamento se deu em razão do local não possuir cancela de controle, fato este confirmado em consulta à imagem fornecida pela ferramenta do google maps1" (fl. 215).
+Logo, não merece reforma o acórdão recorrido.
+Quanto à alegaçã o de ausência de provas, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática-probatória, procedimento vedado a esta corte, em razão do óbice da Súmula n. 7/STJ.
+Ademais, no sistema da persuasão racional, adotado pelos arts. 370 e 371 do CPC, o magistrado é livre para analisar as provas dos autos, formando com base nelas a sua convicção, desde que aponte de forma fundamentada os elementos de seu convencimento (AgInt no AREsp n. 1.783.444/DF, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/9/2021).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, ness a extensão, negar-lhe provimento.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
