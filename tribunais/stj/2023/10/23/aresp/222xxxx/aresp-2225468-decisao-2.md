@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A. (NOTRE DAME) pretendendo a reforma da decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+Apelação Cível. Ação de obrigação de fazer. Autora que alega suspensão do plano de saúde coletivo, oferecido por seu ex-empregador, após desligamento da empresa, em razão de suposto inadimplemento contratual. Sentença que confirmou a tutela de urgência e julgou parcialmente procedente os pedidos para: a) limitar a obrigação da ré de manutenção da autora e seus dependentes no plano de saúde somente até 27/7/2018; b) declarar a inexigibilidade das mensalidades do plano de saúde referentes aos meses de abril e maio de 2017; c) condenar a ré a pagar à autora a importância de R$1.121,00 (um mil cento e vinte e um reais), a título de reembolso de despesas médicas, com os consectários legais devidos; d) condenar a ré a pagar à autora a quantia de R$ 10.000,00 (dez mil reais), a título de indenização por dano moral, com os consectários legais devidos. Apelação interposta por ambas as partes. Parte ré que requer a anulação da sentença, a fim de que os autos retornem ao juízo a quo para que seja apreciado o pedido de chamamento do feito. Argui também, em sede preliminar, a ilegitimidade passiva e a incompetência do juízo, em razão da matéria. No mérito, requer a reforma da sentença para que seja julgado improcedente o pedido. Subsidiariamente, requer a redução do quantum indenizatório a título de danos morais. Parte autora que requer a permanência no plano de saúde, juntamente com o seu dependente, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, até 31.08.2024.
+1. Anulação da sentença que não se impõe. Pedido de chamamento do feito não apreciado pelo juízo a quo.
+Possibilidade de apreciação nesta instância.
+Inteligência do artigo 1013, § 3º. III, do CPC.
+2. Pedido de chamamento do feito que se indefere.
+Inexistência das hipóteses previstas no artigo 130 do CPC. Empresa estipulante que não possui legitimidade para figurar no polo passivo em ação proposta pelo ex- empregado visando a permanência no plano.
+Precedente do STJ.
+3. Preliminar de ilegitimidade passiva que se afasta.
+Aplicação da teoria da asserção. Empresa ré que informou o cumprimento da tutela de urgência concedida, o que não é cabível caso não tivesse qualquer gerência no benefício da requerente.
+4. Preliminar de incompetência da justiça estadual afastada. Plano contratado que não é de autogestão.
+Tese firmada no Incidente de Assunção de Competência - REsp nº 1.799.343/SP - no sentido de que a competência somente será da justiça do trabalho se o plano de saúde (i) for de autogestão empresarial e (ii) for instituído por meio de contrato de trabalho, convenção coletiva ou acordo coletivo de trabalho.
+5. Cancelamento do plano de saúde, em razão de inadimplência do ex-empregador. Requerente que manteve o pagamento da mensalidade, em valor integral, no período de inadimplência do seu ex-empregador, inexistindo comprovação de sua notificação prévia.
+6. Impossibilidade de reintegração da autora no plano coletivo empresarial do qual era beneficiária, eis que foi informado nos autos que houve o cancelamento do contrato, sofrendo a lista de demitidos/aposentados os efeitos do cancelamento do contrato.
+7. Possibilidade de migração para plano individual ou familiar. Inteligência dos artigos 1º e 3º, da Resolução do Conselho de Saúde Complementar - CONSU nº. 19, bem como o artigo 16º, §2º, da Resolução 254 da ANS.
+8. Valor das mensalidades que deve se enquadrar à nova modalidade do plano ao qual será posicionada.
+9. Manutenção da declaração de inexigibilidade das faturas de Abril e Maio/2017 que se impõe. Período no qual o serviço não foi prestado pela ré.
+10. Manutenção da condenação ao pagamento de indenização a título de danos materiais. Despesas médicas realizadas pela beneficiária do plano de saúde e não reembolsadas, no período em que cancelado o plano de saúde, que devem ser ressarcidas pela demandada.
+11. Dano moral configurado. Autora que se encontrava em tratamento médico para um câncer de colo, tendo tido negado o direito à realização de consultas e exames, em razão do cancelamento realizado sem comunicação prévia, necessitando arcar com o pagamento de exames a que teria direito. Plano de saúde que somente foi restabelecido e exames realizados em razão da tutela de urgência deferida pelo juízo a quo.
+12. Verba indenizatória fixada em valor adequado às especificidades do caso, observados os princípios da razoabilidade e proporcionalidade.
+13. Sentença que se reforma para determinar a migração da autora e seu dependente para um plano familiar ou individual, sem necessidade do cumprimento de carência. Valor das mensalidades do novo plano deverá corresponder à nova modalidade do plano escolhido pela autora.
+PARCIAL PROVIMENTO A AMBOS OS RECURSOS (e-STJ, fls. 652/654).
+Os embargos declaratórios opostos por NOTRE DAME foram rejeitados (e-STJ, fls. 651/676).
+NOTRE DAME então manejou recurso especial com fundamento no art. 105, III, alínea a, da CF, no qual alegou que o acórdão contrariou o art. 1.014 do CPC, pretendendo, em suma, a anulação do julgado e o retorno do feito à fase instrutória, tendo em conta que o acórdão recorrido, de ofício, resolveu suscitar questão de fato não tratada em primeira instancia pelas partes por mera disposição destas, não por qualquer alegação de força maior (e-STJ, fls. 765/773).
+Apresentadas as contrarrazões, o recurso especial foi inadmitido pelo TJRJ.
+NOTRE DAME manifestou o presente agravo em recurso especial sustentando o desacerto da decisão que inadmitiu o apelo nobre.
+A contraminuta não foi apresentada (e-STJ, fl. 922).
+É o relatório.
+DECIDO.
+O agravo merece ser conhecido, porém o apelo nobre adjacente não pode ser conhecido.
+Inicialmente, destaca-se que, nas razões do especial, NOTRE DAME não apresentou argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado o mencionado dispositivo. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula n.º 284 do STF, por analogia.
+Além do mais, da leitura atenta das razões do apelo nobre, verifica-se que os fundamentos do acórdão recorrido de que (i) a inovação recursal ocorre quando uma das partes traz aos autos argumentos não discutidos na instância originária, em violação ao princípio da ampla defesa e do contraditório - o que não é o caso dos autos; (ii) a autora requereu na exordial o restabelecimento do seu plano de saúde, com a emissão de boletos bancários para o pagamento das mensalidades, bem como fossem autorizados diversos exames e procedimentos médicos, com a condenação da empresa ré a ao pagamento das despesas hospitalares de qualquer natureza; e (iii) entretanto, este Colegiado verificou que, por se tratar de plano coletivo empresarial, uma vez rescindido o contrato com a empresa, não haveria como se manter o ex-empregado na mesma modalidade contratual, impondo-se a aplicação da Resolução do CONSU - como já ressaltado anteriormente - com a migração dos beneficiários para plano individual ou familiar (e-STJ, fls. 743/751), não foram objeto de impugnação das razões do recurso especial, ofendendo o princípio da dialeticidade recursal, colhendo assim a incidência da Súmula n.º 283 do STF, por analogia: é inadmissível o recurso extraordinário, quanto a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO PROTOCOLADO VIA FAX. ART. 2º DA LEI N. 9.800/99. NÃO IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO AUTÔNOMO. SÚMULA N. 283/STF. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA N. 83/STJ. AFERIÇÃO DA DATA DE PROTOCOLO. SÚMULA N. 7/STJ.
+1. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso. Incidência da Súmula n. 283 do STF.
+ ..
+4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp nº 673.529/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 28/8/2015 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 283/STF. INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS NºS 5 E 7/STJ. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 643.078/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/9/2015 - sem destaque no original)
+Por derradeiro, tendo o Tribunal fluminense afirmado que sequer há o que se alegar violação ao artigo 10 do CPC, eis que esta relatora determinou a intimação das partes para que se manifestassem acerca da Resolução 19 do CONSU (e-STJ, fl. 751), evidencia-se não ser possível, aqui, entender de modo diferente, pois seria imprescindível o reexame de matéria fático-probatória, inviável, em razão do óbice contido na Súmula n.º 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Assim, está claro que o recurso especial não merece nem sequer ultrapassar a barreira do conhecimento.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de MARIA DAS GRAÇAS BERTINO MARQUES, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NOTRE DAME. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CANCELAMENTO EM VIRTUDE DA INADIMPLÊNCIA DA ESTIPULANTE. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. FUNDAMENTOS AUTÔNOMOS NÃO ESPECIFICAMENTE IMPUGNADOS. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. REFORMA DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
