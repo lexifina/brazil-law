@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Na hipótese dos autos, constata-se a existência de omissão no acórdão embargado, quanto à comprovação pela recorrente, no momento da interposição do agravo interno, que o expediente forense se iniciou após a hora normal no último dia do prazo recursal.
+1.1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o vencimento do prazo recursal em dia de expediente forense reduzido (quarta-feira de cinzas), prorroga-se para o primeiro dia útil seguinte, nos termos do artigo 224, § 1º, do CPC/15. Precedentes.
+1.2. Diante do reconhecimento de tal omissão, constata-se a tempestividade do agravo interno.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito o acórdão de fls. 248-252, e-STJ,, determinando o retorno dos autos ao relator para nova apreciação do agravo interno .
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de embargos de declaração, opostos por MAPFRE SEGUROS GERAIS S.A., contra acórdão de fls. 248-252 (e-STJ), prolatado pela Quarta Turma do Superior Tribunal de Justiça, que, reconheceu a intempestividade do agravo interno às fls. 189-192, e-STJ, nos termos da seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.1. A decisão agravada, acostada às fls. 189-192, foi disponibilizada no Diário da Justiça Eletrônico em 31/01/2020, com publicação em 03/02/2020, cujo prazo recursal teve início no dia útil seguinte - 04/02/2020 -, conforme art. 4º, § 4º, da Lei 11.419/2006.2. O prazo fatal para interpor o agravo interno se deu em 26/02/2020 (quarta-feira), enquanto o recurso foi interposto apenas em 27/02/2020 (quinta-feira), conforme protocolo de fl. 195, e-STJ, quando já decorrido o prazo recursal de 15 (quinze) dias úteis previsto nos arts. 219, caput, 994, III, 1.003, § 5º, e 1.021, § 2º, do CPC, sendo de rigor o reconhecimento da intempestividade do reclamo.3. Agravo interno não conhecido.
+Em suas razões, a embargante sustenta que "o dia 26/02/2022 (quarta-feira de cinzas)não fora contabilizado no cômputo do prazo, em orientação aos ditames dos arts. 224, §1º do CPC e Enunciado nº 3 desta Corte, devendo ser protraído da referida contagem, eis que coincidiu com data em que o expediente forense foi iniciado após a hora normal, restando evidente, pois, a tempestividade do recurso." (fls. 258, e-STJ).
+Impugnação às fls. 275-278 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. Na hipótese dos autos, constata-se a existência de omissão no acórdão embargado, quanto à comprovação pela recorrente, no momento da interposição do agravo interno, que o expediente forense se iniciou após a hora normal no último dia do prazo recursal.
+1.1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o vencimento do prazo recursal em dia de expediente forense reduzido (quarta-feira de cinzas), prorroga-se para o primeiro dia útil seguinte, nos termos do artigo 224, § 1º, do CPC/15. Precedentes.
+1.2. Diante do reconhecimento de tal omissão, constata-se a tempestividade do agravo interno.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para tornar sem efeito o acórdão de fls. 248-252, e-STJ,, determinando o retorno dos autos ao relator para nova apreciação do agravo interno .
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração merecem acolhimento, visto que a embargante demonstrou a existência de vício a macular o julgado.
+1. Inicialmente, constata-se omissão quanto à existência de comprovação, pela parte agravante às fls. 207, e-STJ, de que, no dia 26.02.2020, o expediente no Superior Tribunal de Justiça iniciou-se após a hora normal.
+Sanada tal omissão, constata-se que o agravo interno é, de fato, tempestivo, na medida que, segundo o art. 224, § 1º, do CPC/15, prorroga-se para o dia seguinte o fim do prazo recursal em hipóteses com o a presente.
+Considerando-se, portanto, que o apelo foi manejado em 27.02.2020, último dia do prazo recursal, de rigor o reconhecimento de sua tempestividade. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA CASA BANCÁRIA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o vencimento do prazo recursal em dia de expediente forense reduzido (quarta-feira de cinzas), prorroga-se para o primeiro dia útil seguinte, nos termos do artigo 224, § 1º, do CPC/15. Precedentes.
+1.1. Intempestividade do agravo em recurso especial reconsiderada na presente oportunidade.
+2. Embargos de declaração acolhidos para anular as deliberações anteriores, determinando o retorno dos autos ao relator para nova apreciação do feito.
+(EDcl no AgInt no AREsp n. 1.775.359/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/2/2022, DJe de 16/2/2022.)
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DESPEJO C/C COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE. 1. É de rigor o reconhecimento da tempestividade do agravo interno haja vista o vencimento do prazo recursal em dia de expediente forense reduzido (quarta-feira de cinzas), prorrogado, portanto, para o primeiro dia útil seguinte, nos termos do artigo 224, §1º, do CPC/15. 2. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão de fls. 706/710, e-STJ determinando o retorno dos autos para nova apreciação do agravo interno. (EDcl no AgInt no AREsp 1413756/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA C/C INDENIZAÇÃO POR LUCROS CESSANTES E DANOS EMERGENTES. PRAZO RECURSAL. EXPEDIENTE REDUZIDO. PRORROGAÇÃO DO PRAZO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS MODIFICATIVOS. 1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o vencimento do prazo recursal em dia de expediente forense reduzido (quarta-feira de cinzas), prorroga-se para o primeiro dia útil seguinte, nos termos do artigo 224, § 1º, do CPC/15. Precedentes. 1.1. Intempestividade dos embargos de declaração de fls. 916-918 (e-STJ) afastada. 2. Embargos de declaração acolhidos, com efeitos modificativos, para anular a decisão de fls. 943-945 (e-STJ), determinando o retorno dos autos ao relator para nova apreciação do feito. (EDcl nos EDcl nos EDcl nos EDcl no AgInt no AgInt no REsp n. 1.912.952/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022.)
+2. Ante o exposto, acolhem-se os embargos de declaração, com efeitos infringentes, para reconhecer a tempestividade do agravo interno (fls. 189-192, e-STJ), tornando sem efeito o acórdão de fls. 248-252 (e-STJ), e determinando o retorno dos autos ao gabinete para nova apreciação do referido recurso.
+É como voto.
