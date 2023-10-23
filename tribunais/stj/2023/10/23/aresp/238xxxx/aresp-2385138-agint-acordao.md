@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INVERSÃO DO ÔNUS DA PROVA QUE NÃO SE DÁ DE FORMA AUTOMÁTICA. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS E REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO QUANTO À COMPROVAÇÃO DO VÍNCULO CONTRATUAL. INCIDÊNCIA DA SÚMULA 7/STJ. ART. 14, § 3º, DO CDC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, com vistas a afirmar que se encontram presentes na espécie os requisitos para a inversão do ônus da prova, exigiria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUCIANA TEIXEIRA FERNANDES CASSETE contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 1.239):
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INVERSÃO DO ÔNUS DA PROVA. ART. 6º, VIII, DO CDC. OPE JUDICI. REQUISITOS NÃO CONFIGURADOS NO ACÓRDÃO RECORRIDO. REVISÃO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 7/STJ. ART. 14, § 3º, DO CDC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, a agravante pretende a reforma da decisão agravada. Para tanto, alega que "o prequestionamento significa a prévia manifestação do tribunal de origem, com emissão de juízo de valor, acerca da matéria referente ao dispositivo de lei federal apontado como violado, o que de fato ocorreu ao fundamentar no sentido de ser aplicável a inversão do ônus da prova ope judicis ao invés de ope legis" (e-STJ, fl. 1.251), sendo inaplicável a Súmula 211/STJ.
+Além disso, sustenta a inaplicabilidade da Súmula 7/STJ. Isso porque não pretende adentrar na matéria concernente a provas ou fatos, mas sim à decorrência legal de que a inversão do ônus da prova é ope legis, e não ope judicis; ou seja, decorre apenas da lei, e não dessa juntamente com a análise da autoridade judicial.
+Aduz, ainda, que a aplicação da Súmula 7/STJ, não se amolda à espécie para aferição do provimento pela alínea c do permissivo constitucional.
+Impugnação não apresentada (e-STJ, fl. 1.304).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. INVERSÃO DO ÔNUS DA PROVA QUE NÃO SE DÁ DE FORMA AUTOMÁTICA. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS E REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO QUANTO À COMPROVAÇÃO DO VÍNCULO CONTRATUAL. INCIDÊNCIA DA SÚMULA 7/STJ. ART. 14, § 3º, DO CDC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, com vistas a afirmar que se encontram presentes na espécie os requisitos para a inversão do ônus da prova, exigiria necessariamente novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Acerca do tema é pacífico o entendimento desta Corte de que a aplicação do art. 6º, VIII, do CDC não é automática e depende da análise, pelas instâncias ordinárias, da verossimilhança da alegação e da demonstração de hipossuficiência do consumidor.
+Veja-se (sem destaque no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui firme o entendimento no sentido de que: "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações do consumidor.".(AgInt no AREsp 1328873/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe 18/12/2019).
+2. As conclusões do acórdão recorrido no tocante à inexistência de ato ilícito apto a gerar o dever de indenizar; e inversão do ônus da prova; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.581.973/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/3/2020, DJe 17/3/2020)
+Dito isso, o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fls. 517-521; sem grifo no original):
+No caso em tela, estamos diante de uma relação consumerista, restando bem delineadas as figuras da consumidora e da fornecedora, tendo em vista que o objeto do processo de origem se trata de "Embargos à Execução" opostos em processo executivo em que se objetiva o recebimento de quantias não pagas referentes a compras realizadas no estabelecimento da agravada.
+Restando demonstrado a relação consumerista entre as partes e consequentemente com a aplicação do CDC, passo a analisar o pedido de inversão do ônus da prova.
+Perpassado este ponto, como se sabe, segundo a regra geral estabelecida no diploma processual civil, incumbe ao autor provar os fatos constitutivos de seu direito e ao réu à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+(..)
+Contudo, há no ordenamento jurídico três espécies de inversão do ônus da prova, sendo eles: convencional, legal ou judicial.
+No caso em apreço, verifica-se que a inversão pelo qual a agravante pretende trata-se da judicial, isto é, da inversão ope iudicis, a qual tem previsão legal no artigo 6º, inciso VIII, do Código de Defesa do Consumidor.
+Com efeito, avulta destacar que a inversão do ônus da prova não decorre de modo automático, pelo que deve estar comprovada a verossimilhança das alegações e a hipossuficiência do consumidor.
+(..)
+Verticalizando tais premissas, muito embora o esforço argumentativo da parte agravante, a meu ver, não há motivos suficientes para deferir o pedido formulado, porquanto ausentes os requisitos que legitimam a inversão do ônus da prova.
+E isso porque, não se encontra evidenciado nos autos a hipossuficiência, seja técnico-científica ou econômica, da agravante, para justificar a inversão do ônus da prova.
+É que, in casu, não há dificuldade ou impossibilidade da comprovação de suas alegações, qual seja o excesso da cobrança em razão das roupas supostamente superfaturadas.
+Ora, é dever do consumidor exigir a emissão de tais comprovantes como forma de resguardar seu direito, porém, ainda que haja a discussão do enquadramento ou não da agravada em ser Microempreendedor Individual e, consequentemente, ser isenta de emitir a nota fiscal, a agravante facilmente pode apresentar documentos para comprovar as transações realizadas no momento da compra dos produtos, com seus possíveis excessos.
+Ausente deste modo, qualquer possibilidade de inversão do ônus da prova tanto pela aplicação do CDC, quanto pelas regras previstas no diploma processual.
+Depreende-se dos trechos acima transcritos que a parte ora agravada apresentou argumentos que corroboraram o vínculo contratual firmado entre as partes, os quais não foram impugnados pela parte ora agravante (que "facilmente pode apresentar documentos para comprovar as transações realizadas no momento da compra dos produtos"). Dessa maneira, conclui -se que não estavam mesmo presentes os requisitos legais previstos na legislação consumerista para a aplicação da inversão do ônus da prova.
+Em face dessa conclusão, mostra-se inviável, por meio do julgamento do recurso especial, que o Superior Tribunal de Justiça altere o posicionamento adotado pela instância ordinária, pois, para tanto, seria necessário o revolvimento dos fatos e das provas acostadas aos autos, o qual é vedado pela Súmula n. 7/STJ.
+De outro lado, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Por fim, a alegada infringência ao art. 14, § 3º, do CDC (que trata das hipóteses de exclusão de responsabilidade do fornecedor de serviços) não foi enfrentada pelo Tribunal de origem e, a respeito do tema, a agravante nem sequer opôs embargos de declaração visando obter da Corte estadual pronunciamento a respeito da matéria, o que configura a ausência do indispensável prequestionamento, atraindo a incidência do óbice das Súmulas 282 e 356/STF, suficiente para impedir o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
