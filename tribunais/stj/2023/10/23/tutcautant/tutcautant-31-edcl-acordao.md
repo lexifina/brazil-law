@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. OMISSÕES. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos contra acórdão que negou provimento a agravo interno, nos termos da seguinte ementa:
+AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. PERICULUM IN MORA. EXECUÇÃO PROVISÓRIA. NÃO CARACTERIZAÇÃO. FUMUS BONIS IURIS. NÃO CARACTERIZAÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO POR EQUIDADE. IMPOSSIBILIDADE.
+1. "A execução provisória já contém mecanismos/instrumentos para mitigar as hipóteses em que evidenciado dano irreparável, tanto que o levantamento de depósito em dinheiro e a prática de atos que importem alienação de propriedade ou dos quais possa resultar grave dano ao executado dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos" (AgInt no TP 363/PE, Quarta Turma, julgado em 04/05/2017, DJe 10/05/2017).
+2. Não se encontra configurado o requisito do fumus bonis iuris, porquanto esta Corte Superior perfilha o entendimento de que "i) a fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp n. 1.850.512/SP, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022).
+3. Agravo interno não provido.
+(fls. 177-178)
+Em suas razões recursais, aduz a parte embargante, em síntese, que o acórdão embargado conteria omissões, pois: a) não apreciou o argumento segundo o qual estaria presente o periculum in mora na medida em que, por se tratar de obrigação alimentar, o levantamento não dependeria de caução; e b) não enfrentou om argumento de que não incidiria, na espécie, o Tema 1076/STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE. OMISSÕES. AUSÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. Na hipótese dos autos, observa-se que o acórdão embargado é hialino ao afastar a caracterização tanto do periculum in mora quanto do fumus bonis iuris, requisitos indispensáveis ao deferimento da tutela de urgência.
+3. O acórdão recorrido ressalta, ainda, que a tese da parte embargante segundo a qual os honorários advocatícios deveriam ser arbitrados por equidade está em desacordo com o atual entendimento desta Corte Superior, segundo o qual apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo (REsp n. 1.850.512/SP, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022).
+4. Nesse contexto, importa consignar, que os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, sendo certo que não há falar em omissão ou contradição simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito: AgRg no AREsp 37.045/GO, QUARTA TURMA, julgado em 5/3/2013, DJe 12/3/2013; AgInt no AREsp 1043856/SP, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017; REsp 1649296/PE, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017.
+5. Na espécie, portanto, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido: EDcl nos EDcl nos EDcl no AgRg no AgRg no AREsp 453.117/SP, TERCEIRA TURMA, julgado em 16/12/2014, DJe 02/02/2015; EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma, DJe de 28.10.2008; EDcl no AgRg nos EREsp 545.285/RS, Primeira Seção, DJU de 1/8/2006.
+6. É evidente, pois, a ausência de vícios aptos a amparar a oposição dos presentes aclaratórios na hipótese.
+Forte nessas razões, rejeito os embargos de declaração.
