@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ESTELIONATO. NECESSIDADE DE REPRESENTAÇÃO. DENÚNCIA OFERTADA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. IRRETROATIVIDADE DA JURISPRUDÊNCIA. PRESCINDIBILIDADE DE FORMALIDADES DA REPRESENTAÇÃO. REGISTRO DO BOLETIM DE OCORRÊNCIA. VALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência dominante nesta Corte Superior e no Supremo Tribunal Federal - STF à época do julgamento da apelação era no sentido de que a exigência de representação em relação ao crime de estelionato somente seria aplicável aos casos em que a denúncia ainda não houvesse sido ofertada quando da entrada em vigor da Lei n. 13.964/2019
+2. "A mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+3. "A representação, nos crimes de ação penal pública condicionada, prescinde de formalidades. Dessa forma, pode ser depreendida do boletim de ocorrência e de declarações prestadas em juízo (AgRg no REsp 1.912.568/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021)" (AgRg no RHC n. 168.517/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/10/2022).
+4. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto por VIVIANE BOFFI EMILIO em face de decisão de fls. 490/495 que indeferiu liminarmente a impetração substitutiva de recurso próprio e deixou de conceder a ordem de ofício, uma vez que o Tribunal de origem não divergiu da jurisprudência dominante nesta Corte Superior à época do julgamento da apelação no sentido de que a exigência de representação no crime de estelionato somente se aplicava aos delitos cuja denúncia ainda não houvesse sido ofertada.
+No presente agravo, a defesa insiste na alegação de que "ao tempo do julgamento do recurso de apelação da agravante, era no sentido de que a representação da vítima somente retroagiria caso não houvesse denúncia oferecida, fato é que tais precedentes foram superados pela própria Suprema Corte" (fl. 503).
+Requer, em liminar e no mérito, o provimento do recurso e a concessão da ordem nos termos da inicial.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, conforme manifestação de fls. 516/522.
+É o breve relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ESTELIONATO. NECESSIDADE DE REPRESENTAÇÃO. DENÚNCIA OFERTADA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. IRRETROATIVIDADE DA JURISPRUDÊNCIA. PRESCINDIBILIDADE DE FORMALIDADES DA REPRESENTAÇÃO. REGISTRO DO BOLETIM DE OCORRÊNCIA. VALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência dominante nesta Corte Superior e no Supremo Tribunal Federal - STF à época do julgamento da apelação era no sentido de que a exigência de representação em relação ao crime de estelionato somente seria aplicável aos casos em que a denúncia ainda não houvesse sido ofertada quando da entrada em vigor da Lei n. 13.964/2019
+2. "A mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+3. "A representação, nos crimes de ação penal pública condicionada, prescinde de formalidades. Dessa forma, pode ser depreendida do boletim de ocorrência e de declarações prestadas em juízo (AgRg no REsp 1.912.568/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021)" (AgRg no RHC n. 168.517/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/10/2022).
+4. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos. A propósito, confira-se o seu teor:
+"Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de VIVIANE BOFFI EMILIO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0023831-29.2014.8.26.0506.
+Extrai-se dos autos que a paciente foi condenada em primeira instância às penas de 37 anos e 8 meses de reclusão, em regime inicial fechado, e pagamento de 2.193 dias-multa, no valor unitário mínimo, por infração ao artigo 171,caput (215 vezes em relação aos consumidores), c. c. o artigo 71;artigo 171, caput (15 vezes em relação às empresas de publicidade), c. c. o artigo 71; ao artigo 299,caput (14 vezes), c. c. o artigo 71, todos do Código Penal; ao artigo 2º da Lei n. 12.850/13; ao artigo 1º, §1º, incisos I e II, da Lei n. 9.613/98 (várias vezes), c. c. o artigo 71 do Código Penal; e às penas de 8 anos e 4 meses de detenção, em regime inicial semiaberto, por infração ao artigo 7º, inciso VI, da Lei n. 8.137/90 (várias vezes), c. c. o artigo 71 do Código Penal.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso nos termos do acórdão de fls. 406/444.
+No presente writ, a defesa relata que, em recente decisão, o plenário do Supremo Tribunal Federal passou a entender que "sendo o § 5º do art. 171 do CP norma eminentemente de caráter penal, essa exigência de representação da vítima é imprescindível para o deslinde de ação penal que versa sobre o delito de estelionato, independentemente de a demanda ter sido deflagrada antes da novel legislação" (fl. 8).
+Sustenta, assim, que tal entendimento deve ser aplicado em relação aos crimes de estelionato pelos quais a paciente foi condenada.
+Requer, "em caráter LIMINAR,  ..  a revogação da prisão que pesa em desfavor da paciente, e, NO MÉRITO, aguarda-se a CONCESSÃO DA ORDEM para declarar extinta a punibilidade da paciente em relação às vítimas que não representaram contra ela, anulando-se ou absolvendo a paciente, pois, a sentença condenatória, porque a norma do art. 171, §5º deve retroagir para ser aplicada no caso em tela, por ser medida de JUSTIÇA" (fl. 12).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+A respeito da necessidade de representação das vítimas dos crimes de estelionato, o Tribunal de origem consignou o seguinte
+"Imprescindibilidade da representação das vítimas de estelionato
+Quanto à tese da imprescindibilidade da representação das vítimas de estelionato, de rigor frisar que a novel regra do § 5º do artigo 171, do Código Penal, deve ser analisada sob a perspectiva da aplicação da lei penal no tempo, em duas hipóteses:
+Caso a denúncia já tenha sido ofertada, como no caso em apreço, está-se diante de ato jurídico perfeito, não sendo alcançado pela mudança. Assim, não há que se falar em intimar a vítima para manifestar seu interesse em ver prosseguir o processo.
+Isto porque, além de a lei nova não exigir essa manifestação (como fez no artigo 88 da Lei 9.099/1995), tal lição transformaria a natureza jurídica da representação de condição de procedibilidade em condição de prosseguibilidade.
+Se a inicial ainda não foi oferecida, deverá a Justiça Pública aguardar a oportuna representação da vítima ou o decurso do prazo decadencial, cujo termo inicial, para os fatos pretéritos, é o da vigência da novel lei.
+Nesse sentido, Rogério Sanches Cunha, ao tratar do tema, ensina que:
+"Se a inicial acusatória (denúncia) já foi ofertada, trata-se de ato jurídico perfeito, nãosendo alcançado pela mudança. Não nos parece correto o entendimento de que a vítima deve ser chamada para manifestar seu interesse em ver prosseguir o processo. Essa lição transforma a natureza jurídica da representação de condição de procedibilidade em condição de prosseguibilidade. A lei nova não exigiu essamanifestação (como fez no art. 88 da Lei 9.099/1995)" (in "PACOTE ANTICRIME Lei13.964/2019 Comentários às alterações no CP, CPP e LEP", Salvador: Editora "JusPodivm", 2020, p. 65).
+Não fosse o suficiente, importante destacar que os delitos em tela ocorreram no ano de 2011, oportunidade em que as vítimas registraram boletim de ocorrência e manifestaram interesse na apuração dos fatos, bem como na punição dos responsáveis, muito tempo antes da Lei nº 13.964/19, denominada de Pacote Anticrime. Nesse sentido:
+ ..
+Dessarte, é prescindível a representação da vítima no delito de estelionato se a denúncia fora oferecida em momento anterior à vigência da Lei nº 13.964/19, em atenção ao ato jurídico perfeito" (fls. 412/414).
+Destaque-se que, no caso concreto, o acórdão impugnado foi lavrado em 28/9/2021, não tendo tal tese defensiva sido arguida nesta Corte Superior desde então.
+Com efeito, ao tempo do julgamento da apelação, a jurisprudência desta Corte Superior e do Supremo Tribunal Federal era pacífica no sentido de que a necessidade de representação da vítima como condição de procedibilidade da ação penal por crime de estelionato somente retroagiria nos casos em que ainda não houvesse denúncia oferecida.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. ART. 171, §5º, DO CP. REPRESENTAÇÃO DA VÍTIMA. IRRETROATIVIDADE DA LEI AOS PROCESSOS EM CURSO.
+1. "Em consonância à orientação do Supremo Tribunal Federal, a Terceira Seção deste STJ, no julgamento do HC 610.201/SP em 24/3/2021, superando divergência entre as Turmas, pacificou a controvérsia e decidiu pela irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia"(AgRg no HC n. 625.333/SC, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/4/2021).
+2. Agravo regimental provido para denegar a ordem.
+(AgRg no HC n. 613.247/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ESTELIONATO. REPRESENTAÇÃO DA VÍTIMA. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. IRRETROATIVIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Em razão das alterações promovidas pela Lei n. 13.964/2019, a retroatividade da representação no crime de estelionato não alcança o processo cuja denúncia já foi oferecida" (AgRg no HC 641.684/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 6/8/2021).
+2. A ausência de manifestação de interesse da vítima em prosseguir com a ação penal por crime de estelionato antes da entrada em vigor da Lei n. n. 13.964/2019 não implica em extinção da punibilidade do autor do crime.
+3. Agravo Regimental no Recurso em habeas corpus desprovido.
+(AgRg no RHC n. 147.045/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.)
+No mesmo sentido, trago julgados do ano de 2023:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. PROCESSUAL PENAL. PLEITOS ABSOLUTÓRIOS DOS CRIMES DE ABORTO E ESTELIONATO CONSUMADO E ESTELIONATO TENTADO. REVOLVIMENTO DO QUADRO FÁTICO. INVIÁVEL NA VIA ESTREITA DO MANDAMUS. RETROTIVIDADE DO ART. 171, § 5.º, DO CÓDIGO PENAL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias concluíram pela presença de provas suficientes quanto à autoria, à materialidade e ao elemento subjetivo do tipo penal, a inversão do julgado, de maneira a fazer prevalecer o pedido de absolvição dos Agravantes, demandaria o revolvimento do quadro fático-probatório, o que é inviável no âmbito do habeas corpus.
+2. A jurisprudência da Terceira Seção do Superior Tribunal de Justiça está sedimentada no sentido de que, em crime de estelionato, a necessidade de representação das Vítimas, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança o processo cuja denúncia tenha sido oferecida antes da vigência da citada norma, tal como ocorre na hipótese dos autos.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 711.224/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/5/2023, DJe de 19/5/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284 DO STF. APLICAÇÃO RETROATIVA DO ART. 171, § 5º, DO CP. DESCABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. AGRAVO REGIMENTAL DESPROVIDO.
+1. A indicação dos dispositivos legais objeto do recurso especial é requisito de admissibilidade indispensável ao seu conhecimento.
+Incidência da Súmula 284 do STF.
+2. A exigência de representação da vítima no estelionato, introduzida no art. 171, § 5º, do CP, só tem aplicabilidade aos processos em que a denúncia ainda não havia sido recebida quando da entrada em vigor da Lei n. 13.964/2019.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.241.092/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/3/2023, DJe de 23/3/2023.)
+Em que pese existir julgados recentes do Pretório Excelso em sentido oposto ao consolidado nesta Corte Superior, entendo que "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+No mesmo sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA REVISÃO CRIMINAL. MUDANÇA JURISPRUDENCIAL. NÃO CABIMENTO DA REVISÃO CRIMINAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A mudança ou modificação na orientação jurisprudencial, mesmo que favorável ao condenado, não autoriza o uso da revisão criminal, conforme firme entendimento desta Corte e do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+(AgRg nos EDcl na RvCr n. 5.544/DF, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 10/8/2022, DJe de 17/8/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE. REVISÃO CRIMINAL. LESÃO CORPORAL DE NATUREZA GRAVE. COMPENSAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA COM A AGRAVANTE DO MOTIVO TORPE NA SEGUNDA FASE DA DOSIMETRIA DA PENA. APLICAÇÃO RETROATIVA DE ENTENDIMENTO JURISPRUDENCIAL. IMPOSSIBILIDADE.
+1. A partir do julgamento dos EREsp n. 1.154.752/RS, ocorrido em 3/5/2012 (acórdão publicado no DJe de 4/9/2012), consolidou-se a jurisprudência do STJ de admitir a compensação da agravante da reincidência - e, mutatis mutandis, do motivo torpe - com a atenuante da confissão espontânea na segunda fase da dosimetria da pena, por serem circunstâncias igualmente preponderantes, nos termos do art. 67 do Código Penal.
+2. A mudança de entendimento jurisprudencial não autoriza o ajuizamento de revisão criminal visando sua aplicação retroativa.
+3. Agravo regimental provido para conhecer do agravo em recurso especial e negar provimento ao recurso especial.
+(AgRg no AREsp n. 1.753.775/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 3/8/2021, DJe de 6/8/2021.)
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se."
+Como visto, a jurisprudência dominante nesta Corte Superior e no Supremo Tribunal Federal à época do julgamento da apelação era no sentido de que a exigência de representação em relação ao crime de estelionato somente seria aplicável aos casos em que a denúncia ainda não houvesse sido ofertada quando da entrada em vigor da Lei n. 13.964/2019.
+Ainda que consolidada a reversão de sentido dos julgado, "a mudança de entendimento jurisprudencial não autoriza à parte litigante pleitear a sua aplicação retroativa, por uma questão de segurança e estabilidade jurídica" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022).
+Ademais, o acórdão proferido no julgamento da apelação trouxe que "os delitos em tela ocorreram no ano de 2011, oportunidade em que as vítimas registraram boletim de ocorrência e manifestaram interesse na apuração dos fatos, bem como na punição dos responsáveis, muito tempo antes da Lei nº 13.964/19, denominada de Pacote Anticrime".
+Nos termos da jurisprudência consolidada nesta Corte Superior "a representação, nos crimes de ação penal pública condicionada, prescinde de formalidades. Dessa forma, pode ser depreendida do boletim de ocorrência e de declarações prestadas em juízo (AgRg no REsp 1.912.568/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021)" (AgRg no RHC n. 168.517/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/10/2022).
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental no habeas corpus.
