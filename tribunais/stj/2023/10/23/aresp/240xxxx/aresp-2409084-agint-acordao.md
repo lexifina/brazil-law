@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+EDNALVA DE JESUS SANTOS GOMES interpõe agravo interno contra julgado da Presidência que, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ, porquanto não foram impugnados todos os fundamentos da inadmissão do recurso especial (fls. 407-409).
+Nas razões do presente recurso, a agravante restringe-se a repetir as razões expostas no agravo em recurso especial e a requerer o julgamento colegiado do recurso.
+Impugnação às fls. 480-484 .
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno não conhecido.
+VOTO
+O agravo não merece conhecimento.
+Conforme a jurisprudência pacífica desta Corte, os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgInt nos EREsp n. 1.841.540/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 24/8/2022, DJe de 16/9/2022).
+Consta da decisão de fls. 407-409 que a ora agravante, nas razões do agravo em recurso especial, não contestou adequadamente todos os fundamentos da decisão então agravada.
+A decisão que inadmitiu o recurso especial adotou os seguintes fundamentos: ausência de demonstração da alegada vulneração dos arts. 355, I, 369 e 370 do CPC e 2º, 6º, V, VI, VII e VIII, 14, 39, I, IV e V, 42, parágrafo único, 43, 51 e 54 do CDC; incidência da Súmula n. 7 do STJ; ausência de similitude fática entre os acórdãos confrontados; e a impossibilidade de alegação de divergência com súmula.
+Entretanto, a parte agravante, nas razões do agravo em recurso especial, deixou de impugnar especificamente a ausência de similitude fática entre os acórdãos confrontados e a impossibilidade de alegação de divergência com súmula.
+Neste agravo interno, restringe-se a repetir as razões expostas no agravo em recurso especial e a requerer o julgamento colegiado do recurso.
+Em momento algum infirmou o fundamento da decisão, a saber, a não impugnação específica de todos os fundamentos da decisão que não conhecera do agravo em recurso especial (Súmula n. 182 do STJ).
+Assim, a ausência de impugnação do fundamento da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. INOVAÇÃO. IMPOSSIBILIDADE. DECISÃO AG RAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC/2S015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO. INVIABILIDADE.
+1. É impossível a análise de teses alegadas apenas nas razões do agravo interno por se tratar de evidente inovação recursal.
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disp osto no art. 1.021, § 1 º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+3. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+4. Agravo interno não conhecido. (AgInt no REsp n. 1.964.122/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 12/9/2022, destaquei.)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
