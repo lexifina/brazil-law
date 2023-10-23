@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, apresentada por AGRISUL AGRÍCOLA LTDA - EM RECUPERAÇÃO JUDICIAL e OUTRAS contra decisão proferida pelo JUÍZO DA 3ª VARA DE ADAMANTINA - SP.
+Ação: cautelar de arresto, convertida em execução, ajuizada por COOPERATIVA AGRÍCOLA MISTA DE ADAMANTINA em face de JOSÉ PESSOA DE QUEIROZ BISNETO E ENERGÉTICA BRASILÂNDIA LTDA - EM RECUPERAÇÃO JUDICIAL.
+Decisão impugnada: determinou o bloqueio de ativos financeiros da reclamante ENERGÉTICA.
+Decisão apontada como descumprida: deu "provimento ao recurso especial para cassar o acórdão recorrido e manter a decisão agravada do juiz de primeiro grau, que entendeu ser competência do juízo da recuperação judicial decidir acerca da possibilidade de expropriação de bem da empresa recuperanda" (e-STJ fl. 70).
+Reclamação: alega que o juízo reclamado, ao dar prosseguimento à execução e determinar a constrição de bens da recuperanda, contrariou referida decisão do STJ. Isso porque, segundo afirma, houve o reconhecimento, por esta Corte, de que a competência para "decidir acerca da prática de atos tendentes à constrição e alienação de bens que integram o patrimônio das empresas pertencentes ao Grupo CBAA" (e-STJ fl. 25) é do juízo recuperacional.
+RELATADOS OS FATOS, DECIDE-SE.
+A decisão apontada como descumprida (prolatada no AREsp 767.698/SP) cassou o acórdão recorrido e manteve "a decisão agravada do juízo de primeiro grau, que entendeu ser competência do juízo da recuperação judicial decidir acerca da possibilidade de expropriação de bem da empresa recuperanda" (e-STJ fl. 70).
+O bem em questão (veja-se que o dispositivo da decisão, transcrito acima, utiliza a expressão "bem" no singular) era o imóvel que servia de sede à recuperanda (e-STJ fl. 537 do AREsp 767.698/SP), matriculado no CRI da 1ª Circunscrição de Bataguassu - MS sob o n. 9.313 (e-STJ fl. 540 do AREsp 767.698/SP).
+Diante disso, não tendo havido manifestação do STJ, na decisão indicada como descumprida, acerca da possibilidade ou não de bloqueio dos valores constritos pelo juízo reclamado - sendo certo que não se pode extrapolar os efeitos do pronunciamento desta Corte Superior para todo e qualquer bem das recuperandas que venha a ser penhorado -, deve ser rejeitada, de plano, a pretensão das reclamantes.
+De fato, se a reclamação fundada na alegação de afronta à autoridade de julgado desta Corte não pode ser admitida quando não houver demonstração de ofensa clara e direta ao que determinado em referido julgado (AgRg na Rcl 15.159/RJ, Segunda Seção, DJe 6/12/2013), inviável admitir-se que a autoridade da decisão do STJ possa ser desrespeitada quando sequer existiu efetivo pronunciamento acerca da questão decidida pelo juízo reclamado.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação.
+Deixo de fixar honorários advocatícios de sucumbência, tendo em vista que não foi angularizada a relação processual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
