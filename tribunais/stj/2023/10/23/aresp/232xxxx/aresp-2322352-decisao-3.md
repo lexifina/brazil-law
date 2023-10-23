@@ -1,0 +1,15 @@
+DECISÃO
+HELSON SEBASTIÃO BARBOZA DOS PRAZERES agrava de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que negou provimento ao apelo defensivo e manteve a condenação do recorrente em 8 anos e 4 meses de reclusão, em regime inicial fechado, por violação aos artigos 308, §1º e 303, §1º, na forma do artigo79, todos do Código Penal Militar.
+A defesa aponta a violação dos arts. 439, alíneas "d" e "e" do CPPM, bem como ao § 1º do artigo 308 do CPM, além do que dispõe os artigos 935, 936 e 937 do Código de Processo Civil, do artigos 3º do CPP, 5º da LINDB e artigo 5º, inciso LX da Constituição Federal. Sustenta, em síntese: a) nulidade do julgamento do recurso de apelação tendo em conta o adiamento do seu julgamento sem publicação da pauta; b) nulidade decorrente da antecipação dos votos, o que maculou a imparcialidade dos julgados; c) que deve ser reconhecida a excludente de culpabilidade consistente na inexigibilidade da conduta diversa.
+Contrarrazões às e-STJ fls. 6.020/6.046.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 6.453/6.456.
+É o relatório. Decido.
+A irresignação não prospera.
+Anota-se, inicialmente, que nos termos da jurisprudência do Superior Tribunal de Justiça, não é possível, em julgamento de recurso especial, analisar suposta violação a dispositivo da Constituição Federal, sob pena de usurpação da competência pertencente ao Supremo Tribunal Federal.
+Também não compete a esta Corte, em sede de recurso especial, reapreciar norma de direito local (regimento interno do Tribunal de Justiça) para aferir se as regras internas foram corretamente aplicadas. Incidente, por analogia, o óbice da Súmula 280/STF.
+De toda forma, anota-se que segundo pacífica jurisprudência do Superior Tribunal de Justiça, incluído o processo em pauta, com a regular intimação das partes, e, ocorrendo o adiamento da sessão de julgamento para até três sessões subsequentes, torna-se dispensável nova intimação (ut, HC n. 552.123/SP, desta Relatoria, DJe 17/2/2020).
+Registra-se, também, que tal como entendeu o TJRJ, inexiste impedimento de Desembargadora que participou da renovação do julgamento do Recurso de Apelação, mesmo que tenha participado do primeiro julgado, anteriormente anulado (ut, AgRg no AREsp n. 16.162/MS, relatora Ministra Marilza Maynard - Desembargadora Convocada do TJ/SE -, Sexta Turma, DJe de 5/5/2014.)
+Por fim, a apreciação da tese recursal relativa à inexigibilidade de conduta diversa, importaria o revolvimento de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte Superior. A propósito: AgRg no AREsp n. 2.368.015/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 28/8/2023.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
