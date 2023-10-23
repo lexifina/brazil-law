@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO ROBERTO IUNG, contra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ e 284 do STF, bem como pela ausência de demonstração de similitude fática.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão (Apelação Cível n. 1001950-68.2020.8.26.0279) assim ementado (fl. 324):
+COMPRA E VENDA. VEÍCULO. AÇÃO MONITÓRIA. EXCEÇÃO DE INADIMPLEMENTO REJEITADA. CORREÇÃO MONETÁRIA E JUROS DE MORA. INCIDÊNCIA A PARTIR DO VENCIMENTO DE CADA PARCELA NÃO PAGA. DEFINIÇÃO CORRETA. PROCEDÊNCIA MANTIDA. RECURSO IMPROVIDO, COM OBSERVAÇÃO. 1. A análise dos elementos dos autos não permite concluir tenham os demandantes vendedores descumprido obrigações contratuais, de modo que não incide na hipótese a exceção do contrato não cumprido, o que determina a persistência do resultado da r. sentença. 2. A finalidade da correção monetária é preservar o poder de compra da moeda, sem nada acrescer ao valor expressado. Fixado um termo para o cumprimento da obrigação de pagar quantia, esse deve ser o marco inicial do cômputo da correção, como forma de assegurar a exata realidade do valor na oportunidade do pagamento. 3. Tratando-se de obrigação a termo, uma vez constatado o inadimplemento, os juros moratórios fluem a partir da data de vencimento de cada mensalidade (art. 397 do CC). 4. Diante do resultado deste julgamento, eleva-se o montante da verba honorária a 15% do valor atualizado da condenação, na forma do artigo 85, § 11, do CPC, ressalvada a inexigibilidade decorrente da gratuidade judicial.
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 405 e 476 do Código Civil e 1º, § 2º, da Lei n. 6.899/1981. Defende, em síntese, que:
+a) "a Recorrida não pode exigir o cumprimento da obrigação do Recorrente, diante de seu próprio descumprimento contratual" (fl. 343);
+b) "o juízo primeiro foi levado a erro pelo requerimento inicial, tendo deferido a aplicação de juros de mora e correção monetária, a serem calculados a partir de cada parcela inadimplida" (fl. 348); e
+c) os juros de mora "devem ser contados a partir do ato citatório, e não dos vencimentos de parcelas" (fl. 349).
+Requer o conhecimento e o provimento do recurso para "que seja reformada a decisão recorrida, pela latente violação a dispositivos de Lei Federal, qual seja, o Código Civil, em seus artigos 476 e 405 e artigo 1º § 2º da Lei nº. 6.899/81" (fl. 352).
+As contrarrazões foram apresentadas (fls. 355-367).
+É o relatório. Decido.
+O recurso não deve prosperar.
+No mérito, a Corte de origem analisou as questões apresentadas e concluiu o seguinte (fls. 330-333):
+Primeiramente, tem-se que não há divergência entre as partes quanto à existência do contrato de compra e venda do veículo e, também, no tocante ao fato de que o réu deixou de adimplir as prestações indicadas na petição inicial.
+ ..
+A alegação do demandado não é verossímil, uma vez que não demonstrou ter realizado qualquer providência para compelir os autores a entregarem os documentos necessários ou mesmo alguma solicitação não atendida por eles.
+ ..
+Assim, não há que se falar em aplicação da exceção do contrato não cumprido.
+Prosseguindo, deve-se observar que a correção monetária não constitui acréscimo. Na verdade, é voltada a garantira exata realidade de valor, evitando os efeitos corrosivos da inflação. Por isso mesmo, a sua aplicação é necessária para permitir que o valor, na oportunidade do pagamento, corresponda exatamente ao poder de compra da moeda na data do vencimento.
+Sua incidência nada tem de ilegal, consoante pacífico entendimento jurisprudencial que se encontra consolidado há décadas, não havendo razão para qualquer dúvida. Negar sua incidência seria patrocinar o enriquecimento ilícito, pois implicaria em redução do valor do próprio principal da dívida. Deve ser computada a partir de cada vencimento.
+De igual modo, verifica-se que também os juros moratórios devem ser contados a partir do vencimento. Basta observar que se trata de obrigação a termo, de modo que a simples inadimplência na respectiva data de vencimento faz configurar a mora do devedor, sujeitando-o desde logo aos juros (artigos 394 e 395 do Código Civil).
+Quanto às suscitadas violações dos arts. 405 do Código Civil e 1º, § 2º, da Lei n. 6.899/1981, os  referidos  dispositivos  não  foram  objeto  de  debate  pelo  Tribunal  a  quo  e sequer verificou-se a  oposição  dos  embargos  de  declaração,  de  modo  que  não  houve  o  indispensável  prequestionamento.
+Caso,  pois,  de  aplicação  das  Súmulas  n.  282  e 356  do  STF.
+De  acordo  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  "para que se tenha por prequestionada determinada matéria, faz-se necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, o qual deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir pela sua aplicação ou seu afastamento em relação a cada caso concreto" (AgInt nos EDcl no AREsp n. 1.801.606/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022).
+A  propósito:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. VEDAÇÃO À DECISÃO SURPRESA. AUSÊNCIA DE PREQUESTIONAMENTO. PRÉVIA LIQUIDAÇÃO DE SENTENÇA. NULIDADE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULA 283/STF. ASSOCIAÇÃO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. POSSIBILIDADE. ALCANCE. PATRIMÔNIO DE DIRIGENTES E ASSOCIADOS COM PODERES DE GESTÃO. REQUISITOS VERIFICADOS PELO ACÓRDÃO RECORRIDO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. FIXAÇÃO DE VERBA HONORÁRIA. INADMISSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A suposta nulidade do acórdão recorrido, decorrente da ofensa ao princípio do contraditório, não foi objeto de debate pelas instâncias ordinárias. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, a atrair, por consequência, o óbice das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+ ..
+7. Recurso especial parcialmente conhecido para, nessa extensão, negar-lhe provimento. (REsp n. 1.812.929/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2023, DJe de 28/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. IMPUGNAÇÃO À PENHORA DE IMÓVEL RURAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. IMPENHORABILIDADE REJEITADA PELO TRIBUNAL ESTADUAL. VIOLAÇÃO AO ART. 833, VIII, DO CPC/2015. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.326.224/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+No que se refere à apontada ofensa ao art. 476 do Código Civil, a instância de origem concluiu que (fl. 331)
+A alegação do demandado não é verossímil, uma vez que não demonstrou ter realizado qualquer providência para compelir os autores a entregarem os documentos necessários ou mesmo alguma solicitação não atendida por eles.
+Entendeu ainda que "não há que se falar em aplicação da exceção do contrato não cumprido" (fl. 332).
+Nesse contexto, a pretensão de novo pronunciamento a respeito dos temas elencados implicaria análise contratual e de documentos, bem como o reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito:
+PROCESSO CIVIL E DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL E REPARATÓRIA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS EM TESE VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. INADIMPLEMENTO CONTRATUAL. COMPORTAMENTO CONTRADITÓRIO. PROIBIÇÃO. SÚMULA 83/STJ. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de particularização dos dispositivos de lei federal em tese violados pelo aresto recorrido caracteriza deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o óbice da Súmula 284/STF.
+2. O Tribunal a quo decidiu em sintonia com a jurisprudência do STJ, ao repreender o comportamento denominado "venire contra factum proprio". Incidência da Súmula 83/STJ ao recurso especial.
+3. "A pretensão de alterar o entendimento do acórdão recorrido acerca da aplicação da exceção do contrato não cumprido demandaria a análise e interpretação de cláusulas contratuais e o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor das Súmulas 5 e 7 do STJ" (AgInt no AREsp 502.075/RJ, R elator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/3/2022, DJe de 19/4/2022).
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.167.223/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/2/2023, DJe de 24/2/2023.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em favor da parte ora recorrida, os honorários advocatícios de 15%, percentual arbitrado na instância de origem, para 18% sobre o valor da condenação.
+Publique-se. Intimem-se.
+EMENTA
