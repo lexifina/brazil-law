@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 596/602) interposto contra decisão da eminente Ministra Presidente desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, o agravante insurge-se contra a aplicação da Súmula n. 7/STJ, aduzindo que " n ão se pretende rediscutir ou valorar provas ou fatos narrados na demanda, mas sim, demonstrar aquelas já existente nos autos" (e-STJ fl. 600).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 606/612).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.378.279 - SC (2023/0186400-1)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+JAIRO CAMILO RANGHETTI
+ADVOGADO
+:
+JEANDRO JOSÉ KLOCK - SC013690
+AGRAVADO
+:
+ASSOCIAÇÃO DOS PROPRIETÁRIOS DE VEÍCULOS DE SANTA CATARINA
+ADVOGADOS
+:
+PEDRO IVO KLUG - SC016754
+PEDRO CASCAES NETO - SC026536
+EDUARDO HIRT - SC027532
+NELSON HAMILTON LEIRIA - SC043885
+AGDA MÁIRA QUEIROZ DOS REIS - SC051445
+GABRIELA MARCHIORO CARVALHO - SC051560
+ALEXA SCHMITT DE SOUSA - SC063297
+PRISCILA LEIRIA - SC026903
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 588/592):
+Cuida-se de agravo apresentado por JAIRO CAMILO RANGHETTI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR ACIDENTE DE TRÃNISTO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR E DA DENUNCIANTE. PRELIMINAR. ILEGITIMIDADE ATIVA AD CAUSAM. ASSOCIAÇÃO QUE COMPROVOU TER ARCADO COM CUSTO DE PERDA DE VEÍCULO CADASTRADO POR SEU ASSOCIADO. SUB- ROGAÇÃO. CC, ART. 347. CONDIÇÃO DA AÇÃO QUE SE APRESENTA. RECURSO DO DEMANDADO. CONDUTOR DO CAMINHÃO PERTENCENTE AO REQUERIDO QUE ADENTRARA NA RODOVIA DE INOPINO, IMPOSSIBILITANDO QUE AQUELE DE PROPRIEDADE DE ASSOCIADO DA REQUERENTE. CARREGADO E TRAFEGANDO EM VELOCIDADE COMPATÍVEL COM O LOCAL, FREASSE OU EFETUASSE MANOBRA DE DESVIO. BOLETIM DE OCORRÊNCIA, ADEMAIS, ELABORADO COM BASE NOS RELATOS DOS DOIS CONDUTORES, QUE ATESTA A DINÂMICA DO INFORTÚNIO. DOCUMENTO LAVRADO POR AUTORIDADE POLICIAL, COM PRESUNÇÃO JÚRIS TANTUM DE VERACIDADE, SEM QUE PROVA SUFICIENTE TENHA SIDO PRODUZIDA PARA DESCONSTITUI- LO. MANOBRA DE ENTRADA EM RODOVIA EFETIVADA SEM O CUIDADO NECESSÁRIO QUE FOI RESPONSÁVEL PELA COLISÃO. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSOS CONHECIDOS E DESPROVIDOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos art. 29, inciso II, e 42 do Código de Trânsito Brasileiro, no que concerne à responsabilidade da parte recorrida pelo acidente de trânsito, trazendo a seguinte argumentação:
+Alem disso, a alegação que o veículo de propriedade do recorrente teria ingressado abruptamente na rodovia não é verdadeira, pois, restou demonstrado pelo depoimento da testemunha Antonio e pelo condutor do veículo, que o mesmo transitava na rodovia pelo menos 01 (um) quilômetro, o que por si só, demonstra que o mesmo já transitava em velocidade compatível, bem como, dava plenas condições do condutor do veículo da Engeterra visualiza-lo sem que houvesse colisão entre os veículos.
+Portanto, resta claro que o veículo da recorrente não ingressou abruptamente na rodovia, mas sim, já transitava na mesma quando foi abalroado em sua traseira, pelo veículo da Engeterra que transitava em altíssima velocidade e não conseguiu reduzir sua velocidade.
+Os danos verificados nos veículos são suficientes para demonstrar que os veículos sofreram danos de grande monta, o que por si só, demonstra que o veículo da Engeterra transitava em alta velocidade e por este motivo seu condutor não conseguiu manter seu domínio e colidiu na traseira do veículo que seguia a frente.
+Portanto, Nobres Julgadores, está plenamente demonstrado nos autos que o condutor do veículo da Engeterra colidiu na traseira do veículo do recorrente que transitava pela Rodovia BR 101 em velocidade compatível com o local, por sua única e exclusiva culpa.
+Demonstrada a culpa do condutor do veículo da Engeterra, outra conclusão não há, senão, a improcedência da presente ação.
+ ..
+Feitas tais considerações podemos afirma que o Tribunal de Justiça de Santa Catarina contrariou os artigos 29 inciso II e 42 do Código de Transito Brasileiro, sendo desnecessário o aprofundamento e reexame de provas para tal conclusão.
+Conforme amplamente delineado nos autos, não há dúvidas que o veículo da recorrida colidiu na traseira daquele de propriedade do recorrente. (fls. 527-528, grifo meu).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados para sustentar a tese recursal, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+Nesse sentido, vale citar os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE. FUNDAMENTAÇÃO DEFICIENTE. EXECUÇÃO FISCAL. RFFSA E UNIÃO. TRANSFERÊNCIA PATRIMONIAL. CURSO DA DEMANDA. SUCESSORA. REDIRECIONAMENTO. POSSIBILIDADE. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Os apontados arts. 130 e 131 do CTN não têm comando normativo para amparar a tese de imunidade do IPTU em favor da RFFSA, visto que tais dispositivos legais cuidam de tema diverso, referente à responsabilidade tributária por sucessão, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+ ..  (AgInt no REsp n. 1.764.763/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/11/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). PREQUESTIONAMENTO. AUSÊNCIA. FUNÇÃO DESEMPENHADA PELO CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. No que tange à aduzida ofensa ao art. 12, § 1º, VI, da Lei n. 10.931/04, o presente recurso não merece prosperar, porquanto o referido dispositivo não confere sustentação aos argumentos engendrados. Incidência da Súmula 284/STF.
+5. O mesmo óbice representado pelo enunciado da Súmula 284/STF incide no que diz respeito à alegada ofensa aos arts. 421 e 425 do Código Civil, que veiculam comandos normativos demasiadamente genéricos e que não infirmam as conclusões do Tribunal de origem.
+ ..
+7. Agravo interno não provido. (AgInt no AREsp n. 1.674.879/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/03/2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018; AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020; AgInt nos EDcl no REsp n. 1.709.059/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 18/12/2020; e AgInt no REsp n. 1.790.501/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/03/2021.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+2.1. A parte demandada, sem razão, sustenta ter comprovado a culpa do associado da demandante pelo sinistro, com base no depoimento de informante e testemunha.
+ ..
+A responsabilidade civil subjetiva pressupõe, assim, a demonstração da culpa ou dolo do agente, do nexo de causalidade entre o ato ilícito e o dano, e o prejuízo "que viole qualquer valor inerente à pessoa humana ou atinja coisa do mundo externo que seja juridicamente tutelada" (NORONHA, Fernando. Direito das Obrigações: v. 1. São Paulo: Saraiva, 2003. p. 474).
+In casu, a pretensão do autor ampara-se na responsabilidade civil extracontratual ou aquiliana e, assim, compete a ela provar os fatos constitutivos do seu direito (CPC, art. 373, I).
+Acerca da dinâmica do sinistro e da solução judicial que deve ser dada ao impasse, o Magistrado sentenciante, Dr. Caio Lemgruber Taborda, analisou a questão com bastante atenção aos fatos e provas constantes dos autos, de modo que, como a solução empregada ao caso mostra-se correta, acolho os fundamentos da bem lançada sentença como razão de meu convencimento:
+ ..
+Como se percebe, conquanto o Juiz de primeiro grau tenha feito referência aos relatos do informante que conduzia o veículo da associada da demandante (processo 0024164-11.2013.8.24.0008/SC, evento 87, VÍDEO356), sua conclusão está amparada principalmente no Boletim de Ocorrência, que tem presunção de veracidade. Segundo esse documento, lastreado nas afirmações de ambos os motoristas, o veículo pertencente ao réu "transitava pela faixa da direita, em velocidade reduzida, por ter recém acessado a rodovia", quando o outro colidiu na traseira daquele (evento 61, ANEXO25, origem).
+O que ressai desse relato é que o veículo pertencente ao requerido efetivamente há pouco adentrara a BR 101 quando o acidente ocorreu, demonstrando que a manobra foi realizada sem o devido cuidado, pois impossibilitou que o caminhão de propriedade da associada da requerente, que trafegava a aproximadamente 80km/h e estava carregado com mais de 30t, freasse ou efetuasse manobra de desvio.
+Ademais, verifico contradição entre as informações prestadas ao juízo e à autoridade policial pelo motorista do caminhão que pertence ao réu, igualmente ouvido na condição de informante (evento 80, VÍDEO219, origem), pois, no primeiro momento, como visto acima, relatou estar em velocidade reduzida por ter entrado havia pouco na rodovia, mas depois mudou completamente a versão, aduzindo trafegar a mais de 70km/h e já ter dirigido um quilômetro depois que adentrara na BR 101, quando houve a colisão. Ora, são muito mais confiáveis, em casos como o presente, aquelas informações prestadas logo após o ocorrido. Vislumbro inconsistência, também, nos relatos da testemunha Antônio, proprietário de comércio no local, que teria visto o caminhão do requerido sair da empresa de conserto de tacógrafos, onde estava, ingressando na rodovia, e ter testemunhado o acidente, ocorrido dois quilômetros depois disso (evento 80, VÍDEO220, origem). Presenciar tudo isso por volta das 10h30min, enquanto se trabalha já causa espanto, mas o que traz mais dúvida ao testemunho é a contradição com o relato do condutor do caminhão do demandado. Segundo esse motorista, o próprio réu conduzia um carro e saiu logo depois de si dessa empresa de conserto de tacógrafo, mas a testemunha Antônio não viu esse segundo veículo.
+Tenho, assim, que não desconstituída a presunção de veracidade atribuída ao boletim de ocorrência, de modo que foi feita prova da culpa do réu pelo acidente, ônus que competia ao autor (CPC, art. 373, I).
+ ..
+Destarte, diante da ausência de prova contundente de eventual contribuição da associada da parte autora para ocorrência do sinistro, tem-se a conduta do demandado - ao adentrar na pista de inopino - como único e exclusivo nexo causal, razão pela qual, deve ser exclusivamente responsabilizado pela compensação das consequências do acidente.
+Diante do exposto, deve ser mantida a sentença que reconheceu a culpa exclusiva da parte demandada pelo sinistro, negando-se provimento ao seu apelo. (fls. 509-514).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No caso, a decisão agravada se fundamentou nas Súmulas n. 284/STF e 7/STJ.
+No agravo interno, todavia, o agravante insurge-se contra o resultado que lhe foi adverso sem proceder à impugnação da Súmula n. 284/STF, fundamento suficiente para manter o juízo emitido.
+Deixando o recorrente de rebater especificamente cada ponto da decisão ora agravada, incide a Súmula n. 182/STJ:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA. FUNDAMENTOS NÃO COMBATIDOS. ART. 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. ENUNCIADO 182 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgRg no Ag n. 1.155.777/PE, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/5/2016, DJe 18/5/2016.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
