@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM.  CUMPRIMENTO  DE  SENTENÇA.  MEDIDA  LIMINAR.  PLANO  DE  SAÚDE.  OBRIGAÇÃO  DE  FAZER.  DESCUMPRIMENTO.  TRATAMENTO  DE  SAÚDE.  TRANSTORNO  DO  ESPECTRO  AUTISTA .  PACIENTE  MENOR.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  No  caso,  acolher  a  tese  pleiteada  pela  agravante  de  que  não  ocorreu  o  descumprimento  da  obrigação  de  fazer  determinada  em  sentença  e  pela  medida  liminar  para  o  tratamento  de  saúde  ao  menor  -  portador  de  Trans torno  do  Espectro  Autista  -  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas,  procedimento  vedado  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NOTRE  DAME  INTERMÉDICA  SAÚ DE  S.A.  contra  a  decisão  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial  em virtude dos  seguintes  fundamentos:
+(a)  óbice  da  Súmula  nº  282/STF,  devido  à  ausência  de  debate  no  acórdão  estadual  das  matérias  contidas  nos  arts.  9º,  10,  11,  821,  248,  396  e  816,  parágrafo  único  do  Código  de  Processo  Civil  e  393,  402,  403,  412  e  884  do  Código  Civil.
+(b)  impedimento  da  Súmula  nº  7/STJ,  e
+(c)  harmonia entre o  acórdão  r  ecorrido  e  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  o  que  atraiu  o  óbice  da  Súmula  nº  568/STJ.
+Em  suas  razões,  a  recorrente  insiste  na  tese  de  que  o  agravado  formulou  pedido  em  confronto  com  os  requisitos  formais  de  admissibilidade  previstos  nos  art.  816  e  821  do  Código  de  Processo  Civil.
+Desse  modo,
+"(..)  suscitou  em  sede  recursal  quanto  a  má-fé  do  agravado,  ao  passo  que  o  mesmo  requer  a  conversão  em  perdas  e  danos  sem  ter  desembolsado  valores,  caracterizando,  evidentemente,  o  enriquecimento  ilícito,  previsto  no  artigo  884,  do  CC.
+  A  finalidade  deste  pedido  é  obter  o  desvio  de  finalidade  do  instituto  de  perdas  e  danos,  o  qual  fora  arguido  tanto  no  cumprimento  de  sentença  quanto  em  sede  recursal,  restando,  portanto,  prequestionada  tal  matéria,  ante  a  infração  ao  arts  402,  403  e  412  do  CC"  (fl.  270,  e-STJ).
+Argumenta,  ainda,  que  o  valor  executado  encontra-se  exagerado,  motivo por que  deve ser reduzido.
+Aduz  que  o  enriquecimento  ilícito  é  matéria  de  ordem  pública.
+Refuta  o  óbice  da  Súmula  nº  7/STJ,  aludindo  que  a  matéria  discutida  no  recurso  especial  é  exclusivamente  de  direito  e  não  há  falar  em  reexame  de  provas.
+  Reconhece  que,
+"(..)  ao  contrário  do  que  prevaleceu  na  r.  decisão  monocrática,  esta  agravante  CUMPRIU  com  a  obrigação  imposta  de  modo  tempestivo,  em  conformidade  com  a  decisão  liminar  proferida,  e  eventual  atraso  decorreu  da  própria  desídia  da  parte  agravada,  tendo  em  vista  que  o  próprio  beneficiário  requereu  a  alteração  da  tutela  concedida,  a  fim  de  que  as  sessões  de  tratamento  fossem  disponibilizadas  de  forma  on-line,  ultrapassando,  portanto,  os  limites  da  tutela.
+Em  face  do  notório  cumprimento  da  obrigação  de  fazer,  torna-se  evidente  a  impossibilidade  de  converter  a  demanda  em  perdas  e  danos,  em  razão  do  cumprimento  tempestivo  da  obrigação  de  fazer,  a  qual  reiteradas  vezes  restou  comprovada  nos  autos"  (fl.  272,  e-STJ).
+Alega  que  a  utilização  de  recursos  cabíveis  para  a  defesa  dos  direitos  não  enseja  a  aplicação  de  multa  prevista  no  art.  1.021,  §  4º,  do  CPC.
+Ao  final,  requer  o  provimento  do  recurso  para  reformar  o  acórdão  estadual.
+A  parte  contrária  impugnou  o  recurso  às  fls.  287-303  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM.  CUMPRIMENTO  DE  SENTENÇA.  MEDIDA  LIMINAR.  PLANO  DE  SAÚDE.  OBRIGAÇÃO  DE  FAZER.  DESCUMPRIMENTO.  TRATAMENTO  DE  SAÚDE.  TRANSTORNO  DO  ESPECTRO  AUTISTA .  PACIENTE  MENOR.  REVISÃO.  SÚMULA  Nº  7/STJ.
+1.  No  caso,  acolher  a  tese  pleiteada  pela  agravante  de  que  não  ocorreu  o  descumprimento  da  obrigação  de  fazer  determinada  em  sentença  e  pela  medida  liminar  para  o  tratamento  de  saúde  ao  menor  -  portador  de  Trans torno  do  Espectro  Autista  -  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas,  procedimento  vedado  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  acolhida.
+A  princípio,  observa-se  que  a  agravante  impugnou  parcialmente  os  fundamentos  da  decisão  atacada, não rebatendo  a  falta  de  prequestionamento  dos  arts.  9º,  10,  11,  248  e  396  do  CPC  e  393  do  CC  -  item  (a).
+Além  disso,  não  impugnou  o  óbice  da  Súmula  nº  568/STJ  -  item  (c).
+Cumpre  assinalar  que  a  Corte  Especial  no  julgamento  do  s  EREsp  nº  1.424.404/SP,  Relator  o  Ministro  Luis  Felipe  Salomão,  DJe  17/11/2021,  pacificou  o  entendimento  de  que,  no  agravo  interno,  a  ausência  de  impugnação  de  fundamentos  aplicados  a  capítulos  autônomos  não  acarreta  o  não  conhecimento  do  recurso,  mas,  tão  somente,  preclusão  do  tema.
+Desse  modo,  quando  se  tratar  de  capítulo  autônomo  e  independente,  a  ausência  de  impugnação  acarreta  apenas  a  preclusão  da  matéria  não  impugnada,  não  ensejando  o  não  conhecimento  do  recurso  como  um  todo.  (EREsp  nº  1.424.404/SP,  Corte  Especial,  Rel.  Ministro  Luis Felipe Salomão,  DJe  17/11/2021.
+Assim,  procede  a  análise  da  parte  impugnada  no  presente  agravo  interno.
+Com  efeito,  a  agravante  ,  nas  razões  do  recurso  especial, aduziu  que  não  houve  descumprimento  da  obrigação  de  fazer  determinada  pela  sentença  transitada  em  julgado,  bem  como  por  medida  liminar.
+Todavia,  ao  contrário  do  afirmado  pela  recorrente,  o  tribunal  local,  ao  dirimir  a  questão, assim consignou:
+"(..)  infere-se  dos  autos  que  o  autor,  ora  agravado  é  portador  de  autismo  e  há  necessidade  do  tratamento  requerido  na  inicial,  tendo  sido  deferida  a  liminar  para  compelir  a  parte  agravante  a  fornecer  a  cobertura  integral  ao  tratamento  de  saúde  prescrito  por  médico  especialista.
+Isto  posto,  restou  comprovada  nos  autos  o  não  cumprimento  integral  da  obrigação,  de  modo  que  a  operadora  de  saúde  deixou  de  fornecer  parte  dos  procedimentos  requeridos,  sob  o  fundamento  de  impossibilidade  da  prestação  do  serviço  em  virtude  da  restrição  de  atendimento  em  clínicas  médicas  por  força  da  pandemia  por  Covid-19.
+Há,  assim,  indicativo  seguro  de  que  a  negativa  de  cumprimento  da  decisão  transitada  em  julgado  pela  recorrente  é  injustificada,  com  elevado  déficit  de  fornecimento  do  tratamento  liminarmente  concedido.
+Assim,  evidenciado  o  descumprimento  da  obrigação,  não  houve  comprovação  de  efetiva  impossibilidade  de  cumprimento  do  comando  judicial,  sendo  cabível  a  conversão  em  perdas  e  danos,  nos  termos  do  art.  499  do  CPC"  (fls.  112-113,  e-STJ).
+Nesse  contexto,  a  modificação  das  conclusões  do  acórdão  estadual  demandaria  a  incursão  no  conjunto  fático-probatório  procedimento  inadmissível  no  âmbito  de  recurso  especial,  nos  termos  da  Súmula  nº  7/STJ:  "A  pretensão  de  simples  reexame  de  prova  não  enseja  recurso  especial."
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PLANO  DE  SAÚDE.  NEGATIVA  DE  COBERTURA.  PROCEDIMENTO  DE  EMERGÊNCIA.  CONCLUSÃO  DO  ACÓRDÃO  PELA  CONFIGURAÇÃO  DOS  DANOS  MORAIS.  REVER  O  JULGADO.  IMPOSSIBILIDADE.  NECESSIDADE  DE  REEXAME  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  NÃO  DEMONSTRADO.  AUSÊNCIA  DE  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Tendo  o  Tribunal  de  origem  assentado  a  configuração  dos  danos  morais  diante  da  negativa  de  cobertura  ao  procedimento  de  emergência  solicitado,  não  há  como  rever  a  referida  conclusão  sem  proceder  ao  revolvimento  do  conjunto  fático-probatório  dos  autos,  o  que  é  vedado  pela  Súmula  n.  7  do  STJ.
+2.  A  recorrente  não  cumpriu  o  disposto  nos  arts.  1.029,  §  1º,  do  Código  de  Processo  Civil  de  2015  e  255,  §  2º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  pois  a  demonstração  da  divergência  não  se  perfaz  com  a  simples  transcrição  de  ementas,  mas  com  o  confronto  entre  trechos  do  acórdão  recorrido  e  das  decisões  apontadas  como  divergentes,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  o  que  não  foi  feito  na  hipótese.
+3.  Agravo  interno  improvido."
+(AgInt  no  AREsp  1.154.946/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  12/12/2017,  DJe  2/2/2018  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  CUMULADA  COM  INDENIZAÇÃO  POR  DANOS  MATERIAIS.  1.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  NÃO  CONFIGURADA.  2.  CONVERSÃO  EM  PERDAS  E  DANOS.  PARTE  IMPOSSÍVEL  DE  SER  CUMPRIDA.  ALEGAÇÃO  DE  JULGAMENTO  EXTRA  PETITA.  NÃO  OCORRÊNCIA.  SÚMULA  83/STJ.  3.  AUSÊNCIA  DE  INTERESSE  DE  AGIR.  MULTA  CONTRATUAL.  LUCROS  CESSANTES.  CABIMENTO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULAS  5  E  7  STJ.  4.  AGRAVO  IMPROVIDO.
+1.  Não  ficou  configurada  a  violação  do  art.  1.022  do  CPC/2015,  uma  vez  que  o  Tribunal  de  origem  se  manifestou  de  forma  fundamentada  sobre  todas  as  questões  necessárias  para  o  deslinde  da  controvérsia.  O  mero  inconformismo  da  parte  com  o  julgamento  contrário  à  sua  pretensão  não  caracteriza  falta  de  prestação  jurisdicional.
+2.  Em  relação  à  conversão  da  ação  em  perdas  e  danos,  o  Tribunal  de  origem  decidiu  de  acordo  com  o  entendimento  desta  Corte,  no  sentido  de  ser  lícito  ao  julgador  valer-se  das  disposições  da  segunda  parte  do  §  1º  do  art.  461  do  Código  de  Processo  Civil  para  determinar  a  conversão  da  obrigação  de  dar,  fazer  ou  não  fazer,  em  obrigação  pecuniária  na  parte  em  que  aquela  não  possa  ser  executada.
+3.  A  revisão  das  conclusões  estaduais  que  afastou  as  preliminares  suscitadas  (ilegitimidade  do  promitente  vendedor  ao  recebimento  de  aluguéis  e  de  ausência  de  interesse  de  agir)  e  concluiu  pela  necessidade  da  conversão  em  perdas  e  danos  demandaria,  necessariamente,  a  interpretação  de  cláusulas  contratuais  e  o  revolvimento  do  acervo  fático-probatório  dos  autos,  providências  vedadas  no  âmbito  do  recurso  especial,  ante  os  óbices  dispostos  nas  Súmulas  5  e  7/STJ.
+4.  Agravo  interno  a  que  se  nega  provimento."
+  (AgInt  no  AREsp  1.390.734/MS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  12/8/2019,  DJe  20/8/2019  -  grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
