@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. JURISPRUDÊNCIA DO STJ.
+1. Ação de exigir contas.
+2. Devidamente analisadas e discutidas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1.022 do CPC/15.
+3. A Terceira Turma desta Corte Superior, ao analisar os prazos prescricionais aplicáveis às ações de exigir contas relacionadas ao Fundo 157, concluiu que julgado procedente o pedido de exigir contas do Fundo 157, o juiz limitará a obrigação da instituição financeira de prestar as contas aos 03 (três) anos anteriores à propositura da ação, quanto aos valores investidos em ações, e aos 05 (cinco) anos precedentes à demanda, no que diz respeito ao montante investido em debêntures. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por FRANCISCO ANTONIO ESCARRONE PESCE contra decisão que conheceu do agravo em recurso especial para conhecer do recurso especial e negar provimento.
+Ação: de exigir contas ajuizada pelo agravante em face de ITAÚ UNIBANCO S. A..
+Decisão interlocutória: julgou procedente o pedido formulado na inicial e determinou a prestação de contas.
+Acórdão: deu parcial provimento ao agravo de instrumento da agravada, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO 157.
+- Preliminar contrarrecursal de inépcia das razões do agravo. O agravo de instrumento enfrenta a decisão recorrida e expõe as razões do pedido de sua reforma, devendo ser conhecido, por satisfazer os requisitos previstos nos incisos I a IV do art. 1.016 do CPC. Preliminar rejeitada.
+- Interesse de agir. O interesse de agir requer a existência concomitante de dois requisitos, a utilidade e a necessidade do provimento judicial pleiteado. Na hipótese, há demonstração do investimento no Fundo 157, e de sua administração pela instituição financeira demandada e da divergência entre as partes quanto à existência de saldo credor em favor da parte autora, não sendo necessária a formulação de pedido administrativo de prestação das contas previamente ao ajuizamento da ação, estando, pois, satisfeitas as referidas exigências supra. Preliminar afastada.
+- Prescrição parcial da pretensão de exigir contas. A fim de evitar decisões conflitantes com a orientação da terceira turma do STJ, no sentido de ser aplicável o prazo prescricional trienal à obrigação de a instituição financeira prestar contas quanto aos valores investidos em ações no Fundo 157, e quinquenal no que diz respeito ao montante investido em debêntures, passo a adotar tal entendimento, para limitar a obrigação de prestar contas de investimentos em ações e debêntures aos três e cinco anos anteriores à propositura da ação, respectivamente (REsp nº 1.997.047). Recurso provido, no ponto.
+- Inaplicabilidade do instituto da supressio. Não há que se falar em aplicação do instituto da supressio ao caso, na medida em que, inexistindo no investimento previsão de resgate ou vencimento, o direito respectivo pode ser exercido a qualquer tempo, de modo que não há expectativa alguma do gestor no sentido de que não possa mais ser ele exercido, sob pena de contrariedade, aí sim, ao princípio da boa-fé, que deve nortear as relações contratuais. Desprovido, no particular.
+- Honorários advocatícios. A presente ação de exigir contas foi ajuizada quando já em vigor o atual Código de Processo Civil, de modo que a decisão de procedência do pedido em sua primeira fase tem natureza de decisão interlocutória, com conteúdo de decisão parcial de mérito, pois finaliza o litígio definitivamente no que tange ao de verde prestar contas, sendo cabível, portanto, a fixação de honorários advocatícios, na mesma forma da decisão parcial fundada no art. 356 do CPC. Improvido, no ponto. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO, REJEITADAS AS PRELIMINARES. UNÂNIME. (e-STJ fls. 109/110)
+Embargos de declaração: opostos pelo agravante e pela agravada, foram rejeitados.
+Recurso Especial: alega violação dos arts. 287, II, a, da Lei 2. 6.404/76; 170, II, do CC/1973; 199, II, 206, § 5º, I, do CC/2022; e 1.022, II, do CPC.
+Além de negativa de prestação jurisdicional, sustenta imprescindível ampliar o período de prestação de contas referentes aos investimentos realizados.
+Nesse sentido, requer o afastamento da prescrição reconhecida na instância ordinária.
+Justifica inexistir marco temporal para contagem da prescrição, na medida em que não há prazo definido para resgate.
+Decisão unipessoal: conheceu do agravo para conhecer do recurso especial e negar provimento.
+Agravo interno: em breve síntese, o agravante afirma haver omissão do decisum agravado, no que se refere a dispositivo legal em que se veda a contagem da prescrição em relação à negócio jurídico não vencido. Ademais, argui que a decisão recorrida também viola jurisprudência do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. JURISPRUDÊNCIA DO STJ.
+1. Ação de exigir contas.
+2. Devidamente analisadas e discutidas as questões de mérito e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1.022 do CPC/15.
+3. A Terceira Turma desta Corte Superior, ao analisar os prazos prescricionais aplicáveis às ações de exigir contas relacionadas ao Fundo 157, concluiu que julgado procedente o pedido de exigir contas do Fundo 157, o juiz limitará a obrigação da instituição financeira de prestar as contas aos 03 (três) anos anteriores à propositura da ação, quanto aos valores investidos em ações, e aos 05 (cinco) anos precedentes à demanda, no que diz respeito ao montante investido em debêntures. Precedentes.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Explico.
+Quanto à suposta violação dos dispositivos legais objeto de insurgência, reitero, por oportuno, trechos do acórdão recorrido também mencionados na decisão agravada:
+A presente ação foi movida com o objetivo de obtenção de contas de investimentos feitos entre os anos de 1967 e 1983 no "Fundo 157".
+Conforme se sabe, o Fundo 157 foi instituído pelo Decreto-Lei nº 157, de 10/02/1967,e era uma opção de investimento disponibilizada aos contribuintes brasileiros, que podiam aplicar parte do valor de imposto de renda devido na aquisição de cotas de fundos administrados por instituições financeiras administradoras.
+O referido Fundo foi extinto em 05/06/1985 (Resolução nº 1.023 do Conselho Monetário Nacional), e o seu patrimônio transferido para os chamados Fundos Mútuos de Investimento em Ações, os quais deveriam ser administrados por diversos bancos, sendo que as cotas da parte autora ficaram sob responsabilidade do banco réu.
+Cumpre referir que, embora este Relator tenha manifestado em julgamentos anteriores entendimento no sentido de não se verificar a prescrição da pretensão envolvendo a exigência de contas referentes ao Fundo 157, sem previsão de resgate ou de vencimento, a fim de evitar decisões conflitantes com a orientação da terceira turma do STJ, no sentido de ser aplicável o prazo prescricional trienal à obrigação de a instituição financeira prestar contas quanto aos valores investidos em ações no Fundo 157, e quinquenal no que diz respeito ao montante investido em debêntures, passo a adotar tal entendimento. Nesse sentido:
+ ..
+Nesse contexto, o recurso merece provimento, para limitar a obrigação de prestar contas de investimentos em ações e debêntures aos três e cinco anos anteriores à propositura da ação respectivamente, em 28/07/2021, nos termos dos arts. art. 287, inc. II, alínea "a", da Lei nº 6.404/76,e art. 206, § 5º, inc. I, do CC/02. (e-STJ fls. 105/106 e 359/560)
+Na ocasião do julgado, restara devidamente esclarecido que o entendimento proferido pelo Tribunal a quo está em consonância com o recente posicionamento firmado por esta Terceira Turma, no sentido de limitar a obrigação de prestar as contas aos três anos anteriores à propositura da ação, quanto aos valores investidos em ações, e, aos cinco anos anteriores ao ajuizamento, no que diz respeito ao montante investido em debêntures.
+Nos termos da decisão agravada:
+O Fundo de Investimentos 157 é regulamentado pelo Decreto-Lei nº 157/67, o qual preconiza que os contribuintes do imposto de renda poderão oferecer recursos a instituições financeiras, que os aplicarão na compra de ações e debêntures (arts. 1º e 2º).
+Aquele que adquire ações torna-se acionista da companhia, o que lhe confere o direito de, em caso de resultados positivos, participar dos lucros sociais (art. 109, inc. I, da Lei nº 6.404/76).
+À pretensão do titular de ações de haver dividendos da sociedade anônima aplica-se o prazo prescricional trienal, conforme dispõe o art. 287, inc. II, alínea "a", da Lei nº 6.404/76. Já as debêntures conferem ao debenturista um crédito contra a companhia, o qual consta do instrumento denominado escritura de emissão, de modo que incide o disposto no art. 206, § 5º, inc. I, do CC/02.
+Aquele que investe no Fundo de Investimentos 157 sabe, de antemão, que o montante investido se destinará à aquisição de debêntures e ações, conforme estabelece expressamente o Decreto-Lei nº 157/67 (art. 1º). Consequentemente, não há elementos que autorizem a presunção de que o investidor não tivesse conhecimento de que tem direito ao pagamento periódico de dividendos, quanto às ações, e de juros periódicos, com relação às debêntures eventualmente adquiridas pela instituição financeira.
+Nessa linha, julgado procedente o pedido de exigir contas do Fundo 157, o juiz limitará a obrigação da instituição financeira de prestar as contas aos 03 (três) anos anteriores à propositura da ação, quanto aos valores investidos em ações, e aos 05 (cinco) anos precedentes à demanda, no que diz respeito ao montante investido em debêntures.
+Nesse sentido: AgInt no REsp 1965613/RS, Terceira Turma, DJe 23/03/2023; AgInt no AREsp 2119470/RS, Terceira Turma, DJe 15/02/2023; REsp 1997047/RS, Terceira Turma, DJe 24/06/2022. (e-STJ fl. 360)
+Ou seja, há, no acórdão recorrido e na decisão agravada fundamentação idônea e esclarecedora dos pontos controvertidos, ainda que contrária ao entendimento da parte.
+Ocorre que, não obstante as arguições recursais, o recorrente não apresentou argumentos juridicamente aptos a modificar o julgado, na medida em que, repisa-se, está em conformidade com a orientação deste colegiado.
+Dessarte, é notório que o agravante pretende se valer do agravo interno para rediscutir as conclusões obtidas pelas instâncias inferiores e ratificadas neste Juízo, de forma a fazer prevalecer os próprios entendimentos. Contudo, não prospera a insurgência recursal, razão pela qual a decisão agravada deve ser mantida em todos os seus fundamentos.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
