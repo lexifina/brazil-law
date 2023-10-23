@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS. NÃO CONHECIMENTO.
+1. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+2. No caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao preceituado no art. 1023 do CPC, situação que acarreta o não conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Kofar Produtos Metalúrgicos Ltda. - em recuperação judicial desafiando acórdão prolatado pela Eg. Primeira Turma, assim ementado (fl. 1.702):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. OCORRÊNCIA DO FATO GERADOR DO CRÉDITO TRIBUTÁRIO. ANÁLISE. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Afasta-se a ofensa aos arts. 489, § 1º, IV e 1.022, II e parágrafo único, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1.678.312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021).
+2. A alteração das conclusões adotadas pela Corte de origem, no sentido de ocorrência do fato gerador do crédito tributário apurado em procedimento fiscal, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+A parte embargante alega que não incide a Súmula 7/STJ no caso dos autos, sustentando, em síntese, que "a premissa adotada no v. acórdão embargado, data venia, mostra-se equivocada, vez que, inexiste controvérsia acerca da matéria fático-probatória, afastando, tanto a necessidade de seu reexame, quanto a incidência da súmula/STJ 07 (..). Não há qualquer controvérsia acerca matéria fático-probatória, especialmente: a) Pagamento de dívida da empresa, junto a terceiros, com patrimônio pessoal de seus sócios; b) Ausência de (verbis) prova da continuidade da dívida no passivo da sociedade empresária. O cerne da insurgência recursal reside, exclusivamente, na valoração dos fatos e provas adotada pelo v. acórdão recorrido, especificamente acerca da (verbis) continuidade da dívida no passivo da sociedade empresária" (fls..1.717/ 1.719). No mais, reprisa as razões do recurso especial inadmitido na origem no sentido de que "o objeto do REsp interposto, cinge-se à aplicação (ou não) do disposto nos arts. 346, III e 349 do Código Civil aos fatos (incontroversos) expressamente constatados no v. acórdão recorrido" (fl.1.720).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS VÍCIOS ENSEJADORES DA OPOSIÇÃO DOS ACLARATÓRIOS. NÃO CONHECIMENTO.
+1. De acordo com o estatuído no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou para sanar erro material do acórdão atacado.
+2. No caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao preceituado no art. 1023 do CPC, situação que acarreta o não conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Não prospera a irresignação da parte embargante.
+O recurso integrativo nem sequer ultrapassa a barreira de admissibilidade recursal.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Todavia, no caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1.023 do CPC/2015 ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo."), o que acarreta o não conhecimento do recurso. Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE PÚBLICO. IMÓVEL RURAL. USINA HIDRELÉTRICA. IMPLANTAÇÃO. INDENIZAÇÃO. QUANTUM. NOVA PERÍCIA. RESPONSABILIDADE DO CONSÓRCIO CONSTRUTOR. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. DISSÍDIO JURISPRUDENCIAL. APLICAÇÃO DA SÚMULA N. 7 DO STJ. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - Na origem, trata-se de agravo de instrumento interposto por Consórcio Estreito Energia - CESTE contra a decisão que, nos autos da ação ajuizada para a desapropriação de imóvel rural no Município de Palmeiras do Tocantis com vistas à implantação da Usina Hidrelétrica Estreito, determinou a realização de nova perícia, a suas expensas, para delimitação do valor da indenização. II - No Tribunal a quo a decisão foi mantida. Esta Corte negou provimento ao recurso especial.
+II - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+III - Embargos de declaração não conhecidos.
+(EDcl no AgInt no REsp n. 2.016.582/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. Os embargos de declaração supõem omissão, contradição ou obscuridade no julgado, que devem ser especificamente apontadas pelas respectivas razões - o que aqui não foi feito. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 285.287/SP, Rel. Ministra Marga Tessler (Juíza Federal Convocada do TRF 4ª Região), Primeira Turma, julgado em 26/5/2015, DJe 2/6/2015).
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. FALTA DE INDICAÇÃO DOS VÍCIOS RELACIONADOS NO ART. 535 DO CPC. JUÍZO NEGATIVO DE ADMISSIBILIDADE DOS DECLARATÓRIOS.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 535 do CPC implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 536 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 54.614/SP, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 4/8/2015, DJe 12/8/2015)
+ANTE O EXPOSTO, não se conhece dos embargos de declaração.
+É o voto.
