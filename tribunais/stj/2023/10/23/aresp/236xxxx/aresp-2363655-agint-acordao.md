@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM RECONHECIMENTO DE GRUPO ECONÔMICO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.
+1. Ação declaratória de rescisão contratual cumulada com reconhecimento de grupo econômico.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Cuida-se de agravo interno interposto por ASSOCIAÇÃO DOS SERVIDORES MUNICIPAIS DE PAULINIA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: declaratória de rescisão contratual cumulada com reconhecimento de grupo econômico, ajuizada por ASSOCIAÇÃO DOS SERVIDORES MUNICIPAIS DE PAULINIA, em face de M. A. M. CLÍNICA ODONTOLÓGICA LTDA. (M. A. M CLÍNICA ODONTOLÓGICA EIRELI), LHBL CLÍNICA ODONTOLÓGICA LTDA. (LHBL CLÍNICA ODONTOLÓGICA EIRELI) e MED LIFE SAÚDE ATA LTDA. (ORALPLANOS ASSISTÊNCIA ODONTOLÓGICA LTDA.).
+Sentença: julgou improcedente o pedido inicial e condenou a agravante ao pagamento das custas e dos honorários, que foram fixados em 10% do valor corrigido da causa, bem como julgou procedente a reconvenção, para o fim de condenar a agravante a pagar à agravada LHBL Clínica Odontológica EIRELI (Odontofácil) a diferença dos valores referentes aos atendimentos de associados realizados, a serem apurados em fase de cumprimento de sentença, de acordo com o estabelecido no contrato encartado aos autos, e, nesse sentido, condenou a agravante ao pagamento das custas e dos honorários, que foram fixados em 10% do valor atribuído à reconvenção.
+Acórdão: negou provimento à Apelação interposta pela agravante.
+Embargos de declaração: opostos, pela agravante, foram rejeitados.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta que não há que se falar na incidência do óbice sumular 182 desta Corte ao caso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL CUMULADA COM RECONHECIMENTO DE GRUPO ECONÔMICO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.
+1. Ação declaratória de rescisão contratual cumulada com reconhecimento de grupo econômico.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora): Trata-se de agravo interno interposto por ASSOCIAÇÃO DOS SERVIDORES MUNICIPAIS DE PAULINIA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A parte agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que, em decisão que não conheceu o Agravo em Recurso Especial interposto, a Ministra Presidente, inicialmente, fundamentou sua conclusão no suposto fato de que a parte agravante não teria impugnado especificamente a Súmula 7 do STJ, mas tal entendimento está equivocado, vez que é expresso no Agravo Recurso Especial impugnação à Sumula 7 do STJ.
+Malgrado o inconformismo da parte agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incidem os óbices sumulares 5 e 7/STJ.
+No tocante à incidência das Súmulas 5 e 7/STJ, a Corte local consignou que a parte agravante aduz que as cláusulas 3.4, 6.2 e 6.5, referentes à prestação de contas, foram quebradas, e que, apesar da agravada LHBL Clínica Odontológica EIRELI prestar o serviço, este tinha a obrigação de ser efetivado na sede e nos moldes do contrato, e não em local diverso.
+Também, entendeu a Corte local que é possível observar em fls. 42/46 que, a despeito do alegado pela parte agravante, ela continuou a realizar o pagamento para MED LIFE SAÚDE ATA LTDA. (ORALPLANOS ASSISTÊNCIA ODONTOLÓGICA LTDA.), fato também que é admitido pela própria parte agravante em fls. 05 quando declara que: "mesmo diante de todas esses fatos que já ensejariam a quebra do contrato, mesmo assim foram efetuados os pagamentos dos meses", e confirmado em fls. 273: "Os pagamentos diminuiriam o valor porque com a saída da clínica do prédio, ora contratado, houve diminuição da movimentação de pessoas o que fizeram com que estas não quisessem mais permanecer filiadas as rés, (..)."
+Além disso, registrou a Corte local que, diante deste contexto, mostra-se aplicável a teoria do "supressio", que é entendida pela doutrina moderna como uma das figuras que compõem o princípio da boa-fé objetiva, o qual veda o "venire contra factum proprium", que significa que ninguém está autorizado a contrariar um comportamento próprio praticado anteriormente, pois acarretaria em quebra da expectativa antes gerada e consequente ofensa à lealdade contratual, como no caso, em que, apesar da alteração do local de prestação do serviço, houve a sua continuidade com os respectivos pagamentos.
+No mais, sustentou a Corte local que a situação retratada não se coaduna ao pr incípio da boa-fé objetiva, em específico o "venire contra factum proprium", uma vez que, de início, admitido que a atividade deveria ser feita e que o local para a realização da prestação de serviço deveria ser o local estabelecido contratualmente, o desfazimento ulterior com lapso de tempo considerável, implica em efetiva conduta contraditória, mormente pelo fato de que não impugnado em momento temporal razoável, como dito, a parte agravante continuou a realizar os pagamentos, como se o contrato não estivesse desfeito.
+Por fim, sopesou a Corte local que a mera confusão de sócios entre as agravadas não configura grupo econômico.
+Desta forma, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação das Súmulas 5 e 7/STJ, deve a parte agravante não apenas mencionar que os referidos enunciados devem ser afastados, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
