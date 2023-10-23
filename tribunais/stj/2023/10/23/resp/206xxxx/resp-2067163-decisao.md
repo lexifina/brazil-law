@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJBA, assim ementado (fl. 1.301):
+EMENTA:TRIBUTÁRIO. APELAÇÃO CÍVEL. AÇÃO DE ANULACAO DE DÉBITO FISCAL. ICMS. PAGAMENTO DO CRÉDITO TRIBUTÁRIO. INCLUSÃO DE HONORÁRIOS NA VIA ADMINISTRATIVA. COBRANÇA DA VERBA SUCUMBENCIAL NA ESFERA JUDICIAL. BIS IN IDEM. IMPOSSIBILIDADE. APELO IMPROVIDO. SENTENÇA MANTIDA.
+Embargos de declaração rejeitados às fls. 1.354-1.377.
+O recorrente alega violação dos artigos 489, §1º, IV, e 1.022, II, e §único, II, ambos do CPC/15, argumentando que o tribunal de origem deixou de se manifestar sobre as seguintes questões: i) os honorários sucumbenciais objeto do cumprimento de sentença deflagrado pelo Estado da Bahia foram fixados por decisão judicial transitada em julgado, não podendo a sua exigência, portanto, ser afastada por simples "decisão surpresa" e sem qualquer fundamento legal, em lugar da propositura de ação rescisória; ii) não há que se falar em bis in idem entre o pagamento do encargo legal previsto em lei estadual (para remunerar a atividade de cobrança de dívida ativa) e os honorários sucumbenciais devidos em qualquer ação diversa da Execução Fiscal, em que se discuta o débito tributário, seja pela natureza diversa das respectivas verbas, seja pela autonomia destas ações em relação à ação executiva.
+Aduz ofensa aos arts. 502, 503, 505, 508 e 966, todos do CPC/15, defendendo, sem suma, à fl. 1.391, que consumou-se o TRÂNSITO EM JULGADO DO CAPÍTULO DO ACÓRDÃO SUPRAMENCIONADO QUE FIXOU A VERBA SUCUMBENCIAL.
+Sustenta contrariedade ao art. 85, §19, do CPC/15, apontando, à fl. 1.395, que se o próprio legislador federal previu ser devido o pagamento de honorários sucumbenciais ao advogado público em decorrência de sua atuação nos processos que ensejem condenações dessa natureza, resta claro que existe uma diferença entre o encargo que é devido por força da cobrança da Dívida Ativa e a verba honorária resultante do êxito obtido pela Fazenda Pública em razão da atuação de seus procuradores em processos judiciais.
+Contrarrazões às fls. 1.413-1.423.
+Juízo positivo de admissibilidade às fls. 1.426-1.427.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento da negativa de prestação jurisdicional.
+No tocante a segunda omissão apontada no relatório, evidencia-se que o tribunal de origem afirmou, à fl. 1.306, que ao contrário do que faz crer o recorrente, inexiste qualquer diferenciação da natureza dos honorários inseridos na certidão da dívida ativa, daqueles arbitrados através de acórdão judicial.
+Assim, nesse ponto, afasta-se a alegação de violação do art. 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada, com a citação de vários precedentes, a respeito dessa questão. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que se refere a primeira omissão alegada no relatório, contudo, o recurso merece ser conhecido.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da alegada omissão, conforme fls. 1.311-1.312:
+ ..
+I-A OMISSÃO QUANTO A ARGUIÇÃO DE EXISTÊNCIA DE COISA JULGADA A RESPEITO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM RAZÃO DE EXISTÊNCIA DE SENTENÇA JUDICIAL TRANSITADA EM JULGADO.
+Na petição de Recurso de Apelação do ora Apelante no item "3. DOS MOTIVOS PARA REFORMA DA DECISÃO", constou o tópico "3.1 DA DESCONSTITUIÇÃO DE CAPÍTULO DE DECISÃO JUDICIAL COM TRÂNSITO EM JULGADO POR DECISÃO JUDICIAL. ILEGALIDADE. NULIDADE DA SENTENÇA DE PRIMEIRO GRAU", em que fora arguida a existência de decisão judicial transitada em julgado a respeito dos honorários advocatícios de sucumbência com a ilegalidade e nulidade da sentença que os excluiu.
+Ressalte-se que na referida peça o Estado da Bahia, ora Embargante, afirmou que a sentença de fls. 1.183/1.184, complementada pela sentença de fls. 1210/1212, foi, data máxima vênia, proferida ao arrepio da legislação processual e constitucional em vigor, notadamente o instituto do trânsito em julgado do capítulo de sentença que dispôs sobre honorários advocatícios de sucumbência fixados no boto desta ação pelo E.TJ/BA.
+Disse o Embargante que conforme se infere dos autos do processo eletrônico, no bojo da discussão dos embargos/ação oridinária (mérito da causa), a sentença de primeira instância foi revertida no âmbito do Tribunal de Justiça do Estado da Bahia, (conforme acórdão de fls. 1017/1023), no qual foram fixados honorários em virtude da sucumbência da ora embargada, sendo opostos Embargos de Declaração, que foram rejeitados (acórdão de fls. 1.046/1.051)
+Asseverou o Estado da Bahia que contra a decisão das instâncias ordinárias, a ora Embargada interpôs Recurso Especial e, no ínterim de sua admissibilidade, aderiu ao benefício fiscal e efetuou a quitação do débito objeto da ação, tendo renunciado ao direito que se funda e desistido do recurso (petição de fls. 1.151/1.152).
+Afirmou o ente público que em vista dessa petição, o RESP foi julgado prejudicado (decisão de fl. 1158) e portanto, A AÇÃO TRANSITOU EM JULGADO e os autos foram remetidos para primeira instância.
+Frise-se que desatacou o Estado da Bahia que para uma melhor compreensão da sequência dos atos processuais, devia-se observar uma breve cronologia com indicação das respectivas fls. dos autos eletrônicos:
+1) FLS. 1017/1023: ACÓRDÃO TJ/BA
+2) FLS. 1046/1051: REJEITOU ED DA NESTLE
+3) FLS. 1151/1152: PETIÇÃO DA AUTORA INFORMANDO ADESÃO E RENUNCIANDO A AÇÃO
+4) FL. 1158: DECISÃO QUE JULGOU PREJUDICADO O RESP.
+Concluiu o Estado da Bahi a que houve o trânsito em julgado do capítulo de sentença que condenou a parte autora nos ônus de sucumbência, não podendo ser desconstituída a sentença por "decisão surpresa" sem qualquer fundamento legal, mas apenas, através do eventual manejo de ação rescisória, nos moldes do art. 966 e seguintes do CPC, única hipótese que se autoriza a rescisão de sentença de mérito.
+ ..
+Com efeito, evidencia-se que o tribunal de origem não se manifestou a respeito do alegado trânsito em julgado da condenação em honorários de sucumbência.
+Tal questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I ou II, do CPC/15, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: EDcl no AgInt no AREsp 2.115.512/SP, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe 29/6/2023; AgInt no REsp 1.963.351/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 23/2/2023; AgInt no REsp 1940790/DF, Rel. Min. Og Fernandes, Segunda Turma, DJe 25/2/2022.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/15. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
