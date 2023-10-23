@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto.
+2.1. Para rever as conclusões do Tribunal de origem quanto à existência de prejudicialidade externa seria imprescindível reapreciar o conjunto fático-probatório dos autos, o que atrai o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por JRD LOGISTICA DE MARKETING LTDA, contra decisão monocrática de fls. 180/184 (e-STJ), a qual negou provimento ao recurso especial interposto pela parte ora recorrente.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 35, e-STJ):
+Agravo de instrumento. Recurso interposto contra a r. decisão que rejeitou a exceção de pré-executividade. Execução locatícia comercial. A propositura de qualquer ação relativa a débito constante de título executivo não inibe o credor de promover-lhe a execução (art. 784, § 1º, do CPC/15). Desacolhida a tese recursal de conexão entre a execução locatícia comercial e a ação revisional de contrato(proc.1012665-56.2021.8.26.0564), cuja tutela provisória sequer foi deferida. Precedentes. Tampouco é caso de excepcional suspensão da demanda executiva, ausente garantia do Juízo, a cargo da agravante. Decisão mantida. Agravo de instrumento desprovido.
+Opostos os embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, o insurgente alega, além de dissídio jurisprudencial, violação aos artigos 55, §2º, I, e §3º; 313, V, alínea "a"; 489, § 1º, VI e 1022, II, todos do CPC/15.
+Sustenta, em síntese:
+a) negativa de prestação jurisdicional;
+b) "que antes do ajuizamento da execução havia ajuizado Ação Declaratória de Nulidade de Ato Jurídico c/c Revisão de Cláusula de Reajuste de Alugueres e Inexigibilidade de Cobrança de Multa Contratual contra a Recorrida, tendo sido esta ação distribuída para a 9ª Vara Cível de São Bernardo do Campo/SP e autuada sob n.º 1012665-56.2021.8.26.0564.";
+"Esclareceu ainda que nesta demanda estava a questionar a legalidade de vários aspectos relacionados aos dois contratos de locação firmados com a Recorrida, que são justamente os títulos executivos, entre eles a revisão da cláusula de reajuste pelo IGP-M, a validade da cobrança da multa contratual por desocupação antecipada e também a validade dos aditivos de prorrogação dos alugueres relativos ao período inicial da pandemia."
+Defende o reconhecimento da conexão entre a execução, que deve ser suspensa, e a ação Ordinária, com a consequente remessa dos autos ao juízo prevento.
+Contrarrazões às fls. 71/78, e-STJ.
+Em juízo de admissibilidade, negou-se seguimento ao recurso, dando ensejo na interposição do agravo às fls. 101/115, e-STJ.
+Contraminuta às fls. 118/122, e-STJ.
+Por decisão monocrática (fls. 180/184 , e-STJ), este signatário negou provimento ao recurso especial por estar o acórdão recorrido em consonância com a jurisprudência do STJ e com amparo no enunciado contido na Súmula 7/STJ.
+Em suas razões de agravo interno (fls. 302/307, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Impugnação às fls. 510/514, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. A paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto.
+2.1. Para rever as conclusões do Tribunal de origem quanto à existência de prejudicialidade externa seria imprescindível reapreciar o conjunto fático-probatório dos autos, o que atrai o óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. Em conformidade com a decisão monocrática anteriormente proferida, não assiste razão ao recorrente quanto à alegação de negativa de prestação jurisdicional.
+Não se vislumbra a alegada omissão, pois o órgão julgador dirimiu a controvérsia de forma ampla e fundamentada, embora não tenha acolhido as pretensões da parte insurgente.
+Ademais, o acórdão restou devida e suficientemente fundamentado sobre as questões que lhe foram postas à apreciação e necessárias ao deslinde da controvérsia, não havendo falar em ofensa aos referidos dispositivos.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Na mesma linha, precedentes: AgRg no REsp 1291104/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2016, DJe 02/06/2016; AgRg no Ag 1252154/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/06/2015, DJe 30/06/2015; REsp 1395221/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/09/2013, DJe 17/09/2013.
+Não é demais lembrar, a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio, como ocorrera na hipótese.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA.  ..  1. Não há ofensa ao art. 535 do CPC, pois o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. 2. O Tribunal de origem por ocasião do julgamento do recurso examinou as questões, embora de forma contrária à pretensão do recorrente, não existindo omissão a ser sanada.  ..  5. Agravo regimental improvido. (AgRg no AREsp 627.146/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2015, DJe 29/10/2015)
+PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 535, 826 E 927 DO CPC. OMISSÃO. INEXISTENTE. JULGADO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO FIRMADA COM BASE NA MATÉRIA FÁTICO-PROBATÓRIA. SÚM. 7/STJ. DISSÍDIO INTERPRETATIVO. NÃO OBEDIÊNCIA AOS TERMOS REGIMENTAIS. REGIMENTAL NÃO PROVIDO. 1. Não se configurou a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos aos autos pelas partes. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.  ..  4. Agravo regimental não provido.(AgRg no AREsp 498.536/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/09/2015, DJe 16/09/2015)
+Inexiste, portanto, violação aos artigos 489 e 1.022, NCPC, visto que a matéria efetivamente levada a apreciação do órgão julgador fora analisada e discutida pelo Tribunal Estadual, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. No mérito, a parte alega o reconhecimento de prejudicialidade externa. O Tribunal de origem - destinatário da prova - após a análise dos elementos informativos contidos nos autos, assim concluiu (fl . 38, e-STJ):
+Com efeito, a propositura de qualquer ação relativa a débito constante de título executivo não inibe o credor de promover-lhe a execução (art.784, § 1º, do CPC/15). Neste contexto, não prospera a tese recursal de conexão entre a execução locatícia comercial e a ação revisional de contrato (proc.1012665-56.2021.8.26.0564), cuja tutela provisória sequer foi deferida. Nesse sentido, confira-se:
+(..)
+Tampouco é caso de excepcional suspensão da demanda executiva, ausente garantia do Juízo, a cargo da agravante.
+O acórdão impugnado está em conformidade com a jurisprudência do STJ, a qual preceitua que "a existência de qualquer ação relativa ao débito constante do título executivo, por si só, não inibe a propositura e o prosseguimento da execução fundada nesse mesmo título" (AgInt no AREsp n. 2.009.622/RJ, ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. AÇÃO REVISIONAL. EXECUÇÃO. PREJUDICIALIDADE EXTERNA. GARANTIA DO JUÍZO. AUSÊNCIA. NÃO IMPUGNAÇÃO. SUMULA 283/STF. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ.
+1. A existência de prejudicialidade externa com outra demanda não impõe, obrigatoriamente, a suspensão da execução. Precedentes.
+2. Hipótese em que não impugnado fundamento do acórdão recorrido, a saber: a ausência de garantia da execução. Incidência da Súmula 283/STF.
+3. A suspensão do processo executivo em decorrência do trâmite simultâneo de ação revisional, ajuizada antes ou depois da execução, depende de estar garantido o juízo, o que não se verificou neste processo. Jurisprudência do STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 1.936.471/SC, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. CONEXÃO COM OUTRA DEMANDA. SUSPENSÃO DA EXECUÇÃO. PREJUDICIALIDADE EXTERNA. OBRIGATORIEDADE. INEXISTÊNCIA.
+1. A existência de prejudicialidade externa com outra demanda não impõe, obrigatoriamente, a suspensão da execução. Precedentes.
+2. Hipótese em que não impugnado fundamento do acórdão recorrido, a saber: a ausência de garantia da execução.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.733.164/SC, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.)
+Ainda conforme orientação desta Corte, "a paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto" (AgInt no AREsp n. 846.717/RS, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/11/2017, DJe de 30/11/2017).
+2.1 Nesses termos, para rever as conclusões do TJSP quanto à ausência de prejudicialidade externa, bem como sobre a presença dos requisitos do título executivo, seria imprescindível reapreciar o conjunto fático-probatório dos autos. Incide, portanto, a Súmula n. 7/STJ. Confira-se:
+AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. AGRAVO NÃO CONHECIDO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PREJUDICIALIDADE EXTERNA NÃO RECONHECIDA. IMPOSSIBILIDADE DE DECISÕES CONTRADITÓRIAS. ALTERAÇÃO DAS PREMISSAS ADOTADAS. SÚMULA 7 DO STJ. DILAÇÃO PROBATÓRIA. INADMISSIBILIDADE NA OBJEÇÃO. PRIMEIRO RECURSO DESPROVIDO. SEGUNDO RECURSO NÃO CONHECIDO. 1. (..). 3. A jurisprudência desta Corte afirma que cabe ao juízo aferir a prejudicialidade externa consoante as circunstâncias do caso concreto. Precedentes: AgRg no AREsp 334.989/MG, Rel. Min. OLINDO MENEZES, DJe de 8.10.2015; AgRg no REsp 1.423.021/ES, Rel. Min. HUMBERTO MARTINS, DJe de 9.2.2015. 4. A alteração das conclusões adotadas pela Corte de origem, a fim de decidir sobre a existência de prejudicialidade no caso concreto, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial pela Súmula 7 do STJ. 5. (..). 6. Primeiro agravo interno desprovido, e o segundo, não conhecido. (AgInt no AREsp n. 962.894/DF, Relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2017, DJe de 13/10/2017.)
+De rigor, portanto, a manutenção da decisão ora impugnada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
