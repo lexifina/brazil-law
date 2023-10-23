@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de fazer, cumulada com compensação por danos morais, na qual se requer medicamento para o tratamento de câncer.
+2. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+3. Considera-se abusiva a negativa de cobertura de medicamentos para o tratamento de câncer. Precedentes.
+4. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CAIXA DE ASSISTENCIA DO SETOR DE ENERGIA, contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+Ação: de obrigação de fazer, cumulada com compensação por danos morais, ajuizada por ZIZA ALVES DA COSTA, em face da recorrente, na qual requer o custeio Venetoclax, necessário ao tratamento de mielodisplasia, um câncer raro.
+Sentença: julgou parcialmente procedentes os pedidos, para determinar o custeio do medicamento, bem como a condenar a recorrente a compensar o dano moral, fixando seu valor em R$ 5.000,00.
+Acórdão: negou provimento à apelação interposta por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO CUMULATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAÇÃO. RECUSA INDEVIDA. ABUS1VIDADE DE CLÁUSULA QUE LIMITA A FORMA DE TRATAMENTO. DANO MORAL CONFIGURADO. QUANTUM INDENIZAT RIO PROPORCIONAL E RAZOÁVEL FIXADO EM PRIMEIRO GRAU DE JURISDIÇÃO. APELOS IMPROVIDOS.
+1. E abusiva a negativa de cobertura, pela operadora de plano de saúde, de medicamento necessário para assegurar o tratamento de doenças previstas no contrato, prescrito por médico especialista, ainda que não inserido no rol da ANS (Precedentes do STJ). No caso. caracteriza-se ilícito civil a negativa do fornecimento da medicação "Venetoclax 100mg" a idoso de 83 anos, acometido de neoplasia maligna (câncer), dada a idade avançada do paciente e a gravidade da enfermidade, que demanda urgência em todos os procedimentos.
+2. Quando, em decorrência da recusa da operadora em fornecer medicamento a paciente em tratamento de câncer, agravou-se a situação de aflição psicológica e de angústia do beneficiário, em razão da situação emergencial, restou configurado o dano moral indenizável. Assim, fixado o quantum indenizatório em RS 5.000,00 (cinco mil reais), verifica-se que não se distancia dos princípios da razoabilidade e da proporcionalidade, mostrando-se suficiente para reparação do dano extrapatrimonial.
+3. Apelos improvidos.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, §§ 4º e 6º, 12 e 16 da Lei 9.656/98; e 4º, II, da Lei 9.961/00, bem como dissídio jurisprudencial. Aduz a possibilidade de exclusão de tratamento "off label". Afirma que a cláusula contratual é clara quanto à exclusão de medicamentos que não estejam no rol da ANS. Sustenta que a negativa foi fundada em razoável interpretação contratual, razão pela qual não há a caracterização do dano moral.
+Decisão unipessoal: conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, em razão da incidência das Súmulas 568 do STJ e 284 e 283 do STF.
+Agravo interno: nas razões do presente recurso, reitera as razões do apelo especial quanto à legalidade de exclusão contratual de medicamento "off label". Sustenta que quanto ao dano moral há violação clara aos arts. 186 e 187 do CC e que houve impugnação efetiva do trecho apontado na decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. MEDICAMENTO REGISTRADO NA ANVISA. TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA INDEVIDA. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de obrigação de fazer, cumulada com compensação por danos morais, na qual se requer medicamento para o tratamento de câncer.
+2. Segundo a jurisprudência do STJ, "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental" (AgInt no AREsp 1.653.706/SP, Terceira Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, Terceira Turma, julgado em 28/09/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, Quarta Turma, julgado em 31/08/2020, DJe 11/09/2020; AgInt no AREsp 1.536.948/SP, Quarta Turma, julgado em 25/05/2020, DJe 28/05/2020), especialmente na hipótese em que se mostra imprescindível à conservação da vida e saúde do beneficiário.
+3. Considera-se abusiva a negativa de cobertura de medicamentos para o tratamento de câncer. Precedentes.
+4. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CAIXA DE ASSISTENCIA DO SETOR DE ENERGIA, contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, em razão da incidência das Súmulas 568 do STJ e 284 e 283 do STF.
+- Da Súmula 568 do STJ
+Nas razões do agravo interno, o agravante defende que a legalidade de exclusão contratual de medicamento "off label", não colacionando julgados.
+No entanto, a decisão agravada consignou que o decidido pelo Tribunal local está de acordo com a jurisprudência do Superior Tribunal de Justiça que é no sentido de que "é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental", especialmente porque, na hipótese, o medicamento se mostra imprescindível à conservação da vida e saúde do beneficiário. Para isso trouxe os seguintes precedentes: AgInt no AREsp 1.653.706/SP, 3ª Turma, julgado em 19/10/2020, DJe 26/10/2020; AgInt no AREsp 1.677.613/SP, 3ª Turma, julgado em 28/9/2020, DJe 07/10/2020; AgInt no REsp 1.680.415/CE, 4ª Turma, julgado em 31/8/2020, DJe 11/9/2020; AgInt no AREsp 1.536.948/SP, 4ª Turma, julgado em 25/5/2020, DJe 28/5/2020.
+Ressaltou, ainda, a decisão agravada que, conforme entendimento firmado pelas duas Turmas que compõem a Segunda Seção do STJ, há obrigatoriedade de fornecimento de medicamento antineoplásico oral, colacionando os seguintes precedentes: REsp 1.883.654/SP, 4ª Turma, DJe 02/08/2021; REsp 1.692.938/SP, 3ª Turma, DJe 04/05/2021; AgInt no REsp 1.911.407/SP, 3ª Turma, DJe 24/05/2021; e AgInt no REsp 1.889.213/SP, 3ª Turma, DJe 29/10/2020.
+E, outrossim, asseverou que ambas as Turmas que compõe a 2ª Seção do STJ entendem que, independentemente da discussão a respeito da natureza do rol da ANS, há obrigatoriedade de fornecimento de medicamentos para o tratamento de câncer, citando os seguintes precedentes: AgInt no REsp n. 1.961.491/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/6/2023, DJe de 23/6/2023, e AgInt no AREsp n. 1.810.182/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023.
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+- Da fundamentação deficiente
+A via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo indicado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+Na hipótese dos autos, deixou a parte agravante de indicar em seu recurso especial os dispositivos de lei que teriam sido violados pelo aresto recorrido quanto ao alegado dano moral, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284 do Excelso Pretório.
+- Da existência de fundamento não impugnado
+A incidência da Súmula 283/STF depende do teor do acórdão recorrido e do conteúdo da impugnação da parte agravante.
+A referida súmula prevê que não cabe recurso especial quando a questão debatida no acórdão recorrido não foi devidamente confrontada.
+Desse modo, se a parte agravante não impugnou o fundamento utilizado pelo Tribunal, não pode recorrer ao recurso especial, uma vez que há omissão dos requisitos do art. 105, III, "a", da Constituição Federal, com a consequente aplicação da Súmula 283/STF.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
