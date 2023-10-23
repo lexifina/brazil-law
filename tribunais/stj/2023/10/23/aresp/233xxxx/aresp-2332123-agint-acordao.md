@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE.
+INSURGÊNCIA DA DEMANDADA.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do artigo 1.021, §1º, do CPC/15, a atrair a aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por FURNAS-CENTRAIS ELÉTRICAS S.A, em face da decisão acostada às fls. 1205-1208 e-STJ, da lavra da Presidência do STJ, que conheceu do agravo (art. 1.042 do CPC/15) para não conhecer do recurso especial.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 1013-1024 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÕES CÍVEIS. SENTENÇA (INDEX 841) QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO PARA CONDENAR A RECLAMADA A RESTITUIR O VALOR DE R$163.774,15, DEVIDAMENTE CORRIGIDO. APELO ADESIVO DA RÉ A QUE SE NEGA PROVIMENTO. RECURSO DA AUTORA AO QUAL SE DÁ PROVIMENTO PARA JULGAR PROCEDENTES OS PEDIDOS E CONDENAR A RÉ A RESTITUIR À SUPLICANTE O VALOR INTEGRAL, DE R$ 265.988,48, ACRESCIDO DOS ENCARGOS PREVISTOS NO REGULAMENTO DO PLANO DE BENEFÍCIO DEFINIDO VIGENTE À ÉPOCA DOS DESEMBOLSOS E JUROS DE MORA A CONTAR DA CITAÇÃO. Primeiramente, no que se refere à alegação de prescrição, cabe destacar que o tema foi apreciado por esta Egrégia Câmara no agravo de instrumento n.º 0010045- 63.2020.8.19.0000, tendo sido determinada a aplicação da prescrição decenal. Sendo assim, descabida a reapreciação da matéria. Cuida-se de ação ordinária na qual a empresa Autora pretende reaver da Ré os valores pagos a João Alves da Cunha, referentes às diferenças da complementação de aposentadoria, vez que não teria ocorrido o prévio custeio, por Furnas S/A, das diferenças pretéritas do benefício majorado. O pleito de ressarcimento decorre de ato ilícito praticado apenas pela Requerida, que teria deixado de pagar ao seu funcionário todos os créditos trabalhistas aos quais tinha direito, à época. Assim, a ausência de pagamento regular das verbas trabalhistas resultou no recolhimento de contribuição previdenciária inferior à necessária para formar reserva matemática suficiente para pagar o benefício a que faria jus o ex-empregado da Demandada. Desta forma, observa-se que quem praticou ato ilícito e causou prejuízos ao ex-funcionário e à Reclamante, entidade de previdência privada, foi exclusivamente a Demandada, devendo ser aplicadas, ao caso em estudo, as disposições dos artigos 186 e 944 do Código Civil. Sendo assim, a Requerida deve arcar com a integralidade da reserva matemática necessária para satisfação do acréscimo do benefício previdenciário devido ao ex-empregado. Como ressaltado pelo ilustre Perito, em resposta ao quesito de número 14: " ..  o risco decorrente da majoração do benefício programado (aposentadoria e pensão) por conta de ações judiciais na esfera trabalhista ou cível NÃO ESTÁ INSERIDO entre as premissas atuariais constantes na Nota Técnica Atuarial (NTA) de um Plano de Benefício Definido." In casu, não há que se falar em aplicação do disposto no artigo 202, §3º, da Constituição Federal. No caso em estudo, trata-se de reparação de danos, e não de regular aporte de recursos no plano de previdência privada. Assim, impõe-se a condenação da Demandada ao pagamento da integralidade dos valores devidos para recomposição da reserva matemática, e não apenas 50% do valor.
+Opostos embargos declaratórios (fls. 1026-1028 e-STJ), restaram acolhidos a fim de majorar os honorários sucumbenciais (fls. 1050-1054 e-STJ).
+Nas razões de recurso especial (fls. 1056-1066 e-STJ), alegou a insurgente que o acórdão recorrido violou os artigos 5 e 6º, § 1º, da Lei Complementar nº 108/2001, 21 e 34 da Lei Complementar nº 109/2001, bem como aos artigos 265 e 884 do Código Civil. Aduz, primeiramente, sua ilegitimidade para figurar na presente demanda, bem como não ser responsável pela recomposição da reserva matéria. Subsidiariamente, pugna pela limitação à metade do valor devido.
+Contrarrazões às fls. 1138-1158 e-STJ.
+Em juízo prévio de admissibilidade (fls. 1161-1164 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do respectivo agravo (art. 1.042 do CPC/15), às fls. 1175-1180 e-STJ.
+Contraminuta às fls. 1184-1194 e-STJ.
+Em julgamento monocrático (fls. 1205-1208 e-STJ), a Presidência do STJ considerou inadmissível o recurso especial por óbice das Súmulas 282, 284 e 356/STF, bem como 211/STJ.
+Inconformada, interpôs o presente agravo interno (fls. 1212-1214 e-STJ), em síntese, sustentando a inaplicabilidade dos óbices.
+Impugnação às fls. 1218-1226 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE CONHECEU DO RECLAMO PARA NÃO CONHECER DO APELO NOBRE.
+INSURGÊNCIA DA DEMANDADA.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do artigo 1.021, §1º, do CPC/15, a atrair a aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não ultrapassa o conhecimento.
+1. Consoante entendimento deste Tribunal, pelo princípio da dialeticidade, compete à parte recorrente infirmar todos os fundamentos do capítulo impugnado na decisão monocrática. A ausência dessa impugnação específica torna forçoso o não conhecimento do reclamo, por aplicação do quanto disposto no art. 1.021, §1º, do CPC/15.
+Aplicável, ainda o óbice enunciado na Súmula 182 do STJ, a saber: "é inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confira-se, nesse sentido, os seguintes julgados: AgInt no REsp n. 1.964.122/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/9/2022, DJe de 12/9/2022; AgInt no AREsp n. 2.079.519/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022; AgInt no AREsp n. 1.935.702/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022; AgInt no REsp n. 1.904.596/SE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/11/2021, DJe de 1/12/2021.
+Ademais, não basta a simples afirmação de que não incide o óbice, devendo ser demonstrado seu descabimento, não se afigurando suficiente a impugnação genérica.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade do referido óbice ou que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 1802143/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA TOTALIDADE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+1. É dever da parte agravante combater especificamente a totalidade dos fundamentos da decisão agravada, demonstrando o desacerto do decisum que negou seguimento ao recurso especial, sob pena de aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. No caso, não houve impugnação no momento oportuno, sendo insuficientes as alegações genéricas quanto à inaplicabilidade dos óbices das Súmulas 7 e 83/STJ ao presente caso.
+ ..
+6. Agravo interno improvido.
+(AgInt no AREsp 1613383/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2020, DJe 08/05/2020)
+No caso em comento, a decisão agravada considerou inadmissível o recurso especial por óbice das Súmulas 282, 284 e 356/STF, bem como 211/STJ.
+A presente insurgência, todavia, limitou-se a refutar os referidos óbices de forma genérica.
+1.1. Ademais, as razões recursais apresentadas em relação à suposta ausência de prequestionamento do artigo 17, do Decreto nº 3.342/00 encontram-se dissociadas da decisão ora agravada.
+Conforme se extrai do relatório do decisum, o objeto do recurso foi corretamente identificado - inclusive com referência aos dispositivos apontados como violados pelo recurso especial. Por sua vez, a menção ao artigo 17 do Decreto nº 3.342/00 constou apenas em precedente transcrito na fundamentação.
+1.2. Assim, deixou de infirmar o conteúdo da decisão ora impugnada. Desta forma, impõe-se aplicação do artigo 1.021, §1º, do CPC/15 e, ainda, do óbice enunciado na Súmula 182 do STJ, porquanto inexistiu ataque específico aos fundamentos da decisão monocrática agravada.
+2. Deixa-se de aplicar a multa recursal prevista no art. 1.021, § 4º, do CPC/15, pois não se observa, no presente momento, o intuito meramente protelatório do presente agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, não se admite o agravo interno.
+É como voto.
