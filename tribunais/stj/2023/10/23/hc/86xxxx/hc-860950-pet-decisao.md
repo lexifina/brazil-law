@@ -1,0 +1,25 @@
+DECISÃO
+PAULO FELIPE BADARO DE CAMPOS ajuíza pedido de reconsideração contra a decisão que indeferiu liminarmente o writ por deficiência de instrução.
+A decisão ora impugnada consignou que "este mandamus foi deficientemente instruído, pois o impetrante não juntou aos autos cópia do relatório e do voto do acórdão ora impugnado".
+Juntados os documentos faltantes, é o caso de reconsiderar a decisão.
+Passo à análise do pedido.
+Informam os autos que "o paciente, no momento da abordagem, realizada durante a "Operação Balada Segura", estava dentro do veículo Chevrolet/Agile Ltz, placa ISV0G76, acompanhado de seu amigo Lucas Morais Vidal, ocasião na qual foram encontrados pelos policiais militares, uma porção de cannabis sativa linneu, vulgarmente conhecida como maconha, pesando aproximadamente 2,4 miligramas, 10 cápsulas da substância Special Key, pesando no total 1,90 miligrama e uma porção da substância Special Key, pesando 1,10 miligrama  ..  bem como a  quantia de R$ 3.838,50".
+Neste writ, a defesa sustenta que "há clara controvérsia no caso em apreço, tendo em vista que se trata de situação característica de posse de drogas, para ambas partes, pela condição da apreensão e pela quantidade de entorpecente para duas pessoas, devendo ser concedido o trancamento da ação penal, com o consequente encerramento da ação em curso, sem o julgamento de seu mérito".
+Aduz o seguinte:
+Ademais, ainda no interior do veículo foi possível constatar a existência da quantia de R$ 3.838,50 (três mil, oitocentos e oitenta e três com cinquenta centavos). Indicaram a prática de traficância ao réu Paulo Badaró, através da fundamentação de que as condições na qual o mesmo foi abordado, a quantidade de drogas, bem como a quantia em dinheiro encontrada, caracterizava tal ato. Sob tal argumentação, ressalta que a abordagem foi realizada perante Paulo Badaró e Lucas Morais, de modo que ambos estavam juntos no veículo. No entanto apenas este paciente foi indiciado como crime de tráfico, tendo sido imputado ao outro indivíduo posse de drogas.
+A prova pré-constituída é a quantidade de droga apreendida, qual seja, 2,4 miligramas de canabis sativa e frascos de key, ao qual, foram abordados em situação de rotina, operação balada segura em Porto Alegre, aliado ao fato que na denúncia não consta a informação de que havia outra pessoa dentro do mesmo veículo, não sendo mencionado no auto de prisão em flagrante a informação, mas já provado pela defesa constituída, uma vez que resta colacionado no evento 45.
+A concessão da ordem em sede de medida liminar para o imediato trancamento da ação penal, comunicando-se imediatamente ao Juízo competente, após em mérito, requer o trancamento da ação penal.
+Pleiteia "a concessão da ordem em sede de medida liminar para o imediato trancamento da ação penal".
+O acórdão ora impugnado ofereceu os seguintes argumentos:
+ ..
+A excepcionalidade exigida para o trancamento da ação penal em sede de habeas corpus, contudo, não se verifica no caso concreto.
+Ocorre que, ao postular em sede de habeas corpus o trancamento da ação penal, por negativa de autoria, o impetrante deveria ter comprovado de modo inconteste, estreme de dúvidas, que o paciente não teria nenhum envolvimento no delito em apreço, ônus do qual não se desincumbiu.
+ ..
+No caso em comento, em que pesem respeitáveis as alegações da impetrante, os argumentos por ela apresentados não são suficientes para comprovar de modo cabal a negativa de autoria alegada. A quantidade de drogas e o valor em espécie apreendido vai de encontro à sua tese acerca de uso pessoal; porém, alega que o paciente não estava sozinho, na tentativa de legitimar a quantidade para uso pessoal, o que nitidamente impõe a necessidade de instrução do feito.  ..  (fl. )
+No caso, a Corte local consignou que "a quantidade de drogas e o valor em espécie apreendido vai de encontro à sua tese acerca de uso pessoal; porém, alega que o paciente não estava sozinho, na tentativa de legitimar a quantidade para uso pessoal, o que nitidamente impõe a necessidade de instrução do feito
+Ao mesmo, a denúncia narra que "a finalidade de traficância revela-se pelas condições em que o denunciado foi abordado (acima descritas); pela quantidade significativa de droga, não usual para consumo; pela variedade e pela forma de acondicionamento; bem corno pela quantia em dinheiro de R$ 3838,50 que trazia consigo".
+Tais elementos afastam a plausibilidade do pedido ante a evidente necessidade de aprofundamento vertical dos autos, incompatível com o rito célere do habeas corpus.
+Faço lembrar, nesse sentido, que "somente é cabível o trancamento da persecução penal por meio do habeas corpus quando houver comprovação, de plano, da ausência de justa causa, seja em razão da atipicidade da conduta praticada pelo acusado, seja pela ausência de indícios de autoria e materialidade delitiva, ou, ainda, pela incidência de causa de extinção da punibilidade" (AgRg no RHC n. 157.728/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/2/2022).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro o pedido.
+Publique-se e intimem-se.
+EMENTA
