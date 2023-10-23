@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CRIMINAL - Tráfico de drogas Preliminar afastada Nulidade não configurada Autoria e materialidade delitiva comprovadas - Decisão condenatória que se impõe - Impossibilidade de absolvição ou de desclassificação Penas adequadas Regime inicial fixado com critério Impossibilidade de substituição das penas privativas de liberdade por restritivas de direitos Afastada a preliminar, recurso desprovido. (e-STJ fl. 617)
+A defesa aponta a violação do art. 240, §§ 1º e 2º do CPP e 65, III, "d", do CP alegando, em síntese, a nulidade da condenação tendo em conta que o mero nervosismo não pode justificar a revista pessoal. Pede o reconhecimento da atenuante da confissão tendo em conta a juntada de um boletim de ocorrência lavrado pela polícia militar (BOPM), onde constaria uma confissão do recorrente.
+As contrarrazões foram apresentadas (e-STJ fls. 652/664), e o Tribunal local negou seguimento ao recurso especial (e-STJ fls. 667/668).
+Manifestação do Ministério Público Federal pelo não provimento do recurso (e-STJ fls. 1.121/1.122).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 6 anos, 9 meses e 10 dias de reclusão, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+A defesa alega a existência nulidade decorrente da abordagem pessoal fundamentada no nervosismo do agente.
+Sem razão, porquanto a abordagem, como se extrai do acórdão recorrido (e-STJ fl. 619), se deu diante de todo contexto fático vivenciado pelos policiais.
+Explica-se: O recorrente ao visualizar a viatura policial perdeu o controle do veículo e quase colidiu com outro carro e, na sequência, ainda alterou o seu trajeto.
+Vê-se que o cenário acima descrito e que ensejou a abordagem policial vai muito além do nervosismo alegado pela defesa, mas apoia-se em situação que, de maneira induvidosa, requer a diligente ação policial.
+Aliás, esta Corte já decidiu que não se vislumbra qualquer ilegalidade na atuação dos policiais, amparados que estão pelo Código de Processo Penal para abordar quem quer que esteja atuando de modo suspeito ou furtivo, não havendo razão para manietar a atividade policial sem indícios de que a abordagem ocorreu por perseguição pessoal ou preconceito de raça ou classe social, motivos que, obviamente, conduziriam à nulidade da busca pessoal, o que não se verificou no caso (ut, AgRg no HC n. 822.922/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 16/8/2023).
+Quanto à violação do art. 65, III, "d", do CP, com razão a defesa, isso porque o réu fará jus à referida atenuante quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada. Assim, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada, deve incidir a atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal" (AgRg no AREsp n. 2.279.202/SP, DESTA RELATORIA, DJe de 29/5/2023).
+No caso concreto, consta da sentença (e-STJ fl. 504) que "conforme fl. 131 do BO/PM, o réu não somente confessou que fazia entrega de drogas, como também apôs sua assinatura no referido documento  .. ".
+Nesse contexto, é necessária a realização de nova dosimetria da pena.
+Mantidos os parâmetros utilizados na origem, e com a compensação, na segunda fase da dosimetria, da agravante da reincidência (e-STJ fl. 507) com a atenuante da confissão, apena do recorrente fica estabelecida em 5 anos e 10 meses de reclusão.
+Diante do exposto, com fundamento no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "c", parte final, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial apenas para reduzir a pena do recorrente para 5 anos e 10 meses de reclusão.
+Intimem-se.
+EMENTA
