@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de JONAS HENRIQUE DE SOUZA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que denegou o pedido de liminar formulado no HC n. 2273099-82.2023.8.26.0000.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 121, § 2º, incisos IV e V, e 211, c/c o art. 29, todos do Código Penal, termos em que denunciado.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente encontra-se despida de fundamentação idônea pois amparada na mera gravidade abstrata do delito.
+Alega que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP, e que se revelam adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do aludido diploma legal.
+Requer, assim, liminarmente, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais. No mérito, pugna pela confirmação da liminar deferida.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+O mesmo se pode dizer em relação à motivação da segregação cautelar, tendo em vista a seguinte fundamentação, adotada na origem:
+A análise dos autos revela que a vítima foi dada como desaparecida no dia 22 de maio de 2023, sendo seu corpo encontrado em local ermo na noite do dia 27 subsequente, com sinais de violência, a partir de então iniciando-se e desenvolvendo-se a investigação respectiva, tendo a polícia judiciária obtido imagens de momento em que a vítima corre pela rua, sendo perseguida por pessoas que ocupavam um Toyota/Corolla e uma motocicleta Honda, sendo captados gritos seus dizendo "vou morrer". Com bem aduz o representante do Ministério Público em sua cota Ministerial de fls.221, "item III", os denunciados (como revelam as provas carreadas até aqui pela Polícia Civil: depoimentos, interrogatório, arquivos de imagem e som e exames periciais) decidiram matar a vítima para garantir a impunidade pelo tráfico de drogas que vinham realizando nas imediações e o fizeram de forma horrenda, quer pelo arrebatamento da vítima em via pública, sendo usado veículo automotor e ao menos 4 pessoas em toda empreitada, quer pelos golpes contra ela desferidos no peito, quer, posteriormente, por atearem fogo ao corpo e o abandonarem em local ermo.
+A materialidade delitiva está devidamente demonstrada pelo boletim de ocorrência de registro do desaparecimento (fls. 23), encontro do cadáver (fls.24-25) e exame necroscópico (fls. 29-34). Ademais, o delito imputado aos investigados prevê pena privativa de liberdade máxima superior a 4 (quatro) anos, atendendo ao requisito do artigo 313, inciso I, do CPP.
+A peculiaridade do caso revela personalidade criminológica dos agentes e se soltos trarão entraves à persecução penal, não havendo ainda segurança de que permanecerão no distrito da culpa, furtando-se à aplicação da lei penal.
+Assim sendo, a prisão cautelar revela-se necessária para garantia da ordem pública abalada pela gravidade concreta do delito imputado. Ressalte-se que a gravidade referida não se verifica apenas pela natureza legal do delito praticado, mas sim pelas circunstâncias concretas do caso, como visto acima. Ainda, as medidas cautelares diversas da prisão (art. 319 do CPP) não parecem adequadas no caso dos autos, tendo em vista que não seriam suficientes para impedir a reiteração criminal e da mesma forma, os elementos de convicção contidos nos autos não revelam a existência das excludentes previstas nos incisos do art. 23 do Código Penal (estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito - art. 310, parágrafo único c/c art. 314 do CPP).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
