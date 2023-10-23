@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. MILITAR TAIFEIRO DA AERONÁUTICA. APLICAÇÃO DA LEI 12.158/2009. CONCESSÃO DE PROVENTOS DO GRAU HIERÁRQUICO SUPERIOR. REVISÃO DO ATO ADMINISTRATIVO. DECADÊNCIA RECONHECIDA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF.
+1. A Corte a quo se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive sobre a ocorrência da decadência administrativa. Assim, rever seu entendimento a respeito da "ocorrência da decadência administrativa, nos termos do art. 54 da Lei 9.784/99, quanto a possibilidade de revisão dos proventos do autor no posto de Segundo-Tenente, porquanto decorridos quase nove anos entre a data da concessão da melhoria de proventos e a pretendida revisão", com o objetivo de acolher a pretensão recursal, demandaria necessariamente revolvimento de matéria fática, o que é inviável na via eleita ante o óbice contido na Súmula 7/STJ.
+2. Em relação à decadência, observa-se que a recorrente não impugnou especificamente os fundamentos do acórdão recorrido de que "a edição da Portaria COMGEP nº 1.471, de 25.06.2015, do Comando da Aeronáutica, não se presta a afastar a decadência, porquanto possui caráter genérico, não identificando as pessoas que seriam atingidas por tais medidas, o que somente seria definido a partir da instauração efetiva do competente procedimento revisional em relação a cada caso" e de que "não há nos autos comprovação de que a Administração tenha providenciado a abertura ou intimado a parte autora do competente processo administrativo revisional dentro do prazo decadencial de cinco anos de que trata a Lei 9.784/99, ou seja, antes de novembro/2015, vindo a determinar a revisão do tão somente em dezembro/2018, com a edição da Portaria DIRAP N. 7.061/IP4-3, de 13.12.2018". Isso, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a combateu. Aplicam-se ao caso as Súmulas 283 e 284 do STF.
+3. Por fim, extrai-se do acórdão vergastado e das razões de REsp que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar os fatos relacionados ao acatamento da decisão do TCU, o que atrai a incidência do óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial (fls. 407-410, e-STJ).
+A agravante aduz (fls. 419-422, e-STJ):
+Nesse contexto, o que pretende o ente público é que seja discutida a questão jurídica referente ao termo inicial da contagem do prazo decadencial (publicação da Portaria COMGEP nº 1.471-T/AJU, de 25 de junho de 2015), não sendo necessário, pois, o revolvimento de fatos e provas.
+Ademais, a jurisprudência do STJ é firme no sentido de que a adoção de qualquer medida da autoridade que indique diligência impugnando a validade do ato torna possível a revisão daquele e não pode ser considerada mero ato preparatório. Nesse sentido:
+(..)
+Quanto à questão de fundo, o cerne da questão reside na possibilidade ou não de o Taifeiro da Aeronáutica, ingresso até 31/12/1992, tendo se utilizado da previsão contida no art. 34 da MP 2.215/2001, quando da passagem à inatividade, valer-se, cumulativamente, das disposições contidas na Lei n.º 12.158/2009.
+(..)
+Portanto, não se admite a "opção híbrida" pretendida pela apelante, traduzida no recebimento de remuneração correspondente ao grau hierárquico superior, com base na redação originária do artigo 50, II, da Lei 6.880/80, cumulada com promoção a suboficial, nos termos da Lei 12.158/2009, restando facultada à pensionista militar a opção pelo benefício que melhor lhe aprouver" - destacou-se.
+Sem impugnação.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.040.851 - PE (2022/0373415-0)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+UNIÃO
+AGRAVADO
+:
+IVANILDO LOURENCO DE LIMA
+ADVOGADO
+:
+SAULO XAVIER BARBOSA - PE040569
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. MILITAR TAIFEIRO DA AERONÁUTICA. APLICAÇÃO DA LEI 12.158/2009. CONCESSÃO DE PROVENTOS DO GRAU HIERÁRQUICO SUPERIOR. REVISÃO DO ATO ADMINISTRATIVO. DECADÊNCIA RECONHECIDA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF.
+1. A Corte a quo se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive sobre a ocorrência da decadência administrativa. Assim, rever seu entendimento a respeito da "ocorrência da decadência administrativa, nos termos do art. 54 da Lei 9.784/99, quanto a possibilidade de revisão dos proventos do autor no posto de Segundo-Tenente, porquanto decorridos quase nove anos entre a data da concessão da melhoria de proventos e a pretendida revisão", com o objetivo de acolher a pretensão recursal, demandaria necessariamente revolvimento de matéria fática, o que é inviável na via eleita ante o óbice contido na Súmula 7/STJ.
+2. Em relação à decadência, observa-se que a recorrente não impugnou especificamente os fundamentos do acórdão recorrido de que "a edição da Portaria COMGEP nº 1.471, de 25.06.2015, do Comando da Aeronáutica, não se presta a afastar a decadência, porquanto possui caráter genérico, não identificando as pessoas que seriam atingidas por tais medidas, o que somente seria definido a partir da instauração efetiva do competente procedimento revisional em relação a cada caso" e de que "não há nos autos comprovação de que a Administração tenha providenciado a abertura ou intimado a parte autora do competente processo administrativo revisional dentro do prazo decadencial de cinco anos de que trata a Lei 9.784/99, ou seja, antes de novembro/2015, vindo a determinar a revisão do tão somente em dezembro/2018, com a edição da Portaria DIRAP N. 7.061/IP4-3, de 13.12.2018". Isso, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a combateu. Aplicam-se ao caso as Súmulas 283 e 284 do STF.
+3. Por fim, extrai-se do acórdão vergastado e das razões de REsp que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar os fatos relacionados ao acatamento da decisão do TCU, o que atrai a incidência do óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 18 de setembro de 2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, o Tribunal de origem decidiu a controvérsia com os seguintes fundamentos:
+Todavia, somente em julho/2019 o autor teve, de fato, o benefício revisado, voltando a perceber de acordo com o Posto/Graduação de Suboficial, por força da Portaria DIRAP N. 7.061/IP4-3, de 13.12.2018, restando configurada, portanto, a decadência administrativa nos termos do art. 54 da Lei 9.784/1999, porquanto decorridos quase nove anos entre a data da concessão do beneficio e a sua revisão.
+Diversamente do que defende a apelante, a edição da Portaria COMGEP nº 1.471, de 25.06.2015, do Comando da Aeronáutica, não se presta a afastar a decadência, porquanto possui caráter genérico, não identificando as pessoas que seriam atingidas por tais medidas, o que somente seria definido a partir da instauração efetiva do competente procedimento revisional em relação a cada caso.
+Do mesmo modo, tem-se que o Despacho n.º 137/COJAER/511, de 19.03.2014, da Consultoria Jurídica da Aeronáutica teve caráter meramente opinativo, não tendo o condão de impugnar a validade do ato de concessão em relação aos seus beneficiários, não se prestando, igualmente para suspender o transcurso do prazo decadencial.
+Também não há nos autos comprovação de que a Administração tenha providenciado a abertura ou intimado a parte autora do competente processo administrativo revisional dentro do prazo decadencial de cinco anos de que trata a Lei 9.784/99, ou seja, antes de novembro/2015, vindo a determinar a revisão do tão somente em dezembro/2018, com a edição da Portaria DIRAP N. 7.061/IP4-3, de 13.12.2018.
+Da mesma forma, não há que falar em contagem do prazo decadencial somente apôs a apreciação peto Tribunal de Contas da União, visto que, no caso concreto, não se trata de concessão inicial de aposentadoria, reforma, ou pensão, mas sim de melhora posterior ao ato de inatividade.
+É certo que a Administração Pública tem o poder-dever de anular os seus próprios atos, quando eivados de ilegalidade Entretanto, a teor do art. 54 da Lei 9.784/99, o direito de anulação do ato administrativo decai, no prazo de cinco anos, contados da data em que esse ato foi praticado, de forma que encerrado o prazo decadencial, o administrado deve ter sua situação amparada peto manto da segurança jurídica.
+Verifica-se que a Corte a quo se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive sobre a ocorrência da decadência administrativa. Assim, rever seu entendimento a respeito da "ocorrência da decadência administrativa, nos termos do art. 54 da Lei 9.784/99, quanto a possibilidade de revisão dos proventos do autor no posto de Segundo-Tenente, porquanto decorridos quase nove anos entre a data da concessão da melhoria de proventos e a pretendida revisão", com o objetivo de acolher a pretensão recursal, demandaria necessariamente revolvimento de matéria fática, o que é inviável na via eleita ante o óbice contido na Súmula 7/STJ.
+Veja-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. PREQUESTIONAMENTO. AUSÊNCIA. CONTRATO. RETENÇÃO DE PAGAMENTOS. DECADÊNCIA E LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7 DO STJ. INCIDÊNCIA. CLÁUSULAS CONTRATUAIS. EXAME. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL. DEMONSTRAÇÃO. AUSÊNCIA.
+ ..
+3. Esbarra no enunciado da Súmula 7 desta Corte discordar da constatação do aresto recorrido de que o quinquênio legal necessário à ocorrência da decadência administrativa não transcorreu.
+ ..
+8. Agravo interno desprovido. (AgInt no AREsp 910.537/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17.5.2018)
+Ademais, o Colegiado regional utilizou fundamentos diversos, os quais a parte recorrente não rebateu e são aptos, por si sós, a manter o decisum combatido. Dessa forma, aplicam-se, por analogia, as Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Com efeito, em relação à decadência, observa-se que a recorrente não impugnou especificamente os fundamentos do acórdão recorrido de que "a edição da Portaria COMGEP nº 1.471, de 25.06.2015, do Comando da Aeronáutica, não se presta a afastar a decadência, porquanto possui caráter genérico, não identificando as pessoas que seriam atingidas por tais medidas, o que somente seria definido a partir da instauração efetiva do competente procedimento revisional em relação a cada caso" e de que "não há nos autos comprovação de que a Administração tenha providenciado a abertura ou intimado a parte autora do competente processo administrativo revisional dentro do prazo decadencial de cinco anos de que trata a Lei 9.784/99, ou seja, antes de novembro/2015, vindo a determinar a revisão do tão somente em dezembro/2018, com a edição da Portaria DIRAP N. 7.061/IP4-3, de 13.12.2018". Isso, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a combateu. Aplicam-se ao caso as Súmulas 283 e 284 do STF.
+Por fim, extrai-se do acórdão vergastado e das razões de REsp que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar os fatos relacionados ao acatamento da decisão do TCU, o que atrai a incidência do óbice da Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
