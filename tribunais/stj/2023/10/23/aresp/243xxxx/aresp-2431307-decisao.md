@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDO ALVES DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO Decisão que indeferiu o pedido de justiça gratuita em recurso de apelação Não comprovada a alteração da condição econômica do agravante. Hipossuficiência não caracterizada Agravo interno desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98, § 1º, e 99 do CPC, no que concerne ao reconhecimento do direito à concessão dos benefícios da gratuidade da justiça, em razão da demonstração de hipossuficiência para arcar com as despesas processuais, o que, inclusive, foi reconhecido em outras demandas em que é parte, trazendo a seguinte argumentação:
+Destarte, por expressa previsão legal, o Recorrente faz jus à concessão à justiça gratuita, considerando que a legislação pertinente dispõe que o benefício poderá ser pleiteado e concedido por simples petição e a qualquer momento (artigo 99, §1º do Código de Processo Civil), com a juntada de declaração de hipossuficiência, não necessitando de demais provas.
+Insta consignar que  por letra do artigo 98 do Código de Processo Civil  o benefício em comento não depende de estado de miserabilidade extrema, sendo suficiente a  insuficiência de recursos para pagar as custas, despesas processuais e honorários advocatícios . Nesse diapasão, é o disciplinado pela doutrina:.
+ ..
+No caso em apreço, ao longo de todo o trâmite processual o Recorrente demonstrou satisfatoriamente que não possui condições econômicas de arcar com o recolhimento do elevado valor do preparo recursal.
+É o que se infere, inclusive, pela própria natureza da lide, que versa sobre rescisão de contrato de compra e venda de imóvel em razão da falta de condições econômicas do Recorrente parar arcar com os respectivos valores.
+ ..
+A situação de hipossuficiência do Recorrente, com consequente reconhecimento do direito à gratuidade, foi objeto de apreciação em outros processos, também envolvendo a ora Recorrida.
+Ressalta-se que, nos autos nº 1001409-36.2021.8.26.0526/Agravo de Instrumento nº 2023562-38.2022.8.26.0000 26ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, a hipossuficiência financeira do Recorrente foi devidamente reconhecida, conforme se infere dos excertos abaixo colacionados (fls. 632/635).
+É, no essencial, o relatório. Decido.
+Quant o à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, a nova petição apresentada não tem o condão de alterar a r. decisão exarada às fls. 548/549; trata-se de mero pedido de reconsideração com fundamentos idênticos aos antes deduzidos e sem apresentação de fato novo capaz de alterar o resultado outrora proclamado, observado que a ausência de rendimentos e de bens móveis e imóveis contrastam com a documentação carreada aos autos, indiciária de ocultação de fonte de renda/patrimônio e que não permite concluir ser o recorrente hipossuficiente.
+Nesta mesma linha de intelecção é o posicionamento consolidado na jurisprudência desta Colenda Câmara.
+Logo, era o caso de indeferimento da gratuidade, nos exatos termos dos artigos 932, VIII, do Código de Processo Civil; c.c. 168, § 3º, do Regimento Interno deste Sodalício 2 (fls. 1.146/1.147) (fls. 612/613).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
