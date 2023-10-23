@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. OPERAÇÃO ALCATRAZ. FRAUDE EM LICITAÇÕES. CORRUPÇÃO ATIVA E PASSIVA. LAVAGEM DE CAPITAIS E ASSOCIAÇÃO CRIMINOSA. NULIDADE DA DECISÃO QUE DECRETOU A QUEBRA CUMULATIVA DO SIGILO BANCÁRIO, FISCAL, TELEFÔNICO E TELEMÁTICO DOS PACIENTES. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA QUANTO À IMPRESCINDIBILIDADE DA MEDIDA. INOCORRÊNCIA. NECESSIDADE DO DEFERIMENTO DE FORMA PROGRESSIVA A PARTIR DA MEDIDA MENOS INVASIVA E IMPOSSIBILIDADE DA QUEBRA DE SIGILO TELEMÁTICO INCLUIR OS DADOS CONSTANTES DO E-MAIL ANTES DA DECISÃO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão que deferiu a quebra de sigilo dos recorrentes está devidamente fundamentada, por ter reconhecido a impossibilidade do uso de outros meios de provar os fatos investigados.
+2. As questões referentes à necessidade do deferimento da quebra de sigilo a partir da medida menos invasiva e da nulidade da quebra do sigilo telemático, por ter a decisão determinado o envio de todos os dados constantes da caixa de e.mail, não foram analisadas no acórdão atacado e, desta forma, não podem ser objeto de deliberação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+3. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+As partes recorrentes alegam a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, X, XII, XXXV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumentam que haveria no acórdão recorrido contradição que, apesar de impugnada, não foi reparada no julgamento dos embargos de declaração.
+Sustentam que o julgado "deixou de prestar tutela jurisdicional efetiva ao não examinar a tese do escalonamento das medidas invasivas e à ausência de limitação temporal e material da quebra telemática relacionada às aplicações de internet" (fls. 414-415).
+Aduzem que, acerca do deferimento da quebra dos sigilos fiscal, bancário, telemático e telefônico, não há "a suposta razão concreta da indispensabilidade das medidas, muito menos a razão concreta que explicaria sua deflagração conjunta. O que existe é fórmula-padrão inidônea" (fl. 420).
+Defendem que, no tocante à determinação para fornecimento por provedores de internet do conteúdo existente na caixa de e-mail, configura-se o caso "de interceptação telemática por acesso a aplicações de internet, hipótese em que a delimitação objetiva e temporal é necessária, sob pena de devassa indevida" (fl. 427).
+Requerem a admissão do recurso, bem como a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas.
+É o relatório.
+Quanto à questão da adequada fundamentação das decisões judiciais, o STF firmou a seguinte tese vinculante:
+Tema n. 339 do STF: O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou pr ovas.
+O respectivo julgado recebeu a ementa que segue transcrita:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+Nessa linha, a existência de motivação suficiente para o deslinde da causa afasta a ocorrência de nulidade do provimento questionado, a despeito de reputar a parte recorrente as razões de decidir incorretas, incompletas ou demasiadamente sucintas.
+No caso, foram declinados, de forma suficiente, os motivos da compreensão adotada no acórdão impugnado.
+Com efeito, demonstrada a realização da prestação jurisdicional constitucionalmente adequada, ainda quando não se concorde com a solução dada à causa, afigura-se inviável o prosseguimento do recurso extraordinário, pois o provimento recorrido encontra-se em sintonia com a tese fixada no Tema n. 339 do STF, de observância obrigatória (CPC, art. 927, III).
+Além disso, a Suprema Corte, ao apreciar o Tema n. 895 de repercussão geral, fixou a seguinte tese de observância obrigatória:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso, a afronta à Constituição Federal é reflexa, pois depende da análise da incidência dos dispositivos infraconstitucionais sobre as circunstâncias discutidas no acórdão recorrido, motivo pelo qual se enquadra no Tema n. 895 do STF.
+Quanto ao mais, conforme orientação vinculante do STF, nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que nele se busque debater o mérito.
+A compreensão é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do Superior Tribunal de Justiça.
+Esse é o entendimento fixado pela Suprema Corte no regime de repercussão geral, como se verifica na seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, o acórdão recorrido não debateu acerca do escalonamento das medidas de quebra de sigilo e sobre a tese relacionada à delimitação objetiva e material da quebra telemática relacionada ao conteúdo da caixa de e-mail, tendo em vista a impossibilidade de conhecimento da matéria sem configurar a indevida supressão de instância. Confira-se (fl. 374):
+Por fim, registra-se que as questões referentes à necessidade do deferimento da quebra de sigilo a partir da medida menos invasiva e da nulidade da quebra do sigilo telemático, por ter a decisão determinado o envio de todos os dados constantes da caixa de e-mail, não foram analisadas no acórdão atacado e, desta forma, não podem ser objeto de deliberação por esta Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Nesse contexto, o acolhimento da irresignação pressupõe a análise dos requisitos de admissibilidade do recurso anteriormente dirigido a esta Corte Superior.
+Portanto, eventual afronta à Carta Magna, se existente, seria apenas indireta ou reflexa, na linha da compreensão do STF de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Assim, destituída de repercussão geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o recurso extraordinário não prospera.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339/STF. CONFORMIDADE. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. EXISTÊNCIA DE ÓBICE AO EXAME D E MÉRITO, DEBATE FÁTICO OU OFENSA CONSTITUCIONAL INDIRETA. TEMA N. 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
