@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. SERVIÇO DE VALOR ADICIONADO. COBRANÇA IRREGULAR. DANO MATERIAL. VERDADEIRO PRESTADOR. RESPONSABILIDADE
+1. Tal como consignado pela Ministra Nancy Andrigui, no julgamento do REsp 1929288/TO, pela Terceira Turma, em 22/02/2022, "no âmbito das ações coletivas, não há qualquer incompatibilidade de se pleitear, cumulativamente, a condenação do infrator ao pagamento de indenização por ofensa a direitos individuais homogêneos e de compensação por danos morais coletivos, notadamente porque representam pedidos e causas de pedir absolutamente compatíveis entre si".
+2. No caso, o acórdão regional divisou o dano em dois: enquanto o abalo patrimonial estaria relacionado a direitos individuais homogêneos propriamente ditos (referente a cada cobrança em si que teria ocasionado dano material), o abalo moral coletivo narrado na decisão recorrida foi tido como verdadeiramente transindividual/coletivo.
+3. Em relação ao primeiro (o dano material), a conclusão de que ele não poderia ser cobrado das concessionárias agravadas foi tomada apenas apreciando o cenário fático narrado no próprio acórdão regional, ou seja, pressupôs-se existente o quadro fático-probatório exposto pelo juízo a quo, mas se entendeu que a solução adotada na origem em relação a tal quadro estaria, juridicamente, equivocada, não se aplicando nesse aspecto o óbice da Súmula 7 do STJ.
+4. Não pode subsistir o capítulo da sentença dirigido a "condenar, assim, as concessionárias na devolução dos valores cobrados indevidamente, desde que comprovado o respectivo recolhimento", uma vez que se prejuízo material houve (quando esse existiu), ele decorreu da cobrança irregular de serviços prestados por terceiros, que foram os que verdadeiramente embolsaram a quantia exigida, e se afigura digna de questionamento a condenação que impõe às sociedades empresárias a obrigação de restituir valores que abrangem significativa parcela que nem sequer foi ilicitamente cobrada.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MPF contra decisão de e-STJ fls. 15181/15191, nos quais o órgão ministerial alega, em resumo, que:
+a) houve manifesta violação da Súmula 7/STJ, já que os danos materiais causados pelas empresas concessionárias não poderiam ter sido afastados sem que fosse realizada prévia análise das provas dos autos;
+b) é cabível a prolação de decisão judicial abrangente em sede de ação civil pública para defesa de consumidores, condenando as sociedades empresárias em danos materiais, já que somente na fase de liquidação/execução individual que o usuário lesado terá que fazer prova do pagamento das quantias indevidamente cobradas em suas faturas de conta telefônica, a título do uso do prefixo 0900 (serviço de valor adicionado);
+c) embora os serviços de valor adicionado não constituam atividade ilícita de per si, é vedada a apresentação do produto de forma abusiva, não detalhada, confusa e pouco esclarecedora na fatura do usuário, além de ser indevida a colocação da cobrança pelo uso do referido serviço na conta telefônica, o que implica coagir o consumidor a quitar as cobranças apresentadas, sob pena de ficar suspensa a prestação do serviço de telecomunicações típico;
+Contrarrazões (e-STJ fls. 15.247/15.255 e 15.286/15.293).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. SERVIÇO DE VALOR ADICIONADO. COBRANÇA IRREGULAR. DANO MATERIAL. VERDADEIRO PRESTADOR. RESPONSABILIDADE
+1. Tal como consignado pela Ministra Nancy Andrigui, no julgamento do REsp 1929288/TO, pela Terceira Turma, em 22/02/2022, "no âmbito das ações coletivas, não há qualquer incompatibilidade de se pleitear, cumulativamente, a condenação do infrator ao pagamento de indenização por ofensa a direitos individuais homogêneos e de compensação por danos morais coletivos, notadamente porque representam pedidos e causas de pedir absolutamente compatíveis entre si".
+2. No caso, o acórdão regional divisou o dano em dois: enquanto o abalo patrimonial estaria relacionado a direitos individuais homogêneos propriamente ditos (referente a cada cobrança em si que teria ocasionado dano material), o abalo moral coletivo narrado na decisão recorrida foi tido como verdadeiramente transindividual/coletivo.
+3. Em relação ao primeiro (o dano material), a conclusão de que ele não poderia ser cobrado das concessionárias agravadas foi tomada apenas apreciando o cenário fático narrado no próprio acórdão regional, ou seja, pressupôs-se existente o quadro fático-probatório exposto pelo juízo a quo, mas se entendeu que a solução adotada na origem em relação a tal quadro estaria, juridicamente, equivocada, não se aplicando nesse aspecto o óbice da Súmula 7 do STJ.
+4. Não pode subsistir o capítulo da sentença dirigido a "condenar, assim, as concessionárias na devolução dos valores cobrados indevidamente, desde que comprovado o respectivo recolhimento", uma vez que se prejuízo material houve (quando esse existiu), ele decorreu da cobrança irregular de serviços prestados por terceiros, que foram os que verdadeiramente embolsaram a quantia exigida, e se afigura digna de questionamento a condenação que impõe às sociedades empresárias a obrigação de restituir valores que abrangem significativa parcela que nem sequer foi ilicitamente cobrada.
+5. Agravo interno não provido.
+VOTO
+Adianto que o agravo não merece provimento.
+Entendeu-se, na decisão recorrida, que o acórdão da origem havia divisado duas condutas autônomas (uma que teria ofendido direitos individuais e outra que teria ferido direitos transindividuais), sendo plenamente congruente concluir não estar configurado o primeiro dano, mas demonstrado o segundo.
+Em relação ao primeiro (o material), a conclusão de que ele não poderia ser cobrado das concessionárias agravadas foi tomada apenas quando apreciado o cenário fático narrado no próprio acórdão regional.
+Em outras palavras, pressupôs-se existente o quadro fático-probatório exposto pelo juízo a quo, mas se entendeu que a solução adotada na origem em relação a tal quadro estaria, juridicamente, equivocada.
+Portanto, em tal aspecto, não cabia aplicar o óbice da Súmula 7 do STJ.
+No mais, mantenho as razões pelas quais entendi não ser exigível das sociedades empresárias a cobrança pelo suposto dano material:
+Passo ao exame dos apelos especiais dos particulares, que, além das matérias já enfrentadas e rejeitadas acima, impugnam, resumidamente: a) a condenação por dano material; b) a condenação por dano moral coletivo e; c) o quantum indenizatório.
+Saliento que os três itens serão examinados à luz do contexto fático-probatório delineado no acórdão recorrido, ante os limites impostos pela Súmula 7 do STJ.
+Dito isso, adianto que tem razão as recorrentes em relação à impropriedade quanto à condenação delas na reparação do dano material.
+Isso porque a condenação, nesse ponto, foi bastante abrangente, para "condenar, assim, as concessionárias na devolução dos valores cobrados indevidamente, desde que comprovado o respectivo recolhimento" (e-STJ fl. 13.482).
+Ou seja, determinou-se que a TELESP e a EMBRATEL (atualmente, a CLARO) fossem condenadas a restituir todos os valores cobrados a título do uso do prefixo 0900 (serviço de valor adicionado), sem qualquer ressalva.
+Acontece que o próprio acórdão reconhece que o serviço em si mesmo não é ilegal, inclusive sendo utilizado, não raramente, para a prestação de utilidade pública.
+Observe-se, nesse ponto, o que diz a sentença:
+ ..  existiam serviços, de valor adicionado, de utilidade pública, como Disque Detran, Disque Tribunal de Justiça, para acompanhamento processual, entre outros. E a devolução, para cada usuário do 0900, caracteriza interesse individual. Cada prejudicado deve buscar a tutela jurisdicional, fugindo ao objeto da ação civil pública. (e-STJ 9.788)
+Isto é, já se afigura digna de questionamento a condenação que impõe às sociedades empresárias a obrigação de restituir valores dentre os quais há significativa parcela que nem sequer foi ilicitamente cobrada.
+Na realidade, nesse ponto, tenho que caberia o exame individualizado da situação de cada consumidor, pois só assim seria possível divisar o que efetivamente foi cobrado de maneira ilegal ou o que retratava cobrança lícita pelo uso de serviço legal.
+Além disso, tem razão as recorrentes quando afirmam que se prejuízo material houve (quando esse existiu), ele decorreu da cobrança irregular de serviços prestados por terceiros, que foram os que verdadeiramente embolsaram a quantia exigida.
+Nesse particular aspecto, entendo que para reclamar a restituição do patrimônio lesado dos consumidores prejudicados, seria necessária, no mínimo, a presença nesta ação daqueles que efetivamente prestaram os serviços.
+Portanto, concluo que a condenação pela reparação do dano material não deve prevalecer.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
