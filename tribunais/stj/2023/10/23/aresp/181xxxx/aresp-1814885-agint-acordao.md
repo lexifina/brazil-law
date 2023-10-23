@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO EM FACE DA RECUPERANDA. EXTENSÃO DOS EFEITOS A TERCEIROS NÃO ABRANGIDOS NO PROCESSO DE SOERGUIMENTO. PRETENSÃO AFASTADA PELO TRIBUNAL ESTADUAL. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RIAN EMPREENDIMENTOS EM HOTELARIA, NEGÓCIOS E PARTICIPAÇÕES LTDA. (RIAN) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. DEFERIMENTO. SUSPENSÃO EM RELAÇÃO À RECUPERANDA.. INADMISSÃO COM FUNDAMENTO NO ART. 1.030, I, b, DO NCPC (ART. 543-C, § 7º, I, DO CPC/73). AGRAVO INTERNO APRECIADO PELO TRIBUNAL DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO. (e-STJ, fls. 797/801).
+Nas razões do presente inconformismo, defendeu que o acórdão foi omisso, pois deixou de se manifestar sobre questões essenciais ao julgamento da lide.
+Não foi apresentada contraminuta (e-STJ, fl. 817).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO EM FACE DA RECUPERANDA. EXTENSÃO DOS EFEITOS A TERCEIROS NÃO ABRANGIDOS NO PROCESSO DE SOERGUIMENTO. PRETENSÃO AFASTADA PELO TRIBUNAL ESTADUAL. VIOLAÇÃO DOS ARTS. 489 e 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em omissão, falta de fundamentação e/ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+2. Agravo interno não provido.
+VOTO
+Da ausência de violação do art. 1.022 do NCPC
+Nas razões do seu recurso, RIAN alegou a violação dos arts. 489, § 1º, IV, e 1.022 do CPC em virtude da omissão no tocante a necessidade de ser suspensas as ações e execuções diante do deferimento do processamento da recuperação judicial.
+Ressalta a parte que demonstrou ter sido alcançada pelos efeitos da referida decisão, tendo o acórdão deixado de analisar o descumprimento dos arts. 6º, § 4º, e 52, III, da Lei nº 11.101/2005.
+Contudo, verifica-se que o Tribunal de Justiça do Distrito Federal e dos Territórios se pronunciou sobre os temas consignando expressamente que:
+Acerca do mérito recursal atinente a pretensão de suspensão do curso do processo contra os sócios que não constam na ação de recuperação judicial nº. 0712583-95.2019.8.07.0015, o Superior Tribunal de Justiça, por meio do Recurso Especial Repetitivo nº. 1.333.349/SP, de relatoria do eminente Ministro Luis Felipe Salomão, fixou a seguinte tese:
+"A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59," (REsp 1333349/SP,caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005 Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 02/02/2015 - Tema 885) -Destaquei
+Este mesmo entendimento está consolidado na Súmula 581 daquela Corte Superior.
+Compulsando a decisão proferida nos autos daquela demanda recuperacional, aquele juízo universal determinou a suspensão das ações e execuções contra as pessoas jurídicas CAENGE S. A. CONSTRUÇÃO,ADMINISTRAÇÃO E ENGENHARIA, SOCIEDADE INCORPORADORA RESIDENCIAL REALGARDEN S. A., POUSADA RETIRODAS PEDRASLTDA, SOCIEDADE INCORPORADORA VARANDAS DO LAGO NORTE III S. A.. o que, em princípio, autoriza o prosseguimento da ação de origem contra os ora agravantes.
+No entanto, a jurisprudência do Superior Tribunal de Justiça somente admite a extensão dos efeitos da decisão recuperacional a terceiros não abrangidos na ação de recuperação nas hipóteses em que os bens dos sócios constem no plano de recuperação judicial proposto e homologado perante o juízo falimentar. É como decidiu recentemente a Segunda Seção daquela Corte em caso similar:
+(..)
+A propósito, tratando-se de bens não abrangidos pelo plano de recuperação judicial, o juízo da recuperação judicial não detém competência para decidir sobre quaisquer atos de constrição. É o que diz a Súmula 480:
+"O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa"
+Na situação em comento, os agravantes/devedores apenas apresentam a decisão que deferiu o processamento da recuperação judicial sem, contudo, instruir os autos originários com o plano de recuperação judicial previsto no art. 53 da Lei 11.101/2005, no qual poder-se-ia avaliar a eventual presença de bens dos agravantes a serem utilizados para saldar os débitos junto aos credores. Assim, não há como avaliar se terão ou não prejuízos com o prosseguimento do cumprimento de sentença ou que isto comprometerá o adimplemento do plano de recuperação.
+Quanto a argumentação de que o prosseguimento da execução contra os seus sócios poderia acarretar em prejuízos ao cumprimento do futuro plano de recuperação judicial, com as devidas vênias, tenho que tal raciocínio mostra-se equivocado, pois a sociedade em recuperação judicial acaba, por via transversa, sendo beneficiada com a continuidade destas execuções e cumprimentos de sentença contra os sócios e sociedades do mesmo grupo econômico. Isto ocorre pois, em um primeiro momento, ficará desonerada dessa obrigação, a qual somente poderá lhe ser exigida em momento posterior, por meio de ação de regresso. Precedente do STJ:
+(..)
+Sem estas evidências, portanto, reputo correta a decisão interlocutória recorrida que determinou o prosseguimento da execução quanto aos sócios não abarcados na decisão que deferiu o pedido de recuperação judicial, não existindo óbice legal para a incursão sobre os seus respectivos patrimônios.(e-STJ, fls. 633/634).
+Não há como sustentar que houve negativa de prestação jurisdicional, uma vez que o TJDFT analisou as questões que lhe pareceram necessárias à solução da causa.
+O acórdão encontra-se fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação, tendo como base, inclusive, a tese firmada em julgamento submetido ao rito dos recursos repetitivos (Tema 885).
+Assim, inexistem os vícios elencados nos arts 489 e. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA DE SEGURO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA DE OFENSA A LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 284/STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. IMPUGNAÇÃO DO ATO DE NOMEAÇÃO DO PERITO. PRECLUSÃO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. No que concerne aos artigos 489, II, § 1º, IV, e 1.022 do CPC/2015, apontados como violados, a parte recorrente não desenvolveu argumentação que evidenciasse a ofensa, caracterizando a deficiência na fundamentação do apelo especial, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas. Cabe ao juiz, como destinatário da prova, decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, determinando as provas necessárias e indeferindo as inúteis ou protelatórias.
+3. A orientação do Superior Tribunal de Justiça é de que, se não houver impugnação à qualificação do perito indicado em momento oportuno, preclui o direito da parte em fazê-la posteriormente. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.893.446/SC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 26/10/2022, DJe de 17/11/2022 - sem destaque no original)
+Não se conhece, portanto, da violação dos arts. 489 e 1.022 do CPC.
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
