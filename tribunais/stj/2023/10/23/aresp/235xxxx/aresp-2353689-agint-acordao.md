@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO, POR DOCUMENTO IDÔNEO. AUSÊNCIA.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local ou outra circunstância que importe na suspensão do prazo recursal no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por EZEQUIEL TRINDADE NETO, contra a decisão da Presidência do STJ que não conheceu do agravo em recurso especial que interpusera, em razão de sua intempestividade.
+Nas razões do presente recurso, o agravante argumenta que, pela Portaria ME nº 5.407/2022, o Ministro da Economia estabeleceu o ponto facultativo no dia 17/06/2022, cabendo aos demais órgãos da administração pública, inclusive o CNJ, observar o teor do ato normativo.
+Defende, ainda, ser notório o feriado de Corpus Christi, segundo a tradição católica, que predomina no Brasil.
+À e-STJ fls. 1.378/1.381, parecer de lavra do i. Subprocurador-Geral da República Mauricio Vieira Bracks, opina pelo desprovimento do agravo interno.
+É o relato do necessário.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO, POR DOCUMENTO IDÔNEO. AUSÊNCIA.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local ou outra circunstância que importe na suspensão do prazo recursal no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada decretou a intempestividade do agravo em recurso especial nos termos da seguinte fundamentação (e-STJ fl. 1.297):
+"Mediante análise do recurso de EZEQUIEL TRINDADE NETO, a parte recorrente foi intimada da decisão agravada em 03/06/2022, sendo o agravo somente interposto em 28/06/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso".
+Pela análise das razões recursais ora apresentadas, contudo, verifica-se que o agravante não trouxe qualquer argumento capaz de ilidir a conclusão da decisão agravada.
+Na espécie, o agravo em recurso especial foi interposto quando já em vigor o novo Código de Processo Civil, cujo art. 1.003, §6º, é expresso no sentido de que cabe à parte recorrente comprovar a ocorrência de feriado local - ou outra circunstância que importe em suspensão dos prazos processuais - no ato de interposição do recurso.
+A propósito, a Corte Especial do STJ, ao deliberar sobre tal dispositivo, consolidou a orientação de que, no atual sistema normativo, é vedada a posterior comprovação de eventual suspensão do prazo recursal. A regra, deveras, é categórica: "ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada" (AgInt no AREsp n. 957.821/MS, Corte Especial, DJe de 19/12/2017).
+E, na hipótese dos autos, observa-se que o agravante, quando da interposição do agravo em recurso especial, deixou de comprovar a alegada suspensão do prazo recursal no feriado de Corpus Christi, o qual, ao contrário do sustentado, não se trata de feriado nacional.
+Com efeito, já decidiu esta Corte Superior que "o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido" (AgInt nos EDcl no AREsp n. 2.003.156/RJ, 3ª Turma, DJe de 18/4/2022).
+Ainda nesse sentido: AgInt no AREsp n. 2.071.344/SP, 4ª Turma, DJe de 15/8/2022; AgInt no AREsp n. 1.486.646/RJ, 4ª Turma, DJe de 1/7/2022; AgInt no REsp 1660451/SP, 3ª Turma, DJe 08/09/2017 e RCD no AREsp 751.455/RJ, 3ª Turma, DJe de 3/2/2016.
+Saliente-se, ademais, que não socorre ao agravante o invocado ato normativo editado pelo Ministério da Economia, cujos efeitos circunscrevem-se ao Poder Executivo federal, sem força de lei cogente em todos os Poderes e em todo o território nacional. Também, o apontado ato normativo editado pelo Conselho Nacional de Justiça se refere à gestão administrativa e de pessoal do próprio órgão, sem vinculação dos demais Tribunais do país.
+Lado outro, é certo que "a existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional" (AgInt no AREsp n. 1.631.510/MT, Terceira Turma, DJe de 15/3/2023), mormente em situações como na espécie, em que o suposto feriado de Corpus Christi teria abrangido 2 dias úteis.
+Desse modo, em conclusão, considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e que deixou a parte agravante de comprovar a suspensão do prazo quando de sua interposição, não há como ser afastada a intempestividade decretada na decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
