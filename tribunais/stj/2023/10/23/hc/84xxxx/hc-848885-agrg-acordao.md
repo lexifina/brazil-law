@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. CRIMES DOS ARTS. 303, CAPUT, E 306, § 1º, II, DO CTB; E 28 DA LEI N. 11.343/2006. PRISÃO PREVENTIVA. DESCUMPRIMENTO REITERADO DE MEDIDAS CAUTELARES ANTERIORMENTE FIXADAS. MOTIVAÇÃO IDÔNEA. PRECEDENTES. INEVIDÊNCIA DE ILEGALIDADE.
+1. É firme, nesta Corte Superior, o entendimento de que o descumprimento de medidas cautelares diversas da prisão anteriormente fixadas é fundamentação idônea para ensejar o restabelecimento da custódia preventiva (HC n. 750.997/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 6/10/2022), bem como de que não é possível realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença (RHC n. 162.518/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/5/2022).
+2. Agravo regimental improvido.
+RELATÓRIO
+Trago à análise da Turma o agravo regimental interposto por Marcio Franca Passarela contra a decisão de fls. 378/380, que foi assim resumida:
+HABEAS CORPUS. ARTS. 303, CAPUT, E 306, § 1º, II, DO CTB; E ART. 28 DA LEI N. 11.343/2006. PRISÃO PREVENTIVA. DESCUMPRIMENTO DAS MEDIDAS CAUTELARES ANTERIORMENTE IMPOSTAS. FUNDAMENTO IDÔNEO. PRECEDENTES. INEVIDENTE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+Em síntese, alega-se que a decisão merece ser revista, primeiro porque é omissa ao deixar de considerar dois elementos acerca das ocorrências de violação do monitoramento apontados na inicial: (a) o curto período de tempo das violações e (b) a violação se dar próximo ao horário de carregamento da tornozeleira (fl. 390), elementos esses que permitiriam concluir pela absoluta desproporcionalidade da manutenção da revogação da liberdade provisória do paciente (fl. 390); e, em segundo lugar, é absolutamente impertinente o argumento sobre a "impossibilidade de se realizar juízo prospectivo da pena a ser aplicada", esquivando-se da análise sobre a homogeneidade da prisão cautelar com o resultado final do processo e, por consequência, violando a regra dessumida do §1º do art. 282 do CPP e do postulado da proporcionalidade (fl. 391).
+Pretende-se a reforma da decisão hostilizada e a concessão da ordem para que seja revogada a prisão preventiva para restabelecer imediatamente a liberdade do paciente e, subsidiariamente, seja concedida medida cautelar diversa da prisão (fl. 391).
+É o r elatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. CRIMES DOS ARTS. 303, CAPUT, E 306, § 1º, II, DO CTB; E 28 DA LEI N. 11.343/2006. PRISÃO PREVENTIVA. DESCUMPRIMENTO REITERADO DE MEDIDAS CAUTELARES ANTERIORMENTE FIXADAS. MOTIVAÇÃO IDÔNEA. PRECEDENTES. INEVIDÊNCIA DE ILEGALIDADE.
+1. É firme, nesta Corte Superior, o entendimento de que o descumprimento de medidas cautelares diversas da prisão anteriormente fixadas é fundamentação idônea para ensejar o restabelecimento da custódia preventiva (HC n. 750.997/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 6/10/2022), bem como de que não é possível realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença (RHC n. 162.518/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/5/2022).
+2. Agravo regimental improvido.
+VOTO
+A despeito das alegações defensivas, a decisão agravada deve ser mantida por seus próprios e jurídicos fundamentos.
+Como já disse, a conclusão da instância a quo está em conformidade com a pacífica jurisprudência desta Corte, segundo a qual o descumprimento de medidas cautelares diversas da prisão anteriormente fixadas é fundamentação idônea para ensejar o restabelecimento da custódia preventiva (HC n. 750.997/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 6/10/2022) - sobretudo em casos como o presente, em que foi verificado o descumprimento em ao menos sete oportunidades, sendo inviável maiores incursões acerca das circunstâncias que envolveram as violações -; tendo sido destacado, ainda, que é firme a orientação quanto à impossibilidade de se realizar juízo prospectivo da pena a ser aplicada, atribuição exclusiva do magistrado sentenciante quando da prolação da sentença (RHC n. 162.518/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 20/5/2022).
+Pelo exposto, nego provimento ao agravo regimental.
