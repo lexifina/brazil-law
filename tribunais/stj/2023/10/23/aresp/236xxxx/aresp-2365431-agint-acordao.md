@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. ACÓRDÃO FUNDAMENTADO. AFASTAMENTO DA MULTA APLICADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+2. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+3. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto por SIRLENE SIQUEIRA DA SILVA contra decisão da eminente Ministra Presidente do STJ, que não conheceu do agravo em recurso especial, tendo em vista a ausência de impugnação específica dos fundamentos da decisão agravada (Súmula 182/STJ).
+A agravante sustenta que "houve atendimento ao princípio da dialeticidade, uma vez que o(a) Agravante declarou expressamente a sua insatisfação, e os motivos desta no seu recurso. Logo, não pode deixar de ser conhecido o recurso que infirma, especificamente, os fundamentos da decisão impugnada" (e-STJ, fl. 411).
+Devidamente intimada, a parte agravada não apresentou impugnação (e-STJ, fls. 417).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.365.431 - GO (2023/0174074-1)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+SIRLENE SIQUEIRA DA SILVA
+ADVOGADO
+:
+LUIZ FERNANDO CARDOSO RAMOS - GO054782A
+AGRAVADO
+:
+BANCO PAN S.A.
+ADVOGADO
+:
+YANA CAVALCANTE DE SOUZA - GO022930
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. ACÓRDÃO FUNDAMENTADO. AFASTAMENTO DA MULTA APLICADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+2. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente.
+3. A modificação da conclusão do Tribunal de origem sobre a litigância de má-fé da parte agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O agravo interno merece ser provido para reconsiderar a decisão agravada, na medida em que o agravo em recurso especial impugnou especificamente os fundamentos adotados na decisão de admissibilidade do recurso especial.
+Passa-se ao exame do mérito recursal.
+Trata-se de agravo de decisão que não admitiu recurso especial interposto contra acórdão assim ementado (fl. 300, e-STJ):
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. EMPRÉSTIMO CONSIGNADO. ALEGAÇÃO DE NÃO CONTRATAÇÃO E NÃO RECEBIMENTO DE VALORES. ALTERAÇÃO DA VERDADE DOS FATOS. COMPORTAMENTO CONTRADITÓRIO. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. MULTA RAZOÁVEL E PROPORCIONAL. SENTENÇA MANTIDA. 1. O princípio da dialeticidade recursal impõe à parte recorrente o ônus de motivar o recurso, por meio da exposição de fundamentos aptos a apontar a necessidade de reforma ou cassação da decisão. 2. O mero exercício do direito de ação, por si só, não tem o condão de configurar a litigância de má-fé, cuja caracterização pressupõe o dolo específico da parte, manifestado por conduta intencionalmente maliciosa e temerária. 3. Uma vez alterada, na exordial, a verdade dos fatos, ao alegar a autora a inexistência do contrato e o não recebimento da quantia disponibilizada, imperativa, nos termos do artigo 80, inciso II, do Código de Processo Civil, a aplicação de multa por litigância de má-fé. 4. Observados, na espécie, os princípios da razoabilidade e proporcionalidade, bem assim, os lindes do artigo 81 do Código de Processo Civil, tem-se que não merece reparo o montante arbitrado pelo juízo a quo (10% sobre o valor da causa - R$10.15 7,26 - que correspon-de a R$1.015,72). 5. Corolário do insucesso recursal, nos termos do art. 85, §11, do CPC/15, deve ser majorada a verba honorária advocatícia arbitrada na origem, todavia, suspensa a sua exigibilidade, uma vez que a autora/recorrente é beneficiária da gratuidade (art. 98, §3º, CPC/15).
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA."
+Nas razões do recurso especial, a parte agravante alega ofensa aos arts. 80, II, e 81 do CPC/2015, bem como divergência jurisprudencial. Sustenta, em síntese, a não configuração da litigância de má-fé.
+Da análise dos autos, infere-se que, no tocante à multa por litigância de má-fé, o Tribunal de origem manteve a aplicação da penalidade, tendo em conta a conduta da ora agravante, nos termos da seguinte fundamentação:
+"Isso posto, do compulsar dos autos, vislumbra-se que a parte recorrente promoveu ação declaratória c/c indenizatória em desfavor da instituição financeira, aduzindo, para tanto, ser beneficiária junto ao INSS, e que, ao analisar o seu benefício, constatou a existência de empréstimo.
+Segundo consta na inicial, a autora solicitou, administrativamente, cópia do contrato de empréstimo e comprovante de entrega de valores, tendo o réu se mantido inerte.
+Em resposta (mov. 40), a instituição financeira defendeu a regularidade da contratação e apresentou a cédula de crédito bancário 319662755-2, devidamente assinada pela parte autora.
+Ato contínuo, a parte autora voltou (mov. 42) aos autos aduzindo inexistir provas de que a quantia, de fato, fora disponibilizada.
+Não obstante, a pedido (mov. 47) da instituição financeira demandada, oficiou-se à Caixa Econômica Federal, a qual confirmou (mov. 55, arq. 02) a transferência da quantia de R$203,64 (duzentos e três reais e sessenta e quatro centavos) para a conta bancária da autora, em 27/02/2018, como, também, a realização de saque, no valor de R$200,00 (duzentos reais), em 28/02/2018.
+Sem desconhecer de que o mero exercício do direito de ação não possui o condão, por si só, de configurar litigância de má-fé, forçoso reconhecer que a parte autora, deliberadamente, alterou a verdade dos fatos para obter vantagem econômica, máxime considerando que postulou pela restituição em dobro dos valores descontados e indenização por danos morais.
+Isso porque inconteste, na espécie, que a instituição financeira trouxe prova documental da contratação, consistente na cédula de crédito 319662755-2 (mov. 40, arq. 02), com autorização para desconto em folha de pagamento, devidamente assinado pela apelante, bem assim, o comprovante (mov. 55) de crédito de valores na conta bancária da insurgente e, ainda, a realização de um saque.
+Nesse cenário fático, descabidas se mostraram as alegações de que a autora desconhecia a operação e de que o crédito não lhe foi, de fato, disponibilizado.
+Outrossim, não socorre à apelante a tese de que sua intenção, ao ajuizar a demanda, era meramente declaratória, não sendo suficiente a alegação de que buscou, pela via administrativa, sem êxito, cópia do contrato.
+Nesse quadro, é fácil constatar que a atitude da recorrente afronta a boa-fé na relação processual e o princípio insculpido na máxima nemo potest venire contra factum proprium (vedação ao comportamento contraditório), o que, além de vedado, é extremamente reprovável.
+Diante desse cenário, uma vez alterada a verdade dos fatos por meio da petição inicial, imperiosa, nos termos do artigo 80, II, do Código de Processo Civil, a imposição de multa por litigância de má-fé." (fls. 296/297)
+Como se observa, a multa em questão foi devidamente justificada pelas instâncias ordinárias. Nesse contexto, a modificação da conclusão adotada no v. acórdão recorrido, acerca da caracterização da litigância de má-fé da parte recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCESSÕES. INVENTÁRIO. LITISPENDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. ART. 18 DO CPC/1973. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DE OFÍCIO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. É inviável o conhecimento de matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos embargos declaratórios, o órgão julgador não se pronunciou, cabendo à parte interessada alegar ofensa ao art. 535 do CPC/73. Incidência da Súmula 211 do STJ.
+2. O eg. Tribunal de origem, com base no exame do suporte fático-probatório dos autos, asseverou que o agravante deixou de referir a existência de inventário anterior, pretendendo alterar a verdade dos fatos para obter a sua nomeação como inventariante, usando do processo para conseguir objetivo ilegal e procedendo de modo temerário.
+3. Rever a conclusão adotada no v. acórdão recorrido sobre a caracterização de litigância de má-fé do agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A multa por litigância de má-fé pode ser decretada de ofício quando estiverem preenchidas as condutas descritas no art. 17 do CPC.
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.487.062/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 14/6/2019)
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015 (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+Todavia, da análise dos autos, infere-se que, no tocante à multa por litigância de má-fé, o Tribunal de origem manteve a sentença que aplicou a penalidade com base nos fundamentos de que: (I) a conduta da demandante-apelante, ao promover demanda judicial baseando-se em argumento falso, implica litigância de má-fé, pois houve alteração da verdade dos fatos; e (II) a conduta da apelante, traduzida na propositura da demanda, constitui evidente tentativa de locupletamento ilícito, pois possuía ciência inequívoca do contrato devidamente assinado do qual originou a referida cobrança, bem como sacou o dinheiro em instituição bancária.
+Nesse contexto, constata-se que, conforme acima transcrito, o Tribunal de origem dimensionou o acórdão recorrido no sentido de que ficou comprovada a intenção da ora agravante de subverter a verdade dos fatos e a sua consequência jurídica, de modo a promover injustificadamente a promoção de um processo judicial.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser cabível a multa por litigância de má-fé quando devidamente demonstrado, pelas instâncias ordinárias, o uso reiterado de medidas judiciais e recursos como forma de impor resistência injustificada ao andamento processual, como demonstrado no caso. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO DE EXPEDIENTE FORENSE NO ATO DE INTERPOSIÇÃO. DOCUMENTO IDÔNEO. INEXISTÊNCIA. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO. (..)
+5. A litigância de má-fé, passível de ensejar a aplicação de multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.211.395/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 29/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS JULGADA PROCEDENTE. VIOLAÇÃO DO ART. 85, §§ 2º E 8º, DO CPC/2015 NÃO CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO. (..)
+2. Conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1.814.712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021), o que não ocorreu no caso em análise. (..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 1.798.078/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 16/3/2023)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM REPETIÇÃO DE INDÉBITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL. (..)
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+4. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da parte ora agravante, que alterou a verdade dos fatos com o intuito de locupletar-se ilicitamente. (..)
+6. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp n. 1.962.304/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 5/4/2022)
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+É como voto.
