@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. REGULARIZAÇÃO DE ACESSO DO IMÓVEL DA AGRAVANTE. ACÓRDÃO COM FUNDAMENTO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO SÚMULAS 283 E 284 DO STF.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O Tribunal de origem consignou (fls. 623-624, e-STJ): "Dos aclaratórios aviados pelas partes, reconheço apenas a verificação da omissão aventada pela ré quanto ao ponto concernente ao acesso ao imóvel, em especial no que respeita à prova dos autos. Nesse tópico, para além da prova pericial, que de fato não é conclusiva sobre a necessidade de adequação da via de acesso em todos os casos ao imóvel da ré, refere exigível unicamente para caminhões de grande porte, cuja frequência ao estabelecimento não teria sido comprovada (evento nº 77, LAUDO2), entendo que a solução do caso passa pela normatização aplicável. Explico: na forma do art. 93 do Código de Trânsito Brasileiro (Lei nº9.503/97) resta claro o ônus do titular da propriedade privada, ou mesmo ocupante, quanto à indicação de vias de acesso adequadas perante o DNIT, a quem cumpre de acordo com o art. 82 da Lei nº 10.233/2001 estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional. Nessa linha de compreensão, fica clara dos autos a desconformidade do acesso rodoviário existente no local com a normatização aplicável, consoante dá conta a documentação encartada na exordial (evento nº 1, NOT7). Assim, não cumpre à jurisdição a chancela de acesso rodoviário à propriedade privada, diga-se, em contradição com a conclusão administrativa competente, sob a condição de que não seja utilizado por caminhões de grande porte, ao menos que não com frequência, ainda mais em se tratando de empresa que labora com máquinas. Tal deliberação jurisdicional escancararia a sua fragilidade, o risco ao menos de embaraço do tráfego e por conseguinte a sua ilegalidade".
+3. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Ademais, a Corte regional inferiu que, "na forma do art. 93 do Código de Trânsito Brasileiro (Lei nº 9.503/97) resta claro o ônus do titular da propriedade privada, ou mesmo ocupante, quanto à indicação de vias de acesso adequadas perante o DNIT, a quem cumpre de acordo com o art. 82 da Lei nº 10.233/2001 estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional. Nessa linha de compreensão, fica clara dos autos a desconformidade do acesso rodoviário existente no local com a normatização aplicável, consoante dá conta a documentação encartada na exordial (evento nº 1, NOT7)" (fl. 624, e-STJ, grifei). A recorrente, contudo, não impugnou o argumento transcrito, que é apto, por si só, para manter o decisum controvertido. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+5. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Agravo Interno contra decisão monocrática (fls. 975-981, e-STJ) que conheceu do Agravo de Bob Máquinas Hidromecânica Garcia Ltda. para conhecer parcialmente de seu Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negou-lhe provimento.
+A agravante alega:
+Conforme explicado no Recurso Especial, houve negativa de prestação jurisdicional (art. 489, § 1º e art. 1.022 do CPC) e, por consequência, a violação ao artigo 373, I, do CPC (ônus da prova da autora de provar risco efetivo e acesso de veículos de grande porte), a disposição do art. 4º, III, da Lei 6.766 de 19 de dezembro de 1979 e diante do risco da violação do princípio da Legalidade, Artigo 5, II, do CF (ninguém pode ser obrigada fazer ou deixar de fazer senão em virtude de Lei, e no caso a determinação da obrigação de fazer sem irregularidade do acesso, viola este princípio), e diante do princípio da imediatidade do magistrado que julga o processo.
+(..)
+Todavia, o Recurso Especial não pretende o reexame fático-probatório dos autos, mas sim o reconhecimento da negativa de prestação jurisdicional (art. 1.022 e art. 489, § 1º do CPC) ) e, por consequência, a violação ao artigo 373, I, do CPC (ônus da prova da autora de provar risco efetivo e acesso de veículos de grande porte), a disposição do art. 4º, III, da Lei 6.766 de 19 de dezembro de 1979 e diante do risco da violação do princípio da Legalidade, Artigo 5, II, do CF (ninguém pode ser obrigada fazer ou deixar de fazer senão em virtude de Lei, e no caso a determinação da obrigação de fazer sem irregularidade do acesso, viola este princípio), e diante do princípio da imediatidade do magistrado que julga o processo.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação nas fls. 1.027-1.030 e 1.036-1.044, e-STJ.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.321.287 - SC (2023/0067379-5)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+BOB MAQUINAS LTDA.
+OUTRO NOME
+:
+BOB MÁQUINAS HIDROMECÂNICA GARCIA LTDA
+ADVOGADO
+:
+LETÍCIA SCHWEITZER COSTA - SC023791
+AGRAVADO
+:
+AUTOPISTA LITORAL SUL S.A.
+ADVOGADOS
+:
+RAFAEL DE ASSIS HORN - SC012003
+RODRIGO DE ASSIS HORN - SC019600
+LUANA REGINA DEBATIN TOMASI - SC028524
+GISELE WITTE - SC045460
+LEANDRO CARDOSO DE SÁ - SC061333
+INTERES.
+:
+AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA. REGULARIZAÇÃO DE ACESSO DO IMÓVEL DA AGRAVANTE. ACÓRDÃO COM FUNDAMENTO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO SÚMULAS 283 E 284 DO STF.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O Tribunal de origem consignou (fls. 623-624, e-STJ): "Dos aclaratórios aviados pelas partes, reconheço apenas a verificação da omissão aventada pela ré quanto ao ponto concernente ao acesso ao imóvel, em especial no que respeita à prova dos autos. Nesse tópico, para além da prova pericial, que de fato não é conclusiva sobre a necessidade de adequação da via de acesso em todos os casos ao imóvel da ré, refere exigível unicamente para caminhões de grande porte, cuja frequência ao estabelecimento não teria sido comprovada (evento nº 77, LAUDO2), entendo que a solução do caso passa pela normatização aplicável. Explico: na forma do art. 93 do Código de Trânsito Brasileiro (Lei nº9.503/97) resta claro o ônus do titular da propriedade privada, ou mesmo ocupante, quanto à indicação de vias de acesso adequadas perante o DNIT, a quem cumpre de acordo com o art. 82 da Lei nº 10.233/2001 estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional. Nessa linha de compreensão, fica clara dos autos a desconformidade do acesso rodoviário existente no local com a normatização aplicável, consoante dá conta a documentação encartada na exordial (evento nº 1, NOT7). Assim, não cumpre à jurisdição a chancela de acesso rodoviário à propriedade privada, diga-se, em contradição com a conclusão administrativa competente, sob a condição de que não seja utilizado por caminhões de grande porte, ao menos que não com frequência, ainda mais em se tratando de empresa que labora com máquinas. Tal deliberação jurisdicional escancararia a sua fragilidade, o risco ao menos de embaraço do tráfego e por conseguinte a sua ilegalidade".
+3. É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Ademais, a Corte regional inferiu que, "na forma do art. 93 do Código de Trânsito Brasileiro (Lei nº 9.503/97) resta claro o ônus do titular da propriedade privada, ou mesmo ocupante, quanto à indicação de vias de acesso adequadas perante o DNIT, a quem cumpre de acordo com o art. 82 da Lei nº 10.233/2001 estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional. Nessa linha de compreensão, fica clara dos autos a desconformidade do acesso rodoviário existente no local com a normatização aplicável, consoante dá conta a documentação encartada na exordial (evento nº 1, NOT7)" (fl. 624, e-STJ, grifei). A recorrente, contudo, não impugnou o argumento transcrito, que é apto, por si só, para manter o decisum controvertido. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+5. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.9.2023.
+A irresignação não merece prosperar.
+Inicialmente, constato que não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do ora recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO OS ARTS. 489, § 1º, IV, 1.022, II, E 1.013 E INCISOS, TODOS DO CPC/15. INOCORRÊNCIA DE DANOS MORAIS.
+I - Na origem, trata-se de ação de rito ordinário ajuizada pelos autores, em face da UNIFESP (PRO-REITORIA DE ASSUNTOS ESTUDANTIS - CAMPUS DE SÃO JOSÉ DOS CAMPOS), com pedido de antecipação dos efeitos da tutela para determinar o restabelecimento de beneficio de auxílio -permanência em favor dos autores, estudantes do curso de Ciência e Tecnologia, bem como para anular as faltas escolares dos autores, permitindo a matrícula dos mesmos para o primeiro semestre de 2014. Na sentença, julgou-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Sobre a alegação de malferimento aos arts. 489, § 1º, IV, 1.022, II, e 1.013 e incisos, todos do CPC/15, o Tribunal a quo, na fundamentação do decisum, entendeu que não se verifica a ocorrência de danos morais, razão pela qual é descabida a condenação da apelante ao pagamento de indenização.
+III - Conforme demonstrado dos excertos colacionados do aresto vergastado, o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia travada nos autos, em que pese em sentido diverso da pretensão dos recorrentes, o que não significa, necessariamente, ausência de prestação jurisdicional.
+IV - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1406990/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2019)
+No que se refere às alegações da empresa agravante, o órgão julgador consignou (fls. 623-624, e-STJ):
+Dos aclaratórios aviados pelas partes, reconheço apenas a verificação da omissão aventada pela ré quanto ao ponto concernente ao acesso ao imóvel, em especial no que respeita à prova dos autos.
+Nesse tópico, para além da prova pericial, que de fato não é conclusiva sobre a necessidade de adequação da via de acesso em todos os casos ao imóvel da ré, refere exigível unicamente para caminhões de grande porte, cuja frequência ao estabelecimento não teria sido comprovada (evento nº 77, LAUDO2), entendo que a solução do caso passa pela normatização aplicável.
+Explico: na forma do art. 93 do Código de Trânsito Brasileiro (Lei nº9.503/97) resta claro o ônus do titular da propriedade privada, ou mesmo ocupante, quanto à indicação de vias de acesso adequadas perante o DNIT, a quem cumpre de acordo com o art. 82 da Lei nº 10.233/2001 estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional.
+Nessa linha de compreensão, fica clara dos autos a desconformidade do acesso rodoviário existente no local com a normatização aplicável, consoante dá conta a documentação encartada na exordial (evento nº 1, NOT7).
+Assim, não cumpre à jurisdição a chancela de acesso rodoviário à propriedade privada, diga-se, em contradição com a conclusão administrativa competente, sob a condição de que não seja utilizado por caminhões de grande porte, ao menos que não com frequência, ainda mais em se tratando de empresa que labora com máquinas.
+Tal deliberação jurisdicional escancararia a sua fragilidade, o risco ao menos de embaraço do tráfego e por conseguinte a sua ilegalidade.
+Desse modo, suprida a omissão, fica mantida a conclusão do acórdão embargado no sentido de que a ré deve regularizar o acesso ao seu estabelecimento no prazo indicado.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ademais, a Corte regional inferiu que, "na forma do art. 93 do Código de Trânsito Brasileiro (Lei nº 9.503/97) resta claro o ônus do titular da propriedade privada, ou mesmo ocupante, quanto à indicação de vias de acesso adequadas perante o DNIT, a quem cumpre de acordo com o art. 82 da Lei nº 10.233/2001 estabelecer padrões, normas e especificações técnicas para os programas de segurança operacional. Nessa linha de compreensão, fica clara dos autos a desconformidade do acesso rodoviário existente no local com a normatização aplicável, consoante dá conta a documentação encartada na exordial (evento nº 1, NOT7)" (fl. 624, e-STJ, grifei).
+A recorrente, contudo, não impugnou o argumento transcrito, que é apto, por si só, para manter o decisum controvertido. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
