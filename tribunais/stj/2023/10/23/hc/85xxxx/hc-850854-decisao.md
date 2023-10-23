@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de PATRICK MACHADO DE MELO contra acórdão da Décima Quarta Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC n. 2187425-39.2023.8.26.0000).
+Extrai-se dos autos que o paciente foi condenado à pena de 18 anos e 10 meses de reclusão, em regime inicial fechado, pela prática dos delitos tipificados nos arts. 157, § 2º, incisos II e V e § 2º-A, inciso I; 158, §§ 1º e 3º do Código Penal. Foi indeferido o direito de recorrer em liberdade.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão assim ementado (e-STJ fls. 54/59):
+HABEAS CORPUS - ROUBO CIRCUNSTANCIADO E EXTORSÃO CIRCUNSTANCIADA - RECURSO EM LIBERDADE - IMPOSSIBILIDADE - NECESSIDADE DA PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA - PACIENTE QUE SE ENCONTRA PRESO POR OUTROS PROCESSOS - ORDEM DENEGADA.
+No presente writ, a defesa alega que o paciente respondeu a toda a ação penal em liberdade, e que não foram apresentados fundamentos idôneos para a custódia. Ressalta a ausência de alteração fática, bem como que os fatos ocorreram há 4 anos.
+Requer a revogação da prisão.
+A liminar foi indeferida às e-STJ fls. 66/67.
+Informações prestadas às e-STJ fls. 75/78 e 81/97.
+O Ministério Público Federal opinou pelo não conhecimento do writ, ou acaso conhecido, pela denegação da ordem (e-STJ fls. 99/103).
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+É o caso dos autos.
+Isso porque a prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+Exige-se, ainda, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+No caso, ao proferir a sentença condenatória, o magistrado decretou a prisão do paciente, aduzindo o seguinte (e-STJ fl. 53):
+Considerando-se a extrema violência dos crimes praticados, o quantum de pena aplicado, bem como o risco à ordem pública que a sua liberdade traria à sociedade e à aplicação da Lei Penal, decreto a prisão preventiva do réu. Expeça-se mandado de prisão.
+Ao examinar a matéria, o Tribunal manteve a custódia, ponderando o seguinte (e-STJ fls. 57/59):
+A presente ordem é de ser denegada.
+Isto porque, constata-se que a r. sentença prolatada a fls. 38/45, se revestiu da devida fundamentação legal, levando em consideração as peculiaridades do caso em concreto: "Considerando-sea extrema violência dos crimes praticados, o quantum de pena aplicado, bem como o risco à ordem pública que a sua liberdade traria à sociedade e à aplicação da Lei Penal, decreto a prisão preventiva do réu. Expeça-se mandado de prisão".
+Note-se que o disposto no artigo 312 do Código de Processo Penal foi observado, uma vez que cumpridos os requisitos da prisão preventiva, pois com a condenação, há prova da materialidade e daautoria e, ainda, para garantia da ordem pública.
+Aliás, cabe acrescentar que, conforme informações obtidas em consulta ao Sistema Intinfo deste Egrégio Tribunal de Justiça, o paciente encontra-se preso também em razão de outras condenações, situação que evidencia os requisitos da custódia cautelar e torna inócua a concessão do direito de apelar em liberdade no processo crime em tela.
+Assim, diante da inexistência de constrangimento ilegal a ser reparado, DENEGO A ORDEM pleiteada.
+No caso, verifica-se que o paciente respondeu a todo o processo sem que tivesse sido decretada a sua prisão. Por ocasião da sentença, o magistrado não apontou fatos novos que justificassem a instauração da custódia.
+Com efeito, em hipótese na qual o acusado respondeu a toda a ação penal em liberdade, o indeferimento do direito de assim recorrer depende da demonstração de fato novo que justifique a decretação da prisão preventiva, com a presença de elementos concretos comprobatórios da presença dos requisitos do artigo 312 do Código de Processo Penal.
+Ao apreciar a matéria, assim se manifestou o STF: "Se o réu respondeu ao processo em liberdade, a prisão contra ele decretada - embora fundada em condenação penal recorrível (o que lhe atribui índole eminentemente cautelar) - somente se justificará, se, motivada por fato posterior, este se ajustar, concretamente, a qualquer das hipóteses referidas no art. 312 do CPP". (HC n. 102.368/CE, Rel. Ministro Celso de Mello, Segunda Turma, julgado em 29/06/2010, DJe 17/09/2010).
+Do mesmo modo, " e m hipóteses nas quais o acusado responde ao processo em liberdade, a Sexta Turma deste Superior Tribunal tem decidido que a decretação da prisão cautelar na sentença pressupõe a existência de fatos novos capazes de comprovar a imprescindibilidade do recolhimento ao cárcere". (HC n. 705.886/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/3/2022, DJe 14/3/2022).
+Ressalte-se que a alteração promovida pela Lei nº 13.964/19 ao Código de Processo Penal inseriu o § 1º ao art. 315 daquele diploma processual para ressalvar expressamente que "na motivação da decretação da prisão preventiva ou de qualquer outra cautelar, o juiz deverá indicar concretamente a existência de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada.
+Ademais, a circunstância destacada pelo acórdão atacado, de que ele se encontra preso por outras condenações, também não apresenta contemporaneidade para que seja apta a demonstrar a necessidade da prisão. Com efeito, ele cumpre pena desde 11/10/2019, segundo informações prestadas à e-STJ fl. 76.
+Portanto, não foram apresentadas circunstâncias atuais para justificar a decretação da prisão.
+Como é cediço, "a urgência intrínseca às cautelares, notadamente à mais gravosa, exige a contemporaneidade dos fatos justificadores dos riscos que se pretende com ela evitar". (HC n. 714.868/PR, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe 21/6/2022).
+Assim, a decretação da custódia configura constrangimento ilegal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus. Todavia, concedo a ordem de ofício para revogar a prisão preventiva do paciente.
+Comunique-se. Intimem-se.
+EMENTA
