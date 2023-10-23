@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo apresentado por DAVI DA SILVA VIEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. DOSIMETRIA. REDUÇÃO DA PENA. IMPOSSIBILIDADE. RECURSO IMPROVIDO. 1. ESTANDO PROVADAS NOS AUTOS A AUTORIA E MATERIALIDADE DO CRIME DE TRÁFICO DE DROGAS E INEXISTINDO ILEGALIDADE A SER SANADA, DEVE A SENTENÇA DE PRIMEIRA INSTÂNCIA SER MANTIDA EM SUA INTEGRALIDADE. RECURSO IMPROVIDO.
+Quanto à controvérsia recursal, a parte recorrente alega violação do art. 33, § 4º, da Lei n. 11.343/06, no que concerne à necessidade de reconhecimento do tráfico privilegiado em favor do recorrente, uma vez que ele preenche todos os requisitos para tanto e que a quantidade de drogas não é motivação suficiente para o afastamento da benesse, trazendo a seguinte argumentação:
+É consabido que para que seja premiado com a causa obrigatória de redução, o agente deve atender cumulativamente às quatro diretivas legais, a saber: não ser reincidente, não ostentar maus antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa.
+Ocorre que, apesar de gozar das referidas características, o D. magistrado de piso, assim como o E. Desembargador de segunda instância, entenderam por afastar a aplicação da causa de redução de pena, considerando razões estritamente pessoais e subjetivas e opinião a pessoal do próprio julgador.
+ ..
+Com efeito, não se verifica nos autos qualquer elemento que induza à conclusão de que o acusado se trata de pessoa que se dedica a atividades criminosas ou mesmo que integre organização criminosa.
+Ademais, considerar apenas a quantidade de drogas apreendida para afastar o redutor legal ora questionado, como fizeram os magistrados das instancias inferiores, não se trata de razão técnica adequada, especialmente, se presente a primariedade plena do recorrente, eis que não possui sequer maus antecedentes.
+ ..
+Ademais, infere-se do exame dos autos, que a sentença de piso foi proferida aplicando a pena mínima ao delito imputado, por considerar favoráveis todas as circunstâncias judiciais ao recorrente. Vê-se, portanto, um réu primário, de bons antecedentes, condenado em primeira instancia no regime semiaberto. Diante de tais circunstâncias, razões não existem para manter o afastamento da causa de diminuição ora requerida, especialmente pelo fato de que a finalidade ressocializadora da pena não se cumprirá encarcerando um condenado com a personalidade que ora é apresentada.
+ ..
+Sendo assim, a Defensoria Pública, vem, respeitosamente, perante Vossas Excelências, requerer a reforma do V. Acórdão proferido, a fim de, na terceira fase da dosimetria da pena, reconhecer e aplicar a causa de diminuição de pena prevista no art. 33, §4º da Lei nº 11.343/06 em seu patamar máximo de redução, readequando, em consequência, o regime inicial de cumprimento de pena, aplicando aquele que seja mais favorável ao recorrente (fls. 200-203).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O tráfico privilegiado, hipótese de diminuição de pena prevista no parágrafo 4º, art. 33 da Lei 11.343/06, é destinado às pessoas condenadas por tráfico de drogas, desde que o agente seja primário, tenha bons antecedentes, não integre organização criminosa e não se dedique a atividade ilícita.
+No caso em tela, verifico que o acusado não se enquadra na figura do pequeno traficante, a quem se destina a benesse em análise.
+Muito pelo contrário. Dos autos, verifica-se que o apelante em realidade faz do tráfico de drogas seu estilo de vida, havendo clientela e fornecedor fixo, não havendo motivos para reduzir-lhe a pena imposta.
+Feitas essas considerações, entendo qu e não há retoque a ser feito na dosimetria, pelo que mantenho a pena de 05 (cinco) anos de reclusão, em regime semiaberto, e ao pagamento de 500 (quinhentos) dias-multa, pela prática do crime previsto no artigo 33 da Lei 11.43/2006 (fl. 187, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. DOSIMETRIA. ART. 40, INCISO III, DA LEI N. 11.343/2006. INCIDÊNCIA. CAUSA DE AUMENTO DE PENA DE CARÁTER OBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, fundamentadamente, excluiu a causa de diminuição do art. 33, § 4.º, da Lei de Drogas, por estar demonstrada a dedicação às atividades criminosas. Para rever tal conclusão, com o intuito de reconhecer o tráfico privilegiado, seria necessário o reexame de fatos e provas, descabido em recurso especial, nos termos da Súmula n. 7 do STJ.
+ ..
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.786.625/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/6/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME. INOVAÇÃO RECURSAL. VIOLAÇÃO DO ART. 619 DO CPP. INEXISTÊNCIA. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO À ATIVIDADE ILÍCITA. SÚMULA 7/STJ. PERDIMENTO DOS BENS. UTILIZAÇÃO NO TRÁFICO. HABITUALIDADE NÃO COMPROVADA. RECURSO PARCIALMENTE PROVIDO.
+ ..
+3. In casu, a instância de origem se pronunciou com clareza sobre a ausência dos requisitos para o reconhecimento do tráfico privilegiado.
+4. As instâncias ordinárias negaram a aplicação do redutor pelo tráfico privilegiado destacando a existência de prova oral demonstrando que o recorrente praticava o tráfico há período considerável, bem como pelas degravações dos aparelhos celulares comprovando tal prática.
+5. A reforma do acórdão constitui providência inadmissível em recurso especial. Incidência da Súmula 7/STJ.
+ ..
+7. Agravo regimental provido, em parte, apenas afastar a pena de perdimento do bem e determinar a restituição do veículo Corolla, placa EBX-5787 ao proprietário. (AgRg no REsp n. 1.977.052/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/2/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
