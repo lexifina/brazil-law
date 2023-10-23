@@ -1,0 +1,13 @@
+DECISÃO
+JACSON DA SILVA SIMÕES alega sofrer coação ilegal "apontando como autoridade coatora o MM. Juiz de Direito da 1ª Vara Criminal de Palmeira das Missões/RS" (fl. 4).
+A impetrante narra que o paciente teve sua prisão preventiva relaxada pelo TJRS, em 28/4/2023, sob a condição de cumprir medidas cautelares, uma delas o monitoramento eletrônico. Ocorre que o réu "desenvolve atividades de compra e revenda de veículos" e precisa de flexibilização do perímetro de deslocamento "para desenvolver sua atividade laboral" (fl. 5), o que requer a esta Corte Superior.
+Decidida.
+Em verdade, a irresignação é contra decisão monocrática de Desembargador que não conheceu do habeas corpus originário.
+A "provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016  ..  (AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 15/2/2022).
+No mesmo sentido, cito o AgRg no HC n. 607.272/RJ, relator Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2021.
+Além disso, não verifico patente ilegalidade na decisão do Desembargador, a ensejar a concessão da ordem de ofício. O habeas corpus deixou de ser conhecido, justificadamente, porque o pedido de flexibilização do perímetro da monitoração eletrônica "não foi veiculado ao juízo" de primeiro grau, o que impossibilitou sua análise pelo Tribunal de Justiça, "sob pena de supressão de um grau de jurisdição" (fl. 21).
+Pelo mesmo motivo, a pretensão não pode ser examinada nestes autos, pois o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Cada juiz tem competência jurisdicional para julgar determinada matéria. A advogada deve veicular o pedido ao juiz de primeiro grau responsável pela fiscalização do réu e, em caso de discordância da decisão proferida, ajuizar o instrumento de impugnação perante o Tribunal de Justiça para, subsistindo a sucumbência, somente após a prolação de acórdão pelo colegiado, requerer a manifestação do Superior Tribunal de Justiça (art. 105 da CF).
+À vista do exposto, indefiro liminarmente o conhecimento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
