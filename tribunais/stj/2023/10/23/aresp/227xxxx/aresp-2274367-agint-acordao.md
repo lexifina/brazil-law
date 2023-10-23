@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONSUMIDOR.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  COMBINADA  COM  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  COMPRA  E  VENDA  DE  IMÓVEL.  FINANCIAMENTO  BANCÁRIO . NEGATIVA.  RESCISÃO.  PROMESSA  DE  COMPRA  E  VENDA.  CONJUNTO  FÁTICO-PROBATÓRIO.  CLÁUSULAS  CONTRATUAIS.  REEXAME.  SÚMULAS  NºS  5  E  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.
+1.  A  controvérsia  dos  autos  está  em  reconhecer  o  cabimento  de  indenização  por  danos  materiais  e  morais  pelo  desfazimento  da  promessa  de  compra  e  venda  do  imóvel.
+2.  No  caso,  a  compra  e  venda  do  imóvel  não  se  efetivou  em  decorrência  da  não  aprovação  do  financiamento  bancário  pretendido  pelos  agravantes  e  rever  dos  fundamentos  do  acórdão  estadual  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  do  contrato,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  A  incidência  da  Súmula  nº  7/STJ  prejudica  a  análise  do  dissídio  jurisprudencial  pretendido.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ROMILDO  JOSÉ  DE  LIMA  JÚNIOR  e  ZILDA  ANDRADE  SANTOS  contra  a  decisão  que  negou  provimento  ao  recurso  especial .
+Nas presentes razões,  os  agravantes  reiteram  que  deve  ser  reconhecido  o  cabimento  do  pedido  das  indenizações  formuladas  na  origem,  pois  a  recorrida  não  cumpriu  as  cláusulas  do  contrato  de  compra  e  venda.
+Afirmam  que  estavam  em  dia  com  as  obrigações  financeiras  quando  ocorreu  a  rescisão  unilateral  do  contrato.
+ Refutam  o  óbice  da  Súmula  nº  7/STJ ao  argumento  de  que  a  revisão  dos  fundamentos  do  acórdão  estadual  não  demanda  reexame  de  provas.
+Reiteram  a  apontada  violação  dos  arts.  422,  186  e  927  do  Código  Civil,  insistindo  que  têm  direito  ao  pagamento  de  indenização  por  danos  morais,  bem  como  o  recebimento  das  importâncias  a  título  de  multas  e  encargos  de  corretagem.
+Ao  final,  requerem  a  reconsideração  da  decisão  atacada  para  dar  provimento  ao  recurso  especial.
+Devidamente  intimada,  a  parte  contrária  deixou  transcorrer  o  prazo  para  impugnar  o  recurso  (certidão  de  fls.  728-730,  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONSUMIDOR.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  COMBINADA  COM  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  COMPRA  E  VENDA  DE  IMÓVEL.  FINANCIAMENTO  BANCÁRIO . NEGATIVA.  RESCISÃO.  PROMESSA  DE  COMPRA  E  VENDA.  CONJUNTO  FÁTICO-PROBATÓRIO.  CLÁUSULAS  CONTRATUAIS.  REEXAME.  SÚMULAS  NºS  5  E  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.
+1.  A  controvérsia  dos  autos  está  em  reconhecer  o  cabimento  de  indenização  por  danos  materiais  e  morais  pelo  desfazimento  da  promessa  de  compra  e  venda  do  imóvel.
+2.  No  caso,  a  compra  e  venda  do  imóvel  não  se  efetivou  em  decorrência  da  não  aprovação  do  financiamento  bancário  pretendido  pelos  agravantes  e  rever  dos  fundamentos  do  acórdão  estadual  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  do  contrato,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  A  incidência  da  Súmula  nº  7/STJ  prejudica  a  análise  do  dissídio  jurisprudencial  pretendido.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Os  agravantes  insurgem-se  contra  a  decisão  que  negou  provimento  ao  recurso  especial  para  manter  o  acórdão  do  tribunal  local,  que  afastou  o  pagamento  de  indenização  por  danos  materiais  e  morais  pela  rescisão  da  promessa  de  compra  e  venda  firmada  do  imóvel,  por  iniciativa  da  ora  agravada.
+Observa-se  que  o  acórdão  recorrido,  ao  afastar  a  pretensão  dos  recorrentes,  assim consignou:
+"(..)  em  que  pese  as  alegações  dos  Apelantes,  não  restou  caracterizado  que  a  rescisão  se  deu  de  forma  abusiva,  em  benefício  da  Apelada,  como  foi  por  eles  alegados,  nem  muito  menos  qualquer  prejuízo  causado  em  decorrência  da  referida  rescisão,  logo,  entendo  correta  a  sentença  quando  a  Julgadora  a  quo  quando  julgou  improcedentes  os  pedidos  formulados  na  inicial  da  ação.
+Pelo  que  se  depreende  dos  autos,  no  que  se  refere  a  rescisão  do  contrato,  a  responsabilidade  pelo  desfazimento  do  negócio  deve  ser  atribuída  aos  Apelantes,  visto  que  não  tem  as  construtoras  ingerência  na  concessão  de  financiamento  pelas  instituições  financeira,  ficando  por  conta  do  adquirente  o  obtenção  do  mesmo,  conforme,  inclusive,  previsto  na  cláusula  4.3  na  qual  consta  que,  na  hipótese  do  comprador  não  conseguir  o  financianento,  ficará  obrigado  ao  pagamento  integral  da  "parcela  financiamento"  à  vista,  com  eventual  reajuste.  (fl.  92).
+Portanto,  não  existe  no  contrato  qualquer  previsão  de  responsabilidade  da  Apelanda  pela  aprovação  do  financiamento  junto  à  instituição  financeira,  razão  pela  qual  não  pode  ser  responsabilizada  pelo  fato  dos  Apelantes  não  obterem  aprovação  do  financiamento  do  saldo  devedor,  como  corretamente  decidido  pelo  Julgadora  a  quo.
+E  sendo  a  rescisão  realizada  por  culpa  dos  Apelantes  que  não  se  desincumbiram  do  ônus  de  obter  o  financiamento  ne  de  providenciar  a  quitação  do  saldo  relativa  a  essa  parcela  deve  ocorrer  a  devolução  parcial  do  valor  pago,  conforme  Súmula  543/STJ,  bem  como  ser  o  bem  disponibilizado  para  venda,  como  ocorreu  na  espécie;
+(..)
+Isso  porque  a  Apelada  não  deu  causa  à  resilição  contratual,  que  decorreu  da  ausência  de  aprovação  de  financiamento  aos  Apelantes,  fato  este  que  desautoriza  a  condenação  da  apelada  ao  pagamento  de  qualquer  das  parcelas  pleiteadas,  inclusive  de  indenização  por  danos  morais,  que,  efetivamente,  não  restou  demonstrado  pelos  Apelantes"  (fls.  489-491,  e-STJ).
+Nesse  contexto,  reitera-se  que  as  conclusões  da  Corte  de  origem  decorreram  da  análise  das  cláusulas  contratuais  e  do  conjunto  fático-probatório  carreado  aos  autos, sendo inviável  o  acolhimento  da  pretensão  recursal  ante  a  natureza  excepcional  da  via  eleita,  a  teor  d as  Súmulas  nºs  5  e  7/STJ.
+ A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  COMPRA  E  VENDA  DE  IMÓVEL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  FINANCIAMENTO  BANCÁRIO  NEGADO.  DEVOLUÇÃO  DOS  VALORES  PAGOS  PELO  COMPRADOR.  PREVISÃO  CONTRATUAL.  REVISÃO.  SÚMULAS  5  E  7  DO  STJ.
+1.  Não  há  negativa  de  prestação  jurisdicional  quando  as  questões  fundamentais  ao  deslinde  da  controvérsia  foram  apreciadas  de  forma  coerente  e  fundamentada  pelo  Tribunal  estadual,  não  consubstanciando  qualquer  eiva  aos  arts.  489  e  1.022  do  CPC  a  tomada  de  posição  contrária  ao  interesse  da  parte.
+2.  Compra  e  venda  do  imóvel  que  não  se  efetivou  em  decorrência  da  não  aprovação  do  financiamento  bancário.  Necessidade  de  devolução  dos  valores  pagos  pelo  promissário  comprador  conforme  estipulado  em  cláusula  contratual.
+3.  A  alteração  da  conclusão  adotada  pela  Corte  de  origem  demandaria  o  reexame  do  conjunto  probatório  dos  autos  e  a  interpretação  das  cláusulas  do  contrato  entabulado  entre  as  partes,  tarefas  inadmissíveis  em  sede  de  recurso  especial,  em  face  dos  impedimentos  das  Súmulas  5  e  7  desta  Corte.
+4.  Agravo  Interno  não  provido"  (AgInt  no  AREsp  1.521.246/GO,  Rel.  Ministro  PAULO  DE  TARSO  SANSEVERINO,  TERCEIRA  TURMA,  julgado  em  23/11/2020,  DJe  de  27/11/2020).
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  COMPROMISSO  DE  COMPRA  E  VENDA  IMOBILIÁRIO.  DISTRATO.  SINAL.  RESTITUIÇÃO.  ÍNDICE  DE  CORREÇÃO  MONETÁRIA.  REVISÃO.  AUSÊNCIA  DE  ALCANCE  NORMATIVO  DO  ARTIGO  INDICADO.  SÚMULA  N.  284/STF  ARRAS.  RETENÇÃO.  FALTA  DE  PREQUESTIONAMENTO.  SÚMULAS  N.  282  E  356.  SÚMULAS  N.  5  E  7  DO  STJ.  DISSÍDIO  JURISPRUDENCIAL  NÃO  COMPROVADO.  DECISÃO  MANTIDA.
+(..)
+4.  O  recurso  especial  não  comporta  o  exame  de  questões  que  impliquem  interpretação  de  cláusula  contratual  ou  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõem  as  Súmulas  n.  5  e  7  do  STJ.
+5.  No  caso,  sem  incorrer  nos  mencionados  óbices,  não  há  como  averiguar  a  natureza  confirmatória  do  sinal  entregue  pelos  compradores,  a  fim  de  justificar  sua  retenção  pela  empresa.
+6.  Divergência  jurisprudencial  não  comprovada,  ante  a  incidência  das  Súmulas  n.  5  e  7  do  STJ  e  284,  282  e  356  do  STF.
+7.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  REsp  1.922.495/CE,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  20/9/2021,  DJe  23/9/2021).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO.  INDENIZAÇÃO.  DANOS  MORAIS  E  MATERIAIS.  PRETENSÃO  RECURSAL  QUE  ENVOLVE  O  REEXAME  DE  PROVAS.  INCIDÊNCIA  DA  SÚMULA  Nº  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  julgamento  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  A  alteração  das  conclusões  do  acórdão  recorrido  exige  reapreciação  do  acervo  fático-probatório  da  demanda,  o  que  faz  incidir  o  óbice  da  Súmula  nº  7  do  STJ.
+3.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.856.491/PR,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  13/12/2021,  DJe  15/12/2021).
+Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
