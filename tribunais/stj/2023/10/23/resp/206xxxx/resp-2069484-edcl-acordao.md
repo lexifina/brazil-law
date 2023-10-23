@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. HIPÓTESES DE CABIMENTO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado (e-STJ fl. 1272):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO. EMISSÃO DE MAU CHEIRO. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. TESE RECURSAL DE QUE DEVE SER DO EVENTO DANOSO. IMPOSSIBILIDADE DIANTE DAS PROVAS DOS AUTOS. SEGURANÇA JURÍDICA. DATA DA CITAÇÃO. PRECEDENTES DO STJ. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA. TEMAS 810/STF E 905/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o artigo 1.022 do CPC. Jurisprudência do Superior Tribunal de Justiça.
+2. Na hipótese dos autos, a Corte a quo expressamente consignou que inexiste nos autos uma data certa quanto ao início da emissão dos gases que poluíram o ar no local em que está instalada a ETE São Jorge, ou seja, diante da ausência de uma data específica, prudente que o termo inicial dos juros de mora, tenha como marco seguro a data da citação, considerando, sobretudo, as inúmeras ações propostas.
+3. Admitir entendimento contrário conforme a pretensão recursal demandaria reexame de fatos e provas, o que todavia escapa ao âmbito do recurso especial diante da Súmula 7/STJ.
+4. A utilização pela instância ordinária do IPCA-E para fins de correção monetária atende aos comandos dispostos nos Temas 810/STF e 905/STJ.5. Agravo interno não provido.
+A embargante sustenta que o posicionamento do acórdão embargado incorreu em omissão e contradição com relação ao termo inicial dos juros moratórios previsto no art. 398 do Código Civil, que é o evento danoso e aplicação da súmula 54/STJ, conforme entendimento desta Corte Superior; e a não aplicação do índice oficial de correção monetária previsto pelo TJ/PR -que é a média do INPC/IGP, com base no art. 1º do Decreto Federal n. 1.544/1995.
+Para tanto, alega que a obrigação de indenizar decorre da poluição ambiental causada pela atividade da recorrida na Estação de Tratamento de Esgoto São Jorge, tratando-se de responsabilidade extracontratual, na medida em que o fato causador do dano não possui origem contratual.
+Por intermédio da petição 00907288/2023 às fls. 1311/1312 (e-STJ), a parte COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR informou que as partes estão em tratativas de acordo para solução das Ações de Indenização propostas pelos moradores do entorno da ETE São Jorge e da ETE Guaraituba pendentes de julgamento, requerendo, conjuntamente, a imediata suspensão do processo pelo prazo de 90 (noventa) dias, por convenção das partes, nos termos do art. 313, II do CPC.
+Intimada a parte MATILDE DOS SANTOS PALHARES para se manifestar acerca das tratativas do acordo e sobre o pedido de suspensão do feito e interesse recursal no julgamento dos presentes embargos de declaração, informou seu interesse no julgamento do feito à fl. 1324.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. HIPÓTESES DE CABIMENTO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+As razões são improcedentes.
+Isso porque, os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+Ocorre que o acórdão embargado posicionou-se de forma clara, adequada e suficiente acerca do não provimento do agravo interno sob o fundamento de que estando o acórdão recorrido fundamentado, inexiste vício que caracterize ausência de prestação jurisdicional, bem como que a Corte a quo, após detida análise dos elementos probatórios dos autos, expressamente consignou que inexiste nos autos uma data certa quanto ao início da emissão dos gases que poluíram o ar no local em que está instalada a ETE São Jorge, ou seja, muito embora o Acordão embargado tenha entendido pela existência dos danos morais pela emissão de odores nos arredores da Estação de Tratamento, a ausência de uma data específica obsta a adoção do evento danoso como termo inicial dos juros de mora, de modo que adotou-se como marco seguro a data da citação, considerando, sobretudo, as inúmeras ações propostas.
+Ademais, asseverou-se que a desconstituição da premissa lançada pela Corte a quo de que não há nos autos uma data específica acerca do início da poluição no local em que está instalada a ETE São Jorge demandaria o reexame de matéria fática, procedimento que, nesta instância recursal, encontra óbice na Súmula 7/STJ, além de que há precedentes do STJ no sentido de que em se tratando de falha na prestação de serviços, no caso, o tratamento de esgoto, a responsabilidade é contratual e, por isso, os juros moratórios incidem desde a citação.
+Por fim, salienta-se ainda que restou expressamente consignado que a utilização pela instância ordinária do IPCA-E para fins de correção monetária atende aos comandos dispostos nos Temas 810/STF e 905/STJ.
+Dessa forma, infere-se das razões destes aclaratórios a nítida pretensão da parte embargante de provocar o rejulgame nto da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC, não é compatível com o recurso protocolado.
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
