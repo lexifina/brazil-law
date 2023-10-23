@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. ART. 121, § 2º, INCISOS I E III, DO CÓDIGO PENAL. CONCURSO MATERIAL. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. NULIDADE DO JULGAMENTO PERANTE O TRIBUNAL DO JÚRI E DOSIMETRIA DA PENA. TESES ANALISADAS EM REVISÃO CRIMINAL E EM RECURSOS. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Conforme asseverado na decisão monocrática ora combatida, as questões relativas à formulação dos quesitos e à dosimetria, no que tange ao reconhecimento do concurso material, já foram objeto de deliberação no âmbito dos recursos e da ação de impugnação cabíveis na espécie.
+4. Em vez de rebater os fundamentos da decisão que denegou a ordem, o recorrente se limita a insistir nas mesmas teses apresentadas na inicial do writ.
+5. Agravo regimental não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MÁRCIO DOS SANTOS NEPOMUCENO contra decisão monocrática que denegou a ordem de habeas corpus (e-STJ fls. 413/415).
+Colhe-se dos autos que o ora agravante, após ser submetido a julgamento perante o Tribunal do Júri, foi condenado, nas sanções do art. 121, § 2º, incisos I e III, na forma do art. 69, ambos do Código Penal, à pena de 36 anos de reclusão, em regime fechado (e-STJ fls. 83/87).
+Irresignada, a defesa impetrou prévio writ, requerendo o trancamento da ação penal por ausência de justa causa ou, subsidiariamente, a anulação do julgamento por alegada nulidade da quesitação ou pelo não reconhecimento da continuidade delitiva.
+A ordem, no entanto, foi denegada, em acórdão cuja ementa foi assim definida (e-STJ fls. 336/337):
+HABEAS CORPUS. ALEGAÇÕES DE NULIDADE DA QUESITAÇÃO, DE AUSÊNCIA DE JUSTA CAUSA, POR FALTA DE PROVA DA MATERIALIDADE DOS DELITOS, E DE NÃO RECONHECIMENTO DE CONTINUIDADE DELITIVA. INEXISTÊNCIA DOS VÍCIOS APONTADOS. INADEQUAÇÃO DA VIA ELEITA. PEDIDOS DE TRANCAMENTO DE AÇÃO PENAL E, SUBSIDIARIAMENTE, DE ANULAÇÃO DA SENTENÇA, QUE NÃO MERECEM ACOLHIMENTO.
+Alegação de vício na quesitação na Sessão do Júri que não merece sucesso. A uma, que não ventilada no momento oportuno, como preceitua a legislação processual penal; a duas, que não verificada a existência de quesito capaz de causar perplexidade aos jurados, como alegado. As exigências previstas no artigo 71 do Código Penal devem ser totalmente preenchidas, pena de se tornar mero ornato o concurso material de crimes. Absolvição de corréu, mormente em sede de Júri, não tem o condão de indiciar a inocência dos demais. Arguição de não haver prova da materialidade dos crimes de homicídio imputados ao paciente que não cabe análise na estreita via do habeas corpus. Trancamento da ação penal por falta de justa causa que somente se justificaria em situações excepcionais: quando a conduta é desenganadamente atípica ou não há o menor indício do envolvimento da pessoa acusada na prática do ato passível de enquadramento na lei penal, hipóteses essas não concretizadas nos autos. Por ocasião do recebimento da denúncia, já constavam os autos de exame cadavérico, bem como o devido reconhecimento dos corpos das vítimas pelos parentes. Continuidade delitiva tampouco verificada, pois a simples reiteração de condutas delituosas não configura, de pronto, o referido instituto. Sentença já objeto de apelo por parte da Defesa Técnica do ora paciente, oportunidade em que serão analisados, em sede própria, os argumentos de nulidade do decreto condenatório. Inexistência de qualquer ilegalidade. Ordem denegada.
+Perante o Superior Tribunal de Justiça, a defesa afirmou a nulidade nos quesitos submetidos à votação dos jurados, a possibilidade de reconhecimento de continuidade delitiva nas condutas e a ausência de justa causa para a ação penal.
+Em decisão monocrática deneguei a ordem (e-STJ fls. 413/415).
+Neste regimental, a defesa repisa os argumentos já lançados na petição inicial do habeas corpus, reforçando que "a norma do art.564, parágrafo único do Código de Processo Penal aduz por nulidade absoluta a existência de "deficiência" na quesitação, o que se depreende ante a quesito por si mesmo contraditório e desprovido de embasamento factual, assim como ato tal falta de definição e clareza na proposição do quesito de no. 05" (e-STJ fl. 429).
+Afirma ainda que "a partir da leitura dos fatos que integram a denúncia resta indene de quaisquer dúvidas que estamos diante de um caso de aplicação da regra do art. 71 do Código Penal" (e-STJ fls. 432/433).
+Assim, pugna pela reconsideração da decisão objurgada ou pela apreciação da matéria pelo colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS. ART. 121, § 2º, INCISOS I E III, DO CÓDIGO PENAL. CONCURSO MATERIAL. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. NULIDADE DO JULGAMENTO PERANTE O TRIBUNAL DO JÚRI E DOSIMETRIA DA PENA. TESES ANALISADAS EM REVISÃO CRIMINAL E EM RECURSOS. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Conforme asseverado na decisão monocrática ora combatida, as questões relativas à formulação dos quesitos e à dosimetria, no que tange ao reconhecimento do concurso material, já foram objeto de deliberação no âmbito dos recursos e da ação de impugnação cabíveis na espécie.
+4. Em vez de rebater os fundamentos da decisão que denegou a ordem, o recorrente se limita a insistir nas mesmas teses apresentadas na inicial do writ.
+5. Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O agravo regimental nem sequer supera o conhecimento.
+Pelo princípio da dialeticidade, o agravante tem o ônus de impugnar especificamente os fundamentos da decisão agravada, a fim de desconstituir o impedimento à cognição do recurso interposto.
+Com efeito, conforme asseverado na decisão monocrática ora combatida, a sentença condenatória foi objeto de recurso de apelação, posteriormente julgado pelo Tribunal de origem, o que ensejou ainda a interposição de recurso para o Superior Tribunal de Justiça.
+Somado a isso, a condenação ainda foi objeto de revisão c riminal ajuizada no Tribunal de origem, cuja decisão também foi objeto de impugnação nesta Corte Superior.
+Conclui-se, assim, que as questões relativas à formulação dos quesitos e à dosimetria, no que tange ao reconhecimento do concurso material, já foram objeto de deliberação no âmbito dos recursos e da ação de impugnação cabíveis na espécie.
+Portanto, o proceder da defesa caracteriza mera reiteração de pedido já apreciado, providência essa inviável, uma vez que já prestada a tutela jurisdicional por esta Corte Superior, sendo inviável a dupla apreciação da matéria.
+Ocorre que, neste agravo regimental, em vez de rebater tais fundamentos, o agravante se limita a insistir nas mesmas teses apresentadas na inicial do writ.
+Com efeito, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. RAZÕES DO RECURSO ORDINÁRIO DISSOCIADAS DA MOTIVAÇÃO DO ACÓRDÃO DO TRIBUNAL DE ORIGEM. NÃO CONHECIMENTO DO RECURSO NA HIPÓTESE DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA: ATRIBUIÇÃO MONOCRÁTICA DO RELATOR. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. DECISÃO SINGULAR DE NÃO CONHECIMENTO DO ORDINÁRIO QUE DEVE SER MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se as razões do recurso ordinário em habeas corpus não infirmam as conclusões do Tribunal de origem - ou seja, estão dissociadas dos fundamentos do decisum de segundo grau - há violação do princípio da dialeticidade.
+2. Nos termos do art. 932, inciso III, do Código de Processo Civil, é atribuição monocrática do Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 147.841/PB, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/6/2021, DJe de 25/6/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA. POSSIBILIDADE. NULIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO DESPROVIDO.
+1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão  ..  permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+2. A ausência de impugnação específica de todos os fundamentos do acórdão recorrido inviabiliza o conhecimento do recurso ordinário em habeas corpus. Princípio da dialeticidade que se impõe na interposição de recursos.
+3. Agravo desprovido.
+(AgRg no RHC n. 156.039/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.)
+Vale consignar, ainda, o entendimento de que "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
