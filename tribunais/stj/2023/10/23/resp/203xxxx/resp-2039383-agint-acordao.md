@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONTROLE JUDICIAL DE LEGALIDADE DO PLANO DE RECUPERAÇÃO JUDICIAL APROVADO PELA ASSEMBLEIA GERAL DE CREDORES. POSSIBILIDADE, EM TESE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Recuperação judicial.
+2. Segundo a jurisprudência dominante desta Corte, o plano aprovado pela assembleia de credores tem índole predominantemente contratual, sendo vedado ao Judiciário imiscuir-se nas especificidades do conteúdo econômico negociado entre devedor e credores.
+3. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIAL - BNDES contra decisão que negou provimento ao recurso especial.
+Ação: recuperação judicial de Itaiquara Alimentos S/A e Outras.
+Decisão interlocutória: homologou, com ressalvas, o plano consolidado e concedeu a recuperação judicial.
+Acórdão recorrido: deu parcial provimento ao agravo de instrumento interposto pelo recorrente, nos termos da seguinte ementa (fls. 321-323):
+Recuperação judicial. Recurso tirado contra r. decisão que homologou o plano de recuperação do Grupo Itaiquara (em consolidação substancial) por "cram down".
+Cumprimento de todos os requisitos objetivos dos incisos do § 1º do art. 58 da Lei nº 11.101/2005. Recuperandas, ademais, que se encontram em franco desenvolvimento, com faturamento e gerando empregos. Homologação mantida.
+Recuperação judicial. Plano de recuperação. Condições de pagamento aos quirografários. Oferta de 3 (três) opções, com correção monetária pela TR substituída pelo juiz de primeira instância pela Tabela Prática desta Corte entre a distribuição da recuperação e a homologação do plano e, a partir daí e até o pagamento de cada parcela, apenas juros de 0,5% ao ano. Condições que não se mostram abusivas e não ultrapassam o limite do suportável, ainda considerando que a grande maioria reputa condizente com seus interesses. A dispensa, pelos credores, da incidência de correção monetária entre a homologação do plano e o pagamento, igualmente, não autoriza a interferência Judicial, pois se trata de direito disponível e de natureza estritamente econômica.
+Recuperação judicial. Ausência de ilegalidade na adoção da Taxa Referencial como indexador do crédito sujeito. Condição aprovada pela maioria de credores e de cunho eminentemente econômico.
+Recuperação judicial. Plano suficientemente claro sobre o percentual do crédito a ser liquidado em cada parcela, com prazo e vencimento igualmente inteligíveis.
+Ausência, portanto, de iliquidez.
+Recuperação judicial. Permissão, na cláusula 8.3, de acordos entre recuperandas e credores concursais trabalhistas. Inadmissibilidade. Violação ao princípio da par conditio creditorum. Nulidade declarada de ofício.
+Recuperação Judicial. Previsão, na cláusula 14.11, da possibilidade de compensação irrestrita entre créditos das recuperandas e débitos dos credores sujeitos à recuperação. Diante da possível violação do princípio da paridade entre credores, declara-se a nulidade da disposição.
+Recuperação judicial. Criação de subclasses de credores parceiros (cláusula 12) que não viola o princípio da isonomia, justamente porque os aderentes assumem o risco de continuar fornecendo produtos e serviços às recuperandas e, em contrapartida, beneficiam-se de condições melhores de pagamento do crédito concursal.
+Medida que se coaduna com o princípio da preservação da empresa. Ampla oferta a todos os credores para integrar a subclasse. Ausência de ilegalidade.
+Recuperação judicial. Classe trabalhista. Previsão de limitação do pagamento, na Classe I, a 150 (cento e cinquenta) salários mínimos, classificado o remanescente como quirografário ("opção A"). Possibilidade de aplicação, também no âmbito das recuperações judiciais, do limite de que trata o art. 83, inciso I, da Lei nº 11.101/2005, desde que conste expressamente do plano e que haja aprovação da respectiva classe. Enunciado XIII do Grupo de Câmaras Reservadas de Direito Empresarial desta Corte nesse sentido. Ausência de ilegalidade. É preciso observar que o crédito trabalhista derivado de acidente de trabalho não deve sofrer tal limitação. Determinação, de ofício, do pagamento integral dos credores de acidente de trabalho conforme a Classe I.
+Recuperação judicial. Crédito trabalhista retardatário (cláusulas 8.2 e 14.14). Não há como determinar o pagamento, em até 12 (doze) meses da homologação do plano, daqueles que, embora titulares de crédito concursal (fato gerador anterior à recuperação), não obtiveram a liquidação/habilitação até o ano seguinte à homologação. A estipulação do pagamento em 12 (doze) meses da habilitação definitiva, de seu turno, implica em violação ao art. 54 da LRF. Cláusula ajustada para definir, a respeito das habilitações retardatárias ultimadas após o primeiro ano de execução do plano, que o respectivo crédito deverá ser pago imediatamente.
+Recuperação judicial. Recurso tirado contra r. decisão que homologou o plano de recuperação do Grupo Itaiquara (em consolidação substancial) por "cram down".
+Cumprimento de todos os requisitos objetivos dos incisos do § 1º do art. 58 da Lei nº 11.101/2005. Recuperandas, ademais, que se encontram em franco desenvolvimento, com faturamento e gerando empregos. Homologação mantida.
+Recuperação judicial. Plano de recuperação. Condições de pagamento aos quirografários. Oferta de 3 (três) opções, com correção monetária pela TR substituída pelo juiz de primeira instância pela Tabela Prática desta Corte entre a distribuição da recuperação e a homologação do plano e, a partir daí e até o pagamento de cada parcela, apenas juros de 0,5% ao ano. Condições que não se mostram abusivas e não ultrapassam o limite do suportável, ainda considerando que a grande maioria reputa condizente com seus interesses. A dispensa, pelos credores, da incidência de correção monetária entre a homologação do plano e o pagamento, igualmente, não autoriza a interferência Judicial, pois se trata de direito disponível e de natureza estritamente econômica.
+Recuperação judicial. Ausência de ilegalidade na adoção da Taxa Referencial como indexador do crédito sujeito. Condição aprovada pela maioria de credores e de cunho eminentemente econômico.
+Recuperação judicial. Plano suficientemente claro sobre o percentual do crédito a ser liquidado em cada parcela, com prazo e vencimento igualmente inteligíveis.
+Ausência, portanto, de iliquidez.
+Recuperação judicial. Permissão, na cláusula 8.3, de acordos entre recuperandas e credores concursais trabalhistas. Inadmissibilidade. Violação ao princípio da par conditio creditorum. Nulidade declarada de ofício.
+Recuperação Judicial. Previsão, na cláusula 14.11, da possibilidade de compensação irrestrita entre créditos das recuperandas e débitos dos credores sujeitos à recuperação. Diante da possível violação do princípio da paridade entre credores, declara-se a nulidade da disposição.
+Recuperação judicial. Criação de subclasses de credores parceiros (cláusula 12) que não viola o princípio da isonomia, justamente porque os aderentes assumem o risco de continuar fornecendo produtos e serviços às recuperandas e, em contrapartida, beneficiam-se de condições melhores de pagamento do crédito concursal.
+Medida que se coaduna com o princípio da preservação da empresa. Ampla oferta a todos os credores para integrar a subclasse. Ausência de ilegalidade.
+Recuperação judicial. Classe trabalhista. Previsão de limitação do pagamento, na Classe I, a 150 (cento e cinquenta) salários mínimos, classificado o remanescente como quirografário ("opção A"). Possibilidade de aplicação, também no âmbito das recuperações judiciais, do limite de que trata o art. 83, inciso I, da Lei nº 11.101/2005, desde que conste expressamente do plano e que haja aprovação da respectiva classe. Enunciado XIII do Grupo de Câmaras Reservadas de Direito Empresarial desta Corte nesse sentido. Ausência de ilegalidade. É preciso observar que o crédito trabalhista derivado de acidente de trabalho não deve sofrer tal limitação. Determinação, de ofício, do pagamento integral dos credores de acidente de trabalho conforme a Classe I.
+Recuperação judicial. Crédito trabalhista retardatário (cláusulas 8.2 e 14.14). Não há como determinar o pagamento, em até 12 (doze) meses da homologação do plano, daqueles que, embora titulares de crédito concursal (fato gerador anterior à recuperação), não obtiveram a liquidação/habilitação até o ano seguinte à homologação. A estipulação do pagamento em 12 (doze) meses da habilitação definitiva, de seu turno, implica em violação ao art. 54 da LRF. Cláusula ajustada para definir, a respeito das habilitações retardatárias ultimadas após o primeiro ano de execução do plano, que o respectivo crédito deverá ser pago imediatamente.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Decisão unipessoal: negou provimento ao recurso especial, em razão da incidência da Súmula n. 568 do STJ.
+Agravo interno: o agravante refuta o enunciado sumular e reitera as questões de mérito já debatidas anteriormente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONTROLE JUDICIAL DE LEGALIDADE DO PLANO DE RECUPERAÇÃO JUDICIAL APROVADO PELA ASSEMBLEIA GERAL DE CREDORES. POSSIBILIDADE, EM TESE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Recuperação judicial.
+2. Segundo a jurisprudência dominante desta Corte, o plano aprovado pela assembleia de credores tem índole predominantemente contratual, sendo vedado ao Judiciário imiscuir-se nas especificidades do conteúdo econômico negociado entre devedor e credores.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da Súmula 568/STJ
+Esta Corte Superior tem perfilhado entendimento no sentido de que o plano aprovado pela assembleia de credores tem índole predominantemente contratual, sendo vedado ao Judiciário imiscuir-se nas especificidades do conteúdo econômico negociado entre devedor e credores. Confiram-se: AgInt no AREsp 1.325.791/RJ, TERCEIRA TURMA, DJe 05/11/2018; REsp 1.631.762/SP, TERCEIRA TURMA, DJe 25/06/2018; REsp 1.359.311/SP, QUARTA TURMA, DJe 30/09/2014.
+No caso, a Corte de origem reconheceu que a atualização da dívida pela TR insere-se nas tratativas negociais ajustáveis pelas partes envolvidas nas discussões sobre o plano de recuperação e, portanto, não podem ser revistas pelo Juiz (fl. 348).
+Assim, verifica-se que o acórdão está em consonância com a jurisprudência desta Corte, de modo que a irresignação não merece prosperar.
+Assim, a decisão agravada não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
