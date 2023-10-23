@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. IPTU. RECURSO NÃO CONHECIDO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 283/STF.
+I - Na origem, trata-se de ação anulatória em que se pleiteia a anulação de lançamentos tributários relativos ao IPTU. Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi mantida. Opostos embargos de declaração, foram acolhidos para suprir a omissão sem efeito modificativo, no sentido de esclarecer que o imóvel está inserido no perímetro urbano. Interposto recurso especial, não foi conhecido. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a Jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+III - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO - AÇÃO ANULATÓRIA DE DÉBITO FISCAL - IPTU -LOCALIZAÇÃO DO IMÓVEL DENTRO DO PERÍMETRO URBANO - APLICAÇÃO DO ARTIGO 32, §1º DO CTN - AUSÊNCIA DOS MELHORAMENTOS - ÔNUS DA PROVA DA PARTE AUTORA, NOS TERMOS DO ARTIGO 333, INCISO I, DO CPC - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida, confira-se:
+Com todo respeito nutrido pelo Ilustre Ministro Relator Francisco Falcão, a Municipalidade entende que a decisão proferida não deve prosperar. Isso, pois, a Municipalidade, em seu Recurso Especial protocolado no ano de 2016 já havia enfrentado a questão de o Loteamento Auferville III ser um loteamento irregular e não clandestino; estando em área de expansão urbana, sendo sim aplicável o parágrafo 2º do artigo 32 do CTN.
+ ..
+Estando o Loteamento em questão inserido em "zona urbana" e sendo esta compreendida também por áreas urbanizáveis e por áreas de expansão urbana com destinação específica adequada à lei local, à luz do CTN, temos que não há necessidade de conjugar a existência de dois equipamentos construídos ou mantidos pelo poder público, AFASTANDO-SE A NECESSIDADE DA PRESENÇA DE PELO MENOS DOIS EQUIPAMENTOS DO ROL DO § 1º DO ARTIGO 32, DA MESMA CODIFICAÇÃO.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. IPTU. RECURSO NÃO CONHECIDO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 283/STF.
+I - Na origem, trata-se de ação anulatória em que se pleiteia a anulação de lançamentos tributários relativos ao IPTU. Na sentença, julgou-se o pedido procedente. No Tribunal a quo, a sentença foi mantida. Opostos embargos de declaração, foram acolhidos para suprir a omissão sem efeito modificativo, no sentido de esclarecer que o imóvel está inserido no perímetro urbano. Interposto recurso especial, não foi conhecido. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a Jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+III - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+Observa-se, que o mérito do recurso circunscreve-se à discussão acerca da aplicabilidade do parágrafo 1º ou do parágrafo 2º do artigo 32 do Código Tributário Nacional ao imóvel gerador do IPTU.
+ ..
+Diante do teor do artigo, necessário se faz identificar a natureza da área em que se localiza o imóvel em questão, se em área urbana ou se em área de expansão urbana, pois em cada caso aplicam-se regras distintas, todavia, para tanto se mostra também indispensável a análise da definição de zona urbana e de zona de expansão urbana prevista na lei municipal.
+ ..
+Dessa forma, estando a área do imóvel do apelado inclusa no perímetro urbano do município, conforme disposição da Lei municipal n. 7.032/1998e loteada, aplicável, portanto, o expresso no parágrafo 1º do artigo 32 do Código Tributário Nacional, sendo indispensável para fins de incidência do IPTU a existência de, no mínimo, dois dos melhoramentos urbanos previstos pelo referido parágrafo.
+ ..
+Nesse contexto, competiria a Municipalidade a comprovação deque ao autorizar o loteamento fiscalizou e fez realizar o mínimo de duas benfeitorias, condição sine qua non para o fato gerador. Não há qualquer prova de que a área, aprovada como residencial, ofereça pela Prefeitura os benefícios ditados pela lei.
+Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a Jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp 1.389.204/MG, relator Minis tro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
