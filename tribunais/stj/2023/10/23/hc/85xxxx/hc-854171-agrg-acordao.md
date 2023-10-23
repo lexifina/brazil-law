@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE DE ARMA. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. SÚMULA N. 691 DO STF. REVOGAÇÃO. PRISÃO PREVENTIVA. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Na hipótese, de acordo com os autos, "durante abordagem foram encontrados: 1 (uma) arma de fogo, calibre 38, numeração raspada, 1(uma) arma de fogo, calibre 38, marca Taurus, numeração 1614913, 8 (oito) projéteis intactos, 1 (uma) balança de precisão digital, 1 (um) carregador de arma de fogo, 1 (um) aparelho de telefone celular marca Samsung, 3 (três) cartões magnéticos de banco, substância entorpecente de cor amarelada sólida, pesando aproximadamente 8,2g  oito gramas e dois decigramas  e grande porção fragmentada da mesma cor, pesando aproximadamente 1kg  um quilo , ambas com resultado POSITIVO para COCAÍNA, a quantia de 34 (trinta e quatro) reais em espécie, dentre outros apetrechos, em tese, utilizados para sedimentação e mercancia no tráfico de drogas (id. 20994553)", e-STJ fl. 26.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por RAPHAEL MELLO DE OLIVEIRA contra decisão da Presidência desta Corte Superior que indeferiu liminarmente o habeas corpus pela aplicação da Súmula n. 691/STF.
+Consta dos autos a prisão preventiva do paciente, decorrente de suposta prática dos delitos capitulados nos arts. 33, caput, da Lei n. 11.343/2006 e 16, §1º, inc. IV, da Lei n. 10.826/03.
+Impetrado habeas corpus na origem, a liminar foi indeferida (e-STJ fls. 24/26).
+No STJ sustenta a ocorrência de constrangimento ilegal, em face da ilegalidade da busca pessoal realizada sem justa causa e sem o devido mandado de busca. Insurge-se, ademais, contra o decreto preventivo, baseado na gravidade abstrata do delito.
+Afirma que "o quarto de hotel ocupado pelo Paciente é um espaço privado. E de acordo com o entendimento do Supremo Tribunal Federal, esse espaço é qualificado juridicamente como "casa" para fins de tutela constitucional da inviolabilidade domiciliar. (RHC n. 90.376, Rel. Ministro Celso De Mello, 2ª T., DJe 18/5/2007.)  .. " (e-STJ fl. 8).
+Aduz que, "na busca pessoal, não havia investigação em andamento, não havia sequer denúncia anônima em desfavor do Paciente, não foi visualizado nenhum ato de venda de droga ou indicativo disso contra ele, ou que o quarto de hotel era utilizado para o armazenamento de drogas, de modo que a prova em apreço fora obtida de forma ilícito" (e-STJ fl. 11).
+Acrescenta que o paciente é primário, possui residência fixa (hotel), não havendo razão para se presumir que sua liberdade perturbaria a ordem pública. Inexiste, portanto, motivo para amparar o decreto prisional, impondo-se a sua revogação, ainda que com aplicação de medidas cautelares previstas no art. 319 do CPP.
+O writ foi indeferido liminarmente pela incidência da Súmula n. 691/STF.
+No presente agravo regimental, reitera os argumentos antes aduzidos,
+Pugna, ao final, pelo deferimento da liminar, para reconhecer "a) falta de justa causa para busca pessoal; ausência de mandado judicial; b) autorização para busca domiciliar ou; c) tão somente para converter a prisão preventiva do Paciente em medidas cauteles (art.319 do CPP)".
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE DE ARMA. DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS. SÚMULA N. 691 DO STF. REVOGAÇÃO. PRISÃO PREVENTIVA. TERATOLOGIA OU FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Na hipótese, de acordo com os autos, "durante abordagem foram encontrados: 1 (uma) arma de fogo, calibre 38, numeração raspada, 1(uma) arma de fogo, calibre 38, marca Taurus, numeração 1614913, 8 (oito) projéteis intactos, 1 (uma) balança de precisão digital, 1 (um) carregador de arma de fogo, 1 (um) aparelho de telefone celular marca Samsung, 3 (três) cartões magnéticos de banco, substância entorpecente de cor amarelada sólida, pesando aproximadamente 8,2g  oito gramas e dois decigramas  e grande porção fragmentada da mesma cor, pesando aproximadamente 1kg  um quilo , ambas com resultado POSITIVO para COCAÍNA, a quantia de 34 (trinta e quatro) reais em espécie, dentre outros apetrechos, em tese, utilizados para sedimentação e mercancia no tráfico de drogas (id. 20994553)", e-STJ fl. 26.
+4. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar, tendo em vista a inexistência de argumentos capazes de infirmar os fundamentos da decisão recorrida.
+Como bem destacado pela decisão agravada, a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do Superior Tribunal de Justiça é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Essa é a inteligência, inclusive, do enunciado 691 da Súmula do Supremo Tribunal Federal, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de flagrante constrangimento ilegal, o que não ocorreu na hipótese.
+Isso porque, de acordo com os autos, "durante abordagem foram encontrados: 1 (uma) arma de fogo, calibre 38, numeração raspada, 1(uma) arma de fogo, calibre 38, marca Taurus, numeração 1614913, 8 (oito) projéteis intactos, 1 (uma)balança de precisão digital, 1 (um) carregador de arma de fogo, 1 (um) aparelho de telefone celular marca Samsung, 3 (três) cartões magnéticos de banco, substância entorpecente de cor amarelada sólida, pesando aproximadamente 8,2g  oito gramas e dois decigramas  e grande porção fragmentada da mesma cor, pesando aproximadamente 1kg  um quilo , ambas com resultado POSITIVO para COCAÍNA, a quantia de 34 (trinta e quatro) reais em espécie, dentre outros apetrechos, em tese, utilizados para sedimentação e mercancia no tráfico de drogas (id. 20994553), e-STJ fl. 26.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS CONCRETAS COLHIDAS DO FLAGRANTE. WRIT IMPETRADO CONTRA DECISÃO LIMINAR. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. INCIDÊNCIA DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+2. No caso, a prisão foi mantida na decisão liminar em razão das circunstâncias concretas do crime, colhidas no momento da prisão, sobretudo pela apreensão de expressiva quantidade de droga, aproximadamente 3kg de cocaína, como registrado no laudo pericial, além de poções de maconha, armas, munições, petrechos para o tráfico, contexto fático que revela um risco à ordem pública. Ausência de flagrante ilegalidade. Julgados do STJ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 803.849/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/3/2023, DJe de 17/3/2023.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DIREITO DE RECORRER EM LIBERDADE. SÚMULA 691 DO STF. FUNDAMENTO VÁLIDO. GRAVIDADE CONCRETA. TUTELA DA ORDEM PÚBLICA.
+1. A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+2. O Ministério Público requereu a decretação da prisão preventiva, que foi decretada por fundamento válido, haja vista a necessidade de resguardar a ordem pública, por isso qu e concretamente grave a conduta delitiva do agravante, pois foi localizada e apreendida expressiva quantidade e variedade de drogas com alto poder vulnerante e armas com alto poder de fogo.
+3. O agravante e a corré mantinham em depósito, para fins de tráfico, 234 (duzentas e trinta e quatro) porções de maconha, com peso líquido total de 73,41g; 8,379Kg de cocaína em pó (particulada); e 6,173Kg de crack (petrificada), além de 43 (quarenta e três) cartuchos íntegros, de calibre 40, marca CBC, 27 (vinte e sete) cartuchos íntegros, calibre 45 auto, marca BCB, 30 (trinta) cartuchos íntegros, calibre 9mm, marca BCB, e 01 (um)
+carregador para arma semiautomática com capacidade para 27 cartuchos de calibre 45, munição e acessórios de uso permitido.
+4. Agravo regimental improvido.
+(AgRg no HC n. 783.633/SP, relator Ministro Olindo Menezes, Desembargador Convocado do TRF 1ª Região, Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+Nessa alheta, a matéria aqui discutida somente poderá ser analisada com maior propriedade no julgamento definitivo do writ originário, não havendo como afastar o óbice ao conhecimento do remédio constitucional, especialmente por não haver, ao menos em juízo superficial, nenhuma flagrante ilegalidade na decisão objurgada. Irretorquível, portanto, a referida decisão.
+Tal o contexto, nego provimento ao presente agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
