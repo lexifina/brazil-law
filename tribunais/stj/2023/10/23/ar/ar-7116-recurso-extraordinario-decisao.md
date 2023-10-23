@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 176-177):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 966, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA N. 343/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - No que se refere à alegada violação literal a dispositivo de lei, a orientação desta Corte é no sentido de que tal ofensa deve ser "direta, evidente, que ressai da análise do aresto rescindendo" e "se, ao contrário, o acórdão rescindendo elege uma dentre as interpretações cabíveis, ainda que não seja a melhor, a ação rescisória não merece vingar, sob pena de se tornar um mero "recurso" com prazo de "interposição" de dois anos.
+III - O Supremo Tribunal Federal, em precedente julgado sob o rito da repercussão geral, reconheceu a validade do enunciado da Súmula n. 343 daquela Corte, no sentido de não ser cabível ação rescisória por violação de literal dispositivo de lei quando a matéria era controvertida nos Tribunais à época do julgamento, excepcionados apenas os casos submetidos a controle concentrado de constitucionalidade.
+IV - No caso, a legalidade da retenção dos honorários advocatícios em crédito do FUNDEB/FUNDEF concedido por via judicial não pode ser considerada absolutamente insustentável de forma a ensejar a procedência da presente ação rescisória.
+V - Esse entendimento encontrava amparo na jurisprudência desta Corte Superior à época em que proferido o aresto rescindendo, somente sendo alterado em 10/10/2018, pela eg. Primeira Seção do STJ, consoante narra a própria autora na sua peça inicial.
+VI - Com efeito, a mera interpretação de lei conferida à época do julgamento, mesmo que posteriormente modificada jurisprudencialmente, mas juridicamente aceitável, não caracteriza violação a literal dispositivo de lei, nos termos do art. 485, V, do Código de Processo Civil de 1973, reproduzido no art. 966, V, do Código de Processo Civil de 2015 ("violar manifestamente norma jurídica").
+VII - Conquanto o Supremo Tribunal Federal tenha, a posteriori, durante o exercício do controle difuso de constitucionalidade, afirmado ser inconstitucional a utilização dos recursos do FUNDEF/FUNDEB em despesas não vinculadas à educação, não se pode proceder à revisão do decisum acobertado pelo manto da coisa julgada para que seja promovida nova interpretação do mérito à luz da modificação superveniente do entendimento jurisprudencial, incidindo, na espécie, o óbice da Súmula 343/STF.
+VIII - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IX - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+X - Agravo Interno improvido.
+A parte recorrente sustenta a ocorrência de violação do art. 60 da ADCT da CF e aduz haver repercussão geral da matéria tratada.
+Sustenta que a verba suplementada pela União não pode ser para pagamento de honorários advocatícios contratuais, mas apenas para promover o direito à educação.
+Requer, ao final, a admissão do recurso e a remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 333-350.
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão da autorização de retenção de verba do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - Fundef para pagamento de honorário s advocatícios, estando o acórdão recorrido assim fundamentado (fl. 178):
+Pretende a autora, com amparo no art. 966, V, do Código de Processo Civil de 2015, desconstituir decisão que, em 2017, "autorizou o destaque da verba honorária, mediante juntada aos autos do contrato de honorários, nos termos do artigo 22, §4º, da Lei n. 8.906/94, até a expedição do mandado de levantamento ou precatório", em completa e direta afronta ao disposto nos arts. 1º e 2º da Lei n. 9.424/96 (já revogados), Lei no 11.494/07, art. 8º da Lei de Responsabilidade Fiscal (LC no101/2000), Lei nº 14.113/2020" (fl.08e).
+Desse modo, a análise da matéria ventilada depende do exame das Leis n. 8.906/1994, 9.424/1996 e 11.494/2007, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em caso semelhante, assim já decidiu a Suprema Corte:
+Agravo regimental no recurso extraordinário. FUNDEF. Honorários contratuais. Retenção. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+1. Para se ultrapassar o entendimento do Tribunal de origem acerca da possibilidade de se descontarem das verbas destinadas ao FUNDEF as quantias referentes aos honorários advocatícios contratuais pagos em razão do ajuizamento pelo município de demanda judicial para cobrar os valores relativos ao FUNDEF não transferidos voluntariamente, seria necessário se analisar a legislação infraconstitucional (Leis nºs 8.906/94, 9.424/96 e 11.494/07), o que é vedado em sede de recurso extraordinário.
+2. Agravo regimental não provido.
+3. Inaplicável o art. 85, § 11, do CPC, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+(RE n. 1.266.817-AgR, relator Ministro Dias Toffoli, Primeira Turma, julgado em 21/12/2020, DJe 10/2/2021.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. FUNDEB/FUNDEF. HONORÁRIOS ADVOCATÍCIOS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
