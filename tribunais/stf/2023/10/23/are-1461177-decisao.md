@@ -1,0 +1,63 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão da 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado (eDOC 8, p. 2):
+
+    “Apelação Cível - Ação coletiva ajuizada pela Associação dos Servidores Públicos do Poder Judiciário do Estado de São Paulo ASSOJURIS, objetivando o reconhecimento do direito à percepção do Adicional de Qualificação a partir do protocolo, diploma ou título, nos termos do art. 37-B, §2º, da LCE nº 1.111/2010, com redação dada pela LCE nº 1.217/2013 - Sentença de parcial procedência, com exclusão dos oficiais de justiça em razão da coisa julgada - Insurgência de ambas as partes. Preliminar de ilegitimidade ativa rejeitada - Expressa deliberação em assembleia extraordinária - Possibilidade prevista pelo C. STF no julgamento do Tema nº 82 de Repercussão Geral. Apelo dos réus - Art. 37, §2º da LCE nº 1.111/2010, inserido pela LCE nº 1.217/2013, que dispõe que o Adicional de Qualificação é devido a partir do protocolo do diploma, certificado ou título, devidamente registrado, independentemente da concessão administrativa, que se deu com o Comunicado TJSP nº 263/2015 Art. 3º da LCE nº 1.217/2013 que não veda a retroatividade - Inteligência do art. 25 da Constituição Bandeirante que afasta a alegação de violação orçamentária Recurso dos réus desprovido. Recurso da autora - Pretensão de afastamento da coisa julgada quanto aos oficiais de justiça Impossibilidade Ação coletiva nº 1009637-71.2015.8.26.0053, ajuizada pelo Sindicato dos Oficiais de Justiça Sindojus, já transitada em julgado Inteligência do art. 103, I, do CDC - Efeitos da sentença que obstam a propositura de outra ação coletiva que tenha mesmo pedido e causa de pedir - Entendimento do C. STJ no sentido de ser possível reconhecer a litispendência ou coisa julgada entre ações coletivas propostas por entidades associativas distintas - Possibilidade de ajuizamento de ações individuais, nos termos do art. 103, §1º, do CDC - Recurso da autora desprovido, com observação. Recursos desprovidos, com observação.” (grifei).
+
+    Os embargos de declaração opostos foram rejeitados (eDOC 11).
+
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 167 e 169, §1º, da Constituição Federal, bem como violação ao entendimento sedimentado no julgamento do Tema 894 de RG.
+
+    Nas razões recursais, sustenta-se que (eDOC 13, pp. 15-16):
+
+     “(...) é vedada a realização de despesas que excedam os créditos orçamentários. Assim, a pretensão da Associação pelo recebimento de valores da Corte local sem prévia previsão orçamentária é inadmissível no ordenamento jurídico brasileiro.
+
+    O v. acórdão recorrido ao julgar procedentes os pedidos da Associação ora recorrida, e determinar o pagamento de valores sem prévia dotação orçamentária, ofendeu os citados dispositivos constitucionais”.
+
+    A Presidência da Seção de Direito Público negou seguimento ao recurso ante a aplicação da súmula 280 do STF(eDOC 17).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Verifica-se que o Tribunal de origem assim asseverou (eDOC 7, pp. 7-9):
+
+    “Quanto ao mérito, cabe destacar que o Adicional de Qualificação foi instituído pela Lei Complementar Estadual nº 1.217/2013, que acrescentou os seguintes dispositivos na Lei Complementar Estadual nº 1.111/2010:
+
+    Artigo 37-A - É instituído o Adicional de Qualificação - AQ destinado aos servidores do Tribunal de Justiça, em razão dos conhecimentos adicionais adquiridos, comprovados por meio de títulos, diplomas ou certificados de cursos de graduação ou pós-graduação, emsentido amplo ou estrito. § 1º - O adicional de que trata este artigo não será concedido quando o curso constituir requisito ou estiver no mesmo nível de escolaridade para ingresso no cargo efetivo ou em comissão. § 2º - Para efeito do disposto neste artigo, serão considerados somente os cursos e as instituições de ensino reconhecidos pelo Ministério da Educação, na forma da legislação. § 3º - Serão admitidos cursos de pós-graduação “lato sensu” somente com duração mínima de 360 (trezentas e sessenta) horas. § 4º - O adicional de que trata este artigo não se incorporará para nenhum efeito e sobre ele não incidirá vantagem de qualquer natureza. § 5º - O adicional contemplará os aposentados somente se o título ou o diploma forem anteriores à data da inativação. Artigo 37-B - O Adicional de Qualificação - AQincidirá sobre os vencimentos brutos equivalentes à base de contribuição previdenciária do cargo em que o servidor estiver em exercício, da seguinte forma: I - 12,5% (doze inteiros e cinco décimos por cento), em se tratando de título de Doutor; II - 10% (dez por cento), em se tratando de título de Mestre; III - 7,5% (sete inteiros e cinco décimos por cento), em se tratando de certificado de Especialização; IV - 5% (cinco por cento), em se tratando de diploma de graduação em curso superior. § 1º - Em nenhuma hipótese o servidor perceberá cumulativamente qualquer percentual dentre os previstos nos incisos I a IVdo 'caput' deste artigo. § 2º - O Adicional de Qualificação será devido a partir do protocolo no Tribunal do diploma, certificado ou título, devidamente registrado. § 3º - O servidor do Quadro de Pessoal do Tribunal de Justiça cedido a outros órgãos da Administração Pública não perceberá, durante o afastamento, o adicional de que trata este artigo, salvo na hipótese de cessão sem prejuízo de vencimentos e demais vantagens ou afastamento para exercício de mandato classista nos termos da Lei Complementar nº 343, de 6 de janeiro de 1984, mandato eletivo ou para campanha eleitoral.
+
+    Nessa esteira, embora o pagamento do referido adicional somente tenha se efetivado a partir de março de 2015, coma concessão administrativa a partir do Comunicado TJSP nº 263/15, ele é devido desde o protocolo do certificado ou título no Tribunal de Justiça do Estado de São Paulo, consoante o disposto no § 2º do artigo 37-B.
+
+    Destaca-se que, o artigo 3º da Lei Complementar Estadual nº 1.217/13, o qual dispõe que “O Adicional de Qualificação instituído no artigo 2º desta lei complementar somente surtirá efeito pecuniário a partir da publicação da concessão expressa, com base nesta lei complementar”, não obsta a pretensão da autora, uma vez que não veda o pagamento retroativo, mormente considerando o disposto no artigo 37-B, §2º, mencionado alhures.
+
+    Também não prospera a alegação de indisponibilidade orçamentária, visto que a promulgação de lei que implique em aumento de despesa pública pressupõe a existência de dotação específica, conforme aduz o artigo 25 da Constituição Estadual de São Paulo. Vejamos:
+
+    Artigo 25 - Nenhum projeto de lei que implique a criação ou o aumento de despesa pública será sancionado sem que dele conste a indicação dos recursos disponíveis, próprios para atender aos novos encargos.
+
+     Portanto, o reconhecimento do direito dos associados da autora ao percebimento do Adicional de Qualificação a partir do protocolo do certificado ou título, mesmo antes da concessão administrativa, era mesmo de rigor.” (grifei)
+
+    Verifico que divergir do entendimento adotado pelo juízo a quo demandaria o exame da legislação local aplicável à espécie (Leis Complementares 1.111/2010 e 1.217/2013), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF. Nesse sentido:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE. GRATIFICAÇÃO DE QUALIFICAÇÃO. LEI 11.907/2009. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. DESPROVIMENTO DO AGRAVO. 1. O relator pode decidir monocraticamente pedido ou recurso manifestamente inadmissível, improcedente, prejudicado ou contrário à jurisprudência dominante ou a Súmula desta Corte, nos termos do art. 557, caput, do CPC/1973 e do art. 21, § 1º, do RISTF. Precedentes. 2. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame da legislação infraconstitucional aplicável à espécie e do conjunto fático-probatório. Incidência da Súmula 279 do STF. 3. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, §4º, do CPC.” (ARE 1.001.540-AgR, minha relatoria, Segunda Turma, DJe 18.4.2017, grifei).
+
+    “DIREITO DO TRABALHO E PROCESSUAL DO TRABALHO. REMUNERAÇÃO. ADICIONAL DE QUALIFICAÇÃO. BASE DE CÁLCULO. LEI ESTADUAL Nº 2.065/1999 E Nº 3.093/2005 E DECRETO ESTADUAL Nº 11.265/2003. MATÉRIA INFRACONSTITUCIONAL. CONTROLE DE LEGALIDADE DOS ATOS ADMINISTRATIVOS PELO PODER JUDICIÁRIO. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. OFENSA NÃO CONFIGURADA. ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO PUBLICADO EM 15.02.2013. A suposta ofensa aos postulados constitucionais indicados nas razões recursais somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo – Lei Estadual nº 2.065/1999 e nº 3.093/2005 e Decreto Estadual nº 11.265/2003 –, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. O exame da legalidade dos atos administrativos pelo Poder Judiciário não ofende o princípio da separação dos Poderes. Precedentes. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. Agravo regimental conhecido e não provido.” (ARE 790.850-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 1º.8.2014, grifei).
+
+    Além disso, observo que o Supremo Tribunal Federal, no RE-RG 905.357, DJe 18.2.2020, de relatoria do Ministro Roberto Barroso (Tema 864), reconheceu a repercussão geral sobre existência, ou não, de direito subjetivo a revisão geral da remuneração dos servidores públicos por índice previsto apenas na Lei de Diretrizes Orçamentárias, sem correspondente dotação orçamentária na Lei Orçamentária do respectivo ano. Reproduzo a ementa desse julgado:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PERDA DE OBJETO. PROSSEGUIMENTO DA ANÁLISE DA QUESTÃO COM RELEVÂNCIA AFIRMADA. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. PREVISÃO NA LEI DE DIRETRIZES ORÇAMENTÁRIAS - LDO. AUSÊNCIA DE DOTAÇÃO NA LEI ORÇAMENTÁRIA ANUAL. INVIABILIDADE DE CONCESSÃO DO REAJUSTE. 1. Segundo o § único do art. 998 do Código de Processo Civil de 2015, “a desistência do recurso não impede a análise de questão cuja repercussão geral já tenha sido reconhecida e daquela objeto de julgamento de recursos extraordinários ou especiais repetitivos”. 2. A norma se aplica para a hipótese de perda de objeto superveniente ao reconhecimento da repercussão geral. Precedente: ARE 1054490 QO, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, DJe 09-03-2018. 3. Segundo dispõe o art. 169, § 1º, da Constituição, para a concessão de vantagens ou aumento de remuneração aos agentes públicos, exige-se o preenchimento de dois requisitos cumulativos: (I) dotação na Lei Orçamentária Anual e (II) autorização na Lei de Diretrizes Orçamentárias. 4. Assim sendo, não há direito à revisão geral anual da remuneração dos servidores públicos, quando se encontra prevista unicamente na Lei de Diretrizes Orçamentárias, pois é necessária, também, a dotação na Lei Orçamentária Anual. 5. Homologado o pedido de extinção do processo com resolução de mérito, com base no art. 487, III, c, do Código de Processo Civil de 2015. 6. Proposta a seguinte tese de repercussão geral: A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias. ”
+
+    Diferente é a hipótese dos autos, em que se pretende o reconhecimento do direito à percepção do Adicional de Qualificação, instituído pela Lei Complementar Estadual nº 1.217/2013, a partir do protocolo do diploma, certificado ou título.
+
+    Inviável, portanto, a aplicação do Tema 864 da repercussão geral, pois a matéria ora em exame é diversa da discutida no paradigma.
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC, c/c art. 21, § 1º, do RISTF.
+
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+
+    Publique-se.
+
+    Brasília, 23 de outubro de 2023.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
