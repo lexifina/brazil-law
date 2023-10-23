@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. ÔNUS SUCUMBENCIAIS. REVISÃO. QUANTITATIVO MÍNIMO OU RECÍPROCO DA SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. Rever a convicção formada pelo tribunal a quo acerca da prescindibilidade de produção da prova oral requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+5. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+6. Agravo interno desprovido.
+RELATÓRIO
+WILLIAN COUTINHO DE AMORIM interpõe agravo interno contra a decisão de fls. 293-295, que não conheceu do agravo em recurso especial diante da aplicação analógica da Súmula n. 182 do STJ.
+Sustenta que impugnou os fundamentos da decisão que inadmitira o recurso especial.
+Reitera as razões recursais apresentadas no agravo em recurso especial, afirmando que apontou a negativa de vigência dos arts. 86 e 369 do CPC e que defendeu a inaplicabilidade da Súmula n. 7 do STJ.
+Requer, assim, o provimento do presente recurso a fim de que do recurso especial se conheça e, nessa extensão, seja provido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. ÔNUS SUCUMBENCIAIS. REVISÃO. QUANTITATIVO MÍNIMO OU RECÍPROCO DA SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICA. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+2. Não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+4. Rever a convicção formada pelo tribunal a quo acerca da prescindibilidade de produção da prova oral requerida demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, devido ao óbice da Súmula n. 7 do STJ.
+5. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+6. Agravo interno desprovido.
+VOTO
+Razão assiste ao agravante quanto à presença de impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial, razão pela qual a decisão da Presidência do STJ (fls. 293-295) deve ser reconsiderada.
+Procedo, pois, a novo exame de admissibilidade do recurso especial.
+Em nova análise, contudo, a irresignação do apelo nobre não reúne condições de prosperar.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Apelação Cível n. 1041907-23.2019.8.26.0114) nos autos de ação de cobrança.
+O julgado foi assim ementado (fl. 229):
+APELAÇÃO. Ação de cobrança. Contrato de Locação de imóvel. Sentença de procedência. Inconformismo da parte ré. Preliminar de cerceamento de defesa. Inocorrência. Inutilidade do meio de prova pretendido. Mérito. Multa por rescisão antecipada expressamente prevista em contrato. Ausência de prova inconteste de que o locatário foi dela dispensado pela locadora. Multa que deve incidir sobre o valor locatício, previsto no instrumento de locação, qual seja R$1.500,00, pago mensalmente. Sucumbência recíproca. Não acolhimento. Parte apelante que foi derrotada na ação principal, não havendo que se falar em reciprocidade. Sentença mantida. Recurso desprovido.
+Os embargos de declaração opostos foram acolhidos apenas quanto à observação da concessão dos benefícios da justiça gratuita.
+Nas razões do recurso especial, a parte ora agravante aponta violação dos seguintes artigos:
+a) 369 do CPC, porquanto o acórdão recorrido, ao indeferir a produção de prova oral, incorreu em cerceamento de defesa; e
+b) 86 do CPC, visto que "está demonstrado em números que houve sucumbência recíproca" (fl. 248).
+Requer o provimento do recurso.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+Por sua vez, não caracteriza cerceamento de defesa o julgamento antecipado da lide sem a produção das provas requeridas pela parte consideradas desnecessárias pelo juízo, desde que devidamente fundamentado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. HOME CARE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Conforme jurisprudência deste Sodalício, não há cerceamento de defesa quando o eg. Tribunal estadual, de forma fundamentada, afasta a necessidade de prova pericial" (AgInt no AREsp n. 1.848.285/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, j. em 28/3/2022, DJe de 3/5/2022).
+2. "Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar" (AgInt no REsp n. 1.994.152/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/8/2022, DJe de 26/8/2022.)
+3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial. (AgInt no AREsp n. 1.649.729/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/10/2022, DJe de 21/10/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+1. As conclusões adotadas pelo órgão julgador no sentido de que compete ao juiz decidir sobre a produção de provas necessárias ou indeferir aquelas que tenha como inúteis ou protelatórias, não implicando em cerceamento de defesa o indeferimento da dilação probatória, estão em consonância com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83 do STJ. 1.1. O Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção da prova testemunhal. O acolhimento da pretensão recursal, no ponto, demandaria revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+2. Consoante a jurisprudência desta Corte Superior, "a cláusula que estipula reserva de poderes inserida em substabelecimento aponta para a circunstância de que os honorários advocatícios são devidos, em regra, ao substabelecente, nos termos do art. 26 da Lei nº 8.906/1994. Qualquer insurgência do substabelecido, em virtude de sua atuação profissional, deve ser solucionada na via própria, diante da natureza pessoal da relação jurídica entre ambos" (REsp n. 1.214.790/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/4/2015, DJe de 23/4/2015.).
+3. A revisão do aresto impugnado para afastar a aplicação de multa por litigância de má-fé exigiria derruir a convicção formada nas instâncias ordinárias sobre a conduta temerária da ora insurgente. Incidência da Súmula 7/STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.089.543/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Da análise do processo, verifica-se que o Tribunal de Justiça do Estado de São Paulo concluiu serem suficientes os elementos existentes nos autos para estabelecer suas conclusões sobre o objeto da lide. Expôs, de forma motivada, que a produção de prova testemunhal seria inócua. Confira-se trecho do voto condutor do acórdão da apelação (fl. 232, destaquei):
+A argumentação de cerceamento de defesa não deve ser acolhida, porque a prova testemunhal é inútil para fins de constatação de suposto acordo, eis que para tanto, bastava, apenas, o acordo escrito, propriamente dito, ou seja, prova unicamente documental, não se desincumbindo o apelante do ônus que lhe competia, nos termos do artigo 373, inciso II, do Código de Processo Civil.
+Portanto, para rever a convicção formada pelo Tribunal de origem acerca da prescindibilidade da produção de prova, seria necessário reexame do conjunto fático-probatório, o que é vedado em recurso especial, em razão do óbice da Súmula n. 7 do STJ (AgInt no AREsp n. 1.334.161/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022).
+No tocante à alegada violação do art. 86 do CPC, o Tribunal de origem entendeu o seguinte (fls. 233-234, destaquei):
+Quanto ao pedido de reconhecimento da sucumbência recíproca, não merece guarida.
+O pleito principal, de pagamento dos encargos de locação e multa por desocupação antecipada, já descontado o valor da caução, foi procedente, de sorte que a sucumbência da parte recorrente é, em verdade, absoluta, não havendo motivo para modificação.
+Assim, fica mantida a r. sentença.
+Para fins de incidência do artigo 85, §11, do Código de Processo Civil, entendimento consolidado pelo Superior Tribunal de Justiça é o de que há requisitos cumulativos sem os quais não deve ensejar a respectiva majoração. São eles: decisão recorrida proferida na vigência do Código de Processo Civil atual, o recurso não ser conhecido integralmente ou desprovido em decisão monocrática ou colegiado e preexistir condenação ao pagamento de honorários desde o juízo de origem:
+Assim, no que se refere à suscitada violação do art. 86 do CPC, verifica-se que, versando a controvérsia acerca da distribuição da sucumbência, a análise da existência de sucumbência mínima ou recíproca demanda reexame de provas, o que encontra óbice na Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 284/STF. PROMESSA DE COMPRA E VENDA DE IMÓVEL. COBRANÇA DE DESPESAS DE RATEIO E DE SEGURO. REDIMENSIONAMENTO DA SUCUMBÊNCIA. INTERPRETAÇÃO DE CLÁUSULAS DO CONTRATO E REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DESPESAS DE CONDOMÍNIO. POSSE DO IMÓVEL. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. O conhecimento do recurso especial exige a indicação do dispositivo legal supostamente violado ou objeto da alegada divergência jurisprudencial. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. O promitente comprador passa a ser responsável pelo pagamento das despesas condominiais a partir da entrega das chaves, tendo em vista ser o momento em que tem a posse do imóvel. Precedentes.
+4. "A apreciação, em recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ" (AgInt no AREsp 1944295/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/3/2022, DJe 24/3/2022)
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.059.723/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023, destaquei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS PARTES AUTORAS .
+ ..
+5. Segundo entendimento jurisprudencial do STJ, "a apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ". Precedentes.
+6. A revisão da indenização por dano moral apenas é possível na hipótese de o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, inviável reexaminar o valor fixado a título de indenização, uma vez que tal análise demanda incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7 do STJ. Precedentes.
+7. Nos termos da jurisprudência do STJ, os lucros cessantes devem ser efetivamente comprovados, não se admitindo lucros presumidos ou hipotéticos. Precedentes.
+7.1. No caso concreto, o Tribunal a quo fundamentou a impossibilidade de aferição dos lucros cessantes na inexistência de qualquer segurança de que a dupla sertaneja fosse mantida ou continuasse fazendo sucesso e promovendo shows. Assim, a pretensão recursal implica reexame de provas, e não revaloração das provas, mantendo-se óbice da Súmula 7/STJ.
+8. Agravo interno interposto por ROSENI BARBOSA DOS SANTOS REIS e OUTRA desprovido. (AgInt no REsp n. 1.651.663/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/3/2023, DJe de 4/4/2023, destaquei.)
+A propósito, o Superior Tribunal de Justiça já sedimentou entendimento no sentido de que a análise da aplicação do princípio da causalidade para fixação de verba honorária sucumbencial implica reexame de provas, o que é inviável nesta instância especial, em razão do óbice da Súmula n. 7 do STJ (AgInt no AREsp n. 1.742.912/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 6/4/2021; AgInt no AREsp n. 1.620.394/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 3/9/2020; e AgInt no AgInt no AREsp n. 1.628.525/PE, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/8/2020).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
