@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Leandro Agraecio de Lima Mineiro - preso preventivamente pela prática, em tese, do crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina (Habeas Corpus n. 5060612-67.2023.8.24.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente pelo Juízo de Direito da 2ª Vara da comarca de Santo Amaro da Imperatriz/SC, ao argumento de que houve irregularidade na abordagem e na sua prisão, conforme motivos expostos acima. Não fosse isso, a alegação de que o paciente é reincidente específico também não justifica a sua prisão. Em análise a certidão de antecedentes criminais, evento 6 do inquérito (cópia anexa), sua condenação teve trânsito em julgado no dia 25/7/2016, e desde aquela data não houve notícias de nenhum ilícito cometido pelo mesmo. A extinção da pena seria em 30/1/2024, data bem próxima, o que comprova não ser a pessoa perigosa mencionada (fl. 6 - Autos n. 5003836-70.2023.8.24.0057).
+Da atenta análise da decisão que converteu a prisão em flagrante em preventiva, observa- se que o Magistrado singular logrou demonstrar a necessidade da custódia para a garantia da ordem pública, uma vez que o acusado é reincidente específico e foi apreendido 1 kg de crack (fl. 52 - grifo nosso), o que demonstra ser imperiosa a garantia da ordem pública, ao menos neste momento.
+Em face d o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. PACIENTE REINCIDENTE ESPECÍFICO E APREENSÃO DE 1 KG DE CRACK. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
