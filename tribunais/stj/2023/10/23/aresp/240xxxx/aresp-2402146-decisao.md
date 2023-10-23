@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 388/394).
+O acórdão recorrido está assim ementado (e-STJ fls. 303):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE RESPONSABILIDADE CIVIL. TRANSPORTE AÉREO. VOO NACIONAL. ALEGAÇÃO DE IMPOSSIBILIDAEE DE EMBARQUE EM RAZÃO DE AGLOMERAÇÃO DE PESSOAS E ESCASSEZ DE FUNCIONÁRIOS DA EMPRESA. SENTENÇA DE PROCEDÊNCIA. APELAÇÃO DA RÉ. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. APELANTE QUE NÃO LOGROU FAZER PROVA DAS TESES SUSCITADAS EM SUA PEÇA DE DEFESA. INTIMAÇÃO PARA MANIFESTAÇÃO EM PROVAS. INÉRCIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO FIXADO DE ACORDO COM OS PARÂMETROS UTILIZADOS POR ESTA CORTE DE JUSTIÇA, E EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. PRECEDENTES. DESPROVIMENTO DO RECURSO.
+No especial (e-STJ fls. 327/348), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de divergência jurisprudencial , ofensa aos arts. 402, 734, 946 do Código Civil e 14, §3º, do CDC.
+Suscita a desproporcionalidade do valor fixado a título de danos morais.
+Alega que há causa excludente de responsabilidade, pois "o fato ocorreu por culpa exclusiva da própria parte Recorrida, a qual em inobservância às cláusulas contratuais, não se apresentaram ao balcão de check in no horário designado para o despacho de suas bagagens, dando azo ao no show em sua reserva" (e-STJ fl. 330).
+Houve contrarrazões (e-STJ fls. 361/386).
+No agravo (e-STJ fls. 412/431), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 436/449).
+Juízo negativo de retra tação (e-STJ fl. 457).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 306/307):
+ ..  Narram os autores que não conseguiram embarcar no voo com destino à cidade de Fortaleza devido à aglomeração de pessoas e escassez de funcionários da empresa ré, apesar de terem chegado ao local com a devida antecedência.
+A empresa aérea, ora apelante, de outro giro, sustenta a responsabilidade dos contratantes pela perda do voo ao argumento de que não teriam comparecido ao check-in de embarque a tempo, afirmando, ainda, que faria comprovação, oportunamente, mediante requisição da filmagem do local à administradora aeroportuária, documentação esta que jamais fora apresentada.
+Registre-se, por oportuno, que, instada a se manifestar em provas, a empresa recorrente informa não possuir mais provas a serem produzidas (fls. 189), não tendo se desincumbido do ônus que lhe recai por força do art. 14, § 3º da Lei nº 8.078/90 c/c art. 373, II, do Novo Código de Processo Civil.
+Ademais, eventuais falhas na prestação do serviço constituem fortuito interno, inerentes aos riscos do negócio desenvolvido, mantendo-se, pois, o nexo de causalidade entre a conduta da empresa de transporte aéreo e o evento danoso ocorrido. A toda evidência, o contrato de transporte firmado pelas partes não foi efetivamente cumprido como deveria pela empresa contratada.
+Indubitável, pois, a frustração da legítima expectativa dos recorridos, que celebraram contrato no intuito de realizarem uma viagem que, todavia, não foi realizada na data prevista, devendo-se levar em conta, ainda, o fato de que dois dos autores, MARIA CLARA SOARES MANTOVANO e VICTOR GABRIEL COSTA POUBEL, contavam com 12 e 16 anos, respectivamente.
+Toda situação vivenciada consubstancia transtornos que ultrapassam o conceito de mero aborrecimento, razão pela qual impõe-se o dever de indenizar.
+É certo que a indenização, em tais casos, além de servir como compensação pelo abalo impingido aos autores, deve também respeitar os princípios da razoabilidade e da proporcionalidade, de modo a desestimular condutas semelhantes, e estar aliada a outras circunstâncias peculiares de cada conflito de interesses, sem jamais constituir-se em fonte de enriquecimento sem causa para o ofendido, tampouco em valor ínfimo que o faça perder o caráter pedagógico-punitivo ao ofensor.
+Neste passo, há critérios norteadores que balizam o arbitramento, como a repercussão do dano e a possibilidade econômica do ofensor e da vítima, sem olvidar da vedação de constituir-se em fonte de lucro.
+Feitas tais considerações, entendo que o quantum fixado, no patamar de R$ 10.000,00 (dez mil reais) para cada autor, se revela de acordo com os parâmetros adotados por esta E. Corte de Justiça, e em observância aos princípios da razoabilidade e da proporcionalidade, pelo que deve ser mantido.
+Nesse contexto, rever o posicionamento adotado pelo Tribunal a quo e sopesar as razões recursais demandaria o revolvimento do conjunto fático-probatório dos autos, considerada a razoabilidade do quantum fixado pelos danos morais, providência vedada no âmbito do recurso especial, ante a Súmula n. 7 do STJ.
+Finalmente, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem co mo a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte não se desincumbiu. Inafastável a Súmula n. 284 do STF quanto ao ponto.
+Diante do exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
