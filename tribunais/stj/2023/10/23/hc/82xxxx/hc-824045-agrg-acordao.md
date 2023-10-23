@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. OITIVA DA APENADA SEM A PRESENÇA DE ADVOGADO. ASSISTÊNCIA DA DEFENSORIA PÚBLICA DURANTE O PROCEDIMENTO E APRESENTAÇÃO DE DEFESA ESCRITA. DEMONSTRAÇÃO DO PREJUÍZO. AUSÊNCIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando evidenciado que, além de o writ ter sido impetrado em substituição ao recurso adequado, não se evidencia, de plano, constrangimento ilegal à liberdade de locomoção (art. 210 do RISTJ).
+2. Hipótese em que foi atribuída falta disciplinar de natureza grave à ora agravante, mas esta, apesar de devidamente assistida pela Defensoria Pública durante o procedimento, não foi interrogada na presença de defensor. Tal mácula demanda a indicação do prejuízo, indispensável ao reconhecimento de eventual nulidade, o que na situação dos autos, não ocorreu, impedindo que se anule o procedimento. Precedente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Pamella de Oliveira dos Anjos contra decisão da minha lavra, na qual indeferi liminarmente o writ impetrado em seu favor, assim ementada (fl. 196):
+EXECUÇÃO PENAL. HABEAS CORPUS. NULIDADE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE DEFESA TÉCNICA. INFORMAÇÃO NOS AUTOS EM SENTIDO CONTRÁRIO. CONCLUSÃO INVERSA. REEXAME DE PROVAS. INVIABILIDADE NA VIA ESTREITA.
+Ordem denegada.
+Alega a agravante, em síntese, que ao contrário do decidido, a ausência da defesa técnica no PAD por ocasião do interrogatório da Agravante está sobejamente demonstrada, não se tratando, como dito na decisão, de falta de defesa escrita (fl. 203).
+Postula, então, o provimento do presente agravo regimental, esperando a reconsideração da decisão agravada, no sentido de ser concedida a ordem nos termos deduzidos na peça inicial (fl. 205).
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. OITIVA DA APENADA SEM A PRESENÇA DE ADVOGADO. ASSISTÊNCIA DA DEFENSORIA PÚBLICA DURANTE O PROCEDIMENTO E APRESENTAÇÃO DE DEFESA ESCRITA. DEMONSTRAÇÃO DO PREJUÍZO. AUSÊNCIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+1. Deve ser mantida a decisão monocrática que indefere liminarmente a inicial, quando evidenciado que, além de o writ ter sido impetrado em substituição ao recurso adequado, não se evidencia, de plano, constrangimento ilegal à liberdade de locomoção (art. 210 do RISTJ).
+2. Hipótese em que foi atribuída falta disciplinar de natureza grave à ora agravante, mas esta, apesar de devidamente assistida pela Defensoria Pública durante o procedimento, não foi interrogada na presença de defensor. Tal mácula demanda a indicação do prejuízo, indispensável ao reconhecimento de eventual nulidade, o que na situação dos autos, não ocorreu, impedindo que se anule o procedimento. Precedente.
+3. Agravo regimental improvido.
+VOTO
+Apesar das alegações da agravante, a decisão repreendida não comporta alteração.
+É que, embora a ora agravante não tenha sido ouvida na presença de advogado durante o interrogatório, consta dos autos que os princípios suso mencionados foram observados pela autoridade administrativa, que promoveu a oitiva da apenada, o que lhe permitiu exercer seu direito à autodefesa, bem como disponibilizou defesa técnica escrita, efetivamente exercida pela Defensoria Pública atuante na unidade prisional (fl. 25).
+Além do mais, não foi indicado nem aqui, nem no habeas corpus originário, a configuração do prejuízo, indispensável ao reconhecimento da nulidade.
+No mesmo sentido:
+PENAL. PROCESSO PENAL. EXECUÇÃO DA PENA. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE CARACTERIZADA. IMPRESCINDÍVEL INSTAURAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. SÚMULA 533/STJ. NULIDADE DO PAD. OITIVA JUDICIAL DO SENTENCIADO SOB DEFESA REGULAR. INEXISTÊNCIA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E CONTRADITÓRIO. PREJUÍZO NÃO DEMONSTRADO. PRINCÍPIO DO PAS DE NULLITE SANS GRIEF. AFASTAMENTO DA FALTA GRAVE. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE. VIA ESTREITA. HABEAS CORPUS NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A eg. Terceira Seção desta Corte, em julgamento proferido em sede de recurso especial repetitivo (REsp n. 1.378.557/RS), revendo anterior posicionamento, firmou orientação no sentido de que " ..  Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado" (REsp n. 1.378.557/RS, Terceira Seção, Rel. Min. Marco Aurélio Bellizze, DJe de 21/3/2014).
+III - Como bem observado pelo parecer do Ministério Público Federal, embora tenha sido ouvido sem a presença de advogado, tem-se que o mesmo foi devidamente assistido pela Defensoria Pública no procedimento administrativo disciplinar, bem como em Juízo, com apresentação de defesa escrita previamente à tomada de decisão da Comissão processante e do Juiz da execução, inexistindo a demonstração de que a assistência de defensor, no ato de interrogatório, teria alterado a conclusão ou do Juízo da execução.
+IV - Ademais, "muito embora fosse possível à defesa técnica requerer nova oitiva do apenado tanto perante a autoridade administrativa quanto em Juízo, deixou de fazê-lo, limitando-se ao requerimento de nulidade das declarações prestadas na fase administrativa e de todo o procedimento administrativo disciplinar" (fl. 243), o que evidencia a preclusão da tese, porquanto não suscitada em tempo oportuno.
+V - Quanto à necessidade de a defesa técnica do paciente presenciar os depoimentos das testemunhas e o do próprio sentenciado, prestados no procedimento administrativo disciplinar instaurado para a apuração de falta grave, este Superior Tribunal de Justiça já se pronunciou em diversas ocasiões no sentido de que é imprescindível a demonstração de prejuízo para reconhecimento de eventual nulidade, ônus do qual não se desincumbiu a combativa defesa - em consonância com o princípio pas de nullite sans grief, consagrado no art. 563 do Código de Processo Penal.
+VI - Rever o entendimento do Tribunal estadual para afastar a falta grave imputada ao paciente demandaria, necessariamente, amplo revolvimento da matéria fático probatória dos autos de execução, procedimento que, a toda evidência, é incompatível com a estreita via do habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC 736.555/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 27/06/2022 - grifo nosso)
+Em face do exposto, nego provimento ao agravo regimental.
