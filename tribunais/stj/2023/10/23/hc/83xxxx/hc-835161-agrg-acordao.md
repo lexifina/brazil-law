@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. REGIME INICIAL MAIS GRAVOSO. CIRCUNSTÂNCAIS CONCRETAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+III - Na hipótese, a fixação do regime mais gravoso sequente, qual seja, o fechado, se mostra adequada para o início de cumprimento da pena, ante a gravidade concreta do delito, superior à ínsita aos crimes de roubo, assinalando o magistrado singular que o delito, praticado em concurso de agentes, foi perpetrado na presença de crianças, na residência das vítimas, as quais sofreram abalo psicológico, elementos concretos que justificam o recrudescimento do regime inicial de cumprimento de pena. Assim, considerando o quantitativo de pena estabelecido e a fundamentação concreta levada a efeito pelo Tribunal de origem, o regime mais gravoso sequente, qual seja, o fechado, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º, do Código Penal. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por PAULO ALEXANDRE CLAUDINO contra a decisão que denegou a ordem de habeas corpus impetrado contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o agravante foi inicialmente condenado às penas de 05 (cinco) anos e 04 (quatro) meses de reclusão, no regime inicial fechado, e 13 (treze) dias-multa, por infração ao artigo 157, § 2º, II, do Código Penal, consoante a sentença de fls. 08-27.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 28-36.
+No respectivo writ, impetrado nesta Corte, a defesa requereu a concessão da ordem, para fixar o regime prisional inicial semiaberto.
+A ordem de habeas corpus foi denegada (fls. 123-125).
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, sustentando a existência de coação ilegal em razão do estabelecimento do regime inicial fechado, apontando divergência ao entendimento consubstanciado pela Súmula n. 440, do Superior Tribunal de Justiça.
+Postula, assim, pela reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 129-131).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. REGIME INICIAL MAIS GRAVOSO. CIRCUNSTÂNCAIS CONCRETAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+III - Na hipótese, a fixação do regime mais gravoso sequente, qual seja, o fechado, se mostra adequada para o início de cumprimento da pena, ante a gravidade concreta do delito, superior à ínsita aos crimes de roubo, assinalando o magistrado singular que o delito, praticado em concurso de agentes, foi perpetrado na presença de crianças, na residência das vítimas, as quais sofreram abalo psicológico, elementos concretos que justificam o recrudescimento do regime inicial de cumprimento de pena. Assim, considerando o quantitativo de pena estabelecido e a fundamentação concreta levada a efeito pelo Tribunal de origem, o regime mais gravoso sequente, qual seja, o fechado, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º, do Código Penal. Precedentes.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Presentes os requisitos legais, conheço do agravo regimental.
+Como relatado, a defesa repisa os argumentos de mérito, sustentando que não houve justificativa adequada a ensejar a fixação do regime prisional inicial mais gravoso, qual seja, o fechado.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+No que tange ao regime inicial de cumprimento de pena, conforme o disposto no artigo 33, parágrafo 3º, do Código Penal, a sua fixação pressupõe a análise do quantitativo da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+Sobre o tema, esta Corte Superior editou a Súmula n. 440, que dispõe: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Nesse mesmo sentido, assim dispõem as Súmulas n. 718 e n. 719, do Supremo Tribunal Federal, respectivamente:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em dados concretos extraídos dos autos.
+Na hipótese, a fixação do regime mais gravoso sequente, qual seja, o fechado, se mostra adequada para o início de cumprimento da pena, ante a gravidade concreta do delito, superior à ínsita aos crimes de roubo, assinalando o magistrado singular que o delito, praticado em concurso de agentes, foi perpetrado na presença de crianças, na residência das vítimas, as quais sofreram abalo psicológico, elementos concretos que justificam o recrudescimento do regime inicial de cumprimento de pena.
+Assim, considerando o quantitativo de pena estabelecido e a fundamentação concreta levada a efeito pelo Tribunal de origem, o regime mais gravoso sequente, qual seja, o fechado, mostra-se adequado ao caso, nos termos do artigo 33, parágrafo 3º, do Código Penal.
+Nessa linha, "a jurisprudência desta Corte de Justiça  ..  é pacífica no sentido de que a existência de circunstâncias judiciais desfavoráveis, ou ainda, outra situação que demonstre a gravidade concreta do delito perpetrado, como in casu, são condições aptas a recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta, de modo que não existe ilegalidade no resgate da reprimenda do paciente no regime inicial fechado" (AgRg no HC n. 830.999/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023).
+Corroborando: AgRg no HC n. 793.849/SP, Quinta Turma, de minha relatoria, DJe de 22/6/2023; AgRg no HC n. 735.138/SP, AgRg nos EDcl no HC n. 723.695/SP, Quinta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 9/5/2022; e HC n. 613.196/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/9/2021.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
