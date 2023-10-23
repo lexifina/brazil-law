@@ -1,0 +1,8 @@
+DECISÃO
+A impetrante pede a reconsideração da decisão de fls. 140-142. Reitera o pedido de detração penal e busca a fixação do regime inicial aberto aos pacientes, pois, uma vez computado o período de prisão preventiva, as penas remanescentes não superam o patamar de 4 anos de reclusão.
+O pedido de reconsideração é instrumento que não se presta a impugnar decisões judiciais, à falta de previsão legal. Consoante o registro da decisão de fls. 140-142, além da supressão de instância (a matéria não foi suscitada em apelação e, por isso, não existe causa decidida pelo Tribunal de Justiça sobre o tema), não se verifica patente ilegalidade, a ensejar a fixação do regime inicial aberto, de ofício.
+A detração penal não modificaria o modo semiaberto de resgate da pena remanescente inferior a quatro anos, haja vista a previsão do art. 33, § 3º, do CP, uma vez que a sentença e o acórdão confirmatório da condenação registraram circunstâncias judiciárias desfavoráveis do art. 59 do CP. É mais benéfico aos sentenciados que o art. 42 do CP seja observado pelo Juiz da VEC, para fins de progressão de regime.
+Deveras, "Quanto ao regime inicial de cumprimento de pena, as instâncias ordinárias estabeleceram a pena-base acima do mínimo legal, por terem sido desfavoravelmente valoradas circunstâncias do art. 59 do Código Penal, o que permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP" (HC n. 610.654/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/12/2020, DJe de 14/12/2020).
+À vista do exposto, indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
+EMENTA
