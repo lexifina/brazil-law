@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 17/10/2023 a 23/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO. CAPITULO AUTÔNOMO. ÓBICE DE ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+2. O agravo interno de que trata o art. 1.030, § 2º, do CPC/2015 é a sede própria para a demonstração de eventual falha na aplicação da tese firmada no paradigma repetitivo em face de realidade do processo.
+3. A menção na decisão a quo sobre a existência de outro óbice de admissibilidade do recurso especial relacionado com tema julgado por precedente vinculante não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+4. A falta de impugnação específica a óbice de admissibilidade aplicado pela decisão a quo no tocante a capítulo subsistente diverso do paradigma repetitivo também impõe o não conhecimento ao agravo em recurso especial quanto a esse ponto.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela LABATE PAPÉIS MÁQUINAS E SUPRIMENTOS LTDA. contra decisão por mim proferida, constante das e-STJ fls. 1.779/1.782, em que não conheci do agravo em recurso especial, pelos seguintes fundamentos: (i) inadequação da via eleita para impugnar a decisão a quo na parte em que negou seguimento ao recurso especial por compreender conforme o acórdão recorrido com o precedente obrigatório formado em julgamento de recurso especial repetitivo (REsp 1.148.444/MG - Tema 282 do STJ), não guardando os demais óbices de admissibilidade mencionados quando a esse capítulo (ausência de negativa de prestação jurisdicional e incidência da Súmula 7 do STJ) autonomia a justificar a interposição de recurso dirigido a esta Corte Superior; (ii) ausência de impugnação específica à Súmula 7 do STJ, aplicada pela decisão a quo como fundamento para inadmitir o apelo raro no tocante ao capítulo subsistente, referente à pertinência da aplicação da multa processual prevista no art. 1.026, § 2º, do CPC/2015.
+Nas suas razões (e-STJ fls. 1.788/1.794), a agravante sustenta, em resumo, que: (a) a adequação do agravo em recurso especial quanto às alegadas: nulidade do acórdão recorrido por negativa de prestação jurisdicional, notadamente na análise de prova produzida no autos que demonstraria a boa-fé da adquirente a amparar o aproveitamento do ICMS destacado na nota fiscal declarada inidônea; usurpação de competência pela Corte de origem ao obstar o recurso especial mediante exame de seu mérito; (b) combateu a aplicação da Súmula 7 do STJ, inclusive quanto à aplicação da multa processual.
+Sem impugnação pela parte agravada, conforme certificado à e-STJ fl. 1.801.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO. AGRAVO EM RECURSO ESPECIAL. INADEQUAÇÃO. CAPITULO AUTÔNOMO. ÓBICE DE ADMISSIBILIDADE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. É incabível agravo em recurso especial (art. 1.042 do CPC/2015) para impugnar decisão que, tendo como principal fundamento a conformidade do acórdão recorrido com precedente formado em julgamento de recurso especial repetitivo, nega seguimento ao apelo raro com amparo no art. 1.030, I, do CPC/2015.
+2. O agravo interno de que trata o art. 1.030, § 2º, do CPC/2015 é a sede própria para a demonstração de eventual falha na aplicação da tese firmada no paradigma repetitivo em face de realidade do processo.
+3. A menção na decisão a quo sobre a existência de outro óbice de admissibilidade do recurso especial relacionado com tema julgado por precedente vinculante não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+4. A falta de impugnação específica a óbice de admissibilidade aplicado pela decisão a quo no tocante a capítulo subsistente diverso do paradigma repetitivo também impõe o não conhecimento ao agravo em recurso especial quanto a esse ponto.
+5. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos não convencem, devendo ser mantida a decisão agravada por seus próprios fundamentos.
+Relativamente ao capítulo da glosa dos créditos de ICMS aproveitados, constata-se que o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual "o comerciante de boa-fé que adquire a mercadoria, cuja nota fiscal (emitida pela empresa vendedora) posteriormente seja declarada inidônea, pode engendrar o aproveitamento do crédito de ICMS pelo princípio da não cumulatividade, uma vez demonstrada a veracidade da compra e venda efetuada, porquanto o ato declaratório da inidoneidade somente produz efeitos a partir de sua publicação" (REsp 1.148.444/MG - Tema 272 do STJ), sendo certo que a menção aos outros óbices de admissibilidade referentes à inexistência de negativa de prestação jurisdiciona e a aplicação da Súmula 7 do STJ também se refere a essa mesma questão.
+A esse respeito, importa destacar que, no tocante a esse capítulo, tanto no agravo em recurso especial quanto no presente agravo interno, a empresa agravante defende a suposta aplicação equivocada do referido precedente obrigatório no caso concreto, especialmente quanto à compreensão alcançada pela Corte estadual de que a contribuinte não teria conseguido comprovar a realização das operações mercantis que deram ensejo ao aproveitamento dos créditos de ICMS.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo, em que serão analisadas as circunstâncias que permitam a realização do juízo de distinção entre aresto vinculante e o caso concreto, sendo inadequado esse mister no âmbito do agravo em recurso especial.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Reafirmo que, no contexto dos autos, a menção na decisão a quo sobre existência de outros óbices à admissibilidade do recurso especial (inexistência de infringência aos arts. 489 e 1.022 do CPC/2015 e incidência da Súmula 7 do STJ), porquanto relacionados com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guarda autonomia a justificar o cabimento do agravo dirigido para esta Corte Superior.
+Já quanto ao capítulo do recurso especial remanescente, referente à aplicação da multa prevista no art. 1.026, § 2º, do CPC, reitero que o agravo em recurso especial não impugnou a aplicação da Súmula 7 do STJ como óbice à admissibilidade do apelo raro nesse tópico.
+Ocorre que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ.
+Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+(Redação dada pela Emenda Regimental n. 16, de 2014) Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
