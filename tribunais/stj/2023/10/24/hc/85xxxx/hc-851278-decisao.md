@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DANIEL PETRI PERES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0009435-17.2023.8.26.0996).
+Depreende-se dos autos que o paciente encontra-se em cumprimento de pena no regime fechado. Pleiteada a progressão de regime, o pedido foi deferido pelo Juízo das execuções (e-STJ fls. 26/28).
+Interposto agravo em execução na origem pelo Ministério Público estadual, o Tribunal a quo deu provimento ao recurso "para cassar a decisão que progrediu o agravado ao regime semiaberto, determinando-se que a análise do pedido de progressão seja realizada à luz de exame criminológico, a ser determinado pelo nobre Magistrado" (e-STJ fl. 37).
+Daí o presente writ, no qual alega a defesa fazer jus o paciente à progressão de regime, por haver preenchido os requisitos objetivos e subjetivos para tanto.
+Assere ser desnecessário o exame criminológico para a progressão de regime porquanto o réu não comete falta disciplinar desde 2004.
+Requer, liminarmente e no mérito, o restabelecimento da decisão que progrediu o paciente ao regime semiaberto.
+Indeferido o pedido de liminar (e-STJ fls. 47/48) e prestadas as informações solicitadas (e-STJ fls. 54/67); o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 69/70).
+É o relatório.
+Decido.
+A questão posta a deslinde refere-se à necessidade de realização do exame criminológico para a progressão ao regime semiaberto.
+Com a nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n. 10.792/2003, suprimiu-se a realização de exame criminológico como expediente obrigatório, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+Confira-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+Contudo, a despeito de o exame não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os Tribunais Superiores vêm admitindo a sua realização para a aferição do mérito do apenado.
+Segundo esse entendimento, o Magistrado de primeiro grau, ou mesmo o tribunal, diante das circunstâncias do caso concreto, pode determinar a realização da referida prova técnica para a formação de seu convencimento.
+Tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+O tema também foi objeto da Súmula Vinculante n. 26 do Supremo Tribunal Federal:
+Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+No caso dos autos, o Tribunal de origem deu provimento ao recurso do Ministério Público para revogar a progressão de regime e determinar a prévia realização de exame criminológico. Eis os fundamentos adotados pelo mencionado acórdão (e-STJ fl. 43):
+No caso em apreço, os roubos praticados pelo reeducando denotam incomum periculosidade, afigurando-se prematura a concessão do benefício ao réu.
+De ver-se que, cumprindo a pena da primeira condenação, o sentenciado foi beneficiado em 17 de dezembro de 2020 com progressão ao regime aberto; contudo, em 14 de janeiro do ano seguinte tornou a delinquir, praticando novamente gravíssimo delito de roubo, tendo sofrido nova condenação.
+Diante desse cenário, a cautela recomenda que, antes de eventual progressão do reeducando ao regime semiaberto, seja realizado exame criminológico destinado a aferir sua efetiva adaptabilidade a esse regime, no qual são permitidas, entre outros benefícios, saídas temporárias e trabalho externo.
+Como se vê, o Tribunal de origem, ao determinar a realização de exame criminológico, logrou fundamentar a necessidade do referido exame invocando elementos concretos dos autos bastantes a afastar a decisão do magistrado, destacando o cometimento de novo delito pelo apenado enquanto usufruía de regime aberto , o que evidencia a idoneidade da fundamentação utilizada pela Corte a quo, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+A propósito, confiram-se os seguintes precedentes:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME DEFERIDA PELO JUÍZO DA EXECUÇÃO. DECISÃO CASSADA PELO TRIBUNAL DE ORIGEM. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. POSSIBILIDADE. SÚMULA N. 439/STJ. NECESSIDADE DE JUSTIFICAÇÃO CONCRETA. PECULIARIDADES DO CASO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça, sem prejuízo da verificação das alegações expostas na inicial ante a possibilidade de se verificar a existência de flagrante constrangimento ilegal.
+2. A alteração do art. 112 da Lei de Execução Penal - LEP pela Lei n. 10.792/03, embora não tenha proibido a realização do exame criminológico para a verificação do preenchimento do requisito subjetivo à progressão de regime, impôs ao magistrado a necessidade de motivar a imprescindibilidade de submissão do apenado ao exame. Entendimento da Súmula n. 439/STJ.
+Evidenciado que o Tribunal de origem declinou elementos concretos ocorridos no curso da execução da pena - tendo levado em consideração, além da gravidade abstrata do delito praticado, o comportamento carcerário do apenado, notadamente diante do fato de o mesmo ter cometido novo delito enquanto cumpria pena no regime aberto -, resta justificada a necessidade de realização do exame técnico para a formação de seu convencimento, não havendo que se falar em constrangimento ilegal.
+Habeas corpus não conhecido. (HC n. 396.637/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/6/2017, DJe de 1/8/2017.)
+AGRAVO REGIMENTAL. HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO PRÓPRIO. INCABIMENTO. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. ACÓRDÃO IMPUGNADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. PREENCHIMENTO DO REQUISITO SUBJETIVO. QUESTÃO DE FATO CONTROVERTIDA. INADEQUAÇÃO DA VIA ELEITA.
+I. É incabível a impetração de habeas corpus como sucedâneo de recurso previsto na legislação se não resta evidente a ilegalidade apontada e o deslinde da questão posta requisita o exame aprofundado de questão de fato controvertida.
+II. Esta Corte Superior de Justiça tem jurisprudência pacífica no sentido de que não há constrangimento ilegal na exigência de exame criminológico, mesmo após a edição da Lei nº 10.792/03, desde que fundamentada a decisão na gravidade concreta do delito ou em dados concretos da própria execução.
+III. Na sede angusta do habeas corpus é incabível o reexame de prova para afastar a conclusão adotada no acórdão impugnado de que o reeducando ostenta mau comportamento carcerário e não preenche o requisito subjetivo para o livramento condicional.
+IV. Agravo regimental improvido. (AgRg no HC 302.033/SP, relatora a Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 16/9/2014, grifei.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
