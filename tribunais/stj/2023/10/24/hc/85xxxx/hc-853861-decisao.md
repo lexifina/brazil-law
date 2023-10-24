@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, com pedido de liminar, impetrado em benefício de IGOR DIAS MARTINS, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consoante se extrai dos autos, o paciente foi condenado definitivamente como incurso no art. 121, § 2º, I, c.c. o art. 14, II (praticado contra Orlando Marcos da Silva); no art. 121, § 2º, V, e § 4º, segunda parte (perpetrado contra Mateus Silva Souza); no art. 121, § 2º, V, c.c. o art. 14, II (cometido contra Maria Madalena L.Vilas Boas); e no art. 125 (praticado contra o feto da gestante Maria Madalena L. Vilas Boas), os dois últimos na forma do art. 70, todos do CP, à pena total de 38 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado.
+O Tribunal a quo não admitiu a revisão criminal, nos termos da seguinte ementa:
+Revisão Criminal  Reiteração de pedido anterior  Inadmissibilidade A mera reiteração de revisão criminal já julgada não enseja apreciação, mormente desacompanhada de novo elemento de prova, consoante preceitua o parágrafo único do art. 622 do Código de Processo Penal." (e-STJ, fls. 44).
+Neste habeas corpus, o impetrante sustenta, em síntese, que é de rigor a absolvição do paciente por fragilidade de provas.
+Ressalta que a absolvição do paciente pelo crime de roubo nos autos da Revisão Criminal nº 0037702-19.2019.8.26.0000, praticado antes dos crimes de homicídio, impõe a mesma providência em relação a estes.
+Requer, ao final, a concessão da ordem para absolver o paciente.
+Requerimento de tutela de urgência indeferido (e-STJ, fl. 98).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ, fls. 178-182).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmen te previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Quanto aos capítulos da absolvição e da consunção, assim consignou o acórdão impugnado:
+"Pelo que se infere da petição da presente revisão criminal, a Defesa do peticionário entendeu que, como Igor foi absolvido, por falta de provas, na revisão criminal n. 0037702-19.2019, da imputação do crime de roubo, automaticamente deveria ser absolvido das imputações dos quatro delitos contra a vida aqui tratados. Igor, afinal, talvez não fosse o roubador da motocicleta e Orlando (que, diga-se de passagem, foi assassinado em 10 de janeiro de 2004  fls. 71) era, ainda, seu desafeto!
+Com o devido respeito à Defesa, raciocínio mais absurdo não há. A análise probatória efetuada em outro procedimento, naturalmente, não se confunde com prova nova, tal qual requerida no art. 621, III, do CPP. Não se pode tampouco ignorar que tal análise se mostrou controversa, tanto que Igor foi absolvido em sede de revisão criminal, mas por fragilidade de provas e maioria de votos.
+Pontue-se que, ao ver deste Relator, sequer se vislumbra a existência de amparo legal para, na via especialíssima da Revisão Criminal, ter-se procedido á substituição dos critérios adotados pelo MM. Juízo Monocrático, e posteriormente confirmados pela Colenda Turma Julgadora, por outros que foram do agrado dos Dignos componentes do Colendo 6º Grupo de Direito Criminal. Por oportuno, confira-se:
+ ..
+Seja como for, os fatos versados no feito criminal que tratou do crime de assalto, assim como o conjunto probatório colhido naquele processo, são diferentes daqueles tratados no processo criminal referente a crimes contra a vida (procedimento em apenso), sendo certo que a condenação do peticionário no feito de origem desta revisão criminal decorreu de soberano veredito emanado por Conselho de Sentença, confirmado em julgamento de apelação e, posteriormente, em sede de revisão criminal.
+Não é demais reiterar que o referido Acórdão absolutório do crime de roubo, por fragilidade probatória e maioria de votos, obviamente não configura prova nova, nos termos exigidos pelo art. 621, III, e pelo art. 622, parágrafo único, ambos do CPP.
+Ademais, caso de fato houvesse sido produzida alguma prova nova de inocência do peticionário, apta a embasar o pleito absolutório em pauta, deveria a presente revisão criminal ter vindo instruída com prévio procedimento de justificação, que, ao que tudo indica, simplesmente não foi realizado." (e-STJ, fls. 49-51)
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO. FINANCIAMENTO DO TRÁFICO. RECURSO ESPECIAL PELA DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO PARADIGMA EM HABEAS CORPUS. IMPOSSIBILIDADE. CONDENAÇÃO. BUSCA E APREENSÃO. INTERCEPTAÇÃO TELEFÔNICA. PROVA ORAL JUDICIAL E EXTRAJUDICIAL. REEXAME PROBATÓRIO. SÚMULA N.º 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte estadual, com fundamento nos elementos do caderno fático-probatório, entre eles os testemunhos policiais e os resultados das diligências de busca e apreensão e de interceptação telefônica, concluiu pela comprovação da autoria e da materialidade dos crimes de associação para o tráfico e de financiamento do tráfico. A revisão da condenação exigiria, portanto, amplo reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7/STJ.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 1804625/RO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 05/06/2019).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DOSIMETRIA. TRÁFICO DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO. INADMISSIBILIDADE NA VIA ELEITA.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PENA-BASE DOS CRIMES ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE. POSIÇÃO DE LIDERANÇA. FUNDAMENTAÇÃO ESCORREITA. ABRANDAMENTO DO REGIME PRISIONAL. PLEITO PREJUDICADO. NÃO ALTERAÇÃO DO QUANTUM DA PENA.PENA SUPERIOR A 8 ANOS DE RECLUSÃO. OBSERVÂNCIA DO ART. 33, § 2º, ALÍNEA "A", DO CÓDIGO PENAL - CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As instâncias ordinárias, com base no exame exauriente das provas dos autos, sobretudo as circunstâncias do delito, entenderam que o paciente praticava tráfico e associação para o tráfico de drogas. Ademais, para se afastar a materialidade do delito de associação para o tráfico, é necessário o reexame aprofundado de provas, inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido." (HC n. 502.868/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 20/05/2019)
+Nesse contexto, as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova da materialidade de autoria dos crimes de homicídio. Portanto, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+Ademais, os fatos versados no feito criminal que tratou do crime de roubo, assim como o conjunto probatório colhido naquele processo, são diferentes daqueles tratados no processo criminal referente a crimes contra a vida, de modo que não há qualquer relação de prejudicialidade.
+Inviável, portanto, alterar o enquadramento fático nesta célere via do habeas corpus, que exige prova pré-constituída.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
