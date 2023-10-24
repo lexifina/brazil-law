@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  pela  ASSOCIAÇÃO DE ENSINO SUPERIOR DE NOVA IGUAÇU contra a  decisão de relatoria  do Ministro Napoleão Nunes Maia Filho assim ementada:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA ENTRE JUÍZO FEDERAL E JUÍZO ESTADUAL. EMISSÃO DE DIPLOMAS. COMPETÊNCIA DA JUSTIÇA ESTADUAL (fls. 97/99).
+Sustenta  a  parte  embargante, em suma,  haver contradição e omissão no julgado, pois, em se tratando de causa que exige a participação da União (demanda sobre registro de diploma e ausência de credenciamento do MEC para oferta de ensino na modalidade a distância), é notório e pacífico na jurisprudência do STF e do STJ a competência da Justiça Federal.
+Decorrido  o  prazo,  não  foi  apresentada  impugnação (fl. 238).
+É  o  relatório.
+Nos termos do art. 1.022 do CPC/2015, somente é cabível o recurso de embargos de declaração nas hipóteses em que houver na decisão impugnada obscuridade, contradição, omissão ou erro material.
+Com razão a parte embargante.
+Isso porque a jurisprudência desta Corte, em consonância com o Tema 1.154/STF, entende que compete à Justiça Federal processar e julgar os processos em que se discute a tese de expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. REGISTRO DE DIPLOMA DE CURSO SUPERIOR. RE 1.304.964/SP. REPERCUSSÃO GERAL (TEMA 1.154/STF).
+1. O Pleno do Supremo Tribunal Federal, nos autos do RE 1.304.964/SP, Rel. Min. Luiz Fux, em Repercussão Geral consolidou a tese segundo a qual "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização".
+2. Embargos de declaração acolhidos, com efeitos infringentes, para declarar competente o Juízo Federal da 6ª Vara de Guarulhos - SJ/SP, o suscitante. (EDcl no AgInt no CC n. 178.235/SP, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 12/4/2023, DJe de 29/5/2023.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. AÇÃO PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR. DECLARAÇÃO DE VALIDADE DE DIPLOMA. TEMA 1.154/STF. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS MODIFICATIVOS.
+I - Trata-se de embargos de declaração opostos contra acórdão que negou provimento a agravo interno interposto contra decisão que, no âmbito de conflito negativo de competência instaurado entre o Juízo de Direito da 3ª Vara Cível de Cotia/SP e o Juízo Federal da 1ª Vara de Osasco - SJ/SP, nos autos de ação movida por particular contra instituição privada de ensino superior, objetivando a validade de diploma, declarou competente o Juízo estadual.
+II - O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 1.304.904/SP, submetido à sistemática da repercussão geral, estabeleceu a compreensão de que compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização (Tema n. 1.154).
+III - Nesse panorama, recentemente, o STJ aderiu ao entendimento prestigiado pelo STF, passando a deliberar sobre a competência do Juízo federal para apreciação das demandas concernentes à expedição de certificados por entidades de ensino superior.
+IV - Evidenciada que a hipótese dos autos, que discute a validade de diploma, é análoga ao respectivo precedente da Suprema Corte, compete ao Juízo federal solucionar a lide.
+V - Embargos de declaração acolhidos. (EDcl no AgInt no CC n. 177.506/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 22/3/2023, DJe de 24/3/2023.)
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, aplicando o decidido pelo STF, em repercussão geral, no âmbito do Tema 1.154, para sanar a omissã o apontada e declarar competente o JUÍZO FEDERAL DA 1A VARA DE OSASCO - SJ/SP.
+Publique-se.  Intimem-se.
+EMENTA
