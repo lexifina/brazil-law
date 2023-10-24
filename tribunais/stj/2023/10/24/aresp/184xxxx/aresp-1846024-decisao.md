@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual NELSON ABDALA insurgira-se, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO assim ementado:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - PRELIMINAR - PRESCRIÇÃO E DECADÊNCIA - REJEITADA - ESTABILIDADE CONSTITUCIONAL EXTRAORDINÁRIA - ART. 19 DO ADCT - REQUISITOS NÃO DEMONSTRADOS - RECURSOS DESPROVIDOS - SENTENÇA EM REEXAME RETIFICADA EM PARTE.
+Os institutos da prescrição e da decadência não se aplicam em situações que afrontam diretamente a Constituição Federal. Desse modo, o decurso do tempo não possui o condão de convalidar atos administrativos que afrontem o princípio do concurso público.
+Se o servidor não preencheu os requisitos exigidos no art. 19 da ADCT, porquanto o serviço prestado não foi de forma ininterrupta e, ainda, exerceu em determinados períodos a função comissionada, deve ser anulado o ato administrativo que lhe concedeu o direito a estabilidade extraordinária.
+A estabilidade excepcional prevista no art. 19 da ADCT da CF/88, somente se aplica ao servidor público civil que, na data da promulgação da Carta Constitucional em 5.10.88, estava em exercício de cargo público por mais de 5 anos ininterruptos em um mesmo ente federado.
+Descabido o redirecionamento da astreinte ao Estado de Mato Grosso, diante da autonomia funcional da Assembleia Legislativa (fls. 1.070/1.071).
+Os embargos de declaração opostos pela parte agravante foram parcialmente acolhidos sem efeitos infringentes nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO  RECURSO DE APELAÇÃO CÍVEL  ESTABILIDADE CONSTITUCIONAL EXTRAORDINÁRIA  ART. 19 DO ADCT  SERVIDOR DA ASSEMBLEIA LEGISLATIVA - VÍCIOS DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE - INOBSERVADOS  REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE  CORREÇÃO DE ERRO MATERIAL NA PARTE DISPOSITIVA DO ACÓRDÃO - EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS INFRINGENTES.
+A interposição dos embargos de declaração somente se justifica quando a decisão recorrida estiver maculada por obscuridade, omissão, contradição ou contiver erro material. Inteligência do art. 1022 do CPC.
+A estabilidade excepcional prevista no art. 19 da ADCT da CF/88, somente se aplica ao servidor público civil que, na data da promulgação da Carta Constitucional em 5.10.88, estava em exercício de cargo público por mais de 5 anos ininterruptos em um mesmo ente federado, o que não é o caso do Embargante.
+Verificada a existência de erro material no primeiro parágrafo da apreciação das preliminares ao constar nome de terceira pessoa estranha à lide, deve ser retificada a redação para que se inclua o nome do Embargante (fl. 1.236).
+Nas razões de seu recurso especial, a parte ora agravante sustenta a violação dos arts. 54 da Lei 9.784/1999 e 26 da Lei estadual 7.692/2002. Alega, para tanto, que: "o prazo decadencial para questionamento do ato de aposentadoria iniciou sua fluência em 19/ 06/2003, operando-se os efeitos da decadência em 19/06/2008, nos termos do art. 26 da Lei 7.692/02, que versa sobre os processos administrativos no âmbito estadual. Sendo assim, resta patente a impossibilidade de revisão do ato de aposentadoria na presente ação, haja vista a ocorrência de decadência" (fl. 1.264).
+A parte ora agravada apresentou as contrarrazões (fls. 1.325/1.356).
+Sobreveio o juízo de admissibilidade negativo, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+No caso em questão, embora a parte recorrente tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+O Tribunal de origem decidiu a controvérsia, fundamentado na interpretação do princípio constitucional do concurso público, nestes termos:
+Os Apelantes suscitam a prescrição da pretensão inicial e a decadência do direito, em razão do lapso temporal entre a publicação do ato administrativo que conferiu ao apelante Osvaldir Aparecido Oliveira estabilidade excepcional e o ajuizamento da ação e a decisão judicial proferida pelo Juízo a quo.
+De proêmio, vislumbra-se que a pretensão do Ministério Público, que fora procedente na sentença, tem o objetivo de desconstituir os atos administrativos que concederam estabilidade em cargos públicos, de forma irregular, para servidores que não realizaram concurso público quando da promulgação da Constituição Federal, nos termos do art. 19 da ADCT.
+Assim, o objeto é um ato considerado inconstitucional; portanto, os institutos da prescrição e decadência não se aplicam.
+Isso porque, o decurso do tempo não possui o condão de convalidar atos administrativos que afrontem o princípio do concurso público (princípio constitucional) (fls. 1.073/1.074).
+Dessa forma, é forçoso reconhecer que, possuindo o acórdão recorrido fundamento eminentemente constitucional, revela-se descabida sua revisão pela via do recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal, prevista no art. 102 da Constituição Federal.
+Por fim, verifico que os arts. 54 da Lei 9.784/1999 e 26 da Lei estadual 7.692/2002 não foram apreciados pelo Tribunal de origem. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial porquanto não preenchido o requisito constitucional do prequestionamento. Incidência no presente caso, por analogia, da Súmula 282 do Supremo Tribunal Federal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Julgo prejudicado o agravo interno de fls. 1.527/1.532.
+Publique-se. Intimações necessárias.
+EMENTA
