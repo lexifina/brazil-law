@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CONSTRUTORA TENDA S/A e OUTRO em face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 962, e-STJ):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL. DANO MATERIAL E MORAL. VÍCIOS CONSTRUTIVOS. PROVA PERICIAL. DEVER DE INDENIZAR. Na relação de consumo a responsabilidade com origem em fato ou vício do produto e do serviço não depende da comprovação de culpa do fornecedor. Por essa razão, é de natureza objetiva, a teor dos arts. 12, 14 e 18 do CDC. O consumidor, como regra, deve demonstrar o nexo de causalidade e o dano. A prova pericial indica a existência de vícios construtivos, bem como a necessidade de reparos para o conserto do imóvel. Dano material devido de acordo com o valor apurado pela prova técnica. Dano moral configurado, já que a situação vivenciada ultrapassa a barreira do mero dissabor, à vista de toda a inconveniência enfrentada, bem como diante da necessidade da reforma, gerando sujeira, bagunça e desconforto. O valor do dano moral deve ser estabelecido de maneira a compensar a lesão causada em direito da personalidade e com atenção aos princípios da proporcionalidade e da razoabilidade. Quantum fixado em R$ 5.000,00 (Cinco mil reais).
+APELO DA AUTORA PROVIDO.
+APELO DA RÉ DESPROVIDO.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 985-987, e-STJ).
+Nas razões de recurso especial (fls. 993-1.001, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 1.022, II, do CPC/15, ante a negativa de prestação jurisdicional; (ii) arts. 944 e 884 do CC, argumentando, em suma, ser indevida a condenação por danos morais ante o mero inadimplemento da obrigação. Aduziu, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 1.016-1.024, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 1.068-1.076 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 1.080-1.088 e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, quanto a negativa de prestação jurisdicional, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma expressa e suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados. Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015. .. 3. Agravo interno a que se nega provimento.(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2. No mérito, a controvérsia cinge-se à alegada violação aos arts. 944 e 884 do CC, sustenta a ora agravante serem indevidos os danos morais na hipótese, porquanto se trata de mero inadimplemento contratual.
+No particular, o Tribunal de piso concluiu:
+Quanto aos danos morais, objeto de insurgência recursal da autora, tenho que prospera a pretensão. Tenho, pois, que a situação vivenciada pela parte demandante ultrapassa a barreira do mero dissabor, à vista de toda a inconveniência enfrentada, levando-se em conta, ainda, a necessidade de uma reforma, que certamente vai gerar sujeira, bagunça e desconforto.
+Não dá para desconsiderar, ainda, a frustração havida com a aquisição de um imóvel novo que em cerca de um ano começou a apresentar defeitos construtivos. De outro tanto, o evento, considerado em sua totalidade, ultrapassou em muito o mero incômodo e por essa razão deve ser afirmada a obrigação de indenizar.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. VÍCIOS CONSTRUTIVOS NO IMÓVEL OBJETO DE CONTRATO DE PROMESSA DE COMPRA E VENDA. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. INFILTRAÇÕES E RACHADURAS NA UNIDADE. DANO MORAL CONFIGURADO. REEXAME DE PROVAS. DESCABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A conclusão adotada na origem, de que caracterizado o dano moral em decorrência de vícios construtivos e defeitos apresentados no imóvel, deu-se com base nos elementos fático-probatórios dos autos, sendo inviável sua revisão pelo óbice da Súmula n.º 7 do STJ.
+3. Não evidenciada a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.224.353/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). INADIMPLEMENTO. DESCARACTERIZAÇÃO. DANOS MORAIS. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+ ..
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso, sem incorrer nos mencionados óbices, não há como, em recurso especial, descaracterizar o inadimplemento das agravantes quanto às condições ofertadas de venda da unidade imobiliária e, por conseguinte, isentar as empresas do dever de reparar os vícios construtivos reconhecidos na origem. Ademais, modificar o entendimento do Tribunal a quo de que a conduta das recorrentes ultrapassou o mero dissabor, também exige o revolvimento de suporte fático-probatório dos autos, medida inviável em recurso especial.
+5. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 do STF e 83 do STJ. Além disso, "decisão monocrática não serve para comprovação de divergência jurisprudencial" (AgInt no AREsp n. 1.180.952/RJ, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 24/5/2018).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.690.627/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+Inafastável, portanto, o óbice da Súmula 7 desta Corte Superior.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para, de plano, não conhecer do recurso especial. Por fim, tendo em vista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC, deixo de majorá-los nesta oportunidade.
+Publique-se.
+Intimem-se.
+EMENTA
