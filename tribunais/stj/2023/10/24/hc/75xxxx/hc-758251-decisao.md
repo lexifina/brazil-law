@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de MAXWELL DE OLIVEIRA SILVA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Goiás no HC n. 5333257-04.2022.8.09.0051.
+Depreende-se dos autos que o paciente foi denunciado como incurso nas penas do art. 2º, § 2º, da Lei n. 12.850/2013 - Operação Narco Flight.
+Irresignada, a il. Defesa impetrou o prévio habeas corpus perante o eg. Tribunal a quo, que não conheceu do writ, conforme o v. aresto de fls. 399-406, assim ementado:
+No presente mandamus, sustenta, acerca da extração dos dados do aparelho celular apreendido na residência de corréu, que "a prova foi colhida de maneira ilícita, havendo quebra da cadeia de custódia e sendo, portanto, ilegal" (fl. 10).
+Acrescenta que, "da análise dos autos do inquérito policial o qual foram feitas as interceptações temos que foram realizados 7 períodos de interceptações com duração de 15 dias cada. Porém, até o presente momento não foram disponibilizadas quantas conversas foram interceptadas e tampouco as mídias das conversas" (fl. 12).
+Aduz que "há claro cerceamento de defesa, sendo desrespeitado também o princípio da paridade de armas visto que a acusação teve acesso a toda prova produzida ao longo de anos de investigações, enquanto a defesa teve acesso a autos desconexos, desorganizados e incompletos" (fl. 12).
+E ressalta, ainda, no que se refere à alegada quebra da cadeia de custódia, que "qualquer ilegalidade na extração desses dados deve ser considerada prova ilícita e desentranhada dos autos nos termos do Artigo 157 do Código de Processo Penal" (fl. ).
+Requer, assim, a concessão da ordem para "a) Declarar nula toda prova obtida com flagrante infringência das garantias do processo penal e da ampla defesa. b) Determinar que o Juízo de piso se manifeste acerca das diligências requeridas e imprescindíveis ao exercício do direito de defesa" (fl. 17).
+Solicitadas informações, foram recebidas e acostadas aos autos às fls. 413-429 e 431-441.
+Por sua vez, o Ministério Público Federal manifestou-se pelo não conhecimento do mandamus, conforme parecer de fls. 443-455.
+É o relatório. Decido.
+Da leitura do v. acórdão combatido constata-se, de plano, que as questões fundamentais apresentadas a esta Corte Superior de Justiça no presente writ não foram analisadas pelo eg. Tribunal de origem.
+Como se observa, a questão do cerceamento de defesa acerca da indisponibilidade à il. Defesa das mídias das conversas interceptadas, por exemplo, sequer foi objeto de apreciação pela instância ordinária.
+Ora, é cediço que as questões de direito deveriam ter sido apreciadas, mas não o foram, mesmo tendo sido o eg. Tribunal a quo provocado, ficando impedido este Tribunal Superior de proceder à sua análise - sob pena de incorrer em indevida supressão de instância (HC 393.684/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/8/2017 e AgRg no HC 382.949/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/5/2017).
+Com efeito, é consabido que a via estreita do writ e do seu recurso ordinário não se presta para análise de temas que exijam revolvimento do conjunto fático-probatório, mas é fundamental que eventuais ilegalidades, prima facie, sejam afastadas em decisão fundamentada.
+Verifica-se, portanto, que a ausência de manifestação da eg. Corte originária configurou indevida negativa de prestação jurisdicional.
+Assim, tratando-se de questões relevantes, devidamente suscitadas na origem e que não demandem, em tese, o revolvimento fático-probatório, devem os autos retornar para aquele Tribunal, a fim de que se manifeste, fundamentadamente (RHC 74.2 91/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/9/2016; HC 393.671/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017; HC 396.539/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 26/6/2017; e RHC 49.656/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 13/10/2014).
+Ante o exposto, concedo a ordem de habeas corpus, de ofício, para anular o julgamento do v. acórdão proferido no HC n. 5333257-04.2022.8.09.0051, determinando sejam apreciadas pelo eg. Tribunal a quo, como entender de direito, todas as questões ali deduzidas, com recomendação de celeridade.
+Publique-se. Intimem-se.
+EMENTA
