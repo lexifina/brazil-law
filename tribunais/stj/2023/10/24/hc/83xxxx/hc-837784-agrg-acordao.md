@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPOSIÇÃO DE COISA ALHEIA COMO PRÓPRIA. PRISÃO PREVENTIVA REVOGADA MEDIANTE FIANÇA. AGRAVADO QUE PERMANECEU PRESO EXCLUSIVAMENTE EM RAZÃO DO INADIMPLEMENTO DO VALOR ARBITRADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. INSURGÊNCIA DO MPF. COMPROVAÇÃO DOCUMENTAL DE HIPOSSUFICIÊNCIA. DESNECESSIDADE. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A jurisprudência desta Corte Superior não admite a manutenção da prisão preventiva em razão do não recolhimento de fiança. Nesse contexto, tendo o juízo de primeiro grau entendido que a imposição de medidas cautelares diversas seria suficiente para o resguardo da ordem pública, o agravante não pode permanecer encarcerado apenas em razão de sua hipossuficiência financeira, sendo desnecessária a comprovação documental de tal alegação. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL, contra a decisão que concedeu a ordem no habeas corpus impetrado contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO.
+Depreende-se dos autos que o agravante, preso preventivamente pela suposta prática do delito de disposição de coisa alheia como própria, obteve o benefício da liberdade provisória condicionado ao pagamento de fiança no valor de duzentos e sessenta mil e quatrocentos reais e permaneceu preso exclusivamente em razão da falta de pagamento do valor arbitrado.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão de fls. 106-124.
+No respectivo writ impetrado nesta Corte, a defesa requereu a dispensa do pagamento da fiança, ou, subsidiariamente, a substituição da prisão preventiva por medidas cautelares diversas, dentre aquelas previstas no art. 319, do Código de Processo Penal.
+Concedida a ordem, interpôs-se o presente agravo.
+Nas razões do presente recurso, o Ministério Público Federal afirma que a defesa não comprovou a hipossuficiência financeira do agravado, e que tal alegação seria infundada, ante sua condição socioeconômica.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao Colegiado, para que seja restabelecida a fiança estipulada na origem como condição a ser cumprida para concessão da liberdade provisória.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPOSIÇÃO DE COISA ALHEIA COMO PRÓPRIA. PRISÃO PREVENTIVA REVOGADA MEDIANTE FIANÇA. AGRAVADO QUE PERMANECEU PRESO EXCLUSIVAMENTE EM RAZÃO DO INADIMPLEMENTO DO VALOR ARBITRADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. INSURGÊNCIA DO MPF. COMPROVAÇÃO DOCUMENTAL DE HIPOSSUFICIÊNCIA. DESNECESSIDADE. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A jurisprudência desta Corte Superior não admite a manutenção da prisão preventiva em razão do não recolhimento de fiança. Nesse contexto, tendo o juízo de primeiro grau entendido que a imposição de medidas cautelares diversas seria suficiente para o resguardo da ordem pública, o agravante não pode permanecer encarcerado apenas em razão de sua hipossuficiência financeira, sendo desnecessária a comprovação documental de tal alegação. Precedentes.
+Agravo regimental desprovido.
+VOTO
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e seu recurso ordinário, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+O Ministério Público Federal afirma que a defesa não comprovou a hipossuficiência financeira do agravado, e que tal alegação seria infundada, ante sua condição socioeconômica.
+Em relação ao pedido, o agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática já proferida.
+Conforme consta na decisão agravada, a jurisprudência desta Corte Superior não admite a manutenção da prisão preventiva em razão do não recolhimento de fiança.
+Nesse contexto, tendo o juízo de primeiro grau entendido que a imposição de medidas cautelares diversas seria suficiente para o resguardo da ordem pública, o paciente não pode permanecer encarcerado apenas em razão de sua hipossuficiência financeira, sendo desnecessária a comprovação documental de tal alegação.
+A corroborar esse entendimento, os seguintes precedentes:
+"O Juízo de origem entendeu não estarem presentes os requisitos para a prisão preventiva, concedendo liberdade provisória mediante o pagamento de fiança. No entanto, o Agravado, inadimplente, permaneceu preso até a data do deferimento da liminar neste writ.
+4. Embora não haja nos autos prova plena acerca das condições financeiras do Agravante para arcar ou não com o valor da fiança arbitrada, o fato de o Acusado estar preso sem ter pago a importância arbitrada indica que a falta do recurso realmente é o fator que impede sua liberdade.
+5. Ademais, em julgamento proferido no dia 14/10/2020, a Terceira Seção do Superior Tribunal de Justiça concedeu, por unanimidade, a ordem no habeas corpus coletivo n. 568.693/ES, para determinar a soltura, independentemente do pagamento da fiança, em favor de todos aqueles a quem foi concedida liberdade provisória condicionada ao pagamento de fiança em todo o território nacional e ainda se encontram submetidos à privação cautelar de liberdade em razão do não pagamento do valor arbitrado" (AgRg no HC n. 816.299/ES, Sexta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 19/6/2023).
+"O STJ consolidou o posicionamento de que, não havendo demonstração da presença dos requisitos previstos no art. 312 do CPP, configura-se constrangimento ilegal a manutenção da prisão com base unicamente no inadimplemento da fiança arbitrada" (AgRg no AgRg no HC n. 761.403/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 17/11/2022).
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É o voto.
