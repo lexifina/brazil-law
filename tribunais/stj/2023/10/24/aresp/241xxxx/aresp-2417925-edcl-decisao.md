@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TETO CONSTRUCOES COMERCIO EMPREENDIM ENTOS LTDA à decisão de fls. 2.111/2.112, que não conheceu do recurso.
+Sustenta a parte embargante que:
+04- De outra monta vejamos a questão dos prazos:
+a) Calendário do TJSP (fl. 2.116)
+ ..
+b) CSM 2641-2021 (fl. 2.116)
+ ..
+c) Calendário do STJ (fl. 2.117)
+Alega ainda que:
+.02- Qual o trabalho adicional que foi realizado neste recurso por parte da recorrida, meia dúzia de folhas  Vossa Excelência se atentou para o valor da causa
+.03- Com o devido respeito à recorrida é a Fazenda Pública Municipal, logo os parâmetros estabelecidos para os honorários são fixados no artigo 83 do Código de Processo Civil, logo existe flagrante contradição no cumprimento no dispositivo da decisão ora guerreada (fl. 2.116).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que feriado nacional não precisa ser comprovado. Porém, os dias 16 e 17/6/2022 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Por essa razão, não podem ser conhecidos os documentos apresentados com a petição de fls. 2.115/2.124.
+Acrescente-se que são considerados feriados nacionais somente aqueles que estão expressamente previstos na Lei nº 10.607/2002 e Lei nº 6.802/1980, as quais declaram feriados nacionais os dias 1º de janeiro, 21 de abril, 1º de maio, 7 de setembro, 12 de outubro, 2 de novembro, 15 de novembro e 25 de dezembro. Como se percebe, o dia de Corpus Christi (Corpo de Cristo) não está previsto em nosso ordenamento jurídico no âmbito nacional. Nesse sentido: AgInt no AREsp 1867014/AM, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/08/2021; AgInt nos EDcl no REsp 1792664/RJ, relator Ministro Luis Felipe Salmão, Quarta Turma, DJe de 01/07/2021.
+No que se refere aos honorários advocatícios, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+No presente caso, tendo em vista que estão preenchidos os requisitos acima delineados, correta a majoração dos honorários recursais.
+Ressalte-se que, conforme orientação jurisprudencial desta Corte Superior, para a majoração dos honorários recursais é dispensável o trabalho adicional do advogado da parte recorrida no grau recursal. Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RESCISÃO CONTRATUAL. ARRENDAMENTO RURAL CUMULADO COM AÇÃO DE COBRANÇA. FALTA DE PREQUESTIONAMENTO. CERCEAMENTO DE DEFESA. PROVA PERICIAL E TESTEMUNHAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PEDIDO DE AFASTAMENTO DOS HONORÁRIOS RECURSAIS.INVIABILIDADE. DECISÃO MANTIDA.
+ ..
+4 De acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou dsprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.  ..  É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp n. 762.075/MT, Relator para o acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019), sendo essa a situação evidenciada nos autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1111767/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 28/08/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO N. 3/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. COMPROVAÇÃO DE TRABALHO ADICIONAL. DESNECESSIDADE.AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que a majoração da verba honorária sucumbencial independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, bem como independe da apresentação de contrarrazões ou contraminuta, desde que a parte recorrida tenha advogado constituído e intimado para apresentá-las.
+2. Agravo interno não provido.
+(AgInt no AREsp 1604570/GO, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 02/09/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
