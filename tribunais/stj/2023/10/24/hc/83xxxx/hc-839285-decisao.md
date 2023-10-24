@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Paulo Rodrigues Barbosa, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido na Apelação n. 1500438-09.2022.8.26.0445.
+Consta dos autos que o paciente foi condenado por receptação (art. 180 do Código Penal) a 6 anos, 4 meses e 6 dias de reclusão, no regime fechado.
+A apelação interposta pela defesa foi desprovida por aresto assim ementado:
+"APELAÇÃO CRIMINAL. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULOS.
+Prisão em flagrante. Materialidade e autoria comprovadas. Confissão parcial. Versão exculpatória inverossímil e contrariada pelo relato dos policiais militares sobre a apreensão dos automóveis de origem espúria e ferramentas destinadas à adulteração dos veículos. Dolo patente. Condenação mantida. Apenamento. Revisão. Descabimento. Recidiva delineada por condenação pretérita e definitiva não alcançada pelo quinquênio depurador. Prazo contado a partir da extinção da reprimenda anterior. Confissão reconhecida apenas diante da conduta admitida pelo apelante, nada justificando a aplicação da atenuante diante das demais figuras típicas. Atenuante, ademais, incompatível com a situação flagrancial e reconhecimento da recidiva, conforme pacífica jurisprudência da SUPREMA CORTE. Antecedente desabonador, reincidência e concurso de delitos justificando a imposição do retiro pleno, algo inalterado pela detração penal. Quadro adverso e montante da reprimenda também incompatíveis com a substituição da corporal por restritivas de direitos. Apelo improvido." (fl. 173)
+O impetrante busca a fixação do regime semiaberto para o início do cumprimento da pena.
+A liminar foi indeferida por decisão de fls. 189/190.
+As informações foram prestadas às fls. 196/201 e 202/237.
+O Ministério Público Federal opinou pelo não conhecimento do writ, em parecer que recebeu o seguinte sumário:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PENAL E PROCESSO PENAL. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULOS. REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO. REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE. POSSIBILIDADE DE AGRAVAMENTO DO REGIME. PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS." (fl. 241)
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+Constata-se que o julgado está correto, pois a condenação a pena superior a quatro anos e a reincidência justificam a fixação do regime fechado.
+A propósito, vejam-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO HABEAS CORPUS COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não há flagrante ilegalidade a ser sanada de ofício, pois, no caso, a minorante prevista no art. 33, § 4.º, da Lei n. 11.343/2006 foi afastada com a justificativa na reincidência da Agravante. Entende-se que  o  fato de o crime pelo qual o acusado fora anteriormente condenado ser de menor potencial ofensivo não é motivo para afastar os efeitos da reincidência, haja vista que o art. 63 do CP não faz nenhuma referência quanto à natureza do delito anterior" (AgRg no HC n. 777.848/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 12/12/2022, DJe de 14/12/2022).
+3. No tocante à fixação do regime inicial fechado, por se tratar de Acusada reincidente e condenada a uma pena privativa de liberdade superior a 4 (quatro) anos de reclusão, mostra-se adequada a imposição do regime inicial fechado, nos termos do art. 33, § 2.º, alíneas a e b, do Código Penal.
+4 . Agravo regimental desprovido.
+(AgRg no HC n. 849.097/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. PENA-BASE. REDUÇÃO. PEDIDO PREJUDICADO. JULGAMENTO DO HC N. 819.241/SP. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova aptos a manter a condenação do envolvido pelo delito de tráfico. Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/06, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+2. No tocante ao afastamento dos maus antecedentes, o envolvido impetrou o HC n. 819.241/SP, no qual fora suscitada a referida questão exposta no presente recurso, que, em decisão monocrática, não fora conhecido, mas concedida a ordem, de ofício, para afastar os maus antecedentes e reduzir a pena-base para o mínimo legal, restando prejudicado no ponto.
+3. No que tange ao regime de cumprimento de pena, em atenção ao art. 33, § 2º, do CP, embora estabelecida a pena definitiva em 5 anos e 10 meses de reclusão, o acusado é reincidente, fundamento a justificar a manutenção de regime prisional mais gravoso, no caso, o fechado.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.372.961/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/9/2023, DJe de 8/9/2023.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 157, § 1º, DO CPP. RAZÕES QUE NÃO LOGRARAM IMPUGNAR UM DOS FUNDAMENTOS AUTÔNOMOS DA DECISÃO AGRAVADA PARA INADMITIR O EXAME DESSE TÓPICO DA INSURGÊNCIA. INADMISSIBILIDADE. SÚMULA 182/STJ. VIOLAÇÃO DO ART. 33 DA LEI N. 11.343/2006. AUSÊNCIA DE PROVA SUFICIENTE QUANTO AO DOLO. INADMISSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 33, § 2º, B, DO CP. SUPOSTA ILEGALIDADE NA FIXAÇÃO DO REGIME INICIAL FECHADO. MANIFESTA IMPROCEDÊNCIA. RÉU REINCIDENTE. PRECEDENTES DESTA CORTE.
+Agravo regimental conhecido em parte e, nessa extensão, desprovido.
+(AgRg no AREsp n. 2.395.055/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/9/2023, DJe de 22/9/2023.)
+Por tais razões, nos termos do art. 34, inc. XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
