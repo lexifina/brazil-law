@@ -1,0 +1,61 @@
+DECISÃO
+Na origem, Adilberto Costa de Siqueira e Wilda Pereira Siqueira ajuizaram ação de reintegração de posse contra Eduilson de Santana, objetivando, liminarmente, que o imóvel do qual alegaram serem proprietários fosse reintegrado com a cominação de multa diária em caso de descumprimento, além da condenação do requerido ao pagamento de perdas e danos referentes aos alugueres pelo período da invasão, bem como ao pagamento de multa em caso de novo esbulho e o desfazimento da construção feita. O Juízo de primeiro grau julgou parcialmente o pedido autoral (e-STJ, fls. 505-512).
+Interposto recurso de apelação pela parte requerida, a Segunda Câmara Cível do Tribunal de Justiça de Sergipe, deu-lhe provimento, em aresto assim ementado (e- STJ, fl. 576):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. RECORRENTE QUE NÃO CONSEGUIU PROVAR A POSSE ANTERIOR DO BEM. NÃO PREENCHIMENTO DOS REQUISITOS PARA A AÇÃO DE REINTEGRAÇÃO DE POSSE. REFORMA DA SENTENÇA. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 582-584).
+Nas razões do recurso especial, os recorrentes, com fundamento na alínea a do permissivo constitucional, alegaram violação aos arts. 371, 489, § 1º, IV, e 1.022, II, do CPC/2015.
+Aduziu omissão e falta de fundamentação no acórdão recorrido acerca da existência de prova oral produzida, cujo testemunho seria de suma importância para a procedência da ação de reintegração de posse, assim como da ofensa ao art. 371 do NCPC.
+Sustentou ainda cerceamento de defesa e ofensa ao contraditório, na medida em que foi desconsiderada a prova testemunhal produzida nos autos, devendo os autos retornarem à origem para sua apreciação.
+As contrarrazões não foram apresentadas - fl. 614 (e-STJ).
+O Tribunal de origem não admitiu o processamento do recurso especial (e- STJ, fls. 617-622).
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Dito isso, verifica-se, das razões de embargos de declaração, que os recorrentes suscitaram omissão no julgado, conforme se observa do trecho a seguir transcrito (e-STJ, fls. 650-653 - sem grifos no original):
+II. DA OMISSÃO POR NÃO APRECIAÇÃO DA PROVA TESTEMUNHAL QUE DEMONSTRA A POSSE DOS AUTORES
+Na sentença, o juiz a quo entendeu que os autores cumpriram todos os requisitos necessários para procedência da ação de reintegração de posse:
+"Enquanto os autores fizeram demonstrar a imissão na posse, a prova produzida pelo Réu não foi suficiente para comprovação da situação de abandono do imóvel pelos Autores e da pacífica e legítima sua ocupação"
+Ademais, novamente em sede de contrarrazões, os embargantes explicitaram que cumpriram todos os elementos de prova, que estavam ao seu alcance, ressaltando que houve produção de prova oral, e que efetivamente demonstraram os requisitos para o direito de ser mantido na posse ser deferido, conforme trecho abaixo:
+"Diferente do que consta na apelação, os autores trouxeram à baila todos os elementos de prova que estavam ao seu alcance, tendo logrado êxito em comprovar a existência da posse (vide escritura pública e prova oral produzida), a ocorrência do esbulho (vide fotos da construção não autorizada em seu imóvel) e a consequente perda da posse." (l. 534)
+Ocorre que, diferentemente da sentença proferida pelo Juízo a quo, a Desembargadora Relatora entendeu que os autores não se desincumbiram do ônus de comprovar o uso e a posse do imóvel, decidindo pela improcedência do pedido de reintegração de posse.
+Na sua fundamentação, explanou que os documentos constantes nos autos, sobretudo a escritura pública, não demonstraram o exercício efetivo da posse sobre o bem, conforme trecho do julgado, in litteris:
+De acordo com as informações e documentos constantes nos autos, especificadamente a escritura pública apresentada pelos autores, entendo, não são hígidos a comprovar efetivo exercício da posse sobre o bem, mas tão somente, um negócio jurídico, registrado em 26.04.1991, todavia, não são suficientes para comprovar uso e posse do imóvel, requisito fundamental para a reintegração de posse.
+Contudo, a fundamentação não fez nenhuma menção à prova oral produzida. Imperioso destacar que é dever do juiz apreciar todas as provas presentes nos autos do processo e indicar na decisão as razões da formação de seu convencimento, conforme art. 371 do CPC.
+In casu, a prova oral produzida foi de suma importância para a procedência da ação de reintegração de posse. Na audiência de instrução realizada no dia 23/11/2021, houve a oitiva do declarante Charles Rezende (minutos 8:07 a 13:05 do vídeo da audiência), arrolado pela parte autora. Em seu depoimento, ele confirma que realizava as visitas periódicas para cuidar do terreno, a pedido do autor Adilberto, já que morava há mais de 30 anos no Eduardo Gomes, bairro próximo ao terreno sub judice. Ademais, quando se mudou em 2000, afirmou que ainda retornou 3 vezes ao terreno e que o senhor Adilberto continuou frequentando e zelando pelo terreno, conforme degravação abaixo:
+Juiz - O senhor conhece esse imóvel
+Charles - Sim. Eu morava no Eduardo Gomes de 1983 a 2000.
+Juiz - O senhor é cunhado do autor
+Charles - Sim. Sempre que ele me solicitava, eu ia lá botar poste, murão, arame farpado, nesse período de 1983 a 2000.
+(..) Juiz - O senhor sabe dizer se o autor e a sua esposa iam nesse terreno
+Charles - Sim.
+O único legitimado ativo para o ingresso de ações possessórias é o possuidor, de forma que nessas ações a prova é eminentemente oral. Isso posto, a omissão quanto à apreciação dessa prova presente nos autos impõe o provimento dos presentes embargos.
+Nos termos do art.1.022, II, c/c art. 489, §1º, IV, ambos do CPC, devem ser supridos os vícios de fundamentação, para que seja devidamente apreciada a prova oral produzida na audiência ocorrida em 23/11/2021, nos autos do processo n. 201483000015, sob pena de nulidade.
+Consequentemente, deve ser atribuído efeito infringente aos embargos, tendo em vista que o ponto omisso, ao ser apreciado, tem potencial de alterar o resultado do julgamento, modificação essa prevista no art. 1.023, § 2º, do CPC.
+Contudo, o acórdão que julgou os referidos embargos não se manifestou sobre tal questão, tendo apenas asseverado que (e-STJ, fl. 584):
+No caso sob exame, pelo que se observa das razões recursais, os Embargantes, em verdade, almejam forçosamente viabilizar a rediscussão de matéria já valorada e devidamente decidida no acórdão combatido.
+É necessário destacar que o julgado enfrentou fundamentadamente todas as questões postas na demanda, inclusive aquelas tidas pelos embargantes como omissas, já que, em verdade as mesmas foram devidamente apreciadas e rechaçadas no julgado.
+Vislumbra-se, em verdade, o inconformismo da parte com a fundamentação lançada no acórdão combatido, por ser contrária aos seus interesses.
+Analisou-se a matéria questionada de forma clara e precisa, além de ter extraído as consequências jurídicas cabíveis, o que foi referendado pela Câmara em julgamento unânime.
+Logo, como o Acórdão abarcou toda a argumentação externada na Apelação não tem qualquer procedência a inconformidade dos Embargantes.
+Ora, não se prestam os Embargos Declaratórios para aplacar o inconformismo da parte com o resultado da demanda, para isso existem instrumentos processuais mais apropriados.
+Assim, tendo em vista que a matéria acerca da ausência de manifestação sobre a prova oral produzida nos autos que alega ser fundamental para a deslinde da controvérsia, foi oportunamente suscitada pelos recorrentes, deveria o Tribunal local ter examinado as alegações que, a esse respeito, foram-lhe submetidas.
+A recusa, amparada em inadequados fundamentos, resultou em indevida omissão sobre relevantes matérias, razão pela qual a rejeição dos embargos de declaração importou em inequívoca violação do art. 1.022 do CPC/2015.
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das questões jurídicas suscitadas.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. VIOLAÇÃO AO ART. 1.022 DO CPC. CONFIGURADA. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos, com efeitos modificativos. (EDcl no AgInt no AREsp n. 1.822.645/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 28/11/2022, DJe de 2/12/2022)
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. OMISSÕES. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC.
+2. Correto o decisum, pois, ao anular o acórdão que apreciou os embargos de declaração e determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões tidas por omitidas.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.868.614/MG, relator Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 4/4/2022, DJe de 7/4/2022)
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem. (REsp 1.908.213/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/5/2021, DJe 20/5/2021)
+Acolhida a preliminar aventada, fica prejudicado o exame das demais questões alegadas no recl amo em estudo.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecida a violação do art. 1.022 do CPC/2015, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. MANIFESTAÇÃO ACERCA DA PROVA ORAL PRODUZIDA. OMISSÃO DO TRIBUNAL ESTADUAL. QUESTÃO OPORTUNAMENTE SUSCITADA. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
