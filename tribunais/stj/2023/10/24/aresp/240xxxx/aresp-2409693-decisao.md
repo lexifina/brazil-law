@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pela AGT TRANSPORTES E LOGISTICA LTDA contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. MULTA. ANTT. TRANSPORTE TERRESTRE. SEGURO OBRIGATÓRIO. LEI 11.442/2007. DESCUMPRIMENTO. PODER DE POLICIA. APELAÇÃO DESPROVIDA.
+1- A Lei n.º 10.233/01, que criou a ANTT, define a sua competência precípua o transporte terrestre, bem como suas atribuições e penalidades a serem aplicadas em caso de descumprimento de suas normas.
+2-No caso em análise, as autuações questionadas pela parte autora tiveram como fundamento específico o artigo 36, VIII, "b" da Resolução ANTT 4.799/2015, por "DEIXAR DE INDICAR O NÚMERO DA APÓLICE DE SEGURO CONTRA PERDAS OU DANOS CAUSADOS À CARGA".
+3-Referida obrigação vem prevista na Lei nº 11.442/2007. Desta forma, as sanções aplicadas pela Agência possuem fundamento legal, decorrendo do poder de polícia da Administração Pública, não havendo no caso violação ao princípio da legalidade ou da reserva legal.
+4-Quanto à alegação da apelante de que os autos de infração contém imprecisão dos fatos, verifico que foram adequadamente preenchidos com todas as informações relevantes, inclusive nome, assinatura e número de matrícula do agente de fiscalização (ID 145552443), ao contrário do que afirma a empresa em suas razões de apelação.
+5-Com efeito, todas as informações necessárias ao exercício do contraditório e da ampla defesa se mostraram presentes nos autos de infração, optando a empresa por não oferecer impugnação administrativa, como bem ressaltado na sentença.
+6-Em relação ao fato de os veículos estarem no pátio da empresa, o artigo 40 da Resolução ANTT nº 4799/2015 traz a possibilidade de a fiscalização ocorrer nas dependências da transportadora, não havendo obrigatoriedade de estarem os veículos em movimento.
+7-A ANTT é uma autarquia fiscalizadora e seus atos administrativos gozam de presunção de legalidade e legitimidade, cabendo à parte autuada produzir prova suficiente a desconstituir tal presunção, por meio de demonstração inequívoca da inconsistência da autuação, o que não ocorreu no caso em análise.
+8-Por fim, cabem honorários advocatícios na instância recursal, em acréscimo aos fixados na origem, considerando os critérios do artigo 85, §§ 2º a 6º, e 11, do CPC, os quais ficam arbitrados no percentual de 10% a incidir sobre o valor da causa atualizada.
+9-Apelação não provida.
+Opostos embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte aponta violação ao art. 50, I e II, da Lei 9.784/1999, alegando que a ofensa ao dispositivo se deu pela ausência de motivação nas infrações, além da inconsistência das informações apresentadas no preenchimento das multas. Ressaltou que os autos de infração careciam da identificação de diversos pontos de extremo relevo para se garantia a defesa da recorrente em sua plenitude, como: a indicação dos agentes que lavraram os autos, o dispositivo legal infringido, a penalidade prevista, a descrição dos fatos e os dados dos supostos motoristas dos veículos.
+Contrarrazões ao recurso especial às fls. 800-803.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 810-811.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+A Corte de origem, ao decidir à controvérsia, concluiu pela regularidade dos autos de infração lavrados em face da recorrente, conforme trecho do acórdão colacionado abaixo:
+(..) No caso em análise, as autuações questionadas pela parte autora tiveram como fundamento específico o artigo 36, VIII, "b" da Resolução ANTT 4.799/2015, por "DEIXAR DE INDICAR O NÚMERO DA APÓLICE DE SEGURO CONTRA PERDAS OU DANOS CAUSADOS À CARGA". (..)
+Referida obrigação vem prevista na Lei nº 11.442/2007, que assim dispõe: (..) Desta forma, as sanções aplicadas pela Agência possuem fundamento legal (Lei nº 11.442/2007), decorrendo do poder de polícia da Administração Pública, não havendo no caso violação ao princípio da legalidade ou da reserva legal.
+Quanto à alegação da apelante de que os autos de infração contém imprecisão dos fatos, verifico que foram adequadamente preenchidos com todas as informações relevantes, inclusive nome, assinatura e número de matrícula do agente de fiscalização (ID 145552443), ao contrário do que afirma a empresa em suas razões de apelação.
+Com efeito, todas as informações necessárias ao exercício do contraditório e da ampla defesa se mostraram presentes nos autos de infração, optando a empresa por não oferecer impugnação administrativa, como bem ressaltado na sentença.
+Em relação ao fato de os veículos estarem no pátio da empresa, o artigo 40 da Resolução ANTT nº 4799/2015 traz a possibilidade de a fiscalização ocorrer nas dependências da transportadora, não havendo obrigatoriedade de estarem os veículos em movimento.
+Cumpre ressaltar por fim, que a ANTT é uma autarquia fiscalizadora e seus atos administrativos gozam de presunção de legalidade e legitimidade, cabendo à parte autuada produzir prova suficiente a desconstituir tal presunção, por meio de demonstração inequívoca da inconsistência da autuação, o que não ocorreu no caso em análise. (destaquei)
+Nota-se que o Tribunal de origem afirmou expressamente que os autos de infração foram adequadamente preenchidos com todas as informações relevantes e necessárias ao exercício do contraditório e ampla defesa.
+Dessa forma, o acolhimento das razões do recurso especial, no sentido de que ausente a motivação nas infrações, ensejaria o reexame dos fatos e provas dos autos, o que é inviável, em sede de Recurso Especial, em face da Súmula 7 desta Corte.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publica-se. Intimem-se.
+EMENTA
