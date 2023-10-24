@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCIMARA AGENOR, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0007283-83.2023.8.26.0482).
+Consta os autos que a paciente, atualmente em cumprimento de pena definitiva em regime diverso do aberto, seria mãe de infante, carecendo de prisão domiciliar - o que foi indeferido na origem. Interposto agravo em execução penal, este foi, por unanimidade, desprovido.
+Daí o presente habeas corpus, no qual, em síntese, a defesa afirma constrangimento ilegal pela necessidade de concessão da prisão domiciliar para o resguardo da prole da paciente.
+Aduz que já se decidiu pela concessão de tal ordem em qualquer regime de cumprimento de pena, ante a dignidade da pessoa humana.
+Sustenta que não há amparo jurídico para a negativa de concessão de prisão domiciliar para mãe de filho menor de 12 anos com condenação definitiva em regime fechado, porque não há exigência legal de que se comprove que a mãe seja imprescindível aos cuidados do filho.
+Requer, inclusive liminarmente, a concessão da prisão domiciliar em sede de execução definitiva. Tudo a ser confirmado no mérito.
+Pedido limina r indeferido, às fls. 60-61.
+Informações, às fls. 67-75 e 76-88.
+O Ministério Público Federal opinou, às fls. 92-96, pelo não conhecimento ou denegação da ordem, conforme ementa abaixo (fls. 92-95):
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DO RECURSO LEGALMENTE CABÍVEL. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. EXECUÇÃO PENAL. REGIME FECHADO. PEDIDO DE CONCESSÃO DA PRISÃO DOMICILIAR. PACIENTE MÃE DE CRIANÇA MENOR DE 12 ANOS. SITUAÇÃO EXCEPCIONAL NÃO DEMONSTRADA. DENEGAÇÃO.
+1. Embora seja possível a concessão de regime domiciliar aos condenados ao cumprimento da pena em regime semiaberto e fechado, em situações excepcionais, no caso concreto, a Corte local concluiu não ser cabível o benefício ao considerar que, não obstante a Paciente seja viúva, o seu irmão, quando houve a prisão, responsabilizou-se pela criança, o que teria afastado o risco de abandono da menor, não restando, portanto, demonstrada a imprescindibilidade da mãe aos cuidados da filha;
+2. Parecer pelo NÃO CONHECIMENTO do Writ, e se conhecido, pela DENEGAÇÃO DA ORDEM."
+É o relatório. DECIDO.
+No presente caso, da análise dos elementos informativos constantes dos autos, verifica-se flagrante ilegalidade a legitimar a atuação deste Sodalício.
+Inicialmente, ressalte-se, quanto à possibilidade de concessão da prisão domiciliar, em razão de a paciente ser mãe de criança em tenra idade, que o Supremo Tribunal Federal, no julgamento do habeas corpus coletivo n. 143.641/SP, sob relatoria do Min. Ricardo Lewandowski, entendeu ser possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante das medidas cautelares previstas no art. 319 do Código de Processo Penal, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas (HC n. 143.641/SP, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 23/2/2018).
+Conforme se observa, em uma análise holística da legislação e jurisprudência pátria, não obstante o disposto no art. 318 do Código de Processo Penal, no art. 117 da Lei de Execução Penal e em decisão anterior do Supremo Tribunal Federal (que vedava a concessão de prisão domiciliar a apenadas em cumprimento de regime diverso do aberto - HC n. 177.164/PA, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 18/2/2020 - tema do Informativo/STF de n. 967), tenho que a análise aqui deve ir além.
+No caso concreto, o acórdão de origem entendeu não ser a hipótese excepcionalíssima de se deferir a prisão domiciliar à paciente.
+Contudo, vale destacar que a apenada não foi condenada por crimes com violência ou grave ameaça, nem mesmo praticado contra a prole (fls. 32-38).
+No caso, há notícia de que ela foi condenada apenas como incursa nas penas do artigo 33, caput, da Lei nº 11.343/06, e artigo 29 do Código Penal, a cumprir, em regime inicial fechado, 5 (cinco) anos e de 10 (dez) meses de reclusão, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa (fl. 37).
+Assim, dentro de um panorama que envolve não apenas a necessidade de repreensão criminal, mas também o atendimento ao melhor interesse do infante, também levando em conta que a apenada não será posta em liberdade, mas poderá cumprir a sua pena sob prisão domiciliar, prestando a devida atenção à criança e ciente de que eventual desatendimento das condições impostas levará à regressão de regime, a ordem deve ser concedida.
+Ante o exposto, concedo a ordem de habeas corpus, para cassar as decisões de origem e determinar que o Juízo das Execuções Penais autorize a prisão domiciliar à apenada, sob condições a serem fixadas ao seu critério.
+Intime-se, com urgência, a origem para cumprimento .
+Publique-se. Intime-se.
+EMENTA
