@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por EMILIO VENTURA NETO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 641):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO. VERBA ALIMENTAR. IMPENHORABILIDADE MITIGADA. DIGNIDADE. DEVEDOR. PRESERVAÇÃO DOMÍNIMO EXISTENCIAL. SATISFATIVIDADE. PRECEDENTES DO STJ.1. O artigo 833 do Código de Processo Civil elenca as hipóteses em que determinados bens e valores não podem ser alcançados pela constrição judicial, pois gravados com cláusula de absoluta impenhorabilidade, como a sua remuneração mensal, a fim de proteger o patrimônio mínimo do executado e estabelecer limites à satisfação da execução.2. A regra geral da impenhorabilidade de salários, vencimentos e proventos pode ser excepcionada quando for preservado percentual de tais verbas que seja capaz de dar guarida à dignidade do devedor e de sua família.3. É possível afastar, de forma excepcional, a regra da impenhorabilidade absoluta do salário, a permitir a penhora da remuneração, desde que em percentual que não prive o devedor e sua família do necessário à sua sobrevivência com dignidade. Precedentes STJ e TJDFT.4. Recurso conhecido e desprovido.
+Sem embargos de declaração.
+No recurso especial, alega a parte recorrente violação do art. 833, IV, do CPC, defendendo a impossibilidade de penhora de percentual da remuneração para cumprimento de obrigação.
+Foram oferecidas contrarrazões ao recurso especial (fls. 693-697).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 700-702), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Presentes os pressupostos do agravo, passo à análise do recurso especial.
+Na origem, cuida-se de agravo de instrumento interposto pela parte recorrente contra a decisão interlocutória que deferiu o pedido de penhora do salário da parte executada.
+Cinge-se a controvérsia a analisar a possibilidade de penhorar percentual dos rendimentos do executado para o pagamento da dívida não alimentar, diante da mitigação da regra de impenhorabilidade absoluta.
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp n. 1.582.475/MG, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 3/10/2018, DJe de 16/10/2018).
+Na hipótese dos autos, o Tribunal a quo, ao julgar o agravo de instrumento, manteve a decisão de origem, que deferiu a penhora de parte do salário do executado, sob o seguinte fundamento:
+Dessa forma, curvando-me à orientação do Superior Tribunal de Justiça e aos precedentes já lançados no âmbito desta Corte de Justiça, reputo possível afastamento excepcional da regra da impenhorabilidade absoluta do salário, desde que em percentual que não prive o devedor e sua família do necessário à sua sobrevivência com dignidade, como se deu no caso sob judice. Portanto, a princípio, em sede de cognição sumária própria deste momento processual, entendo por ausente a probabilidade do direito do agravante. (fl. 646).
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ - verbete que incide sobre ambas as alíneas do permissivo constitucional.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DOS VENCIMENTOS. REGRA GERAL. POSSIBILIDADE DE FLEXIBILIZAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. PRESERVAÇÃO DA DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. MÍNIMO EXISTENCIAL. JURISPRUDÊNCIA DESTA CORTE. TRIBUNAL DE ORIGEM QUE DECIDIU PELA PENHORA DE PERCENTUAL DE SALÁRIO DO DEVEDOR EM ATENÇÃO AO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Execução de título extrajudicial.
+2. A jurisprudência desta Corte se firmou no sentido de que a regra geral de impenhorabilidade de salários e demais vencimentos (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1.582.475/MG, Corte Especial, DJe 16/10/2018).
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo interno não provido. (AgInt no REsp n. 2.035.677/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DE VENCIMENTOS. MITIGAÇÃO. POSSIBILIDADE. PRESERVAÇÃO DO MÍNIMO EXISTENCIAL DO DEVEDOR. PRECEDENTES DA CORTE ESPECIAL E DA SEGUNDA SEÇÃO DESTA CORTE. PENHORA DE PRECENTUAL DE SALÁRIO. CABIMENTO. PRECEDENTES. SITUAÇÃO NÃO CONFIGURADA. REVISÃO. REEXAME DAS PECULIDARIDADES DO CASO CONCRETO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 2.002.088/PR, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/9/2022, DJe de 29/9/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
