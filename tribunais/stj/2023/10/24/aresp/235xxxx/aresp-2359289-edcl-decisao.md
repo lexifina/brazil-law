@@ -1,0 +1,29 @@
+DECISÃO
+Braga Nascimento e Zilio Advogados Associados opõe embargos de declaração em face da decisão de fls. 2.023/2.027, por meio da qual neguei provimento ao recurso em face da incidência das Súmulas 5, 7 e 83/STJ.
+Aduz haver omissão na decisão embargada, dado que a "questão da possibilidade da alteração, em comum acordo, pelas partes, de contratos escritos por meio de ajustes verbais vem sendo, repetidamente, ignorada nestes autos, de modo que a r. decisão monocrática ora embargada também se insere neste contexto, restando, portanto, omissa neste ponto, o que leva à manutenção da ofensa aos artigos 357 e 369 do Código de Processo Civil, bem como interpretação diversa dada aos artigos 421, 422, 133 e 107 do Código Civil ", sendo certo que "o Embargante não pleiteou o exame do material fático-probatório dos autos, pois a matéria debatida no apelo especial não depende da análise de provas, mas, sim, dos elementos da r. sentença e do acórdão proferido pelo E. Tribunal de Justiça de São Paulo. Corrobora com os argumentos expostos o fato de que este E. Superior Tribunal de Justiça possui entendimento no sentido de que é possível o exame dos atos judiciais e das peças processuais (petição inicial, contestação, entre outras). Neste contexto, de rigor seja realizada a análise das peças processuais, para verificar se o Embargado realizou a cobrança de dívida já paga de má-fé - e, caso a resposta seja positiva, deve ser aplicado ao caso dos autos o artigo 940, do Código Civil".
+Impugnação aos embargos às fls. 2.042/2.046.
+Assim posta a questão, destaco que os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes na decisão, não servindo à rediscussão da matéria já julgada no recurso, que é o que pretende o embargante.
+Não há que se falar em omissão no acórdão recorrido, que foi claro e preciso em seus fundamentos, notadamente na seguinte passagem:
+O Tribunal de origem, ao analisar a controvérsia, adotou os seguintes fundamentos, in verbis:
+No mérito, a contratação dos serviços de captação de clientela é incontroversa.
+Incontroverso, ademais, que a atuação do autor deu ensejo à contratação do réu para defesa de interesses de Condomínio do Edifício Trend Residence & Service, tendo havido levantamento de valores pelo escritório requerido nos autos 1139391- 85.2016.8.26.0100, em que patrocinou referido cliente.
+A contratação do autor veio estampada no documento de pág. 15, em que consta ser devido ao requerente o percentual de 30% sobre os honorários contratuais obtidos pelo escritório réu.
+O documento de pág. 125, por sua vez, sequer possui assinatura do autor, não sendo hábil a evidenciar alteração dos termos contratuais inicialmente pactuados entre as partes. Prova testemunhal isolada, de outro lado, sequer serve de substrato probatório a evidenciar alteração de tal cunho.
+Ora, considerando a característica do negócio e o próprio montante envolvido na relação jurídica travada entre as partes, não se mostra razoável que o réu não tivesse se socorrido de todas as medidas cabíveis para formalizar, de forma idônea, a aventada alteração contratual, que, frise-se, deveria ocorrer de forma escrita, em observância à contratação originária.
+Outrossim, não se evidenciou no conjunto probatório prova suficiente de atos do autor a permitir a aplicação, ao caso, do instituto da "supressio" quanto a eventuais descontos atinentes a tributos e custos operacionais, muito menos revogação tácita do contrato inicialmente entabulado.
+Desta feita, tenho que o autor logrou provar os fatos constitutivos de seu direito (art. 373, I, do CPC), não tendo o réu se desincumbido do ônus de provar fatos extintivos, modificativos ou impeditivos do direito do autor (art. 373, II, do CPC).
+A propósito, vale ressaltar os trechos da bem lançada sentença:
+".. No curso da demanda restou incontroverso que o autor presou serviços ao escritório requerido concernente à captação e negociação com clientes.
+Ademais, indene de dúvidas que sua atuação ensejou a contratação do Condomínio do Edifício Trend Residence & Service.
+A despeito da confissão expressa por parte do requerido quanto à existência da avença, foi questionada nos autos a existência de conduta ilícita por parte do requerido em eventual retenção do numerário recebido na demanda patrocinada, referente à participação de 30% (trinta por cento) em favor do Autor sobre o valor dos honorários contratuais obtidos pelo requerido, a título de êxito na ação judicial proposta pelo Condomínio do Edifício Residence & Service contra a SABESP.
+Releva consignar que o documento de fls. 15 é expresso quanto ao percentual (30%) devido em favor do autor pela participação na indicação do cliente, não especificando, ademais, nenhuma incidência de descontos com caráter de carga tributária e de custos operacionais.
+(..)
+A desnecessidade, pois, de produção de prova oral está bem fundamentada, e encontra respaldo no entendimento de que o magistrado é o destinatário das provas, cabendo a ele a análise sobre a necessidade, ou não, de sua produção. Nesse sentido é a jurisprudência desta Corte:
+(..)
+Desse modo, é inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem está de acordo com a jurisprudência do STJ (Súmula n.
+83/STJ).
+Ademais, alterar a conclusão a que chegou o Tribunal de origem demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, inviável em recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+O que se verifica é que o embargante não se conforma com a solução dada ao caso, o que, contudo, não autoriza a oposição de embargos de declaração, sendo certo, ainda, que, ao contrário do afirmado pelo agravante, não se trata de mera revaloração da matéria, mas de afastar as premissas fáticas delineadas pelo Tribunal quanto à controvérsia levada ao seu exame.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
