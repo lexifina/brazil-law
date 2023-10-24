@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por RIO NOVO TRANSPORTES E TURISMO LTDA contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido com a seguinte ementa:
+Mandado de segurança  Instauração de novo inquérito civil - Arquivamento de anteriores expedientes investigativos que não ensejam ausência de justa causa para a instauração de novo inquérito pela Promotoria Cível da Comarca - Fatos diversos a serem apurados nessa nova fase inquisitorial - Regular intimação da impetrante para o julgamento de recurso interposto perante o Conselho Superior do Ministério Público ocorrido no dia 23/11/2021  Denegação da segurança.
+Alega, preliminarmente, ofensa ao art. 489, § 1º, IV, do Código de Processo Civil, reputando omisso o acórdão recorrido, não obstante a oposição dos aclaratórios.
+Aponta suposta nulidade do procedimento adotado no Inquérito Civil do Ministério Público de São Paulo, diante da ausência de intimação dos advogados da ora recorrente. Defende que a realização do ato de publicação da pauta em diário oficial, constando o nome da empresa, não supre a nulidade.
+Sustenta, ainda, a inexistência de fatos novos a justificar a instauração do inquérito, ressaltando o arquivamento de anteriores procedimentos inquisitoriais em face dos mesmos fatos, sem que fosse apresentada informação relevante de natureza diversa a amparar a inovação das investigações.
+Postula a reforma do acórdão, com vistas a conceder a segurança, determinando-se o arquivamento do Inquérito Civil nº 14.0739.0015162/2021-1, em trâmite perante a Promotoria de Justiça de São Joaquim da Barra, ou, alternativamente, a declaração de nulidade da decisão do Conselho Superior, proferida na sessão de julgamento do dia 23/11/2021.
+Contrarrazões às fls. 973/985.
+É o relatório.
+Inexiste a alegada violação do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia. Ressalto que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+No mérito, insurge-se, inicialmente, quanto à regularidade da intimação do julgamento de inquérito cível pelo Conselho Superior do Ministério Público.
+Extrai-se dos autos que a intimação se deu por publicação de aviso da data de julgamento na imprensa oficial, em observância ao art. 231 do Regimento Interno do Conselho Superior do MP (fls. 940/941).
+Nos termos da Resolução CNMP 23/2007, art. 7º, aplica-se ao inquérito civil o princípio da publicidade dos autos, com exceção dos casos em que haja sigilo legal ou em que a publicidade possa acarretar prejuízo às investigações, casos em que a decretação do sigilo legal deverá ser motivada. O § 2º estabelece em que consistirá essa publicidade, elencando as medidas cabíveis para tanto:
+§ 2º A publicidade consistirá:
+I - na divulgação oficial, com o exclusivo fim de conhecimento público mediante publicação de extratos na imprensa oficial;
+II - na divulgação em meios cibernéticos ou eletrônicos, dela devendo constar as portarias de instauração e extratos dos atos de conclusão;
+III - na expedição de certidão e na extração de cópias sobre os fatos investigados, mediante requerimento fundamentado e por deferimento do presidente do inquérito civil;
+IV - na prestação de informações ao público em geral, a critério do presidente do inquérito civil;
+(..).
+Não há no procedimento descrito a previsão de intimação pessoal do patrono da parte investigada. O mesmo ocorre n o normativo local contido no Regimento Interno do Conselho Especial do MPSP, verbis:
+Art. 231 - A Secretaria do Conselho fará publicar na imprensa oficial o aviso da data em que o caso será julgado, em sessão pública.
+Parágrafo único - Havendo informações ou documentos sobre os quais recaia sigilo legal, em nenhuma hipótese a Secretaria deles dará acesso, cópia ou certidão, em contrariedade aos preceitos legais, sob pena de responsabilidade civil, administrativa e criminal do funcionário faltoso.
+Os arts. 112 e 121 do mesmo diploma infralegal, invocados pela parte recorrente, não têm aplicabilidade à espécie por constituírem disposições específicas do regimento interno daquele órgão para os processos de remoção ou disponibilidade compulsória, tanto que inseridos no título específico do procedimento.
+Carece a pretensão, portanto, de amparo legal, valendo ressaltar, ainda, que na fase investigativa, assim como no inquérito policial, não se faz necessário a observância dos princípios do contraditório e da ampla defesa, até por ser anterior à acusação e ao próprio processo administrativo (AgInt no MS n. 28.121/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 29/3/2022, DJe de 31/3/2022).
+No mais, quanto à suposta inviabilidade de sequência do inquérito civil em razão do anterior arquivamento de procedimentos investigativos relativos ao mesmo pregão eletrônico, colho trecho do acórdão recorrido:
+No que diz respeito ao segundo tópico da impetração, anteriores arquivamentos e novo inquérito civil sob fundamento diverso em relação a mesma licitação, o mandamus identicamente não merece acolhida.
+Nesse aspecto, a nova apuração decorre da afirmativa de outra concorrente no certame, Hipperbus Comércio de Veículo Eireli, que teria acontecido direcionamento da licitação com a exigência de veículos escolares dotados de teto solar e semi-leito.
+Mas, todavia, é questão que demanda exame de provas, o que não se mostra possível no âmbito do mandado de segurança, as quais devem ter natureza documental, instruindo a inicial.
+Por outro lado, o fato de existirem arquivamentos anteriores, a meu ver, não impede que o Ministério Público, à vista de informação relevante de natureza diversa das anteriores, determine a instauração de novo inquérito civil para a apuração dos fatos e circunstancias a ele denunciados fazendo parte, ressalte-se, de uma das funções institucionais nos termos do artigo 129, inciso III da Constituição Federal:
+(omissis)
+De mais a mais, os propalados arquivamentos não geram, por si, óbice que justifique, desde logo, o "trancamento" do novo inquérito civil por ausência de justa causa se outros são os fatos a serem apurados nessa nova fase inquisitorial (fls. 941/942).
+Noto, de início, que a parte recorrente deixou de confrontar o fundamento do acórdão atinente à indispensabilidade de exame de provas para a análise de sua pretensão, medida esta que não seria possível em sede de mandado de segurança. Atrai-se, com isso, por analogia, o óbice da Súmula 283/STF.
+De toda forma, a conclusão a que chegou a Corte de origem coaduna com o posicionamento da Corte Especial deste STJ, que considera indevida a análise em mandado de segurança de questões controvertidas no campo dos fatos, decorrente do requisito de liquidez e certeza do direito vindicado, o qual deve ser demonstrado de plano, por meio de prova pré-constituída. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO QUE ALEGA SER DEFICIENTE FÍSICO. QUESTÃO CONTROVERTIDA GRAVITANTE EM TORNO DA PERÍCIA MÉDICA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. É pacífica a jurisprudência desta Corte no sentido de que "o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus" (RMS 45.989/PB, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015). Outros precedentes: AgRg no RMS 45.517/DF, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/8/2014; AgRg no RMS 45.562/MS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 6/e 10/2016.
+2. A questão controvertida gravida em torno da perícia médica realizada pela banca do Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (CEBRASPE), também denominado CESPE, a qual considerou que o impetrante não é deficiente físico.
+Diante disso, a contraposição ao documento impugnado neste sede dependeria, exclusivamente, da realização de prova pericial, no afã de subsidiar o juízo de valor que poria fim ao debate judicial.
+Todavia, a via mandamental não comporta dilação probatória, em razão do seu rito sumário especial. Logo, a via eleita pelo impetrante se revela imprópria.
+3. Agravo interno não provido.
+(AgInt no MS n. 24.517/DF, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 13/11/2018, DJe de 21/11/2018.)
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
