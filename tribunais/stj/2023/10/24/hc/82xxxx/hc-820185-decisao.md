@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado pela Defensoria Pública em favor de JULIO CEZAR PENA DA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento da revisão criminal n. 1.0000.22.080481-9/000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, à pena de 6 (seis) anos, 6 (seis) meses e 7 (sete) dias de reclusão, em regime inicial fechado, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/06.
+Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, deu parcial provimento ao apelo defensivo para e 05 (cinco) anos e 03 (três) meses de reclusão no regime inicial fechado e pagamento de 530 (quinhentos e vinte e cinco) dias-multa, consoante voto condutor do v. acórdão de fls. 444-462.
+A revisão criminal interposta pela defesa, às fls. 19-20, foi julgada improcedente.
+Dai o presente writ, onde a impetrante aponta constrangimento ilegal na negativa de aplicação da causa de diminuição disposta no art. 33, § 4º da Lei 11.343/06.
+Requer, assim, a concessão da ordem para que seja " ..  aplicada a causa de diminuição de pena do art. 33, §4º da Lei de Drogas, no patamar máximo de 2/3, com consequente redução de penas, abrandamento do regime prisional para o aberto e substituição da pena corporal por restritivas de direitos, expedindo-se o competente alvará de soltura." (fl. 13).
+Não houve pedido liminar.
+Informações prestadas às fls. 757-758 e 777.
+O Ministério Público Federal, às fls. 1392-1399, manifestou-se pelo não conhecimento do writ.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas, em seu patamar máximo, com consequente fixação do regime aberto e substituição da pena corporal.
+Cumpre registrar, inicialmente, que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+Com efeito, "a Quinta Turma desta Corte Superior, nos autos do HC n. 664.284/ES, Rel. Ministro RIBEIRO DANTAS, Julgamento em 21/9/2021, DJe 24/9/2021, passou a adotar o entendimento de que inquéritos policiais e ações penais em curso não podem justificar o afastamento do tráfico privilegiado, uniformizando o posicionamento de ambas as Turmas sobre o tema" (AgRg no HC n. 772.739/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 4/11/2022, grifei).
+Nesse sentido: AgRg no AgRg no HC n. 764.458/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 26/4/2023; AgRg no HC n. 785.084/RS, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 20/4/2023 e AgRg no AREsp n. 2.124.395/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/2/2023.
+Na presente hipótese, forçoso reconhecer a ocorrência de flagrante ilegalidade, eis que o benefício capitulado no parágrafo 4º, do art. 33 da Lei n. 11.343/06 foi afastado, tão somente, no fato de o paciente possuir ações penais em andamento (fl. 455).
+Desse modo, forçoso reconhecer a possibilidade de aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, no seu patamar máximo, 2/3 (dois terços).
+Evidenciado, in casu, o constrangimento ilegal apontado pela defesa, passo ao redimensionamento da reprimenda do paciente, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias.
+Na primeira fase da dosimetria, mantenho a pena-base estabelecida em 5 anos e 3 meses de reclusão e 530 dias-multa (fl. 454).
+Na segunda fase, a reprimenda permanece inalterada.
+Na terceira fase, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, totalizando a reprimenda definitiva em 1 e 9 meses de reclusão, além do pagamento de 176 dias-multa.
+Ademais, o regime prisional inicial deve ser o aberto, nos termos determinados pelo art. 33, § 2º, "c", do Código Penal, tendo em vista a primariedade do paciente e os termos do artigo 42 da Lei de Drogas.
+Finalmente, cumpre registrar que o Pretório Excelso, nos termos da r. decisão proferida por ocasião do julgamento do HC n. 97.256/RS, ao considerar inconstitucional a vedação legal à substituição da pena privativa de liberdade em restritivas de direitos, contida no art. 33, § 4º, da Lei n. 11.343/06 (cuja execução foi suspensa pelo Senado Federal por meio da Resolução n. 5 de 16/2/2012), permitiu a concessão da benesse aos condenados pelo crime de tráfico de drogas, desde que preenchidos os requisitos insertos no art. 44 do Código Penal, como ocorre no presente caso.
+Ante o exposto, concedo a ordem de ofício, para aplicar a causa especial de diminuição do art. 33, § 4º, da Lei n. 11.343/06 no seu patamar máximo e estabelecer a sanção em 1 ano e 9 meses de reclusão e 176 dias-multa, bem como fixar o regime aberto e determinar a sua substituição por restritiva de direitos, nos moldes a serem definidos pelo MM. Juízo da Execução Penal, mantidos os demais termos da condenação.
+Publique-se. Intime-se.
+EMENTA
