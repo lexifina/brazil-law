@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por KEITH LUJER DE OLIVEIRA ARAUJO em face de decisão monocrática de minha relatoria assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE SALARIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OFENSA A DISPOSITIVO CONSTITUCIONAL. NÃO CONHECIMENTO. VIOLAÇÃO DOS LIMITES SUBJETIVOS DA COISA JULGADA. EXPRESSA LIMITAÇÃO SUBJETIVA DO TÍTULO EXECUTIVO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. ANÁLISE DOS LIMITES DO TÍTULO EXECUTIVO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+O embargante defende, em síntese, que (e-STJ fl. 522 ):
+O Exmo. Sr. Min. Relator conheceu em parte o recurso especial, nessa extensão, negou-lhe provimento, asseverando que o acórdão recorrido está em conformidade com a jurisprudência do C. STJ" no sentido de que, no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada".
+Entretanto, a decisão restou omissa acerca de elemento fundamental ao deslinde da controvérsia e que foi desenvolvido nas razões do recurso especial, qual seja a inexistência de expressa limitação no título judicial impondo a limitação aos beneficiários da ação.
+Diante da relevância da questão, que devidamente enfrentada pode alterar o resultado aplicado ao caso, é necessária a oposição dos presentes aclaratórios para integração do decisum.
+Acrescenta que (e-STJ fl. 526):
+No presente caso, restou amplamente demonstrando que o título em execução não contém qualquer limitação sobre seu alcance e que, pelo contrário, é amplo para declarar o direito dos substituídos.
+Contudo, a decisão ora embargada olvidou acerca da inexistência de limitação título.
+Assim, o acolhimento dos presentes embargos de declaração é medida que se impõe, a fim de que, sanada a omissão, seja observado o entendimento jurisprudencial pacífico desse eg. STJ no sentido deque "a eventual juntada de tal relação não gera a limitação subjetiva da abrangência da sentença coletiva aos substituídos indicados"
+3. Observa-se que mesmo que exista um rol de substituídos, tal circunstância não enseja a restrição dos efeitos da sentença, pois na fase de execução, aqueles servidores que fazem parte da categoria representada poderão gozar os efeitos da mesma.
+Afirma que há precedentes favoráveis à sua tese recursal e defende a inaplicabilidade da Súmula 7/STJ assim (e-STJ fl. 530):
+As razões recursais são claras ao discutir apenas aspectos de ordem jurídica, que dizem respeito à interpretação de dispositivos legais frente ao entendimento pacificado dos Tribunais Superiores. Ou seja, a parte ora embargante jamais buscou nova valoração ou apreciação de provas, mas apenas que o julgado fosse adequado à jurisprudência consolidada sobre o tema.
+Consoante detalhado no excepcional, a verificação da afronta aos arts. 502, 503, 506, 507 e 508 do CPC/15 decorre da limitação do título executivo, uma vez que o acórdão recorrido desprezou o instituto da coisa julgada e da substituição processual.
+Impugnação (e-STJ fls. 568/573).
+É o relatório. Passo a decidir.
+Como recurso de fundamentação vinculada que tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+Contudo, não se prestam à finalidade de sustentar eventual incorreção do decisum hostilizado, de modo a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+Depreende-se assim que não ocorreu o vício alegado, mas que busca a embargante apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que só é admitido em hipóteses excepcionais, pois, em regra, a presente via possui efeito apenas integrativo.
+Infere-se, pois, das razões dos aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC, não é compatível com o recurso protocolado.
+A decisão embargada expressamente consignou que (e-STj fl. 516):
+Cinge-se a controvérsia do recurso especial ao exame da legitimidade ativa do exequente ao argumento de que houve ofensa à coisa julgada, pois o título executivo teria abarcado todos os servidores da categoria. Por oportuno, leia-se trecho do acórdão recorrido (e-STJ fl. 397 ):
+Portanto, com a devida vênia aos entendimentos contrários, percebo que no caso houve limitação no título executivo (0049767-29.2012.8.03.0001) quanto aos beneficiários da ação coletiva, sendo, portanto, indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada, nos termos do precedente trazido ao norte. Sendo assim, a sentença que reconheceu a ilegitimidade ativa do apelante para executar a sentença proferida nos autos da ação n" 0049767-29.2012.8.03.0001 mostra-se acertada e deve ser mantida.
+O acórdão regional está em consonância com a jurisprudência dominante desta Corte Superior no sentido de que, no caso de expressa limitação no título executivo quanto aos beneficiários da ação coletiva, é indevida a inclusão de servidor que não integrou a referida listagem, sob pena de ofensa à coisa julgada.
+E considerando que o Tribunal de origem assentou a premissa fática de que o título executivo expressamente limitou os beneficiários, partir para conclusão diversa esbarraria no reexame de matéria fático-probatória, vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Não havendo omissão ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INVIABILIDADE DA VIA IMPUGNATIVA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
