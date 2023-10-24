@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE JOINVILLE contra decisão do Tribunal de Justiça do Estado de Santa Catarina, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 122):
+AGRAVO INTERNO (ART. 1.021 DO CPC/15) EM APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO DO FEITO NA ORIGEM. DECISÃO UNIPESSOAL QUE NEGOU PROVIMENTO AO RECURSO DO ENTE MUNICIPAL. INSURGÊNCIA DESTE. FALECIMENTO DO EXECUTADO ANTES DA CITAÇÃO. IMPOSSIBILIDADE DE REDIRECIONAMENTO DA EXECUÇÃO FISCAL AOS SUCESSORES. PRECEDENTES DO STJ E DESTA CORTE.
+"Conforme entendimento sedimentado pelo Superior Tribunal de Justiça, em incidente de recursos repetitivos, o redirecionamento da execução fiscal aos sucessores somente é admitido quando o falecimento do contribuinte ocorre depois da efetiva citação (TJSC, Apelação Cível n. 0038660-67.2004.8.24.0038, de Joinville, rel. Des. Jaime Ramos, Terceira Câmara de Direito Público, j. 03-07-2018)." (Apelação Cível n. 0063004-44.2006.8.24.0038, Terceira Câmara de Direito Público, Rel. Des. Júlio César Knoll. Data do julgamento: 20.08.2019)
+PREQUESTIONAMENTO. MATÉRIA ANALISADA. DESNECESSIDADE DE MENÇÃO A TODOS OS DISPOSITIVOS CITADOS.
+RECURSO CONHECIDO E DESPROVIDO.
+No especial obstaculizado (e-STJ fls. 129/137), o recorrente aponta violação do art. 131 do CTN. Defende a possibilidade de emenda à inicial para viabilizar o redirecionamento da execução fiscal contra o espólio para a cobrança de crédito tributário de contribuinte falecido, ao argumento de que " ..  o lançamento do crédito tributário ocorreu previamente ao falecimento do executado" (e-STJ fl. 134).
+As contrarrazões não foram oferecidas.
+O Tribunal de origem negou seguimento ao recurso especial, haja vista a consonância do acórdão recorrido com a orientação desta Corte firmada em recurso repetitivo (tema 166) no julgamento do REsp 1.045.472/BA, bem como não admitiu o apelo nobre por falta de prequestionamento (Súmulas 286 e 356 do STF) e com base nas Súmulas 83 do STJ e 284 do STF (e-STJ fls. 151/156).
+No agravo em recurso especial (e-STJ fls. 161/165), o agravante aventou a possibilidade de suspensão do processo em razão da pendência de pedido de instauração de incidente de resolução de demandas repetitivas (IRDR) no âmbito do Tribunal de origem.
+Alega, ainda, que " ..  a matéria federal questionada foi objeto de prequestionamento, preenchendo os requisitos mínimos de admissibilidades necessários, a afastar a incidência da Súmula n. 284/STF" (e-STJ fl. 165).
+A contraminuta não foi apresentada.
+Passo a decidir.
+Verifica-se que o fundamento condutor adotado na decisão a quo é o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução" (Tema n. 166 do STJ), sendo certo que os outros óbices à admissibilidade do especial também se referem à mesma questão, visto que o recurso especial do Município sustenta a possibilidade de emenda à inicial para o redirecionamento da execução fiscal contra o espólio para a cobrança de débito de contribuinte supostamente falecido após a constituição do crédito tributário.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Frise-se que, no contexto dos autos, a menção na decisão a quo da existência de outros óbices à admissibilidade do recurso especial, porquanto relacionadas com o mesmo capítulo do recurso especial ao qual foi negado seguimento com fundamento em aresto repetitivo, não guarda autonomia a justificar o cabimento do agravo dirigido a esta Corte Superior.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
