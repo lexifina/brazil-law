@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo apresentado por THALES MARQUES DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - RECURSOS DEFENSIVOS - TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS DEPOIMENTO DOS POLICIAIS _ RODOVIÁRIOS FEDERAIS - RELEVÂNCIA PROBATÓRIA -DESTINAÇÃO COMERCIAL DAS DROGAS EVIDENCIADA - CAUSA DE DIMINUIÇÃO DO ARTIGO 33, §4º, DA LE111.343/06  INAPLICABILIDADE - DEDICAÇÃO À ATIVIDADE CRIMINOSA  ELEVADA QUANTIDADE DE DROGA APREENDIDA - RESTITUIÇÃO DO VEÍCULO AUTOMOTOR APREENDIDO - IMPOSSIBILIDADE.
+Quanto à controvérsia, a parte recorrente alega violação do art. 33, § 4º, da Lei n. 11.343/2006, no que concerne à necessidade de reconhecimento de diminuição de pena do tráfico privilegiado, uma vez que o recorrente preenche todos os requisitos para concessão do benefício, e a minorante foi afastada com base presunção de que o réu estaria envolvido de forma habitual em atividades criminosas, trazendo a seguinte argumentação:
+No caso dos autos, a quantidade da droga, o transporte entre estados, a forma de acondicionamento da droga, a presença de rádio comunicador (que sequer sabe-se funcionando) e, o estado do veículo (sujo com placas limpas) foram as circunstâncias utilizadas para o afastamento da benesse (fl. 357).
+Sobre a suposta engenhosidade em relação ao compartimento em que se transportava a droga, há de se frisar que não descaracteriza o reconhecimento da condição de transportador iniciante, mesmo por que, é comum em casos tais que o veículo com o entorpecente seja entregue à "mula", já "preparado" (fl. 357).
+O transporte entre Estados da Federação é bastante comum quando se apreende grandes quantidades de drogas, vez que tais materiais vem pelas fronteiras do país, que distam sobremaneira dos grandes centros consumidores, o que por si só, não deve fazer presumir que o transportador (mula) é contumaz no tráfico (fl. 358).
+Da mesma forma, a presença de rádio comunicador, não é indicativo seguro do envolvimento com a criminalidade, mesmo por que não desfigura a cooptação para o transporte da droga de forma eventual, conclusão a que se chegaria apenas por indevida ilação (fl. 358).
+Na mesma decisão ora combatida, foi argumentado que o fato de o veículo estar circulando apenas com a placa limpa, enquanto se encontrava sujo, é indicativo de aprofundamento na seara delinquencial, o que de chofre deve ser repudiado, vez que, circular com as placas do auto limpas é determinação legal, também se constituindo mera suposição de envolvimento com o crime (fl. 358).
+É, no essencial, o relatório. Decido.
+Quanto a controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+in casu inobstante os acusados sejam primários (CAC de f. 161/162), há evidências concretas de que eles se dedicavam à atividade criminosa.
+Primeiro, pela exorbitante quantidade de droga apreendida.
+O exame preliminar de drogas de abuso retrata a apreensão de nada menos do que: 17,34k9 (dezessete quilogramas e trezentos e quarenta gramas) de cocaína, acondicionada em 17 (dezessete) tabletes (f. 13114 e 68/72).
+Segundo, pois os acusados foram flagrados fazendo transporte de drogas entre Estados da Federação.
+E não é só. Os relatos testemunhais prestados pelos Policiais Rodoviários Federais denotam a engenhosidade da conduta perpetrada pelos apelantes que, de certo, não é típica de traficantes principiantes.
+Foi demonstrado que a droga estava escondida dentro do painel do carro e, para o acesso ao local, era necessário o acionamento de um dispositivo, através de um cabo de aço. No automóvel também foi encontrado um rádio comunicador.
+Em acréscimo, novamente com base nos depoimentos policiais, cita-se que o carro estava sujo, mas as placas de identificação limpas, o que é uma prática comum dos condutores que buscam evadir de uma abordagem policial.
+Portanto, o modus operandi, aliado a quantidade, comprovam a habitualidade delitiva dos agentes.
+Percebe-se que, na hipótese, a dedicação a atividades criminosas por parte dos réus restou devidamente demonstrada não só pela quantidade e natureza da droga, mas também por outras circunstâncias, que conjugadas, impedem o reconhecimento da benesse do tráfico privilegiado (fl. 337).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à existência ou inexistência da habitualidade delitiva para efeito de configuração do tráfico privilegiado, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. APLICAÇÃO DA REDUTORA DO ART. 33, § 4º, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO DO PACIENTE A ATIVIDADES CRIMINOSAS. PRECEDENTES. FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fim de se aplicar a redutora do art. 33, § 4º, da Lei n.11.343/2006, é necessário o preenchimento de quatro requisitos cumulativos, quais sejam: (a) ser primário; (b) possuir bons antecedentes; (c) não dedicar-se a atividades criminosas; (d) não integrar organização criminosa. No caso concreto, a decisão proferida pela instância primeva expressamente ressaltou que o agravante se dedica a atividades criminosas.
+2. Para concluir diversamente do Tribunal de origem que entendeu que o réu se dedicava a atividades criminosas seria necessário o revolvimento do conteúdo probatório dos autos, providência inviável em sede de recurso especial. Óbice do enunciado de n. 7 da Súmula do STJ.
+ ..
+4. Agravo regimental desprovido. (AgRg nos EDcl no REsp n. 1.879.787/AM, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 08/02/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. DOSIMETRIA. ART. 40, INCISO III, DA LEI N. 11.343/2006. INCIDÊNCIA. CAUSA DE AUMENTO DE PENA DE CARÁTER OBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem, fundamentadamente, excluiu a causa de diminuição do art. 33, § 4.º, da Lei de Drogas, por estar demonstrada a dedicação às atividades criminosas. Para rever tal conclusão, com o intuito de reconhecer o tráfico privilegiado, seria necessário o reexame de fatos e provas, descabido em recurso especial, nos termos da Súmula n. 7 do STJ.
+ ..
+3. Agravo regimental desprovido. (AgRg no AREsp n. 1.786.625/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/6/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PROGRESSÃO DE REGIME. INOVAÇÃO RECURSAL. VIOLAÇÃO DO ART. 619 DO CPP. INEXISTÊNCIA. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. REQUISITOS NÃO PREENCHIDOS. DEDICAÇÃO À ATIVIDADE ILÍCITA. SÚMULA 7/STJ. PERDIMENTO DOS BENS. UTILIZAÇÃO NO TRÁFICO. HABITUALIDADE NÃO COMPROVADA. RECURSO PARCIALMENTE PROVIDO.
+ ..
+3. In casu, a instância de origem se pronunciou com clareza sobre a ausência dos requisitos para o reconhecimento do tráfico privilegiado.
+4. As instâncias ordinárias negaram a aplicação do redutor pelo tráfico privilegiado destacando a existência de prova oral demonstrando que o recorrente praticava o tráfico há período considerável, bem como pelas degravações dos aparelhos celulares comprovando tal prática.
+5. A reforma do acórdão constitui providência inadmissível em recurso especial. Incidência da Súmula 7/STJ.
+ ..
+7. Agravo regimental provido, em parte, apenas afastar a pena de perdimento do bem e determinar a restituição do veículo Corolla, placa EBX-5787 ao proprietário. (AgRg no REsp n. 1.977.052/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/2/2022.)
+Confiram-se ainda os seguintes julgados: AgRg no AREsp n. 1.663.688/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 26/02/2021; AgRg no REsp n. 1.895.013/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 21/10/2020; AgRg no AgRg no AREsp n. 1.682.761/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/08/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
