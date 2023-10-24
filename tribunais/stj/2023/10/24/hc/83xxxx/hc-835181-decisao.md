@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOADSON LEONEL DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado às penas de 08 (oito) anos e 06 (seis) meses de reclusão, em regime inicial fechado, e 1.316 (mil trezentos e dezesseis) dias-multa, por infração ao artigo 33, caput, e artigo 35, caput, ambos da Lei 11.343/2006, conforme a sentença de fls. 515-520.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que, por maioria, negou provimento ao apelo, nos termos do acórdão juntado às fls. 687-707.
+Opostos embargos infringentes e de nulidade perante a Corte de origem, foi desprovido, por maioria, consoante acórdão às fls. 762-772.
+No presente writ, o impetrante aponta constrangimento ilegal em razão da negativa de absolver o paciente do crime previsto no artigo 35, da Lei 11.343/2006, dada a ausência de provas de autoria.
+Argumenta ainda que, com a absolvição do delito de associação para o tráfico, não subsiste fundamentação a ensejar a não incidência da redutora do tráfico privilegiado, no tocante ao delito de tráfico de entorpecentes.
+Requer, ao final, em caráter liminar e no mérito, a concessão da ordem para absolver o paciente do delito previsto no artigo 35, caput, da Lei 11.343/2006, com a incidência da redutora do tráfico privilegiado prevista no artigo 33, § 4º, da mesma lei, no patamar máximo, redimensionando-se a reprimenda, com a extensão dos efeitos ao corréu André.
+O pedido liminar foi indeferido às fls. 816-817.
+Informações prestadas às fls. 824-827, 828-897 e 898-965.
+O Ministério Público Federal, às fls. 970-973, opinou pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+O impetrante sustenta a existência de violação ao comando do art. 35, caput, da Lei 11.343/2006, ao argumento de que não houve demonstração concreta dos requisitos da estabilidade e da permanência para a configuração do delito.
+Alega, ainda, que, com a absolvição do delito de associação para o tráfico, deve ser reconhecida, no tocante ao crime do art. 33, da Lei 11.343/2006, a figura do tráfico privilegiado, em seu patamar máximo, com a consequente fixação de regime prisional menos gravoso.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Quanto ao crime de associação para o tráfico, o tipo previsto no art. 35, da Lei 11.343/2006, se configura quando duas ou mais pessoas se reúnem com a finalidade de praticar os crimes previstos nos artigos 33 e 34 da norma referenciada.
+Indispensável, portanto, para a comprovação da materialidade, o ânimo associativo de forma estável e duradoura com a finalidade de cometer tais delitos.
+Nesse diapasão: "Para a configuração do delito de associação para o tráfico de drogas é necessário o dolo de se associar com estabilidade e permanência, sendo que a reunião de duas ou mais pessoas sem o animus associativo não se subsume ao tipo do art. 35 da Lei n. 11.343/2006. Trata-se, portanto, de delito de concurso necessário. "(HC 434.880/RJ, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 09/04/2018).
+Ressalte-se, ainda, que os crimes de associação para o tráfico e tráfico de ilícito de entorpecentes são autônomos, não dependendo a caracterização daquele da efetiva prática de quaisquer das condutas delituosas deste.
+Na hipótese dos autos, o Tribunal de origem bem fundamentou a condenação pelo crime de associação para o tráfico, em especial, em razão do teor das mensagens registradas no aparelho celular apreendido na casa do paciente, revelando o modus operandi do delito, praticado com divisão e estruturação de tarefas, em união de desígnios e comunhão de esforços.
+Com efeito, restou consignado que "do conteúdo das mensagens depreende-se que André já era chamado de "patrão" por Joadson", sendo possível aferir que o paciente "cumpria ordens emanadas de André a fim de operacionalizar o comércio proscrito que ocorria naquela localidade, incumbindo-se, ainda, da cobrança dos usuários em dívida" (fl. 771).
+Asseverou, também, que não se tratava de mero auxílio ocasional prestado pelo paciente ao corréu André para a realização do tráfico de drogas, tampouco que o paciente fosse um mero "contratado" episódico.
+Nesse diapasão, diversamente do que foi alegado pelo impetrante, o que avulta do contexto fático delineado pela sentença condenatória, ratificado pela Corte de origem, não é o acaso de uma reunião de pessoas, para a prática do crime de tráfico de entorpecentes, mas a de indivíduos que se associaram para a mercancia de substâncias ilícitas.
+Desconstituir tal conclusão demandaria profundo exame do acervo probatório, o que é vedado na estreita via do mandamus.
+Nesse sentido: AgRg no HC n. 794.432/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 23/6/2023; AgRg no HC n. 806.302/RJ, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 22/6/2023; e HC 477.199/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 19/02/2019.
+No tocante ao tráfico privilegiado, mantida a condenação por associação para o tráfico de entorpecentes, fica prejudicado o pedido de aplicação da redutora capitulada no art. 33, § 4º, da Lei n; 11.343/2006, em razão do não preenchimento dos requisitos cumulativos (agente primário, de bons antecedentes, que não se dedique às atividades criminosas, nem integre organização criminosa).
+Com efeito, "consoante jurisprudência deste Superior Tribunal, a condenação pelo crime de associação para o tráfico de entorpecentes demonstra a dedicação dos acusados a atividades ilícitas e a participação em associação criminosa, autorizando a conclusão de que não estão preenchidos os requisitos legalmente exigidos para a concessão do benefício do redutor previsto no § 4º do art. 33 da Lei n. 11.3434/2006" (AgRg no HC n. 806.302/RJ, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 22/6/2023).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
