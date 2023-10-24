@@ -1,0 +1,107 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO TITULAR. DIREITO DE MANUTENÇÃO DO CONTRATO. AÇÃO FUNDADA NO § 1º DO ART. 31 DA LEI 9.656/1998. AÇÃO ANTERIOR FUNDADA NO CAPUT DO ART. 31 DA LEI 9.656/1998. AUSÊNCIA DE COISA JULGADA.
+1. Ação de obrigação de fazer ajuizada em 11/11/2019, da qual foi extraído o presente recurso especial, interposto em 11/08/2021 e concluso ao gabinete em 27/10/2022.
+2. O propósito recursal é decidir sobre (i) a negativa de prestação jurisdicional; (ii) a existência de coisa julgada; e (iii) o direito de manutenção da condição de beneficiário do plano de saúde coletivo empresarial após a extinção do contrato de trabalho.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 211/STJ).
+4. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC/15.
+5. O pedido do aposentado de permanecer no plano de saúde pelo período correspondente ao que contribuiu, fundado no art. 31, § 1º, da Lei 9.656/98, constitui outro direito com relação ao pedido de manutenção do plano de saúde por prazo indeterminado, fundado no caput do mesmo dispositivo legal.
+6. Hipótese em que, tendo o Tribunal de origem examinado o contexto dos autos da ação anterior com os olhos voltados apenas ao disposto no art. 31, caput, da Lei 9.656/1998, deve ser afastada a existência de coisa julgada nesta ação fundada no § 1º.
+9. Recurso especial conhecido em parte e, nessa extensão, provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justi  a, na conformidade dos votos e das notas taquigr  ficas constantes dos autos. por unanimidade, conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Relatora: Ministra NANCY ANDRIGHI
+Cuida-se de recurso especial interposto por JOAO JOSE NETTO, fundado na alínea "a" do permissivo constitucional, contra acórdão do TJ/SP.
+Ação: de obrigação de fazer, ajuizada por JOAO JOSE NETTO em face de BRADESCO SAUDE S/A, pretendendo a permanência no plano de saúde coletivo empresarial do qual era titular durante a vigência do contrato de trabalho.
+Sentença: o Juízo de primeiro grau julgou parcialmente procedente o pedido para condenar a BRADESCO SAUDE S/A "a manter vigente por 09 (nove) anos, após a data prevista para a rescisão, o contrato de seguro saúde firmado com o autor, mantendo-o, bem como a seus dependentes, como segurados, nas mesmas condições vigentes anteriormente, arcando ele com as mensalidades de forma integral".
+Acórdão: o TJ/SP, de ofício, extinguiu o processo, sem resolução do mérito, e julgou prejudicadas as apelações interpostas pelas partes, nos temos da seguinte ementa:
+PROCESSO CIVIL. Plano de saúde. Pedido inicial contido em pedido julgado improcedente em outra ação já transitada em julgado. Presença de pressuposto processual negativo da coisa julgada que impõe a resolução do feito sem julgamento de mérito. Inteligência do art. 485, V, do Código de Processo Civil - Ônus sucumbenciais rearranjados. Processo extinto, de ofício, sem julgamento de mérito, prejudicado o julgamento dos apelos.
+Embargos de declaração: opostos por JOAO JOSE NETTO, foram rejeitados.
+Recurso especial: aponta violação dos arts. 1.022, II, e 502 do CPC/2015, bem como do art. 31, § 1º, da Lei 9.656/1998.
+A par da negativa de prestação jurisdicional, alega que "a primeira ação proposta pelo recorrente (autos nº 1001476-60.2015.8.26.0445), teve como pedido e fundamento legal o direito à vitaliciedade do seu plano de saúde, nos termos do caput do artigo 31, da Lei 9.656/98", enquanto "nestes autos, o que se discute é a possibilidade de reativação do plano cancelado indevidamente, bem como a confirmação do direito do Recorrente a permanecer pelo período de 9 (nove) anos e 11 (onze) meses, nos termos do artigo 31, §1 Lei n.º 9.656/98". Defende, assim, que "são fundamentos distintos, são pedidos diferentes" (fls. 520-521, e-STJ).
+Sustenta que "permaneceu aproximadamente 30 (trinta) anos na empresa Gerdau, tendo contribuído para o plano de saúde pelo período de 09 (nove) anos e 11 (onze) meses, inclusive com período já reconhecido pelo Tribunal de Justiça de São Paulo na ação primária (1001476-60.2015.8.26.0445), que discute pedidos e fundamentos distintos"; que "foram cumpridos todos os requisitos estabelecidos em Lei, o que de toda sorte mostra que o recorrente tem direito à manutenção do plano de saúde pelo período requerido (12.01.2025)"; e que, "de acordo com o artigo 22 da Resolução nº 279/2011, o benefício garantido pelo artigo 31 da lei 9.656/98 não resta prejudicado, caso o empregado aposentado continue trabalhando na mesma empresa e posteriormente venha a se desligar" (fl. 523, e-STJ).
+Pleiteia, ao final, seja julgada "a demanda totalmente procedente, nos termos pleiteados na exordial, com a consequente reativação do Plano do Recorrente, bem como com a manutenção do Plano de Saúde, nos termos do artigo 31, §1º da Lei nº 9.656/98) (fl. 525, e-STJ).
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, dando azo à interposição do AREsp 2.202.612/SP, provido para determinar a conversão em especial (fl. 646, e-STJ).
+É o relatório.
+RECURSO ESPECIAL Nº 2.040.309 - SP (2022/0278704-3)
+RELATORA
+:
+MINISTRA NANCY ANDRIGHI
+RECORRENTE
+:
+JOAO JOSE NETTO
+ADVOGADO
+:
+RENATA VILHENA SILVA - SP147954
+RECORRIDO
+:
+BRADESCO SAUDE S/A.
+ADVOGADO
+:
+ALESSANDRA MARQUES MARTINI - SP270825
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PLANO DE SAÚDE COLETIVO. APOSENTADORIA DO TITULAR. DIREITO DE MANUTENÇÃO DO CONTRATO. AÇÃO FUNDADA NO § 1º DO ART. 31 DA LEI 9.656/1998. AÇÃO ANTERIOR FUNDADA NO CAPUT DO ART. 31 DA LEI 9.656/1998. AUSÊNCIA DE COISA JULGADA.
+1. Ação de obrigação de fazer ajuizada em 11/11/2019, da qual foi extraído o presente recurso especial, interposto em 11/08/2021 e concluso ao gabinete em 27/10/2022.
+2. O propósito recursal é decidir sobre (i) a negativa de prestação jurisdicional; (ii) a existência de coisa julgada; e (iii) o direito de manutenção da condição de beneficiário do plano de saúde coletivo empresarial após a extinção do contrato de trabalho.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 211/STJ).
+4. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC/15.
+5. O pedido do aposentado de permanecer no plano de saúde pelo período correspondente ao que contribuiu, fundado no art. 31, § 1º, da Lei 9.656/98, constitui outro direito com relação ao pedido de manutenção do plano de saúde por prazo indeterminado, fundado no caput do mesmo dispositivo legal.
+6. Hipótese em que, tendo o Tribunal de origem examinado o contexto dos autos da ação anterior com os olhos voltados apenas ao disposto no art. 31, caput, da Lei 9.656/1998, deve ser afastada a existência de coisa julgada nesta ação fundada no § 1º.
+9. Recurso especial conhecido em parte e, nessa extensão, provido.
+VOTO
+Relatora: Ministra NANCY ANDRIGHI
+O propósito recursal é decidir sobre (i) a negativa de prestação jurisdicional; (ii) a existência de coisa julgada; e (iii) o direito de manutenção da condição de beneficiário do plano de saúde coletivo empresarial após a extinção do contrato de trabalho.
+1. DA AUSÊNCIA DE PREQUESTIONAMENTO
+1. O TJ/SP não decidiu, sequer implicitamente, acerca do art. 31, § 1º, da Lei 9.656/1998, indicado como violado, tampouco se manifestou sobre os argumentos deduzidos nas razões recursais acerca dos referidos dispositivos legais, a despeito da oposição de embargos de declaração.
+2. Por isso, o julgamento do recurso especial, quanto a essa questão, é inadmissível por incidência da súmula 211/STJ.
+2. DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL
+3. Afirma JOAO-recorrente que o acórdão recorrido padece de omissão quanto à fundamentação relativa à ocorrência de coisa julgada.
+4. Sobre essa questão, decidiu o TJ/SP:
+Com o objetivo de ser mantido no plano por tempo indeterminado após o rompimento com a ex-empregadora, nos termos do art. 31 da Lei nº 9.656/98, autor ajuizara contra a ré a ação cominatória nº 1001476-60.2015.8.26.0445; aquela ação foi julgada procedente na primeira instância; e esta Câmara, na segunda instância, ao analisar os apelos, autônomo e adesivo contra ela interpostos, proferiu acórdão que a reformou, para julgar improcedente aquela ação, acórdão aquele que transitou em julgado em 10.04.2019.
+Naquele processo, constou da fundamentação do acórdão que julgou as apelações que, de acordo com os documentos juntados naqueles autos, se identificaram contribuições do autor para o pagamento do prêmio durante um período de 7 anos entre 2000 e 2007 -, a partir de quando o prêmio passou a ser integralmente adimplido pela ex-empregadora, passado o autora a tão-somente arcar com a coparticipação nos procedimentos, à vista do que era inviável a permanência do autor no plano por tempo indeterminado, já que a contribuição fora feita por período inferior ao decênio a que alude o caput do art. 31 da indigitada Lei nº 9.656/98.
+Após o trânsito em julgado daquele processo, o autor, em 11.11.2019, ajuizou esta ação, desta vez juntando contracheques que não haviam sido juntados naquela primeira ação, relativamente às contribuições feitas entre 1998 e 2007, totalizado 9 anos e 11 meses de contribuição para o pagamento do plano, para postular, nos termos do art. 31, §1º, da Lei nº 9.656/98, a manutenção sua e de seus dependentes pelo período de 9 anos e 11 meses.
+É presente nos autos o pressuposto processual negativo do trânsito em julgado.
+Explica-se.
+O pedido inicial desta ação está contido naquela primeira ação, já transitada em julgado e corresponde, tal pedido, data máxima vênia, a acolhimento parcial daquele primeiro, de modo que, não tendo obtido o autor, naquele processo, parcialmente, a tutela que pretendia, e estando aquela ação já transitada em julgado, não pode se valer o autor de um novo processo para tanto, ainda mais juntando novos documentos a que sempre teve acesso e que poderiam ter sido juntados àquela primeira ação desde o seu ajuizamento.
+Ao proceder desta forma, o autor se utiliza de uma nova ação de conhecimento como sucedâneo recursal, o que, pela sistemática processual vigente no país, de modo algum se pode admitir.
+É o caso, portanto, de se extinguir o processo, sem julgamento de mérito, com fulcro no art. 485, V, in fine, do Código de Processo Civil. (fls. 510-511, e-STJ)
+5. Logo, da leitura do acórdão recorrido extrai-se, sem adentrar no acerto ou desacerto do julgamento, que foi devidamente analisada e discutida a questão, estando suficientemente fundamentado, de modo a esgotar a prestação jurisdicional.
+6. À vista disso, não há omissão a ser suprida, de modo que não se vislumbra a alegada violação do art. 1.022 do CPC/2015.
+3. DA EXISTÊNCIA DE COISA JULGADA
+7. Insurge-se JOAO-recorrente contra o reconhecimento da coisa julgada, afirmando que, "a primeira ação proposta pelo recorrente (autos nº 1001476-60.2015.8.26.0445), teve como pedido e fundamento legal o direito à vitaliciedade do seu plano de saúde, nos termos do caput do artigo 31, da Lei 9.656/98" e, "nestes autos, o que se discute é a possibilidade de reativação do plano cancelado indevidamente, bem como a confirmação do direito do recorrente a permanecer pelo período de 9 (nove) anos e 11 (onze) meses, nos termos do artigo 31, § 1 Lei n.º 9.656/98" (fls. 520-521, e-STJ).
+8. A propósito, prevê o art. 31 da Lei 9.656/1998, no seu caput e § 1º:
+Art. 31. Ao aposentado que contribuir para produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei, em decorrência de vínculo empregatício, pelo prazo mínimo de dez anos, é assegurado o direito de manutenção como beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+§ 1o Ao aposentado que contribuir para planos coletivos de assistência à saúde por período inferior ao estabelecido no caput é assegurado o direito de manutenção como beneficiário, à razão de um ano para cada ano de contribuição, desde que assuma o pagamento integral do mesmo.
+9. Especificamente sobre a pretensão deduzida por JOAO-recorrente na primeira ação (autos nº 1001476-60.2015.8.26.0445), registrou o TJ/SP neste processo:
+Com o objetivo de ser mantido no plano por tempo indeterminado após o rompimento com a ex-empregadora, nos termos do art. 31 da Lei nº 9.656/98, autor ajuizara contra a ré a ação cominatória nº 1001476-60.2015.8.26.0445; aquela ação foi julgada procedente na primeira instância; e esta Câmara, na segunda instância, ao analisar os apelos, autônomo e adesivo contra ela interpostos, proferiu acórdão que a reformou, para julgar improcedente aquela ação, acórdão aquele que transitou em julgado em 10.04.2019.
+Naquele processo, constou da fundamentação do acórdão que julgou as apelações que, de acordo com os documentos juntados naqueles autos, se identificaram contribuições do autor para o pagamento do prêmio durante um período de 7 anos entre 2000 e 2007 -, a partir de quando o prêmio passou a ser integralmente adimplido pela ex-empregadora, passado o autora a tão-somente arcar com a coparticipação nos procedimentos, à vista do que era inviável a permanência do autor no plano por tempo indeterminado, já que a contribuição fora feita por período inferior ao decênio a que alude o caput do art. 31 da indigitada Lei nº 9.656/98.
+Após o trânsito em julgado daquele processo, o autor, em 11.11.2019, ajuizou esta ação, desta vez juntando contracheques que não haviam sido juntados naquela primeira ação, relativamente às contribuições feitas entre 1998 e 2007, totalizado 9 anos e 11 meses de contribuição para o pagamento do plano, para postular, nos termos do art. 31, § 1º, da Lei nº 9.656/98, a manutenção sua e de seus dependentes pelo período de 9 anos e 11 meses.
+É presente nos autos o pressuposto processual negativo do trânsito em julgado.
+Explica-se.
+O pedido inicial desta ação está contido naquela primeira ação, já transitada em julgado e corresponde, tal pedido, data máxima vênia, a acolhimento parcial daquele primeiro, de modo que, não tendo obtido o autor, naquele processo, parcialmente, a tutela que pretendia, e estando aquela ação já transitada em julgado, não pode se valer o autor de um novo processo para tanto, ainda mais juntando novos documentos a que sempre teve acesso e que poderiam ter sido juntados àquela primeira ação desde o seu ajuizamento. (fl. 510, e-STJ - grifou-se)
+10. A propósito, Candido Rangel Dinamarco, ainda na vigência do CPC/1973, lecionava sobre a interpretação do pedido:
+Salvo as hipóteses legais específicas, o autor tem o ônus de pedir de modo explícito o reconhecimento ou satisfação dos direitos acessórios, isoladamente ou em cumulação com o principal, sob pena de sobre eles não poder o juiz manifestar-se em sentença de mérito (art. 293, caput, c/c arts. 128 e 460). (DINAMARCO, Cândido Rangel. Instituições de direito processual civil. v II. 4ª ed. São Paulo: Malheiros Editores, 2004. p. 137-138)
+11. Embora admitindo a interpretação sistemática da petição inicial, a lição ainda permanece válida na vigência do CPC/2015, consoante se extrai dos comentários ao art. 322:
+O pedido deve ser certo, ou seja, expresso, claro e inteligível. Embora o pedido não necessite estar relacionado em um item em separado da petição inicia, por força do art. 322, § 2.º, ainda que a boa técnica assim o recomende, não pode o pedido deixar de ser formulado, sob pena de não ser apreciado. Não se admite, fora as hipóteses estabelecidas em lei (art. 322, § 1.º), o pedido implícito.
+(..)
+Há que se promover, portanto, a interpretação sistemática da peça inaugural, sendo certo que a causa de pedir consiste em dado imprescindível para delimitar o pedido. Deve o juiz, assim, utilizar a interpretação literal apenas como ponto de partida (excluindo compreensão do pedido que contrarie frontalmente o texto ou nele não encontre o mínimo de correspondência), sem abrir mão da interpretação teleológica e sistemática. (..). Não se deve, porém, recair no exagero das ilações: o pedido deve ser contextualizado no bojo da petição inicial, mas a mera circunstância de os fatos narrados, em tese, comportarem outro direito que não foi pleiteado pelo autor não autoriza o juiz a concedê-lo de ofício, sob pena de violação aos princípios da demanda (art. 2º) e do contraditório (art. 10). (..). Por outro lado, eventual interpretação do pedido não debatida pelo réu, mas considerada pelo juiz, deve vir acompanhada da determinação para que o demandado seja intimado para complementar sua manifestação e produzir eventuais provas que entenda pertinentes, com fundamento no art. 10 do CPC/2015. (GAJARDONI, Fernando da Fonseca et al. Processo de conhecimento e cumprimento de sentença: comentários ao CPC de 2015. V. 2. 2ª ed. Rio de Janeiro: Forense, 2018. p. 23-25)
+12. Sob essa perspectiva, infere-se que o pedido do aposentado de permanecer no plano de saúde pelo período correspondente ao que contribuiu, fundado no art. 31, § 1º, da Lei 9.656/98, constitui outro direito com relação ao pedido de manutenção do plano de saúde por prazo indeterminado, fundado no caput do mesmo dispositivo legal.
+13. Nessa toada, extrai-se, do contexto delineado no acórdão recorrido, que a pretensão de JOAO-recorrente de se manter como beneficiário do plano de saúde pelo período de 9 (nove) anos e 11 (onze) meses poderia ter sido objeto de pedido subsidiário na primeira ação, caso não acolhido o pedido principal de manutenção dessa mesma condição por tempo indeterminado, mas não o foi e, por isso, sequer foi apreciada pelo TJ/SP.
+14. É o que se extrai, inclusive, do trecho do acórdão de apelação daquela ação (autos nº 1001476-60.2015.8.26.0445), transcrito pela BRADESCO SAUDE S/A-recorrida nas suas contrarrazões, no intuito de demonstrar, nesta ação, a existência da coisa julgada; vejamos:
+"Discute-se a respeito da efetivação do direito consagrado no art. 31 da Lei nº 9.656/98 em favor do ex-empregado aposentado, que busca manter seu contrato de plano de saúde.
+(..)
+O Superior Tribunal de Justiça, em sede de Recurso Repetitivo acabou adotando esta tese, exigindo que haja efetivo pagamento da contraprestação, não suprindo tal exigência a previsão de coparticipação, sendo afastada a invocação de salário indireto como contribuição apta a justificar aplicação da lei.
+(..)
+No caso sub judice não há demonstração de que o autor contribuía para pagamento do plano de saúde no período necessário, ressalvada existência de coparticipação. Não comprovada, portanto, contribuição pelo prazo de 10 anos, tal como exigido pelo art. 31 da Lei nº 9.656/98.
+(..)
+Logo, não comprovados os requisitos necessários para acolhimento do pedido, deve ser julgada improcedente a ação, com inversão da verba de sucumbência." (fl. 579, e-STJ)
+15. É dizer, o TJ/SP examinou o contexto daqueles autos com os olhos voltados apenas ao disposto no art. 31, caput, da Lei 9.656/1998, e, assim, por concluir que não ficaram comprovados os 10 anos de contribuição de JOAO-recorrente, decidiu reformar a sentença e julgar improcedente o pedido de manutenção do plano de saúde por período indeterminado; nada decidiu, todavia, acerca de eventual direito de se manter como beneficiário do plano de saúde por período determinado, correspondente ao tempo em que efetivamente contribuiu.
+16. Por esse motivo, o Juiz, na sentença, afastou a preliminar de coisa julgada nestes termos:
+O objeto da ação anterior, como se vê pelo v. Acórdão de folhas 183/190, efetivamente era a manutenção, de forma vitalícia, da vigência do contrato de seguro saúde.
+No presente caso a pretensão é de manutenção temporária, em conformidade com o número de anos de contribuição do autor durante a vigência do contrato de trabalho.
+Não há que se falar em coisa julgada. (fl. 392, e-STJ)
+17. Assim, merece reforma o acórdão recorrido para que seja afastada a existência da coisa julgada.
+4. DO DIREITO DE MANUTENÇÃO DA CONDIÇÃO DE BENEFICIÁRIO DO PLANO DE SAÚDE COLETIVO EMPRESARIAL APÓS A EXTINÇÃO DO CONTRATO DE TRABALHO
+18. Afastada a existência da coisa julgada, cabe ao TJ/SP - e não ao STJ - prosseguindo no julgamento das apelações, analisar, a partir do conjunto fático-probatório dos autos, o eventual direito de JOAO-recorrente à manutenção da condição de beneficiário do plano de saúde coletivo empresarial após a extinção do contrato de trabalho.
+5. DISPOSITIVO
+Forte nessas razões, CONHEÇO EM PARTE e, nessa extensão, DOU PROVIMENTO ao recurso especial para reformar o acórdão recorrido e determinar o retorno dos autos ao TJ/SP a fim de que, superada a existência da coisa julgada, prossiga no julgamento das apelações.
