@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado (e-STJ, fl. 85):
+AGRAVO DE INSTRUMENTO. AÇÃO DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO INTEMPESTIVA. PENHORA DE VALORES EM CONTA BANCÁRIA. IMPUGNAÇÃO OFERTADA EM DISSONÂNCIA AO QUANTO ESTABELECE O ART. 854, §3º, DO CPC. RECURSO CONHECIDO E PROVIDO. 1. A parte Agravante sustenta ser intempestiva a impugnação ofertada. Assevera que "a manifestação da Agravada era uma típica Impugnação ao cumprimento de sentença, onde alegou "excesso de execução" (art. 525, § 1º, V, CPC), e não excesso de penhora ou impenhorabilidade de bloqueio". Aduz que a parte Agravada indica o valor devido, sem, contudo, depositá-lo em juízo. 2. Em verdade, a parte Agravada só veio a juízo ofertar sua impugnação quando da constrição, via SISBAJUD, de R$5.939,89 (id. 82263697 dos autos de origem), aduzindo o excesso de execução, indicado como valor correto a importância de R$175.022,40(-). 3. Ocorre que, assiste razão ao Agravante, haja vista que o art. 854 do CPC não prevê a possibilidade de oferecimento de impugnação, apenas concede prazo de cinco dias para comprovar duas situações: a impenhorabilidade do valor constrito ou a permanência de indisponibilidade de ativos financeiros em excesso. Portanto, só caberia ao Agravado comprovar que o valor de R$5.939,89 era impenhorável nos moldes do art. 833 do CPC, ou, demonstrar a constrição em valor superior ao pretendido, qual seja, R$187.423,12(-). Fato que não ocorreu. 4. Todavia, é cediço que o colendo Superior Tribunal de Justiça pacificou entendimento "no sentido de que eventuais erros materiais nos cálculos apresentados para o cumprimento de sentença não estão sujeitos à preclusão", podendo o magistrado, de ofício, determinar a realização de perícia contábil para dirimir qualquer alegação de erro de cálculo. 5. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 177-186 (e-STJ).
+Nas razões do especial (e-STJ, fls. 114-136), a parte recorrente sustentou violação aos arts. 518, § 11, e 525 do CPC/15, alegando a tempestividade da impugnação na qual alegou o erro de cálculo, porquanto o apontado excesso de execução se deu após a penhora on line, caracterizando fato superveniente. Argumenta ter demonstrado a irregularidade dos cálculos apresentados pelo exequente, informando o valor que entendia correto e juntando a respectiva planilha de cálculo no prazo de 5 dias.
+Apontou, ainda, divergência jurisprudencial sobre o tema.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 230-235, e-STJ), o que ensejou o manejo do presente agravo (fls. 238-248, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. A parte recorrente sustenta, em suas razões, violação arts. 518, § 11, e 525 do CPC/15, alegando a tempestividade da impugnação na qual alegou o erro de cálculo, por ter demonstrado a irregularidade dos cálculos apresentados pelo exequente, informando o valor que entendia correto e juntando a respectiva planilha de cálculo no prazo de 5 dias
+Tal alegação não merece acolhida.
+Conforme se observa do acórdão recorrido, o Tribunal analisou a questão à luz do prazo previsto no art. 854, § 3º, do CPC/15, afirmando que dentro do quinquídio a parte só pode alegar impenhorabilidade ou excesso na penhora, e não do art. 518 e 525 do CPC/15.
+É o que se extrai do seguinte trecho (e-STJ, fl. 92):
+Da análise dos autos, apura-se que a intimação da parte Agravada para pagar espontaneamente a quantia indicada se deu em 28/07/2020 (terça-feira), iniciando-se o quinquídio previsto no art. 523 do CPC em 29/07/2020 (quinta-feira) e com termo final em 20/08/2020 (quinta-feira). Decorrido o supracitado prazo, inicia-se o prazo previsto no art. 525 do CPC, com termo final no dia 11/09/2020 (sexta-feira).
+Assim sendo, a impugnação ofertada pela parte Agravada só foi protocolada em 04/12/2020 (sexta-feira), restando latente sua intempestividade. Em verdade, a parte Agravada só veio a juízo ofertar sua impugnação quando da constrição, via SISBAJUD, de R$ 5.939,89 (id. 82263697 dos autos de origem), aduzindo o excesso de execução, indicado como valor correto a importância de R$175.022,40 (-).
+Ocorre que, assiste razão ao Agravante, haja vista que o art. 854 do CPC não prevê a possibilidade de oferecimento de impugnação, apenas concede prazo de cinco dias para comprovar duas situações: a impenhorabilidade do valor constrito ou a permanência de indisponibilidade de ativos financeiros em excesso.
+Art. 854. Para possibilitar a penhora de dinheiro em depósito ou em aplicação financeira, o juiz, a requerimento do exequente, sem dar ciência prévia do ato ao executado, determinará às instituições financeiras, por meio de sistema eletrônico gerido pela autoridade supervisora do sistema financeiro nacional, que torne indisponíveis ativos financeiros existentes em nome do executado, limitando-se a indisponibilidade ao valor indicado na execução.
+§ 1º No prazo de 24 (vinte e quatro) horas a contar da resposta, de ofício, o juiz determinará o cancelamento de eventual indisponibilidade excessiva, o que deverá ser cumprido pela instituição financeira em igual prazo.
+§ 2º Tornados indisponíveis os ativos financeiros do executado, este será intimado na pessoa de seu advogado ou, não o tendo, pessoalmente.
+§ 3º Incumbe ao executado, no prazo de 5 (cinco) dias, comprovar que:
+I - as quantias tornadas indisponíveis são impenhoráveis;
+II - ainda remanesce indisponibilidade excessiva de ativos financeiros.
+§ 4º Acolhida qualquer das arguições dos incisos I e II do § 3º, o juiz determinará o cancelamento de eventual indisponibilidade irregular ou excessiva, a ser cumprido pela instituição financeira em 24 (vinte e quatro) horas. (grifei)
+Portanto, só caberia ao Agravado comprovar que o valor de R$5.939,89 era impenhorável nos moldes do art. 833 do CPC, ou, demonstrar a constrição em valor superior ao pretendido, qual seja, R$187.423,12(-). Fato que não ocorreu.
+Como se vê, a Corte, com amparo no art. 854, § 3º, do CPC/15, afirmou que só caberia ao recorrente comprovar que o valor de R$5.939,89 era impenhorável nos moldes do art. 833 do CPC, ou, demonstrar a constrição em valor superior ao pretendido, qual seja, R$187.423,12.
+Por outro lado, a parte alega, em suas razões, ter demonstrado a irregularidade dos cálculos apresentados pelo exequente, informando o valor que entendia correto e juntando a respectiva planilha de cálculo no prazo de 5 dias, conforme os arts. 518 e 525 do CPC/15 (e-STJ, fl. 129).
+Desse modo, tendo em vista que a questão foi decidida com base em fundamento diverso da argumentação suscitada pela insurgente, resta caracterizada a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284/STF.
+A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE DE HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+(..)
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. O entendimento adotado pelo acórdão recorrido está em harmonia com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1616899/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. RAZÕES DISSOCIADAS DO ACÓRDÃO RECORRIDO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. A interposição de recurso especial não é cabível quando ocorre violação de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+3. Quando a parte apresenta razões dissociadas do que foi decidido pelo Tribunal de origem, incide a Súmula n. 284 do STF ante a impossibilidade de compreensão da controvérsia.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 970.977/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se. Intimem-se.
+EMENTA
