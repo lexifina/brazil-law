@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO MARCIO DOS SANTOS, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fl. 100):
+"HABEAS CORPUS - DIFAMAÇÃO - COMPETÊNCIA DOS JUIZADOS ESPECIAIS CRIMINAIS - NÃO VERIFICAÇÃO - INCIDÊNCIA DE CAUSAS DE AUMENTO DE PENA - TRANCAMENTO DO PROCESSO - POSSIBILIDADE -PROCURAÇÃO QUE NÃO PREENCHE OS REQUISITOS LEGAIS - VÍCIO QUE SE ESTENDE À QUEIXA-CRIME - DECADÊNCIA - AUSÊNCIA DE REGULARIZAÇÃO OU MANIFESTAÇÃO DURANTE O PRAZO DECADENCIAL - ORDEM CONCEDIDA.
+Devem ser computadas, para fins de delimitação da competência do JECRIM, as eventuais majorantes (e minorantes), incidentes sobre a pena máxima abstratamente cominada ao Tipo Pena l.
+A procuração outorgada pelo querelante, sem a devida menção ao fato criminoso, não preenche os requisitos legais. Deve-se extinguir a punibilidade quando a procuração não é regularizada ao longo do prazo decadencial. V. V. A competência do Juizado Especial Criminal é firmada pela soma das penas máximas em abstrato imputadas ao delito, independentemente da existência de causas de aumento. V. V.
+Por menção ao fato criminoso, nos termos do art. 44, do Código de Processo Penal, entende-se bastante a indicação do artigo da lei ou do "nomen iuris" do Tipo Penal. Ordem denegada"
+Em suas razões recursais, a parte recorrente aponta violação do art. 44 do Código de Processo Penal. Aduz para tanto, em síntese, que a procuração acostada aos autos da queixa-crime preenche os requisitos legais dispostos no aludido dispositivo, de modo que a persecução penal deve ser impulsionada.
+Com contrarrazões (e-STJ, fls. 297-308), o recurso especial foi admitido na origem (e-STJ, fls. 315-317).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento e provimento do recurso especial (e-STJ, fls. 342-348).
+É o relatório.
+Decido.
+A irresignação merece acolhimento.
+Consoante se verifica dos autos, apresentou queixa-crime contra , ora recorrente,
+acusando-a da prática dos crimes de calúnia e difamação.
+O TJ/MG considerou defeituosa a procuração constituída pelo querelante nos autos da queixa-crime ajuizada, por suposta violação ao art. 44 do CPP e, por consequência, reconheceu a decadência do direito de queixa e extinta a punibilidade da ré querelada/recorrida. Veja-se (e-STJ, fls. 104-105):
+" ..  No caso dos autos, muito embora o ofendido tenha falecido em 09/08/2022 (certidão de óbito de ordem 06), seu descendente ajuizou queixa-crime em face da paciente pelo suposto crime de difamação, por meio de seu procurador.
+Sabe-se que a queixa-crime poderá ser intentada pelo ofendido ou quem tenha qualidade para representá-lo (art. 30, CPP). Constituído procurador, será preciso constar do instrumento do mandato a "menção do fato criminoso" (art. 44, CPP). E, por menção, entenda-se uma simples exposição, que não se confunde com narração completa e, tampouco, com a simples capitulação legal da conduta. Afinal, o mesmo diploma processual bem separa e diferencia os termos "exposição do fato criminoso" e a "classificação do crime":
+Art. 41. A denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas (grifo).
+In casu, observa-se que a procuração de ordem 05 traz a outorga de poderes especiais "para os fins de, nos termos do artigo 44 do CPP, oferecer queixa-crime  ..  em razão da prática dos crimes de difamação em desfavor da vítima  .. , ocorridos em 24/04/2022 e no dia 21/06/2022, tipificados no art. 139 c/c art. 141, IV, por duas vezes, na forma do art. 69, todos previsto no Código Penal".
+Como se vê, é evidente que a procuração não preenche os requisitos legais porquanto não descreveu, ao menos superficialmente, por qual fato concreto o procurador poderia ajuizar a ação penal, de modo que a queixa-crime se revela inepta por ilegitimidade do procurador. O instrumento, embora tenha sido apresentado dentro do prazo legal, possui vício que se estende à queixa-crime. Por fim, sabe-se que o direito de queixa decairá no prazo de 6 (seis) meses, se não exercido pelo ofendido ou por seu representante, prazo esse que será contado a partir do dia em que vier a saber quem é o autor do crime (art. 38 do Código de Processo Penal).
+No caso em tela, uma vez que os fatos chegaram ao conhecimento do representante do ofendido, respectivamente, em 21/06/2022 e 09/08/2022, poderia o direito de queixa ser exercido, fatalmente, até 20/12/2022 e 08/02/2023.
+Portanto, tendo em vista a ausência de regularização da procuração, antes de expirado o prazo legal, operou-se a decadência do direito de queixa.  .. "
+Como se vê, o aresto impugnado foi proferido em dissonância com a jurisprudência desta Corte, no sentido de que, para a satisfação da exigência prevista art. 44 do Código de Processo Penal, não é necessária a descrição do fato criminoso no instrumento de mandato, sendo suficiente a indicação do artigo de lei no qual se baseia a queixa-crime ou a referência à denominação jurídica do crime. A corroborar esse entendimento:
+" ..
+1. "A procuração outorgada pelo querelante ao seu advogado, para fins de ajuizamento de queixa-crime, não requer a descrição pormenorizada do fato criminoso, bastando, no dizer do art. 44 do CPP, a menção a ele, a qual se perfaz tanto com a indicação do artigo de lei como do nomen juris do crime no qual incidiram, em tese, os querelados" (RHC n. 69.301/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016).
+2. Na espécie, a procuração foi outorgada a advogado, especificando poderes para atuar na ação movida contra o agravante pelo fato de ele ter incorrido no crime de difamação descrito no artigo 139 do Código Penal, requisitos esses suficientes para fins do art. 44 do CPP.
+3. Agravo regimental desprovido." (AgRg no RHC 93.319/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/04/2018, DJe 16/04/2018)
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. QUEIXA-CRIME. PROCURAÇÃO. MENÇÃO AO FATO CRIMINOSO. ART. 44 DO CPP.
+A procuração outorgada pelo querelante ao seu advogado, para fins de ingresso com queixa-crime, não requer a descrição pormenorizada do fato criminoso, bastando, no dizer do art. 44 do CPP, a menção a ele, a qual se perfaz com a indicação do artigo de lei ou do nomen iuris do crime no qual incidiu, em tese, o querelado. (Precedentes).
+Habeas corpus denegado."
+(HC 83.543/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/08/2007, DJ 08/10/2007, p. 346)
+Por fim, uma vez que não restou caracterizado o alegado defeito na representação processual, não há falar em decadência.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para determinar que seja dado prosseguimento à persecução criminal
+Publique-se. Intimem-se.
+EMENTA
