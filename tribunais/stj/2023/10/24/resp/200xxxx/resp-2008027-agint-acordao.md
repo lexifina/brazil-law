@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 18/10/2023 a 24/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Laurita Vaz.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. OFENSA AOS PRINCÍPIOS DO DIREITO ADQUIRIDO E DA SEGURANÇA JURÍDICA. ENTENDIMENTO INFRACONSTITUCIONAL. TEMA N. 1.109/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "É infraconstitucional e depende da análise de fatos e provas, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à alteração legislativa promovida pela Lei n. 13.670, de 2018, que excluiu da opção pela contribuição substitutiva (CPRB) as pessoas jurídicas que fabricam determinados produtos, inclusive no que se refere à irretratabilidade prevista no art. 9º, § 13, da Lei n. 12.546, de 2011."
+2. Consoante a tese fixada no Tema n. 1.109 do STF, de observância cogente (CPC, art. 927, III), foi afastada a repercussão geral, considerando que a matéria ventilada tem natureza infraconstitucional.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou seguimento ao recurso extraordinário assim ementada:
+RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. OFENSA AOS PRINCÍPIOS DO DIREITO ADQUIRIDO E DA SEGURANÇA JURÍDICA. ENTENDIMENTO INFRACONSTITUCIONAL. TEMA N. 1.109/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+A parte agravante alega que o Tema n. 1.109 do STF não poderia ser utilizado como argumento exclusivo para negar seguimento ao recurso.
+Reitera que houve violação a dispositivos constitucionais e que este Tribunal Superior teria reconhecido, em diversas situações, que a análise acerca da manutenção do contribuinte no regime de desoneração da folha de pagamento demandaria interpretação constitucional.
+Sustenta que há repercussão geral, tendo em vista que as questões debatidas no presente processo teriam efeito coletivo, social, político e econômico, por tratar de relação entre o fisco e contribuintes.
+Requer a reconsideração da decisão monocrática e, subsidiariamente, o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões tempestivas.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. OFENSA AOS PRINCÍPIOS DO DIREITO ADQUIRIDO E DA SEGURANÇA JURÍDICA. ENTENDIMENTO INFRACONSTITUCIONAL. TEMA N. 1.109/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
+1. "É infraconstitucional e depende da análise de fatos e provas, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à alteração legislativa promovida pela Lei n. 13.670, de 2018, que excluiu da opção pela contribuição substitutiva (CPRB) as pessoas jurídicas que fabricam determinados produtos, inclusive no que se refere à irretratabilidade prevista no art. 9º, § 13, da Lei n. 12.546, de 2011."
+2. Consoante a tese fixada no Tema n. 1.109 do STF, de observância cogente (CPC, art. 927, III), foi afastada a repercussão geral, considerando que a matéria ventilada tem natureza infraconstitucional.
+3. Agravo interno a que se nega provimento.
+VOTO
+O STF, por ocasião do julgamento do RE n. 1.286.672-RG, na sistemática da repercussão geral, consolidou a seguinte tese:
+É infraconstitucional e depende da análise de fatos e provas, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à alteração legislativa promovida pela Lei nº 13.670, de 2018, que excluiu da opção pela contribuição substitutiva (CPRB) as pessoas jurídicas que fabricam determinados produtos, inclusive no que se refere à irretratabilidade prevista no art. 9º, § 13, da Lei nº 12.546, de 2011.
+Nesse sentido é o Tema n. 1.109 do STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Recurso extraordinário. Repercussão geral. Contribuição sobre a folha de salários. Artigo 22, I, da Lei nº 8.212/1991. Contribuição substitutiva sobre a receita bruta. Artigos 7º e 8º da Lei nº 12.547/2011. Alterações da Lei nº 13.670/2018. Exclusão de determinadas atividades econômicas do regime substitutivo. Princípio da anterioridade. Ausência de afronta (art. 11 da Lei nº 13.670/18). Direito adquirido e ato jurídico perfeito. Irretratabilidade no exercício de 2018. Fatos e provas (Súmula nº 279/STF). Questão infraconstitucional. Ausência de repercussão geral. Recurso extraordinário a que se nega seguimento. Firmada a seguinte tese de repercussão geral: É infraconstitucional e depende da análise de fatos e provas, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à alteração legislativa promovida pela Lei nº 13.670, de 2018, que excluiu da opção pela contribuição substitutiva (CPRB) as pessoas jurídicas que fabricam determinados produtos, inclusive no que se refere à irretratabilidade prevista no art. 9º, § 13, da Lei nº 12.546, de 2011.
+(RE n. 1.286.672-RG, relator Ministro Dias Toffoli, julgado em 5/11/2020, DJe de 26/2/2021.)
+No caso, ao dirimir a controvérsia, esta Corte Superior assim se manifestou (fls. 458-459):
+Inicialmente, anoto, diferentemente do que quer fazer crer a ora Agravante, que o Supremo Tribunal Federal, no julgamento do RE 1.286.672, concluiu que tem cunho infraconstitucional a discussão acerca da "Possibilidade de manutenção do pagamento da contribuição previdenciária substitutiva prevista no art. 8º da Lei 12.546/2011 (CPRB), no ano-calendário de 2018, em face da irretratabilidade prevista no art. 9º, § 13, da Lei n. 12.546/2011", de modo que a competência para o exame da matéria é do STJ.
+ ..
+No mérito, a 1ª Turma desta Corte, na assentada de 23.6.2022, quanto do julgamento do AREsp n. 1.932.059/RS, de relatoria do Ministro Manoel Erhardt, Desembargador Convocado do TRF da 5ª Região firmou compreensão segundo a qual a desoneração da folha de pagamento, instituída pela Lei 12.546/2011, representa medida de politica fiscal criada para fomentar as atividades de determinados setores da economia e, assim como todo e qualquer benefício fiscal concedido por liberalidade do poder público, sem contraprestação do particular, não gera direito adquirido, de modo que sua revogação poderia ser feita a qualquer tempo, desde que respeitado o princípio da anterioridade, que, no caso, por se tratar de contribuição previdenciária, sujeitou-se apenas ao prazo nonagesimal, nos termos do art. 195, § 6º, da CF/1988.
+Em vista disso, a suposta ofensa aos princípios do direito adquirido e da segurança jurídica, se, de fato, houvesse, seria meramente reflexa, porquanto dependeria da análise dos arts. 8º e 9º, § 13, da Lei n. 12.546/2011, motivo pelo qual o incide o Tema n. 1.109 do STF.
+Assim, afastada a repercussão geral, consoante a tese fixada no Tema n. 1.109 do STF, de observância cogente (CPC, art. 927, III, parte final), haja vista que a matéria ventilada possui nítida índole infraconstitucional, inviável a própria apreciação do mérito recursal.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a formalização de embargos de declaração com intuito manifestamente protelatório poderá ser sancionada com a multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+É como voto.
