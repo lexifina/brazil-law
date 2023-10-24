@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, que entendeu não ser possível a cobrança de laudêmio no caso, dada a ausência de onerosidade na operação (e-STJ fls. 3.540/3.542).
+Defende o ente federal, em resumo, violação do art. 3º do Decreto n. 2.398/1987, afirmando que a incorporação societária examinada na espécie teria sido onerosa.
+Parecer do MPF pelo não conhecimento do recurso (e-STJ fls. 3.606/3.613).
+Passo a decidir.
+Registro, inicialmente, que a alegação de afronta ao art. 1.022, II, do CPC, de forma genérica, sem a efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação (Súmula 284 do STF) (AgInt no AREsp 1762391/MG, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 24/05/2021, DJe 28/05/2021).
+No caso, não obstante a alegação de violação dos arts. 489 e 1.022 do CPC, não foi demonstrado de maneira clara no recurso especial qual omissão, relevante para o caso, teria persistido após a oposição dos aclaratórios.
+Assim, aplica-se o supracitado verbete sumular.
+Quanto ao mérito, conforme corretamente observado pelo órgão ministerial, "o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior no sentido de que, na operação empresarial de incorporação societária em apreço, não há onerosidade, situação que, por conseguinte, afasta a cobrança de laudêmio, como no caso dos autos" (e-STJ fl. 3.610).
+É pacífica a orientação do STJ de que é indevida a cobrança de laudêmio quando a transferência de domínio útil decorre da incorporação societária, pois a operação não é onerosa, situação que não se confunde com a tese firmada no julgamento do REsp 1.165.276/PE, realizado sob o rito do art. 543-C do CPC/1973, de que "a transferência de domínio útil de imóvel para integralização de capital social de empresa é ato oneroso, de modo que é devida a cobrança de laudêmio, nos termos do art. 3º do Decreto-Lei 2.398/87" (AgInt no REsp n. 1.647.790/RJ, de minha relatoria, julgado em 8/6/2017, DJe de 4/8/2017).
+Aplico, portanto, a Súmula 83 do STJ ao caso.
+Além do mais, o argumento da União de que, no particular, "muito embora não se tenha registrado, expressamente, naquele ato, o valor da cessão da cota parte que a Empresa EDRJU3 PARTICIPAÇÕES LTDA detinha do capital social da empresa ECISA ENGENHARIA, INDÚSTRIA E COMÉRCIO LTDA em favor da Impetrante, o fato é que o mesmo não foi gratuito, mas oneroso, à medida em que se previu um preço para determinado negócio jurídico" (e-STJ, fl. 3.558) não pode ser acolhido, pois pressupõe o reexame da matéria fática alegada, aplicando-se nesse aspecto a Súmula 7 do STJ.
+Por fim, quanto ao fundamento de que "tanto é verdade, que a cláusula quinta do documento de id. 4176771 do processo, informa a subscrição e integralização total do capital social da empresa incorporada, nos seguintes termos  .. ", aplica-se claramente a Súmula 5 do STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, no importe de 10% (dez por cento) sobre o valor já ar bitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
+EMENTA
