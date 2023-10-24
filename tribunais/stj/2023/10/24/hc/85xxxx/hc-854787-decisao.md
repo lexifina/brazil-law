@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EMANUEL JOSE DA S ILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Depreende-se dos autos qu e o paciente foi inicialmente condenado às penas de 07 (sete) anos de reclusão, em regime inicial e ao pagamento de 510 (quinhentos e dez) dias-multa, por infração ao artigo 33, caput, da Lei 11.343/2006 e artigo 14 da Lei 10.826/2003, nos termos da sentença de fls. 124-132.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que deu provimento ao apelo, apenas a fim de fixar o regime prisional inicial semiaberto, mantendo os demais termos da sentença, nos termos do acórdão juntado às fls. 193-205.
+No presente writ, o impetrante sustenta que o acórdão impugnado padece de flagrante ilegalidade, consistente i) na negativa à aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/06; ii) na negativa à substituição da pena privativa de liberdade por restritiva de direitos e iii) no estabelecimento de regime inicial mais gravoso.
+Requer, ao final, a concessão da liminar e da ordem para reconhecer o privilégio do parágrafo 4º, do art. 33, da Lei n. 11.343/2006, em seu patamar máximo, com a fixação do regime prisional aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Pedido liminar indeferido às fls. 216-217.
+Informações prestadas às fls. 224-226 e 227-237.
+O Ministério Público Federal, às fls. 242-247, opinou pelo não conhecimento do habeas corpus, mas pela concessão da ordem, de ofício.
+É o relatório. DECIDO.
+A controvérsia consiste na suposta ilegalidade na negativa ao privilégio previsto no parágrafo 4º do art. 33 da Lei n. 11.343/06, na terceira etapa da dosimetria, bem como na negativa à substituição da pena privativa de liberdade por restritiva de direitos e no estabelecimento de regime inicial mais gravoso.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+O parágrafo 4º do art. 33 da Lei n. 11.343/06 dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+Na espécie, ao contrário do que aduz a defesa, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada não apenas na apreensão dos entorpecentes (23 porções de crack, pesando, aproximadamente, 6,3g, 05 porções de cocaína, pesando, aproximadamente, 1,6g e 03 porções de maconha, pesando, aproximadamente, 31g), mas nas demais circunstâncias do caso concreto, em especial em razão da confissão judicial do paciente, atestando que exercia o tráfico há cerca de um mês, com habitualidade.
+Ademais, verifico dos autos que o paciente também foi condenado como incurso nas penas do artigo 14 da Lei 10.826/2003, em razão da apreensão de uma munição de uso permitido, calibre .38, marca CBC, intacta.
+Assim, a dedicação do paciente a atividades criminosas é elemento apto a justificar a negativa à causa especial de diminuição de pena, nos termos do atual entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+Para que a tese da defesa fosse acolhida, seria necessário amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+Sobre o tema: AgRg no HC n. 769.749/SP, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 14/3/2023; AgRg no HC 695.891/GO, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 13/12/2021; e AgRg no HC 652.335/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 13/12/2021.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
