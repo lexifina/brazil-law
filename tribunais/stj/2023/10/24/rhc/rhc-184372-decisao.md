@@ -1,0 +1,10 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto contra o acórdão exarado no HC n. 202300305576, e m que se req uer a revogação da prisão preventiva, perdeu o seu objeto diante da superveniente alteração fático-processual de Claudiano Alves da Silva.
+De acordo com a s inform ações obtidas na página eletrônica do Tribunal de Justiça de Sergipe, nos autos da Ação Penal n. 202153000069, da 1ª Vara Criminal de Itabaiana/SE, sobreveio a prolação de sentença em 10/10/2023. Na oportunidade, foi julgada procedente a pretensão punitiva estatal para condenar o ora recorrente como incurso na sanção do art. 121, § 2º, incisos I e IV, do Código Penal, às penas de 19 anos e 3 meses de reclusão, em regime inicial fechado . Ainda, foi negado ao réu o direito de recorrer em liberdade, tendo o Magistrado de origem agregado novos fundamentos ao decreto prisional, diferente dos constantes da fl. 812 destes autos.
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação - tendo sido acentuado o requisito da garantia da ordem pública, com a informação inédita de condenação no Processo n. 201153500558, e emergida a ponderação de assegurar a aplicação da lei penal, o que, concretamente, demonstra a periculosidade do acusado -, cujo requisito específico desafia impugnação própria no Tribunal de origem.
+Nesse sentido , os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; e AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020.
+Assi m , perdeu o objeto o presente recurso; julgo-o, consequentemente, prejudicado (art. 34, XI, do RISTJ ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA. DIREITO DE RECORRER EM LIBERDADE NEGADO. NOVO TÍTULO JUDICIAL. ACRÉSCIMO DE FUNDAMENTO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Recurso prejudicado.
