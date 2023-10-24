@@ -1,0 +1,47 @@
+DECISÃO:
+
+    1. Referente às Petições 114.550 e 115.496/2023: Haroldo Kelsen de Araujo Monteiro e Alcy Castelo Branco Diniz Junior informam o trânsito em julgado das decisões proferidas nos autos do cumprimento de sentença nº 0053751-63.2009.8.14.0301, reconhecido em decisão proferida no agravo de instrumento nº 0814810-77.2023.8.14.0000, em trâmite no Tribunal de Justiça do Estado do Pará. Requerem, assim, seja reconhecida a perda superveniente do objeto da presente suspensão de segurança.
+
+    2. Para o exame desses requerimentos, passo a fazer, com base na decisão impugnada nestes autos e em consulta ao sítio eletrônico do Tribunal de Justiça do Estado do Pará, um resumo do caso.
+
+    3. Na ação ordinária nº 0053751-63.2009.8.14.0301, o juízo da 2ª Vara da Fazenda de Belém/PA julgou procedente o pedido, garantindo aos autores, ora requerentes, a participação no curso de formação da academia de polícia e, em caso de aprovação, a nomeação e posse no cargo de Delegado de Polícia Civil. Em apelação, o Tribunal de Justiça do Estado do Pará reformou parcialmente a sentença, “tão somente pelo fato de o Instituto Movens não ter sido citado para integrar a lide, por se tratar de litisconsórcio passivo necessário, sendo então determinado pelo acórdão que os recursos fossem analisados individualmente pela banca examinadora”. Os autores da ação não obtiverem êxito nos recursos subsequentes e o referido acórdão transitou em julgado.
+
+    4.  Com o retorno do processo à origem, o Instituto Movens, apesar de citado, não integrou a lide. O juízo de primeiro grau, em um primeiro momento, determinou o cumprimento da sentença, para que os autores participassem do curso de formação e, em caso de aprovação, fossem nomeados e empossados. Posteriormente, tendo em conta o acórdão proferido pelo Tribunal de Justiça do Estado do Pará, considerou que houve equívoco na decisão anterior e determinou o arquivamento dos autos.
+
+    5. Contra a decisão de reconsideração, os requerentes impetraram o mandado de segurança nº 0809981-87.2022.8.14.0000. A segurança foi concedida por acórdão com o seguinte dispositivo:
+
+    Ante o exposto, PRELIMINARMENTE reconheço de ofício a nulidade dos itens 17.7 e 22.1 do Edital nº 01/2009 - Concurso Público C-149, NO MÉRITO, CONCEDO A SEGURANÇA, para ratificar a liminar concedida para determinar que a autoridade coatora (Juízo da 2ª Vara da Fazenda), mantenha a decisão que determinou o cumprimento de sentença em todos os seus termos; assim como determino a intimação do Estado do Pará, na pessoa do Exmo. Governador do Estado, para que este, no uso de suas atribuições, faça a NOMEAÇÃO E POSSE dos impetrantes Wilson Vasconcelos Mourão Filho, Reinaldo Santos Barros, Cristiane da Silva Santos, Solon Bayde Neto, Haroldo Kelsen de Araújo Monteiro e Alcy Castelo Branco Diniz Junior no cargo de Delegados de Polícia Civil do Estado do Pará.
+
+    6. Essa é uma das decisões que constituem o objeto da presente suspensão de segurança. Após o deferimento da medida cautelar, o Plenário do Supremo Tribunal Federal, por unanimidade, julgou procedente o pedido, para “sustar os efeitos das decisões proferidas no Mandado de Segurança nº 0800134-27.2023.8.14.0000 (Cláudia Teresinha Guerreiro Pitman Machado e Paula Helena Mendes Lima) e no Mandado de Segurança nº 0809981-87.2022.8.0.14.0000 (Paulo Eduardo Vaz Bentes, Ronaldo Adriano Miranda De Jesus, Wilson Vasconcelos Mourão Filho, Reinaldo Santos Barros, Cristiane Da Silva Santos, Solon Bayde Neto, Haroldo Kelsen De Araújo Monteiro e Alcy Castelo Branco Diniz Junior), até o trânsito em julgado das decisões de mérito a serem proferidas naquelas impetrações”. Transcrevo trecho pertinente do voto condutor do julgado:
+
+    5. Reveste-se de densa plausibilidade jurídica o pedido formulado pelo Estado do Pará.
+
+    6. É de ressaltar que sequer considerada, pelo Tribunal de Justiça do Estado do Pará, a patente decadência do direito de impetrar mandado de segurança, tendo em vista o transcurso de mais de uma década desde o encerramento do Concurso de 2009.
+
+    7. Mesmo se superada essa questão processual, o Desembargador Relator do mandado de segurança acolheu a irresignação dos impetrantes quanto ao conteúdo das questões e a correção das respostas da prova, substituindo, aparentemente, por critérios próprios, aqueles adotados pela comissão de concurso.
+
+    8. Como se vê, as decisões impugnadas parecem ter transgredido a tese de repercussão geral firmada por esta Suprema Corte exame do tema nº 485/RG, segundo a qual “Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas”, exceto quanto ao “juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame”. Como destacado naquele julgamento paradigmático (RE nº 632.853), em atenção à reserva de administração e à necessidade de preservar a isonomia entre os candidatos participantes de concurso público, inviável a atuação jurisdicional voltada à substituição dos critérios de correção estabelecidos por banca examinadora, ressalvadas situações de flagrante inconstitucionalidade ou ilegalidade. No voto então proferido, na condição de relator do mencionado recurso extraordinário, o Ministro Gilmar Mendes asseverou:
+
+    (...)
+
+    9. No caso, não há questionamento sobre a aderência do conteúdo da prova ao edital do concurso público. Circunscreve-se a insurgência dos candidatos impetrantes ao conteúdo das questões objetivas e aos critérios de correção adotados pela banca examinadora.
+
+    10. Diante desse cenário, tendo presente a jurisprudência desta Corte na matéria (Tema nº 485/RG), vislumbro a possibilidade de grave lesão à ordem econômica, em decorrência da obrigação imposta ao Estado de custear a participação, em curso de formação, de candidatos sub judice, somando-se a esse quadro as consequências fáticas e jurídicas da nomeação e posse de vários servidores, sem prévia programação orçamentária, com risco agravado em face do possível efeito multiplicador de referida decisão. (destaque acrescentado)
+
+    7. Na sequência, esta Corte rejeitou os embargos de declaração opostos contra o referido acordão e, ante o caráter manifestamente protelatório dos recursos, determinou a imediata certificação do trânsito em julgado e o arquivamento dos autos. A Secretaria Judiciária certificou o trânsito em julgado no dia 29.09.2023.
+
+    8. No cumprimento da sentença nº 0053751-63.2009.8.14.0301, o juízo de primeiro grau reconheceu que, à exceção de Wilson Cavalcante de Souza, “os demais autores obtiveram, ainda de forma precária, a nomeação”. Determinou, então, a suspensão da tramitação do feito, até o julgamento final dos processos nº 0809981-87.2022.8.14.0000, 0806386-46.2023.8.14.0000 e 0803755-32.2023.8.14.0000, sob o fundamento de que “os MS´s ainda não foram decididos definitivamente, podendo adotar entendimento diverso do contido nas suspensões de liminares e serem alcançados pela coisa julgada, com manutenção das decisões do Tribunal de Justiça, de sorte que é prudente aguardar os acórdãos, uma vez que ocorre a hipótese tratada no art. 313, V, a, do Código de Processo Civil”.
+
+    9. Contra essa decisão, os requerentes interpuseram o agravo de instrumento nº 0814810-77.2023.8.14.0000 perante o Tribunal de Justiça do Estado do Pará. Em 28.09.2023, o relator atribuiu efeito translativo ao recurso, reconhecendo o trânsito em julgado das decisões proferidas no cumprimento de sentença nº 0053751-63.2009.814.0301. Além disso, concedeu tutela de urgência, para manter os agravantes no cargo de Delegado de Polícia civil até o julgamento final do recurso. Assinalou que a “decisão proferida nos autos de Suspensão de Segurança 5.634/PA que tramita no Supremo Tribunal Federal não alcança o feito de origem de cumprimento de sentença (processo n. 0053751-63.2009.814.0301), tendo apenas sobrestado os efeitos do acórdão prolatado nos autos do mandamus nº 0809981-87.2022.8.14.0000, tendo sequer sobrestado o processamento e julgamento do referido mandamus que encontra-se em aguardando julgamento dos embargos de declaração opostos em face do referido acórdão”.
+
+    10. Nesse cenário, em primeiro lugar, concluo que não ocorreu a alegada perda de objeto, pois a presente suspensão de segurança impugna as decisões proferidas nos mandados de segurança nº 0800134-27.2023.8.14.0000 e nº 0809981-87.2022.8.14.0000, ambas sem trânsito em julgado. Em segundo lugar, constato que houve equívoco na decisão da origem ao afirmar que “a suspensão [SS 5634] não mais vigora”. Na verdade, o Tribunal de Justiça do Estado do Pará parece ter deixado de observar a decisão proferida por esta Corte ao reconhecer o trânsito em julgado do cumprimento de sentença nº 0053751-63.2009.8.14.0301. De fato, a matéria ainda está judicializada, já que a decisão proferida no cumprimento de sentença é objeto do mandado de segurança nº 0809981-87.2022.8.14.0000. Em tal feito, apesar de a segurança ter sido concedida, os efeitos do acórdão seguem suspensos por decisão da Presidência deste Supremo Tribunal Federal.
+
+    11. Diante do exposto, indefiro os requerimentos. Oficie-se ao Juízo da 2ª Vara da Fazenda de Belém/PA e o Tribunal de Justiça do Estado do Pará, remetendo cópia desta decisão e da decisão de mérito proferida nesta suspensão de segurança.
+
+    Publique-se.
+
+Brasília, 24 de outubro de 2023.
+
+Ministro Luís Roberto Barroso
+
+Presidente
