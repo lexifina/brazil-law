@@ -1,0 +1,12 @@
+DECISÃO
+JONATHAN RICARDO DA SILVA alega sofrer coação ilegal em face de ato coator não especificado.
+Em confusas razões, o impetrante requer a "CONCESSÃO DE ORDEM DE HABEAS CORPUS" para "o julgamento dos autos 026/2.16.0005202-0 (CNJ nº 0013872-86.2016.8.21.0026" e a análise do pleito de "UNIFICAÇÃO DE PENAS, requerida na Vara de Execuções Criminais da Comarca de Santa Cruz do Sul/RS" (fl. 3). Assinala a necessidade de decisão, de forma urgente, do AREsp n. 1807513/RS, "visando a unificação de penas" (fl. 4). Também faz considerações sobre a remição da pena", descontados "1/3 pela fuga" (fl. 6), sem indicação do lastro jurídico do pedido.
+Os termos da petição inicial são deficientes, vício que impede a compreensão da controvérsia.
+No Processo 2.16.0005441-3, por crime ocorrido aos 9/8/2016, o postulante foi condenado a 16 anos e 4 meses de reclusão, mais 30 dias-multa. No Processo n. 2.16.0005202-0, em relação a fato verificado no dia 17/8/2016, sobreveio sentença que reconheceu a prática de latrocínio consumado e latrocínio tentado, em concurso formal, com a fixação de 21 anos de reclusão. O AREsp n. 1807513/RS foi julgado por esta Corte, com certidão de trânsito aos 08/08/2023.
+Inexiste prova pré-constituída, de requerimento, ao Juiz da VEC ou ao Tribunal de Justiça, de aplicação do art. 71, parágrafo único, do CP, por ocasião da unificação das penas, ou de remição das penas do condenado.
+A defesa não provocou a jurisdição ordinária. Por isso, este habeas corpus foi impetrado sem que houvesse causa decidida por Tribunal de Justiça sobre o pedido de reconhecimento de continuidade delitiva na fase da execução penal. Nos termos do art. 105 da CF, não se verifica a inauguração da competência desta Corte para conhecer o habeas corpus e resolver o incidente, de forma inaugural, em indevida supressão de duas instâncias.
+O "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+Incabível a resolução de questão de direito "não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância" (AgRg no HC n. 680.312/MS, relatora Ministra Laurita Vaz, 6ª T., DJe 10/10/2022).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
