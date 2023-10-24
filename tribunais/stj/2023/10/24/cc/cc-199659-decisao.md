@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (suscitante) e o JUÍZO FEDERAL DA 2A VARA DE LONDRINA - SJ/PR (suscitado).
+O conflito está relacionado à ação ajuizada em desfavor do Instituto Nacional do Seguro Social em que a parte autora objetiva a concessão de benefício de auxílio-acidente.
+A ação foi proposta no Juízo Federal da da 2ª Vara de Londrina - SJ/PR, que declinou da competência por entender que, "nos termos do artigo 109, inciso I, da Constituição Federal, e consoante entendimento consolidado pelo STF e pelo STJ, compete à Justiça Estadual processar e julgar litígios decorrentes de acidente de trabalho, tanto para conceder o benefício quanto para sua revisão" (fl. 243).
+Em apelação, o Tribunal de Justiça do Estado do Paraná, por sua vez, suscitou o presente conflito, declarando a incompetência da Justiça estadual para o julgamento da causa, uma vez que, tendo o acidente de percurso ocorrido durante a vigência da Medida Provisória 905/2019, não havia como equipará-lo a acidente de trabalho para fins de concessão de benefício previdenciário de natureza acidentária.
+Eis a ementa do julgado (fl. 359):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - AÇÃO PREVIDENCIÁRIA DE CONCESSÃO DE AUXÍLIO-ACIDENTE - SENTENÇA PROCEDENTE PARA CONCEDER À PARTE AUTORA O BENEFÍCIO AUXÍLIO-ACIDENTE - DEMANDA AJUIZADA ORIGINALMENTE PERANTE A JUSTIÇA FEDERAL - DECLINAÇÃO DE COMPETÊNCIA PARA ESTA JUSTIÇA ESTADUAL - COMPETÊNCIA QUE SE FIRMA COM BASE NO PEDIDO E NA CAUSA DE PEDIR - PETIÇÃO INICIAL QUE PERFILHA ACIDENTE DE PERCURSO - EVENTO OCORRIDO DURANTE A VIGÊNCIA DA MEDIDA PROVISÓRIA Nº 905/2019, A QUAL DEIXOU DE EQUIPARAR ACIDENTE DE PERCURSO A ACIDENTE DE TRABALHO - COMPETÊNCIA PARA PROCESSAR E JULGAR A PRESENTE DEMANDA, PORTANTO, QUE RECAI SOBRE A JUSTIÇA FEDERAL, NÃO SOBRE ESTA JUSTIÇA ESTADUAL - NECESSIDADE DE SUSCITAÇÃO, DE OFÍCIO, DO CONFLITO NEGATIVO DE COMPETÊNCIA - DICÇÃO DO ARTIGO 105, INCISO I, ALÍNEA "D", DA CONSTITUIÇÃO FEDERAL - REMESSA DOS AUTOS AO SUPERIOR TRIBUNAL DE JUSTIÇA QUE SE IMPÕE.
+O Ministério Público Federal, em parecer, opinou a favor de que fosse declarado competente o Juízo de Direito da 2ª Vara Federal de Londrina - SJ/PR, o suscitado (fls. 376/381).
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+Segundo o pacífico entendimento desta Corte Superior de Justiça, o teor da petição inicial é elemento essencial ao deslinde do conflito, visto que a definição da competência decorre da verificação da causa de pedir e do pedido nela apresentados, e não das conclusões do laudo pericial, que podem ser afastadas no julgamento da ação.
+Na presente hipótese, a parte autora pleiteou a concessão de benefício de auxílio-acidente alegando que "em 26/11/2019, conforme prontuário médico, foi acometido de acidente de transito (COLISÃO), durante o percurso utilizado até o trabalho" (fl. 5).
+Na inicial, descreve que (fls. 5/8):
+Após o período de internação para estabilizar o seu quadro, o autor, em decorrência da gravidade do ocorrido, teve que passar por uma cirurgia. Como houve sequelas, a realização de fisioterapia foi indispensável.
+Em virtude deste fato, restaram sequelas definitivas no autor, decorrentes de: S42.4 - Fratura da extremidade inferior do úmero.
+Ocorre que a lesão sofrida no acidente pelo autor foi muito extensa, ficando o mesmo com sequelas para toda a vida, inclusive, gerando encurtamento do membro superior (vide foto abaixo):
+ ..
+É de se verificar Excelência, que o autor ficou com sequelas permanentes, conforme prontuário médico, inclusive, tal lesão é percebida por todos, uma vez que há uma discrepância de tamanho entre o seu braço lesionado e o seu braço esquerdo.
+Neste ínterim, deve se levar em consideração a profissão desempenhada pelo autor, visto que, para o seu trabalho a mobilidade do cotovelo é indispensável, já que exerce a função de segurança armada, devendo, necessariamente, portar às mãos uma arma calibre 12 e um revolver 38 na cintura.
+Sem contar que seu trabalho exige que, caso ocorra algum imprevisto no meio da escolta, ele tenha que entrar em uma luta corporal, fato que após o acidente o autor está em desvantagem pelo fato de seu braço não ter a mesma mobilidade que antes.
+A cirurgia que o autor fez teve de colocar uma haste de ferro e um fio para segurar a placa e os tendões.
+Tal lesão agora o impossibilita de exercer atividades físicas como antes fazia, tal como, o ciclismo, (vide fotos abaixo).
+ ..
+Desta forma, o Autor requereu, junto à Autarquia Previdenciária, a concessão de benefício por incapacidade.
+Foi concedido o benefício auxílio doença (31) (NB630.680.392-4),em 11/12/2019, conforme se observa na carta de concessão acostado nos autos.
+Ocorre que, após a cessação da referida benesse, o autor permaneceu com grave diminuição de sua capacidade laboral, em virtude das sequelas causadas pela consolidação das lesões anteriormente evidenciadas.
+Assim sendo, conforme estabelece o artigo 86 da LBPS, havendo redução da capacidade para o trabalho, a concessão do auxílio-acidente em data imediatamente posterior à cessação do auxílio-doença deveria ter ocorrido de forma automática pela via administrativa.
+Porém, tendo o INSS apenas cessado o auxílio-doença, é pertinente o ajuizamento da presente demanda.
+Consoante o entendimento do Superior Tribunal de Justiça, compete à Justiça estadual apreciar e julgar as ações que envolvam benefícios acidentários, nos termos do que dispõe a parte final do art. 109, I, da Constituição Federal e as Súmulas 15/STJ e 501/STF. Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO E JULGAMENTO DAS DEMANDAS QUE VERSEM SOBRE CONCESSÃO E REVISÃO DE BENEFÍCIO DECORRENTE DE ACIDENTE LABORAL. SÚMULAS 15/STJ E 501/STF. COMPETÊNCIA FIXADA DE ACORDO COM O PEDIDO EXPRESSO NA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. A Justiça Estadual é competente para processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício decorrente de acidente de trabalho, como também as relações daí decorrentes (restabelecimento, reajuste, cumulação), uma vez que o art. 109, I da CF não fez qualquer ressalva a este respeito. Súmulas 15/STJ e 501/STF.
+2. O teor da petição inicial é elemento essencial ao deslinde do conflito, uma vez que a definição de competência decorre da verificação da causa de pedir e do pedido apresentados na inicial.
+3. Agravo Regimental do MINISTÉRIO PÚBLICO FEDERAL a que se nega provimento. (AgRg no CC n. 141.868/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 14/12/2016, DJe de 2/2/2017.)
+Contudo, no presente caso, em que pese à parte autora pleitear a concessão de benefício de natureza acidentária, verifico que a demanda foi ajuizada em 1º/7/ 2020, quando estava em vigor a Medida Provisória 905, de 11/11/2019, que retirou a figura de equiparação do acidente de trajeto a acidente de trabalho para fins previdenciários.
+Desse modo, tendo a ação sido ajuizada na vigência da MP 905/2019, que teve sua vigência encerrada em 18/8/2020, não há como reconhecer a competência da Justiça estadual, uma vez que foi afastada a equiparação do acidente de percurso ao acidente de trabalho.
+Nesse sentido, cito a decisão monocrática proferida no CC 180.399/MT, da relatoria do Ministro Gurgel de Faria, publicada em 17/8/2021.
+Ante o exposto, conheço do presente conflito para declarar a competência da Justiça Federal para processamento e julgamento do feito.
+Publique-se. Comunique-se.
+EMENTA
