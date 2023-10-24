@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DO ESPÍRITO SANTO contra acórdão prolatado, por maioria, pela 2ª Câmara Cível do Tribunal de Justiça do Estado do Espírito Santo no julgamento de Apelação e Remessa necessária, assim ementado (fl. 666/667e):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE APOSENTADORIA. ART. 30 DA LEI COMPLEMENTAR ESTADUAL Nº 657/2012. SERVIDOR APOSENTADO POR INVALIDEZ. DIREITO AO PERCEBIMENTO DE PROVENTOS INTEGRAIS EQUIVALENTE AOS SUBSÍDIOS DA ÚLTIMA TABELA DE REFERÊNCIA DO CARGO OCUPADO. EXTENSÃO AOS SERVIDORES JÁ APOSENTADOS DESDE QUE ABRANGIDOS PELA EC Nº 41/2003. SERVIDOR QUE INGRESSOU NOS QUADROS DO SERVIÇO PÚBLICO EM 1988 E APOSENTADO POR INVALIDEZ EM 26/09/2005. DIREITO À REVISÃO PRETENDIDA. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA ILÍQUIDA. FIXAÇÃO NA FASE DE LIQUIDAÇÃO. ART. 85, § 4º, II, DO CPC. OBJETO RECURSAL QUE SE RESTRINGIA AO VALOR FIXADO A TÍTULO DE HONORÁRIOS. VENCIDA A TESE QUE CONFIRMAVA A SENTENÇA. REMESSA NECESSÁRIA CONHECIDA. SENTENÇA REFORMADA. RECURSO PREJUDICADO.
+1. O Art. 30 da Lei Complementar Estadual nº 657/2012 assegura aos servidores dos quadros da Polícia Civil aposentados por invalidez o direito aos proventos integrais, com direito ao percebimento dos subsídios da última tabela de referência do cargo, sendo que o Art. 37 do diploma estadual mencionado estende o referido benefício aos servidores já aposentados, desde que tenham ingressados na carreira pública até 19/12/2003, data de publicação da Emenda Constitucional nº 41/2003.
+2. No caso, o requerente ingressou no serviço público em 1988, encontrando-se aposentado por invalidez desde 26/09/2005, de modo que faz jus à revisão previdenciária.
+3. Em caso de sentença ilíquida, o Art. 85, § 4º, II, do Código de Processo Civil determina que o percentual devido a título de honorários advocatícios seja fixado na fase de liquidação do julgado, devendo tal condenação ser decotada da sentença.
+4. Considerando que o objeto da irresignação recursal se restringia aos valores fixados a título de honorários, resta prejudicada a análise do recurso interposto.
+5. Vencida a tese que confirmava a sentença sujeita ao duplo grau de jurisdição obrigatório e julgava prejudicado o recurso.
+6. Remessa necessária conhecida. Sentença reformada. Recurso prejudicado.
+Com amparo no art. 105, III, a, da Constituição da República, aponta ofensa ao art. 85, §§ 2º, 3º, 4º, 6º e 8º do Código de Processo Civil, alegando-se, em síntese, a impossibilidade de fixação de honorários advocatícios por equidade, como na hipótese dos autos.
+Com contrarrazões (fls. 709/713e), o recurso foi inadmitido (fls. 715/720e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 747e).
+Em juízo de retratação, manteve-se a decisão de inadmissibilidade (fl. 737e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Quanto à verba sucumbencial, o tribunal de origem concluiu que, sendo ilíquida a sentença, a fixação dos honorários deve ser postergada para a fase de liquidação do julgado, conforme se extrai dos seguintes excertos do acórdão recorrido (fls. 672/673e):
+Quanto a condenação do IPAJM ao pagamento de honorários advocatícios, objeto exclusivo da irresignação recursal do autos, nota-se que a sentença é ilíquida, o que atrai a regra do Art. 85, § 4º, II, do Código de Processo Civil, a qual
+posterga a fixação do percentual de honorários para a fase de liquidação de
+sentença:
+CPC-Art. 85 (..)
+§ 4o Em qualquer das hipóteses do § 3o:
+I - não sendo líquida a sentença, a definição do percentual, nos
+termos previstos nos incisos I a V, somente ocorrerá quando
+liquidado o julgado;
+Sendo assim, deverá ser decotada da sentença a condenação do IPAJM ao
+pagamento de honorários advocatícios, de modo que a análise do recurso autoral
+resta prejudicada.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, implicando a inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento, segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1.407.870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+Assim, tratando-se de recurso sujeito ao Código de Processo Civil de 2015 e configurada a hipótese de não conhecimento do recurso, de rigor a fixação de honorários recursais em desfavor da Recorrente, majorando em 10% (dez por cento) o valor arbitrado pelas instâncias ordinárias, a teor do art. 85, § 3º, I a V, § 4º, II, e § 11, do codex, observados os percentuais mínimos e máximos de acordo com o montante a ser apurado em liquidação.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
