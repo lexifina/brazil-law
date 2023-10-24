@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO MINEIRO DE AGROPECUARIA, com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+REEXAME NE CESSÁRIO -APELAÇÕES CÍVEIS -AÇÃO ORDINÁRIA -INSTITUTO MINEIRO DE AGROPECUÁRIA (IMA)-PROMOÇÃO POR ESCOLARIDADE ADICIONAL -INSTITUIÇÃO PELA LEI N.º 15.303/2004 -REGULAMENTAÇÃO -DECRETO N.º 44.769/2008 E RESOLUÇÃO CONJUNTA N.º 6569/2008 -EXTRAPOLAÇÃO DO PODER REGULAMENTAR -ESTIPULAÇÃO DE CONDIÇÕES NÃO PREVISTOS EM LEI -IMPOSSIBILIDADE -IRDR 1.0000.16.049047-0/001 -LIMITAÇÕES TEMPORAIS AFASTADAS -REQUISITOS PARA A PROMOÇÃO -ATENDIDOS -PROCEDÊNCIA PARCIAL DO PEDIDO -MANUTENÇÃO.
+- A promoção por escolaridade adicional instituída pela Lei n.º 15.303/2004 foi regulamentada pelo Decreto n.º 44.769/2008 e pela Resolução Conjunta SEPLAG n.º 6.569/2008, que criaram limites à concessão do benefício, extrapolando seu poder regulamentar, conforme reconhecido em tese firmada no julgamento do IRDR 1.0000.16.049047-0/001.
+- Os obstáculos imotivadamente criados pelo Decreto e pela Resolução, que deveriam simplesmente regulamentar o que previsto na Lei n.º 15.303/2004, são absolutamente antijurídicos por violarem o princípio da isonomia, prejudicando o servidor que, embora preencha os requisitos dispostos na lei, não pode obter a promoção pelo fato de não ter cumprido os limites por elas impostos.
+- Cumpridos, pelos autores, os requisitos necessários para a obtenção da promoção por escolaridade adicional, deve ser mantida a sentença que julgou procedentes os pedidos iniciais.
+-Primeiro recurso provido em parte e segundo não provido. Exaurido o objeto do reexame necessário (fl. 354).
+Os embargos de declaração opostos foram rejeitados (fls. 439/449 e 474/484).
+Em seu recurso especial, o recorrente aponta violação aos arts. 345, II, 373, I, 489, II, § 1º, IV, e 1.022, I e II, do Código de Processo Civil e 1º-F da Lei Federal 9.494/1997.
+Sustenta: (i) negativa de prestação jurisdicional e (ii) que "está suspensa a decisão do STF que reconhecera a inconstitucionalidade do art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009, na parte em que o preceito legal determina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança" (fl. 505).
+Contrarrazões às fls. 514/522.
+O Tribunal de origem, em juízo de admissibilidade, negou seguimento ao recurso quanto ao Tema 905 do Superior Tribunal de Justiça, contudo admitiu o recurso com relação à alegada ofensa ao art. 1.022 do CPC.
+A parte recorrente não interpôs recurso quanto à matéria envolvendo o Tema 905 do STJ.
+É o relatório.
+A irresignação não merece prosperar.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade. Ressalto que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+Verifico que o acórdão recorrido decidiu de forma fundamentada a controvérsia:
+A Lei Estadual n.º 15.303/2004 trata do direito à promoção por escolaridade adicional das carreiras do Grupo de Atividades de Agricultura e Pecuária do Poder Executivo e assim estabelece:
+ ..
+A promoção por escolaridade adicional prevista na referida norma foi regulamentada pelo Decreto n.º 44.769/2008, nos seguintes termos:
+ ..
+Em consonância com a previsão do inc. IV do art. 4º retro transcrito, a Secretaria de Estado de Planejamento e Gestão editou a Resolução Conjunta n.º 6.582/2008, que assim dispôs:
+ ..
+Depreende-se, da leitura do Decreto e da Resolução, que ambos criaram limites à concessão da promoção por escolaridade adicional não previstos na Lei que instituiu o benefício.
+Em verdade, a data limite exigida no Regulamento, que condiciona o pedido administrativo a conclusão do estágio probatório e requerimento formulado em até 60 (sessenta) dias após a data de publicação da Resolução Conjunta acaba por impedir que nenhum servidor dos concursos do IMA de 2005 e 2008 se enquadre na exigência, pois não adquiriram a estabilidade antes da entrada em vigor do referido Decreto.
+Em verdade, o Decreto estipulou além de exigências temporais para a conclusão do curso de nível superior, exigências para a realização das avaliações de desempenho e para requerimento da promoção.
+A seu turno, a Resolução, além de estabelecer limites temporais para requerimento da promoção, consignou quais áreas de ensino superior seriam consideradas para fins de concessão do benefício e determinou a necessidade de conclusão do estágio probatório.
+Tem-se, portanto, que os obstáculos imotivadamente criados por referidas normas, que deveriam simplesmente regulamentar o que previsto na Lei n. 15.303/2004, são absolutamente antijurídicos por violarem o princípio da isonomia, eis que prejudicam os servidores que, embora preencham os requisitos dispostos na lei, não podem obter o benefício pelo simples fato de que não cumpriram os limites por elas impostos.
+Volvendo à situação dos autos, verifica-se que o indeferimento da promoção dos servidores, à exceção de Geraldo Braz Ferreira, se deu em virtude de terem adquirido a estabilidade após a entrada em vigor do Decreto 44.769/2008.
+Isso porque os servidores Tiago Gonçalves Rosa, Clarice do Carmo Ferreira Couto e Renata da Cruz Ferreira, foram admitidos em 11/07/2005, 02/04/2012 e 11/07/2005. Contudo, tal benefício era devido tão somente ao "servidor ocupante de cargo de provimento efetivo até 31 de dezembro de 2.007", razão pela qual tais servidores não fazem jus ao benefício da promoção por escolaridade adicional.
+Já em relação a Geraldo Braz Ferreira, "considerando que o servidor em tela já atingiu o nível V da carreira, que corresponde à escolaridade de nível superior, para alcançar o nível VI da carreira precisa preencher novamente os requisitos do art. 16 §1º da Lei 15.303/2004"
+De fato, conforme já demonstrado acima, a utilização do mesmo título para a promoção a níveis que exigem a mesma escolaridade do servidor é vedada pelo ordenamento de regência, o que impede a promoção por escolaridade em relação a Geraldo Braz Ferreira para o nível VI.
+Em relação aos demais requerentes, contudo, depreende-se que as justificativas para o indeferimento do pedido de promoção formulado estão relacionadas às limitações impostas pela Resolução em epígrafe, que, como mencionado alhures, são indevidas por extrapolarem o poder regulamentar.
+Dessa feita, estou em que merece ser mantida a r. sentença que julgou parcialmente procedente o pedido inicial.
+Sobre a impossibilidade de conceder a promoção ao servidor ainda em estágio probatório, o artigo 18 da Lei 15.464/2005, é taxativo ao consignar que:
+ ..
+O artigo 18 acima transcrito condiciona à concessão da primeira promoção do servidor à conclusão do estágio probatório.
+Assim, não há a possibilidade de se conceder a promoção por escolaridade adicional ao servidor ainda não estável, pelo que conquanto os autores tenham implementado os requisitos da escolaridade adicional, certo é que a concessão da aludida promoção por escolaridade adicional somente pode ocorrer após tal data (conclusão do estágio probatório) e, a partir de então, podem receber promoções na carreira a cada dois anos, conforme previsão legal, até alçar o seu nível de escolaridade.
+Portanto, merece reforma, a sentença no ponto em que reconheceu o direito da autora "retroativos à data da citação válida". pois se deve considerar a conclusão do estágio probatório, com os reflexos legais a partir de tal data (fls. 359/364).
+Da análise dos trechos acima colacionados, verifico que o Tribunal de origem afastou não apenas as limitações temporais previstos no Decreto Estadual 44.769/2008 e na Resolução Conjunta 6.582/2008 mas também os demais requisitos porque "os obstáculos imotivadamente criados por referidas normas, que deveriam simplesmente regulamentar o que previsto na Lei n. 15.303/2004, são absolutamente antijurídicos por violarem o princípio da isonomia, eis que prejudicam os servidores que, embora preencham os requisitos dispostos na lei, não podem obter o benefício pelo simples fato de que não cumpriram os limites por elas impostos" (fls. 362/363).
+Quanto à matéria de fundo, ressalto que demanda análise da Lei Estadual 15.303/2004 e do Decreto Estadual 44.769/2008, providência inviável em recurso especial por encontrar óbice na Súmula 280/ STF, aplicada por analogia ("por ofensa ao direito local não cabe recurso extraordinário").
+Ante o exposto, conheço parcialmente do recurso especial e nessa extensão, nego-lhe provimento.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimações necessárias.
+EMENTA
