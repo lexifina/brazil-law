@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região.
+Na origem, o ora recorrente ajuizou a subjacente ação civil pública objetivando a condenação da parte ré às sanções do art. 12, III, da Lei 8429/1992, uma vez que não teria dado publicidade às contas públicas, omitindo-se de criar o portal da transparência, segundo os requisitos da legislação pátria, incorrendo assim nos incisos II e IV do art. 11 da Lei 8.429/1992.
+O Juízo de 1º Grau julgou improcedente o pedido autoral (fls. 95/98).
+Por sua vez, de ofício, o Tribunal de origem extinguiu o processo sem a resolução do mérito, em face do acolhimento da preliminar de ilegitimidade ativa ad causam do Parquet federal, nos termos da ementa que segue (fls. 152/153):
+CONSTITUCIONAL. ADMINISTRATIVO E PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. AÇÃO EM QUE SE DISCUTE ILEGALIDADES/IRREGULARIDADES NO PORTAL DE TRANSPARÊNCIA DE ENTE MUNICIPAL. ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO FEDERAL.
+1. Apelação interposta pelo Ministério Público Federal contra sentença que, em sede de ação civil pública por ato de improbidade administrativa (art. 11, II e IV) ajuizada em face do prefeito do município de Carneiros/AL, rejeitou a ação, nos termos do art. 17, §8º, da Lei 8.429/92, por manifesta improcedência do pedido de condenação nas sanções do art. 12, III, da Lei 8.429/92, e no pagamento de indenização por dano moral coletivo no valor de R$ 200.000,00 (duzentos mil reais).
+2. O Juízo de origem entendeu que i) "não identifico narrativa do Ministério Público Federal no sentido de aduzir, por exemplo, o evidente intento do gestor municipal demandado, em ocultar a forma como são despendidas as receitas públicas auferidas pelo Município, o que afasta a pretensão da existência de ato ímprobo"; ii) "(..) a correta implantação do portal da transparência, em que pese obrigação legal a ser cumprida por todos os órgãos públicos, encontra dificuldades operacionais, sobretudo nos municípios de pequeno porte, em que o quantitativo de servidores públicos é, sabidamente, diminuto"; iii) "assim, muito embora devam os gestores empreender esforços para implementar o portal da transparência, considerar que a demora na consecução de tal ato por si só configura ato passível de sanção por improbidade administrativa mostra-se intervenção excessivamente gravosa. O simples manejo de ação civil pública com proposta de celebração de Termo de Ajustamento de Conduta apresenta-se como via necessária e adequada. No ponto, registro a existência de diversas ações civis públicas com o propósito de condenar municípios alagoanos a implantar referido portal, nas quais houve êxito na celebração de TAC"; iv) "por outro lado, embora inexista portal da transparência específico do Município, há o Sistema desenvolvido pelo Tribunal de Contas do Estado de Integrado de Controle e Auditoria Pública (SICAP), Alagoas, bastante, ao menos em parte, para possibilitar a fiscalização da contas públicas pela população e autoridades encarregadas"; e v) "conforme se vê no portal (na página "acompanhamento de envio"), o Município aderiu ao sistema e tem rotineiramente prestado informações".
+3. Esta Terceira Turma já se manifestou no sentido da ausência de interesse federal, nas ações em que se discute ilegalidades/irregularidades no Portal de Transparência de ente municipal, portanto não há como reconhecer a legitimidade ativa do Ministério Público Federal.
+4. É que i) "nos moldes traçados no art. 59 da LC nº 101/2000, a fiscalização do cumprimento das normas contidas na Lei de Responsabilidade Fiscal é acometida de forma expressa ao Ministério Público e ao Tribunal de Contas do respectivo estado da federação"; e ii) o interesse restringe-se à comunidade local ou, no máximo, ao âmbito estadual.
+5. Precedente: PROCESSO: 08002470920164058504, DESEMBARGADOR FEDERAL ROGÉRIO FIALHO MOREIRA, 3ª Turma, JULGAMENTO: 28/06/2018.
+6. Reconhecimento, de ofício, da ilegitimidade ativa do Ministério Público Federal. Apelação prejudicada. Extinção do processo sem resolução do mérito.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 184/186).
+Sustenta o recorrente violação aos arts. 3º, 17, 18 e 485, VI, do CPC c/c o art. 17 da Lei 8.429/1992, ao argumento de que "o ato ímprobo imputado ao demandado - não implantação do Portal da Transparência no município de Carneiros/AL - justifica  sua  legitimidade  ..  para o ajuizamento da respectiva Ação Civil Pública, na medida em que a inércia envolve interesses caros à União Federal" (fl. 198).
+A tanto, afirma que a implantação de um portal municipal de transparência tem por finalidade permitir o monitoramento das verbas federais transferida ao município, e que "Sem essas informações, os órgãos federais de controle ficam impedidos de, com a desejável agilidade, fiscalizar os recursos públicos envolvidos e ficam à mercê do envio de ofícios e requisições, por meio de papel, o que consome tempo e dinheiro" (fl. 198).
+Segue afirmando, assim, que (fls. 198/199):
+O interesse econômico federal que justifica isofismavelmente a legitimidade ativa ad causam do recorrente é tão patente que o art. 73-C, da Lei de Responsabilidade Fiscal (incluído pela LC 131/09), estabelece que o não atendimento, até o encerramento dos prazos previstos no art. 73-B, das determinações contidas nos incisos II e III do parágrafo único do art. 48 e no art. 48-A, sujeita o ente à sanção prevista no inciso I do § 3º do art. 23 da Lei Complementar nº 101/2000, isto é, não poderá receber transferências voluntárias da União Federal enquanto perdurar a irregularidade.
+Requer, assim, o provimento do apelo nobre para q ue "seja reconhecida a legitimidade do ora recorrente para o ajuizamento da Ação Civil Pública em tela, com a consequente determinação do retorno destes autos ao Egrégio Tribunal Regional Federal da 5ª Região, para que sejam examinados os fundamentos da apelação" (fl. 199).
+Sem contrarrazões (fl. 214).
+Recurso admitido na origem (fl. 215).
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República ROGÉRIO DE PAIVA NAVARRO, opinou pelo provimento do recurso especial (fls. 224/236).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇAO
+O Tribunal de origem acolheu a preliminar de ilegitimidade ativa ad causam do Ministério Público Federal sob os seguintes fundamentos: "(i) "nos moldes traçados no art. 59 da LC nº 101/2000, a fiscalização do cumprimento das normas contidas na Lei de Responsabilidade Fiscal é acometida de forma expressa ao Ministério Público e ao Tribunal de Contas do respectivo estado da federação"; e ii) o interesse restringe-se à comunidade local ou, no máximo, ao âmbito estadual" (fl. 150).
+Nessa linha de ideias, verifica-se que a Corte regional não emitiu nenhum juízo de valor a respeito do art. 3º do CPC ("Não se excluirá da apreciação jurisdicional ameaça ou lesão a direito."), o que atrai a incidência da Súmula 282/STF.
+Por sua vez, os demais dispositivos de lei federal tidos por violados têm a seguinte redação:
+Código de Processo Civil
+Art. 17. Para postular em juízo é necessário ter interesse e legitimidade.
+Art. 18. Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico.
+Parágrafo único. Havendo substituição processual, o substituído poderá intervir como assistente litisconsorcial.
+ ..
+485. O juiz não resolverá o mérito quando:
+ ..
+VI - verificar ausência de legitimidade ou de interesse processual;
+ ..
+Lei 8.429/1992
+Art. 17. A ação principal, que terá o rito ordinário, será proposta pelo Ministério Público ou pela pessoa jurídica interessada, dentro de trinta dias da efetivação da medida cautelar:
+ ..
+Como se vê, tais dispositivos não possuem comando normativo capaz de infirmar, por si sós, o fundamento adotado no acórdão recorrido para afastar a legitimidade ativa ad causam do Parquet federal, haja vista que deles não se apresenta possível extrair as hipóteses em que haverá, ou não, interesse do Ministério Público Federal. Logo, incidem na espécie as Súmulas 283 e 284/STF.
+Sobreleva acrescentar, nesse ponto, que a Corte de origem também não se pronunciou a respeito da eventual repercussão das disposições contidas no art. 73-C, da Lei de Responsabilidade Fiscal (incluído pela LC 131/09), motivo pelo qual também não houve o necessário prequestionamento.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
