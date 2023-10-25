@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por ISABEL CALISTO FERRO, com fundamento no art. 105, II, b, da CF/1988, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"AGRAVO INTERNO - EM MANDADO DE SEGURANÇA - ATO DO JUIZADO ESPECIAL - INCLUSÃO DA UNIÃO E REMESSA DOS AUTOS À JUSTIÇA FEDERAL - COMPETÊNCIA - FORNECIMENTO DE MEDICAMENTO NÃO PADRONIZADO NA REDEPÚBLICA - INGRESSO DA UNIÃO - TEMA 793 STF - AUSENTE TERATOLOGIA OU ILICITUDE - INICIAL INDEFERIDA - REDISCUSSÃO - AUSENTES FATOS OU FUNDAMENTOS NOVOS - RECURSO NÃO PROVIDO.
+Não é viável a peça mandamental, por não estar presente hipótese a ensejar a propositura, visto que o ato coator não padece de teratologia ou ilegalidade, estando de acordo com o entendimento firmado pelo Supremo Tribunal Federal, em repercussão geral, no sentido de que, nas demandas de saúde, deve a União integrar o polo passivo da lide.
+Ausente fato ou fundamento jurídico novo a ensejar a mudança do entendimento já exarado, impõe-se a manutenção da decisão por seus próprios fundamentos" (fl. 111e).
+Nas razões recursais, a parte recorrente sustenta que "referido Acórdão não deve prosperar, porquanto o controle da competência do Juizado Especial deve ser realizado pelo próprio Tribunal de Justiça Estadual" (fl. 134e).
+Assevera que "ao contrário do que restou decidido no v. Acórdão recorrido, a questão envolvendo o controle de competência é indissociável da obrigatoriedade (ou não) da União figurar no polo passivo da demanda (litisconsórcio passivo necessário) e a Jurisprudência desse Colendo Superior Tribunal Justiça é no sentido de ser possível a impetração de Mandado de Segurança no Tribunal de Justiça Estadual na hipótese de controle de competência dos Juizados" (fl. 135e).
+Ao final, requer:
+"b) a concessão de liminar para suspender os efeitos do v. Acórdão recorrido, que declarou a incompetência do Tribunal de Justiça Estadual para processar e julgar o Mandado de Segurança, estando a Ação de Obrigação de Fazer (autos n. 0800820-35.2021.8.12.0003) na iminência de ser remetida para a Turma Recursal dos Juizados Especiais Federais, o que, pelas razões demonstradas acima causará prejuízos irreparáveis à Recorrente se concretizada;
+c) a reforma do v. Acórdão recorrido, para reconhecer a competência do Tribunal de Justiça do Estado de Mato Grosso do Sul para julgar o Mandado de Segurança que visa o exercício do controle de competência do Juizado Especial, notadamente em relação à Ação de Obrigação de Fazer (autos n. 0800820-35.2021.8.12.0003)" (fl. 140e).
+Contrarrazões a fls. 153/159e.
+A fls. 167/168 o pedido liminar foi indeferido.
+Parecer do Ministério Público Federal pelo provimento do Recurso Ordinário (fls. 177/183e).
+Tal qual asseverado pelo Parquet Federal, a irresignação merece prosperar.
+O Tribunal de origem, ao apreciar o feito, consignou o seguinte:
+"Em que pesem os argumentos da agravante, tenho que não há alteração a ser feita no provimento judicial agravado, uma vez que o mandado de segurança não é cabível contra decisão judicial da qual caiba recurso ou correção, conforme disposto no artigo 5º, inciso II, da LMS, e súmula 267, do STF.
+No caso, o ato judicial contestado nesta demanda é impugnável mediante recurso dirigido ao próprio Juizado (artigo 41, da Lei n. 9099/95), pelo qual poderá ser atribuído efeito suspensivo (artigo 43).
+Ademais, inexiste teratologia ou ilegalidade no ato combatido, pois foi proferido de acordo com o entendimento vinculante firmado pelo Supremo Tribunal Federal na tese firmada no Tema 793.
+Assim, considerando que o produto solicitado não está padronizado no SUS, vez que se trata de tecnologia não incorporada, e, em situações desse jaez, a Corte Suprema determinou que a União seja incluída no polo passivo da demanda, havendo, inclusive, reclamações envolvendo demandas deste Estado em que a decisão em sentido contrário foi cassada ou concedido efeito suspensivo, por ora, não há o que se alterar na decisão agravada" (fls. 113/114e).
+No entanto, nos termos da jurisprudência do Superior Tribunal de Justiça, "os Tribunais de Justiça são competentes para processar e julgar mandados de segurança que versem sobre controle de competência (STJ, AgRg no RMS 34.736/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 8/5/2013).
+Nesse sentido, são as seguintes decisões monocráticas, proferidas em casos idênticos ao dos autos: STJ, RMS 69.800/MS, Rel. Ministro HERMAN BENJAMIN, DJe de 21/11/2022; RMS 69.734/MS, Rel. Ministro FRANCISCO FALCÃO, DJe de 21/11/2022; RMS 70.172/MS, Rel. Ministra REGINA HELENA COSTA, DJe de 10/11/2022.
+Ante o exposto, com fundamento no art. 34, XVIII, c, do RISTJ e na Súmula 568/STJ, dou provimento ao Recurso Ordinário, para, reconhecendo a competência do Tribunal de Justiça, determinar o retorno dos autos à origem, para que seja dado regular processamento ao feito.
+I.
+EMENTA
