@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de conflito negativo por iniciativa de Doutor IE Comércio de Livros e Manuais Automotivos Ltda. (Doutor-IE Inteligência Automotiva), sediada em Florianópolis, SC, em face do Juízo de Direito da 1ª Vara Empresarial e Conflitos Relacionados à Arbitragem do Foro Central de São Paulo, capital, no qual distribuiu a ação de obrigação de fazer e não fazer, cumulada com indenização e tutela provisória de urgência 1032298-24.2020.8.26.0100, em desfavor de Comercial Simplo Tec Ltda. e outros, com deferimento da medida antecipatória, e do Juízo de Direito da 5ª Vara Cível de Florianópolis, SC (autuada como 5094237-57.2022.8.24.0023/SC), órgão judicial que, após o regular processamento do feito, houve indevida declinação da competência.
+Afirma que, mesmo tendo deferido a tutela de urgência e determinado a citação dos réus, que nada arguiram acerca do local da tramitação do processo, o Juízo paulistano, de ofício, promoveu a remessa da lide para a capital catarinense, que é o foro do domicílio da autora.
+Identificado o equívoco, o Juízo da 5ª Vara Cível de Florianópolis determinou a restituição dos autos à capital paulista, que novamente encaminhou o processo para Santa Catarina, sem que nenhuma das autoridades judiciárias instaurasse o incidente.
+Aduz que os fatos que ensejaram o deferimento da liminar continuam a ser praticados, prolongando os prejuízos que a justificaram, relacionados ao direito autoral de exploração dos manuais por ela produzidos, mediante concorrência desleal, e que a situação de indefinição do órgão competente agrava a situação que orientou o ajuizamento da ação.
+Argumenta que a competência, na espécie, é relativa, não tendo os réus, em contestação conjunta (fls. 109/303), apresentado nenhum empecilho à produção de defesa em São Paulo, sendo vedado ao magistrado declinar a competência territorial de ofício, considerando a índole relativa, nos termos da Súmula 33/STJ, aspecto também ressaltado pelo Juízo catarinense, fundamentos que, em conjunto, conferem o fumus boni iuris e o periculum in mora indispensáveis ao deferimento da medida.
+Pretende a designação provisória e a final definitiva do Juízo paulistano, prolator da liminar, Vara na qual o processo teve regular processamento, com estabilização do órgão julgador, até que sucedeu a situação narrada neste conflito.
+Às fls. 350/353, deferi liminar nos termos do pedido, encarregando o Juízo paulista das medidas urgentes.
+Solicitadas informações, primeiro respondeu o Juízo de Direito da 5ª Vara Cível de Florianópolis, SC, destacando a natureza relativa da competência, que não pode ser declinada de ofício, nos termos da Súmula 33/STJ (fls. 358/359).
+O Juízo paulista esclarece que, em caso de escolha aleatória de foro, deve ser permitida a declinatória de ofício, sem infringir a Súmula 33/STJ, conforme as regras estabelecidas na Constituição Federal, no Código de Processo Civil e na jurisprudência do TJSP (fls. 380/382).
+Com vista dos autos, o Ministério Público Federal opina no sentido da competência do Juízo de Direito da 1ª Vara Empresarial e Conflito de Arbitragem do Foro Central Cível de São Paulo, SP (fls. 393/396).
+Assim delimitada a questão, passo a decidir.
+Eis os fundamentos pelos quais deferi a liminar (fls. 351/353):
+Em exame precário, próprio da ausência de contraditório que exige o momento processual, tenho que a tutela de urgência tem cabimento.
+Registre-se, inicialmente, que Comercial Simplo Tec Ltda. e Rene Gobbi & Cia. Ltda. têm endereço indicado na cidade de Caxias do Sul, RS, e que Cartec Automotivo Ltda. e Data Car Cursos e Treinamentos Técnicos Ltda. estão localizadas em Eusébio, CE (fls. 22/23).
+Na declinatória, o Juízo paulistano indica que a Resolução 763/2016 definiu a competência daquela Vara para feitos exclusivamente da capital paulista e que os fatos narrados não teriam ocorrido naquele lugar (fls. 304/306).
+De fato, necessário consignar que, conforme se colhe dos autos, a questão tem vinculação com a competência territorial, portanto, que é de natureza relativa, cuja prorrogação se impõe quando não arguida oportunamente em contestação, o que não ocorreu.
+Portanto, sem que os réus tenham questionado a escolha do foro, mesmo sendo a autora domiciliada em Florianópolis, SC, não poderia existir controvérsia acerca da competência para processar e julgar o feito. Nesse sentido, o enunciado da Súmula 33/STJ:
+A incompetência relativa não pode ser declarada de ofício.
+Além disso, decorre da ausência de alegação a concordância tácita pela competência do foro em que ajuizada a demanda, prorrogando-a.
+Por óbvio, norma regulamentar não pode derrogar as disposições expressas do Código de Processo Civil.
+Os seguintes precedentes desta Corte, entre inúmeros outros, são representativos de tal entendimento:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. COMPETÊNCIA DO JUÍZO DA COMARCA DO DOMICÍLIO DO EXECUTADO. IMPOSSIBILIDADE DE DECLARAÇÃO DE OFÍCIO. SÚMULA 33/STJ. NÃO OPOSTA A EXCEÇÃO DECLINATÓRIA DO FORO FICA PRORROGADA A COMPETÊNCIA DO JUÍZO A QUEM FOI DISTRIBUÍDO O FEITO. AGRAVO INTERNO DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. Não oposta a Exceção Declinatória do Foro, é vedado ao órgão julgador declarar, de ofício, a sua incompetência relativa, ficando prorrogada a competência do Juízo a quem foi distribuído a Execução Fiscal.
+2. Seguindo essa mesma orientação, esta Corte Superior de Justiça pacificou o entendimento de que a incompetência relativa não pode ser declarada de ofício (Súmula 33/STJ). Precedentes: CC 102.965/BA, Rel. Min. BENEDITO GONÇALVES, DJe 6.4.2009; AgRg no CC 33.052/SP, Rel. Min. HUMBERTO MARTINS, DJ 2.10.2006; CC 161699/RJ, Rel. Min. HERMAN BENJAMIN, DJe 13.12.2018; CC 141.825/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 3.5.2016; CC 144.001/SP, Rel. Min. GURGEL DE FARIA, DJe 2.5.2016.
+3. Agravo Interno do MINISTÉRIO PÚBLICO FEDERAL a que se nega provimento.
+(Primeira Seção, AgInt no CC 139.278/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, unânime, DJe de 28.3.2019)
+CONFLITO POSITIVO DE COMPETÊNCIA. AÇÃO DE REINTEGRAÇÃO DE POSSE E AÇÃO DE RESCISÃO DE CONTRATO E DE COBRANÇA C/C REINTEGRAÇÃO DE POSSE TENDO COMO OBJETO O MESMO CONTRATO. CONEXÃO. REUNIÃO DOS PROCESSOS. PREVENÇÃO. CITAÇÃO VÁLIDA.
+CLÁUSULA DE ELEIÇÃO DE FORO. RENÚNCIA TÁCITA RECONHECIDA.
+I - Reconhecida a conexão entre duas ações que possuem as mesmas partes e objeto, a fim de evitar decisões contraditórias entre si, determina-se a reunião dos processos em um dos Juízos que, no caso, será aquele que primeiro promoveu a citação válida.
+II - A despeito de no contrato objeto das demandas ter sido eleito o foro da Comarca do Rio de Janeiro/RJ, este foi renunciado pelas partes, na medida em que a autora propôs a ação no foro da Comarca de Santarém/PA, sem que tivesse havido oposição da ré a respeito, o que é permitido em se tratando de competência territorial.
+III - Já decidiu esta Corte que, não havendo prejuízo para o réu, o autor pode renunciar ao foro contratualmente escolhido, mas é daquele a conveniência de tal renúncia (REsp 44.862/SP, Rel. Min. PEÇANHA MARTINS, DJ 11.3.96).
+Conflito de Competência conhecido, declarando-se a competência do Juízo suscitante.
+(Segunda Seção, CC 56.949/PA, Rel. Ministro SIDNEI BENETI, unânime, DJe de 4.12.2009)
+CONFLITO DE COMPETÊNCIA. PENAL. CRIMES CONTRA O SISTEMA FINANCEIRO E LAVAGEM DE DINHEIRO. COMPETÊNCIA TERRITORIAL. EXCEÇÃO DE INCOMPETÊNCIA ARGUÍDA E REJEITADA. PRECLUSÃO. DECLINAÇÃO DE COMPETÊNCIA EX OFFÍCIO. IMPOSSIBILIDADE. COMPETÊNCIA DA JUSTIÇA FEDERAL PARANAENSE.
+1. Nos termos do art. 70 do CPP, "A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou no caso de tentativa, pelo lugar em que for praticado o último ato de execução".
+2. A competência territorial é relativa, prorrogando-se quando não arguida na oportunidade cabível.
+3. Na hipótese de rejeição da exceção de incompetência pelo magistrado, torna-se inviável a posterior declinação de competência ex offício, ocorrendo a sua prorrogação em virtude da preclusão.
+4. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara Criminal e Sistema Financeiro Nacional - SJ/PR, ora suscitado.
+(Terceira Seção, CC 111.241/SP, Rel. Ministro ARNALDO ESTEVES LIMA, unânime, DJe de 2.8.2010)
+Em análise perfunctória, portanto, os requisitos indispensáveis à medida estão demonstrados, sendo presumíveis os danos causados com o retardamento da aplicação da medida de urgência, que se entendeu necessária no momento de distribuição da demanda.
+Assim sendo, defiro a tutela pleiteada e, conforme disposto no art. 955 do Código de Processo Civil, designo provisoriamente o Juízo de Direito da 1ª Vara Empresarial e Conflitos Relacionados à Arbitragem do Foro Central de São Paulo, SP, para apreciar eventuais medidas urgentes.
+A instrução do feito não proporcionou elemento algum que contraindique a aplicação da jurisprudência pacífica transcrita acima, devendo ser confirmada, no mérito, a decisão liminar.
+Em face do exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Empresarial e Conflitos Relacionados à Arbitragem do Foro Central de São Paulo, SP.
+Comunique-se. Intimem-se.
+EMENTA
