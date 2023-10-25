@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor em favor DIEGO VIANA BORGES, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, no julgamento da apelação criminal n. 1.0024.20.118007-2/001.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 9 anos de reclusão, em regime fechado, pela prática do crime descrito no artigo 33, caput, da lei 11343-06 combinado com inciso V do artigo 40 da respectiva lei.
+Inconformada a defesa interpôs recurso de apelação perante o Tribunal de origem, que, por maioria, deu parcial provimento para redimensionar a pena do paciente para 8 anos e 2 meses de reclusão, em regime fechado, mais pagamento de 816 dias-multa, consoante voto condutor do v. acórdão de fls. 86-94.
+Os embargos de declaração opostos pela defesa, às fls. 32-36, foram rejeitados.
+Dai o presente writ, onde a impetra aponta constrangimento ilegal na negativa de aplicação da causa especial e diminuição descrita no § 4º do art. 33 da Lei de Drogas.
+Para tanto, sustenta que "O Desembargador Revisor se equivocou quando sustentou a impossibilidade de aplicação da causa diminutiva de pena, reconhecendo o tráfico privilegiado na conduta perpetrada por Diego Viana Borges , quando em sua decisão constou o seguinte teor: "Outrossim, vislumbro que Diego Borges Viana já cumpriu integralmente pena anterior, pela prática do delito de Furto qualificado (autos nº 0754670-09.2008.8.13.0040). Assim, peço vênia ao Nobre Relator, contudo, na minha visão, está demonstrada categoricamente à dedicação dos réus às atividades criminosas, sendo impossível a aplicação da benesse prevista no art. 33, §4º da Lei 11.343/06."" (fl. 7).
+Assevera que "O nome apontado pelo Desembargador Revisor é DIEGO BORGES VIANA, o nome do Paciente , constante dos autos é DIEGO VIANA BORGES , não podendo ser reconhecido o Paciente como o autor dos fatos mencionados nos autos de nº 075467009.2008.8.13.0188." (fl. 7).
+Requer, assim, a concessão da ordem para " ..  modificar de oficio o acordão proferido em sede de Recurso de Apelação reconhecendo em desfavor do Paciente a regra contida no § 4º do art. 33 da Lei 11.343/06." (fl. 18).
+Não houve pedido liminar.
+Informações prestadas às fls. 47-103.
+O Ministério Público Federal, às fls. 107-113, manifestou-se pelo não conhecimento do writ.
+É o relatório. DECIDO.
+Conforme relatado, busca-se na presente impetração a aplicação da causa especial de diminuição do § 4º do art. 33 da Lei de Drogas.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange à redutora capitulada no parágrafo 4º, do art. 33, da Lei n. 11.343/06, tal dispositivo prevê que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No presente caso, embora tenha sido afastado a anotação criminal equivocadamente considerada, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada não somente na quantidade de drogas apreendidas (11Kg acondicionados em 11 barras de 5kg105g e 5kg875g - fl. 20), mas também nas circunstâncias concretas da prisão do paciente e da apreensão das drogas, consoante apontado pelo v. acórdão impugnado (fl. 87).
+Com efeito, consta dos autos que a droga era transportada por três indivíduos em dois carros entre os Estados de São Paulo e Minas Gerais, conforme constado através da operação "Big Mouse" deflagrada pela polícia civil, circunstâncias concretas que são aptas a ensejar a conclusão pela dedicação às atividades criminosas e a afastar a redutora do tráfico privilegiado.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Sobre o tema: AgRg no HC 695.891/GO, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 13/12/2021; e AgRg no HC 652.335/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 13/12/2021.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
