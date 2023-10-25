@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA. DECISÃO MONOCRÁTICA AGRAVADA QUE NÃO CONHECEU DO RECURSO ESPECIAL. PLEITO ABSOLUTÓTIO. INCIDÊNCIA DA SÚMULA N. 7, STJ. SUPOSTA VIOLAÇÃO AO ART. 619 DO CPP. NÃO OCORRÊNCIA. MERO INCONFORMISMO. DECISÃO MANTIDA. EMBARGOS REJEITADOS.
+I - Nos termos dos arts. 619 e 620 do Código de Processo Penal, é possível a oposição de embargos de declaração para suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente presentes nos julgados. Tal recurso visa ao saneamento de um dos vícios previstos em lei e não constitui, portanto, instrumento apto a rediscutir as decisões judiciais.
+II - Na espécie, à conta de omissão e erro material supostamente presentes no acórdão, pretende o embargante o reexame de matéria julgada em razão do mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via desta espécie recursal.
+III - O embargante busca, por via oblíqua, a rev ersão do julgado, o que não tem o condão de viabilizar a oposição dos aclaratórios, que servem ao aprimoramento da decisão, mas não à sua alteração, que apenas é admitida em casos excepcionais. Precedentes.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por CRISTIANO BATISTA PEREIRA contra acórdão da Quinta Turma que negou provimento ao agravo regimental (fls. 539-544), consoante ementa de fl. 539.
+O embargante sustenta, em síntese, que a decisão recorrida seria omissa e teria incorrido erro material, haja vista que teria impugnado todos os fundamentos da decisão recorrida nas razões do agravo regimental. Por fim, requer o provimento dos aclaratórios, com efeitos infringentes, a fim de que os vícios apontados sejam sanados (fls. 549-554).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA. DECISÃO MONOCRÁTICA AGRAVADA QUE NÃO CONHECEU DO RECURSO ESPECIAL. PLEITO ABSOLUTÓTIO. INCIDÊNCIA DA SÚMULA N. 7, STJ. SUPOSTA VIOLAÇÃO AO ART. 619 DO CPP. NÃO OCORRÊNCIA. MERO INCONFORMISMO. DECISÃO MANTIDA. EMBARGOS REJEITADOS.
+I - Nos termos dos arts. 619 e 620 do Código de Processo Penal, é possível a oposição de embargos de declaração para suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente presentes nos julgados. Tal recurso visa ao saneamento de um dos vícios previstos em lei e não constitui, portanto, instrumento apto a rediscutir as decisões judiciais.
+II - Na espécie, à conta de omissão e erro material supostamente presentes no acórdão, pretende o embargante o reexame de matéria julgada em razão do mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via desta espécie recursal.
+III - O embargante busca, por via oblíqua, a rev ersão do julgado, o que não tem o condão de viabilizar a oposição dos aclaratórios, que servem ao aprimoramento da decisão, mas não à sua alteração, que apenas é admitida em casos excepcionais. Precedentes.
+Embargos de declaração rejeitados.
+VOTO
+Nos termos dos arts. 619 e 620 do Código de Processo Penal, é possível a oposição de embargos de declaração para suprir omissão, afastar obscuridade e eliminar contradição ou ambiguidade eventualmente presentes nos julgados. Tal recurso visa ao saneamento de um dos vícios previstos em lei e não constitui, portanto, instrumento apto a rediscutir as decisões judiciais.
+Da análise dos autos, verifico que o agravo regimental interposto foi desprovido ante a inexistência de novos fundamentos capazes de modificar o entendimento firmado na decisão monocrática de fls. 511-515. E, em sede de aclaratórios, à conta de omissão e erro material supostamente presentes no acórdão, pretende o embargante o reexame de matéria julgada em razão do mero inconformismo com o que decidido nos autos, o que não se coaduna com a estreita via desta espécie recursal.
+É certo que, para afastar a aplicação da Súmula n. 7, STJ, não é suficiente a mera afirmação de sua não incidência. A parte tem o dever de demonstrar que a mudança do entendimento da instância de origem sobre a questão independe do reexame de fatos e provas da causa.
+Na espécie, não observo inadequação na aplicação do referido óbice porquanto, no caso, seria inviável, de fato, a absolvição pretendida sem profunda incursão na matéria fática probatória.
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça: AgRg no AREsp n. 2.262.678/DF, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 19/5/2023; AgRg no AREsp n. 2.223.260/PR, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 10/3/2023; AgRg no AREsp n. 2.266.646/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 24/4/2023.
+Assim, verifico que o embargante busca, por via oblíqua, a reversão do julgado, o que não tem o condão de viabilizar a oposição dos aclaratórios, que servem ao aprimoramento da decisão, mas não à sua alteração, que apenas é admitida em casos excepcionais (EDcl no AgRg nos EAREsp n. 2.060.783/RN, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 14/4/2023; EDcl nos EDcl no AgRg nos EDcl nos EAREsp n. 1.746.410/ES, Terceira Seção, Rel. Min. Antonio Saldanha Palheiro, DJe de 25/3/2022).
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
