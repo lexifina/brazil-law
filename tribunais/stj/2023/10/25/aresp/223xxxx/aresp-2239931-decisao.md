@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por VITOR TEIXEIRA DA SILVA contra decisão que inadmitiu recurso especial manej ado em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos declaração de extinção da punibilidade em favor do agravante, pelo transcurso do período de prova de 2 (dois) anos da suspensão condicional do processo, decisum reformado pelo Tribunal de origem que deu provimento ao recurso em sentido estrito ministerial e rejeitou embargos declaratórios defensivos.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea "a", da Constituição Federal, o insurgente sustentou ofensa ao art. 619 do CPP, diante da negativa da devida prestação jurisdicional consistente na omissão quanto à tese defensiva de pagamento de 8 das 10 parcelas da multa aplicada e de ausência de justificativa em razão da pandemia.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na inviabilidade do recurso especial.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se à negativa (ou não) da devida prestação jurisdicional.
+Acerca da temática recursal, o Tribunal de origem assim dispôs:
+"Depreende-se dos autos do processo que o recorrido foi contemplado com a referida benesse em 27/09/2019, sendo-lhe impostas, entre outras condições, o comparecimento pessoal do recorrido em Juízo mensalmente e o pagamento do valor de 02 (dois) salários-mínimos, conforme termo de audiência de ordem nº 03.
+Iniciando-se o biênio do período de prova em 27/09/2019, o benefício somente poderia ser revogado até o dia 27/09/2021.
+Ocorre que, extrai-se dos autos que o recorrido deixou de comparecer em Juízo, e não efetuou o pagamento de todas as parcelas da prestação pecuniária, descumprindo, portanto, as condições supracitadas dentro do período de prova. Ainda, oportunizada a justificação, devidamente intimado, o recorrido não compareceu aos autos para justificar o descumprimento (Ordem nº 09).
+Desta forma, tendo o descumprimento das condições ocorrido dentro do prazo do período de prova (que findaria em 27/09/2021), deve ser cassada a decisão judicial que extinguiu a punibilidade do recorrido, nos temos do artigo 89, §5º, da Lei 9.099/95, após o decurso do lapso temporal de dois anos fixado no termo de suspensão condicional do processo, porquanto, segundo entendimento do STJ, é possível a revogação do benefício ante o descumprimento, durante o período de prova, de condição imposta, mesmo após o fim do prazo legal" (fl. 179).
+Da análise dos autos e consoante trecho supradestacado do aresto recorrido, verifico que não prospera a alegada afronta ao que dispõe o art. 619 do CPP, pois o acórdão vergastado enfrentou a demanda, observando as questões relevantes e imprescindíveis à sua resolução, não padecendo de vícios.
+Conforme pacífica jurisprudência desta Corte Superior, são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada, repito, não padecer dos vícios que autorizariam a sua interposição.
+Em verdade, com os aclaratórios opostos na origem, o recorrente pretendeu, como bem reconheceu a Corte estadual, veicular mero inconformismo. A jurisprudência deste Superior Tribunal, entretanto, é firme no sentido que essa não é a via adequada para nova impugnação do mérito.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp n. 1.850.013/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 21/3/2022; EDcl no AgRg nos EDcl no AgRg no AREsp 1609241/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 04/05/2020.
+Dessa forma, estando o v. acórdão prolatado pelo Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO CONDICIONAL DO PROCESSO. NÃO CUMPRIMENTO DOS REQUISITOS PARA DECLA RAÇÃO DA EXTINÇÃO DA PUNIBILIDADE. ALEGADA OFENSA AO ART. 619 DO CPP. INOCORRÊNCIA. DEVIDA PRESTAÇÃO JURISDICIONAL. SÚMULA 568, STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL DESPROVIDO.
