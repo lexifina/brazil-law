@@ -1,0 +1,75 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  PAULO ROBERTO PONATH  contra  decisão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SANTA CATARINA que  inadmitiu  o  recurso  especial  aviado  com  fulcro  na  alínea  "a"  do  permissivo  constitucional  e  interposto  contra  o  acórdão  prolatado  na  Apelação  Criminal  n.  5053813-59.2021.8.24.0038.
+Os  autos  dão  conta  de  que  o  agravante foi condenado, como incurso no art. 299 do Código Penal, à pena privativa de liberdade de 1 ano e 2 meses de reclusão, em regime aberto.
+Interpostas apelações defensivas e ministerial, o Tribunal de origem deu parcial provimento apenas ao recurso interposto pelo Ministério Público, para sopesar negativamente a culpabilidade do recorrente, redimensionando a reprimenda em 1 ano e 4 meses de reclusão, a ser resgatada em regime inicialmente semiaberto.
+No recurso especial, a parte recorrente alega violação dos arts. 44, § 3º, e 59 do CP. Aduz, em síntese, "a ausência de fundamentação acerca da reprovação da culpabilidade, visto que, sequer existe algum fundamento para isto, tão somente a opinião subjetiva do julgador, o que, por si só, já torna ilegal a reprovação" (e-STJ fl. 346).
+Defende, ainda, que "os antecedentes utilizados pelo Magistrado não podem ser considerados antecedentes, vez que, já foi ultrapassado o período depurador de 5 anos" (e-STJ fl. 347).
+Por fim, requer a substituição da pena privativa de liberdade por restritiva de direitos.
+O Ministério Público Federal opinou  pelo  desprovimento  do  recurso (e-STJ  fls.  427/430).
+É  o  relatório.  Decido.
+De  início,  cumpre  ressaltar  que,  na  esteira  da  orientação  jurisprudencial  do Superior Tribunal de Justiça,  por  se  tratar  de  questão  afeta  a  certa  discricionariedade  do  magistrado,  a  dosimetria  da  pena  é  passível  de  revisão,  nesta  instância  extraordinária,  apenas  em  hipóteses  excepcionais,  quando  ficar  evidenciada  flagrante  ilegalidade,  constatada  de  plano,  sem  a  necessidade  de  reexame  do  acervo  fático-probatório  dos  autos.
+Sobre  o  tema,  assim  se  manifestou  o  Tribunal  recorrido  (e-STJ  fls.  305/307):
+Na hipótese em apreço, constata-se que o réu realmente praticou o injusto enquanto cumpria pena por infração anterior (fls. 4 do evento 1.3 da ação penal), conjuntura que deve ser levada em conta para a consideração prejudicial da sua culpabilidade, pois inexiste dúvida acerca do acentuado grau de reprovabilidade do fato delituoso.
+ ..
+Destarte, é de ser sopesado desfavoravelmente o respectivo vetor.
+Por outro lado, não se apresenta possível a incidência da circunstância agravante da reincidência em virtude da ausência de juntada ao processado da certificação do trânsito em julgado da condenação anterior, situação que inviabiliza o provimento do reclamo ministerial sob esse aspecto.
+A respeito da matéria, Guilherme de Souza Nucci explicita que a referida circunstância legal "é o cometimento de uma infração penal após já ter sido o agente condenado definitivamente, no Brasil ou no exterior, por crime anterior.  .. " (Código penal comentado. 19. ed. rev., atual. e ampl., Rio de Janeiro: Forense, 2019, p. 502).
+Mais adiante, o doutrinador explica que para demonstrá-la é necessário apenas "juntar aos autos a certidão cartorária comprovando a condenação anterior" (Ibid., p. 505).
+Assim sendo, a exclusão da exasperação decorrente da mencionada circunstância legal é medida que se impõe.
+ ..
+Considerando o parâmetro adotado pelo douto sentenciante, qual seja, um sexto para cada circunstância judicial desfavorável, a sanção basilar resta estabelecida em um ano e quatro meses de reclusão e pagamento de doze dias-multa.
+E, mantida também a análise das etapas subsequentes, não sofrem as penas anteriormente estipuladas quaisquer alterações.
+De outra banda, procede o pedido do Ministério Público do Estado de Santa Catarina de recrudescimento do regime prisional inicial imposto na sentença objurgada.
+Isso porque, embora as reprimendas não tenham sido dimensionadas em patamar superior a quatro anos de reclusão, o que, se considerado de maneira isolada, autorizaria a manutenção do modo aberto para o correspondente resgate inicial, constata-se a consideração negativa de circunstâncias ditas judiciais do art. 59, caput, da Norma Substantiva Penal - culpabilidade e maus antecedentes -, o que requer a aplicação do regime intermediário, nos termos do art. 33, § 3º, do Código Penal.
+ ..
+Do mesmo modo, deve ser afastada a substituição do castigo corporal por restritivas de direitos, porquanto não estão preenchidos os requisitos estabelecidos no art. 44, III e § 3º, do Decreto-lei 2.848/1940.
+Da pena-base
+Observa-se que o  fato  de  o  recorrente  cometer  novo  delito  enquanto cumpria pena por infração anterior foi  corretamente  valorado  pelo  Juízo  de  origem,  tendo  o  Tribunal  local  idoneamente  considerado  tal  circunstância  utilizada  para  exasperar  a  pena-base.
+A ação de  cometer  novo  delito  enquanto  está  em  execução  de  pena  anterior  não  é  elementar  do  tipo  de  falsidade ideológica,  de  modo  que  não  há  que  se  falar  que  a  pena-base  do  presente  crime  foi  majorada  com  base  em  elementos  próprios  do  crime  atual  ou  em  elementos  que  não  se  subsomem  à  reprovabilidade  da  conduta  do  agente.
+Nesse sentido:
+PENAL.  HABEAS  CORPUS.  TRÁFICO  DE  ENTORPECENTES.  DOSIMETRIA.  PENA-BASE.  CULPABILIDADE.  CRIME  PRATICADO  ENQUANTO  O  RÉU  CUMPRIA  PENA  NO  REGIME  ABERTO  POR  OUTRO  DELITO.  MAIOR  REPROVABILIDADE  DA  CONDUTA.  AUSÊNCIA  DE  ILEGALIDADE.  .. .  ORDEM  PARCIALMENTE  CONCEDIDA.
+ ..
+4.  Na  espécie,  a  instância  de  origem  estabeleceu  a  reprimenda  básica  acima  do  mínimo  legal,  considerando  desfavorável  a  circunstância  judicial  relativa  à  culpabilidade,  tendo  em  vista  que  o  paciente  praticou  o  crime  de  tráfico  de  drogas  durante  o  período  de  cumprimento  de  pena  em  regime  aberto  imposta  em  outro  processo.  Tal  fundamentação  se  mostra  adequada  para  a  exasperação  da  pena-base,  pois  anuncia  o  maior  grau  de  reprovabilidade  da  conduta  do  acusado,  bem  como  o  menosprezo  especial  ao  bem  jurídico  violado.  Precedentes.
+5.  Ordem  parcialmente  concedida  para  redimensionar  a  pena  do  paciente  para  9  anos,  8  meses  e  20  dias  de  reclusão,  mais  pagamento  de  916  dias-multa,  mantidas  as  demais  disposições  do  acórdão  local.
+(HC  639.208/SC,  de  minha  relatoria,  SEXTA  TURMA,  julgado  em  23/2/2021,  DJe  4/3/2021;  grifei.)
+DIREITO  PENAL.  AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  TRÁFICO  ILÍCITO  DE  ENTORPECENTES.  DOSIMETRIA.  .. .  PENA-BASE.  FUNDAMENTAÇÃO  ADEQUADA.  AUMENTO.  INEXISTÊNCIA  DE  CRITÉRIO  MATEMÁTICO.  DISCRICIONARIEDADE  JUDICIAL.  ..  AGRAVO  REGIMENTAL  DESPROVIDO.
+ ..  III  -  Aumento  da  pena-base.  Elementos  idôneos.  Ao  contrário  do  que  afirma  a  defesa,  essa  foi  exasperada  pela  multirreincidência  do  paciente  e  pelo  fato  de  ter  sido  preso  em  flagrante  durante  o  cumprimento  de  benefício  da  execução  penal.
+ ..  Agravo  regimental  desprovido.
+(AgRg  no  HC  675.191/SP,  Rel.  Ministro  JESUÍNO  RISSATO,  Desembargador  Convocado  do  TJDFT,  QUINTA  TURMA,  julgado  em  14/9/2021,  DJe  27/9/2021;  grifei.)
+PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  ENTORPECENTES.  PENA-BASE  MAJORADA.  FUNDAMENTAÇÃO  IDÔNEA.  CULPABILIDADE.  RÉU  COMETEU  O  DELITO  ENQUANTO  CUMPRIA  PENA  EM  REGIME  ABERTO  PELA  PRÁTICA  DE  OUTRO  CRIME.  .. .  AGRAVO  NÃO  PROVIDO.
+1.  Quanto  à  fixação  da  pena-base  acima  do  mínimo  legal,  cumpre  registrar  que  a  dosimetria  da  pena  está  inserida  no  âmbito  de  discricionariedade  do  julgador,  estando  ela  atrelada  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  elementos  que  somente  podem  ser  revistos  por  esta  Corte  em  situações  excepcionais,  quando  malferida  alguma  regra  de  direito.
+2.  As  instâncias  ordinárias  sopesaram  negativamente  a  culpabilidade  pelo  fato  de  ter  o  recorrente  cometido  o  crime  enquanto  cumpria  pena  em  regime  aberto  pela  prática  de  outro  delito.  Trata-se,  indubitavelmente,  de  circunstância  que  indica  maior  reprovabilidade  da  conduta,  porquanto  atesta  a  total  imunidade  de  réu  ao  caráter  preventivo  individual  negativo  da  pena,  bem  como  a  indiferença  com  as  decisões  judiciais.
+ ..  6.  Agravo  regimental  não  provido.
+(AgRg  no  AREsp  1.490.583/SE,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  5/9/2019,  DJe  12/9/2019;  grifei.)
+AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  DOSIMETRIA.  PENA-BASE.  CRIME  PRATICADO  NO  GOZO  DA  SAÍDA  TEMPORÁRIA.  QUANTIDADE  E  NATUREZA  DOS  ENTORPECENTES  APREENDIDOS.  PROPORCIONALIDADE.
+1.  A  exasperação  da  pena-base  pela  existência  de  circunstâncias  judiciais  negativas  deve  seguir  o  parâmetro  da  fração  de  1/6  para  cada  vetor  desfavorável,  em  situações  nas  quais  não  há  fundamentação  específica  que  justifique  a  necessidade  de  elevação  superior  a  esse  patamar.
+2.  A  prática  do  crime  por  réu  enquanto  usufruía  de  saída  temporária  demonstra  desvio  de  caráter  comportamental,  o  que  justifica  a  exasperação  da  reprimenda  básica.
+ ..  4.  Agravo  regimental  desprovido.
+  (AgRg  no  AgRg  nos  EDcl  no  REsp  1.747.410/SC,  Rel.  Ministro  JORGE  MUSSI,  QUINTA  TURMA,  julgado  em  4/4/2019,  DJe  6/5/2019;  grifei.)
+Assim,  não  há  ilegalidade  na  negativação  do  vetor  da  culpabilidade.
+No que se refere ao período depurador, verifico do exame do excerto referenciado que a questão relativa à utilizar os antecedentes "vez que, já foi ultrapassado o período depurador de 5 anos" (e-STJ fl. 347), não foi analisada de forma específica pelo Tribunal de origem (em que pese à oposição dos embargos declaração), carecendo, assim, do necessário prequestionamento, motivo pelo qual não podem ser aqui examinadas, ante o que preceitua a Súmula n. 211/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO CONTRA PREVIDÊNCIA SOCIAL. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. ATENUANTE DA CONFISSÃO, VETORES JUDICIAIS DA CULPABILIDADE E DA CONSEQUÊNCIAS DO CRIME E FRAÇÃO PELO RECONHECIMENTO DA CONTINUIDADE DELITIVA. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RECURSO DESPROVIDO.
+ ..
+2. As matérias, objeto do recurso especial, não foram debatidas na instância de origem, ressentindo-se o recurso especial do necessário prequestionamento. Incidência da Súmula 211/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1618153/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 05/12/2016).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 253 DO RISTJ. DECISÃO MONOCRÁTICA DO RELATOR. CONHECIMENTO DO AGRAVO PARA NEGAR-LHE PROVIMENTO, POIS CORRETA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. NÃO OCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. RECURSO ESPECIAL QUE NÃO ULTRAPASSOU OS ÓBICES DE ADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7, 83 E 211 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+4. Não houve prévia análise do art. 65, § 3º, do Decreto Lei n. 5.123/2004 e a parte, a despeito da oposição de embargos, não provocou a manifestação do Tribunal de origem, o que atrai a incidência da Súmula n. 211 do STJ, em razão da falta de prequestionamento.
+ ..
+5. Agravo regimental não provido. (AgInt no AREsp 373.458/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2016, DJe 17/05/2016.)
+Por fim, no tocante à substituição da pena privativa de liberdade por restritivas de direitos, esta Corte Superior entende que "a substituição da pena privativa de liberdade por restritivas de direitos submete-se à regência do art. 44 do Código Penal, segundo o qual só faz jus ao benefício legal o condenado a pena inferior a 4 anos, não reincidente e cuja culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente" (HC n. 353.206/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 9/8/2016, DJe de 24/8/2016).
+In casu, correta a negativa de substituição da pena, tendo em vista a presença de circunstância judicial desfavorável.
+Ainda, no mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. ART, 44, III, DO CÓDIGO PENAL. CIRCUNSTÂNCIA DESFAVORÁVEL DOS MAUS ANTECEDENTES. TESE DE NE BIS IN IDEM. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO.
+1. O acórdão combatido esta de acordo com a jurisprudência do Superior Tribunal de Justiça, pois, no caso, é incabível a substituição da pena privativa de liberdade pela restritiva de direitos, porquanto inadimplido o inciso III do art. 44 do Código Penal, devido a existência de circunstância judicial desabonadora dos maus antecedentes.
+2. Ademais, "a pacífica jurisprudência deste Tribunal estabelece que as condenações alcançadas pelo período depurador de 5 anos, previsto no art.
+64, I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo o aumento da pena-base acima do mínimo legal" (RHC 66.436/SP, FELIX FISCHER, QUINTA TURMA, DJe 06/05/2016).
+3. Quanto à tese de existência de ne bis in idem, alegando terem sido utilizados os mesmos fundamentos para fixar o regime mais gravoso e indeferir a substituição da pena, verifica-se que esse pleito não foi aventado em recurso de apelação às fls. 219-223 (e-STJ), o que não se admite nos embargos de declaração, por constituir inovação recursal, carecendo, portanto, a matéria do necessário prequestionamento.
+4. Agravo regimental não provido. (AgRg no AREsp 955.835/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/06/2017, DJe 23/06/2017, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE DE ARMA DE FOGO DE USO RESTRITO. MAUS ANTECEDENTES. SUBSTITUIÇÃO. PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Embora o réu haja sido condenado a reprimenda inferior a 4 anos de reclusão, a existência de circunstância judicial desfavorável - maus antecedentes - é elemento que afasta a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, a teor do art. 44, III, do Código Penal.
+2. Agravo regimental não provido. (AgRg no AREsp 1062397/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2017, DJe 11/05/2017.)
+À  guisa  de  todo  o  exposto,  conheço  do  agravo  para  negar provimento ao  recurso  especial.
+Publique-se.  Intimem-se.
+EMENTA
