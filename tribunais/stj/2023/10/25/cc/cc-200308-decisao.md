@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Tribunal Regional do Trabalho da 4ª Região, suscitante, e o Juízo de Direito de Cachoeira do Sul/RS, suscitado.
+Consta dos autos que o pastor Paulo Sérgio Gonçalves da Silva ajuizou Medida Cautelar em face de CIEPADERGS (Convenção de Igrejas e Pastores da Assembleia de Deus no Rio Grande do Sul) com o objetivo de suspender e encerrar processo administrativo instaurado contra ele.
+A referida cautelar foi proposta na Justiça estadual, tendo juízo declinado da competência para a Justiça Especializada, por entender que a pretensão autoral decorre de relação de trabalho existente entre as partes (e-STJ, fls. 37-39).
+O Tribunal Regional do Trabalho, em recurso ordinário, considerou que a relação havida entre as partes possuía índole civil, suscitando o presente incidente. Eis a ementa do julgado (e-STJ, fl. 1.802):
+PRETENSÕES DECORRENTES DE VÍNCULO DE NATUREZA RELIGIOSA. PASTOR DE IGREJA. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. Não estão abrangidas no escopo do art. 114 da CF as relações mantidas entre as congregações religiosas e seus membros, tendo em vista que não há relação de trabalho propriamente dita a atrair a competência desta Justiça.
+O Ministério Público Federal apresentou parecer pelo "conhecimento do conflito de competência para o fim de declarar a competência do JUÍZO DE DIREITO DE CACHOEIRA DO SUL - RS, ora suscitado" (e-STJ, fl. 5.717).
+É o relatório.
+Decido.
+Assiste razão ao juízo suscitante.
+A leitura da petição inicial corrobora a conclusão exposta no acórdão que julgou o recurso ordinário, de que "a relação havida entre as partes não se caracteriza como de emprego nos termos da legislação trabalhista. Da mesma forma, entendo que o liame havido entre as partes não se assemelha aquele próprio das relações de trabalho de qualquer natureza, na medida em que a vinculação tem natureza diversa, ligada ao ofício religioso. Assim posta a questão, entendo que a competência para a apreciação e julgamento das matérias relativas ao processo de desligamento do autor, danos materiais e morais dele decorrentes é do Juízo Cível e não da Justiça do Trabalho" (e-STJ, fls. 1.817).
+Nessa linha também é o parecer exarado pelo i. Membro do Ministério Público Federal, que asseverou: "Em hipóteses deste gênero, a jurisprudência desta eg. Corte Superior caminha no sentido de que compete à Justiça Comum Estadual processar e julgar ação ordinária de natureza indenizatória proposta por membro de congregação religiosa porquanto a controvérsia ostenta cunho eminentemente religioso e civil" (e-STJ, fls. 5.717).
+A controvérsia, de fato, decorre de relação de cunho eminentemente religioso e civil, impondo-se o reconhecimento da competência da Justiça Comum estadual. A propósito, confira-se:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM ESTADUAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AFASTAMENTO DE MEMBRO DE CONGREGAÇÃO RELIGIOSA (IGREJA CATÓLICA) DE SEU MISTER RELIGIOSO. CAUSA DE PEDIR E PEDIDO. ÍNDOLE EMINENTEMENTE CIVIL. PRETENSÃO FULCRADA EXCLUSIVAMENTE NO CÓDIGO DE DIREITO CANÔNICO E NA LEGISLAÇÃO CIVIL.
+1. Compete à Justiça Comum Estadual processar e julgar ação de indenização por danos materiais e morais, na hipótese em que o autor da demanda, membro de congregação religiosa - Igreja Católica -, afirma ter sido indevidamente afastado do exercício de seu mister religioso, circunstância que teria levado à supressão de seus direitos canônicos.
+2. A controvérsia posta na demanda deriva de relação jurídica de cunho eminentemente religioso e civil, fundada exclusivamente no Código de Direito Canônico e no Código Civil.
+3. A causa de pedir e o pedido deduzidos na exordial nem sequer se referem à existência de relação de trabalho entre as partes.
+4. Conflito conhecido para declarar competente a Justiça Comum Estadual. (CC 135.709/SP, Rel. Min. RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 25/03/2015, DJe de 23/04/2015)
+Ante o exposto, conheço do presente conflito de competência para declarar competente o Juízo de Direito de Cachoeira do Sul/RS, suscitado.
+Publique -se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM ESTADUAL. MEDIDA CAUTELAR PARA SUSPENSÃO DE PROCESSO ADMINISTRATIVO. ACORDO ENTRE PASTOR E CONGREGAÇÃO RELIGIOSA. RELAÇÃO JURÍDICA DE CUNHO EMINENTEMENTE RELIGIOSO E CIVIL. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO COMUM ESTADUAL, SUSCITADO.
