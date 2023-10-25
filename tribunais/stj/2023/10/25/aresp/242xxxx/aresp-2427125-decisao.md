@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOAO LUCIO IGNACIO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. USUCAPIÃO ESPECIAL URBANA. PRETENSÃO DO AUTOR DE ADQUIRIR A PROPRIEDADE DO BEM IMÓVEL. PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA. REQUISITOS LEGAIS, PREVISTOS PELO ART. 1.240, DO CÓDIGO CIVIL, NÃO PREENCHIDOS. SENTENÇA DE IMPROCED NCIA QUE CONFERIU A CORRETA SOLUÇÃO À LIDE, DEVENDO SER CONFIRMADA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS, NOS TERMOS DO ART. 252, DO REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação dos arts. 5º, LV, da CF/88; e 369 do CPC, no que concerne à necessidade de configuração de cerceamento de defesa no caso dos autos, ante o julgamento antecipado da lide e a negativa da produção da prova testemunhal, imprescindível para comprovar as alegações do recorrente, trazendo a seguinte argumentação:
+Em primeiro lugar, numa manifesta violação á lei federal, precisamente aos artigos 369, do CPC/2015 e artigo 5, inciso LV, da Constituição Federal, o juízo "a quo", decidiu antecipadamente a lide, por entender ser desnecessária a produção de provas pelo Recorrente, decisão esta que, contou posteriormente com a reiteração do Tribunal que, através deste acórdão recorrido, negou provimento ao Recurso de Apelação de fls., por entender ser desnecessária a produção de provas pelo Recorrente, decisão esta que, admitiu o julgamento antecipado da lide, agindo arbitraria e abusivamente, em total desacordo com a Lei Federal, senão vejamos o teor do artigo 369, do CPC e do artigo 5º, inciso LV, da Constituição Federal:
+ ..
+E mais, no caso em tela, a oitiva de testemunhas é imprescindível para aferição de fatos relevantes, sendo certo que o julgamento antecipado da lide importa em violação ao contraditório e a ampla defesa.
+ ..
+Contudo, verifica-se que a parte ora Recorrente, pleiteou a produção de prova testemunhal e, no entanto, o Juízo a quo julgou antecipadamente, extinguindo a ação com fundamento no art. 487, I, do CPC/2015.
+Dessa forma, ao negar a produção de prova e, ao mesmo tempo, rejeitar as alegações do Autor/Recorrente sobre o direito de usucapir o imóvel apontado nos autos por ausência de provas do direito vindicado, a Corte de origem acabou por cercear o direito de defesa do Recorrente.
+ ..
+Há cerceamento de defesa quano o juiz indefere a realização de prova oral, requeridas oportuna e justidicadamente pela parte autora, com o fito de comprovar suas alegações, e o pedido é julgado improcedente por falta de provas (fls. 833- 835).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, sobre a alegada violação ao art. 5º, LV, da CF/88, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+No que concerne à preliminar de cerceamento de defesa, respeitado o entendimento do apelante, não merece acolhimento.
+Verifica-se estar a sentença recorrida bem fundamentada nos elementos probatórios coligidos aos autos, de molde a não se constatar mácula capaz de infirmá-la nesse aspecto.
+Registre-se, a par de não ter sido realizada a colheita da prova oral, a qual serviria para, no máximo, demonstrar o lapso temporal que a lei determina, a pretensão inicial já encontra óbice na própria posse qualificada, que não foi comprovada, tornando despicienda a instrução probatória.
+ ..
+Destarte, rejeita-se a preliminar (fl. 822).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
