@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PAULA DELIBERADOR BUDNE, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/PR.
+Recurso especial interposto em: 27/03/2023.
+Concluso ao Gabinete em: 20/10/2023.
+Ação: de obrigação de fazer cumulada com compensação de danos morais, ajuizada pela recorrente, em desfavor de HYUNDAI MOTOR BRASIL MONTADORA DE AUTOMOVEIS LTDA, SEVEC VEICULOS LTDA E LOVAT VEICULOS LTDA, em razão de vícios constatados em veículo zero quilômetro adquirido e não sanados no prazo de 30 (trinta) dias.
+Sentença: julgou parcialmente procedentes os pedidos, a fim de condenar as recorridas, solidariamente, ao pagamento de R$ 8.000,00 (oito mil reais) a título de danos morais.
+Acórdão: negou provimento à apelação interposta pela HYUNDAI MOTOR BRASIL MONTADORA DE AUTOMOVEIS LTDA e deu provimento à apelação interposta pela recorrente, a fim de julgar procedente, também, o pedido de devolução do automóvel viciado e consequente restituição do valor correspondente. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PEDIDO DE RESTITUIÇÃO DO VALOR DO AUTOMÓVEL E INDENIZAÇÃO POR DANOS MORAIS. DEFEITO DE FABRICAÇÃO EM MOTOR DE VEÍCULO. SENTENÇA DE PARCIAL PROCEDÊNCIA.
+RECURSO DA REQUERIDA (MONTADORA). ILEGITIMIDADE PASSIVA. NÃO ACOLHIMENTO. REQUERIDAS QUE COMPÕEM A MESMA CADEIA DE FORNECEDORES E SÃO RESPONSÁVEIS PELA INCLUSÃO DOS BENS NO MERCADO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA NOS TERMOS DO ART. 18, DO CÓDIGO DE DEFESA DO CONSUMIDOR. MÉRITO. INSURGÊNCIA QUANTO À INDENIZAÇÃO POR DANOS MORAIS. MANUTENÇÃO. FRUSTRAÇÃO, ANGÚSTIA E INCÔMODO GERADOS AO CONSUMIDOR QUE ULTRAPASSAM O DISSABOR COTIDIANO. INDENIZATÓRIO INALTERADO. ADEQUAÇÃO DO QUANTUM VALOR DE R$ 8.000,00 FIXADO NA SENTENÇA. RECURSO CONHECIDO AO QUAL SE NEGA PROVIMENTO.
+RECURSO DA AUTORA. PEDIDO DE CONDENAÇÃO DAS RÉS À RESTITUIÇÃO DO VALOR DO AUTOMÓVEL. COMPROVAÇÃO DO DEFEITO DE FABRICAÇÃO EM MOTOR DE VEÍCULO ZERO QUILÔMETRO. SOLUÇÃO DO PROBLEMA EM 60 DIAS, OU SEJA, APÓS O PRAZO LEGAL DE 30 DIAS, PREVISTO NO ART. 18, DO CÓDIGO DE DEFESA DO CONSUMIDOR. POSSIBILIDADE DE REQUERER, IMEDIATAMENTE, A RESTITUIÇÃO DO MONTANTE CORRESPONDENTE AO VEÍCULO. ALTERAÇÃO DA SENTENÇA NESSE TOCANTE. RESTITUIÇÃO PELO VALOR DE MERCADO DO AUTOMÓVEL, PELA TABELA FIPE, NA DATA DE SUA DEVOLUÇÃO.
+RECURSO CONHECIDO AO QUAL SE DÁ PROVIMENTO. ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS, DIANTE DA INTEGRAL PROCEDÊNCIA DOS PEDIDOS DA AUTORA.
+RECURSO DA REQUERIDA CONHECIDO E DESPROVIDO. RECURSO DO AUTOR CONHECIDO E PROVIDO (e-STJ fls. 1.189-1.190).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta a violação do art. 18, § 1º, II, do CDC, bem como dissídio jurisprudencial. Sustenta que a restituição a ser realizada à recorrente não deve ser limitada ao valor do bem na Tabela FIPE na data da devolução, uma vez que a lei prevê expressamente a restituição da quantia paga pelo consumidor, monetariamente atualizada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+O entendimento do TJ/PR, no sentido de que a restituição deve dar-se com base no valor de mercado do veículo no momento de sua devolução às recorridas, utilizando-se como padrão o previsto na Tabela FIPE, está em dissonância com os julgados do STJ no sentido de que o valor a ser restituído deve corresponder à quantia paga pelo consumidor, corrigida monetariamente desde o desembolso, conforme prevê o inciso II do § 1º do art. 18 do CDC, não sendo devido abatimento decorrente da utilização do produto pelo consumidor (AgInt no AREsp 2.233.500/DF , 4ª Turma, DJe 13/09/2023; AgInt no REsp 1.990.272/SP , 4ª Turma, DJe 01/09/2023; REsp 2.025.169/RS, 3ª Turma, DJe 10/03/2023; e REsp 2.000.701/PR , 3ª Turma, DJe 01/09/2022).
+Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, com fundamento no art. V, "a", do CPC/2015, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO a fim de determinar às recorridas a restituição da quantia paga pela recorrida devidamente atualizada.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO DE DANOS MORAIS. VEÍCULO ZERO QUILÔMETRO. VÍCIO DE QUALIDADE. RESTITUIÇÃO DO VALOR ATUAL DE MERCADO DO VEÍCULO. NÃO CABIMENTO.
+1. Ação de obrigação de fazer cumulada com compensação de danos morais, em razão de vícios constatados em veículo zero quilômetro adquirido e não sanados no prazo de 30 (trinta) dias.
+2. Nos termos do art. 18, § 1º, II, do CDC, após o transcurso do prazo de 30 (trinta) dias sem que haja a efetiva correção do vício exsurge para o consumidor o direito potestativo de exigir, segundo a sua conveniência, alguma das seguintes providências: (i) a substituição do produto por outro da mesma espécie, em perfeitas condições de uso; (ii) a restituição imediata da quantia paga, monetariamente atualizada, sem prejuízo de eventuais perdas e danos; ou (iii) o abatimento proporcional do preço.
+3. O valor a ser restituído deve corresponder à quantia paga pelo consumidor, corrigida monetariamente desde o desembolso, não sendo devido abatimento decorrente da utilização do produto pelo consumidor.
+4. Recurso especial conhecido e provido.
