@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu Recurso Especial interposto contra acórdão assim ementado:
+"APELAÇÕES CÍVEIS E REEXAME NECESSÁRIO - LICENÇAS ESPECIAIS CONVERTIDAS EM ACERVO DE TEMPO DE SERVIÇO - INFORMAÇÃO CONSTANTE DO DOSSIÊ DE HISTÓRICO FUNCIONAL DO SERVIDOR - DOCUMENTO UTILIZADO COMO BASE PARA APURAÇÃO DOS PERÍODOS AQUISITIVOS E AUSÊNCIA DE FRUIÇÃO DA LICENÇA-PRÊMIO - CONTAGEM DO PERÍODO EM DOBRO PARA APOSENTADORIA - LICENÇA QUE DEIXA DE INTEGRAR O PATRIMÔNIO DO SERVIDOR - IMPOSSIBILIDADE DE INDENIZAÇÃO - AFASTAMENTO CAUTELAR EM RAZÃO DE PROCESSO ADMINISTRATIVO - PERÍODO QUE NÃO PODE SER ADMITIDO COMO DE EFETIVO EXERCÍCIO - HIPÓTESE NÃO PREVISTA NO ROL TAXATIVO DO ART. 109 DA LC Nº 92/2002 - PRECEDENTE DO STJ - REFORMA PARCIAL DA SENTENÇA EM SEDE DE REEXAME NECESSÁRIO COM REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS - RECURSOS DE APELAÇÃO PREJUDICADOS" (fl. 487e).
+A parte agravante opôs a esse acórdão Embargos de Declaração, sustentando que o Tribunal de origem teria deixado de subsumir, ao caso concreto, os arts. 7º, 10, 141, 336, 342, 1.013 e 1.014, todos do CPC/2015 e 5º, LV, da Constituição Federal (fl. 514e).
+Os Aclaratórios foram rejeitados sob o fundamento de que "não há que se falar em julgamento ultra ou extra petita, como alegado pelo embargante, já que o acórdão embargado procedeu a novo julgamento do feito, pautando-se nas provas carreadas aos autos e já submetidas ao exercício do contraditório". Aduziu, ainda, o Juízo a quo: "destaco que a circunstância de não ter sido comprovado requerimento do servidor para a conversão das licenças em acervo foi devidamente sopesada" (fl. 540e).
+No Recurso Especial se aponta ofensa aos arts. 7º, 10, 141 e 336 do CPC/2015.
+A pretensão não merece acolhimento.
+Inicialmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos arts. 7º, 10, 141 e 336 do CPC/2015, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I
+EMENTA
