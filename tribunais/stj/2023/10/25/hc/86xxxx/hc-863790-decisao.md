@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de Valdir Reche Horacio, com a alegação de constrangimento ilegal perpetrado pelo Tribunal de Justiça de Goiás no julgamento do HC n. 5632719-13.2023.8.09.0051.
+Busca-se a concessão da medida liminar para suspender a continuidade das investigações do Inquérito Policial n. 5193106- 85.2022.8.09.0051 perante a Vara dos Feitos Relativos a Delitos Praticados por Organização Criminosa e de Lavagem ou Ocultação de Bens, Direitos e Valores de Goiânia/GO, e, ao final, o desmembramento do feito em relação paciente (fl. 15), com a sua subsequente remessa para a Comarca de Água Boa/MT (art. 70, do CPP) - local onde o Sr. Vinícius Pereira da Silva ingressou na aeronave pertencente à Supermax - ou de Barueri/SP (art. 72 do CPP) - município onde está sediada a Supermax (fl. 14).
+Alega-se que é manifesta a incompetência da comarca de Goiânia/GO para conduzir as investigações contra o paciente, sustentando-se que uma simples análise do "despacho comunicatório" elaborado pela Autoridade Policial no dia 15.9.2023 (Doc. 3) permite verificar a mais completa ausência de conexão entre os fatos que ensejaram a instauração do Inquérito Policial n. 5193106-85.2022.8.09.0051 e aqueles que vêm sendo atribuídos ao paciente e à empresa Supermax (fl. 9).
+Defende-se que os fatos identificados em relação ao paciente e à Supermax no referido caderno investigativo não passam de um mero encontro fortuito de provas, o que deve ensejar a sua remessa ao foro territorialmente competente para a sua apuração (fl. 14).
+Estes autos foram a mim distribuídos por prevenção (HC n. 836.071/GO).
+É o relatório.
+Não há o que censurar na decisão tomada pelo Tribunal estadual, que, para não conhecer do writ lá ajuizado, considerou o fato de não haver flagrante ilegalidade a justificar a utilização da via eleita.
+Com efeito, não há como se aprofundar, na via do habeas corpus, no exame do material fático-probatório para se entender pela apontada incompetência do foro de Goiânia/GO, considerando-se, sobretudo, as conclusões de que os autos se encontram em fase de apuração, sem que as investigações tenham se encerrado (fl. 89), e de que as teses da defesa devem ser analisadas com maior profundidade primeiro pelo Juízo de piso, sob o risco de supressão intempestiva da deliberação do Juízo natural (fl. 90).
+Como bem destacado pelo acórdão impugnado, agora, com a determinação de redistribuição dos autos à Vara dos Feitos Relativos a Delitos Praticados por Organização Criminosa e de Lavagem ou Ocultação de Bens, Direitos e Valores, os pedidos deverão ser apreciados pelo novo Juízo, de modo que qualquer incursão deste colegiado seria, portanto, prematura (fl. 20).
+Pelo exposto, indefiro liminarmente a petição inic ial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. OPERAÇÃO HANANIAS. LEI N. 7.802/1989. PEDIDO DE DESMEMBRAMENTO DO INQUÉRITO POLICIAL. COMPETÊNCIA DO JUÍZO. PRÉVIO WRIT NÃO CONHECIDO. NECESSIDADE DE INCURSÃO APROFUNDADA EM MATÉRIA FÁTICO-PROBATÓRIA. INEVIDÊNCIA DE ILEGALIDADE A JUSTIFICAR A UTILIZAÇÃO DA VIA ELEITA.
+Writ indeferido liminarmente.
