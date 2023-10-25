@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Lucas Mauricio Santos Silva - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1525634-50.2022.8.26.0228), não comporta processamento.
+Com efeito, busca a impetração a anulação do acórdão a quo, ao argumento de que o paciente não conseguiu realizar sua defesa em juízo, foi considerado revel e sua situação se tornou desfavorável, ora, a confissão extrajudicial deve ser afastada, eis que efetuada longe das garantias do contraditório e da ampla defesa e não foi repetida nem ratificada em juízo (fl. 5). Subsidiariamente, requer-se a redução da pena em até 2/3, visto que não se provou que o paciente se dedicasse a atividades criminosas nem integrasse organização criminosa, não há fundamento legal para deixar de aplicar a redução da pena, nos moldes do art. 33, § 4º, da Lei n. 11.343/2006 (fls. 8/9).
+Ocorre que a via eleita foi indevidamente utilizada como espécie de segunda apelação, na intenção de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, da análise dos autos, não se verifica coação ilegal manifesta, pois deve ser reconhecida a revelia, assim como feito pela Corte local, posto que intimado pessoalmente, o réu não compareceu à audiência de instrução e julgamento nem justificou sua ausência, atraindo a incidência do art. 367 do CPP (AgRg no HC n. 691.051/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/8/2022), bem como o Magistrado singular afastou a incidência da minorante do tráfico privilegiado em razão da reincidência específica do acusado, em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DA VIA ELEITA. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL À LIBERDADE DE LOCOMOÇÃO.
+Inicial indeferida liminarmente.
