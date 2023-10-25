@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por CELSO LUIS LODUCCA e OUTRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 47):
+Voto n.º 47.214Agravo de instrumento. Cumprimento provisório de sentença. Indeferimento do pedido de substituição da penhora. Manutenção. Fiança bancária sem o acréscimo de 30% do valor do débito exequendo. Inteligência do artigo 835, parágrafo 2º, do Código de Processo Civil. Agravo desprovido.
+Rejeitados os embargos de declaração opostos (fls. 54-57).
+No recurso especial, alegam os recorrentes, preliminarmente, ofensa aos arts. 489, § 1º, II, e 535, I, do CPC/1973 (atual art. 1.022, I, do Código de Processo Civil), ao sustentar ausência de fundamentação do acórdão recorrido.
+Aduzem que, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia
+Apontam, ainda, afronta aos arts. 835, § 2º, e 854, § 5º, também, do CPC, ao pleitearem, em síntese, que seja aceita a fiança bancária que ofereceram à penhora no caso dos autos.
+Alegam que a fiança bancária produz os mesmos efeitos do dinheiro, não só quando oferecida em substituição à penhora anterior, mas também quando indicada para garantia do juízo em penhora inicial.
+Foram oferecidas contrarrazões ao recurso especial (fls. 79-87).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 120-122), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 146-163).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa aos arts. 489, § 1º, I e IV, e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Assim, manifestou-se a Corte a quo de maneira clara e fundamentada sobre as questões postas a julgamento, não obstante tenha entendido o julgador de segundo grau em sentido contrário ao posicionamento defendido pela ora recorrente.
+Outrossim, consigne-se inviável a apreciação das alegações dos recorrentes, considerando que a Corte de origem, ao entender pela impossibilidade da substituição da penhora no caso dos autos, firmou o entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fl. 48):
+Nesse contexto, considerando que os agravantes sustentam que o débito exequendo totaliza a importância de R$ 8.032.652,12 e fiança bancária é de R$ 10.000.000,00, constata-se que não houve o acréscimo de 30% do valor do débito exequendo, o que impede a substituição da penhora.
+No mesmo sentido é o entendimento do Colendo Superior Tribunal de Just iça: "No caso, após a definição dos valores a serem pagos a título de perdas e danos e de astreintes, nova penhora poderá ser feita, devendo ser autorizado, nesse instante, o oferecimento de seguro garantia judicial pelo devedor, desde que cubra a integralidade do débito e contenha o acréscimo de 30% (trinta por cento), pois, com a entrada em vigor do CPC/2015, equiparou-se a dinheiro. (..)" (REsp1691748/ PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/ 11/ 2017, DJe 17/ 11/ 2017)
+Vale dizer, ainda, que não se desconhece a controvérsia quanto ao valor efetivo do débito exequendo, porém não pode ser considerada apenas a importância que os agravantes reputam correta, sob pena de violação ao princípio da isonomia, devendo-se adotar o maior valor para preservar o interesse do credor enquanto não decidida a matéria.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis , cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. BLOQUEIO DE ATIVOS FINANCEIROS. COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL. JUÍZO DA RECUPERAÇÃO JUDICIAL QUE PROCEDE APENAS AO CONTROLE DE ATOS CONSTRITIVOS QUE ENVOLVAM BENS CONSIDERADOS ESSENCIAIS. PRECEDENTES. AUSÊNCIA DA HIPÓTESE DO ART. 6º, § 7º-B, DA LEI N. 11.101/2005. BEM CONSTRITO. AUSÊNCIA DE ESSENCIALIDADE. REVISÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Lei n. 14.112/2020, a seu modo, delimitou a competência do Juízo em que se processa a execução fiscal (a qual não se suspende pelo deferimento da recuperação judicial) para determinar os atos de constrição judicial sobre os bens da recuperanda; e firmou a competência do Juízo da recuperação judicial "para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial".
+2. Com a Lei n. 14.112/2020, o Juízo da execução fiscal, ao determinar o prosseguimento do feito executivo ou, principalmente, a constrição judicial de bem da recuperanda, não adentra indevidamente na competência do Juízo da recuperação judicial.
+3. A partir da vigência da Lei n. 14.112/2020, o Juízo da recuperação judicial tem a competência específica para determinar o sobrestamento dos atos de constrição exarados no bojo de execução de crédito extraconcursal que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial durante o período de blindagem. Em se tratando de execuções fiscais, a competência do Juízo recuperacional restringe-se a substituir os atos de constrição que recaíam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial.
+4. Não se autoriza ao Juízo da recuperação sobrestar ato judicial de constrição, exarado pelo Juízo em que se processa execução fiscal, sobre bem que não se caracterize como "bem de capital".
+5. Na hipótese, ficou assentada a ausência de demonstração quanto à essencialidade do valor constrito para a manutenção da atividade empresarial e a não existência de nenhuma indicação de bens em substituição à penhora realizada pelo Juízo da execução fiscal.
+6. Elidir a conclusão da Corte de origem acerca da essencialidade do bem demanda a análise do conteúdo fático-probatório dos autos, o que se mostra inviável em recurso especial, consoante Súmula n. 7/STJ.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.066.805/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
