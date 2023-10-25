@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 580/585) apresentados contra decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PEDIDO ADMINISTRATIVO DE RESSARCIMENTO. DEMORA DO FISCO NA ANÁLISE DO PEDIDO. CORREÇÃO MONETÁRIA. TERMO INICIAL. INCIDÊNCIA A PARTIR DO EXAURIMENTO DO PRAZO DE 360 DIAS PARA ANÁLISE DO PEDIDO, PELA ADMINISTRAÇÃO PÚBLICA, NOS TERMOS DO ART. 24 DA LEI 11.457/2007. MATÉRIA JULGADA SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. TEMA 1.003/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE PARA, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+A embargante sustenta, em suma que:
+Excelência, o erro material incorrido na decisão embargada é demonstrado pelo fato deste D. Ministro deixar de se ater ao fato de que o pleito inicial da Embargante se refere ao enquadramento no procedimento especial disposto na Portaria nº 348/2010 e não aos demais casos de pedido administrativo de ressarcimento junto à Receita Federal, que possuem o prazo de 360 dias para análise, conforme disposição do art. 24da Lei 11.457/07.
+Requer sejam acolhidos os embargos.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Não obstante os argumentos do embargante, constou expressamente da decisão embargada que:
+No que tange à alegada violação aos artigos 489 e 1.022 do CPC/2015, verifica-se que as razões de recorrer são genéricas, na medida em que limitam-se a afirmar que o acórdão a quo foi omisso quando a avaliação dos embargos de declaração, sem contudo delimitar como a tese omitida é fundamental à conclusão do julgado e, se examinada, como levaria à sua anulação ou reforma. Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".  ..  Com efeito, o Tribunal de origem adotou posicionamento que destoa da orientação desta Corte Superior de Justiça no sentido de que "Está sedimentado no STJ a orientação de que a correção monetária somente incide após o encerramento do prazo legal (trezentos e sessenta dias, contados da data do protocolo) concedido para a autoridade fiscal analisar o pedido administrativo de ressarcimento. Sendo que o termo inicial da contagem da correção monetária se inicia após o prazo estipulado no citado dispositivo legal." (REsp n. 1.764.791/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2018, DJe de 25/10/2019.)
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC.
+Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
