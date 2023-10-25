@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado por Raquel Miguel da Silva, apontando como divergentes os juízos da 16ª Vara do Juizado Especial Cível de Goiânia/GO e o Juizado Especial Cível da Comarca de Vianópolis, no mesmo estado.
+Narra a suscitante ter ajuizado ação contra instituição privada de ensino superior perante a Justiça Estadual, na comarca de Vianópolis/GO (Processo n. 5297053-94 .2023.8.09.0157), que restou extinta por aquele juízo, de plano, diante do reconhecimento de sua incompetência absoluta. Em seguida, ainda segundo a inicial do presente incidente, a parte autora ajuizou a mesma demanda, dessa vez perante a Justiça Federal da capital goiana, que "também extinguiu o feito sem resolução do mérito por incompetência (doc. 4.2), alegando competência da Justiça Estadual, com base no Tema 1.154 Supremo Tribunal Federal" (fl. 6).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Embora o presente incidente envolva juízos vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, ele não pode ser conhecido.
+Com efeito, o conflito negativo de competência pressupõe a demonstração de que dois ou mais juízes se declararam competentes ou incompetentes para o julgamento do mesmo processo (AgRg no CC 113.767/DF, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 1º/7/2011, DJe 14/10/2011). No caso, contudo, cada julgador se manifestou em autos distintos, proferindo sentença de extinção do feito sem resolução de mérito, ausente qualquer notícia sobre eventual interposição de recurso quanto aos respectivos julgados.
+Em tal situação, não há conflito a ser dirimido. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NO CONFLITO DE COMPETÊNCIA. AÇÃO CAUTELAR FISCAL E EXECUÇÕES FISCAIS. ART. 115 DO CPC. PRESSUPOSTOS DO CONFLITO. NÃO-CONFIGURAÇÃO. EXECUÇÕES FISCAIS EM TRÂMITE PERANTE DIVERSOS JUÍZOS. INEXISTÊNCIA DE DECLARAÇÃO OU PRÁTICA DE ATOS, POR QUALQUER DOS JUÍZOS SUSCITADOS, RECONHECENDO A COMPETÊNCIA PARA O MESMO PROCESSO.
+1. Para caracterizar-se o conflito de competência, é indispensável a manifestação expressa de dois ou mais juízos que se considerem competentes ou incompetentes para processar e julgar a "mesma demanda" (Corte Especial, Rel. Min. Castro Meira, DJe de 14.10.2011). Com efeito, para a configuração de conflito, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o "mesmo feito", ou que incida a prática de atos processuais "na mesma causa", por mais de um juiz (2ª Seção, AgRg no CC 120.584/GO Rel. Min. Massami Uyeda, DJe de 1º.8.2012).
+2. Quando não configurados os pressupostos do conflito de competência, tal incidente processual pode ser decidido monocraticamente, a teor do que dispõem os arts. 34, XVIII, do RISTJ, 38, da Lei 8.038/90, e 120, parágrafo único, do CPC.
+3. No caso, não se está diante de um conflito positivo de competência, pois, além de cada juízo suscitado encontrar-se atuando em sua própria esfera de jurisdição, sem, portanto, praticar atos processuais na "mesma causa", não se constata, principalmente, que tais atos sejam excludentes entre si.
+4. O conflito de competência não pode ser utilizado como sucedâneo recursal, bem como não se presta a resolver questões que devem ser dirimidas nas instâncias ordinárias.
+5. Agravos regimentais não providos.
+(AgRg no CC n. 121.226/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 13/3/2013, DJe de 2/4/2013).
+ANTE O EXPOSTO, não conheço do presente conflito d e competência.
+Dê-se ciência ao MPF.
+Publique-se.
+EMENTA
