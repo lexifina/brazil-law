@@ -1,0 +1,43 @@
+Trata-se de recurso extraordinário com agravo interposto em desfavor de acórdão assim ementado:
+
+    “Recurso inominado - Policial militar - Pretensão à contagem do tempo para aposentadoria especial junto ao INSS - Atividade de policiamento que se caracteriza como perigosa - Possibilidade da certidão com referência à natureza do serviço - Sentença de procedência mantida pelos próprios fundamentos - Recurso da parte requerida desprovido.” (doc. eletrônico 9, p. 2).
+
+    Os embargos de declaração que se seguiram foram rejeitados. (doc. 14)
+
+    No recurso extraordinário, fundado no art. 102, III, a, da Constituição, alega-se contrariedade aos arts. 40, § 4°, III e § 10; 42, § 1º; 102, § 2º; e 142, § 3º, X, da mesma Carta (doc. eletrônico 16).
+
+    A pretensão recursal não merece acolhida.
+
+    Inicialmente, registro que esta Suprema Corte, ao apreciar o RE 1.014.286-RG/SP (Tema 942 da Repercussão Geral), de relatoria do Ministro Luiz Fux, assim consignou:
+
+    “Até a edição da Emenda Constitucional nº 103/2019, o direito à conversão, em tempo comum, do prestado sob condições especiais que prejudiquem a saúde ou a integridade física de servidor público decorre da previsão de adoção de requisitos e critérios diferenciados para a jubilação daquele enquadrado na hipótese prevista no então vigente inciso III do § 4º do art. 40 da Constituição da República, devendo ser aplicadas as normas do regime geral de previdência social relativas à aposentadoria especial contidas na Lei 8.213/1991 para viabilizar sua concretização enquanto não sobrevier lei complementar disciplinadora da matéria. Após a vigência da EC n.º 103/2019, o direito à conversão em tempo comum, do prestado sob condições especiais pelos servidores obedecerá à legislação complementar dos entes federados, nos termos da competência conferida pelo art. 40, § 4º-C, da Constituição da República.”
+
+    Por oportuno, transcrevo a ementa do referido paradigma, julgado em 24/9/2020 pelo Tribunal Pleno, redator para acórdão o Ministro Edson Fachin:
+
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ARTIGO 40, § 4º, III, DA CONSTITUIÇÃO DA REPÚBLICA. PEDIDO DE AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO EM ATIVIDADES EXERCIDAS SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA DO SERVIDOR, COM CONVERSÃO DO TEMPO ESPECIAL EM COMUM, MEDIANTE CONTAGEM DIFERENCIADA, PARA OBTENÇÃO DE OUTROS BENEFÍCIOS PREVIDENCIÁRIOS. POSSIBILIDADE ATÉ A EDIÇÃO DA EMENDA CONSTITUCIONAL N.º 103/2019. DIREITO INTERTEMPORAL. APÓS A EDIÇÃO DA EC 103/2019, O DIREITO À CONVERSÃO OBEDECERÁ À LEGISLAÇÃO COMPLEMENTAR DOS ENTES FEDERADOS. COMPETÊNCIA LEGISLATIVA CONFERIDA PELO ART. 40, § 4º-C DA CRFB. 1. A Constituição impõe a construção de critérios diferenciados para o cômputo do tempo de serviço em condições de prejuízo à saúde ou à integridade física, conforme permite verificar a interpretação sistemática e teleológica do art. 40, § 4°, CRFB. 2. Desde a edição das Emendas Constitucionais 20/1998 e 47/2005, não há mais dúvida acerca da efetiva existência do direito constitucional daqueles que laboraram em condições especiais à submissão a requisitos e critérios diferenciados para alcançar a aposentadoria. Nesse sentido é a orientação desta Suprema Corte, cristalizada no verbete de n.º 33 da Súmula da Jurisprudência Vinculante: ‘Aplicam-se ao servidor público, no que couber, as regras do regime geral da previdência social sobre aposentadoria especial de que trata o artigo 40, § 4º, inciso III da Constituição Federal, até a edição de lei complementar específica.’ 3. Ao permitir a norma constitucional a aposentadoria especial com tempo reduzido de contribuição, verifica-se que reconhece os danos impostos a quem laborou em parte ou na integralidade de sua vida contributiva sob condições nocivas, de modo que nesse contexto o fator de conversão do tempo especial em comum opera como preceito de isonomia, equilibrando a compensação pelos riscos impostos. A conversão surge, destarte, como consectário lógico da isonomia na proteção dos trabalhadores expostos a agentes nocivos. 4. Após a EC 103/2019, o § 4º-C do art. 40 da Constituição, passou a dispor que o ente federado poderá estabelecer por lei complementar idade e tempo de contribuição diferenciados para aposentadoria de servidores cujas atividades sejam exercidas com efetiva exposição a agentes químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, vedada a caracterização por categoria profissional ou ocupação. Não há vedação expressa ao direito à conversão do tempo comum em especial, que poderá ser disposta em normativa local pelos entes federados, tal como operou a legislação federal em relação aos filiados ao RGPS, nos termos do art. 57, da Lei 8213/91. 5. Recurso extraordinário desprovido, com fixação da seguinte tese: ‘Até a edição da Emenda Constitucional nº 103/2019, o direito à conversão, em tempo comum, do prestado sob condições especiais que prejudiquem a saúde ou a integridade física de servidor público decorre da previsão de adoção de requisitos e critérios diferenciados para a jubilação daquele enquadrado na hipótese prevista no então vigente inciso III do § 4º do art. 40 da Constituição da República, devendo ser aplicadas as normas do regime geral de previdência social relativas à aposentadoria especial contidas na Lei 8.213/1991 para viabilizar sua concretização enquanto não sobrevier lei complementar disciplinadora da matéria. Após a vigência da EC n.º 103/2019, o direito à conversão em tempo comum, do prestado sob condições especiais pelos servidores obedecerá à legislação complementar dos entes federados, nos termos da competência conferida pelo art. 40, § 4º-C, da Constituição da República.”
+
+    No caso dos autos, verifica-se que o juízo de origem concluiu que “assiste razão ao autor quanto à possibilidade de conversão do tempo de serviço prestado pelo servidor público sob condições especiais em tempo comum” (doc. eletrônico 3, p. 2).
+
+    Por sua vez, o tribunal a quo entendeu que:
+
+    “a r. decisão deve ser confirmada pelos seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo não provimento do recurso, nos termos do art. 46 da Lei n.º 9.099/95 e do artigo 252 do Regimento Interno do Egrégio Tribunal de Justiça.” (doc. eletrônico 9, p. 3)
+
+     Registro, ainda, que esta Suprema Corte, ao apreciar o ARE 906.569-RG/PE, de relatoria do Ministro Edson Fachin (Tema 852/RG), rejeitou a repercussão geral da discussão acerca da caracterização da especialidade de labor, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, por entender que a solução da controvérsia demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. DIREITO PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONVERSÃO DO TEMPO DE SERVIÇO. CARACTERIZAÇÃO DA ESPECIALIDADE DO LABOR. ARTIGOS 57 E 58 DA LEI 8.213/91.
+
+    1. A avaliação judicial de critérios para a caracterização da especialidade do labor, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, conforme previsão dos artigos 57 e 58 da Lei 8.213/91, é controvérsia que não apresenta repercussão geral, o que inviabiliza o processamento do recurso extraordinário, nos termos do art. 543-A, §5º, do Código de Processo Civil.
+
+    2. O juízo acerca da especialidade do labor depende necessariamente da análise fático-probatória, em concreto, de diversos fatores, tais como o reconhecimento de atividades e agentes nocivos à saúde ou à integridade física do segurado; a comprovação de efetiva exposição aos referidos agentes e atividades; apreciação jurisdicional de laudos periciais e demais elementos probatórios; e a permanência, não ocasional nem intermitente, do exercício de trabalho em condições especiais. Logo, eventual divergência ao entendimento adotado pelo Tribunal de origem, em relação à caracterização da especialidade do trabalho, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Honorários advocatícios majorados em 1% (um por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 25 de outubro de 2023.
+
+Ministro Cristiano Zanin
+
+Relator
