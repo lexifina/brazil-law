@@ -1,0 +1,79 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. EMPRESÁRIO INDIVIDUAL. PARCERIA COMERCIAL. GERENTE. RESPONSABILIDADE. CONFUSÃO PATRIMONIAL. ABUSO DE RELAÇÃO AFETIVA E PROFISSIONAL. DANOS MATERIAIS E MORAIS. CONFIGURAÇÃO. DEFESA DE INTERESSE ALHEIO EM NOME PRÓPRIO. IMPOSSIBILIDADE. NEGÓCIO JURÍDICO. COMPRA DE BEM IMÓVEL. SIMULAÇÃO. NULIDADE. RECURSOS INTERPOSTOS PELAS AUTORAS PARCIALMENTE PROVIDOS. RECURSOS MANEJADOS PELOS RÉUS DESPROVIDOS.
+
+    1. Na presente hipótese a questão submetida ao conhecimento deste Egrégio Tribunal de Justiça consiste em examinar as consequências jurídicas decorrentes das relações pessoais e profissionais estabelecidas entre as partes, assim como a responsabilidade por eventuais danos causados. 1.1. Caso em que a autora sustenta ter sido vítima de abuso no âmbito de relação afetiva, que provocou diversos danos de natureza pessoal e profissional.
+
+    2. Diante da evidente conexão existente entre as demandas veiculadas nos autos do processo nº 0703278-17.2019.8.07.0006, do processo nº 0705523-35.2018.8.07.0006 e do processo nº 070862531.2019.8.07.0006, o exame das razões recursais formuladas pelos apelantes no âmbito dos três referidos processos revela a necessidade de apreciação conjunta das postulações, para evitar decisões conflitantes ou contraditórias (art. 55, § 3º, do CPC). 2.1. O conjunto probatório coligidos aos autos confirma a existência de relacionamento tanto de caráter amoroso, quanto de caráter profissional entre autora e réu.
+
+    3. No âmbito dos autos do processo nº 0703278- 17.2019.8.07.0006 as demandantes pretendem o ressarcimento de danos materiais e morais, em virtude de supostos desvios de recursos perpetrados pelo réu, que teriam sido auferidos mediante o exercício de atividade empresarial no ramo dos cosméticos. 3.1. É incontroverso nos autos que o réu exercia as funções de administração geral da aludida prática comercial, enquanto sua esposa promovia atos de administração financeira. A demandante, empresária individual, atuava como vendedora, recebendo comissão pelas vendas efetivadas e mais uma bonificação pela disponibilização aos réus da estrutura empresarial compreendida pelo estabelecimento comercial, pelas contas bancárias e pelo registro no CNPJ. 3.2. Os elementos de prova coligidos aos autos indicam que o réu, ao atuar na qualidade de gerente, assim como sua esposa, atuando na função de gerente financeira, direcionaram irregularmente recursos financeiros oriundos da atividade empresarial desempenhada pelas partes para realizar vultosas despesas exclusivamente em benefício próprio e de terceiros, a despeito de qualquer contraprestação.
+
+    4. De acordo com a regra prevista no art. 884 do Código Civil aquele que, sem justa causa, se enriquecer à custa de outrem, será obrigado a restituir o indevidamente auferido, feita a atualização dos valores monetários. 4.1. No caso dos autos, foi demonstrada a realização de diversas transferências bancárias promovidas pelo demandado em benefício de familiares e conhecidos, em relação aos quais não foi comprovado o oferecimento de nenhuma contraprestação à atividade empresarial exercida pelas partes. 4.2. Assim, deve ser imposta ao réu a obrigação de restituir os valores destinados ao custeio de despesas de caráter estritamente pessoal, que não tenham nenhum vínculo comprovado com a atividade empresarial exercida pela empresária individual.
+
+    5. A pessoa física pode ser diretamente responsabilizada, com a expropriação de seu patrimônio pessoal, desde que a dívida esteja relacionada à exploração da atividade empresarial. Isso ocorrerá somente após a tentativa de constrição dos bens afetados ao exercício da atividade empresarial (enunciado nº 5 da I Jornada de Direito Comercial do Conselho da Justiça Federal). 5.1. Caso em que foram contraídas dívidas de natureza tributária e comercial no período em que o demandado atuou na administração do comércio de cosméticos desempenhado pela empresária individual. 5.2. O sentimento de confiança derivado do relacionamento afetivo mantido entre autora e réu não é suficiente para isentar a demandante da responsabilidade solidária pelas dívidas contraídas no âmbito da atividade empresária desempenhada em parceria por ambos. 5.3. Por outro lado, à vista da gestão temerária empreendida pelo réu, também não é possível acolher os argumentos por ele articulados no sentido de que a responsabilidade pelo pagamento dos débitos em questão seria exclusiva da autora. 5.4. Reconhecida a responsabilidade solidária e proporcional pelo pagamento dos débitos oriundos da atividade empresária.
+
+    6. A configuração do dano moral, prevista na Constituição Federal (artigo 5º, inc. X), revela-se diante da vulneração da esfera jurídica extrapatrimonial da parte pela conduta empreendida pelo causador do respectivo ilícito indenizatório. 6.1. Por essa razão a fixação do valor do dano moral deve abarcar não só a compensação à vítima, mas servir também de desestímulo ao ofensor. 6.2. No caso em exame o conjunto probatório coligido aos três autos examinados conjuntamente evidencia a indevida interferência à esfera jurídica extrapatrimonial das demandantes. 6.3. A reparação de danos, de acordo com o sistema jurídico pátrio, tem como fundamento a ocorrência de um fato ilícito (em sentido lato). O caso presente deve tratar, em tese, da ocorrência de atos ilícitos, sendo que o pedido indenizatório aqui em destaque encontra amparo no art. 186, em composição com o art. 927, ambos do Código Civil.
+
+    7. No âmbito dos autos do processo nº 0705523- 35.2018.8.07.0006, sustenta a autora que a sentença impugnada deve ser reformada para que o pedido referente à desconstituição do negócio jurídico alusivo à compra de veículo seja julgado procedente. 7.1. De acordo com a regra prevista no art. 18 do Código de Processo Civil “ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico”. 7.2. Caso em que a demandante, pessoa física, pretendeu a desconstituição de negócio jurídico consistente na compra de veículo cuja propriedade é atribuída à empresária individual, pessoa jurídica que não integrou a relação jurídica processual.
+
+    8. Alegam as autoras, no âmbito dos autos do processo nº 0708625-31.2019.8.07.0006, que o imóvel objeto da demanda foi comprado com recursos financeiros provenientes da atividade empresarial exercida por empresária individual, desviados pelo réu para conta bancária de sua sogra. 8.1. De acordo com a regra prevista no art. 167 do Código Civil é nulo o negócio jurídico simulado, subsistindo o que se dissimulou, se válido for na substância e na forma. 8.2. A esse respeito, convém relembrar que a simulação é constatada nos casos em que o negócio jurídico aparenta conferir ou transmitir direitos a pessoas diversas daquelas às quais realmente se conferem, ou transmitem (art. 167, § 1º, inc. I, do Código Civil).
+
+    9. Hipótese em que o réu utilizou-se de recursos financeiros pertencentes à empresária individual para adquirir o imóvel por intermédio de sua sogra. 9.1. O negócio jurídico celebrado entre os réus e a sociedade empresária alienante do imóvel, deve ser considerado nulo, subsistindo a compra do bem pela empresária individual, em nome de quem deve ser registrada a respectiva propriedade. 10. Recursos de apelação interpostos pelas demandantes nos autos do processo nº 0703278-17.2019.8.07.0006, do processo nº 0705523-35.2018.8.07.0006 e do processo nº 070862531.2019.8.07.0006, parcialmente providos, apenas para determinar a restituição, pelo réu, de todos valores destinados ao custeio de despesas de caráter estritamente pessoal, que não tenham nenhum vínculo comprovado com a atividade empresarial exercida pelas partes. Recursos interpostos pelos demandados desprovidos.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos I, XXXVII e LIV, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o(s) art(s). 5º, incisos I e XXXVII da Constituição, apontado(s) como violado(s), carece(m) do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da(s) referida(s) norma(s). Além disso, a matéria apresentada nos embargos de declaração não supre o requisito do prequestionamento. Incidem no caso as Súmulas 282 e 356/STF. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Incidência das Súmulas nºs 282 e 356/STF. Precedentes. 1. É inadmissível o recurso extraordinário se a matéria constitucional que nele se alega violada não está devidamente prequestionada. Incidência das Súmulas nºs 282 e 356/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.230.706/DF - AgR, Tribunal Pleno, Rel.  Min. Dias Toffoli, DJe de 18/12/2019).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. PRETENSÃO DE FILIAÇÃO À ENTIDADE SINDICAL PATRONAL. EXISTÊNCIA DE ESTABELECIMENTO EMPRESARIAL NA BASE TERRITORIAL DO SINDICATO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (ARE nº 1.210.606/SP - AgR, Primeira Turma; Rel.  Min. Luiz Fux; DJe de 13/09/2019).
+
+    Ademais, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Além disso, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    “A análise atenta do conjunto probatório coligido aos autos do processo nº 0703278-17.2019.8.07.0006 evidencia que a demandante Marli de Lurdes Pinto e o réu José Carlos França Martins mantiveram, de fato, relacionamento amoroso e exerceram, em parceria, atividade empresarial destinada ao comércio de cosméticos.
+
+    [...]
+
+    Além disso a prova testemunhal produzida nos autos do processo nº 0703278-17.2019.8.07.0006 também confirma a existência do relacionamento amoroso, como pode ser observado pelo teor dos depoimentos prestados pelas testemunhas Roberta Rodrigues dos Santos Naves, Francirlene Rocha Nogueira, Maria Clara Pinto Lopes Nogueira, Luíza Josina Pinto, Aldine Rocha Oliveira e Venâncio Pereira Lima, todos no sentido da existência de intimidade entre a demandante Marli de Lurdes Pinto e o demandado José Carlos França Martins (Id. 31236548 a Id. 31236552, dos autos processo nº 0703278-17.2019.8.07.0006).
+
+    [...]
+
+    Os elementos de prova coligidos aos autos indicam que o réu, ao atuar na posição de gerente da empresária M. de L. Pinto – ME, assim como sua esposa, atuando na função de gerente financeira, direcionaram irregularmente recursos financeiros oriundos da atividade empresarial desempenhada pelas partes para o custeio de vultosas despesas, exclusivamente em benefício próprio e de terceiros, a despeito da inexistência de contraprestação”.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279/STF. Sobre o tema:
+
+    AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+
+    1. (...)
+
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento. (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/02/2020).
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido. (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 03/03/2020).
+
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova. (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/02/2020).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 25 de outubro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
