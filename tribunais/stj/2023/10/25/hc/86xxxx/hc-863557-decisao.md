@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Ronaldo Ronaro Peixoto, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu liminarmente o writ originariamente impetrado (HC n. 2260257-70.2023.8.26.0000).
+Consta dos autos que o Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP (DEECRIM 5ª RAJ - PEC n. 0010232-84.2019.8.26.0041), ao analisar o pedido de progressão de regime formulado pela defesa, determinou a realização de exame criminológico (fls. 122/124).
+Alega a impetrante, em síntese, constrangimento ilegal na imposição do exame criminológico ao paciente, diante da ausência de indicação de motivos idôneos para a confecção de perícia para atestar o requisito subjetivo do apenado.
+Postula, inclusive em caráter liminar, a concessão da ordem para afastar a realização do exame criminológico e deferir a progressão de regime (fl. 8)
+É o relatório.
+A ilegalidade passível de justificar a impetração deste remédio constitucional deve ser manifesta, de constatação evidente, restringindo-se a questões de direito que não demandem incursão em fatos e provas da ação penal o u exijam dilação probatória, inclusive no que diz respeito à execução penal.
+No caso, o Magistrado singular, corroborado pelo Tribunal de origem, condicionou a análise da progressão de regime do paciente à realização de exame criminológico, ao argumento de que as circunstâncias pessoais e, principalmente, as relacionadas às práticas delitivas recomendam que o apenado seja avaliado de forma mais acurada, em especial porque valeu-se de relações domésticas e familiares para praticar a conduta criminosa em vítima de apenas 6 anos de idade, em sua residência e dentro do seu veículo (fl. 122).
+E continuou expondo que é inegável que a ação do ora sentenciado, ao oferecer doces e sorvetes como forma de convencer a vítima a fazer o que lhe era determinado, bem como submete-la a conteúdo pornográfico, denota que possui uma personalidade violenta, que apresenta riscos à sociedade, tornando temerária sua colocação em regime mais brando sem que sejam tomadas todas as cautelas necessárias (fls. 122/123).
+Ocorre que esta Corte possui entendimento sumulado de que se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+Assim, nos termos do entendimento desta Corte Superior, os fatores relacionados ao crime praticado são determinantes para a pena aplicada, não se justificando tratamento diferenciado para a realização de exame criminológico com a finalidade de avaliação do requisito subjetivo necessário à progressão de regime. A avaliação do requisito subjetivo somente poderá fundar-se em elementos concretos relacionados a fatos ocorridos no curso da execução penal (AgRg no HC n. 630.829/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 29/3/2021) - (AgRg no HC n. 722.404/MG, de minha relatoria, Sexta Turma, DJe 18/5/2023).
+Com efeito, nem a gravidade abstrata dos crimes cometidos nem a longa pena a cumprir são fatores que indicam a necessidade da perícia, é o que se depreende da leitura destes precedentes, por exemplo: HC n. 620.368/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020; e AgRg no HC n. 702.817/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 19/11/2021.
+É nítida a existência de ilegalidade na espécie, a ponto de justificar a concessão da ordem imediatamente.
+Em face do exposto, concedo liminarmente a ordem a fim de cassar a decisão do Juízo da execução no ponto concernente à exigência de exame criminológico e determinar a análise do pedido de progressão de regime do paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DO CRIME PELO QUAL O APENADO CUMPRE PENA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
