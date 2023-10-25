@@ -1,0 +1,43 @@
+DECISÃO
+    1. Natália Bastos Bonavides formalizou, com suporte no inciso III do art. 102 da Constituição Federal, recurso extraordinário (eDOC 21) contra acórdão do Tribunal Regional Federal da 5ª Região. A ementa desse pronunciamento apresenta o seguinte teor em sua parte inicial:
+    CONSTITUCIONAL. PROCESSO CIVIL. AÇÃO POPULAR. ATO LESIVO. "ORDEM DO DIA" DE 31 DE MARÇO DE 2020. ALUSÃO AOS FATOS DESENCADEADOS A PARTIR DE 31 DE MARÇO DE 1964, EM COMUNICADO DESTINADO ao ambiente MILITAR. ATO QUE CONCRETAMENTE NÃO ameaça as instituições democráticas ATUAIS. INEXISTÊNCIA DE OFENSA ao art. 37, § 1º, da Constituição Federal. INCABIMENTO DE INTERFERÊNCIA PELO PODER JUDICIÁRIO EM SEDE DE AÇÃO POPULAR. ENTENDIMENTO SUFRAGADO PELA PRESIDÊNCIA DO STF EM CAUTELAR AJUIZADA NESTE PROCESSO. APELAÇÕES PROVIDAS.
+    [...]
+    Sustenta, a recorrente, em síntese, que esse julgado viola preceitos constitucionais por ter negado a procedência de pleito, intentado em ação popular, no sentido de que as partes recorridas retirassem do sítio eletrônico do Ministério da Defesa na internet publicação denominada “Ordem do Dia de 31 de Março de 2020”, na qual consta alusão aos fatos ocorridos no Brasil a partir de 31 de março de 1964, bem assim de que abstivessem de fazer nova publicação com igual conteúdo.
+    Ao final, requer o provimento do apelo excepcional para reforma integral do entendimento externado pela Corte Regional.
+    Em contraminuta, pugnam as partes recorridas pelo não conhecimento do recurso ou, se conhecido, pelo seu desprovimento.
+    Aberta vista à procuradoria-Geral da República, a manifestação foi pelo não conhecimento do recurso extremo, consoante se observa da ementa do parecer (eDOC 42, fl. 1):
+    RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSO CIVIL. AÇÃO POPULAR. ATO LESIVO. “ORDEM DO DIA” DE 31 DE MARÇO DE 2020. ALUSÃO AOS FATOS DESENCADEADOS A PARTIR DE 31 DE MARÇO DE 1964, EM COMUNICADO DESTINADO AO AMBIENTE MILITAR. RECURSO PREJUDICADO PELA PERDA SUPERVENIENTE DE OBJETO. AUSÊNCIA DE DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE ANÁLISE DE PROVAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ÓBICES SUMULARES QUE IMPEDEM O CONHECIMENTO DO RECURSO EXTRAORDINÁRIO. PARECER PELO NÃO CONHECIMENTO DO RECURSO.
+    É o relatório. Decido.
+    2. Inicialmente, ressalto que o instituto da repercussão geral, introduzido pela Emenda Constitucional n. 45/2004, visa amenizar os efeitos nocivos da massificação das relações jurídicas que são submetidas à apreciação da Suprema Corte, tribunal de cúpula ao qual incumbe, precipuamente, a guarda da Constituição.
+    Referido instituto, que ingressa no ordenamento pátrio com caráter vinculante – daí a sua importância no cenário jurídico –, confere ao Supremo Tribunal Federal, em suma, o dever de julgar, em sede extraordinária, apenas causas de induvidosa significância, ou seja, quando essenciais e relevantes as questões constitucionais a serem analisadas.
+    Essa verdadeira discricionariedade – que não é absoluta – consiste em verificar se a matéria suscitada reúne alta relevância do ponto de vista econômico, político, social ou jurídico, que ultrapasse os interesses subjetivos da causa.
+    Não se trata de inferir se a questão possui interesse comunitário total, mas sim rigidez jurídica a ponto de conferir à Suprema Corte o dever de decidir, entre outros parâmetros, fundado na existência de multiplicidade de ações judiciais que afetem de modo direto parcela da sociedade, tendo em vista o compromisso constitucional desta Corte pela uniformização da interpretação do texto da Lei Maior.
+    Compreendo, ainda, que não basta a mera arguição de que a matéria poderá vir a ser suscitada em inúmeros processos ou que possui relevância para inúmeras pessoas. A circunstância da multiplicidade de demandas há de ser objetivamente demonstrada.
+    Tenho, também, que alegações no sentido de que a matéria foi objeto de veiculação na mídia, ou na linha de que é inegável o interesse nacional na presente demanda, não alcançam o rigor jurídico-constitucional necessário para serem apreciadas pela Suprema Corte.
+    Assim, cumpre reconhecer que o instituto da repercussão geral representa um método de triagem mediante o qual são verificadas as causas que, fundadas na gravidade institucional que supere os interesses das partes do processo, realmente necessitem ser julgadas pela Suprema Corte.
+    Nessa direção, com o fito de reforçar, ainda mais, a incumbência da Corte Constitucional de julgar apenas o que reputar relevante, o art. 326 do Regimento Interno do Supremo Tribunal Federal foi objeto de alterações introduzidas pela Emenda Regimental n. 54/2020, conforme se vê abaixo (grifei):
+    Art. 326. …...................................................................................
+    § 1º Poderá o relator negar repercussão geral com eficácia apenas para o caso concreto. (Incluído pela Emenda Regimental n. 54, de 1º de julho de 2020)
+    § 2º Se houver recurso, a decisão do relator de restringir a eficácia da ausência de repercussão geral ao caso concreto deverá ser confirmada por dois terços dos ministros para prevalecer. (Incluído pela Emenda Regimental n. 54, de 1º de julho de 2020)
+    § 3º Caso a proposta do relator não seja confirmada por dois terços dos ministros, o feito será redistribuído, na forma do art. 324, § 5º, deste Regimento Interno, sem que isso implique reconhecimento automático da repercussão geral da questão constitucional discutida no caso. (Incluído pela Emenda Regimental n. 54, de 1º de julho de 2020)
+    § 4º Na hipótese do § 3º, o novo relator sorteado prosseguirá no exame de admissibilidade do recurso, na forma dos arts. 323 e 324 deste Regimento Interno. (Incluído pela Emenda Regimental n. 54, de 1º de julho de 2020)
+    Na sequência, o Plenário do Supremo Tribunal Federal, ao analisar hipóteses fronteiriças, confirmou referida técnica de rejeição da repercussão geral, com eficácia limitada ao caso concreto, conforme se nota do que restou decidido no ARE 1.317.308 AgR, Relator o ministro Alexandre de Moraes, de cuja ementa obtenho os seguintes fragmentos:
+    RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL. REJEIÇÃO PELO RELATOR, COM EFICÁCIA APENAS PARA O CASO CONCRETO. REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL, ART. 326, §§ 1º A 4º, COM A REDAÇÃO DADA PELA EMENDA REGIMENTAL 54, DE 1º DE JULHO DE 2020.
+    1. Os §§ 1º a 4º do art. 326 do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, introduzidos pela Emenda Regimental 54, de 1º de julho de 2020, estabelecem a técnica da rejeição da repercussão geral das questões suscitadas no Recurso Extraordinário, com eficácia limitada ao caso concreto.
+    2. Tal sistemática, referendada pelo PLENÁRIO no julgamento do ARE 1.273.640-AgR (DJ de 24/9/2020), desenvolve-se na forma das seguintes etapas:
+    (a) o Relator, ao receber o RE, analisa primeiramente a relevância das questões arguidas;
+    (b) constatada a ausência de repercussão geral, o Relator está autorizado a negar seguimento ao recurso, exclusivamente por esse motivo;
+    (c) em face dessa decisão, cabe impugnação da parte sucumbente, dirigida ao Plenário, requerendo-se a adesão de 2/3 (dois terços) dos Ministros para a confirmação do julgado recorrido; (c.1.) caso essa votação não seja obtida, o recurso é redistribuído, e então o novo Relator sorteado examina todos os demais pressupostos de admissibilidade;
+    (c.2.) por outro lado, na hipótese em que ratificada, por 2/3 (dois terços) dos membros do SUPREMO, a decisão do Relator no sentido da inexistência de repercussão geral, tal acórdão NÃO formará um precedente vinculante; logo, não condicionará a solução dos casos idênticos ou análogos.
+    [...]
+    6. Esse cenário permite concluir que não se mostram presentes, no caso concreto, as questões relevantes de que trata o § 1º do art. 1.035 do Código de Processo Civil de 2015, o que induz ao reconhecimento da INEXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA SUSCITADA NO RECURSO EXTRAORDINÁRIO.
+    7. Agravo interno a que se nega provimento.
+    Saliento, por fim, não competir ao Supremo, em sede extraordinária, atuar como mero revisor de decisões proferidas pelas instâncias de origem, quando a discussão não alcançar a densidade jurídica necessária para exame pela Corte Suprema, como ocorre no presente caso.
+    Desse modo, concluo pela ausência de repercussão geral na presente demanda, nos termos do art. 326, § 1º, do Regimento Interno.
+    3. Em face do exposto, não conheço do recurso extraordinário.
+    4. Publique-se. Intime-se.
+    5. Findo o prazo para eventual impugnação, dê-se baixa imediata.
+Brasília, 25 de outubro de 2023.
+Ministro NUNES MARQUES
+Relator
+Documento assinado digitalmente
