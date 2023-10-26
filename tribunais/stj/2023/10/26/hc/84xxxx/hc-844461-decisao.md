@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 10):
+EMBARGOS INFRINGENTES. ART. 127 DA LEP. REMIÇÃO. PERDA DE ATÉ 1/3 DOS DIAS TRABALHADOS ATÉ A DATA DA INDISCIPLINA. DIAS REMIDOS E A REMIR.
+1. A decisão que concede a remição possui natureza declaratória, de maneira que a decretação da perda de parte dos dias remidos também inclui aqueles a remir, limitada aos dias trabalhados até o ato de indisciplina, ainda que não tenham sido declarados. Precedentes.
+2. Na hipótese, se mostra correta a decisão proferida no agravo em execução, que, ao negar provimento ao recurso aviado, manteve a decisão da origem.
+EMBARGOS REJEITADOS.
+Consta dos autos que o paciente cometeu falta grave durante a execução da pena, ensejando a perda de dias trabalhados.
+Neste writ, a defesa sustenta que o art. 127 da LEP permite a revogação apenas dos dias trabalhados já declarados remidos, por meio de decisão judicial. Argumenta que, "no tempo em que a falta grave foi cometida, os dias trabalhados por DAVID que não tinham sido declarados remidos por decisão judicial não constituíam dias de remissão, mas mera expectativa do direito de remissão, pelo que não poderiam ser revogados como tempo de remissão" (fl. 6)
+Desta feita, busca a imediata cassação do acórdão impugnado, estabelecendo a perda de dias trabalhados nos termos acima referidos.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento ou denegação da ordem.
+No punctum saliens, a Vara Adjunta de Execuções Criminais da Comarca de Santiago-RS assim dispôs (fls. 206/207):
+No que se refere ao pleito ministerial de perda de 1/3 dias remidos, enfatizo que o instituto, reconhecido em lei, doutrinária e jurisprudencialmente, tem relação direta com o cometimento de falta, não importando, na esteira do que propõe a Súmula Vinculante nº 09 do STF, violação a direito adquirido do apenado, pelo que não servem os motivos alegados ao seu afastamento.
+Entretanto, não obstante sejam as outras sanções aplicáveis sem restrições e gradações, a incidência do instituto deve sofrer aquilatação proporcional a falta praticada, considerando-se a natureza, os motivos, as circunstâncias e as consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão.
+Nessa perspectiva, constato: 1) que a falta cometida é de natureza evidentemente grave; 2) que os motivos à sua consecução não restaram suficientemente esclarecidos; 3) que as circunstâncias evidenciam os fatos de que o recluso possuía objeto de uso proibido no ambiente prisional; 4) que a análise das consequências implica registrar cabal afronta à ordem interna do estabelecimento prisional; 5) que o faltoso encontrava-se, quando da perpetração do comportamento, no regime fechado.
+Destarte, tenho, à luz dos princípios da razoabilidade e suficiência à reprimenda da ação, considerados os vetores negativados acima (1, 3, 4 e 5), que não resta aplicável redução do grau de regência da norma, havendo de ser imposta a perda no grau máximo de 1/3.
+Assim, ante todo o exposto, acolho o parecer ministerial para, a despeito das alegações defensivas, HOMOLOGAR o Procedimento Administrativo Disciplinar nº 078/2021, instaurado contra o apenado DAVID ESCOBAR ZACARIA JUNIOR e as sanções administrativas aplicadas, declarar a prática pelo mesmo de falta grave, determinar a alteração da data-base para aquisição de benefícios, devendo esta passar da data da perpetração do último comportamento transgressivo, ou seja, 07/10/2021 (exceto para fins de livramento condicional (Súmula 441, do STJ), indulto e comutação de pena e, face o contexto da infração, a revogação de 1/3 dos dias remidos ou não, relativos a labor exercitado até a data da transgressão disciplina.
+Deixo de determinar, não obstante seu cabimento, consoante entendimento consagrado alhures, a regressão do regime carcerário, uma vez que o condenado já se encontra inserido no regime fechado de cumprimento da pena.
+Sobre a remição, dispôs a Corte de origem (fl. 25):
+A Defesa se volta também contra a perda dos dias remidos, enquanto consectário legal aplicado no caso em tela; no entanto, à luz do art. 127 da Lei de Execução Penal, sabe-se que é possível revogar dias eventualmente remidos pelo apenado à razão máxima de 1/3 (um terço).
+Tenho que, no presente caso, a perda de 1/3 (um terço) dos dias remidos se afigura proporcional e devidamente fundamentada, ponderando-se a gravidade do fato praticado pelo apenado.
+Opostos embargos de declaração, foram assim rejeitados (fl. 15):
+A decretação da perda de parte dos dias remidos, prevista no art. 127 da LEP, alcança também aqueles dias de trabalho até a data da prática da falta, ainda que não reconhecidos judicialmente. A decisão que aplica a remição possui natureza eminentemente declaratória. Nesse sentido:
+ ..
+A decisão1 que foi objeto do recurso originário está exatamente nesta linha, de maneira que se mostra correta a decisão da maioria, ao negar provimento ao agravo contra ela interposto. Por consequência, devem ser rejeitados os presentes embargos.
+No que diz respeito aos dias remidos, o art. 127 da Lei de Execução Penal autoriza expressamente a revogação de até 1/3 (um terço) do tempo remido, nada mencionando acerca dos dias trabalhados e ainda não declarados.
+In casu, o entendimento das instâncias ordinárias está alinhado à jurisprudência desta Corte de Justiça, que firmou-se no sentido de que "a perda de até 1/3 dos dias remidos não pode alcançar os dias trabalhados após o cometimento da falta grave, sob pena de criar-se uma espécie de conta-corrente contra o condenado, desestimulando o trabalho do preso. Mas também não pode deixar de computar todos os dias trabalhados antes do cometimento da falta grave, ainda que não tenham sido declarados judicialmente, sob pena de subverter os fins da pena, culminando por premiar a indisciplina carcerária" (REsp 1.517.936/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 23/10/2015).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
