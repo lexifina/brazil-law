@@ -1,0 +1,75 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por AMELIANA MARTINS LISBOA contra acórdão prolatado, por unanimidade, pela 2ª Câmara Especial do Tribunal de Justiça do Estado de Rondônia no julgamento de Apelação, assim ementado (fls. 921/922e):
+Apelação. Ação de cobrança. Gratuidade judiciária. Hipossuficiência comprovada. Concessão.
+Julgamento extra petita. Inocorrência. Acumulação de cargos. Exercício concomitante de funções comissionadas . Cumulação indevida - Art. 37, XVI da CF/88. . Sentença mantida. Recurso não provido.
+É cabível o deferimento da gratuidade judiciária quando suficientemente comprovada a hipossuficiência financeira do postulante.
+Ocorre julgamento extra petita quando o juiz concede pedido diverso daquele pretendido pelo autor, conhecendo de questões não suscitadas na inicial, o que não ocorreu no caso em apreço.
+A acumulação remunerada de cargos públicos é prevista no art. 37, XVI da CF/88. A regra constitucional é pela vedação de qualquer acumulação remunerada de cargos públicos, salvo as exceções indicadas, que não é o caso da autora.
+Opostos embargos de declaração, foram acolhidos apenas para fixar honorários recursais, consoante fundamentos resumidos na seguinte ementa (fl. 995e).
+Opostos novos embargos de declaração, foram rejeitados (fls. 1.010/1.017e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese:
+(i) a possibilidade de acumulação de dois cargos de profissionais da saúde com profissão regulamentada; e
+(ii) Art. 884 do Código Civil - enriquecimento ilícito da municipalidade ante a ausência de pagamento de adicionais, verbas salariais, auxílios, gratificações, férias e indenizações.
+Com contrarrazões (fls. 1.129/1.148e), o recurso foi admitido (fls. 1.149/1. 150e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Quanto à possibilidade de acumulação de dois cargos de profissionais da saúde com profissão regulamentada, observo que a Recorrente não apontou o dispositivo de lei federal que teria sido violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284 do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013).
+De outra parte, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, afastou a alegação de enriquecimento ilícito da Administração, decorrente de suposta ausência de pagamento de pagamento de adicionais, verbas salariais, auxílios, gratificações, férias e indenizações, nos seguintes termos:
+A sentença também destaca que a pretensão de duplicidade destas gratificações diretamente relacionadas com o exercício do cargo não pode ser acolhida, uma vez que os valores mensalmente recebidos por ela suplantaram o teto remuneratório, pelo exercício de cargo comissionado que deveria ser único.
+Ademais, a Lei n. 1.640/GP/2012 que institui a gratificação de exclusividade e de estímulo à produtividade na área da Saúde foi destinada aos médicos que atuam e lidam diretamente com pacientes nas unidades de saúde e a própria lei excetua, no art. 3º, o pagamento no caso de acumulação de cargos, veja-se:
+(..)
+Nessa toada, vale registrar que a própria autora afirma que desde 01/02/2013 passou a acumular dois cargos de confiança de livre nomeação - Diretora Clínica 40 hs ID 13856675 e ID 12159189 - p. 3 e Diretora Generalista do Posto de Saúde Bom Jesus - ID 12159189 e ID 12159189 - p.4, logo, não havia dedicação exclusiva a um deles. Portanto, além da limitação remuneratória, a apelante não se dedicava exclusivamente a um de seus cargos.
+No tocante à gratificação de produtividade, das fichas de avaliação (Ids 13865613 e seguintes), extrai-se que a metodologia de avaliação e pontuação nada mais é que o mero cumprimento dos deveres inerentes ao cargo, não podendo servir de justificação para pagamento de gratificações.
+Não obstante, para o pagamento da gratificação de produtividade, recebido pela apelante nos meses de outubro a dezembro de 2012, dependia a norma de regulamentação, nos termos do 6º, §1º e §2º da Lei n. 1640/GP/2012, por se tratar de norma de eficácia limitada e não houve regulamentação.
+Por fim, restou demonstrado que a autorização do plantão de 12 hs se mostra como um terceiro contrato com a Administração, tanto que houve autorização expressa para isso e não se confunde com os cargos de Direção por ela ocupados em outras unidades de saúde.
+Como bem pontuado na sentença, na hipótese de contratação pelo município, esse último cargo seria preenchido mediante concurso público ou processo seletivo emergencial, diferentemente do preenchimento do cargo comissionado.
+"No caso, autorizar o pagamento de plantões extraordinários seria uma segunda forma de burlar o teto remuneratório local, o que não pode ser admitido, nos termos da decisão do Tribunal de Contas do Estado de Rondônia, em caso análogo na cidade de Velhena".
+Sendo assim, não há enriquecimento ilícito da Administração quanto à servidora receber valores superiores ao legalmente autorizado.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MILITAR TEMPORÁRIO. REFORMA. AUSÊNCIA DE COMPROVAÇÃO DE INCAPACIDADE TOTAL E DEFINITIVA PARA QUALQUER TRABALHO E DE NEXO DE CAUSALIDADE ENTRE A ENFERMIDADE E O SERVIÇO CASTRENSE. REVISÃO. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.Tendo o Tribunal de origem, com base no conjunto fático-probatório produzido ao longo da instrução processual, assentado que não restou comprovada a incapacidade total e permanente do agravante, seja para o serviço militar, seja para as demais atividades civis, bem como que não restou comprovado que a moléstia que o acomete teria relação de causa e efeito com o serviço militar, infirmar os fundamentos do acórdão recorrido pressupõe o reexame do conjunto fático-probatório do feito, o que é vedado na via do recurso especial, por força da Súmula 7 do STJ.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 751.035/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/11/2015, DJe 13/11/2015).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REFORMA. MILITAR. CABIMENTO. INCAPACIDADE PARA ATIVIDADE MILITAR. NEXO DE CAUSALIDADE. EXISTÊNCIA.
+1. Esta Corte de Justiça possui entendimento firmado de que, em se tratando de reforma de militar não estável, a incapacidade para toda e qualquer atividade laboral na vida civil somente é exigida quando não há comprovação de causa e efeito da enfermidade ou do acidente com a atividade castrense. Caso existente aludido nexo de causalidade, defere-se a reforma, bastando a prova da inaptidão para a vida militar.
+2. Alterar as conclusões da Corte de origem, que reconheceu o nexo causal da incapacidade com o serviço militar, demandaria incursão no acervo fático-probatório dos autos, o que é defeso na via especial, ante o disposto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.384.817/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/10/2014, DJe 14/10/2014)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MILITAR PORTADOR DE DOENÇA DE CHAGAS. INCAPACIDADE DEFINITIVA PARA O SERVIÇO CASTRENSE RECONHECIDA PELA CORTE DE ORIGEM. DIREITO À REFORMA QUE INDEPENDE DE COMPROVAÇÃO DO NEXO CAUSAL ENTRE INCAPACIDADE E ATIVIDADE MILITAR. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO DE ACORDO COM O ART. 260 DO CPC. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça fixou o entendimento de que o Militar, temporário ou de carreira, que por motivo de doença ou acidente em serviço se tornou definitivamente incapacitado para o serviço ativo das Forças Armadas, faz jus à reforma, sendo despiciendo, em tal situação, que a incapacidade guarde relação de causa e efeito com a atividade exercida.
+2. Agravo Regimental parcialmente provido, apenas para delimitar a base de cálculo da verba honorária ao somatório das prestações vencidas, acrescida de uma anualidade das prestações vincendas, nos termos do art. 260 do CPC.
+(AgRg no REsp 1.211.898/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 06/10/2015, DJe 15/10/2015).
+Outrossim, depreende-se do acórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, a Lei Municipal n. 1.640/2012.
+Com efeito, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL.
+Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido.
+(AgRg no AREsp 325.430/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 03/06/2014)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário." 2. Agravo Regimental não provido.
+(AgRg no REsp 1.433.745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Nessa linha a compreensão da Corte Especial deste Tribunal Superior (v.g.: AgInt nos EAREsp 762.075/MT, Rel. Min. Felix Fischer, Rel. p/ acórdão Min. Herman Benjamin, DJe 07.03.2019).
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração, em 20% (vinte por cento), dos honorários anteriormente fixados (fl. 994e).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
