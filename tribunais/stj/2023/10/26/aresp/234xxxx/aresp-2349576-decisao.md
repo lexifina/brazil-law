@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo Município de Araçariguama, SP, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, desafiando acórdão unânime proferido pela 11.ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+IMPROBIDADE ADMINISTRATIVA. LOCAÇÃO DE IMÓVEIS PARA A INSTALAÇÃO DE UNIDADES ESCOLARES. NÃO UTILIZAÇÃO.
+- Tal como observado no parecer do Procurador de Justiça oficiante nestes autos, não se caracterizou, na espécie, afronta da Lei 8.666/1993, tampouco havendo indício algum de sobrefaturamento relativamente aos contratos de locação dos prédios para a depois abdicada instalação de unidades escolares.
+- Faltando pontualização do dolo e, além disso, prova correspondente quanto às condutas atribuídas à requerida, não é possível o prosseguimento do feito para apuração de culpa lato sensu, bastante a impedi-lo a alteração do texto do art. 10 da Lei 8.429/1992 por a Lei 14.230/2001.
+Não provimento da apelação. (fl. 621).
+Nas razões do recurso especial, fls. 661/689, o município recorrente argumenta que os Desembargadores "desconsideraram a jurisprudência do E. TJSP e do C. STJ acerca da necessidade de haver a instrução probatória para a apuração de ato de improbidade administrativa quando há uma situação indiciária, como presente no caso em tela" (fl. 665) e que teria havido violação do disposto no art. 17, § 6º, da "Lei n. 14.230/2021" (fl. 676), pois, "Como é cediço, na fase de recebimento da petição inicial, não é necessário o exame meritório exauriente acerca dos elementos fático-probatórios dos autos, prevalecendo o princípio in dubio pro societate. Dessa forma, basta que haja indícios de ato ímprobo para justificar o processamento da demanda de origem" (fls. 676/677). Aponta, também, suposto dissenso com julgados do TJSP e do TJPR.
+O juízo de admissibilidade negativo levado a efeito pela Corte de origem (fls. 737/739) se deu em razão da incidência, à espécie, do óbice contido na Súmula 7 do STJ e pelo não atendimento do requisito previsto nos art. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Nas razões do agravo, fls. 742/752, o Município agravante reapresenta o argumento articulado já nas razões do apelo nobre para afastar a incidência do apontado óbice sumular: "Ora, se não foi oportunizado ao município Recorrente a produção de prova, logicamente não se pode falar em "reexame de provas", de modo que não poderia haver ofensa à Súmula 7 do STJ" (fl. 748). No mais, reiterando a argumentação da petição recursal, insiste em que "basta que haja indícios de ato ímprobo para justificar o processamento da demanda de origem, como ocorreu no presente caso" (fl. 750) e que "Basta ler as ementas dos três acórdãos para constatar as principais circunstâncias que identificam ou assemelham os casos confrontados" (fl. 750).
+Em contrarrazões, o Ministério Público do Estado de São Paulo (fls. 732/736) e a recorrida Liliana Medeiros de Almeida Aymar Bechara (fls. 755/774) apresentam argumentos para obstar a pretensão Autoral, inclusive quanto à intempestividade do recurso especial (fls. 755/759).
+O Ministério Público Federal, pela Subprocuradora-Geral da República Denise Vinci Túlio, manifestou-se pelo não conhecimento do recurso especial, nos termos do parecer de fls. 787/789, que se apresenta guarnecido pela seguinte ementa:
+AÇÃO CIVIL PÚBLICA. IMPROBIDADE. AGRAVO EM RECURSO ESPECIAL. NOVA LEI DE IMPROBIDADE CONCLUSÃO DO TRIBUNAL "A QUO" PELA AUSÊNCIA DE ELEMENTO SUBJETIVO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1 - Para infirmar a conclusão do acórdão recorrido, com relação ao elemento subjetivo e à existência do ato ímprobo, seria necessário o revolvimento do arcabouço probatório dos autos, impossível na via eleita, ante o óbice da Súmula 7/STJ.
+2 - Parecer pelo conhecimento do agravo, para negar conhecimento ao recurso especial. (fl. 787).
+Agravo tempestivo.
+Cadeia de representação regular (fl. 50, 116, 118, 120, 122/126).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Examinada a argumentação do Município de Araçariguama (o agravante), tenho não lhe assistir razão.
+Como relatado, o seguimento ao recurso especial foi negado pelo Tribunal de Justiça com fundamento no óbice da Súmula 7/STJ.
+Segundo se pode verificar da ementa do acórdão recorrido, a Corte Estadual, soberana no exame e delimitação do quadro fático, compreendeu que "faltando pontualização do dolo e, além disso, prova correspondente quanto às condutas atribuídas à requerida, não é possível o prosseguimento do feito para apuração de culpa lato sensu, bastante a impedi-lo a alteração do texto do art. 10 da Lei 8.429/1992 por a Lei 14.230/2001".
+Ora, equivocada ou não, a alteração dessa conclusão, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, constante dos autos, providência sabidamente vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO ARTS. 8º, 11, 371, 372, II, E 375 DO CÓDIGO DE PROCESSO CIVIL DE 2015. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. PRESENÇA DE DOLO NA CONDUTA E PROPORCIONALIDADE DAS SANÇÕES IMPOSTAS. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. RETROATIVIDADE DA LEI N. 14.230/2021. IMPOSSIBILIDADE. TEMA N. 1.199/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - Rever o entendimento das instâncias ordinárias, no sentido da presença de elemento doloso, necessário à caracterização do ato de improbidade administrativa, bem como acerca da proporcionalidade das sanções impostas, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+ ..
+IX - Agravo Interno improvido.
+(AgInt nos EDcl no REsp n. 2.035.643/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 31/5/2023.)
+Eis porque nenhum reparo merece a decisão agravada.
+ANTE O EXPOSTO, em harmonia com o parecer ministerial e com fundamento na Súmula 7/STJ , nego provimento ao agravo em recurso especial.
+Publique-se.
+EMENTA
