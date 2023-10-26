@@ -1,0 +1,78 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NOTAS PROMISSÓRIAS. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. ILEGITIMIDADE ATIVA AD CAUSAM. PRELIMINAR NÃO ACOLHIDA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO (SÚMULA 283/STF). OFENSA AOS ARTS. 157, 283, 365 E 396 DO CPC/1973 E AO ART. 288 DO CC/2002. PREQUESTIONAMENTO AUSENTE (SÚMULA 211/STJ). LITIGÂNCIA DE MÁ-FÉ. COMPORTAMENTO CONTRADITÓRIO VERIFICADO NA ORIGEM. SÚMULA 7/STJ. DECISÃO CONFIRMADA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 535 do CPC/1973, porquanto o Tribunal de origem fundamentou adequadamente o v. acórdão recorrido, de modo que as questões de mérito foram devidamente analisadas e discutidas com esgotamento da prestação jurisdicional, não sendo cabível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. A falta de prequestionamento de matéria alegada no recurso especial impede seu conhecimento quando, não obstante a oposição de embargos declaratórios, a parte não apontou, no capítulo destinado à ofensa ao art. 535 do CPC/73, omissão em relação aos dispositivos indicados como violados no apelo nobre. Incidência da Súmula 211 do STJ.
+3. Rever a conclusão adotada no v. acórdão recorrido, sobre a caracterização de litigância de má-fé da ora agravante em razão de seu comportamento contraditório, por ter alegado, em demanda conexa, a existência de dívida perante a agravada e, nestes autos, sustentar a ilegitimidade ad causam desta, demandaria o revolvimento de suporte fático-probatório dos autos, incidindo o óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Maria Isabel Gallotti e os Srs. Ministros Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno manejado por INDÚSTRIA VEROLME-ISHIBRAS S/A e SV ENGENHARIA S/A contra a decisão que fls. 861/883, da lavra desta relatoria, que conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe parcial provimento, tão somente para cassar a multa aplicada às recorrentes, no importe de 1% (um por cento) sobre o valor da causa, consoante o art. 538, parágrafo único, do CPC/1973.
+Irresignada, a parte agravante pugna pela reforma da monocrática, reiterando, inicialmente, a tese da nulidade do v. acórdão recorrido, sob o argumento, em resumo, de que, "apesar de o Tribunal de origem consignar que não existiria nos autos nenhum indício de que a Petrobras estivesse ligada diretamente ao contrato discutido na ação originária, as Agravantes opuseram Embargos de Declaração indicando a existência de documento - denominado Confort and Guarantee Letter - que demonstra justamente o contrário, porquanto a Petrobras se comprometeu a pagar a dívida cobrada pelos Agravados em caso de inadimplência das Agravantes" (fl. 891), logo, o "o v. acórdão estadual configurou-se como omisso por não ter enfrentado questão essencial ao deslinde da controvérsia, violando o artigo 535, II, do CPC/1973" (fl. 893).
+Quanto ao mérito recursal, afirmam as agravantes que a parte agravada seria ilegítima para figurar no polo ativo da ação, uma vez que "não só deixou de juntar aos autos o termo de quitação e cessão de crédito que supostamente firmou com o CIBC, como também não anexou qualquer documento que demonstrasse que as Agravantes foram notificadas da sua eventual existência" (fl. 901). Consignam, por outro lado, que é "inegável que a ilegitimidade ativa do Agravado foi expressamente enfrentada, debatida e resolvida pelo Tribunal a quo, este e. Tribunal da cidadania deve reconhecer o prequestionamento implícito do conteúdo dos artigos relacionados à tese das Agravantes, razão pela qual o óbice da Súmula 211/STJ deve ser afastado" (fl. 894), e que "as Agravantes demonstraram no Recurso Especial que o fato de o Agravado ser credor indireto da dívida não suprime a exigência legal de atestar que os créditos lhe foram cedidos, não havendo nada de contraditório nisso, uma vez que a dívida indireta com o Agravado não foi negada. Em sendo assim, o fundamento do comportamento contraditório das Agravantes foi impugnado no apelo excepcional, devendo ser afastado o óbice da Súmula 283/STF" (fl. 897).
+Por fim, sustentam que "resta claro que a pretensão recursal das Agravantes não demanda o reexame de fatos e provas, mas sim a revaloração jurídica dos fatos já delineados no v. acórdão estadual, o que não atrai a Súmulas 7/STJ, pelo que a r. decisão agravada deve ser reconsiderada ou reformada, para que o pleito de afastamento da multa por litigância de má-fé seja devidamente apreciado e acolhido" (fl. 900).
+A parte agravada ofertou contrarrazões (fls. 908/925).
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 1.341.876 - RJ (2012/0184314-0)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+INDÚSTRIA VEROLME-ISHIBRAS S/A E OUTRO
+ADVOGADOS
+:
+ALEXANDRE JOSÉ SELVA CARNEIRO MONTEIRO E OUTRO(S) - RJ000303B
+RAFAEL PEDROSA DINIZ - DF019878
+VINICIUS RIBEIRO DE FIGUEIREDO TEIXEIRA - DF019680
+ROBERTO SELVA CARNEIRO MONTEIRO FILHO - RJ144373
+ADVOGADOS
+:
+CRISTINA DE ALMEIDA CANÊDO - DF026782
+KELE CRISTINA DE SOUZA MIRANDA - DF031599
+GUILHERME AUGUSTO DE MATTOS ALMEIDA - DF048368
+AGRAVADO
+:
+EXPORT IMPORT BANK OF THE UNITED STATES
+ADVOGADOS
+:
+GUILHERME VIEIRA ASSUMPÇÃO - RJ104139
+ALEXANDRE EPPINGHAUS VARELLA JACOB E OUTRO(S)
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+De início, cumpre assinalar, em apertada síntese, que as ora agravantes buscam: (I) a anulação do v. acórdão recorrido, por ofensa ao art. 535 do CPC/1973, porquanto o Tribunal de origem deixou de apreciar documento essencial ao desate da questão relativa ao pleito de chamamento ao processo de outras duas empresas, na condição de corrés; (II) a extinção do processo, ante a suscitada ilegitimidade ativa ad causam do banco recorrido; e (III) a exclusão da penalidade pecuniária por litigância de má-fé.
+Com efeito, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil/1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+Da atenta leitura dos autos, depreende-se que o eg. Tribunal a quo, ao afastar a tese de obscuridade no aresto recorrido quanto à pretensão de chamamento ao feito de terceiras empresas, consignou:
+"(..)
+Quanto à apontada obscuridade, tampouco subsiste, eis que a pretensão de chamamento ao feito das empresas indicadas pelas recorrentes, foi rejeitada após análise da documental acostada aos autos, chegando-se ao entendimento que se vê lançado nos primeiro e terceiro parágrafos do item IV de fls. 582. in verbis:
+"Esta pretensão resta afastada, chegando mesmo a se considerá-la como na fímbria da procrastinação processual (grifo nosso). Isso por que e decorrente da ausência de conexão entre as demandas, o fato é que, não respondem estas empresas a esta demanda.
+Para o credor do contrato (grifo nosso), anda que seja o mesmo credor por sub-rogação, quem deve algo a ele é o consórcio agravante e não as empresas petrolíferas, donde ser evidente que é manejada esta demanda contra quem é apontado como o verdadero devedor e não em face de terceiros" (e-STJ, fl. 632, grifos do original e acrescidos).
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Quanto ao mérito recursal, a parte ora agravante suscitou, nas razões do recurso especial, a ilegitimidade ativa ad causam do aqui agravado, apontando como ofendidos os arts. 157, 283, 365 e 396 do Código de Processo Civil de 1973 e o art. 288 do Código Civil/2002.
+O eg. Tribunal de origem, por seu turno, afastou-a mediante os seguintes fundamentos, in verbis:
+"(..)
+Com ressalvas quanto ao que vier a ser decidido quanto ao mérito, aqui se cuida de cobrança regressiva referente ao pagamento de quantidade de notas promissórias (em total de 12), tudo decorrente da garantia de financiamento do contrato firmado pelas rés com o "ClBC - Canadiam Imperial Bank of Commerce" e que, se repete, não veio a ser honrado pelas Agravantes.
+Confira-se, a respeito deste tema, o que consta dos documentos de fls. 79, da ação manejada pelas Agravantes em face da "Brasoil" e da Petrobrás, quando é dito que:
+"..Com isso deixaram as Rés para as Autoras uma gama de obrigações não liquidadas, entre elas, em especial, os pagamentos a grandes fornecedoras de máquinas e equipamentos montados, integrados e incorporados na Plataforma.. Dentre tais dívidas ressaltam-se, pelos seus significativos e vultosíssimos valores, aquelas com a .. e com EXIMBANK, também dos Estados Unidos da América, referente a aquisição/importação de máquinas, equipamentos e serviços da MUSTANG ENGENEERJNG INC. com financiamento do CIBC-CANADIAN IMPERIAL BANK OF COMMERCE;.."
+Pretender então os Agravantes discutir a ilegitimidade ativa da parte autora nestes autos é, para dizer o mínimo, litigância de má-fé, diante da existência de afirmação da existência deste fato, regularmente lançado em processo judicial.
+Segue daí que se a parte autora tem ou deixa de ter o bom direito, isto é matéria de mérito e que não se insere em qualquer questão preliminar, estando correta a rejeição desta tese, o que é mantido nesta oportunidade."
+Há apenas que se acrescentar que diante da proibição do comportamento contraditório e da adequação das Agravantes ao contido no inciso 17, inciso I do CPC, reconheço-as como litigantes de má fé e as sanciono com a multa do caput do art. 18 do diploma processual, em 1% (um por cento) do valor da causa. (e-STJ, fl. 594, grifou-se)
+Como se vê, o Tribunal de origem asseverou que, nos autos do processo que tramitou, na origem, conexo a este feito, consta um documento contendo a afirmação das recorrentes de que tinham deixado de honrar uma gama de obrigações, entre as quais a dívida de grande vulto que tinham perante o "EXIMBANK", ou seja, o banco recorrido, a qual se referia ao contrato de financiamento celebrado entre o "CIBC" e as agravantes; logo, é de se ver que a pretensão das agravantes de questionar, nos autos conexos, a legitimidade ativa ad causam do agravado, sob o pálio da ausência de notificação acerca do pacto de assunção de dívida entabulado entre o agravado e o banco estrangeiro "CIBC", constitui comportamento contraditório, que deve ser apenado com a multa por litigância de má-fé, consoante o art. 18, caput, do Códex revogado.
+Contudo, referido fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Se não fosse o bastante, observa-se, ademais, que o conteúdo normativo dos arts. 157, 283, 365 e 396 do Código de Processo Civil de 1973 e do art. 288 do Código Civil/2002, invocados como violados no apelo nobre, não foi apreciado pelo Tribunal a quo, ainda que a parte ora agravante tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à parte recorrente, na hipótese, alegar violação ao art. 535 do Código de Processo Civil de 1973, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído o investimento realizado pelo consumidor, conforme determinava a portaria que regulamentava a relação entabulada entre as partes à época, nada impede que o contratante postule e veja reconhecido seu direito em ver o valor investido devidamente devolvido. Rever esta conclusão esbarraria no óbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido."
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 28/08/2015, g.n.)
+Por fim, o eg. Tribunal de origem, no que se refere à alegação de não cabimento da multa por litigância de má-fé, expressamente consignou o seguinte:
+"Pretender então os Agravantes discutir a ilegitimidade ativa da parte autora nestes autos é, para dizer o mínimo, litigância de má-fé, diante da existência de afirmação da existência deste fato, regularmente lançado em processo judicial.
+Segue daí que se a parte autora tem ou deixa de ter o bom direito, isto é matéria de mérito e que não se insere em qualquer questão preliminar, estando correta a rejeição desta tese, o que é mantido nesta oportunidade.
+Há apenas que se acrescentar que diante da proibição do comportamento contraditório e da adequação das Agravantes ao contido no inciso 17, inciso I do CPC, reconheço-as como litigantes de má fé e as sanciono com a multa do caput do art. 18 do diploma processual, em 1% (um por cento) do valor da causa." (e-STJ, fls. 594, grifou-se)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, quanto à configuração de comportamento contraditório das recorrentes, que, no feito que tramita conexo, na origem, juntaram documento afirmando que deixaram de quitar uma dívida de grande vulto perante o banco agravado e, em sede de preliminar, buscam reabrir discussão acerca da suscitada ilegitimidade ativa ad causam da instituição financeira para propor ação visando à satisfação da referida dívida, objeto de pagamento por sub-rogação, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
