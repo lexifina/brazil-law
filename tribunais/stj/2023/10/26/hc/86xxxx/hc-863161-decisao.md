@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Alifer Morais Guedes, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de São Paulo, que negou provimento à Apelação criminal n. 1500191-72.2022.8.26.0495, mantendo a condenação do paciente à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, como incurso no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+Neste writ, insurge-se a defesa quanto ao regime prisional, porquanto o mais gravoso foi estabelecido sem fundamentação concreta. Sustenta que não há gravidade concreta na conduta do paciente e, muito menos, qualquer outro elemento que justifique um regime mais gravoso, devendo ser modificado para o regime semiaberto (fl. 9).
+Requer, assim, a concessão liminar da ordem para que seja aplicado imediatamente o regime inicial semiaberto ao paciente a falta de fundamentação idônea para regime mais gravoso (fl. 20).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a impetrante, a quem cumpre instruir o pedido de modo viável e com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+Ao que se infere dos autos, o regime fechado foi justificado não só pela quantidade e variedade dos entorpecentes apreendidos (670 porções de cocaína em microtubos plásticos, 178 porções de maconha, 195 porções de cocaína, e 163 porções de crack na sacola em que o réu trazia, bem como, em depósito no matagal, mais 780 porções de maconha; 4.094 porções de crack e 242 microtubos contendo cocaína) - fl. 610, como também, pelo quantum da pena e pel as circunstâncias do delito - envolvimento de adolescentes na mercancia ilícita, fundamentos que autorizam a medida mais gravosa.
+Nesse sentido:
+PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. REGIME FECHADO. ADEQUADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (ART. 33, §§ 2º E 3º, DO CP E ART. 42, DA LAD). SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. INVIABILIDADE. MONTANTE DA PENA QUE NÃO ATENDE AO REQUISITO OBJETIVO PREVISTO NO INCISO I DO ART. 44 DO CP. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Considerando-se apenas o quantum de pena aplicado, o regime poderia, em princípio, ser o semiaberto. Todavia, não se pode olvidar a existência de circunstância desfavorável (quantidade e variedade das drogas apreendidas) que foi considerada na dosimetria da pena, na primeira fase, para fixar a pena-base acima do mínimo legal. Assim, inviável a fixação do regime intermediário unicamente em razão do montante de pena imposto ao paciente, nos termos do art. 33, §§ 2º e 3º, do Código Penal, e art. 42 da Lei n. 11.343/20 06.
+III - Inviável a substituição da pena privativa de liberdade por restritiva de direitos, pois o quantum da pena supera o limite previsto no art. 44, inciso I, do Código Penal.
+Habeas corpus não conhecido.
+(HC n. 507.167/SP, Ministro Felix Fischer, Quinta Turma, julgado em 28/5/2019, DJe 3/6/2019).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME FECHADO. VARIEDADE E QUANTIDADE DE DROGA (670 PORÇÕES DE COCAÍNA EM MICROTUBOS; 178 DE MACONHA; 195 PORÇÕES DE COCAÍNA; 163 PORÇÕES DE CRACK). EM DEPÓSITO (780 PORÇÕES DE MACONHA; 4.094 PORÇÕES DE CRACK E 242 MICROTUBOS DE COCAÍNA). QUANTUM FINAL DA PENA. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA.
+Habeas corpus indeferido liminarmente.
