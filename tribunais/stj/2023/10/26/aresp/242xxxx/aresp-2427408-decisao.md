@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por PAULA FERNANDA CARDOSO CARNEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DE EMPRESA. DEFERIMENTO EM IO GRAU. DECISÃO MANTIDA. EXISTÊNCIA DOS PRESSUPOSTOS NECESSÁRIOS À INCIDÊNCIA DO ART. 50, DO CÓDIGO CIVIL. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 50, caput e § 2º, III, do CC, no que concerne ao afastamento da desconsideração da personalidade jurídica da executada MPC Engenharia Ltda e consequente exclusão das recorrentes do polo passivo da demanda, porquanto, ausentes os requisitos para concessão de tal medida excepcional. Apresenta os seguintes argumentos:
+A verdade é que a simples inadimplência e insolvência da Empresa Executada nos autos principais, aliado aos empréstimos e doações feitas com recursos próprios da Recorrente serviu para aplicar a desconsideração da personalidade jurídica, o que infelizmente foi autorizado pelo Egrégio Tribunal de São Paulo.
+ ..
+Logo, no tocante à confusão patrimonial, novamente não pode a Recorrida supor ser o caso, em razão do capital social da Empresa Executada. O Poder Judiciário não é palco para achismos das partes irresignadas e famintas por terem seus pleitos atendidos.
+Não havendo qualquer prova do que é alegado, retornamos à estaca zero: a mera inadimplência ou insolvência não é suficiente para permitir o uso do instituto vislumbrado pela Recorrida.
+ ..
+Da leitura do Acórdão guerreado, depreende-se que a insolvência da Empresa Executada é suficiente para aplicação do instituto, pois, com a insolvência, presume-se não só o desvio de finalidade com intuito de fraudar credores, bem como a confusão patrimonial.
+O fato é de que se for permitida a aplicação do instituto da maneira como realizada pelo Tribunal de São Paulo, não há sequer necessidade da existência de uma Lei que regula e delimita os casos possíveis. Com a insolvência, os sócios poderão ser, automaticamente, atingidos, lançando por terra, pela via reflexa, tudo aquilo inerente à limitação de responsabilidade no Direito Empresarial.
+Felizmente, o entendimento jurisprudencial uníssono não é o mesmo exarado pela Recorrida e pelas decisões das instâncias inferiores. O entendimento predominante é de que não pode haver a presunção de um fato em decorrência de outro.
+É indispensável a existência de provas que possam demonstrar a configuração dos requisitos autorizadores, pois, em caso contrário, estar-se-ia ferindo os mais comezinhos princípios empresariais.
+ ..
+Não havendo os requisitos autorizadores da desconsideração da personalidade jurídica, impossível a inclusão dos sócios no polo passivo da demanda.
+Portanto, mister se faz o conhecimento do recurso especial pela alínea  a  do inciso III do art. 105 da CF e o seu provimento ante a violação do artigo 50, caput, §2º, inciso III, do Código Civil, para afastar a desconsideração da personalidade jurídica da Executada MPC ENGENHARIA LTDA e assim proceder pela exclusão das Recorrentes do polo passivo (fls. 212-216).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, a agravante é única sócia da empresa executada. Anote-se que ficou demonstrado que houve desvio de numerário da empresa executada para parentes da agravante, conforme ficou provado nas doações informadas na decl aração de renda (cf. fls. 172, 182 e 194), além de crédito da empresa para a pessoa física da sócia (cf. novamente declaração de renda fls. 174, 185 e 196). Em tais circunstâncias, é possível concluir com segurança a ocorrência do desvio de finalidade e a confusão patrimonial, visto que não foram encontrados ativos financeiros e nem bens penhoráveis da executada.
+Em resumo, é caso de manter a desconsideração da personalidade, inclusive pelos motivos já elencados na decisão agravada (fls. 203-204).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
