@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Espólio de João de Freitas, representado por Maria Cristina de Freitas Beraldo (inventariante), contra a decisão de fls. 1.375-1.377, em que rejeitei a sua admissão à lide na condição de assistente simples da Cooperativa Agropecuária do Sudoeste Mineiro - Casmil, por considerar que o requerente demonstrou interesse meramente econômico, hipótese que não justifica a intervenção como assistente simples da ora recorrida, nos termos da consolidada jurisprudência do STJ sobre o tema.
+Sustenta o embargante a existência de contradição, sob o argumento de que, "além do natural interesse econômico reconhecido pela decisão embargada, o interesse jurídico do embargante é manifesto, uma vez que a depender da decisão que se proferir por essa Colenda Turma julgadora, todo o patrimônio do embargante será absorvido pela execução movida contra a sua pretensa assistida, na medida em que ela será privada do único bem capaz de responder pelo crédito do embargante, que está na contingência de perder todos os seus bens em decorrência da dívida em discussão".
+As razões postas nos embargos de declaração em nada infirmam o conteúdo da decisão embargada, não merecendo qualquer complementação, revelando apenas caráter infringente, incompatível com a via eleita.
+Com efeito, a circunstância de ter ele interesse econômico em que seja preservado o patrimônio de codevedor de obrigação solidária para que, futuramente, venha a ter patrimônio suficiente à satisfação de direito de eventual direito de regresso em relação a si não configura interesse jurídico apto a autorizar o ingresso como assistente.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
