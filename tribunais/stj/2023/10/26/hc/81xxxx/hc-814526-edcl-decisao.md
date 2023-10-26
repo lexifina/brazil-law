@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS MAURICIO OLIVEIRA CRUZ contra a decisão de e-STJ fls. 993/997, em que não se conheceu da ordem de habeas corpus.
+Alega o embargante que, "no RESP, há o questionamento do mérito da condenação e, no HC, ao contrário, não há absolutamente nada referente ao mérito da condenação e sim ao defeito de tramitação. O questionamento do HC é meramente procedimental, questão que em nada se assemelha ao conteúdo do RESP." (e-STJ fl. 1009) e ainda que "sendo assim, entende o embargante, permissa venia, que deixou a decisão proferida no HC de se manifestar, expressamente, sobre questão de ordem pública." (e-STJ fl. 1010).
+Assim, requer o acolhimento dos embargos para que sejam sanados os vícios apontados.
+É, em síntese, o relatório.
+Os embargos de declaração, nos termos do artigo 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição, ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se percebe o aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. AÇÃO PENAL ORIGINÁRIA. QUEIXA-CRIME PARCIALMENTE PROCEDENTE. ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.  ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados.
+(EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+O texto da decisão recorrida é suficiente à sua compreensão. O acórdão decidiu a controvérsia de maneira fundamentada, porém, contrária aos interesses da parte embargante.
+A reflexão da doutrina é clara no sentido de que os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+As conclusões constantes da decisão recorrida não encerram nenhuma omissão ou ambiguidade. As razões do recurso revelam, na verdade, o inconformismo com o desfecho da causa e objetivam puramente a discussão da matéria que foi devolvida à instância competente para sua análise, tendo em vista a necessidade de análise de todo conjunto probatório constante do processo.
+Dá-se a omissão no decisum quando o julgador não se pronuncia sobre ponto ou questão suscitada pelas partes, ou que deveria pronunciar-se de ofício (CORRÊA, Luiz Artur de Paiva. Os embargos declaratórios e seus efeitos. Publicado in Jus Síntese, nº 18, julho/agosto de 1999).
+Ora, não compete a este relator fazer uma análise da inteireza do processo e das provas dele constantes. Há informação de que a condenação do embargante transitou em julgado. Se a parte alega algum defeito na atuação da Corte de origem, deve-se valer dos instrumentos legais para tal, já que não compete a este Tribunal interpretativo promover qualquer incursão na matéria fática, que já está resolvida pelas instâncias ordinárias. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. APREENSÃO DE CELULAR. ACESSO AOS DADOS E MENSAGENS. CONTEÚDO FRANQUEADO PELO PROPRIETÁRIO. VALIDADE DO CONSENTIMENTO. NECESSIDADE DE REVOLVIMENTO DO MATERIAL FÁTICO DOS AUTOS. IMPOSSIBILIDADE. PENA-BASE FIXADA EM 2/3 ACIMA DO MÍNIMO. GRANDE QUANTIDADE DE ENTORPECENTES APREENDIDO (25,4 KG DE MACONHA, 11 KG DE COCAÍNA E 3,9 KG DE LIDOCAÍNA). CONSTRANGIMENTO ILEGAL INEXISTENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte Superior tem firme entendimento quanto à necessidade de autorização judicial para o acesso a dados ou conversas de aplicativos de mensagens instalados em celulares apreendidos durante flagrante delito, ressalvando as circunstâncias em que houve a voluntariedade do detentor, como na hipótese. (AgRg no RHC n. 153.021/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 2/3/2022.)
+2. No caso, paciente Arnaldo franqueou aos policiais civis o acesso aos dados constantes em seu celular, inclusive mediante o fornecimento de senha. Modificar tais premissas demandaria o revolvimento de todo o material fático/probatório dos autos, o que é vedado em sede de habeas corpus.
+3. Na espécie, a pena-base foi exasperada em 2/3 (dois terços), devido ao desvalor conferido às circunstâncias do delito, consubstanciada na expressiva quantidade de entorpecente apreendido - 25,4 kg de maconha, 11 kg de cocaína e 3,9 kg de lidocaína -, fundamentação idônea e alinhada à jurisprudência pacificada desta Corte Superior. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no HC n. 690.792/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022.)
+Tal o contexto, ausentes os vícios imputados à decisão recorrida, rejeito os embargos de declaração.
+Publique-se. Intimem-se
+EMENTA
