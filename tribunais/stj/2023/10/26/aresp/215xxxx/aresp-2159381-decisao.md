@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo em recurso especial de NOVA PAIOL PARTICIPAÇÕES LTDA. (NOVA), pretendendo a reforma da decisão que negou seguimento ao seu recurso especial interposto contra acórdão do Tribuna de Justiça de Tocantins - TJTO, assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE PRESCRIÇÃO. HERDEIROS MENORES NA DATA DO ÓBITO DO GENITOR. PRESCRIÇÃO QUE NÃO CORRE CONTRA OS ABSOLUTAMENTE INCAPAZES. CREDORES SOLIDÁRIOS.
+PRESCRIÇÃO AFASTADA. EXECUÇÃO DE OBRIGAÇÃO PREVISTA NO TÍTULO. OUTORGA DA ESCRITURA DEFINITIVA DE COMPRA E VENDA. PAGAMENTO INTEGRAL DO PREÇO AJUSTADO. DESCUMPRIMENTO CONTRATUAL DA VENDEDORA. RECURSO CONHECIDO E IMPROVIDO.
+1. Considerando a menoridade dos exequentes no momento do óbito de seu genitor, bem como que o lapso prescricional não corre contra os absolutamente incapazes, inexiste a prescrição arguida pela apelante.
+2. Considerando que o primeiro exequente (mais novo) completou 16 anos de idade no dia 03/02/2014, momento em que começou a  uir o prazo prescricional, e que a execução foi ajuizada e m 02/02/2019, na Comarca de Osasco/SP, autuada sob o nº 1002139-90.2019.826.0405, bem como, não havendo qualquer indício nos autos de que a parte exequente deixou de adotar as providências necessárias para viabilizar a citação dos executados, aplica-se ao caso as disposições contidas no art. 219, § 1º do CPC/73 e art. 240, § 1º, do CPC/15, que prevê que a prescrição retroage à data da propositura da demanda, devendo ser esta (02/02/2019), portanto, a data a ser considerada como marco interruptivo da prescrição.
+3. Embora tenha ocorrido a quitação do contrato em 21/11/2000, fato incontroverso nos autos, a embargante não providenciou a outorga da escritura definitiva de compra e venda do imóvel e tampouco promoveu o registro da área comercializada.
+4. Malgrado alegue que a existência da Ação Civil Pública impediu a embargante de proceder com o cumprimento do contrato, tem-se que, diante da quitação integral do preço, o prazo final para o cumprimento das obrigações pela vendedora ocorreu em 21/01/2001, ao passo que a aludida ACP somente foi ajuizada no ano de 2008, razão pela qual não se observa qualquer motivo que impedisse a recorrente de proceder com o cumprimento da obrigação assumida no contrato antes da propositura da ACP.
+5. Em que pese a cláusula VI do contrato disponha expressamente que caberia à compradora as despesas com a escritura, registro, imposto de transmissão, averbações, taxas e demais encargos, tal fato não retirou da apelante a obrigação de providenciar a outorga da escritura definitiva da compra e venda do imóvel, cabendo à compradora somente o pagamento das despesas, conforme previsto na citada cláusula contratual.
+6. Embora sustente a inércia da parte compradora do imóvel, extrai- se dos autos que, após a realização dos pagamentos inerentes ao contrato, na data de 26/02/2001 a inventariante requereu a lavratura da escritura definitiva do bem, cabendo ressaltar que referida correspondência foi encaminhada 06 meses antes da promulgação da Lei nº 10.267, de 28/08/2001, mencionada pela apelante.
+7. Recurso conhecido e improvido. (e-STJ, fls. 1.901/1.902)
+Irresignada, NOVA interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando violação dos arts. 618 e 619 do CPC; e 206, § 5º, I, do CC, afirmando que (1) houve prescrição da pretensão executiva no que se refere ao espólio, representado pela Inventariante, haja vista que permaneceu inerte e jamais ajuizou a mencionada execução (e-STJ, fl. 1.919).
+O recurso não foi admitido pelo Tribunal estadual (e-STJ, fls. 1.958/1.960).
+Nas razões do presente agravo, alegou-se que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+(1) prescrição
+O Tribunal de origem, ao julgar a apelação, concluiu que não prescrita a pretensão, nos seguintes termos:
+No tocante à alegação de prescrição suscitada, razão não assiste à recorrente. Isso porque, ainda que o espólio não tenha ingressado com ação para o cumprimento do contrato, no caso em questão não é o espólio que consta no polo ativo da execução, e sim os herdeiros do falecido Luiz José Costa, os quais possuem legitimidade para requerer o cumprimento das obrigações assumidas no título.
+Certo é que o art. 198, I, do CC/2002 dispõe que não corre prescrição contra os absolutamente incapazes. Vejamos:
+Art. 198. Também não corre a prescrição:
+I - contra os incapazes de que trata o art. 3º;
+(..)
+Com efeito, comprovou-se nos autos que o de cujus faleceu em 23/06/1998, época em que o primeiro exequente tinha 4 meses e 20 dias de idade, e a segunda exequente tinha 2 anos e 11 meses de idade 1 , sendo ambos, portanto, absolutamente incapazes.
+Assim, considerando que o primeiro exequente (mais novo) completou 16 anos de idade no dia 03/02/2014, momento em que começou a  uir o prazo prescricional, e que a execução foi ajuizada em 02/02/2019, tem- se que esta foi proposta antes de completar o prazo prescricional de 05 cinco anos previsto em lei, conforme dispõe o art. 206, § 5º, I, do CPC.
+Ressalta-se que a referida Execução de Título Extrajudicial foi ajuizada originalmente na data de 02/02/2019, na Comarca de Osasco/SP, autuada sob o nº 1002139-90.2019.826.0405. No entanto, diante da decisão proferida no Agravo de Instrumento de nº 2076449-04.2019.826.0000, determinou-se a redistribuição da execução à uma das Varas Cíveis da Comarca de Formoso do Araguaia/TO, juntamente com os embargos à execução, conforme se veri ca da decisão proferida às  s. 839 do aludido processo executivo ( s. 39, OUT15, dos autos eletrônicos nº 0000910- 30.2019.827.2719).
+Ademais, acerca da interrupção da precrição, cumpre esclarecer que esta se dá com o despacho do juiz que ordena a citação, se o demandante promover no prazo e na forma da lei processual, entretanto, em sendo válida, retroage à data da propositura da ação (art. 219, § 1º do CPC/73 e art. 240, § 1º, do CPC/15).
+No caso, não há qualquer indício nos autos de que a parte exequente deixou de adotar as providências necessárias para viabilizar a citação, razão pela qual aplica-se ao caso o dispositivo legal que prevê que esta retroage à data da propositura da demanda, sendo esta, portanto, a data a ser considerada como marco interruptivo da prescrição.
+Com efeito, suspensa a prescrição em favor de um dos credores solidários, esta aproveita aos outros credores se a obrigação for indivisível. É o que estabelece o art. 201 do CC/02, vejamos: "Art. 201. Suspensa a prescrição em favor de um dos credores solidários, só aproveitam os outros se a obrigação for indivisível." No caso, conforme demonstrado pelos apelados em contrarrazões ao recurso, com a partilha em comum dos direitos sobre o imóvel objeto da lide aos apelados, se instituiu condomínio indiviso, que foi materializado por meio de Instrumento Particular de Constituição de Condomínio, tornando o imóvel indiviso até 24/10/2019, após a celebração do aditivo, conforme se observa do documento juntado ao evento 18 2 .
+Logo, não há dúvidas de que, suspensa a prescrição em favor do primeiro exequente, esta aproveita à segunda exequente, conforme o citado art. 201 do CC.
+ ..
+Assim, considerando a menoridade dos exequentes no momento do óbito de seu genitor, bem como que o lapso prescricional não corre contra os absolutamente incapazes, inexiste a prescrição arguida pela apelante. (e-STJ, fls. 1.890/1.892)
+Da atenta análise do voto acima descrito observa-se o TJTO decidiu com base no disposto nos arts. 198, I, e 201 do CC, dispositivos não trazidos ao debate no especial e, portanto, não impugnados pela recorrente.
+Incidente, portanto, o óbice da Súmula nº 283 do STF, a qual determina que É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DENUNCIAÇÃO À LIDE DA CONSTRUTORA. NÃO CONFIGURADA HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.026.035/RN, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022)
+Nessas condições, CONHEÇO o agravo para NÃO CONHECER o recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de LEANDRO MARQUES COSTA e OUTROSA, limitados a 20%, nos termos do art. 85, § 11, do CPC, ficando suspensa a exigibilidade em caso de gratuidade da justiça (artigo 98, § 3º, CPC)
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OBRIGAÇÃO. AUSÊNCIA DE PRESCRIÇÃO. ARTS. 198, I, E 201 DO CC. RAZÕES DO ACÓRDÃO NÃO COMBATIDAS. SÚMULA Nº 283 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
