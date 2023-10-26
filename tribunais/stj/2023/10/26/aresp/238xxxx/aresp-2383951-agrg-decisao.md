@@ -1,0 +1,13 @@
+DECISÃO
+MARCELO LOPES LIMA interpõe agravo regimental contra a decisão da Presidência desta Corte, de fls. 387-388, que não conheceu do agravo em recurso especial, diante de suposta irregularidade na representação processual.
+Entretanto, compulsando os autos, observo que o processo se encontra com representação processual regularizada, visto que o substabelecimento está devidamente inserido na cadeia processual, de tal sorte que deve ser reconsiderada a decisão que não conheceu do agravo em recurso especial.
+Assim, com esteio na possibilidade de retratação inerente ao agravo regimental, reconsidero a decisão de fls. 387-388, tornando-a sem efeito e passo ao exame dos demais requisitos de admissibilidade do especial.
+No agravo, afirma a defesa que o exame do caso prescinde da análise de provas, notadamente porque os bens objeto de constrição não foram utilizados para atividade ilícitas e já foram devidamente periciados, não havendo mais novas diligências a serem realizadas.
+Assinala que "a hipótese de os bens em questão serem perdidos para a União é uma mera possibilidade, a qual depende de sentença condenatória que assim o determine, sendo que no presente momento processual não se pode aplicar pena antecipada ao Réu" (fl. 327), em clara inobservância aos art. 118 e 120 do CPP.
+De início, observo que o recurso especial foi interposto somente pela alínea "c" do permissivo constitucional. Os acórdãos trazidos à confronto, contudo, não guardam a devida similitude fática, notadamente porque retratam situação com premissas distintas.
+Com efeito, no caso dos autos, ficou registrado no acórdão que "existem indícios de que os celulares e notebooks estavam sendo utilizados para a prática dos crimes" (fl. 276), diversamente do que ocorreu com o aresto paradigma apresentado.
+De fato, no paradigma, houve a afirmação de que "os bens apreendidos não se revelam instrumentos dos crimes, cujo fabrico, alienação, uso, porte ou detenção constitua fato ilícito e, aparentemente, tampouco consubstanciam o produto do crime ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prática do fato criminoso" (fl. 305).
+Além disso, não há como inferir se de fato os bens que a defesa pretende a restituição não foram utilizados para a prática do crime, notadamente diante da afirmação contrária contida no acórdão, a qual somente pode ser infirmada com o reexame de provas (incidência da Súmula n. 7 do STJ). Some-se a isso o fato de ainda interessarem ao processo, tal como assinalado na origem.
+À vista do exposto, em juízo de retratação, com fundamento no art. 34, XVIII, "b" do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
