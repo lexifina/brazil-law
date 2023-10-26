@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO DE SOUZA SILVA contra acórdão assim ementado (fl. 28):
+HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DO CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006) E POSSE ILEGAL DE ARMA DE FOGO (ART. 12 DA LEI N. 10826/03). CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. PREENCHIMENTO DOS PRESSUPOSTOS E REQUISITOS DOS ARTIGOS 312 E 313 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS SUFICIENTES PARA SUSTENTAR A IMPUTAÇÃO FEITA AO PACIENTE. NECESSIDADE DA SEGREGAÇÃO PARA A GARANTIA DA ORDEM PÚBLICA. DECISÃO DEVIDAMENTE FUNDAMENTADA. BONS PREDICADOS PESSOAIS QUE NÃO OBSTAM A MANUTENÇÃO DA PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR QUE NÃO FERE O PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA APLICAÇÃO DE MEDIDAS CAUTELARES. PROVIDÊNCIA QUE, NA HIPÓTESE, NÃO SE MOSTRA SUFICIENTE. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA.
+1. Sempre que restarem presentes prova da materialidade e indícios de autoria, o juiz está autorizado a manter o réu segregado, para, dentre outras finalidades, assegurar a garantia da ordem pública (art. 312 do Código de Processo Penal).
+2. Inexiste ilegalidade na prisão quando a autoridade dita como coatora explicita suficiente e fundamentadamente as razões fáticas e jurídicas pelas quais determina ou mantém a prisão preventiva.
+3. Os predicados subjetivos do paciente não constituem óbice à manutenção da sua segregação cautelar, desde que presentes os requisitos da prisão preventiva.
+4. Se presentes os requisitos ensejadores do decreto preventivo, mostra-se incabível a aplicação de quaisquer das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Consta dos autos que o paciente foi condenando, em primeiro grau, como incurso no art. 33, caput, da Lei n. 11.343/2006 e art. 12 da Lei n. 10.826/2003, na forma do art. 69, caput, do Código Penal, à pena de 05 anos de reclusão, em regime inicial fechado, 01 ano de detenção, em regime semiaberto, e ao pagamento de 593 dias-multa. Mantida a prisão preventiva (fls. 74-93).
+Irresignada, a defesa interpôs recurso de apelação criminal da referida decisão, que está pendente de julgamento na Corte de origem.
+No presente writ, o impetrante sustenta a nulidade do flagrante e das provas, obtidas através da busca pessoal sem fundadas razões, violação de domicílio e acesso ao telefone de forma irregular, razão pela qual seria caso de absolvição do paciente.
+Além disso, aponta constrangimento ilegal devido à falta de fundamentação idônea para manter a prisão preventiva do paciente, porquanto não foram preenchidos os requisitos autorizadores previstos no art. 312 do CPP, bem como a ausência de fundamentação para negar ao paciente o direito de recorrer em liberdade.
+Requer, liminarmente e no mérito, a concessão da ordem para o reconhecimento da nulidade do feito ante a ilicitude das provas com a consequente absolvição do paciente. Subsidiariamente, pugna pela concessão do direito de apelar em liberdade.
+Quanto aos requisitos da custódia cautelar, em consulta ao sistema de dados desta Corte, verifica-se que foi interposto o RHC 180.379/SC, ao qual foi negado provimento em 1º/08/23.
+Em relação ao pleito de reconhecimento de nulidade do flagrante e das provas, foi impetrado o HC 840.156/SC, cuja ordem foi denegada em 14/9/23.
+Nesse contexto, a presente impetração constitui mera reiteração dos pedidos formulados nos referidos RHC e HC, fato que se consubstancia em óbice ao conhecimento deste mandamus.
+Além disso, verifica-se por meio da consulta ao sítio eletrônico do Tribunal de origem, que contra a sentença condenatória proferida em desfavor do paciente, foi interposto recurso de apelação, o qual se encontra pendente de julgamento naquela Corte.
+Desse modo, "pendente o julgamento do recurso de apelação defensivo perante o Tribunal de origem, fica esta Corte impedida de analisar o mérito da impetração, sob pena de indevida supressão de instância" (AgRg no AgRg no HC n. 667.949/CE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022 .).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
