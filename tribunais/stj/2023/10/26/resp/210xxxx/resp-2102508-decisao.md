@@ -1,0 +1,18 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça daquele estado na Apelação Criminal n. 0045018-07.2021.8.19.0001.
+O Parquet suscita a violação dos arts. 157, § 2º-A, I, e § 2º-B, do Código Penal, bem como 155, 158, 167 e 564, III, "b", do Código de Processo Penal, ao argumento de que é desnecessária a apreensão e a perícia da arma para a configuração do emprego de arma de fogo no roubo.
+Requer o provimento do recurso, para que seja restabelecida a sentença no tocante às referidas majorantes e a sua repercussão na dosimetria da pena.
+Apresentadas as contrarrazões e admitido o recurso, veio o parecer do Ministério Público Federal, que opinou pelo seu provimento (fls. 699-700).
+Decido.
+Observo que o recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade do recurso especial (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), razões pelas quais avanço na análise de mérito da controvérsia.
+A sentença registrou a comprovação do emprego de arma no roubo, nos seguintes termos (fl. 271, grifei):
+As majorantes de que cuidam o §2º-A, inciso I e §2º-B, ambos do art. 157 do Código Penal também resultaram cabalmente demonstradas nos autos diante dos esclarecedores depoimentos das vítimas em juízo.
+As vítimas foram firmes em afirmar que foram abordadas pelo acusado, que portava uma PISTOLA, esclarecendo, inclusive, que a todo momento ele engatilhava a arma, enquanto o seu comparsa portava um FUZIL.
+Revelaram, ademais, que o acusado, ao avistar a aproximação das viaturas policiais, embora não tenha conseguido ingressar no veículo da vítima, jogou a arma de fogo no interior do aludido automóvel enquanto seu comparsa acelerava o carro em fuga, razão pela qual nenhuma das citadas armas foram apreendidas.
+Veja-se que, apesar de nenhuma arma ter sido apreendida, não sendo possível realizar o respectivo laudo pericial, a jurisprudência é pacífica no sentido de que desnecessária a referida peça técnica quando comprovada a sua utilização pela prova colhida nos autos.
+O Tribunal estadual afastou as referidas causas de aumento, "na medida em que não houve apreensão de qualquer armamento, não sendo possível sua submissão à perícia para verificação da potencialidade lesiva" (fl. 403).
+Sobre o tema, faço lembrar que, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova.
+Vale dizer, nas hipóteses em que não for possível a apreensão e a perícia da arma para a prova do seu efetivo potencial de lesividade, como na hipótese, mostra-se devida a incidência da majorante, quando existirem nos autos elementos de prova que confirmem a sua utilização na prática do delito, exatamente como consignado na sentença, que destacou a prova oral produzida.
+À vista do exposto, dou provimento ao recurso especial, a fim de restabelecer o emprego de arma de fogo e a dosimetria da pena realizada na sentença.
+Publique-se e intimem-se.
+EMENTA
