@@ -1,0 +1,8 @@
+DECISÃO
+PEDRO DIAS MONTALVÃO agrava da decisão de fls. 2.422-2.426, em que não foi admitido seu recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição da República de 1988, contra acórdão prolatado pelo Tribunal de Justiça do Es tado de Rondônia nos Embargos de Declaração na Apelação n. 0002297-32.2012.8.22.0014, em que foi mantida a sentença que "condenou os apelantes como incursos nas penas dos arts. 129, § 1º, II, 148, 161, § 1º, II, 163, parágrafo único, I, 288, parágrafo único e 330, c/c art. 29, na forma do art. 69, todos do CP" (fl. 1.939).
+De pronto, percebo a impossibilidade de conhecimento do feito, dada a sua intempestividade.
+Na hipótese, verifica-se que a decisão que inadmitiu o recurso especial foi publicada em 9/12/2014 (fl. 2.443), em data anterior, portanto, à entrada em vigor do Novo Código de Processo Civil, a incidir no caso a jurisprudência por meio da qual " o  Supremo Tribunal Federal, com a edição da Súmula n.º 699, pacificou o entendimento de que o prazo para interposição de agravo em recurso especial é de 5 (cinco) dias, nos termos do art. 28, da Lei n.º 8.038/90, norma especial, que prevalece sobre as disposições gerais" (REsp n. 1.414.755/PA, relator Ministro Moura Ribeiro, Quinta Turma, DJe de 22/8/2014, grifei.)
+Dessa forma, dado que o agravo em recurso especial foi protocolizado tão-somente em 17/12/2014 (fl. 2.671), evidencia-se a intempestividade do apelo especial, visto que o fim do quinquídio se deu em 15/12/2014.
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
