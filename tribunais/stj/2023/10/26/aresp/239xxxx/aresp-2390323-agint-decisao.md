@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interno interposto por CIPASA VARZES GRANDE VAR1 DESENVOLVIMENTO IMOBILIÁRIO LTDA. e outra (CIPASA e outra) contra decisão de relatoria da Ministra Presidente desta Corte que não conheceu do agravo em recurso especial, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente inconformismo, CIPASA e outra alegaram que não é caso de aplicação da Súmula nº 182 do STJ, uma vez que houve impugnação específica dos fundamentos, inclusive em tópicos específicos.
+Houve impugnação ao recurso (e-STJ, fls. 477/488).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+De fato, verifica-se que CIPASA e outra, nas razões do agravo em recurso especial, infirmaram todos os fundamentos da decisão denegatória do apelo nobre.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto por CIPASA e outra .
+Em seu recurso especial, amparado no art. 105, III, a e c, da CF, CIPASA e outra alegaram ofensa aos arts. 26 e 27 da Lei n. 9.514/97 e 186, 187 e 927 do CC/2002, além de divergência jurisprudencial. Sustentaram que (1) não foram observadas as previsões da legislação especial para a rescisão do contrato firmado por alienação fiduciária em garantia; e (2) que não ficaram caracterizadas as circunstâncias excepcionais para configurar os danos morais decorrentes de atraso na entrega de imóvel .
+Foram apresentadas contrarrazões (e-STJ, fls. 401/416).
+O inconformismo não merece prosperar.
+Da aplicação da legislação especial
+CIPASA e outra alegaram ofensa aos arts. 26 e 27 da Lei n. 9.514/97. Sustentaram que não foram observadas as previsões da legislação especial para a rescisão do contrato firmado por alienação fiduciária em garantia.
+Os conteúdos normativos dos dispositivos tidos por violados, que dispõem sobre a rescisão de contratos firmados com pacto adjeto de alienação fiduciária em garantia, não foram objeto de debate pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração, de modo que está ausente o indispensável requisito do prequestionamento.
+Com efeito, o Tribunal local apreciou a questão apenas sob o aspecto da promessa de compra e venda, sem a existência do alegado pacto adjeto de alienação fiduciária em garantia.
+Incide, portanto, a Súmula n.º 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Registra-se que caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA. FRAUDE. DADOS BANCÁRIOS. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. FORTUITO INTERNO. SÚMULAS N. 297 E 479 DO STJ. FATO DE TERCEIRO. NECESSIDADE DE VERIFICAÇÃO DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. DENUNCIAÇÃO DA LIDE. JUROS DE MORA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS N. 211 DO STJ E 282 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. As instituições financeiras submetem-se ao Código de Defesa do Consumidor, respondendo objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias. Súmulas n. 297 e 479 do STJ.
+2. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista o óbice da Súmula n. 7 do STJ.
+3. A revisão pelo STJ da indenização arbitrada a título de danos morais exige que o valor tenha sido irrisório ou exorbitante, fora dos padrões de razoabilidade. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso especial.
+4. A falta de prequestionamento dos dispositivos legais tidos por violados, a despeito da oposição de embargos declaratórios, inviabiliza seu reconhecimento na instância extraordinária, por falta de prequestionamento. Incidência das Súmulas n. 211 do STJ e 282 do STF.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.907.225/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/3/2023, DJe de 29/3/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. AÇÃO DECLARATÓRIA COMBINADA COM COBRANÇA. ARTS. 7º, 344, 348 E 349 DO CÓDIGO DE PROCESSO CI VIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. PROVA PERICIAL. DESNECESSIDADE. INDEFERIMENTO. CERCEAMENTO DE DEFESA. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. ARTS. 186 E 927 DO CÓDIGO CIVIL. FUNDAMENTO AUTÔNOMO. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. A admissão de prequestionamento ficto (art. 1.025 do Código de Processo Civil de 2015), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do Código de Processo Civil de 2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+3. O julgamento antecipado da lide está inserto no âmbito do desdobramento causal, possível e natural da controvérsia, obtido a partir de um juízo de ponderação do magistrado à luz do ordenamento jurídico vigente, o que não caracteriza decisão surpresa.
+4. Nos termos da orientação firmada nesta Corte, o destinatário final da prova é o juiz, a quem cabe avaliar quanto a sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015.
+5. Na hipótese, rever as conclusões do tribunal quanto à desnecessidade da realização de prova pericial demandaria a análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7/STJ.
+6. A ausência de impugnação de fundamento autônomo não acarreta o não conhecimento do recurso, mas, tão somente, a preclusão do tema.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.126.957/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+Sobre a não ocorrência de situação a ensejar indenização por danos morais
+CIPASA e outra alegaram ofensa aos arts. 186, 187 e 927 do CC/2002. Sustentaram que não ficaram caracterizadas as circunstâncias excepcionais para configurar os danos morais decorrentes de atraso na entrega de imóvel.
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do Resp nº 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1426710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ , Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e, REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas da caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp n. 1.637.627/RJ, relatora Ministra NANCY ANDRIGHI, julgado aos 6/12/2016, DJe de 14/12/2016; REsp n. 1.633.274/SP; julgado aos 8/11/2016, DJe de 11/11/2016; AgRg no AREsp n. 809.935/RS, DJe de 11/3/2016; e, REsp 1.551.968/SP, Segunda Seção, DJe de 6/9/2016.
+Na hipótese vertente, o fundamento do dano moral está calcado nas seguintes razões:
+Inicialmente cumpre apurar se de fato houve o atraso alegado pelos autores. A cláusula 1.6 do capítulo 1 da avença estabelece que a entrega seria em 09/2018, prorrogável por mais 180 dias (Id. 143267639 - Pág. 3). Desse modo, incluindo os 180 dias, o imóvel deveria estar pronto em 03/2019, o que não ocorreu até a propositura da Ação em 12/07/2019.
+(..)
+Já o dano moral tem de ser provado. No caso concreto, as frustrações com o não recebimento do imóvel superam o mero dissabor, e a demora excessiva fere o princípio da boa-fé objetiva nas relações contratuais.(e-STJ, fls. 370/371).
+Como visto da transcrição acima, o fundamento adotado para reconhecimento do dano moral foi o inadimplemento contratual, decorrente do atraso na entrega do imóvel, sem a comprovação de qualquer outro fundamento relevante que importasse em inegável abalo imaterial.
+Desse modo, inexistindo circunstância específica, capaz de provocar graves lesões à personalidade dos recorridos, é de se afastar a condenação ao pagamento da reparação por dano moral.
+Nessas condições, dou provimento ao agravo interno para CONHECER do agravo e DAR PARCIAL PROVIMENTO ao recurso especial e, assim, excluir a condenação ao pagamento por danos morais. Em razão da sucumbência recíproca, REDISTRIBUO os ônus da sucumbência, ficando as partes responsáveis pelo pagamento de 50% das custas processuais e dos honorários advocatícios fixados pelo acórdão recorrido.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. COMPROMISSO DE COMPRA E VENDA. AÇÃO DE RESCISÃO. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. TEMA NÃO DEBATIDO. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. DANO MORAL. AFASTAMENTO. MERO INADIMPLEMENTO CONTRATUAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
