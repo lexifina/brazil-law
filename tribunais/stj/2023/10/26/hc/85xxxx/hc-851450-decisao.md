@@ -1,0 +1,53 @@
+DECISÃO
+LEANDRO LUCAS DA SILVA alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Pernambuco (HC n. 0013477-08.2023.8.17.9000).
+Nesta Corte, sustenta a defesa a ausência de periculum libertatis e de proporcionalidade para a mantença da prisão processual do réu, pela suposta prática de dois homicídios, um consumado e um tentado. Aduz que não há indícios suficientes de autoria. Suscita a falta de contemporaneidade entre os fatos e a constrição provisória.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não conhecimento do mandamus (fls. 43-44; 53-58; 61-65).
+Decido.
+Expõem os autos que o Magistrado de primeiro grau recebeu a denúncia e decretou a segregação preventiva dos investigados, sob estes motivos (fls. 30-31):
+A acusação trazida na denúncia é a de que, "Na manhã de 26 de março de 2022, por volta das 11h, na Avenida Maurício de Nassau, no bairro da Iputinga, nesta Capital, os denunciados LEANDRO LUCAS DA SILVA ("DOI"), LEONARDO SANTOS DA SILVA ("LEO SHAZAM"), RONALDO ADRIANO SANTOS DA SILVA ("NADO"), na qualidade de mandantes; MARCÍLIO CLEMENTINO DE SOUZA, MARCOS VINÍCIUS DOS SANTOS MELO ("RAMON") e RAUL MAKSOM FLORENTINO DE AGUIAR ("RAUL"), na qualidade de executores, em coautoria com outro(s) agente(s) ainda não identificado(s) e em unidade de desígnios, assassinaram WEMERSON LEÃO DE CASTRO  ..  e tentaram assassinar KAIO FIGUEIREDO LOPES  .. , mediante diversos disparos de armas de fogo, inclusive uma metralhadora."
+ ..
+Pois bem, em análise da situação processual dos denunciados frente à presença dos requisitos legais autorizadores da prisão preventiva, entendo, de fato, presente a necessidade de garantia da ordem pública, vez que a conduta dos réus no meio social se mostra incompatível com a paz pública, vez que a vulneram de maneira constante ao se envolverem acusações penais. Vejamos.
+Em consulta aos registros criminais dos referidos, identifica-se que Leandro Lucas da Silva possui condenação criminal nos autos do processo nº. 0007657-83.2016.8.17.0001, por homicídio qualificado à pena de reclusão de 20 anos.  ..
+Dessa forma, colhidos elementos suficientes de autoria e provada a materialidade dos delitos, constatada a gravidade da acusação e suas consequências, a periculosidade social dos réus, representada pelos antecedentes criminais que ostentam, entendo, perfeitamente presentes os requisitos autorizadores dos arts. 311 e 312 do CPP. Decreto, pois, a prisão preventiva dos réus Leandro Lucas da Silva, Marcilio Clementino de Souza, Raul Maksom Florentino de Aguiar e de Ronaldo Santos da Silva, com base nos arts. 311 e 312 do CPP.
+A tomada da medida cautelar mais grave, neste caso, se mostrou como a adequada e proporcional, sendo o manejo de alguma outra elencada no art. 319 do CPP insuficiente na presente hipótese.
+A prisão do ora paciente, vulgo "Doi", se efetivou em 14/10/2022 (fl. 57).
+Em 13/11/2022, foram reavaliadas as custódias cautelares dos acusados, à luz do art. 316, parágrafo único, do CPP (fls. 39-40).
+Em 30/8/2023, o Tribunal a quo denegou o writ originário.
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que há audiência de instrução designada para o dia 20/12/2023. Em 11/10/2023, nomeou-se a Defensoria Pública para a assistência do corréu Raul.
+Feitos esses registros, passo à análise da impetração.
+De início, sublinho, conforme posicionamento do STJ, que "O exame da suposta ausência de indícios suficientes da autoria delitiva demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus" (HC n. 554.114/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/3/2020).
+Ao que consta dos autos, Leandro Lucas da Silva é um dos líderes da facção criminosa "Grupo do Detran" e suposto mandante dos homicídios descritos na inicial, em decorrência de rivalidade para o exercício do tráfico de drogas.
+Segundo a denúncia, "no contexto de vingança", o paciente e outros dois "líderes do "Grupo do Detran" deram a ordem para que MARCÍLIO CLEMENTINO, RAUL MAKSOM, MARCOS VINÍCIUS ("RAMON") e mais dois elementos assassinassem Felipe Eduardo", integrante de facção concorrente, o Grupo Caiara (fl. 33)
+Descreve a exordial acusatória que um automóvel se aproximou do estabelecimento comercial então enunciado, no Bairro Iputinga, da Capital de Pernambuco. Do veículo, saíram Marcílio, Marcos Vinícius ("Ramon"), Raul e um quarto indivíduo não identificado, ocasião em que alvejaram a vítima com mais de 30 disparos.
+Narra a denúncia que "os executores estavam fortemente armados,  ..  um deles portava uma metralhadora e trajava um colete balístico, como se pode ver pelas imagens anexas colhidas de câmera de segurança". Salienta que a conduta exposta "foi completamente desproporcional e inadvertida", praticada "em plena luz do dia, em horário comercial", com a impossibilidade de defesa pelo ofendido (todos à fl. 34).
+Depreende-se, pois, consoante a orientação desta Corte de Justiça, que se evidencia lastro probatório bastante para a manutenção da medida cautelar mais severa do acusado, revelado pelo modus operandi de que, em tese, se valeram os executores, a mando do paciente, para realizar o homicídio contra membro de facção rival, em razão de disputa territorial para o desempenho do comércio de entorpecentes, mediante mais de 30 disparos de arma de fogo, em via pública.
+Cumpre mencionar que "o alvo não foi encontrado". No entanto, os coacusados "decidiram assassinar WEMERSON LEÃO DE CASTRO, que sabiam ser amigo de Felipe e integrante do Grupo Caiara" (fl. 33).
+Ressalte-se, ademais, que, após a prática delituosa, "os quatro indivíduos armados retornaram ao carro", que havia sido objeto de roubo à mão armada 4 dias antes, e "empreenderam fuga". Na oportunidade, "atiraram a esmo em transeuntes que passavam". Os tiros chegaram, inclusive, a atingir um pedestre que ali trabalhava com a limpeza de automóveis (fl. 34).
+Destaca-se, portanto, a gravidade concreta dos crimes imputados ao réu.
+A par das diretrizes firmadas por este Tribunal Superior, a "necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (RHC n. 125.773/RO, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 9/6/2020).
+Outrossim, a condenação criminal prévia ao cumprimento de 20 anos de reclusão, pela prática de infração penal contra a vida, demonstra, de acordo com a jurisprudência pátria, a periculosidade social do paciente e a real probabilidade de reiteração delitiva.
+Nesse sentido:
+ ..  3. A custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso.
+4. Segundo delineado pelas instâncias ordinárias, o agravante, com animus necandi, efetuou disparos de arma de fogo em desfavor da vítima, no momento em que ela estava conversando com amigos em uma calçada. Conforme se extrai do caderno processual, o delito teria sido motivado por disputa relacionada a dívida de tráfico de drogas.
+Além disso, o agravante responde a outro processo por crime doloso contra a vida, circunstância que também justifica a prisão cautelar na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva.
+ ..
+6. Assim, tem-se por inviável a aplicação de medidas cautelares diversas da prisão, quando a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura. Precedentes.
+ ..
+9. Agravo regimental desprovido.
+(AgRg no HC n. 732.112/PE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 28/4/2022.)
+ ..  3. Nos termos de reiterada jurisprudência do Superior Tribunal de Justiça, é cabível a prisão para a garantia da ordem pública, quando se sabe que o delito de homicídio qualificado foi praticado em decorrência de disputa relacionada ao tráfico drogas.
+4. Além disso, evidenciada a periculosidade e a reiteração delitiva do Réu, que responde a outra ação penal pela prática do crime de roubo, o que também motiva adequadamente a constrição preventiva.
+5. É inviável a aplicação de medidas cautelares diversas da prisão, já que a gravidade concreta do delito e a reiteração delitiva do Réu demonstra serem insuficientes para insuficientes para acautelar a ordem pública.  ..
+8. Ordem de habeas corpus denegada.
+(HC n. 612.602/BA, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020.)
+ ..  No caso dos autos, a prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, que entenderam demonstrada a periculosidade do ora agravante, evidenciada pela gravidade da conduta, uma vez que existem fortes indícios de que comanda organização criminosa violenta de tráfico de drogas com uso de arma de fogo, que parece estar envolvida em uma série de homicídios na região de Campos Lindos (Marajó), em razão de disputa pelo monopólio do tráfico de drogas na região,  ..  circunstâncias que demonstram risco ao meio social, recomendando-se a sua custódia cautelar para garantia da ordem pública, para assegurar a aplicação da lei penal, e, principalmente, com o intuito de impedir a reiteração delitiva por parte dos integrantes de organizações criminosas.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no RHC n. 127.987/GO, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 21/9/2020.)
+A propósito da suscitada falta de contemporaneidade, observo que o tempo transcorrido entre os fatos (26/3/2022 - fl. 30) e o decreto preventivo (exarado em 19/9/2022 - fl. 56) não é capaz de afastar, por si só, a premência da providência cautelar, aos ditames da orientação jurisprudencial.
+Ainda, nã o há falar em desproporcionalidade do cárcere provisório. Consigna esta Corte Superior que, na sentença, a avaliação desfavorável das circunstâncias judiciais ou, até mesmo, a menção a elementos concretos dos autos, indicativos do risco de reiteração delitiva, são idôneos para a fixação de regime prisional mais gravoso ao acusado. Aliás, as sanções previstas em abstrato para os delitos atribuídos ao réu não permitem acolher, de plano, a alegação defensiva.
+Dadas as apontadas circunstâncias do fato e condições pessoais do paciente, não se mostra adequada e bastante, ao menos por ora, a fixação de medidas alternativas (art. 282 c/c art. 319 do CPP).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
