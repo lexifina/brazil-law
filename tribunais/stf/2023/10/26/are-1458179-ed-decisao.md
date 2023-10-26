@@ -1,0 +1,31 @@
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao recurso extraordinário, reconhecendo a exigibilidade das contribuições previdenciárias incidentes sobre o terço constitucional de férias.
+
+    A embargante sustenta, em síntese, que a decisão recorrida possui vícios de omissão e error in procedendo, com os seguintes fundamentos:
+
+    “[...] em junho de 2023, diante da pendência de julgamento de modulação de efeitos, foi proferida decisão pelo Exmo. Sr. Ministro André Mendonça sobrestando o andamento de todos os processos envolvendo o terço constitucional de férias: (…) Sendo assim, por prudência judicial e ex officio, julgo oportuno determinar a suspensão de tramitação de todos os processos potencialmente atingidos pela possível modulação de efeitos a ser operada nos embargos de declaração pendentes de julgamento no Plenário presencial. 31. Ante o exposto, defiro os pedidos principais contidos nas Petições STF nº 31.548/2022, nº 73.166/2022 e nº 54.423/2023, com a finalidade de decretar a suspensão, em todo o território nacional, dos feitos judiciais e administrativos pendentes, individuais ou coletivos, que versem sobre a questão presente no Tema nº 985 do ementário da Repercussão Geral, nos termos do art. 1.035, § 5º, do CPC. 32. Oficie-se aos Presidentes de todos os Tribunais do país, com cópia desta decisão. A comunicação aos Juízos de 1º grau e às Turmas Recursais de Juizados Especiais deverá ser feita pelo Tribunal com os quais mantenham vinculação administrativa 20. Ocorre que, posteriormente à tal decisão, este N. Relator proferiu a r. decisão de fls. negando provimento ao presente Agravo, sob o fundamento de que o entendimento do eg. Tribunal a quo estaria de acordo com o dessa C. Corte firmado no Tema 985, sem ter se atentado pela necessidade de suspensão do presente processo, ante a determinação desse próprio eg. Supremo Tribunal Federal, em virtude da necessidade de definição sobre a modulação de efeitos em relação ao julgamento do Tema nº 985 da Repercussão Geral. 21. A suspensão promovida pelo Exmo. Ministro André Mendonça não comporta exceções, ou seja, deve ser acatada não só pelos Tribunais Regionais Federais, mas, também, pelos Tribunais Superiores, ou seja, Superior Tribunal de Justiça e este Supremo Tribunal Federal. 22. Certamente, é prudente que, antes que se profira uma decisão final quanto ao presente Agravo, se aguarde a definição desse eg. Supremo Tribunal Federal quanto à modulação dos efeitos do julgamento do Tema nº 985, até mesmo para que se privilegie a economia processual, evitando-se a interposição de recursos desnecessários. Esse é, inclusive, o fundamento da decisão proferida por essa C. Corte que, conforme já mencionado, determinou a suspensão de todos os processos que tratem da matéria, como o presente Recurso Especial. 23. Por outro lado, não se trata de mera tentativa de protelação do término do processo, na medida em que já houve a determinação de sobrestamento dos feitos que se relacionam ao terço constitucional de férias. 24. O que se pretende, portanto, é a mera correção de um equívoco, com a suspensão do feito, ou ao menos, a manifestação sobre o motivo de ter, este N. Relator, se omitido quanto ao fato acima apontado, qual seja, a decisão do Exmo. Sr. Ministro André Mendonça.” (doc. eletrônico 265, pp. 4-5)
+
+    É o relatório. Decido.
+
+     Bem reexaminados os autos, verifico que os embargos declaratórios não merecem provimento.
+
+    Com efeito, os embargos de declaração apenas são cabíveis, nos termos do art. 1.022 do Código de Processo Civil, quando a decisão recorrida contém omissão, contradição, obscuridade ou erro material.
+
+     No presente caso, não procedem as alegadas omissões, dado que – de forma clara, expressa e com amparo na jurisprudência desta Suprema Corte – neguei provimento ao recurso extraordinário interposto, e assinalei que:
+
+     “não procede o argumento de que, para a aplicação do Tema 985 da Repercussão Geral, seria necessário aguardar o julgamento definitivo do RE 1.072.485-RG/PR. Com efeito, esta Suprema Corte já decidiu que a existência de decisão de mérito julgada sob a sistemática da repercussão geral autoriza o julgamento imediato de causas que versarem sobre o mesmo tema, independente do trânsito em julgado do paradigma.”
+
+    Assim, observo que, a pretexto de suprir omissão, a embargante tem o propósito de provocar o reexame da causa. Entretanto, os embargos de declaração não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo se existentes os vícios elencados no art. 1.022 do CPC, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes do Plenário do Supremo Tribunal Federal:
+
+      “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA.” (ARE 873.804 AgR-segundo-ED-EDv-AgR-ED/RJ, Rel. Min. Cármen Lúcia, DJe 28/3/2023)
+
+     “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. NÃO PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL DOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso. 2. A embargante busca indevidamente a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes. 3. Embargos de declaração rejeitados.” (RE 1.284.118 ED-AgR-ED-ED-EDv-AgR-ED/RS, Rel. Min. Edson Fachin, DJe 19/4/2023)
+
+    Posto isso, rejeito os embargos de declaração (art. 1.024, § 2°, do CPC).
+
+    Publique-se.
+
+    Brasília, 26 de outubro de 2023.
+
+Ministro Cristiano Zanin
+
+Relator
