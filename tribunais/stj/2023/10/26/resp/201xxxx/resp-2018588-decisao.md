@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  recurso especial interposto por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - CASSI,  fundamentado  nas  alíneas "a" e  "c"  do  permissivo  constitucional  , contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Estado de São Paulo assim  ementado:
+"Apelação. Plano de saúde. Ação de obrigação de fazer. Sentença de procedência. Inconformismo da ré. Descabimento. Autora portadora de esclerose múltipla. Necessidade de tratamento com o medicamento Mavenclad (cladribina). Expressa prescrição médica. Recusa embasada na cláusula contratual que exclui a cobertura. Cláusula abusiva. Incidência dos art. 421, 422, 423 e 424 do C. C. Súmula 102 do TJSP. Sentença mantida. Recurso não provido"  (fl. 248 e-STJ  ) .
+Em suas  razões,  a  recorrente  aponta a violação  dos  artigos  10, VI, 12, I, "c", II e "g", 16, VI, da Lei nº 9.656/1998 e 421 do Código Civil, além de divergência jurisprudencial.
+Assevera  inexistir obrigatoriedade de fornecer medicamento domiciliar não antineoplásico.
+Apresentada as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A  pretensão  recursal  merece  ser  acolhida.
+A  discussão  gira  em  torno  da  natureza  do  Rol  de  Procedimentos  e  Eventos  em  Saúde,  elaborado  periodicamente  pela  Agência  Nacional  de  Saúde  Suplementar  (ANS),  se  exemplificativo  ou  se taxativo.
+Na  origem,  trata-se  de  ação  ordinária  ajuizada  pela  recorrida  contra a  recorrente  objetivando  o  fornecimento  do  medicamento  Mavenclad (cladribina)  para  terapia  domiciliar,  a  fim  de  dar  continuidade  a  tratamento  de  doença que é portadora - esclerose múltipla .
+Importante registrar que a Segunda Seção desta Corte,  quando  do  julgamento  dos  EREsps  nºs  1.886.929/SP  e  1.889.704/SP  (Rel.  Ministro  Luis  Felipe  Salomão,  DJe  3/8/2022),  uniformizou  o  entendimento  de  ser  o  Rol  da  ANS,  em  regra,  taxativo,  podendo  ser  mitigado  quando  atendidos  determinados  critérios.
+Assim,  foram  adotados  os  seguintes  parâmetros  para  a  apreciação  de  casos  concretos:
+"1  -  o  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar  é,  em  regra,  taxativo;
+2  -  a  operadora  de  plano  ou  seguro  de  saúde  não  é  obrigada  a  arcar  com  tratamento  não  constante  do  Rol  da  ANS  se  existe,  para  a  cura  do  paciente,  outro  procedimento  eficaz,  efetivo  e  seguro  já  incorporado  ao  Rol;
+3  -  possível  a  contratação  de  cobertura  ampliada  ou  a  negociação  de  aditivo  contratual  para  a  cobertura  de  procedimento  extra  Rol;
+4  -  não  havendo  substituto  terapêutico  ou  esgotados  os  procedimentos  do  Rol  da  ANS,  pode  haver,  a  título  excepcional,  a  cobertura  do  tratamento  indicado  pelo  médico  ou  odontólogo  assistente,  desde  que  (i)  não  tenha  sido  indeferido  expressamente,  pela  ANS,  a  incorporação  do  procedimento  ao  Rol  da  Saúde  Suplementar;  (ii)  haja  comprovação  da  eficácia  do  tratamento  à  luz  da  medicina  baseada  em  evidências;  (iii)  haja  recomendações  de  órgãos  técnicos  de  renome  nacionais  (como  CONITEC  e  NATJUS)  e  estrangeiros  e  (iv)  seja  realizado,  quando  possível,  o  diálogo  interinstitucional  do  magistrado  com  entes  ou  pessoas  com  expertise  técnica  na  área  da  saúde,  incluída  a  Comissão  de  Atualização  do  Rol  de  Procedimentos  e  Eventos  em  Saúde  Suplementar,  sem  deslocamento  da  competência  do  julgamento  do  feito  para  a  Justiça  Federal,  ante  a  ilegitimidade  passiva  ad  causam  da  ANS."
+No  caso,  contudo,  não  há  elementos  incontroversos  no  acórdão  estadual  que  demonstrem,  nesta  instância  especial,  que  o  fornecimento  do  medicamento  indicado  está  enquadrado  nos  critérios  de  superação  da  taxatividade,  devendo  o  feito  retornar  ao  Tribunal  de  origem  para  que,  com  base  no  s  fatos  e  nas  provas  da  causa,  a  apelação  seja  julgada  conforme  os  parâmetros  elaborados  pela  Segunda  Seção.
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  para  determinar  o  retorno  dos  autos  à  Corte  de  origem  a  fim  de  que  julgue  a  apelação  conforme  os  critérios  estabelecidos  pela  Segunda  Seção  nos  EREsps  nºs  1.886.929/SP  e  1.889.704/SP.
+Publique-se.
+Intimem-se.
+EMENTA
