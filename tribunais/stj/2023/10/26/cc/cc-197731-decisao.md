@@ -1,0 +1,22 @@
+DECISÃO
+Vistos.
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 2A VARA DE MACEIÓ-SJ/AL EM FACE DO JUIZO FEDERAL DO JUIZADO ESPECIAL CÍVEL ADJUNTO À 13A VARA DE BRASÍLIA - SJ/DF nos autos de ação de restituição de indébito tributário.
+A demanda foi originariamente distribuída ao JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL ADJUNTO À 13ª VARA FEDERAL CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, ora suscitado, que declinou da competência, sustentando que as ações ajuizadas com o objetivo de repetir a contribuição ao PSS retida por ocasião do pagamento de RPV ou precatório devem tramitar perante o juízo do cumprimento da sentença.
+Remetidos os autos ao JUÍZO FEDERAL DA 2ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE ALAGOAS, ora suscitante, foi suscitado o presente Conflito de Competência, com base nos seguintes fundamentos (fl. 6e):
+Com as devidas vênias ao Juízo da 13ª Vara Federal da Seção Judiciária do Distrito Federal, os pedidos de repetição (restituição) de indébito de tributos (contribuições sociais para o PSS) recolhidos por ocasião do recebimento de valores pagos por força de ação judicial constituem matéria autônoma e sem qualquer vinculação com a questão objeto de julgamento e decisão no processo em que requisitado o pagamento dos créditos sobre os quais houve a retenção dos tributos no momento do recebimento.
+Além da inexistência de conexão entre a ação que tinha por objeto o pagamento de diferenças remuneratórias de servidor público e a presente ação (em que é postulada a repetição de tributo), mesmo que houvesse conexão, não seria caso de reunião, pois a ação anterior já foi processada, julgada e extinta em virtude do pagamento, não havendo qualquer risco de decisões conflitantes.
+Neste sentido, não há qualquer fato que justifique a competência deste juízo para conhecer de lide autônoma, proposta pela parte em um dos foros competentes, nos termos do art. 109 da Constituição Federal, podendo ser livremente apreciada pelo Juízo em que proposta a ação.
+O Ministério Público Federal manifestou-se pela competência do Juízo Suscitado (fls. 135/137e).
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+O art. 955, parágrafo único, I, do Código de Processo Civil autoriza o julgamento do conflito de competência por decisão monocrática quando a decisão fundar-se em tese firmada em Súmula do Supremo Tribunal Federal ou desta Corte.
+Nessa linha, cabe destacar o enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No caso, trata-se de Ação de Repetição de Indébito ajuizada em desfavor da União Federal, com o objetivo de repetir suposto indébito tributário de contribuição previdenciária que incidiu sobre verbas recebidas em face de sentença judicial proferida pelo Juízo suscitante.
+Como bem anotado pelo Parquet Federal, " ..  o caso não cuida de incidente na Execução de Sentença, a atrair a competência do Juízo suscitante, até porque a contribuição previdenciária decorrente daquele provimento judicial fora recolhida e tal execução já se encerrou, de sorte que eventual discussão acerca da incidência ou não de contribuição previdenciária sobre juros de mora não terá o condão de alterar o que restou decidido nos autos em que se formou a sentença executória" (fl. 135e).
+Com efeito, a rigor, trata-se de demanda autônoma de repetição de indébito ajuizada em desfavor da União, facultando-se, assim, à parte autora eleger o foro de ajuizamento da ação, dentre as previsões do art. 109, § 2º, da Constituição Federal, como efetivamente o fez.
+Nesse sentido: 1ª S. CC n. 197.654/AL, Rel. Min. Assusete Magalhães, Data da Publicação: 29.08.2023; 1ª S. CC n. 132.050/RJ, Rel. Min. Benedito Gonçalves, DJe de 19/03/2014.
+Posto isso, nos termos do art. 955, parágrafo único, I, do Código de Processo Civil, conheço do conflito para declarar competente o Juízo suscitado - JUÍZO FEDERAL DO JUIZADO ESPECIAL CÍVEL ADJUNTO À 13ª VARA FEDERAL CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL .
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se. Comunique-se.
+EMENTA
