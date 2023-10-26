@@ -1,0 +1,51 @@
+DECISÃO:
+
+    Vistos.
+
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, assim ementado:
+
+    “EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CRIME ELEITORAL. ART. 350 DO CE. CONDENAÇÃO NA ORIGEM. ACÓRDÃO REGIONAL MANTIDO. ACORDO DE NÃO PERSECUÇÃO PENAL. NEGADO O PEDIDO DE SOBRESTAMENTO DO FEITO. ACÓRDÃO EMBARGADO. AUSÊNCIA DOS VÍCIOS DESCRITOS NO ART. 275 DO CE. EMBARGOS REJEITADOS. 1. No acórdão embargado, esta Corte negou provimento ao agravo interno no agravo em recurso especial do ora embargante para manter o acórdão do TRE que o condenou pelo crime do art. 350 do CE. Na mesma assentada, foi negado o pedido formulado em petição avulsa pelo embargante, que pretendia a suspensão do presente feito com vistas à intimação do MPE para verificar a possibilidade de oportunizar proposta de acordo de não persecução penal.
+
+    2. Os embargos de declaração constituem modalidade recursal de integração e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante estabelece o art. 275 do CE, com redação dada pelo art. 1.067 do CPC.
+
+    3. Não se verificou a existência de nenhum dos vícios previstos no art. 275 do CE, cabendo frisar que o simples inconformismo da parte quanto à decisão que lhe foi desfavorável não enseja a oposição de embargos.
+
+    4. Os embargos de declaração não são a via adequada para análise de alegação de ofensa à CF.
+
+    5. Embargos de declaração rejeitados”. (edoc. 36)
+
+    Sustenta a recorrente violação do artigo 5º, inciso XL, da Constituição Federal.
+
+    Defende, em síntese, que o acordo de não persecução penal - ANPP seria cabível no caso ora em exame.
+
+    Decido.
+
+    O recurso merece ser provido.
+
+    A orientação jurisprudencial da Segunda Turma desta Suprema Corte, firmada em recentíssimo julgamento, reconheceu a aplicação retroativa do art. 28-A do Código de Processo Penal, na redação dada pela Lei nº 13.964/19, para as ações penais em curso até o trânsito em julgado . Vide:
+
+    “HABEAS CORPUS. PROCESSO PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. CRIME DE FURTO QUALIFICADO. SENTENÇA PROLATADA ANTES DA VIGÊNCIA DA LEI 13.964/2019. APLICAÇÃO DO ART. 28-A DO CPP. NORMA DE CONTEÚDO MISTO. RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA. ART. 5º, XL, CF. ORDEM CONCEDIDA. 1. A expressão “lei penal” contida no art. 5º, inciso XL, da Constituição Federal é de ser interpretada como gênero, de maneira a abranger tanto leis penais em sentido estrito quanto leis penais processuais que disciplinam o exercício da pretensão punitiva do Estado ou que interferem diretamente no status libertatis do indivíduo. 2. O art. 28-A do Código de Processo Penal, acrescido pela Lei 13.964/2019, é norma de conteúdo processual-penal ou híbrido, porque consiste em medida despenalizadora, que atinge a própria pretensão punitiva estatal. Conforme explicita a lei, o cumprimento integral do acordo importa extinção da punibilidade, sem caracterizar maus antecedentes ou reincidência . 3. Essa inovação legislativa, por ser norma penal de caráter mais favorável ao réu, nos termos do art. 5º, inciso XL, da Constituição Federal, deve ser aplicada de forma retroativa a atingir tanto investigações criminais quanto ações penais em curso até o trânsito em julgado. Precedentes do STF. 4. A incidência do art. 5º, inciso XL, da Constituição Federal, como norma constitucional de eficácia plena e aplicabilidade imediata, não está condicionada à atuação do legislador ordinário. 5. Ordem concedida para reconhecer a aplicação retroativa do art. 28-A do CPP e determinar a conversão da ação criminal em diligência, a fim de oportunizar ao Ministério Público a propositura de eventual Acordo de Não Persecução Penal.” (HC nº 220.249/SP, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 6/2/23).
+
+    No caso, conforme se vê dos autos, não houve o trânsito em julgado da sentença condenatória ainda, portanto, a princípio, viabiliza-se o oferecimento do ANPP mediante a aplicação retroativa da novel legislação.
+
+    Não desconheço que o HC nº 185.913/DF, de Relatoria do Ministro Gilmar Mendes, foi afetado ao julgamento do Plenário.
+
+    No entanto, há recentíssimos e reiterados julgados da Segunda Turma que entendem pela possibilidade de aplicação retroativa do ANPP, mesmo havendo sentença condenatória em grau de recurso. Confiram-se:
+
+    “TERCEIRO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSO PENAL E PROCESSUAL PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL - ANPP. POSSIBILIDADE DE APLICAÇÃO A PROCESSOS INICIADOS ANTES DA VIGÊNCIA DA LEI 13.964/2019 (DESDE QUE AINDA NÃO TRANSITADOS EM JULGADO E MESMO AUSENTE A CONFISSÃO DO RÉU). RECONSIDERAÇÃO DE DECISÃO ANTERIOR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A Lei 13.964/2019, cunhada de ‘Pacote Anticrime’ e em vigência desde 23/1/2020, introduziu mudanças na legislação processual, dentre elas a inclusão do art. 28-A no Código de Processo Penal – CPP, que trata do referido Acordo de Não Persecução Penal – ANPP. II – Trata-se de instrumento consensual híbrido, qualificado como negócio jurídico extrajudicial singular firmado entre o investigado, assistido por seu defensor, e o órgão do Ministério Público, no qual, cumpridas pelo acusado as condições estabelecidas no acordo, ficará esvaziada a pretensão estatal, por meio da decretação da extinção da punibilidade (art. 28-A, § 13º, do CPP). III - Com base no julgamento do HC 180.421/SP, no qual a Segunda Turma desta Suprema Corte reconheceu, em caso análogo, a retroação de norma processual penal mais benéfica em ações penais em curso até o trânsito em julgado, bem como na mais atual doutrina do processo penal, o Acordo de Não Persecução Penal é aplicável também aos processos iniciados antes da vigência da Lei 13.964/2019, desde que ainda não transitados em julgados e mesmo que ausente a confissão. IV - Reafirmação deste entendimento pela Segunda Turma do STF nos autos do HC 220.249/SP, de relatoria do Ministro Edson Fachin, no qual se concedeu a ordem, à unanimidade, “para reconhecer a retroatividade do art. 28-A do CPP e determinar a conversão da ação criminal em diligência, a fim de oportunizar ao Ministério Público a propositura de Acordo de Não Persecução Penal, caso preenchidos os requisitos”. V – Agravo regimental a que se nega provimento. (ARE nº 1.379.168-AgR-Terceiro/MG, Relator o Ministro Ricardo Lewandowski, DJe de 10/04/23).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICAR A DECISÃO AGRAVADA. ORDEM CONCEDIDA, DE OFÍCIO, PARA RECONHECER A RETROATIVIDADE DO ART. 28-A DO CPP E DETERMINAR A CONVERSÃO DA AÇÃO PENAL EM DILIGÊNCIA PARA OPORTUNIZAR AO MINISTÉRIO PÚBLICO EVENTUAL PROPOSITURA DE ACORDO DE NÃO PERSECUÇÃO PENAL. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O art. 28-A do Código de Processo Penal, acrescido pela Lei 13.964/2019, é norma de conteúdo processual-penal ou híbrido, porque consiste em medida despenalizadora, que atinge a própria pretensão punitiva estatal. Conforme explicita a lei, o cumprimento integral do acordo importa extinção da punibilidade, sem caracterizar maus antecedentes ou reincidência. Precedentes. 3. A Segunda Turma desta Suprema Corte firmou o entendimento no sentido de que o art. 28-A retroage às ações que estavam em curso quando a Lei n. 13.964/2019 entrou em vigor, ainda que recebida a denúncia ou prolatada a sentença penal condenatória. 4. No caso concreto, apesar de os fatos serem anteriores à alteração legislativa, o feito ainda aguardava a prolação da sentença condenatória quando a Lei 13.964/2019 entrou em vigor, de modo que é imperativa a concessão da ordem, a fim de reconhecer o efeito retroativo do art. 28-A do CPP e possibilitar ao Ministério Público a propositura do ANPP, se atendidos os requisitos legais. 5. Agravo regimental desprovido. (ARE nº 1.209.442-AgR/SP, Relator o Ministro Edson Fachin, DJe de 2/5/23).
+
+    Ainda nesse sentido, as seguintes decisões monocráticas: ARE nº 1.381.730/SC, Relator o Ministro André Mendonça, DJe de 8/5/23; ARE nº 1.404.942/SC, Relator o Ministro Edson Fachin, DJe de 3/2/23, v.g..
+
+    Diante dessas considerações, dou provimento ao recurso para reformar o acórdão recorrido.
+
+    Publique-se.
+
+    Brasília, 26 de outubro de 2023.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
