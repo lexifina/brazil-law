@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCIO PAULO FAGUNDES DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Execução n. 0019803-11.2021.8.26.0041).
+Depreende-se dos autos que o paciente encontra-se em cumprimento de pena no regime semiaberto.
+Pleiteado o livramento condicional, o pedido foi indeferido pelo Juízo das execuções.
+Daí o presente writ, no qual alega a defesa fazer jus o paciente ao livramento condicional, por haver preenchido os requisitos objetivos e subjetivos para tanto.
+Assere que o lapso temporal necessário para a concessão do benefício foi alcançado no dia 14/9/2022, porém o Juízo das execuções "de plano indeferiu o pleito  .. , justificando, de maneira rasa e ilegal, que os crimes cometidos pelo paciente são graves e que o TCP está previsto apenas para 13/05/2027, NÃO DESTACANDO QUALQUER CONDUTADA DASABONADORA DURANTE O CUMPRIMENTO DA PENA" (e-STJ fl. 5).
+Em relação ao mérito do apenado, destaca que "último exame criminológico, instruído por Parecer Técnico da Comissão Técnica de Avaliação do CDP II de Guarulhos-SP, encartado às fls. 1.059-1.071 dos autos originais, apontou diversas qualidades do apenado que não podem ser desprezadas. E, não há fatos novos que alterem as conclusões dos peritos, especialmente porque o  ..  apenado  já usufruiu de saídas temporárias com o devido retorno, fato indicativo que está comprometido com o processo de reinserção social e adaptado às regras mais brandas do sistema progressivo. E A LEI NÃO DISPÕE DE QUALQUER LAPSO NO REGIME INTERMEDIÁRIO PARA CONCESSÃO DE LIVRAMENTO CONDICIONAL" (e-STJ fl. 7).
+Requer, liminarmente e no mérito, a concessão do livramento condicional.
+É o relatório.
+Decido.
+Não há como conhecer do remédio constitucional.
+É que, consoante se extrai dos autos, o presente writ volta-se contra a decisão de primeiro grau que indeferiu o livramento condicional. Nessa toada, considerando-se que a irresignação nem sequer foi examinada pelo Tribunal a quo, fica obstada a análise da impetração por esta Corte Superior, sob pena de indevida supressão de instância.
+O art. 105, I, alínea c, da Constituição da República dispõe que compete a este Tribunal Superior processar e julgar habeas corpus quando o coator for tribunal sujeito à sua jurisdição, o que não ocorreu na espécie. Com efeito, não se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra ato praticado por juiz de primeiro grau.
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça, confiram-se:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO NO JULGADO. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. ABSOLUTA INCOMPETÊNCIA. NEGATIVA DE SEGUIMENTO. APLICAÇÃO DO ART. 34, XVIII, DO RISTJ.
+1. Não há no acórdão ambiguidade, contradição, obscuridade ou omissão, consoante disposto no art. 619 do Código de Processo Penal.
+2. De acordo com o art. 105, I, c, da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+3. Assim disciplina o art. 34, XVIII, do RISTJ: negar seguimento a pedido ou recurso manifestamente intempestivo, incabível, improcedente, contrário a súmula do Tribunal, ou quando for evidente a incompetência deste.
+4. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão por seus próprios fundamentos.
+5. Embargos de declaração rejeitados.
+(EDcl no HC 230.583/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/9/2014, DJe 1º/10/2014.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPUGNAÇÃO DE ATO DE JUIZ DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. ART. 105, I, "c", DA CONSTITUIÇÃO FEDERAL. INDEFERIMENTO LIMINAR. APLICAÇÃO DO ART. 210 DO REGIMENTO INTERNO DESTA CORTE.
+1. De acordo com o art. 105, I, "c , da Constituição Federal, compete a esta Corte julgar habeas corpus contra atos de Tribunais de Justiça e Tribunais Regionais Federais, o que não ocorre no caso em questão, em que se impugna ato de Juízo de primeiro grau.
+2. Disciplina o art. 210 do Regimento Interno desta Corte que, "quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente".
+3. Na ausência de argumento apto a afastar o posicionamento anteriormente firmado, mantenho a decisão agravada por seus próprios fundamentos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 189.383/PR, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 16/12/2010, DJe 01/02/2011.)
+PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DIREITO DE APELAR EM LIBERDADE. FALTA DE APRECIAÇÃO DO TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA CONSTITUCIONAL. NÃO CONHECIMENTO DA ORDEM.
+1) O artigo 105, I, c da Constituição Federal determina a competência do Superior Tribunal de Justiça para julgar habeas corpus contra atos de alguns órgãos, dentre os quais encontram-se os Tribunais de Justiça Estaduais mas não os juízes de direito.
+2) In casu, a matéria alegada não foi submetida ao Tribunal de Justiça do Estado de Origem, pelo que este Superior Tribunal de Justiça mostra-se incompetente para o julgamento do writ.
+3) Ordem não conhecida nos termos do artigo 34, XVIII e 210 do RISTJ.
+(HC 53.234/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/10/2006, DJ 30/10/2006.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
