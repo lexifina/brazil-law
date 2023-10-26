@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo de JONATHAN CARVALHO DANTAS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 1529809-24.2021.8.26.0228.
+Consta dos autos que o agravante foi condenado como incurso no artigo 33, § 4º, da Lei de Drogas, à pena de 3 (três) anos e 10 ( dez) meses e 20 (vinte) dias de reclusão, em regime inicial aberto, sendo que a pena privativa de liberdade foi substituída por duas restritivas de direitos (fl. 271).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 262). Sem ementa.
+Em sede de recurso especial (fls. 000/111), a defesa apontou violação ao art. 33, § 4º e 42, ambos da Lei n. 11.343/06, e 59 do CP, porque o acórdão combatido manteve a decisão de primeiro grau no tocante ao incremento da pena base em 1/6 (um sexto) em virtude da quantidade de droga apreendida, sendo que o montante não justifica a fixação da pena-base acima do mínimo legal (5,2 g de crack, 0,52 g de ectasy, 171,6 g de maconha, 34,8 g de cocaína e 10 ml de lança-perfume).
+Em seguida, a defesa sustentou que o acórdão recorrido manteve a decisão de primeiro grau no tocante à aplicação do artigo 33, § 4º, da Lei nº 11.343/06, com a redução mínima prevista no citado dispositivo, sem qualquer fundamentação, uma vez que a quantidade de droga apreendida não é excepcional.
+Requer a aplicação da pena-base no mínimo legal e da causa de diminuição do § 4º, em seu patamar máximo.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 280/289).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice da Súmula n. 182/STJ e; b) óbice da Súmula n. 7 do Superior Tribunal de Justiça - STJ (fls. 292/293).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 298/301).
+Contraminuta do Ministério Público (fls. 305/309).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo parcial provimento do recurso especial apenas para modular a fração referente ao tráfico privilegiado (fls. 323/326).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Com efeito, nos termos do aresto hostilizado, a quantidade, a variedade e a natureza da droga autorizam validamente, por força do art. 42 da Lei 11.343/2006 e do art. 59 do CP, o incremento da pena-base, e deve preponderar sobre as demais circunstâncias judiciais. No sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TESES DE ABSOLVIÇÃO QUANTO AO DELITO DE TRÁFICO E DE RECONHECIMENTO DO CRIME TENTADO EM RELAÇÃO À ASSOCIAÇÃO PARA O NARCOTRÁFICO. INOVAÇÃO RECURSAL. TENTATIVA DE AMPLIAÇÃO DA QUESTÃO VEICULADA NO RECURSO ESPECIAL. IMPOSSIBILIDADE DE ANÁLISE. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE DE DROGA TRANSPORTADA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. As teses relativas à absolvição do agente quanto ao crime de tráfico de drogas, diante da ausência de apreensão dos entorpecentes, bem como ao reconhecimento do crime de associação para o tráfico de drogas na modalidade tentada, constituem inovação recursal e clara tentativa e ampliação da questão veiculada no recurso, uma vez que não deduzidas na petição do recurso especial, o que impede sua análise no presente agravo regimental.
+2. O entendimento do TJ está em consonância com o posicionamento desta Corte Superior, segundo o qual não há ilegalidade na exasperação da pena-base acima do mínimo legal com fulcro no art. 42 da Lei n. 11.343/2006, uma vez que a quantidade e a natureza da droga constituem fundamento idôneo para exasperar a pena-base e deve preponderar sobre as demais circunstâncias judiciais, nos exatos termos do art. 42, da Lei n. 11.343/2006.
+3. O transporte de elevada quantidade de droga - 30kg de maconha -, constitui fundamento idôneo para a exasperação da pena-base, não se mostrando exacerbado o incremento da sanção em 3 meses.
+4. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.257.422/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2023, DJe de 20/10/2023.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE EXTENSÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INTERPOSIÇÃO CONCOMITANTE DE RECURSO PELO MINISTÉRIO PÚBLICO FEDERAL E ESTADUAL. POSSIBILIDADE. DOSIMETRIA DA PENA. QUANTIDADE DE DROGA. OPÇÃO POR FRAÇÃO DE INCREMENTO PUNITIVO PROPORCIONAL À GRAVIDADE DO DELITO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme posicionamento jurisprudencial consolidado nesta Corte Superior a interposição concomitante de recursos tanto pelo Ministério Público Federal quanto pelo Estadual não impede a análise da via de impugnação protocolada posteriormente, não ensejando preclusão nem violação ao princípio da unirrecorribilidade.
+2. O art. 42, da Lei n. 11.343/2006, dispõe que a quantidade e a natureza do material entorpecente apreendido, bem como a personalidade e a conduta social do agente são circunstâncias preponderantes no cálculo da pena a ser imposta pelo tráfico.- Na hipótese, o montante de droga apreendido, realmente, desborda em muito do ordinário do tipo, autorizando o incremento punitivo até mesmo em fração acima da prudencialmente recomendada, de 1/6 sobre o mínimo legal, para cada circunstância judicial negativada. Contudo, não está legitimada a fração empregada na origem, que é desproporcional.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no PExt no HC n. 843.076/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/9/2023, DJe de 26/9/2023.)
+Na hipótese, o montante de droga apreendido desborda do ordinário, notadamente diante da variedade, autorizando o incremento punitivo na fração recomendada, de 1/6 sobre o mínimo legal. Assim, não há ilegalidade a ser reconhecida no ponto.
+Sobre a redutora de pena do tráfico privilegiado, o TJ manteve a fração adotada pelo sentenciante, nos seguintes termos do voto do relator:
+"Na terceira fase, apesar do evidente e profundo envolvimento de JONATHAN com a nefasta atividade criminosa, o Magistrado condutor do processo, equivocadamente, concedeu-lhe o benefício previsto no artigo 33, parágrafo 4º, da Lei de Tóxicos, reduzindo o castigo de 1/3, o que fez com que totalizasse, em definitivo, 3 anos, 10 meses e 20 dias de reclusão, além do pagamento de 389 dias-multa, no mínimo legal.
+Assim, não é razoável a pretensão do defensor do réu, no sentido de que se faça redução ainda maior. " (fl. 1234)
+Ao que se nota, não há fundamento concreto para a aplicação de fração diversa da máxima na terceira fase da pena, mormente considerando a utilização da quantidade e diversidade de drogas na primeira fase, sob pena de bis in idem. No sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO APLICADA EM 1/6. QUANTIDADE DA DROGA. FUNDAMENTO IDÔNEO. REGIME SEMIABERTO ADEQUADO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Na hipótese, a Corte de origem manteve afastado o redutor do tráfico privilegiado, por entender que a quantidade do entorpecente (cerca de 1 kg de maconha) denota a habitualidade delitiva do paciente no comércio espúrio.
+3. Embora os vetores do art. 42 da Lei de Drogas, isoladamente, não sejam suficientes para a afastar a redutora do tráfico privilegiado, conforme posicionamento firmado pelo Supremo Tribunal Federal e mais recentemente por este Tribunal Superior, constituem elementos idôneos para modular a referida causa de diminuição, quando não valoradas na primeira etapa da dosimetria, sob pena de incorrer em bis in idem (HC n. 725.534/SP, Rel. Ministro Ribeiro Dantas, A Terceira Seção, julgado em 27/4/2022, DJe 1º/6/2022) 4. Desse modo, tratando-se de réu primário e não havendo outros elementos que denotem a sua habitualidade delitiva, impõe-se o reconhecimento do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/6, haja vista a quantidade do entorpecente apreendido , a teor do art. 42 da Lei n. 11.343/2006.
+5. Estabelecida a sanção em patamar superior a 4 anos e não excedente a 8 anos de reclusão, o modo semiaberto é o adequado para o início do cumprimento da pena reclusiva, nos termos do art. 33, § 2º, "b", do Código Penal.
+6. Agravo regimental não provido.
+(AgRg no HC n. 800.599/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+Assim, necessária a reforma do acórdão recorrido para a aplicação da redutora do tráfico privilegiado na fração de 2/3.
+Passo ao refazimento da dosimetria.
+Pena-base: 5 anos e 10 meses de reclusão, mais o pagamento de 583 dias-multa, no piso.
+Segunda fase: pena inalterada.
+Terceira fase: redução da pena em 2/3, totalizando 1 ano, 11 meses e 10 dias de reclusão, mais o pagamento de 388 dias-multa, no piso.
+Mantidas as demais determinações.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, dar-lhe parcial provimento para reduzir a pena do recorrente para 1 ano, 11 meses e 10 dias de reclusão, mais o pagamento de 388 dias-multa, no piso.
+Publique-se. Intimem-se.
+EMENTA
