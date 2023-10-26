@@ -1,0 +1,9 @@
+DECISÃO
+A defesa apresentou petição em que requer a correção de erro material no decisum de fls. 96-101, no qual concedi parcialmente a ordem a fim de: reconhecer a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor da paciente e aplicá-la no patamar de 1/6; readequar a reprimenda imposta à ré para 4 anos e 2 meses de reclusão, em regime fechado, mais 416 dias-multa.
+A requerente aponta erro material quanto ao regime de cumprimento de pena fixado, pois sustenta que as instâncias originárias estabeleceram o semiaberto.
+No ponto, assiste-lhe razão.
+Esclareço que, onde se lê, na decisão impugnada, "Assim, entendo que deve ser mantido o regime inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006" (fl. 101) deve-se ler "Assim, entendo que deve ser mantido o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006" .
+Ademais, no trecho assim transcrito "À vista do exposto, concedo parcialmente a ordem, a fim de reconhecer a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor da paciente e aplicá-la no patamar de 1/6; readequar a reprimenda imposta à ré para 4 anos e 2 meses de reclusão, em regime fechado, mais 416 dias-multa"(fl. 101), leia-se "À vista do exposto, concedo parcialmente a ordem, a fim de reconhecer a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor da paciente e aplicá-la no patamar de 1/6; readequar a reprimenda imposta à ré para 4 anos e 2 meses de reclusão, em regime semiaberto, mais 416 dias-multa".
+Ante o exposto, dou provimento ao pedido de retificação, tão somente para corrigir o apontado erro material, sem efeitos modificativos quanto ao mérito da decisão.
+Publique-se e intimem-se.
+EMENTA
