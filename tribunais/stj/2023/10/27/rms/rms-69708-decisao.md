@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, com pedido liminar, interposto por ARTUR CÉSAR DE SOUZA e JOÃO HENRIQUE TATIBANA DE SOUZA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ fls. 455/456):
+EMENTA - MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - IMPUGNAÇÃO ÀS NOTAS E CRITÉRIOS ATRIBUÍDOS PELA BANCA EXAMINADORA - TEMA 485, DO SUPREMO TRIBUNAL FEDERAL - IMPOSSIBILIDADE DE CONTROLE JUDICIAL DO CONTEÚDO DAS QUESTÕES E DOS CRITÉRIOS DE CORREÇÃO UTILIZADOS PELA BANCA EXAMINADORA - EXCEÇÃO PARA A PRESENÇA DE ILEGALIDADE OU DE INCONSTITUCIONALIDADE - HIPÓTESES NÃO VERIFICADAS - AUSÊNCIADE DIREITO LÍQUIDO E CERTO - SEGURANÇA DENEGADA.
+Em se tratando de revisão de resultado de provas aplicadas em concursos públicos, o Supremo Tribunal Federal, ao julgar o RE n.º 632.853/CE, em sede de repercussão geral do Tema 485, assentou o entendimento que, somente em caráter excepcional, compete ao Poder Judiciário a possibilidade de revisar o conteúdo de questão de concurso público os critérios de correção utilizados pela Banca Examinadora.
+A excepcionalidade surge quando houver flagrante dissonância entre o conteúdo das questões do concurso com o previsto no edital do certame.
+Proibição de o judiciário substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas, o que não é o caso dos autos.
+Não cabe ao Poder Judiciário, no exercício do controle jurisdicional de legalidade do concurso público, substituir a banca examinadora, em obediência ao princípio constitucional da separação de poderes, mormente se for para reexaminar critérios de correção de provas e de atribuição de notas.
+Segurança denegada.
+Os recorrentes alegam, em síntese: (a) falta de motivação do espelho de correção; (b) desconformidade do caderno de provas com as diretrizes contidas no edital; (c) ilegalidade praticada pelo acórdão proferido no recurso administrativo ao se basear em jurisprudência defasada e ultrapassada do Superior Tribunal de Justiça; (d) erro grosseiro teratológico da banca examinadora na correção de questão da prova.
+Argumentam que o entrelaçamento entre a resposta formulada pelo candidato e o conteúdo do espelho de correção pode ser avaliado pelo Poder Judiciário.
+Contrarrazões às e-STJ fls. 304/311.
+Indeferido o pedido de antecipação da tutela recursal.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso.
+Às e-STJ fls. 352/356, a Presidente da Comissão do V Concurso Público para Outorga e Delegação das Serventias Notariais e Registrais do Estado de Mato Grosso do Sul informa que "ARTUR CÉSAR DE SOUZA não compareceu para a realização da prova oral (..) sendo eliminado do certame".
+Intimado para se manifestar sobre a eventual perda superveniente do objeto do writ. (e-STJ fl. 380), ARTUR CÉSAR DE SOUZA permaneceu silente e-STJ fl. 386).
+Passo a decidir.
+Da análise dos autos, verifica-se que ARTUR CÉSAR DE SOUZA, apesar de se insurgir quanto à sua nota na prova escrita e prática do V Concurso Público para Outorga e Delegação das Serventias Notariais e Registrais do Estado de Mato Grosso do Sul, restou aprovado, razão pela qual estava habilitado para prosseguir nas demais fases do certame.
+Ocorre que, de acordo com o Ofício encaminhado pela Presidente da Comissão do V Concurso Público para Outorga e Delegação das Serventias Notariais e Registrais do Estado de Mato Grosso do Sul, o referido impetrante "não compareceu para a realização da prova oral (..) sendo eliminado do certame" (e-STJ fls. 352/356).
+Nesse contexto, é forçoso reconhecer que não mais subsiste o interesse de agir de ARTUR CÉSAR DE SOUZA, já que o eventual reconhecimento da ilegalidade do ato indicado como coator não mais teria utilidade.
+Consoante o entendimento desta Corte, "o interesse de agir é identificado pela análise do binômio necessidade-utilidade. Assim, a aludida condição da ação se faz presente quando a tutela jurisdicional se mostrar necessária à obtenção do bem da vida pretendido e o provimento postulado for efetivamente útil ao demandante, proporcionando-lhe melhora em sua situação jurídica" (REsp 1.584.614/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 7/11/2018).
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. VÍCIO PROCESSUAL SUPRIDO. FALTA DE INTERESSE DE AGIR (UTILIDADE) EM RELAÇÃO AO PROVIMENTO MANDAMENTAL. PERDA DE OBJETO.
+1. Insurge-se o impetrante, na via regimental, contra monocrática que extinguiu o writ com amparo no art. 10 da Lei 12.016/2009. Argumenta que a decisão proferida na MC 21.810/RS transitou em julgado sem que dela tivesse sido intimado, o que traduz flagrante cerceamento de defesa e vulneração dos princípios do devido processo legal, do contraditório e da ampla defesa.
+2. A falha processual apontada pelo recorrente - ausência de sua intimação - fora suprida por decisão do eminente Min. Sérgio Kukina, que determinou a retificação da autuação da MC 12.810/RS, o cancelamento da certidão de trânsito em julgado e a republicação da decisão, com a consequente reabertura do prazo recursal.
+3. Dessa forma, nenhuma utilidade há em conceder a segurança para determinar a anulação (ou a correção) de vícios já sanados no bojo da MC 21.810/RS, tendo o impetrante interposto Agravo Regimental naqueles autos, o que comprova a eficácia das providências saneadoras. Incidência, ademais, da máxima pas de nullité sans grief.
+4. A falta de utilidade prática do provimento jurisdicional buscado revela falta do interesse de agir, o que leva à consequente perda de objeto do writ. Precedentes: EDcl no RMS 36.596/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/12/2013; AgRg no RMS 30.000/PA, Rel. Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 2/10/2012; MS 11.877/DF, Rel. Ministro Haroldo Rodrigues (Desembargador Convocado do TJ/CE), Terceira SEÇÃO, DJe 1º/6/2011; REsp 834.431/PE, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 23/6/2009; RMS 24.305/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 24/3/2009.
+5. Agravo Regimental não provido. (AgRg no MS 20.626/RS, Relator Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 11/12/2014).
+Assim, forçoso reconhecer que houve a perda superveniente do objeto do mandado de segurança.
+Ante o exposto, JULGO PREJUDICADO o presente recurso em relação a ARTUR CÉSAR DE SOUZA, por perda do objeto, nos termos do art. 34, XI, do RISTJ.
+Intimem-se. Publique-se.
+Após, retornem os autos conclusos para a análise do recurso em relação ao recorrente remanescente.
+EMENTA
