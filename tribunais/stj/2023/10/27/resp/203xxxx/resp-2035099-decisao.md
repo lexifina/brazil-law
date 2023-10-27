@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA EXCELSIOR DE SEGUROS, fundamentado no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+"AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. SEGUROS DE MÚTUO HABITACIONAL NO SFH. AUSÊNCIA DE INTERESSE DA CAIXA ECONÔMICA FEDERAL. ENTENDIMENTO CONSOLIDADO PELO C. STJ. CONTRATOS ASSINADOS FORA DO PERÍODO DE 02.12.1988 A 29.12.2009. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. RECURSO IMPROVIDO.
+1. A Segunda Seção do E. Superior Tribunal de Justiça, no julgamento dos EDcl no REsp1.091.363-SC, consolidou o entendimento de para que seja possível o ingresso da Caixa Econômica Federal - CEF no processo, deve-se comprovar documentalmente, não apenas a existência de apólice pública, mas também do comprometimento do Fundo de Compensação de Variações Salariais - FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade de Apólice - FESA, colhendo-se o feito no estado em que se encontrar, sem anulação de nenhum ato processual anterior .
+2. Conforme se infere do julgado supratranscrito proferido em 2012, é necessário para a configuração do interesse da CEF que o contrato tenha sido celebrado entre 02.12.1988 e29.12.2009; que o instrumento esteja vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66), bem como a demonstração cabal do comprometimento do referido Fundo, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA..
+3. No caso dos autos, todos os contratos foram assinados fora do período referenciado, o que afasta o interesse da Caixa Econômica Federal em integrar o feito e impõe o reconhecimento da incompetência absoluta da Justiça Federal. Precedentes.
+4. Agravo interno a que se nega provimento" (fls. 291/292 e-STJ).
+Nas razões do recurso especial, o recorrente sustenta violação dos artigos 1º-A, da Lei nº 12.409/2011 e 3º pela Lei nº 13.000/2014.
+Aduz pelo interesse da Caixa Econômica Federal na demanda e a competência da Justiça Federal para apreciação do feito.
+Sem contrarrazões (certidão de fl. 327 e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece acolhida.
+Com efeito, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise de cláusula contratual e do conjunto fático-probatório carreado aos autos, o que se pode aferir da leitura dos fundamentos do julgado atacado, ora colacionados na parte que interessa:
+"(..)
+Conforme se infere do julgado supratranscrito, é necessário para a configuração do interesse da Caixa Econômica Federal que o contrato tenha sido celebrado entre ; que o instrumento 02.12.1988 e 29.12.2009 esteja vinculado ao Fundo de Compensação de Variações Salariais - FCVS (apólices públicas, ramo 66),bem como a demonstração cabal do comprometimento do FCVS, com risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice - FESA.
+No caso dos autos, todos os contratos foram assinados no ano de 1970, portanto, fora do período referenciado, o que afasta o interesse da Caixa Econômica Federal em integrar o feito e impõe o reconhecimento da incompetência absoluta da Justiça Federal" (fls. 231 e-STJ).
+Assim, rever a conclusão do tribunal local acerca do interesse da Caixa Econômica Federal demandaria o revolvimento de cláusula contrautal e do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto nas Súmulas nºs 5 e 7/STJ.
+A propósito:
+"CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO NO RECURSO ESPECIAL. AÇÃO VISANDO COBERTURA SECURITÁRIA POR DANOS ESTRUTURAIS EM IMÓVEIS ADQUIRIDOS PELO SISTEMA FINANCEIRO DA HABITAÇÃO. RECONHECIMENTO DO INTERESSE DA CEF EM RELAÇÃO A TRÊS DEMANDANTES, EM CONFORMIDADE COM A REPERCUSSÃO GERAL DISCUTIDA NO RE 827.966/PR (TEMA N.º 1.011 DO STF). ACÓRDÃO QUE, ENTRETANTO, NÃO VERIFICA INTERESSE DA CEF EM RELAÇÃO A UMA DAS DEMANDANTES. INSTRUMENTO CONTRATUAL QUE NÃO CONTA COM COBERTURA PELO FCVS. DESCONSTITUIÇÃO DE PREMISSAS QUE DEPENDE DE REEXAME DO MATERIAL DE COGNIÇÃO. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O § 1º do art. 1º- A da Lei n.º 13.000/2014 estabelece que a CEF intervirá, em face do interesse jurídico, nas ações judiciais que representem risco ou impacto jurídico ou econômico ao FCVS ou às suas subcontas, na forma definida pelo Conselho Curador do FCVS.
+2. Desde que a ratio essendi do Tema n.º 1.011 do STF objetiva a proteção dos recursos albergados pelo FCVS geridos atualmente pela CEF e repercutindo na competência da Justiça Federal, é imperioso convir que o reconhecimento pelo Tribunal a quo da ausência de reflexos em tal fundo no contrato sub judice afasta por completo o interesse de sua gestora (CEF) no presente caso.
+3. A indicação do interesse em intervir na causa pela CEF ou União, aludida pelo enunciado do Tema n.º 1.011 do STF, não prescinde ao menos da prova do risco de comprometimento do FCVS.
+4. Tendo o Tribunal Federal a quo, ao ensejo da análise das provas, referido à ausência da cobertura do contrato de financiamento pelo FCVS em relação ao mútuo de uma das partes autoras, derruir tal premissa a pretexto de manter também em relação a ela a competência da Justiça Federal requer o reexame de provas, inadmitido neste âmbito recursal. Súmulas n.ºs 5 e 7 do STF.
+5. Agravo interno não provido"
+(AgInt nos EDcl no AREsp n. 1.508.443/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023.)
+"SEGURO HABITACIONAL. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIOS CONSTRUTIVOS. AGRAVO INTERNO NO RECURSO ESPECIAL. INTERESSE. CAIXA ECONÔMICA FEDERAL. NÃO COMPROMETIMENTO DO FCVS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA N. 83/STJ. REVISÃO. SÚMULAS N. 5 E 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. MULTA (ART. 1.021, § 4º, DO CPC/2015) E MAJORAÇÃO DE HONORÁRIOS (ART. 85, § 11, DO CPC/2015). DESCABIMENTO. DECISÃO MANTIDA.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do STJ, ao julgar o recurso repetitivo REsp n. 1.091.363/SC, consolidou o entendimento de não existir interesse da Caixa Econô mica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado pelo Sistema Financeiro da Habitação, quando não afetar o FCVS. Súmula n. 83/STJ.
+2. A revisão da premissa na qual se apoia a conclusão do Tribunal a quo - de que "o contrato foi firmado anteriormente à vigência da Lei 7.682/88, e sem cobertura, portanto, pelo FCVS" (e-STJ fl. 958) - esbarra nas Súmulas n. 5 e 7 do STJ.
+3. A litigância de má-fé, passível de ensejar a condenação ao pagamento de multa e indenização, fica caracterizada por meio da apresentação de recursos manifestamente protelatórios. Precedentes.
+4. A parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório ensejador da sanção processual prevista no art. 1.021, § 4º, do CPC/2015.
+5. Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+6. Agravo interno a que se nega provimento"
+(AgInt no REsp n. 2.037.261/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023.)
+Ante o exposto, não conheço do recurso especial.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
