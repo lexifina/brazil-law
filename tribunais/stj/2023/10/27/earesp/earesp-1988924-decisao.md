@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Recurso Extraordinário interposto com fulcro no art. 102, III, "a", da CF/1988 contra acórdão do STJ assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC E SÚMULA N. 7/STJ. DESCABIMENTO DA VIA UNIFORMIZADORA. SÚMULA N. 315/STJ.
+1. É inviável o manejo de embargos de divergência para discutir o acerto ou o desacerto da aplicação do art. 1.022 do CPC ou de óbices ao conhecimento do recurso especial, na medida em que dependem da análise de circunstâncias processuais específicas dos autos e não contrapõem teses jurídicas abstratas.
+2. Ausente o enfrentamento do mérito da causa no recurso especial, aplica-se a conclusão extraída da Súmula n. 315/STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Agravo interno a que se nega provimento.
+A recorrente alega a existência de Repercussão Geral, bem como violação aos arts. 5º, XXXV, LIV e LV, da CF. Afirma que configura vulneração dos referidos dispositivos o o indeferimento de pedido de produção de prova pericial complementar quando o laudo pericial foi produzido por perito sem a qualificação técnica necessária e que não realizou perícia direta no sistema cujo devido funcionamento estava encarregado de aferir, mesmo sendo tal aferição plenamente viável.
+É o relatório.
+Decido.
+Nos casos como o presente, em que o mérito do Recurso Especial (e dos Embargos de Divergência) não chegou a ser apreciado, a discussão suscitada no Recurso Extraordinário, seja relativa ao mérito da causa, seja acerca do óbice processual que impediu o conhecimento do REsp, não é dotada de Repercussão Geral.
+Esse é o entendimento do STF, segundo o qual o não conhecimento do Recurso da competência de outro tribunal, como ocorreu neste caso, inviabiliza o exame do RE, qualquer que seja a alegada ofensa à Constituição Federal, consoante a tese fixada no Tema n. 181 da Repercussão Geral, que vale transcrever:
+A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral (RE n. 598.365-RG/MG).
+Portanto, eventual ofensa à Carta Magna, se existente, seria apenas indireta ou reflexa, entendendo o Excelso Pretório que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+O consolidado posicionamento do STJ sobre a questão se dá no mesmo sentido, havendo reiterado desprovimento dos Agravos que questionam decisões de aplicação do Tema 181/STF, como bem exemplifica o precedente a seguir:
+Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral. (AgInt no RE nos EDcl no AgInt no AREsp n. 1.342.377/SP, relatora Ministra Maria Thereza de Assis Moura, DJe de 13/9/2019)
+Assim, destituída de Repercussão Geral a questão relativa aos pressupostos de admissibilidade de recurso anterior, conforme entendimento do STF de observância obrigatória (CPC, art. 927, III, parte final), o Recurso Extraordinário não comporta seguimento.
+Ademais, a Suprema Corte entende que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa. Nessa linha, confira-se a redação do Tema 660 da Repercussão Geral:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009. (ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a alegada ofensa depende da análise da incidência dos dispositivos infraconstitucionais sobre as circunstâncias discutidas no acórdão recorrido, razão pela qual se enquadra no Tema 660 do STF.
+Ante o exposto, nos termos do art. 1.030, I, "a", do Código de Processo Civil, nego seguim ento ao Recurso Extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
