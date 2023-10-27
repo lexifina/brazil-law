@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão em que concedi a ordem em habeas corpus para reestabelecer a decisão de primeiro grau que havia concedido a detração do período de medida cautelar de recolhimento noturno.
+Sustenta o embargante que "a decisão contém obscuridade, pois permite a interpretação de que o período a ser detraído corresponde ao número de dias durante os quais o paciente esteve submetido à medida cautelar, e não ao resultado da conversão das horas de recolhimento em dias de detração, à razão de 24 horas por dia" (e-STJ, fl. 115).
+Requer o acolhimento dos presentes embargos, para extirpar a obscuridade da decisão embargada, mediante o esclarecimento de que "as horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena".
+É o relatório.
+Decido.
+Os embargos merecem acolhimento.
+Esta Corte já se manifestou que "são cabíveis embargos de declaração quando, no acórdão embargado, houver ambiguidade, obscuridade, contradição ou omissão, a teor do disposto no art. 619 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência." (EDcl no REsp 1.524.525/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018).
+No caso, segundo se verifica, a consideração trazida pelo embargante é correta.
+O período de recolhimento noturno, por comprometer o status libertatis do acusado, deve ser reconhecido como período detraído, em homenagem ao princípio da proporcionalidade e em apreço ao princípio do non bis in idem.
+A matéria foi objeto do Tema n. 1.155, firmado pela Terceira Seção em 23/11/2022, no julgamento do REsp n. 1.977.135/SC consoante o rito dos recursos repetitivos (relator Ministro Joel Ilan Paciornik, DJe de 28/11/2022), estabelecendo-se as seguintes teses:
+"1) O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+2) O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.
+3) As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada."
+Diante do exposto, acolho os embargos de declaração, para sanar a apontada contradição na decisão embargada, a fim de conceder a ordem de ofício, para reformar o acórdão impugnado e determinar que o Juízo das Execuções retifique os cálculos de liquidação da pena imposta ao paciente, contabilizando o período em que cumpriu a medida cautelar de recolhimento noturno para fins de detração penal, contudo, convertendo as horas de restrição da liberdade em dias, de forma a se encontrar o lapso para o efetivo desconto, observando-se a metodologia de cálculo explicitada no julgamento, pela Terceira Seção desta Corte, no REsp n. 1.977.135/SC.
+Publique-se. Intimem-se.
+EMENTA
