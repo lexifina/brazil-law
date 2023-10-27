@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAU UNIBANCO S.A contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 548):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS INICIAIS. RECURSO DA INSTITUIÇÃO FINANCEIRA (APELANTE 01). DANO MATERIAL DEMONSTRADO. FALHA NA PRESTAÇÃO DO SERVIÇO. AUSÊNCIA DE DEMONSTRAÇÃO DE CULPA EXCLUSIVA DO CONSUMIDOR QUANTO AO DEVER DE GUARDA E DE COMUNICAÇÃO IMEDIATA DA PERDA DO CARTÃO. UTILIZAÇÃO DE CARTÃO E SENHA PESSOAL. SISTEMA SUSCETÍVEL A FALHAS. SENTENÇA MANTIDA, COM MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, EM CONFORMIDADE COM O DISPOSTO NO ARTIGO 85, §11, DO CPC/15. ENUNCIADO DA SÚMULA Nº 479 DO STJ. RECURSO DO AUTOR (APELANTE 02). PESSOA JURÍDICA (EMPRESÁRIO INDIVIDUAL). ABALO À IMAGEM DA EMPRESA NÃO COMPROVADO. PESSOA FÍSICA. ATO ILÍCITO NÃO IMPUTADO AO BANCO, MAS A TERCEIRA PESSOA. AUSÊNCIA DE RESPONSABILIDADE. SENTENÇA MANTIDA. HONORÁRIOS ADVOCATÍCIOS MAJORADOS (ART. 85, §11, DO CPC/15). RECURSO DA INSTITUIÇÃO FINANCEIRA (APELANTE 01) CONHECIDO E DESPROVIDO. RECURSO DO CONSUMIDOR (APELANTE 02) CONHECIDO EDESPROVIDO.
+Embargos de declaração rejeitados (fls. 584-588).
+Nas razões do recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC sustentando que (fls. 600-603):
+Visando obter expresso posicionamento do Tribunal local quanto à questão relevante para o deslinde da lide, o recorrente opôs oportunamente embargos declaratórios, nos seguintes termos:
+ ..
+Em suma, dentre outros vícios, suscitou-se contradição e omissão (i) quanto à desídia do recorrido na guarda da senha, ante a rapidez nas transações efetuadas com o cartão;(ii) a demora na comunicação do extravio do plástico pelo consumidor; (iii) a segurança da tecnologia adotada pelo recorrente.
+ ..
+Como se depreende do trecho da decisão acima transcrito, a despeito da matéria veiculada nos embargos ser essencial para resolução da controvérsia, o Tribunal local insistiu nas contradições e omissões ventiladas, em clara violação ao art. 1.022, incisos I e II, do CPC.
+Com efeito, inobstante o entendimento de que a responsabilidade da instituição financeira deriva da suposta falha na segurança do serviço ofertado, é evidente a necessidade de aclaramento sobre o fato de que a comunicação da instituição acerca do furto não foi imediata, tendo ocorrido apenas no dia seguinte aos fatos, bem como sobre a tecnologia adotada no cartão sub judice. Isso porque, ao ser reconhecido que as compras impugnadas somente poderiam ser realizadas mediante a utilização do cartão e da senha pessoal do titular, viabiliza-se a adequada discussão acerca da excludente de responsabilidade prevista pelo Código de Defesa do Consumidor.
+Dessa forma, os manifestos vícios de contradição e omissão verificados no acórdão proferido pelo Tribunal de origem, merece correção por esse C. STJ, com a consequente remessa dos autos ao Tribunal local para, com fulcro no dispositivo supracitado, sanar a omissão apontada, mediante apreciação dos pontos abordados nos embargos declaratórios.
+No mais, alega afronta aos arts. 186, 188, I, e 927, do Código Civil CPC/2015, ao art. 14 do CDC e ao art. 1.025 do CPC, defendendo, em suma: i) o não cometimento de ato ilícito, uma vez que agiu no exercício regular de um direito; ii) a excludente de responsabilidade em razão de culpa exclusiva do titular do cartão; iii) o prequestionamento das matérias apontadas.
+Contrarrazões ao recurso especial às fls. 665-677.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 678-682), o que ensejou a interposição do presente agravo (fls. 685-695).
+Contraminuta do agravo às fls. 699-701.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+De início, inexiste a alegada ofensa ao art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se pode observar da leitura dos seguintes trechos (fls. 549-552):
+Na espécie, o autor (APELANTE 02) afirma que, em 22.01.2019, foi vítima de furto e, nesse mesmo dia, solicitou o bloqueio de seus cartões junto ao banco. Todavia, na mesma data, foi realizada compra que desconhece e debitada a quantia total de R$834,60, o que lhe causou danos materiais e morais(mov. 1.1).
+O fato está registrado no boletim de ocorrências juntado no mov. 1.9 (registrado no dia seguinte ao ocorrido) e, segundo a narrativa, o furto ocorreu aproximadamente às 21h do dia 22.01.2019.
+ ..
+O dever de comunicação imediata da ocorrência está previsto nas condições gerais da conta juntadas pela instituição financeira (mov. 74.3) e, de acordo com a documentação apresentada com a inicial (mov. 1), foi cumprido pelo autor na mesma data da ocorrência.
+Em que pese a alegação do banco de que a compras foram realizadas antes do furto, não há prova nesse sentido, especialmente em razão de que o registro do fato consta como aproximadamente às 21h (mov. 1.9) e as compras foram realizadas, como afirma a própria instituição financeira, após esse horário (mov. 74.7).
+Ainda, mesmo que a instituição financeira tenha afirmado que as transações foram feitas mediante cartão com utilização de senha (mov. 74 e 132), não há provas de que essa senha tenha sido fornecida pelo consumidor a terceiros, ou que ele tenha facilitado o acesso a esses dados.
+Nesse ponto, destaca-se que o parecer técnico apresentado foi produzido unilateralmente pelo banco e data de 2011, sendo referente à utilização do cartão em caixa eletrônico (mov.74.5), não se podendo presumir que, desde então, o sistema não possa ser corrompido por outros e novos tipos de fraude.
+Além disso, de acordo com o registro de ocorrência que consta no mov. 1.10, o débito foi realizado através da razão social "MERCADOPAGO. COM REPRESENTAÇÕES LTDA (..)" com endereço na cidade de Osasco, ou seja, os débitos foram realizados por meio da internet e fogem do padrão de consumo (comparando-se as saídas do extrato bancário de mov. 16.3).
+Assim como já reconhecido por esta Corte, o sistema de cartão com utilização de senha não é imune a fraudes, o que, somado ao risco da atividade exercida pelo banco, afasta a culpa exclusiva do consumidor, especialmente em movimentações realizadas por meio de canais eletrônicos, como no caso (conforme a negativa de ressarcimento juntada no mov. 1.11 e não impugnada pela instituição financeira).
+ ..
+Dessarte, não há como se reconhecer que a autora não tenha cumprido com seu dever de guarda e de comunicação imediata da perda do cartão, o que afasta a sua culpa exclusiva, aplicando-se, ao caso, o entendimento consolidado pelo STJ no enunciado da Súmula nº 479, segundo a qual "As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+Como consequência, o reconhecimento da falha na prestação do serviço por parte da instituição financeira deve ser mantido, incumbindo a ela o dever de indenizar o dano material demonstrado pelo consumidor.
+ ..
+Por todas essas razões, a insurgência da instituição financeira (APELANTE 01) não merece acolhida. (grifei)
+Confira-se também o seguinte excerto do acórdão dos embargos de declaração (fls. 585-587):
+Na espécie, a parte embargante afirma, em síntese, que a decisão é omissa e contraditória, pois considerou como cumprida, pela parte embargada, a obrigação de comunicação imediata da perda ou furto do cartão.
+Todavia, a decisão foi clara e expressa ao reconhecer que, "na mesma data" da ocorrência, o recorrido informou a instituição financeira, do que se conclui que "na mesma data" equivale à "imediatamente comunicado", não havendo contradição ou omissão entre as premissas e conclusões do julgado nesse ponto.
+Ainda, aponta omissão quanto à análise da prova das compras realizadas, bem como que o cartão, com chip, não possibilitaria sua compra sem senha, o que também foi abordado de maneira expressa na decisão, como se extrai do seguinte trecho (mov. 75.1):
+ ..
+Portanto, não há qualquer omissão ou contradição no julgado, revelando a insurgência da parte embargante mero inconformismo com o que restou fundamentadamente decidido.
+Como se vê, os vícios apontados dizem respeito ao entendimento defendido pela parte, mas não quanto à inadequação da decisão, o que, à evidência, não pode ser sanado pela via dos declaratórios. (grifei)
+Nessa esteira, ressalta-se que "não há que se falar em negativa de prestação jurisdicional quando o Tribunal de origem examina, de forma fundamentada, as questões a ele devolvidas, aplicando o direito que entende cabível à espécie" (REsp n. 2.048.957/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/4/2023, DJe de 20/4/2023).
+Quanto à apontada violação aos arts. 186, 188, I, e 927, do Código Civil CPC/2015, ao art. 14 do CDC e ao art. 1.025 do CPC, verifica-se que o acolhimento da pretensão recursal naturalmente demanda a revisão de premissas firmadas pela Corte de origem diante do contexto fático-probatório constante dos autos, hipótese vedada em razão da incidência da Súmula n. 7/STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA. DANOS CAUSADOS POR ATO DE TERCEIRO. USO DE CARTÃO DE CRÉDITO. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, acerca da ausência de culpa da instituição financeira, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ, não sendo o caso de revaloração de provas.
+2. Com efeito, a jurisprudência do STJ erigiu-se no sentido de que o titular do cartão de crédito é responsável pela sua guarda e manutenção do sigilo da respectiva senha de modo que a utilização indevida do cartão por terceiro, a quem foi entregue voluntariamente, ainda que não espontaneamente, porque o fora sob fraude praticada por terceiro, isenta o Banco de responsabilidade.
+3. Agravo interno improvido.
+(AgInt no REsp n. 1.948.050/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/5/2022, DJe de 18/5/2022.)
+No mais, destaca-se que "a incidência da Súmul a 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes." (AgInt no AREsp n. 2.141.401/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/5/2023, DJe de 10/5/2023.).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Por fim, com fundamento no art. 85, § 11, do CPC, majoro os honorários sucumbenciais a que condenada a parte recorrente na origem em R$ 300,00.
+Publique-se. Intimem-se.
+ EMENTA
