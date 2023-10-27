@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (artigo 105, III, "a", da Constituição Federal), contra decisão assim ementada:
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DEVEDORES SOLIDÁRIOS. DÍVIDA COMUM. CRITÉRIO ÚNICO PARA O CÁLCULO DA CORREÇÃO MONETÁRIA E DOS JUROS MORATÓRIOS. FIDELIDADE AO TÍTULO JUDICIAL. EXCESSO DE EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DECISÃO MANTIDA.
+I. Havendo condenação de devedores solidários ao pagamento da mesma dívida, não há fundamento para a utilização de critérios distintos quanto à correção monetária e aos juros moratórios, máxime ante a estipulação expressa no título judicial dos parâmetros para a sua incidência.
+II. Ante a unidade da prestação que é da essência da obrigação solidária, a teor do que prescrevem os artigos 264 e 275 do Código Civil, não há que se cogitar de critérios distintos para a sua apuração em relação a cada um dos devedores solidários.
+III. A preclusão máxima operada pela coisa julgada impede que se reabra, na etapa de cumprimento de sentença, discussão sobre matéria expressamente definida na sentença, a teor do que prescrevem os artigos 502, 503, 505 e 509, § 4º, do Código de Processo Civil.
+IV. Acolhida, total ou parcialmente, a impugnação ao cumprimento de sentença fundada em excesso de execução, o exequente deve ser condenado ao pagamento de honorários advocatícios entre 10% e 20% do proveito econômico obtido pelo executado, nos termos do artigo 85, § 2º, do Código de Processo Civil.
+V. Recurso conhecido e desprovido.
+Os Embargos de Declaração foram rejeitados às fls. 388-396, e-STJ.
+Nas razões de Recurso Especial, o agravante alega que houve violação aos arts. 489, § 1º, IV e V, 85, §§ 2º e 3º, e 1.022, II, do CPC/2015. Afirma que houve omissão pela Corte a quo, bem como que os honorários advocatícios foram fixados de forma desproporcional.
+Contrarrazões às fls. 425-430, e-STJ.
+O juízo de admissibilidade negativo (fls. 440-441, e-STJ) deu ensejo à interposição do presente Agravo (fls. 444-461, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4 de outubro de 2023.
+A agravante impugnou de forma específica todos os óbices que o Tribunal de origem apontou para justificar a inadmissibilidade do Apelo Nobre. Conheço, portanto, do Agravo para analisar diretamente o Recurso Especial.
+Na origem, trata-se de Agravo de Instrumento interposto por HB Engenharia Ltda contra a decisão proferida em Cumprimento de Sentença requerido em desfavor de Novacap Companhia Urbanizadora da Nova Capital e Distrito Federal. A parte sustenta que não há incorreção no valor cobrado e que foi observada a natureza jurídica da primeira Agravada (empresa pública). Afirma, também, que a condenação ao pagamento de honorários advocatícios é excessiva e em está em desacordo com o art. 85 do Código de Processo Civil.
+O TJDFT assim consignou (fls. 351, e-STJ):
+Os cálculos da Contadoria estão em conformidade com os parâmetros contidos no título judicial em que se apoia o cumprimento de sentença.
+(..)
+A condenação se restringiu, portanto, à "correção monetária, calculada pelo INPC, do valor global da proposta vencedora da data da sua apresentação até a assinatura do contrato".
+Apurado o débito na data da assinatura do contrato administrativo, a atualização monetária e a incidência de juros moratórias devem observar o disposto na Lei 9.494/1997, com as alterações decorrentes da Lei 11.960/2009, tendo em vista que, nessa parte, a sentença não foi alterada.
+Não há nenhum indicativo de que os cálculos da Contadoria de fls. 66/68 ID25557385 deixaram de observar esses referenciais previstos no título judicial.
+O que na verdade pretende a Agravante é estabelecer uma dissociação entre os Agravados quanto aos critérios para a apuração de juros moratórios e correção monetária, no pressuposto de que a primeira Agravada (NOVACAP) não goza dos mesmos benefícios que a legislação confere ao segundo Agravado (Distrito Federal).
+O equívoco, com a devida venia, é manifesto: a dívida é uma só, inclusive quanto aos parâmetros de atualização monetária e juros de mora, tal como estabelecidos na sentença, que nessa parte sequer foi objeto de recurso: "A correção e os juros se dará na forma da Lei nº 9.494/97 com as alterações implementadas pela Lei nº 11.960/2009".
+Os Agravados foram condenados ao pagamento da mesma dívida, de maneira que não há fundamento para a utilização de critérios distintos quanto à correção monetária e aos juros moratórios, máxime ante a estipulação expressa no título judicial dos parâmetros para a sua apuração.
+A preclusão máxima operada pela coisa julgada impede que se reabra, na etapa de cumprimento de sentença, discussão sobre matéria expressamente definida na sentença, a teor do que prescrevem os artigos 502, 503, 505 e 509, § 4º, do Código de Processo Civil.
+Vem de molde destacar que a unidade obrigacional é da natureza da obrigação solidária, a teor do que prescrevem os artigos 264 e 275 do Código Civil, dispositivos que têm a seguinte dicção:
+(..)
+Os honorários advocatícios foram arbitrados em consonância com a legislação processual.
+(..)
+Em se tratando de acolhimento parcial da impugnação ao cumprimento de sentença com fundamento em excesso de execução, os honorários advocatícios devem ser fixados entre 10% e 20% do proveito econômico obtido, ou seja, do excesso de execução reconhecido, consoante a inteligência do artigo 85, § 2º, do Estatuto Processual Civil:
+(..)
+De fato, como não se trata de sentença condenatória, os honorários advocatícios devem incidir sobre o excesso de execução reconhecido, cujo valor expressa o proveito econômico obtido com o acolhimento da impugnação ao cumprimento de sentença. Nesse sentido, decidiu este Tribunal de Justiça:
+(..)
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Colegiado originário julgou integralmente a lide e solucionou a controvérsia.
+O "julgador não precisa responder, um a um, todos os pontos apresentados. Não há necessidade, outrossim, de expressa menção a todos os dispositivos legais invocados pelas partes. Importa é que todas as questões relevantes sejam apreciadas" (REsp n. 844.778/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJ de 26/3/2007, p. 240, grifei.)
+A parte afirma que foi desproporcional a fixação dos honorários advocatícios, entre 10% e 20% do proveito econômico obtido, nos termos do art. 85, § 2º, do CPC/2015. Alega que, "considerando a baixíssima complexidade da causa", os honorários deveriam ser fixados em valor não superior a R$ 3.000,00 (fl. 415, e-STJ).
+Verifica-se, assim, que a empresa pede que os honorários advocatícios sejam fixados por equidade. Contudo, não houve a indicação do respectivo dispositivo legal apto a fundamentar o pleito do recorrente, no caso, o art. 85, § 8º, do CPC, o qual não foi indicado como violado.
+O REsp "não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (AgRg no AREs p 583.401/RJ, Rel. Min. Luís Felipe Salomão, Quarta Turma, DJe de 25/3/2015, grifei).
+A falta de indicação do artigo e incisos que teriam sido contrariados, quando ele contém desdobramentos em parágrafos, incisos ou alíneas, caracteriza defeito na fundamentação do Apelo.
+Esta via recursal exige a demonstração inequívoca da ofensa ao dispositivo mencionado em suas razões, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação particularizada dos dispositivos infraconstitucionais, tidos como violados, caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto na Súmula 284 do STF: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO ESPECIAL, ADEMAIS, QUANTO À TESE DE NULIDADE DO ACÓRDÃO RECORRIDO POR AUSÊNCIA DE FUNDAMENTAÇÃO, PORQUANTO ESSA TESE NÃO FOI SUSTENTADA À LUZ DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI COMPLEMENTAR 63/90. INCIDÊNCIA ANALÓGICA DO ÓBICE DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. No tocante à alegação genérica de violação à Lei Complementar 63/90, o Recurso Especial é inadmissível, por incidência analógica do óbice da Súmula 284 do STF, de vez que o Estado recorrente, apesar de transcrever o art. 3º, I e II, §§ 1º, 2º, 3º, 4º e 5º, da citada Lei Complementar, deixou de demonstrar como os comandos normativos contidos nesses incisos e parágrafos teriam o condão de infirmar as conclusões do acórdão recorrido. Nos termos da jurisprudência do STJ, "o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais para que esse escolha, a seu juízo, qual deles tenha sofrido violação. Compete à parte recorrente indicar de forma clara e precisa qual o dispositivo legal (artigo, parágrafo, inciso, alínea) que entende ter sofrido violação, sob pena de, não o fazendo, ver negado seguimento ao seu apelo extremo em virtude da incidência, por analogia, da Súmula 284/STF" (STJ, AgRg no AREsp 583.401/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 25/3/2015). Em igual sentido: STJ, AgRg no AREsp 218.128/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 15/02/2013; AgInt no AREsp 1.534.811/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 12/12/2019.9
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.021.814/MG, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 18/10/2021).
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, apenas em relação à alegação de violação ao art. 1.022 do CPC, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
