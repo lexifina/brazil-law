@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de petição na qual a parte requerente pugna pelo desbloqueio das RPVs n. 0001178-06.2019.4.01.9198.
+A parte requerente alega que a RPV bloqueada de forma equivocada refere-se ao processo n. 0000242-28.2005.4.01.4200que tramita perante a 1ª Vara da Seção Judiciária de Roraima.
+É o relatório. Decido.
+Na decisão liminar proferida na presente ação (fls. 1204-1211), foi expedida ordem expressa para:
+(..) suspender o levantamento ou pagamento de eventuais precatórios ou RPVs já expedidos, em quaisquer processos de execução decorrentes da decisão rescindenda (..)
+A decisão rescindenda, conforme relatado na decisão liminar, foi proferida nos autos do REsp nº 1.585.353/DF (2016/0041706-8) - este interposto nos autos 2007.34.00.000424-0 (número único 00004233320074013400) -, no qual se discutiu, exclusivamente, acerca da incorporação da GRATIFICAÇÃO DE ATIVIDADE TRIBUTÁRIA - GAT, ao vencimento básico dos Auditores da Receita Federal do Brasil ativos, aposentados e pensionistas.
+Desta forma, a decisão liminar atinge exclusivamente, repita-se, as partes exequentes relativas aos processos de execução, nos quais expedidos precatórios ou RPV, referentes ao processo originário n. 2007.34.00.000424-0 (número único 00004233320074013400) - decisão rescindenda proferida no REsp n. 1.585.353/DF (2016/0041706-8), que versa sobre a incorporação da GRATIFICAÇÃO DE ATIVIDADE TRIBUTÁRIA - GAT, oriunda do Tribunal Regional da 1ª Região, que esteja sendo executado em quaisquer dos Tribunais Regionais Federais do Pais.
+Compete aos Tribunais e Juízos de origem o cumprimento da decisão liminar nos exatos limites que fora exarada, devendo eventual equívoco no seu cumprimento ser corrigido na origem, não sendo o caso desta corte apreciar cada pedido no qual se alegue que o cumprimento da decisão não se ateve aos seus estritos termos.
+Compete, igualmente e primeiramente, aos Tribunais e Juízos de origem a apreciação de alegação das partes quanto à ocorrência de erro no correto cumprimento da decisão liminar, corrigindo eventuais equívocos no seu cumprimento e, em havendo dúvida, consultar a União quanto à correspondência na Gratificação de Atividade Tributária - GAT, manifestando e justificando seu eventual interesse na manutenção da constrição de forma fundamentada, a ser decidido pelo Juízo responsável pelo cumprimento da decisão exequenda.
+Ante o exposto, determino à Coordenadoria dos Feitos de Direito Público que remeta a petição ao Tribunal competente com cópia desta decisão e da decisão liminar ratificada pelo colegiado, às fls. 1.204-1.211.
+Publique-se. Intimem-se.
+EMENTA
