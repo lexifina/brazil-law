@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto pela UNIÃO FEDERAL contra a decisão de fls. 421-425.
+Naquela decisão, tendo como pano de fundo, o cumprimento de execução fiscal com pagamento de precatório, diversamente do pleito da União para que fosse realizada a compensação por meio de quitação de DARF com valor correspondente, não foi conhecido o recurso especial, em face da ocorrência de diversos óbices processuais.
+O agravante afirma em suma, que as súmulas apontadas não se aplicam ao caso dos autos e que o único argumento do acórdão recorrido, adequadamente impugnado, foi que a compensação do precatório por meio de DARF com débitos do Município de Recife perante a União violaria a decisão no REsp 1213082/PR, tema 484.
+Pugna pela reforma da decisão.
+É o relatório. Decido.
+Assiste razão ao recorrente quanto ao afastamento dos óbices processuais apontados na decisão agravada, devendo ser novamente examinado o recurso especial.
+O recurso especial foi interposto contra o acórdão assim ementado, in verbis:
+JUÍZO DE RETRATAÇÃO. TRIBUTÁRIO. COMPENSAÇÃO DE OFÍCIO. ADEQUAÇÃO AO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM SEDE DE RECURSO REPETITIVO.
+I - A Vice-Presidência do TRF-5ª Região determinou o retorno dos autos à 1ª Turma para realização, se for o caso, do Juízo de Retratação, em face do Acórdão que negou Provimento ao Agravo de Instrumento, em razão do Julgamento do Recurso Especial nº 1.213.082/PR (Tema 484). No Julgamento do Recurso Especial nº , sob a sistemática de Recurso 1.213.082/PR Repetitivo, Superior Tribunal de Justiça deliberou no sentido de que " Fora dos casos previstos no art. 151, do CTN, a compensação de ofício é ato vinculado da Fazenda Pública Federal a que deve se submeter o sujeito passivo, inclusive sendo lícitos os procedimentos de . concordância tácita e retenção previstos nos §§ 1º e 3º, do art. 6º, do Decreto n. 2.138/97"
+II - No caso, o Acórdão proferido pela Primeira Turma do Tribunal Regional Federal da 5ª Região, ao estabelecer a continuidade dos pagamentos de Precatório, adota orientação diversa da Corte Suprema, a ensejar o Juízo de Retratação, nos termos do artigo 1.030, II, do CPC/2015.
+III - Juízo de Retratação Exercido.
+Aponta ofensa aos arts. 489, §1º e 1022 do CPC/2015, alegando, em suma, que não foram analisados todos os pontos apresentados pelo recorrente.
+Adiante indicou ofensa ao arts. 30, caput, §§ 1º e 2º , art. 36, caput e§4º, I e II, da lei 12.431/2011 e art. 27 da Lei 9868/99.
+Sustenta, em síntese, que é possível a compensação de débitos / créditos da Fazenda Pública Federal com créditos / débitos provenientes de precatório, conforme a Lei 12431/2011.
+É o relatório. Decido.
+Assiste razão ao recorrente no que concerne à violação dos arts. 489 e 1022 do CPC, porquanto o Tribunal a quo, ao decidir os embargos de declaração não teceu qualquer consideração sobre a questão apresentada pelo recorrente, qual seja aludidio distinguishing, consistente na natureza da compensação entelada.
+Nesse contexto, diante da referida omissão, apresenta-se violado o referido dispositivo legal, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AMBIENTAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. PLATAFORMA DE PRODUÇÃO E ESCOAMENTO DE PETRÓLEO E GÁS NATURAL. RENOVAÇÃO DE LICENÇA. CONTROVÉRSIA ACERCA DA APLICABILIDADE DA RESOLUÇÃO 237/97 DO CONAMA. ALEGADAS OMISSÕES. OFENSA AO ART. 535 DO CPC/73 CARACTERIZADA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de ação anulatória, ajuizada por Petrobrás - Petróleo Brasileiro S/A contra o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, objetivando a declaração de nulidade do auto de infração 352363-D e da multa administrativa que lhe fora aplicada pela autarquia. O Tribunal de origem manteve a sentença de procedência da ação.
+III. Constata-se a omissão quando o Tribunal deixa de apreciar questões relevantes para o julgamento, suscitadas pelas partes ou examináveis de ofício, ou quando deixa de se pronunciar acerca de algum tópico da matéria submetida à sua cognição, em causa de sua competência originária ou obrigatoriamente sujeita ao duplo grau de jurisdição.
+IV. Nesse contexto, não tendo sido apreciadas, no acórdão dos Embargos Declaratórios opostos, em 2º Grau, pelo ora agravado, as alegações por ele expendidas sobre matéria relevante à solução da controvérsia, merece ser mantida a decisão agravada, que reconheceu a ofensa ao art. 535 do CPC/73, entendendo necessária a anulação do acórdão recorrido, determinando o retorno dos autos ao Tribunal de origem, para que profira nova decisão, com a análise das alegações da parte ora agravada.
+V. Agravo interno improvido.
+(AgInt no REsp 1537418/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/06/2020, DJe 10/06/2020)
+PROCESSUAL CIVIL. AUSÊNCIA DE ANÁLISE PELO TRIBUNAL DE ORIGEM. QUESTÕES RELEVANTES PARA A SOLUÇÃO DA LIDE. OFENSA AO ART. 1.022 DO CPC/2015 CONFIGURADA.
+1. No que tange à alegada violação do art. 1.022 do CPC, merece acolhida o apelo nobre.
+2. Compulsando-se os autos, verifica-se que foram opostos Embargos de Declaração para sanar omissão, e a Corte de origem, apesar de instada a se manifestar sobre o tema, manteve-se silente.
+3. Caracteriza-se ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem deixa de se pronunciar acerca de matéria veiculada pela parte e sobre a qual era imprescindível manifestação expressa.
+4. Agravo conhecido para dar parcial provimento ao Recurso Especial, quanto à violação do art. 1.022 do CPC/2015, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração em que se analisem as seguintes matérias apresentadas na petição dos aclaratórios: diante da constituição definitiva dos débitos em 8 de dezembro de 1997, por ocasião da ciência, pela recorrente, do respectivo Termo Complementar ao Auto de Infração e, considerando a existência de pagamento parcial de PIS, aplicável ao caso dos autos o artigo 150, § 4º, do CTN. Estão, consequentemente, decaídos os "fatos geradores" ocorridos entre janeiro de 1989 e novembro de 1992, não podendo, por isso, em qualquer hipótese subsistir a exigência fiscal ora combatida.
+(AREsp 1562331/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/11/2019, DJe 19/12/2019)
+Ante o exposto, Ante o exposto, com esteio no art. 259, § 6º, do RI/STJ, reconsidero a decisão agravada e, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
+EMENTA
