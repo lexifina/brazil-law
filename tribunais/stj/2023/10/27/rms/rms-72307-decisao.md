@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão assim ementado:
+MANDADO DE SEGURANÇA. LICENÇA REMUNERADA PARA REALIZAÇÃO DE CURSO DE PÓS-GRADUAÇÃO (DOUTORADO). INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE, PRÓPRIO À ATUAÇÃO DO EXECUTIVO, NOS MOLDES EM QUE PRECONIZA O ART. 62 DA LEI Nº 8.261/02, E ESTABELECEM OS DECRETOS Nº 8.569/2003 E 16.417/2015. SEGURANÇA DENEGADA.
+1. Mandado de Segurança contra ato supostamente ilegal consubstanciado no indeferimento do pedido de licença remunerada para submeter-se a curso de pós-graduação (Ensino de Ciências e Matemática), em nível de Doutorado, pela Universidade Estadual do Sudoeste da Bahia (UESB).
+2. Inexistência de direito líquido e certo por ausência de regulamentação que determine a concessão da benesse mediante o preenchimento objetivo dos requisitos estabelecidos.
+3. Não se vislumbra justa causa para elidir o indeferimento administrativo porquanto pautado na conveniência e oportunidade da Administração Pública, sendo certo que, in casu, deve prevalecer o interesse público.
+4. O art. 62 da Lei Estadual nº 8.261/2002, que dispõe sobre o Estatuto do Magistério Público do Ensino Fundamental e Médio do Estado da Bahia e dá outras providências, atribui ao Poder Público discricionariedade para decidir sobre a licença remunerada aos docentes e demais servidores, para a realização de cursos de pós- graduação, mestrado ou doutorado.
+5. Precedente do STJ sobre a legalidade do indeferimento do pedido de licença remunerada formulado por servidor público, tendo em vista a necessidade de se observar os critérios de conveniência e oportunidade da Administração Pública.
+6. A função da impetrante, de professor, de forma incontroversa, indica a necessidade de sua substituição para o caso de eventual afastamento, situação que respalda a legalidade do fundamento do ato dito coator. Este entendimento foi majoritário no recente julgado que se extrai do bojo do Mandado de Segurança nº 8014854- 76.2022.8.05.0000, nesta Corte, com ementa publicada em 13/03/2023.
+7. O deferimento judicial de afastamentos remunerados ao arrepio do interesse da Administração Pública não estabelece, por certo, controle de quantidade de profissionais liberados, nem dos estabelecimentos de ensino e quiçá dos períodos, em total desalinho com a necessidade de gestão do ensino no Estado.
+8. Imperiosa necessidade de governança que faculta a negativa de concessão do benefício, mesmo que preenchido os demais requisitos legais, tendo em vista que se trata de ato discricionário, sem que se possa falar em preterição de qualquer natureza.
+9. Segurança denegada.
+A parte recorrente alega que tem direito fundamental à edução e à qualificação como professora, nos termos dos arts. 6º, caput, 23, V, 205, 206, V, da CF e 67, II, da Lei 9.394/1996. Defende que há incoerência entre a justificativa da recorrida e a realidade dos fatos. Afirma:
+Repise-se: como pode a Autoridade Recorrida alegar que não pode conceder o afastamento em tela, sob o argumento de contenção de despesas, se anuncia novas contratações, via concurso público, além daquelas via REDA
+Foge, no mínimo, a razoabilidade.
+Neste sentido, se existem profissionais que podem substituir a Recorrente durante o período de sua capacitação remunerada, cai por terra a argumentação de falta de recursos, haja vista a contratação de milhares de professores em regime temporário e também efetivo, inclusive na cidade de domicílio da Recorrente, Vitória da Conquista/BA, e na sua disciplina, Biologia, não tendo o Estado da Bahia qualquer nova despesa.
+O Ministério Público emitiu parecer assim ementado:
+Recurso ordinário em mandado de segurança. Licença remunerada para cursar doutorado. A licença postulada pela impetrante condiciona-se ao interesse da administração, conforme lei local: ordem corretamente denegada, em harmonia com precedentes do STJ. Parecer pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+Com efeito, cotejando os atos normativos que regulamentam a matéria, não identifiquei qualquer regulamentação que determine a concessão da benesse mediante o preenchimento objetivo dos requisitos estabelecidos. Pelo contrário, não se vislumbra justa causa para elidir o indeferimento administrativo porquanto pautado na conveniência e oportunidade da Administração Pública, sendo certo que, in casu, deve prevalecer o interesse público.
+Passo então a examinar detidamente as normas relacionadas a hipótese em testilha.
+O Decreto nº 16.417/2015, que estabelece medidas para a gestão das despesas e controle dos gastos de custeio e de pessoal, no âmbito do Poder Executivo Estadual da Bahia, com base no qual foi indeferido o pedido objeto desta ação mandamental, suspendeu a concessão de afastamento de servidores públicos para realização de cursos de aperfeiçoamento ou outros que demandem substituição, no seu art. 7º, inciso IX:
+"Art. 7º Os órgãos e entidades do Poder Executivo Estadual deverão observar e cumprir as seguintes ações estabelecidas para a gestão da despesa e controle do gasto de pessoal:
+  IX. suspender a concessão de afastamentos de servidores públicos para realização de cursos de aperfeiçoamento ou outros que demandem substituição, salvo os já concedidos até a data de publicação deste Decreto".
+O art. 62 da Lei Estadual nº 8.261/2002, que dispõe sobre o Estatuto do Magistério Público do Ensino Fundamental e Médio do Estado da Bahia e dá outras providências, atribui ao Poder Público discricionariedade para decidir sobre a licença remunerada aos docentes e demais servidores, para a realização de cursos de pós-graduação, mestrado ou doutorado. Vejamos:
+"Art. 62 - O docente e demais servidores que exerçam atividade de suporte pedagógico direto à docência devidamente matriculados em cursos de pós-graduação a nível de especialização, mestrado ou doutorado, que tenham correlação com a sua formação profissional e com as atribuições definidas para o cargo que ocupa, poderão ser liberados das atividades educacionais ou técnicas, parcial ou totalmente, sem prejuízo das vantagens do cargo e de acordo com o interesse da Administração." (grifei).
+(..)
+Desta maneira, não restou demostrada qualquer ilegalidade no ato administrativo questionado, não procedendo o argumento da impetrante de que foi arbitrária a justificativa da administração pública que negou o pedido em destaque com base no artigo 8º do Decreto 16.417/2015, o qual estabelece a proibição da concessão de licenças de afastamento de servidores para tratar de interesse particular que gerem a necessidade de substituição e demandem ônus financeiro para o Estado.
+A função da impetrante, de professor, de forma incontroversa, indica a necessidade de sua substituição para o caso de eventual afastamento, situação que respalda a legalidade do fundamento do ato dito coator.
+(..)
+Contrapondo-se aos argumentos da impetrante, tem-se que por força do princípio da supremacia do interesse público, a Administração é dotada de liberdade, desde que observada a legalidade para adoção das medidas que se lhe afigurem mais coerentes, oportunas e convenientes no caso em concreto.
+O Poder Judiciário, por sua vez, não deve se imiscuir na gestão de outros órgãos da administração, salvo, à evidência, quando houver violação a preceito legal, o que não é o caso, ainda mais quando se tratar da área de educação, pois sendo a quantidade de profissionais deste setor deficitária, o afastamento de servidores por força de sucessivas decisões judiciais certamente prejudicará a prestação de tão relevante serviço público.
+A irresignação não prospera, porque o aresto vergastado decidiu em conformidade com a jurisprudência do STJ, segundo a qual a concessão de licença remunerada para realização de mestrado é ato discricionário, sujeito a juízo do Administrador Público, acerca da conveniência e oportunidade, de acordo com o interesse público. Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. AFASTAMENTO REMUNERADO PARA ESTUDOS. INDEFERIMENTO. DISCRICIONARIEDADE ADMINISTRATIVA. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A concessão de licença para capacitação de servidores públicos constitui-se em ato discricionário, sujeito a juízo do Administrador Público, acerca da conveniência e oportunidade, de acordo com o interesse público, não sendo obrigatório o seu acolhimento mesmo que preenchidos os demais requisitos legais à concessão. Precedentes.
+3. A Portaria n. 234/2016 não padece de qualquer ilegalidade, eis que apenas exerceu o poder regulamentar previsto no artigo 12, § 3º, da Lei Distrital n. 5.105/2013 que, ao promover a reestruturação da carreira Magistério Público do Distrito Federal, estabeleceu a competência do titular do órgão da administração pública em definir os critérios para a participação em programas de pós-graduação stricto sensu.
+4. De todo modo, visualiza-se, na espécie, a perda superveniente do interesse de agir pois, objetivando o afastamento remunerado, no período de 2/2/2017 a 30/12/2018, para participar do curso de mestrado em Música oferecido pela Universidade Federal do Rio Grande do Norte e, encerrado o curso pretendido, revela-se fática e juridicamente impossível, nesse contexto, o atendimento do pedido formulado na inicial.
+5. Agravo interno não provido.
+(AgInt nos EDcl no RMS n. 60.754/DF, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. LICENÇA REMUNERADA PARA MESTRADO. INDEFERIMENTO. POSSIBILIDADE. ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual é lícito à Administração examinar o pedido de licença para capacitação profissional de acordo com o interesse público, podendo ser negado mesmo que preenchido os demais requisitos legais, porquanto se trata de ato discricionário.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no RMS n. 61.469/TO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 23/3/2020, DJe de 26/3/2020.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. OFICIAL DA POLÍCIA MILITAR. LICENÇA REMUNERADA. CURSO DE MESTRADO. INDEFERIMENTO. ATO DISCRICIONÁRIO. ISONOMIA.
+I  O indeferimento do pedido de licença remunerada formulado por servidor militar, valendo-se a autoridade, dentro de sua esfera de atribuições, de seu juízo de conveniência e oportunidade, e observando o interesse do serviço público, não se considera como ilegal. Precedentes.
+II  Por outro lado, não há como se reconhecer violado o princípio da isonomia, uma vez que as situações confrontadas pela recorrente não são idênticas.
+Recurso a que se nega provimento.
+(RMS n. 11.154/PE, relator Ministro Felix Fischer, Quinta Turma, julgado em 10/4/2001, DJ de 4/6/2001, p. 192.)
+SUSPENSÃO DE SEGURANÇA. LICENÇA CAPACITAÇÃO. LESÃO À ORDEM ADMINISTRATIVA CARACTERIZADA. A licença, sem prejuízo da remuneração, para que o servidor transfira o domicílio para frequentar curso de pós-graduação é ato discricionário da Administração Pública, sujeito aos interesses e conveniências desta.
+O mestrado constitui exigência da atividade de docência universitária, não sendo condição para o exercício do cargo público, para o qual a interessada já se habilitou por via de concurso.
+Agravo regimental não provido.
+(AgRg na SS n. 2.413/DF, relator Ministro Ari Pargendler, Corte Especial, julgado em 16/3/2011, DJe de 28/9/2011.)
+Observo, ademais, que a tese de incoerência entre a justificativa da recorrida e a realidade dos fatos quanto à insuficiência de recursos para concessão da licença remunerada deve ser rechaçada. Veja-se trecho do parecer do Ministério Público Federal de fls. 1.651-1.656:
+A título de prova de suas deduções, a recorrente juntou edital de concurso e demonstrativo orçamentário do estado para 2023. Mas o edital e a lei orçamentária estadual não comprovam a possibilidade de substituição da servidora, nem a necessidade de suspensão das concessões de licença remunerada como forma de contenção de despesas com pessoal, prevista na regulação estadual.
+(..)
+Assim, ausente justificadamente o interesse da administração no afastamento da impetrante, com ônus para o Estado, correta a denegação da ordem.
+(..)
+O ônus da prova do mandado de segurança é constitucional- mente atribuído ao impetrante, de modo que nem a lei ordinária nem, muito menos, sua interpretação pode inverter tal diretiva.
+Portanto, correta a denegação da segurança.
+Ante o exposto, nego provimento ao Recurso em Mandado de Segurança.
+Publique-se.
+Intimem-se.
+EMENTA
