@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988, interposto contra acórdão assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE INTERESSE DE AGIR. TEMPO DE SERVIÇO RURAL ANTERIOR À LEI Nº 8.213. REGIME DE ECONOMIA FAMILIAR. INÍCIO DE PROVA MATERIAL. PRINCÍPIO DA FUNGIBILIDADE. REAFIRMAÇÃO DA DATA DE ENTRADA DO REQUERIMENTO. APOSENTADORIA POR IDADE HÍBRIDA. CÔMPUTO DO TEMPO DE ATIVIDADE RURAL PARA EFEITO DE CARÊNCIA.
+1. Não há interesse processual quanto ao reconhecimento do tempo de atividade rural já considerado administrativamente.
+2. O tempo de serviço do segurado trabalhador rural, anterior à data de vigência da Lei nº 8.213, será computado independentemente do recolhimento das contribuições, exceto para efeito de carência.
+3. Para a comprovação do tempo de atividade rural, é legalmente indispensável a existência de início de prova material, não se admitindo prova exclusivamente testemunhal.
+4. Não é necessário que o início de prova material mantenha relação a fatos de todo o período requerido, mas que exista o lastro probatório mínimo exigido pela legislação previdenciária.
+5. Havendo o efetivo trabalho na atividade rural, o tempo de serviço pode ser computado, mesmo que anterior aos doze anos de idade, visto que as normas regulatórias da matéria foram editadas para proteger o menor, não podendo ser aplicadas para o fim de prejudicá-lo ou privá-lo de direito.
+6. Mostra-se possível o reconhecimento de tempo de serviço rural anterior ao documento mais antigo, desde que amparado por convincente prova testemunhal, colhida sob contraditório. (Tema 638 do Superior Tribunal de Justiça).
+7. Pode ser concedido benefício previdenciário diverso do que foi requerido na inicial, desde que o segurado preencha os requisitos exigidos pela legislação, observado o princípio da fungibilidade.
+8. A reafirmação da data de entrada do requerimento administrativo (DER), antes inclusive admitida pela administração previdenciária (IN 77/2015), tem lugar também no processo judicial, uma vez verificado o preenchimento dos requisitos para a concessão do benefício, de ofício ou mediante petição da parte.
+9. A concessão do benefício de aposentadoria por idade híbrida, prevista no artigo 48, §3º, da Lei 8.213, exige a implementação da mesma idade mínima exigida para a aposentadoria por idade urbana e da carência, para a qual se somam os meses em que foi exercida a atividade rural e o número de contribuições recolhidas durante regime de natureza distinta.
+10. O tempo de serviço rural, ainda que remoto e descontínuo, anterior à vigência da Lei 8.213, pode ser computado para o  m de carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições (art. 48, §3º), seja qual for a predominância do labor misto exercido no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo (Tema 1.007 do Superior Tribunal de Justiça).
+Os Embargos de Declaração foram acolhidos "tão somente para o fim de integração dos fundamentos, particularmente no que diz respeito ao Tema 995 do Superior Tribunal de Justiça e ao Tema 350 do Supremo Tribunal Federal" (fl. 289, e-STJ).
+O INSS aponta violação dos arts. 17, 141, 329, I e II, 492, 927 e 1.022, I e II, do CPC. Em preliminar, sustenta que houve negativa de prestação jurisdicional, pois "o acórdão regional foi omisso, nos termos do artigo 1.022, parágrafo único, inciso I, do CPC ao deixar de se manifestar expressamente sobre o desrespeito ao julgamento proferido no REsp Repetitivo nº 1.727.063 - SP (Tema 995 do STJ), no RE 631.240/MG (Tema 350 do STF) e sobre as normas que determinam aos tribunais observarem os acórdãos em julgamento de recursos repetitivos e com repercussão geral (artigo 927, inciso III , do CPC)" (fl. 300, e-STJ).
+O recorrente afirma que "não era objeto de lide a concessão de aposentadoria híbrida por idade mas de aposentadoria rural por idade, não havendo que se falar em fungibilidade do pedido, por se tratar de benefícios com requisitos distintos" e que "a reafirmação da DER efetuada pelo acórdão recorrido alterou o pedido e a causa de pedir, sem consentimento do réu, após a citação, o que constitui flagrante violação dos dispositivos legais supramencionados" (fl. 302, e-STJ).
+A parte aduz ainda (fl. 303, e-STJ):
+(..), os requisitos para a concessão de aposentadoria híbrida por idade somente foram preenchidos muito tempo após o requerimento administrativo de aposentadoria rural por idade, sendo imprescindível o prévio requerimento administrativo para sua concessão.
+Nessa linha, o CPC claramente prevê o interesse processual como uma das condições da ação, consoante dispõe o artigo 17.
+Sem contrarrazões.
+Instado a se manifestar, o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Rogério de Paiva Navarro, opinou pelo não conhecimento do Agravo.
+Eis a ementa do parecer Ministerial:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL OBSTADO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS EMPREGADOS NA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE CONTIDO NA SÚMULA Nº 182/STJ. PARECER PELO NÃO CONHECIMENTO DO AGRAVO.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10 de outubro de 2023.
+A Vice Presidência do TRF da 4ª Região negou seguimento ao Recurso Especial devido à ausência de afronta ao art. 1.022 do CPC/2015 e à incidência da Súmula 83/STJ, com precedentes desta Corte colacionados ao decisum , bem como porque "o prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 631.240/MG (Tema 350). Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento" (fl. 311, e-STJ).
+Do exame do Agravo, todavia, verifica-se que a defesa refuta tão somente, e de maneira genérica, a incidência da Súmula 83 do STJ.
+O Superior Tribunal de Justiça perfilha a orientação de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena do seu não conhecimento por aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou tal diretriz no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018.
+Ressalte-se que, quando o Recurso Especial é inadmitido com base na Súmula 83/STJ, o efetivo combate a essa decisão exige a indicação de precedentes contemporâneos ou posteriores aos nela mencionados, com a demonstração, por adequado confronto analítico, de que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo - o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ.
+Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP).
+2. Como o apelo nobre foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial nesta Corte não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgRg no REsp 1.254.077/SP (Rel. Ministro Humberto Martins, Segunda Turma, DJe 11/11/2011).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.579.338/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 1º/7/2020)
+Por fim, esclareço que a impugnação tardia (somente por ocasião do manejo de Agravo Interno) dos argumentos que motivaram a inadmissão do Recurso Especial, além de caracterizar imprópria inovação recursal, não tem a propriedade de afastar a aplicação do referido verbete da Súmula 182/STJ, haja vista a ocorrência de preclusão consumativa.
+aAnte o exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
