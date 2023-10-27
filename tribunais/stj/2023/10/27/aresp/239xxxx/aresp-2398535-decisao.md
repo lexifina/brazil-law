@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de Agravos de decisão da Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que inadmitiu os Recursos Especiais (art. 105, III, "a", da CF/1988) interpostos contra acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO MARÍTIMO. AÇÃO INDENIZATÓRIA C/C ANULATÓRIA DE ATO ADMINISTRATIVO. RESCISÃO UNILATERAL DO CONTRATO.
+Preliminar de não conhecimento do recurso. Rejeição. Adequada observância do princípio da dialeticidade. Aplicação correta do instituto da supressio. Não renovação contratual das embarcações "Viking Thaumas" e "Viking Surf" se deu exclusivamente em razão de uma limitação de contratação indevida aplicada à Apelada. Necessidade de observância dos limites contratuais da responsabilidade das partes, devendo prevalecer o princípio da autonomia privada que rege os contratos, notadamente quando observa o princípio da boa-fé. Provimento parcial do recurso tão apenas para que seja respeitada a limitação da condenação no patamar previsto no contrato. Majoração de honorários em razão de acolhimento mínimo da pretensão recursal.
+Os recorrentes alegam violação dos arts. 492, 927 e 1.022, III, do CPC, aos arts. 113, 114, 422, 423, 424, 473, 475, 944 e 947 do CC e ao art. 61 da Lei 9.478/1997. Discutem sobre a licitude e as consequências jurídicas da rescisão do contrato de afretamento e prestação de serviços entabulado pelas partes.
+Contrarrazões juntadas.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 2.10.2023.
+Houve redistribuição dos autos para a 1º Seção com fulcro no art. 9º, § 1º, XIV, do RI/STJ.
+Mediante a petição às fls. 3.914-3.917, e-STJ, a empresa requer sejam os autos novamente redistribuídos à Segunda Seção desta Corte Superior por se tratar de tema de direito privado.
+A competência das Seções desta Corte Superior é determinada pela natureza da relação jurídica em litígio. Apesar de algumas vezes o contrato entabulado pelas partes ter sido denominado de Contrato Administrativo - o que atrairia a competência desta Seção -, na verdade, ele possui natureza eminentemente de direito privado, pois a relação material na qual se baseia e toda a fundamentação jurídica e legal do Recurso estão amparadas em normas de direito privado.
+Conforme consta do acórdão impugnado, " por força do art. 173, parágrafo 1º, III, da Constituição da República e do art. 61 da Lei nº 9.478/1997, os contratos celebrados pela PETROBRAS são executados pelo regime de direito privado e que, pelo princípio da autonomia da vontade (art. 421, parágrafo único do Código Civil), não há norma legal que obrigue uma contratante a prorrogar um contrato, especialmente sem que haja acordo entre as partes" (fl. 3.576, e-STJ; grifei).
+Em caso semelhante a este, a Segunda Seção reconheceu a sua competência para julgar demanda entre a Petrobrás e a empresa contratada para prestar o serviço de afretamento. Segue a ementa do acórdão:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS MARÍTIMOS E AFRETAMENTO POR TEMPO DE EMBARCAÇÃO ESTRANGEIRA DE APOIO MARÍTIMO. RESCISÃO UNILATERAL E ANTECIPADA. PROLAÇÃO DE DECISÃO SURPRESA. NÃO OCORRÊNCIA. AUSÊNCIA DE APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015.
+1. Ação de reparação de danos materiais, em virtude de rescisão antecipada e unilateral dos contratos de prestação de serviços marítimos e afretamento por tempo de embarcação estrangeira de apoio marítimo (off shore) celebrados entre as partes.
+2. Ação ajuizada em 12/06/2017. Recurso especial concluso ao gabinete em 25/01/2021. Julgamento: CPC/2015.
+3. O propósito recursal é i) decidir sobre a invalidade do julgamento proferido pelo TJ/RJ, por suposta prolação de decisão surpresa e por ausência de fundamentação do acórdão recorrido, a caracterizar violação dos arts. 6º, 10 e 489, § 1º, do CPC/2015; e ii) estabelecer se a PETROBRÁS cometeu ato ilícito pela rescisão antecipada e unilateral dos contratos de prestação de serviços marítimos e afretamento por tempo de embarcação estrangeira de apoio marítimo celebrados entre as partes, justificando, via de consequência, a pretensão indenizatória das recorrentes.
+4. Ao reconhecer, pura e simplesmente, que, em razão de bloqueio por empresas brasileiras de navegação, restou inviabilizada a obtenção do CAA (Certificado de Autorização de Afretamento), o TJ/RJ não desbordou das teses aventadas pelas partes e é inviável que se admitida que houve a prolação de decisão surpresa, afinal, o próprio mecanismo de bloqueio sempre foi objeto de discussão entre as partes litigantes.
+5. Existe afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local não se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, e não se manifesta sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 1.919.333/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 4/5/2021.)
+Diante do exposto, verificada a relação obrigacional entre pessoas jurídicas de direito privado, determino, com base no art. 9º, § 2º, III, do RI/STJ, a redistribuição do feito a uma das Turmas que compõem a Segunda Seção do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
