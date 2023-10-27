@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VALE S.A. em face da decisão monocrática de fls. 732-734, que negou provimento ao recurso especial anteriormente interposto.
+Nas razões de embargos (fls. 737-903), a parte embargante sustenta que a decisão monocrática embargada é omissa porque a ora Embargante arguiu, no seu Recurso Especial, fato capaz de resolver a lide, qual seja, a quitação integral e definitiva, conferida pelo próprio recorrido (na forma do art. 16 da Lei nº 7.347 ), por seu substituto processual legal, os Compromitentes do Acordo Judicial para Reparação Integral, em razão do depósito de 4,4 bilhões de reais, perfazendo coisa julgada e não houve fundamentação na decisão que invalidasse a quitação conferida no AJRI.
+Assim posta a questão passo a decidir.
+De início, segundo dispõe o art. 1.022, caput e incisos, do Novo Código de Processo Civil, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material. A o bscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas. Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis.
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/6/2011, DJe 01/07/2011).
+De resto, nos termos do art. 1.022, II, do Novo CPC, "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento". Acresce que, no art. 1.022, parágrafo único, do Novo CPC, o legislador destacou duas hipóteses específicas a caracterizar o vício de omissão:
+Art. 1.022, parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1º.
+Indo ao detalhe, a embargante afirma pretender que seja sanado suposto vício de omissão na decisão monocrática embargada, todavia, seu verdadeiro objetivo é de que seja examinado o mérito do pedido formulado nas razões de recurso especial, o qual obstado por inadmissibilidade decorrente da incidência da Súmula 735 do STF.
+A propósito do tema, na hipótese em exame, é de ser afastada a existência de vícios porque a parte nem sequer apontou violação do art. 300 do CPC/2015, razão pela qual é inafastável a incidência do enunciado sumular 735 do STF.
+Na hipótese vertente, a embargante não apresenta de fato nenhum ponto de obscuridade, erro material, omissão ou contradição apto a ensejar o acolhimento dos embargos declaração. Sua pretensão não está em harmonia com a natureza e a função desse recurso, que é de fundamentação vinculada, nos termos do art. 1022 do CPC/15. Portanto, impõe-se a sua rejeição.
+Em face do exposto, rejeito os embargos de declaração, consignando os esclarecimentos acima mencionados.
+Intimem-se.
+EMENTA
