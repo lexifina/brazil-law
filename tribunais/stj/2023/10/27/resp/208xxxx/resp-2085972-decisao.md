@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" da Constituição da República, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. AGRAVO INTERNO. ART. 1.021 DO CPC. TEMA 1124. AUSENCIA DE INTERESSE DE AGIR. INOCORRÊNCIA. RECURSO IMPROVIDO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, está amparada também em entendimento deste C. TRF da 3ª Região, inclusive quanto aos pontos impugnados no presente recurso.
+2. A reiteração que se faz da essência das afirmações expostas na decisão agravada, suficientes ao deslinde da causa, não configura violação ao art. 1.021, § 3º, do CPC/2015, haja vista que esse dispositivo, interpretado em conjunto com o seu §1º, não impõe ao julgador, em sede de agravo interno, o dever de refazer o texto do decisum com os mesmos fundamentos, porém em palavras distintas, mesmo quando inexistentes novas (e relevantes) teses recursais. Jurisprudência.
+3. Agravo interno improvido.
+A parte recorrente afirma que seu Apelo:
+(..) deve ser conhecido e provido porque o acórdão regional ao determinar a reafirmação da DER violou os artigos 17, 85 485, VI, 493, 927,III, e 933 do CPC, caput, art. 49, I, "b" e II e art. 54 da Lei 8.213/91 artigos 389, 394, 395 e 396 do Código Civil, hipótese que também autoriza a interposição do Recurso Especial, conforme art. 105, III, alínea "a", da Constituição da República.
+Contrarrazões às fls. 422-436, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.9.2023.
+Em estrita conformidade a Súmula 568/STJ e lastreado na análise sistemática dos arts. 1º ao 12 e 932 do CPC e 34, XVIII, do RISTJ, a presente questão pode ser decidida monocraticamente. Tal procedimento alinha-se aos princípios da celeridade processual e da vinculação aos precedentes judiciais, conforme preconizado na legislação processual civil em vigor.
+Ressalto que a decisão monocrática está sujeita ao mecanismo de controle colegiado, por meio da interposição de Agravo Interno, tal como prescrito no art. 1.021 do CPC.
+No caso em apreço, é imperioso salientar que o autor ingressou com pedido administrativo de aposentadoria em 11/4/2019 (fl. 7, e-STJ), ingressou com ação judicial em 3/9/2021 (fl. 2, e-STJ).
+O objeto da lide consiste no reconhecimento de períodos laborados sob condições especiais e outros tempos de contribuição não considerados pela Autarquia previdenciária. Ademais, o autor postulou a reafirmação da DER, caso se revelasse necessária para a efetivação do benefício previdenciário.
+O Tribunal de origem, ao analisar o mérito da causa, acolheu o pleito de reafirmação da DER. Entendeu que a parte satisfazia os requisitos legais para a concessão do benefício em momento subsequente ao indeferimento administrativo e anterior ao ajuizamento do feito. Tal posicionamento está devidamente fundamentado no acórdão proferido, veja-se:
+Insubsistente a invocação do artigo 57, §8º da Lei 8.213/91, aplicável às aposentadorias especiais, considerando que a parte autora obteve o benefício da aposentadoria por tempo de contribuição. No caso concreto, houve reafirmação judicial da DER primitiva (em 11/04/2019) e a data de início do benefício foi fixada para o momento em que implementados os requisitos para a sua concessão (em 01/09/2020).
+Conforme entendimento firmado pelo STJ no Tema 995, ao julgar os Embargos Declaratórios opostos pelo INSS (EDcl no Resp nº 1727.063), restou decidido que, no caso de reafirmação da DER, a mora da autarquia e a devida aplicação dos juros somente ocorrerá após o vencimento do prazo de 45 dias definidos para a implantação do benefício.
+Inocorrente a prescrição, considerada a data fixada para a concessão do benefício mediante a reafirmação da DER (01/09/2020) e a propositura da ação (03/09/2021). Anote-se, na espécie, a obrigatoriedade da dedução, na fase de liquidação, dos valores eventualmente pagos à parte autora após o termo inicial assinalado ao benefício ora concedido, ao mesmo título ou cuja cumulação seja vedada por lei (art. 124 da Lei nº 8.213/1991).
+Contudo, a decisão da Corte a quo, ao reconhecer a reafirmação da DER em período não contemplado pelo pedido administrativo e antecedente ao ajuizamento da Ação, vai de encontro ao firmado pelo Tema 995/STJ (REsps 1.727.063/SP, 1.727.064/SP e 1.727.069/SP).
+Ademais, o decisum merece reforma, uma vez que a jurisprudência da Corte Suprema é clara ao estabelecer a necessidade de prévio requerimento administrativo para situações que envolvam a análise de matéria fática ainda não submetida ao conhecimento da Administração Pública. No caso concreto, é incontroverso que, no momento do requerimento administrativo, o segurado ainda não havia cumprido os requisitos legais para a obtenção do benefício previdenciário pleiteado.
+Assim, o julgado vergastado carece de fundamentação adequada e inobserva a ausência de interesse processual, um dos pressupostos processuais essenciais para a constituição e desenvolvimento válido e regular do processo, conforme preceitua o art. 485, VI, do Código de Processo Civil. Ainda que o INSS tenha apresentado contestação de mérito, não se verifica o interesse de agir pela resistência à pretensão deduzida.
+Registro que a regra de transição estabelecida pelo STF, no julgamento do Tema 350 (RE 631.240/MG - RG), aplica-se exclusivamente às ações ajuizadas até a data de conclusão daquele julgamento, que ocorreu em 3/9/2014. A Ação em questão foi proposta em 3/9/2021, estando fora do limite temporal estabelecido pela Corte Suprema.
+Desse modo, a ausência de interesse de agir se configura, uma vez que a demanda não se enquadra nos parâmetros fixados no referido Tema 350.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ e do art. 485, VI, do CPC, julgo procedente o Recurso Especial, determinando a extinção da Ação por falta de interesse processual.
+Publique-se.
+Intimem-se.
+EMENTA
