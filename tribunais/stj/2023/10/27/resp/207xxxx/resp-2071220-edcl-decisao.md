@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Associação dos Servidores do Instituto Nacional de Educação de Surdos - Assines - SSIND DO SINASEFE - SINDICATO NACIONAL, contra decisão de fls. 512/515, que deu provimento a seu recurso especial para reconhecer que o abono de permanência deve ser incluído na base de cálculo do adicional de férias e da gratificação natalina.
+Sustenta a embargante, em resumo, omissão no decisum embargado, pois teria deixado de se pronunciar sobre : i) a condenação da ré no cumprimento da obrigação de fazer; ii) condenação da ré no cumprimento da obrigação de pagar, relativa as prestações mensais vencidas e não prescritas e as vincendas até o cumprimento da obrigação de fazer e iii) condenação da ré em honorários advocatícios da sucumbência.
+Foi apresentada impugnação (fls. 531/532).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Dito isso, a decisão ora embargada deu provimento ao recurso especial para julgar procedente o pedido inicial para declarar o direito dos substituídos ao cômputo do abono de permanência nas bases de cálculos da gratificação natalina e do adicional de férias, nos termos da fundamentação de fls. 514/515.
+Desse modo, os presentes aclaratórios merecem ser parcialmente acolhidos tão somente para suprir omissão acerca do pagamento das parcelas anteriores ao quinquênio que precedeu o ajuizamento da presente assim, bem assim para fixação dos honorários de sucumbência.
+Assim, acolho, em parte, os embargos declaratórios para sanar a omissão apontada e fazer constar na parte dispositiva da decisão recorrida o seguinte: "ANTE O EXPOSTO, dou provimento ao recurso especial para julgar procedente o pedido inicial e condenar a parte ré a incluir o abono de permanência na base de cálculo da gratificação natalina e do adicional de férias dos substituídos da parte autora e determinar o pagamento das parcelas vencidas no quinquênio que antecedeu o ajuizamento da ação, Condeno, ainda, a ré/embargada ao pagamento de honorários de sucumbência, os quais fixo em 10% (dez por cento) sobre o valor da condenação, nos termos do art. 85, § 3º, I, do CPC.
+Publique-se.
+EMENTA
