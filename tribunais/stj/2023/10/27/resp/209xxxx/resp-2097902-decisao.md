@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO, FISCAL TRIBUTO NÃO PAGO PELA SOCIEDADE. NÃO OCORRÊNCIA DE COISA JULGADA. SITUAÇÕES DIVERSAS. REDIRECIONAMENTO DO EXECUTIVO. RESPONSABILIDADE PESSOAL DOS SÓCIOS CARACTERIZAÇÃO, IN CASU, DAS HIPÓTESES LEGAIS. DISSOLUÇÃO IRREGULA R DA EMPRESA. SÚMULA Nº 435/STJ.
+Os Embargos de Declaração forma rejeitados (flS. 76-83, e-STJ).
+Saulo Barros de Moraes afirma:
+Devemos salientar que o artigo 174 do Código Tributário Nacional, que é lei ordinária recepcionada por nossa Constituição da República com força de lei complementar, prescreve que o prazo de prescrição do crédito é de somente cinco anos. É a lei ordinária de Execução Fiscal que em seu artigo 2º, § 3º, trata deste prazo de 180 dias.
+(..)
+Assim, deve-se ser declarada a prescrição, uma vez que o legítimo devedor foi citado em 1992, tendo seus embargos, ao final da esfera recursal, julgados procedentes, contudo, quase 20 (vinte) anos após a citação, após o trânsito em julgado, veio a fazenda Nacional, doravante, por outro motivo legal, alegar dissolução irregular da sociedade, para novamente citá-lo nessa mesma execução, doravante, por outro motivo legal, pois, sabia que se tivesse que ter aforado outra ação de Execução Fiscal, por esse motivo outro, estaria prescrito o seu direito, contudo, o está intercorrentemente.
+(..)
+Claro está a ofensa literal à lei federal (art. 174, do CTN), ao ser aberto nesse mesmo processo, outro procedimento de execução Fiscal, sob o novo fundamento jurídico, o que importou na citação do executado, mesmo com mais de 26 (vinte e seis) anos após sua citação inicial.
+(..)
+De império, salientamos que a constituição do crédito tributário em vigor teve como fato gerador, além da inadimplência do crédito tributário, uma suposta dissolução irregular de sociedade, mesmo restando provado de forma inequívoca, que quando operou-se o lançamento de ofício, há muito o sócio Embargante já havia deixado a sociedade e a mesma estava em pleno funcionamento com os sócios sucessores.
+(..)
+Vem agora a Fazenda Nacional, sem qualquer nexo jurídico, requerer a citação do ora embargante para pagar o valor exigido nas execuções movidas contra a sociedade SOAÇÚCAR LTDA, desta feita, pelo motivo "dissolução irregular da sociedade". Certamente, após não conseguir êxito nessa seara que entende não ter sido apreciada, hipoteticamente, a futuro, requererá a citação do Embargante pelo motivo dolo, depois fraude, depois excesso de poderes, depois infração a lei ou contrato social, até tentar conseguir êxito em alguma.
+Se entende que não foi apreciada aquela matéria, deve entrar com uma nova ação, pois, a execução fiscal, só se reporta à cobrança do crédito tributário não recolhido, pois, em momento algum, por ocasião da lavratura do auto de infração, aventou-se a hipótese de dissolução irregular da sociedade.
+(..)
+Ressalte-se, por pertinência, que a cessão onerosa das quotas sociais operada pelo recorrente aos novos sócios da empresa SOAÇÚÇAR LTDA foi uma operação revestida das formalidades legais, tanto que, o resultado financeiro dessa operação (venda), foi declarada à Receita Federal (FISCO) por ocasião da Declaração de Rendimento (Imposto de Renda) apresentada pelo recorrente, no exercício de 1988, ano-base 1987, como descrito no campo 9, da referida Declaração de Bens.
+(..)
+Faz-se necessário ainda, destacar que uma vez opostos os embargos pelos gerentes, que negam sua responsabilidade pessoal pelo tributo incumbe à Fazenda exequente demonstrar, concretamente, o ato ilícito que tenha sido cometido pelos gestores sociais, já que o simples inadimplennento da obrigação tributária, sem dolo ou fraude, representa mora da empresa contribuinte, mas não ato, por si só, violador da lei ou do estatuto social, por arte dos cotistas.
+(..)
+A tese agasalhada pela Recorrida, como já evidenciado é contra a legis posto que, consoante preceitua o Art 133 do CTN, a pessoa natural ou jurídica de direito privado que adquirir de outra, por qualquer título, fundo de comércio ou estabelecimento comercial, industrial ou profissional, e continuar a respectiva exploração, sob a mesma ou outra razão social ou sob firma ou nome individual, responde integralmente pelos tributos, relativos ao fundo ou estabelecimento adquirido, se o alienante cessar a exploração do comércio, indústria ou atividade. Assim, quem deve responder solidariamente pelos débitos da pessoa jurídica executada, são os sócios sucessores do recorrente.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.10.2023.
+A irresignação não merece prosperar.
+Observo que não foi emitido juízo de valor sobre as questões jurídicas levantadas em torno dos arts. 133 e 174 do CTN. É inadmissível o conhecimento do Apelo Nobre quando os artigos tidos por contrariados não foram apreciados na origem, ainda que se trate de matéria de ordem pública e a despeito da oposição de Embargos Declaratórios, por não ter havido prequestionamento. Ante a ausência desse requisito indispensável, incide na espécie a Súmula 211/STJ.
+No mais, assim decidiu o órgão julgador (fls. 91-99, e-STJ):
+Todavia, no caso verificou-se que o embargante participou da gestão da sociedade na época do fato gerador e transferiu as cotas da empresa para terceiros, quando a mesma já seria inviável economicamente.
+E, nessas circunstâncias, havendo dissolução irregular da sociedade - que se presume a partir da não localização da empresa na sede habitual - é possível o redirecionamento do feito para a figura do sócio gerente/administrador, conforme mostra o seguinte precedente do STJ, que espelha claramente sua jurisprudência dominante:
+(..)
+Conforme os fatos narrados e a documentação constante nos autos, restou evidente que: a) não há ocorrência da coisa julgada, visto que nos embargos à execução nº 92.0011624-8 a discussão se deu em torno da impossibilidade de responsabilização do sócio administrador da executada pelo simples inadimplennento de obrigação tributária. Já no presente caso, a situação é diversa, tendo se verificado a dissolução irregular da empresa administrador à época dos fatos geradores; executada, da qual o apelante foi sócio administrador à época dos fatos geradores;
+b) in casu, a situação prevista no art. 135, III, do CTN foi aferida. Restou comprovado que ocorreu hipótese legal para a responsabilização do sócio por créditos tributários da sociedade executada. Foi demonstrado que a sociedade foi dissolvida irregularmente, em face de não ter sido a empresa localizada no endereço constante na base de dados da Receita Federal;
+c) o ato ilícito de dissolução irregular da pessoa jurídica acarreta a aplicação do citado dispositivo. Foi demonstrado que o autor exerceu função sócio -administrativa na empresa e ter sido o responsável pelo ato que deu ensejo ao fato gerador do tributo na época de sua administração;
+d) é o caso de se aplica o estatuído na Súmula nº 435/STJ: "Presume -se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente".
+Por fim, alterar as conclusões a que chegou a Corte regional, no que tange à coisa julgada e à regularidade do redirecionamento para os sócios, como defendido nas razões recursais, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada na via eleita conforme o óbice previsto na Súmula 7/STJ.
+Diante do exposto, nego provimento ao Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias ordinárias, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
