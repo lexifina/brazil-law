@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ABB LTDA. e SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 854):
+PLANO DE SAÚDE. ALTERAÇÃO DA FORMA DE CUSTEIO APÓS DESLIGAMENTO. RETRATAÇÃO. Insurgência contra sentença de improcedência. Reforma em parte. Regime de custeio. Alteração. Possibilidade. "O ex-empregado aposentado, preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente na época da aposentadoria, podendo haver a substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, desde que mantida paridade com o modelo dos trabalhadores ativos e facultada a portabilidade de carências". Cabe ao inativo, no mais, o custeio integral. Tese firmada pelo C. ST3 em sede de recurso repetitivo em fevereiro de 2021 (Resp1.816.482/SP, 1.818.487/SP e 1.829.862/SP). Retorno dos autos para fins de análise, nos termos do art. 1.030, II do CPC. Retratação desnecessária. Acórdão nos termos da tese acima mencionada. Mudança de plano é expressamente admitida pelo inciso II, do art. 13 da RN 279/ANS. Ausência de direito adquirido à manutenção de contrato extinto. Coparticipação, por sua vez, é fator moderador e, como tal, uma das condições cuja manutenção é exigida pelo art. 2 0 , II, da RN 279/2011, art. 2 0 , II. Limitação a 10% mantida. Recurso parcialmente provido mantido. Decisão mantida.
+Nas razões do apelo especial, os recorrentes alegaram ofensa aos arts. 1.022, II, do CPC/2015; 51, IV, § 1º, III, 54, § 4º, do CDC; e 31 da Lei n. 9.656/1998.
+Sustentaram, em síntese, negativa de prestação jurisdicional por omissão quanto à ausência de preenchimento dos requisitos legais para se fazer jus à manutenção do seguro saúde por tempo indeterminado ao funcionário aposentado.
+Defenderam a ocorrência da supressio, sob o argumento de que o recorrido deixou transcorrer anos para propor a presente demanda.
+Apontaram que não praticaram qualquer ato ilícito, tendo em vista a existência de previsão legal da cobrança de coparticipação.
+Aduziram a necessidade de o recorrido custear o pagamento da coparticipação nos exatos percentuais previstos no contrato firmado entre as partes.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte recorrente, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que inadmitiu o recurso, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+Ilustrativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE BEM DE FAMÍLIA. QUESTÃO JÁ DECIDIDA. PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.035.238/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/6/2022, DJe de 28/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados não deve, de fato, ser conhecido.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.873.836/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+No caso, da leitura das razões do agravo em recurso especial, verifica-se que os insurgentes não infirmaram especificamente os motivos da decisão de admissibilidade proferida pela Corte a quo, consistente na aplicação do enunciado n. 284 da Súmula do STF quanto à tese de ocorrência da supressio.
+Incontestável, portanto, que não houve impugnação específica de todos os fundamentos da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE PROFERIDA PELA ORIGEM. ART. 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
