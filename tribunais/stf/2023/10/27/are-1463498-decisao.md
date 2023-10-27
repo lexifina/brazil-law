@@ -1,0 +1,53 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso extraordinário foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO—RESPONSABILIDADE CIVIL—Pretensão que objetiva a condenação do Município ao pagamento de danos morais e materiais do óbito por afogamento do menor—artigo 37, §6º, da Constituição Federal—Necessidade de verificar: (i) conduta comissiva ou omissiva; (ii) dano na esfera jurídica de outem; e (iii) liame de causalidade entre a conduta e o dano gerado—Configuração de responsabilidade civil do Estado—Falha no dever de segurança—Danos morais de acordo com o que foi estabelecido em primeiro grau— Impossibilidade condenação ao pagamento de danos Materiais—Sentença mantida—RECURSO DESPROVIDO
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, LV; e 37, § 6º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 01/02/2019).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Alegam os autores, em síntese, que, no dia 17/08/2019, aproximadamente as 13h23m, o filho e neto dos autores de nome Kauê Aparecido De Souza Oliveira, de nove anos, faleceu por afogamento nas proximidades de um açude, à margem esquerda do prolongamento da Rua Caingangs, 100, Parque Universitário, Tupã/SP. Alegam ainda que, no dia dos fatos, Kauê pediu para a autora Beatriz, para ir na casa de sua avó materna por volta das 10:00 horas, o que foi consentido por ela (Beatriz). Alega, que no final das contas, o menor Kauê, não foi para onde havia dito que iria. Muito pelo contrário, fora com três amigos em uma área rural, em um buraco feito para acumular água da chuva. A autora alega ainda que saiu preocupada em busca do paradeiro de Kauê, quando foi surpreendida com a notícia dada pelos amigos de seu filho, de que ele havia se afogado nas águas do citado “buraco”.
+
+    [...]
+
+    Segundo o que consta no Boletim de Ocorrência, através das informações prestadas pelos policiais e Corpo de Bombeiros que fizeram os atendimentos no dia da tragédia, eles encontraram a criança após 2 varreduras, na parte mais funda do açude, com cerca de 1,70 metros de profundidade, socorrendo-a com vida até a Santa Casa, onde posteriormente veio a falecer.
+
+    Sobre as condições do local do afogamento de Kauê, depreende-se dos autos (fls. 92/93) que a referida caixa de contenção de águas pluviais foi implantada pela municipalidade em março de 2016, existindo no local apenas uma cerca de arama liso no entorno da propriedade particular. Além disso, não havia placas de advertências ou qualquer sinalização sobre o local, sendo que a própria bacia está localizada a beira de via pública tendo um fácil acesso e visibilidade.
+
+    Dito isso, resta evidente a ausência de um adequado isolamento da estrutura de contenção, que pudesse evitar a ocorrência de acidentes. É certo se dizer que as chances de sobrevivência da vítima, poderiam ter sido aumentadas, caso houvesse mais avisos contundentes de perigo na propriedade em questão ou fosse dificultado seu acesso a incapazes. É dizer que se a Administração Pública tivesse tomado medidas protetivas como uma adequada sinalização do local, bem como acrescentar barreiras de proteção que revestissem a área, certamente o resultado da situação poderia ter sido alterado.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 desta Corte. Sobre o tema, a propósito:
+
+    “DIREITO ADMINISTRATIVO. PROCEDIMENTO CIRÚRGICO. URGÊNCIA NÃO DEMONSTRADA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, III, 5º, CAPUT, I, V e X, 6º, 37, § 6º, 194, PARÁGRAFO ÚNICO, I, 195, 196, 197 e 198, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ’a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE nº 1.141.648/SP-AgR, Primeira Turma Rel.ª Min.ª Rosa Weber, DJe de 11/10/2018).
+
+    “DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. CEMITÉRIO MUNICIPAL. VIOLAÇÃO DE SEPULTURA. FURTO DE PEÇAS. DANOS MATERIAIS COMPROVADOS. DANOS MORAIS. CONFIGURAÇÃO. RESPONSABILIDADE SOLIDÁRIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 37, § 6º, DA CONSTITUIÇÃO DA REPÚBLICA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação” (ARE nº 1.139.919/MG-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 17/09/2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 19.10.2017. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. OMISSÃO. INDENIZAÇÃO. DANOS DECORRENTES DE AGRESSÃO OCORRIDA EM LOCAL DE TRABALHO. SÚMULA 279 DO STF. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC. inaplicável o § 11 do art. 85 do CPC, face à inexistência de fixação de honorários anteriormente” (ARE nº 1.037.498/GO-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 07/05/2018).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE OBJETIVA DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Ausência de argumentos capazes de infirmar a decisão agravada. 3. A alegação formulada no agravo envolve ofensa reflexa à Constituição. 4. Agravo regimental a que se nega provimento” (ARE nº 803.808/DF-AgR, Primeira Turma, Rel. Min. Luís Roberto Barroso, DJe de 21/03/2018).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 27 de outubro de 2023.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
