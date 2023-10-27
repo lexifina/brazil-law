@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial manejado contra acórdão assim ementado :
+ADMINISTRATIVO E PROCESSUAL CIVIL. DECISÃO QUE PROVÊ PROCEDIMENTO PARA SIMPLIFICAR EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. SEU INTEGRAL ACERTO. AUSÊNCIA DE CERCEAMENTO AO CONTRADITÓRIO OU AO DUPLO GRAU DE JURISDIÇÃO. CELERIDADE E ECONOMIA PROCESSUAIS QUE, ALÉM DE ATENDEREM AOS PRINCÍPIOS QUE PRESIDEM O NOVO C.P.C.., TORNAM MAIS EFETIVO O PROCESSO TRANSINDIVIDUAL.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+No especial obstaculizado, a parte recorrente aponta violação dos arts. 377, § 4º, 502 e 507 do CPC/2015, porquanto:
+Nada obstante o claro posicionamento da C. 1ª Câmara Cível no agravo de instrumento nº 0054906-71.2019.8.19.0000, a decisão originalmente agravada e mantida pelo acórdão recorrido (decisão de fls. 16.417/16.419, retificada pela decisão de fls. 16.496/16.498 dos autos judiciais de origem) determina que os valores da planilha de fls. 16.398/16.414 dos autos de origem, encontrados a partir da aplicação da "regra de três", deverão ser aqueles pelos quais serão ajuizadas as demandas executivas individuais e que servirão de base para a expedição de precatórios judiciais. Ou seja, a decisão agravada determina a aplicação da "regra de três" e não permite que o Estado do Rio de Janeiro discuta os valores encontrados a partir da referida equação matemática.
+Ao assim proceder, com a devida vênia, acabou por desconsiderar completamente o teor dos v. acórdãos prolatados no âmbito do agravo de instrumento nº 0054906-71.2019.8.19.0000, que claramente permitiram a realização da discussão dos valores encontrados pela aplicação da "regra de três.
+Defende, ainda, ofensa aos arts. 5º, 6º, 926, do CPC/2015, ao art. 4º do Decreto n. 22.626/1933 e ao art. 884 do Código Civil, sustentando a ocorrência do anatocismo, bem como que, "para a surpresa do ente estatal, o juízo colegiado a quo, ao julgar os referidos agravos de instrumento, acabou por alterar o p osicionamento firmado quando do julgamento do agravo de instrumento 0054906-71.2019.8.19.0000 e, assim, passar a entender pela impossibilidade de rediscussão da aplicação da regra de três no âmbito de cada demanda executiva individual".
+Contrarrazões apresentadas.
+Passo a decidir.
+Infirmar o entendimento da Corte de origem de que, "para afastar, uma vez mais, a perseverante tese do ente público, cumpre, primeiramente, esclarecer que não há nenhuma incompatibilidade entre o que se decidiu no AI n. 0054906-71.2019.8.19.0000 e o posicionamento consolidado nesta Eg. Câmara Cível quanto às execuções individuais", a fim de acolher os argumentos defendidos no especial, encontra óbice na Súmula 7 do STJ.
+Noutra quadra, a tese de anatocismo carece do necessário prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei
+federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+É digno de registro que a parte ora agravante nem sequer pontou nos declaratórios opostos no Tribunal a quo.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se
+EMENTA
