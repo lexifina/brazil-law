@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ADAO GOMES contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COMINDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. EMPRÉSTIMOS CONSIGNADOS. CONTRATAÇÕES EFETIVAMENTE REALIZADAS. RELAÇÕES JURÍDICAS VÁLIDAS. PROVA DA DISPONIBILIZAÇÃO DOS PRODUTOS DOS MÚTUOS. CONDENAÇÃO DO AUTOR POR LITIGÂNCIA DE MÁ-FÉ. MANUTENÇÃO. ALTERAÇÃO DA VERDADE DOS FATOS COM O OBJETIVO DE ALCANÇAR VANTAGEM INDEVIDA. REDUÇÃO DO VALOR DA MULTA. IMPOSSIBILIDADE. OBSERVÂNCIA AOS CRITÉRIOS DE PROPORCIONALIDADE E RAZOABILIDADE. INDENIZAÇÃO POR PREJUÍZOS À PARTE CONTRÁRIA. AFASTADA. MERA PRESUNÇÃO. SENTENÇA PARCIALMENTE REFORMADA. RECURSO PROVIDO EMPARTE. 1. Mantém-se a sentença que julgou improcedente o pedido de declaração de inexistência dos empréstimos consignados, bem como os requerimentos dele decorrentes (indenização por dano moral e repetição do indébito), quando efetivamente demonstrada nos autos as contratações e a respectivas disponibilizações dos produtos dos mútuos na conta bancária do autor, reputando-se, via de consequência, válidas as relações jurídicas que existiram entre as partes. 2. Deve ser mantida a condenação por litigância de má-fé, quando demonstrado que o autor, Adão Gomes, mesmo ciente de ter efetivamente contratado os empréstimos e de ter recebido os depósitos dos produtos dos mútuos em sua conta bancária, alterou a verdade dos fatos e ingressou com demanda temerária, buscando obter vantagem indevida. 3. Não há falar em redução do quantum arbitrado a título de multa por litigância de má-fé, eis que observados os critérios de proporcionalidade e razoabilidade. 4. O dever de indenizar a parte adversa pelos prejuízos causados com a demanda, estabelecido no art. 81,caput e § 3º, do Código de Processo Civil, não pode ser presumido e exige a efetiva prova do dano, o que não restou demonstrado no caso concreto. 5. Recurso parcialmente provido" (fl. 423, e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 79, 80,II, e 81 do Código de Processo Civil e 6º, VI e VII, do Código de Defesa do Consumidor.
+Sustenta que não houve conduta a ensejar o condenação por litigância de má-fé, tendo em vista que apenas buscou a tutela jurisdicional para ressarcir os danos que acreditava ter sofrido.
+Após as contrarrazões (fls. 451/458, e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No caso, o recorrente foi condenado ao pagamento de multa por litigância de má-fé, com base nos seguintes fundamentos:
+"(..)
+No caso dos autos: verifica-se ter ocorrido a condenação da recorrente por litigância de má-fé, vez que teria ajuizado a presente demanda objetivando a declaração de nulidade do empréstimo, inclusive, ressalte-se, com pleito de condenação do banco réu por danos morais, mesmo tendo recebido, como se viu, o produto do mútuo em sua conta bancária.
+A condenação por litigância de má-fé não merece censura, isto porque o autor ajuizou a presente demanda utilizando-se, a toda evidência, de argumento que sabia ser falso.
+A conduta da apelante, em verdade, mostra-se deplorável, porquanto o autor ingressou em juízo objetivando alçar locupletamento ilícito, sob alegação inverídica de desconhecimento da procedência dos descontos realizados em seu benefício previdenciário, quando, ao contrário, pela simples análise dos documentos vindos aos autos, dessume-se facilmente que possuía plena ciência do contrato em questão.
+De sua parte, a instituição financeira, de pronto, providenciou a juntada dos documentos de fls. 85-136, demonstrando que o autor celebrou efetivamente os contratos de empréstimo consignado, bem como, logo em seguida, recebeu em sua conta bancária o valores contratados.
+Portanto, não há dúvida de que o empréstimo em pauta beneficiou diretamente o autor.
+A condenação por litigância de má-fé, portanto, deve ser mantida, eis que sabia o apelante, efetivamente, da disponibilização do produto do mútuo em sua conta-corrente, tendo, ainda assim, movimentado a máquina da justiça de forma temerária, em evidente desrespeito àqueles jurisdicionados que agem de boa-fé e, por conseqüência, em manifesta afronta ao Judiciário.
+(..)
+Restando incontroverso nos autos que o autor contratou os empréstimos consignados em questão, bem como recebeu os valores dos mútuos em sua conta bancária e: dessa forma, moveu a presente demanda objetivando obter vantagem indevida, deve ser mantida a condenação por litigância de má-fé: nos exatos termos do artigo 80: II, do Código de Processo Civil s: sendo afastada, ainda, a redução da multa pretendida pelo apelante.
+(..)" (fls. 430/432,e -STJ).
+De fato, a jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda, consoante se extrai dos seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Descabe a esta Corte apreciar as razões que levaram as instâncias ordinárias a aplicar a multa por litigância de má-fé prevista nos artigos 17 e 18 do CPC de 1973, quando for necessário rever o suporte fático-probatório dos autos. Incide o teor da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno não provido" (AgInt no AREsp 1.078.631/GO, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/10/2017, DJe 23/10/2017).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+2. Agravo regimental não provido" (AgRg no REsp 1.474.091/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe 4/8/2015).
+Por fim, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais nos termos do art. 85, § 11, do CPC, considerando que a apelação do ora recorrente foi parcialmente provida.
+Publique-se.
+Intimem-se.
+EMENTA
