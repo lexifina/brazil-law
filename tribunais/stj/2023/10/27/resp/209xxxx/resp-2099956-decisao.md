@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal de 1988) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. LEI ESTADUAL Nº 3.831/2021 - PROGRAMA DE RECUPERAÇÃO DE CRÉDITOS FISCAIS - REFIS. ADESÃO E QUITAÇÃO DO DÉBITO FISCAL PELO CONTRIBUINTE. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA FAZENDA PÚBLICA. AUSÊNCIA DE PAGAMENTO NA VIGÊNCIA DO REFIS. INCIDÊNCIA DO PERCENTUAL DE 10%. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. A Lei Estadual nº 3.831/2021, que "institui o Programa de Recuperação de Créditos Fiscais - REFIS", foi clara ao dispor em seu art. 19 que "para usufruir dos incentivos instituídos por esta Lei, o sujeito passivo deverá fazer sua adesão na vigência do REFIS", além do que estabeleceu que "o período de vigência e demais atos serão regulamentados por ato do Secretário de Estado da Fazenda" (art. 20).
+2. A PORTARIA CONJUNTA SEFAZ/PGE Nº 1.145, de 01 de dezembro de 2014, norma responsável por disciplinar os procedimentos para recolhimento dos Honorários Advocatícios de sucumbências nos processos judiciais envolvendo a Fazenda Pública Estadual, prevê, por seu turno, que na vigência de Programa de Recuperação de Créditos Fiscais - REFIS, os honorários advocatícios deverão ser recolhidos no percentual de 5% (cinco por cento), incidentes sobre o valor do acordo firmado.
+3. A PORTARIA SEFAZ Nº 141/2022/GABSEC, de 25 de fevereiro de 2022, prorrogou o prazo de vigência do REFIS em questão para o dia 18 de março de 2022, de modo que cabia ao contribuinte recolher os honorários advocatícios em favor da Fazenda Pública, no percentual de 5% (cinco por cento), incidentes sobre o valor do acordo firmado, até referida data.
+4. No caso dos autos, como o executado, ora agravante, efetuou o pagamento dos honorários advocatícios somente em 25/04/2022, ou seja, após a vigência do REFIS, conclui-se que o sujeito passivo perdeu o benefício concedido para pagamento da verba, permitindo a incidência do percentual de 10% (dez por cento), fixado no despacho de evento 4 dos autos de origem, não merecendo, pois, qualquer reparo a decisão agravada.
+5. Recurso conhecido e, no mérito, improvido, nos termos do voto prolatado.
+Os Embargos de Declaração foram rejeitados.
+Em suas razões, a parte recorrente alega violação dos arts. 489, § 1º, IV e VI, e 1.022, II, do CPC; e da Lei Estadual 3.831/2021. Requer o provimento do recurso para: a) "em observância à imperatividade da legislação em vigor, seja reformado o v. acórdão recorrido, julgando provido os embargos de declaração opostos, sendo, por conseguinte, determinada a observância da imperatividade da Lei Instituidora do REFIS (Lei nº 3.831/2021), consequentemente, considerando suficiente o depósito judicial já realizado na origem em favor do Estado do Tocantins à título de honorários advocatícios" (fl. 267, e-STJ); e b) "SUBSIDIARIAMENTE, conforme critério de Vossas Excelências, determine que a Corte Julgadora a quo análise os fundamentos do agravo de instrumento e aclaratórios, pronunciando-se acerca das arguições consignadas" (fl. 268, e-STJ).
+Contrarrazões às fls. 287-292, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de outubro de 2023.
+De plano, afasto a apontada contrariedade aos arts. 489 e 1.022 do CPC/2015. Da leitura dos autos, não se constata omissão, obscuridade, contradição ou erro material nos acórdãos recorridos capazes de torná-los nulos, pois a Corte a quo apreciou a demanda de forma clara e precisa, deixando bem delineados os motivos e fundamentos dos julgados.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na leitura dos autos, verifica-se que a oposição dos Embargos Declaratórios caracterizou, tão somente, a irresignação da parte diante de decisão contrária a seus interesses, o que não viabiliza o referido Recurso.
+Dessa forma, inexiste vício de integração no acórdão a ensejar violação dos arts. 489 e 1.022 do CPC/2015.
+Ademais, descabe ao STJ, a pretexto de apreciar suposta afronta ao art. 1.022 do CPC/2015, aferir a existência de omissão do Tribunal origem acerca de matéria disposta em lei local. Para isso, é necessário emitir juízo de valor acerca da essencialidade da questão para o deslinde da controvérsia, o que passa pelo exame de legislação estadual (Lei Estadual 3.831/2021), providência inadmitida na forma da Súmula 280/STF. Ilustrativamente:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. DESISTÊNCIA. PROGRAMA DE RECUPERAÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. DIREITO LOCAL. REEXAME. INVIABILIDADE.
+1. "Proferida sentença com fundamento na desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu" (art. 90 do CPC/2015).
+2. A dispensa do pagamento de honorários advocatícios em decorrência de desistência de ação para fins de adesão a programa de recuperação fiscal está condicionada à existência de disposição expressa na lei instituidora desse benefício fiscal. Precedentes.
+3. Hipótese em que a Corte a quo assentou que a legislação estadual de regência do programa aderido não dispensa o pagamento dos honorários advocatícios referentes às ações conexas que discutem a validade do crédito tributário objeto do parcelamento, de modo que a revisão desse entendimento pressupõe o reexame de norma de direito local, o que é inviável em sede de recurso especial. Incidência in casu, por analogia, da Súmula 280 do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.049.422/BA, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/5/2023, DJe de 19/5/2023.)
+Diante do exposto, não conheço do Recurso Especial.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil em virtude da interposição do apelo especial nos autos de Agravo de Instrumento, recurso que ataca decisão interlocutória.
+Publique-se.
+Intimem-se.
+EMENTA
