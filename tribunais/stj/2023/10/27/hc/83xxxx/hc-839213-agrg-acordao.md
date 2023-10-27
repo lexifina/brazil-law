@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. CRIME DO ART. 306 DO CTB. DIREITO DE NÃO PRODUZIR PROVAS. PACIENTE QUE CONCORDOU COM O EXAME. AUSÊNCIA DE PROVA EM CONTRÁRIO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A Corte local, ao analisar a tese defensiva, consignou que "nada indica que o acusado tenha sofrido coação ilegal por parte dos policiais, a fim de realizar o exame de sangue. Ao contrário, Giliarde concordou com a realização do exame, conforme termo de interrogatório, cuja cópia foi reproduzida nos autos. Em Juízo, a despeito da mudança em sua versão, nada trouxe para infirmar a atuação dos policiais militares".
+- Assim, a defesa não se desincumbiu de comprovar qualquer irregularidade nas provas obtidas extrajudicialmente. Dessa forma, a desconstituição das conclusões das instâncias ordinárias a respeito da regularidade das provas constantes dos autos, demandaria indevido revolvimento de fatos e provas, o que não é possível na via eleita.
+2. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por GILIARDE DIAS PALEMEIRA contra decisão monocrática, da minha lavra, que não conheceu do mandamus.
+O agravante reitera, em síntese, que a prova é nula em virtude porquanto produzidas por meio de violência policial, sem que o paciente fosse informado do seu direito de não produzir prova contra si mesmo.
+Pugna, assim, pelo provimento do agravo regimental.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. CRIME DO ART. 306 DO CTB. DIREITO DE NÃO PRODUZIR PROVAS. PACIENTE QUE CONCORDOU COM O EXAME. AUSÊNCIA DE PROVA EM CONTRÁRIO. 2. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A Corte local, ao analisar a tese defensiva, consignou que "nada indica que o acusado tenha sofrido coação ilegal por parte dos policiais, a fim de realizar o exame de sangue. Ao contrário, Giliarde concordou com a realização do exame, conforme termo de interrogatório, cuja cópia foi reproduzida nos autos. Em Juízo, a despeito da mudança em sua versão, nada trouxe para infirmar a atuação dos policiais militares".
+- Assim, a defesa não se desincumbiu de comprovar qualquer irregularidade nas provas obtidas extrajudicialmente. Dessa forma, a desconstituição das conclusões das instâncias ordinárias a respeito da regularidade das provas constantes dos autos, demandaria indevido revolvimento de fatos e provas, o que não é possível na via eleita.
+2. Agravo regimental a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+Com efeito, conforme explicitado na decisão monocrática, a defesa aponta, em síntese, a nulidade das provas produzidas pelo paciente na fase policial, em virtude de não ter sido advertido sobre sua não obrigatoriedade.
+A Corte local, ao analisar a tese defensiva, consignou que "nada indica que o acusado tenha sofrido coação ilegal por parte dos policiais, a fim de realizar o exame de sangue. Ao contrário, Giliarde concordou com a realização do exame, conforme termo de interrogatório, cuja cópia foi reproduzida nos autos. Em Juízo, a despeito da mudança em sua versão, nada trouxe para infirmar a atuação dos policiais militares" (e-STJ fl. 33).
+Registrou-se, ademais, que (e-STJ fl. 33):
+A prova coligida evidenciou que o acusado concordou com a coleta de sangue para realização do exame, sendo certo que era dever dos policiais militares consultá-lo acerca da realização do teste do bafômetro, e da Autoridade Policial solicitar permissão para a retirada de sangue.
+Não se demonstrou tenha havido qualquer excesso por parte dos servidores militares ou civis e nem tampouco que tenha havido odiosa coação. Aliás, não é mesmo crível que os policiais coagissem o réu a realizar o exame, tendo em vista que os eloquentes sinais externos de embriaguez, de si, já bastavam a demonstrar a prática do crime.
+De todo gratuita, pois, a alegação de ilicitude da prova.
+No mais, cabe lembrar que o artigo 306 do CTB prevê crime de perigo abstrato.
+Assim, nem sequer é preciso, para sua configuração, que o modo de dirigir do agente gere perigo concreto de dano.
+No caso, o apelante foi muito além de uma pequena dose de álcool. A prova oral, aliada ao resultado do exame toxicológico, leva à inarredável conclusão de que a incolumidade pública, no que concerne à segurança do tráfego de veículos, foi posta em risco.
+Como se vê, é inafastável a condenação.
+De uma leitura atenta dos excertos acima transcritos, reafirmo que a defesa não se desincumbiu de comprovar qualquer irregularidade nas provas obtidas extrajudicialmente. Dessa forma, a desconstituição das conclusões das instâncias ordinárias a respeito da regularidade das provas constantes dos autos, demandaria indevido revolvimento de fatos e provas, o que não é possível na via eleita.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. DELITO DE PERIGO ABSTRATO. DESNECESSIDADE DE PROVA QUANTO À ALTERAÇÃO DA CAPACIDADE MOTORA DO AGENTE. PRECEDENTE. ABSOLVIÇÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO. 1. De acordo com a jurisprudência desta Corte, para a tipificação do crime de embriaguez ao volante, "a partir da vigência das Leis n. 11.705/2008 e 12.760/2012, não há exigência quanto a estar comprovada a modificação da capacidade motora do Agente. Assim, não há falar em absolvição ao argumento de que não ficou demonstrada a alteração da capacidade psicomotora" (AgRg no AgRg no AREsp n. 1.829.045/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/8/2021, DJe de 27/8/2021.) 2. A partir do advento da Lei 12.760/2012, que alterou a redação do art. 306 do Código de Trânsito Brasileiro, entende-se ser despicienda a submissão do acusado a teste de etilômetro, sendo admitida a comprovação da embriaguez por vídeo, testemunhos ou outros meios de prova admitidos em direito, observado o direito à contraprova. 3. Hipótese em que as instâncias ordinárias, após análise acurada das provas dos autos, concluíram pela comprovação da materialidade do delito previsto no art. 306 do CTB com apoio no resultado do teste de alcoolemia, na palavra dos agentes policiais, no exame clínico, bem como no depoimento prestado pelo acusado em Juízo, no qual confirmou a ingestão de bebidas alcoólicas antes de tomar a direção do veículo. Assim, a reversão do acórdão recorrido, de modo a absolver o acusado, demandaria revolvimento fático-probatório, incabível na via do recurso especial (Súmula 7/STJ). 4 . Agravo regimental improvido. (AgRg no AREsp n. 2.189.576/RO, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023.)
+Assim, em que pese o esforço argumentativo da combativa defesa, não foram apresentados argumentos aptos a reverter as conclusões trazidas na decisão agravada, motivo pelo qual esta se mantém por seus próprios e jurídicos fundamentos.
+Pelo exposto, nego provimento ao agravo regimental.
+É como voto.
