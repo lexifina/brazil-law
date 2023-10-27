@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática às fls. 1.873-1.874, e-STJ, que rejeitou os Aclaratórios anteriores.
+Aparecido da Silva Martins, às fls. 1.873-1.874, e-STJ, alega que houve obscuridade na decisão, pois (fl. 1.879, e-STJ):
+a) data venia, não existe lógica de raciocínio que possa levar a extensão do fumus boni iuris sobre o valor que a própria Embargada admitiu que deve, mormente considerando que existe decisão com transito em julgado reconhecendo a existência desse débito como incontroverso; e,
+b) se os parâmetros a serem utilizados como base de cálculo, que estão de acordo com decisão já transitada em julgado, não podem ser alterados, conforme prevê expressamente o art. 509, § 4º, do CPC, qualquer cálculo que venha ser feito, com perícia ou sem perícia, não pode fugir dos parâmetros e bases de cálculo já definidos, razão pela qual, sem a menor sombra de dúvidas, pode-se afirmar que não existe menor possibilidade do quantum debeatur ser inferior ao valor que a Embargada admitiu como incontroverso. Qualquer raciocínio em sentido contrário a existência do incontroverso e a inconsistência ao seu valor, demanda uma fundamentação mais esclarecedora, posto que tal exercício mental, aparentemente, não encontra respaldo nos autos.
+Afirma que há, ainda, contradição, uma vez que, "embora utilize do instituto da preclusão para analisar reconhecer a existência do fumus boni iuris em favor da Embargada, desconsidera a preclusão havida e desrespeita a coisa julgada sobre a r. decisão do Presidente do TJPR, na qual este reconheceu a existência de verba incontroversa e determinou o prosseguimento do Cumprimento de Sentença com relação a tal verba" (fl. 1.879, e-STJ).
+Contrarrazões às fls. 1.912-1.925, e-STJ.
+É o relatório.
+Decisão.
+Os autos foram recebidos neste Gabinete em 16 de outubro de 2023.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e se destinam a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A liminar foi deferida às fls. 1.580-1.583, e-STJ, pois restou comprovada a presença do fumus boni iuris e do periculum in mora. Em Embargos de Declaração, às fls. 1.800-1.831, e-STJ, a parte alegou que houve omissão ao não se observar que há valores incontroversos, os quais podem ser liberados. Decisão às fls. 1.873-1.874, e-STJ, rejeitou o recurso sob o fundamento de que não foi impugnada a presença do fumus boni juris e do periculum in mora. Agora, na presente petição dos segundos EDcl, às fls. 1.877-1.908, e-STJ, o recorrente apresenta argumentos que tentam demonstrar a ausência de fumus boni juris e do periculum in mora referentes , porém, à decisão às fls. 1.580-1.583, e-STJ, que deferiu a liminar.
+Como se observa, os Embargos de Declaração deveriam se voltar a demonstrar a presente de omissão, contradição ou obscuridade na decisão que apreciou os primeiros Aclaratórios. Contudo, suas razões se direcionam a impugnar decisão anterior, que deferiu a liminar.
+Esta Corte Superior entende que "não são cabíveis Embargos de Declaração, quando a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e sim rediscutir o que ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis" (EDcl no REsp 1.805.918/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe 24/9/2021).
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+EMENTA
