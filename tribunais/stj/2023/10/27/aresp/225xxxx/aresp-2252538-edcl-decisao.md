@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão (fls. 393-397, e-STJ) que conheceu do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, dar-lhe provimento para determinar que a Execução prossiga nos moldes do Código de Processo Civil.
+O embargante reclama que a decisão objurgada se omitiu quanto aos efeitos do julgado que declarou a incompetência do juízo originário. Sustenta que o decisum não enfrentou a validade dos atos processuais praticados pelo juízo especializado da execução fiscal. Alega (fl. 404, e-STJ):
+DA OBSCURIDADE QUANTO AOS EFEITOS DA INCOMPETÊNCIA DO JUÍZO ORIGINÁRIO
+De acordo com o trecho acima destacado da r. decisão monocrática embargada, a Execução originária deverá prosseguir "nos moldes do Código de Processo Civil".
+Destaca-se que a referida Execução tramita, desde o início, perante Juízo Especializado de Execução Fiscal, e segundo o rito previsto na lei6.830/80, em completa contrariedade aos inúmeros precedentes da Corte Cidadã, aos quais a r. decisão monocrática se somou.
+Ademais, tornou-se patente o prejuízo ao Executado segundo a tramitação nos termos aplicados até então(perante Juízo Especializado de Execução Fiscal e em atendimento ao rito previsto na lei 6.830/80), uma vez que a milionária execução cabalmente inviabilizou a apresentação de Embargos à Execução (cujo requisito é a garantia do juízo na sistemática da execução fiscal), ao passo que o Recorrente teve de se valer da estreita via da Exceção de Pré-executividade para se insurgir contra a manifesta incompetência do d. Juízo originário até esta E. Corte Especial.
+Por outro lado, somente a tramitação da Execução segundo um rito correto(perante a Vara Cível), nos termos do CPC, permitirá a efetivação do pleno direito de defesa do Executado, inclusive com oportunidade de apresentação de Embargos à Execução, o que até então se mostrava inviável.
+Neste contexto, portanto, requer sejam clarificados os efeitos da r. decisão monocrática ora embargada no trecho "para determinar que a Execução prossiga nos moldes do Código de Processo Civil", em especial quanto a nulidade dos atos praticados até então perante Juízo Especializado de Execução Fiscal (Vara de Execução Fiscal), e segundo rito previsto na lei 6.830/80,bem como seja oportunizado o pleno direito de defesa do Executado nos termos do rito previsto no CPC.
+Impugnação aviada às fls. 414-416, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29 de junho de 2023.
+Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015 (art. 535 do CPC/1973), os Embargos de Declaração se destinam apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado, sendo-lhes atribuídos, excepcionalmente, efeitos infringentes quando algum desses vícios for reconhecido.
+De início, constata-se a efetiva ocorrência de erro material na decisão embargada que, portanto, merece ser corrigido.
+Assim, onde se lê: "Noutro giro, quanto ao debate sobre a competência do juízo processante, a pretensão demanda provimento" (fl. 395, e-STJ), leia-se: "Noutro giro, quanto ao debate sobre o rito procedimental adotado pelo juízo processante, a pretensão demanda provimento".
+Nos Aclaratórios, a embargante sustenta que "tornou-se patente o prejuízo ao Executado segundo a tramitação nos termos aplicados até então (perante Juízo Especializado de Execução Fiscal e em atendimento ao rito previsto na lei 6.830/80), uma vez que a milionária execução cabalmente inviabilizou a apresentação de Embargos à Execução (cujo requisito é a garantia do juízo na sistemática da execução fiscal), ao passo que o Recorrente teve de se valer da estreita via da Exceção de Pré-executividade para se insurgir contra a manifesta incompetência do d. Juízo originário até esta E. Corte Especial" (fl. 404, e-STJ). Dessa forma, é necessário fazer o seguinte esclarecimento.
+A decisão consignou que "não se aplica a Lei 6.830/1980 à execução de decisão condenatória do Tribunal de Contas da União quando não houver inscrição em dívida ativa, haja vista que tal decisum já é título executivo extrajudicial. Assim, não se faz necessária a emissão de Certidão de Dívida Ativa, o que determina a adoção do rito do Código de Processo Civil caso o administrador discricionariamente opte pela não inscrição".
+Observa-se que a desnecessidade de inscrição em dívida ativa e o afastamento do rito da execução fiscal não permitem concluir pela incompetência da Vara Federal especializada em Execuções Fiscais para prosseguir com a Execução pelo rito do CPC.
+O julgado não declarou a incompetência do juízo da Execução Fiscal, e, sim, a mudança do rito processual que deverá ser adotado pelo juízo processante.
+Diante do exposto, acolho os Embargos Declaratórios tão somente para prestar esclarecimento, sem efeito modificativo.
+Publique-se.
+Intimem-se.
+EMENTA
