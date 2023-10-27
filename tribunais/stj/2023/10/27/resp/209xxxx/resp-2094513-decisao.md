@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão cuja ementa é a seguinte:
+Agravo de instrumento. Cumprimento individual de sentença coletiva. Lei-DF 6.618/20. Inaplicabilidade. Trânsito em julgado da sentença exequenda anterior ao início da vigência da lei.
+A recorrente afirma que houve ofensa ao art. 6º da LINDB e aos arts. 14 e 1.022 do CPC/2015. Aduz:
+Destarte, caso Vossas Excelências entendam que o Tribunal a quo não se manifestou expressamente sobre a tese suscitada, pugna-se pela declaração da nulidade do acórdão que julgou os declaratórios, por afronta ao disposto no art. 1.022, II, do CPC, remetendo-se os autos à instância de origem para que sejam sanados os pontos trazidos nos embargos de declaração, adotando-se, assim, posicionamento expresso sobre os temas, especialmente sobre a alegação de afronta aos arts. 6º da LINDB, 14 do CPC.
+Por outro lado, quanto à relevância especial de que trata o artigo 105, §2º, da Constituição Federal, não há dúvidas quanto à sua presença no presente apelo, na medida em que é importante definir se normas como a Lei do DF nº 6.618/2020, a qual majorou o teto para definição da obrigação de pequeno valor, aplicam-se imediatamente ou não aos processos em curso, respeitados os atos processuais anteriormente praticados e as situações jurídicas consolidadas, sendo inconteste, portanto, que a referida questão é relevante do ponto de vista jurídico, social e econômico, pois transcende a esfera subjetiva das partes, haja vista atingirem toda a massa de credores da Fazenda Pública em geral.
+Contrarrazões às fls. 172-180, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.10.2023.
+Em sua petição de aclaratórios, a parte sustenta que "as Leis são criadas para que, em regra, sejam aplicadas imediatamente, a partir da data da sua criação, nos processos em curso, contudo, não podem retroagir de modo a modificar as decisões consolidadas. Portanto, não podem os efeitos da nova Lei nº 6.618/2020 atingirem o direito adquirido, o ato jurídico perfeito e a coisa julgada, respeitando o disposto no art. 5º, inciso XXXVI, da CF, e o art. 6º da LINDB" (fl. 76, e-STJ).
+O Tribunal a quo assim apreciou a questão (fl. 56, e-STJ):
+A norma acerca do limite para pagamento de RPV é de natureza material-processual, atingindo apenas os títulos executivos transitados em julgado durante a sua vigência.
+Constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, pois o Colegiado originário julgou integralmente a lide e solucionou a controvérsia em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, uma a uma, todas as alegações trazidas pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando os pontos relevantes e imprescindíveis à sua resolução.
+Como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do julgamento, que foi contrário aos interesses do ora recorrente.
+Ressalte-se que o mero descontentamento com o conteúdo da decisão não enseja Embargos Declaratórios, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO OS ARTS. 489, § 1º, IV, 1.022, II, E 1.013 E INCISOS, TODOS DO CPC/15. INOCORRÊNCIA DE DANOS MORAIS.
+I - Na origem, trata-se de ação de rito ordinário ajuizada pelos autores, em face da UNIFESP (PRO-REITORIA DE ASSUNTOS ESTUDANTIS - CAMPUS DE SÃO JOSÉ DOS CAMPOS), com pedido de antecipação dos efeitos da tutela para determinar o restabelecimento de beneficio de auxílio -permanência em favor dos autores, estudantes do curso de Ciência e Tecnologia, bem como para anular as faltas escolares dos autores, permitindo a matrícula dos mesmos para o primeiro semestre de 2014. Na sentença, julgou-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Sobre a alegação de malferimento aos arts. 489, § 1º, IV, 1.022, II, e 1.013 e incisos, todos do CPC/15, o Tribunal a quo, na fundamentação do decisum, entendeu que não se verifica a ocorrência de danos morais, razão pela qual é descabida a condenação da apelante ao pagamento de indenização.
+III - Conforme demonstrado dos excertos colacionados do aresto vergastado, o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia travada nos autos, em que pese em sentido diverso da pretensão dos recorrentes, o que não significa, necessariamente, ausência de prestação jurisdicional.
+IV - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1.406.990/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2019)
+Além disso, convém destacar que a Corte distrital registrou ainda que, "embora tanto baste para o desprovimento do agravo, não custa registrar, obiter dictum, que a Turma tem reconhecido a inconstitucionalidade do Diploma" (58, e-STJ). Contudo, a recorrente não refutou esse argumento - que é apto, por si só, para manter o decisum combatido. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se na espécie, por analogia, as Súmulas 284 e 283 do STF.
+Por fim, ressalto que a revisão do julgado requer o exame de matéria constitucional e também de lei local, providências que são inviáveis em Recurso Especial sob pena de usurpação da competência do STF e em virtude do disposto na Súmula 280/STF, respectivamente.
+Por tudo isso, conheço parcialmente do Recurso Especial, tão somente quanto à afronta ao art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
