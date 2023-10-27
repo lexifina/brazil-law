@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial que desafia acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Cumprimento de sentença para cobrança de honorários advocatícios fixados em sentença que rejeitou o pedido dos exequentes e extinguiu o processo, nos termos do art. 487, I, do CPC e fixou honorários a cargo dos autores a razão de 8% do proveito econômico Partes que controvertem a respeito do proveito econômico obtido, base de cálculo da verba honorária Anulação da decisão agravada para que nova seja proferida após prévia remessa dos autos à Contadoria Judicial Prejudicado o exame do recurso interposto.
+Declaratórios rejeitados.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 502, 508, e 1.022, II, defendendo negativa de prestação jurisdicional, bem como "não cabe mais qualquer discussão sobre a base de cálculo usada para cobrança da verba honorária, já que a decisão proferida nos autos 1011098- 39.2019.8.26.0053 encontra-se revertida pelo manto da coisa julgada e determinou que os honorários devem ser calculados em 8% do proveito econômico obtido com a extinção do cumprimento de sentença".
+Contrarrazões foram apresentadas.
+Passo a decidir.
+Observa-se que a irresignação recursal não merece prosperar.
+Ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não existe necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se observa violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015. 1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.  ..  (REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Em outra quadra, a revisão do entendimento do aresto hostilizado, a fim de acolher as teses da parte recorrente, de ofensa à coisa julgada, esbarra no óbice da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE O CONSUMO DE ENERGIA ELÉTRICA. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. CORREÇÃO MONETÁRIA E JUROS DE MORA. LIMITES DA COISA JULGADA. SÚMULA 7 DO STJ.
+ ..
+3. A alteração da conclusão das instâncias ordinárias sobre a correção dos cálculos apresentados pela contadoria judicial importaria em reexame de provas, o que é vedado no âmbito do recurso especial, sob pena de violação
+à Súmula 7 do STJ.
+(AgRg no REsp 1.239.718/SC, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe 13/12/2017).
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. REAJUSTE DA TABELA DO SUS. ALEGAÇÃO DE DESRESPEITO À COISA JULGADA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7/STJ.
+1. O Tribunal regional consignou: "atualmente, é no sentido de que o pagamento do reajuste das tabelas do SUS, determinado pela Ação Civil Pública nº 1999.71.00.021045-6, deve obedecer o limite temporal de novembro de 1999, em vista de expressa disposição do título executivo. A matéria restou bem analisada pela Juíza Federal Salise Monteiro Sanchotene na AC 5066071-96.2014.404.7100/RS, cujos fundamentos transcrevo abaixo" (fl. 24, e-STJ).
+2. Por sua vez, a recorrente alega: "Ao contrário do que manifestou a decisão ora recorrida, não há coisa julgada nos presentes autos determinando o pagamento dos reajustes dos procedimentos para após out/1999" (fl. 74, e-STJ).
+3. Para alterar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+4. O Superior Tribunal de Justiça possui orientação no sentido de que, em caso de sentença proferida em data posterior à publicação da Portaria 1.323/1999 do Ministério da Saúde, situação que ocorre na espécie, o pedido de limitação temporal de aplicação do índice de 9, 56% apresentado somente na fase de execução ofende a coisa julgada, uma vez que foi concedida às partes a oportunidade de enfrentamento de todas as teses de formação do título judicial.
+5. Agravo Interno não provido. (AgInt REsp 1.811.078/RS, Min. Rel. HERMAN BENJAMIN, Segunda Turma, DJe 28/08/2020)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
