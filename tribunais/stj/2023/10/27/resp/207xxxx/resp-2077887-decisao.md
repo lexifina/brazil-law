@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fls. 917-930, e-STJ):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. PRESO POLÍTICO DURANTE O REGIME MILITAR. COMPLEMENTAÇÃO DO VALOR RECEBIDO DO ESTADO. DESCABIMENTO.
+1) Trata-se de ação através da qual o autor pretende que o recorrente seja condenado a realizar o pagamento de indenização a título de danos morais, em decorrência de prisão ilegal e política efetivada no período do regime militar, julgada procedente na origem.
+2) PRESCRIÇÃO - A prescrição, prevista no artigo 1º, do Decreto nº. 20.910/1932, não se aplica aos danos decorrentes de violação de direitos fundamentais, que são imprescritíveis, sobretudo quando ocorrem durante o Regime Militar, época em que os jurisdicionados não podiam deduzir a contento suas pretensões. Precedentes do STJ e deste Tribunal de Justiça.
+3) MÉRITO - A responsabilidade civil do Estado do Rio Grande do Sul é objetiva, nos termos do artigo 37, § 6º, da Constituição Federal, respondendo pelos danos que seus agentes derem causa, seja por ação, seja por omissão, cabendo à parte contrária a prova dos fatos, o nexo de causalidade e o dano.
+4) Em que pese os danos experimentados pelo autor, os quais restaram incontroversos nos autos, além de o dever do ente público em repará-los, verifica- se que o autor já foi indenizado, pelos mesmos fatos (danos físicos e psicológicos), no âmbito administrativo, recebendo uma indenização de R$ 30.000,00 (..) (Processo Administrativo n.º 2001.02.05165). Além disso, o autor ajuizou ação perante a Justiça Federal reclamando indenização contra a União em relação aos mesmos fatos, obtendo sentença favorável que condenou o ente público ao pagamento da quantia de R$ 100.000,00 (..) (Processo nº 5015315-39.2021.4.04.7100). Embora a sentença tenha sido objeto de recurso por parte da União, em consulta à jurisprudência do Tribunal Regional Federal da 4ª Região encontrei vários julgados em que a indenização foi mantida em tal montante, ou em valores bem próximos.
+5) Se somarmos as três as indenizações, o autor receberia R$ 180.000.00 (..), valor em muito superior ao que normalmente se arbitra para indenização por morte da maciça maioria dos jurisdicionados nos múltiplos processos de indenização por morte, circunstância que fere os princípios da razoabilidade e da proporcionalidade.
+6) Não se pode não se pode esquecer também que própria Lei Estadual nº 11.042/97, a qual reconhece a responsabilidade do Estado do Rio Grande do Sul por danos físicos e psicológicos causados a pessoas detidas por motivos políticos e estabelece normas para que sejam indenizadas, condiciona o direito indenizatório no âmbito administrativo à desistência da demanda ajuizada em face do Estado, para fins de obtenção do mesmo direito.
+7) Assim, considerando o exercício do direito indenizatório na via administrativa, bem como o ajuizamento de demanda na Justiça Federal, a qual contempla os mesmos fatos, havendo sentença favorável ao autor, tenho que não prospera o pedido indenizatório por dano moral formulado nestes autos.
+DUPLA APELAÇÃO. APELAÇÃO DA PARTE RÉ PARCIALMENTE PROVIDA. APELAÇÃO DA PARTE AUTORA PREJUDICADA.
+Os Embargos de Declaração foram desacolhidos (fls. 956-958, e-STJ).
+Carol Majewski afirma que houve, além de divergência jurisprudencial, violação aos arts. 186 e 927 do CC e à Súmula 624/STJ. Sustenta ser possível cumular o valor recebido a título de reparação econômica, concedido através da Lei Estadual 11.042/1997, com indenização por danos morais.
+Contrarrazões às fls. 1019-1031, e-STJ.
+Em parecer às fls. 1.055-1.059, e-STJ, o Ministério Público Federal opina provimento do Recurso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17 de outubro de 2023.
+A irresignação não merece acolhida.
+O Colegiado estadual consignou o exercício de opção instituído pela Lei Estadual 11.042/1997, que condiciona o direito indenizatório, no âmbito administrativo, à desistência da demanda ajuizada em face do Estado. O princípio do venire contra factum proprium veda o comportamento contraditório. Destaco, com propósito acadêmico, a possível incidência do art. 187 do Código Civil.
+No Recurso Especial, por sua vez, a recorrente limitou-se a reiterar genericamente a sua tese de que se trata de dano moral e não impugnou o ponto referente ao condicionamento do direito indenizatório no âmbito administrativo à desistência da ação proposta contra o Estado. Dessa forma, verifica-se que não foram impugnados de maneira específica e suficiente os argumentos do acórdão recorrido, de modo que incide na espécie a Súmula 283/STF.
+Com relação à alegada ofensa à legislação estadual, registre-se que a sua análise é obstada em Recurso Especial, por analogia, pela Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário". Ademais, "a competência para concessão de anistia é exclusiva do poder constituinte originário federal, razão pela qual não é possível que norma constitucional estadual amplie tal benefício" (AR 2.013, Rel. Ministro Edson Fachin, Seção Plenária - STF, DJe 4.5.2017).
+Ao que se observa, a Corte local decidiu em sintonia com a orientação do Superior Tribunal de Justiça de que não é possível a cumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento.
+Confira-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ANISTIA. CUMULAÇÃO DE APOSENTADORIA EXCEPCIONAL DE ANISTIADO COM APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. LEI 10.559/2002. CONTAGEM SIMULTÂNEA DE TEMPO DE SERVIÇO PARA CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. LEI 10.559/2002. IMPOSSIBILIDADE. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DO STJ. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem reconheceu a impossibilidade de cumulação do benefício de aposentadoria excepcional com a aposentadoria previdenciária, uma vez que o tempo de contribuição buscado à concessão da aposentadoria previdenciária será o mesmo utilizado para o benefício excepcional de anistiado.
+2. Ao que se observa, a Corte a quo decidiu em sintonia com a orientação do STJ no sentido de não ser possível a cumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento.
+3. Ademais, a alteração das conclusões adotadas pela Corte regional - no sentido de que se trata de pagamentos com fatos geradores distintos entre si - demanda nova análise do acervo fático-probatório constante dos autos, providência vedada na via especial ante o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 2189125/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15.5.2023)
+O Tribunal a quo, soberano na análise do conjunto fático-probatório dos autos, baseou-se nas particularidades do caso concreto para concluir que a parte autora foi suficientemente indenizada na seara administrativa e negar o pedido de indenização na via judicial.
+Assim, o acolhimento da pretensão recursal no sentido de que é devida a indenização por danos morais demandaria o revolvimento do acervo documental dos autos, o que atrai o óbice da Súmula 7/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
