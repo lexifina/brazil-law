@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Raimundo N onato Rodrigues de Oliveira - condenado como incurso no crime de homicídio qualificado -, em que se aponta como autoridade coatora o Tribunal de Justiça do Amazonas (Ação Penal n. 0003481-73.2006.8.04.0001), não comporta processamento.
+Com efeito, busca a impetração o conhecimento do recurso de apelação, interposto perante a Corte estadual, ao argumento de que não obstante o feito tenha transitado em julgado, não há que se falar em erro grosseiro e sequer na inaplicabilidade do princípio da fungibilidade no ato da interposição do recurso interposto. Quando da elaboração das razões recursais, tanto da peça inaugural das Razões quanto da própria fundamentação na causa de pedir pode-se notare de forma cristalina a indicação do "art. 593, III, "a", do CPP". No entanto, apenas e tão somente na parte dos pedidos fora escrito "art. 393, III, "a", do CPP", tratando-se evidente erro material (fl. 9).
+Ocorre que a via eleita foi indevidamente utilizada como espécie de segunda apelação, na intenção de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, da análise dos autos, não se verifica coação ilegal manifesta, tendo o Tribunal a quo destacado que é sabido que o condenado possui direito de contestar a decisão do juiz-presidente, contudo, considerando que a decisão dos jurados somente pode ser anulada pelo Tribunal nos casos em que ela é manifestamente contrária à prova dos autos, faz-se indispensável que o recorrente aponte a referida contradição, o que não ocorre no caso ora em análise. Nessa toada, constatada a existência de prova hábil a apoiar a condenação da forma que foi posta, não há motivo para desconstituir a competência constitucional atribuída aos jurados, impondo-se a chancela do veredicto (fl. 82 - grifo nosso).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRETENSÃO DE CONHECIMENTO DO RECURSO DE APELAÇÃO INTERPOSTO PERANTE A CORTE ESTADUAL. UTILIZAÇÃO INDEVIDA DA VIA ELEITA.
+Inicial indeferida liminarmente.
