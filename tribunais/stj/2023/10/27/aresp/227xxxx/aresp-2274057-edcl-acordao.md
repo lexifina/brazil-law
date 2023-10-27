@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÃO. ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado. Na espécie, o acórdão hostilizado não ostenta nenhum dos aludidos vícios.
+2. Os requisitos para a consunção entre os crimes de incêndio e explosão e o crime patrimonial não foram analisados pelo acórdão recorrido, e não foram opostos, quanto à questão, embargos de declaração a fim de provocar o debate da matéria na origem, não tendo havido, de fato, o prequestionamento da questão.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MICHEL VIANA SANTOS DA SILVA contra acórdão proferido pela Quinta Turma desta Corte Superior, de minha relatoria, em que foi desprovido, seu agravo regimental (fls. 1303/1325).
+O embargante alega que, no que se refere à apontada afronta aos arts. 250 e 251 do Código Penal, "o acórdão recorrido analisou sim a consunção à luz do roubo" (fl. 1330), tendo o decisum embargado incidido em erro material ao dispor que o tribunal de origem não teria analisado a consunção à luz do crime de roubo.
+Requer o acolhimento dos embargos "para sanar o erro material e analisar a matéria de afronta ao art. 250 e 251 do CP" (fl. 1331).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÃO. ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado. Na espécie, o acórdão hostilizado não ostenta nenhum dos aludidos vícios.
+2. Os requisitos para a consunção entre os crimes de incêndio e explosão e o crime patrimonial não foram analisados pelo acórdão recorrido, e não foram opostos, quanto à questão, embargos de declaração a fim de provocar o debate da matéria na origem, não tendo havido, de fato, o prequestionamento da questão.
+3. Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado, o que não se verifica na hipótese.
+O embargante afirma que o acórdão recorrido teria analisado a alegada consunção entre os crimes de incêndio e explosão com o crime de roubo no seguinte trecho:
+"Da, consunção entes os delitos de explosão, incêndio e desabamento:
+Pugna a defesa pela aplicação do princípio da consunção entre os crimes de explosão, incêndio e desabamento, por entender que foram praticados em um mesmo contexto fático.
+Sobre o citado princípio, leciona o doutrinador Heleno Cláudio Fragoso:
+Há consunção quando um crime é meio necessário ou normal fase de preparação ou de execução de outro crime,  ..  há consunção quando uma lei, conforme seu próprio sentido, inclui já em si o desvalor delictivo de outra, e não permite, por isso, a aplicação desta última. O fundamento que justifica essa exclusão não é uma relação lógica, mas, sim, o próprio sentido das leis em causa, determinado de acordo com uma interpretação valorativa. (Lições de Direito Penal, Editora Forense, V edição, Rio de Janeiro, p. 359).
+Como visto, o princípio da consunção é aplicável quando uma conduta menos grave precede uma mais grave, como meio necessário ou normal para a realização de um crime, o que não se observa no caso em apreço. Isso porque, ainda que os delitos tenham sido praticados em um mesmo contexto fático, conforme se verifica do conjunto de provas, foram cometidos de forma autônoma, não constituindo etapa preparatória ou executória. Tem-se que o incêndio foi praticado para impedir ou, ao menos, dificultar a atuação policial durante o tempo necessário para a consumação do assalto; as explosões foram provocadas não somente para que os criminosos tivessem acesso ao cofre, resultando no desabamento parcial do imóvel da empresa Rodoban, como também nos diversos transformadores da companhia CEMIG, expondo perigo à vida, à saúde e ao patrimônio alheio.
+ .. .
+Ao que se verifica, portanto, é que, embora as condutas tenham se inserido em um mesmo contexto, foram praticadas de forma autônoma, em circunstâncias distintas, sem nexo de dependência ou subordinação entre elas, o que torna descabida a aplicação do princípio da consunção." (fls. 1062/1063)
+Ao julgar os embargos de declaração, o TJ, em obediência ao art. 580 do CPP, estendeu ao ora agravante o reconhecimento da consunção entre os crimes de desabamento e explosão aplicado aos corréus, nos termos do seguinte voto:
+"Com efeito, compulsando o julgamento da apelação criminal de nº 1 1.0701.18.000060-91001, de Relatoria da eminente Desembargadora Mârcia Milanez, a qual sucedo nesta Colenda 6a Câmara Criminal, verifica-se que, na ocasião, foi aplicado o principio da consunção entre o delito de desabamento e o crime de explosão qualificada, tendo sido reestruturadas as penas impostas em desfavor dos corréus Anderson Manoelde Souza, Agnaldo Francisco da Silva Pereira, Càmila Pereira da Silva e Raimundo Aparecido dos Santos.
+Com a devida vênia, embora não coadune com o entendimento da nobre colega pelos fundamentos constantes no acórdão recorrido, julgo que o pleito defensivo comporta provimento, em observância ao disposto no art. 589, do Código de Processo Penal, de acordo com o qual "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Tal circunstância é o que se verifica do presente caso, eis que o ora embargante, nas mesmas circunstâncias fáticas - ressalto, de ordem eminentemente objetivas - das dos demais corréus, provocou explosões que resultaram no desabamento parcial da empresa Rodoban.
+Assim, em estrita observância ao disposto no art. 580, do CPP, reconheço, em favor do acusado Michael, a consunção entre os delitos tipificados no art. 251, §20, primeira parte, e art. 256, caput, ambos do Código Penal, devendo o fato menos grave (desabamento) ser absorvido pelo mais grave (explosão)." (fls. 1105/1106)
+De fato, conforme exposto na decisão agravada, a questão referida à aplicação do princípio da consunção entre os referidos crimes e o delito de roubo não foi examinada de forma específica pela Corte originária, nem mesmo foram opostos embargos de declaração para tal fim, razão pela qual observa-se a ausência de prequestionamento, sendo incidentes os óbices das Súmulas n. 282 e n. 356, ambas do Supremo Tribunal Federal - STF .
+Com efeito, não foi analisado se o incêndio e a explosão seriam etapas necessárias e normais ao crime patrimonial, bem como os demais requisitos da consunção, apenas restou consignado que tais delitos foram cometidos, entre outros motivos, para que os agentes tivessem acesso ao cofre.
+Não há que se falar, assim, em prequestionamento da questão.
+Ante o exposto, voto no sentido de rejeitar os embargos declaratórios.
