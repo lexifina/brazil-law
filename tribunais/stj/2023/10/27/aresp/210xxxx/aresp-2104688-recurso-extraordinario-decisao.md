@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 539):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO DUPLAMENTE MAJORADO. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. CAUSA DE AUMENTO RELATIVA AO EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA. DESNECESSÁRIAS. ELEMENTOS PROBATÓRIOS DIVERSOS (PALAVRA DA VÍTIMA). PRECEDENTES. PLEITO PELO AFASTAMENTO DA MAJORANTE DO USO DE ARMA DE FOGO NA EMPREITADA CRIMINOSA. INVERSÃO DO JULGADO. SÚMULA N. 7/STJ AGRAVO REGIMENTAL DESPROVIDO.
+1. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Nos termos da jurisprudência desta Corte Superior de Justiça, é dispensável a apreensão e a perícia da arma de fogo para a incidência da respectiva causa de aumento de pena no crime de roubo, quando, tal como ocorre na espécie, evidenciada a sua utilização no delito por outros meios de prova, tais como a palavra da vítima ou o depoimento de testemunhas.
+3. De maneira a alcançar conclusão distinta da adotada pelas instâncias ordinárias e afastar a incidência da majorante do emprego de arma de fogo por insuficiência de provas, seria imprescindível reexaminar o arcabouço fático-probatório. Incidência da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVI, XXXIX, XLVI e LIV, da CF e aduz que há repercussão geral da matéria tratada.
+Nesse sentido, alega que esta Corte Superior teria incorrido em ofensa aos princípios do devido processo legal, da segurança jurídica, da legalidade e do in dubio pro reo ao aplicar a Súmula n. 7 do STJ ao presente caso.
+Afirma que a análise da incidência ou não da majorante do emprego de arma de fogo, ante a suposta insuficiência de provas, não requer o revolvimento do conjunto fático-probatório.
+Argumenta que (fl. 560):
+Em que pese o entendimento deste C. STJ acerca da desnecessidade da apreensão de arma de fogo pela incidência da majorante, definitivamente, no escoar da instrução, ficou demonstrado que o recorrente, em momento, algum praticou o crime de roubo com emprego de arma de fogo, não se constatando, ainda, por outros meios de prova o potencial lesivo da suposta arma de fogo, o que viola a regra prevista no art. 155, caput, 156 e 158, ambos do CPP e, consequentemente, violou o devido processo legal.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 574-579.
+É o relatório.
+O STF pacificou o entendimento de que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+É a compreensão vinculante da Suprema Corte, estabelecida no regime de repercussão geral:
+Tema n. 660 do STF: A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta ofensa ao art. 5º, XXXVI e LV, da CF depende da análise da incidência dos dispositivos infraconstitucionais sobre as circunstâncias discutidas no acórdão recorrido, motivo pelo qual se enquadra no Tema n. 660 do STF.
+Quanto ao mais, conforme definido pelo STF, nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que se busque debater o mérito da causa.
+A compreensão é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do Superior Tribunal de Justiça.
+Esse é o entendimento fixado pela Suprema Corte no regime de repercussão geral, como se verifica na seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, o acolhimento da irresignação quanto à necessidade de afastamento da causa de aumento pela utilização de arma de fogo pressupõe a análise dos requisitos de admissibilidade do recurso anteriormente dirigido a esta Corte Superior, porquanto o acórdão impugnado consignou a incidência da Súmula n. 7/STJ no ponto.
+Portanto, eventual afronta à Carta Magna, se existente, seria apenas indireta ou reflexa, na linha da compreensão do STF de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
