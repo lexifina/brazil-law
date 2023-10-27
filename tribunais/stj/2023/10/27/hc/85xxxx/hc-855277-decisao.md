@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de JORGE HENRIQUE DE MENEZES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, o qual rejeitou os Embargos Infringentes e de Nulidade n. 1.0000.22.252993-5/002 nos termos do julgamento que ficou assim resumido (fl. 64):
+"EMBARGOS INFRINGENTES -UNIFICAÇÃO DE PENAS -REINCIDÊNCIA -INTEGRALIDADE DAS PENAS -PERCENTUAL DE CUMPRIMENTO DE PENA-AGENTE REINCIDENTE-1. Conforme orientação jurisprudencial do colendo Superior Tribunal de Justiça e deste egrégio Tribunal de Justiça, a reincidência é circunstância pessoal que afeta a execução como um todo. -2. No juízo de execução, o reconhecimento da condição de reincidente do reeducando deve incidir de modo integral sobre as penas unificadas. V. V. (Des. Nelson Missias de Morais) -Com a unificação das penas, o total da reprimenda deve ser considerado para a obtenção de benefícios na execução, devendo incidir, contudo, sobre cada uma das condenações as frações que lhe cabem, sob pena de ofensa à coisa julgada em prejuízo do réu e do princípio constitucional da individualização das penas."
+A Defensoria Pública sustenta que "a extensão da reincidência à integralidade das penas afronta as garantias constitucionais da individualização das penas (art. 5º, XLVI da Constituição Federal), da coisa julgada (art. 5º, XXXVI da Constituição Federal), bem como contraria as normas contidas no art. 185 da Lei nº 7.210/84, no art. 63 do Código Penal e as novas diretrizes trazidas pelo Pacote Anticrime" (fl. 8).
+Nestes termos, requer a concessão da ordem.
+Prestadas as informações pela autoridade coatora (fls. 75/133 e 137/157), o Ministério Público Federal opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem, em parecer que recebeu a seguinte ementa (fl. 162):
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUSSUBSTITUTIVO DO RECURSO LEGALMENTE CABÍVEL. NÃOCONHECIMENTO. EXECUÇÃO PENAL. REINCIDÊNCIA. CIRCUNSTÂNCIA DE CARÁTER PESSOAL. EXTENSÃOSOBRE A TOTALIDADE DAS PENAS SOMADAS. AUSÊNCIADE ILEGALIDADE FLAGRANTE. NÃO CONHECIMENTO.
+1. Não cabe Habeas Corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo se constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem, de ofício, o que não é o caso dos autos;
+2. Além disso, "A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios""(REsp n. 1.957.657/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.);
+3. Parecer pelo NÃO CONHECIMENTO do writ, e se conhecido, pela DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+O voto condutor no acórdão recorrido assim se posicionou quanto à controvérsia (fls. 66/67):
+"No procedimento de execução da pena, a reincidência é requisito objetivo a ser verificado, bastando a comprovação por meio de documentos idôneos. Basta, para tanto, o cotejo das datas das práticas dos delitos e das respectivas condenações.
+O reconhecimento da reincidência pelo juízo da execução está em consonância com a Lei de Execução Penal (LEP), a qual exige sejam consideradas as diversas condenações, integralmente, para fins de concessão ou denegação de um benefício. Não se configura, nesse caso, violação alguma à coisa julgada.
+Isso porquanto, em se tratando de unificação das penas aplicadas em mais de uma sentença condenatória, a sanção a ser cumprida deve ser considerada no todo, não de modo fracionado. Portanto, a condição de reincidente do agente deve incidir sobre a pena integral, e não sobre cada guia de execução de forma isolada.
+ ..
+Conclui-se, portanto, que a condição de reincidente do reeducando deve ser reconhecida quando da unificação das reprimendas, perante o juízo da execução, devendo incidir sobre a integralidade da pena a ser cumprida. Além disso, deve ser considerada para todos os efeitos no processo de execução penal."
+Verifica-se que o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte, pacífica no sentido de que a reincidência é condição personalíssima e estende-se sobre o total das penas somadas, para fins de análise do requisito temporal na concessão de benefícios prisionais. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO DAS PENAS. REINCIDÊNCIA. REPERCUSSÃO NA TOTALIDADE DAS PENAS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. MANUTENÇÃO DA DECISÃO MONOCRÁTICA. AGRAVO DESPROVIDO.
+1. "A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios" (REsp n. 1.957.657/MG, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.)
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.130.985/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 24/4/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. PROGRESSÃO. LEI N. 13.964/2019. APLICAÇÃO DO PERCENTUAL MAIS GRAVOSO, EM RAZÃO DA REINCIDÊNCIA, PARA A CONCESSÃO DA BENESSE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - A jurisprudência deste Superior Tribunal de Justiça é firme ao declarar que a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas. Precedentes.
+III - Não se vislumbra na espécie constrangimento ilegal apto para a concessão da ordem de ofício.
+Agravo regimental desprovido.
+(AgRg no HC 616.696/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 18/12/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. REINCIDÊNCIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. UNIFICAÇÃO DE PENAS. POSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A "prolação de decisão monocrática por relator não viola o princípio da colegialidade, tendo em vista a existência de possibilidade de submissão do julgado ao órgão colegiado, mediante a interposição de agravo regimental" (AgRg no HC 335.457/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/10/2018, DJe 09/11/2018).
+2. A jurisprudência dessa Corte Superior é firme no sentido de que, se houver novas condenações no curso da execução penal, a reincidência do Apenado deve ser reconhecida no momento da unificação das penas, se estendendo sobre a totalidade das reprimendas somadas e repercutindo na concessão dos benefícios executórios.
+3. Não importa, portanto, que o Apenado tenha sido considerado primário na condenação anterior, tendo em vista que a análise das circunstâncias pessoais (reincidência ou primariedade) é de competência do juízo da execução no momento do deferimento, ou não, dos benefícios.
+4. Agravo regimental desprovido.
+(AgRg no HC 498.546/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 11/06/2019).
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, com base no art. 34, XX, do Regimento interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
