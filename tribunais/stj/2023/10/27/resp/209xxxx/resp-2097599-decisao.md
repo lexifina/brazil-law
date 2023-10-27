@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo COMÉRCIO DE COMBUSTÍVEIS CARLOS BARBOSA LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e- STJ fl. 196):
+TRIBUTÁRIO. ICMS-ST. EXCLUSÃO DA BASE DE CÁLCULO DO PIS/COFINS. INCLUSÃO DO ICMS-ST PARA APURAR CRÉDITOS DO PIS/COFINS. INADMISSIBILIDADE.
+1. O contribuinte substituído tr ibutário não tem o direito de excluir da base de cálculo do PIS/COFINS o montante correspondente ao ICMS-ST. Precedentes de ambas as Turmas da 1ª Seção, julgados na sistemática do art. 942 do CPC.
+2. O contribuinte substituído tributário não tem o direito de apurar créditos de PIS/COFINS sobre o ICMS-ST incidente na aquisição de mercadorias para revenda. Precedentes da 2ª Turma julgados pela sistemática do art. 942 do CPC
+Passo a decidir.
+Verifico que a Primeira Seção desta Corte, na sessão virtual finalizada em 07/12/2021, submeteu a questão jurídica referente à "possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído" à sistemática dos recursos repetitivos, em virtude da afetação do tema como representativo da controvérsia (REsps 1.958.265/SP e 1.896.678/RS) - Tema 1.125.
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, rel. Ministro Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/0 5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, rel. Ministro Regina Helena Costa, DJe 17/03/2016; REsp 1.533.443/RS, rel. Ministro Benedito Gonçalves, DJe 17/03/2016.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
