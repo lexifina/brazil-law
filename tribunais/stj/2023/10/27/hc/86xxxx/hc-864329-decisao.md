@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de AURELIANO ALEXANDRE DA SILVA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco.
+Consta dos autos que o juízo de primeiro grau deferiu o pedido do trabalho externo harmonizado.
+O representante do ministério público insatisfeito com a decisão entrou com agravo a execução que foi julgado procedente para revogar o regime semiaberto harmonizado, determinando o retorno do paciente ao regime semiaberto.
+Neste writ, o impetrante alega que a autorização para o trabalho externo junto à referida empresa privada é medida impositiva, pois o paciente preenche todos os requisitos subjetivos e objetivos para concessão do trabalho fora do presídio, pois possui bom comportamento (e-STJ, fl. 4).
+Aduz que o requisito objetivo de cumprimento de 1/6 (um sexto) da pena tem sido afastado na hipótese dos apenados do regime semiaberto que postulam o trabalho externo.
+Sustenta que a demora para que ele possa voltar a trabalhar possa fazer com que ele perca essa oportunidade de emprego diante da fixação do regime inicial semiaberto para o cumprimento da pena privativa de liberdade, não tem motivos para que ele não possa trabalhar.
+Pede, em caráter liminar e no mérito, o retorno do paciente ao regime semiaberto harmonizado.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão da ordem, de ofício.
+O Tribunal Estadual manteve a decisão do Juízo da execução que reconheceu a falta grave praticada pelo reeducando, aos seguintes fundamentos:
+"Apesar da justificativa apresentada pelo Juízo de Execuções Penais, entendo que a situação do requerente não se encaixa em nenhuma das hipóteses que permitem a aplicação do regime semiaberto harmonizado.
+Isto porque, o reeducando sequer está próximo de atingir o requisito objetivo para progredir para o regime aberto, o que possibilitaria uma melhor análise quanto ao cumprimento dos requisitos necessários à progressão de regime.
+O agravado foi preso em 05/06/2009, com progressão de regime para o semiaberto em 12/01/202 2 e data provável de progressão para o regime aberto em 01/08/2028 .
+Dessa feita, consoante atestado de pena colacionado, a previsão de progressão de regime para o réu seria apenas em 01/08/2028, de modo que, na hipótese dos autos, a concessão do regime semiaberto harmonizado esvaziou o atributo retributivo da pena, violando a prevenção geral e especial da sanção penal, vez que o mencionado beneficio foi concedido com pouco menos de um ano do inicio da execução da pena em regime semiaberto.
+Outrossim, embora tenha havido proposta formal de emprego pela empresa Rafael Rabelo Martins, CNPJ 32465351/0001-64(Frigorifico Bom de Preço), observo que a proposta de emprego é para exercer a função de entregador, em horário comercial, função que, em meu entender, torna sem sentido a aplicação do monitoramento eletrônico.
+Por fim, destaco que, de acordo com a Lei de Execução Penal, a autorização de prisão domiciliar é uma situação excepcional, mesmo para os condenados em regime aberto. É cediço que a jurisprudência exige extremo rigor para sua concessão aos apenados em cumprimento de regime mais gravoso.
+Pelo exposto, DOU PROVIMENTO ao agravo em execução para cassar a decisão do Juízo das Execuções, determinando seja ele imediatamente comunicado desta decisão" (e-STJ, fl. 18-19).
+No caso, Conforme jurisprudência desta Corte Superior, não há falar em regime semiaberto harmonizado diante da existência de vaga em regime compatível com o fixado para o apenado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. ALEGADA AUSÊNCIA DE VAGAS NO ESTABELECIMENTO PENAL ADEQUADO. CONCESSÃO DE PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. INVIABILIDADE. FALTA DE OBSERVÂNCIA AOS PARÂMETROS TRAÇADOS NO RE N. 641.320/RS E NO RESP REPETITIVO N. 1.710.674/MG. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior de Justiça, no julgamento do Recurso Especial Repetitivo n. 1.710.674/MG, firmou a tese de que a inexistência de vaga em estabelecimento prisional adequado não autoriza a imediata liberação do apenado para a prisão domiciliar, sendo imprescindível que tal medida seja precedida de outras providências, tais como a saída antecipada de outros sentenciados no regime com falta de vagas, abrindo-se, assim, vagas para os reeducandos que acabaram de ingressar no regime.
+2. Na hipótese, o Agravante cumpre pena de 19 (dezenove) anos, 7 (sete) meses e 20 (vinte) dias de reclusão, pela prática dos crimes de homicídio qualificado, roubo majorado e dois furtos. Na data em que foi deferida a progressão ao regime semiaberto e, de plano, a prisão domiciliar com monitoramento eletrônico, o Apenado ainda possuía saldo extenso de pena a ser cumprido (mais de dez anos de reclusão).
+3. "Eventual ausência de estabelecimento adequado na comarca não autoriza a automática concessão de regime aberto ou domiciliar. Incidência da Súmula Vinculante 56/STF, ao enunciar que "a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.."" (STF, HC 141.648/SP, Rel. Min. MARCO AURÉLIO, Relator p/ Acórdão: Min. ROBERTO BARROSO, Primeira Turma, DJe 8/2/2019).
+4. Agravo regimental desprovido."
+(AgRg no HC n. 595.966/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/3/2021, DJe de 25/3/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXISTÊNCIA DE VAGA EM ESTABELECIMENTO COMPATÍVEL COM O REGIME SEMIABERTO. SÚMULA VINCULANTE N. 56 DO STF. OBSERVÂNCIA. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA NA AÇÃO CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+1. O Tribunal de Justiça decidiu a controvérsia em consonância com a Súmula Vinculante n. 56, a qual determina que "A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar nessa hipótese os parâmetros fixados no RE 641.320".
+2. Consoante o registro do acórdão, existe vaga para o agravante em estabelecimento destinado ao cumprimento da pena em regime fechado, mas que é compatível com o regime semiaberto, uma vez que há separação física entre os detentos, possibilidade de realização de trabalho externo e, quando preenchidos os requisitos legais, de fruição de saídas temporárias.
+3. O acórdão analisou inspeção judicial realizada no estabelecimento prisional e mencionou apenas irregularidades na arquitetura da edificação e nas ligações entre as galerias e os cubículos, o que não comprova desrespeito às regras do regime intermediário.
+4. O habeas corpus não é instrumento adequado para dirimir controvérsia fática acerca das condições da penitenciária.
+5. Agravo regimental não provido."
+(AgInt no HC n. 402.765/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/8/2017)
+Conforme destacado pelo Tribunal local, o apenado já se encontrava em regime semiaberto, em estabelecimento adequado, não havendo razões para inseri-lo na excepcionalidade do regime semiaberto harmonizado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
