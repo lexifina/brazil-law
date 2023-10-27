@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA VARA DOS FEITOS DE RELAÇÕES DE CONSUMO, CÍVEIS E COMERCIAIS DE MIGUEL CALMON - BA, ora suscitante, e o JUÍZO DA VARA DO TRABALHO DE JACOBINA - BA, ora suscitado.
+Consta dos autos que foi proposta reclamação trabalhista por HAYALA FERNANDES DA SILVA MIRANDA, contratado para exercer a função professora, postulando direitos laborais na Justiça Especializada que declarou a incompetência da Justiça Trabalhista e remeteu os autos para a Justiça Comum (e-STJ fls. 96/97), que suscitou o presente conflito de competência (e-STJ fls. 245/249).
+Manifestou-se o Ministério Público Federal pelo conhecimento do conflito, para que seja declarado competente o Juízo Especializado (e-STJ fls. 257/260).
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, Relator Min. LUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, Rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que, "se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos" (AgRg no CC 126.125/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, DJe 30/04/2014).
+A esse respeito, cito, ainda, o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. SERVIDOR PÚBLICO ESTADUAL. CONTRATAÇÃO SOB O REGIME CELETISTA. PRECEDENTES DO STJ. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. DECISÃO MONOCRÁTICA FUNDAMENTADA EM JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Vínculo de trabalho reconhecido. Pagamento de diferenças relativas à rubrica "parcela autônoma", decorrente de contrato de trabalho. Incidência sobre proventos de aposentadoria. Manutenção do caráter celetista da verba. Competência da Justiça Laboral.
+2. A decisão monocrática ora agravada baseou-se em jurisprudência do STJ, razão pela qual não merece reforma.
+3. Agravo regimental não provido. (AgRg CC 139.509/RS, Min. MAURO CAMPBELL MARQUES, DJe 03/09/2015).
+No caso, verifica-se dos autos que o ente municipal adotou o regime celetista - Lei 168/2002 (e-STJ fls. 246), o que atrai a competência da Justiça Obreira para julgar o feito.
+Cito, ainda, as seguintes decisões monocráticas: CC 170.707/BA Rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 03/03/2020; CC: 170.706/BA 2020/0028178-8, de minha relatoria, DJe 03/03/2020; CC 144.994/MG, Rel. Min. REGINA HELENA COSTA, Primeira Seção, DJe 11/03/2016.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DA VARA DO TRABALHO DE JACOBINA - BA, ora suscitado.
+Intimem-se. Publique-se.
+EMENTA
