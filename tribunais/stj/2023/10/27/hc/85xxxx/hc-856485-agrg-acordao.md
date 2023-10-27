@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. TRÁFICO DE DROGAS. PRISÃO. FUNDAMENTAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão foi mantida pelo Tribunal estadual em caráter cautelar em razão da periculosidade do agravante, porquanto foi flagrado com drogas e ostenta um histórico consolidado com o comércio de drogas, com vários registros e condenação. Além disso, o material aprendido continha inscrições que indicam o envolvimento com a facção criminosa violenta denominada comando vermelho, contexto que justifica a prisão preventiva para resguardar a ordem pública. Ausência de flagrante ilegalidade.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por UILSON FERREIRA contra decisão da Presidência desta Corte que indeferiu liminarmente o habeas corpus (e-STJ fls. 49/52).
+Segundo consta dos autos, o agravante foi preso cautelarmente no dia 28/2/2023 e denunciado pela suposta prática do crime de tráfico de drogas.
+Nas razões do presente recurso, a defesa alega, em resumo, não haver motivos legais, com base na norma processual penal, para a decretação da prisão preventiva do agravante, flagrado com 5,7g de crack, que foi apreendido em um terreno baldio.
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja julgado para conceder a ordem de soltura em favor do paciente.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 691 DO STF. TRÁFICO DE DROGAS. PRISÃO. FUNDAMENTAÇÃO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão foi mantida pelo Tribunal estadual em caráter cautelar em razão da periculosidade do agravante, porquanto foi flagrado com drogas e ostenta um histórico consolidado com o comércio de drogas, com vários registros e condenação. Além disso, o material aprendido continha inscrições que indicam o envolvimento com a facção criminosa violenta denominada comando vermelho, contexto que justifica a prisão preventiva para resguardar a ordem pública. Ausência de flagrante ilegalidade.
+3. Agravo regimental a que se nega provimento.
+VOTO
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão de primeiro grau (e-STJ fls. 41):
+As circunstâncias abarcadas no presente processo, são de extrema gravidade, traduzem lesividade social e causam temor para a coletividade, passível de comprometer a ordem pública, notadamente pela comprovação de repetição de condutas análogas. O acusado possui outras passagens pela prática do crime de tráfico de drogas, com condenação, já tendo sido preso em flagrante, inclusive, pelo que se observa o seu consolidado envolvimento com o comércio de entorpecente. Outrossim, cumpre ressaltar que o material apreendido continha inscrições que apontam o envolvimento do acusado com a facção criminosa Comando Vermelho, responsável por inúmeros homicídios cometidos em nossa região, especialmente em razão da disputa pelo domínio de pontos de venda de drogas.
+Diante de tais circunstâncias, a custódia cautelar se mostra imprescindível para a conveniência da instrução criminal, para a manutenção da ordem pública e para a garantia da aplicação da lei penal. Ressalte-se, ainda, que não há comprovação de que ele tenha residência no domicílio da culpa e, sobretudo, comprovação de que exerça atividade lícita.
+Assim se manifestou o Relator ao indeferir a liminar (e-STJ fls. 26/27):
+O fato é grave, envolvendo crime de tráfico de drogas.
+O paciente possui outras anotações, inclusive uma condenação anterior por crime de mesma natureza, sendo reincidente específico. Sua ficha penal evidencia que estava em liberdade quando voltou a ser preso.
+Necessária portanto, a cautela prisional do paciente para a garantia da ordem pública e conveniência da instrução criminal, ainda que ciente da excepcionalidade da restrição da liberdade das pessoas.
+Ademais, inexiste risco de ineficácia da medida (periculum in mora), sendo recomendável aguardar a apreciação pelo Colegiado.
+Como visto, a prisão foi mantida pelo Tribunal em caráter cautelar em razão da periculosidade do agravante, visto que foi flagrado com drogas e ostenta um histórico consolidado com o comércio de drogas, com vários registros e condenação. Além disso, o material aprendido continha inscrições que indicam o envolvimento com a facção criminosa violenta denominada comando vermelho, contexto que justifica a prisão preventiva para resguardar a ordem pública.
+A propósito, "O histórico criminal do agente, a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC 304.240/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/05/2015, DJe 14/5/2015.)
+Além disso, "justifica-se a decretação da prisão preventiva de membros de organização criminosa, como forma de desarticular e interromper as atividades do grupo". (AgRg no HC n. 728.450/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 09/08/2022, DJe 18/08/2022).
+Assim, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular. Com efeito, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
