@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Reclamação com pedido de liminar, ajuizada por Francisca Maciel de Menezes contra a Primeira Turma Recursal Mista do Tribunal de Justiça do Estado de Mato Grosso do Sul, com a qual objetiva garantir a autoridade de decisum desta Corte Superior nos autos dos Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC, submetidos à sistemática do Incidente de Assunção de Competência (IAC 14).
+Sustenta a reclamante que o juízo a quo desrespeitou a orientação do Superior Tribunal de Justiça ao dar provimento ao Recurso Inominado do Estado de Mato Grosso do Sul, pois determinou a inclusão da União no polo passivo de demanda com vistas ao fornecimento de medicamento não padronizado pelo Sistema Único de Saúde - SUS, bem como remeteu os autos à Justiça Federal (fl. 175, e-STJ).
+O acórdão foi assim ementado:
+EMENT A  RECURSO INOMINADO  AÇÃO DE OBRIGAÇÃO DE FAZER  DIREITO À SAÚDE (ART. 196 DA CF/88)  FORNECIMENTO DE MEDICAMENTO NÃO PADRONIZADO NAS POLÍTICAS PÚBLICAS IMPLEMENTADAS PELO SISTEMA ÚNICO DE SAÚDE (SUS)  AQUISIÇÃO CENTRALIZADA PELO MINISTÉRIO DA SAÚDE (GRUPO 1A)  NECESSIDADE DE INCLUSÃO DA UNIÃO NA RELAÇÃO PROCESSUAL  TESE FIRMADA NO RE N.º 855.178 (TEMA 793)  REMESSA DOS AUTOS À JUSTIÇA FEDERAL  MANUTENÇÃO DOS ATOS PRATICADOS  RECURSO PROVIDO.
+A parte requer a suspensão do ato judicial impugnado a fim de que o feito em apreço permaneça na Justiça Estadual, em observância às determinações impostas no IAC 14 do STJ.
+Liminar deferida às fls. 223-225, e-STJ.
+Contestação às fls. 254-268, e-STJ.
+Informações prestadas às fls. 277-288, e-STJ.
+Parecer do Ministério Público Federal pela procedência da Reclamação às fls. 317-322, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6 de outubro de 2023.
+Nos termos do art. 105, I, "f", da Constituição Federal, c/c o art. 988 do CPC/2015 e do art. 187 do RISTJ, cabe Reclamação da parte interessada para preservar a competência do Superior Tribunal de Justiça e garantir a autoridade de suas decisões, bem como para "assegurar a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência".
+No caso em espécie, vislumbra-se a ocorrência de descumprimento do aresto proferido no Incidente de Assunção de Competência 14 do STJ.
+Na peça exordial, a reclamante alega que o Juízo reclamado descumpriu a decisão exarada nos Conflitos de Competência 187.276/RS, 187.533/SC e 188.002/SC, submetidos à sistemática do Incidente de Assunção de Competência, nos quais se estabeleceu a manutenção do curso das ações relativas ao fornecimento de tratamento/medicamento não incluído nas políticas públicas, visto que a suspensão dos feitos poderia causar dano de difícil reparação àqueles que necessitam da tutela do direito à saúde.
+Naquela ocasião, deliberou-se ainda que, havendo Conflito de Competência, fica, nos termos do art. 955 do CPC/2015, designado o Juízo Estadual para decidir em caráter provisório as medidas urgentes referentes aos processos em comento. E, no julgamento da questão de ordem suscitada nos referidos Conflitos, determinou-se expressamente que, até o julgamento definitivo do IAC 14/STJ, o Juiz Estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao daqueles autos, em atenção ao princípio da segurança jurídica, de modo que o feito deve prosseguir na jurisdição estadual.
+Na hipótese dos autos, o Juízo Estadual determinou que a inclusão da União no polo passivo lide após o julgamento da aludida questão de ordem, de modo que contrariou o que foi decidido no IAC 14. Portanto, a presente Reclamação deve ser julgada procedente. Nesse sentido: Rcl 44.321/MG, Rel. Ministro Gurgel de Faria, DJe 18.11.2022; Rcl 44.240/MG, Rel. Ministro Mauro Campbell Marques, DJe 18.11.2022; e Rcl 44.306/MG, Rel. Ministra Assusete Magalhães, DJe 11.11.2022.
+Por oportuno, cumpre notar que a Segunda Seção do Superior Tribunal de Justiça, ao julgar a Rcl 40.617/GO (Rel. Ministro Marco Aurélio Bellizze, DJe 26.8.2022), definiu que não se exige o esgotamento das instâncias ordinárias como pressuposto para o conhecimento da Reclamação fundamentada em descumprimento de acórdão prolatado em Incidente de Assunção de Competência.
+Na ocasião do julgamento, ressaltou-se que, nas Reclamações direcionadas ao STJ, o exaurimento das instâncias ordinárias somente constitui pressuposto de conhecimento quando a ação é proposta com a finalidade de preservar a competência do Tribunal, conforme disposto no art. 988 do CPC/2015 e no art. 187 do RI/STJ.
+Ante o exposto e em confirmação à liminar, dou provimento à Reclamação para suspender os efeitos da decisão reclamada e determino a manutenção em curso a ação instaurada na Justiça Estadual.
+Publique-se.
+Intimem-se.
+EMENTA
