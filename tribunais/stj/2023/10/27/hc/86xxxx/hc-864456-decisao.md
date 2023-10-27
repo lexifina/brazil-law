@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se se habeas corpus, com pedido liminar, impetrado em favor de ANTÔNIO JAIRO CHAVES FREITAS apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios.
+Consta dos autos que o paciente foi condenado como incurso no art. 2º da Lei n. 12.850/2013 e no art. 1º, § 1º, inciso I, e § 2º, inciso II, da Lei n. 9.613/1998, à pena de 8 anos e 2 meses de reclusão, em regime fechado. Irresignada, a defesa interpôs recurso de apelação, ao qual se deu parcial provimento, para reduzir a pena para 7 anos e 6 meses de reclusão, em regime semiaberto.
+Foram opostos embargos de declaração, os quais foram rejeitados.
+No presente mandamus, a defesa aduz, em síntese, que o acórdão impugnado "foi omisso no sentido de não indicar a provas que demonstraria ter o Paciente concorrido para os crimes", se limitando a indicar a condição de proprietário da empresa AUTOFORT, o que revela responsabilidade penal objetiva.
+Pugna, inclusive liminarmente, pela anulação do acórdão impugnado, com renovação do julgamento do recurso de apelação.
+É o relatório. Decido.
+De plano, verifico que foi interposto anteriormente perante esta Corte Superior o Agravo em Recurso Especial n. 2.424.401/DF, pelo mesmo causídico, em benefício do ora paciente, impugnando o mesmo acórdão, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir. Em 3/10/2023, o agravo foi conhecido para negar provimento ao recurso especial.
+Constata-se, assim, que o presente mandamus é mera reiteração do recurso próprio já interposto e examinado, motivo pelo qual não é possível conhecer da impetração. De fato, é "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+No mesmo sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE. 1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015. 2. Agravo regimental improvido. (AgRg no RCD no HC 329.224/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/09/2015, DJe 22/09/2015).
+Pelo exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
