@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANDRÉ LUIZ BRAGANTE, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"CUMPRIMENTO DE SENTENÇA. PENHORA DE VALOR EXISTENTE EM CONTA CORRENTE. INSURGÊNCIA DO EXECUTADO. MANUTENÇÃO. POSSIBILIDADE DE PENHORA. AUSÊNCIA DE OUTROS BENS PASSÍVEIS DE CONSTRIÇÃO. NÃO DEMONSTRADO QUE O VALOR POSSUI CARÁTER ALIMENTAR. INTERPRETAÇÃO EXTENSIVA DO ART. 833, X, CPC, AFASTADA, À LUZ DO CASO CONCRETO. PRECEDENTES DO TJSP E DO STJ. AGRAVO DE INSTRUMENTO NÃO PROVIDO" (fl. 59 e-STJ).
+Nas razões do recurso especial, o recorrente alega, além de divergência jurisprudencial, a violação do artigo 833, X, do Código de Processo Civil.
+Sustenta que "(..) o legislador foi categórico em identificar que é impenhorável o valor guardado em conta poupança de até 40 salários-mínimos, conforme predispõe o artigo 833, X, do CPC, algo ignorado e completamente contrariado pelo tribunal a quo" (fl. 67 e-STJ).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+A Corte Especial do Superior Tribunal de Justiça, em julgamento recente, consolidou a jurisprudência no sentido de que é possível a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, desde que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+Referido precedente ficou assim ementado:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos."
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.)
+No caso dos autos, o acórdão mitigou a impenhorabilidade, registrando que não há outro meio de satisfazer a penhora e que não identificou o comprometimento da subsistência digna do executado, nos seguintes termos:
+"(..) no caso concreto, há circunstâncias que impedem a aplicação do referido entendimento. A interpretação extensiva da norma é assim para a proteção daqueles de boa-fé e que realmente precisam dos valores poupados.
+As alegações do agravante, limitadas a argumentos objetivos, quando em face do próprio princípio da eventualidade (ônus de trazer todos os argumentos possíveis em sua defesa) leva a crer que não existem outros argumentos que sustentem a impenhorabilidade alegada, reforçando a intenção de não pagar, ante ao não pagamento após a primeira intimação e não indicação de outros bens à penhora.
+Além disso, nos autos do Processo nº 1000057-96.2022.8.26.0594, que tramita junto à 1ª Vara Cível da Comarca de Bauru, o agravante afirma na inicial que efetua com frequência transferências vultosas a seus filhos, razão pela qual não estranhou o pedido para realização de pix imediato no valor total de quase R$35.000,00. Importante mencionar que referida demanda visa o ressarcimento da quantia, tendo em vista que o mesmo foi vítima de um golpe.
+Ora, o agravante encontra-se inadimplente com sua obrigação, sob o argumento de precariedade financeira, porém, dispõe de R$35.000,00 para transferir ao seu filho. Dessa forma, conclui-se que a quantia bloqueada, cerca de 25% do valor disponibilizado ao filho, não se prestam ao pagamento de contas de consumo e não eram destinados à sua subsistência.
+Ademais, em extrato colacionado aos autos da conta corrente junto ao Banco Bradesco, percebe-se grande movimentação, ressaltando que a origem dos depósitos não foi esclarecida. Por fim, não há notícia de outros bens do executado passíveis de penhora, tampouco demonstrou o agravante a essencialidade do valor constrito para a sua subsistência ou sua natureza salarial ou previdenciária, de forma que torna-se possível a manutenção da constrição do valor do saldo devedor como forma de tornar efetiva a tutela jurisdicional" (fls. 60/61 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Não cabe a este Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto, não conheço do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015) porque o recurso especial é oriundo de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
