@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de DEIVID MARVELINO MACIEL e JULIANO VICENTE NEINAS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que os pacientes foram condenados à pena de 2 anos, 1 mês e 15 dias de reclusão, em regime aberto, como incursos nas sanções do artigo 14, caput, da Lei n.º 10.826/03, na forma do artigo 29, caput, do Código Penal. A pena privativa de liberdade foi substituída por penas restritivas de direitos (e-STJ, fls. 11-16).
+A defesa apelou, tendo o recurso sido desprovido, nos moldes da seguinte ementa:
+"APELAÇÕES CRIME. PORTE ILEGAL DE ARMA DE FOGO. MATERIALIDADE E AUTORIA DEMONSTRADAS. DINÂMICA FÁTICA, ALIADA ÀS PALAVRAS UNÍSSONAS DOS POLICIAIS, QUE INDICOU OS RÉUS COMO AUTORES DO DELITO. CONDENAÇÃO MANTIDA. PENAS. PEQUENO AFASTAR DA BASE DEVIDAMENTE FUNDAMENTADO. APELOS DEFENSIVOS IMPROVIDOS." (e-STJ, fl. 51)
+Neste habeas corpus, alega o impetrante, em síntese, constrangimento ilegal decorrente da indevida exasperação da pena-base dos pacientes pela análise desfavorável da culpabilidade, porém com amparo em fundamento inidôneo.
+Requer a concessão da ordem a fim de que a pena-base dos pacientes seja redimensionada.
+Indeferido o pedido de liminar (e-STJ, fls. 62-63).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 113-115).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Extrai-se o seguinte da sentença condenatória e do acórdão impugnado acerca da dosimetria, respectivamente:
+"Atento aos vetores do artigo 59, do Código Penal, reclama especial consideração a culpabilidade do réu, dado o caráter amplamente reprovável da conduta por ele praticada, dados os riscos inerentes à conduta, além de a presença de arma de fogo sempre comprometer a segurança - garantia constitucional -, e uma efetiva cultura de paz - objetivo maior de toda sociedade civilizada. Além disso, absolutamente plenas as condições de consciência do acusado em relação a tal comportamento - e seu caráter especialmente reprovável. Os antecedentes, à época, eram favoráveis. No que tange a conduta social e à personalidade do agente, não aportaram provas capazes de especificar tais aspectos, também nada havendo a revelar especial condição dos motivos do crime, com as consequências e circunstâncias também sendo ordinárias à espécie criminosa, para a qual o comportamento da vítima não tem relevo. Assim, fixo a pena-base em 2 anos, 1 mês e 15 dias de reclusão e 12 dias-multa, a qual, na ausência de agravantes e atenuantes,mantenho provisoriamente, por fim tornando-a definitiva, diante da ausência de outras causas modificativas da pena." (e-STJ, fl. 14)
+"A fundamentação é plenamente adequada ao caso concreto, estando bem delineado pelo Eminente Julgador os motivos pelos quais afastadas as penas-bases de seus mínimos, com os quais compactuo.
+Não há, da mesma forma, excesso que demande revisão, sendo mantidas as sanções." (e-STJ, fl. 49)
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados pela lei, sendo permitido ao julgador, contudo, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria.
+Na hipótese, observa-se que o Juízo sentenciante considerou de forma negativa a culpabilidade, exasperando a pena-base dos pacientes em 1 mês e 15 dias.
+Contudo, em que pese a existência de certo grau de discricionariedade do julgador no cálculo da pena, verifica-se que a decisão impugnada carece de motivação válida quanto à análise desfavorável do vetor acima citado.
+No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito.
+No caso, não foi declinado nenhum elemento concreto que pudesse ensejar a valoração negativa de tal vetorial, limitando-se o Juízo sentenciante a afirmar, de forma abstrata e genérica, a reprovabilidade da conduta prevista no tipo penal imputado aos pacientes.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E FURTO QUALIFICADO. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO. PENA-BASE DE AMBOS OS DELITOS ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+ ..
+5. No tocante à culpabilidade, para fins de individualização da pena, esta deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, a maior ou menor censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito. Na hipótese dos autos, não foi declinado pelo magistrado nenhum elemento concreto que pudesse ensejar a valoração negativa de tal vetorial.
+ ..
+7. Agravo regimental desprovido. Concessão de habeas corpus, de ofício, para fixar as penas-base em seus mínimos legais, redimensionando a pena do recorrente para 7 anos e 4 meses de reclusão, no regime inicial semiaberto, e pagamento de 23 dias-multa, mantidos os demais termos da condenação. A teor do art. 580 do CPP, extensão dos efeitos da ordem ao corréu."
+(AgRg no AREsp n. 2.340.774/PA, minha relatoria, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+Dessa forma, não foram utilizados fundamentos idôneos que justificassem a elevação da pena-base dos pacientes.
+Portanto, constatada flagrante ilegalidade, passo ao novo cálculo da pena dos pacientes pelo crime do art. 14, caput, da Lei n. 10.826/2003.
+Na primeira fase, não subsistindo mais circunstância judicial desfavorável, fixo a pena-base em 2 anos de reclusão e 10 dias-multa, quanto que se torna definitivo ante a inexistência de circunstâncias agravantes ou atenuantes ou de causas de aumento ou diminuição de pena.
+Ficam mantidos o regime inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para reduzir a pena final dos pacientes para 2 anos de reclusão e 10 dias-multa.
+Publique-se. Intimem-se.
+EMENTA
