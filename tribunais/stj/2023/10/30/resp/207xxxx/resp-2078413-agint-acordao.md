@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS À EXECUÇÃO. ARBITRAMENTO ÚNICO. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Nos termos do entendimento firmado no âmbito desta Corte de Justiça, "Nas hipóteses de procedência parcial ou integral dos embargos, é possível a fixação única dos honorários no julgamento dos embargos, desde que se estipule que o valor fixado atenda à execução e aos embargos e a soma dos percentuais obedeça aos limites fixados na legislação" (AgInt no AgInt no REsp n. 1.845.359/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+2. Tendo o acórdão afirmado expressamente a suficiência dos valores arbitrados a título de honorários advocatícios, é certo que a alteração das premissas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por CONDE E SICILIANO ADVOGADOS desafiando decisão pela qual conheci em parte do recurso especial e, na parte conhecida, neguei-lhe provimento, por entender que, tendo o acórdão afirmado expressamente a suficiência dos valores arbitrados a título de honorários advocatícios, a alteração das premissas adotadas demandaria novo exame do acervo fático-probatório constante dos autos (Súmula 7/STJ).
+Em suas razões, a parte agravante sustenta que "o presente recurso não tem como objeto a análise do mérito da Execução Fiscal julgada no tribunal de origem, mas apenas pretende que este Tribunal Superior reafirme o seu entendimento pacificado quanto a necessidade de condenação da Agravada ao pagamento de honorários nos autos da Execução Fiscal, ação esta autônoma dos Embargos à Execução" (fl. 334).
+A parte agravada não apresentou impugnação (fl. 350).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS À EXECUÇÃO. ARBITRAMENTO ÚNICO. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Nos termos do entendimento firmado no âmbito desta Corte de Justiça, "Nas hipóteses de procedência parcial ou integral dos embargos, é possível a fixação única dos honorários no julgamento dos embargos, desde que se estipule que o valor fixado atenda à execução e aos embargos e a soma dos percentuais obedeça aos limites fixados na legislação" (AgInt no AgInt no REsp n. 1.845.359/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+2. Tendo o acórdão afirmado expressamente a suficiência dos valores arbitrados a título de honorários advocatícios, é certo que a alteração das premissas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não prospera.
+Com efeito, nos termos do entendimento firmado no âmbito desta Corte de Justiça, "Nas hipóteses de procedência parcial ou integral dos embargos, é possível a fixação única dos honorários no julgamento dos embargos, desde que se estipule que o valor fixado atenda à execução e aos embargos e a soma dos percentuais obedeça aos limites fixados na legislação" (AgInt no AgInt no REsp n. 1.845.359/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023). Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO POR LITISPENDÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO. CUMULAÇÃO COM HONORÁRIOS DOS EMBARGOS À EXECUÇÃO. FIXAÇÃO UNA PARA AS DUAS AÇÕES. POSSIBILIDADE. IRRISORIEDADE. REEXAME FÁTICO-PROBATÓRIO.
+1. Por serem ações distintas, é possível fixar honorários de sucumbência por ocasião da extinção da execução fiscal e, concomitante, por ocasião do julgamento dos embargos do devedor correlatos, desde que respeitados os limites percentuais e parâmetros legalmente previstos. Não obstante, pode haver fixação única da verba de sucumbência, a qual englobará as duas ações.
+Precedentes.
+2. "Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados, por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo" (AREsp 1423290/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 17/09/2019, DJe 10/10/2019).
+3. Na hipótese de extinção do processo, em razão de litispendência, o proveito econômico não está vinculado ao valor do crédito tributário, não sendo este, pois, parâmetro para se afirmar irrisória a verba honorária.
+4. No caso dos autos, ao tempo que se verifica que o Tribunal Regional Federal decidiu a respeito da verba honorária ponderando sobre sua aplicação a ambas as ações, extintas sem resolução do mérito, nota-se que o delineamento fático-probatório delineado não é suficiente para ensejar entendimento pela irrisoriedade da verba honorária nem pela não observância dos requisitos do art. 85 do CPC/2015, de tal sorte que o recurso especial encontra óbice nas Súmulas 7 e 83 do STJ.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.848.890/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/9/2020, DJe de 17/9/2020.)
+Assim, fica autorizado ao órgão julgador arbitrar, de uma única vez, verba honorária que englobe a execução fiscal e eventual ação conexa, tratando-se, portanto, de providência que não viola o entendimento relativo à independência entre as verbas sucumbenciais respectivas.
+Dessa orientação não divergiu o acórdão recorrido, conforme se infere do seguinte excerto (fls. 168/171):
+Cinge-se a controvérsia em definir se é possível a acumulação de verba honorária na execução e nos embargos à execução.
+Com efeito, os embargos à execução constituem ação autônoma, razão pela qual não existe impedimento à cumulação da condenação referente às verbas sucumbenciais fixadas na ação de execução com aquelas arbitradas nos embargos, desde que seja respeitado o limite máximo de 20% do art. 85, § 2º, do CPC/2015 (art. 20, § 3º, do CPC/73), sobre o valor da condenação na soma final. Nesse sentido:
+ ..
+Entretanto, no que se refere à verba honorária, não se pode cogitar em autonomia absoluta, porque, embora a condenação ao pagamento de honorários na execução não esteja condicionada à oposição dos embargos, o sucesso desses interfere no resultado daqueles. Além disso, exige-se, unicamente, que o valor seja suficiente para atender a ambos os feitos.
+ ..
+Urge mencionar que o Egrégio STJ, ao julgar o RESP nº 1.143.320/RS, sob a sistemática de recurso repetitivo, fixou seu entendimento no sentido de se revelar incabível a condenação do executado ao pagamento de honorários advocatícios quando vencido nos embargos do devedor, na hipótese de já existir inclusão na CDA do encargo legal de 20% do valor da execução fiscal, com fundamento no Decreto-Lei n.º 1.025/69, substitutivo da verba honorária de sucumbência que a princípio seria devida pelo embargante. Tal entendimento encontra-se também previsto na Súmula nº 168 do extinto TFR. Veja-se:
+ ..
+Na hipótese em apreço, os embargos à execução foram julgados improcedentes, deixando de fixar a verba honorária, tendo em vista o teor da Súmula n. 168 do extinto Tribunal Federal de Recursos, eis que se observa que se observou encargo de 20% previsto no Decreto-Lei nº 1.025/69 foi incluído na Certidão de Dívida Ativa emitidas pelo exequente.
+Logo, da análise da sentença que negou provimento aos embargos à execução tem-se que a verba honorária é suficiente para suprir as duas demandas, assim como está em consonância com os parâmetros legais estabelecidos no art. 85, § 3º, I, do CPC/2015, para as condenações em face da Fazenda Pública.
+Diante da satisfação de tais valores, não há que se cogitar na manutenção do prosseguimento do feito executivo, não havendo que alterar a sentença em tal ponto.
+Ademais, tendo o acórdão afirmado expressamente a suficiência dos valores arbitrados a título de honorários advocatícios, é certo que a alteração das premissas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
