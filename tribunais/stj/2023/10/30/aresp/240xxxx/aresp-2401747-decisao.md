@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL. PROTESTO DE TÍTULO DECORRENTE DE CONTRATO DE LOCAÇÃO DE IMÓVEL RESIDENCIAL. ALEGAÇÃO DE COBRANÇA EXCESSIVA. PRETENSÃO CAUTELAR DE SUSTAÇÃO DE PROTESTO. POSTERIOR DEMANDA VISANDO À CONDENAÇÃO DA LOCADORA AO PAGAMENTO DE MULTA PREVISTA NO ART. 940 DO CÓDIGO CIVIL, ALÉM DE COMPENSAÇÃO POR DANOS MORAIS. JULGAMENTO EM CONJUNTO. SENTENÇA DE PARCIAL PROCEDÊNCIA, PARA DECLARAR O CANCELAMENTO DO PROTESTO. IRRESIGNAÇÃO DOS AUTORES.
+1. O Superior Tribunal de Justiça, no julgamento do REsp n. 1111270/PR, sob o rito do julgamento dos recursos repetitivos (Tema 622), fixou a tese no sentido da imprescindibilidade da demonstração de má-fé do credor para fins de aplicação da sanção civil do pagamento em dobro por cobrança judicial de dívida já adimplida (artigo 940 do Código Civil de 2002).
+2. O Supremo Tribunal Federal já se orientava no mesmo sentido, na vigência do Código Civil de 1916, conforme Verbete Sumular n. 159.
+3. In casu, como bem ressaltado pelo d. Juízo sentenciante, não se verifica a má-fé da Ré/locadora na cobrança dos valores em excesso, pois o que se vislumbra é apenas a desorganização financeira da demandada. 3.1. Aliado a tal fato, tem-se a inconstância da data dos pagamentos pelo locatário, realizados através de depósitos bancários, bem como a oscilação de valores, tanto que se fez necessária a realização de perícia, a fim se verificar os aluguéis e encargos devidos.
+4. Dano moral não configurado. Consoante orientação do Superior Tribunal de Justiça, na hipótese em que o protesto é irregular, em razão de valor superior ao efetivamente devido, não há se falar em abalo de crédito, pois, em maior ou menor grau, o obrigado permanece a condição de devedor, estando de fato impontual no pagamento da dívida, embora em patamar inferior ao apontado. Não se extraindo, no particular, agressão à reputação pessoal do recorrente, à sua honorabilidade e credibilidade perante seus concidadãos, não se tem por configurado o dano moral (STJ, REsp 1437655/MS, Rel. Ministra NANCY ANDRIGHI, T3 -TERCEIRA TURMA, Julgado em: 19/06/2018, DJe 25/06/2018).
+5. RECURSO CONHECIDO E NÃO PROVIDO.
+Alegou-se, no especial, violação do artigo 940 do Código Civil sob o argumento de que, diante da cobrança excessiva formulada pelo credor, deveria ele ter sido condenado a pagar ao agravante o equivalente.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte Superior tem entendimento de que a cobrança indevida gera a obrigação prevista no artigo 940 do Código Civil quando houver má-fé do credor.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. O Superior Tribunal de Justiça firmou o entendimento no sentido de que, "nas hipóteses de cobrança de dívida líquida com termo certo, a correção monetária incide a partir do vencimento da obrigação" (AgInt no AgInt no AREsp 2.005.562/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJE de 30/5/2022). Aplicação da Súmula 83 do STJ.
+2. No tocante à repetição do indébito em dobro, nos termos da jurisprudência desta Corte Superior, "é necessária a comprovação da má-fé do demandante para a aplicação da penalidade prevista no art. 940 do Código Civil" (AgInt no AREsp 1.752.351/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 24/6/2021). Incidência das Súmulas 7 e 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.095.187/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+O Tribunal local consignou que, "como bem ressaltado pelo d. Juízo sentenciante, não se verifica, na hipótese, a má-fé da ré na cobrança dos mencionados valores, pois o que se vislumbra, neste caso, é apenas a desorganização financeira da demandada" (e-STJ, fl. 737).
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
