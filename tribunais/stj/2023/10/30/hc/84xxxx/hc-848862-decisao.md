@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Roberto Aparecido Bueno, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Paraná.
+Consta dos autos que o paciente foi condenado, pelo Tribunal do Júri, à pena de 8 anos e 8 meses de reclusão, em regime fechado, por ter sido incurso no art. 121, III e IV, § 2º, do Código Penal - homicídio privilegiado qualificado (fls. 58/62).
+Em sede de revisão criminal (n. 0014527-33.2023.8.16.0000), a Primeira Câmara Criminal do Tribunal de Justiça do Paraná julgou parcialmente procedente a revisão criminal para abrandar a pena final, ficando em 8 anos e 2 meses de reclusão, em regime fechado (fls. 33/38). O julgado recebeu a seguinte ementa (fl. 33):
+REVISÃO CRIMINAL DE SENTENÇA. REQUERENTE CONDENADO PELA PRÁTICA DO CRIME DE HOMICÍDIO QUALIFICADO PRIVILEGIADO (ARTIGO 121, § 1.º E § 2.º, INCISOS III E IV, DO CÓDIGO PENAL). PRETENSÃO REVISIONAL RESTRITA À DOSIMETRIA DA PENA-BASE. ACOLHIMENTO PARCIAL. SANÇÃO BÁSICA AGRAVADA EM RAZÃO DE CIRCUNSTÂNCIAS JUDICIAIS INERENTES AO TIPO PENAL ABSTRATO OU JÁ SOPESADAS NAS QUALIFICADORAS RECONHECIDAS. INCOMPATIBILIDADE ENTRE O RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA PREVISTA NO ARTIGO 121, §1.º, DO CP, E A MAJORAÇÃO DA PENA-BASE EM RAZÃO DOS MOTIVOS DO DELITO. INCIDÊNCIA DE DUAS QUALIFICADORAS. POSSIBILIDADE DE SE TOMAR UMA DELAS PARA A VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. NECESSIDADE DE DIMINUIÇÃO DA REPRIMENDA, EMBORA PARA PATAMAR SUPERIOR AO MÍNIMO LEGAL. NOVO QUANTUM QUE NÃO INFLUENCIA NO REGIME PRISIONAL FIXADO. ARTIGO 33, § 2.º, DO CP. SENTENÇA MODIFICADA EM PARTE. REVISÃO CRIMINAL JULGADA PARCIALMENTE PROCEDENTE.
+Opostos embargos de declaração, estes foram acolhidos, sem efeitos modificativos (fls. 41/43).
+No presente writ, a defesa aponta excesso na fixação da pena-base e alega que deve ser compensada a vetorial do comportamento da vítima com outra circunstância judicial prevista no art. 59 do Código Penal, que tenha sido valorada negativamente para o paciente, como as circunstâncias do crime (fls. 3/12).
+Decisão deste Relator indeferindo a liminar (fls. 74/76).
+Prestadas informações pelo Tribunal de Justiça do Paraná (fls. 86/101).
+Parecer ministerial opinando pelo não conhecimento do writ ou, superada a preliminar, pela denegação da ordem (fls. 105/112).
+É o relatório.
+Pelas circunstâncias do crime, o Magistrado entendeu que a vítima convivia maritalmente com a irmã do réu, sendo que Valdir após ofender verbalmente Angela, entrou em vias de fato com aquela, tendo o pai do réu apartado a briga, ocasião em que o réu efetuou golpe de faca contra a vítima, merecendo assim exasperação na pena (fl. 36).
+Não há ilegalidade no acórdão hostilizado e a dosimetria foi fixada com bastante razoabilidade. Verifica-se que, no julgamento da revisão criminal, a Corte local deixou expresso que, mantido apenas o agravamento penal em razão das circunstâncias do crime e elevando a pena somente em 3 meses, que foi o quantum definido na sentença, a pena se torna definitiva em 12 anos e 3 meses de reclusão, já que se deve considerar pelo menos duas qualificadoras, uma delas na primeira fase da dosimetria. Com o reconhecimento do homicídio privilegiado, a pena passou para 8 anos e 2 meses de reclusão.
+Não faz sentido o pedido da defesa, de que o comportamento da vítima deveria ser compensado com a vetorial da primeira fase (que é uma das qualificadoras), uma vez que já houve o reconhecimento do homicídio privilegiado e essa questão já foi objeto de análise no julgamento dos embargos de declaração opostos ao julgamento da revisão criminal, nos seguintes termos (fl. 43):
+Assim, se o conselho de sentença já decidiu se tratar de homicídio privilegiado, fato é que o comportamento da vítima já ensejou a redução penal, revelando-se inviável uma nova atenuação da reprimenda pelo mesmo elemento fático.
+Destarte, sanada a omissão em comento, o resultado do acórdão objurgado resulta inalterado.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO PRIVILEGIADO. DOSIMETRIA DA PENA. PEDIDO DE REDUÇÃO DA PENA. IMPOSSIBILIDADE. PENA FIXADA COM RAZOABILIDADE E CONCRETOS FUNDAMENTOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
