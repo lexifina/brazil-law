@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO. INTERESSE DE MENOR. PREJUÍZO NÃO DEMONSTRADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurispr udência pacífica do STJ, a não intimação do Ministério Público, mesmo nas causas em que há interesse de menor, não dá ensejo à decretação de nulidade do julgado, a não ser que se demonstre o efetivo prejuízo para a parte.
+2. Modificar o entendimento a que chegou o Tribunal de origem e concluir de modo diverso requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por ISADORA ARALDI GIACOMIN, JOANA ARALDI GIA COMIN, VERONICA ARALDI GIACOMIN e CARLA ARALDI DURIGON contra decisão monocrática de relatoria do Min. Paulo de Tarso Sanseverino, que conheceu do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento (fls. 893-901).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL assim ementado (fl. 733):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. CONTRATOS AGRÁRIOS. AÇÃO DECLARATÓRIA. CONSTITUIÇÃO E DISSOLUÇÃO DE SOCIEDADE DE FATO.
+Preliminar de nulidade do feito por ausência de participação do Ministério Público. Rejeição. Caso em que, embora a instrução tenha transcorrido sem a participação do Ministério Público e haja pessoas menores de idade no polo passivo da ação, a falta de intervenção do Ministério Público restou suprida com o parecer lançado antes da sentença, e repassou todos os atos processuais, sem constatar prejuízo ao interesse das menores presentes no polo passivo do feito. Preliminar de nulidade da sentença por ausência de fundamentação específica sobre documentos. Rejeição. Sentença que, de forma expressa, clara e fundamentada afastou a tese trazida pelas rés apelantes. Questões jurídicas envolvendo as matérias, fatos, documentos, dispositivos legais e teses aventadas pelas rés apelantes que mereceram o devido debate e decisão, não sendo caso de caracterização da hipótese do artigo 489, § 1º, incisos IV e VI, do CPC/15.
+Mérito e demais preliminares que com ele se confundem. Sentença de procedência ratificada. Para existir uma sociedade de fato, faz-se necessária a comunhão de esforços organizada para a consecução de objetivo comum, a fim de auferir lucro, circunstâncias estas que foram amplamente demonstradas pela prova documental e oral produzidas. Desnecessidade de existência de documento formal escrito sobre manifestação de vontade. Tese das rés apelantes que objetiva dar interpretação restrita à documentação existente nos autos, e sem a devida e necessária contextualização.
+Recurso adesivo. Majoração dos honorários advocatícios. Cabimento. Hipótese dos autos que autoriza a pretendida majoração da verba honorária.
+APELAÇÃO PROVIDO. RECURSO ADESIVO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 761-772).
+Nas razões do agravo interno, alega a agravante a não incidência da Súmula n. 7/STJ.
+Sustenta, outrossim, que, "No caso dos autos, portanto, não há necessidade de análise do contexto fático-probatório, porque o prejuízo é dado objetivo: sucumbência processual. Se a ação é julgada procedente contra as demandadas menores incapazes, o prejuízo é evidente, manifesto e presumido" (fl. 924).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 928-932).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO. INTERESSE DE MENOR. PREJUÍZO NÃO DEMONSTRADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos termos da jurispr udência pacífica do STJ, a não intimação do Ministério Público, mesmo nas causas em que há interesse de menor, não dá ensejo à decretação de nulidade do julgado, a não ser que se demonstre o efetivo prejuízo para a parte.
+2. Modificar o entendimento a que chegou o Tribunal de origem e concluir de modo diverso requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula n. 7/STJ. Precedentes.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não prospera a alegação defensiva de que há prejuízo presumido em decorrência da não intimação do Ministério Público na fase instrutória.
+Nos termos da jurisprudência pacífica desta Corte, "até mesmo nas causas em que a intervenção do Parquet é obrigatória em face a interesse de menor, é necessária a demonstração de prejuízo deste para que se reconheça a referida nulidade" (REsp n. 1.010.521/PE, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 26/10/2010, DJe de 9/11/2010.)
+Nesse sentido, cito os seguintes precedentes:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTIMAÇÃO DO MINISTÉRIO PÚBLICO PARA INTERVIR COMO FISCAL DA ORDEM JURÍDICA. NULIDADE ABSOLUTA QUE, CONTUDO, NÃO PRESCINDE DA DEMONSTRAÇÃO DE EFETIVO PREJUÍZO. ROL DE PROCEDIMENTOS DA ANS. ELUCIDAÇÃO DE QUESTÃO TÉCNICA DE SUA IMPRESCINDIBILIDADE. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. "Segundo precedentes desta Corte, até mesmo nas causas em que a intervenção do Parquet é obrigatória em face a interesse de menor, é necessária a demonstração de prejuízo deste para que se reconheça a referida nulidade" (REsp 1.010.521/PE, rel. Min. Sidnei Beneti, Terceira Turma, DJe 09/11/2010)
+2. A decisão monocrática agravada está assentada nas seguintes razões: a) entendimento perfilhado pela Corte Especial, por ocasião do julgamento do recurso repetitivo, REsp 1.124.552/RS, nos sentido de que as "regras de experiência comum" e as "as regras da experiência técnica" devem ceder vez à necessidade de "exame pericial", cabível sempre que a prova do fato "depender do conhecimento especial de técnico"; b) na vigência do CPC/2015, o art. 375 do Códex estabelece textualmente que o juiz aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece e, ainda, as regras da experiência técnica, ressalvado, quanto a estas, o exame pericial; c) as regras da experiência técnica devem ser de conhecimento de todos, principalmente das partes, exatamente porque são vulgarizadas; se se trata de regra de experiência técnica, de conhecimento exclusivo do juiz ou "apanágio de especialistas", que por qualquer razão a tenha, torna-se indispensável a realização da perícia. Essa é a razão pela qual se faz a ressalva, no final do texto, ao exame pericial. (DIDIER JÚNIOR, Fredie; BRAGA, Paula Sarno; OLIVEIRA, Rafael Alexandria de. Curso de direito processual civil. Vol. 2. 12 ed. Salvador: Juspodivm, 2017, p. 78)
+3. Nas razões do agravo interno em apreço, a parte agravante não impugna especificamente os fundamentos da decisão ora recorrida (nem mesmo menciona os dispositivos que embasam a decisão recorrida, quais sejam, os arts. 375 e 1.034 do CPC/2015).
+4. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015.
+5. Agravo interno não provido.
+(PET no REsp n. 1.923.432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/3/2022, DJe de 1/4/2022.)
+MEDIDA CAUTELAR. PRELIMINAR DE NULIDADE DA DECISÃO AGRAVADA. FALTA DE INTIMAÇÃO DO MP. INTERESSE DE MENOR. PREJUÍZO NÃO DEMONSTRADO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. PRESSUPOSTOS ESPECÍFICOS DA AÇÃO NÃO EVIDENCIADOS. PROCESSO EXTINTO.
+1. A não intimação do Ministério Público, por si só, não dá ensejo à decretação de nulidade do julgado, a não ser que se demonstre o efetivo prejuízo para a parte.
+2. Não configurada a presença simultânea dos pressupostos do fumus boni iuris e do periculum in mora, a ação cautelar é extinta por carecer o autor de interesse processual.
+3. Agravo regimental desprovido.
+(AgRg no RCD na MC n. 21.285/MS, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 11/2/2014, DJe de 17/2/2014.)
+No caso dos autos, o Tribunal de origem, ao analisar a controvérsia, rejeitou a preliminar de nulidade por ausência de prejuízo sob os seguintes fundamentos (fl. 739):
+Inicialmente, rejeito a preliminar de nulidade do feito a partir da instrução, em razão da não intimação e participação do Ministério Público naquela fase.
+Embora a instrução tenha transcorrido sem a participação do Ministério Público e haja pessoas menores de idade no polo passivo da ação, sem demérito do que restou afirmado nos autos do agravo de instrumento n. 70065513178 interposto nos autos da exceção de incompetência, no caso, tenho que a falta de intervenção do Ministério Público restou suprida com o parecer das fls. 517/524, lançado antes da sentença, e que repassou todos os atos processuais, sem constatar prejuízo ao interesse das menores presentes no polo passivo do feito.
+Desse modo, modificar a conclusão da Corte Estadual acerca da ausência de prejuízo ao interesse dos menores demandaria a análise do contexto fático-probatórios dos autos, o que se mostra inviável em recurso especial a teor da Súmula n. 7/STJ.
+A propósito, cito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PESSOA INTERDITADA. EXCEÇÃO DE SUSPEIÇÃO POR AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO. POSTERIOR PARECER DA PROCURADORIA DE JUSTIÇA OPINANDO PELA REJEIÇÃO DA EXCEÇÃO. PARECER MINISTERIAL ADOTADO COMO RAZÕES DE DECIDIR DO ACÓRDÃO RECORRIDO. SUPRIDA A INTIMAÇÃO DO MINISTÉRIO PÚBLICO. PRINCÍPIOS DA UNIDADE, INDIVISIBILIDADE E INDEPENDÊNCIA. REEXAME DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7/STJ.
+1. A falta de intimação do Ministério Público pode ser suprida pela intervenção da Procuradoria de Justiça perante o colegiado de segundo grau, em parecer referente ao mérito da causa, sem que haja arguição de prejuízo ou alegação de nulidade, visto que o MP é órgão uno, indivisível e independente (art. 127, § 1º, da Constituição Federal).
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.557.969/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE. AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO EM SEGUNDA INSTÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. PREJUÍZOS CONCRETOS. FALTA DE DEMONSTRAÇÃO. DECLARAÇÃO DE NULIDADE. IMPOSSIBILIDADE. PRECEDENTES DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Além disso, de acordo com a pacífica jurisprudência do STJ, "a ausência de intimação do Ministério Público, por si só, não enseja a decretação de nulidade do julgado, a não ser que se demonstre o efetivo prejuízo às partes" (AgInt no AREsp n. 1.529.823/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/2/2020, DJe 12/3/2020), ônus do qual o agravante não se desincumbiu.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. No caso concreto, sem incorrer no mencionado óbice, não há como averiguar, em recurso especial, a existência de prejuízos concretos à parte, advindos da ausência de intimação do Ministério Público em segunda instância, que justificariam a anulação do aresto impugnado.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.890.341/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
