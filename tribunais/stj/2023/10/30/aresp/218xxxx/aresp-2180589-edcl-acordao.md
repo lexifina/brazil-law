@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Company Bank Fomento Mercantil Ltda. ao acórdão proferido pela Terceira Turma do Superior Tribunal de Justiça, nos termos da seguinte ementa (e-STJ, fl. 13.864):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NA DECISÃO MONOCRÁTICA AGRAVADA. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. FALTA. SÚMULA211/STJ. PREQUESTIONAMENTO FICTO. PRESSUPOSTOS. AUSÊNCIA. AGRAVO INTERNO IMPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade.
+2. Demais dispositivos tidos por violados, ausência de prequestionamento.2.1. O Superior Tribunal de Justiça possui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese.
+2.2. Este Superior Tribunal também já decidiu que não há incompatibilidade em afastar a violação do art. 1.022 do CPC/2015 e reconhecer a ausência de prequestionamento se, como na espécie, devidamente decidida a causa, a questão federal apresentada ao Superior Tribunal de Justiça não foi debatida na origem.
+3. Agravo interno improvido.
+Posteriormente, os embargos de declaração opostos foram acolhidos em parte (e-STJ, fl. 13.893):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. EXISTÊNCIA. ARTIGOS TIDOS POR CONTRARIADOS. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Na hipótese dos autos, ficou constatada a existência de erro material no que se refere à violação ao art. 489 do CPC/2015. Numa nova leitura das razões do apelo especial, fica evidente que a parte não suscitou contrariedade ao citado dispositivo, cabendo, portanto, o acolhimento dos embargos de declaração, quanto ao ponto, a fim de decotar da decisão recorrida a parte que explana acerca da ausência de negativa de prestação jurisdicional.
+3. No presente caso, constata-se que a Corte estadual não se manifestou sobre os arts. 223, 502, 505, 507 e 508 do Código de Processo Civil de 2015, de fato, mesmo após a interposição de embargos declaratórios, razão pela qual incide na espécie a Súmula 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+3.1. Cabe esclarecer que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte insurgente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. Embargos de declaração acolhidos em parte.
+Em suas razões (e-STJ, fl. 13.904-13.911), sustenta a embargante que a decisão embargada incorreu em omissão, uma vez que deixou de apreciar a existência de prequestionamento implícito dos arts. 223, 502, 505, 507 e 508 do CPC/2015.
+Busca, assim, que seja sanada a omissão apontada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo cabíveis tão somente nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas, excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu dos primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC e pela ausência de recolhimento prévio da multa aplicada com amparo no art. 1.021, § 4º, do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+(EDcl nos EDcl no AgInt no AREsp 1.168.511/ES, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.475.227/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020).
+Na hipótese dos autos, apesar de toda a argumentação expendida no recurso especial, conforme registrado no decisum recorrido, o Tribunal de origem não se manifestou sobre o conteúdo disposto nos arts. 223, 502, 505, 507 e 508 do CPC/2015, mesmo com a oposição dos embargos de declaração, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incidência da Súmula 211/STJ.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pela instância originária com a finalidade de sanar eventual omissão, o que, na espécie, não ocorreu.
+Outrossim, não se desconhece ter o Código de Processo Civil de 2015, no art. 1.025, disciplinado a possibilidade de prequestionamento ficto de tese jurídica, quando - a despeito da oposição de embargos de declaração - o colegiado local não se manifesta acerca do tema, considerando-se inclusas no aresto as questões deduzidas pela parte recorrente nos aclaratórios.
+Contudo, o Superior Tribunal de Justiça, intérprete da legislação federal, possui jurisprudência assentada no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu na hipótese.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ERRO MÉDICO. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. NÃO CABIMENTO. NEGLIGÊNCIA E IMPERÍCIA. DEMONSTRAÇÃO. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A controvérsia dos autos reside no reconhecimento de indenização por danos materiais e morais por alegado erro médico, devido ao tipo de anestesia utilizada no procedimento de cirurgia bariátrica do paciente.
+3. No caso, ausente violação do art. 1.022 do CPC/2015, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+4. A ausência de discussão pelo tribunal local acerca da tese ventilada no recurso especial (arts. 6º, III, do Código de Defesa do Consumidor, 422 do Código Civil e 22, 24, 31 e 34 do CFM) acarreta a falta de prequestionamento, atraindo a incidência da Súmula nº 211/STJ.
+5. A admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada e reconhecida a violação do art. 1.022 do CPC/2015 para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+6. Na espécie, rever a conclusão da Corte de origem - no sentido de que não foram configurados danos materiais e morais - demandaria o revolvimento do acervo fático-probatório carreado nos autos, procedimento obstado pelo disposto na Súmula nº 7/STJ.
+7. A jurisprudência do Superior Tribunal de Justiça preleciona que a necessidade de reexame de matéria fática impede a admissão do recurso pelo dissídio jurisprudencial.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.029.476/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Assim, ainda que a solução tenha sido contrária à pretensão da parte insurgente, não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+Dessa forma, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivado e fundamentado o aresto, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
