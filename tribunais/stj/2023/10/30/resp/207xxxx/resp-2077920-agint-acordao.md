@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. PIS E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES A ICMS SUBSTITUIÇÃO. SUBSTITUÍDO TRIBUTÁRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DA SEGUNDA TURMA DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. In casu, o pedido é para o creditamento do PIS e da COFINS sobre os valores despendidos a título de ICMS-ST na etapa de aquisição dos produtos submetidos à sistemática da substituição tributária. Contudo, o Tema 1.125/STJ versa sobre a inclusão do ICMS-ST nas bases de cálculo dos referidos tributos. De fato, são temas completamente distintos.
+2. No enfrentamento da matéria, o Colegiado originário fundamentou: "Assim, tratando-se de requerimento de inclusão, no creditamento de PIS/COFINS, do valor pago a título de ICMS-ST na etapa anterior, quando da aquisição de mercadorias para revenda, o pedido da impetrante não merece acolhida."
+3. Com efeito, ao assim decidir, o órgão julgador se alinhou à jurisprudência da Segunda Turma desta Corte segundo a qual "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3, § 1º, das Leis 10.637/2002 e 10.833/2003" (AgInt no REsp 1.937.431/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.11.2021). Incide no ponto o princípio estabelecido na Súmula 83/STJ.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática que negou provimento ao Recurso Especial.
+A parte agravante sustenta:
+Entretanto, com a devida vênia, a interpretação conferida pelo Exmo. Ministro não merece prosperar, uma vez que o próprio STJ em julgados recentes acolheu o entendimento de que o ICMS-ST referente às mercadorias adquiridas para revenda representa custo e, portanto, passível seria o creditamento para fins de PIS e COFINS.
+Ou seja, não se está diante de controvérsia que já possui entendimento consolidado pelo Superior Tribunal de Justiça que permita o julgamento da questão de forma monocrática pelo Relator.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Sem impugnação.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 2.077.920 - RS (2023/0190934-5)
+RELATOR
+:
+MINISTRO HERMAN BENJAMIN
+AGRAVANTE
+:
+MADEIREIRA VILA RICA LTDA
+ADVOGADO
+:
+ALESSANDRA DE SOUZA RAMOS - RS086755
+AGRAVADO
+:
+FAZENDA NACIONAL
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. PIS E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES A ICMS SUBSTITUIÇÃO. SUBSTITUÍDO TRIBUTÁRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DA SEGUNDA TURMA DO STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. In casu, o pedido é para o creditamento do PIS e da COFINS sobre os valores despendidos a título de ICMS-ST na etapa de aquisição dos produtos submetidos à sistemática da substituição tributária. Contudo, o Tema 1.125/STJ versa sobre a inclusão do ICMS-ST nas bases de cálculo dos referidos tributos. De fato, são temas completamente distintos.
+2. No enfrentamento da matéria, o Colegiado originário fundamentou: "Assim, tratando-se de requerimento de inclusão, no creditamento de PIS/COFINS, do valor pago a título de ICMS-ST na etapa anterior, quando da aquisição de mercadorias para revenda, o pedido da impetrante não merece acolhida."
+3. Com efeito, ao assim decidir, o órgão julgador se alinhou à jurisprudência da Segunda Turma desta Corte segundo a qual "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3, § 1º, das Leis 10.637/2002 e 10.833/2003" (AgInt no REsp 1.937.431/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.11.2021). Incide no ponto o princípio estabelecido na Súmula 83/STJ.
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.9.2023.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, in casu, o pedido é para o creditamento do PIS e da COFINS sobre os valores despendidos a título de ICMS-ST na etapa de aquisição dos produtos submetidos à sistemática da substituição tributária. Contudo, o Tema 1.125/STJ versa sobre a inclusão do ICMS-ST nas bases de cálculo dos referidos tributos. De fato, são temas completamente distintos.
+No enfrentamento da matéria, o Colegiado originário fundamentou:
+Assim, tratando-se de requerimento de inclusão, no creditamento de PIS/COFINS, do valor pago a título de ICMS-ST na etapa anterior, quando da aquisição de mercadorias para revenda, o pedido da impetrante não merece acolhida.
+Com efeito, ao assim decidir, o órgão julgador se alinhou à jurisprudência da Segunda Turma desta Corte segundo a qual "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3, § 1º, das Leis 10.637/2002 e 10.833/2003" (AgInt no REsp 1.937.431/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.11.2021).
+Vejam-se os precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO. MANDADO DE SEGURANÇA. PIS E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES A ICMS SUBSTITUIÇÃO. SUBSTITUÍDO TRIBUTÁRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DA SEGUNDA TURMA DO STJ.
+1. O ICMS-ST não pode ser excluído da base de cálculo das contribuições ao PIS/PASEP e Cofins devidos pelo substituído simplesmente porque jamais esteve formalmente incluído nessa mesma base de cálculo. É da natureza de todos os tributos a repercussão econômica. Os informes de "ICMS Cobrado Anteriormente por ST" preenchidos eletronicamente pelo substituído existem apenas para efeito de controle fiscal.
+2. Consoante a orientação jurisprudencial da Segunda Turma do STJ, "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3º, § 1º, das Leis 10.637/2002 e 10.833/2003" (AgInt no REsp 1.937.431/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.11.2021). Nesse sentido: AgInt nos EDcl no REsp 1.881.576/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18.3.2021; AgInt no REsp 1.515.092/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 6.4.2021; REsp 1.456.648/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.6.2016.
+3. Agravo Interno não provido.
+(AgInt no REsp 2.044.129/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/6/2023.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO ORDINÁRIA. CREDITAMENTO DO PIS/COFINS SOBRE O VALOR DO ICMS-ST. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ADMISSIBILIDADE IMPLICITA. JURISPRUDÊNCIA PACIFICADA.
+I - Na origem, trata-se de ação ordinária objetivando declarar o direito de creditamento do PIS/Cofins sobre o valor do ICMS-ST incidente nos bens adquiridos para a revenda e receber a repetição do indébito relativamente aos últimos cinco anos, cujos valores deverão ser apurados futuramente, em liquidação da sentença, com a aplicação da taxa SELIC. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi reformada para reconhecer o direito apuração de créditos de PIS e Cofins sobre os valores pagos a título de ICMS-ST.
+(..)
+III - A jurisprudência da Segunda Turma do Superior Tribunal de Justiça é pacífica ao afirmar que o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e Cofins não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei n. 10.637/2002 e 10.833/2003, de modo que a parcela referente ao ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído. Nesse sentido: AgInt no REsp n. 1.937.431/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe de 12/11/2021; AgInt nos EDcl no REsp n. 1.934.009/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2021, DJe de 17/12/2021; AgInt no REsp n. 1.960.984/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/3/2022, DJe de 12/4/2022.
+IV - Correta decisão que deu provimento ao recurso especial para considerar indevido o creditamento ora pleiteado pelo contribuinte.
+V - Agravo interno improvido.
+(AgInt no REsp 2.022.271/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/3/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS NÃO CUMULATIVOS. CREDITAMENTO. VALORES REFERENTES AO ICMS SUBSTITUIÇÃO. SUBSTITUÍDO TRIBUTÁRIO. IMPOSSIBILIDADE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança, objetivando "seja autorizado o direito à ampla fruição do crédito de PIS e COFINS sobre o valor pago na etapa anterior a título de ICMS - Substituição Tributária (ICMS-ST)". Na sentença, o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida. Nesta Corte, o recurso especial foi improvido.
+II - A submissão do julgamento do EREsp n. 1.428.247/RS à Primeira Seção não impõe a suspensão ou o sobrestamento dos demais feitos, uma vez que o referido recurso não foi submetido à sistemática dos recursos repetitivos, além de não existir decisão daquele Órgão Julgador determinando a suspensão dos demais recursos em que se discute a mesma questão jurídica.
+III - A jurisprudência da Segunda Turma desta Corte é pacífica ao afirmar que o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definidas nos arts. 1º, § 2º, das Leis n. 10.637/2002 e 10.833/2003, de modo que a parcela referente ao ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído. Precedentes: AgInt no REsp n. 1.937.431/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe de 12/11/2021; AgInt nos EDcl no REsp n. 1.934.009/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2021, DJe de 17/12/2021; e AgInt no REsp n. 1.960.984/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/3/2022, DJe de 12/4/2022.
+IV - Agravo interno improvido.
+(AgInt no REsp 2.022.010/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/3/2023.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. PIS E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES A ICMS SUBSTITUIÇÃO. SUBSTITUÍDO TRIBUTÁRIO. IMPOSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DA SEGUNDA TURMA DO STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC.
+2. O Tribunal de origem, no enfrentamento da matéria, consignou: "Como se vê, a Lei nº 9.718, de 1998, expressamente excluiu da base de cálculo do PIS e da COFINS, no regime cumulativo, os valores cobrados do adquirente da mercadoria - contribuinte substituído - pelo vendedor, a título de reembolso do ICMS recolhido por esse na condição de substituto tributário. Por outro lado, ainda que nas Leis nºs 10.637, de 2002, e 10.833, de 2003, não tenha igual previsão de exclusão desses valores da base de cálculo da contribuição ao PIS e da COFINS no regime não-cumulativo, essa previsão é desnecessária. É que o substituto tributário atua como mero agente repassador do tributo, e o valor que cobra do contribuinte substituído, quando a esse vende a mercadoria, não representa receita ou faturamento, mas mero reembolso pelo valor despendido a título de tributo recolhido na condição de responsável, em relação ao qual não é o contribuinte de direito. E, em assim sendo, não havendo a anterior incidência das contribuições, não se cogita de creditamento no âmbito do regime não-cumulativo do PIS e COFINS, dos valores pagos pelo contribuinte substituído ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição" (fl. 225, e-STJ).
+3. Ao assim decidir, o acórdão recorrido se alinhou à orientação jurisprudencial da Segunda Turma do STJ de que "o ICMS-ST não está na base de cálculo das contribuições ao PIS/PASEP e COFINS não cumulativas devidas pelo substituto e definida nos arts. 1º e § 2º, da Lei 10.637/2002 e 10.833/2003", de modo que "o valor do ICMS-ST não pode compor o conceito de valor de bens e serviços adquiridos para efeito de creditamento das referidas contribuições para o substituído, exigido pelos arts. 3, § 1º, das Leis 10.637/2002 e 10.833/2003" (AgInt no REsp 1.937.431/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.11.2021). Nesse sentido: AgInt nos EDcl no REsp 1.881.576/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18.3.2021; AgInt no REsp 1.515.092/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 6.4.2021; REsp 1.456.648/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.6.2016.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.960.984/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/4/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRIBUIÇÕES AO PIS/PASEP E COFINS NÃO CUMULATIVAS. CREDITAMENTO. VALORES REFERENTES A ICMS-SUBSTITUIÇÃO (ICMS-ST). IMPOSSIBILIDADE.
+1. O presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+2. Não tem direito o contribuinte ao creditamento, no âmbito do regime não-cumulativo do PIS e COFINS, dos valores que, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS-substituição. Precedentes: REsp. n. 1.456.648 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.06.2016; REsp. n. 1.461.802 - RS, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 22.09.2016; AgInt no REsp. n. 1.937.431 / SC, Segunda Turma, Rel. Min. Assusete Magalhães, julgado em 09.11.2021; AgInt nos EDcl no REsp. n. 1.881.576 / SC, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 15.03.2021; AgInt no REsp. n. 1.885.048 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 16.12.2020.
+3. Agravo interno não provido.
+(AgInt no REsp 1.960.261/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/3/2022.)
+Incide no ponto o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Cumpre ressaltar que a referida diretriz é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988. Nessa esteira: REsp 1.186.889/DF, Segunda Turma, Rel. Ministro Castro Meira, DJe de 2.6.2010.
+Ressalte-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COFINS. BASE DE CÁLCULO. TEMA CONSTITUCIONAL. NÃO CONHECIMENTO DO APELO NOBRE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+(..)
+3. Prejudicada a análise do suscitado dissídio jurisprudencial quando a tese veiculada nas razões do especial é afastada pela análise da irresignação fundada na alínea a do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.251.683/RJ, relator Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTO INFRACONSTITUCIONAL. PROVIMENTO DO CSM. ATO NORMATIVO NÃO ENQUADRADO COMO LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+(..)
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 25/3/2021)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
