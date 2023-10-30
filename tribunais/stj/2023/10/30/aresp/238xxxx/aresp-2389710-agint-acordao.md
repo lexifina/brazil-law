@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. DANOS MORAIS E MATERIAIS. CUMPRIMENTO DE SENTENÇA. ASTREINTES. MULTA COMINATÓRIA. AFASTAMENTO. REDUÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SUMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal bandeirante, soberano na análise do conteúdo fático-probatório, concluiu ser justificável a manutenção do valor de R$ 50.000,00 (cinquenta mil reais), a título de multa cominatória, considerando a demora injustificada das obras de reparo, sendo descabida a sua redução, sob pena de se premiar o descaso da agravante no cumprimento das decisões judiciais, considerando que a execução tramita desde o ano de 2019.
+2. Para modificar as conclusões quanto ao cabimento, à razoabilidade e à proporcionalidade das astreintes, da forma como trazida no apelo nobre, é necessário o reenfrentamento do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 desta Corte.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente recurso não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SAO PAULO (CDHU) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. DANOS MORAIS E MATERIAIS. CUMPRIMENTO DE SENTENÇA. ASTREINTES. VIOLAÇÃO DOS ARTS. 489, § 1ª, II A IV, 1.022, DO CPC. INOCORRÊNCIA. MULTA COMINATÓRIA. AFASTAMENTO. REDUÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SUMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 122).
+Nas razões do presente inconformismo, CDHU reiterou seu apelo nobre e defendeu que a análise do excesso da prestação jurisdicional na aplicação da multa e do cumprimento integral da obrigação arguidos no Recurso Especial não demandam a reapreciação do contexto fático probatório, mas apenas a clara violação aos dispositivos de lei suscitados nas razões recursais em cotejo ao v. acórdão recorrido (e-STJ, fls. 130/135).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. DANOS MORAIS E MATERIAIS. CUMPRIMENTO DE SENTENÇA. ASTREINTES. MULTA COMINATÓRIA. AFASTAMENTO. REDUÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. SUMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal bandeirante, soberano na análise do conteúdo fático-probatório, concluiu ser justificável a manutenção do valor de R$ 50.000,00 (cinquenta mil reais), a título de multa cominatória, considerando a demora injustificada das obras de reparo, sendo descabida a sua redução, sob pena de se premiar o descaso da agravante no cumprimento das decisões judiciais, considerando que a execução tramita desde o ano de 2019.
+2. Para modificar as conclusões quanto ao cabimento, à razoabilidade e à proporcionalidade das astreintes, da forma como trazida no apelo nobre, é necessário o reenfrentamento do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 desta Corte.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente recurso não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4 . Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Conforme já consignado no julgado agravado, CDHU sustentou que deve ser afastada a multa cominatória, pois não há qualquer indício de recalcitrância injustificada no cumprimento da obrigação. Afirmou que, por ser integrante da Administração Pública, a contratação das obras necessárias demandou o rito da licitação, devendo ser considerada, ainda, a complexidade das obras e as restrições causadas pela pandemia da Covid 19. Ressaltou que a conversão em perdas e danos somente se mostra admissível em caso de impossibilidade de cumprimento da obrigação, o que não é o caso dos autos. Invocou o princípio da menor onerosidade da execução.
+Do afastamento e/ou redução da multa cominatória
+Conforme foi ressaltado na decisão impugnada, o Tribunal bandeirante, soberano na análise do conteúdo fático-probatório, concluiu ser justificável a manutenção do valor de R$ 50.000,00 (cinquenta mil reais), a título de multa cominatória, considerando a demora da execução em efetuar as obras de reparo, em prazo razoável, sendo descabida a redução, sobe pena de se premiar o descaso da empresa no cumprimento das decisões judiciais, considerando que a execução tramita desde o ano de 2019. É o que se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Ao contrário do que se alega nas razões recursais, restando incontroverso o descumprimento da obrigação de fazer objeto do presente cumprimento de sentença, mesmo após diversas oportunidades concedidas pelo MM. Juízo "a quo", o feito deve prosseguir com a conversão da obrigação em perdas e danos, sem prejuízo da execução da multa diária.
+Isso porque, o minucioso laudo pericial elaborado pelo expert nomeado pelo MM. Juízo "a quo" as fls. 534/641 e complementado as fls. 707/716 (numeração originária), atesta cabalmente que as obras de reparo objeto da obrigação de fazer "sub judice" foram efetuadas apenas parcialmente.
+Por outro lado, conforme bem observou o MM. Juízo "a quo", menos da metade das obras de reparo foram efetuadas, o que torna descabida a alegação de cumprimento substancial da obrigação de fazer, especialmente considerando que a execução tramita desde o ano de 2019.
+A alegação de dificuldades ocasionadas pela pandemia, tais como a limitação de acesso de operários e falta de matéria prima, não tem o condão de justificar o atraso, considerando que jamais houve proibição para realização de obras de reparo em unidades imobiliárias ou restrição de acesso a materiais de construção.
+Da mesma forma, não há se falar em afastamento da multa cominatória, uma vez que sua fixação tem caráter coercitivo com o escopo de inibir o descumprimento injustificado das ordens judiciais.
+Quanto ao valor fixado a título de multa cominatória, ainda que se reconheça a possibilidade a redução do valor da multa por descumprimento de decisão judicial, nos termos do artigo 573, § 1º, inciso I, do Código de Processo Civil, de modo a evitar o enriquecimento ilícito, é certo que a demora da executada em efetuar as obras de reparo em prazo razoável justifica a manutenção do valor R$ 50.000,00 (cinquenta mil reais), sendo descabida redução sob pena de se premiar o descaso da empresa executada no cumprimento das decisões judiciais que lhe são impostas.
+É de rigor, pois, a manutenção "in totum" da decisão agravada (e-STJ, fls. 21/25 - sem destaques no original)
+Nesse contexto, diversamente do que se pretende, não houve o cumprimento da decisão judicial a tempo e modo, o que torna legitima da cobrança da multa cominatória, sendo certo, ainda, que a jurisprudência se firmou no sentido de que a revisão das astreintes fixadas nas instâncias ordinárias esbarra na vedação da Súmula n.º 7 desta Corte, permitida apenas nos casos em que o valor é irrisório ou exagerado, o que não é o caso.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MULTA COMINATÓRIA. REDUÇÃO. POSSIBILIDADE. EXECUÇÃO PARCIAL DO ENCARGO. VALOR FINAL DA PENALIDADE. DESPROPORCIONALIDADE. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+5. Modificar o entendimento do Tribunal local, para concluir não ser cabível a redução da multa cominatória, é providência que demandaria o reexame de matéria fático-probatória, o que é inviável na seara extraordinária, devido ao óbice previsto no verbete n. 7 da Súmula do Superior Tribunal de Justiça.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.233.172/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j.19/6/2023, DJe de 21/6/2023 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+ ..
+2. Apenas em hipóteses excepcionais é autorizada pela via do recurso especial a redução do valor da multa cominatória arbitrada pelo Tribunal de piso, de modo que, somente quando evidenciado que o montante estabelecido foge dos parâmetros de proporcionalidade e razoabilidade é possível sua redução, o que não é o caso dos autos. Inafastável, portanto, o óbice da Súmula 7 desta Corte Superior.
+3 . Agravo interno desprovido.
+(AgInt no AREsp n. 2.149.393/MG, relator Ministro MARCO BUZZI, Quarta Turma, j. 6/3/2023, DJe de 10/3/2023 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO. INSERÇÃO INDEVIDA DE GRAVAME DE ALIENAÇÃO FICUCIÁRIA DE VEÍCULO. DANO MORAL CONFIGURADO. QUANTUM. RAZOABILIDADE. ASTREINTES. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AFASTAMENTO DE JUROS E HONORÁRIOS ADVOCATÍCIOS. INOVAÇÃO RECURSAL. VEDAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+3. Consoante a jurisprudência do STJ, o valor arbitrado a título de astreintes somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, sob pena de ofensa ao disposto na Súmula nº 7 desta Corte.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.479.962/SC, de minha relatoria, Terceira Turma, j. 17/2/2020, DJe 19/2/2020 - sem destaques no original)
+Em suma, para modificar as conclusões quanto ao cabimento, à razoabilidade e à proporcionalidade das astreintes, da forma como trazida no apelo nobre, é necessário o reenfrentamento do acervo fático-probatório dos autos, o que encontra óbice no enunciado da Súmula nº 7 desta Corte.
+Dessa forma, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
