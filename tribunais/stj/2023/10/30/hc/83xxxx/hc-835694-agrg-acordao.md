@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR O DECISÓRIO IMPUGNADO. PRETENSÃO DE ANULAÇÃO DO ACÓRDÃO PROLATADO PELO TRIBUNAL DE ORIGEM E DETERMINAÇÃO DA ANÁLISE DO MÉRITO. REEXAME DE PROVA. DEFERIMENTO DO BENEFÍCIO DA SAÍDA TEMPORÁRIA. TESE NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Vê-se que não é o caso de anular o acórdão e determinar ao TJ/SC que enfrente o mérito, porquanto a análise da questão posta - deferimento da saída temporária - demanda reexame aprofundado de prova, providência incabível na via estreita do habeas corpus.
+2. A tese de possibilidade de concessão da saída temporária não foi debatida no acórdão atacado, impossibilitando a análise da matéria, razão pela qual este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de se incorrer em indevida supressão de instância.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RYSTER CAMPOS DE SOUZA contra a decisão de fls. 125/127 que não conheceu do habeas corpus substitutivo de recurso próprio.
+Em suas razões, a defesa refuta a supressão de instância, porquanto "o habeas corpus não discute sobre a possibilidade de concessão da saída temporária, apenas sustenta a ilegalidade da negativa da prestação judicial constante no acórdão do TJSC que deixou de analisar o mérito do habeas corpus impetrado perante aquele tribunal" (fl. 137).
+Busca, assim, "a reforma da decisão monocrática agravada, inclusive em juízo monocrático de retratação, para conhecer do presente habeas corpus ao final, enfrentar o mérito da impugnação" (fl. 137).
+Requer o provimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR O DECISÓRIO IMPUGNADO. PRETENSÃO DE ANULAÇÃO DO ACÓRDÃO PROLATADO PELO TRIBUNAL DE ORIGEM E DETERMINAÇÃO DA ANÁLISE DO MÉRITO. REEXAME DE PROVA. DEFERIMENTO DO BENEFÍCIO DA SAÍDA TEMPORÁRIA. TESE NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Vê-se que não é o caso de anular o acórdão e determinar ao TJ/SC que enfrente o mérito, porquanto a análise da questão posta - deferimento da saída temporária - demanda reexame aprofundado de prova, providência incabível na via estreita do habeas corpus.
+2. A tese de possibilidade de concessão da saída temporária não foi debatida no acórdão atacado, impossibilitando a análise da matéria, razão pela qual este Tribunal Superior encontra-se, destarte, impedido de pronunciar-se a respeito, sob pena de se incorrer em indevida supressão de instância.
+3. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático.
+Extrai-se dos autos que o Juízo das Execuções indeferiu o pedido de saída temporária formulado pela defesa do paciente (fls. 22/25).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, o qual não foi conhecido sob o fundamento de que " ..  tratando-se de insurgência relacionada à execução penal, caberia à defesa a interposição do recurso de agravo previsto no artigo 197 da Lei n. 7.210/1984  .. " (fls. 75/76).
+Conforme relatado, a defesa pretende a anulação do acórdão do Tribunal de origem, com a determinação da análise do mérito do habeas corpus ou, subsidiariamente, o deferimento do benefício da saída temporária.
+No entanto, não é o caso de anular o acórdão e determinar ao TJ/SC que enfrente o mérito, porquanto a análise da questão posta - deferimento da saída temporária - demanda reexame aprofundado de prova, providência incabível na via estreita do habeas corpus. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA. VISITA PERIÓDICA AO LAR. HISTÓRICO DE EVASÕES NO SISTEMA PRISIONAL. AUSÊNCIA DO REQUISITO PREVISTO NO ART. 123, III, DA LEI N. 7.210/1984. FUNDAMENTAÇÃO IDÔNEA. DESCONSTITUIÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. RECURSO NÃO PROVIDO.
+1.  ..  as instâncias ordinárias, fundamentadamente, concluíram pelo não preenchimento do requisito constante do inciso III do art. 123 da Lei de Execução Penal - o qual preceitua a necessidade de análise acerca da compatibilidade do benefício da saída temporária com os objetivos da pena -, tendo em vista que a paciente teria demonstrado não possuir autodisciplina e responsabilidade suficientes.  ..  (AgRg no HC 581.645/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/11/2020, DJe 07/12/2020).
+2. No caso, o Tribunal ratificou a decisão do Juízo das execuções, o qual apresentou dados concretos da execução da pena, ao destacar que o executado tem histórico de evasão do sistema carcerário, não se mostrando, assim, compatível o benefício com os objetivos da pena imposta.
+3. Impossível a revisão do entendimento das instâncias ordinárias em sede de habeas corpus, que não admite dilação probatória.
+Precedentes.
+4. Recurso improvido.
+(AgRg no RHC n. 154.308/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021).
+No tocante ao pedido subsidiário, da leitura atenta dos autos, verifica-se que a tese de possibilidade de concessão da saída temporária não foi analisada pelo Tribunal a quo, sendo certo que não houve manifestação do Colegiado de origem sobre a questão aqui deduzida. Dessa forma esta Corte Superior de Justiça está impedida de pronunciar-se diretamente sobre a matéria, sob pena de atuar em indevida supressão de instância. Nessa esteira:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE MORA NA APRECIAÇÃO DO PEDIDO. EXCESSO DE PRAZO DEVIDAMENTE JUSTIFICADO. SUPERVENIENTE EXAME PELO JUÍZO DA EXECUÇÃO. PLEITO PREJUDICADO. DESPROVIMENTO DO RECLAMO.
+1. A via eleita revela-se inadequada para insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede seu formal conhecimento.
+2. O pleito de progressão de regime não foi objeto de debate pelo Tribunal de origem, o que evidencia a impossibilidade de conhecimento da impetração por este Sodalício, sob pena de supressão de instância. Precedentes.
+3. Quanto ao excesso de prazo na apreciação do pedido de progressão, verificou-se que a demora foi devidamente justificada e, posteriormente, o pleito foi examinado, tornando prejudicado o pedido.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 756.018/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 28/2/2023, DJe de 6/3/2023).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES . PEDIDO DE ABRANDAMENTO DE REGIME INICIAL. QUANTIDADE ELEVADÍSSIMA DE ENTORPECENTE APREENDIDA . 25 KG DE MACONHA. MODO INICIAL FECHADO MANTIDO. PLEITO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. BENESSE NÃO RECOMENDÁVEL. ALEGAÇÃO DE CABIMENTO DE PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido de abrandamento de regime inicial. A jurisprudência desta Corte Superior se firmou no sentido de que, havendo fundamentação concreta, e diante das circunstâncias do caso, é possível a fixação de regime inicial mais gravoso para o cumprimento da pena.  ..
+III - In casu, a quantidade e a natureza do entorpecente - 25 Kg de maconha - foram utilizadas como fundamentos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006.  ..
+IV - Pleito de substituição da pena privativa de liberdade por restritiva de direitos. a substituição da pena corporal por penas restritivas de direitos pode ser estabelecida para o delito de tráfico de entorpecentes, mas, para tanto, é necessário que o acusado preencha os requisitos legais elencados no art. 44 do Código Penal. Esta Corte Superior de Justiça tem decidido, por outro lado, que a quantidade da droga apreendida pode, associadas aos demais elementos constantes do processo, interferir na possibilidade de substituição da pena privativa de liberdade por penas restritivas de direitos.
+V - Na hipótese em análise, a natureza e a quantidade da droga apreendida - 25 Kg de maconha - não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos, consoante o disposto no art. 44, inciso III, do Código Penal, não havendo, portanto, qualquer ilegalidade na negativa da benesse em tela.  ..
+VI - Alegação de cabimento de prisão domiciliar. Observa-se que a referida tese não foi enfrentada pela eg. Corte de origem. Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC n. 166.402/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 26/8/2022).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
