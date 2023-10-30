@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MORAIS.  RECURSOS  REPETITIVOS.  RITO.  QUESTÃO  NÃO  AFETADA  .  SUSPENSÃO  DO  FEITO.  NÃO  CABIMENTO.  IMAGEM  DE  ATLETA.  ÁLBUM  DE  FIGURINHAS.  AUTORIZAÇÃO.  AUSÊNCIA.  ATO  ILÍCITO.  CARACTERIZAÇÃO.  DANOS  MORAIS  .  CONFIGURAÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DANOS  MORAIS.  VALOR.  REDUÇÃO.  SÚMULA  Nº  7/STJ.
+1.  O  Superior  Tribunal  de  Justiça,  no  julgamento  do  REsp  nº  2.011.252/SP  e  do REsp  nº  2.011.265/SP,  rejeitou  a  proposta  de  afetação  do  tema  em  discussão  ao  rito  dos  recursos  repetitivos,  de  forma  que  não  há  falar  na  suspensão  do  julgamento  do  presente  recurso.
+2.  A  exploração  indevida  da  imagem  de  jogadores  de  futebol  em  álbum  de  figurinhas,  com  fins  lucrativos  e  sem  o  consentimento  dos  atletas,  constitui  prática  ilícita  a  ensejar  o  pagamento  de  indenização  por  danos  morais.
+3.  Na hipótese, rever  o  entendimento  firmado  pelas  instâncias  ordinárias  acerca  dos  danos  morais  decorrentes  da  veiculação  não  autorizada  da  imagem  do  atleta  em  álbum  de  figurinhas  demandaria  o  reexame  de  matéria  fático-probatória  ,  providência  vedada  pela  Súmula  nº  7/STJ.
+4.  O  Superior  Tribunal  de  Justiça,  afastando  a  incidência  da  Súmula  nº  7/STJ,  tem  reexaminado  o  montante  fixado  pelas  instâncias  ordinárias  apenas  quando  irrisório  ou  abusivo,  circunstâncias  inexistentes  no  presente  caso,  em  que  arbitrada  indenização  no  valor  de  R$  10.000,00  (dez  mil  reais),  decorrente  da  veiculação  não  autorizada  da  imagem  do  atleta  em  álbum  de  figurinhas.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  de  PANINI  BRASIL  LTDA.  contra  a  decisão  que  não  conheceu  do  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ  (fls.  563/566,  e-STJ).
+Nas  presentes  razões,  a  agravante  requer  a  suspensão  da  tramitação  deste  recurso  até  o  julgamento  final  do  REsp  nº  2.011.252/SP  e  do  REsp  nº  2.011.265/SP.
+Afirma  que
+
+"(..)  o  Recurso  Especial  interposto  não  exige  a  rediscussão  da  matéria  fática,  o  que  é  vedado  por  essa  via  estreita.  Também  não  exige  a  reanálise  do  conjunto  probatório  produzido  nos  autos,  mas  apenas  a  correta  interpretação  dos  textos  legais  aplicáveis  ao  caso  em  debate,  assim  como  a  correta  valoração  do  quanto  nele  existente"  (fl.  575,  e-STJ).
+Impugnação  às  fls.  595/602  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MORAIS.  RECURSOS  REPETITIVOS.  RITO.  QUESTÃO  NÃO  AFETADA  .  SUSPENSÃO  DO  FEITO.  NÃO  CABIMENTO.  IMAGEM  DE  ATLETA.  ÁLBUM  DE  FIGURINHAS.  AUTORIZAÇÃO.  AUSÊNCIA.  ATO  ILÍCITO.  CARACTERIZAÇÃO.  DANOS  MORAIS  .  CONFIGURAÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DANOS  MORAIS.  VALOR.  REDUÇÃO.  SÚMULA  Nº  7/STJ.
+1.  O  Superior  Tribunal  de  Justiça,  no  julgamento  do  REsp  nº  2.011.252/SP  e  do REsp  nº  2.011.265/SP,  rejeitou  a  proposta  de  afetação  do  tema  em  discussão  ao  rito  dos  recursos  repetitivos,  de  forma  que  não  há  falar  na  suspensão  do  julgamento  do  presente  recurso.
+2.  A  exploração  indevida  da  imagem  de  jogadores  de  futebol  em  álbum  de  figurinhas,  com  fins  lucrativos  e  sem  o  consentimento  dos  atletas,  constitui  prática  ilícita  a  ensejar  o  pagamento  de  indenização  por  danos  morais.
+3.  Na hipótese, rever  o  entendimento  firmado  pelas  instâncias  ordinárias  acerca  dos  danos  morais  decorrentes  da  veiculação  não  autorizada  da  imagem  do  atleta  em  álbum  de  figurinhas  demandaria  o  reexame  de  matéria  fático-probatória  ,  providência  vedada  pela  Súmula  nº  7/STJ.
+4.  O  Superior  Tribunal  de  Justiça,  afastando  a  incidência  da  Súmula  nº  7/STJ,  tem  reexaminado  o  montante  fixado  pelas  instâncias  ordinárias  apenas  quando  irrisório  ou  abusivo,  circunstâncias  inexistentes  no  presente  caso,  em  que  arbitrada  indenização  no  valor  de  R$  10.000,00  (dez  mil  reais),  decorrente  da  veiculação  não  autorizada  da  imagem  do  atleta  em  álbum  de  figurinhas.
+5.  Agravo  interno  não  provido.
+VOTO
+A irresignação  não  merece  prosperar.
+De  início,  verifica-se  que esta Corte,  em  recentes  decisões  monocráticas  no  âmbito  dos  REsp  nº  2.011.252/SP  e  REsp  nº  2.011.265/SP,  rejeitou  a  proposta  de  afetação  do  tema  em  discussão  ao  rito  dos  recursos  repetitivos.  Assim,  não  há  falar  na  suspensão  do  presente  recurso.
+No  caso,  o  tribunal  de  origem  entendeu  que  a  ora  recorrente  tem  o  dever  de  indenizar  o  recorrido  pela  veiculação  indevida  de  sua  imagem  em  almanaque  de  figurinhas,  condenando-a  ao  pagamento  de  R$  10.000,00  (dez  mil  reais)  a  título  de  indenização  por  danos  morais.
+É  o  que  se  colhe  nos  seguintes  trechos  do  acórdão  recorrido:
+"(..)
+No  mais,  é  fato  incontroverso  a  ausência  de  qualquer  autorização  para  veiculação  da  imagem  do  autor  no  álbum  comercializado  pela  empresa  ré,  tanto  que  não  veio  à  colação  do  instrumento  particular  de  autorização  de  utilização  de  imagem.
+Logo,  no  caso  específico,  a  autorização  era  necessária,  seja  porque  o  álbum  de  figurinhas  ou  livro  ilustrado  não  se  confunde  com  matéria  jornalística,  havendo  clara  violação  da  imagem  do  ofendido,  em  descumprimento  à  proteção  contida  no  inciso  X,  do  artigo  5º  da  Constituição  Federal,  reproduzida  pelo  legislador  ordinário  no  art.  20,  caput,  do  Código  Civil.
+(..)
+Ressalte-se  que  a  alegação  de  se  trata  de  imagem  coletiva  em  que  o  autor  foi  retratado  juntamente  com  os  demais  atletas  do  time  em  que  atuava  não  afasta  a  pretensão,  dada  a  finalidade  econômica  e  lucrativa  da  publicação,  conforme  orienta  a  referida  Súmula  403.
+(..)
+Assim,  no  que  tange  aos  danos  morais,  tem-se  que  estes  são  presumidos,  já  que  eles  decorrem  da  simples  exposição  da  imagem  do  postulante,  sem  autorização,  fato  a  configurar  ato  ilícito,  ainda  que  não  resultem  em  consequências  danosas  como  abalo  psicológico  ou  ofensa  à  honra,  pois  o  prejuízo  é  "in  re  ipsa",  decorrente  da  simples  transgressão  pela  utilização  indevida  de  imagem/fotografia  para  fins  comerciais,  sendo  neste  caso,  dispensável  a  demonstração  do  dano  moral.
+(..)
+Nesse  passo,  atento  as  diretrizes  esposadas  acima  quanto  aos  danos  morais  e  aos  princípios  da  proporcionalidade  e  razoabilidade,  defere-se  em  parte  a  pretensão  do  autor  para  fixar  os  danos  morais  no  montante  de  R$  10.000,00,  corrigidos  da  data  da  publicação  deste,  mais  juros  moratórios  a  contar  do  evento  danoso  (Súmula  54  do  STJ).
+(..)"  (fls.  447/454,  e-STJ).
+De  fato,  tal  entendimento  está  em  consonância  com  a  jurisprudência  desta  Corte  ,  firmada  no  sentido  de  que  a  exploração  indevida  da  imagem  de  jogadores  de  futebol  em  álbum  de  figurinhas,  com  fins  lucrativos  e  sem  o  consentimento  dos  atletas,  constitui  prática  ilícita  a  ensejar  o  pagamento  de  indenização.
+A  propósito:
+"AGRAVO  REGIMENTAL  -  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  INDENIZAÇÃO  -  PUBLICAÇÃO  NÃO  AUTORIZADA  DE  IMAGEM  DE  JOGADOR  DE  FUTEBOL  EM  ÁLBUM  DE  FIGURINHAS  -  DANO  MORAL  -  CARACTERIZAÇÃO  -  PRECEDENTES  -  QUANTUM  INDENIZATÓRIO  -  RAZOABILIDADE  -  DISTRIBUIÇÃO  DA  SUCUMBÊNCIA  -  SÚMULA  7/STJ  -  RECURSO  IMPROVIDO".
+(AgRg  no  AREsp  14.595/RS,  Rel.  Ministro  MASSAMI  UYEDA,  TERCEIRA  TURMA,  julgado  em  20/11/2012,  DJe  de  4/12/2012).
+"RESPONSABILIDADE  CIVIL.  DIREITO  DE  IMAGEM.  ÁLBUM  DE  FIGURINHAS.  AUSÊNCIA  DE  AUTORIZAÇÃO  DE  JOGADOR  DE  FUTEBOL  NO  USO  DE  SUA  IMAGEM.  AÇÃO  INDENIZATÓRIA  PROCEDENTE.
+A  exploração  não  autorizada  da  imagem  de  jogador  de  futebol  em  álbum  de  figurinhas,  publicado  com  intuito  comercial,  constitui  prática  ilícita,  que  enseja  reparação  do  dano.
+  Impossível  a  fixação  do  valor  do  dano  diretamente  por  esta  Corte,  à  vista  da  ausência,  na  petição  inicial  e  na  contrariedade,  nem,  ainda,  na  sentença  e  no  Acórdão,  de  valor  ou  critério  precisos,  de  modo  que  inviável  o  uso  da  faculdade  do  art.  257  do  RISTJ,  remetendo-se,  pois,  a  fixação  do  valor  à  liquidação  por  arbitramento.
+  Recurso  Especial  provido" .
+ (REsp  1.219.197/RS,  Rel.  Ministro  SIDNEI  BENETI,  TERCEIRA  TURMA,  julgado  em  4/10/2011,  DJe  de  17/10/2011).
+"INDENIZAÇÃO.  DIREITO  À  IMAGEM.  JOGADOR  DE  FUTEBOL.  ÁLBUM  DE  FIGURINHAS.  ATO  ILÍCITO.  DIREITO  DE  ARENA.
+-É  inadmissível  o  recurso  especial  quando  não  ventilada  na  decisão  recorrida  a  questão  federal  suscitada  (súmula  nº  282-STF).
+-  A  exploração  indevida  da  imagem  de  jogadores  de  futebol  em  álbum  de  figurinhas,  com  intuito  de  lucro,  sem  o  consentimento  dos  atletas,  constitui  prática  ilícita  a  ensejar  a  cabal  reparação  do  dano.
+-  O  direito  de  arena,  que  a  lei  atribui  às  entidades  desportivas,  limita-se  à  fixação,  transmissão  e  retransmissão  de  espetáculo  esportivo,  não  alcançando  o  uso  da  imagem  havido  por  meio  da  edição  de  "álbum  de  figurinhas"  Precedentes  da  Quarta  Turma.
+  Recursos  especiais  não  conhecidos"  .
+  (REsp  67.292/RJ,  Rel.  Ministro  BARROS  MONTEIRO,  QUARTA  TURMA,  julgado  em  3/12/1998,  DJ  de  12/4/1999).
+Nesse  contexto,  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  acerca  dos  danos  morais  decorrentes  da  veiculação  não  autorizada  da  imagem  do  atleta  em  álbum  de  figurinhas,  demandaria  o  reexame  de  matéria  fático-probatória  por  esta  Corte,  providência  vedada  pela  Súmula  nº  7/STJ.
+Confiram-se:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  DE  IMAGEM.  ÁLBUM  DE  FIGURINHAS.  QUESTÃO  NÃO  AFETADA  AO  RITO  DOS  RECURSOS  REPETITIVOS.  SUSPENSÃO  DO  FEITO.  NÃO  CABIMENTO.  USO  DE  IMAGEM.  AUSÊNCIA  DE  AUTORIZAÇÃO.  SÚMULA  N.  403  DO  STJ.  INDENIZAÇÃO  DEVIDA.  ENTENDIMENTO  DA  CORTE  LOCAL  EM  CONSONÂNCIA  COM  A  JURISPRUDÊ  NCIA  DO  STJ.  SÚMULA  N.  83  DO  STJ.  INCIDÊNCIA.  REVISÃO.  INVIABILIDADE.  REDUÇÃO  DO  QUANTUM  INDENIZATÓRIO.  REEXAME  DO  ACERVO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Quando  um  recurso  especial  for  selecionado  como  representativo  de  controvérsia,  sendo  candidato  à  afetação  à  sistemática  dos  repetitivos,  mas  ainda  não  estiver  tramitando  sob  esse  rito,  não  há  fundamento  jurídico  para  suspender  processo.
+2.  Não  se  conhece  de  recurso  especial  quando  o  acórdão  recorrido  encontra-se  em  consonância  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça  (Súmula  n.  83  do  STJ).
+3.  Aplica-se  a  Súmula  n.  7  do  STJ  na  hipótese  em  que  o  acolhimento  da  tese  defendida  no  recurso  especial  reclama  a  análise  dos  elementos  probatórios  produzidos  ao  longo  da  demanda.
+4.  A  revisão  pelo  STJ  da  indenização  arbitrada  a  título  de  danos  morais  exige  que  o  valor  tenha  sido  irrisório  ou  exorbitante,  fora  dos  padrões  de  razoabilidade.  Salvo  essas  hipóteses,  incide  a  Súmula  n.  7  do  STJ,  impedindo  o  conhecimento  do  recurso  especial.
+5.  Agravo  interno  desprovido"  .
+  (AgInt  no  AREsp  2.311.114/SP,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  QUARTA  TURMA,  julgado  em  14/8/2023,  DJe  de  16/8/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  DIREITO  AUTORAL.  USO  DE  IMAGEM  FOTOGRÁFICA  SEM  AUTORIZAÇÃO.  RESPONSABILIDADE  CIVIL  RECONHECIDA.  DEVER  DE  INDENIZAR.  REVISÃO  DAS  CONCLUSÕES  DO  ACÓRDÃO  RECORRIDO.  IMPOSSIBILIDADE.  ÓBICE  DA  SÚMULA  N.  7  DO  STJ.  DANO  MORAL.  VALOR  DA  INDENIZAÇÃO.  RAZOABILIDADE.  REVISÃO.  INADMISSIBILIDADE.  INCIDÊNCIA  DA  SÚMULA  7  DO  STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  instância  originária  entendeu  que  houve  exploração  não  autorizada  da  imagem  de  jogador  de  futebol  em  álbum  de  figurinhas  de  natureza  comercial,  além  de  consignar  que  o  material  produzido  não  possui  conteúdo  iminentemente  histórico  e  bibliográfico,  conclusão  esta  pautada  sob  os  aspectos  fáticos  do  caso  concreto.
+1.1  A  modificação  de  tal  entendimento  demandaria  o  revolvimento  de  suporte  fático-probatório  dos  autos,  medida  inviável  em  sede  de  recurso  especial,  a  teor  da  Súmula  7/STJ.
+2.  No  que  concerne  ao  montante  fixado  a  título  de  indenização  por  danos  morais,  nos  termos  da  jurisprudência  deste  Tribunal,  o  valor  estabelecido  pelas  instâncias  ordinárias  pode  ser  revisto  tão  somente  nas  hipóteses  em  que  a  condenação  se  revelar  irrisória  ou  exorbitante,  distanciando-se  dos  padrões  de  razoabilidade,  o  que  não  se  evidencia  no  presente  caso.  Incidência  da  Súmula  7  do  STJ.
+3.  Agravo  interno  desprovido".
+  (AgInt  no  AREsp  2.224.852/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  3/5/2023,  DJe  de  10/5/2023).
+Quanto  à  pretensão  recursal  de  reduzir  o  valor  arbitrado  a  título  de  indenização  por  danos  morais,  inviável  o  seu  acolhimento  na  estreita  via  do  recurso  especial.
+O  Superior  Tribunal  de  Justiça,  afastando  a  incidência  da  Súmula  nº  7/STJ,  tem  reexaminado  o  montante  fixado  pelas  instâncias  ordinárias  apenas  quando  irrisório  ou  abusivo,  circunstâncias  inexistentes  no  presente  caso,  em  que,  diante  de  suas  especificidades,  não  se  pode  afirmar  desarrazoado  o  arbitramento  da  indenização  no  valor  de  R$  10.000,00  (dez  mil  reais).
+Desse  modo,  não  se  pode  dizer  que  referida  quantia  destoa  dos  parâmetros  adotados  por  esta  Corte  em  precedentes  análogos,  revelando-se  , ao revés,  perfeitamente  adequada.
+Nesse sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  JURISPRUDÊNCIA  DESTA  CORTE.  SÚMULA  N.  83  DO  STJ.  REEXAME  DO  CONJUNT  O  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  SÚMULA  N.  7/STJ.  DECISÃO  MANTIDA.
+1.  Inadmissível  o  recurso  especial  quando  o  entendimento  adotado  pelo  Tribunal  de  origem  coincide  com  a  jurisprudência  do  STJ  (Súmula  n.  83/STJ).
+2.  O  recurso  especial  não  comporta  o  exame  de  questões  que  impliquem  revolvimento  do  contexto  fático-probatório  dos  autos,  a  teor  do  que  dispõe  a  Súmula  n.  7/STJ.
+3.  Somente  em  hipóteses  excepcionais,  quando  irrisório  ou  exorbitante  o  valor  da  indenização  por  danos  morais  arbitrado  na  origem,  a  jurisprudência  desta  Corte  permite  o  afastamento  do  referido  óbice,  para  possibilitar  a  revisão.  No  caso,  o  valor  estabelecido  pelo  Tribunal  de  origem  não  se  mostra  excessivo,  a  justificar  sua  reavaliação  em  recurso  especial.
+4.  Agravo  interno  a  que  se  nega  provimento"  .
+  (AgInt  no  AREsp  2.299.442/SP,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  26/6/2023,  DJe  de  28/6/2023).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  DIREITO  DE  IMAGEM.  ÁLBUM  DE  FIGURINHAS.  QUESTÃO  NÃO  AFETADA  AO  RITO  DOS  RECURSOS  REPETITIVOS.  SUSPENSÃO  DO  FEITO.  NÃO  CABIMENTO.  USO  DE  IMAGEM.  AUSÊNCIA  DE  AUTORIZAÇÃO.  SÚMULA  N.  403  DO  STJ.  INDENIZAÇÃO  DEVIDA.  ENTENDIMENTO  DA  CORTE  LOCAL  EM  CONSONÂNCIA  COM  A  JURISPRUDENCIA  DO  STJ.  SÚMULA  N.  83  DO  STJ.  INCIDÊNCIA.  REVISÃO.  INVIABILIDADE.  REDUÇÃO  DO  QUANTUM  INDENIZATÓRIO.  REEXAME  DO  ACERVO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Quando  um  recurso  especial  for  selecionado  como  representativo  de  controvérsia,  sendo  candidato  à  afetação  à  sistemática  dos  repetitivos,  mas  ainda  não  estiver  tramitando  sob  esse  rito,  não  há  fundamento  jurídico  para  suspender  processo.
+2.  Não  se  conhece  de  recurso  especial  quando  o  acórdão  recorrido  encontra-se  em  consonância  com  a  jurisprudência  do  Superior  Tribunal  de  Justiça  (Súmula  n.  83  do  STJ).
+3.  Aplica-se  a  Súmula  n.  7  do  STJ  na  hipótese  em  que  o  acolhimento  da  tese  defendida  no  recurso  especial  reclama  a  análise  dos  elementos  probatórios  produzidos  ao  longo  da  demanda.
+4.  A  revisão  pelo  STJ  da  indenização  arbitrada  a  título  de  danos  morais  exige  que  o  valor  tenha  sido  irrisório  ou  exorbitante,  fora  dos  padrões  de  razoabilidade.  Salvo  essas  hipóteses,  incide  a  Súmula  n.  7  do  STJ,  impedindo  o  conhecimento  do  recurso  especial.
+5.  Agravo  interno  desprovido".
+  (AgInt  no  REsp  2.057.304/SP,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  QUARTA  TURMA,  julgado  em  19/6/2023,  DJe  de  21/6/2023  -  Indenização  por  dano  moral:  R$  10.000,00  -  dez  mil  reais).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
