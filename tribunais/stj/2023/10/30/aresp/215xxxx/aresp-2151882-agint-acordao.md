@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO JUÍZO PRÉVIO DE ADMISSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade. Precedentes.
+2. No caso em exame, verifica-se que o agravante deixou de cumprir com a determinação imposta pelo princípio da dialeticidade, já que não rebateu os fundamentos referentes à incidência das Súmulas nºs 7 e 83 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por HEADWAY SQUASH & FITNESS ACADEMIA ESPORTIVA LTDA. (HEADWAY) contra decisão do então Presidente desta Corte, Ministro HUMBERTO MARTINS, que não conheceu do agravo anteriormente manejado por ausência de impugnação a todos os fundamentos da decisão do juízo prévio de admissibilidade (art. 932, III, do CPC).
+Nas razões do presente inconformismo, defendeu (1) que houve impugnação ao tópico relativo à inclusão das parcelas vencidas no curso da demanda, o que afastaria a aplicação da Súmula nº 182 do STJ; (2) que não se aplica o óbice da Súmula nº 83 do STJ em relação ao alegado desequilíbrio na distribuição dos honorários sucumbenciais, pois ficou demonstrado que os parâmetros adotados pela Corte estadual não observaram os requisitos estabelecidos tanto pelo ordenamento jurídico quanto pela jurisprudência pátrios; e (3) que a apreciação das teses formuladas não demandaria o revolvimento da análise fático-probatória, devendo ser afastada a aplicação da Súmula nº 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 514/525).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO ART. 932, III, DO CPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO JUÍZO PRÉVIO DE ADMISSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do CPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade. Precedentes.
+2. No caso em exame, verifica-se que o agravante deixou de cumprir com a determinação imposta pelo princípio da dialeticidade, já que não rebateu os fundamentos referentes à incidência das Súmulas nºs 7 e 83 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece prosperar, devendo ser mantidos os fundamentos da decisão agravada.
+Isso porque, de fato, o agravo não impugnou todos os fundamentos do juízo prévio de admissibilidade utilizado para negar seguimento ao recurso especial.
+O apelo nobre não foi admitido pela Corte estadual por ausência de demonstração da afronta aos arts. 489 e 1.022, ambos do CPC, e ante a aplicação das Súmula nºs 7, 83 e 211 do STJ e 282 do STF, por analogia.
+Nas razões agravo , HEADWAY repisou as razões do mérito recursal sustentando o seguinte: (1) a afronta aos supramencionados dispositivos infraconstitucionais inseridos nos artigos 489 e 1.022 do Código de Processo Civil é evidente, uma vez que o fundamento do acórdão objurgado pelo Recurso Especial foi expressamente impugnado pela ora Agravante (e-STJ, fl. 460); (2) que a apreciação das teses também não demanda qualquer revolvimento da análise fático-probatória, hipótese essa vedada pelo teor da súmula nº 7/STJ (e-STJ, fl. 466); e qu e (3) os dispositivos legais cujas violações fundamentam o Recurso Especial foram devidamente tratados no acórdão que julgou o Recurso de Apelação, bem como no aresto que apreciou os seus Embargos de Declaração anteriormente aviados  ..  devendo ser reformada também nesse ponto a r. decisão objurgada, uma vez que não há de se falar em aplicação das súmulas 211/STJ, 282/STFe 356/STF (e-STJ, fls. 467/471).
+Observa-se do cotejo entre a decisão do juízo prévio de admissibilidade e os argumentos apresentados nas razões recursais que não houve a necessária e regular impugnação de todos os fundamentos que ampararam a negativa de seguimento do recurso especial.
+Por oportuno, vale destacar que, de acordo com o entendimento desta Casa, a impugnação da Súmula nº 83 do STJ exige a indicação de precedentes atuais de que a jurisprudência desta Corte Superior não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes por meio do distinguishing, o que não se verificou na hipótese.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.  ..  RECUPERAÇÃO JUDICIAL. ENTENDIMENTO DESTA CORTE. SÚMULA 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.  ..  AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração, por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes por meio de distinguishing, o que não ocorreu na hipótese.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.078.665/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe de 9/6/2023 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015.  ..  5. AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+1.1. De fato, quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a contradita deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.806.433/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 14/5/2021 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA.  ..  AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+ ..
+3. Verifica-se no caso em apreço que não foi impugnado no Agravo em Recurso Especial o seguinte argumento: "Súmula 83 do STJ" (fl. 177, e-STJ).
+4. Tendo sido utilizada tal súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no Agravo em Recurso Especial. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe 11/3/2019.
+ ..
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.190.005/RJ, relator Ministro HERMAN BENDAMIN, Segunda Turma, DJe de 26/6/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO ATACOU, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM.  ..  RECURSO DESPROVIDO.
+ ..
+2. Para impugnar a incidência da Súmula n. 83 desta Corte, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+ ..
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 2.346.991/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe de 22/8/2023.)
+Registre-se, também, que a parte, ao recorrer, deve buscar demonstrar o desacerto da decisão contra a qual se insurge, refutando todos os seus óbices, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial, sob pena de vê-la mantida.
+Com efeito, o agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do CPC, e 253, I, do RISTJ, ônus do qual não se desincumbiu a parte insurgente.
+Nesse sentido, vejam-se os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.  ..  NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO POR OUTRO FUNDAMENTO.
+ ..
+2. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do art. 932, III, do Código de Processo Civil de 2015 e do art. 253, parágrafo único, I, do RISTJ (redação dada pela Emenda Regimental n. 22, de 2016).
+ ..
+(AgInt no AREsp n. 2.201.589/GO, relator Ministro RAUL ARAÚJO, Quarta Turma, DJe de 3/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. ARTIGO 932, INCISO III, DO CPC/2015. IMPUGNAÇÃO. AUSÊNCIA. MATÉRIA CONSTITUCIONAL. ANÁLISE. INVIABILIDADE.
+ ..
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, inciso III, do CPC/2015).
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.896.633/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 18/3/2022.)
+Dessa forma, não sendo a linha ar gumentativa apresentada por HEADWAY capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ser integralmente mantido com seus próprios termos.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
