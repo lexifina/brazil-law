@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  DE  PROMESSA  DE  COMPRA  E  VENDA.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  DEVOLUÇÃO  DE  VALORES.  PERCENTUAL  DE  RETENÇÃO.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DISSÍDIO  JURISPRUDENCIAL.  NÃO  COMPROVAÇÃO.
+1.  É  inadmissível  o  recurso  especial  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.  Súmula  nº  284/STF,  aplicada  por  analogia.
+2.  A  divergência  jurisprudencial  com  fundamento  na  alínea  "c"  do  permissivo  constitucional  exige  comprovação  e  demonstração,  esta,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  acórdãos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  se  oferecendo  como  bastante  a  simples  transcrição  de  ementas  sem  realizar  o  necessário  cotejo  analítico  a
+evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  PORTO  FREIRE  ENGENHARIA  E  INCORPORAÇÃO  LTDA.  (outro  nome:  PORTO  FREIRE  ENGENHARIA  E  INCORPORAÇÃO  LTDA.  FALIDO)  contra  a  decisão  da  Presidência  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  284/STF  e  da ausência  de  demonstração  do  dissídio  jurisprudencial.
+Nas  presentes  razões  (fls.  528/534,  e-STJ),  a  agravante  afirma  que  não  incide  o  óbice  da  Súmula  nº  284/STF,  pois,  "em  verdade,  a  Lei  nº  13.786/2018  incluiu  o  art.  67-A  na  Lei  nº  4.591/1964"  (fl.  531,  e-STJ).
+Por  fim,  sustenta  que  demonstrou  o  dissenso  interpretativo  a  respeito  do  direito  de  retenção  de  25%  (vinte  e  cinco  por  cento)  do  valor  investido  pelas  autoras,  não  havendo,  portanto,  nenhuma  deficiência  que  impeça  a  abertura  da  instância  especial.
+Sem  impugnação.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CONTRATO  DE  PROMESSA  DE  COMPRA  E  VENDA.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  DEVOLUÇÃO  DE  VALORES.  PERCENTUAL  DE  RETENÇÃO.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  DISSÍDIO  JURISPRUDENCIAL.  NÃO  COMPROVAÇÃO.
+1.  É  inadmissível  o  recurso  especial  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.  Súmula  nº  284/STF,  aplicada  por  analogia.
+2.  A  divergência  jurisprudencial  com  fundamento  na  alínea  "c"  do  permissivo  constitucional  exige  comprovação  e  demonstração,  esta,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  acórdãos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  se  oferecendo  como  bastante  a  simples  transcrição  de  ementas  sem  realizar  o  necessário  cotejo  analítico  a
+evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+No  que  tange  à  Lei  nº  13.786/2018,  constata-se  a  deficiência  na  fundamentação  recursal  pela  não  indicação  dos  dispositivos  legais  que  teriam  sido  violados,  o  que  atrai  a  incidência  da  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Além  disso,  mesmo  que  não  fosse  o  caso  de  incidência  da  Súmula  nº  284/STF,  poderia  ser  aplicada  a  Súmula  nº  211/STJ,  afinal,  o  dispositivo  apontado  como  violado  no  recurso  especial  não  foi  objeto  de  debate  pelas  instâncias  ordinárias,  embora  opostos  embargos  de  declaração.  Ausente  o  requisito  do  prequestionamento.
+Ademais,  não  há  impropriedade  em  afirmar  a  falta  de  prequestionamento  e  afastar  a  negativa  de  prestação  jurisdicional,  haja  vista  o  julgado  estar  devidamente  fundamentado  sem,  no  entanto,  ter  decidido  a  causa  à  luz  dos  preceitos  jurídicos  suscitados  pela  recorrente.
+Vale  anotar  que  a  jurisprudência  desta  Corte  é  firme  no  sentido  de  que  "o  prequestionamento  é  indispensável  ao  conhecimento  da  questão  veiculada  no  âmbito  do  Superior  Tribunal  de  Justiça,  ainda  que  se  trate  de  matéria  de  ordem  pública"  (AgRg  no  REsp  nº  1.505.392/PE,  Rel.  Ministro  Paulo  de  Tarso  Sanseverino,  DJe  6/11/2015).
+No mesmo sentido:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  PROCESSUAL  CIVIL.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  Nº  282/STF  INTERPRETAÇÃO  DE  CLÁUSULA  E  REEXAME  DE  PROVA.  SÚMULAS  Nº  5  E  Nº  7/STJ.  INVIABILIDADE.
+1.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282  do  Supremo  Tribunal  Federal.
+2.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+3.  Rever  questão  decidida  com  base  na  interpretação  das  normas  contratuais  e  no  exame  das  circunstâncias  fáticas  da  causa  esbarra  nos  óbices  das  Súmulas  nºs  5  e  7  deste  Tribunal.
+4.  Agravo  regimental  não  provido"  (AgRg  no  AREsp  568.759/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  DJe  27/10/2015  -  grifou-se).
+Por  fim,  pela  alínea  "c"  do  permissivo  constitucional,  o  recurso  não  merece  conhecimento,  pois,  nos  termos  dos  arts.  1.029,  §  1º,  do  Código  de  Processo  Civil  e  255,  §  1º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  a  divergência  jurisprudencial  deve  ser  comprovada  e  demonstrada,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  arestos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  o  que  não  ocorreu  na  espécie.  Não  basta  a  simples  transcrição  de  ementas  e  de  parte  dos  votos  sem  que  seja  realizado  o  necessário  cotejo  analítico  a  evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+Além  disso,  não  há  como  aferir  eventual  dissídio  jurisprudencial  sem  que  tenham  os  acórdãos  recorrido  e  paradigma  examinado  o  tema  com  enfoque  na  mesma  legislação  infraconstitucional.
+A propósito :
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO.  DANOS  MORAIS.  ESPECIAL  INTERPOSTO  PELA  ALÍNEA  "C".  DIVERGÊNCIA  JURISPRUDENCIAL.  AUSÊNCIA  DE  DEMONSTRAÇÃO.  FALTA  DE  INDICAÇÃO  DO  DISPOSITIVO  LEGAL.  SÚMULA  N.  284/STF.  DECISÃO  MANTIDA.
+1.  O  conhecimento  do  recurso  especial  pela  alínea  "c"  do  permissivo  constitucional  exige  a  indicação  do  dispositivo  legal  ao  qual  foi  atribuída  interpretação  divergente  e  a  demonstração  do  dissídio,  mediante  a  verificação  das  circunstâncias  que  assemelhem  ou  identifiquem  os  casos  confrontados  (arts.  255,  §§  1º  e  2º,  do  RISTJ  e  1.029,  §  1º,  do  CPC/2015),  o  que  não  foi  observado  no  caso,  fazendo  incidir  a  Súmula  n.  284/STF,  aplicada  por  analogia.  Precedentes.
+2.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.086.408/SC,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  DJe  30/10/2017  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  EM  RECURSO  ESPECIAL.  ALÍNEA  C.  INCIDÊNCIA  DO  VERBETE  DA  SÚMULA  284  DO  STF.  REEXAME  DE  FATOS  E  PROVAS.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.
+1.  Incide  o  verbete  da  Súmula  284  do  STF  quando  o  recorrente  deixa  de  indicar  qual  dispositivo  de  lei  federal  teve  sua  interpretação  divergente  pelo  Tribunal,  mesmo  quando  o  recurso  foi  interposto  pela  alínea  "c"  do  permissivo  constitucional.
+2.  A  análise  da  alegação  recursal,  no  que  tange  à  alegação  de  violação  da  coisa  julgada,  demandaria  o  reexame  do  conjunto  fático-probatório,  obstado  nesta  instância,  conforme  o  disposto  na  Súmula  7/STJ.
+3.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  REsp  1.347.791/DF,  Rel.  Ministro  OG  FERNANDES,  SEGUNDA  TURMA,  DJe  19/11/2015  -  grifou-se).
+Torna-se  patente,  assim,  a  falta  de  fundamentação  do  apelo  especial,  circunstância  que  atrai  a  incidência  da  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Assim,  não  prosperam  as  alegações  postas  no  agravo  interno,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
