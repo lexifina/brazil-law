@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por WELLINGTON MOTA TAVARES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS À EXECUÇÃO FISCAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ARTIGO 485, IV. DO NCPC. APELAÇÃO DO EMBARGANTE. AUSÊNCIA DE GARANTIA DO JUÍZO. NOS TERMOS DO ARTIGO 16, §1º. DA LEF. QUESTÃO DELIBERADA PELA TURMA ESPECIAL DE DIREITO PÚBLICO DESTE TRIBUNAL (IRDR  2020356-21.2019.8.26.0000 - TEMA  30). RECEBIMENTO DOS EMBARGOS À EXECUÇÃO CONDICIONADO À GARANTIA INTEGRAL DO JUÍZO. PRECEDENTE VINCULANTE, À LUZ DOS ARTIGOS 927. III, E 489, VI, AMBOS DO NCPC.
+Quanto à controvérsia, a parte recorrente alega entendimento divergente do art. 16, § 1º, da Lei n. 6.830/1980, no que concerne à necessidade de que seja dado prosseguimento aos embargos de execução, dispensada a garantia do juízo, considerando o estado de hipossuficiência econômica do recorrente, trazendo a seguinte argumentação:
+O Recorrente faz jus a excepcionalidade com a ausência de garantia do Juízo, que por conclusão lógica, o Recorrente sendo beneficiário da justiça gratuita, pois comprovou para o Juízo a quo seu estado de hipossuficiência econômica, não dispõe de patrimônio ou recursos para prover a garantia.
+O Egrégio Tribunal ad quem entendeu por bem aplicar o art. 16, § 1º da LEF em sentido estrito (dura lex sed lex) e desconsiderou o entendimento acerca da exceção da garantia do juízo (analogia) fixada pela jurisprudência do C. STJ.
+ ..
+Á excepcionalidade, com a ausência de garantia do juízo, que o Recorrente faz jus, fica explicita na Jurisprudência deste Colendo Tribunal.
+Os embargos à execução foram rejeitados liminarmente pelo fato do Recorrente não possuir bens para o juízo de garantia, contudo, seria de ofensa dantesca extinguir o processo que lhe dá o direito de se portar como igual com o Recorrido, pois o meio legal é justamente os embargos, e não houve equidade pelos julgadores das instâncias infra.
+O § 1º do art. 16 da Lei nº 6.830/80 estabelece que "não são admissíveis embargos do executado antes de garantida a execução", mas o Recorrente pretende que os embargos sejam recebidos sem a garantia do juízo com base na interpretação da por esse Colendo Tribunal através das decisões paradigmas apresentadas, que se moldam como uma "luva" ao caso do recorrente.
+A exigência prevista no art. 16, § 1º da LEF, combatida pela Jurisprudência deste Colendo Tribunal através das decisões paradigmas apresentadas, deve ser compreendida à luz do princípio da universalidade do acesso à justiça, levando-se em conta as particularidades do caso concreto, no caso o Recorrente é beneficiário da justiça gratuita.
+Trata-se de situação excepcional que justifica o abrandamento da exigência posta na lei em questão (art. 16, § 1º da LEF), nos termos da jurisprudência deste Superior Tribunal de Justiça (fls. 102-106).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Sobre o tema, confira-se ainda o seguinte julgado: AgInt no AREsp n. 1.516.702/BA, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/12/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
