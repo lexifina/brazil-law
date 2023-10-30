@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial.
+O agravante sustenta que, em relação ao óbice da Súmula 83/STJ, "Em que pese a Corte Superior ter julgado ausente a impugnação específica com relação ao referido fundamento, não é o que se depreende do Agravo não conhecido" (fl. 365).
+Destaca "que de fato houve a devida impugnação efetiva, concreta e pormenorizada do tema em comento, uma vez que, apreciando o texto discorrido na petição de Agravo em Recurso Especial, verifica-se que foi dedicado um tópico para combater a aludida súmula" (fl. 365).
+Requer a reconsideração da decisão agravada ou que o recurso seja submetido à Turma para provimento ao Recurso Especial em toda a sua integralidade petitória.
+Impugnação apresentada.
+É o relatório.
+Efetivamente impugnados os fundamentos da decisão de inadmissão do recurso especial, o agravo merece ser conhecido, em ordem a que se evolua para o mérito.
+Consta dos autos que o réu foi condenado como incurso no tipo penal descrito no art. 155, §4º, incisos I (arrombamento) do Código Penal, à pena de 11 (onze) meses de reclusão e ao pagamento de 4 (quatro) dias-multa, a ser cumprida no regime inicialmente semiaberto.
+Em face da referida decisão, a defesa interpôs recurso de apelação, ao qual foi negado provimento.
+Foram opostos embargos de declaração, os quais foram conhecidos e providos exclusivamente para integrar a matéria à decisão embargada, não alterando o resultado do julgamento da apelação criminal.
+No recurso especial, o recorrente aponta violação dos arts. 155, §4º, I, do CP e 158 do CPP, bem como dos arts. 59 e 68 do CP e do art. 33, §2º, alínea c, do CP.
+Argumenta ser indevido o reconhecimento da qualificadora do rompimento de obstáculo, pois foi imputada baseando-se exclusivamente na palavra de testemunhas que sequer presenciaram o ocorrido, mesmo se tratando de crime que deixa vestígio e que, por lei, exige perícia técnica.
+Aduz que foi equivocada a valoração negativa da culpabilidade na primeira fase da dosimetria da pena, pois baseada em elemento inerente ao tipo penal.
+Sustenta que "o recorrente faz jus ao cumprimento da pena menos gravoso, uma vez ter sido condenado a pena inferior 4 (quatro) anos, não sendo a reincidência, por si só, capaz de aplicar o regime fechado, principalmente quando todas as demais circunstâncias são favoráveis ao recorrente" (fl. 284).
+Requer o provimento do recurso especial para que seja afastada a qualificadora do rompimento de obstáculo, decotada a vetorial relativa à culpabilidade e fixado o regime inicial aberto para o cumprimento da pena.
+No tocante à qualificadora do rompimento do obstáculo, a Corte de origem assim se manifestou (fl. 207):
+Apreendida a res furtiva em poder do réu, que confessou a prática delitiva aos policiais, que confirmaram os fatos em juízo, aliada às provas testemunhais que confirmam o rompimento de obstáculo para a prática do crime, a manutenção da condenação por furto qualificado é medida que se impõe. Deve ser aplicada a qualificadora do rompimento de obstáculo, mesmo que não haja laudo pericial constatando o arrombamento, desde que este esteja sobejamente comprovado pela prova oral.
+Com efeito, "excepcionalmente, quando presentes nos autos elementos aptos a comprovar" a incidência das qualificadoras "de forma inconteste, pode-se reconhecer o suprimento da prova pericial" (AgRg no HC n. 556.549/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 1º/3/2021, grifei), como ocorreu na espécie, em que a qualificadora foi comprovada pela prova oral colhida. Nesse mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO. ALEGAÇÃO DE SER INDEVIDA A APLICAÇÃO DA QUALIFICADORA. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE LAUDO PERICIAL. PROVA ORAL COERENTE, FIRME E CLARA QUANTO AOS FATOS. SUFICIÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. REGIME ADEQUADO. PACIENTE REINCIDENTE.
+1. Não restou dúvida de que o crime de furto foi praticado mediante o rompimento de obstáculo, em razão de um testemunho que foi feito de forma firme, coerente e sem dúvida, pelo fato de ter o paciente arrombado o cadeado da porta da despensa, o que o possibilitou furtar as ferramentas.
+2. Agravo regimental improvido.
+(AgRg no HC n. 787.586/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/9/2023, DJe de 15/9/2023.)
+Em relação à dosimetria da pena e ao regime prisional, o Tribunal de origem assim se manifestou (fl. 207):
+Quanto à dosimetria, a culpabilidade, enquanto circunstância do crime, refere-se ao grau de reprovabilidade na prática do crime em si, no caso, furto. O fato de a televisão ter sido furtada de um órgão público que atende a comunidade e é um equipamento importante para o conforto dos cidadãos que aguardam o atendimento médico é suficiente para a negativação da respectiva vetorial, pois o crime prejudicou uma multiplicidade de pessoas e deve ser reprimido com maior veemência.
+Por derradeiro, é lícito ao juiz estabelecer o regime semiaberto ao agente possuidor de maus antecedentes, mesmo que o quantum da pena seja compatível com o aberto, nos termos do art. 33, § 3º, do Código Penal. O art.44, III, CPB é óbice à substituição de penas do agente que possui circunstâncias judiciais desfavoráveis.
+"No tocante à culpabilidade, para fins de individualização da pena, esta deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, a maior ou menor censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito" (AgRg no AREsp n. 2.340.774/PA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023.).
+No caso dos autos, foi apontado elemento concreto para a valoração negativa da referida vetorial, pois o fato de o bem furtado ser utilizado pela comunidade revela maior reprovabilidade da conduta pelo fato de a prática criminosa lesar, ainda que de forma indireta, diversas pessoas.
+Outrossim, quanto ao regime prisional, assentou a Corte de origem que a existência de maus antecedentes justifica a fixação de regime mais gravoso.
+No caso dos autos, ainda que a pena tenha sido estabelecida em patamar inferior a 4 anos de reclusão (11 meses de reclusão), verifica-se da sentença que o réu ostenta condenação anterior transitada em julgado, que foi utilizada para incidir a agravante da reincidência (fl. 123), além disso, houve circunstância judicial desfavoravelmente valorada, restando, portando, correta a fixação do regime semiaberto, não havendo que se falar em violação do art. 33, §2º, c, do CP. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. RÉU REINCIDENTE EM CRIME PATRIMONIAIS. MAUS ANTECEDENTES. PENA INFERIOR A 04 ANOS DE RECLUSÃO. REGIME INICIAL SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+6. Em que pese tenha sido imposta reprimenda inferior a 4 anos de reclusão, tratando-se de réu reincidente e com circunstância judicial desfavoravelmente valorada, admite-se, excepcionalmente, o abrandamento do regime inicial de cumprimento da pena, com amparo em julgados proferidos pelo Supremo Tribunal Federal, no RHC 224.553/SC (1ª Turma, Relator Ministro Cristiano Zanin, Relator para acórdão Ministro Alexandre de Moraes, julgado em 28/08/2023, acórdão pendente de publicação) e no HC 123.533/SP (Pleno, Relator Ministro Roberto Barroso, DJe de 18/02/2016).
+7. Agravo regimental parcialmente provido, apenas para fixar o regime inicial semiaberto para o cumprimento da pena.
+(AgRg no AREsp n. 2.330.296/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/9/2023, DJe de 24/10/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PENA INFERIOR A 4 ANOS. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. REGIME SEMIABERTO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico o entendimento desta Corte Superior no sentido de admitir a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a 4 (quatro) anos, se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ.
+2. No caso, considerando que o agravante, além de reincidente, possui maus antecedentes, foi fixado o regime inicial semiaberto, o que se revela benéfico ao réu e não destoa da mansa orientação jurisprudencial desta Corte.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.348.217/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2023, DJe de 29/9/2023.)
+Ante o exposto, reconsidero a decisão agravada para conhecer do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
