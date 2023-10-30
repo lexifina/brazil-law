@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão da falta de impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem; por conseguinte, foi aplicada, por analogia, a Súmula 182 do Superior Tribunal de Justiça.
+2. No agravo interno, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplica-se ao presente caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Para refutar a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+4. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MONACO SIANI ENGENHARIA, EMPREENDIMENTOS E PARTICIPACOES LTDA contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu de seu agravo em recurso especial em razão da incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça, uma vez que não foram impugnados todos os fundamentos de inadmissão do recurso especial.
+Em suas razões recursais, a parte agravante requer o provimento do agravo para que seja determinado o processamento do recurso especial para a apreciação do mérito.
+Impugnação ao recurso não apresentada conforme a certidão de fl. 861.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO. RECURSO NÃO CONHECIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial em razão da falta de impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem; por conseguinte, foi aplicada, por analogia, a Súmula 182 do Superior Tribunal de Justiça.
+2. No agravo interno, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplica-se ao presente caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Para refutar a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+4. Agravo interno não conhecido.
+VOTO
+A decisão recorrida não conheceu do agravo em recurso especial em razão da falta de impugnação do seguinte fundamento de inadmissão do recurso especial: Súmula 83/STJ; por ess e motivo consignou-se a incidência da Súmula 182 do STJ, por analogia.
+Nas razões do agravo interno, a parte agravante alega, em síntese: (a) impossibilidade de majoração dos honorários em agravo interno; (b) que "As questões foram levantadas e debatidas a exaustão desde que proferida a decisão pelo juízo monocrático de primeira instancia. Inúmeras foram as irregularidades praticadas, restando desconsiderado o Tema 725 deste STF, afastando, pois o legítimo direito a ampla defesa, a livre iniciativa, a arbitrariedade da fiscalização e a própria coisa julgada, na medida em que não houve ação em seara trabalhista referendando a relação de emprego" (fl. 847); (c) que a "questão ora em debate cinge-se unicamente a questão de direito, eis que não há impugnação quanto a datas, fatos ou provas, nem pelo agravante nem pelo agravado, apenas a interpretação e aplicação do direito, não há revolvimento de provas e nem de fatos, somente hermenêutica jurídica e sua correta incidência no mundo dos acontecimentos" (fl. 847); (d) que "a Agravante não se limitou a apenas fazer referências aos artigos vulnerados pelas instâncias ordinárias. Basta a leitura do Recurso Especial, para se identificar que houve sim a devida argumentação que autoriza sua admissão quanto à demonstração da ocorrência de ofensas às leis federais pelo v. acórdão" (fl. 848). Reitera, por fim, as razões de mérito do recurso especial.
+Como se vê, a parte agravante, no recurso ora examinado, igualmente não refuta as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Assim, é devida a aplicação ao caso em questão da Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Para rebater a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+Registro, ainda, que o recurso de agravo, tanto aquele previsto no art. 1.042 do Código de Processo Civil como o dito regimental ou interno previsto no art. 1.021, § 1º, do mesmo CPC, objetiva desconstituir os fundamentos que impediram o processamento do recurso especial; o recurso não comporta seguimento sem essa providência.
+Pelas considerações expostas, não conheço do agravo interno.
+É o voto.
