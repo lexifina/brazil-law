@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARTA NEVES DA SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Depreende-se dos autos que a recorrente foi presa preventivamente pela prática, em tese, dos delitos de tráfico de drogas e associação para o tráfico.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O Tribunal de origem denegou a ordem, nos termos do acórdão de fls. 214-225.
+No presente recurso ordinário, a recorrente alega que estaria sofrendo constrangimento ilegal, em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar, reforçando que possuiria condições pessoais favoráveis.
+Sustenta que tem direito à substituição da prisão preventiva pela domiciliar, por ser mãe de uma criança de quatro anos de idade.
+Requer, ao final, a substituição da prisão preventiva pela prisão domiciliar.
+A liminar foi indeferida e as informações foram prestadas às fls. 261-432.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, nos termos de parecer de fls. 434-439 .
+É o relatório.
+Decido.
+O Supremo Tribunal Federal, no julgamento do habeas corpus coletivo n. 143.641/SP, entendeu ser possível a substituição da segregação cautelar pela prisão domiciliar, sem prejuízo da aplicação concomitante das medidas cautelares previstas no artigo 319 do CPP, para mulheres presas, gestantes, puérperas ou mães de crianças sob sua guarda, enquanto perdurar tal condição, excetuados os casos de crimes praticados por elas mediante violência ou grave ameaça, contra seus descendentes ou, ainda, em situações excepcionalíssimas.
+Na mesma esteira, a Lei n. 13.769, de 19/12/2018, assegurou às mulheres gestantes, mães ou responsáveis por crianças ou pessoas com deficiência, a substituição da prisão preventiva por prisão domiciliar, exceto em casos de crimes cometidos com violência ou grave ameaça ou contra seus filhos ou dependentes, ao incluir os arts. 318-A e 318-B no Código de Processo Penal.
+No caso dos autos, a recorrente demonstrou possuir uma filha menor, com idade de quatro anos (fl. 14). Nesse aspecto, apesar da relevante fundamentação do acórdão recorrido, entendo que os benefícios de se permitir à mãe dispensar aos filhos de tenra idade os cuidados necessários, sobrepõem -se à necessidade de segregação da genitora, tendo em vista que as condutas em tese por ela perpetradas, quais sejam, tráfico de drogas e associação para o tráfico, não foram cometidas mediante grave ameaça ou violência, tampouco contra seus descendentes, preenchendo portanto os requisitos legais para a substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318-A do CPP.
+Ante o exposto, dou provimento ao recurso ordinário para determinar a substituição da prisão preventiva da recorrente por prisão domiciliar, salvo se por outro motivo estiver presa, e sem prejuízo da imposição concomitante de outras medidas cautelares alternativas, nos termos do art. 318-B do Código de Processo Penal, devendo, ainda, o juízo de primeiro grau orientar a recorrente quanto às condições da prisão domiciliar, de forma a evitar seu descumprimento ou a reiteração criminosa, haja vista que tais circunstâncias poderão ocasionar a revogação do benefício.
+Publique-se e intime-se.
+ EMENTA
