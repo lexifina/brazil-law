@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de simples petição apresentada pela defesa, às fls. 161-167 (PET n. 00913273/2023), em que reitera as razões da inicial do writ (buscando progressão de regime) bem como pleiteia também a concessão de livramento condicional.
+Assim, sustenta e requer (fls. 161-167):
+"(..) MESSIAS ALVES DA FONSECA, já devidamente qualificado nos presentes autos, vem, respeitosamente, à presença de Vossas Excelências, por sua procuradora que esta subscreve, informar que atingiu o direito ao livramento condicional em 18/07/2023 e ainda se encontra cumprindo a pena no regime fechado, conforme atestado de pena anexo, ou seja, sem nenhuma progressão de regime até o momento.
+Pelo atestado de pena percebe-se com uma clareza de doer os olhos de qualquer um, que o paciente JÁ CUMPRIU MAIS DE 2/3 do total da pena sem direito a nenhuma progressão, pois ainda se encontra no regime fechado, sendo que deveria cumprir 2/5 no regime fechado, 2/5 do restante no regime semiaberto, 2/5 do restante no regime aberto (prisão domiciliar) e o restante no livramento condicional até terminar Assim, o paciente vem requerer uma atenção especial desta Corte, para lhe conceder, de ofício, o livramento condicional, com expedição de alvará de soltura, para que seja imediatamente colocado em liberdade, o que se fará singela homenagem ao DIREITO e à JUSTIÇA (..).
+No presente caso, já foi realizado um exame criminológico, não havendo recomendação para que o paciente permaneça no cárcere, ou seja, não foi encontrada pela equipe multidisciplinar nenhuma anormalidade que demonstre inaptidão para seu retorno à sociedade, recomendando-se apenas proposta psicoterapêutica, podendo ser considerado inconclusivo (..)" (grifei).
+Pedido de sustentação oral (fl. 163).
+É o breve relatório. DECIDO.
+Inicialmente, quanto ao pleito de livramento condicional, além de se tratar de tentativa de ampliação do objeto do writ, por não ter sido debatido na inicial do mandamus, o tema também não foi analisado pelo tribunal de origem, o qual nem mesmo fora provocado quanto à referida benesse.
+Portanto, ausente manifestação do Tribunal em relação ao tema alegado, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação ao ponto, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Nesse sentido: EDcl no RMS 52.007/PR, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 7/3/2019; AgRg no RHC n. 181.742/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/6/2023; RHC n. 177.645/RS, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 23/5/2023; AgRg no HC n. 820.934/MS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 22/6/2023; e AgRg no HC 802.410/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/4/2023.
+Diga-se de passagem que o pleito de progressão de regime, invocado na inicial deste writ e reiterado neste petitório, integra o mérito deste habeas corpus que já está sendo apreciado nesta toada, de forma monocrática, levando em conta as razões apresentadas.
+Ante o exposto, indefiro os pedidos.
+Publique-se. Intime-se.
+EMENTA
