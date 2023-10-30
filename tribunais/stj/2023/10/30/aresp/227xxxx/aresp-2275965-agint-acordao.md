@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. PURGAÇÃO DA MORA. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SÚMULAS N. 7/STJ E 284/STF. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 21-E, V, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Darlan Teixeira Bomfim em face da seguinte decisão:
+Cuida-se de agravo apresentado por DARLAN TEIXEIRA BOMFIM contra a decisão que não admitiu seu recurso especial. O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO PELO DECRETO-LEI 911/1969. PURGAÇÃO DA MORA. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. 1. NAS AÇÕES DE BUSCA E APREENSÃO EM QUE A IMPROCEDÊNCIA É DECORRÊNCIA DA PURGAÇÃO DA MORA, A CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA É FIXADA CONFORME O PRINCÍPIO DA CAUSALIDADE, SENDO DESCABIDA A CONDENAÇÃO DA PARTE AUTORA NA REFERIDA DESPESA. 2. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Quanto à controvérsia, alega violação do art. 85, § 2º, do CPC, no que concerne à indevida atribuição do ônus da sucumbência em desfavor da parte recorrente, mesmo com a sentença de improcedência em desfavor do banco recorrido, trazendo o(s) seguinte(s) argumento(s):Após a interposição do Recurso de Apelação, apesar do costumeiro acerto do Egrégio Tribunal de Justiça do Estado de Goiás, desta vez não aplicou o direito de forma correta com expressa afronta à Lei Federal, mantendo o ônus da sucumbência em desfavor do Autor, mesmo com a Sentença de Improcedência em desfavor do Banco. .. Ilustre Julgador, diante de tudo o que foi exposto é puro, cristalino, manifesto e indubitável o direito do Apelante em ter o seu direito resguardado em razão da improcedência dos pedidos iniciais (fls. 200/202).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Nessa esteira, colhe-se que a purgação da mora ocorreu apenas após o ajuizamento da ação. Dessa forma, depreende-se que a purgação da mora, assim como ocorreu na espécie, deve ser interpretada como reconhecimento tácito da procedência do pleito inicial. Neste viés, tendo em vista que extinção do feito ocorreu em decorrência do pagamento do débito efetivado pela parte adversa, infere-se que houve o reconhecimento tácito do pedido inicial, e, portanto, cabe à parte requerida, ora apelante, em respeito ao princípio da causalidade, arcar com os ônus de sucumbência (custas processuais e honorários advocatícios). Isso porque, está claro que o exercício do direito de ação só foi necessário em razão da inadimplência imputada ao consumidor/apelante. Nessa esteira, vale destacar que, segundo o princípio da causalidade, existe sempre uma relação de causa e efeito natural entre a conduta (ação ou omissão) e o resultado, que serve de suporte fático para a imposição de uma sanção. Portanto, a responsabilidade pelo custo do processo deve recair, objetivamente, sobre aquele que lhe deu causa (fl. 166).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018. Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial. Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Afirma estar "claro que não houve por parte do Juízo a quo a correta análise de todas as questões levantadas pela parte Apelante, ora Recorrente. Isto porque, apesar das insistentes manifestações da Recorrente, em momento algum foram abordados pelo Nobres Desembargadores a quoa afronta ao Código de Processo Civil, no que tange o direito do advogado da parte vencedora em receber honorários sucumbenciais" (e-STJ, fl. 271).
+Defende, assim, o direito aos honorários advocatícios e a desobrigação do pagamento das custas.
+Pede o provimento do recurso.
+Impugnação da parte contrária pelo não conhecimento do recurso diante da falta de enfrentamento das razões da decisão agravada e que, caso ultrapassado o juízo de conhecimento, que o julgamento da causa encontra o óbice de que trata o verbete n. 7 da Súmula desta Casa.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.275.965 - GO (2023/0005247-8)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+DARLAN TEIXEIRA BOMFIM
+ADVOGADOS
+:
+PABLO MAGALHÃES DE ASSIS - GO033880
+DOUGLAS SILVA CAMARGO - GO035110
+AGRAVADO
+:
+BANCO ITAUCARD S.A.
+ADVOGADOS
+:
+ROBERTA BEATRIZ DO NASCIMENTO - GO042915
+JOSÉ LÍDIO ALVES DOS SANTOS - GO051296
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. PURGAÇÃO DA MORA. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. SÚMULAS N. 7/STJ E 284/STF. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 21-E, V, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não pode ser conhecido.
+A decisão agravada, conforme se lê do relatório supra, adotou como razões de decidir a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal, diante da dissociação entre os fundamento do acórdão local e os argumentos lançados no recurso especial, além do enunciado n. 7 da Súmula desta Casa, "uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática" (e-STJ, fl. 262).
+Nenhum desses fundamentos foi, todavia, impugnado pelo agravante, a despeito da norma que se extrai do artigo 1.021, § 1º, do Código de Processo Civil.
+Inequívoca, pois, a incidência do enunciado n. 182 da Súmula desta Casa.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
