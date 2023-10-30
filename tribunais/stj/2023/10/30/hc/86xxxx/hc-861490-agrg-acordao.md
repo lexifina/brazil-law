@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Ainda, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, sobreveio sentença julgando procedente a acusação e mantendo a prisão preventiva do réu, como se depreende da decisão proferida no dia 9/10/2023 (Ação Penal n. 1512879-57.2023.8.26.0228). Trata-se de um novo título judicial mantendo a prisão do réu, proferido em um outro contexto processual e que ainda não foi submetido ao crivo do Tribunal Estadual, sendo vedado o exame direto por esta Corte por configurar indevida supressão de instância.
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANIEL SEIITI BRUM - preso cautelarmente no dia 5/4/2023 e denunciado pela suposta prática dos crimes de tráfico de drogas e porte irregular de arma de fogo de uso permitido - contra decisão monocrática que não conheceu do habeas corpus (e-STJ fls. 69/71).
+Nas razões do presente recurso, a defesa alega que, "em que pese tenha sobrevindo sentença condenatória, fato é que nesse novo título judicial a manutenção da prisão preventiva se operou, de modo que neste remédio constitucional versa sobre a mesma questão, mormente porque a sentença condenatória tenha negado o direito de recorrer em liberdade" (e-STJ fl. 73). Assim, entende não haver óbice ao conhecimento do habeas corpus, inclusive preservando a utilidade e eficácia do writ, no sentido de avaliar o direito do paciente recorrer em liberdade.
+No mais, ressalta, ademais, as condições pessoais favoráveis do réu: é primário, com família constituída e trabalho lícito.
+Diante disso, pede: "A) O Juízo de Reconsideração para se deferir a ordem postulada; B) Alternativamente, submetendo ao Colegiado, dignem-se em reformar a r. decisão vergastada para conceder a ordem liminar, eis que presentes todos os pressupostos para concessão da necessária liminar" (e-STJ fl. 77).
+Por meio da petição n. 01058792/2023, a defesa juntou cópia da sentença condenatória, comprovação de interpostição de recurso de apelação e pediu o deferimento do pedido (e-STJ fls. 84/99).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Ainda, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, sobreveio sentença julgando procedente a acusação e mantendo a prisão preventiva do réu, como se depreende da decisão proferida no dia 9/10/2023 (Ação Penal n. 1512879-57.2023.8.26.0228). Trata-se de um novo título judicial mantendo a prisão do réu, proferido em um outro contexto processual e que ainda não foi submetido ao crivo do Tribunal Estadual, sendo vedado o exame direto por esta Corte por configurar indevida supressão de instância.
+3. Agravo regimental a que se nega provimento.
+VOTO
+A decisão deve ser mantida na íntegra.
+Primeiro, porque, de acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+E, por último, porque, em consulta ao site do Tribunal de Justiça do Estado de São Paulo, sobreveio sentença julgando procedente a acusação e mantendo a prisão preventiva do réu, como se depreende da decisão proferida no dia 9/10/2023 (Ação Penal n. 1512879-57.2023.8.26.0228):
+Vistos.
+1. Recebo os apelos do MINISTÉRIO PÚBLICO e do sentenciado DANIEL SEIITI BRUM, anotando-se no sistema SAJ (histórico de partes) a interposição de recurso.
+2. Expeça-se guia de recolhimento provisória em nome do sentenciado, remetendo-se à Vara de Execuções Criminais competente.
+3. Em seguida, dê-se vista dos autos ao Ministério Público para que oferte as razões de apelação, nos termos do artigo 600 do Código de Processo Penal, dentro do prazo legal.
+4. Após, intime-se a Defesa constituída para oferta das razões e das contrarrazões de apelação.
+5. Em seguida, dê-se nova vista ao Ministério Público para que oferte as contrarrazões.
+6. Com a manifestação das partes, remetam-se os autos ao Egrégio Tribunal de Justiça, com as nossas homenagens, anotando-se
+Trata-se de um novo título judicial proferido em um outro contexto processual e que ainda não foi submetido ao crivo do Tribunal Estadual, sendo vedado o exame direto por esta Corte por configurar indevida supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. ILICITUDE DAS PROVAS E DA PRISÃO EM FLAGRANTE POR SUPOSTA INVASÃO DE DOMICÍLIO. PESQUISA NO SITE DA CORTE DE ORIGEM. SUPERVINIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. PERDA DO OBJETO. PREJUDICIALIDADE. APELAÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+No caso, em consulta à página eletrônica do Tribunal de Justiça do Estado do Mato Grosso do Sul, verificou-se que já foi proferida sentença condenatória na presente ação penal, circunstância que revela a perda do objeto do mandamus em apreço. Precedentes.
+Agravo regimental não conhecido.
+(AgRg no HC n. 798.863/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SUPERVENIÊNCIA DE NOVO TÍTULO COM NOVOS FUNDAMENTOS. PLEITO DE RECONHECIMENTO DE PREJUDICIALIDADE. FUNDAMENTOS DO NOVO TÍTULO NÃO ANALISADOS NA DECISÃO MONOCRÁTICA. AGRAVO DESPROVIDO COM EXPEDIÇÃO DE COMUNICAÇÃO ACERCA DOS EFEITOS DA DECISÃO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - O Ministério Público do Estado de Rondônia informa que antes mesmo do julgamento do recurso ordinário sobreveio sentença condenatória em desfavor do agravado, com novos fundamentos para a manutenção da segregação cautelar e requer, ao final, a reconsideração da decisão, para que seja julgado prejudicado o recurso, ante a superveniência do novo título.
+III - A fundamentação da decisão que deu provimento ao recurso ordinário, não produz qualquer efeito sobre os fundamentos da sentença para a negativa de recorrer em liberdade, que inclusive não foram analisados pelo Tribunal de origem.
+Agravo regimental desprovido, com determinação de comunicação ao juízo de primeiro grau e ao Tribunal de origem de que a decisão que deu provimento ao recurso ordinário não afeta a decisão de prisão preventiva constante da sentença, posto que sequer analisada nesta Corte.
+(AgRg no RHC n. 176.761/RO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/9/2023, DJe de 2/10/2023.)
+PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. PREJUDICIALIDADE DO AGRAVO EM RAZÃO DE TRÂNSITO EM JULGADO ERRONEAMENTE RECONHECIDO. AFASTAMENTO QUE SE IMPÕE. AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO ANTE A SUPERVENIÊNCIA DO JULGAMENTO DA APELAÇÃO CRIMINAL. NOVO TÍTULO. CENÁRIO FÁTICO-PROCESSUAL ALTERADO. PRECEDENTES DO STJ. AUSÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL.
+Embargos de declaração acolhidos a fim de reconhecer a existência de erro material na decisão embargada e negar provimento ao agravo regimental .
+(EDcl no AgRg no RHC n. 143.060/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/6/2023, DJe de 12/6/2023.)
+Ademais, os fundamentos não são conhecidos, porquanto o teor da sentença não foi publicado e levado ao conhecimento da Corte revisora.
+Nesse sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
