@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MILITAR. PROMOÇÃO. OMISSÃO ADMINISTRATIVA. PRESCRIÇÃO DAS PARCELAS ANTERIORES AO PRAZO QUINQUENAL ANTERIOR AO AJUIZAMENTO DA DEMANDA. PROVIMENTO NEGADO.
+1. Segundo a jurisprudência desta Corte, tratando-se de ato omissivo continuado, tal como ocorre nos casos em que a Administração Pública deixa de proceder à progressão funcional de servidor público, e não havendo negativa do direito pretendido, não se opera a prescrição do fundo de direito, mas sim das parcelas anteriores ao quinquênio que antecedeu à ação. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo ESTADO DE ALAGOAS contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MILITAR. PROMOÇÃO. OMISSÃO ADMINISTRATIVA. PRESCRIÇÃO DAS PARCELAS ANTERIORES AO PRAZO QUINQUENAL ANTERIOR AO AJUIZAMENTO DA DEMANDA. ACÓRDÃO RECORRIDO EM HARMONIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO ENTE ESTADUAL (fl. 315).
+A parte agravante sustenta a inaplicabilidade da Súmula 83/STJ, porquanto "em se tratando de demandas que visem a promoção/ enquadramento de servidor, como neste caso, esta c. Corte tem o entendimento de que, por não se tratar de relação de trato sucessivo, a prescrição incide sobre o próprio fundo de direito, de modo que o termo inicial é a data da publicação da lei questionada" (fl. 324).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão julgador competente.
+Sem impugnação conforme a certidão de fl. 333.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MILITAR. PROMOÇÃO. OMISSÃO ADMINISTRATIVA. PRESCRIÇÃO DAS PARCELAS ANTERIORES AO PRAZO QUINQUENAL ANTERIOR AO AJUIZAMENTO DA DEMANDA. PROVIMENTO NEGADO.
+1. Segundo a jurisprudência desta Corte, tratando-se de ato omissivo continuado, tal como ocorre nos casos em que a Administração Pública deixa de proceder à progressão funcional de servidor público, e não havendo negativa do direito pretendido, não se opera a prescrição do fundo de direito, mas sim das parcelas anteriores ao quinquênio que antecedeu à ação. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Nos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  a controvérsia:
+Da Prescrição
+Em relação a mencionada prescrição do fundo de direito, haja vista que o pleito de promoção defendido na exordial tem como fundamento as disposições da Lei 6.211/2000, revogada pela Lei 6.544/2004, restando caracterizada a prescrição porquanto decorreu mais de cinco anos entre a negativa da promoção e o ajuizamento da presente demanda, ocorrido em 13/05/2019, entendo que melhor sorte também não lhe assiste.
+Isso porque, nas hipóteses de omissão da autoridade administrativa na promoção de servidores públicos, não há que se falar em decadência do direito pleiteado, pois quando se trata de ato omissivo continuado, o qual envolve obrigação de trato sucessivo, a lesão ao direito dos servidores se renova mês a mês, com a não obtenção dos benefícios e vantagens intrínsecos à promoção devida.
+ ..
+In casu, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não há como se reconhecer a prescrição do chamado fundo de direito, mas, tão somente, das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula n.º 85, do STJ (fls. 206 e 208).
+Verifico que o acórdão recorrido encontra-se em consonância com a jurisprudência do STJ, pois, tratando-se de ato omissivo continuado, tal como ocorre nos casos em que a Administração Pública deixa de proceder à progressão funcional de servidor público, e não havendo negativa do direito pretendido, não se opera a prescrição do fundo de direito, mas sim das parcelas anteriores ao quinquênio que antecedeu à ação.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAL MILITAR. PROMOÇÕES. PRETERIÇÃO. ATO OMISSIVO CONTINUADO. PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Na hipótese, a pretensão autoral não se vincula tão somente à eventual ilegalidade na concessão tardia da promoção a Cabo PMMA (neste ponto alcançada pela prescrição do fundo de direito), mas também à omissão da Administração em conceder aos autores, ora agravados, as promoções subsequentes, a tempo e modo definidos na legislação de regência.
+2. Ato omissivo continuado, cuja existência é confessada pelo próprio Estado do Maranhão em seu agravo interno, ao reconhecer que, "mediante decreto e atos administrativos que promoveram outros servidores, não observou os nomes dos Agravados" (fl. 349).
+3. "Em se tratando de ato omissivo continuado da Administração, não há falar em prescrição do próprio fundo de direito, mas tão-somente em relação de trato sucessivo. Incidência da Súmula 85/STJ" (REsp n. 1.041.252/CE, relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJe de 16/11/2009). Nesse mesmo sentido: REsp n. 1.609.251/RS, relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 14/2/2020.
+4. Agravo interno desprovido. (AgInt no REsp n. 2.041.963/MA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR. PROMOÇÃO. DIFERENÇAS VENCIMENTAIS. AUSÊNCIA DE NEGATIVA EXPRESSA DA ADMINISTRAÇÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de ação ordinária, objetivando a promoção à graduação de Subtenente, por ressarcimento de preterição, bem como a retroatividade das promoções anteriores e a condenação do réu ao pagamento da diferença dos soldos dos últimos cinco anos anteriores ao ajuizamento da demanda. Na sentença, julgou-se o pedido da autora improcedente e reconheceu-se a ilegitimidade passiva do Estado de Alagoas, extinguindo-se o feito sem resolução do mérito. No Tribunal a quo, a sentença foi parcialmente reformada, dando parcial provimento à apelação de um dos autores para determinar a promoção do apelante à patente de Subtenente da Polícia Militar de Alagoas e reconhecendo a legitimidade passiva do Estado de Alagoas. O valor da causa foi fixado em R$ 1.000,00 (mil reais). No STJ, o agravo foi conhecido para não conhecer do recurso especial, ante a incidência da Súmula n. 83/STJ.
+II - No tocante à arguição de prescrição, o entendimento do Superior Tribunal de Justiça é no sentido de que os efeitos de promoção deferida por ato anterior, nos quais não houve negativa inequívoca por parte da Administração Pública, trata-se de relação de trato sucessivo, incidindo a Súmula n. 85/STJ. Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+III - Agravo interno improvido. (AgInt no AREsp n. 2.119.054/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/11/2022, DJe de 17/11/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
