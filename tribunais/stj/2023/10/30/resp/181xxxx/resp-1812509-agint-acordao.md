@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - ENDOSSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. As questões relativas à natureza do endosso e à regularidade da transmissão do título exequendo encontram óbice na Súmula 7 do STJ, eis que dependentes do reexame de matéria fática da lide para que sejam desconstituídas as premissas adotadas pelo Tribunal de origem.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por FINANCIAL ABV PARTICIPAÇÕES S.A contra decisão monocrática de fls. 1.219/1.224 (e-STJ), a qual negou provimento ao recurso especial interposto pela parte ora recorrente.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim sintetizado (fl. 1012, e-STJ):
+EXECUÇÃO CONTRA DEVEDORES SOLVENTES HOSPEDADA EM DUAS CÉDULAS DE CRÉDITO BANCÁRIO, NºS 499 E 506, RESPECTIVAMENTE "CETIPADAS" E TRANSFERIDAS PARA FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS (FIDC) NÃO PADRONIZADO - ENDOSSO POR ESCRITO PARTICULAR EM PROL DA CREDORA - EMBARGOS PROPOSTOS - GRATUIDADE CONCEDIDA AO HOSPITAL - SENTENÇA DE PARCIAL PROCEDÊNCIA - DUPLOS DECLARATÓRIOS REJEITADOS. 1 - APELAÇÃO (HOSPITAL E CODEVEDORES SOLIDÁRIOS): ALEGAÇÃO DE ERRO NA CADEIA DE TRANSFERÊNCIA DO ENDOSSO - PRELIMINAR DE NÃO CONHECIMENTO PELO PRINCÍPIO DA DIALETICIDADE - MATÉRIA DE ORDEM PÚBLICA - TRANSFERÊNCIA FEITA POR MEIO DE TÍTULO REGULARMENTE EMITIDO - OPERAÇÕES FEITAS ENVOLVENDO ALIENAÇÃO FIDUCIÁRIA, EMISSÃO DE DEBÊNTURES E DUAS CÉDULAS DE CRÉDITO BANCÁRIO - PREÇO DE VENDA - FORMATAÇÃO IRREGULAR DA CADEIA DE ENDOSSO PARA EMPRÉSTIMO DE GRUPO, MEDIANTE ESCRITO PARTICULAR QUE INQUINA DE VICIO INSANÁVEL A EXECUTORIEDADE E A LEGITIMIDADE DA OBRIGAÇÃO CAMBIÁRIA - EXTINÇÃO DA EXECUÇÃO - ACOLHIMENTO DOS EMBARGOS - RECURSO PROVIDO. 2 - APELAÇÃO (CREDORA): PRINCÍPIO DA DIALETICIDADE NÃO CONSUMADO - ALEGAÇÃO DE NULIDADE EM RELAÇÃO À TRANSFERÊNCIA FEITA MEDIANTE CADEIA DE ENDOSSO - JUROS REMUNERATÓRIOS CAPITALIZADOS NÃO INCIDENTES PARA HOLDING NÃO FINANCEIRA - VERBA HONORÁRIA - EXAME CONJUNTO DE AMBOS OS RECURSOS PELA SIMETRIA DAS MATÉRIAS E REPERCUSSÃO DO NEXO CAUSAL EM ATENÇÃO AO ÔNUS SUCUMBENCIAL - RECURSO CONHECIDO NA PARTE NÃO PREJUDICADA E DESPROVIDO. 3 - APELO DOS DEVEDORES PROVIDO E APELO DA CREDORA PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (fls. 1135/1141, e-STJ).
+Em suas razões de recurso especial (fls. 1050/1075, e-STJ), a recorrente aponta violação aos arts 1.022, I e II e 489, §1.º do CPC/15,13 da Lei Uniforme de Genebra (Decreto n. 57.663/1966), 29, § 1.º e 44 da Lei n. 10.931/2004.
+Requer, ainda, a concessão de efeito suspensivo.
+Após a decisão de admissão do recurso especial (fl. 1178/1179, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 1.219/1.224, e-STJ), este signatário negou provimento ao recurso especial ante a ausência de negativa de prestação jurisdicional e com amparo no enunciado contido nas Súmula 7/STJ.
+Em suas razões de agravo interno (fls. 1.231/1.250, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - ENDOSSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. As questões relativas à natureza do endosso e à regularidade da transmissão do título exequendo encontram óbice na Súmula 7 do STJ, eis que dependentes do reexame de matéria fática da lide para que sejam desconstituídas as premissas adotadas pelo Tribunal de origem.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1. Consoante a decisão monocrática anteriormente proferida, O Tribunal de origem reconheceu a ausência de validade na cadeia de transferência do titulo objeto da execução nos seguintes termos (e-STJ fls. 1017/1025):
+O raciocínio a ser desenvolvido parte da premissa da coligação e integração dos negócios jurídicos para alcançarmos oportunamente o fundamento que serve de substrato à questão da regularidade ou não da cadeia de endosso.
+Com razão, por escrito particular de contrato de alienação fiduciária de imóvel, datado de 04/03/2013, tendo de um lado, como credor fiduciário, a Financial BSO Fundo de Investimento em Participações, representado pelo gestor Financial Gestão de Ativos Ltda., com endereço à Rua Iguatemi, 151, Itaim Bibi, São Paulo; e do outro lado, como devedor fiduciante, o Hospital Maria Thereza Rennó S/A.
+Sobredito negócio jurídico envolvia também, conforme aditamento da escritura, a emissão de 170 debêntures no valor principal de R$ 17 milhões, sendo 130 subscritas aos 28/02/2013 pelo credor fiduciário, remanescendo 40 para serem subscritas em até 14 meses contados da assinatura da escritura.
+(..)
+Busca a exequente demonstrar a razoabilidade e legitimidade de seu pleito, amparado pelo escrito particular de carta de endosso de cédulas de crédito bancário Os 499 e 506. A primeira cédula fora emitida em 04/02/2014 e a outra em 28/03/2014. Ambas tinham vencimentos previstos para 03/07/2014. O valor de face da primeira cambial estampa R$ 2.500.000,00, e o da segunda, R$ 3.900.000,00. Os preços de venda foram de R$ 2.637.294,70 e R$ 4.013.878,83, operação essa realizada aos 25/06/2014 - portanto, antes do vencimento dos títulos.
+Cumpre esclarecer que a credora apresenta capital social de R$ 1.000,00, tendo sido constituída aos 15/08/2011, tratando-se de ho/ding de instituição não financeira, com endereço à Rua Iguatemi, 151, Cj. 22, Itaim Bibi, São Paulo. Percebe-se, clara e definitivamente, a existência de várias identidades entre a transmissibilidade e a endossabilidade dos títulos, inclusive porque o Financial BSO Fundo de Investimento em Participações, sendo seu gestor financial de gestão de ativos, localizase em idêntico endereço ao da exequente, além do que quem assinou pela Financial BSO fora Marcos Moretti, que integra a exequente Financial ABV Participações S/A.
+Inequívoca e inarredavelmente, consolida-se aí um grupo econômico, na tentativa da endossabilidade das cédulas de crédito bancário por valores superiores a R$ 6.637.000,00, cuja endossatária - repita-se uma vez mais -, perante a Junta Comercial do Estado de São Paulo, tem capital de R$ 1.000,00 (sic!).
+(..)
+A contratação primeva fora feita entre a principal devedora - no caso, o Hospital Maria Thereza Rennó S/A -e o Banco Bracce S/A, corporificando ambos os títulos de crédito espelhados nas respectivas cédulas de crédito bancário, fomentando assim o início das operações, as quais desaguaram na transmissibilidade e endossabilidade dos títulos.
+A pessoa de Marcos Moretti, conselheiro empossado e integrante da sociedade credora, participa da Financial Crédito S/A e da Financial Serviços de Crédito Ltda. (fls. 276). Nessa diretriz fora feita a emissão das cédulas de crédito bancário de Os 499 e 506 junto ao Banco Bracce S/A em favor do Hospital, nos valores de R$ 2.500.000,00 (fls. 289), datada de 04/02/2014, e ainda R$ 3.900.000,00 (fls. 301), assinada aos 28/03/2014 (fls. 311). Ambos os títulos foram endossados e "cetipados" com registro, conforme se constata, de forma clara e de lana caprina, às fls. 300 e 312, na mesma data - qual seja, 10/02/2014 e 28/03/2014, respectivamente.
+Na mesma data, aos 18//06/2014, a Cetip endossou ambos os títulos a favor do FIDC, o qual, de seu turno, por intermédio da Finvest, administrada pela Socopa, aos 24/06/2014, celebrou instrumento particular de carta de endosso de cédulas de crédito bancário, adquirindo-as a exequente as cambiais pelas somas de R$ 2.637.294,70 e R$ 4.013.878,83, mesmo possuindo capital social de R$ 1.000,00. Bem se constata nesse passo que, pela natureza das cédulas de crédito bancário, o escrito particular de carta de endosso não se ajusta à modalidade e deslegitima a exequente ao buscar liquidez, certeza e obrigação mediante situação inespecífica e não disciplinada pelo legislador.
+(..)
+Ambos os títulos foram endossados e respectivamente "cetipados" (primeiro endosso) e depois transferidos para os fundos (segundo endosso). A manifestação por meio do escrito particular de carta de endosso não confere a integração, porquanto somente se corporifica a endossabilidade do título na própria cártula. O documento redigido às fls. 107/108 envolve tão somente a endossante-endossatária, mas não se materializa na respectiva cambial.
+(..)
+O defeito apresentado pela última cadeia de endosso não confere à empresa exequente, verdadeiramente e sem maiores formalismos, a legitimidade para a propositura de execução e cobrança por intermédio de simples escrito particular - intitulado, como melhor se lhe afigura, de "carta de endosso de cédula de crédito bancário" -, o que na prática não sinaliza regular transmissão ou natural encadeamento da endossabilidade do título. Referida manifestação somente poderia ser aceita se houvesse cessão depois do vencimento das cambiais. No entanto, ambas tinham vencimento previsto para 03/07/2014, e a operação sucedeu antes, aos 25/06/2014.
+Dessarte, a reforma do julgado, neste aspecto, demanda inegável necessidade de incursão na seara fático-probatória dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+No mesmo sentido, cita-se os escólios:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO DE CRÉDITO. SUSTAÇÃO DE PROTESTO. ENDOSSO-MANDATO. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISSÍDIO JURISPRUDENCIAL COTEJO ANALÍTICO E SIMILITUDE FÁTICA. NÃO OCORRÊNCIA.
+1. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+2. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1097782/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)  g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESTITUIÇÃO C/C INDENIZATÓRIA - DUPLICATA - ENDOSSO-MANDATO - RECONHECIMENTO - IMPOSSIBILIDADE DE REEXAME DE PROVAS - INCIDÊNCIA DA SÚMULA 7 DESTA CORTE - AGRAVO IMPROVIDO.
+(AgRg no AREsp 168.464/PE, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 16/08/2012, DJe 27/08/2012)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. ENDOSSO. INDENIZAÇÃO. DANO MORAL. CONFIGURAÇÃO. ELEMENTOS DO ATO ILÍCITO. CULPA CONCORRENTE DA VÍTIMA. SÚMULA 07/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no Ag 1273236/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 05/06/2012, DJe 12/06/2012)  g.n.
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. TÍTULO DE CRÉDITO. DUPLICATA. ENDOSSO. NATUREZA. REGULARIDADE DO TÍTULO PROTESTADO. QUESTÕES DEPENDENTES DE REEXAME REFLEXO DE MATÉRIA FÁTICA. SÚMULA 7 DO STJ. INCIDÊNCIA. PROTESTO INDEVIDO. DANO MORAL PRESUMIDO. PRECEDENTES. VALOR INDENIZATÓRIO. PROPORCIONALIDADE.
+1. As questões relativas à natureza do endosso e à regularidade da duplicata emitida encontram óbice na Súmula 7 do STJ, eis que dependentes do reexame de matéria fática da lide para que sejam desconstituídas as premissas adotadas pelo Tribunal de origem.
+2. Nos termos da jurisprudência desta Corte Superior, é suficiente ao pedido indenizatório o protesto ou a inscrição indevidos do nome em cadastros restritivos, uma vez que é presumível o abalo moral sofrido em face desses atos. Precedentes.
+3. Embora seja possível a esta Corte Superior revisar o montante dos danos morais quando fixado em excesso ou irrisão, foi arbitrado na hipótese com prudência pelas instâncias ordinárias, dentro dos parâmetros da razoabilidade e proporcionalidade, não justificando a intervenção do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1251747/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/08/2011, DJe 25/08/2011)  g.n.
+PROTESTO INDEVIDO. ENDOSSO-MANDATO. LEGITIMIDADE. QUITAÇÃO DO TÍTULO. REEXAME DE PROVAS. SÚMULA 7. CORREÇÃO DE ERRO MATERIAL.
+- O banco endossatário que, após receber o pagamento da duplicata, leva-a a protesto, tem legitimidade passiva para ação de indenização.
+- A pretensão de simples reexame de prova não enseja recurso especial.
+(AgRg no Ag 604.533/MG, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 19/05/2005, DJ 27/06/2005, p. 373)
+De rigor, portanto, a manutenção da decisão ora impugnada.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
