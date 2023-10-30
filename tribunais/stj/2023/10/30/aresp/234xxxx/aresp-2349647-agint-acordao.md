@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO OS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO C/C COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de despejo c/c cobrança, em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de nulidade na situação dos autos, não obstante a não intimação da agravante em sede de cumprimento de sentença, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CELIA MARINA DA SILVA FERREIRA contra decisão unipessoal que conheceu do agravo, para conhecer parcialmente do recurso especial que interpusera e, nessa parte, negou provimento.
+Ação: de despejo c/c cobrança, em fase de cumprimento de sentença, ajuizada por FLORINDA MANUCHAGUIAN, em face de RENATO CESAR FIORITA (interessado), tendo a agravante na condição de fiadora, em razão de inadimplemento pelo demandado de contrato de locação entabulado entre as partes.
+Decisão interlocutória: reconheceu que o processo se encontra extinto pelo pagamento efetuado anteriormente e determinou o levantamento pela agravada/credora do valor de R$ 79.888,55, atualizado até outubro de 2019, acrescentando que a liberação do saldo remanescente aos réus deverá ser realizado mediante a apresentação de formulário de MLE, no prazo de 5 dias.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - LOCAÇÃO RESIDENCIAL - AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA - CUMPRIMENTO DE SENTENÇA - Erro de cálculo não evidenciado - Pretensão de rediscussão da incidência de correção monetária e juros moratórios após os depósitos judiciais da arrematação - Impossibilidade - Inércia da executada em regularizar sua representação processual - Ausência de impugnação oportuna pela devedora quanto aos critérios de elaboração do cálculo elaborados pelo contador judicial que importa em preclusão da matéria - RECURSO IMPROVIDO. (e-STJ, fls. 733)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega a violação dos arts. 278, 513, §2º, II e IV, 840, I, 1.022 e 1.058, todos do CPC/15; 666, I, e 1.219, ambos do CPC/73; 629 do CC/02, bem como a existência de dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta:
+i) que "a realização de depósitos judiciais para pagamento da execução, não incide juros e correção monetária contra o devedor sendo ambos de responsabilidade da instituição financeira" (e-STJ, fl. 760);
+ii) a existência de enriquecimento sem causa na situação dos autos; e
+iii) a não intimação da agravante dos cálculos, sendo revel na fase de conhecimento e no cumprimento de sentença.
+Decisão monocrática: conheceu do agravo, para conhecer parcialmente do recurso especial interposto e, nessa parte, negou provimento, nos termos do art. 932, III, IV, "a", do CPC/15, bem como da Súmula 568/STJ (e-STJ, fls. 814/818).
+Decisão monocrática: rejeitou os embargos de declaração opostos pela agravante (e-STJ, fls. 831/832).
+Agravo interno: alega, em síntese, a existência de negativa de prestação jurisdicional, o devido prequestionamento da matéria colacionada nas razões do recurso especial em razão da aplicação do art. 1.025 do CPC/15, a inaplicabilidade da Súmula 7/STJ, a não aplicação da Súmula 284/STF e a impossibilidade de aplicação do óbice da ausência de realização de cotejo analítico, tendo em vista que nas razões do recurso especial não fora alega a existência de divergência jurisprudencial (e-STJ, fls. 836/844).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO OS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO C/C COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação de despejo c/c cobrança, em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Alterar o decidido no acórdão impugnado, no que se refere à ausência de nulidade na situação dos autos, não obstante a não intimação da agravante em sede de cumprimento de sentença, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo, para conhecer parcialmente do recurso especial interposto pela agravante e, nessa parte, negou provimento, em razão da ausência de violação do art. 1.022 do CPC/15, da incidência das Súmulas 7 e 211, ambas do STJ, da incidência da Súmula 284/STF e da ausência de realização de cotejo analítico entre acórdãos confrontados para fins de demonstração de divergência jurisprudencial.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Da ofensa do art. 1.022 do CPC/15
+Inicialmente, constata-se que o artigo 1022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à ausência de nulidade, no sentido de que "diante da inércia da parte recorrente em regularizar sua representação processual desde a renúncia de seu antigo patrono em 30/08/2016 (fls. 446/448), os prazos devem correr independentemente de sua intimação, presumindo-se válidos os atos processuais praticados após o decurso do prazo estabelecido no art. 112, "caput", do CPC, conforme entendimento consolidado pelo C. Superior Tribunal de Justiça" (e-STJ, fl. 754), sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Por fim, observa-se que a agravante, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao art. 1.022 do CPC/15, sendo mantida a aplicação da Súmula 568/STJ.
+2. Da ausência de prequestionamento
+Os arts. 278, 513, §2º, II e IV, 840, I, e 1.058, todos do CPC/15, 666, I, e 1.219, ambos do CPC/73 e 629 do CC/02 não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Ademais, em relação à alegação de prequestionamento em razão da aplicação do art. 1.025 do CPC/15, cabe frisar - novamente - que o referido dispositivo dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade. Entretanto, na situação posta em análise, esta Corte não entendeu pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+Por derradeiro, urge salientar que eventual alegação de serem de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+3. Do reexame de fatos e provas
+A incidência da Súmula 7/STJ deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido, no que se refere à ausência de nulidade na situação dos autos, não obstante a não intimação da agravante em sede de cumprimento de sentença, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos.
+A esse propósito, é o teor de trecho do acórdão recorrido:
+No caso, verifica-se que o cálculo de fls. 573/575 consiste em mera atualização do cálculo de fls. 450/452, que não foi impugnado pela recorrente desde sua elaboração em 22/09/2016, nos termos da decisão de fls. 465, que autorizou o levantamento do valor apurado em favor da exequente após o registro da arrematação do imóvel da fiadora.
+Ademais, diante da renúncia regular de seu antigo patrono ao mandato outorgado em 30/08/2016 (fls. 446/448), competia a agravante regularizar sua representação processual no prazo de 10 dias, nos termos do art. 112, "caput", do CPC.
+A providência, no entanto, somente foi realizada em 25/11/2019 (fls. 584), por meio da juntada do novo instrumento de mandato datado de 22/11/2019 (fl. 597) e da manifestação de fls. 585/596, em que a agravante pretende rediscutir a incidência da correção monetária e dos juros moratórios após os depósitos judiciais da arrematação, o que não se admite, em razão da preclusão da matéria.
+Nessas condições, de rigor a manutenção da decisão recorrida, que determinou o levantamento pela credora do valor de R$ 79.888,55, atualizado até outubro de 2019. (e-STJ, fls. 737/738) (grifo nosso)
+4. Da Súmula 284/STF
+Não obstante a alegação de ausência de pedido referente à existência de dissídio jurisprudencial, em detida análise dos autos, nota-se que as razões do recurso especial alegam a contrariedade a Tema repetitivo do STJ, na hipótese o Tema 677 (e-STJ, fl. 761). Nesse sentir, verifica-se que ocorreu, de dato, a alegação de existência de divergência jurisprudencial.
+Na situação dos autos, contudo, nota-se que o presente recurso especial apenas indicou o permissivo constitucional atinente à violação de dispositivos infraconstitucionais, não mencionando o art. 105, III, alínea "c", da CF/88.
+Dessa maneira, a falta de indicação do dispositivo constitucional em que se funda o recurso especial implica deficiência de fundamentação recursal, o que atrai o óbice contido no enunciado da Súmula 284/STF (AgRg nos EAREsp 278.959/MG, Corte Especial, DJe 06/05/2016).
+5. Da divergência jurisprudencial
+Quanto ao dissídio jurisprudencial, verifica-se - realmente - que entre os acórdãos trazidos à colação, não há a realização de cotejo analítico, elemento indispensável à demonstração da divergência, o que inviabiliza a análise do dissídio, porque foram descumpridos os arts. 1.029, § 1º, do CPC/15 e 255, § 1º, do RISTJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
