@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANTONIO OLDONI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA. CHEQUES PRESCRITOS. 1. PRELIMINAR DE IMPUGNAÇÃO AO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA CONCEDIDA Â PARTE APELADA NÃO CONHECIDA EM RAZÃO DA PRECLUSÃO. 2. NO CASO, A PARTE AUTORA NÃO LOGROU ÊXITO EM DEMONSTRAR FATO CONSTITUTIVO DE SEU DIREITO, NOTADAMENTE O NEGÓCIO JURÍDICO SUBJACENTE. CONSTITUI ÔNUS DA PARTE AUTORA A COMPROVAÇÃO, AINDA QUE DE FORMA MLNIMA, DAS SUAS ALEGAÇÕES, ALÉM DE PRODUZIR PROVA DO FATO CONSTITUTIVO DO DIREITO ALEGADO, A TEOR DO ART. 373, INC. I, DO CPC, O QUE NÃO OCORREU NO CASO. SENTENÇA MANTIDA. 3. SUCUMBÊNCTA MANTIDA. HONORÁRIOS MAJORADOS. RECURSO DESPROVIDO. M/AC 6.882 S 24/03/2023 P 437
+Quanto à controvérsia, a parte recorrente alega violação do art. 373, I, do CPC, no que concerne à comprovação do fato constitutivo do seu direito, conforme previsão legal, trazendo a seguinte argumentação:
+O v. acórdão merece reparo, pois é imperioso destacar que os cheques emitidos pelo devedor são a causa da dívida em cobrança, o que foi devidamente provado pelo recorrente com a juntada da cártula aos autos e a confissão do devedor de que realmente emitiu o cheque em cobrança.
+Desse modo, o recorrente cumpriu com o ônus probatório dos fatos constitutivos do seu direito, sendo inclusive, tal fato incontroverso.
+ ..
+Diante dos depoimentos acima, as testemunhas afirmam acerca da existência do negócio jurídico havido entre as partes, bem como o depoimento pessoal do próprio réu que afirma que de fato realizava empréstimos e comprova ração do autor.
+Dessa forma, resta incontroverso que houve a realização de negócio jurídico entre as partes ônus que incumbia ao obreiro e se desincumbiu a contento art. 373, I, do CPC.
+ ..
+As cártulas apresentadas nos autos, em conjunto com a prova oral, TUDO CONSTANTE do v. acórdão, comprovam os negócios realizados entre as partes e a insolvência do recorrido.
+Desta forma, pugna pela reforma do r. acórdão para que o requerido seja condenado ao pagamento do débito referente ao saldo devedor no valor de R$ 45.000,00 (quarenta e cinco mil), com juros e correção monetária desde a data da primeira apresentação dos cheques (fls. 318-322).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Compulsando os autos eletrônicos integrados, notadamente a petição inicial, observo que o autor não demonstra qual a origem do débito consubstanciado nos cheques que instruem a ação de cobrança, ajuizada sem a juntada de qualquer elemento mínimo de prova apto a demonstrar o negócio jurídico alegado, mormente os e mpréstimos em moeda corrente e a compra de ração, bem assim chancelar a condenação do demandado ao pagamento das quantias pleiteadas.
+Neste contexto probatório, observo que a petição inicial veio desacompanhada de mínima comprovação a respeito do negócio jurídico firmado entre as partes.
+Dessa forma, consoante analisado pelo julgador a quo, no caso, o autor não logrou êxito em fazer prova do fato constitutivo do seu direito, nos lindes do que preceitua o art. 373, inc. I, do CPC (fl. 306).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
