@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. MOSTRA-SE POSSÍVEL A LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DO MERCADO AFERIDA PELO BACEN À ÉPOCA DA CONTRATAÇÃO QUANDO VERIFICADA SIGNIFICATIVA DISCREPÂNCIA NA TAXA PACTUADA. REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES. CABIMENTO DA REPETIÇÃO DO INDÉBITO, NA SUA FORMA SIMPLES, E DA COMPENSAÇÃO DE VALORES PAGOS A MAIOR, MEDIANTE OPERAÇÃO DE REVISÃO JUDICIAL DAS CLÁUSULAS CONTRATUAIS ABUSIVAS. SUCUMBÊNCIA. DETERMINADA A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DEVIDOS A PARTE APELADA, EM OBSERVÂNCIA AO DISPOSTO NO ART. 85, §11, DO CPC. NEGARAM PROVIMENTO AO APELO.
+Alegou-se, no especial, divergência jurisprudencial em torno do artigo 51, IV, e § 1º, III, do Código de Defesa do Consumidor, sob o argumento de que não basta a simples diferença entre a taxa de juros contratada e a média de mercado para a caracterização da abusividade.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, à vista do contrato de empréstimo bancário que previa taxa de juros mensal de 6% (seis por cento) ao mês, enquanto a média apurada pelo Banco Central era de 1,84% (um ponto e oitenta e quatro centésimos por cento) ao mês, consignou que, quanto "à aplicação dos juros remuneratórios, a jurisprudência é pacífica no sentido de que não devem destoar significativamente da taxa média de mercado para a modalidade" (e-STJ, fl. 217).
+Concluiu, assim, que "consideradas as taxas pactuadas no contrato acima referido, constata-se que efetivamente houve cobrança abusiva, sendo devida a limitação da taxa de juros à taxa média de mercado aferida pelo BACEN para a modalidade (25467 - Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público)" (e-STJ, fl. 218).
+É, pois, inequívoco que o reexame da questão esbarra nas disposições dos verbetes n. 5, 7 e 83 da Súmula desta Casa.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. NATUREZA ABUSIVA. SÚMULA 83/STJ. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o Tribunal a quo concluiu pelo caráter abusivo dos juros remuneratórios pactuados, considerando que excederam, de forma considerável, a taxa média de mercado. Nesse contexto, tem-se que a controvérsia foi decidida em conformidade com a jurisprudência desta Corte Superior. Incidência da Súmula 83 do STJ.
+2. A pretensão recursal, no sentido de derruir a afirmação do Tribunal a quo, que, com amparo nos elementos de convicção dos autos, considerou cabalmente demonstrada a índole abusiva da taxa de juros contratada, demandaria a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório, situação insindicável de ser apreciada no âmbito estreito do recurso especial, ante o óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.311.111/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Em face do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
