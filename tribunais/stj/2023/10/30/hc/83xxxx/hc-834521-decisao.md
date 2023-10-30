@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CELSO LUIS LEITE DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado às penas de 03 (três) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, e 16 (dezesseis) dias-multa, por infringir o artigo 155, § 4º, I e IV, do Código Penal, conforme sentença às fls. 18-23.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, nos termos do acórdão juntado às fls. 24-29.
+No presente writ, o impetrante sustenta a existência de constrangimento ilegal em razão da ausência de fundamentação idônea para estabelecer o regime de cumprimento de pena mais gravoso, além da negativa injustificada de substituir a pena privativa de liberdade por restritiva de direitos.
+Requer, ao final, liminarmente e no mérito, a concessão da ordem para fixar o regime prisional inicial aberto ou, subsidiariamente, o semiaberto, com a conversão da pena privativa de liberdade em restritivas de direitos.
+O pedido liminar foi indeferido às fls. 32-33.
+Informações prestadas às fls. 43-46 e 47-63.
+O Ministério Público Federal, às fls. 67-73, opinou pelo não conhecimento do writ.
+É o relatório. DECIDO.
+A controvérsia consiste na alegação de ilegalidade em razão da fixação do regime prisional inicial fechado e da negativa à substituição da pena privativa de liberdade por restritivas de direitos, sem fundamentação idônea.
+Ressalto, de início, que, consoante consta das informações prestadas pela origem, o presente habeas corpus foi impetrado concomitantemente com a apelação criminal, perante o Tribunal local, no mesmo feito em comento e com o mesmo objeto, não estando, portanto, esgotadas as vias ordinárias, o que obsta o conhecimento do writ.
+Quanto ao tema, a Terceira Seção desta Corte Superior, em relatoria do Ministro Rogério Schietti Cruz, consolidou o entendimento de que "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual" (HC n. 482.549/SP, Terceira Seção, Rel. Ministro Rogerio Schietti Cruz, DJe de 02/04/2020).
+Ademais, em consulta eletrônica ao andamento processual da apelação criminal impetrada perante o Tribunal de Justiça do Estado de São Paulo, verifico que já houve o julgamento da apelação criminal, a qual foi desprovida.
+Assim, com a superveniência do julgamento do recurso de apelação, resta prejudicado o presente habeas corpus impetrado contra writ denegado pela origem, uma vez que eventual constrangimento ilegal ainda subsistente decorre, agora, do acórdão que apreciou a apelação criminal.
+O entendimento desta Corte é no sentido de que ante a nova realidade fática na origem, eventual discordância deverá ser, agora, questionada por recurso próprio ou novo mandamus, cabendo à defesa do paciente, se for o caso, impugnar os fundamentos de cada acórdão em separado, pois "Como já decido por este Tribunal Superior, para cada ato coator deve ser impetrado um habeas corpus, sendo inviável a apreciação de mais de um ato coator em uma única impetração ainda que para fins de economia processual ou de celeridade" (AgRg no HC n. 694.778/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 26/11/2021).
+Corroborando o entendimento : AgRg no HC n. 712.173/SP, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 15/8/2023; e AgRg no HC n. 692.147/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 15/2/2022.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
