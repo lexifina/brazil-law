@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 120):
+Agravo de instrumento. Decisão que afastou o pedido de impenhorabilidade por já ter sido afastado, anteriormente, por decisão que se tornou preclusa. Efeito suspensivo negado. Contrarrazões. Impossibilidade de ser decidida novamente questão anteriormente apreciada pelo mesmo juiz, e que, à falta de recurso, tornou-se preclusa. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 11, 370, 373, II, 489, §1º, IV, 507 e 832 do Código de Processo Civil; aos arts. 1º, 3º, 5º da Lei 8.009/1990; bem como divergência jurisprudencial.
+Sustenta que houve negativa de prestação jurisdicional, porquanto "o Agravo de Instrumento da parte recorrente foi desprovido sem sequer ter sido analisado, sob o fundamento de preclusão sobre a questão impenhorabilidade, a qual foi anteriormente rejeitada por falta de provas, ou seja, sem julgamento de mérito, e sem oportunizar prazo para complementação das provas, em flagrante cerceamento de defesa" (e-STJ, fl.132).
+Defende a ausência de preclusão quanto à alegação de impenhorabilidade do bem de família.
+Alega que a decisão anterior que indeferiu o pedido de impenhorabilidade do bem não faz coisa julgada "se a reanálise do pedido vier amparada em documentos novos que não compuseram o acervo do pedido anterior" (e-STJ, fl.136).
+Afirma que cabe ao credor o ônus de comprovar que o imóvel em discussão não é bem de família.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+De início, no tocante à alegação de negativa de prestação jurisdicional, registro que, para aferir a nulidade do acórdão por omissão no exame de determinada questão jurídica, é necessária a oposição de embargos de declaração a fim de conferir ao Tribunal local a oportunidade de sanar eventual vício contido na decisão, o que não ocorreu na hipótese, de forma que se revela deficiente a fundamentação do recurso especial, circunstância que atrai a incidência da Súmula 284/STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. TESE NÃO CONHECIDA. AUSÊNCIA DE EMBARGOS DECLARATÓRIOS NA ORIGEM. ARGUMENTO NÃO ATACADO. SÚMULA N. 283/STF. NORMA INTERNA DA CORTE LOCAL. SÚMULA N. 280/STF. DECISÃO MANTIDA.
+1. "Inafastável a incidência da Súmula 284 do STF à alegada violação do art. 535 do CPC, uma vez que do acórdão que julgou o agravo regimental na origem não houve oposição de embargos de declaração para instar a Corte de origem a sanar eventual vício contido no aresto" (AgRg no AREsp n. 244.325/SC, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 7/2/2013, DJe 19/2/2013). 2. É inadmissível o recurso especial quando não houver a impugnação de fundamento do acórdão recorrido apto, por si só, a manter o inteiro teor do julgado. Aplicação, por analogia, da Súmula n. 283/STF.
+3. É incabível a análise de norma de direito local em recurso especial. Incidência da Súmula n. 280/STF.
+4. Agravo regimental improvido. (AgRg no REsp 1446996/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/09/2015, DJe 08/09/2015)
+Com relação ao mérito, a Corte local manteve decisão que afastou o pedido de impenhorabilidade do imóvel, em razão do reconhecimento da preclusão, visto que a referida questão foi anteriormente analisada e não houve a interposição de recurso.
+Com efeito, quanto à tese de violação aos arts.370, 373, II, 507, 832 do Código de Processo Civil e aos arts. 1º, 3º, 5º da Lei 8.009/1990, verifico que a Corte local não emitiu juízo de valor sobre a matéria, bem como não foram opostos embargos de declaração para sanar a omissão, o que impossibilita o julgamento da matéria em razão da ausência do necessário prequestionamento, a teor do disposto na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUDIÊNCIA DE
+CONCILIAÇÃO NÃO REALIZADA. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.915.027/SP, relator Ministro Luis Felipe Salomão,
+Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+Ademais, para reconhecer a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INSTRUMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CLÁUSULA DE QUITAÇÃO GERAL E PLENA. AUSÊNCIA DE DOLO, COAÇÃO OU ERRO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E
+356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (enunciado n. 211 da Súmula do STJ).
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. No tocante à parte em que a insurgência foi inadmitida, ratifica-se que os arts. 840 e 849 do Código Civil não foram debatidos pelo acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356/STF.
+5. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+6. No caso, estão presentes os requisitos cumulativos necessários à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015, conforme as regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp n. 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+7. Agravo interno desprovido.
+(AgInt no REsp 1.839.431/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 08/02/2021, DJe 12/02/2021)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
