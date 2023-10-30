@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CONTRATO COM CLÁUSULA COMPROMISSÓRIA. CLÁUSULA REDIGIDA COM DESTAQUE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Modificar a conclusão do Tribunal local, acerca da existência de cláusula compromissória no contrato celebrado pelas partes, afa stando qualquer irregularidade na referida cláusula, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido aos óbices das Súmula 5 e 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Na origem, CM Capital Markets Distribuidora de Títulos e Valores Mobiliários Ltda. ajuizou ação de cobrança em face de Renato Cesar Pereira Duarte, sustentando que as partes celebraram contrato de intermediação de corretagem no mercado financeiro, pela qual o réu realizou operação de alto risco, resultando em prejuízo, pretendendo, assim, o respectivo ressarcimento. O réu, por sua vez, apresentou reconvenção para declaração de inexigibilidade do débito cobrado e indenização por danos materiais.
+A Magistrada de primeiro grau julgou procedente a ação principal para condenar o réu-reconvinte ao pagamento de R$ 31.622,63 (trinta e um mil, seiscentos e vinte e dois reais e sessenta e três centavos), e improcedente a reconvenção.
+Interposta apelação pelo demandado, a Trigésima Primeira Câmara de Direito Privado do Tribunal de Justiça de São Paulo deu-lhe provimento para julgar extinto o processo, sem julgamento do mérito, nos termos do art. 337, X, do CPC.
+O acórdão está assim ementado (e-STJ, fl. 853):
+APELAÇÃO. GESTÃO DE NEGÓCIOS. AÇÃO DE COBRANÇA E RECONVENÇÃO. ARBITRAGEM. CONTRATO COM CLÁUSULA COMPROMISSÓRIA. MATÉRIA PRELIMINAR EM CONTESTAÇÃO DE CONVENÇÃO DE ARBITRAGEM. CLÁUSULA REDIGIDA COM DESTAQUE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO, NOS TERMOS DO ART. 337, X, DO CÓDIGO DE PROCESSO CIVIL (CPC). NECESSIDADE. SENTENÇA REFORMADA. RECURSO PROVIDO. O autor renunciou à cláusula compromissória e ajuizou ação perante o Poder Judiciário. Todavia, a outra parte apresentou contestação e, em preliminar, indicou a existência da cláusula compromissória. Observe-se, ainda, que inexiste irregularidade na referida cláusula, pois redigida com destaque. Ademais, somente o apelante possui legitimidade e interesse para apontar descumprimento do disposto no art. 4º, §2º, da Lei nº 9.307/96. A apresentação de reconvenção pelo réu não implica renúncia tácita, mas observância do princípio da eventualidade.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 1.362-1.380), fundamentado na alínea a do permissivo constitucional, CM Capital Markets Distribuidora de Títulos e Valores Mobiliários Ltda. apontou divergência jurisprudencial e violação aos arts. 489, II, e 1.022, I e II, do CPC; e 4º, § 2º, da Lei n. 9.307/1996.
+Sustentou, além de negativa de prestação jurisdicional, que para a validade e eficácia da cláusula compromissória inserida no contrato de adesão é necessária a validação expressa do aderente, não tendo o recorrido manifestado tal aceitação.
+Não foram apresentadas contrarrazões.
+O recurso especial não foi admitido na origem, o que ensejou a interposição de agravo.
+Sem contraminuta.
+Às fls. 940-943 (e-STJ), em decisão monocrática desta relatoria, o agravo foi conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CONTRATO COM CLÁUSULA COMPROMISSÓRIA. CLÁUSULA REDIGIDA COM DESTAQUE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do presente agravo interno, CM Capital Markets Distribuidora de Títulos e Valores Mobiliários Ltda. aduz, em síntese, que "não se intenciona obter o reexame da matéria de fato encerrada nos autos do processo de origem, mas apenas e tão somente a correta valoração jurídica dos elementos de convicção carreados aos autos" (e-STJ, fl. 951).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CONTRATO COM CLÁUSULA COMPROMISSÓRIA. CLÁUSULA REDIGIDA COM DESTAQUE. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Modificar a conclusão do Tribunal local, acerca da existência de cláusula compromissória no contrato celebrado pelas partes, afa stando qualquer irregularidade na referida cláusula, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido aos óbices das Súmula 5 e 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da decisão agravada.
+No tocante à preliminar de negativa de prestação jurisdicional, constata-se que o acórdão a quo resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que o acórdão recorrido enfrentou, de forma clara e fundamentada, as questões suscitadas pelas partes, notadamente acerca da validade e eficácia da convenção de arbitragem, tratando-se, na verdade, de pretensão de novo julgamento da matéria.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Quanto à questão de fundo, constata-se que o Tribunal de origem, com base no acervo probatório carreado aos autos, extinguiu o feito, sem resolução do mérito, em razão da existência de cláusula compromissória no contrato celebrado pelas partes, afastando qualquer irregularidade na referida cláusula.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fls. 857-860):
+Alega o apelante que a previsão contratual de convenção de arbitragem enseja o reconhecimento da competência do juízo arbitral para decidir com primazia sobre o Poder Judiciário as questões acerca da existência, validade e eficácia da convenção de arbitragem e do contrato que contenha a cláusula compromissória. A consequência da existência do compromisso arbitral é a extinção do processo sem resolução de mérito.
+Conforme constou do acórdão de fls. 599/604, pactuada a cláusula arbitral e preenchidos seus requisitos de validade, nos termos da Lei nº 9.307/96, não pode uma das partes, unilateralmente, esquivar-se para não se submeter ao compromisso assumido no livre exercício de sua vontade, ainda que haja disparidade de poderio econômico entre os contratantes.
+O Código de Processo Civil de 2015, de modo diferente ao que fazia o de 1973, estabeleceu, claramente, que a extinção do processo sem resolução do mérito não decorre da mera existência de cláusula compromissória no contrato celebrado pelas partes, mas de arguição pelo réu na contestação, dispondo expressamente que a matéria não pode ser conhecida de ofício pelo Magistrado.
+Estabelece o art. 337, X, § 5º, do CPC/2015:
+ ..
+Desse modo, a extinção do processo conforme realizada na primeira sentença foi irregular, pois o réu não havia sido citado e o Código de Processo Civil dispõe expressamente que incumbe ao réu na contestação, antes de discutir o mérito, arguir a existência de convenção de arbitragem, pois referida matéria não pode ser conhecida de ofício pelo Magistrado.
+Por conseguinte, o que se verifica é que o autor renunciou à cláusula compromissória e ajuizou ação perante o Poder Judiciário. Todavia, com o retorno dos autos à Vara de origem, o réu foi citado, apresentou contestação e, em preliminar, indicou a existência da cláusula compromissória.
+Observo que a autora, ao se sagrar vencedora na demanda, em contrarrazões, apontou que a cláusula constante do contrato não preenche os requisitos para sua validação e deve ser considerada patológica e afastada a preliminar arguida.
+Entretanto, inexiste irregularidade na referida cláusula, pois foi redigida com destaque (fls. 89). Ademais, somente o apelante possui legitimidade e interesse para apontar descumprimento do disposto no art. 4º, §2º, da Lei nº 9.307/96.
+A apresentação de reconvenção pelo réu não implica renúncia tácita, mas observância do princípio da eventualidade.
+Diante do exposto, pelo meu voto, dou provimento ao recurso interposto para julgar extinto o processo, sem julgamento do mérito, nos termos do art. 337, X, do CPC. Em razão da sucumbência experimentada, a autora deve arcar com as custas, despesas processuais e honorários advocatícios do patrono do réu que arbitro em 15% (quinze por cento) do valor atribuído à causa, devidamente corrigido, nos termos do art. 85, §§ 2º e 11, do CPC.
+Com efeito, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, tal como busca a insurgente, esbarraria nos enunciados n. 5 e 7 das Súmulas desta Corte.
+Como o presente agravo interno não suscitou nenhuma tese capaz de modificar o conteúdo do julgado impugnado, deve-se manter inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
