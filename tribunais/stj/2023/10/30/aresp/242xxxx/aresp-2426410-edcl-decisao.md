@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA DO SOCORRO MORAES em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante, in verbis:
+Na hipótese sub judice, o decisum embargado transcreveu apenas parte dos fundamentos do Recurso Especial para concluir que "a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (folha 301 e-STJ).
+A premissa é manifestamente equivocada.
+Houve combate claro, coeso e cristalino em relação ao Acórdão fustigado e os fundamentos articulados não foram examinados pela nobre Presidência, o que configura vício de omissão sanável pela via dos aclaratórios (fl. 308).
+Incogitável, portanto, falar que as razões recursais estão dissociadas do que decidido na instância ordinária.
+A Embargante fundamentou o recurso e expôs, de forma ampla, todos os aspectos jurídicos do caso, não limitando sua fundamentação ao trecho transcrito de forma aleatória, com o máximo respeito, na decisão embargada.
+A análise da questão pressupõe a avaliação de toda a extensão dos fundamentos articulados em sede de Recurso Especial, não se afigurando sensato, razoável e proporcional deixar de conferir trânsito por suposta inépcia dos fundamentos do recurso, que se encontra mais do que suficiente claro e combativo aos termos do acórdão questionado.
+A Embargante não recorreu por recorrer, concessa maxima venia.
+Combateu os elementos constantes dos autos, não se tratando de utilização da via especial por mera retórica ou capricho.
+Merece que seus argumentos sejam adequadamente analisados, não servindo a genérica alegação de razões dissociadas como fundamento válido e idôneo para rechaçar a pretensão recursal (fl. 316).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração possuem fundamentação vinculada, destinando-se a suprir omissão, eliminar contradição ou ambiguidade e afastar obscuridade existentes no julgado, vícios que não se verificam na espécie, pois o presente recurso veicula mero inconformismo com o conteúdo da decisão embargada.
+Em seu recurso integrativo, a parte embargante se limita a alegar que houve desacerto quanto à aplicação da Súmula 284/STF e, de forma genérica, omissão quanto à integral apreciação dos argumentos elencados no recurso especial.
+Não sendo os embargos declaratórios a via adequada para rediscutir o acerto ou desacerto quanto à incidência da Súmula 284/STF e não sendo possível a verificação concreta de eventual omissão com base na afirmação genérica de que todos os argumentos do especial devem ser apreciados, o presente recurso não merece ser acolhido.
+Nesse sentido: "Tendo o acórdão embargado analisado explicitamente as questões relevantes e imprescindíveis para a análise do recurso, não há que se falar em omissão no julgado, sendo certo que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão." (EDcl no AgRg no RMS n. 61.148/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 30/11/2021.)
+De igual sorte: "Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes" (EDcl no REsp n. 1.859.933/SC, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, DJe de 3/5/2022.)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
