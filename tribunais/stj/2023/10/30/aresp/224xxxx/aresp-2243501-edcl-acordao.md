@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de embargos de declaração, opostos por SYNGENTA PROTEÇÃO DE CULTIVOS LTDA, contra acórdão da Quarta Turma desta Corte, assim ementado (fl. 702, e-STJ):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Aplicação correta da súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. Agravo interno desprovido.
+Nos presentes aclaratórios (fls. 712/715, e-STJ), a embargante afirma não há se falar em ofensa ao disposto na Súmula 182 do STJ, porquanto o agravo do artigo 1.042 do CPC/15 rebateu todos os termos da decisão que negou seguimento ao Recurso Especial.
+Sem impugnação.
+É o relatório.
+EDcl no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.243.501 - GO (2022/0350406-7)
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO RECURSAL DA AGRAVANTE.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração não merecem acolhida, pois não demonstram a existência de qualquer vício a macular o acórdão embargado.
+1. Consoante preceitua o artigo 1.022 do CPC/15, os embargos de declaração se prestam, apenas, a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+Nesse sentido, precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.021, § 3º, DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Consoante julgado proferido pela colenda Corte Especial do STJ, "a vedação constante do art. 1.021, § 3º, do CPC não pode ser interpretada no sentido de se exigir que o julgador tenha de refazer o texto da decisão agravada com os mesmos fundamentos, mas outras palavras, mesmo não havendo nenhum fundamento novo trazido pela agravante na peça recursal" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe de 03/08/2016).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1397216/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado.
+É que, a pretexto de omissão, na verdade, a embargante pretende a modificação do acórdão, cuja via processual é inadequada.
+2. Com efeito, o acórdão embargado não conheceu do agravo interno (art. 1021 do CPC/15) em razão da incidência da Súmula 182 do STJ, pois a agravante não refutou o fundamento expendido na decisão monocrática agravada a respeito da incidência da Súmula 7 do STJ.
+Confira-se os seguintes trechos do acórdão embargado (fls. 705/706, e-STJ):
+1. Efetivamente, nas razões do agravo em recurso especial (art. 1042 do CPC/15) às fls. 587/605, e-STJ, a insurgente não combateu, especificamente, o fundamento utilizado pela Corte de origem para inadmitir o processamento do apelo extremo (Súmula 7/STJ).
+No caso dos autos, observa-se que a agravante limitou-se a reproduzir os argumentos de mérito apresentados no apelo nobre e afirmar, de modo vago, entre as fls. 602/603, e-STJ, que "não se trata de pretensão de análise fática probatória, mas reconhecimento de irregularidade dos procedimentos essenciais não observados no trâmite do processo, e, expressos na legislação processual civil" (fl. 603, e-STJ).
+Assim, não foi demonstrado que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias.
+Com efeito, a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. NÃO VERIFICADO. ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. SÚMULA N. 7 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO. 1. Não se conhece de agravo interno que não impugna os fundamentos de decisão que não conheceu de agravo em recurso especial. Incidência da Súmula n. 182 do STJ. 2. Para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar, genericamente, que a apreciação de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas, devendo a parte expor a tese jurídica desenvolvida no recurso especial e a demonstrar a adoção dos fatos tais quais postos nas instâncias ordinárias. 3. Não se verifica cerceamento de defesa, quando, no julgamento antecipado da lide, o Tribunal a quo entende o feito devidamente instruído e refuta a produção de provas adicionais, que considera desnecessárias, por se tratar de matérias de fato ou de direito já comprovadas documentalmente. 4. Agravo interno não conhecido. (AgInt no AREsp n. 2.173.404/MT, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO DA DECISÃO AGRAVADA. SÚMULA 7/STJ. ALEGAÇÕES GENÉRICAS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA 1. Ação de obrigação de fazer c/c compensação por danos morais. 2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido. 3. Inadmitido o recurso especial com base na Súmula 7/STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. Precedentes. 4. Agravo interno não provido. (AgInt no AREsp 1775476/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7 E 182 DO STJ. 1. A insurgente não impugnou, de forma precisa, os fundamentos da decisão impugnada em relação à aplicação da Súmula 7/STJ, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2. Não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. 3. Ainda que assim não fosse, decidir de forma contrária ao acórdão recorrido demandaria necessariamente o reexame de matéria fática, o que encontra óbice na Súmula 7 desta Corte Superior. 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1067725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+Assim, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao sustentar as razões do não provimento do agravo interno.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do Código de Processo Civil de 2015, não há razão para modificar o decisum embargado.
+3. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+4. Do exposto, rejeitam-se os presentes embargos de declaração.
+É como voto.
