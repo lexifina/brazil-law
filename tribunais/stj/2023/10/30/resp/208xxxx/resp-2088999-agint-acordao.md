@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INEXIGIBILIDADE DE DÉBITO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer cumulada com inexigibilidade de débito, já em fase de cumprimento de sentença, em virtude de suposto bloqueio de acesso a sistema administrativo de e-commerce da empresa.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/2015.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por EXTERMA ENERGIA SUPLEMENTOS LTDA contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera e, nesta extensão, negou-lhe provimento.
+Ação: de obrigação de fazer cumulada com inexigibilidade de débito, já em fase de cumprimento de sentença, ajuizada pela agravante, em desfavor de COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE S.A, em virtude de suposto bloqueio de acesso ao sistema administrativo do e-commerce implementado por esta naquela empresa.
+Decisão interlocutória: reconheceu como datas de descumprimento da liminar - para fins de incidência da multa diária cominatória - o dia 09/08/2017 e, também, o período compreendido entre 16/02/2018 e 23/03/2018.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DEFINIÇÃO DO PERÍODO DE DESCUMPRIMENTO DA LIMINAR. INSURGÊNCIA DA EXEQUENTE. TESE DA NULIDADE DA DECISÃO POR VIOLAÇÃO À COISA JULGADA, OBSCURIDADES E OMISSÃO. REJEIÇÃO. DECISÃO QUE DÁ FIEL CUMPRIMENTO À ORDEM CONSTANTE NO ACÓRDÃO DE AGRAVO DE INSTRUMENTO ANTERIORMENTE INTERPOSTO NOS AUTOS, DEVIDAMENTE AMPARADA PELAS PROVAS PRODUZIDAS E PELA CONDUTA PROCESSUAL DA PRÓPRIA AGRAVANTE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. INEXISTÊNCIA, ADEMAIS, DE "ALTERAÇÃO DA PREMISSA FÁTICA", QUAL SEJA, A DE QUE A LIMINAR FOI, COM EFEITO, DESCUMPRIDA. DECISÃO MANTIDA.
+RECURSO CONHECIDO E NÃO PROVIDO (e-STJ fl. 3.192).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: aponta a violação dos arts. 10, 373, II, § 1º, 374, 489, § 1º, 505 e 1.022, I, do CPC/2015. Além de negativa de prestação jurisdicional, afirma que o descumprimento da liminar, em verdade, perdurou por 239 (duzentos e trinta e nove) dias e que era ônus da agravada comprovar o seu cumprimento, sob pena de impor à agravante prova negativa. Sustenta, ademais, que houve apenas a presunção do cumprimento da liminar em razão da suposta ausência de reclamação diária por parte da agravante. Por fim, assevera que houve violação da coisa julgada.
+Decisão monocrática: conheceu parcialmente do recurso especial interposto pela agravante e, nesta extensão, negou-lhe provimento, ante: i) a ausência de negativa de prestação jurisdicional (ausência de violação dos arts. 489, § 1º, e 1.022, I, do CPC/2015); ii) a incidência da Súmula 211/STJ; e iii) a incidência da Súmula 7/STJ.
+Agravo interno: reitera a ocorrência de negativa de prestação jurisdicional, tendo em vista a ausência de apreciação da alegada violação dos arts. 10, 373, II, § 1º, 374 e 505 do CPC/2015, dispositivos legais estes, inclusive, tidos por não prequestionados. Aduz que o requisito do prequestionamento foi devidamente atendido, ainda que de forma implícita ou ficta. Por fim, insurge-se contra a aplicação da Súmula 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INEXIGIBILIDADE DE DÉBITO. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489, § 1º, DO CPC/2015. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de obrigação de fazer cumulada com inexigibilidade de débito, já em fase de cumprimento de sentença, em virtude de suposto bloqueio de acesso a sistema administrativo de e-commerce da empresa.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, do CPC/2015.
+4. A ausência de decisão acerca dos argumentos invocados pela recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu parcialmente do recurso especial interposto pela agravante e, nesta extensão, negou-lhe provimento, ante: i) a ausência de negativa de prestação jurisdicional (ausência de violação dos arts. 489, § 1º, e 1.022, I, do CPC/2015; ii) a incidência da Súmula 211/STJ; e iii) a incidência da Súmula 7/STJ.
+1. Da violação dos arts. 489, § 1º, e 1.022, I, do CPC/2015
+Diferentemente do que quer fazer crer a agravante, não houve qualquer negativa de prestação jurisdicional por parte do Tribunal de origem que decidiu, de forma expressa e fundamentada, acerca do período em que descumprida a liminar pela agravada, bem como acerca do ônus da prova e, também, da ausência de ofensa à coisa julgada, senão veja-se:
+No julgamento do citado AI nº 56544-26.2019, este Tribunal, como visto, destacou que a documentação trazida pela COMPANHIA Executada no mov. 162 permitiu verificar "que o acesso à aludida plataforma online  obrigação de fazer objeto da liminar  não esteve bloqueado por todo o período noticiado ao juízo a quo pela Agravada (mov. 162.2, p. 63-66)".
+A conclusão, naquela oportunidade, foi a de que a Exequente "omitiu a informação de que a plataforma funcionou por alguns dias dentro do período ora analisado  28/07/2017 a 23/03/2018 ", de modo que, não havendo falar-se em 239 dias de descumprimento da liminar, seria necessário, portanto, elucidar os efetivos dias em que esse descumprimento teria ocorrido.
+No julgamento dos Embargos de Declaração nº 56544-26.2019/1 (vide mov. 24.1 dos autos de "ED 1" em apenso), a Corte expressamente abordou, nesse contexto, a temática do onus probandi, atribuindo à COMPANHIA Executada, ora Agravada, "o ônus de apresentar os documentos pertinentes, além dos já apresentados, no sentido de provar o cumprimento da liminar sob pena de impor à parte Embargante prova negativa (grifei).
+Fica claro, assim, que era ônus da comprovar em quais datas e/ou COMPANHIA períodos cumpriu, devidamente, a liminar.
+A esse respeito, necessário registrar que foi com base na documentação trazida pela própria Executada na "impugnação" que o Juízo, com razoabilidade, reputou que, no período de 28/07 /2017 (data da intimação para cumprir a liminar) a 16/02/2018 (data da nova solicitação de desbloqueio), realmente parecer ter havido o descumprimento da liminar apenas em 09/08/2017.
+(..)
+Com efeito, a parte Executada trouxe aos autos documentação contendo as reclamações administrativas da Exequente. O conteúdo daqueles e-mails de pp. 63-66 do mov. 162.2, aliado à conduta processual da Agravante (que somente veio aos autos noticiar o descumprimento da liminar em fevereiro de 2018), autoriza a conclusão de que a COMPANHIA demonstrou, mormente quando observados em conjunto esses elementos probatórios, que somente ocorreu o descumprimento da liminar em 09/08/2017.
+Entendo que a Agravada bem explicou, em suas contrarrazões, que "a única prova possível quanto ao regular funcionamento da loja virtual no período apontado .. pela Agravante é o registro do próprio sistema da Agravada. Mais do que isso seria exigir da Agravada prova negativa (diabólica) e impossível de ser produzida. Afinal, a única evidência possível de que a loja virtual funcionou regularmente funcionamento é a de que não há registros ou queixas de falhas pela Agravante"(grifei).
+Veja-se que não há qualquer "alteração da coisa julgada", obscuridades ou omissões no decisum agravado: este Tribunal ordenou ao Juízo singular que esclarecesse o período de cumprimento da liminar (ônus da Agravada) e, a partir de documentação por ela trazida  mas não só  , concluiu-se, com razoabilidade, haver prova segura de que, no período de 28/07/2017 a 16/02/2018, com exceção da data de 09/08/2017, houve o efetivo cumprimento do mandado (imediato restabelecimento do acesso da Autora/Exequente à plataforma on-line de compras) (e-STJ fls. 3.197-3.198).
+Ressalte-se que a análise do argumento relativo à eventual prolação de decisão surpresa seria irrelevante para a modificação do julgado, uma vez que o TJ/PR deixou expressamente consignado que foi a partir da documentação trazida pela agravada que foi possível definir o período de descumprimento da liminar - e não propriamente com base na ausência de reclamações por parte da agravante.
+Assim, de fato, não há que se falar em violação dos arts. 489, § 1º, e 1.022, I, do CPC/2015.
+2. Da ausência de prequestionamento
+Com relação a este tópico, a agravante pugna pelo afastamento da aplicação da Súmula 211/STJ quanto à análise da alegada violação dos arts. 10, 373, II, § 1º, 374 e 505 do CPC/2015, sob o argumento de que teria havido o seu devido prequestionamento, ainda que de forma implícita ou ficta.
+Ocorre que, compulsando as razões do acórdão recorrido, verifica-se que, de fato, não houve qualquer análise acerca dos referidos dispositivos legais.
+Deve ser mantido, portanto, o referido óbice sumular.
+3. Do reexame de fatos e provas
+De qualquer forma, ainda que ultrapassado o supracitado óbice sumular, outro seria imposto.
+É que, de fato, alterar o decidido no acórdão proferido pelo TJ/PR no que se refere à suficiência de provas do restabelecimento da plataforma administrativa do e-commerce no período considerado pela Corte local e à ocorrência de coisa julgada exigiria o reexame do conjunto fático-probatório dos autos, inviável a esta Corte Superior.
+Novamente, urge salientar que o Tribunal de origem reconheceu, de forma expressa, que a partir de documentação trazida pela agravada  mas não só  , haver prova segura de que, no período de 28/07/2017 a 16/02/2018, com exceção da data de 09/08/2017, houve o efetivo cumprimento do mandado (imediato restabelecimento do acesso da Autora/Exequente à plataforma on-line de compras) (e-STJ fl. 3.198).
+A aplicabilidade da Súmula 7/STJ, portanto, deve ser mantida.
+DISPOSTIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
