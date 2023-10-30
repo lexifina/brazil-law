@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão que concedeu liminarmente o habeas corpus para determinar a soltura do paciente, isentando-o do pagamento da fiança arbitrada, sem prejuízo das demais medidas cautelares impostas pela magistrada de primeiro grau.
+No presente recurso, o recorrente alega que a dispensa de informações, prevista no art. 662 do CPP, tornou-se incompatível com a Constituição Federal. Afirma que é obrigatória a abertura de vista ao Ministério Público sobre os processos de habeas corpus em trâmite perante Tribunais Federais ou Estaduais, o que deverá ocorrer antes da conclusão dos autos ao Relator para julgamento. Ainda, requer a reconsideração da decisão ou a reforma pela Turma julgadora para que o habeas corpus não seja conhecido em razão da supressão de instância.
+Entretanto, em consulta realizada na página eletrônica do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (processo 5047978-94.2023.8.09.0149), colheu-se a informação de que, em 1 5/02/2023, antes mesmo de receber a comunicação do STJ a respeito da concessão do habeas corpus, o juízo de origem dispensou o pagamento da fiança arbitrada e concedeu ao indiciado WELTON GONÇALVES a liberdade provisória independente do recolhimento de fiança, circunstância que evidencia a perda do objeto do presente writ.
+Ante o exposto, julgo prejudicado o HABEAS CORPUS, com fulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
+EMENTA
