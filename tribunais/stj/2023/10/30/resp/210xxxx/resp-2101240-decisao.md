@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial, interposto por FUNDAÇÃO DE CREDITO EDUCATIVO, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 251, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. IMPENHORABILIDADE DE BEM DE FAMÍLIA RECONHECIDA PELO JUÍZO DE ORIGEM. ÔNUS DA SUCUMBÊNCIA DEVIDO PELA PARTE EMBARGADA. JULGADOS PROCEDENTES OS EMBARGOS DO DEVEDOR E RECONHECIDA A IMPENHORABILIDADE DO BEM, CABE A IMPOSIÇÃO DE VERBA SUCUMBENCIAL EM DESFAVOR DA PARTE EMBARGADA. HIPÓTESE EM QUE A PARTE EMBARGADA DEU CAUSA À CONSTRIÇÃO, ALÉM DE APRESENTAR RESISTÊNCIA AO PLEITO DA PARTE EMBARGANTE. PRECEDENTES. RECURSO DESPROVIDO.
+Opostos embargos declaratórios (fls. 258/266, e-STJ), esses foram desacolhidos na origem.
+Nas razões do especial (fls. 289/297, e-STJ), a insurgente alegou violação aos artigos 1022, II, 85, §1º, 915, 917, § 1º do Código de Processo Civil/15. Sustentou, em síntese: i) contradição no acórdão recorrido, manifestada no erro de fato, "vez que os autos de origem se tratam de embargos à penhora (incidente processual) e não embargos à execução". Além disso, apontou omissão quanto à alegação de que, na hipótese de conhecimento do incidente como embargos à execução, tal se configura intempestivo, pois há muito havia transcorrido o prazo previsto na lei para a oposição do referido incidente, bem como a parte contrária, citada logo após o ajuizamento da execução de nº 50006335820148210006, já opôs embargos à execução no prazo legal (nº 00611400045218) tendo estes, sido julgados improcedentes com decisão já transitada em julgado; e ii) a impossibilidade de fixação de honorários de sucumbência em incidente processual.
+Contrarrazões às 305/307, e-STJ.
+Após juízo de admissibilidade positivo (fls. 310/313, e-STJ), ascenderam os autos à esta Corte Superior.
+É o relatório.
+Decido.
+O inconformismo merece prosperar no que diz respeito à aventada negativa de prestação jurisdicional.
+1. Em seu apelo nobre, a recorrente alega, inicialmente, ofensa ao artigo 1.022 do CPC/2015, ao argumento de que o acórdão recorrido, a despeito de instado por meio de embargos de declaração, não teria se pronunciado sobre a existência de contradição no acórdão recorrido, manifestada no erro de fato, uma vez que os autos de origem se tratam de embargos à penhora (incidente processual) e não embargos à execução. Além disso, apontou omissão quanto à alegação de que, na hipótese de conhecimento do incidente como embargos à execução, tal se configura intempestivo, pois há muito havia transcorrido o prazo previsto na lei para a oposição do referido incidente, bem como a parte contrária, citada logo após o ajuizamento da execução de nº 50006335820148210006, já opôs embargos à execução no prazo legal (nº 00611400045218) tendo estes, sido julgados improcedentes com decisão já transitada em julgado
+Nota-se que o Tribunal local assim se manifestou (fls. 279, e-STJ):
+Na hipótese não se verifica qualquer omissão, contradição ou obscuridade, mas mera inconformidade da parte com os fundamentos que levaram ao desprovimento do recurso interposto pela parte ré, ora embargante.
+Ora, uma vez ajuizada a execução, são admissíveis os embargos. Esses não são embargos à penhora (apesar de comumento intitulados), mas embargos do devedor na execução, que podem versar sobre variadas matérias (desconstituição do título executivo, nulidade do título, excesso de execução, impenhorabilidade do bem, inexistência da dívida etc.).
+Evidente que pretende o embargante, na verdade, rediscutir matéria que foi analisada de forma exaustiva pelo acórdão embargado, embora em sentido contrário aos seus interesses.
+Os embargos declaratórios não podem ser usados como veículo ou tentativa de rediscussão do que já foi suficientemente decidido (como sucedâneo recursal ordinário), porquanto restrita tal espécie de recurso às já aludidas hipóteses de cabimento arroladas no art. 1.022 do CPC.
+Destaque-se, por oportuno, que tais omissões não foram sanadas quando da apreciação dos aclaratórios, oportunidade em que tão somente se alegou inexistirem omissões e ou contradições no julgado embargado.
+Nesse sentido, de rigor o reconhecimento de violação dos art. 1022 do CPC/2015 em relação à presente questão.
+Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE RESCISÃO CONTRATUAL. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal local, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do Código de Processo Civil de 1973, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no AREsp 889.277/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO DO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 535 do CPC/73 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar parcial provimento ao recurso especial, com determinação do retorno dos autos ao Tribunal de origem para que sane as omissões verificadas.
+(AgInt no AREsp 843.220/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do recurso e dou-lhe provimento para cassar o acórdão que julgou os embargos de declaração (fls. 276/282, e-STJ) e determinar a devolução dos autos ao Tribunal a quo, a fim de que profira novo julgamento dos embargos declaratórios apresentados pela ora insurgente, sanando as omissões apontadas, restando prejudicada a análise das demais questões suscitadas nas razões recursais.
+Publique-se.
+Intimem-se.
+EMENTA
