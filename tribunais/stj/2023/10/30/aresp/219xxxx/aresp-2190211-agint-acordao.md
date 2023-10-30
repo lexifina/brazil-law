@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO DA ORA INSURGENTE.
+IRRESIGNAÇÃO DA PARTE DEMANDADA.
+1. Rever as conclusões do Tribunal de origem quanto à existência de prática de concorrência desleal e da presença dos elementos ensejadores do dever de indenizar esbarra no óbice da Súmula 7 do STJ, aplicável a ambas as alíneas do permissivo constitucional.
+2. Agravo interno desprovido .
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por VP VIAGENS E TURISMO LTDA em face da decisão acostada às fls. 1.278-1.282 e-STJ, da lavra d este relator, que conheceu do agravo (art. 1.042 do CPC/15) para não conhecer do recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. fls. 671-674 e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER. Marca - Utilização da marca da autora em links patrocinados. Inadmissibilidade. Empresas que trabalham no mesmo ramo de atividade. Possibilidade de causar confusão entre os consumidores. Prática inadmitida. Decisão que determinou que a ré se abstenha dessa prática mantida - Recurso da ré improvido.
+AÇÃO DE OBRIGAÇÃO DE FAZER. Marca Autora que pretende que a ré utilize sua marca como palavra-chave negativa ao argumento de que a ré descumpriu a decisão que concedeu a tutela antecipada. Nova determinação que seria inócua. Recurso da autora nesta parte improvido.
+RESPONSABILIDADE CIVIL. Dano material. Sentença "extra petita". Inocorrência. Autora que requereu a verba indenizatória baseada no inciso III do art. 210 da LPI. Hipótese em que cabe ao próprio prejudicado decidir o critério para aferição dos lucros cessantes. Sentença que não determinou o cálculo sobre todos os incisos, mas sobre aquele escolhido pela própria autora. Recurso da ré improvido.
+RESPONSABILIDADE CIVIL. Dano material. Pretensão da autora de que a verba indenizatória seja fixada por arbitramento. Admissibilidade. Precedentes desta C. Câmara. Recurso da autora nesta parte provido.
+RESPONSABILIDADE CIVIL. Dano moral. Utilização indevida da marca da autora em links patrocinados. Dano moral configurado. Valor da indenização majorado para R$ 30.000,00 (trinta mil reais). Recurso da autora nesta parte provido.
+MULTA DIÁRIA. Pedido de majoração. Descumprimento da decisão judicial, Irresignação da autora que deverá ser analisada em incidente próprio. Recurso da autora nesta parte improvido. SUCUMBÊNCIA. Autora que decaiu da menor parte dos pedidos. Ré que deve arcar integralmente com as verbas de sucumbência. Aplicação do princípio da causalidade. Recurso da autora nesta parte provido."
+Opostos embargos declaratórios (fls. 676-684 e-STJ), restaram desacolhidos na origem (fls. 704-707 e-STJ).
+Nas razões de recurso especial (fls. 642-655 e-STJ), a insurgente alega que acórdão recorrido violou o art. 195, I, da Lei de Propriedade Industrial (LPI).
+Sustentou, para tanto, que o Tribunal de origem não se atentou para o fato de há posições doutrinárias que entendem que o desvio de clientela, por si só, não constitui qualquer ato ilícito; tal somente ocorrendo no caso de utilização de meio fraudulento, o que não se verifica no caso em exame. Apontou, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 712-719 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal e por aplicação da Súmula 7 do STJ. Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 720-723 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 757-758 e-STJ.
+Em julgamento monocrático, negou-se provimento ao reclamo, por incidência da Súmula 7/STJ, por ambas as alíneas do permissivo constitucional (e-STJ, fls. 768-771).
+Inconformada, interpôs o presente agravo interno (fls. 779-794 e-STJ), sustentando, em síntese, a inaplicabilidade da Súmula 7/STJ.
+Impugnação às fls.798-801 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO DA ORA INSURGENTE.
+IRRESIGNAÇÃO DA PARTE DEMANDADA.
+1. Rever as conclusões do Tribunal de origem quanto à existência de prática de concorrência desleal e da presença dos elementos ensejadores do dever de indenizar esbarra no óbice da Súmula 7 do STJ, aplicável a ambas as alíneas do permissivo constitucional.
+2. Agravo interno desprovido .
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. O recurso é inadmissível por demandar reexame de fatos e provas.
+Segundo os autos, a Corte de origem reformou a sentença que havia julgado improcedente a demanda ajuizada pela ora agravada.
+Essencialmente, o Tribunal a quo verificou que a ora insurgente não logrou êxito em comprovar a não utilização indevida da marca pertencente à parte agravada, concluindo restar configurada a concorrência desleal.
+Cita-se o excerto correspondente (fls. 245-248 e-STJ):
+No tocante ao mérito verifica-se que a própria ré confessou a utilização da marcada autora como parte de palavras chaves no "Google", mas defende a legalidade de tal conduta. Ocorre que, de acordo com o disposto no artigo 195, III, da Lei nº 9.279/96, o uso desautorizado de marca concorrente notória na internet, com o intuito de desviar a clientela, caracteriza concorrência desleal. Ora, verifica-se que no caso em tela ambas as empresas trabalham no mesmo ramo de atividade, qual seja, comercializando ingressos para parques e outras atrações em Orlando (EUA). Tal fato é suficiente a caracterizar confusão aos olhos do consumidor que ao procurar o site da empresa autora, acaba sendo redirecionado ao site da ré. E, no que diz respeito às marcas, a legislação visa proteger não apenas o seu titular, mas principalmente os consumidores, conforme entendimento do C. SUPERIOR TRIBUNAL DE JUSTIÇA:
+"No que diz respeito às marcas, reitere-se que sua proteção não tem apenas a finalidade de assegurar direitos ou interesses meramente individuais do seu titular, mas objetiva, acima de tudo, proteger os adquirentes de produtos ou serviços, conferindo-lhes subsídios para aferir a origem e a qualidade do que for ofertado no mercado de consumo, tendo por escopo, ainda, evitar o desvio ilegal de clientela e a prática do proveito econômico parasitário (REsp 1.327.773/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28.11.2017, DJe 15.02.2018).
+Como se vê da fundamentação acima, o Tribunal bandeirante reconheceu que "a própria ré confessou a utilização da marca da autora como parte de palavras chaves no "Google", configurando-se, assim, a prática de ato ilícito apta a gerar o dever de indenizar.
+Desse modo, a pretendida reforma do entendimento assentado na instância de origem requer o revolvimento do substrato fático da causa o que é vedado em razão do óbice da Súmula 7 do STJ.
+A propósito, colham-se os julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.  .. . 4. O Tribunal constatou que houve indevida utilização da marca pertencente à recorrida e concluiu restar configurada a concorrência desleal. Sendo assim, verifica-se que a matéria foi apreciada à luz dos elementos de fato e de prova acostados aos autos, de modo que a revisão das premissas alcançadas acerca do uso indevido da marca encontra óbice na Súmula 7 do STJ. 5. Agravo interno desprovido. (AgInt no REsp n. 1.982.872/SP, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2022, DJe de 27/10/2022.)  grifou-se .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CONCORRÊNCIA DESLEAL. PUBLICIDADE COMPARATIVA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. 1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ). 2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.402.894/SP, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 25/8/2021.)  grifou-se .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. CONCORRÊNCIA DESLEAL COMPROVADA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.  ..  2. As conclusões do acórdão recorrido no tocante à existência da prática de concorrência desleal, e prática de ato ilícito apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do acervo fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ. 3. Agravo interno não provido. (AgInt no AREsp n. 1.560.925/RJ, relator Ministro LUIS FELIP E SALOMÃO, QUARTA TURMA, DJe de 2/2/2021.)  grifou-se .
+Por fim, salienta-se que este Tribunal Superior entende que a incidência da súmula 7 do STJ impede igualmente o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+Nesse sentido, confira-se: AgInt no AREsp 1570877/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1850735/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1864691/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
