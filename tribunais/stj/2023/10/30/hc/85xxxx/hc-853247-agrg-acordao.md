@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+1. Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas "a" e "c", da Constituição da República.
+2. No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes.
+3. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF.
+4. No caso, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que não há se falar, outrossim, em descumprimento à Resolução CNJ n. 474/2022, uma vez que exigível a prévia intimação apenas em caso de transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, não se aplicando como no caso, de cassação de benefício e retomada do cumprimento da pena privativa de liberdade.
+5. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FELIPE CHANAN MARTINS contra decisão proferida por este Relator, que não conheceu do habeas corpus (e-STJ, fls. 531-533).
+Consta dos autos que o Agravante cumpre pena no processo de execução nº 0000186-13.2014.8.21.0021, a essa execução foi adicionada pena imposta por nova condenação penal condenação transitada em julgado nos autos do processo 0001161- 72.2011.8.16.0120, por fato praticado aos 03/12/2011, onde foi imposta pena de 2 anos e 8 meses de reclusão.
+O Juízo da Vara de Execuções Penais então revogou a liberdade condicional determinando regime semiaberto, e determinou a expedição do mandado de prisão em desfavor do Agravante.
+Nas razões recursais (e-STJ, fls. 538-556), o agravante alega que sua liberdade condicional foi revogada com expedição imediata de mandado de prisão, sem antes ter sido intimado a apresentar-se voluntariamente para início do cumprimento da pena.
+Aduz que tal decisão afronta determinação do art. 23 da resolução 474 do CNJ.
+Ressalta que o sistema prisional da cidade onde deve ser cumprida determinação não conta com vaga correta e estabelecimento correto para cumprimento dessa reprimenda.
+Entende que deve haver uma aplicação subsidiária de penalidade, tal como monitoramento eletrônico, inteligência a Súmula Vinculante 56 do STF ,conforme precedente do RE 641.320/RS.
+Requer a reconsideração da decisão agravada, ou o julgamento deste recurso pelo órgão colegiado, com o afastamento da aplicação da súmula 691/STF, a fim de que seja concedida a ordem para restabelecer o livramento condicional do paciente, com o recolhimento do mandado de prisão em desfavor do agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+1. Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas "a" e "c", da Constituição da República.
+2. No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes.
+3. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF.
+4. No caso, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que não há se falar, outrossim, em descumprimento à Resolução CNJ n. 474/2022, uma vez que exigível a prévia intimação apenas em caso de transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, não se aplicando como no caso, de cassação de benefício e retomada do cumprimento da pena privativa de liberdade.
+5. Agravo regimental desprovido.
+VOTO
+A irresignação não merece guarida.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus e recurso em habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691 do STF).
+O enunciado aplica-se também à hipótese em que se impugna decisão singular do Relator, a qual deveria ter sido impugnada por agravo interno, que devolveria a questão ao colegiado competente, nos termos do art. 105, inciso I, alíneas a e c, da Constituição da República.
+Com efeito, "a provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2018, DJe 5/4/2018).
+A respeito, os seguintes julgados:
+"CONSTITUCIONAL. PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. ATO COATOR. DECISÃO MONOCRÁTICA. RELATOR. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A ausência de decisão colegiada proferida pela c. Corte a quo torna incabível a impetração nesta Corte Superior, sob pena de supressão de instância.
+III - In casu, não há que se falar nem mesmo no verbete 691 do c.
+Supremo Tribunal Federal, uma vez que o mandamus foi liminarmente indeferido, nos termos do artigo 20 do RITRF4.
+IV - As questões suscitadas no bojo do writ de origem foram apreciadas apenas pelo juízo natural, de modo monocrático, razão pela qual falece competência a esta Corte para enfrentá-las, sobretudo porque a autoridade coatora (Relator) não está submetida, diretamente, e nesse particular, à jurisdição deste Superior Tribunal de Justiça, a teor do que dispõe o art. 105, I, "c", da Constituição Federal.
+Agravo regimental desprovido."
+(AgRg no HC n. 472.946/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 23/10/2018, DJe de 29/10/2018.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância.
+Precedentes do STJ e do STF.
+- Agravo regimental desprovido." (AgRg no HC 332.057/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/3/2016, DJe 28/3/2016, grifou-se).
+Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que não há se falar, outrossim, em descumprimento à Resolução CNJ nº 474/2022, uma vez que exigível a prévia intimação do sentenciado apenas em casos de condenação definitiva no regime intermediário, para fins de início ao cumprimento da pena.
+Nesse sentido, anotem-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO EM REGIME INICIAL SEMIABERTO. TRÂNSITO EM JULGADO. GUIA DE RECOLHIMENTO DEFINITIVA. EXPEDIÇÃO DE MANDADO DE PRISÃO. DESNECESSIDADE. RESOLUÇÃO N. 474/CNJ. INTIMAÇÃO PRÉVIA. ORDEM CONCEDIDA.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, o início do cumprimento da pena privativa de liberdade ocorre, a teor dos arts. 674 do CPP e 105 da LEP, com o recolhimento do sentenciado à prisão e a expedição da respectiva guia de execução, salvo em situações excepcionais, nas quais fique demonstrado que a prisão do sentenciado possa vir a ser excessivamente gravosa.
+2. O Conselho Nacional de Justiça, em 9/9/2022, aprovou a Resolução n. 474, que alterou o art. 23 da Resolução n. 417 do Conselho Nacional de Justiça - CNJ, prevendo a possibilidade da intimação da pessoa condenada, nos casos em que estabelecidos os regimes semiaberto ou aberto, previamente à expedição de mandado de prisão.
+3. Tendo sido demonstrado que o paciente foi condenado a 5 anos e 4 meses, em regime inicial semiaberto, e que este cumpriu cerca de 25% da pena aplicada, considerando-se o tempo de custódia cautelar, de 25/7/2020 até 6/10/2021, e a remição de pena em 69 dias, não se revela razoável a imediata expedição de mandado de prisão após o trânsito em julgado, mas sim a intimação prévia do apenado para iniciar o cumprimento da pena, nos termos estabelecidos na Resolução n. 474/CNJ.
+4. Agravo regimental provido para conceder o habeas corpus, determinando a expedição de guia de execução definitiva pelo Juízo de Execução, independentemente do prévio recolhimento do paciente à prisão."
+(AgRg no HC n. 764.065/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+2. Esta Corte já vinha admitindo a expedição da guia de recolhimento , antes do cumprimento do mandado prisional, todavia em casos específicos e excepcionais, em situações nas quais a prisão do sentenciado possa vir a ser excessivamente gravosa, o que não é a hipótese dos autos.
+3. Após a Resolução N. 474, de 9/9/2022, do Conselho Nacional de Justiça, houve modificação do art. 23 da Resolução 417 do CNJ, que passou a ter a seguinte redação: "Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante nº 56".
+4. Deve ser recolhido o mandado de prisão, caso ainda esteja em aberto, devendo ser observada a nova orientação do CNJ, com a prévia intimação do apenado condenado em regime semiaberto antes da expedição do mandado de prisão.
+5. Agravo regimental provido." (AgRg no HC n. 796.267/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 25/4/2023).
+Assim, nego provimento ao agravo regimental.
+É o voto.
