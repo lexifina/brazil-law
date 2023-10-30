@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por VANDER PEREIRA MEIRA contra acórdão do Tribunal de Justiça do Estado de Alagoas, ementado nos seguintes termos (e-STJ fl. 203):
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. FLAGRANTE. TRÁFICO DE ENTORPECENTES. PRELIMINAR DE INCOMPETÊNCIA DAS AUTORIDADES IMPETRADAS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. ANÁLISE INVIÁVEL NESTA VIA ESTREITA. REJEITADA. EVENTUAL EXCESSO DE PRAZO JUSTIFICADO. COMPLEXIDADE DO FEITO, PLURALIDADE DE ACUSADOS, QUESTIONAMENTOS ACERCA DO JUÍZO COMPETENTE PARA PROCESSAR E JULGAR O FEITO ORIGINÁRIO. DECRETO DE PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA. PRESENÇA DOS REQUISITOS AUTORIZADORES DA MEDIDA EXTREMA. POSICIONAMENTO DA PGJ NO MESMO SENTIDO. ORDEM DENEGADA. UNANIMIDADE.
+No presente recurso, o recorrente afirma, em síntese, que o juízo de origem é incompetente e que não há fundamentos para a prisão preventiva, além de afirmar que há excesso de prazo para a formação da culpa.
+Pugna, inclusive liminarmente, pela revogação da prisão cautelar.
+É o relatório. Decido.
+De início, registro que o presente recurso em habeas corpus foi interposto perante a Corte local em 2013, tendo sido encaminhada a esta Corte Superior apenas em 2023, ou seja, 10 anos depois. Nesse ínterim, já houve condenação com trânsito em julgado, encontrando-se o paciente, atualmente, cumprindo pena definitiva, desde 3/8/2021 (e-STJ fl. 243). Dessa forma, não há mais se falar em prisão preventiva nem em excesso de prazo para a formação da culpa, encontrando-se prejudicado o pleito no ponto.
+Quanto à alegada incompetência do juízo da 17ª Vara Criminal da Capital, constato que a matéria não foi examinada pela Corte local, por demandar "dilação probatória, inviável de ser analisada na via estreita do habeas corpus, que possui rito sumário e célere" (e-STJ fl. 206). Dessa forma, inviável eventual conhecimento da matéria por esta Corte Superior, em virtude da supressão de instância. Ainda que assim não fosse, a matéria já se encontraria preclusa, porquanto examinada pelas instâncias ordinárias na via apropriada, ao longo do trâmite processual.
+Pelo exposto, conheço em parte do recurso para julgá-lo prejudicado.
+Publique-se
+EMENTA
