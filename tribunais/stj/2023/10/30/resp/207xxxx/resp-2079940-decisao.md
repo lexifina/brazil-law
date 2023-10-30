@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por Joaquim Ferreira de Menezes Junior, no qual se alega violação dos arts. 46 e 53, III, "a", do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 62/63):
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CÉDULA DE CRÉDITO RURAL. COMPETÊNCIA TERRITORIAL. PROPOSITURA ALEATÓRIA. ABUSO DO DIREITO. DECLÍNIO. POSSIBILIDADE.
+1. A possibilidade de prorrogação da competência territorial prevista no art. 65 do Código de Processo Civil, se o réu não alegar a incompetência em preliminar de contestação, deve ser analisada sistematicamente, pois pressupõe que os demais limites legais sejam observados.
+2. O princípio do juiz natural impõe que as causas sejam processadas e julgadas pelo órgão jurisdicional previamente determinado a partir de critérios objetivos de atribuição de competência. É necessário que haja ao menos um elemento fático que justifique a opção do autor por determinado foro, dentre aqueles estipulados pelo ordenamento jurídico. A escolha aleatória ultrapassa a esfera de disponibilidade das partes e viola o princípio do juiz natural.
+3. O abuso do direito da parte e a interpretação lógico-sistemática do ordenamento jurídico permitem o afastamento da inteligência da Súmula n. 33 do Superior Tribunal de Justiça, em razão do interesse público e do princípio do juiz natural.
+4. A competência para julgamento e processamento da ação de liquidação individual de sentença coletiva oriunda da Ação Civil Pública n. 94.0008514-1 é o foro do local onde se encontra a agência ou sucursal em que foi celebrado o negócio jurídico nos termos do art. 53, inc. III, alínea b, do Código de Processo Civil.
+5. Agravo de instrumento desprovido.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 136/153).
+Sustenta o recorrente, em síntese, que "não há ilegalidade em propor o ajuizamento em face do Banco do Brasil dos cumprimentos provisórios de sentença ou das liquidações de sentença que sejam, relativas às Cédulas de Crédito Rural, na Justiça Comum de Brasília - DF por ser o foro da sede do Banco do Brasil" (fl. 164).
+Assim posta a questão, passo a decidir.
+No tocante à questão do foro competente, assim decidiu o Tribunal de origem (fls. 93/94):
+(..)
+As partes não têm relação com o foro escolhido no caso concreto. A pretensão está fundamentada nas cédulas de crédito rural pignoratícias n. 89/00173-7 e n. 89/00165-6, cujas contratações ocorreram em Torixoreu/MT (id 133025478 e id 133025479 dos autos originários).
+O foro competente para conhecer ações fundadas em direito pessoal ou direito real sobre bens móveis é o do domicílio do réu como regra, conforme art. 46 do Código de Processo Civil. A própria lei, todavia, pode optar por outros critérios.
+O art. 53, inc. III, alínea b, do Código de Processo Civil prevê que é competente o foro do local onde se acha agência ou sucursal, quanto às obrigações que a pessoa jurídica contraiu.
+O agravante possui agências bancárias em quase todos os municípios do país, o que permite que cada estabelecimento seja considerado domicílio para os atos nele praticados nos termos do art. 75, § 1º, do Código de Processo Civil.
+A existência de filial do agravante no local de assunção da obrigação afasta a incidência do art. 53, inc. III, alínea a, do Código de Processo Civil, que possui aplicação subsidiária em caso de comprovação da ausência da pessoa jurídica executada no local de pagamento do título.
+Ressalte-se que o crédito rural foi concedido para fomentar atividade produtiva. O mutuário, ora agravado, não figura como destinatário final da operação financeira, motivo pelo qual as disposições do Código de Defesa do Consumidor são inaplicáveis ao caso concreto.
+ 24  O foro do local da celebração do negócio jurídico, portanto, prevalece sobre a sede da pessoa jurídica agravante.
+Conclui-se que o foro do local da celebração do negócio jurídico, isto é, Torixoréu/MT, é o competente para o processamento e o julgamento da ação originária nos termos do art. 53, inc. III, alínea b, do Código de Processo Civil.
+Ante o exposto, nego provimento ao agravo de instrumento. Determino a remessa dos autos a uma das Varas Cíveis da Comarca de Torixoréu/MT.
+(..) (destaquei)
+Com efeito, observo que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que "a competência para liquidação e cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública ou do domicílio dos beneficiários ou seus sucessores. 2. Esse entendimento não legitima a promoção da liquidação do título executivo judicial coletivo em foro aleatório, sem nenhuma relação com as comarcas de domicílio dos beneficiários, ainda que se trate do foro de domicílio do substituto processual extraordinário, sob pena de afronta ao princípio do Juiz natural" (AgInt no REsp n. 1.866.563/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5.6.2023, DJe de 9.6.2023). Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA COLETIVA. COMPETÊNCIA. FORO DE DOMICÍLIO DO CONSUMIDOR OU DO LOCAL EM QUE PROFERIDA A DECISÃO NA AÇÃO COLETIVA. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento prevalente nesta Corte Superior é de que a competência para a liquidação e o cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública ou do domicílio dos beneficiários ou seus sucessores.
+2. Esse entendimento não legitima a promoção da liquidação do título executivo judicial coletivo em foro aleatório, sem nenhuma relação com as comarcas de domicílio dos beneficiários, ainda que se trate do foro de domicílio do substituto processual extraordinário, sob pena de afronta ao princípio do juiz natural (AgInt no REsp 1.866.563/AL, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 5/6/2023, DJe de 9/6/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.298.479/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 28.8.2023, DJe de 1º.9.2023.)
+Dessa forma, a competência para a liquidação e o cumprimento de sentença coletiva poderá ser do foro em que prolatada a decisão da ação civil pública, ou do domicílio dos beneficiários ou de seus sucessores.
+Em face do exposto, dou parcial provimento ao recurso especial para declarar que o foro competente para o julgamento da liquidação individual de sentença coletiva é aquele em que prolatada a decisão da ação civil pública, ou aquele do domicílio dos beneficiários ou seus sucessores.
+Intimem-se.
+EMENTA
