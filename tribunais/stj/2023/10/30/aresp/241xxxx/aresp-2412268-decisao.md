@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - ACIDENTE DENTRO DE SUPERMERCADO SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE AUTORA - PEDIDO DE MAJORAÇÃO DO QUANTUM ARBITRADO A TÍTULO DE INDENIZAÇÃO POR DANO MORAL - PARTICULARIDADES DO CASO CONCRETO - AUSÊNCIA DE GRAVIDADE DA LESÃO - VALOR ARBITRADO QUE NÃO COMPORTA ALTERAÇÃO SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Nas razões do especial, aponta a agravante existência de dissídio jurisprudencial, além de violação dos artigos 186 e 927 do Código Civil; e, 14 do Código de Defesa do Consumidor.
+Argumenta ser vítima de acidente no interior do estabelecimento da ré, que demandou tratamento de saúde.
+Requer a majoração do dano moral fixado na origem, R$ 3.000,00 (três mil reais), por considerar irrisório.
+Assim delimitada a controvérsia, passo a decidir.
+No mérito, o Tribunal de origem, à vista dos elementos fático-probatórios constantes dos autos, concluiu que não houve gravidade na lesão que justificasse a alteração dos danos extrapatrimoniais fixados na sentença. Transcrevo, a seguir, excertos do acórdão recorrido (fl. 613, e-STJ):
+Tem-se que a fixação do valor econômico da reparação por danos morais deverá levar em conta os problemas causados à vítima, bem como a capacidade econômica da parte ré, não podendo a indenização caracterizar nem enriquecimento sem causa ao autor da ação, nem se mostrar irrisório em virtude da capacidade econômica do autor do ato danoso. Por conseguinte, o valor arbitrado deve ser proporcional e adequado à gravidade do fato e à capacidade econômica do agente.
+No caso em apreço, tem-se que o acidente sofrido pela autora ocorreu dentro do estabelecimento demandado. Em síntese, um funcionário do recorrido, desatento, ao passar pelo caminho empurrando uma paleteira manual, conhecida como "burrinha de ferro", passou o citado carrinho sobre o seu pé.
+Para o que interesse, em palavras da própria apelante, o gerente (Drielle) a acompanhou ao Hospital São Lucas, onde foi atendida, com realização de exames, como raio-x (através do qual foi constatado que não houve ruptura óssea), prescreveu medicamentos e encaminhamento a médico especialista (ortopedista), o qual prescreveu 30 sessões de fisioterapia.
+Desse modo, levando em consideração as particularidades do caso concreto, sobretudo o fato de que as provas carreadas ao feito denotam a baixa gravidade da lesão sofrida, bem como os parâmetros utilizados por este Tribunal em casos análogos, entendo por manter o valor da indenização devida, pois se mostra adequado para reparar o dano moral sofrido, sem implicar enriquecimento ilícito e com a suficiente carga pedagógica à ré.
+Anoto que, no tocante ao valor indenizatório arbitrado, é entendimento pacificado no Superior Tribunal de Justiça de que o montante estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+Na hipótese, em que estipulada indenização de R$ 3.000,00 (três mil reais), penso que o montante fixado atende às circunstâncias de fato da causa, afigura-se condizente com os princípios da proporcionalidade e da razoabilidade e não constitui causa geradora de enriquecimento ilícito, motivo pelo qual não se justifica a excepcional intervenção desta Corte no presente feito (AgInt no AREsp n. 2.212.403/RJ, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 9/3/2023).
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL OBJETIVA. COMPOSIÇÃO FERROVIÁRIA. AUTOR. QUEDA. CULPA EXCLUSIVA DA VÍTIMA. RECONHECIMENTO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DANO MORAL. VALOR. REVISÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, é inviável ao Superior Tribunal de Justiça a análise da suficiência das provas e da satisfação do ônus probatório das partes em virtude do óbice da Súmula nº 7/STJ.
+3. No caso concreto, rever as premissas adotadas pelo tribunal de origem, que, a partir das circunstâncias fático-probatórias dos autos, concluiu pela ausência de culpa exclusiva da vítima no acidente, encontra o óbice da Súmula nº 7/STJ.
+4. A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não que se colham novas conclusões acerca dos elementos informativos do processo.
+5. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa e somente comporta revisão por este Tribunal Superior quando irrisória ou exorbitante, o que não ocorreu no caso dos autos, em que o valor foi estabelecido em R$ 5.000,00 (cinco mil reais).
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.829.591/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31/3/2022)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
