@@ -1,0 +1,31 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local no Agravo em Execução n. 1.0704.18.001023-0/001.
+Nas razões recursais, o Parquet estadual aponta violação do art. 111, caput e parágrafo único, da Lei n. 7.210/1984, sob o argumento de que as reprimendas de detenção e de reclusão são da mesma espécie e devem ser unificadas para fins de determinação do regime prisional na fase da execução.
+Requer o provimento do recurso, "a fim de que seja reformado o acórdão recorrido, determinando-se a soma/unificação de todas as penas privativas de liberdade (detenção e reclusão) impostas ao sentenciado, com a subsequente determinação do regime prisional adequado" (fl. 81).
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fl. 122-126).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+A Corte estadual manifestou-se sobre o tema, nos termos da seguinte ementa (fl. 55):
+EMENTA: AGRAVO EM EXECUÇÃO PENAL - UNIFICAÇÃO DAS PENAS DE RECLUSÃO E DETENÇÃO - INVIABILIDADE - REGIMES DE CUMPRIMENTO DIVERSOS - PRINCÍPIO DA LEGALIDADE - 1. Nos termos do artigo 69, "caput", e 76 do Código Penal, no caso de aplicação cumulativa de penas de reclusão e de detenção, executa-se primeiro a mais grave, primeira parte no regime fechado, e depois a outra sanção apenada com detenção. - 2. Sendo assim, em estrita observância ao princípio da legalidade, torna-se inviável se proceder ao somatório das penas de reclusão e detenção, porque seria imposto regime fechado aos crimes apenados com detenção, além do limite posto pela lei e pela decisão condenatória.
+O entendimento do Tribunal de Justiça está em desacordo com a jurisprudência desta Corte, segundo a qual, em conformidade com a interpretação do art. 111 da LEP, que orienta o processo de execução em caso de condenação por vários crimes, as reprimendas de reclusão e de detenção devem ser somadas ou unificadas para fixação do regime a ser cumprido, porquanto ambas são reprimendas da mesma espécie, privativas de liberdade.
+O art. 33, do CP, estabelece que a pena de detenção deve ser cumprida em regime semiaberto, ou aberto, "salvo necessidade de transferência a regime fechado" e o art. 76, do CP, ao dispor sobre a pena mais grave, se refere às condenações sujeitas a tratamento mais severo para fins de benefícios executórios, como as aplicadas aos delitos hediondos e a ele equiparados.
+Aplica-se ao caso o entendimento de que: "a Lei de Execuções Penais não diferencia, para efeitos de unificação, as reprimendas de detenção e reclusão, ambas penas privativas de liberdade e da mesma espécie. Prevalece a compreensão de que, por força do art. 111 da LEP, o Juiz das Execuções considerará cumulativamente todas as condenações em curso do sentenciado para determinação do regime prisional, observada, quando for o caso, a detração ou remição" (AgRg no HC n. 556.976/ES, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/8/2020, grifei).
+No mesmo sentido:
+ ..
+1. De acordo com o entendimento do Superior Tribunal de Justiça "as penas de reclusão e de detenção devem ser somadas para fins de unificação da pena, tendo em vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie"(AgRg no HC n. 473.459/SP, relator o Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 1º/3/2019).
+2. O presente recurso cuida de hipótese de unificação de penas, regida pelo art. 111 da LEP, e não de fixação de regime inicial de cumprimento das reprimendas, no caso de concurso de infrações, situação em que são aplicáveis os arts. 69 e 76 do CP.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 2.063.713/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 16/8/2023)
+ ..
+2. Na hipótese, a Corte a quo conclui que, quando estabelecidos regimes diversos para o cumprimento das reprimendas, a execução da pena de detenção deve ser suspensa até que o apenado esteja em regime prisional compatível com essa espécie de sanção. Salientou que as penas de reclusão e detenção possuem naturezas distintas, além de a legislação pátria determinar que primeiro deve ser cumprida a pena mais grave e depois a menos grave, motivo pelo qual determinou o afastamento da soma das reprimendas operada pelo Juiz da Execução Penal.
+3. O entendimento do Tribunal de origem não encontra amparo na jurisprudência desta Corte Superior, firmada no sentido de ser cabível a soma das penas de reclusão e de detenção na fase de execução penal para fim de fixação do regime prisional, pois são reprimendas da mesma espécie (privativas de liberdade), nos termos do art. 111 da Lei n. 7.210/1984 - Lei de Execução Penal.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.053.887/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe de 18/5/2023)
+Cito, no mesmo sentido, julgado do Supremo Tribunal Federal:
+ ..
+O art. 111 da Lei de Execução Penal estabelece que, em condenação por mais de um crime, para a determinação do regime de cumprimento considera-se o resultado da soma ou unificação das penas, independentemente de serem de detenção ou reclusão. 2. É firme a jurisprudência deste Supremo Tribunal Federal no sentido de que a soma ou unificação das penas em execução definem o regime prisional de seu cumprimento, podendo o resultado implicar a regressão. Precedentes. 3. Recurso ao qual se nega provimento.
+(RHC n. 118.626, Rel. Ministra Cármen Lúcia, 2ª T., DJe-236 2/12/2013)
+Logo, observado o enunciado da Súmula n. 568 do STJ, é possível a solução monocrática deste recurso especial.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", parte final, do RISTJ, dou provimento ao recurso especial, para cassar o acórdão recorrido e restabelecer a unificação das penas do recorrido, nos moldes do que foi decidido pelo Juiz da VEC.
+Publique-se e intimem-se.
+EMENTA
