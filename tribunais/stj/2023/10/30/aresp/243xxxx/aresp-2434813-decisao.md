@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÕES. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIATURA DO CORPO DE BOMBEIROS QUE INVADIU O SENTIDO OPOSTO DA VIAE COLIDIU COM O CARRO DOS AUTORES. PERDA TOTAL. DANOS MATERIAL EMORAL. AUSÊNCIA DE EXCLUDENTE DARESPONSABILIDADE OBJETIVAESTATAL. RECURSO DOS AUTORES PARCIALMENTE PROVIDO. DESPROVIMENTO DO APELO DO RÉU (fl. 451).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186, 884 e 944 do CC, no que concerne à necessidade de se reduzir o valor arbitrado a título de indenização por danos morais atribuído em favor do recorrido , com fundamento nos princípios da proporcionalidade e da razoabilidade, para se evitar o enriquecimento indevido da parte recorrida, trazendo a seguinte argumentação:
+Ocorre que a condenação impõe ao Estado valores muito altos, fazendo-se mister a redução do valor fixado na r. decisão em quantum compatível à razoabilidade já consolidada nos Tribunais, de modo a não onerar excessivamente o Erário, em detrimento de toda uma população.
+ ..
+No caso dos autos, o v. acórdão recorrido não atentou para tais circunstâncias, indo de encontro à disposição expressa do artigo 944 do Código Civil, que incorporou ao direito positivo o entendimento há algum tempo consagrado e assentado no âmbito dessa Corte Superior de Justiça.
+ ..
+Assim, objetivamente, tem-se que a decisão recorrida não levou em conta as circunstâncias do caso concreto para a fixação dos danos morais, contrariando, assim, a expressa redação do art. 944 da Lei n.º 10.406/2002 (Código Civil), segundo a qual "a indenização mede-se pela extensão do dano".
+Com efeito, verifica-se a manifesta desproporção do dano moral arbitrado em favor de Alexandre Lopes da Silva, na quantia de R$ 150.000,00 (cento e cinquenta mil reais), em comparação com o valor fixado em favor dos demais recorridos em sede de apelação.
+ ..
+Diante do exposto, não restam dúvidas acerca da flagrante violação perpetrada à legislação federal, mais precisamente ao artigo 944 do Código Civil, fazendo-se impositiva a redução do montante indenizatório arbitrado para patamares compatíveis com os princípios da proporcionalidade e da razoabilidade, evitando-se o enriquecimento indevido da parte recorrida (CC, art. 884) (fls. 496- 503).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Sobre o apelo dos autores, os autos estão satisfatoriamente aparelhados por laudo pericial (fls. 186/200). Conforme consignado pelo expert, a lesão do 4º autor (ALEXANDRE LOPES DA SILVA) gerou encurtamento de 03 centímetros na perna direita.
+Diante do quadro grave e perene, o juízo unitário fixou a verba indenizatória em R$ 150.000,00 (cento e cinquenta mil reais), patamar este que, a meu ver, deve ser mantido, pois guarda proporcionalidade com as consequências do sinistro (fl. 453, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
