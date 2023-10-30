@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 169):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. FASE DE CONHECIMENTO E FASE EXECUTIVA. ADVOGADOS DIVERSOS. SUBSTABELECIMENTO COM RESERVAS DE PODERES. CONSULTA A PEÇAS PROCESSUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, quando a parte recorrente não apresenta qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. O cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+O embargante sustenta que o acórdão contém o vício da omissão, ao argumento de que "o decisum recorrido não observou que houve sim, no juízo de origem, omissão quanto à necessária observância dos comandos estabelecidos nos arts. 23 e 24, ambos da Lei 8.906/94, e 85, § 15 e 494, ambos do CPC, os quais permitem ao advogado requerer, ante a autonomia dos honorários sucumbenciais, a expedição do requisitório de pagamento em nome do advogado e em nome da sociedade; bem como quanto ao fato de que em momento algum o juízo fazendário proferiu decisão referente à separação das verbas honorárias sucumbenciais, a não ser aquela que é objeto do agravo de instrumento. Nesse sentido, o fato dos cálculos da d. contadoria judicial ter constado erro material, não impede os exequentes de impugnarem a separação das verbas honorárias a qualquer tempo, nos termos do que dispõe o art. 494 do CPC" (fls. 178-179.
+Ainda, aduz que "deve ser sanada omissão quanto à alegada superação ao óbice da Súmula 7 do STJ, eis que restou fartamente demonstrado que a única questão posta no recurso especial se refere à ofensa aos arts. 23 e 26, ambos da Lei 8.906/94 e arts. 85, §15 e 494, ambos do CPC, no tocante a necessidade de que os honorários sucumbenciais da fase de conhecimento e da fase de cumprimento de sentença devem ser calculados separadamente e, consequentemente, objeto de requisitórios distintos, de sorte que inexiste qualquer necessidade de reexame das provas coligidas aos autos, mas apenas a correta qualificação jurídica dos fatos INCONTROVERSOS" (fl. 179).
+Por fim, requer o "conhecimento e provimento dos presentes aclaratórios, atribuindo-se efeitos infringentes, para que seja sanada a omissão acima apontada, para reformar o v. acórdão embargado no sentido de dar provimento ao agravo interno em ordem a conhecer e prover integralmente o aludido agravo em recurso especial, nos termos e limites ali postulados" (fl. 179).
+Com impugnação (fls. 188-189), em que as partes embargadas alegam não existirem vícios no acórdão recorrido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Não assiste razão à parte embargante.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, o acórdão embargado consignou que "não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF" (fl. 170).
+Por fim, quanto à alegada omissão quanto à superação do óbice da Súmula 07/STJ, aplicada quando da análise do tema da separação das verbas honorárias da fase do cumprimento de sentença e da fase de conhecimento, a fim de que cada uma seja devidamente paga ao seu respectivo credor/causídico, concluiu a Turma julgadora que a análise envolveria o cotejo de peças processuais e que, por isso, não haveria análise jurídica, mas puramente fática, sendo essa análise inviável em sede de recurso especial. Assim, assentou que "a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, envolvendo a necessidade de consulta a documentos acostados ao processo, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ" (fl. 171).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
