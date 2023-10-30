@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO - AÇÃO DE COBRANÇA - DOCUMENTO NOVO - NÃO APRECIAÇÃO - ÔNUS DA PROVA. A oportunidade para a juntada de documento é com a inicial e com a contestação, exceto quando se trata de documento novo, que não é a hipótese dos autos, não há como se examinar documentos juntados a destempo. Cabe ao autor a prova dos fatos constitutivos do seu direito, a teor do que preceitua o art. 333, I, do CPC.
+Nas razões de recurso especial, alega a parte recorrente violação dos arts. 397 e 398 do Código de Processo Civil de 1973. Defende a possibilidade de juntar-se documento probatório na réplica à contestação.
+Em contrarrazões, a recorrida afirma que, em primeiro grau, a recorrente não logrou provar o alegado. Entende que o recurso especial veicula pretensão de reexame de prova e enseja a aplicação da Súmula 7/STJ.
+Assim posta a questão, verifico que o acórdão recorrido diverge da jurisprudência do Superior Tribunal de Justiça, que admite a juntada de documentos novos após a petição inicial, desde que não esteja caracterizada a má-fé e seja preservado o contraditório. Confiram-se, por exemplo, os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE COBRANÇA. JUNTADA POSTERIOR DE DOCUMENTOS. REGRA DO ARTIGO 396 DO CPC/1973. MITIGAÇÃO. PRECEDENTES.
+1. A jurisprudência desta Corte admite a relativização da regra do artigo 396 do Código de Processo Civil de 1973, predominando o entendimento de que, inexistindo má-fé ou intenção de surpreender o juízo, é possível a juntada de documentos aos autos a qualquer tempo, desde que não sejam aqueles indispensáveis para a propositura da ação e que tenha sido respeitado o contraditório.
+2. Agravo interno não provido. (AgInt no REsp 1608723/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/11/2016, DJe 25/11/2016)
+AGRAVO INTERNO. RECURSO ESPECIAL. REVISIONAL. ARRENDAMENTO MERCANTIL. DEVOLUÇÃO DE VALOR PAGO. VALOR RESIDUAL GARANTIDO (VRG). DOCUMENTO. APRESENTAÇÃO (JUNTADA) EM APELAÇÃO. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE PREJUÍZO. REEXAME DE MATÉRIA FÁTICA.
+1. É possível a juntada de documento com a apelação, desde que ausente má-fé e respeitado o contraditório. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.779.371/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 8/2/2021, DJe de 11/2/2021.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUNTADA DE DOCUMENTO EM AUDIÊNCIA DE INSTRUÇÃO. POSSIBILIDADE, DESDE QUE OBSERVADO O CONTRADITÓRIO E INEXISTENTE MÁ-FÉ. PRECEDENTES.
+1. A regra do art. 397 do CPC não obsta a juntada extemporânea de documento cuja finalidade seja, exclusivamente, o fortalecimento da tese de defesa adotada pela parte, caracterizando mero parecer.
+2. É firme a jurisprudência desta Corte Superior no sentido de admitir a juntada de documentos após o momento processual oportuno, desde que observado o contraditório e inexistente a má-fé da parte que a requereu.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.440.037/RN, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 9/9/2014, DJe de 18/9/2014.)
+No caso concreto, JD PINTART UBERABA LTDA - ME - recorrente - ajuizou ação de cobrança em face de EGESA ENGENHARIA S. A. - recorrida. Alegou ter celebrado contrato em que se obrigou a entregar adesivos e placas informativas; adimplida sua prestação, a recorrida não teria efetuado o pagamento. Em contestação, a recorrida afirmou que só foram apresentados orçamentos, mas não teria sido demonstrada a contratação. O Tribunal de origem observou que a troca de mensagens eletrônicas entre as partes não foi referida na petição inicial, razão pela qual a juntada de e-mails na impugnação à contestação seria inoportuna, pois ocorrida a preclusão.
+Ocorre que, segundo se infere da leitura da petição inicial (e-STJ, fls. 1/9) e da contestação (e-STJ, fls. 65/69), é razoável entender-se que a alegação foi feita em réplica à contestação em virtude das afirmações contidas na resposta do réu, que negou a existência da contratação.
+A juntada posterior dos referidos documentos, portanto, não configura má-fé, porquanto visam a rebater o que foi dito em contestação, sem que se possa dizer que as mensagens de e-mail deveriam ter sido juntadas ou ao menos referidas na petição inicial. Veja-se que a recorrente, autora, expôs o seguinte (fl. 3):
+(..) o Autor expediu os boletos para pagamentos e as respectivas notas fiscais (documentos em anexo), sendo que até o momento o Réu não cumprira com sua obrigação. Impede destacar, que todos os boletos para pagamentos, emitidos em 18 de junho de 2012, eram vencíveis no dia 08 de julho de 2012 (mais de um ano de inadimplência!) e perfaziam a quantia total de R$ 13.705,00 (treze mil setecentos e cinco reais).
+Desta forma, diante da recusa ao pagamento pelo serviço prestado, o Autor propõe a presente buscando a satisfação dó seu crédito.
+O Réu não cumprira, na forma e no tempo devido, com a obrigação que lhe competia, segundo o pactuado, desrespeitando os princípios da boa-fé e da pontualidade, aplicáveis aos cumprimentos das obrigações, bemcomo ao descrito no artigo 315, do Código Civil:
+(..)
+Contudo, embora os boletos (documentos em anexo) foram entregues em tempo hábil, com a devida discriminação dos valores pelos serviços prestados, e o dia de vencimento da dívida, o Réu não adimpliu sua obrigação, nem mesmo se deu ao cuidado de apresentar justificativa pelo não pagamento.
+Em princípio, está suficientemente descrita a causa de pedir, não havendo que se falar em necessidade de descrever troca de e-mails, nem de juntar as respectivas mensagens eletrônicas já na petição inicial.
+A recorrida, a seu turno, alegou o seguinte (fl. 66):
+A Autora também não apresentou qualquer tipo de contrato escrito de prestação de serviço ou fez menção a acordo verbal, citando o nome de algum representante legal da empresa-Ré com quem tenha feito esse contato para a Prestação de serviço sustentado e ora cobrado.
+E, embora tenha apresentado quatro orçamentos, qualquer deles tem o aceite da empresa-Ré, autorizando o serviço de confecção de adesivos e placas informativas e direcionais.
+Negou, portanto, que a pessoa jurídica apontada como devedora tenha feito contato com algum representante da pessoa jurídica que se apresenta como credora. Trata-se de alegação que enseja a alegação em réplica de que foram feitos os contatos mediante mensagem eletrônica, bem como justifica a juntada dos respectivos elementos de prova, o que não precisava de ser feito na petição inicial, pois não era exigível do autor que antecipasse essa específica argumentação do réu.
+Nesse contexto, deve ser considerada válida a apresentação de documentos na réplica à contestação.
+Desse modo, deve ser apreciada a prova juntada em réplica, competindo à Corte de origem analisá-la e sopesá-la com os demais elementos de prova dos autos, sem prejuízo de outras cuja produção o Tribunal entenda ser oportuno determinar, a fim de lhe atribuir o valor que entenda devido e de se pronunciar sobre o mérito.
+Em face do exposto, dou provimento ao recurso especial para determinar o retorno dos autos, a fim de que o Tribunal de origem prossiga no julgamento da apelação.
+Intimem-se.
+EMENTA
