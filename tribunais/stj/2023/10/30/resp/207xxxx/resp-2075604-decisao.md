@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da CF, contra acórdão assim ementado:
+Roubo majorado pelo concurso de agentes e restrição de liberdade das vítimas - Sentença procedente - Absolvição - Impossibilidade - Vítimas e testemunhas que confirmam a responsabilidade criminal do réu pelos crimes que lhe foram imputados - Dosimetria - Pena-base fixada em atenção aos maus antecedentes do réu e circunstâncias do delito Reincidência bem configurada - Pandemia afastada, porquanto ausente comprovação do nexo causal entre a calamidade pública e as práticas delitivas - Causas de aumento bem configuradas devido o relato das vítimas, confirmando ter sido o roubo cometido por três indivíduos e que elas permaneceram subjugadas por algum tempo - Acréscimo da pena que, nos termos do entendimento da Superior Instância, deve ser na fração mínima dada a inexistência de situação excepcional - Regime fechado necessário ante a gravidade concreta do crime - Recurso parcialmente provido.
+O recorrente foi condenado como incurso no art. 157, § 2º, II e V, do Código Penal, por três vezes em concurso formal, às pena de 10 anos, 10 meses e 28 dias de reclusão, em regime inicial fechado, e 23 dias-multa.
+Interposta a apelação pela defesa, foi provida para reduzir a pena para 9 anos e 26 dias de reclusão e 20 dias-multa.
+Sustenta a defesa violação do art. 70 do Código Penal pois que se tratando de três vítimas, a pena deveria ter sido aumentada na fração de 1/5, nos termos da jurisprudência do STJ ali colacionada.
+Requer o conhecimento e provimento do recurso.
+Apresentadas contrarrazões, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Quanto à dosimetria, o acórdão recorrido, ratificando os termos da sentença na questão, está assim fundamentado (fl. 265):
+No mais, reconhecido o concurso formal de crimes, consoante dispõe o artigo 70, "caput", do Código Penal, aplico uma das penas, aumentada na fração de  (tendo em vista a existência de três crimes), tornando a reprimenda imposta a Lucas definitiva em 9 anos e 26 dias de reclusão e 20 dias-multa, estes no valor unitário mínimo.
+Não obstante, o entendimento do Tribunal de origem destoa da jurisprudência do STJ posta no sentido de que "em se tratando de aumento de pena referente ao concurso formal de crimes, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4, para 4 infrações; 1/3, para 5 infrações; 1/2, para 6 infrações; e 2/3, para 7 ou mais infrações" (HC n. 395.869/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 9/5/2017, DJe de 15/5/2017). No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO. CORRUPÇÃO DE MENORES. RECONHECIMENTO DE CONCURSO FORMAL. DOIS DELITOS. FRAÇÃO ADEQUADA: 1/6 (UM SEXTO). PRECEDENTES. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, todos os fundamentos da decisão que não admitiu o apelo nobre na origem, sendo aplicável a Súmula n. 182/STJ.
+2. Verificada, no tocante à dosimetria do delito de corrupção de menores, a existência de ilegalidade patente, apta a ser corrigida por meio da concessão de Habeas Corpus, de ofício.
+3. In casu, houve a participação de 2 menores na empreitada criminosa e as instâncias ordinárias plicaram a fração de 1/2 (metade) pelo reconhecimento do concurso formal, mas, " n os termos da jurisprudência deste Superior Tribunal de Justiça, o aumento decorrente do concurso formal tem como parâmetro o número de delitos perpetrados, dentro do intervalo legal de 1/6 a 1/2. Nesses termos, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações e 1/2 para 6 ou mais infrações". (HC 603.600/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020.)
+4. Agravo regimental desprovido. Concedido habeas corpus, de ofício, a fim de, no tocante ao delito de corrupção de menores, reduzir a 1/6 (um sexto) o quantum de exasperação pelo concurso formal e redimensionar a sanção a 1 ano e 2 meses de reclusão. (AgRg no AREsp n. 2.002.327/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+Em assim sendo, tendo em vista a prática de 03 (três) crimes, a fração a incidir para o concurso formal é de 1/5.
+Passo à dosimetria da pena.
+A pena restou fixada na instância de origem em 7 anos, 3 meses e 3 dias de reclusão, além de 16 dias-multa. Com a utilização da fração de 1/5 para o concurso formal, a pena resta então fixada em 8 anos, 8 meses e 15 dias de reclusão, além de 19 dias-multa. Mantidos os demais termos da condenação.
+Ante o ex posto, dou provimento ao recurso especial para fixar a pena definitiva do recorrente em 8 anos, 8 meses e 15 dias de reclusão, além de 19 dias-multa.
+Publique-se.
+Intimem-se.
+EMENTA
