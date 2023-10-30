@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial manifestado por Izete Maria Batistella Passaia e outros, no qual se alega violação do art. 833 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 51):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO DE SENTENÇA - DECISÃO QUE INDEFERE PLEITO DE PENHORA SOBRE PERCENTUAL DOS RENDIMENTOS DA PARTE EXECUTADA - INSURGÊNCIA DO CREDOR. POSSIBILIDADE DE PENHORA PARCIAL NO CASO CONCRETO. PRECEDENTES DESTE EGRÉGIO TRIBUNAL E DO COLENDO STJ - DECISÃO PARCIALMENTE REFORMADA.
+1. "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (STJ - EREsp nº 1.582.475/MG - Rel. Min. Benedito Gonçalves - Corte Especial - DJe 16-10-2018).
+2. Recurso conhecido e parcialmente provido.
+Sustentam os recorrentes que a regra da impenhorabilidade de salários e proventos somente pode ser excepcionada na hipótese de os proventos superarem 50 (cinquenta) salários mínimos.
+Afirmam que deve ser reconhecida a impenhorabilidade absoluta dos proventos de aposentadoria dos recorrentes.
+Assim posta a questão, passo a decidir.
+Inicialmente, destaco que a jurisprudência do STJ admite a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família. Tal relativização se reveste de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares. Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. PERCENTUAL DE VERBA SALARIAL. IMPENHORABILIDADE (ART. 833, IV e § 2º, CPC/2015). RELATIVIZAÇÃO. POSSIBILIDADE. CARÁTER EXCEPCIONAL.
+1. O CPC de 2015 trata a impenhorabilidade como relativa, podendo ser mitigada à luz de um julgamento principio lógico, mediante a ponderação dos princípios da menor onerosidade para o devedor e da efetividade da execução para o credor, ambos informados pela dignidade da pessoa humana.
+2. Admite-se a relativização da regra da impenhorabilidade das verbas de natureza salarial, independentemente da natureza da dívida a ser paga e do valor recebido pelo devedor, condicionada, apenas, a que a medida constritiva não comprometa a subsistência digna do devedor e de sua família.
+3. Essa relativização reveste-se de caráter excepcional e só deve ser feita quando restarem inviabilizados outros meios executórios que possam garantir a efetividade da execução e desde que avaliado concretamente o impacto da constrição na subsistência digna do devedor e de seus familiares.
+4. Ao permitir, como regra geral, a mitigação da impenhorabilidade quando o devedor receber valores que excedam a 50 salários mínimos, o § 2º do art. 833 do CPC não proíbe que haja ponderação da regra nas hipóteses de não excederem (EDcl nos EREsp n. 1.518.169/DF, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 24.5.2019).
+5. Embargos de divergência conhecidos e providos.
+(EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19.4.2023, DJe de 24.5.2023.)
+No caso dos autos, a Corte de origem expressamente consignou que não ficou comprovado que a subsistência da recorrente Izete Maria Batistella Passaia ficará prejudicada com a penhora, bem como que não há provas de que ela é responsável pelo sustento de familiares, motivo pelo qual determinou a penhora de 15% (quinze por cento) da renda mensal proveniente da Previdência Social e da BRF Previdência auferida pela recorrente, conforme se extrai dos seguintes trechos (fls. 53/56):
+(..)
+Efetivamente, traz o inciso IV, do art. 833, do CPC, que são absolutamente impenhoráveis "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º".
+Tal se fundamenta no art. 7º, X, da CRFB, o qual dá proteção ao salário, tendo em conta a necessidade de se preservar o mínimo existencial e a subsistência do executado.
+Contudo, a proteção em comento não pode servir para frustrar a execução
+(..)
+Igualmente, este egrégio Tribunal de Justiça vem entendendo pela mitigação da regra da impenhorabilidade, principalmente quando comprovado que a constrição não causará prejuízo à sobrevivência do devedor.
+(..)
+In casu, da análise da cópia da Declaração de Imposto de Renda juntada aos autos originários no mov. 269.6, denota-se que a parte agravada, IZETE MARIA BATISTELLA PASSAIA, recebeu da Previdência Social o valor de R$ 38.071,40 (trinta e oito mil, setenta e um reais e quarenta centavos) e da BRF Previdência a quantia de R$ 79.204,00 (setenta e nove mil, duzentos e quatro reais), referente ao exercício 2022 e ano calendário 2021.
+Outrossim, verifica-se que não restou comprovado nos autos originários que a subsistência da parte agravada restará prejudicada com a penhora, bem como não há provas de que é responsável pelo sustento de familiares, visto que, embora devidamente intimada, restou silente, não nomeando bens à penhora e sequer apresentando proposta de pagamento do débito.
+Da mesma forma, em sede de contrarrazões, em nenhum momento alegou que a penhora poderia prejudicar a sua subsistência digna e de sua família, defendendo tão somente a impenhorabilidade da verba alimentar.
+Entretanto, entendo que a penhora de 30% (trinta por cento) do salário da parte agravada poderá prejudicar o seu sustento e as suas necessidades básicas, motivo pelo qual deve ser fixada em 15% (quinze por cento).
+Destarte, com base nos princípios da efetividade e da razoabilidade, especialmente, tendo em conta que a regra geral de impenhorabilidade pode ser mitigada no caso em estudo, posto que, os rendimentos percebidos pela parte executada são suficientes para resguardar a sua dignidade e o mínimo existencial, mister é dar parcial provimento ao agravo de instrumento.
+Portanto, o voto é pelo conhecimento e parcial provimento do recurso, a fim de arbitrar a penhora de 15% (quinze por cento) da renda mensal proveniente da Previdência Social e da BRF Previdência auferida pela parte agravada, consoante fundamentação supra.
+(..) (grifos nossos)
+Com efeito, observo que rever tais conclusões da Corte local demandaria o reexame do acervo fático dos autos, situação vedada pelo óbice da Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
