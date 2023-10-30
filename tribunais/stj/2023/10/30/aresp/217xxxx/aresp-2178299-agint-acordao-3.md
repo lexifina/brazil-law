@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. De acordo com a jurisprudência desta Corte, não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto sob fundamentos diversos dos apresentados pela parte, não se vislumbrando, portanto, a alegada violação aos artigos 141 e 492 do CPC/15.
+1.1. Observa-se que o Tribunal de origem se restringiu aos pedidos revisionais das apelações de fls. 698-713 e 730-772, e-STJ, sobretudo quanto ao pleito de afastamento dos lucros cessantes à fl. 709, e-STJ, razão pela qual não há se falar em decisão dissociada ou além do pedido, como pretende o ora insurgente.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por ARTHUR MAIA VIEIRA BRAGANCA, contra decisão monocrática de fls. 1.846-1.853, e-STJ, da lavra deste signatário, que negou provimento ao recurso especial da ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 1.025-1.026, e-STJ):
+APELAÇÕES CÍVEIS. RELAÇÃO DE CONSUMO. RESPONSABILIDADE CIVIL HOSPITAL E PLANO DE SAÚDE. ERRO MÉDICO. TRABALHO DE PARTO. LESÃO CAUSADA A RECÉM-NASCIDO. PRETENSÃO DE RECEBIMENTO DE INDENIZAÇÃO POR DANOS EMERGENTES; LUCROS CESSANTES OU PENSIONAMENTO VITALÍCIO; DANOS MORAIS E ESTÉTICOS. RECURSOS MANEJADOS CONTRA SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO, PARA CONDENAR AS RÉS, SOLIDARIAMENTE: (A) AO PAGAMENTO DE INDENIZAÇÃO AO AUTOR PELOS PREJUÍZOS MATERIAIS COMPROVADOS NOSAUTOS, EM VALOR ASER APURADO EM POSTERIOR FASE DE LIQUIDAÇÃO DE SENTENÇA, (B) AOPAGAMENTO AO AUTOR,A TÍTULO DE LUCROS CESSANTES,A QUANTIA DE R$848.964,00 (OITOCENTOS E QUARENTA E OITO MIL, NOVECENTOS E SESSENTA E QUATRO REAIS), COM JUROS DE 1% (UM POR CENTO) AO MÊS E CORREÇÃO MONETÁRIA, CONTADOS A PARTIR DA DATA DA CITAÇÃO; (C) AOPAGAMENTOAO AUTOR, PELOS DANOS MORAIS,DA QUANTIA DE R$300.000,00 (TREZENTOS MIL REAIS), COM JUROS DE 1% (UM POR CENTO) AO MÊS E CORREÇÃO MONETÁRIA, CONTADOS A PARTIR DA DATA DA SENTENÇA. RECURSO DA PRIMEIRA RÉ, PRETENDENDO O RECONHECIMENTO DE SUA ILEGITIMIDADEPASSIVA E, SE APRECIADO O MÉRITO, A IMPROCEDÊNCIA DO PEDIDOAUTORAL,COM O AFASTAMENTO DA CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR LUCROS CESSANTESEDANOS MORAIS OU, AO MENOS, A REDUÇÃO DO QUANTUMINDENIZATÓRIO. RECURSO DA SEGUNDA RÉ,PELA ANULAÇÃO DA SENTENÇAPOR CERCEAMENTO AO SEU DIREITO DE DEFESA, A FIM DE QUE SEJA PRODUZIDA A PROVA PERICIAL POR ELA REQUERIDA,DADA A IMPRESTABILIDADE DA PROVA EMPRESTADA. E,PELO PRINCÍPIO DA EVENTUALIDADE, SE APRECIADO O MÉRITO, O AFASTAMENTODA CONDENAÇÃOAO PAGAMENTO DE LUCROS CESSANTES E A REDUÇÃO DO QUANTUM INDENIZATÓRIO FIXADO ATÍTULO DEDANOS MORAIS. RECURSOS QUE MERECEM PROSPERAR EM PARTE.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 1.190-1.213, e-STJ).
+Nas razões de recurso especial (fls. 1.255-1.272, e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) os arts. 141 e 492 do CPC/15, ante o julgamento extra-petita; (ii) arts. 949, 950 e 951 do CC, sustentando a impossibilidade de parcelamento do valor; (iii) art. 944 do CPC/15, argumentando, em síntese, que o valor arbitrado se mostra ínfimo.
+Contrarrazões às fls. 1.456-1.493, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo aplicação do óbice da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 1.587-1.594, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Em decisão monocrática, este relator negou provimento ao reclamo ante a incidência das Súmulas 7 e 83 do STJ.
+No presente agravo interno (fls. 1.876-1.889, e-STJ), a parte agravante reitera as alegações atinentes ao julgamento extra-petita.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. De acordo com a jurisprudência desta Corte, não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto sob fundamentos diversos dos apresentados pela parte, não se vislumbrando, portanto, a alegada violação aos artigos 141 e 492 do CPC/15.
+1.1. Observa-se que o Tribunal de origem se restringiu aos pedidos revisionais das apelações de fls. 698-713 e 730-772, e-STJ, sobretudo quanto ao pleito de afastamento dos lucros cessantes à fl. 709, e-STJ, razão pela qual não há se falar em decisão dissociada ou além do pedido, como pretende o ora insurgente.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+De início, ressalta-se que a irresignação recursal do ora agravante se restringe à existência de julgamento extra-petita, deixando de recorrer no tocante aos demais tópicos de seu apelo extremo - valor dos danos morais e parcela única da pensão mensal - o que atrai a incidência da preclusão consumativa aos temas.
+1. Conforme pontuado no bojo da decisão recorrida, o insurgente aponta violação aos artigos 141 e 492 do CPC/15, por entender que houve julgamento extra petita, visto que o órgão julgador excedeu aos limites do pedido ao afastar os lucros cessantes e condenar ao pagamento de pensionamento, o qual não foi pleiteado.
+Transcreve-se, neste ponto, trechos do acórdão (fls. 731-733, e-STJ):
+Quanto ao afastamento da condenação ao pagamento e lucros cessantes e condenação ao pagamento de pensionamento, repisa-se que o plano de saúde, nas razões de seu apelo, não só requereu o afastamento da condenação ao pagamento dos lucros cessantes, como a improcedência do pedido de qualquer dano material. Acerca do tema, vale destacar que, no caso em exame, não se trata de pensionamento em favor de genitores de família de baixa renda, que perderam a chance de contribuição econômica se seu filho, eis que o autor é recém-nascido.
+Observa-se que o Tribunal de origem se restringiu aos pedidos revisionais das apelações de fls. 698-713 e 730-772, e-STJ, sobretudo quanto ao pleito de afastamento dos lucros cessantes à fl. 709, e-STJ, razão pela qual não há se falar em decisão dissociada ou além do pedido, como pretende o ora insurgente.
+De acordo com a jurisprudência desta Corte, não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto sob fundamentos diversos dos apresentados pela parte, não se vislumbrando, portanto, a alegada violação aos artigos 141 e 492 do CPC/15.
+Nesse sentido, confira-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE COBRANÇA DE SEGURO. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. COBERTURA SECURITÁRIA. GARANTIA CONTRATUAL DE INVALIDEZ FUNCIONAL PERMANENTE POR DOENÇA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+2. Não configura julgamento extra petita a hipótese em que a decisão é exarada nos limites do pedido formulado pela parte. Ademais, o pedido deve ser interpretado lógica e sistematicamente, cabendo ao magistrado proceder à análise ampla e detida da relação jurídica posta nos autos.
+ ..
+6. Agravo interno provido para conhecer e negar provimento ao recurso especial.
+(AgInt no AREsp 1441669/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/08/2019, DJe 12/09/2019)  grifou-se
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE INCAPACITANTE. PEDIDO DE LUCROS CESSANTES. CONCESSÃO DE PENSÃO MENSAL VITALÍCIA. JULGAMENTO ULTRA PETITA NÃO CARACTERIZADO. AÇÃO RESCISÓRIA IMPROCEDENTE. 1. Não configura julgamento ultra petita ou extra petita o provimento jurisdicional inserido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial e não apenas de sua parte final. 2. Impossível cogitar, assim, de ação rescisória contra sentença que julgou a causa com base em uma interpretação sistemática do pedido ao argumento de que estaria caracterizado julgamento ultra petita. 3. Agravo regimental não provido. (AgRg no REsp 1548506/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)  grifou-se
+No caso dos autos, portanto, não se vislumbra a alegada vulneração à legislação federal, tendo em vista que, conforme asseverado pelo Tribunal de origem, em sede de aclaratórios, não houve julgamento extra-petita pelo Órgão julgador.
+Incide, portanto, o teor da Súmula 83/STJ à hipótese, pois o acórdão recorrido encontra amparo na jurisprudência desta Corte.
+2. Do exposto, nega-se provimento ao agravo interno interposto por ARTHUR MAIA VIEIRA BRAGANÇA.
+É como voto.
