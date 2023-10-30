@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. HONORÁRIOS DE ADVOGADO. MAJORAÇÃO. SUCUMBÊNCIA RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória, vícios inocorrentes no julgado.
+2. " ..  no caso de eventual omissão quanto ao arbitramento de honorários advocatícios recursais (CPC/2015, art. 85, § 11), não é suficiente a elaboração do pedido em contrarrazões ao agravo interno interposto pela parte contrária, sob pena de preclusão consumativa" (EDcl no AgInt no AREsp n. 1.701.404/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 19/6/2023.)
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por VALERIA CRISTINA PRESTES DE ALMEIDA contra acórdão, de minha relatoria, assim ementado:
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. INTERRUPÇÃO DA PRESCRIÇÃO. OCORRÊNCIA. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR.1. "O ajuizamento de ação de execução coletiva pelo legitimado extraordinário interrompe a contagem do prazo prescricional, não havendo que se falar em inércia dos credores individuais" (AgInt no AREsp n. 2.207.275/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/3/2023).2. Agravo interno não provido.
+Sustenta a parte embargante que
+em razão da improcedência do Agravo Interno por votação unânime, entende-se que o Acórdão fora omisso com relação à aplicação da multa prevista no artigo 1.021, §4º do CPC e artigo 259, §4º do RISTJ, multa essa que já havia sido requisitada sua aplicação pela Impugnação de fls. 139-148.
+Sem manifestação da parte ex adversa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. HONORÁRIOS DE ADVOGADO. MAJORAÇÃO. SUCUMBÊNCIA RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória, vícios inocorrentes no julgado.
+2. " ..  no caso de eventual omissão quanto ao arbitramento de honorários advocatícios recursais (CPC/2015, art. 85, § 11), não é suficiente a elaboração do pedido em contrarrazões ao agravo interno interposto pela parte contrária, sob pena de preclusão consumativa" (EDcl no AgInt no AREsp n. 1.701.404/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 19/6/2023.)
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração prestam-se a garantir de forma plena o direito que tem o jurisdicionado a ver seus conflitos (lato sensu) apreciados pelo Poder Judiciário, direito que somente pode ser realmente satisfeito quando efetivamente garantida ao jurisdicionado a prestação jurisdicional feita por meio de decisões claras, completas, e coerentes (cf. ARRUDA ALVIM, Teresa. Embargos de Declaração  livro eletrônico : como se motiva uma decisão judicial. 3. ed. São Paulo: Revista dos Tribunais, 2018). Constituem um poderoso instrumento de colaboração no processo, permitindo um juízo plural, aberto e ponderado a partir de um diálogo que visa a um efetivo aperfeiçoamento da tutela jurisdicional (cf. MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz, MITIDIERO, Daniel. Código de Processo Civil Comentado  livro eletrônico . 4. ed. rev., atual e ampl. São Paulo: Thomson Reuters Brasil, 2018).
+Os embargos de declaração são recurso de fundamentação vinculada. Seu cabimento fica adstrito à alegação específica de errores in procedendo. Ou seja, para que o recurso seja cabível, exige-se algo mais, exatamente o vício ou defeito específico (cf. FLÁVIO CHEIM, Jorge. Teoria Geral dos Recursos Cíveis  livro eletrônico . 3. ed. São Paulo: Revista dos Tribunais, 2017). Ocorre o error in procedendo (vício de atividade) quando o órgão judicante não observa as normas processuais que regulam as formas e modo de construção da decisão. De modo diverso, ocorre error in judicando (vício de juízo) quando o órgão julgador erra no conteúdo da decisão, se manifestando de modo dissonante das provas dos autos, ou valorando erroneamente, à luz do direito, os fatos considerados provados (cf. MEDINA, José Miguel Garcia. Curso de Direito Processual Civil Moderno  livro eletrônico . 4 ed. São Paulo: Revista dos Tribunais, 2018).
+Cabem embargos de declaração contra qualquer decisão judicial para: I - esclarecer obscuridade ou eliminar contradição; II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; III - corrigir erro material (Art. 1.022 do CPC/2015).
+Decisão obscura é a decisão a que falta clareza concernente à redação da decisão, comprometendo a adequada compreensão da ideia exposta na decisão judicial. A decisão é contraditória quando encerra duas ou mais proposições ou dois ou mais enunciados inconciliáveis dentro de si. É omissa a decisão quando a apreciação do órgão jurisdicional dos fundamentos levantados pelas partes em seus arrazoados não é completa (cf. MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz, MITIDIERO, Daniel. Código de Processo Civil Comentado  livro eletrônico . 4. ed. rev., atual e ampl. São Paulo: Thomson Reuters Brasil, 2018).
+A análise das razões recursais revela a pretensão da parte que esta Segunda Turma se manifeste sobre vício que não foi arguido no momento oportuno, o que é impróprio.
+De comum sabença,
+no caso de eventual omissão quanto ao arbitramento de honorários advocatícios recursais (CPC/2015, art. 85, § 11), não é suficiente a elaboração do pedido em contrarrazões ao agravo interno interposto pela parte contrária, sob pena de preclusão consumativa (EDcl no AgInt no AREsp n. 1.701.404/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 19/6/2023.)
+Ausente quaisquer das hipóteses legais, devem ser rejeitados os aclaratórios, sob pena de se reabrir a possibilidade de nova discussão da matéria de mérito já encartada nos autos e decidida.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
