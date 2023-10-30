@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo, interposto por MARCIAL DOMINGUEZ SUAREZ, em face de decisão que negou seguimento a recurso especial.
+O apelo extremo, a seu turno, fundamentado no art. 105, III, "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Cumprimento de sentença. Arbitramento de aluguel cc extinção de condomínio. Irresignação contra a decisão que homologou avaliação pericial que considerou o galpão erigido sobre o lote avaliando e também sobre os confinantes laterais e de fundos. Benfeitoria utilizada e que sedia à empresa COAÇO que não pode ser desprezada. O laudo não considerou a área total, mas somente a construída nos limites do terreno (487,62 m ) descrito na matrícula. O fato de a "benfeitoria" (galpão) não ter sido construída pelo exequente e não constar da matrícula do imóvel não serve de justificativa apta a embasar a pretensão do recorrente, em sede de cumprimento de sentença, a fim de se furtar da condenação a ele imposta. Precedentes citados deste E. Tribunal. Não provimento.
+Em suas razões de recurso especial, a parte recorrente aponta que "houve uma clara VIOLAÇÃO ao que está determinado no § 2º do artigo 473 do CPC, vez que este determina que o perito NÃO PODE ultrapassar os limites de sua designação".
+Em juízo de admissibilidade, inadmitiu-se o recurso especial, razão pela qual foi manejado o agravo de fls. 142/151, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, quanto à validade da perícia realizada, restou consignado no acórdão recorrido:
+Não há se falar em nova avaliação do imóvel onde encontra-se estabelecida a empresa COAÇO1, vez que o galpão erigido sobre o lote avaliando (nº468) e também sobre os confinantes laterais (nº 464 e nº 470) e de fundos (Rua Lucas Fortunato nº 47), constitui benfeitoria utilizada e que sedia à empresa não podendo ser desprezado para a apuração do valor da locação. Ademais, no laudo não foi considerada a área total, mas somente a construída nos limites do terreno (487,62 m ) descrito na matrícula (fls. 159). O fato de a "benfeitoria" (galpão) não ter sido construída pelo exequente e não constar da matrícula do imóvel não serve de justificativa apta a embasar a pretensão do recorrente, em sede de cumprimento de sentença, a fim de se furtar da condenação a ele imposta. Nesse sentido: Agravo de Instrumento 2265840-41.2020.8.26.0000;Rel. Luiz Antonio Costa; j. 05/04/2021;Agravode Instrumento2044334-90.2020.8.26.0000; Rel. Angela Lopes; j. 09/10/2020; Agravo de Instrumento2198687-25.2019.8.26.0000; Rel. Piva Rodrigues; j. 30/01/2020. Portanto, considerando que a regularidade ou não da construção no terreno não afasta a condenação imposta e que o valor apurado pelo perito está correto vez que se valeu de método (método evolutivo e o da renda para obtenção do valor locativo) usualmente utilizado, deve ser garantido o cumprimento do título executivo em seus exatos termos.
+Logo, rever as conclusões das instâncias ordinárias demandaria, necessariamente, a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Veja-se nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO HOSTILIZADO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.. A falta de impugnação objetiva e direta aos fundamentos do acórdão recorrido, denota a deficiência da fundamentação recursal que apegou-se a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2. A análise da pretensão recursal, a fim de se examinar a validade da perícia realizada, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+3. Inviável o conhecimento do recurso pela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano depender do revolvimento de matéria fático probatória.
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp n. 569.414/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 2/10/2014, DJe de 16/10/2014.)
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço do agravo para, de plano, negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
