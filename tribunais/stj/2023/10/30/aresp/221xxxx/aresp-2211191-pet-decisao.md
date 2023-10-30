@@ -1,0 +1,18 @@
+DECISÃO
+Por meio da petição de fls. 665-668, a contribuinte FADALEAL SUPERMERCADOS LTDA. manifesta desistência parcial ao recurso especial, nos seguintes termos :
+O Tribunal de origem afastou a incidência de IRPJ e CSLL sobre os juros na recuperação de tributos e no levantamento de depósitos judiciais, mas entendeu pela incidência do PIS e da COFINS sobre os mesmos juros.
+ ..
+Oportuno esclarecer que o STF, em sede de Repercussão Geral, já pacificou o entendimento de que é permitido desistir a qualquer momento do mandado de segurança, independentemente da manifestação da autoridade coatora.
+Ante o exposto, requer dignem-se V. Exas. a:
+1. Homologar, sem resolução do mérito, o pedido de desistência parcial deste Mandado de Segurança, nos termos do art. 485, VIII, do CPC, exclusivamente na parte que diz respeito à incidência do (i) PIS e da COFINS sobre os juros moratórios recebidos na recuperação de tributos e depósitos judiciais; (ii) IRPJ e CSLL sobre os juros decorrentes do levantamento de depósitos judiciais, de modo que a demanda prosseguirá apenas com relação à incidência do IRPJ e da CSLL sobre os juros de mora incidentes na repetição de indébito tributário;
+2. Reconhecer a perda de objeto do presente Recurso Especial, que versa exclusivamente sobre o PIS e a COFINS sobre os juros recebidos na recuperação de tributos (matéria da qual se desiste nesta ocasião);
+3. Julgar prejudicado o Recurso Extraordinário da União Federal, que versa exclusivamente sobre o IRPJ e CSLL sobre os juros decorrentes do levantamento dos depósitos judiciais, determinando o retorno dos autos à origem.
+É o relatório. Decido.
+A respeito da desistência do mandado de segurança, o Plenário do Supremo Tribunal Federal no julgamento do RE 669.637/RJ (Tema 530), submetido ao regime de repercussão geral, DJe de 30.10.2014, reconheceu a possibilidade ser homologada a desistência do mandado de segurança a qualquer tempo, independentemente de anuência da parte contrária, ainda que já tenha havido decisão de mérito.
+Confira-se:
+"É lícito ao impetrante desistir da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada ou, ainda, quando for o caso, dos litisconsortes passivos necessários, a qualquer momento antes do término do julgamento, mesmo após eventual sentença concessiva do "writ" constitucional, não se aplicando, em tal hipótese, a norma inscrita no art. 267, § 4º, do CPC/1973".
+Na espécie, impende ressaltar que o recurso especial interposto nos autos visou exclusivamente "(..) afastar a exigência do PIS e da COFINS sobre os juros moratórios na recuperação de tributos." (fl. 427). Nesse contexto, a discussão acerca da Contribuição ao PIS e da Cofins sobre os juros moratórios recebidos na repetição de indébito e nos depósitos judiciais é a única passível de conhecimento por esta Corte Superior, e, portanto, a única abarcada pela presente decisão.
+No que diz respeito à alegação de perda de objeto do agravo em recurso extraordinário interposto na origem, em que se discute sobre a incidência do IRPJ e da CSLL sobre os juros decorrentes do levantamento dos depósitos judiciais, a competência para apreciar referido pleito é do Supremo Tribunal Federal.
+Ante o exposto, homologo o pedido de desistência parcial e julgo extingo em parte o presente mandado de segurança, tão somente quanto à incidência do PIS e da COFINS sobre os juros moratórios recebidos na repetição de indébito e depósitos judiciais, sem resolução de mérito, com base no art. 485, VIII, do CPC, ficando prejudicados o recurso especial e respectivo agravo interno de fls. 649/654.
+Publique-se. Intimem-se.
+EMENTA
