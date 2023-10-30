@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pela FUNDAÇÃO NACIONAL DE SAÚDE em face de acórdão cuja controvérsia diz respeito, dentre outros, a "definir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil".
+Ocorre que a referida matéria foi afetada, pela Corte Especial do STJ, para julgamento segundo o rito dos recursos repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, nos Recursos Especiais 1.988.687/RJ, 1.988.686/RJ e 1.988.697/RJ, sob a relatoria do Ministro OG FERNANDES (Tema 1.178/STJ).
+Nesse julgamento, determinou-se, "a suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ fundados em idêntica questão de direito (observada a orientação do art. 256-L do RISTJ)".
+Ante o exposto, prejudicada, por ora, a análise do Recurso Especial, determino a devolução do presente feito ao Tribunal de origem, com a devida baixa neste Tribunal, para que, após a publicação do acórdão representativo da controvérsia, nos termos do art. 1.040 do CPC/2015, o presente recurso: ( a) tenha seguimento negado, caso o acórdão recorrido se harmonize com a orientação proferida pelo Superior Tribunal de Justiça; ou (b) tenha novo exame pelo Tribunal de origem, caso o acórdão recorrido divirja do entendimento firmado no Superior Tribunal de Justiça.
+I.
+ EMENTA
