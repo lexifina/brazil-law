@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. MANUTENÇÃO. DIREITO CIVIL. RESPONSABILIDADE SUBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. REVISÃO CRIMINAL. PRISÃO POR MAIS TEMPO. REVISÃO CRIMINAL NÃO AJUIZADA A TEMPO. DANOS MORAIS CONFIGURADOS. ANORMALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Discussão a respeito de falha na prestação de serviços advocatícios, aplicando-se, portanto, as disposições contidas na Lei n. 8.906/94 - Estatuto da Advocacia, a qual estabelece em seu art. 32, caput, a responsabilidade do profissional perante os atos praticados com dolo ou culpa: "O advogado é responsável pelos atos que, no exercício profissional, praticar com dolo ou culpa".
+2. Na hipótese, não há como rever o entendimento firmado pelas instâncias ordinárias quanto ao reconhecimento da inexistência de danos morais em virtude de desídia na prestação dos serviços advocatícios sem a análise de fatos e provas, procedimento inviável em recurso especial em virtude da incidência da Súmula nº 7/STJ.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão. No caso, o valor estabelecido pela Corte de origem não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Paula Tatiane Monezzi (fls. 2134-2139 e-STJ), em face de decisão singular da Presidência desta Corte de fls. 2127-2131 e-STJ, em que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7 do STJ.
+Em razões de agravo interno (fls. 2134-2139 e-STJ), a parte agravante alega que a questão não demanda reexame de fatos ou provas, sendo que "o exame é tão somente jurídico, e não fático", já que apenas se requer o pronunciamento quanto à violação aos arts. 32 da Lei n. 8.906/94 e 944 do Código Civil.
+Afirma que esta Corte "já sedimentou entendimento quanto à possibilidade de revisão de valores fixados a título de indenização por danos morais, quando constatada a exorbitância dos valores, como no presente caso, em que houve a fixação de indenização por danos morais em R$ 20.000,00, inobstante o valor do contrato ser de apenas R$ 3.500,00" (fl. 2137 e-STJ).
+A parte agravada foi devidamente intimada, mas não apresentou contrarrazões, conforme certidão de fls. 2143-2144 e-STJ.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.280.532 - MS (2023/0012964-6)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+PAULA TATIANE MONEZZI
+ADVOGADO
+:
+MATHEUS DE FRANCISCO LAZARIM - MS021161
+AGRAVADO
+:
+NILCELIA APARECIDA DOS SANTOS
+AGRAVADO
+:
+CLEITON SALUSTRIANO DA SILVA
+ADVOGADO
+:
+AMILTON FERREIRA DE ALMEIDA - MS015948
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. MANUTENÇÃO. DIREITO CIVIL. RESPONSABILIDADE SUBJETIVA. FALHA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. REVISÃO CRIMINAL. PRISÃO POR MAIS TEMPO. REVISÃO CRIMINAL NÃO AJUIZADA A TEMPO. DANOS MORAIS CONFIGURADOS. ANORMALIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Discussão a respeito de falha na prestação de serviços advocatícios, aplicando-se, portanto, as disposições contidas na Lei n. 8.906/94 - Estatuto da Advocacia, a qual estabelece em seu art. 32, caput, a responsabilidade do profissional perante os atos praticados com dolo ou culpa: "O advogado é responsável pelos atos que, no exercício profissional, praticar com dolo ou culpa".
+2. Na hipótese, não há como rever o entendimento firmado pelas instâncias ordinárias quanto ao reconhecimento da inexistência de danos morais em virtude de desídia na prestação dos serviços advocatícios sem a análise de fatos e provas, procedimento inviável em recurso especial em virtude da incidência da Súmula nº 7/STJ.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão. No caso, o valor estabelecido pela Corte de origem não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não merece prosperar o recurso da parte agravante, devendo ser mantida a decisão da Presidência desta Corte por seus próprios fundamentos.
+Em síntese, na origem, trata-se de ação de reparação de danos morais e materiais c/c pedido de tutela de evidência ajuizada pela ora agravada, Nilcéia Aparecida dos Santos e outro, em face da parte agravante, Paula Tatiane Monezzi.
+A sentença julgou extinta, sem resolução do mérito, a pretensão dirigida por Cleiton Salustriano da Silva em desfavor de Paula Tatiane Monezzi, dada a ilegitimidade ativa ad causam e julgou parcialmente procedentes os pedidos deduzidos por Nilcéia Aparecida dos Santos para o fito específico de condenar a ré a pagar, a título de dano moral, o importe de R$ 20.000,00 (vinte mil reais), rejeitando o pedido de dano material (fls. 1784-1792 e-STJ).
+O Tribunal de origem manteve a sentença por seus próprios fundamentos (fls. 2029-2045 e-STJ), seguindo-se a ementa:
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS C/C PEDIDO DE TUTELA DE EVIDÊNCIA. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE - AFASTADA. MÉRITO. FALHA NA PRESTAÇÃO DOS SERVIÇOS ADVOCATÍCIOS - COMPROVADA. DANO MORAL- CONFIGURADO. VALOR DA INDENIZAÇÃO- RAZOABILIDADE E PROPORCIONALIDADE. PEDIDO DE APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ FORMULADO EM CONTRARRAZÕES - REJEITADO. RECURSO CONHECIDO E DESPROVIDO.
+Em razões de recurso especial (fls. 2056-2069 e-STJ), com fundamento no art. 105, III, "a", da Constituição Federal, a parte agravante alegou violação aos seguintes dispositivos legais: i) art. 32 da Lei n. 8.906/1994 (Estatuto da Advocacia), ao argumento de que os danos morais deveriam ser afastados, pois não houve conduta culposa a qualificar a desídia profissional, pois devidamente cumprido o contrato de serviços advocatícios; ii) art. 944 do Código Civil, ao argumento de que o montante de danos morais deve ser reduzido.
+O Tribunal de origem não admitiu o recurso especial (fls. 2098-2099 e-STJ), entendimento este seguido pela Presidência desta Corte em sede de agravo em recurso especial.
+Com base nessas premissas, a parte agravante continua alegando que houve ofensa ao art. 32 da Lei n. 8.906/1994 e art. 944 do Código Civil, e que o exame de suas alegações não demandaria reexame de fatos ou provas.
+No que tange à primeira questão, vejo que de fato não há o que se alterar no acórdão recorrido.
+A parte agravante afirma que as partes não ajustaram uma data para apresentação da revisão criminal. Por isso, não poderia alegar desídia da parte agravante, se as partes não pactuaram data específica para que o documento fosse apresentado.
+Argumenta que não houve dolo ou culpa por parte da agravante.
+Alega que "o ocorrido tratou apenas de um mal-entendido na prestação das informações a respeito do caso, reconhecido pela Recorrente em sua defesa, mas não a ponto de ensejar a caracterização de qualquer falha na prestação dos serviços, como querem fazer crer os Recorridos" (fl. 2065 e-STJ).
+Com efeito, no Direito Civil, a regra é a responsabilidade subjetiva, de modo que o dever de reparar exige a ocorrência de fato lesivo, causado por ação ou omissão culposa, dano patrimonial ou moral e nexo de causalidade entre o dano e a conduta do agente causador do dano (art. 186 do CC).
+Na hipótese dos autos, e conforme bem delimitado pelo Tribunal de origem, trata-se de discussão a respeito de falha na prestação de serviços advocatícios, aplicando-se, portanto, as disposições contidas na Lei n. 8.906/94 - Estatuto da Advocacia, a qual estabelece, em seu art. 32, caput, a responsabilidade do profissional perante os atos praticados com dolo ou culpa: "O advogado é responsável pelos atos que, no exercício profissional, praticar com dolo ou culpa".
+Com base nessa discussão, o Tribunal de origem verificou que houve efetiva falha na prestação de serviços advocatícios por parte da agravante, tendo em vista sua negligência em ingressar com revisão criminal, a qual possibilitaria, inclusive, o julgamento do recurso em liberdade. Dessa forma, em razão de sua desídia, acabou por permanecer à prisão mais tempo do que deveria.
+Conforme trechos do acórdão recorrido:
+"Na espécie, restou clara a negligência da requerida Paula Tatiane Monezzi, pois embora tenha sido contratada pela requerente Nilcélia no dia 30.08.2017, para ingressar com revisão criminal em face do acórdão que a condenou a uma pena restritiva de liberdade, auferiu vantagem da cliente por mais de cinco meses sem a devida contraprestação contratual, conforme verifica-se dos recibos datados de agosto de 2017 até janeiro de 2018 (f. 719-720), culminando na prisão da autora em 24.01.2018.
+Com efeito, a revisão criminal somente foi protocolizada pela requerida em 26.01.2018, dois dias após a prisão da requerente Nilcélia.
+Nesse contexto, é possível concluir que a requerida agiu com manifesta desídia profissional, pois protocolizou a competente revisão criminal quase 5 (cinco) meses depois da contratação havida, quando as especificidades do caso concreto exigiam uma prestação jurisdicional célere, dado que se tratava de ação contratada para revisar condenação privativa de liberdade em regime fechado (f. 682-710), transitada em julgado (f. 713) e com mandado de prisão prestes a ser expedido.
+Não bastasse isso, as conversas de whatsapp juntadas às f. 1770-1777, e registradas em ata notarial, denotam que a requerida informou à autora, em 23.01.2018, que a revisão criminal estava "não mão do relator" (f. 1771), o que não correspondia à verdade, tanto que a autora foi presa em 24.01.2018 (f. 724), antes de a requerida protocolizar a revisão criminal, em 26.01.2018 (f. 728-732).
+Por fim, como bem ressaltado pelo magistrado, "a Autora, inclusive, comprovou, através da revisão criminal apresentada pelo patrono contratado depois da requerida (p. 871/884), decisão favorável nela obtida dez dias depois (p. 1617/1624) e do acórdão julgando procedente seu pleito revisional (p. 1763/1769), a real possibilidade de responder a revisão criminal em liberdade e sequer ser presa, como foi, caso não fosse a negligência e desídia da requerida no ajuizamento da ação contratada a destempo (f. 1790)".
+Dessa forma, a partir dos documentos acostados aos autos, é forçoso reconhecer a falha na prestação de serviços advocatícios contratados pela requerente" (fl. 2038-2039 e-STJ).
+Ademais, mesmo que esta Corte tenha o posicionamento de que, em regra, o inadimplemento contratual não enseja danos morais (AgInt no AgInt no AREsp n. 2.176.209/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/5/2023, DJe de 11/5/2023; AgInt no AREsp n. 2.146.174/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2023, DJe de 27/4/2023), no caso em questão ficou configurada a sua anormalidade a possibilitar a excepcionalidade desta jurisprudência. Isso porque, de fato, ficou provado que, por conta da desídia da parte agravante, o réu teria permanecido mais tempo na prisão do que deveria, o que, considerando as condições precárias do sistema carcerário brasileiro, não há que se desconsiderar o efetivo dano à personalidade do agente.
+Em semelhante sentido, concluiu o Tribunal de origem:
+"(..) O fato de a advogada requerida deixar de propor a ação para qual foi contratada em prazo razoável, quando as especificidades do caso concreto exigiam uma prestação jurisdicional mais célere, causa aborrecimento fora da normalidade à demandante, que pela desídia injustificada da requerida, teve sua revisão criminal protocolizada somente dois dias após sua prisão" (fl. 2039 e-STJ).
+Por isso, de fato, verificar se efetivamente não houve falha na prestação de serviços, ou ainda se os danos ocasionados foram anormais à espécie, a possibilitar eventualmente o afastamento da culpa e consequente responsabilidade da parte agravante, demandaria reexame de fatos ou provas, conforme bem fundamentado pela Presidência desta Corte, mas não impugnado de forma específica como deveria pela parte agravante (Súmula 182 do STJ).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ART. 489 DO CPC/2015. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. DESÍDIA. DANOS MATERIAIS E MORAIS. EXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. REEXAME. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 3. Na hipótese, não há como rever o entendimento firmado pelas instâncias ordinárias quanto ao reconhecimento da inexistência de danos morais e materiais devido à desídia na prestação dos serviços advocatícios sem a análise de fatos e provas, procedimento inviável em recurso especial em virtude da incidência da Súmula nº 7/STJ.
+4. O tribunal de origem não vislumbrou que a recorrida tenha praticado conduta a ensejar o reconhecimento da litigância de má-fé, o que não pode ser revisto por esta Corte sem a análise de circunstâncias fáticas dos autos, haja vista do óbice da Súmula nº 7/STJ 5. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Precedente.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.381.483/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/11/2019, DJe de 21/11/2019.)
+Em relação ao segundo ponto alegado, tampouco vejo como prosperar seu recurso.
+Segundo a parte agravante, houve ofensa ao art. 944 do Código Civil, ao fundamento de que o valor fixado seria exorbitante. Conforme suas palavras, "se vê condenada ao pagamento de quantia indenizatória que corresponde a quase 6 vezes o montante do contrato, o que se mostra excessivo" (fl. 2066 e-STJ).
+Argumenta que "deve-se levar em conta, ademais, que a Recorrente jamais teve o intuito de lesar terceiro, provando sua boa-fé com a devolução voluntária do valor que havia sido inicialmente pago pela Recorrida para a prestação dos serviços" (fl. 2068 e-STJ).
+Com efeito, de fato, a jurisprudência desta Corte é firme no sentido de que a revisão do montante de danos morais somente é permitida quando o valor se caracteriza como irrisório ou exorbitante, o que não é o caso em questão. Ausentes tais circunstâncias, a análise encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Quanto ao tema, as instâncias de origem entenderam que o valor arbitrado de R$ 20.000,00 (vinte mil reais) seria razoável e proporcional ao dano sofrido pela parte agravada, nos seguintes termos:
+"Considerando essa dupla finalidade e também as peculiaridades do caso, a demora injustificada da requerida para ingressar com a revisão criminal para qual foi contratada, culminando na prisão da requerente sem a justa defesa, quando evidenciado que esta teria condições de responder a revisão criminal em liberdade e sequer ter sido presa, caso a referida ação tivesse sido ajuizada a tempo, assim como a capacidade econômica das partes e a jurisprudência desta Corte no tocante a fixação de danos morais, tenho que o valor da indenização, fixado em R$ 20.0000,00 (vinte mil reais) na sentença recorrida, é suficiente e razoável para reparar o dano sofrido pela requerente" (fls. 2042-2043 e-STJ).
+Como se vê, o valor da indenização arbitrado na espécie não se mostra manifestamente excessivo ante a situação experimentada pela parte autora. Ao contrário, a importância de R$ 20.000,00 (vinte mil reais) mostra-se adequada para reparar a lesão extrapatrimonial suportada por ele em razão de ter permanecido por mais tempo do que deveria - em razão da desídia da parte agravante - no sistema carcerário, e para sancionar a falha na prestação do serviço pela parte agravada, conforme teria sido concluído pelo Tribunal de origem.
+Sobre o tema, confira-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. FALTA DE PREQUESTIONAMENTO. DANO MORAL. VALOR INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO -PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..) 4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão. No caso, o valor estabelecido pela Corte de origem não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.215.428/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/4/2023, DJe de 28/4/2023).
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
