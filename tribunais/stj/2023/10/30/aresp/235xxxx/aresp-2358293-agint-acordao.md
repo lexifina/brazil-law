@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. INCIDENTE DE EXCEÇÃO DE SUSPEIÇÃO OPOSTO EM FACE DA EXPERT. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. FALTA DE COMPROVAÇÃO DA IMPARCIALIDADE. REEXAME FÁTICO PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO NÃO DEMONSTRADO. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA.
+1. Ação de adimplemento contratual. Cumprimento de sentença. Incidente de exceção de suspeição.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial. Precedentes desta Corte.
+7. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por OI S.A., EM RECUPERAÇÃO JUDICIAL (e-STJ, fls. 3.347/3.367), contra decisão (e-STJ, fls. 3.338/3.343) que conheceu do agravo para conhecer em parte o recurso especial e negar-lhe provimento.
+Ação: de adimplemento contratual ajuizada por PARCOM PRTICIPAÇÕES S/A E OUTRO, em desfavor da OI S.A, em fase de cumprimento de sentença. Foi oposta exceção de suspeição pela ré, em face da perita VANYA MARCON nomeada pelo juízo para elaboração de cálculos decorrentes da procedência dos pedidos formulados na ação.
+Decisão interlocutória: julgou improcedente a exceção de suspeição.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. RECURSO EM INCIDENTE DE EXCEÇÃO DE SUSPEIÇÃO OPOSTO EM FACE DA EXPERT. CUMPRIMENTO DE SENTENÇA PROFERIDA EM "AÇÃO DE ADIMPLEMENTO CONTRATUAL". DECISÃO AGRAVADA QUE JULGOU IMPROCEDENTE A EXCEÇÃO DE SUSPEIÇÃO OPOSTA EM FACE DA PERITA QUE ELABOROU OS CÁLCULOS. NÃO DEMONSTRAÇÃO, PELA AGRAVANTE, DE QUE A PERITA TENHA OBTIDO VANTAGEM INDEVIDA OU NÃO TENHA ELABORADO OS CÁLCULOS DE ACORDO COM AS DELIMITAÇÕES EXPOSTAS NAS DECISÕES JUDICIAIS ANTERIORES - ART. 373, INCISO I, DO CPC. INOCORRÊNCIA DE SUSPEIÇÃO DA PERITA PELO FATO DE TER ATUADO COMO ASSISTENTE TÉCNICA EM DEMANDASANÁLOGAS. DECISÃOMANTIDA. RECURSOCONHECIDOE DESPROVIDO." (e-STJ, fl. 1.442)
+Embargos de declaração: opostos por ambas as partes, foram rejeitados
+Recurso especial: Alegou, além de dissídio jurisprudencial, ofensa aos arts. 144, IX, 145, I e IV, e 148, 489, §1º, IV, e 1.022, II, do CPC/2015, sustentando: i) omissão e falta de fundamentação do julgado, ao não se pronunciar sobre a falta de homologação do laudo para encerramento da perícia, ao adotar premissa manifestamente equivocada ao considerar a perícia encerrada; bem como acerca do fato de que a efetiva causa de pedir do incidente de suspeição, qual seja, a existência de um fato objetivo, que põe em sérias dúvidas a imparcialidade da perita, ainda não ter sido julgada; ii) a inexistência da total imparcialidade de um auxiliar da justiça que atua em prol de uma das partes na qualidade de assistente técnico; iii) que na hipótese dos autos, a perita é assistente técnica de uma das partes em processo idêntico e já apresentou cálculo teratológico, o que macula o processo; iv) que "A dúvida, desde que fundada, suscitada por uma das partes, já é suficiente para que seja contaminado o ambiente de confiança e neutralidade que deve ter o processo." (e-STJ, fl. 185) e que em razão disso, seria prescindível a comprovação, por parte do agravante, de que a perita teria interesse no processo; v) que não há, "diante de dúvidas fundadas acerca da parcialidade da perita para atuar no processo, necessidade de comprovação cabal.(..) Não há como se admitir como válido laudo pericial elaborado sob a nódoa da suspeição. A mera dúvida quanto à neutralidade da perita é suficiente para viciar o laudo elaborado na demanda." (e-STJ, fl. 186) e que "A comprovação de elementos subjetivos, do dolo, ou de vantagens percebidas é, portanto, não só irrelevante, como, sobretudo, impossível. E a vantagem obtida pela perita é presumida, sendo desnecessária a sua comprovação."(e-STJ, fl. 187); vi) por fim diz que "A atuação do perito judicial, no entanto, só se dá por encerrada com a homologação do laudo pericial, independente da data da entrega do laudo pericial, o que não ocorreu in casu." (e-STJ, fl. 189). Pugna pela reforma do v. acórdão recorrido, para que seja julgada procedente a exceção de suspeição, de modo a afastar a atuação da perita no processo de origem e seja determinada a produção de nova prova pericial de liquidação de sentença.
+Decisão agravada: conheceu do agravo para conhecer em parte do recurso especial interposto pela agravante, e negar-lhe provimento.
+Agravo interno: alega ter preenchido todos os requisitos para a interposição do recurso, com a impugnação específica dos fundamentos da decisão de admissibilidade. Pugna pelo afastamento das Súmula 7/STJ, pois inaplicável . No mais, repisa os argumentos expendidos anteriormente em seu recurso especial.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. INCIDENTE DE EXCEÇÃO DE SUSPEIÇÃO OPOSTO EM FACE DA EXPERT. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. FALTA DE COMPROVAÇÃO DA IMPARCIALIDADE. REEXAME FÁTICO PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO NÃO DEMONSTRADO. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA.
+1. Ação de adimplemento contratual. Cumprimento de sentença. Incidente de exceção de suspeição.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial. Precedentes desta Corte.
+7. Agravo interno desprovido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Da violação do art. 1022 do CPC/2015
+Nos termos da jurisprudência desta Corte, não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+In casu, em nova análise, verifica-se que o acórdão recorrido, embora contrariamente às pretensões da agravante, decidiu de forma fundamentada e clara acerca das alegações da agravante quanto às questões que envolvem a pericia realizada e às provas a ela relacionadas, de maneira que os embargos de declaração, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ofensa ao art. 489 do CPC/2015
+Descabida a alegação de ofensa ao art. 489 do CPC/2015, quando analisadas e discutidas todas as questões de mérito, e fundamentado corretamente o acórdão Recorrido, de modo a esgotar a prestação jurisdicional. Nesse sentido: AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017 e AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017.
+- Do reexame de fatos e provas
+No que se refere às alegações relativas à atuação perita e seu interesse no feito; à falta de encerramento da perícia; e à nulidade do laudo pericial, verifica-se que o magistrado a quo, decidiu com base no acervo probatório juntado aos autos, ainda que contrariamente às expectativas da agravante, concluindo: pela ausência de comprovação da suspeição da peritas; que a atuação da expert no cumprimento de sentença foi formalmente regular; que a agravante não comprovou a parcialidade e interesse da perita no processo; pela validade dos atos praticados e encerramento da prova pericial por decisão proferida em agravo de instrumento anteriormente julgado.
+Assim, alterar esse entendimento, realmente exige o reexame de fatos e provas, o que é vedado em recurso especial pelas Súmula 7 do STJ.
+Nesse sentido: AgRg no AREsp 728.100/RJ, QUARTA TURMA, julgado em 03/11/2015, DJe de 06/11/2015; AgInt no AREsp 711.020/GO, PRIMEIRA TURMA, julgado em 19/04/2018, DJe de 26/04/2018; AgRg no AgRg no AREsp 624.404/SP, QUARTA TURMA, julgado em 18/08/2015, DJe de 27/8/2015.
+- Da divergência jurisprudencial
+Por fim, quanto ao dissídio interpretativo, verifica-se que entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Por esse motivo, a análise da existência do dissídio é inviável, ante o descumprimento dos arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Outrossim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Deve, portanto, a decisão agravada ser mantida por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, nego provimento ao agravo interno.
