@@ -1,0 +1,20 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcelo Lopes de Mello Junior - cumprindo pena privativa de liberdade em razão de condenação pelo crime de tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0010772-41.2023.8.26.0996), comporta pronto acolhimento.
+Insurge-se o impetrante contra o acórdão do Tribunal estadual que, dando provimento ao recurso do Ministério Público, cassou a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP (Autos n. 0000121-47.2023.8.26.0996) que concedeu o indulto com fundamento no Decreto Presidencial n. 11.302/2022.
+Para tanto, sustenta que a argumentação utilizada para cassar a decisão é contrária ao texto expresso do indulto, além de trazer cálculo equivocado, pois a pena do tráfico privilegiado é de 5 anos e não de 15 anos como citado (fl. 6).
+De fato, verifica-se que se trata de apenado que cumpre pena em razão da condenação de 2 anos e 6 meses de reclusão, em regime semiaberto, além do pagamento de 250 dias-multa no valor unitário mínimo legal, como incurso no art. 33, § 4º, da Lei n. 11.343/2006 (fl. 33).
+Em se tratando de pena concretamente fixada em patamar inferior a 5 anos e crime não hediondo ou impeditivo, observa-se que o sentenciado faz jus ao indulto citado.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 11.302/2022. CONDENADO POR TRÁFICO PRIVILEGIADO. POSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 5º E 7º DO ATO PRESIDENCIAL.
+1. O Decreto n. 11.302/2022 concede indulto natalino: (a) aos acometidos por por paraplegia, tetraplegia ou cegueira, doença grave permanente, que imponha severa limitação de atividade e exija cuidados contínuos que não possam ser prestados no estabelecimento penal, como neoplasia maligna ou síndrome da deficiência imunológica adquirida (aids), em estágio terminal; (b) aos agentes públicos que compõem o Sistema Único de Segurança Pública condenados por excesso culposo, por crime culposo; (c) aos militares das Forças Armadas, em operações de Garantia da Lei e da Ordem, condenados por excesso culposo; (d) aos maiores de 70 anos de idade que tenham cumprido pelo menos 1/3 da pena e (e) aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+2. De acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange os crimes tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei n. 11343/2006. E o art. 5º, caput, estabelece que " s erá concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+3. Referidos dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022 excepciona a regra geral estabelecida no art. 5º do referido ato. Não faria sentido que o decreto excetuasse a vedação do benefício ao tráfico privilegiado e, contraditoriamente, obstasse sua aplicação com base na pena abstrata do tráfico simples. Se assim fosse, toda e qualquer condenação por crime de tráfico, com ou sem aplicação do redutor, não seria passível da concessão de indulto, fazendo letra morta ao dispositivo acima invocado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 818.978/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/9/2023 - grifo nosso)
+Em face do exposto, concedo liminarmente a ordem impetrada para restabelecer a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP (Autos n. 0000121-47.2023.8.26.0996) que concedeu o indulto com fundamento no Decreto Presidencial n. 11.302/2022 ao paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INDULTO (DECRETO PRESIDENCIAL N. 11.302/2022). TRÁFICO PRIVILEGIADO E REPRIMENDA INFERIOR A 5 ANOS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
