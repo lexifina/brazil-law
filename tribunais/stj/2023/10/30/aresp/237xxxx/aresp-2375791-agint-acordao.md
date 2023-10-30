@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante incorreu nas situações antes descritas.
+3. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado por Jandir Bianchin - Microempresa desafiando decisão da Presidência do STJ, que conheceu do agravo para não conhecer do recurso especial, sob os fundamentos de que: (I) em relação ao alegado direito à gratuidade de justiça, a uma, inviável a indicação de dispositivos constitucionais como malferidos na insurgência recursal especial; a duas, o Tribunal de origem não se pronunciou sobre os arts. 98 e 99 do CPC, apontados como violados, carecendo, assim, do indispensável requisito do prequestionamento; e, a três, o dissídio jurisprudencial referido no ponto padece de irregularidade formal, além disso, considerando a falta do prequestionamento da matéria suscitada no apelo raro, resta esvaziada a inafastável identidade fático-jurídica entre os julgados confrontados; e (II) quanto à tese pela possibilidade de conhecimento do agravo de instrumento como apelação, em primeiro lugar, tem-se que os argumentos no tocante à ofensa ao art. 203 do CPC foram genéricos, atraindo a Súmula 284/STF; em segundo plano, a alteração da premissa esposada no acórdão recorrido quanto a restar caracterizado o erro grosseiro na espécie demanda revolvimento fático-probatório, o que é vedado pela Súmula 7/STJ; e, por fim, a suscitada divergência pretoriana nessa quadra igualmente peca pela irregularidade formal, sendo a ela igualmente aplicável o óbice sumular 7/STJ.
+O agravante, em suas razões, sustenta que: (i) "a respeitável decisão agravada se encontra equivocada quanto à análise do pedido de justiça gratuita, pois esse benefício já havia sido concedido à EMPRESA AGRAVANTE (e-STJ FL. 408/412) e não é objeto do Agravo em Recurso Especial (e-STJ FLS. 421/430)" (fl. 479); e (ii) no mais, reprisa as razões de mérito do recurso inadmitido pela possibilidade de se aplicar fungibilidade recursal na espécie.
+Impugnação às fls. 539/545.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante incorreu nas situações antes descritas.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): De início, impõe-se anotar que, de fato, em relação à tese recursal pela concessão da justiça gratuita, o compulsar dos autos denota que houve o deferimento do referido pleito da recorrente quando do juízo de prelibação (v. fls. 408/412).
+Assim, considerando o efeito regressivo, próprio do recurso de agravo interno, tenho ser de rigor a alteração da fundamentação da decisão agravada no particular para, ainda mantendo o não conhecimento do apelo nobre, reconhecer que, nesse ponto, a recorrente especial carece de interesse recursal.
+No mais, a irresignação não merece conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+Na espécie, conforme destacado no relatório, quanto à tese pela possibilidade de conhecimento do agravo de instrumento como apelação, a decisão alvejada esposou os seguintes pilares: em primeiro lugar, os argumentos no tocante à ofensa ao art. 203 do CPC foram genéricos, atraindo a Súmula 284/STF; em segundo plano, a alteração da premissa esposada no acórdão recorrido quanto a restar caracterizado o erro grosseiro na espécie demanda revolvimento fático-probatório, o que é vedado pela Súmula 7/STJ; e, por fim, a suscitada divergência pretoriana nessa quadra igualmente peca pela irregularidade formal, sendo a ela igualmente aplicável o óbice sumular 7/STJ.
+Nas razões do agravo interno em exame, todavia, a parte cingiu-se a reprisar as razões de mérito nesse particular, deixando, assim, de empreender combate aos alicerces do decisum.
+Nesse contexto, incide a Súmula 182/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1.861.630/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/03/2022, DJe 22/03/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA D OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DO INSTITUTO NACIONAL DO SEGURO SOCIAL NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu da questão meritória apresentada no recurso especial da autarquia federal em razão da impossibilidade de revisão do acervo fático-probatório dos autos na via especial, necessária para se aferir se a documentação apresentada seria suficiente para comprovar a condição de aposentado dos autores. Em razão disso, consignou-se a incidência da Súmula 7 do STJ.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, apenas repetindo as razões do recurso especial, para demonstrar que impugnou todos os temas abordados.
+3. Para controverter a incidência da Súmula 7 do STJ, era dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o acolhimento da pretensão recursal, de fato, não depende de reanálise do conjunto fático-probatório, esclarecendo que todos os fatos estão devidamente consignados no acórdão recorrido, o que, todavia, não ocorreu, conforme se pode constatar da simples leitura das razões do agravo interno.
+4. Agravo interno do Instituto Nacional do Seguro Social-INSS não conhecido.
+(AgInt no REsp 1.527.221/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
