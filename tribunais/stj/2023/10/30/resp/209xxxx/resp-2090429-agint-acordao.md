@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. "A quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, consoante o disposto no art. 1.418 do Código Civil de 2002" (REsp 1.601.575/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 23.8.2016). Precedentes.
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017). Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JULIO CESAR DA COSTA em face de decisão monocrática de lavra deste signatário (fls. 167/169, e-STJ), que deu provimento ao recurso especial a fim de julgar improcedente o pedido de adjudicação compulsória, ante a inexistência de pagamento.
+Eis o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (fl. 129, e-STJ):
+ADJUDICAÇÃO COMPULSÓRIA. Outorga de escritura definitiva. Sentença de procedência. Inconformismo da ré. Alegação de ausência de prova da quitação, o que não pode ser dispensado mesmo quando há prescrição. Não há prova do inadimplemento do autor, tampouco de medidas, judiciais ou extrajudiciais, de cobrança. Contrato firmado com previsão de parcelamento do preço. Última parcela vencida em10.12.2011. Decurso do prazo prescritivo para cobrança de débito ou rescisão do contrato (artigo 206, § 5º, I, do CC). Ajuizamento da ação em 1º.2.2021. Inexistência de causa impeditiva, suspensiva ou interruptiva do prazo prescricional. Inteligência dos artigos 197 a 201 e 202 do CC. Precedentes. Inércia da ré que não obsta o direito à outorga de escritura definitiva do bem imóvel e que enseja o reconhecimento da quitação do contrato. Sentença mantida. Nega-se provimento.
+Interposto recurso especial com fundamento nas alíneas "a" e "c" do permissivo constitucional, a recorrente, ora agravada, apontou, além de dissídio jurisprudencial, ofensa ao artigo 373, I, do CPC/15. Sustentou, em síntese, que ante a ausência de pagamento, não há falar em adjudicação compulsória, não sendo a prescrição apta a afastar a necessidade de quitação da avença.
+Sem contrarrazões (fl. 158, e-STJ), e após decisão de admissão do recurso especial (fls. 159/160, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão monocrática de fls. 167/169 e-STJ, este signatário deu provimento ao recurso, pois, conforme entendimento desta Corte, a quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, não sendo a prescrição suficiente para reconhecer a quitação da dívida.
+Irresignado, o agravante interpôs agravo interno (fls. 173/205, e-STJ), no qual asseverou, em suma, que o seu pedido de adjudicação compulsória deve ser julgado procedente, pois quitou o contrato, assim como prescreveu a pretensão relativa à avença.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 209/218, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. "A quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, consoante o disposto no art. 1.418 do Código Civil de 2002" (REsp 1.601.575/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 23.8.2016). Precedentes.
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017). Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A irresignação não merece prosperar, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida.
+1. Na hipótese, a Corte local consignou (fls. 132/134, e-STJ):
+O contrato elaborado com o adquirente originário, em 15.12.2006, previa o pagamento de 48 prestações de R$ 1.300,00, iniciando-se em 15.1.2007, com a última parcela prevista para 10.12.2011. O instrumento de cessão pelo qual o autor-cessionário adquiriu direitos sobre o bem foi assinado em 21.2.2011, e, embora não conste cláusula afirmando a quitação pelo cedente, apenas refere que, em caso de existência de prestações a vencer, elas deveriam ser quitadas pelo cessionário.  ..  Conquanto não se negue que o apelado não demonstrou a quitação dos débitos que teriam vencimento após a cessão de direitos, constata-se que não há nos autos notícia do inadimplemento do autor, cessionário dos direitos sobre o bem em questão, tampouco adoção de medidas, a cargo da apelante, judiciais ou extrajudiciais, com fundamento na ausência de pagamento pela aquisição do imóvel.  ..  Ainda que assim não fosse, fato é que a última parcela do preço estava prevista para dezembro de 2011, de modo que se operou a prescrição da pretensão de cobrança de eventual dívida líquida (artigo 206,parágrafo 5º, inciso I, do Código Civil) pela ré, fato que, somado à inexistência dequalquer medida ajuizada pela apelante contra eventual inadimplemento da parteautora, autoriza a adjudicação compulsória do imóvel objeto da matrícula 48.540do 2º Oficial de Registro de Imóveis da Comarca de Franca.
+No entanto, conforme fundamentação da decisão monocrática, a quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória.
+Ademais, a prescrição da pretensão sobre os valores decorrentes da avença não enseja o reconhecimento da inexistência da dívida e a quitação do saldo devedor.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. IMPUGNAÇÃO ESPECÍFICA CONSTATADA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA JULGADA IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. DÉBITO PRESCRITO. RECONHECIMENTO DE QUITAÇÃO. INVIABILIDADE. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "A quitação do preço do bem imóvel pelo comprador constitui pressuposto para postular sua adjudicação compulsória, consoante o disposto no art. 1.418 do Código Civil de 2002" (REsp 1.601.575/PR, relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 23.8.2016).
+2. "A prescrição pode ser definida como a perda, pelo titular do direito violado, da pretensão à sua reparação. Inviável se admitir, portanto, o reconhecimento de inexistência da dívida e quitação do saldo devedor, uma vez que a prescrição não atinge o direito subjetivo em si mesmo" (REsp 1.694.322/SP, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 13.11.2017).
+3. O Tribunal de Justiça julgou improcedente o pedido da parte autora, sob o fundamento de que "não há falar-se em outorga de escritura pública de imóvel mediante ação de adjudicação compulsória quando não provada a quitação integral do preço ajustado, sendo irrelevante o fato de o débito já se encontrar prescrito". Decisão em consonância com o entendimento desta Corte Superior. Aplicação da Súmula 83/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.816.356/ES, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 20/9/2022.)
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nego provimento ao agravo interno.
+É como voto.
