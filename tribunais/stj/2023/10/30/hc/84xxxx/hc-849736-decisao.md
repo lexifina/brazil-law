@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDUARDO BATISTA LEAL no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2197483-04.2023.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preve ntivamente pela suposta prática do delito de furto qualificado (e-STJ fls. 103/107), tendo em vista que "subtraiu, para si, durante o repouso noturno, mediante escalada e rompimento de obstáculo, 30 (trinta) metros de fios, pertencentes ao escritório "H. Filho Advogados"" (e-STJ fl. 115).
+Impetrado habeas corpus na origem, a ordem foi denegada (e-STJ fls. 55/70).
+Neste writ, a Defensoria Pública sustenta que não se encontram presentes os requisitos autorizadores da custódia.
+Pontua que o delito imputado ao acusado não envolve violência nem grave ameaça.
+Destaca as condições pessoais favoráveis ao paciente e afirma ser suficiente a aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Aduz que "não é demais lembrar que em razão da Pandemia causada pela Covid-19, a prisão processual deverá se dar com a máxima excepcionalidade (Recomendação nº 62/CNJ)" - e-STJ fl. 10.
+Por fim, alega que "o Custodiado está privado de liberdade desde 20 de dezembro de 2022, isto é, HÁ MAIS DE 08 (OITO) MESES, não sendo possível atribuir a ele ou à Defesa qualquer responsabilidade pela tardia tramitação do processo. A prisão preventiva deve ser balizada no tempo. Não se trata de feito complexo, e a questão do prazo para a conclusão da instrução deve ser norteada pelo critério da razoabilidade, não sendo lícito mantê-lo encarcerado, em razão do excesso de prazo, sob pena de violação ao Princípio da não culpabilidade" (e-STJ fl. 10).
+Dessa forma, requer, liminarmente, a concessão da liberdade provisória, com a expedição do competente alvará de soltura. No mérito, postula a revogação da prisão, ainda que mediante a imposição de medidas alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pela denegação da ordem.
+É o relatório. Decido.
+Informações obtidas no sítio eletrônico do Tribunal de origem dão conta de que, no dia 6/9/2023, o Juízo de proferiu a seguinte decisão:
+Ante o exposto, julgo parcialmente procedente o pedido da denúncia para condenar Eduardo Batista Leal nas sanções do artigo 155, § 4º, incisos I e II, do Código Penal, com pena final de 3 anos e 45dias de reclusão, no regime aberto e 73 dias-multa (com o valor de 1/30 do salário-mínimo de2022). Deixo de realizar o arbitramento dos honorários, porque a defesa foi realizada pela Defensoria Pública. Ainda, condeno o réu ao pagamento das custas processuais (art. 804 do CPP). Se houve pedido de gratuidade da Justiça, deverá ser reiterado no momento de eventual execução da pena. No que toca à destinação dos bens apreendidos, ) quanto ao alicate e ao saco (fls. 44), trata-se de instrumento da atividade criminosa que não é ilícito. Razão pela qual determino sua devolução ao proprietário; ) quanto ao fios (fls. 45),determino sua restituição à vítima, se isso ainda não foi feito; Ante a fixação do regime inicial aberto, o qual se baseia na autodisciplina e senso de responsabilidade, revogo a prisão preventiva. Por consequência, concedo-lhe o direito de recorrer em liberdade. Expeça-se alvará de soltura, se por outra razão não estiver preso.  ..
+Diante disso, nada mais há a ser apreciado nesta oportunidade, tendo em vista que fica sem objeto o pedido contido no writ, cujos fundamentos foram superados.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
