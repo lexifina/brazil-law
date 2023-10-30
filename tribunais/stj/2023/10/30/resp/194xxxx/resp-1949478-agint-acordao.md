@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALTERAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia. Não padece o acórdão de qualquer omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação do art. 1.022 do CPC/2015.
+2. O acórdão recorrido foi proferido em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça de que a alteração dos índices de correção monetária e juros de mora, por se tratar de consectários legais da condenação principal, possuem natureza de ordem pública, cognoscíveis de ofício, motivo pelo qual não prospera a alegação de ocorrência de reformatio in pejus.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL contra decisão em que o então relator Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) negou provimento ao recurso especial do agravante.
+A parte agravante alega que houve violação do art. 1.022 do CPC pelo Tribunal de origem ao deixar de se manifestar acerca da alegada impossibilidade de reforma da decisão para pior, em desfavor do ente público.
+Sustenta que "não se admite a reforma de decisão judicial para piorar a situação daquele que recorreu - o DER ora agravante, in casu - em julgamento de recurso exclusivo seu, pois isto significaria desconsiderar os limites da atividade judicante, em evidente afronta aos princípios dispositivo, da inércia e da congruência, e também às noções de coisa julgada e preclusão" (fl. 338).
+Impugnação apresentada às fls. 345/354.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALTERAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia. Não padece o acórdão de qualquer omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação do art. 1.022 do CPC/2015.
+2. O acórdão recorrido foi proferido em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça de que a alteração dos índices de correção monetária e juros de mora, por se tratar de consectários legais da condenação principal, possuem natureza de ordem pública, cognoscíveis de ofício, motivo pelo qual não prospera a alegação de ocorrência de reformatio in pejus.
+3. Agravo interno a que se nega provimento.
+VOTO
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+O recurso especial tem origem em acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que deu parcial provimento à remessa oficial para determinar que a correção monetária observe o IPCA-E. Segue a ementa do julgado (fl. 161):
+Remessa - Cobrança - Pagamento devido - Fazenda Pública - Correção Monetária (RE 870947/SE) - Honorários majorados (CPC/73 20, § 4º).
+1. A inexistência de recursos financeiros não afasta a obrigação do réu de adimplir suas dívidas resultantes de serviços prestados pela autora.
+2. Nas condenações impostas à Fazenda Pública, a correção monetária deve observar o IPCA-E, índice que melhor reflete a inflação do período (RE 870947/SE).
+3. Os honorários de sucumbência devidos pela Fazenda Pública devem ser fixados com base no CPC/73 20, § 4º.
+Conforme consignado na decisão agravada, não está configurada a negativa de prestação jurisdicional, porquanto o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+Colhe-se dos autos que o Tribunal a quo se manifestou, de modo expresso e fundamentado, acerca de todos os aspectos necessários ao deslinde da controvérsia, tendo concluído que "a alteração dos índices dos juros moratórios e da correção monetária na remessa necessária não implica reformatio in pejus" (fl. 252), colacionando julgados do Superior Tribunal de Justiça sobre a matéria.
+É importante ressaltar que não há que se falar em ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo decide, fundamentadamente, as questões que lhe foram submetidas e aprecia integralmente a controvérsia posta nos autos, "não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (AgInt no REsp 1.991.052/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+Quanto ao mais, verifico que o acórdão recorrido foi proferido em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça de que a alteração dos índices de correção monetária e juros de mora, por se tratar de consectários legais da condenação principal, possuem natureza de ordem pública, cognoscíveis de ofício, motivo pelo qual não prospera a alegação de ocorrência de reformatio in pejus.
+Por pertinente, cito os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE SENTENÇA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALTERAÇÃO DOS ÍNDICES DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual alteração dos índices de correção monetária e juros de mora, por se tratar de consectários legais da condenação principal, possuem natureza de ordem pública, cognoscível de ofício, motivo pelo qual não prospera a alegação de ocorrência de reformatio in pejus.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido. (AgInt no REsp n. 1.895.569/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. LEI 9.494/1997. MATÉRIA DE ORDEM PÚBLICA. EXAME DE OFÍCIO. POSSIBILIDADE.
+1. Na forma da jurisprudência desta Corte, "a correção monetária e os juros de mora, enquanto consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, bastando que a matéria tenha sido debatida no Tribunal de origem. Logo, não há falar em reformatio in pejus" (EDcl no AgRg no AREsp n. 52.739/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 5/12/2013). Nesse mesmo sentido: AgInt no REsp n. 1.935.343/DF, relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/2/2022.
+2. Agravo interno desprovido. (AgInt no REsp n. 1.935.559/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA. INDENIZAÇÃO POR DANOS MORAIS. CONSECTÁRIOS LEGAIS. AUSÊNCIA DE VÍCIO NA DECISÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A correção monetária e os juros de mora são consectários legais da condenação principal, possuem natureza de ordem pública e podem ser analisados até mesmo de ofício, de modo que sua aplicação ou alteração, bem como a modificação de seu termo inicial, não configura julgamento extra petita nem reformatio in pejus.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 2.088.555/MS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/3/2023, DJe de 31/3/2023.)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015 tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso por decisão unânime do colegiado, como no caso em análise.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
