@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE MULTA CONTRATUAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA DE OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, não conheceu do recurso especial em razão da intempestividade e da irregularidade da representação processual.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos pelo CONDOMÍNIO RESIDENCIAL ALPHAVIEW BAIRRO PRIVATIVO contra acórdão da Terceira Turma do STJ (fls. 459-466) que manteve decisão monocrática de relatoria da Ministra Maria Thereza de Assis Moura, por meio da qual não conheceu do recurso em razão da manifesta intempestividade e da irregularidade da representação processual nos termos da Súmula n. 115/STJ (fls. 399-400).
+Interposto agravo interno, foi proferido o acórdão ora embargado com a seguinte ementa (fl. 459):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE MULTA CONTRATUAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Em síntese, cuida-se de ação de cobrança de multa contratual, objetivando a condenação do réu ao pagamento de multa compensatória pela rescisão de contrato de prestação de serviços.
+2. Hipótese em que o recurso especial não foi conhecido em razão da intempestividade e da irregularidade da representação processual.
+3. Nos termos da jurisprudência pacífica do STJ, a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais.
+4. Considerando que o recurso especial foi interposto sob a égide do CPC/2015 e que não houve a comprovação da suspensão dos prazos no Tribunal local, quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+5. Ademais, a parte, mesmo devidamente intimada, não atendeu a determinação de regularização da representação processual, razão pela qual o não conhecimento do recurso se impõe, nos termos do art. 76, § 2º, inciso I, do CPC.
+Agravo interno improvido.
+Sustenta a parte embargante que o acórdão foi omisso quanto aos precedentes relativos à segunda-feira de carnaval e à não aplicação da regra do art. 1.003, § 6º, do CPC aos casos em que o feriado local ocorrer no próprio Tribunal que irá julgar o recurso, além de ter desconsiderado a Lei n. 5.010/19 66, aduzindo que (fls. 476-477):
+ ..  embora tenha o Embargante correlacionado precedente desta Corte Superior com o caso concreto, deixou o v. acordão de observar aqueles enunciados, sem ao menos demonstrar a distinção (razões pelas quais aqueles precedentes não devem ser aplicados ao caso) ou a superação a justificar sua inaplicabilidade, conforme determina o inciso VI do §1º do artigo 489 do Código de Processo Civil, para apenas depois disso, então, julgar improvido o Agravo Interno do AREsp n. 2326383/SP (2023/0098395-6).
+ ..
+Assim, não houve expediente forense nesta Corte Superior no dia 28 de fevereiro de 2022, tampouco no Tribunal de Origem, de modo que se tornou desnecessária a demonstração da existência de feriado local quando da interposição do Recurso Especial (REsp n. 1.939182/CE).
+ ..
+Também deixou o v. acordão de se manifestar a respeito da Portaria STJ/GP n. 34 que, considerando o artigo 62, incido III da Lei n. 5.010/66 (Lei Federal), instituiu como Feriado Nacional os dias 28 de fevereiro e 1º de março do ano de 2022, de modo a ser desnecessário, portanto, a suspensão do expediente forense no dia 28 de fevereiro de 2022, por assim ser considerado feriado nacional por esta Egrégia Corte. É manifesta, portanto, a nulidade do v. acordão ora embargado, eis que inteiramente omisso de fundamentação, em manifesta violação ao artigo 93, inciso IX da Constituição Federal, artigos 11 e incisos I, IV e V do §1º do artigo 489 do Código de Processo Civil e aos princípios do contraditório, segurança jurídica, previsibilidade e estabilidade das decisões judiciais.
+Alega, ainda, que (fl. 477):
+Resta omissão no r. decisum ainda quanto à inobservância por este Relator de que não há qualquer vício na representação processual do Embargante, porquanto devidamente colacionado nos autos -, notadamente às e-STJ Fls. 342/343-, a cadeia de substabelecimento conferindo poderes ao subscritor do Recurso Especial e do Agravo em Recurso Especial, Dr. Alex Alberto Braz, devidamente assinada pelo advogado Dr. Diego Gomes Basse, através de certificado digital emitido por autoridade certificadora credenciada, não havendo qualquer óbice quanto à incidência da Súmula 115 do STJ.
+Requer, ao final, o acolhimento dos embargos declaratórios, a fim de que sejam sanadas as omissões.
+A parte embargada, instada a manifestar-se, silenciou (fl. 486).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE MULTA CONTRATUAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA DE OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. O acórdão embargado, de maneira clara e fundamentada, não conheceu do recurso especial em razão da intempestividade e da irregularidade da representação processual.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Em síntese, cuida-se de ação de cobrança de multa contratual interposta por CSIS - CUNHA SISTEMA INTEGRADO DE SEGURANCA E MONITORAMENTO EIRELI contra o CONDOMINIO RESIDENCIAL ALPHAVIEW BAIRRO PRIVATIVO, objetivando a condenação do réu ao pagamento de multa compensatória pela rescisão de contrato de prestação de serviços.
+Verifica-se que o acórdão embargado negou provimento ao agravo interno da parte, manejado contra decisão que não conheceu do recurso em razão da manifesta intempestividade e da irregularidade da representação processual nos termos da Súmula n. 115/STJ (fls. 399-400).
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado. Não verifico nenhuma contradição ou omissão acerca de questão essencial ao deslinde da controvérsia, tampouco vislumbro outro vício a impor a revisão do julgado.
+Em relação à intempestividade do recurso especial, o acórdão recorrido consignou (fls. 464-465):
+A parte recorrente sustenta a ocorrência de feriados e suspensões dos prazos processuais.
+Entretanto, nos termos da jurisprudência desta Corte, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 219, caput, 1.003, § 5º, e 1.029 do CPC.
+É certo que, na vigência do CPC/1973, prevalecia o entendimento no STJ de que a parte poderia comprovar a tempestividade, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem, no momento da interposição do agravo regimental (AgRg no AREsp n. 137.141/SE, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 19/9/2012, DJe de 15/10/2012).
+Contudo, com o advento do CPC/2015, a Corte Especial do STJ revisitou a matéria e, interpretando o art. 1.003, § 6º, do CPC/2015, firmou entendimento de que, em sua vigência, deve ser realizada a comprovação de existência de feriado local ou suspensão do expediente forense no Tribunal de origem por meio de documento idôneo no momento da interposição do recurso, sendo inadmissível regularização posterior, salvo no caso de se tratar do feriado da segunda-feira de Carnaval para os recursos interpostos até 18/11/2019, o que não é o caso dos autos.
+ ..
+Nesse sentido, cumpre destacar que a mera menção de suspensão de prazo ou de feriado local nas razões recursais não supre a necessidade de apresentação de documento oficial ou certidão expedida pelo Tribunal de origem para comprovar as suspensões de expediente indicadas pela parte agravante.
+Quanto ao ponto, cumpre reforçar que os precedentes apresentados no agravo interno e nos embargos de declaração não corroboram as alegações da parte embargante.
+Como destacado no acórdão embargado, o entendimento firmado quanto à comprovação posterior do feriado de segunda-feira de carnaval só é aplicável aos recursos interpostos até 18/11/2019, o que não é o caso dos autos. A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. AÇÃO DE PRESTAÇÃO DE CONTAS. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. SEGUNDA-FEIRA DE CARNAVAL. IMPOSSIBILIDADE PARA RECURSOS INTERPOSTOS A PARTIR DA VIGÊNCIA DO CPC/2015.
+1. Ação de prestação de contas.
+2. É intempestivo o recurso interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos artigos 219, caput, e 1.003, § 5º, do CPC/2015.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que em " ..  virtude de uma circunstância especificamente relacionada à segunda-feira de carnaval, a Corte Especial deliberou pela possibilidade de excepcional flexibilização dessa orientação, de modo a permitir, por meio da técnica de modulação de efeitos restrita a um determinado lapso temporal (até 19/11/2019), a comprovação posterior da existência do feriado local de segunda-feira de carnaval (QO no REsp 1.813.684/SP)  .. " (AgInt no AREsp n. 1.481.810/SP, Corte Especial, DJe de 20/8/2021).
+3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.325.019/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo meu.)
+Ademais, a parte embargante alega que o dia 28/2/2022 foi considerado feriado no STJ e no TJSP e que, consequentemente, o prazo foi suspenso.
+Contudo, aos recursos interpostos na instância de origem, como no caso em análise, aplica-se o calendário de funcionamento do Tribunal local, razão pela qual o recorrente deveria ter apresentado, no ato de interposição do recurso especial, o decreto judiciário que determinou a suspensão do expediente forense do TJSP no dia 28/2/2022. A propósito, confiram-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL OU SUSPENSÃO DO EXPEDIENTE FORENSE, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. LEI N.º 5.010/66. INAPLICABILIDADE NA JUSTIÇA ESTADUAL. RECESSO FORENSE NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. CONCESSÃO DE PRAZO. VÍCIOS FORMAIS SOMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+ ..
+4. Os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do Tribunal local, de forma que não se podem socorrer, para todos os casos, dos feriados e das suspensões previstas em portarias e no Regimento Interno do Superior Tribunal de Justiça, que, muitas vezes, não coincidem com os da Justiça estadual.
+Precedentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.164.979/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo meu.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO ESPECIAL. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. FERIADOS E SUSPENSÕES PREVISTAS EM PORTARIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IRRELEVÂNCIA. FERIADOS E SUSPENSÕES PREVISTAS NA LEI 5.010/1966. APLICAÇÃO RESTRITA À JUSTIÇA FEDERAL E TRIBUNAIS SUPERIORES. POSTERIOR COMPROVAÇÃO DA TEMPESTIVIDADE. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Os recursos interpostos na instância de origem, ainda que direcionados ao Superior Tribunal de Justiça, observam o calendário de funcionamento do Tribunal local, não sendo possível a utilização dos feriados e suspensões previstos em portaria ou no Regimento Interno desta Corte, os quais nem sempre coincidem com os da Justiça estadual.
+ ..
+5. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 219, caput, 994, VI, 1.003, § 5º, e 1.029, todos do Código de Processo Civil de 2015.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.303.471/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo meu.)
+Também cumpre destacar que a Lei n. 5.010/66 estabelece os feriados no âmbito da Justiça Federal e dos Tribunais Superiores, não sendo aplicável aos Tribunais estaduais, pois não fixa feriados nacionais. Nesse sentido, tendo em vista que aos recursos interpostos na instância de origem, como no caso em análise, aplica-se o calendário de funcionamento do Tribunal local, é irrelevante a suspensão do expediente prevista na referida lei. Confira-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL OU SUSPENSÃO DO EXPEDIENTE FORENSE, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. LEI N.º 5.010/66. INAPLICABILIDADE NA JUSTIÇA ESTADUAL. RECESSO FORENSE NO STJ. IRRELEVÂNCIA PARA VERIFICAÇÃO DE TEMPESTIVIDADE DE RECURSO INTERPOSTO NA ORIGEM. ART. 932, PARÁGRAFO ÚNICO, DO NCPC. CONCESSÃO DE PRAZO. VÍCIOS FORMAIS SOMENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+ ..
+4. Os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do Tribunal local, de forma que não se podem socorrer, para todos os casos, dos feriados e das suspensões previstas em portarias e no Regimento Interno do Superior Tribunal de Justiça, que, muitas vezes, não coincidem com os da Justiça estadual.
+Precedentes.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.164.979/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, grifo meu.)
+Quanto à irregularidade da representação processual, também não se verifica nenhuma omissão no acórdão embargado, que consignou o seguinte (fl. 465):
+Ademais, a despeit o da suficiência do óbice da intempestividade para o não conhecimento do recurso, verifica-se, ainda, a irregularidade da representação processual, tendo em vista que a parte agravante não juntou a cadeia completa de procurações e substabelecimentos, devidamente assinados, mesmo após intimação para fazê-lo (fl. 392), atraindo o óbice da Súmula n. 115/STJ
+Na verdade, a parte embargante não se conforma com o não conhecimento do recurso especial e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa. A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS.1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa. 2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c. 3. Embargos de declaração rejeitados.(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
