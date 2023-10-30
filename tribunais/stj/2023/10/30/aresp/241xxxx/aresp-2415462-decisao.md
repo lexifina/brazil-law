@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo BANCO PAN S.A. contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO assim ementado:
+REMESSA NECESSÁRIA - APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA - ATO ADMINISTRATIVO - MULTA PROCON - QUANTUM MINORADO CORRETAMENTE PELO JUÍZO A QUO - HONORÁRIOS ADVOCATÍCIOS - CUSTAS PROCESSUAIS REMANESCENTES - RECURSO DO RÉU PARCIALMENTE PROVIDO - RECURSO DO AUTOR DESPROVIDO - SENTENÇA REFORMADA.
+Nas razões do recurso especial, a parte aponta, além do dissídio jurisprudencial, violação art. 57 do CDC, alegando que na quantificação da multa estabelecida na sentença não foi observado o critério da vantagem auferida de forma adequada.
+Contrarrazões ao recurso especial às fls. 390/401 e-STJ.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 403-406 e-STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Contraminuta ao agravo às fls. 427-438 e-STJ.
+É o relatório. Decido.
+Preenchido os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Nas razões do recurso especial, a recorrente aduz, em síntese, que "(..) não almeja o simples reexame de provas,(..), mas sim a reforma do V. Acórdão tendo em vista que na quantificação da multa estabelecida na r. sentença não observou o critério da vantagem auferida de forma adequada, frente aos critérios legais do art. 57 do CDC".
+Nota-se que a parte recorrente fez alegação genérica no sentido de que não foi observado, no momento da fixação da penalidade pela sentença, o critério da vantagem auferida previsto no art. 57 do CDC, sem especificar de que forma o Juízo a quo teria violado esse critério e o princípio da propocionalidade.
+Incide, portanto, o óbice da súmula 284/STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito, confira-se:
+ADMINISTRATIVO. CONCURSO PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL E AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ANÁLISE DE LEI LOCAL. PROVIDÊNCIA VEDADA NO RECURSO ESPECIAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA À SÚMULA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA N. 518/STJ. ACÓRDÃO RECORRIDO ASSENTADO EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 126/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.992.186/AP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Ademais, o Tribunal de origem, ao decidir a controvérsia, entendeu que o montante estipulado a título de multa pelo PROCON é desproporcional quando comparado com o valor que a sancionada auferiu por meio do ato praticado, devendo ser mantido o valor da multa fixado pelo magistrado sentenciante, o qual revela-se adequado para responsabilizar a empresa pela infração. In verbis:
+(..) No caso dos autos, vislumbra-se que o refinanciamento objeto do contrato não fornecido ao consumidor consistia no pagamento de 24 (vinte e quatro) parcelas no valor de R$ 276,96 (duzentos e setenta e seis reais e noventa e seis centavos), perfazendo o Montante de R$ 6.647,04. Por sua vez, a multa arbitrada foi de R$ 88.702,60 (oitenta e oito mil reais, setecentos e dois reais e sessenta centavos), isto é, cerca de "treze vezes a mais que do crédito refinancia do.
+Assim, tenho que, a despeito do correto arbitramento de multa em virtude de conduta em desacordo com as normas consumeristas, certo é que o valor estipulado é desproporcional quando comparado com o valor que a sancionada auferiu através do ato praticado.
+Portanto, compreendo que o montante arbitrado pelo magistrado sentenciante se revela adequado para responsabilizar a empresa requerente pela infração cometida, preservando-se, ainda, o caráter pedagógico da penalidade, sem que isto importe, é claro, em enriquecimento ilícito.
+Verifica-se que modificar o acórdão recorrido, a fim de acolher a pretensão recursal e reavaliar se foi observado, no momento da fixação da penalidade pela sentença, de maneira adequada, a vantagem auferida, encontra óbice na Súmula 7/STJ, uma vez que o que está delineado no acórdão recorrido é insuficiente para fazer essa análise.
+A verificação da aplicação acertiva no caso concreto dos critérios descritos no art. 57 do CDC, bem como da razoabilidade e proporcionalidade do valor fixado a título de multa administrativa demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial.
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publica-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MULTA ADMINISTRATIVA. FIXAÇÃO DE VALOR. RAZOABILIDADE E PROPORCIONALIDADE. CRITÉRI O DA VANTAGEM AUFERIDA PREVISTO NO ART. 57 DO CDC. ARGUMENTAÇÃO GENÉRICA. SÚMULA 284/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
