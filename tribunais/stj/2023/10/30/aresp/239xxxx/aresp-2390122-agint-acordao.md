@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 24/10/2023 a 30/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de indenização por danos materiais, ajuizada em razão de danos causados em imóveis.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. Ajuizada a ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais no aguardo do julgamento da ação coletiva. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por G V N DA S e OUTROS, contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera e, nessa extensão, negou-lhe provimento.
+Ação: de indenização por danos materiais, ajuizada pelos agravantes, em face de BRASKEM S/A, em razão de danos causados em imóveis.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE CIVIL EM RAZÃO DE DANOS CAUSADOS EM MORADIAS LOCALIZADAS NO BAIRRO DO PINHEIRO. IMPUGNAÇÃO À JUSTIÇA GRATUITA DEFERIDA PARA FINS DE ADMISSIBILIDADE DO RECURSO. REJEITADA. AJUIZAMENTO PELO MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS E DA DEFENSORIA PÚBLICA DOESTADO DE ALAGOAS DA AÇÃO CIVIL PÚBLICA - ACP DE Nº 0803836-61.2019.4.05.8000, A QUAL SE ENCONTRA EM TRÂMITE NA JUSTIÇA FEDERAL DESTE ESTADO. ENTENDIMENTO SEGUNDO O QUAL AJUIZADA AÇÃO COLETIVA ATINENTE À MACRO-LIDE GERADORA DE PROCESSOS MULTITUDINÁRIOS, SUSPENDEM-SE AS AÇÕES INDIVIDUAIS, NO AGUARDO DO JULGAMENTO DA AÇÃO COLETIVA. PRECEDENTES DO STF, STJ E DESTA CORTE DEJUSTIÇA. NECESSIDADE DE SOBRESTAMENTO DO PROCESSO ORIGINÁRIO ATÉ O JULGAMENTO FINAL DA ACP. MANUTENÇÃO DA DECISÃO DO JUÍZO DE PRIMEIRO GRAU. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Decisão monocrática: conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, devido à incidência da Súmula 284/STF (quanto à alegação de violação do art. 1.022 do CPC/15), além da incidência da Súmula 568/STJ.
+Razões do agravo: Nas razões do presente recurso as agravantes apresentam os seguintes argumentos:
+a) que teriam demonstrado a violação do art. 1.022 do CPC/15, visto que o Tribunal de origem teria deixado de analisar as omissões apontadas em relação aos arts. 337, §§1º, 2º e 3º, e 1.022, do CPC/15 e aos arts. 81 e 104, do CDC e; e
+b) que a Súmula 568/STJ e os Temas 675/STF e 60/STJ seriam inaplicáveis, bem como que não estaria configurada a litispendência e não seria o caso de suspensão da ação, que seria faculdade dos agravantes.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de indenização por danos materiais, ajuizada em razão de danos causados em imóveis.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+3. Ajuizada a ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais no aguardo do julgamento da ação coletiva. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, devido à incidência da Súmula 284/STF (quanto à alegação de violação do art. 1.022 do CPC/15), além da incidência da Súmula 568/STJ.
+Veja-se o que constou na decisão (e-STJ fls. 733/737):
+- Da violação do art. 1.022 do CPC/15
+Os agravantes limitam-se a afirmar que interpuseram embargos de declaração e alguns dos vícios não teriam sido sanados, visto que não teriam sido analisadas as omissões apontadas em relação aos artigos tidos por violados (e-STJ, fls. 402/404).
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+É importante ressaltar que não basta a simples referência à oposição de embargos de declaração supostamente não analisados devidamente pelo Tribunal de origem, e sim destacar de maneira clara e objetiva quais as questões que não foram objeto de discussão e restaram, portanto, omissas.
+Desse modo, ante a argumentação genérica do agravante acerca dos supostos pontos omissos, incide a Súmula 284/STF.
+- Da Súmula 568/STJ
+Esta Corte Superior entende, nos termos do Tema 60/STJ e do Tema 675/STF, que "ajuizada a ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais no aguardo do julgamento da ação coletiva" (AgInt no AREsp n. 2.105.000/AL, 4ª Turma, DJe de 14/12/2022).
+Ainda nesse sentido: AgInt no AREsp n. 2.260.238/AL, 3ª Turma, DJe de 17/5/2023; e AgInt no AREsp n. 1.798.948/RS, 4ª Turma, DJe de 24/8/2021.
+Na hipótese, o Tribunal de origem decidiu nos seguintes termos (e-STJ, fls. 342/345):
+Conforme é consabido, o Supremo Tribunal Federal, por meio do tema 675, consolidou o entendimento de que ajuizada ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais até o julgamento da ação coletiva e não por um ano, como levantado pelas partes agravantes. Não houve, de fato, reconhecimento da repercussão geral na hipótese, mas, em seu voto condutor, o Ministro relator trouxe importantes esclarecimentos, senão vejamos:
+ ..  Na identificação da macro-lide multitudinária, deve-se considerar apenas o capítulo substancial do processo coletivo. No ato de suspensão não se devem levar em conta peculiaridades da contrariedade (p. ex., alegações diversas, como as de ilegitimidade de de parte, de prescrição, de irretroatividade de lei, de nomeação de gestor, de julgamento por Câmaras Especiais e outras que porventura surjam, ressalvada, naturalmente, a extinção devido à proclamação absolutamente evidente e sólida de pressupostos processuais ou condições da ação), pois, dada a multiplicidade de questões que podem ser enxertadas pelas partes, na sustentação de suas pretensões, o não sobrestamento devido a acidentalidades de cada processo individual levaria à ineficácia do sistema.
+Para além, a Corte da Cidadania também possui jurisprudência no sentido de suspender ações individuais até o julgamento da ação coletiva conglobante, semelhante ao caso dos presentes autos, inclusive em sede de Recurso Especial Repetitivo. Vejamos:
+EMENTA:RECURSOESPECIALREPRESENTATIVODE CONTROVÉRSIA. AÇÃO INDIVIDUAL DE INDENIZAÇÃO POR SUPOSTO DANO AMBIENTAL NO MUNICÍPIO DE ADRIANÓPOLIS. AÇÕES CIVIS PÚBLICAS. TUTELA DOS DIREITOS INDIVIDUAIS HOMOGÊNEOS. EVENTO FACTUAL GERADOR COMUM. PRETENSÕES INDENIZATÓRIAS MASSIFICADAS. EFEITOS DA COISA JULGADA. INEXISTÊNCIA DE PREJUÍZO À REPARAÇÃO DOS DANOS INDIVIDUAIS E AO AJUIZAMENTO DE AÇÕES INDIVIDUAIS. CONVENIÊNCIA DA SUSPENSÃO DOS FEITOS INDIVIDUAIS. EXISTÊNCIA. 1. A tese a ser firmada, para efeito do art.1.036 do CPC/2015 (art. 543-C do CPC/1973), é a seguinte: Até o trânsito em julgado das Ações Civis Públicas n. 5004891-93. 2011.4004.7000 e n. 2001.70.00.019188-2, em tramitação na Vara Federal Ambiental, Agrária e Residual de Curitiba, atinentes à macrolide geradora de processos multitudinários em razão de suposta exposição à contaminação ambiental decorrente da exploração de jazida de chumbo no Município de Adrianópolis-PR, deverão ficar suspensas as ações individuais. 2. No caso concreto, recurso especial não provido. (STJ - REsp: 1525327 PR 2015/0037555-8,Relator:MinistroLUISFELIPESALOMÃO,Datade Julgamento:12/12/2018, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 01/03/2019)(grifos aditados)
+EMENTA: PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. SUSTAÇÃODEANDAMENTODEAÇÕESINDIVIDUAIS. POSSIBILIDADE. PRECEDENTES. SÚMULA 168/STJ. 1. Cinge-se a controvérsia em verificar a necessidade ou não de suspensão das ações individuais em que se pleiteia indenização por dano moral, em razão de suposta exposição à contaminação ambiental, decorrente da exploração de jazida de chumbo no Estado do Paraná, até o julgamento de ações civis públicas relativas ao mesmo objeto. 2. " A juizada ação coletiva atinente a macrolide geradora de processos multitudinários, suspendem-se as ações individuais, no aguardo do julgamento da ação coletiva" (REsp1.353.801/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, submetido ao rito do art. 543-C, do CPC, DJe de 23/8/2013). Na mesma linha: AgRg nos EAREsp 585.756/PR, Rel. Ministro Og Fernandes, Corte Especial, DJe de de 31/8/2015. Incidência da Súmula 168/STJ. 3. Agravo regimental não provido. (STJ - AgRg nos EAREsp: 714202 PR2015/0102777-0, Relator: Ministro BENEDITO GONÇALVES, Julgamento:06/04/2016, CE - CORTE ESPECIAL, Publicação: 06/05/2016) (grifos aditados)
+Ademais, esta 2ª Câmara Cível, possui entendimento recente no mesmo sentido, senão vejamos:
+(..)
+A 1ª Câmara Cível, nos autos de nº 0808635-08.2020.8.02.000, de relatoria da Desa. Elisabeth Carvalho Nascimento, também obteve a mesma conclusão, bem como a 3ª Câmara Cível, em decisão proferida pelo Des. Alcides Gusmão da Silva nos autos de nº 0803515-81.2020.8.02.0000.
+Deste modo, como a decisão de primeiro grau agravada justamente determinou a suspensão do feito até que ocorra o julgamento da Ação Civil Pública nº.0803836-61.2019.4.05.8000, em tramitação na 3ª Vara Federal de Alagoas, entendo que esta não merece retoques.
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+1. Da Súmula 284/STF
+Em relação à apontada violação do art. 1.022 do CPC/15, verifico que as agravantes, em suas razões de apelo extremo, limitaram-se a aduzir que não teriam sido analisadas as omissões apontadas em relação aos artigos tidos por violados (e-STJ, fls. 402/404):
+D.1 DA VIOLAÇÃO AO ART. 1.022, II DO CPC
+O art. 1.022 do CPC/2015, expressamente invocado em segundo grau de jurisdição, prevê o cabimento de embargos de declaração contra qualquer decisão judicial para "esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento e corrigir erro material".
+Quando os embargos de declaração são opostos, mas os vícios apontados - se existentes - não são sanados, torna-se possível e necessária a interposição de recurso especial com fundamento no art. 105, III, "a", da Constituição, por violação ao art. 1.022 do CPC.2015. Nesse sentido:
+(..)
+O recorrente opôs embargos de declaração, demonstrando a ocorrência dos vícios. Porém, alguns dos vícios apontados não foram sanados pelo Tribunal a quo, o que evidencia a ocorrência da violação ao art. 1.022 do CPC/2015. Isso porque, o acórdão recorrido deixou de analisar as omissões apontadas em relação ao art.337, §§1º, 2º e 3ºdo CPC c/c art. 81 e 104 do CDC e art. 313, §4º, do CPC.
+Diante disso, há entendimento por este Egrégio Tribunal Superior no sentido de que deve ser reformado acórdão que viole o referido artigo, conforme ementado:
+(..)
+Neste cenário, é cristalino o fato de que a r. decisão, ao deixar de se pronunciar a respeito de artigos de Lei Federal trazidos nas razões dos aclaratórios importa em clara afronta ao artigo 1.022 e incisos, na medida em que as omissões não foram sanadas.
+Assim, a omissão relativa a esse fundamento não foi sanada quando do julgamento dos Embargos de Declaração, o que evidencia a violação ao art. 1.022, II do CPC, apta a ensejar a anulação do acórdão recorrido. É o que se requer, desde logo.
+Quanto ao ponto, verifica-se que, de fato as agravantes, deixaram de explicitar especificamente quais as questões que não teriam sido apreciadas pela Corte de origem e a importância de sua apreciação para o correto deslinde da controvérsia.
+Nesse panorama, a fundamentação da alegada violação aos referidos dispositivos mostrou-se deficiente, ensejando a incidência da Súmula 284/STF.
+2. Da Súmula 568/STJ
+Com efeito, não há qualquer equívoco na aplicação da Súmula 568/STJ, tendo em vista que, de fato, o acórdão proferido pelo TJ/AL, ao entender que a hipótese seria de suspensão da ação até o julgamento da ação coletiva (e-STJ, fls. 342/345), alinhou-se entendimento adotado por esta Corte Superior, nos termos do Tema 60/STJ e do Tema 675/STF, no sentido de que "ajuizada a ação coletiva atinente a macro-lide geradora de processos multitudinários, suspendem-se as ações individuais no aguardo do julgamento da ação coletiva" (AgInt no AREsp n. 2.105.000/AL, 4ª Turma, DJe de 14/12/2022).
+Também nesse sentido: AgInt no AREsp n. 2.260.238/AL, 3ª Turma, DJe de 17/5/2023; e AgInt no AREsp n. 1.798.948/RS, 4ª Turma, DJe de 24/8/2021.
+Inviável, portanto, a inaplicabilidade da Súmula 568/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
