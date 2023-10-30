@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de KEVIN MATHEUS SOUZA DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado às penas de 05 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa, por infração ao artigo 33, caput, da Lei 11.343/06, nos termos da sentença de fls. 61-68.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 70-83.
+No presente writ, o impetrante sustenta que o acórdão impugnado padece de flagrante ilegalidade, consistente na negativa à aplicação da causa especial de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.343/06, despida de fundamentação idônea.
+Requer, ao final, liminarmente e no mérito, a concessão da ordem de modo que seja aplicada a causa especial de redução de pena do § 4º do artigo 33 da Lei 11.343/06, com o consequente redimensionamento das penas, substituição da pena privativa de liberdade por restritiva de direitos ou fixação do regime inicial semiaberto.
+O pedido liminar foi indeferido às fls. 86-87.
+Informações prestadas às fls. 94-97 e 100-124.
+O Ministério Público Federal, às fls. 126-138, opinou pelo não conhecimento do writ ou pela denegação da ordem.
+É o relatório. DECIDO.
+A controvérsia consiste na suposta ilegalidade na negativa à incidência do privilégio previsto no parágrafo 4º do art. 33 da Lei n. 11.343/06, na terceira etapa da dosimetria.
+Registro, de início, que o presente writ constitui reiteração de pedido já julgado no HC n. 852.424 / SP, de minha relatoria, em decisão publicada em 16/10/2023, em que foi denegada a ordem de habeas corpus, de mesmo objeto, impetrado em favor do ora paciente contra o mesmo acórdão.
+Saliento que, na decisão mencionada, restou devidamente fundamentada a inocorrência de ilegalidade flagrante a ser sanada na estreita via do habeas corpus, consoante trechos colacionados a seguir:
+"Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No presente caso, ao contrário do que aduz a defesa, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada não somente na quantidade de drogas apreendidas (534,1g de maconha, distribuídos em 186 invólucros e 80g de cocaína, distribuídos em 260 invólucros), mas também nas circunstâncias concretas da prisão do paciente e da apreensão das drogas, consoante apontado na sentença condenatória.
+Com efeito, consta dos autos que, após o paciente empreender fuga, ingressou em residência na qual foi apreendido simulacro de arma de fogo, bem como uma balaclava, além dos entorpecentes em posse do paciente, circunstâncias concretas que são aptas a ensejar a conclusão pela dedicação às atividades criminosas e a afastar a redutora do tráfico privilegiado.
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Sobre o tema: AgRg no HC 695.891/GO, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 13/12/2021; e AgRg no HC 652.335/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 13/12/2021.
+No que tange ao regime inicial de cumprimento de pena, cumpre registrar que o Plenário do Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo.
+Para tanto, devem ser observados os preceitos constantes dos artigos 33 e 59, ambos do Código Penal. Esse também é entendimento perfilhado por esta Corte (HC n. 239.999/MS, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 21/8/2014; HC n. 271.147/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 26/9/2014.
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, é necessária fundamentação específica, com base em elementos concretos extraídos dos autos.
+Nesse sentido, "ainda que a pena-base seja estabelecida no mínimo legal, admite-se a fixação de regime inicial mais gravoso, se declinada motivação idônea para tanto, que evidencie a gravidade concreta do delito" (AgRg no HC n. 833.799/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 30/8/2023).
+No presente caso, não há ilegalidade na fixação do regime prisional inicial fechado, uma vez que houve fundamentação idônea a ensejar a aplicação do regime mais gravoso, lastreada nas circunstâncias concretas do delito, em especial na quantidade e na variedade de entorpecentes apreendidos, em consonância com o entendimento desta Corte, consoante art. 33, parágrafo 2º, b, e parágrafo 3º, do Código Penal, e art. 42 da Lei n. 11.343/06.
+Sobre o tema: AgRg no HC n. 795.704/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 31/5/2023; AgRg no HC n. 728.354/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 1/4/2022; AgRg no HC n. 475.281/MS, Quinta Turma, Rel. Ministro Felix Fischer, DJe de 26/2/2019.
+Ante o exposto, denego a ordem de habeas corpus." (fls. 115-117)
+Nesse passo, "Inviável o reexame de matéria já apreciada em mandamus anteriormente julgado, configurada a inadmissível reiteração de pedido, conforme art. 210 do Regimento Interno do STJ" (AgRg no HC n. 756.282/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/10/2022).
+Em reforço: AgRg no RHC n. 161.259/GO, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 14/3/2023; e AgRg no HC n. 760.498/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 10/3/2023.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
