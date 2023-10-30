@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - RECURSO QUE VERSA EXCLUSIVAMENTE SOBRE HONORÁRIOS - GRATUIDA DE DE JUSTIÇA - COMPROVAÇÃO DE HIPOSSUFICIÊNCIA - DESERÇÃO AFASTADA - VALOR DOS HONORÁRIOS - APRECIAÇÃO EQUITATIVA -RECURSO PARCIALMENTE PROVIDO
+- Se o recurso versa exclusivamente sobre valor de honorários de sucumbência fixados em favor do advogado de beneficiário, este estará sujeito a preparo, salvo se também comprovar o preenchimento dos requisitos para a concessão dos benefícios da justiça gratuita (art. 99, §5º, CPC).
+- Considerando as peculiaridades do caso concreto e a insuficiência dos parâmetros ordinários de arbitramento dos honorários advocatícios sucumbenciais, a verba honorária deve ser fixada por apreciação equitativa, com o sopesamento dos limites quantitativos (art. 85, § 2º, CPC) e qualitativos (art. 85, §2º, I a IV, CPC), nos termos do § 8º do referido dispositivo" (fl. 289 e-STJ)
+Opostos embargos de declaração, foram rejeitados.
+A recorrente aponta violação ao art. 85, § § 2º e 8º, do Código de Processo Civil, sustentando que os honorários advocatícios não podem ser arbitrados por equidade no presente caso, tendo em vista que possível a utilização do valor da causa como base de cálculo para tanto.
+Contrarrazões às fls. 350/353 e-STJ.
+Juízo de admissibilidade proferido às fls. 359/361 e-STJ.
+O recurso especial não merece provimento.
+No caso, o Tribunal de origem justificou a fixação da verba honorária, tendo por base o valor da causa, nos seguintes termos:
+"A controvérsia recursal cinge-se ao valor arbitrado a título de honorários de sucumbência.
+Alega a parte apelante que d. Juízo de origem fixou os honorários advocatícios em 10% do valor da condenação, o que corresponderia a R$158,00 (cento e cinquenta e oito reais). Aduz, assim, que tal valor é insuficiente para preservar não só a dignidade do advogado, mas também da advocacia como um todo, requerendo o arbitramento dos honorários advocatícios pelo critério do valor da causa.
+No que concerne à fixação dos honorários advocatícios de sucumbência, entendo que a pretensão de sua modificação, manifestada no recurso, comporta acolhida, embora não nos moldes pleiteados.
+O artigo 85 do Código de Processo Civil dispõe, em seu § 2º, a gradação ordenada de parâmetros para a fixação dos honorários, in verbis:
+(..)
+Na hipótese dos autos, os honorários advocatícios foram fixados sobre o valor da condenação, o qual, ao menos a princípio, se revela ilíquido diante da necessidade de apuração aritmética dos valores cobrados a maior pelo apelado, cuja restituição fora determinada na r. sentença recorrida.
+A parte apelante, fundamentando a pretensão de revisão, apresentou cálculos do valor da condenação, apurando-se a quantia aproximada de R$ 1580,00, correspondente à soma das tarifas indevidas e estimativa após o decote da cumulação da comissão de permanência com outros encargos. Em que pese a necessidade de liquidação da sentença para real apuração do valor devido, tal liquidação não revela complexidade, na medida em que limitada a cálculos aritméticos das tarifas cobradas a maior pelo apelado, consoante apresentado pelo apelante.
+Assim, é possível concluir que a fixação dos honorários de sucumbência sobre o valor da condenação se revela irrisório, ainda que majorados até o limite legal de 20%.
+Por outro lado, a aplicação do critério do valor da causa também não se revela proporcional aos parâmetros constantes dos incisos do § 2º do art. 85, do CPC, vez que, mesmo em patamar mínimo, poderia ensejar enriquecimento ilícito, correspondendo a quase o dobro do importe auferido pela parte autora a título de condenação.
+Desta feita, a fixação dos honorários, no caso, deve se dar por apreciação equitativa, com o sopesamento dos limites quantitativos (art. 85, § 2º) e qualitativos (art. 85, § 2º, I a IV), nos termos do art. 85, § 8º, com detida observação do grau de zelo do profissional, do lugar de prestação do serviço, da natureza e da importância da causa, do trabalho realizado pelo advogado e pelo tempo exigido para o seu serviço.
+(..)
+Por tais razões, DOU PARCIAL PROVIMENTO AO RECURSO para modificar o critério de arbitramento dos honorários de sucumbência, os quais fixo, de forma equitativa, em R$ 1.000,00 (um mil reais), incluídos os recursais, com fundamento no art. 85, § § 2º e 8º, do CPC" (fls. 292/294 e-STJ).
+Sobre o tema, este Superior Tribunal de Justiça possui jurisprudência no sentido de que "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo" (REsp n. 1.850.512/SP, Relator Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 16/3/2022, DJe de 31/5/2022).
+Nesse contexto, admite-se o arbitramento por equidade quando o proveito econômico for irrisório, como ocorre no caso em que a condenação foi no valor de R$ 1.580,00.
+Ao contrário do alegado pelo recorrente, entendo que, no caso, o valor da causa não é parâmetro idôneo para a estimativa da condenação em honorários por equidade em favor do advogado, porque, caso utilizado, o montante superaria em muito o próprio valor da condenação em prol de seu constituinte
+Desse modo, observados os parâmetros indicados nos incisos do § 2º do art. 85 do CPC, entendo que o valor dos honorários devem ser mantidos, nos termos estabelecidos pelo Tribunal de origem.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
+EMENTA
