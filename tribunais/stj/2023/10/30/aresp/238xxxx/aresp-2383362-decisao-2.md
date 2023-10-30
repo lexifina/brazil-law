@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se  de  agravo  contra  decisão  que  não admitiu o  recurso  especial  de DAISEN EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA e TRISUL S.A. , interposto com fulcro no art. 105, III, "a", da Constituição Federal,  em  face  de  acórdão  do TJSP  assim  ementado  (fl.  862):
+COMPRA E VENDA DE IMÓVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. Sentença de parcial procedência. Recurso das partes. Alegação de vício de fundamentação. Não ocorrência. Sentença fundamentada nas provas dos autos. Expiração do prazo de garantia dos itens apurados. Inexistência. Indenização por vícios de construção tem prazo prescricional de 10 anos. Artigo 205 do CC. Alegação de que os danos foram causados por ausência de manutenção. Não acolhimento. Laudo pericial aponta vícios construtivos de pequena monta, com origem endógenas. Previsão contratual de existência de caixas d"água na unidade residencial do autor. Substituição por reservatório comum no condomínio. Ausência de prejuízo no abastecimento. Instalação de forro de gesso em lugar de laje. Conversão em perdas e danos. Valor dos danos apontados no laudo pericial. Orçamentos apresentados pelo Perito de acordo com as regras técnicas. Autor concordou com os esclarecimentos do Perito, nada tendo a reclamar. Dano moral inexistente. Sentença mantida. RECURSOS NÃO PROVIDOS.
+Na origem, trata-se de ação de obrigação de fazer c/c indenização por danos morais em face do descumprimento contratual na entrega do imóvel, ajuizada por CAIO ROBERTO RONCON em desfavor da parte agravante.
+A pretensão autoral foi julgada parcialmente procedente, para condenar a requerida, ora agravada, ao pagamento dos valores indicados em laudo pericial.
+A decisão singular foi mantida pela Corte de origem, consoante se depreende da ementa supracitada.
+Nas  razões  do  recurso  especial (fls. 871-885),  a parte  agravante  sustenta violação aos arts. 479 e 489, § 1º, II e IV, do Código de Processo Civil.
+Afirma que não houve a devida apreciação da prova pericial. Alega que os danos constatados em laudo pericial não decorreram de qualquer ação ou omissão de sua parte. Considera estarem comprovados a expiração do prazo de garantia e a falta de manutenção do imóvel pela parte agravada, resultando nas anomalias verificadas no laudo.
+Argumenta que, "se o contrato firmado previa a existência de garantia para determinados itens, com a expressa indicação do prazo para tanto, bem como a obrigatoriedade dos moradores em realizarem a manutenção periódica e preventiva do imóvel, verdadeiramente ilegal a premissa que oportunizou ao Recorrido o prazo de 10 (dez) anos para requerer das Recorrentes a reparação por eventuais vícios construtivos" (fl. 879).
+Defende que, "apesar de o perito ter classificado tais danos como de natureza endógena, o assistente técnico das Rés demonstrou, de forma extremamente clara, que estes decorreram da desídia do Recorrido em repará-los, nos termos do contrato pactuado" (fl. 879).
+Destaca que a não observância, pelo agravado, dos procedimentos de manutenção indicados resulta em perda de garantia. Considera que cumpriu integralmente a avença entabulada.
+Contrarrazões apresentadas (fls. 917-922).
+Juízo negativo de admissibilidade (fls. 941-943), ensejando a interposição do presente agravo.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Não assiste razão à parte agravante.
+Inicialmente, no que se refere à alegada violação ao art. 489 do CPC/2015, verifica-se que, nas razões do especial, a agravante não indica de forma clara a suposta violação ao conteúdo normativo do referido dispositivo, circunstância a atrair a incidência da Súmula 284/STF.
+Consoante entendimento jurisprudencial desta Corte, "a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência. Incidência da Súmula 284 do STF" (AgInt no REsp n. 1.747.905/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe de 17/10/2019).
+Na mesma direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 141, 322, § 1º, E 491 DO CPC. ART. 394 DO CC. MERA INDICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. ALEGAÇÃO DE OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO. SÚMULA N. 518 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DEFICIÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.176.348/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/4/2023, DJe de 26/4/2023.)
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS IRRISÓRIOS. ART. 20, § 4º, DO CPC. MAJORAÇÃO.
+1. Na instância especial não basta a mera indicação do dispositivo supostamente violado, pois as razões recursais devem exprimir com clareza e objetividade os motivos pelos quais o recorrente visa a reforma da decisão. Súmula 284 do STF.
+2. O posicionamento desta Corte é pacífico no sentido de que é possível a revisão da verba honorária arbitrada pelas instâncias ordinárias quando demonstrado se tratar de valor irrisório ou exorbitante. Precedentes.
+3. Honorários majorados para valores mais dignos ao exercício da advocacia.
+4. Recurso especial interposto pelo embargante não provido, provido o recurso interposto pela embargada.
+(REsp n. 1.395.227/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/12/2014, DJe de 17/12/2014.)
+No caso, verifica-se que o Tribunal de origem, mediante análise dos elementos probatórios dos autos, concluiu pela responsabilização da agravante ao constatar a existência de vícios construtivos de origem endógena de pequena monta, Consignou que tais vícios não decorreram da falta de manutenção pela parte agravada. Destacou ainda que, na execução da obra, foi utilizado material diverso daquele estipulado na planta e no memorial descritivo aprovado pela Prefeitura.
+Confira-se (fl. 867):
+O laudo pericial realizado em juízo e juntado às fls.606/634, com esclarecimentos de fls. 702/705, concluiu pela existência de vícios construtivos de pequena monta, com a necessidade de substituição do revestimento de piso e paredes do banheiro social, bem como que a planta e o memorial descritivo aprovados pela Prefeitura Municipal de São Carlos previam que as casas teriam forro em laje sobre os dormitórios e circulação íntima no pavimento superior, porém foi executado forro de gesso.
+Em que pese o fato de o forro ser de gesso não ter desvalorizado o imóvel, fato é que a expectativa do adquirente, em relação a alteração do previsto, foi frustrada, bem como, a sensação de que foi cobrado por um acabamento e recebeu outro.
+Como bem esclarecido pelo Perito, há equívoco no entendimento do Assistente Técnico da ré, e que, se do memorial descritivo possa restar dúvida, ela resta dirimida pelo projeto que deixa patente apenas sobre o banheiro a existência de forro falso de gesso, sendo o restante em laje.
+Insta ainda consignar que, às fls. 704, o Perito afastou a possibilidade de que os vícios seriam originários da falta de manutenção, eis que possuem origem endógena, tratando-se de vícios construtivo, portanto, patente a responsabilidade da parte ré na forma como determinou a sentença.
+Em tal contexto, rever a conclusão do acórdão recorrido - para afastar a responsabilidade da agravante - demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Confiram-se, a propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SEGURO HABITACIONAL. PROVA. VALORAÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VÍCIOS DE CONSTRUÇÃO. SEGURADORA. RESPONSABILIDADE. LIMITES CONTRATUAIS. RISCO DE DESMORONAMENTO. AUSÊNCIA. REVISÃO. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o acolhimento da tese recursal, no sentido de que o tribunal de origem não considerou a prova técnica solicitada pelo juiz singular, demandaria a análise de aspectos fático-probatórios dos autos, procedimento inviável em recurso especial diante da incidência da Súmula nº 7/STJ.
+3. O Superior Tribunal de Justiça entende que, nos contratos de seguro habitacional obrigatório, no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, nos termos previstos na apólice. Precedentes.
+4. No caso, rever a conclusão firmada pelas instâncias ordinárias, de que inexiste risco de desmoronamento do imóvel a ensejar o pagamento da indenização, demandaria o reexame do contexto fático-probatório e a análise de cláusulas contratuais, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não há similitude fática entre os julgados recorrido e paradigma.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.713.474/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). AGRAVO NÃO PROVIDO.
+1. "A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional.".
+(AgInt no AREsp n. 1.711.018/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/4/2021, DJe 12/5/2021.) 2. Rever as conclusões do acórdão recorrido em relação às reparações pelos danos causados em face das violações às regras estipuladas nas cláusulas contratuais, revelar-se-ia imprescindível a incursão no acervo fático-probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, ante o óbice das Súmulas 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.826.909/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. REPARAÇÃO POR DANOS MATERIAIS E MORAIS. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. FUNDAMENTAÇÃO DEFICIENTE. INEXISTÊNCIA. VEROSSIMILHANÇA DAS ALEGAÇÕES. COMPROVAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. A eg. Corte de origem, com fundamento nas provas documentais trazidas aos autos, determinou a inversão do ônus da prova em razão da demonstração da verossimilhança nas alegações apresentadas pelo consumidor no tocante ao descumprimento do prazo contratual para entrega do imóvel e a existência de vícios construtivos. A reforma desse entendimento demandaria o reexame das provas dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.825.464/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/10/2021, DJe de 17/11/2021.)
+Em  face  do  exposto,  nego  provimento  ao  agravo.
+N os termos do art. 85, §11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos no § 2º do mesmo dispositivo.
+Intimem-se.
+EMENTA
