@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal do Rio Grande do Sul assim ementado (e-STJ, fl. 98):
+APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DODEVEDOR. INVALIDADE. EXTINÇÃO DA AÇÃO. INCABÍVEL A EMENDA DA INICIAL NO CASO PRESENTE. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR CONSTANTE NO CONTRATO, DESATENDENDO, POIS, O DISPOSTO NO ART. 2º, §2º, DO DECRETO-LEI Nº 911/69. INVALIDADE DO ATO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO (ART. 485, INC. IV, DO CPC/15). EXTINÇÃO DA PRESENTE AÇÃO. ADEMAIS, INCABÍVEL A EMENDA DA INICIAL NO CASO CONCRETO. APELAÇÃO IMPROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 124-125).
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação do art. 2º, § 2º, do Decreto-Lei n. 911/1969.
+Esclarece que se opõe ao acórdão por declarar a extinção da ação de busca e apreensão sem julgamento do mérito. Defende a validade da notificação extrajudicial encaminhada ao endereço do consumidor indicado no contrato e não entregue pelo "motivo ausente".
+Afirma que a entrega não ocorreu por culpa exclusiva do recorrido, tendo em vista que seria de responsabilidade dele informar qualquer alteração cadastral, bem como apresentar os dados corretos ou endereço no qual seja possível receber correspondências, diante do princípio da boa-fé contratual. Requer o provimento do recurso especial (e-STJ, fls. 156-168).
+Contraminuta não apresentada (e-STJ, fl. 173).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 174-177).
+Brevemente relatado, decido.
+O acórdão justificou a extinção da ação de busca apreensão com base na premissa de que não teria havido notificação extrajudicial válida. Argumentou-se que o devedor estava ausente nas 3 (três) vezes em que foi procurado no endereço declinado no contrato, contudo não existiu posterior protesto via edital, o qual deve ser prévio ao ajuizamento da demanda
+Leia-se (e-STJ, fl. 991-101):
+No caso concreto, não houve válida notificação. Constata-se que a notificação extrajudicial deixou de ser entregue no endereço do devedor constante no contrato, desatendendo, pois, o disposto no art. 2º, §2º, do Decreto-Lei nº 911/69, o que acarreta a invalidade da medida para fins de comprovação da mora, salientando-se, ainda, que em tendo sido apontado estar ausente o devedor por três vezes procurado, não foi procedido posterior protesto via edital (art. 15 da Lei n.9.492/97, REsp 1.398.356/MG), protesto esse, no entanto, que deve ser prévio ao ajuizamento dademanda2. Assim, não atendido(s) requisito(s) legal(ais) atinente(s) à efetiva comprovação da mora, está ausente pressuposto de constituição e de desenvolvimento válido e regular do processo(art. 485 inciso IV, do Código de Processo Civil/2015), impondo-se a extinção da presente ação.
+Contudo, em recentes julgados sob a sistemática dos recursos repetitivos (REsps 1.951.662/RS e 1.951.888/RS), foi firmada a tese no Tema n. 1.132/STJ a seguida em casos similares.
+Neles ficou consignado que, para a comprovação da mora nos contratos garantidos por alienação fiduciária, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+Vejam-se:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto:
+Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.662/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023.)
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. AFETAÇÃO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA N. 1.132. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA COM GARANTIA. COMPROVAÇÃO DA MORA. NOTIFICAÇÃO EXTRAJUDICIAL COM AVISO DE RECEBIMENTO. PROVA DE REMESSA AO ENDEREÇO CONSTANTE DO CONTRATO. COMPROVANTE DE ENTREGA. EFETIVO RECEBIMENTO. DESNECESSIDADE.
+1. Para fins do art. 1.036 e seguintes do CPC, fixa-se a seguinte tese: Em ação de busca e apreensão fundada em contratos garantidos com alienação fiduciária (art. 2º, § 2º, do Decreto-Lei n. 911/1969), para a comprovação da mora, é suficiente o envio de notificação extrajudicial ao devedor no endereço indicado no instrumento contratual, dispensando-se a prova do recebimento, quer seja pelo próprio destinatário, quer por terceiros.
+2. Caso concreto:
+Evidenciado, no caso concreto, que a notificação extrajudicial foi enviada ao devedor no endereço constante do contrato, é caso de provimento do apelo para determinar a devolução dos autos à origem a fim de que se processe a ação de busca e apreensão.
+3. Recurso especial provido.
+(REsp n. 1.951.888/RS, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 9/8/2023, DJe de 20/10/2023.)
+Logo, seja por ausência de recebimento ou não, o acórdão atesta que a carta com aviso de recebimento foi enviada ao endereço do devedor, portanto não cabe falar em carência de constituição em mora.
+Conforme decidido no julgamento sob a sistemática do art. 543-C do CPC, basta o encaminhamento, sendo desnecessária a prova de seu recebimento por alguém, logo é irrelevante ter a parte se mudado ou não se encontrar no local no momento da entrega da correspondência.
+É de rigor, portanto, o afastamento da extinção sem resolução do mérito, devendo haver a continuidade da demanda.
+Ante o exposto, dou provimento ao recurso especial para afastar a extinção da ação de busca e apreensão sem resolução do mérito, devendo ocorrer seu processamento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO DE FINANCIAMENTO COM GARANTIA POR ALIENAÇÃO FIDUCIÁRIA. CONSTITUIÇÃO EM MORA COM ENVIO DE NOTIFICAÇÃO AO ENDEREÇO DO DEVEDOR INFORMADO NO CONTRATO. EXIGÊNCIA CUMPRIDA. TESE FIRMADA NO TEMA 1.132/STJ. AFASTAMENTO DA EXTINÇÃO DA DEMANDA SEM RESOLUÇÃO DO MÉRITO. RECURSO ESPECIAL PROVIDO.
