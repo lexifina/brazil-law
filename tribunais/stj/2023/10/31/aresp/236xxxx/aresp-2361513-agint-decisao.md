@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interno interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA. contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, por ausência de impugnação específica aos fundamentos da decisão que não admitiu o recurso especial (e-STJ, fls. 455-457).
+Em suas razões, a agravante alega, em síntese, que, no agravo em recurso especial, há tópico específico quanto a não incidência da Súmula n. 7/STJ; que não há falar em reexame do conjunto fático-probatório dos autos; que o acórdão omitiu-se, o que implica negativa de prestação jurisdicional; bem como que os arts. 167 e 422, ambos do Código Civil, foram violados.
+Impugnação não apresentada (e-STJ, fl. 481).
+Tendo por plausíveis as alegações trazidas pela agravante no agravo interno, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão monocrática outrora proferida (e-STJ, fls. 455-457), conheço do agravo e passo ao exame do recurso especial interposto.
+Nas razões do recurso especial, a recorrente alegou a ofensa ao art. 489, §1º, inciso V, do CPC/2015, sustentando, em síntese, que o "acórdão não se pronunciou acerca da suspensão do prazo prescricional em razão da Ação Civil Pública nº 0003769- 81.2000.8.26.0045 e do dever descumprido pelo recorrido, de depositar em juízo os aluguéis vincendos" (e-STJ, fl. 402).
+Afirmou, ainda, a violação aos arts. 167 e 422, ambos do Código Civil, preconizando que não houve a demonstração da ocorrência de nenhuma das hipóteses previstas em lei para o reconhecimento da simulação do contrato, bem como que a boa-fé objetiva, na modalidade venire contra factum proprium, foi transgredida.
+O Tribunal de origem, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 329-333; sem grifo no original):
+No mérito, verifica-se que as partes celebraram, em novembro/1997, "instrumento particular de contrato de locação de terreno urbano", tendo por objeto o lote 064, quadra 18, do loteamento Parque Rodrigo Barreto, no Município de Arujá-SP (fls. 24/25).
+A autora alega que o réu está inadimplente desde novembro/1999, tendo ajuizado a ação apenas em fevereiro/2014.
+Como efeito, como se pode verificar, o contrato tem por objeto a locação de terreno urbano sem nenhuma edificação ou benfeitoria.
+De outro lado, foi convencionado na cláusula terceira que: "0 prazo de locação é de DOIS ANOS E MEIO (30 MESES) iniciando-se em 10.11.1997 e ultimando-se em 10.05.2000 data em que o locatário se obriga a restituir o imóvel sem direito a retenção ou indenização por quaisquer benfeitorias ainda que necessárias as quais desde logo incorporadas no imóvel. " (fls. 24).
+Ora, como arguido pelo réu, trata-se de contrato simulado de compra e venda de terreno como se afere do contexto dos autos e como já acolhido em diversas outras ações julgadas por este E. Tribunal relativos a contratos similares envolvendo terrenos no Parque Rodrigo Barreto em Arujá:  ..
+Assim, diante dos elementos constantes nos autos, permanece descaracterizada a relação locatícia entre as partes.
+Com efeito, quanto à alegada violação ao art. 489, §1º, inciso V, do CPC/2015, verifica-se que razão não assiste à agravante, pois o Tribunal de origem, ao concluir que a demanda trata de contrato simulado de compra e venda de terreno e que está descaracterizada a relação locatícia entre as partes, decidiu a matéria controvertida de forma clara, coerente e fundamentada, ainda que contrariamente aos interesses da parte.
+Ressalte-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da agravante, não se pode negar ter havido, por parte do Tribunal de Justiça, efetivo enfrentamento e resposta aos pontos controvertidos, não merecendo guarida, pois, a suscitada ofensa ao art. 489 do CPC/2015.
+A propósito (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489, § 1º, IV, E 1.022, II, DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489, § 1º, IV, e 1.022, II, e parágrafo único, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.145.195/MG, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022)
+Ademais, percebe-se que rever os fundamentos do aresto recorrido, mormente quanto à simulação do contrato de compra e venda, exigiria a reinterpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, providências que encontram óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Guardadas as particularidades do caso, confiram-se (sem grifo no original):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. NEGÓCIO JURÍDICO. SIMULAÇÃO. ANULAÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. O afastamento das conclusões da Corte de origem, quanto à comprovação da simulação do negócio jurídico para ocultação da prática de agiotagem com pacto comissório real, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.654.836/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/6/2020, DJe de 1/7/2020.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE DESPEJO. AÇÃO DECLARATÓRIA DE NULIDADE DO CONTRATO DE LOCAÇÃO E DA ESCRITURA DE COMPRA E VENDA DO IMÓVEL COM PACTO DE RETROVENDA. NEGÓCIO SIMULADO. PACTO COMISSÓRIO. NULIDADE. SÚMULA 7/STJ. IMPROVIMENTO.
+1.- A convicção a que chegou o Tribunal a quo quanto à existência de negócio simulado nos contratos de locação e de compra e venda do imóvel locado com pacto de retrovenda decorreu da análise do conjunto probatório. O acolhimento da pretensão recursal demandaria o reexame do mencionado suporte. Incide nesse ponto a Súmula STJ/7.
+2.- Agravo Regimental improvido.
+(AgRg no REsp n. 1.402.546/SC, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 27/3/2014, DJe de 11/4/2014.)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, mediante juízo de retratação.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% (dois por cento) do valor atualizado da causa.
+F iquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. AÇÃO DE DESPEJO. CONTRATO DE LOCAÇÃO DE IMÓVEL. SIMULAÇÃO CARACTERIZADA. ALEGADA OFENSA AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGA R-LHE PROVIMENTO, EM JUÍZO DE RETRATAÇÃO.
