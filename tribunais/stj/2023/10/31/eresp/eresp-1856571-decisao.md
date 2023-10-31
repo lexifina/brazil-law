@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por DANIEL PEDRO MACHLUP E OUTRA contra acórdão proferido pela Quarta Turma do STJ, assim ementado (e-STJ, fl. 679):
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESCISÃO UNILATERAL. PLANO COLETIVO. POSSIBILIDADE. DECISÃO MANTIDA.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que não é abusiva a rescisão unilateral de plano de saúde coletivo pela empresa operadora, não incidindo o disposto no art. 13, parágrafo único, II, da Lei n. 9.656/1998. Precedentes.
+2. Agravo interno a que se nega provimento.
+Em suas razões (e-STJ, fls. 690-717), a parte embargante aponta divergência do acordão recorrido com o seguinte precedente da Terceira Turma: AgInt no REsp n. 1.757.070/SP, relator Ministro Paulo de Tarso Sanseverino, julgado em 23/11/2020, DJe de 27/11/2020.
+Afirma que, em ambos os casos confrontados, as operadoras efetivaram a rescisão imotivada o plano de saúde no curso do tratamento médico do beneficiário.
+Entende que deveria prevalecer a conclusão pela "impossibilidade de rescisão do contrato de plano de saúde, seja individual ou coletivo, por parte da operadora, durante o período em que o beneficiário esteja submetido a tratamento médico" (e-STJ, fl. 697).
+Brevemente relatado, decido.
+Nos termos da pacífica jurisprudência desta Corte Superior, a "admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios" (AgInt nos EREsp n. 1.799.346/SP, Corte Especial, Relator o Ministro Luis Felipe Salomão, DJe de 31/8/2021).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DISSÍDIO ENTRE O ART. 619 DO CPP E O ART. 1.022 DO CPC/2015. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA JURISPRUDÊNCIA DO STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A finalidade do embargos de divergência no âmbito do Superior Tribunal de Justiça é dirimir eventual entendimento jurisprudencial conflitante sobre teses de mérito adotado por julgados desta Corte Superior em recurso especial. Entretanto, é indispensável haver identidade ou similitude fática e jurídica entre o acórdão embargado e o aresto paradigma, cabendo ao embargante demonstrar que houve interpretação divergente acerca de situações semelhantes por meio de cotejo analítico entre os julgados confrontados, 2. No caso examinado, a embargante não comprovou a divergência jurisprudencial nos termos regimentais, pois não realizou o cotejo analítico entre os arestos confrontados, a fim de comprovar a similitude fática e jurídica, mas tão somente transcreveu as ementas e trechos do julgado apontado como paradigma.
+3. A Corte Especial deste Tribunal Superior no sentido da inadequação de confrontar em embargos de divergência julgados que interpretem o art. 1.022 do CPC/2015 (art. 535 do CPC/1973) e o art. 619 do Código de Processo Penal, pois inexistente a necessária similitude fática e jurídica das teses confrontadas.
+4. Nesse sentido:AgInt nos EDcl nos EREsp 1831775/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 24/08/2021, DJe 01/09/2021;
+AgInt nos EAREsp 865.770/MA, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 13/08/2019, DJe 22/08/2019; AgInt nos EAREsp 98.905/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/08/2018, DJe 28/08/2018; AgRg nos EAREsp 540.925/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/03/2017, DJe 21/03/2017.
+5. Agravo regimental não provido. (AgRg nos EAREsp n. 1.685.360/SC, Rel. Min. Mauro Campbell Marques, Corte Especial, julgado em 10/05/2022, DJe 12/05/2022).
+No caso, o acordão recorrido não analisou o alegado fato de o beneficiário do plano de saúde estar em tratamento médico no momento da rescisão do plano de saúde coletivo.
+Assim, não há falar em divergência de interpretação entre os arestos confrontados.
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RESCISÃO DE PLANO DE SÁUDE COLETIVO. PACIENTE EM TRATAMENTO. CIRCUSTÂNCIA NÃO AVALIADA NO ACÓRDÃO IMPUGNADO. SIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS NÃO DEMONSTRADA . EMBARGOS INDEFERIDOS LIMINARMENTE.
