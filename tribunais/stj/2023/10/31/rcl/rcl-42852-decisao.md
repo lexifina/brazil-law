@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de Reclamação, com pedido de liminar, ajuizada por SANDRA REGINA HIAL, em 14/02/2022, com fundamento no art. 105, I, f, da Constituição Federal, contra decisão do Desembargador Presidente da Turma de Uniformização dos Juizados Especiais de Barretos/SP, que, nos autos do Recurso Inominado n. 0100639-03.2021.8.26.0968, reconheceu a incompetência daquele órgão jurisdicional para o julgamento do Pedido de Uniformização endereçado ao STJ e determinou, diante da incompatibilidade entre os sistemas utilizados por aquela Turma e pelo STJ, que a parte reclamante providenciasse o protocolo do referido PUIL diretamente perante esta Corte.
+Sustenta a reclamante que "a negativa de processamento do pedido de uniformização dirigido ao STJ enseja violação do artigo 18, § 3º, da Lei 12.153/2009 e usurpação da competência da Egrégia Corte, que pode ser preservada mediante a propositura da reclamação constitucional (artigo 105, I, "f", da CF/88)" (fl. 3e).
+Assim, "requer; a) concessão de Medida Liminar para determinar a remessa do inteiro teor dos autos do PUIL n. 0100639-03.2021.8.26.0968 para seu regular processamento no Superior Tribunal de Justiça; b) seja julgada procedente a presente demanda para determinar que seja o Superior Tribunal de Justiça competente para julgar o Pedido de Uniformização de Interpretação de Lei, nos termos do artigo 18, § 3º da Lei 12.153/2009" (fl. 11e).
+O pedido de liminar restou indeferido, a fls. 41/42e.
+A autoridade reclamada apresentou informações, a fls. 52/57e.
+O Ministério Público Federal, a fls. 58/61e e 123/126e, opinou pelo não conhecimento da presente Reclamação e, caso conhecido, pela sua procedência.
+A presente Reclamação sequer merece conhecimento.
+Nos termos do art. 105, I, f, da Constituição Federal c/c o art. 988 do CPC/2015 e o art. 187 do RISTJ, cabe Reclamação da parte interessada ou do Ministério Público para preservar a competência do Tribunal, garantir a autoridade das suas decisões, garantir a observância de Enunciado de Súmula Vinculante e de decisão do STF em controle concentrado de constitucionalidade e garantir a observância de acórdão proferido em julgamento de Incidente de Resolução de Demandas Repetitivas ou de Incidente de Assunção de Competência.
+In casu, a presente Reclamação não merece conhecimento, na medida em, ao contrário do que sustenta a parte reclamante, verifica-se que a autoridade reclamada em nenhum momento negou o processamento do Pedido de Uniformização de Interpretação de Lei Federal dirigido a esta Corte e interposto perante o Tribunal de origem, mas, tão-somente, em razão da incompatibilidade de sistemas, conferiu à parte reclamante a possibilidade de protocolar o referido incidente diretamente nesta Corte.
+Nessa linha, em feitos análogos ao presente: Rcl 42.871/SP, Rel. Min. HERMAN BENJAMIN, DJe de 03/03/2022; Rcl 40.954/SP, Rel. Min. REGINA HELENA COSTA, DJe de 15/12/2020.
+Ante o exposto, com fulcro no art. 485, IV e VI, do CPC/2015 c/c o art. 34, inciso XVIII, a, do RISTJ, NÃO CONHEÇO da presente Reclamação.
+Decorrido o prazo recursal, arquivem-se os autos, com baixa na distribuição.
+I.
+EMENTA
