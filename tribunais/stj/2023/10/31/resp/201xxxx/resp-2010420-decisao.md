@@ -1,0 +1,7 @@
+DECISÃO
+No caso, o Tribunal de origem entendeu por dar provimento ao agravo de instrumento, eis que "o pagamento do valor a título de honorários de advogado ocorrerá por RPV, o que enseja a fixação de honorários advocatícios no cumprimento de sentença sobre aquela rubrica, independentemente do oferecimento ou não de impugnação pela Fazenda".
+Ocorre que a Primeira Seção resolveu afetar a seguinte questão: "Possibilidade de fixação de honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, independentemente de existência de impugnação à pretensão executória, quando o crédito estiver sujeito ao regime da Requisição de Pequeno Valor - RPV" (ProAfR no REsp n. 2.031.118/SP, Relator Ministro HERMAN BENJAMIN, Primeira Seção, j. 21/03/2023).
+Assim, faz=se necessário o retorno dos autos à origem para posterior realização do juízo de conformação.
+Ante o exposto, julgo prejudicado o recurso e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1039, 1040, incs. I e II, e 1041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
