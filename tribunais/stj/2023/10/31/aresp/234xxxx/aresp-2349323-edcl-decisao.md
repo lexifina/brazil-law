@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ASSOCIAÇÃO METODISTA DE AÇÃO SOCIAL em face de decisão que conheceu do AREsp para dar provimento ao REsp, tão somente para afastar as multas do art. 1.026, § 3º, do CPC/2015, aplicadas pelo Tribunal de origem.
+No presente recurso, a embargante alega omissão quanto à fixação de honorários recursais e que "deve-se definir o mínimo da verba sucumbencial com a aplicabilidade do art. 85, § 8º-a, se a liquidação da verba sucumbencial resultar em valor inferior à prevista na tabela do conselho Seccional da Ordem dos Advogados do Brasil" (fl. 822).
+Sem impugnação.
+É o relatório Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No que tange à majoração recursal dos honorários, o art. 85, §11º, do CPC dispõe: "§11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+Veja, o art. 85, § 11, do CPC/2015, ao prescrever que  o  tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, estabeleceu uma condição para que ocorra a condenação em honorários recursais, que é justamente a condenação prévia pela instância inferior em honorários sucumbenciais.
+Na espécie, a recorrente é a parte vencida na causa e foi condenada em honorários sucumbenciais (fl. 261) e recursais (fl. 341), nas instâncias ordinárias. Todavia, seu recurso especial não buscou reformar o acórdão quanto à parte em que ficou vencida e foi causa da sua sucumbência na origem, para fins de fixação dos honorários advocatícios em favor da parte adversa.
+Na medida em que o recurso especial tratou apenas de impugnar as multas por recurso protelatório do art. 1.026, § 3º, do CPC/2015, a decisão ora embargada cingiu-se tão somente a afastar as referidas multas, então aplicadas, de ofício, pelo Tribunal a quo.
+O valor consubstanciado pela aplicação das multas do art. 1.026, § § 2º e 3º, do CPC/2015, ainda que fixadas em percentual sobre o valor atualizado da causa, decorre de penalidade de natureza processual, e não diz respeito ao valor da condenação ou ao proveito econômico obtido com o provimento judicial, em razão dos princípios da causalidade ou da sucumbência, para fins de fixação de honorários, de modo que não cabe nem condenação em honorários recursais nem sequer enseja hipótese para inversão da sucumbência.
+Assim, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante todo o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS
