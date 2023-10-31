@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por Alexandre Vidigal de Oliveira, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição, contra acórdão do Tribunal de Justiça do Distrito Federal, que, em ação de indenização de decorrente de publicação de matéria ofensiva na internet, negou provimento à sua apelação, mantendo a sentença que pronunciou a prescrição da sua pretensão.
+Alega o recorrente, em síntese, que o acórdão do TJDF teria violado o art. 189 do Código Civil, bem como teria contrariado precedentes deste Tribunal no REsp 1.014.624/RJ e no REsp 1.659.500/RJ, nos quais teria sido firmado o entendimento de que, em casos de violação continuada contra a honra, o marco inicial da prescrição dar-se-ia a partir da cessação da ofensa, e não a partir da data do seu conhecimento pela vítima.
+Contrarrazões às fls. 398/399.
+Assim posta a controvérsia, passo a decidir.
+Da análise dos autos, entendo que merece prosperar o recurso interposto, uma vez que o acórdão recorrido não está em conformidade com a jurisprudência desta Corte no sentido de que, em caso de dano à imagem do indivíduo, se a matéria e a foto vinculadas ao seu nome não são retiradas de circulação e a ofensa se protrai no tempo, o termo inicial do prazo prescricional conta-se a partir de cada publicação não autorizada. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DE IMAGEM. PRESCRIÇÃO. TERMO INICIAL. DATA DE CADA PUBLICAÇÃO NÃO AUTORIZADA. DANOS MORAIS. DANO IN RE IPSA. ACÓRDÃO EM SINTONIA COM A ORIENTAÇÃO DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o termo inicial do prazo prescricional relativo ao dano provocado à imagem do indivíduo é a data de cada publicação não autorizada, renovando-se, assim, o referido prazo na hipótese de um novo ato ilícito. Precedentes.
+2. Nos termos da jurisprudência, os danos morais em virtude de violação do direito à imagem decorrem de seu simples uso indevido, sendo prescindível, em tais casos, a comprovação da existência de prejuízo efetivo à honra ou ao bom nome do titular daquele direito, pois o dano é in re ipsa (Súmula nº 403/STJ).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.040.356/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. USO INDEVIDO DA IMAGEM DE ATLETA EM JOGOS ELETRÔNICOS. ART. 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 206, § 3º, V, DO CC/02. PRESCRIÇÃO. INOCORRÊNCIA. VIOLAÇÃO CONTINUADA. ATO ILÍCITO DEMONSTRADO. DEVER DE INDENIZAR CONFIGURADO. DANO MORAL CONFIGURADO. REFORMA. SÚMULA N.º 7 DO STJ. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. EVENTO DANOSO. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em negativa de prestação jurisdicional ou omissão quando todos os pontos essenciais foram fundamentadamente julgados, ainda que de forma contrária aos interesses da parte.
+2. O termo inicial do prazo prescricional relativo ao dano provocado à imagem do indivíduo dá-se em cada publicação não autorizada, renovando-se, assim, o referido prazo na hipótese de um novo ato ilícito. Precedentes.
+3. A ofensa ao direito à imagem materializa-se com a sua mera utilização sem autorização, ainda que não tenha caráter vexatório ou que não viole a honra ou a intimidade da pessoa, e desde que o conteúdo exibido seja capaz de individualizar o ofendido.
+4. Dessa forma, não se verifica a apontada contradição, pois a cada conduta indevida de utilização não autorizada da imagem de ANDRÉ nos jogos, caracteriza um novo fato danoso e, consequentemente, inaugura novo prazo prescricional.
+5. A jurisprudência do STJ admite a revisão do quantum indenizável somente em casos de fixação excessiva ou irrisória, o que não ocorreu no caso (indenização fixada em R$ 30.000,00).
+6. Em se tratando de responsabilidade extracontratual, o termo inicial para incidência dos juros moratórios deve ser a data do evento danoso (Nesse sentido: AgInt no REsp 1.758.467/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, j. 18/2/2020, DJe 12/3/2020).
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.087.832/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJ e de 14/12/2022.)
+No caso, cumpre ressaltar que a matéria ofensiva contra o recorrente foi publicada em 21/08/2012 e, em 15/07/2015, apesar de já terem sido proferidas liminar e sentença a ele favoráveis, o texto ainda não tinha sido retirado de circulação (fl. 63).
+Nesse contexto, considerando a data em que comprovada a última publicação do texto ofensivo e a data em que a ação de indenização foi ajuizada, verifica-se que a pretensão do recorrente não foi atingida pela prescrição.
+Em face do exposto, dou provimento ao recurso especial, para, afastando a prescrição, determinar o retorno dos autos à origem para o regular prosseguimento do feito.
+Intimem-se.
+EMENTA
