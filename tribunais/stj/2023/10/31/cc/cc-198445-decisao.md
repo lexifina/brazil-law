@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que figura como suscitante o Juízo de Direito da Central de Inquéritos de Teresina/PI e suscitado o Juízo de Direito da 2ª Vara Criminal de Timon/MA.
+A Polícia Civil do Estado do Maranhão instaurou inquérito para apurar a prática, em tese, do crime de receptação, relacionado à aquisição de telefone móvel celular furtado ou roubado na cidade de Timon/MA.
+O juízo suscitado declinou da competência por entender que a consumação do crime teria ocorrido em Teresina/PI, local onde a investigada informou ter adquirido o produto de uma pessoa desconhecida por R$ 500,00.
+O juízo suscitante, por sua vez, após acolher manifestação do Ministério Público local, recusou a competência ao fundamento de que "inexistem nos autos elementos que comprovem a aquisição do aparelho celular nesta Capital, uma vez que não se pode pautar unicamente na palavra do próprio indiciado" (e-STJ fl. 9).
+Parecer do Ministério Público Federal pela fixação da competência do juízo suscitado (e-STJ fls. 92-94).
+É o relatório.
+O conflito comporta conhecimento por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d , da Constituição Federal.
+A controvérsia atinente à competência para apuração de suposta prática do crime de receptação foi estabelecida entre o Juízo de Direito da Central de Inquéritos de Teresina/PI, suscitante, e o Juízo de Direito da 2ª Vara Criminal de Timon/MA, suscitado.
+Ao que se tem dos autos, a indiciada declarou que adquiriu o objeto de uma pessoa desconhecida, sem nota fiscal, conforme informações prestadas na origem pelo Ministério Público do Estado do Piauí. Não foi apresentado nenhum elemento para identificação do eventual vendedor do produto ou sobre o verdadeiro local da suposta transação.
+O declínio de competência fundou-se, como se vê, exclusivamente na afirmação genérica da investigada, sem nenhuma referência segura de que o aparelho de telefone celular tenha sido adquirido de fato na cidade de Teresina/PI, local onde teria ocorrido o roubo ou o furto.
+C om razão o Ministério Público Federal em parecer ofertado no âmbito desta Corte, ao consignar que "o entendimento desse Superior Tribunal de Justiça, em casos como o dos autos, é no sentido de que, desconhecida a autoria do crime de roubo, a competência para o processo e julgamento da ação penal firma-se pelo lugar da ocorrência do crime de receptação" (e-STJ fl. 93).
+A propósito:
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. RECEPTAÇÃO. FLAGRANTE OCORRIDO NO ESTADO DA BAHIA. CARGA DE CAMINHÃO ROUBADA NO ESTADO DE MINAS GERAIS. INDIVÍDUOS QUE SUPOSTAMENTE ESCOLTAVAM A MERCADORIA. AUTORIA DO ROUBO DESCONHECIDA. COMPETÊNCIA DO LOCAL ONDE HOUVE O FLAGRANTE DO DELITO DE RECEPTAÇÃO.
+ ..
+2. No caso em análise o núcleo da controvérsia consiste em identificar se as investigações encontram-se maduras o suficiente para concluir que os indivíduos flagrados em Vitória da Conquista/BA, quando supostamente realizavam a escolta da mercadoria roubada, integram organização que praticou o crime de roubo ocorrido em Francisco Sá/MG; ou se, diante do contexto dos autos, há apenas indícios da prática do delito de receptação.
+3. "Desconhecida a autoria do crime de roubo ou furto, não há que se falar em conexão com o delito de receptação. Assim, o conflito deve ser solucionado pela prevenção, levando-se em conta o local onde primeiro se conheceu dos fatos relacionados à receptação" (CC 118.068/AL, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 16/10/2014). No mesmo sentido: CC 85.950/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJ 27/9/2007.
+4. O lapso temporal entre o roubo e o flagrante no traslado da mercadoria, bem como a circunstância de a mercadoria já ter sido deslocada para outro veículo automotor denotam apenas flagrante pelo delito de receptação, sendo necessário prosseguir nas investigações para se afirmar que os investigados tiveram alguma participação no crime de roubo.
+5. No atual estágio das investigações não se sabe se os indivíduos flagrados em Vitória da Conquista/BA constituem ramo de organização criminosa que realiza roubos ou se integram associação criminosa independente cujo ramo de atuação é a receptação e deslocamento da mercadoria para outros entes federativos. Diante de tal contexto, à míngua de maiores evidências acerca do nível de envolvimento dos investigados com o roubo, cuja autoria é desconhecida, as investigações devem prosseguir em Vitória da Conquista/BA onde ocorreu o flagrante do crime de receptação. Precedentes: CC 165.395/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 1º/7/2019.
+6. Ademais, não se pode olvidar que o delito de receptação cuida-se de crime permanente, cuja consumação se protrai no tempo, sendo incontroverso que o flagrante da receptação ocorreu em Vitória da Conquista/BA.
+7. Conflito conhecido para reconhecer a competência do Juízo de Direito da 1ª Vara Criminal de Vitória da Conquista/BA, o suscitante.
+(CC 169.394/BA, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 9/9/2020, DJe de 14/9/2020)
+Com fundamento no art. 34, XXII, do RISTJ, conheço do conflito e declaro competente o Juízo de Direito da 2ª Vara Criminal de Timon/MA , suscitado.
+Publique-se.
+Dê-se ciência aos juízos suscitante e suscitado.
+EMENTA
