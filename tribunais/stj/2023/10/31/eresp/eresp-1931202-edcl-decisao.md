@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 294):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
+A parte recorrente aponta a existência de omissão na decisão embargada, sustentando, em síntese, que (fls. 301/302):
+4 - A r. decisão embargada, data máxima vênia, é omissa acerca da discussão iniciada, constante nas contrarrazões ao recurso especial interposto pela União, quanto à resistência da Fazenda Nacional ao pleito de extinção originário.
+5 - O recurso especial interposto pela Embargada foi admitido (fls. 90/91) e provido (fls. 104/106).
+6 - Todavia, o Embargante interpôs agravo interno (fls. 128-136). Registre-se que a União Federal não impugnou a alegação de resistência ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo constante no agravo interno referido.
+7 - A r. decisão embargada, data máxima vênia, é omissa sobre as alegações constantes no agravo interno interposto pelo Embargante, especialmente sobre a resistência da Fazenda Nacional ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo.
+8 - Ademais, data máxima vênia, é omissa sobre a falta de impugnação da União quanto à alegação de resistência ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo na origem.
+9 - O Agravo Interno foi improvido (fls. 145-149). 10 - Nas fls. 153-156 consta que, em face da decisão proferida em sede de agravo interno, foram opostos embargos de declaração pelo Embargante por omissão acerca da sucumbência atraída no presente caso pela resistência da Fazenda Nacional ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo.
+10 - A r. decisão embargada, data máxima vênia, é omissa sobre as alegações constantes nos embargos de declaração oposto pelo Embargante, acima referido, especialmente sobre a resistência da Fazenda Nacional ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo.
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Deve o embargante, portanto, ao apontar a existência de erro, contradição, obscuridade ou omissão, indicar, de forma fundamentada, clara e balizada, o ponto em que a decisão embargada incorreu no vício alegado, não bastando a mera alegação de existência de vício do art. 1.022 do CPC/2015, com base no inconformismo diante da decisão proferida.
+A decisão embargada não conheceu dos embargos de divergência aos seguintes fundamentos (fl. 295):
+Isso porque não se verifica a ocorrência da alegada dissidência pretoriana, já que inexiste similitude fática entre os casos postos em comparação. A similitude fática entre os casos confrontados constitui pressuposto indispensável ao conhecimento dos embargos de divergência.
+O acórdão embargado de divergência traz a seguinte fundamentação (fl. 148):
+Em suma, em razão do princípio da causalidade, a decretação da prescrição intercorrente não autoriza a condenação do exequente em verba honorária, inclusive em sede de execução fiscal.
+Diverso é o panorama nos casos apontados como paradigma.
+Com efeito, no acórdão citado como paradigma a controvérsia limitou-se ao fato de que "a Fazenda Pública impugnou os embargos à execução fiscal, defendendo a inocorrência da prescrição e a continuidade da execução fiscal. Diante da clara resistência apresentada, aplica-se o princípio da sucumbência, cabendo ao ente público, na condição de vencido, ressarcir as custas adiantadas e pagar os honorários advocatícios" (fl. 228).
+Como se verifica, dessarte, o caso objeto de exame nos presentes autos contem peculiaridade que o torna diverso da hipótese examinada no paradigma, visto que, para análise da fixação da verba honorária, não houve discussão nestes autos se houve ou não resistência da Fazenda Nacional ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo.
+Ausente a necessária similitude fática, inviável o conhecimento dos presentes Embargos de Divergência. Isto porque os embargos de divergência, a teor da disciplina recebida pelos arts. 1.043 e 1.044 do CPC/2015, têm por finalidade a uniformização da interpretação e aplicação da lei pelo Tribunal, havendo de se cotejar casos necessariamente similares para que então se examine se a ambos é aplicável a mesma solução jurídica. Não havendo sido confrontados casos similares, inviável o ingresso no mérito dos Embargos de Divergência.
+Como se nota, não se apresenta omisso o decisum embargado que não conheceu dos embargos de divergência diante da não comprovação da similitude fática entre os acórdão confrontados. Como apontado na decisão, "o caso objeto de exame nos presentes autos contem peculiaridade que o torna diverso da hipótese examinada no paradigma, visto que, para análise da fixação da verba honorária, não houve discussão nestes autos se houve ou não resistência da Fazenda Nacional ao reconhecimento da prescrição intercorrente e a continuidade do feito executivo".
+Como se nota, não trouxe a embargante argumentos que demonstrassem omissão quanto ao julgado embargado, mas apenas mero inconformismo com o que fora decidido.
+Assim, constatada apenas a discordância da Embargante com o deslinde da controvérsia, não restando demonstrada efetiva omissão a ensejar a integração do julgado, pelo que ausente pressuposto a ensejar a oposição dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se. Publique-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
