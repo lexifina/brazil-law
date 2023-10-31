@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 25/10/2023 a 31/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA À LUZ DA ORIENTAÇÃO ADOTADA NO JULGAMENTO DO RE 817.338/DF (TEMA 839). NECESSIDADE DE ADEQUAÇÃO DO PROCEDIMENTO REVISIONAL DA ANISTIA INSTAURADO AO NOVO FLUXO PREVISTO NA INSTRUÇÃO NORMATIVA Nº 2, 2021, DO MMFDH. PRETENSÃO DE SUSPENDER O PAGAMENTO DOS REQUISITÓRIOS EXPEDIDOS. DEMORA EXAGERADA EM CONCLUIR A REVISÃO DEFLAGRADA. PROSSEGUIMENTO DO FEITO EXECUTIVO. AGRAVO IMPROVIDO.
+1. Aludindo à possibilidade de anulação da portaria anistiadora à luz da orientação adotada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839), a UNIÃO informou que adequara o procedimento revisional instaurado ao novo fluxo previsto na Instrução Normativa nº 2, de 29/9/2021, do MMFDH e requereu fosse mantido suspenso o pagamento dos requisitórios expedidos até que concluídos os trabalhos na esfera administrativa.
+2. Em que pese a intenção de observar, com mais rigor, o devido processo legal, como exige o precedente emanado da Excelsa Corte, o ente público não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional, tampouco mencionou o estágio atual em que se encontra, situação que autorizou o prosseguimento do feito executivo, com o julgamento de improcedência da impugnação oposta.
+3. Agravo interno improvido.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de agravo interno de fls. 163-180 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, concluiu remanescer válida a portaria de anistia objeto do presente feito, tendo em vista que não comprovada a conclusão do procedimento revisional da portaria de anistia no prazo fixado.
+Em seguida, aludido decisum rejeitou a preliminar de inexigibilidade do título judicial, julgando improcedente a impugnação oposta, bem como determinando a imediata expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC.
+A agravante alega, em síntese, que: (a) "a obrigação definida no título judicial em comento é de todo inexigível já no presente momento, tendo em vista a submissão da anistia a processo administrativo de revisão em curso"; (b) "a portaria de anistia que constitui objeto do título judicial executado encontra-se sob processo de revisão conforme novo fluxo estabelecido pela IN nº 2/2021, já tendo sido expedida e recebida notificação"; (c) "imperativo o reconhecimento de que o título cujo cumprimento se requer não goza de exigibilidade, devendo-se aguardar o desfecho do processo de revisão de anistia/processo judicial em que se discute a validade da anistia"; (d) "eventual pagamento acarretara dano irreparável aos cofres públicos, haja vista a impossibilidade de repetição dos valores já recebidos, conforme decidiu o STF na multicitada repercussão geral"; e (e) "a totalidade dos valores executados ainda é controvertida e está sujeita a modificação via recurso na presente execução, na medida em que a União impugnou a integralidade do valor pleiteado, sustentando a inexigibilidade da obrigação definida na portaria de anistia".
+Os agravados, por sua vez, pleiteiam a manutenção da decisão recorrida, argumentando: (a) "não há o que se falar em fato novo diante do fato de que o reconhecimento dos valores atrasados devidos, decorrentes da condição de anistiado político do de cujus, se deu por decisão judicial transitada em julgado, não sendo, portanto, impugnável"; e (b) "eventual anulação de anistia só pode ter efeito ex nunc, alcançando apenas as parcelas futuras".
+É o relatório.
+AgInt na ImpExe na EXECUÇÃO EM MANDADO DE SEGURANÇA Nº 19.273 - DF (2019/0083797-9)
+RELATORA
+:
+MINISTRA PRESIDENTE DA PRIMEIRA SEÇÃO
+AGRAVANTE
+:
+UNIÃO
+AGRAVADO
+:
+MARIA DA LUZ ACIOLY
+AGRAVADO
+:
+MARCUS ANTONIO ACIOLY
+AGRAVADO
+:
+PAULA PATRICIA ACIOLY
+HERD. DE
+:
+VALDIR RODRIGUES ACIOLY - ESPÓLIO
+ADVOGADOS
+:
+ALEXANDRE AUGUSTO SANTOS DE VASCONCELOS - PE020304
+BRUNO DE ALBUQUERQUE BAPTISTA E OUTRO(S) - PE019805
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. POSSIBILIDADE DE ANULAÇÃO DA PORTARIA ANISTIADORA À LUZ DA ORIENTAÇÃO ADOTADA NO JULGAMENTO DO RE 817.338/DF (TEMA 839). NECESSIDADE DE ADEQUAÇÃO DO PROCEDIMENTO REVISIONAL DA ANISTIA INSTAURADO AO NOVO FLUXO PREVISTO NA INSTRUÇÃO NORMATIVA Nº 2, 2021, DO MMFDH. PRETENSÃO DE SUSPENDER O PAGAMENTO DOS REQUISITÓRIOS EXPEDIDOS. DEMORA EXAGERADA EM CONCLUIR A REVISÃO DEFLAGRADA. PROSSEGUIMENTO DO FEITO EXECUTIVO. AGRAVO IMPROVIDO.
+1. Aludindo à possibilidade de anulação da portaria anistiadora à luz da orientação adotada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839), a UNIÃO informou que adequara o procedimento revisional instaurado ao novo fluxo previsto na Instrução Normativa nº 2, de 29/9/2021, do MMFDH e requereu fosse mantido suspenso o pagamento dos requisitórios expedidos até que concluídos os trabalhos na esfera administrativa.
+2. Em que pese a intenção de observar, com mais rigor, o devido processo legal, como exige o precedente emanado da Excelsa Corte, o ente público não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional, tampouco mencionou o estágio atual em que se encontra, situação que autorizou o prosseguimento do feito executivo, com o julgamento de improcedência da impugnação oposta.
+3. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Conforme consignado na decisão agravada, a agravante não se desincumbiu de comprovar, no prazo fixado, o desfecho do procedimento revisional instaurado segundo o novo fluxo previsto na Instrução Normativa nº 2, de 29/9/2021, da Ministra de Estado da Mulher, da Família e dos Direitos Humanos.
+Nesse contexto, por remanescer válida a portaria de anistia, a decisão agravada entendeu de rejeitar a preliminar de inexigibilidade do título judicial.
+Ato contínuo, julgou improcedente a impugnação oposta pela UNIÃO, bem como determinou a expedição da requisição de pagamento, nos termos do art. 535, § 3º, do CPC. Além disso, condenou a recorrente ao pagamento de honorários advocatícios sucumbenciais fixados em 10% (dez por cento) sobre a parcela a qual sucumbiu.
+Não se justifica prorrogar o prazo se a agravante sequer especificou as fases faltantes para o desfecho da revisão instaurada, situação que autoriza o prosseguimento do feito executivo nos moldes decididos.
+O processo não pode permanecer paralisado indefinidamente à espera da Administração. É imprescindível que ela envide os esforços necessários para rever, com a desejável brevidade, os inúmeros casos de concessão de anistia política em que reputa não comprovada a perseguição exclusivamente política, sob pena de violação ao princípio da razoável duração do processo.
+Em todo caso, com base na ressalva feita por esta Corte Superior na QO no MS 15.706/DF, uma vez comprovada posteriormente a anulação da anistia política, com observância das garantias processuais, até o levantamento dos valores requisitados, deverá ser extinta a execução em curso, bem como cancelado o precatório expedido.
+Desse modo, não merece reparo a decisão agravada.
+Por fim, ressalte-se que o valor requisitado corresponde ao valor nominal da portaria de anistia, não remanescendo outra matéria de defesa.
+Ante o exposto, voto por negar provimento ao agravo interno.
