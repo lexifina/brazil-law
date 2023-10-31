@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE CAICÓ contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional para desafiar acórdão assim ementado (e-STJ fl. 385):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NÃO CONHECIMENTO DO RECURSO POR INADEQUAÇÃO DA VIA ELEITA. DECISUM RECORRIDO QUE REJEITA A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. HOMOLOGAÇÃO DOS CÁLCULOS APRESENTADOS PELA PARTE EXEQUENTE E DETERMINAÇÃO DE EXPEDIÇÃO DOS OFÍCIOS REQUISITÓRIOS. DECISÃO DE NATUREZA TERMINATIVA QUE DEVE SER COMBATIDA ATRAVÉS DO RECURSO DE APELAÇÃO. PRECEDENTES DESTA CORTE DE JUSTIÇA E DO STJ. RECURSO NÃO CONHECIDO.
+No recurso especial obstaculizado, a parte recorrente apontou, além de divergência jurisprudencial, violação do art. 1.015, parágrafo único, do CPC/2015 e defende o cabimento do agravo de instrumento em face de decisões proferidas em sede de impugnação ao cumprimento de sentença.
+Contrarrazões às e-STJ fls. 402/409.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Conforme a jurisprudência do Superior Tribunal de Justiça, o recurso cabível contra decisão que homologa os cálculos apresentados e determina a expedição de RPV ou precatório, declarando extinta a execução, é a apelação.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE PÕE FIM À EXECUÇÃO. RECURSO CABÍVEL. APELAÇÃO. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. INDISPENSABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.
+1. Não há falar em ofensa ao art. 1.022, II, do CPC, na medida em que a Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal a quo não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, tornando dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, senão irrelevantes, constituem questões superadas pelas razões de julgar.
+3. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, pois o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ. Com efeito, a parte recorrente não juntou cópia do paradigma mencionado e deixou de citar o repositório oficial, autorizado ou credenciado no qual fora publicado. Ademais, ainda que se tratasse de dissídio notório, tal condição não prescinde da devida demonstração da aludida notoriedade.
+4. Ao decidir pelo não cabimento do agravo de instrumento desafiando decisão que pôs fim ao cumprimento de sentença, o Tribunal de origem alinhou-se ao entendimento firmado no âmbito deste Sodalício sobre o tema, segundo o qual "o recurso cabível contra decisão que homologa os cálculos apresentados e determina a expedição de RPV ou precatório, declarando extinta a execução, é o de apelação" (AgInt no REsp n. 1.783.844/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/11/2019, DJe de 26/11/2019). Precedentes.
+5. Agravo interno não provido. (AgInt no REsp n. 1.991.052/MG, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.) (Grifos acrescidos)
+PROCESSUAL CIVIL. O RECURSO CORRETO CONTRA A DECISÃO QUE HOMOLOGA CÁLCULO E DETERMINA A EXPEDIÇÃO DE RPV É A APELAÇÃO.
+1. Entende esta Corte Superior que "o recurso cabível contra a decisão que homologa os cálculos e determina a expedição de requisição de pequeno valor ou precatório, declarando extinta a execução, é o de apelação" (REsp n. 1.902.533/PA, relator Ministro Og Fernandes, Segunda Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. Agravo interno provido. (AgInt no AREsp n. 2.074.532/PA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/8/2022, DJe de 5/9/2022.)
+Dessa orientação não divergiu o Tribunal de origem, de modo que inexiste ensejo para o acolhimento do recurso. Incide nesse aspecto como óbice ao recurso especial a Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
