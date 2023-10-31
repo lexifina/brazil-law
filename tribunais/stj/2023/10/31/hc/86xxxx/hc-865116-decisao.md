@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROMARIO FERREIRA DA SILVA, co ntra decisão monocrática proferida pelo Desembargador relator do Tribunal de Justiça do Estado do Amazonas (4011454-18.2023.8.04.0000).
+Segundo a defesa, o paciente foi preso preventivamente no dia 26/08/2023 pela suposta prática do crime previsto no art. 121 c/c art. 14, II (e-STJ fl. 11).
+Inconformada, a defesa impetrou habeas corpus na Corte estadual, que teve seu pedido liminar indeferido pelo Relator nos seguintes termos (e-STJ fl. 99):
+Examinando as razões de impetração, entendo que as informações apresentadas na inicial do writ são insuficiente para decisão em caráter liminar, de modo que me acautelo quanto ao respectivo pedido, deixando para emitir pronunciamento sobre o mérito do caso, em julgamento colegiado, na Câmara Criminal.
+Na presente oportunidade, a defesa alega, em síntese, (i) não atendimento à determinação do Juízo de custódia, que recomendou a unidade prisional que o custodiado fosse atendido e ficasse aos cuidados da enfermaria da referida unidade e (ii) necessidade de substituição da prisão preventiva pela domiciliar, porquanto é paciente com transtornos de personalidade (e-STJ fl. 38/45) e por ter contraído COVID e tuberculose no estabelecimento prisional.
+Diante disso, pede, liminarmente e no mérito, a substituição da prisão preventiva pela prisão domiciliar.
+É o relatório. Decido.
+Não há como prosseguir a irresignação, eis que o writ foi deficitariamente instruído.
+Colhe-se da inicial (e-STJ fls. 11):
+O paciente foi preso por força de mandado de prisão em 26/08/2023 pelo cometimento, em tese, do delito constante do artigo 121 do CPB, na modalidade tentada.
+ ..
+O MM. Juiz da custódia acatou o pleito defensivo e recomendou a unidade prisional que o custodiado fosse atendido e ficasse aos cuidados da enfermaria da referida unidade, o que nunca ocorreu.
+No caso, a defesa não anexou ao seu pedido o decreto de custódia cautelar, nem mesmo da documentação necessária para o exame dos requisitos da prisão domiciliar, fato gerador de uma instrução deficitária. Com efeito, não há sequer informações seguras das alegações de qual o crime o paciente teria praticado ou mesmo da existência de eventual pedido de prisão domiciliar humanitária junto ao juízo singular.
+O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Com efeito, " a  jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus quando não instruído o writ com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal". (AgRg no HC n. 182.788, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 22/5/2022, DJe 18/6/2020).
+No mesmo sentido, esta Corte assentou que " e m sede de habeas corpus, é cediço que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado". (AgRg no HC n. 772.017/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 28/11/2022, DJe 2/12/2022).
+Além disso, quanto à decisão do relator em cautelar-se quanto ao pedido da defesa, registre-se que não consta pronunciamento do Tribunal de origem sobre o mérito do caso, sendo defeso à instância superior conhecer da matéria, sob pena de supressão de instância.
+Como cediço, " n ão compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância". (AgRg no HC n. 764.710/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC n. 111.935, Relator Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009, Relator p/ Acórdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 118.189, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)". (HC n. 179.085, Relator Ministro MARCO AURÉLIO, Primeira Turma, julgado em 5/8/2020, DJe 25/9/2020).
+Ante o exposto, conforme o art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
+EMENTA
