@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto pela ZENITH BERNARD DOS SANTOS contra decisão que negou seguimento a recurso especial sob fundamento de incidência da Súmula n. 7 e 211 do STJ (e-STJ fls. 702/718).
+A decisão colegiada recorrida apresenta a seguinte ementa (e-STJ fls. 585/586):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO COM PEDIDO DE RESSARCIMENTO MATERIAL E DE REPARAÇÃO MORAL. ALEGAÇÃO DE ERRO MÉDICO. FALHA NA PRESTAÇÃO DE SERVIÇO. A RESPONSABILIDADE FRENTE AO CONSUMIDOR É OBJETIVA. PARTE RÉ QUE NÃO SE DESINCUMBIU DO ÔNUS DE PROVAR A INEXISTÊNCIA DE SUA RESPONSABILIDADE PELA FALHA NA PRESTAÇÃO DO SERVIÇO. ALEGAÇÃO DE IMPERÍCIA E NEGLIGÊNCIA DOS PREPOSTOS DA PARTE RÉ. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTE O PEDIDO. RECURSO DA PARTE AUTORA OBJETIVANDO A MAJORAÇÃO DO MONTANTE FIXADO PELOS DANOS MORAIS. RECURSO ADESIVO DA PARTE RÉ PLEITEANDO A REDUÇÃO DO VALOR FIXADO. LAUDO PERICIAL QUE APONTOU FALHA DA PRESTAÇÃO DO SERVIÇO. PROVA PERICIAL, DE PRIMORDIAL RELEVÂNCIA PARA FORMAÇÃO DO CONVENCIMENTO DO JULGADOR, QUE REVELOU INDÍCIOS QUANTO À RESPONSABILIDADE DOS PREPOSTOS DA PARTE RÉ PELA FALHA NO DIAGNÓSTICO QUE LEVOU AO ÓBITO DA FILHA DA PARTE AUTORA. TEORIA DO RISCO DO EMPREENDIMENTO. DANO MORAL EM RICOCHETE. LEGITIMIDADE DO CONJUNTO DE PARENTES QUE FORMAM A ENTIDADE FAMILIAR INDISSOLÚVEL. PRECEDENTES DO E. STJ. VALOR FIXADO NA SENTENÇA QUE OBSERVOU OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. INTELIGÊNCIA DA SÚMULA Nº 343 DESTE ETJ. INEXISTÊNCIA DE PEDIDO RELACIONADO A DANO ESTÉTICO. JULGAMENTO EXTRA PETITA. TEORIA DA CAUSA MADURA. APLICAÇÃO DO DISPOSTO NO ARTIGO 1.013, § 3º, II DO CPC. CONDENAÇÃO DAS PARTES AO PAGAMENTO DE HONORÁRIOS RECURSAIS, DE ACORDO COM O ARTIGO 85 §11 DO CPC. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram rejeitados (e-STJ fls. 615/624).
+Sobreveio o recurso especial (e-STJ fls. 626/634), fundamentado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustentou violação dos arts. 6º, VI, e 14, § 4º, do CDC, 927, 944 e 951 do CC/2002, argumentando ser devida a majoração do valor indenizatório.
+Aduziu ofensa ao art. 398 do CC/2002, pois o termo inicial do juros é a data do evento danoso.
+No agravo (e-STJ fls.776/783), afirma a presença dos requisitos de admissibilidade do recurso especial, nos pontos não admitidos pela instância a quo.
+É o relatório.
+Decido.
+Inicialmente, analisando os fatos e as provas dos autos, entendeu o Tribunal de origem que a parte recorrida agiu "com imperícia e negligência ao não diagnosticar a grave condição de saúde da filha da parte autora" (e-STJ fl . 592).
+Ressaltou que o valor indenizatório, fixado em R$ 60.000,00 (sessenta mil reais), "se revela adequado a reparar o dano extrapatrimonial sofrido pela parte autora, considerando a falta do lesante e a gravidade da lesão, eis que proporcional e razoável ao caso em questão, não merecendo qualquer majoração ou redução" (e-STJ fl. 597).
+A alteração da quantia arbitrada nas instâncias de origem a título de dano moral é possível em sede de recurso especial somente em casos em que se mostrar exorbitante ou irrissória. No caso, o valor fixado não se mostra ínfimo.
+Portanto, alterar as conclusões do Tribunal a quo, em relação à proporcionalidade e à razoabilidade do quantum, seria necessário reexaminar o conjunto fático-probatório, medida incabível em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Por fim, no que se refere à tese de contrariedade ao art. 398 do CC/2002, o Tribunal de origem não apreciou a matéria do juros de mora, estando ausente o requisito do prequestionamento. Aplica-se a Súmula n. 282/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se. Intimem-se.
+EMENTA
