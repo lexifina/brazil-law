@@ -1,3 +1,3 @@
 Art. 15. A intimação será feita por edital se a pessoa indicada para aceitar ou pagar for desconhecida, sua localização incerta ou ignorada, for residente ou domiciliada fora da competência territorial do Tabelionato, ou, ainda, ninguém se dispuser a receber a intimação no endereço fornecido pelo apresentante.
-§ 1º O edital será afixado no Tabelionato de Protesto e publicado pela imprensa local onde houver jornal de circulação diária.
+§ 1º O edital será afixado no Tabelionato de Protesto e publicado no sítio eletrônico da central nacional de serviços eletrônicos compartilhados dos tabeliães de protesto prevista no art. 41-A desta Lei, sem prejuízo de outras publicações em jornais eletrônicos.
 § 2º Aquele que fornecer endereço incorreto, agindo de má-fé, responderá por perdas e danos, sem prejuízo de outras sanções civis, administrativas ou penais.

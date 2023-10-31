@@ -1,4 +1,7 @@
 Art. 37. Pelos atos que praticarem em decorrência desta Lei, os Tabeliães de Protesto perceberão, diretamente das partes, a título de remuneração, os emolumentos fixados na forma da lei estadual e de seus decretos regulamentadores, salvo quando o serviço for estatizado.
-§ 1º Poderá ser exigido depósito prévio dos emolumentos e demais despesas devidas, caso em que, igual importância deverá ser reembolsada ao apresentante por ocasião da prestação de contas, quando ressarcidas pelo devedor no Tabelionato.
+§ 1º Poderá ser exigido depósito prévio dos emolumentos e das demais despesas devidas, caso em que igual importância deverá ser reembolsada ao apresentante por ocasião da prestação de contas, quando ressarcidas pelo devedor no tabelionato, exceto em relação aos títulos ou documentos de dívida apresentados a protesto em conformidade com os §§ 4º e 5º deste artigo ou com lei federal específica.
 § 2º Todo e qualquer ato praticado pelo Tabelião de Protesto será cotado, identificando-se as parcelas componentes do seu total.
 § 3º Pelo ato de digitalização e gravação eletrônica dos títulos e outros documentos, serão cobrados os mesmos valores previstos na tabela de emolumentos para o ato de microfilmagem.
+§ 4º (VETADO).
+§ 5º (VETADO).
+§ 6º Os valores destinados aos ofícios de distribuição ou outros serviços extrajudiciais, aos entes públicos ou a entidades, a título de emolumentos, custas, taxa de fiscalização, contribuições, custeio de atos gratuitos, tributos, ou em caráter assistencial, serão devidos na forma prevista no caput deste artigo e repassados somente após o efetivo recebimento pelo tabelião de protesto ou o responsável interino pelo expediente.

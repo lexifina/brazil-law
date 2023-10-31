@@ -1,0 +1,1 @@
+Art. 8º-D No caso de a cobrança extrajudicial realizada na forma dos arts. 8º-B e 8º-C deste Decreto-Lei ser considerada indevida, o credor fiduciário sujeitar-se-á à multa e ao dever de indenizar de que tratam os §§ 6º e 7º do art. 3º deste Decreto-Lei.
