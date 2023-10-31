@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial manifestado em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO CIVIL PÚBLICA. CÉDULA DE CRÉDITO RURAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. SUSPENSÃO DO FEITO. TEMA 1169 DO STJ. TRATA-SE DE CUMPRIMENTO PROVISÓRIO DA SENTENÇA PROFERIDA NA AÇÃO CIVIL PÚBLICA 94.0008514-1, MANEJADO SOMENTE CONTRA O BANCO DO BRASIL. NO CASO EM LIÇA, CONSIDERANDO A PRECLUSÃO ACERCA DA DISCUSSÃO DA NECESSIDADE OU NÃO DA LIQUIDAÇÃO DA SENTENÇA COLETIVA, QUE É A QUESTÃO JURÍDICA OBJETO DO TEMA 1169 DO SUPERIOR TRIBUNAL DE JUSTIÇA, DEVE SER REFORMADA A DECISÃO RECORRIDA QUE DETERMINOU A SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA ATÉ O JULGAMENTO FINAL, PELO STJ, DA CONTROVÉRSIA REFERIDA. ASSIM, IMPÕE-SE O PROVIMENTO DO RECURSO PARA DAR PROSSEGUIMENTO AO CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+No recurso especial, a parte executada, ora agravante, alega que o acórdão recorrido contrariou:
+a) os artigos 1.022 e 1.025 da Lei 13.105/2015 (Código de Processo Civil - CPC) porque não foram sanadas as omissões e obscuridades apontadas nos embargos de declaração;
+b) os artigos 369, 465, 489, 502, 509, 511, 1.022 e 1.025 do CPC porque ignorou a necessidade de liquidação do título exequendo.
+De início, anoto que os embargos de declaração, ainda que opostos para prequestionamento de normas jurídicas, são cabíveis quando a decisão padece de omissão (em relação a ponto relevante, necessário, útil e efetivamente influente para o julgamento da causa), contradição, obscuridade ou erro material. É legítimo o manejo de embargos para suprir omissão de tema sobre o qual devia se pronunciar o julgador, o qual não está obrigado, entretanto, a enfrentar todos os argumentos das partes, mas deve, ao emitir juízo (com base em seu livre convencimento) acerca das questões que considerar suficientes e relevantes para fundamentar sua decisão, enfrentar os argumentos que, em tese, poderiam infirmar a conclusão adotada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ .. .
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1226329/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/6/2018, DJe 29/6/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+3. "Não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/2006).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1232995/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/6/2018, DJe 26/6/2018)
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erros materiais, lacunas ou contradições.
+Nos embargos, a parte executada sustentou que o julgamento do agravo de instrumento deixou de enfrentar pontos relevantes da controvérsia, sendo que, no que diz respeito aos aspectos efetivamente enfrentados no julgamento, a prestação jurisdicional revelou-se obscura. Pleiteou, assim, a declaração do julgado embargado quanto aos seguintes assuntos:
+a) necessidade de liquidação do título exequendo;
+b) inexistência de preclusão;
+c) obrigatoriedade de suspensão do feito.
+Do exame do julgamento referido, verifico que a argumentação desenvolvida nos embargos foi enfrentada. Veja-se:
+Trata-se de agravo de instrumento interposto pelo ANTONIO MARTINS BASTOS FILHO contra a decisão prolatada nos autos do feito em que contende com BANCO DO BRASIL S/A. In verbis (Evento 66):
+Vistos.
+No dia 18 de outubro de 2022, o Superior Tribunal de Justiça determinou a afetação dos Recursos Especiais 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ, Relator o Ministro Benedito Gonçalves, cadastrados como Tema Repetitivo 1169 do Superior Tribunal de Justiça, o qual tem a seguinte questão submetida a julgamento:
+"Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos".
+Foi determinada a suspensão do processamento de todos os processos que versem sobre a mesma matéria e tramitem no território nacional.
+Diante disso, o Cartório deverá registrar o EVENTO CUMPRIMENTO DE SUSPENSÃO OU SOBRESTAMENTO informando o prazo de 180 dias, LOCALIZADOR SUSPENSÃO TEMA 1169 STJ.
+ ..
+Em suas razões recursais, a parte agravante se insurge em face da decisão que determinou a suspensão do feito até o julgamento do Tema 1169 do STJ. Alega que a questão da necessidade de liquidação de sentença se encontra preclusa, uma vez que, da decisão que determinou a conversão do feito para cumprimento de sentença, não houve manifestação das partes.
+Pede a reforma da decisão que determinou a suspensão do feito, visto que o Tema 1169 do STJ não abrange o caso concreto. Requer, ao final, o provimento do recurso.
+ ..
+Insurge-se a parte agravante em face da decisão que determinou a suspensão do feito até o julgamento do Tema 1169 do STJ.
+Pois bem.
+Trata-se, no caso em apreço, de cumprimento provisório da sentença proferida na Ação Civil Pública 94.0008514-1, manejado somente contra o Banco do Brasil S/A.
+Nos autos dos Recursos Especiais 1.978.629/RJ, 1.985.037/RJ e 1.985.491/RJ, em decisão publicada no dia 18 de outubro de 2022, restou determinada a suspensão da tramitação dos processos em todo território nacional que versem sobre o seguinte tema:
+"Definir se a liquidação prévia do julgado é requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva, de modo que sua ausência acarreta a extinção da ação executiva, ou se o exame quanto ao prosseguimento da ação executiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos."
+Contudo, no caso dos autos, não há mais discussão acerca da necessidade ou não da liquidação da sentença coletiva. Senão vejamos.
+Compulsando os autos, observa-se que a parte agravante ajuizou a liquidação provisória de sentença (Evento 1 - INIC1), sendo que, posteriormente, o juízo a quo converteu o feito em cumprimento de sentença (Evento 127), decisão sobre a qual não houve interposição de recurso pelas partes, se tratando de matéria preclusa, portanto.
+Nesse contexto, considerando que nos presentes autos não há discussão da questão supracitada, uma vez que preclusa a matéria, deve ser reformada a decisão recorrida que determinou a suspensão do cumprimento de sentença até o julgamento final, pelo STJ, da controvérsia referida.
+ ..
+Assim, à luz do exposto, impõe-se a reforma da decisão recorrida.
+Isso posto, voto por dar provimento ao agravo de instrumento para afastar a suspensão do feito, determinado o prosseguimento do feito.
+Colho ainda, do julgamento dos embargos de declaração, os seguintes fragmentos:
+Trata-se de embargos de declaração opostos por BANCO DO BRASIL S/A no feito em que contende com ANTONIO MARTINS BASTOS FILHO em face do acórdão que deu provimento ao agravo de instrumento por aquele interposto (Evento 20).
+Em suas razões recursais, a parte embargante refere omissão no acórdão embargado.
+Alega que o Superior Tribunal de Justiça determinou, mediante o Tema 1169, a suspensão dos processos que discutam a necessidade de liquidação de sentença. Aduz não haver o que se falar em preclusão sobre a questão, uma vez que se trata de matéria de ordem pública. Menciona a necessidade de liquidação de sentença pelo procedimento comum, nos termos do art. 509, II, do CPC, visto que não se trata de simples cálculo aritmético. Manifesta interesse em prequestionar a matéria. Pede o acolhimento dos embargos de declaração (Evento 26).
+ ..
+Com efeito, no acórdão embargado, esta Câmara entendeu não haver falar em suspensão do feito até o julgamento do Tema 1169 pelo STJ, uma vez que preclusa a matéria.
+Nesse contexto, como constou no julgado, considerando que nos presentes autos não há discussão da questão supracitada, uma vez que preclusa a matéria, deve ser reformada a decisão recorrida que determinou a suspensão do cumprimento de sentença até o julgamento final, pelo STJ, da controvérsia referida.
+Ademais, ao contrário do alegado pela parte embargante, a questão acerca da necessidade de liquidação de sentença não se trata de matéria de ordem pública.
+ ..
+Isso posto, voto por desacolher os embargos de declaração.
+Diante desse quadro, afigura-se evidente que a argumentação veiculada nos embargos foi motivadamente enfrentada pelo Tribunal de origem. Examinando-se o provimento judicial objeto dos embargos, nota-se que ele está completo, tendo sido nele declinados os fundamentos pelos quais foi rejeitada a pretensão de suspensão do feito. Fundamentação há e esta é coerente com a conclusão, pelo que cumprida a exigência constitucional e legal de motivação.
+Não me parece ter ocorrido, delineado esse cenário, ilegalidade na rejeição dos embargos.
+O Tribunal de origem manifestou-se de forma clara sobre as questões e os pontos a respeito dos quais devia emitir pronunciamento. Nenhum aspecto relevante para a solução da controvérsia deixou de ser examinado. A rejeição dos embargos, vale repetir, não representou, por si só, recusa de prestação da tutela jurisdicional adequada ao caso concreto, na medida em que a matéria ventilada em tais embargos foi devidamente enfrentada. Estão bem delimitadas, no acórdão recorrido, as premissas fáticas sobre as quais apoiada a convicção jurídica formada e foram feitos os esclarecimentos que, segundo os julgadores, pareceram necessários, tudo isso de modo fundamentado.
+Não há falar, portanto, em negativa de prestação jurisdicional, senão em discordância e insatisfação da parte executada com o teor do julgamento.
+O acórdão recorrido apresenta fundamentos coerentes e ideias concatenadas. Não contém afirmações (premissas) que se rechaçam ou proposições inconciliáveis (incompatíveis). Existe, em suma, harmonia entre a motivação e a conclusão.
+Não constituem motivos para o reconhecimento de deficiência da prestação jurisdicional: (i) a recusa do julgador a enfrentar novamente matéria já decidida; (ii) a circunstância de o entendimento adotado no acórdão recorrido não ser o esperado/pretendido pela parte; (iii) a ausência de menção expressa às normas jurídicas suscitadas pela parte; (iv) e a falta de manifestação sobre aspectos que a parte considera importantes/significativos (em geral, benéficos às suas teses), se na decisão houverem sido enfrentadas, ainda que mediante fundamentação concisa/sucinta, as questões cuja resolução efetivamente influencia a solução da causa; (v) haver o julgador se negado a sanar/eliminar contradição que não seja interna; e (vi) o fato de a decisão, ao acolher/adotar determinado argumento, não se reportar a todos os que lhe são contrários, os quais, em decorrência da lógica, são rejeitados/repelidos.
+A finalidade dos embargos não é obter a revisão/substituição/reforma da decisão judicial ou a rediscussão da matéria nela abordada, mas aperfeiçoar/aprimorar a prestação jurisdicional, a fim de que seja clara e completa. A finalidade da jurisdição, de sua vez, é alcançar a composição da lide, não discutir teses jurídicas nos moldes expostos pelas partes.
+Importante ressaltar que, "se os fundamentos do acórdão não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (Agravo Regimental no Agravo de Instrumento 56.745/SP, Relator Ministro Cesar Asfor Rocha, Primeira Turma, DJ 12/12/1994).
+Assim, não vejo razão para anular o julgado estadual.
+Prosseguindo, observo que o afastamento da preclusão, identificada pelo Tribunal de origem, demandaria reexame de matéria fática, o que é inviável em recurso especial. Vejam-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE INDENIZAÇÃO DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. O juiz tem o poder de iniciativa probatória, inclusive para determinar a produção das provas que julgar necessárias à solução da lide. Esta prerrogativa pode ser utilizada em qualquer fase do processo. Incidência da Súmula 83/STJ.
+2.1. O reconhecimento da preclusão consumativa da realização de nova prova pericial exigiria o reexame do contexto fático e probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1533146/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APONTADA VIOLAÇÃO AO ART. 504 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. ACÓRDÃO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA OCORRÊNCIA DA PRECLUSÃO DA MATÉRIA IMPUGNADA. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE, NA VIA ELEITA. SUMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 08/02/2018, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Agravo de Instrumento, interposto pelo Banco Santander S/A, impugnando decisão que, em sede de execução contra a Fazenda Pública Municipal, promovida em ação de desapropriação, manteve provimento anterior, que ordenara, ao Banco depositário, o recolhimento dos valores correspondentes aos expurgos inflacionários dos anos de 1989 e 1991. O Tribunal de origem negou provimento ao recurso, concluindo que a matéria discutida no recurso fora alcançada pela preclusão.
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre o art. 504 do CPC/73, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo os óbices das Súmulas 211/STJ e 282/STF, na espécie.
+IV. Ademais, "a verificação da ocorrência da preclusão implica em exame de violação reflexa ou indireta a texto de lei federal, extrapolando a estreita via do recurso especial, bem como demanda, necessariamente, novo exame do acervo fático-probatório constante dos autos, o que atrai o óbice previsto na Súmula 7/STJ" (STJ, AgInt no AREsp 1.124.681/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 07/12/2017). No mesmo sentido: STJ, AgInt no AREsp 1.168.860/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 02/05/2018; AgInt no REsp 1.625.884/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 09/04/2018; REsp 1.701.972/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp n. 1.215.930/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 8/6/2018)
+Incide, no ponto, a Súmula 7 do Superior Tribunal de Justiça (STJ).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+EMENTA
