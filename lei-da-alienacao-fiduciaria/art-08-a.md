@@ -1,1 +1,0 @@
-Art. 8º-A. O procedimento judicial disposto neste Decreto-Lei aplica-se exclusivamente às hipóteses da Seção XIV da Lei nº 4.728, de 14 de julho de 1965, ou quando o ônus da propriedade fiduciária tiver sido constituído para fins de garantia de débito fiscal ou previdenciário.

@@ -9,3 +9,5 @@ V - autenticar cópias.
 § 3º (VETADO).
 § 4º (VETADO).
 § 5º Os tabeliães de notas estão autorizados a prestar outros serviços remunerados, na forma prevista em convênio com órgãos públicos, entidades e empresas interessadas, respeitados os requisitos de forma previstos na Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).
+§ 6º (VETADO).
+§ 7º (VETADO).
