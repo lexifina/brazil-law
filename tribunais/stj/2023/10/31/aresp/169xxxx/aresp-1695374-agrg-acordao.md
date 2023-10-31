@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 381, III, E 387, II E III, AMBOS DO CPP. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DOS ARTS. 44, III, E 45, § 1º, AMBOS DO CP. SUPOSTA ILEGALIDADE NO VALOR FIXADO A TÍTULO DE PRESTAÇÃO PECUNIÁRIA. INADMISSIBILIDADE. TEMA QUE TANGENCIA A ANÁLISE DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Gilberto Lenzi contra a decisão monocrática de minha lavra assim ementada (fl. 1.001):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 381, III, E 387, II E III, AMBOS DO CPP. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DOS ARTS. 44, III, E 45, § 1º, AMBOS DO CP. SUPOSTA ILEGALIDADE NO VALOR FIXADO A TÍTULO DE PRESTAÇÃO PECUNIÁRIA. INADMISSIBILIDADE. TEMA QUE TANGENCIA A ANÁLISE DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Nas razões, rechaçou a incidência das Súmulas 7/STJ, 282 e 356/STF à espécie.
+Asseverou que a discussão sobre definição jurídica do fato, não pode ser entendido como revolvimento de prova, mas sim de direito, pois nesses casos é a qualificação jurídica do fato. Com efeito, não é de reexame de prova, mas sim a valoração de questão de direito (f. 1.011).
+Argumentou, ainda, que não incide o óbice atinente à falta de prequestionamento, pois o acórdão impugnado tratou amplamente das razões explanados no recurso (fl. 1.011).
+No mais, reiterou a teses veiculadas no recurso - violação dos arts. 44, III, e 45, § 1º, ambos do Código Penal; e arts. 381, III, e 387, II e III, ambos do Código de Processo Penal -, aduzindo que a Corte Regional se limitou a falar da dimensão do dano causado pelo agravante, olvidando que a condição econômica também é quesito fundamental para fixação de uma reprimenda justa (fl. 1.012).
+Pugnou, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 381, III, E 387, II E III, AMBOS DO CPP. INADMISSIBILIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. VIOLAÇÃO DOS ARTS. 44, III, E 45, § 1º, AMBOS DO CP. SUPOSTA ILEGALIDADE NO VALOR FIXADO A TÍTULO DE PRESTAÇÃO PECUNIÁRIA. INADMISSIBILIDADE. TEMA QUE TANGENCIA A ANÁLISE DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+No que se refere à suposta violação dos arts. 381, III, e 387, II e III, ambos do Código de Processo Penal, o recurso especial padece do indispensável prequestionamento, pois eventual vulneração a esses preceitos não foi debatida no acórdão exarado no julgamento da apelação, tampouco cuidou a defesa de suscitar eventual omissão na análise desses preceitos mediante oposição de aclaratórios, circunstância suficiente para atrair a incidência das Súmulas 282 e 356/STF.
+Sobre o tema, confira-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. O Tribunal de origem não dirimiu a contenda sob o enfoque da tese recursal nem dos dispositivos legais apontados como malferidos no especial apelo, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Agravo interno de Companhia de Alimentos do Nordeste - CIALNE não provido.
+(AgInt no REsp n. 1.950.620/CE, Ministro Sérgio Kukina, Primeira Turma, julgado em 23/5/2023, DJe 7/6/2023).
+Ressalto que o óbice em referência incide mesmo nas hipóteses em que a ilegalidade surge na prolação do acórdão recorrido, circunstância que, caso verificada, exige a atuação do sucumbente no sentido de apontar eventual vulneração dos preceitos tidos como violados em sede de aclaratórios, de modo a oportunizar o efetivo debate das questões correlatas na instância ordinária, o que não se verificou no caso dos autos.
+Nesse sentido, confira-se:
+ ..
+2. É importante rememorar que, nos casos em que a violação da lei federal surge no próprio acórdão recorrido, a jurisprudência do STJ é pacífica quanto à necessidade de oposição de embargos de declaração para viabilizar o acesso às instâncias superiores.  ..
+(AgInt no AgInt no AREsp n. 1.013.103/RJ, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 3/8/2017 - grifo nosso).
+Logo, inviável conhecer da tese de vício de fundamentação na fixação da pena de prestação pecuniária.
+De outra parte, no que se refere à suposta violação dos arts. 44, III e 45, § 1º, ambos do Código Penal, a insurgência encontra óbice na Súmula 7/STJ.
+Ora, a discussão do valor da pena substitutiva de prestação pecuniária demandaria inexoravelmente a análise de vetores (capacidade econômica e dano causado) que tangenciam o exame de matéria fática, providência essa vedada na via especial:
+PROCESSO PENAL E PENAL . AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO MAJORADO. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE DO ART. 28-A DO CPP. IMPOSSIBILIDADE. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AFRONTA AO ART. 45, § 1º, DO CP. PRESTAÇÃO PECUNIÁRIA CONCRETAMENTE FIXADA. REVISÃO QUE DEMANDARIA REEXAME FÁTICO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No âmbito desta Corte Superior, em que pese a Terceira Seção, em 8/6/2021, tenha aprovado, por unanimidade, a proposta de afetação do julgamento do REsp n. 1.890.343/SC e do REsp n. 1.890.344/RS, de minha relatoria, à sistemática dos recursos repetitivos - Tema Repetitivo n. 1.098, cuja controvérsia foi delimitada como a (im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia -, o referido órgão colegiado, acolhendo proposta deste Relator, decidiu não determinar a suspensão do trâmite dos processos pendentes que versem sobre a matéria jurídica em questão.
+2. O fato de a matéria atinente à aplicação retroativa do art. 28-A do CPP estar pendente de julgamento no Plenário do Supremo Tribunal Federal (HC 185.913) não implica a suspensão dos processos em andamento nesta Corte Superior, uma vez que a controvérsia foi afetada à sistemática dos recursos repetitivos (Tema Repetitivo 1098), ocasião em que a Terceira Seção decidiu não determinar a suspensão do trâmite dos processos pendentes (AgRg no REsp n. 2.037.768/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023).
+3. O Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias. In casu, tendo sido recebida a denúncia antes que entrasse em vigor a Lei n. 13.964/2019, em 23/1/2020, inclusive com sentença condenatória, não se pode falar na aplicação do art. 28-A do CPP.
+4. No tocante à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+5. Em relação às consequências do delito, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. No presente caso, as instâncias de origem decidiram pela sua reprovabilidade, tendo em vista que a fraude causou diversos transtornos a beneficiária que sequer tinha ciência de qual benefício recebia, acreditando tratar-se de aposentadoria, tendo sofrido sério risco de ser ré em ação penal, bem como teve de prestar esclarecimentos em diversos locais (INSS, Polícia Federal e Justiça Federal), o que justifica o desvalor do referido vetor.
+6. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 45 do Código Penal, a fixação do valor da prestação pecuniária deve observar o montante do dano a ser reparado e a capacidade econômica do Condenado (REsp n. 1.967.713/SC, relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022.). Precedentes.
+7. No presente caso, estabelecido o valor da prestação pecuniária dentro dos limites legalmente fixados e com amparo na análise do caso concreto, o acolhimento do pleito de redução da quantia imposta exigiria reexame fático-probatório, o que não é possível em recurso especial, nos termos da Súmula 7 desta Corte Superior.
+8. Agravo regimental não provido.
+(AgRg no REsp n. 2.090.942/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe 18/9/2023 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
