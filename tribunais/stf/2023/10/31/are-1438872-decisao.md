@@ -1,0 +1,69 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. FUNDAMENTAÇÃO DEFICIENTE: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+
+    “CUMPRIMENTO DO JULGADO. Requisição de pequeno valor. Depósito judicial inferior ao requisitado. Autorização para o levantamento e extinção do processo pela mesma decisão. Direito do exequente ao crédito integral. Extinção afastada. Recurso provido” (e-doc. 24).
+
+    2. No recurso extraordinário, alega-se ter o Tribunal de origem contrariado o § 12 do art. 100 da Constituição da República e afirma ser “indubitável a aplicação da TR à caderneta de poupança, donde, se infere, sem grandes obstáculos, que a correção monetária dos valores objeto de precatórios já expedidos, até o seu pagamento, deve ser feita de acordo com a TR diária” (fl. 5, e-doc. 28).
+
+    Observa que, “aplicando a teoria da retroatividade mínima, amplamente aceita, tem-se que a correção monetária a incidir sobre os débitos objeto de ofícios requisitórios já expedidos, deve ser aquela prevista no art. 100, §12, CRFB, a partir de sua entrada em vigor, que se deu em 09/12/09” (fl. 6, e-doc. 28).
+
+    O recurso extraordinário foi inadmitido pela incidência da Súmula n. 279 do Supremo Tribunal Federal (e-doc. 43).
+
+    3. O agravante argumenta ser “incontroverso, pois admitido pelo acórdão, que a coisa julgada firmou a aplicabilidade da TR. A controvérsia se desenvolve sobre os efeitos que a superveniência do decidido no Tema 810 teria sobre referido título judicial. Portanto, não há como se considerar que a matéria envolvida demanda qualquer análise de fatos e provas” (fl. 3, e-doc. 45).
+
+    Anota que, “eventual argumento no sentido de que as normas relativas a juros e correção monetária são normas de ordem pública, aplicáveis imediatamente, a despeito da coisa julgada, não é compatível com o caso em questão. Isso porque não houve mudança nas regras de correção, apenas novo entendimento jurisprudencial relativamente a elas. E, como visto, a forma de compatibilização do novo entendimento com os títulos transitados em julgado foi prevista expressamente pelo STJ, no mesmo tema dito aplicado, e pelo STF, em outro tema, que deve ser levado em conta na interpretação do que se pretende aplicar” (fl. 7, e-doc. 45).
+
+    Pede “o conhecimento e provimento do presente recurso, a fim de que seja anulada a r. decisão proferida, com a admissão do recurso extraordinário” (fl. 8, e-doc. 45).
+
+    4. Em juízo de retratação do Tema 1.170 da repercussão geral, o Tribunal de origem manteve o acórdão recorrido (e-doc. 67).
+
+    Apreciada a matéria trazida na espécie, DECIDO.
+
+    5. Razão jurídica não assiste ao agravante.
+
+    6. O Tribunal de origem assentou:
+
+    “A complementação da aposentadoria que ora se executa, refere-se aos meses de janeiro de 2006 (mês da impetração) até novembro de 2006 (momento em que foi cumprida a ordem). Apurou-se o valor de R$ 11.257,51, válido para maio de 2009 (f. 513/514); citada, a Fazenda não opôs embargos à execução (f. 527), sendo expedida requisição de pequeno valor para pagamento no prazo de 90 dias em 6.1.2010 (f. 534). A devedora efetuou o pagamento em julho de 2010, no importe de R$ 10.421,71 (f. 543). A mesma decisão que deferiu o levantamento julgou extinta a execução. Mas, à evidência, em valor inferior ao IN requisitado e com o qual a devedora concordara, deixando de opor embargos. Note-se bem: cifra apurada antes da vigência da Lei nº 11.960/09, cujo art. 5º foi declarado inconstitucional (por arrastamento) no concernente ao indexador das obrigações judiciais de responsabilidade da fazenda pública. A razão de ter reduzido o crédito unilateralmente, sem manifestação da parte contrária e sem deliberação judicial a respeito, ofendem a coisa julgada. Conclui-se que a extinção foi precipitada, devendo a execução prosseguir até a integral satisfação do crédito do exequente” (fls. 3-4, e-doc. 24).
+
+    Ao realizar o distinguishing do presente caso com o Tema 1.170 da repercussão geral, o Tribunal de origem entendeu:
+
+    “Observo que não se está a questionar a aplicação dos juros previstos na Lei n. 11.960/09, tal como definido no Tema n. 810/STF na execução de título judicial que tenha fixado expressamente índice diverso, mas sim a alteração unilateral por parte da devedora dos índices homologados os cálculos e expedido o respectivo requisitório (6/1/2010). Cumpre registrar, por oportuno, que a modulação realizada no bojo da ADI n. 4357 preservou os precatórios pagos ou expedidos antes de 25.3.2015, verbis: (...). Ocorre que, no caso, a Turma Julgadora deu provimento à apelação para que a execução tenha prosseguimento até integral satisfação do crédito, pois o valor depositado pela devedora foi inferior ao requisitado e sem manifestação da parte contrária ou decisão judicial a respeito, conforme se depreende do seguinte trecho: (...). Em que pese a determinação, a matéria debatida no presente processo guarda particularidade que a diferencia daquela tratada especificamente no paradigma referente ao Tema n. 1.170/STF. Isso porque o acórdão recorrido entendeu configurada a ofensa à coisa julgada diante da modificação unilateralmente dos índices de atualização de precatório expedido antes de 25.3.2015 e tal contexto não é objeto do tema indicado na devolução” (fls. 1-4, e-doc. 67).
+
+    7. A alegação de contrariedade ao dispositivo da Constituição da República, suscitada no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração para comprovarem ter ocorrido, no momento processual próprio, o prequestionamento. Incidem, na espécie, as Súmulas ns. 282 e 356 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.108.060-AgR, de minha relatoria, Plenário, DJe 6.6.2018).
+
+    8. No recurso extraordinário, o agravante alega apenas que “o índice de correção monetária é utilizado mês a mês. Assim, tendo as normas constitucionais incidência imediata, nada mais correto do que a incidência imediata do índice TR, que se dará a partir do mês seguinte à entrada em vigor da EC n. 62” (fl. 6, e-doc. 28).
+
+    Como se pode verificar, o agravante deixou de impugnar, de forma específica, o fundamento do acórdão recorrido quanto ao fato de ter o agravante “reduzido o crédito unilateralmente, sem manifestação da parte contrária e sem deliberação judicial a respeito. Incide, na espécie vertente, a Súmula n. 284 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - É deficiente a fundamentação do agravo regimental cujas razões não atacam todos os fundamentos da decisão agravada. Incidência da Súmula 284/STF. II - Na linha do entendimento até então firmado por este Supremo Tribunal Federal, o art. 1.021, § 1º, do Código de Processo Civil tornou expressa a exigência de impugnação específica dos fundamentos da decisão que for objeto de agravo interno nos tribunais. III - Agravo regimental a que se nega provimento” (ARE n. 1.451.827-AgR, Relator o Ministro Cristiano Zanin, Primeira Turma, DJe 23.10.2023).
+
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. INCORPORAÇÃO DE QUINTOS. MEDIDA PROVISÓRIA Nº 2.225-48/2001. REPERCUSSÃO GERAL RECONHECIDA. RE 638.115/CE (TEMA Nº 395). AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. AGRAVO NÃO PROVIDO. 1. Consabido competir a este Supremo Tribunal Federal, nos termos da alínea ‘a’, do art. 102, III, da Lei Maior, julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida contrariar dispositivo da Constituição Federal. A ausência de indicação do dispositivo contrariado atrai a aplicação do entendimento jurisprudencial vertido na Súmula nº 284/STF: ‘é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia’. 2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 4. Agravo interno conhecido e não provido” (ARE n. 640.355-AgR, Relatora a Ministra Rosa Weber, Plenário, DJe 12.9.2023).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. FUNDAMENTAÇÃO DEFICIENTE: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. PRECLUSÃO: IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.315.270-AgR, de minha relatoria, Segunda Turma, DJe 9.8.2021).
+
+    9. Concluir de forma diversa do Tribunal de origem exigiria o conhecimento e a análise do conjunto probatório constante dos autos, procedimentos incabíveis em recurso extraordinário, como se tem na Súmula n. 279 do Supremo Tribunal Federal. A apreciação do pleito recursal exigiria também a interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Assim, por exemplo:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. 1. O Tribunal de origem, com base nas normas do Código de Processo Civil, entendeu que a questão relativa à correção dos valores em execução já estava preclusa. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. 2. Eventual reversão do acórdão recorrido passaria necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. 3. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final)” (ARE n. 1.330.804-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 20.9.2021).
+
+    “RECURSO EXTRAORDINÁRIO. ATUALIZAÇÃO MONETÁRIA DOS PRECATÓRIOS. ÍNDICE APLICÁVEL. QUESTÃO DE ORDEM NAS ADIS 4.357-QO E 4.425-QO. MODULAÇÃO DOS EFEITOS. INCIDÊNCIA, OU NÃO, NA ESPÉCIE, DO ART. 27 DA LEI N. 12.919/2013. OFENSA REFLEXA OU INDIRETA. REEXAME DE FATOS E PROVAS. ENUNCIADO N. 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. 1. Ao atribuir efeitos prospectivos à declaração de inconstitucionalidade das ADIs 4.357 e 4.425, o Supremo resguardou a validade dos precatórios expedidos ou pagos até a data daquele julgamento. O Tribunal estadual, em estrito cumprimento à determinação vinculante, afastou a aplicação do índice de atualização monetária previsto no art. 27 da Lei 12.919/2013. 2. Nesse contexto, infirmar as conclusões do acórdão recorrido demandaria, a um só tempo, o reexame fático-probatório vedado pelo enunciado n. 279 da Súmula do Supremo e a análise da legislação infraconstitucional. 3. Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente. Na hipótese de descabimento ou de ausência de fixação anterior, a sua incidência é indevida. 4. Recurso extraordinário com agravo desprovido” (ARE n. 1.313.786, Relator o Ministro Nunes Marques, Segunda Turma, DJe 28.10.2021).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    10. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. V do art. 932 do Código de Processo Civil e § 2º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 31 31 de outubro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
