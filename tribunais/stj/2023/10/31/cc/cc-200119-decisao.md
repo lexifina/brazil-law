@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Criminal de Indaiatuba/SP, o suscitante, e o Juízo Federal da 9ª Vara de Campinas - SJ/SP, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 107/108):
+1. Tratam os autos de conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara Criminal de Indaiatuba/SP em face da decisão proferida pelo Juízo Federal da 9ª Vara de Campinas - SJ/SP (fls. 95/96).
+2. Na hipótese, foi instaurada noticia de fato para apurar a prática do crime de homofobia, nos termos da Lei n. 7.716/89 ( 6/7).
+Consta dos autos que, após representação junto à Sala de Atendimento ao Cidadão do Ministério Público Federal, foi informado que no dia 4/3/2022, às 13:28, na página de Bate Papo Indaiatuba (2), da UOL, um usuário identificado como "H vamos sair conversar", escreveu "só tem gay nessas salas mó ódio desses lixo tem que exterminar essa raça pior que covid isso é praga véi só pode os lixo brota do inferno esses lixo vermes depressivos demonio morre lixuuuussss joga álcool e fogo nesses demonio morre lixuuuussss vermes depressivos demonio morre lixuuuussss vermes depressivos demonio morre lixuuuussss te) afim de jogar álcool em gay e em vc e fogo ok raça ruim praga só espanta as mulheres da sala seu lixo da sociedade chuca pra limpar merda kkkkkkkkk gays estraga as salas tem que exterminar essa raça vcs são pior que covid suas praga".
+O Ministério Público Federal solicitou então a quebra de sigilo de dados telemáticos do usuário responsável pelo comentário, sendo deferida (ID 268512923) a expedição de oficio à empresa UNIVERSO ONLINE S.A. para que prestasse tais informações, as quais foram juntadas no ID 276863899.
+3. Na sequência, manifestação do Ministério Público Federal no sentido de que fossem os autos da Notícia de Fato enviados à Justiça Estadual, com fundamento no Enunciado nº 105 da 2ª Câmara de Coordenação e Revisão do Ministério Público Federal.
+Nesse sentido, é o enunciado nº 105 da 2ª CCR do MPF:
+Não é de atribuição do Ministério Público Federal apurar crimes envolvendo condutas homofóbicas, ainda que praticadas por meio da rede mundial de computadores, tendo em vista a inexistência de tratado ou convenção internacional sobre o tema (CF, art. 109, V).
+Aprovado na 209a Sessão de Coordenação, de 05/09/2022.
+4. O Juízo Federal da 9ª Vara de Campinas - SJ/SP (proc. n. 5003135- 59.2022.4.03.6105), adotando a manifestação ministerial como razões de decidir, entendeu por declinar de sua competência em favor da Justiça Estadual de São Paulo - Comarca de Indaiatuba/SP (fl. 88).
+5. Encaminhados os autos à Justiça Estadual, o Juízo de Direito da 2ª Vara Criminal de Indaiatuba/SP (proc. nº 0000987-68.2023.8.26.0248) entendeu, então, por suscitar o presente conflito negativo de competência (fls. 95-96).
+ ..
+No parecer, o órgão ministerial opinou pela declaração de competência do Juízo suscitado (fls. 108/112):
+ ..
+7. Inicialmente, verifica se que a hipótese é de conhecimento do conflito, uma vez que os juízos envolvidos no incidente estão vinculados a Tribunais diversos (TJ/SP e TRF/3ª Região), tendo aplicação o disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+8. O Juízo Estadual suscitou o conflito de competência sob os seguintes fundamentos (e-STJ, fls. 95-96):
+Cuida-se de noticia de fato instaurada para apurar a prática do crime de homofobia, nos termos da Lei nº 7.716/89.
+Consta dos autos que o Ministério Público Federal requereu a quebra do sigilo dos dados telemáticos do usuário responsável por comentário proferido em rede social do site da UOL, e que o pleito foi deferido em 23 de março de 2022 pelo Juízo da 9ª Vara Federal de Campinas.
+Posteriormente sobreveio manifestação do Ministério Público Federal dando conta de que a competência para apuração do caso em questão seria da Justiça Estadual desta comarca, em razão do previsto no Enunciado nº 105 da CCR do MFP, alegando que a homofobia não seria de competência da Justiça Federal diante da inexistência de tratado ou convenção internacional sobre o tema, entendimento corroborado pelo Juízo da 9ª Vara Federal de Campinas, que declinou sua competência e determinou a remessa dos autos para uma das Varas Criminais de Indaiatuba.
+Ao receber os autos, entendeu o Ministério Público Estadual que o referido enunciado está em desacordo com o entendimento do E. Superior Tribunal de Justiça, citando que:
+Compete à Justiça Federal processar e julgar o conteúdo de falas de suposto cunho homofóbica divulgadas na internet, em perfis abertos da rede social Facebook e na plataforma de compartilhamento de vídeos Youtube, ambos de abrangência internacional. STJ. 3ª Seção. CC 191970-RS, Rel.
+Ministra Laurita Vaz, julgado em 14/12/2022 (Info 761).
+Sustentou, ainda, que a Constituição Federal prevê que compete aos juízes federais processar e julgar os crimes previstos em tratado ou convenção internacional, quando, iniciada a execução no Pais, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente (art. 109, inc. V).
+Por fim, manifestou-se no sentido de que a Convenção Internacional sobre a Eliminação de todas as Formas de Discriminação Racial, promulgada por meio do Decreto nº 65.810, de 8 de dezembro de 1969, o Brasil comprometeu-se "a proibir e a eliminar a discriminação racial em todas suas formas e a garantir o direito de cada um à igualdade perante a lei sem distinção de raça, de cor ou de origem nacional ou étnica", do que se insere igualmente o delito de homofobia.
+Assim, tendo havido declínio da competência pelo Juízo Federal em favor deste Juízo de Indaiatuba, o caso em apreço configura hipótese de conflito negativo de jurisdição. Ante o exposto, recebo o pedido apresentado pelo Ministério Público e, pela relevância dos argumentos expostos, que adoto como razão de decidir, SUSCITO o presente CONFLITO NEGATIVO DE COMPETÊNCIA perante o EXMO. SR. PRESIDENTE DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA, o que faço com fulcro no art. 114, inciso I, do Código de Processo Penal, por entender que o Juízo suscitado é o competente para processar e julgar o feito, submetendo o presente conflito à Vossa criteriosa apreciação.
+9. Razão assiste ao Juízo Suscitante.
+Cinge-se a questão em se saber se a conduta apurada na Notícia de Fato, em tese, crime de homofobia - Lei nº 7.716/89 (Lei de crimes resultantes de preconceito de raça ou de cor) cometido pela Internet, é da competência Justiça Federal.
+Primeiramente, é de se destacar que o Procurador da República atuante na 9ª Vara de Campinas - SJ/SP (proc. nº 5003135-59.2022.4.03.6105) manifestou-se pela declinação de competência para a Justiça Estadual, com fundamento no Enunciado nº 105 da 2ª Câmara de Coordenação e Revisão do Ministério Público Federal.
+Contudo, tal Enunciado foi cancelado na 218ª Sessão de Coordenação, da 2ª Câmara de Coordenação e Revisão, no dia 26/6/2023, nos termos da seguinte ementa:
+ ..
+Consoante o teor do art. 109, V, da Constituição Federal - CF, compete aos juízes federais processar e julgar "os crimes previstos em tratado ou convenção internacional, quando iniciada a execução no País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente".
+Cediço que no julgamento da Ação Direta de Inconstitucionalidade por omissão nº 26, o Supremo Tribunal Federal deu interpretação conforme a Constituição, aduzindo que enquanto não houver legislação específica a homofobia deve ser punida nos termos da Lei nº 7.716/89 (Lei de crimes resultantes de preconceito de raça ou de cor).
+Nesse sentido, ao ser aplicada a Lei 7.716/89 aos crimes de homofobia, deve ser aplicada a Convenção Internacional sobre a Eliminação de todas as Formas de Discriminação Racial, promulgada por meio do Decreto nº 65.810, na qual o Brasil comprometeu-se "a proibir e a eliminar a discriminação racial em todas suas formas e a garantir o direito de cada um à igualdade perante a lei sem distinção de raça, de cor ou de origem nacional ou étnica", o que atrai a competência para a Justiça Federal, em se tratando de crime praticado na Internet, de abrangência internacional.
+No mesmo sentido:
+ ..
+Sobre a questão já se pronunciou essa Corte Superior no CC n. 198.558, Ministra Laurita Vaz, DJe de 19/09/2023; CC n. 198.197, Ministro Joel Ilan Paciornik, DJe de 15/09/2023; CC n. 198.134, Ministro Joel Ilan Paciornik, DJe de 22/08/2023; CC n. 197.805, Ministro Reynaldo Soares da Fonseca, DJe de 16/06/2023.
+10. Posto isso, opina o Ministério Público Federal pelo conhecimento do presente conflito negativo de competência para declarar competente o Juízo Suscitado - Juízo Federal da 9ª Vara de Campinas - SJ/SP.
+É o relatório.
+Com razão o parecerista.
+Em se tratando de crime de homofobia perpetrado na internet, em sala pública de conversa, a competência para processar o inquérito policial é da Justiça Federal, nos termos da orientação estabelecida em precedente da Terceira Seção:
+CONFLITO DE COMPETÊNCIA. PROCESSUAL PENAL. HOMOFOBIA. RACISMO EM SUA DIMENSÃO SOCIAL. CONTEÚDO DIVULGADO NO FACEBOOK E NO YOUTUBE. COMPETÊNCIA DA JUSTIÇA FEDERAL. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O TRIBUNAL SUSCITANTE.
+1. O Supremo Tribunal Federal, no julgamento da Ação Direta de Inconstitucionalidade por Omissão n. 26, de relatoria do Ministro Celso de Mello, deu interpretação conforme à Constituição, "para enquadrar a homofobia e a transfobia, qualquer que seja a forma de sua manifestação, nos diversos tipos penais definidos na Lei nº 7.716/89, até que sobrevenha legislação autônoma, editada pelo Congresso Nacional".
+2. Tendo sido firmado pelo Supremo Tribunal Federal o entendimento de que a homofobia traduz expressão de racismo, compreendido em sua dimensão social, caberá a casos de homofobia o tratamento legal conferido ao crime de racismo.
+3. No caso, os fatos narrados pelo Ministério Público estadual indicam que a conduta do Investigado não se restringiu a uma pessoa determinada, ainda que tenha feito menção a ato atribuído a um professor da rede pública, mas diz respeito a uma coletividade de pessoas.
+4. Demonstrado que as falas de suposto cunho homofóbico foram divulgadas pela internet, em perfis abertos da rede social Facebook e da plataforma de compartilhamento de vídeos Youtube, ambos de abrangência internacional, está configurada a competência da Justiça Federal para o processamento e julgamento do feito.
+5. Conflito conhecido para declarar competente o Tribunal Regional Federal da 4.ª Região, o Suscitante.
+(CC n. 191.970/RS, Ministra Laurita Vaz, Terceira Seção, julgado em 14/12/2022, DJe 19/12/2022).
+Ante o exposto, acolhendo o parecer e à vista do precedente, conheço do co nflito para declarar a competência do Juízo Federal da 9ª Vara de Campinas - SJ/SP, o suscitado.
+Dê-se ciência ao Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. HOMOFOBIA. CONTEÚDO DIVULGADO DE FORMA PÚBLICA NA INTERNET. COMPETÊNCIA DA JUSTIÇA FEDERAL. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo Federal da 9ª Vara de Campinas - SJ/SP, o suscitado.
