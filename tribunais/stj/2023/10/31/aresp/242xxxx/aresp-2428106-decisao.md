@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por VERTICAL ENGENHARIA LTDA. e VOG IMPERIAL SPE LTDA. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado em desfavor do acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ, fls. 897-898):
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. VÍCIOS DECORRENTES DE MÁ EXECUÇÃO DE CONTRATO. IMÓVEL ADQUIRIDO NA PLANTA. AÇÃO INDENIZATÓRIA. PRAZO DECADENCIAL. INAPLICABILIDADE. POSTULAÇÃO SUBMETIDA A PRAZO PRESCRICIONAL. DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+O Código de Defesa do Consumidor prevê prazo decadencial (art. 26) para que o consumidor exija do fornecedor alguma das obrigações de fazer previstas nos arts. 18, § 1º, e 20.
+No caso dos autos, contudo, a Agravada requer ser compensada, material e moralmente, pela má execução de contrato de construção.
+Assim, tratando-se de ação de natureza indenizatória, o pedido se submete a prazo prescricional.
+Julgado o mérito do processo principal, o agravo interno resta prejudicado.
+Decisão mantida. Agravo de instrumento improvido.
+Agravo interno prejudicado.
+Nas razões recursais, os recorrentes alegaram, além de divergência jurisprudencial, violação ao art. 26 do CDC, sustentando, em síntese, que a pretensão indenizatória do consumidor, versando sobre vícios construtivos existentes em imóveis, submete-se ao prazo decadencial previsto na legislação consumerista, o que implica a decadência do direito postulado na inicial.
+Sem contrarrazões (e-STJ, fls. 1.209-1.210).
+Brevemente relatado, decido.
+A pretensão recursal não merece prosperar.
+No caso em estudo, o Colegiado de origem rejeitou a prejudicial de mérito de decadência, de acordo com as seguintes justificativas (e-STJ, fls. 912-913):
+O art. 26 do CDC prevê o prazo decadencial em casos de vícios do produto ou serviço, para bens duráveis ou não duráveis, permitindo que o consumidor escolha uma das opções de compensação prevista nos arts. 18, §1º, e 20, desde que exercite o seu direito no lapso temporal previsto.
+A fluência do prazo decadencial limita, assim, o direito potestativo do consumidor em compelir o fornecedor a obrigação de fazer.
+Contudo, no caso dos autos, a postulação da Agravada é indenizatória, decorrente de alegada ausência de alguns itens previstos em contrato, bem como problemas estruturais que comprometem, segundo afirma, a segurança e qualidade do imóvel.
+Assim, considerando que a ação é condenatória, motivada pela má execução do contrato, a pretensão está sujeita a prazo prescricional e não decadencial.
+Vejamos precedente sobre o tema:
+ .. .
+Efetivamente, tal como decidido pelo Tribunal estadual, a jurisprudência do STJ é no sentido de que a pretensão de natureza indenizatória, buscando a reparação dos danos materiais e morais por vícios de construção em imóvel, não se submete à prazo decadencial, devendo observar prazo prescricional.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. RESPONSABILIDADE DO CONSTRUTOR. VÍCIOS DE CONSTRUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PRESCRIÇÃO. SÚMULA 194/STJ. ART. 618 DO CC/2002. PRAZO DE GARANTIA. 5 ANOS. INAPLICABILIDADE EM RELAÇÃO DE CONSUMO. VÍCIO OCULTO. POSSIBILIDADE DE RECLAMAR AO FORNECEDOR A PARTIR DO MOMENTO EM QUE FICAR EVIDENCIADO O DANO. PRAZO PRESCRICIONAL. 10 ANOS À FALTA DA PREVISÃO ESPECÍFICA. TERMO INICIAL. SÚMULA 568/STJ. DECISÃO MANTIDA.
+1. Indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC, é impositiva a rejeição dos embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Consoante o entendimento firmado pela e. Terceira Turma, a pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC.
+5. O prazo de 5 anos previsto no caput do art. 618 do CC/2002 é de garantia. Não se trata, pois, de prazo prescricional ou decadencial.
+6. Quanto ao prazo prescricional para pleitear a indenização correspondente, sendo o art. 27 do CDC exclusivo para as hipóteses de fato do produto ou serviço, à falta de prazo específico no CDC que regule a hipótese de inadimplemento contratual, aplica-se o prazo geral de 10 anos previsto no art. 205 do CC/2002, o qual corresponde ao prazo vintenário de que trata a Súmula 194/STJ, aprovada na vigência do art. 177 do CC/1916.
+7. Hipótese em que foi reconhecida a relação de consumo, de modo que a responsabilidade por vícios construtivos não fica limitada ao prazo de garantia de 5 anos, previsto no art. 618 do CC/2002.
+Ademais, os defeitos foram constatados a partir de março de 2015 e a ação indenizatória foi ajuizada em 29/10/2015, de modo que não está caracterizada a prescrição decenal.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.092.461/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA E INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART. 205). INADIMPLEMENTO. DESCARACTERIZAÇÃO. DANOS MORAIS. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. "A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp n. 1.711.018/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/4/2021, DJe 12/5/2021), o que foi observado pela Corte local.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso, sem incorrer nos mencionados óbices, não há como, em recurso especial, descaracterizar o inadimplemento das agravantes quanto às condições ofertadas de venda da unidade imobiliária e, por conseguinte, isentar as empresas do dever de reparar os vícios construtivos reconhecidos na origem. Ademais, modificar o entendimento do Tribunal a quo de que a conduta das recorrentes ultrapassou o mero dissabor, também exige o revolvimento de suporte fático-probatório dos autos, medida inviável em recurso especial.
+5. Divergência jurisprudencial não demonstrada, ante a incidência das Súmulas n. 284 do STF e 83 do STJ. Além disso, "decisão monocrática não serve para comprovação de divergência jurisprudencial" (AgInt no AREsp n. 1.180.952/RJ, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 24/5/2018).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.690.627/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO DE CONSTRUÇÃO NO IMÓVEL. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. SUJEIÇÃO AO PRAZO PRESCRICIONAL DECENAL (CC/2002, ART. 205). INSTALAÇÃO DE JANELAS DIFERENTES DAS CONTRATADAS. PRAZO DECADENCIAL DE 90 DIAS. INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO AO PRAZO PRESCRICIONAL. VÍCIOS CONSTRUTIVOS. DESCARACTERIZAÇÃO. IMPOSSIBILIDADE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência do prazo decadencial, mas sim do prazo prescricional" (AgInt no AREsp n. 1.711.018/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/4/2021, DJe 12/5/2021), o que foi observado pela Corte local.
+2. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.893.715/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VÍCIOS CONSTRUTIVOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRAZO DECADENCIAL. INAPLICABILIDADE. PRETENSÃO INDENIZATÓRIA. INCIDÊNCIA DO PRAZO DE PRESCRIÇÃO GERAL DE 10 ANOS. VIOLAÇÃO AO PRINCÍPIO DA NÃO-SURPRESA. INOCORRÊNCIA. APLICAÇÃO DO DIREITO À ESPÉCIE. LEGALIDADE.
+1. Cuida-se, na origem, de ação de indenização por danos materiais, ajuizada em razão de vícios construtivos em edificação objeto de incorporação imobiliária.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Precedentes.
+3. Consoante o entendimento firmado pela e. Terceira Turma, a pretensão do consumidor de ser indenizado pelo prejuízo decorrente da entrega de imóvel com vícios de construção não se sujeita a prazo decadencial, quer previsto no Código Civil, quer previsto no CDC.
+4. A ação, tipicamente condenatória, sujeita-se a prazo prescricional e, à falta de prazo específico no CDC que regule a pretensão por inadimplemento contratual, deve incidir o prazo geral decenal previsto no art. 205 do CC/02, o qual corresponde ao prazo vintenário de que trata a Súmula 194/STJ, aprovada ainda na vigência do Código Civil de 1916 ("Prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos na obra"). Precedentes.
+5. "O "fundamento" ao qual se refere o art. 10 do CPC/2015 é o fundamento jurídico - circunstância de fato qualificada pelo direito, em que se baseia a pretensão ou a defesa, ou que possa ter influência no julgamento, mesmo que superveniente ao ajuizamento da ação -, não se confundindo com o fundamento legal (dispositivo de lei regente da matéria)" (EDcl no REsp 1.280.825/RJ, 4ª Turma, DJe de 1/08/2017).
+6. À luz do disposto no art. 1.034 do CPC/15, uma vez ultrapassada a barreira da admissibilidade, é lícito a este Superior Tribunal de Justiça aplicar o direito à espécie, atribuindo ao quadro fático delineado no acórdão recorrido conseqüências jurídicas diversas daquelas apontadas pelo Tribunal de origem ou mesmo pelas partes.
+Precedentes.
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.918.636/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021.)
+Dessa forma, o entendimento adotado pelo acórdão recorrido está ajustado à jurisprudência desta Corte quanto ao tema, atraindo a incidência da Súmula n. 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS EM IMÓVEL. PRAZO DE CADENCIAL. INAPLICABILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
