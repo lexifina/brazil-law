@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por SEBASTIAO DE JESUS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE USUCAPIÃO. Decisão de indeferimento do benefício da gratuidade. Inconformismo. Contas de consumo de energia elétrica e telefonia em valores modestos. Movimentação de conta poupança, contudo, com valores vultosos, de mais de R$ 12.000,00 (doze mil reais), em contradição com outras provas dos autos, bem observado pelo magistrado a quo em sua decisão. Alegação de arbitrariedade pelo juízo a quo. Inexistência. Decisão que encontra guarida no artigo 99, § 2º, CPC. Recurso não provido (fl. 120).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98, caput, e 99, § 2º, do CPC, no que concerne ao direito à gratuidade de justiça à pessoa jurídica, em razão da comprovação de sua hipossuficiência financeira, trazendo a seguinte argumentação:
+Infere-se do texto legal que qua lquer parte no processo pode usufruir do benefício da justiça gratuita. Logo, a Recorrente, pessoa jurídica, também faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de sua manutenção.
+ ..
+Inexistindo prova da capacidade econômica para arcar com as despesas do processo e com os honorários advocatícios, basta a mera declaração de pobreza no requerimento do beneficio, estando a decisão em confronto com a jurisprudência dominante do Tribunal Superior.
+ ..
+Nesse sentido é que descabe a alegação de que a constituição de advogados particulares veda a concessão da gratuidade de justiça.
+ ..
+Desta forma, verifica-se que a decisão do MM. Juiz é arbitrária, uma vez que a própria legislação atinente à matéria bem como o pensamento uníssono da jurisprudência pátria convergem para a orientação de que para o deferimento do benefício da Assistência Judiciária Gratuita basta a simples afirmação da parte requerente, ora agravante, já que para deferimento da justiça gratuita não precisa se comprovar a miserabilidade total do agravante.
+ ..
+Desta feita, totalmente claro que o indeferimento da concessão do benefício da justiça gratuita é uma restrição que nem a Constituição Federal e nem o CPC apresentam, ou seja, conclui-se que é o judiciário quem promove a dificuldade ao cidadão em buscar a tutela jurisdicional, bloqueando o acesso à justiça através do indeferimento do benefício à justiça gratuita de modo infundado (fls. 137/157).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em lume, o agravante informou não declarar bens à Receita Federal (fls. 68 da origem). As faturas de telefonia reproduzidas nas fls. 112/114 demonstram despesas modestas, como R$ 82,70 e R$ 80,99. O consumo de energia elétrica também não é expressivo, como se nota pela fatura reproduzida nas fls. 115/117 (R$ 112,13 e R$ 124,87).
+Contudo, a movimentação da conta poupança de sua titularidade, a teor dos documentos de fls. 96/97 deste agravo (ou 69/70 da origem), permite entrever manejo de valores vultosos, a contrastar com os outros elementos que exsurgem dos autos.
+Observe-se a movimentação atípica entre os dias 10/09/2021 e 30/09/2021, com o recebimento de uma transferência do tipo "Ted" no valor de R$ 12.598,00, seguida de diversos saques; trata-se de uma conta poupança movimentada como conta corrente fosse, e em valor bastante alto para a média do período.
+Ocorre que tal movimentação não passou desapercebida pelo magistrado a quo e o agravante, em suas razões, deixou de justificá-la, preferindo bater-se pela suposta arbitrariedade da decisão, inexistente in casu, porquanto expressamente autorizada pela lei, em seu artigo 99, §2º, CPC.
+Nesse passo, presente elemento a apontar contradição com a hipossuficiência asseverada, deixo de conceder a benesse pretendida, mantendo a r. decisão vergastada (fl. 122).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
