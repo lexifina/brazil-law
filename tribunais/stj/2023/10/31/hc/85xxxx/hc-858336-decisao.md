@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MAICON OLIVEIRA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal nº 1504710-43.2021.8.26.0037).
+Consta dos autos que o paciente foi condenado como incurso no artigo 121, § 2º, incisos II, III, IV e VI, c/c o § 2º-A, inc. II, do Código Penal, à pena de 25 anos de reclusão, em regime inicial fechado.
+Irresignada, a defesa apelou ao Colegiado de origem, que deu provimento parcial ao recurso a fim de reduzir a pena a 16 anos de reclusão, ficando mantido o regime prisional fechado. Eis a ementa do acórdão:
+"Homicídio qualificado: artigo 121, § 2º, incisos II, III, IV e VI, combinado com o § 2º-A, inc. II, do Código Penal. Apelação: Defesa.
+Materialidade e autoria não impugnadas: provas bastantes para a condenação.
+Pena-base: presença de quatro qualificadoras, culpabilidade e circunstâncias do crime. Readequação para a majoração em 1/3.
+Circunstância agravante da pandemia (art. 61, II, j, Cód. Penal) que, todavia, reclama nexo de causalidade, ausente na espécie.
+Compensação da agravante da reincidência com atenuante da confissão: exegese do Tema/STF 929 e Temas/STJ 858.
+Regime fechado: manutenção, pena marcada e gravidade concreta do caso.
+Recurso provido em parte, para readequação da pena" (e-STJ, fls. 1027-1028).
+Neste mandamus, o impetrante alega a existência de constrangimento ilegal diante da ausência de fundamentos concretos para a exasperação da pena-base.
+Subsidiariamente, aponta haver desproporcionalidade na fração adotada para o aumento da reprimenda basilar.
+Requer, ao final, o redimensionamento da pena imposta ao paciente.
+A Subprocuradoria-Geral da República manifestou-se pelo não conhecimento da impetração ou, caso conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+Para permitir a análise dos critérios utilizados na dosimetria da pena, faz-se necessário expor excertos do acórdão:
+" ..  O Apelante foi condenado, diante do quanto deliberado pelo C. Tribunal do Júri, como incurso no artigo 121, § 2º, incisos II, III, IV e VI, cc o § 2º-A, II, do Código Penal, porquanto no local, dia e horário descritos na inicial, agindo com ânimo homicida, por motivo fútil, emprego de meio cruel e utilizando-se de recurso que dificultou a defesa da Vítima, por razões da condição de sexo feminino, desferiu golpes de faca contra R.R.O., causando-lhe a morte (fls 174/178).
+Não havendo dissenso quanto à materialidade e autoria, a r. sentença fixou a pena-base em 22 anos de reclusão, ponderando que configuradas quatro qualificadoras, "além de praticado o delito mediante crueldade incomum (foram desferidos dezessete golpes de faca contra o corpo da ofendida), tudo a revelar dolo intenso e acentuada insensibilidade moral por parte do infrator" (fls 575).
+( ) Ademais, o crime em tela não foi cometido "em hipótese visivelmente corriqueira", tratando-se de "delito praticado por um agente contra a vítima, com o uso de arma branca (faca)" (fls 604), tendo desferido a significante quantidade de 17 golpes de faca contra o corpo da vítima, a evidenciar dolo intenso na execução do crime.
+( ) No entanto, a presença de quatro qualificadoras, somadas a culpabilidade e circunstâncias do crime justificam, d.m.v., como suficiente, a fração de 1/3, com a readequação da pena-base para 16 anos de reclusão".
+Inicialmente, na existência de múltiplas qualificadoras, uma delas é empregada para qualificar o crime, enquanto as remanescentes podem ser utilizadas na segunda fase da dosimetria da pena, caso correspondam a agravantes legalmente previstas, ou residualmente como circunstâncias judiciais, na primeira etapa.
+No caso, considerando se tratar de homicídio quadruplamente qualificado, nada obsta que três das qualificadoras sejam sopesadas como circunstânciais judiciais desfavoráveis, nos moldes da jurisprudência desta Corte:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ALEGADO CERCEAMENTO DE DEFESA POR FALTA DE CIÊNCIA DAS PRECATÓRIAS CUMPRIDAS E ILEGALIDADE NA QUEBRA DE SIGILO BANCÁRIO. INOCORRÊNCIA. TESE ABSOLUTÓRIA. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. REQUISITOS. SÚMULA 7/STJ. VALORAÇÃO DAS QUALIFICADORAS REMANESCENTES NA PENA-BASE. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Não pode ser acolhido o alegado cerceamento de defesa decorrente da ausência de intimação das precatórias, pois restou consignado no acórdão que "a ré restou devidamente intimada da expedição da carta precatória, uma vez que a intimação se deu por intermédio da Defensoria Pública (fl. 242v), a qual, à época, estava encarregada de sua causa" (e-STJ, fl. 543). Além disso, destacou que após a ré constituir novo defensor este "teve contato com os autos - e, com isso, ciência do retorno das cartas precatórias - em momento anterior ao interrogatório da ré, poderia ter requerido o acesso à mídia da precatória e, não obstante, não o fez" (e-STJ, fl. 544).
+2. A quebra de sigilo foi realizada mediante determinação judicial, nos autos do Processo n. 010/2.14.0000235-1, havendo tão somente a irregularidade de o expediente não ter sido apensado previamente aos autos principais. Prejuízo não comprovado.
+3. As instâncias ordinárias demonstraram a coesão e harmonia das provas dos autos para atestar a materialidade e autoria do delito.
+Além disso, concluíram que os elementos probatórios indicam com clareza que a acusada praticou o crime de furto que lhe foi imputado. De mais a mais, afastou-se a tese de inexigibilidade de conduta diversa, porque "o fato de estar passando por dificuldades financeiras ou estar com a mãe acometida por doença grave não autoriza a prática de delitos" (e-STJ, fls. 550-551).
+4. O afastamento dessas conclusões demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme a Súmula 7/STJ.
+5. A aferição da presença (ou não) da unidade de desígnios e dos elementos objetivos do art. 71 do CP demandaria evidente reexame dos fatos e provas da causa, vedado nesta instância especial pela Súmula 7/STJ.
+6. Na presença de duas ou mais qualificadoras, apenas uma delas será utilizada para tipificar a conduta como furto qualificado, promovendo a alteração do quantum de pena abstratamente previsto, sendo que as demais deverão ser valoradas na segunda fase da dosimetria, caso correspondam a agravantes, ou residualmente como circunstâncias judiciais.
+7. Agravo regimental não provido.
+(AgRg no REsp n. 2.001.502/RS, de minha relatoria, Quinta Turma, julgado em 11/10/2022, DJe de 18/10/2022.).
+Porém, o fato do delito ter sido cometido com alto grau de crueldade e com o emprego de arma branca, visto que desferidos dezessete golpes de faca contra o corpo da vítima - já foi valorada como a qualificadora do meio cruel, restando clara a presença de bis in idem na valoração negativa das circunstâncias e da culpabilidade do agente.
+Nesse passo, ainda que não se possa falar em fixação da pena-base no mínimo legal, considerando a ocorrência de dupla valoração de uma mesma circunstância na dosagem da pena, resta clara a presença de arbitrariedade sanável na via do writ.
+Ante o exposto, não conheço do mandamus, mas concedo a ordem, de ofício, a fim de afastar a valoração negativa das culpabilidade e das circunstâncias do crime, determinado ao Juízo das Execuções que proceda à nova dosagem da pena.
+Publique-se. Intimem-se.
+EMENTA
