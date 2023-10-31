@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 25/10/2023 a 31/10/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FINALIDADE DE UNIFORMIZAR A JURISPRUDÊNCIA DO TRIBUNAL. SUPERÁVIT DE PLANO PREVIDENCIÁRIO. REVERSÃO EM FAVOR DO PATROCINADOR. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ FIRMADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO. SÚMULA N. 168/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como um recurso a mais nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do recurso especial" (AgRg nos EAREsp n. 6.184/DF, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 8/5/2013, DJe de 14/5/2013.).
+2. "O acórdão embargado está em consonância com a jurisprudência atual do STJ no sentido de que o superávit pode ser utilizado das mais diversas formas consoante decisão do Conselho Deliberativo da entidade previdenciária, conforme julgamento da Segunda Seção sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 18/4/2017)" (AgInt nos EREsp n. 1.882.590/DF, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 29/8/2023, DJe de 31/8/2023). Incide, portanto, o óbice da Súmula n. 168/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Armando Cesar Ferreira dos Santos contra decisão desta relatoria, que indeferiu liminarmente seus embargos de divergência com base na Súmula n. 168/STJ.
+A controvérsia tem origem em ação de cobrança referente à cota parte do superávit nos anos de 2007 a 2009 sobre o benefício de previdência privada que teria sido repassado indevidamente ao órgão patrocinador - Banco do Brasil S. A.
+Em suas razões, a agravante afirma que o julgamento da Quarta Turma "se distancia do caso dos autos, eis que aqui não se está a discutir a aprovação do superávit do plano de previdência complementar pela PREVIC, propriamente dito, mas o fato de se ter sido aprovada a reversão de parcela previdenciária ao patrocinador, que, por força de lei, não tem direito a tal rubrica" (e-STJ, fls. 1.101).
+Entende que deve ser aplicado o entendimento segundo o qual os valores alocados ao fundo comum obtido pertencem aos participantes e beneficiários do plano, existindo explícito mecanismo de solidariedade, de modo que todo excedente do fundo de pensão é aproveitado em favor de seus próprios integrantes.
+Impugnação às fls. 1.020-1.043 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. FINALIDADE DE UNIFORMIZAR A JURISPRUDÊNCIA DO TRIBUNAL. SUPERÁVIT DE PLANO PREVIDENCIÁRIO. REVERSÃO EM FAVOR DO PATROCINADOR. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ FIRMADA NO MESMO SENTIDO DO ACÓRDÃO EMBARGADO. SÚMULA N. 168/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como um recurso a mais nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do recurso especial" (AgRg nos EAREsp n. 6.184/DF, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 8/5/2013, DJe de 14/5/2013.).
+2. "O acórdão embargado está em consonância com a jurisprudência atual do STJ no sentido de que o superávit pode ser utilizado das mais diversas formas consoante decisão do Conselho Deliberativo da entidade previdenciária, conforme julgamento da Segunda Seção sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 18/4/2017)" (AgInt nos EREsp n. 1.882.590/DF, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 29/8/2023, DJe de 31/8/2023). Incide, portanto, o óbice da Súmula n. 168/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não merece acolhida, pois o o acórdão embargado está em consonância com a jurisprudência atual desta Corte sobre a matéria.
+Com efeito, por ocasião do julgamento do REsp n. 1.564.070/MG, a Segunda Seção decidiu que o superávit do plano previdenciário pode ser utilizado das mais diversas formas, mediante resolução do Conselho Deliberativo da entidade. Nessa linha, ambas as Turmas de Direito Privado do STJ entendem ser possível a reversão de valores do superávit em favor do patrocinador.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA N.º 168 DO STJ. AGRAVO NÃO PROVIDO.
+1. Os embargos de divergência visam a harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+2. O acórdão embargado está em consonância com a jurisprudência atual do STJ no sentido de que o superávit pode ser utilizado das mais diversas formas consoante decisão do Conselho Deliberativo da entidade previdenciária, conforme julgamento da Segunda Seção sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 18/4/2017).
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.882.590/DF, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 29/8/2023, DJe de 31/8/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DESTINAÇÃO DO SUPERÁVIT DO PLANO PREVIDENCIÁRIO - REVERSÃO EM FAVOR DO PATROCINADOR - POSSIBILIDADE - ESCÓLIO JURISPRUDENCIAL DA SEGUNDA SEÇÃO - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA - SÚMULA 168/STJ - INCIDÊNCIA - INSURGÊNCIA DA AGRAVANTE.
+1. Nos moldes do enunciado da Súmula n.º 168/STJ, "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+1.1. A Segunda Seção desta Corte, unificando posicionamento a respeito do tema, quando do julgamento sob o rito dos recursos repetitivos (REsp 1.564.070/MG, Rel. Ministro Luis Felipe Salomão, DJe 18/04/2017) decidiu que o superávit pode ser utilizado das mais diversas formas consoante deliberação decidido pelo Conselho Deliberativo da entidade previdenciária.
+Precedentes: AgInt no REsp 1.877.995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 29/11/2021, DJe 01/12/2021; AgInt no REsp 1915394/DF, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 27/09/2021, DJe 01/10/2021; AgInt no REsp 1710115/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 30/08/2021, DJe 02/09/2021; AgInt no REsp 1914871/DF, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 22/06/2021, DJe 25/06/2021; AgInt nos EREsp n. 1.885.360/DF, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 23/2/2022, DJe de 3/3/2022.
+2. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.820.044/DF, relator Ministro Marco Buzzi, Segunda Seção, julgado em 30/8/2022, DJe de 1/9/2022.)
+Não se olvide que "a finalidade dos embargos de divergência é a uniformização da jurisprudência do Tribunal, não se apresentando como um recurso a mais nem se prestando para a correção de eventual equívoco ou violação que possa ter ocorrido quando do julgamento do recurso especial" (AgRg nos EAREsp n. 6.184/DF, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 8/5/2013, DJe de 14/5/2013.).
+Logo, tem incidência, na hipótese, o óbice da Súmula 168/STJ, in verbis: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Tal o quadro delineado, não há como se processar os embargos de divergência.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
