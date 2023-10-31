@@ -1,0 +1,59 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por PAVAN ZANETTI INDUSTRIA METALURGICA LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 2/5/2023.
+Concluso ao gabinete em: 11/10/2023.
+Ação: declaratória de inexigibilidade de título de crédito, ajuizada pelo agravante em desfavor de PRIME SECURITIZADORA S/A, devido a protesto efetivado sobre duplicadas mercantis.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE CRÉDITO. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO IMPROVIDA.
+CESSÃO DE CRÉDITO. FACTORING. DEVOLUÇÃO DAS MERCADORIAS À CEDENTE. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ. PROTESTO DEVIDO. Primeiro, rejeita-se a alegação de cerceamento de defesa. Como salientado em precedentes deste Tribunal de Justiça, o juiz é o destinatário das provas e cabe a ele a condução do processo. E, cumpre a ele indeferir a produção das provas desnecessárias. É justamente a hipótese dos autos, mostrando-se dispensável a dilação probatória, pois os pontos controvertidos exigiam prova documental. Prejuízo à defesa não verificado. E segundo, mantém-se a conclusão de primeiro grau sobre o mérito da ação. Ação declaratória de inexigibilidade de débito. Pedido para sustação/cancelamento dos protestos. Duplicatas extraídas das notas fiscais números 12.510, 12.995 e 12220. Caso peculiar. As rés provaram que a autora recebeu as mercadorias vendidas pela sacadora dos títulos (fls. 172, 183 e 190). Causa de pedir situada em suposto desacordo comercial, o qual somente foi explicado pela autora na réplica - vício da resina que foi de conhecimento no momento de sua utilização. Ausência de qualquer indício documental desse fato. Falta de prova da reclamação escrita para sacadora ou da devolução daquela mercadoria. Agir da sacada e sacadora que não observou o princípio da boa fé. Repetição em outras notas fiscais. Fragilidade da argumentação. Insuficiência da declaração da sacadora e cedente dos títulos para demonstração do desacordo comercial (fls. 19/20). Ação julgada improcedente
+SENTENÇA MANTIDA. RECURSO IMPROVIDO. (e-STJ fl. 371)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 294 do CC e 1.022, I e II, do CPC, bem como dissídio jurisprudencial.
+Sustenta, em suma, a ciência das partes recorridas acerca do desacordo comercial, restando inviável o apontamento dos títulos a protesto e estando presentes os pressupostos legais para sustar os seus efeitos.
+Aduz, assim, que o ordenamento jurídico não impõe a condição de esgotamento da prova quanto ao desfazimento do negócio inicialmente firmado, bastando, para tanto, uma única prova robusta nesse sentido e contemporânea àquele tempo do inadimplemento da cedente.
+Refere que nos contratos de factoring a transferência dos créditos ocorre por cessão, e não simples endosso, de sorte que autorizada ao devedor a oponibilidade das exceções pessoais em face da faturizadora. Argui que os títulos de crédito transferidos às empresas de factoring são inexigíveis por falta de causa jurídica para os saques.
+Aponta, por fim, negativa de prestação jurisdicional consubstanciada em contradição, notadamente quanto à prova da exceção contra o direito da factoring e a existência de notificação quanto ao desfazimento do negócio jurídico.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da suposta inexigibilidade dos títulos de crédito, considerando o acervo probatório dos autos e o cotejo entre suposta notificação e confissão acerca da devolução de mercadorias, de maneira que os embargos de declaração opostos pelo agravante, de fato, não comportavam acolhimento.
+Consigne-se, ademais, que a jurisprudência desta Corte Superior é assente no sentido de que a contradição que autoriza a oposição de embargos declaratórios é a interna, ou seja, entre as proposições do próprio julgado, e não entre a sua conclusão e a prova dos autos ou os argumentos debatidos (EDcl no CC n. 184.495/SP, Segunda Seção, DJe de 19/12/2022; EDcl no AgInt no AREsp n. 1.501.471/PR, Quarta Turma, julgado em 12/9/2022, DJe de 27/9/2022)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Do reexame de fatos e provas
+Nesse mesmo passo, no que tange aos requisitos necessários ao protesto de duplicata mercantil e às alegações da agravante quanto à inexigibilidade dos títulos de crédito, notadamente considerando eventual esgotamento probatório, consta do acórdão recorrido:
+(..) No caso em comento, verifica-se que a empresa cedente do crédito notificou as rés para que não procedesse à cobrança dos títulos, pois houve um desacordo comercial entre o sacado-devedor e o emitente das duplicatas, o que culminou na extinção do crédito (fls. 19/20).
+(..)
+As rés trouxeram para os autos prova de recebimento das mercadorias pela autora das referidas notas fiscais:
+(..)
+Destaca-se que a autora apoiou seu pedido em suposto desacordo comercial entre ela e a empresa sacadora (cedente) EPLAM PLÁSTICOS AMERICANA EIRELI.
+Isto é, a autora confirmou que recebeu as mercadorias, até porque foram trazidos para os autos comprovantes de entrega de mercadorias, mas afirmou que os títulos eram inexigíveis pelo posterior desacordo comercial (fls. 19/20).
+Todavia, sem prova documental da devolução das mercadorias adquiridas e sem explicação plausível para o suposto desacordo comercial, não se podia reconhecer mesmo as inexigibilidade dos títulos.
+É preciso ter em conta que a autora deveria agir de acordo com a boa-fé objetiva.
+Somente na réplica (fls. 290/293), a autora alegou a razão da má qualidade da resina vendida pela sacadora EPLAM como motivo para inexigibilidade dos títulos, isto é, do desacordo comercial. Mas essa declaração foi produzida sem qualquer indício documental - devolução das mercadorias ou discussão entre sacada e sacadora da qualidade dos produtos.
+Também chamou atenção o modo de proceder da autora e da sacadora. Seguidas declarações genéricas de desacordo comercial em vários títulos.
+Evidentemente, resguarda-se o direito da sacada (compradora) devolver produtos de qualidade inadequada. Mas passa a ser dela o ônus de provar documentalmente a ocorrência desse fato.
+Aliás, na forma do artigo 445 do CC, a autora tinha o prazo de 30 dias para enjeitar. E não se cuidava de um vício oculto ou que pudesse ser conhecido só depois, a partir da prova dos autos. Era um insumo usado pela autora, que detinha pleno conhecimento técnico sobre o produto. A autora, insista-se, não trouxe prova documental a respeito. (..) (e-STJ Fls. 375/379, grifos nossos)
+E complementou-se, em sede de aclaratórios:
+(..) Sobre a ausência de prova documental da devolução da mercadoria o v. acórdão recorrido foi suficientemente claro. Confira-se (fls. 378/379):
+"Somente na réplica (fls. 290/293), a autora alegou a razão da má qualidade da resina vendida pela sacadora EPLAM como motivo para inexigibilidade dos títulos, isto é, do desacordo comercial. Mas essa declaração foi produzida sem qualquer indício documental devolução das mercadorias ou discussão entre sacada e sacadora da qualidade dos produtos. Também chamou atenção o modo de proceder da autora e da sacadora. Seguidas declarações genéricas de desacordo comercial em vários títulos. Evidentemente, resguarda-se o direito da sacada (compradora) devolver produtos de qualidade inadequada. Mas passa a ser dela o ônus de provar documentalmente a ocorrência desse fato. Aliás, na forma do artigo 445 do CC, a autora tinha o prazo de 30 dias para enjeitar. E não se cuidava de um vício oculto ou que pudesse ser conhecido só depois, a partir da prova dos autos. Era um insumo usado pela autora, que detinha pleno conhecimento técnico sobre o produto. A autora, insista-se, não trouxe prova documental a respeito." (destaquei).
+Cabe observar que o fato de o v. acórdão relatar o envio de notificação da autora à ré para que ela não procedesse à cobrança dos títulos, ao contrário do que parece entender a autora não é prova da devolução das mercadorias.
+(..) (e-STJ Fls. 423/424, grifo nosso)
+Alterar o decidido no acórdão impugnado, portanto, no que se refere às conclusões adotadas acerca da devolução de mercadorias a ensejar o reconhecimento da nulidade e vícios originários dos títulos apontados a protesto, sobretudo considerando a suposta aptidão da notificação dos cedente em detrimento às demais particularidades citadas, bem como à conduta da agravante nos autos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+- Da existência de fundamento não impugnado
+A agravante, ademais, não impugnou os fundamentos utilizados pelo TJ/SP no que tange às peculiaridades que ensejaram o reconhecimento da ausência da prova da devolução das mercadorias (boa-fé objetiva desde a inicial e aplicação do art. 445 do CC), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da divergência jurisprudencial
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, qual seja, a comprovação da inexigibilidade dos títulos, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor total dos títulos (e-STJ Fl. 379) para 12%, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO DE CRÉDITO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de inexigibilidade de título crédito.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo conhecido. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
