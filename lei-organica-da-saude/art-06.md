@@ -15,6 +15,7 @@ VIII - a fiscalização e a inspeção de alimentos, água e bebidas para consum
 IX - a participação no controle e na fiscalização da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos;
 X - o incremento, em sua área de atuação, do desenvolvimento científico e tecnológico;
 XI - a formulação e execução da política de sangue e seus derivados.
+XII - a formulação e a execução da política de informação e assistência toxicológica e de logística de antídotos e medicamentos utilizados em intoxicações.
 § 1º Entende-se por vigilância sanitária um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde, abrangendo:
 I - o controle de bens de consumo que, direta ou indiretamente, se relacionem com a saúde, compreendidas todas as etapas e processos, da produção ao consumo; e
 II - o controle da prestação de serviços que se relacionam direta ou indiretamente com a saúde.
@@ -29,3 +30,4 @@ VI - participação na normatização, fiscalização e controle dos serviços d
 VII - revisão periódica da listagem oficial de doenças originadas no processo de trabalho, tendo na sua elaboração a colaboração das entidades sindicais; e
 VIII - a garantia ao sindicato dos trabalhadores de requerer ao órgão competente a interdição de máquina, de setor de serviço ou de todo ambiente de trabalho, quando houver exposição a risco iminente para a vida ou saúde dos trabalhadores.
 § 4º Entende-se por saúde bucal o conjunto articulado de ações, em todos os níveis de complexidade, que visem a garantir promoção, prevenção, recuperação e reabilitação odontológica, individual e coletiva, inseridas no contexto da integralidade da atenção à saúde.
+§ 5º Entende-se por assistência toxicológica, a que se refere o inciso XII do caput deste artigo, o conjunto de ações e serviços de prevenção, diagnóstico e tratamento das intoxicações agudas e crônicas decorrentes da exposição a substâncias químicas, medicamentos e toxinas de animais peçonhentos e de plantas tóxicas.
