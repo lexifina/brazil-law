@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por LEANDRO RODRIGUES BACELAR em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Amazonas, cuja ementa é a seguinte (e-STJ, fls. 432/433):
+PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO DOLOSO. PLEITO DE DESCLASSIFICAÇÃO DE HOMICÍDIO DOLOSO PARA HOMICÍDIO CULPOSO. AUSÊNCIA DE ANIMUS NECANDI. IMPOSSIBILIDADE. RECURSO CONHECIDO E IMPROVIDO.
+1. Irresignado, o acusado interpôs recurso em sentido estrito. Em razões recursais de fls. 393/399, o recorrente pleiteia pela reforma da sentença de primeiro grau com a consequente desclassificação do crime de homicídio doloso para o delito de homicídio culposo, haja vista a ausência de animus necandi na conduta. Afirma que não teve a intenção de matar a vítima, que tudo não passou de uma fatalidade, um acidente. Sustenta inexistir nos autos qualquer indício que comprove o dolo necessário para configuração do homicídio doloso.
+2. Inicialmente, como é sabido, a decisão de pronúncia consubstancia mero juízo de admissibilidade da acusação, a fim de que esta seja, concretamente, decidida pelo Tribunal do Júri.
+3. Relevante mencionar que na fase de pronúncia não se exige minuciosa análise no mérito, vez que tal prerrogativa cabe somente ao Conselho de Sentença, juiz natural da causa - órgão constitucionalmente instituído e competente para dirimir as dúvidas existentes para julgar os crimes dolosos contra a vida (art. 5º, inc. XXXVIII, d, da CF).
+4. Não havendo prova segura da ausência de animus necandi na conduta do agente, não é possível a desclassificação do crime de homicídio doloso para o delito de homicídio culposo, pois como anteriormente dito, na fase de pronúncia vigora o princípio do in dubio pro societate, dessa forma deve-se reservar exame mais acurado para Soberano Tribunal Popular do Júri, juiz natural para o julgamento dos crimes dolosos contra a vida.
+5. RECURSO CONHECIDO E IMPROVIDO.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente que a pronúncia ocorreu sem prova ou elemento informativo que comprove o dolo necessário, não observando o comando dos arts. 413 e 419, ambos do CPP.
+O Tribunal a quo não admitiu o recurso especial, tendo sido interposto o presente agravo.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não provimento do recurso (e-STJ, fls. 520/522).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso especial, contudo, não merece acolhida.
+O Tribunal de origem, ao negar provimento ao recurso da defesa, apresentou os seguintes fundamentos:
+In casu, a materialidade do delito está caracterizada pela Certidão de óbito, à fl. 13, bem como pelo Laudo de Exame Cadavérico realizado na vítima (fl. 12), o qual se conclui "anemia hemorrágica aguda por lesões multiplas de visceras torácicas por ferimento perfurante à nível de linha clavicular medial direita entre 2 a e 3 a costelas à direita, laceração de lobo superior do pulmão direito e laceração de crossa da aorta". Relativamente à autoria, resta igualmente demonstrada pelos depoimentos prestados perante a autoridade policial e judicial, bem como pela própria confissão do acusado, afirmando que, embora não tivesse intenção de matar, ceifou a vida da vítima nos exatos termos da peça acusatória.
+Nesse contexto, observam-se presentes, além de prova cabal da materialidade, indícios suficientes de que o recorrido tenha mesmo concorrido para o ilícito em comento, pois, como cediço, para a pronúncia, a norma processual não exige prova efetiva da autoria, mas meros indícios seus, sendo aplicado esse tratamento legal, visando impedir que o juízo singular examine matéria cuja competência, definida constitucionalmente, é exclusiva do Conselho de Sentença.
+ .. .
+Desse modo, não havendo prova segura da ausência de animus necandi na conduta do agente, não é possível a desclassificação do crime de homicídio doloso para o delito de homicídio culposo, pois como anteriormente dito, na fase de pronúncia vigora o princípio do in dublo pro societate, dessa forma deve-se reservar exame mais acurado para Soberano Tribunal Popular do Júri, juiz natural para o julgamento dos crimes dolosos contra a vida. Assim, inviável, neste momento processual, adentrar no mérito para afastar a presença de animus necandi, uma vez que feriria a competência do Tribunal do Júri.
+É cediço que compete às instâncias ordinárias a análise do acervo fático e probatório a fim determinar se, ao final da primeira fase do procedimento escalonado do Juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado.
+Assim sendo, inviável desconstituir o entendimento exarado no aresto recorrido, tal como pretende a defesa, sem o revolvimento de fatos e provas, providencia vedada em sede especial, nos termos da súmula 7/STJ.
+A respeito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÕES AOS ARTS. 156, 414 E 415, TODOS DO CÓDIGO DE PROCESSO PENAL - CPP. PROVA DA MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTES PARA EMBASAR A DECISÃO DE PRONÚNCIA. PRINCÍPIO DO IN DÚBIO PRÓ SOCIETATE. REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias demonstraram prova da materialidade e indícios de autoria imprescindíveis à pronúncia do recorrente, destacando a aplicação do princípio do in dubio pro societate. Esse entendimento está alinhado com a jurisprudência desta Corte.
+1.1. Diante da justificada conclusão das instâncias ordinárias, os pleitos de absolvição sumária ou de impronúncia esbarram no óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.010.633/AL, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
