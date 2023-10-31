@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto pela MARCELO HAMILTON MARTINS CARLI, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/MS.
+Recurso especial interposto em: 24/8/2022.
+Concluso ao gabinete em: 24/8/2023.
+Ação: de execução de título extrajudicial, ajuizada por BANCO BAMERINDUS DO BRASIL S/A em desfavor de SEBASTIÃO OSMYR FONSECA DE ASSIS.
+Decisão interlocutória: homologou o valor de R$ 456.076,76 como sendo o valor devido pelo executado e, considerando as mútuas divergências sobre o valor devido, tornando o incidente litigioso e saindo ambas as partes sucumbentes, fixou os honorários em 10% (dez por cento) sobre o valor da dívida atualizada, sendo que cada parte arcará com 5% (cinco por cento) dessa verba sucumbencial em favor do procurador da parte contrária. Para tanto, levou em consideração que a execução perdura por mais de 24 (vinte e quatro) anos, além do que, desdobrou-se em cognição probatória a partir de mútua resistência das partes.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - HOMOLOGAÇÃO JUDICIAL DA PERÍCIA JUDICIAL - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - BASE DE CÁLCULO - VALOR ATUALIZADO DA DÍVIDA OBTIDA PELO EXPERT - PERCENTUAL REALISTA QUE EQUIVALE AO MONTANTE ECONÔMICO DA DEMANDA - ÔNUS SUCUMBÊNCIAS - PRINCÍPIO DA CAUSALIDADE - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Mantém-se o valor fixado pelo juízo singular em 10% sobre o valor atualizado da dívida obtido por meio de perícia judicial, percentual que representa, portanto, base válida para aferição do proveito econômico da demanda que perdura longo período e sem que as partes chegassem ao consenso sobre o seu valor, levando a necessária intervenção judicial para solucionar o impasse.
+A condenação dos sucumbenciais pauta-se pelo princípio da causalidade, motivo pelo qual não há que se falar em afastamento da sucumbência recíproca, pois se existe vitória econômica com a redução da dívida cobrada, do outro há sucumbência com a manutenção de parte dela em execução.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: aponta violação ao art. 85, § 2º, do CPC, bem como dissídio jurisprudencial.
+Sustenta, em síntese, a necessidade de os honorários advocatícios de sucumbência serem fixados no percentual mínimo de 10% e que a base de cálculos deve corresponder ao excesso de execução apurado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+De início, importa ressaltar que, com a ressalva do meu entendimento, a 2ª Seção do STJ, por ocasião do julgamento do REsp 1.746.072/PR, em 13/2/2019, decidiu que o § 2º do art. 85 do CPC/2015 constitui regra geral no sentido de que os honorários sucumbenciais devem fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+De outro turno, frise-se que, nos termos da jurisprudência desta Corte Superior, nas hipóteses em que for reconhecido excesso de execução em sede de impugnação ao cumprimento de sentença que resulte na redução da quantia a ser executada, o executado faz jus à fixação de honorários advocatícios em seu favor, em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015. Nesse sentido: AgInt no AREsp 1.724.132/SC, Quarta Turma, DJe 24/05/2021; EDcl no AgInt no AREsp 1.704.142/SP, Quarta Turma, DJe de 25/8/2021; e AgRg no AREsp 847.402/MS, Terceira Turma, DJe de 19/4/2017.
+Na hipótese dos autos, contudo, após a impugnação ofertada pela parte executada, ora recorrente, o Juízo de primeiro grau determinou a realização de prova pericial, cujo laudo foi homologado com arbitramento de honorários advocatícios sobre o valor da dívida atualizado, o que foi mantido no acórdão recorrido (e-STJ fl. 108).
+Desse modo, diante da dissonância com o entendimento do STJ, aplica-se a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar o retorno dos autos ao Tribunal de origem, para que proceda novo julgamento da apelação interposta, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. RECONHECIMENTO DE EXCESSO DE EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de execução de título extrajudicial.
+2. Com a ressalva do meu entendimento, a 2ª Seção do STJ decidiu que o § 2º do art. 85 do CPC/2015 constitui regra geral no sentido de que os honorários sucumbenciais devem fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+3. Nos termos da jurisprudência desta Corte Superior, nas hipóteses em que for reconhecido excesso de execução em sede de impugnação ao cumprimento de sentença que resulte na redução da quantia a ser executada, o executado faz jus à fixação de honorários advocatícios em seu favor, em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015.
+4. Recurso especial conhecido e parcialmente provido.
