@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO ESTADO DO RIO GRANDE DO SUL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. FUNDO 157. SEGUNDA FASE. PRELIMINAR CONTRARRECURSAL DE NÃO CONHECIMENTO. AFASTADA. INVERSÃO DO ÔNUS DA PROVA. PROVA MÍNIMA DO DIREITO ALEGADO DEMONSTRADA. HONORÁRIOS PERICIAIS.
+Afastada a preliminar contrarrecursal de não conhecimento do recurso.
+No tocante à inversão do ônus da prova e à demonstração mínima do direito do autor, é necessário destacar que, em que pese a relação estabelecida entre as partes se enquadre na hipótese dos artigos 2º e 3º, do CDC, mostrando-se adequada a inversão do ônus da prova, na forma do art. 6º, VIII, do mesmo Diploma Legal, na espécie, compete ao autor demonstrar, ainda que minimamente, a verossimilhança de suas alegações, também por aplicação do art. 373, I, do CPC.
+No caso em apreço, a agravada logrou comprovar minimamente o direito alegado;
+competindo, assim, ao banco recorrente demonstrar os valores do aporte inicial da requerente, bem como extratos e demais documentos que estejam em sua posse.
+Tendo em vista que o agravante foi sucumbente na primeira fase, devem lhe ser imputadas as despesas processuais de acordo com o seu decaimento, em consonância ao parágrafo único do art. 86 do CPC, motivo pelo qual deve arcar com o pagamento dos honorários periciais na sua totalidade.
+Manutenção da decisão agravada.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 373, I e II, e § 3º, do CPC e do art. 6º, VIII, do CDC, no que concerne à distribuição do ônus probatório, pois cabe à parte recorrida o encargo probatório, do qual não se desincumbiu, trazendo, em síntese, a seguinte argumentação:
+No presente caso, em se tratando de inversão ope judicis do ônus probatório, deve ela ocorrer preferencialmente na fase de saneamento do processo ou, acaso superada, deve assegurar-se à parte a quem não incumbia o encargo, a reabertura de oportunidade para produção de provas.
+O legislador, em matéria processual civil, como regra, adotou que o ônus da prova é de quem alega um fato ou apresenta documento no processo. Neste caso, o cenário é transmutado ao se deparar com a desnecessidade da parte recorrida comprovar o valor investido, a qual colocou a parte recorrente numa situação desigual, em desvantagem na produção da credibilidade da prova.
+ ..
+Portanto, incumbia ao contribuinte a preservação dos certificados de compras ou depósitos na respectiva instituição financeira, necessários inclusive para apresentação ao fisco.
+E, se não há nenhum documento juntado aos autos neste sentido, carece de verossimilhança a alegação de que a parte recorrida aportou o montante que ora tem sede junto a parte recorrente. Tal prova seria essencial para constituição do direito alegado, nos termos do art. 373, inc. I, do CPC, porém a parte recorrida não se desincumbiu do encargo probatório a ele atribuído.
+Embora possa se imputar à instituição financeira a obrigação de juntar aos autos os extratos de evolução dos investimentos, isso não pode isentar o autor de comprovar ao menos a existência do vínculo jurídico e do valor inicialmente investido.
+Desta forma, somente poderá ser deferida a prova, na medida em que de modo claro, coerente e bem fundamentado, atribua à parte recorrida o ônus de comprovar a origem ou o fundamento do valor por ele apontado como devido pela instituição financeira, em razão da apontada má gestão de recursos financeiros.
+ ..
+Desse modo, imperiosa a reforma da decisão recorrida, para que se reconheça já ter havido a juntada da documentação pertinente à lide por ocasião da contestação, devendo ser afastada a determinação para que o banco recorrente complemente a documentação, bem como seja reconhecida a impossibilidade de apresentação de extratos, uma vez que o documento é inexistente em se tratando de ação que versa sobre investimentos (fls. 120/123).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+No tocante à inversão do ônus da prova e à demonstração mínima do direito da autora, é necessário destacar que, em que pese a relação estabelecida entre as partes se enquadre nas hipóteses dos artigos 2º e 3º, do CDC, mostrando-se adequada a inversão do ônus da prova, na forma do art. 6º, VIII, do mesmo Diploma Legal, na espécie, tenho que compete à autora demonstrar, ainda que minimamente, a verossimilhança de suas alegações, também por aplicação do art. 373, I, do CPC (fls. 76).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
