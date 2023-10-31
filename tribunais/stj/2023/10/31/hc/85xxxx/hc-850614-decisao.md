@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Jefferson da Cruz, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (n. 1515245-69.2023.8.26.0228) que o paciente foi condenado, pelo Juízo da 28ª Vara Criminal da comarca da Capital/SP, como incurso no delito de roubo, art. 157, caput, do Código Penal, à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime fechado, e 14 dias-multa (fls. 126/129).
+Em sede de apelação, a Segunda Câmara Criminal do Tribunal de Justiça de São Paulo deu parcial provimento ao recurso para redimensionar a pena do paciente para 5 anos, 5 meses e 10 dias de reclusão, e 12 dias-multa (fls. 178/188). O julgado recebeu a seguinte ementa (fl. 179):
+Apelação. Sentença que condenou o acusado pela prática de roubo (artigo 157, "caput", do Código Penal). Recurso da defesa. 1. Quadro probatório suficiente para firmar a condenação do réu pelo crime de roubo simples. Autoria e materialidade comprovadas. 2. Não acolhimento do pedido de desclassificação para o delito de furto. 3. Roubo que se consumou. 4. Sanção que comporta redução. 5. Cabível o reconhecimento da circunstância atenuante da confissão (ainda que a confissão tenha sido parcial); no entanto, no caso em tela, tendo em vista que ficou bem aquém do sucedido e considerando a reincidência específica, a compensação não pode ser integral, prevalecendo a circunstância agravante. 6. Regime fechado que se mostra adequado ao início do cumprimento da pena privativa de liberdade, ante as circunstâncias concretas da causa, a reincidência específica do réu e os maus antecedentes. Recurso parcialmente provido.
+No presente writ, a defesa aponta ilegalidade por não ter sido feita a compensação integral da atenuante de confissão com a agravante de reincidência, bem como pelo não reconhecimento da tentativa delitiva (fls. 3/10).
+Decisão deste Relator indeferindo o pedido liminar (fls. 199/200).
+Prestadas informações pelo Tribunal de Justiça de São Paulo (fls. 209/238).
+Parecer ministerial opinando pela denegação da ordem (fls. 240/241).
+É o relatório.
+Na dosimetria, verifica-se que a pena-base foi fixada em 1/6 acima do piso mínimo, em face dos maus antecedentes, pois o paciente apresenta duas condenações transitadas em julgado, crimes de tráfico de drogas e de roubo, sendo uma delas aplicada na primeira fase. Não há ilegalidade nesse ponto, e a pena-base foi fixada em 4 anos e 8 meses de reclusão, e 11 dias-multa.
+Na segunda fase, foi feita a compensação parcial entre a atenuante de confissão e a agravante de reincidência, por ter o Julgador levado em consideração o fato de a confissão ter sido parcial, ou seja, tendo em conta que se trata de uma confissão parcial (bem aquém do que sucedeu sequer admitiu o emprego da violência), prepondera a reincidência (que é específica), pelo que se eleva a sanção em 1/6, chegando-se a uma reprimenda final (não há causas de aumento ou diminuição de pena) de 5 anos, 5 meses e 10 dias de reclusão, bem como pagamento de 12 dias-multa (fl. 187).
+Razão assiste à defesa, pois a confissão, ainda que parcial, deve ser compensada integralmente com a agravante de reincidência, exceto quando for o caso de multirreincidência.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA PARCIAL. REINCIDÊNCIA. APENAS UMA CONDENAÇÃO ANTERIOR. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Reconhecida a atenuante da confissão, quanto à sua compensação com a agravante da reincidência, em recente julgamento para a revisão do tema repetitivo n. 585 (REsp n. 1.931.145/SP, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 24/6/2022), a Terceira Seção do STJ fixou a tese: "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade".
+2. Em recente julgado, a Sexta Turma desta Corte Superior entendeu que "Somente na hipótese de multirreincidência, há que se falar em preponderância da agravante sobre a atenuante" (AgRg no REsp n. 1.998.754/MG, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 16/6/2023).
+3. Agravo regimental não provido.
+(AgRg no HC n. 749.181/MG, Ministro Rogerio Schietti Cruz Sexta Turma, DJe 30/8/2023).
+Nesses termos, a pena deve ser fixada em 4 anos e 8 meses de reclusão, e 11 dias-multa. O regime de cumprimento da pena deverá permanecer o fechado, em face da reincidência.
+Ante o exposto, concedo a ordem a fim de redimensionar a pena do paciente para 4 anos e 8 meses de reclusão, em regime fechado, e 11 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. MAUS ANTECEDENTES COMPROVADOS. ELEVAÇÃO DA PENA-BASE EM 1/6. AUSÊNCIA DE ILEGALIDADE. SEGUNDA FASE. REINCIDÊNCIA COMPENSADA INTEGRALMENTE COM A ATENUANTE DE CONFISSÃO. POSSIBILIDADE, AINDA QUE PARCIAL.
+Ordem concedida nos termos do dispositivo.
