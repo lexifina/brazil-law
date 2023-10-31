@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de recurso especial interposto por OLHOS DÁGUA PARTICIPAÇÕES SOCIETÁRIAS LTDA. com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 15/3/2023.
+Concluso ao gabinete em: 27/10/2023.
+Ação: "de rescisão contratual c/c pedido de antecipação de tutela, devolução de quantias pagas e danos morais" (fl. 3).
+Sentença: julgou improcedente o pedido.
+Acórdão: por unanimidade, deu parcial provimento ao recurso de apelação, nos termos da seguinte ementa:
+DIREITO CIVIL E DO CONSUMIDOR - AÇÃO DE RESILIÇÃO UNILATERAL DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL - INICIATIVA DO PROMISSÁRIO COMPRADOR - POSSIBILIDADE. CLÁUSULA DE IRRETRATABILIDADE OU IRREVOGABILIDADE - IRRELEVÂNCIA - DEVOLUÇÃO DA QUANTIA PAGA - CLÁUSULA PENAL. RETENÇÃO DE PERCENTUAL PELO VENDEDOR -CRITÉRIOS. RECURSO PROVIDO, EM PARTE. SENTENÇA REFORMADA EM DIMINUTA EXTENSÃO. 1. No âmbito das relações privadas, não pode ser o particular mantido vinculado a obrigação civil decorrente de contrato que, por qualquer forma, não lhe seja mais conveniente. 2. Por isso, existem as cláusulas e regras civis correlatas, pelas quais são normatizadas as consequências econômicas decorrentes da hipótese  sempre esperada - de não se verificãr o desempenho perfeito das obrigações reciprocamente assumidas entre as partes contratantes, ainda que tal decorra do simples desinteresse, unilateral, na manutenção do avençado. 3. A rescisão do contrato de promessa de compra e venda de imóvel, por inadimplemento ou por desinteresse do adquirente, assegura a este o reembolso dos valores pagos, ressalvada a aplicabilidade de cláusula contratual estabelecedora de retenção, sendo, todavia, abusiva, a convenção em 20% (vinte por cento) do valor global do contrato, traduzindo excessiva vantagem ao promitente vendedor, pelo que deve a base de cálculo da reprimenda ser modificada para que corresponda à soma dos valores pagos, devidamente corrigidos, com base no artigo 413 do Código Civil. 4. Partindo da iniciativa do promissário comprador a resilição unilateral do pacto, os juros moratórios, incidentes sobre a parcela do preço a lhe ser devolvida, contam-se a partir do trânsito em julgado da decisão judicial em que reconhecida essa obrigação, conforme anunciado n.º 543 da Súmula de Jurisprudência do Superior Tribunal de Justiça.
+(fl. 352)
+Embargos de declaração: opostos, foram rejeitados (fls. 399-404).
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa aos arts. 11, 141, 336, 489, § 1º, IV, 492, 1.009, § 1º, 1.013, § 1º, § 2º, § 3º e § 4º, 1.022, I e II, parágrafo único, II, todos do Código de Processo Civil e aos arts. 368, 369, 389, 395, 475, 502, 884, 885 e 944 do Código Civil, ao argumento de que: a) o acórdão recorrido conteria omissão, pois não apreciou a tese segundo a qual o pedido de retenção de valores para pagamento de débitos de IPTU e de taxas de iluminação pública não quitados pode ser formulado em contestação, dispensando a reconvenção; e b) o pedido de retenção de valores para o pagamento de débitos de IPTU e de taxas de iluminação inadimplidos pode ser formulado em sede de contestação, sem necessidade de reconvenção.
+Prévio juízo de admissibilidade: o TJMG admitiu o recurso especial interposto (fls. 461-464).
+É o relatório.
+DECIDO.
+1. DA AUSÊNCIA DE OMISSÃO
+1. Na hipótese dos autos, deve ser afastada a existência de vício no acórdão recorrido, pois a matéria impugnada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. A propósito, colaciona-se excerto do acórdão recorrido:
+Especificamente no que sé refere á ausência de apreciação do "pedido" que teria sido formulado pela Embargante em sua contestação e, posteriormente, reprisado nas contrarrazões por ela apresentadas ao recurso de Apelação do ora Embargado, tenho que não há omissão à respeito dele simplesmente porque não se tratava de matéria devolvida à apreciação recursal, vez que sequer objeto de abordagem pela sentença o foi.
+Anoto, por oportuno, que, como regra, não é a contestação sede adequada à formulação de pedido (na acepção técnica e processual desse termo), pelo Réu, excetuada a hipótese das chamadas ações de força dúplice, em que, forma atípica, é lícito ao demandado formular, em sua peça de defesa, pedido contraposto em face do Autor.
+Ressalva feita a essa exceção, eventual pretensão do Réu voltada contra o Autor da ação ajuizada deve ser veiculada ou por meio de reconvenção ou por ação autônoma, conexa ou não com a causa principal.
+Ou seja, não sendo a ação dotada dessa particularidade (como é o caso daquela objeto destes autos), limita-se a postulação máxima do Réu à oposição de resistência à pretensão contra ele deduzida pelo Autor.
+(fls. 402-403)
+2. DO PEDIDO DE COMPENSAÇÃO
+3. Ademais, sustenta a parte recorrente que o pedido de retenção de valores para o pagamento de débitos de IPTU e de taxas de iluminação inadimplidos pode ser formulado em sede de contestação, sem necessidade de reconvenção.
+4. A Corte de origem, no entanto, entendeu que eventual pedido nesse sentido deveria ser formulado em reconvenção, verbis:
+Especificamente no que sé refere á ausência de apreciação do "pedido" que teria sido formulado pela Embargante em sua contestação e, posteriormente, reprisado nas contrarrazões por ela apresentadas ao recurso de Apelação do ora Embargado, tenho que não há omissão à respeito dele simplesmente porque não se tratava de matéria devolvida à apreciação recursal, vez que sequer objeto de abordagem pela sentença o foi.
+Anoto, por oportuno, que, como regra, não é a contestação sede adequada à formulação de pedido (na acepção técnica e processual desse termo), pelo Réu, excetuada a hipótese das chamadas ações de força dúplice, em que, forma atípica, é lícito ao demandado formular, em sua peça de defesa, pedido contraposto em face do Autor.
+Ressalva feita a essa exceção, eventual pretensão do Réu voltada contra o Autor da ação ajuizada deve ser veiculada ou por meio de reconvenção ou por ação autônoma, conexa ou não com a causa principal.
+Ou seja, não sendo a ação dotada dessa particularidade (como é o caso daquela objeto destes autos), limita-se a postulação máxima do Réu à oposição de resistência à pretensão contra ele deduzida pelo Autor.
+(fls. 402-403)  g.n.
+5. No hipótese dos autos, do atento exame das razões recursais e dos fatos delineados pelo acórdão recorrido, observa-se que, a rigor, o pedido formulado em contestação não era de retenção, mas sim de compensação.
+6. Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimento de que "a compensação é matéria possível de ser alegada em contestação, de forma a justificar o não pagamento do valor cobrado ou a sua redução, extinguindo ou modificando o direito do autor" (REsp n. 2.000.288/MG, Terceira Turma, julgado em 25/10/2022, DJe de 27/10/2022).
+7. A propósito:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMPESTIVIDADE RECURSAL. FERIADOS PREVISTOS NA LEI DE ORGANIZAÇÃO JUDICIÁRIA DO DISTRITO FEDERAL E DOS TERRITÓRIOS. LEI N. 11.697/2008. FERIADO DO DIA PRIMEIRO DE NOVEMBRO. DESNECESSIDADE DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. PRIMAZIA DO JULGAMENTO DO MÉRITO. LEI FEDERAL. COMPENSAÇÃO. ARGUIÇÃO NA CONTESTAÇÃO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO POR EQUIDADE. IMPOSSIBILIDADE. BASE DE CÁLCULO. VALOR ATUALIZADO DA CAUSA.
+1- Recursos especiais interposto em 23/11/2021 e conclusos ao gabinete em 10/5/2022.
+2- O propósito recursal consiste em dizer se: a) o feriado do dia 1º de novembro previsto na Lei de Organização Judiciária do Distrito Federal e dos Territórios (Lei n. 11.697/2008) deve ser comprovado no ato de interposição do recurso; b) o reconhecimento da compensação exige a sua arguição em reconvenção; c) os honorários advocatícios sucumbenciais, na hipótese dos autos, podem ser arbitrados por equidade; e d) deve ser revogada a concessão da gratuidade de justiça.
+ ..
+7- Esta Corte Superior perfilha o entendimento de que "a compensação é matéria possível de ser alegada em contestação, de forma a justificar o não pagamento do valor cobrado ou a sua redução, extinguindo ou modificando o direito do autor" (REsp n. 2.000.288/MG, Terceira Turma, julgado em 25/10/2022, DJe de 27/10/2022).
+ ..
+11- Recurso especial de CASSIMIRO PEDROSA ALVES DA SILVA não provido. Recurso especial de TARCY GOMES ÁLVARES NETO conhecido em parte e, nesta extensão, provido.
+(REsp n. 1.997.607/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 28/2/2023, DJe de 2/3/2023.)  g.n.
+8. No mesmo sentido: AgInt no REsp n. 1.988.856/SP, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022; AgInt nos EDcl no REsp n. 1.929.650/SP, Terceira Turma, julgado em 1/6/2021, DJe de 7/6/2021; REsp n. 1.524.730/MG, Terceira Turma, julgado em 18/8/2015, DJe de 25/8/2015.
+9. Desse modo, merece reforma o acórdão recorrido, pois, ao contrário do que consignado pelo Tribunal a quo, o pedido de compensação formulado pela parte recorrente poderia - como de fato o foi - ser formulado em contestação, sendo desnecessária a utilização do específico instrumento da reconvenção.
+10. Assim, impõe-se o retorno dos autos à Corte de origem, para que prossiga no exame da referida tese relativa à compensação, arguida pelo réu desde a contestação.
+Forte nessas razões, DOU PARCIAL PROVIMENTO ao recurso especial para determinar o retorno dos autos à Corte de origem, para que prossiga no exame da tese relativa à compensação.
+Deixo de majorar os honorários de sucumbência recursais, tendo em vista o parcial provimento do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. AUSÊNCIA. COMPENSAÇÃO. PEDIDO EM CONTESTAÇÃO. POSSIBILIDADE.
+1. Na hipótese dos autos, deve ser afastada a existência de vício no acórdão recorrido, pois a matéria impugnada foi enfrentada de forma objetiva e fundamentada no julgamento do recurso, naquilo que o Tribunal a quo entendeu pertinente à solução da controvérsia.
+2. Esta Corte Superior perfilha o entendimento de que "a compensação é matéria possível de ser alegada em contestação, de forma a justificar o não pagamento do valor cobrado ou a sua redução, extinguindo ou modificando o direito do autor" (REsp n. 2.000.288/MG, Terceira Turma, julgado em 25/10/2022, DJe de 27/10/2022).
+3. Na hipótese dos autos, merece reforma o acórdão recorrido, pois, ao contrário do que consignado pelo Tribunal a quo, o pedido de compensação formulado pela parte recorrente poderia ser formulado em contestação, sendo desnecessária a utilização do específico instrumento da reconvenção.
+4. Recurso especial parcialmente provido.
