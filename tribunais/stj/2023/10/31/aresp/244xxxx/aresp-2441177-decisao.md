@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por REJANE WEINMANN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO. LOCAÇÃO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA. EXTINÇÃO DO PROCESSO. DESCABIMENTO. ENTREGA DAS CHAVES POSTERIOR À CITAÇÃO E INADIMPLÊNCIA ADMITIDA. VALOR PAGOS ABATIDOS DO DÉBITO. ÍNDICE DE CORREÇÃO MONETÁRIA MANTIDO DE ACORDO COM A CONTRATAÇÃO. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA.
+1. Não há falar em extinção do processo, com base no art. 485, inc. VI, do CPC, tendo em vista que a entrega das chaves do imóvel somente ocorreu em 23.07.18, ou seja, após a citação, cujo AR foi recebido pela demandada em 13.06.18.
+2. A alegação de cobrança indevida está isolada nos autos, tendo a demandada, inclusive, admitido a inadimplência, consoante se infere da declaração por ela firmada à Defensoria Pública em 16.08.18, propondo o parcelamento do débito, que não foi cumprido.
+3. O único valor da caução efetivamente pago pela recorrente foi abatido do cálculo que instruiu a réplica, não tendo a apelante apresentado qualquer prova para demonstrar o pagamento de outras quantias, como lhe competia (art. 373, inc. II, do CPC).
+4. O IGP-M foi o índice pactuado entre as partes (cláusula 3.1), que melhor recompõe a moeda, não sendo caso para a substituição pretendida, ainda mais porque a inadimplência é muito anterior à variação excessiva decorrente da pandemia.
+5. No que concerne ao valor da vistoria, não há falar em sucumbência da autora, já que não integrou o pedido formulado na inicial, cuidando-se de fato superveniente noticiado após a contestação, ensejando a desconsideração deste na sentença.
+6. Não é caso para condenação da apelante como litigante de má-fé.
+APELAÇÃO DESPROVIDA. PEDIDO CONTRARRECURSAL INDEFERIDO (fls. 311/312).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação da/do art. 485, VI, do CPC, no que concerne à ausência de interesse recursal da parte recorrente em razão da comprovação de pagamento de caução na celebração do contrato de locação, em ação de despejo c/c cobrança de aluguéis e encargos, trazendo a seguinte argumentação:
+O acórdão recorrido violou frontalmente o artigo 485, VI do Código de Processo Civil, tendo em vista que a recorrida não possuía interesse processual e tampouco interesse de agir para propor a demanda.
+Isso porque, é evidente que a obrigação é inexigível no caso em apreço, uma vez que restou cabalmente comprovado que a autora realizou o pagamento de caução quando da celebração do contrato de locação, cuja garantia correspondia ao pagamento de três meses de aluguel.
+ ..
+Ou seja, a locatária, embora tivesse dois alugueres em atraso, teria a caução de dois meses de aluguel, restando, ainda, 01 (um) mês caucionado.
+Assim, não havia interesse processual no ingresso havendo que se falar em inadimplemento a dar ensejo ao despejo (fls. 350/351).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Não há falar em extinção do processo, com base no art. 485, inc. VI, do CPC, tendo em vista que a entrega das chaves do imóvel somente ocorreu em 23.07.18 (p. 28, evento 3, PROCJUDIC2), ou seja, após a citação, cujo AR foi recebido pela demandada em 13.06.18 (p. 45, evento 3, PROCJUDIC1).
+No tocante à cobrança, a alegação de ser indevida está isolada nos autos, tendo a demandada, inclusive, admitido a inadimplência, consoante se infere da declaração por ela firmada à Defensoria Pública em 16.08.18, propondo o parcelamento do débito (p. 29, evento 3, PROCJUDIC2), que não foi cumprido.
+Veja-se que o único valor da caução efetivamente pago pela recorrente (R$1.250,00) foi abatido do cálculo que instruiu a réplica (p. 43, evento 3, PROCJUDIC2), não tendo a apelante apresentado qualquer prova para demonstrar o pagamento de outras quantias, além daquela já abatida no cálculo, como lhe competia (art. 373, inc. II, do CPC) (fl. 309).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
