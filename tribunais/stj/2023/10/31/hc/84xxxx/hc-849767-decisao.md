@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO EDUARDO LEMES DE OLIVEIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da Apelação Criminal n. 1500856-79.2023.8.26.0578, cujo acórdão recebeu a seguinte ementa (e-STJ fl. 261):
+Tráfico de Drogas Insuficiência probatória Absolvição ou desclassificação para artigo 28, ambos da Lei 11.343/06 Impossibilidade Materialidade e autoria suficientemente demonstradas Condenação mantida.
+Regime diverso do fechado e substituição da pena privativa de liberdade por restritiva de direitos Pena final superior a quatro anos Gravidade concreta do delito Inteligência dos artigos 33, § 3º e 44, inciso I, ambos do Código Penal.
+Detração Pleito a ser formulado no Juízo das Execuções Penais competente.
+Afastamento ou diminuição da pena de multa Reprovabilidade dos ilícitos penais que é estabelecida também no preceito secundário da norma incriminadora pelo "quantum" de pena fixado Reprimenda mantida.
+Recurso improvido.
+Daí o presente writ, no qual a defesa sustenta ausência de fundamentação idônea na fixação de regime inicial fechado, uma vez que a pena não ultrapassa 8 anos de reclusão, e se trata de condenado primário e de bons antecedentes. Aponta violação aos enunciados da Súmulas n. 718 e 719 da Suprema Corte e n. 440 do STJ (e-STJ fl. 6).
+Requer, desse modo, inclusive liminarmente, a fixação do regime inicial semiaberto de cumprimento da pena.
+Liminar indeferida (e-STJ fls. 281/282).
+Informações prestadas (e-STJ fls. 288/292 e 295/325).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso assim não se entenda, pela denegação da ordem (e-STJ fls. 327/330).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na espécie, o Magistrado sentenciante assim se manifestou acerca da dosimetria da pena (e-STJ fls. 184/185, grifei):
+Nos termos do art. 68 do CP, e em atendimento aos critérios do art. 59 do citado Codex, fixo a pena-base em 05 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa, fixados em seu valor mínimo legal. Na segunda fase, não há agravantes ou atenuantes a serem consideradas. Não há causas de aumento. Presente a causa de diminuição prevista no parágrafo 4º do artigo 33 da Lei nº 11.343/06, observando-se que o réu é primário e tem bons antecedentes. Assim, reduzo a pena de 1/6, totalizando 04 (quatro) anos e 02 (dois) meses de reclusão e pagamento de 416 (quatrocentos e dezesseis) dias-multa-fixados em seu valor mínimo legal.
+Fixo o regime inicial fechado para o cumprimento da pena, não podendo o réu apelar em liberdade, observando-se a gravidade do delito pelo qual está sendo condenado, bem como o fato de que permaneceu preso durante toda a instrução criminal, devendo a prisão cautelar ser mantida como forma de garantia à ordem pública e para assegurar a aplicação da Lei Penal, observando-se que, uma vez em liberdade, o réu colocaria em risco toda a população do município, principalmente os mais jovens, sendo certo, ainda, que o tráfico de drogas é crime grave, equiparado a hediondo, que fomenta a prática de crimes violentos, muitas vezes praticados com armas de fogo, contra o patrimônio e, até mesmo, contra a vida, colocando em risco toda a população ordeira desta cidade.
+Por sua vez, a Corte estadual assim dispôs acerca da dosimetria (e-STJ fls. 268/274, grifei):
+Passa-se à análise da dosimetria.
+Em atenção às circunstâncias judiciais do artigo 59 do Código Penal e do artigo 42 da Lei 11.343/06, a pena-base foi fixada no mínimo legal, ou seja, 05 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa, no piso mínimo.
+Na segunda fase, ausentes circunstâncias agravantes ou atenuantes.
+À míngua de recurso Ministerial e para que não se opera a "reformatio in pejus", será mantida a minorante prevista no parágrafo quarto do artigo 33 da Lei de Drogas, apesar da quantidade e poder vulnerante do entorpecente apreendido.
+Ressalta-se que, diante da ausência de parâmetros legais, modula-se a fração de redução da causa de diminuição do tráfico privilegiado em razão da qualidade (crack) e da quantidade de droga apreendida, além das consequências do crime de tráfico, a conduta e personalidade do agente que fazia do crime seu meio de vida, isto é, circunstâncias judiciais, previstas no artigo 59 do Código Penal, as quais não foram valoradas na primeira etapa da dosimetria.
+Nesse sentido:
+ ..
+Portanto, tendo em vista que a pena base foi fixada no mínimo legal, não há que se falar em "bis in idem", de modo que a quantidade dos entorpecentes localizados com o apelante deve ser utilizada como balizamento apenas para determinar a fração de redução do tráfico privilegiado, no caso em apreço, corretamente fixada em um sexto.
+Ressalta-se que, de acordo com o entendimento do E. Superior Tribunal de Justiça, diante do efeito devolutivo amplo da apelação, o Tribunal está autorizado a inovar na fundamentação empregada na dosimetria, sem que se cogite de reformatio in pejus, desde que a situação do apelante não seja agravada, o que se verifica nos presentes autos.
+Confira-se:
+ ..
+A pena final, superior a quatro anos, obsta a substituição da pena privativa de liberdade por restritiva de direitos, por força do artigo 44, inciso I, ambos do Código Penal.
+Em que pese o total da reprimenda autorize o regime intermediário, a teor do artigo 33, § 2º, alínea "b" do Código Penal, o regime fechado será mantido, ante a gravidade concreta do delito, evidenciada não só pela quantidade de drogas, mas pelo elevado poder vulnerante (crack), circunstâncias que denotam maior reprovabilidade à conduta, notadamente pela potencialidade lesiva provocada pela inserção de significativa proporção de droga no mercado ilícito, o que sem dúvida leva ao fortalecimento da criminalidade organizada, justificado o regime mais gravoso, observados os parâmetros do artigo 33, § 3º do Código Penal e prestigiado o binômio da reprovabilidade e da suficiência.
+E tampouco se cogite de inobservância dos enunciados das Súmulas 718 e 719 do E. Supremo Tribunal Federal, eis que o regime mais rigoroso restou fundamentado estritamente com base na lei e na gravidade em concreto do delito.
+Pois bem.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Nota-se que referido pleito não foi requerido no presente writ, porém, em razão da flagrante ilegalidade quanto à fração referente ao tráfico privilegiado, entendo pela readequação da reprimenda.
+A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+Definiu-se, na ocasião, que " a  utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+Além disso, faz-se necessário asseverar que, posteriormente, o referido colegiado aperfeiçoou o entendimento anteriormente exarado no julgamento do Recurso Especial n. 1.887.511/SP, passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria.
+No presente caso, o paciente é primário, possui bons antecedentes, não se dedica a atividades delitivas e não pertence a organização criminosa, segundo se depreende da sentença condenatória.
+Importa ressaltar, também, que a quantidade de drogas apreendidas - aproximadamente 98g (noventa e oito gramas) de crack - não se mostra significativa o suficiente para amparar a não aplicação da minorante na fração de 2/3 (dois terços).
+Nesse mesmo sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO VERIFICADA. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. ILEGALIDADE FLAGRANTE QUE AUTORIZA A CONCESSÃO DE ORDEM DE OFÍCIO. INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO EM 2/3. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. São cabíveis os embargos de declaração quando evidenciada deficiência no acórdão recorrido diante de efetiva obscuridade, contradição, ambiguidade ou omissão, conforme preceitua o art. 619 do CPP, o que configurou-se na hipótese.
+2. Ocorrendo o trânsito em julgado da condenação, junto à instância ordinária, é indevida a impetração de habeas corpus diretamente no STJ, cuja competência prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados. Contudo, ressalvam-se casos de flagrante ilegalidade, a qual autoriza a concessão da ordem de ofício.
+3. A quantidade não expressiva de drogas e a ausência de elementos que permitam concluir, sem sombra de dúvida, que o acusado se dedica a atividade criminosa ou pertence a organização desta espécie, exigem a aplicação da minorante do tráfico privilegiado em patamar máximo (2/3).
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgRg no HC n. 722.090/RN, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 14/2/2023, DJe de 17/2/2023, grifei.)
+Assim, é de rigor a aplicação da referida minorante em seu grau máximo.
+Fixadas essas balizas, passo à dosimetria da pena em relação ao crime previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Na primeira fase, mantenho a pena-base do mínimo legal - 5 anos de reclusão.
+Na segunda etapa, a pena permanece no mínimo legal, ante a ausência de circunstâncias atenuantes e agravantes.
+Na terceira fase, reduzo a pena em 2/3, nos termos do art. 33, § 4º, da Lei n. 11.343/2006, tornando a reprimenda definitiva em 1 ano e 8 meses de reclusão.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do CP, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Nesse tear, diante dos parâmetros acima e dada a quantidade de pena aplicada de 1 ano e 8 meses de reclusão, fixo o regime aberto para o início do cumprimento da pena.
+Preenchidos os requisitos do art. 44 do Código Penal, o paciente faz jus à substituição da pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da execução penal.
+À vista de tais pressupostos, concedo a ordem de ofício, para fixar em 2/3 a fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e, assim, reduzir a reprimenda para 1 ano e 8 meses de reclusão, bem como fixar o regime inicial aberto de cumprimento de pena e determinar a substituição da pena privativa de liberdade por restritivas de direitos, a serem estipuladas pelo Juízo da execução penal.
+Publique-se. Intimem-se.
+EMENTA
