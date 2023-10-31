@@ -1,0 +1,2 @@
+Altera as Leis nºs 10.406, de 10 de janeiro de 2002 (Código Civil), 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer o risco de violência doméstica ou familiar como causa impeditiva ao exercício da guarda compartilhada, bem como para impor ao juiz o dever de indagar previamente o Ministério Público e as partes sobre situações de violência doméstica ou familiar que envolvam o casal ou os filhos.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
