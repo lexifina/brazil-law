@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da inexistência de ofensa aos arts. 489 e 1022 do CPC/2015, da inadequação da via eleita para análise de ofensa ao art. 93, inc. IX, da CF/1988 e da incidência das Súmulas 211/STJ, 282/STF, 356/STF e 7/STJ.
+Subindo os autos a esta Corte Superior, foi prolatada pela Presidência deste Tribunal a decisão de fls. 184-185, a qual foi objeto de embargos de declaração (fls. 187-195), acolhidos com efeitos infringentes para tornar sem efeito a referida decisão (fls. 210-211), determinando-se a distribuição.
+Vindos então a esta relatoria, verificou-se que a agravante protocolou a petição de fls. 203-209, na qual informou a adesão a programa de parcelamento e requereu "(..) a suspensão da presente execução fiscal, até o adimplemento de todas as parcelas integrantes do parcelamento, nos termos do artigo 151, inciso VI do CTN e a consequente remessa do presente recurso para a instância originária." (fl. 203).
+A Fazenda Nacional, agravada nestes autos, foi intimada e manifestou-se nos seguintes termos (fl. 238): "(..) conforme consulta ao sistema da PGFN, as dívidas objeto de cobrança foram negociadas no SISPAR, código 731. Assim, como cabe à origem faze a acompanhamento e eventual conclusão do parcelamento suspende a exigibilidade do crédito, não há o que mais decidir nessa superior instância, devendo aí sim o processo ser encaminhado à origem, após a certificação do trânsito em julgado.".
+Nesse contexto, evidencia-se que o presente agravo em recurso especial deixou de ter objeto, vez que o interesse da parte na subida do seu apelo nobre claramente não subsiste.
+Ante o exposto, julgo prejudicada a análise do agravo em recurso especial, pela perda superveniente de seu objeto, determinando a baixa dos autos à origem.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ADESÃO A PROGRAMA DE PARCELAMENTO. AGRAVO EM RECURSO ESPECIAL PREJUDICADO PELA PERDA SUPERVENIENTE DE SEU OBJETO.
