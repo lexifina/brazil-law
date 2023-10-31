@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ALLAN SULEIMAN no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação n. 0011060-29.2018.8.16.0030).
+Depreende-se dos autos que o ora paciente foi condenado às penas de 3 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, e multa, como incurso no art. 35, caput, c/c o art. 40, VI, da Lei de Drogas; e 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, VI, do mesmo diploma legal.
+A defesa interpôs recurso de apelação perante o Tribunal de origem, o qual lhe negou provimento, em acórdão assim ementado (e-STJ fl. 67):
+APELAÇÃO CRIMINAL - CRIMES DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E TRÁFICO DE DROGAS (ARTIGOS 33 E 35, C/C ARTIGO 40, INCISO VI, DA LEI Nº 11.343/2006) - PEDIDO DE CONCESSÃO DOS BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA - RÉU CARLOS EDUARDO CABRAL - NÃO CONHECIMENTO - MATÉRIA AFETA AO JUIZ DA EXECUÇÃO - MÉRITO: PLEITO ABSOLUTÓRIO COMUM PROVAS CONTUNDENTES A - DELITO ASSOCIATIVO - NÃO ACOLHIMENTO - DEMONSTRAR A PRÁTICA DELITUOSA - VÍNCULO ESTÁVEL E PERMANENTE COM OS DEMAIS CORRÉUS E ADOLESCENTES, OBJETIVANDO A PRÁTICA DO NARCOTRÁFICO - PALAVRA DOS POLICIAIS, EM CONSONÂNCIA COM AS PROVAS PRODUZIDAS, SOBRETUDO A PRÉVIA INVESTIGAÇÃO IN LOCO - CONDENAÇÃO QUE DEVE SER MANTIDA - PLEITO ABSOLUTÓRIO - - NÃO CABIMENTO - PROVA DELITO DE TRÁFICO DE DROGAS - RÉU ALLAN SULEIMAN PRODUZIDA QUE DEMONSTRA DE FORMA CABAL, A PRÁTICA DELITIVA - DOSIMETRIA DAS PENAS ADEQUADAMENTE FIXADAS - VALORAÇÃO NEGATIVA DA CULPABILIDADE DOS RÉUS CARLOS EDUARDO CABRAL E RAFAEL MARCELINO DE MELO EM RAZÃO DA POSIÇÃO OCUPADA DENTRO DA ASSOCI AÇÃO CRIMINOSA NA FUNÇÃO DE "GERENTES DO TRÁFICO" - FUNDAMENTAÇÃO ADEQUADA - CIRCUNSTÂNCIAS DO DELITO ADEQUADAMENTE FUNDAMENTADAS NO ALTO GRAU DE ORGANIZAÇÃO DA ASSOCIAÇÃO CRIMINOSA, COM A COMERCIALIZAÇÃO DE ELEVADA QUANTIDADE DE ESTUPEFACIENTES - REINCIDÊNCIA E DESVALOR DE CIRCUNSTÂNCIAS JUDICIAIS QUE AUTORIZAM A MANUTENÇÃO DE REGIME PRISIONAL MAIS GRAVOSO E O INDEFERIMENTO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO - PENA DE MULTA QUE É MAIS ELEVADA PARA DELITOS DESSA NATUREZA, POR QUESTÃO DE POLÍTICA LEGISLATIVA - EVENTUAL APURAÇÃO DA CAPACIDADE ECONÔMICA DOS RÉUS QUE DEVERÁ SER APURADA PELO JUIZ DA EXECUÇÃO - RECURSO DO RÉU CARLOS EDUARDO CABRAL PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, NÃO PROVIDO - RECURSOS DOS DEMAIS ACUSADOS CONHECIDOS E NÃO PROVIDOS.
+Daí o presente writ, no qu al sustenta a defesa que a conduta do paciente deveria ser desclassificada para o art. 37 da Lei de Drogas, tendo em vista que "foi apontado em um único episódio e isolado, na função de "olheiro"" (e-STJ fl. 6).
+Requer, assim, a desclassificação dos crimes de tráfico de drogas e associação para tal fim para a prevista no art. 37 da Lei n. 11.343/2006.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+O habeas corpus não comporta conhecimento.
+Isso, porque, pela análise do acórdão proferido em sede de apelação, constata-se que o Tribunal de origem não analisou o pedido de desclassificação das condutas para o art. 37 da Lei de Drogas.
+Assim, tem-se que o debate diretamente por esta Corte Superior incorreria em indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
