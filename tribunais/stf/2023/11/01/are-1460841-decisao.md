@@ -1,0 +1,69 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. IMPORTAÇÃO. O ESTADO COMPETENTE AO RECOLHIMENTO DO TRIBUTO: DESTINATÁRIO DA MERCADORIA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS: SÚMULA 279 DESTE SUPREMO TRIBUNAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Primeira Câmara de Direito Público do Tribunal de Justiça de São Paulo:
+
+    “APELAÇÃO - MANDADO DE SEGURANÇA - ICMS IMPORTAÇÃO - Pretensão da impetrante de afastar auto de infração e imposição de multa lavrado em virtude do não recolhimento de ICMS em operação de importação realizada por “conta e ordem” - Sentença que denegou a segurança que deve ser parcialmente reformada - Recolhimento do ICMS deve ser feito no Estado em que está sediado o destinatário final das mercadorias - Empresa importadora (trading), sediada no Espírito Santo, que age como mera intermediadora da operação Inteligência do art. 155, inciso II, 2º, IX, alínea "a", da Constituição Federal, instrução normativa SRF nº 225/2002, 634/2006, protocolo ICMS 23/2009 e tema nº 520 do Supremo Tribunal Federal - Multa, entretanto, que supera em 100% o valor do tributo, devendo ser reduzida a esta expressão Princípio do não confisco Precedentes. Não conhecida remessa necessária, recurso provido em parte” (fl. 5, doc. 8).
+
+    Os embargos de declaração opostos foram rejeitados (doc. 12).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado os incs. XXXV e LV do art. 5º, o inc. IX do art. 93, o inc. IV do art. 150, o inc. II, a al. a do inc. IX e o § 2º do art. 155 da Constituição da República.
+
+    Sustenta que, “apesar de todos esses elementos devidamente fixados os quais reconhecem que a operação ocorreu na modalidade por encomenda e que o sujeito ativo é o Estado do Espírito Santo, o Tribunal a quo concluiu que a operação se presume como realizada por conta e ordem, com base no único argumento de que não houve recolhimento do ICMS-importação para o fisco capixaba” (fl. 18, doc. 16).
+
+    3. O recurso extraordinário foi inadmitido aos fundamentos de harmonia do acórdão recorrido com a jurisprudência deste Supremo Tribunal e pela incidência das Súmulas ns. 279 e 280 do Supremo Tribunal Federal (doc. 20).
+
+    No recurso extraordinário com agravo, a agravante afirma que “a alegação de negativa de prestação jurisdicional, por óbvio, não esbarra na súmula 280 do STF, vez que não se trata de análise de direito local, mas se trata de matéria de cunho manifestamente constitucional, fundamentada nos artigos 5º, XXXV e LV e 93, IX da CRFB/88” (sic, fl. 8, doc. 25).
+
+    Assevera que “o que se pretende é demonstrar que o Tribunal se manteve omisso sobre questão relevante negando, em consequência, a prestação da devida tutela jurisdicional plena a que a CONTUFLEX tem direito. Não se trata de análise de fatos e provas, mas de argumento de direito, razão pela qual também não encontra óbice na súmula 279 do STF” (fl. 8, doc. 25).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    4. Razão jurídica não assiste à agravante.
+
+    5. A alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da agravante, o acórdão recorrido apresentou suficiente fundamentação. Firmou-se na jurisprudência deste Supremo Tribunal:
+
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE n. 140.370, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+
+    6. O Tribunal de origem assentou:
+
+    “No caso dos autos, a empresa importadora Utility Comercial Importadora e Exportadora Ltda. promoveu, na qualidade de “trading”, o ingresso de mercadorias no país em favor da impetrante, que, por sua vez, adquiriu-as como destinatária legal dos produtos ou para revenda. Neste caso, a circulação da mercadoria, desde a sua chegada até o desembaraço aduaneiro e o transporte, é considerada mera etapa intermediária da importação, concluída mediante a entrega pelo importador.
+
+    Neste ponto, em 27 de abril de 2020 o Plenário do Supremo Tribunal Federal concluiu o julgamento do ARE 665134/MG, julgado sob repercussão geral definindo qual Estado teria competência para exigir o ICMS-Importação, com a fixação da seguinte tese ao abrigo do tema nº 520: ‘O sujeito ativo da obrigação tributária do ICMS incidente sobre mercadoria importada é o Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação que deu causa à circulação da mercadoria, com a transferência de domínio.’” (fl. 8-9, doc. 8).
+
+    O acórdão recorrido harmoniza-se com essa jurisprudência deste Supremo Tribunal, firmada no julgamento no Recurso Extraordinário com Agravo n. 665.134, no qual fixada a tese de que “O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria importada é o Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação que deu causa à circulação da mercadoria, com a transferência de domínio”. Confira-se a ementa desse julgado:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL RECONHECIDA. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. IMPORTAÇÃO. ART. 155, §2º, IX, “A”, DA CONSTITUIÇÃO DA REPÚBLICA. ART. 11, I, “D” E “E”, DA LEI COMPLEMENTAR 87/96. AS PECTO PESSOAL DA HIPÓTESE DE INCIDÊNCIA. DESTINATÁRIO LEGAL DA MERCADORIA. DOMICÍLIO. ESTABELECIMENTO. TRANSFERÊNCIA DE DOMÍNIO. IMPORTAÇÃO POR CONTA PRÓPRIA. IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO. IMPORTAÇÃO POR CONTA PRÓPRIA, SOB ENCOMENDA. 1. Fixação da seguinte tese jurídica ao Tema 520 da sistemática da repercussão geral: “O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria importada é o Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação que deu causa à circulação da mercadoria, com a transferência de domínio.” 2. A jurisprudência desta Corte entende ser o sujeito ativo do ICMS-importação o Estado-membro no qual estiver localizado o destinatário final da operação, logo é irrelevante o desembaraço aduaneiro ocorrer na espacialidade de outro ente federativo. Precedentes. 3. Em relação ao significante “destinatário final”, para efeitos tributários, a disponibilidade jurídica precede a econômica, isto é, o sujeito passivo do fato gerador é o destinatário legal da operação da qual resulta a transferência de propriedade da mercadoria. Nesse sentido, a forma não prevalece sobre o conteúdo, sendo o sujeito tributário quem dá causa à ocorrência da circulação de mercadoria, caracterizada pela transferência do domínio. Ademais, não ocorre a prevalência de eventuais pactos particulares entre as partes envolvidas na importação, quando da definição dos polos da relação tributária. 4. Pela tese fixada, são os destinatários legais das operações, em cada hipótese de importação, as seguintes pessoas jurídicas: a) na importação por conta própria, a destinatária econômica coincide com a jurídica, uma vez que a importadora utiliza a mercadoria em sua cadeia produtiva; b) na importação por conta e ordem de terceiro, a destinatária jurídica é quem dá causa efetiva à operação de importação, ou seja, a parte contratante de prestação de serviço consistente na realização de despacho aduaneiro de mercadoria, em nome próprio, por parte da importadora contratada; c) na importação por conta própria, sob encomenda, a destinatária jurídica é a sociedade empresária importadora (trading company), pois é quem incorre no fato gerador do ICMS com o fito de posterior revenda, ainda que mediante acerto prévio, após o processo de internalização. 5. Na aplicação da tese ao caso concreto, colhem-se equívocos na qualificação jurídica do conjunto fático-probatório, tal como estabelecido pelas instâncias ordinárias e sob as luzes da jurisprudência do Supremo Tribunal Federal, pelas seguintes razões: a) não se considerou a circulação simbólica da mercadoria como aspecto material do fato gerador; b) a destinação da mercadoria importada como matéria-prima para a produção de defensivos agrícolas em nada interfere a fixação do sujeito ativo do tributo, porque não cabe confundir o destinatário econômico com o jurídico; e c) não se verifica qualquer indício de “importação indireta”, uma vez que, no caso, trata-se de filiais de uma mesma sociedade empresária. 6. Faz-se necessária a utilização de técnica de declaração de inconstitucionalidade parcial, sem redução de texto, ao art. 11, I, “d”, da Lei Complementar federal 87/96, com o fito de afastar o entendimento de que o local da operação ou da prestação, para os efeitos da cobrança do imposto e definição do estabelecimento responsável pelo tributo, é apenas e necessariamente o da entrada física de importado. 7. Recurso extraordinário a que se nega provimento.” (ARE n. 665.134, Relator o Ministro Edson Fachin, Plenário, DJe 19.5.2020).
+
+    7. O Tribunal de origem decidiu a controvérsia sobre a competência do Estado de São Paulo para exigir o ICMS, ao fundamento de que o recolhimento do tributo deve ser feito no Estado em que está sediado o destinatário final das mercadorias. Além disso, assentou que, no caso em exame, a agravante não teria comprovado a competência tributária do Estado do Espírito Santo:
+
+    O “recolhimento do ICMS deve ser feito no Estado em que está sediado o destinatário final das mercadorias - Empresa importadora (trading), sediada no Espírito Santo, que age como mera intermediadora da operação Inteligência do art. 155, inciso II, 2º, IX, alínea "a", da Constituição Federal, instrução normativa SRF nº 225/2002, 634/2006, protocolo ICMS 23/2009 e tema nº 520 do Supremo Tribunal Federal”(fl. 5, doc. 8).
+
+     A revisão desse julgado pressupõe o reexame de prova, inviável no recurso extraordinário conforme dispõe a Súmula 279 deste Supremo Tribunal. Assim, por exemplo:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. IMPORTAÇÃO DE MERCADORIA. SUJEITO ATIVO DO TRIBUTO. ESTABELECIMENTO DESTINATÁRIO. IMPORTAÇÃO INDIRETA. DISCUSSÃO RELATIVA AO LOCAL ONDE ESTÁ SITUADO O ESTABELECIMENTO DA IMPORTADORA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. SÚMULA 279/STF. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, o sujeito ativo da relação jurídico-tributária do ICMS é o Estado em que estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria. 2. Não há repercussão constitucional imediata da controvérsia sobre o local onde se situa o estabelecimento do importador ou, ainda, sobre o destino da mercadoria após a importação. Incidência da Súmula 279/STF. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973” (ARE 832.565-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 28.10.2016).
+
+    “CONSTITUCIONAL E TRIBUTÁRIO. ART. 155, §2º, IX, DA CONSTITUIÇÃO FEDERAL. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIA E SERVIÇOS – ICMS. OPERAÇÕES DE IMPORTAÇÃO. ESTADO APTO AO RECOLHIMENTO. LOCALIZAÇÃO DO ESTABELECIMENTO DESTINATÁRIO, INDEPENDENTEMENTE DO LOCAL DO DESEMBARAÇO ADUANEIRO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 279 DO STF. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que o sujeito ativo do ICMS é o Estado-membro para o qual, efetivamente, destinou-se a mercadoria importada, independentemente do local do desembaraço aduaneiro. 2. Agravo regimental a que se nega provimento” (RE n. 460.118-AgR-segundo, Relator o Ministro Teori Zavascki, Segunda Turma, DJe 10.3.2014).
+
+    8. No julgamento do Recurso Extraordinário com Agravo n. 748.371, (Tema 660), Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou inexistir repercussão geral na alegação de contrariedade aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando necessário o exame da legislação infraconstitucional, como se tem na espécie em exame:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+
+    Nada há a prover quanto às alegações da agravante.
+
+    9. Pelo exposto, nego provimento ao recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 1º de novembro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
