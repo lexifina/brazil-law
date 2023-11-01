@@ -1,0 +1,15 @@
+ANEXO “A”
+COMITÊ DE PRONUNCIAMENTOS CONTÁBEIS
+REVISÃO DE PRONUNCIAMENTOS TÉCNICOS – N.º 22/2022
+Este documento de revisão apresenta alterações nos Pronunciamentos Técnicos: CPC 15 (R1), CPC 27, CPC 20 (R1) e CPC 41.
+Este documento estabelece alterações em Pronunciamentos Técnicos em decorrência da revogação do CPC 08 (R1) - Custos de Transação e Prêmios na Emissão de Títulos e Valores Mobiliários.
+Os trechos excluídos estão tachados.
+Altera o item 53 no CPC 15 (R1) – Combinação de Negócios, que passa a vigorar com a seguinte redação:
+53. Os custos diretamente relacionados à aquisição são custos que o adquirente incorre para efetivar a combinação de negócios. Esses custos incluem honorários de profissionais e consultores, tais como advogados, contadores, peritos, avaliadores; custos administrativos gerais, inclusive custos decorrentes da manutenção de departamento de aquisições; e custos de registro e emissão de títulos de dívida e de títulos patrimoniais. O adquirente deve contabilizar os custos diretamente relacionados à aquisição como despesa no período em que forem incorridos e os serviços forem recebidos, com apenas uma exceção. Os custos decorrentes da emissão de títulos de dívida e de títulos patrimoniais devem ser reconhecidos de acordo com o CPC 48 – Instrumentos Financeiros e o CPC 39 – Instrumentos Financeiros: Apresentação.
+Altera o item 23 no CPC 27 - Ativo Imobilizado, que passa a vigorar com a seguinte redação:
+23. O custo de um item de ativo imobilizado é equivalente ao preço à vista na data do reconhecimento. Se o prazo de pagamento excede os prazos normais de crédito, a diferença entre o preço equivalente à vista e o total dos pagamentos deve ser reconhecida como despesa com juros durante o período (ver o Pronunciamento Técnico CPC 12 – Ajuste a Valor Presente, principalmente seu item 10), a menos que seja passível de capitalização de acordo com o Pronunciamento Técnico CPC 20 – Custos de Empréstimos.
+Altera a letra (a) do item 6 no CPC 20 (R1) - Custos de Empréstimos, que passa a vigorar com a seguinte redação:
+6. Custos de empréstimos podem incluir:
+(a) encargos financeiros calculados com base no método da taxa efetiva de juros, como descrito no CPC 48 – Instrumentos Financeiros;
+Altera o item 34 no CPC 41 - Resultado por Ação, que passa a vigorar com a seguinte redação:
+34. Após as ações ordinárias potenciais terem sido convertidas em ações ordinárias, os itens identificados no item 33(a) a (c) não mais se aplicam. Em vez disso, as novas ações ordinárias têm a prerrogativa de participar no lucro ou prejuízo atribuível aos titulares de capital próprio ordinário da companhia. Desse modo, o lucro ou prejuízo atribuível aos titulares de capital próprio ordinário da companhia, calculados de acordo com o item 12, devem ser ajustados para os itens identificados no item 33(a) a (c) e quaisquer tributos relacionados. As despesas relacionadas às ações ordinárias potenciais incluem custos de transação e descontos contabilizados em conformidade com o método da taxa efetiva de juros (ver CPC 48 – Instrumentos Financeiros ).
