@@ -1,0 +1,4 @@
+Resolução Nº 222 INSTRUÇÃO NORMATIVA BCB Nº 417, DE 25 DE OUTUBRO DE 2023
+Estabelece normas e condições para atuação de servidores no desempenho eventual de atividades com percepção da Gratificação por Encargo de Curso ou Concurso de que trata o art. 76-A da Lei nº 8.112, de 11 de dezembro de 1990.
+O Chefe do Departamento de Gestão de Pessoas, Educação, Saúde e Organização (Depes) do Banco Central do Brasil (BCB), no uso das atribuições que lhe conferem arts. 23, inciso I, alínea “a”, 61, incisos III, alíneas “a”, “g” e “h”, IV, VII e X, e art. 63, inciso II, alíneas “f” e “j”, do Regimento Interno do BCB, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, e tendo em vista o disposto no art. 76-A da Lei nº 8.112, de 11 de dezembro de 1990, no Decreto 11.069, de 10 de maio de 2022, na Instrução Normativa SGP/SEDGG/ME nº 64, de 5 de setembro de 2022, e na Resolução BCB nº 212, de 23 de março de 2022,
+R E S O L V E :
