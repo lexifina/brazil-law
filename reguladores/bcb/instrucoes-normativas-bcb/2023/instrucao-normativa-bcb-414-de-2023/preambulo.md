@@ -1,0 +1,2 @@
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig) no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Resolução BCB nº 340, de 21 de setembro de 2023, com base no art. 85, inciso I, alínea “b”, do referido Regimento, tendo em vista o disposto nas Resoluções CMN ns. 4.966, de 25 de novembro de 2021, e 5.037, de 29 de setembro de 2022, na Circular nº 3.870, de 19 de dezembro de 2017, e na Carta Circular nº 3.869, de 19 de março de 2018,
+RESOLVE:
