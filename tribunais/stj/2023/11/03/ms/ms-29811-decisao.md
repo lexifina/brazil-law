@@ -1,0 +1,46 @@
+DECISÃO
+Vistos.
+Trata-se de Mandado de Segurança impetrado por VANIA EDUARDA BOCALETE PONTES GESTAL contra ato do 3º Grupo de Direito Público do Tribunal de Justiça do Estado de São Paulo.
+Alega a Impetrante que ajuizou execução de título extrajudicial contra a Fazenda Pública do Estado de São Paulo, em razão de ter atuado como advogada do convênio entre a OAB/SP e a Defensoria Pública de São Paulo e não ter recebido devidamente os honorários de processos nos quais atuou.
+As partes apelaram contra a sentença proferida pela Vara Única da Comarca de Viradouro/SP. Os recursos foram, inicialmente, distribuídos para a 34ª Câmara de Direito Privado do TJSP e, posteriormente, redistribuídos para 7ª Câmara de Direito Público do TJSP, que os julgou.
+Nesse contexto, sustenta a incompetência da 7ª Câmara de Direito Público para o julgamento das apelações e informa que, buscando invalidar o acórdão proferido, ajuizou Reclamação perante o TJSP, com fundamento no art. 988, I e II, do CPC.
+Ressalta, ainda, que o próprio Tribunal distribuiu a Reclamação para o 3º Grupo de Direito Público do Tribunal de Justiça de São Paulo, o qual proferiu acórdão inadmitindo-a, o que configura decisão manifestamente teratológica que ofende direito líquido e certo da Impetrante.
+Apresenta vários precedentes do Tribunal de Justiça do Estado de São Paulo, em sede de Conflito de Competência, julgados pelo Órgão Especial do Tribunal Paulista, nos quais foi reconhecida a competência das Câmaras de Direito Privado.
+Acrescenta que a autoridade coatora ofende ao princípio do juiz natural, o qual é previsto expressamente no art. 5º, XXVII e LIII, da Constituição da República.
+Por fim, sustenta a teratologia da decisão judicial objeto do writ, porquanto também foi proferida por órgão jurisdicional incompetente, uma vez que a Reclamação deve ser julgada por quem teve a competência usurpada (art. 988, §1º do CPC) e, assim, caberia a Terceira Subseção de Direito Privado o julgamento da reclamação, sendo que embora a impetrante tenha destinado à Reclamação a ela, a própria serventia redirecionou os autos ao grupo de Direito Público.
+Requer, liminarmente, a cassação do acórdão do 3º Grupo de Direito Público do Tribunal de Justiça de São Paulo proferido nos autos n. 2248786-57.2023.8.26.0000, assim como o acórdão da 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, no processo n. 1000449-66.2021.8.26.0660 e transferência do julgamento das apelações dos autos n. 1000449-66.2021.8.26.0660 para uma das Câmaras de Direito Privado da Terceira Subseção do Tribunal de Justiça de São Paulo e, no mérito, a confirmação da decisão.
+É o relatório, decido.
+Conforme previsto no art. 105, I, b, da Constituição da República, a competência originária do Superior Tribunal de Justiça para processar e julgar mandados de segurança restringe-se aos impetrados contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso, consoante relatado na inicial, o ato impugnado provém de aut oridade diversa das arroladas no art. 105, I, b, da Carta Política, revelando-se a manifesta incompetência desta Corte para o julgamento da presente ação mandamental, nos termos consolidados no enunciado da Súmula 41/STJ, verbis:
+O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos.
+Nesse sentido, destaco, dentre outros, os seguintes julgados desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ACÓRDÃO DO PLENO DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, EM PROCESSO ADMINISTRATIVO DISCIPLINAR. MANIFESTA INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 105, I, B, DA CONSTITUIÇÃO FEDERAL, SÚMULA 41/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO DESPROVIDO.
+I. Agravo interno aviado contra decisão que indeferira liminarmente a inicial do mandado de segurança, em face da incompetência absoluta do Superior Tribunal de Justiça.
+II. In casu, trata-se de Mandado de Segurança, impetrado contra suposto ato ilegal do Pleno do Tribunal de Justiça do Estado do Pará, "que converteu o julgamento de Processo Administrativo Disciplinar n. 0005184-09.2019.8.14.0000 em diligência para periciar a voz do Impetrante em áudio divulgado nas mídias sociais que é prova ilícita e em violação ao direito de não produzir prova contra si mesmo".
+III. Conforme o disposto no art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça o processamento e o julgamento de mandados de segurança impetrados contra atos da própria Corte, de Ministros de Estado, de Comandantes da Marinha, do Exército e da Aeronáutica.
+IV. Aplica-se, ao caso, a Súmula 41/STJ, no sentido de que "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+V. Agravo interno desprovido.
+(AgInt no MS n. 27.881/PA, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 8/3/2023, DJe de 15/3/2023.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO DE DESEMBARGADOR FEDERAL. STJ. INCOMPETÊNCIA.
+1. Segundo o disposto no art. 105, I, "b", da Carta Política de 1988, compete ao Superior Tribunal de Justiça o processamento e o julgamento de mandados de segurança impetrados contra atos da própria Corte, de Ministros de Estado, de Comandantes da Marinha, do Exército e da Aeronáutica.
+2. Hipótese em que o mandamus ataca decisão proferida pelo Presidente do Tribunal Regional Federal da 3ª Região, autoridade não compreendida no rol do permissivo constitucional acima citado, circunstância que atrai a incidência da Súmula 41 do STJ.
+3. Agravo interno desprovido.
+(AgInt no MS n. 28.029/SP, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 23/3/2022, DJe de 7/4/2022.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ATO DO PRESIDENTE DA TURMA NACIONAL DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INCOMPETÊNCIA DESTA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA N. 41/STJ.
+I - O presente feito decorre de mandado de segurança impetrado contra decisão proferida pelo Presidente da Turma Nacional de Uniformização de Jurisprudência-TNU. Nesta Corte, extinguiu-se o feito sem julgamento do mérito.
+II - Conforme dispõe o art. 105, I, "b" da Constituição Federal, compete ao Superior Tribunal de Justiça: "I - processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal."
+III - No caso, este mandado de segurança se volta contra decisão proferida pelo Presidente da Turma Nacional de Uniformização de Jurisprudência, a atrair a incidência do enunciado contido na Súmula n. 41 do STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+IV - Neste sentido, colaciona-se os precedentes desta Corte, in verbis: MS 23.850/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 13/12/2017, DJe 20/11/2018 e AgRg no MS 20.251/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 12/08/2013.
+V - Agravo interno improvido.
+(AgInt no MS n. 26.288/DF, relator Ministro Francisco Falcão, Primeira Seção, julgado em 15/12/2020, DJe de 18/12/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. WRIT IMPETRADO CONTRA SUPOSTO ATO ILEGAL DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA DA SÚMULA 41/STJ.
+1. Agravo interno aviado contra decisão monocrática que julgou extinto, sem resolução de mérito, mandado de segurança impetrado originariamente, perante o STJ, contra suposto ato ilegal e abusivo do Presidente do Tribunal de Justiça do Estado do Amapá.
+2. O art. 105, I, b, da Constituição Federal restringe a competência desta Corte para processar e julgar, originariamente, os mandados de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+3. "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra atos de outros tribunais ou dos respectivos órgãos" (Súmula 41/STJ).
+4. Agravo interno não provido.
+(AgInt no MS n. 25.142/DF, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 15/10/2019, DJe de 18/10/2019.)
+Na mesma linha, ainda, as seguintes decisões monocráticas: MS 20.230/MG, Rel. Min. Eliana Calmon, DJe de 24.06.2013; MS 21.016/SP, Rel. Min. Assusete Magalhães, DJe de 04.08.2014; MS 20.966/RJ, Rel. Min. Sérgio Kukina, DJe de 06.05.2014; MS 20.897/GO, Rel. Min. Mauro Campbell Marques, DJe de 09.04.2014; MS 21.252/SP, Rel. Min. Maria Isabel Gallotti, DJe de 17.09.2014; e MS 20.571/AL, Rel. Min. Benedito Gonçalves, DJe de 05.11.2013.
+Posto isso, INDEFIRO, DE PLANO, A INICIAL do mandado de segurança, nos termos dos arts. 10, caput, da Lei n. 12.016/2009; e 34, XIX, e 212 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
+EMENTA
