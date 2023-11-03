@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por OSCAR LUIS DE MORAIS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 1015):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. IMÓVEIS. GARAGENS. AVALIAÇÃO POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. ERRO OU DOLO DO AVALIADOR. INEXISTÊNCIA. FUNDADA DÚVIDA DO JUÍZO. AUSÊNCIA. NOVA AVALIAÇÃO. IMPOSSIBILIDADE. ADJUDICAÇÃO. IRRELEVÂNCIA. Considerando que a impugnação apresentada pelo agravante não demonstrou de forma técnica e fundamentada a existência de erro ou dolo na avaliação judicial, bem como que, por outras razões suficientes, o juízo singular afastou eventual fundada dúvida sobre o valor correto dos imóveis, não há a necessidade de nova avaliação. O Código de Processo Civil não estabelece critério diferenciado de avaliação de bens penhorados para a hipótese de o exequente pretender adjudicá-los. A avaliação por Oficial de Justiça não leva em consideração a forma de expropriação do bem escolhida pelo exequente, tanto que realizada antes da opção pela adjudicação ou alienação judicial. A única exigência prevista no artigo 876, do diploma processual, é que os bens não sejam adjudicados por valor inferior ao da avaliação. Não configuradas as hipóteses previstas nos incisos do artigo 873, do Código de Processo Civil, deve ser mantida a decisão que homologou a avaliação realizada por Oficial de Justiça.
+Nas razões do recurso especial, a parte recorrente alega ofensa ao art. 873, III, do CPC, defendendo, em suma, a necessidade de uma nova avaliação do bem, uma vez que haveria discrepância entre o valor avaliado e o valor de mercado.
+Contrarrazões ao recurso especial às fls. 1122-1128.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1131-1133), o que ensejou a interposição do presente agravo (fls. 1135-1152).
+Contraminuta às fls. 1156-1162.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+Em suas razões recursais, a parte recorrente alega ofensa ao art. 873, III, do CPC, defendendo, em suma, a necessidade de uma nova avaliação do bem, uma vez que haveria discrepância entre o valor avaliado e o valor de mercado.
+Acerca do alegado, verifica-se que o Tribunal de origem firmou seu entendimento com base nos seguintes fundamentos (fls. 1017-1021):
+Os bens em discussão foram avaliados por Oficial de Justiça, em 12/042022(ID 121703267). O imóvel GAR-27 foi avaliado em R$67.125,00, enquanto que o imóvel GAR-31foi avaliado em R$79.330,00.
+Após a intimação das partes, o exequente concordou com a avaliação e requereu a adjudicação dos bens (ID 122907899). O executado impugnou a avaliação (IDs124107188 e 124109153), oportunidade na qual informou que imóveis similares, com idêntica localização, foram arrematados em leilão público judicial pela quantia individual de R$112.000,00(Processo nº 0017720 83.2015.8.07.0001).
+Em seguida, o juízo a quo determinou a realização de perícia para apurar o valor dos bens, tendo atribuído a responsabilidade pelo pagamento dos honorários à parte executada (ID 127667004). As partes não se insurgiram contra a referida decisão, conforme se nota do ID 131394841.
+Preclusa a decisão que determinou a realização de perícia, o perito nomeado apresentou proposta de honorários no valor de R$9.460,00 (ID 137393632). Devidamente intimados, o exequente optou por não se manifestar sobre a proposta (ID 137759201), ao passo que o executado com ela não concordou (ID 138758114).
+Em sua manifestação (ID 138758114), o executado aduz não possuir recursos financeiros para arcar com o pagamento da perícia. Alega que a perícia não é complexa. Menciona novamente os imóveis similares, localizados no mesmo edifício, que foram arrematados em leilão judicial por R$112.000,00 cada. Entende que é desnecessária a perícia. Ao final, requer:
+ ..
+O juízo a quo, então, proferiu a decisão agravada, que homologou a avaliação realizada pelo Oficial de Justiça. O magistrado entendeu que o executado declinou da prova pericial, de modo que sua produção restou preclusa.
+No entanto, outros argumentos foram adotados pelo Juízo de origem para fundamentar a homologação da avaliação dos bens. Confira-se:
+ ..
+No mais, inobstante a divergência apresentada pela parte executada, não se divisa da avaliação de ID 121703267 - nos valores de R$ 67.125,00 e R$79.330,00 - discrepância para com a avaliação havida em outros autos de garagens semelhantes (ID 124109152) - avaliadas no valor de R$ 60 mil, sendo o acréscimo do preço decorrente de lanços. Outrossim, a avaliação do Oficial indicou as características dos imóveis, cuidando-se de vagas de garagem, e apurou o valor com base em pesquisa no mercado imobiliário. De mais a mais, oportunizada a produção de prova para refutar a avaliação procedida, a parte optou por declinar da prova.
+ ..
+Outrossim, veja-se que o magistrado a quo indicou outras razões para homologar a avaliação realizada pelo Oficial de Justiça. De acordo com o auto de arrematação anexado aos autos pelo executado para fundamentar a impugnação à avaliação dos bens, os imóveis similares arrematados em leilão judicial pela quantia individual de R$112.000,00 foram avaliados em R$60.000,00 (ID 124109152). A alienação judicial por valor superior ao da avaliação inicial decorreu da disputa por lances.
+Deve-se ainda acrescentar que o auto de arrematação apresentado pelo executado, ora agravante, foi assinado em 02/12/2020, há mais de dois anos, portanto.
+Assim, depreende-se que, além de a avaliação dos bens realizada por Oficial de Justiça não estar discrepante da avaliação inicial indicada no auto de arrematação (base da comparação), a avaliação por Oficial de Justiça realizada nos autos de origem é mais recente(12/04/2022).
+Ademais, o agravante não apresentou outros elementos, tais como anúncios de venda de imóveis semelhantes em sites especializados ou avaliação particular realizada por corretor de imóveis capazes de demonstrar que tenha ocorrido erro na avaliação do Oficial de Justiça.
+ ..
+Nesse cenário, considerando que a impugnação apresentada pelo agravante não demonstrou de forma técnica e fundamentada a existência de erro ou dolo na avaliação judicial, bem como que, por outras razões suficientes, o juízo singular afastou eventual dúvida sobre o valor correto dos imóveis, não há a necessidade de nova avaliação.
+Além disso, no tocante à alegação do agravante de que a adjudicação dos bens importaria em enriquecimento ilícito do agravado, ressalte-se que o Código de Processo Civil não estabelece critério diferenciado de avaliação de bens penhorados para a hipótese de o exequente pretender adjudicá-los. A avaliação por Oficial de Justiça não leva em consideração a forma de expropriação do bem escolhida pelo exequente, tanto que realizada antes da opção pela adjudicação ou alienação judicial. A única exigência prevista no artigo 876, do diploma processual, é que os bens não sejam adjudicados por valor inferior ao da avaliação.
+Destarte, não configuradas as hipóteses previstas nos incisos do artigo 873,do Código de Processo Civil, deve ser mantida a decisão que homologou a avaliação realizada por Oficial de Justiça.
+Por fim, importa consignar que a eventual irresignação do executado contra a realização de perícia judicial para a avaliação dos bens deveria ter sido apresentada no momento e no modo oportunos, o que não ocorreu (ID 131394841).
+Logo, a decisão recorrida deve ser integralmente mantida. (grifei)
+Com efeito, verifica-se que o acolhimento da pretensão recursal naturalmente demanda a revisão de premissas firmadas pela Corte de origem diante do contexto fático-probatório constante dos autos, hipótese vedada em razão da incidência da Súmula n. 7/STJ.
+Nesse sentido, mutatis mutandis:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/73). EXECUÇÃO. AVALIAÇÃO DO BEM FEITA POR OFICIAL DE JUSTIÇA. FÉ PÚBLICA. INEXISTÊNCIA DE DEMONSTRAÇÃO DE PRESSUPOSTOS PARA ELABORAÇÃO DE NOVO LAUDO. REVISÃO. MATÉRIA FÁTICA E PROBATÓRIA.
+SÚMULA 7 DO STJ.
+1. A inversão do que foi decidido pelo Tribunal de origem no tocante à desnecessidade de nova avaliação do imóvel objeto da execução, ante a ausência de efetiva demonstração de razões fundadas, demandaria necessariamente o reexame do acervo fático-probatório contido nos autos, providência que desafia a Súmula 7 do STJ.
+2. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 996.254/GO, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/4/2017, DJe de 12/5/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. AVALIAÇÃO DE IMÓVEL PENHORADO REALIZADA POR OFICIAL DE JUSTIÇA. POSSIBILIDADE. DESNECESSIDADE DE DESIGNAÇÃO DE PROFISSIONAL ESPECIALIZADO NAS ÁREAS DE ENGENHARIA, ARQUITETURA OU AGRONOMIA. PRECEDENTES. SÚMULA 83/STJ. NECESSIDADE DE NOVA AVALIAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. É admitida a avaliação de bem imóvel levado à hasta pública realizada por oficial de justiça, uma vez que tal avaliação não se restringe às áreas de arquitetura, engenharia ou agronomia.
+Precedentes.
+2. O Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos e concluiu pela prescindibilidade de nova avaliação do imóvel. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.004.191/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/2/2017, DJe de 7/3/2017.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+ EMENTA
