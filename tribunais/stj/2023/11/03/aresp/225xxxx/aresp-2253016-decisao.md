@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que não admitiu o recurso especial de GABRIEL BRIGIDO DE SANTANA, representado por LEIA SILVA BRIGIDO DE SANTANA, protocolado com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurgira contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+PREVIDENCIÁRIO. ART. 203, INCISO V, DA CONSTITUIÇÃO DA REPÚBLICA. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. PESSOA PORTADORA DE DEFICIÊNCIA. PRESENÇA DOS REQUISITOS LEGAIS. CONCESSÃO DO AMPARO ASSISTENCIAL. TERMO INICIAL.
+- Prevalência da regra geral prevista no caput do art. 1.012 do Código de Processo Civil, porquanto não configuradas as hipóteses previstas no § 1.º do mesmo dispositivo legal.
+- O benefício de prestação continuada exige para a sua concessão que a parte comprove, alternativamente, ter idade igual ou superior a 65 anos ou deter impedimento de longo prazo de natureza física, mental, intelectual ou sensorial e, cumulativamente, não possuir meios de prover à própria manutenção ou detê-la provida por sua família (art. 20, caput, e § 2.º, da Lei n.º 8.742/1993).
+- Impedimento de longo prazo e miserabilidade comprovados nos autos.
+- Reconhecimento da procedência do pedido formulado.
+- Com relação ao termo inicial do benefício, deve ser fixado na data da citação, eis que, o conjunto probatório apresentado não permite inferir a existência dos requisitos necessários à concessão do benefício pleiteado à época do requerimento administrativo, tendo em vista o grande lapso temporal decorrido entre o pedido na via administrativa e a propositura da ação.
+Opostos embargos de declaração, foram eles rejeitados (fls. 611/620).
+Em suas razões, a parte recorrente sustenta haver a violação do art. 49, II, da Lei 8.213/1991. Alega que, conforme o entendimento do Superior Tribunal de Justiça, o "requerimento administrativo deve ser o marco inicial para o pagamento do benefício em discussão e tal fato independe se a comprovação dos requisitos tenha sido verificada apenas no âmbito judicial"" (fl. 641).
+Sem contrarrazões, o recurso especial foi inadmitido na origem (fls. 649/651 ).
+É o relatório.
+A questão debatida nos autos, qual seja, definir "o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária", encontra-se afetada à Primeira Seção desta Corte Superior, aguardando o julgamento dos Recursos Especiais 1.905.830/SP, 1.912.784/SP e 1.913.152/SP, de relatoria do Ministro Herman Benjamin, sob o rito dos recursos repetitivos (Tema 1.124/STJ).
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Pelo exposto, determino a devolução dos autos deste agravo em recurso especial, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
