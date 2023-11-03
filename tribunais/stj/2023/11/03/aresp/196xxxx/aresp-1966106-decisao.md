@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIGNOTO & IMHX EMPREENDIMENTOS LTDA, contra decisão que inadmitiu seu recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+A decisão de inadmissibilidade do recurso especial restou fundamentada nos seguintes termos:
+"O Recurso Especial não pode ser admitido, ante a inexistência de prova da sua tempestividade. O R E Verifica-se que não houve comprovação do feriado local previsto no Decreto Judiciário nº 597/2020 (01.04.2021 - quinta-feira santa), no ato da interposição do recurso, conforme prevê o artigo 1.003, § 6º, do Código de Processo Civil. Portanto, a petição recursal juntada em 20.04.2021 está intempestiva.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que "A quinta-feira que antecede a Sexta-Feira da Paixão não é feriado nacional, nos termos do art. 1º das Leis nºs 662/49 e 5.010/66, mas sim (AgInt no local, que deve ser demonstrado no momento da interposição do recurso, o que não ocorreu. " AREsp 1430660/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/06/2019, DJe 12/06/2019).
+Ainda, nesse sentido:
+(..)
+Diante do exposto, inadmito o recurso especial interposto.
+Intime-se. Diligências necessárias." (Fls. 483-485)
+Nas razões do agravo em recurso especial, o agravante defende a tempestividade do apelo extremo, sustentando que "a leitura da intimação de inadmissibilidade do Recurso Especial foi realizada pela Agravante em 27.03.2021, sábado. De tal modo, o prazo tão somente começa a correr na terça-feira (30.03.2021), uma vez que a leitura se deu em dia não útil." (fl. 498).
+Além disso, afirma que "deve-se afastar a presunção de feriado local, tendo em vista que não há necessidade de comprovação quando se tratar de feriado nacional". (fl. 499)
+Não há contraminuta.
+É relatório. Decido.
+Da análise acurada dos autos, à fl. 408, verifica-se que no dia 27/03/2021 o sistema PROJUDI certificou a "movimentação: CONFIRMADA A INTIMAÇÃO ELETRÔNICA Complemento: (Pelo advogado/curador/defensor de VIGNOTO & IMHX EMPREENDIMENTOS LTDA) em 26/03/2021 com prazo de 15 dias úteis *Referente ao evento (seq. 32) JUNTADA DE ACÓRDÃO (16/03/2021) e ao evento de expedição seq. 34".
+Assim, constata-se que a parte VIGNOTO & IMHX EMPREENDIMENTOS LTDA fora intimada do acórdão recorrido em 26/03/2021 - sexta-feira -, com início do cômputo do prazo recursal em 29/03/2021 - segunda-feira.
+O prazo para a interposição do agravo em recurso especial é de 15 (quinze) dias úteis, nos termos do art. 1.003, § 5º, c/c o art. 219, caput, do CPC/2015.
+Nesse contexto, o prazo recursal teve por termo final 19/04/2021 (segunda-feira), data anterior àquela de 20/04/2021, na qual foi interposto o recurso especial (e-STJ, fl. 412).
+Registra-se, que, à luz do art. 1.003, § 6º, do CPC/2015, que estabelece regra específica acerca da tempestividade de recurso diante de feriado local, este ou a suspensão do expediente não podem ser comprovados posteriormente à interposição do recurso, nem mesmo em agravo interno, como era admitido na sistemática do CPC/1973:
+Art. 1.003. O prazo para interposição de recurso conta-se da data em que os advogados, a sociedade de advogados, a Advocacia Pública, a Defensoria Pública ou o Ministério Público são intimados da decisão.
+(..)
+§ 6º O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso.
+De fato, como se depreende da simples leitura desse dispositivo, é obrigatória a comprovação de feriado local no ato de interposição do recurso, sob pena de não conhecimento, por intempestividade.
+Os dias que antecedem a Sexta-feira da Paixão não são feriados nacionais, devendo haver previsão, como feriados locais ou hipótese de suspensão de prazo no âmbito da jurisdição de cada Tribunal e, por isso, comprovados no ato da interposição do recurso, o que não foi realizado. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO RECURSO. NECESSIDADE. ENTENDIMENTO PACÍFICO DO STJ. MODULAÇÃO DOS EFEITOS APENAS PARA AS SEGUNDAS-FEIRAS DE CARNAVAL ANTERIORES À PUBLICAÇÃO DO ACÓRDÃO DE FIXAÇÃO DESSE ENTENDIMENTO. PRAZO DE 15 DIAS ÚTEIS. INTEMPESTIVIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na vigência do Código de Processo Civil de 2015, a ocorrência de feriado local ou de suspensão dos prazos processuais deve ser comprovada por meio de documento hábil no ato de interposição do recurso, não sendo possível fazê-lo posteriormente.
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 dias úteis, de acordo com o art. 1.003, § 5º, c/c o art. 219, caput, do CPC de 2015.
+3. A Corte Especial, no julgamento do REsp n. 1.813.684/SP, reafirmou que, nos recursos interpostos sob a vigência do CPC de 2015, a comprovação de feriado local deve ser feita no ato da interposição. Contudo, mitigou esse entendimento quanto à comprovação da segunda-feira de carnaval, modulando os efeitos do julgado para aplicação tão somente a recursos interpostos até a publicação do acórdão, ocorrida em 18/11/2019.
+4. A segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+5. O fato de não ter havido expediente no Superior Tribunal de Justiça é indiferente para fins de comprovação da tempestividade de recurso apresentado à corte de origem, tendo em vista a necessidade de observância da legislação local para a aferição de sua tempestividade.
+6. Agravo interno desprovido."
+(AgInt no AREsp n. 2.190.921/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 13/2/2023, DJe de 16/2/2023.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DO PRAZO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. Ação de cobrança, já em fase de cumprimento de sentença.
+2. O artigo 1003, §6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+3. O dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi não são feriados nacionais, em razão de não haver previsão em lei federal, de modo que o dever da parte de comprovar a suspensão do expediente forense quando da interposição do recurso, por documento idôneo, não é elidido. Precedentes.
+4. Os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual. Precedentes.
+5. Considerando que o recurso foi interposto sob a égide do CPC/2015 e que não houve a comprovação da suspensão do prazo quando de sua interposição, não há como ser afastada a sua intempestividade.
+6. Agravo interno não provido."
+(AgInt no REsp n. 2.020.263/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/2/2023, DJe de 15/2/2023.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. ARTIGO 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o agravo em recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC/2015.
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC/2015. Precedente da Corte Especial.
+4. A interpretação literal da norma expressa no § 6º do artigo 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos artigos 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. O Dia do Servidor Público (28 de outubro), a segunda-feira de Carnaval, a quarta-feira de Cinzas, os dias que precedem a sexta-feira da Paixão e também o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedentes.
+6. Agravo interno não provido."
+(AgInt no AREsp 1723418/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/04/2021, DJe 26/04/2021)
+Diversamente do alegado pela parte agravante, os dias que antecedem a Sexta-feira da Paixão não são feriados forenses para os Tribunais de justiça e, por isso, se forem feriados locais, necessitam ser comprovados no ato da interposição do recurso.
+Os dias da Semana Santa, compreendidos entre a quarta-feira e o Domingo de Páscoa, serão feriados na Justiça Federal, inclusive nos Tribunais Superiores, conforme disposto no art. 62, II, da Lei 5.010/66. Todavia, essa regra não se aplica à Justiça Estadual. Apenas a Sexta-feira da Paixão figura como feriado civil, por força do disposto na Lei 9.093/1995.
+A propósito do tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO ESPECIAL. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. FERIADOS E SUSPENSÕES PREVISTAS EM PORTARIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. IRRELEVÂNCIA. FERIADOS E SUSPENSÕES PREVISTAS NA LEI 5.010/1966. APLICAÇÃO RESTRITA À JUSTIÇA FEDERAL E TRIBUNAIS SUPERIORES. POSTERIOR COMPROVAÇÃO DA TEMPESTIVIDADE. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A competência do Superior Tribunal de Justiça restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual ofensa a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. Os recursos interpostos na instância de origem, ainda que direcionados ao Superior Tribunal de Justiça, observam o calendário de funcionamento do Tribunal local, não sendo possível a utilização dos feriados e suspensões previstos em portaria ou no Regimento Interno desta Corte, os quais nem sempre coincidem com os da Justiça estadual.
+3. O art. 62 da Lei n. 5.010/1966, que considera como feriados os dias da Semana Santa, compreendidos entre a quarta-feira e o Domingo de Páscoa, não se aplica à Justiça estadual.
+4. O prazo conferido pelo art. 932, parágrafo único, do CPC/2015 somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou à comprovação da intempestividade (AgInt no AREsp n. 2.284.011/BA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023).
+5. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 219, caput, 994, VI, 1.003, § 5º, e 1.029, todos do Código de Processo Civil de 2015.
+6. Agravo interno desprovido."
+(AgInt no AREsp 2.303.471/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/08/2023, DJe de 16/08/2023)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL E SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO QUANDO DA INTERPOSIÇÃO DO RECURSO. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Aplica-se o CPC/2015 a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9.3.2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Consoante o disposto nos arts. 219 e 1.003, § 5º, e 1.070 do CPC/2015, o prazo para a interposição de qualquer Recurso, excetuados os Embargos de Declaração, é de 15 (quinze) dias úteis, contado em dobro, a partir da intimação pessoal, para a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público, à luz do art. 183 do referido codex.
+3. In casu, a intimação referente ao acórdão impugnado ocorreu em 27/05/2022, tendo-se interposto o Recurso Especial somente em 20/6/2022, fora do prazo de 15 (quinze) dias úteis.
+4. Portanto, considerando que o Agravo em Recurso Especial foi interposto sob a égide do CPC/2015 e que não se comprovou feriado local ou suspensão de expediente forense no Tribunal de origem no ato da interposição, incontornável sua intempestividade.
+5. A segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal.
+6. Agravo Interno não provido."
+(AgInt no AREsp 2.284.990/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/06/2023, DJe de 30/06/2023)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO. NÃO OCORRÊNCIA.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, entende-se que "a segunda-feira de carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt no AREsp n. 2.245.430/SP, rel. Ministro JOÃO OTÁVIO DE NORO NHA, Quarta Turma, DJe de 11/4/2023).
+2. Uma vez não comprovado, no momento da interposição do recurso, por documento idôneo, a suspensão de prazo processual ou de feriado local, mantém-se a intempestividade reconhecida na decisão agravada.
+3. Agravo interno desprovido."
+(AgInt no AREsp 2.286.086/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/06/2023, DJe de 30/06/2023)
+O entendimento jurisprudencial assente é no sentido de que "os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgRg no AREsp 700.715/MG, Rel, Ministro RICARDO VILLAS BÔAS CUEVAS, TERCEIRA TURMA, DJe 23/5/2016).
+No presente caso, verifica-se que a petição do recurso especial se mostra desacompanhada da comprovação do feriado local, razão pela qual deve ser reconhecida a intempestividade do recurso especial, portanto, a decisão agravada merece ser mantida pelos seus próprios fundamentos.
+Nessas condições, conheço do agravo para negar-lhe provimento.
+Publique-se.
+EMENTA
