@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIEL DE JESUS MARQUES contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.23.242608-0/000).
+O paciente, preso temporariamente em julho/2023 e convertida a custódia em preventiva, foi denunciado pela suposta dos crimes tipificados no art. 155, §4º, II e IV, do CP e art. 171, §2º, V, c/c art. 14, II, do Có digo Penal, pois teria, juntamente com outros, concorrido para a subtração do veículo M. Benz/Axor 2544 S, acoplado ao semi-reboque, e da carga de minério de ferro nele transportada, avaliada em R$ 1.000.000,00, visando, em tese, fraudar a seguradora.
+Contra a prisão, a defesa impetrou habeas corpus perante a Corte estadual, cuja ordem foi parcialmente conhecida e, nessa extensão, denegada, em acórdão assim ementado (e-STJ fl. 490/495):
+HABEAS CORPUS  FURTO QUALIFICADO TENTADO E OUTRO  MERA REITERAÇÃO DE PEDIDOS  EXCESSO DE PRAZO PARA O ENCERRAMENTO DO INQUÉRITO POLICIAL  INOCORRÊNCIA  CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+- Não se conhece de impetração cujo objeto constitui mera reiteração de pedidos já submetidos ã análise deste Tribunal em outra oportunidade.
+- O prazo para a formação da culpa deve ser contado de forma global, com a aplicação do princípio da razoabilidade sob o prisma da proporcionalidade, o que justifica a demora no encerramento de instrução processual e a manutenção da custódia cautelar, sem acarretar constrangimento ilegal.
+No presente writ, a defesa sustenta constrangimento ilegal por excesso de prazo na formação da culpa, uma vez que o paciente está preso desde julho/2023, não há previsão de data para a audiência de instrução e ele não pode ser penalizado pela demora na citação dos demais agentes. Defende o desmembramento do processo em relação ao paciente, que possui defesa constituída e contribui para o bom andamento da ação penal.
+Destaca as condições pessoais favoráveis do agente, que é primário, sem qualquer antecedente criminal, possui trabalho lícito e residência fixa no distrito da culpa. Defende, nesse contexto, a suficiência da aplicação de medidas cautelares alternativas, mesmo a prisão domiciliar, vez que ele é o único responsável pelos cuidados da filha menor de idade e de seus pais idosos.
+Pondera, ainda, a ausência dos requisitos necessários para a manutenção da prisão preventiva do paciente (gravidade abstrata do crime), notadamente porque o suposto crime foi cometido na forma tentada e sem emprego de violência ou grave ameaça.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente mesmo mediante a imposição de medidas cautelares, inclusive a prisão domiciliar.
+Processo distribuído a esta relatoria por prevenção do HC n. 849.197/MG, vinculado ao mesmo paciente, mas contra outro ato coator, cujo mérito foi julgado em 5/9/2023. Na ocasião, se considerou idônea a fundamentação da sua prisão preventiva e foi afastada a possibilidade de concessão da prisão domiciliar (trânsito em julgado certificado em 18/9/2023).
+É o relatório. Decido.
+A liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+O tópico acerca da fundamentação da prisão preventiva não foi enfrentado pelo Tribunal de Justiça local (reiteração de pedido) e por isso essa matéria não poderá ser reanalisada por esta Corte Superior. Confira-se (e-STJ fl. 492):
+Ab initio, observa-se que o presente habeas corpus foi impetrado ao fundamento de constrangimento ilegal sofrido nos autos do processo de origem de n. 5003340-47.2023.8.13.0251.
+Todavia, constata-se que a argumentação acerca da necessidade de manutenção da prisão preventiva, das alegadas condições favoráveis do paciente e da possibilidade de aplicação de medidas cautelares diversas já foram objeto do habeas corpus de n.
+1.0000.23.185.966-1/000. Portanto, tratando-se de mesmos fundamentos e pedidos, diz-se que parcela deste writ é mera reiteração de outro anteriormente impetrado, não havendo novos fatos e/ou fundamentos que justifiquem o reexame.
+Ademais, a questão da legalidade da motivação da prisão cautelar do paciente foi recentemente enfrentada por esta Corte, no julgamento do HC n. 849/197/MG.
+Em relação ao excesso de prazo, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos e das informações a serem prestadas pelas instâncias de origem, para se aferir a existência de eventual constrangimento ilegal. Ao indeferir o pedido da defesa, disse o Tribunal de Justiça local (e-STJ fl. 493):
+ ..
+Em seguida, salienta a impetração que o paciente encontra-se acautelado desde julho de 2023, sem formação de culpa e sem previsão para a designação da audiência de instrução, configurando excesso de prazo.
+Destaca-se, contudo, que, conforme destaca a autoridade coatora (seq. 23), no dia 14.07.2023 foi decretada a prisão preventiva, sendo a denúncia ofertada no dia 02.08.2023 e recebida em 07.08.2023, sendo que, em 22.09.2023 foi mantida a prisão preventiva dos denunciados.
+Dessa maneira, observa-se que a instrução processual encontra-se em regular andamento, sendo necessário salientar que a ação penal envolve vários crimes e vários réus, não havendo o excesso alegado.
+Cumpre destacar, ainda, que eventual atraso para a formação da culpa  conforme orientação jurisprudencial dominante  não constitui constrangimento ilegal, quando justificável a demora pela existência de causas razoáveis, analisadas no caso concreto.
+ ..
+É consabido que "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 62.783/ES, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 1º/9/2015, DJe 8/9/2015).
+Como o pedido liminar confunde-se com o próprio mérito da impetração, e;e será analisado em momento oportuno, por ocasião do julgamento definitivo deste habeas corpus.
+Ante o exposto, indefiro o pedido liminar.
+Solicitem-se informações ao Juízo de primeiro grau, com cópia das decisões proferidas, da denúncia e da certidão de antecedentes criminais do recorrente, a serem prestadas preferencialmente pela Central do Processo Eletrônico - CPE do STJ, inclusive o envio da senha para acesso aos dados processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Intimem-se.
+EMENTA
