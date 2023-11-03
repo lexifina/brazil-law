@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo manejado por EMANUEL FERREIRA DE MORAES contra decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT - ACIDENTE DE TRÂNSITO - NEXO DE CAUSALIDADE AFASTADO EXPRESSAMENTE PELO LAUDO PERICIAL MÉDICO - AUTOR INTIMADO DEIXOU DE SE MANIFESTAR SOBRE A CONCLUSÃO DO LAUDO - AUSÊNCIA DE MANIFESTAÇÃO EM MOMENTO PROCESSUAL ADEQUADO - PRECLUSÃO - ART. 278 CPC - LESÃO QUE NÃO É PASSÍVEL DE INDENIZAÇÃO - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 412-425), a parte recorrente alegou violação aos arts. 3º, §§ 2º e 3º, 5º, da Lei n. 6.194/1974; e ao art. 1.022 do CPC/2015, bem como divergência jurisprudencial.
+Defendeu omissão do acórdão recorrido ao não examinar os documentos públicos que comprovariam o nexo causal.
+Asseverou que o prontuário médico do SUS, devidamente assinado pelos servidores públicos atestam o nexo causal, o que deve ser reconhecido pelo Tribunal de origem.
+Contrarrazões apresentadas (e-STJ, fls. 430-443).
+Brevemente relatado, decido.
+De início, constata-se que o recorrente não opôs embargos de declaração contra o acórdão recorrido de fls. 401-405 (e-STJ), mostrando-se deficiente a fundamentação recursal, dado que a alegação de ofensa ao art. 1.022 do CPC/2015 pressupõe a oposição anterior dos declaratórios.
+Portanto, aplica-se, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+A esse respeito (sem destaque no original):
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONSECTÁRIOS LEGAIS. ADEQUAÇÃO PELO TRIBUNAL DE ORIGEM. TEMA 905/STJ E 810/STF. TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE DO APELO NOBRE. SÚMULA 284/STF. JUROS DE MORA. EXISTÊNCIA DE COISA JULGADA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA FIXADA SEGUNDO COMPREENSÃO ADOTADA PELO STJ EM SEDE REPETITIVA. DÉBITO FAZENDÁRIO DE NATUREZA CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. O Superior Tribunal de Justiça já se manifestou no sentido de que "os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF" (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018).
+2. A desconstituição da premissa lançada pela instância ordinária, segundo a qual a existência de coisa julgada material inviabiliza a rediscussão da matéria referente aos juros de mora, demandaria o reexame de matéria fática, procedimento que, nesta instância especial, encontra óbice na Súmula 7/STJ.
+3. A correção monetária restou fixada em consonância tanto com o entendimento firmado pelo Supremo Tribunal Federal em sede de repercussão geral, quanto com a compreensão adotada por este Superior Tribunal no âmbito de recurso especial repetitivo.
+4. A alegada inaplicabilidade do Tema 810/STF (RE 870.947/SE), devido à natureza civil da contenda jurídica, não merece ser conhecida, porquanto carece de debate prévio (Súmula 282/STF).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.238.744/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+Ademais, a parte recorrente, nas razões do recurso especial, limita-se a afirmar que "seja julgado procedente os pedidos autorais, uma vez que devidamente comprovado o nexo causal entre a suposta lesão e o sinistro, conforme laudo pericial - documento público - juntado aos autos" (e-STJ, fl. 421).
+Contudo, o acórdão recorrido baseou seu e ntendimento fundamentando que (e-STJ, fls. 403-404 - sem destaque no original):
+Na espécie, verifica-se que o Laudo Médico Pericial realizado em juízo (Id. 160724244), concluiu que, em que pese tenha o autor lesões permanentes, não restou comprovado que decorrem do acidente de trânsito narrado na petição inicial, como se lê:
+"(..) 5. CONCLUSÃO Com base nos documentos e exame clínico pericial, conclui-se que o periciando teve acidente com fratura de base da falange proximal do quinto dedo da mão direita e realizado tratamento conservador com tala gessada e evoluiu com um déficit funcional de grau médio de 50% do 5º dedo da mão direita. Com os documentos acostados aos autos, não há como afirmar se o trauma apresentado foi decorrente do acidente narrado na inicial. (..)".
+Devidamente intimado para se manifestar acerca do laudo médico pericial (Id. 160724245), o autor apresentou manifestação em que sequer questionou o ponto, porquanto se limitou a discorrer sobre o valor da indenização (Id. 160724246).
+Sobreveio sentença de improcedência da ação, sob o fundamento de que não restou comprovado o nexo de causalidade, nos seguintes termos (Id. 160724251):
+"(..) No caso dos autos, está demonstrado que o Autor possui déficit funcional de grau médio de 50% do 5º dedo da mão direita, conforme laudo pericial juntado ao ID. 90471595 - pág. 05.
+Contudo, não há nos autos nenhuma prova de que as mencionadas lesões foram provocadas por acidente de trânsito a ensejar o pagamento de indenização do Seguro DPVAT.
+No caso concreto, o laudo médico pericial realizado em Juízo (ID. 90471595), o perito concluiu que "Com os documentos acostados aos autos, não há como afirmar se o trauma apresentado foi decorrente do acidente narrado na inicial", não havendo qualquer impugnação da parte Autora quando oportunizada a se manifestar acerca do resultado da perícia. (..)".
+Dessa forma, não há comprovação do nexo de causalidade direto entre as lesões e o acidente de trânsito.
+Dessa forma, apesar das alegações apresentadas pela autora, o laudo pericial não se mostra eivado de vícios e contradições, porquanto corrobora as demais informações do processo, bem como, ao que se percebe, seguiu as determinações da legislação que regulamenta o tema e não se afigura incompleto.
+Não demonstrada, portanto, a necessidade de elaboração de novo laudo médico, não se afigura possível a reforma da sentença.
+Salienta-se que o autor fora intimado para se manifestar acerca do laudo pericial e não houve oposição alguma com relação às conclusões do perito, de modo que não se extrai que tenha realizado qualquer impugnação no momento processual adequado.
+Sobre o assunto, o CPC determina:
+"Art. 148. A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão".
+Assim, ao que se percebe, o autor deixou de se manifestar sobre a discordância no momento oportuno, o que levou à preclusão da matéria, nos moldes do artigo 278 do CPC.
+Na espécie, ficou claro nos autos que "o perito concluiu que com os documentos acostados aos autos, não há como afirmar se o trauma apresentado foi decorrente do acidente narrado na inicial, não havendo qualquer impugnação da parte quando oportunizada a se manifestar acerca do resultado da perícia" (e-STJ, fl. 404).
+Ademais, verifica-se que o argumento central do acórdão foi o fato de que a parte ora agravante não impugnou as razões do laudo pericial, que concluíram pela ausência de nexo de causalidade - "o autor fora intimado para se manifestar acerca do laudo pericial e não houve oposição alguma com relação às conclusões do perito, de modo que não se extrai que tenha realizado qualquer impugnação no momento processual adequado" (e-STJ, fl. 404).
+Todavia, nas razões do recurso especial tais fundamentos não foram atacados, já que o agravante alega apenas a necessidade de reconhecimento dos documentos públicos juntados aos autos.
+Nesse contexto, incide a Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ACORDO. SEGURADORA E AUTOR. PAGAMENTO DE DANOS MATERIAIS. CONDENAÇÃO DA RÉ. DANOS MORAIS. VALORES PAGOS. DEDUÇÃO. IMPOSSIBILIDADE. INSTITUTOS DISTINTOS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no REsp 1.806.931/CE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/08/2021, DJe 03/09/2021 - sem destaque no original).
+Além disso, contrariamente à tese do agravante e com base em todo o acervo fático-probatório, concluiu o Tribunal local pela ausência de comprovação do nexo de causalidade, conforme trecho do acórdão acima colacionado.
+Sendo assim, para o acolhimento do recurso, seria imprescindível derruir a conclusão contida no decisum atacado, o que, forçosamente, demandaria nova incursão no conjunto fático-probatório, incidindo, na espécie, a Súmula 7 deste Tribunal Superior a impedir o conhecimento do recurso especial.
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, o que não é possível de ser feito nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Ante o exposto, agravo conhecido para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida para R$ 1.300,00 (um mil e trezentos reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO AO ART. 1.022, I, DO CPC/2015. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. INEXISTÊNCIA DE NEXO CAUSAL. INCIDÊNCIA DA SÚMULA 7/STJ. LAUDO PERICIAL. PRECLUSÃO. INCIDÊNCIA DA SÚMULA 283/STJ. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
