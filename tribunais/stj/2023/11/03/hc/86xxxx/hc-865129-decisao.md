@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Moacyr Silva Junior contra o ato coator proferido pela Décima Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo que, nos autos do Agravo de Execução n. 0003489-17.2022.8.26.0344, deu provimento ao recurso ministerial para cassar a progressão de regime e submeter o paciente a exame criminológico.
+A impetrante alega, em síntese, que não há fundamentação idônea para impor a realização de exame criminológico ao paciente.
+Argumenta que a gravidade em tese dos delitos praticados pelo paciente é que já foi valorado pelo legislador ao estabelecer os limites da pena e os lapsos para benefícios em sede de execução criminal. Também foram valorados pelo Juízo de conhecimento por ocasião da dosimetria da pena, não podendo ser novamente utilizado como parâmetro para análise de pedido de progressão de regime (fl. 11).
+Sustenta a inexistência de dado concreto a justificar a realização do mencionado exame.
+Requer, em liminar e no mérito, a concessão da ordem para determinar a progressão de regime de cumprimento de pena independentemente de sua prévia submissão à exame criminológico, ou, subsidiariamente, determine que o Juízo de primeira instância analise os requisitos para tanto independentemente da realização do exame criminológico (fl. 16).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal local deu parcial provimento à insurgência ministerial, pelos fundamentos seguintes (fls. 103/104 - grifo nosso):
+Ocorre que, dependendo da hipótese, pode muito bem o magistrado determinar a realização do exame, para formar a sua convicção quanto ao atendimento ou não do pleito de promoção de regime.
+Nesse sentido tem sido a jurisprudência, como se vê em seguida:
+".. o Pretório Excelso vem entendendo que a realização do exame criminológico no caso de condenado a crime cometido com violência ou grave ameaça à pessoa não é compulsório, i. e., é mera faculdade do Juiz que deve, caso entenda necessária a realização do referido exame, motivar sua decisão" (STJ/RHC n. 15.263/PR, Rel. Min. Felix Fischer, DJ 7.6.2004, p. 240).
+Na hipótese presente, conforme consta do Boletim Informativo de fls. 13/16, o sentenciado cumpre longa pena pela prática de latrocínio (crime hediondo), com término de cumprimento previsto para 1º.3.2036. Registra, ainda, falta disciplinar de natureza média durante o curso de execução de sua reprimenda.
+Trata-se de réu que demonstra periculosidade, já que praticou crime com violência e grave ameaça contra pessoa vulnerável, não se mostrando razoável, com base num simples atestado de bom comportamento carcerário, extrair um prognóstico favorável para concluir que está apto para ser inserido no regime semiaberto.
+Com efeito, o exame criminológico, que é elaborado pela equipe de profissionais (no mínimo um psicólogo, assistente social e psiquiatra) tem muito mais condições de aferir se o preso está em condições de receber o benefício.
+Prudente, pois, que o agravado seja submetido a exame criminológico, para melhor avaliação do requisito subjetivo, que não está demonstrado no presente caso.
+A jurisprudência desta Corte Superior sedimentou o entendimento de que, embora a Lei n. 10.792/2003 - ao alterar a redação do art. 112 da Lei de Execução Penal - tenha afastado a exigência do exame criminológico para fins de progressão de regime, é possível ao Magistrado de primeiro grau, ou mesmo à Corte estadual, diante das circunstâncias do caso concreto e de adequada motivação, determinar a realização do exame (Súmula Vinculante 26/STF e HC n. 304.872/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 9/6/2015).
+No presente caso, além de apontar que o sentenciado cumpre pena por delito hediondo, cometido com emprego de violência (latrocínio), o Tribunal local sopesou elementos concretos ocorridos no curso da execução, notadamente o registro de falta disciplinar, fundamento esse apto a impor a realização de exame criminológico.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. HISTÓRICO PRISIONAL CONTURBADO. APENADO QUE PRATICOU DIVERSAS FALTAS DISCIPLINARES DURANTE A EXECUÇÃO. DETERMINAÇÃO DA FEITURA DE EXAME CRIMINOLÓGICO. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+1. O Tribunal a quo cassou a decisão concessiva da progressão ao regime aberto por ausência do requisito subjetivo, tendo em vista, sobretudo, o conturbado histórico prisional do apenado, que praticou diversas faltas disciplinares no curso da execução da pena.
+2. A determinação de submissão do ora paciente a exame criminológico para progressão prisional está devidamente fundamentada em elementos concretos da execução, especialmente na existência de infrações disciplinares de natureza grave e média durante a execução, em consonância com o disposto no enunciado n. 439 da Súmula do STJ. Precedentes.
+3. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Precedentes.
+4. O afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito do reeducando demandaria o reexame de matéria fático-probatória, providência inviável na via estreita do habeas corpus.
+5 . Agravo regimental desprovido.
+(AgRg no HC n. 691.759/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/11/2021 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO DA PENA. LATROCÍNIO. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. COVID-19. SUBSTITUIÇÃO DA PENA PELA PRISÃO DOMICILIAR. AGRAVO IMPROVIDO.
+1. Com as inovações trazidas pela Lei n. 10.792/2003, alterando a redação do art. 112 da Lei n. 7.210/84, afastou-se a exigência de exame criminológico para fins de progressão de regime, que pode ser fundamentadamente determinado para a definição do mérito do apenado.
+2. A determinação de exame criminológico para a análise do pedido de progressão de regime está devidamente fundamentada quando se aponta, ao par da gravidade do delito cometido e razoável tempo de pena restante, também o histórico de cometimento de falta disciplinar de natureza média.
+3. Não há razão para antecipar o regime aberto de cumprimento da pena, e substiuí-lo pela prisão domiciliar, quando não consta dos autos prova acerca do estado de saúde do paciente, tampouco as condições do estabelecimento prisional em que se encontra recolhido em cumprimento de pena privativa de liberdade no regime semiaberto, destacando-se, ainda, que o paciente, pela idade que tem - 31 anos (fl. 26) -, não faz parte do grupo de risco da doença, e também o crime pelo qual foi condenado - latrocínio - foi praticado com o emprego de extrema violência, não se enquadrando nas diretrizes da recomendação do CNJ, uma vez que somente crimes eventuais e cometidos sem violência não permitem a geração do grave risco à saúde pela prisão 4. Agravo regimental improvido.
+(AgRg no HC n. 577.446/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020 - grifo nosso)
+Desse modo, inviável rever a conclu são das instâncias de origem.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. EXIGÊNCIA. POSSIBILIDADE. SÚMULA 439/STJ. MOTIVAÇÃO CONCRETA APRESENTADA PELO TRIBUNAL DE ORIGEM. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Writ indeferido liminarmente.
