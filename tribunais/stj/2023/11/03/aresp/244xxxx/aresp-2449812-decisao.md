@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interposto por IVAN SILVERIO BEZERRA e OUTROS, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de IVAN SILVERIO BEZERRA e OUTROS, apesar ter sido juntado, o comprovante de pagamento das custas processuais encontra-se ilegível, impossibilitando a verificação da regularidade do preparo.
+O Superior Tribunal de Justiça consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 05/10/2017).
+Dessa forma, "não se conhece do recurso especial instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo" (AgInt no AREsp n. 927.009/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 3/10/2016).
+Outrossim, registro que o marco temporal de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do antigo Codex Processual.
+Assim, nos termos do Enunciado Administrativo nº 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça". Incabível, portanto, a intimação do agravante para regularizar o preparo.
+Diante disso , incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Cumpre esclarecer que a jurisprudência desta Corte firmou a orientação de que "eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente". Nesse sentido: AgInt no AREsp n. 1.828.162/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 29/6/2021; AgInt nos EDcl no AREsp n. 974.872/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
