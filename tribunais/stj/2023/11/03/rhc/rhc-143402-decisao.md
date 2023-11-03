@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por MARCOS LEANDRO MARTINS RODRIGUES contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Habeas Corpus n. 0002569-21.2021.8.16.0000).
+Os autos dão conta de que o ora recorrente foi preso em flagrante no dia 19/12/2020 e, posteriormente, denunciado pela suposta prática do crime previsto no art. 171, § 3º, c/c o art. 14, II, ambos do Código Penal.
+Almejado o trancamento da ação penal, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, nos termos do acórdão assim ementado (e-STJ fl. 55):
+AÇÃO DE HABEAS CORPUS - ESTELIONATO (ART. 171, § 3º, DO CÓDIGO PENAL) - PEDIDO DE TRANCAMENTO DA AÇÃO ORIGINÁRIA - ALEGADA AUSÊNCIA DE REPRESE NTAÇÃO DA VÍTIMA - INVIABILIDADE - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM DENEGADA.
+Incabível o deferimento do trancamento da ação penal por via de quando não verificada nenhuma das hipóteses habeas corpus excepcionais admitidas pela doutrina e jurisprudência capazes de evidenciar o indevido processo legal.
+A representação do ofendido não requer formalidades, restando demonstrado nos autos a intenção pelo prosseguimento da persecução penal.
+Ordem conhecida e denegada.
+Nas razões do presente recurso, a defesa afirma que "o crime de estelionato, artigo 171, do Código Penal, que antes era de Ação Penal Pública incondicionada, por força da Lei nº 13.964/2019 (Pacote Anticrime), foi acrescentado ao referido artigo o § 5º, que tornou a ação pública condicionada à representação, salvo algumas exceções, o que não ocorre no presente caso. Assim, nem sequer poderia ser instaurado inquérito policial sem esta "condição de procedibilidade", conforme exige o artigo 5º, § 4º, do Código de Processo Penal" (e-STJ fls. 79/80).
+Sustenta que, "diante da ausência de representação, é incabível que o Ministério Público ofereça a denúncia, ainda que tenha elementos informativos suficientes sobre a autoria e a materialidade do crime. Se o Ministério Público ignora o fato de não haver representação do ofendido, impõe-se o reconhecimento da nulidade do processo desde o seu início" (e-STJ fl. 80).
+Assevera que "a representação do ofendido que teria que ser apresentada no ato da prisão em flagrante do paciente, foi juntada a destempo, ou seja, após oferecida e recebida a denúncia, que a tornou sem nenhum valor jurídico" (e-STJ fl. 81).
+Por isso, requer, inclusive liminarmente, "seja rejeitada a denúncia oferecida em seu desfavor, com o consequente trancamento ou nulidade da Ação Penal n. 0013413-51.2020.8.16.0069, da Vara Criminal da Comarca de Cianorte, Paraná, pela falta de representação da quase vítima, ou outras medidas judiciais que Vossas Excelências, entenderem necessárias, por ser uma medida de direito" (e-STJ fls. 83/84).
+Liminar indeferida (e-STJ fls. 100/102).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 119/121).
+Petição de e-STJ fls. 125/129, reiterando a argumentação deduzida no recurso ordinário.
+É o relatório.
+Decido.
+A Corte de origem, ao apreciar o recurso da defesa, assim decidiu (e-STJ fl. 56):
+Na hipótese, embora o gerente de contas tenha informado não poder responder pela instituição, ele manifestou seu interesse no prosseguimento da persecução penal, demonstrando sua representação, conforme se extrai do seu depoimento audiovisual (mov. 1.11 - AP).
+Ademais, houve a formalização do ato na data do oferecimento da denúncia, como bem informou a autoridade apontada como coatora (mov. 12.1 - HC e mov. 138.2 - AP).
+Logo, não merece prosperar a alegação do paciente relativa à ausência de representação por parte da vítima.
+O acordão recorrido ajusta-se à orientação do Superior Tribunal de Justiça, no sentido de que "a representação é ato que dispensa maiores formalidades, sendo suficiente que a vítima ou quem a represente legalmente apresente manifestação para que os fatos sejam devidamente apurados" (AgRg no AREsp n. 1.668.091/PR, relatora a Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AÇÃO PENAL PÚBLICA CONDICIONADA. FORMALIDADES. INEXISTÊNCIA. DEMONSTRAÇÃO INEQUÍVOCA DE INTERESSE NA PERSECUÇÃO PENAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior é firme em assinalar que, nos crimes de ação penal pública condicionada, a representação não exige maiores formalidades, sendo suficiente a demonstração inequívoca de interesse na persecução penal, de modo que basta que a vítima ou seu representante legal leve o fato ao conhecimento das autoridades policiais.
+2. Na espécie, a Corte local consignou que "a denúncia foi oferecida em 30.03.2022 e recebida em 22.09.2022, já na vigência da nova redação do art. 171 do CP,  ..  e , ao que se infere dos documentos carreados no evento 1 da ação penal originária, os representantes das pessoas jurídicas lesadas demonstraram interesse na representação criminal,  conforme  os boletins de ocorrência acostados nos itens INQ2 (fl. 38), INQ5 (fl. 8), INQ7(fls. 5/6) e INQ8 (fls. 45/46), registrados, respectivamente, por A. B., representante da empresa USINAGEM SANTA ROSA LTDA (5º fato); D. F., sócio-proprietário da empresa BG FERRAMENTAS COMÉRCIO E IMPORTAÇÃO LTDA (2º fato); R. E. F., representante da W&S SAURA LTDA (4º fato); e J. L. D. P., representante da OXIMAG INDÚSTRIA E COMÉRCIO DE PRODUTOS MAGNÉTICOS LTDA (3º fato)".
+3. Portanto, forçoso concluir que o acórdão está em consonância com o entendimento do STF, quando - ao constatar "manifestações claras e expressas de representação contra os investigados, pelos representantes das quatro empresas lesadas" - salienta que, "pelas qualificações com que se apresentaram os responsáveis pelos registros policiais, no sentido de serem representantes das empresas, não se identifica, em princípio, ilegitimidade para exercera representação, lembrando que o writ exige prova pré-constituída", bem como "a circunstância de que os representantes dos lesados se apresentaram perante a autoridade policial, registrando o fato criminoso, por si só, constitui forte indicativo do interesse na investigação do ilícito".
+4. Agravo regimental não provido.
+(AgRg no RHC n. 182.152/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA O PATRIMÔNIO. ESTELIONATO. NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. DENÚNCIA RECEBIDA ANTES DA VIGÊNCIA DA LEI N. 13.964/2019. RETROATIVIDADE. IMPOSSIBILIDADE. REGISTRO DO BOLETIM DE OCORRÊNCIA. REPRESENTAÇÃO VALIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Em razão das alterações promovidas pela Lei n. 13.964/2019, a retroatividade da representação no crime de estelionato não alcança o processo cuja denúncia já foi oferecida" (AgRg no HC 641.684/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 6/8/2021).
+2. "A representação, nos crimes de ação penal pública condicionada, prescinde de formalidades. Dessa forma, pode ser depreendida do boletim de ocorrência e de declarações prestadas em juízo (AgRg no REsp 1.912.568/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021)" (AgRg no RHC n. 168.517/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/10/2022).
+3. Agravo Regimental no habeas corpus desprovido.
+(AgRg no HC n. 731.395/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Diante desse cenário, é inviável o acatamento da tese defensiva para se trancar a ação penal, porquanto a alegada ausência de condição de procedibilidade não se mostra, como visto acima, inequívoca primo ictu oculi, razão pela qual a prematura interrupção initio litis da ação penal é medida que não se faz premente.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se .
+EMENTA
