@@ -1,0 +1,107 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCS DO BANCO DO BRASIL, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 730):
+APELAÇÃO CÍVEL -AÇÃO DE REVISÃO DE CLÁUSULAS DE CONTRATO IMOBILIÁRIO - APLICAÇÃO DO CDC -FORMA DE AMORTIZAÇÃO -FQM -CAPITALIZAÇÃO DE JUROS -TABELA PRICE. -DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO - LIMITAÇÃO A 30% DOS RENDIMENTOS -POSSIBILIDADE.
+-Nos termos da Súmula 321 do STJ, "o Código de Defesa do Consumidor é aplicável à relação jurídica entre a entidade privada e seus participantes", devendo ser modificadas as cláusulas abusivas.
+-A utilização da "Tabela Price", por si só, não constitui qualquer ilegalidade, pois a simples adoção do método francês de amortização não retrata anatocismo. No entanto, tendo sido demonstrado, por meio de perícia contábil, que sua utilização configurou anatocismo, deve ser extirpado do valor das parcelas o "quantum" correspondente à capitalização de juros do período em que eram vedados.
+-Dada a natureza alimentar dos proventos do devedor, não podem ser admitidas deduções que comprometam a sua subsistência e de sua família, sendo, assim, razoável o desconto em percentual não superior a 30% (trinta por cento) do valor dos seus rendimentos, para que seja preservada a livre vontade das partes, não colocando em risco a parcela alimentar do salário.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 759):
+EMBARGOS DE DECLARAÇÃO -HIPÓTESE EM QUE NÃO RESTOU DEMONSTRADA QUALQUER DAS SITUAÇÕES ELENCADAS NO ART. 1.022 DO NOVO CPC - PREQUESTIONAMENTO -IMPOSSIBILIDADE.
+-Mesmo para fins de prequestionamento, nos embargos de declaração devem-se observar os lindes traçados pelo art. 1.022 do novo CPC.
+Nas razões do apelo especial (e-STJ, fls. 765-793), a insurgente apontou, além da existência de dissídio jurisprudencial, ofensa aos arts. 489 §1º, IV, 926, 927, IV, 1.022, I e II, do CPC/2015; 31, 32 e 71 da Lei Complementar n. 109/2001; 177 do Código Civil de 1916; 205, 313, 314, 421, 422 e 2.028 do Código Civil de 2002; bem como à Súmula 563/STJ.
+Sustentou que o acórdão recorrido teria sido omisso em relação a pontos essenciais ao deslinde do feito, mesmo após a oposição de embargos de declaração.
+Alegou que, no caso em apreço, teria ocorrido a prescrição da pretensão da parte recorrida, tendo em vista que o dies a quo seria a data de assinatura do contrato (e não o pagamento da última parcela).
+Afirmou que não há capitalização de juros pelo uso da Tabela Price, devendo ser observado o pacta sund servanda.
+Arguiu que seria inaplicável o Código de Defesa do Consumidor, pois, nas entidades fechadas de previdência complementar, inexistiriam os elementos caracterizadores da relação de consumo.
+Argumentou que não seria possível a limitação de 30% (trinta por cento) de consignação dos proventos da parte insurgida, posto que alteraria a obrigação pactuada.
+Contrarrazões às fls. 815-836 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem (e-STJ, fls. 841-843), levando a insurgente a interpor o presente agravo (e-STJ, fls. 846-856).
+Contraminuta às fls. 860-878 (e-STJ).
+Brevemente relatado, decido.
+De início, quanto à alegada violação aos arts. 489 e 1.022 do CPC/2015, cabe esclarecer que a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material, não possuindo natureza de efeito modificativo.
+No caso ora em apreço, a Corte originária, para dirimir a lide, assim fundamentou (e-STJ, fls. 732-740; sem grifos no original):
+Passando à análise da prejudicial de mérito relativa à prescrição, deve igualmente ser afastada.
+Com efeito, o prazo prescricional tem abrigo no Código Civil de 1916 e no Código Civil de 2002, conforme o caso, pela regra de transição estabelecida nos artigos. 2.028 e 2.035 do NCCB.
+(..)
+Ao que se colhe do processado, o contrato primitivo foi celebrado em 27-02-1992 e seu termo aditivo em 06-02-2006, sendo que em relação ao primeiro pacto se aplica o prazo de 20 anos e ao segundo o prazo de 10 anos, por se tratar de ação que se funda em direito pessoal. De outro lado, o termo inicial do prazo prescricional se dá com o vencimento da última parcela contratada, por se tratar de pacto de trato sucessivo.
+Portanto, não há de se falar em prescrição da pretensão autoral.
+Adentrando ao mérito, ressalto que apesar de a ré se tratar de uma entidade fechada de previdência privada, sem fins lucrativos, foi com a autora firmado contrato de financiamento habitacional, devendo incidir o Código de Defesa do Consumidor, por se tratar de um contrato tipicamente de adesão e, por via de consequência, as cláusulas que geram dúvidas, devem ser interpretadas em favor do contratante aderente.
+No conjunto da legislação sobre o assunto, percebe-se a preocupação de se oferecer condições para aquisição da casa própria e este princípio, deve nortear a interpretação dos financiamentos, considerando os fins sociais que devem constituir a preocupação dos agentes do Governo, não se admitindo reajustamentos abusivos que, por suas drásticas progressões, levem o mutuário a perder o imóvel, afrontando-se o equilíbrio econômico-social que deve prevalecer nos casos como o dos autos.
+(..)
+Assim, passo a analisar o pedido de revisão das cláusulas apontadas como abusivas.
+No que se refere à forma de amortização, restou esclarecido no laudo pericial que "no contrato em análise os juros incidiram de forma capitalizada periodicidade mensal" e "no contrato em análise há correção do saldo devedor residual antes da amortização", além de ter afirmado que a amortização se deu via "Tabela Price" (f. 561).
+Como as questões relativas à forma de amortização, utilização da "Tabela Price" e capitalização estão intrinsecamente ligadas, passo a analisá-las de forma conjunta.
+Registre-se que os contratos, conforme restou apurado nos autos, preveem que as parcelas mensais são compostas por parcelas de capital e juros, estes incorporados no primeiro, ocorrendo a atualização monetária do saldo devedor antes de se proceder à amortização, de onde decorre a capitalização dos juros em análise. Trata-se do chamado sistema francês de amortização, mais conhecido como "Tabela Price".
+Conforme entendimento do STJ, não é ilegal a utilização da "Tabela Price" para o cálculo das prestações da casa própria, pois, por meio desse sistema, o mutuário sabe o número e os valores das parcelas de seu financiamento. Todavia, tal método de cálculo não pode ser utilizado com o fim de burlar o ajuste contratual, utilizando-se de índice de juros efetivamente maiores do que os ajustados.
+(..)
+Não se olvida que, quando há amortização negativa, em que o valor da prestação não é suficiente para pagamento dos acessórios, tal amortização negativa é incorporada ao saldo devedor. Entretanto, tal prática é residual no sistema de amortização adotado, não tendo o condão de invalidar o "Sistema da Tabela Price" que é justamente o elemento viabilizador do negócio.
+Assim, na linha da jurisprudência, não é ilegal o critério de amortização do saldo devedor mediante a aplicação da correção monetária e juros para, em seguida, proceder ao abatimento da prestação mensal do contrato de mútuo para aquisição de imóvel.
+Na hipótese, o contrato principal foi celebrado em 27-02-1992 e o termo aditivo em 06-02-2006, portanto, o primeiro antes da edição da MP n. 1963-17 de 2000, posteriormente editada com o n. 2170-36.
+Desse modo, verifica-se que a partir do laudo pericial apresentado a utilização da "Tabela Price" também evidenciou, no presente caso, a capitalização mensal de juros com a consequente prática de anatocismo. Tal prática é considerada indevida, visto que o primeiro contrato celebrado entre as partes se deu anteriormente ao ano de 2000, após o qual entrou em vigor a MP que autoriza a capitalização mensal de juros nos contratos de financiamento celebrados com instituições financeiras.
+Assim, considerando o período em que a capitalização de juros era vedada, sendo admitida somente em virtude de lei específica e em hipóteses excepcionais, deve ser afastada a sua incidência em relação ao contrato primitivo, firmado em 27-02-1992, sendo permitida tão somente a partir do instrumento de repactuação estabelecido em 06-02-2006.
+(..)
+Por fim, dada a natureza alimentar dos rendimentos da parte devedora, entendo que não pode ser admitida dedução que comprometa a subsistência daquela e de sua família.
+Desse modo, os descontos não devem ultrapassar 30% (trinta por cento) do valor dos proventos, que além de se preservar a livre vontade das partes, não coloca em risco a parcela alimentar do salário, sendo que qualquer desconto a maior poderia comprometer a própria sobrevivência do grupo familiar, em evidente violação ao princípio da dignidade da pessoa.
+(..)
+Assim, apesar de a própria devedora ter anuído aos descontos das parcelas em folha de pagamento, a limitação dos referidos descontos a 30% de seus rendimentos ocorre para evitar o perecimento do grupo familiar, tendo em vista suas necessidades imediatas.
+Diante do exposto, rejeito a preliminar e a prejudicial de mérito e dou provimento parcial ao recurso, para decotar a capitalização mensal de juros até a data em que foi firmada a segunda repactuação, em 06-02-2006, bem como para limitar os descontos no benefício da autora a 30% dos seus rendimentos.
+Observa-se que, no caso apreciado, o acórdão recorrido, com base nas provas produzidas, resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte local não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão por ela deduzida.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+A respeito da capitalização de juros, nota-se que a recorrente não impugnou o fundamento utilizado pelo acórdão recorrido no sentido de que o contrato foi firmado entre as partes litigantes antes do ano de 2000, não incidindo o disposto na MP n. 2.170-2001 e sendo incabível, portanto, a capitalização mensal de juros.
+Assim, a manutenção de algum a rgumento que, por si só, sustenta a decisão objurgada torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Ademais, não cabe ao STJ, todavia, aferir se há capitalização de juros com a utilização da Tabela Price, por força das Súmulas 5 e 7.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. UTILIZAÇÃO. TABELAPRICE. CAPITALIZAÇÃO DE JUROS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não cabe ao Superior Tribunal de Justiça aferir se há capitalização de juros c om a utilização da Tabela Price, haja vista as disposições das Súmulas nºs 5 e 7/STJ. Precedente.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.966.149/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022)
+Noutro vértice, quanto ao termo inicial do prazo prescricional das pretensões referentes ao contrato de financiamento habitacional firmado entre as partes, a jurisprudência deste Superior Tribunal é pacífica no sentido de que, no caso do mútuo imobiliário, o início da fluência do prazo prescricional deve se dar no dia do vencimento da última parcela.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FINANCIAMENTO IMOBILIÁRIO. MÚTUO. EXECUÇÃO. PRESCRIÇÃO. TERMO INICIAL. ÚLTIMA PRESTAÇÃO. DATA DO VENCIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+3. O vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1829409/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 29/11/2021, DJe 6/12/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVADOS.
+1. De acordo com a jurisprudência desta Corte, o vencimento antecipado da dívida não altera o início da fluência do prazo prescricional, prevalecendo para tal fim o termo ordinariamente indicado no contrato, que, no caso (mútuo imobiliário), é o dia do vencimento da última parcela.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.540.397/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2019, DJe 27/11/2019).
+Destarte, tendo a Corte originária decidido que "o termo inicial do prazo prescricional se dá com o vencimento da última parcela contratada" (e-STJ, fl. 733), está, no ponto, em consonância com a jurisprudência do STJ e, por consequência, não merece reparo.
+No entanto, no tocante à suposta impossibilidade de limitação da consignação dos proventos da parte insurgida em 30% (trinta por cento), nota-se que o recurso deve ser provido neste ponto para afastar a limitação de pagamentos dos vencimentos ou salários do devedor por meio de débito em conta corrente.
+Ao permitir a referida limitação, a Corte originária contrariou a jurisprudência deste Tribunal Superior no sentido de que "Em se tratando de desconto em conta corrente - e não compulsório, em folha, que possui lei própria -, descabe analogia para aplicação de solução legal que versa acerca dos descontos consignados em folha de pagamento" (AgInt no REsp n. 1.922.486/CE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2021, DJe de 30/9/2021).
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. DESCONTOS. PARCELAS. CONTA-CORRENTE. SALÁRIO. DEPÓSITO. EMPRÉSTIMOS CONSIGNADOS. HIPÓTESES DISTINTAS. LIMITAÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, é lícito o desconto em conta-corrente, ainda que usada para recebimento de salário, das prestações de contrato de empréstimo bancário livremente pactuado, sem que o correntista tenha revogado a autorização. Precedentes.
+3. Na hipótese, inaplicável a limitação de 30% (trinta por cento) prevista em lei específica para os contratos de empréstimo consignado em folha de pagamento.
+4. Agravo interno não provido.
+(AgInt no REsp 1921441/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 20/9/2021, DJe de 24/9/2021)
+Por fim, quanto à aplicação do CDC ao caso em análise, a Segunda Seção desta Corte Superior consolidou o entendimento de que "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas" (Súmula 563/STJ).
+Assim, mesmo no caso de mútuo feneratício celebrado por entidade de previdência privada fechada, não são aplicáveis as disposições do CDC, mas sim a legislação aplicável à matéria, como a Lei de Usura e o Código Civil.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE MÚTUO. ENTIDADE DE PREVIDÊNCIA PRIVADA FECHADA. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Código de Defesa do Consumidor não incide nos contratos previdenciários celebrados com entidades fechadas, mesmo em se tratando de contrato de mútuo. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.797.836/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 13/3/2020.)
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. MÚTUO FENERATÍCIO REALIZADO POR ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. NÃO INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. RETORNO DOS AUTOS À ORIGEM PARA NOVA ANÁLISE DO RECURSO DE APELAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As regras do Código de Defesa do Consumidor não se aplicam às relações de direito civil envolvendo participantes e/ou beneficiários e entidades fechadas de previdência complementar.
+3. Nos termos da Súmula 563 do STJ: O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.
+4. Retorno dos autos à origem para reapreciação do recurso de apelação.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.714.807/DF, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 4/6/2020.)
+Observa-se, portanto, que o Tribunal estadual julgou a demanda em desconformidade com o entendimento desta Corte, devendo ser alterada no ponto.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe parcial provimento, a fim de afastar a limitação de pagamentos dos vencimentos ou salários do devedor por meio de débito em conta corrente e determinar que o TJMG prossiga no julgamento, afastando as normas previstas no Código de Defesa do Consumidor da análise do caso em apreço.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. CAPITALIZAÇÃO DE JUROS. CONTRATO FIRMADO ANTES DO ANO 2000. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. REVISÃO. SÚMULAS 5 E 7/STJ. PRESCRIÇÃO. TERMO INICIAL. DATA DO VENCIMENTO DA ÚLTIMA PRESTAÇÃO. PRECEDENTES. LIMITAÇÃO DO DESCONTO DAS PRESTAÇÕES EM CONTA-CORRENTE. APLICAÇÃO, POR ANALOGIA, DA LIMITAÇÃO LEGAL AO EMPRÉSTIMO CONSIGNADO. IMPOSSIBILIDADE. DESCONTOS EM CONTA-CORRENTE. LEGALIDADE. AUTORIZAÇÃO DO CORRENTISTA. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. CONTRATO DE MÚTUO. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
