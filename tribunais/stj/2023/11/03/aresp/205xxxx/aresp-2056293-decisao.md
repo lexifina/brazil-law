@@ -1,0 +1,104 @@
+DECISÃO
+Trata-se de agravo interposto por SAMARCO MINERACAO S.A. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - LIQUIDAÇÃO DE SENTENÇA - ACIDENTE AMBIENTAL - PERDAS E DANOS - PROVA PERICIAL - NECESSIDADE -ATRIBUIÇÃO DINÂMICA - POLUIDOR - CUSTO. Prova pericial, cuja necessidade declarada não se mostra derruída pela resistência deduzida, deve ser produzida. O ônus da prova pericial pode ser atribuído de maneira dinâmica, a fim de atender à paridade de armas entre os litigantes e às especificidades do direito material afirmado em juízo. Em liquidação de sentença de perdas e danos, que tem por causa de pedir acidente ambiental, é legítima a determinação que atribui ao poluidor o custo da prova pericial de necessidade não relativizada" (fl. 1.476 e-STJ).
+Os embargos de declaração opostos foram rejeitados com aplicação de multa (fls. 1.508/1.513 e-STJ).
+No recurso especial (fls. 1.521/1.551 e-STJ) , a recorrente alega, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, § 1º, IV, 966, § 1º e 1.022 do Código de Processo Civil - sob o argumento de que houve omissão quanto ao não cabimento de prova pericial e ao fato de que os pedidos teriam sido fundados em mera percepção de risco de que novas estruturas do Complexo Minerário de Germano viessem a romper, "o que não guarda nexo de causalidade com o rompimento" em si (fl. 1.535 e-STJ);
+(ii) art. 403 do Código Civil - pois seria incontroverso o fato de que os imóveis do recorrido não foram atingidos. Assim, a realização de perícia para quantificar o dano não teria plausibilidade jurídica;
+(iii) arts. 186, 927 e 944 do Código Civil - tendo em vista que inexistem danos causados pelo rompimento, porquanto ausente nexo de causalidade;
+(iv) art. 464, § 1º, II, do CPC - pois a Fundação Renova e a Cáritas Brasileira já produziram laudos técnicos que confirmaram que os imóveis ocupados pelo recorrido não sofreram impactos associados ao rompimento;
+(v) art. 1.026, § 2º, do CPC - visto que a multa aplicada aos embargos declaratórios opostos na origem é incabível na hipótese dos autos em que o recurso teve intuito de prequestionamento, e
+(vi) arts. 95, § 3º, e 926 do CPC - porque o acórdão recorrido sustentou entendimento contrário à jurisprudência do Superior Tribunal de Justiça quanto à "ausência de inversão automática do custeio da prova pericial, ainda que determinada a inversão do ônus da prova" (fl. 1.546 e-STJ).
+Por fim, requer a suspensão dos efeitos do acórdão recorrido com fundamento nos artigos 995, parágrafo único, e 1.029, § 5º, II, do CPC e 288 do Regimento Interno do STJ.
+Com as contrarrazões (fls. 1.668/1.695 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar em parte.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de local manifestou-se expressamente quanto à existência de danos concretos ao imóvel do recorrido e à necessidade de perícia com o intuito de qualificar e quantificar as perdas, conforme se verifica do seguinte trecho:
+"(..)
+A proposição recursal de não realização da prova pericial não se mostra plausível, de vez que não derruída a conclusão técnica no sentido de que o dossiê aplicado pela Cáritas Brasileira (documento 12) revela diagnóstico de campo suficiente para constatar a situação de degradação do imóvel rural de propriedade do agravado após o rompimento da barragem de Fundão, embora não apto para qualificar e quantificar as perdas e danos dos bens materiais e das atividades econômicas, tornando-se imprescindível a produção de prova pericial para tal finalidade (documento 04)" (fls. 1.479/1.480 e-STJ).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes: AgInt no AREsp 2.164.998/RJ, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023, e AgInt nos EDcl no AREsp 2.135.800/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023.
+No que tange às alegadas violações dos arts. 186, 403, 927 e 944 do Código Civil e 464, § 1º, II, do Código de Processo Civil, o referido trecho do acórdão recorrido acima colacionado demonstra que as conclusões do Tribunal de origem acerca da existência de dano e da necessidade de perícia para quantificá-lo decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos.
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Confiram-se:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ESBULHO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA POSSE ANTERIOR. PEDIDO DE NOVA PERÍCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. O julgador, destinatário final da prova, pode, de maneira fundamentada, indeferir a realização de provas e diligências protelatórias, desnecessárias ou impertinentes.
+3. Alterar a conclusão do acórdão do tribunal a quo acerca da análise das provas e da necessidade de nova perícia demanda reexame do acervo fático-probatório dos autos, procedimento vedado em recurso especial, ante a incidência da Súmula n. 7 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp 2.099.855/MG, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. MODALIDADE DE CONTRATAÇÃO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS N. 5 E 7 DO STJ. 4. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. Nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+3. Modificar o entendimento do Tribunal local, acerca da prescindibilidade de produção de prova pericial e da modalidade de contratação, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+4. É firme a jurisprudência desta Corte no sentido de somente permitir a modificação dos valores fixados a título de indenização por danos morais se estes se mostrarem irrisórios ou exorbitantes, tendo em vista o óbice contido na Súmula 7/STJ, o que não se verifica na presente hipótese.
+5. Agravo interno desprovido."
+(AgInt no AREsp 2.284.484/BA, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023).
+Quanto às despesas relativas à produção da prova pericial, o Tribunal de origem entendeu que
+"(..)
+A questão recursal relativa ao pagamento do custo da prova pericial pela agravante não desafia desconstituição, porquanto deflui da distribuição dinâmica do ônus da prova (artigo 373, § 1º, CPC). (..) estando a agravante obrigada a reparar os danos ambientais e danos reflexos que sua atividade econômica poluidora causou ao agravado, decerto que a ela cumpre arcar com o custo da prova pericial de necessidade não relativizada" (fl. 1.480 e-STJ).
+Todavia, a jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que a atribuição da responsabilidade pelo custeio da prova pericial não se confunde com a inversão do ônus probatório. Em outras palavras, a inversão do ônus da prova não implica na automática transferência da obrigação de adiantamento dos honorários periciais.
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE CONSUMO. HIPOSSUFICIÊNCIA. VEROSSIMILHANÇA. COMPROVAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. PERÍCIA. HONORÁRIOS. ADIANTAMENTO PELO FORNECEDOR. NÃO OBRIGATORIEDADE. ALEGAÇÕES. NÃO COMPROVAÇÃO. CONSEQUÊNCIAS. CARGA DINÂMICA DA PROVA. DANO PRESUMIDO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Nos termos da jurisprudência desta Corte, aquele contra quem houve a inversão do ônus não é obrigado a custear honorários de perícia devendo, contudo, arcar com as consequências da não produção da prova.
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.953.714/SP, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022 - grifou-se).
+"RECURSO ESPECIAL - INCIDENTE DE FALSIDADE MANEJADO NO BOJO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - ALEGAÇÃO DE INAUTENTICIDADE DE ASSINATURAS APOSTAS EM CONTRATO DE CONFISSÃO DE DÍVIDA - DOCUMENTO COM FIRMA RECONHECIDA EM CARTÓRIO - INSTÂNCIAS ORDINÁRIAS QUE JULGARAM IMPROCEDENTE O INCIDENTE DADA A NÃO ELABORAÇÃO DA PROVA PERICIAL GRAFOSCÓPICA EM RAZÃO DA AUSÊNCIA DO ADIANTAMENTO DA REMUNERAÇÃO DO PERITO, O QUE ENSEJOU A INVERSÃO DO ÔNUS PROBATÓRIO ENQUANTO REGRA DE JULGAMENTO - IRRESIGNAÇÃO DOS EXCIPIENTES.
+(..)
+7. Esta Corte Superior preleciona não ser possível confundir ônus da prova com a obrigação de adiantamento dos honorários periciais para a sua realização. Precedentes.
+8. Recurso especial provido para cassar o acórdão recorrido e a sentença, com a determinação de retorno dos autos à origem a fim de que seja reaberta a etapa de instrução probatória, ficando estabelecido competir à parte que produziu o documento cujas assinaturas são reputadas falsas comprovar a sua fidedignidade, ainda que o adiantamento das despesas dos honorários periciais seja carreado à parte autora nos termos dos artigos 19 e 33 do CPC/73, atuais artigos 82 e 95 do NCPC."
+(REsp 1.313.866/MG, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 15/6/2021, DJe de 22/6/2021 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CABIMENTO. RECURSO INTERPOSTO CONTRA DECISÃO QUE INVERTEU O ÔNUS DA PROVA EM DESFAVOR DO BANCO E O CONDENOU AO PAGAMENTO DA PERÍCIA. CDC. INVERSÃO DO ÔNUS DA PROVA. OBRIGAÇÃO DE ADIANTAMENTO DAS DESPESAS.
+(..)
+3. "A inversão do ônus probatório não gera a responsabilidade da parte contrária de custear as despesas decorrentes da realização de prova requerida pelo consumidor. Precedentes" (AgInt no REsp 1537179/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 05/06/2020).
+4. Agravo interno não provido."
+(AgInt no AREsp 1.910.768/PR, Relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 25/10/2021, DJe de 28/10/2021).
+"PROCESSUAL CIVIL (CPC/1973). AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS DE PERITO. CUSTEIO TRANSFERIDO PARA A PARTE RÉ. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. SÚMULA 83/STJ. RAZÕES RECURSAIS INSUFICIENTE PARA A ALTERAÇÃO DA CONCLUSÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no REsp 1.378.152/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 1/9/2016, DJe de 9/9/2016 - grifou-se).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REVISÃO DO JULGADO. REEXAME DE PROVAS. SÚMULA STJ/7. INVERSÃO DO ÔNUS DA PROVA CONCEDIDO NA ORIGEM. REVISÃO EM SEDE DE RECURSO ESPECIAL. SÚMULA STJ/07. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Decidida a questão no exame das circunstâncias fáticas da causa, esbarra o conhecimento do Especial no óbice da Súmula 7 deste Tribunal.
+2.- Em relação à inversão do ônus probatório, esta Corte entende que a reapreciação dos aspectos de verossimilhança da alegação do consumidor ou de sua hipossuficiência não pode ser efetuada em sede de Recurso Especial em virtude da Súmula STJ/07.
+3.- "As regras do ônus da prova não se confundem com as regras do seu custeio, cabendo a antecipação da remuneração do perito àquele que requereu a produção da prova pericial, na forma do artigo 19 do CPC." (REsp 908.728/SP, Relator o Ministro João Otávio de Noronha, DJe de 26/4/2010).
+4.- A agravante não trouxe qualquer argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+5.- Agravo Regimental improvido."
+(AgRg no AREsp 426.062/SP, Relator Ministro SIDNEI BENETI, Terceira Turma, julgado em 11/2/2014, DJe de 13/3/2014 - grifou-se).
+Confira-se, ainda, as seguintes monocráticas: REsp 1.950.220, Ministro Paulo de Tarso Sanseverino, DJe de 02/03/2023, e REsp 1.852.644, Ministra Nancy Andrighi, DJe de 18/05/2020.
+Portanto, o acórdão recorrido se mostra contrário ao entendimento desta Corte a respeito do tema.
+Em verdade, a responsabilidade pelo adiantamento dos honorários periciais - diferentemente das regras para distribuição do ônus probatório - está prevista no art. 95 do CPC, segundo o qual a prova será custeada pela parte que a houver requerido ou rateada quando pleiteada por ambas as partes.
+Nesse sentido,
+"(..) o ordenamento jurídico brasileiro elegeu critério subjetivo para imposição do ônus de antecipação do valor da remuneração do perito: a despesa deve ser adiantada por quem requerer a perícia, devendo ser rateada quando requerida por ambas as partes ou determinada de ofício pelo Juiz" (REsp 1.821.048/GO, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/8/2019, DJe de 29/8/2019).
+Ressalta-se que, quando a parte responsável pelo adiantamento for beneficiário de justiça gratuita, o pagamento dos honorários periciais se dará nos moldes dos §§ 3º e 4º do art. 95 do CPC:
+"Art. 95. Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes.
+(..)
+§ 3º Quando o pagamento da perícia for de responsabilidade de beneficiário de gratuidade da justiça, ela poderá ser:
+I - custeada com recursos alocados no orçamento do ente público e realizada por servidor do Poder Judiciário ou por órgão público conveniado;
+II - paga com recursos alocados no orçamento da União, do Estado ou do Distrito Federal, no caso de ser realizada por particular, hipótese em que o valor será fixado conforme tabela do tribunal respectivo ou, em caso de sua omissão, do Conselho Nacional de Justiça.
+§ 4º Na hipótese do § 3º, o juiz, após o trânsito em julgado da decisão final, oficiará a Fazenda Pública para que promova, contra quem tiver sido condenado ao pagamento das despesas processuais, a execução dos valores gastos com a perícia particular ou com a utilização de servidor público ou da estrutura de órgão público, observando-se, caso o responsável pelo pagamento das despesas seja beneficiário de gratuidade da justiça, o disposto no art. 98, § 2º."
+A propósito:
+"CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. PREQUESTIONAMENTO PARCIAL. PRESCRIÇÃO. SÚMULA 283/STF. COMPENSAÇÃO ESPONTÂNEA. DÍVIDA PRESCRITA. VERIFICAÇÃO DA EXTENSÃO DA COMPENSAÇÃO. POSSIBILIDADE. CERCEAMENTO DE DEFESA. RECONHECIMENTO. REPETIÇÃO DE INDÉBITO. VIABILIDADE. HONORÁRIOS PERICIAIS. ADIANTAMENTO. GRATUIDADE DE JUSTIÇA. ART. 95, § § 3º e 4º, DO CPC/2015. JULGAMENTO: CPC/2015.
+(..)
+6. Se a parte que postulou a realização da prova pericial for beneficiária da gratuidade de justiça, com relação aos honorários periciais, deve ser observado o disposto no art. 95, § § 3º e 4º, do CPC/2015.
+7. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido".
+(REsp 1.969.468/SP, Relatora MINISTRA NANCY ANDRIGHI, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022 - grifou-se).
+No caso, não há informações suficientes no acórdão recorrido para aferir se a perícia foi requerida por ambas as partes ou apenas por uma delas. Assim, mostra-se necessário o retorno dos autos à origem para que julguem a questão conforme o entendimento acima descrito.
+Dessa forma, na hipótese dos autos, seria inviável a imposição da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+A jurisprudência do Superior Tribunal de Justiça possui entendimento pacífico no sentido de ser cabível a multa em apreço quando presente o intuito manifestamente procrastinatório na oposição de declaratórios.
+Contudo, se demonstrado que a parte buscava o prequestionamento da matéria federal, os embargos de declaração não podem ser considerados protelatórios, nos termos da Súmula nº 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório."
+Confira-se:
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ADIMPLEMENTO CONTRATUAL. AGRAVO DE INSTRUMENTO. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 1.062, § 2º, do NCPC. AFASTAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA N.º 98 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que os temas sejam analisados e solvidos.
+3. O entendimento desta Corte é no sentido de ser descabida a multa prevista no art. 1.062, § 2º, do NCPC, quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração. Incidência da Súmula nº 98/STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1.563.279/PR, Relator Ministro MOURA RIBEIRO , Terceira Turma, julgado em 28/11/2022, DJe de 30/11/2022 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento para afastar a multa prevista no artigo 1.026, § 2º, do CPC e determinar a devolução dos autos à origem para que o Tribunal de origem profira novo julgamento a respeito da responsabilidade pelo custeio da prova pericial à luz da jurisprudência acima detalhada.
+Publique-se.
+Intimem-se.
+EMENTA
