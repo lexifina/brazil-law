@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela OI S.A. - EM RECUPERACAO JUDICIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 408):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO. HOMOLOGAÇÃO DOS CÁLCULOS DO PERITO COM VALORES RELATIVOS À TELEFONIA MÓVEL. INEXISTÊNCIA DE PEDIDO NA INICIAL E DE CONDENAÇÃO NA SENTENÇA. IMPOSSIBILIDADE DE INCLUSÃO. AUSÊNCIA DE PREVISÃO NO COMANDO SENTENCIAL. AFASTAMENTO DA DOBRA ACIONÁRIA. RECURSO PROVIDO.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 128, 293, 460, 467, 468, 471, 473, 474 e 475-G do CPC/1973, por ofensa à coisa julgada em execução de título executivo judicial referente a valores de título de dobra acionária.
+Narra que "a sentença transitada em julgado determinou apenas a complementação da subscrição das ações devidas à recorrida, sem que houvesse qualquer menção à dobra acionária, o que não foi respeitado no laudo pericial homologado pela decisão de primeiro grau e mantido na decisão ora recorrida" (fl. 476). Entende, assim, que a inclusão de valores a título de dobra acionária configura ofensa à coisa julgada.
+Aduz que a decisão atacada por meio de agravo de instrumento "homologou Laudo Pericial onde foram inclusos valores referentes à Dobra Acionária e seus consectários, proveniente da telefonia móvel, porém, estás parcelas não estão presentes na causa de pedir e nem no pedido do Recorrido, como se verifica da petição inicial, configurando Sentença Ultra Petita" (fl. 480).
+Contrarrazões ao recurso especial às fls. 494/505.
+O recurso especial foi admitido na origem (fls. 508/509).
+É o relatório.
+Nos termos do que foi decido pelo Plenário do STJ, "aos recursos interpostos com fundamento CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Assiste razão ao recorrente.
+Nos termos da orientação jurisprudencial da Terceira e Quarta Turmas do Superior Tribunal de Justiça, o valor correspondente à dobra acionária só pode ser incluído na execução se houver condenação específica na ação de conhecimento.
+Por pertinente, cito os julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEFONIA. DOBRA ACIONÁRIA. AUSÊNCIA DE CONDENAÇÃO EXPRESSA. IMPOSSIBILIDADE DE INCLUSÃO NO CÁLCULO EXEQUENDO. EVENTOS SOCIETÁRIOS. PRECLUSÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido da impossibilidade de inclusão, na fase de cumprimento de sentença, das ações da telefonia móvel (dobra acionária), sem condenação expressa na fase de conhecimento, sob pena de ofensa à coisa julgada. Precedentes.
+2. "Configura-se a preclusão lógica e temporal quando a parte não interpõe o competente recurso contra decisão que lhe foi desfavorável, deixando de impugnar a matéria no momento processual oportuno" (AgInt Acordo no REsp 1.382.078/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/11/2018, DJe de 04/12/2018).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.869.809/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/9/2020, DJe de 1/10/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ADIMPLEMENTO CONTRATUAL. PARTICIPAÇÃO FINANCEIRA. LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO DO ART. 489 DO NCPC. SÚMULA Nº 284 DO STF. OFENSA A COISA JULGADA. EXISTÊNCIA. DOBRA ACIONÁRIA NÃO FIXADA NA DECISÃO DE PRIMEIRA INSTÂNCIA. IMPOSSIBILIDADE DE INCLUSÃO EM SEDE DE CUMPRIMENTO DE SENTENÇA. DIVIDENDOS E JUROS SOBRE CAPITAL PRÓPRIO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte Superior, é inviável a inclusão da dobra acionária, quer na fase de conhecimento, como pedido implícito, quer na fase de liquidação/execução como parcela implícita da condenação. Precedente.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.867.516/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/8/2020, DJe de 14/8/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE SUBSCRIÇÃO DE AÇÕES DE TELEFONIA. JUROS SOBRE CAPITAL PRÓPRIO. TÍTULO EXECUTIVO JUDICIAL. AUSÊNCIA DE PREVISÃO. CÁLCULO EXEQUENDO. INCLUSÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Para que haja efetivo direito à complementação acionária da telefonia móvel - dobra acionária -, é necessário que o pedido seja expresso e analisado em ação de conhecimento. Não havendo condenação à referida complementação, inviável que se incluam nos cálculos exequendos as ações decorrentes da dobra acionária. Precedentes desta Corte.
+3. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp nº 1.373.438/RS, processado nos moldes do art. 543-C do CPC/1973, decidiu pelo não cabimento da inclusão dos dividendos ou dos juros sobre capital próprio no cumprimento da sentença condenatória à complementação de ações sem expressa previsão no título executivo.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.033.459/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/12/2018, DJe de 6/12/2018.)
+No caso, o Tribunal de origem, em desconfo rmidade com o entendimento desta Corte, manteve a dobra acionária no cálculo exequendo, sem que houvesse condenação expressa no título executivo, conforme se extrai do seguinte excerto do voto condutor do acórdão regional recorrido (fl. 451):
+Vencida a questão preliminar, no mérito merece acolhimento para prevalência do voto vencido, o qual resta alinhado com o posicionamento do STJ.
+Na petição inicial houve o requerimento de indenização referente aos dividendos, bonificações, juros sobre capital próprio, bem como outras vantagens geradas pela quantidade de ações subscritas, além da complementação das ações subscritas. Dentro destes pedidos resta evidente o direito à percepção da dobra acionária, pela simples qualidade de acionista do recorrente à época da cisão das empresas.
+Por esta razão não há fundamento para sugerir que a decisão de primeiro grau tenha extrapolado os limites do pedido inicial.
+Ainda, o voto vencido se posiciona na mesma linha de raciocínio das decisões do E. STJ, com a correta ressalva de que em casos de complementação acionária decorrente de contrato de participação financeira a dobra acionária é ínsita ao próprio pedido indenizatório, não fosse desta maneira ocorreria o enriquecimento sem casa da operadora de telefonia.
+Ante o exposto, dou provimento ao recurso especial, para afastar a parcela referente à dobra acionária do cálculo exequendo.
+Publique-se. Intimem-se.
+EMENTA
