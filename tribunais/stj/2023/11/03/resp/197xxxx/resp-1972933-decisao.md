@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTHONY DE OLIVEIRA SOUZA e OUTROS, com base nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 1.062):
+APELAÇÕES CÍVEIS. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO 1- FALTA DO REQUISITO DA REGULARIDADE FORMAL- ART. 1.010, II, III E IV, DO CPC - APELO QUE FAZ MERA REPETIÇÃO DA CONTESTAÇÃO - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA ÀS CONCLUSÕES DA SENTENÇA - OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL - PRECEDENTES. FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELO 1 NÃO CONHECIDO. APELAÇÃO 2 - PLEITO DE INDENIZAÇÃO POR DANOS CORPORAIS -INDENIZAÇÃO QUE NÃO É AUTÔNOMA E ABRANGE DANOS NA ESFERA PATRIMONIAL E EXTRAPATRIMONIAL DA VÍTIMA - SENTENÇA QUE ANALISOU OS PEDIDOS DE DANOS MATERIAIS E MORAIS EM FAVOR DOS AUTORES. EMBRIAGUEZ DO CONDUTOR DO VEÍCULO SEGURADO QUE FOI A CAUSA DETERMINANTE DO ACIDENTE - AGRAVAMENTO DO RISCO COMPROVADO - EXCLUSÃO DE COBERTURA, INCLUSIVE PARA DANOS A TERCEIROS - SEGURADO QUE POSTULOU A INDENIZAÇÃO PERANTE A SEGURADORA - INAPLICABILIDADE AO CASO DOS ENTENDIMENTOS DO SUPERIOR TRIBUNAL DE JUSTIÇA SOBRE O TEMA QUE ENTENDEM INEFICAZ PARA TERCEIROS A CLÁUSULA DE EXCLUSÃO DA COBERTURA SECURITÁRIA NA HIPÓTESE DE O ACIDENTE DE TRÂNSITO ADVIR DA EMBRIAGUEZ DO SEGURADO. SENTENÇA MANTIDA. APELO 2 DESPROVIDO.
+Nas razões do recurso, os recorrentes apontam divergência jurisprudencial e violação aos arts. 787 e 788 do CC/2002.
+Sustentam que a embriaguez do segurado não afasta o dever da seguradora de indenizar terceiro vítima de acidente.
+Assim sendo, requerem o provimento deste recurso especial.
+Contrarrazões às fls. 1.119-1.126 e 1.246-1.278 (e-STJ).
+Decisão de admissibilidade às fls. 1.127-1.128 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do Superior Tribunal de Justiça, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da responsabilidade da seguradora, o Tribunal de origem assim se manifestou (e-STJ, fls. 1.068-1.070):
+Por fim, alegam os apelantes que no caso de seguro de dano a terceiros, mesmo que o segurado esteja embriagado e tenha dado causa ao acidente, havendo a cobertura contratual deve a seguradora realizar o pagamento do valor em favor do terceiro atingido, o qual não contribuiu para o agravamento do risco.
+Logo, que a seguradora deve cobrir as despesas do terceiro até o limite das coberturas contratadas.
+A sentença concluiu pela culpa exclusiva do réu/apelado pelo acidente em lide. Ainda, que as provas contidas nos autos comprovam que a ingestão de bebida alcoólica pelo réu/apelado foi a causa preponderante do evento danoso.
+Quanto à denunciação da lide à seguradora, fundamentou a sentença que houve perda de direito à cobertura securitária pelo apelado, porque a sua condição de embriaguez foi o fator determinante para a ocorrência do acidente, sendo que o contrato de seguro em seu nome previa como risco excluído a direção por pessoa sob efeito de álcool no momento do acidente.
+Os apelantes aduzem que não contribuíram para o agravamento do risco, devendo a seguradora cobrir as despesas do terceiro até o limite das coberturas contratadas.
+Primeiramente, entendo que não há legitimidade dos apelantes em impugnar a parte da sentença que afastou a responsabilidade da seguradora em indenizar o segurado nos termos da apólice firmada entre eles.
+É que se trata de contrato firmado entre seguradora e segurado, não sendo os terceiros parte da avença.
+Todavia, é de se fazer alguns apontamentos, por ser o tema em debate de divergência jurisprudencial.
+ ..
+Na apólice em lide consta a cobertura para danos materiais e corporais a terceiros (mov. 103.2). Nas Condições Gerais do Seguro (mov. 103.7), cláusula 5.6, consta que o segurado perderá o direito à indenização nos casos de conduzir sob efeito de álcool, drogas, entorpecentes ou medicamentos que restrinjam a condução do veículo. Veja-se:
+ ..
+Quem estava dirigindo o veículo em lide era o próprio segurado Sr. Arivaldo, e não terceira pessoa.
+Logo, o caso não se amolda à hipótese de embriaguez de terceiro condutor como fator de agravamento do risco pelo segurado em contrato de seguro de automóvel, objeto de Incidente de Assunção de Competência(Tema 6) deste Tribunal de Justiça.
+No caso, as provas dos autos demonstram que a embriaguez foi fator determinante para o acidente, o que não se discute no apelo.
+Assim, está caracterizada a hipótese contratual de risco excluído de cobertura, sendo que o agravamento do risco objeto do contrato se deu porque o apelado estava sob efeito de álcool e essa condição foi a causa determinante para a ocorrência do acidente.
+Não se ignora os entendimentos do Superior Tribunal de Justiça no sentido de que a cláusula de exclusão de cobertura pelo agravamento do risco em seguro de responsabilidade civil é ineficaz perante o terceiro inocente, vítima do sinistro, senão vejamos:
+ ..
+Ocorre que no caso não se aplica referido entendimento, que, diga-se, não é vinculante, pois a exclusão da cobertura decorre de disposição contratual e legal. Ademais, no caso dos autos, o pleito de indenização foi deduzido pelo próprio segurado ou seja, não se trata de terceiro, vítima do acidente, que postula a indenização perante a seguradora.
+Do excerto acima transcrito, depreende-se que a Corte local entendeu que os recorrentes não possuem legitimidade para impugnar a parte da sentença em que foi excluída a responsabilidade da seguradora pelos danos ocasionados pelo segurado a terceiros.
+Noutro ponto, o Tribunal estadual ratificou o entendimento no sentido de que, sendo a embriaguez do condutor do veículo, ora segurado, causa preponderante para o evento danoso, considera-se valida a cláusula contratual que exclui a cobertura de danos a terceiros.
+Todavia, analisando os argumentos expostos nas razões do recurso especial, constata-se que os insurgentes deixaram de impugnar todos os fundamentos mencionados pelo acórdão recorrido, especificamente sobre a falta de legitimidade para impugnar o afastamento da responsabilidade da seguradora quanto à cobertura de danos causados pelo segurado a terceiros, situação que impede o prosseguimento do recurso excepcional.
+Nos termos do enunciado da Súmula 283/STF, aplicado por analogia ao recurso especial, é "inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ante o exposto, não conheço do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4 º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA C.C. DANOS MORAIS. ACIDENTE AUTOMOBILÍSTICO. ESTADO DE EMBRIAGUEZ DO SEGURADO. INDENIZAÇÃO SECURITÁRIA AFASTADA. ILEGITIMIDADE DOS TERCEIROS PREJUDICADOS. VALIDADE DA CLÁUSULA CONTRATUAL. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
