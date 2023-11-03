@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, porquanto incidente a Súmula n. 7/STJ.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo provimento recursal.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação dos arts. 50, II, e 118, I, da Lei n. 7.210/84, alegando, em suma, que "não se afigura possível admitir que a recorrido abandonou o cumprimento pelo período de 2 anos, 5 meses e 5 dias e, ao mesmo tempo, deixar de considerar tal conduta como falta grave com fundamento na ausência de capacidade financeira" (fl. 46).
+Sustentou que "tal justificativa não se mostra crível, tendo em vista que o montante de R$ 240,00 (duzentos e quarenta reais) é mensal, o que não impediria a apenada de comparecer desde os primeiros dias do início da aplicação de sua reprimenda para comunicar e comprovar o citado óbice, caso esse fosse efetivamente motivo para o abandono" (idem).
+Requereu, ao final, "o conhecimento e provimento do Recurso Especial para, reconhecendo a violação aos arts. 50, II, e 118, I, da Lei de Execuções Penais, reformar o acórdão recorrido, de modo a homologar a falta grave e determinar a regressão do regime prisional" (fl. 47).
+Sobre a controvérsia aqui trazida, assim se manifestou o Tribunal local (fls. 35-36):
+ ..  In casu, depreende-se da decisão agravada que, em audiência de justificação, a Magistrada primeva acolheu a justificativa da apenada "dando-lhe nova chance de cumprimento de pena no regime semiaberto, uma vez que não se verificou deliberada intenção em se furtar de suas obrigações", revogando a regressão cautelar anteriormente determinada, mantendo o regime semiaberto.
+Tal decisão deve ser mantida.
+Isso porque, se foi acertadamente acolhida a justificativa apresentada pela agravada, não há que se falar em reconhecimento da falta grave, notadamente tendo em vista que o descumprimento das condições impostas, in casu, não vai de encontro aos princípios norteadores da execução penal, ou seja, não demonstram uma inaptidão da reeducanda ao convívio social.
+De fato, a conduta de descumprir a obrigação de comparecer em juízo configura mesmo falta grave. Contudo, penso que a magistrada andou bem ao entender que a apenada não agiu deliberadamente com a intenção de se furtar de suas obrigações, na verdade, acolheu a justificativa da apenada de ausência de condição financeira em arcar com o deslocamento.
+É importante ressaltar que a apenada, deveria, em tese, cumprir a pena em regime semiaberto com monitoramento eletrônico, mas, por falta de dispositivo na unidade prisional, foi imposta a condição de comparecimento e recolhimento noturno, o que lhe trouxe dificuldades, em razão do valor gasto com o deslocamento, que totalizava R$ 240,00 (duzentos e quarenta reais) mensais.
+Como bem pontuou a magistrada da VEP, embora seja reprovável a falta cometida pela apenada, mostra-se um fato isolado, uma vez que não há mais notícias de outras indisciplinas por ela praticada. ..
+Como se vê, deixou-se de aplicar falta grave à apenada, ora agravada, tendo em vista a sua escassa condição financeira, ressaltando-se que "não se verificou deliberada intenção em se furtar de suas obrigações".
+Ademais, verifica-se a culpa estatal no descumprimento de tais obrigações, uma vez que "a apenada, deveria, em tese, cumprir a pena em regime semiaberto com monitoramento eletrônico, mas, por falta de dispositivo na unidade prisional, foi imposta a condição de comparecimento e recolhimento noturno, o que lhe trouxe dificuldades, em razão do valor gasto com o deslocamento, que totalizava R$ 240,00 (duzentos e quarenta reais) mensais", não havendo falar-se em ofensa aos arts. 50, II, e 118, I, da Lei de Execuções Penais.
+Por fim, inviável nesta via a aferição da condição financeira da agravada, diante do óbice contido na Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para negar conhecimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
