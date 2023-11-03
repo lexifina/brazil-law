@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interposto por ZANETTE IMPORTAÇÃO E EXPORTAÇÃO LTDA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1150 ):
+RECURSO - Apelação - Interposição de agravo interno contra decisão que negou seguimento por deserção - Pretensão a discussão de determinação para complementação do preparo Inadmissibilidade em razão de preclusão - Decisão concessiva do prazo não atendida - Inteligência do disposto no art. 507 do Cód. de Proc. Civil -Caso, ademais, que a complementação se fazia necessária -Decisão que negou seguimento mantida - Agravo interno improvido.
+Embargos de declaração rejeitados (fls. 1161-1164).
+No recurso especial, alega a recorrente ofensa ao art. 1007, § 2º, do Código de Processo Civil, ao se insurgir contra o entendimento do Tribunal de origem de que é deserta a apelação da ora recorrente, pois concedido prazo para complementar o preparo do referido recurso, não complementou, assim, ficou configurada a deserção do recurso, e, também, que ficou preclusa a pretensão de revisão do referido entendimento.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1167-1173).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 1174-1175 ), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta ao agravo (fls. 1189-1198).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não merece prosperar o recurso.
+Com efeito, consigne-se inviável a apreciação das alegações da recorrente, considerando que a Corte de origem, ao entender que, concedido prazo para complementar o preparo da apelação, não complementou, ficou configurada a deserção do recurso, e, também, que preclusa a pretensão de revisão do referido entendimento, firmou convicção com base no conjunto probatório dos autos. Confira-se o seguinte excerto do acórdão recorrido (fls. 1150-1151):
+O inconformismo não tem condições de ir avante registrando-se, primeiramente, e "a latere", que houve fundamentação específica para a determinação da complementação do preparo: é o que consta, expressamente, do despacho de fls. 1.106: "À complementação do preparo (valor-base: o da pretensão recursal, representado pelo valor atualizado da condenação, incluindo honorários advocatícios), no prazo e sob as penas da lei (§2º do art. 1.007 do Cód. de Proc. Civil)".
+Assim, a verdade é que a decisão com a qual a agravante não se conforma é essa mesma proferida a fls. 1.106. Tomando conhecimento pela publicação certificada a fls. 1.107, não interpôs inconformismo útil, limitando-se a proceder a recolhimento insuficiente, sem nada alegar (fls. 1.109/1.112).
+Não lhe é dado, agora, pretender discutir a matéria, o que, como se sabe, não se pode admitir ante a inequívoca preclusão, tanto mais que e ao contrário do alegado - a fundamentação da determinação se amolda à Lei Estadual nº 11.608/2003 dado ao objetivo específico da apelação, a qual se volta contra a procedência dos pedidos, que incluem os honorários advocatícios os quais fora condenada.
+Com efeito, e como dito, tal pretensão recursal deveria ter sido veiculada no momento oportuno e direcionada àquela primeira decisão.
+Assim, forçoso reconhecer que se deu inarredável preclusão consumativa (art. 507 do Cód. de Proc. Civil: "É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão.").
+É de se registrar, complementarmente, por fim, que, em se tratando de decisão de deserção, nada impedia fosse proferida pelo Relator, nos termos nela mencionados, isto é, com base no inciso III do art. 932 do Cód. de Proc. Civil.
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, mutatis mutandis, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCLUSÃO DO TRIBUNAL ESTADUAL PELA INEXISTÊNCIA DE PACTUAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALEGAÇÃO DE DESERÇÃO DA APELAÇÃO AFASTADA PELA CORTE DE ORIGEM. ALTERAÇÃO DO VOTO DO DESEMBARGADOR RELATOR. POSSIBILIDADE. TÉCNICA DE AMPLIAÇÃO DO JULGAMENTO. DESCABIMENTO. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Para infirmar as conclusões a que chegou o acórdão recorrido, seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância especial, conforme dispõe a Súmula 7/STJ.
+2. Consoante a jurisprudência desta Corte, "nos termos do art. 942, caput, do CPC/2015, verificada a dissonância de entendimentos, a apelação ainda não está julgada, porquanto sua apreciação não vem a termo nem se proclama seu resultado até que seja ampliado o quórum de julgamento" (REsp 1758383/MT, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/8/2020, DJe 7/8/2020).
+3. Aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.237.801/RO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
