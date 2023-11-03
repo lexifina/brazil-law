@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pelo MUNICIPIO DE RIO DE JANEIRO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 49):
+Agravo de Instrumento. Ação de Obrigação de Fazer. Fase de cumprimento de sentença. Decisão que rejeitou Impugnação à execução ofertada. Irresignação do executado. Alegação de que não é devido o pagamento de valores referentes à remuneração de assistente técnico da parte exequente. Decisão que não merece reforma. Ressarcimento integral das despesas que a parte vencedora teve que arcar ou adiantar em razão do processo, que constituem consectários do princípio da sucumbência. Inteligência do art. 82, §2º c/c art. 84 do CPC/15. Questão de ordem pública. Precedentes deste Tribunal. DESPROVIMENTO DO RECURSO .
+Opostos embargos declaratórios, foram rejeitados (fls. 84/87).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos da legislação federal:
+(I) arts. 1.022 e 1025, ambos do CPC, na medida em que houve rejeição dos embargos declaratórios sem que fossem apreciadas as omissões apontadas;
+(II) arts. 82, § 2º, e 84, ambos do CPC, afirmando que não pode haver determinação de reembolso sem que haja a comprovação do pagamento prévio por parte dos agravados. Isso porque a exigência de que as despesas sejam antecipadas para posterior ressarcimento aplica-se a todos, inclusive aos beneficiários de gratuidade de justiça;
+(III) arts. 506, 507, 508 e 509, § 4º, todos do CPC, ao argumento de que não consta do título executivo qualquer valor relacionado aos honorários do assistente técnico, de modo que não é cabível sua inclusão na planilha de execução, por violação à coisa julgada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega que (fl. 67):
+Conforme fl. 616, o valor constante nos cálculos foi extraído de autodeclaração dos valores despendidos, sem qualquer comprovação da efetiva antecipação do pagamento da verba paga pelas autoras. O Município entende, portanto, que tal valor não é devido por não restar o alegado pagamento comprovado nos autos, tendo sido apresentado apenas e tão somente uma declaração unilateral produzida por terceiro.
+(iii) Por final, diante da ausência de comprovação do desembolso há violação da regra do art. 82, §2º, do CPC. Não há comprovação das despesas que o autor antecipou, logo, não há verba a ser ressarcida. Contudo, esse argumento não foi enfrentado, devendo ser sanada a omissão.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurs o especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
+EMENTA
