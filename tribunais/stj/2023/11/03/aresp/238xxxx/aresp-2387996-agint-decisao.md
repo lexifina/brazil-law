@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interno interposto por BOA VISTA SERVICOS S.A. (BOA VISTA) contra decisão de relatoria da Ministra Presidente desta Corte que não conheceu do agravo em recurso especial anteriormente manejado em virtude da incidência da Súmula 182 do STJ.
+Nas razões do presente inconformismo, defendeu ter impugnado especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fl. 348).
+É o relatório.
+DECIDO.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 333/335 e passo a novo exame do recurso interposto às e-STJ, fls. 442/447.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece ser conhecido.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, BOA VISTA alegou violação do art. 43, § 2º, do CDC, ao sustentar (1) o regular envio da notificação prévia por Correios; (2) que a condenação por danos morais deve ser afastada quando houver inscrição do nome do devedor por débito preexistente, nos termos da Súmula nº 385 do STJ; (3) que a indenização nos moldes em que fixada acarretará enriquecimento indevido de MONICA; e (4) que os juros de mora incidem a partir da fixação da indenização por danos morais.
+(1) Da regular notificação
+Sobre o tema o TJMG consignou que referida questão não foi analisada pois não objeto de insurgência de BOSA VISTA em sua minuta recursal. Confira-se:
+Não houve análise sobre a questão afeta à ausência de notificação prévia porque contra ela não se insurgiu a ré em sua minuta recursal, conforme expressamente consignado no acordão:
+"Não houve interposição de recurso pela parte ré no tocante à questão afeta à ausência de notificação prévia, tornando-a em consequência incontroversa.
+Da leitura das razões recursais, observa-se que se restringem as matérias ora debatidas à caracterização dos danos morais ao montante da indenização fixada a título de indenização, sobre as quais se passa a discorrer." (e-STJ, fl. 217).
+Da análise das razões do presente recurso verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+(2, 3 e 4) Dos temais temas
+O dissídio jurisprudencial viabilizador do recurso não foi demonstrado no particular (art. 105, III, c, da CF).
+Com efeito, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa dada ao mesmo dispositivo.
+No caso em exame, BOSA VISTA se limitou a declinar os argumentos que supostamente dariam respaldo a sua pretensão e a mencionar acórdãos porventura divergentes, sem, contudo, efetuar a indicação do dispositivo legal acerca do qual haveria dissenso pretoriano.
+Assim, não se pode conhecer da divergência jurisprudencial, porquanto não atende aos requisitos dos arts. 541, caput, do CPC, e 255, §§ 1º e 2º, do RISTJ.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA FINANCEIRA .
+1. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+2. A jurisprudência deste STJ é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF (cf. REsp n. 1.061.530 de 22.10.2008, julgado pela Segunda Seção segundo o rito dos recursos repetitivos).
+Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, circunstância presente na hipótese dos autos.
+2.1. P ara derruir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a abusividade ou não da taxa de juros contratada, seria imprescindível a incursão no acervo fático e probatório dos autos e a análise de cláusulas contratuais, providências vedadas na via estreita do recurso especial, ante aos óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.001.392/RS, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. ARTIGO 1.030, I, "B" , DO CPC/2015 E SÚMULA N. 182 DO STJ. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE EMBASADA NO ART. 1.030, V, do CPC/2015. RECONSIDERAÇÃO PARCIAL. REPARAÇÃO DE DANOS. ATRASO NA ENTREGA DE IMÓVEL E VÍCIO CONSTRUTIVO. SÚMULAS N. 7 DO STJ E 284 DO STF. AGRAV O INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. O recurso especial não comporta exame de questões que impliquem revisão de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ), o que a impede o acolhimento da insurgência relacionada ao atraso na entrega de unidade habitacional e à existência de vício construtivo no imóvel.
+2. O conhecimento do recurso especial exige indicação do dispositivo legal que supostamente tenha recebido interpretação divergente de tribunais, sob pena de incidência da Súmula n. 284/STF.
+3. Agravo interno a que se dá parcial provimento para reconsiderar em parte a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.964.792/PR, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS C/C COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 05 E 07/STJ. INADMISSIBILIDADE. REVISÃO DO VALOR. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Alterar o decidido no acórdão impugnado, no que se refere à ausência de comprovação de força maior e caso fortuito, bem como à conclusão de que "não configura apenas simples descumprimento contratual", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada, o que não está caracterizado na hipótese dos autos.
+5. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+6. No que se refere à fixação dos danos morais, a interposição do recurso especial sob o fundamento de divergência jurisprudencial inviabiliza o exame do tema, uma vez que, não obstante as semelhanças externas e objetivas, os acórdãos sempre serão distintos quanto ao aspecto subjetivo, evidenciando cada situação suas próprias particularidades e circunstâncias fáticas, além do grau de repercussão do evento danoso na esfera individual da vítima.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.014.808/RJ, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 2/5/2022, DJe de 4/5/2022)
+Assim, em virtude da não indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente, colheu-se o óbice da Súmula n.º 284 do STF, aplicada, aqui, por analogia.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AÇÃO DE INDENIZAÇÃO. NOTIFICAÇÃO PRÉVIA. NÃO INSURGÊNCIA NA MINUTA RECURSAL. AUSÊNCIA DE COMPROVAÇÃO. QUESTÃO INCONTROVERSA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. DISSÍDIO INTERPRETATIVO. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
