@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo de ALBERTO CARDOSO DA SILVA contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n. 0000972-33.2018.8.26.0650.
+Consta dos autos que o agravante foi condenado por incurso no artigo 155, caput, do Código Penal (furto) às penas reclusiva de 1 (um) ano, no regime semiaberto, e pecuniária de 10 (dez) diárias mínimas de multa. (fl. 228).
+Recurso de apelação interposto pela defesa foi desprovido (fl.232).
+Embargos de declaração opostos pela defesa foram rejeitados (fl. 245).
+Em sede de recurso especial (fls. 250/258), a defesa apontou violação aos artigos 33, caput e seu § 2º, alíneas b e c, 44, e 59, do Código Penal, isto porque a fixação de regime prisional semiaberto não encontra amparo nas circunstâncias judiciais, nem mesmo na quantidade de pena aplicada. Salienta que afastar o regime aberto em razão de eventual reincidência é desprestigiar o princípio da individualização da pena e valorar idêntica circunstância fática.
+Requer a reforma do acórdão recorrido.
+O recurso especial foi inadmitido no TJ em razão dos óbices das Súmulas ns. 284 do STF; n. 7 do STJ e 83 do STJ.
+Em agravo em recurso especial, a defesa impugnou o referido óbice (fls. 276/285).
+Contraminuta do Ministério Público (fls. 288/294).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo não conhecimento do recurso (fls. 318/322).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Quanto à fixação do regime inicial do cumprimento da pena, cita-se trecho do acórdão da apelação:
+O irrogado foi até mesmo obsequiado, sem oposição ministerial, com o estabelecimento do estágio prisional intermediário, uma vez que a comprovada recidiva (condenação definitiva por receptação e associação criminosa nos autos do Processo nº 0001029-71.2015.8.26.0548, com trânsito em julgado para a Defesa certificado aos 07.02.2017 - fls. 160/1) atrairia o fechado (inteligência do artigo 33, § 2º e alíneas, do estatuto repressivo).
+"O réu reincidente, apenado com reclusão, pouco importa o grau da pena privativa de liberdade, deverá iniciar o cumprimento pelo regime fechado. Infringência ao disposto no art. 33, § 2º, "a", "b" e "c", do CP. Recurso provido" (STJ, Resp. 84669/SP, 5ª Turma, Rel. Min. Felix Fischer, DJU 14.4.97) (fls. 229).
+Com efeito, o modo mais gravoso de cumprimento de pena foi justificado em razão da reincidência do recorrente, decorrente da própria literalidade do art. 33, caput, § 2º, alínea "c", do CP e da Súmula n. 269 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. FURTO (ART. 155, § 1º, CP). PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO. REGIME SEMIABERTO. ADEQUADO. REINCIDÊNCIA. LITERALIDADE DO ART. 33, § 2º, C, DO CÓDIGO PENAL. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - É pacífico o entendimento desta Corte no sentido de que o paciente reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância.
+III - Não bastasse, a jurisprudência desta Corte Superior é no sentido de que o furto praticado mediante escalada e/ou durante o repouso noturno, inviabilizam a aplicação do princípio da insignificância.
+IV - Mantida a pena no patamar estabelecido pelo v. acórdão impugnado, ou seja, 1 (um) ano e 4 (quatro) meses de reclusão, não há se falar em fixação de regime prisional menos gravoso, pois o meio prisional semiaberto decorre da própria literalidade no art. 33, caput, § 2º, alínea "c", Código Penal, em razão da reincidência ostentada pelo paciente.
+Agravo regimental desprovido.
+(AgRg no HC n. 583.905/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 25/8/2020, DJe de 8/9/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA. FUNDAMENTADA VALORAÇÃO GRAVOSA DAS CIRCUNSTÂNCIAS JUDICIAIS. ELEVADO VALOR DOS BENS SUBTRAÍDOS. MAUS ANTECEDENTES. AUMENTO DA PENA-BASE PROPORCIONAL. ALEGADA CONFISSÃO ESPONTÂNEA NÃO UTILIZADA NA CONDENAÇÃO. IMPOSSIBILIDADE DE COMPENSAÇÃO COM A AGRAVANTE DE REINCIDÊNCIA. SÚMULA 545/STJ. REGIME PRISIONAL. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INAPLICABILIDADE DA SÚMULA 269/STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A valoração gravosa das circunstâncias judiciais que gerou, na instância ordinária, aumento da pena-base de 1 ano (1/2) sobre o mínimo legal no delito do art. 155, § 2º, I e IV, do Código Penal, não se mostra desarrazoada ou desproporcional, porque justificada a partir de elementos concretos - maus antecedentes e elevada culpabilidade do agente evidenciada no alto valor dos bens subtraídos. Precedentes.
+2. Não há falar em reconhecimento da atenuante de confissão, tampouco na compensação desta com a agravante de reincidência, quando a alegada confissão do réu não for utilizada para fundamentar a condenação, nos termos da Súmula 545/STJ.
+3. Esta Corte Superior entende ser admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 anos, se favoráveis as circunstâncias judiciais, conforme enunciado sumular n. 269/STJ, o que não se aplica diante da existência de circunstâncias desfavoráveis.
+4. Agravo regimental improvido.
+(AgRg no HC n. 491.896/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 10/9/2019, DJe de 16/9/2019.)
+Do mesmo modo, "não é caso de transmutação da sanção corporal em restritiva de direitos a teor do que estabelece o artigo 44, inciso II, do estatuto substantivo" (fl. 232). A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CONTINUIDADE DELITIVA. REITERAÇÃO DELITIVA EM CRIMES CONTRA O PATRIMÔNIO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO. MAIOR GRAU DE REPROVABILIDADE DA CONDUTA. SUBSTITUIÇÃO DA PENA ALTERNATIVA. PENA SUPERIOR A 1 ANO. UMA RESTRITIVA E OUTRA DE MULTA MAIS BENÉFICA. IMPROCEDÊNCIA. FACULDADE DO JULGADOR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO. 1. O Supremo Tribunal Federal - STF e esta Corte possuem o entendimento de que para a aplicação do princípio da insignificância deverão ser observados os seguintes vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) inexpressividade da lesão jurídica e c) reduzido grau de reprovabilidade do comportamento do agente.
+Esse último vetor não se mostra presente na hipótese dos autos, por se tratar de furto qualificado pelo rompimento de obstáculo e pelo concurso de agentes (art. 155, § 4º, III e IV, do Código Penal - CP), demonstrando que tal conduta reveste-se de maior reprovabilidade, obstando, portanto, a aplicação desse princípio.
+2. De acordo com a jurisprudência desta Corte, a prática de crimes de furto em continuidade delitiva, também, evidencia o maior grau de reprovabilidade da conduta do agente, não admitindo a aplicação do princípio da insignificância. 3. "A jurisprudência de ambas as turmas criminais deste Superior Tribunal de Justiça reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas, situação que não se apresenta na hipótese" (AgRg no REsp 1436566/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/5/2016, DJe 3/6/2016).
+4. Esta Corte tem entendido que fixada a pena corporal em patamar superior a 1 ano, compete ao julgador a escolha do modo de aplicação da benesse legal prevista no art. 44, § 2º, segunda parte, do Código Penal - CP. Precedentes.
+Dessa forma, observada a discricionariedade do julgador e o respeito aos parâmetros legais, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 396.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/12/2018, DJe de 18/12/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INAPLICABILIDADE, IN CASU. REGIME PRISIONAL. ADEQUAÇÃO. RECURSO DESPROVIDO.
+1. A jurisprudência da Terceira Seção do Superior Tribunal de Justiça reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando as instâncias ordinárias entenderem ser tal medida recomendável diante das circunstâncias concretas (HC 419.983/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 06/03/2018, DJe 12/03/2018).
+2. Nessa linha de raciocínio, a reincidência do réu inviabiliza, em princípio, a aplicação do princípio da insignificância. Precedentes.
+Excepcionalidade não reconhecida pelas instâncias ordinárias.
+3. A despeito do quantum de pena definitivamente imposta - 1 (um) ano, 3 (três) meses e 22 (vinte e dois) dias de reclusão -, a reincidência do acusado justifica a fixação do modo semiaberto e a não substituição da sanção corporal por restritiva de direitos (HC 376.221/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 05/05/2017).
+4. Incidência da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 1.241.645/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/6/2018, DJe de 13/6/2018.)
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
