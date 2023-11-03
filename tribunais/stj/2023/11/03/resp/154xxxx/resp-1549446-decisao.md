@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVILPÚBLICA. MINISTÉRIO PÚBLICO FEDERAL. CAIXA ECONÔMICA FEDERAL. PROCEDIMENTOS INTERNOS DE AVALIAÇÃO DE BENS OFERECIDOS EM PENHOR. MONOPÓLIO DA EMPRESA PÚBLICA. INTERESSE PÚBLICO. INSTITUCIONALIZAÇÃO DE CONTRADITÓRIO E AMPLA PRODUÇÃO DE PROVAS. INVIABILIDADE. PEDIDO IMPROCEDENTE.
+1. Considerando a presença de interesse público decorrente do monopólio afetado à empresa pública federal para a concessão de crédito pignoratício e a natureza demanda, tendente a "institucionalizar" o contraditório e a ampla produção de prova para a apuração do valor de jóias oferecidas em garantia, não é de se desqualificar a legitimidade ad causam do Ministério Público Federal para a ação civil pública.
+2. O contraditório, ao qual se associa a ampla produção de prova, é inerente aos procedimentos dos quais advém a modificação do universo jurídico das partes que os integram. Na espécie, faltaria injuntividade jurídica como consequência das controvérsias que se seguiriam, pois à CEF ficaria sempre reservado adotar sua própria avaliação para a celebração do contrato.
+3. Apelação provida." (fl. 381)
+Os embargos de declaração opostos foram rejeitados (fls. 391/402).
+Em suas razões recursais, a parte recorrente alega, ofensa aos arts. 535 do CPC/73, e 4º, 6º, IV, e 39, IV do Código de Defesa do Consumidor, e divergência jurisprudencial, sustentando, em síntese, que:
+(a) que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração, essenciais ao julgamento da lide;
+(b) a avaliação unilateral dos bens oferecidos pelos consumidores em penhor como garantia a contratos de empréstimo, realizada pela CEF de forma unilateral, sem efetivo contraditório, viola o princípio da boa-fé objetiva;
+Apresentadas contrarrazões às fls. 449/455.
+É o relatório. Decido.
+O presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, com relação à alegada ofensa ao art. 535 do CPC/73, verifica-se que a parte recorrente fez apenas alegação genérica de sua vulneração, não especificando as teses legais que não teriam sido apreciadas no acórdão recorrido resultando na suposta omissão e qual seria a sua importância para o julgamento da lide, o que resulta em deficiência na fundamentação que não permite a compreensão da controvérsia. Dessa forma, ante a deficiente fundamentação do recurso, incide a Súmula n. 284 do STF. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/1973. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284 DO STF. DECISÃO FUNDAMENTADA. DANO MORAL. VALOR. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação de recurso especial que alega violação do art. 535 do CPC/1973, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido não solucionado no julgamento dos embargos de declaração.
+2. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de
+origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+3. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 748.451/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/12/2019, DJe 19/12/2019, g.n.)
+Verifica-se que o conteúdo normativo dos arts. 4º, 6º, IV, e 39, IV do CDC, invocados nas razões do apelo nobre, não foi apreciado pelo Tribunal a quo, ainda que tenham sido opostos embargos de declaração para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Ressalte-se que não existe contradição, na hipótese, em afirmar que os dispositivos não estão prequestionados e não conhecer do recurso especial quanto à alegada violação ao art. 1.022 do CPC/2015, posto que a fundamentação recursal deficiente inviabilizou o conhecimento do apelo nobre nesse ponto. Nesse sentido, colhem-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO CAUTELAR DE SEQUESTRO. ARGUIÇÃO DE VIOLAÇÃO AOS ARTS. 458, II, E 535, II, DO CPC/73. ALEGAÇÃO GENÉRICA DE OMISSÃO E DE AUSÊNCIA DE MOTIVAÇÃO. APLICAÇÃO DA SÚMULA 284/STF. ALEGADA OFENSA AO ART. 499 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. AGRAVO DESPROVIDO.
+1. A apresentação de alegações genéricas, além da deficiente fundamentação recursal, inviabiliza o conhecimento do apelo nobre quanto aos arts. 458, II, e 535, II, do CPC/73, atraindo a incidência da Súmula 284/STF, por analogia.
+2. O conteúdo normativo do art. 499, caput, do CPC/73 não foi apreciado pelo Tribunal a quo, apesar de a parte ter oposto embargos de declaração. Incidência da Súmula 211/STJ. Precedentes.
+3. "A incidência do teor da Súmula 284/STF no art. 535 do CPC implica entender que não foi possível analisar a apontada violação, e, portanto, inexiste impedimento para a aplicação do óbice da Súmula 211/STJ, diante da caracterização de falta de prequestionamento de artigos relacionados" (AgRg no Ag 1.381.367/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2015, DJe de 25/11/2015).
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 335.436/AM, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 14/8/2018, DJe de 20/8/2018, g.n.)
+Ante o exposto, nos termos do art. 255, § 4º, I, do RIST, não conheço do recurso especial.
+Publique-se.
+EMENTA
