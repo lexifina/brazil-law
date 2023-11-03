@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por CAVE CONSTRUTORA LTDA com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl.435):
+"CONSIGNAÇÃO EM PAGAMENTO - Restituição de quantia paga em razão de contrato de incorporação de edifício - Hipótese em que as partes têm como certo o desfazimento do ajuste - Imóvel, ademais, vendido a terceiro - Controvérsia restrita a questões de fato atinentes à oferta, recusa, ao valor a restituir e descontos por pagamento de imposto predial - Depósito, por parte da construtora, de valor correspondente à fração ideal do apelante, com base no preço em que negociado e vendido o imóvel a terceiro -Prova pericial, entretanto, conclusiva da insuficiência do depósito, tendo em vista o valor real do imóvel na época da venda - Prova testemunhal que, no caso, não tem o condão de se sobrepor ao trabalho pericial - Ausência de prova de pagamento do IPTU referente aos anos de 1990/1994 - Desconto procedido pela construtora devido - Sentença reformada, para julgar improcedente a consignatória, facultada a execução da diferença devida nesses mesmos autos, nos termos do voto.
+Recurso parcialmente provido."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo julgou extra petita, pois a ação consignatória visava apenas a liberação da obrigação de repassar à parte recorrida o percentual de sua titularidade atinente à venda do imóvel, de modo que não poderia condenar em perdas e danos, em decorrência da venda do imóvel por preço inferior ao do mercado, na melhor interpretação dos arts. 128 e 460 do CPC/2015.
+Obtempera, outrossim, a fixação do termo inicial dos juros de mora a partir da citação da ação consignatória, conforme art. 899 do CPC/1973.
+O prazo para apresentação das contrarrazões ao recurso especial decorreu in albis.
+O referido recurso especial não foi admitido por se entender incidente na espécie a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em ação de consignação em pagamento ajuizada por Cave Construtora Ltda, ora agravante, em face de Abel Fernandes Barrinuevo, ora agravado, alegando, em síntese, a venda do imóvel no qual detém fração da propriedade, em decorrência do contrato de incorporação realizado entre as partes, o qual não foi concluído. Por esse motivo, os condôminos deliberaram pela venda do imóvel e o rateio do seu produto entre eles, cuja parte cabível ao réu ele recusou-se a recebê-la. Requereu, assim, a consignação do valor de R$ 10.196,84 devido ao réu ante a sua recusa em recebê-lo.
+A r. sentença julgou procedente o pedido, para declarar quitado o valor da fração do imóvel, devido ao réu, com o depósito.
+Interposto recurso de apelação, o Tribunal a quo proveu em parte o recurso, reformou a sentença, e julgou o pedido improcedente, por insuficiência do valor consignado, em razão da diferença apurada de R$ 41.950,39 pelo perito do juízo.
+A despeito de não ter se identificado a alegada condenação em perdas e danos, a questão recursal se limite ao reconhecimento da procedência do pedido consignatório. Todavia, a pretensão encontra óbice de conhecimento na Súmula 7/STJ, pois o Tribunal a quo, amparado no laudo matemático do perito do juízo, afirmou que o valor consignado se mostrou insuficiente. Por isso que, para a alteração do julgado, seria necessário o revolvimento de fato e provas, técnica vedada no âmbito do recurso especial.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO BANCÁRIO. CONSIGNAÇÃO EM PAGAMENTO. NECESSIDADE DE DEPÓSITO INTEGRAL DA DÍVIDA E ENCARGOS RESPECTIVOS. MORA OU RECUSA INJUSTIFICADA DO CREDOR. NÃO DEMONSTRAÇÃO. EFEITO LIBERATÓRIO. NÃO CABIMENTO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a consignação em pagamento somente afasta a mora em relação aos valores depositados, de modo que, efetuado o pagamento a menor, continuam incidindo encargos moratórios sobre os valores remanescentes.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que os depósitos realizados pelos agravantes foram insuficientes e que não houve mora do credor, razão pela qual devem incidir os encargos moratórios sobre o valor remanescente. A modificação do entendimento da Corte de origem acerca da efetiva análise das provas e argumentos dos recorrentes pelo acórdão rescindendo, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1.873.375/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/11/2020, DJe de 17/12/2020)
+Destarte, em decorrência da Súmula 7/STJ, fica prejudicada a análise da incidência dos juros de mora.
+Dessa forma, o acórdão recorrido deve ser mantido pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado em mais 1%.
+Publique-se.
+EMENTA
