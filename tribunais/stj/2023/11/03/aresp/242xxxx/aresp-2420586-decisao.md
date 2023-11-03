@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE CARUARU contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO ORDINÁRIA.
+PISO NACIONAL DOS PROFESSORES INSTITUÍDO PELA LEI FEDERAL N.º 11.738/2008. CONTRATO TEMPORÁRIO. MUNICÍPIO DE CARUARU.
+POSSIBILIDADE. AUSÊNCIA DE DISTINÇÃO EM RELAÇÃO AOS SERVIDORES EFETIVOS. DIFERENÇA DEVIDA. IMPOSSIBILIDADE DE ENRIQUECIMENTO SEM CAUSA. MANUTENÇÃO DA SENTENÇA. RECURSO A QUE SE NEGA PROVIMENTO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 1º, § 1º, da Lei n. 11.738/2008, no que concerne à impossibilidade de aplicação do piso salarial nacional da educação básica do magistério público a professor temporário, uma vez que referida remuneração só pode ser destinada a cargos organizados em carreira, trazendo a seguinte argumentação:
+Pela leitura do dispositivo, o piso salarial nacional, disciplinado pela Lei 11.738/08, é previsto como vencimento inicial, exclusivamente para as  carreiras do magistério público da educação básica  (fl. 251).
+Trazendo estes conceitos à interpretação da legislação chegamos à conclusão de que o objetivo da norma era instituir um patamar mínimo salarial apenas para os cargos organizados em carreira, o que excluiria a sua aplicação a cargos de provimento em comissão, bem como à vínculos celetistas ou temporários, como é o caso dos autos
+(fl. 252).
+Restando evidenciado que o ente público municipal promulgou lei específica disciplinando os contratos temporários por excepcional interesse, por meio do qual se evidenciaram os direitos a que os prestadores de serviços fariam jus, e tendo em vista que esses contratados temporariamente não fazem parte dos quadros da carreira do magistério municipal, não há que se falar em aplicação do piso nacional aos seus respectivos vencimentos. Por estas razões merece reforma integral o Acórdão guerreado (fl. 253).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O fato de a Apelada ter sido admitida no serviço público através de contrato temporário por tempo determinado não afasta o direito a perceber seus vencimentos nos moldes instituídos pela Lei Federal n.º 11.738/2008, uma vez que o trabalho realizado em nada difere daquele realizados pelos professores que ocupam cargo efetivo na Administração Pública Estadual.
+ ..
+Muito embora a relação entre as partes tenha sido entabulada sem a observância da exigência de concurso público para o ingresso no serviço público, tal fato não autoriza o serviço sem a devida contraprestação remuneratória, sob pena de se agasalhar o enriquecimento ilícito e beneficiar a torpeza do Administrador Público (fl. 224, grifo meu ).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
