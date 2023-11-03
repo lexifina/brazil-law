@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo ESTADO DA PARAÍBA contra a decisão da Presidência do Superior Tribunal de Justiça de fls. 193/195.
+O recurso especial foi interposto, com fundamento no art. 105,  inciso III, alínea a,  da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado:
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE VENCIMENTOS DE MILITAR. ADICIONAL DE INSALUBRIDADE. PREJUDICIAL. PRESCRIÇÃO. REJEIÇÃO.
+- Sobre a prescrição A Súmula no 85 STJ assim dispõe sobre o assunto: " Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior a propositura da ação."
+MÉRITO. PAGAMENTO PELO VALOR NOMINAL. INCIDÊNCIA DA LEI COMPLEMENTAR N. o 50/2003. IMPOSSIBILIDADE. AUSÊNCIA DE EXPRESSA EXTENSÃO AOS MILITARES. CONGELAMENTO DO ADICIONAL APENAS A PARTIR DA MEDIDA PROVISÓRIA N. o 185/2012, DE 25/01/2012, CONVERTIDA NA LEI N. o 9.703/2012. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DA REMESSA E DO APELO.
+- Em relação ao Adicional de Insalubridade dos Militares do Estado da Paraíba, inicialmente não se aplicou a Lei Complementar 50/2003, por ausência de expressa extensão aos militares. Todavia, a partir da Medida provisória no 185/2012, de 25/01/2012, convertida na lei no 9.703/2012, houve a extensão aos militares. Havendo a partir daí o congelamento dos adicionais por eles percebidos, inteligência do art. 2º , § 2º , da Lei no. 9.703/2012 (fls. 110/121).
+Nas razões de seu recurso especial, a parte ora agravante sustenta violação do art. 1º do Decreto 20.910/1932, argumentando, em síntese, que a relação discutida nos autos é de fundo de direito, cujo prazo prescricional para a propositura da ação é de 5 (cinco) anos.
+A parte adversa apresentou contrarrazões (fls. 134/147).
+O recurso não foi admitido, razão por que foi interposto agravo em recurso especial.
+Às fls. 193/195, a Presidência não conheceu do agravo em recurso especial em razão da ausência de prequestionamento.
+Contra essa decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente alega que a prescrição atinge o próprio fundo de direito.
+Requer, ao final, o afastamento do óbice e a determinação do regular processamento do agravo em recurso especial, ou desde já o provimento do recurso.
+Conforme a certidão de fl. 205, não foi apresentada impugnação.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+A irresignação não merece prosperar.
+O entendimento jurisprudencial desta Corte firmou-se no sentido de que, nas causas em que se postula o pagamento de parcelas que se renovam mês a mês, não havendo negativa do direito reclamado pela Administração, como no caso, a prescrição de ação do direito atinge tão somente as prestações vencidas há mais de cinco anos da propositura da ação, por se tratar de relação jurídica de trato sucessivo, nos termos da Súmula 85/STJ.
+Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. ADICIONAL DE INSALUBRIDADE. AÇÃO ORDINÁRIA DE REVISÃO DE REMUNERAÇÃO. RELAÇÃO DE TRATO SUCESSIVO. INOCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. SÚMULA 85/STJ. O TRIBUNAL DE ORIGEM CONCLUIU QUE O ART. 2o. DA LEI COMPLEMENTAR ESTADUAL PARAIBANA NÃO ALCANÇA OS MILITARES. INEXISTÊNCIA DE ATO DE EFEITOS CONCRETOS. OMISSÃO DA ADMINISTRAÇÃO. ALTERAÇÃO DO JULGADO. SÚMULA 280/STF. AGRAVO INTERNO DO ESTADO DA PARAÍBA A QUE SE NEGA PROVIMENTO.
+1. A questão em análise cinge-se em aferir a aplicabilidade da Lei Complementar do Estado da Paraíba/PB 50/2003, em especial o seu art. 2o., em relação aos Militares, fato que ensejaria a modificação da forma de pagamento do adicional de insalubridade, e estabeleceria o marco inicial da contagem do prazo prescricional.
+2. No caso, a Corte local concluiu que a previsão contida no referido dispositivo legal não afeta os Militares, uma vez que integram uma categoria específica e que somente foram alcançados pela mudança na forma de pagamento do adicional de insalubridade após a edição da Medida Provisória 185/2012, de 25.1.2012, posteriormente convertida na Lei Estadual 9.703/2012.
+3. Nesse contexto, observa-se que o acolhimento da alegação da parte agravante de que a Lei Complementar do Estado da Paraíba/PB 50/2003 teria expressamente negado o direito pleiteado pelos Militares e, portanto, seria o marco inicial da contagem do prazo prescricional, demandaria a análise desse dispositivo legal local, o que, contudo, é vedado na via especial por força da incidência da Súmula 280/STF. Precedentes: AgRg no AREsp. 788.493/PB, Rel. Min. SÉRGIO KUKINA, DJe 9.11.2015; AgRg no AREsp. 650.719/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.4.2015.
+4. É firme a orientação desta Corte Superior de que não ocorre a prescrição do fundo de direito nas relações de trato sucessivo, em que a conduta omissiva se renova mês a mês, no caso de inexistir manifestação expressa da Administração negando o direito reclamado, estando prescritas apenas as prestações vencidas no quinquênio que precedeu à propositura da ação, nos termos da Súmula 85/STJ.
+5. Agravo Interno do ESTADO DA PARAÍBA a que se nega provimento. (AgInt no AgInt no AREsp n. 1.354.319/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 3/6/2019, DJe de 6/6/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. PRESCRIÇÃO. SÚMULA 85/STJ.
+1. Nos termos do art. 1º do Decreto 20.910/1932 e da Súmula 85/STJ, para que se dê início ao prazo prescricional, deve haver por parte da Administração a negativa do próprio direito pleiteado, do contrário estarão prescritas apenas as parcelas anteriores ao quinquênio que antecedeu o pedido.
+2. Agravo Interno não provido. (AgInt no REsp n. 1.755.021/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/2/2019, DJe de 11/3/2019.)
+Verifico, portanto, que a conclusão veiculada no acórdão está em harmonia com a orientação do Superior Tribunal de Justiça sobre o tema .
+Ante o exposto, reconsiderando a decisão de fls. 193/195, conheço do agravo para negar provimento ao recurso especial.
+Por fim, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo.
+Publique-se. Intimações necessárias.
+ EMENTA
