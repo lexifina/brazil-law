@@ -1,0 +1,16 @@
+DECISÃO
+DANIEL RODRIGUES DE CASTRO agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0287.19.004182-5/001).
+Consta nos autos que o réu foi condenado pela prática dos crimes previstos nos arts. 12, 14 e 16, parágrafo único, IV, da Lei n. 10.826/2003.
+A defesa pleiteou a nulidade da sentença em virtude da violação do princípio da identidade física do juiz e o reconhecimento de crime único.
+O reclamo foi inadmitido na origem com fulcro nos seguintes fundamentos: a) incidência da Súmula 7 do STJ quanto à ofensa ao princípio da identidade física do juiz; b) consonância do acórdão recorrido com a jurisprudência desta Corte Superior ("o princípio da identidade física do juiz não possui caráter absoluto, devendo, em sua aplicação, ser conjugado com outros princípios do ordenamento jurídico, como, por exemplo, o princípio do pas de nullité sans grief" - fl. 367); c) aplicação da Súmula n. 83 do STJ ("os artigos 12, 14 e 16, parágrafo único, inciso IV, do Estatuto do Desarmamento, não tutelam o mesmo bem jurídico, não se vislumbrando sequer a relação de crime-meio e crime fim entre tais condutas, o que seria indispensável para se cogitar a hipótese de crime único"- fl. 367), o que deu ensejo ao agravo de fls. 374-382.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 411-416).
+Decido.
+O agravo não comporta conhecimento, visto que a parte agravante deixou de combater especificamente todos os fundamentos do decisum recorrido.
+Com efeito, nada dispôs sobre a consonância do acórdão recorrido com a jurisprudência desta Corte Superior de que "o princípio da identidade física do juiz não possui caráter absoluto, devendo, em sua aplicação, ser conjugado com outros princípios do ordenamento jurídico, como, por exemplo, o princípio do pas de nullité sans grief" - fl. 367.
+Incide, assim, a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+Por fim, destaco que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe 30/11/2018, grifei).
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
