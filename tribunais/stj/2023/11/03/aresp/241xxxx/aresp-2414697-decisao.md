@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (e-STJ fls. 482/494) interposto contra decisão (e-STJ fls. 469/474) que inadmitiu recurso especial sob os seguintes fundamentos: (a) não caracterização de negativa de prestação jurisdicional e (b) incidência das Súmulas n. 7 e 211 do STJ.
+Foi apresentada contraminuta (e-STJ fls. 501/505).
+O acórdão recorrido está assim ementado (e-STJ fls. 360/363):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. FUNDO 157.
+PEDIDO PRINCIPAL DE RESTITUIÇÃO INTEGRAL DOS VALORES INVESTIDOS. CONFORME RESOLUÇÃO DO CONSELHO MONETÁRIO NACIONAL Nº 1023/85, OS FUNDOS 157 FORAM TRANSFORMADOS OU INCORPORADOS EM FUNDOS MÚTUOS DE INVESTIMENTO EM AÇÕES, ATUAIS FUNDOS DE INVESTIMENTO EM AÇÕES, NOS QUAIS O INVESTIDOR É DETENTOR DE UM DETERMINADO NÚMERO DE QUOTAS.
+COM EFEITO, INVESTIMENTOS DE RENDA VARIÁVEL, COMO É O CASO DAS APLICAÇÕES EM FUNDOS DE AÇÕES ESTÃO SUJEITOS ÀS VARIAÇÕES DE PREÇOS DAS AÇÕES QUE COMPÕEM A CARTEIRA DE INVESTIMENTOS DO FUNDO, ALÉM DE EXISTIREM DESPESAS, COMO TAXA DE ADMINISTRAÇÃO, SENDO CERTO QUE NÃO HÁ RELAÇÃO ENTRE A VARIAÇÃO DO VALOR DAS QUOTAS E A CORREÇÃO MONETÁRIA DO PERÍODO OU OUTROS INDICADORES.
+ASSIM, NÃO PROCEDE A PRETENSÃO DO AUTOR DE RESTITUIÇÃO INTEGRAL DO VALOR INVESTIDO, COM CORREÇÃO MONETÁRIA E JUROS, POIS NÃO SE TRATA DE INVESTIMENTO DE RENDA FIXA, EM QUE OS JUROS SÃO PREFIXADOS OU A REMUNERAÇÃO É ATRELADA A INDICADORES DE REFERÊNCIA.
+SALIENTA-SE QUE O INVESTIMENTO EM AÇÕES E BOLSA DE VALORES É INVESTIMENTO DE ALTO RISCO, NO QUAL O INVESTIDOR PODE PERDER TODO VALOR INVESTIDO NUMA ÚNICA APLICAÇÃO FEITA.
+ADEMAIS, EM TESE, NO RITO ESTRITO DA AÇÃO DE EXIGIR CONTAS, NÃO É POSSÍVEL AVALIAR SE HOUVE OU NÃO ADMINISTRAÇÃO TEMERÁRIA DO FUNDO. TAL QUESTÃO NÃO CABE NESTA AÇÃO. NO PONTO, RECURSO DESPROVIDO.
+AÇÃO DE EXIGIR CONTAS. SEGUNDA FASE. INVERSÃO DO ÔNUS DA PROVA. EM RELAÇÃO À INVERSÃO DO ÔNUS DA PROVA, NO CASO DOS AUTOS, EM QUE SE TRATA DE RELAÇÃO DE CONSUMO ENTRE INVESTIDOR E INSTITUIÇÃO FINANCEIRA, APLICA-SE O CÓDIGO DE DEFESA DO CONSUMIDOR, SOBRETUDO O ART. 3º, §2º, QUE INCLUIU EXPRESSAMENTE A ATIVIDADE BANCÁRIA NO CONCEITO DE SERVIÇO.
+QUANTO À PRESUNÇÃO DE VERACIDADE PRECONIZADA NO ART. 400 DO CPC, ENTENDO CABÍVEL, NO MOMENTO ADEQUADO E CASO NÃO APRESENTADA A DOCUMENTAÇÃO COM O VALOR INVESTIDO, NO PRAZO ESTABELECIDO, SUA APLICAÇÃO PELO JULGADOR DE ORIGEM, UMA VEZ QUE A NEGATIVA DE EXIBIÇÃO DOS DOCUMENTOS NECESSÁRIOS AO DESLINDE DO FEITO ACARRETARÁ A IMPOSSIBILIDADE DO AGRAVANTE APRESENTAR SUAS CONTAS, A TEOR DO PRECONIZADO NO § 2º DO ART. 551 DO CPC.
+ENTRETANTO, IMPRESCINDÍVEL O EXAME DA VEROSSIMILHANÇA DOS VALORES REFERIDOS PELA PARTE AUTORA COMO INVESTIDOS E DE UMA MÍNIMA COMPROVAÇÃO.
+NO CASO CONCRETO, DURANTE A TRAMITAÇÃO PROCESSUAL EM PRIMEIRA FASE, SOBREVEIO SENTENÇA DETERMINANDO A PRESTAÇÃO DE CONTAS REFERENTE AO FUNDO 157 (EVENTO 31, SENT1).
+EM PROSSEGUIMENTO, O BANCO APRESENTOU LAUDO RELATIVO À ADMINISTRAÇÃO DO FUNDO (EVENTO 49, PARECER2 E EVENTO 52, EXTR2), NO QUAL SE CONCLUIU QUE A PARTE AUTORA TERIA 97,57000 COTAS DO FUNDO DE INVESTIMENTO, NO VALOR DE R$ 293,71 EM 29/01/2021.
+A PARTE AUTORA, POR SUA VEZ, APRESENTOU IMPUGNAÇÃO (EVENTO 53, PET1), REQUERENDO A INVERSÃO DO ÔNUS DA PROVA, COM A APLICAÇÃO DA PRESUNÇÃO DE VERACIDADE DO ART. 400 DO CPC NO TOCANTE AO VALOR APONTANDO NA PETIÇÃO INICIAL COMO INVESTIDO (CR$ 169.415,25).
+INTIMADO A JUNTAR NOVA DOCUMENTAÇÃO, O BANCO DEMANDADO NÃO COLACIONOU AS AUTOS QUAISQUER NOVAS PROVAS.
+SOBREVEIO SENTENÇA QUE JULGOU BOAS AS CONTAS APRESENTADAS PELO BANCO DEMANDADO (EVENTO 31, SENT1).
+NO ENTANTO, NAS CONTAS APRESENTADAS E ACOLHIDAS COMO BOAS, O BANCO LIMITOU-SE A ACOSTAR PLANILHA, RELATIVA AO PERÍODO DE 31/10/2016 ATÉ 26/02/2021, INDICANDO O NÚMERO DE COTAS APENAS.
+COMO SE VÊ, AS CONTAS APRESENTADAS PELO RECORRIDO NÃO SATISFAZEM AS EXIGÊNCIAS LEGAIS, POIS NÃO ESPECIFICAM AS RECEITAS E EVOLUÇÃO DO INVESTIMENTO, SEQUER ESCLARECEM QUAIS AÇÕES COMPÕEM O FUNDO NEM AS QUOTAS DA PARTE AUTORA, SEQUER INDICAM OS EVENTUAIS RENDIMENTOS DAS AÇÕES, OU INEXISTÊNCIA DELES, NO PERÍODO (DIVIDENDOS E JUROS SOBRE CAPITAL PRÓPRIO), ALÉM DE ESTAREM DESACOMPANHADAS DA DOCUMENTAÇÃO COMPROBATÓRIA DOS RESPECTIVOS LANÇAMENTOS INDIVIDUALIZADOS (CPC, ART. 551).
+ASSIM, NÃO HAVENDO APRESENTAÇÃO ADEQUADA DAS CONTAS E DOS DOCUMENTOS COMPROBATÓRIOS PELA INSTITUIÇÃO FINANCEIRA, QUE SÃO DOCUMENTOS COMUNS ÀS PARTES, RESTARÁ A PARTE AUTORA IMPOSSIBILITADO DE APRESENTAR AS SUAS CONTAS, NA FORMA DETERMINADA PELO § 2º DO ART. 551 DO CPC.
+APLICA-SE, NA HIPÓTESE, PORTANTO, O DISPOSTO NO § 1º DO ART. 551 DO CPC, QUE ASSIM DISPÕE: "HAVENDO IMPUGNAÇÃO ESPECÍFICA E FUNDAMENTADA PELO AUTOR, O JUIZ ESTABELECERÁ PRAZO RAZOÁVEL PARA QUE O RÉU APRESENTE OS DOCUMENTOS JUSTIFICATIVOS DOS LANÇAMENTOS INDIVIDUALMENTE IMPUGNADOS."
+ADEMAIS, COMO OCORREU, EM CASO DE NÃO APRESENTAÇÃO DOS DOCUMENTOS, FICA O AUTOR INVIABILIZADO DE APRESENTAR SUAS CONTAS, NA FORMA DETERMINADA PELO § 2º DO ART. 551 DO CPC.
+LOGO, CABÍVEL A DESCONSTITUIÇÃO DA SENTENÇA, A FIM DE DETERMINAR AO APELADO A EXIBIÇÃO DOS EXTRATOS RELATIVOS AO INVESTIMENTO REALIZADO PELO AUTOR NO FUNDO DE AÇÕES ATÉ OS DIAS ATUAIS, COM A EVOLUÇÃO DA COTAÇÃO DAS AÇÕES E SEUS RENDIMENTOS, NO PRAZO DE 30 DIAS, SOB PENA DE APLICAÇÃO DA PRESUNÇÃO DO ART. 400 DO CPC.
+POR FIM, CABE MENCIONAR QUE NENHUMA DAS PARTES COMPROVOU O VALOR INICIAL INVESTIDO. LOGO, O VALOR APONTADO PELO AUTOR NA PETIÇÃO INICIAL COMO INVESTIDO NÃO PODERÁ SER UTILIZADO, DIANTE DA AUSÊNCIA TOTAL DE VEROSSIMILHANÇA. NO PONTO, RECURSO PARCIALMENTE PROVIDO.
+PEDIDO DE PROVA PERICIAL. INCABÍVEL A DETERMINAÇÃO DE PROVA PERICIAL NESTE MOMENTO PROCESSUAL, PODENDO SUA PERTINÊNCIA SER REAVALIADA POSTERIORMENTE, APÓS A APRESENTAÇÃO DAS CONTAS PELA PARTE APELANTE, CONSOANTE DISPÕE O ART. 550, § 6º, DO CPC.
+COM EFEITO, NO CASO, NÃO HÁ CONDIÇÕES DE SUA REALIZAÇÃO, PORQUE NENHUMA DAS PARTES TROUXE DOCUMENTOS PROVANDO O VALOR INICIAL INVESTIDO E NEM MESMO A RECEITA FEDERAL POSSUI TAIS DOCUMENTOS OU OS GUARDA. ASSIM, SEM DOCUMENTOS QUE PREVEJAM O VALOR INICIAL, A PERÍCIA RESTAINÓCUA E SEM FINALIDADE.
+COMO POSSIBILIDADE, PODERIA O AUTOR JUNTAR AOS AUTOS COMPROVANTE DE SEUS RENDIMENTOS À ÉPOCA, QUE PODERIA SER OBTIDO JUNTO AO INSS E, COM BASE NELE, PROVAR O VALOR DE IMPOSTO DE RENDA E A APLICAÇÃO NO FUNDO.
+OUTRA POSSIBILIDADE SERIA PARTIR DO VALOR MÍNIMO PARA APLICAÇÃO NO FUNDO 157 À ÉPOCA. NO PONTO, RECURSO DESPROVIDO.
+APÓS O VOTO DO RELATOR, DES. ALTAIR NO SENTIDO DE DAR PARCIAL PROVIMENTO AO RECURSO PARA DESCONSTITUIR A SENTENÇA, O DES. MARASCHIN LANÇOU DIVERGÊNCIA PARCIAL NO SENTIDO DE NEGAR PROVIMENTO À APELAÇÃO. O DES. CORSSAC ACOMPANHOU A DIVERGÊNCIA.
+EM PROSSEGUIMENTO PELA TÉCNICA DO ART. 942, CPC, VOTARAM OS DESEMBARGADORES CABRAL E CAIRO ACOMPANHANDO O RELATOR.
+RESULTADO: POR MAIORIA, RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO. SENTENÇA DESCONSTITUÍDA.
+(Negrito no original.)
+Os embargos declaratórios foram rejeitados (e-STJ fls. 399/406).
+O recurso especial (e-STJ fls. 414/428), fundamentado no art. 105, inc. III, alínea "a", da CF, apontou ofensa aos seguintes dispositivos legais, sob as respectivas teses:
+(i) art. 1.022, inc. I, do CPC, afirmando omissão do acórdão recorrido em relação ao exame dos arts. 884 do CC e 552 do CPC, e
+(ii) arts. 884 do CC, 552 do CPC e 1º e 7º, "caput", do Decreto-Lei n. 157/1967, sustentando a possibilidade de "restituição de valores de fundo de investimento, em segunda fase da ação de exigir contas, caso as contas não venham a ser prestadas de forma satisfatória, demonstrando como se deu a gestão e se esta foi correta " (e-STJ fl. 423).
+Foram oferecidas contrarrazões.
+É o relatório.
+Decido.
+(i) O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Confiram-se, no ponto, as conclusões da Corte local (e-STJ fls. 353/358):
+RESTITUIÇÃO INTEGRAL DOS VALORES INVESTIDOS
+A pretensão não merece ser acolhida.
+Com efeito, o Decreto-Lei nº 157/67 facultava aos contribuintes, nos exercícios entre 1967 e 1983, pagar o imposto devido em cada exercício com redução prevista na legislação, desde que oferecessem soma equivalente a instituições financeiras, que deveriam investir tais valores "de acordo com a diversificação a que estão sujeitos os Fundos do Investimento, devendo ser aplicados, exclusivamente, na compra de ações ou debêntures conversíveis em ações das empresas a que se refere o artigo 7º dêste Decreto-lei".1
+Conforme Resolução do Conselho Monetário Nacional nº 1023/85, os Fundos 157 foram transformados ou incorporados em Fundos Mútuos de Investimento em Ações, atuais fundos de investimento em ações, nos quais o investidor é detentor de um determinado número de cotas.
+O investimentos de renda variável, como é o caso das aplicações em fundos de ações, podem dar lucro ou prejuízo, estando sujeitos às variações de cotação das ações que compõem a carteira de investimentos do fundo, além de existirem despesas, a exemplo da taxa de administração, sendo certo que não há relação entre a variação do valor das quotas e a correção monetária do período ou outros indicadores.
+Assim, não procede a pretensão do autor de restituição integral do valor investido, com correção monetária e juros, pois não se trata de investimento de renda fixa, em que os juros são prefixados ou a remuneração é atrelada a indicadores de referência.
+(..)
+No entanto, nas contas apresentadas e acolhidas como boas, o banco limitou-se a acostar planilha, relativa ao período de 31/10/2016 até 26/02/2021, indicando o número de cotas apenas.
+Como se vê, as contas prestadas pelo recorrido não satisfazem as exigências legais, pois não especificam as receitas e evolução do investimento a contar da aplicação até os dias atuais, sequer esclarecem quais ações compõem o Fundo nem as quotas da parte autora, eventuais rendimentos das ações, ou inexistência deles, no período, além de estarem desacompanhadas da documentação comprobatória dos respectivos lançamentos individualizados (CPC, art. 551).
+(..)
+Logo, cabível a desconstituição da sentença, a fim de determinar ao apelado a exibição dos extratos relativos ao investimento realizado pelo autor no fundo de ações até os dias atuais, com a evolução da cotação das ações e seus rendimentos, no prazo de 30 dias.
+Igualmente, cabível a eventual aplicação pelo julgador de origem da presunção do art. 400 do CPC, a qual deve ser avaliada no momento oportuno, isso desde que não apresentada a documentação pertinente, em não havendo declaração alguma a respeito do motivo da não exibição, ou ainda se a recusa for havida por ilegítima, sendo que a aplicação de tal presunção quanto aos valores apontados pela parte autora como investidos resta condicionada, ainda, à existência de prova mínima a esse respeito e da verossimilhança da alegação, porquanto a exibição de documentos na ação de exigir contas é ínsita às próprias contas pedidas pela parte, já que são os documentos que devem justificar a evolução dos valores investidos, na forma do art. 551, § 1º, do CPC.
+(..)
+Por fim, cabe mencionar que nenhuma das partes comprovou o valor inicial investido. Logo, o valor apontado pelo autor na petição inicial como investido não poderá ser utilizado, diante da ausência total de verossimilhança.
+(Negritei.)
+Assim, não incorreu em omissão.
+(ii) A parte recorrente entende que, "se a parte recorrida, que tem a obrigação de prestar as contas, demonstrando como é que procedeu na administração do fundo ao qual as cotas da parte recorrente estavam vinculadas, não assim proceder, a toda evidência, tem que restituir o valor que lhe foi alcançado para administração, constituindo saldo de forma diversa e com a devida correção" (e-STJ fl. 422). Argumenta ainda que "investiu os valores e estes foram transformados em cotas. Sabe que a rentabilidade do fundo é variável e que não se trata de investimento em renda fixa. A questão, novamente, é se esta administração - e é o que está acontecendo até agora no processo - não for demonstrada. O que se faz  Se deixa por isso mesmo  É evidente que não, retorna-se ao status quo com o reembolso do valor investido devidamente corrigido" (e-STJ fl. 423).
+Observa-se, portanto, que as razões recursais impugnam apenas um recorte do que foi decidido pelo acórdão recorrido, defendendo o reembolso do valor que teria investido no Fundo 157, sem impugnar a conclusão do acórdão recorrido de que "o valor apontado pelo autor na petição inicial como investido não poderá ser utilizado, diante da ausência total de verossimilhança" (e-STJ fl. 358).
+Conclui-se que o recurso encontra óbice na Súmula n. 283 do STF, aplicada por analogia.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Desconstituída a sentença pelo acórdão recorrido, não há falar em majoração de honorários advocatícios.
+Publique-se e intimem-se.
+ EMENTA
