@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por MÁRIO RODRIGUES GOMES, fundamentado na alínea "a" do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 1ª Região assim ementado:
+"PROCESSUAL CIVIL. AÇÃO MONITÓRIA. CONTRATO PARTICULAR DE ABERTURA DE CRÉDITO PARA FINANCIAMENTO DE MATERIAIS DE CONSTRUÇÃO (CONSTRUCARD). CÓDIGO DE DEFESA DO CONSUMIDOR. JUROS REMUNERATÓRIOS. NÃO LIMITAÇÃO. CAPITALIZAÇÃO MENSAL DE JUROS. CLÁUSULA EXPRESSA. ABUSIVIDADE NÃO DEMONSTRADA. APELAÇÃO DESPROVIDA.
+1. A aplicabilidade do Código de Defesa do Consumidor (Lei 8.078/90) aos contratos de financiamento celebrados com instituições financeiras é matéria já pacificada na jurisprudência do STJ (Súmula 297). Não obstante, não há falar em afastamento das regras contratuais, no caso, dada a ausência de fundamento jurídico para impor a modificação substancial de tais cláusulas, vez que o contrato constitui ato jurídico perfeito (CF, artigo 5º, XXXVI), salvo demonstração inequívoca de desequilíbrio contratual.
+2. No período de adimplemento, a dívida proveniente de contrato bancário de abertura de crédito rotativo deve sofrer a incidência dos juros remuneratórios nele previstos, que não estão limitados à taxa de 12% ao ano, nem mesmo no período anterior à EC 40/2003, pois não era auto-aplicável o revogado § 3º, do art. 192, da CF (Súmula 648 do STF). Entendimento conforme o acórdão da 2ª Seção do STJ no Recurso Especial 1.061.530-RS, relatora Ministra Nancy Andrighi, julgado segundo o rito do art. 543-C, do CPC. Precedentes do STJ e deste Tribunal.
+3. Esta Corte já firmou o entendimento de que, nos contratos firmados por instituições financeiras, posteriormente à edição da MP 1.963-17/2000, de 31/3/2000, reeditada sob o nº 2.170-36, é legítima a estipulação de capitalização de juros com periodicidade inferior a um ano, desde que expressamente pactuada. (STJ: REsp 697379/RS, Relator MINISTRO CARLOS ALBERTO MENEZES DIREITO, Terceira Turma, DJ de 21.05.2007; AgRg no REsp 832162/RS, Relator MINISTRO JORGE SCARTEZZINI, Quarta Turma, DJ de 07/08/2006 e TRF: (AC n. 0031595-85.2010.4.01.3400/DF - Relator Desembargador Federal KASSIO NUNES MARQUES - SEXTA TURMA6ª Turma - e-DJF1 de 28.09.2015; (AC 0039436-72.2012.4.01.3300 / BA, Rel. DESEMBARGADOR FEDERAL DANIEL PAES RIBEIRO, SEXTA TURMA, e-DJF1 de 20/09/2016). No presente caso, estando expressamente prevista a capitalização mensal no contrato, que fora firmado após a edição da MP 2.170-36, não há impedimento legal à capitalização mensal de juros e nem irregularidade por parte da CEF na cobrança do débito.
+4. Diante da previsão contratual de cláusula de correção monetária de acordo com a aplicação da TR deve ser mantida a utilização da variação do referido índice para atualização do saldo devedor. (STF, Segunda Turma, DJ de 4/8/95, pg. 5.272, rel. Min. CARLOS VELLOSO).
+5 Apelação desprovida" (fl. 471, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 229/238, e-STJ).
+Nas razões do especial (fls. 245/250, e-STJ), o recorrente apontou negativa de vigência do art. 1.022, II, do Código de Processo Civil.
+Sustentou, em síntese, a nulidade do acórdão por não sanar a omissão apontada nos aclaratórios, especificamente quanto "(..) à nulidade da Cláusula nº17 do contrato original e sobre a amortização negativa do saldo devedor" (fl. 249, e-STJ).
+No ponto, ressalta que a referida cláusula
+"(..) trata da fixação de multa contratual de 2% caso necessite a CEF realizar qualquer procedimento judicial ou extrajudicial para cobrança de seu crédito e fixa em 20% sobre o valor da dívida as despesas judiciais e honorários advocatícios.
+20. Conforme alegado na apelação, é clara a abusividade, pois somente cabe ao juiz a fixação dos honorários advocatícios. Além de que há bis in idem em prever a aplicação de multa neste sentido, aplicando multa sobre a penalidade em caso de inadimplemento.
+21. Em referência a prefixação de honorários advocatícios e de multa convencional sobre o valor do débito (cláusula 17ª do contrato), nos termos da jurisprudência do STJ
+"A competência para a fixação de honorários advocatícios é privativa do magistrado, constituindo-se em cláusula abusiva a que prevê tal providência por parte das instituições financeiras" (RESP nº 537652, 4ªTurma, Rel. Min. João Otávio de Noronha, unânime, DJ 21/09/2009).
+22. Quanto ao segundo ponto, questionou-se sobre a amortização negativa, pois as parcelas do financiamento que não consegum liquidar completamente os juros remuneratórios previstos e, assim, o valor remanescente da parcela de juros passam a integrar o saldo devedor, sobre o qual incidirão novamente juros gerando outra forma de anatocismo" (fl. 249, e-STJ).
+O recurso não foi admitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+A alegação de negativa de prestação jurisdicional merece prosperar.
+De fato, verifica-se que, não obstante a oposição de declaratórios, a Corte local permaneceu silente quanto à nulidade da cláusula nº 17 do contrato original e à amortização negativa do saldo devedor.
+O art. 1.022, parágrafo único, II, do CPC, remetendo-se ao art. 489, § 1º, IV, determina ser omissa a decisão que "(..) não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado a alegação de nulidade da cláusula que fixa multa contratual de 2% (dois por cento) em caso de procedimento judicial ou extrajudicial para cobrança do crédito e de 20% (vinte por cento) de honorários advocatícios sobre o valor da dívida, além da amortização negativa, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do CPC, a fim de anular o acórdão recorrido para suprir a omissão existente.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. REGIME DE CUSTEIO. DIVISÃO DE CATEGORIAS. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADAS. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+(..)
+2. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal de origem não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a contrariedade ao art. 1.022 do NCPC.
+3. No caso, foi constatado que houve prestação jurisdicional incompleta no que concerne a legalidade da mudança da forma de contribuição para o novo modelo por faixa-etária e a inexistência de discriminação ao ex-empregado aposentado, por se tratar de plano único.
+4. Por ora, apesar da manifesta inadmissibilidade deste recurso, e da anterior advertência em relação à aplicação do NCPC, deixo de aplicar a multa prevista no art. 1.021, § 4º, do NCPC.
+5. Agravo interno não provido."
+(AgInt nos EDcl no AgInt no REsp 1.728.492/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/9/2019, DJe 13/9/2019).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO.
+NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 1.022 do CPC/2015, a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+3. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração."
+(REsp 1.642.708/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 17/4/2017).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e determinar o retorno dos autos ao Tribunal de origem para que seja apreciada a matéria suscitada nos declaratórios de fls. 215/216 (e-STJ), como entender de d ireito, prejudicada a análise das demais questões.
+Publique-se.
+Intimem-se.
+EMENTA
