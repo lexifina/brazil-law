@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 288):
+Apelação Cível. Ação de Resilição Contratual. Irresignação das apelantes quanto ao índice de correção monetária que deve ser aplicado sobre os valores devidos.
+Correção pelo IGP-M, consoante contratado. Pedido de condenação da apelada ao pagamento dos aluguéis devidos pela fruição do bem. Não cabimento. Ausência de prévia notificação da autora. Exigência Legal. Precedente do STJ. Manutenção da sentença a quo. Recurso conhecido e desprovido. À unanimidade.
+Sustenta a parte agravante que é flagrante a divergência do acórdão recorrido perante o entendimento do Tribunal de Justiça de Minas Gerais, razão pela qual é imperioso que o presente recurso especial seja provido para o fim de reconhecer que, uma vez decretada a rescisão do contrato de promessa de compra e venda de imóvel, a reintegração de posse em favor do promitente-vendedor é decorrência lógica. Da mesma forma, para a condenação do promitente-comprador inadimplente ao pagamento de indenização pela fruição do imóvel, basta tão somente o reconhecimento de que o contrato se rescindiu por culpa do mesmo.
+Aduz que acórdão recorrido entendeu que, apesar de ser declarada judicialmente a rescisão da promessa de compra e venda firmada entre as partes, por culpa do promitente-comprador, não deveria ser deferido o pedido reconvencional de reintegração de posse do imóvel em favor da promitente-vendedora. Da mesma forma, não poderia ser deferido o pedido reconvencional de pagamento de indenização pela fruição do bem, uma vez que não teria sido o promitente comprador notificado para purgar a mora.
+Assim posta a questão, passo a decidir.
+O Tribunal de origem ao apreciar o feito entendeu às fls. 290-291, grifei :
+No tocante à correção monetária que deve ser aplicada sobre os valores devidos pelas requeridas à autora, a título de restituição do montante pago, entendo que não merecer prosperar o pedido de aplicação do INPC, ao revés do IGP-M, consoante fixado pelo magistrado a quo.
+Com efeito, verifica-se da observância da Cláusula 05.4 do instrumento particular de promessa de compra e venda colacionado às fls. 22/56 que os reajustes nas parcelas contratuais vincendas deveriam obedecer ao Índice Geral de Preços Médios (IPG-M.). Dessa maneira, tal índice deve também ser aplicado quando se tratar de restituição das parcelas pagas devidas à compradora, em respeito ao que foi livremente contratado pelas partes, razão pela qual deve ser mantida a sentença nesse ponto.
+Seguem as recorrentes sustentando a necessidade de condenação da parte acionante ao pagamento de alugueres, na medida que essa usufrui do imóvel alvo de resilição contratual desde março de 2017, o que entendo não merecer acolhimento.
+ ..
+Assim, levando em consideração que as demandadas não acostaram aos autos nenhum documento apto a demonstrar a prévia notificação da autora, imperiosa improcedência do pedido reconvencional.
+Por todo o exposto, conheço o recurso para lhe negar provimento, mantendo inalterada a sentença de origem, opornuidade em que majoro, nos termos do parágrafo 11 do art. 85 do NCPC, os honorários advocatícios para 12% (doze por cento) do valor da condenação.
+Com efeito, observo que para comprovação da similitude fática do dissídio seria necessário o reexame do acervo contratual e fático dos autos.
+Dessa forma, não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso se diz porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do art. 105, III, da Constituição Federal .
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
