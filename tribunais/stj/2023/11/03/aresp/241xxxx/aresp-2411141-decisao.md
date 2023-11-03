@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 206, § 5º, inciso I, do Código Civil e 1º do Decreto nº 20.910/32, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 555):
+Embargos de Declaração em Apelação Cível. Direito do Consumidor. Fornecimento de energia elétrica. Ação de cobrança proposta pela concessionária em face de Cemeru - Centro Médico Rural Ltda. Apelo interposto por Amesc - Associação Médica Espírita Cristã, parte estranha aos autos. Recorrente que instada a se manifestar sobre sua legitimidade recursal em segundo grau protocolou a petição, equivocadamente, na 1ª instância. Ausência de regularização tempestiva. Não conhecimento do recurso em razão da ilegitimidade recursal. Recurso desprovido.
+Sustenta a parte agravante que, em se tratando de supostas dívidas de 2008 a 2013 (fls. 05/06), certo é que todo e qualquer crédito anterior a 5/6/2013 encontra-se prescrito.
+Aduz que que deixou de comprovar sua legitimidade processual, quando instado a se manifestar, porque por um equívoco a petição foi protocolada na 1ª instância, ensejando o não conhecimento do recurso de apelação. Aduz que a prescrição da cobrança das faturas de energia elétrica ocorre em cinco anos, e não em dez anos, conforme decidido na sentença.
+Assim posta a questão, passo a decidir.
+O Tribunal de justiça ao apreciar o feito entendeu:
+Adentrando aos fatos, a petição cujo protocolo consta à fl. 407 não foi protocolada na 2ª instância, tendo sido direcionado à serventia de 1ª instância, como se constata da informação da secretaria da 16ª CC (fl. 409).
+Importante anotar que, em que pese a aludida petição ter sido interposta tempestivamente, no dia 13/01/22, ou seja, durante o recesso, como já dito, foi equivocadamente endereçado ao juízo de primeiro grau, não tendo sido regularizada tal situação tempestivamente, pois não há notícia de que tal peça tenha sido posteriormente protocolada junto à segunda instância.
+Nesse contexto, não há como alcançar conclusão diversa daquela alcançada na decisão combatida a ensejar, consequentemente, o não conhecimento do recurso em razão da ilegitimidade recursal.
+O recurso especial padece de deficiência de fundamentação, pois, a parte não impugnou o fundamento do Tribunal de origem que, ao julgar a demanda, entendeu ser inviável a apreciação do pleito , uma vez que a petição de apelação teria sido direcionada ao juízo de 1º grau, e instada a se manifestar, a ora agravante não regularizou a situação tempestivamente.
+Nota-se que tal argumento, por si só, é apto para manter a decisão combatida, o que permite aplicar à espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo, o que torna a fundamentação do recurso deficiente.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
