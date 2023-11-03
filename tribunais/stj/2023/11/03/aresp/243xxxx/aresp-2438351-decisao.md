@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por EBF REVESTIMENTOS METALICOS LTDA - EM RECUPERACAO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+RECUPERAÇÃO JUDICIAL HABILITAÇÃO DE CRÉDITO TRABALHISTA - VALORES REFERENTES AO FGTS  DIREITO SOCIAL PERTENCENTE AO TRABALHADOR, CONFORME PRECONIZA O ART. 7O, III, DA CONSTITUIÇÃO FEDERAL - VERBA QUE OSTENTA NATUREZA TRABALHISTA E, PORTANTO, QUE PERTENCE AO TRABALHADOR  PRECEDENTES DO STJ E DESTA CORTE  POSSIBILIDADE DE SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL  DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 12 e 15 da Lei n. 8.036/1990; 2º da Lei n. 8.844/1994, no que concerne à dedução dos valores relativos ao FGTS, eis que não se sujeitam aos efeitos da recuperação, devendo ser depositados em conta vinculada e não diretamente em favor do empregado , trazendo a seguinte argumentação:
+O v. acórdão recorrido negou provimento ao pedido de dedução das verbas de FGTS, mantendo-as embutidas no crédito da Recorrida.
+Ocorre que o v. acórdão recorrido não aplicou adequadamente o Direito à espécie, vez que os arts. 12 e 15, da Lei nº 8.036/1990, preconizam que as verbas devidas a título de FGTS, por terem natureza tributária, devem ser depositadas em conta vinculada
+ ..
+Outrossim, justamente porque o FGTS deve ser pago em conta vinculada é que o art. 2º, da Lei nº 8.844/1994 prescreveu que a respectiva cobrança deve ser realizada pela Procuradoria Geral da Fazenda Nacional ou pela Caixa Econômica Federal (fls. 365-366).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
