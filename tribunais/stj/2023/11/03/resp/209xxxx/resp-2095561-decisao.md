@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fls. 165/166):
+APELAÇÕES CÍVEIS. CONTRATO DE CARTÃO DE CRÉDITO. AÇÃO REVISIONAL. BANCO CSF S/A.
+1. PRELIMINAR. DECISÃO ULTRA PETITA.
+A prestação jurisdicional está adstrita aos limites propostos pelas partes, sendo vedado conhecer de questões não suscitadas a cujo respeito à lei exige iniciativa da parte (CPC, artigos 141, 490 e 492). Necessário o afastamento do excesso, reduzindo-se o conteúdo material da sentença. Preliminar recursal acolhida. Prejudicado o recurso do réu em relação aos tópicos.
+2. JUROS REMUNERATÓRIOS.
+O Superior Tribunal de justiça, no julgamento do REsp nº 1.061.530/RS, submetido ao regime dos recursos repetitivos, sedimentou entendimento de que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios ao patamar de 12% ao ano, sendo cabível a revisão da taxa contratada apenas em situações excepcionais, em que evidenciada a abusividade do encargo, utilizando-se a taxa média de mercado divulgada pelo Banco Central como parâmetro, levando-se em consideração a data da contratação e a natureza do crédito concedido.
+DESCARACTERIZAÇÃO DA MORA.
+Consoante entendimento consolidado no Resp nº 1.061.530/RS, submetido ao regime dos recursos repetitivos, o afastamento da mora ocorre apenas quando há cobrança de encargos abusivos durante o período da normalidade contratual. É a hipótese dos autos em que reconhecida a abusividade na cobrança dos juros remuneratórios e da capitalização, motivo pelo qual resta descaracterizada a mora.
+Mantida a sentença e, desprovido o apelo do réu.
+COMPENSAÇÃO E/OU REPETIÇÃO DO INDÉBITO.
+Segundo entendimento pacífico no colendo STJ, que culminou com a edição da Súmula n. 322, é cabível a compensação e/ou repetição simples do indébito, independentemente da prova do erro. Assim, tendo sido reconhecida a abusividade em alguns encargos contratados, é admitida a compensação e/ou repetição simples dos valores pagos a maior, e não em dobro, que exige a alegação e comprovação de má-fé.
+Portanto, deve ser mantida a sentença, que determinou a compensação e/ou a repetição do indébito, na forma simples. Mantida sentença, no ponto.
+ACOLHERAM A PRELIMINAR RECURSAL PARA DESCONSTITUIR, EM PARTE, A SENTENÇA NO QUE EXCEDEU O PEDIDO INICIAL E DERAM PARCIAL PROVIMENTO AO APELO DO RÉU.
+UNÂNIME.
+Opostos embargos de declaração, foram rejeitados, conforme se verifica da ementa abaixo transcrita (e-STJ, fl. 201):
+EMBARGOS DE DECLARAÇÃO. NEGÓCIOS JURIDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE CARTÃO DE CRÉDITO. BANCO CSF S/A. INEXISTÊNCIA DAS HIPÓTESES DO ART 1.022 DO CPC. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO NÃO VERIFICADA.
+1. Os embargos de declaração têm por finalidade sanar eventuais obscuridades, omissões ou contradições existentes no acórdão (CPC, art. 1022), não servindo à rediscussão da matéria julgada no recurso.
+2. Caso em que não há omissão em relação ao de majoração dos honorários advocatícios fixados na origem.
+3. O valor arbitrado na sentença recorrida, está adequado ao caso concreto, tendo em vista a simplicidade da questão posta em causa (ação revisional), e dentro dos parâmetros estabelecidos no art. 85, § 2º do CPC.
+4. Diante da inexistência de quaisquer das hipóteses previstas no artigo 1.022 do CPC, descabe o acolhimento dos embargos de declaração.
+5. A via estreita dos embargos de declaração não se presta para a reforma do julgado.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS. UNÂNIME
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 85, § 2º, do Código de Processo Civil; bem como divergência jurisprudencial.
+Sustenta que os honorários sucumbenciais deve corresponder a um percentual entre 10% e 20% sobre o valor atualizado da causa, não sendo possível a sua fixação por equidade.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Trata-se na origem de ação revisional de contrato de cartão de crédito ajuizada por Jorge Luiz Duarte contra Carrefour Comércio e Indústria Ltda, em que pretende a declaração de nulidade das cláusulas contratuais que reputa ilegais e abusivas.
+O magistrado julgou parcialmente procedente o pedido da parte autora para determinar que incidam na relação contratual juros remuneratórios de 12% ao ano; multa moratória de 2% e correção monetária pelo índice do IGP-M. Diante do decaimento mínimo do autor, condenou o réu ao pagamento das custas, despesas processuais e honorários advocatícios da parte adversa, fixados em R$ 1.500,00 (mil e quinhentos reais), nos termos do art. 85, § 8, do Código de Processo Civil, tendo em vista o valor atribuído à causa, bem como pela matéria dispensar dilação probatória.
+O Tribunal de origem, ao analisar as apelações do autor e do réu, acolheu em parte o recurso da parte autora, para desconstituir a sentença no ponto em que excedeu o pedido inicial em relação a capitalização de juros, comissão de permanência e taxa e tarifas administrativas, bem como deu parcial provimento ao apelo do réu, para limitar os juros remuneratórios do contrato de cartão de crédito rotativo à taxa média de mercado divulgada pelo BACEN, para a mesma modalidade contratual, e em conformidade com a data de cada contratação, nos termos da fundamentação.
+Consignou ainda que, diante da sucumbência mínima da parte autora, manteve a condenação do réu ao pagamento das despesas processuais e honorários advocatícios, nos moldes fixados na origem, e em grau de recurso, fixou honorários advocatícios em favor da parte autora e da parte ré em R$ 800,00 (oitocentos reais), atentando ao trabalho desenvolvido pelos causídicos e a complexidade da causa, observadas, nesta estipulação as regras contidas no artigo 85, §§ 2º e 11, do CPC.
+A parte recorrente opôs embargos de declaração, alegando omissão no julgado no tocante à necessidade de manifestação acerca da majoração dos honorários de sucumbência, os quais devem ser arbitrados em um percentual entre 10% a 20% sobre a condenação ou sobre o valor da causa.
+A Corte local, ao julgar os embargos, assim esclareceu (e-STJ, fls. 204/206):
+A embargante alega omissão no julgado, em relação a majoração dos honorários de sucumbência fixados na origem entre 10% e 20% do valor atualizado da causa.
+Em relação aos honorários advocatícios, necessário registrar que tal verba deve ser fixada a fim de remunerar os procuradores de forma digna, uma vez que desempenham função essencial à justiça (CF, artigo 133).
+Consoante os ditames do artigo 85, §2º , do CPC, para o arbitramento da verba honorária, devem ser observados o grau de zelo profissional; o lugar de prestação do serviço; a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Além disso, no caput do artigo supracitado consta como parâmetro para a fixação dos honorários advocatícios, o mínimo de 10% e o máximo de 20% sobre o valor da condenação, para as hipóteses em que existe sentença de eficácia condenatória.
+No caso, não houve omissão no acórdão combatido, em relação a questão da majoração dos honorários advocatícios fixados na origem.
+O magistrado singular na sentença de origem (fl. 96) condenou a instituição financeira ao pagamento das custas e honorários advocatícios, fixando o valor de R$ 1.500,00 (um mil e quinhentos reais), observando o valor atualizado da causa, conforme dispositivo:
+Diante do exposto, JULGO PARCIALMENTE PROCEDENTE o pedido proposto por JORGE LUIZ DUARTE contra CARREFOUR COMÉRCIO E INDÚSTRIA LTDA., com base no artigo 487, I, do Código de Processo Civil, para DETERMINAR que incidam na relação contratual entre as partes exclusivamente:
+- juros remuneratórios de 12% ao ano;
+- multa moratória de 2% - correção monetária pelo índice do IGP-M.
+Diante do decaimento mínimo do autor, CONDENO apenas o réu no pagamento das custas, despesas processuais e honorários advocatícios da parte adversa, que arbitro em R$ 1.500,00 (mil e quinhentos reais), nos termos do art. 85, § 8 2 , do Código de Processo Civil, tendo em vista o valor atribuído à causa, bem como pela matéria dispensar dilação probatória.
+Intimem- se. Registre- se. Publique- se. (Grifei).
+Verifico que na peça inicial na fl. 04 dos autos, a parte autora atribuiu o valor da causa R$ 8.645,00 (oito mil, seiscentos e quarenta e cinco reais), sendo que o magistrado observou a atualização do valor da causa para então fixar o valor dos honorários advocatícios (R$ 1.500,00), inclusive em percentual superior a 16% (dezesseis por cento), porquanto dentro dos parâmetros estabelecido no art. 85, §2P do CPC.
+Igualmente, em relação ao valor arbitrado na sentença recorrida (R$ 1.500,00), reputo adequado ao caso concreto, tendo em vista a simplicidade da questão posta em causa (ação revisional).
+Diante da consideração supra, em relação a pretensão de majoração dos honorários advocatícios, não prospera, devendo ser mantida a decisão do magistrado de primeiro grau que observou as diretrizes estabelecidas no art. 85, do CPC.
+A matéria apresentada no recurso especial cinge-se apenas à fixação dos honorários advocatícios de sucumbência.
+Acerca do tema da fixação da verba honorária por equidade, a jurisprudência desta Corte Superior consolidou-se no sentido de que o CPC/2015 estabeleceu ordem objetiva de preferência de critérios para fixação da base de cálculo dos honorários, bem como "que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa" (REsp 1746072/PR, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe 29/3/2019).
+No mesmo sentido, a Corte Especial ratificou esse entendimento fixando as seguintes teses jurídicas firmadas em sede de recurso repetitivo:
+I) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa;
+II) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+(REsp 1.906.618/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 16/3/2022, DJe de 31/5/2022).
+No caso concreto, não estão presentes os requisitos do § 8º do art. 85 do CPC/2015, uma vez que não se trata de proveito econômico irrisório, tampouco valor da causa muito baixo, devendo ser observados , portanto, os percentuais previstos no § 2º do art. 85 do CPC. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. PREVALÊNCIA. ERRO MATERIAL CONSTATADO. PROVIMENTO PARCIAL DO AGRAVO.
+1. Na origem, foi acolhida a exceção de pré-executividade oposta pela parte ora agravada, por ilegitimidade passiva.
+2. A Corte Especial, em julgamento de recurso repetitivo (Tema n. 1.076), confirmou o entendimento firmado pela Segunda Seção do STJ no sentido de que o arbitramento por equidade dos honorários advocatícios só é possível nas hipóteses estritamente previstas no § 8º do art. 85 do CPC/2015.
+3. Os honorários devem ser estabelecidos, em regra, com fundamento no art. 85, § 2º, do CPC/2015, isto é, nos limites percentuais nele previstos sobre o proveito econômico obtido, ou, na impossibilidade de identificá-lo, sobre o valor atualizado da causa, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito.
+4. No caso dos autos, considerando o acolhimento da exceção de pré-executividade e o entendimento jurisprudencial apontado, o proveito econômico obtido pelo executado corresponde ao valor da dívida executada, devendo ser essa a base de cálculo dos honorários advocatícios de sucumbência,.
+5. Constatado erro material no acórdão recorrido, o recurso deve ser provido para sanar o referido vício.
+6. Agravo interno a que se dá provimento parcial.
+(AgInt nos EDcl no AgInt nos EDcl no REsp n. 1.756.084/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO NOBRE DO EXCIPIENTE. INSURGÊNCIA DO EXCEPTO.
+1. O CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+1.1. No caso em tela, a Corte de origem divergiu a orientação firmada neste Tribunal Superior ao fixar os honorários de sucumbência por equidade, sendo devida a reforma do aresto estadual para estabelecer a verba honorária em 10 (dez por cento) do valor da execução.
+2. Agravo interno desprovido.
+(AgInt no REsp n. 1.861.108/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 11/5/2020, DJe de 19/5/2020.)
+Assim, considerando que a conclusão adotada pelo acórdão recorrido está em dissonância com o entendimento firmado nesta Corte, deve ser alterada a base de cálculo dos honorários advocatícios arbitrados em favor do recorrente.
+Em face do exposto, dou provimento ao recurso especial para fixar os honorários de sucumbência em 10% (dez por cento) sobre o valor do proveito econômico obtido pelo recorrente .
+Intimem-se.
+EMENTA
