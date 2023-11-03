@@ -1,0 +1,8 @@
+DECISÃO
+O paciente, suspeito de homicídio triplamente qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de origem, que, em recurso do Ministério Público, anulou a sua absolvição pelo Conselho de Sentença e determinou a realização de novo julgamento pelo Tribunal do Júri.
+A defesa assinala que a decisão dos jurados não é manifestamente contrária à prova dos autos, pois existem testemunhos favoráveis à tese de negativa de autoria, dando conta que o réu, no dia e no horário do crime, estava em outra cidade, onde reside. Nesse contexto, a afirmação do Tribunal de Justiça, de que as testemunhas presenciais do fato reconheceram o acusado em mais de uma oportunidade, não prospera. Apenas prevaleceu uma das versões, colidentes, sopesadas pelos jurados.
+Não identifiquei, nos autos, a juntada de cópia do acórdão estadual inquinado de coator, vício que impede o exame do writ. O impetrante junta quase duas mil cópias, quando era pertinente a identificação da pronúncia, da ata com os registros da quesitação e dos testemunhos que, alegadamente, foram acolhidos pelos jurados, da sentença absolutória e do acórdão recorrido.
+Deveras, é "ônus do impetrante instruir o habeas corpus requerido a esta Corte com cópia do ato coator, além da prova pré-constituída da aventada ilegalidade ou do abuso de poder. A deficiente instrução do writ impede o seu conhecimento" (EDcl no HC n. 783.484/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 6ª T., DJe 17/2/2023).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
