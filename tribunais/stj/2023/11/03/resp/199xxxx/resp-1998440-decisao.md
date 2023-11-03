@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por ANA PAULA NOGUEIRA ALGARVES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 367):
+"APELAÇÃO. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. Entrega das chaves além do prazo estabelecido contratualmente, e após prazo de tolerância de 180 dias. PRAZO DE TOLERÂNCIA DOBRADO. Jurisprudência deste E. Tribunal estabelece como abusiva a imposição de prazo de tolerância superior a 180 dias (Súmula 160). Abusividade afastada. LUCROS CESSANTES. Cabimento. Responsabilidade do construtor. Condenação em 0,5% do valor de compra do imóvel. Inteligência dos artigos 395 e 402 do CC. Súmula 162 do TJSP. Sentença mantida. HONORÁRIOS ADVOCATÍCIOS FIXADOS POR EQUIDADE. Critérios estabelecidos no art. 85, §8º, do CPC/15. O advogado deve ser remunerado de forma condigna. Sem Imposição de honorários recursais, porque a apelada não apresentou contrarrazões. Inteligência do art. 85, §11 do CPC/15. RECURSO NÃO PROVIDO. "
+Rejeitados os dois embargos de declaração opostos.
+No recurso especial, alega que o acórdão contrariou as disposições contidas no artigo 85, § 11 do NCPC, sob a alegação de que a majoração dos honorários é cabível ainda que o recorrido não tenha apresentado contrarrazões de apelação.
+Aponta divergência jurisprudencial com aresto do Superior Tribunal de Justiça.
+Não foram oferecidas contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 576-578), o que ensejou a interposição do presente agravo (fls. 587-578).
+Apresentada contraminuta do agravo (fls. 603-609).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão, ao negar a majoração da verba honorária, o fez nos seguintes termos (fls. 371-372):
+A apelante se volta contra a fixação dos honorários por equidade.
+Na vigência do Código de Processo Civil, é permitida a fixação equitativa da verba honorária, quando a condenação importar em remuneração ínfima do causídico. Isto porque, a remuneração do patrono deve ser condizente com o trabalho desempenhado, não podendo ser irrisória e tampouco exorbitante, sob pena de configurar, nesta última hipótese, enriquecimento sem causa do advogado.
+Segundo a jurisprudência do C. Superior Tribunal de Justiça, "o critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor, em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios, não sendo determinante para tanto apenas e somente o valor da causa".1
+Portanto, nenhuma irregularidade se verifica.
+Em suma, o r. decisum de primeiro grau fica mantido, tal como lançado.
+Finalmente, descabe a majoração da verba honorária em grau recursal, nos termos do art. 85, §11, do CPC/15, uma vez que não houve apresentação de contrarrazões por parte da apelada.
+Com efeito, em relação à objeção contra a majoração dos honorários em grau recursal, nos termos do art. 85, § 11, do CPC/2015, verifica-se que o acórdão está dissonante do entendimento do STJ, segundo o qual "É pacífico nesta Corte Superior de Justiça que a majoração dos honorários é cabível ainda que o recorrido não tenha apresentado contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos pela parte vencida" (AgInt nos EDcl no RE no AgInt no AREsp 1626251/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 1/12/2020, DJe 7/12/2020).
+A propósito, outros precedentes :
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. MANEJO DE EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO DE INADMISSÃO, NA ORIGEM, DO RECURSO ESPECIAL. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO PARA O AGRAVO EM RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Segundo iterativa jurisprudência do Superior Tribunal de Justiça, "a oposição de embargos declaratórios em face de decisão de admissibilidade de recurso especial não tem o condão de interromper o prazo recursal para o recurso próprio, na hipótese dos autos, o agravo previsto no art. 994, VIII, do CPC/2015" (AgInt no AREsp 1967624/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/02/2022, DJe 16/02/2022).
+2. A jurisprudência do Superior Tribunal de Justiça é no sentido de se aplicar o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), impondo a majoração do percentual já fixado, relativo aos honorários advocatícios, independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.672.528/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE INTERDITO PROIBITÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA DECISÃO AGRAVADA. CABIMENTO.
+1. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 desta Corte.
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10.4.2017).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. "Consoante a jurisprudência do STJ, não configura julgamento ultra petita ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional proferido nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial" (AgInt no REsp 1748942/CE, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 24/5/2021).
+5. "É pacífico nesta Corte Superior de Justiça que a majoração dos honorários é cabível ainda que o recorrido não tenha apresentado contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos pela parte vencida" (AgInt nos EDcl no RE no AgInt no AREsp 1626251/SP, Relator Ministro Jorge Mussi, Corte Especial, DJe 7/12/2020).
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.904.155/AP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para que o Tribunal a quo majore os honorários fixados na sentença.
+Publique-se. Intimem-se.
+ EMENTA
