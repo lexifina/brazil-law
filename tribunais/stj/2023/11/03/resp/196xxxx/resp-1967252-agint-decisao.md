@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo interno interposto por DANIEL BENASAYAG BIRMANN contra decisão monocrática de relatoria do Min. Paulo de Tarso Sanseverino que apreciou recurso especial interposto, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, com o objetivo de reformar acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fls. 1.230-1.231):
+Agravo de Instrumento. Falência, processo com 12 anos de tramitação e R$600.000.000,00 de dívida não paga. Falido que diz não possuir qualquer patrimônio próprio e em momento algum ofereceu-se ao pagamento de qualquer fração do débito. Contratação de escritório pelo administrador judicial com a função de rastrear, no Brasil e no exterior, bens de propriedade do falido que bastem à satisfação do passivo. Remuneração de êxito fixada em 30% de todo crédito recuperado. Irresignação do falido e robusta concordância do principal credor, fundo de natureza previdenciária. Alegado excesso e indefinição da base de cálculo dos honorários.
+1- Fixando o Código de Processo Civil os honorários de sucumbência como percentual do proveito econômico da causa, com o mínimo de 10 e máximo de 20%, não se mostra excessiva a remuneração de escritório que, tendo em vista as dificuldades de pesquisas no exterior visando à localização dos bens e a natureza aleatória dos honorários, é judicialmente fixada em 30% do quanto do crédito existente na falência vier a ser realmente satisfeito.
+2- Vulto da remuneração que, dentre outras serventias, serve de sinal para futuros falidos dos efeitos da globalização e da comunicação entre os governos, tudo a facilitar a localização dos ativos, a coibir fraudes e a onerar aqueles que pretendam, como historicamente fizeram, ocultar seu patrimônio.
+3-Honorários que só serão pagos sobre as importâncias que forem pagas aos credores, não bastando a mera localização dos ativos do falido.
+4-Recurso a que se nega provimento.
+A decisão agravada não conheceu do recurso especial do agravante, nos termos da seguinte ementa (fls. 1.728-1.729):
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. FALÊNCIA. HONORÁRIOS A ESCRITÓRIO DE ADVOCACIA CONTRATADO PELO ADMINISTRADOR JUDICIAL PARA REALIZAÇÃO DE INVESTIGAÇÃO E DE RECUPERAÇÃO DE ATIVOS. 30% SOBRE VALORES EVENTUALMENTE RECUPERADOS. ALEGADA VIOLAÇÃO DO ART. 24, § 1º, DA LEI N. 11.101/05. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE OFENSA AO ART. 85 DO CPC. AUSÊNCIA DE IMPUGNAÇÃO ACERCA DE FUNDAMENTOS SUFICIENTES PARA A MANUTENÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. VALORES ENTENDIDOS PELAS INSTÂNCIAS DE ORIGEM COMO ADEQUADOS ÀS PECULIARIDADES DO CASO CONCRETO. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. SÚMULA 7/STJ.
+RECURSO ESPECIAL NÃO CONHECIDO.
+Aduz o agravante que resta autorizada a análise do art. 24, § 1º, da Lei n. 11.101/2005; que o art. 85 do CPC foi expressamente citado no acórdão recorrido, sendo incontroverso o seu prequestionamento; e que todos os fatos necessários ao julgamento da causa foram delineados no próprio acórdão recorrido, o que, além de viabilizar o julgamento da causa, afasta a incidência das Súmulas n. 283/STF e 7/STJ (fl. 1.742).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Os agravados manifestaram-se às fls. 1.787-1.818 e 1.823-1.850.
+É, no essencial, o relatório.
+Em juízo de retratação, reconsidero a decisão monocrática recorrida (fls. 1.728-1.736), tornando-a sem efeito, para o fim, exclusivo, de submeter o recurso especial interposto às fls. 1.255-1.270 ao julgamento colegiado, oportunizando às partes, se assim entenderem, exercerem o direito à sustentação oral.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão agravada e submeter o recurso especial ao julgamento colegiado.
+Publique-se. Intimem-se.
+Após, voltem conclusos para pedido de dia de julgamento.
+EMENTA
