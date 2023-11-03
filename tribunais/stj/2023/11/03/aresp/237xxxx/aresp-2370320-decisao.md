@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESTADO DE SÃO PAULO contra decisão que inadmitiu recurso especial (fl. 1370, e-STJ) manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 915, e-STJ):
+APELAÇÃO CÍVEL  Ação de regresso - Prescrição - Ação proposta após o decurso de cinco anos  Inteligência do Decreto Federal nº 20.910/32  Extinção do feito, com resolução do mérito, nos termos do artigo 269, inciso IV, do Código de Processo Civil  Recurso não provido.
+Opostos embargos de declaração pelo Agravante, foram providos em acórdão assim ementado (fl. 1238, e-STJ):
+Embargos infringentes - Ação regressiva para recebimento de valores referentes a dívidas trabalhistas - Prescrição -Inaplicável o parágrafo Y do art. 37 da Constituição Federal  Pagamento realizado em cumprimento a decisão judicial - Inteligência do Decreto Federal nº 20.910132 -Prescrição  Ação proposta após decurso de cinco anos da quitação do valor principal referente à dívida objeto da demanda  Impossibilidade de acatamento dos argumentos externados no voto divergente  Embargos infringentes rejeitados.
+Posteriormente, foram opostos novos aclaratórios pelo embargado, os quais restaram igualmente rejeitados, conforme o seguinte acórdão (e-STJ, fl. 1266):
+EMB ARGOS DE DECLARAÇÃO -- EMBARGOS INFRINGENTES - Inexistência de omissão no julgado - Alegação de que não houve apreciação a respeito da imprescritibilidade da pretensão de regresso - Não cabimento - Acórdão que indicou ser aplicável o prazo prescricional de 05 (cinco) anos ao caso em apreço, - Inaplicabilidade do art. 37, § 5º, da CF, ante a ausência de ato ilícito - Mero inconformismo com a decisão proferida e divergência de opinião, que não podem ser objetos de embargos de declaração - EMBARGOS DE DECLARACÃO rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação ao art. 2018, do Código Civil de 2002, argumentando que o prazo prescricional da ação não é de cinco anos, mas de trinta anos, visto que se trata de pretensão da Fazenda Pública contra particular e não contra a Fazenda Pública.
+Contrarrazões ao recurso especial às fls. 1302/1344, e-STJ.
+O Tribunal de origem inadmitiu o recurso especial à consideração de que os argumentos trazidos não são suficientes para infirmar as conclusões do acórdão, as violações apontadas não ficaram evidentes, assim como incide o óbice da Súmula 7/STJ in casu (fl. 1370 e-STJ).
+O agravo em recurso especial (fls. 1377/1385, e-STJ) impugnou todos os fundamentos da decisão de inadmissibilidade.
+Contraminuta ao agravo às fls. 1405/1451, e-STJ.
+O Ministério Público Federal emitiu parecer às fls. 1497/1501, e-STJ.
+É o relatório. Decido.
+Na hipótese dos autos, cuida-se ação regressiva movida pelo Estado de São Paulo contra o Hospital e Maternidade São Marcos Ltda. objetivando o ressarcimento de montante referente a débitos trabalhistas sobre os quais foi condenado a pagar para ex-funcionário da parte ré. Em sede de apelação, o Tribunal a quo reconheceu a prescrição da ação, extinguindo o feito com resolução de mérito.
+A respeito da aplicação do prazo de prescrição quinquenal e o consequente reconhecimento da prescrição, manifestou-se a Corte de origem (fls. 917/918, e-STJ):
+No entanto, segundo se depreende dos autos, a FESP pretende reaver numerário pago derivado de precatório oriundo da relação de trabalho do ex-funcionário Edson Tupinambá de Albuquerque. Ocorre que tal precatório foi quitado em 15 de dezembro de 1998, consoante se verifica da certidão de objeto e pé de fls. 1091111. A presente ação somente foi ajuizada em 24 de novembro de 2011.
+(..)
+Todavia, em que pese tenha ocorrido a prescrição quinquenal do direito da requerente, mister salientar que não se verificou a prescrição trabalhista.
+Referido prazo da ação em comento está disciplinado no artigo 10, do Decreto nº 20.910132, quando dispõe que o prazo prescricional de "todo e qualquer direito ou ação da Fazenda Federal, Estadual ou Municipal, seja qual for sua natureza" é de cinco anos.
+Neste sentido, os seguintes arestos:
+"E de cinco anos o prazo prescricional da ação de indenização contra a Fazenda Pública, nos termos do art. 10 do Decreto 20.910132, que regida a prescrição de "todo e qualquer direito ou ação da Fazenda Federal, Estadual ou Municipal, seja qual for sua natureza" Na fixação do termo "a quo" desse prazo, deve-se observar o universal princípio da actio nata. Precedentes (Recurso Especial a que se dá provimento - Resp 692.204/RJ, Ministro Teori Albino Zavascki, j. em 6.12.2007).
+Como bem salientou o nobre magistrado sentenciante, não se aplica ao caso em comento a regra do art. 37, §5º, da Carta Magna. Não há que se falar em ilícito a configurar lesão ao erário. Aqui, a FESP foi obrigada a arcar com divida trabalhista em razão de sentença judicial que reconheceu ser a mesma responsável por sucessão trabalhista.
+Assim, decorridos mais de cinco anos entre o inicio do lapso prescricional e a propositura da ação, o direito da autora foi fulminado pela prescrição de seu direito.
+Com efeito, observa-se que o entendimento do Tribunal de origem está em consonância com a orientação deste Tribunal Superior sobre o tema no sentido de que o prazo prescricional aplicável é o quinquenal, previsto no art. 1º, do Decreto Federal n. 20.910/1932, eis que, na hipótese, tem-se uma pretensão de ressarcimento da Fazenda Pública contra particular.
+A propósito, os seguintes julgados:
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO PROPOSTA PELA FAZENDA PÚBLICA. ACIDENTE DE TRÂNSITO. DANO PROVOCADO POR AGENTE PÚBLICO. PRESCRIÇÃO. PRAZO QUINQUENAL.
+1. O Supremo Tribunal Federal, no RE 669.069/MG, estabeleceu, em regime de repercussão geral, a tese de que "é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil".
+2. O Superior Tribunal de Justiça, no julgamento do REsp 1.251.993/PR, submetido à sistemática dos recursos repetitivos, fixou que "aplica-se o prazo prescricional quinquenal - previsto do Decreto 20.910/32 - nas ações indenizatórias ajuizadas contra a Fazenda Pública, em detrimento do prazo trienal contido do Código Civil de 2002".
+3. Por aplicação do princípio da isonomia, é também quinquenal o prazo prescricional da pretensão de ressarcimento da Fazenda Pública. Precedentes.
+4. Recurso especial a que se dá provimento.
+(REsp n. 1.318.938/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 26/11/2019, DJe de 29/11/2019.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. AÇÃO REGRESSIVA. ACIDENTE DE TRABALHO. PRESCRIÇÃO. PRAZO QUINQUENAL. FUNDO DE DIREITO. TERMO INICIAL. CONCESSÃO DO BENEFÍCIO.
+1. Inexiste violação do art. 535 do CPC/1973 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. Nos casos de ação de regresso acidentária, em razão do princípio da isonomia, deve-se aplicar o mesmo prazo previsto para a Fazenda Pública quanto à prescrição do fundo de direito, nos termos do art. 1º do Decreto n. 20.910/1932, contado a partir da concessão benefício previdenciário. Precedentes.
+3. Recurso especial a que se nega provimento.
+(REsp n. 1.535.512/RN, relator Ministro Og Fernandes, Segunda Turma, julgado em 27/2/2018, DJe de 7/3/2018.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REGRESSIVA. FAZENDA PÚBLICA. EXAME DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRAZO PRESCRICIONAL. APLICAÇÃO DO DECRETO N.º 20.910/32. PRECEDENTES.
+1. A análise de suposta violação a dispositivos e princípios da Lei Maior é vedada em sede especial, sob pena de usurpação da competência atribuída pelo constituinte ao Supremo Tribunal Federal.
+2. Em razão da aplicação do princípio da isonomia, impõe-se a incidência do prazo prescricional previsto no Decreto n.º 20.910/32, nas pretensões deduzidas pela Fazenda Pública em face do particular.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp n. 1.349.090/SC, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/9/2014, DJe de 19/9/2014.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. FIXAÇÃO PELAS INSTÂNCIAS ORDINÁRIAS. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ACIDENTE DE TRABALHO. AÇÃO REGRESSIVA DO INSS CONTRA O EMPREGADOR. PRINCÍPIO DA ISONOMIA.
+PRESCRIÇÃO.
+(..)
+7. Os recorrentes (Azevedo Sette Advogados S/S e Pepsico do Brasil Ltda.) reiteram, em seus memoriais, as razões do Recurso Especial, não apresentando nenhum argumento novo. RECURSO ESPECIAL DO INSTITUTO NACIONAL DO SEGURO SOCIAL 7. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.251.993/PR, submetido à sistemática do art. 543-C do CPC/1973, assentou a orientação de que o prazo prescricional nas ações indenizatórias contra a Fazenda Pública é quinquenal, conforme previsto no art. 1º do Decreto-Lei 20.910/1932, e não trienal, nos termos do art. 206, § 3º, V, do CC/2002. 8. A jurisprudência é firme no sentido de que, pelo princípio da isonomia, o mesmo prazo deve ser aplicado nos casos em que a Fazenda Pública é autora, como nas ações de regresso acidentárias. Precedentes: REsp 1.668.967/ES, Rel. Ministro Og Fernandes, Segunda Turma, DJe 15.8.2017; AgRg no REsp 1.541.129/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17.11.2015; e REsp 1.499.511/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5.8.2015.
+9. A pretensão ressarcitória da autarquia previdenciária prescreve em cinco anos, contados a partir do pagamento do benefício previdenciário. 10. O Tribunal a quo consignou que, conforme relatado pelo INSS, o implemento do benefício previdenciário ocorreu em 5.4.2005. A propositura da Ação de Regresso deu-se em 17.1.2014 (fl. 661, e-STJ). Assim, está caracterizada a prescrição.
+CONCLUSÃO 11. Recurso Especial de Azevedo Sette Advogados Associados S/C e outra não conhecido e Recurso Especial do Instituto Nacional do Seguro Social não provido.
+(REsp n. 1.703.156/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2017, DJe de 19/12/2017.)
+Incide na espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REGRESSO RELATIVA A DÉBITOS TRABALHISTAS AJUIZADA PELO ESTADO DE SÃO PAULO EM FACE DE HOSPITAL PRIVADO. APLICAÇÃO DE PRAZO PRESCRICIONAL QUINQUENAL. DECRETO FEDERAL Nº 20.910/32. PRECEDENTES DO STJ. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL
