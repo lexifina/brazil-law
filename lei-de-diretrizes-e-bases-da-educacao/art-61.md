@@ -8,3 +8,4 @@ Parágrafo único. A formação dos profissionais da educação, de modo a atend
 I - a presença de sólida formação básica, que propicie o conhecimento dos fundamentos científicos e sociais de suas competências de trabalho;
 II - a associação entre teorias e práticas, mediante estágios supervisionados e capacitação em serviço;
 III - o aproveitamento da formação e experiências anteriores, em instituições de ensino e em outras atividades.
+IV - a proteção integral dos direitos de crianças e adolescentes e o apoio à formação permanente dos profissionais de que trata o caput deste artigo para identificação de maus-tratos, de negligência e de violência sexual praticados contra crianças e adolescentes.
