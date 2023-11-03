@@ -1,0 +1,14 @@
+DECISÃO
+EDUARDO LUCENA PEREIRA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins na Apelação Criminal n. 0000842-54.2022.8.27.2726/TO.
+Nas razões do especial, o agravante alegou a violação dos arts. 33, § 2º, "b", e 59 do Código de Processo Penal.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal local (fls. 440-445), o que ensejou a interposição deste agravo (fls. 480-503).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso superada a preliminar, pelo não provimento do recurso especial (fls. 533-550).
+Decido.
+No caso vertente, o Tribunal a quo obstou o prosseguimento do recurso especial, sob os seguintes fundamentos:
+(a) " ..  quanto à ausência de laudo pericial da lesividade da arma utilizada na prática do crime de roubo, informo que a 4ª Turma Julgadora da 2ª Câmara Criminal deste egrégio Tribunal de Justiça entendeu que existem provas suficientes para comprovar a autoria.  .. . Desse modo, rever os termos adotados no acórdão impugnado demandaria inevitável reexame do acervo fático-probatório dos autos originários, o que é vedado na via estreita do recurso especial pelo óbice enunciado pela Súmula n. 07/STJ, segundo o qual "a pretensão de simples reexame de prova não enseja recurso especial"". (fl. 443);
+(b) " ..  o recurso especial não é a via adequada para o reexame dos parâmetros adotados pelo juiz na fixação da pe na-base, uma vez que a análise das circunstâncias judiciais do art. 59 do Código Pena, bem como a causa de aumento de pena por concurso de pessoas, envolvem particularidades subjetivas, decorrentes do livre convencimento do magistrado, as quais não podem ser revistas pelo STJ, nos termos da Súmula n. 07/STJ" (fl. 444).
+(c) " ..  somente em hipóteses excepcionais é que o Superior Tribunal de Justiça tem admitido o manejo do Recurso Especial para o reexame da individualização da pena, notadamente quando é flagrante a ofensa à lei federal, situação inocorrente nesta espécie, o que inviabiliza a admissão do recurso. Em tais termos, por qualquer ângulo que se examine a matéria, não é possível admitir o presente REsp, face ao óbice intransponível da Súmula n. 07/STJ" (fl. 444).
+Todavia, o recorrente, nas razões do agravo em exame, não refutou os referidos fundamentos, limitando-se a reproduzir a argumentação do recurso especial, o que atrai a incidência da Súmula n. 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
