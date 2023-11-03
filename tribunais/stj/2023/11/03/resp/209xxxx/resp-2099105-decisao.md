@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por COOPERATIVA DE CRÉDITO, POUPANÇA E INVESTIMENTO VALE DO JAGUARI E ZONA DA MATA - SICREDI VALE DO JAGUARI E ZONA DA MATA RS/MG, no qual se alega, além de divergência jurisprudencial, violação dos arts. 141, 373, inciso I, 489, § 1º, inciso IV, 492, 1.013 e 1.022, incisos I e II, do Código de Processo Civil; art. 51, § 1º, incisos III, do Código de Defesa do Consumidor; e arts. 397 e 406 do Código Civil. O acórdão recorrido está retratado na seguinte ementa (fls. 424/425 e-STJ):
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CÉDULAS DE CRÉDITO BANCÁRIO.
+- Comissão de permanência. Permitida a cobrança da comissão de permanência durante o período de inadimplemento, desde que expressamente pactuada, não cumulada com correção monetária, juros remuneratórios, moratórios e multa, não podendo seu valor exceder a soma dos encargos remuneratórios e moratórios previstos no contrato, conforme Súmulas 30, 294, 296 e 472 do STJ. Todavia, neste caso não há previsão desse encargo nos contratos em revisão, devendo ser mantida a sentença no particular.
+- Juros moratórios. Cabível estabelecer o encargo no equivalente a 1% ao mês em contratos não regidos por legislação específica, como ocorre neste caso, conforme Súmula 379, do STJ. No caso, em todos os contratos está prevista taxa acima do limite legal, devendo ser mantida a limitação imposta pela sentença.
+- Correção monetária pela CDI. É nula de pleno direito a remuneração pela variação do CDI divulgado pela CETIP, conforme Súmula 176 do STJ. Na espécie, há previsão de atualização dos valores pelo CDI, devendo ser mantida a substituição do encargo pelo IGP-M, por melhor refletir a reposição da moeda.
+APELAÇÃO DESPROVIDA. UNÂNIME" (fl. 424 e-STJ)
+Opostos embargos de declaração, foram rejeitados.
+Preliminarmente, alega-se negativa de prestação jurisdicional.
+No mérito, sustenta o recorrente que a contratação do CDI como indexador de correção monetária não é abusiva.
+Assim posta a questão, passo a decidir.
+Inicialmente, quanto à preliminar de negativa de prestação jurisdicional, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso.
+No mérito, observo que a Corte de origem determinou o afastamento da remuneração pela variação do CDI, divulgado pela CETIP, conforme os seguintes fundamentos:
+"Com relação à remuneração pela variação da CDI, divulgado pela CETIP, sua incidência é nula de pleno direito, conforme Súmula 176 do STJ:
+"É nula a cláusula que sujeita o devedor à taxa de juros divulgada pela ANDIB/CETIP"
+No caso, em todas as cédulas há previsão da atualização do saldo devedor pela remuneração acumulada do CDI, estando, assim, correto o afastamento do encargo e sua substituição pelo IGP-M" (fl. 422 e-STJ)
+Com efeito, registro que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que "Não há vedação à adoção da variação dos Certificados de Depósitos Interbancários - CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado caso a caso, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie (..)" (REsp n. 1.630.706/SP, minha relatoria, Quarta Turma, DJe de 13.6.2022).
+Nesse sentido, confiram-se:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS A EXECUÇÃO. ENCARGOS. CDI. CÉDULA DE CRÉDITO BANCÁRIO. CÉDULA DE CRÉDITO RURAL. ABUSIVIDADE. INOCORRÊNCIA.
+1. Ação de embargos à execução.
+2. Recurso especial interposto em: 06/07/2021. Concluso ao gabinete em: 20/01/2022.
+3. O propósito recursal consiste em perquirir se é abusiva a aplicação dos Certificados de Depósito Interfinanceiro (CDI) como encargo de cédula de crédito bancário e de cédula de crédito rural, tendo em vista a disposição da Súmula nº 176 do STJ.
+4. O art. 122 do Código Civil determina que são lícitas, em geral, todas as condições não contrárias à lei, à ordem pública ou aos bons costumes; entre as condições defesas se incluem as que privarem de todo efeito o negócio jurídico, ou o sujeitarem ao puro arbítrio de uma das partes.
+5. É firme a jurisprudência deste STJ no sentido de que eventual abusividade deve ser verificada casuisticamente, em função do percentual fixado pela instituição financeira. Precedentes.
+6. Em se tratando de cédula de crédito bancário, tem sido firme este STJ no sentido de que não há vedação à adoção da variação dos Certificados de Depósitos Interbancários - CDI como encargo financeiro em contratos bancários, devendo o abuso ser observado na hipótese, em cotejo com as taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie.
+7. As cédulas de crédito rural, industrial e comercial se submetem a regramento próprio, que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados. Não havendo atuação do referido órgão, adota-se a limitação de 12% ao ano, prevista no Decreto nº 22.626/1933. Precedentes.
+8. O art. 5º do Decreto-Lei nº 167/1967, ao determinar que as taxas de juros remuneratórios devem obedecer ao limite fixado pelo CMN, sem ressalvas quanto à possibilidade de livre pactuação, tem por objetivo evitar a fixação de taxas abusivas por parte das instituições financeiras e, simultaneamente, permitir certa flexibilidade, uma vez que o limite pode ser constantemente alterado pelo CMN.
+9. O CMN, por meio do item 1 do MCR 6-3, autorizou que as partes, em cédulas de crédito rural com recursos não controlados, pactuem livremente as taxas de juros, mas permaneceu omisso quanto à fixação de um limite, de modo que, não havendo limite estabelecido pelo CMN, as taxas acordadas entre as partes não podem ultrapassar o limite de 12% ao ano, conforme previsto no Decreto nº 22.626/1933.
+10. A mera indexação da CDI em cédulas de crédito rural, não configura abusividade, haja vista que o consignado nesta Corte Superior é que a limitação deve ser de 12% ao ano.
+11. Recurso especial provido" (REsp n. 1.978.445/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25.10.2022, DJe de 28.10.2022.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA QUE PROVEU PARCIALMENTE O APELO NOBRE. INSURGÊNCIA DA DEMANDANTE.
+1. Consoante a jurisprudência desta Corte, a legislação processual (art. 932 do CPC/15 c/c com a Súmula 568/STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+2. Nos termos da jurisprudência desta Corte, não há obstáculo legal à estipulação
+dos encargos financeiros de cédula de crédito bancário em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), sendo inaplicável a essas hipóteses o teor da Súmula 176/STJ. 2.1. Não há falar em modulação de efeitos, pois não houve mudança ou relativização da Súmula 176/STJ, mas o mero reconhecimento de sua inaplicabilidade às hipóteses de encargos pactuados sobre a variação dos CDI"s .
+3. Agravo interno desprovido" (AgInt no REsp n. 2.016.417/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6.3.2023, DJe de 10.3.2023.)
+Em face do exposto, dou provimento ao recurso especial para admitir o uso da CDI conforme contratado.
+Intimem-se.
+EMENTA
