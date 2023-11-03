@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de RICK CEZARINO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n. 5406510-14.2023.8.09.0011.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 23/6/2023, por ter supostamente praticado o delito tipificado no art. 171, caput, c/c art. 14, inciso II, ambos do Código Penal - CP (estelionato tentado). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TENTATIVA DE ESTELIONATO. NEGATIVA DE AUTORIA. NÃO CONHECIMENTO. ARBITRAMENTO DE FIANÇA. PEDIDO NÃO APRECIADO PELO JUÍZO A QUO. SUPRESSÃO DE INSTÂNCIA. CONVERSÃO DA PRISÃO EM FLAGRANTE PARA PREVENTIVA. PRESENÇA DOS REQUISITOS AUTORIZADORES. PREDICADOS PESSOAIS. FILHOS MENORES. DOENÇA DO GENITOR. INSUBSISTENTES. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. 1. É inviável o conhecimento de matéria referente a negativa de autoria, eis que sua acolhida importa, necessariamente, no amplo e aprofundado exame do conjunto fático probatório, procedimento que sabidamente é vedado em sede de habeas corpus, caracterizado pelo rito célere e cognição sumária. 2. Ausente comprovação de que o pedido de liberdade com arbitramento de fiança foi formulado e analisado pelo Juízo de origem, é defeso a apreciação da questão por esta Corte, sob pena de configurar indevida supressão de instância. 3. Não merece modificação a decisão que converteu a prisão em flagrante para preventiva que está fundamentada e alicerçada nas condições autorizadoras do art. 312, do CPP, com a indicação de elementos que evidenciam a necessidade da medida extrema. 4. As condições pessoais favoráveis ao paciente, conforme reiterados julgados, não são suficientes, por si sós, para revogação da prisão preventiva. Nem tampouco o fato de possuir filhos menores de idade, eis que não logrou êxito em demonstrar que é o único responsável pelo cuidado das crianças. 5. Em relação a doença do pai, não há prova documental de que ele esteja sob a responsabilidade exclusiva do paciente. 6. Demonstrada a necessidade e adequação da medida extrema, torna-se evidente a ineficácia das cautelas alternativas (art. 319, do CPP). ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA." (fls. 18/19)
+No presente writ, o impetrante sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal - CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Aduz as condições pessoais favoráveis, quais sejam, primariedade, bons antecedentes, residência fixa e ocupação lícita. Destaca que nada de ilícito fora encontrado em face do paciente e do corréu.
+Pondera a desproporcionalidade da segregação antecipada, visto que, em caso de condenação, a pena poderá ser substituída por restritiva de direitos.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Pugna, em liminar, pela substituição da prisão preventiva do paciente pelas medidas cautelares dispostas no artigo 319, do CPP ou pela prisão domiciliar. No mérito, requer que seja declarada a ilegalidade e nulidade do ato processual que negou a liberdade provisória ao paciente, bem como que seja confirmada a liminar requerida anteriormente.
+Medida liminar indeferida conforme decisão de fls. 28/30.
+Informações prestadas às fls. 36/42 e 43/46.
+Parecer ministerial de fl. 50/51 pela prejudicialidade da impetração.
+É o relatório.
+Decido.
+O feito está prejudicado.
+Conforme pesquisa realizada no site do Tribunal de Justiça do Estado de Goiás e parecer ministerial da lavra do douto Subprocurador-Geral da República MARIO LUIZ BONSAGLIA, foi revogada a prisão preventiva decretada, tendo sido determinada a expedição de alvará de soltura em favor do paciente, conforme decisão proferida no HC n. 5545908-73.2023.8.09.0011.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimações necessárias.
+EMENTA
