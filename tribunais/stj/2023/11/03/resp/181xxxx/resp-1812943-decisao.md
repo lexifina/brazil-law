@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por LOTEAMENTO RESIDENCIAL ORLEANS JARU SPE LTDA, com fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado:
+"Agravo de instrumento. Arrematação. Requisitos. Observância. Nulidade afastada.
+Não há que se falar em nulidade da arrematação, quando esta observa o rito legal." (e-STJ, fl. 63)
+Em suas razões recursais, a recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 805, 891, 895, todos do CPC/15, sustentando, em síntese, que a arrematação do bem imóvel em segunda hasta é nula, em razão de nulidade no rito específico, o que ocasionou a arrematação por preço vil.
+É o relatório. Decido.
+A irresignação não prospera.
+Com efeito, a jurisprudência desta Corte entende que a arrematação dos bens pelo credor, em segunda praça, na condição de único licitante, é válida, desde que a venda não ocorra por preço vil. Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. REDAÇÃO ORIGINÁRIA DO ART. 714 DO CPC/1973. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. AUSÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. RECURSO DE CARÁTER MERAMENTE INFRINGENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Conforme entendimento perfilhado pelo acórdão ora embargado, admite-se a arrematação do bem pelo credor, ainda que seja o único licitante, desde que a venda não se dê por preço vil. Na vigência da redação originária do art. 714 do CPC/1973, à míngua de critérios objetivos para a configuração de preço vil, a jurisprudência do STJ adotou como parâmetro o valor equivalente a 50% da avaliação do bem, ressalvando-se que a caracterização do preço vil depende das circunstâncias do caso concreto, o que atrai a incidência do óbice da Súmula 7/STJ ao conhecimento do recurso especial.
+2. Embargos de declaração rejeitados."
+(EDcl no AgInt nos EDcl nos EDcl no AREsp 1101385/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/02/2020, DJe 08/06/2020, g.n)
+"AGRAVO INTERNO. PROCESSUAL CIVIL. ART. 714 DO CPC/1973, EM SUA REDAÇÃO ORIGINÁRIA. ARREMATAÇÃO. PREÇO VIL. EXAME, EM SEDE DE RECURSO ESPECIAL. INCIDÊNCIA, NO CASO CONCRETO, DO ÓBICE DA SÚMULA 7/STJ.
+1. Admite-se a arrematação do bem pelo credor em segunda praça, ainda que seja o único licitante, desde que a venda não se dê por preço vil. Como não existem critérios objetivos para a configuração de preço vil, a jurisprudência do STJ adotou como parâmetro o valor equivalente a 50% da avaliação do bem, ressalvando-se que a caracterização do preço vil depende das circunstâncias do caso concreto, o que atrai a incidência do óbice da Súmula 7/STJ ao conhecimento do recurso especial. (AgRg no AREsp 542.564/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016)
+2. Agravo interno provido."
+(AgInt nos EDcl nos EDcl no AREsp 1101385/PR, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 08/10/2018)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. AFASTAMENTO DO ÓBICE DA SÚMULA N. 115/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARREMATAÇÃO DE BEM PELO EXEQUENTE EM SEGUNDA PRAÇA. ÚNICO LICITANTE. PREÇO VIL. REVISÃO. SÚMULA N. 7/STJ.
+1. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+2. A transcrição da ementa ou do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+3. Admite-se a arrematação do bem pelo credor em segunda praça, ainda que seja o único licitante, desde que a venda não se dê por preço vil.
+4. Como não existem critérios objetivos para a configuração de preço vil, a jurisprudência do STJ adotou como parâmetro o valor equivalente a 50% da avaliação do bem. No entanto, ressalvou que a caracterização do preço vil depende das circunstâncias do caso concreto.
+5. Aplica-se a Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+6. Agravo regimental desprovido."
+(AgRg no AREsp 542.564/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 25/08/2016)
+RECURSO ESPECIAL. FALÊNCIA E PROCESSUAL CIVIL. ARREMATAÇÃO. ALEGAÇÃO DE PREÇO VIL. CIRCUNSTÂNCIAS DO CASO CONCRETO. PRECEDENTES. HIPÓTESE EM QUE AS PECULIARIDADES DO CASO NÃO AUTORIZAM A CONCLUSÃO DE PREÇO VIL. INTERPRETAÇÃO CONFORME O ESTATUÍDO NO NOVO CPC (ART. 891, PARÁGRAFO ÚNICO). 1. Controvérsia oriunda de agravo de instrumento contra decisão que indeferiu pedido de arrematação de bem arrecadado e levado à hasta pública por ter sido considerado vil o preço oferecido.
+2. Hipótese em que o recorrente arrematou o bem em segundo leilão, mediante lance único, pelo valor mínimo fixado no próprio edital da hasta pública.
+3. Precedentes desta Corte reconhecendo a possibilidade de, diante das peculiaridades do caso concreto, admitir a arrematação em valor menor ao equivalente aos 50% (cinquenta por cento) da avaliação do bem, sem caracterizar preço vil. 4. Interpretação em consonância com o conceito legal de "preço vil" estatuído pelo parágrafo único, do art. 891 do novo CPC: "Considera-se vil o preço inferior ao mínimo estipulado pelo juiz e constante do edital, e, não tendo sido fixado preço mínimo, considera-se vil o preço inferior a cinquenta por cento do valor da avaliação." 5. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.648.020/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 9/10/2018, DJe de 15/10/2018.)
+Na hipótese, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante a análise do contexto fático-probatório dos autos, entendeu pela inexistência de nulidade no rito da arrematação do imóvel e afastou a ocorrência de preço vil, conforme se insere do seguinte trecho a seguir transcrito: (e-STJ fls.62/63, g.n)
+"No tocante à arrematação, não há que se falar em nulidade do ato, haja vista a observância do previsto no art. 880, § 1º e art. 891, ambos do Código de Processo Civil.
+Prescreve o art. 880, § 1º, do Código de Processo Civil, que não efetivada a adjudicação:
+O juiz fixará o prazo em que a alienação deve ser efetivada, a forma de publicidade, o preço mínimo, as condições de pagamento, as garantias e, se for o caso, a comissão de corretagem.
+Depreende-se do edital de venda judicial, publicado no DJe n. 035, de 23/2/2018, que os requisitos exigidos pelo sobredito artigo foram cumpridos, uma vez que designadas datas, valor do bem e forma de pagamento.
+Referido edital prevê, ainda, a possibilidade de consignação nos autos das propostas para aquisição do bem por valor inferior ao da avaliação, registrando a impossibilidade do bem ser vendido por preço inferior a 50% (cinquenta por cento) da avaliação.
+A arrematante apresentou proposta no valor de R$22.500,00 (vinte e dois mil e quinhentos reais), para pagamento de uma entrada no importe de R$11.250,00 (onze mil duzentos e cinquenta reais) e o restante em cinco parcelas mensais de R$2.250,00 (dois mil duzentos e cinquenta reais).
+Sobredito valor está em consonância com o art. 891, parágrafo único, visto que corresponde a 50% (cinquenta por cento) do valor de avaliação do imóvel.
+Nesse contexto, não prospera a pretensão de anulação da arrematação, uma vez que respeitados os comandos da Lei."
+Dessa forma, a modificação de tal entendimento, lançado no v. acórdão recorrido, nos moldes em que ora postulado, a fim de caracterizar a ocorrência de nulidade do rito de arrematação por preço vil , demandaria nova análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. NULIDADE DA ARREMATAÇÃO, PELA AUSÊNCIA DE INTIMAÇÃO DOS CONDÔMINOS. SÚMULA 284/STF. NULIDADE DO EDITAL DE HASTA PÚBLICA E AFASTAMENTO DA MULTA DO ART. 18, CAPUT, E § 2º, DO CPC/1973. REEXAME DO CONTEXTO PROBATÓRIO. SÚMULA 7/STJ. 1.
+Relativamente à alegação dos agravantes de nulidade do procedimento por ausência de intimação dos condôminos, os agravantes deixaram de atacar o fundamento do acórdão estadual no sentido de que não possuíam legitimidade para deduzir a pretensão, eis que não lhes foi reconhecida a condição de condôminos, restando, pois, inafastável a aplicação, por analogia, da Súmula 284/STF.
+2. Quanto à suposta nulidade do edital de hasta pública, bem como à aventada possibilidade de ocorrência de adjudicação, e não de arrematação do bem, seria necessário o reexame do próprio edital, dos documentos que particularizassem o imóvel, assim como da avaliação dos aspectos subjetivos do imóvel arrematado, o que se demonstra inviável ante a Súmula 7/STJ.
+3. Igualmente aplicável a Súmula 7/STJ no tocante ao pedido de afastamento da aplicação da multa e da indenização por litigância de má-fé, previstas no art. 18, caput, e § 2º, do CPC/1973.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 169.828/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/5/2017, DJe de 23/5/2017.)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
