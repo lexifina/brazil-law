@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Giorgio Henrique Bento de Medeiros, em que se aponta como autoridade coatora a Décima Quinta Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (Processo n. 1500620-35.2021.8.26.0637) que o paciente foi condenado, pelo Juízo da Vara Criminal do Foro de Tupã/SP, como incurso no art. 157, § 2º, II e VII, do Código Penal, à pena de 7 anos de reclusão, em regime fechado, e 18 dias-multa (fls. 14/32).
+Em sede de apelação (Apelação Criminal n. 1500620-35.2021.8.26.0637), a Décima Quinta Câmara Criminal do Tribunal de Justiça de São Paulo deu parcial provimento aos recursos dos réus para redimensionar a pena de Giorgio para 6 anos e 5 meses de reclusão, em regime fechado, e 15 dias-multa (fls. 33/46). O julgado recebeu a seguinte ementa (fl. 34):
+APELAÇÃO CRIMINAL. Roubo em concurso de agentes e com emprego de arma branca. Sentença condenatória. Recursos dos réus. Comprovadas a materialidade e a autoria, não é o caso de absolvição. A grave ameaça, com emprego de faca, restou bem caracterizada, não sendo possível a tipificação das condutas como crime de estelionato. A apelante foi autora, e não partícipe do delito, não havendo que se falar em participação de menor importância ou em cooperação dolosamente distinta, pois sua intenção era, de fato, roubar. Para a recorrente, de rigor o reconhecimento da atenuante da menoridade relativa. Para ambos os apelantes, o redimensionamento da fração de aumento na terceira etapa da dosimetria. Presentes duas causas de aumento (concurso de pessoas e emprego de arma branca), as penas devem ser majoradas em 3/8. Sentença modificada, com redimensionamento das penas, e manutenção dos regimes iniciais de cumprimento.
+RECURSOS PARCIALMENTE PROVIDOS.
+No presente writ, a defesa requer a incidência da atenuante de confissão espontânea e também a redução da fração de aumento da pena na terceira fase (fls. 3/9).
+Prestadas informações pelo Tribunal de Justiça de São Paulo (fls. 478/513).
+Parecer ministerial opinando pela inadmissibilidade do habeas corpus (fls. 515/519).
+É o relatório.
+No parecer ministerial, o Ministério Público opinou pela inadmissibilidade do writ, por ter o paciente interposto o recurso especial no dia seguinte ao presente habeas corpus, e que, por não ser admitido, a mesma matéria seria debatida nesta Corte Superior, em sede de agravo. No entanto, verifica-se que a decisão que inadmitiu o recurso especial foi no sentido de o recurso ter sido interposto fora do prazo, tratando-se, portanto, de matéria diversa da aqui tratada.
+A insurgência da defesa diz respeito à dosimetria. Verifico que razão lhe assiste, em parte.
+Na primeira fase, a pena-base foi fixada no piso mínimo de 4 anos de reclusão, por inexistência de vetoriais negativas ao paciente.
+Na segunda fase, foi reconhecida a reincidência, por ter o paciente uma condenação, transitada em julgado, nos autos de n. 0002124-55.2014.8.26.0069. Pela reincidência, a pena foi elevada na fração de 1/6, o que se mostra bastante proporcional, chegando a pena ao total de 4 anos e 8 meses de reclusão, e 11 dias-multa. No caso, a pretensão da defesa de que seja reconhecida a confissão não foi reexaminada, em sede de habeas corpus, pois consta do acórdão que o réu não confessou o roubo, mas, sim, o furto, ou seja, o seu relato foi diverso da conduta praticada, de acordo com as provas dos autos.
+No entanto, na terceira fase, a pena foi elevada em 3/8 em razão de duas causas de aumento, concurso de pessoas e utilização de arma branca, sem a devida fundamentação. Não há concreta motivação para a elevação da pena além de 1/3, tanto na sentença como no acórdão hostilizado. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. CAUSA DE AUMENTO. CONCURSO DE AGENTES. MAIOR AUMENTO NA TERCEIRA FASE. FUNDAMENTAÇÃO VÁLIDA. AUSÊNCIA DE ILEGALIDADE.
+1. Na esteira da orientação sedimentada no enunciado 443 da Súmula desta Casa, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+2. Adequada a utilização da fração de aumento de 3/8, considerando que, na empreitada criminosa, existiu superioridade numérica, sendo o delito praticado por 5 agentes e, no mínimo, 2 deles estavam portando arma de fogo para intimidação e constrangimento.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 817.550/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 30/8/2023)
+Nesses termos, entendo que a pena deve ser elevada na terceira fase na fração mínima de 1/3, de modo que a reprimenda se torna definitiva em 6 anos, 2 meses e 6 dias de reclusão, e 14 dias-multa. O regime deve permanecer o fechado , por ser o paciente reincidente.
+Ante o exposto, concedo parcialmente a ordem a fim de redimensionar a pena do paciente para 6 anos, 2 meses e 6 dias de reclusão, em regime fechado, e 14 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PEDIDO DE RECONHECIMENTO DA CONFISSÃO. IMPOSSIBILIDADE. PACIENTE QUE RELATOU FATOS DIVERSOS AO CRIME COMETIDO. TERCEIRA FASE. CONCURSO DE AGENTES E USO DE ARMA BRANCA. AUSÊNCIA DE CONCRETA FUNDAMENTAÇÃO NA TERCEIRA FASE PARA AUMENTO EM 3/8. SÚMULA 443/STJ. REDIMENSIONAMENTO DA PENA. REGIME FECHADO MANTIDO. REINCIDÊNCIA.
+Ordem parcialmente concedida nos termos do dispositivo.
