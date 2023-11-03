@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa (e-STJ, fl. 493):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. TELEFONIA. CUMPRIMENTO DE SENTENÇA. OI INTERNET. CRÉDITO EXTRACONCURSAL. LIBERAÇÃO DE VALORES EM FAVOR DA CONCESSIONÁRIA. IMPOSSIBILIDADE.
+O crédito cuja satisfação busca a parte autora/apelada não se submete aos efeitos da recuperação judicial, tendo em vista que a empresa OI INTERNET não integrava o GRUPO OI quando da formulação do pedido Recuperacional, tendo sido incorporada pela OI MÓVEL após a homologação do plano de recuperação judicial.
+Assim, não há falar em habilitação no Juízo recuperacional, sendo admitida a prática de atos expropriatórios na presente fase de cumprimento de sentença.
+APELAÇÃO CÍVEL DESPROVIDA.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 6º e 61 da Lei n. 11.101/2005.
+Sustenta que "se a OI INTERNET S.A foi incorporada pela OI MÓVEL, sociedade em recuperação judicial, o seu patrimônio também encontra-se blindado, somente podendo o MM. Juízo Universal deliberar sobre eventuais atos de constrição".
+Aduz que "ao se atribuir competência exclusiva ao MM. Juízo da Recuperação Judicial para a prática de atos de execução, durante todo o período de recuperação judicial, nos termos do art. 61 da Lei nº 11.101/2005, busca-se evitar medidas expropriatórias que possam prejudicar o cumprimento do plano de recuperação, ainda que ultrapassado o prazo legal de suspensão constante do art. 6º, § 4º, da Lei nº 11.101/2005, de modo a possibilitar que o princípio da preservação da empresa alcance sua plena efetividade".
+Alega que "não é facultada a empresa Ré, a eleição da forma de pagamento de seus débitos, haja vista que toda e qualquer disposição de valores, necessariamente, deve se dar na forma estipulada no PRJ".
+Argumenta que "em hipótese alguma o crédito aqui discutido será pago nos autos que o constituiu, a liquidação de sentença tem a única finalidade de apurar o valor para possibilitar a habilitação do crédito no processo de Recuperação Judicial, assim, não há que se falar em pagamento voluntário ou espontâneo, mas sim em expedição de ofício para pagamento do crédito extraconcursal da recorrida".
+Assevera que "Para os créditos extraconcursais em que o cumprimento de sentença/execução se iniciou antes do dia 30/09/2020, COMO É O CASO DOS AUTOS, permanece a necessidade da expedição de ofício solicitando pagamento ao Juízo da Recuperação Judicial, na forma anteriormente determinada, ressaltando-se desde já que tal crédito será incluído na ordem para pagamento que ocorrerá mensalmente, no limite estabelecido pelo Juízo da Recuperação judicial".
+Não houve apresentação de contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+Assiste razão à parte recorrente.
+O Tribunal local proferiu entendimento de que os créditos discutidos na ação originária não se sujeitam aos efeitos da recuperação judicial, razão pela qual seria admitida a prática de atos de constrição do patrimônio da recuperanda nos presentes autos, nos seguintes termos (e-STJ, fls. 496/497):
+A empresa OI INTERNET não está submetida aos efeitos da Recuperação Judicial, tendo em vista que restou incorporada ao Grupo OI após o deferimento do pedido da Recuperação Judicial e, inclusive, após a aprovação do respectivo Plano Recuperacional. Veja-se que o plano de Recuperação judicial ocorreu em 08/01/2018, e a incorporação se deu em 01/03/2018.
+A bem da verdade, a concessionária de telefonia OI INTERNET não se encontra em recuperação judicial. Nesse exato sentido, veja-se o seguinte julgado desta Câmara:
+(..)
+É o que basta para o desprovimento do recurso porque, do exame dos autos, verifica-se que a presente demanda restou manejada em face de OI INTERNET, sociedade que não integrava o Grupo OI quando pedido de Recuperação formulado nos autos do processo nº 0203711- 65.2016.8.19.0001 que tramita na 7ª Vara Empresarial da Comarca da Capital do Rio de Janeiro.
+Assim, não se tratando de crédito submetido à recuperação judicial do Grupo OI, não há falar em habilitação no Juízo recuperacional, sendo admitida a prática de atos expropriatórios na presente fase de cumprimento de sentença.
+Outrossim, tratando-se de crédito extraconcursal, uma vez que ocorrido o trânsito em julgado da fase de conhecimento (01/08/2016), as lides devem seguir seu curso natural, extinguindo-se a obrigação. Por esse motivo, levantados os valores em favor do credor, é satisfeita a pretensão.
+Por fim, não se verifica qualquer das hipóteses do art. 80 do CPC a caracterizar o agir da empresa apelante como litigância de má-fé. Ainda, condeno a requerida, ora apelante, ao pagamento da integralidade dos encargos processuais e honorários advocatícios em favor da parte autora, os quais vão fixados em R$ 800,00, nos termos do art. 85, §2º do CPC/2015.
+Ante tais comemorativos, voto por negar provimento ao apelo.
+(grifos acrescidos)
+Com efeito, a incorporação da OI INTERNET S.A. pela OI MÓVEL S.A., por si só, não faz com que os créditos por ela devidos tenham de se submeter ao plano de recuperação judicial.
+Esta Corte Superior, contudo, possui entendimento firme de que, na hipótese de recuperação judicial, os atos de execução efetuados em desfavor da recuperanda deverão ser realizados, necessariamente, pelo Juízo universal. A propósito:
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO SOBRE O PATRIMÔNIO DA EMPRESA RECUPERANDA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL PARA EXERCER O CONTROLE DOS ATOS DE CONSTRIÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao juízo da recuperação judicial exercer o controle dos atos constritivos incidentes sobre o patrimônio de empresa, aferindo a essencialidade dos bens para seu reerguimento.
+2. Os estreitos limites do conflito de competência não autorizam discutir a natureza do crédito - se concursal ou extraconcursal -, devendo o debate ocorrer nas vias e recursos próprios.
+3. Ainda que se atribua o caráter extraconcursal a crédito, incumbe ao juízo em que se processa a recuperação judicial deliberar sobre os atos expropriatórios e sopesar a essencialidade dos bens de propriedade de empresa passíveis de constrição e a solidez do fluxo de caixa.
+4. Agravo interno desprovido.
+(AgInt no CC n. 194.397/MG, relator Ministro João Otávio de Noronha, Segunda Seção, julgado em 28/6/2023, DJe de 3/7/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. CRÉDITO EXTRACONCURSAL. ATOS DE CONSTRIÇÃO DO PATRIMÔNIO. JUÍZO UNIVERSAL DA FALÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Consoante entendimento do STJ, "o crédito extraconcursal não se submeterá aos efeitos da recuperação judicial, mas o juízo universal deverá exercer controle sobre os atos de constrição do patrimônio, que analisará a essencialidade do bem para o soerguimento da empresa" (AgInt no CC n. 183.978/RJ, relator Ministro Moura Ribeiro, Segunda Seção, julgado em 8/3/2023, DJe de 11/5/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.669.893/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. NA ORIGEM, AGRAVO DE INSTRUMENTO. DESPESAS CONDOMINIAIS. CRÉDITOS EXTRACONCURSAIS. ART. 1.022, CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURADA. RECURSO INTERPOSTO PELO CONDOMÍNIO QUE GUARDA IDENTIDADE COM RECURSO ANTERIOR. PRECLUSÃO CONSUMATIVA. MANUTENÇÃO DA DECISÃO ANTERIOR, SOB DIVERSOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A Segunda Seção do STJ possui orientação jurisprudencial no sentido de que, mesmo quanto aos créditos extraconcursais, incumbe ao Juízo em que se processa a recuperação judicial, ciente de tal circunstância, analisar a melhor forma de pagamento do aludido crédito, deliberar sobre os atos expropriatórios, sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, além da solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.114.141/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/4/2023, DJe de 24/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. DEVEDORA EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A jurisprudência desta Corte é no sentido de que "os atos de constrição do patrimônio afetado à consecução do plano de soerguimento empresarial, mesmo no caso da execução de créditos que não se submetem aos efeitos da recuperação judicial, são submetidos ao crivo do Juízo "universal". São distintas a submissão aos efeitos da recuperação judicial e à competência do Juízo que preside o procedimento recuperacional." (EDcl nos EDcl no AgInt no CC n. 165.963/AM, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 22/9/2021, DJe de 1/10/2021)
+2. Agravo interno provido para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.903.461/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+Assim sendo, o acórdão recorrido diverge da orientação desta Corte de que a pretensão de constrição direcionada ao patrimônio da empresa em recuperação judicial deve ser submetida ao crivo do juízo universal, em prestígio ao princípio da preservação da empresa.
+Em face do exposto, dou provimento ao recurso especial, para reconhecer a competência do Juízo da recuperação judicial para deliberar acerca da constrição dos valores da empresa Recorrente, com vias à satisfação do crédito discutido no presente processo.
+Intimem-se.
+EMENTA
