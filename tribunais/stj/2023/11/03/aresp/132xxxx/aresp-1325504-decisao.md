@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Apelação Cível. Rescisão de promessa de compra e venda c/c restituição de parcelas e indenização. Aquisição de unidade imobiliária com finalidade hoteleira. Contrato firmado entre promitente comprador, pessoa física, e incorporadora, ora 1ª ré, com oferta de serviços de hotelaria vinculados à "bandeira" e à marca da 2ª ré.
+Autor que antecipou o pagamento de taxa de instalação do condomínio e montagem hoteleira, no valor de R$ 20.000,00 (vinte mil reais), conforme previsto no quadro resumo da promessa de compra e venda. Pagamento que se destinava a cobrir as despesas de decoração padronizada, conforme estabelece a cláusula 38ª.
+Adesão à oferta do empreendimento que levou em conta o nome da empresa hoteleira, ora 2ª ré.
+Teoria da aparência. Manifesta legitimidade ad causam no pólo passivo da empresa de hotelaria.
+Prova da quitação da quantia lançada na sentença com base nos comprovantes de pagamento dos títulos de cobrança. Inoportuna impugnação dos recibos em recurso pela 1ª ré, que não ofertou contestação.
+Condenação ao pagamento de multa contratual e de lucros cessantes sem o pagamento integral das parcelas previstas no contrato. Impossibilidade.
+Efeitos da revelia meramente relativos e que não legitimam o integral acolhimento da pretensão indenizatória.
+Correto restabelecimento do status quo ante com a devolução das parcelas solvidas pelo promitente comprador.
+Provimento parcial do segundo recurso, apenas para reconhecer a legitimidade da 2ª ré, impondo- lhe a condenação solidária na restituição das parcelas solvidas, desprovido o primeiro recurso." (fl. 607)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação ao art. 2º do Código de Defesa do Consumidor e divergência jurisprudencial, sustentando, em síntese, inviabilidade de aplicação das regras do Código de Defesa do Consumidor na presente hipótese e ilegitimidade passiva da recorrente para responder pelos danos decorrentes do atraso na obra do empreendimento hoteleiro.
+Devidamente intimada, a parte recorrida não se manifestou (certidão fl. 805).
+É o relatório. Decido.
+Esta Corte Superior tem entendimento consolidado no sentido da inexistência de responsabilidade solidária da empresa de administração hoteleira pelo inadimplemento de contrato de promessa de compra e venda de unidades imobiliárias (apart hotel) pois não integra a cadeia de fornecimento relativa à incorporação formada pela sociedade empresária inadimplente.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA DE RECONHECIMENTO DE RESPONSABILIDADE SOLIDÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. "Deve ser reconhecida a ilegitimidade passiva e afastada a responsabilidade solidária da rede hoteleira pelo não adimplemento do contrato de promessa de compra e venda de unidades imobiliárias, porquanto não integra a cadeia de fornecimento relativa à incorporação formada pelas sociedades empresárias inadimplentes" (AgInt no AREsp 1555853/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020). Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 1.937.424/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023, g.n.)
+"RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA DE UNIDADE DE APART-HOTEL. PARALISAÇÃO DAS OBRAS. AÇÃO RESOLUTÓRIA. EMPREENDIMENTO ECONÔMICO. PREVALÊNCIA NO NEGÓCIO JURÍDICO. REDE HOTELEIRA. FUTURA ADMINISTRADORA DE SERVIÇOS DE HOTELARIA. ILEGITIMIDADE PASSIVA. PRECEDENTE. AGRAVO INTERNO PROVIDO.
+1. No julgamento do REsp 1.785.802/SP, a Terceira Turma do Superior Tribunal de Justiça, examinando situação idêntica, relativa ao mesmo empreendimento imobiliário, decidiu que "Deve ser afastada qualquer responsabilização solidária da recorrente pelo não adimplemento do contrato de promessa de compra e venda das unidades do apart-hotel, seja por não integrar a cadeia de fornecimento relativa à incorporação imobiliária, seja por não compor o mesmo grupo econômico das empresas inadimplentes, seja por também ter sido prejudicada, visto que sua pretensão de explorar o ramo hoteleiro na localidade foi tão frustrada quanto a pretensão da autora de ganhar rentabilidade com a aquisição e a locação das unidades imobiliárias" (Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/02/2019, DJe de 06/03/2019).
+2. De rigor, portanto, o reconhecimento da ilegitimidade passiva da recorrente, uma vez que não integrou a cadeia de fornecimento da incorporação imobiliária, apenas obrigando-se a administrar futuramente os serviços hoteleiros, ramo de sua expertise, após a conclusão do empreendimento por meio da formação de sociedade em conta de participação juntamente com os adquirentes.
+3. Agravo interno provido para dar provimento ao recurso especial."
+(AgInt no REsp n. 1.757.092/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/11/2019, DJe de 12/12/2019, g.n.)
+Assim, o acórdão recorrido, ao reconhecer a responsabilidade solidária da recorrente, sob o fundamento de que "resta claro que a adesão à oferta do empreendimento levou em conta o nome da empresa hoteleira, ora 2ª ré, devendo ser aplicada a teoria da aparência" (fl. 609), está em dissonância com a jurisprudência desta Corte Superior, impondo-se, portanto, reforma.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para reconhecer a ilegitimidade passiva da recorrente, afastando a responsabilidade solidária pelo inadimplemento do contrato de promessa de compra e venda da unidade imobiliária.
+Publique-se.
+EMENTA
