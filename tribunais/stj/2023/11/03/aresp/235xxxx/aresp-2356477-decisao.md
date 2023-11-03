@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto em face de acórdão de seguinte ementa (fl. 195):
+DIREITO CIVIL E PROCESSUAL  AÇÃO DE COBRANÇA  PROVA DOS AUTOS  MANUTENÇÃO DA SENTENÇA:  O alegado em apelação carece de comprovação fática nos autos, uma vez que o recorrente não trouxe elementos de prova da afirmação de que o valor teria sido depositado por outra pessoa que não o outrora autor. - A sentença não deve ser modificada, pois foi proferida em conformidade com a prova dos autos. RECURSO CONHECIDO E IMPROVIDO.
+Nas razões do recurso especial, a parte agravante alega que o acórdão recorrido violou os arts. 10 e 490 do Código de Processo Civil e os arts. 182 e 884 do Código Civil, bem como negou vigência ao art. 1.022 do CPC. Também sustenta divergência jurisprudencial com relação à "impossibilidade de declaração de nulidade ex officio" (fl. 206).
+Contrarrazões às fls. 213-222 .
+Juízo negativo de admissibilidade, que ensejou a interposição deste agravo (fls. 223-224).
+Assim posta a questão, passo a decidir.
+De início, verifico que os dispositivos supostamente violados não foram apreciados pelo Tribunal de origem, o que obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas 282 e 356 do Supremo Tribunal Federal e da Súmula 211 do Superior Tribunal de Justiça.
+Além disso, a Corte local, à luz das provas dos autos, entendeu que as alegações da parte ora agravante não foram comprovadas, consignando que " o  que restou efetivamente demonstrado foi que o depósito na conta do recorrente e que o bem objeto do contrato de compra e venda, ainda que verbal, não foi entregue conforme acertado" (fl. 197). Rever, portanto, as conclusões do Tribunal de origem demandaria o reexame do acervo fático-probatório dos autos, situação vedada pelo óbice da Súmula 7 do STJ.
+Por fim, não se pode conhecer do recurso quanto à alegação de dissídio jurisprudencial, por não ter sido atendido o requisito do art. 1.029, § 1º, do CPC, segundo o qual: "quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência  .. , devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados". Na hipótese, as provas da divergência não foram juntadas pela agravante , que também não realizou o devido cotejo analítico entre os julgados comparados. Inafastável, portanto, a incidência do enunciado da Súmula 284 do STF, por analogia.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
