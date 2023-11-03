@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração no agravo em recurso e special opostos por CENTRAIS ELETRICAS BRASILEIRAS S.A. contra decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INCIDÊNCIA DE JUROS MORATÓRIOS E REMUNERATÓRIOS NA DEVOLUÇÃO DO EMPRÉSTIMO COMPULSÓRIO. SÚMULA 83/STJ. JUROS REMUNERATÓRIOS. TERMO FINAL. DATA DA ASSEMBLEIA GERAL QUE DETERMINOU A CONVERSÃO EM AÇÕES. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA ELETROBRÁS (fl. 511).
+A parte embargante aponta omissão na decisão monocrática que deu parcial provimento ao seu recurso especial, sem, contudo, pronunciar-se sobre a verba honorária sucumbencial.
+Requer que sejam acolhidos os embargos de declaração a fim de suprir os vícios apontados.
+Impugnação às fls. 526/529.
+É o relatório.
+Trata-se de agravo de instrumento interposto na origem por Bruno Valério Sampaio e outros contra a decisão que rejeitou a impugnação ao cumprimento de sentença apresentada pela Eletrobras, que determinou a limitação dos juros remuneratórios até junho/2013 e previu que os juros remuneratórios e os juros moratórios seriam devidos até a extinção da obrigação pelo pagamento.
+Irresignada com o desfecho do agravo de instrumento, a Eletrobras interpôs recurso especial, ao qual foi dado parcial provimento para limitar a incidência de juros remuneratórios até a 143ª Assembleia Geral Extraordinária, de 30/6/2005, o que resultou no parcial acolhimento da impugnação ao Cumprimento de Sentença 5023693-71.2013.4.04.7000/PR.
+Segundo a jurisprudência desta Corte, havendo o acolhimento parcial da impugnação ao cumprimento de sentença, são devidos os honorários advocatícios de sucumbência. Precedentes: AgInt no AREsp 2.013.670/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022; AgInt nos EDcl no AgInt no AREsp 1.092.709/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022; REsp 1.134.186/RS, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 1º/8/2011, DJe de 21/10/2011 (julgado sob o rito dos recursos repetitivos).
+Destaco que neste caso não devem ser pagos honorários à parte embargante porque a discussão sobre a limitação dos juros remuneratórios à data da AGE entre as partes já foi objeto de apreciação nos autos do AREsp 2.030.884/PR, cujo provimento jurisdicional em favor da Eletrobras implicou no parcial acolhimento da impugnação ao Cumprimento de Sentença 5023693-71.2013.4.04.7000/PR, que também subsidia este processo.
+Naqueles autos, os embargos de declaração da Eletrobras foram acolhidos para fins de fixação de honorários sucumbenciais no importe de 10% sobre o proveito econômico obtido, de modo que não há que se falar, nesta oportunidade, em nova fixação de honorários sob pena de bis in ide m.
+Diante dessas considerações, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
