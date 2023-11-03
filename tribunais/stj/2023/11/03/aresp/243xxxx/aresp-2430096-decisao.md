@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7 do STJ e da impossibilidade de análise de violação de enunciado de súmula de Tribunal Superior (e-STJ fls. 197/201).
+O acórdão recorrido está assim ementado (e-STJ fl. 160):
+EMENTA: APELAÇÃO CÍVEL NA AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA DE BEM IMÓVEL. SENTENÇA DE EXTINÇÃO POR FALTA DE INTERESSE DE AGIR. CONTRATO DE AQUISIÇÃO DE IMÓVEL EM CONJUNTO HABITACIONAL FIRMADO COM A DATANORTE - COMPANHIA DE PROCESSAMENTO DE DADOS DO RIO GRANDE DO NORTE. CIÊNCIA DA CESSÃO DO CONTRATO. ASSINATURA DO TERMO DE QUITAÇÃO DA DÍVIDA EM NOME DA RECORRENTE CESSIONÁRIA. CONJUNTO HABITACIONAL DEPENDENTE DE REGULARIZAÇÃO FUNDIÁRIA. IMÓVEL NÃO INDIVIDUALIZADO. ÓBICES À ADJUDICAÇÃO E A OBRIGAÇÃO DE LAVRAR A ESCRITURA PÚBLICA. POSSIBILIDADE DE OBTENÇÃO DA PROPRIEDADE DO IMÓVEL POR VIA DA USUCAPIÃO OU APÓS REALIZAÇÃO DA REURB, COM A APRESENTAÇÃO DO CONTRATO FIRMADO E PROVA DA QUITAÇÃO. PREVISÃO DO ART. 41 DA LEI N. 6.766/1979. SENTENÇA DE EXTINÇÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso especial (e-STJ fls. 182/194), fundamentado no art. 105, III, "a", da CF, a recorrente alegou violação do art. 1.418 do CC/2002 e da Súmula n. 239/STJ, pois (e-STJ fl. 193):
+(..) a promessa de compra e venda, desde que comprovada a quitação integral do débito pelo promitente comprador, tem o condão de obrigar o promitente vendedor a garantir a outorga da escritura pública do seu bem imóvel, vez que se trata de direito com natureza pessoal, sem qualquer natureza real a impender a necessidade de manejar ação de usucapião, sobretudo para efetuar quaisquer regularizações fundiárias, sendo esse, inclusive, o entendimento pacífico dessa colenda Corte Superior, conforme alhures transcrito.
+No agravo (e-STJ fls. 202/206), declara a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+No que diz respeito à tese de violação da Súmula n. 239 do STJ, o recurso especial não constitui via processual apropriada para análise de ofensa a súmula, porque o verbete não se enquadra no conceito de "tratado ou lei federal" previsto no permissivo constitucional (art. 105, III, a), esbarrando, portanto, na Súmula n. 518/STJ.
+Em relação ao interesse processual, a Corte local decidiu que (e-STJ fls. 164/168):
+Notadamente, a COMPANHIA ESTADUAL DE HABITAÇÃO E DESENVOLVIMENTO URBANO - CEHAB reconhece que o imóvel pertence à apelante, entretanto a outorga da escritura pública não foi emitida desde 2008, data da quitação integral do imóvel, uma vez que o Conjunto Abolição IV na Cidade de Mossoró não está regularizado perante o cartório de registro de imóveis.
+Como é cediço, a regularização fundiária diz respeito a política urbana e integra o conteúdo da ordem urbanística, nos termos do que dispõe o inciso XIV, do art.2º, do Estatuto da Cidade, tratando-se de um direito difuso. Vejamos:
+(..)
+A seu turno, dispõe o art. 236 da Lei dos Registros Públicos que "nenhum registro poderá ser feito sem que o imóvel a que se referir esteja matriculado."
+A apelante aduz que o seu interesse de agir subsiste na condenação da DATANORTE -COMPANHIA DE PROCESSAMENTO DE DADOS DO RIO GRANDE DO NORTE na obrigação de emissão da escritura definitiva de compra e venda do imóvel, elemento essencial à transferência d direito real de propriedade do imóvel situado na Rua Tarcisio Correia, 18, Abolição IV, Mossoró-RN, CEP: 59.612-390, nos termos dos arts. 108,1.418 e1.245, § 1º, do Código Civil, abaixo transcritos:
+(..)
+Sucede que o imóvel nem sequer está individualizado.
+O Decreto nº 93.240/86 que regulamenta a Lei nº 7.433/85 que trata sobre os requisitos para a lavratura de escritura pública, dispõe sobre os documentos necessários para a lavratura de atos notariais, quais sejam, os de identificação das partes, comprovante do pagamento do ITBID, certidões fiscais e demais documentos e descrição de certidões exigidos por lei, dispensando-se, na escritura pública, a imóveis urbanos quando estas informações constem na Certidão do Cartório do Registro de Imóveis, nos termos a seguir transcritos:
+(..)
+E, nos exatos termos do art. 222 da Lei nº 6.015/1973 - Lei de Registros Públicos, "em todas as escrituras e em todos os atos relativos a imóveis, bem como nas cartas de sentença e formais de partilha, o tabelião ou escrivão deve fazer referência à matrícula ou ao registro anterior, seu número e cartório."
+Orienta o art. 225, § 1º,da Lei suso mencionada que nas escrituras e nos autos judiciais é necessária a descrição precisa das características, confrontações, localizações e nomes dos confrontantes do imóvel. Vejamos:
+(..)
+No caso em exame, não há a regularização fundiária e registraria do Conjunto habitacional Abolição IV e nem a individualização do imóvel.
+É evidente a ausência de utilidade prática do provimento vindicado pela recorrente, sendo possível à recorrente obter a propriedade do imóvel por meio da ação de usucapião, conforme decidiu o magistrado.
+Possível, a demais, após a regularização fundiária do conjunto habitacional, obter o registro de propriedade do lote adquirido, valendo para tanto o compromisso de venda e compra devidamente firmado, conforme permite o art. 41 da Lei n. 6.766/1979, cujo teor dispõe que: "Regularizado o loteamento ou desmembramento pela Prefeitura Municipal, ou pelo Distrito Federal quando for o caso, o adquirente do lote, comprovando o depósito de todas as prestações do preço avençado, poderá obter o registro de propriedade do lote adquirido, valendo para tanto o compromisso de venda e compra devidamente firmado".
+Conclui-se, portanto, não haver desacerto na sentença, uma vez ausente o interesse processual na propositura da ação de adjudicação compulsória, prevista no art.1.418,do CPC.
+O Tribunal de origem reconheceu a falta de interesse processual, visto que não há poss ibilidade de realizar a escritura de bem que não apresenta "regularização fundiária e registraria (..) e nem a individualização do imóvel" (e-STJ fl. 167). Para desconstituir a premissa estabelecida no acórdão recorrido, seria imprescindível a apreciação do conjunto das provas dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
