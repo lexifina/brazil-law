@@ -1,0 +1,10 @@
+DECISÃO
+Por meio da petição de fls. 1.817-1.837 , JOAQUIM FERRAZ DE ALMEIDA PRADO NETO, não se conformando com o julgado, vem requerer a sua reforma, uma vez que, segundo defende, seria contrária a legislação existente e ao entendimento majoritário do Superior Tribunal de Justiça.
+Afirma, para tanto, que "as decisões proferidas neste processo, invalidou (sic) o negócio jurídico perfeito, "CONTRATO DE PARCERIA AGRÍCOLA" sem mácula, sem vício, REGISTRADO EM CARTÓRIO, E RECONHECIDO FIRMA, contrato firmado em 01.03.2015, sendo a arrematação posterior ocorrida em 03.05.2018 , desfazendo o negócio jurídico, sem vício o que claramente comprova que foi precoce o presente julgamento e não conseguiu assim, delimitar uma decisão justa as partes, haja vista que a lei prevê o resguardo dos Direitos do contratante em caso de Contrato de Parceria Agrícola, sendo que a manutenção do julgado e o impedimento de análise do Recurso Especial, é totalmente impossível, uma vez que os Direitos apontados e pleiteados no presente Recurso estão previstos em legislação e na jurisprudência pátria, que atribuiu entendimento majoritário em todos os tribunais de justiça do nosso país" (fl. 1.818).
+É o relatório.
+Da análise dos presentes autos, verifica-se que, na sessão virtual do período de 5/9/2023 a 11/9/2023, a Col. Quarta Turma desta Corte, por unanimidade, nos termos do voto desta Relatoria, decidiu negar provimento ao agravo interno, no sentido de confirmar a decisão proferida pela Presidência do STJ, para não conhecer do agravo em recurso especial, ante o óbice da Súmula 284 do Supremo Tribunal Federal.
+Nesse diapasão, é inviável o conhecimento do pedido de análise do mérito recursal em expediente diverso do recurso próprio. Ademais, não obstante o fato de já ter ocorrido o julgamento do agravo interno, o recurso de embargos de declaração é que teriam o condão de integrar o acórdão de fls. 1.808- 1.812, publicado em 14/9/2023.
+Ante o exposto, nada a deferir.
+Certifique-se o trânsito em julgado.
+Publique-se.
+EMENTA
