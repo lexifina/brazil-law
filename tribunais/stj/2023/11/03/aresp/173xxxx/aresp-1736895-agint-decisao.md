@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por ITAU UNIBANCO S.A contra decisão monocrática, desta Relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+Nas razões recursais, pretende o afastamento dos óbices das Súmulas 283/STJ, 280/STF e 7/STJ, com base nos respectivos fundamentos a seguir: a) inexistir deficiência de fundamentação do recurso especial; b) ser desnecessário o exame de legislação municipal, para se concluir que houve violação ao art. 8º do CPC, 280/STF; e c) desnecessidade de reexame de matéria fático-probatória.
+Pretende "afastar a obrigação referente à observância do tempo máximo de atendimento, estendida, indevidamente, pelo Eg. Tribunal local, também aos caixas eletrônicos, diante da flagrante violação aos princípios da legalidade, razoabilidade e proporcionalidade." (fl. 561)
+Além disso, "defende-se que o valor da multa deve ser reduzido, bem como que é necessária a adequação de sua forma de incidência" (fl. 562).
+Devidamente intimado, o Ministério Público apresentou contrarrazões, sustentando em síntese, o não conhecimento e o não provimento do recurso da instituição bancária.
+É o relatório. Passo a decidir.
+Os autos do Recurso Especial 1.962.275/GO foram afetados ao rito do recurso especial repetitivo, cuja tese representativa da controvérsia foi delimitada nos seguintes termos: definir se a demora na prestação de serviços bancários superior ao tempo previsto em legislação específica gera dano moral individual in re ipsa apto a ensejar indenização ao consumidor, Tema 1156-STJ.
+Confiram-se a ementa:
+"PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETIVIVAS - IRDR. REPRESENTATIVO DA CONTROVÉRSIA. RITO DOS RECURSOS REPETITIVOS. DIREITO CIVIL E DO CONSUMIDOR. SERVIÇO BANCÁRIO. FILA. TEMPO DE ESPERA. LEGISLAÇÃO ESPECÍFICA EXORBITÂNCIA. DANO MORAL. PRESUNÇÃO. REPARABILIDADE.
+1. Delimitação da controvérsia: definir se a demora na prestação de serviços bancários superior ao tempo previsto em legislação específica gera dano moral individual in re ipsa apto a ensejar indenização ao consumidor.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015." (ProAfR no REsp n. 1.962.275/GO, relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/5/2022, DJe de 30/5/2022.)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada, tornando-a sem efeito, e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, p ara que, o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
+EMENTA
