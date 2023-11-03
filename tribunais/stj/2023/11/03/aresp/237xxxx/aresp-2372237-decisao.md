@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu o recurso especial de NEOENERGIA DISTRIBUIÇÃO BRASÍLIA S.A., interposto em face de acórdão assim ementado (fl. 2.563):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO DE REGRESSO. RESPONSABILIDADE CIVIL. ACIDENTE DE TRABALHO. FALECIMENTO DA VÍTIMA. CONDENAÇÃO SUBSIDIÁRIA NA JUSTIÇA DO TRABALHO. COISA JULGADA. NÃO OCORRÊNCIA. RELAÇÃO JURÍDICA DIVERSA. SENTENÇA CASSADA.
+1. A atribuição de responsabilidade subsidiária pela Justiça trabalhista não impede que, em Ação Regressiva, os responsáveis pelo dano discutam entre si o grau de culpa de cada um, repartindo os prejuízos de acordo com a efetiva concorrência para o dano. Isso porque a relação jurídica existente entre empregado e as sociedades empresárias que concorreram para o evento danoso é distinta da relação jurídica existente entre as referidas sociedades.
+2. Ainda que assim não fosse, a Sentença trabalhista reconheceu expressamente a responsabilidade solidária entre as sociedades empresárias que figuram na presente demanda. Todavia, fixou responsabilidade subsidiária da ora ré tão somente para não proferir Sentença além da pretensão formulada.
+3. Tratando-se de matéria complexa, com significativa repercussão financeira, afasta-se a aplicação da Teoria da Causa Madura, a fim de assegurar eventual dilação probatória e a garantia do duplo grau de jurisdição às partes, especialmente quando o feito sequer foi saneado na origem.
+4. Recurso conhecido e parcialmente provido. Sentença cassada. Prejudicado o recurso da parte ré.
+Consta dos autos que a parte agravada ajuizou ação de regresso em face da parte agravante. Na referida ação, postulou o ressarcimento de valores desembolsados nos autos de processo trabalhista em que foi condenada ao pagamento de pensão mensal vitalícia e à indenização por danos morais, decorrentes de acidente de trabalho que resultou em vítima fatal.
+O processo foi extinto no Juízo singular sem julgamento de mérito, em razão do reconhecimento da ocorrência de coisa julgada. A sentença foi cassada pelo Tribunal de origem, sendo determinado o retorno dos autos para regular processamento do feito. Os embargos de declaração opostos ao acórdão foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 504 e 1.022, I, do Código de Processo Civil.
+Considera nulo o acórdão recorrido, por vício na prestação jurisdicional decorrente de contradição, "na medida em que se reconheceu a responsabilidade subsidiária da Neoenergia em razão da determinação do juízo trabalhista no dispositivo de sentença, mas alegou que tal fato não se trata de coisa julgada" (fl. 2.621).
+Afirma que a sentença trabalhista, transitada em julgado, reconheceu na parte dispositiva a sua responsabilidade subsidiária. Defende que o acórdão combatido violou a coisa julgada, "uma vez que a recorrida requer a condenação da recorrente com base em uma suposta culpa - já discutida em ação diversa -, sem considerar os limites da responsabilidade imposta na ação trabalhista" (fl. 2.627).
+Argumenta, desse modo, que não ostenta responsabilidade solidária.
+Foram apresentadas contrarrazões.
+Juízo negativo de admissibilidade, ensejando a interposição do presente agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, no que diz respeito à suposta ofensa ao art. 1.022 do CPC/2015, verifico que não existe contradição na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido, senão vejamos.
+Acerca da questão controvertida, o Tribunal de origem assim se manifestou (fls. 2.568-2.569):
+Não prospera o entendimento externalizado pelo Juízo de origem.
+Explico.
+A responsabilidade civil subjetiva decorrente de acidente de trabalho é analisada à luz do Código Civil, de modo que, diante do estabelecido no artigo 942, todos que de alguma forma concorrem para a ocorrência do dano se tornam responsáveis solidários pela reparação. Trata-se de uma garantia conferida à vítima na medida em que pode demandar contra um ou mais causadores do dano, aumentando as chances de executar devedor solvente.
+Todavia, "Na via regressiva, a indenização atribuída a cada agente será fixada proporcionalmente à sua contribuição para o evento danoso", conforme entendimento doutrinário expressado através do Enunciado nº 453 da V Jornada de Direito Civil.
+Desta forma, a atribuição de responsabilidade, solidária ou subsidiária, na demanda principal não impede que, em Ação Regressiva, os responsáveis pelo dano discutam entre si o grau de culpa de cada um, repartindo os prejuízos de acordo com a efetiva concorrência para o dano.
+Isso porque a relação jurídica existente entre empregado e as sociedades empresárias que concorreram para o evento danoso é distinta da relação jurídica existente entre as referidas sociedades.
+(..) Portanto, equivocada a Sentença ao afirmar que o reconhecimento de responsabilidade subsidiária na Ação Trabalhista faz coisa julgada, impedindo aquele que foi condenado a reparar o dano de forma solidária a propor demanda regressiva contra aquele que foi condenado a reparar o dano de forma subsidiária.
+Ainda que assim não fosse, a Sentença trabalhista reconheceu expressamente a responsabilidade solidária entre as sociedades empresárias que figuram na presente demanda (ID 36529001 - Pág. 8). Todavia, fixou responsabilidade subsidiária da ora ré tão somente em razão do Princípio da Congruência, a fim de não proferir Sentença ultra petita. Vejamos:
+"A CALE e a CEB são solidárias no dano na forma do art. 942, parágrafo único do CC, mas como a delimitação da lide é pedido de responsabilidade subsidiária pelo dano causado, na forma do art. 141 do CC, fica a CEB como responsável subsidiária (quem pode o menos não pode o mais) pelos danos concedidos pela RH e CALE."
+Isto é, ao contrário do que concluiu o Juízo de origem, no âmbito do direito material, o Juízo trabalhista reconheceu a existência de responsabilidade solidária. Todavia, considerando as regras de direito processual, fixou a condenação de forma subsidiária, a fim de não proferir Sentença além da pretensão formulada. Assim, deve a Sentença ser cassada para regular processamento do feito.
+Observe-se que o afastamento da coisa julgada pela Corte distrital se assentou em dois fundamentos: i) a atribuição de responsabilidade solidária ou subsidiária na demanda principal não impede a discussão do grau de responsabilidade em ação regressiva, tendo em vista que a relação jurídica entre o empregado e a recorrida é distinta da que foi formada entre as partes dos presentes autos; ii) a sentença trabalhista reconheceu expressamente a responsabilidade solidária entre as sociedades empresárias litigantes, reconheceu, entretanto, a responsabilidade subsidiária da ré, ora agravante, em observância ao princípio da adstrição.
+Nas razões do recurso especial, a parte agravante limita-se a alegar que o acórdão é contraditório e que o Tribunal de origem desconsiderou o alcance da parte dispositiva da sentença trabalhista, transitada em julgado, que reconheceu a sua responsabilidade subsidiária. Ao fazê-lo, todavia, deixa de impugnar fundamento autônomo para o afastamento da coisa julgada - o de que a atribuição de responsabilidade subsidiária na demanda principal não impede a discussão do grau de responsabilidade das partes em ação regressiva, por ser distinta a relação processual entre as partes do processo trabalhista e a dos presentes autos - que, por si só, autoriza a manutenção da condenação.
+Logo, incide, por analogia, o óbice da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Ademais, observa-se que a conclusão do Tribunal local guarda consonância com a orientação jurisprudencial do STJ, no sentido de que os efeitos da decisão judicial limitam-se às partes envolvidas na relação processual, afastando-se do âmbito da coisa julgada a relação com terceiros.
+Acerca do tema, "É firme a jurisprudência do STJ no sentido de que, em relação aos limites objetivos da coisa julgada, haverá o óbice da coisa julgada material para ajuizamento de nova ação quando se constatar a existência da tríplice identidade - partes, causa de pedir e pedido - considerando-se que a alteração de qualquer uma modificará a ação e afastará o pressuposto processual negativo objetivo da coisa julgada" (REsp n. 1.778.638/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/8/2022, DJe de 7/11/2022).
+Confiram-se, a propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA. TRÍPLICE IDENTIDADE. INEXISTÊNCIA. ALTERAÇÃO DO PEDIDO. IMPOSSIBILIDADE. INTIMAÇÃO PESSOAL. PERÍCIA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ÔNUS DA PROVA. CULPA DO AUTOR. FALSIDADE DA ASSINATURA. PRECLUSÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Segundo o entendimento desta Corte, para o reconhecimento da coisa julgada, é necessária a tríplice identidade - mesmas partes, mesma causa de pedir e mesmo pedido -, o que não ocorreu.
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.038.636/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/8/2023, DJe de 28/8/2023.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. ARBITRAMENTO DE HONORÁRIOS. AUSÊNCIA DE PEDIDO. JULGAMENTO EXTRA PETITA. CONFIGURAÇÃO.
+ ..
+3. A coisa julgada verifica-se quando se reproduz ação anteriormente ajuizada (art. 337, § 1º, do CPC/2015). Isto é, quando presente a tríplice identidade: mesmas partes, mesma causa de pedir e mesmo pedido. Assim, sendo distintos a causa de pedir e os pedidos, inexiste em violação à coisa julgada.
+ ..
+7. Recurso especial conhecido e parcialmente provido.
+(REsp n. 1.989.089/MT, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/4/2022, DJe de 28/4/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À ARREMATAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO EMBARGANTE.
+ ..
+3. Os efeitos da sentença - que não se confundem com a coisa julgada e seus limites subjetivos - podem atingir aqueles que não figuraram como parte na relação jurídica processual. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.606.710/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2019, DJe de 7/10/2019.)
+Seria, portanto, caso de aplicação do Verbete sumular 83 desta Corte Superior.
+Em face do exposto, nego provimento ao recurso .
+Intimem-se.
+EMENTA
