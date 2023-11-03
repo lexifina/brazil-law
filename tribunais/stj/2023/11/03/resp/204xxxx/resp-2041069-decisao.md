@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por Luiz Gonzaga dos Santos Barros, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do maranhão, assim ementado (fls. 1.145/1.146):
+AGRAVO INTERNO. DECISÃO UNIPESSOAL QUE NÃO CONHECE DO APELO POR INTEMPESTIVIDADE. PEDIDO DE REFORMA BASEADO EM DOCUMENTO ALHEIO AOS AUTOS. VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA. INOCORRÊNCIA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+I - Busca o recorrente a reconsideração da decisão agravada, para tanto, defende ser tempestivo o recurso de apelação, afirmando que o recurso de apelação foi interposto tempestivamente via Correios (AR com código e rastreamento DY289416492BR) na data de 26/10/2018 (prazo final), tendo o mesmo chegado à secretaria da 1 a Vara de Grajaú apenas em 30 de outubro de 2018, para comprovar juntou documento de folha 529.
+II - No caso em tela, a sentença fora publicada no Diário da Justiça em 04/10/2018, com trânsito em julgado em 2 7 / 1 0/2018, conforme,9ertidão acostada às folhas 506, mas o recurso de 4fação fora interposto na data de 31/10/2018, folha 5-v, quando o prazo final ocorreu em 26/10/2018, desrespeitando o prazo fatal. Portanto, o Apelo é manifestamente intempestivo, não havendo que se falar em violação ao princípio da não surpresa em razão de se ter negado seguimento a recurso flagrantemente intempestivo.
+III - Por outro lado, o documento que o agravante ora colaciona, folhas 529, não consta nos autos, não podendo, assim, ser examinado como prova nesse momento, ainda mais por existir uma certidão às folhas 506, dando conta de que o recurso de apelação é intempestivo, sendo o este documento lavrado por servidor detentor de fé pública, nos termos dos artigos 423 a 425 do CPC.
+Destarte, em nenhum momento a referida certidão foi impugnada, vez que a parte teria o prazo de 15 dias contados da juntada do documento nos autos, nos termos do artigo 430 do Código de Processo Civil, surgindo o instituto da preclusão.
+IV - Assim, entende-se que a decisão recorrida está em perfeita consonância com a jurisprudência desse Tribunal de Justiça, não havendo que se falar em reconsideração ou reforma.
+Agravo Interno improvido.
+O recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 10, 489, 1.003 e 1.022 do CPC. Sustenta, em síntese, o seguinte:
+ ..
+No presente caso, o Relator não concedeu oportunidade ao Apelante para demonstrar a tempestividade de seu recurso. Caso tivesse oportunizado a manifestação do ora Agravante, o equívoco acerca da aferição da tempestividade em razão da interposição de recurso via correios poderia ter sido sanado. Evitando assim a decisão monocrática de não conhecimento do recurso por suposta ausência de requisito de admissibilidade dele.
+O prazo para interpor o recurso de apelação no presente processo terminou em 26/10/2018. Em respeito ao prazo, o recurso foi interposto no último dia deste (prazo) em 26/10/2018, e não em 31/10/2018 como afirma no trecho da decisão monocrática.
+Ocorre que o Recurso de Apelação foi interposto via correios na data de 26/10/2018 (data da postagem), conforme consta no Aviso de Recebimento acostado à fl. 529 dos autos e não conhecido pelo TJMA, por entender que não poderia ter sido juntado naquele momento.
+ ..
+Portanto, houve um equívoco na análise dos requisitos de admissibilidade do recurso de apelação, tendo em vista que, não foi observado a data da postagem do recurso para aferir a tempestividade dele, mas sim (erroneamente) foi considerada a data do recebimento do recurso em 31/10/2018.
+ ..
+Embora o Recorrente tenha interposto Agravo Interno e Embargos de Declaração, com a finalidade de demonstrar que na primeira oportunidade que teve ciência foi providenciada a juntada do AR da postagem, os Embargos optaram por não apreciar a questão, tendo sido utilizada fundamentação manifestamente genérica. Tal circunstância (não enfrentamento de questão posta com o condão de infirmar a tese do julgado) causa a ofensa ao art. 1022 do CPC. Motivo há mais para a anulação do Acórdão.
+ ..
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer de lavra do Subprocurador-Geral da República Eitel Santiago de Brito Pereira, opinou pelo não conhecimento do recurso (fls.1.265/1.268).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o art. 1.003, § 4º, do CPC, "para aferição da tempestividade do recurso remetido pelo correio, será considerada como data de interposição a data de postagem".
+No entanto, de acordo com a firme jurisprudência do Superior Tribunal de Justiça, a parte deve demonstrar a tempestividade do recurso no momento da sua interposição, não se admitindo a comprovação posterior. Nessa linha de percepção, menciono os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. POSTAGEM DO RECURSO PELOS CORREIOS. DEMONSTRAÇÃO DA TEMPESTIVIDADE NO ATO DA INTERPOSIÇÃO. IMPOSSIBILIDADE DE FAZÊ-LO EM MOMENTO POSTERIOR. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. NÃO ACOLHIMENTO. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 1.003, § 4º, do CPC, para a aferição da tempestividade do recurso remetido pelos Correios, será considerada como data de interposição o dia de postagem.
+2. Se a parte não demonstrou, no ato da interposição, a tempestividade do recurso, não pode fazê-lo em momento posterior, conforme iterativos julgados desta Corte Superior, em pronunciamentos de todas as quatro Turmas que julgam questões processuais civis.
+3. A jurisprudência do Superior Tribunal de Justiça não admite a majoração de honorários de sucumbência por ocasião do julgamento de agravo interno, tendo em vista que a interposição do mencionado recurso não inaugura nova instância.
+4. Consoante entendimento desta Corte, "a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo" (EDcl no AgInt no AREsp 1.704.723/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/06/2021, DJe 22/06/2021).
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.147.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/3/2023, DJe de 13/3/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. INTEMPESTIVIDADE DO RECURSO ESPECIAL. POSTAGEM NA AGÊNCIA DOS CORREIOS. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal. In casu, o recurso foi interposto após o transcurso do prazo legal, sendo, portanto, intempestivo.
+2. O agravante afirma que não deve ser a data do protocolo de entrada do recurso na Corte de origem a ser considerada para fins de tempestividade, mas sim a data de envio do recurso pelos Correios.
+Contudo, por ocasião da interposição do recurso especial não foi apresentada prova da data de postagem nos Correios.
+3. Com efeito, "o art. 1.003, § 4º, do CPC/15, na hipótese de recurso remetido pelo correio, considera-se que sua interposição se deu na data da postagem; entretanto, esta Corte tem entendimento de que cabe à parte recorrente demonstrar a tempestividade no ato da interposição do recurso." (AgInt no REsp 1.844.852/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 18/9/2020).
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 1.785.526/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/4/2021, DJe de 9/4/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. INTEMPESTIVIDADE DO RECURSO ESPECIAL. POSTAGEM NA AGÊNCIA DOS CORREIOS. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do CPC/2015, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado 3 do STJ.
+2. É intempestivo o recurso especial interposto fora do prazo de 30 dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 219, caput, todos do Código de Processo Civil. In casu, o recurso foi interposto após o transcurso do prazo legal, sendo, portanto, intempestivo.
+3. A parte recorrente argumenta que não deve ser a data do protocolo de entrada do recurso na Corte de origem a ser considerada para fins de tempestividade, mas sim a data de envio do recurso pelos Correios. Contudo, por ocasião da interposição do recurso especial não foi apresentada prova da data de postagem nos Correios.
+4. Com efeito, "o art. 1.003, § 4º, do CPC/15, na hipótese de recurso remetido pelo correio, considera-se que sua interposição se deu na data da postagem; entretanto, esta Corte tem entendimento de que cabe à parte recorrente demonstrar a tempestividade no ato da interposição do recurso." (AgInt no REsp 1.844.852/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 18/9/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.861.158/AC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/3/2021, DJe de 17/3/2021)
+Nesse contexto, incide a Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Convém ressaltar que, como consequência lógica da impossibilidade da comprovação da tempestividade após a interposição do recurso, não há falar de ofensa ao princípio da não surpresa, na espécie.
+Ademais, não ocorreu violação aos arts. 489 e 1.022 do CPC, pois a Corte de origem examinou e decidiu a controvérsia, mediante decisão devidamente fundamentada, não sendo possível confundir decisão contrária aos interesses da parte com ausência de fundamentação ou omissão.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
