@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se recurso especial interposto pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, com fundamento no art. 105, III, alínea a, da Constituição Federal de 1988, contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM FAVOR DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS. IMPOSSIBILIDADE. ARGUIÇÃO DE INCONSTITUCIONALIDADE DE LEI ACOLHIDA PELO ÓRGÃO ESPECIAL DO TJGO. SENTENÇA MANTIDA
+I - No julgamento dos embargos de declaração na arguição de inconstitucionalidade nº 5113935-10.2019.8.09.0011, o Órgão Especial do TJGO declarou a inconstitucionalidade do art. 4º, XXI, da Lei Complementar 80/1994, edo art. 1º da Lei Estadual 17.654/2012, as quais preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual.
+II - Assim, seguindo-se a determinação inserta no julgamento do referido incidente, deve ser mantida a sentença que afastou a condenação da Fazenda Pública Municipal ao pagamento dos honorários advocatícios em favor da Defensoria Pública do Estado de Goiás.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA (fl. 117).
+Não foram opostos embargos de declaração.
+Em seu recurso especial, a parte recorrente aponta violação ao art. 4º, XXI, da Lei Complementar Federal 80/1994.
+Sustenta:
+(i) que "depreende-se que o Tribunal de origem entendeu por afastar a condenação do vencido em honorários sucumbenciais em favor da Defensoria Pública, contrariando, assim, o que disposto na Lei Complementar Federal n. 80/1994, que é expressa ao determinar a imposição de honorários em favor da Defensoria Pública nos processos em que ela logra êxito, consubstanciando-se em verdadeira função institucional da Defensoria Pública" (fl. 131);
+(ii) que "o caso concreto trata-se de fixação de honorários sucumbenciais a serem arcados pelo município, ente federativo diverso à Defensoria Pública do Estado. Desse modo, não se enquadra especificamente no TEMA 1002 do STF, o qual se discute, à luz do art., 134, §§ 2º e 3º, da Constituição da República, se a proibição de recebimento de honorários advocatícios pela Defensoria Pública, quando represente litigante vencedor em demanda ajuizada contra o ente ao qual é vinculada, viola a sua autonomia funcional, administrativa e institucional (superação do enunciado sumular 421 do STJ)" (fl. 134); e
+(iii) que é "imperiosa a menção do Tema Repetitivo n. 129 do STJ, de 2009, o qual firmou a tese de que cabe à Defensoria Pública honorários advocatícios contra ente federativo diverso: "Reconhece-se à Defensoria Pública o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso do qual é parte integrante" (fl. 134).
+Contrarrazões às fls. 140/142.
+É o relatório.
+No caso em tela, o acórdão recorrido asseverou que:
+Depreende-se dos autos que o cerne da questão consiste em analisar a legalidade do capítulo da sentença que não fixou os honorários advocatícios em razão do recente entendimento do Tribunal de Justiça do Estado de Goiás, exarado no julgamento do processo nº5113935.10.2019.8.09.0011, que declarou a inconstitucionalidade do artigo 4º, inciso XXI, da Lei complementar n. 80/1994, e do artigo 1º da Lei Estadual n. 17.654/2012, que preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública.
+A tese recursal, em suma, consiste na inaplicabilidade da decisão proferida no processo nº 5113935-10.2019.8.09.0011 e constitucionalidade da fixação de honorários em favor da Defensoria Pública.
+Inicialmente, importa frisar que no julgamento dos embargos de declaração na arguição de inconstitucionalidade nº 5113935-10.2019.8.09.0011, o Órgão Especial desta Corte declarou a inconstitucionalidade do art. 4º, XXI, da Lei Complementar 80/1994, e do art. 1º da Lei Estadual 17.654/2012, as quais preveem a fixação de honorários sucumbenciais em favor da Defensoria Pública Estadual (fl. 119).
+Verifico que o acórdão recorrido diverge do entendimento fixado pela Corte Especial do Superior Tribunal de Justiça, segundo a qual "reconhece-se à Defensoria Pública o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso do qual é parte integrante" (Tema 129).
+Considerando que no caso em tela a atuação da Defensoria do Estado de Goiás é contra o Município e, portanto, contra ente federativo diverso, reconheço o direito à percepção de honorários.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA. CÓDIGO CIVIL, ART. 381 (CONFUSÃO). PRESSUPOSTOS.
+ ..
+4. A contrario sensu, reconhece-se o direito ao recebimento dos honorários advocatícios se a atuação se dá em face de ente federativo diverso, como, por exemplo, quando a Defensoria Pública Estadual atua contra Município.
+5. Recurso especial provido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC e à Resolução nº 8/2008-STJ. (REsp n. 1.108.013/RJ, relatora Ministra Eliana Calmon, Corte Especial, j. 03.06.2009, DJe de 22.06.2009.)
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INAPLICABILDIADE DO RECURSO ESPECIAL REPETIVIO N. 1.657.156/RJ, EM FACE DA MODULAÇÃO DOS EFEITOS. IMPRESCINDIBILIDADE DO FÁRMACO DEMONSTRADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. MULTA DIÁRIA. REDUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ.
+ ..
+5. O acórdão recorrido está em consonância com o entendimento deste STJ externado no Resp 1.108.013/RJ (Tema 129), no sentido de que os honorários advocatícios para a Defensoria Pública são devidos quando esse órgão litiga contra ente diverso do qual faz parte. Ademais, não houve o devido prequestionamento das teses trazidas no recurso.
+6 . Agravo interno não provido. (AgInt no REsp n. 1.625.164/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA INTEGRANTE DE ENTE FEDERATIVO DIVERSO. CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.108.013/RJ. CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. São devidos honorários advocatícios à Defensoria Pública quando a atuação se dá em face de ente federativo diverso do qual é parte integrante (REsp 1.108.013/RJ, submetido à sistemática prevista no art. 543-C do CPC/1973). Cabível, portanto, a condenação do Estado de Pernambuco ao pagamento da verba honorária à Defensoria Pública da União.
+2. A jurisprudência desta Corte Superior é no sentido de que, em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+3. Agravo interno não provido. (AgInt no REsp n. 1.786.806/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/8/2019, DJe de 14/8/2019.)
+Ante o exposto, dou provimento ao recurso especial para determinar que a Corte de origem fixe os honorários sucumbenciais.
+Publique-se. Intimações necessárias.
+EMENTA
