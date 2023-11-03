@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por GABRIEL AUGUSTO DOS SANTOS PINTO, com fundamento no art. art.  105,  inciso III,  alínea a,  da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO assim ementado:
+Processual civil - Ação Ordinária de anulação de ato administrativo cumulada com reintegração e condenação ao pagamento de vencimentos - Alegada decisão administrativa desvinculada das provas dos autos, cerceamento de defesa, fundamentação precária, violação à teoria dos motivos determinantes e à proporcionalidade. Máculas não vislumbradas - NEGADO PROVIMENTO ao recurso (fls. 182/183).
+Nas razões do recurso especial, aduz a parte ora agravada a ocorrência de violação aos arts. 11, 15 e 85 do CPC.
+Argumenta que: (a) "das análises das decisões tomadas em sede de Processo Administrativo e demais decisões judiciais constantes dos autos, tanto da sentença como do Acórdão, resta clara a não observância da citada motivação, requisito de validade de qualquer decisão judicial, consoante lei federal citada" (fl. 213); e que, (b) "ademais ao majorar o valor da sucumbência do recorrente em 100% em segundo grau, restou violado o art. 85 § 8º do NCPC" (fl. 213).
+Foram apresentadas contrarrazões (fls. 219/223).
+O recurso foi parcialmente admitido (fls. 224/228).
+Às fls. 236/239, o Ministro Napoleão Nunes Maia Filho deu provimento ao recurso especial para fixar a verba honorária no percentual mínimo sobre o proveito econômico obtido, nos termos do art. 85, § 3º, do Código de Processo Civil.
+Contra aquela decisão o particular opôs embargos de declaração, os quais foram rejeitados (fls. 257/260).
+Contra a mesma decisão foi interposto o agravo interno ora examinado, no qual a parte recorrente, FAZENDA DO ESTADO DE SÃO PAULO, alega que, "no decisum ora embargado, V. Exa. deu parcial provimento ao recurso especial do particular para fixar a verba honorária no percentual mínimo sobre o proveito econômico obtido, nos termos do art. 85, § 3º, do CPC/2015. Ocorre que, em razão da natureza da matéria controvertida (ação anulatória de demissão de agente policial), não há proveito econômico diretamente obtido na ação, o que atrai a incidência do § 8º, do CPC/2015" (fl. 245).
+É o relatório.
+Diante das alegações da parte ora agravante, reconsidero a decisão agravada e passo ao reexame do recurso especial.
+A questão debatida nos autos, qual seja, a "possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, §8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes", encontra-se afetada para ser decidida sob o regime de repercussão geral pelo Supremo Tribunal Federal (Tema 1.255 - RE 1.412.069).
+A admissão de recurso como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no STF, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC.
+Ante o exposto, reconsidero a decisão de fls. 257/260 e determino a devolução d os autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC, após a publicação do acórdão do recurso representativo da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC.
+Publique-se. Intimações necessárias.
+EMENTA
