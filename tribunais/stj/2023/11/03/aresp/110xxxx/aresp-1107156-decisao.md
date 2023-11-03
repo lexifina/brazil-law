@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por H. BETTARELLO CURTIDORA E CALÇADOS LTDA - EM RECUPERAÇÃO JUDICIAL em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo interno. Interposição contra decisão monocrática que negou provimento a agravo de instrumento. Argumentações que não veiculam outras teses além daquelas já apreciadas e decididas, caracterizando mera reiteração. Decisão mantida. Recurso não provido." (fl. 209)
+A recorrente aponta ofensa aos arts. 620 do CPC/73 e 47 da Lei n. 11.101/2005, sustentando, em síntese, (a) "o v. acórdão recorrido acabou por vulnerar nitidamente o conteúdo exposto no artigo supra, que salvaguarda o princípio da preservação e da função social da empresa, uma vez que a eventual constrição de ativos financeiros da recorrente pode comprometer seu capital de giro e, por consequência, a própria continuidade das suas atividades empresariais" (fl. 224) e (b) "a recusa da recorrida ao bem móvel oferecido à penhora pela recorrente, em valor mais do que suficiente para garantir o juízo, com a única justificativa de não observância da ordem prevista no artigo 655 do CPC, atual artigo 835 do Novo Código de Processo Civil, demonstra claramente afronta ao princípio da menor onerosidade esculpido no atual artigo 805 do Novo Código de Processo Civil" (fl. 231).
+Sem contrarrazões.
+É o relatório.
+De início, observa-se que a controvérsia sobre a possibilidade de penhora de ativos de empresa sob recuperação judicial não foi debatida à luz do disposto no art. 47 da Lei n. 11.101/2005. Aliás, não houve uma só referência à condição especial da empresa ora recorrente, sob processo recuperacional.
+Incide, portanto, o óbice das Súmulas 282 e 356/STF.
+Quanto ao mais, o acórdão encontra-se em conformidade com o entendimento do STJ, de que " o  art. 835 do CPC/2015 estabelece a ordem de preferência da penhora, sendo que o dinheiro, em espécie ou em depósito ou aplicação em instituição financeira, ocupa o primeiro lugar, justamente pelo fato de conferir maior liquidez ao processo de execução" (AgInt no REsp n. 1.596.683/MT, relator Ministro Antonio Carlos Ferreira, relator para acórdão Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2023, DJe de 15/6/2023.).
+Restou legítima, portanto, a recusa da exequente em aceitar como objeto de penhora máquina do ativo mobiliário da empresa.
+Ademais, "a revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ" (AgInt no AREsp n. 2.036.419/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
