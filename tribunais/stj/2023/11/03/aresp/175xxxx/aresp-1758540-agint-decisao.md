@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto por MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão monocrática, desta Relatoria, que conheceu do agravo para dar provimento ao recurso especial interposto por BANCO SANTANDER (BRASIL) S.A. - ora agravado.
+Nas razões recursais, a parte ora agravante sustenta o seguinte: "a configuração de dano moral coletivo indenizável em situações nas quais os consumidores são submetidos a prolongada espera para receberem o atendimento nas agências bancárias, em razão da perda injusta e intolerável de seu tempo" (fl. 995).
+Ao final, requer a reforma da decisão agravada pela Turma Julgadora.
+Devidamente intimada, a parte agravada apresentou contrarrazões, sustentando em síntese, o não conhecimento e o não provimento do recurso interno.
+É o relatório. Passo a decidir.
+Os autos do Recurso Especial 1.962.275/GO foram afetados ao rito do recurso especial repetitivo, cuja tese representativa da controvérsia foi delimitada nos seguintes termos: definir se a demora na prestação de serviços bancários superior ao tempo previsto em legislação específica gera dano moral individual in re ipsa apto a ensejar indenização ao consumidor. , Tema 1156 - STJ. Confira-se a ementa:
+"PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETIVIVAS - IRDR. REPRESENTATIVO DA CONTROVÉRSIA. RITO DOS RECURSOS REPETITIVOS. DIREITO CIVIL E DO CONSUMIDOR. SERVIÇO BANCÁRIO. FILA. TEMPO DE ESPERA. LEGISLAÇÃO ESPECÍFICA EXORBITÂNCIA. DANO MORAL. PRESUNÇÃO. REPARABILIDADE.
+1. Delimitação da controvérsia: definir se a demora na prestação de serviços bancários superior ao tempo previsto em legislação específica gera dano moral individual in re ipsa apto a ensejar indenização ao consumidor.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015." (ProAfR no REsp n. 1.962.275/GO, relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 24/5/2022, DJe de 30/5/2022.)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada, tornando-a se m efeito, e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
+EMENTA
