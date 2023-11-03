@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Hélio Augusto Baldanza Coelho contra decisão que negou provimento ao agravo em recurso especial, sob os seguintes fundamentos: (I) ausência de violação ao art. 1.022, I e II, do CPC; e (II) de que o afastamento das conclusões do acórdão, quanto à análise da coisa julgada, demandaria o exame do acervo fático-probatório constante dos autos, providência vedada nos termos da Súmula 7/STJ.
+Alega a parte embargante que restou omisso o julgado, sob a alegação de que "com relação à Súmula 7/STF o único fundamento recursal analisado pela decisão foi a distinção entre a ação mandamental e a ação coletiva, a qual demanda a análise da coisa julgada e os objetos de cada uma das ações em questão. Em consequêcia, a decisão monocrática deixou de analisar a tese subsidiária de violação do art. 927, V do CPC, segundo a qual, permanecendo inalteradas as premissas quanto à identidade entre as demandas, seria obrigatória a adoção da posição fixada no EAREsp 600.811/SP (DJe07/02/2020) (..) por coerência, se, como afirma o r. acórdão, os elementos da tríplice identidade estão presentes (partes, pedido e causa de pedir), impõe-se a solução pela aplicação do precedente vinculante expresso no EAREsp 600.811/SP que determina a prevalência da última decisão transitada em julgado" (fl. 1.845/1.847).
+As razões do recurso não foram impugnadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Conforme asseverado na decisão recorrida, destaca-se do acórdão proferido pelo Tribunal de origem a seguinte fundamentação quanto à ocorrência de coisa julgada, bem como quanto a não aplicação do precedente firmado no EAREsp 600.811-SP, verbis (fls. 1.650/1.662):
+O caso concreto abrange dois títulos executivos, um coletivo e um individual, ambos sobre as diferenças de RAV devidas aos Técnicos do Tesouro Nacional.
+Contudo, a ação individual (Mandado de Segurança) foi impetrada antes da Ação Coletiva, de sorte que não se fez possível, na prática, o requerimento de suspensão previsto no CDC, pelo que resta inaplicável o disposto em seu art. 104.
+(..)
+Coisa julgada
+Inaplicáveis tanto o disposto no art. 104 do CDC, como a renúncia tácita aos efeitos da ação coletiva, resta saber se estaria caracterizada a ofensa ao instituto da coisa julgada.
+Como referido, ambas as demandas, individual e coletiva, têm por objeto diferenças a título de Retribuição Adicional Variável devidas aos Técnicos do Tesouro Nacional, devidas pelo afastamento da Resolução CRAV001/95.
+(..)
+Esta Corte Regional reconhece a eficácia preclusiva da coisa julgada quando o pedido final das demandas for o mesmo, embora a abordagem/fundamentação possa ser distinta, verbis: (..).
+Do relato efetuado no item 1 desta fundamentação, percebe-se que as demandas em comento têm, em última análise, identidade de seu principal fundamento, eis que buscam o direito ao pagamento da RAV nos moldes da MP nº 831/95 como decorrência do afastamento da Resolução CRAV nº 001/95,com manutenção do pagamento da RAV no limite de até oito vezes o equivalente ao vencimento básico dos Técnicos do Tesouro Nacional.
+Destarte, inegável que as demandas em questão versam sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, ainda que com abordagem/fundamentação parcialmente distinta, de maneira que se operou a coisa julgada quanto à matéria, porém apenas em parte, no tocante ao período em comum, ou seja, a partir de 07/1996.
+(..)
+Versando ambas as demandas, individual e coletiva, sobre a mesma matéria, e rejeitado na ação mandamental o direito às diferenças de RAV (por acórdão transitado em julgado), não poderá o exequente se aproveitar do título executivo coletivo, sob pena de ofensa à coisa julgada formada em ação específica (individual).
+(..)
+Diante da existência de coisa julgada desfavorável à pretensão ora posta, a gerar a ilegitimidade da parte exequente para a execução do título executivo formado na Ação Coletiva nº 2001.34.00.002765-2, há de ser extinto o cumprimento de sentença, nos termos dos artigos 330, II, e 924, I, ambos do CPC/2015, por ausência de condição da ação.
+Entretanto, como já referido, existindo parcela do período postulado na Ação Coletiva que não está abrangida pelo período objeto do Mandado de Segurança e considerados os termos da parte que se manteve do acordo celebrado entre os litigantes, é possível o prosseguimento do cumprimento de sentença quanto aos valores relativos ao meses de janeiro a junho/96.
+Esta julgadora não está alheia ao entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, segundo a qual há de prevalecer a que transitar em julgado por último, desde que não desconstituída por ação rescisória (STJ, Embargos de Divergência em Agravo em Recurso Especial nº600.811/SP, Relator Ministro OG Fernandes, Corte Especial, DJe 07/02/2020). Contudo, salvo melhor juízo, tais casos dizem respeito a repetições de ações entre os mesmos litigantes, ou seja, demandas totalmente idênticas (grifo nosso).
+Nesse contexto, ficou devidamente consignado na decisão embargada que "a alteração das conclusões adotadas pela Corte de origem, a fim de afastar a coisa julgada reconhecida pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (fl. 1.839).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões/contradições do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018).
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
+EMENTA
