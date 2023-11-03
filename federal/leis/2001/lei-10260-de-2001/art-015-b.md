@@ -1,0 +1,1 @@
+Art. 15-B. O descumprimento das obrigações de reter e repassar o valor da amortização mensal do financiamento do Fies ensejará a aplicação, pelo Ministério da Educação, de multa equivalente ao dobro do valor total devido.

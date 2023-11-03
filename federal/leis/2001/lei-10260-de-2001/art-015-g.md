@@ -1,0 +1,1 @@
+Art. 15-G. As condições de concessão do financiamento ao estudante serão definidas entre o agente financeiro operador do crédito, a instituição de ensino superior e o estudante, obedecidos os critérios estabelecidos pelo Conselho Monetário Nacional.

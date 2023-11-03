@@ -1,0 +1,1 @@
+Art. 20-G. A instituição financeira pública federal que exercer as atribuições previstas no § 3º do art. 3º desta Lei também será responsável pela administração do FGeduc dos financiamentos formalizados até o segundo semestre de 2017.

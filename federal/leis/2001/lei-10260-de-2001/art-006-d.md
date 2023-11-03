@@ -1,0 +1,1 @@
+Art. 6º-D. Nos casos de falecimento ou invalidez permanente do estudante financiado pelo Fies, o saldo devedor será absorvido por seguro prestamista obrigatório, a ser contratado pelo estudante logo após a assinatura do contrato de financiamento do Fies, no prazo estabelecido no contrato de financiamento, exceto quanto aos contratos firmados até o segundo semestre de 2017.

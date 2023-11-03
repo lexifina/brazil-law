@@ -1,0 +1,1 @@
+Art. 15-H. Na hipótese de verificação de inadimplência do estudante com o financiamento a que se refere o art. 15-D desta Lei ou de inidoneidade cadastral após a assinatura do contrato, o agente financeiro operador do crédito poderá suspender o financiamento até a comprovação da restauração da adimplência ou da idoneidade, respeitado o prazo de suspensão temporária do contrato.
