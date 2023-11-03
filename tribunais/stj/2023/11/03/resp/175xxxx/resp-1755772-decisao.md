@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONSTRUTORA CIDADE VERDE LTDA, com fundamento do art. 105, III, "a" e "c" , da Constituição Federal, contra acórdão do TJ-PR, assim ementado:
+"APELAÇÕES CÍVEL. AGRAVO RETIDO. EMBARGOS À EXECUÇÃO. OBRIGAÇÃO DE DAR COISA CERTA. IMÓVEL OBJETO DE DAÇÃOEM PAGAMENTO DE SERVIÇOS DE CORRETAGEM. SENTENÇA PARCIALMENTE PROCEDENTE. PEDIDO EXPRESSO DE APRECIAÇÃO DO AGRAVO RETIDO INTERPOSTO SOB A ÉGIDEDO CPC/73-DESPACHO SANEADOR QUE AFASTOU APRELIMINAR DE ILEGITIMIDADE PASSIVA MESMO AFASTANDOA HIPÓTESEDE SUCESSÃO EMPRESARIAL. LEGITIMIDADEPASSIVA CARACTERIZADA - AGRAVO RETIDO DESPROVIDO. APELAÇÃO 1. CESSÃO DE POSIÇÃO CONTRATUAL QUE CONFERELEGITIMIDADE DA EMBARGANTE CESSIONÁRIA PELO ATIVO EPASSIVO CONTRATUAL. CONTRATO CEDIDO QUE INCLUÍADAÇÃO EM PAGAMENTO FEITO À PARTE AUTORA. RECURSOCONHECIDO E DESPROVIDO. APELAÇÃO 2. LIMITAÇÕES AO RECEBIMENTO DO CRÉDITOCONSIGNADO EM DOCUMENTO QUE CONSTITUI TÍTULOEXECUTIVO EXTRAJUDICIAL- IMPOSSIBILIDADE - CONTRATOQUE DÁ QUITAÇÃO DOS SERVIÇOS E FAZ A DAÇÃO EM PAGAMENTO COMO FORMA DE SUBSTITUIÇÃO À REMUNERAÇÃO ANTERIORMENTE AVENÇADA. IMÓVEL ADQUIRIDO POR TERCEIRO DE BOA -FÉ- REGISTRO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS QUE NÃO GOZA DA MESMA GARANTIA DO REGISTRO NA RESPECTIVA MATRÍCULA DO IMÓVEL-CONVERSÃO DO DÉBITO AO VALOR CORRESPONDENTE AO IMÓVEL OBJETO DA DAÇÃO EM PAGAMENTO. SENTENÇA REFORMADA-SUCUMBÊNCIA REDISTRIBUÍDA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. AGRAVO RETIDO DESPROVIDO. RECURSO 1DESPROVIDO. RECURSO 2 PARCIALMENTE PROVIDO." (fls. 901-902).
+Nas razões recursais, a insurgente aponta violação aos arts. 568, I, do CPC/73; 221 do CC; e 129, § 9º, da Lei 6015/73, sustentando, em síntese, que "não é parte nos contratos de dação em pagamento que aparelham a execução, formados por instrumento particular. Logo, a condição legal, essencial, para terem eventual eficácia contra ela é que ditos contratos tivessem sido levados ao registro público."
+Contrarrazões às fls. 961-983.
+É o relatório.
+Decido.
+Não colhe o recurso.
+Na hipótese, a Corte paranaense assentou que a relação em comento não versa a respeito de mera cessão de crédito ou assunção de dívida, mas, na verdade, de cessão de posição contratual ou cessão de contrato, sendo que na cessão de posição contratual há a inclusão do passivo também, de maneira que "o"Contrato de Locação de Serviços para Venda e Formação de Condomínios Residenciais já Concretizadas" (no mov. 1.5, fls. 58/59), pactuado em 23.10.1995, se insere nas obrigações assumidas pelo cessionário, ora apelante-embargante, o qual deverá ser cumprido conforme pactuado no penúltimo contrato entre a Espaço Novo Ltda e Paulo Mariano de Oliveira (exequente-embargado)." Além de que, "diversamente do que alega a apelante 1, é irrelevante a ausência de registro público do contrato objeto de execução, pois tal condição não impede a natureza de título executivo extrajudicial, como descreve o CPC/2015 ,pois, a natureza de título executivo extrajudicial decorre da letra da lei processual civil, sendo prescindível eventual registro do título para gozar de tal condição." (fls. 909-912)
+Ocorre que a insurgente não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. ALEGAÇÕES DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REAVALIAÇÃO DO CONJUNTOFÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N.7/STJ. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. SÚMULA N. 83/STJ. INCIDÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+2. É inadmissível o recurso especial que não rebate fundamento do acórdão recorrido, trazendo alegações dissociadas do que ficou decidido pelo Tribunal de origem. Incidência das Súmulas n. 283
+e 284 do STF.(..)
+(AgInt no AREsp 1659434/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA
+TURMA, julgado em 15/06/2020, DJe 18/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS ABRANGIDA PELA COBERTURA POR DANOS CORPORAIS. AUSENTE CLÁUSULA DE EXCLUSÃO. REVISÃO SÚMULAS 5 E 7/STJ. ALEGADA NECESSIDADE DE ABATIMENTO DE INDENIZAÇÃO ORIUNDA DE SINISTRO DISTINTO. PARADIGMA
+DISTINTO. INTERPRETAÇÃO INCORRETA. FALTA DE IMPUGNAÇÃODOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor das Súmulas n. 283 e 284 do STF.
+(..)
+(AgInt no AREsp 1393349/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)
+Diante do exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de 10% para 11 % sobre o valor atualizado da condenação.
+Publique-se.
+EMENTA
