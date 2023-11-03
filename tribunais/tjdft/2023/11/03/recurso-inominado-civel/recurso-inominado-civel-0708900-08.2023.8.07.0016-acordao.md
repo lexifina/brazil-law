@@ -1,0 +1,62 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0708900-08.2023.8.07.0016RECORRENTE(S)MARILIA DE OLIVEIRA SANTOSRECORRIDO(S)DISTRITO FEDERALRelatoraJuiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA
+ Acórdão Nº1780564
+
+EMENTA
+
+ p{text-align: justify;}
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO CONSTITUCIONAL. SAÚDE. PROCEDIMENTO CIRÚRGICO. RECONSTRUÇÃO DE CAVIDADE OCULAR DIREITA COM ENXERTO DERMOLIPÍDICO. TARJA AMARELA. URGENTE. DEMORA PARA REALIZAÇÃO DO PROCEDIMENTO. ENUNCIADO Nº 93 DAS JORNADAS DE DIREITO DA SAÚDE DO CNJ.  OBRIGAÇÃO DE FAZER.
+1. Os documentos contidos na petição inicial, comprovam a necessidade e a urgência da realização do procedimento cirúrgico de reconstrução de cavidade ocular direita com enxerto dermolipídico, sob anestesia geral. A Recorrente é portadora de anoftalmia, microftalmia e macroftalmia; essas condições podem causar uma série de problemas de visão e a não realização do tratamento necessário, devido demora do procedimento cirúrgico pleiteado, provoca ou acentua: cegueira, estrabismo, ambliopia (olho preguiçoso), glaucoma, doenças da retina, doenças da córnea e doenças do nervo óptico.
+2. O artigo 196 da Constituição Federal e o artigo 204 da Lei Orgânica do Distrito Federal estabelecem que a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem a redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
+3. Os elementos do processo evidenciam a hipossuficiência da Recorrente, que necessita realizar o tratamento pelo Sistema Único de Saúde (SUS). É incontroverso que o seu estado de saúde é delicado e demanda intervenção do Judiciário; aguardar a prioridade clínica do sistema de regulação, como demonstrado, significa suprimir qualquer chance de recuperação da Recorrente.
+4. Não há demonstração de omissão total do Estado, uma vez que a Recorrente está inserida no Sistema de Regulação, ou seja, o que existe é um sistema que está precário e lento. Entretanto, destaco que o direito à saúde se estende a todos, indistintamente, em virtude do princípio da isonomia e a concretização deste princípio deve ser feita em consonância com cada caso analisado (isonomia material). Portanto, tal prazo deve ser respeitado pelo ente público, diante do maior risco que sofrem as pessoas que aguardam em inacabáveis esperas de atendimento de saúde.
+5. Conforme o teor do Enunciado nº 93 das Jornadas de Direito da Saúde do CNJ: “Nas demandas de usuários do Sistema Único de Saúde – SUS por acesso a ações e serviços de saúde eletivos previstos nas políticas públicas, considera-se excessiva a espera do paciente por tempo superior a 100 (cem) dias para consultas e exames, e de 180 (cento e oitenta) dias para cirurgias e tratamentos.”
+6. Desse modo, passados aproximadamente um ano e três meses além do prazo fixado pelo CNJ, resta demonstrada a excessiva espera pela paciente e sem a modificação do quadro narrado, se faz necessário impor ao Recorrido, Distrito Federal, que realize o procedimento cirúrgico da Recorrente. Precedentes das Turmas Recursais: Acórdãos 1433672, 1235321 e 1257685.
+7. Recurso CONHECIDO e PROVIDO para reformar a sentença e confirmar a tutela antecipada recursal para condenar o Distrito Federal a providenciar, no prazo máximo de 30 (trinta) dias, em favor da Recorrente, o PROCEDIMENTO CIRÚRGICO DE RECONSTRUÇÃO DE CAVIDADE OCULAR DIREITA COM ENXERTO DERMOLIPÍDICO PROCEDIMENTO SOB ANESTESIA GERAL, nos termos da prescrição médica, na rede pública ou privada, às expensas do erário. Intime-se, por Oficial de Justiça, o Núcleo de Judicialização do Distrito Federal e a Secretaria de Saúde do DF.  Sem condenação em custas e honorários advocatícios, ante a ausência de recorrente vencido, nos termos do Art. 55 da Lei 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - Relatora, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência da Senhora Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Novembro de 2023
+
+Juiza RITA DE CASSIA DE CERQUEIRA LIMA ROCHAPresidente e Relatora
+
+RELATÓRIO
+
+Em sua inicial, a autora recorrente discorre que é portadora do diagnóstico de anoftalmia, microftalmia e macroftalmia (CID- Q11).
+
+A autora recorrente insurge-se contra a sentença proferida, que julgou parcialmente procedentes os pedidos da inicial para condenar o réu, ora recorrido, a providenciar a submissão da parte autora ao procedimento cirúrgico de reconstrução de cavidade ocular direita com enxerto dermolipídico, sob anestesia geral, na rede pública de saúde do Distrito Federal ou, na sua falta, que forneça a cobertura em algum hospital da rede particular, observados os critérios de prioridade clínica, sob pena de bloqueio de verbas públicas, porém não imputou prazo para o cumprimento da obrigação.
+
+A Recorrente possui anoftalmia, microftalmia e macroftalmia e sua prioridade definida pelo SISREG III é amarelo – urgência. Alega que as consequências atuais da falta de tratamento são riscos de agravamento do quadro geral de saúde, agravamento da sua qualidade de vida e das atividades profissionais e sociais, o perigo de danos vitais irreversíveis e irreparáveis à sua saúde e, por fim, a possibilidade de diminuição da eficácia e da segurança dos resultados que podem ser obtidos com o tratamento de saúde. Argui ainda que seu pedido consta em lista de espera do Sistema de Regulação da SES/DF desde 07/12/2021 e por decorrência da urgência não pode esperar indefinidamente pelos serviços médicos postulados. Também aduz haver risco do surgimento de uma série de problemas de visão, incluindo cegueira, necessitando do procedimento pleiteado para o tratamento adequado.
+
+Contrarrazões sob o ID 50911440, o Recorrido alega que a sentença impugnada não merece reparos.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Juíza RITA DE CASSIA DE CERQUEIRA LIMA ROCHA - Relatorap{text-align: justify;}
+Conheço do recurso, por tempestivo e adequado.
+O artigo 196 da Constituição Federal estabelece que a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem a redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.  Já o artigo 204 da Lei Orgânica do Distrito Federal, de igual modo, dispõe que a saúde é direito de todos e dever do Estado, assegurado mediante políticas sociais, econômicas e ambientais que visem ao bem-estar físico, mental e social do indivíduo e da coletividade, a redução do risco de doenças e outros agravos, bem como ao acesso universal e igualitário às ações e serviços de saúde, para sua promoção, prevenção, recuperação e reabilitação.
+Os documentos contidos na petição inicial, comprovam a necessidade e a urgência da realização do procedimento cirúrgico de reconstrução de cavidade ocular direita com enxerto dermolipídico, sob anestesia geral. O tratamento para a anoftalmia, microftalmia e macroftalmia depende da gravidade da condição. Em alguns casos, pode ser necessário remover o olho afetado. Em outros casos, pode ser possível usar um implante ocular ou uma lente de contato para melhorar a visão. O procedimento é indicado pois pacientes com cavidade anoftálmica necessitam de reabilitação estética funcional para a boa adaptação de uma prótese ocular. O ideal é que toda cavidade anoftálmica seja corrigida com algum implante orbitário, ou em alguns casos, como o da Recorrente, seja preenchida com enxerto dermoadiposo, visando reestabelecer o volume intraorbitário perdido.
+O documento de ID 50847543 traz que a Recorrente foi inserida na fila de espera para CE - RECONSTITUIÇÃO DE CAVIDADE ORBITARIA e CE - RECONSTITUIÇÃO DE PAREDE DA ORBITA, inseridas em 07/12/2021 e 26/07/2022 respectivamente, ambas pelo Hospital de Base do Distrito Federal, e com a prioridade AMARELO - prioridade 1 e o Distrito Federal estava atendendo as solicitações inseridas em 08/2020.
+Houve demora de atendimento para o tratamento, desde a inserção na fila de espera em 07/12/2021 de mais de 650 dias.
+Nos termos do Enunciado N.º 93 das Jornadas de Direito da Saúde do CNJ:
+“Nas demandas de usuários do Sistema Único de Saúde – SUS por acesso a ações e serviços depesaúde eletivos previstos nas políticas públicas, considera-se excessiva a espera do paciente por tempo superior a 100 (cem) dias para consultas e exames, e de 180 (cento e oitenta) dias para cirurgias e tratamentos.” (Grifei).
+Portanto, configura-se excessiva a espera pela paciente, que já ultrapassou o prazo de 180 (cento e oitenta dias).
+Noutro giro, os elementos do processo evidenciam a hipossuficiência da Recorrente, que necessita realizar o tratamento pelo Sistema Único de Saúde (SUS). É incontroverso que o seu estado de saúde é delicado e demanda intervenção do Judiciário; aguardar a prioridade clínica do sistema de regulação, como demonstrado, significa suprimir qualquer chance de recuperação da Recorrente.
+Não há demonstração de omissão total do Estado, uma vez que a Recorrente está inserida no Sistema de Regulação, ou seja, o que existe é um sistema que está precário e lento. Entretanto, destaco que o direito à saúde se estende a todos, indistintamente, em virtude do princípio da isonomia e a concretização deste princípio deve ser feita em consonância com cada caso analisado (isonomia material). Portanto, tal prazo deve ser respeitado pelo ente público, diante do maior risco que sofrem as pessoas que aguardam em inacabáveis esperas de atendimento de saúde.
+Na presente hipótese, a classificação de risco da Recorrente é Amarelo – Urgente, ou seja, a demora pode prejudicar ainda mais a sua saúde. O risco de dano grave e irreparável à Recorrente está demonstrado nos autos, que aponta a necessidade de obtenção do procedimento cirúrgico ora postulado, os danos aos quais a mesma está submetida e os riscos de agravamento de seu quadro clínico, decorrentes da demora no seu atendimento. Além disso, destaca-se que a Recorrente é portadora de anoftalmia, uma condição em que um olho está ausente ou não se desenvolve adequadamente, microftalmia, condição em que um olho é menor do que o normal e macroftalmia, condição em que um olho é maior do que o normal. Ademais, essas condições podem causar uma série de problemas de visão e a não realização do tratamento necessário, devido demora do procedimento cirúrgico pleiteado, provoca ou acentua: cegueira, estrabismo, ambliopia (olho preguiçoso), glaucoma, doenças da retina, doenças da córnea e doenças do nervo óptico.
+Portanto, como demonstrado, há a necessidade de delimitação temporal do período de espera submetido à paciente, devendo ser considerado a partir da necessidade constatada pelo pedido médico. A omissão do Estado no tocante a direitos fundamentais que implique consequências graves ou irreversíveis ao cidadão está sujeita ao controle judicial, conforme decidiu o Supremo Tribunal Federal (ADPF 45 e RE 581352 AgR).
+Desse modo, passados aproximadamente um ano e três meses além do prazo fixado pelo CNJ, resta demonstrada a excessiva espera pela paciente e sem a modificação do quadro narrado, se faz necessário impor ao Recorrido, Distrito Federal, que realize o procedimento cirúrgico da Recorrente.
+Assim, voto pelo conhecimento e provimento do recurso para reformar a sentença, confirmando a tutela antecipada recursal, para determinar que o Distrito Federal providencie, no prazo máximo de 30 (trinta) dias, em favor da Recorrente, o PROCEDIMENTO CIRÚRGICO DE RECONSTRUÇÃO DE CAVIDADE OCULAR DIREITA COM ENXERTO DERMOLIPÍDICO PROCEDIMENTO SOB ANESTESIA GERAL, nos termos da prescrição médica, na rede pública ou privada, às expensas do erário. Intime-se, por Oficial de Justiça, o Núcleo de Judicialização do Distrito Federal e a Secretaria de Saúde do DF.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
