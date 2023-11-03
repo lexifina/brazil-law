@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo MUNICÍPIO DE TERESINA contra acórdão prolatado, por unanimidade, pela 3ª Câmara de Direito Público do Tribunal de Justiça do Estado do Piauí no julgamento de Apelação em mandado de segurança, assim ementado (fls. 232/233e):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO MUNICIPAL LICENÇA SEM VENCIMENTO PARA PARTICIPAÇÃO EM CURSO DE FORMAÇÃO DE OUTRO CARGO. AUSÊNCIA DE PREVISÃO NA LEGISLATIVA MUNICIPAL DIREITO DE AÇÃO. SUBMISSÃO DO CASO AO JUDICIÁRIO. VIOLAÇÃO AOS PRINCÍPIOS DO LIVRE ACESSO AOS CARGOS PÚBLICOS, DO ACESSO AO PLENO EMPREGO E DA LIBERDADE E IGUALDADE AUSÊNCIA DE GASTOS AO SETOR PÚBLICO. POSSIBILIDADE DE INTERPRETAÇÃO ANALÓGICA DA LEI FEDERAL PREQUESTIONAMENTO DEFERIDO. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. In casu, os impetrantes, servidores públicos municipais, tiveram negado o direito de afastamento sem remuneração para participação em Curso de Formação de Soldado da Polícia Militar do Maranhão, socorram-se, da via judicial, ante a ausência de previsão na legislativa municipal, em observância ao direito de ação.
+2. Ressalta-se que o STJ vem entendendo que é possível aplicar, por analogia, a Lei n.º 8.112/90 aos servidores públicos municipais se houver omissão, na legislação municipal sobre direito de cunho constitucional e que seja autoaplicável e desde que tal situação não gere o aumento de gastos.
+3. É concebível a aplicação por analogia da lei federal nº 8112/91, notadamente seu art. 20, § 4º, pois o pleito dos impetrantes não denota aumento de gastos do setor público, uma vez que se refere a licença sem vencimento para participação em curso de formação, ressaltando-se que a negativa do ente municipal viola os princípios constitucionais do livre acesso ao concurso público (art. 37 CF/88) e o direito social do acesso ao pleno emprego (art. 6º, CF/88), liberdade e igualdade (5º, caput, CF/88) e dignidade da pessoa humana ( art. 1º, III, da CF/88).
+4. Assim, é correto entender que, embora não haja previsão legal no que corresponde à participação de servidor público municipal em curso de formação para o provimento de cargo público em outro ente da federação, deve ser garantida tal possibilidade, ainda que o servidor esteja cumprindo estágio probatório.
+5. Precedentes jurisprudenciais.
+6 . Deferimento do pedido de prequestionamento.
+7. Recurso conhecido e não provido. Sentença mantida.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 20, § 4º, da Lei n. 8.112/1990, alegando-se, em síntese, no caso dos autos, não há qualquer previsão constitucional no sentido de autorizar afastamento de servidor em estágio probatório para participar de curso de formação para cargo de entidade federativa diversa.
+Aduz que somente pode haver omissão, quando existe um dever de agir descumprido. Inexistindo qualquer menção constitucional ao referido afastamento, não há como se considerar existir qualquer tipo de omissão.
+Sem contrarrazões, o recurso foi admitido (fls. 296/298e).
+O Ministério Público Federal manifestou-se às fls. 348/351e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O tribunal de origem, ao manifestar-se acerca da controvérsia, assim consignou (fls. 236/243e):
+No Município de Teresina/Piauí, o pleito dos impetrantes também encontra barreiras, pois não há previsão legal para o caso de servidor público municipal que deseja participar de curso de formação decorrente de aprovação em concurso para outro cargo, afastando-se de seu cargo atual sem vencimentos, conforme se pode perceber da leitura do art. 19,§4º, da Lei Complementar Estadual nº 13/1994 e do art. 92 da Lei Municipal nº 2.138/92. Transcreve-se:
+(..)
+Ainda que preveja a legislação a possibilidade de afastamento não remunerado para tratar de interesse particular ou a licença prêmio, estes não se coadunam como o caso de licença sem vencimento para participação em curso de formação para outro cargo público pleiteado pelos impetrantes.
+In casu, os impetrantes, servidores públicos municipais, tiveram negado o direito de afastamento sem remuneração para participação em Curso de Formação de Soldado da Polícia Militar do Maranhão.
+Diante desta situação socorram-se, os impetrantes, através de via judicial, o que é perfeitamente adequado, pois não há necessidade de esgotamento das vias administrativas, para o exercício de direito de ação garantido pela Constituição Federal 1988 que erigiu à categoria dos direitos fundamentais o amplo acesso ao ordenamento jurídico (artigo 5º, inciso XXXV), devendo, desde logo, qualquer lesão ou mesmo ameaça de lesão a direito submetida à apreciação do Poder Judiciário.
+Diferente do que aduz o apelante, mesmo que não haja demora da autoridade coatora em analisar o requerimento administrativo do impetrante, não há impedimento para deferimento da pretensão pelo Judiciário.
+Ademais, observa-se que conduta administrativa de bloquear o acesso de um servidor a seu curso de formação para outro concurso descumpre direito fundamental com caráter social e indisponível, referente ao princípio do pleno emprego pela via do concurso público, restringindo a liberdade e igualdade de acesso aos cargos da administração pública a todos os brasileiros que preencham os requisitos previstos na lei, o que também legitima a intervenção judicial.
+Ressalta-se que o STJ vem entendendo que é possível aplicar, por analogia, a Lei n.º 8.112/90 aos servidores públicos municipais se houver omissão, na legislação municipal sobre direito de cunho constitucional e que seja autoaplicável e desde que tal situação não gere o aumento de gastos.
+Com efeito, depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz dos princípios constitucionais do amplo acesso ao ordenamento jurídico, do pleno emprego, do livre acesso ao concurso público, liberdade, igualdade e dignidade da pessoa humana (arts. 1º, III, 5º, XXXV, e caput, e 37 da Constituição da República.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014 - destaques meus).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014 - destaques meus).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
