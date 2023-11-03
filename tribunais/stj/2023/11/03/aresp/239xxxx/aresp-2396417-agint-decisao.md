@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno interposto por ROSANA MARINELLI DE SOUZA E SILVA contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por entender que não houve impugnação específica a todos os fundamentos da decisão que não admitiu o recurso especial (fls. 1.674/1.676).
+Nas razões do agravo interno, a agravante sustenta que o recurso interposto atendeu a todos os requisitos exigidos na legislação pátria, bem como restou amplamente demonstrada a similitude fática entre os acórdãos paradigma e recorrido.
+Diante da análise das razões do recurso, verifico que os óbices aplicados na decisão de inadmissibilidade, relativos à ausência de demonstração da violação dos arts. 986 e 999 do Código Civil e do óbice da Súmula 7 do STJ, foram devidamente impugnados nas razões do agravo em recurso especial, de modo que reconsidero a decisão recorrida, conheço do agravo e passo a análise do recurso especial.
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 1.574):
+SOCIETÁRIO  Ação visando o reconhecimento e dissolução de sociedade de fato-- Aprova. oral; e especialmente, a prova documental, não atestaram a existência do direito pleiteado pela autora - Conjunto probatório insuficiente para permitir conclusão segura sobre a existência da alegada sociedade - Ônus da prova do art. 373, I, do CPC descumprido - Sentença mantida  Recurso improvido
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 986 e 990 do Código Civil, sustentando que foi devidamente comprovado, por meio de documentos e prova testemunhal, o reconhecimento da sociedade de fato das empresas.
+Aduz que qualquer meio de prova realizada durante o trâmite processual deve ser levado em consideração, bem como ter o mesmo valor jurídico como todas as demais produzidas.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece ser provido.
+Da acurada análise do acórdão recorrido, verifico que o Tribunal de origem consignou que (i) a prova oral e, especialmente, a prova documental não atestaram a existência do direito pleiteado pela recorrente, qual seja, a propriedade do recorrido sobre as empresas, a existência de sociedade de fato, bem como de um grupo econômico entre as empresas; (ii) a recorrente e o recorrido não são proprietários das empresas rés e não possuem quaisquer direitos sobre elas, bem como ess as não possuem sócios de fato, mas sim administração própria e autônoma; (iii) a recorrente transferiu a titularidade de suas cotas sociais de forma livre e espontânea, sem qualquer alegação de vício de consentimento, sendo que a argumentação de que estava doente não é motivo suficiente para macular o negócio jurídico; e (iv) a recorrente não possui qualquer vinculo jurídico com as empresas rés que permita concluir pela existência de direito sobre elas, já que não participa de seu quadro societário, não prestou qualquer serviço, não exerce a sua administração, nem participou de atos para a realização de objetivos da sociedade empresarial. Confira-se:
+A principal questão é o reconhecimento ou não da existência de sociedades de fato a vincularem autora e réu, na medida em que tal conclusão precede à análise dos outros pedidos.
+A denominada sociedade de fato ou sociedade em comum encontra previsão nos artigos 986 a 990 do Código Civil e a questão principal que aflige esse tipo de lide é a natureza da prova.
+Não há dúvida quanto ao fato de que a sociedade irregular, que não teve seus atos constitutivos registrados no órgão competente, é fonte de direito e obrigações.
+O que se discute é a prova da existência das sociedades de fato relatadas pela autora quando, no caso concreto, as pessoas jurídicas que seriam objeto de exploração têm sócios formalizados no contrato social e fica comprovada a contratação do réu como empregado, na função de Diretor Comercial da "Goterma".
+Não se nega que poder-se-ia cogitar da existência de sócios não descritos nos contratos sociais. Entretanto, os elementos probatórios juntados pela autora não são aptos a demonstrar esta situação.
+A prova oral, e especialmente, a prova documental, não atestaram a existência do direito pleiteado pela autora, qual seja, a propriedade do réu Olmis sobre as empresas, a existência de sociedade de fato, bem como de um grupo econômico entre as empresas.
+O contrato social de fls. 34/42, registrado na Jucesp, demonstra que o réu Olmis não é proprietário da empresa Goterma Isolantes Térmicos Ltda EPP, mas sim a 3" e 4" rés, Elionei e Ilda, por cessão de cotas da autora realizada em 19.07.2004.
+De igual modo, a ré Gotherma Isolantes Térmicos Ltda, constituída nem 16.09.2010, pertence aos réus Heleno e Sebastião, conforma ficha cadastral obtida junto à Jucesp (fls. 442/458).
+É certo que os sócios já foram funcionários da "Goterma", contudo optaram por abrir seu próprio negócio.
+Assim, a autora e o réu Olmis não são proprietários das empresas rés e não possuem quaisquer direitos sobre elas, bem como estas não possuem sócios de fato, mas sim administração própria e autônoma.
+A "Gotherma" é administrada pelo sócio Sebastião (fls. 457), sendo que o réu v Olmis não possui poder de gestão sobre elas.
+Ademais, não há qualquer vício no ato de transferência das cotas sociais das empresas, com a retirada e admissão de sócios, tanto que previstas em lei (arts. 999 c. c. 1148, do CC).
+Constata-se dos autos que a autora transferiu a titularidade de suas cotas sociais de forma livre e espontânea, sem qualquer alegação de vício de consentimento, sendo que a argumentação de que estava doente não é motivo suficiente para macular o negócio jurídico.
+Nenhuma prova dos autos demonstra que os réus participaram de um conluio para prejudica-la.
+Nenhuma testemunha apontou qualquer conduta dos réus que demonstrasse que as operações mercantis realizadas tanto pelo réu Olmis quanto pelas empresas rés tivessem viés doloso.
+ ..
+A autora não possui qualquer vinculo jurídico com as empresas rés que permita concluir pela existência de direito sobre elas, já que não participa de seu quadro societário, não prestou qualquer serviço, não exerce a sua administração, nem participou de atos para a realização de objetivos da sociedade empresarial  ..  (fls. 736 e 1082) .
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo que não há elementos suficientes para concluir pela existência de uma sociedade de fato entre as partes, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do contrato e do conjunto fático-probatório dos autos, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. SOCIEDADE DE FATO. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.939.196/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Em face do exposto, reconsiderando a decisão de fls. 1.674/1.676, conheço do agravo e nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
