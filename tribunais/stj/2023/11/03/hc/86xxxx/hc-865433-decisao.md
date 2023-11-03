@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Raissa Gomes Francisco - presa preventivamente e denunciada como incursa nos crimes de roubo majorado e corrupção de menores -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Habeas Corpus n. 2259565-71.2023.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração o relaxamento da prisão imposta à paciente, ao argumento de que, em que pese ser nulo de pleno direito o auto de prisão em flagrante, haja vista a ausência das hipóteses legais de flagrância delitiva (a paciente não foi presa nem cometendo o delito, nem perseguida e presa logo após cometê-lo, e muito menos logo depois de cometer a infração, com instrumentos, armas, objetos ou papéis que façam presumir ser ela a autora da infração), a prisão em flagrante de Raíssa foi convertida em preventiva (fl. 5), pois conforme consta do auto de prisão em flagrante, a prisão em flagrante teria ocorrido por volta das 00h50min, ou seja, após o decurso de mais de três horas desde a ocorrência dos fatos, sem que houvesse, repita-se, fuga e perseguição dos agentes e sem que a paciente estivesse na posse da res roubada ou qualquer outro objeto (fl. 6).
+Ocorre que, além de eventual mácula decorrente do flagrante não ter o condão de contaminar a ação penal e a decretação da segregação cautelar, não consta dos autos a decisão que homologou a prisão em flagrante e a converteu em preventiva, peça indispensável ao conhecimento da impetração.
+Em face do exposto, não conheço do writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO E CORRUPÇÃO DE MENORES. ALEGAÇÃO DE NÃO OCORRÊNCIA DO ESTADO DE FLAGRÂNCIA. CIRCUNSTÂNCIA QUE, ALÉM DE NÃO IMPORTAR NA NULIDADE DA AÇÃO PENAL, NÃO INVALIDA EVENTUAL DECRETAÇÃO DA PREVENTIVA. INEXISTÊNCIA, ADEMAIS, DE CÓPIA DA DECISÃO QUE HOMOLOGOU O FLAGRANTE. INSTRUÇÃO DEFICIENTE. CONHECIMENTO. IMPOSSIBILIDADE.
+Writ não conhecido.
