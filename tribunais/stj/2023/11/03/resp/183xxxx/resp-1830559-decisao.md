@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEFÔNICA BRASIL S.A, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, manejado contra acórdão do eg. Tribunal de Justiça de São Paulo, assim ementado:
+"Complementação de obrigação. Ações da Telesp. Alegada subscrição das ações em data posterior à integralização. R. sentença que deve ser reformada, havendo elementos nos autos para deslinde da lide. Súmula 371 do C. STJ. Art. 515 § 3º do CPC. Recurso do Espólio provido, rejeitada a preliminar e invertida a sucumbência." (fl. 149)
+Os embargos de declaração foram acolhidos nos seguintes termos:
+"Complementação de obrigação. Ações da Telesp. Alegada subscrição das ações em data posterior à integralização. R. sentença que se reformulou havendo elementos nos autos para deslinde da lide. Súmula 371 do C. STJ. Art. 515 § 3º do CPC. Recurso do Espólio provido, rejeitada a preliminar e invertida a sucumbência, v.u.
+Embargos declaratórios opostos pela Concessionária ré. Inicialmente rejeitados, o C. STJ (Min. Lázaro apontou omissão e determinou o retomo dos autos para saná-la.
+Contrato de participação financeira. Modalidade PCT (não PEX). A obrigação de natureza pessoal prescreve no prazo previsto no art. 177 do antigo Cód. ou no tempo estabelecido no art. 205 do CC/02, observando-se a regra de transição do art. 2.028.
+Matéria submetida à sistemática dos recursos repetitivos no C. STJ (Resp nº 1.301.989- RS). Súmula n 371 do C. STJ. Prescrição afastada. Embargos acolhidos, sem efeitos modificativos." (fl. 414)
+Os embargos de declaração foram rejeitados.
+Em suas razões recursais, a recorrente aponta violação aos arts. 489, I e II, 1022, I e II, do CPC/2015, arts. 7º, 8º e 170 da Lei 6.404/76, art. 884 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, (a) ausência de fundamentação sobre os contratos objetos da causa firmados na sistemática de Planta Comunitária de Telefonia (PCT); (b) a rede de telefonia somente pode ser integralizada ao patrimônio da recorrente após a aprovação do laudo de avaliação em assembléia e, (c) "tratando-se de contrato de PCT, o valor e a data da integralização correspondem à avaliação e incorporação da rede ao capital social da empresa".
+Apresentadas contrarrazões às fls. 577-581.
+É o relatório.
+Conforme entendimento desta Corte Superior, nos contratos firmados no sistema de Planta Comunitária de Telefonia (PCT), somente com a incorporação da rede telefônica ao patrimônio da companhia, ora recorrente, é que surge o dever de ressarcir o consumidor por meio de subscrição de ações. Desta forma, o valor a ser considerado para o cálculo do número de ações a serem subscritas deve ser o da avaliação do bem incorporado ao patrimônio da concessionária e não o montante pago à construtora pelo adquirente da linha telefônica, sendo, portanto, inviável a aplicação, na hipótese, da Súmula 371/STJ.
+A propósito:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. TELEFONIA. PLANTA COMUNITÁRIA. EMISSÃO DE AÇÕES. MOMENTO DA INCORPORAÇÃO DO BEM. SUBSCRIÇÃO DEFICITÁRIA. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO. OCORRÊNCIA. INDENIZAÇÃO. NÃO CABIMENTO. NÃO PROVIMENTO.
+1. Devidamente caracterizado o prequestionamento da matéria posta em discussão no especial, não havendo que se falar em aplicação das Súmulas 282 e 356/STF.
+2. Nos termos da jurisprudência desta Corte, nos pactos realizados sob a modalidade PCT, apenas no momento da incorporação da rede é que a ré pode emitir ações correspondentes ao patrimônio (bem) incorporado, devendo esta emissão basear-se no valor de avaliação do bem, não havendo o que indenizar.
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 1.764.348/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/10/2021, DJe de 8/11/2021, g.n.)
+"RECURSO ESPECIAL. DIREITO CIVIL E EMPRESARIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM EMPRESA DE TELEFONIA. COMPLEMENTAÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. CRITÉRIO DO BALANCETE MENSAL. SÚMULA 371/STJ. INAPLICABILIDADE.
+1. Controvérsia acerca da aplicação do critério do balancete mensal a um contrato de planta comunitária de telefonia - PCT com previsão de retribuição de ações condicionada à integralização do capital mediante dação da planta comunitária à companhia telefônica, nos termos da Portaria 117/1991 do Ministério das Comunicações.
+2. Nos termos da Súmula 371/STJ: "nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+3. Na linha da jurisprudência desta Corte Superior, a data da integralização, mencionada na Súmula 371/STJ, é a data do pagamento do preço estabelecido no contrato, ou a do pagamento da primeira parcela, no caso de parcelamento.
+4. Particularidade dos contratos da modalidade PCT, em que a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas mediante a entrega de bens, em momento posterior ao pagamento do preço, com a incorporação da planta comunitária ao acervo patrimonial da companhia telefônica.
+5. Necessidade de prévia avaliação e de aprovação da assembleia geral da companhia, para a integralização do capital em bens ("ex vi" do art. 8º da Lei 6.404/1976).6. Inviabilidade de aplicação da Súmula 371/STJ aos contratos de participação financeira celebrados na modalidade PCT.
+7. Precedente específico da QUARTA TURMA desta Corte Superior no mesmo sentido.
+8. RECURSO ESPECIAL PROVIDO." (REsp 1742233/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 02/10/2018, DJe 08/10/2018, g.n.)
+Nessas condições, verifica-se que o acórdão recorrido, ao reconhecer que "foi celebrado contrato na modalidade PCT" e determinar que "o demandante tem direito à percepção das ações no valor patrimonial obtido - no mês da integralização das ações, ou seja, a importância deve ser apurada com base no balancete daquele respectivo mês (Súmula 371 do C. STJ)" (fl. 419), está em dissonância com a jurisprudência desta Corte, impondo-se, pois, reforma.
+Prejudicada a análise das demais questões.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para julgar improcedente o pedido inicial.
+Custas e honorários advocatícios pelo ora recorrido , fixados em 10% sobre o valor atualizado da causa, nos termos do art. 85, § 2º, do Código de Processo Civil de 2015.
+Publique-se.
+EMENTA
