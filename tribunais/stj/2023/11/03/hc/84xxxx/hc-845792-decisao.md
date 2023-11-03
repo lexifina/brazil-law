@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Willian Ribeiro de Lima Diez, denunciado como incurso no art. 288, parágrafo único, c/c o art. 62, inciso IV, e art. 121, § 2º, incisos I, III, IV e VIII, c/c o art. 29, tudo na forma do art. 69, todos do Código Penal (Processo n. 1001927-12.2022.8.26.0584, da 1ª Vara da comarca de São Pedro/SP).
+Aponta-se como autoridade coatora o Tribunal de Justiça de São Paulo, que não reconheceu as nulidades indicadas pela defesa, mantendo a ação penal (Habeas Corpus n. 2096660-22.2023.8.26.0000).
+Aduz-se que somente após a violação do domicílio do corréu Rogério e da apreensão de seus celulares foi possível ao Ministério Público identificar o ora paciente como um dos suspeitos.
+No presente writ, alega-se, em resumo: 1) nulidade por violação de domicílio em razão da existência de fishing expedition e da ausência de autorização do corréu Rogério para a entrada em seu domicílio; e 2) nulidade da apreensão dos aparelhos celulares no domicílio do corréu ante a ausência de decisão judicial autorizadora.
+Requer-se, em liminar, a suspensão do curso da ação penal e a revogação da prisão do paciente, e, no mérito, seja cassada a decisão vergastada, considerando a invasão de domicílio e buscas pela residência realizadas sem qualquer autorização, a fim de declarar a ilicitude da prova (fl. 23).
+É o relatório.
+A ordem não merece concessão.
+Isso porque, pelo que se tem destes autos e da página eletrônica do Tribunal estadual, estão pendentes de decisão na origem questões de especial relevância para a conclusão a respeito da ocorrência (ou não) das nulidades aqui arguidas, em especial a comprovação da alegada anuência do corréu para a entrada em seu domicílio.
+Com efeito, extrai-se da decisão de fls. 125/137 que foi deferido o pedido de envio de cópia da filmagem da ação dos policiais militares naquela ocasião, cuja mídia foi depositada em cartório (fl. 135), sendo o caso, portanto, de se aguardar a realização de tal diligência, para permitir que o magistrado verifique, com segurança, se a entrada na residência foi acompanhada do alegado consentimento para tanto.
+Ademais, tem-se do andamento processual na origem que foi determinada vista dos autos ao Parquet para se manifestar sobre a alegada quebra da cadeia de custódia da prova, no tocante à apreensão dos aparelhos celulares. Tudo a evidenciar que existem questões importantes, ainda em discussão, capazes de influir diretamente na verificação das nulidades aqui apontadas.
+São questões, portanto, a serem equacionadas no curso da instrução, sendo prematuro adentrar no exame desses temas na via eleita, de cognição sumária.
+Vale observar que, no atual estágio da ação penal, não há como afastar as conclusões do Tribunal a quo de que a entrada foi franqueada pelo próprio suspeito (fl. 28) e de que, no tocante à licitude da apreensão dos aparelhos celulares encontrados na residência, cabe ressaltar que o disposto no art. 6º, inciso II, do Código de Processo Penal prevê que logo que tiver conhecimento da prática da infração penal, a autoridade policial deverá: apreender os objetos que tiverem relação com o fato (fl. 30).
+Ante o exposto, denego o habeas corpus .
+Publique-se.
+EMENTA
+HABEAS CORPUS. ARTS. 121, § 2º, I, III, IV E VIII, E 288, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL. ILICITUDE DA PROVA POR VIOLAÇÃO DE DOMICÍLIO E AUSÊNCIA DE PRÉVIA AUTORIZAÇÃO JUDICIAL PARA A APREENSÃO DE BENS. DÚVIDA ACERCA DO CONSENTIMENTO PARA A ENTRADA NA RESIDÊNCIA. ALEGAÇÃO DE QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA. QUESTÕES QUE DEVEM SER EQUACIONADAS NO CURSO DA INSTRUÇÃO. PREMATURO O TRANCAMENTO DA AÇÃO PENAL. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
