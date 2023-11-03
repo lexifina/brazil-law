@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SINARA DOS SANTOS COSTA contra v. acórdão prolatado pelo eg. Tribunal de Justiça de Mato Grosso.
+Depreende-se dos autos que a prisão em flagrante da paciente foi convertida em preventiva, em razão da suposta prática dos crimes previstos nos arts. 33 e 35, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que denegou a ordem, nos termos do acórdão juntados às fls. 18-26, com a seguinte ementa:
+HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA A PRÁTICA DE TAL FINALIDADE - PRISÃO EM FLAGRANTE DA PACIENTE CONVERTIDA EM PREVENTIVA - 1. NEGATIVA DE AUTORIA - MATÉRIA QUE EXIGE ANÁLISE FÁTICO-PROBATÓRIA - VIA ELEITA INADEQUADA - 2. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO E INEXISTÊNCIA DOS REQUISITOS AUTORIZADORES À PROLAÇÃO DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA DA PACIENTE - INCONSISTÊNCIA - ELEMENTOS DE CONVICÇÃO SUFICIENTES PARA DEMONSTRAR A NECESSIDADE DA MEDIDA EXCEPCIONAL - PRISÃO INDISPENSÁVEL À GARANTIA DA ORDEM PÚBLICA - RENITÊNCIA DELITIVA - PREENCHIMENTO DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL - 3. ALMEJADA A APLICAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS - INSUFICIÊNCIA - DEMONSTRADA A NECESSIDADE DA MEDIDA MAIS GRAVOSA - 4. PREDICADOS PESSOAIS DAPACIENTE - NÃO COMPROVAÇÃO, ADEMAIS, IRRELEVÂNCIA - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - 5. OFENSA AO PRINCÍPIO DA NÃO CULPABILIDADE - INOCORRÊNCIA - PRISÃO CAUTELAR NÃO SE CONFUNDE COM A ANTECIPAÇÃO DE EVENTUAL CONDENAÇÃO IMPOSTA AO PACIENTE - 6. PEDIDOS JULGADOS IMPROCEDENTES, ORDEM DE HABEAS CORPUS DENEGADA.
+1. O habeas corpus é instrumento de cognição sumária que não comporta dilação probatória, motivo pelo qual discussão acerca da inocência da paciente deve ser suscitada na esfera própria, sob o crivo do contraditório e da ampla defesa, sendo impossível, pois, a sua utilização para tal finalidade.
+2. Tem-se por fundamentada a decisão que decretou a prisão preventiva da paciente, a bem da ordem pública, para evitar sua reiteração delitiva, eis que ela foi presa em flagrante pela prática, em tese, do crime de tráfico de drogas com apreensão de variedade de entorpecentes, além de apresentar histórico de registros criminais na prática do comércio malsão, a revelara presença dos requisitos previstos no art. 312 do Código de Processo Penal.
+3. É insuficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal, porque as circunstâncias dos delitos, supostamente, praticados pela paciente; bem como que as suas condições pessoais revelaram que providência menos gravosa do que a custódia provisória não seria suficiente para a garantia da ordem pública.
+4. Os predicados pessoais da paciente, além de não terem sido demonstrados nestes autos, não têm o condão de, isoladamente, avalizar o direito à revogação ou relaxamento do seu decreto preventivo, eis que presente um dos requisitos autorizadores da sua custódia cautelar: garantia da ordem pública.
+5. Como é de trivial sabença toda e qualquer prisão, antes da sentença condenatória transitada em julgado, tem caráter provisório e cautelar, que não se confunde com antecipação de pena.
+6. Pedidos julgados improcedentes. Ordem de habeas corpus denegada.
+Daí o presente habeas corpus, em que a defesa alega a inexistência dos requisitos ensejadores da decretação da prisão preventiva.
+Nesse sentido, sustenta que a paciente ostenta condições pessoais favoráveis e que as instâncias originárias se lastrearam em fundamentações genéricas, para fundamentar os requisitos da custódia.
+Requer, ao final, a concessão da ordem, ainda que de ofício, para substituir a prisão preventiva por medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido às fls. 116-117.
+As informações foram prestadas às fls. 127-184.
+O Ministério Público Federal, às fls. 1 86-191, manifestou-se nos termos da seguinte ementa:
+HABEAS CORPUS COM PEDIDO DE LIMINAR. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o breve relatório.
+Decido.
+A defesa alega a inexistência dos requisitos ensejadores da decretação da prisão preventiva. Nesse sentido, sustenta que o paciente ostenta condições pessoais favoráveis e que as instâncias originárias se lastrearam em fundamentações genéricas, para fundamentar os requisitos da custódia.
+A r. decisão impugnada, por sua vez, está fundamentada nos seguintes termos (fls. 79-86):
+Pois bem.
+Este auto de prisão em flagrante deve ser homologado, porquanto, regularmente comprovados os requisitos legais inscritos nos artigos 302 e 304, ambos do Código de Processo Penal, não ostentando vícios de natureza material e/ou formal que o maculam de vício insanável.
+Com efeito, o flagrante está formalmente perfeito, com os depoimentos dos condutores, e o interrogatório, assinados por todos. Constam, ainda, as notas de culpa e de ciência das garantias constitucionais. Ademais, a prisão foi efetuada nos termos do art. 302, inciso II, do Código de Processo Penal, porquanto a indiciada fora encontrada cometendo o crime.
+Passo, doravante, à análise da necessidade de decretação da prisão preventiva ou possibilidade de concessão de liberdade provisória.
+Conforme se extrai dos elementos informativos carreados ao feito, durante o patrulhamento ostensivo efetuado pela Policia Militar, a flagrada foi abordada e durante a revista pessoal foi encontrado:
+01(uma) unidade de Substância análoga a Cocaína, acondicionado em Trouxinha Tipo Zip-lock.
+06(seis) unidades de Substância análoga a Maconha acondicionado em Trouxinha Tipo Zip-lock.
+01(uma) unidade de Substância análoga a Maconha acondicionada em Saco Plástico.
+01(uma) unidade Aparelho Celular da Marca Samsung, Cor Preta.
+01(uma) unidade Aparelho Celular da Marca Xiaomi, Modelo Redmi, Cor Azul.
+01(uma) unidade Aparelho Celular da Marca Samsung, Cor Azul.
+01(uma) unidade Diversos Sacos Tipo Zip-lock Vazios Para Armazenamento de Entorpecentes.
+ ..
+Logo, por ora, os indícios de autoria e materialidade restam consubstanciados nos autos, em conformidade com o art. 312 do Código de Processo Penal.
+No caso em comento, diante das circunstâncias que envolveram a suposta prática criminosa, bem como as atitudes desenvolvidas, entendo necessária a decretação da prisão preventiva da flagrada, haja vista trata-se figura como réu em outros processos criminais pela prática do crime de tráfico de entorpecentes (Autos n.1001389-35.2021.8.11.0050)e é reincidente (ID 110473302), fato esse que revela a necessidade da custódia cautelar para a garantia da ordem pública, visto que outras medidas acautelatórias, por ora, não atendem ao binômio da necessidade e da adequação nos termos do art. 282, incisos I e II, do CPP, nem seriam capazes de acautelar o meio social.
+Assim, imperiosa a manutenção da prisão cautelar, eis que presentes os pressupostos necessários, uma vez que demonstrando que a vereda delituosa não se trata de fato isolado, mas, sim, de prática habitual em sua vida.
+ ..
+Assim, a peculiaridade do caso em comento sugere que a decretação da prisão provisória é medida extrema e neste caso a ordem pública deve prevalecer sobre a liberdade individual, da mesma forma que a concessão das cautelares diversas da prisão também não se mostram razoáveis diante da possibilidade de reiteração criminosa constatada pelas evidências concretas no caso em tela.
+Com essas considerações, DECRETO a prisão preventiva de SINARA DOS SANTOS COSTA, qualificada nos autos, com fundamento na garantia da ordem pública (CPP, art. 312 e seguintes).
+A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A custódia preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores.
+Na hipótese, o r. decisum que decretou a prisão preventiva da paciente está fundamentado na garantia da ordem pública, tendo em vista os maus antecedentes criminais da paciente.
+Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+No mesmo sentido: AgRg no RHC n. 175.527/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 780.490/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 28/2/2023, DJe de 3/3/2023; AgRg no RHC n. 164.793/RS, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.
+Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, denego o habeas corpus.
+P. e I.
+EMENTA
