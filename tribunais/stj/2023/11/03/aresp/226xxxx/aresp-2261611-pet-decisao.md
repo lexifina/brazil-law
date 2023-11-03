@@ -1,0 +1,10 @@
+DECISÃO
+Em petição, a UNIMED DO BRASIL - CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS MÉDICAS requer o ingresso no feito como amicus curiae.
+Sustenta a requerente poder, na condição de representante nacional das cooperativas do Sistema das Sociedades Cooperativas Unimed, contribuir para o melhor julgamento do feito, "trazendo informações técnicas relevantes para  o debate da controvérsia " (fl. 1.565), que discute a possibilidade de o estatuto de cooperativa médica prever a limitação da admissão de novos cooperados, com base em critérios como especialidade, região de atendimento e demanda de beneficiários.
+É o relatório.
+Nos termos do art. 138 do CPC/15, o relator, "considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia" poderá "admitir a participação  como amicus curiae  de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada".
+Na espécie, tratando-se de processo subjetivo, cuja controvérsia já possui tratamento uniforme nos julgados das Turmas da Segunda Seção do STJ, e já havendo decisão monocrática, rejeitando a tese de nulidade de norma do estatuto da Unimed Curitiba - Sociedade Cooperativa de Médicos, não se tem presente o requisito da relevância da matéria.
+Ademais, a figura do amicus curiae tem como finalidade a ampliação do contraditório no processo, em favor da jurisdição, por meio da exposição de informações técnicas relevantes ou por meio da defesa de interesses sociais difusos, que não seriam debatidos no confronto restrito dos argumentos do autor e do réu (ou do recorrente e do recorrido). No caso, contudo, como o pedido de ingresso foi formulado por Confederação Cooperativa, que, formalmente, representa os interesses de uma das partes (Unimed Cooperativa de Curitiba), a atuação da requerente se daria muito provavelmente de modo parcial, e não em favor do melhor exercício da jurisdição.
+Ante o exposto, indefiro o pedido de ingresso como amicus curiae.
+Publique-se.
+EMENTA
