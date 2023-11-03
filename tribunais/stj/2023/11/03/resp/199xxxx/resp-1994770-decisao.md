@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto DANIEL DOS SANTOS LEITE, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE EXECUÇÃO. PENHORA DE VALORES EM CONTA BANCÁRIA. POSSIBILIDADE. IMPRESCINDIBILIDADE DE DEMONSTRAÇÃO NO SENTIDO DE QUE OS VALORES CONSTRITOS POSSUEM NATUREZA SALARIAL PARA FINS DE DECLARAÇÃO DA IMPENHORABILIDADE. CASO DOS AUTOS EM QUE A CONTA POUPANÇA INDICA INTENSA MOVIMENTAÇÃO FINANCEIRA O QUE SUBVERTE SEU CARÁTER DE RESERVA FINANCEIRA. ÔNUS DA PROVA QUE INCUMBE AO DEVEDOR E DO QUAL NÃO LOGROU ÊXITO EM SE DESINCUMBIR. PRECEDENTES. DECISÃO MODIFICADA. UNÂNIME. DERAM PROVIMENTO AO RECURSO" (e-STJ fl. 76).
+Em suas razões (fls. 74/94, e-STJ, além de dissídio jurisprudencial, o recorrente alega violação dos artigos 832, 833, IV e X, do Código de Processo Civil.
+Sustenta, em síntese, a impossibilidade de penhora de valores depositados em conta bancária até o limite de 40 salários mínimos, não exigindo qualquer prova a respeito da origem e da finalidade dos depósitos.
+Salienta a ausência de má-fé ou de fraude no caso concreto, bem como a hipossuficiência em que se encontra o recorrente, "e, sobretudo, o fato de restar demonstrada a impenhorabilidade das verbas salariais constritas, com base nos arts. 832 e 833, IV e X, do Código de Processo Civil, os valores devem ser imediatamente liberados" (fl. 86,e -STJ).
+Com as contrarrazões (e-STJ fls. 157/162), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+No caso dos autos, o Tribunal de origem permitiu a penhora de valores depositados em conta bancária do recorrente com base nos seguintes fundamentos:
+"(..) Já de início, consigno ser o caso de reforma da decisão agravada.
+Isso porque, a teor do reiteradamente decidido por esta 11ª Câmara Cível, no que tange à impenhorabilidade de valores depositados em conta corrente ou poupança, só se admite a liberação nos casos em que se encontre suficientemente comprovada a sua utilização como meio hábil à constituição de reserva financeira (ou seja, quando a conta está sendo utilizada com o intuito de poupar valores) ou, ainda, se demonstrado eventual caráter salarial da eventual verba constrita.
+Dessa forma, considerando que os montantes penhorados não tiveram sua origem comprovada, não logrando êxito, portanto, o agravado em se desincumbir do ônus probatório que lhe competia, imperativa é a manutenção da constrição. Inobstante, a intensa movimentação financeira na conta poupança 141193-4 junto à agência 2694-8 do Banco do Brasil (evento 41,OUT4), inviabiliza que o montante seja reconhecido como reserva financeira do devedor.
+Logo, embora o Superior Tribunal de Justiça tenha entendido pela possibilidade de reconhecimento da impenhorabilidade da quantia de até quarenta salários mínimos poupada pelo devedor - pouco importando se "mantida em papel moeda, conta corrente ou aplicada em caderneta de poupança propriamente dita, CDB ou em fundo de investimentos1" - o entendimento é claro ao consignar a necessário que o montante seja, comprovadamente, a única reserva monetária do devedor. O que, consoante já referido, não restou demonstrado no caso em apreço" (fl. 65, e-STJ).
+É oportuno consignar que a atual jurisprudência desta Corte não distingue entre se tratar de conta corrente ou conta-poupança para o fim de verificação da impenhorabilidade dos valores ali depositados (artigo 833, X, do CPC/2015), sendo necessário demonstrar apenas que se trata da única reserva em nome do devedor.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORA. ATIVOS FINANCEIROS. CONTA-POUPANÇA VINCULADA À CONTA-CORRENTE. IMPENHORABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade deve ser respeitada.
+3. Agravo interno não provido." (AgInt no AgInt no AREsp 1.643.889/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/8/2020, DJe 31/8/2020 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. EMBARGOS À PENHORA. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA. AUSÊNCIA DE COMPROVAÇÃO DO CARÁTER ESSENCIAL PARA MANUTENÇÃO DA PESSOA JURÍDICA. FUNDAMENTO INATACADO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp 1.230.060/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe de 29/8/2014).
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que a recorrente não comprovou que a quantia bloqueada consistia em única fonte de ativos, o que não foi impugnado nas razões do recurso especial.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+4. Ademais, a alteração do que concluiu o Tribunal de origem, no que se refere à ausência de demonstração de que os valores depositados seriam a única reserva financeira do recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento." (AgInt no REsp 1.833.911/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/2/2020, DJe 17/2/2020 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. REVALORAÇÃO DE PROVAS. POSSIBILIDADE. NÃO INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. PENHORA. NÃO CABIMENTO. PRECEDENTES ESPECÍFICOS.
+1. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática admitida em sede de recurso especial, razão pela qual não incide o óbice previsto no Enunciado n.º 7/STJ.
+2. De acordo com entendimento do STJ, a legislação não faz distinção entre os tipos de contas ou cadernetas de poupança, sendo incabível a penhora de valores inferiores a quarenta salários mínimos nelas depositadas.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO." (AgInt no REsp 1.494.266/RO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017 - grifou-se)
+Nesse contexto, é irrelevante, para o fim de verificar a impenhorabilidade, estarem os valores depositados em conta corrente ou poupança.
+No entanto, no caso, não há como acolher a pretensão recursal para infirmar a conclusão do aresto atacado, no sentido de que não foi comprovada a origem do montante penhorado nem que ele é a única reserva financeira do recorrente, tendo em vista o óbice da Súmula nº 7/STJ, já que demandaria o revolvimento das circunstâncias fáticas dos autos, procedimento incompatível com a via eleita.
+Ante o exposto, não conheço do recurso especial.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
