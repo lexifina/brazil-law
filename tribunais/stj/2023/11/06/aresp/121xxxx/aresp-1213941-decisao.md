@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Propriedade industrial. Ação de abstenção de uso de marca, cumulada com indenização. Comprovação de registro da marca da autora, sem que infirmado na sede própria. Reprodução indevida em embalagem da ré. Dano moral devido. Sentença revista. Recurso provido." (e-STJ, fl. 355)
+Nas razões do recurso especial, a agravante alega violação ao art. 124 da Lei nº 9.279/96 e divergência jurisprudencial, sustentando, em síntese, (a) que não há que se falar em uso sem autorização de marca registrada ou dano moral indenizável, considerando que o termo "bocconcino" é largamente utilizado para designar o produto a que faz referência e que foi comprovada a saliente discrepância entre os produtos das empresas litigantes, (b) que foram violadas a livre concorrência e o acesso à informação pelo consumidor, não havendo que se falar em ato ilícito pelo uso de expressão estrangeira comum cuja outorga de uso exclusivo é impossível, (c) que jamais agiu com dolo ou má-fé em imitar marca e obter com isso vantagem, (d) que não ocorreu dano moral no presente caso diante da ausência de demonstração de violação à honra objetiva, cuja presunção não se aplica a pessoa jurídica e (e) que o valor deve ser reduzido em caso de condenação, sendo o valor arbitrado desproporcional à realidade narrada no presente caso.
+Contrarrazões às fls. 478/489.
+É o relatório. Passo a decidir.
+Inicialmente, tem-se que a agravante suscitou ausência de danos morais e necessidade de reforma no tocante ao valor arbitrado, mas não indicou os dispositivos que entende violados. Ante a deficiente fundamentação do recurso, nesse ponto, incide a Súmula Nº 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com relação à suposta violação ao art. 124, inciso VI da Lei nº 9.279/96, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Por fim, o recurso não merece prosperar pela alínea "c" do permissivo constitucional em razão do descumprimento do disposto nos arts. 1.029, § 1º, do CPC/15 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas, tampouco a mera indicação do julgado paradigma. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor da condenação
+Publique-se.
+EMENTA
