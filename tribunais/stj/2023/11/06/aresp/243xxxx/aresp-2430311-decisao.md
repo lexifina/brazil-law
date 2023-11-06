@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial por incidência da Súmula n. 83 do STJ (e-STJ fls. 428/434).
+O Tribunal de origem deu parcial provimento à apelação da ora recorrente para, reformando a sentença, condenar o recorrido ao pagamento, ne forma simples, do valor cobrado em obrigações acessórias, quais sejam, os juros sobre as tarifas, acrescidos juros de mora de 1% ao mês desde a citação e correção monetária pelo INPC, invertendo os honorários advocatícios que passam a incidir sobre o valor da presente condenação.
+A instituição financeira opôs embargos de declaração, que foram acolhidos com efeito modificativo, para julgar improcedente o pedido exordial, em razão da ocorrência da prescrição, invertendo o ônus de sucumbência, cuja exigibilidade ficou suspensa por ser a parte beneficiária da gratuidade judiciária.
+O acórdão recorrido está assim ementado (e-STJ fls. 341/342):
+EMBARGOS DE DECLARAÇÃO. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. DEVOLUÇÃO DOS VALORES COBRADOS A TÍTULO DE JUROS REMUNERATÓRIOS INCIDENTES SOBRE TARIFAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM PROCESSO ANTERIOR. ALEGADA OMISSÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. ACOLHIMENTO DOS EMBARGOS.
+Em se tratando de repetição de indébito decorrente de revisional de contrato, o Superior Tribunal de Justiça já assentou o posicionamento acerca da incidência do prazo prescricional atinente às ações de natureza pessoal, vintenária sob a égide do CC1916, e decenal na forma do art. 205 do CC02 .
+ 1  O termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+Verificada omissão existente no aresto atacado, cabe conferir efeito modificativo aos embargos para sanar a eiva apontada.
+No especial (e-STJ fls. 100/115), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de divergência jurisprudencial, ofensa ao art . 205 do Código Civil.
+Suscita, em síntese, a incidência de prescrição decenal e que "o direito que aqui se discute abrange uma relação jurídica de trato sucessivo, de modo que a prescrição se renova periodicamente, somente afetando as parcelas vencidas no decênio anterior ao ajuizamento da ação" (e-STJ fl. 365).
+Requer o conhecimento e provimento do recurso especial para "aplicando prazo prescricional decenal, trazidos nos exatos termos do art. 205, do Código Civil Pátrio, tendo por marco inicial para contagem do prazo prescricional a data de vencimento da última parcela, por se tratar de contrato de prestação continuada - trato sucessivo (RESP 1.849509 - RJ - JULGADO EM 16/08/2021), determinando a consequente remessa dos autos ao juízo singular de origem, para que se proceda com regular prosseguimento do feito" (e-STJ fl. 366).
+Houve contrarrazões (e-STJ fls. 419/423).
+No agravo (e-STJ fls. 437/445), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta, pugnando pela condenação da recorrente à verba honorária (e-STJ fls. 447/451).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito , extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 343/344):
+ ..  Ambos os embargantes aduzem que houve omissão no acórdão em relação à correção monetária.
+Ocorre que, independentemente da questão de fundo discutida, verifico a ocorrência de situação de , a qual pode ser analisada até mesmo de ofício, que diz respeito à . ordem pública prescrição A sentença de primeiro grau julgou improcedente o pedido autoral e o acórdão embargado, por seu turno, reformaram-na e julgou parcialmente procedente o pedido autoral, declarando a ilegalidade da cobrança de juros contratuais sobre as tarifas declaradas nulas anteriormente, e condenando o promovido/embargante à devolução simples dos valores pagos a título de juros incidentes sobre as tarifas ilegais.
+Em se tratando de repetição de indébito decorrente de revisional de contrato, o Superior Tribunal de Justiça já assentou o posicionamento acerca da incidência do prazo para ajuizamento de ações de , sendo vintenário sob a égide do CC1916, e natureza pessoal decenal (10 anos) na forma do art. 205 do CC02.
+Quanto ao termo inicial de contagem, ressalto, de início, que este Órgão fracionário já se posicionou outrora pelo reconhecimento do termo inicial da data do pagamento da última parcela do contrato.
+Contudo, tanto esta Câmara quanto as demais de competência cível desta Corte, vêm adotando mais recentemente o entendimento no sentido de que o termo inicial de prescrição decenal é a data da assinatura do contrato.
+ ..  Logo, observado que o instrumento contratual foi firmado em 18 de março de 2008 e a ação proposta em , deve ser reconhecida a prescrição. 21 de janeiro de 2020 Assim sendo, considerando a existência de omissão quanto ao termo inicial da contagem do prazo prescricional, o reconhecimento da prescrição é medida que se impõe.
+Ante o exposto, com efeito modificativo, para julgar improcedente o pedido acolho os Embargos, exordial, em razão da ocorrência da invertendo o ônus de sucumbência, cuja exigibilidade prescrição, fica suspensa por ser a parte beneficiária da gratuidade judiciária.
+Nesse contexto, o acórdão recorrido está em consonância com a orientação jurisprudencial desta Corte de que é decenal o prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, e que o termo inicial é a data da assinatura do contrato. Incidência da Súmula n. 83 do STJ, aplicável também aos recursos interpostos pela alínea "a" do permissivo constitucional. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do instrumento contratual. Precedentes. Incidência da Súmula 83 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.313.390/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO IMOBILIÁRIO CUMULADA COM REPETIÇÃO DE INDÉBITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TERMO INICIAL DO PRAZO PRESCRICIONAL. DATA DA ASSINATURA DO CONTRATO. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. O termo inicial do prazo prescricional, no qual o mutuário pretende rever cláusulas de contrato de empréstimo pessoal, é a data da assinatura do contrato.
+2.1 "A jurisprudência desta Corte é firme em determinar que o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato" (REsp n. 1.996.052/RS, Rel Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 19/5/2022).
+ ..
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.124.449/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+Finalmente, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas de Tribunais distintos, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias, ônus dos quais a parte recorrente não se desincumbiu, ante a incidência, inclusive, da Súmula n. 13 do STJ. Inafastável a Súmula n. 284 do STF quanto ao ponto.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
