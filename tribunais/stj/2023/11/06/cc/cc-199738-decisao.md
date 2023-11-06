@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de conflito de competência instaurado entre o Juízo de Direito da 1ª Vara Criminal de Inhumas/GO, o suscitante, e o Juízo de Direito da 12ª Vara Criminal de Porto Alegre/RS, o suscitado.
+Consta nos autos que a Policia Federal/ Delegacia de Repressão a Drogas de Goiânia/GO instaurou inquérito policial para apurar a prática, em tese, do delito descrito no art. 33, c/c art. 40, V, da Lei 11.434/06 (tráfico interestadual de drogas), consubstanciado na remessa de entorpecente, via Correios, de Porto Alegre/RS para Inhumas/GO, com interceptação da substância ilícita (54,8g de maconha) realizada pela Unidade dos Correios de Aparecida de Goiânia/GO.
+Inicialmente, os autos foram distribuídos ao Juízo da 4ª Vara Criminal de Aparecida de Goiânia/GO, o qual declinou da com petência aos seguintes fundamentos:
+"(..) embora o conteúdo tenha sido interceptado nesta Comarca, a droga foi remetida da Cidade e Comarca de Porto Alegre/RS.
+Logo, a competência deve ser fixada pelo local de remessa da droga, conforme decidido pelo STJ" (fl. 154).
+Por seu turno, o Juízo de Direito da 12ª Vara Criminal de Porto Alegre/RS entendeu ser incompetente para o acompanhamento do inquérito policial, invocando o precedente do CC n. 177.882/SP, de minha relatoria, o qual flexibilizou o enunciado da Súmula 528/STJ, que trata de tráfico transnacional de entorpecente praticado via Correios (fl. 163). Desse modo, remeteu os autos para a Comarca de Inhumas/GO.
+De outro lado, o Juízo de Direito da 1ª Vara Criminal de Inhumas/GO suscitou o presente incidente argumentado que o caso ora em análise não diz respeito a trafico internacional de drogas. Assim, no entendimento do Juízo suscitante, em se tratando de droga remetida de um ente federativo para outro, dentro do próprio território nacional, o tipo penal já está consumado no local da remessa do entorpecente, uma vez que o tráfico de drogas é um delito de ação múltipla (fl. 174).
+No Superior Tribunal de Justiça - STJ, o Juízo de Direito da 12ª Vara Criminal de Porto Alegre/RS foi designado para decidir, em caráter provisório, as medidas urgentes (fls. 185/186).
+O Ministério Público Federal atuante nesta Instância Superior manifestou-se pela declaração de competência do Juízo de Direito da 12ª Vara Criminal de Porto Alegre/RS (fls. 195/196).
+É o relatório.
+Decido.
+O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+Primeiramente, consigno que o CC n. 177.882/SP, de minha relatoria, invocado pelo Juízo suscitado, não guarda similitude com o caso em análise, porquanto, na espécie, tem-se tráfico interestadual de droga ao passo que referido precedente trata de importação de droga.
+Da leitura dos autos extrai-se que a substância entorpecente apreendida foi remetida por meio de agência dos Correios localizada na cidade de Porto Alegre/RS.
+O crime descrito no art. 33, caput, da Lei n. 11.343/2006 é classificado como de ação múltipla, cuja consumação se perfaz mediante a prática de quaisquer das condutas descritas no tipo penal. Partindo desta premissa, a jurisprudência da Terceira Seção do Superior Tribunal de Justiça - STJ tem entendido que, no caso do crime de tráfico interestadual de drogas por via postal, praticado na modalidade remeter, o delito já está consumado no momento da envio do entorpecente, fixando-se a competência nos moldes do art. 70 do Código de Processo Penal - CPP, o que contribui, inclusive, para a produção de provas. Nesse sentido:
+PROCESSUAL PENAL. CONFLITO DE COMPETÊNCIA. CRIME DE TRÁFICO INTERESTADUAL DE ENTORPECENTES. REMESSA POSTAL. CONSUMAÇÃO. LOCAL DA REMESSA DA DROGA. ART. 70 DO CPP. CONFLITO DE COMPETÊNCIA CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+1. O tráfico ilícito de entorpecentes, crime plurinuclear ou de condutas múltiplas, formal, consuma-se com a prática de qualquer um de seus verbos. No caso em comento, remetida a droga de um Estado para outro, dentro do próprio território nacional, restou consumado o delito, embora interceptada a droga antes de alcançar o seu destino final.
+2. In casu, no tráfico interestadual de drogas, tal qual a exportação, no tráfico internacional de entorpecentes, cujos últimos atos de execução são praticados dentro do país, é de se considerar como local da remessa do entorpecente o lugar da consumação do delito, nos termos do art. 70 do Código de Processo Penal, relevando-se a competência, inclusive, em favor da produção de provas e do desenvolvimento dos atos processuais.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal de Campo Grande - MS, o suscitante.
+(CC n. 147.802/MS, relator Ministro Ribeiro Dantas, Terceira Seção, DJe de 13/10/2016.)
+Sobre o tema, vejam-se, ainda, as seguintes decisões monocráticas: CC n. 196.921/SP, Ministro Sebastião Reis Júnior, DJe de 20/06/2023, CC n. 197.035/MT, Ministro Reynaldo Soares da Fonseca, DJe de 26/05/2023, CC n. 190.879/SC, Rel. Ministro OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), DJe de 8/11/2022; e CC n. 187.563/SP, Relatora Ministra LAURITA VAZ, DJe de 3 /5/2022.
+Ante o exposto conheço do conflito para declarar competente o Juízo de Direito da 12ª Vara Criminal de Porto Alegre/RS.
+Publique-se.
+Intimem-se.
+EMENTA
