@@ -1,0 +1,39 @@
+DECISÃO
+LETICIA APARECIDA DA COSTA E SILVA agrava de decisão que não admitiu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500169-39.2021.8.26.0595.
+Consta dos autos que a agravante foi condenada a 6 anos de reclusão, em regime fechado, mais multa, como incursa no art. 157, §2º, II e VII, c/c o art. 61, II, "h", ambos do Código Penal,.
+Nas razões recursais, a defesa aponta violação dos arts. 311 do Código de Processo Penal, 33, § 3º, e 59, ambos do Código Penal. Sustenta a impossibilidade de decretação de prisão preventiva ante a ausência de prévio requerimento do Ministério Público.
+Afirma a ausência de fundamentação idônea para o agravamento do regime prisional, visto que o Tribunal de origem incorreu em "reformatio in pejus" e em dissonância com as Súmulas n. 440 do STJ e 718 e 719 do STF.
+Aduz que houve a fixação da causa de aumento em 1/2 sem motivação válida, pois estabelecida apenas com base no número de majorantes.
+Requer o provimento do recurso para revogar a prisão cautelar, reduzir a reprimenda, substituir a sanção privativa de liberdade por penas restritivas de direitos e ainda fixar o regime aberto.
+A Corte estadual não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento ao agravo.
+Decido.
+I. Admissibilidade
+O agravo infirmou, de maneira suficiente, as razões de inadmissão do recurso especial, motivo pelo qual comporta conhecimento. Da mesma forma, vejo que o especial preencheu os requisitos de admissibilidade, pois as questões suscitadas foram examinadas pelo Tribunal a quo no julgamento da apelação, o pleito apresenta argumentação suficiente e sua apreciação prescinde de revolvimento do contexto fático-probatório dos autos.
+II. Prisão preventiva
+Conforme se extrai da decisão de fls. 519-522, verifico que, por ocasião do julgamento do HC n. 731.697/SP , concedi a ordem em favor da paciente Letícia Aparecida da Costa e Silva, com efeitos extensivos a Larissa Morais de Barros, para determinar a soltura das acusadas, salvo se por outro motivo não estiverem presas, e, por conseguinte, deferir o direito de recorrerem em liberdade.
+Assim, fica esvaída a análise da matéria aventada neste recurso.
+III. Causa de aumento
+O Juiz de primeiro grau, na terceira fase da dosimetria, elevou a pena em 1/2, nos seguintes termos (fl. 332, grifei):
+Em terceira e última fase, presentes as causas de aumento de pena previstas no §2º, incisos II e VII, do artigo 157 Código Penal, vez que o crime foi cometido em concurso de duas ou mais pessoas e a violência ou grave ameaça foi exercida com emprego de arma branca, motivo pelo qual aumento a pena acima em 1/2, perfazendo 6 anos, 2 meses e 20 dias de reclusão e ao pagamento de 14 dias-multa, para cada ré. Ausente causa de diminuição de pena.
+O Tribunal estadual manteve a fração aplicada na origem pelas causas de aumento, com base nos seguintes argumentos (fl. 420, destaquei):
+Por outro lado, reconhecem-se as menoridades de LARISSA e LETÍCIA as quais devem ser compensadas com a agravante do artigo 61, inciso II, letra "h", do Código Penal, permanecendo, portanto, suas penas-bases no mínimo legal que, majoradas em 1/2 (metade) pelo concurso de agentes e pelo emprego de arma, resultam, para cada uma, nas penas de 06 (seis) anos de reclusão, 12 (doze) dias-multa.
+Na hipótese, verifico que as instâncias ordinárias justificaram o aumento da pena, na terceira fase da dosimetria, apenas com base no número de majorantes incidentes no caso, sem apontar elementos dos autos que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+Este Superior Tribunal tem reiteradamente decidido que, em se tratando de roubo com a presença de mais de uma causa de aumento, a majoração da pena acima do mínimo legal (um terço) requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, não sendo suficiente a simples menção ao número de causas de aumento de pena, como ocorrido no caso em análise.
+A matéria se encontra sumulada por esta Corte, em seu enunciado n. 443, in verbis: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+IV. Nova dosimetria
+Assim, diante da violação legal reconhecida, passo a refazer a dosimetria.
+Partindo dos critérios adotados pelas instâncias ordinárias, verifico que a reprimenda-base da ré foi fixada no mínimo legal. Na segunda fase, presentes a atenuante da menoridade relativa e a agravante prevista no art. 61, II, "h", do CP, não há alteração da sanção ante a compensação integral estabelecida na instância ordinária. Por fim, considerada ilegal a fundamentação quantitativa adotada para elevar a pena, deve ser aplicado o aumento de 1/3 pelas majorantes, o que torna a reprimenda definitivamente estabelecida em 5 anos e 4 meses de reclusão e 13 dias-multa.
+V. Regime e substituição
+No tocante ao regime inicial de cumprimento de pena, verifico que o Juízo monocrático fixou o regime semiaberto "para rés Larissa e Letícia para início de cumprimento de pena, nos termos do artigo 33, §2º, "b", do Código Penal" (fl. 332).
+Contudo, a Corte estadual, em recurso exclusivo da defesa, fixou o regime fechado, com base nos seguintes fundamentos (fls. 420-421):
+A mantença do regime inicial fechado é imperiosa para LARISSA e LETÍCIA, seja pela situação fática (utilização de arma, concurso de três agentes e violência física contra vítima idosa o que denota maior sucesso na empreitada, menor resistência e maior danos psicológicos à vítima; prática de crime com violência ou grave ameaça no interior do asilo inviolável de uma pessoa), seja sobretudo por coerência ao posicionamento majoritário da jurisprudência deste Tribunal de Justiça, já ratificado, aliás, pelo Superior Tribunal de Justiça (HC nº 338.469-SP, rel. Min. Ribeiro Dantas, 5ª T., j. em 07.04.2016)
+Cumpre destacar que a proibição da reformatio in pejus, derivação da regra mais ampla do favor rei (LOZZI, Gilberto. Favor rei e processo penale. Milano: Giuffr , 1968, p. 115), traduz-se na vedação a que, em recurso interposto exclusivamente pelo acusado, se agrave a situação do recorrente, no que tange à decisão impugnada, aceita pelo acusador.
+Desse modo, a vedação de reforma para pior garante ao recorrente o direito de não ver sua situação piorada, direta ou indiretamente, mas não obsta, por sua vez, que o julgador, para dizer o direito - exercendo, portanto, sua soberana função de jurisdictio -, encontre fundamentos e motivação devida, respeitados, à evidência, a imputação deduzida pelo órgão de acusação e os limites da pena imposta na origem.
+No caso, infere-se ter havido modificação em prejuízo da acusada em relação ao regime prisional, sem recurso da acusação que abordasse especificamente esse tema. Isso porque o colegiado estadual inovou na argumentação para fixar regime mais gravoso em recurso exclusivo da defesa.
+Portanto, diante do total da sanção estabelecida e da ocorrência de reformatio in pejus, entendo que deve ser mantido o regime semiaberto estabelecido na sentença condenatória, nos termos do art. 33, § 2º, "b", do CP.
+Por fim, fixada a reprimenda definitiva em patamar superior a 4 anos de reclusão e constatada a prática de crime mediante violência, inadmissível a substituição da sanção privativa de liberdade por penas restritivas de direitos, consoante o art. 44, I, do CP.
+VI. Dispositivo
+À vista do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dou provimento ao recurso especial para reduzir a pena para 5 anos e 4 meses de reclusão mais 13 dias-multa, no regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
