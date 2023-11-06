@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+"AGRAVO REGIMENTAL - AÇÃO RESCISÓRIA DECISÃO MONOCRÁTICA - VALOR DA CAUSA CORREÇÃO DE OFÍCIO - POSSIBILIDADE - VALOR ARBITRADO NA INICIAL PELO CRITÉRIO DO VALOR ATUALIZADO DA CAUSA RESCINDENDA - INSUFICIÊNCIA - PREVALÊNCIA DO CRITÉRIO DO PROVEITO ECONÔMICO DA DEMANDA SEGUNDO OS ÍNDICES OFICIAIS - DECISÃO REFORMADA EM PARTE - RECURSO PARCIALMENTE PROVIDO.
+I - Acaso insuficiente o critério do valor atualizado da causa rescindenda, o valor da causa rescisória deve sempre buscar o critério da avaliação do proveito econômico da demanda.
+II - A definição do valor da causa não prescinde da utilização dos elementos mais seguros possíveis, de modo disponibilidade de índices deve seguir ao sabor unilaterais." (e-STJ, fl. 2029)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 2052/2057).
+Nas razões do recurso especial, os agravantes alegam violação aos arts. 333, 364, 259 e 535 do Código de Processo Civil de 1973 e divergência jurisprudencial, sustentando, em síntese, (a) que o valor da ação rescisória não pode ser atribuída com base em premissas aleatórias, mas sim em critérios objetivos, bem como que a iliquidez do valor do eventual proveito econômico gera insegurança, (b) que o imóvel objeto da ação não está localizado no Município de Cocalinho, de modo que o valor estimado não é preciso, (c) que não houve pronunciamento acerca do valor fornecido quando ocorreu registro da sentença de usucapião às margens na matrícula, no valor de R$ 188.000,00 (cento e oitenta e oito mil reais) nem acerca da alegação de que a posse não possui o mesmo valor do domínio e (d) que o ônus da comprovar o valor real do proveito econômico recai sobre o réu.
+Instado a se manifestar, a douta Subprocuradoria-geral da República opinou pelo não conhecimento do agravo (e-STJ, fls. 2257/2259).
+É o relatório. Passo a decidir.
+Não se verifica a alegada violação ao art. 535 do CPC/15, na medida em que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia no tocante ao valor atribuída à causa (e-STJ, fls. 2031/2032).
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Com relação a suposta violação aos arts. 333 e 364 do CPC/73, tem-se que estes não foram objeto do recurso de apelação e não se encontram contemplados no objeto da controvérsia resolvida pelo Tribunal de origem, tendo a agravante as alegado exclusivamente em sede de embargos, o que traduz a tentativa de pós-questionamento, circunstância inadmitida por esta Corte Superior a teor da Súmula 211/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. TENTATIVA. PÓS-QUESTIONAMENTO. SÚMULA N. 211/STJ. DANO MORAL. VALOR. HONORÁRIOS ADVOCATÍCIOS. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973 (art. 1.022 do CPC/15).
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+3. As questões que somente foram alegadas em embargos de declaração opostos ao acórdão de apelação cível traduzem tentativa de pós-questionamento, inadmissível. Incidência da Súmula n. 211 desta Corte.
+4. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, já foi revisada em conformidade com os princípios da proporcionalidade e razoabilidade na decisão agravada.
+5. A revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ), salvo na hipótese de valores irrisórios ou exorbitantes, o que não se verifica no caso presente.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1133717/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe 02/05/2018)
+Por fim, com relação ao art. 259 do CPC/73, a Corte de origem afirmou, diante do contexto fático-probatório contido nos autos, que o valor da presente causa rescisória deve refletir o proveito econômico da demanda, in verbis:
+"Conforme relatado, valor da causa rescisória, área de terras de 2.265ha cinco hectares), localizada tudo reside em saber, qual o quando em pauta, a posse de uma (dois mil duzentos e sessenta e no Município de Cocalinho.
+Pois bem, por ocasião da decisão monocrática, ficou encampado o entendimento de que, acaso insuficiente o critério do valor atualizado da causa rescindenda, o valor da causa rescisória deve sempre buscar o critério da avaliação do proveito econômico da demanda." (e-STJ, fls. 2031/2032)
+Nesse ponto, a decisão de origem está em consonância com o entendimento desta Corte Superior, de modo a incidir a Súmula 83/STJ.
+Vejamos:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPUGNAÇÃO DO VALOR DA CAUSA. EXISTÊNCIA DE LIQUIDAÇÃO DEFINITIVA. ALCANCE DO PLEITO RESCISÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. AÇÃO RESCISÓRIA. BENEFÍCIO ECONÔMICO. AGRAVO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+2. O valor da causa em ação rescisória, em regra, deve corresponder ao da ação originária, corrigido monetariamente. No entanto, na hipótese de discrepância entre o valor da causa originária e o benefício econômico obtido, deve prevalecer este último.
+3. No caso, a sentença primitiva já foi liquidada, de modo que o valor ali apurado deverá ser atribuído à ação rescisória, tendo em vista que este é o valor perseguido pelo requerente.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 896.571/SE, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 2/6/2016, DJe de 17/6/2016.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AÇÃO RESCISÓRIA. VALOR DA CAUSA. AÇÃO ORIGINÁRIA. BENEFÍCIO ECONÔMICO OBTIDO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO Á LEGISLAÇÃO FEDERAL. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. É vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso especial, inovando questões não suscitadas anteriormente (EDcl no AgRg no REsp 1660712/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/06/2018, DJe 08/06/2018).
+2. O valor da causa em ação rescisória, em regra, deve corresponder ao da ação originária, corrigido monetariamente, exceto no caso em que sabe-se o montante do benefício econômico obtido, ocasião que deve prevalecer este último. Precedentes.
+3. Como é cediço, a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Incidência da Súmula 284/STF.
+4. Agravo não provido.
+(AgInt no AREsp n. 1.270.210/SP, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 24/9/2019, DJe de 30/9/2019.)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO VALOR DA CAUSA - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. O valor da causa em ação rescisória deve corresponder ao da ação originária, corrigido monetariamente, e na hipótese de discrepância entre o valor da causa originária e o benefício econômico buscado na rescisória, este último deve prevalecer. Incidência da Súmula 83/STJ.
+1.1. Rever o valor estimado pela Corte local a título de proveito econômico a ser obtido com a demanda demandaria revolvimento do acervo probatório. Incidência da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no Ag n. 1.403.972/ES, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
