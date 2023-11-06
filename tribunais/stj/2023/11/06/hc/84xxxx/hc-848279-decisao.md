@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS DA SILVA OLIVEIRA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi inicialmente condenado às penas de 06 (seis) anos de reclusão, em regime inicial fechado, e ao pagamento de 600 (seiscentos) dias-multa, por infração ao artigo 33, caput, da Lei 11.343/2006, nos termos da sentença de fls. 14-21.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, conforme o acórdão de fls. 22-30.
+No presente writ, o impetrante sustenta que o acórdão impugnado padece de flagrante ilegalidade, consistente na desproporcional dosimetria da pena e na imposição de regime prisional mais gravoso sem fundamentação idônea.
+Argumenta que "em recente decisão proferida por esta indelével corte no julgamento do HC nº 825467 - SP (2023/0174034-8), foi reconhecida a atenuante do art. 33 §4 da Lei 11.343/2006 em favor do Paciente no processo nº 1500386-91.2020.8.26.0571, o que, consequentemente, afasta a REINCIDÊNCIA ESPECÍFICA que fundamentou o aumento de 1/5 e a aplicação do regime inicial de cumprimento de pena no FECHADO conforme consta da inclusa decisão atacada."
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja afastado o aumento da ordem de 1/5 fundamentado na reincidência específica, bem como que seja fixado o regime inicial semiaberto.
+O pedido liminar foi indeferido às fls. 303-304.
+Informações prestadas às fls. 310-353 e 356-375.
+O Ministério Público Federal, às fls. 377-381, opinou pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício.
+É o relatório. DECIDO.
+A controvérsia consiste na suposta ilegalidade na segunda etapa da dosimetria da pena, em razão da fixação da fração de 1/5 a título da reincidência específica, bem como em razão da fixação de regime prisional inicial mais gravoso, sem fundamentação idônea para tanto.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No tocante à agravante da reincidência específica, cumpre assinalar, de início, que predomina nesta Corte o entendimento de que o aumento da pena em patamar superior a 1/6, em virtude da incidência de circunstância agravante, também demanda fundamentação concreta e específica para justificar o incremento em maior extensão.
+Nesse sentido:
+"  ..  6. Quanto ao aumento pelo reconhecimento da agravante da reincidência, a despeito da anterior vacilação da jurisprudência, na matéria, no âmbito deste Sodalício, atualmente, ambas as Turmas da Terceira Seção compartilham a compreensão de que a mera circunstância de ser específica a reincidência não autoriza, por si só, o incremento da reprimenda em fração superior a 1/6 (um sexto).
+7. Agravo regimental não conhecido. Concedido habeas corpus, de ofício, em favor do ora Agravante e do Corréu LÉO HENRIQUE BARBOSA RAMOS, a fim de: (i) fixar a pena-base de ambos no mínimo legal;
+(ii) afastar a incidência da agravante prevista no art. 61, inciso II, alínea j, do Código Penal, na dosimetria de ambos os Réus; e (iii) relativamente ao Agravante, reduzir o patamar de aumento pela agravante da reincidência à fração de 1/6 (um sexto); redimensionando as penas finais nos moldes deste voto." (AgRg no AREsp n. 2.377.692/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 15/8/2023.)
+Ademais, resulta imperativo considerar o entendimento firmado no julgamento do HC n. 365.963/SP (DJe 23/11/2017), oportunidade em que a Terceira Seção desta Corte pacificou entendimento no sentido de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito.
+No referido julgamento, assentou-se na premissa de que o réu, mesmo ostentando condenação anterior por delito idêntico, não merece maior reprovabilidade na sua conduta, haja vista que, após a reforma da Parte Geral do Código Penal, operada em 11/7/1984, não há mais distinção entre os efeitos da reincidência genérica e específica, sendo inadmissível que o aplicador da lei assim o proceda, sob pena de ofensa aos princípios da legalidade e da proporcionalidade.
+Na hipótese, o Tribunal de origem manteve a fração de aumento decorrente da reincidência em patamar superior a 1/6, qual seja, 1/5, sem fundamentação concreta e idônea para tanto, uma vez que o paciente ostenta apenas uma condenação pretérita, ainda que de cunho específico, o que está em desacordo com a jurisprudência desta Corte.
+Corroborando o entendimento: AgRg no HC n. 743.680/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 13/9/2022.
+Dessa feita, fixo, a título da agravante da reincidência, o patamar de 1/6.
+Mantidos os demais critérios dosimétricos fixados pela Corte de origem, fixo a pena definitiva do paciente no patamar de 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+No que tange ao regime inicial de cumprimento de pena, cumpre registrar que o Plenário do Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo.
+Dessa forma, para o estabelecimento de regime de cumprimento de pena mais gravoso, devem ser observados os preceitos constantes dos arts. 33 e 59, ambos do Código Penal, com fundamentação específica, baseada em elementos concretos extraídos dos autos.
+No presente caso, não há ilegalidade na fixação do regime prisional inicial fechado, em razão da reincidência do paciente, nos termos do artigo 33, § 2º, "b", do Código Penal.
+Nesse sentido:
+" ..  3. No tocante à fixação do regime inicial fechado, por se tratar de Acusada reincidente e condenada a uma pena privativa de liberdade superior a 4 (quatro) anos de reclusão, mostra-se adequada a imposição do regime inicial fechado, nos termos do art. 33, § 2.º, alíneas a e b, do Código Penal..
+4 . Agravo regimental desprovido." (AgRg no HC n. 849.097/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 5/10/2023, grifei.)
+Corroborando o entendimento: AgRg no HC n. 738.656/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 19/5/2022; AgRg no HC n. 708.627/SP, Quinta Turma, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), DJe de 27/4/2022.
+Ante o exposto, concedo parcialmente a ordem de habeas corpus para fixar as penas do paciente em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intime-se.
+EMENTA
