@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por GEREMIAS NASCIMENTO DE SOUZA em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Amazonas, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL. PROCESSO CIVIL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSUAL. AUSÊNCIA DE CITAÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+A inércia do autor em promover as diligências necessárias para a citação enseja a extinção do processo, sem resolução do mérito, por ausência de pressuposto de constituição e validade deste, nos termos do art. 485, inc. IV, do CPC." (fl. 86).
+Os embargos de declaração foram rejeitados (fls. 105-108).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 183, § 1º, 186, § 1º, 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil de 2015 e art. 128, I, da Lei Complementar n. 80/1994; sustentando, em síntese, (a) a negativa de prestação jurisdicional e (b) ofensa à prerrogativa de intimação pessoal da Defensoria Pública acerca de todos os atos do processo.
+A parte adversa não foi intimada para apresentar contrarrazões ao apelo nobre, pois não possui representação nos autos.
+É o relatório.
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da parte recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+Quanto às demais alegações, o eg. Tribunal de origem consigna que "É importante salientar que não se cuida do abandono da causa, que autoriza a extinção do feito somente após a intimação pessoal da parte autora para, em cinco dias, suprir a falta (Código de Processo Civil, artigo 485, III, §1º), mas, como referido, trata-se de ausência de pressuposto essencial ao desenvolvimento válido e regular do processo." (fl. 90, g.n.).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, ou seja, não se cuida de abandono da causa, que autoriza a extinção do feito somente após a intimação pessoal da parte autora, mas de ausência de pressuposto essencial ao desenvolvimento válido e regular do processo, não foi devidamente impugnado pela parte recorrente, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
