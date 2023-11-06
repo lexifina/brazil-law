@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por GABRIEL RODRIGUES DOS SANTOS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso da defesa para manter a sentença que condenou o ora recorrente como incurso no art. 155, §4º, inciso IV, do Código Penal, à pena de 02 (dois) anos de reclusão, em regime aberto, e pagamento de 10 (dez) dias-multa, tendo sido a pena corporal substituída por duas restritivas de direito (fls. 232-238 e fls. 288-295).
+Nas razões do recurso especial, a parte recorrente sustenta violação ao art. 155, §2º, do CP, porquanto o réu preenche os requisitos para a aplicação da benesse mesmo que o valor da res furtiva tenha sido avaliada em pouco mais (R$100,00) que o salário mínimo vigente à época dos fatos.
+Apresentada as contrarrazões (fls. 314-319), o recurso foi admitido e os autos encaminhados a esta Corte Superior de Justiça.
+O Ministério Público Federal se manifestou no sentido do desprovimento do recurso especial (fls. 337-339).
+É o relatório. DECIDO.
+A questão a ser analisada cinge-se a aplicação do furto privilegiado no caso. O Tribunal de origem assim se manifestou sobre o ponto (fls. 290-293):
+"Sobre esse aspecto, não assiste razão ao recorrente, pois, não bastasse o razoável valor da res furtiva (avaliada no total de R$ 1.200,00 vide fl. 29), a existência de qualificadora, por si só, também obsta a aplicação da insignificância, tendo em vista a maior reprovabilidade da conduta, nos exatos moldes da maciça jurisprudência do Superior Tribunal de Justiça, in verbis:
+ ..
+No mesmo passo, malgrado o apelante não seja reincidente, revela-se inviável a aplicação do privilégio, pois o valor do bem subtraído ultrapassa o salário-mínimo1 vigente, à época dos fatos, tornando inconcebível a aplicação do § 2º, do art. 155, do Código Penal, seguindo a orientação firmada pelo Superior Tribunal de Justiça:"
+Com efeito, a jurisprudência desta Corte é pacífica no sentido de que "Segundo o art. 155, §2º, do CP, se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa" (AgRg no R Esp n. 1.983.585/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 25/3/2022), bem como que "pequeno valor é aquele que não excede um salário mínimo ao tempo da prática delitiva" (AgRg no HC n. 708.323/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 17/12/2021).
+Da leitura do excerto acima colacionado, se vislumbra conformidade à lei federal, estando, inclusive o acórdão vergastado em compasso com a jurisprudência desta Corte Superior, uma vez que afastou o privilégio, embora o recorrente seja tecnicamente primário, porque o valor da res furtiva ultrapassou o valor do salário mínimo vigente à época dos fatos (R$1.100,00).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. PLEITO PELA AUSÊNCIA DE LAUDO DE AVALIAÇÃO APTO A CONFIRMAR O PEQUENO VALOR DA RES FURTIVA. IMPOSSIBILIDADE DE RECONHECIMENTO DA FIGURA PRIVILEGIADA DO DELITO. PRECEDENTES. ALEGAÇÃO DE QUE O PATAMAR DE REDUÇÃO, PELA TENTATIVA, DEVE SER APLICADO NO MÁXIMO. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente o laudo de avaliação apto a comprovar que a res furtiva deve ser considerada de pequena monta - isto é, tinha valor inferior a um salário mínimo vigente à época dos fatos -, não é possível reconhecer a figura do furto privilegiado prevista no § 2.º do art. 155 do Código Penal, pois o atendimento do citado requisito não pode ser presumido.
+ ..
+3. Agravo regimental desprovido." (AgRg no AREsp 1.846.296/MA, Sexta Turma. Rel. Ministra LAURITA VAZ, DJe 11/10/2021)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. RES FURTIVA. VALOR SUPERIOR AO SALÁRIO-MÍNIMO. RECONHECIMENTO DO PRIVILÉGIO DO ART. 155, § 2º, DO CP. IMPOSSIBILIDADE. REGIME SEMIABERTO. REINCIDÊNCIA. MOTIVAÇÃO IDÔNEA. SÚMULAS N. 440 DO STJ E 718 E 719, AMBAS DO STF. OBSERVÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para o reconhecimento do crime de furto privilegiado - direito subjetivo do réu -, a norma penal exige a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da coisa furtada que, na linha do entendimento pacificado neste Superior Tribunal de Justiça, não deve ultrapassar o valor do salário-mínimo vigente à época dos fatos.
+2. É indiferente que o bem furtado tenha sido restituído à vítima, pois o critério legal para o reconhecimento do privilégio é somente o pequeno valor da coisa furtada.
+3. In casu, o Juiz de primeira instância destacou, na sentença condenatória, que o valor da res furtiva apurado no auto de avaliação era superior ao do salário-mínimo na época dos fatos, circunstância que obsta o reconhecimento da forma privilegiada do furto.
+ ..
+5. Agravo regimental não provido." (AgRg no REsp n. 1.785.985/SP, Sexta Turma. Rel. Min. Rogerio Schietti Cruz, DJe de 06/09/2019)
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PENAL. RECURSO ESPECIAL. FURTO. MODALIDADE PRIVILEGIADA. PRIMARIEDADE DO AGENTE. VALOR DA RES FURTIVA SUPERIOR AO SALÁRIO-MÍNIMO VIGENTE AO TEMPO DO FATO. IMPOSSIBILIDADE. RECURSO ESPECIAL DES PROVIDO.
