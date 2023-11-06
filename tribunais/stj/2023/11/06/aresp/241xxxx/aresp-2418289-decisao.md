@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 292/294).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 99):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE RECONHECEU A IMPENHORABILIDADE DO BEM DE FAMÍLIA ARGUIDA PELA DEVEDORA. INSURGÊNCIA DAS EXEQUENTES. PRETENDIDA A CONSTRIÇÃO DO BEM AO ARGUMENTO DE QUE O DÉBITO PERSEGUIDO ADVÉM DE CONDENAÇÃO CRIMINAL. SUBSISTÊNCIA. PROTEÇÃO LEGAL EXCEPCIONADA NESTES CASOS, A FIM DE PRIORIZAR O OFENDIDO, EM DETRIMENTO DO INFRATOR. INTELIGÊNCIA DO INCISO VI DO ART. 3º DA LEI N. 8.009/1990. DECISUM REFORMADO. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 182/185).
+Nas razões do recurso especial (e-STJ fls. 202/217), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 1º e 3º, caput e VI, da Lei n. 8.009/1990, sustentando, em síntese, que "resta inequivocamente comprovando que o TJ-SC autorizou a penhora de bem de família, em cumprimento de sentença decorrente de ação puramente civil, englobando valores de danos materiais, morais e honorários advocatícios da ação de conhecimento cível e do próprio cumprimento de sentença não se tratando de liquidação de sentença criminal ou ação civil ex delito, mas simplesmente de ação de indenização comum iniciada no Juízo Cível, sem qualquer vinculação com o processo criminal" (e-STJ fl. 214).
+Requer, subsidiariamente, que "seja determinado que não possam ser englobados no débito da penhora que o bem de família da Recorre irá responder, os valores decorrentes de danos morais e honorários advocatícios, da lide puramente civil" (e-STJ fl. 215).
+No agravo (e-STJ fls. 308/334), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 353/378 (e-STJ).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 101/102):
+O art. 1º da Lei nº 8.009/1990, por sua vez, preceitua que o imóvel residencial próprio do casal, ou da entidade familiar, é impenhorável e não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei.
+O parágrafo único do dito dispositivo, por sua vez, enuncia que a mencionada impenhorabilidade compreende o imóvel sobre o qual se assentam a construção, as plantações, as benfeitorias de qualquer natureza e todos os equipamentos, inclusive os de uso profissional, ou móveis que guarnecem a casa, desde que quitados.
+E, de acordo com o art. 3º da legislação em comento, tal proteção legal é oponível em qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, salvo se movido: "para execução de sentença penal condenatória a ressarcimento, indenização ou perdimento de bens" (inciso VI).
+Com esta ressalva, é bom que se diga, o legislador optou por privilegiar o ofendido em detrimento do infrator, afastando a proteção legal despendida a fim de garantir o mínimo para a subsistência do devedor.
+E se assim o é, perfeitamente possível a penhora, já que a execução advém de lide indenizatória por ato ilícito, proveniente, por sua vez, de condenação criminal pela prática de estelionato já transitada em julgado.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que "de fato, o caráter protetivo da Lei n. 8.009/1990 impõe sejam as exceções nela previstas interpretadas estritamente. Nesse sentido, a ressalva contida no inciso VI do seu artigo 3º encarta a execução de sentença penal condenatória - ação civil ex delicto -; não alcançando a sentença cível de indenização, salvo se, verificada a coexistência dos dois tipos, for-lhes comum o fundamento de fato, exatamente o que ocorre nestes autos" (REsp n. 1.021.440/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/5/2013, DJe de 20/5/2013).
+Nesse mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR ATO ILÍCITO. FURTO QUALIFICADO. EXECUÇÃO DE SENTENÇA. EMBARGOS DO DEVEDOR. PENHORA. BEM DE FAMÍLIA. EXCEÇÃO DO ART. 3º, VI, DA LEI Nº 8009/90. POSSIBILIDADE.
+1. O art. 3º, VI, da Lei 8.009/90 prevê que a impenhorabilidade do bem de família é oponível em qualquer processo de execução civil, fiscal, previdenciária, trabalhista ou de outra natureza, salvo quanto tiver "sido adquirido com produto de crime ou para execução de sentença penal condenatória a ressarcimento, indenização ou perdimento de bens".
+2. Entre os bens jurídicos em discussão, de um lado a preservação da moradia do devedor inadimplente, e de outro o dever de ressarcir os prejuízos sofridos indevidamente por alguém em virtude de conduta ilícita criminalmente apurada, preferiu o legislador privilegiar o ofendido, em detrimento do infrator, criando esta exceção à impenhorabilidade do bem de família.
+3. No caso, faz-se possível a penhora do bem de família, haja vista que a execução é oriunda de título judicial decorrente de ação de indenização por ato ilícito, proveniente de condenação do embargante na esfera penal com trânsito em julgado, por subtração de coisa alheia móvel (furto qualificado).
+4. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+5. Recurso especial a que se nega provimento.
+(REsp n. 947.518/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/11/2011, DJe de 1/2/2012.)
+PROCESSUAL CIVIL - EXECUÇÃO DE SENTENÇA - BEM DE FAMÍLIA - INCIDÊNCIA DO ARTIGO 3º, VI, DA LEI 8.009/90 - PREQUESTIONAMENTO - AUSÊNCIA - SÚMULA 7/STJ.
+I - O primeiro Recorrente foi condenado no juízo criminal como incurso nas penas do artigo 129, § 6º, do Código Penal (lesões corporais culposas), bem como perante o juízo cível em ação de indenização pelo mesmo fato, não fazendo jus, por conseguinte, ao favor legal da Lei 8.009/90, segundo o disposto no artigo 3º, VI, da referida lei.
+II - Ausência de prequestionamento dos artigos 1.525, 145, V, e 146 do Código Civil.
+III - Concluiu o aresto combatido que o imóvel em questão, apesar de identificado como sendo de área rural, não é utilizado para fins agrícolas, mormente porque o Recorrente possui a profissão de pedreiro e não de agricultor. Rever tal posicionamento demanda revolvimento de aspectos fático-probatórios, inviável a teor do disposto na Súmula 7 desta Corte.
+IV - Recurso Especial parcialmente conhecido e, nesta parte, desprovido.
+(REsp n. 209.043/RS, Relator Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, julgado em 16/11/2000, DJ de 5/2/2001, p. 100.)
+Além disso, modificar o entendimento do acórdão impugnado quanto à penhorabilidade do bem, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
