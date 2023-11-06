@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 301-302):
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO AÇÃO REVISIONAL DE CONTRATOS. PRELIMINAR. NULIDADE DA SENTENÇA. EXTRA PETITA. DESACOLHIMENTO. PRESCRIÇÃO. A PRETENSÃO À REVISÃO DE CLÁUSULAS DO CONTRATO NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES ELENCADAS NO ART. 206 DO CÓDIGO CIVIL. EM RAZÃO DISSO, O PRAZO PRESCRICIONAL PARA A PROPOSITURA DE AÇÃO DE REVISÃO DE CONTRATO É O ORDINÁRIO - 10 ANOS, ART. 205 DO CÓDIGO CIVIL - E PASSA A FLUIR A PARTIR DA DATA DA CELEBRAÇÃO DO NEGÓCIO. ENTENDIMENTO DO STJ. NO CASO, HAVENDO NOVAÇÃO, O TERMO INICIAL É A DATA DA CELEBRAÇÃO DESSE INSTRUMENTO. APLICADO O POSICIONAMENTO DESTE ÓRGÃO FRACIONÁRIO ACERCA DO TERMO INICIAL DA PRESCRIÇÃO, COMO SENDO VENCIMENTO/PAGAMENTO DA ÚLTIMA PARCELA. PRESCRIÇÃO NÃO IMPLEMENTADA. SENTENÇA REFORMADA. JUROS REMUNERATÓRIOS. CONTRATOS DE MÚTUO CELEBRADOS COM ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE EQUIPARAÇÃO ÀS INSTITUIÇÕES FINANCEIRAS. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA DE 1% AO MÊS (LEI DE USURA E ART. 406 DO CC). CAPITALIZAÇÃO MENSAL (ART. 4º DA LEI DE USURA E ART. 591 DO CC). AUSÊNCIA DE PREVISÃO EXPRESSA NOS CONTRATOS FIRMADOS, BEM COMO DE COMPROVAÇÃO DA INCIDÊNCIA DE CAPITALIZAÇÃO DE JUROS REMUNERATÓRIOS. SENTENÇA PARCIALMENTE MODIFICADA. TAXA DE ADMINISTRAÇÃO. REPACTUAÇÃO. INCIDÊNCIA SOBRE O VALOR SOLICITADO, NOS TERMOS AJUSTADOS. DETERMINADO O RECÁLCULO. REPETIÇÃO DO INDÉBITO/COMPENSAÇÃO DE CRÉDITOS. DECORRÊNCIA LÓGICA DA REVISÃO JUDICIAL DAS CLÁUSULAS DOS CONTRATOS. DESNECESSIDADE DE DEMONSTRAÇÃO DE ERRO OU DOLO. SUCUMBÊNCIA REDIMENSIONADA. REDISTRIBUIÇÃO PROPORCIONAL AO DECAIMENTO (ART. 86 DO CPC). PRELIMINARES AFASTADAS. RECURSOS PARCIALMENTE PROVIDOS.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação ao art. 205 do Código Civil, bem como divergência jurisprudencial.
+Sustenta que o termo inicial para a discussão de cláusulas de cada um dos contratos de empréstimo celebrados é de sua assinatura, e não de seu vencimento, ainda que tenha havido sucessivas contratações realizadas pela parte recorrida.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Trata-se de ação revisional contratual proposta pela parte recorrida para aferir a legalidade das condições em que pactuados os contratos de mútuo feneratício celebrados com a entidade fechada de previdência complementar recorrente, especialmente no que se refere aos juros remuneratórios e capitalização com a consequente repetição do indébito.
+O Tribunal local, ao analisar a prejudicial de mérito, afastou a ocorrência da prescrição da demanda revisional de contrato de mútuo, pois não decorridos 10 (dez) anos, considerando como início do prazo prescricional a data do último pagamento. Assim se manifestou o acórdão recorrido (e-STJ, fls. 290-293):
+No entanto, a pretensão à revisão de cláusulas do contrato não se enquadra em nenhuma das hipóteses elencadas no art. 206 do Código Civil. Em razão disso, o prazo prescricional para a propositura de ação de revisão de cláusulas de contrato é o ordinário - 10 anos, art. 205 do Código Civil - e passa a fluir a partir da data da celebração do negócio. Essa é a orientação consolidada pelo Superior Tribunal de Justiça no que concerne a contratos bancários, a qual se aplica, por analogia, ao presente caso:
+(..).
+Os instrumentos dos contratos acima identificados foram celebrados nos anos de 2006, 2007 e 2008. Entretanto, o conteúdo dos contratos subsequentes revela que esses serviram à repactuação de débitos oriundos de contratos de empréstimo anteriores. Ou seja, foram pactuados em continuidade negocial. E a prescrição, nesse passo, tem marco inicial o último contrato celebrado pelas partes. A esse propósito, os acórdãos assim ementados:
+(..).
+E, prosseguindo na análise, registro, a prestigiar o entendimento firmado no âmbito deste Órgão Julgador, a prescrição, nas ações revisionais de contratos celebrados com a apelante, tem o dies a quo o vencimento/pagamento da última parcela do contrato, consoante as ementas que seguem transcritas:
+(..).
+In casu, os pactos revisandos foram renegociados, e o último contrato foi celebrado em 2016. Assim, a reforma da sentença, ao efeito de afastar a prefacial de prescrição, é medida que se impõe.
+Esta Corte Superior, entretanto, tem firmado o entendimento no sentido de que a data da assinatura do contrato configura o termo inicial da pretensão voltada à discussão da legalidade de suas cláusulas. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO APELO ESPECIAL. INSURGÊNCIA DA PARTE AUTORA.
+1. Nos termos do entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, o termo inicial do prazo prescricional, no qual o mutuário pretende rever cláusulas de contrato de empréstimo pessoal é a data da assinatura do contrato.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.987.256/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26.8.2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1917613/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 21.6.2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1444255/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 4.5.2020).
+Anoto que o fato de as partes terem renegociado as dívidas não altera o termo inicial da prescrição, tanto assim que esta Corte Superior tem sumulado o entendimento, a teor do verbete n. 286, no sentido de que a extinção do contrato, pela renegociação ou confissão de dívida, não impede a sua discussão em juízo, o que deverá ser postulado dentro do prazo prescricional.
+Considerando, pois, que os contratos objeto da ação revisional não atingidos pela prescrição devem ser, em tese, examinados isoladamente, imprescindível o retorno dos autos ao Tribunal de origem, em face às diversas questões discutidas no processo.
+Em face do exposto, conheço do recurso especial e a ele dou parcial provimento a fim de determinar o retorno dos autos ao Tribunal de origem para que, considerando que o termo inicial da prescrição de cada um dos contratos em discussão é o da sua assinatura, examine as demais questões, como entender de direito.
+Intimem-se.
+EMENTA
