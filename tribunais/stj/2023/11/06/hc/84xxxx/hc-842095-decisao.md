@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Alex Junior da Silva, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo no julgamento do HC n. 2142018-10.2023.8.26.0000 .
+Consta dos autos que o Juízo da 2ª Vara Criminal da comarca de Suzano/SP indeferiu o pedido de liberdade provisória do paciente nos Autos n. 005800-44.2017.8.26.0606 (desmembramento da Ação Penal n. 0009516-16.2016.8.26.0606), em que está sendo processado pela suposta prática do delito tipificado no art. 157, § 2º, I e II, por duas vezes, do Código Penal (roubo majorado).
+Inconformada, a defesa impetrou habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregaçã o cautelar, conforme acórdão de fls. 45/48.
+No presente writ, sustenta-se que o paciente não pode ser considerado foragido em razão de não ter sido localizado.
+Aduz-se que o paciente não foi reconhecido pelas testemunhas conforme auto de reconhecimento fls. 83/85, bem como jamais foi intimado para comparecer a delegacia, desta forma o réu nem sequer sabia que estava sendo processado motivo pelo qual não pode ser considerado foragido (fl. 9). Argumenta-se, também, que o corréu que havia apontado o acusado como seu comparsa, retratou-se em juízo.
+Alega-se inidoneidade dos fundamentos lançados na decisão que indeferiu o pedido de liberdade provisória e a possibilidade de substituição da prisão por cautelares diversas.
+Destacam-se as condições pessoais favoráveis do paciente e o fato de possuir filhos menores de 12 anos de idade, sendo indispensável aos cuidados dos menores.
+Requer-se a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade, se necessário com cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 53/54.
+As Informações foram prestadas pela instância ordinária às fls. 61/87.
+O Ministério Público Federal, às fls. 89/92, opina pela denegação da ordem.
+É o relatório.
+Por oportuno, ao indeferir o pedido de liberdade provisória, o Magistrado de primeiro grau asseverou (fl. 26 - grifo nosso):
+ ..
+Indefiro a revogação da prisão preventiva.
+Permanecem as mesmas circunstâncias de fato e de direito que levaram à decretação da prisão preventiva. Há prova da materialidade delitiva e sérios indícios de autoria, em especial pelos depoimentos das vítimas, pelo interrogatório do corréu Dennis - que confessa o crime e identifica o réu, seu primo, como seu comparsa -, e pelas filmagens das câmeras de segurança instaladas no local dos fatos.
+Os crimes são concretamente graves, tratando-se de roubo a duas vítimas distintas, cometido em concurso de pessoas, com emprego de arma de fogo (empunhada pelo réu), em mercado que era o local de trabalho das vítimas e local de circulação de muitas pessoas, causando sério risco à ordem pública.
+Diferentemente do que alega a defesa, permanece o risco à instrução probatória, pois ninguém foi ouvido em juízo em relação ao Réu, sendo imprescindível que ele permanece em custódia cautelar para salvaguardar a paz das vítimas em deporem em juízo.
+Por fim, evidente o risco de aplicação da lei penal. O Réu está, de fato, foragido desde 29/3/2017, quando cumprido o mandado de busca em sua residência, não sendo ele encontrado e tendo sua irmã, Sabrina, informado que ele não tinha endereço certo, porque era usuário de drogas (fls. 290/292 dos autos principais). Foram, ainda, tentadas diligências para a localização do Réu desde então, todas infrutíferas.
+As alegações de que tem endereço certo há seis anos e que é um pai presente de três filhos não foram demonstradas, pois o seu endereço não constava de qualquer cadastro público desde 2020 (fls. 363 dos autos principais) e ele não é pai de três, mas sim de dois filhos, já que Miguel Júnior Silva dos Santos não tem pai registrado (fls. 16).
+Por isso, inalterado o quadro fático, indefiro a revogação da prisão preventiva
+ ..
+O Tribunal a quo, por sua vez, ao denegar a ordem de habeas corpus, delineou que (fls. 47/48 - grifo nosso):
+ ..
+De início, verifica-se que a decretação da custódia cautelar se deu em momento anterior à suspensão do processo em decorrência da não localização do paciente. Neste aspecto, conforme devidamente apontado pela defesa, embora não se possa, a princípio, considerar o paciente foragido quando ainda não citado ou ciente da persecução penal, é certo que esta não foi a exclusiva e determinante razão para o indeferimento do pedido.
+Pelo contrário, a manutenção da prisão preventiva pelo MM. Juízo a quo encontra-se devidamente motivada, nos precisos termos da lei processual, em especial pela necessidade de garantia da ordem pública e pela gravidade verificada no caso concreto (fl. 16).
+O crime de roubo majorado, cometido em tese pelo paciente, envolve grave ameaça à pessoa e foi praticado em concurso de agentes com emprego de arma de fogo no local de trabalho das vítimas (mercado).
+Desse modo, tenho que a custódia cautelar se faz necessária para resguardar a instrução criminal e para a segurança da futura aplicação da lei penal.
+É importante ressaltar, ainda, que o paciente é reincidente (fls. 148/152), o que igualmente reforça a necessidade da sua custódia cautelar para assegurar a garantia da ordem pública.
+Também não se mostra adequada a aplicação das medidas cautelares previstas no art. 319 do Código de Processo Penal, coma redação dada pela Lei n. 12.403/2011, porquanto insuficientes para a manutenção da ordem pública, considerando as circunstâncias do delito, extremamente grave e que causa desassossego na sociedade, além de gerar permanente sensação de insegurança.
+Por fim, não obstante as alegações da defesa, não consta dos autos comprovação de que o paciente seja o único responsável pelos cuidados dos filhos menores de 12 (doze) anos.
+ ..
+In casu, as instâncias ordinárias apontaram prova da existência do delito e o receio de perigo gerado pelo estado de liberdade do paciente, mormente as circunstâncias do delito, porquanto, supostamente o réu, agindo em comparsaria com outro agente, dirigiu-se ao estabelecimento comercial "Mercado Oliveira" e mediante o emprego de arma de fogo - empunhada pelo acusado -, subtraiu bens de duas pessoas que trabalhavam no local, fundamentos aptos a consubstanciarem a prisão cautelar
+Com efeito,  a  gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (AgRg no RHC n. 160.967/PA, Ministro João Otávio de Noronha, Quinta Turma, DJe 15/8/2022).
+Em casos semelhantes já se manifestou essa Corte Superior: AgRg no HC n. 777.580/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/3/2023; e RHC n. 143.584/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/4/2021.
+Vê-se, ainda, que a decisão de primeiro grau e o acórdão do Tribunal destacaram o risco de reiteração delitiva, pois o paciente é reincidente, o que reforça a necessidade de manutenção do encarceramento provisório.
+De fato, conforme reiterado entendimento desta Corte Superior de Justiça, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Noutro ponto, ainda que seja afastado o fundamento da custódia para assegurar a aplicação da lei penal, em razão aparentemente ter permanecido foragido, subsistem as demais justificativas para manutenção da prisão preventiva.
+No que diz respeito à concessão de prisão domiciliar, o paciente não comprovou que é o único responsável pelo filho menor de 12 anos de idade. Desse modo, vê-se que o decidido pelo Tribunal a quo não divergiu da jurisprudência desta Corte no sentido de que a prisão domiciliar no caso do homem com filho de até 12 anos incompletos, não possui caráter absoluto ou automático, podendo o Magistrado conceder ou não o benefício, após a análise, no caso concreto, da sua adequação. Ou seja, além da observância dos dispositivos legais, faz-se necessária a demonstração de que o pai seja imprescindível aos cuidados com o filho menor (AgRg no RHC n. 161.882/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/3/2022).
+Registre-se, por fim, o entendimento desta Corte Superior de Justiça de que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e de que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Nesse contexto, não verifico, portanto, a flagrante ilegalidade no acórdão impugnado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. ROUBO MAJORADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO DELITO. ROUBO A ESTABELECIMENTO COMERCIAL, COM EMPREGO DE ARMA DE FOGO E COMPARSARIA. RISCO DE REITERAÇÃO DELITIVA. PACIENTE REINCIDENTE. GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR (GENITOR DE CRIANÇA MENOR DE 12 ANOS). AUSÊNCIA DE COMPROVAÇÃO DA IMPRESCINDIBILIDADE AOS CUIDADOS DA INFANTE. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL INEXISTENTE.
+Ordem denegada.
