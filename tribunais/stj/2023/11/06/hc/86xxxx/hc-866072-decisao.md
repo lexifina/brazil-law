@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus, impetrado em favor de LEANDRO MULLER DE PAULA em que se aponta como ato coator a decisão monocrática de desembargador do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que denegou o pedido de liminar formulado no HC n. 5029140-66.2023.4.03.0000.
+Consta dos autos que o paciente teve sua prisão preventiva decretada, decorrente de suposta prática do delito capitulado no art. 33 c/c art. 40, inciso I, ambos da Lei n. 11.343/2006.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a segregação processual do paciente, com predicados pessoais favoráveis, encontra-se despida de fundamentação idônea; não estão presentes os requisitos autorizadores da medida extrema, na forma do art. 312 do CPP e está ausente a contemporaneidade dos motivos ensejadores da custódia cautelar.
+Por fim, aduz serem adequadas e suficientes, ao caso em comento, as medidas cautelares alternativas, positivadas no art. 319 do referido diploma legal.
+Requer, assim, liminarmente e no mérito, a revogação da prisão cautelar, ainda que mediante a aplicação de medidas cautelares alternativas não prisionais.
+É, no essencial, o relatório. Decido.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão tem por base a necessidade de garantia da ordem pública, diante da gravidade concreta do delito, bem como a imprescindibilidade da custódia cautelar para fins de resguardo da aplicação da lei penal e por conveniência da instrução criminal, conforme se depreende da seguinte fundamentação, adotada na origem:
+Com efeito, há indícios de que se tenha praticado um delito transnacional de considerável reprovabilidade, sendo que a natureza e a quantidade da substância transportada, bem como as circunstâncias do fato, revelam dano concreto ao meio social.
+Nesse sentido, as investigações apuraram que ora paciente possuiria registro junto à ANAC, inclusive como piloto da referida aeronave onde a droga foi localizada, que os veículos do paciente acusaram diversas passagens na direção da região do Pontal do Paranapanema/SP, local dos fatos, nos dias anteriores, 16 e 17 de janeiro, e nos dias posteriores, 19 e 20 de janeiro, no sentido de volta para Campo Grande/MS, local da residência do paciente, que apesar de inoperante a aeronave, o seu GPS acusou que voava clandestinamente para região de fronteira com o Paraguai e que as justificativas apresentadas pelo paciente não se mostraram suficientes para afastar seu suposto envolvimento no crime apurado.
+(..)
+Por esse ângulo, a prisão fundamenta-se como forma de impedir que o acusado perturbe ou impeça a produção de provas, ameaçando testemunhas, apagando vestígios do crime, destruindo documentos.
+Ressalte-se que, se permanecer solto, o acusado, ora paciente, suposto participante de associação criminosa voltada ao tráfico internacional de drogas, terá facilidade para planejar e executar ações visando impedir o esclarecimento de certos pontos e a identificação do envolvimento de outras pessoas, e, ainda, evadir-se do distrito da culpa, intimidar testemunhas, combinar depoimentos e destruir provas do crime cometido, tudo em detrimento da verdade real dos fatos.
+Na seara da alteração do artigo 312 do CPP, trazida pela Lei nº 13.964/2019, a medida ainda é imprescindível como forma de afastar o perigo gerado pelo estado de liberdade do paciente, que, dada a sua condição de piloto de aeronaves, considerada, em tese, imprescindível para o suposto esquema de tráfico internacional de drogas, facilitaria a reorganização e continuidade da organização criminosa ou até sua fuga para outro país próximo (fls. 227/228).
+Em relação à contemporaneidade dos motivos que ensejaram a prisão preventiva, não há flagrante ilegalidade, pois, segundo julgados do STJ, seu exame leva em conta não apenas o tempo entre os fatos e a segregação processual, mas também a necessidade e a presença dos requisitos da prisão no momento da sua decretação, sendo que a gravidade concreta do delito impede o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no RHC n. 169.803/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/2/2023; AgRg no HC n. 707.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/3/2022; AgRg no HC n. 789.691/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/2/2023; AgRg no HC n. 775.563/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/12/2022; HC n. 741.498/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
