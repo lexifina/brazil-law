@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e da incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 483/485).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 411):
+EMENTA  DIREITO CONSUMERISTA E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. APELAÇÃO CÍVEL. COMPRA E VENDA DE IMÓVEL. DISTRATO. INTERESSE PROCESSUAL. PRESENÇA. RETENÇÃO. PERCENTUAL DE 10%. AUSÊNCIA DE COMPROVAÇÃO DE DESPESAS MAIOR RETENÇÃO. ÍNDICE DE JUROS DE MORA. PORTARIA 1855 TJAM. APELAÇÃO PARCIALMENTE PROVIDA.
+I  Não há fator algum que seja impeditivo da discussão das abusividade do distrato perante o Poder Judiciário. A possibilidade de revisão das cláusulas do distrato ocorre de forma equivalente a qualquer contrato, pois o distrato possui a mesma natureza. Logo, repelida a preliminar.
+II  A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias do caso concreto. O juízo de origem fixou a retenção no percentual mínimo (10%) dentro daquilo que é admitido pela Corte da Cidadania. De fato, como restou bem consignado, a requerida não comprova despesas de modo a justificar retenção maior.
+III  No que tange aos juros de mora fixados em 1% ao mês, há contrariedade ao definido na Portaria n. o 1855 deste TJAM, que deve ser aplicada na integralidade, quando da fase de cumprimento de sentença.
+IV  Apelação parcialmente provida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 436/440).
+Nas razões do recurso especial (e-STJ fls. 442/457), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou violação do art. 1022, II, do CPC/2015 por negativa de prestação jurisdicional.
+Segundo afirma, "o acórdão recorrido deixou de se manifestar acerca da culpa exclusiva da Recorrida sobre a rescisão e consequentemente, acerca do respeito às cláusulas contratuais que dizem respeito ao desfazimento do negócio" (e-STJ fl. 449).
+Aponta divergência jurisprudencial, sustentando que "o acórdão recorrido deixou de considerar que houve culpa da Recorrido na rescisão, e proferiu decisão sem ter apontado, concretamente, as razões o afastamento do percentual de retenção inferior a 25% (vinte e cinco por cento), reconhecidos pelo Superior Tribunal de Justiça" (e-STJ fl. 450).
+No agravo (e-STJ fls. 488/509), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 512).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015.
+No caso, o Tribunal de origem afastou a pretensão de retenção dos pagamentos realizados no importe de 25% (vinte e cinco por cento), decidindo com base nos seguintes fundamentos (e-STJ fl. 415):
+O juízo de origem fixou a retenção no percentual mínimo (10%) dentro daquilo que é admitido pela Corte da Cidadania. De fato, como restou bem consignado, a requerida não comprova despesas de modo a justificar retenção maior. Confira-se o bem lançado fundamento da sentença fustigada:
+A despeito de comprovado o valor gasto com corretagem, no entanto, em momento algum restaram comprovados os gastos da requerida com publicidade para a venda do bem, seja sobre a totalidade do empreendimento ou de forma proporcional ao imóvel vendido, sendo abusiva a previsão contratual que estipula um percentual fixo para despesas variáveis sem qualquer demonstração da relação de proporcionalidade ou proximidade entre este percentual e o montante efetivamente gasto. Da mesma forma, pelo alegado nos autos, é certo que o autor não auferiu vantagens com o imóvel porque sequer chegou a receber suas chaves. Igualmente, não atrasou as parcelas devidas, de modo que não houve inadimplemento passível de cobrança por advogado ou escritório especializado, nem a incidência de custas judiciais.
+O Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Além disso, a jurisprudência desta Corte, "interpretando o art. 1.043, incisos I e III, do CPC, firmou a orientação de que decisão monocrática não pode ser adotada como paradigma para fins de comprovação da divergência" (AgInt nos EAREsp 1.185.827/ES, Rel. Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe 24/6/2021), como no caso dos autos, em que a parte menciona decisões monocráticas (e-STJ fl. 457) a fim de demonstrar a divergência jurisprudencial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
