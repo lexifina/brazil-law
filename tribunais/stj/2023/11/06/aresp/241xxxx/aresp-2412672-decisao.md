@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial, impugnando acórdão assim ementado:
+Apelação - Ação de Rescisão Contratual c.c. Restituição de Valores Pagos e Danos Morais - Sentença de procedência - Inconformismo da Ré - Rescisão operada por culpa da Ré - Incidência das normas do Código de Defesa do Consumidor - Restou evidenciada a irregularidade do empreendimento alienado - Sentença mantida - Recurso improvido.
+Os embargos declaratórios opostos foram acolhidos sem efeitos modificativos.
+Nas razões do especial, a parte agravante alegou violação do art. 104 do Código Civil, assim como divergência jurisprudencial. Afirmou que "O Superior Tribunal de Justiça já se manifestou no sentido de que uma vez previstos os requisitos do art. 104, do Código Civil, o contrato faz lei entre as partes, devendo ser cumprido e respeitado em sua integralidade" (fl. 242).
+Argumentou que, "Neste diapasão, é fato que existia uma contratação entre as partes, portanto, o objeto é lícito, uma vez que não fugiu da estrutura prevista no art. 104, do Código Civil, desta forma, foi criada cláusula constando a previsão de requerimento de autorização para construção, de modo que o contrato faz lei entre as partes, devendo ser respeitado em sua integralidade, sob pena de afronta direta ao principio pacta sunt servanda" (fl. 242).
+Assim delimitada a controvérsia, passo a decidir.
+Extrai-se que no acórdão recorrido ficou estabelecido o seguinte (fls. 209-210):
+In casu, a rescisão operada por culpa da Ré, que alienou imóvel em situação irregular.
+Verificou-se que a área adquirida encontra-se embargada, não havendo qualquer possibilidade por parte do Autor de ter seu lote desmembrado e registrado individualmente perante o competente Registro de Imóveis.
+É por isso que corretamente constou na r. sentença a fls. 184:
+"Não logrou êxito a requerida em demonstrar a regularidade do empreendimento, ônus processual que lhe incumbia. Desta forma, ilícito o objeto por culpa da requerida, de rigor a rescisão do contrato.
+O dano moral é devido, visto que a conduta da ré afigura-se dolosa, eis que expõe à venda lotes que, de antemão, já sabe ser irregular".
+Conforme consignado no acórdão recorrido, o Tribunal de origem, após a análise dos elementos fático-probatórios dos autos, concluiu que, "In casu, a rescisão operada por culpa da Ré, que alienou imóvel em situação irregular. Verificou-se que a área adquirida encontra-se embargada, não havendo qualquer possibilidade por parte do Autor de ter seu lote desmembrado e registrado individualmente perante o competente Registro de Imóveis" (fls. 209-210).
+Ademais, no acórdão proferido em embargos declaratórios, o Colegiado local entendeu que "O v. Acórdão, cuja fundamentação está correta, foi claro no sentido de que a rescisão do negócio foi operada por culpa da Ré, que alienou imóvel em situação irregular. Verificou-se que a área adquirida encontra-se embargada, não havendo qualquer possibilidade por parte do Autor de ter seu lote desmembrado e registrado individualmente perante o competente Registro de Imóveis" (fl. 233).
+Dessa forma, a revisão dos entendimentos prolatados no acórdão recorrido demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
