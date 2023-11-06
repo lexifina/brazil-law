@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial, interposto por BANCO COOPERATIVO SICREDI S/A, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 493, e-STJ):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. Juros remuneratórios. Caracterizada a abusividade dos juros remuneratórios à vista da taxa média do mercado divulgada pelo BACEN, em apenas um dos contratos revisados. Capitalização. Após a edição da Medida Provisória nº 1.963-17/2000, de 31.3.2000, é permitida a cobrança de juros capitalizados em periodicidade mensal, desde que expressamente pactuada. A disposição do art. 51, inciso IV do CDC a ausência de pactuação expressa da capitalização deve ser afastada. Tarifas. Não pactuadas. Comissão de permanência. Viável sua incidência somente quando expressamente pactuada, desde que não cumulada com demais encargos de mora. Súmula nº 472 do STJ. Não prevista, no caso concreto. Encargos de mora. Admitida a incidência dos juros de mora de 1% ao mês cumulados com multa de 2%, juros remuneratórios. Mora debitoris. Autorizada a descaracterização da mora. Compensação/repetição do indébito. Admitida na forma simples, consoante entendimento do STJ. Sucumbência. Redimensionada. APELO PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 520/522, e-STJ).
+Em suas razões de recurso especial, o Recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos 51 do CDC, 5º da MP 2710/36, 141, 489, 492, 1013, I e II, 1022 do CPC/15. Sustenta, em síntese: (i) negativa de prestação jurisdicional, pois a Corte de origem não se manifestou sobre o fato de que a taxa média de mercado divulgada pelo BACEN não é um limitador estanque, assim acerca da existência de capitalização mensal dos juros; (ii) a taxa média divulgada pelo BACEN é mero referencial e não um limite peremptório; (iii) o contrato B40630408-2 prevê expressamente a capitalização mensal.
+Sem contrarrazões (fl. 561, e-STJ), e após decisão de admissão do recurso especial (fls. 564/567, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Oportunizada a retratação, o Tribunal de origem manteve a conclusão adotada (fls. 581/584, e-STJ).
+É o relatório.
+Decide-se.
+O inconformismo merece prosperar em parte.
+1. De início, deixa-se de reconhecer a nulidade, pois o julgamento do mérito recursal beneficiará o recorrente (arts. 282, § 2º e 488, do CPC/15).
+2. Na hipótese, a Corte local, ao reconhecer a abusividade dos juros remuneratórios, consignou (fl. 485, e-STJ):
+Esclareço, ainda, que o entendimento desta Câmara é no sentido de não admitir margem de tolerância sobre a taxa média do mercado apurada pelo BACEN, para aferir a abusividade dos juros remuneratórios.
+No entanto, conforme entendimento desta Corte, o fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA. NECESSIDADE DE DEMONSTRAÇÃO. SÚMULAS N. 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Admite-se a revisão da taxa de juros remuneratórios excepcionalmente, quando caracterizada a relação de consumo e a abusividade ficar devidamente demonstrada diante das peculiaridades do caso concreto.
+2. O fato de a taxa contratada de juros remuneratórios estar acima da taxa média de mercado, por si só, não configura abusividade, devendo ser observados, para a limitação dos referidos juros, fatores como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+3. É inviável a limitação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a corte de origem não tenha considerado cabalmente demonstrada sua abusividade com base nas peculiaridades do caso concreto. Incidência das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.093.714/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+2.1. Ademais, subsiste o entendimento desta Corte no sentido de que a previsão no contrato de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE ABERTURA DE CRÉDITO EM CONTA-CORRENTE. CAPITALIZAÇÃO DE JUROS. ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. REVISÃO DO JULGADO. JUROS REMUNERATÓRIOS. ILEGALIDADE OU ABUSIVIDADE. AUSÊNCIA. REEXAME. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. NÃO PROVIMENTO.
+1. A capitalização mensal de juros é legal em contratos bancários celebrados posteriormente à edição da MP 1.963-17/2000, de 31.3.2000, desde que expressamente pactuada. A previsão no contrato de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+2. A jurisprudência desta Corte entende que o fato de as taxas de juros excederem o limite de 12% ao ano não configura abusividade, devendo, para seu reconhecimento, ser comprovada sua discrepância em relação à taxa média de mercado divulgada pelo BACEN. O entendimento foi consolidado com a edição da Súmula 382 do STJ.
+3. Não comprovada a ilegalidade ou abusividade das taxas de juros contratadas, o reexame do tema encontra obstáculo nas Súmulas n. 5 e 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.021.348/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Assim, os autos devem retornar ao Tribunal de origem para que as questões relativas à taxa de juros remuneratórios e a capitalização sejam julgadas em conformidade com o entendimento desta Corte, notadamente em razão da impossibilidade de analisar o acervo fático-probatório em sede de recurso especial.
+3. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do recurso especial e lhe dou parcial provimento a fim de determinar o retorno dos autos ao Tribunal de origem para julgar a controvérsia à luz do entendimento desta Corte, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
