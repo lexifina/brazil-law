@@ -1,0 +1,63 @@
+DECISÃO
+1. Trata-se de agravo de decisão que inadmitiu recurso especial interposto por VRS - INDÚSTRIA DE LATICÍNIOS LTDA fundado no art. 105, III, alínea "a" da Constituição Federal contra v. acórdão do TJ, assim ementado:
+AGRAVO INSTRUMENTO. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. INCLUSÃO NO QUADRO GERAL DE CREDORES. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. ENCERRAMENTO DO PROCESSO RECUPERACIONAL SEM PAGAMENTO DO CRÉDITO HABILITADO. EXECUÇÃO DO CRÉDITO EM AÇÃO PRÓPRIA. AUSÊNCIA DE RECURSO DA PARTE HABILITANTE.
+1) Trata-se de agravo de instrumento interposto contra a decisão de extinção, sem resolução de mérito, de incidente de habilitação de crédito por falta de interesse processual.
+2) NULIDADE DA DECISÃO - Não assiste razão o agravante quanto à nulidade processual suscitada, tendo em vista que a decisão que julgou o recurso de embargos de declaração analisou as pretensões deduzidas na inicial.
+3) HABILITAÇÃO DE CRÉDITO - A extinção do incidente de habilitação de crédito deveria ter se dado pela perda superveniente do interesse de agir em face da inclusão do habilitante no quadro geral de credores e não em razão do encerramento do processo de recuperação judicial.
+4) O processo de recuperação judicial não poderia ter sido encerrado sem o efetivo pagamento de todos os créditos habilitados no Quadro Geral de Credores, em estrito cumprimento ao Plano de Recuperação Judicial, tendo em vista os princípios da preservação da empresa e do interesse dos demais credores. Inobstante, o agravado preferiu postular o desarquivamento do processo trabalhista e o prosseguimento da execução dos créditos ali reconhecidos, sem interpor, contudo, recurso cabível contra a decisão que determinou o encerramento do procedimento recuperacional sem o devido pagamento do crédito. Neste contexto, inviável o provimento do agravo de instrumento para impedir que o agravado proceda à execução do crédito na Justiça do Trabalho ou para determinar que a justiça especializada siga o Plano de Recuperação Judicial e não faça incidir sobre o crédito juros e correção monetária, em face da ausência de previsão legal.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+(fls. 244-251)
+Opostos aclaratórios, foram rejeitados (fls. 270-276).
+Em suas razões recursais, as agravantes alegam violação aos arts. 49, 59 e 62 da Lei 11.101/2005 e 1026, § 2º do CPC.
+Sustenta, em síntese, que:
+i) "Trata-se de incidente de Habilitação de Crédito retardatário cuja pretensão foi acolhida administrativamente pela Administradora Judicial que incluiu o Recorrido na consolidação do Quadro Geral de Credores. Tal quadro de credores foi homologado e publicado por meio de edital sem qualquer insurgência do Recorrido. A prévia inclusão do Recorrido no Quadro Geral de Credores, todavia, não foi considerada pelo juízo de primeira instância que julgou extinto o feito, não porque a pretensão já havia sido atendida administrativamente, mas porque havia sido proferida a sentença de encerramento da recuperação judicial";
+ii) "Além de extinguir o processo de Habilitação de Crédito, a sentença de primeira instância determinou que o crédito postulado deveria ser executado em ação própria na Justiça do Trabalho, sem fazer qualquer ressalva ao seu prévio arrolado ou à observância aos termos do Plano de Recuperação Judicial ao qual está submetido";
+iii) "o não pagamento no prazo estipulado no plano não autoriza a execução individual do crédito de forma alheia ao procedimento concursal, como se a recuperação judicial nunca tivesse existido ou impingido efeitos sobre o crédito do Recorrido";
+iv) "a execução do crédito original promovida pelo Recorrido perante a Justiça do Trabalho, apresenta como quantum debeatur quantia muito superior a que seria devida se observado o regramento específico da Lei 11.101/2005".
+v) "no âmbito da recuperação judicial o crédito do Recorrido encontra-se consolidado no quadro geral de credores e, portanto, submetido ao Plano de Recuperação Judicial. Essa submissão ao Plano importa na novação do crédito, isto é, na substituição da obrigação original reconhecida na Justiça do Trabalho pela obrigação estipulada no Plano de Recuperação Judicial".
+vi) "A permissão de prosseguimento de execuções judiciais paralelas e em benefício de um único credor, notadamente de crédito já arrolado na recuperação judicial, prejudica toda a coletividade de credores, pois pode inviabilizar o cumprimento de todas as obrigações previstas no Plano, além de conferir tratamento diferenciado a um credor arrolado, ofendendo um dos principais princípios do direito concursal, a pars conditio creditorum".
+vii) "O Recorrido está promovendo na Justiça do Trabalho a execução do seu crédito sem observar o regramento atinente à Recuperação Judicial, notadamente no que se refere à incidência de juros e correção monetária até a data do pedido conforme dispõe o Art. 9º, II da Lei 11.101/2005. Mais do que isso, o Recorrido tampouco tem observado os critérios estabelecidos no Plano de Recuperação Judicial, o que resulta no aumento considerável do crédito devido e cria uma situação atípica em relação aos demais credores da mesma classe".
+viii) deve ser afastada a multa do art. 1026, § 2º do CPC, pois os aclaratórios opostos não eram protelatórios.
+Contrarrazões apresentadas às fls. 334-339.
+O recurso recebeu crivo de admissibilidade negativo na origem (fls. 408-415).
+É o relatório. Passo a decidir.
+2. O Tribunal de origem decidiu que:
+O recurso não merece ser provido.
+Nulidade da decisão
+Como bem destacado pela mui digna representante do Parquet, não assiste razão o agravante quanto à nulidade da decisão proferida em sede de embargos declaratórios, pois analisada a insurgência à luz dos preceitos aplicáveis à espécie jurídica.
+Nesse prisma, descabida a insurgência da agravante já que busca a reforma da decisão extintiva da habilitação, não havendo sequer possibilidade jurídica de atacar-se decisão que desacolhe recurso de embargos declaratórios por agravo de instrumento.
+Habilitação de crédito
+Consabido que o interesse processual consubstancia-se pelo binômio utilidade-necessidade.
+A utilidade está na possibilidade de a tutela pretendida gerar um resultado útil para a parte autora e a necessidade se confirma pela própria oposição da parte ré em juízo.
+No caso em apreço, a parte agravada ingressou com incidente de habilitação de crédito proveniente de ação trabalhista movida contra a empresa recuperanda.
+No curso da lide, o crédito do agravado, atualizado até 26 de maio de 2015 - R$ 166.713,01, foi incluído no quadro geral de credores (fls. 213 destes autos eletrônicos).
+Com a inclusão do crédito do autor no quadro geral de credores, por evidente, perdeu o habilitante o interesse no resultado útil do incidente por ele proposto.
+A extinção do incidente de habilitação de crédito, por obvio, deveria ter se dado pela perda superveniente do interesse processual em face da inclusão do habilitante no QGC e não em razão do encerramento do processo de recuperação judicial.
+Não obstante, a manutenção da extinção da habilitação de crédito sem resolução do mérito é medida impositiva.
+Nesse sentido:
+ ..
+Entretanto, discordando do entendimento exarado pela colega sentenciante, tenho que o processo de recuperação judicial não poderia ter sido encerrado sem o efetivo pagamento de todos os créditos habilitados no Quadro Geral de Credores (QGC), em estrito cumprimento ao Plano de Recuperação Judicial, tendo em vista os princípios da preservação da empresa e do interesse dos demais credores.
+Inobstante, o agravado preferiu postular o desarquivamento do processo trabalhista e o prosseguimento da execução dos créditos ali reconhecidos, sem interpor, contudo, recurso cabível contra a decisão que determinou o encerramento do procedimento recuperacional sem o devido pagamento do crédito.
+Neste contexto, inviável o provimento do agravo de instrumento para impedir que o agravado proceda à execução do crédito na Justiça do Trabalho ou para determinar que a justiça especializada siga o Plano de Recuperação Judicial e não faça incidir sobre o crédito juros e correção monetária, em face da ausência de previsão legal.
+Destarte, imperioso o desprovimento do recurso, consolidada a extinção da habilitação de crédito em face de fundamento diverso, qual seja, a perda superveniente do interesse de agir do habilitante.
+ISSO POSTO, voto pelo desprovimento do agravo de instrumento.
+(fls. 244-251)
+Dessarte, verifica-se que o entendimento do acórdão recorrido está dissonante da jurisprudência do STJ no sentido de que "tratando-se de crédito não habilitado a ser cobrado após o encerramento da recuperação judicial, deverá ele se sujeitar aos efeitos da recuperação judicial, devendo ser pago de acordo com o plano de soerguimento e, por consequência lógica, em observância à data limite de atualização monetária - data do pedido de recuperação judicial - prevista no art. 9º, II, da Lei n. 11.101/2005" (REsp n. 2.041.721/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 26/6/2023).
+E ainda:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido.
+(REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022.)
+Na hipótese, o acórdão recorrido autorizou a retomada da execução do crédito sem considerar a sua submissão aos efeitos da recuperação judicial. Assim, o julgado deverá ser reformado para, diante do encerramento da recuperação judicial, autorizar o novo prosseguimento do cumprimento de sentença que deverá ser pago de acordo com o plano de soerguimento e, por consequência lógica, em observância à data limite de atualização monetária - data do pedido de recuperação judicial - prevista no art. 9º, II, da Lei n. 11.101/2005.
+Incidência da Súm 568 do STJ.
+Ademais, deve ser acolhida a irresignação recursal quanto à multa do 1026, § 2º do CPC, uma vez que os aclaratórios opostos com propósito de prequestionamento não têm caráter protelatório (Súmula 98 do STJ).
+3. Ante o exposto, conheço do agravo para dar provimento ao recurso especial, autorizando o prosseguimento do cumprimento de sentença da recorrida que deverá ser pago de acordo com o plano de soerguimento e, por consequência lógica, em observância à data limite de atualização monetária - data do pedido de recuperação judicial - prevista no art. 9º, II, da Lei n. 11.101/2005, bem como para afastar a multa do art. 1026, § 2º do CPC.
+Publique-se.
+EMENTA
