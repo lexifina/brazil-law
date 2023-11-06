@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de JURANDIR DE SAO PEDRO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do HC n. 8001025-28.20228.05.0000.
+Extrai-se dos autos que o paciente foi preso preventivamente e denunciado por ter supostamente praticado o delito tipificado no art. 121, §2º, inciso I e IV, em concurso material com o art. 157, §2º, inciso II e § 2º-A, inciso I, do Código Penal (homicídio qualificado e roubo majorado), tendo sido, posteriormente, concedida liberdade provisória mediante a fixação de medidas cautelares alternativas.
+O magistrado de primeiro grau, em juízo de retratação, decretou novamente a prisão preventiva do paciente, após o que foi proferida sentença de pronúncia, na qual foi negado o recurso em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ROUBO MAJORADO. CONCURSO MATERIAL. PRISÃO PREVENTIVA. REQUISITOS. NECESSIDADE. ARGUMENTOS APRECIADOS EM WRIT ANTERIOR. DECISÃO DE PRONÚNCIA. MANUTENÇÃO DA CUSTÓDIA CAUTELAR. FUNDAMENTOS. SUBSISTÊNCIA. GARANTIA DA ORDEM PÚBLICA. INDEVIDA A APLICAÇÃO DE OUTRAS MEDIDAS CAUTELARES DIVERSAS DAPRISÃO. CONDIÇÕES SUBJETIVAS FAVORÁVEIS QUE NÃO IMPEDEM ACUSTÓDIA PROVISÓRIA. ORDEM CONHECIDA EM PARTE E, NESTA EXTENSÃO, DENEGADA. A existência de habeas corpus anterior, com idêntico pedido ao desta ação, no que toca aos requisitos/necessidade/substituição da custódia cautelar, tratando-se de mera repetição, afasta a possibilidade de reexame por esta Corte, por não existir mais interesse de agir por parte dos Impetrantes. Inexiste constrangimento ilegal na manutenção da prisão preventiva, realizada em decisão de pronúncia, quando demonstrada expressamente a pertinência do cárcere cautelar, com fulcro em fatores concretos de aferição, tais quais, a gravidade concreta da conduta, o grave modus operandi empregado e a consignada fuga do distrito da culpa. Demonstradas expressamente circunstâncias suficientes aptas a justificar a segregação provisória e, por conseguinte, afastar a possibilidade de aplicação de outras medidas cautelares diversas da custódia preventiva, inexiste constrangimento ilegal a ser sanado. Os predicados subjetivos favoráveis do paciente não impedem decretação/manutenção da segregação cautelar" (fls. 94/95).
+No presente writ, alega o impetrante que a prisão preventiva do paciente foi restabelecida sem a ocorrência de nenhum fato novo que justificasse a medida.
+Destaca as condições pessoais favoráveis do paciente, como primariedade, bons antecedentes e residência fixa.
+Pondera a ausência de motivação da custódia cautelar, porquanto baseada na gravidade abstrata do delito.
+Destaca que o paciente faz jus à extensão da liberdade concedida aos corréus, nos termos do art. 580 do Código de Processo Penal.
+Aduz, ainda, a possibilidade de substituição da segregação preventiva por custódia domiciliar, uma vez que o réu, atualmente com 62 anos de idade, possui enfermidades e necessita de tratamento contínuo.
+Requer, liminarmente, possa o paciente aguardar em liberdade o julgamento definitivo deste mandamus. No mérito, pugna pela expedição de contramandado de prisão ou a substituição da custódia por domiciliar.
+É o relatório.
+Decido.
+O presente writ traz pedido idêntico ao formulado no HC 670.544/BA que, em decisão proferida em 12/8/2021, não foi conhecido diante da ausência de ilegalidade na manutenção da custódia cautelar. Muito embora impugnem acórdãos diversos, ambos tratam da prisão preventiva decretada na ação penal n. 0500021-66.2020.8.05.0271, sendo certo que a sentença de pronúncia proferida não trouxe qualquer fundamento novo para a manutenção da custódia cautelar.
+Assim, considerando que os fundamentos da prisão preventiva do paciente já foram analisados por esta Corte Superior e diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus, quanto ao ponto.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma.
+II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos. Agravo regimental desprovido (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014).
+Noutro giro, verifico que as demais questões não foram analisadas pelo Tribunal de origem, o que impede a análise direta por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+Ante o exposto, nos termos do 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
