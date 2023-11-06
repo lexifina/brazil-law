@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Carmelino José de Araújo - condenado como incurso nos crimes de uso de documento falso e corrupção ativa -, em que se aponta como autoridade coatora o Tribunal Regional Federal da 1ª Região (Autos n. 1031750-08.2023.4.01.3500), não comporta processamento.
+Com efeito, insurge-se a impetrante contra o acórdão do Tribunal Regional Federal da 1ª Região que não conheceu do recurso em sentido estrito e tão pouco decretou de oficio a prescrição do fato típico previsto no art. 304 c/c o art. 297 do Código Penal, ferindo a lei e os direitos e garantias fundamentais do paciente, quando assim decidiu não conhecer do RESE, mesmo sendo a via correta, vez que quando da interposição do mesmo, não existia o processo de execução, para que fosse manejado recurso de agravo à execução (fl. 7).
+Ocorre que, embora não tenha conhecido do recurso em sentido estrito interposto pela defesa, o Tribunal analisou a alegação de acordo com o entendimento deste Superior Trib unal, de que, no caso de crimes conexos que sejam objeto do mesmo processo, havendo sentença condenatória para um dos crimes e acórdão condenatório para o outro delito, tem-se que a prescrição não é contada separadamente, irradiando os efeitos interruptivos de ambos os marcos para ambos os crimes, conforme disposto no art. 117, § 1º, 2ª parte, do Código Penal (RHC n. 40.177/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/9/2015).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. USO DE DOCUMENTO FALSO E CORRUPÇÃO ATIVA. PROCEDÊNCIA PARCIAL DA DENÚNCIA. SENTENÇA CONDENATÓRIA. MARCO INTERRUPTIVO QUE ABRANGE EVENTUAL CRIME CONEXO QUE FOI O BJETO DE ABSOLVIÇÃO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
