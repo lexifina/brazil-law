@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de ANDRÉ BATISTA DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1501015-08.2021.8.26.0126.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 05 (cinco) anos de reclusão, em regime inicial fechado, mais o pagamento de 500 (quinhentos) dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006 (fls. 22-33).
+Inconformada, a defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso, consoante voto condutor do acórdão de fls. 36-48.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente faz jus à aplicação do tráfico privilegiado.
+Aduz que a quantidade e a natureza de droga não são suficientes para afastar a referida benesse.
+Pugna pela fixação de regime inicial mais brando e pela substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 52-53).
+Informações prestadas às fls. 63-83 e 85-88.
+O Ministério Público Federal, às fls. 90-96, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem.
+É o relatório. DECIDO.
+Na presente impetração, a defesa busca: i) a aplicação do tráfico privilegiado; ii) a fixação de regime inicial mais brando; e iii) a substituição da pena privativa de liberdade por restritiva de direitos.
+Com efeito, os requisitos previstos na causa de diminuição - ser o agente primário, possuir bons antecedentes, não se dedicar às atividades criminosas nem integrar organização criminosa - são de observância cumulativa, vale dizer, a ausência de qualquer deles, implica a não aplicação da causa de diminuição de pena.
+Ademais, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem o envolvimento habitual do agente com o narcotráfico.
+A despeito da quantidade, da variedade e do fracionamento da droga apreendida - 11 (onze) porções de ecstasy, com peso de 7,7g; 146 (cento e quarenta e seis) porções de crack, com peso de 118,7g; 68 (sessenta e oito) porções de maconha, com peso de 156,8g; 29 (vinte e nove) porções de haxixe, com peso de 27,8g; 129 (cento e vinte e nove) porções de cocaína, com peso de 112g; 125 (cento e vinte e cinco) porções de skank, com peso de 115,4g -, há outros elementos aptos a afastar o tráfico privilegiado.
+Conforme exposto pela Corte originária, no ato da prisão em flagrante, fora encontrada balança de precisão e contabilidade de tráfico.
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nessa linha: AgRg no HC n. 781.463/SP, Sexta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 21/8/2023; AgRg no AREsp n. 2.335.477/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 21/8/2023; AgRg no AREsp n. 2.323.130/SE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 15/8/2023; e AgRg no HC n. 812.768/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 22/6/2023.
+No mais, a quantidade, a natureza e a variedade do entorpecente - 11 (onze) porções de ecstasy, com peso de 7,7g; 146 (cento e quarenta e seis) porções de crack, com peso de 118,7g; 68 (sessenta e oito) porções de maconha, com peso de 156,8g; 29 (vinte e nove) porções de haxixe, com peso de 27,8g; 129 (cento e vinte e nove) porções de cocaína, com peso de 112g; 125 (cento e vinte e cinco) porções de skank, com peso de 115,4g - são elementos a aptos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: AgRg no HC n. 832.428/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; AgRg no HC n. 826.765/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2023; AgRg no HC n. 796.686/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 30/8/2023; e AgRg no HC n. 820.775/SP, Sexta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 21/8/2023.
+Por fim, mantido o quantum de pena aplicado, o pedido de substituição da pena privativa de liberdade encontra óbice no art. 44, I, do Código Penal.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
