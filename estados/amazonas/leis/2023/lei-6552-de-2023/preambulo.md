@@ -1,0 +1,13 @@
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO
+
+ESTADO DO AMAZONAS
+
+Av. Mário Ypiranga Monteiro, 3950 Parque 10 de Novembro, Manaus, Amazonas CEP 69.050-030
+
+LEI Nº 6.552, DE 6 DE NOVEMBRO DE 2023.
+
+INSTITUI o Dia Estadual da Conscientização sobre o Desaparecimento de Pessoas.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
