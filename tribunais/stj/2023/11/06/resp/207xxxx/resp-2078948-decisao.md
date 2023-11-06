@@ -1,0 +1,38 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 115/117, in verbis:
+Trata-se de Recurso Especial interposto por ADILSON FERREIRA ANDRADE, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão que, proferido pela 5ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná, negou provimento à revisão criminal, em decisão a seguir ementada:
+"PENAL. PROCESSO PENAL. REVISÃO CRIMINAL DE ACÓRDÃO. CONDENAÇÃO POR NARCOTRÁFICO (ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006) E POR CRIME CONTRA A FAUNA (ARTIGO 29, §1º, INC. III, DA LEI Nº 9.605/1998).PRETENSÃO DE REVISÃO DA DOSIMETRIA QUANTO AO AUMENTO OPERADO NA PENA-BASE DO DELITO DE TRÁFICO DE DROGAS EM RAZÃO DO DESVALOR DA NATUREZA DO ENTORPECENTE. ALEGAÇÃO DE QUE A SENTENÇA É CONTRÁRIA À EVIDÊNCIA DOS AUTOS E AO TEXTO EXPRESSO EM LEI PENAL. TESE AFASTADA. ARGUMENTAÇÃO IDÔNEA E EM CONCORDÂNCIA COM A LEI DE REGÊNCIA. ALÉM DISSO, CARÊNCIA DE PREVISÃO LEGAL ACERCA DO PERCENTUAL ADEQUADO PARA O ACRESCENTAMENTO DA REPRIMENDA INICIAL. NÃO BASTASSE, AUSÊNCIA DE ERRO TÉCNICO OU DEFICIÊNCIA DA FUNDAMENTAÇÃO APTOS A AUTORIZAREM A READEQUAÇÃO DA EXPIAÇÃO EM SEDE DE DEMANDA REVISIONAL. PONDERAÇÕES ALICERÇADAS EM RACIOCÍNIO CONCATENADO, AUTORIZADO PELO LIVRE CONVENCIMENTO MOTIVADO. REVISÃO CRIMINAL JULGADA IMPROCEDENTE." (fl. 60)
+Nas razões recursais, insertas às fls. 72/79, a defesa alega a negativa de vigência do art. 59 do Código Penal, por considerar que o Tribunal de origem, diante da ínfima quantidade de droga apreendida na posse do recorrente - qual seja dois gramas de crack -, não poderia exasperar a pena-base somente pela nocividade da substância (art. 42 da Lei 11.343/06).
+Assim, busca a reforma da sanção aplicada ao recorrente para que seja excluída a valoração negativa da referida circunstância judicial.
+Apresentadas as contrarrazões às fls. 93/97, o recurso foi admitido na origem às fls. 99/102. Na sequência, os autos subiram ao Superior Tribunal de Justiça e vieram, digitalizados, com vista ao Ministério Público Federal.
+Ao final, o Parquet Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, acerca da dosimetria da pena, a Corte de origem assim consignou (e-STJ fls. 62/63, grifei):
+Como cediço, a revisão criminal tem como uma de suas finalidades propiciar a correção de eventual erro judiciário que possa ter ocorrido tanto na aplicação da lei penal quanto na avaliação do conjunto probatório, visando desconstruir uma condenação injusta.
+No caso, todavia, não se observa qualquer equívoco que exija retificação. Aliás, a configuração da hipótese do inciso I do artigo 621 do Código de Processo Penal ocorre somente em situações excepcionais, que não deixem dúvidas quanto à infringência ao texto expresso da lei penal ou à evidência dos autos.
+Note-se que a despeito de o requerente postular a extirpação do acrescentamento operado da basilar em decorrência do desvalor da natureza do narcótico, o Magistrado da origem corretamente apontou a nocividade da droga apreendida como circunstância mais gravosa.
+Observe-se:
+"No que tange às circunstâncias previstas no art. 42 da Lei 11.343/2006, observo que quanto à apreendidas considero-as como quantidade de drogas circunstância neutra.
+Já em relação à qualidade da droga, tenho que a circunstância deve ser valorada negativamente, vez que é público e notório que o "crack" é considerado um dos entorpecentes mais perigosos da atualidade, já que leva que concomitante com o primeiro uso, ao usuário à dependência quase situação esta que deve ser avaliada na mensuração da pena." 13).
+Por tal razão, acrescentou o apenamento inicial em 01 (um) anos de reclusão e 100 (cem) dias-multa.
+Ocorre que, no que atine ao pleito de revisão da dosimetria, as questões relativas ao cômputo da sanção só autorizam o reexame da matéria no caso de erro técnico ou deficiência da fundamentação, cuja hipótese não se vislumbra no caso sub examine.
+Não se olvida, ainda, que o artigo 42 da Lei de Tóxicos prevê que o "juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a e que não há previsão legal natureza e a quantidade da substância ou do produto, (..)" acerca do percentual adequado para aumento das pena-base em razão da negativação das circunstâncias judiciais, de modo que o Magistrado atuou dentro do seu âmbito de a quo discricionariedade.
+Nesse cariz, aliás, Sua Excelência o Senhor Desembargador Jorge Wagih Massad assentou que "Não cabe discutir na seara revisional os critérios de fixação da pena adotados pelo (TJPR - 5ª C. Juiz, quando fundamentados e dentro dos limites de sua discricionariedade." Criminal em Composição Integral - RCACI - 1334060-8 - Unânime - J. 28.04.2016).
+Não se ignora, ainda, a impossibilidade de a demanda revisional ser manejada como sucedâneo de apelação.
+Logo, a ausência de erro técnico ou deficiência de fundamentação impede qualquer modificação do julgado em sede de revisão criminal.
+Não se vislumbra, à vista do arrazoado, decisão contrária à evidência dos autos e tampouco ao texto legal, de modo que não se mostra passível de reexame em sede de demanda revisional, sobretudo porque a matéria restou adequadamente analisada pelo juízo singular  eis que esta Corte de Justiça não adentrou a temática quando do julgamento da apelação  , o qual alicerçou suas ponderações em raciocínio concatenado, autorizado pelo interposta livre convencimento motivado.
+Pois bem.
+Delineada a questão fática, passo à análise da tese aviada pela defesa.
+Da pena-base
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+E, na hipótese, verifico flagrante ilegalidade na utilização da natureza e da quantidade de droga de formas distintas na mesma fase, já que o binômio é que deve ser considerado no sentido teleológico da norma insculpida no art. 42 da Lei n. 11.343/2006.
+Afinal, conquanto a pena-base tenha sido estabelecida acima do mínimo em observância ao disposto no art. 42 da Lei n. 11.343/2006, verifico que tal exasperação mostrou-se desproporcional, sobretudo em razão da quantidade de droga apreendida - 2g (dois gramas) de crack -, quantidade essa que não se revela expressiva o suficiente para justificar a negativação da referida vetorial.
+Passo, assim, ao cálculo da nova pena , mantidos os demais parâmetros dosimétricos adotados pelas instâncias ordinárias.
+Da nova pena
+Na primeira fase, mantenho a negativação dos antecedentes e neutralizo a circunstância judicial referente à natureza e à quantidade de droga, de modo que reduzo proporcionalmente a basilar e a fixo em 5 anos e 6 meses de reclusão.
+Na segunda etapa, mantenho o reconhecimento da agravante da reincidência na fração de 1/6, alcançando a reprimenda intermediária 6 anos e 5 meses de reclusão, a qual torno definitiva, à míngua de outras causas de aumento ou de diminuição de pena.
+À vista do exposto, dou provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
