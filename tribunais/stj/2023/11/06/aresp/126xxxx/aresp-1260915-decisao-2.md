@@ -1,0 +1,96 @@
+DECISÃO
+Trata-se de agravo em recurso especial (fls. 1.945-1.951) interposto por CONSTRUTORA FONSECA & MERCADANTE LTDA. contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constituiconal, em face de v. acórdão assim ementado (fls. 1.617-1.618):
+"RESPONSABILIDADE CIVIL - QUEDA DE OBJETO DE OBRA EM CONSTRUÇÃO - ARGUIÇÃO DE NULIDADE DA SENTENÇA - INOCORRÊNCIA - DENUNCIAÇÃO DA LIDE OBRIGATÓRIA-AUSÊNCIA DE PREJUÍZO-PRECEDENTES DO STJ.
+É cediço que o inciso III do art. 70 do CPC dispõe que a denunciação da lide é obrigatória "àquele que estiver obrigado, pela lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo do que perder a demanda"; contudo, o seu indeferimento não prejudica o direito de regresso, como já decidiu o Superior Tribunal de Justiça.
+RESPONSABILIDADE CIVIL-RESPONSABILIDADE SOLIDÁRIA ENTRE O CONSTRUTOR E O DONO DA OBRA- POSSIBILIDADE-PRELIMINAR - ILEGITIMIDADE ATIVA - ACOLHIMENTO. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA.
+Ainda que seja possível atribuir a responsabilidade solidária entre o construtor e o dono da obra, no caso em exame, evidencia-se que o dono da obra e proprietário do prédio é pessoa diversa que não integra a relação processual, pelo que se reconhece a ilegitimidade passiva do hospital -réu, que não é o dono da obra. Ante o acolhimento da preliminar, rejeita-se o pedido de condenação em litigância de má-fé, dada a ausência de qualquer violação do disposto no art. 17 do Código de Processo Civil.
+QUEDA DE OBJETO DE OBRA EM CONSTRUÇÃO -RESPONSABILIDADE OBJETIVA DO CONSTRUTOR -CASO FORTUITO - INOCORRÊNCIA - DEVER DE INDENIZAR - ALEGAÇÃO DE IMPRESTABILIDADE DO LAUDO PERICIAL - IMPUGNAÇÃO NÃO OFERTADA EM MOMENTO OPORTUNO - PRECLUSÃO. A responsabilidade civil do construtor por queda de objeto de obra em construção é objetiva, e, portanto, só é elidível por prova -a cargo do dono da coisa - de que o dano adveio de culpa da vítima ou de caso fortuito ou força maior, o que não se verifica no caso em exame. Alegação de ocorrência de ventania, a qual teria causado a quedada placa metálica, não demonstrada, pelo que se afasta a
+ocorrência do caso fortuito. Não merece guarida a alegação de imprestabilidade do laudo do expert judicial, posto que não impugnado em momento oportuno, operando-se, destarte, a preclusão temporal e consumativa.
+DANOS MATERIAIS. PEDIDO DE COMPENSAÇÃO PELO PERÍODO QUE FICOU À MINGUA DE TRATAMENTO - INOVAÇÃO DO PEDIDO EM SEDE RECURSAL -IMPOSSIBILIDADE. É defeso à parte modificar a causa de pedir e o pedido em sede recursal, por força do princípio da estabilização da demanda, conforme disposto nos artigos 264, §único e 294 do Código de Processo Civil. Ademais, a inovação da lide em sede recursal, viola o princípio da congruência e do contraditório e da ampla defesa, ex vi do art. 128 e 460 do Código de Processo Civil.
+DANOS MATERIAIS - CONDENAÇÃO DA CONSTRUTORA À RESTITUIÇÃO DE DESPESA MÉDICAS - ACOLHIMENTO. TRATAMENTO ODONTOLÓGICO - IMPOSSIBILIDADE - AUSÊNCIA DE NEXO CAUSAL. DANOS MORAIS E ESTÉTICOS- MINORAÇÃO -POSSIBILIDADE - ANTECIPAÇÃO DA TUTELA EM SEDE RECURSAL - DEFERIMENTO.
+Cabível a restituição das despesas médicas referentes as consultas com ortopedista e psiquiatra, sobretudo, porque não ter a ré se insurgido com relação à primeira, assim como a alegação da ré de que a consulta psiquiátrica não guarda correlação com o evento danoso restou devidamente afastada pelo laudo pericial. Porém, não há que se falar em restituição das despesas com tratamento odontológico, pois não restou demonstrado o nexo de causalidade entre este e o dano sofrido pela autora. O dano moral deve ter reparação compatível com a permanência do sofrimento ao longo do tempo, de modo que com a condenação da construtora nos danos materiais relativos ao tratamento fisiátrico, o qual possibilitará a melhora na limitação dos movimentos conforme consignado no laudo, a quantia arbitrada na sentença vislumbra-se excessiva, pelo que comporta redução para R$ 60.000,00, com juros de mora a partir do evento danoso e correção monetária a partir da sentença. Reconhecida a necessidade do tratamento fisiátrico e psicoterapêutico, com o intuito de possibilitar uma vida digna à autora e que a sua ausência pode ocasionar o agravamento da limitação, de rigor o deferimento da antecipação dos efeitos da tutela em sede recursal, nos termos do art. 273 c/c art. 558 do CPC.
+RESULTADO: Apelação do hospital provida e apelações da autora e da corré construtora parcialmente providas."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 1.669-1.675).
+Nas razões do recurso especial (fls. 1.845-1.857), CONSTRUTORA FONSECA & MERCADANTE LTDA. aponta ofensa aos arts. 186, 394, 407 e 944 do Código Civil, ao argumento, entre outros, de que o favor da indenização contraria os princípios da razoabilidade e da proporcionalidade, pois "(..) no caso vertente, onde do acidente resultou diminuição parcial da capacidade funcional da recorrida; mais precisamente redução de 30% da capacidade funcional da recorrida; a decisão combatida, arbitrou o valora indenização por danos morais em R$ 60.000,00" (fls. 1.852).
+Assevera, também, que "(..) se de um acidente que resulta incapacidade funcional total, o Tribunal "a quo" arbitrou o valor da indenização em R$ 44.000,00; no caso vertente onde a perda da capacidade funcional da recorrida foi 30%, adotando-se o critério bifásico, deveria ter sido adotado valor de R$ 13.200,00, que corresponderia a 30% do valor arbitrado para o caso de consequências mais graves julgado pelo mesmo Tribunal"(fls. 1.852).
+Aponta, também, violação aos arts. 394 e 407 do Código Civil, pois o v. acórdãoe stadual duz, ainda, que "(..) estabeleceu que os juros de mora, relativos a indenização por danos morais, indicará a aprtir da ocorrência do evendo danoso" (fls. 1.853)
+Intimada, MARISA MARCONI apresentou contrarrazões (fls. 1.862-1.880), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (fls. 1.885-1.886), motivando o manejo do agravo em recurso especial (fls. 1.945-1.951) em testilha.
+É o relatório. Passo a decidir.
+Quanto à suscitada violação aos arts. 186 e 944 do Código Civil, tem-se que o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, reformando sentença, fixou a indenização a título de danos morais em R$ 60.000,00 (sessenta mil reais). A título elucidativo transcreve-se o seguinte excerto do v. acórdão estadual (fls. 1.622-1.633):
+"Dentre as hipóteses de responsabilidade civil pelo fato da coisa, destacam-se a responsabilidade civil pela ruína de edifício ou construção, disciplinada pelo artigo 937 do Código Civil e a responsabilidade civil pelas coisas caídas de edifícios (actio de effusis et de jectis) disciplinada pelo artigo 938 do Código Civil.
+(..)
+No mais, prevalece a responsabilidade da construtora, posto que ao construtor incumbe não só a responsabilidade pela perfeição da obra, mas também pela sua solidez e segurança.
+Desse modo, e como já dito alhures sua responsabilidade é objetiva, e, portanto, só é elidível por prova -a cargo do dono da coisa - de que o dano adveio de culpa da vítima ou de caso fortuito ou força maior, o que não se verifica no caso em exame.
+(..)
+Destarte, não assiste razão à construtora quanto à alegação de ocorrência de uma ventania, a qual teria causado a queda da placa metálica, pelo que se afasta a ocorrência do caso fortuito, visto que nenhuma prova pericial restou produzida neste sentido, tampouco houve pedido de expedição de ofício aos órgãos governamentais competentes, bem como a documentação juntada aos autos é contraditória e não permite tal conclusão.
+(..)
+Por fim, com relação aos danos materiais e morais a sentença comporta reparo.
+Com efeito, com relação às despesas médicas despendidas pela autora, é cabível a sua restituição, tanto que contra elas a construtora não se insurgiu (fls 1129) de modo que sua alegação de que a consulta psiquiátrica não guarda correlação com o evento danoso restou devidamente afastada pelo laudo pericial.
+Porém, as despesas despendidas com tratamento odontológico não devem ser ressarcidas, posto que não restou demonstrado o nexo de causalidade entre este e o dano sofrido pela autora. Aliás, os recibos de fls 700/701 sequer descrevem quais os serviços prestados, bem como a consignação no laudo pericial da realização do tratamento, que se deu em resposta a quesito formulado pela litisdenunciada AGF, não afirma a existência do liame causal.
+Desse modo, a construtora deve restituir à autora a quantia de R$450,00 (fls 134) despendidas com consultas médicas de ortopedia e psiquiatria.
+No mais, quanto aos danos morais e estéticos o autor pleiteou a fixação do valor de R$ 920.000,00.
+Na r. sentença, os danos morais e estéticos foram arbitrados em R$ 102.940,70 equivalente a dez (10) vezes o valor histórico desembolsado pela Construtora com o tratamento realizado pelo Hospital, que segundo os autos somou o total de R$ 10.294,07.
+Tendo em visto o recurso das partes, para minoração e majoração das verbas, cumpre destacar, inicialmente, que a Súmula 387, do STJ, nada mais fala do que admitir a cumulação de indenização por dano moral com indenização por dano estético, ou seja, não haveria vedação para tal cumulação.
+Contudo, não há obrigatoriedade desta cumulação. Isto significa que existe a possibilidade de cumulação, como também determinado caso pode não recomendar tal cúmulo.
+O que distingue uma hipótese da outra vem a ser a causa do dano: quando danos morais e estéticos tiverem a mesma causa, não será possível a cumulação, pois indissociáveis um do outro, prevalecendo o dano moral, que engloba o estético.
+No caso dos autos, a lesão sofrida pela autora desencadeou simultaneamente, dano moral e estético. O próprio pedido de dano moral está baseado nas sequelas da lesão. O sofrimento moral dela não foi apenas no momento da lesão, mas permanente, diante das sequelas.
+Deste modo, não cabe indenizar duas vezes, a títulos diversos, pela mesma causa, mas apenas uma, de modo englobado.
+(..)
+Feitas tais considerações, bem é de se ver que o dano estético foi referido no laudo pericial como permanente. As fotografias da autora, cinco anos após o fato, revelam prejuízo estético, causador de inequívoco dano moral (in re ipsa).
+Contudo, cabe a ressalva de que, em resposta ao quesito complementar formulado pela Unimed (fls 985), o expert judicial consignou que:
+"1. Embora a sequela de ombro esquerdo seja definitiva, de acordo com o estado no laudo pericial, é possível haver ganho funcional ao se instituir tratamento fisiátrico adequado, com melhora da sintomatologia e redução da sequela
+Resposta: "O tratamento fisiátrico deve ser direcionado para melhora a limitação dos movimentos deste ombro, diminuir a hipertrofia muscular e melhora da dor."
+Assim como afirmou que, em termos percentuais (0-100%) o grau de redução funcional da autora é estimado em torno de 30%. (fls 774), assim como consignou que a autora encontra-se "esperando a nomeação da Prefeitura Municipal da Cidade de Cruzeiro para o cargo de Assistente Social".
+Destarte, impende salientar que o parágrafo único do artigo 953,do Código Civil estabelece que "se o ofendido não puder provar prejuízo material, caberá ao juiz fixar, equitativamente, o valor da indenização, na conformidade das circunstâncias do caso".
+A jurisprudência tem estabelecido que, para fixação da indenização, o julgador deve analisar a intensidade do sofrimento do ofendido, a gravidade, a natureza e repercussão da ofensa e a posição social e política do ofendido, bem como a intensidade do dolo ou o grau de culpa do responsável, sua situação econômica.
+(..)
+Logo, o dano moral deve ter reparação compatível com a permanência do sofrimento ao longo do tempo, de modo que com a condenação da construtora nos danos materiais relativos ao tratamento fisiátrico, o qual possibilitará a melhora na limitação dos movimentos conforme consignado no laudo, a quantia arbitrada na sentença vislumbra-se excessiva, pelo que comporta redução para R$ 60.000,00.
+Em caso similar ao presente, esta C. Corte, em acórdão da D. 3aCâmara Privado arbitrou em R$ 44.000,00 os danos morais e estéticos, de ato que resultou em incapacidade total para o trabalho:"
+(g. n.)
+Com efeito, a remansosa jurisprudência desta eg. Corte, a pretensão de revisar o valor da indenização a título de danos morais, via de regra, encontra óbice na Súmula n. 7/STJ; no entanto, afasta-se o referido óbice em hipóteses excepcionais, quando for verificada a natureza exorbitante ou irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido, destacam-se os seguintes julgados:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA RECURSAL. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DANOS MORAIS E ESTÉTICOS. REDUÇÃO DA INDENIZAÇÃO. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. DIVERGÊNCIA NÃO DEMONSTRADA. DECISÃO MANTIDA.
+(..)
+4. O valor fixado a título de indenização por danos extrapatrimonias só pode ser revisto em recurso especial quando irrisório ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+5. O STJ firmou entendimento de ser incabível a análise do valor de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características, sempre haverá distinção no aspecto subjetivo.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.991.707/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 23/5/2022, DJe de 26/5/2022 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. VALOR DA INDENIZAÇÃO POR DANOS MORAIS. REEXAME. IMPOSSIBILIDADE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido atendendo às circunstâncias de fato da causa adequadamente ponderadas, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.903.343/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022 - g. n.)
+No caso, o valor fixado - R$ 60.000,00 - não se mostra exorbitante; assim sendo, inexistindo a situação de excepcionalidade, o apelo nobre encontra óbice na Súmula n. 7/STJ quanto à pretensão de majorar a indenização a título de danos morais.
+Melhor sorte não socorre ao recurso quanto à suscitada violação aos arts. 394 e 407 do Código Civil.
+No caso, o eg. TJ-SP assim manifestou-se acerca dos juros de mora (fls. 1.635):
+"Os juros de mora, contudo, devem correr da data do evento danoso, conforme orientação pretoriana consolidada (Súmula 54, do STJ), ao passo que a correção monetária se conta do arbitramento, vale dizer, da sentença (Súmula 362, do STJ).
+Com efeito, não se infere violação aos referidos dispositivos legais, pois o entendimento do eg. TJ-SP coaduna com a jurisprudência desta eg. Corte, como se infere da leitura dos recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. CULPA DO CONDUTOR DO VEÍCULO DEMONSTRADA. PROPRIETÁRIO DO VEÍCULO. RESPONSABILIDADE RECONHECIDA. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. DANOS MATERIAIS. SÚMULA 7/STJ. DANOS MORAIS. VALOR RAZOÁVEL. VÍTIMA EM ESTADO VEGETATIVO. PENSÃO VITALÍCIA DEVIDA. CONSTITUIÇÃO DE CAPITAL. NECESSIDADE. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. AGRAVO DESPROVIDO.
+(..)
+7. A jurisprudência do STJ firmou o entendimento de que, em casos de responsabilidade civil extracontratual, os juros moratórios incidem desde o evento danoso, conforme dispõe a Súmula 54 do STJ.
+8. Agravo interno desprovido."
+(AgInt no AREsp n. 1.321.098/SP, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. A intervenção desta Corte em relação a verba indenizatória por danos morais está limitada às hipóteses nas quais o quantum seja irrisório ou exagerado, diante do quadro fático delimitado em primeiro e segundo graus de jurisdição, o que não é o caso dos autos. Incidência da Súmula 7 do STJ .
+2. O entendimento desta Corte Superior é no sentido de que, em se tratando de responsabilidade civil extracontratual, como na hipótese, os juros de mora devem fluir a partir do evento danoso. Precedentes.
+(..).
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.177.240/RJ, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. COTAS CONDOMINIAIS. EXECUÇÃO. NATUREZA PROPTER REM. BEM PENHORADO. POSSIBILIDADE. PROMITENTE-VENDEDOR. TRIBUNAL DE ORIGEM SE FIRMOU NO MESMO SENTIDO. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ), entendimento aplicável tanto para a hipótese da alínea "c" do art. 105, III, da Constituição Federal, como da alínea "a" do mesmo dispositivo.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.170.815/PR, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. AFASTAR CLÁUSULA RESTRITIVA. DEVER DE INFORMAÇÃO. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA N. 283 DO STF. SÚMULA N. 83 DO STJ. INCIDÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A Súmula n. 83 do STJ tem aplicação aos recursos especiais interpostos tanto pela alínea c quanto pela alínea a do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.074.830/RS, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b" do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
