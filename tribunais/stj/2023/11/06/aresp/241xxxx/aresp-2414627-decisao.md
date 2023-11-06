@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por MARTIM LUIZ TEIXEIRA DA LUZ contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 345):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CÉDULA DE CRÉDITO RURAL. PRORROGAÇÃO DA DÍVIDA. BANCO DO BRASIL. PREJUÍZOS. SÚMULA 298 STJ. MANUAL DE CRÉDITO RURAL. NÃO PREENCHIDOS REQUISITOS LEGAIS. SENTENÇA MANTIDA. INEXISTÊNCIA DE CONDENAÇÃO EM HONORÁRIOS SUCUMBENCIAIS. EM QUE PESE SER DIREITO DO DEVEDOR O ALONGAMENTO DA DÍVIDA ORIUNDA DE CÉDULA DE CRÉDITO RURAL, COM BASE NA SÚMULA 298 DO SUPERIOR TRIBUNAL DE JUSTIÇA, NO CASO EM ANÁLISE, NÃO PREENCHIDOS OS REQUISITO LEGAIS NECESSÁRIOS PARA SUA APLICAÇÃO. SENTENÇA MANTIDA. APELAÇÃO IMPROVIDA
+Nas razões do recurso especial, o recorrente aponta a necessidade de reforma do acórdão recorrido em virtude do preenchimento dos requisitos autorizadores da prorrogação rural, nos termos dispostos no Manual de Crédito Rural.
+Aduz a negativa de vigência do art. 917, I, do Código de Processo Civil/2015, sustentando que o pedido de prorrogação está embasado no Manual de Crédito Rural e recente Resolução do Banco Central, tendo o produtor comprovado a frustração de safra por meio de laudo e decreto de emergência bem como sua solicitação, a qual, em que pese atendida, o foi de forma ilegal.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da impossibilidade de análise, em sede de recurso especial, de eventuais violações a decretos, portarias, circulares, resoluções e instruções normativas; e do óbice da Súmula 7 do STJ.
+Nas razões deste agravo, o agravante pretende que seja deferido seu pedido de renegociação da dívida, não havendo que se falar em reexame de fatos e provas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+Nas razões do seu recurso, o recorrente aponta a necessidade de reforma do acórdão recorrido em virtude do preenchimento dos requisitos autorizadores da prorrogação rural, nos termos dispostos no Manual de Crédito Rural.
+O Tribunal de origem consignou, no acórdão recorrido, que (i) a Resolução nº 3.373 do Banco Central dispõe sobre a "reprogramação de parcelas vencidas e a concessão de prazo para pagamento de parcelas vincendas"; (ii) não se desconhece as dificuldades enfrentadas pelos produtores da região de Bagé/RS, demonstrada pela parte recorrente por meio dos documentos que instruem seus embargos; mas que (iii) restou inexistente qualquer prova concreta relacionada objetivamente a sua propriedade e sua atividade (pecuária), e tampouco, apresentaram pedido administrativo formal de prorrogação junto ao Banco embargado antes do vencimento da dívida, não preenchendo requisitos formais para seu acolhimento. Confira-se:
+Com efeito, a Resolução nº 3.373 do Banco Central dispõe sobre a "reprogramação de parcelas vencidas e a concessão de prazo para pagamento de parcelas vincendas", nos seguintes termos:
+ ..
+Ocorre que, no caso dos autos, embora não se desconheça as dificuldades enfrentadas pelos produtores da região de Bagé/RS, demonstrada pela parte recorrente por meio dos documentos que instruem seus embargos, restou inexistente qualquer prova concreta relacionada objetivamente a sua propriedade e sua atividade (pecuária), e tampouco, apresentaram pedido administrativo formal de prorrogação junto ao Banco embargado antes do vencimento da dívida, não preenchendo requisitos formais para seu acolhimento.
+ ..
+Dessa forma, não tendo sido preenchido o requisito legal da solicitação formal e não havendo comprovação de eventuais ocorrências prejudiciais ao desenvolvimento na sua área de atuação, mantenho a sentença de improcedência  ..  (fls. 340/343)
+Portanto, é impertinente a impugnação deduzida neste recurso, porquanto necessária a análise da legislação local, qual seja, Resolução nº 3.373 do Banco Central, medida vedada nesta fase de recurso.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO COMINATÓRIA COM PEDIDO DE TUTELA PROVISÓRIA. OFENSA A RESOLUÇÃO. NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL, A ENSEJAR A INTERPOSIÇÃO DE RECURSO ESPECIAL. MANUTENÇÃO DO PLANO DE SAÚDE A BENEFICIÁRIO QUE ESTIVER INTERNADO OU EM TRATAMENTO MÉDICO, EM OBSERVÂNCIA AOS PRINCÍPIOS DA BOA-FÉ, DA SEGURANÇA JURÍDICA E DA DIGNIDADE DA PESSOA HUMANA. LIBERDADE DE CONTRATAR QUE DEVE SER EXERCIDA NOS LIMITES E EM RAZÃO DA FUNÇÃO SOCIAL DOS CONTRATOS. BENS JURIDICAMENTE TUTELADOS PELA LEI DE REGÊNCIA - SAÚDE E VIDA - QUE SE SOBREPÕEM AOS TERMOS CONTRATADOS. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Não é possível a interposição do recurso especial sob a alegação de violação a resolução, portaria, circulares e demais atos normativos de hierarquia inferior a decreto, por não revestirem o conceito de lei federal.
+2. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.695.498/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
