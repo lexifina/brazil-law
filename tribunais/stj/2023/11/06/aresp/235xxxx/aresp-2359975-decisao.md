@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SALVADOR contra decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 460):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. AGENTE COMUNITÁRIO DE SAÚDE. PLEITO DE PAGAMENTO DO ADICIONAL DE INSALUBRIDADE EM GRAU MÁXIMO. INAPLICÁVEL O RITO DOS JUIZADOS DA FAZENDA PÚBLICA. COMPLEXIDADE. POTENCIAL NECESSIDADE DE LIQUIDAÇÃO DE SENTENÇA E DE PROVA PERICIAL. AGRAVO PROVIDO.
+1. O objeto da controvérsia recursal gravita em torno da impossibilidade de aplicação do rito dos Juizados da Fazenda Pública à lide.
+2. Os Juizados Especiais da Fazenda, segundo o citado art. 2º da Lei 12.153/09, possuem competência absoluta para processar e julgar as causas cujo valor envolvido seja de até 60 salários-mínimos, exceto nas situações em que a complexidade da matéria exigir cálculos específicos e detalhados para apuração de eventual condenação, o que se mostra incompatível com o rito dos Juizados Especiais, incluído o da Fazenda Pública, como no caso dos autos. Precedentes.
+3. A demanda, se procedente, tem efetivo potencial de ensejar a liquidação de sentença, cálculos específicos e detalhados, compreendendo período retroativo, índices distintos de juros e correção monetária para cada período, além de vantagens calculadas com base em parâmetros distintos, o que demonstra incompatibilidade com o rito dos juizados.
+4. Agravo provido.
+Rejeitados os aclaratórios (e-STJ fls. 524/439).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 489, § 1º, 1.022, II e parágrafo único, II, do CPC/2015, 2º e 10 da Lei n. 12.153/2009, sustentando negativa de prestação jurisdicional, bem como a competência dos Juizados Especiais da Fazenda Pública para processamento do feito.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 598/620.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa aos arts. 489, § 1º, 1.022, II e parágrafo único, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 29/09/2014.
+In casu, consignou o Tribunal a quo o seguinte (e-STJ fls. 466/469):
+Destarte, levando em consideração apenas o valor atribuído à causa, de R$ 9.732,42, bem como que o caso não se amolda às exceções previstas no § 1º, do art. 2º, da Lei nº. 12.153/09, a competência para o julgamento do presente feito, de fato, seria do Juizado Especial da Fazenda Pública. Contudo, verifica-se empecilho de outra natureza.
+Com efeito, não é demais lembrar que o constituinte, quando previu a instalação dos juizados especiais, anotou expressamente que estes seriam destinados às causas de menor complexidade, consoante art. 98, da Carta da República:
+ ..
+De bom alvitre frisar o propósito para o qual foram criados os Juizados Especiais da Fazenda Pública e os princípios informadores desse microssistema, vislumbrando-se que a prova pericial complexa constitui fator determinante na fixação de sua competência, já que não se coaduna com o procedimento sumaríssimo e informal ali adotado.
+ ..
+Convém anotar que não se está defendendo a impossibilidade de produção de prova técnica no âmbito dos Juizados Especiais da Fazenda Pública, até porque o artigo 10, da Lei nº 12.153/2009, expressamente o autoriza. Confira-se:
+ ..
+Sucede que o exame técnico ao qual se refere o dispositivo legal citado acima é de alcance limitado, não abrangendo a prova pericial formal, a qual se reveste, por si só, de maior complexidade.
+Assim, demandas desta natureza, em que se pretende, em última análise, a discussão acerca do grau de insalubridade a que o servidor público está submetido, são dotadas de considerável complexidade, o que não se coaduna com os ditames legais e constitucionais, devendo o presente feito seguir o procedimento de perícia nos moldes habituais do Código de Processo Civil.
+Quanto ao art. 2º da Lei n. 12.153/2009, incide in casu o óbice da Súmula 284 do STF, uma vez que não indicados com precisão quais os incisos e/ou parágrafos supostamente violados.
+Nesse sentido, confiram-se: AgInt no REsp n. 1.951.100/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/5/2022, DJe de 11/5/2022; AgInt no AREsp n. 1.504.650/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/11/2019, DJe de 29/11/2019; AgRg no REsp n. 1.396.737/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/10/2015, DJe de 13/11/2015.
+No mais, vê-se que o aresto combatido apoia-se em fundamentação eminentemente constitucional, (" ..  o constituinte, quando previu a instalação dos juizados especiais, anotou expressamente que estes seriam destinados às causas de menor complexidade, consoante art. 98, da Carta da República  .. " (e-STJ fl. 466)), cuja revisão não é da competência deste Tribunal Superior, nos termos do art. 105, III, da Constituição Federal.
+Todavia, a recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível, nos termos da Súmula 126 do STJ. A propósito: AgRg no REsp 1441750/RS, Rel. Ministro BENEDITO GONÇALVES, Prrimeira Turma, DJe 19/11/2015; AgRg no REsp 1517256/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2015.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
