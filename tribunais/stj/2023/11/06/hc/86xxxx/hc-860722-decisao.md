@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Edson Airton Martinez, apontando-se como autoridade coatora o Tribunal Regional Federal da 3ª Região no julgamento da Apelação Criminal n. 0003703-04.2010.4.03.6002/MS e subsequentes embargos de declaração.
+Extrai-se dos autos que o Juízo da 2ª Vara Federal da comarca de Dourados/MS, nos Autos n. 0003703-04.2010.4.03.6002/MS, condenou o paciente como incurso no art. 33, § 4º, c/c o art. 40, I, ambos da Lei n. 11.343/2006 (tráfico transnacional privilegiado majorado), à pena de 2 anos e 4 meses de reclusão, em regime inicial aberto, além do pagamento de 300 dias-multa, porquanto atuou como batedor dos demais corréus que transportavam 44.900 kg de maconha. A pena privativa de liberdade foi substituída por duas restritivas de direitos (fls. 408/481).
+Irresignados, a defesa e o Ministério Público interpuseram recurso de apelação, e o Tribunal Regional negou provimento ao recurso da defesa e deu parcial provimento ao apelo ministerial para majorar a pena ao patamar de 5 anos e 10 meses de reclusão, e ao pagamento de 583 dias-multa; fixar o regime inicial semiaberto e afastar a substituição da pena, nos termos do acórdão de fls. 23/36.
+Os embargos de declaração opostos pela defesa foram rejeitados pelo Tribunal a quo, conforme acórdão acostado às fls. 121/128.
+A condenação transitou em julgado em 2015.
+No presente writ, alega-se ausência de fundamentação concreta apta a justificar o emprego da fração mínima 1/6 na causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+Argumenta-se que a fundamentação para a redução da fração para 1/6 foi única e exclusivamente pela intenção de lucro, não sendo motivo idôneo para fundamentar a diminuição da fração no presente caso (fl. 8).
+Requer-se, em liminar e no mérito, a concessão da ordem para aplicar a causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, em seu grau máximo.
+O pedido liminar foi indeferido às fls. 557/558.
+O Ministério Público Federal, à fl. 562, opina pelo não conhecimento do writ.
+É o relatório.
+Inicialmente, conforme certidão acostada à fl. 11, verifica-se que a condenação transitou em julgado para defesa em 19/10/2015, ou seja, o presente writ é sucedâneo de revisão criminal, pois foi impetrado em 9/10/2023.
+Ocorre que, como não existe, neste Superior Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se precedentes das duas Turmas criminais que compõem esta Corte Superior de Justiça: HC n. 288.978/SP, da minha relatoria, Rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018; e HC n. 540.161/SP, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 17/12/2019.
+No entanto, da análise dos autos verifico a existência de nítido constrangimento ilegal a ser sanado no tocante à fração utilizada para reduzir a pena em razão da causa especial de diminuição de pena da Lei de Drogas, o que autoriza a concessão da ordem de ofício.
+Por oportuno, ao examinar a apelação da defesa, o Tribunal de origem manteve a incidência do redutor especial do art. 33, § 4º, da Lei n. 11.343/06, todavia alterou a fração de 2/3 para 1/6, com os seguintes fundamentos (fls. 31/32 - grifo nosso):
+ ..
+Passo à análise da dosimetria da pena.
+Quanto à pena-base, não merece qualquer censura a sentença recorrida, que a fixou em 6 (seis) anos de reclusão para todos os acusados, atentando-se à expressiva quantidade de planta psicotrópica apreendida (44,9kg de Cannabis saliva L.).
+Agiu com igual acerto o insigne Magistrado ao não reconhecer a existência de circunstâncias agravantes em desfavor de todos os réus, diminuindo somente a pena de Fernando Henriques Pimpão Neto em 1/6 (um sexto), em função da circunstância atenuante de confissão.
+A transnacionalidade do delito está comprovada pelas circunstâncias fáticas, sendo notória a introdução de Cannabis saliva L. no território nacional pela fronteira existente entre Pedro Juan Caballero/PY e Ponta Porã/MS, assim como pelo cartão de motorista de taxi juntado à fl. 126, com dizeres em espanhol e indicando o endereço "Calle Alverdi", "Pedro Juan Caballero", "Terminal de Omnibus". "Paraguay" apreendido em poder de Fernando.
+No que concerne à causa de diminuição prevista no art. 33, § 4º, da Lei n.º 11.343/06, está correto o seu reconhecimento em favor de Fernando e Edson, por preencherem os requisitos legais.
+Observa-se, entretanto, que Leandro já foi condenado anteriormente porte de arma (fl. ) e, portanto, não possui bons antecedentes e não faz jus à benesse.
+In casu, julga-se que as circunstâncias subjetivas não apresentam especiais particularidades que exijam redução maior que 1/6 (um sexto), pois os acusados lançaram-se na prática de tráfico de drogas almejando lucro unicamente, sem se encontrarem compelidos por qualquer singular necessidade econômica que expusesse a perigo sua subsistência.
+Dessa forma:
+a) Fixadas as penas-base em 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa;
+b) Sem circunstâncias agravantes, reconhecida a circunstância atenuante de confissão tão somente em relação a Fernando Henriques Pimpão Neto, aplicada em 1/6 (um sexto);
+c) Mantida a causa de aumento pela transnacionalidade do delito à razão de 1/6 (um sexto) e aplicada a redução prevista no art. 33, § 4º, da Lei n.º 11.343/06 em 1/6 (um sexto);
+d) Mantidos o critério de proporcionalidade aplicado à pena de multa e o arbitramento de cada dia-multa conforme aplicado na r. sentença;
+Fixa-se a pena de Fernando Henriques Pimpão Neto em 4 (quatro) anos, 10 (dez) meses e (dez) dias de reclusão e 485 (quatrocentos e oitenta e cinco) dias-multa, c de Edson Airton Martinez e Leandro de Paula em 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa
+ ..
+No caso em tela, a quantidade e a natureza da droga apreendida (44,9kg de Cannabis sativa L.), embora expressiva, não foge às características de casos semelhantes, de tráfico de fronteira seca, analisados pela Segunda Turma.
+Além disso, trata-se de acusados não reincidentes e suas penas restaram fixadas em quantum superior a quatro anos, não excedentes a oito, amoldando-se às exigências do art. 33, § 2º, "b", do Código Penal, sem graves circunstâncias judiciais reconhecidas, de forma que o regime semiaberto é o adequado para o início do cumprimento da pena privativa de liberdade. Ante a pena impingida, é incabível a substituição da pena privativa de liberdade por penas restritivas de direitos (art. 44, inc. I, do CP).
+ ..
+Ora, vê-se que o Tribunal local aplicou a fração de 1/6 para reduzir a pena do paciente na terceira fase dosimétrica, em razão da causa especial de diminuição do art. 33, § 4º, da Lei de Drogas, com base em fundamentação inidônea, pois a obtenção de lucro é inerente ao tipo penal.
+A propósito, cito os seguintes julgados:
+PROCESSUAL PENAL E PENAL. RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES EM ASSOCIAÇÃO. NULIDADE. DADOS OBTIDOS DE CELULAR QUANDO DA PRISÃO EM FLAGRANTE. PRÉVIA AUTORIZAÇÃO DO AGENTE, QUE DIGITA A SENHA. ASSOCIAÇÃO PARA O TRÁFICO. VÍNCULO ESTÁVEL E PERMANENTE. AUSÊNCIA DE COMPROVAÇÃO. MERO CONCURSO DE AGENTES. ABSOLVIÇÃO. DOSIMETRIA DA PENA. MOTIVOS DO CRIME. LUCRO FÁCIL. TRÁFICO PRIVILEGIADO. INCIDÊNCIA DA MINORANTE. POSSIBILIDADE. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. É ilícita a devassa de dados e das conversas de whatsapp, obtidas diretamente pela polícia em celular apreendido, por ocasião da prisão em flagrante, sem prévia autorização judicial. Todavia, a prévia autorização pessoal do agente, que espontaneamente digita a senha de acesso aos dados, afasta a apontada nulidade.
+2. Comprovada a autoria da recorrente como "responsável por pesar e realizar a contabilidade do entorpecente", concluir de forma diversa para absolvê-la do delito de tráfico de entorpecentes demandaria revolvimento de fático-probatório, o que é vedado em recurso especial, nos termos da Sumula 7 do STJ.
+3. A subsunção da conduta ao tipo do art. 35 da Lei 11.343/2006 exige a demonstração da estabilidade e da permanência da associação criminosa. A ausência de elementos concretos comprobatórios do vínculo estável, habitual e permanente dos acusados para a prática do comércio de entorpecentes, tudo se limitando a mero concurso de agentes, impõe a absolvição pelo delito de associação para o tráfico.
+4. Na dosimetria da pena, o motivo do lucro fácil em detrimento da sociedade é inerente ao tipo penal de tráfico de entorpecentes.
+Absolvidos os recorridos do delito de associação para o tráfico, não remanesce fundamentação idônea para a negativa da minorante do § 4º do art. 33 da Lei 11.343/06.
+5. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido para absolver os recorrentes do delito de associação para o tráfico (art. 386, VII - CPP), e para reduzir-lhes as penas definitivas pelos crimes remanescentes, nos termos do voto.
+(REsp n. 1.920.404/PA, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 11/10/2021 - grifo nosso)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. AUSÊNCIA DE PRONUNCIAMENTO DA INSTÂNCIA A QUO SOBRE OS FUNDAMENTOS EMPREGADOS PARA A EXASPERAÇÃO DA PENA-BASE. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE FLAGRANTE. POSSÍVEL RELATIVIZAÇÃO. VETOR DOS MOTIVOS DO CRIME. DESFAVORECIMENTO. LUCRO FÁCIL. MOTIVAÇÃO INIDÔNEA. CIRCUNSTÂNCIA INERENTE AO TIPO PENAL. REDUÇÃO DA PENA-BASE AO MÍNIMO LEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- A Corte de origem não se pronunciou, especificamente, sobre a idoneidade das razões empregadas na valoração negativa do vetor dos motivos do crime.
+- De toda forma, este Superior Tribunal tem entendido que a supressão de instância pode ser relativizada, em situações excepcionais, quando houver ilegalidade evidente (HC n. 343.474/CE, Rel. Min. MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe de 15/4/2016).
+- Os motivos apontados pelo juiz singular, de fato, assim como alegado pelo impetrante, são inerentes ao tipo penal incriminador, uma vez que o legislador, quando da cominação das penas referentes ao tráfico ilícito de entorpecentes, já previu, como normal à espécie, o objetivo de obter lucro fácil em detrimento da saúde da coletividade.
+- Habeas corpus não conhecido.
+- Ordem concedida, de ofício, para reduzir a pena do paciente ao novo patamar de 6 anos de reclusão, em regime inicialmente semiaberto, e 600 dias-multa, no valor mínimo legal.
+(HC n. 476.564/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 23/5/2019 - grifo nosso).
+Nesse toar, passo ao redimensionamento da reprimenda.
+Mantenho a pena, até a segunda fase, no quantum fixado pelo acórdão impugnado, qual seja, em 6 anos de reclusão, além do pagamento de 600 dias-multa (fl. 28).
+Na terceira fase, tendo em vista que não foi apresentada fundamentação concreta para justificar a incidência da fração mínima, restabeleço a fração de 2/3, tal como na sentença condenatória, atingindo o patamar de 2 anos de reclusão, e o pagamento de 200 dias multa.
+Ainda, na terceira fase, mantenho a majoração de 1/6 em razão da transnacionalidade do delito, fixando a pena em 2 anos e 4 meses de reclusão, bem como o pagamento de 300 dias-multa.
+Ante o exposto, não conheço do habeas corpus, mas concedo parcialmente a ordem de ofício, para fixar a pena do paciente em 2 anos e 4 meses de reclusão, em regime inicial semiaberto, bem como o pagamento de 300 dias-multa.
+Comunique-se.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS INTERESTADUAL. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DOSIMETRIA DA PENA. MODULAÇÃO DA FRAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Habeas corpus não conhecido. Ordem parcialmente concedida de ofício, nos termos do dispositivo.
