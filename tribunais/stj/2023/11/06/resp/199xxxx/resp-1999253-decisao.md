@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por SOCIEDADE MINEIRA DE CULTURA (SOCIEDADE), com fundamento no art. 105, III, alíneas a e c, da CF, em oposição ao acórdão proferido pelo Tribunal de Justiça de Minas Gerais (TJMG), assim ementado:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO EDUCACIONAL -PANDEMIA DA COVID -19 -SITUAÇÃO EXCEPCIONALE IMPREVISÍVEL - DESEQUILÍBRIO CONTRATUAL - DESCONTOS NAS MENSALIDADES - DIREITO RECONHECIDO. Consoante a teoria da imprevisão, instituída nos arts. 478 e 479 do Código Civil, é cabível a resolução ou a revisão da relação contratual nas hipóteses em que fatos novos, extraordinários e imprevisíveis, alheios à vontade das partes, venham a tornar excessivamente oneroso para um dos contratantes o cumprimento das obrigações assumidas. A pandemia mundial da COVID - 19 trata-se de evento notório, extraordinário, imprevisível e que causou significativo impacto para a sociedade, sobretudo na esfera econômica.
+Nesse contexto e restando com provado que as aulas práticas deixaram de ser ministradas, impõe-se a aplicação da teoria da imprevisão, para fins de autorizar a redução das mensalidades escolares do curso contratado junto à instituição de ensino ré, de modo a trazer novamente um equilíbrio na relação firmada entre as partes. V.V. O art. 421, parágrafo único, do Código Civil, é claro ao estabelecer que "nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual". - Restando verificado que as matérias práticas continuaram a ser ministradas normalmente, sendo que inclusive a apelante foi aprovada em todas elas, impõe-se a manutenção da sentença diante da impossibilidade de redução da mensalidade. (e-STJ, fl. 1.364)
+Os embargos de declaração opostos por SOCIEDADE foram rejeitados (e-STJ, fls. 1.409/1.416).
+Nas razões do presente recurso, SOCIEDADE alega violação dos arts. 489 e 1.022 do CPC; 405, 478 e 884 do CC, bem como dissídio jurisprudencial, aduzindo (1) contradição pois, ao mesmo tempo em que reconhecida a retomada das aulas de laboratório, determinado o desconto das mensalidades e omissão em relação (a) à arguição de não demonstração do alegado desequilíbrio econômico porque as aulas práticas não representam uma carga horária fixa a cada semestre (e-STJ, fl. 1.432) (b) à prevenção em razão da existência de ação civil pública (c) ao não cabimento da fixação de juros de mora a partir da citação (2) descabida a revisão contratual determinada por lhe causar onerosidade excessiva, devendo o desconto ser concedido somente em relação às disciplinas práticas no período de março a novembro de 2020 (3) os juros de mora devem ter incidência a partir da condenação.
+É o relatório.
+Decido.
+(1) contradição e omissão
+Da atenta leitura do decidido verifica-se que, a Corte Estadual abordou genericamente as questões apontadas no especial, deixando de fazer uma análise aprofundada das matérias, necessária à solução do especial, sobretudo em relação ao termo inicial dos juros de mora.
+Ressalte-se que é condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal estadual a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS DE TERCEIRO. CONTRATOS GARANTIDOS POR HIPOTECA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. CONFIGURADA. RECURSO PROVIDO. RETORNO DOS AUTOS À ORIGEM. NOVO JULGAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos de terceiro.
+2. A existência de omissão e ausência de fundamentação relevantes à solução da controvérsia, não sanadas pelo acórdão recorrido, caracteriza violação dos arts. 489 e 1.022 do CPC/2015.
+3 - Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.932.995/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. em 14/02/2022, DJe 16/02/2022)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Nessas condições, prejudicada a análise dos demais pontos, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJMG para que analise as referidas omissões, como entender de direito.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. REVISIONAL. CONTRATO EDUCACIONAL. PANDEMIA. OMISSÃO. OCORRÊNCIA. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. PROVIMENTO.
