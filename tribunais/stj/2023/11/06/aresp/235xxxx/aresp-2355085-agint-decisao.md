@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 274/276 e-STJ, proferida pela Ministra Presidente do STJ, que não conheceu do agravo em recurso especial.
+O agravante sustenta, em resumo, que a mera ausência de indicação da alínea do art. 105, I II, da Constituição Federal não pode constituir obstáculo ao conhecimento do recurso especial.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Embargos à Execução. Contrato de Prestação de Serviços Advocatícios. Exequente que ingressa com a Ação na Comarca do domicílio dos executados. DECISÃO que acolheu a preliminar de incompetência do Juízo para o processamento da causa. INCONFORMISMO do exequente embargado deduzido no Recurso. EXAME: Motivação concisa que não implica nulidade da decisão a pretexto de ausência de fundamentação. Cláusula de eleição de foro que vincula as partes. Prevalência da autonomia da vontade das partes. Aplicação do princípio "pacta sunt servanda". Cláusula de eleição de foro que deve prevalecer sobre o foro do domicílio do autor da herança. Documento copiado aos autos que não comprova a existência de novo acordo firmando entre as partes. Decisão mantida. RECURSO NÃO PROVIDO.
+Foram opostos embargos declaratórios, acolhidos em julgado assim resumido:
+EMBARGOS DE DECLARAÇÃO. Omissão configurada quanto à preliminar de falta de recolhimento do preparo recursal deduzida pelos agravados em sede de contraminuta. Necessidade de recolhimento, tendo vista a revogação do benefício ao agravante em anterior. Agravo de Instrumento. EMBARGOS ACOLHIDOS, mas sem efeitos modificativos.
+A parte agravante sustenta a violação dos arts. 102, 511 e 1.007 do Código de Processo Civil, além de dissídio jurisprudencial.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto às normas indicadas pelo recorrente, pois são estranhas ao julgado recorrido, a elas faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Além disso, o dissídio jurisprudencial não foi demonstrado nos moldes legais e regimentais, notadamente no que toca à comprovação de similitude dos substratos fáticos dos julgados confrontados e ao cotejo analítico entre acórdãos.
+Quanto ao pleito de atribuição de efeito suspensivo ao recurso especial, inviável o pleito, pois o agravo não superou sequer os requisitos de admissibilidade para o exame do mérito do inconformismo, circunstância que revela a ausência de plausibilidade jurídica do pedido.
+Finalmente, quanto à petição de fls. 304/320 e-STJ, indefiro o pedido de gratuidade de Justiça, eis que o simples fornecimento da declaração de imposto de renda não revela a impossibilidade do agravante de arcar com as custas do processo.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
