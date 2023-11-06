@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por USINAS REUNIDAS SERESTA S/A E OUTROS, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.080):
+Processo civil - Embargos à execução - Apelação - Transação - Perda de objeto.
+Não se conhece do recurso de apelação que foi declarado prejudicado, por decisão não recorrida, em razão de perda de objeto, tendo em vista o acordo celebrado entre as partes, homologado judicialmente, no qual elas estipularam que na hipótese de descumprimento, o débito persistiria pelo saldo devedor, acrescidos dos respectivos encargos moratórios, retomando-se a execução.
+Apelação não conhecida. Decisão mantida. Agravo não provido, com a imposição de multa.
+Nas razões do recurso especial, a agravante alega violação aos arts. 3º, 313, §4º, 922, 1.021, §4º, do CPC/15, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que: (i) "o acórdão equivoca-se ao utilizar o acordo firmado entre as partes para justificar eventual novação da dívida e, por consequência, a extinção da apelação por perda de objeto, pois o acordo é expresso em afirmar que os embargos à execução (processo de origem da apelação) seriam apenas suspensos até efetivo cumprimento do acordo" (fl. 1.093); (ii) não basta o improvimento unânime do agravo interno para a imposição de a multa prevista no artigo 1.021, §4º, do CPC/15.
+Foram apresentadas contrarrazões às fls. 1.102/1.116.
+É o relatório.
+De início, nota-se que a Corte de origem considerou que houve perda do objeto da apelação, em razão do acordo celebrado entre as partes, no qual se determia que o descumprimento da avença ocasiona o prosseguimento da ação de execução, pelo saldo devedor, como se verifica do trecho do acórdão a seguir (fls. 1.081/1.082):
+"Como mencionado na decisão agravada, este relator declarou prejudicada a apelação interposta às fls. 603/657, em razão de perda de objeto, tendo em vista o acordo celebrado entre as partes (fls. 871/873), não sendo interposto recurso contra a decisão de fls. 875.
+Insta consignar que os próprios agravantes declararam não terem recorrido "daquela v. decisão anterior de fls. 875, haja vista que à época, mantinham o espírito de que o acordo seria cumprido integralmente, sem a retomada das execuções" (cf. fls. 1010 - g.n.).
+Os autos foram encaminhados ao Juízo "a quo, sendo homologado o acordo em 06/08/2015, restando tal decisão irrecorrida (fls. 878).
+Em razão do acordo homologado, em 09/10/2015, determinou-se a suspensão da execução durante o prazo estipulado pelas partes para o cumprimento das obrigações constantes na avença, nos termos do art. 792 do CPC de 1973 (fls. 882).
+Os autos permaneceram arquivados até 24/02/2017, quando a credora informou o descumprimento da avença (fls. 885/886), pleiteando o conhecimento da apelação por este Tribunal, não se atentando à decisão de fls. 875, pela qual foi declarada a perda de seu objeto, contra a qual não foi interposto recurso, assim como, em relação à decisão homologatória do acordo, que substituiu a sentença.
+Como aponta Theotônio Negrão: "Nada impede que seja celebrada e homologada transação após sentença". Nesse sentido:
+JTJ 151/87, RJ 312/119, RMDCPC 33/125 (TJDFT, Al 2009.00.2.012673-4)."  in Novo Código de Processo Civil, Edição Especial 2017, Ed. Saraiva, nota 12a ao art. 487, pág. 520).
+As partes convencionaram que o descumprimento do acordo ensejaria o prosseguimento da ação de execução, pelo saldo devedor, como se denota pelos seguintes itens da transação:
+(..)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se o acordo ocasionou a perda de objeto, bem como as condições existentes em suas cláusulas demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ROMPIMENTO DA BARRAGEM BRUMADINHO. PERDA DE OBJETO. EXTINÇÃO DO PAGAMENTO EMERGENCIAL. SUBSTITUIÇÃO PELO TERMO DE ACORDO PRELIMINAR - TAP. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal de origem reconheceu a inexistência de perda de objeto da presente demanda, diante da existência de Acordo de Reparação Integral, de modo que a análise das alegações recursais - todas voltadas a defender a abrangência dos valores devidos nesta demanda pelo referido acordo - atrai a incidência das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.051.700/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/8/2023, DJe de 18/8/2023.)
+Por sua vez, quanto ao cabimento da multa recursal, cumpre asseverar que esta Corte Superior firmou orientação no sentido de que, em regra, a multa prevista no art. 1.021, § 4º, do CPC/2015 não decorre de forma automática do desprovimento de agravo interno, devendo ser verificado, caso a caso, a ocorrência de intenção protelatória, o que não ocorreu no caso tendo em vista a necessidade de interposição de agravo regimental para o esgotamento de instância.
+Nesse sentido:
+"PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE Lei nº FEDERAL CONSIDERADO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO. MEIO ADEQUADO PARA ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. APELO QUE ATENDE AO PRINCÍPIO DA DIALETICIDADE.
+(..)
+2. O Superior Tribunal de Justiça possui a orientação de que, para a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, o Agravo Interno deve mostrar-se manifestamente inadmissível ou sua improcedência deve ser de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorreu no caso, em razão de a interposição ser necessária para o esgotamento da instância para acesso aos Tribunais Superiores.
+(..)
+4. Recurso Especial parcialmente conhecido e, nessa parte, provido"
+(REsp 1.762.940/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 21/11/2018).
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+(..)
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido" (AgInt nos EREsp 1.120.356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe 29/8/2016).
+Assim, o recurso especial deve ser provido para extrair do acórdão de origem a aplicação da multa estabelecida no art. 1.021, § 4º, do CPC/2015.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, somente para afastar a multa imposta com lastro no art. 1.021, §4º, do CPC/2015.
+Publique-se.
+EMENTA
