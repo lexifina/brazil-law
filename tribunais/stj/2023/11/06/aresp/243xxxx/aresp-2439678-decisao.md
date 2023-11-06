@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCO ALEXANDRE AGUIAR RIBEIRO, desafiando decisão que inadmitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (e-STJ, fl. 398):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. BUSCA E APREENSÃO C/C INDENIZATÓRIA. DANOS MORAIS. CONFIGURADOS. MANUTENÇÃO DO QUANTUM. RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.
+I. O cerne da questão gravita em analisar se houve ato ilícito por parte do agravante ao impedir o acesso e a retirada dos equipamentos pertencentes à agravada do interior de seu imóvel, uma sala comercial que estava locada para o ex-companheiro da autora e cujos aluguéis estavam em atraso.
+II. No que tange ao quantum, tenho que este deve considerar a gravidade dos fatos narrados, as condições pessoais da vítima e a vedação ao enriquecimento sem causa, sendo, portanto, razoável e proporcional a sua manutenção no valor de R$5.000,00 (cinco mil reais).
+III. Agravo Interno desprovido.
+Os embargos de declaração opostos foram rejeitados, com imposição de multa (fls. 420/430, e-STJ).
+Nas razões do recurso especial, além de negativa de prestação jurisdicional, o ora recorrente aponta violação dos arts. 188, I e 1.467, II, do CC e 1.026, §2º, do CPC. Sustenta, em suma, que não há ilicitude por parte do credor em reter bens para pagamento dos alugueis em atraso. Requer a exclusão da multa imposta nos termos do art. 1.026, §2º, do CPC.
+É o relatório. Passo a decidir.
+Da análise dos autos, verifica-se que a parte recorrente opôs embargos de declaração argumentando o seguinte (e-STJ, fl.414):
+"28. Ora, no caso concreto, o MM Juiz singular, nem o Excelentíssimo Desembargador Relator, não emitira nenhum de valor sobre conversas de whatsapp trocadas pelas partes, também não aplicou ao caso concreto do art. 1.467, INCISO II, DO CC/02 e a alegação exercício legal de direito do Locador e a impossibilidade de danos à pessoa alheia a relação locatícia."
+Por sua vez, o eg. Tribunal de Justiça rejeitou os aclaratórios sem examinar os argumentos ora transcritos, como se verifica no acórdão de fls. 118/120 (e-STJ, fl. 424):
+"In casu, o simples exercício de leitura da decisão embargada revela que nenhum dos pontos suscitados pelo embargante deixou de ter manifestação do julgador e, ainda que assim não fosse, não é demais lembrar que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (STJ - AgInt no AREsp: 1858518 RJ 2021/0079231-2, Relator: Ministro MAURO CAMPBELL MARQUES, Data de Julgamento: 04/10/2021, T2 - SEGUNDA TURMA, Data de Publicação: DJe 07/10/2021).
+Portanto, compete ao julgador decidir a questão de acordo com o seu livre convencimento motivado, valendo-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto, como se deu na espécie.
+E, no caso dos autos, a decisão embargada claramente enfrentou o cerne principal devolvido a julgamento, tal seja, o ato ilícito praticado pelo embargante ao impedir o acesso da embargada ao interior do imóvel locado para que pudesse retirar os seus equipamentos que estavam lá."
+Nessa linha, constata-se que o colendo Tribunal de origem, não obstante provocado, deixou de examinar questão essencial ao deslinde da controvérsia.
+Com efeito, a eg. Corte de origem quedou-se inerte no exame de questão relevante para o deslinde da controvérsia e que, na via estreita do recurso especial, não poderia ser analisada de plano, mormente em razão da impossibilidade de incursão no acervo fático-probatório dos autos (Súmula 7/STJ).
+Recusando-se a Corte de origem a se manifestar sobre o tema federal, fica obstaculizado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a infringência ao art. 1.022 do CPC/2015 (correspondente ao art. 535 do CPC/1973), a fim de anular o v. acórdão recorrido para que seja suprida a omissão existente.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1113795/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 15/03/2018 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO E OBSCURIDADE NO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 1.022 do CPC/15 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar provimento ao recurso especial, determinando-se o retorno dos autos ao Tribunal de origem para que sejam sanados os vícios verificados.
+(AgInt nos EDcl no REsp 1702509/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 16/08/2018, DJe 24/08/2018, g.n.)
+Dessa forma, está caracterizada a alegada ofensa ao art. 1.022 do CPC/2015, em razão da omissão da colenda Corte de origem em examinar a questão suscitada.
+Por sua vez, com relação à multa aplicada nos embargos de declaração, com base no art. 1026, § 2º, do CPC/2015, observa-se que os aclarátórios, na espécie, foram opostos com o intuito de prequestionamento, em conformidade com a Súmula 98/STJ, razão pela qual deve ser afastada a penalidade imposta pelo Tribunal local.
+Fica prejudicada a análise das demais teses trazidas no apelo nobre.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, anulando-se o v. acórdão proferido em sede de embargos declaratórios e determinando-se, por conseguinte, que outro seja proferido e, assim, sanada a omissão aqui verificada.
+Publique-se.
+EMENTA
