@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de petição apresentada por ALPARGATAS S.A., NIKE DO BRASIL COMERCIO E PARTICIPAÇÕES LTDA. E NIKE INTERNATIONAL LTD., na qual propõe questão de ordem contra a conclusão da col. Quarta Turma no sentido de determinar a reautuação do AREsp 1.185.371/SP no presente recurso especial.
+Sustenta as ora requerentes que o advogado Dr. LUIZ CLÁUDIO GARÉ (OAB/SP 103.768) não constou da publicação, deixando, portanto, de ser oportunamente intimado da inclusão em pauta de julgamento do referido AREsp 1.185.371/SP. Assevera que houve pedido de publicação em seu nome por petição de impugnação ao agravo interno, a qual foi protocolada em 21/2/2023, de modo que todos os atos decisórios posteriores deveriam ser reputados nulos.
+Insurge-se ainda contra a conversão do agravo em recurso especial, sob o fundamento de que as matérias objeto do referido recurso são estritamente processuais e absolutamente distintas daquelas tratadas pela col. Terceira Turma, em precedente firmado acerca da responsabilidade por atos de contrafação.
+É o relatório. Decido.
+De início, ressalta-se que, mesmo nas hipóteses em que configurado vício insanável, não se cogita da decretação de nulidade do atos judiciais quando não demonstrada a ocorrência de prejuízo concreto para as partes. A propósito desse tema, o Superior Tribunal de Justiça tem jurisprudência tranquila, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. De acordo com a orientação firmada neste Superior Tribunal de Justiça, "contendo o relatório da sentença os elementos necessários à compreensão da causa, sem acarretar qualquer prejuízo ao julgamento, amparado em bem lançada fundamentação, não há falar em violação ao art. 458, I, do Código de Processo Civil". Precedentes.
+1.1. "A declaração da nulidade do ato processual está condicionada à demonstração de efetivo prejuízo (pas de nullité sans grief)" (AgInt no REsp n. 1.981.341/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+2. Não se constata a alegada violação aos artigos 489 e 1.022, do CPC/15, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+3. Para alterar o entendimento do Tribunal de origem seria necessário o reexame de fatos e provas, o que é vedado em recurso especial. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.952.277/TO, relator Min. MARCO BUZZI, QUARTA TURMA, julgado em 9/10/2023, DJe de 11/10/2023, g.n.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CIVIL. CONTRADIÇÃO. AUSÊNCIA. VIOLAÇÃO AO §2º DO ART. 1.023 DO CPC. NÃO OCORRÊNCIA. SÚMULA 283 DO STF.
+1. Na hipótese dos autos, não hão há que se falar em contradição no acórdão recorrido, pois a parte agravante não se desincumbiu do ônus de demonstrar, efetivamente, a existência de divergência entre as premissas e as conclusões adotadas pelo TJ/MG.
+2. Constatando a Corte de origem que os embargos de declaração eram infundados, não havia qualquer necessidade de intimar o agravado nos termos do §2º, do art. 1.023, do CPC, não havendo que se falar em nulidade, máxime diante da ausência de prejuízo (pas de nullité sans grief).
+3. A ausência de impugnação direta, inequívoca e efetiva aos fundamentos do acórdão recorrido, fato que, por si só, é suficiente para a subsistência do decisum, atrai a incidência, por analogia, da Súmula 283/STF.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.053.785/MG, relatora Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/8/2023, DJe de 16/8/2023, g.n.)
+No caso dos autos, levado o agravo em recurso especial à apreciação do colegiado da Quarta Turma, em razão da interposição oportuna de agravo interno - o qual fora também oportunamente impugnado pelo ora peticionante -, o órgão julgador concluiu por reautuá-lo como recurso especial.
+Destaca-se que essa determinação não causa prejuízos a nenhuma das partes, uma vez que o recurso especial ainda estará sujeito à ampla apreciação do relator e seus pares. Com efeito, "a determinação de reautuação do agravo não representa a satisfação dos requisitos de admissibilidade do recurso especial, o qual passará por novo juízo de admissibilidade, além da análise do mérito, se ultrapassado aquele" (AgInt no AREsp 773.569/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/10/2017, DJe de 18/10/2017).
+Na verdade, nesse momento, o que se examinou foi apenas e tão somente se o agravo atendia os seus próprios requisitos de admissibilidade e, em análise preliminar, a existência de possibilidade de enfrentamento do mérito do recurso especial. Daí porque a eventual dissonância alegada entre as hipóteses fáticas e jurídicas apreciadas em antigos acórdãos da Terceira Turma do STJ e o caso concreto destes autos também não é matéria a ser enfrentada nesse momento processual.
+Por fim, verifica-se que a presente petição busca, ainda que por via transversa, a efetiva rediscussão da própria determinação de reautuação, à míngua de sua recorribilidade.
+Com esses fundamentos, indefiro a presenta petição.
+Determino, entretanto, à COORDENADORIA DE RECEBIMENTO, CONTROLE E AUTUAÇÃO DE PROCESSOS RECURSAIS que proceda às anotações de praxe relativas ao pedido de publicação em nome do procurador Dr. LUIZ CLÁUDIO GARÉ (OAB/SP 103.768).
+Publique-se.
+EMENTA
