@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO MACEDO DOS SANTOS contra decisão, oriunda do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou seguimento ao recurso especial aviado.
+Depreende-se dos autos que o agravante foi condenado, como incurso no art. 171 do Código Penal, à pena de 1 ano e 2 meses de reclusão, no regime aberto.
+O Tribunal de origem negou provimento ao recurso de apelação interposto pela defesa. O acórdão está assim ementado (e-STJ fl. 653):
+Estelionato Recurso defensivo alegando, preliminarmente, a falta de condição de procedibilidade da ação penal. No mérito, busca a absolvição por insuficiência probatória Exigência de representação incluída pela Lei nº 13.964/2019 que não retroage no presente caso Ação penal que já havia sido iniciada quando da vigência da lei suscitada Entendimento esposado pelo C. Superior Tribunal de Justiça No mérito, provas francamente incriminadoras Palavra da vítima merecedora de credibilidade Documentos comprovando a emissão de cheques sem provisão de fundos Pena inalterada Regime prisional fixado com critério Manutenção da substituição da pena privativa de liberdade por restritiva de direitos Recurso não provido.
+Foi então interposto o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual se alegou a violação aos arts. 2º, parágrafo único, e 171, § 5º, do Código Penal.
+Aduziu, em linhas gerais, a defesa (e-STJ fl. 677):
+Dessa forma, não há dúvidas sobre a natureza material, ou mista, da alteração legislativa mencionada (art. 171, §5º, do CP), sendo de rigor a sua aplicação retroativa no presente processo, já que mais benéfica ao réu.
+Assim, inexistindo representação dos ofendidos, deve ser reconhecida a nulidade da decisão que determinou o recebimento da denúncia e de todos os atos subsequentes, com fundamento no art. 564, III, "a", do CPP - notadamente porque a ausência da formalidade evoca a falta de condição de procedibilidade da ação, contaminando a decisão de recebimento e, por conseguinte, todas as outras dela.
+Consequentemente, de se atentar que o art. 38, do CPP, impõe o prazo de decadencial de 6 (seis) meses, contados do dia do conhecimento de quem é o autor da infração, para o ofendido, ou seu representante legal, oferecer representação.
+Contudo, no presente caso, já escoou há muito o referido prazo - o suposto estelionato imputado à recorrente data de novembro de 2002. Assim, é necessário reconhecer a decadência do direito de representação, extinguindo a punibilidade com fundamento no art. 107, IV, do CP.
+O MPF, às e-STJ fls. 726/729, manifestou-se pelo desprovimento do recurso.
+É, em síntese, o relatório. Decido.
+Sem razão, contudo, à defesa.
+A temática que ora se apresenta foi devidamente sedimentada em recente precedente emanado da Terceira Seção desta Corte, cujo acórdão foi ementado nos seguintes termos:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. ESTELIONATO. LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. INVIABILIDADE. ATO JURÍDICO PERFEITO. CONDIÇÃO DE PROCEDIBILIDADE. WRIT INDEFERIDO.
+1. A retroatividade da norma que previu a ação penal pública condicionada, como regra, no crime de estelionato, é desaconselhada por, ao menos, duas ordens de motivos.
+2. A primeira é de caráter processual e constitucional, pois o papel dos Tribunais Superiores, na estrutura do Judiciário brasileiro é o de estabelecer diretrizes aos demais Órgãos jurisdicionais. Nesse sentido, verifica-se que o STF, por ambas as turmas, já se manifestou no sentido da irretroatividade da lei que instituiu a condição de procedibilidade no delito previsto no art. 171 do CP.
+3. Em relação ao aspecto material, tem-se que a irretroatividade do art. 171, §5º, do CP, decorre da própria mens legis, pois, mesmo podendo, o legislador previu apenas a condição de procedibilidade, nada dispondo sobre a condição de prosseguibilidade. Ademais, necessário ainda registrar a importância de se resguardar a segurança jurídica e o ato jurídico perfeito (art. 25 do CPP), quando já oferecida a denúncia.
+4. Não bastassem esses fundamentos, necessário registrar, ainda, prevalecer, tanto neste STJ quanto no STF, o entendimento "a representação, nos crimes de ação penal pública condicionada, não exige maiores formalidades, sendo suficiente a demonstração inequívoca de que a vítima tem interesse na persecução penal. Dessa forma, não há necessidade da existência nos autos de peça processual com esse título, sendo suficiente que a vítima ou seu representante legal leve o fato ao conhecimentos das autoridades." (AgRg no HC 435.751/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+6. Habeas corpus indeferido.
+(HC n. 610.201/SP, Rel. Ministro Ribeiro Dantas, 3ª Seção, DJe 8/4/2021, destaquei.)
+Com efeito, na hipótese vertente, o entendimento do Tribunal de origem está em consonância com o recente posicionamento do STJ, pois, como bem consignou a Corte bandeirante, "à época da prática do delito e do início da fase judicial, não era exigida a representação dos ofendidos como condição de procedibilidade, tratando-se o estelionato de crime de ação penal de iniciativa pública incondicionada" (e-STJ fl. 654).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
