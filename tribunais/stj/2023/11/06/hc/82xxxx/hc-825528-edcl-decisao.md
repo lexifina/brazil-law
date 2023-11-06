@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão de fls. 209-213, que denegou o habeas corpus.
+O embargante sustenta a existência de contradição entre a decisão ora embargada e os fundamentos utilizados no acórdão que julgou a revisão criminal, na medida em que o relator concluiu que "restam claras a impossibilidade de modificação das decisões guerreadas no que concerne à carga penal imposta", como citado no acórdão.
+Expõe considerações buscando demonstrar que a atenuante da confissão se trata de matéria de ordem pública, que pode ser sanada a qualquer momento e de ofício, uma vez constatada. Ainda busca amparo no parecer do Ministério Público Federal.
+Requer seja sanada a contradição apontada.
+É o relatório.
+Decido.
+Cumpre consignar, desde logo, que se admitem os embargos declaratórios quando houver, na decisão embargada, ambiguidade, obscuridade, contradição ou omissão, nos termos dos arts. 619 e 620 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado, nos efeitos infringentes.
+Ademais, "A contradição que autoriza o manejo dos embargos é aquela interna, entre as premissas e conclusões do próprio acórdão embargado, e não a suposta contradição entre este a as provas dos autos, a sentença ou a interpretação legal defendida pelo embargante" (EDcl no REsp n. 1.973.397/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/10/2022, DJe de 6/12/2022).
+A decisão, no que aqui interessa, assim está fundamentada (fls. 212-213):
+No que diz respeito à incidência da atenuante da confissão, verifica-se que a questão não foi objeto de análise por parte do Tribunal de origem, razão pela qual não poderá ser conhecida por indevida supressão de instância.
+Sabe-se que não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Em assim sendo, diante da leitura atenta do inteiro teor do acórdão do Tribunal de origem que conheceu e indeferiu a revisão criminal, não se verificou presente qualquer fundamentação pela qual restou analisada e indeferida a atenuante da confissão. Daí a conclusão de que não pode ser conhecida por este Tribunal por indevida supressão de instância.
+Cumpre consignar que "Consoante a jurisprudência desta Corte Superior, o prévio exame das matérias pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta Corte, ainda quando se cuide de matéria de ordem pública" (AgRg no HC n. 596.052/MG, relator Ministro Felix Fischer, Quinta Turma, julgado em 6/10/2020, DJe de 16/10/2020).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. HOMICÍDIO. DOSIMETRIA. PENA-BASE. CULPABILIDADE, CONDUTA SOCIAL, PERSONALIDADE, COMPORTAMENTO DA VÍTIMA E CONSEQUÊNCIAS DO CRIME. SUPRESSÃO DE INSTÂNCIA. MOTIVOS DA INFRAÇÃO. UTILIZAÇÃO DE MAJORANTE REMANESCENTE PARA EXASPERAR A PENA-BASE. LEGALIDADE. ENTEND I MENTO PACÍFICO DESTA CORTE SUPERIOR DE JUSTIÇA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese referente aos vetores da culpabilidade, conduta social, personalidade, comportamento da vítima e consequências do crime não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância. Não há como reconhecer ilegalidade que imponha a concessão de habeas corpus de ofício. Isso porque, "ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/09/2019, DJe 10/10/2019)" (STJ, AgRg no HC 666.908/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021).
+2. É legítima a utilização de majorante remanescente para o incremento da pena basilar.
+3. Agravo regimental desprovido. (AgRg no RHC n. 180.284/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 21/8/2023, DJe de 25/8/2023.)
+Não há, portanto, qualquer vício integrativo na decisão embargada, não se prestando os embargos de declaração à livre rediscussão dos fundamentos adotados, tanto mais que revela, em essência, mero inconformismo com o resultado do julgado.
+Dessa forma, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
