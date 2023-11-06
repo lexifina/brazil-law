@@ -1,0 +1,61 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS e Agravo em Recurso Especial interposto por WAGNER BARBOSA ROGERIO contra acórdão prolatado, por unanimidade, pela 16ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.088e):
+ACIDENTARIA - LESÕES NA COLUNA E NOS MEMBROS SUPERIORES - INCAPACIDADE PARCLAL E PERMANENTE - AUTOR JÁ CONTEMPLADO COM AUXÍLIO-ACIDENTE - PEDIDO INICIAL IMPROCEDENTE.
+"Dada à constatação de que o autor ostenta incapacidade parcial e permanente para o exercício da atividade profissional e já está amparado, em razão da mesma causa, por auxílio-acidente, descabe evidentemente a concessão de novo benefício".
+Sentença reformada por força do reexame necessário e do provimento parcial da apelação do INSS.
+Em juízo de conformidade, o acórdão foi mantido em relação a devolução de valores:
+ACIDENTARIA - TUTELA ANTECIPADA DEFERIDA - SUPERVENIENTE DECRETO DE EMPROCEDÊNCIA DO FEITO - RESTITUIÇÃO DOS EVENTUAIS VALORES PERCEBIDOS PELA AUTORA - INADMISSIBILTOADE - POSIÇÃO AQUI FIRNLADA EM CONFORMIDADE COM O ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 296, 297, parágrafo único, 300, § 3º, 302, I e II, e 520, I e II, 948 e 949 do atual CPC; 876, 884 e 885 do Código Civil e 115, II e § 1º, da Lei n. 8.213/1991, alegando-se, em síntese, que embora o instituto da tutela antecipada possibilite a fruição imediata do direito material, sua natureza jurídica é de provimento provisório e precário, motivo pelo qual subsiste a possibilidade de revisão da decisão a qualquer tempo, cuja consequência é o regresso das partes à situação de fato anterior ao ajuizamento da ação.
+Com contrarrazões, o recurso foi admitido (fls. 266/267e).
+No Agravo em Recurso Especial, o Agravante repisa as alegação do Recurso Especial.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Igualmente, nos termos do art. 932, III, do referido codex, combinado com o art. 253, I, do Regimento Interno desta Corte, incumbe ao Relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Agravo do segurado
+No que tange ao Agravo em Recurso Especial, verifico, de pronto, a ausência de requisito extrínseco de admissibilidade, relativa à regularidade formal do agravo interposto.
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III do art. 932 do mencionado estatuto processual prevê expressamente o não conhecimento do agravo que não tenha atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+No caso sob exame, o Recurso Especial não foi admitido, com base na aplicação: 1) da Súmula n. 284/STF; 2) da Súmula 7/STJ; e 3) pela deficiência na demonstração do dissídio jurisprudencial.
+Entretanto, as razões do Agravo não atacam os óbices apontados, não satisfazendo a exigência de impugnação específica da decisão agravada, porquanto não demonstrada a higidez das razões do Recurso Especial.
+Assim, ausente requisito de regularidade formal, impõe-se o não conhecimento do recurso.
+Nesse sentido são os precedentes desta Corte analisando recursos interpostos sob a sistemática do Código de Processo Civil de 1973:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA MOEDA. URV. LEI 8.880/94. PRESCRIÇÃO. TRATO SUCESSIVO. SÚMULA 85/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO ADOTADO PELA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos.
+(..)
+(AgRg no AREsp n. 520.470/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 13/08/2014).
+TRIBUTÁRIO. LEI COMPLEMENTAR 118/05. IRPF. AIDS. ART. 6º DA LEI Nº 7.713/88. ISENÇÃO. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ.
+(..)
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do Direito na jurisprudência do STJ.
+(..)
+5. Agravo Regimental não conhecido.
+(AgRg no AREsp n. 436.268/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/02/2014, DJe 27/03/2014).
+Recurso da Fazenda Pública
+Acerca da revogação da tutela antecipada, a 1ª Seção desta Corte, no julgamento, em 12.02.2014 do Recurso Especial n. 1.401.560/MT, inclusive sob a sistemática do art. 543-C do Código de Processo Civil, pacificou entendimento no sentido da necessidade de devolução dos valores relativos a benefício previdenciário recebidos em razão de antecipação dos efeitos da tutela posteriormente revogada, consoante fundamentos resumidos na seguinte ementa:
+PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária.
+Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava.
+Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos.
+Recurso especial conhecido e provido.
+(REsp 1.401.560/MT, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/02/2014, DJe 13/10/2015).
+Posteriormente, mediante o julgamento de Questão de Ordem - Pet 12.482/DF -, esta Corte reafirmou o posicionamento adotado no Tema n. 692/STJ, ora referido, no sentido de que "A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago".
+Na mesma linha, os seguintes julgados:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. TEMA REPETITIVO 692/STJ (RESP 1.401.560/MT). DEVOLUÇÃO DE VALORES DE BENEFÍCIOS PREVIDENCIÁRIOS RECEBIDOS POR FORÇA DE TUTELA ANTECIPATÓRIA POSTERIORMENTE REVOGADA. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça firmou posição no Tema Repetitivo 692 (REsp 1.401.560/MT) no sentido de que os valores recebidos por decisão judicial precária, posteriormente revogada, devem ser devolvidos. Proposta revisão do entendimento em Questão de Ordem autuada como Pet 12.482/DF, Rel. Ministro Og Fernandes, Primeira Seção, DJe de 24.5.2022, decidiu-se no sentido de reafirmar, com ajustes redacionais, a possibilidade de devolução na referida hipótese.
+2. Agravo Interno não provido.
+(AgInt no REsp n. 2.020.551/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/3/2023, DJe de 27/3/2023 - destaque meu).
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VALORES PAGOS EM RAZÃO DE DECISÃO JUDICIAL PRECÁRIA. RESTITUIÇÃO AO ERÁRIO. CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É legítima a restituição ao Erário de valores pagos a servidor público/pensionista em razão do cumprimento de decisão judicial precária, posteriormente cassada em segundo grau de jurisdição.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp n. 1.889.325/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023 - destaque meu).
+In casu, tendo o acórdão recorrido contrariado entendimento pacificado nesta Corte, de rigor sua reforma.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, NÃO CONHEÇO do Agravo em Recurso Especial e DOU PROVIMENTO ao Recurso Especial do INSS para determinar a restituição dos valores percebidos, nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
