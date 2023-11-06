@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAURÍCIO MAIA PEREIRA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado às penas de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa, por infração ao artigo 33, caput, c/c artigo 40, VI, todos da Lei 11.343/06, na forma do artigo 69, do Código Penal, nos termos da sentença de fls. 14-21.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 22-32.
+No presente writ, o impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente na negativa à aplicação da causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/06, despida de fundamentação idônea.
+Requer, ao final, liminarmente, que o paciente possa aguardar o julgamento do writ em liberdade. No mérito, requer a concessão da ordem, para que seja aplicada a causa especial de diminuição de pena do § 4º do artigo 33 da Lei 11.343/06 em seu patamar máximo, com o redimensionamento da reprimenda, a fixação de regime prisional inicial aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+O pedido liminar foi indeferido às fls. 36-37.
+Informações prestadas às fls. 43-46 e 47-69.
+O Ministério Público Federal, às fls. 73-80, opinou pelo não conhecimento do writ.
+É o relatório. DECIDO.
+A controvérsia consiste na suposta ausência de fundamentação idônea que justifique a negativa ao privilégio do parágrafo 4º do art. 33 da Lei n. 11.343/06, na terceira etapa da dosimetria.
+Registro que a via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+No que tange à redutora capitulada no parágrafo 4º do art. 33 da Lei 11.343/06, tal dispositivo prevê que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+No presente caso, ao contrário do que aduz a defesa, houve fundamentação concreta, idônea e suficiente para o afastamento do tráfico privilegiado, lastreada não somente na quantidade de drogas apreendidas (1240 micropontos de LSD, 47 comprimidos de ecstasy, com peso bruto de 23,7g, 376 porções de cocaína, com peso bruto de 37,6g), 911 porções de crack, com peso bruto de 911g, 06 tijolos de maconha, com peso bruto de 20kg, e cinco litros de lança perfume), mas também nas circunstâncias concretas da prisão do paciente e da apreensão das drogas.
+Com efeito, foram também apreendidos petrechos relacionados ao tráfico, quais sejam, balança de precisão, quantia em dinheiro (R$ 1.285,00) e cadernos com anotações contábeis do comércio clandestino, elementos aptos a ensejar a conclusão pela dedicação às atividades criminosas e a afastar a redutora do art. 33, parágrafo 4º, da Lei n. 11.343/2006.
+Nesse sentido:
+" ..
+4. O reconhecimento do tráfico privilegiado foi denegado porque as instâncias de origem reconheceram expressamente que o paciente não se tratava de traficante eventual, haja vista não apenas a quantidade e natureza dos entorpecentes apreendidos - 07 (sete) pedras de "Crack" pesando cerca de 32,89g e 01 (um) pacote contendo Cocaína e pesando cerca de 1.048,47g (e-STJ, fl. 44) -, mas principalmente devido à apreensão de petrechos de mercancia, tais como 2 (duas) balanças de precisão, 1 (uma) faca e 1 (um) pacote contendo cerca de 5.000 (cinco mil) cápsulas do tipo eppendorf vazias (e-STJ, fl. 45); sendo, portanto, pouco crível que ele se tratasse de pessoa inexperiente e praticasse a mercancia ilícita de forma esporádica.
+5. Desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Precedentes.
+ ..
+7. Agravo regimental não provido." (AgRg no HC n. 848.618/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 18/9/2023, grifei.)
+Corroborando o entendimento, os seguintes julgados: AgRg no AREsp n. 2.209.186/SP, Quinta Turma, Rel. Ministro Messod Azulay Neto, DJe de 2/10/2023; e AgRg no AREsp n. 2.269.349/RS, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 27/9/2023.
+Qualquer incursão que escape a moldura fática ora apresentada demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Sobre o tema: AgRg no HC 695.891/GO, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 13/12/2021; e AgRg no HC 652.335/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 13/12/2021.
+Mantido o afastamento da redutora do tráfico privilegiado e o mesmo quantitativo de pena, não há que se falar na fix ação de regime de regime prisional menos gravoso, nem em substituição da pena privativa de liberdade por restritivas de direitos, uma vez que fixado o regime prisional adequado à espécie, qual seja, o fechado, em razão das circunstâncias concretas do delito (expressiva quantidade de entorpecentes), em consonância com o entendimento desta Corte, consoante art. 33, parágrafo 2º, "a", e parágrafo 3º, do Código Penal, e art. 42 da Lei n. 11.343/06.
+Sobre o tema: AgRg no HC n. 795.704/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe de 31/5/2023; AgRg no HC n. 728.354/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 1/4/2022.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intime-se.
+EMENTA
