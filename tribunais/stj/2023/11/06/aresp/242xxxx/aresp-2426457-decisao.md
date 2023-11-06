@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da inexistência de violação de lei federal e de demonstração do dissenso jurisprudencial (e-STJ fls. 427/429).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 404):
+COMPROMISSO DE COMPRA E VENDA - Imóvel - Ação de indenização por atraso na obra - Sentença de parcial procedência do pedido Inconformismo manifestado por ambas as partes - Descabimento - Atraso verificado - Inteligência do IRDR nº 0023203-35.2016.8.26.0000 - Lucros cessantes devidos - Abusividade da incidência do INCC no período de atraso - Parcial procedência do pedido que se fazia de rigor - Reciprocidade da sucumbência bem caracterizada - Sentença mantida - Recursos improvidos, com observação.
+Nas razões do recurso especial (e-STJ fls. 410/422), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos arts. 265 e 476 do CC/2002, sustentando, em síntese, "a ausência de responsabilidade da Recorrente referente aos danos alegados em recorrência do atraso na entrega das chaves e a conduta praticada" (e-STJ fl. 415).
+Afirma a inexistência de solidariedade, destacando que "a Recorrente figurou na qualidade de vendedora somente no contrato de financiamento bancário, tendo em vista transações realizadas entre as empresas posteriormente a venda do imóvel realizada entre Novolar e Recorrido. Quando da venda do imóvel (entre Novolar e Recorrido) a Recorrente figurou somente na qualidade de Anuente, ou seja, esta não era responsável pela entrega do imóvel, como quer fazer crer o Recorrido" (e-STJ fl. 416).
+Assevera que "não pode ser culpada a Recorrente por conta da morosidade da Recorrida, totalmente vedado pelo princípio "nemo auditur propriam turpitudinem allegans", na medida em que por culpa do Recorrido, este mesmo está a levar proveito econômico" (e-STJ fls. 416/417).
+Suscitou divergência jurisprudencial aduzindo que "a cláusula que prevê a entrega das chaves do imóvel vinculada a prazo certo não é abusiva, uma vez que não coloca o consumidor em desvantagem, não podendo atribuir à construtora culpa pela demora no recebimento das chaves" (e-STJ fl. 421).
+No agravo (e-STJ fls. 432/442), afirma a presença dos requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 450).
+É o relatório.
+Decido.
+No caso, o TJSP reconheceu a responsabilidade solidária da parte recorrente pela atraso na entrega da obra, decidindo com base nos seguintes fundamentos (e-STJ fls. 405/406):
+Quanto aos recursos destas, registre-se flagrantemente descabida a preliminar de ilegitimidade passiva e ausência de solidariedade, ante a alegada inocorrência de grupo econômico. Ora, não obstante o quanto alegado nesta sede recursal, colhe-se sem qualquer dificuldade que ambas as empresas figuraram como partícipes no contrato celebrado entre as partes. Aliás, no contrato de fls. 35/55 a empresa NOVOLAR figurou na qualidade de incorporadora, construtora e vendedora; ao passo que no instrumento de fls. 56/71 a empresa GOYA figurou igualmente como vendedora - o que não deixa dúvida de que ambas as empresas integraram a cadeia de fornecimento do bem, devendo responder solidariamente perante o consumidor.
+(..)
+As partes celebraram compromisso de compra e venda em julho de 2011 prevendo prazo para entrega da obra a contar da assinatura do contrato de financiamento bancário, com tolerância de 180 dias. Nada obstante, deve mesmo ser tida como nula a disposição que fixa o início do prazo para entrega da obra a partir da assinatura do contrato de financiamento.
+Com efeito, verifica-se manifesta abusividade na estipulação de data incerta para a entrega imóvel.
+(..)
+Acertado, pois, o entendimento no sentido de que houve atraso na entrega da unidade. Destarte, configurada a mora da requerida no período compreendido entre junho/2013 e março/2015, de rigor sua condenação ao pagamento de indenização à parte autora pelos danos que causou.
+Modificar o entendimento do acórdão impugnado quanto à legitimidade passiva da parte recorrente, a abusividade na estipulação de data incerta para a entrega imóvel e à responsabilidade civil pela atraso na entrega da obra, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Por fim, esta Corte tem entendimento no sentido de que a incidência das Súmulas n. 5 e 7 do STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem -se.
+EMENTA
