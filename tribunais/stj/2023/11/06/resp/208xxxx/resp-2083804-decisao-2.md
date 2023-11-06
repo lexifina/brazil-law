@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A. com fundamento no art. 105, III, "a", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 95):
+AGRAVO DE INSTRUMENTO. Execução De Título Extrajudicial. Constrição de numerário depositado em conta corrente. Impenhorabilidade. Exegese do artigo 833, inciso X, do CPC. Valor inferior a 40 salários-mínimos. Interpretação ampliativa do artigo 833, inciso X, do Código de Processo Civil. Precedentes do STJ. Decisão reformada. Recurso parcialmente provido, com a determinação de que, atos de levantamento de valores, devem aguardar o trânsito em julgado.
+Nas razões apresentadas (e-STJ fls. 106/114), o recorrente aponta ofensa ao art. 833, IV, do CPC/2015, sustentando a possibilidade de penhora de verbas salariais depositadas, pela parte recorrida, em instituições financeiras, a fim de quitar seu crédito não alimentar.
+Em caráter subsidiário, requer a constrição de 30% (trinta por cento) de tais quantias.
+Não foram apresentadas contrarrazões (e-STJ fl. 140).
+O recurso foi admitido na origem (e-STJ fls. 141/142).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 833, IV, do CPC/2015 sob o enfoque pretendido pelo banco, tampouco sobre o pedido de penhora de 30% (trinta por cento) das verbas salarias da contraparte. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Conforme a jurisprudência da Segunda Seção do STJ, "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe de 29/8/2014).
+No mesmo aspecto:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICAÇÕES FINANCEIRAS. IMPENHORABILIDADE. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência desta Corte Uniformizadora, a impenhorabilidade prevista no art. 649, inc. X do CPC/1.973 (atual art. 833, inc. X do Código Fux) alcança os valores depositados em conta-corrente, fundos de investimento ou guardados em papel-moeda. Precedentes: AgInt no AREsp. 1.315.033/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 19.11.2018; REsp. 1.710.162/RS, Rel. Min. OG FERNANDES, DJe 21.3.2018; AgInt no AgInt no AREsp. 1.025.705/SP, Rel. Min. LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a. REGIÃO), DJe 14.12.2017; RMS 54.760/GO, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 19.9.2017; REsp. 1.666.893/PR, Rel. Min. HERMAN BENJAMIN, DJe 30.6.2017 e REsp. 1.582.264/PR, Rel. Min. REGINA HELENA COSTA, DJe 28.6.2016.
+2. Agravo Interno do ESTADO DO RIO GRANDE DO SUL a que se nega provimento.
+(AgInt no REsp n. 1.674.559/RS, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/3/2019, DJe 26/3/2019.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. DEFICIÊNCIA NAS RAZÕES RECURSAIS. INCIDÊNCIA DA SÚMULA 284/STF. EXECUÇÃO FISCAL. PENHORA. PROTEÇÃO DO ART. 833 DO CPC/2015.
+(..)
+2. Há entendimento firmado do Superior Tribunal de Justiça de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe 19/12/2014).
+3. Recurso especial do qual se conhece parcialmente e, nessa extensão, nega-se-lhe provimento.
+(REsp n. 1.710.162/RS, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/3/2018, DJe 21/3/2018.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENHORA - ATIVOS FINANCEIROS. BLOQUEIO ON-LINE. IMPENHORABILIDADE. CONTA-POUPANÇA VINCULADA À CONTA-CORRENTE. IMPENHORABILIDADE. ART. 649, INCISO X, DO CPC/1973.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. São impenhoráveis os valores até o limite de 40 (quarenta) salários mínimos depositados em conta-corrente.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 949.813/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/3/2018, DJe 13/4/2018.)
+Ressalte-se, ainda, que o § 2º do art. 833 do CPC/2015 ampliou para 50 (cinquenta) salários mínimos mensais o limite patrimonial a ser resguardado ao devedor nas execuções.
+Confira-se:
+RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA VENCIDA E NÃO PAGA. PENHORA NO ROSTO DOS AUTOS. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. IMPENHORABILIDADE DOS HONORÁRIOS DE PROFISSIONAL LIBERAL. EXCEÇÃO DO §2º DO ART. 833. PENHORA DAS IMPORTÂNCIAS EXCEDENTES A 50 SALÁRIOS MÍNIMOS. FLEXIBILIZAÇÃO. INADMISSIBILIDADE.
+1. Execução ajuizada em 20/09/12. Recurso especial interposto em 23/11/17 e atribuído ao gabinete em 18/05/18. Julgamento: CPC/15.
+2. O propósito recursal no STJ consiste em definir o alcance do art. 833, §2º, do CPC/15, sobretudo, se a penhora pode ser reduzida para 30% dos honorários advocatícios a serem recebidos em outro processo, em vez do parâmetro legal de 50 salários-mínimos.
+3. Utilizando o mesmo raciocínio em que se baseou esta Corte ao interpretar o processo de execução no código revogado, deve ser preservada a subsistência digna do devedor e de sua família. A percepção de qual é efetiva e concretamente este mínimo patrimonial a ser resguardado já foi adotada em critério fornecido pelo legislador: 50 salários-mínimos mensais.
+(..)
+5. Recurso especial conhecido e não provido.
+(REsp n. 1.747.645/DF, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/8/2018, DJe 10/8/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERBA REMUNERATÓRIA. IMPENHORABILIDADE, REGRA. EXCEÇÕES DISPOSTAS NO ART. 833, § 2º, DO CPC/15. PAGAMENTO DE VERBA NÃO ALIMENTAR. GANHOS DO EXECUTADO SUPERIORES A 50 SALÁRIOS MÍNIMOS.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. As exceções à regra da impenhorabilidade não podem ser interpretadas de forma tão ampla a ponto de afastarem qualquer diferença entre as verbas de natureza alimentar e aquelas que não possuem tal caráter.
+3. As dívidas comuns não podem gozar do mesmo status diferenciado da dívida alimentar a permitir a penhora indiscriminada das verbas remuneratórias, sob pena de se afastarem os ditames e a própria ratio legis do Código de Processo Civil (art. 833, IV, c/c o § 2º), sem que tenha havido a revogação do dispositivo de lei ou a declaração de sua inconstitucionalidade.
+4. Na hipótese, trata-se de execução de dívida não alimentar proposta por pessoa jurídica que almeja o recebimento de crédito referente à compra de mercadorias recebidas e não pagas pelo devedor, tendo o magistrado autorizado a penhora de 30% do benefício previdenciário (auxílio-doença) recebido pelo executado. Assim, pelas circunstâncias narradas, notadamente por se tratar de pessoa sabidamente doente, a constrição de qualquer percentual dos rendimentos do executado acabará comprometendo a sua subsistência e de sua família, violando o mínimo existencial e a dignidade humana do devedor.
+5. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp n. 1.407.062/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/2/2019, DJe 8/4/2019.)
+O TJSP seguiu tal entendimento. Confira-se (e-STJ fls. 99/103):
+No mérito, entende-se que são impenhoráveis a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos, nos termos do inciso X do artigo 833 do CPC.
+A jurisprudência do Superior Tribunal de Justiça, vem se orientando no sentido de não distinguir contas de poupança, conta corrente ou fundos de investimento:
+(..)
+Na espécie, as quantias bloqueadas foram: I) R$ 4.073,26, do Sr. Antonio Pedro Lopes Ferrari; II) R$ 21.140,63, da Sra. Paola Iannelli Ferrari; e III) R$ 2.700,05, do sr. Salvatore Iannelli. Inexistem elementos de prova no sentido de que os recorrentes tenham, atualmente, outras reservas financeiras que superem o teto de 40 salários mínimos.
+Portanto, faz-se cabível o desbloqueio integral dos valores de R$ 4.073,26, do sr. Antonio Pedro, de R$ 21.140,63, da Sra. Paola e R$ 2.700,05, do Sr. Salvatore, eis que são inferiores a 40 salários mínimos.
+Diante destes entendimentos, não se mostra necessário perquirir a origem dos valores bloqueados judicialmente, pois ainda que a constrição não tenha recaído, diretamente, sobre verbas de origem salarial, certo é que, se os montantes constritos forem inferiores ao teto de 40 salários mínimos, haverá presunção relativa de que se trata de reserva financeira da parte, empregada para sua subsistência.
+De qualquer forma, como a quantia alcançada pelo bloqueio, em conta corrente ou poupança da parte devedora, é inferior a 40 salários-mínimos, ela é impenhorável, por força do art. 833, X, CPC/2015, impondo-se, em consequência, a reforma da r. decisão agravada, para determinar o levantamento do bloqueio on-line efetivado, com restituição do referido valor constrito aos agravantes.
+Estando o acórdão impugnado em sintonia com a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica como óbice tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+EMENTA
