@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No recurso especial, sustenta a defesa violação do art. 33, § 4º, da Lei 11.343/2006, aduzindo que o acusado faz jus à minorante do tráfico privilegiado, por preenche todos os requisitos legalmente exigidos.
+Requer o provimento do recurso, a fim de reconhecer a causa de diminuição de pena.
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo improvimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+Acerca da questão trazida no recurso, colhe-se do acórdão a seguinte fundamentação (fl. 479):
+De fato, não é caso de aplicação do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06, já que restou comprovado nos autos que o recorrente vem se dedicando com habitualidade ao tráfico de drogas, não fazendo jus ao benefício, restando patenteada a efetiva dedicação do réu às atividades delitivas correspondentes ao tráfico de drogas pela soma de relevantes fatores: as circunstâncias de sua prisão; a forma como as drogas se apresentavam, já divididas em porções individuais, prontas para a venda; o fato destas porções se encontrarem embaladas de forma padronizada e o encontro de quantia em dinheiro, em notas diversas, cuja origem lícita não restou comprovada.
+Patente, pois, a dedicação às atividades criminosas, por parte do acusado, o que figura como impedimento legal à incidência do redutor do art. 33, § 4º, da Lei nº 11.343/06.
+Verifica-se que a causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006 foi afastada com esteio em elementos concretos extraídos dos autos aptos a evidenciar, segundo critério do magistrado, a dedicação à atividade criminosa, considerando-se as circunstancias da prisão, sobretudo a forma como o entorpecente apreendido se apresentava, embaladas em porções individuais e de forma padronizada, além do encontro de dinheiro, em diversas notas, do qual não se comprovou origem lícita, contexto em que a inversão do entendimento das instâncias ordinárias demandaria amplo revolvimento de provas, incabível na via estreita do recurso especial, a teor da Súmula 7/STJ. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES DE USO PERMITIDO. DOSIMETRIA. ART. 33, § 4.º, DA LEI N. 11.343/2006. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DESTA CORTE SUPERIOR DE JUSTIÇA. REGIME INICIAL FECHADO. POSSIBILIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a conclusão de que o Agravante se dedicava a atividades ilícitas não decorreu apenas da quantidade e variedade de drogas apreendidas, mas também das circunstâncias em que praticado o delito, com apreensão concomitante de duas armas de fogo e mais de trinta cartuchos; conjuntura que realmente denota não se tratar de Agente incipiente na lida delitiva do tráfico de drogas e, além disso, revela que a Jurisdição ordinária não incorreu em indevido bis in idem na dosimetria da pena. A modificação desse entendimento, com o objetivo de fazer incidir a minorante, exigiria aprofundado reexame probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7/STJ.
+2. A presença de circunstância judicial desfavorável, na primeira fase da dosimetria da pena, justifica a imposição do regime inicial imediatamente mais gravoso (arts. 59 e 33, §§ 2.º e 3.º, ambos do Código Penal).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.201.316/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/8/2023, DJe de 30/8/2023.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
