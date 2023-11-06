@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por KENJIRO MINE, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado:
+"EMBARGOS À EXECUÇÃO. Nota promissória rural. Inaplicabilidade ao caso do Código de Defesa do Consumidor, porquanto não pode ser o produtor rural considerado destinatário final. Mora caracterizada. Nulidade da cláusula que estipula, para o período de inadimplemento, o emprego de juros moratórios de 12% ao ano. Admissibilidade tão somente da elevação da taxa de juros legais em um por cento ao ano, a título de juros moratórios, e da aplicação da multa de 10% sobre o débito. Embargos do devedor parcialmente acolhidos. Sentença em parte reformada. Recurso parcialmente provido." (fl. 227)
+Em suas razões recursais (fls. 234/257), a parte recorrente aponta ofensa ao artigo 52, §1º, do Código de Defesa do Consumidor, bem como divergência jurisprudencial, sustentando, em síntese, a necessidade de redução da multa contratual de 10% para 2% em razão da aplicação da legislação consumerista ao caso em espécie.
+Apresentadas contrarrazões às fls. 279/288.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quanto à multa de inadimplemento, o entendimento pacífico do STJ é no sentido de que a do Decreto-Lei n. 167/67, no percentual de 10%, se faz legítima apenas nos casos de inadimplemento das obrigações firmadas anteriormente à Lei n. 9.298, de 1996.
+Se a contratação tiver se dado posteriormente à entrada em vigor da Lei n. 9.298, de 1996, que houve modificar o art. 52 do CDC, então incidirá a multa no percentual de 2%. Isso porque a multa de inadimplência nos contratos regidos pelo Decreto-Lei 167/67 só veio a sucumbir com a entrada em vigor da Lei n. 9.298, de 1996, que alterou o art. 52 do CDC.
+A propósito, na parte que interessa:
+"AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO INDUSTRIAL. MULTA MORATÓRIA. REDUÇÃO DESCABIMENTO. CAPITALIZAÇÃO MENSAL. POSSIBILIDADE. SÚMULA 83/STJ. MATÉRIA QUE NÃO FOI OBJETO DO RECURSO ESPECIAL INTERPOSTO.
+1.- A capitalização dos juros é admissível quando pactuada e desde que haja legislação específica que a autorize. Assim, permite-se sua cobrança na periodicidade mensal nas cédulas de crédito rural, comercial e industrial (Decreto-Lei n. 167/67 e Decreto-Lei n. 413/69), como no caso dos autos.
+2.- A multa moratória deve ser mantida à taxa contratada (10%) uma vez que, de acordo com a jurisprudência pacífica das Turmas que compõem a Segunda Seção do STJ, impõe-se a sua redução, apenas, quando pactuada em taxa superior a 2% nos contratos celebrados após a vigência da Lei n. 9.298/96, que alterou o art. 52, § 1º, da Lei n. 8.078/90, o que não é o caso dos autos.
+3.- É vedado, em sede de agravo regimental, apreciar questões que não foram objeto de impugnação no recurso especial.
+4.- Agravo Regimental improvido."
+(AgRg no AREsp n. 39.669/SC, relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 5/2/2013, DJe de 25/2/2013, g.n.)
+"RECURSO ESPECIAL  COMERCIAL  EMBARGOS À EXECUÇÃO  CÉDULA RURAL PIGNORATÍCIA E HIPOTECÁRIA  PREQUESTIONAMENTO  EXPRESSA MENÇÃO AOS DISPOSITIVOS SUSCITADOS PELA PARTE  DESNECESSIDADE  AUSÊNCIA DE OMISSÃO OU OBSCURIDADE  LIVRE CONVENCIMENTO FUNDAMENTADO  OCORRÊNCIA  CAPITALIZAÇÃO MENSAL DOS JUROS  DETERMINAÇÃO DO MONTANTE DA PACTUAÇÃO  ANÁLISE  IMPOSSIBILIDADE  CONTRATO  EFEITOS PRODUZIDOS NA VIGÊNCIA DE LEI ANTERIOR AO CÓDIGO DE DEFESA DO CONSUMIDOR  LEGISLAÇÃO CONSUMERISTA  NORMA DE ORDEM PÚBLICA  RETROAÇÃO  IMPOSSIBILIDADE  APLICAÇÃO DA LEI N. 9.298/96  FRACIONAMENTO NO TEMPO  REDUÇÃO PROPORCIONAL DE MULTA CONTRATUAL  IMPOSSIBILIDADE  MULTA MORATÓRIA  10%  APLICAÇÃO  POSSIBILIDADE.
+I  A prestação jurisdicional foi dada na medida da pretensão deduzida, uma vez que o Órgão Jurisdicional não está obrigado a responder todas as considerações das partes, bastando que decida a questão por inteiro e motivadamente, não havendo que falar em negativa de prestação jurisdicional.
+II  A Lei Especial (n. 167/67) excepciona a regra proibitória estabelecida no art. 4º da Lei de Usura (Decreto n. 22.626/33), e, nesses termos, admissível a capitalização mensal de juros quando expressamente pactuada, o que ocorre no caso dos autos, ao teor da Súmula n. 93 desta colenda Corte.
+III  Não incidem os dispositivos do Código de Defesa do Consumidor nos contratos celebrados antes de sua vigência, pois o fato de aquele se constituir em legislação de ordem pública não traz, em si mesmo, o condão de desconstituir os atos jurídicos formalizados sob a égide de norma anterior, uma vez que sem conteúdo de aplicação imediata e intervencionista, por força da suspensividade nela mesma contida (Lei n. 8.078/90, art. 118).
+IV  Legítima é a cobrança da multa de 10% prevista no contrato, no caso de inadimplemento da obrigação, firmado antes da vigência da Lei n. 9.298/96, que modificou o Código de Defesa do Consumidor, uma vez que a redução da multa para 2% (tal como definida na Lei n. 9.298/96) somente é cabível nos contratos celebrados após sua vigência, o que não se configura nos autos.
+V  RECURSO ESPECIAL CONHECIDO E PROVIDO."
+(REsp n. 570.755/PR, relator Ministro MASSAMI UVEDA, QUARTA TURMA, julgado em 17/10/2006, DJ de 18/12/2006, p. 400, g.n.)
+"EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. TÍTULO EXECUTIVO. CORREÇÃO MONETÁRIA. TR. CAPITALIZAÇÃO. MULTA. COMISSÃO DE PERMANÊNCIA.
+1. A cédula de crédito rural, de acordo com os arts. 9º e 10 do Decreto-Lei n. 167/67, é título executivo hábil a embasar o processo de execução.
+2. Segundo a jurisprudência desta Casa, não há óbice a que a TR seja avençada pelas partes como fator de atualização monetária.
+3.  A legislação sobre cédulas de crédito rural, comercial e industrial admite o pacto de capitalização de juros.  Súmula n. 93-STJ.
+4. Descabe a redução da multa moratória de 10% para 2%, nos contratos firmados anteriormente à edição da Lei n. 9.298/96, de 1º.8.1996, que deu nova redação ao art. 52, § 1º, do CDC.
+5. Indevida é a comissão de permanência nas cédulas de crédito rural.
+Recurso especial parcialmente conhecido e, nessa parte, provido."
+(REsp n. 299.435/MT, relator Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 28/9/2004, DJ de 13/12/2004, p. 362, g.n.)
+No caso em tela, o Tribunal de origem consignou especificamente a impossibilidade de redução da multa contratual porque o contrato foi firmado antes da entrada em vigor do Código de Defesa do Consumidor e que a lei de regência contempla norma específica que autoriza a fixação de multa moratória em até dez por cento sobre o valor do débito (art. 71, do Dec.-lei 167/67). É o que se observa do trecho do v. acórdão recorrido, in albis:
+"A aplicação da multa de 10% é legítima  houve expressa pactuação neste sentido na nota promissória rural em exame (n. 0514051 - fls. 24) ,cumprindo acrescer, neste passo, que, não fosse bastante a inaplicabilidade ao caso do Código de Defesa do Consumidor, o certo é que a lei de regência contempla norma específica que autoriza a fixação de multa moratória em até dez por cento sobre o valor do débito (art. 71, do Dec.-lei 167/67), cuja estipulação, como se vê, não vulnera o ordenamento jurídico."
+Desta forma, o entendimento adotado está em consonância com entendimento pacífico desta Corte Especial, incidindo, portanto, o óbice da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
