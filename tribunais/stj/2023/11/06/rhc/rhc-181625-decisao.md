@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por ANDRE LUIS MARTINS CARVALHO, em face do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o recorrente encontra-se preso preventivamente pela suposta prática do crime de furto qualificado - "por ter subtraído, no dia 14/08/2022, do interior de um veículo, uma bolsa com documentos, um celular e outros objetos"- fl. 12.
+Impetrado habeas corpus perante o tribunal de origem, o Tribunal manteve a prisão preventiva ao fundamento da garantia da ordem pública, uma vez que - "o representado está envolvido reiteradamente em outras ocorrências recentes relativas a crimes de furto"- fl. 51e denegou a ordem em acórdão de fls. 48-55.
+No presente recurso, aduz a defesa: ausência de fundamentação concreta e idônea para a segregação cautelar, ausência dos requisitos ensejadores da prisão preventiva, defendendo que o recorrente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Pleiteia a revogação da sua prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 88-89.
+O Ministério Público Federal em parecer, às fls. 95-99, manifestou em parecer que restou assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTOS QUALIFICADOS. REITERAÇÃO DELITIVA. DESNECESSIDADE DA PRISÃO PREVENTIVA, DADA A POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDA CAUTELAR DIVERSA. PARECER PELO PROVIMENTO PARCIAL DO RECURSO ORDINÁRIO"- fl. 95.
+É o relatório. DECIDO.
+A análise da decisão que decretou a prisão preventiva, bem como do acórdão objurgado, permitem a conclusão de que a prisão cautelar imposta ao Recorrente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentadas em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da contumácia delitiva porquanto, consoante se depreende dos autos, a conduta, em tela, não é fato isolado na sua vida, restando consignado na decisão hostilizada que "está envolvido reiteradamente em outras ocorrências recentes relativas a crimes de furto" - fl. 12.
+No ponto, impende destacar que, conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019)"(AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.)
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/ 3/2023) .
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intime-se.
+EMENTA
