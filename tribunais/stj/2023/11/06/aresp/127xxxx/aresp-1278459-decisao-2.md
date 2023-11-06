@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial do DEPARTAMENTO ESTADUAL DE TRANSITO DE GOIÁS - DETRAN/GO, pelo qual se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS de fls. 1.528/1.596.
+Nas razões de seu recurso, a parte agravante argumenta que a "decisão agravada merece reforma, porquanto o especial interposto satisfaz cabalmente os pressupostos de sua admissibilidade, sendo patente a inaplicabilidade do óbice das Súmulas 5, 7 e 211 do STJ, uma vez que, todas as questões debatidas no recuso constam no acórdão recorrido sendo absolutamente desnecessário o revolvimento do conteúdo fático-probatório (fl. 1.794).
+Afirma, ainda, que "ao contrário do que foi consignado na decisão que negou seguimento ao recurso especial, a questão é meramente de direito, pois o debate gira em torno tão somente da interpretação jurídica dada ao artigo 59, §único da Lei 8.666/93, no sentido de ser cabível ou não a indenização pelos serviços realizados, na hipótese em que o contratante tenha concorrido para a ilegalidade do procedimento" (fl. 1.789).
+Sem apresentação de impugnação conforme a certidão fl. 1.842.
+O MPF opinou pelo não conhecimento do agravo ou do recurso especial (fls. 1.881/1.886).
+É o relatório.
+A alegação de violação dos arts. 43, 186 e 927 do Código Civil não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, exige, além da alegação, a discussão e a apreciação judicial pelo Tribunal de origem.
+A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+Em relação a indenização pelos serviços realizados, o Tribunal de origem assim fundamentou suas conclusões:
+Assim, ao contrário da alegativa do DEPARTAMENTO ESTADUAL DE TRÂNSITO DE GOIÁS -DETRAN, como dito em linhas volvidas, a nulidade do contrato não exonera a Administração da obrigação de indenizar o contratado pelo tempo que tenha executado o serviço, bem como por eventuais prejuízos regularmente comprovados, salvo as exceções legais.
+ ..
+Assim, a despeito de declarada a nulidade do contrato em questão, como houve a prestação de serviço por algum tempo, não há dúvida que a empresa contratante tem direito de receber o valor contratado até a data da cessação, independente de qualquer perquirição acerca de quem deu causa à nulidade do contrato, como bem decidiu o Juiz primevo, não pode a Administração se locupletar indevidamente (fls. 1.559/1.560).
+Da leitura atenta do acórdão, observo que o Tribunal de origem analisou aspectos fático-probatórios e, ainda, as cláusulas do contrato firmado, entendo ser cabível o recebimento do valor contratado e executado até a cessação do contrato.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incidem no presente caso as Súmulas 5 e 7 do STJ, segundo as quais "A pretensão de simples reexame de prova não enseja recurso especial" e "A simples interpretação de cláusula contratual não enseja recurso especial".
+Diante dessas considerações, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimações necessárias.
+ EMENTA
