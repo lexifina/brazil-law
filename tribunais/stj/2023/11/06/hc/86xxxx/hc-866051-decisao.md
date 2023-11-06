@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TEILOR SILVA DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça de Rondônia.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática de crime previsto no artigo 155, §4º, II, do Código Penal, tendo sido concedida a liberdade provisória na audiência de custódia. Porém, após pedido do Ministério Público, houve decretação da prisão preventiva.
+Nesta instância, a impetrante sustenta o constrangimento ilegal decorrente do excesso de prazo da prisão preventiva, que já perdura há 127 dias. Alega que "nada justifica a permanência do preso na prisão quando configurado ex- cesso não razoável no tempo de sua segregação preventiva, já que no sistema jurídico, a prisão meramente processual do acusado reveste-se de caráter excepcional, especial- mente em se tratando de crime cometido sem violência ou grave ameaça, que é o caso dos autos." (e-STJ, fl. 6).
+Pretende, inclusive liminarmente, a concessão da ordem para o relaxamento ou a revogação da prisão preventiva do paciente nos autos n. 7006374-06.2023.8.22.0005.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA OU FALTA DE RAZOABILIDADE. REVOGAÇÃO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. No presente caso, entende-se que a prisão preventiva encontra-se devidamente fundamentada na quantidade e variedade de drogas apreendidas.
+4. Assim, não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 850.236/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontra assim motivada:
+Trata-se de habeas corpus impetrado pela Defensoria Pública do Estado de Rondônia, com pedido de liminar, em favor de Teilor da Silva dos Santos, preso em flagrante em 04.06.2023, insurge-se contra constrangimento ilegal pelo excesso de prazo no término da instrução criminal, pela suposta prática do delito previsto no artigo 155, §4º, inciso II, do Código Penal.
+O impetrante relata inicialmente que o paciente encontra-se preso há mais de 114 (cento e quatorze) dias, a ação penal seguiu a tramitação normal, a instrução judicial ainda não se encerrou, e o juízo de primeiro grau redesignou uma nova audiência para 03.11.2023 para a localização da vítima João Carlos.
+Alega que o paciente está sofrendo constrangimento ilegal pelo excesso de prazo no término da instrução criminal, e que não pode ser mantido preso em virtude do "desinteresse da vítima em colaborar com a " instrução criminal ou por impossibilidade de localizá-lo , tornando-seilegal a manutenção de sua prisão.
+Aduz ser necessária o RECONHECIMENTOda ilegalidade na manutenção da prisão do paciente, por excesso de prazo na conduçãoda instrução criminal, impondo-se o relaxamento da prisão cautelar, nos termos dos arts. 647 e 648, inciso II, ambos do CPP.
+Firme nesses fundamentos, requer, liminarmente, a concessão da ordem em favor do paciente, para que seja relaxada a prisão cautelar, expedindo-se o competente alvará de soltura, ou eventualmente, substituída por outras medidas cautelares. No mérito, pugna pela confirmação da liminar.
+Relatei. Decido.
+Pois bem.
+Colhe-se dos autos que o paciente foi preso em flagrante em 04.06.2023, pela suposta prática do delito previsto no artigo 155, §4º, inciso II, do Código Penal.
+Numa análise superficial, própria deste momento processual, verifica-se que a alegação quanto ao constrangimento ilegal que o paciente está sofrendo por excesso de prazo na condução da instrução criminal carece de melhores informações.
+Ademais, do que se vê dos autos, foi redesignada nova audiência de instrução e julgamento para data breve, ou seja, o dia 03.11.2023.
+Dessa forma, neste juízo de cognição sumária, o caso noticiado nos autos não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não se verificar situação configuradora de abuso de poder ou de manifesta ilegalidade ( fumus boni iuris e o periculum in mora ).
+Posto isso, INDEFIRO o pedido LIMINAR, ressalvando melhor juízo quando do julgamento do mérito do Habeas Corpus .
+Requisitem-se informações à autoridade apontada como coatora, para resposta em . 48 h. (e-STJ, fls. 9-10)
+Ainda, vale salientar que, no decreto preventivo, o magistrado fez referência à suspeita de que o paciente teria usado nome falso no momento de sua prisão por ostentar a condição de foragido. Confira-se:
+De acordo com o Ministério Público, em tese, há suspeita de que Talison teria usado nome falso no momento da prisão e seu verdadeiro nome ser Teilor Silva dos Santos, cadastro SIPE 39299 (ID 91689328 e 91689329), com execução penal nº 0002612-50.2018.8.22.0014 em Vilhena/RO, o que fundamenta concretamente que o custodiado não pretende se submeter a eventual apicação da lei pena/ no presente caso em qu e foi flagranteado, nem se submeter ao cumprimento da pena nos demais casos em que já foi condenado em outra Comarca pelos crimes de receptação, associação criminosa corrupção de menores, furto noturno e falsa identidade, conforme consta nos autos nº 0002612-50.2018.8.22.0014, da Comarca de Vilhena/RO. Assim, presente o fundamento da aplicação da lei penal porque resta claro que é foragido do sistema prisional de Vilhena e quando foi preso em Ji-Paraná mentiu sobre o nome, antecedentes criminais, local onde pode ser encontrado e local de trabalho, mostrando concretamente que não pretende se submeter a eventual ap licação da lei penal Observo também que, conforme asseverou o promotor de justiça, há elementos concretos indicativos de que, caso seja posto em liberdade, não cumpriria com as medidas cautelares bem como continuaria com a prática ilícita, pois resta evidente que estando em liberdade tem encontrado os mesmos estímulos para continuar delinquindo, tanto é que possui várias outras acusações na Comarca de Vilhena e agora mais uma na Comarca de Ji-Paraná. Essas circunstâncias fundamentam a garantia da ordem pública.
+Dessa forma, não vislumbro flagrante ilegalidade capaz de permitir a superação do óbice da Súmula 691/STF e a concessão da ordem nessa instância.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+EMENTA
