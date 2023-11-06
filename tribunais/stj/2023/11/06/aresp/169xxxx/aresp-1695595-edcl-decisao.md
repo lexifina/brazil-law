@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se  de  embargos  de  declaração  opostos  por MASSAS ALIMENTICIAS FIRENZE S.A e OUTROS  contra a decisão  de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) de fls. 2.386/2.387.
+Em suas razões, a parte embargante assevera que a decisão impugnada foi omissa quanto à inversão dos honorários advocatícios, relatando que a parte embargada, Bimbo do Brasil Ltda., firmou transação individual com a Fazenda Nacional, reconhecendo a responsabilidade frente ao débito tributário e realizando a sua quitação, o que ensejou a extinção do executivo fiscal nos termos do art. 924, II, do CPC/2015 e a perda superveniente do objeto do presente agravo em recurso especial.
+Requer,  por  fim,  o  acolhimento  dos  embargos  de  declaração  a fim de se determinar a inversão dos ônus sucumbenciais em desfavor de Bimbo do Brasil Ltda.
+Impugnação ao recurso apresentada (fls. 2.397/2.418).
+  É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+A decisão embargada julgou prejudicado o agravo em recurso especial de iniciativa de Massas Alimentícias Firenze S.A e outros, parte ora embargante, em razão do acordo extrajudicial firmado pela corresponsável por sucessão empresarial Bimbo do Brasil Ltda., que ensejou a quitação integral do débito tributário discutido nos embargos à execução. Determinou, ainda, o retorno dos autos ao juízo da primeira instância para apreciação do pedido de conversão em renda da integralidade dos valores depositados e o cancelamento da penhora sobre os imóveis de propriedade da empresa sucessora.
+Observo que, na impugnação de fls. 2.397/2.418, a parte embargada relata que celebrou a transação individual sem, contudo, assumir a responsabilidade pelo débito cobrado nos autos da execução fiscal, cabendo à parte embargante o pagamento dos ônus sucumbenciais, nos termos do § 10 do art. 85 do CPC.
+Assim, a análise sobre a manutenção ou inversão dos honorários advocatícios demandaria a revisão do conjunto fático dos autos a fim de aferir a responsabilidade das empresas litigantes pela propositura dos embargos à execução, o que é vedado a esta Corte Superior devido ao óbice da Súmula 7/STJ.
+Nesse cenário, a questão atinente aos ônus de sucumbência somente poderá ser apreciada pelo juízo da execução, a quem compete também decidir sobre a conversão em renda dos depósitos judiciais e sobre a penhora dos imóveis de propriedade de Bimbo do Brasil Ltda.
+Ante o exposto, acolho parcialmente os embargos de declaração apenas para esclarecer que caberá ao juízo de primeira instância decidir sobre a inversão do ônus de sucumbência.
+Publique-se. Intimações necessárias.
+EMENTA
