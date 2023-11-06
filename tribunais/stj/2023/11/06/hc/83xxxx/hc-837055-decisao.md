@@ -1,0 +1,44 @@
+DECISÃO
+CAIO DE OLIVEIRA SILVA alega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502936-02.2022.8.26.0535.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão, no regime inicialmente fechado, mais 16 dias-multa, como incurso no art. 157, caput, do Código Penal (fls. 22-30).
+O Tribunal de origem, por sua vez, negou provimento à apelação defensiva para manter incólume a sentença condenatória (fls. 38-50).
+A defesa requer o reconhecimento de ilegalidade na dosimetria penal. Sustenta que é ilegal a majoração da pena-base em relação às circunstâncias e à personalidade. Ainda, pugna pela compensação da atenuantes da confissão com a agravante da reincidência.
+Indeferida a liminar (fl. 53) e prestadas as informações (fls. 60-62 e 64-91), veio o parecer do Ministério Público Federal, que opinou pela concessão parcial da ordem.
+Decido.
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, Rel. Min. Rogerio Schietti, 6ª T., DJe 16/5/2022).
+Em relação à dosimetria, faço lembrar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+No caso, a defesa questiona a análise desfavorável da personalidade do agente. No ponto a sentença consignou:
+Verificando as diretrizes do art. 59 do Código Penal, considerando as circunstâncias do delito (roubo em via pública, no meio da tarde, contra duas garotas menores de idade), tendo cometido novo roubo logo após cumprir pena anterior, bem como sua personalidade deformada, que o leva a reiteradamente violar a lei, fixo a pena além do mínimo legal, em 05 anos de reclusão e pagamento de 12 dias-multa (fl. 28).
+Sobre o tema, a Terceira Seção deste Superior Tribunal entende que "eventuais condenações criminais do réu transitadas em julgado e não utilizadas para caracterizar a reincidência somente podem ser valoradas, na primeira fase da dosimetria, a título de antecedentes criminais, não se admitindo sua utilização também para desvalorar a personalidade ou a conduta social do agente. Precedentes da Quinta e da Sexta Turmas desta Corte" (EAREsp n. 1.311.636/MS, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 26/4/2019).
+Assim, entendo que deve ser afastada a negativação da referida vetorial, uma vez que pautada na persistência na prática de crimes.
+Por outro lado, em relação às circunstâncias, entendo que o modus operandi descrito revela maior periculosidade na ação do agente, pois, como bem ponderado pela Corte local:
+ ..  o apelante ameaçou as vítimas, duas meninas indefesas, em plena luz do dia e de forma covarde, mediante simulação de porte de arma de fogo, quadro a intensificar o temor próprio do roubo que, repise-se, envolveu a subtração de bem de expressivo valor (celular), tudo desnudando dolo exacerbado ou acentuada culpabilidade a exigir maior reprovação como forma de coibir infrações penais de tal espécie (fl. 42, destaquei).
+Pela leitura dos trechos ressaltados, verifico que as instâncias antecedentes deixaram de compensar integralmente a agravante da reincidência com a atenuante do art. 65, III, "d", do CP, porque a confissão do acusado foi parcial.
+Nesse cenário, entendo que o Tribunal a quo atuou de forma contrária à assente jurisprudência desta Corte Superior, de que: "Se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no artigo 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação" (HC n. 289.943/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 4/8/2014, grifei).
+No mesmo sentido: "Se a confissão do réu, ainda que parcial ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante" (HC n. 246.940/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 24/4/2014, destaquei).
+No julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o posicionamento de que, observadas as peculiaridades do caso concreto, "É possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Também é certo que esta Corte Superior havia consolidado o entendimento de que a compensação da confissão espontânea com a agravante genérica da reincidência deveria "atender a certos parâmetros, como a espécie, a natureza e os graus de reincidência, sob pena de violação aos princípios da individualização da pena e da proporcionalidade" (AgRg no REsp n. 1.356.527/DF, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 25/9/2013). Vários foram os precedentes que não permitiam a compensação entre a confissão e a reincidência quando a recidiva do réu fosse específica e/ou numerosa, por evidenciar maior reprovabilidade da conduta. Nesse sentido:
+ ..
+3. No julgamento do Resp n. 1.341.370/MT, a Terceira Seção deste Superior Tribunal reafirmou o entendimento de que, observadas as peculiaridades de cada caso, é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal. A compensação, no entanto, deve atender a certos parâmetros, como a espécie, a natureza e os graus de reincidência.
+4. Não é possível realizar a compensação integral entre a confissão e a reincidência, ante a reincidência específica do réu.
+ ..
+8. Ordem não conhecida.
+(HC n. 309.243/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/9/2015, destaquei)
+ ..
+2. Esta Corte pacificou o entendimento no sentido de serem igualmente preponderantes a agravante da reincidência e a atenuante da confissão espontânea. Todavia, não é viável a compensação integral das mencionadas agravante e atenuante, quando se tratar de reincidência específica. Precedentes.
+3. Habeas corpus não conhecido.
+(HC n. 332.211/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 19/2/2016, grifei)
+Contudo, em sessão realizada em 11/10/2017, a Terceira Seção desta Corte Superior, por ocasião do julgamento do HC n. 365.963/SP, Rel. Ministro Felix Fischer, decidiu ser possível a integral compensação da atenuante da confissão espontânea com a reincidência específica.
+Nessa mesma perspectiva:
+ ..
+1. Apesar da multirreincidência do réu, o magistrado de primeira instância, ratificado pela Corte local, optou por utilizar uma condenação transitada em julgado na primeira fase da dosimetria da pena, enquanto a outra foi valorada na segunda etapa da aplicação da pena (reincidência), motivo pelo qual se admite a sua compensação integral com a atenuante da confissão espontânea, sob pena de bis in idem.
+2. Agravo regimental não provido.
+(AgRg no HC n. 412.154/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/6/2018, destaquei)
+Portanto, diante do posicionamento adotado nesta Corte Superior, é procedente a irresignação do réu, porque, uma vez reconhecida a confissão espontânea, mesmo que parcial, não há óbice a sua compensação com a agravante da reincidência, ainda que específica.
+Identificada a ilegalidade, passo à readequação da reprimenda.
+Partindo dos critérios adotados pelas instâncias ordinárias, afasto a análise desfavorável da personalidade do agente e fixo a pena-base em 4 anos e 6 meses de reclusão mais 11 dias-multa. Na segunda etapa, mantenho inalterada a sanção, diante da compensação entre a atenuante da confissão com a agravante da reincidência. Na terceira etapa, não há causas de aumento nem de diminuição, o que totaliza a pena em 4 anos, 6 meses de reclusão mais 11 dias-multa.
+À vista do exposto, concedo parcialmente a ordem, in limine, apenas para reconhecer a ilegalidade na dosimetria e redimensionar a pena para 4 anos, 6 meses de reclusão mais 11 dias-multa.
+Publique-se e intimem-se.
+EMENTA
