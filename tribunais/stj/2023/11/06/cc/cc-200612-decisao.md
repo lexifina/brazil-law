@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por entidade componente do ANTONIO GABRIEL SOUZA DE MORAES CARNEIRO, no qual aponta como suscitados o d. Juízo de Direito da Vara dos Feitos relativos às relações de Consumo, Cível, Comercial, Fazenda Pública e Registros Públicos de Jeremoabo/BA e o d. Juízo de Direito da 36ª Vara Cível do Foro Central de São Paulo/SP.
+Assevera a existência do conflito, porquanto seu imóvel está sendo alcançado por medidas judiciais de excussão patrimonial promovidas por White Tiger Fundo de Investimento em Direitos Creditórios Não Padronizados, nos autos de execução de título extrajudicial (1096628-93.2021.8.26.0100). Conforme decisão do d. Juízo paulista suscitado, no qual o suscitante atua no referido processo de execução na condição de terceiro interessado, em razão de ter dado seu próprio imóvel em garantia do contrato executado.
+Por sua vez, informa o suscitante ter proposto demanda perante o d. Juízo de Direito de Jeremoabo/BA, cujo objeto é a obtenção de declaração da impenhorabilidade do mesmo imóvel, ao fundamento de ser ele bem de família (Processo nº 8000280-73.2023.8.05.0142), além de pleitear a anulação da cláusula de alienação fiduciária em garantia. Essa segunda demanda ainda se encontra em fase inicial de processamento, com a apreciação de pedido liminar e designação de audiência de conciliação em 2/10/2023.
+Desse modo o conflito positivo de competência não está caracterizado.
+Com efeito, a caracterização do conflito de competência pressupõe a manifestação de duas ou mais autoridades judiciárias, de esferas diferentes, que se declaram competentes ou incompetentes para apreciar o mesmo feito, ou, ainda, a existência de controvérsia entre eles acerca da reunião ou da separação de processos. A propósito, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONFLITO POSITIVO DE COMPETÊNCIA. AÇÃO CIVIL PÚBLICA E MANDADO DE SEGURANÇA. EXPLORAÇÃO DE BINGO. COEXISTÊNCIA DE PROVIMENTOS JURISDICIONAIS DE TEOR DIVERSO. NÃO EXISTÊNCIA DE CONFLITO JURISDICIONAL NOS MOLDES DO ART. 115 DO CPC.
+1. Consoante o disposto no artigo 115 do CPC, configura-se conflito de competência: i) quando dois ou mais juízes se declaram competentes; ii) quando dois ou mais juízes se consideram incompetentes; e iii) quando entre dois ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+2. Não há propriamente conflito positivo de competência no caso dos autos, tendo em vista que: i) o objeto do conflito que se alega não diz respeito a uma mesma causa, uma vez que as demandas em trâmite no Juízo Estadual e nos Juízo Federal têm partes e pedido distintos;
+ii) nenhum dos Juízos, Federais ou Estadual, declarou-se competente para julgar a causa em curso perante o outro; iii) não houve discussão entre os juízos acerca da reunião ou separação dos processos; e iv) "A conexão não determina a reunião dos processos, se um deles já foi julgado" (Súmula 235 do STJ).
+3. Agravo regimental não provido.
+(AgRg no CC n. 120.418/SP, relator Min. BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 23/5/2012, DJe de 29/5/2012, g.n..)
+CONFLITO NEGATIVO DE COMPETÊNCIA. FORO DE ELEIÇÃO. DEMANDAS DISTINTAS. REUNIÃO DOS PROCESSOS. AUSÊNCIA DE PRONUNCIAMENTO.
+1 - Para configuração do conflito, em se tratando de demandas distintas, é necessária a manifestação dos Tribunais envolvidos acerca da reunião dos processos.
+2 - Conflito não conhecido.
+(CC n. 45.843/RJ, relator Min. FERNANDO GONÇALVES, SEGUNDA SEÇÃO, julgado em 13/4/2005, DJ de 9/5/2005, p. 292.)
+AGRAVO INTERNO. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DO TRABALHO E JUÍZO CÍVEL. PROCESSOS DISTINTOS. PROCESSO SUSPENSO PELO JUÍZO CÍVEL. PREJUDICIALIDADE EXTERNA. NÃO CONHECIMENTO.
+1 - Não se conhece do conflito de competência quando um dos Juízos reconhece a prejudicialidade externa entre as ações e suspende o processo até o julgamento final da ação no outro Juízo, pois não há dois Juízos distintos decidindo concomitantemente sobre o mesmo patrimônio.
+2 - Conflito não conhecido.
+(AgInt no CC n. 151.324/RS, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 17/9/2019, DJe de 19/9/2019.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AÇÃO ORDINÁRIA E MANDADO DE SEGURANÇA. TRATAMENTO MÉDICO ADEQUADO. LEGITIMIDADE AD CAUSAM DA UNIÃO. JUÍZOS CONFLITANTES. MANIFESTAÇÃO. PROCESSOS DISTINTOS.
+1. A caracterização de conflito de competência pressupõe a manifestação de duas ou mais autoridades judiciárias, de esferas diferentes, que se declaram competentes ou incompetentes para apreciar o mesmo feito, ou, ainda, a existência de controvérsia entre eles acerca da reunião ou da separação de processos, como estatui o art. 66 do CPC/2015.
+2. Hipótese em que o Juízo da Turma Recursal do Juizado Especial Federal da Seção Judiciária do Paraná suscitou o presente conflito negativo de competência ao apreciar o mandado de segurança impetrado pela União contra decisão do Juízo da 3ª Vara Federal de Londrina em que este, após receber os autos da Justiça estadual, reconheceu sua própria competência para julgar ação proposta contra o Estado do Paraná, na qual a parte autora objetiva receber tratamento cirúrgico não padronizado pelo Sistema Único de Saúde - SUS.
+3. Não há conflito a ser dirimido pelo Superior Tribunal de Justiça, visto que as declarações de incompetência ocorreram em processos distintos (ação reclamatória e mandamental), não havendo manifestações divergentes (interpretação do Tema 793 do STF e/ou regras de emenda à inicial) entre os Juízos nos mesmos autos.
+4. Agravo interno provido para não conhecer do conflito de competência.
+(AgInt no CC n. 177.499/PR, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 9/2/2022, DJe de 7/3/2022.)
+No caso dos autos, todavia, os processos não se confundem, têm partes e objeto distintos. Ademais, não houve nenhum pronunciamento acerca da existência de eventual conexão dos processos ou necessidade de reunião. Desse modo, por ora, não se encontra configurado o conflito de competência.
+Ante o exposto, não conheço do conflito, ficando prejudicado o pedido liminar.
+Publique-se.
+EMENTA
