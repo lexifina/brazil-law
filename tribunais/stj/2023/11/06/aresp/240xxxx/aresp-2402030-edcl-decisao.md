@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão por meio da qual neguei provimento ao agravo em recurso especial interposto pelo embargante.
+Em seu recurso, o embargante sustenta existência de omissão, repisando os argumentos do especial acerca da aplicação da equidade no arbitramento da sucumbência, dada a ausência de proveito econômico mensurável.
+Insurge-se contra a majoração dos honorários sem a demonstração de trabalho adicional pela parte adversa. Aponta, ainda, inobservância a dispositivos constitucionais.
+A parte embargada não apresentou impugnação.
+Assim posta a questão, passo a decidir.
+De início, consigno que não é o recurso especial, muito menos em sede de embargos de declaração, a sede apropriada para o enfrentamento de matéria constitucional.
+A eventual declaração de infringência a dispositivos da Constituição Federal deve ser perseguida por meio do recurso próprio, que não a via escolhida.
+Quanto ao outro ponto, não se verificam os vícios apontados, devendo-se manter o acórdão recorrido por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela embargante, circunstância que não eiva o acórdão de nulidade.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+No tocante ao mérito consignou-se expressamente que o fundamento do acórdão estadual seguiu a orientação emanada do julgamento em sede de recurso repetitivo, REsp n. 1.850.512/SP, relator Ministro Og Fernandes, Corte Especial, DJe de 31.5.2022, cuja dicção é no sentido de que "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+Ademais, verificar que o valor da causa atualizado não pode ser base para a verba honorária como reconhecida na origem, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em recurso especial, ante a Súmula 7 do STJ.
+No que se refere à majoração dos honorários sucumbenciais em face do não conhecimento do agravo em recurso especial, esta Corte Superior, em julgados uníssonos, orienta que "É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp 762.075/MT, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 7/3/2019)
+De igual teor:
+AGRAVO INTERNO DA UNIÃO. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. CABIMENTO. AGRAVO PROVIDO.
+1. É devida a fixação de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, em caso de indeferimento liminar, não conhecimento integral ou desprovimento dos embargos de divergência, sendo dispensada a comprovação do trabalho adicional do advogado do embargado, quando se tratar de recurso interposto contra acórdão publicado na vigência do CPC de 2015 e houver condenação em honorários advocatícios desde a origem.
+Nesse sentido: AgInt nos EAREsp 762.075/MT, Rel. p/ acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 7/3/2019.
+2. No caso, o arbitramento dos honorários advocatícios sucumbenciais pelo Juízo a quo e as subsequentes majorações pelo TRF da 2ª Região e pelo STJ não ensejaram fossem alcançados os limites percentuais de que tratam os §§ 2º, 3º, 4º, III, e 6º do artigo 85 do CPC de 2015.
+Desse modo, é devida a majoração dos honorários advocatícios na forma do § 11 do referido dispositivo legal, em razão do indeferimento liminar dos embargos de divergência e do preenchimento dos requisitos acima delineados.
+3. O beneficiário da justiça gratuita não tem direito à isenção da condenação nas verbas de sucumbência, sendo assegurada por lei apenas a suspensão do pagamento pelo prazo prescricional de cinco anos, caso persista a impossibilidade de satisfação da dívida, nos termos do art. 12 da Lei 1.060/50 e do art. 98, §§ 2º e 3º, do CPC/2015.
+4. Agravo interno provido, determinando-se a majoração dos honorários advocatícios em 1%, ressalvando-se a concessão de assistência judiciária gratuita à autora (art. 98, § 3º, do CPC de 2015).
+(AgInt nos EDcl nos EDv nos EAREsp 1653223/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, DJe 17/5/2021)
+Os apontados vícios, além de inexistentes, objetivam na verdade a rediscussão do que já foi decidido, o que extrapola os limites previstos para o recurso de embargos de declaração.
+Nos termos do acima exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
