@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Bruno Henrique Alves à decisão de minha lavra, em que concedi a ordem impetrada para determinar que o Juízo de Direito da 1ª Vara de Execuções Criminais da comarca de Campo Grande/MS (Autos n. 4000034-1420218160077) concedesse o indulto ao paciente, com fundamento no Decreto Presidencial n. 11.302/2022, considerando a pena aplicada em processos distintos, e não decorrente de soma ou unificação de penas (fl. 73).
+Alega o embargante que a decisão, ao conceder a ordem nos termos do parecer do Ministério Público Federal, manifestou-se apenas em relação ao delito de tráfico privilegiado, quando a impetração pretende a concessão do indulto em relação aos demais crimes cuja pena não ultrapasse 5 anos.
+Postula, então, o conhecimento e o acolhimento dos presentes embargos, a fim de que seja esclarecido por Vossa Excelência se a decisão abarca todas as condenações do paciente (fl. 77).
+É o relatório.
+Os presentes embargos comportam acolhimento apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+Não há dúvidas sobre a concessão da ordem abarcar todos os crimes cuja pena não ultrapasse 5 anos, pois o dispositivo da decisão foi claro ao afirmar que se concederia a ordem para determinar que o Juízo de Direito da 1ª Vara de Execuções Criminais da comarca de Campo Grande/MS (Autos n. 4000034-1420218160077) conceda o indulto ao paciente, com fundamento no Decreto Presidencial n. 11.302/2022, considerando a pena aplicada em processos distintos, e não decorrente de soma ou unificação de penas (fl. 73).
+Assim, a decisão tem o condão de determinar que o Juízo da Execução Penal conceda o benefício a todos os crimes pelos quais o apenado foi condenado e preencha os requisitos legais, de acordo com a compreensão de que a reprimenda de 5 anos deve ser considerada em processos distintos, e não a decorrente da soma ou unificação de penas.
+Em face do exposto, acolho os embargos de declaração apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+Publique -se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. INDULTO (DECRETO N. 11.302/2022). DECLARAÇÃO DA ILEGALIDADE DA SOMA DAS CONDENAÇÕES PARA FINS DE AFERIÇÃO DO DIREITO AO BENEFÍCIO. ALEGAÇÃO DE DÚVIDA OU OBSCURIDADE. INEXISTÊNCIA. DISPOSITIVO QUE DEVE SER INTERPRETADO DE FORMA A SE CONCEDER O BENEFÍCIO MEDIANTE A INTERPRETAÇÃO DE QUE A PENA A SER CONSIDERADA É A REFERENTE A CADA CRIME ISOLADAMENTE, E NÃO A PROCEDENTE DE SOMA OU UNIFICAÇÃO.
+Embargos de declaração acolhidos apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
