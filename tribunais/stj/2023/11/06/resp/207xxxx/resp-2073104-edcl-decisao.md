@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ATENAS DA SERRA DISTRIBUIDORA DE BEBIDAS LTDA. contra decisão de minha lavra, e-STJ fls. 458/464, em que dei provimento ao seu recurso especial para determinar a instauração de incidente de desconsideração da personalidade jurídica com vistas a viabilizar o redirecionamento da execução fiscal a terceira empresa no caso de suspeita de formação fraudulenta de grupo econômico de fato.
+Em síntese, a parte embargante alega que (e-STJ fls. 469/470):
+(..) verifica-se que (o decisum embargado) foi contraditório quanto à origem do recurso especial o que, possivelmente, resultou na determinação da remessa dos autos ao Tribunal Regional Federal para que procedesse ao reexame da questão observando o entendimento jurisprudencial desta Primeira Turma quando, efetivamente, deveria reformar o acórdão vergastado, caçando a decisão que manteve o redirecionamento das execuções fiscais sem a observância do incidente de desconsideração da personalidade jurídica (IDPJ).
+3. Ao contrário do que aponta o v. acórdão embargado, o recurso especial foi manejado contra acórdão da 4ª Turma Especializada do Egrégio Tribunal Regional Federal da 2ª Região que negou provimento ao recurso de apelação interposto pela embargante, ao fundamento de ser desnecessária a instauração do incidente de desconsideração da personalidade jurídica para a responsabilização tributária.
+4. Desse modo, requer o provimento dos presentes embargos de declaração para que seja sanada a contradição e omissão apontada, mantendo-se o provimento do recurso especial, porém, com a reforma do acórdão do E. Tribunal Regional Federal, caçando a decisão que determinou o redirecionamento das execuções fiscais em face da embargante, diante da inobservância do incidente de desconsideração da personalidade jurídica (IDPJ), para que só após a sua instauração, se afira ou não responsabilidade solidaria quanto à obrigação tributária, de modo a observar e preservar a orientação jurisprudencial desta Primeira Turma.
+Não houve impugnação (certidão às e-STJ fls. 500/501).
+Passo a decidir.
+Tendo em vista que a decisão embargada foi alvo de retratação, nestes mesmos autos, em sede de julgamento do agravo interno manejado pela parte ex adversa, não há mais possibilidade lógica de integração daquele decisum.
+Ante o exposto, JULGO PREJUDICADOS os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
