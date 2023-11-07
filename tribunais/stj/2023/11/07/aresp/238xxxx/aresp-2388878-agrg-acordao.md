@@ -1,0 +1,60 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME FECHADO. MOTIVAÇÃO IDÔNEA. REINCIDÊNCIA E GRAVIDADE CONCRETA DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+2. Na hipótese, apesar de a pena-base do agravante ter sido imposta no piso legal, o estabelecimento de regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na reincidência do réu e na gravidade concreta do delito, e não abstrata, como referido pela defesa, evidenciada pelo seu modus operandi, tudo a exigir resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+3. No caso, o roubo foi perpetrado mediante invasão da residência da vítima, idosa, a qual foi ameaçada pelo recorrente com uma arma branca (faca), e ele a obrigou a permanecer trancada em um dos cômodos da casa.
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Código Penal, desde que mediante fundamentação idônea, como na hipótese.
+5. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por RAFAEL MARTINS SANTANA (e-STJ, fls. 384-386) contra decisão desta relatoria que conheceu do agravo para negar provimento ao recurso especial (e-STJ, fls. 374-378).
+Neste recurso, a defesa reitera o pedido de abrandamento do regime prisional imposto ao agravante e ressalta que "o fato de se tratar de roubo praticado com emprego de arma branca e contra idoso, circunstâncias que evidenciariam a periculosidade do agente e justificariam a fixação do regime inicial fechado. Tais circunstâncias são as elementares da imputação e por isso a decisão baseia-se na gravidade em abstrato e não concreta do crime" (e-STJ, fl. 385).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao crivo do órgão colegiado.
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.388.878 - SP (2023/0208028-4)
+RELATOR
+:
+MINISTRO RIBEIRO DANTAS
+AGRAVANTE
+:
+RAFAEL MARTINS SANTANA
+ADVOGADOS
+:
+LUÍS CÉSAR ROSSI FRANCISCO - DEFENSOR PÚBLICO
+DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO
+AGRAVADO
+:
+MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME FECHADO. MOTIVAÇÃO IDÔNEA. REINCIDÊNCIA E GRAVIDADE CONCRETA DO DELITO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+2. Na hipótese, apesar de a pena-base do agravante ter sido imposta no piso legal, o estabelecimento de regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na reincidência do réu e na gravidade concreta do delito, e não abstrata, como referido pela defesa, evidenciada pelo seu modus operandi, tudo a exigir resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+3. No caso, o roubo foi perpetrado mediante invasão da residência da vítima, idosa, a qual foi ameaçada pelo recorrente com uma arma branca (faca), e ele a obrigou a permanecer trancada em um dos cômodos da casa.
+4. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Código Penal, desde que mediante fundamentação idônea, como na hipótese.
+5. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não prospera.
+Conforme consignado na decisão agravada, acerca da controvérsia, assim constou da sentença condenatória (e-STJ, fl. 240):
+" ..  a pena definitiva do réu passa a ser de 3 (três) anos, 8 (oito) meses e 13 (treze) dias de reclusão e pagamento de 8 (oito) dias-multa, no piso. Diante da reincidência e gravidade em concreto do crime, praticado com invasão de domicílio (lar) de pessoa idosa e utilização de faca, fixo o regime inicial fechado."
+Por sua vez, transcrevo o seguinte excerto do acórdão recorrido (e-STJ, fls. 305-306, grifou-se):
+" ..  mantenho o regime inicial fechado, tendo em vista a gravidade concreta do crime, informada pelas circunstâncias do fato, bem esclarecidas nos relatos da vítima. Com efeito, trata-se de roubo praticado com emprego de arma branca e mediante restrição da liberdade, o que acarretou pânico e insegurança à ofendida, idosa, situação que revela grande obstinação e audácia e se reveste de gravidade concreta, não havendo de se cogitar de baixa culpabilidade do apelante, tudo a recomendar o regime prisional mais rigoroso, como resposta adequada à reprovação e prevenção de tal conduta (inteligência do artigo 33, § 3º, c. c. art. 59, ambos do Código Penal)."
+Quanto ao regime prisional, de acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Na hipótese, os fundamentos utilizados para justificar o regime imposto ao recorrente não podem ser tidos por genéricos e, portanto, constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), não havendo falar em violação da Súmula 440/STJ, bem como dos verbetes sumulares 718 e 719 do Supremo Tribunal Federal.
+Por certo, apesar de a pena-base do recorrente ter sido imposta no piso legal, o estabelecimento de regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na reincidência do réu e também na gravidade concreta do delito, evidenciada pelo seu modus operandi, já que o roubo foi perpetrado mediante invasão da residência da vítima, idosa, a qual foi ameaçada pelo recorrente com uma arma branca (faca), e ele a obrigou a permanecer trancada em um dos cômodos da casa, tudo a exigir resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento ao princípio da individualização da pena.
+Em verdade, a aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do Estatuto Repressor Penal, desde que mediante fundamentação idônea, como na hipótese.
+Sobre o tema:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. TERCEIRA ETAPA DA DOSIMETRIA. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO CONCRETA. 3 AGENTES ENVOLVIDOS NA EMPREITADA CRIMINOSA. INAPLICABILIDADE DA SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. REGIME PRISIONAL. GRAVIDADE CONCRETA DO DELITO. NÃO INCIDÊNCIA DA SÚMULA N. 440 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, como no caso dos autos, ressalvando-se, porém, a possibilidade de concessão da ordem, de ofício, se constatada a existência de flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Segundo o enunciado n. 443 da Súmula do STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes". Na hipótese dos autos, a pena foi aumentada em 3/8, com fundamento no elevado número de agentes (três). Tal circunstâncias revela a maior gravidade concreta da conduta delitiva, nos termos do referido enunciado.
+3. O enunciado n. 440 da Súmula do STJ afirma que, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". No caso dos autos, embora a pena não tenha ultrapassado 8 anos, o regime fechado foi devidamente fundamentado pelas instâncias ordinárias, tendo em vista a maior gravidade do delito, evidenciada pelo modus operandi, visto que o paciente praticou o crime em plena via pública, em concurso com mais dois agentes, atingiu mais de uma vítima e, especialmente, com o emprego de arma de fogo, artefato que possui grande potencial lesivo.
+Habeas corpus não conhecido." (HC 523.790/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 3/9/2019, DJe 12/9/2019, grifou-se)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ART. 157, §§ 2º, II, E 2º-A, I, DO CÓDIGO PENAL. DOSIMETRIA DA PENA. TERCEIRA ETAPA DO CÁLCULO. FUNDAMENTAÇÃO IDÔNEA. NÃO INCIDÊNCIA DO ENUNCIADO N. 443 DA SÚMULA DESTA CORTE. MODIFICAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DA SANÇÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito. Precedentes.
+4. No caso dos autos, foram apontados elementos concretos capazes de justificar a imposição do regime inicialmente mais gravoso, uma vez que o acusado, juntamente com outro indivíduo, praticou o crime de roubo, mediante ameaça e emprego de arma de fogo, o que demonstra maior ousadia, periculosidade e desrespeito aos bens juridicamente tutelados.
+5. Agravo regimental a que se nega provimento." (AgRg no HC 512.432/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/8/2019, DJe 23/8/2019).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
