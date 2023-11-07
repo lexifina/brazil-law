@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. SEGUNDA FASE. REDUÇÃO DA PENA A PATAMAR INFERIOR AO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. APLICABILIDADE MANTIDA.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+2. Assim, "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022.)
+3. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+O agravante reafirma as razões de mérito do recurso especial, no sentido da necessidade de superação da Súmula n. 231/STJ.
+Alega que "a Colenda Sexta Turma no dia 21/03/23 afetou os seguintes recursos-RESP 2052085/TO, RESp 1869764/MS e REsp 2057181/SE -para seremjulgados pela Terceira Seção, nos termos do art. 125, § 2º do RISTJ, sendo realizada também a audiência pública para a discussão do tema com a participação da Comunidade jurídica no dia 17 de maio de 2023".
+Argumenta ainda que, "no presente caso, é importante consignar que, o Ministério Público Federal, na qualidade de custus legis, manifestou-se pelo provimento do recurso especial aviado, pela Superação da Súmula 231/STJe consequentemente a aplicação do art. 65 do CP para aplicação da pena aquém do mínimo legal sobre a incidência da atenuante da confissão espontânea (fls. 273 -282/STJ)".
+Requer a reconsideração da decisão "para que seja dado provimento ao recurso especial interposto, readequando a pena do agravante, ante a afronta ao art. 65, inciso III, alínea "d", do Código Penal, com a superação da Súmula 231/STJ".
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. SEGUNDA FASE. REDUÇÃO DA PENA A PATAMAR INFERIOR AO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231/STJ. APLICABILIDADE MANTIDA.
+1. A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+2. Assim, "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022.)
+3. "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada foi proferida nos seguintes termos (fls. 284-285):
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 83/STJ.
+No recurso especial, requer a mitigação da aplicabilidade da Súmula 231/STJ, de modo a reduzir a pena intermediária com esteio na atenuante da confissão espontânea (art. 65, III, d, do CP).
+Contraminuta apresentada. O Ministério Público Federal manifestou-se pelo provimento do recurso.
+O agravo é tempestivo e infirma as razões da decisão impugnada. Passo à análise do recurso especial.
+O recorrente foi condenado, pelo juízo de primeiro grau, como incurso no art. 157, § 2º, VII, do CP, à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e 13 dias-multa. Interposta apelação pela defesa, restou improvida.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fl. 219):
+Na segunda fase da dosimetria, o MM. Magistrado reconhecendo para o apelante a atenuante prevista no art. 65, inciso III, d, do Código Penal (confissão espontânea), fundamentou da seguinte forma: "NA SEGUNDA FASE DE FIXAÇÃO DA PENA, verifico a existência da circunstância atenuante prevista no art. 65, III, "d", do Código Penal (confissão espontânea), todavia, deixo de reduzir a pena por não ser possível colocá-la abaixo do mínimo legal na presente fase, conforme Súmula 231 STJ."
+Assim, verifica-se que o juiz sentenciante, ao reconhecer na 2ª fase de dosimetria da pena a atenuante referente à confissão espontânea para o apelante deixou de aplicá-la em decorrência da pena base já ter sido fixada em seu mínimo legal, conforme reza o disposto na súmula 231 do STJ: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+A súmula 231 do STJ é resultado de demandas repetitivas e entendimentos pacificados dos Tribunais Superiores. O Supremo Tribunal Federal ao julgar o mérito do Tema 158 da Repercussão Geral reafirmou jurisprudência no sentido de que "circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal". Portanto, a súmula deve ser plenamente aplicada.
+Como se vê, as instâncias ordinárias, na segunda etapa da dosimetria, reconheceram a presença da atenuante de confissão espontânea, porém, tendo sido a pena-base estabelecida no mínimo legal, não houve redução da pena, nos termos da Súmula nº 231 do Superior Tribunal de Justiça.
+A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+O entendimento da Corte de origem encontra-se em consonância com a jurisprudência desta Corte, no sentido de que "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022).
+Com efeito, "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idôneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+A Terceira Seção desta Corte Superior, no julgamento do REsp n. 1.117.068/PR, sob o rito dos recursos repetitivos, firmou a tese de que o "critério trifásico de individualização da pena, trazido pelo art. 68 do Código Penal, não permite ao Magistrado extrapolar os marcos mínimo e máximo abstratamente cominados para a aplicação da sanção penal".
+O entendimento da Corte de origem encontra-se em consonância com a jurisprudência desta Corte, no sentido de que "Não é possível a redução da pena abaixo do mínimo previsto no tipo penal, na segunda fase da dosimetria, em decorrência de atenuantes, conforme estabelecido na Súmula n. 231 do STJ" (AgRg no AREsp n. 2.120.835/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/10/2022, DJe de 17/10/2022).
+Com efeito, "A incidência do verbete n. 231/STJ permanece firme na jurisprudência desta Corte e o Agravante não trouxe argumento idônegouneo que, em tese, poderia justificar uma modificação do entendimento acerca do tema (overruling)" (AgRg no AREsp n. 2.243.342/PA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+Portanto, a parte agravante não trouxe nenhuma inovação de fundamento apta a desconstituir a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
