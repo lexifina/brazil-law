@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+ ..
+I. DA EXISTÊNCIA DEERRO MATERIAL QUANTO À AFETAÇÃO DA MATÉRIA PELO TEMA 1.125/STJ
+ ..
+Dessa forma, houve erro material quanto ao sobrestamento pelo tema 1.125 (exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído), tendo em vista que o objeto destes autos é a possiblidade de aproveitar créditos de PIS e COFINS sobre o valor do ICMS-ST, que também será afetado pelo rito dos repetitivos.
+ ..
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+ ..
+A matéria deduzida no presente caso, qual seja, a possibilidade de exclusão do valor correspondente ao ICMS-ST da base de cálculo da Contribuição ao PIS e da COFINS devidas pelo contribuinte substituído (Recursos Especiais n. 1.896.678/RS e 1.958.265/SP - TEMA 1.125 - de relatoria do Ministro Gurgel de Faria), foi afetada para julgamento sob a sistemática do repetitivo perante a Primeira Seção do Superior Tribunal de Justiça, com fundamento no § 5º do art. 1.036 do Código de Processo Civil de 2015 e no parágrafo único do art. 256-I do Regimento Interno do Superior Tribunal de Justiça.
+No respectivo acórdão de afetação, em observância ao art. 1.037, II, CPC, foi determinada a suspensão do processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na Segunda Instância, ou que estejam em tramitação perante o Superior Tribunal de Justiça, hipótese esta em que deve ser respeitado o disposto no art. 256-L do RISTJ.
+Dessa forma, ocorrendo a análise da questão em processo representativo da controvérsia, torna-se impositiva a suspensão dos feitos pendentes que tratem da mesma matéria, conforme se dessume do contido no art. 1.036 do CPC/2015 (543-B do CPC/1973).
+Por sua vez, os arts. 1.040 e 1.041, ambos do CPC/2015, dispõem sobre a atuação do Tribunal de origem após o julgamento do recurso extraordinário submetido ao regime de repercussão geral ou do recurso especial submetido ao regime dos recursos repetitivos, prevendo a negativa de seguimento dos recursos, a retratação do órgão colegiado, objetivando o alinhamento das teses de acordo com os Tribunais Superiores e, ainda a manutenção do acórdão divergente, com a remessa dos recursos aos Tribunais correspondentes.
+Nesse panorama, deve o Ministro Relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem, para que, após o julgamento do paradigma, seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.
+No mesmo sentido, destacam-se os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA SOBRE JUROS DE MORA. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA. SOBRESTAMENTO DO RECURSO ESPECIAL COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. A análise dos autos denota que a pretensão da recorrente, embora envolva a incidência de imposto de renda sobre depósitos judiciais, diz respeito à discussão relacionada ao que foi decidido nos autos do REsp 1.089.720/RS, no sentido de que, se a verba principal for isenta do imposto de renda, o seu assessório também o seria.
+2. A controvérsia relacionada à incidência do imposto de renda sobre juros de mora teve repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 808).
+3. É irrelevante o fato de os juros de mora em questão não decorrem das mesmas verbas a que se refere o recurso extraordinário afetado, pois juros de mora são "juros de mora" em qualquer circunstância. Precedente: REsp 1.223.268/PR, de minha relatoria, Segunda Turma, DJe 21/6/2017.
+4. Encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Precedentes: AgInt no AREsp 707.487/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 13/10/2017 AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017.
+5. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1473147/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+AGRAVO INTERNO EM RECURSO ESPECIAL. TRIBUTÁRIO. PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte.
+2. A parte agravante não logrou demonstrar, no caso concreto, a ausência de similitude entre o tema trazido em seu especial e o tema pendente de julgamento no STF com repercussão geral, pelo que se impõe a manutenção do sobrestamento ora combatido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1603061/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 28/06/2017)
+Ante o exposto, torno sem efeito as decisões anteriores, julgo prejudicados os recursos pendentes e determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão do respectivo recurso especial representativo da controvérsia, em conformidade com a previsão do art. 1.040, c.c. o § 2º do art. 1.041, ambos do CPC/2015: a) na hipótese de a decisão recorrida coincidir com a orientação do Superior Tribunal de Justiça, seja negado seguimento ao recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou b) caso o acórdão recorrido contrarie a orientação do Superior Tribunal de Justiça, seja exercido o juízo de retratação e considerado prejudicado o recurso especial ou encaminhado a esta Corte Superior para a análise das questões que não ficaram prejudicadas; ou c) finalmente, mantido o acórdão divergente, o recurso especial seja remetido ao Superior Tribunal de Justiça.
+ ..
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
