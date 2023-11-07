@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIOS DO ART. 619 DO CPP NÃO CONSTATADOS. EXECUÇÃO IMEDIATA DA PENA. IMPOSSIBILIDADE. COMPREENSÃO DO PRETÓRIO EXCELSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado; é inadmissível quando objetiva apenas a reversão do julgado.
+2. Sobre o tema tratado nos autos, é imperioso destacar também que, no dia 7/11/2019, o Supremo Tribunal Federal modificou sua compreensão ao concluir o julgamento das ADC"s 43, 44 e 54. Por maioria de votos (6 X 5), o Plenário decidiu que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso para o início do cumprimento da pena. Portanto, o art. 283 do CPP está em conformidade com a garantia prevista no artigo 5º, inciso LVII, da Constituição Federal.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FABIO MARTINS DE LIMA opõe embargos contra o acórdão de fls. 614-618, em que a Sexta Turma negou provimento ao agravo regimental para manter hígida a decisão monocrática em que reconheci a impossibilidade de execução imediata das penas restritivas de direitos impostas ao sentenciado.
+Para tanto, assere que "o ora Embargante demonstrou de forma clara que o MPDFT não somente tomou conhecimento da impetração, após a expedição de comunicação ao egrégio TJDFT, como também manifestou ciência quanto à decisão de fls. e-STJ 560/564 em 03/04/2019 e, não obstante, optou por agravar a decisão nada menos do que 30 (trinta) dias após ter manifestado ciência inequívoca" (fl. 633).
+Salienta também que " a  omissão resultou em prejuízo claro ao ora Embargante, na medida em que foram apresentados argumentos mais do que suficientes para que o Agravo Regimental do MPDFT sequer fosse conhecido, ante sua flagrante intempestividade" (fl. 633).
+Requer, assim, "o PROVIMENTO dos presentes embargos para sanear a apontada omissão, inclusive emprestando-se efeito modificativo para reformar o v. acórdão embargado, para que o Agravo Regimental do MPDFT não seja conhecido" (fl. 646).
+EDcl no AgRg no HABEAS CORPUS Nº 498.030 - DF (2019/0070076-0)
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. VÍCIOS DO ART. 619 DO CPP NÃO CONSTATADOS. EXECUÇÃO IMEDIATA DA PENA. IMPOSSIBILIDADE. COMPREENSÃO DO PRETÓRIO EXCELSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado; é inadmissível quando objetiva apenas a reversão do julgado.
+2. Sobre o tema tratado nos autos, é imperioso destacar também que, no dia 7/11/2019, o Supremo Tribunal Federal modificou sua compreensão ao concluir o julgamento das ADC"s 43, 44 e 54. Por maioria de votos (6 X 5), o Plenário decidiu que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso para o início do cumprimento da pena. Portanto, o art. 283 do CPP está em conformidade com a garantia prevista no artigo 5º, inciso LVII, da Constituição Federal.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Primeiramente, urge consignar que, a despeito da não apreciação da tese suscitada pela defesa, não foi acolhida a fundamentação apresentada pelo Ministério Público distrital em seu agravo regimental, de modo que permaneceu preservada, assim, a decisão que obstou a execução imediata das reprimendas impostas ao embargante.
+Ademais, é imperioso destacar também que, no dia 7/11/2019, o Supremo Tribunal Federal modificou sua compreensão ao concluir o julgamento das ADC"s 43, 44 e 54. Por maioria de votos (6 X 5), o Plenário decidiu que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso para o início do cumprimento da pena. O art. 283 do CPP está em conformidade com a garantia prevista no artigo 5º, inciso LVII, da Constituição Federal.
+A decisão proferida em ação declaratória é irrecorrível, ressalvada a interposição de embargos declaratórios, não podendo, igualmente, ser objeto de ação rescisória (art. 26 da Lei n. 9.986/1999). Tem eficácia contra todos e efeito vinculante, inclusive em relação aos órgãos do Poder Judiciário. Desde 7/11/2019, no estado de coisas atual, não se pode dar início à execução penal apenas com fulcro no exaurimento da jurisdição ordinária. Entretanto, permanece a possibilidade de prisão ante tempus, por ato judicial motivado, mediante indicação concreta de razões fáticas e jurídicas que a justifiquem, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+In casu, conforme bem salientado pela defesa, o paciente permaneceu em liberdade mesmo após a prolação da sentença condenatória, de modo que sua prisão foi decretada exclusivamente em decorrência de julgados do STF que foram superados com o julgamento de mérito das referidas ações declaratórias de constitucionalidade.
+Assim, não há possibilidade de execução antecipada das penas restritivas de direitos impostas ao embargante.
+À vista do exposto, rejeito os embargos.
