@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE MOGI DAS CRUZES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. Servidão administrativa. Passagem de tubos da rede de esgoto. Área de Preservação Permanente. Concorrência de causas de restrição de uso da propriedade. Indenização. Cabimento. Decreto-lei 3365/1941, artigo 40. A lei não exclui o direito de indenização pela instituição da servidão em área que já possui restrição de uso, como é o caso. Precedentes desta Corte. Não providos o recurso e o reexame necessário.
+Quanto à controvérsia, a parte recorrente alega violação do art. 40 do Decreto-lei n. 3.365/1941, no que concerne à desnecessidade de pagamento de indenização em virtude da constituição de servidão, in casu, tendo em vista a ausência de prejuízo ao particular, trazendo a seguinte argumentação:
+Depreende-se do art. 40, da Lei de Desapropriações, que o expropriante poderá constituir servidões mediante indenização, na forma da lei.
+A servidão administrativa se caracteriza por uma restrição sobre a propriedade particular, em benefício da sociedade como um todo, como ocorre no caso dos autos, em que o objetivo da medida é a realização de obras de ampliação do esgotamento sanitário, sendo necessária a restrição parcial da utilização do imóvel descrito na petição inicial.
+Contudo, embora haja previsão legal de possível indenização, fato é que tal indenização não se dá em qualquer caso.
+Segundo a doutrina e a jurisprudência, o direito à indenização no caso de servidão não existe em qualquer caso, mas apenas nos casos em que a instituição de servidão efetivamente gera dano ao particular.
+Nesse sentido são os ensinamentos de Rafael Carvalho Rezende Oliveira (2009, p. 610):
+De acordo com o art. 40 do Decreto-lei 3.365/41, o Poder Público pode instituir servidões, mediante indenização. Apesar do caráter peremptório da norma, a indenização somente será devida se houver comprovação do dano pelo particular. Não seria razoável impor dever de indenizar o proprietário que não comprova qualquer prejuízo, sob pena de se admitir o seu enriquecimento sem causa..
+Da mesma forma é o entendimento jurisprudencial dos tribunais estaduais, sendo o qual há hipóteses, como a dos autos, em que a indenização pela instituição de servidão administrativa não é devida: (fls. 179-180).
+No caso sub-judice, embora devidamente citado, o recorrido quedou-se inerte, não tendo apresentado defesa, tendo ocorrido a revelia, presumindo-se verdadeiros todos os fatos narrados na petição inicial.
+Por outro lado, depreende-se da petição inicial que o recorrente demonstrou que o caso dos autos não comporta a fixação de indenização, tendo em vista a inexistência de comprovação de prejuízo.
+Há que se considerar, ainda, que o recorrido sequer se preocupou em vir aos autos para se contrapor à pretensão do Município, concordando tacitamente com todos os termos da petição inicial, onde, repita-se, restou claro ser incabível a fixação de indenização.
+Não tratam os presentes autos de direitos indisponíveis, sendo que se operou a revelia e, com isso, a preclusão.
+Dessa forma, demonstrando ser incabível a fixação de indenização no caso dos autos, seja pela ocorrência da revelia, seja pela ausência de demonstração de prejuízo, mantendo-se a decisão que fixou indenização em favor do recorrido, estar-se-á configurada a violação ao disposto no art. 40, do Decreto-lei 3365/41.
+A fixação de indenização pela instituição da servidão administrativa não é uma decorrência lógica da lei, mas depende da comprovação do dano, conforme se infere do dispositivo legal.
+Dessa forma, configurada a violação ao art. 40, do Decreto-lei 3365/41, requer seja provido o presente recurso, para o fim de reformar o v. acórdão, excluindo-se a indenização fixada pela instituição da servidão administrativa. (fls. 181).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  a restrição ambiental não tem a mesma natureza da que decorre da servidão administrativa, que será inscrita no registro de imóveis, implicando maior desvalorização do imóvel, que deve ser recomposta, como já decidiu esta Corte: (fls. 150).
+ ..  a restrição, inscrita no registro de imóveis, implica desvalorização do imóvel serviente, que deve ser recomposta para o proprietário, sem necessidade de acréscimos. (fls. 172, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quad ro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
