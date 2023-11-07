@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Stteffesson Aleff da Silva - condenado por tráfico de drogas (10 papelotes de cocaína, sem indicação de peso - fl. 12) a 6 anos e 3 meses de reclusão, em regime inicial semiaberto, e 625 dias-multa, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Pernambuco (fls. 27/31), que alterou a dosimetria da pena fixada na sentença condenatória prolatada na Ação Penal n. 0000238-15.2018.8.17.0430 (fls. 12/26), da Vara Única da comarca de Camocim do São Félix/PE -, não comporta acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena imp osta ao paciente, com a aplicação da causa de diminuição da pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), ao argumento de que o paciente não era reincidente na época dos fatos, nem no momento da sentença e tampouco no momento de julgamento do caso pelo TJPE, havendo apenas uma ação penal posterior por posse ilegal de arma de fogo, que veio a ser julgada e transitado em julgado apenas posteriormente (fl. 6).
+Do atento exame dos autos observo que a via eleita foi indevidamente utilizada para revisar condenação transitada em julgado em 5/5/2021 (conforme consulta ao endereço eletrônico do Tribunal estadual), o que afastaria a competência desta Corte Superior para análise do pleito (AgRg no HC n. 775.050/SC, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2022).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, especialmente porque a alegação mandamental não foi analisada no acórdão hostilizado, o que configuraria prestação jurisdicional em indevida supressão de instância.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS (10 PAPELOTES DE COCAÍNA). DOSIMETRIA. TERCEIRA FASE. PRIVILÉGIO (ART. 33, § 4º, DA LEI N. 11.343/2006). MATÉRIA NÃO ANALISADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA.
+Inicial indeferida liminarmente.
