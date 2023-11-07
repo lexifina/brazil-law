@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, indeferir o pedido de extensão, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 580 DO CPP. PEDIDO DE EXTENSÃO INDEFERIDO.
+1. A teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. A extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter fático e fundamentação idênticos.
+2. Ausente essa similitude, o atalho processual não pode ser usado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se o julgado tivesse força vinculante similar a de um leading case.
+3. O postulante e os corréus foram denunciados na mesma ação penal. Os beneficiários da ordem de habeas corpus tiveram a prisão preventiva substituída por medidas cautelares do art. 319 do CPP porque, em momentos diferentes, foram autuados com quantidade não relevante de drogas e têm condições pessoais favoráveis.
+4. Em relação ao interessado, os contornos da conduta são diferentes, pois há registro de apreensão de balança de precisão e quantidade substancial de cocaína em sua forma pura, de alto valor, maior potencial de dano à saúde e destinada à diluição, para posterior fracionamento.
+5. Ausente a similitude fática, o interessado deve deduzir a pretensão e buscar a revogação ou a substituição de sua prisão preventiva em impetração própria.
+6. Pedido de extensão indeferido.
+RELATÓRIO
+MANOEL CARLOS SILVA DO ESPÍRITO SANTO pede a extensão da ordem concedida aos recorrentes nestes autos.
+EMENTA
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE SIMILITUDE FÁTICA. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 580 DO CPP. PEDIDO DE EXTENSÃO INDEFERIDO.
+1. A teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. A extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter fático e fundamentação idênticos.
+2. Ausente essa similitude, o atalho processual não pode ser usado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se o julgado tivesse força vinculante similar a de um leading case.
+3. O postulante e os corréus foram denunciados na mesma ação penal. Os beneficiários da ordem de habeas corpus tiveram a prisão preventiva substituída por medidas cautelares do art. 319 do CPP porque, em momentos diferentes, foram autuados com quantidade não relevante de drogas e têm condições pessoais favoráveis.
+4. Em relação ao interessado, os contornos da conduta são diferentes, pois há registro de apreensão de balança de precisão e quantidade substancial de cocaína em sua forma pura, de alto valor, maior potencial de dano à saúde e destinada à diluição, para posterior fracionamento.
+5. Ausente a similitude fática, o interessado deve deduzir a pretensão e buscar a revogação ou a substituição de sua prisão preventiva em impetração própria.
+6. Pedido de extensão indeferido.
+VOTO
+A teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+A extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter fático e fundamentação idênticos. Ausente essa similitude, o atalho processual não pode ser usado com o propósito de obter a transcendência dos motivos determinantes da decisão, como se o julgado tivesse força vinculante similar a de um leading case.
+Os recorrentes e o ora postulante foram denunciados na mesma ação penal. Todavia, os beneficiários do recurso em habeas corpus tiveram a ordem concedida porque são primários, de bons antecedentes e a quantidade de drogas que traziam consigo não é vultosa nem reveladora, por si só, de periculosidade exacerbada, a ponto de justificar o emprego da cautela máxima.
+Deveras, Rafael foi flagrado com balança de precisão, 38 microtubos de cocaína, 4 pedras de crack e 17 trouxas de maconha. Em outro momento distinto, Raildo foi preso com 12 microtubos de cocaína, ausente notícia de que os réus estariam implicados para o tráfico organizado de substâncias.
+Os contornos da conduta de Manoel são diferentes, pois ele foi apreendido com 97 microtubos de cocaína e 300g de cocaína pura. Não se verifica o mesmo contexto da prisão preventiva dos corréus. O interessado possuía relevante quantidade de droga, de alto valor, maior potencial lesivo à saúde e de espécie muitas vezes destinada à diluição para superior fracionamento. Além disso, trazia consigo balança de precisão, a reforçar os sinais de prática não ocasional do tráfico. No próprio acórdão da Sexta Turma, assinalou-se que os beneficiários da ordem concedida "não estavam com os 300 g de cocaína pura, encontrados com Manoel" (fl. 368).
+Não se observa a juntada da cópia da denúncia ou a reprodução de decisão e acórdão com a prévia análise da situação de Manoel. Nesse contexto, é incabível, objetivamente, estender a ele as razões do acórdão da Sexta Turma. O interessado deverá deduzir a pretensão e buscar a revogação ou a substituição da prisão preventiva em impetração própria, pois está sendo acusado de fatos delitivos d iferentes.
+A "teor do art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros. Todavia, a extensão de decisão mais favorável prolatada a corréu abarca, a priori, somente as hipóteses de caráter objetivo idêntico" (AgRg no HC n. 790.642/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/4/2023), o que não se identifica.
+À vista do exposto, indefiro o pedido de extensão.
