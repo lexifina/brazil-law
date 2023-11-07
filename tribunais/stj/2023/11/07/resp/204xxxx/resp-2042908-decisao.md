@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por Marconi Medeiros Marques de Oliveira, com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pela Segunda Turma do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 38-44):
+DIREITO PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IPREV. HONORÁRIOS SUCUMBENCIAIS DEVIDOS PELA FAZENDA PÚBLICA DISTRITAL. VALOR DA CONDENAÇÃO A SER APURADO EM LIQUIDAÇÃO DE SENTENÇA. INTELIGÊNCIA DO ARTIGO 85, §4º, II, do CPC. RECURSO NÃO PROVIDO.
+1. Mostra-se descabida a pretensão de fixação dos honorários advocatícios em sede de cumprimento individual da sentença coletiva, ante a determinação contida no título executivo judicial de que a definição do percentual deve ser realizada apenas após a liquidação, como impõe o art. 85, §4º, II, do Código de Processo Civil.
+2. Sendo ilíquida a sentença, a definição dos percentuais previstos no art. 85, § 3º, incisos I a V, do CPC somente ocorrerá quando liquidado o julgado.
+3. Agravo de instrumento conhecido e não provido.
+Os embargos de declaração opostos pelo recorrente foram conhecidos e não providos (fls. 127-144).
+O recorrente alega que o acórdão recorrido viola os arts. 23 e 24, § 1º, da Lei n. 8.906/1994, 85, §§ 3º e 4º, II, 509, § 2º, do CPC/2015. Argumenta, em síntese, que "a não estipulação dos percentuais dos honorários em foco acabou por privar o advogado do direito subjetivo a tal verba, em flagrante afronta ao disposto nos arts. 23 e 24, §1º, ambos da Lei 8.906/1994" (fl. 152).
+Requer, assim, "o provimento do presente recurso para reformar o acórdão recorrido no sentido de dar provimento ao agravo de instrumento na forma requerida".
+Decisão de admissibilidade às fls. 283-285.
+É o relatório. Passo a decidir.
+O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Tem-se que o recurso não merece conhecimento. Vejamos.
+O acórdão recorrido negou provimento ao agravo de instrumento do então recorrente ao entendimento de que, "estipulados, na sentença coletiva, honorários de sucumbência em desfavor da Fazenda Pública, a fixação do respectivo percentual, nos termos do art. 85, § 3º, do CPC, deve ocorrer, caso ilíquida a condenação, somente por ocasião da liquidação/execução do julgado (art. 85, § 4º, II, CPC), que, por sua vez, consoante a jurisprudência do c. STJ, não se submete à regra de prevenção perante o juízo prolator da sentença coletiva".
+Noutros termos, o acórdão recorrido, corretamente, deu real interpretação ao inciso II do § 4º do art. 85 do CPC/2015.
+Diga-se que a jurisprudência desta Corte posicionou-se no sentido de que, nas causas em que a Fazenda Pública for parte, o estabelecimento do montante relativo aos honorários advocatícios está vinculado à necessidade de liquidez da decisão proferida, tendo em vista que a ausência desse mencionado pressuposto impossibilita a própria fixação do percentual atinente à verba sucumbencial, de modo que a definição do percentual dos honorários sucumbenciais deve ocorrer somente quando da liquidação do julgado, de acordo com a redação do art. 85, § 4º, II, do CPC/2015. Precedente: AgInt no AREsp n. 1.578.138/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023.
+Nesse contexto, evidencia-se que os artigos tidos por violados (23 e 24, § 1º, da Lei n. 8.906/1994, 509, § 2º, do CPC/2015) não contém comando normativo capaz de infirmar o juízo formulado no acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Com efeito, configura deficiência na argumentação recursal, a impedir a exata compreensão da controvérsia, o desenvolvimento de temática ou de argumentos dissociados dos fundamentos aplicados pelo acórdão a quo ou quando o dispositivo de lei indicado não contém comando normativo capaz de amparar a pretensão deduzida. Incidência da Súmula 284/STF. No mesmo sentido: (AgInt no REsp n. 2.067.635/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. SENTENÇA ILÍQUIDA CONTRA A FAZENDA PÚBLICA. ART. 85, § 4º, II, DO CPC. DISPOSITIVO LEGAL. AUSÊNCIA DE COMANDO NORMATIVO. RECURSO NÃO CONHECIDO.
