@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo Departamento Nacional de Infra-Estrutura de Transportes - DNIT, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 1.336):
+ADMINISTRATIVO. DESAPROPRIAÇÃO. LEGITIMIDADE PASSIVA. DNIT. ESTADO DE SANTA CATARINA. JUROS MORATÓRIOS.
+1. O DNIT é legitimado a figurar no polo passivo de ações que buscam a indenização por desapropriação ou desocupação de imóveis para a construção ou alargamento de rodovias, nos termos do art. 82, IV e V, ambos da Lei nº 10.233/01.
+2. A legitimidade do Estado de Santa Catarina é decorrente da cláusula 6ª do Convênio TT - 176/2008-00, na qual consta expressamente que o Estado de Santa Catarina seria o responsável pela legalização dos lotes e terrenos necessários para a execução da obra.
+3. Não se verifica irregularidade no procedimento adotado pelo magistrado singular, uma vez que, tratando-se de questão técnica, ao julgador é lícito adotar as conclusões do expert, devendo-se ponderar que a perícia é realizada por terceiro, ou seja, por profissional que está equidistante do interesse das partes envolvidas.
+4 Havendo valorização geral ordinária do imóvel em virtude da construção de rodovia, não é cabível a diminuição da indenização.
+Precedentes.
+5. O prazo prescricional para ajuizamento de ação de indenização por desapropriação é de 10 anos.
+6. Nos casos de ações de desapropriação, nos termos do art. 15-B do Decreto-Lei 3.365/1941, os juros de mora tem índice de 6% ao ano e são devidos apenas a partir do 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito.
+Embargos de Declaração não providos.
+Nas razões do Recurso Especial, a parte agravante aponta violação aos arts. 489, § 1º, IV, e 1.022 do CPC, em face de omissão apontada, a saber: "a - fosse suprida a omissão, fazendo um juízo de valor do art. 27 do DL 3.365/41, que determina que o percentual máximo de sucumbência em desapropriação é 5%, sendo que a sentença estipulou 6% a favor dos desapropriados (3% para cada réu); b - seja suprida omissão quanto à sucumbência dos expropriados que o foram em maior parte, aplicando-se o § único do art. 86 do NCPC" (fl. 1.454), bem como "aplicou de forma equivocada o disposto no §11 do art. 85 do CPC-2015 (conforme o trecho extraído do voto, acima copiado) e merece reforma". Ao final, "o DNIT requer a reforma do acórdão regional por afronta ao parágrafo 1º do art. 27 do DL 3.365/41." (fl. 1.457).
+Com contrarrazões.
+Juízo negativo de admissibilidade às fls. 1.504-1.505.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recorrente pretende a anulação do acórdão proferido pela Corte de origem, em sede de embargos de declaração, sob o argumento de negativa de prestação jurisdicional, pois remanesce omisso acerca do percentual máximo de honorários de sucumbência em ação de desapropriação.
+Na espécie, o recorrente requereu a manifestação expressa do órgão julgador a respeito da tese levantada de que o percentual máximo de sucumbência honorária em sede de desapropriação é 5% (cinco por cento), uma vez que, na sentença, "os desapropriados foram agraciados com 6% (seis por cento) de honorários" (fl. 1.456). E, em razão disso, restou violado o art. 27, § 1º, do Decreto Lei n. 3.365/41.
+Evidencia-se que a matéria suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional. Contudo, o Tribunal local rejeitou os referidos embargos de declaração sem apreciar a alegada omissão, especialmente, porque o acórdão aparentemente encontra-se em dissonância com o Tema 184/STJ, segundo o qual "o valor dos honorários advocatícios em sede de desapropriação deve respeitar os limites impostos pelo artigo 27, § 1º, do Decreto-lei 3.365/41 - qual seja: entre 0,5% e 5% da diferença entre o valor proposto inicialmente pelo imóvel e a indenização imposta judicialmente" .
+A propósito, confira o seguinte julgado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. HONORÁRIOS ADVOCATÍCIOS. DECRETO-LEI N. 3.365/1945.
+1. No julgamento da Pet 12.344/DF, Rel. Min. Og Fernandes, Primeira Seção, DJe 13.11.2020, ocorreu a manutenção da Tese 184/STJ, que estabelece: "O valor dos honorários advocatícios em sede de desapropriação deve respeitar os limites impostos pelo artigo 27, § 1º, do Decreto-lei 3.365/41 - qual seja: entre 0,5% e 5% da diferença entre o valor proposto inicialmente pelo imóvel e a indenização imposta judicialmente".
+2. Agravo Interno não provido.
+(AgInt no REsp n. 1.988.500/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/4/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DESAPROPRIAÇÃO. LAUDO PERICIAL. OBSERVÂNCIA DOS PARÂMETROS LEGAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. JUROS COMPENSATÓRIOS E MORATÓRIOS. DEPÓSITO PRÉVIO MAIOR DO QUE O VALOR DA INDENIZAÇÃO. CONDENAÇÃO INDEVIDA. VALOR DOS HONORÁRIOS ADVOCATÍCIOS. LIMITES IMPOSTOS PELO ARTIGO 27, § 1º, DO DECRETO-LEI N. 3.365/41. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - O valor dos honorários advocatícios em desapropriação deve respeitar os limites impostos pelo art. 27, § 1º, do Decreto-Lei n. 3.365/41, qual seja, entre 0,5% e 5% da diferença entre o valor proposto inicialmente pelo imóvel e a indenização imposta judicialmente.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp n. 1.731.489/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 20/8/2018.)
+Nesse contexto, ressalto que, consoante jurisprudência do STJ, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015 e enseja a anulação do acórdão proferido em sede de embargos de declaração, devendo os autos retornar ao Tribunal de origem para novo julgamento dos aclaratórios. A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016; AgInt no AREsp n. 1.224.162/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2018.
+Ante o exposto, dou parcial provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a referida matéria, ora articulada nos aclaratórios.
+As demais questões ficam prejudicadas.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS EM DESAPROPRIAÇÃO. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OMISSÃO. OFENSA CARACTERIZADA. MATÉRIA NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO PARCIALMENTE PROVIDO.
