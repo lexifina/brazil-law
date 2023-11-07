@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneas "a" e "b", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça daquele Estado (Apelação n. 0013158-63.2012.8.26.0597).
+Consta dos autos que o recorrido APARECIDO ADRIANO COELHO TOSTES foi condenado, em primeiro grau, pelo delito do art. 155, § 4º, I e IV, do Código Penal (furto qualificado pelo rompimento de obstáculo e concurso de agentes), à pena de 2 anos e 8 meses de reclusão, em regime inicial aberto (e-STJ fls. 284/292).
+As seguintes condutas foram imputadas a ele e aos corréus (e-STJ fl. 284):
+GEOVANI GERALDO, APARECIDO ADRIANO COELHO TOSTES, JOSÉ ROBERTO COELHO, EVERTON RAFAEL COSTA e WILIAN DA SILVA RIBEIRO, qualificados nos autos, foram denunciados como incursos no art. 155, § 4% incisos I e IV, c.c. art. 70, ambos do Código Penal, porque, no dia 08 de outubro de 2012, por volta das 09h20min, na Rua Edith Silveira Dalmaso nº 44,  bairro Liberdade, nesta cidade e comarca, agindo todos com "animus furandi", mediante prévio ajuste de condutas e unidade de desígnios, subtraíram para si 137 latas de cerveja Antarctica, 03 garrafas PET de Coca-Cola zero, 01 bomba d"água portátil, 01 lava a jato, 02 ventiladores da marca Balbino, 01 extensão elétrica, cosméticos e 01 caixa de ferramentas com ferramentas diversas, das vítimas Vilmar Donizetti Rodrigues da Silva e João Carlos da Silva, avaliados em R$ 1.662,79.
+Segundo a denúncia, os acusados sabiam que na área de lazer localizada no endereço descrito acima havia ocorrido uma festa em comemoração à eleição de Vilmar como vereador e combinaram de saquear o local. Foram até lá e mediante arrombamento de três janelas, três portas e um portão basculante, os acusados entraram no imóvel e, em seguida, se apoderaram da res furtiva e fugiram do local, obtendo a posse mansa e pacífica dos bens.
+O Tribunal a quo deu parcial provimento ao recurso defensivo do recorrido, redimensionando sua reprimenda para 2 anos de reclusão e reconhecendo, de ofício, a prescrição da pretensão punitiva estatal, estendida aos demais corréus, nos termos do acórdão assim ementado (e-STJ fl. 401):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - Conjunto probatório suficiente para manter a condenação - Prova testemunhal segura - Penas - Redução -Necessidade - Afastamento da segunda qualificadora na majoração da pena-base - Reconhecimento da prescrição - Extinção da Punibilidade - Efeito extensivo aos corréus que não apelaram e que se encontram em situação idêntica - Artigo 580, CPP - PARCIAL PROVIMENTO e EXTINÇÃO DA PUNIBILIDADE.
+N as razões do recurso especial, o Ministério Público de São Paulo alega, além de divergência jurisprudencial, ofensa ao art. 59 do CP.
+Postula, em síntese, que a pena-base seja alterada, afastando-se o entendimento da Corte de origem de que o deslocamento da qualificadora sobressalente do furto é vedada e não tem o condão de exasperar a pena-base.
+Requer a exasperação da pena-base nos moldes realizados pelo Juízo de primeiro grau.
+Sem contrarrazões (certidão à e-STJ fl. 464)
+O Parquet Federal opinou pelo provimento do recurso (e-STJ fls. 475/477).
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Como visto, o órgão acusatório requer, em seu apelo nobre, que a pena-base seja restabelecida nos moldes em que calculada pela sentença condenatória.
+Sobre o tema, assim se manifestou o Juízo sentenciante (e-STJ fl. 290, grifei):
+Atento ao disposto nos artigos 59 e 60 do Código Penal, fixo a pena base de cada réu 1/3 acima do mínimo legal, em 02 (dois) anos e 08 (oito) meses de reclusão e pagamento de 13 (treze) dias-multa, porque a presença de duas qualificadoras indica maior grau de reprovabilidade da conduta do agente, motivo pelo qual uma delas será utilizada para qualificar o delito e a outra, como circunstância judicial, para majorar a pena base. Levo em consideração ainda que os réus, para a subtração, causaram diversos danos no imóvel.
+A Corte local, por sua vez, consignou que (e-STJ fl. 403, grifei):
+As qualificadoras são procedentes.
+O concurso de agentes restou comprovado pela prova oral produzida dando conta da participação do acusado e dos comparsas.
+No tocante à qualificadora do rompimento do obstáculo, o laudo pericial confirma que o acesso ao interior do imóvel se deu pelo arrombamento de portas e janelas, atestando os danos provocados pelos furtadores.
+A dosimetria comporta reparo.
+A pena-base, segundo critério firmado nesta Câmara Criminal, deve ser reduzida ao mínimo legal, não tendo a segunda qualificadora o condão de exasperar a reprimenda.
+O entendimento adotado pelo acórdão recorrido não encontra respaldo na jurisprudência desta Corte Superior.
+Com efeito, no  caso  de  ocorrência  de  mais  de  uma  qualificadora,  este  Sodalício  entende  pela  legalidade  na  utilização  de  uma  delas  para  qualificar  o  crime  e  no  deslocamento  da  sobressalente  para  a  primeira  fase  da  dosimetria.
+Logo, razão assiste ao órgão acusatório recorrente no que se refere à possibilidade de deslocamento de uma das qualificadoras do furto para a primeira fase da dosimetria da pena.
+No ponto, reitero que a prática de deslocar uma das qualificadoras do furto para a primeira etapa do cálculo da pena é amplamente admitida neste Tribunal Superior.
+A  propósito,  cito  os  seguintes  julgados :
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  FURTO  QUALIFICADO.  DOSIMETRIA  DA  PENA.  PENA-BASE  ACIMA  DO  MÍNIMO  LEGAL.  FUNDAMENTAÇÃO  IDÔNEA.  ELEMENTOS  CONCRETOS.  QUANTUM  DE  AUMENTO  PROPORCIONAL.  DISCRICIONARIEDADE  DO  JULGADOR.  IMPOSSIBILIDADE  DE  REDUÇÃO.  REINCIDÊNCIA.  AUMENTO  NA  FRAÇÃO  DE  1/6.  AUSÊNCIA  DE  ILEGALIDADE.  AGRAVO  REGIMENTAL  DESPROVIDO.
+ ..
+2.  No  caso  em  análise,  houve  fundamentação  idônea  para  a  exasperação  da  pena-base,  com  destaque  para  o  elevado  valor  dos  bens  subtraídos  de  pequeno  agricultor  -  dois  tratores,  gerando  um  prejuízo  em  potencial  superior  a  150  mil  reais  -,  ressaltando-se  ainda  que  a  ação  foi  concatenada  com  receptador  específico.  Além  disso,  houve  o  deslocamento  de  uma  das  qualificadoras  do  furto  (rompimento  de  obstáculo)  para  a  primeira  fase  da  dosimetria,  não  havendo  falar  em  desproporcionalidade  no  acréscimo  de  2  anos  na  pena-base.
+ ..
+4.  Agravo  regimental  desprovido.
+(AgRg  no  HC  708.301/SP,  Rel.  Ministro  JOEL  ILAN  PACIORNIK,  QUINTA  TURMA,  julgado  em  29/03/2022,  DJe  04/04/2022,  grifei.)
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  CRIME  DE  FURTO  QUALIFICADO  PELO  CONCURSO  DE  PESSOAS  E  ROMPIMENTO  DE  OBSTÁCULO  E  MAJORADO  PELO  REPOUSO  NOTURNO.  DOSIMETRIA  DA  PENA.  DESLOCAMENTO  DE  DUAS  MAJORANTES  PARA  A  PRIMEIRA  FASE.  POSSIBILIDADE.  DECISÃO  MANTIDA.
+1.  Havendo  duas  ou  mais  circunstâncias  qualificadoras,  uma  delas  deverá  ser  utilizada  para  formar  o  tipo  qualificado  e  as  demais  poderão  ser  consideradas  como  circunstâncias  desfavoráveis,  seja  para  agravar  a  pena  na  segunda  etapa  da  dosimetria,  seja  para  elevar  a  pena-base  na  primeira  fase  do  cálculo.
+2.  Mantém-se  integralmente  a  decisão  agravada  cujos  fundamentos  estão  em  conformidade  com  o  entendimento  do  STJ  sobre  a  matéria  suscitada.
+3.  Agravo  regimental  desprovido.
+(AgRg  no  HC  583.237/PR,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  QUINTA  TURMA,  julgado  em  26/10/2021,  DJe  03/11/2021,  grifei.)
+PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CRIME  DE  ROUBO  MAJORADO.  ART.  157,  §  2º,  II,  E  §  2º-A,  I,  DO  CP.  DOSIMETRIA.  MAJORANTES.  PLURALIDADE.  CIRCUNSTÂNCIAS  DO  CRIME.  VALORAÇÃO  NEGATIVA.  POSSIBILIDADE.
+1.  De  acordo  com  a  jurisprudência  desta  Corte,  "é  possível  considerar  na  dosimetria  da  pena  do  delito  patrimonial  uma  das  majorantes  (concurso  de  agentes)  para  exasperar  a  pena-base,  como  circunstância  do  crime,  e  a  outra  (emprego  de  arma  de  fogo)  na  terceira  fase,  como  causa  especial  de  aumento"  (HC  n.  400.543/MS,  relatora  Ministra  Maria  Thereza  de  Assis  Moura,  Sexta  Turma,  julgado  em  15/8/2017,  DJe  24/8/2017).  Precedentes.
+2.  Agravo  regimental  desprovido.
+(AgRg  no  AREsp  1627406/DF,  de  minha  relatoria,  SEXTA  TURMA,  julgado  em  22/09/2020,  DJe  28/09/2020,  grifei.)
+HABEAS  CORPUS  SUBSTITUTO  DE  RECURSO  PRÓPRIO.  INADEQUAÇÃO  DA  VIA  ELEITA.  FURTO  QUALIFICADO.  DOSIMETRIA.  PENA-BASE.  FUNDAMENTOS  CONCRETOS  E  IDÔNEOS  PARA  O  INCREMENTO.  DA  PENA.  DESLOCAMENTO  DE  UMA  DAS  QUALIFICADORAS  PARA  A  PRIMEIRA  FASE.  POSSIBILIDADE.  EXPRESSIVIDADE  DO  VALOR  ECONÔMICO  DOS  OBJETOS  SUBTRAÍDOS.  FUNDAMENTAÇÃO  IDÔNEA.  REGIME  INICIAL.  ABRANDAMENTO.  IMPOSSIBILIDADE.  REINCIDÊNCIA.  CIRCUNSTÂNCIAS  JUDICIAIS  DESFAVORÁVEIS.  INAPLICABILIDADE  DO  ENUNCIADO  N.  269/STJ.  HABEAS  CORPUS  NÃO  CONHECIDO.
+ ..
+2.  A  dosimetria  da  pena  insere-se  dentro  de  um  juízo  de  discricionariedade  do  julgador,  atrelado  às  particularidades  fáticas  do  caso  concreto  e  subjetivas  do  agente,  somente  passível  de  revisão  por  esta  Corte  no  caso  de  inobservância  dos  parâmetros  legais  ou  de  flagrante  desproporcionalidade.  Nesse  contexto,  elementos  próprios  do  tipo  penal,  alusões  à  potencial  consciência  da  ilicitude,  à  gravidade  do  delito,  às  consequências  próprias  do  ilícito  e  outras  generalizações,  sem  suporte  em  dados  concretos,  não  podem  ser  utilizados  para  aumentar  a  pena-base.  Precedentes.
+3.  Nesta  hipótese,  o  agravamento  da  sanção  decorreu  do  deslocamento  de  uma  das  qualificadoras  do  furto  para  a  primeira  fase  da  dosimetria,  providência  admitida  pela  jurisprudência  do  Superior  Tribunal  de  Justiça.
+ ..
+6.  Habeas  corpus  não  conhecido.
+(HC  532.215/SP,  Rel.  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  julgado  em  10/03/2020,  DJe  25/03/2020,  grifei.)
+Desse modo, uma das qualificadoras deve ser utilizada para qualificar o delito de furto e a qualificadora sobressalente deve ser deslocada para a primeira fase da dosimetria.
+Assim, cabível o acolhimento do pedido ministerial de se restabelecer o deslocamento de uma qualificadora para a majoração da pena-base, sendo de rigor restabelecer a dosimetria como operada pela sentença condenatória, de modo que a pena de 2 anos e 8 meses de reclusão deverá ser o novo parâmetro para o cálculo da prescrição.
+É digno de nota que o referido deslocamento da qualificadora sobressalente não representa bis in idem, porque a qualificadora deslocada para a primeira fase não foi utilizada, ao mesmo tempo, para qualificar o crime e também para aumentar a pena-base, tendo sido valorada exclusivamente na primeira etapa, a título de circunstância judicial negativa, como expressamente mencionado pela sentença. Assim, o único elemento para qualificar o delito é a primeira qualificadora, não deslocada para qualquer fase da dosimetria.
+À guisa do exposto, dou provimento ao recurso especial do Ministério Público de São Paulo para restabelecer a dosimetria como operada pela sentença condenatória.
+Publique-se. Intimem-se.
+EMENTA
