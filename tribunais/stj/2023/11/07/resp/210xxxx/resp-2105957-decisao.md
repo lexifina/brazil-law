@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 736):
+ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. DECRETO-LEI 3.365/1941. FERROVIA NORTE-SUL. IMÓVEL RURAL DENOMINADO "FAZENDA PARAÍSO DO RIO". MUNICÍPIO DE RIO VERDE/GO. INDENIZAÇÃO FIXADA NA SENTENÇA MENOR DO QUE O VALOR OFERTADO DEVIDAMENTE CORRIGIDO. DIFERENÇA MÍNIMA. DESPESAS PROCESSUAIS. ÔNUS DA EXPROPRIANTE. ART. 86, PARÁGRAFO ÚNICO, DOCPC/2015. APELAÇÃO DA VALEC IMPROVIDA.
+1. O valor da justa indenização deve refletir o preço de mercado do imóvel, não podendo qualquer despesa, quer a título de honorários periciaisquer a título de honorários advocatícios, ser imputada ao expropriado com redução do valor considerado como justo a título de indenização de sua propriedade, sob pena de violação ao preceito constitucional da justa indenização.
+2. A apelante, para justificar a sua pretensão de que ônus da sucumbência seja suportado pela parte expropriada, inclusive os honorários do perito, afirma que o valor da indenização fixado na sentença (R$ 312.848,31), considerado na data daperícia em 16/10/2015, é inferior ao ofertado pela expropriante devidamente atualizado até a data da perícia (R$ 319.143,72).
+3. A diferença entre o valor fixado na sentença e o montante ofertado, devidamente atualizado é mínima, sendo aplicável, no caso, o art. 86, parágrafo único, do CPC/2015.
+4. "Com a atualização do valor da oferta até o advento do laudo pericial, necessária para o encontro de contas, atingiu-se, na data da perícia, quantia superior à determinada na sentença. A eventual sucumbência dos expropriados, ainda que considerada existente, foi mínima em relação à indenização devida. Em tal cenário, incumbe à expropriante suportar os ônus da sucumbência, inclusive honorários advocatícios, nos moldes do art. 86, parágrafo único, do CPC/2015." (AC 0000671-66.2012.4.01.3903, Relatora Desembargadora Federal Mônica Sifuentes, Terceira Turma, julgado em 21/09/2021, PJe 23/09/2021).
+5. Apelação da VALEC improvida.
+Em suas razões de recurso especial, sustenta ofensa aos artigos 19 da Lei Complementar n. 76/1993 e 85 do CPC/2015, sob o argumento de que o valor ofertado foi superior ao fixado na sentença, razão pela qual o expropriado é sucumbente, devendo então este arcar com os honorários advocatícios e despesas processuais.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 760-762.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial não merece conhecimento.
+No que diz respeito à alegação de ofensa aos artigos 19 da Lei Complementar n. 76/1993 e 85 do CPC/2015, o acórdão recorrido consignou que a parte expropriada sucumbiu minimamente do pedido, razão pela qual entendeu pela aplicação do art. 86, parágrafo único, do CPC/2015 à hipótese (fls. 737-738):
+O valor da justa indenização deve refletir o preço de mercado do imóvel, não podendo qualquer despesa, quer a título de honorários periciais quer a título de honorários advocatícios, ser imputada ao expropriado com redução do valor considerado como justo a título de indenização de sua propriedade, sob pena de violação ao preceito constitucional da justa indenização.
+A apelante, para justificar a sua pretensão de que o ônus da sucumbência seja suportado pela parte expropriada, afirma que o valor da indenização fixado na sentença (R$312.848,31), considerado na data da perícia em 16/10/2015, é inferior ao ofertado pela expropriante devidamente atualizado até a data da perícia (R$ 319.143,72).
+Observa-se que a diferença entre o valor fixado na sentença e o montante ofertado devidamente atualizado é mínima.
+Em relação aos honorários advocatícios na ação de desapropriação por utilidade pública, dispõe o § 1º do art. 27 do Decreto-Lei 3.365/41:
+"Art. 27.
+(..)
+§ 1o A sentença que fixar o valor da indenização quando este for superior ao preço oferecido condenará o desapropriante a pagar honorários do advogado, que serão fixados entre meio e cinco por cento do valor da diferença, observado o disposto no § 4o do art. 20 do Código de Processo Civil."
+Ver-se que o dispositivo de lei que trata dos honorários advocatícios na ação de desapropriação por utilidade pública dispõe que, quando o valor da indenização for superior ao da oferta, serão fixados honorários de advogado em desfavor do expropriante, no percentual entre 0,5% (meio por cento) e 5% (cinco por cento) do valor da diferença, omitindo-se sobre a fixação de honorários advocatícios quando o valor da indenização fixado na sentença for inferior ao valor ofertado pelo expropriante.
+Na hipótese, considerando que a sucumbência da parte expropriada foi mínima, tenho ser aplicável ao caso o que dispõe o parágrafo único do art. 86 do CPC/2015:
+"Art. 86. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas.
+Parágrafo único. Se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e pelos honorários."
+Dessa forma, cabe à expropriante suportar o ônus da sucumbência, na forma do art.86, parágrafo único, do CPC/2015. (grifo nosso)
+Ocorre que a recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. INOCORRÊNCIA. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INTERRUPÇÃO DA PRESCRIÇÃO QUINQUENAL. TERMO INICIAL DO PRAZO PRESCRICIONAL. RECEBIMENTO. PARCELAS EM ATRASO. AJUIZAMENTO DA AÇÃO COLETIVA.
+1. Conforme entendimento sedimentado nas Súmulas 283 e 284 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+2. De acordo com a jurisprudência desta Corte Superior, quando a parte opta pela execução individual da sentença coletiva (art. 103, § 3º, do Código de Defesa do Consumidor), o ajuizamento da ação coletiva interrompe a prescrição para o recebimento de valores ou parcelas em atraso. Precedentes.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.368.855/SP, Rel. Min. Gurgel de Faria, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.) (grifo nosso)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA AMBIENTAL. LICENCIAMENTO AMBIENTAL. VIOLAÇÃO AO ARTS. 23, VI E VII, 24 E 225 DA CONSTITUIÇÃO DA REPÚBLICA. ANÁLISE EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. OFENSA À RESOLUÇÃO. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA N. 518/STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico deste Tribunal Superior que o recurso especial possui fundamentação vinculada, não sendo instrumento processual destinado a examinar possível ofensa à norma Constitucional.
+III - O conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência (por analogia,) da Súmula n. 518 deste Superior Tribunal de Justiça.
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido. (AgInt nos EDcl no REsp n. 1.857.156/MS, Rel. Min. Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023.) (grifo nosso)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
