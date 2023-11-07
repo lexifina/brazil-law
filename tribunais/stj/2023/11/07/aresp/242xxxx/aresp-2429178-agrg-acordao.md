@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. LAPSO TEMPORALDE 4 ANOS NÃO ULTRAPASSADO ENTRE OS MARCOS INTERRUPTIVOS E SUSPENSIVOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pena concretamente aplicada aos acusados é de 1 ano e 2 meses de reclusão, sendo aplicável o prazo prescricional de 4 (quatro) anos, nos termos do art. 109, inciso V, do Código Penal.
+2. De acordo com o acórdão recorrido, o feito foi efetivamente suspenso em 3/4/2018. E, nos termos do art. 89, § 6º, da Lei n. 9.099/1995, não corr erá a prescrição durante o prazo de suspensão do processo. Nesse contexto, tem-se que não transcorreu o prazo de 4 anos entre o recebimento da denúncia (11/9//2017) e a publicação da sentença condenatória (29/11/2022), porquanto suspenso o curso da prescrição entre 3/4/2018 e 3/10/2019, não podendo se falar em prescrição.
+3. Salienta-se que, nos termos do disposto no art. 110, §1º, do CP, a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. Precedentes.
+4. A sentença e o acórdão condenatório interrompem a prescrição. Assim, não transcorrido entre os marcos interruptivos constatados nos autos o prazo previsto no art. 109, inciso V, do Código Penal, não há que se falar em extinção da punibilidade pela prescrição da pretensão punitiva.
+5. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ABRAAO DOS SANTOS CARDOSO e THIAGO DA SILVA SOARES (e-STJ fls. 560/563) contra decisão monocrática de e-STJ fls. 553/555, que conheceu do agravo para negar provimento ao seu recurso especial.
+A parte agravante alega a ocorrência da prescrição. Aduz (e-STJ fls. 561/562):
+Vejam ilustres Ministros, que a denúncia foi recebida em 11/09/2017 correndo o processo até 03/04/2018 ocasião que os réus aceitaram a proposta de suspensão condicional do processo ofertada, totalizando 6 meses e 22 dias. O processo foi suspenso naquele dia (03/04/2018), voltando a correr em 03/10/2019 quando da revogação da benesse (o feito permaneceu suspenso por 1 ano e 6 meses). Até a data da prolação da sentença (29/11/2022) transcorreram mais 3 anos, 1 mês e 26 dias. No total, somando-se os dois períodos, o processo correu por 3 anos, 8 meses e 18 dias.
+Interposta apelação, o tribunal de origem julgou o recurso defensivo em 25/04/2023, tendo, desde a sentença, se acrescido mais 03 meses e 26 dias, totalizando 4 anos, 1 mês e 14 dias.
+Até o julgamento do agravo em recurso especial transcorreram mais 5 meses e 24 dias, totalizando 4 anos, 7 meses e 8 dias, estando, pois, prescrito o feito, havendo de se considerar que após o trânsito em julgado para a acusação1 , o marco prescritivo nunca poderá ser aquele anterior à denúncia.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. LAPSO TEMPORALDE 4 ANOS NÃO ULTRAPASSADO ENTRE OS MARCOS INTERRUPTIVOS E SUSPENSIVOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A pena concretamente aplicada aos acusados é de 1 ano e 2 meses de reclusão, sendo aplicável o prazo prescricional de 4 (quatro) anos, nos termos do art. 109, inciso V, do Código Penal.
+2. De acordo com o acórdão recorrido, o feito foi efetivamente suspenso em 3/4/2018. E, nos termos do art. 89, § 6º, da Lei n. 9.099/1995, não corr erá a prescrição durante o prazo de suspensão do processo. Nesse contexto, tem-se que não transcorreu o prazo de 4 anos entre o recebimento da denúncia (11/9//2017) e a publicação da sentença condenatória (29/11/2022), porquanto suspenso o curso da prescrição entre 3/4/2018 e 3/10/2019, não podendo se falar em prescrição.
+3. Salienta-se que, nos termos do disposto no art. 110, §1º, do CP, a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. Precedentes.
+4. A sentença e o acórdão condenatório interrompem a prescrição. Assim, não transcorrido entre os marcos interruptivos constatados nos autos o prazo previsto no art. 109, inciso V, do Código Penal, não há que se falar em extinção da punibilidade pela prescrição da pretensão punitiva.
+5. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+A Corte de origem, ao decidir a controvérsia, consignou (e-STJ fls. 471/472):
+A denúncia foi recebida em 11/09/2017 (evento 3, PROCJUDIC4), correndo o prazo prescricional até 03/04/2018, data em que os réus aceitaram a proposta de SCP, nos termos do art. 89, § 6º, da Lei n. 9.099/95 (evento 3, PROCJUDIC4), totalizando 6 meses e 22 dias. O processo foi suspenso naquele dia (03/04/2018), voltando a correr em 03/10/2019, data em que revogada a benesse, por descumprimento (evento 3, PROCJUDIC5). Até a data da publicação da sentença (29/11/2022) transcorreram mais 3 anos, 1 mês e 26 dias. No total, somando-se os dois períodos, o prazo prescricional correu por 3 anos, 8 meses e 18 dias.
+Ocorre que, fixada pena de 01 ano e 02 meses de reclusão aos réus, o prazo prescricional aplicável é o de 04 anos, antevisto no art. 109, V, do CP, prazo que não transcorreu entre os marcos interruptivos e suspensivos
+Ora, não há qualquer ilegalidade a ser sanada.
+A pena concretamente aplicada aos acusados é de 1 ano e 2 meses de reclusão, sendo aplicável o prazo prescricional de 4 (quatro) anos, nos termos do art. 109, inciso V, do Código Penal.
+De acordo com o acórdão recorrido, o feito foi efetivamente suspenso em 3/4/2018. E, nos termos do art. 89, § 6º, da Lei n. 9.099/1995, não correrá a prescrição durante o prazo de suspensão do processo.
+Nesse contexto, tem-se que não transcorreu o prazo de 4 anos entre o recebimento da denúncia (11/9//2017) e a publicação da sentença condenatória (29/11/2022), porquanto suspenso o curso da prescrição entre 3/4/2018 e 3/10/2019, não podendo se falar em prescrição.
+Salienta-se que, nos termos do disposto no art. 110, §1º, do CP, a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. Precedentes: AgRg no AREsp n. 1.689.977/PE, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 23/11/2021, DJe de 30/11/2021; AgRg no HC n. 655.042/RO, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 5/10/2021, DJe de 13/10/2021; EDcl nos EDcl no AgRg no REsp n. 1.874.995/RS, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/6/2021, DJe de 18/6/2021; AgRg no REsp n. 1.913.320/PR, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/3/2021, DJe de 29/3/2021.
+Ademais, a sentença e o acórdão condenatório interrompem a prescrição. Assim, não transcorrido entre os marcos interruptivos constatados nos autos o prazo previsto no art. 109, inciso V, do Código Penal, não há que se falar em extinção da punibilidade pela prescrição da pretensão punitiva.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
