@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 188):
+TRIBUTÁRIO. INCLUSÃO DO ICMS-ST PARA APURAR CRÉDITOS DOPIS/COFINS. INADMISSIBILIDADE.
+O contribuinte substituído tributário não tem o direito de apurar créditos de PIS/COFINS sobre o ICMS-ST incidente na aquisição de mercadorias para revenda.
+Embargos de declaração rejeitados às fls. 221-224.
+O recorrente alega violação dos artigos 1º das Leis 10.637/02 e 10.833/2003; e 97 do CTN, defendendo, em suma, o direito líquido e certo da i mpetrante ao creditamento do PIS e da COFINS sobre o valor do ICMS-ST, bem como o direito da Recorrente em compensar os valores recolhidos indevidamente com quaisquer tributos vencidos e vincendos administrados pela Secretaria da Receita Federal do Brasil devidamente corrigidos pela SELIC, com juros de mora de 1% (um por cento) ao mês a partir de cada recolhimento indevido, notadamente nos 60 meses anteriores à distribuição do presente Writ.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 272.
+Parecer do MPF, às fls. 291-294, pelo provimento do recurso especial.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A irresignação merece prosperar.
+O acórdão recorrido está em confronto com a jurisprudência desta Primeira Turma do STJ, no sentido da que o ICMS-ST, na aquisição de bens para revenda posterior, gera direito de crédito de PIS e de COFINS em favor da empresa substituída.
+Nesse sentido:
+TRIBUTÁRIO. PIS E COFINS. REGIME NÃO-CUMULATIVO. ICMS-ST. ICMS-ANTECIPAÇÃO. CREDITAMENTO. POSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+2. Na Primeira Turma, prevalece a compreensão de que o ICMS-ST constitui parte integrante do custo de aquisição da mercadoria e, por conseguinte, deve ser admitido na composição do montante de créditos a ser deduzido para apuração da Contribuição ao PIS e da COFINS, no regime não-cumulativo, à luz dos arts. 3º, I, das Leis ns. 10.637/2002 e 10.833/2003, independentemente da incidência de mencionadas contribuições sobre o tributo estadual recolhido pelo substituto na etapa anterior, sendo que não há óbice para que referido raciocínio jurídico tenha igualmente curso no ICMS-antecipação (AgInt no REsp 1.428.247/RS, Rel. p/ acórdão Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/10/2019, DJe 29/10/2019).
+3. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.525.939/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/4/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ICMS-ST. APROVEITAMENTO DE CRÉDITOS DE PIS E COFINS. POSSIBILIDADE. ATENDIMENTO AO PRINCÍPIO DA NÃO CUMULATIVIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II O acórdão recorrido está em consonância com orientação consolidada na Primeira Turma desta Corte, segundo a qual o o contribuinte faz jus aos créditos da contribuição ao PIS e à COFINS pretendidos, quer porque independem da incidência de tais contribuições sobre o montante do ICMS-ST recolhido pelo substituto na etapa anterior, quer porque o valor do imposto estadual antecipado caracteriza custo de aquisição.
+III Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV Agravo interno desprovido.
+(AgInt no REsp n. 1.914.795/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 17/2/2022.)
+TRIBUTÁRIO. AGRAVO INTERNO RECURSO ESPECIAL. PIS E COFINS. BASE DE CÁLCULO DO CRÉDITO. INCLUSÃO DO ICMS-ST. AQUISIÇÃO DE BENS PARA REVENDA POR EMPRESA SUBSTITUÍDA. POSSIBILIDADE.
+1. A Primeira Turma do Superior Tribunal de Justiça firmou o entendimento no sentido de reconhecer que o ICMS-ST está apto a ser incluído na base de cálculo do crédito da contribuição ao PIS e da COFINS.
+2. "Sendo o fato gerador da substituição tributária prévio e definitivo, o direito ao crédito do substituído decorre, a rigor, da repercussão econômica do ônus gerado pelo recolhimento antecipado do ICMS-ST atribuído ao substituto, compondo, desse modo, o custo de aquisição da mercadoria adquirida pelo revendedor." (REsp 1.909.823/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, 02/03/2021, DJe 11/03/2021).
+3. Agravo interno não provido.
+(AgInt no REsp 1.926.461/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 15/12/2021).
+TRIBUTÁRIO. CONTRIBUIÇÃO AO PIS. COFINS. REGIME NÃO CUMULATIVO. ICMS-ST. DIREITO AO CRÉDITO. PRECEDENTES DA PRIMEIRA TURMA DESTE STJ.
+1. A Primeira Turma do STJ, ao julgar o REsp. 1.428.247/RS, compreendeu pela possibilidade de os valores de ICMS-ST reembolsados pelo substituído serem qualificados como custo de aquisição da mercadoria para fins de geração de créditos de PIS e COFINS no regime não cumulativo (Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 29/10/2019).
+2. Agravo interno não provido.
+(AgInt no REsp n. 1.461.708/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/10/2021.)
+TRIBUTÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. CONTRIBUIÇÃO AO PIS E COFINS. NÃO CUMULATIVIDADE. ICMS - SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA (ICMS-ST). AQUISIÇÃO DE BENS PARA REVENDA POR EMPRESA SUBSTITUÍDA. BASE DE CÁLCULO DO CRÉDITO. INCLUSÃO DO VALOR DO IMPOSTO ES TADUAL. LEGALIDADE. CREDITAMENTO QUE INDEPENDE DA TRIBUTAÇÃO NA ETAPA ANTERIOR. CUSTO DE AQUISIÇÃO CONFIGURADO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 1973.
+II - A 1ª Turma desta Corte assentou que a disposição do art. 17 da Lei n. 11.033/2004, a qual assegura a manutenção dos créditos existentes de contribuição ao PIS e da COFINS, ainda que a revenda não seja tributada, não se aplica apenas às operações realizadas com os destinatários do benefício fiscal do REPORTO. Por conseguinte, o direito ao creditamento independe da ocorrência de tributação na etapa anterior, vale dizer, não está vinculado à eventual incidência da contribuição ao PIS e da COFINS sobre a parcela correspondente ao ICMS-ST na operação de venda do substituto ao substituído.
+III - Sendo o fato gerador da substituição tributária prévio e definitivo, o direito ao crédito do substituído decorre, a rigor, da repercussão econômica do ônus gerado pelo recolhimento antecipado do ICMS-ST atribuído ao substituto, compondo, desse modo, o custo de aquisição da mercadoria adquirida pelo revendedor.
+IV - A repercussão econômica onerosa do recolhimento antecipado do ICMS-ST, pelo substituto, é assimilada pelo substituído imediato na cadeia quando da aquisição do bem, a quem, todavia, não será facultado gerar crédito na saída da mercadoria (venda), devendo emitir a nota fiscal sem destaque do imposto estadual, tornando o tributo, nesse contexto, irrecuperável na escrita fiscal, critério definidor adotado pela legislação de regência.
+V - Recurso especial provido.
+(REsp 1.428.247/RS, relator Ministro Gurgel de Faria, relatora para acórdão Ministra Regina Helena Costa, Primeira Turma, julgado em 15/10/2019, DJe de 29/10/2019).
+Ante o exposto, dou provimento ao recurso especial para conceder a ordem, de modo a assegurar o direito da ora recorrente de incluir o ICMS-ST, destacados nos documentos fiscais, como custo de aquisição de mercadorias, para fins de apuração de créditos da Contribuição ao PIS e da COFINS, no regime não cumulativo, e declarar o direito à compensação em sua escrita fiscal, observada a prescrição quinquenal e sob fiscalização da autoridade tributária. Custas ex lege. Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105 do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS. COFINS. REGIME NÃO CUMULATIVO. ICMS-ST. DIREITO AO CRÉDITO. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM O ENTENDIMENTO DA PRIMEIRA TURMA DO STJ. RECURSO ESPECIAL PROVIDO.
