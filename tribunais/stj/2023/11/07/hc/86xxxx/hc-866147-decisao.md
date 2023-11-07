@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Leandro de Paula Carvalho - preso preventivamente pela prática, em tese, dos crimes de participação em organização criminosa, lavagem de dinheiro, tráfico de drogas e crime contra a saúde pública -, em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás (Habeas Corpus n. 5653456-75.2023.8.09.0006), não comporta conhecimento.
+Com efeito, busca a impetração a revogação da prisão preventiva imposta ao paciente, pelo Juízo de Direito da Vara relativa à Organização Criminosa da comarca de Goiânia/GO (Autos n. 5294788-87.2023.8.09.0006), bem como o reconhecimento da ilegalidade dos elementos de informação constantes da ação penal, com a suspensão da audiência de instrução e julgamento designada para 1º/11/2023, aos argumentos de ausência de fundamentação da segregação provisória e ilegalidade das interceptações telefônicas que corroboram a persecução penal.
+Ocorre que, além de a questão relativa à fundamentação da prisão preventiva ser objeto de um Recurso em Habeas Corpus n. 185.412/GO, interposto em favor do paciente neste Superior Tribunal, configurando reiteração de pedidos, não se observa ter o Tribunal de origem debatido satisfatoriamente a alegação de ilegalidade das interceptações telefônicas, razão pela qual inviável o conhecimento originário do tema por este Superior Tribunal, sob pena de indevida supressão de instância.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO, TRÁFICO DE DROGAS E CRIME CONTRA A SAÚDE PÚBLICA (OPERAÇÃO BOMBADOS). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N. 185.412/GO, INTERPOSTO EM FAVOR DO PACIENTE. ILEGALIDADE DE INTERCEPTAÇÕES TELEFÔNICAS. DEBATE PELO TRIBUNAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA,
+Writ não conhecido.
