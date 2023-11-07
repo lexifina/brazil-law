@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEANDRO FRANCISCO DE SOUZA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, no julgamento da revisão criminal n. 0002093-49.2019.8.08.0008.
+Assevera o impetrante que o paciente foi condenado no âmbito da ação penal n. 0002093-49.2019.8.08.0008, pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Barra do São Francisco, à pena definitiva de 09 anos de reclusão, no regime inicial fechado, e ao pagamento de 710 dias-multa, por infração ao artigo 33, caput, da Lei 11.343/06 e ao artigo 14, da Lei 10.826/03, na forma do artigo 69 do Código Penal, conforme a sentença de fls. 22-47.
+Declara que interpôs apelação criminal ao Tribunal de Justiça, que teria dado parcial provimento ao recurso, para reduzir as penas do paciente para 07 (sete) anos de reclusão e 710 (setecentos e dez) dias-multa e 01 (um) mês de detenção, em regime inicial semiaberto (folha 03).
+Defende que o acórdão impugnado padece de flagrante ilegalidade, consistente na negativa à causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei 11.343/2006.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja aplicada a causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei 11.343/2006, com o consequente redimensionamento das penas.
+É o relatório. DECIDO.
+No caso em análise, o teor da impetração não revela a certeza necessária à eventual análise e concessão da ordem.
+Muito embora o habeas corpus permita o ajuizamento por qualquer pessoa, sem exigência do preenchimento de requisitos pré-determinados ou observância de rigoroso tecnicismo jurídico, pode ocorrer o indeferimento liminar quando da leitura da inicial não é possível extrair a exata compreensão da controvérsia.
+Compulsando os autos, verifico que o impetrante não instruiu o presente writ com o acórdão impugnado, mencionando na petição inicial (folha 03) que a sentença (fls. 22-47) teria sido parcialmente reformada em virtude do parcial provimento da apelação.
+Assim, a inicial não permite a exata compreensão do questionamento.
+A doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011 p. 298).
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. INSTRUÇÃO DEFICIENTE. ÓBICE AO EXAME DAS RAZÕES DO WRIT. AGRAVO DESPROVIDO.
+1. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com cópia do acórdão proferido no julgamento do apelo defensivo, peça imprescindível para análise da impetração. De fato, na decisão colegiada acostada aos autos, limitou-se o Tribunal de origem a examinar o fundamentos do decreto preventivo, sem que fossem analisados os parâmetros adotados no cálculo dosimétrico. Precedentes.
+2. Ainda que tenha interposto agravo regimental, no qual reconheceu a deficiência da instrução do feito, o impetrante não logrou apresentar a cópia do acórdão proferido no julgamento da apelação, alegando não ter conseguido localizar tal peça processual.
+3. Tratando-se de decreto condenatório transitado em julgado, é facultado à defesa ajuizar revisão criminal no Tribunal de origem, com vistas à modificação dos parâmetros dosimétricos, nas hipóteses de manifesta violação dos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, da falta ou evidente deficiência de fundamentação ou ainda do erro de técnica.
+4. Agravo regimental desprovido. (AgRg no HC 647927/RS, Relator Ministro RIBEIRO DANTAS, 5ª Turma, Data de Publicação: DJe 10/05/2021).
+Ante o exposto, nos termos do artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
