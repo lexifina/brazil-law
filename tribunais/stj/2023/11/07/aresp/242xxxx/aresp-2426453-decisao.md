@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DA BAHIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇAO CÍVEL E REEXAME NECESSÁRIO. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. MORTE DE APENADO RECOLHIDO A ESTABELECIMENTO PRISIONAL. ASFIXIA. PRELIMINARES AFASTADAS. MÉRITO: RESPONSABILIDADE OBJETIVA DO ESTADO POR OMISSÃO ESPECÍFICA. FALHA DO SERVIÇO. DEVER ESTATAL DE ASSEGURAR A INCOLUMIDADE FÍSICA E MORAL DOS DETENTOS. PRECEDENTES. ARBITRAMENTO DO "QUANTUM" INDENIZATÓRIO. REFORMA EM PARTE. APELAÇÃO PARCIALMENTE PROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 186, 944 e 945 do CC, no que concerne à necessidade de redução do valor fixado a título de indenização por danos morais, em observância à razoabilidade e à proporcionalidade, a fim de impedir a configuração do enriquecimento ilícito, trazendo a seguinte argumentação:
+O v. Acórdão de fls. concedeu provimento parcial ao recurso interposto pelo Embargante para reduzir a condenação ao pagamento de danos morais em R$50.000,00 (cinquenta mil reais).
+Todavia, ao assim fazer, o v. Acórdão violou os princípios da razoabilidade e da proporcionalidade e vulnerou os artigos 944 e 945 do Código Civil ao impor indenização por danos morais no valor de R$50.000,00 (cinquenta mil reais).
+Na realidade, o v. Acórdão em momento algum especificou os motivos que conduziram a manutenção da indenização por danos morais em patamares tão elevados, principalmente quando tal patamar também desafiava a violação ao princípio da razoabilidade.
+A proporcionalidade entre os fins da indenização (compensar sofrimento) e os meios (quantia a ser dispendida) é o leme para a fixação deste quantum. Para encontrá-la, utiliza-se a denominada "teoria híbrida ou mista", que considera, inicialmente, a condição sócio-econômica da vítima e do agente -critérios subjetivos- e, de outra sorte, a gravidade da conduta e a repercussão do dano- critérios objetivos.
+Após sedimentados tais conceitos, perceba-se que o acórdão manteve a fixação dos danos morais nos patamares acima descritos!!
+Portanto, a condenação de indenização por danos morais, nos moldes em que fixada, é abusiva, indecente, conformando hipótese de enriquecimento ilícito, autorizando a transcrição de algumas considerações realizadas por SÉRGIO SEVERO em sua obra "Os Danos Extrapatrimoniais":
+ ..
+Por tais razões, por ofensa aos artigos 186, 944 e 945 do Código Civil de 2002, o Recorrente confia no provimento do recurso especial para julgar a ação improcedente ou, ao menos, para adequar a indenização para patamares razoáveis.
+(fls. 281-284).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, o arbitramento do valor da indenização decorrente de dano moral deve ser feito de acordo com os aspectos do caso, sempre com bom senso, moderação e razoabilidade, atentando-se à proporcionalidade com relação ao grau de culpa, extensão e repercussão dos danos e à capacidade econômica das partes.
+Nesse contexto, transportando a exegese legal, a orientação jurisprudencial e os ensinamentos doutrinários supramencionados, para o caso concreto, tenho que a indenização fixada na sentença foi excessiva, pelo que considero R$ 50.000,00 (cinquenta mil reais), condizente com a referida orientação pretoriana, atentando aos princípios da proporcionalidade e razoabilidade.
+(fls. 211).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
