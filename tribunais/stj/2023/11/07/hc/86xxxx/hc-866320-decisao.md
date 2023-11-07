@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCIANO ILDEFONSO DOS SANTOS e RUAN HENRIQUE GONCALVES ILDEFONSO, apontando como autoridade coatora a Desembargadora Plantonista do Plantão Criminal de Segunda Instância do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO- processo n. 2293227-26.2023.8.26.0000.
+Depreende-se dos autos que os Pacientes tiveram a prisão temporária convertida em preventiva, pela prática, em tese, do delito capitulado no artigo 121, § 2º, inciso III, na forma do artigo 29, caput, ambos do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte local. A Desembargadora Plantonista indeferiu a liminar, conforme decisão, e-STJ fls. 26-29:
+"(..) Nesta fase de cognição sumária o que importa é o delineamento de conduta típica e que a prova da materialidade delitiva e os indícios de autoria, colhidos durante as investigações policiais, sejam suficientes para a propositura da ação penal, sendo irrelevante, nesse ponto, a alegação de ser primário, não registrar antecedentes criminais, possuir residência fixa, ocupação lícita ou, ainda, militar em seu favor o princípio da presunção de inocência, já que tais atributos não têm o condão de conferir, de per si, a benesse de responder eventual processo em liberdade. (..) Por fim, insta destacar a impossibilidade de admitir-se pela via provisória da decisão liminar a pronta solução da questão de fundo, máxime se a medida não se presta a antecipar a tutela jurisdicional aqui postulada. Por conseguinte, INDEFIRO o pedido deliminar. (..)"
+Neste writ, alega a Defesa a carência de fundamentação da decisão exarada pela autoridade coatora, bem como ausência dos requisitos ensejadores da prisão preventiva.
+Requer a concessão da ordem de habeas corpus, para fins de conceder a medida liminar pleiteada na origem, com a confirmação no mérito.
+É o relatório. DECIDO.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heroico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+"O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribun al Federal" (AgRg no HC n. 826.873/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023).
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
+EMENTA
