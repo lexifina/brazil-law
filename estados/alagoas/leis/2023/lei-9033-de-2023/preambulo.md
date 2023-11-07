@@ -1,0 +1,5 @@
+LEI Nº 9.033, DE 6 DE NOVEMBRO DE 2023.
+
+TRATA DO ASSÉDIO MORAL NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA DIRETA E INDIRETA DO ESTADO DE ALAGOAS.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o § 6º do art. 89 da Constituição Estadual, promulga a seguinte Lei:
