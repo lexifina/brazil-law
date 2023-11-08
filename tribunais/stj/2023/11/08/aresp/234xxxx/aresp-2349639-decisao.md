@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ERWIN JUNKER MASCHINENFABRIK GMBH (ERWIN) contra decisão que negou seguimento ao apelo nobre que interpôs.
+Foi apresentada contraminuta (e-STJ fl. 740/751).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea "a", da CF, ERWIN alegou violação aos arts. 835, XII do CPC e 1º da Lei nº 8.009/90, ao sustentar que (1) os imóveis gravados com alienação fiduciária para o Banco do Brasil e o Banco Pan foram dados em garantia para obtenção de empréstimo bancário, e, portanto, não podem ser protegidos pela impenhorabilidade da Lei nº 8.009/90; e, (2) a impenhorabilidade assegurada pela Lei nº 8.009/90 deve recair apenas sobre o bem de menor valor.
+(1) Da alienação fiduciária e do bem de família
+ERWIN defendeu, em suas razões recursais, que o TJSP violou o art. 1º da Lei nº 8.009/90, porque os imóveis alienados fiduciariamente ao Banco Pan e ao Banco do Brasil não devem ser considerados como bem de família uma vez que além de seu alto valor, foram dados como garantia fiduciária para obtenção de financiamento , o que por si só, afastaria a proteção de Lei nº 8.009/90.
+Finalmente, aduziu que os direitos aquisitivos de alienação fiduciária - dado a sua natureza meramente patrimonial - também não podem ser protegidos pela impenhorabilidade assegurada pela Lei nº 8.009/90.
+Sobre a insurgência recursal, o TJSP consignou que a alienação fiduciária não impede o reconhecimento do bem de família, e o reconhecimento dessa excludente atinge também os respectivos direitos, que não poderão ser exercidos sobre o imóvel. (e-STJ fl. 615).
+Quanto ao tema, a atual jurisprudência do STJ é no sentido de que a impenhorabilidade do bem de família deve ser afastada no caso em que o devedor fiduciante aliena fiduciariamente o bem, que sabidamente era de residência familiar, por caracterizar comportamento contraditório e que fere a ética e a boa-fé das relações negociais.
+Inclusive, a 2ª Seção do STJ já pacificou a matéria nos seguintes termos (a) a proteção conferida ao bem de família pela Lei n. 8.009/90 não importa em sua inalienabilidade, revelando-se possível a disposição do imóvel pelo proprietário, inclusive no âmbito de alienação fiduciária; e (b) a utilização abusiva de tal direito, com evidente violação do princípio da boa-fé objetiva, não deve ser tolerada, afastando-se o benefício conferido ao titular que exerce o direito em desconformidade com o ordenamento jurídico (AgInt nos EDv nos EREsp n. 1.560.562/SC, Relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe de 9/6/2020).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. IMPENHORABILIDADE DO BEM DE FAMÍLIA. NÃO INCIDÊNCIA. VALIDADE DA GARANTIA. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. ALEGAÇÃO DE DÍVIDA CONSTITUÍDA EXCLUSIVAMENTE EM FAVOR DE PESSOA JURÍDICA. REEXAME. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Concernente à impenhorabilidade do bem de família, o Superior Tribunal de Justiça já afastou tal garantia no caso em que o devedor alienou fiduciariamente o bem de família, o qual sabidamente era de residência familiar, por caracterizar comportamento contraditório. Precedente.
+2. Outrossim, em sentido semelhante, esta Corte Superior adotou o entendimento de que, "sendo a alienante pessoa dotada de capacidade civil, que livremente optou por dar seu único imóvel, residencial, em garantia a um contrato de mútuo (..), não se admite a proteção irrestrita do bem de família se esse amparo significar o alijamento da garantia após o inadimplemento do débito, contrariando a ética e a boa-fé, indispensáveis em todas as relações negociais" (REsp 1.559.348/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 18/06/2019, DJe 05/08/2019).
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência deste Superior Tribunal, incide na hipótese a Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional.
+4. No caso, concluindo o aresto impugnado que o imóvel discutido nos autos foi oferecido como garantia em alienação fiduciária de dívida dos próprios recorrentes, descabe ao Superior Tribunal de Justiça rever o entendimento alcançado, pois se exige, para tanto, o reexame do conteúdo fático-probatório da causa e nova interpretação de cláusulas contratuais, o que é vedado, no âmbito do recurso especial, conforme as Súmulas n. 5 e 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.071.640/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe de 10/8/2022 - sem destaques no original)
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE ALIENAÇÃO FIDUCIÁRIA. ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL RECONHECIDO COMO BEM DE FAMÍLIA. POSSIBILIDADE. CONDUTA QUE FERE A ÉTICA E A BOA-FÉ.
+1. Ação declaratória de nulidade de alienação fiduciária de imóvel reconhecido como bem de família.
+2. Ação ajuizada em 23/08/2013. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+3. O propósito recursal é dizer se é válida a alienação fiduciária de imóvel reconhecido como bem de família.
+4. A questão da proteção indiscriminada do bem de família ganha novas luzes quando confrontada com condutas que vão de encontro à própria ética e à boa-fé, que devem permear todas as relações negociais.
+5. Não pode o devedor ofertar bem em garantia que é sabidamente residência familiar para, posteriormente, vir a informar que tal garantia não encontra respaldo legal, pugnando pela sua exclusão (vedação ao comportamento contraditório).
+6. Tem-se, assim, a ponderação da proteção irrestrita ao bem de família, tendo em vista a necessidade de se vedar, também, as atitudes que atentem contra a boa-fé e a eticidade, ínsitas às relações negociais.
+7. Ademais, tem-se que a própria Lei 8.009/90, com o escopo de proteger o bem destinado à residência familiar, aduz que o imóvel assim categorizado não responderá por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, mas em nenhuma passagem dispõe que tal bem não possa ser alienado pelo seu proprietário.
+8. Não se pode concluir que o bem de família legal seja inalienável e, por conseguinte, que não possa ser alienado fiduciariamente por seu proprietário, se assim for de sua vontade, nos termos do art. 22 da Lei 9.514/97.
+9. Recurso especial conhecido e não provido.
+(REsp n. 1.560.562/SC, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 4/4/2019 - sem destaques no original)
+Em sendo assim, como o acórdão proferido pelo Tribunal estadual não está em conformidade com a recente jurisprudência do STJ quanto ao tema, merece reforma.
+Em consequência do aqui decidido, fica prejudicada a análise da tese da impenhorabilidade da Lei nº 8.009/90 recair sobre o bem de menor valor.
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, para afastar a impenhorabilidade dos imóveis alienados fiduciariamente por MAGALY e ADRIANO, à luz da indicada jurisprudência do STJ.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE COMPRA E VENDA DE MÁQUINAS INDUSTRIAIS COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. BEM DE FAMÍLIA DADO EM GARANTIA. IMPENHORABILIDADE AFASTADA. ACÓRDÃO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO. REC URSO ESPECIAL PROVIDO.
