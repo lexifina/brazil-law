@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da Vara Cível e Criminal de Ituiutaba - SJ/MG, o suscitante, e o Juízo de Direito da Vara Criminal, da Infância e Juventude e de Execuções Penais de Iturama/MG, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fls. 231/232):
+Trata-se de conflito negativo de competência estabelecido entre o Juízo Federal da Vara Cível e Criminal de Ituiutaba - SJ/MG (suscitante) e o Juízo de Direito da Vara Criminal, da Infância e Juventude e de Execuções Penais de Iturama - MG (suscitado), relativamente ao APF n. 5004226-58.2023.8.13.0344.
+Consta dos autos que Amilton Teixeira de Gouveia, Arine Braga Ribeiro, William Delaterra Zuleger e Sidnei Cleber Alves transportavam, entre Estados da Federação, 113 tabletes de maconha, pesando 92,27 kg (cf. fls. 13 e 177). Os investigados foram presos em flagrante pela prática do crime previsto no artigo 33, caput, c/c o art. 40, V, da Lei n. 11.343/2006 (cf. fl. 177).
+O Juízo de Direito da Vara Criminal, da Infância e Juventude e de Execuções Penais de Iturama - MG, por divisar indícios da transnacionalidade do tráfico de drogas, declinou da competência para a Justiça Federal de Ituiutaba/MG (cf. fl. 129).
+O Juízo Federal da Vara Cível e Criminal de Ituiutaba - SJ/MG reputou, todavia, não comprovada a natureza internacional do tráfico de drogas, suscitando o presente conflito de competência (fls. 177/181).
+ ..
+No parecer, o órgão ministerial opinou pela declaração de competência do Juízo suscitado (fls. 232/234):
+ ..
+Diante da vinculação dos Juízos suscitante e suscitado a tribunais diversos, o conflito negativo de competência insere-se na jurisdição do Superior Tribunal de Justiça, a teor do disposto no art. 105, I, "d", da CF, devendo ser conhecido.
+No caso, o Juízo Estadual declinou da competência para a Justiça Federal a partir de declarações de um dos investigados, no sentido de que os entorpecentes haviam sido adquiridos na Cidade de Bela Vista, no Paraguai (cf. fl. 129).
+Entretanto, conforme ressaltou o Juízo Federal da Vara Cível e Criminal de Ituiutaba - SJ/MG (fl. 178), não há elemento nos autos sobre a origem internacional das drogas. Ao contrário, os outros três coautores apontaram apenas para uma viagem ao Estado de Goiás. Nenhuma testemunha, igualmente, referiu a ocorrência de tráfico internacional de drogas.
+A competência da Justiça Federal para o julgamento do crime de tráfico de drogas pressupõe a suficiente comprovação de seu caráter internacional, conforme previsto no art. 70 da Lei n. 11.343/2006 (HC 168.368/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 18/11/2014, DJe 26/11/2014), o que não se verificou. A propósito, seguem os precedentes:
+ ..
+Deve ser reconhecida, portanto, a competência do Juízo de Direito da Vara Criminal, da Infância e Juventude e de Execuções Penais de Iturama - MG, ora suscitado.
+Em face do exposto, o parecer do Ministério Público Federal é pelo conhecimento do conflito para declarar competente o Juízo suscitado.
+É o relatório.
+Com razão o parecerista.
+A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de que, não restando caracterizado, de forma concreta e com sólidos elementos, e não com base em probabilidades, que a droga tenha procedência do exterior, não há como afirmar a transnacionalidade do tráfico de entorpecentes, sobressaindo, por conseguinte, a competência da Justiça estadual para processar e julgar o feito (CC n. 107.624/RJ, Ministra Assusete Magalhães, Terceira Seção, DJe 5/5/2014).
+No mesmo sentido, confiram-se:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. JUSTIÇA FEDERAL. INTERCEPTAÇÃO TELEFÔNICA. IMPRESCINDIBILIDADE DA MEDIDA. PRORROGAÇÕES. LICITUDE DAS PROVAS OBTIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Comprovado, de forma concreta e com sólidos elementos, que a droga apreendida era proveniente do exterior - Paraguai - e que a conduta delituosa teve início nesse país vizinho, evidenciada está a transnacionalidade do delito e, por conseguinte, a competência da Justiça Federal para processar o feito, nos termos dos arts. 109, V, da Constituição Federal e 70, caput, da Lei n. 11.343/2006.
+2. A lei permite a prorrogação das interceptações diante da demonstração de indispensabilidade da prova, sendo que as razões tanto podem manter-se idênticas às do pedido original quanto podem alterar-se, desde que a medida ainda seja considerada indispensável.
+Essas posteriores decisões não precisam reproduzir os fundamentos da decisão inicial, na qual já se demonstrou, de maneira pormenorizada e concretamente motivada, o preenchimento de todos os requisitos necessários à autorização da interceptação, à luz dos requisitos constantes da Lei n. 9.296/1996.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.592.259/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 26/6/2020 - grifo nosso).
+ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. JUSTIÇA FEDERAL X JUSTIÇA ESTADUAL. INVESTIGAÇÃO CRIMINAL. AUSÊNCIA DE ELEMENTOS PROBATÓRIOS APTOS A INDICAR A INTERNACIONALIDADE DO DELITO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Federal o julgamento dos crimes previstos nos artigos 33 a 37 da Lei nº 11.343/2006, desde que caracterizado ilícito transnacional, a teor do art. 70 do mesmo diploma legal.
+2. No caso, as evidências até o momento coletadas na investigação e na instrução criminal não revelaram a existência de tráfico internacional de drogas, devendo a ação penal ser mantida na Justiça Estadual.
+3. Mera suposição de que a droga (maconha) viria do Paraguai, não é suficiente para deslocar a competência para a Justiça Federal. Por outro lado, não se descarta, é bem verdade, a possibilidade de surgimento de novas provas, ao longo da instrução criminal, que evidenciem a transnacionalidade do tráfico de drogas, o que poderá deslocar a competência para a Justiça Federal.
+4. Recurso ordinário em habeas corpus improvido.
+(RHC n. 99.550/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/8/2018, DJe 15/8/2018 - grifo nosso).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. TRANSNACIONALIDADE. MATÉRIA FÁTICO-PROBATÓRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA. ORGANIZAÇÃO CRIMINOSA. REINCIDENTE ESPECÍFICO. EXCESSO DE PRAZO. FEITO COMPLEXO. PLURALIDADE DE RÉUS. DEMORA JUSTIFICADA. ORDEM NÃO CONHECIDA. RECOMENDAÇÃO DE CELERIDADE.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Nos termos do artigo 70 da Lei n. 11.343/2006, "o processo e o julgamento dos crimes previstos nos arts. 33 a 37 desta Lei, se caracterizado ilícito transnacional, são da competência da Justiça Federal".
+3. A jurisprudência desta Corte, na interpretação do art. 70 da Lei n. 11.343/2006, firmou-se no sentido de que a competência para processar e julgar os crimes previstos na Lei de Drogas é da Justiça Federal quando restar demonstrada a transnacionalidade da ação, sendo insuficiente a suspeita da origem estrangeira das substâncias entorpecentes. Nesse sentido: (CC 136.975/MT, Rel. Ministro ERICSON MARANHO - Desembargador convocado do TJ/SP, TERCEIRA SEÇÃO, DJe 19/12/2014).
+4. A verificação da transnacionalidade do tráfico demandaria em incursão nos elementos fático-probatórios dos autos, o que é inviável na via eleita, razão pela qual a questão não foi analisada pelo Tribunal a quo no julgamento do writ originário, pois não pode ser analisada perante esta Corte, sob pena de indevida supressão de instância.
+5. A segregação cautelar é medida excepcional, mesmo no tocante ao crime de tráfico de entorpecentes. O decreto de prisão processual exige a especificação de que a segregação atende a pelo menos um dos requisitos do art. 312 do Código de Processo Penal, sendo certo que a proibição abstrata da liberdade provisória também se mostra incompatível com a presunção de inocência, para não antecipar a reprimenda a ser cumprida no caso de uma possível condenação.
+6. Cabe ao julgador interpretar restritivamente os pressupostos consignados na Lei Processual, fazendo-se mister a configuração empírica dos referidos requisitos, sendo que razões outras desprovidas de cunho acautelatório não podem ser utilizadas para a imposição da medida constritiva.
+7. Paciente que é tido como membro de um intricado esquema criminoso de tráfico internacional de drogas formado por 4 (quatro) organizações criminosas com células espalhadas por diversos Estados da Federação, responsáveis pela internação de cocaína proveniente da Bolívia.
+8. Evidenciada a gravidade concreta da conduta imputada ao paciente e a real possibilidade de reiteração delitiva, devendo ser ressaltada a sua reincidência específica, o que, "indica risco concreto da retomada das atividades ilícitas do grupo, se restabelecida a sua liberdade de locomoção" (e-STJ, fl. 953).
+9. As circunstâncias descritas nos autos corroboram a necessidade de mantença da segregação acautelatória do paciente, considerando a sua periculosidade e a real possibilidade de reiteração delitiva.
+10. A Suprema Corte tem entendimento pacificado no sentido de que "não há lógica em permitir que o réu, preso preventivamente durante toda a instrução criminal, aguarde em liberdade o trânsito em julgado da causa, se mantidos os motivos da segregação cautelar" (STF, HC n. 89.824/MS, Rel. Min. AYRES BRITTO, PRIMEIRA TURMA, DJe de 28/8/2008).
+11. Não há que se falar em constrangimento ilegal devido a excesso de prazo no julgamento da apelação por descaso injustificado do Juízo em virtude de se tratar de feito complexo com multiplicidade de envolvidos, 18 (dezoito) réus, com patronos distintos, cuja sentença condenatória conta com mais de duzentas laudas.
+12. Ordem não conhecida. Recomendação de imprimir maior celeridade no julgamento da apelação.
+(HC n. 338.293/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/4/2016 - grifo nosso).
+No caso dos autos, ao menos por ora, não se verifica nenhum elemento concreto apto a firmar o caráter transnacional do tráfico de drogas.
+Ora, apenas um dos investigados noticiou que a droga apreendida teria sido adquirida no Paraguai, sendo certo que tal versão carece de indício concreto apto a sustentá-la.
+Nesse sentido, estou de pleno acordo com as ponderações do Juízo suscitante (fl. 178):
+ ..
+De fato, apenas um dos 4 quatros réus declarou que a droga foi buscada no Paraguai, porém as versões dos demais flagranteados, tanto para polícia militar quanto perante o Delegado de Polícia, apontam apenas para viagem o Estado de Goiás com a finalidade de comprar enxoval de bebê.
+Ademais, nenhuma das testemunha ouvidas aventaram a possibilidade de tráfico internacional de drogas.
+Nesse sentido, corroboro com a decisão proferida pelo plantonista no que se refere à inexistência, neste momento, de elementos consistentes na transnacionalidade do crime, que é causa de aumento de pena prevista no inciso V do art. 40 da Lei n. 11.343/2006.
+ ..
+Logo, por ora, compete à Justiça estadual processar o inquérito.
+Ressalto, no entanto, que, se, no curso da investigação, surgirem novos elementos concretos que indiquem a prática de crime transnacional de competência federal, nada obsta o envio dos autos ao Juízo Federal.
+Ora, em sede de inquérito policial, o julgamento do conflito não implica decisão definitiva , pois a competência, nesse caso, é estabelecida considerando os indícios colhidos até a instauração do incidente, sendo possível que, no curso da investigação, surjam novos elementos que indiquem a necessidade de modificação da competência (EDcl no CC n. 161.123/SP, de minha relatoria, Terceira Seção, DJe 20/2/2019).
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar a competência do Juízo de Direito da Vara Criminal, da Infância e Juventude e de Execuções Penais de Iturama/MG, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. TRÁFICO DE DROGAS. INEXISTÊNCIA DE INDÍCIOS CONCRETOS DE TRANSNACIONALIDADE. COMPETÊNCIA, POR ORA, DA JUSTIÇA ESTADUAL, SEM PREJUÍZO DA POSSIBILIDADE DE MODIFICAÇÃO SUBSEQUENTE DA COMPETÊNCIA DECORRENTE DO ADVENTO DE NOVOS INDÍCIOS NO CURSO DA INVESTIGAÇÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência do Juízo de Direito da Vara Criminal, da Infância e Juventude e de Execuções Penais de Iturama/MG, o suscitado.
