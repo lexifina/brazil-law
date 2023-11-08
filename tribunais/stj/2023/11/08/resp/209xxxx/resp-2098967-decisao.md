@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo respectivo Tribunal de Justiça.
+Em suas razões recursais, o recorrente aponta violação do artigo 59 do Código Penal, ao argumento de que a personalidade e a conduta social do recorrido lhe seriam desfavoráveis, razão pela qual a sua pena deve ser redimensionada.
+Com contrarrazões (e-STJ, fls. 568-578), o recurso especial foi admitido na origem (e-STJ, fls. 588-602).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 614-625).
+É o relatório.
+Decido.
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+Para subsidiar este julgamento, vale destacar os seguintes trechos da sentença e do acórdão combatido:
+"Não raras as vezes, o morador de bem acaba por ser prejudicado, com a alteração de sua rotina diária, quando não tem sua vida ceifada, em meio a trocas de tiros. Aqui, então, a conduta social do réu ficou demonstrada como desregrada. Personalidade astuta e censurável, reiterando na prática de crimes." (e-STJ, fl. 182).
+"No tocante à personalidade e conduta social, tenho que a valoração negativa deve ser afastada.
+Entendo que a personalidade, assim como a conduta social, são vetores trazidos pelo art. 59 do Código Penal, cuja avaliação judicial, somente pode trazer valoração positiva a eles, diante de demonstração de personalidade altiva e de exemplar conduta perante a comunidade, sendo que, se assim não o for, tais vetores devem ser considerados neutros.
+A impossibilidade de aferir peso negativo a eles, decorre de análise comparativa com os demais vetores judiciais sendo que, nunca será possível definir parâmetros negativos para a personalidade sem que também sejam negativos seus antecedentes e, desta foram, não se poderia valorar em desfavor do réu, duas circunstâncias, pelo mesmo motivo, qual seja, sua vida pregressa.
+ ..
+A personalidade e a conduta social, nunca poderão ser valoradas negativamente, portanto, pois, ou não são atos ilícitos - e aí o sujeito adota a postura que bem entender -, ou são ilícitos e aí, poderão configurar maus antecedentes ou reincidência, mas nunca a valoração negativa da personalidade e conduta social, vetores que somente podem ter aferição positiva, se for o caso." (e-STJ, fls. 430-431).
+Como se vê, a Corte de origem afastou a consideração desfavorável da conduta social e da personalidade, ao fundamento de que tais vetoriais "nunca poderão ser valoradas negativamente" (e-STJ, fl. 431).
+Para fins do art. 59 do CP, a conduta social corresponde ao comportamento do réu no seu ambiente familiar e em sociedade, de modo que a sua valoração negativa exige concreta demonstração de desvio de natureza comportamental.
+Noutro giro, a personalidade do agente resulta da análise do seu perfil subjetivo, no que se refere a aspectos morais e psicológicos, para que se afira a existência de caráter voltado à prática de infrações penais, com base nos elementos probatórios dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado, independentemente de perícia.
+Dessa forma, ao contrário do que consta no acórdão recorrido, é possível a negativação dos vetores relativos à conduta social e à personalidade do agente, todavia, como bem ponderou o Ministério Público Federal em seu parecer, "No caso dos autos, infere-se que a negativação das vetoriais em comento havia sido realizada pelo magistrado de origem de forma equivocada, já que foi baseada apenas e exatamente no modo de vida no crime, tendo sido ressaltada a reiteração delitiva do réu" (e-STJ, fl. 623).
+Ocorre que, em atenção ao que dispõe a Súmula 444/STJ, inquéritos e processos penais em andamento, ou condenações ainda não transitadas em julgado, não podem ser negativamente valorados para fins de elevação da reprimenda-base, sob pena de malferimento ao princípio constitucional da presunção de não culpabilidade. A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. ART. 35 DA LEI Nº 11.343/06. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. REGIME MAIS GRAVOSO. LEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+ .. .
+3. É firme o entendimento deste Superior Tribunal de Justiça no sentido de que, em observância ao princípio da presunção da inocência, a existência de inquéritos policiais e/ou ações penais em andamento não constitui fundamentação idônea para afastar a pena-base do mínimo legal, seja a título de maus antecedentes, conduta social negativa ou personalidade. Incidência da Súmula 444/STJ. No presente caso, possuindo o acusado condenação transitada em julgado, não há qualquer ilegalidade no reconhecimento do desvalor dos antecedentes.
+ .. .
+11. Agravo regimental não provido".
+(AgRg no AREsp n. 2.338.824/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE. PLEITO DE NEGATIVAÇÃO DA CONDUTA SOCIAL. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE CONDENAÇÕES ANTERIORES COM TRÂNSITO EM JULGADO. INCIDÊNCIA DA SÚMULA N. 444/STJ.
+1. Para que fosse possível a análise da pretensão recursal, segundo a qual haveria elementos aptos a justificar a negativação da conduta social do ora agravado, no caso, seria imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+Precedente.
+2. "Consoante orientação sedimentada nesta Corte Superior, inquéritos policiais ou ações penais em andamento ou sem certificação do trânsito em julgado, ou mesmo condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ" (AgRg no AREsp 894.405/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/5/2016, DJe 13/6/2016).
+3. Agravo regimental desprovido".
+(AgRg no AREsp n. 1.954.849/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+In casu, a motivação adotada pelo Juiz sentenciante para valorar negativamente as referidas circunstâncias judiciais não se revelou idônea, além de inerente aos tipos penais, razão pela qual, por outros fundamentos, devem ser mantidas neutralizadas.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
