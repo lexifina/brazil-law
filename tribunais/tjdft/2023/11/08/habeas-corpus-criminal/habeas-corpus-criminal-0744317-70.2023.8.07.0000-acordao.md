@@ -1,0 +1,155 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Criminal
+Processo N.HABEAS CORPUS CRIMINAL 0744317-70.2023.8.07.0000PACIENTE(S)GUILHERME LOPES DE SOUZAIMPETRANTE(S)ANDERSON OLIVEIRA NUNESAUTORIDADE(S)JUÍZO DA VARA CRIMINAL DO PARANOARelatorDesembargador SANDOVAL OLIVEIRA
+ Acórdão Nº1782367
+
+EMENTA
+
+HABEAS CORPUS. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE ABSTRATA. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL. SUBSTITUIÇÃO POR OUTRAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. POSSIBILIDADE. ORDEM CONCEDIDA.
+
+1.Trata-se de Habeas Corpus impetrado em favor de paciente denunciado pela suposta prática dos delitos previstos nos artigos 351, §§ 1º e 2º, 129, caput, c/c 129, § 12º (por três vezes) e 331 (por três vezes), todos do Código Penal.
+
+2. São pressupostos para a decretação da prisão preventiva o fumus comissi delicti – consubstanciado na prova da materialidade delitiva e nos indícios suficientes da autoria – e o periculum libertatis – perigo gerado pelo estado de liberdade, decorrente de risco atrelado à ordem pública, à ordem econômica, à conveniência da instrução criminal ou à aplicação da lei penal (art. 312 do Código de Processo Penal). Trata-se de medida excepcional, que somente deve ser admitida quando não for cabível a sua substituição por outra providência cautelar, o que deve ser justificado de forma fundamentada, com base nos elementos do caso concreto (art. 282, § 6º, do CPP).
+
+3. Embora possível a decretação da prisão preventiva na hipótese dos delitos imputados ao paciente, não se verifica, na decisão impugnada, fundamentação idônea apta a justificar a segregação, tampouco a impossibilitar a substituição por medida cautelar diversa.
+
+4. Ordem concedida. Liminar confirmada.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, SANDOVAL OLIVEIRA - Relator, DEMÉTRIUS GOMES CAVALCANTI - 1º Vogal e NILSONI DE FREITAS CUSTODIO - 2º Vogal, sob a Presidência do Senhor Desembargador SANDOVAL OLIVEIRA, em proferir a seguinte decisão: CONHECIDO. CONCEDIDA A ORDEM. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 16 de Novembro de 2023
+
+Desembargador SANDOVAL OLIVEIRAPresidente e Relator
+
+RELATÓRIO
+
+Cuida-se de Habeas Corpus, com pedido liminar, impetrado por ANDERSON OLIVEIRA NUNES em favor de GUILHERME LOPES DE SOUZA, visando revogar prisão preventiva e o deferimento de imediata soltura.
+
+Narra haver sido o paciente preso em flagrante em 12/10/2023 pela suposta prática dos delitos previstos nos artigos 129, § 12, 330, caput, 331, caput e 351, §1º, todos do Código Penal (lesão corporal, desobediência, desacato e facilitação de fuga de pessoa presa), cuja custódia foi convertida em preventiva na audiência para a garantia da ordem pública.
+
+Assevera ser indispensável para a decretação da preventiva além do fumus comissi delicti, o periculum libertatis. Aduz não ter a autoridade coatora identificado de forma concreta qual a situação específica a justificar a custódia cautelar do paciente. Alega inexistir indícios de que o acusado, em liberdade, coloque em risco a instrução criminal, a ordem pública ou econômica.
+
+Sustenta a ocorrência de constrangimento ilegal, devendo ser revogada a prisão do paciente, com imposição de medidas diversas, mormente por ser primário, possuir bons antecedentes, residência fixa e emprego lícito. Tece considerações no sentido de não poder ser considerado como antecedente criminal a simples existência de inquéritos policiais ou processos criminais sem trânsito em julgado.
+
+Com tais argumentos, pugna a revogação da preventiva para que seja o paciente, de imediato, colocado em liberdade. Não havendo pedido liminar, solicitei informações e após, a manifestação da douta Procuradoria de Justiça (ID 52508218).
+
+Informações prestadas no ID 52622931.
+
+Parecer da Procuradoria de Justiça pelo conhecimento e denegação da ordem - ID 52706611.
+
+Petição de ID 52918948, pela qual o impetrante adita a inicial e pleiteia a concessão liminar da ordem.
+
+Liminar concedida para deferir ao paciente o benefício da liberdade provisória, mediante termo de compromisso de comparecimento a todos os atos do processo, proibição de ausentar-se do Distrito Federal por mais de 30 dias e manutenção de endereço atualizado (ID 52935161).
+
+Expedido o alvará de soltura em favor do paciente (ID 52970124).
+
+Informações prestadas sob ID 53021284.
+
+Parecer da 10ª Procuradoria de Justiça Criminal mantendo o posicionamento pela denegação da ordem (ID 53021398).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador SANDOVAL OLIVEIRA - Relator
+Conheço da ação constitucional, pois presentes os requisitos legais de sua admissibilidade.
+
+Cuida-se de habeas corpus, com pedido liminar, visando a revogação da prisão preventiva.
+
+SÍNTESE PROCESSUAL
+
+Depreende-se dos autos de origem (n. 0706170-48.2023.8.07.0008) haver sido o paciente e outros indivíduos presos em flagrante pela suposta prática dos delitos previstos nos artigos 129, § 12, 330, caput, 331, caput e 351, § 1º todos do Código Penal.
+
+Realizada a audiência de custódia, o Juízo a quo não constatou qualquer ilegalidade e, quanto a dois indiciados, Iago Araújo Almeida e Lucas Beltrão da Silva, concedeu-lhes a liberdade provisória.
+
+No entanto, quanto ao paciente e ao corréu Adrian Araújo Almeida, o auto de prisão em flagrante foi homologado e a prisão convertida em preventiva, sob os seguintes fundamentos (ID 142440014):
+
+“4. Da necessidade e de conversão do flagrante em prisão preventiva em desfavor de Guilherme Lopes e de Adrian Araújo.
+
+No caso em análise, após os relatos das testemunhas, constantes nos autos e analisando os elementos concretos existentes nestes autos, entendo que emergem fundamentos concretos para a manutenção da prisão cautelar dos autuados.
+
+Registro que a soma das penas dos delitos imputados aos autuados supera 4 anos, conforme art. 313, I, do CPP.
+
+No mais, consta registro de passagem recente do autuado Guilherme por este Núcleo de Custódia pelo delito previsto no art. 16, §1º, IV, da Lei 10.826/03, o que demonstra, indiciariamente, que o autuado já caminha pela jornada delitiva.
+
+Ademais, no presente caso, o autuado Guilherme entrou em luta corporal contra Policiais Militares com o objetivo de promover a fuga do autuado Iago. Não bastasse, Guilherme desferiu socos e chutes nos policiais, ocasião em que também os desacatou. A conduta é grave e demonstra enorme desrespeito pela ordem pública, pois, mesmo diante de Policiais Militares no exercício da função, o autuado não se intimidou ao tentar auxiliar a fuga de Iago, desferindo socos e chutes nos Policiais, que precisaram de uso moderado da força para contê-lo.
+
+Quanto ao autuado Adrian, sua conduta também revela gravidade extrema e profundo desrespeito pelas instituições e pelas leis. Segundo consta, Adrian, a fim de auxiliar na fuga de Iago, desferiu um golpe de pedra na cabeça de dos policiais, que, com a pancada, caiu ao solo. Consta, ainda, que Adrian teria desferido socos e chutes contra outro policial, bem como teria tentado tomar a arma de um terceiro policial, conduta extremamente grave e que merece pronta resposta estatal, sob pena de se deixar desguarnecida a ordem pública. O ímpeto do autuado de tentar tomar a arma das mãos de um policial em serviço é preocupante e demonstra, sem dúvidas, que sua liberdade impõe grave risco à sociedade, tendo em vista seu destemor e sua audácia.
+
+Na hipótese em tela, presente ao menos uma das condições previstas no art. 313, do CPP. A regular situação de flagrância em que foi surpreendido o autuado torna certa a materialidade delitiva, indiciando suficientemente também sua autoria, ambas mencionadas nos relatos colhidos neste auto de prisão.
+
+No tocante aos pressupostos da prisão provisória, encontram amparo na necessidade de se acautelar a ordem pública. A garantia da ordem pública, além de visar impedir a prática de outros delitos, busca também assegurar o meio social e a própria credibilidade dada pela população ao Poder Judiciário.
+
+No presente caso, os fatos acima evidenciam a periculosidade e caracteriza situação de acentuado risco à incolumidade pública, suficientes para justificar a segregação cautelar como medida necessária e adequada para contenção de seu ímpeto delitivo, não se mostrando suficiente a imposição de nenhuma das medidas cautelares admitidas em lei.
+
+Por fim, diante dos fundamentos supracitados, incabíveis as medidas cautelares previstas no art. 319 do CPP, em atenção do disposto no art. 282, §6º do Estatuto Processual Penal em substituição à segregação cautelar” (grifos acrescidos).
+
+A Promotoria de Justiça Criminal, na denúncia sob ID 176336908- origem, imputa ao paciente a prática dos crimes previstos nos artigos 351, §§ 1º e 2º, 129, caput, c/c 129, § 12º (por três vezes) e 331 (por três vezes), todos do Código Penal.
+
+MÉRITO
+
+O impetrante alega, em síntese, não ter a autoridade coatora identificado de forma concreta qual a situação específica a justificar a custódia cautelar do paciente. Sustenta a ocorrência de constrangimento ilegal, mormente por ser primário, possuir bons antecedentes, residência fixa e emprego lícito.
+
+Da análise detida dos autos, observo razão assistir ao impetrante, pois, de fato, deixo de vislumbrar a presença de pressupostos capazes de lastrear a segregação cautelar.
+
+Conforme a Ocorrência nº 9212/2023-6ª DP (ID 175081508 - origem), no dia 12/10/2023, policiais militares realizavam patrulhamento de rotina em via pública quando passaram por três indivíduos, dentre eles o indiciado Iago, o qual disse a um dos soldados: “está olhando o que, desgraça?”. Diante do desacato, pararam a viatura e deram voz de prisão a Iago, que desobedeceu à ordem, tendo sido necessário o uso moderado da força para contê-lo e algemá-lo.
+
+Na sequência, consta que vários populares, incluindo o paciente, avançaram para cima da guarnição e entraram em luta corporal com os militares, no intuito de retirar Iago da custódia da Polícia Militar, o qual conseguiu fugir. Os policiais, em seus depoimentos, afirmam que Guilherme desferiu socos e chutes e os desacatou. Após uso moderado da força, os agentes imobilizaram e algemaram o paciente, o qual entrou sem resistência na viatura.
+
+Ato contínuo, seguiu-se na busca de três indivíduos (Adrian, Iago e Lucas), os quais haviam fugido do local, tendo os policiais os localizado na residência de Adrian, momento no qual Lucas foi imediatamente algemado. Adrian e Iago, por sua vez, estavam no último andar do prédio e desobedeceram às ordens de se entregarem. Iniciou-se nova luta corporal, que findou com o algemamento dos dois após o uso de moderada força
+
+Conforme o disposto no art. 312 do Código de Processo Penal, a prisão preventiva pode ser decretada sempre que houver prova da existência do crime e indícios suficientes de autoria, quando presente o periculum libertatis, consistente na garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+
+Trata-se de medida excepcional, somente admitida quando não for cabível a sua substituição por outra providência cautelar, a ser justificado de forma fundamentada, com base nos elementos do caso concreto, conforme art. 282, § 6º, do CPP.
+
+Inicialmente, quanto à prova da existência do crime e de indícios suficientes de autoria, verifico a presença de tais pressupostos demonstrados pelo Auto de Prisão em Flagrante n. 1804/2023-06ª DP, Ocorrência Policial nº 9212/2023-06ª DP, Relatório Final da Polícia Civil e pelos termos da denúncia.
+
+Por outro lado, no tocante ao periculum libertatis, a despeito de a autoridade judiciária se referir à necessidade de garantia da ordem pública, a decisão proferida na audiência de custódia, limita-se a consignar a possível reiteração criminosa do paciente, a necessidade de assegurar o meio social e a própria credibilidade dada pela população ao Poder Judiciário. Confira:
+
+“(...) o autuado Guilherme entrou em luta corporal contra Policiais Militares com o objetivo de promover a fuga do autuado Iago. Não bastasse, Guilherme desferiu socos e chutes nos policiais, ocasião em que também os desacatou. A conduta é grave e demonstra enorme desrespeito pela ordem pública, pois, mesmo diante de Policiais Militares no exercício da função, o autuado não se intimidou ao tentar auxiliar a fuga de Iago, desferindo socos e chutes nos Policiais, que precisaram de uso moderado da força para contê-lo.
+
+(...)
+
+Na hipótese em tela, presente ao menos uma das condições previstas no art. 313, do CPP. A regular situação de flagrância em que foi surpreendido o autuado torna certa a materialidade delitiva, indiciando suficientemente também sua autoria, ambas mencionadas nos relatos colhidos neste auto de prisão.
+
+No tocante aos pressupostos da prisão provisória, encontram amparo na necessidade de se acautelar a ordem pública. A garantia da ordem pública, além de visar impedir a prática de outros delitos, busca também assegurar o meio social e a própria credibilidade dada pela população ao Poder Judiciário”.
+
+Malgrado tenha sido informado que o paciente desferiu socos e chutes contra os policiais, não há nos autos, até o presente momento processual, comprovação dos referidos fatos, pois consta apenas foto de um policial com pequenas escoriações nas mãos, rosto e um arranhão no pescoço (ID 175727581, págs. 41/45) e, conforme as declarações contidas nos autos, houve uma briga generalizada, envolvendo vários policiais e populares.
+
+Por outro lado, o paciente ostenta condições pessoais favoráveis, porquanto possui residência fixa (ID 52441858) e exerce a profissão regular - motoboy (ID 52441857). Ademais, em sua única passagem, por porte de arma (autos n. 0702842-08.2022.8.07.0021), foi celebrado Acordo de Não Persecução Penal, por serem o paciente e os demais envolvidos na conduta tecnicamente primários, inexistindo indícios de conduta criminal habitual, reiterada ou profissional.
+
+Dessa forma, embora possível a decretação da prisão preventiva na hipótese dos delitos imputados ao paciente, não se verifica, na decisão impugnada, fundamentação idônea apta justificar a segregação, tampouco a impossibilitar a substituição por medida cautelar diversa.
+
+Nesse contexto, considerando-se ser a prisão a ultima ratio e, ante a inexistência de fundamentação idônea na decisão impugnada para justificar a segregação cautelar do paciente, resta configurado constrangimento ilegal.
+
+Por oportuno, confira-se o entendimento desta Corte:
+
+“HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. RÉU PRIMÁRIO E PORTADOR DE BONS ANTECEDENTES. FAMÍLIA CONSTITUÍDA E TRABALHO LÍCITO. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. NÃO INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA REVOGADA. APLICADAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. ORDEM CONCEDIDA.
+
+1. Não obstante a autoridade coatora entender presente o periculum libertatis, verifica-se que a situação fática espelha um contexto desmoderado para fins de prisão cautelar, considerando a excepcionalidade da medida. Isso porque, é possível verificar que o paciente possui 42 anos de idade, sempre exerceu atividade laborativa regular, busca qualificações profissionais, além de possuir endereço fixo e sabido.
+
+2. A princípio, o fato narrado no auto de prisão em flagrante é uma circunstância isolada na vida do paciente, não restando, até o momento, demonstrado que a prisão seja uma medida necessária para cessar o seu ímpeto delitivo, até porque não vejo uma possível reiteração criminal no caso.
+
+3. Sopesando o requisito da garantia da ordem pública com o primado constitucional da liberdade, tem-se que é possível a revogação da prisão preventiva com a substituição por outras medidas cautelares diversas da prisão.
+
+4. Concedida a liberdade definitiva ao paciente, se por outro motivo não estiver preso, mediante compromisso de cumprir as medidas cautelares alternativas à prisão, sem prejuízo de que o Juízo a quo modifique ou acrescente outras medidas cautelares que entender adequadas ao caso.
+
+5. ORDEM CONCEDIDA para substituir a prisão preventiva por outras medidas cautelares diversas da prisão. (Acórdão 1644649, 07336514420228070000, Relator: ROBSON BARBOSA DE AZEVEDO, 2ª Turma Criminal, data de julgamento: 24/11/2022, publicado no PJe: 6/12/2022. Pág.: Sem Página Cadastrada.) (grifo acrescido)
+
+Assim, deve ser concedida a liberdade provisória, sem prejuízo de imposição de medidas cautelares alternativas à prisão, nos termos do art. 319 do Código de Processo Penal.
+
+DISPOSITIVO
+
+Ante o exposto, CONCEDO A ORDEM, para conceder liberdade provisória a GUILHERME LOPES DE SOUZA, se por outro motivo não estiver preso, independentemente do pagamento da fiança, impondo-lhe as seguintes medidas cautelares diversas da prisão: I - comparecimento a todos os atos do processo; II - proibição de ausentar-se do Distrito Federal por mais de 30 (trinta) dias, a não ser autorizado pelo Juízo processante e III – e proibição de mudança de endereço sem comunicação do Juízo, sob pena de revogação, sem prejuízo da adoção de outras medidas cautelares que o juízo de origem entender cabíveis, confirmando a liminar concedida.
+
+É como voto.
+
+O Senhor Desembargador DEMÉTRIUS GOMES CAVALCANTI - 1º Vogal Com o relatorA Senhora Desembargadora NILSONI DE FREITAS CUSTODIO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. CONCEDIDA A ORDEM. UNÂNIME.
