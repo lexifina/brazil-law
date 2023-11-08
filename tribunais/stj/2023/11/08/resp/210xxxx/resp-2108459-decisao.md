@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL contra acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 25.039e):
+TRIBUTÁRIO. IRPJ E CSLL SOBRE A TAXA SELIC. NÃO INCIDÊNCIA. REPETIÇÃO DE INDÉBITO. ARGUIÇÃO DE INCONSTITUCIONALIDADE Nº 5025380-97.2014.4.04.0000. CORTE ESPECIAL DO TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO - TRF-4. TEMA 962 DO STF. MODULAÇÃO DOS EFEITOS. NÃO APLICAÇÃO AO CASO CONCRETO. AÇÃO AJUIZADA ATÉ A DATA DO INÍCIO DO JULGAMENTO DO MÉRITO PELO STF.
+1. A Corte Especial do Tribunal Regional da 4ª Região, no julgamento do Incidente de Arguição de Inconstitucionalidade nº 5025380- 97.2014.404.0000, declarou a inconstitucionalidade parcial, sem redução de texto, do § 1º do art. 3º da Lei nº 7.713/88, do art. 17 do Decreto-Lei nº 1.598/77, e do art. 43, inc. II e § 1º, do CTN (Lei nº 5.172/66), de forma a afastar da incidência do imposto de renda (IR) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC recebida pelo contribuinte na repetição de indébito, estando os desembargadores federais deste Tribunal vinculados à decisão proferida pela Corte Especial.
+2. Recentemente o STF julgou o Tema 962 decidindo: "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário".
+3. Não se aplica a modulação de efeitos determinada pelo STF nas ações ajuizadas até 17/9/21 (data do início do julgamento do mérito do Recurso Extraordinário nº 1063187/SC - Tema 962).
+Opostos embargos de declaração, foram rejeitados (fls. 25.081/25.088e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, A inadequação da via do mandado de segurança para assegurar o direito à restituição administrativa.
+Com contrarrazões, o recurso foi admitido..
+O Ministério Público Federal manifestou-se às fls. 25.214/25.217e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Não desconheço o entendimento desta Corte segundo o qual o mandado de segurança é via adequada para declarar o direito à compensação tributária, bem como à restituição administrativa, revelando-se incabível a utilização da via do precatório, sob pena de conferir a vedada natureza de ação de cobrança ao mandamus.
+Entretanto, o Supremo Tribunal Federal, reafirmando tese de caráter vinculante, sob a sistemática da Repercussão Geral, compreendeu que a restituição administrativa fere o regime dos precatórios.
+Assim, na via do mandado de segurança é cabível a restituição do indébito tributário exclusivamente mediante compensação.
+Nesse cenário, impõe-se o provimento do recurso especial para, reformando o acórdão recorrido, afastar o direito à restituição administrativa, mantendo-se a adequação da via do mandado de segurança, tão somente, para declarar o direito à compensação.
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO E DOU PROVIMENTO ao recurso especial, nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
