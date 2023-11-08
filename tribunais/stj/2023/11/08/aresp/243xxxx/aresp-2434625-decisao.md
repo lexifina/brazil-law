@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANTONIO MARCIO RAGNI DE CASTRO LEITE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EMBARGOS A EXECUÇÃO. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELAÇÃO DESPROVIDA. INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA. DOLO. ERRO. COAÇÃO. AUSÊNCIA DE PROVA. VALIDADE DO TÍTULO EXECUTIVO RECONHECIDA.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 157 e 884 do CC, no que concerne à ocorrência da lesão e à pretensão do recorrido de enriquecer-se sem causa, trazendo a seguinte argumentação:
+Nesta ordem de ideias é que se verifica a ocorrência de vício do consentimento, para além da clarividente pretensão do recorrido de enriquecer-se sem causa.
+Isto porque, d. Julgadores, a lesão, nos termos do artigo 157 do Código Civil, se caracteriza a partir de dois requisitos: a desproporcionalidade entre o valor pago e a prestação (requisito objetivo) e a necessidade ou inexperiência do contratante (requisito subjetivo).
+ ..
+No caso concreto, se vislumbra os dois requisitos, bem como, nas palavras do citado doutrinador, a  exploração usurária de um contratante por outro .
+Isto porque, o recorrente se submeteu à confissão de dívida cujo valor ali anotado é 12 (doze) vezes maior que o débito original. O valor original constante no instrumento de compra e venda era de R$ 25.000,00 (fls. 37). Porém, no instrumento, passou a constar o valor de R$ 300.000,00.
+De outro lado, o requisito subjetivo se revela à medida que o recorrente se encontrava temeroso em relação à ação penal que havia contra si e, por isso, para evitar o prosseguimento daquele feito concordou em celebrar o negócio em questão.
+ ..
+Não fosse suficiente todo o alegado, d. Ministros, o excessivo valor do instrumento de confissão de dívida culmina em verdadeira pretensão de enriquecimento sem causa do recorrido, embora seja expressa a vedação do artigo 884 do Código Civil.
+Isto porque, não há nada nos autos que revele qualquer motivo para a fixação de indenizações  por danos que nem sequer se saber quais são  em valor doze vezes maior que o original (fls. 664-665).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, no que concerne à alegação de violação do art. 884 do CC e pretensão de enriquecimento sem causa pela parte recorrida, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Terceiro, também não se verificaram outros vícios de consentimento, em especial dolo, erro, lesão ou estado de necessidade.
+ ..
+Também não se cogita de lesão ou estado de necessidade. O embargante não provou a desproporcionalidade das obrigações assumidas pelas partes. E houve ajuste de valor com a procedência parcial dos embargos.
+O conjunto probatório indicou verdadeira situação de arrependimento pelo embargante. Nada mais do que isso (fls. 653-655).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
