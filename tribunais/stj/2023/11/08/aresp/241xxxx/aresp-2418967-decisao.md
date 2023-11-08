@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto por EQUATORIAL PARÁ DISTRIBUIDORA DE ENERGIA S.A, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, conforme a seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E LUCROSCESSANTES. ROMPIMENTO DE CABO DDE ALTA-TENSÃO. ENERGIA ELÉTRICA. CONCESSIONÁRIA. RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO ADMINISTRATIVO. FORÇA MAIOR. INOCORRÊNCIA. DEVER DE MANUTENÇÃO DA ESTRUTURA. DANOS MATERIAIS. PERECIMENTO DESEMOVENTES. DANOS MORAIS. OCORRÊNCIA. DESCASO COM O CONSUMIDOR. LUCROSCESSANTES CONFIGURADOS. SENTENÇA PARCIALMENTE REFORMADA.
+1. A responsabilidade da concessionária de energia elétrica é interpretada de forma objetiva, cabendo-lhe o ônus de adotar medidas de segurança e vigilância para evitar acidentes. (..) (STJ, Terceira Turma, AgRg noAgRg no REsp 1483628/MT, Rel. Ministro Moura Ribeiro, DJe 26/03/2015).
+2. A concessionária não se desincumbiu do ônus de provar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, conforme depreende-se do art. 373, inc. II do Código de Processo Civil, restringindo-se em alegar suposta responsabilidade subjetiva, o que não procede.
+3. Medindo-se a indenização pela extensão dos danos (art. 944/CC), deve a concessionária ser condenada pela integralidade dos semoventes que pereceram em decorrência de choque elétrico pelo rompimento de cabo de alta tensão.
+4. Tendo o cabo de alta-tensão rompido e ceifado os animais que ali pastavam, alinhado com o descaso promovido pela concessionária em sequer responder o pleito administrativo de ressarcimento de danos por 02(dois) anos, deve a concessionária ser condenada ao pagamento de danos morais pelos prejuízos sofridos.
+5. Conforme sedimentou o Colendo Superior Tribunal de Justiça, "para configuração dos lucros cessantes, não basta simples de realização do lucro, mas, sim, uma probabilidade objetiva e circunstâncias concretas de que estes teriam se verificado sem a interferência do evento danoso, sempre observado o postulado da razoabilidade" (REsp nº 1.655.090/MA, Min. Ricardo Villas Bôas, DJe 10/04/2017), o que no caso têm-se evidenciado elementos concretos de ocorrência de lucros cessantes, devendo ser apurado em fase de liquidação de sentença, nos termos do art. 509 do Código de Processo Civil.
+PRIMEIRA APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SEGUNDA APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA PARCIALMENTE REFORMADA.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a agravante alega afronta aos arts. 14, § 3º, do CDC, sustentando a ocorrência de culpa exclusiva da parte agravada, como excludente de responsabilidade pelas perdas materiais. Assevera (e-STJ, fl. 701):
+40. O acórdão fustigado deixou de considerar a parcela de culpa do Recorrido que, diga-se de passagem, é a única causa do acidente, considerando que caso respeitado o distanciamento da faixa de segurança da zona de servidão da linha de passagem, ainda que tivesse ocorrido o rompimento de qualquer cabeamento, nenhum semovente seria atingido e o resultado morte não teria ocorrido.
+41. Oportuno dizer que tal conclusão depreende-se das premissas fixadas no acórdão, tratando-se de revaloração da prova, o que é plenamente admissível via Recurso Especial.
+42.É visível, portanto, o fato de que o acórdão atacado afronta o artigo 14, § 3º, do CDC e nega vigência ao artigo 945 do CC ao não reconhecer a alegação de causa excludente de responsabilidade para o caso dos autos ou, no mínimo, culpa concorrente quando demonstrado que o Recorrido não obedeceu a faixa de segurança da servidão.
+Afirma ainda ter havido ofensa aos arts. 402 do CC/2002 e 492 do CPC/2015, insurgindo-se contra a determinação de liquidação para a apuração dos lucros cessantes, sob pena de julgamento além do pedido. Destaca (e-STJ, fls. 704/706):
+50. Um passo adiante, de se dizer que a condenação em lucros cessantes trouxe afronta ao artigo 492 do CPC vez que a forma de decidir do acordão aponta manifesto error in judicando.
+51. De fato, não houve pedido do Recorrido para apuração de eventuais lucros cessantes em liquidação de sentença e tal nem poderia existir visto que os lucros cessantes, para serem deferidos, devem ser efetivamente comprovados nos autos.
+(..)
+57. A bem da verdade, ao assim agir -determinar a apuração de eventuais lucros cessantes em liquidação de sentença -, para além do julgamento ultra petita, está o acórdão a conceder ao Recorrido chance para a comprovação dos lucros cessantes em momento posterior, o que é vedado pela legislação pátria e pela reiterada jurisprudência.
+58. Não se pode presumir que os animais vitimados no acidente narrado na exordial integravam a alegada produção leiteira, tampouco restou delimitada a eventual produção de cada animal.
+59. Assim, tem-se que a condenação em lucros cessantes é pautada em dano certo e determinado, sendo inadmissível pretensão indenizatória embasado em dano hipotético e incerto, ao fixar a valoração de tal dano para fase de liquidação de sentença, o que sequer fora objeto de pedido formulado na exordial, malfere os artigos 402 do Código Civil e 492 do Código de Processo Civil, o que enseja a reforma do acórdão fustigado.
+Foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso especial por óbice da Súmula n. 7/STJ.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+Passo a decidir.
+Presentes o requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+A pretensão não merece prosperar.
+Sobre a alegação de excludente de responsabilidade da agravada, o Tribunal de origem assim se manifestou (e-STJ, fls. 676/677):
+Primeiro, é bom registrar que a alegação de faixa de segurança na zona de servidão da linha de transmissão somente foi arguida em sede recursal, não tendo sido essa matéria ventilada em sede de contestação.
+Segundo, observo também que sequer foi indicado dispositivo legal ou infralegal que ampare a alegação de faixa de segurança de servidão, restringindo a concessionária a discorrer sobre sua existência mas sem comprovação.
+Por fim, ainda que existisse tal mandamento infralegal, registro que a responsabilidade da concessionária é objetiva, isto é, independe de dolo ou culpa, incindindo a teoria do risco administrativo, seja porque a ela aplica-se o disposto no art. 37, §6º da Constituição Federal, seja pois também é aplicável as regras consumeristas e, neste último, foi consagrado a "efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos (art. 6º, VI, CDC)"
+Assim, é garantia constitucional e infraconstitucional a efetiva e integral reparação, não podendo norma infralegal limitar esse direto.
+Das razões do recurso especial, observa-se não terem sido impugnados os fundamento do acórdão recorrido quanto à inexistência de apresentação da questão em recurso de apelação e a inexistência de fundamento legal nas razões recursais, a justificar a alegação de falta de observação dos limites da faixa de segurança de servidão.
+Nesses termos, seja pela apresentação de razões dissociadas da fundamentação do acórdão recorrido, seja pela falta de objetiva impugnação ao fundamento central nele utilizado, as Súmulas 284 e 283 do STF, aqui aplicáveis por analogia, impede o conhecimento do recurso especial.
+Sobre a necessidade de liquidação de sentença para apuração dos lucros cessantes, o Tribunal de origem consignou (e-STJ, fls. 677/678 ):
+Ao propor a presente demanda, ressai que o autor formulou pedido de lucros cessantes, discorrendo que teve sua renda comprometida pelo perecimento de 11 (onze) vacas de alta produção de leite.
+Para tanto, esclareceu cada produzia, em média, 20 (vinte) litros por dia. Além disso, no evento n. 27, constata-se que foram juntadas várias notas fiscais que comprovam que, de fato, o autor era produtor de leite.
+Nesta esteira, alinhado com os laudos periciais que aferiram que se tratam de animais especiais que produzem leite, não há dúvidas que é devida a apuração de lucros cessantes, os quais devem levar em consideração aquilo constado no acórdão.
+(..)
+Não houve julgamento ultra petita, mas tão somente admitiu-se que o valor dos lucros cessantes fossem apurados em fase de liquidação de sentença (art. 509/CPC) dada a sua complexidade (necessidade de acostar todas as notas fiscais do período), levando-se em consideração os esclarecimentos do acórdão.
+A modificação das conclusões do acórdão recorrido a fim de afastar a necessidade de liquidação de sentença para delimitação dos lucros cessantes, nos moldes definidos pela Corte local, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL E ADMINSTRATIVO. AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ENERGIA ELÉTRICA. DESCARGA DE ENERGIA ELÉTRICA. DANOS MATERIAS. CULPA DO CONSUMIDOR. FUNDAMENTO NÃO IMPUGNADO. LUCROS CESSANTES. LIQUIDAÇÃO DE SENTENÇA. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
