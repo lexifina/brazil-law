@@ -1,0 +1,93 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001686-96.2021.8.08.0004
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO DO BRASIL SA e outros
+RECORRIDO: BRB BANCO DE BRASILIA AS e outros (3)
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+Recurso Inominado nº 5001686-96.2021.8.08.0004
+
+Recorrentes: BRB BANCO DE BRASILIA SA, BANCO DO BRASIL S/A
+
+Recorrido: GIOBERG CARVALHO DOS SANTOS
+
+V O T O S
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON – RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recursos conhecidos por preencherem os pressupostos de admissibilidade.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSOS INOMINADOS DAS INSTITUIÇÕES FINANCEIRAS. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C OBRIGAÇÃO DE FAZER. ABERTURA DE CONTA BANCÁRIA POR TERCEIRO ESTELIONATÁRIO NA INSTITUIÇÃO FINANCEIRA
+BRB BANCO DE BRASILIA. DÍVIDA CONTRAÍDA EM NOME DO AUTOR DA QUAL DECORREU NEGATIVAÇÃO INDEVIDA EM SEU NOME
+.
+
+RECORRENTE
+BRB BANCO DE BRASILIA
+QUE NÃO CONSEGUIU AFASTAR OS FATOS CONSTITUTIVOS DO DIREITO DO RECORRIDO, NÃO COMPROVANDO A RELAÇÃO CONTRATUAL EXISTENTE ENTRE AS PARTES, DE FORMA QUE, AO FAZER PARTE DA RELAÇÃO DE CONSUMO, ENCONTRA-SE COMO RESPONSÁVEL. RISCO DO NEGÓCIO INERENTE À MODALIDADE DE PACTUAÇÃO, INTRÍNSECO AO MODELO DE NEGÓCIOS E QUE, POR ISSO, EQUIVALE AO FORTUITO INTERNO. DANO MORAL CARACTERIZADO.
+SENTENÇA OBJURGADA QUE CONDENOU O BANCO BRB BANCO DE BRASILIA AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO IMPORTE DE R$ 8.000,00 (OITO MIL REAIS). ENCONTRA-SE SEDIMENTADO NA JURISPRUDÊNCIA DE QUE A NEGATIVAÇÃO INDEVIDA GERA DANO
+IN RE IPSA
+, SOMADO AO FATO DE QUE A NEGATIVAÇÃO GEROU A RESTRIÇÃO DE CRÉDITO JUNTO AO BANCO DO BRASIL. NO TOCANTE AO
+QUANTUM
+INDENIZATÓRIO FIXADO PELO JUÍZO DE ORIGEM, ESTE ESTÁ CONDIZENTE COM AS ESPECIFICIDADES DO CASO E A EXTENSÃO DO DANO. PORTANTO, NÃO É CASO DE QUALQUER ALTERAÇÃO DA REFERIDA CONDENAÇÃO, DEVENDO SER MANTIDA A VERBA INDENIZATÓRIA POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DE RAZOABILIDADE E PROPORCIONALIDADE.
+
+QUANTO AO BANCO DO BRASIL, REFERIDA INSTITUIÇÃO FORA CONDENADA APENAS A EXCLUIR A RESTRIÇÃO DE CRÉDITO EM FAVOR DO CORRENTISTA. EMBORA ARGUMENTE O RECORRENTE QUE A RESTRIÇÃO DE CRÉDITO PODE ADVIR DE INÚMEROS FATORES, NOS AUTOS NÃO DEMONSTROU OUTRAS CIRCUNSTÂNCIAS ALÉM DA NEGATIVAÇÃO INDEVIDA PERPETRADA PELO BANCO BRB BANCO DE BRASILIA. ADEMAIS, NÃO SE OLVIDA A POSSIBILIDADE DE NEGAR O CRÉDITO AO CORRENTISTA POR FATORES DIVERSOS DAQUELES CONSTANTES NESTES AUTOS. OBRIGAÇÃO DE FAZER QUE DEVE SER MANTIDA.
+
+R
+ECURSOS CONHECIDOS, MAS IMPROVIDOS.
+S
+ENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46, DA LEI Nº 9099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF
+[1]
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55 DA LEI 9.099/95),
+CUSTAS PROCESSUAIS
+PRO RATA
+. CONDENAÇÃO DOS RECORRENTES AO PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CONDENAÇÃO.
+
+É como voto.
+
+Na sequência, assim se manifestaram os demais Julgadores:
+
+O Senhor Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA - Acompanho o voto do Relator.
+
+O Senhor Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO - Acompanho o voto do Relator.
+
+DECISÃO COLEGIADA
+
+Por maioria de votos,
+CONHECER
+dos recursos apresentados e lhes
+NEGAR
+
+PROVIMENTO
+, conforme voto do Eminente Relator.
+
+[1]
+ENUNCIADO 11: A SENTENÇA PODERÁ SER MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS, A TEOR DO QUE DISPÕE O ARTIGO 46 DA LEI 9099/95, SEM A NECESSIDADE DE NOVA FUNDAMENTAÇÃO JURÍDICA.
+
+Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
