@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por PORTONOVO EMPREENDIMENTOS & CONSTRUÇÕES LTDA - EM RECUPERAÇÃO JUDICIAL envolvendo o Juízo de Direito da 3ª Vara Cível de Cachoeirinha/RS, no qual se processa a recuperação judicial da suscitante (Processo n.º 086/1.16.0010021-5), e o Juízo da 13ª Vara do Trabalho de Porto Alegre/RS, onde tramita a Reclamação Trabalhista n.º 0021836-61.2017.5.04.0013, em fase de execução, movida por JORGE RODRIGUES ALVES.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista redirecionou, por meio do incidente de desconsideração da personalidade jurídica, a execução contra os bens dos sócios, nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem o processo de soerguimento. Cita, em favor de sua tese, julgados deste STJ.
+Requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Às fls. 82/84, este signatário indeferiu o pedido liminar.
+Sem informações (fls. 92), o MPF ofertou parecer no sentido do não conhecimento do incidente em voga. (fls. 94/98)
+É o relatório.
+Decisão.
+1. Nos termos da jurisprudência desta Corte Superior, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face de empresa a ele pertencente (ut. AgRg no CC 140.410/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 23/09/2015, DJe 01/10/2015)
+E ainda: EDcl no CC 100.592/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 25/08/2010, DJe 03/09/2010; AgInt no CC 157.741/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/08/2018, DJe 24/08/2018; AgInt no CC 145.697/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 09/11/2016, DJe 18/11/2016.
+Diante da jurisprudência supramencionada, e das decisões cujas cópias foram juntadas às fls. 52/60 (Juízo da Recuperação Judicial) e às fls. 21/22 (Justiça do Trabalho), observa-se que o juízo trabalhista deu ensejo ao incidente de desconsideração da personalidade jurídica e, por conseguinte, incluiu os sócios da ora requerente no polo passivo da execução, em linha com a orientação jurisprudencial supracitada.
+2. Do exposto, com fundamento no art. 955, parágrafo único, do CPC/15 c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
