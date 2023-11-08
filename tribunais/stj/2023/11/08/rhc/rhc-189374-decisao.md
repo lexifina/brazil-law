@@ -1,0 +1,13 @@
+DECISÃO
+JORGE HENRIQUE SOUZA GUIMARÃES alega sofrer coação ilegal em face de decisão monocrática proferida por Desembargador do Tribunal a quo, que não conheceu do habeas corpus lá impetrado, por vício em sua instrução.
+A impetrante se insurge contra a decisão que homologou o flagrante (14/4/2023) e decretou a prisão preventiva do paciente, por suspeita de tráfico de drogas e associação para tal fim. Assinala a falta de requisitos da medida extrema e a suficiência de cautelares do art. 319 do CPP. Busca a concessão de alvará de soltura.
+Decido.
+É manifestamente "incabível o recurso ordinário interposto contra decisão monocrática de Desembargador de Tribunal Estadual" (AgRg no RHC n. 131.322/RJ, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 25/8/2020, DJe de 31/8/2020).
+Ademais, a deficiência na fundamentação do reclamo não permite a compreensão da controvérsia, pois a defesa deixou de impugnar o único motivo para o não conhecimento do habeas corpus. O recorrente deve apontar de forma clara e objetiva as razões pelas quais discorda do ato judicial, demonstrando os pontos em que considera equivocado ou injusto o julgamento, o que não ocorreu.
+A estratégia da defesa de pleitear diretamente ao Superior Tribunal de Justiça a concessão da ordem, em vez de primeiro sanar o vício de instrução do habeas corpus, parece incompreensível, uma vez que a simples correção do erro inicial (juntada do decreto de prisão preventiva) poderia viabilizar a jurisdição ordinária.
+É incabível a concessão de ordem, de ofício, pois não se verifica ilegalidade na decisão do Desembargador. O habeas corpus deixou de ser conhecido, justificadamente, porque o impetrante "não juntou aos autos" a decisão do Juiz, apontada como ato coator, "revelando a ausência de documentação hábil à análise da ação constitucional" (fl. 45).
+Também no âmbito desta Corte "se firmou orientação segundo a qual constitui ônus da defesa instruir os autos com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento do mandamus" (AgRg no HC n. 738.059/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 26/8/2022).
+O controle de legalidade da decisão de primeiro grau deverá ser requerido ao Tribunal de Justiça, pois "falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz" (AgRg no HC n. 645.080/BA, Rel. Ministro Felix Fischer, 5ª T., DJe 19/3/2021.
+À vista do exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
