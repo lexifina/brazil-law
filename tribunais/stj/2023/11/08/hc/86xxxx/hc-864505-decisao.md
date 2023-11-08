@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DENIS MOREIRA DE MELO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2285441-28.2023.8.26.0000)
+O paciente foi condenado à pena de 5 anos de reclusão em regime fechado, além do pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006.
+A apelação interposta pela defesa foi parcialmente provida para fixar a pena de 4 anos e 2 meses de reclusão, em regime semiaberto, e ao pagamento de 416 dias-multa.
+A defesa alega: a) "o paciente foi preso no último dia 19 de outubro pelos policiais do 3ª Distrito Policial de São Bernardo do Campo e, em audiência de custódia (n. 0000974-75.2023.8.26.0537), foi mantida a sua ilegal prisão sob o argumento de que a revisão da necessidade da prisão seria apenas do juízo natural"; b) "verificada a disponibilidade da vaga no regime semiaberto, será o apenado intimado para iniciar o cumprimento da pena, neste caso, com possibilidade de expedição de mandado de prisão"; e c) "não está se estaria discutindo sequer se haveria estabelecimento prisional para o cumprimento da pena no semiaberto, uma vez que que ao invés de expedir a guia de recolhimento cabível para a espécie, a autoridade coatora, demonstrando total falta de conhecimento, determinou a expedição de mandado de prisão".
+Requer "liminarmente a imediata expedição de alvará de soltura e a consequente colocação do paciente Denis Moreira de Melo em liberdade até o julgamento do presente writ, em razão da expedição incorreta do mandado de prisão e seu cumprimento ilegal. outrossim, requer-se a vossas excelências, no mérito, a concessão do writ, tendo em vista que a decisão da autoridade coatora se baseou em Comunicado já revogado e superado pelo Comunicado CG nº 724/2023".
+É o relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 311-314):
+ ..  não se vislumbram presentes os requisitos legais para concessão da liminar, notadamente em razão da observância do MM Juízo a quo aos termos do supracitado comunicado, observado que o trânsito em julgado da sentença condenatória ocorreu em13 de junho de 2022, data anterior a 12 de setembro de 2022 (fl 202).
+Tais circunstâncias, a princípio, recomendam maior cautela na apreciação do pleito.
+Assim, impõe-se o regular processamento desta ação mandamental, para melhor apreciação do alegado, sempre observados os limites do presente remédio heroico.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, nos termos do art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
