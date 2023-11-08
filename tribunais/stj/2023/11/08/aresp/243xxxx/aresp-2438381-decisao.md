@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por FAZENDA DO ESTADO DE SÃO PAULO em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO AÇÃO DE PAGAMENTO DE ADICIONAL DE INSALUBRIDADE HONORÁRIOS PERICIAIS Interposição de agravo de instrumento contra a decisão que fixou os honorários periciais em R$ 1.000,00, bem como determinou a intimação da Fesp agravante a providenciar o depósito de sua parte dos honorários, observada a reserva da parte cabente à autora já efetivada nos autos. Inadmissibilidade recursal. Hipótese de interposição de agravo de instrumento não prevista no artigo 1.015 do CPC/2015. Rol taxativo Inaplicabilidade do Tema de Recurso Repetitivo nº 988 do Col. STJ Ausência de demonstração do requisito urgência. Precedentes desta Corte Recurso não conhecido.
+Os embargos de declaração opostos contra o acórdão a quo foram rejeitados.
+No especial, fundamentado no art. 105, III, "a", da CF/1988, a parte recorrente sustenta que
+merece reforma o acórdão recorrido, por ofensa ao comando do inciso II do § 3º do artigo 95 do CPC. Com efeito, a responsabilidade pelo custeio dos honorários periciais nas provas requeridas por beneficiário da justiça gratuita é do Fundo da Assistência Judiciária (FAJ) .
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Decido.
+O recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+A impugnação deve ser específica. Não se considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum objurgado (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+As razões recursais, em suma, não podem estar aquém do necessário para se chegar a uma conclusão contrária ao que decidido na Corte a quo - como ocorrido.
+É de inequívoca clareza a deficiência de fundamentação do recurso especial, pois estão as razões recursais, por falta de impugnação específica, aquém do necessário para se chegar a conclusão contrária ao juízo e às premissas jurídicas assentadas no acórdão objurgado, mormente de que "impossível o manejo do agravo de instrumento fora das hipóteses previstas no dispositivo legal  .. ".
+Impositiva, por consectário, a aplicação das Súmulas nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" - e nº 283/STF - "é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULAS Nº 283 E 284/STF. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
