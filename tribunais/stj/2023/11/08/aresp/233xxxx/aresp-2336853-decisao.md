@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍ contra decisão do respectivo Tribunal de Justiça, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. PRELIMINAR. INIMPUTABILIDADE. NÃO ACOLHIDA. PEDIDO DE ABSOLVIÇÃO. MATERIALIDADE E AUTORIA COMPROVADAS. DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI 11.343/2006. IMPOSSIBILIDADE. DOSIMETRIA. REDIMENSIONAMENTO DA PENA. AFASTADA A CIRCUNSTÂNCIA JUDICIAL DA CONDUTA SOCIAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. A imputabilidade, enquanto elemento da culpabilidade, deve ser traduzida como a capacidade de entendimento acerca do caráter ilícito do fato e de determinar-se conforme esse entendimento, sendo as dirimentes atestadas por meio de perícia médica elaborada em procedimento próprio, a qual o magistrado não se vincula. Preliminar rejeitada.
+2. O arcabouço probatório constante dos autos é suficiente para a condenação do apelante, uma vez que restou demonstrada a materialidade e a autoria do delito, sendo imperioso ressaltar que o tipo penal do art. 33 da Lei 11.343/2006 é crime de ação múltipla, que se consuma pela prática de qualquer um dos núcleos previstos no referido artigo.
+3. Inviável a desclassificação para o art. 28 da Lei 11.343/2006 quando as provas do processo demonstram a traficância. A condição de usuário não impede o cometimento do crime de tráfico.
+4. O tráfico de drogas, por ser crime de perigo abstrato, não se amolda à aplicação do princípio da insignificância, sendo irrelevante a quantidade de drogas confiscada para fins de verificação da tipicidade material da conduta.
+5. A apreensão de pequena quantidade de drogas, desprovida de qualquer alegação adicional quanto ao modo em que teria sido a prova obtida, em nada se relaciona com a temática da licitude das provas.
+6. Inquéritos e ações penais em curso não se prestam para exasperar a pena-base ao se analisar os vetores do art. 59 do Código Penal. Afastada a valoração negativa do vetor conduta social.
+7. Recurso conhecido e parcialmente provido." (e-STJ, fl. 340).
+O recorrente aponta violação do art. 33, §2º, "a", e §3º, do Código Penal, sustentando em suma que, de acordo com o quantum da pena aplicada e tendo em vista a presença de circunstâncias judiciais negativas, deveria ter sido fixado o regime inicial fechado para o resgate da reprimenda (e-STJ, fls. 376-395).
+Foram apresentadas as contrarrazões (e-STJ, fls. 474-482).
+O recurso foi inadmitido (e-STJ, fls. 399-401). Daí este agravo (e-STJ, fls. 405-417).
+O Ministério Público Federal manifestou-se às fls. 433-481 (e-STJ).
+É o relatório.
+Decido.
+O recorrido foi condenado, em primeira instância, pela prática do crime tipificado no art. 33 da Lei n. 11.343/2006, à pena de 08 anos e 09 meses de reclusão, no regime inicial fechado, além do pagamento de 875 dias-multa.
+A 1ª Câmara Especializada Criminal do Tribunal de Justiça do Estado do Piauí deu parcial provimento à apelação defensiva, para decotar a vetorial relativa à conduta social e, por conseguinte, redimensionar a pena para 07 anos e 06 meses de reclusão, mais 750 dias-multa, fixando o regime inicial semiaberto.
+O recurso foi inadmitido, com base nos seguintes fundamentos:
+"Em seu recurso, o Recorrente aponta violação aos arts. 33, §2º, "a", e §3º c/c o 59, do CP, afirmando que a decisão de fixar o regime inicial semiaberto, aplicada em virtude do redimensionamento da pena base, foi equivocada, ainda, observando as vetoriais negativadas, deve-se impor o regime fechado.
+Todavia, o acórdão assevera que o regime inicial foi alterado devido ao reconhecimento da detração, in verbis:
+"Fixo o regime inicial semiaberto, respeitada a detração do período de prisão cautelar, ficando a análise de eventual progressão a cargo do juízo da execução penal, na forma do art. 66, III, "b" e "c", da Lei 7.210/1984.
+Dessa forma, considerando a alteração do regime de cumprimento da pena, bem como o fato de que o réu se encontra preso preventivamente, determino a imediata transferência do apelante para estabelecimento prisional compatível com o regime semiaberto, conforme orientação pacífica da jurisprudência do Superior Tribunal de Justiça (AgRg no RHC 146.173/PA, HC n. 570.740/TO, AgRg no HC n. 604.348/SC, RHC n. 130.937/SP, HC 661.801/SP)."
+Posto isso, observa-se que o Recorrente apenas demonstra mero inconformismo com a decisão e que este se apresenta devidamente fundamentado, ademais a alteração nos moldes do recurso demandaria o reexame do acervo fático-probatório dos autos, medida vedada neste via, conforme entendimento da Súm. 07, do STJ." (e-STJ, fls. 400-401, grifou-se).
+Consoante determina a Súmula 182/STJ, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão que não admitiu o recurso especial .
+No caso, verifica-se que o fundamento da decisão agravada baseou-se na conclusão de que o regime inicial semiaberto foi fixado devido ao reconhecimento da detração e que a alteração desse entendimento, no caso, encontra óbice na Súmula 7/STSJ.
+Entretanto, o agravante limitou-se a afirmar que: I) a pretensão recursal é perfeitamente possível na via do recurso especial, não havendo incidência da Súmula nº 07 do STJ; II) a jurisprudência deste Colendo Superior Tribunal de Justiça tem entendido que a presença de circunstância judicial valorada negativamente constitui fundamento idôneo para o recrudescimento do regime inicial de cumprimento de pena (e-STJ, fls. 405-417).
+Como se vê, o agravante não impugnou especificamente o referido fundamento, tendo se limitado à alegação genérica de que a Súmula 7/STJ não obsta o seguimento do seu recurso especial. Contudo, deixou de demonstrar que a alteração do regime não ocorreu em decorrência do abatimento, na pena privativa de liberdade, do tempo de prisão provisória cumprido pelo recorrido.
+Nesse contexto, aplica-se o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registre-se que, "a jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no Resp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Por fim, acrescente-se que, em recente julgamento dos EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Diante do exposto, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
