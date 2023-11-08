@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em benefício de JANESON ALEXANDRE DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA E DO ESTADO DE MINAS GERAIS proferido no julgamento do Agravo em Execução n. 1.0447.16.001342-4/001, assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL - RECURSO DEFENSIVO - AFASTAMENTO DA FALTA GRAVE - SUBVERSÃO À ORDEM - IMPOSSIBILIDADE - PRESUNÇÃO DE LEGITIMIDADE E VERACIDADE DOS ATOS ADMINISTRATIVOS - FÉ PÚBLICA E CREDIBILIDADE - RECONHECIMENTO - NECESSIDADE - RECURSO DESPROVIDO.
+- Restando comprovado que o reeducando participou de movimento para subverter a ordem e a disciplina, caracterizada está a falta grave, nos termos do artigo 50, I, da LEP.
+- Havendo elementos probatórios hábeis a evidenciarem a prática de falta grave pelo sentenciado, impõe-se o reconhecimento da falta grave e a aplicação dos seus consectários legais.
+- Os atos administrativos, como importante instrumento de regularidade e efetividade da atuação do Estado, gozam de uma presunção relativa de legitimidade e veracidade, que só pode ser afastada por meio de prova em sentido contrário" (fl. 78).
+Consta dos autos que Juízo das Execuções reconheceu a prática de falta grave pelo ora paciente (art. 50, I, da Lei de Execuções Penais - LEP). O Tribunal a quo negou provimento ao recurso da defesa.
+No presente mandamus, a impetrante alega que não restaram devidamente comprovados os atos praticados e que não houve a individualização das condutas.
+Requer, assim, a concessão da ordem para que seja afastada a falta disciplinar.
+Prestadas as informações (fls. 105/115 e 130/133), o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 147/151).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, busca-se, na presente impetração, a desconstituição da falta grave.
+Na hipótese, as instâncias ordinárias reconheceram a infração disciplinar sob a seguinte fundamentação:
+Decisão:
+" ..
+A fase de execução da pena tem como um dos objetivos a reintrodução do recuperando no âmbito social, devendo sua conduta ser constantemente analisada durante todo o período de cumprimento da pena , não podendo ser admitidos comportamentos de indisciplina, sob pena de gerar consequências desastrosas , impedindo e prejudicando a devida ressocialização, bem como incentivando outros reeducandos a também descumprirem regras disciplinares básicas.
+Ainda, o artigo 118 da Lei de Execução Penal estabelece que a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar fato definido como crime doloso ou falta grave.
+Sobre o tema, leciona Julio Fabbrini Mirabete: " ..  Se de um lado é imprescindível dotar a pena privativa da liberdade de progressão, que viabiliza ao condenado vislumbrar a possibilidade futura de vida livre, por outro não se deve enfraquecer a repressão social. Em caso de não se adaptar o condenado ao regime semiaberto ou aberto, demonstrando a inexistência de sua reintegração social, fica o condenado também sujeito à regressão. Constitui-se esta na transferência do condenado para qualquer dos regimes mais rigorosos quando: praticar fato definido como crime doloso ou falta grave; sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime; e, na hipótese de se encontrar em regime aberto, frustrar os fins da execução ou não pagar, podendo, a multa cumulativamente imposta.  ..  A prática de falta grave é também causa obrigatória de regressão. São faltas graves, para o condenado que cumpre pena privativa de liberdade, as definidas no art. 50 da Lei de Execução Penal (item 2.99)". (Execução Penal, 11.a ed., Atlas, São Paulo, 2004, págs. 485 e 486).
+A lei de execução penal (Lei 7.210/84) prevê, em seu artigo 50, I, comete falta grave o condenado à pena privativa de liberdade que incitar ou participar de movimento para subverter a ordem ou a disciplina.
+Na espécie, ouvido em Processo Administrativo Disciplinar, respeitados assim o contraditório e a ampla defesa, o sentenciado negou a participação na subversão a ordem e a disciplina. Ocorre que, conforme consta no comunicado interno no seq. 125.1, o nome do sentenciado foi indicado pelos Policiais Penais que presenciaram o fato, superando-se, assim, a negativa do apenado, que é rotineira na espécie.
+Com efeito, a negativa do sentenciado contraposta à palavra do policial penal que foi ouvido sob compromisso, não pode prevalecer. Há que se prestigiar a palavra do agente estatal, que sem razões evidentes para praticar o falso testemunho, informou o envolvimento do detento no comunicado interno.
+Por fim, registro que o regime imposto na sentença penal condenatória refere-se ao inicio da execução da pena. Inicialmente a fase executiva, o sentenciado está sujeito à progressão, tanto quanto à regressão de regime, desde que verificados os requisitos para tal, tal como prevê o artigo 118 da Lei das Execuções Penais.
+Assim, tendo em vista que o sentenciado praticou a falta grave prevista no art. 50, I, da Lei das Execuções Penais, RECONHEÇO A FALTA DISCIPLINAR GRAVE devendo o sentenciado voltar cumprir sua reprimenda em regime FECHADO" (fls. 13/14).
+Acórdão:
+" ..
+In casu , verifica-se que, no dia 05/06/2021, na cela 24 (vinte e quatro), o apenado, juntamente com outros detentos, participou de movimento de subversão da ordem e da disciplina, tampando a cela com colchões e iniciando a depredação de seu interior. Após apresentarem muita resistência, os detentos foram retirados da cela e foi possível constatar danos extensivos e a presença de 10 chuços (seq. 125.1).
+Em sede de audiência de justificação, o apenado limitou-se a negar a versão dos fatos apresentada pelos policiais penais no comunicado interno, alegando que durante todo o ocorrido permaneceu no banheiro, não tendo participado de qualquer ato de subversão da ordem (seq. 164.1).
+Embora o agravante tenha negado a prática da falta disciplinar, sua declaração restou isolada nos autos, o que, aliado ao Comunicado Interno e aos depoimentos dos Policiais Penais, nos permite concluir que o sentenciado praticou ato de subversão da ordem no estabelecimento prisional.
+A respeito a autoria e materialidade dos fatos, o comunicado interno é claro em afirmar que, sem exceção, todos os detentos da cela de nº 24 (vinte e quatro) participaram do ato, inclusive o agravante.
+Leia-se:
+ ..
+Em arremate, cumpre ressaltar que os atos administrativos, como importante instrumento de regularidade e efetividade da atuação do Estado, gozam de uma presunção relativa de legitimidade e veracidade, que só pode ser afastada por meio de prova em sentido contrário, ônus que a Defesa não se desincumbiu" (fls. 80/82).
+Verifica-se que as instâncias ordinárias, ao analisar as provas produzidas nos autos, incluindo a oitiva do apenado e realização de audiência de justificação, entenderam que o paciente, juntamente com outros detentos, participaram do movimento subversivo, o que caracteriza a falta grave tipificada no art. 50, I, da Lei de Execução Penal, assim, é inviável rever a individualização da conduta imputada ao paciente, porquanto consubstanciaria indevida incursão no acervo fático-probatório, providência incabível na espécie.
+Nesse sentido, os seguintes precedentes desta Corte Superior:
+EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO. FALTA DISCIPLINAR DE NATUREZA GRAVE. VIOLAÇÃO DO ART. 50, III, DA LEP. POTENCIALIDADE LESIVA DE ESTOQUES TIPO "ESPETO", CONFECCIONADOS EM VERGALHÃO DE AÇO. PERÍCIA. PRESCINDIBILIDADE. DESCARACTERIZAÇÃO DA FALTA GRAVE. REEXAME DE FATOS. INADMISSIBILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. ORDEM NÃO CONHECIDA.
+ ..
+2. O Superior Tribunal de Justiça tem decidido que, para o reconhecimento da falta grave pelo apenado, é dispensável a realização de laudo pericial no objeto apreendido, a fim de perquirir sua potencialidade lesiva, por absoluta falta de previsão legal. Na hipótese, os objetos apreendidos com o paciente - dois estoques tipo "espeto", confeccionados em vergalhão de aço com cerca de 25 cm, instrumentos perfurocortantes - são aptos a ofender a integridade física de outrem, caracterizando, assim, a infração disciplinar prevista no art. 50, III, da Lei de Execução Penal.
+3. Não cabe, na via estreita do habeas corpus, a análise se o fato cometido pelo paciente configura-se ou não infração disciplinar de natureza grave, uma vez que indispensável o revolvimento do conteúdo fático-probatório dos autos. Precedentes.
+4. Habeas corpus não conhecido.
+(HC 301.626/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 29/08/2016).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PROCESSO ADMINISTRATIVO DISCIPLINAR. COMETIMENTO DE FALTA GRAVE. DESCLASSIFICAÇÃO DA NATUREZA DA FALTA. IMPOSSIBILIDADE. PERDA DE 1/3 (UM TERÇO) DOS DIAS REMIDOS. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Na hipótese, consta dos autos a existência do procedimento administrativo disciplinar que apurou a falta grave, inexistindo, portanto, a nulidade por ausência ou cerceamento de defesa.
+3. É firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias quanto a ocorrência da falta grave, pois a análise implicaria o reexame do conjunto fático-probatório dos autos, procedimento incompatível com os estreitos limites da via eleita.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a ilegalidade da decisão quanto a perda dos dias remidos.
+(HC 338.188/SP, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 08/06/2016).
+Por fim, "saliente-se que não se pode confundir "sanção coletiva" com "autoria coletiva". A primeira de fato é vedada pelo ordenamento jurídico. A segunda, entretanto, se configura quando é devidamente apurada a falta e reconhecida a responsabilização de vários apenados na autoria de conduta que configura falta grave e, diante das circunstâncias da infração, acarreta a punição individualizada de todos os envolvidos" (AgRg no HC 444.930/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/6/2018).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
