@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo manejado pela União contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.261):
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. RAV. AÇÃO COLETIVA Nº 0002767- 94.2001.4.01.3400 (2001.34.00.002765-2). MANDADO DE SEGURANÇA INDIVIDUAL. COISA JULGADA.
+1. Verificada a formação de coisa julgada entre as partes, em ação mandamental individual, sobre a mesma matéria tratada no título coletivo, tendo sido denegada a segurança no processo individual, não há interesse processual da parte exequente em executar o título judicial que embasa o cumprimento de sentença originário.
+2. Versando ambas as demandas sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, é inegável a existência de coisa julgada nos Mandados de Segurança previamente impetrados, restando vedada a execução do título judicial formado na ação coletiva nº 0002767- 94.2001.4.01.3400 (2001.34.00.002765-2), ajuizada pelo Sindicato Nacional dos Técnicos da Receita Federal - SINDTTEN.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.304/1.308).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 6º, §3º, LICC; 329, II, c/c 318, 337, 485, §3º, 489, II, e § 1º, 502, 508, 535 e 1.022, II, do CPC e 19 da Lei nº 12.016/09. Sustenta, além de negativa de prestação jurisdicional, que "seja provido o presente recurso para o fim de reformar em parte o acórdão proferido pela Corte Regional por ocasião do julgamento do Agravo de Instrumento, a fim de reconhecer a coisa julgada integral e com isso extinguir a execução" (fl. 1.323).
+Contrarrazões às fls. 1.358/1.369.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, II, e § 1º e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 6º, § 3º, da LICC.
+A matéria pertinente ao art. 19 da Lei nº 12.016/09 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+No mais, extrai-se do aresto recorrido a seguinte fundamentação (fls. 1.268/1.273):
+Coisa julgada
+Inaplicáveis tanto o disposto no art. 104 do CDC, como a renúncia tácita aos efeitos da ação coletiva, resta saber se estaria caracterizada a ofensa ao instituto da coisa julgada.
+Como referido, ambas as demandas, individual e coletiva, têm por objeto diferenças a título de Retribuição Adicional Variável devidas aos Técnicos do Tesouro Nacional, devidas pelo afastamento da Resolução CRAV 001/95.
+Necessário relembrar os períodos postulados nas demandas transitadas em julgado:
+- Mandado de Segurança individual 96.0012381-0, a partir 07/1996.
+- Ação Coletiva: de 01/1996 a 06/1999.
+Esta Corte Regional reconhece a eficácia preclusiva da coisa julgada quando o pedido final das demandas for o mesmo, embora a abordagem/fundamentação possa ser distinta, verbis:
+ ..
+Do relato efetuado no item 1 desta fundamentação, percebe-se que as demandas em comento têm, em última análise, identidade de seu principal fundamento, eis que buscam o direito ao pagamento da RAV nos moldes da MP nº 831/95 como decorrência do afastamento da Resolução CRAV nº 001/95, com manutenção do pagamento da RAV no limite de até oito vezes o equivalente ao vencimento básico dos Técnicos do Tesouro Nacional.
+Destarte, inegável que as demandas em questão versam sobre as mesmas diferenças de RAV aos Técnicos do Tesouro Nacional, ainda que com abordagem/fundamentação parcialmente distinta, de maneira que se operou a coisa julgada quanto à matéria, porém apenas em parte, no tocante ao período em comum, ou seja, a partir de 07/1996.
+Extinção da execução
+A União postula a extinção do cumprimento de sentença de origem, fundado em título executivo formado na Ação Coletiva nº 2001.34.00.002765- 2.
+Versando ambas as demandas, individual e coletiva, sobre a mesma matéria, e rejeitado na ação mandamental o direito às diferenças de RAV (por acórdão transitado em julgado), não poderá o exequente se aproveitar do título executivo coletivo, sob pena de ofensa à coisa julgada formada em ação específica (individual).
+No mesmo sentido da impossibilidade de execução de valores reconhecidos em Ação Coletiva diante de coisa julgada em sentido contrário formada em ação individual, os seguintes julgados:
+ ..
+Diante da existência de coisa julgada desfavorável à pretensão ora posta, a gerar a ilegitimidade da parte exequente para a execução do título executivo formado na Ação Coletiva nº 2001.34.00.002765-2, há de ser extinto o cumprimento de sentença, nos termos dos artigos 330, II, e 924, I, ambos do CPC/2015, por ausência de condição da ação.
+Entretanto, como já referido, existindo parcela do período postulado na Ação Coletiva que não está abrangida pelo período objeto do Mandado de Segurança e considerados os termos da parte que se manteve do acordo celebrado entre os litigantes, é possível o prosseguimento do cumprimento de sentença quanto aos valores relativos ao meses de janeiro a junho/96,
+ ..
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, a fim de afastar a coisa julgada reconhecida pelo Tribunal de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito, confiram-se:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. COISA JULGADA. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, reconheceu a tríplice identidade (partes, pedido e causa de pedir), bem como que já houve o exame da especialidade dos períodos na demanda anteriormente ajuizada (agente nocivo químico e ruído).
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 1.953.812/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/12/2021, DJe de 10/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LITISPENDÊNCIA. OCORRÊNCIA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. EFICÁCIA PRECLUSIVA DA COISA JULGADA. SÚMULA 83/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+2. O tribunal de origem reconheceu a litispendência e a coisa julgada pela tríplice identidade entre as ações. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3. Consonante entendimento deste egrégio Superior Tribunal de Justiça, uma vez que tenha ocorrido o trânsito em julgado, atua a eficácia preclusiva da coisa julgada, a apanhar todos os argumentos relevantes que poderiam ter sido deduzidos no decorrer da demanda, prestando-se a garantir a intangibilidade da coisa julgada nos exatos limites em que se formou.
+4. Agravo interno do particular a que se nega provimento.
+(AgInt no REsp n. 1.769.596/RS, rel. Min. Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, julgado em 17/5/2021, DJe de 20/5/2021.)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EFEITOS DA COISA JULGADA. INCIDÊNCIA. SÚMULA N. 7/STJ.
+I - Verifica-se que o Tribunal a quo, com base na análise do conjunto fático- probatório, entendeu que houve ofensa à coisa julgada, porquanto a pretensão do autor na presente lide é a mesma formulada no processo anteriormente julgado. II - Assim sendo, trata-se de repetição de pedido já apreciado, em caráter definitivo, pelo Poder Judiciário, deduzido novamente pela mesma parte, contra o mesmo réu. É o quanto basta para que se configure a tríplice identidade.
+III - Nos moldes do art. 301 do Código de Processo Civil, verifica-se a coisa julgada sempre que se reproduz uma ação idêntica à outra anteriormente ajuizada, que já foi decidida por sentença da qual não caiba mais recurso.
+IV - Conforme a jurisprudência dessa e. Corte, a análise da ocorrência da coisa julgada importa reexame do conjunto fático-probatório, vedado em recurso especial, ante o teor da Súmula n. 7/STJ. Nesse sentido: AgRg no AREsp 517.605/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/8/2014, DJe 9/10/2014 e AgInt no AREsp 669.473/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 22/8/2017, DJe 30/8/2017.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 1.115.126/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/9/2018, DJe de 28/9/2018.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
