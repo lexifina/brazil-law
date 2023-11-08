@@ -1,0 +1,69 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000617-34.2023.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: BANCO CETELEM S.A.
+RECORRIDO: ANGELA MARIA DA SILVA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5000617-34.2023.8.08.0012
+
+Recorrente: BANCO CETELEM S.A.
+
+Recorrido: ANGELA MARIA DA SILVA
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. EMPRÉSTIMO CONSIGNADO. FRAUDE. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E NULIDADE CONTRATUAL C/C REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS. A LIDE VERSA SOBRE CONTRATO DE EMPRÉSTIMO CONTRATADO POR TERCEIRA PESSOA EM NOME DA PARTE AUTORA. O EMPRÉSTIMO BANCÁRIO, NO VALOR DE R$32,340,00 (TRINTA E DOIS MIL TREZENTOS E QUARENTA REAIS), PASSOU A SER DESCONTADO DE SEU BENEFÍCIO PREVIDENCIÁRIO, A SER PAGO EM 84 (OITENTA E QUATRO) PARCELAS NO VALOR DE R$385,00 (TREZENTOS E OITENTA E CINCO REAIS) POR MÊS INICIADO EM MARÇO DE 2022. DESCONTADOS DO BENEFÍCIO JUNTO AO INSS O VALOR DE R$3.850,00 (TRÊS MIL OITOCENTOS E CINQUENTA REAIS). SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS PARA DECLARAR A INEXISTÊNCIA DO DÉBITO E ANULAR O CONTRATO DE EMPRÉSTIMO Nº 350940304-8, DEVENDO O REQUERIDO SE ABSTER DE PROMOVER NOVOS DESCONTOS NO BENEFÍCIO DA AUTORA. CONDENAÇÃO A RESTITUIR, DE FORMA SIMPLES, AS PARCELAS JÁ COBRADAS, ALÉM DO PAGAMENTO DE R$4.000,00 (QUATRO MIL REAIS) A TÍTULO DE DANOS MORAIS. RECURSO DA PARTE REQUERIDA PLEITEANDO A REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS INICIAIS OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS. ALEGAÇÃO DE QUE O CONTRATO É VÁLIDO, FOI ASSINADO NA MODALIDADE DIGITAL, CONTENDO BIOMETRIA FACIAL E DADOS DA CONTRATANTE. RECURSO CONHECIDO E IMPROVIDO. AUSÊNCIA DE MANIFESTAÇÃO DE VONTADE NA ADESÃO CONTRATUAL. CONTRATAÇÃO ILEGÍTIMA. NULIDADE DA RELAÇÃO CONTRATUAL. DOCUMENTAÇÃO BASTANTE PARA A FORMAÇÃO DO CONVENCIMENTO DO MAGISTRADO. PROVAS INSUFICIENTES PARA COMPROVAR A REALIZAÇÃO DO CONTRATO. INDÍCIOS DE FRAUDE. DOCUMENTOS PRODUZIDOS UNILATERALMENTE PELO REQUERIDO. NÃO COMPROVAÇÃO DE FATO IMPEDITIVO, EXTINTIVO OU MODIFICATIVO DO DIREITO DA AUTORA. SENTENÇA MANTIDA INCÓLUME, PELOS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46, DA LEI Nº 9.099/95 E ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
