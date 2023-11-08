@@ -1,0 +1,69 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000565-73.2020.8.08.0002
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: COOPERATIVA DE CREDITO DE LIVRE ADMISSAO SUL DO ESPIRITO SANTO
+RECORRIDO: ELIZANGELA MARQUES DOS SANTOS TEIXEIRA
+RELATOR(A):
+SALOMAO AKHNATON ZOROASTRO SPENCER ELESBON
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 3
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+R
+ecurso Inominado nos autos n°
+5000565-73.2020.8.08.0002
+
+Recorrente: COOPERATIVA DE CREDITO DE LIVRE ADMISSAO SUL DO ESPIRITO SANTO
+
+Recorrido: ELIZANGELA MARQUES DOS SANTOS TEIXEIRA
+
+Relator: SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+
+VOTOS
+
+DR. SALOMÃO AKHNATON ZOROASTRO SPENCER ELESBON
+–
+RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. EMPRÉSTIMO NÃO CONTRATADO. NARRA A AUTORA QUE NO DIA 05/03/2020 FOI LIBERADO NA CONTA CORRENTE PARCELA DE EMPRÉSTIMO NO VALOR DE R$1.200,00 (MIL E DUZENTOS REAIS). CONTUDO, SOMENTE NO MÊS DE ABRIL A AUTORA PERCEBEU O DESCONTO EM SUA CONTA. TENTATIVA DE SOLUÇÃO VIA ADMINISTRATIVA. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, DECLARANDO NULO O CONTRATO DE EMPRÉSTIMO, BEM COMO QUALQUER DÉBITO DELE CORRENTE, CONDENANDO A RÉ A RESTITUIR A AUTORA A QUANTIA DE 1.530,42 (MIL QUINHENTOS E TRINTA REAIS E QUARENTA E DOIS CENTAVOS) JÁ EM DOBRO, BEM COMO A CONDENAÇÃO NA QUANTIA DE R$3.000,00 (TRÊS MIL REAIS) A TÍTULO DE DANOS MORAIS. RECURSO DA PARTE REQUERIDA, PLEITEANDO A REFORMA DA SENTENÇA, PARA JULGAR IMPROCEDENTES OS PEDIDOS AUTORAIS OU, EVENTUALMENTE, A REDUÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS. PLEITEIA A REFORMA, ARGUMENTANDO QUE A AUSÊNCIA DE CONTRATO ASSINADO PELA PARTE AUTORA SE DEVE AO FATO DE QUE A AVENÇA FOI FIRMADA EM TERMINAL DE AUTOATENDIMENTO (ATM). JUIZ A QUO SENTENCIOU AO FUNDAMENTO DE QUE A DOCUMENTAÇÃO DOS AUTOS NÃO É SUFICIENTE PARA COMPROVAR A CELEBRAÇÃO DO REFERENTE NEGÓCIO JURÍDICO, TENDO A RÉ SE LIMITADO A DIZER QUE NO DIA 05/03/2020 FORA LIBERADO O CRÉDITO PRÉ-APROVADO NO VALOR DE R$1.200,00 (MIL E DUZENTOS REAIS), SEM TRAZER OUTROS DOCUMENTOS COMPROBATÓRIOS DE QUE TERIA SIDO A AUTORA A FAZER O CONTRATO DE EMPRÉSTIMO NO TERMINAL DE AUTOATENDIMENTO. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95, ENUNCIADO 11 DA TURMA DE UNIFORMIZAÇÃO DO ESPÍRITO SANTO E TEMA Nº 451, DAS TESES DE REPERCUSSÃO GERAL DO STF. POR FORÇA DA SUCUMBÊNCIA RECURSAL (ART. 55, DA LEI 9.099/95) CONDENA-SE A PARTE RECORRENTE NO PAGAMENTO DE CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE “O VALOR DA CONDENAÇÃO, OU NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA”.
+
+VOTOS
+
+O Sr. Juiz de Direito Dr. GUSTAVO HENRIQUE PROCÓPIO SILVA
+–
+Acompanho o voto do Eminente Relator.
+
+O Sr. Juiz de Direito Dr. GRÉCIO NOGUEIRA GRÉGIO –
+Acompanho o voto do Eminente Relator.
+
+DECISÃO
+
+Por unanimidade de votos,
+CONHECER
+do recurso,
+NEGANDO-LHE PROVIMENTO
+para manter a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, além de condenar a parte recorrente ao pagamento de eventuais custas processuais e dos honorários advocatícios.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
