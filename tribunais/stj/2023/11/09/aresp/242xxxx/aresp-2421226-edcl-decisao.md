@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OLIVEIRA MUGRABI SOCIEDADE INDIVIDUAL DE ADVOCACIA, OLIVEIRA MUGRABI ADVOCACIA à decisão de fls. 505/506, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Excelência, com a devida venia, ao examinar o teor do Acórdão (Seção: DJ Seção Única - Página: 03440), proferido pela Terceira Turma do STJ, que não conheceu do recurso, sob o argumento de que houve deserção por recolhimento intempestivo de prepare, percebe-se, a existência de contradição entre as certidões cartorárias e o entendimento do V. Acórdão, bem como omissão quanto a realização da complementação das custas recursais tempestivamente.
+ ..
+A certidão cartorária de fls. 410, certificou o correto recolhimento do Grerj, e informou ausência de recolhimento da guia do GRU.
+E, no r. despacho de fls. 414, o Terceiro Vice-Presidente, abriu novo prazo para que, o ora Embargante, apresentar o pagamento da guia do GRU, em atenção ao o §2º. do artigo 1007, do CPC, a fim de complementar as custas do recurso, com intimação ocorrida em 16.01.2023, no recesso forense, com início do prazo em 21.01.2023, tendo o preparo ocorrido em 26.01.2023, ou seja, de forma tempestiva.
+Outro fato que deve ser observado é a preclusão consumativa do deferimento da complementação do preparo, já que não suscitada pelo Embargado.
+Sendo assim, não há o que se falar em omissão por parte do Embargante, e nem de pena de deserção por ausência de recolhimento de preparo, uma vez que todos os despachos para realização e oportunidade para complementação das custas recursais foram tempestivamente cumpridos (fls. 511/512).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Como já consignado na decisão ora embargada, que agora se repete, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista o pedido de gratuidade de justiça.
+O tribunal de origem entendeu que a hipossuficiência não restou comprovada e indeferiu o pedido, determinando que a parte recolhesse as custas, nos termos da decisão de fl. 403.
+Apesar de devidamente intimada, a parte não regularizou o preparo, uma vez que intimada para regularizar o preparo em 05/12/2022 (fl. 406), a parte só se manifestou em 14/12/2022 (fls. 407/408), fora do prazo legal de 5 (cinco) dias.
+Registre-se que o art. 101 do CPC, ao continuar tratando da gratuidade, em seu § 2º, estabelece que: "Confirmada a denegação ou a revogação da gratuidade, o relator ou o órgão colegiado determinará ao recorrente o recolhimento das custas processuais, no prazo de 5 (cinco) dias, sob pena de não conhecimento do recurso" (grifo nosso).
+Assim, se a parte, intimada para regularizar o preparo recursal após o indeferimento da gratuidade de justiça, fica inerte ou comete qualquer equívoco na comprovação do seu recolhimento, o recurso não será conhecido pela deserção.
+Veja que não há previsão de uma nova oportunidade de intimação para sanar vícios decorrentes dessa tentativa de regularização. As regras são específicas para cada situação, não havendo que se cogitar a migração de uma regra para outra.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
