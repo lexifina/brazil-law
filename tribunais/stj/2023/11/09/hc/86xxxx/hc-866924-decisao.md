@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WESLEI VALTAIR DA SILVA DA ROSA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA - processo n. 5065000-13.2023.8.24.0000.
+Depreende-se dos autos que o Paciente teve a prisão temporária convertida em preventiva e, foi condenado às penas de 6 (seis) anos, 1 (um) mês e 15 (quinze) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 18(dezoito) dias-multa, no valor individual de 1/30 (um trigésimo) do salário mínimo vigente na época dos fatos (2016), pela prática do crime previsto no art. 2º, caput e §§ 2º e 4º, I e IV, da Lei n. 12.850/13.
+Irresignada, a Defesa impetrou habeas corpus perante a Corte local. O Desembargador Relator indeferiu a liminar, conforme decisão assim fundamentada, e-STJ fls. 9-10:
+"(..) Isso porque, em primeira análise, verifica-se que o magistrado singular fundamentou a negativa da possibilidade de os réus recorrerem em liberdade, "pois responderam à toda instrução criminal presos preventivamente, persistindo os motivos ensejadores da prisão cautelar e inexistindo fato novo em favor dos acusados, que, nesta oportunidade, restaram condenados por integrar a organização criminosa, havendo relatos das testemunhas ouvidas em juízo que, após a prisão cautelar, o bairro Morro Grande teve sensível diminuição das violências" (evento 926, SENT1). Ante o exposto, nego a liminar pleiteada. (..)"
+Neste writ, alega a Defesa a carência de fundamentação da decisão exarada pela autoridade coatora, bem como ausência dos requisitos ensejadores da prisão cautelar, em flagrante constrangimento ilegal a que está sendo submetido, ademais, aduz que não é compatível a condenação do regime semiaberto com a manutenção prisão da prisão preventiva.
+Requer a concessão da ordem de habeas corpus, para fins de conceder a medida liminar pleiteada na origem, com a confirmação no mérito.
+É o relatório. DECIDO.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heroico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+"O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribun al Federal" (AgRg no HC n. 826.873/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/6/2023, DJe de 30/6/2023).
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intime-se.
+EMENTA
