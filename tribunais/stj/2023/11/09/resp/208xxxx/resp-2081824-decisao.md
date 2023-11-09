@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS - MPMG com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CRFB/88, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - TJMG em julgamento do agravo em execução n. 1.0000.22.260406-8/001.
+Consta dos autos que o Juízo da Vara de Execuções Penais da Comarca de Frutal/MG deferiu a progressão de regime da reeducanda GABRIELA DE SOUZA ANDRADE, independentemente do p agamento da pena de multa (fl. 75).
+Agravo em execução interposto pela acusação foi desprovido. O acórdão ficou assim ementado:
+AGRAVO EM EXECUÇÃO PENAL -RECURSO MINISTERIAL -PRELIMINAR DEFENSIVA -AUSÊNCIA DE DIALETICIDADE PROCESSUAL-INOCORRÊNCIA-MÉRITO -VINCULAÇÃO DA PROGRESSÃO DE REGIME AOPAGAMENTO DA PENA DE MULTA -IMPOSSIBILIDADE -AUSÊNCIA DE PREVISÃO LEGAL -RECURSO DESPROVIDO. -Constatado o interesse recursal do Órgão Ministerial, deve ser conhecido o recurso. -O art. 112 da Lei de Execuções Penais estabelece requisitos de ordem objetiva e subjetiva que devem ser atendidos pelo sentenciado para a concessão da progressão de regime. -Não havendo previsão legal, é incabível a exigência do adimplemento da pena de multa para a concessão da citada benesse. (fl. 74).
+Em sede de recurso especial (fls. 92/105), o órgão ministerial apontou violação aos arts. 50 e 51 do Código Penal - CP, ao argumento que o TJMG considerou que a ausência de pagamento da pena de multa não obsta a progressão de regime prisional.
+Sustentou, todavia, que o seu adimplemento pode ser dispensado para fins de progressão de regime tão somente quando demonstrada a absoluta impossibilidade econômica da condenada.
+Pugnou, destarte, pelo provimento da pretensão recursal para que a progressão de regime da reeducanda fique condicionada ao pagamento da pena de multa ou à comprovação de que não possui capacidade econômica para o seu adimplemento, ainda que de forma parcelada.
+Contrarrazões da recorrida (fls. 113/120).
+Admitido o recurso no TJMG (fls. 123/125), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 139/146).
+É o relatório.
+Decido.
+Acerca da violação aos arts. 50 e 51 do CP, colaciono oportunamente o seguinte trecho do acórdão que julgou o agravo em execução (grifo meu):
+Conforme adiantado alhures, o Órgão Ministerial pretende a vinculação da progressão de regime à prévia certificação quanto ao pagamento da pena de multa (ordem n.º 02).
+Razão, todavia, não lhe assiste.
+Consoante o art. 112 da Lei de Execuções Penais, com a redação alterada pela Lei n.º 13.964/19, a pena privativa de liberdade será executada no sistema progressivo para o regime menos rigoroso, a ser determinada pelo juiz, quando a sentenciada tiver cumprido determinado lapso temporal exigido na citada lei.
+De mais a mais, além do requisito objetivo, tem-se que o preso somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, nos moldes do art. 112, §1º, da Lei de Execuções Penais,
+Nesse viés, conclui-se que a citada norma demonstra que a progressão de regime demanda a satisfação de dois requisitos, um de ordem subjetiva, referente ao bom comportamento carcerário, e outro de natureza objetiva, em relação ao tempo de pena cumprido.
+Desta feita, nota-se que a norma não estabeleceu quaisquer outros requisitos além daqueles acima elencados para a progressão de regime. Assim, atendidas as diversas condições legais, não cabe ao julgador condicionar o seu deferimento a requisito não previsto em lei.
+In casu, a sentenciada preenche os requisitos de ordem objetiva e subjetiva, razão pela qual entendo pela impossibilidade de vinculação da progressão de regime ao pagamento da pena de multa, sob pena de violação ao princípio da legalidade.
+Assim, a despeito do entendimento adotado pelo Supremo Tribunal Federal de que o adimplemento da pena de multa é requisito para que seja concedida a progressão de regime, salvo na hipótese em que a sentenciada seja hipossuficiente, tal condição não está elencada no rol taxativo do art. 112 da Lei de Execuções Penais.
+Nesse sentido, já decidiu este e. Tribunal de Justiça:
+(..)
+Portanto, tendo em vista que a apenada preenche os requisitos legais para a progressão de regime, a manutenção da decisão ora agravada é medida que se impõe. (fls. 77/78).
+Denota-se do excerto que o TJMG dispensou a exigência de comprovação do pagamento da pena de multa para a concessão da progressão de regime, consignando, ainda, que tal condição não estaria elencada no rol taxativo do art. 112 da LEP.
+Contudo, tal entendimento não encontra amparo na jurisprudência desta Corte, porquanto é cediço que o não pagamento deliberado da sanção pecuniária obsta a progressão de regime prisional, salvo se restar comprovada, estreme de dúvida, a ausência de capacidade econômica do reeducando. Destarte, deve o julgador, antes de deferir a transposição para o regime mais ameno, observar o adimplemento da pena de multa ou, subsidiariamente, a impossibilidade da sua quitação pelo apenado em razão da sua hipossuficiência financeira.
+Para corroborar este entendimento, colacionam-se precedentes deste Sodalício (grifos meus):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRELIMINAR DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO ACOLHIMENTO. EXECUÇÃO. MULTA. INADIMPLEMENTO. REGRESSÃO AO REGIME SEMIABERTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HIPÓTESE EM QUE A IMPOSSIBILIDADE ECONÔMICA DO APENADO NÃO FOI EXAMINADA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE ANÁLISE NESTA INSTÂNCIA SUPERIOR. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC 485.393/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/3/2019).
+2. Esta Corte Superior já decidiu que "a vinculação  ..  da progressão de regime ao pagamento da multa não representa incompatibilidade com as normas constitucionais e convencionais, cuja medida foi, inclusive, aplicada pelo próprio c. Supremo Tribunal Federal." (AgRg no HC 488.320/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/3/2019, DJe 1º/4/2019).
+3. O Supremo Tribunal Federal firmou entendimento no sentido de que "o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional", sendo tal condição excepcionada pela comprovação da absoluta impossibilidade econômica em pagar as parcelas do ajuste (EP 8 ProgReg-AgR, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 1º/7/2016, PROCESSO ELETRÔNICO DJe213 DIVULG 19-09-2017 PUBLIC 20-09-2017).
+4. Dessa forma, o não pagamento da multa penal obsta a progressão de regime, salvo se houver inequívoca comprovação da hipossuficiência do reeducando.
+5. Na hipótese dos autos, todavia, a impossibilidade econômica do paciente não foi debatida pelas instâncias ordinárias, sendo obstada a esta Corte Superior a análise da matéria, sob pena de indevida supressão de instância.
+6. Agravo regimental não provido.
+(AgRg no HC n. 603.074/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/2/2021, DJe de 8/2/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. PAGAMENTO DE MULTA. NECESSIDADE. FLAGRANTE ILEGALIDADE NÃO CONSTATAÇÃO. ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado, apta a ensejar a concessão da ordem de ofício.
+2. O não pagamento de pena de multa impede o deferimento da progressão de regime.
+3. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 597.412/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 23/3/2021, DJe de 29/3/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO.PENA DE MULTA. INADIMPLEMENTO. CARÁTER PENAL. ILEGALIDADE. AUSÊNCIA. HIPOSSUFICIÊNCIA. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. No julgamento da ADI 3.150/DF, o Supremo Tribunal Federal firmou o entendimento de que a Lei n. 9.268/96, ao considerar a multa penal como dívida de valor, não retirou o seu caráter de sanção criminal, por força do art. 5º, XLVI, "c", da CF, entendimento que não se alterou com a edição da Lei n. 13.964/2019.
+2. Conforme a orientação firmada pelo Pleno do Supremo Tribunal no EP 8 ProgReg-AgR, de Relatoria do Ministro Roberto Barroso, o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional.
+3. Tendo sido reconhecido o caráter de sanção penal da pena de multa nos termos do art. 5º, XLVI, "c", da CF, não se verifica manifesta ilegalidade no indeferimento da progressão de regime em razão do seu inadimplemento.
+4. A matéria relativa à condição financeira do sentenciado não foi objeto de análise do Tribunal de origem, não tendo sido também apreciada na decisão de 1º Grau, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+5. Agravo regimental improvido.
+(AgRg no HC n. 601.835/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para determinar que a progressão de regime da reeducanda fique condicionada ao pagamento da pena de multa ou à comprovação de que não possui capacidade econômica para o seu adimplemento, ainda que de forma parcelada.
+Publique-se. Intimem-se.
+EMENTA
