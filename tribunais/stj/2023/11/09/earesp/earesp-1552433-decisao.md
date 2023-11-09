@@ -1,0 +1,10 @@
+DECISÃO
+O requerente pede (fls. 1.440-1.442, e-STJ) a retirada do presente processo da pauta virtual de julgamento da Primeira Seção prevista para o período de 8 a 14.11.2023. Afirma que a "presente demanda possui diversas peculiaridades que poderão ser discutidas com maior clareza, precisão e rigor técnico se levadas as sessões presenciais" (fl. 1.440, e-STJ).
+A simples alegação do requerente não é suficiente para a retirada do feito da pauta de julgamentos virtuais. Agregue-se que não há direito subjetivo da recorrente ao julgamento de seu recurso em sessão telepresencial, haja vista ausência de previsão legal e regimental. A efetividade da Justiça, máxime com o aprimoramento da tecnologia, não pode ser impedida pelo alvedrio da parte.
+Argumentos de que há interesse em participar ativamente do julgamento, inclusive fazendo esclarecimentos de fato, ou que não seria possível o recebimento dos advogados, seja pessoalmente ou por videoconferência, não são suficientes à retirada do feito da pauta de julgamentos virtuais (AgInt nos EAREsp 369.513/GO, Rel. Ministro Herman Benjamin, Corte Especial, DJe 26.6.2019).
+Nos termos do art. 184-D, parágrafo único, II, do Regimento Interno do STJ, "as partes, por meio de advogado devidamente constituído, bem como o Ministério Público e os defensores públicos poderão apresentar memoriais e, de forma fundamentada, manifestar oposição ao julgamento virtual ou solicitar sustentação oral, observado o disposto no art. 159".
+A irresignação da requerente, contudo, não contém fundamentação apta a ensejar o acolhimento do pedido formulado. Com efeito, o Agravo Interno constitui espécie recursal expressamente autorizada pelo Regimento Interno desta Corte Superior a ser incluída nesta modalidade de julgamento (art. 184-A, parágrafo único, II, do RISTJ). Nesse mesmo sentido: AgInt nos EAREsp 369.513/GO, Rel. Ministro Herman Benjamin, Corte Especial, DJe 26.6.2019.
+Ante o exposto, rejeito o pedido de retirada da pauta de julgamento virtual.
+Publique-se.
+Intimem-se.
+EMENTA
