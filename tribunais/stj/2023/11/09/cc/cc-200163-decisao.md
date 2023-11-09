@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Vara de Execuções Penais de Brasília - DF, em face do Juízo de Direito da 1ª Vara Criminal de Sorriso - Execuções Penais em Meios Fechado e Semiaberto - MT.
+Segun do o constante dos autos, o Juízo de Direito da 1ª Vara Criminal de Sorriso - Execuções Penais em Meios Fechado e Semiaberto - MT, declinou da competência para a Vara de Execuções Penais da Comarca de Brasília/DF, diante da mudança de domicílio do executado (fl. 327).
+O Juízo de Direito da Vara de Execuções Penais de Brasília - DF, por sua vez, suscitou o presente conflito de competência, sob o fundamento de que: a) o apenado não ostenta condenação no Distrito Federal; b) "que eventuais mudanças voluntárias de endereço, prática de novo crime ou mesmo recolhimento em localidade distinta - no caso o Distrito Federal- não são motivos para alteração da competência" e c) "o sistema prisional do Distrito Federal não dispõe vagas para acolher o interno, pois está superlotado, com quase o dobro da sua capacidade" (fls. 329 - 330).
+O Ministério Público Federal opinou no sentido de conhecer o conflito para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Sorriso - Execuções Penais em Meios Fechado e Semiaberto - MT, o suscitado (fls. 342 - 348).
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+No caso concreto, tem-se conflito negativo existente entre Juízos vinculados a Tribunais diversos, logo deve ser dirimido por este Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+Na espécie, depreende-se da jurisprudência firmada na Terceira Seção que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação , ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Nesse sentido:
+"AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CUMPRIMENTO DA PENA. FIXAÇÃO PELO LOCAL DO JUÍZO DA CONDENAÇÃO. DOMICÍLIO EM LOCAL DISTINTO. TRANSFERÊNCIA. IMPOSSIBILIDADE DE DECISÃO UNILATERAL DO JUÍZO DEPRECANTE. NECESSIDADE DE PRÉVIA ACEITAÇÃO DO JUÍZO DEPRECADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme a pacífica orientação desta Corte, o juízo competente para a execução penal é o indicado na lei de organização judiciária do local da condenação. Assim, embora o sentenciado haja sido preso em comarca diversa da condenação, mais próxima ao seu domicílio, tal circunstância não tem o condão de deslocar a competência para a execução penal.
+2. A transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local.
+3. Agravo regimental não provido." (AgRg no CC n. 189.921/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 14/9/2022, DJe de 21/9/2022.)
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 1ª Vara Criminal de Sorriso - Execuções Penais em Meios Fechado e Semiaberto - MT, o suscitado .
+Publique-se. Intime-se .
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. TRANSFERÊNCIA DO PRESO. AUSÊNCIA DE CAUSA LEGAL. MANUTENÇÃO DA COMPETÊNCIA DO JUÍZO CONDENATÓRIO. COMPETÊNCIA DO JUÍZO SU SCITADO.
