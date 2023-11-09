@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL com fundamento no art. 105, III, a e c, da Constituição Federal e de recurso especial adesivo interposto por ARGUELLO & CARVALHO LTDA., ALCÂNTARA & ARGUELLO LTDA. e CARVALHO & ARGUELLO LTDA. com fundamento no art. 105, III, a , da Constituição Federal, contra acórdão do Tribunal de Justiça local (Apelação Cível n. 0904519-24.2016.8.12.0001) assim ementado (fl. 582):
+APELAÇÕES CÍVEIS - AÇÃO CIVIL PÚBLICA - PRELIMINARES NOS APELOS: ILEGITIMIDADE ATIVA DO MINISTÉRIOPÚBLICO E NULIDADE DA SENTENÇA QUE DECIDIU OS EMBARGOS PORAUSÊNCIA DE INTIMAÇÃO DO EMBARGADO - AFASTAMENTO - PRELIMINAR EM CONTRARRAZÕES: PRECLUSÃO CONSUMATIVA DE MATÉRIA ALEGADA NO APELO REJEITADA - MÉRITO - CANCELAMENTODE SHOW INJUSTIFICADAMENTE - QUEBRA DE CONTRATO - FALHA NA PRESTAÇÃO DE SERVIÇO - AUSÊNCIA DE DEVOLUÇÃO DOS VALORES PAGOS NA COMPRA DOS INGRESSOS - PONTOS DE VENDA - RESPONSABILIDADE SOLIDÁRIA - AUSÊNCIA DE VANTAGEM ECONÔMICA- MEROS INTERMEDIÁRIOS DO CONSUMIDOR E PRESTADOR DO SERVIÇO - RECURSOS PROVIDOS.
+Sendo a a coletividade atingida com o cancelamento do evento expressivo, transcendendo a esfera dos interesses puramente particulares, há legitimidade ativa do Ministério Público Estadual para a propositura de ação civil pública, com suporte nos arts. 81 e 82 do Código de Defesa do Consumidor.
+Não obstante os embargos de declaração tenham sido acolhidos, o juízo a quo assim procedeu apenas para sanar omissão, e não para modificar a decisão embargada, motivo pelo qual não há que se falar em nulidade.
+Deve ser rejeitada a preliminar de preclusão consumativa de matéria levantada em recurso de apelação, quando não se vislumbra a sua ocorrência.
+Se as empresas, na condição de pontos de venda, não auferiram vantagem econômica por intermediar as transações entre o consumidor (adquirentes do ingresso do show) e o terceiro (prestador do serviço), não devem responder solidariamente pelos prejuízos causados exclusivamente pela organizadora e responsável do evento.
+No bojo do recurso especial (fls. 606-625), o recorrente  aponta violação dos arts. 3º, caput, 6º, VI, 7º, parágrafo único, 25, § 1º, do Código de Defesa do Consumidor. Defende a responsabilidade solidária das recorridas pelo ressarcimento aos consumidores do valor referente aos tíquetes do evento cancelado (Holi Joy - Festival das Cores) e pelo pagamento de indenização por dano moral.
+Aduz ainda dissídio jurisprudencial.
+Requer  o  conhecimento  e  o provimento  do  recurso.
+Foram apresentadas contrarrazões (fls. 637-649, 650-666 e 706-722).
+Foi interposto ainda recurso especial adesivo (fls. 674-689), cujas contrarrazões foram apresentadas às fls. 723-735.
+É  o  relatório.  Decido.
+O  recurso  não merece  prosperar.
+No presente caso, o  Tribunal  de  origem  analisou as questões e assim decidiu  (fls. 594-595):
+Os documentos acostados aos autos deixam claro que somente a empresa Imagem Assessoria de Comunicação Ltda atuou de forma efetiva na causação dos danos, pois foi ela quem contratou a banda, conforme contrato de prestação de serviços de apresentação artística de f. 69/74, solicitou as autorizações/alvarás para a realização do evento (f. 67/68), foi notificada para o comparecimento às audiências junto ao PROCON/MS (f.106/113) e, como já foi dito, se comprometeu publicamente em devolver os valores (f. 32).
+Com efeito, por mais que se queira atribuir uma responsabilidade solidária entre a organizadora do evento e as apelantes, estas não foram remuneradas pela disponibilidade do local para a venda de ingressos, não patrocinaram o evento ou sequer receberam qualquer comissão ou participação.
+ ..
+Ainda que se queira defender a tese de que as apelantes, na qualidade de "postos de venda" dos ingressos, possam ter auferido lucro indireto comisso, trata-se de assertiva subjetiva e incapaz de externar uma relação de consumo, e, via de consequência, fazer incidir a responsabilidade solidária defendida pelo Parquet.
+No que se refere à apontada violação dos arts. 3º, caput, 6º, VI, 7º, parágrafo único, 25, § 1º, do Código de Defesa do Consumidor, a instância de origem concluiu nestes termos (fl. 594):
+ ..  por mais que se queira atribuir uma responsabilidade solidária entre a organizadora do evento e as apelantes, estas não foram remuneradas pela disponibilidade do local para a venda de ingressos, não patrocinaram o evento ou sequer receberam qualquer comissão ou participação
+Nesse contexto, a pretensão de novo pronunciamento a respeito da responsabilidade solidária implicaria análise do contrato e de documentos e reexame de matéria fático-probatória dos autos, medidas inviáveis em recurso especial, em face do óbice das Súmulas n. 5 e 7 do STJ.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. NULIDADE DE CLÁUSULAS CONTRATUAIS. ESTABELECIMENTO DISTINTO DE "SHOPPING CENTER". "RES SPERATA" INDEVIDA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso concreto, a análise das razões apresentadas pelos recorrentes, quanto à validade da cláusula contratual que prevê a cobrança da "res sperata", demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+5. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.211.563/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp n. 751.139/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1º/4/2019, DJe de 9/4/2019; e AgInt no AREsp n. 1.285.965/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.
+Por fim, quanto à pretensão recursal amparada no art. 105, III, c, da CF, melhor sorte não socorre a parte agravante, pois a tese arguida em relação à alínea a do permissivo constitucional já foi afastada pela aplicação do óbice de reexame de prova (Súmula n. 7 do STJ) nesta instância especial, o que implica a inviabilidade do recurso fundado na divergência jurisprudencial.
+Nessa linha de entendimento: AgInt no REsp n. 2.019.205/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022; e AgInt no AREsp n. 2.074.739/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.
+Ante o exposto, não conheço do recurso especial, ficando prejudicado o recurso especial adesivo.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em desfavor da parte recorrente, ante a inexistência de fixação da verba em razão da natureza da ação.
+Publique -se. Intimem-se.
+EMENTA
