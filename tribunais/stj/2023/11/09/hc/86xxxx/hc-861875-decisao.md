@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de MARCELO OLIVEIRA DOS SANTOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, proferido no julgamento do Recurso em Sentido Estrito n. 5001914-68.2019.8.21.0137/RS.
+Extrai-se dos autos que o paciente foi pronunciado como incurso nas sanções do art. 121, § 2º, II e IV, do Código Penal - CP (homicídio qualificado).
+Irresignada, a Defensoria Pública do Estado do Rio de Janeiro interpôs recurso aduzindo a ausência de indícios suficientes de autoria e, subsidiariamente, a inocorrência das qualificadoras, todavia, o recurso foi desprovido pela 1ª Câmara Criminal do Tribunal a quo, nos termos de acórdão que recebeu a seguinte ementa:
+"Recurso em Sentido Estrito. Sentença de Pronúncia - artigo 121, § 2.º, incisos II e IV, do Código Penal, c/c o artigo 1.º, inciso I, da Lei n.º 8.072/90. Nos crimes dolosos contra a vida, cabe ao Juízo singular, tão somente a pronúncia, que representa mero juízo de admissibilidade da acusação, para o qual basta a prova da materialidade da infração penal e a existência de indícios suficientes da autoria e de participação do recorrente. Decisão de pronúncia não se baseou em testemunhos de "ouvi dizer", mas nos elementos de provada materialidade e nos indícios de autoria nos autos. Decisão em sintonia com o art. 413 do Código De Processo Penal. Convencimento acerca da existência de crime da competência do Tribunal do Júri e de indícios de autoria. Nessa fase processual, não se julga o réu, mas tão somente a admissibilidade da acusação. O mérito da causa e eventual controvérsia na prova, caso exista, é remetida a julgamento pelo Tribunal do Júri, juiz natural. A impronúncia é reservada às hipóteses do art. 414 do Código De Processo Penal, o que não é o caso. As qualificadoras não são manifestamente incabíveis, e, deverão ser submetidas ao Conselho de Sentença, juiz natural da causa. Prequestionamento que se rejeita.
+Recurso conhecido e desprovido." (fl. 16)
+No presente writ, a Defensoria Pública sustenta a inidoneidade da pronúncia, porquanto baseada, exclusivamente, em testemunhos de "ouvi dizer", enfatizando que nenhuma testemunha ouvida presenciou o delito imputado. Realça que corréu foi impronunciado tendo em vista a carência de indícios de autoria, notadamente, a ausência de testemunhas diretas do fato.
+Requer, a impronúncia do paciente.
+A liminar foi indeferida por decisão de fls. 90/92.
+As informações foram prestadas às fls. 99/100 e 101/107.
+O Ministério Público Federal opinou pelo não conhecimento do mandamus, em parecer de fls. 112/113.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O julgado atacado, ao manter a pronúncia do paciente, assentou:
+"No caso, o magistrado analisou de forma sucinta, como deve ser feito, as teses levantadas pela Defesa Técnica e do Ministério Público, sem apresentar qualquer juízo de valor. E, na segunda fase processual, caberá ao Tribunal do Júri, juiz natural da causa, apreciar todas as teses.
+Depreende-se dos autos, mais precisamente do depoimento de Sergio Júlio Nascimento Silva, irmão da vítima, que relatou que esta costumava a andar com policiais civis de Niterói e eles faziam algumas buscas na localidade. E na referida época o acusado Marcelo teria sido preso, por um bom tempo. E que esse teria sido o motivo do crime. Afirmou que seu irmão havia voltado a morar na região, pouco tempo antes de seu assassinato. Declarou que foi chamado na polícia para ver as imagens das câmeras de segurança da padaria, onde seu irmão estava bebendo na data dos fatos, tendo sido morto nas proximidades do estabelecimento. E ao ver as imagens Sergio conseguiu identificar todos os acusados, inclusive, o requerente. Disse também que seu irmão já havia tido um desentendimento com o acusado Edivan, por causa de mulher.
+A testemunha Pedro Mesquita, proprietário da padaria, afirmou que a vítima e os acusados estavam em seu estabelecimento, momentos antes do crime. A testemunha relatou que entregou as imagens aos policiais.
+Deste modo, não há como acolher a pretensão defensiva de que a decisão de pronúncia se baseou em testemunhos de "ouvi dizer", mas nos elementos de prova da materialidade e nos indícios de autoria produzidos nos autos.
+Assim, é irretocável a decisão atacada para submeter o recorrente ao crivo do Conselho de Sentença, momento em que as provas colhidas serão examinadas e sujeitas à confirmação ou modificação.
+Não há nulidade ou motivo para a reforma do referido pronunciamento judicial." (fls. 33/34)
+Como visto, a pronúncia não estava embasada em testemunhos de "ouvir dizer", pois o Sr. Sérgio Júlio Nascimento Silva, irmão da vítima, ao prestar depoimento em juízo, reconheceu o paciente como autor dos disparos que matou a vítima ao ver as imagens da câmara de segurança da padaria, as quais lhe foram mostradas na Delegacia.
+Assim, inexiste a flagrante ilegalidade a justificar a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, inc. XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
