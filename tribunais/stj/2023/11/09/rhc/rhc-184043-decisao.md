@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por BENEDITO DO SOCORRO PINHEIRO PINTO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no julgamento do HC n. 0805355-88.2023.8.14.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em por ter supostamente praticado o delito tipificado no art. 33 e 35 da Lei n. 11.343/2006 (tráfico de drogas e associação para o narcotráfico). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão de fls. 160/165.
+No presente recurso, alega a defesa ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Destaca as condições pessoais favoráveis do recorrente, como primariedade, residência fixa e trabalho lícito.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Requer, assim, a revogação da prisão preventiva, ainda que mediante a fixação de medidas menos gravosas.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 186/190).
+É o relatório.
+Decido.
+De acordo com os informes obtidos na página eletrônica do Tribunal de origem, verifica-se que, em 4/9/2023, foi proferida sentença condenando o recorrente às penas de 7 anos e 6 meses de reclusão de reclusão, em regime inicial fechado, e pagamento de 760 dias-multa, pela prática do delito previsto no art. 33 da lei n. 11.343/2006, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Com fundamento no art. 387, parágrafo único, do CPP, nego ao sentenciado o direito de recorrer em liberdade. Ressalte-se que o réu respondeu preso a toda a instrução criminal, sendo relevante destacar que a superveniência de sentença condenatória apenas reforça a necessidade da sua custódia cautelar. Ademais, verifico persistirem os motivos que deram ensejo a decretação da sua prisão preventiva, especialmente porque o acusado ao ter desobedecido às ordens dos policiais civil no sentido de abrir a residência, ter entrado em luta corporal com um policial civil e ter empreendido fuga, demonstrou desrespeito à lei penal e à garantia da ordem pública, o que revela a periculosidade do condenado e a necessidade de manutenção da sua custódia. Anoto, ainda, que as circunstâncias judiciais desfavoráveis, mormente a natureza e a quantidade das drogas, ao réu não recomendam o seu retorno à vida social nesse momento. Dessa forma, resta evidente a necessidade de manter a custódia cautelar para resguardar a ordem pública. Não tendo havido alteração superveniente da situação fática que ensejou a decretação da prisão do réu, restando incólumes as razões que justificaram a imposição da custódia preventiva, recomende-se o sentenciado na prisão onde se encontra detido"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora recorrente, fica superada a alegação trazida no reclamo que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+AGRAVO REGIMENTAL NA PETIÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA PROFERIDA. PENA DE 09 (NOVE) ANOS DE RECLUSÃO EM REGIME FECHADO. NOVOS FUNDAMENTOS. PREJUDICIALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O Regimento Interno desta Corte (arts. 34, XX) permite ao relator "decidir o habeas corpus quando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+II - A superveniência de sentença condenatória poderá caracterizar novo título judicial quando forem inseridos novos fundamentos para a segregação cautelar, sendo capaz de prejudicar o writ. In casu, sobreveio sentença condenatória em desfavor do ora agravante, condenando-o à pena de 9 (nove) anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto art 33, § 1º, II, da Lei 11.343/2006. Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva.
+III - Neste agravo regimental não foram apresentados argumentos novos capazes de alterar o entendimento anteriormente firmado, devendo ser mantida a decisão impugnada por seus próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg na PET no RHC 106.567/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 02/04/2019).
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
