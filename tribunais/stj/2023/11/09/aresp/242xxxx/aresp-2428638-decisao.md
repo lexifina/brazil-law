@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE ANGICAL DO PIAUÍ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+APELAÇÃO CÍVEL. MUNICÍPIO DE ANGICAL DO PIAUÍ. EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA JULGADOS IMPROCEDENTES. EMBARGOS OPOSTOS ANTES DO CPC/2015. CABIMENTO DO APELO. AUSÊNCIA DE JUNTADA DE PLANILHA DE CÁLCULOS E DE DOCUMENTOS. ALEGAÇÃO DE JUNTADA NOS AUTOS DO PROCESSO PRINCIPAL. IRRELEVÂNCIA. NATUREZA JURÍDICA DOS EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. APELO CONHECIDO E IMPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 489, § 1º, IV, do CPC, no que concerne à ausência de fundamentação do acórdão, trazendo a seguinte argumentação:
+Como dito no ponto relativo aos fatos, no acórdão julgador consignou-se que a ausência de juntada de planilha ensejou o descumprimento pelo embargante de sua obrigação de apresentar os cálculos de forma discriminada.
+Porém, também como dito na parte fática, no acórdão não há manifestação expressa a respeito do argumento utilizado pelo embargante para justificar a ausência do referido documento. Esse argumento foi apresentado nos seguintes termos:
+ ..
+Os termos do trecho da apelação acima transcrito, deixam claro que a juntada nos autos do processo de cumprimento de sentença deu-se em razão de expressa determinação do próprio MM. Juiz de 1º grau, de modo que, no entendimento do embargante a exigência de juntada de planilha de cálculos já havia sido cumprida.
+Tanto é assim, Excelências, que em seus Embargos à Execução o embargante fez menção aos cálculos já apresentados e, ao final, demonstrou o valor que entendia devido.
+Nesse sentido, por se tratar de ponto extremamente relevante da linha argumentativa apresentada no Recurso de Apelação, hábil, inclusive, a fazer com que a situação seja compreendida de forma distinta, já que em outro processo fora determinada e realizada a juntada da planilha de cálculo, deveria o acórdão embargado dele ter tratado de forma expressa, o que de fato não ocorreu, tornando-o omisso.
+Frise-se, ainda, que a omissão do acórdão não se restringiu a esse ponto.
+ ..
+Opondo-se ao que fora consignado na sentença do Embargo à Execução, a embargante arguiu em apelação que aos autos do cumprimento de sentença foram carreados todos os documentos que comprovam que o que fora determinado já vinha sendo cumprido.
+Nesse sentido, pleiteou e reiterou na apelação o quantum do valor executado.
+Porém, mesmo diante de argumento de tamanha relevância, foi silente o acórdão, sem qualquer manifestação a respeito da documentação que se fez referência.
+Assim, é inquestionável que o acórdão proferido e recorrido não conta com fundamentação nos moldes que a lei processual civil exige e nem mesmo a oposição de Embargos de Declaração foi suficientemente capaz de sanar este vício. Na realidade, o acórdão viola o Código de Processo Civil, mais especificamente o seu art. 489, § 1º, IV, que assim dispõe:
+ ..
+Evidente, portanto, a violação do artigo 489, § 1º, IV do Código de Processo Civil, uma vez que a lide foi dirimida sem a devida e suficiente análise dos argumentos apresentados em sede de apelação e dos documentos carreados aos autos, os quais são suficientemente capazes de demonstrar que o Município recorrente desde 2011 vinha cumprindo com sua obrigação de pagamento do adicional de insalubridade na forma que requereu a parte recorrida e, portanto, totalmente hábil a infirmar a conclusão a que chegaram os órgãos julgadores de primeira e segunda instância.
+Assim, a decisão recorrida é eivada de nulidade, tendo em vista que não se manifestou sobre pontos essenciais para o deslinde da demanda, bem como não apresentou fundamentação jurídica convincente para justificar a ausência de enfrentamento de todos os pontos da sentença, como se exige em sede de Recurso de Apelação, violando plenamente o artigo 489, § 1º, inciso VI, do CPC/2015.
+(fls. 177-180).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
