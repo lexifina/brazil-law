@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. HOMICÍDIO QUA LIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+1. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+2. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Claudecir Marcos - preso preventivamente e denunciado como incurso no art. 121, § 2º, inciso IV, do Código Penal - contra a decisão monocrática da Ministra Maria Thereza de Assis Moura, Presidente desta Corte, que indeferiu liminarmente o habeas corpus em razão da inexistência de excepcionalidade apta a superar o óbice previsto na Súmula 691/STJ (fls. 19/21).
+Nesta via, a defesa repisa as alegações apresentadas na inicial do writ, destacando, em síntese: (i) inidoneidade de fundamentação do decreto prisional, porquanto baseado, unicamente, no fato do réu encontrar-se em local incerto (citação editalícia frustrada) e na gravidade abstrata do delito; e (ii) ausência de contemporaneidade dos motivos ensejadores da custódia cautelar.
+Requer, assim, a reconsideração do decisum, com vista a consequente revogação da prisão preventiva ou à submissão do presente agravo para fins de apreciação da Sexta Turma.
+Não abri prazo para o Ministério Público se manifestar.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. HOMICÍDIO QUA LIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+1. Não sendo aptos os argumentos trazidos na insurgência para desconstituir a decisão agravada, deve ela ser mantida pelos seus próprios fundamentos.
+2. Agravo regimental improvido.
+VOTO
+Ao indeferir liminarmente liminarmente o writ, a Presidente desta Corte Superior explicitou o seguinte (fls. 19/21 - grifo nosso):
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/11/2022, DJe de 16/11/2022).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/9/2022, DJe de 27/9/2022.)
+In casu, não vislumbro manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto, ao menos em uma análise perfunctória, as decisões de origem não se revelam teratológicas.
+Isso porque, compulsando os autos, verifica-se que a prisão preventiva foi decretada tendo em vista a seguinte fundamentação, adotada na origem (fl. 10):
+A prisão preventiva também comporta deferimento. O primeiro requisito é a garantia da ordem traduzida na necessidade de conferir às instituições públicas, sobretudo à Justiça criminal, pública, seriedade e credibilidade perante a comunidade, que anseia pela apuração e responsabilização do culpado pelo grave crime cometido (prevenção geral). Note-se que o crime narrado na denúncia é de extrema gravidade, praticado com violência à pessoa, relevando, de per si, ínsita a periculosidade do agente. A custódia provisória é necessária, também e principalmente, para assegurar a aplicação da lei penal. Embora ciente da imputação (cf. inquérito policial), demonstra o réu deliberada esquivança quanto à responsabilidade criminal. Veja-se que o próprio pai do réu desconhece seu paradeiro (e. 1.41). A evasão do foro é exemplo clássico de pretensão de se furtar e embaraçar a aplicação da lei penal (TJPR - 3ªC. Criminal - HCC - 1358698-4 - Curitiba - Rel.: Rogério Kanayama - Unânime - J. 30.04.2015).
+Em relação à contemporaneidade dos motivos que ensejaram a prisão preventiva, não há flagrante ilegalidade, pois, segundo julgados do STJ, seu exame leva em conta não apenas o tempo entre os fatos e a segregação processual, mas também a necessidade e a presença dos requisitos da prisão no momento da sua decretação, sendo que a gravidade concreta do delito impede o esgotamento do periculum libertatis apenas pelo decurso do tempo (AgRg no RHC n. 169.803/ES, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 22/2/2023; AgRg no HC n. 707.562/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/3/2022; AgRg no HC n. 789.691/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/2/2023; AgRg no HC n. 775.563/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/12/2022; HC n. 741.498/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 29/6/2022).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+Pois bem, reafirmo os fundamentos da decisão objurgada porque: (i) o entendimento ora esposado encontra-se devidamente amparado em precedentes deste Tribunal Superior; (ii) a decretação da prisão preventiva realmente se faz necessária para assegurar a aplicação da lei penal, pois, como muito bem consignado pelas instâncias ordinárias, embora ciente da imputação (cf. inquérito policial), demonstra o réu deliberada esquivança quanto à responsabilidade criminal; veja-se que o próprio pai do réu desconhece seu paradeiro (fls. 10 e 14), estando em local incerto e não sabido por "vários anos"; (iii) a contemporaneidade da medida extrema diz respeito aos motivos ensejadores da custódia cautelar e não ao momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado a período longínquo, sendo imprescindível, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal lapso, continuam presentes os requisitos legais referentes ao risco à ordem pública ou à ordem econômica; a conveniência da instrução criminal; ou, ainda, a necessidade de assegurar a aplicação da lei penal, como exatamente ocorre no caso sob comento; e (iv) a gravidade concreta do delito narrado, obstaculiza o esgotamento do periculum libertatis pelo simples decurso do tempo.
+Ante o exposto, nego provimento ao agravo regimental.
