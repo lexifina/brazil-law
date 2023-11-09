@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. ROUBO MAJORADO. HOMICÍDIO QUALIFICADO. FRAUDE PROCESSUAL MAJORADA. REVOGAÇÃO DA CUSTÓDIA CAUTELAR RESTABELECIDA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES ANTERIORMENTE FIXADAS. DECISUM SUFICIENTEMENTE FUNDAMENTADO. GARANTIA DA ORDEM PÚBLICA. CONTRADIÇÃO, OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. REVISÃO DA MATÉRIA. IMPOSSIBILIDADE. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. No caso, não há ambiguidade, obscuridade, contradição ou omissão no acórdão, uma vez que as presentes alegações foram enfrentadas em decisão oposta. Isso porque os embargos de declaração servem ao saneamento do julgad o eivado de um dos vícios previstos no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão -, e não à revisão de decisão de mérito, com a qual não se conforma o embargante (EDcl no AgRg no REsp n. 1.406.039/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/2/2015).
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração, tempestivos, opostos por Dionar Nunes Cunha Junior (Petição n. 1.062.209/2023) à decisão de minha relatoria (fls. 560/564) - que negou provimento ao recurso em habeas corpus interposto -, apontando-s e omissão no decisum, a seguir ementado:
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. ROUBO MAJORADO. HOMICÍDIO QUALIFICADO. FRAUDE PROCESSUAL MAJORADA. REVOGAÇÃO DA CUSTÓDIA CAUTELAR RESTABELECIDA. DESCUMPRIME NTO DE MEDIDAS CAUTELARES ANTERIORMENTE FIXADAS. DECISUM SUFICIENTEMENTE FUNDAMENTADO. GARANTIA DA ORDEM PÚBLICA. INEXISTÊNCIA DE QUEBRA DAS MEDIDAS ALTERNATIVAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso em habeas corpus improvido.
+Sustenta o embargante omissão na decisão pelo não enfrentamento da tese defensiva de que na decisão que impôs as primeiras medidas cautelares não se pode enxergar, ao menos uma única linha, fundamentação específica sobre o porquê da imposição de cautelares que proibiam Dionar Júnior de participar de eventos sociais como um rally, recolher-se após as 21h e nos finais de semana (fl. 570).
+Alega que A segunda omissão no acórdão é constatada quando deixou de ser analisado a argumentação concreta no tocante a possibilidade de aplicação de medidas cautelares mais gravosas e diversas da prisão (como o monitoramento eletrônico, por exemplo) após o descumprimento de cautelares (fl. 570).
+Afirma que o embargante estava há mais de 02 anos solto, cumprindo devidamente todas as cautelares impostas, e sequer haver relato de qualquer desordem social ou crimes praticados d urante este período (fl. 571).
+Requer, ao final, o acolhimento dos embargos de declaração com efeitos infringentes, e o c onsequente provimento do recurso em habeas corpus.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. ROUBO MAJORADO. HOMICÍDIO QUALIFICADO. FRAUDE PROCESSUAL MAJORADA. REVOGAÇÃO DA CUSTÓDIA CAUTELAR RESTABELECIDA. DESCUMPRIMENTO DE MEDIDAS CAUTELARES ANTERIORMENTE FIXADAS. DECISUM SUFICIENTEMENTE FUNDAMENTADO. GARANTIA DA ORDEM PÚBLICA. CONTRADIÇÃO, OMISSÃO E OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. REVISÃO DA MATÉRIA. IMPOSSIBILIDADE. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. No caso, não há ambiguidade, obscuridade, contradição ou omissão no acórdão, uma vez que as presentes alegações foram enfrentadas em decisão oposta. Isso porque os embargos de declaração servem ao saneamento do julgad o eivado de um dos vícios previstos no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão -, e não à revisão de decisão de mérito, com a qual não se conforma o embargante (EDcl no AgRg no REsp n. 1.406.039/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/2/2015).
+2. Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos apontam omissão na decisão de fls. 560/564 - que negou provimento ao recurso em habeas corpus, mantendo a segregação cautelar do embargante, em razão de descumprimento de medidas cautelares alternativas anteriormente impostas - e visam efeitos infringentes .
+Ocorre que, no caso, não há ambiguidade, obscuridade, contradição ou omissão na decisão oposta, uma vez que as presentes alegações foram devidamente enfrentadas.
+Ora, os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão -, e não à revisão de decisão de mérito, com a qual não se conforma o embargante (EDcl no AgRg no REsp n. 1.406.039/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/2/2015).
+Conclui-se, então, que os aclaratórios não lograram êxito em demonstrar contradição, omissão e obscu ridade na decisão hostilizada, constituindo os embargos em uma nítida tentativa de rediscussão da matéria enfrentada e rechaçada no decisum ora oposto.
+Em razão disso, rejeito os embargos de decl aração.
