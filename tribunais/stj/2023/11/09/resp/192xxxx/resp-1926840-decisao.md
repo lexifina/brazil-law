@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por ADAGOBERTO DA SILVA LOURENÇO e RAFAEL PEREIRA DA SILVA ARAÚJO contra  acórdão  prolatado  pelo Tribunal de Justiça estadual  que negou provimento ao recurso em sentido estrito interposto pela defesa.
+Arguia-se o reconhecimento da extinção da punibilidade pela decadência, uma vez que a alteração trazida pela Lei n. 13.964/2019 condicionou a instauração da ação penal à representação, que, na hipótese, não ocorreu no prazo legal. Subsidiariamente, pugnava pela determinação da proposição de acordo de não persecução penal (fls. 72-84).
+Nas  razões  do  recurso especial,  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  os  recorrentes  alegam violação ao art. 2º, parágrafo único, e ao art. 171, § 5º, do Código Penal. Requerem, em síntese, a extinção da punibilidade, ante a suposta decadência do direito de representação, ou, subsidiariamente, a intimação da vítima para oferecer a representação no prazo de 30 dias, sob pena de decadência (fls. 93-101).
+Em contrarrazões, o Ministério Público estadual requer a manutenção do acórdão recorrido pelos próprios fundamentos (fls. 115-121).
+O Ministério Público Federal se manifestou pelo desprovimento do recurso especial (fls. 134-140).
+É  o  relatório. DECIDO.
+Compulsando os autos, verifico que o Tribunal de origem não reconheceu a decadência sob os seguintes fundamentos (fls. 76-78):
+"Sustentam a ocorrência da extinção da punibilidade pela decadência em razão da edição da Lei 13.964/19, que introduziu no artigo 171 do Código Penal, a representação como condição de procedibilidade nos crimes de estelionato e por ela não ter sido exercida dentro do prazo legal.
+(..) Referida inovação legislativa possui natureza híbrida, vez que seu conteúdo repercute tanto na seara processual, pois inclui a representação como condição de procedibilidade, como também na material, porquanto traduz hipótese de potencial extinção de punibilidade.
+A norma de direito substantivo, como se sabe, retroage quando mais benéfica ao réu, ao passo que a norma processual se aplica desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior.
+Assim, tem-se que seus efeitos não podem atingir o ato jurídico perfeito, como o oferecimento da denúncia, de modo que a retroatividade da representação no crime de estelionato deve se restringir à fase policial, não alcançando o processo.
+Entendimento em contrário limitaria o direito de ação dos ofendidos, impondo condição ao exercício da ação que na época não se exigia."
+O acórdão impugnado não merece reparos.
+Não há que se falar em decadência, pois a denúncia foi oferecida em 2018, ou seja, antes da entrada em vigor da Lei do Pacote Anticrime. A propósito, saliento que a jurisprudência desta Corte Superior é de que a necessidade de representação da vítima nos crimes de estelionato, trazida à ordem jurídica brasileira pela Lei n. 13.964/2019, não alcança os feitos cuja denúncia tenha sido oferecida antes da vigência da inovação legislativa.
+Confira-se:
+" ..  III - In casu, não ocorreu possibilidade de reconhecimento da decadência, tendo em vista que a denúncia foi recebida muito antes da entrada em vigor do novo Pacote Anticrime, em 2018, e também porque o agravante já foi condenado, com trânsito em julgado, inclusive.
+IV - Conforme já decidido por esta Corte Superior, "Não não obstante, in casu, a denúncia tenha sido recebida antes da entrada em vigor do novo "Pacote Anticrime", já houve também o trânsito em julgado da ação penal de origem" (HC n. 707.320/SC, Quinta Turma, de minha relatoria, DJe de 15/2/2022)." (AgRg no HC n. 748.390/SP, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 9/8/2022)"
+" ..  O entendimento da Corte de origem está em consonância com a jurisprudência da Terceira Seção do Superior Tribunal de Justiça, firmada no sentido de que, em crime de estelionato, a necessidade de representação da vítima, trazida ao mundo jurídico com a entrada em vigor da Lei n. 13.964/2019, não alcança o processo cuja denúncia tenha sido oferecida antes da vigência da mencionada norma, tal como ocorre na hipótese dos autos. Além disso, a hipótese dos autos enquadra-se na exceção prevista no art. 171, § 5º, I, do Código Penal. Precedentes." (AgRg no AREsp n. 2.271.098/SE, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 5/6/2023)
+Ante o exposto, e nos termos do art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. RECURSO ESPECIAL. ESTELIONATO. DECADÊNCIA. AUSÊNCIA DE REPRESENTAÇÃO. INOCORRÊNCIA. DENÚNCIA ANTERIOR À LEI 13.964/2019. PRECEDENTES. RECURSO ESPECIAL DESPROVIDO.
