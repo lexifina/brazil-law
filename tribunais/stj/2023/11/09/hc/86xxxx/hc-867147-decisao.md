@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de Vanessa Noara dos Santos, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido na Agravo de Execução Penal n. 0011276-47.2023.8.26.0996.
+Extrai-se dos autos que o Juízo da Execução deferiu o indulto previsto no Decreto n.11.302/2022 à apenada, por entender possível a sua concessão nos casos de condenação por tráfico privilegiado.
+Irresignado, o Parquet interpôs agravo, o qual foi parcialmente provido por acórdão assim ementado:
+"AGRAVO EM EXECUÇÃO. Indulto. Decreto Presidencial nº. 11.302/2.022. Recurso do Ministério Público diante do deferimento da benesse. Preenchimento do requisito insculpido no artigo 5º do ato presidencial não abrangido pela medida cautelar concedida pelo Supremo Tribunal Federal nos autos da ADI 7.330, a par de ausente decisão liminar no bojo da ADI 7.390 ajuizada especialmente diante do verbete em destaque. Benefício que decorre de prerrogativa conferida ao Presidente da República, descabendo ao Poder Judiciário se imiscuir nos critérios de conveniência e oportunidade atrelados ao decreto de indulgência. Tese de inconstitucionalidade rejeitada. Ausência do requisito objetivo. Sentenciada condenada por tráfico privilegiado, cuja sanção máxima em abstrato ultrapassa o limite previsto no art. 5º do Decreto presidencial. Decisão cassada. Recurso parcialmente provido." (fl. 22)
+Na presente impetração, a defesa afirma que é possível a concessão de indulto para o crime de tráfico privilegiado.
+Busca, assim, o restabelecimento do indulto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de flagrante constrangimento ilegal a justificar a concessão da ordem de ofício.
+Como visto, o acordão impugnado afastou o indulto natalino do crime de tráfico privilegiado, o que contraria a jurisprudência desta Corte.
+A propósito, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. INDULTO. DECRETO N. 11.302/2022. CONDENADO POR TRÁFICO PRIVILEGIADO. POSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 5º E 7º DO ATO PRESIDENCIAL.
+1. O Decreto n. 11.302/2022 concede indulto natalino: (a) aos acometidos por por paraplegia, tetraplegia ou cegueira, doença grave permanente, que imponha severa limitação de atividade e exija cuidados contínuos que não possam ser prestados no estabelecimento penal, como neoplasia maligna ou síndrome da deficiência imunológica adquirida (aids), em estágio terminal; (b) aos agentes públicos que compõem o Sistema Único de Segurança Pública condenados por excesso culposo, por crime culposo; (c) aos militares das Forças Armadas, em operações de Garantia da Lei e da Ordem, condenados por excesso culposo; (d) aos maiores de 70 anos de idade que tenham cumprido pelo menos 1/3 da pena e (e) aos condenados por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos.
+2. De acordo com o art. 7º do ato Presidencial, o indulto natalino não abrange os crimes tipificados no caput e no § 1º do art. 33, exceto na hipótese prevista no § 4º do referido artigo, no art. 34 e no art. 36 da Lei n. 11343/2006. E o art. 5º, caput, estabelece que " s erá concedido indulto natalino às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos".
+3. Referidos dispositivos devem ser interpretados no sentido de que o art. 7º, VI, parte final, do Decreto n. 11.302/2022 excepciona a regra geral estabelecida no art. 5º do referido ato. Não faria sentido que o decreto excetuasse a vedação do benefício ao tráfico privilegiado e, contraditoriamente, obstasse sua aplicação com base na pena abstrata do tráfico simples. Se assim fosse, toda e qualquer condenação por crime de tráfico, com ou sem aplicação do redutor, não seria passível da concessão de indulto, fazendo letra morta ao dispositivo acima invocado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 818.978/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+No mesmo sentido temos a decisão monocrática do Eminente Ministro Reynaldo Soares da Fonseca, prolatada no julgamento do HC 812.343, publicada na data de 3 de abril do corrente ano.
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus, mas concedo a ordem de ofício, a fim de restabelecer a decisão do Juízo das Execuções de fls. 12/18.
+Publique-se.
+Intimem-se.
+EMENTA
