@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jhonn Wesily Pontes Martineli - pronunciado para ser julgado pelo Tribunal do Júri por infração ao art. 121, § 2º, incisos II e III, do Código Penal, porquanto, ao desferir 4 tiros contra regiões vitais da vítima, apoderou-se de uma faca e passou a golpeá-la, atingindo-a por 9 vezes também em regiões vitais, impondo assim sofrimento desnecessário e desumano (fls. 11/19) -, em que se aponta como autoridade coatora o Desembargador Relator do Tribunal de Justiça de São Paulo, que indeferiu o processamento do Habeas Corpus n. 2296401-43.2023.8.26.0000/SP .
+Alega o impetrante, em síntese, que não é possível olvidar que, em caso de incerteza sobre a situação de fato - ocorrência ou não das qualificadoras - a questão deverá ser dirimida pelo o Tribunal do Júri, todavia, o simples juízo de cognição destas, proferido na sentença de pronúncia, deverá ser demonstrado e exteriorizado com a exposição de elementos concretos contidos nos autos, aptos a justificarem a convicção do magistrado quanto à sua admissibilidade (fl. 8).
+Postula, ao final, a concessão liminar da ordem para que, superada a Súmula 691/STF, seja determinado o seguinte (fls. 9/10):
+ ..
+Dessarte, respeitosamente requer-se seja concedida a ordem de Habeas Corpus liminarmente, em favor de JHONN WESILY PONTES MARTINELI, para o feito de, reconhecendo-se a ilegalidade praticada, determinar-se a imediata NULIDADE DA SENTENÇA DE PRONUNCIA POR AUSENCIA DE FUNDAMENTAÇÃO DAS QUALIFICADORA E OS CONSECUTIVOS ATOS PROCESSUAIS, bem como, em razão do patente excesso de prazo consubstanciado pela demora de submissão do Paciente a julgamento perante o Egrégio Conselho de Sentença, decorrente, inclusive, por conta do vício processual perpetrado pelo M. D. Juízo "a quo", determinar seja expedido o competente ALVARÁ DE SOLTURA, para que o Paciente aguarde o julgamento em liberdade, bem como, se o caso, a aplicabilidade de outras medidas cautelares diversa da prisão, nos termos do art.319 do CPP.
+Certo está o impetrante de que, mais uma vez esta Colenda Corte de Justiça, aplicará o Direito à espécie e fará cessar a ilegalidade exposta.
+"In oportune tempore", em face das realidades prementes e tendo-se em vista as razões expostas nesta impetração, requer o impetrante seja concedida a tão almejada MEDIDA LIMINAR, para que seja concedido ao Paciente o direito constitucional do devido processo legal, assegurando-lhe o direito ao contraditório e a plenitude de defesa, mormente no concernente as qualificadoras, bem como de aguardar o julgamento em liberdade, em razão do excesso de prazo para que seja submetido a julgamento.
+ ..
+É o relatório.
+Ab initio, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida. E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, o decisum singular prolatado pelo eminente Relator, sobre a pretensão da defesa técnica, ressaltou o seguinte (fls. 18/19):
+ ..
+Ao Tribunal de Justiça do Estado de São Paulo compete processar e julgar, originariamente, habeas corpus quando a autoridade coatora for juiz de direito.
+Da inicial se depreende que o Paciente foi pronunciado para ser julgado pelo Tribunal do Júri por infração ao artigo121, § 2º, incisos II e III, do Código Penal (fls. 09/15).
+A defesa se insurgiu contra essa decisão e interpôs recurso em sentido estrito (fls. 439/469 dos autos de origem).
+Esta Egrégia 1ª Câmara de Direito Criminal julgou o recurso em sentido estrito em 06 de abril de 2022 e, analisando detidamente o recurso interposto, negou provimento ao apelo (fls. 505/512dos autos de origem).
+Assim, toda a matéria de insurgência da presente inicial já foi apreciada por esta Corte, de modo que é este Tribunal a Autoridade Coatora e não o Juízo de Primeiro Grau e, pelo óbvio, não pode conhecer e julgar habeas corpus sendo ele a autoridade coatora.
+Diante do exposto, sendo este tribunal incompetente para conhecer da presente impetração, vez que, com o acórdão passou a ser a autoridade coatora, indefere-se o processamento do habeas corpus, em consonância com a regra do artigo 248 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo e artigo 663 do Código de Processo Penal.
+ ..
+Ante o exposto, inexistindo a excepcionalidade necessária ao abrandamento do enunciado da Súmula 691/STF, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. EXCLUSÃO DE QUALIFICADORA. PRISÃO CAUTELAR. SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE. FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
