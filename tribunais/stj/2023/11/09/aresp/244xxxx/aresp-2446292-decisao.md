@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo apresentado por FRANCISCO TERTULINO DE MOURA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO - AÇÃO DE COBRANÇA - REPRESENTAÇÃO COMERCIAL - SENTENÇA DE IMPROCEDÊNCIA - RECURSO - GRATUIDADE - CONCESSÃO COM EFEITOS EX NUNC - COBRANÇA DE COMISSÃO - AUSÊNCIA DE PROVAS DE VÍNCULO ENTRE AS PARTES - ALEGAÇÃO DE QUE O CONTRATO DE REPRESENTAÇÃO ERA VERBAL - BORDERÔS QUE INSTRUÍRAM A INICIAL INIDÔNEOS - TESTEMUNHAS DO AUTOR QUE APENAS "SABIAM" QUE O AUTOR ERA REPRESENTANTE DA RÉ PORQUE ELE ASSIM SE APRESENTAVA - EX-FUNCIONÁRIA DA RÉ, POR OUTRO LADO, QUE PEREM PTORIAMENTE NEGOU A RELAÇÃO - APELANTE QUE NÃO SE DESINCUMBIU DE SEU ÔNUS PROBATÓRIO - ARTIGO 373, I, DO CPC - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+EMBARGOS DECLARATÓRIOS - OMISSÃO AUSENTE - NENHUMA HIPÓTESE DO ART. 1.022 DO CPC - TODA A PROVA DEVIDAMENTE APRECIADA PARA JULGAMENTO DO RECURSO - INTERPRETAÇÃO DIVERSA DO CONJUNTO PROBATÓRIO PELA PARTE QUE NÃO AUTORIZA A OPOSIÇÃO DOS ACLARATÓRIOS - REDISCUSSÃO VEDADA - PREQUESTIONAMENTO AUSENTE - EMBARGOS REJEITADOS.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 373, I e II, do CPC, no que concerne à necessidade de reforma do acórdão recorrido, eis que interpretou erroneamente o ônus probatório, apresentando conclusão contrária às provas dos autos, trazendo a seguinte argumentação:
+No entanto, entende o recorrente que houve interpretação errônea acerca do ônus da prova. As duas testemunhas do recorrente forma firmes em provar a atuação como represente comercial, vejamos o quadro comparativo:
+Sustenta a testemunha do recorrente ás fls. 219 (áudio ):
+ ..
+Percebam que o depoimento da testemunha é claro e objetivo!!
+ ..
+Todos os indicativos de provas foram cumpridos. O ônus da prova previsto no art. 373, I do CPC foi OBEDECIDO.
+Há duas testemunhas que reforçam a tese do recorrente:
+nunca oferecem outra marcar;
+pagava com boleto com logo da recorrida;
+os pedidos eram entregue com marca da recorrida.
+ ..
+Verifica-se que deixou de dar vigência a norma legal prevista no art. 373 do CPC: ônus da prova está lá, provado!!Cumpriu-se os requisitos!
+ ..
+Posto isto, o entendimento esposado pelo v. acordão viola a aplicação do art. 373, do CPC vez que não se coaduna com as provas dos autos, de forma que requer a integral reforma com a condenação do recorrido ao pagamento do valor devido a título de comissões, revertendo o ônus da sucumbência e custas processuais (fls. 259-262).
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 373, I e II, do CPC, no que concerne à prolação de acórdão amparado em argumento lançado pela recorrida do qual o recorrente não foi cientificado, trazendo a seguinte argumentação:
+Há ainda o fato do v. acordão amparar a decisão em argumento lançado pela recorrida a qual o recorrente sequer foi cientificado. Como apontá-lo devedor sequer teve ciência dos pedidos daquela ação monitoria ! (fl. 261).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Ocorre que o demandante não se desincumbiu de comprovar os fatos constitutivos de seu direito, artigo 373, I, do CPC.
+Com efeito, a parte não trouxe nenhuma prova idônea da alegada atuação como representante comercial. Os "borderôs" de fls. 07/57 não se revestem de qualquer formalidade, podendo ter sido facilmente produzidos pelo autor.
+E tampouco presta a prova oral para o acolhimento da pretensão.
+As duas testemunhas arroladas pelo autor apenas afirmaram "saber" que Francisco era representante da Galera da Moda porque ele assim se apresentava, contudo, descreveram que os pedidos eram entregues pelo próprio apelante, e não pela suposta representada.
+Já a testemunha Juliana, que já fora empregada da ré atuando na área de emissão de notas fiscais, ausente relação empregatícia atual, asseverou que o autor não possuía qualquer vínculo com sua antiga empregadora, tratando-se de mero comprador.
+Finalmente, afigura-se oportuno observar que a requerida move ação monitória em face do requerente com base em cheques entregues pelo ora apelante para aquisição de seus produtos, o que sustenta a tese defensiva de que este era apenas revendedor, e não verdadeiro representante da marca.
+Assim, não apenas deixou o autor de comprovar os fatos constitutivos do direito perseguido, como a prova dos autos revela realidade diversa daquela narrada na inicial, sendo forçosa a manutenção da sentença de improcedência (fls. 238-240).
+ ..
+Decerto, toda a prova foi devidamente apreciada, tendo-se feito, inclusive, expressa menção aos depoimentos das testemunhas, não se cogitando de nenhuma omissão.
+O fato da parte interpretar o conjunto probatório de maneira diversa deste órgão não enseja oposição dos aclaratórios, sendo vedada a mera rediscussão (fl. 251).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo do(s) dispositivo(s) apontado(s) como violado(s) para sustentar a tese recursal, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+Nesse sentido, vale citar os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE. FUNDAMENTAÇÃO DEFICIENTE. EXECUÇÃO FISCAL. RFFSA E UNIÃO. TRANSFERÊNCIA PATRIMONIAL. CURSO DA DEMANDA. SUCESSORA. REDIRECIONAMENTO. POSSIBILIDADE. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Os apontados arts. 130 e 131 do CTN não têm comando normativo para amparar a tese de imunidade do IPTU em favor da RFFSA, visto que tais dispositivos legais cuidam de tema diverso, referente à responsabilidade tributária por sucessão, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+ ..  (AgInt no REsp n. 1.764.763/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 27/11/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). PREQUESTIONAMENTO. AUSÊNCIA. FUNÇÃO DESEMPENHADA PELO CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. No que tange à aduzida ofensa ao art. 12, § 1º, VI, da Lei n. 10.931/04, o presente recurso não merece prosperar, porQuanto o referido dispositivo não confere sustentação aos argumentos engendrados. Incidência da Súmula 284/STF.
+5. O mesmo óbice representado pelo enunciado da Súmula 284/STF incide no que diz respeito à alegada ofensa aos arts. 421 e 425 do Código Civil, que veiculam comandos normativos demasiadamente genéricos e que não infirmam as conclusões do Tribunal de origem.
+ ..
+7. Agravo interno não provido. (AgInt no AREsp n. 1.674.879/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/03/2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018; AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020; AgInt nos EDcl no REsp n. 1.709.059/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 18/12/2020; e AgInt no REsp n. 1.790.501/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/03/2021.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
