@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de TAUAM DE CAMARGO SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação criminal n. 1500834-32.2022.8.26.0559.
+Consta dos autos que o paciente foi condenado pelo Juízo da Comarca de São José do Rio Preto, às penas de 1 ano e 8 meses de reclusão, no regime prisional inicialmente aberto, e pagamento de 166 dias-multa, por infração ao artigo 33, parágrafo 4º, da Lei 11.343/06, substituída a pena privativa de liberdade imposta por duas restritivas de direitos, consistentes em prestação de serviços à comunidade pelo mesmo prazo da condenação e prestação pecuniária no valor de um 1 salário mínimo vigente, conforme relatado à folha 13.
+Não satisfeito, o paciente interpôs apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso, conforme o acórdão de fls. 12-16.
+No presente writ, a impetrante alega que o acórdão impugnado padece de flagrante ilegalidade, consistente no estabelecimento de regime inicial prisional mais gravoso, em violação ao princípio da individualização da pena, sem fundamentação idônea.
+Requer, liminarmente e no mérito, a concessão da ordem de modo que seja estabelecido o regime inicial aberto.
+É o relatório. DECIDO.
+Como relatado, o acórdão impugnado (fls. 12-16) negou provimento à apelação criminal, confirmando a sentença que condenou o paciente às penas de 1 ano e 8 meses de reclusão, no regime prisional inicialmente aberto, e pagamento de 166 dias-multa, por infração ao artigo 33, parágrafo 4º, da Lei 11.343/06, substituída a pena privativa de liberdade imposta por duas restritivas de direitos, consistentes em prestação de serviços à comunidade pelo mesmo prazo da condenação e prestação pecuniária no valor de um 1 salário mínimo vigente, conforme relatado à folha 13.
+A pretensão deduzida pela impetrante objetiva a concessão da ordem para que seja modificado o regime de cumprimento de pena para o meio aberto.
+Muito embora a ação de habeas corpus permita o ajuizamento por qualquer pessoa, sem exigência do preenchimento de requisitos pré-determinados ou observância de rigoroso tecnicismo jurídico, pode ocorrer o indeferimento liminar quando da leitura da inicial não é possível extrair a exata compreensão da controvérsia.
+Anoto que a impetração menciona a existência de flagrante ilegalidade em razão do estabelecimento de regime inicial prisional mais gravoso, enquanto que o paciente foi condenado ao cumprimento de pena no regime inicial aberto, com a substituição da pena corporal por restritiva de direitos.
+Verifico que na petição inicial (fls. 03-11) há alegações completamente divorciadas da realidade dos autos, a exemplo da valoração negativa das circunstâncias judiciais do artigo 59 do Código Penal, enquanto que na hipótese dos autos a pena-base ficou estabelecida no mínimo legal e, ainda, foi beneficiado com a causa especial de diminuição de pena do parágrafo 4º do artigo 33 da Lei 11.343/2006, em seu grau máximo.
+Portanto, a petição inicial impede a exata compreensão do questionamento.
+Nesse sentido:
+"PROCESSUAL PENAL. HABEAS CORPUS. PETIÇÃO INICIAL ININTELIGÍVEL. INÉPCIA. IMPOSSIBILIDADE DE COMPREENSÃO. AUSÊNCIA DE PEDIDO. No habeas corpus, dado a possibilidade de impetração por qualquer pessoa, não é exigido que a petição inicial preencha requisitos pré-determinados ou esteja de acordo com o tecnicismo jurídico. Contudo, tal circunstância não impede o indeferimento do mandamus quando da leitura da exordial não é possível extrair qualquer raciocínio lógico ou concluir qual a pretensão objetivada com a impetração. (Precedentes do STJ). Habeas corpus não-conhecido." (HC 145.648/PE, Quinta Turma, Relator Ministro Felix Fischer, DJe 14/06/2010)
+ ..  5. Não se pode analisar fundamento ininteligível, cujo constrangimento ilegal não seja de possível compreensão e conclusão não corresponda com o pedido formulado na inicial.
+6. Ausência de constrangimento ilegal que imponha a concessão de ordem de ofício.
+7. Ordem de habeas corpus não conhecida. (HC 202.519/DF, Quinta Turma, Relatora Ministra Laurita Vaz, DJe 03/02/2014, grifei)
+Com isso, tenho que não é possível depreender qual seria, efetivamente, o constrangimento ilegal sofrido pelo paciente, tendo em vista que o arrazoado é ininteligível.
+Ante o exposto, com fulcro no artigo 210, do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
+EMENTA
