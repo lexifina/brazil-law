@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de Lucas dos Santos Barboza - atacando-se o acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul (HC n. 5288599-30.2023.8.21.7000 - fls. 53/57) que manteve a conversão da prisão em flagrante do paciente, ocorrida em 5/10/2023, pela prática, em tese, do crime de tráfico de drogas (143 g de maconha, 42 g de cocaína e 29 g de crack - fl. 1.049), em preventiva nos Autos n. 5177947-25.2022.8.21.0001 (fls. 1.244/1.247), da 2ª Vara Criminal da comarca de Viamão/RS -, não comporta acolhimento.
+Com efeito, busca a impetração a revogação da prisão cautelar, ao argumento de deficiência de fundamentação: com o paciente Lucas não foi encontrada nenhuma substância entorpecente ou drogas. Ele foi preso na residência de sua tia. A versão policial de que o 3º suspeito seria o vigia restou afastada, quando de sua absolvição, logo, todo o relato policial carece de idoneidade (fl. 7).
+Ocorre que não se verifica constrangimento quanto à fundamentação do decreto de prisional (fls. 1.244/1.247), pois demonstrado o receio de perigo gerado pelo estado de liberdade à ordem pública, ressaltando os antecedentes e a reiteração delitiva do agente - Lucas foi solto há pouco mais de um mês, e ostenta condenação por tráfico (fl. 1.246) -, apresentando, assim, fundamento apto a consubstanciar a prisão.
+A propósito: as instâncias ordinárias apontaram prova da existência do delito e o receio de perigo gerado pelo estado de liberdade do agravante à ordem pública, com base em elementos concretos nos autos, mormente diante do risco de reiteração delitiva, pois o acusado ostenta condenação definitiva por delito idêntico (AgRg no HC n. 837.379/RS, de minha relatoria, Sexta Turma, julgado em 2/10/2023, DJe 5/10/2023).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. PRISÃO MANTIDA.
+Inicial indeferida liminarmente.
