@@ -1,0 +1,23 @@
+DECISÃO
+JEFERSON LEÃO, condenado por furto qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que manteve a qualificadora prevista no art. 155, § 4º, I, do CP, a despeito da inexistência de laudo pericial, situação que a defesa pretende ver modificada nesta oportunidade.
+Não houve pedido de liminar e não foram prestadas informações. Encaminhados os autos ao Ministério Público Federal, este se manifestou pelo não conhecimento do habeas corpus ou, caso conhecido, por sua denegação (fls. 48-52).
+Decido.
+Em relação à manutenção da qualificadora do rompimeno de obstáculo, destacou o acórdão impugnado, no que interessa, o seguinte (fls. 31, destaquei):
+ ..
+Era mesmo de rigor o reconhecimento da qualificadora do rompimento de obstáculo, uma vez que não se podia exigir que a vítima deixasse seu veículo, com vidro quebrado, parado, para aguardar a realização da perícia.
+O réu, por sua vez, confessou que quebrou o vidro da janela da vítima, para subtrair o celular, o que está em consonância com as palavras da vítima e dos policiais militares.
+Ademais, como bem consignou o douto magistrado sentenciante, "resta, portanto, evidente, que houve rompimento de obstáculo à subtração da coisa, já que a vítima informou que o vidro de seu veículo foi estilhaçado a fim de que o réu obtivesse acesso ao interior de seu automóvel e efetuasse a subtração, tolhendo a vítima de qualquer reação.
+Tal fato fora inclusive objeto de confissão" (fl. 93).
+A respeito do tema, registro que, no julgamento do REsp n. 1.320.298/MG, ocorrido no dia 15/12/2015, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte. Porém, levado referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria sob a seguinte ementa:
+ ..
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Recurso provido para afastar a qualificadora da escalada da condenação do recorrente pelo delito de furto.
+(REsp n. 1.320.298/MG, de minha relatoria, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016, destaquei.)
+Com relação à qualificadora do rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova, quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+A partir de então, com a ressalva de meu entendimento pessoal, aderi ao entendimento da Sexta Turma, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação do rompimento de obstáculo, ressalvados casos específicos devidamente justificados.
+No caso, a ausência do laudo foi devidamente justificada em razão da necessidade de se providenciar o reparo imediato dos vidros do veículo que foram danificados durante a prática do delito, cuja comprovação pode ser extráida não só das provas decorrentes do próprio quadro fático, tais como os depoimentos da vítima e dos policiais militares, mas também da confissão do paciente.
+Assim, tal situação se adequa a orientação desta corte de que "não obstante o crime em comento tenha deixado vestígios, a prova técnica para a comprovação do alegado rompimento de obstáculo não foi realizada, mas restou devidamente justificada a ausência do laudo pericial ante a necessidade de se providenciar o imediato reparo dos danos causados às janelas do veículo para que o dono pudesse utilizar o veículo sem colocar em risco a segurança de seus bens" (AgRg no REsp n. 1.900.903/DF, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 12/2/2021).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
