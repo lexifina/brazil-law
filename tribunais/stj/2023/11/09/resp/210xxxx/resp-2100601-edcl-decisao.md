@@ -1,0 +1,46 @@
+DECISÃO
+GAB COMERCIAL E INCORPORADORA DE IMÓVEIS SPE LTDA. opõe embargos de declaração, com pedido de efeitos modificativo e suspensivo, à decisão de fls. 506-512, que conheceu em parte do recurso especial e negou-lhe provimento em razão da ausência de violação dos arts. 489 e 1.013 do CPC e da incidência das Súmulas n. 7 e 83 do STJ.
+Em suas razões, a parte embargante alega que há pontos omissos e erro material na decisão ora embargada, uma vez que foi fundamentada na desistência do comprador anterior à Lei n. 13.786/2018, quando na realidade o contrato foi assinado quando essa lei já estava em vigor.
+Afirma que "o empreendimento em debate foi constituído sob o regime de patrimônio de afetação, expressamente consignado em contrato na descrição do imóvel e averbado na sua matrícula" (fl. 517).
+Sustenta que (fl. 519):
+ ..  o entendimento aplicado é omisso e infere em erro material ao passo que decidiu demanda diversa da pretendida, sendo certo que o Embargante não pode sofrer tamanho prejuízo, uma vez que, quando firmado contrato, já estava em vigor a Lei 13.786/2018 e por este motivo, imprescindível a aplicação integral da Lei 13.786/2018 que regia a relação jurídica à época da celebração do contrato.
+Requer o conhecimento e o provimento dos embargos a fim de que sejam sanadas a omissão e o erro material apontados, com efeitos modificativos .
+Não foram apresentadas contrarrazões aos embargos (fls. 716-717).
+É o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Ademais, a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+No caso, a parte embargante não apontou nenhuma omissão, obscuridade ou contradição no fundamento adotada pelo decisum, limitando-se a apontar erro material.
+A decisão embargada foi clara em aplicar a Súmula n. 83 do STJ, quanto à arguição de violação dos arts. 413, 421 e 884 do Código Civil, pois o entendimento adotado pelo Tribunal a quo se coaduna com a jurisprudência do STJ firmada no sentido de que é cabível a retenção de montante adequado e suficiente para indenizar o construtor pelo rompimento unilateral do contrato.
+Assim, não há omissão sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão).
+Entretanto, cabe o reconhecimento de erro material referente à premissa de que a rescisão do contrato se deu anteriormente à Lei n. 13.786/2018, pois consta expressamente do acórdão recorrido que o contrato fora firmado em 16/3/2021 (fl. 411).
+Contudo, independentemente disso, é mesmo caso de aplicação da Súmula n. 83 do STF, pois, acerca do percentual de retenção, a Corte local concluiu que os autores deveriam ser restituídos em 80% dos valores pagos, e que a retenção de 20% do valor solvido era suficiente para indenizar as rés pelas despesas com o desfazimento do negócio.
+Confira-se excerto do acórdão (fls. 411-418):
+Assim é que o contrato em questão, firmado em16/03/2021, contou com pouquíssimo tempo de vigência, tanto que a ação foi distribuída logo em 30/01/2022, menos de ano após a subscrição do compromisso. É certo que a aplicação integral da Lei 13.786/2018,neste caso peculiar, é excessivamente onerosa ao consumidor.
+Ressalte-se que o art. 51, IV, do Código de Defesa do Consumidor admite a possibilidade de revisão das cláusulas contratuais nulas, abusivas ou excessivamente onerosas, de forma que, dada a peculiaridade do caso concreto (contrato que teve pouquíssimo tempo de vigência), deve ser mantida a decisão de primeiro grau.
+ ..
+Não há sentido algum no caso em análise importo das as consequências legais aos autores, devendo ser mitigada a aplicabilidade da lei em questão.
+Se isto é assim, cabe a nota de que a retenção de 10%, nestas hipóteses, também não atende as peculiaridades da avença, tendo a iniciativa pela rescisão sido dos autores, por sua culpa, já que a ré, como já dito, apenas cumpria o contrato na cobrança dos valores. Percebe-se nítido interesse na rescisão por falta de interesse dos compradores em sua continuidade.
+Diante da impossibilidade da continuidade do negócio, o contrato celebrado entre as partes devia mesmo ter sido rescindido por culpa do comprador, com a consequente devolução departe dos valores solvidos, em nada interferindo a existência de património de afetação para a rescisão do contrato com devolução parcial de quantias, conforme argumentado no recurso.
+Esta C. Corte consolidou o entendimento no sentido de que, rescindido o contrato, as partes devem ser imediatamente restituídas ao estado anterior, mesmo em caso de inadimplemento do comprador, evitando-se o enriquecimento sem causa e afronta aos artigos 51, inciso IV, § 1º e 53 do Código de Defesa do Consumidor. Nesse sentido, as Súmulas n. 1 e 3, do TJSP:
+ ..
+Anote-se que o pedido de rescisão é um direito do comprador, ainda que ele esteja inadimplente, a teor do que dispõe a Súmula nº 1 deste E. Tribunal de Justiça.
+Portanto, a rescisão do contrato não depende da concordância da vendedora.
+ ..
+Sem prejuízo do que as partes livremente convencionam, a legislação atual consumerista mitiga a autonomia da vontade em detrimento de maior proteção ao consumidor em casos de abusividade, como ocorre no caso dos autos, não havendo que se falar em violação do princípio do pacta sunt servanda.
+Quanto ao percentual de devolução, este depende do caso concreto, sendo que a jurisprudência deste Tribunal tem fixado percentuais que variam de 75% a 90% (noventa por cento) dos valores pagos.
+O juízo "a quo" houve por bem determinar a devolução ao autor de 90% das quantias pagas.
+Todavia, é mais razoável e proporcional determinar que os autores sejam restituídos no montante de 80% dos valores pagos, seja porque a rescisão ocorreu por culpa deles, seja porque a retenção de 20% do valor solvido é suficiente para indenizar as rés pelas despesas de administração, desfazimento do negócio, etc.
+ ..
+Desse modo, a sentença merece pequena reforma, para que passe a constar que a ré deverá restituir aos autores 80% do valor recebido, nos termos acima delineados.
+A jurisprudência do STJ entende que é admitida a retenção no percentual de 10% a 25 % dos valores pagos, em caso de rescisão, por iniciativa do comprador, de contrato de promessa de compra e venda.
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESCISÃO CONTRATUAL. COMPRA DE BEM IMÓVEL. VIOLAÇÃO DO ART 1.022 E 489 DO CPC. AUSÊNCIA. ASSISTÊNCIA JUDICIAL GRATUITA, AUSÊNCIA DE PROVA, TAXAS ASSOCIATIVAS E HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 7/STJ. PRECEDENTES. RETENÇÃO DAS ARRAS CONFIRMATÓRIAS. NÃO CABIMENTO. TAXA DE FRUIÇÃO DE LOTE NÃO EDIFICADO. IMPOSSIBILIDADE. RETENÇÃO DE 20% DOS VALORES PAGOS PELO COMPRADOR. POSSIBILIDADE.
+1. Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem manifestou-se acerca de todas as questões levadas a seu conhecimento.
+2. Decidir de forma contrária ao que fora fixado na origem quanto a assistência judicial gratuita, ausência de prova, taxas associativas e honorários advocatícios, redundaria na necessária incursão na seara fática probatória. Súmula n. 7/STJ 3. Segundo a jurisprudência do STJ, "as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto d as arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no REsp n. 1.893.412/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/12/2020, DJe 11/12/2020), o que foi observado pelo Tribunal de origem. Caso de aplicação da Súmula n. 83/STJ.
+4. Nos termos da jurisprudência pacífica do STJ, é indevida a taxa de ocupação ou de fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja nenhum enriquecimento do comprador ou empobrecimento do vendedor (AgInt no REsp n. 2.020.258/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+5. Nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador é admitida a retenção no percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento) dos valores pagos. Precedentes.
+Agravo interno improvido. (AgInt no REsp n. 2.059.733/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Ante o exposto, acolho os embargos de declaração para corrigir erro material, sem efeitos modificativos.
+Fica prejudicado o pedido de efeito suspensivo.
+Publique-se. Intimem-se.
+EMENTA
