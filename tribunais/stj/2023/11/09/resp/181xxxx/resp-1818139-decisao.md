@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por NICILENE MARIA COSTA RIBEIRO FREIRE, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, contra o acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado:
+"PROCESSUAL CIVIL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS. PRELIMINARES CERCEAMENTO DE DEFESA E DE NULIDADE DO PROCESSO. REJEIÇÃO. MÉRITO. PEDIDO DE DILAÇÃO DO PRAZO PARA DESOCUPAÇÃO DO IMÓVEL. FALTA DE INTERESSE PROCESSUAL. PARTE BENEFICIÁRIA DA GRATUIDADE DE JUSTIÇA. AFASTAMENTO DOS HONORÁRIOS ADVOCATÍCIOS PREVISTOS NO CONTRATO DE LOCAÇÃO. NÃO CABIMENTO. SUCUMBÉNCIA RECIPROCA CARACTERIZADA. DISTRIBUIÇÃO PROPORCIONAL DOS HONORÁRIOS DE SUCUMBÉNCIA.
+1. Nos termos do artigo 507 do Código de Processo Civil "É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão".
+2. Constatado que a parte ré, ao interpor Agravo de Instrumento contra a decisão pela qual foi julgado parcialmente o mérito da causa, arguiu a ocorrência de cerceamento de defesa, mostra-se incabível a rediscussão da matéria em grau de recurso de apelação, eis que configurada a preclusão consumativa.
+3. Tratando-se de demanda ajuizada anteriormente à entrada em vigor do CPC/2015, não há obrigatoriedade de designação de audiência de conciliação entre as partes.
+4. A concessão dos benefícios da gratuidade de justiça não alcança os honorários advocatícios previstos em contrato de locação, cuja cobrança é assegurada pelo artigo 62, inciso II, alínea "d", da Lei nº 8.245/1991.
+5. Evidenciada a sucumbência recíproca e não equivalente entre as partes, devem as partes responder, de forma proporcional, pelo pagamento das custas, processuais e dos honorários advocatícios, na forma prevista no artigo 86, caput, do Código de Processo Civil.
+6. Apelação Cível conhecida. Preliminares rejeitadas. No mérito, recurso parcialmente provido" (fls. 304-305 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. e-STJ).
+No recurso especial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 334, § 4º, 437, e 1.046, todos do Código de Processo Civil, alegando, em síntese, que houve cerceamento ao direito de defesa na espécie, pois o sentenciante deveria ter designado data para audiência de conciliação, sob pena de nulidade do processo;
+(ii) artigo 98 do CPC/1973 asseverando que a gratuidade de justiça que lhe foi concedida suspende a exigibilidade de pagamento de honorários advocatícios, uma vez que o artigo 62, inciso II, alínea "d", da Lei 8.245/1991 não pode prevalecer sobre a lei processual;
+(iii) Sem mencionar os dispositivos legais contrariados, sustenta que reside com uma pessoa idosa, motivo pelo qual requereu maior prazo para desocupação do imóvel, mas o acórdão foi omisso no aspecto.
+Sem as contrarrazões, o recurso foi admitido na origem (e-STJ fls. 400-402).
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+Não há falar em cerceamento de defesa quando a ausência de realização de audiência de conciliação não é causa de nulidade do processo. Na hipótese a recorrente não demonstra prejuízo pela não realização do ato processual (AgInt no AREsp n. 1.968.508/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/2/2022, DJe de 24/2/2022.)
+Cita-se, por todos, o seguinte julgado:
+"DIREITO CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. LOCAÇÃO. VIOLAÇÃO AO ART. 535, II, DO CPC. NÃO-OCORRÊNCIA. AUDIÊNCIA DE CONCILIAÇÃO. DESNECESSIDADE. IMPROBABILIDADE DE ÊXITO. ART. 331, § 3º, DO CPC. PURGA DA MORA. INTIMAÇÃO DO DEFENSOR PÚBLICO. DESNECESSIDADE. PREVALÊNCIA DO PRINCÍPIO DA EFETIVIDADE PROCESSUAL. PRECEDENTE. RECURSO ESPECIAL CONHECIDO E IMPROVIDO.
+1. Os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão existentes na decisão recorrida.
+Não há falar em afronta ao art. 535, II, do CPC, quando a Turma Julgadora pronuncia-se de forma clara e precisa sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão.
+2. A não-realização da audiência de conciliação não importa nulidade do processo quando as circunstâncias da causa evidenciarem ser improvável sua obtenção. Inteligência do art. 331, § 3º, do CPC.
+3. Hipótese em que a não-intimação do inquilino para purgar a mora, por intermédio do Defensor Público que patrocina sua defesa, não importa nulidade do processo, tendo em vista que, malgrado houvesse tomado conhecimento da planilha de débitos, em nenhum momento buscou pagar a dívida.
+4. "Nos tempos atuais, não mais se justifica o apego à forma, em detrimento da efetividade processual, especialmente quando ausente prejuízo", de sorte que, "sempre que possível, observadas as garantias do devido processo legal, deve-se buscar a efetividade processual, evitando-se que o processo seja um fim em si mesmo" (REsp 216.719/CE, Rel. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, DJ 19/12/03).
+5. Recurso especial conhecido e improvido" (REsp n. 784.010/RJ, relator Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 18/3/2008, DJe de 2/6/2008.)
+No que se refere à violação do art. 98 do CPC/1973, melhor sorte não socorre à recorrente.
+O Tribunal de origem afirmou que "a gratuidade de justiça não alcança os honorários advocatícios previstos em contrato de locação, cuja cobrança é assegurada pelo artigo 62, inciso II, alínea "d", da Lei nº 8.245/1991". De fato, não há qualquer correlação entre a previsão contratual firmada entre as partes de pagamento de honorários advocatícios e a gratuidade de justiça prevista no art. 98 do CPC/1973
+Em sentido análogo, quanto à extensão da gratuidade de justiça, citam-se os seguintes julgados:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. REQUERIMENTO DE EXPEDIÇÃO DE OFÍCIO À JUNTA COMERCIAL. BENEFICIÁRIO DA GRATUIDADE JUDICIÁRIA. NÃO CABIMENTO. EMOLUMENTOS NÃO ABRANGIDOS PELA BENESSE.
+1. Ação de compensação por danos morais, em fase de cumprimento de sentença, da qual foi extraído o presente recurso especial interposto em 06/10/2022 e concluso ao gabinete em 30/03/2023.
+2. O propósito recursal consiste em definir se o benefício da gratuidade da justiça abrange os emolumentos relativos à certidão de inteiro teor de ato constitutivo de sociedade empresária fornecida pela Junta Comercial.
+3. Em regra, incumbe às partes adiantar as despesas dos atos que realizarem ou requererem no processo, desde o seu início até a plena satisfação do direito reconhecido no título (art. 82 do CPC/2015).
+Todavia, a pessoa natural ou jurídica, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios, tem direito à gratuidade da justiça (art. 98 do CPC/2015).
+4. A gratuidade da justiça abrange a isenção do recolhimento das custas e despesas elencadas no art. 98, § 1º, do CPC/2015, além de outros valores previstos em normas esparsas do diploma processual.
+Os emolumentos devidos à Juntas Comerciais não estão contemplados nesse rol e os serviços por elas desempenhados não se confundem com aqueles prestados pelos notários e registradores de imóveis, de modo que não é possível aplicar, por analogia, o disposto no art. 98, § 1º, IX, do CPC/2015. Ademais, as isenções de preços de serviços das Juntas Comerciais se restringem às hipóteses legais (art. 55, § 1º, da Lei nº 8.934/1994).
+5. A parte que pretender a obtenção de certidão emitida por Junta Comercial deverá fazer o requerimento diretamente à entidade. Poderá haver a dispensa no pagamento dos emolumentos devidos, se preenchidos os pressupostos exigidos para a concessão de eventual isenção prevista em lei do respectivo Estado. Não cabe ao Poder Judiciário, como regra geral, substituir a parte autora nas diligências que lhe são cabíveis para obter determinada prestação jurisdicional. A requisição judicial não se revela necessária, à medida em que não se trata de informação resguardada por sigilo ou, por outra razão, restrita a terceiro, cuidando-se de dados disponíveis ao público em geral (art. 29 da Lei nº 8.934/1994).
+6. Recurso especial conhecido e não provido" (REsp n. 2.060.489/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/6/2023, DJe de 23/6/2023 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. A GRATUIDADE DE JUSTIÇA NÃO AFASTA A RESPONSABILIDADE POR PENALIDADES PROCESSUAIS. SÚMULA 568/STJ.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O art. 98, § 4º, do CPC/2015, atribui ao beneficiário da gratuidade da justiça o dever de pagar, ao final, as multas processuais que lhe sejam impostas, razão pela qual estão excluídas do rol da gratuidade da justiça eventuais multas processuais praticadas em decorrência da litigância temerária do beneficiário. Precedentes.
+3. A impugnação da Súmula 568/STJ deve ser procedida com a indicação de precedentes contemporâneos ou supervenientes aos apontados pela decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial desta Corte Superior, o que não foi procedido na espécie.
+4. Agravo interno não provido" (AgInt no AREsp n. 1.710.737/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/2/2021, DJe de 26/2/2021.)
+Ante o exposto, nego provimento ao recurso especial provimento.
+Publique-se.
+Intimem-se.
+ EMENTA
