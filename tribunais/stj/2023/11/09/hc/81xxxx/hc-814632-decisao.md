@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de LUCIANO DO PRADO FERRAZ, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada pela suposta prática do crime de homicidio qualificado, homicídio qualificado na forma tentada por duas vezes e extorsão (fls. 39-49).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem ao fundamento da garantia da ordem pública, notadamente pelo modus operandi do crime e da periculosidade do paciente -"Trata-se de crime de extrema gravidade concreta, que revela alto grau de periculosidade do paciente que, supostamente, é integrante de facção criminosa", em acórdão de fls. 18-21.
+No presente writ, postula a defesa, em síntese, a revogação da prisão preventiva decretada em desfavor do ora paciente em razão: a) da ausência dos requisitos ensejadores da prisão preventiva; b) ausência de autoria delitiva; c) condições pessoais favoráveis; d) possibilidade da aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 63-65.
+As informações foram prestadas às fls. 67-69.
+O Ministério Público Federal, às fls. 74-80, manifestou em parecer que restou assim ementado:
+"HABEAS CORPUS COM PEDIDO LIMINAR. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE.
+1. O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.
+2. Comprovada a materialidade, havendo indícios de autoria e restando demonstrada, com elementos concretos, a necessidade da prisão preventiva para garantia da ordem pública, afasta-se a alegação de constrangimento ilegal.
+3. Parecer pelo não conhecimento do writ." - fl. 74.
+É o relatório. DECIDO.
+In casu, a prisão preventiva do paciente se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a gravidade concreta d a conduta imputada, eis que, em tese, o paciente juntamente com outros 09 corréus, por motivo torpe (o delito teria ocorrido porque as vítimas, entre elas o prefeito, não teriam efetuado o pagamento de valores que membros da facção criminosa entendiam que tinham direito em razão do apoio na campanha eleitoral), por meio que dificultou a defesa da vítima e para assegurar a vantagem de outro crime, mataram o Prefeito Municipal de Lajeado Bugre, além de tentativa de homicídio do Vice-Prefeito e de outro servidor público- fl. 20; havendo, ainda, indícios de que seria membro de facção criminosa- fl. 21; circunstâncias que evidenciam um maior desvalor da conduta e a periculosidade do ora paciente, justificando a segregação cautelar imposta.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça a respeito:
+"A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta"(AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 22/6/2023, grifei.)
+"No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso" (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.)
+Quanto a alegação acerca da ausência de autoria delitiva, resslate-se que:
+"A discussão acerca de provas de autoria e materialidade não é providência a ser aferida nesta via, cujo escopo é assegurar o direito de ir e vir em face de ilegalidade flagrante, sendo o revolvimento do acervo fático-probatório, portanto, incompatível com a estreiteza procedimental do mandamus." (AgRg no HC n. 768.421/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 16/3/2023.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
