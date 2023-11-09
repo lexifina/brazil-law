@@ -1,0 +1,29 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+
+    “Voto nº 1.383. Recurso Inominado interposto pela São Paulo Previdência-SPPREV. Agente Penitenciário Aposentado. Pretensão que os proventos fossem calculados com base na ‘classe’ que se enquadrava antes de se aposentar (classe IV - fls.10/12) Diferenças devidas, a contar da data em que se deu a aposentadoria, observada a prescrição quinquenal. Juros e correção monetária escorreitos. Precedentes. Sentença de procedência mantidas por seus próprios fundamentos. Recurso desprovido.” (doc. eletrônico 10, p. 1)
+
+    Os embargos de declaração opostos foram acolhidos para sanar a omissão quanto à aplicação do índice previsto no art. 3º da EC nº 113/2021 (doc. eletrônico 13).
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5º, XXXVI, da mesma Carta, à EC nº 113/2021, ao Tema 334/STF e Súmula 359/STF.
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece prosperar.
+
+    Isso porque para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos — o que é vedado pela Súmula 279/STF — e das normas infraconstitucionais (Emenda Constitucional Estadual 49/20 e Lei Complementar Estadual nº 1.354/20) aplicáveis ao caso, de modo que eventual ofensa à Constituição Federal seria indireta, o que inviabiliza o recurso. Nesse sentido, destaco os seguintes julgados desta Suprema Corte:
+
+     “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo e Previdenciário. 3. Pensionista de escrevente de serventia extrajudicial. Lei estadual 10.393/1970. 4. Aposentadoria. Cumprimento de requisitos. Necessidade de interpretação da legislação infraconstitucional pertinente e revolvimento do acervo fático-probatório dos autos. Incidência da Súmula 279/STF. 5. Reajuste dos proventos com base no salário mínimo. Impossibilidade. Manutenção de alíquota de contribuição. Ausência de direito adquirido a regime jurídico. 6. O STF, ao apreciar a ADI 4.420, não analisou a matéria sob a ótica da vinculação ao salário mínimo ou da manutenção da alíquota da contribuição previdenciária. Precedentes de ambas as Turmas. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental não provido. (ARE 1438282 AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 3/11/2023, grifei)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. A reversão do julgado depende da análise do conjunto probatório constante dos autos, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento.” (RE 1157827 AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 07-/11/2018, grifei).
+
+    Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 27.08.2018. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. GRATIFICACÃO. INCORPORAÇÃO AOS PROVENTOS DE APOSENTADORIA. PREENCHIMENTO DE REQUISITOS. LEI ESTADUAL 10.460/88. REEXAME DE LEGISLAÇÃO LOCAL E DE FATOS E PROVAS. SÚMULAS 279 E 280 DO STF. 1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à possibilidade de incorporação aos proventos do ora Agravado da gratificação de maior valor que tenha percebido até a promulgação da EC 20/98, seria necessário o reexame dos fatos e provas dos autos, além da legislação local aplicável à espécie (Lei Estadual 10.460/88). Incidência das Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Incabível a aplicação do disposto no art. 85, §11, do CPC (Súmula 512 do STF). (ARE 1107684 AgR/GO, Rel. Min. Edson Fachin, Segunda Turma, DJe 5/12/2018)
+
+    Posto isso, nego provimento ao recurso (art. 932, CPC).
+
+    Publique-se.
+
+    Brasília, 9 de novembro de 2023.
+
+Ministro Cristiano Zanin
+
+Relator
