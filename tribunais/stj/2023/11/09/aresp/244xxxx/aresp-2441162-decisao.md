@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, porquanto intempestivo.
+Apresentada contraminuta e confirmada a tempestividade do apelo nobre, manifestou-se o Ministério Público Federal, no mérito, pelo seu desprovimento.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação dos arts. 50, 57, 146-C e 146-D da Lei de Execuções Penais, alegando, em suma, que "a violação dos deveres do monitoramento eletrônico não constitui falta grave, visto que a conduta não está inserida no artigo 50 da LEP, não cabendo interpretação extensiva do rol taxativo previsto no referido dispositivo. Portanto, o reconhecimento da falta de natureza grave, conforme o acórdão combatido mostra-se violação do artigo alhures" (fl. 144).
+Pugnou, ao final, pela "admissão, processamento e reconhecimento do presente recurso e o consequente reconhecimento da violação clara aos Artigos 50, 57, 146-C e 146-D, da Lei de Execuções Penais, para reconstituir o reconhecimento da falta média e aplicação de advertência, afastando assim a Falta grave" (fl. 152).
+Sobre a controvérsia aqui trazida, assim se manifestou o Tribunal local (fls. 125-127):
+ ..  É dos autos que, no curso do cumprimento da pena, aportou aos autos da execução o PAD 060/2022, noticiando a suposta prática de falta grave consistente em violação da área de monitoramento eletrônico nos dias 8/12/2021, 15/12/2021 e 31/12/2021.
+ ..
+Como é cediço, o Superior Tribunal de Justiça mudou o entendimento acerca do reconhecimento de falta grave em caso de violação ao monitoramento eletrônico e sedimentou o entendimento de que a inobservância do perímetro estabelecido para monitoramento de tornozeleira eletrônica, bem como a permanência com ela descarregada configura falta disciplinar de natureza grave, nos termos dos art. 50, VI, e art. 39, V, da LEP (Jurisprudência em Teses do STJ - Edição n. 146, Teses n. 4 e n. 5).
+ ..
+De igual modo, a LEP dispõe que o reconhecimento da falta grave autoriza a regressão de regime (art. 118, I), a revogação de saída temporária (art. 125), a perda dos dias remidos (art. 127) e a conversão de pena restritiva de direitos em privativa de liberdade (art. 181, § 1º, d, e § 2º), conforme se observa no parágrafo único do art. 48 da Lei de Execução Penal.
+Dessa forma, uma vez que foi constatada a violação à área de monitoramento eletrônico no período de 8/12/2021, 15/12/2021 e 31/12/2021, deve ser reconhecida a prática da falta grave, nos termos dos art. 50, VI, e art. 39, V, da LEP.
+Por consequência, aplico a regressão de regime e decreto a perda de 1/6 dos dias eventualmente remidos, por entender ser razoável ao caso, considerando a natureza da infração (violação ao monitoramento eletrônico), que frustrou as funções retributiva e sancionadora da pena. ..
+Como visto, reconheceu-se falta grave do apenado, ora agravante, uma vez que "foi constatada a violação à área de monitoramento eletrônico no período de 8/12/2021, 15/12/2021 e 31/12/2021", posicionamento esse que vai ao encontro da jurisprudência desta Corte, não havendo falar-se em violação aos dispositivos supracitados. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. VIOLAÇÃO DA TORNOZELEIRA ELETRÔNICA. PERDA DA COMUNICAÇÃO. FUGA. DECISÃO FUNDAMENTADA. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. A teor dos precedentes desta Corte, a violação da tornozeleira eletrônica, o descarregamento total da bateria, a perda da comunicação com o sistema configura falta grave, nos termos dos arts. 50, II da LEP, pois o apenado, com sua conduta, descumpre as ordens do servidor responsável pela monitoração e impede a fiscalização da execução da pena.
+2. As instâncias ordinárias consideraram inacreditáveis as alegações de que houve perda de sinal de GPS do aparelho de monitoramento eletrônico. A modificação desse entendimento demandaria aprofundado exame do acervo fático-probatório do processo de execução, providência inviável na via estreita do habeas corpus.
+3. Agravo regimental desprovido. (AgRg no HC n. 821.741/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MONITORAMENTO ELETRÔNICO. PERIMETRO VIOLADO. FALTA GRAVE. CONSECTÁRIOS LEGAIS. VALORAÇÃO DA PROVA.
+1. ""Nos termos do art. 146-C, I, da LEP, o apenado submetido a monitoramento eletrônico tem que observar as condições e limites estabelecidos para deslocamento. Ao violar a zona de monitoramento, o apenado desrespeitou ordem recebida, o que configura a falta grave tipificada no art. 50, VI, c/c o art. 39, V, ambos da LEP" (HC 438.756/RS, rel. Ministro FELIX FISCHER, QUINTA TURMA, j. 5/6/2018, DJe 11/6/2018)" (AgRg no HC n. 618.454/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 3/11/2020, sem grifos no original).
+ ..
+3. No caso, consta expressamente do acórdão que o apenado "saiu de sua área de inclusão nos dias dia 10/10/2021, das 09h48min às 10h08min; 02/10/2021, das 14h16min às 14h48min; 17/10/2021, das 14h19min às 14h43min; 16h57min às 17h34min e no dia 12/12/2021, das 05h54min às 06h01min. (7 minutos)".
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 2.297.634/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/8/2023, DJe de 21/8/2023.)
+Incide, ao caso, o enunciado da Súmula n. 83/STJ, também aplicável à alínea "a" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
