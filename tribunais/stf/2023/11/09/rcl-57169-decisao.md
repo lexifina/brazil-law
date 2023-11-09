@@ -1,0 +1,85 @@
+Trata-se de reclamação ajuizada pela Editora Ana Cássia S.A. contra sentença do Juiz de Direito da 12ª Vara Cível e de Acidentes de Trabalho da Comarca de Manaus/AM nos autos do Processo 0629872-54.2022.8.04.0001, para a garantia da autoridade da decisão do Supremo Tribunal Federal no julgamento da ADPF 130/DF.
+
+    Requer, ao final, a antecipação dos efeitos da tutela pretendida, determinando-se a suspensão dos efeitos do ato reclamado e, no mérito, a respectiva cassação para que outro seja proferido em observância ao decidido por esta Suprema Corte na ADPF 130/DF (petição inicial, p. 20).
+
+    O Ministro Ricardo Lewandowski, que me antecedeu na relatoria deste caso, determinou a instrução prévia do feito (doc. eletrônico 13).
+
+    A beneficiária do ato reclamado apresentou contestação (doc. eletrônico 16).
+
+    A autoridade reclamada prestou esclarecimentos (doc. eletrônico 27).
+
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento da reclamação e, no mérito, pela procedência do pedido (doc. eletrônico 29).
+
+    É o relatório.
+
+    A reclamante aponta violação ao julgamento de mérito da ADPF 130/DF. Eis a ementa do acórdão, na parte essencial à solução da controvérsia ora apreciada:
+
+    “3. O CAPÍTULO CONSTITUCIONAL DA COMUNICAÇÃO SOCIAL COMO SEGMENTO PROLONGADOR DE SUPERIORES BENS DE PERSONALIDADE QUE SÃO A MAIS DIRETA EMANAÇÃO DA DIGNIDADE DA PESSOA HUMANA: A LIVRE MANIFESTAÇÃO DO PENSAMENTO E O DIREITO À INFORMAÇÃO E À EXPRESSÃO ARTÍSTICA, CIENTÍFICA, INTELECTUAL E COMUNICACIONAL. TRANSPASSE DA NATUREZA JURÍDICA DOS DIREITOS PROLONGADOS AO CAPÍTULO CONSTITUCIONAL SOBRE A COMUNICAÇÃO SOCIAL. O art. 220 da Constituição radicaliza e alarga o regime de plena liberdade de atuação da imprensa, porquanto fala: a) que os mencionados direitos de personalidade (liberdade de pensamento, criação, expressão e informação) estão a salvo de qualquer restrição em seu exercício, seja qual for o suporte físico ou tecnológico de sua veiculação; b) que tal exercício não se sujeita a outras disposições que não sejam as figurantes dela própria, Constituição. A liberdade de informação jornalística é versada pela Constituição Federal como expressão sinônima de liberdade de imprensa. Os direitos que dão conteúdo à liberdade de imprensa são bens de personalidade que se qualificam como sobredireitos. Daí que, no limite, as relações de imprensa e as relações de intimidade, vida privada, imagem e honra são de mútua excludência, no sentido de que as primeiras se antecipam, no tempo, às segundas; ou seja, antes de tudo prevalecem as relações de imprensa como superiores bens jurídicos e natural forma de controle social sobre o poder do Estado, sobrevindo as demais relações como eventual responsabilização ou consequência do pleno gozo das primeiras. A expressão constitucional observado o disposto nesta Constituição" (parte final do art. 220) traduz a incidência dos dispositivos tutelares de outros bens de personalidade, é certo, mas como consequência ou responsabilização pelo desfrute da "plena liberdade de informação jornalística (§ 1º do mesmo art. 220 da Constituição Federal). Não há liberdade de imprensa pela metade ou sob as tenazes da censura prévia, inclusive a procedente do Poder Judiciário, pena de se resvalar para o espaço inconstitucional da prestidigitação jurídica. Silenciando a Constituição quanto ao regime da internet (rede mundial de computadores), não há como se lhe recusar a qualificação de território virtual livremente veiculador de ideias e opiniões, debates, notícias e tudo o mais que signifique plenitude de comunicação.” (grifei)
+
+    O excerto transcrito confronta a ideia de que a liberdade de imprensa e de informação seriam interesses de ordem exclusivamente social, e os trata como direitos de personalidade sobrepostos a outros direitos dessa mesma natureza, tais como a intimidade, a vida privada, a honra e a imagem das pessoas.
+
+    Isso porque, nas palavras do relator da ADPF 130/DF, Ministro Carlos Ayres Britto, o pleno exercício da liberdade de informação jornalística configuraria “natural forma de controle social sobre o poder do Estado”, atributo que lhe caracteriza como bem jurídico de natureza superior aos demais, também por ser um corolário de um Estado democrático de direito.
+
+    Enfatizo, por evidente, que não existem direitos absolutos, e que a colisão entre direitos fundamentais deve ser resolvida pelo critério da proporcionalidade.
+
+    Apesar disso, ao declarar a inconstitucionalidade da integralidade da Lei n. 5.250/1967, o Supremo Tribunal Federal colocou especial ênfase sobre a liberdade de expressão, coibindo-se a censura como forma de combate aos inevitáveis abusos (art. 5°, IX, da Constituição). Para tal finalidade, entendeu esta Suprema Corte que a própria Constituição assegura o direito de resposta, e a indenização por dano material, moral ou à imagem (art. 5°, X). É a regra geral.
+
+    Feitas essas considerações, passo ao exame do pedido.
+
+    A informação veiculada afirmava:
+
+    “Em 2018, o Ministério Público Federal (MPF) denunciou o diretor financeiro da Costa Rica, Leopoldo Nelson Brozzo Botelho, pelo crime de lavagem de dinheiro de verbas federais. De acordo com a denúncia, o executivo foi responsável por ocultar a origem ilegal de mais de R$ 1 milhão proveniente do esquema de desvio de recursos públicos da saúde, revelado a partir da Operação Maus Caminhos” (doc. eletrônico 16, p. 2)
+
+    Tal informação, em geral, está corroborada por descritiva informação presente no site do próprio Ministério Público Federal:
+
+    “O Ministério Público Federal (MPF) no Amazonas denunciou [...] o diretor financeiro da empresa Costa Rica Serviços Técnicos, Leopoldo Nelson Brozo Botelho, e os empresários [...] pelo crime de lavagem de dinheiro.” (doc. eletrônico 5, p. 1)
+
+    Portanto, observa-se que a informação veiculada é verdadeira, no essencial. É verdade que um sócio de empresa beneficiária do ato reclamado estava sendo investigado e foi denunciado pelo Ministério Público Federal.
+
+    A justificar a restrição da liberdade de imprensa, o juiz de primeiro grau afirmou:
+
+    “Primeiramente, destaque-se que a PESSOA JURÍDICA de fato não é mera extensão de seus sócios, sendo considerada verdadeira pessoa pelo Direito, com direitos e obrigações próprios, os quais apenas excepcionalmente estendem-se aos sócios” (doc. eletrônico 10, p. 22)
+
+    É verdade que a pessoa jurídica não é mera extensão dos seus sócios, conforme ficou expresso na sentença. No entanto, também é verdade (isso é incontroverso) que um sócio da pessoa jurídica estava sim sendo investigado por lavagem de dinheiro.
+
+    O problema, quando muito, poderia ter sido resolvido por direito de resposta. Porém, nos autos, não consta informação sobre a eventual falta de concessão do direito de resposta ao retratado nas reportagens.
+
+    Por outro ângulo, é evidente que existe interesse jornalístico no relato em questão, pois havia dinheiro público envolvido. É incontroverso que a beneficiária do ato reclamado recebia dinheiro público.
+
+    No caso em apreço, a liberdade de imprensa e de informação foram colocadas em segundo plano em relação ao direito de imagem da empresa, invertendo-se o regime de prioridade que ficou estabelecido no acórdão da ADPF 130/DF para essas gamas de direitos fundamentais.
+
+    Nessa direção, vejam-se decisões do Supremo Tribunal Federal em casos semelhantes ao presente:
+
+    “RECLAMAÇÃO – ALEGAÇÃO DE DESRESPEITO À AUTORIDADE DO JULGAMENTO PLENÁRIO DA ADPF 130/DF – EFICÁCIA VINCULANTE DESSA DECISÃO DO SUPREMO TRIBUNAL FEDERAL – POSSIBILIDADE DE CONTROLE, MEDIANTE RECLAMAÇÃO, DE ATOS QUE TENHAM TRANSGREDIDO TAL JULGAMENTO – LEGITIMIDADE ATIVA DE TERCEIROS QUE NÃO INTERVIERAM NO PROCESSO DE FISCALIZAÇÃO NORMATIVA ABSTRATA – LIBERDADE DE EXPRESSÃO – PROTEÇÃO CONSTITUCIONAL – DIREITO DE INFORMAR: PRERROGATIVA FUNDAMENTAL QUE SE COMPREENDE NA LIBERDADE CONSTITUCIONAL DE MANIFESTAÇÃO DO PENSAMENTO E DE COMUNICAÇÃO – INADMISSIBILIDADE DE CENSURA ESTATAL, INCLUSIVE DAQUELA IMPOSTA, PELO PODER JUDICIÁRIO, À LIBERDADE DE EXPRESSÃO, NESTA COMPREENDIDA A LIBERDADE DE INFORMAÇÃO JORNALÍSTICA – TEMA EFETIVAMENTE VERSADO NA ADPF 130/DF, CUJO JULGAMENTO FOI INVOCADO COMO PARÂMETRO DE CONFRONTO – PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL QUE DESAUTORIZAM A UTILIZAÇÃO, PELO JUDICIÁRIO, DO PODER GERAL DE CAUTELA COMO ILEGÍTIMO INSTRUMENTO DE INTERDIÇÃO CENSÓRIA DOS MEIOS DE COMUNICAÇÃO – RECURSO DE AGRAVO IMPROVIDO. – A liberdade de imprensa, qualificada por sua natureza essencialmente constitucional, assegura aos profissionais de comunicação social, inclusive àqueles que praticam o jornalismo digital, o direito de opinar, de criticar (ainda que de modo veemente), de buscar, de receber e de transmitir informações e ideias por quaisquer meios, ressalvada, no entanto, a possibilidade de intervenção judicial, necessariamente ‘a posteriori’, nos casos em que se registrar prática abusiva – inocorrente na espécie – dessa prerrogativa de ordem jurídica, resguardado, sempre, o sigilo da fonte quando, a critério do próprio jornalista, este assim o julgar necessário ao seu exercício profissional. Precedentes. – A prerrogativa do jornalista de preservar o sigilo da fonte (e de não sofrer qualquer sanção, direta ou indireta, em razão da prática legítima dessa franquia outorgada pela própria Constituição da República), oponível, por isso mesmo, a qualquer pessoa, inclusive aos agentes, autoridades e órgãos do Estado, qualifica-se como verdadeira garantia institucional destinada a assegurar o exercício do direito fundamental de livremente buscar e transmitir informações. Doutrina. Precedentes (Inq 870/RJ, Rel. Min. CELSO DE MELLO – Rcl 21.504-AgR/SP, Rel. Min. CELSO DE MELLO). – Não há pessoas nem sociedades livres sem liberdade de manifestação do pensamento e de imprensa cujo exercício – por não constituir concessão do Estado – configura direito inalienável e privilégio inestimável de todos os cidadãos. “Uma imprensa livre é condição fundamental para que as sociedades resolvam seus conflitos, promovam o bem-estar e protejam sua liberdade” (Declaração de Chapultepec – grifei). – A liberdade de manifestação do pensamento, que representa um dos fundamentos em que se apoia a própria noção de Estado Democrático de Direito, não pode ser restringida, ainda que em sede jurisdicional, pela prática da censura estatal, sempre ilegítima e impregnada de caráter proteiforme, eis que se materializa, “ex parte Principis”, por qualquer meio que importe em interdição, em inibição, em embaraço ou em frustração dessa essencial franquia constitucional, em cujo âmbito compreende-se, por efeito de sua natureza mesma, a liberdade de imprensa. – O Supremo Tribunal Federal tem destacado, de modo singular, em seu magistério jurisprudencial, a necessidade de preservar-se a prática da liberdade de informação, resguardando-se, inclusive, o exercício do direito de crítica que dela emana, por tratar-se de prerrogativa essencial que se qualifica como um dos suportes axiológicos que conferem legitimação material à própria concepção do regime democrático. – A crítica que os meios de comunicação social e as redes digitais dirigem às pessoas públicas, por mais dura e veemente que possa ser, deixa de sofrer, quanto ao seu concreto exercício, as limitações externas que ordinariamente resultam dos direitos de personalidade. – Não induz responsabilidade civil, nem autoriza a imposição de multa cominatória ou “astreinte” (Rcl 11.292-MC/SP, Rel. Min. JOAQUIM BARBOSA – Rcl 15.243-AgR/RJ, Rel. Min. CELSO DE MELLO – Rcl 16.434/ES, Rel. Min. ROSA WEBER – Rcl 18.638/CE, Rel. Min. ROBERTO BARROSO – Rcl 20.985/SP, Rel. Min. CELSO DE MELLO, v.g.), a publicação de matéria jornalística cujo conteúdo divulgue observações em caráter mordaz ou irônico ou, então, veicule opiniões em tom de crítica severa, dura ou, até, impiedosa, ainda mais se a pessoa a quem tais observações forem dirigidas ostentar a condição de figura pública – investida, ou não, de autoridade governamental –, pois, em tal contexto, a liberdade de crítica qualifica-se como verdadeira excludente anímica, apta a afastar o intuito doloso de ofender. Jurisprudência. Doutrina. – Mostra-se incompatível com o pluralismo de ideias, que legitima a divergência de opiniões, a visão daqueles que pretendem negar aos meios de comunicação social (e aos seus profissionais) o direito de buscar e de interpretar as informações, bem assim a prerrogativa de expender as críticas pertinentes. Arbitrária, desse modo, e inconciliável com a proteção constitucional da informação a repressão, ainda que civil, à crítica jornalística, pois o Estado – inclusive seus Juízes e Tribunais – não dispõe de poder algum sobre a palavra, sobre as ideias e sobre as convicções manifestadas pelos profissionais da Imprensa. Precedentes do Supremo Tribunal Federal (AI 705.630-AgR/SC, Rel. Min. CELSO DE MELLO, v.g.). Jurisprudência comparada (Corte Europeia de Direitos Humanos e Tribunal Constitucional espanhol). – O exercício da jurisdição cautelar por magistrados e Tribunais não pode converter-se em prática judicial inibitória, muito menos censória, da liberdade constitucional de expressão e de comunicação, sob pena de o poder geral de cautela atribuído ao Judiciário transformar-se, inconstitucionalmente, em inaceitável censura estatal. Consequente inadmissibilidade da decisão judicial que determina a interdição de textos jornalísticos publicados em órgãos de comunicação social ou que ordena “a retirada de matéria e de imagem” divulgadas em “sites” e em portais noticiosos. Precedentes.” (Rcl 31.117-AgR/PR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 7/10/2020 - grifei)
+
+    “Ementa: CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. VIOLAÇÃO AO DECIDIDO NA ADPF 130. OCORRÊNCIA. DECISÃO RECLAMADA QUE ESTABELECEU RESTRIÇÃO À LIBERDADE DE EXPRESSÃO. RECLAMAÇÃO PROCEDENTE.
+
+    1. O fundamento central da decisão impugnada, para determinar a retirada das matérias jornalísticas nos canais de comunicação, apoiado em mera possibilidade de inocência do beneficiário da decisão, configura-se em evidente obstrução ao trabalho investigativo inerente à imprensa livre, além de caracterizar embaraço ao repasse das informações à opinião pública.
+
+    2. Dessa forma, o Juízo impugnado impôs restrição à liberdade da atividade de comunicação, o que é repelido frontalmente pelo texto constitucional.
+
+    3. Nessas circunstâncias, em que a decisão reclamada cria óbices à divulgação de informações, sem apresentar razões legítimas para tal conduta, há manifesta restrição à liberdade de expressão no seu aspecto negativo, a revelar, de maneira inequívoca, ofensa à ADPF 130 (Rel. Min. AYRES BRITTO, Pleno, DJe de 6/11/2009). 4. Reclamação julgada procedente.” (Rcl 45.682/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 8/4/2022 - grifei)
+
+    “Agravo regimental em reclamação. 2. Direito Constitucional. 3. Direito à liberdade de expressão e à liberdade de imprensa. Decisão liminar que restringe veiculação de matéria jornalística. 4. Alegação de ofensa à decisão da ADPF 130. STF proibiu a censura de publicações jornalísticas, bem como tornou excepcional qualquer tipo de intervenção estatal na divulgação de notícias e de opiniões, sendo certo, ainda, que eventual abuso da liberdade de expressão deve ser reparado, preferencialmente, por meio de retificação, direito de resposta ou indenização. Precedentes. 5. Ausência de argumentos que possam influenciar a convicção do julgador. 6. Negado provimento ao agravo regimental.” (Rcl 49.506-AgR/AM, Rel. Ministro Gilmar Mendes, Segunda Turma, DJe de 17/3/2022)
+
+    No mesmo sentido, as decisões monocráticas: Rcl 61.130-MG, Rel. Min. Luís Roberto Barroso, DJe de 24/8/2023; Rcl 57.785/MG, Rel. Min. Gilmar Mendes, DJe de 13/6/2023; Rcl. 620.010 e 61.622, de minha relatoria, DJe de 19/9/2023 e 25/9/2023.
+
+    Por fim, observo que, recentemente, o Plenário desta Suprema Corte extinguiu vários processos movidos por autoridades contra empresa jornalística, por críticas relacionadas aos seus vencimentos, por afronta ao decidido na ADPF 130/DF (Rcl 23899, Tribunal Pleno, Rel. Min. Rosa Weber, DJe 30/10/2023.
+
+    O autor indicou o valor da causa em R$ 100,00. Assim, por se tratar de valor irrisório, os honorários devem ser fixados equitativamente, nos termos do art. 85, § 8º, do Código de Processo Civil.
+
+    Ante o exposto, com base no art. 161, parágrafo único do RISTF, e art. 992 do Código de Processo Civil, julgo procedente o pedido para cassar a decisão proferida nos autos 0629872-54.2022.8.04.0001, devendo ser proferida outra, com a observância das decisões proferidas na ADPF 130/DF e nesta reclamação.
+
+    Condeno o beneficiário do ato reclamado ao pagamento de honorários de advogado, no valor de R$ 1.000,00, nos termos do art. 85, § 8º, do Código de Processo Civil.
+
+    Comunique-se.
+
+    Atribua-se a esta decisão o caráter de mandado/ofício.
+
+    Publique-se.
+
+    Brasília, 9 de novembro de 2023.
+
+    Ministro Cristiano Zanin
+
+    Relator
