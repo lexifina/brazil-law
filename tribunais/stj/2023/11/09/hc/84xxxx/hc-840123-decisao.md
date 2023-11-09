@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de VANDERLEI DE CASTRO CARDOSO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo de Execução Penal n. 0004323-67.2023.8.26.0996, assim ementado:
+"Agravo em execução penal. Decisão que fixou, como termo inicial para o prazo de progressão ao regime aberto, o dia em que o sentenciado cumpriu o tempo de pena necessário para a progressão ao regime intermediário. Recurso do Ministério Público. 1. A Turma Especial da Seção Criminal do Tribunal de Justiça, julgando Incidente de Resolução de Demandas Repetitivas (IRDR nº 2103746-20.2018.8.26.0000, rel. Des. Péricles Piza) assentou a tese de que a decisão judicial que determina a progressão de regime tem natureza declaratória, de sorte que o termo inicial do prazo para nova progressão de regime é a data em que sentenciado satisfez os requisitos objetivo e subjetivo para a progressão. Orientação que deve ser seguida pelos demais órgãos da Corte (artigo 985, I e II, do Código de Processo Civil). 2. Neste sentido, o início do prazo de progressão para o regime aberto corresponde ao dia em que satisfeito o último dos requisitos para a progressão ao regime semiaberto, a ser definido de forma casuística. Embora não sej a possível uma definição exata de quando implementado o requisito subjetivo, o certo é que, no caso de realização de exame criminológico, mostra-se razoável tomar, como data de satisfação do citado requisito, e, por consequência, por termo inicial do prazo para a progressão ao regime aberto (na hipótese de o exame ser posterior ao dia em que alcançado o requisito objetivo), o dia da feitura do exame criminológico. Recurso provido" (fl. 10).
+Consta dos autos que o Juízo da Execução indeferiu o pedido de retificação do cálculo de penas feito pelo Parquet estadual, mantendo como data-base para a progressão "o dia em que o sentenciado cumpriu o requisito objetivo para o regime intermediário" (fl. 10).
+O Tribunal a quo deu provimento ao recurso do Ministério Público "a fim de definir que o termo inicial do prazo para progressão ao regime aberto é o dia da realização do exame criminológico" (fl. 13).
+No presente writ, a defesa sustenta, em suma, que o exame criminológico apenas atesta condição preexistente, assim, o termo inicial para a concessão de progressão de regime deve ser fixado considerando data anterior, assim como decidido pelo Juiz da Execução.
+Requer a concessão da ordem nesse sentido.
+É o relatório.
+Decido.
+O tema apontado pela defesa fora apreciado no julgamento do HC n. 854.607/SP, o qual impugnou o acórdão proferido no Agravo de Execução Penal n. 0004323-67.2023.8.26.0996, ora impugnado.
+Assim, diante da identidade de pedidos, não conheço do presente habeas corpus, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
+EMENTA
