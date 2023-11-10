@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por NEUSA DA SILVA MUNHÃO, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 327):
+PREVIDENCIÁRIO. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESCONTO DE PAGAMENTOS ADMINISTRATIVOS. PRESCRIÇÃO QUINQUENAL. AGRAVO IMPROVIDO.
+1. O título executivo reconheceu a atividade rural exercida de 22/03/1961 a 31/08/1969, concedendo à parte autora o benefício de aposentadoria por tempo de contribuição integral, desde a data do requerimento administrativo, em 15/10/2003.
+2. A decisão agravada determinou que fossem deduzidas as rendas mensais pagas a título de auxílio-doença (nº 570.087.925-1), no período de 05/08/2006 a 31/08/2006, e de aposentadoria por tempo de contribuição(nº 140.214.906-6), no período de 05/09/2007 a 28/02/2017.
+3. Verifica-se que o segurado, ora agravante, em seus cálculos, somente efetuou os descontos a partir de 22/07/2014, pois considerou como prescritas as parcelas anteriores a 05 (cinco) anos da data do ajuizamento do cumprimento de sentença.
+4. Contudo razão não lhe assiste, uma vez que a prescrição das parcelas em atraso deve ser contada a partir do ajuizamento do processo de conhecimento, que se deu 28/03/2008, sendo devido o desconto dos valores pagos administrativamente desde o termo inicial do benefício, observada a prescrição quinquenal, conforme definido pelo título judicial.
+5. Agravo de instrumento improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 223/229).
+Nas razões do apelo especial, aponta o recorrente, violação dos arts. 1º-A da Lei 8.973/99, 5º, da Lei 9.784/99, 114 e 124, da Lei 8.213/91 e 2º, § 3º, da Lei 6.830/80.
+Sustenta, em síntese, que o termo inicial da prescrição quinquenal de parcelas a serem descontadas, pela Autarquia, de seu benefício, se verifica na data do ajuizamento do cumprimento de sentença, logo, o instituto da prescrição teria atingido todas as parcelas anteriores a 22/07/2014.
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Observa-se que o Tribunal de origem não examinou a tese agitada no especial, tampouco analisou a controvérsia sob o enfoque dos dispositivos legais apontados como violados, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt no AgInt no AREsp 1.621.025/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017). No mesmo sentido, confiram-se: AgInt no REsp 1.562.190/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 18/12/2020; AgInt no AREsp 1.685.851/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2021; e AgInt no AREsp 1.677.739/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 2/12/2020.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
