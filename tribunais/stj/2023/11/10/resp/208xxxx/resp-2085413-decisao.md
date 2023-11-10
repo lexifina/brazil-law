@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PATRICIA JACQUELINE DE OLIVEIRA LIMA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O julgado deu provimento em parte ao recurso de apelação do interessado WILLIANS BARROS MEDA nos termos da seguinte ementa (fl. 194):
+Ação declaratória c. c. indenização por danos morais Inscrição da autora em cadastros de proteção ao crédito por dívidas não reconhecidas Ação julgada procedente Recurso exclusivo do autor - Majoração dos honorários advocatícios de sucumbência Possibilidade - Verba honorária comportando majoração de forma a remunerar condignamente o advogado, porém não com base no valor do proveito econômico mas no valor da condenação (art.85, §2º, do CPC) Recurso provido em parte.
+Rejeitados os embargos de declaração (fls. 246-252).
+No presente recurso especial, a recorrente alega que o acórdão estadual contrariou as disposições contidas no art. 85, § 2º, do CPC.
+Sustenta, outrossim, que a "base de cálculo dos honorários advocatícios, ao contrário do entendimento do Regional, deve ser o somatório do que se obteve em todos os pleitos, quais sejam, o proveito econômico do pedido declaratório e o valor obtido com os danos morais" (fl. 210).
+Aduz, ainda, que "a condenação deve representar ao débito declarado inexigível  o valor arbitrado a título de danos morais, que totalizam R$ 351.397,00 (trezentos e cinquenta e um mil, trezentos e noventa e sete reais) e os honorários de 20% arbitrados pelo Regional deve observar a referida soma, devendo o v. acórdão ser reformado nesse sentido" (fl. 210).
+Aponta divergência jurisprudencial.
+Apresentadas as contrarrazões (fls. 256-261), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 262-263).
+É, no essencial, o relatório.
+Discute-se nos autos qual a base de cálculo deve ser adotada para fixar os honorários advocatícios em sentença híbrida com natureza declaratória e condenatória.
+No caso, o interessado WILLIANS BARROS MEDA propôs ação declaratória de inexigibilidade de débito c/c indenização por danos morais e pedidos liminar de antecipação de tutela. O autor atribuiu à causa o valor de R$ 378.836,70 (trezentos e setenta e oito mil, oitocentos e trinta e seis reais e setenta centavos).
+A ação foi julgada procedente para considerar a dívida inexigível em relação ao autor e para condenar o réu a indenizar o autor por danos morais em R$ 7.000,00 (sete mil reais), tendo em vista a indevida inscrição do nome do autor no cadastro de inadimplentes.
+O Juízo de primeiro grau fixou os honorários advocatícios em 10% sobre o valor da condenação.
+O Tribunal de origem deu provimento em parte ao recurso de apelação do interessado apenas para majorar os honorários fixados pelo Juízo de origem em 20% sobre o valor da condenação. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 197-198):
+No caso, a r. sentença apelada fixou os honorários advocatícios devidos ao patrono do autor em 10% do valor da condenação (R$7.000,00).
+Conquanto o processo tenha se desenvolvido sem grandes incidentes ou complexidade, não se justifica o arbitramento em valor que não remunere de forma adequada o trabalho exercido pelo advogado.
+Dessa forma, em consonância com a ordem de preferência prevista no art. 85, §2º, do CPC, os honorários advocatícios na espécie devem ser fixados considerando-se o valor da condenação, e não o valor do proveito econômico obtido no processo, majorando-se a verba honorária para 20% do valor da condenação, valor que remunerará de forma mais condigna o trabalho do advogado do autor, provendo-se em parte o recurso neste aspecto.
+Assiste parcial razão à recorrente, pois esta Corte já se manifestou que em processos em que houver condenações de naturezas distintas, surgindo dúvida quanto à forma de arbitramento dos honorários advocatícios a verba deve ser fixada tendo em vista o objeto central da controvérsia, isto é, o pedido e a causa de pedir que assumirem maior relevância para a ação (REsp n. 1.235.714/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. em 22/5/2012, DJe de 29/5/2012).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE DUPLA NATUREZA. HONORÁRIOS ADVOCATÍCIOS FIXADOS DE ACORDO COM O PROVEITO ECONÔMICO. PRETENSÃO DE MAJORAÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os honorários advocatícios foram fixados tomando em consideração ambos os pedidos, ressaltando-se, ainda, que inexistindo condenaç ão se mostra descabida a pretensão de arbitramento com base no § 3º do CPC/73.
+3. A verba honorária fixada com base no proveito econômico pretendido não está adstrita aos percentuais estabelecidos nos §§ 3º e 4º, do CPC/73, e, no caso, o valor arbitrado na decisão agravada não fere os princípios da razoabilidade e proporcionalidade, além de bem valorar corretamente os serviços prestados pelo advogado. Não se considera irrisório o valor dos honorários quando fixados em patamar superior a 1% do valor da causa. Precedentes.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, aplica-se ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.196.865/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2018, DJe de 1º/8/2018.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DA PARTE ADVERSA ACOLHIDA PELA DECISÃO MONOCRÁTICA. NECESSIDADE DE AJUSTAR O ACÓRDÃO ESTADUAL À JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. De acordo com a jurisprudência do STJ, "Em processos em que houver condenações de naturezas distintas, surgindo dúvida quanto à forma de arbitramento dos honorários advocatícios - se com base no § 3º ou no § 4º do CPC - a verba deve ser fixada tendo em vista o objeto central da controvérsia, isto é, o pedido e a causa de pedir que assumirem maior relevância para a ação."
+(REsp 1.235.714/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 22.05.2012, DJe 29.05.2012).
+2. Agravo interno não provido.
+(AgInt no AREsp n. 593.146/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/6/2016, DJe de 1º/8/2016.)
+No caso, como a demanda principal é a declaratória, esta também deve ser considerada para a fixação dos honorários, tendo em vista o proveito econômico obtido com a proposição da ação.
+Nessa perspectiva, verifica-se que os honorários advocatícios foram fixados sem considerar o proveito econômico perseguido no feito com a declaração de inexigibilidade da dívida - demanda principal -, o que enseja a modificação da sua base de cálculo.
+Ante o exposto, dou provimento em parte ao recurso especial para fixar os honorários advocatícios em 20% exclusivamente sobre o proveito econômico referente à demanda principal - a declaração de inexigibilidade da dívida.
+Publique-se. Intimem-se.
+ EMENTA
