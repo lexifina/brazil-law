@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIEGO PIRES FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal 07825039.2009.826.0577).
+O paciente foi condenado à pena de 23 anos de reclusão em regime fechado, além do pagamento de 13 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, e § 3º, do Código Penal.
+A apelação interposta pela defesa foi desprovida por maioria, acarretando o manejo de embargos infringentes e de nulidade, sendo estes rejeitados.
+A defesa alega: a) "não há evidências de que teria realmente ocorrido o respectivo latrocínio, muito pelo contrário, teria cometido o delito de homicídio consumado" (e-STJ fl. 4); e b) "prova dos autos não permite afirmar que os acusados tinham a intenção prévia de subtrair pertences da vítima, tudo indicando que pretendiam unicamente ceifar a vida desta, deve ser reconhecida a competência do Tribunal do Júri para o julgamento do feito, impondo-se o retorno dos autos à origem para que a matéria seja submetida à apreciação do Conselho de Sentença" (e-STJ fl. 6).
+Requer, liminar e definitivamente, deferimento da ordem para desclassificar o delito de latrocínio para o de homicídio e deslocar a competência para o Tribunal do Júri.
+É o relatório.
+A matéria relativa à desclassificação do delito não foi apreciada no acórdão impugnado. P ara não incorrer em supressão de instância, esta Corte não pode conhecer do tema.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. NECESSIDADE DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. LATROCÍNIO. ILEGALIDADE DA CONDENAÇÃO DO PACIENTE. RÉU QUE TERIA AGIDO COM DOLO DE PRATICAR APENAS O DELITO DE ROUBO. MATÉRIA NÃO APRECIADA NO PROVIMENTO JUDICIAL IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. COAÇÃO ILEGAL NÃO CONFIGURADA. DESPROVIMENTO DA INSURGÊNCIA.
+1. É inviável o conhecimento do habeas corpus, uma vez que a defesa se insurge contra decisão singular de Desembargador do Tribunal de origem, contra a qual foi interposto agravo regimental, pendente de julgamento. Precedentes do STJ e do STF.
+2. A alegada ilegalidade da condenação do agravante pelo crime de latrocínio não foi alvo de deliberação pela autoridade impetrada, circunstância que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+3. Inexiste qualquer ilegalidade na ausência de exame do mérito do writ originário, pois foi interposta apelação contra a sentença condenatória, o que revela que, ao manejar o presente remédio constitucional concomitantemente com o aludido recurso, a defesa pretende a obtenção da mesma prestação jurisdicional em mais de uma via de impugnação, circunstância que caracteriza ofensa ao princípio da unirrecorribilidade das decisões judiciais. Precedentes.
+4. A reforçar a inexistência de flagrante ilegalidade passível de ser sanada na via eleita, é pacífico neste Sodalício que o habeas corpus não constitui o meio processual adequado para a análise das teses de absolvição ou de desclassificação da conduta, uma vez que demandam o revolvimento de matéria fático-probatória, incompatível com o rito célere do writ. Precedentes.
+5. Agravo regimental desprovido. (AgRg no HC 541935/PA, relator Ministro Jorge Mussi, Quinta Turma, julgado em 12/11/2019, DJe de 28/11/2019).
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
