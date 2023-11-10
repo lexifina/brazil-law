@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELIAN JEFREY VIEIRA BERTIN em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC 2277801-71.2023.8.26.0000).
+O paciente teve a prisão preventiva decretada, em razão da suposta prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006.
+A defesa alega: a) "flagrante ilegalidade que há na decisão do juízo de segundo grau, uma vez que o mesmo inovou/complementou a decisão do juízo de piso"; b) "diante de manifesta ilegalidade, merece ser anulada a decisão/complementação do juízo de segundo grau, bem como revogada a prisão preventiva, uma vez que a decisão do juí zo de piso é nula, pois é deficiente, uma vez que é genérica e de fraco teor, pois não existe fundamentos do caso em concreto"; e c) "a decisão atacada se encontra totalmente genérica e abstrata".
+Requer, liminar e definitivamente, deferimento da ordem para "reconhecer que a decisão que converteu a prisão em flagrante em preventiva seja declarada como nula, eis que se encontra totalmente genérica/deficiente, e, posteriormente, seja relaxada a prisão preventiva ou seja concedida a liberdade provisória" e "de forma subsidiária, roga para que seja revogada a prisão cautelar, em razão da quantidade ínfima de droga apreendida".
+É o relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 72-76):
+A materialidade está demonstrada no boletim de ocorrência, no auto de exibição/apreensão/entrega e no auto de constatação preliminar, enquanto os indícios de autoria decorrem dos depoimentos colhidos na fase policial.
+ ..
+Ora, respeitado o entendimento porventura divergente, impõe-se reconhecer que a r. decisão acima destacada foi proferida com claro senso de responsabilidade pela d. Autoridade Judicial apontada como coatora, alinhada com a preservação dos valores maiores da nossa sociedade, encontrando-se adequadamente fundamentada, nos termos do artigo 93, IX, da Constituição Federal.
+Em que pese a primariedade do paciente, há que se levar em conta os fortes indícios da prática de crime que coloca a sociedade em sobressalto, ainda mais considerando-se que o paciente admitiu como sua a droga encontrada, cujo peso líquido foi de 500 g de "maconha".
+Nesse passo, ao menos por ora, justifica a decretação da prisão cautelar como garantia da ordem pública, resguardando a sociedade de uma de uma prematura soltura.
+Não há comprovação de ocupação lícita e residência fixa, o que ainda precisa ser melhor esclarecido.
+Vê-se, portanto, claramente presentes os pressupostos do fumus comissi delicti e, igualmente, do periculum libertatis, nada havendo de ilegal a ser sanado nos limites estreitos desta via constitucional utilizada, mormente na atual fase processual em que se encontra.
+Por final, não se pode esquecer que a ordem liminar emanada em sede de habeas corpus - que a rigor sequer tem previsão legal- vem sendo excepcionalmente admitida somente em situação de manifesto constrangimento ilegal, detectado de plano na impetração e nos documentos que a instruem, o que não ocorre no caso em tela, vez que, em sua primeira leitura, a r. decisão, como já ressaltado, está adequadamente fundamentada e devidamente justificada.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
