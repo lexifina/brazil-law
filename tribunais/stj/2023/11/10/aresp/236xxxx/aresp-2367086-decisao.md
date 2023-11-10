@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 284/STF e 7/STJ.
+Nas razões do especial, aponta o recorrente violação do art. 33, §2º, b, do CP.
+Sustenta, em suma, falta de fundamentação para a imposição do regime fechado, tendo em vista a fixação da pena-base no mínimo legal e a pena final em montante não superior a 4 anos de reclusão.
+Requer o provimento do recurso especial, a fim de que seja fixado o regime prisional semiaberto.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que o recorrente foi condenado em 1º Grau, como incurso no art. 157, caput, do CP, às penas de 4 anos e 8 meses de reclusão, em regime semiaberto, e 11 dias-multa.
+Interposta apelação pelo MP, foi dado provimento ao recurso, estabelecendo-se o regime fechado para o cumprimento da pena reclusiva, em acórdão assim fundamentado, no que interessa (fls. 206-207):
+A pena-base foi fixada em seu patamar mínimo de 04 anos de reclusão e 10 dias-multa em seu mínimo unitário, pois ambas as condenações anteriores foram valoradas como reincidência.
+Na segunda etapa da dosimetria, a pena foi exasperada em 1/6, resultando em 04 anos e 08 meses de reclusão e 11 dias-multa em seu mínimo unitário, com fulcro na circunstância agravante da multirreincidencia, parcialmente compensada com a circunstância atenuante da confissão espontânea.
+Inexistentes causas modificativas, a pena tornou-se definitiva.
+E nos termos do recurso da acusação, fixo o regime inicial fechado, pois se trata de crime violento, perpetrado com grave ameaça à pessoa, cuja ação parece revelar personalidade desajustada, voltada ao ganho patrimonial em desrespeito à integridade física e psicológica do cidadão de bem.
+O crime em questão traz desassossego à sociedade, autorizando o encarceramento mais severo na fase inicial do cumprimento da pena corporal, e conceder-lhe regime mais brando seria decidir contra os anseios da coletividade, que clama por mais rigor na punição dos crimes praticados com grave ameaça ou violência contra as pessoas.
+Não fosse o bastante, o réu é multirreincidente, a obstar a fixação de regime inicial mais brando, consoante o disposto no artigo 33, §2º, do Código Penal.
+No caso, verifica-se ilegalidade no julgado, pois, apesar da reincidência (múltipla), a pena final foi fixada em montante inferior a 4 anos de reclusão, sendo a pena-base fixada no mínimo legal, o que justifica a imposição do regime semiaberto, nos termos do art. 33, §§ 2º e 3º, do CP e da Súmula 269/STJ, tal como estabelecido na sentença condenatória. No mesmo sentido:
+PENAL. HABEAS CORPUS. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. RÉU MULTIRREINCIDENTE. (I) PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. NÃO OCORRÊNCIA. (II) REGIME FECHADO. APLICAÇÃO DO ENUNCIADO N. 269/STJ. POSSIBILIDADE.
+1. O princípio da insignificância propõe se excluam do âmbito de incidência do Direito Penal situações em que a ofensa concretamente perpetrada seja incapaz de atingir de modo intolerável o bem jurídico protegido. Porém, a aplicação do mencionado postulado não é irrestrita, sendo imperiosa, na análise do relevo material da conduta, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta, (b) a ausência de periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada.
+2. Na espécie, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, de forma viabilizar a aplicação do princípio da bagatela, pois, independentemente do valor subtraído - R$ 50,00 (cinquenta reais) -, o delito fora perpetrado mediante o rompimento de obstáculo, extraindo-se dos autos, outrossim, a habitualidade delitiva do acusado, esclarecendo o colegiado local, a propósito, a condição de multirreincidente específico do denunciado, o qual ostenta 5 (cinco) condenações pretéritas, quatro delas por crimes contra o patrimônio.
+3. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o sentenciante deverá observar, na fixação do regime inicial de cumprimento de pena, a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis - art. 59 do Código Penal. Ademais, admite-se a imposição de regime prisional mais gravoso do que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, ainda que fixada a pena-base no mínimo legal.
+4. No caso, embora multirreincidente, a pena definitiva do paciente foi estabelecida em patamar inferior a 4 (quatro) anos de reclusão e foram reconhecidas como favoráveis as circunstâncias judiciais. Possível a fixação do regime inicial intermediário. Precedentes.
+5. Ordem parcialmente concedida para, confirmada a liminar, estabelecer o regime semiaberto para o cumprimento pelo paciente da pena privativa de liberdade.
+(HC n. 393.705/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/4/2017, DJe de 26/4/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. TENTATIVA. RÉU MULTIRREINCIDENTE ESPECÍFICO. APLICAÇÃO DA SÚMULA N. 269 DO STJ. REGIME SEMIABERTO. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ao réu multirreincidente específico é possível a aplicação da Súmula n. 269 do STJ, diante da quantidade de pena estabelecida (no caso, 2 anos e 26 dias de reclusão), se favoráveis todas as circunstâncias judiciais. Precedentes.
+2. Deve incidir à espécie o entendimento firmado pela Sexta Turma desta Corte Superior no julgamento dos EDcl nos REsps n. 1.484.413/DF e 1.484.415/DF para determinar a execução provisória da pena.
+3. Agravo regimental não provido. Pedido do Ministério Público Federal acolhido para determinar o envio de cópia dos autos ao Juízo da 18ª Vara Criminal do Foro Central Criminal da Barra Funda - SP, para efetivo início da execução provisória das penas impostas aos recorrentes.
+(AgRg no AREsp n. 880.691/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2016, DJe de 30/5/2016.)
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer o regime semiaberto fixado na sentença condenatória.
+Publique-se.
+Intimem-se.
+EMENTA
