@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público de Pernambuco contra a decisão de minha relatoria, na qual concedi a ordem de habeas corpus. A decisão recebeu a seguinte ementa (fl. 405):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUPOSTA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS. POSSÍVEL O TRANCAMENTO DE AÇÃO PENAL. AUSÊNCIA DE DISCUSSÃO NO ACÓRDÃO SOBRE A ILEGALIDADE NA BUSCA PESSOAL, POR COMPORTAMENTO SUSPEITO DO PACIENTE. APREENSÃO DE 20,422 G DE CRACK. POSSÍVEL ILEGALIDADE DA ATUAÇÃO POLICIAL. CONFISSÃO INFORMAL. PREJUÍZO AO RÉU.
+Ordem concedida nos termos do dispositivo.
+Alega o agravante que a decisão deve ser reconsiderada, já que não houve discussã o sobre a matéria relativa ao trancamento da ação penal por parte da instância ordinária.
+Sustenta, ainda, que não houve discussão acerca da falta de advertência ao silêncio por parte da instância ordinária e que está caracterizada a supressão de instância. Afirma que houve uma presunção da ocorrência de ilegalidade durante a busca pessoal realizada pelos policiais no acusado.
+Requer, diante disso, a reconsideração da decisão (fls. 3/20).
+É o relatório.
+Não co nsta da denúncia que tenha havido fundada razão para a abordagem ou alguma investigação prévia, mas somente que os policiais desconfiaram de um suposto comportamento suspeito do réu, que empreendeu fuga, sendo esse o momento em que os policiais o abordaram com 20,422 g de crack.
+O agravante se insurge por não ter havido discussão no acórdão hostilizado a respeito da controvérsia dos autos. Razão lhe assiste, em parte. É que, pelo que consta dos autos, mostra-se caracterizado o constrangimento ilegal ao réu. Verifica-se ter ficado expresso que o acusado enfatiza reiteradamente a ilicitude da confissão informal", ao passo que a denúncia, nesse sentido, registra apenas que "em sede policial, o acusado se reservou ao direito de permanecer em silêncio (fl. 34).
+De fato, parece existir contradição no acórdão estadual, pois não houve manifestação exatamente sobre a matéria que é uma das alegações para o não prosseguimento da ação penal, e que foi reiterada pela defesa. No entanto, como foi constatada a reiteração por parte do réu, mostra-se necessário que o Tribunal local enfrente agora a alegação da defesa.
+Nesse sentido, questionou-se a respeito da confissão informal de que o réu não teria sido advertido sobre o direito de permanecer em silêncio, o que, diante do contexto fático da abordagem feita, pode ser demonstrado como um efetivo prejuízo ao acusado.
+Ante o exposto, dou parcial provimento ao agravo regimental para reconsiderar a decisão agravada que determinou o trancamento da ação penal, porém, conceder parcialmente a ordem para determinar que a Segunda Câmara Criminal do Tribunal de Justiça de Pernambuco faça menção expressa ao questionamento da defesa nos autos do HC n. 0000116-21.2023.8.17.9000.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. SUPOSTA PRÁTICA DO DELITO DE TRÁFICO DE DROGAS. TRANCAMENTO DE AÇÃO PENAL. POSSIBILIDADE. APONTAMENTO DE ILEGALIDADE NA BUSCA PESSOAL POR COMPORTAMENTO SUSPEITO DO ACUSADO. APREENSÃO DE 20,422 G DE CRACK. POSSÍVEL ILEGALIDADE DA ATUAÇÃO POLICIAL. DETERMINAÇÃO PARA QUE O TRIBUNAL SE MANIFESTE A RESPEITO DA CONFISSÃO INFORMAL QUE PODE TER CARACTERIZADO O PREJUÍZO AO RÉU.
+Agravo regimental parcialmente provido para reconsiderar a decisão agravada e conceder parcialmente a ordem, nos termos do dispositivo.
