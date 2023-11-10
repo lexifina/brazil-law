@@ -1,0 +1,75 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. PROFESSORA. CARGOS ACUMULÁVEIS. CUMULAÇÃO DE DUAS APOSENTADORIAS COM PENSÃO MILITAR: POSSIBILIDADE. CRITÉRIOS LEGAIS PARA CONCESSÃO DE PENSÃO MILITAR: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da Segunda Região:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. MEDIDA PROVISÓRIA Nº 2.215-10/2001. LEI FEDERAL Nº 3.675/60. PENSÃO MILITAR. FILHA CASADA. IRRELEVÂNCIA. ACUMULAÇÃO TRÍPLICE. PROVENTOS DE APOSENTADORIA. PROFESSORA. CARGOS ACUMULÁVEIS. POSSIBILIDADE. APELAÇÃO DESPROVIDA. HONORÁRIOS RECURSAIS. 1. A lei aplicável à pensão é aquela que estava em vigor por ocasião da morte do instituidor do benefício (STJ. AgRg no REsp n. 599.697/RJ, relator Og Fernandes, Sexta Turma, DJe de 30/11/2009). No caso, o instituidor do benefício faleceu em 19/09/2005, portanto, após as alterações implementadas pela Medida Provisória nº 2.215-10/2001 (reedição da Medida Provisória 2.131/2000 e seguintes). 2. Em seu art. 31, caput e § 2º, a referida Medida Provisória assegurou aos militares à época, e aos beneficiários diretos ou por futura reversão das pensões então pagas, a manutenção dos benefícios previstos, até 29/12/2000, na Lei nº 3.765/1960, condicionando-a ao pagamento de contribuição específica de 1,5% sobre as parcelas elencadas no art. 10 da MP. 3. Como, no caso, o instituidor contribuiu na forma do mencionado art. 31, restou assegurada a concessão da pensão ‘aos filhos de qualquer condição, exclusive os maiores do sexo masculino, que não sejam interditos ou inválidos’ (art. 7º, II). Sendo irrelevante, portanto, o fato de Autora, filha do instituidor, ser ou não casada à época do óbito. 4. A jurisprudência do Supremo Tribunal Federal (STF) excepciona a aplicação da tese de que ‘é vedada a cumulação tríplice de vencimentos e/ou proventos, ainda que a investidura nos cargos públicos tenha ocorrido anteriormente à EC 20/1998’ (Tema 921 da Repercussão Geral, ARE nº 848.993-RG, Relator Ministro Gilmar Mendes, DJe 23/03/2017) nos casos de percepção de proventos decorrentes de cargos acumuláveis na forma da Constituição conjuntamente com pensão militar (ARE 1.194.860 AgR-segundo, Relator Ministro Gilmar Mendes, Segunda Turma, j. 23/11/2020; ARE 1.117.555 AgR, Relator Ministro Luiz Fux, Primeira Turma, j. 04/06/2018). 5. O mesmo entendimento é também adotado por esta 7ª Turma Especializada (AC nº 5037792- 30.2020.4.02.5101/RJ, Relator Desembargador Federal Sergio Schwaitzer, j. 18/05/2022; AI nº 5009033- 96.2021.4.02.0000/RJ, Relator Desembargador Federal Luiz Paulo da Silva Araújo Filho, j. 10/11/2021) 6. Sendo as aposentadorias da Autora decorrentes de cargos de professora, cumuláveis nos termos do art. 37, XVI, a, da Constituição Federal, é legitima a sua acumulação com a pensão militar. 7. Honorários advocatícios anteriormente fixados majorados de 10% (dez por cento) para 11% (onze por cento) do valor da causa, na forma do art. 85, §11, do CPC/15. 8. Apelação a que se nega provimento” (fl. 1, e-doc. 148).
+
+    2. A recorrente alega ter o Tribunal de origem contrariado o inc. XVI e o § 10 do art. 37 da Constituição da República.
+
+    Assevera que “o acórdão objeto da presente assegurou a percepção de pensão militar cumulada com dois vencimentos de cargos públicos configurando tríplice acumulação sem respaldo constitucional e legal” (fl. 5, e-doc. 165).
+
+    Salienta que “a ilegalidade da pretendida acumulação de benefícios previdenciários advém da limitação imposta pelo art. 29 da Lei nº 3.765/60 e art. 37, XVI, a e §10, da CF/88, bem como Tema 921 - STF (ARE 848993)” (fl. 7, e-doc. 165).
+
+    Enfatiza que “a interpretação mais adequada do dispositivo em debate é no sentido de que a lei permite duas hipóteses excludentes de cumulação. Em outras palavras, uma pensão militar e uma aposentadoria ou uma pensão militar e outra pensão de regime diverso” (fl. 9, e-doc. 165).
+
+    Pede “seja dado provimento ao presente recurso extraordinário para, reformando o respeitável acórdão proferido e reconhecendo a violação aos dispositivos constitucionais supramencionados, julgar improcedente a pretensão autoral, de modo a preservar-se a escorreita interpretação e aplicação da Constituição da República, função precípua desta Egrégia Corte Superior” (fl. 10, e-doc. 165).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    3. Razão jurídica não assiste à recorrente.
+
+    4. Dispõe-se no § 10 do art. 37 da Constituição da República:
+
+    “É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 ou dos arts. 42 e 142 com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis na forma desta Constituição, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração”
+
+    Na espécie vertente, o Tribunal de origem assentou que, sendo duas aposentadorias decorrentes de cargos públicos de professora, acumuláveis nos termos do inc. XVI do art. 37 da Constituição da República, é permitida a percepção cumulativa com a pensão militar:
+
+    “Resta examinar, portanto, se é possível a acumulação da pensão militar com os proventos das duas aposentadorias a que a Autora já faz jus – uma como ex-professora do Município de Serra (evento 1, CHEQ22) e outra como ex-professora do Estado do Espírito Santo (evento 1, CHEQ21).
+
+    O Supremo Tribunal Federal (STF) fixou a tese de que ‘é vedada a cumulação tríplice de vencimentos e/ou proventos, ainda que a investidura nos cargos públicos tenha ocorrido anteriormente à EC 20/1998’ (Tema 921 da Repercussão Geral, ARE nº 848.993-RG, relator Ministro Gilmar Mendes, DJe 23/03/2017).
+
+    No entanto, o referido entendimento foi excepcionado pelo próprio STF, nos casos de percepção de proventos decorrentes de cargos acumuláveis na forma da Constituição conjuntamente com pensão militar. (...)
+
+    Dessa forma, sendo as aposentadorias da Autora decorrentes de cargos de professora, cumuláveis nos termos do art. 37, XVI, a, da Constituição Federal, é legitima a sua acumulação com a pensão militar” (fls. 5-7, e-doc. 148).
+
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, no sentido de ser possível a cumulação de vencimentos e/ou proventos de cargos constitucionalmente acumuláveis com pensão por morte de militar.
+
+    Confiram-se, por exemplo, os seguintes julgados sobre controvérsia similar à deste processo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PREVIDENCIÁRIO. PROFESSORA. CARGOS ACUMULÁVEIS. ACUMULAÇÃO DE DUAS APOSENTADORIAS COM PENSÃO MILITAR: POSSIBILIDADE: PRECEDENTES. CRITÉRIOS LEGAIS: IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. INAPLICABILIDADE DO TEMA 921 DA REPERCUSSÃO GERAL. VERBA HONORÁRIA MAJORADA EM 1% (§§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015). AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA, SE UNÂNIME A VOTAÇÃO” (ARE n. 1.382.988-AgR, de minha relatoria, DJe 8.9.2022).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. RECEBIMENTO DE PROVENTOS E REMUNERAÇÃO DE CARGOS PÚBLICOS ACUMULÁVEIS E PENSÃO MILITAR. AUSÊNCIA DE VIOLAÇÃO CONSTITUCIONAL. 1. A conclusão do Tribunal de origem não diverge da jurisprudência do Supremo Tribunal Federal. Precedente. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973” (RE n. 612.764-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 17.10.2016).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Acumulação de proventos de duas aposentadorias com pensão militar. Possibilidade. 3. Não há impedimento para a tríplice acumulação, quando esta decorre do recebimento de duas aposentadorias de cargos acumuláveis na forma autorizada pelo texto constitucional, associado ao recebimento de pensão militar por morte. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento. Honorários majorados em 10%” (ARE n. 1.194.860-AgR-segundo, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 30.11.2020).
+
+    “Agravo regimental em recurso extraordinário. Direito administrativo. Acumulação de duas aposentadorias com pensão militar. Cargos acumuláveis. Possibilidade. Inaplicabilidade do Tema nº 921 da Sistemática da Repercussão Geral. Precedentes. 1. Segundo a jurisprudência da Suprema Corte, é possível a acumulação de pensão por morte de militar com dois vencimentos ou proventos decorrentes de cargos públicos acumuláveis . 2. Agravo regimental não provido” (RE n. 1.264.122-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 31.8.2020).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ACUMULAÇÃO DE DOIS CARGOS PÚBLICOS DE MÉDICO COM PENSÃO MILITAR. ARTIGO 37, INCISO XVI, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE. PRECEDENTE. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO” (RE n. 1.436.978-AgR, Relator o Ministro Dias Toffoli, Segunda Turma, DJe 9.11.2023).
+
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ACUMULAÇÃO DE DUAS APOSENTADORIAS NO CARGO DE PROFESSOR COM PENSÃO MILITAR. CARGOS ACUMULÁVEIS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO. 1. O Tribunal de origem não divergiu do entendimento firmado pelo Supremo no sentido de ser possível a percepção simultânea de proventos de duas aposentadorias, decorrentes do exercício de cargos públicos acumuláveis, com pensão militar” (ARE n. 1.387.152-AgR, Relator o Ministro Nunes Marques, Segunda Turma, DJe 21.8.2023).
+
+    Sobre essa possibilidade de cumulação de uma pensão militar com a aposentadoria em dois cargos de professora (municipal e estadual), o Tribunal de origem observou a jurisprudência deste Supremo Tribunal e afastou, de forma assertiva, a aplicação da tese fixada no Tema 921 da repercussão geral.
+
+    5. Rever a conclusão adotada pelas instâncias ordinárias sobre a interpretação dos normativos federais que regulam os critérios da pensão militar demandaria o reexame da legislação infraconstitucional aplicável ao processo. A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Confiram-se, por exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 15.06.2022. MANDADO DE SEGURANÇA. TRÍPLICE ACUMULAÇÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. ART. ART. 29 DA LEI 3.765/1960. PENSÃO MILITAR. CARGOS DE PROFESSORA E DE ORIENTADORA EDUCACIONAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. 1. Eventual divergência em relação ao entendimento adotado pelo Juízo a quo, que julgou improcedente o pedido de tríplice acumulação de benefícios previdenciários, demandaria o reexame da legislação infraconstitucional e do conjunto fático probatório dos autos (Súmula 279 do STF), providências inviáveis no âmbito do recurso extraordinário. 2. Ademais, o Tribunal de origem, ao assentar que ‘as hipóteses de acumulação de cargos são taxativas, de modo que não se torna possível a extensão das vantagens atribuídas de forma excepcional e específica ao cargo de professor aos demais cargos pertencentes à estrutura educacional, como se verifica no caso do ocupante do cargo de orientador educacional’, decidiu a controvérsia de acordo com a orientação posta no julgamento do RE 733.217-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 02.08.2018. 3. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de mandado de segurança (Súmula 512/STF e art. 25 da Lei 12.016/2009)” (ARE n. 1.370.878-AgR-segundo, Relator o Ministro Edson Fachin, Segunda Turma, DJe 25.4.2023).
+
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL PENSÃO MILITAR. ACUMULAÇÃO COM DUAS APOSENTADORIAS. ART. 29 DA LEI Nº 3.765/1960. OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula nº 279 do STF. 2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem e a reelaboração da moldura fática delineada, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 3. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação (ARE n. 1.430.298-AgR, Relatora a Ministra Rosa Weber, Plenário, DJe 25.7.2023).
+
+    Nada há a prover quanto às alegações da recorrente.
+
+    6. Pelo exposto, nego provimento ao presente recurso extraordinário (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se
+
+    Brasília, 10 de novembro de 2023.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
