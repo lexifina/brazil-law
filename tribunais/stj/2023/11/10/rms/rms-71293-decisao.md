@@ -1,0 +1,44 @@
+DECISÃO
+Furnas Centrais Elétricas impetrou mandado de segurança contra ato omissivo supostamente ilegal perpetrado pelo Procurador Geral do Estado de Mato Grosso que, de forma imotivada, não estaria fornecendo cópias dos processos administrativos relativos aos pedidos de restituição decorrente da finalização do Convênio de Compromisso e Cooperação Financeira firmado com o estado de Mato Grosso, para execução de obras de asfaltamento.
+Sustenta que no convênio o Estado do Mato Grosso se comprometeu a ressarcir a Furnas quanto ao valor adiantado, relativo à sua quota parte de responsabilidade na execução da obra.
+Argumenta que visando o ressarcimento do valor desprendido na execução da obra de asfaltamento a impetrante protocolou os processos administrativos nº 555222/2013 e 100081-001/2005.
+Assevera que além de não receber solução definitiva durante todos esses anos, desde o ano de 2014 eles foram encaminhados para a autoridade impetrada e não tiveram mais qualquer andamento.
+Assegura que desde julho de 2020 estaria solicitando perante a PGE cópia dos processos administrativos, porem sem sucesso.
+O Tribunal de Justiça do Estado do Paraná extinguiu o processo sem resolução do mérito, reconhecendo a ilegitimidade passiva da autoridade impetrada, nos termos assim ementados (fl. 349):
+AGRAVO INTERNO - MANDADO DE SEGURANÇA - MOROSIDADE NA ANÁLISE DE PROCESSO ADMINISTRATIVO QUE SE ENCONTRA NO GABINETE DE DIRECAO DA CASA CIVIL - ATO OMISSIVO DE AUTORIDADE VINCULADA A CASA CIVIL - ILEGITIMIDADE PASSIVA DO PROCURADOR GERAL DO ESTADO DE MATO GROSSO CONFIGURADA - PETIÇÃO INICIAL INDEFERIDA - DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+A empresa impetrante interpôs recurso ordinário, alegando, em síntese, que "resta claro que o processo está desde 25/02/2014, sob a responsabilidade do Procurador do Estado Francisco Gomes Andrade Lima" (fl. 369). Assim, em última análise seria o Procurador Geral do Estado a autoridade que responde, em última análise, às questões de organização interna do órgão, possuindo, portanto, legitimidade para a presente impetração.
+Parecer do MPF pelo desprovimento do recurso, nos seguintes termos (fl. 760):
+RECURSO EM MANDADO DESEGURANÇA. MOROSIDADE NA ANÁLISEDE PROCESSO ADMINISTRATIVO QUE SEENCONTRA NO GABINETE DE DIREÇÃODA CASA CIVIL. ATO OMISSIVO DEAUTORIDADE VINCULADA À CASA CIVIL,ÓRGÃO INSERIDO EM ESTRUTURAORGANIZACIONAL DISTINTA DAPROCURADORIA-GERAL DO ESTADO DEMATO GROSSO DO SUL. ILEGITIMIDADEPASSIVA AD CAUSAM. PARECER NOSENTIDO DO DESPROVIMENTO DO RECURSO.
+É o relatório. Decido.
+O recurso ordinário não deve ser provido.
+Nos termos do que dispõe o § 3º do artigo 6º da Lei Federal n. 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Como se denota, do referido dispositivo legal, será considerada coatora, para o fim de determinar a legitimidade passiva ad causam no mandamus, a autoridade que determina ou omite a prática do ato impugnado.
+No caso dos autos, o acórdão recorrido esmiuçou os andamentos do respectivo processo administrativo, assim concluindo (fls. 352-354):
+Ocorre, todavia que, diferentemente do que constou na exordial, pela análise dos Extratos de Andamentos Processuais colacionados com a inicial (Id. 124569659 - Pág. 1-7) bem como dos extratos atualizados apresentados com o presente agravo interno (Id. 147036198) é possível constatar que na data de 25/02/2014 o processo administrativo de ressarcimento nº 555222/2013 não foi encaminhado para a Procuradoria Geral do Estado, mas para a Casa Civil, no setor CGAB - Gabinete de Direção, como cito:
+"Dados do Processo Número/Ano do Processo : 555222 / 2013  ..  Órgão: CASA CIVIL - Setor: CGAB - Gabinete de Direção - Data: 25/02/2014 - Ação: Externo -Encaminhamento: Entregue em mãos do Procurador Francisco Gomes Andrade Lima Filho em 25/02/14.  .. ". (Id. 147036198 - Pág. 1)"Visualizar Processo Número/Ano do Processo : 555222 / 2013  ..  Cadastrado Pro: Protocolo Geral /SEFAZ .. Resumo do Assunto: Requer reencaminhamento de Processo. Origem do Tramite: CASA CIVIL / CGAB - Gabinete de Direção 1Data/hora do envio: 25/02/2014 às 18:03:11 - Data: 25/02/2014.  .. "(Id. 147036198 - Pág. 2)" ..  Histórico do Processo 555222 / 2013Órgão/Unidade: SEFAZ Protocolo Geral  ..  Data: 08/10/2013 15:02:46 - Ação: Cadastramento. .. Órgão/Unidade: CASA CIVIL / CGAB - Gabinete de Direção  ..  Data: 25/02/2014 18:02:13  .. ". (Id. 147036198 - Pág. 3)
+Observa-se, também, dos andamentos do Processo Adm. 555222/2013 (Id. 147036198 - Pág. 1) que, em 08/10/2021, o processo ainda se encontrava inerte na CASA CIVIL, constando como unidade atual o "Gabinete de Direção".
+Com efeito, se o Processo foi entregue em mão do Sr. Francisco Gomes Andrade Lima Filho, na Casa Civil e no setor CGAB - Gabinete de Direção, ao que tudo indica ele não ocupava à época o Cargo de Procurador Geral do Estado, mas algum cargo de direção naquela entidade (Casa Civil).
+Outrossim, a parte não colacionou aos autos nenhum documento que demonstre que na data de 25/02/2014, o Procurador Francisco Gomes Andrade Lima Filho, pessoa que teria recebido o processo em mãos na Casa Civil, ocupava o cargo de Procurador Geral do Estado.
+ ..
+No entanto, pela análise do acervo probatório colacionado aos autos, não é possível afirmar que os processos administrativos nº 555222/2013 e 100081-001/2005 foram remetidos para a Procuradoria Geral do Estado e nem que tenha sido o PROCURADOR GERAL DO ESTADO DE MATO GROSSO quem praticou o suposto ato omissivo ora combatido.
+Igualmente, não há como afirmar que ele possui competência para sanar o ato apontado como ilegal na inicial, eis que eles foram praticados no Gabinete de Direção da Casa Civil e não na Procuradoria Geral do Estado de Mato Grosso.
+Além disso, se manifestando no mesmo sentido da decisão recorrida, o MPF constata que o processo administrativo, objeto do mandado de segurança, encontra-se localizado no "Gabinete da Direção 1", o qual integra estrutura organizacional distinta da Procuradoria Geral do Estado de Mato Grosso. É o que se observa pelo seguintes trechos do Parecer (fl. 764):
+Isso porque, em reforço ao decidido pelo Tribunal de origem, cite-se que a pesquisa processual juntada à fl. 213, realizada em 17/06/2019, informa que os autos do Processo nº 555222/2013 estão localizados no "Gabinete da Direção 1" (vide referência "Unidade Atual"), setor inserido na estrutura do órgão "Casa Civil", a qual integra estrutura organizacional distinta da Procuradoria-Geral do Estado de Mato Grosso.
+Dessa forma, na hipótese apresentada, observa-se que, caso fosse concedida a segurança, esta seria inexequível pela autoridade coatora indicada na presente lide, a qual não tem ingerência em órgão inserido na estrutura do Poder Executivo do Estado de Mato Grosso do Sul. Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PRETENSÃO DE AFASTAMENTO DA EXIGÊNCIA DE ICMS. ILEGITIMIDADE DO SECRETÁRIO DE TRIBUTAÇÃO DO ESTADO DO RIO GRANDE DO NORTE PARA FIGURAR, COMO AUTORIDADE IMPETRADA, NO POLO PASSIVO DO MANDADO DE SEGURANÇA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. A Primeira Seção do STJ, ao julgar o MS 4.839/DF (Rel. Ministro ARI PARGENDLER, DJU de 16/02/98), deixou anotado que "a autoridade coatora, no mandado de segurança, é aquela que pratica o ato, não a que genericamente orienta os orgãos subordinados a respeito da aplicação da lei no âmbito administrativo; mal endereçado o writ, o processo deve ser extinto sem julgamento de mérito".
+ ..
+X. Agravo interno improvido
+(AgInt no RMS 54.968/RN, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 21/5/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. AUTORIDADE QUE PRATICOU O ATO. GOVERNADOR DE ESTADO. TEORIA DA ENCAMPAÇÃO. INAPLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A autoridade coatora que detém legitimidade para figurar no polo passivo de ação mandamental é aquela que tenha praticado o ato impugnado, a teor da Lei n. 12.016/2009.
+VI - Agravo Interno improvido.
+ ..
+(AgInt no RMS 54.869/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21/2/2018)
+Assim, não merece reparos a decisão recorrida que reconheceu a ilegitimidade passiva ad causam do Procurador Geral do Estado de Mato Grosso.
+Ressalte-se, por fim, que prosseguir na verificação, para além do que já assentado nos autos, conforme defendido pela impetrante, demandaria necessária dilação probatória, o que não se admite nesta via mandamental.
+Ante o exposto, com fundamento no art. 34, XVI II, b, do RI/STJ, nego provimento ao Recurso Ordinário em Mandado de Segurança.
+Publique-se. Intimem-se.
+EMENTA
