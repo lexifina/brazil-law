@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial, porquanto incidente a Súmula n. 7/STJ.
+O agravante "foi condenado à pena de 1 (um) ano e 2 (dois) meses de detenção, bem como à pena de multa, fixada em 12 (doze) dias-multa, no valor de 1/30 do salário mínimo ao tempo dos fatos (2017), atualizado monetariamente, no regime aberto, como incurso nas sanções dos artigos 2º, § 1º, da Lei 8.176/1991, e art. 55, da Lei 9.605/1998, c/c art. 70, do CP" (fl. 473).
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Apresentada contraminuta, manifestou-se o Ministério Público Federal pelo "desprovimento do recurso e a concessão da ordem de ofício para revisar a pena" (fl. 508).
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, apontou o recorrente, ora agravante, violação do art. 386, VII, do CPP, "uma vez que não restou comprovado, acima de qualquer dúvida razoável, que o recorrente, de forma livre e consciente, com dolo, dispôs de matéria prima pertencente à União, sem autorização legal ou em desacordo com as obrigações impostas pelo título autorizativo" (fl. 440), pugnando, ao final, pela sua absolvição.
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal regional (fl. 420):
+ ..  A autoria e a materialidade foram devidamente comprovadas nos autos, não havendo recurso no ponto.
+No que pertine ao dolo, a prova dos autos demonstra que o réu tinha plena ciência de que estava transportando substância mineral e que necessitava de autorização da Agência Nacional de Mineração, tendo inclusive solicitado tal autorização, conforme esclareceu em seu depoimento (processo 5002742-48.2017.4.04.7216/SC, evento 1, PORT_INST_IPL1, p. 29/30), optando, mesmo assim, por agir em desconformidade com o direito.
+Destarte, comprovada a materialidade, a autoria e o dolo do agente, e não se verificando qualquer excludente da tipicidade, ilicitude ou culpabilidade, mantenho a condenação de RAFAEL LEBARBENCHON MOURA DA COSTA às penas do artigo 55 da Lei 9.605/98 e 2º, § 1º, da Lei 8.176/91, na forma do art. 70 do Código Penal. ..
+Como se vê da transcrição acima, concluiu o Tribunal de origem que o réu, ora agravante, tinha plena ciência de que estava transportando substância mineral e que necessitava de autorização da Agência Nacional de Mineração, tendo inclusive solicitado respectiva permissão, conforme esclareceu em seu depoimento, "optando, mesmo assim, por agir em desconformidade com o direito".
+Logo, para modificar a conclusão acima, imprescindível seria o revolvimento probatório, procedimento esse inviável nesta via, diante do óbice presente no enunciado da Súmula n. 7 desta Corte.
+"O elemento subjetivo do tipo penal foi reconhecido pelas instâncias ordinárias de forma motivada, ante a livre apreciação do conjunto probatório. Para afastar a conclusão do aresto impugnado e acolher a tese de ausência de dolo seria necessário reexaminar provas, o que encontra óbice na Súmula n. 7 do STJ." (AgRg nos EDcl nos EDcl no AREsp n. 1.039.417/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/10/2019, DJe de 15/10/2019).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
