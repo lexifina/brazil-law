@@ -1,0 +1,23 @@
+DECISÃO
+WANDERSON FIGUEIREDO DA SILVA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500547-12.2020.8.26.0536.
+Depreende-se dos autos que o réu foi condenado a 4 anos de reclusão, em regime semiaberto, mais 10 dias-multa, pela prática de roubo.
+O Tribunal de origem negou provimento à apelação defensiva e deu provimento à ministerial, a fim de ajustar a pena para 7 anos e 6 meses de reclusão, em regime fechado, mais 18 dias-multa.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 59 do CP, ao argumento de que a pena foi exasperada mediante fundamentação inidônea. Sustenta afronta ao art. 67 do CP, uma vez que não foi realizada a compensação total entre a reincidência e a confissão. Aduz contrariedade aos arts. 33 do CP e 387, § 2º, do CPP, pois foi imposto regime inicial mais gravoso que o devido.
+Requer seja diminuída a pena-base, efetuada a referida compensação e determinado regime inicial mais brando.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+Primeiramente, verifico que, nas razões do especial, a defesa não cita nem se refere aos fundamentos do acórdão recorrido referentes ao regime e à inviabilidade de compensação integral entre a reincidência e a confissão.
+Ao não se remeterem ao que foi concretamente decidido na instância antecedente, as razões recursais configuram alegações abstratas que, à guisa de se aplicarem a diversos processos, não se referem a nenhum especificamente.
+O julgamento do mérito recursal pressupõe que o recorrente deixe inequívoco em que sentido os fundamentos do ato jurisdicional impugnado contrariam dispositivos de lei federal, ônus esse de que a defesa não se desvincilhou.
+O acórdão recorrido asseriu o seguinte:
+Na primeira fase, a pena-base foi fixada no mínimo legal, em 04 (quatro) anos de reclusão e 10 (dez) dias-multa, razão pela qual o Ministério Público se insurgiu, requerendo o seu aumento em metade pelas diversas circunstâncias desfavoráveis, alegando que o réu cometeu o presente delito durante benefício de livramento condicional, obtido no bojo da execução de diversas penas anteriormente impostas cujo cumprimento se dará somente em 2028, sendo que já ostentava condenações definitivas anteriores não capazes de gerar reincidência, como se vê da folha de antecedentes e certidões (fls. 24/27 e 71/88 (Processo 7000705-79.2005.8.26.0590 - fls. 25 e 83 - Processo 7000893-04.2007.8.26.0590 fls. 24 e 84 - 7001585-03.2007.8.26.0590 - fls. 25 e 84), além da elevada reprovabilidade, uma vez que utilizou simulacro de arma de fogo e não hesitou em entrar em luta corporal com a vítima, gênero feminino, chegando a empurrar a ofendida.
+Sendo assim, tendo em vista todas as circunstâncias elencadas pelo Ministério Público, entendo que incabível a fixação da pena-base no mínimo legal, de forma que elevo a pena em metade, resultando em 06 (seis) anos de reclusão e 15 (quinze) dias-multa.
+(fl. 409, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Na espécie, a pena-base foi exasperada em metade ao se levar em conta a prática de efetiva violência contra a vítima, a constatação de que o réu havia sido beneficiado anteriormente com livramento condicional e a configuração de maus antecedentes (três condenações definitivas).
+Trata-se de fundamentação idônea para o aumento de reprimenda na primeira fase dosimétrica, haja vista a maior reprovabilidade do roubador que efetivamente emprega violência para consumar o crime.
+Demais disso, a prática de novo delito durante a benesse do livramento condicional evidencia descaso com do agente com a sua própria recuperação e reinserção na sociedade, o que também deve ter expressão na dosimetria.
+Por fim, a pluralidade de condenações transitadas em julgado em desfavor do acusado demanda fração de acréscimo mais severa, a teor do princípio da individualização da pena.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se e intimem-se.
+EMENTA
