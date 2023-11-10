@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por BEATRIZ DE CARVALHO PENNA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. ÓBITO DO SEGURADO. HABILITAÇÃO EM PRECATÓRIO JUDICIAL. PLEITO DE EXCLUSÃO DOS HERDEIROS QUE NÃO SÃO DEPENDENTES JUNTO AO RIOPREVIDÊNCIA. DESCABIMENTO.
+1. Insurge-se a agravante contra a habilitação direta dos sucessores do segurado, falecido no curso do processo, para o recebimento de diferenças advindas de revisão de benefício previdenciário, reconhecidas judicialmente, invocando como fundamento o disposto nos arts 112 da Lei 8.213/91, e 1º da Lei nº 6.858/80, por ser a única dependente habilitada a receber pensão por morte do servidor.
+2. Inaplicabilidade da legislação apontada, ao caso concreto.
+3. A Lei Federal nº 8.213/91, que dispõe sobre o Regime Geral de Previdência Social, em seu artigo 12 expressamente exclui os servidores civis ocupantes de cargo efetivo nos Estados, quando amparados por regime próprio de previdência social. No caso, o falecido autor da ação era servidor público estadual, no cargo de Procurador do DNER, sujeito a regime próprio de previdência instituído no âmbito do Estado do Rio de Janeiro, qual seja, o RIOPREVIDÊNCIA, disciplinado pela Lei 5.260/08, que não tem em nenhum de seus artigos qualquer previsão correspondente ao teor dos dispositivos legais mencionados pela agravante.
+4. Quanto à Lei nº 6.858/80, que dispõe sobre o pagamento, aos dependentes ou sucessores, de valores devidos por empregadores aos empregados, e não recebidos em vida, independentemente de inventário ou arrolamento, depreende- se da exposição de motivos que levaram a criação medida simplificadora que a intenção do legislador é de proteger apenas o recebimento de créditos de pequeno montante, o que não corresponde ao caso em tela, em que o precatório alcança valor muito elevado. Precedentes do STJ.
+DESPROVIMENTO DO RECURSO" (fl. 37e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 68/91e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. ÓBITO DO SEGURADO. HABILITAÇÃO EM PRECATÓRIO JUDICIAL. PLEITO DE EXCLUSÃO DOS HERDEIROS QUE NÃO SÃO DEPENDENTES JUNTO AO RIOPREVIDÊNCIA. DESCABIMENTO. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO, INEXISTENTES.
+- Sustenta a embargante que o acórdão seria contraditório com o regramento previsto no art. 112 da Lei 8.213/91 (Regime Geral de Previdência Social) para caso semelhante ao dos autos, e omisso ao deixar de aplicar a referida norma, por analogia. Pede o provimento do recurso para sanar os vícios apontados, com efeitos infringentes, a fim de reformar a decisão agravada, para estabelecer que o pagamento do crédito líquido do falecido beneficiário seja pago apenas à cônjuge supérstite, ora embargante, única dependente habilitada junto ao Rioprevidência, e prequestiona a matéria objetada.
+- Os embargos de declaração se destinam a corrigir as omissões, obscuridades, contradições, ou erro material, quando no acórdão o seu sentido não pode ser depreendido, não se prestando ao rejulgamento das matérias já enfrentadas, senão em hipótese de excepcional efeito infringente, o que não ocorre no caso.
+- Com efeito, o acórdão embargado não padece de nenhum dos vícios do art. 1022 do Código de Processo Civil, tratando-se de mera tentativa de revisão de controvérsia que restou devidamente enfrentada e decidida, não se verificando nenhuma contradição ou omissão no voto condutor sobre o ponto arguido.
+- Note-se que o julgador não está obrigado a fundamentar como a parte deseja, mas utilizando-se dos critérios legais e jurisprudenciais que entender aplicáveis, o que efetivamente ocorreu na hipótese em tela.
+- Vislumbra-se assim, tão somente a inconformidade do recorrente com a decisão que lhe foi desfavorável e a intenção de reapreciar questão já decidida, e de atribuir ao recurso efeito infringente incabível nos estreitos limites da via eleita.
+DESPROVIMENTO DO RECURSO" (fl. 111e).
+Aponta a parte agravante, nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, além do dissídio jurisprudencial, violação do art. 112 da Lei 8.213/91, sustentando, para tanto, que:
+"Entende-se que, o direito do caso vertente, que discute sobre a quem pertence o direito ao recebimento de atrasados decorrentes de revisão de proventos de aposentadoria não recebidos em vida de ex-segurado falecido, deve ser delimitado aplicando-se diretamente as seguintes três constatações incontroversas:
+1) A Lei Federal nº 8.213/91, que dispõe sobre o Regime Geral de Previdência Social, estabelece regramento límpido para exata mesma situação da controvérsia em análise neste Recurso:
+(..)
+2) O falecido autor da ação originária se sujeitava ao Regime Próprio de Previdência Social RIOPREVIDÊNCIA, disciplinado pela Lei 5.260/08, que, em seu turno, não possui em seus artigos qualquer regramento que verse sobre procedimento a ser seguido para situação de existir valores alimentares devidos e não pagos em vida ao segurado, conforme, inclusive, foi reconhecido na conclusão externada no v. Acórdão vergastado.
+(..)
+3) A Carta Magna institui o Princípio da Subsidiariedade no âmbito das matérias previdenciárias, ao estabelecer impositivo constitucional que determina que os RPPS devem observar os critérios estabelecidos para o RGPS.
+(..)
+Portanto, o que se pretende neste Recurso é nada a mais que a aplicação literal da Lei Federal!" (fls. 157/158e).
+Requer, ao final, o provimento do presente recurso.
+Contrarrazões, a fls. 224/234e.
+Inadmitido o Recurso Especial (fls. 236/244e), foi interposto o presente Agravo (fls. 276/291e).
+Contraminuta, a fls. 308/317e.
+Conheço do Agravo, porém o Recurso Especial não merece acolhimento.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, em face do Estado do Rio de Janeiro e outros, "objetivando a reforma de decisão proferida nos autos de ação de revisão de proventos de aposentadoria, em fase de execução, que deferiu a habilitação direta dos herdeiros de LUIZ FELIPPE DE OLIVEIRA PENNA na ação em tela" (fl. 38e), que foi improvido pelo Tribunal local.
+Opostos Embargos de Declaração, foram eles rejeitados (fls. 110/115e).
+Daí a interposição do presente Recurso Especial.
+De início, verifica-se que, apesar da parte recorrente ter sustentado a suposta violação ao art. 112 da Lei 8.213/91, observa-se que não foi emitido nenhum juízo de valor, ao artigo citado, pelo Tribunal de origem, o que atrai incidência da Súmula 211 do STJ, "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+A propósito:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO DO ARTIGO 112 DA LEI 8.213/1991. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ADEQUAÇÃO AOS TETOS CONSTITUCIONAIS. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. AÇÃO COLETIVA. PARCELAS EM ATRASO. PRESCRIÇÃO QUINQUENAL CONTADA DO AJUIZAMENTO DA AÇÃO INDIVIDUAL. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Acerca da alegada violação do artigo 112 da Lei 8.213/1991, verifica-se que a matéria não foi abordada pelo acórdão a quo. Portanto, a pretensão recursal esbarra no óbice imposto pela Súmula 211/STJ que dispõe in verbis: inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+(..)
+5. Agravo interno não provido" (STJ, AgInt no REsp 1.642.625/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/06/2017).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/2015, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Outrossim, a análise de eventual ofensa aos dispositivos e princípios constitucionais, enumerados pela parte recorrente, para fins de eventual reforma do acórdão recorrido, compete ao Supremo Tribunal Federal, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Ademais, ainda que possível fosse ultrapassar os óbices supra - o que não é o caso, registra-se desde já - a título meramente ilustrativo -, saliente-se que, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Com efeito, a Lei Federal nº 8.213/91 dispõe sobre o Regime Geral de Previdência Social, que em seu artigo 12 expressamente exclui os servidores civis ocupantes de cargo efetivo nos Estados, quando amparados por regime próprio de previdência social, vale transcrever:
+Art. 12. O servidor civil ocupante de cargo efetivo ou o militar da União, dos Estados, do Distrito Federal ou dos Municípios, bem como o das respectivas autarquias e fundações, são excluídos do Regime Geral de Previdência Social consubstanciado nesta Lei, desde que amparados por regime próprio de previdência social.
+(Redação dada pela Lei nº 9.876, de 26.11.99)" (fl. 39e).
+Entretanto, tais fundamentos não foram impugnados pela agravante, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ilustrativamente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
+EMENTA
