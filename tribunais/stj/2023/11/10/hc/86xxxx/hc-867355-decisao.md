@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de Marcos Otavio dos Santos do Nascimento - preso preventivamente pela prática, em tese, dos crimes de tráfico de drogas e associação para o tráfico -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio Grande do Sul (Habeas Corpus n. 5296393-05.2023.8.21.7000), não comporta conhecimento.
+Com efeito, busca a impetração a revogação da prisão preventiva imposta ao paciente, pelo Juízo de Direito da Vara Judicial da comarca de Catuípe/RS (Autos n. 5000263-03.2023.8.21.0091), bem como o reconhecimento da ilegalidade dos elementos de informação constantes da ação penal, aos argumentos de ausência de fundamentação da segregação provisória e da impossibilidade de se manterem as mensagens obtidas por meio do print screen da tela do WhatsApp Web  que  devem ser consideradas provas ilícitas, e, portanto, desentranhadas dos autos (fl. 6).
+Ocorre que, além de a questão relativa à fundamentação da prisão preventiva ter sido objeto do Habeas Corpus n. 829.415/RS, impetrado em benefício do paciente neste Superior Tribunal, configurando reiteração de pedidos, não se observa ter o Tribunal de origem debatido satisfatoriamente a alegação de ilegalidade dos dados extraídos do celular do acusado, pois nem sequer foi objeto de análise por parte do Juízo de primeiro grau (fl. 29), razão pela qual inviável o conhecimento originário do tema por este Superior Tribunal, sob pena de indevida supressão de instância.
+Em face do exposto, não conheço da impetração.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. REITERAÇÃO DO PEDIDO FORMULADO NO HC N. 829.415/RS, IMPETRADO EM FAVOR DO PACIENTE. ILEGALIDADE DOS DADOS TELEMÁTICOS. DEBATE PELO TRIBUNAL. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
