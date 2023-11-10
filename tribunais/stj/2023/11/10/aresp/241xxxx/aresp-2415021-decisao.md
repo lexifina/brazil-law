@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado pela Concessionária Ecovias dos Imigrantes S.A, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 384):
+EMBARGOS À EXECUÇÃO FISCAL Município de São Paulo IPTU Alegação de nulidade da CDA por ausência de fundamentação legal Inocorrência CDA em ordem que cumpre todos os requisitos legais, tendo apontado minuciosamente o fundamento legal da exação Alegação de que a sociedade de economia mista seria beneficiária da imunidade recíproca (art. 150, VI, a, CF) Impossibilidade: sociedade de economia mista com capital aberto que negocia ações em bolsas de valores Provada a busca de lucro voltada à satisfação dos interesses de seus investidores Configurada capacidade contributiva da embargante, deve ser afastada a imunidade recíproca Tema 1.140 do STF Sentença mantida Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 495/498).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 32 e 34 do CTN e 102 do CC. Sustenta, em resumo, ser indevida a cobrança de IPTU na hipótese dos autos, em razão da: (I) "Inaplicabilidade dos precedentes estabelecidos pelo STF nos RREE nº 594.015 e 601.720 ao caso da Recorrente" (fl. 430); (II) " violação ao Princípio Constitucional da Imunidade Recíproca" (fl. 439); e (III) " inalienabilidade dos Bens Públicos e a inexistência de valor venal" (fl. 442).
+Recurso extraordinário interposto às fls. 394/416. O recurso teve seguimento negado com base nos Temas 508 (RE nº 600.867/SP), conforme decisão às fl. 540.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, observa-se que a Corte de origem analisou a questão posta acerca da cobrança de IPTU à luz do entendimento consolidado no julgamento do Tema 1.140/STF (RE 11320054), concluindo pela adequação do acórdão recorrido a esse precedente (fl. 389).
+Além disso, colhe-se dos autos que a Presidência da Seção de Direito Público do Tribunal local negou seguimento ao recurso extraordinário da parte ora recorrente, com esteio no art. 1.030, I, do CPC, tendo em vista que o acórdão recorrido encontra-se em conformidade com o posicionamento firmado na repercussão geral pelo STF (Tema 508- RE 600.867/SP (cf fl. 540).
+Consoante dicção do art. 1.039 do CPC/2015: "Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada".
+Nesse contexto, sendo a matéria trazida no presente apelo, qual seja, a validade da cobrança de IPTU, coincidente com aquelas discutidas em sede de repercussão geral, prejudicada restou a apreciação do recurso especial em análise.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
