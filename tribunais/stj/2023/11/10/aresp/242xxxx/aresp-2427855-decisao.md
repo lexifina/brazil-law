@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por José Carlos Braga Monteiro Ltda. contra decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu seu recurso especial ante a incidência da Súmula 83/STJ, tendo em vista que a Primeira Seção do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência no AREsp n. 1.621.841/RS, em caso semelhante ao dos autos, decidiu que, "apenas após o trânsito em julgado da decisão proferida em agravo de instrumento que, em juízo de conformação, aplicou o entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE 562.045/RS, submetido ao rito da repercussão geral, encerrou-se o debate acerca da constitucionalidade da progressividade de alíquota, momento em que surgiu para o ente estadual o direito de efetuar o lançamento complementar de ITCMD referente à diferença devida e, por conseguinte, foi inaugurado o prazo decadencial quinquenal, na forma do art. 173, I, do CTN." (fls. 404/405)
+A agravante, em síntese, alega que "a 2ª turma da Corte Superior possui cristalino posicionamento de que o prazo decadencial para lançamento complementar do ITCMD se inicia na forma do art. 173, inciso I do CTN, o que ocorre após a homologação da partilha nos autos do inventário" (fl. 419).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, a apontada incidência da Súmula 83/STJ ao caso dos autos.
+Quanto ao referido óbice, caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Nesse sentido:
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. INADMISSIBILIDADE DO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE ESTÁ CONSOANTE JURISPRUDÊNCIA REITERADA DESTA CORTE. ÓBICE DA SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO ADOTADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. Inadmitido o recurso especial diante do óbice contido na Súmula 83/STJ, cabe à parte agravante demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes indicados não se aplicariam ao caso dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 311.649/MA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/8/2017 - grifos nossos).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
+EMENTA
