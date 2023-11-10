@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito positivo de competência suscitado por FABIO LUCIANO NASCIMENTO DE SOUZA, em face do r. JUÍZO DE DIREITO DA 2.ª VARA ESPECIALIZADA DE DEFESA DO CONSUMIDOR DE SALVADOR-BA, perante o qual se processa o Cumprimento de Sentença n.º 0058187-95.2014.8.05.0001, ajuizado pelo suscitante contra a ora interessada e Outra, e do r. JUÍZO DE DIREITO DA 1.ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO-SP, que processa a Recuperação Judicial da ora interessada (n.º 1030812-77.2015.8.26.0100).
+Sustenta, em síntese, que "(..) é possuidor do título executivo judicial oriundo do TJBA - juizado 2ª VSJE DO CONSUMIDOR VESPERTINO DACOMARCA SALVADOR/BA. - PROJUDI, no processo nº 0058187-95.2014.8.05.0001 conforme certidão de crédito anexo (doc. 01) em face da OAS S. A. e outras sociedades empresárias integrantes do grupo econômico", todas em recuperação judicial. Afirma que "(..) se habilitou aquele processo de recuperação judicial por meio do processo incidental nº 1008166-34.2019.8.26.0100 sendo acolhida a sua inclusão de crédito na RJ e a decisão transitado e julgado em 04/06/2020 (doc. 02)". Aduz, entretanto, que diante da informação do r. Juízo recuperacional, quando da prolação da sentença de encerramento da recuperação judicial, de que "(..) os pedidos de execução relativos aos créditos concursais devem ser formulados ao juízo da ação de execução respectiva (..) Peticionou nos autos de origem a execução de sentença por descumprimento do plano de recuperação judicial, bem como, a ordem judicial". Tendo em vista que o r. Juízo da execução determinou o arquivamento dos autos, por não possuir competência para a prática de atos constritivos sobre o patrimônio das recuperandas. Suscitou, então, o conflito em análise.
+O Ministério Público Federal, apesar de instado, não emitiu parecer (fls. 89-93).
+É o relatório.
+Decisão.
+1. Nos termos do art. 66 do NCPC, o conflito de competência se configura quando dois ou mais juízes declaram-se competentes ou consideram-se incompetentes para o processamento e julgamento de uma mesma demanda ou quando existir controvérsia acerca da união ou separação de processos entre duas ou mais autoridades judiciárias.
+A situação em análise, todavia, não se amolda às hipóteses previstas no referido dispositivo.
+Isso porque, o r. Juízo da execução individual laborou na esteira de atentar para a competência exclusiva do juízo da recuperação judicial para a prática de quaisquer atos voltados ao patrimônio e/ou interesses das empresas em processo de soerguimento.
+Nesse contexto, não se afigura o perigo de serem proferidas decisões conflitantes, ensejador do incidente proposto pelo suscitante. A propósito, confiram-se os seguintes precedentes:
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE MANIFESTAÇÕES DOS JUÍZOS SUSCITADOS HÁBEIS A CARACTERIZAR A EFETIVA EXISTÊNCIA DE CONFLITO DE COMPETÊNCIA ENTRE ELES.
+1. Nos termos do art. 115, I, do CPC, a configuração de conflito de competência, pressupõe que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar determinado feito, ou para praticar atos processuais na mesma causa.
+2. Na hipótese dos autos, contudo, não restou evidenciada a existência de manifestação dos juízos suscitados acerca de sua competência para o julgamento do pedido do suscitante, havendo, apenas, decisão do Tribunal de Justiça do Estado de São Paulo em sentido contrário àquela proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, o que não é suficiente para a caracterização da existência de conflito entre os referidos juízos.
+3. A agravante não trouxe argumentos capazes de afastar os termos da decisão agravada.
+4. Agravo regimental desprovido.
+(AgRg no CC 126.379/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 21/08/2013)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. PRIMEIRA E SEGUNDA SEÇÃO DO STJ. DECISÃO DE RELATOR. AUSÊNCIA DE MANIFESTAÇÃO DOS ÓRGÃOS SUSCITADOS. NÃO CONFIGURAÇÃO DAS HIPÓTESES PREVISTAS NO ART. 115 DO CPC. CONFLITO NÃO CONHECIDO.
+1. Para a caracterização de conflito de competência, é necessário que haja a manifestação de dois juízos, ambos declarando-se competentes ou incompetentes, ou ainda que entre eles surja controvérsia acerca da reunião ou separação de processos.
+2. Agravo regimental desprovido.
+(AgRg no CC 122.832/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 17/04/2013, DJe 24/04/2013)
+Assim sendo, fica clara a ausência de elementos caracterizadores do conflito de competência, motivo pelo qual se revela inarredável o não conhecimento.
+2. Do exposto, com fundamento no art. 955, do CPC/15 c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se.
+EMENTA
