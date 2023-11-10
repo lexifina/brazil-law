@@ -1,0 +1,49 @@
+DECISÃO
+MILENA CAMILA DE LIMA BARROS alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Pernambuco (HC n. 0001872-45.2023.8.17.4480).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para a mantença da prisão processual da paciente, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006. Aduz que o endereço onde o entorpecente foi encontrado é diverso da residência da autuada. Assevera que a investigada é mãe de duas crianças menores de 12 anos, que dependem dos seus cuidados. Suscita o princípio da presunção de inocência.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura, o estabelecimento da prisão domiciliar ou a fixação de medidas alternativas.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pela concessão da ordem (fls. 67-70; 77-78; 83-86).
+Decido.
+Expõem os autos que o Magistrado plantonista converteu o flagrante da paciente em constrição preventiva, nestes termos (fls. 55-57):
+Consta das peças de informação que instruem o presente APFD que policiais receberam informações que a autuada estaria vendendo drogas no Loteamento Dona Arlinda, Rua Boa Vista, em Santa Cruz do Capibaribe/PE.
+Por ocasião da abordagem policial, a autuada entregou aos policiais uma porção de cocaína e confessou que estava vendendo cocaína e crack. Após, autorizou a entrada dos policiais na sua residência, local onde fo ram  encontrad as  várias porções de cocaína e crack, balanças de precisão, embalagens plásticas, rolo de fita adesiva, faca peixeira.
+Saliente-se que consta nos autos a apreensão de 420 gramas de  ..  crack e 1,8 kg de  ..  cocaína.
+Ainda, da narrativa policial constante nos autos, assevera-se que a autuada confessou que a maioria dos pagamentos pela venda de entorpecentes era feito via PIX.
+Avaliando a possibilidade de conversão do flagrante em prisão preventiva, verifico que se encontram presentes os pressupostos previstos no art. 312 do CPP, mais especificamente, risco à ordem pública.
+O depoimento do condutor e da testemunha e a própria oitiva da autuada tornou inconteste a autoria e a materialidade delitivas.
+Tenho que o risco à ordem pública se mostra presente e demonstram que a autuada se mostra inclinada à criminalidade, indicando periculosidade concreta, de maneira que há forte probabilidade de reiteração delitiva a exigir o acautelamento social.
+Ressalte-se, ainda, que o risco à ordem pública se mostra presente, porquanto o modo de execução do crime e a quantidade de droga apreendida revela a periculosidade concreta da conduta, não sendo as medidas cautelares suficientes e adequadas à manutenção da ordem pública.
+Observe-se, ainda, que a ação como a da autuada vem aterrorizando a população desta região, em flagrante desrespeito aos valores sociais, bem como os indícios apresentados demonstram que a autuada, em liberdade, poderá voltar a praticar novos crimes, urgindo a prisão.
+ ..
+No que tange ao fundamento, entendo que a medida se justifica para garantia da ordem pública.  ..  situações como esta elevam o senso de impunidade, responsável pela onda criminosa que assola todo o país.
+Frise-se que a necessidade de se prevenir a reprodução de novos delitos é motivação bastante para a decretação e manutenção da prisão preventiva, conforme majoritariamente reconhecido na Jurisprudência (STF, HC 95.118/SP, 94.999/SP, 94.828/SP e 93.913/SC).
+ ..
+Por tais razões e considerando a elevada probabilidade de reincidência, entendo insuficiente a fixação de cautelares diversas.
+Nesse contexto, a dinâmica dos fatos demonstra uma periculosidade acentuada a não recomendar a liberdade provisória  .. .
+Ressalte-se, ainda, que a flagranteada não comprovou a maternidade e, mesmo que tivesse comprovado, restou manifesto nos autos que a traficância era realizada no domicílio da autuada e que as crianças, em verdade, não são cuidadas pela autuada, mas sim por sua genitora.
+A despeito da flagrante inaplicabilidade da prisão domiciliar ao autuado, diante da ausência dos requisitos dispostos no art. 318 do CPP, considerando o cenário atual, as análises de conversão de prisão em flagrante em preventiva devem observar os critérios de razoabilidade e proporcionalidade, bem como as medidas disponíveis para o enfrentamento da emergência de saúde pública, sempre focando na manutenção da vida e saúde da sociedade em geral.
+DIANTE DO EXPOSTO, com base no art. 312 do CPP, arrimado nos fatos e fundamentos acima elencados, CONVERTO A PRISÃO EM FLAGRANTE DA AUTUADA MILENA CAMILA DE LIMA BARROS EM PRISÃO PREVENTIVA, calcado na existência de materialidade e de indícios suficientes de autoria em relação aos crimes tipificados no art. 33 da Lei 11.343/2006, em obséquio ao pressuposto de garantia da ordem pública.
+O Tribunal a quo denegou o writ originário (fls. 60-63).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que, em 20/9/2023, foi recebida a denúncia. Designou-se audiência de instrução para o dia 12/12/2023.
+Feitos esses registros, passo ao exame do mandamus.
+A significativa modificação no Código de Processo Penal determinada pelas Leis n. 13.257/2016 e 13.769/2018 garante a substituição da segregação provisória pela domiciliar, em favor de mães de crianças com até 12 anos de idade (arts. 318, III e V, e 318-A, ambos do CPP).
+A linha dos Tribunais Superiores sempre foi a de prestigiar a excepcionalidade da custódia ante tempus, principalmente aos presos primários, não violentos e que sejam "imprescindível is  aos cuidados especiais de pessoa menor de 6 (seis) anos de idade ou com deficiência" (art. 318, III, do CPP) - fatores que se adequam ao caso em comento, porquanto, além da primariedade da acusada, o crime a ela imputado não foi cometido com violência ou grave ameaça, sequer contra as filhas, de 3 e 4 anos.
+Ao que parece, não há suspeita de envolvimento da conduzida com organização criminosa ou indícios de que ela se dedique a atividades delitivas. Além das substâncias apreendidas, o decisum prisional apenas mencionou a presença dos vetores contidos na lei de regência e subsidiou o cárcere preventivo da investigada em aspectos que se adaptariam a qualquer comércio de drogas.
+Dessarte, a despeito da indispensabilidade de acautelamento da ordem pública - sobretudo diante da apreensão de duas espécies de entorpecente e balança de precisão -, impõe-se a análise do contexto fático a partir das disposições do Estatuto da Primeira Infância e das posteriores mudanças da norma processual.
+Firmou-se esta Corte Superior no sentido de que o exercício de tráfico de drogas, por si só, não serve de empecilho à concessão da prisão domiciliar à paciente, notadamente para a garantia do desenvolvimento infantil integral, com o "fortalecimento da família no exercício de sua função de cuidado e educação de seus filhos na primeira infância" (art. 14, § 1º, da Lei n. 13.257/2016).
+A propósito, trata-se de "Cuidados com a mulher presa, que se direcionam não só a ela, mas igualmente aos seus filhos, os quais sofrem injustamente as consequências da prisão, em flagrante contrariedade ao art. 227 da Constituição" (STF, HC Coletivo n. 143.641/SP, Rel. Ministro Ricardo Lewandowski, 2ª T., DJe 9/10/2018).
+Outrossim, cumpre ressaltar, a teor da jurisprudência desta Casa, que a imprescindibilidade dos cuidados maternos, sobretudo aos descendentes inseridos na primeira infância, é legalmente presumida.
+Aliás, o Ministério Público Federal se manifestou pelo deferimento do habeas corpus, in verbis (fl. 85):
+Apesar da existência de indícios de autoria e prova da materialidade, sendo apreendidos petrechos e significativa quantidade de crack e cocaína (420 g e 1,80 kg, respectivamente), a conclusão pelo risco de reiteração criminosa e o abalo à ordem pública se apoiou na gravidade abstrata do delito de narcotráfico - fundamento inidôneo para subsidiar o decreto preventivo, mácula insanável no julgamento do writ pelo Tribunal pernambucano.
+Aos mesmos ditames:
+ ..  Convém ainda registrar que a jurisprudência da Sexta Turma desta Corte Superior, ao interpretar a hipótese de prisão domiciliar prevista no art. 318, inciso V, do Código de Processo Penal, firmou-se no sentido de que a indispensabilidade dos cuidados maternos para o filho menor de 12 (doze) anos é legalmente presumida.  ..
+(AgRg no HC n. 747.260/SC, excerto do voto da Rel. Ministra Laurita Vaz, 6ª T., DJe 1º/7/2022.)
+ ..  2. Conforme art. 318, V, do CPP, a concessão de prisão domiciliar às genitoras de menores de até 12 anos incompletos não está condicionada à comprovação da imprescindibilidade dos cuidados maternos, que é legalmente presumida.  ..
+4. Agravo regimental provido para conceder a ordem de ofício.
+(AgRg no HC n. 731.648/SC, Rel. para acórdão Ministro João Otávio de Noronha, 5ª T., DJe 23/6/2022.)
+ ..  a agente faz jus à prisão domiciliar, nos termos do art. 318-A do CPP, uma vez que o crime imputado a ela não envolve violência ou grave ameaça a pessoa e não foi cometido contra os filhos. Ademais, o fato de as crianças estarem sob os cuidados da avó enquanto a genitora estava presa não é motivo que, por si só, indica a prescindibilidade dos cuidados maternos.  ..
+(AgRg no HC n. 723.139/RS, trecho do voto do Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/4/2022.)
+À vista do exposto, concedo a ordem, para substituir o cárcere preventivo da paciente pela prisão domiciliar, se por outro motivo não estiver presa, com a permissão para que saia da residência para trabalhar, para compromissos médicos e eventuais necessidades inarredáveis - sem prejuízo da fixação de medidas previstas no art. 319 do CPP, que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da custódia processual, em caso de violação das providências alternativas ou se sobrevier situação que configure a sua exigência.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
