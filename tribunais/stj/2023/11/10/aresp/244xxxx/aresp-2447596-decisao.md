@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social contra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+DIREITO PREVIDENCIÁRIO. BENEFÍCIO DE AUXÍLIO ACIDENTE. TERMO INICIAL. PRESCRIÇÃO QUINQUENAL. CONSECTÁRIOS.
+- Diante da conclusão pericial, bem como, tendo em vista que o termo inicial do auxílio acidente é fixado no dia seguinte ao da cessação do auxílio-doença, nos termos do art. 86, §2º, da Lei nº 8.213/91, mantido o marco inicial do auxílio-acidente no dia seguinte ao da cessação administrativa do auxílio doença em 23.04.2011, compensando-se os valores eventualmente pagos a título de auxílio-doença ou outro benefício cuja cumulação seja vedada por lei (art. 124 da Lei 8.213/1991 e art. 20, § 4º, da Lei 8.742/1993) após a data de início do benefício concedido nesta ação.
+- Configurada a prescrição quinquenal, pois decorreram mais de 05 anos entre a data da cessação administrativa do auxílio doença e da propositura da presente ação, estando prescritos os valores anteriores a 31.08.2013.
+- Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c. c. §11, do artigo 85, do CPC/2015.
+- Apelação do INSS não provida.
+Os embargos declaratórios opostos pelo agravante foram rejeitados.
+Nas razões de recurso especial manejado com fulcro na alínea "a" do permissivo constitucional, o recorrente aponta violação aos artigos 489, §1º, IV e VI, C/C 1022, I, II, e III, do CPC; 1º do Decreto 20.910/32 e 2º do Decreto 4.597/42.
+Assevera que "tendo a presente ação sido proposta há mais de 5 anos do termo referido, encontra-se totalmente prescrito o direito de pleitear a concessão daquele específico benefício negado".
+Não foram apresentadas contrarrazões ao recurso especial.
+O recurso especial teve seu trânsito obstado com fundamento na Súmula 83/STJ.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todos os pontos relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefício previdenciário com fundamentação eminentemente constitucional, razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.740.348/RS, SEGUNDA TURMA, Relator Ministro Herman Benjamin, DJe 22/11/2018)
+A alegada violação aos artigos 11, 489 e 1022 do CPC/2015, portanto, não merece ser acolhida.
+Ademais, a Primeira Seção deste Tribunal Superior, nos autos do EREsp nº 1.269.726/MG, julgado em 13/03/2019, alinhando-se ao entendimento do Supremo Tribunal Federal no RE nº 626.489/SE, decidiu que "o benefício previdenciário constitui direito fundamental da pessoa humana, dada a sua natureza alimentar e vinculada à preservação da vida. Por essa razão, não é admissível considerar extinto o direito à concessão do benefício pelo seu não exercício em tempo que se julga oportuno. A compreensão axiológica dos Direitos Fundamentais não cabe na estreiteza das regras do processo clássico, demandando largueza intelectual que lhes possa reconhecer a máxima efetividade possível".
+Conforme consignado, embora o direito material à concessão inicial do benefício seja imprescritível, na medida em que representa direito fundamental indisponível, o direito processual de ação, cujo objetivo é reverter o ato administrativo que suspendeu/cessou o benefício, estará sujeito ao artigo 1º do Decreto n. 20.910/1932.
+No presente caso, de fato, não há que se falar em decadência do direito ao benefício pleiteado uma vez que, conforme premissas estabelecidas pelas instâncias ordinárias, o segurado não pleiteou o restabelecimento de benefício anterior que fora cessado administrativamente, mas a concessão de um novo benefício previdenciário - auxílio-acidente.
+No ponto, as conclusões do acórdão recorrido não destoam da jurisprudência desta Corte, ao entender que inocorre a decadência do fundo de direito em matéria acidentária, mas sim a prescrição das parcelas vencidas antes do quinquênio precedente à propositura da ação.
+Confira-se a orientação da jurisprudência sobre o tema:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PEDIDO DE RESTABELECIMENTO DE PENSÃO. PRESCRIÇÃO DE FUNDO DE DIREITO. ART. 1º DO DECRETO N. 20.910/1932. OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Na hipótese de supressão de benefício previdenciário pelo Poder Público, a prescrição é do próprio fundo do direito. Precedentes.
+2. A jurisprudência desta Corte, na esteira do entendimento firmado no RE 626.489/SE, vem se consolidando no sentido de que não ocorre prescrição de fundo de direito na hipótese de pretensão de concessão inicial de benefício previdenciário, por tratar-se de direito fundamental da requerente.
+3. No entanto, na hipótese dos autos, não se está diante de pretensão de concessão inicial de benefício previdenciário, mas de seu restabelecimento. Assim, correto o reconhecimento da prescrição de fundo de direito, não havendo violação do art. 1º do Decreto n. 20.910/1932.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1648266/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 04/06/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. BENEFÍCIO POR INCAPACIDADE. ATO ADMINISTRATIVO INDEFERITÓRIO. PRESCRIÇÃO QUINQUENAL PREVISTA NO ARTIGO 1o DO DECRETO 20.910/1932. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. POSSIBILIDADE DE PLEITEAR NOVO BENEFÍCIO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com a jurisprudência do STJ, embora o direito material à concessão inicial do benefício seja imprescritível, na medida em que representa direito fundamental indisponível, a pretensão em reverter o ato administrativo indeferitório do auxílio-doença, mercê da temporariedade do benefício, está sujeita à prescrição do artigo 1º do Decreto 20.910/1932.
+2. Agravo interno não provido. (AgInt no REsp 1819203/PE, de minha relatoria, SEGUNDA TURMA, DJe 24/10/2019)
+Dessa forma, por estar o acórdão recorrido em consonância com o entendimento deste Superior Tribunal, incide, à espécie, o enunciado da Súmula 568/STJ, segundo a qual: "O relator, monocraticamente, no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, bem como na Súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso (6 meses) e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO NÃO CONFIGURADA . AUXÍLIO-ACIDENTE PRECEDIDO DE AUXÍLIO-DOENÇA. ARTIGO 1º DO DECRETO N. 20.910/1932. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 568/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
