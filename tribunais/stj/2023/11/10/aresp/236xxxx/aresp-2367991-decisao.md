@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se agravo interposto contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 7 e 83 do STJ.
+Sustenta o agravante não ser o caso de incidência dos mencionados óbices sumulares, razão de expor argumentação fática e jurídica buscando demonstrar a ilegalidade das questões levantadas.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada.
+Passa-se, portanto, à análise do mérito.
+Consta dos autos que o recorrente foi condenado, em primeiro grau, pelo crime previsto no art. 157, § 2º, I e II, c/c 70 do Código Penal, à pena de 6 anos, 8 meses e 19 dias de reclusão, em regime inicial fechado, além do pagamento de 16 dias-multa. Interposta apelação pela defesa, o recurso foi improvido.
+Nas razões do especial, se aponta violação do art. 59 do Código Penal, ao argumento de que não há motivação devida para justificar a exasperação da pena-base.
+Também se invoca o art. 157, § 2º, do CP, pois que a fração de 2/5 aplicada pela presença de duas causas de aumento é desproporcional, uma vez que não há fundamentação para elevar a fração de aumento além da mínima. Busca amparo na Súmula n. 443 do STJ.
+Ao final, se insurge quanto ao art. 33, § 3º, do CP e Súmula n. 440 do STJ, devendo a fixação de regime inicial mais brando.
+Requer o provimento do recurso.
+Relativamente ao aumento da pena-base, consta da sentença (fl. 359):
+O réu agiu com culpabilidade normal a espécie, devendo o vetor ser valorado de modo neutro; é portador de antecedentes criminais conforme relatado, o que também atrai a valoração negativa; conduta social e personalidade, sem possibilidade de avaliação pelo que dos autos consta, pelo que as valoro de forma neutra; o motivo do delito se constituiu pelo desejo de obtenção do lucro fácil, o qual já é punido pela própria tipicidade e previsão do delito, de acordo com a própria objetividade jurídica dos crimes contra o patrimônio, do que se infere a valoração neutra; circunstâncias comuns ao tipo penal, sendo imperiosa a valoração neutra; as conseqüências do crime não normais ao tipo, nada tendo a se valorar como fator extrapenal, pelo que procedo a valoração neutra; as vítimas em nada influenciaram para a prática do crime, razão pela qual a valoração neutra se faz necessária. Analisadas essas circunstâncias, fixo a pena-base, no mínimo legal, em 04 (quatro) anos e 06 (seis) meses de reclusão.
+Consta ainda (fl. 360):
+Ademais, vislumbro, em relação ao réu FÁBIO ALEX, que o fato em apreço não é evento isolado em sua vida pregressa, eis que já registra duas condenações penais, uma, sem trânsito em julgado nos autos do Processo nº. 000577-45.2018.8.14.0401 por prática de crime similar ao apurado nestes autos, e outra, com trânsito em julgado (agosto/2018) posterior aos eventos objeto destes autos (maio/2017), pelo cometimento do delito tipifica do no art. 311 do CP (Processo nº. 0006643-07.2005.8.14.0006). A mais disso, conta com 03 (três) processos criminais em curso, sendo 02 (dois) deles pelo cometimento de crimes contra o patrimônio (Processo nº. 0010109-98.2017.8.14.0006 e 0015142-53.2014.8.14.0401), tudo a demonstrar o fundado e concreto receio de reiteração delitiva por parte do denunciado em questão.
+Por sua vez, dispôs o Tribunal de origem que (fl. 516):
+Pela análise da sentença, no que diz respeito ao crime de roubo previsto no Art. 157, §2º, I e II do Código Penal, verifica-se que o Magistrado sentenciante fixou apenamento ao Apelante apontando de forma fundamentada como desfavorável os seus antecedentes, em razão de ação penal transitada em julgado (0006643-07.2005.8.14.0006), pelo cometimento de delito tipificado no Art.311, do CP, conforme se verifica na Certidão Criminal Positiva de Id. 4705085.
+Ademais, da certidão acima mencionada se extrai que o Recorrente responde a outros processos criminais por prática de crime similar ao objeto desta apelação, demonstrando não ser um fato isolado na vida pregressa do mesmo.
+Como se vê, as instâncias ordinárias apontaram fundamentação idônea baseada na valoração negativa dos maus antecedentes, de modo que resta justificado o incremento da pena-base, não havendo pois ofensa ao art. 59 do CP.
+Ademais, contrariamente ao alegado, o aumento da pena-base em apenas 6 meses, representa quantum inferior à fração de 1/6, sabidamente aceita por este Tribunal, inexistindo interesse de agir da parte quanto a este ponto específico.
+Em relação à terceira fase da dosimetria, consta da sentença (fl. 359):
+Verificadas as causas específicas de aumento de pena previstas nos incisos I e II do parágrafo segundo art.157, do CP, o que denota maior reprovabilidade à conduta infratora por implicar em acentuada atemorização às vítimas e facilitação à consumação do delito, em face do que majoro a pena em 2/5 (dois quintos), passando a dosá-la em 05 (cinco) anos, 07 (sete) meses e 06 (seis) dias de reclusão e 14 (quatorze) dias-multa,
+Por sua vez, consta do acórdão (fl. 516):
+Na terceira fase, foram aplicadas circunstâncias que se enquadram na causa de aumento pertinentes aos incisos I e II, do § 2º do artigo 157, do CP, razão pela qual foi majorada a pena na fração de 2/5 (dois quintos).
+Como se vê, o estabelecimento de fração acima da mínima legal, na terceira fase da dosimetria, deu-se, na espécie, tão só pela incidência de duas majorantes - emprego de arma e concurso de agentes -, com base em critério matemático e inerente ao próprio tipo penal, não se consignando qualquer motivação concreta, contrariando, assim, o entendimento firmado na Súmula 443/STJ: "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Cabível pois o redimensionamento da pena.
+Mantidos os termos da condenação nas instâncias inferiores, resta a pena intermediária fixada em 4 anos de reclusão e 10 dias-multa. Na terceira fase aplica-se a fração de aumento de 1/3, pelo que resta a pena fixada em 5 anos e 4 meses de reclusão e 13 dias-multa.
+Presente ainda a fração de aumento de 1/5 pelo concurso formal, fixa-se a pena em 6 anos, 5 meses e 6 dias de reclusão, além de 16 dias-multa.
+Diante do quantum da pena e da existência de circunstância judicial desfavorável, cabível a manutenção do regime inicial fechado, a teor do art. 33, §§ 2º e 3º e 5 9 do CP.
+Estando o corréu RODRIGO MORAES DA SILVA na mesma situação fático-processual do recorrente, estendo os efeitos dessa decisão, nos termos do art. 580 do CPP, para também reduzir a sua pena ao mesmo patamar.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, reduzindo a pena para 6 anos, 5 meses e 6 dias de reclusão, estendendo os efeitos desta decisão, nos termos do art. 580 do CPP ao corréu RODRIGO MORAES DA SILVA.
+Publique-se.
+Intimem-se.
+EMENTA
