@@ -1,0 +1,23 @@
+DECISÃO
+WESLEY CRISTIAN BARROSO BARBOSA ajuíza petição em que informa o descumprimento da ordem concedida para determinar que seja sanado erro material constante do acórdão proferido pela Corte Estadual nos autos da Apelação Criminal n. 0003758-54.2014.8.26.0597.
+A defesa narra o seguinte:
+ ..
+Verifica-se que no dia 25 de outubro de 2023 foi proferida decisão pelo Ilustre Ministro determinando a correção de erro material no acórdão proferido pela Corte Estadual nos autos da Apelação Criminal n. 0003758-54.2014.8.26.0597, fazendo constar o regime semiaberto para o cumprimento de pena.
+A decisão foi informada nos autos da execução penal nº 0009762-07.2023.8.26.0496, porém até o presente momento não houve cumprimento, sendo extremamente prejudicial ao apenado, visto que se encontra recolhido em regime fechado indevidamente.
+Desse modo, pede-se que seja determinado o cumprimento da decisão exarada nestes autos, a fim de que o paciente seja colocado imediatamente no regime adequado para cumprimento da pena que lhe foi imposta, qual seja, o regime semiaberto.
+ ..  (fl. 119)
+Decido.
+Conforme a Resolução n. 417/2021, do CNJ:
+DO MANDADO DE INTIMAÇÃO PARA CUMPRIMENTO DE PENA EM AMBIENTE SEMIABERTO OU ABERTO
+Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante n. 56. (redação dada pela Resolução n. 474, de 9.9.2022)
+O intuito da norma foi prevenir a situação de superlotação do sistema prisional brasileiro e impedir que condenados à pena privativa de liberdade em regime inicial aberto ou semiaberto, e que tenham respondido ao processo em liberdade, aguardem presos, em situação similar ao regime fechado, a definição sobre a existência de vagas e a transferência para estabelecimento adequado.
+Assim, deve ser feita a distinção no caso concreto, pois a resolução não tem como objetivo oportunizar o contraditório e a ampla defesa (observados durante o devido processo legal, antes da condenação transitada em julgado), mas evitar situação atentatória à Súmula Vinculante n. 56. Se constatado o cumprimento da pena em estabelecimento penal adequado, não há razões para a soltura.
+No caso, o trânsito em julgado ocorreu após a vigência da Resolução 474/2022, do CNJ.
+A lotação de unidades penais é dinâmica e a confirmação da vaga somente ocorrerá, com certeza, após o recolhimento. Além disso, não existe registro de que a o sentenciado descumpriu o dever de manter atualizado seu endereço, para receber a intimação (art. 367 do CPP).
+Também inexiste a informação de alojamento do condenado em estabelecimento compatível com o regime semiaberto. Assim, não verifico óbice ao recolhimento do mandado de prisão, se não cumprido, para observância da resolução.
+O Juiz da VEC deverá determinar a prévia intimação do paciente, para iniciar a execução das penas em unidade adequada ao regime semiaberto, previamente ao mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante n. 56..
+É possível o avanço para a solução monocrática do writ, pois o "Conselho Nacional de Justiça editou a Resolução n. 474/2022, que modifica o art. 23 da Resolução n. 417/2021, a fim de possibilitar ao condenado à pena privativa de liberdade, em regime inicial semiaberto ou aberto, que seja intimado para começar seu cumprimento, antes da expedição de mandado de prisão" (AgRg no RHC n. 177.287/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Se já iniciada a execução penal, não é possível determinar a soltura do condenado, pois, "já tendo sido concretizada a prisão do Agravante, eventual constrangimento ilegal que pudesse remanescer, atualmente, decorreria apenas da permanência deste em regime mais gravoso do que o previsto no édito condenatório, em afronta à Súmula Vinculante n. 56/STF" (AgRg no HC n. 819.123/ES, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023), situação que deve ser sanada pelo Juiz da Execução.
+À vista do exposto, concedo o habeas corpus de ofício a fim de determinar o recolhimento do mandado de prisão, para observância da Resolução n. 417/2021, sem prejuízo de: a) manutenção ou nova expedição da ordem na hipótese de inexistência de endereço atualizado nos autos para a intimação pessoal e b) de conservação do encarceramento do condenado já alojado em estabelecimento prisional compatível com o regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
