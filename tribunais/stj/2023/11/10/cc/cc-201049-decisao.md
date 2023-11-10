@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o Juizado Especial Federal Adjunto à Vara Federal da Subseção Judiciária de São João Del Rei/MG, como suscitante, e a 1ª Vara Federal da Subseção Judiciária de Capão da Canoa/RS, a suscitada, nos autos de ação de natureza previdenciária, com pedido de revisão de benefício.
+A ação foi originariamente proposta perante a Justiça Federal do Rio Grande do Sul, que declinou da competência, valendo-se das seguintes razões:
+Da análise dos autos verifico que se trata de hipótese de declinação de competência por não remanescer a este Juízo, no cotejo das normas constitucionais ou infraconstitucionais de organização judiciária, atribuição jurisdicional para o seu processamento e julgamento.
+Verifica-se, no caso, que a parte autora reside no município de Barbacena-MG, não integrante da área abrangida pelos limites impostos à jurisdição desta Subseção Judiciária, redundando patente a incompetência territorial.
+De acordo com as disposições dos artigos 3º, § 3º e 20 da Lei nº 10.259/01, em combinação com o artigo 4º da Lei nº 9.099/95, a competência territorial dos Juizados Especiais Federais, além de absoluta, é fixada em razão da maior proximidade da sede do Juízo com o local de domicílio do autor, observados os limites de cada Subseção (fl. 594).
+O juízo da Vara Federal de São João Del Rei/MG, a seu turno, suscitou o presente incidente processual, porque, para ele, "a competência do Juízo é fixada no momento da propositura da ação, mostrando-se irrelevantes as modificações do estado de fato ou de direito ocorridas ulteriormente, salvo as previsões legais, diante da consagração do princípio da perpetuatio jurisdictionis (CPC, art. 43)" (fl. 697). Ressaltou, nesse viés, ter a parte autora informado, na vestibular, endereço na jurisdição do juízo suscitado.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, nos termos do art. 43 do CPC/15, "Determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta".
+Sobre o tema, confira-se a lição de Nelson Nery Junior e Rosa Maria de Andrade Nery (fl. 406):
+1. Propositura da ação. Estabilização da competência. A ação é proposta no momento "em que a inicial é distribuída, onde necessário, ou despachada pelo juiz" (CPC 263 1ª parte) (Barbosa Moreira. NPC, p. 23). A norma institui a regra da perpetuação da competência (perpetuatio jurisdictionis), com a finalidade de proteger a parte (autor ou réu), no sentido de evitar a mudança do lugar do processo toda vez que houver modificações supervenientes de fato ou de direito, que possam, em tese, alterar a competência do juízo. Essas modificações são irrelevantes para a determinação da competência, que é fixada quando da propositura da ação.
+(Código de Processo Civil Comentado e legislação extravagante. 14. ed. São Paulo: Editora Revista dos Tribunais, 2014).
+Assim, eventual alteração de domicílio da parte autora após a propositura da ação não tem o condão de modificar a competência para a apreciação da causa, conforme restou decidido, dentre outros, CC n. 178.271, Ministro Sérgio Kukina, DJe de 26/3/2021.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para julgar a causa a 1ª Vara Federal de Capão da Canoa/RS, a suscitada.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
