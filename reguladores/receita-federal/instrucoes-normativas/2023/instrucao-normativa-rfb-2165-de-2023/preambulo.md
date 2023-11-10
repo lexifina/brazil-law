@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2165, de 9 de novembro de 2023
+Altera a Instrução Normativa RFB nº 1.969, de 28 de julho de 2020, que dispõe sobre o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 36 da Lei nº 14.690, de 3 de outubro de 2023, e no inciso XXXVI do art. 8º e art. 66 do Decreto nº 6.306, de 14 de dezembro de 2007, resolve:
