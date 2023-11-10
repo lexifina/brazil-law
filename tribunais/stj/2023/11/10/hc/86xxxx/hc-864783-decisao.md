@@ -1,0 +1,27 @@
+DECISÃO
+PAULO SERGIO SANTOS BEZERRA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe no HC n. 202300348804.
+Neste writ, a defesa sustenta, em síntese, que a decisão que decretou a prisão preventiva do paciente - acusado da prática do delito de tráfico de drogas - seria carente de fundamentação idônea.
+Aduz que o decreto prisional é desarrazoado e não indica elementos concretos capazes de indicar o periculum libertatis.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do acusado.
+Deferida a liminar (fls. 151-154) e prestadas as informações (fls. 163-165), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (fls. 167-175).
+Decido.
+O paciente foi preso em flagrante, no dia 9/9/2023, na posse de 43g de maconha. O Juiz de primeiro grau homologou o flagrante e decretou a prisão preventiva ao ressaltar o seguinte (fl. 22, grifei):
+Consta nos autos que ao flagranteado é imputada a autoria do crime de tráfico de drogas, haja vista ter sido encontrado e apreendido com ele determinada quantidade de substância entorpecente evidenciado pelas peças constantes no presente auto de prisão em flagrante, através das inquirições dos condutores e do auto de apreensão, acostado aos autos.
+Ademais, nota-se da pesquisa realizada dos antecedentes criminais do conduzido que se trata de criminoso contumaz, visto que já foi condenado pelo mesmo tipo penal nos autos 201821200475, com trânsito em julgado no dia 26/08/2019 e por uso de entorpecente nos autos 202121200541, com trânsito no dia 13/01/2023, com execução unificada em andamento no SEEU nº 500097196-2018.8.25.0086, atestando sua periculosidade.
+Deve-se coibir veementemente a prática de delitos desta natureza, e o retorno do conduzido à sociedade pode gerar na comunidade o sentimento de impunidade e incentivar a ocorrência de mais delitos deste jaez.
+Ademais é vedada a concessão da liberdade provisória ao réu reincidente, nos termos doart. 310, §2º do CPP.
+O Tribunal de origem ratificou o decisum de primeiro grau.
+A jurisprudência desta Corte Superior é firme em assinalar que "a custódia imposta antes do trânsito em julgado de sentença penal condenatória exige concreta fundamentação, nos termos do disposto no artigo 312 do Código de Processo Penal" (RHC n. 47.588/PB, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Na espécie, verifico que o Magistrado singular embasou sua decisão em elementos concretos e idôneos, notadamente o risco de reiteração delitiva - deduzida a partir da existência de condenação pretérita, com trânsito em julgado, pela prática do mesmo delito -, mas não demonstrou, satisfatoriamente, a insuficiência de outras medidas menos gravosas que a prisão.
+Assim, a circunstância apresentada, por si só, não poderia ensejar a imposição da prisão preventiva, se outras medidas menos invasivas se mostram suficientes e idôneas para os fins cautelares, especialmente para o objetivo de evitar a prática de novas infrações penais (art. 282, I, CPP).
+Considerando, assim, que o delito não envolveu violência ou grave ameaça contra pessoa e avaliando as circunstâncias em que perpetrado o suposto crime em questão, verifico que o pedido formulado reveste-se de plausibilidade jurídica, sendo o caso de conceder-se a ordem de habeas corpus.
+Sem embargo, a despeito da reprovabilidade social do comportamento atribuído ao paciente - a ensejar-lhe, se demonstrada a imputação, correspondente e proporcional sanção penal -, considero ser suficiente e adequada, na hipótese, a substituição da prisão preventiva por outras medidas cautelares a ela alternativas.
+É plenamente possível que, embora presentes os motivos ou os requisitos que tornariam cabível a prisão preventiva, o juiz - à luz do princípio da proporcionalidade e das novas alternativas fornecidas pela Lei n. 12.403/2011 - considere a opção por uma ou mais das medidas indicadas no art. 319 do Código de Processo Penal o meio suficiente e adequado para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa.
+Tal opção judicial produzirá o mesmo resultado cautelar - no caso em exame, evitar a prática de novos crimes, de maneira a proteger a ordem pública - sem a necessidade de suprimir, de modo absoluto, a liberdade de locomoção do acusado, notadamente porque a quantidade de droga apreendida não é expressiva (43g de maconha).
+À vista do exposto, ratifico a liminar deferida e concedo a ordem para, à luz das peculiaridades do caso concreto, substituir a prisão preventiva do réu pelas seguintes medidas cautelares:
+a) comparecimento periódico em juízo, sempre que for intimado para os atos do processo e no prazo e nas condições a serem fixados pelo Juiz, a fim de informar seu endereço (que deverá ser informado também ao ser solto) e justificar suas atividades; e
+b) proibição de ausentar-se da Comarca, quando a permanência seja conveniente ou necessária para a investigação ou instrução.
+Alerte-se ao paciente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa.
+As medidas cautelares ora impostas poderão ser, a qualquer tempo, modificadas ou adaptadas, justificadamente, pela autoridade judiciária responsável pelo processo em curso no primeiro grau de jurisdição.
+Publique-se e intimem-se.
+EMENTA
