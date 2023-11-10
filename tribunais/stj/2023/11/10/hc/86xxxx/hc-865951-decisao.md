@@ -1,0 +1,13 @@
+DECISÃO
+SAMUEL LIMA DA SILVA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1509119-03.2023.8.26.0228.
+Nas razões deste writ, a defesa postula a absolvição do paciente em decorrência da alegada nulidade da busca pessoal.
+Decido.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+O policial civil Marcelo narrou a dinâmica delitiva da seguinte forma (fls. 28-29, grifei):
+Marcelo, policial civil, recordou-se do réu, Samuel, vagamente. Relatou que o local é ponto conhecido de tráfico, fez pelo menos 15 prisões ali. Tinha maconha, crack e cocaína. Não lembra bem a quantidade, não está conseguindo ler direito, por ter feito cirurgia e não conseguiu ver o BO. A droga estava toda com um só. Não lembra com qual. Os dois confessaram Não conhecia nenhum deles. Um deles deu o nome do irmão. Estavam só os dois no local. Fez campana e os dois indivíduos estavam encostados de uma forma que já conhecem, já fizeramoutros flagrantes no local. Ninguém fica parado em um local daqueles, perto do mato. Eles estavam prestando atenção na rua, não estavam tranquilamente conversando, passando o tempo. Havia a denúncia anônima e eles estavam no local suspeito. A denúncia falava a localização exata do tráfico. Não se recorda se falava as características das pessoas. Eles conversavam entre eles, faziam sinal um para o outro. Não se recorda se alguém se aproximou deles. No dia do flagrante só respondeu o que o delegado perguntou. Um deles confessou que seria o campana, mas não lembra qual dos dois. As drogas estavam divididas, pronta para a venda, em uma sacola.
+Em sentido similar, o Tribunal estadual consignou que "os policiais civis Marcos de Freitase Maurício Barbosa Pereira Vianna relataram, em síntese, queem razão de denúncia anônima de tráfico, foram para o local, já conhecido ponto de venda de drogas, e em breve observação verificaram dois indivíduos próximos, prestando atenção na movimentação da rua e se comunicando, inclusive por sinais. Um ficava só olhando e o outro tinha uma bolsa na mão. Efetuaram a abordagem e encontraram maconha, cocaína e crack em poder de um deles."
+Deveras, o réu, em juízo, confessou a prática delitiva.
+No caso dos autos, portanto, não há ilegalidade na abordagem realizada, tendo em vista que a ação penal está lastreada em elementos mínimos que indicam o estado flagrancial.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
