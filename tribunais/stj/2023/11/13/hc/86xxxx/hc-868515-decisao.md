@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Adilson Santos da Silva - condenado como incurso no crime de furto qualificado tentado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1501167-90.2021.8.26.0535), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 1ª Vara Criminal da comarca de Guarulhos/SP, ao argumento de ilegalidade na escolha do percentual em razão da tentativa, pois o delito de furto claramente sequer se aproximou de sua consumação, tendo a execução do crime sido interrompida logo no início, por circunstâncias alheias à vontade do agente, impondo-se o reconhecimento da causa de diminuição de pena referente à tentativa em seu grau máximo, isto é, de 2/3, fração de redução adequada e proporcional ao ínfimo iter criminis percorrido (fl. 11), sendo cabível a fixação do regime inicial aberto e a substituição da privativa de liberdade por restritiva de direitos.
+Ocorre que é inviável a utilização da via eleita como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias.
+Ademais, o Magistrado singular logrou justificar a escolh a do percentual de 1/2 no fato de que o iter criminis percorrido já estaria bem adiantado, pois os agentes já haviam arrombado o veículo, e tentado pegar alguns objetos de dentro do veículo (fl. 82), razão pela qual não verifiquei o alegado constrangimento.
+Ademais, a reincidência do acusado é suficiente, por si só, para justificar a imposição do regime inicial mais rigoroso do que a reprimenda autoriza, nos termos do art. 33, § 2º, do Código Penal, e impede a substituição da privativa de liberdade por restritiva de direitos.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS . FURTO QUALIFICADO TENTADO. PRETENSÃO DE REVISÃO DA CONDENAÇÃO. VIA ELEITA INADEQUADA. DOSIMETRIA DA PENA. PERCENTUAL DA TENTATIVA. JUSTIFICATIVA ADEQUADA. ACUSADO REINCIDENTE. REGIME INICIAL SEMIABERTO E NÃO SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
