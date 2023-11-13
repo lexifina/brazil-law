@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por THIAGO GOMES DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Narra a defesa que o recorrente foi preso em flagrante e denunciado como incurso nas penas do art. 121, § 2º, inciso II, na forma do art. 14, inciso II, ambos do Código Penal. Ao final da sessão do júri, o Recorrente foi considerado absolutamente inimputável e absolvido impropriamente, sendo aplicada medida de internação. Foi determinada a realização de nova perícia para avaliar a necessidade da medida de internação, considerando o lapso temporal transcorrido entre a data dos fatos e a sentença proferida em 09/03/2023.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão com recomendação e denegou a ordem, em acórdão de fls. 135-141, ao fundamento de que:
+"embora o presídio não seja, de fato, o local mais adequado para o tratamento do quadro psiquiátrico indicado na impetração (esquizofrenia paranoide), julgo deva ser mantida o seu recolhimento em tal local até a realização da nova perícia, tudo isso para a garantia da ordem pública, tendo em vista, sobretudo, a periculosidade atribuída ao acusado, que, reitere-se está sendo investigado por ter supostamente atentado contra a vida de seus próprios familiares (por razão corriqueira e banal), além de já ter sido definitivamente condenado também por homicídio qualificado tentado" - fl. 139.
+No presente recurso, a Defesa pleiteia, em síntese, o provimento do recurso, para expedir o alvará de soltura e, se for o caso, estabelecer a realização de tratamento ambulatorial até o cumprimento da perícia determinada pelo juízo com a submissão do Recorrente ao estabelecimento/tratamento adequado conforme resultado a ser consignado no exame - fl. 156.
+Liminar indeferida às fls. 163-164.
+Informação prestada às fls. 171-257 e 258-260.
+O Ministério Público Federal manifestou, às fls. 265-270, em parecer ementado nos seguintes termos:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. RESISTÊNCIA. INIMPUTÁVEL. IMPOSIÇÃO DE MEDIDA DE SEGURANÇA DE INTERNAÇÃO EM HOSPITAL DE CUSTÓDIA E TRATAMENTO PSIQUIÁTRICO. SEGREGAÇÃO EM ESTABELECIMENTO PRISIONAL COMUM. LAPSO TEMPORAL ENTRE O FATO CRIMINOSO E A SENTENÇA CONDENATÓRIA. NECESSIDADE DE NOVA PERÍCIA. - Sobre a inimputabilidade, o art. 97, § 2º do CP, nos remete que "a perícia médica realizar-se-á ao termo do prazo mínimo fixado e deverá ser repetida de ano em ano, ou a qualq uer tempo, se o determinar o juiz da execução." - O juiz a quo determinou a realização de nova perícia antes do início do cumprimento da medida de segurança estabelecida na sentença, com o objetivo de que o recorrente seja submetido ao tratamento mais adequado ao seu atual quadro clínico, considerando o lapso temporal entre o jato criminoso e a prolação da sentença. O parecer do Ministério Público Federal é pelo não provimento do recurso ordinário em habeas corpus" - fl. 265.
+É o relatório. DECIDO.
+O pedido está prejudicado.
+Em consulta ao sítio do Tribunal de origem (www.tjmg.jus.br), processo n. 0017095-55.2021.8.13.0362, foi expedido alvará de soltura em favor do recorrente em 04/09/2023.
+Nesse contexto, verifico que o presente recurso perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
+Publique-se. Intime-se.
+EMENTA
