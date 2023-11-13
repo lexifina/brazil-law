@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA ECONÔMICA FEDERAL contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO - Interposição contra decisão que, nos autos do cumprimento de sentença, decorrente de cobrança de débitos condominiais, inferiu que deverá atentar referido condomínio exequente que o objeto de eventual leilão não é o imóvel, mas apenas os direitos contratuais do devedor frente ao credor fiduciário Caixa Econômica Federal, a quem pertence o imóvel. Acórdão em anterior agravo de instrumento anulado. Novo julgamento. Penhora do imóvel. Possibilidade. Despesas condominiais. Obrigação propter rem. Interesses da coletividade condominial que se sobrepõem aos da instituição financeira. Observação no sentido de que a contraminuta de agravo de instrumento que, no caso, embora aqui considerada, não tem o condão de modificar o quanto aqui decidido. Decisão reformada, com observação" (fl. 90 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 485, IV e VI, e 1.022, II, do Código de Processo Civil, 1.361 e 1.364 do Código Civil e 23 e 27, § 8º, da Lei nº 9.514/1997, com as respectivas teses:
+(i) o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) deve ser desconstituída a penhora sobre o imóvel que possui garantia de alienação fiduciária.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência merece prosperar.
+Inicialmente, consigna-se ser inviável a alegação de negativa de prestação jurisdicional quando não houve, na origem, a oposição de embargos de declaração.
+No mais, verifica-se que o aresto combatido está em confronto com a jurisprudência do Superior Tribunal de Justiça, consoante a qual, levando-se em conta que a propriedade está em poder do credor fiduciário, somente é possível a penhora dos direitos aquisitivos do imóvel, e não a sua alienação.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. VEÍCULO GRAVADO DE ALIENAÇÃO FIDUCIÁRIA. CONSTRIÇÃO DE DIREITOS AQUISITIVOS. POSSIBILIDADE. SÚMULA 83/STJ. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. É entendimento desta Corte Superior que "não se admite a penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, haja vista que o patrimônio pertence ao credor fiduciário, permitindo-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária. Precedentes" (REsp 1.677.079/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1.10.2018).
+2. Nos termos da jurisprudência desta Corte, "a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia" (AgInt no AREsp 1.550.572/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 11.6.2021).
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp 2.086.729/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 17/5/2023 - grifou-se).
+"AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DESPESAS CONDOMINIAIS. IMÓVEL ALIENADO FIDUCIARIAMENTE. PENHORA SOBRE O IMÓVEL. IMPOSSIBILIDADE. CONSTRIÇÃO QUE PODE RECAIR, CONTUDO, SOBRE OS DIREITOS DECORRENTES DO CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DO IMÓVEL. INCIDÊNCIA DA SÚMULA 83/STJ. AVALIAÇÃO DO BEM POR PERITO. REVISÃO DE FATOS E PROVAS. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+2. Como a propriedade do bem é do credor fiduciário, não se pode admitir que a penhora em decorrência de crédito de terceiro recaia sobre ele, mas podem ser constritos os direitos decorrentes do contrato de alienação fiduciária. Incidência da Súmula 83/STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento" (AgInt no REsp 1.832.061/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 24/4/2020 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESPESAS CONDOMINIAIS. PENHORA DE BEM IMÓVEL. IMPOSSIBILIDADE. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. CONSTRIÇÃO DOS DIREITOS DECORRENTES DO CONTRATO. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. "Não se admite a penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, haja vista que o patrimônio pertence ao credor fiduciário, permitindo-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária. Precedentes" (REsp 1.677.079/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/09/2018, DJe de 1º/10/2018).
+2. Agravo interno a que se nega provimento" (AgInt no REsp 1.819.448/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25/3/2020 - grifou-se).
+"RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. BEM IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. DIREITOS DO DEVEDOR FIDUCIANTE. PENHORA. IMPOSSIBILIDADE. BEM DE FAMÍLIA LEGAL. LEI Nº 8.009/1990.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se os direitos (posse) do devedor fiduciante sobre o imóvel objeto do contrato de alienação fiduciária em garantia podem receber a proteção da impenhorabilidade do bem de família legal (Lei nº 8.009/1990) em execução de título extrajudicial (cheques).
+3. Não se admite a penhora do bem alienado fiduciariamente em execução promovida por terceiros contra o devedor fiduciante, haja vista que o patrimônio pertence ao credor fiduciário, permitindo-se, contudo, a constrição dos direitos decorrentes do contrato de alienação fiduciária. Precedentes.
+4. A regra da impenhorabilidade do bem de família legal também abrange o imóvel em fase de aquisição, como aqueles decorrentes da celebração do compromisso de compra e venda ou do financiamento de imóvel para fins de moradia, sob pena de impedir que o devedor (executado) adquira o bem necessário à habitação da entidade familiar.
+5. Na hipótese, tratando-se de contrato de alienação fiduciária em garantia, no qual, havendo a quitação integral da dívida, o devedor fiduciante consolidará a propriedade para si, deve prevalecer a regra de impenhorabilidade.
+6. Recurso especial provido" (REsp 1.677.079/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/10/2018 - grifou-se).
+Logo, não merece reforma o acórdão recorrido, incidindo na espécie a Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial e manter, na íntegra, a decisão de fls. 10/12 (e-STJ).
+Publique-se.
+Intimem-se.
+EMENTA
