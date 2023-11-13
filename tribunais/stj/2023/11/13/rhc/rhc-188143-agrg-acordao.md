@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. INTERPOSIÇÃO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. LAPSO TEMPORAL DE 5 DIAS CORRIDOS. ART. 258, DO RISTJ, E 798, DO CPP. AGRAVO REGIMENTAL NÃO CONHECIDO.
+- O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP.
+- No caso, tendo a decisão monocrática que negou provimento ao recurso ordinário em habeas corpus sido disponibilizada no Diário de Justiça Eletrônico/STJ em 06/10/2023, com publicação em 09/10/2023, conforme certidão anexada à e-STJ fl. 324, tem-se que o prazo para interposição do agravo regimental se iniciou em 10/10/2023 e findou-se em 16/10/2023, tendo o presente agravo sido interposto apenas em 24/10/2023, sendo, portanto, intempestivo.
+- Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental (fls. 2/5 - do Expediente Avulso) interposto por JONATAS DA SILVA VERGETE em face de decisum (fls. 317/323), de minha relatoria, que negou provimento ao recurso ordinário em habeas corpus anteriormente interposto.
+Neste recurso, a defesa alega que "merece reforma a decisão aqui impugnada, porque: (i) houve impugnação de todos os fundamentos da decisão que não admitiu o recurso especial; (ii) houve errônea aplicação do art. 34, inciso XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça; e (iii) sobressai a relevância da matéria debatida nestes autos, notadamente por se tratar pretensão de tutela de paciente indevidamente segregado e que ainda não teve audiência de instrução e julgamento designada até a presente data" (fls. 4/5 - do Expediente Avulso).
+Ao final, requer a reconsideração da decisão impugnada ou que este agravo seja levado a julgamento perante a Quinta Turma e provido, com o provimento do recurso ordinário, nos termos da postulação.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. INTERPOSIÇÃO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. LAPSO TEMPORAL DE 5 DIAS CORRIDOS. ART. 258, DO RISTJ, E 798, DO CPP. AGRAVO REGIMENTAL NÃO CONHECIDO.
+- O prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do RISTJ. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do CPP.
+- No caso, tendo a decisão monocrática que negou provimento ao recurso ordinário em habeas corpus sido disponibilizada no Diário de Justiça Eletrônico/STJ em 06/10/2023, com publicação em 09/10/2023, conforme certidão anexada à e-STJ fl. 324, tem-se que o prazo para interposição do agravo regimental se iniciou em 10/10/2023 e findou-se em 16/10/2023, tendo o presente agravo sido interposto apenas em 24/10/2023, sendo, portanto, intempestivo.
+- Agravo regimental não conhecido.
+VOTO
+Não é possível conhecer do presente agravo.
+Com efeito, o prazo para interposição de agravo regimental, em matéria penal, é de 5 dias, nos termos do art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça. Ademais, os prazos, no processo penal, são contínuos e peremptórios, conforme dispõe o art. 798, caput, do Código de Processo Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. REGIMENTAL INTERPOSTO FORA DO QUINQUÍDIO LEGAL. INTEMPESTIVIDADE. I - "O prazo para interposição de agravo regimental, em processo penal, é de 5 dias, de acordo com os arts. 39 da Lei n. 8.038/1990 e 258 do RISTJ, os quais, mesmo após a entrada em vigor da Lei n. 13.105/2015, continuam sendo contados em dias corridos, nos termos do art. 798 do Código de Processo Penal" (AgInt no AREsp 943.297/ES, Sexta Turma, Rel. Ministro Rogério Schietti Cruz, DJe de 1º/8/2017). II - No caso dos autos, a decisão que não conheceu do agravo em recurso especial foi publicada em 29/5/2018, tendo o prazo recursal de cinco dias se iniciado em 30/5/2018 e terminado em 4/6/2018, ao passo que este recurso somente foi interposto em 20/6/2018, portanto, fora do prazo legal. Agravo regimental não conhecido. (AgRg no AREsp 1199711/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 14/8/2018, DJe de 20/8/2018)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 5 DIAS. INTEMPESTIVIDADE. 1. É intempestivo o agravo regimental interposto após o prazo legal de 5 dias previsto no art. 258 do RISTJ. 2. Agravo regimental não conhecido. (AgRg nos EDcl no AREsp 1205678/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 8/5/2018, DJe de 21/5/2018)
+No caso, tendo a decisão monocrática que negou provimento ao recurso ordinário em habeas corpus sido disponibilizada no Diário de Justiça Eletrônico/STJ em 06/10/2023, com publicação em 09/10/2023, conforme certidão anexada à e-STJ fl. 324, tem-se que o prazo para interposição do agravo regimental se iniciou em 10/10/2023 e findou-se em 16/10/2023, tendo o presente agravo sido interposto apenas em 24/10/2023, sendo, portanto, intempestivo.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
