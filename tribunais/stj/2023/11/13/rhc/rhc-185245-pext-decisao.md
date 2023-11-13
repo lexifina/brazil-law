@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de extensão formulado pela defesa de FAGNER LINO DUARTE, que objetiva alcançá-lo com a ordem concedida à coinvestigada LUANA RABELO SANTOS pela decisão de e-STJ fls. 269/275.
+Afirma estarem em situações jurídico processuais idênticas, configurando-se a ilegitimidade também da sua segregação cautelar.
+É o relatório. Decido.
+A decisão proferida em benefício de um dos corréus pode ser estendida aos demais quando as suas situações jurídico-processuais forem idênticas (HC n. 447.378/SC, Rel. Ministro JORGE MUSSI, DJe de 17/10/2018, e HC n. 398.278/MG, Rel. Ministro RIBEIRO DANTAS, DJe de 15/8/2018).
+No caso destes autos, entretanto, a situação dos corréus não é idêntica, ou a leitura dos autos, conforme instruídos, impede a afirmação segura de tal identidade.
+Com efeito, a concessão da ordem à recorrente original decorreu da consideração de que as instâncias ordinárias teriam aludido (i) a reputada intimidação de testemunha que não foi descrita de forma concreta, sem descrição suficiente que permitisse aquilatar a gravidade da conduta (e-STJ fl. 271), e (ii) sem detalhar de que maneira a sua segregação colaboraria para desarticular a reputada engrenagem criminosa, especialmente diante do reconhecimento de que ela veio a ser demitida da instituição financeira dentro da qual, na função de gerente, teria agido clandestinamente para beneficiar a organização criminosa (e-STJ fl. 273).
+Em posição distinta, a necessidade da prisão preventiva do ora requerente foi justificada a partir da sua posição de liderança, destacando-se o seu reputado protagonismo em organização criminosa, da falsidade documental, da prestação de informação sabidamente inverídica à autoridade policial e de aparentes condutas destinadas a fugir do país para o exterior, além de ostentar registros criminais (e-STJ fls. 158/159, 161, 180/181 e 190):
+Ele teria, supostamente, arrendado a Fazenda Gameleira, na Zona Rural de Joaquim Felício/MG, que pertencia a Fagner Lino Duarte, havendo informações de que Lourivaldo Fernandes Silva possuiria terminais de telefone, bens e contas bancárias de sua titularidade, utilizados por Fagner Lino Duarte, indicado como líder da suposta organização criminosa.
+(..).
+Averiguou-se que Débora da Silva Coelho seria integrante da organização criminosa, recebendo ordens diretas do suposto líder Fagner Lino e seria "responsável pelas transferências de empresas inativas para o nome de "laranjas" integrantes da ORGANIZAÇÃO CRIMINOSA. Essas empresas seriam usadas para dar o lastro financeiro aos laranjas" (Id. 9769242067 - p. 11).
+(..).
+Fagner Lino Duarte seria o líder da ORCRIM. Consta da representação que ele seria o "responsável intelectual e operacional das falsificações de documentos, registros falsos de veículos, aliciamento de laranjas, abertura de empresas fantasmas, movimentações financeiras nas contas abertas em nome de laranjas e empresas fantasmas, aliciamento de gerentes de bancos, captação de créditos financeiros e ocultação de bens" (Id. 9769229540- p.4).
+(..).
+Em delegacia, Wanderson Pereira de Souza, pessoa iletrada e humilde, teria informado que não seria sócio de empresas e que havia sido aliciado para assinar papéis cujo teor desconhecia.
+Fagner Lino Duarte e Renata Lorene Veloso teriam informado que a empresa havia sido baixada, sendo que Fagner Lino informou que solicitou os serviços da investigada Débora, para devida baixa na empresa. Ambos teriam informado desconhecer a transferência do estabelecimento para Wanderson Pereira de Souza, apesar de constar suas assinaturas.
+Averiguou-se que "FAGNER também mentiu a respeito de ter outra identificação" (Id. 9769229540 - p.11). Em diligências, verificou-se que o procurador da empresa Sucametal seria Fagner Veloso Duarte, nome semelhante ao do investigado Fagner Lino Duarte.
+Da análise dos dados de Fagner Veloso Duarte, ter-se-ia verificado, ainda, a semelhança de dados, uma vez que "ambos tinham os pais chamados ALAIDE e IVO, e ambos tinham nascido nos dias 10 de março, com diferença que um nasceu em 1984 e o outro em 1985". Ante as semelhanças, "foi solicitado que o INSTITUTO DE IDENTIFICAÇÃO da POLÍCIA CIVIL DE MINAS GERAIS realizasse uma comparação datiloscópica dos dois indivíduos, quando foi constatado que FAGNER LINO DUARTE e FAGNER VELOSO DUARTE são as mesmas pessoas" (Id.9769229540 - p.11/12).
+(..).
+Há a informação, ainda, de que a organização criminosa estaria adquirindo diversos imóveis e "que FAGNER pretende se estabelecer em PORTUGAL e usufruir dos frutos adquiridos com as diversas práticas criminosas cometidas por ele" (Id.9769229540 - p.21).
+(..).
+O perigo gerado pelo estado de liberdade dos investigados dosresta evidenciado, ainda, da análise de suas CAC"s e FAC"S, sendo possível verificar que os investigados Fagner Lino Duarte, Aderick Cardoso Oliveira, Farley Lacerda Martins, Lourivaldo Fernandes Silva, registram passagens criminais, circunstância que, aliada à gravidade concreta dos delitos em apuração, demonstra a periculosidade deles. Nesse sentido, colhe-se da jurisprudência do Superior Tribunal de Justiça: (..).
+Ao que se vê, o requerente do pedido de extensão e a recorrente original não compartilham situação jurídico-processual idêntica, o que impede a extensão da ordem.
+Ante o exposto, indefiro o pedido de extensão.
+Intimem-se.
+EMENTA
