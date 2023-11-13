@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PAULO JONES DA CRUZ FLORES, CLEONICE APARECIDA ANDRADE SILVA FLORES à decisão de fls. 1131/1133, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Entretanto, ao analisar o Agravo, a Ministra Relatora não conheceu o recurso, porquanto teriam os Embargantes deixado de efetuar o recolhimento do preparo recursal. Eis o teor do decisum, in verbis: (fl. 1144).
+ ..
+Não obstante, a nosso sentir, o r. Acórdão alhures comporta a oposição dos presentes Declaratórios, eis que este r. Juízo deixou de considerar o pagamento efetuado nos ID"s e-STJ Fl.1057 e e-STJ Fl.1058, realizado no mesmo dia em que houve a juntada do comprovante de agendamento, em 14/03/2023. Deste modo, o erro de fato consiste na desconsideração do Comprovante de Preparo Recursal (fl. 1145).
+ ..
+Entretanto, data venia, o entendimento exarado não se amolda à realidade fático- processual, visto que o Embargante juntou aos autos, nos ID"s e-STJ Fl.1057 e e-STJ Fl.1058, petição requerendo a juntada do preparo recursal, visto que, por um lapso, houve a juntada do agendamento de pagamento em andamento anterior (e-STJ Fl.1054).
+Neste sentido, registra-se que houve o pagamento regular do preparo recursal, dentro do prazo, sendo juntado na interposição do recurso, conforme consta nos ID"s e-STJ Fl.1057 e e-STJ Fl.1058 , devendo, dessa forma, o respectivo recurso ser conhecido e provido.
+N"outro ponto, ainda que não fosse o caso de ter sido pago o preparo recursal, seria necessária a intimação da parte para que providenciasse o recolhimento em dobro, fato este que, no caso em comento, não aconteceu, em dissonância ao comando exarado pelo artigo 1.007, §4º, do CPC, in verbis: (fl. 1147).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que, após o indeferimento da gratuidade de justiça e a intimação para recolhimento do preparo, nos termos do art. 99, § 7º do CPC, foi colacionado aos autos apenas o comprovante de agendamento do preparo (fl. 1054), não tendo sido juntado o comprovante do efetivo pagamento.
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+No caso, o comprovante de pagamento às fls. 1057/1058, juntado em momento posterior à interposição do recurso especial, não pode ser aceito para fins de regularização, uma vez que preclusa a oportunidade.
+Dessa forma, o recurso encontra-se deserto, pois "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Ademais, ao contrário do alegado pela parte embargante, conforme estabelece o art. 101, § 2º do CPC, indeferida a gratuidade será aberto prazo para recolher as custas, sob pena de não conhecimento do recurso. Assim, dado o prazo e não regularizado corretamente, não há previsão na lei que permita nova oportunidade de regularização. Veja que são situações distintas, não se aplicando ao caso o art. 1.007 do CPC.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+ EMENTA
