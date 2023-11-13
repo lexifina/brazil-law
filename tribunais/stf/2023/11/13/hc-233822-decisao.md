@@ -1,0 +1,57 @@
+DECISÃO
+
+HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO. MATÉRIA NÃO APRECIADA PELO ÓRGÃO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. REEXAME DE FATOS E PROVAS: INVIABILIDADE. INADEQUAÇÃO DA VIA ELEITA. NEGATIVA DE SEGUIMENTO.
+
+    1. Trata-se de habeas corpus impetrado contra acórdão pelo qual a 5ª Turma do Superior Tribunal de Justiça negou provimento ao Agravo Regimental no Habeas Corpus nº 751.317/SP.
+
+    2. Consta dos autos que o paciente foi condenado a 10 anos, 10 meses e 20 dias de reclusão, no regime inicial fechado, e ao pagamento de 1.632 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, e 35 da Lei nº 11.343, de 2006 (tráfico de drogas e associação para esse fim).
+
+    3. O Tribunal de Justiça do Estado de São Paulo negou provimento à apelação da defesa. Embargos de declaração foram rejeitados. Recursos especial e extraordinário foram inadmitidos pelo Presidente da Seção de Direito Criminal. Sobreveio o trânsito em julgado da condenação.
+
+    4. Inconformada, a defesa protocolou pedido de revisão criminal (nº 0036010-14.2021.8.26.0000), não conhecido pelo Tribunal de Justiça, sob o fundamento de não estar configurada nenhuma das hipóteses previstas no art. 621 do Código de Processo Penal.
+
+    5. Contra esse acórdão, proferido em 1º/06/2022, a defesa formalizou a impetração no STJ, tendo o Ministro Relator denegado a ordem. Seguiu-se o agravo regimental de que resultou o ato ora impugnado.
+
+    6. Neste habeas corpus, os impetrantes, reportando-se ao princípio da presunção de inocência, alegam não estarem comprovadas a estabilidade e a permanência do vínculo entre os agentes, necessárias à configuração da associação para o tráfico. Apontam a fragilidade do acervo probatório.
+
+    7. Pretendem a absolvição do paciente, nos termos do art. 386, inc. V, do Código de Processo Penal.
+
+    É o relatório.
+
+    Decido.
+
+    8. As questões suscitadas neste habeas corpus não passaram pelo crivo do Superior Tribunal de Justiça. No ato impugnado, a 5ª Turma limitou-se a afirmar que o agravo regimental interposto pela defesa deixou de impugnar os fundamentos da decisão individual do Ministro Relator, o que atraía o óbice do verbete nº 182 da Súmula do STJ. O Relator, por sua vez, havia assentado não estar configurada hipótese de cabimento de revisão criminal, bem como a inviabilidade de revolvimento de fatos e provas em sede de habeas corpus. A atuação originária desta Suprema Corte, portanto, acarretaria supressão de instância e ampliação indevida da competência prevista no art. 102 da CRFB. Assim decidiram o Plenário e ambas as Turmas: HC nº 109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/04/2014, p. 13/08/2014; HC nº 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 17/03/2020, p. 20/04/2020; e HC nº 163.568/RS, Rel. Min. Marco Aurélio, Red. do Acórdão Min. Rosa Weber, Primeira Turma, j. 13/08/2019, p. 30/08/2019.
+
+    9. Com efeito, o Ministro Relator, no STJ, ao afirmar a inviabilidade de reexame do conjunto fático-probatório em sede de habeas corpus, com vistas à absolvição do paciente, não destoou da firme jurisprudência desta Suprema Corte. Destaco o trecho a seguir:
+
+    “(...) se as instâncias ordinárias, diante da valoração plena das provas obtidas no curso da ação penal, entenderam, de forma fundamentada, que o paciente praticou o crime a ele imputado, a análise do pleito de afastamento de sua condenação por ausência de provas ou a sua desclassificação, demandaria necessário exame aprofundado de todo o conjunto fático-probatório dos autos de origem, como forma de desconstituir as conclusões da instância precedente, soberana na análise dos fatos e provas, providência, como amplamente cediço, inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória, consoante entendimento desta Corte de Justiça.” (e-doc. 10, p. 5-6; grifos nossos).
+
+    10. Nessa linha, colaciono os seguintes precedentes:
+
+    “Agravo regimental no habeas corpus. 2. Absolvição, desclassificação ou revisão de regime. Impossibilidade. Condenação estabelecida com base nos elementos probatórios. Divergência da conclusão a que chegaram as instâncias ordinárias, no sentido de que se exigiria o reexame de fatos e provas, inviável em sede de habeas corpus. 3. Agravo improvido.”
+
+    (HC nº 217.258-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, j. 22/08/2022, p. 25/08/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIA CRIMINAL. DECISÃO MONOCRÁTICA. ARTS. 21, §1º, E 192, CAPUT, RISTF. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. SUCEDÂNEO DE REVISÃO CRIMINAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO. PEDIDO DE ABSOLVIÇÃO. REVOLVIMENTO DE FATOS E PROVAS. AFASTAMENTO DO REDUTOR DO ART. 33, § 4º, DA LEI 11.343/06. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO DECISUM. AGRAVO REGIMENTAL DESPROVIDO. 1. A atuação monocrática, com observância das balizas estabelecidas nos arts. 21, § 1°, e 192, caput, do RISTF, não traduz violação ao princípio da colegialidade, especialmente na hipótese em que a decisão reproduz compreensão consolidada da Corte. Precedentes. 2. O habeas corpus não merece conhecimento na medida em que funciona como sucedâneo de revisão criminal. Precedentes. 3. Não há ilegalidade evidente ou teratologia a justificar a excepcionalíssima concessão da ordem de ofício. 4. O acolhimento do pedido de absolvição implicaria o reexame de fatos e provas, providência incompatível com a estreita via do habeas corpus. 5. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, possua bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante com respaldo em evidências de que o agravante se dedica a atividades criminosas. 6. Agravo regimental desprovido.”
+
+    (RHC nº 206.305-AgR/PR, Rel. Min. Edson Fachin, Segunda Turma, j. 08/02/2022, p. 10/03/2022; grifos nossos).
+
+    “Processual penal. Recurso ordinário em habeas corpus. Roubo majorado e extorsão mediante sequestro. Supressão de instância. Ausência de ilegalidade flagrante ou abuso de poder. Fatos e provas. Jurisprudência do Supremo Tribunal Federal. 1. A matéria trazida pela defesa não foi apreciada pelo instância antecedente, o que impede o imediato exame pelo Supremo Tribunal Federal , sob pena de supressão de instância. 2. A orientação desta Corte é no sentido de que ‘o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição’ (HC 107.550, Rel. Min. Luiz Fux). No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli). 3. Agravo regimental a que se nega provimento.”
+
+    (RHC nº 219.977-AgR/SP, Rel. Min. Roberto Barroso, Primeira Turma, j. 03/11/2022, p. 21/11/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE. DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. 1. As instâncias antecedentes concluíram pela suficiência de provas que embasaram a condenação. Qualquer conclusão desta CORTE em sentido contrário, ou seja, de que as teses defensivas são consentâneas com as provas produzidas durante a instrução criminal, demandaria minuciosa reanálise das questões fáticas suscitadas pela defesa, providência incompatível por esta via processual. 2. Do exame das instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, depreende-se que a fixação da pena foi devidamente fundamentada com base nos elementos colhidos sob o crivo do contraditório, dentro da margem de discricionariedade prevista em lei, o que se presta a justificar a valoração efetuada. 3. Agravo Regimental a que se nega provimento.”
+
+    (RHC nº 219.144-AgR/RJ, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 26/09/2022, p. 30/09/2022; grifos nossos).
+
+    11. Verificada a inadequação da via eleita, a concessão da ordem de ofício é providência excepcional, a ser implementada somente quando constatada flagrante ilegalidade, abuso de poder ou mesmo teratologia na decisão impugnada. Da análise das peças que instruem a inicial, contudo, não vislumbro situação a autorizá-la.
+
+    12. Ante o exposto, nego seguimento ao habeas corpus, com base no art. 21, § 1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 13 de novembro de 2023.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
