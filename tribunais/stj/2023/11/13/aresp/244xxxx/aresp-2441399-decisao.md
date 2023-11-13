@@ -1,0 +1,44 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL agrava de decisão que inadmitiu o processamento do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região na Apelação Criminal n. 5001439-38.2022.4.04.7017.
+Consta dos autos que o réu foi condenado à pena de 9 anos, 6 meses e 22 dias de reclusão e 4 meses e 15 dias de detenção, no regime inicialmente fechado, mais 460 dias-multa, "pelo cometimento dos crimes previstos no art. 334-A, § 1º, inciso I, do Código Penal, combinado com o artigo 3º do Decreto-Lei n. 399/68 (Fato 1); artigo 330 do Código Penal (Fato 2) e art. 2º, § 4º, V, da Lei nº 12.850/13 (Fato 3)" (fl. 182).
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação defensiva para reconhecer a prescrição da pretensão punitiva em relação ao delito do art. 330 do CP; absolver o acusado, com amparo no art. 386, VII, do CPP, por insuficiência de provas, da imputação do delito previsto no art. 2º, § 4º, da Lei n. 12.850/2013; e reduzir a reprimenda relativa ao delito de contrabando para 3 anos, 7 meses e 10 dias de reclusão, substituída por duas restritivas de direitos (fls. 277-294).
+Em seu recurso especial, o Parquet estadual apontou a violação dos arts. 1º, § 1º, c/c o art. 2º, § 4º, V, da Lei n. 12.850/2013, tendo em vista que foi equivocada a absolvição do réu em relação ao delito de participação em organização criminosa, pois os elementos probatórios acostados aos autos são suficientes para a condenação.
+Aduziu que "as circunstâncias fáticas revelaram que não há dúvidas que o réu em concurso com indivíduos não identificados (Neguim, Madruga, Guela, Casa, Bagurel), constituiu, promoveu e integrou, pessoalmente, organização criminosa, associando-se para o fim especial de cometer o crime de contrabando de cigarro importado ilegalmente do Paraguai" (fl. 333).
+Requereu, ao fim, o provimento do recurso para restabelecer a condenação do réu pela prática do crime tipificado no art. 2º, § 4º, V, da Lei n. 12.850/2013.
+O Tribunal de origem não admitiu o recurso pelo óbice do enunciado sumular n. 7 do STJ (fls. 358-361), o que ensejou esta interposição.
+Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo e provimento do recurso especial (fls. 416-420).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+A controvérsia reside na existência, ou não, de lastro probatório suficiente para a condenação do réu pela prática do delito tipificado no art. 2º, § 4º, V, da Lei n. 12.850/2013.
+O Tribunal de origem, após exame do conjunto fático-probatório amealhado aos autos, concluiu pela inexistência de elementos concretos e coesos a ensejarem a condenação do réu pela prática do referido delito. É o que se verifica nos seguintes excertos (fls. 280-281, grifei):
+Ocorre que os elementos angariados no curso da instrução não autorizam a conclusão pela existência de uma organização criminosa, como passo a expor.
+Com efeito, as mensagens utilizadas pelo dominus litis para dar espeque ao pleito condenatório limitam-se ao período de três dias anterior ao fato sob análise, o que é insufciente para se atestar a estabilidade e permanência do grupo.
+Ademais, embora seja possível, a partir de tais mensagens, vislumbrar-se certa divisão de tarefas, nada há em tal concerto que refuja ao usual em crimes de contrabando praticados em concurso de agentes; é dizer: não se vislumbra, na espécie, a estruturação e a hierarquização exigidas para a caracterização do crime de organização criminosa.
+Importa ainda consignar que, para além da ausência dos requisitos caracterizadores do tipo da organização criminosa, há outro ponto, ainda mais relevante, a lastrear o pleito absolutório.
+Conforme já referido, as mensagens encontradas no celular do réu limitam-se ao período de três dias anterior ao fato sob análise.
+No dia 21/09/2021, "Mosquito" (Michael) envia áudio a GEOVANE com o seguinte conteúdo (IPL, evento 99, INQ1, p. 2):
+Áudio: 12:24:15: MOSQUITO (MICHEL): Você não tá no grupo não, falou ponhar você, eles mandou que vai trabalhar cinco horas.
+Ou seja, Michael informa a GEOVANE que ele será incluído em algum grupo de WhatsApp, do qual ele ainda não fazia parte, possivelmente para tratar de assuntos afeitos à prática de contrabando.
+Com relação às mensagens trocadas no grupo denominado "Safra 2020", a autoridade policial apresentou a seguinte conclusão (IPL, evento 99, INQ1, p. 4):
+RESUMO - Apesar da grande movimentação do grupo na tarde, e noite do dia 21/09/2021 para o dia 22/09/2021, atuando como olheiros (bandeirinhas), informando a movimentação das estradas, e continuando mesmo após a abordagem policial que ocorreu por volta das 00:30 hs do dia 22/09/2021, nada de relevante pode ser observado nas conversas de Áudio e Texto .
+Já com relação às mensagens trocadas no grupo denominado "Deus abençoe", a autoridade policial apresenta trocas de mensagens apenas na data dos fatos e após a abordagem policial (IPL, evento 99, INQ1, pp. 5-8).
+Ou seja: não há nos autos prova inequívoca de que o réu aderiu à suposta organização criminosa em caráter estável e permanente; ao contrário, ao que tudo indica, e como declarou o próprio réu em juízo (evento 35, VIDEO3), tratou-se, na espécie, de participação meramente pontual. Importa considerar, ademais, que o réu é primário e sem antecedentes, o que empresta verossimilhança ao seu relato.
+Nesse sentido, não parece legítimo que das próprias circunstâncias momentâneas do delito (atuação em comboio, modo coeso e combinado de fuga, emissão de nuvem de fumaça e tentativa de obstrução da viatura policial) se extraia a vinculação do réu, de forma estável e permanente, ao grupo criminoso, tal como procedeu o magistrado sentenciante. E isso porque a atuação pontual do agente criminoso não prescinde da necessidade de que este se submeta ao modus operandi do grupo ao qual presta sua cooperação eventual.
+ ..
+Diante desse cenário, entendo que a acusação não logrou demonstrar a presença dos requisitos caracterizadores do tipo penal da organização criminosa, tampouco a adesão do réu, em caráter estável e permanente, à suposta organização criminosa.
+Isso posto, dou provimento ao apelo defensivo para absolver GEOVANE DOS SANTOS GENEROSO da imputação de prática do crime previsto no art. 2º, § 4º, V, da Lei nº 12.850/13, com fulcro no art. 386, VII, do Código de Processo Penal..
+Com efeito, o acórdão assentou que, dos elementos probatórios coligidos aos autos, não há como concluir com certeza pela "presença dos requisitos caracterizadores do tipo penal da organização criminosa, tampouco a adesão do réu, em caráter estável e permanente, à suposta organização criminosa" (fl. 281) .
+Por essas razões, mostra-se inviável afastar a absolvição do réu, sobretudo se considerado que, no processo penal brasileiro, em consequência do sistema da persuasão racional, o juiz forma sua convicção pela livre apreciação da prova (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante devida e suficiente fundamentação, exatamente como observado nos autos.
+Para se entender de forma contrária, seria imprescindível o reexame do acervo fático-probatório, o que é vedado na via especial, a teor do enunciado sumular n. 7 desta Corte Superior.
+A propósito, mutatis mutandis:
+ ..
+3. No caso, tendo a Corte de origem constatado o dolo genérico na conduta do agente, com base no suporte fático-probatório dos autos - que dá conta de que a sonegação veio a se consumar exatamente pelo fato de a empresa ter perdido o benefício da alíquota "TARE", mas mesmo assim continuado a pagar o imposto como se beneficiária fosse -, a mudança da conclusão alcançada pela Corte local, a fim de acolher a tese de absolvição, exigiria o reexame das provas, o que é vedado na via do recurso especial, conforme a Súmula n. 7/STJ, que, segundo a jurisprudência desta Corte, também impede a análise do apelo nobre pela alínea "c" do permissivo constitucional.
+ ..
+(EDcl no AgRg nos EDcl no AREsp n. 1.827.173/DF, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 18/3/2022; grifei)
+ ..
+3. Outrossim, o acolhimento da tese recursal, no sentido da insuficiência de provas, demandaria necessário revolvimento de provas, o que, conforme destacado na decisão agravada, encontra óbice na Súmula 7 desta Corte.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 1.924.674/DF, Rel. Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª Região, 6ª T., DJe 7/4/2022; grifei)
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
