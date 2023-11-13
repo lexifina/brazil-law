@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+Agravo de Instrumento Tutela Cautelar Antecedente ICMS Apólice de Seguro Garantia oferecida pelo agravante Seguro garantia dentro dos ditames da Lei nº 6.830/80 Possibilidade Garantia suficiente para segurar o Juízo Decisão mantida.
+Apelação Cível Tutela Antecipada com Caráter Antecedente AIIIM ICMS Oferta de apólice de seguro garantia para regularidade fiscal da empresa Caução idônea - Seguro que garante o valor do crédito acrescido de 30% mais 20% de honorários advocatícios, com prazo de validade até 2027 Pedido somente de regularização fiscal até a análise da execução e não a suspensão da exigibilidade Sentença que julgou PROCEDENTE a demanda, para, confirmando os efeitos da tutela antecipada: (i) declarar a garantia dos débitos que são objeto do AIIM n.º4.030.028-6, pela Apólice de Seguro Garantia Judicial nº 0306920229907750716137000,emitidaporPottencialSeguradora S. A., no valor de R$ 370.078,44; (ii) condenar o réu a não considerar os débitos referidos como óbice à emissão de certidão de regularidade fiscal, nos termos do artigo 206 do Código Tributário Nacional; (iii) condenar o réu a se abster de apontar a protesto a CDA n.º 1340615201,assim como de inscrever o nome da autora no CADIN ou outros cadastros de inadimplentes em razão dos débitos objeto de tal CDA e como consequência, julgou extinto o processo, com resolução do mérito, na forma do artigo 487,I, do Código de Processo Civil Alegação de falta de amparo legal para o pedido Descabimento - Decisão escorreita Apólice de Fiança Bancária de instituição idônea válida até 14/07/2027. Requisito apto a amparar a pretensão da empresa apelada em sua totalidade. Precedentes.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 151, 206 do CTN; 9º, II c/c. 15, I, ambos da Lei 6.830/1980.
+Aduz, em síntese, que:
+Ocorre que permitir a "utilização como garantia" e "suspender a exigibilidade da dívida" são duas coisas completamente diferentes, não havendo necessária relação de causa e efeito entre uma e outra.
+Da leitura da relação constante no dispositivo, constata-se que somente o depósito integral do valor da dívida possui o condão de suspender a exigibilidade do crédito tributário, não havendo, por outro lado, previsão em relação à garantia do juízo por outras formas.
+Embora a garantia do juízo por meio de seguro ou fiança bancária seja suficiente, à luz da legislação, para legitimar o oferecimento de embargos à execução e a expedição de certidão positiva com efeitos de negativa (artigo 206 do CTN), não possui a aptidão para suspender a exigibilidade do crédito tributário.
+Essa questão foi incontáveis vezes enfrentada por esta Corte, que já editou a Súmula nº 112, nos seguintes termos: "O depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro".
+Consequentemente, não há porque obstar inscrição no CADIN Estadual ou impedir o protesto da CDA.
+Assim, não havendo causa suspensiva da exigibilidade do débito não há como se admitir embaraço ao protesto da CDA e/ou inscrição no CADIN.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 1530/1532, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+O presente agravo não pode ser conhecido, pois a agravante não cuidou de impugnar o fundamento adotado na decisão agravada:
+A par disso, cabe consignar que não se desconhece o consolidado entendimento do Col. Superior Tribunal de Justiça inclusive em sede de recurso repetitivo (REsp nº1.156.668/DF, Tema nº 378, STJ, DJe10.12.2010) e Súmula112/STJ, contudo, no caso dos autos, o recorrente não está a pretender a suspensão da exigibilidade do crédito tributário, tendo o v. Acórdão ressaltado que "A co ntrovérsia cinge-se sobre a possibilidade de se regularização da situação fiscal da empresa sem, contudo, suspender a exigibilidade do débito, até a análise da execução fiscal. (fls. 1496).
+O agravo em recurso especial que não afasta os fundamentos que levaram a não admissão do recurso especial não deve ser conhecido, nos termos do art. 932, III, do CPC/2015, c/c o princípio estabelecido na Súmula 182/STJ.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. A parte agravante não infirmou especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. A jurisprudência desta Corte Superior firmou entendimento de que o óbice da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos recursos fundados na alínea "a".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 991.297/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/04/2017, DJe 11/05/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. CONFIRMAÇÃO DA AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+2. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça.
+3. Agravo regimental improvido.
+(AgInt no AREsp 986.062/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/02/2017, DJe 22/02/2017)
+É dever do agravante demonstrar o desacerto do magistrado ao fundamentar a decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, III, do CPC/2015, c/c o princípio estabelecido na Súmula 182/STJ, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnaram todos os fundamentos da decisão.
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
