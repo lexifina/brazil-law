@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, rever a conclusão a que chegou a Corte local demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.575/1.589) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante insurge-se contra a aplicação das Súmulas n. 283 do STF e 5 e 7 do STJ. Alega que (e-STJ fl. 1.581):
+Entretanto, o Recurso Especial da agravante não visa reinterpretação cláusula contratual ou reexame de outros elementos fáticos, mas tão somente com pedido para esta E.Turma manifestar-se quanto a possibilidade da propositura de ação de arbitramento de honorários advocatícios não especificados contratualmente, pois, o v.acórdão combatido possui entendimento diverso: ".. havendo contrato escrito de honorários, especificando a remuneração em caso de rescisão do contrato, não há razão para ajuizamento de ação de arbitramento, .." (fls.1460/1463), e que contraria o entendimento desta C.Corte Especial.
+Sustenta que a matéria foi impugnada e versa somente sobre questão de direito, qual seja, possibilidade de propositura de ação de arbitramento de honorários em caso de resilição unilateral, havendo contrato escrito prevendo honorários ad exitum.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões, requerendo o desprovimento do recurso e a aplicação de multa (e-STJ fls. 1.593/1.607).
+É o relatório.
+AgInt no AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.370.721 - SP (2023/0170450-6)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+CARUNCHO & PIMENTA-SOCIEDADE DE ADVOGADOS
+ADVOGADOS
+:
+JORGE CARDOSO CARUNCHO - SP087946
+RIVALDO SIMÕES PIMENTA - SP209676
+ALEXANDER CHOI CARUNCHO - SP320977
+AGRAVADO
+:
+DSV AIR & SEA BRASIL LTDA
+ADVOGADOS
+:
+PEDRO AMARAL SALLES - SP211548
+RENATO LUIZ FRANCO DE CAMPOS - SP209784
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, rever a conclusão a que chegou a Corte local demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.568/1.571):
+Trata-se de agravo interno (e-STJ fls. 1.540/1.546) interposto contra decisão da eminente Ministra Presidente desta Corte que não conheceu do agravo em recurso especial, por aplicação da Súmula n. 182/STJ.
+Em suas razões, a agravante alega ter impugnado todos os fundamentos da decisão que, na origem, negou seguimento ao especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões, requerendo o desprovimento do recurso e a aplicação de multa (e-STJ fls. 1.550/1.563).
+É o relatório.
+Decido.
+A eminente Ministra Presidente desta Corte, às fls. 1.534/1.536 (e-STJ), não conheceu do agravo em recurso especial por aplicação da Súmula n. 182/STJ.
+Entretanto, verifico que, de fato, houve, por parte da recorrente, a devida impugnação dos fundamentos da decisão agravada. Dessa forma, a decisão merece ser reconsiderada, a fim de que seja afastado o não conhecimento do agravo interposto, prosseguindo-se com seu exame.
+O acórdão recorrido está assim ementado (e-STJ fl. 1.451):
+Apelação. Ação de arbitramento de honorários advocatícios. Rescisão unilateral pela contratante. Doze processos, já com sentenças favoráveis, em que o escritório autor atuava em nome da ré. Autor que pretende o recebimento de honorários de acordo com o contrato de prestação de serviços advocatícios que prevê expressamente a forma de remuneração em casos de resilição. Existência de estipulação por escrito dos honorários devidos, que afasta a possibilidade de ajuizamento de ação de arbitramento.
+Determinação de emenda da inicial. Autor que esclarece que pretende o recebimento de valor certo. Julgamento do pedido de cobrança. Sentença que não se mostra extra petita. Parcial procedência. Ausência de insurgência quanto ao fundamento que afastou os demais honorários cobrados. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.460/1.463).
+Nas razões do especial (e-STJ fls. 1.465/1.475), interposto com fundamento no art. 105, III, "a", da Constituição Federal, a recorrente apontou ofensa ao art. 22, § 2º, da Lei n. 8.906/1994. Sustentou que o entendimento do TJSP contraria a jurisprudência do STJ que se firmou no sentido da possibilidade de se propor ação de arbitramento de honorários nos casos em que há resilição unilateral e o contrato preveja honorários ad exitum. Explicou que (e-STJ fl. 1.472):
+ ..  o contrato pactuado entre as partes previa, na maior parte dos procedimentos, a remuneração pelo êxito e porcentagem sobre as quantias efetivamente levantadas. Entretanto, a autora foi surpreendida com notificação de que outro escritório de advocacia seria o novo responsável por dar continuidade nas ações judiciais, todas já na fase de cumprimento de sentença, e que a autora nada receberia pelos serviços prestados.
+Note-se que a autora patrocinou a recorrida durante o lapso contratual de 19/02/2014 até a rescisão unilateral em 29/07/2020, de forma exitosa - COM OBTENÇÃO DE SENTENÇAS E ACÓRDÃOS FAVORÁVEIS EM 12 (DOZE) AÇÕES JUDICIAIS DE COBRANÇA QUE PATROCINOU EM NOME DA RECORRIDA, OBTENDO UM PROVEITO ECONÔMICO À RECORRIDA NO IMPORTE DE R$ 3.061.384,31 (TRÊS MILHÕES E SESSENTA E UM MIL E TREZENTOS E OITENTA E QUATRO REAIS E TRINTA E UM CENTAVOS.
+Assim, não é crível que a autora-recorrente somente possa ser remunerada em processos que tenha quantia levantada sob seu patrocínio e somente receber a remuneração no valor de R$234,15 (DUZENTOS E TRINTA E QUATRO REAIS E QUINZE CENTAVOS), conforme constou a r. sentença às fls.1404/1407:
+ .. .
+Foram apresentadas contrarrazões (e-STJ fls. 309/316).
+No agravo (e-STJ fls. 1.501/1.506), declara a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 1.515/1.522 (e-STJ).
+A irresignação não merece prosperar.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 1.453/1.455):
+No caso dos autos, é incontroverso que houve rescisão contratual antes do término da atuação do autor nos processos em questão, entretanto, há previsão em contrato escrito quanto à remuneração devida a cada etapa do processo, inclusive, na hipótese de resilição unilateral pelo cliente.
+Tanto isso é verdade que o próprio autor indica na inicial as cláusulas contratuais que dispõem acerca de seu direito de recebimento dos honorários de êxito integrais em caso de rescisão antecipada em relação aos processos em que já obteve resultado favorável, além de indicar a tabela do contrato que estabelece o percentual ajustado.
+Assim, havendo contrato escrito de honorários advocatícios, especificando a remuneração em caso de rescisão do contrato, embora seja incontroversa a rescisão unilateral pela contratante ré, não há razão para que o autor tenha ajuizado ação de arbitramento, devendo se valer da aludida tabela e promover a cobrança do percentual correspondente.
+Diante disso, ainda que de forma tardia, uma vez que a ré já tinha, inclusive, apresentado contestação, a Magistrada a quo determinou que o autor emendasse a inicial a fim de esclarecer o quanto pretendia receber com a demanda, atribuindo correto valor da causa e complementando as custas processuais (fl. 1.385).
+Ao emendar a inicial, o autor, embora tenha reafirmado que se tratava de pedido de arbitramento de honorários, deixou ainda mais claro que pretendia, na verdade, cobrar os honorários de êxito de acordo com os percentuais estabelecidos em contrato, já que entendia que havia doze processos pendentes em que já tinha obtido êxito. O autor esclareceu ainda que, de acordo com a tabela do contrato, seria devida a integralidade dos honorários em relação a quatro processos em que a ré já teria recebido o valor e 2/3 dos honorários em relação a oito processos em que, embora já obtido a recuperação dos créditos, a ré ainda não teria recebido os valores, perfazendo o total de R$ 51.195,24 (fls. 1.388/1.390).
+A Magistrada a quo, então, ao proferir a r. sentença recorrida, afastou a arguição trazida em contestação de falta de interesse de agir por inadequação da via eleita, recebendo a emenda à inicial a fim de que o pedido a ser analisado fosse de cobrança e não de arbitramento (fls.
+1.404/1.407), in verbis:
+"No mesmo sentido, afasto a preliminar de inadequação da via eleita. Embora a requerente pretenda o arbitramento de honorários em seu favor, a análise da narrativa revela que se trata de ação condenatória no pagamento de valor líquido e certo".
+Note-se que, apesar de o autor insistir nas razões do presente recurso que pretendia o arbitramento de honorários, mais uma vez, de forma bastante contraditória, confirma que havia previsão contratual no sentido de que os honorários seriam devidos a partir do momento em que obtivesse sentença favorável à cliente e que devem eles ser arbitrados nos parâmetros da base de remuneração que as partes fixaram no contrato, entretanto, a contratação dos honorários afasta a possibilidade de ação de arbitramento.
+Ademais, tendo o autor emendado a inicial, esclarecendo que pretendia mesmo o recebimento dos honorários de acordo com o contrato firmado, a r. sentença recorrida não se mostra extra petita, nada tendo feito além de apreciar a pretensão deduzida pelo autor.
+De se consignar que, embora acolhido apenas parte do pedido, sob o fundamento de que somente são devidos os honorários relativos ao processo em que a cliente ré já tenha efetivamente recebido seu crédito quando ainda representado pelo autor, nenhuma insurgência consta das razões recursais quanto a este tópico, pelo que não merece reforma.
+A recorrente não impugnou os fundamentos do acórdão recorrido de que: (a) o contrato firmado entre as partes previa a remuneração devida em caso de resilição unilateral por parte do cliente, (b) a recorrente emendou a inicial, deixando claro que pretendia cobrar os honorários de êxito de acordo com os percentuais estabelecidos em contrato, (c) acolhido apenas parte do pedido, sob o fundamento de que somente são devidos honorários relativos ao processo em que a cliente efetivamente tenha recebido seu crédito, não houve insurgência quanto ao ponto.
+Tais fundamentos são suficientes para manter o juízo emitido, de forma que a ausência de impugnação atrai a Súmula n. 283/STF.
+Além disso, a conclusão adotada pelo Tribunal de origem teve por base o exame do contrato firmado entre as partes, de forma que, decidir de modo contrário implicaria reinterpretação de cláusula contratual, bem como reexame de outros elementos fáticos, o que é incabível no especial, por força das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte de fls. 1.534/1.536 (e-STJ) para CONHCER do agravo em recurso especial e NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+Conforme exposto, a agravante não impugnou fundamentos do acórdão recorrido suficientes para manter o juízo emitido. São eles: (a) o contrato firmado entre as partes previa a remuneração devida em caso de resilição unilateral por parte do cliente, (b) a recorrente emendou a inicial, deixando claro que pretendia cobrar os honorários de êxito de acordo com os percentuais estabelecidos em contrato, (c) acolhido apenas parte do pedido, sob o fundamento de que somente são devidos honorários relativos ao processo em que a cliente efetivamente tenha recebido seu crédito, não houve insurgência quanto ao ponto.
+Aplicável, portanto, a Súmula n. 283/STF.
+Ademais, rever a conclusão a que chegou a Corte local demandaria reinterpretação de cláusulas contratuais, bem como reexame de outros elementos fáticos, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Deixo de aplicar multa à agravante, uma vez que não observo, por ora, conduta abusiva ou eminentemente protelatória, a ensejar a referida sanção processual.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
