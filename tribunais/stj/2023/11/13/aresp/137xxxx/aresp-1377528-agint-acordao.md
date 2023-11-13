@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO. INCIDÊNCIA DOS ENCARGOS CONTRATUAIS. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DE COBRANÇA CUMULADA COM ENCARGOS MORATÓRIOS. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A Segunda Seção desta Corte Superior pacificou a orientação no sentido de ser admitida, no período de inadimplemento contratual, a comissão de permanência, à taxa média do mercado apurada pelo Banco Central do Brasil e limitada à taxa do contrato, desde que não esteja cumulada com correção monetária (Súmula 30/STJ), com juros remuneratórios (Súmula 296/STJ), com juros moratórios nem com multa contratual.
+3. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A contra decisão que conheceu do agravo para negar provimento ao recurso especial, com os seguintes fundamentos: a) ausência de violação dos arts. 489 e 1.022 do CPC/2015; b) conformidade do acórdão recorrido com o entendimento do STJ acerca da cobrança da comissão de permanência.
+O agravante sustenta a negativa de prestação jurisdicional pelo Tribunal de origem. Alega a legalidade da cobrança da comissão de permanência, vedada a cumulação com correção monetária e juros remuneratórios, mas admitida a possibilidade de cumulação com os encargos moratórios (juros de mora e multa contratual).
+Os agravados não apresentaram impugnação (e-STJ, fls. 1.008/1.009).
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.377.528 - SP (2018/0265942-0)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+BANCO DO BRASIL SA
+ADVOGADOS
+:
+WILSON CUNHA CAMPOS - SP118825
+RUBENS MASSAMI KURITA - SP230492
+DANIELA REGINA CABELLO E OUTRO(S) - SP343466
+AGRAVADO
+:
+PERENNE EQUIPAMENTOS E SISTEMAS DE AGUA SA - EM RECUPERAÇÃO JUDICIAL
+AGRAVADO
+:
+MONICA APARECIDA NUNES
+ADVOGADOS
+:
+MANOEL HUMBERTO ARAÚJO FEITOSA E OUTRO(S) - SP081981
+MATHEUS INACIO DE CARVALHO - SP248577
+JOSE ARNALDO VIANNA CIONE FILHO - SP160976
+INTERES.
+:
+NELSON DE OLIVEIRA GUANAES
+ADVOGADO
+:
+MARCIO CARNEIRO SPERLING - SP183715
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO. INCIDÊNCIA DOS ENCARGOS CONTRATUAIS. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DE COBRANÇA CUMULADA COM ENCARGOS MORATÓRIOS. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A Segunda Seção desta Corte Superior pacificou a orientação no sentido de ser admitida, no período de inadimplemento contratual, a comissão de permanência, à taxa média do mercado apurada pelo Banco Central do Brasil e limitada à taxa do contrato, desde que não esteja cumulada com correção monetária (Súmula 30/STJ), com juros remuneratórios (Súmula 296/STJ), com juros moratórios nem com multa contratual.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser confirmada a decisão agravada pelos próprios fundamentos.
+Inicialmente, não prospera a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente decidindo integralmente a controvérsia.
+Com efeito, ficou claro que os encargos moratórios contratuais deveriam incidir a partir do inadimplemento até a propositura da ação e, a partir da citação, incidiriam apenas os juros de mora de 1% ao mês e correção monetária.
+No julgamento dos embargos declaratórios, o eg. Tribunal estadual esclareceu o seguinte (e-STJ, fl. 905):
+"O banco pretendia que o valor cobrado na ação monitória fosse corrigido com os mesmos encargos e taxas estabelecidos no contrato até a data do efetivo pagamento.
+Ocorre que o D. Magistrado afastou a cumulação da comissão de permanência com os demais encargos da mora e determinou que o valor da dívida - com a exclusão dos encargos indevidos deveria ser acrescido de juros de mora de 1% ao mês desde a propositura da ação.
+Portanto, não poderia ser acolhida a tese de que o D. Magistrado houvesse transbordado os limites da lide, constituindo consectário lógico a atualização de acordo com a decisão proferida.
+Aliás, o v. acórdão decidiu sobre a mesma questão levantada pela instituição financeira em sede de apelação com base em acórdão que revelava o entendimento perfilado por esta E. 24ª Câmara de Direito Privado em caso similar ("Encargos moratórios contratuais que devem incidir a partir do inadimplemento até a propositura da ação. A partir da citação, incidência de juros de 1% ao mês e correção monetária pela TPTJSP")."
+Assim, inexiste ofensa ao princípio da adstrição ou omissão no julgado, apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à cobrança da comissão de permanência, assim decidiu o d. Juízo de origem (e-STJ, fls. 610/611):
+"Pois bem. Depois do esquadrinhamento matemático da relação obrigacional estabelecida entre as partes, era ônus do polo consumidor indicar de modo preciso se a comissão de permanência foi cobrada em taxa acima do permitido.
+A tal diferença de R$ 671.765,48, forte na intransponível congruência, não rompe as balizas do pedido.
+De outra banda, esse legítimo acréscimo, cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual, o que há muito se projeta sobre a correção monetária.
+E essa indevida cumulação embora negada (fls. 585) de fato ocorreu, haja vista que cada valor foi apurado somente sobre o principal (sic) (fls. 587), o que elide as conclusões da perita neste pormenor.
+Ao rigor desse raciocínio, exsurge solarmente clara que a abusiva cobrança efetiva-se nos meses de março, abril e maio e não nos subsequentes, onde inexiste a cobrança da comissão de permanência (sic) (fls. 606); que prevalece com exclusividade quando exigida.
+Indevidos, neste passo, os valores lançados a título de juros de mora ao ano e multa nos dias 31.03.2013, 30.04.2013 e 31.05.2013 (fls. 587), que devem ser excluídos do quantum debeatur.
+O mais não pertine.
+Ex positis, e pelo mais que dos autos consta, ACOLHO EM PARTE os embargos apresentados e JULGO PARCIALMENTE PROCEDENTE esta ação monitória para constituir de pleno direito o título executivo judicial, cujo valor estimado (R$ 8.196.053,48 as parcelas afastadas) será atualizado e acrescido de juros de mora (1% a.m.) desde a propositura (13.08.2013)." (grifou-se)
+Veja-se que foi reconhecida a validade da cobrança da comissão de permanência, quando exigida com exclusividade sobre os demais encargos.
+A conclusão da sentença está em consonância com o entendimento desta Corte Superior, no sentido de que a comissão de permanência não pode ser cumulada com a correção monetária e com os juros remuneratórios, moratórios e a multa contratual.
+Ademais, sobre o tema, a Súmula 472 do STJ, segundo a qual "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual".
+A propósito, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INÉPCIA DA INICIAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. COBRANÇA DE JUROS E MULTA. POSSIBILIDADE. COMISSÃO DE PERMANÊNCIA AFASTADA. CONCLUSÕES PAUTADAS EM FATOS E PROVAS, BEM COMO INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME INVIÁVEL. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não se verifica a propalada ofensa aos arts. 489 e 1.022 do CPC/2015, tendo o acórdão recorrido resolvido satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação da tutela jurisdicional.
+2. No que concerne à alegada inépcia da inicial, observa-se que os fundamentos utilizados pelo colegiado local estão lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, precisaria empreender novo e aprofundado exame de tais circunstâncias, mas tal providência é vedada a esta Corte, na via do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça.
+3. Com relação à cobrança de juros de mora e multa, não há como acolher a pretensão recursal com vistas a modificar a conclusão exarada pelo Tribunal estadual sem que se proceda ao reexame dos aspectos fáticos da causa e, notadamente, à interpretação de cláusulas contratuais, o que não se admite no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Esta Corte Superior possui orientação no sentido de ser inviável, no período da inadimplência, a cobrança da comissão de permanência cumulada com outros encargos, sejam eles encargos da normalidade ou encargos moratórios.
+5. Agravo interno improvido."
+(AgInt no AREsp n. 2.339.248/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. A Corte de origem manifestou-se expressamente acerca dos temas necessários a solução da controvérsia, de modo que, ausente qualquer omissão, contradição ou obscuridade, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+2. O STJ firmou entendimento no sentido de que a "análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ" (REsp 1.124.552/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 03/12/2014, DJe de 02/02/2015).
+3. Segundo a jurisprudência deste Superior Tribunal de Justiça, "Relativamente à comissão de permanência, firmou-se o entendimento de que pode ser autorizada, de acordo com o enunciado n. 294 da Súmula deste Tribunal, desde que sem cumulação com correção monetária (enunciado n. 30 da Súmula) e com juros remuneratórios e moratórios e multa" (AgInt no AREsp 1802635/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/06/2021, DJe 30/06/2021). Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.154.879/GO, Relator Ministro MARCO BUZZI, Quarta Turma, julgado em 15/5/2023, DJe de 18/5/2023, g.n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO BANCÁRIO. AÇÃO ORDINÁRIA. TAXA DE JUROS REMUNERATÓRIOS. SÚMULAS 5 E 7 DO STJ. COMISSÃO DE PERMANÊNCIA. COBRANÇA SEM A CUMULAÇÃO COM OUTROS ENCARGOS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. No caso concreto, a Corte de origem consignou que a taxa de juros remuneratórios foi contratada em valor inferior à taxa média de mercado.
+Não seria possível, pois, acolher os fundamentos expendidos no recurso em mote, notadamente no sentido de reconhecer-se eventual cobrança abusiva de juros remuneratórios, sem proceder-se à interpretação das cláusulas contratuais e ao revolvimento do acervo fático-probatório nos autos, situação que esbarraria nos óbices das Súmulas 5 e 7/STJ.
+2. A eg. Segunda Seção desta Corte Superior pacificou a orientação no sentido de ser admitida, no período de inadimplemento contratual, a comissão de permanência, à taxa média do mercado apurada pelo Banco Central do Brasil e limitada à taxa do contrato, desde que não esteja cumulada com correção monetária (Súmula 30/STJ), com juros remuneratórios (Súmula 296/STJ), com juros moratórios nem com multa contratual.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 1.384.384/SC, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 26/9/2022, DJe de 13/10/2022, g.n.)
+Inviável, portanto, a pretendida cumulação da comissão de permanência com juros moratórios e multa contratual.
+Ademais, a incidência da comissão de permanência não tem o alcance desejado pelo banco agravante, até o efetivo pagamento da dívida. Sua cobrança é restrita ao período de inadimplemento contratual, tal como determinado pelas instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
