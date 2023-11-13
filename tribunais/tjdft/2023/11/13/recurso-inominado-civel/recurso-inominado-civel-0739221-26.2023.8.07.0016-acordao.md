@@ -1,0 +1,55 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0739221-26.2023.8.07.0016RECORRENTE(S)MARIA FRANCINEIDE DA SILVARECORRIDO(S)DISTRITO FEDERALRelatorJuiz DANIEL FELIPE MACHADO
+ Acórdão Nº1784612
+
+EMENTA
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. SAÚDE. DEMORA INJUSTIFICADA NO FORNECIMENTO DO PROCEDIMENTO. ENUNCIADO Nº 93 DO CNJ – DELIMITAÇÃO DE ESPERA EXCESSIVA – VINCULAÇÃO DO PRAZO DE 180 DIAS AO PEDIDO MÉDICO E REALIZAÇÃO DO PROCEDIMENTO. NECESSIDADE DE CONSIDERAÇÃO DO PRAZO JÁ TRANSCORRIDO –NECESSÁRIA A DELIMITAÇÃO TEMPORAL. RECURSO CONHECIDO E PROVIDO.
+
+1. No caso dos autos a parte autora (55 anos), diagnosticada com POLIPO DO CORPO DO ÚTERO (CID: N840) e ANOMALIAS DENTOFACIAIS (INCLUSIVE A MALOCLUSÃO) (CID: 1(07), necessita da realização de CONSULTA EM GINECOLOGIA - HISTEROSCOPIA - E DE CONSULTA EM ODONTOLOGIA - DISTÚRBIO TEMPOROMANDIBULAR, tendo sido inserida no Sistema de Regulação (SISREGIII) em 28/12/2022, quanto ao primeiro procedimento, e classificada como de amarelo – urgência (ID 52475556 - pág. 5); e em 17/03/2023, classificada também em amarelo - urgência, no tocante ao segundo (ID 52475556, pág. 6). Ajuizou esta ação em 19/07/2023, onde pretende ver o réu compelido a lhe disponibilizar os referidos procedimentos médicos imediatamente, já que DISTRITO FEDERAL não lhe fornecera aquele atendimento.
+
+2. A sentença julgou parcialmente procedente o pedido para, respeitada a fila de espera, e quadros clínicos mais graves do que a da autora, sem embargo, ainda, da análise das prioridades pelo corpo médico, imputar ao ente federado a obrigação de fornecer o procedimento cirúrgico prescrito pelo seu médico assistente.
+
+3. Nos termos do art. 196 da Constituição Federal "a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação".
+
+4. Cabe ao Estado a adoção de medidas e políticas voltadas à efetivação da saúde da população, notadamente para aqueles indivíduos que não dispõem de condições financeiras para custear o tratamento. Trata-se de verdadeira proteção à dignidade humana.
+
+05. É de responsabilidade do Distrito Federal a manutenção da estrutura de saúde que garanta o direito acima referido, como forma de preservação da vida e saúde humana, de modo mais amplo (hospitais, corpo clínico, equipamentos médicos etc.).
+
+06. Com efeito, o Enunciado nº 93 do Conselho Nacional de Justiça (CNJ)1, dispõe que: “Nas demandas de usuários do Sistema Único de Saúde – SUS por acesso a ações e serviços de saúde eletivos previstos nas políticas públicas, considera-se excessiva a espera do paciente por tempo superior a 100 (cem) dias para consultas e exames, e de 180 (cento e oitenta) dias para cirurgias e tratamentos”.
+
+07. A consideração desse prazo de espera para realização do procedimento, pertinente a critérios clínicos/médicos, deve ser realizada a partir da necessidade constatada pelo relatório/pedido médico e não submetida à variabilidade e indefinição de prazos processuais, pois não se deve desconsiderar os critérios médicos do momento da indicação da consulta e da espera já realizada, antes mesmo do ajuizamento da ação e durante o transcurso dos atos processuais.
+
+08. Pela situação dos autos, a necessidade do procedimento levado à consideração do Sistema de Regulação – SISREGIII – em 28/12/2022, quanto ao primeiro procedimento, e em 17/03/2023, no tocante ao segundo (ID 52475556, evidencia o transcurso de mais dez e oito meses, respectivamente, desde o conhecimento da necessidade de realização do procedimento por órgão da Secretaria de Saúde do DF e o reconhecimento da pertinência do direito da parte autora – frisa-se que o Distrito Federal sequer recorreu da sentença. Assim, o período considerado razoável de 100 dias, nos termos do Enunciado nº 93 do CNJ, já se encontra há muito expirado, quando do julgamento do recurso interposto (a presente decisão).
+
+09. É, portanto, impertinente e excessiva a concessão de outros 100 dias para a realização do procedimento, assim como também de pouca efetividade a decisão proferida na origem, sem estipulação de prazo razoável para cumprimento da obrigação, verificada a data de solicitação do procedimento no Sistema de Regulação – SISREGIII.
+
+10. Ante o exposto, dou provimento ao Recurso Inominado para julgar procedente o pedido e determinar ao réu que submeta a parte autora às consultas indicadas pelo médico assistente (CONSULTA EM GINECOLOGIA - HISTEROSCOPIA - E DE CONSULTA EM ODONTOLOGIA - DISTÚRBIO TEMPOROMANDIBULAR) no prazo máximo de 30 (trinta) dias, sob pena de cominação de multa diária.
+
+11. RECURSO CONHECIDO E PROVIDO, conforme supra.
+
+12. Sem custas e sem honorários, ante a ausência de recorrente vencido.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, DANIEL FELIPE MACHADO - Relator, MARCO ANTONIO DO AMARAL - 1º Vogal e MARGARETH CRISTINA BECKER - 2º Vogal, sob a Presidência da Senhora Juiza EDI MARIA COUTINHO BIZZI, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Novembro de 2023
+
+Juiz DANIEL FELIPE MACHADORelator
+
+RELATÓRIO
+
+Dispensado o relatório, nos termos do art. 46 da Lei 9.099/95.
+
+VOTOS
+
+O Senhor Juiz DANIEL FELIPE MACHADO - RelatorDecisão proferida na forma do art. 46 da Lei 9.099/95, servindo a ementa como acórdão.
+O Senhor Juiz MARCO ANTONIO DO AMARAL - 1º Vogal Com o relatorA Senhora Juíza MARGARETH CRISTINA BECKER - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNANIME.
