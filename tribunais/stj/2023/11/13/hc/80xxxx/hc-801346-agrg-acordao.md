@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. ALEGAÇÕES DE INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO E DE ILEGALIDADE NA DOSIMETRIA DA PENA. WRIT NÃO CONHECIDO POR AUSÊNCIA DE TERATOLOGIA OU MANIFESTO CONSTRANGIMENTO ILEGAL. RECURSO QUE REITERA AS TESES EXPENDIDAS NA INICIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO DE SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. As instâncias ordinárias concluíram, fundamentadamente, pela suficiência dos elementos de convicção que evidenciam a prática dos crimes de tráfico de entorpecentes e associação para o narcotráfico. A decisão agravada consignou que o afastamento do entendimento haurido pelas instâncias antecedentes demandaria aprofundado revolvimento fático-probatório, providência inviável no habeas corpus. Explicitou, ainda, a inexistência de flagrante ilegalidade no incremento da pena-base na fração de 1/6, tendo em vista a quantidade e a natureza dos entorpecentes apreendidos.
+2. O agravante limitou-se a reiterar teses já expendidas no writ, devidamente rechaçadas na decisão agravada, não logrando êxito em rebater os fundamentos adotados no decisum contra o qual se insurge. Incidência do Enunciado de Súmula n. 182 do Superior Tribunal de Justiça.
+3. É firme o entendimento deste STJ que "a modificação de decisão por meio de agravo regimental requer a apresentação de argumentos capazes de alterar os fundamentos anteriormente firmados" (AgRg no HC n. 384.871/SC, relator Ministro JORGE MUSSI, QUINTA TURMA, DJe de 9/8/2017).
+4 . Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFERSON LEONARDO BORGES DA SILVA contra a decisão monocrática de fls. 947/975, de minha lavra, em que não conheci do habeas corpus.
+No presente agravo regimental, a Defesa reitera os argumentos do writ no sentido de que não haveria elementos probatórios que demonstrem o envolvimento do paciente com a comercialização de entorpecentes.
+Aponta, mais uma vez, que não restou demonstrado o dolo de associação com estabilidade e permanência, não se caracterizando o delito de associação para o tráfico.
+Defende, novamente, a inidoneidade das razões evocadas para justificar o incremento da pena-base.
+Requer a retratação da decisão recorrida ou a submissão do recurso ao órgão colegiado para julgamento.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O NARCOTRÁFICO. ALEGAÇÕES DE INSUFICIÊNCIA DE PROVAS PARA A CONDENAÇÃO E DE ILEGALIDADE NA DOSIMETRIA DA PENA. WRIT NÃO CONHECIDO POR AUSÊNCIA DE TERATOLOGIA OU MANIFESTO CONSTRANGIMENTO ILEGAL. RECURSO QUE REITERA AS TESES EXPENDIDAS NA INICIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO DE SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. As instâncias ordinárias concluíram, fundamentadamente, pela suficiência dos elementos de convicção que evidenciam a prática dos crimes de tráfico de entorpecentes e associação para o narcotráfico. A decisão agravada consignou que o afastamento do entendimento haurido pelas instâncias antecedentes demandaria aprofundado revolvimento fático-probatório, providência inviável no habeas corpus. Explicitou, ainda, a inexistência de flagrante ilegalidade no incremento da pena-base na fração de 1/6, tendo em vista a quantidade e a natureza dos entorpecentes apreendidos.
+2. O agravante limitou-se a reiterar teses já expendidas no writ, devidamente rechaçadas na decisão agravada, não logrando êxito em rebater os fundamentos adotados no decisum contra o qual se insurge. Incidência do Enunciado de Súmula n. 182 do Superior Tribunal de Justiça.
+3. É firme o entendimento deste STJ que "a modificação de decisão por meio de agravo regimental requer a apresentação de argumentos capazes de alterar os fundamentos anteriormente firmados" (AgRg no HC n. 384.871/SC, relator Ministro JORGE MUSSI, QUINTA TURMA, DJe de 9/8/2017).
+4 . Agravo regimental não conhecido.
+VOTO
+Embora tempestivo, não merece conhecimento o agravo regimental, devendo ser mantida a decisão recorrida pois o agravante não impugnou, especificamente, os fundamentos estabelecidos no decisum objurgado.
+No caso, as instâncias ordinárias concluíram, fundamentadamente, pela suficiência dos elementos de convicção que evidenciam a configuração do delitos de tráfico de entorpecentes e associação para o narcotráfico, havendo sido consignado que o afastamento do entendimento haurido pelas instâncias antecedentes demandaria aprofundado revolvimento fático-probatório, providência inviável no habeas corpus. Restou ainda explicitada a inexistência de flagrante ilegalidade no incremento da pena-base na fração de 1/6, tendo em vista a quantidade e a natureza dos entorpecentes apreendidos.
+A propósito, transcreve-se o teor da decisão recorrida:
+"Da análise dos autos, verifica-se que as instâncias ordinárias concluíram fundamentadamente pela existência de elementos de prova suficientes a evidenciar a configuração do delito de tráfico de drogas.
+ ..
+Dessa forma, verifica-se que a quantidade, variedade e natureza da droga apreendida - 242 gramas de maconha acondicionados em 82 poções e 96 gramas de cocaína acondicionados em 99 sacolés plásticos -, bem como o dinheiro encontrado, juntamente com 3 rádios comunicadores, e a forma como realizada a abordagem policial, em local conhecido como ponto de venda de entorpecentes dominado por uma facção criminosa, demonstraram a materialidade e a autoria do agente em relação ao crime previsto no art. 33, caput, da Lei n. 11.343/06.
+Com efeito, afastar tais conclusões demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus.
+ ..
+No que tange à caracterização do delito o previsto no art. 35 da Lei de Drogas, o Juízo Singular, por ocasião da sentença, entendeu pela condenação do paciente com base nos seguintes fundamentos:
+ ..
+Quanto ao tema, a jurisprudência desta Corte Superior, sedimentou-se no sentido de que, notadamente após a abolição do delito de associação eventual para o tráfico, tipificado na antiga legislação de drogas, a caracterização do crime previsto no art. 35 da Lei n. 11.343/06 demanda a comprovação do dolo de associar-se para a prática do narcotráfico, com estabilidade e permanência.
+In casu, as instâncias ordinárias indicaram a estabilidade e a permanência exigidas para a tipificação da infração penal análoga ao delito em tela, destacando que o agente estaria exercendo o narcotráfico em local sob o domínio da facção criminosa denominada Amigos dos Amigos, comercializando drogas variadas, como maconha e cocaína, com utilização de rádios comunicadores, tudo a demonstrar sua associação para a prática estável e permanente do narcotráfico.
+Assim, é certa a impossibilidade de revisão desse entendimento, que demandaria incursão probatória, inadmissível em habeas corpus.
+ ..
+Sobre a pena-base, vê-se que o Tribunal a quo, em sintonia com a orientação jurisprudencial desta Corte, entendeu correto o aumento da pena-base do paciente, tendo tal majoração sido justificada pela apreensão de certa quantidade e variedade de entorpecentes - 242 gramas de maconha acondicionados em 82 poções e 96 gramas de cocaína acondicionados em 99 sacolés plásticos -, porquanto a quantidade e a natureza da droga (art. 42 da Lei n.11.343/2006) são preponderantes em relação às circunstâncias judiciais do art. 59 do Código Penal.
+ ..
+Com relação à fração de aumento da pena-base, no silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada e outro de 1/8 (um oitavo), a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador, ressalvadas as hipóteses em que haja fundamentação idônea e bastante que justifique aumento superior às frações acima mencionadas.
+Isso porque, considerando que o art. 59 do Código Penal não atribui pesos absolutos a cada uma das circunstâncias judiciais a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito, não há impedimento a que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto.
+No caso dos autos, a fração de aumento aplicada à pena-base pela quantidade de drogas - 1/6 da pena mínima estipulada - está em harmonia com a jurisprudência desta Corte Superior, e, portanto, não merece reparos.
+ ..
+Desse modo, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício." (fls. 951/974)
+No recurso, a defesa deixou de impugnar, específica e pormenorizadamente, os fundamentos adotados na decisão agravada, atendo-se a reiterar os argumentos evocados na inicial.
+Com efeito, não coadunam com os fins objetivados pelo agravante a mera irresignação com o conteúdo da decisão agravada ou a insistência na concessão dos pleitos deduzidos na ação mandamental, tendo em vista que " s egundo o entendimento vigente neste Superior Tribunal de Justiça, a modificação de decisão por meio de agravo regimental requer a apresentação de argumentos capazes de alterar os fundamentos anteriormente firmados" (AgRg no HC n. 384.871/SC, relator Ministro JORGE MUSSI, QUINTA TURMA, DJe de 9/8/2017).
+Aplicável, nessa toada, a compreensão de que "não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte. Precedentes" (AgRg no HC n. 753.965/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe de 4/10/2022). No mesmo sentido os precedentes abaixo:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ILEGALIDADE INEXISTENTE. DECISÃO NOS TERMOS DA JURISPRUDÊNCIA DESTA CORTE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A decisão agravada concluiu pela legalidade da decisão, salientando que o Tribunal de origem, motivadamente, julgou improcedente a revisão criminal por não atender os requisitos do art. 621 do CPP.
+III - A busca pessoal sequer foi objeto da apelação que se pretendia ser revista, além de haver razões suficientes para a busca pessoal, diante de chamado da central da polícia dando notícia da traficância no local, praticada com as características do agravante, assim como o referido empreendeu fuga deixando uma mochila contendo as drogas apreendidas.
+IV - A exasperação da pena-base teve fundamentos idôneos na quantidade, natureza e diversidade de drogas, não sendo possível reconhecer a confissão espontânea em razão do óbice da Súmula 630 do STJ, já que o agravante não admitiu a traficância, mas alega ser usuário.
+V - A Defesa limitou-se a repisar, resumidamente, os mesmos argumentos da petição inicial do habeas corpus, transcrevendo partes mais essenciais da peça inaugural, o que atrai o Enunciado sumular n. 182 desta Corte Superior de Justiça, segundo o qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 752.035/SP, relator Ministro MESSOD AZULAY NETO, QUINTA TURMA, Julgado em 19/9/2023, DJe de 25/9/2023).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO E EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INDICAÇÃO DE ELEMENTOS CONCRETOS. AUSÊNCIA. REFERÊNCIAS À GRAVIDADE ABSTRATA DO CRIME. NÃO SE ADMITE QUE O TRIBUNAL A QUO ACRESCENTE FUNDAMENTOS À MANUTENÇÃO DA PRISÃO CAUTELAR EM AÇÃO EXCLUSIVA DA DEFESA. DECISÃO MONOCRÁTICA QUE DÁ PROVIMENTO AO RECURSO QUE DEVE SER MANTIDA.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+ ..
+4. Agravo regimental improvido.
+(AgRg no HC n. 727.399/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 8/4/2022).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. LIBERDADE DE LOCOMOÇÃO NÃO AMEAÇADA. EXTINÇÃO DA PUNIBILIDADE DECLARADA NA ORIGEM. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO DE COMPETÊNCIA ORIGINÁRIA DO COL. SUPREMO TRIBUNAL FEDERAL: AGRAVO EM RECURSO EXTRAORDINÁRIO. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+ ..
+V - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental não conhecido.
+(AgRg nos EDcl no HC 582.646/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 25/8/2020).
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. MERO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que deve ser mantida a decisão monocrática proferida.
+4. Agravo regimental improvido.
+(AgRg no HC n. 369.103/MS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 31/8/2017).
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
