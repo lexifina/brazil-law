@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WARLEY BALBINO COSTA HENRIQUES, apontando como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo.
+Consta dos autos que o paciente teve a prisão em flagrante convertida em preventiva pela suposta prática dos crimes previstos nos arts. 33, caput, e 35, c/c 40, III, da Lei n. 11.343/2006.
+Nesta Corte, a impetrante sustenta excesso de prazo para formação da culpa. Afirma que, embora realizada a audiência de instrução em 26.05.2022, até o momento não foi proferida a sentença. Aduz, ainda, que não estão presentes, no caso, os requisitos autorizadores da prisão preventiva.
+Pleiteia o relaxamento da custódia ou a concessão da ordem para que seja revogada a prisão preventiva imposta ao paciente.
+Liminar indeferida.
+Parecer do Ministério Público Federal pela prejudicialidade.
+É o relatório.
+Decido.
+Quanto à tese de excesso de prazo para julgamento do feito, a questão está superada.
+Em consulta à página eletrônica do Tribunal de origem, verifica-se que em 18.10.2023, o feito foi sentenciado e o paciente foi condenado à pena de 17 anos e 9 meses de reclusão, mais o pagamento de 2.270 dias-multa, em regime inicial fechado, negado o recurso em liberdade.
+Quanto à arguição relativa à ausência de fundamentação da prisão preventiva, essa sequer é possível de ser conhecida.
+Isso porque, em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Na espécie, no mesmo toar do que foi decidido no bojo do HC n. 706.568/ES, de minha relatoria, o processo não foi instruído com a cópia da decisão que teria decretado a prisão preventiva do paciente, documento imprescindível para a análise desta tese, o que impede o seu conhecimento.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. REVOGAÇÃO DA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. IMPOSSIBILIDADE DE ANÁLISE DA PRETENSÃO DEDUZIDA. SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL - STF. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.1. Hipótese na qual o writ, impetrado contra decisão que negou liminar, foi indeferido liminarmente, por falta de instrução, não tendo sido juntada ao feito cópia da decisão em liminar proferida pela Corte estadual, o que inviabiliza a análise da pretensão deduzida no writ.2. O rito célere do habeas corpus demanda, para que seja analisada a ocorrência de constrangimento ilegal, prova pré-constituída, sendo de responsabilidade exclusiva do impetrante a instrução do writ.3. A transcrição do teor da decisão no corpo da inicial da impetração não se mostra suficiente para sanar o vício e possibilitar o exame da matéria nesta Corte.4. Ainda que fosse considerada a mera transcrição do decisum no corpo da petição inicial, não se constataria constrangimento ilegal patente, apto a justificar a superação do enunciado n. 691 da Súmula do STF.5. Agravo regimental desprovido."(AgRg no HC 484.988/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/2/2019, DJe 14/2/2019).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.2. Agravo regimental desprovido."(AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/9/2019, DJe 17/9/2019).
+Ademais, a superveniência de sentença condenatória sem a juntada da referida peça, impede a verificação de eventual manifesta ilegalidade na prisão cautelar do réu.
+Ante o exposto, julgo, na parte conhecida, prejudicado este habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
