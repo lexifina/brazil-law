@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ARTIGO 489 DO CPC/2015. NÃO OCORRÊNCIA. EXCESSO DE EXECUÇÃO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada afronta ao artigo 489, § 3º, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso,
+ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 172):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ARTIGO 489 DO CPC/2015. NÃO OCORRÊNCIA. EXCESSO DE EXECUÇÃO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravante defende, de início, a suspensão cautelar dos presentes autos, até a decisão final do IRDR de n. 5557428-97.2022.8.09.0000, a fim de garantir segurança jurídica, bem como isonomia de decisões a respeito do período para pagamento do reajuste salarial anual previsto nas Leis Estaduais n. 18.419/2014, 18.420/2014 e 18.421/2014.
+Afirma que o acórdão a quo contraria o artigo 489 do CPC/2015, bem como está em desacordo com precedentes desta Corte no sentido de que "a sentença deve ser interpretada não pela leitura de seu dispositivo, mas integrada a todos os elementos, principalmente, com base no princípio da boa-fé, destacando que, no presente caso, conforme foi o entendimento do Juízo da 6ª Vara da Fazenda Pública do Estado de Goiás, bem como da maioria dos Desembargadores do Egrégio Tribunal de Justiça do Estado de
+Goiás, no sentido de que os servidores representados pelo Sindicato dos Policiais Civis do Estado de Goiás fazem jus ao recebimento da diferença salarial em razão do não pagamento do reajuste de 12,33% previsto no inciso II, do artigo 1º das Leis Estaduais n.º 18.419/2014, 18.420/2014 e 14.421/2014, de novembro de 2015 a novembro de 2018 em razão do "efeito cascata" já demonstrado nos autos" (fl. 186).
+Destaca que o óbice da Súmula 284/STF não é aplicável ao caso em apreço, pois da análise da fundamentação apresentada, é indubitável a possibilidade de compreensão da controvérsia.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ARTIGO 489 DO CPC/2015. NÃO OCORRÊNCIA. EXCESSO DE EXECUÇÃO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Afasta-se a alegada afronta ao artigo 489, § 3º, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso,
+ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que a insurgência recursal não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, afasta-se a alegada afronta ao artigo 489, § 3º, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+No que pertine à alegada inexistência de excesso de execução, verifica-se que o ora agravante, não indicou, nas razões do apelo nobre, os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Ademais, assinala-se que não comporta acolhimento o pedido de suspensão do processo em virtude do incidente de demandas repetitivas do Tribunal de origem porque a referida determinação não se aplica a esta Corte Superior, uma vez que não se trata de juízo vinculado ao Tribunal de origem. A propósito: AgInt no AREsp 1645372/ES, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/12/2020.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
