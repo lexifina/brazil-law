@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por Jaqueline Cristina Nascimento Vieira contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravante ajuizou ação declaratória de inexistência de dívida cumulada com danos morais, julgada improcedente.
+Interposta apelação pela ora insurgente, a Décima Nona Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 222):
+APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM DANOS MORAIS E TUTELA ANTECIPADA FACE À NEGATIVAÇÃO DO NOME DA AUTORA. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. Sentença de Improcedência. Inconformismo da autora. Ré que demonstrou a adesão da autora à cartão de crédito, uso e não quitação das faturas. Autora que alterou a verdade dos fatos. Negativação que ocorreu no exercício regular de direito. Multa por litigância de má-fé bem aplicada, consoante art. 81 do CPC, que fica mantida. Sentença confirmada.
+Recurso desprovido.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, a recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 80, 81 e 373, II, do Código de Processo Civil de 2015; e 398 e 927 do Código Civil, sob as seguintes assertivas:
+(i) a inclusão do seu nome em cadastro de inadimplentes é indevida, uma vez que não ficou comprovada a existência da dívida, nem a sua exigibilidade, haja vista a ausência de contrato entre as partes, a corroborar os débitos;
+(ii) os juros de mora devem incidir a partir da data do evento danoso em se tratando de responsabilidade extracontratual;
+(iii) não ocorrência de litigância de má-fé, tendo em conta que só pode ser considerado litigante de má-fé quem altera a verdade dos fatos de modo doloso, com o intuito de obter objetivo ilegal ou procede de modo temerário, para protelar ou resistir ao andamento processual.
+Contrarrazões às fls. 252-257 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta às fls. 277-283 (e-STJ).
+Brevemente relatado, decido.
+No que se refere à comprovação da existência da relação jurídica entre as partes, demonstrando a existência do débito que motivou o registro em cadastros de inadimplentes, a Corte de origem, soberana na análise dos elementos fáticos e probatórios dos autos, assim se manifestou (e-STJ, fls. 224-226):
+A autora ajuizou a presente ação buscando o reconhecimento da inexistência de débito e a condenação da requerida por danos morais ao fundamento de que teve seu nome negativado indevidamente e só tomou conhecimento da restrição ao realizar entrevista para vaga de emprego. Afirma que o suposto débito data de 2019 e se refere a cartão de crédito, cuja fatura não foi quitada que, todavia, não reconhece.
+Contudo, desincumbindo-se do seu encargo probatório, a ré comprovou que o débito era oriundo de cartão de crédito a que a autora aderiu, de que se utilizou e não quitou as faturas correspondentes.
+A "Proposta de Adesão ao Cartão" (fls. 80) foi firmada pela autora, que sequer impugnou a autenticidade da assinatura constante do documento, além do que está acompanhada de foto "selfie" da apelante, cópia do documento de identidade apresentada na ocasião da adesão, além de telas sistêmicas que mostram acordos realizados e não cumpridos pela autora, além de detalhamento das compras realizadas (fls. 80/82).
+Além disso, a corroborar a utilização do cartão da ré, observa-se a existência de compra realizada pela autora, no valor de R$ 149,97, parcelada em 5 vezes de R$ 29,99, em 31/01/2019, no cartão nº 628028**801772, sendo que do comprovante de venda consta a assinatura da autora (fls. 52).
+Diante desse conjunto de provas, observa-se que não é verdadeira a alegação constante da inicial, de que a autora desconhecia a relação jurídica com a ré.
+A alegação da autora acerca de que seu endereço residencial é na Rua Dr. Francisco Eugênio Amaral 436 e não aquele que consta das faturas emitidas (Rua Gervásio Leite Ribeiro 1520), o que seria evidencia de alguma fraude, não pode ser levada em consideração, pois sequer existe nos autos comprovação a partir de quando a apelante encontra-se no atual endereço.
+Sobre a diferença entre valor negativado e o saldo devedor também não se sustenta a alegação, vez que as faturas em aberto demonstram que o valor de R$ 477,04, referente ao contrato nº 145787230 (fls. 82), corresponde ao da negativação (fls. 103/104).
+Enfim, a documentação anexada aos autos demonstra que a apelante aderiu ao cartão de crédito da ré, realizou compras que não quitou, fez parcelamentos que também não honrou, além de sequer ter a autora apresentado comprovantes de quitação de débitos.
+Portanto, a ré desincumbiu-se do ônus de comprovar a existência da relação jurídica entre as partes, demonstrando a existência do débito que motivou o registro em cadastros de inadimplentes.
+Desse modo, observa-se que o acórdão recorrido deu solução à controvérsia por meio de minuciosa análise do contexto fático-probatório que guarnece os autos.
+A pretensa questão federal submetida a esta Corte não tem como ser aqui aferida, porquanto chegar a uma conclusão contrária demanda o reexame das mesmas provas produzidas, fazendo um verdadeiro rejulgamento da causa, como se o STJ fosse uma terceira instância revisora e o especial pudesse ser transmudado em uma apelação da apelação.
+Dessa maneira, a controvérsia foi solvida sob premissas fáticas, inviáveis de reexame no especial, como é cediço, aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+Em relação à ofensa ao art. 398 do CC, constata-se que a matéria inserta no referido dispositivo não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração a fim de provocar o pronunciamento do Colegiado.
+É entendimento assente neste Superior Tribunal a exigência do prequestionamento dos temas suscitados no especial, de que tratam os dispositivos tidos por ofendidos, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Incidência das Súmulas 282 e 356 do STF, ante a ausência de prequestionamento do dispositivo apontado como violado, porquanto não teve o competente juízo de valor aferido, nem interpretado ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Reexaminar o entendimento do Tribunal local, demandaria revolvimento de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos inviáveis nesta via extraordinária, consoante disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1755873/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Acerca da multa por litigância de má-fé, o Tribunal de Justiça, ao dirimir a questão posta nos autos, assim consignou (e-STJ, fl. 226):
+Por outro lado, ao alterar a verdade dos fatos, dando ensejo à instauração de litígio infundado ou temerário, era mesmo devida a condenação da apelante por litigância de má-fé.
+Na hipótese, restou nítida a má-fé da apelante, que mesmo diante da inequívoca existência de relação jurídica com a ré optou por ajuizar demanda buscando a declaração de sua inexistência e, mais ainda, indenização pecuniária por conta da cobrança que é legítima.
+Inequívoca, pois, a alteração dos fatos com o intuito de obter vantagem, sendo de rigor a manutenção da multa por litigância de má-fé, bem aplicada na r. sentença recorrida.
+Diante desse contexto, observa-se que o colegiado estadual concluiu pela existência do contrato entabulado entre as partes, condenando a autora ao pagamento da multa por litigância de má-fé.
+Assim, reverter a conclusão da Corte local para acolher a pretensão recursal, quanto à inexistência de litigância de má-fé, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ademais, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido no tocante à inexistência de cerceamento de defesa, e do ato ilícito, apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ, que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.786936/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em 2% (dois por cento) do valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM DANOS MORAIS. INCLUSÃO EM CADASTRO DE INADIMPLENTES. DEVIDA. ANÁLISE DOS ELEMENTOS PROBATÓRIOS SÚMULA N. 7/STJ. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N 282 E 356 DO STF. LITIGÂNCIA DE MÁ-FÉ CONFIGURADA. ALTERAÇÃO. SÚMULA N. 7/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
