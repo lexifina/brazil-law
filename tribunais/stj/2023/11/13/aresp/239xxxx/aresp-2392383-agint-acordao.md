@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO, NO ATO DE INTERPOSIÇÃO DO RECURSO, DA AUSÊNCIA DE EXPEDIENTE NO TRIBUNAL DE ORIGEM. INTEMPESTIVIDADE DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão que negou admissibilidade ao recurso especial foi disponibilizada no DJe de 31/3/2023, considerando-se publicada em 3/4/2023, segunda-feira, de modo que o prazo recursal teve início em 4/4/2023 e expirou em 26/4/2023.
+2. O recurso de agravo somente foi protocolizado em 27/4/2023, fora do prazo recursal, sobretudo porque a agravante não comprovou a ausência de expediente na Corte de origem na quinta-feira (6/4/2023) que antecedeu a sexta-feira santa, não sendo possível a comprovação posterior, consoante orientação adotada pela Corte Especial do STJ, nos autos do AREsp nº 957.821/MS, de relatoria do Ministro Raul Araújo, Relatora para acórdão Ministra Nancy Andrighi, DJe 19/12/2017, ocasião em que se firmou entendimento no sentido da impossibilidade de comprovação posterior da tempestividade de recurso interposto na égide do CPC/2015, haja vista a redação do art. 1.003, § 6º, da referida norma, que exige a comprovação da ocorrência de feriado local/ausência de expediente no Tribunal de origem no ato de interposição do recurso, bem como porque o § 3º do art. 1.029 impõe, para desconsideração de vício formal, que se trate de "recurso tempestivo".
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto por SPRAYTECH COMERCIAL AGRÍCOLA LTDA contra a decisão da Presidência desta Corte proferida nos seguintes termos (e-STJ fls. 312-313):
+Cuida-se de agravo interposto por SPRAYTECH COMERCIAL AGRICOLA LTDA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de SPRAYTECH COMERCIAL AGRICOLA LTDA, a parte recorrente foi intimada da decisão agravada em 03/04/2023, sendo o agravo somente interposto em 27/04/2023.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+(..)
+Em suas razões recursais, a agravante sustenta a tempestividade do agravo em recurso especial, tendo em vista que a contagem do prazo recursal teve início em 4/4/2023 e foi suspenso em 6 e 7/4/2023 (quinta e sexta-feira), em virtude do FERIADO NACIONAL da sexta-feira santa, bem como no dia 21/4 (Tiradentes), de modo que o último dia do prazo seria 27/4, data em que protocolado o recurso.
+Pugna pelo recebimento e provimento do agravo interno para que seja reformada a decisão monocrática agravada e reconhecida a tempestividade do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO, NO ATO DE INTERPOSIÇÃO DO RECURSO, DA AUSÊNCIA DE EXPEDIENTE NO TRIBUNAL DE ORIGEM. INTEMPESTIVIDADE DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão que negou admissibilidade ao recurso especial foi disponibilizada no DJe de 31/3/2023, considerando-se publicada em 3/4/2023, segunda-feira, de modo que o prazo recursal teve início em 4/4/2023 e expirou em 26/4/2023.
+2. O recurso de agravo somente foi protocolizado em 27/4/2023, fora do prazo recursal, sobretudo porque a agravante não comprovou a ausência de expediente na Corte de origem na quinta-feira (6/4/2023) que antecedeu a sexta-feira santa, não sendo possível a comprovação posterior, consoante orientação adotada pela Corte Especial do STJ, nos autos do AREsp nº 957.821/MS, de relatoria do Ministro Raul Araújo, Relatora para acórdão Ministra Nancy Andrighi, DJe 19/12/2017, ocasião em que se firmou entendimento no sentido da impossibilidade de comprovação posterior da tempestividade de recurso interposto na égide do CPC/2015, haja vista a redação do art. 1.003, § 6º, da referida norma, que exige a comprovação da ocorrência de feriado local/ausência de expediente no Tribunal de origem no ato de interposição do recurso, bem como porque o § 3º do art. 1.029 impõe, para desconsideração de vício formal, que se trate de "recurso tempestivo".
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhida.
+A agravante não trouxeram nenhum argumento capaz de infirmar a decisão agravada.
+Com efeito, a decisão que negou admissibilidade ao recurso especial foi disponibilizada no DJe de 31/3/2023, considerando-se publicada em 3/4/2023, segunda-feira, de modo que o prazo recursal teve início em 4/4/2023 e expirou em 26/4/2023.
+O recurso de agravo somente foi protocolizado em 27/4/2023, fora do prazo recursal, sobretudo porque a agravante não comprovou a ausência de expediente na Corte de origem na quinta-feira (6/4/2023) que antecedeu a sexta-feira santa, não sendo possível a comprovação posterior, consoante orientação adotada pela Corte Especial do STJ, nos autos do AREsp nº 957.821/MS, de relatoria do Ministro Raul Araújo, Relatora para acórdão Ministra Nancy Andrighi, DJe 19/12/2017, ocasião em que se firmou entendimento no sentido da impossibilidade de comprovação posterior da tempestividade de recurso interposto na égide do CPC/2015, haja vista a redação do art. 1.003, § 6º, da referida norma, que exige a comprovação da ocorrência de feriado local/ausência de expediente no Tribunal de origem no ato de interposição do recurso, bem como porque o § 3º do art. 1.029 impõe, para desconsideração de vício formal, que se trate de "recurso tempestivo".
+Confira-se a emenda do supracitado julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp 957.821/MS, Rel. Ministro Raul Araújo, Rel.(a) p/ Acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017) (grifei)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
