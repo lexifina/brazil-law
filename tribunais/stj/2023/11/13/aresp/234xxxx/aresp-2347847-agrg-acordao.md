@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Batista Moreira (Desembargador convocado do TRF1), Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL INTERPOSTO FORA DO PRAZO LEGAL DE 5 (CINCO) DIAS. NÃO CONHECIMENTO.
+I - Consoante o art. 25 8 do RISTJ, "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+II - In casu, a decisão objeto deste agravo regimental foi disponibilizada em 05/06/2023 e considerada publicada em 06/06/2023 (fl. 904). O agravo regimental, contudo, somente foi interposto em 16/06/2023 (fl. 910), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a intempestividade do recurso, conforme Certidão de fl. 921.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS DAS NEVES DE ARAUJO contra a decisão de fls. 901-903, na qual não se conheceu do agravo em recurso especial.
+Consta dos autos que o Tribunal a quo, em decisão unânime, deu parcial provimento (fls. 694-695) ao recurso de apelação criminal ali interposto pela Defesa, nos termos da ementa a seguir transcrita:
+"DIREITO PENAL E PROCESSUAL PENAL. APELAÇÕES CRIMINAIS DA DEFESA E DA ACUSAÇÃO. ROUBO. ART. 157, §2º, INCISOS II E III, N/F DO ART. 71, CAPUT, AMBOS DO CP. NULIDADE DA SENTENÇA. NULIDADE DO PROCESSO. CERCEAMENTO DE DEFESA. AUTORIA DELITIVA. CAUSA DE AUMENTO. TRANSPORTE DE VALORES. EMPREGO DE ARMA DE FOGO.
+I - Os acusados possuíam pleno acesso aos termos dos depoimentos das vítimas em sede policial e aos autos do IPL respectivo, motivo pelo qual não merecem prosperar as preliminares de nulidade do processo por cerceamento de defesa e de nulidade da sentença por descumprimento do previsto no art. 93, inciso IX, da Constituição Federal, arguidas pelo apelante Lucas Neves de Araujo.
+II - A materialidade delitiva encontra-se cabalmente evidenciada, conforme analisado na sentença recorrida, através dos documentos que compõem o inquérito policial nº 59/2016 (apenso criminal autuado sob o nº 0208800- 41.2017.4.02.5110), sobretudo pelos termos de ocorrências dos diversos roubos nas diferentes datas mencionadas na denúncia, com as respectivas listagens dos objetos que estavam na posse dos carteiros e que foram roubados, pelos depoimentos colhidos em sede policial e judicial, no último caso, produzidos sob o crivo do contraditório.
+III - Quanto à autoria, diferente do alegado pela defesa, os acusados foram reconhecidos também em Juízo pelas testemunhas Maria José, que reconheceu o acusado Lucas, Edson Mendes Nunes, Leonardo Ramos Vieira de Souza e Pablo de Oliveira Macei, que reconheceram ambos os réus como autores do crime. Pablo de Oliveira Macei afirmou ter sofrido assalto em três oportunidades pelos acusados.
+IV - Quanto ao procedimento previsto no artigo 226 do CPP, foi devidamente observado quando dos depoimentos das testemunhas, tendo sido realizada a descrição anterior dos acusados e o reconhecimento através de álbum de fotos.
+V - Os depoimentos das testemunhas em sede policial e em Juízo são harmônicos e coerentes com os elementos probatórios dos autos. Em juízo, confirmaram seus depoimentos em sede policial e afirmaram que, na época dos fatos, tinham plenas condições de reconhecer os autores dos delitos, o que foi feito com base em álbum de fotos fornecido pela polícia.
+VI - Deve ser reconhecida a aplicação da causa de aumento prevista no artigo 157, § 2º, III, do Código Penal, pois demonstrado que as vítimas eram funcionários da EBCT, que realizavam transporte de valores, uma vez que o conceito jurídico de "valores" não se restringe a dinheiro em espécie, abrangendo todo o tipo de mercadoria que tenha apreciação econômica, inclusive quando transportados por funcionários da EBCT, como no caso dos presentes autos.
+VII - A fração de aumento referente à continuidade delitiva mostra-se proporcional, considerando-se que as condutas dos apelantes se repetiram por nove vezes, devendo ser mantida no patamar de 2/3 (dois terços).
+VIII - Diante da dúvida existente, corretamente atuou o juízo a quo ao afastar a causa de aumento relativa ao emprego de arma de fogo, já que no caso concreto não restou comprovado que o artefato supostamente bélico visualizado pelas vítimas oferecia perigo real e concreto de lesão ao bem jurídico vida dos agentes dos Correios.
+IX - Indeferido o pedido de prisão preventiva, pois os delitos sob exame ocorreram nos meses de junho e julho de 2015, ou seja, há mais de 6 (seis) anos, não havendo notícia nos autos quanto a indícios de reiteração e/ou recorrência delitiva atual a justificar a decretação de prisão preventiva.
+X - Negado provimento aos apelos dos réus bem como do Ministério Público Federal."
+No recurso especial interposto com fulcro na alínea "a", do permissivo constitucional, se alegou que "que houve violação explícita do artigo 226 do Código de Processo Penal, haja vista que não há mais provas no decreto condenatório que servem de suporte para se manter a condenação na forma que se encontra atualmente" (fl. 787).
+Requereu, ao final, o provimento do recurso "para absolver o recorrente, ante o reconhecimento da nulidade do reconhecimento pessoal realizado e a ausência de provas independentes de autoria" (fl. 787).
+Apresentadas as contrarrazões (fls. 793-812), o apelo nobre foi inadmitido na origem, pela incidência das Súmulas 283 e 284, ambas do STF, bem como pela aplicação da Súmula n. 7/STJ (fls. 839-844).
+Interposto o respectivo agravo em recurso especial (fls. 871-877), a d. Presidência deste Superior Tribunal não conheceu do recurso, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço de ambos os agravos em recurso especial" (fls. 901-903).
+Nas razões do presente recurso, alega o agravante, em síntese, que "Como se observa em todo o processo o Agravante foi condenado apenas por reconhecimento de supostas víOmas em processo que perdura a mais de sete anos, ressaltando que não houve o reconhecimento do Agravante, em conformidade com os ditames do arOgo 226 do Código de Processo Penal" (fl. 910-920).
+Requer, ao final (fl. 918), se "dê provimento ao presente agravo interno, determinando o processamento do recurso especial interposto por  SEU NOME  nos autos do processo em epígrafe".
+Conforme Certidão de fl. 921, a "O prazo para interposição de agravo regimental em relação à decisão de folha 901 teve início em e término em e que a petição n. (AgRg) foi protocolizada em 07/06/2023 12/06/2023, 597018/2023 19/06/2023".
+O d. representante do Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fl. 929).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL INTERPOSTO FORA DO PRAZO LEGAL DE 5 (CINCO) DIAS. NÃO CONHECIMENTO.
+I - Consoante o art. 25 8 do RISTJ, "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+II - In casu, a decisão objeto deste agravo regimental foi disponibilizada em 05/06/2023 e considerada publicada em 06/06/2023 (fl. 904). O agravo regimental, contudo, somente foi interposto em 16/06/2023 (fl. 910), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a intempestividade do recurso, conforme Certidão de fl. 921.
+Agravo regimental não conhecido.
+VOTO
+O presente agravo regimental não merece ser conhecido, pois intempestivo.
+O Código de Processo Civil/2015 modificou as regras acerca da interposição dos agravos regimentais, também denominados agravos internos, estabelecendo que este recurso será dirigido ao respectivo órgão colegiado contra decisão do relator, observando-se, quanto ao processamento, as regras do regimento interno de cada Tribunal (art. 1.021 do Código de Processo Civil/2015).
+Porém, as alterações promovidas pela nova legislação processual não são aplicáveis aos recursos internos nos Tribunais Superiores. Isto porque o art. 39 da Lei n. 8.038/90 permanece em vigor, prevendo que, das decisões monocráticas proferidas pelo Presidente do Tribunal, Presidente de Seção, Presidente de Turma ou pelo Relator, que causarem gravame à parte, caberá agravo, no prazo de 05 (cinco) dias.
+O mesmo está dito no art. 258 do Regimento Interno deste Superior Tribunal de Justiça, que dispõe, verbis: "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a".
+Pois bem .
+No caso dos autos, a r. decisão ora agravada foi disponibilizada em 05/06/2023 e considerada publicada em 06/06/2023, conforme Certidão de fl. 904. O agravo regimental, contudo, somente foi interposto em 19/06/2023 (fl. 910), quando já havia sido ultrapassado o quinquídio legal, sendo, pois, manifesta a sua intempestividade.
+De fato, conforme Certidão de fl. 921, a "O prazo para interposição de agravo regimental em relação à decisão de folha 901 teve início em e término em e que a petição n. (AgRg) foi protocolizada em 07/06/2023 12/06/2023, 597018/2023 19/06/2023".
+Nesse sentido, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 258 DO RISTJ. PRAZO. CINCO DIAS. INTEMPESTIVIDADE. INAPLICABILIDADE DAS DISPOSIÇÕES DO NOVO CPC. NÃO CONHECIMENTO.
+1. O agravo contra decisão monocrática de Relator nos tribunais superiores, em matéria penal, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração.
+ ..
+3. Agravo interno não conhecido" (AgRg no AREsp n. 908.275/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 11/10/2016, grifei).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. REMESSA DOS AUTOS À DEFENSORIA PÚBLICA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental protocolado nesta Corte quando já escoado o prazo de cinco dias, previsto no art. 258 do Regimento Interno do Superior Tribunal de Justiça e no art. 39 da Lei n. 8.038/90.
+ ..
+3. Agravo regimental não conhecido" (AgRg no HC n. 360.436/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 20/9/2016).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
