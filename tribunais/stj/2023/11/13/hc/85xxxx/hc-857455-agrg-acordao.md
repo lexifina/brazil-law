@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MERA REPETIÇÃO DE TESE JÁ ANALISADA NO HC N. 843.026/MG. NÃO CONHECIMENTO. RECURSO DA DEFESA NÃO PROVIDO.
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, a tese defensiva no sentido da aplicação do princípio da insignificância já havia sido analisada no feito conexo, qual seja, no HC n. 843.026/MG, ocasião em que foi reafirmada sólida jurisprudência do Superior Tribunal de Justiça no sentido de que o princípio da insignificância não é aplicável aos crimes de tráfico de drogas.
+2. De fato, em se tratando de mera repetição de pedido anterior, o não conhecimento da matéria efetivamente é medida que se impõe. Precedentes.
+3. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por AMAURI RODRIGO DE SOUSA contra decisão monocrática em que indeferi liminarmente o writ (e-STJ fls. 198/204).
+Em suas razões (e-STJ fls. 208/212), a defesa do agravante alega que deve ser analisado o Mérito do Writ em questão haja vista o fato de que não se trata de impugnação da mesma decisão, e sim de decisões distintas, sendo que o HC 843026/MG, indeferido liminarmente em data pretérita, em nada tem a ver com o presente, que faz impugnação de decisão liminar em H.C. no TJMG. Ou seja, em que pese a similitude de argumentos, tratam-se de procedimentos que se originam de processos distintos (e-STJ fl. 210).
+Ao final, requer que seja provido o agravo regimental, para que seja concedida a ordem a fim de que se aplique ao caso o princípio da insignificância, ante a atipicidade material da conduta.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MERA REPETIÇÃO DE TESE JÁ ANALISADA NO HC N. 843.026/MG. NÃO CONHECIMENTO. RECURSO DA DEFESA NÃO PROVIDO.
+1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, a tese defensiva no sentido da aplicação do princípio da insignificância já havia sido analisada no feito conexo, qual seja, no HC n. 843.026/MG, ocasião em que foi reafirmada sólida jurisprudência do Superior Tribunal de Justiça no sentido de que o princípio da insignificância não é aplicável aos crimes de tráfico de drogas.
+2. De fato, em se tratando de mera repetição de pedido anterior, o não conhecimento da matéria efetivamente é medida que se impõe. Precedentes.
+3. Agravo regimental não provido.
+VOTO
+Buscava a defesa do recorrente, conforme relatado na decisão ora recorrida, a concessão da ordem para que fosse aplicado ao caso o princípio da insignificância, ante a atipicidade material da conduta.
+Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, a tese defensiva no sent ido da aplicação do princípio da insignificância já havia sido analisada no feito conexo, qual seja, no HC n. 843.026/MG, ocasião em que reafirmei sólida jurisprudência do Superior Tribunal de Justiça no sentido de que o princípio da insignificância não é aplicável aos crimes de tráfico de drogas, com a seguinte fundamentação:
+Busca a defesa a aplicação ao caso do princípio da insignificância, ante a ausência de tipicidade material da conduta, uma vez considerada a pequena quantidade de drogas apreendidas. Subsidiariamente, requer o reconhecimento do tráfico privilegiado e a fixação de regime prisional inicialmente mais brando.
+Acerca do primeiro tema, deve-se destacar que a jurisprudência consolidada desta Corte Superior, o princípio da insignificância não é aplicável aos crimes de tráfico de drogas.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. TRANCAMENTO DO PROCESSO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CUSTÓDIA PREVENTIVA. PERICULUM LIBERTATIS. CAUTELARES DIVERSAS. SUFICIÊNCIA E ADEQUAÇÃO. CONCESSÃO DA ORDEM.
+1. Conforme jurisprudência consolidada desta Corte Superior, o princípio da insignificância não é aplicável aos crimes de tráfico de drogas. Precedentes.
+2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+3. Deve, ainda, ficar concretamente evidenciado, na forma do art. 282, § 6º, do CPP, que, presentes os motivos que autorizam a constrição provisória, não é satisfatória e adequada a sua substituição por outras medidas cautelares menos invasivas à liberdade.
+4. Embora a decisão combatida descreva indícios da dedicação habitual do acusado ao comércio espúrio, a denotar a necessidade de algum acautelamento da ordem pública, tal circunstância não é suficiente, em juízo de proporcionalidade, para justificar a imposição da cautela extrema, sobretudo porque a quantidade de entorpecente apreendido não é elevada (16,2 g de cocaína), o Juízo singular foi claro ao reconhecer a primariedade do paciente e a suposta conduta ilícita foi perpetrada sem violência ou grave ameaça.
+5. Concessão da ordem para confirmar a liminar e substituir a prisão preventiva por cautelares diversas, nos termos do voto.
+(HC n. 752.959/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. QUEBRA DA CADEIA DE CUSTÓDIA. NÃO OCORRÊNCIA. ABSOLVIÇÃO. AUSÊNCIA DE MATERIALIDADE. BENFÍCIO DO TRÁFICO PRIVILEGIADO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O instituto da quebra da cadeia de custódia refere-se à idoneidade do caminho que deve ser percorrido pela prova até sua análise pelo magistrado, e uma vez ocorrida qualquer interferência durante o trâmite processual, esta pode implicar, mas não necessariamente, a sua imprestabilidade (AgRg no RHC n. 147.885/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021). Não é o que se tem no caso dos autos, em que não houve comprovação por parte da defesa de qualquer adulteração no decorrer probatório.
+Ademais, não foi trazido nenhum elemento que demonstre que houve adulteração da prova. Assim, não se verifica a alegada "quebra da cadeia de custódia", pois nenhum elemento veio aos autos a demonstrar que houve adulteração da prova, alteração na ordem cronológica dos diálogos ou mesmo interferência de quem quer que seja, a ponto de invalidar a prova (HC 574.131/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020).
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova, colhidos na fase inquisitorial e judicial, a enaltecer a tese de autoria delitiva imputada pelo Parquet à acusada, devendo ser mantida a condenação pelo delito de tráfico. Assim, rever os fundamentos utilizados pela Corte Estadual, para decidir pela absolvição, por ausência de prova da materialidade, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Não se aplica o princípio da insignificância aos delitos de tráfico de drogas, por se tratar de crime de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de droga apreendida. Precedentes.
+4. Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas, nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+5. No presente caso, para se acolher a tese de que a envolvida não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+6. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 2.039.175/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+Ademais, o tema sequer foi abordado pela Corte de origem, de forma que a análise, por esta Corte, nesta oportunidade, implicaria indevida supressão de instância.
+Nessa esteira, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. EXISTÊNCIA DE FUNDADAS RAZÕES. LICITUDE DAS PROVAS OBTIDAS. TRANCAMENTO. IMPOSSIBILIDADE. DESCLASSIFICAÇÃO E APLICAÇÃO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental à inviolabilidade do domicílio, ao dispor que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+2. O Supremo Tribunal Federal definiu, em repercussão geral (Tema 280), que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo  a qualquer hora do dia, inclusive durante o período noturno  quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). No mesmo sentido, neste STJ: REsp n. 1.574.681/RS.
+3. No caso, depreende-se dos autos que os policiais fizeram campana em viatura descaracterizada e constataram, antes do ingresso na residência, que o corréu Everton comercializava drogas no local e que a paciente saía daquele imóvel para abastecer o ponto de venda.
+Assim, os elementos indicados apontam que a entrada foi precedida de fundadas razões objetivas e concretas quanto à existência de situação de flagrante delito no local, de modo que, ao menos por ora, dentro dos limites de cognição possíveis nesta etapa, não se constata ilegalidade patente que justifique o excepcional trancamento do processo, sem prejuízo de discussão mais aprofundada da dinâmica fática na fase instrutória.
+4. As teses defensivas de desclassificação para o crime do art. 28 da Lei de Drogas e aplicação do Princípio da Insignificância não foram analisadas pelo Tribunal de origem, o que impede a apreciação dessas questões diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+5. Agravo regimental não provido.
+(AgRg no HC n. 749.057/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/9/2022, DJe de 26/9/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Intimem-se.
+A referida decisão transitou em julgado em 15 de agosto de 2023.
+Assim, em se tratando de mera repetição de pedido anterior, o não conhecimento da matéria efetivamente é medida que se impõe. Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. MERA REITERAÇÃO DE HABEAS CORPUS CONEXO. WRIT INDEFERIDO LIMINARMENTE.
+1. O pedido de reconsideração apresentado pela defesa dentro do prazo legal deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade das formas processuais.
+2. O presente mandamus possui as mesmas causas de pedir e pedido do HC 754.379/SP, verificando, assim, tratar-se de mera reiteração daquele habeas corpus.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC n. 760.091/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022.)
+PENAL. AGRAVO REGIMENTAL CONTRA INDEFERIMENTO LIMINAR DE HABEAS CORPUS. ABSOLVIÇÃO QUANTO AO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO E REVISÃO DA DOSIMETRIA DA PENA. REITERAÇÃO DE PEDIDO JÁ DECIDIDO.
+1. Configurada a reiteração de pedido, está o Relator autorizado a indeferir liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+2. Agravo regimental improvido.
+(AgRg no HC n. 771.832/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, DA LEI N. 11.343/2006, E ART. 2.º, DA LEI N. 8.072/1990. PLEITO DE REDUÇÃO DA PENA E DE ABRANDAMENTO DO REGIME PRISIONAL INICIAL. REITERAÇÃO DO PEDIDO. MATÉRIA JÁ VEICULADA, COM A MESMA CAUSA DE PEDIR, NO ARESP N. 1.222.516/MG. DECISÃO DEFINITIVA DO STJ. HIPÓTESE DE INDEFERIMENTO LIMINAR DO WRIT. AGRAVO REGIMENTAL DESPROVIDO.
+- A defesa pretendeu, com o mandamus, que a pena definitiva do agravante fosse reduzida e que se abrandasse o seu regime prisional inicial.
+- O mandamus, porém, consiste em mera reiteração do pedido formulado no AREsp n. 1.222.516/MG, o qual, ademais, tinha a mesma causa de pedir.
+- Naquela oportunidade (julgamento do AgRg nos EDcl no AREsp n.º 1.222.516/MG) decidiu-se que "houve fundamentação concreta quando do não reconhecimento do tráfico privilegiado, consubstanciada na conclusão de que o recorrente se dedica às atividades criminosas, ante a apreensão de quantidade elevada de drogas e pelas demais circunstâncias que envolveram o delito, elementos aptos a justificar o afastamento do redutor do art. 33, § 4º, da Lei n. 11.343/2006".
+Outrossim, ficou decidido que, "considerando o patamar da pena definitiva que, em tese, comportaria o regime semiaberto, foi estabelecido o fechado de forma fundamentada, não havendo, portanto, ilegalidade a ser sanada.".
+- Em casos como o presente, a impetração deve ser inadmitida de plano, nos termos do art. 210, do RISTJ.
+- Agravo regimental desprovido.
+(AgRg no HC n. 762.206/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Ante o exposto, indeferi liminarmente o pedido de habeas corpus, não havendo que se falar, assim, em qualquer constrangimento ilegal, devendo a decisão agravada, entendo, ser mantida.
+Assim, diante das razões apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
