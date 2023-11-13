@@ -1,0 +1,11 @@
+DECISÃO
+ERIVAN ALVES SOBRAL e ROSEMEIRE ESTEFANI CUNHA SOBRAL ajuízam reclamação contra decisão proferida pelo Juízo da 1ª Vara criminal da Comarca de Peruibe - SP, que haveria descumprido a determinação contida nos HCs n. 807.835/SP e 807.972/SP, os quais concederam a ordem para revogar a preventiva e determinar a imposição de cautelares alternativas.
+Em suas razões, afirmam os reclamantes que embora o Juízo de primeiro grau haja imposto as medidas cautelares alternativas indicadas por esta Corte, houve o restabelecimento da constrição cautelar em razão do descumprimento delas, situação que, além de não fundamentada, não encontraria justificativa, em razão da sucessão de eventos que culminou no não comparecimento dos reclamantes à audiência de instrução e julgamento.
+Decido.
+Como reconhecem os próprios reclamantes, as decisões desta Corte foram devidamente cumpridas pelo Magistrado de primeiro grau. Na verdade, o restabelecimento da prisão preventiva se deu por possível descumprimento das medidas impostas, cuja ocorrência ou não desse fato deve ser avaliado pelas instâncias ordinárias, por meio de recurso ou instrumento próprio.
+Oportuno registrar que a diretriz adotada pelo magistrado foi ressalvada por ambas as decisão proferidas nos HCs n. 807.835/SP e 807.972/SP, que conclusivamente assinalaram: "Alerte-se à paciente que a violação das medidas cautelares importará o restabelecimento da prisão preventiva, que poderá ser novamente aplicada se sobrevier situação que configure a exigência da cautelar mais gravosa" (fl. 24).
+Não se trata, portanto, de descumprimento de determinação deste Superior Tribunal, mas de uma nova situação de fato que justificou (ao menos em tese) o restabelecimento da prisão preventiva. Assim, evidencia-se que os reclamantes pretendem obter, pela via da reclamação, uma nova avaliação dessa situação, a qual nem sequer foi submetida ao Tribunal de origem.
+Conforme entendimento desta Corte, no caso da reclamação, "é inadmissível sua utilização  ..  como sucedâneo recursal" (AgRg na Rcl n. 41.217/DF, Rel. Ministro Rogerio Schietti, DJe 19/4/2021).
+Assim, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço in limine desta reclamação.
+Publique-se e intimem-se.
+EMENTA
