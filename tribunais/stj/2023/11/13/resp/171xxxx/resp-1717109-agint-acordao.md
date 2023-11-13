@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. O Tribunal a quo decidiu a controvérsia com base em norma local, portanto, inviável o seu exame na via do recurso especial, em face da vedação prevista na Súmula 280 do STF, aplicada por analogia.
+1.1. As conclusões do aresto reclamado acerca da legitimidade estão amparadas no acervo fático-probatório constante dos autos, cuja revisão esbarra no óbice contido na Súmula 7/STJ. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por FUNDAÇÃO CESP em face da decisão acostada às fls. 1581/1585, e-STJ, da lavra deste relator, que negou provimento ao recurso especial.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 899/911):
+NULIDADE PROCESSUAL CERCEAMENTO DE DEFESA JULGAMENTO ANTECIPADO DA LIDE PRELIMINAR REPELIDA. Presentes os requisitos do art. 330 do CPC, pertinente o julgamento antecipado da lide, não configurando este fato qualquer cerceamento de defesa.
+PREVIDÊNCIA PRIVADA CTEEP COMPLEMENTAÇÃO DE APOSENTADORIA ILEGITIMIDADE PASSIVA RECONHECIDA MANUTENÇÃO. Não é a CTEEP parte legítima para figurar no polo passivo da ação que visa a devolução de contribuição paga em plano de complementação de aposentadoria, correspondente a previdência privada, mantido pela Fundação Cesp. A ex- empregadora dos autores não se confunde com a FUNDAÇÃO CESP, e nem a sucedeu na obrigação de pagar as obrigações desta, mas sim e tão somente da sucedida CESP.
+PREVIDÊNCIA PRIVADA FUNDAÇÃO CESP CESSAÇÃO E RESTITUIÇÃO DE CONTRIBUIÇÕES FEITAS PARA COMPLEMENTAÇÃO DE APOSENTADORIA "PLANO 4819" PRESCRIÇÃO TRIENAL ART. 206, § 3º, IV, DO CÓDIGO CIVIL PERTINÊNCIA. Considerando que o pedido condenatório funda-se na vedação ao enriquecimento ilícito da ré, o prazo prescricional aplicável à hipótese é o trienal, conforme disposto no art. 206, §3º, IV, do CC, mormente porque se trata de relação obrigacional de trato sucessivo, face ao desconto mensal das contribuições sobre os vencimentos dos autores, cujo termo inicial é a data da distribuição da ação.
+PREVIDÊNCIA PRIVADA FUNDAÇÃO CESP CESSAÇÃO E RESTITUIÇÃO DE CONTRIBUIÇÕES FEITAS PARA COMPLEMENTAÇÃO DE APOSENTADORIA "PLANO 4819" REQUISITOS PREENCHIDOS AUSÊNCIA DE CONTRAPRESTAÇÃO RECEBIDA POR PARTE DOS AUTORES RESTITUIÇÃO RECONHECIMENTO ENRIQUECIMENTO SEM CAUSA DA RÉ INADMISSIBILIDADE DEVOLUÇÃO DAS QUANTIAS RETIDAS INDEVIDAMENTE SENTENÇA QUE DEVE SER INTEGRALMENTE MANTIDA RECURSOS NÃO PROVIDOS. Se o benefício de complementação de aposentadoria dos ex-funcionários da CESP, admitidos antes de 1974, decorre da Lei n. 4.819/58, que era custeada pelo Estado, em havendo desconto dos valores a título de previdência privada pela Fundação CESP sobre os vencimentos e proventos dos autores para custear referido benefício, sem a respectiva contraprestação, resta configurado o enriquecimento sem causa da Fundação CESP, motivo pelo qual são considerados indevidos tais descontos, passíveis de restituição, observado o prazo prescricional.
+Embargos de declaração opostos e rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 991/1024), a fundação aponta, além de divergência jurisprudencial, ofensa aos artigos 267 inc. VI, 47, 70, inc. III do CPC/73, 202 da CF, 3º, 14 e 18, 31, 32 da Lei Complementar nº 109, de 2001.
+Sustenta, em síntese, ilegitimidade passiva da FUNCESP, a qual apenas processa a folha de benefícios em virtude de ordem da CTEEP; inexistência de contribuições vertidas para FUNCESP, não estando autorizada a devolver qualquer valor de contribuições realizadas pelo recorrido e legitimidade da CTEEP no polo passivo da demanda. Além de colacionar divergência jurisprudencial.
+O recurso especial foi inadmitido às fls. 1070, e-STJ, dando ensejo ao agravo em recurso especial.
+Em julgamento monocrático, negou-se provimento ao reclamo, por incidência das Súmulas 7/STJ quanto à legitimidade e 211 do STJ no que se refere aos arts. 3º, 14, 18, § 1º, 31 e 32, todos da LC nº 109/2001.
+Inconformada, interpôs o presente agravo interno (fls. 1588/1601, e-STJ), em síntese, sustentando a inaplicabilidade das Súmulas 211/STJ e 7/STJ.
+Impugnação às fls. 1064/1614 e 1615/1627, e-STJ.
+É o relatório.
+AgInt no RECURSO ESPECIAL Nº 1.717.109 - SP (2016/0287181-7)
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+1. O Tribunal a quo decidiu a controvérsia com base em norma local, portanto, inviável o seu exame na via do recurso especial, em face da vedação prevista na Súmula 280 do STF, aplicada por analogia.
+1.1. As conclusões do aresto reclamado acerca da legitimidade estão amparadas no acervo fático-probatório constante dos autos, cuja revisão esbarra no óbice contido na Súmula 7/STJ. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. O Tribunal de origem concluiu pela legitimidade passiva da Fundação CESP e ilegitimidade da CTEEP, bem como ter a Fundação assumido a conduta ilicita a respeito dos descontos efetuados à parte autora, nos seguintes termos (fls. 579, e- STJ):
+Quanto ao tema referente à legitimidade passiva da Companhia de Transmissão de Energia Elétrica Paulista CTEEP, deve também ser rejeitado.
+Conquanto seja ela sucessora da CESP, ex-empregadora dos autores, a ação proposta envolve exclusivamente a FUNDAÇÃO CESP, parte legítima para figurar no polo passivo, uma vez que se objetiva, in casu, a cessação e devolução dos valores descontados dos vencimentos e pensões para custeio de complementação de aposentadoria, ressaltando ser a apelante instituição que administra plano de previdência complementar, a qual recebia diretamente as contribuições, debitando-as da folha de pagamento dos apelados. Ora, o vínculo que une os autores à CTEEP, na condição de sucessora da CESP, é de natureza estritamente empregatícia, ao passo que, no concernente à Fundação CESP, a relação é de ordem previdenciária, o que se discute na presente ação.
+ ..  Ademais, nos termos do "Termo de Compromisso para Reconhecimento e Implementação de Direitos e Obrigações Celebrado Entre a CESP e a CTEESP" (fls. 505/513), a CTEEP assumiu todas obrigações da CESP a partir de 1º abril de 1999, inclusive as de natureza previdenciária, segundo dispõe a letra "g" do termo:
+"g) responder pelas obrigações de natureza trabalhista, previdenciária e correlatas, inclusive pelas ações judiciais dessa natureza, relacionadas com empregados da CESP inativos vinculados à Lei nº 4.819/58".
+Ora, apesar de, aparentemente, haver a CTEEP, na condição de sucessora da CESP, assumido as obrigações desta, de ordem previdenciária, com expressa referência à Lei nº 4.819/58, não significa que tenha, também, assumido as obrigações do instituto de previdência privada FUNDAÇÃO CESP, pelos prejuízos eventualmente por esta causados aos beneficiários de plano de previdência complementar.
+Portanto, correta a r. sentença recorrida, quanto ao reconhecimento da legitimidade passiva da Fundação CESP e afastamento da legitimidade da ex- empregadora dos autores, a Companhia de Transmissão de Energia Elétrica Paulista CTEEP.
+ ..  Entretanto, os autores alegam que a ré, até o momento, não instituiu qualquer contraprestação às contribuições por eles efetuadas e, mesmo assim, continuam a ter os descontos nas folhas de pagamento, gerando, por via de consequência, enriquecimento sem causa à apelante-ré.
+Ora, é pacífico o entendimento neste Egrégio Tribunal de Justiça que, sendo o benefício de complementação de aposentadoria decorrente da Lei nº 4.819/58, custeada pelo Estado, o desconto dos valores a título de previdência privada pela ré sobre os vencimentos e proventos dos autores para custear o mesmo benefício, sem a respectiva contraprestação, configura em enriquecimento ilícito da Fundação CESP, sendo, portanto, indevidos os descontos.
+Para se alterar tais premissas que chegou o Eg. Tribunal de origem quanto a legitimidade da ora agravante, seria necessário o revolvimento de matéria fática, o que encontra óbice na Súmula 7 do STJ, bem como esbarra ainda na Súmula 280 do STF, por ter o acórdão estadual pautado-se na Lei Estadual n. 4.819/58.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL.
+PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. CERCEAMENTO DE DEFESA. AFASTAMENTO. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. FUNDAÇÃO CESP. PRESCRIÇÃO. PRAZO DECENAL. EXISTÊNCIA DE CAUSA JURÍDICA. ENRIQUECIMENTO SEM CAUSA. PRETENSÃO. SUBSIDIARIEDADE. ILEGITIMIDADE PASSIVA AD CAUSAM. CONDUTA IRREGULAR. RESPONSABILIDADE. REEXAME DE FATOS E PROVAS. DIREITO LOCAL. SÚMULAS NºS 5 E 7/STJ E Nº 280/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível o julgamento antecipado da lide quando as instâncias ordinárias entenderem substancialmente instruído o feito, declarando a existência de provas suficientes para o seu convencimento (art. 370 do CPC/2015).
+4. A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos (art. 205 do Código Civil), seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica.
+Precedentes.
+5. Afastamento do prazo prescricional trienal inscrito no art. 206, § 3º, IV, do Código Civil, visto que a demanda não se enquadra na ação de enriquecimento sem causa ou ação in rem verso (arts. 884 e 886 do CC), de natureza subsidiária, possuidora dos seguintes requisitos: enriquecimento de alguém, empobrecimento correspondente de outrem, relação de causalidade entre ambos, ausência de causa jurídica e inexistência de ação específica.
+6. Na hipótese, o tribunal de origem, examinando a legislação local (Leis Estaduais nºs 136/1951, 1.974/1952, 4.819/1958 e 200/1974), bem como os fatos e as provas da causa, chegou à conclusão de que a Fundação CESP promovia descontos indevidos a título de contribuição a fundo de previdência complementar. Rever o entendimento quanto à legitimidade passiva ad causam e à responsabilidade pela conduta irregular encontra os óbices das Súmulas nº 280/STF e nºs 5 e 7/S TJ.
+7. Agravo interno não provido. (AgInt no AgInt no REsp 1750853/SP, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+2. Por fim, os artigos 3º, 14, 18, § 1º, 31 e 32, todos da LC nº 109/2001 não foram objeto de discussão no acórdão local.
+Com efeito, em que pese a oposição de embargos de declaração, não houve enfrentamento da matéria pelo Tribunal de origem, o que impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+Neste sentido: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+É de rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
