@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOSE APARECIDO DA COSTA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS em julgamento de apelação criminal n. 1.0000.22.132091-4/001.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 155, §§1º e 4º, II e IV, do Código Penal - CP (furto qualificado praticado durante o repouso noturno), à pena de 3 anos e 4 meses de reclusão, em regime inicial fechado, e 16 dias-multa (fl. 237).
+Recurso de apelação interposto pela defesa foi desprovido. O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL -FURTO QUALIFICADO, MAJORADO PELO REPOUSO NOTURNO -MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS -SÓLIDO CONTEXTO PROBATÓRIO -CONDENAÇÃO MANTIDA -ABRANDAMENTO DO REGIME PRISIONAL -IMPOSSIBILIDADE -REGIME ADEQUADO ÀS CONDIÇÕES PESSOAIS DO RÉU. Nos crimes contra o patrimônio, a apreensão da resna posse do agente, aliada aos demais indícios, são elementos de convicção suficientes para afastar a tese absolutória baseada na insuficiência de provas. Estabelecido regime prisional adequado às condições pessoais do acusado, multirreincidente em crimes contra o patrimônio, não há que se falar em abrandamento." (fl. 284)
+Embargos de declaração opostos pela defesa foram rejeitados. O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO -INEXISTÊNCIA DE CONTRADIÇÃO, AMBIGUIDADE, OMISSÃO OU OBSCURIDADE -TENTATIVA DE MODIFICAÇÃO DO ACÓRDÃO -INADMISSIBILIDADE -PREQUESTIONAMENTO -INVIABILIDADE. Não cabem embargos de declaração opostos com o nítido propósito de se questionar o acerto da decisão, devendo eventual irresignação contra o mérito do julgamento ser discutida em via própria. Os embargos de declaração têm os seus limites estabelecidos pelo art. 619 do CPP, sendo inadmissível o prequestionamento da matéria exposta sem que haja demonstração de qualquer dos vícios previstos no referido dispositivo legal." (fl. 328)
+Em sede de recurso especial, a defesa apontou violação ao art. 155, §1º, do CP, porque o TJ manteve a causa de aumento alusiva ao repouso noturno, desconsiderando sua incompatibilidade com a forma qualificada do furto, em contrariedade ao julgamento do REsp 1.888.756/SP, sob a sistemática dos recursos repetitivos (Tema 1087).
+Requer o provimento do recurso para excluir a causa de aumento prevista no §1º, do art. 155, do CP.
+Em juízo de retratação, nos termos do art. 1030, II, do Código de Processo Civil - CPC, o TJ, por maioria, manteve o acórdão recorrido. O acórdão ficou assim ementado:
+"JUÍZO DE RETRATAÇÃO EM SEDE DE RECURSO ESPECIAL - FURTO QUALIFICADO -INCIDÊNCIA DA MAJORANTE DO REPOUSO NOTURNO - POSSIBILIDADE - DECISÃO MANTIDA. A majorante do repouso noturno não se revela contrária às qualificadoras do crime de furto, tendo somente por objetivo exasperar a pena pela maior reprovabilidade da conduta daquele que se aproveita do período de vulnerabilidade na vigilância do patrimônio para realizar a subtração.
+V. V.: A teor do que dispõe o CPC, julgado pelo Eg. Superior Tribunal de Justiça, o Recurso Especial escolhido como paradigma e, sendo a decisão proferida por aquele Sodalício contrária ao que se decidiu no acórdão, deve a Turma reexaminar a questão, podendo manter ou alterar o entendimento manifestado. Conforme julgamento do Tema Repetitivo 1.087 pela 3ª Seção do STJ, a causa de aumento de pena prevista no parágrafo 1º do artigo 155 do Código Penal (prática de furto no período noturno) não incide no crime de furto na sua forma qualificada (parágrafo 4º)." (fl. 306)
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 354/357).
+Admitido o recurso no TJ (fls. 366), os autos foram protocolados e distribuídos nesta Corte.
+Os embargos infringentes opostos contra o acórdão que, em juízo de retratação, manteve o acórdão proferido no julgamento da apelação, foram acolhidos, por maioria, "para decotar a causa de aumento relativa ao repouso noturno" (fl. 395). O acórdão ficou assim ementado:
+"EMBARGOS INFRINGENTES - FURTO QUALIFICADO - MAJORANTE DO REPOUSO NOTURNO - PRECEDENTES DO STJ - DECOTE -NECESSIDADE.
+"A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" -Tema Repetitivo 1.087. STJ.
+V. V. A majorante do repouso noturno não se revela contrária às qualificadoras do crime de furto, tendo somente por objetivo exasperar a pena pela maior reprovabilidade da conduta daquele que se aproveita do período de vulnerabilidade na vigilância do patrimônio para realizar a subtração." (fl. 391)
+Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 418/722).
+É o relatório.
+Decido.
+O recurso especial não merece ser conhecido, dada a perda superveniente do seu objeto.
+Isso porque, conforme relatado, após a interposição do recurso especial, o TJ acolheu os embargos infringentes opostos contra o acórdão que, em juízo de retratação, manteve o acórdão proferido no julgamento da apelação, e, em consonância com o entendimento firmado neste Superior Tribunal de Justiça, no Tema 1087/STJ, decotou a causa de aumento relativa ao repouso noturno.
+Assim, considerando que o único objeto do presente recurso especial já foi alcançado no Tribunal de origem, não mais persiste interesse do julgamento do presente feito.
+Ante o exposto, com fundamento no art. 932, inc. III, do CPC, e no art. 255, §4º, I, do Regimento Interno do STJ - RISTJ, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
