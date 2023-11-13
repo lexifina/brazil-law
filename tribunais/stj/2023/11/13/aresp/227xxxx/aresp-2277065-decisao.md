@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fls. 437-438):
+APELAÇÃO. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO POR DANOS PESSOAIS. DPVAT. INOVAÇÃO RECURSAL PARCIAL. PRELIMINAR DE NULIDADE PROCESSUAL POR AUSÊNCIA DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO. REJEITADA. AUSÊNCIA DE PREJUÍZO. PRECEDENTE STJ. LAUDO PERICIAL CONFLITANTE COM LAUDO PARTICULAR EM RELAÇÃO AO MEMBRO INFERIOR LESIONADO. SENTENÇA QUE ADOTA O PERCENTUAL DEFINIDO NO LAUDO PERICIAL. MAGISTRADO QUE NÃO ESTÁ OBRIGADO A SE VINCULAR AO QUE CONSTA NOS LAUDOS MÉDICOS PARTICULARES. PERÍCIAJUDICIAL ELABORADA SOB O CRIVO DO CONTRADITÓRIO E DA AMPLA DEFESA. AUSÊNCIA DE SUBSTRATO FÁTICO OU JURÍDICO PARA RECONHECER A NULIDADE DA PERÍCIA JUDICIAL. A CORREÇÃO É DEVIDA SORE O VALOR DA DIFERENÇA A SER PAGA AO SEGURADO. RECURSO DE APELAÇÃO IMPROVIDO.
+1. O exame dos autos evidencia que o argumento de que o Seguro DPVAT não deve realizar a cobertura no caso em examine, por não tratar-se, segundo alega a Recorrente, de acidente de trânsito, não foi inserido nos pedidos iniciais, apenas incluídos na peça de Apelação, o que denota inovação recursal.
+2. Ademais, rejeitada a preliminar de nulidade arguida, vez que a intervenção do Ministério Público em segundo grau de jurisdição, sem demonstração de nulidade nem prejuízo, supre sua ausência na primeira instância, afastando-se a nulidade processo.
+3. Pela redação do art. 3º, § 1º, II, da Lei nº 6.194/74, quando se tratar de invalidez permanente parcial incompleta, como no caso, será efetuado o enquadramento da perda anatômica ou funcional na tabela anexa da Lei na forma do inciso anterior - isto é, pela invalidez parcial completa equivalente - procedendo-se, em seguida, à redução proporcional da indenização com base na repercussão da perda.
+4. Contesta o Apelante o laudo pericial realizado pelo expert designado pelo Juízo, ao argumento de que existe divergência entre os laudos apresentados pelo Autor e a pericia judicial.
+5. Ressalte-se que o Magistrado é o destinatário final da produção probatória, sendo dele a tarefa de analisar livremente as provas dos autos, sopesando as diligências necessárias ao deslinde da controvérsia, à luz dos fatos, jurisprudência e aspectos pertinentes da legislação vigente, para firmar seu convencimento e proferir Decisão fundamentada.
+6. A perícia judicial foi realizada sob o crivo do contraditório e da ampla defesa, de sorte que não se mostra razoável a predominância do laudo apresentado unilateralmente pela parte Apelante em detrimento àquela.
+7. Logo, contrariando as alegações da Apelante, foi demonstrada nos autos a relação de causa-efeito entre o acidente de trânsito e a lesão que o Apelante diz ter sofrido no membro inferior esquerdo com 50% de invalidez, consoante laudo pericial, Id. 4965269.
+8. No que toca a correção monetária deverá incidir sobre a quantia referente a complementação da indenização, nos moldes do art. 5º, §§1º e 7º, da Lei nº 6.194/74, com a redação da Lei nº 11.482/2007, como determinado na Sentença a quo.
+RECURSO DE APELAÇÃO IMPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 526-537).
+Alega a parte agravante que o acórdão recorrido não está em consonância com o entendimento deste STJ, tendo em vista que o parecer emitido pela Procuradoria de Justiça não versou sobre o mérito da demanda e não pode suprir a ausência de atuação do parquet perante o juízo de primeiro grau, razão pela qual deve ser afastada a incidência da Súmula n. 83/STJ.
+Apresentada contraminuta do agravo por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS e a SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT S.A. requerendo o provimento do recurso interposto (fls. 612-618).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Em síntese, cuida-se de ação de cobrança de diferença de seguro DPVAT interposta por S C L DA S, representado por seu genitor S R L DA S, contra a PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, objetivando a condenação da seguradora ao pagamento do seguro obrigatório DPVAT na cobertura por invalidez permanente.
+O Juízo de primeiro grau julgou procedentes os pedidos autorais (fls. 166-173).
+Quando da apreciação da apelação interposta pela PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, o Tribunal de origem negou-lhe provimento (fls. 437-457).
+Opostos embargos de declaração pelo MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA, requerendo a declaração de nulidade do acórdão recorrido, tendo em vista a ausência de intimação pessoal do órgão ministerial para intervenção no feito no Juízo de primeiro grau (fls. 462-483), foram rejeitados (fls. 526-537).
+Diante da referida decisão, o MINISTÉRIO PÚBLICO DO ESTADO DA BAHIA interpôs recurso especial.
+No recurso especial, a parte agravante aduz, preliminarmente, afronta ao art. 1.022, inciso II do CPC, por entender que o Tribunal de origem não se manifestou sobre a demonstração do prejuízo processual decorrente da ausência de intervenção do Ministério Público no processo.
+Quanto ao mérito, alega que o acórdão estadual violou o art. 279 do CPC, por entender que o feito tramitou desde a origem sem a intervenção do Ministério Público, ensejando nulidade que foi arguida oportunamente pelo parquet.
+Sustenta que a conclusão do Tribunal de origem de que a participação da Procuradoria de Justiça em segunda instância teria suprido a falta de intervenção do Ministério Público no Juízo de primeira instância está equivocada, porquanto o parecer emitido pela Procuradoria não versou sobre o mérito da demanda, mas apenas sobre a nulidade decorrente da não intervenção ministerial.
+Aduz, ainda, violação dos arts. 5º da Lei n. 7.853/89, 178, caput e inciso II e 279 do CPC, tendo em vista a existência de efetivo prejuízo.
+Por fim, alega ofensa ao disposto nos arts. 41, inciso IV da Lei n. 8.625/93 e 183, § 1º do CPC, posto que houve desrespeito à prerrogativa do órgão ministerial de que seus membros sejam pessoalmente intimados para se manifestarem nos feitos em que devam intervir.
+A agravada PORTO SEGURO COMPANHIA DE SEGUROS GERAIS e a SEGURADORA LIDER DO CONSORCIO DO SEGURO DPVAT S.A. ofereceram contrarrazões, requerendo o conhecimento e provimento do recurso especial, para que seja determinado o retorno dos autos ao juízo de origem e o Ministério Público tenha oportunidade de se manifestar (fls. 573-579).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 580-585), o que ensejou a interposição do presente agravo.
+A irresignação recursal merece parcial provimento.
+Inicialmente, não há que se falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem se manifestou sobre a alegada existência de prejuízo:
+ ..  não se verifica ter existido prejuízo para o Autor que justificasse a anulação da Sentença, sendo passível de se reconhecer a aplicação do princípio pas de nullité sans grief (não há nulidade sem prejuízo), conforme precedentes do Superior Tribunal de Justiça.
+Inclusive em suas Contrarrazões à Apelação interposta pela Seguradora, o Autor, menor, representado pelo seu genitor, aduz que a nulidade absoluta invocada pelo Ministério Público não prospera ao argumento de que não houve prejuízo ao mesmo.
+Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição. A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Quanto ao mérito, contudo, merece reforma o acórdão recorrido.
+Esta corte possui entendimento de que a falta de intervenção do órgão ministerial na primeira instância pode ser suprida pela atuação da Procuradoria de Justiça perante o colegiado de segundo grau, desde que o parecer cuide do mérito da causa e não haja arguição de prejuízo ou nulidade. A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO. COMPRA E VENDA DE IMÓVEL DE ASCENDENTE PARA DESCENDENTE. SIMULAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. PREJUDICADO. FALTA DE MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. ATUAÇÃO EM SEGUNDO GRAU. SUPRIMENTO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+ ..
+7. A não intervenção do Ministério Público em primeiro grau de jurisdição pode ser suprida pela intervenção da Procuradoria de Justiça perante o colegiado de segundo grau, em parecer cuidando do mérito da causa, sem que haja arguição de prejuízo ou alegação de nulidade. Precedentes.
+8. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.329.546/BA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023, grifo meu.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. MINISTÉRIO PÚBLICO. MANIFESTAÇÃO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. NULIDADE DE ATO PROCESSUAL. DEMONSTRAÇÃO DE PREJUÍZO. DECISÃO MANTIDA.
+ ..
+2. "A jurisprudência desta Corte Superior manifesta-se no sentido de que a não intervenção do Ministério Público em primeiro grau de jurisdição pode ser suprida pela intervenção da Procuradoria de Justiça perante o colegiado de segundo grau, em parecer cuidando do mérito da causa, sem que haja arguição de prejuízo ou alegação de nulidade" (AgInt nos EDcl no REsp n. 1.404.456/RS, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/2/2020, DJe de 13/2/2020).
+ ..
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.048.678/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023, grifo meu.)
+Ocorre que, no caso dos autos, o parecer ministerial não versou sobre o mérito da controvérsia, limitando-se a tutelar a nulidade decorrente da ausência de intimação pessoal do membro da parquet para manifestação, razão pela qual o entendimento acima exposto não deve ser aplicado e a anulação do acórdão recorrido mostra-se imperiosa, nos termos da jurisprudência desta c orte:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL RECEBIDOS COMO AGRAVO REGIMENTAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO EM PRIMEIRO GRAU DE JURISDIÇÃO. ALEGAÇÃO DE PREJUÍZO. NULIDADE PROCESSUAL RECONHECIDA.
+1. Os embargos de declaração opostos com o fito de rediscutir a causa devidamente decidida podem ser recebidos como agravo regimental, em conformidade com o princípio da fungibilidade recursal.
+2. A não intervenção do Ministério Público em primeiro grau de jurisdição pode ser suprida pela intervenção da Procuradoria de Justiça perante o colegiado de segundo grau, em parecer cuidando do mérito da causa, sem que haja arguição de prejuízo ou alegação de nulidade.
+3. Contudo, manifestando-se o órgão do Ministério Público pela ocorrência de prejuízo diante da ausência de sua intervenção em primeiro grau, impõe-se a decretação da nulidade.
+4. Embargos de declaração recebidos com agravo regimental a que se nega provimento.
+(EDcl no REsp n. 1.184.752/PI, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/10/2014, DJe de 21/10/2014, grifo meu.)
+Perceba que o acórdão recorrido mostra-se em dissonância com o entendimento consolidado nesta Corte, posto que o parecer exarado pela Procuradoria de Justiça versou unicamente sobre a nulidade decorrente da ausência de sua intervenção.
+Ante o exposto, conheço do agravo e dou parcial provimento ao recurso especial, para anular o acórdão recorrido e seus aclaratórios e determinar o retorno dos autos à origem para que se proceda à intimação do Ministério Público e ao regular andamento do feito.
+Publique-se. Intimem-se.
+ EMENTA
