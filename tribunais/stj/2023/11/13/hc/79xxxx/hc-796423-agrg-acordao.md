@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. APLICAÇÃO EM PATAMAR INFERIOR A 1/6. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. ILEGALIDADE.
+1. ""Esta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa" (AgRg no HC n. 539.585/MT, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 10/12/2020)" (AgRg nos EDcl no AREsp n. 2.139.545/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022), o que, in casu, não ocorreu, não havendo falar-se em ausência de interesse recursal.
+2. Arbitrada a sanção provisória em 1 ano e 4 meses de reclusão, e aplicada a atenuante da confissão espontânea no patamar de 1/6, totaliza a pena definitiva da ré, ora agravada, em 1 ano, 1 mês e 10 dias de reclusão.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que concedeu "o habeas corpus para (re)fixar a pena definitiva de LISIANE IARONKA MARTINS ao total de 1 ano, 1 mês e 10 dias de reclusão, mantendo-se, no mais, o acórdão condenatório" (fl. 306).
+Sustenta o agravante, em suma, que, "tendo a pena-base sido fixada no mínimo, em 1 ano de reclusão, e aumentada em 4 meses, sendo 2 meses para cada uma das duas agravantes, bem como reduzida, em seguida, em 2 meses, pela atenuante da confissão, não se verifica, como apontado pelo MPF, interesse jurídico no presente mandamus", acrescendo que "não há como prosperar o argumento de que o TJRS adotou quantum diverso de 1/6 (um sexto), uma vez que o cálculo matemático demonstra o contrário, pois a reprimenda foi aumentada e reduzida com base nessa fração, na esteira da jurisprudência dessa Corte Superior" (fl. 312).
+Requer, ao final, que "seja conhecido e provido o presente agravo regimental, reformando-se a decisão agravada e negado seguimento ao writ, por ausência de interesse recursal" (fls. 312-313).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. ATENUANTE DA CONFISSÃO ESPONTÂNEA. APLICAÇÃO EM PATAMAR INFERIOR A 1/6. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. ILEGALIDADE.
+1. ""Esta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa" (AgRg no HC n. 539.585/MT, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 10/12/2020)" (AgRg nos EDcl no AREsp n. 2.139.545/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022), o que, in casu, não ocorreu, não havendo falar-se em ausência de interesse recursal.
+2. Arbitrada a sanção provisória em 1 ano e 4 meses de reclusão, e aplicada a atenuante da confissão espontânea no patamar de 1/6, totaliza a pena definitiva da ré, ora agravada, em 1 ano, 1 mês e 10 dias de reclusão.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se desta (fls. 305-306):
+ ..  A respeito da pretensão aqui trazida, extrai-se do aresto impugnado (fl. 189):
+ ..  Com respeito ao apenamento, inafastáveis a agravantes observadas na sentença, inclusive aquela objeto da inconformidade (art. 61, inciso II, alínea "h", do Código Penal), pois objetiva a uma, pois, objetiva, e não se está diante de idade limítrofe, senão que de vítima que, ao tempo do fato, contava com sessenta e cinco anos de idade.
+Contudo, demasiado o acréscimo por elas provocado (um ano), com o que vai reduzido a quatro meses, com o que, observada a confissão espontânea (dois meses), resulta definitiva a sanção carcerária em um ano e dois meses de reclusão. ..
+Como se vê, fixou-se a basilar em 1 ano e 4 meses de reclusão, sendo que, com a incidência da atenuante da confissão espontânea, aplicou-se a fração de 1/8, tornando-se definitiva a pena no total de 1 ano e 2 meses de reclusão.
+No entanto, "" e sta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa" (AgRg no HC n. 539.585/MT, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 10/12/2020)" (AgRg nos EDcl no AREsp n. 2.139.545/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022), o que, in casu, não ocorreu.
+Logo, atribuído à pena-base o quantum de 1 ano e 4 meses de reclusão, na segunda etapa da dosimetria incide o patamar de 1/6 - confissão espontânea -, perfazendo-se o total definitivo de 1 ano, 1 mês e 10 dias de reclusão.
+Ante o exposto, concedo o habeas corpus para (re)fixar a pena definitiva de LISIANE IARONKA MARTINS ao total de 1 ano, 1 mês e 10 dias de reclusão, mantendo-se, no mais, o acórdão condenatório. ..
+A despeito do erro material constante na decisão acima, pois dito que fora "atribuído à pena-base o quantum de 1 ano e 4 meses de reclusão", sendo que tal montante resulta da etapa posterior da dosimetria, correto o cálculo referente à fração estipulada (1/6), no tocante à atenuante da confissão espontânea, uma vez que "esta Corte firmou entendimento no sentido de que é razoável a redução da pena, pela aplicação da atenuante de confissão, no patamar de 1/6. Assim, a aplicação de fração inferior a esta exige motivação concreta e idônea" (AgRg no HC n. 826.637/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe de 24/8/2023), o que, in casu, não ocorreu.
+Logo, arbitrada a sanção provisória em 1 ano e 4 meses de reclusão, e aplicada a atenuante da confissão espontânea no patamar de 1/6, totaliza a pena definitiva da ré, ora agravada, em 1 ano, 1 mês e 10 dias de reclusão.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
