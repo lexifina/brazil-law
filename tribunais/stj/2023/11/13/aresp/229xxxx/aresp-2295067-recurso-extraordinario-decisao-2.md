@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por TSUNEO KITY ATOS FIDELIS MORISHITA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 10.337-10.338):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. LAVAGEM DE DINHEIRO. ORGANIZAÇÃO CRIMINOSA. ASSOCIAÇÃO PARA O TRÁFICO. ALEGADA NULIDADE DOS ATOS DECISÓRIOS PROFERIDOS NA FASE INVESTIGATIVA. PRETENSÃO DE RECONHECIMENTO DA ILICITUDADE DAS PROVAS OBTIDAS EM BUSCA E APREENSÃO AUTORIZADA POR JUÍZO QUE DEPOIS FOI RECONHECIDO COMO INCOMPETENTE POR REGRAS DE PREVENÇÃO. RATIFICAÇÃO PELO JUÍZO COMPETENTE. TRIBUNAL DE ORIGEM AFASTOU A ALEGAÇÃO DE NULIDADE TAMBÉM POR NÃO HAVER DEMONSTRAÇÃO DE PREJUÍZO. FUNDAMETO INATACADO. SÚMULA 283/STF. PRINCÍPIO PAS DE NULITTÉ SANS GRIEF. REEXAME DE FATOS E PROVAS. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O aresto recorrido não destoa da orientação jurisprudencial desta Corte Superior, firme de que "eventuais irregularidades ocorridas na fase investigatória, dada a natureza inquisitiva do inquérito policial, não contaminam a ação penal (HC 232.674/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 10/4/2013)" (HC n. 368.217/MA, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 2/5/2017, DJe de 8/5/2017).
+2. É cediço que o princípio do juiz natural deve ser examinado com cautela na fase investigativa, sobremaneira no curso de investigações complexas em que não se mostram integralmente definidos, de plano, as imputações, os agentes envolvidos e a competência. Deste modo, é possível a ratificação de medidas cautelares autorizadas por Juízo que, em momento posterior, fora declarado incompetente. Vale frisar que, mesmo nos casos de incompetência absoluta, se admite a ratificação dos atos decisórios. Precedentes.
+3. O aresto recorrido destaca que a Magistrada sentenciante ratificou oportunamente todos os atos determinados pelo juízo tido por relativamente incompetente, validando as provas colhidas, além de não haver demonstração de prejuízo efetivamente sofrido pela parte, passível de ensejar a nulidade suscitada. Nesse contexto, verifica-se que o acórdão impugnado se assenta em mais de um fundamento suficiente a sua manutenção e o recurso não abrange todos eles, o que atrai a aplicação, por analogia, da vedação prescrita na Súmula 283/STF.
+4. Nos termos da mansa orientação jurisprudencial, não se proclama uma nulidade sem a constatação de prejuízo concreto à parte, sob pena de a forma superar a essência. Vigora o princípio pas de nulitté sans grief, a teor do que dispõe o art. 563 do Código de Processo Penal. Afora isso, entender de modo contrário ao estabelecido pelas instâncias ordinárias. para reconhecer possível prejuízo, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável nesta instância, a teor do enunciado sumular n. 7 desta Corte.
+5. Agravo regimental não provido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, LIII, da CF e aduz que há repercussão geral da matéria tratada.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 10.744).
+É o relatório.
+O STF firmou entendimento de que a discussão sobre eventual ofensa ao princípio do juiz natural, de cunho processual, tem natureza infraconstitucional, não legitimando a interposição do recurso extraordinário.
+Com efeito, em tais casos, a afronta à Constituição da República, se existente, seria indireta ou reflexa, consoante tem decidido a Suprema Corte. A propósito:
+Agravo regimental no recurso extraordinário com agravo. Direito Processual Civil. Violação do princípio do juiz natural. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+1. Não se presta o recurso extraordinário para a análise da legislação infraconstitucional.
+2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE n. 1.237.234-AgR, relator Ministro Dias Toffoli - Presidente, Tribunal Pleno, julgado em 20/12/2019, DJe de 10/3/2020.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGAÇÃO DE QUEBRA DE IMPARCIALIDADE DE DESEMBARGADOR FEDERAL. ALEGAÇÃO DE AMIZADE ÍNTIMA COM JUIZ EXCEPTO. OFENSA REFLEXA. MATÉRIA FÁTICO-PROBATÓRIA. DESPROVIMENTO.
+1. A jurisprudência desta Suprema Corte assentou que a discussão acerca de eventual violação ao princípio do juiz natural, quando o exame da pretensão recursal depender de prévia análise de normas infraconstitucionais, não admite processamento extraordinário, eis que a ofensa, se existente, seria indireta à Constituição Federal.
+2. Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos.
+3. Agravo regimental desprovido.
+(ARE n. 1.117.192-AgR, relator Ministro Edson Fachin, Segunda Turma, julgado em 23/8/2019, DJe de 3/9/2019.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO PRINCÍPIO DO JUIZ NATURAL. ART. 5º, LIII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
