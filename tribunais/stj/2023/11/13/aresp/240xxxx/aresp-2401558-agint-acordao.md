@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE AFRONTA AOS DISPOSITIVOS LEGAIS. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Cuida-se de ação de obrigação de fazer, objetivando que a requerida seja compelida a manter a autora como beneficiária de plano de saúde, após o falecimento do titular.
+2. O recurso especial interposto f oi inadmitido na origem com fundamento na ausência de afronta ao art. 1.022, inciso II, do CPC, na ausência de violação do art. 30, §§ 1º e 3,º da Lei n. 9.656/1998 e na Súmula n. 7/STJ.
+3. Incide o óbice da Súmula n . 182/STJ quando a parte agravante deixa de demonstrar as violações dos dispositivos legais indicados e a prescindibilidade do reexame fático-probatório, porquanto é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por SANTA HELENA ASSISTÊNCIA MÉDICA S.A. contra decisão monocrática proferida pela Ministra Maria Thereza de Assis Moura, por meio da qual aplicou a Súmula n. 182 do STJ (fls. 288-290).
+O recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 215):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER - Sentença de procedência da ação - Falecimento do titular do plano de saúde coletivo - Intenção da viúva de permanência no contrato coletivo empresarial - Assegurado o direito de manutenção - Precedentes dessa Câmara - Sentença mantida - RECURSO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 257-260).
+Alega a parte agravante que "a petição de Agravo em REsp abriu tópico para discorrer sobre os todos pontos levantados individualmente, trazendo fundamentos e elementos que afastam todas as alegações da decisão atacada naquele momento" (fl. 298).
+Aduz que (fl. 300):
+A questão da superficialidade da argumentação é matéria de mérito, não podendo ser comparado com ausência de alegação. Quando o magistrado não concorda com a argumentação deve ele improver o recurso, porém o conhecimento é situação que se impõe, uma vez que preenchidos todos os requisitos para o conhecimento do recurso.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, silenciou (fl. 310).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE AFRONTA AOS DISPOSITIVOS LEGAIS. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. Cuida-se de ação de obrigação de fazer, objetivando que a requerida seja compelida a manter a autora como beneficiária de plano de saúde, após o falecimento do titular.
+2. O recurso especial interposto f oi inadmitido na origem com fundamento na ausência de afronta ao art. 1.022, inciso II, do CPC, na ausência de violação do art. 30, §§ 1º e 3,º da Lei n. 9.656/1998 e na Súmula n. 7/STJ.
+3. Incide o óbice da Súmula n . 182/STJ quando a parte agravante deixa de demonstrar as violações dos dispositivos legais indicados e a prescindibilidade do reexame fático-probatório, porquanto é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de ação de obrigação de fazer interposta por MARILENA DA SILVA MORMITO contra SANTA HELENA ASSISTÊNCIA MÉDICA S.A., objetivando que a requerida seja compelida a manter a autora como beneficiária de plano de saúde, após o falecimento do titular.
+O Juízo de primeiro grau julgou procedentes os pedidos autorais, para que a autora fosse mantida como titular do plano de saúde, nas mesmaS condições em que o titular falecido figurava (fls. 154-157).
+Quando do julgamento da apelação de SANTA HELENA ASSISTÊNCIA MÉDICA S.A., o Tribunal a quo negou-lhe provimento (fls. 214-219), o que ensejou a interposição de recurso especial.
+O Tribunal de origem inadmitiu o recurso especial interposto por SANTA HELENA ASSISTÊNCIA MÉDICA S.A., por entender que: a) o acórdão recorrido não violou o art. 1.022, inciso II, do CPC; b) não foi demonstrada afronta ao art. 30, §§ 1º e 3º, da Lei n. 9.656/1998; e c) as razões recursais têm óbice na Súmula n. 7/STJ.
+No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a ausência de afronta ao art. 30, §§ 1º e 3º, da Lei n. 9.656/1998 nem a Súmula n. 7/STJ.
+A despeito da existência de tópico específico, a argumentação apresentada pela parte agravante foi demasiadamente genérica, sem demonstrar como ocorreu a violação do art. 30, §§ 1º e 3º, da Lei n. 9.656/1998, e sem evidenciar que a alteração das conclusões do acórdão recorrido quanto ao referido dispositivo legal não demandaria reanálise de fatos e provas.
+Cumpre destacar que é inviável analisar o mérito da controvérsia quando o recurso especial não ultrapassa a barreira da admissibilidade, de forma que cabe à parte agravante impugnar nas razões do agravo em recurso especial todos os óbices da decisão de inadmissão para possibilitar o conhecimento do recurso especial.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido, cito : AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
