@@ -1,0 +1,18 @@
+DECISÃO
+RAFAEL HENRIQUE JULIANI alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1501779-24.2019.8.26.0559.
+Nesta Corte, a defesa pretente a declaração da nulidade do ingresso no domicílio, com a consequente absolvição do réu, ou a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006.
+Decido.
+Inicialmente, destaco que a impetração não foi instruída com cópia do inquérito policial, o que inviabiliza a análise das circunstâncias fáticas que antecederam a entrada no domicílio do paciente e, por conseguinte, o exame da suscitada ausência de fundadas razões para a diligência ocorrida.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+No que tange à pretendida aplicação da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006, verifico que não há como ser reconhecido o benefício em favor do réu, haja vista a vedação legal expressa da concessão desse redutor tanto aos acusados possuidores de maus antecedentes, quanto aos reincidentes.
+A negativa de aplicação do redutor, na espécie, foi assim justificada no acórdão combatido (fls. 40-41, destaquei):
+Na terceira fase, foi corretamente afastada a aplicação do redutor previsto no artigo 33, §4º, da Lei nº 11.343/2006, tornando definitivas as reprimendas.
+Registre-se que o artigo em comento versa sobre a figura do "tráfico privilegiado", também conhecida como "traficância menor" ou "traficância eventual", estabelecendo a redução de pena de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas, nem integre organização criminosa.
+Assim sendo, a causa de diminuição constante no artigo 33, §4º, da Lei nº 11.343/2006 deve ser aplicada àquele que tenha praticado o delito de maneira isolada, sendo um fato atípico em sua vida, embora penalmente punível. A aplicação da causa de redução possui um caráter excepcional, quando constatado não haver dúvidas de que o réu praticou o ato de modo não contumaz e habitual.
+Apesar de Lucas ser primário, mantinha em depósito juntamente com Rafael exorbitante quantidade e variedade de drogas (482,06g de maconha, 504,14g de cocaína, e 42,47g de crack), bem como balança de precisão, a denotar que seriam individualizadas em porções menores, e postas para comercialização e consumo, circunstâncias aptas a evidenciar que estavam seriamente envolvidos com o comércio nefasto e, quiçá, com organização criminosa.
+De mais a mais, Rafael é reincidente, e foi preso em flagrante e condenado definitivamente em outra ação penal, após os fatos tratados nestes autos, igualmente por tráfico de drogas, a demonstrar, vez mais, a inaplicabilidade do privilégio.
+Como visto, foi indicada a reincidência do réu para obstar a aplicação da minorante. A jurisprudência desta Corte Superior é firme ao asseverar que "a configuração da reincidência e dos maus antecedentes impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência do cumprimento dos requisitos legais" (AgRg no AREsp n. 2.379.392/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 14/8/2023, grifei).
+Logo, não constato flagrante ilegalidade na espécie.
+À vista do exposto, conheço em parte do habeas corpus e denego a ordem.
+Publique-se e intimem-se.
+EMENTA
