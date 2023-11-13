@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo apresentado por EMPRESA MUNICIPAL DE AGUAS E SANEAMENTO SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE MANUTENÇÃO DE POSSE. TURBAÇÃO NÃO CONFIGURADA. SENTENÇA MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Trata-se de apelação interposta por sociedade de economia mista prestadora de serviço público, na Ação de Manutenção de Posse, que julgou improcedente o pedido de manutenção de posse.
+2. Quanto a alegação de tratar-se de bem público, a apelante não apresentou documento que faça prova nesse sentido, ressalta-se que por ser imóvel deveria observar a disposição contida no art.
+1.245 do CC, sobre a necessidade de escritura pública do imóvel.
+3. Nesses termos, sabe-se que, para o deferimento da proteção possessória, faz-se imprescindível a presença dos seguintes requisitos: posse anterior, pelo requerente da medida; prova da conduta praticada pelo requerido, de turbação ou de esbulho;
+data do ocorrido; e continuação da posse, embora turbada, ou sua perda, caso esbulhada. É o que dispõem os arts. 560 e 561, do Código de Processo Civil.
+4. Desta feita, conforme consignado na sentença, pelo conjunto probatório dos autos, restou demonstrado que "o imóvel usucapiendo se tratava de um terreno baldio sujo e sem destinação social, tendo a família dos acionados iniciado os cuidados há longa data e, diante do não aparecimento do proprietário, edificou no imóvel e solicitou o fornecimento do serviço de água, fixando moradia habitual no local".
+5. Portanto, restou demonstrada a posse anterior, mansa e pacifica dos apelados, não prevalecendo razões para alteração do comando sentencial (fls. 349/350).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 102 do CC, no que concerne à impossibilidade de usucapião de bem de propriedade de sociedade de economia mista que fornece exclusivamente serviço público, trazendo a seguinte argumentação:
+Isto posto, a análise deste mencionado artigo é de salutar importância, assim, na melhor linha da hermenêutica jurídica, compreende-se que não são passíveis de usucapião os bens públicos.
+Compreende-se como importante, Exas., uma vez que a EMASA é sociedade de economia mista, cujo maior percentual societário é pertencente ao MUNICÍPIO DE ITABUNA, e, para além disso, fornece, de forma exclusiva, serviço essencialmente público, que é o fornecimento e abastecimento de água no Município, bem como todo o tratamento de esgoto da rede municipal e adjacências.
+Ou seja, a Recorrente, é a responsável pela gestão da Política Municipal de Saneamento Ambiental do Município do Itabuna, consoante estabelece a Lei Municipal nº 1.455, de 28 de agosto de 1989 - Criação da Empresa Municipal de Água e Saneamento (EMASA), doc. FOLHA 06.
+Frise-se, o bem, objeto da presente lide, é parte pertencente do seu acervo patrimonial e está situado dentro de uma estação de tratamento de esgoto, cuja propriedade é da Recorrente, sendo que tal bem é necessário à continuidade do serviço público cuja destinação é exclusivamente à execução do serviço público (tratamento de esgoto).
+ ..
+Isto posto, diante de tudo que foi arguido e comprovado com as jurisprudências indicadas, não restam dúvidas que a destinação pública do bem é mais do que presumida, é real. De fato, resta demonstrado nos autos que o imóvel, objeto da lide, destina-se a prestação de serviço público essencial, eis que, está situado em uma estação de tratamento de esgoto  localizado no Bairro URBIS IV, na cidade de Itabuna-Ba. Tal imóvel presta-se para uma finalidade pública.
+É neste ponto que reside o desacerto do Acórdão, pois que, manteve a sentença recorrida, sem ater-se a especificidade de equiparação dos bens da EMASA, aos requisitos que norteiam os bens público, em detrimento da mesma exercer serviço público de forma exclusiva (fls. 382/385).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Nesses termos, sabe-se que, para o deferimento da proteção possessória, faz-se imprescindível a presença dos seguintes requisitos: posse anterior, pelo requerente da medida; prova da conduta praticada pelo requerido, de turbação ou de esbulho; data do ocorrido; e continuação da posse, embora turbada, ou sua perda, caso esbulhada.
+ ..
+Quanto a alegação de tratar-se de bem público, o apelante não apresentou documento que faça prova nesse sentido, ressalta-se que por ser imóvel deveria observar a disposição contida no art. 1.245 do CC, sobre a necessidade de escritura pública do imóvel.
+ ..
+Na mesma linha de entendimento, as fotos que instruem o Laudo pericial, demonstram tratar-se de imóvel antigo, com cultivo de frutas em arvores de grande porte, o que corrobora a residência no local por grande lapso temporal. (fls. 354/357).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
