@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por TRIANGULO DO SOL AUTO - ESTRADAS S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DE TRÂNSITO - AÇÃO INDENIZATÓRIA - VEÍCULO SOB A GUARDA DA AUTORA ATINGIDO POR OBSTÁCULO NA PISTA DA RODOVIA ADMINISTRADA PELA RÉ - RESPONSABILIDADE DELA. AINDA QUE SE TRATE DE IMPUTAÇÃO POR OMISSÃO, EM FUNÇÃO DE DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR - PROVA DO PREJUÍZO A NÍVEL PSICOLÓGICO ATESTADA EM LAUDO OFICIAL, SUBMETIDO AO CRIVO DO CONTRADITÓRIO, JUSTIFICANDO A INDENIZAÇÃO CONCEDIDA POR DANO MORAL - AINDA QUE NÃO FOSSE A AUTORA A PROPRIETÁRIA DO VEÍCULO E SOFRIDO ELE PREJUÍZOS MATERIAIS NA OCASIÃO DO EVENTO, POSSÍVEL O ACOLHIMENTO DO PEDIDO REPARATÓRIO, POSTO QUE DETINHA A SUA GUARDA E RESPONSABILIDADE PERANTE A SUA PROPRIETÁRIA - VALOR QUE SERÁ APURADO EM LIQUIDAÇÃO DE SENTENÇA, OBSERVADO O LIMITE DA PETIÇÃO INICIAL E O DA TABELA FIPE - SENTENÇA ALTERADA, RECURSO DA RÉ IMPROVIDO, COM ACOLHIMENTO PARCIAL AO DA AUTORA.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 18 do CPC, no que concerne ao reconhecimento da ilegitimidade ativa da recorrida, eis que não restou comprovado que a mesma tenha suportado os danos materiais discutidos, trazendo a seguinte argumentação:
+No presente caso, Excelências, estamos claramente diante de uma ilegitimidade ativa, cristalina, já que não há nos autos qualquer prova de que a autora/recorrida suportou danos de ordem material, havendo apenas provas de que ela conduzia o veículo, o que fere o exposto no artigo 18 do Código de Processo Civil.
+ ..
+O fato da autora ser a condutora do veículo no dia que esse foi avariado, não comprova que ela arcou com os danos materiais ocasionados.
+Não há prova alguma nos autos de que a autora tenha suportado qualquer prejuízo com a reparação do dano material alegado (fls. 308).
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 371 do CPC, no que concerne à inexistência de responsabilidade da recorrente, ante a não comprovação do nexo causal entre o dano sofrido e sua conduta, trazendo a seguinte argumentação:
+Caso não se entenda pela reforma do v. acórdão pelos motivos anteriormente postos, o que se admite apenas para argumentar, conforme se demonstrou no decorrer do processo, mormente pelo depoimento da testemunha desta Recorrente, a pretensão não merece ser acolhida, afinal, restou comprovado que a Concessionária, em hipótese alguma, deu causa aos fatos.
+ ..
+Restou claro, portanto, que a Recorrida não demonstrou na hipótese a culpa da Recorrente pelo acidente, no que se refere à falta do serviço de inspeção da pista, não demonstrando ter ela agido com imprudência, imperícia ou negligência, tampouco demonstrou o nexo causal entre o dano experimentado por ela e a prestação dos serviços delegados, a ensejar a procedência da demanda.
+No caso presente é de se verificar que estão ausentes os requisitos necessários a amparar a condenação imposta à Recorrente.
+A Recorrente mantém a estrada em ótimo estado de conservação, bem sinalizada, prestando o serviço de inspeção e fiscalização das pistas, manutenção e conservação, conforme previsto contratualmente.
+ ..
+Logo, é evidente que a conduta da Concessionária em nada contribuiu para ocorrência do evento, tendo em vista não houve no caso em tela qualquer falha da Recorrente referente à prestação de serviços de conservação e manutenção da pista, a qual está e estava devidamente sinalizada e desimpedida (fls. 309-311).
+É, no essencial, o relatório. Decido.
+Quanto à primeira e à segunda controvérsias, o Tribunal de origem se manifestou nos seguintes termos:
+Nada autoriza a reforma desta decisão quanto ao mérito da pretensão posta na petição inicial, pois não há dúvida alguma sobre a ocorrência de acidente na estrada, com danos materiais em veículo dirigido pela autora e que a ela fora confiado pela proprietária.
+Até por disposições do código de defesa do consumidor, mesmo que não se considere aqui a culpa objetiva da concessionária, não pode ser afastada a responsabilidade obrigatória da ré.
+A prova pericial médica, realizada com o crivo do contraditório, estabeleceu sim o nexo causal entre o evento e o quadro de transtorno de estresse pós-traumático da autora (fls. 203).
+Esta situação de afecção por depressão, ainda que se possa afirmar ser anterior ao acidente, não há dúvida que foi agravada em função dele.
+Por isso é que a indenização por dano moral foi bem arbitrada e não comporta qualquer alteração (fls. 300-301).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
