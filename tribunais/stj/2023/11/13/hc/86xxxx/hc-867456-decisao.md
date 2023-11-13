@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido de  liminar  impetrado  em  favor  de WILLIAN DA ROSA BASEI , em que se aponta  como  autoridade  coatora  o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL  (HC 5341115-27.2023.8.21.7000).
+O paciente foi denunciado pela suposta prática do crime de associação para o tráfico de drogas.
+A defesa alega: a) inépcia da denúncia diante da ausência dos requisitos do art. 41 CPP; b) "a denúncia não descreveu de forma específica qual teria sido a colaboração do paciente William na suposta associação, nem a forma de como se deu o ajuste prévio" (e-STJ fl. 6); c) falta de justa causa para o exercício da ação penal; d) "a denúncia ao não individualizar a conduta do paciente na dinâmica da associação para o tráfico de drogas, demonstra de maneira contundente que não se encontram presentes nenhum elemento probatório relevante e mínimo que sustenta a acusação pelo crime" (e-STJ fl. 10); e) paciente não tem maus antecedentes, é recém-formado no curso de direito e é conhecido como usuário de drogas; e f) "os elementos de prova colhidos permitem concluir em relação ao paciente, a total inexistência da prova da materialidade e indícios suficientes da autoria quanto ao crime de associação ao tráfico de drogas" (e-STJ fl. 12).
+Requer, liminar e definitivamente, deferimento da ordem para o trancamento da ação penal.
+É  o  relatório.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022).
+Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+A autoridade impetrada consignou (e-STJ fl. 20):
+No caso em comento, em que pese as razões trazidas pelo impetrante, tenho que, ao menos em um juízo de cognição sumária, quanto aos pontos em que permitida a análise neste momento, não há hipótese para trancamento do processo criminal de aplicação de medida de proteção.
+Neste sentido, saliento que a via estreita de habeas corpus não se presta à análise aprofundada do mérito, de forma que as questões relativas ao lastro probatório deverão ser objeto de discussão em sede de instrução processual.
+Do que se observa, o paciente atuava na empreitada delitiva e foi apontado como um dos responsáveis pela guarda e comercialização de entorpecentes.
+Assim, de pronto, não se cabe falar em inépcia da denúncia, não sendo possível afastar a participação do acusado na organização criminosa, de modo que sua segregação tem lastro na garantia da instrução penal e, também, na preservação da ordem pública, em razão da gravidade concreta advinda dos fatos investigados.
+No caso em comento, ao menos em um juízo de cognição sumária, quanto aos pontos em que permitida a análise neste momento, não há hipótese para trancamento do processo criminal, tampouco evidenciada nulidade que justifique a cassação da decisão proferida, a qual veio minimamente fundamentada.
+Não se constata vício na negativa do pleito liminar, sendo certo que o revolvimento das questões aventadas acarretaria supressão de instância, pois serão alvo de exame na Corte de origem quando do julgamento final.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
