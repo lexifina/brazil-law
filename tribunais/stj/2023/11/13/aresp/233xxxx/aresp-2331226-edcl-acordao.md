@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO ABSOLUTÓRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não há vícios no acórdão embargado, pois no decisum ficou consignado que a defesa, em seu agravo regimental interposto no recurso especial, não apontou as razões para a não incidência dos enunciados sumulares n. 7 e 83 do STJ, motivo pelo qual não foi conhecido em virtude da incidência da Súmula n. 182 do STJ.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WENDEL JHONATA SERAFIM opõe embargos de declaração ao acórdão de fls. 583-585, proferido por esta colenda Sexta Turma, que não conheceu do agravo regimental interposto em virtude do óbice sumular n. 182 do STJ.
+Nas raz ões recursais, a defesa aponta omissão no decisum sob o fundamento, em suma, de que "resta evidenciado o flagrante error in procedendo da decisão que manteve a inadmissão proferida, razão pela qual deve o r. decisum ser cassado de modo a dar seguimento ao Recurso Especial interposto, haja vista a ausência de óbice da Súmula 83 no presente caso." (fl. 593).
+Requer sejam acolhidos e providos os presentes embargos, a fim de que seja admitido e provido o recurso especial para a absolvição do réu.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO ABSOLUTÓRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não há vícios no acórdão embargado, pois no decisum ficou consignado que a defesa, em seu agravo regimental interposto no recurso especial, não apontou as razões para a não incidência dos enunciados sumulares n. 7 e 83 do STJ, motivo pelo qual não foi conhecido em virtude da incidência da Súmula n. 182 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A jurisprudência consolidada do Superior Tribunal de Justiça consigna que, "de acordo com o disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte" (AgRg no REsp n. 1.850.458/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2021, grifei).
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Com efeito, o decisum combatido não foi omisso ou contraditório, uma vez que ressaltou a impossibilidade de examinar o mérito do agravo interposto contra a inadmissão do recurso especial e da própria irresignação recursal, por esbarrar no óbice da Súmula n. 182 do STJ.
+Cabe lembrar que a Corte estadual inviabilizou o prosseguimento do recurso especial do recorrente, em síntese, pelo segui nte impedimento: Súmulas n. 7 e 83, ambas do STJ (fls. 882-890).
+Ressalte-se que sobre a quaestio juris, o decisum que inadmitiu o recurso especial argumentou (fls. 520-522, destaquei):
+ ..  Relativamente aos arts. 41 e 395, I, do CPP, vê-se que o entendimento adotado no acórdão vergastado - segundo o qual, "(..) A arguição de inépcia da denúncia está coberta pela preclusão quando, como na espécie, aventada após a sentença penal condenatória." - vai ao encontro de orientação firmada pelo Tribunal da Cidadania (cf. STJ, 6ª T., AgRg no HC n. 728.443/SP, Rel. Ministro Antonio Saldanha Palheiro, DJe19/8/2022), o que, por certo, faz incidir o óbice da Súmula n. 83 daquela Corte Superior, aplicável ao recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional (STJ, AgInt no AREsp 992408/SC, Relator: Min. RaulAraújo, Órgão Julgador: 4ª Turma, DJe 12/05/2017).
+Por outro lado, o exame de eventual violação aos demais dispositivos legais apontados, esbarra no óbice da Súmula n. 7 do Superior Tribunal de Justiça, uma vez que a conclusão sobre o acerto ou desacerto do acórdão vergastado demandaria incursão no acervo fático-probatório dos autos, analisando-se a pertinência das teses de desclassificação da conduta do recorrente para o delito de violação de domicílio e reconhecimento do furto na modalidade privilegiada. E isso, de forma hialina, impede o trânsito do recurso especial  .. .
+Diante de tais considerações, não existem os vícios descritos no art. 619 do CPP no aresto combatido. A inversão do julgado, no sentido de se acolher o pleito absolutório veiculado nas razões do apelo nobre, demandaria reexame dos fatos e provas que instruem o caderno processual, o que encontra óbice no enunciado sumular acima referido.
+Logo, percebo que a irresignação do embargante se resume ao inconformismo com o resultado do julgado, que lhe foi desfavorável.
+Não há fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
