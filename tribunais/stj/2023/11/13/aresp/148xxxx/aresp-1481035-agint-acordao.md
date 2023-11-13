@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+CIVIL E PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA. ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. APURAÇÃO DO VALOR DEVIDO. CRITÉRIOS ADOTADOS. NECESSIDADE DE REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode falar em violação dos arts. 489 e 1.022 do CPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. Reexaminar as conclusões quanto aos critérios adotados para apuração do valor devido demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado na via especial em razão do óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ODAIR SGARLATTA (ODAIR) contra decisão monocrática de minha relatoria assim ementada:
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022 DO NCPC. OMISSÃO INEXISTENTE. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CRITÉRIO ADOTADO NA LIQUIDAÇÃO DA SENTENÇA, COMPROVAÇÃO DO PREJUÍZO E DA SUA EXTENSÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO. (e-STJ, fl. 1.559)
+Nas razões do presente inconformismo, defendeu que (1) houve a negativa de prestação jurisdicional; e (2) a revisão do acórdão recorrido não necessita da análise do contexto fático-probatório, pois visa ao reenquadramento jurídico das premissas constantes no acórdão recorrido, evidenciando, assim, a violação dos arts. 508 e 509 do CPC.
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA. ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO. INEXISTÊNCIA. APURAÇÃO DO VALOR DEVIDO. CRITÉRIOS ADOTADOS. NECESSIDADE DE REVOLVIMENTO DA MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode falar em violação dos arts. 489 e 1.022 do CPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. Reexaminar as conclusões quanto aos critérios adotados para apuração do valor devido demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado na via especial em razão do óbice da Súmula n.º 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido
+nenhum elemento apto a infirmar as conclusões externadas pela decisão recorrida.
+(1) Da inexistência de negativa de prestação jurisdicional
+Nas razões do seu recurso especial, ALIBEM alegou ofensa aos arts. 489 e 1.022 do CPC, porque deixou o acórdão recorrido de apreciar a alegação de que a Contadoria Judicial não observou o parâmetro determinado pela decisão transitada em julgado para elaboração do cálculo, inserindo nos cálculos a compensação de valores.
+O TJDFT analisou a questão, reconhecendo a adequação dos cálculos apresentados pela Contadoria Judicial aos parâmetros estabelecidos no título judicial transitado em julgado. Confira-se:
+Como se verifica, houve determinação expressa para que os cálculos fossem realizados em observância aos parâmetros estabelecidos no acórdão exequendo e na decisão de fls. 1263/1264, a qual excluiu a discussão sobre reserva matemática ou reserva de poupança, sob pena de violação à coisa julgada.
+De outro lado, o pedido formulado na inicial assim dispôs (fl. 09):
+"DO PEDIDO Ante o exposto, é a presente para requerer o quanto se segue:
+I. determinar a citação da Ré, via postal, no endereço declinado no preâmbulo da presente para que, querendo, venha oferecer defesa, sob pena de revelia e confissão esperando julgamento procedente da ação, condenando-a a pagar o valor referente às diferenças de valores, decorrentes das atualizações não aplicadas, durante todo o período de contribuição, em especial nos períodos supra descritos, sobre o saldo das contribuições, tudo acrescido de juros e atualização monetária, a ser apurada em liquidação de sentença;"
+Cotejando o pedido inicial com os cálculos apresentados pela i. Contadoria de fls. 1278/1282 complementados à fl. 1300, extrai-se que houve a atualização da contribuição devidamente corrigida pelo IPC no período e nos percentuais apontados na petição inicial até a data em que houve migração para o novo plano de benefícios ofertado pela Sistel (plano PBS), nos termos da sentença (fls. 670/680) que se deu em 01/11/2000.
+Portanto, a r. sentença não extrapolou o limite do julgado, que determinou a atualização de todo período de contribuição até a data da migração para o novo plano de previdência, considerando o índice que melhor refletisse a inflação, ou seja, o IPC.
+Equivale dizer que o juízo monocrático decidiu consoante o pedido inicial, em atenção ao acórdão exequendo (fls. 753/766) e à decisão de fls. 1263/1264, de forma que não houve violação aos parâmetros estabelecidos. (e-STJ, fls. 1.443/1.444)
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando a rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PENHORA. SUBSTITUIÇÃO. ROL DO ART. 835 DO CPC/2015. TAXATIVIDADE MITIGADA. PRINCÍPIO DA MENOR ONEROSIDADE. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte em embargos declaratórios, cuja rejeição, nessas condições, não implica contrariedade ao art. 1.022, I e II, do CPC/2015. Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, do CPC/2015, ao dispor que "não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador", não significa que o julgador tenha que enfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueles levantados que sejam capazes de, em tese, negar a conclusão adotada pelo julgador" (EDcl nos EREsp 1.523.744/RS, relator Ministro Og Fernandes, Corte Especial, julgado em 7/10/2020, DJe 28/10/2020). (..)
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.246.617/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Da ofensa a coisa julgada
+ODAIR apontou ofensa ao art. 509, § 4º, do NCPC, por ter sido adotado critério diverso daquele previsto na sentença para a apuração do valor devido, em evidente afronta a coisa julgada.
+Ao apreciar a questão, o TJDFT entendeu que o cálculo apresentado pelo perito observou a contento as diretrizes traçadas para a apuração do valor devido. Veja-se:
+A controvérsia cinge-se à existência de saldo em favor do exequente/apelante, em virtude do cumprimento de sentença do v. acórdão (fls. 753/766) que condenou as empresas rés/executadas a pagarem a complementação previdenciária mensal, devidamente corrigida pelo IPC no período e nos percentuais apontados na petição inicial, com a incidência de juros de mora a partir da citação.
+Por outro lado, ao se instaurar o .procedimento de liquidação de sentença, em análise à impugnação ao cumprimento de sentença, os autos foram remetidos à Perícia Judicial para esclarecimentos sobre a reserva de Poupança ou .
+reserva matemática, conforme se extrai da decisão: (fls. 1144/1145):
+"Com efeito, o resumo de cálculo que acompanha o pedido de cumprimento de sentença é insuficiente para a análise das alegações contidas na impugnação, pois dela não se pode aferir a base de cálculo utilizada pelo Exeqüente para se alcançar a quantia de R$ 183.003,04.
+Ademais, é razoável o argumento de que se o valor da "Reserva de poupança" à época, corrigido pelos índices fixados na sentença, fosse igual ou inferior ao valor efetivamente migrado, não haverá que se falar em devolução.
+Por outro lado, não há que se falar em coisa julgada, uma vez que, na sentença, foi determinada a correção monetária do saldo das contribuições pessoais, conforme índices determinados, e não "a devolução em duplicidade desses valores, sob pena de legitimar o enriquecimento ilícito do requerente.
+Diante disso, verifico que o ponto crucial para o deslinde da questão é justamente saber se a "Reserva de Poupança", caso corrigida conforme índices determinados na sentença até novembro de 2000 superava o valor migrado para o novo plano, única hipótese em que o requerente lograria proveito econômico.
+Assim, em face da existência de divergência das partes acerca dos valores apresentados como valor da dívida, nomeio perito do Juízo o Dr. LUCIO LUIZ GOMES, para realização de perícia no prazo de 30 dias.
+ ..
+Em resposta ao comando judicial (decisão de fls. 1144/1145), a il. perita manifestou que "concluído o trabalho, esta perita apurou a inexistência de diferenças devidas pelo fato de que a reserva de poupança recalculada pelos índices determinados mostra-se inferior ao valor migrado para o plano Visão Prev. Portanto, o valor que foi depositado em juízo a título de garantia de execução, no valor de R$ 302.434,67, em 10/03/2014 deverá ser devolvido à Requerida como devolução de excesso de garantia depositada em juízo. Os valores acima descritos estão atualizados até 10/03/2014, data do depósito judicial" (fls. 1213/1228).
+Por sua vez, os autos foram remetidos à douta Contadoria Judicial para a apuração de eventual existência de crédito remanescente em favor do exequente, sob os parâmetros definidos no acórdão exequendo e na decisão a seguir transcrita (fls. 1263/1264), revogando-se parte da decisão de fls. 1144/1145, sobre a discussão se reserva matemática ou reserva de poupança:
+Decisão interlocutória proferida à fl. 1263/1264:
+"A impugnação apresentada pela Sistel pretende inserir na lide elemento novo que não foi objeto da ação de conhecimento, qual seja, a necessidade de se conferir se o valor recalculado das contribuições vertidas, pela aplicação dos índices definidos na decisão exequenda, mostra-se ainda inferior àquele transferido e pago ao Impugnado, no ano de 2000, quando de sua opção pela migração do Plano de Benefícios da Sistel ao Plano Visão Telesp.
+A questão afeta à migração de plano e a possível quitação da obrigação de corrigir monetariamente a reserva matemática formada pelas contribuições não foi aventada em fase de conhecimento, não podendo, agora, ser colocada em discussão a pretexto de ser tema afeto aos cálculos aritméticos, sob pena de violação à coisa julgada.
+Vale dizer que o entendimento consagrado no art. 474 do antigo CPC agora consta do art. 508 do novo CPC, segundo o qual "Transitada em julgado a decisão de mérito, considerar-se- ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido." Registre-se que o laudo pericial encontra-se em conformidade ao determinado na decisão de fls. 1144/1145. Contudo, revendo posicionamento adotado em referido decisão, entendo não ser possível apreciar o tema trazido em impugnação sob pena de violação à coisa julgada.
+Razão assiste à impugnante, contudo, quando se insurge contra a prática de capitalização de juros.
+Ante o exposto, acolho apenas em parte a impugnação de fls. 1082/1087 para determinara exclusão da Capitalização de Juros do valor devido.
+Remetam-se os autos para a Contadoria para que elabore o cálculo do valor devido ao Exequente em conformidade ao que restou definido no acórdão exequendo e nesta decisão." (grifei)
+ ..
+Como se verifica, houve determinação expressa para que os cálculos fossem realizados em observância aos parâmetros estabelecidos no acórdão exequendo e na decisão de fls. 1263/1264, a qual excluiu a discussão sobre reserva matemática ou reserva de poupança, sob pena de violação à coisa julgada.
+ ..
+Cotejando o pedido inicial com os cálculos apresentados pela i. Contadoria de fls. 1278/1282 complementados à fl. 1300, extrai-se que houve a atualização da contribuição devidamente corrigida pelo IPC no período e nos percentuais apontados na petição inicial até a data em que houve migração para o novo plano de benefícios ofertado pela Sistel (plano PBS), nos termos da sentença (fls. 670/680) que se deu em 01/11/2000.
+Portanto, a r. sentença não extrapolou o limite do julgado, que determinou a atualização de todo período de contribuição até a data da migração para o novo plano de previdência, considerando o índice que melhor refletisse a inflação, ou seja, o IPC.
+Equivale dizer que o juízo monocrático decidiu consoante o pedido inicial, em atenção ao acórdão exequendo (fls. 753/766) e à decisão de fls. 1263/1264, de forma que não houve violação aos parâmetros estabelecidos (e-STJ, fls. 1.436/1.444).
+Nesse contexto, reexaminar as conclusões quanto aos critérios adotados para apuração do valor devido demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula n.º 7 do STJ.
+A propósito, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE DEIXOU DE ACOLHER IMPUGNAÇÃO AO CÁLCULO DE LIQUIDAÇÃO. ALEGAÇÃO DE RELATIVIZAÇÃO DA COISA JULGADA E EXCESSO DE EXECUÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DA CAUSA. DESCABIMENTO. SÚMULA 7/STJ.  .. . RECURSO DESPROVIDO.
+1. O Tribunal de origem afastou as pretensões de relativização da coisa julgada, no tocante à apuração do valor da dívida, e de excesso de execução, com base na análise do acervo fático-probatório da causa, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da súmula 7 desta Corte.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 932.488/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 27/9/2018)
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
