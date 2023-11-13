@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por VIARONDON CONCESSIONÁRIA DE RODOVIA S/A em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+Processual Civil. Ação anulatória. Recurso de apelação. Razões recursais dissociadas do quanto decidido na r. sentença. Recurso não conhecido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação ao artigo 932, III, e parágrafo único, do CPC, sob o argumento de que o acórdão recorrido deixou de conhecer do recurso de apelação sustentando haver vício insanável, mas não houve a abertura de prazo - e o próprio v. acordão reconhece não ser o caso de ser oportunizada a chance de retificação, deixando de intimar a recorrente para que sanasse o vício, conforme determina o dispositivo legal invocado.
+A inadmissão do recurso especial se fez à consideração de que os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7/STJ.
+Nas razões de agravo postula o processamento do recurso especial haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A insurgência não merece prosperar.
+Cuida-se, na origem, de recurso de apelação que não restou conhecido em virtude de ofensa ao princípio da dialeticidade.
+Com relação ao princípio da dialeticidade, o acórdão recorrido, no julgamento dos embargos de declaração, assim fundamentou (e-STJ fls. 793/795):
+(..)
+A autora recorreu, mas por ocasião do julgamento a Turma Julgadora pontuou ser caso de não conhecimento, com pertinente análise das razões pelas quais entendeu ausente pressuposto objetivo de admissibilidade.
+Como se pontuou, as razões recursais vieram absolutamente dissociadas do quanto julgado no I. Juízo de origem, circunstância inadmissível pelo vigente sistema processual civil, pois o apelante deve atacar, especificadamente, os fundamentos da sentença que deseja rebater, mesmo que, no decorrer das razões, utilize-se, também, de argumentos já delineados em outras peças anteriores. No entanto, só os já desvendados anteriormente não são por demais suficientes, sendo necessário o ataque específico á sentença, além de ser imperioso venham as razões do recurso deduzidas a partir do provimento judicial recorrido, e devem profligar os argumentos deste, insubstituíveis (as razões) pela simples referências a atos processuais anteriores, quando a sentença inexistia, ainda.
+Reedito nada ter sido referido nas razões de apelação acercado cerne da fundamentação do I. Juízo de origem, vale dizer, acerca da improcedência do pleito anulatório da multa fixada no Termo de Aplicação de Penalidade (TAP. DIN.0300/19 - págs. 172/173), atinente a situação de não conclusão, injustificada, de melhoria do dispositivo do km 535 000 (tipo 8), não concluída até a data de 06/05/2015, conforme cronograma físico-financeiro vigente.
+Confira-se ter a apelante insistido no apelo com questões sobre descabimento de aplicação da penalidade referente à inoperância injustificada de 5 (cinco) equipamentos de controle de velocidade (radares estáticos) no dia25/12/2017, justificada a conduta por ter havido incidência pluviométrica, além de aduzir ter inexistido defesa da motivação do ato administrativo e suscitação de fato novo em contestação, hipóteses absolutamente diversas da aqui sob análise.
+Não fosse isso suficiente, postulou decreto de nulidade da r. sentença, ante indeferimento de prova pericial e por ser decisum apoiado em falsa premissa de que a Apelante não teria requerido a produção de prova, mas, como constou no julgamento ora embargado, da situação relatada nas razões recursais não se cuidou, porquanto, neste processo, asseverou a recorrente ser evidenciada a desnecessidade de produzir provas além daquelas já carreadas aos autos com a petição inicial (pág. 699).
+Essas as objetivas razões pelas quais não se conheceu da apelação, descabido à ora embargante pleitear prazo para adequar as razões recursais, porquanto, não se descure, à hipótese sobre análise não incide o artigo 932 do Código de Processo Civil:
+(..)
+Do excerto depreende-se que a Corte local entendeu pela ofensa à dialeticidade comparando excertos da sentença e do recurso de apelação, concluindo que as razões recursais estavam absolutamente dissociadas do quanto julgado no I. Juízo de origem, circunstância inadmissível pelo vigente sistema processual civil.
+Dessa forma, contrariar a conclusão do aresto combatido conforme a pretensão recursal de que era caso de vício sanável, exigiria o reexame do acervo fático-probatório dos autos, providência inviável nessa seara recursal a teor da Súmula n. 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA DIALETICIDADEEM APELAÇÃO. ANÁLISE DE SUA OBSERVÂNCIA.IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. " E mbora a mera reprodução da petição inicial nas razões de apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 514, II, do CPC/1973, atual art. 1.010, II, do CPC/2015". (AgInt no REsp 1735914/TO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/8/2018, DJe de 14/8/2018)
+2. Analisando o acórdão proferido na origem, verifica-se que a Corte local manifestou compreensão no sentido de que "..as razões recursais não atacam os fundamentos da sentença, de modo que, desrespeitado, na hipótese, o princípio da dialeticidade recursal, o presente recurso não pode ser conhecido, por lhe faltar requisito indispensável à regularidade formal".
+3. Nota-se, pois, que a Corte local entendeu que houve afronta ao princípio da dialeticidade, uma vez que não foram devidamente impugnados os fundamentos da decisão então combatida.
+4. A revisão de tal posicionamento não se mostra viável em recurso especial, pois tal providência demandaria reincursão no acervo fático-probatório dos autos, esbarrando, assim, no óbice na Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1630091/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+Ainda que assim não fosse, cumpre asseverar que é firme o entendimento no STJ de que "o prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade". (AgInt no AREsp n. 1.896.846/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 23/9/2021).
+Também nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. PETIÇÃO INCOMPLETA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. REEXAME DO CONJUNTO FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. O acórdão de origem reconheceu que as razões de apelação protocoladas não preencheram os requisitos do art. 1.010 do CPC, pois ausentes as razões do pedido de reforma e o pedido de nova decisão.
+2. Afastar as conclusões do aresto impugnado quanto ao fato de que na petição apresentada não há pedido de reforma e pedido de nova decisão demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula n. 7/STJ.
+3. É firme o entendimento de que "o prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da intempestividade". (AgInt no AREsp n. 1.896.846/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/9/2021).
+Agravo interno improvido."
+(AgInt no AREsp n. 1.990.435/SP, relator Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 26/6/2023, DJe de 28/6/2023, g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. QUINTA-FEIRA QUE ANTECEDE A SEXTA-FEIRA SANTA E EMENDA DO FERIADO DE TIRADENTES. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. NECESSIDADE. ENTENDIMENTO DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A quinta-feira que antecede a Sexta-Feira Santa não é feriado nacional, e, caso haja lei estadual ou municipal ou mesmo ato administrativo da Corte, a suspensão do expediente forense deve ser comprovada.
+2. A emenda do feriado de Tiradentes é considerado feriado local, sendo necessária a apresentação de documento comprovando sua ocorrência ou a suspensão do prazo processual na justiça de origem, sob pena de se considerar intempestivo o recurso interposto.
+3. O prazo conferido pelo parágrafo único do art. 932 do NCPC somente é aplicável aos casos em que seja possível sanar vícios formais, como ausência de procuração ou de assinatura, e não à complementação da fundamentação ou de comprovação da tempestividade.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.282.972/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/8/2023, DJe de 24/8/2023, g.n.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento, e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil.
+Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO. RAZÕES DISSOCIADAS E INAPTAS DE INFIRMAR OS FUNDAMENTOS DA SENTENÇA. PRINCÍPIO DA DIALETICIDADE DESCUMPRIDO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
