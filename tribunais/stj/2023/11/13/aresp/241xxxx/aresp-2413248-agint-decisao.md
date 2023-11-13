@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interno interposto por ELIANA ATTINI PALMIERI contra decisão da Presidência desta Corte proferida nos seguintes termos (e-STJ, fls. 943-945):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+( )
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Em suas razões, a insurgente alega que impugnou todos os argumentos da decisão proferida pela Presidência do TJSP ao inadmitir o recurso especial, principalmente o óbice da Súmula 7/STJ.
+Pleiteia a reconsideração da decisão agravada.
+Impugnação apresentada (e-STJ, fls. 957-969 e 970-978).
+De fato, observa-se que houve impugnação devida aos fundamentos do decisum que inadmitiu o recurso especial, ainda que sucintamente, razão pela qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 943-945 (e-STJ) .
+Passo ao exame do agravo em recurso especial.
+Na origem, Eliana Attini Palmieri propôs ação de indenização por danos materiais e morais contra Europ Assistance Brasil Serviços de Assistência S.A. e outra, em razão da falha na prestação dos serviços previstos no seguro viagem contratado, causando-lhe enorme desgaste físico e mental. O Magistrado de primeiro grau julgou parcialmente procedente o pedido e condenou as requeridas ao pagamento de danos materiais no montante de R$ 16.316,67 (dezesseis mil, trezentos e dezesseis reais e sessenta e sete centavos), além da indenização a título de danos morais fixados em R$ 10.000,00 (dez mil reais).
+Interpostos recursos de apelação por Eliana Attini Palmieri e Europ Assistence Brasil Serviços de Assistência, a Décima Terceira Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao apelo da autora e deu parcial provimento ao recurso da requerida, nos termos da seguinte ementa (e-STJ, fl. 814):
+DANO MORAL e MATERIAL Contrato de Seguro Viagem Internacional Falha na prestação de serviço - Parcial Procedência Inconformismo das partes Preliminares de cerceamento de defesa e nulidade de sentença que restaram rejeitadas Esclarecimentos de eventuais vícios no laudo pericial e realização de perícia psicossocial que se mostra desnecessário para formar a convicção do magistrado Relação de consumo - Ônus da prova que competia aos réus, nos termos do artigo 6º, inciso VIII, do Código de Defesa do Consumidor Falha na prestação de serviço que restou comprovada Inobservação à recomendação médica que autorizava o retorno da autora ao Brasil, obrigando a permanecer fora do país por mais de 15 dias Ausência de justificativa para a negativa da prestação do serviço contratada - Dano moral caracterizado Indenização fixada que se mostra compatível com o erro e suficiente para inibir novos ilícitos Despesas materiais parcialmente comprovadas Necessidade de redução do valor a ser ressarcido Aplicação da regra prevista no art. 85, §11, do CPC - Sentença parcialmente reformada Recurso da autora negado e da ré parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 839-843).
+Nas razões do recurso especial (e-STJ, fls. 845-858), com fulcro na alínea a do permissivo constitucional, alegou a insurgente violação aos arts. 371, 473, IV, 489, § 1º, III, e 1.022, parágrafo único, II, do CPC/2015,
+Sustentou, em síntese, negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação no acórdão recorrido quanto ao cerceamento de defesa pelo indeferimento da produção de prova pericial, que gerou uma fixação de dano moral em quantia insuficiente.
+Alegou a nulidade da sentença, pela ausência de respostas aos quesitos formulados pela recorrente e de intimação do perito para resposta dos quesitos suplementares.
+Defendeu estar devidamente comprovada a ocorrência de dano material indenizável, sob o argumento de que "Bru Palmeiri" e a autora são a mesma pessoa e que as despesas telefônicas foram feitas pela irmã da recorrente (por sua empresa) em benefício da prejudicada, buscando o cumprimento do seguro saúde por parte das recorridas.
+Contrarrazões apresentadas às fls. 864-872 e 874-893 (e-STJ).
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assinala-se que as instâncias ordinárias expressamente enfrentaram todas as questões suscitadas pela recorrente, de forma clara e fundamentada, tratando-se, na verdade, de pretensão de novo julgamento das matérias.
+Confira-se o seguinte excerto do acórdão recorrido (e-STJ, fls. 818-819, sem grifo no original):
+Inicialmente, cabe esclarecer, que inexiste o alegado cerceamento de defesa, conquanto as provas se destinam a formar a convicção do magistrado, e eventual prova pericial, não tem o condão de se sobrepor a prova documental apresentada.
+"sendo o juiz o destinatário da prova,somente a ele cumpre aferir sobre a necessidade ou não de sua realização" (TFR-5ª Turma, Ag. 51.774-MG, rel. Min. Geraldo Sobral, j.27.02.89, negaram provimento ao agravo,v. u., DJU 15.5.89, p.7.935).,
+(..)
+Os documentos apresentados pela autora se mostraram suficientes para o deslinde da ação, sendo desnecessária nova perícia para a avaliação psicossocial da autora, até porque, os fatos ocorreram há mais de 05 anos.
+Os esclarecimentos solicitados pela autora a fim de sanar eventuais vícios no laudo, também não se mostram úteis para o sentenciamento do feito, posto que a conclusão apresentada no laudo pericial, também se mostrou suficiente para formar a convicção do magistrado.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+(..)
+3. O órgão julgador não é obrigado a se manifestar sobre todos os pontos alegados pelas partes, mas somente sobre aqueles que entender necessários para a sua decisão, de acordo com seu livre e fundamentado convencimento, não caracterizando omissão ou ofensa à legislação infraconstitucional o resultado diferente do pretendido pela parte. Precedentes.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.015.401/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se comprovada suficientemente nos autos por outros elementos.
+É preciso frisar que a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. DANO MORAL. PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. FALHA RECONHECIDA NA ORIGEM. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. QUANTUM INDENIZATÓRIO. ADEQUADO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias, motivadamente.
+2. O Tribunal de Justiça entendeu que as provas documentais e técnicas carreadas aos autos eram mais do que suficientes para a prolação da sentença, dispensando a produção de outras.
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em recurso especial quando irrisório ou exorbitante. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$ 20.000,00 (vinte mil reais), visto que não é exorbitante nem desproporcional aos danos sofrido pelo recorrido, em razão de erro de diagnóstico e tratamento realizado sem sucesso em dedo anelar da mão dominante, que resultou em perda da flexibilidade, da extensão e apresentação de deformidade.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.287.668/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. DANOS MORAIS. PROCEDIMENTO DERMATOLÓGICO. NEGLIGÊNCIA DEMONSTRADA. PROVA PERICIAL. FACULDADE DO MAGISTRADO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. VALOR DA INDENIZAÇÃO. REDUÇÃO. NÃO CABIMENTO. RAZOABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A determinação para realizar provas é uma faculdade do magistrado, incumbindo-lhe sopesar sua necessidade e indeferir diligências inúteis, protelatórias ou desnecessárias.
+3. Na espécie, rever a conclusão da Corte de origem - de que configurado o dano moral indenizável - demandaria o revolvimento do acervo fático-probatório dos autos, procedimento obstado pelo disposto na Súmula nº 7/STJ.
+4. O Superior Tribunal de Justiça entende que possível a alteração do valor fixado a título de danos morais apenas nas hipóteses em que o valor arbitrado pelo acórdão impugnado se mostrar irrisório ou exorbitante, não sendo esse o caso dos autos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.918.898/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/12/2022, DJe de 9/12/2022.)
+Assim, concluindo o Tribunal a quo pela desnecessidade de produção da prova e esclarecimentos pelo perito pleiteada pela parte, descabe ao STJ rever esse posicionamento, ante a incidência da Súmula 7/STJ.
+Em relação à indenização dos danos materiais, o Tribunal originário assim se manifestou (e-STJ, fls. 823-824, sem grifo no original):
+Em relação aos danos materiais, melhor sorte assiste ao réu apelante.
+Isso porque, para que haja o ressarcimento de valores, deve haver a efetiva comprovação das despesas pagas pela parte prejudicada.
+Todavia, no caso, analisando cada documento apresentado, entendo que os de fls.129/130, não se mostram suficientes para exigir o ressarcimento por parte dos réus, pois a reserva da casa feita junto ao site do AIRBnB consta em nome de Bru Palmieri e não da autora.
+A autora não anexou qualquer documento ao feito que comprove a informação de que se trata de seu nome nas redes sociais ou que pudesse vinculá-la do documento que deve, portanto, ser excluído da planilha apresentada.
+O mesmo raciocínio se aplica para as ligações telefônicas anexadas às fls.131/138, pois a titular da linha consta em nome da empresa Nefi Nucleo de Ensino de Frances e Inglês Ltda Epp.
+Apesar de constar ligações internacionais, não há qualquer descrição pormenorizada do destino de cada uma delas, devendo, portanto, serem excluídas do cálculo de restituição.
+Por fim, em relação às despesas realizadas naquele país, observa-se que os documentos de fls.139 e 142, são de datas anteriores ao acidente (27.11.17) e portanto, não podem ser cobradas dos réus.
+Todas as demais quantias informadas se mostram comprovadas e se mostram vinculadas ao período que esteve em Londres, sendo que cabia aos réus comprovarem que as despesas apontadas teriam sido pagas por eles, o que de fato, não ocorreu.
+Assim, a parcial procedência deve ser mantida, determinando apenas que sejam excluídos do dever de ressarcimento os valores de R$ 1.541,08, de R$ 10.186,00e de 35,09 libras.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo, mediante juízo de reconsideração, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 800,00 (oitocentos reais), suspensa a exigibilidade em razão do deferimento do benefício da gratuidade de justiça.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ PARA NOVA ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. 2. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO VISLUMBRADA. 3. INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. 4. DESPESAS MATERIAIS PARCIALMENTE COMPROVADAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
