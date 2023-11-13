@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interposto por LOTE 01 EMPREENDIMENTOS S.A. e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de LOTE 01 EMPREENDIMENTOS S.A. e OUTRO, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento (fls. 441/455).
+Veja-se que, contra uma mesma decisão, a parte recorrente apresentou recurso especial (fls. 441/455) sem o devido preparo e, posteriormente, outro recurso especial (fls. 456/470) com o preparo de fls. 471/472.
+Assim, impõe-se o não conhecimento do segundo recurso especial, tendo em vista a preclusão consumativa, bem como o princípio da unicidade recursal. Nesse sentido, EDcl no AgInt no AREsp1832666/GO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma,DJe de 31/03/2022; EDcl no AgInt no REsp 1905229/PR, relator Ministro Gurgel de Faria, Primeira Turma, Dje de 22/03/2022.
+Dessa forma, a parte juntou a guia de recolhimento e o respectivo comprovante de pagamento de forma simples, antes de o Tribunal de origem proceder à intimação para o recolhimento em dobro, previsto no § 4º do art. 1.007 do Código de Processo Civil.
+Percebido, no STJ, essa irregularidade no recolhimento do preparo, a parte, foi intimada para sanar referido vício, nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, porém, não regularizou, limitando-se a alegar que o preparo estava regular.
+Assim, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso (fls. 441/455), as custas eram devidas em dobro. Note-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+ EMENTA
