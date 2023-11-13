@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. REFERÊNCIA GENÉRICA AOS ANTECEDENTES CRIMINAIS. INOVAÇÃO RECURSAL.
+1. Apresentada fundamentação que se mostra idônea para a custódia cautelar, revelada na necessidade de resguardar a ordem pública diante da gravidade concreta da conduta e da reiteração delitiva.
+2. A reiteração delitiva constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 24/6/2014.
+3. O pleito relativo à necessidade de o Juízo de primeiro grau especificar no decreto prisional os delitos a que o acusado responde em outros processos criminais não foi previamente suscitado nas razões do recurso em habeas corpus, não podendo dele se conhecer, nesta via, por configurar indevida inovação recursal.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão (fls. 138-140), que negou provimento ao recurso em habeas corpus.
+Busca-se a revogação da prisão preventiva.
+Alega o agravante que "é ilegal a prisão preventiva que teve a necessidade justificada pela existência genérica de outros processos criminais em desfavor do acusado, sem especificar quais os crimes, a fim de demonstrar a real e concreta periculosidade do acusado" (fl. 153).
+Aponta ainda que a prisão cautelar se baseou, inidoneamente, na gravidade abstrata do delito e que o Tribunal local não poderia suprir a ausência de motivação do decreto prisional proferido pelo juiz singular.
+Requer a submissão do recurso à apreciação da Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. REFERÊNCIA GENÉRICA AOS ANTECEDENTES CRIMINAIS. INOVAÇÃO RECURSAL.
+1. Apresentada fundamentação que se mostra idônea para a custódia cautelar, revelada na necessidade de resguardar a ordem pública diante da gravidade concreta da conduta e da reiteração delitiva.
+2. A reiteração delitiva constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 24/6/2014.
+3. O pleito relativo à necessidade de o Juízo de primeiro grau especificar no decreto prisional os delitos a que o acusado responde em outros processos criminais não foi previamente suscitado nas razões do recurso em habeas corpus, não podendo dele se conhecer, nesta via, por configurar indevida inovação recursal.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada foi assim proferida (fls. 138-140):
+Trata-se de recurso em habeas corpus interposto contra acórdão assim ementado:
+HABEAS CORPUS - PRISÃO PREVENTIVA - ROUBO QUALIFICADO (ART. 157, § 2º, INCISO II, DO CP) - PRESSUPOSTOS E FUNDAMENTOS AUTORIZADORES DA PRISÃO PREVENTIVA (ART. 312 DO CPP) - PRESENÇA DE INDÍCIOS DA MATERIALIDADE E DA AUTORIA - SUBSISTÊNCIA DA NECESSIDADE DA MEDIDA EXTREMA PARA A GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - PELA DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME.
+Consta dos autos que os recorrentes foram presos preventivamente como incursos no art.157, § 2º, II, do CP.
+No presente recurso, sustenta a defesa que a decisão que decretou a prisão preventiva carece de fundamentação idônea, estando ausentes os pressupostos autorizadores da segregação cautelar.
+Menciona ser cabível a fixação de cautelares menos gravosas.
+Requer, liminarmente e no mérito, o provimento do recurso para revogar a prisão preventiva, com ou sem a imposição de medidas cautelares substitutivas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame "in limine" pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Segundo consta do julgado, a decisão que decretou a prisão preventiva foi proferida com base nos seguintes fundamentos (fl. 81):
+(..)
+Diante da narrativa fática, em que pese o esforço legislativo no sentido de conferir alternativas à perda provisória da liberdade, no caso em apreço nenhuma das medidas acima destacadas será eficaz a coibir novas ações por parte do representado.
+Ademais, os flagranteados são reincidentes, necessitando a segregação cautelar.
+Ora, a ordem pública está seriamente ameaçada, uma vez que o delito imputado aos representados (crime de roubo) é cada vez mais frequente em nosso Estado, e é fato gerador de outros diversos crimes, a exemplo de roubos, furtos e homicídios, sendo um delito grave.
+ ..
+Ante todo o exposto, inexistindo vícios formais que maculam a referida peça coercitiva, HOMOLOGO A PRISÃO EM FLAGRANTE, ao tempo em que, com base na nova disciplina introduzida pela Lei nº 12.403, de 04/05/2011, DECRETO a prisão preventiva de BRUNO DOS SANTOS e VITOR DOS SANTOS MESSIAS".
+Como se vê, a decisão de prisão apresenta fundamentação concreta, evidenciada na prática de roubo majorado, bem como em razão da reiteração delitiva, de modo que não se verifica ilegalidade a ser sanada na via recursal.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, diante da acentuada periculosidade dos acusados, evidenciada na conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Nos termos da jurisprudência desta Corte, registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (RHC 100.793/RR, Sexta Turma, Rel. Ministra Laurita Vaz, DJe. 23/10/2018). No mesmo sentido: RHC 106.136/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019; HC 479.323/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/02/2019, DJe 11/03/2019; HC 441.396/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.
+Havendo, portanto, a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+O pleito relativo à necessidade de o Juízo de primeiro grau especificar no decreto prisional os delitos a que o acusado responde em outros processos criminais configura inovação recursal, tendo sido suscitado pela primeira vez no presente agravo regimental.
+Sobre o tema, entende o Superior Tribunal de Justiça que, "No âmbito de agravo regimental e de embargos de declaração, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir e os pedidos formulados na petição inicial ou no recurso (AgRg no RHC 144.661/BA, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 20/04/2021, DJe 30/04/2021)".
+Ressalte-se que o Juízo de primeiro grau ponderou acerca da necessidade da prisão cautelar para a garantia da ordem pública, tendo em vista o fato de que os flagranteados são reincidentes.
+Nesse passo, havendo fundamento apto a justificar a prisão, não há que se falar em suprimento de fundamentação pela Corte de Justiça local.
+A despeito de já delineado na decisão agravada, convém frisar que a reiteração delitiva constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - rel. Min. Laurita Vaz - DJe 24/6/2014.
+Outrossim, registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (RHC n. 100.793/RR, Sexta Turma, rel. Min. Laurita Vaz, DJe. 23/10/2018). No mesmo sentido: RHC n.106.136/DF, rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/2/2019, DJe 1º/3/2019; HC n. 479.323/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 12/2/2019, DJe 11/3/2019; HC n. 441.396/SP, rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/2/2019, DJe 14/2/2019.
+Não obstante o inconformismo da parte agravante, não se divisa, nas razões do regimental, argumentos capazes de alterar a decisão agravada, que deve ser mantida por seus próprios fundamentos, tanto mais que proferida nos termos da orientação jurisprudencial consolidada nesta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
