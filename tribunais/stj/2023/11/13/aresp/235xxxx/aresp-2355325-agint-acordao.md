@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO INTERPOSTO EM FACE DE DECISÃO QUE INDEFERIU PEDIDO DE PRODUÇÃO DE PROVA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2 . Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 13079/13084) apresentado contra decisão monocrática da Ministra Presidente/STJ da qual se extrai:
+Quanto à controvérsia recursal, a parte recorrente alega violação do art. 994, inciso II, c/c art. 1.015, II, ambos do Código de Processo Civil, no que concerne ao cabimento de agravo de instrumento em face de decisão que indefere pedido de produção de provas uma vez que o rol de hipóteses de cabimento do remédio é de taxatividade mitigada, e estando caracterizada a urgência e o caráter de mérito da questão como no presente caso, cabível a interposição do referido recurso. E traz a seguinte argumentação:
+(..)
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O atual Código de Processo Civil previu, em rol taxativo, os casos em que a decisão interlocutória será impugnável por agravo de instrumento. Por exclusão, ressalvadas as hipóteses previstas na legislação especial, todas as demais não são recorríveis pelo agravo, devendo ser suscitadas como preliminar de razões ou contrarrazões de apelação (art. 1.009, § 1º, CPC).
+ ..
+Neste contexto, ainda que a decisão recorrida apresente viés decisório, em face dela não caberá agravo de instrumento se a pretensão recursal deduzida não se subsome em qualquer das hipóteses elencadas, em numerus clausus , pelo CPC.
+Ressalva-se apenas a hipótese em que a urgência se configura diante do risco de inutilidade do julgamento da apelação, consoante entendimento firmado em sede de recurso repetitivo (REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018), nos seguintes termos: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+No caso dos autos, observa-se que a decisão que defere ou indefere a realização de prova não se enquadra nas hipóteses do art. 1.015 nem nas de outros dispositivos do Código de Processo Civil que autorizam a interposição do agravo de instrumento (fls. 12.972/12.973).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+A agravante sustenta, em suma, que:
+No caso em questão não se discute a revisão de fatos e provas, principalmente porque o pedido inicial de produção de provas se presta a delimitar exatamente as questões fáticas (diferença entre o valor cobrado a título de ressarcimento ao SUS pela ANS e o valor praticado pela Operadora) para a devida delimitação legal da norma (prescrição do §8º do art. 32 da Lei nº 9.656/1998.
+Requer seja provido o recurso.
+A agravada pugna pelo não provimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO INTERPOSTO EM FACE DE DECISÃO QUE INDEFERIU PEDIDO DE PRODUÇÃO DE PROVA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2 . Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+Constou do acórdão recorrido que:
+O atual Código de Processo Civil previu, em rol taxativo, os casos em que a decisão interlocutória será impugnável por agravo de instrumento. Por exclusão, ressalvadas as hipóteses previstas na legislação especial, todas as demais não são recorríveis pelo agravo, devendo ser suscitadas como preliminar de razões ou contrarrazões de apelação (art. 1.009, § 1º, CPC).
+(..)
+Neste contexto, ainda que a decisão recorrida apresente viés decisório, em face dela não caberá agravo de instrumento se a pretensão recursal deduzida não se subsome em qualquer das hipóteses elencadas, em numerus clausus, pelo CPC.
+Ressalva-se apenas a hipótese em que a urgência se configura diante do risco de inutilidade do julgamento da apelação, consoante entendimento firmado em sede de recurso repetitivo (REsp 1704520/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018), nos seguintes termos: "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+No caso dos autos, observa-se que a decisão que defere ou indefere a realização de prova não se enquadra nas hipóteses do art. 1.015 nem nas de outros dispositivos do Código de Processo Civil que autorizam a interposição do agravo de instrumento.
+Verifica-se que a alteração do entendimento da origem - no sentido de que não restou caracterizada a urgência que autoriza a excepcionalidade da taxatividade mitigada do art. 1.015 do CPC/2015 - exige, necessariamente, o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ. A propósito, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA QUE INDEFERIU PRODUÇÃO DE PROVA ESPECÍFICA. ROL DO ART. 1015 DO CPC/2015. TAXATIVIDADE MITIGADA. RESP 1.704.520/MT, JULGADO PELA CORTE ESPECIAL SOB O RITO DOS REPETITIVOS. TEMA 988/STJ. URGÊNCIA NÃO AFERIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ. 1. A jurisprudência desta Corte entende que o prequestionamento ficto previsto no art. 1025 do CPC/2015 pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial a violação ao art. 1022 do CPC/2015 por negativa de prestação jurisdicional, requisito para que o Órgão julgador possa verificar a existência do vício e proceder à supressão de grau. 2. Não cumpridos os requisitos exigidos para o reconhecimento do prequestionamento ficto, permanece perfeitamente aplicável, ainda na vigência do CPC/2015, o óbice da Súmula 211/STJ. 3. A Corte Especial, no julgamento do REsp nº 1.704.520/MT (Tema 988/STJ), firmou entendimento segundo o qual "o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação". A partir do mencionado julgamento, a avaliação acerca da excepcionalidade da questão a ser objeto do agravo de instrumento, bem como da urgência do provimento pleiteado, deve ser realizada casuisticamente, mediante juízo de valor do magistrado. 4. A revisão da conclusão da Corte estadual de que não restou caracterizada a urgência que autoriza a excepcionalidade da taxatividade mitigada do art. 1.015 do CPC/2015 é vedada em sede de recurso especial, nos termos da Súmula 7/STJ. 5. Agravo interno não provido. (AgInt no AREsp n. 2.261.124/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2023, DJe de 17/8/2023.). Grifou-se.
+Diante do exposto, nego provimento ao agravo interno. É o voto.
