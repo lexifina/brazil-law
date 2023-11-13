@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO RICARDO ACCIOLY CAMPOS contra decisão de fls. 801/802, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+2-Por ocasião do julgamento do EAREsp nº 1.672.966/MG, a Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a Súmula 284do STF, segundo a qual "é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", pode ser, excepcionalmente, afastada, em caso de falta de indicação expressa no recurso especial d norma constitucional autorizadora da sua interposição, quais sejam, as alíneas "a", "b" e "c" do inciso III, do artigo 105 da CRFB.
+3-No presente caso, as razões recursais permitem a plena compreensão da controvérsia e dos dispositivos violados.
+4-Assim, deve ser afastada a incidência da Súmula 284/STF para que seja conhecido o mérito do recurso.
+ ..
+5-Cumpre ressaltar que em momento algum a ação aqui proposta tratou de indenização securitária. Bem como jamais realizou qualquer pedido de condenação ao pagamento à tal título.
+6-A ação aqui proposta requereu apenas indenização pelos DANOS MORAIS sofridos pelo Embargante causados pelo não pagamento do seguro facultativo por parte do Embargado (Bradesco Auto/Re companhia de seguros).
+ ..
+Neste sentido, é importante destacar o princípio da busca da verdade real, bem como o princípio da primazia do mérito, onde deve-se o processo judicial buscar solucionar a lide com o máximo de possibilidade para análise do mérito e deslinde da causa, assim, aguardar-se a conclusão do feito que busca a validação da apólice de seguro tem-se como o meio mais viável para se chegar a correta análise do mérito da presente lide (fl. 810/812).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Registre-se, ainda, que o julgado desta Corte, mencionado à fl. 810, não se aplica aos presentes autos por se tratarem de situações diferentes, pois nele, ao contrário do alegado, é tratada a ausência ou deficiência do permissivo constitucional autorizador do recurso especial. Nos presentes autos, a parte não indicou, repita-se, o artigo de lei federal violado ou objeto de divergência jurisprudencial.
+Outrossim, observe-se que o embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Assim, não há que se cogitar da ocorrência de contradição, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.
+3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+ EMENTA
