@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por BMG AGRÍCOLA LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/04/2023.
+Concluso ao gabinete em: 08/11 /2023.
+Ação: de execução movida por BMG AGRÍCOLA LTDA em desfavor de CRC ALIMENTOS EIRELI.
+Decisão interlocutória: indeferiu o arresto cautelar de bens da executada.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+"TÍTULOS DE CRÉDITO. AÇÃO DE EXECUÇÃO. REQUERIMENTO DE ARRESTO CAUTELAR DE BENS DA EXECUTADA. INDEFERIMENTO. MANUTENÇÃO. AUSÊNCIA DOS REQUISITOS INDISPENSÁVEIS À CONCESSÃO DA MEDIDA URGENTE.
+Os elementos carreados aos autos, ainda em cognição superficial e em estágio inicial do processo, não induzem à premência da medida pretendida (arresto cautelar de bens),porquanto não demonstrado, ictu oculi, que a executada esteja dilapidando seu patrimônio, ou que há risco de que venha a fazê-lo. O requerimento da exequente está amparado em mera suposição de insolvência fundada na existência de ações ajuizadas em face da executada, algo que não se confunde com alienação de bens tendentes a ocultar patrimônio e frustrar o pagamento do débito exequendo. Ao que parece, o que a exequente pretende é formalizar a constrição de patrimônio da executada de forma o mais breve possível, a fim de evitar futura participação em eventual mas muito provável concurso de credores. No entanto, a ausência de indícios concretos a respeito do desmantelamento do patrimônio não autoriza conceder a tutela de urgência, mormente em estágio inicial do processo. AGRAVO INTERNO INTERPOSTO CONTRA A DECISÃO DA RELATORA QUE RECEBEU O AGRAVO DE INSTRUMENTOS EM ATRIBUIÇÃO DE EFEITOATIVO. RECURSO PREJUDICADO.
+O Agravo Interno interposto contra a decisão da Relatora que recebeu o Agravo de Instrumento sem atribuição de efeito ativo não pode ser conhecido, pois prejudicado diante do julgamento(e, principalmente, do desprovimento) deste último. Agravo de Instrumento não provido. Agravo Interno não conhecido." (e-STJ, fl. 301)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 300, 301, 489, III, §1º, IV e 1.022, paragrafo único, II do CPC, sustentando: i) omissão e negativa de prestação jurisdicional; ii) que demonstrou estarem presentes os requisitos, possibilitando assim o deferimento da tutela de urgência para que seja realizado arresto prévio dos bens da Recorrida.
+RELATADO O PROCESSO, DECIDE-SE.
+Da análise da decisão agravada, constata-se que o recurso especial interposto pela agravante foi inadmitido com base na ausência de ofensa aos artigos indicados no recurso especial como violados, e incidência da Súmula 7 do STJ.
+No entanto, no agravo em recurso especial, a parte agravante não impugnou adequadamente, de forma clara e específica, os óbices aplicados, o fazendo apenas de forma genérica, não trazendo, de fato, a adequada impugnação à sua incidência. Especificamente quanto à Súmula 7/STJ, é de se ressaltar, que não basta a mera alegação de que a hipótese prescinde de reexame de provas, alegando genericamente sobre a questão ser de direito ou de que se requer a sua revaloração ou a correta aplicação da legislação que entende violada.
+Deve também ser demonstrada a efetiva desnecessidade do reexame, na hipótese em que o Tribunal de origem declara que "ao decidir da forma impugnada, a D. TurmaJulgadora o fez diante das circunstâncias fáticas próprias do processo subjudice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do E. Superior Tribunal de Justiça." (e-STJ, fl. 308), o que não foi feito.
+Ao contrário, traz apenas alegações genéricas acerca da prescindibilidade do reexame de provas e de que as questões debatidas são de direito, havendo, no mais, a repetição dos argumentos expendidos no recurso especial acerca das suas teses.
+Consoante o entendimento desta Corte, firmado à luz do princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente do fundamento da decisão agravada, o conhecimento do agravo é inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 932, III do CPC/2015.
+Nesses termos, não havendo a impugnação dos fundamentos da decisão agravada da forma exigida, aplicável o óbice da Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Deixo de majorar os honorários recursais pois inaplicável, na hipótese.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, §4º, e 1.026, §2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
