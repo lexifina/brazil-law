@@ -1,0 +1,49 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000440-07.2022.8.08.0012
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TEREZA DOS SANTOS COSTA
+RECORRIDO: LOJAS AVENIDA S.A e outros
+RELATOR(A):
+GRECIO NOGUEIRA GREGIO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTOS
+
+DR. GRÉCIO NOGUEIRA GRÉGIO – RELATOR
+
+Relatório dispensado pelo art. 46 da Lei nº 9099/95 e Enunciado 92 do FONAJE.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Defiro o benefício da AJG para a parte autora.
+
+EMENTA: JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR.
+AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. FALHA NO SERVIÇO. TROCA DE PRODUTO. ENTREGA DE PRODUTO INFERIOR. NARRA A AUTORA QUE EFETUOU A COMPRA DE UM CELULAR, LG K22 TITÂNIO 64GB COM 3 MEMÓRIA RAM, NO VALOR DE R$ 999,99 JUNTO A RÉ, LOJAS AVENIDA, SENDO INFORMADA DE GARANTIA DE 7 DIAS NA LOJA. APÓS 03 DIAS DE USO O APARELHO APRESENTOU DEFEITO, A REQUERENTE BUSCOU SOLUÇÃO JUNTO À REQUERIDA QUE INFORMOU QUE SERIA NECESSÁRIO BUSCAR A ASSISTÊNCIA TÉCNICA UMA VEZ QUE O APARELHO NÃO APARENTAVA POSSUIR PROBLEMAS. FRUSTRADA COM A SITUAÇÃO RETORNOU A LOJA EM OUTRA OCASIÃO SENDO OFERTADO UM OUTRO APARELHO INFERIOR DE MESMO VALOR, SAMSUMG AO2 32GB. FOI BUSCADO O PROCON, FA N.º 32-001,004.21-0024980, SEM ÊXITO EM SOLUCIONAR O PROBLEMA. RAZÃO PELA QUAL ENTROU EM JUÍZO BUSCANDO: A) CONDENAÇÃO DA RÉ EM DANOS MORAIS EM QUANTIA A SER ARBITRADA PELO JUÍZO E B) SEJA A RÉ CONDENADA A ENTREGAR O APARELHO NO MESMO MODELO DAQUELE COMPRADO, LG K22. SENTENÇA DE PISO JULGOU IMPROCEDENTES OS PEDIDOS DA INICIAL. RECURSO INOMINADO BUSCANDO A REFORMA DA SENTENÇA PARA JULGAR PROCEDENTES OS PEDIDOS DA INICIAL.
+RECURSO CONHECIDO E IMPROVIDO
+. TRATA-SE DE PLEITO CONSUMERISTA NA QUAL A RECORRENTE NÃO CONSEGUIU COMPROVAR OS FATOS CONSTITUTIVOS DE SEU DIREITO. INEXISTEM NOS AUTOS QUAISQUER PROVAS DOCUMENTAIS DO ALEGADO OU QUALQUER MENÇÃO A RECUSA OU IMPOSSIBILIDADE DE CONSERTO DO BEM DENTRO DO PRAZO DISPOSTO NO CDC. SENTENÇA A QUO DEVIDAMENTE FUNDAMENTADA NAS PROVAS ANEXADAS AOS AUTOS DE FORMA QUE NÃO MERECE REFORMA.
+S
+ENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. CONDENAÇÃO DA PARTE RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$300,00 (TREZENTOS REAIS), SUSPENSA, TODAVIA EM RAZÃO DO BENEFÍCIO DA AJG.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
