@@ -1,0 +1,79 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5015107-26.2022.8.08.0035
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: CASA DE SAUDE SAO BERNARDO S/A
+RECORRIDO: CELMA NESPOLI BARRA AFONSO
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5015107-26.2022.8.08.0035
+Origem
+: Juízo de Vila Velha - Comarca da Capital - 5º Juizado Especial Cível
+RECORRENTE
+: CASA DE SAUDE SAO BERNARDO S/A
+RECORRIDO
+: CELMA NESPOLI BARRA AFONSO
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. PLANO DE SAÚDE. AFIRMA A PARTE AUTORA QUE ERA DEPENDENTE/BENEFICIÁRIA DO PLANO DE SAÚDE EMPRESARIAL EM QUE SEU ESPOSO ERA TITULAR. APÓS O FALECIMENTO DE SEU ESPOSO EM NOVEMBRO/2021, CONTATOU A PARTE RÉ PARA INFORMÁ-LA SOBRE TAL SITUAÇÃO, BEM COMO PARA SOLICITAR SUA PERMANÊNCIA COMO BENEFICIÁRIA DO PLANO, VEZ QUE SE ENCONTRAVA EM TRATAMENTO DE NEOPLASIA MALIGNA. NO ENTANTO, A PARTE RÉ AFIRMOU QUE O CONTRATO HAVIA SE ENCERRADO COM O FALECIMENTO DO TITULAR, VEZ QUE SE TRATAVA DE PLANO EMPRESARIAL, ESTANDO CANCELADO DESDE 05/04/2022. ALEGA A PARTE AUTORA QUE A RÉ OFERTOU UM NOVO PLANO NO VALOR DE R$ 4.000,00, O QUE NÃO FOI ACEITO, VEZ QUE, ANTES DO FALECIMENTO DE SEU ESPOSO, PAGAVAM CERCA DE R$ 1.800,00. ASSIM, REQUER O RESTABELECIMENTO DO PLANO NAS CONDIÇÕES DE COBERTURA E PREÇO ANTERIORES AO CANCELAMENTO, COM A DEDUÇÃO DO VALOR REFERENTE AO SEU ESPOSO. REQUER, AINDA, A CONDENAÇÃO DA RÉ AO PAGAMENTO DE DANOS MATERIAIS E MORAIS.
+SENTENÇA DE PARCIAL PROCEDÊNCIA
+. RECURSO INOMINADO INTERPOSTO PELA PARTE RÉ. DO MÉRITO. CANCELAMENTO INDEVIDO DO PLANO DE SAÚDE.
+DE ACORDO COM O POSICIONAMENTO ATUAL DO SUPERIOR TRIBUNAL DE JUSTIÇA, “
+falecendo o titular do plano de saúde coletivo, seja este empresarial ou por adesão, nasce para os dependentes ou agregados o direito de pleitear a sucessão da titularidade, nos termos dos arts. 30 ou 31 da Lei nº 9.656/98, a depender da hipótese, desde que assumam o seu pagamento integral. STJ. 3ª Turma. REsp 1841285/DF, Rel. Min. Nancy Andrighi, julgado em 23/03/2021 (Info 690).”
+. ASSIM, ENTENDE-SE QUE A AUTORA POSSUI DIREITO À PERMANÊNCIA NO PLANO, MESMO COM O FALECIMENTO DO TITULAR. NO QUE SE REFERE AO DANO MORAL, NOTA-SE QUE ESTÃO PRESENTES OS SEUS REQUISITOS NA HIPÓTESE NARRADA, SENDO DEVIDA A INDENIZAÇÃO PELOS DANOS EXTRAPATRIMONIAIS. NO ENTANTO, SOBRE AO
+QUANTUM
+INDENIZATÓRIO FIXADO PELO JUÍZO DE ORIGEM (R$ 8.000,00), NOTA-SE QUE O VALOR ESTÁ EM PATAMAR ACIMA DE SITUAÇÕES EQUIVALENTES ANALISADAS POR ESTA TURMA RECURSAL. SENDO ASSIM, A R. SEN
+TENÇA MERECE AJUSTE QUANTO AO PONTO, LEVANDO EM CONTA NÃO APENAS A RAZOABILIDADE E PROPORCIONALIDADE, MAS TAMBÉM O GRAU DE CULPA, O PORTE ECONÔMICO DAS PARTES E A GRAVIDADE DO FATO.
+MINORA-SE, NESTES TERMOS, O
+QUANTUM
+INDENIZATÓRIO PARA R$ 4.000,00 (quatro mil reais), MANTIDOS OS CRITÉRIOS DE JUROS E CORREÇÃO MONETÁRIA DO ATO SENTENCIAL. POR ÚLTIMO, NO QUE DIZ RESPEITO AO PEDIDO DE FIXAÇÃO DE MULTA POR DESCUMPRIMENTO DA LIMINAR, TEM-SE QUE CABE AO JUÍZO DE ORIGEM ARBITRAR TAL VALOR, SE FOR O CASO. CONCLUSÃO.
+RECU
+RSO CONHECIDO E PARCIALMENTE PROVIDO
+,
+A FIM DE REFORMAR A SENTENÇA DE ORIGEM TÃO SOMENTE PARA MINORAR
+O
+QUANTUM
+INDENIZATÓRIO AO PATAMAR DE
+R$ 4.000,00
+(quatro mil reais), MANTIDOS OS CRITÉRIOS DE JUROS E CORREÇÃO MONETÁRIA DO ATO SENTENCIAL
+.
+NOS DEMAIS TÓPICOS, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+SEM CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS, POIS A PARTE RÉ SAGROU-SE VENCEDORA NA INSTÂNCIA RECURSAL EM, AO MENOS, PARTE DE SEU PLEITO (ART. 55, DA LEI 9.099/95 E SÚMULA Nº 06 DAS TURMAS RECURSAIS DOS JUIZADOS ESPECIAIS DO ESPÍRITO SANTO).
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
