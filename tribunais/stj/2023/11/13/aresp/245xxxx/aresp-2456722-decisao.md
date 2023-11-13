@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Maria Elvina Gomes Teofilo contra decisão que não admitiu o processamento do apelo extremo.
+Cuida-se, na origem, de agravo de instrumento contra decisão interlocutória que, nos autos da ação de obrigação de fazer, determinou a comprovação de tentativa de resolução administrativa da controvérsia, sob pena de extinção da demanda.
+A Quinta Câmara Cível do Tribunal de Justiça do Estado do Maranhão não conheceu do agravo de instrumento, consoante acórdão assim ementado (e-STJ, fl. 108):
+AGRAVO DE INSTRUMENTO. DETERMINAÇÃO DE TENTATIVA DE SOLUÇÃO ADMINISTRATIVA DA CONTROVÉRSIA. AUSÊNCIA DE CABIMENTO. PRINCÍPIO DA TAXATIVIDADE. ART. 1015 DO CPC. RECURSO NÃO CONHECIDO.
+I - Busca a Agravante reformar o Decisum impugnado, que determinou  a determinando  a comprovação de tentativa da resolução extrajudicial da controvérsia.
+II - O ato impugnado (despacho determinando a comprovação de tentativa de resolução administrativa) não foi incluído pelo legislador no rol taxativo do art. 1.015, do Código de Processo Civil, sendo certo que, embora a interpretação extensiva seja possível em situações específicas, não se deve criar hipóteses de recorribilidade de decisão interlocutória fora das previsões do novo diploma.
+III - Agravo de instrumento não conhecido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 319, 320, 321 e 1.015, caput, do Código de Processo Civil de 2015, sob as seguintes assertivas:
+(i) possibilidade de interposição de agravo de instrumento contra decisão que determina, sob pena de extinção do processo, a emenda ou a complementação da petição inicial, tendo em conta a atribuição de taxatividade mitigada ao rol estabelecido no art. 1.015 do CPC/2015, visto que verificada a necessidade de urgência;
+(ii) "o perigo iminente reside na ofensa ao princípio da inafastabilidade da jurisdição, segundo o qual nenhuma lesão ou ameaça de direito pode ser afastada do Poder Judiciário, o que, por via oblíqua, afetaria a razoável duração do processo, uma vez que o não acolhimento da decisão manifestamente ilegal desencadearia na extinção do processo" (fl. 155, e-STJ);
+(iii) impossibilidade de extinção do processo com fundamento na necessidade de prévio requerimento administrativo.
+Contrarrazões às fls. 162-164 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a parte insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 189 (e-STJ).
+Brevemente relatado, decido.
+Na espécie, ao não conhecer o agravo de instrumento interposto pela insurgente, o Tribunal de origem expôs os seguintes fundamentos (e-STJ, fls. 114-115):
+Analisando os requisitos de admissibilidade, verifico que o presente recurso não deve ser conhecido, em face da ausência do requisito ade admissibilidade atinente ao cabimento.
+De acordo com a dinâmica processual vigente, as hipóteses previstas para o agravo de instrumento estão elencadas no rol taxativo do dispositivo supramencionado, que não prevê a interposição do recurso ora manejado, na fase de conhecimento, contra despacho, senão vejamos:
+(..)
+Nesse contexto, verifico que o ato impugnado (despacho determinando a comprovação de tentativa de resolução administrativa) não foi incluído pelo legislador no rol taxativo do art. 1.015, do Código de Processo Civil, sendo certo que, embora a interpretação extensiva seja possível em situações específicas, não se deve criar hipóteses de recorribilidade de decisão interlocutória fora das previsões do novo diploma.
+Com efeito, estender a aplicabilidade da norma, sem previsão específica para tanto, decerto implicaria em profunda insegurança jurídica, pois os operadores do Direito não saberiam quando pode ou não ser interposto recurso de agravo, o que corrobora o não conhecimento do presente agravo de instrumento.
+(..)
+Ressalto, ademais, que não verifico urgência para mitigar a taxatividade do art. 1015 do CPC, nos moldes da tese firmada no Resp. nº 1.696.3961 , julgado sob a sistemática dos recursos repetitivos, porquanto, repiso, se trata de despacho, visando ao cumprimento de diligência que o julgador reputou pertinente.
+Sobre o tema, a Corte Especial do STJ, na sessão realizada no dia 5/12/2018, decidiu, por maioria, no julgamento dos REsps 1.696.396/MT e 1.704.520/MT, da Relatoria da Ministra Nancy Andrighi, que o rol do art. 1.015 do CPC/2015 é de taxatividade mitigada, por isso, admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Segundo a relatora, a taxatividade do art. 1.015 do novo CPC é incapaz de tutelar adequadamente todas as questões em que pronunciamentos judiciais poderão causar sérios prejuízos e que, por isso, deverão ser imediatamente reexaminadas pelo segundo grau de jurisdição.
+A ideia, portanto, é possibilitar a recorribilidade imediata de decisões interlocutórias fora da lista do art. 1.015 do CPC/2015, sempre em caráter excepcional e desde que preenchido o requisito urgência.
+Constata-se, assim, que, com a unificação do entendimento por esta Corte Superior, a avaliação acerca da excepcionalidade da questão a ser objeto do agravo de instrumento, relacionada ao critério de urgência, bem como ao risco de manifesto prejuízo pela postergação do seu julgamento para o recurso de apelação, deverá ser realizada em cada caso, mediante o prudente juízo de valor do magistrado.
+No caso em exame, ficou assentado pela Corte local que o pronunciamento judicial que a ora recorrente visa impugnar por meio de agravo de instrumento (despacho, visando ao cumprimento de diligência que o julgador reputou pertinente) não vislumbrou urgência a ponto de reconhecer a mitigação da taxatividade do art. 1.015 do CPC/2015.
+Diante desse posicionamento, não há como este Tribunal Superior rever a conclusão adotada, visto que seria necessário o revolvimento de fatos e provas, o que é vedado pela Súmula 7/STJ.
+Quanto à impossibilidade de extinção do processo com fundamento na necessidade de prévio requerimento administrativo, da leitura do acórdão recorrido, observa-se que não houve debate do ponto de vista da infringência aos dispositivos tidos por violados. Incidência das Súmulas n. 282 e 356 do STF.
+Outrossim, "esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribu nal de origem, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.059.677/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DETERMINAÇÃO DE TENTATIVA DE SOLUÇÃO ADMINISTRATIVA DA CONTROVÉRSIA. INOBSERVÂNCIA DE URGÊNCIA NO RECURSO. IMPOSSIBILIDADE DE APLICAÇÃO DA TESE FIRMADA NOS RESPS. 1.696.396/MT E 1.704.520/MT ACERCA DA TAXATIVIDADE MITIGADA DO ROL DO ART. 1.015 DO NOVO CPC/2015. REVISÃO. SÚMULA 7/STJ. EXTINÇÃO DO PROCESSO COM FUNDAMENTO NA NECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
