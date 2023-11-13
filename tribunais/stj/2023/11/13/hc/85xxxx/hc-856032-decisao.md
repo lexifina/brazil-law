@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de Paulo Azambuja de Souza Mota Junior, no qual se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que julgou improcedente a Revisão Criminal n. 0715659-36.2023.8.07.0000. Eis a ementa do julgado (fl. 139):
+REVISÃO CRIMINAL. DIREITO PENAL E CONSTITUCIONAL. CONDENAÇÃO POR LATROCÍNIO. PETIÇÃO DE PRÓPRIO PUNHO. ALEGAÇÃO DE NOVAS PROVAS. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ADMISSÃO PARCIAL DA REVISÃO. DOSIMETRIA. SEGUNDA FASE. REINCIDÊNCIA. CONDENAÇÃO ANTERIOR POR PORTE DE DROGAS PARA CONSUMO PESSOAL. PEDIDO DE REVISÃO AMPARADO EM MUDANÇA DE ENTENDIMENTO JURISPRUDENCIAL. APLICAÇÃO RETROATIVA DE MUDANÇA JURISPRUDENCIAL BENÉFICA. NÃO CABIMENTO. COISA JULGADA MATERIAL. IMUTABILIDADE. SEGURANÇA JURÍDICA. OBSERVÂNCIA. REVISÃO IMPROCEDENTE.
+1. A revisão criminal constitui ação autônoma de impugnação para fins de desconstituição da coisa julgada, de cabimento extremamente restrito e previsão exaustiva nas hipóteses do artigo 621 do Código de Processo Penal, como forma de preservação máxima do princípio da segurança jurídica, não se prestando, pois, como sucedâneo recursal. No caso, a pretensão do apenado de rediscussão de matéria fática, sob o argumento infundado de ter novas provas, não autoriza o conhecimento do pleito.
+2. A mudança de posicionamento jurisprudencial posterior ao trânsito em julgado da decisão condenatória não serve de base para o ajuizamento de revisão criminal, sob pena de serem violados os princípios da coisa julgada e da segurança jurídica (STJ, AgRg no HC 500.460/SC).
+3. Os princípios da irretroatividade da norma penal mais gravosa e da retroatividade da norma penal benéfica, extraídos do mandamento constitucional contido no art. 5º, inciso XL, não se aplicam para precedentes jurisprudenciais, referindo-se, pois, apenas à lei penal em sentido formal. Precedentes STF e STJ.
+4. Revisão criminal admitida em parte e, na extensão, julgada improcedente.
+Aqui, a defesa alega que, diante das peculiaridades do caso concreto, é notória a desproporcionalidade para que tal condenação anterior seja apta a gerar reincidência em processos futuros (fl. 7).
+Requer, assim, a concessão da ordem para que seja excluída a agravante da reincidência, com readequação da dosimetria no Processo n. 2008.01.1.075109-0, resultando na pena definitiva de 20 anos de reclusão, mais 10 dias-multa, à razão mínima, em regime inicialmente fechado (fl. 8).
+Informações prestadas (fls. 180/186), o Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus (fls. 192/196).
+É o relatório.
+Conforme consta do acórdão ora impugnado (fls. 143/144):
+ ..
+Denota-se da sentença condenatória que o magistrado considerou a reincidência do réu pela condenação anterior no processo n. 2004.01.1.068612-2, a qual fundou-se na conduta do art. 28 da Lei n. 11.343/2006, sendo sua pena agravada em dois anos (ID 47585831, p. 27).
+Em sede recursal, este Tribunal manteve a agravante da reincidência, readequando o quantum de aumento de pena para 12 meses, o que ensejou uma pena final de 21 anos de reclusão ao réu (ID 47585831, p. 40/41).
+ ..
+Pois bem, verifica-se que a pena do paciente foi agravada em 12 meses, considerando-se a condenação anterior, pelo delito do art. 28 da Lei n. 11.343/2006, como reincidência
+Ocorre que este Superior Tribunal entende que condenações anteriores por contravenções penais, as quais cominam pena de prisão simples, não são aptas a gerar reincidência, tendo em vista o que dispõe o art. 63 do Código Penal, que apenas se refere a "crimes" anteriores. Assim, mostra-se desproporcional considerar que o delito do art. 28 da Lei n. 11.343/2006 seja apto a configurar reincidência, na medida em que nem sequer é punível com pena privativa de liberdade (AgRg no REsp n. 1.848.017/MG, da minha lavra, Sexta Turma, DJe 23/6/2020).
+Com efeito, esta Corte fixou o entendimento de que, em face dos questionamentos acerca da proporcionalidade do direito penal para o controle do consumo de drogas em prejuízo de outras medidas de natureza extrapenal relacionadas às políticas de redução de danos, eventualmente até mais severas para a contenção do consumo do que aquelas previstas atualmente, o prévio apenamento por porte de droga para consumo próprio, nos termos do artigo 28 da Lei de Drogas, não deve constituir causa geradora de reincidência (REsp n. 1.672.654/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 21/8/2018, DJe 30/8/2018).
+Cumpre ressaltar que o tema aqui trazido - dosimetria - é questão de cunho pena l, assim, não há falar em irretroatividade de interpretação jurisprudencial, uma vez que o ordenamento jurídico proíbe apenas a retroatividade da lei penal mais gravosa (AgRg nos EDcl no AREsp n. 1.361.814/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/5/2020, DJe 27/5/2020).
+Ante o exposto, concedo a ordem para determinar que o Juízo da Execução Penal, afastada a consideração da reincidência pela condenação anterior pela prática do crime previsto no art. 28 da Lei n. 11.343/2006, refaça a dosimetria da pena do paciente.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. LATROCÍNIO. RECONHECIMENTO DA REINCIDÊNCIA EM RAZÃO DE CONDENAÇÃO ANTERIOR PELO CRIME DE PORTE DE DROGAS PARA CONSUMO PESSOAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
