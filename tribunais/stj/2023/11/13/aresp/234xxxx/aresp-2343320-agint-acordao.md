@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno contra decisão de fls. 619/621, que negou provimento ao agravo em razão da incidência da Súmula 182 do Superior Tribunal de Justiça.
+Nas razões do agravo, sustenta-se que "A decisão que negou seguimento ao recurso especial é totalmente nula, por ausência de fundamentação ao afirmar a aplicação da Súmula 7 do STJ na análise da contrariedade aos artigos que menciona", que "A agravante afirmou que não seria aplicável a Súmula 7 do STJ pela natureza das matérias objeto da discussão", e que, "No decorrer do capítulo que afirmou a contrariedade às normas legais, deixou claro e explicitado de que não seria o caso de aplicação da Súmula 7 do STJ, dependendo a deliberação apenas da análise de matérias eminentemente de direito, sendo desnecessária a análise de fatos e provas".
+Ao final, requer-se a retratação da decisão ou o provimento do recurso pelo órgão colegiado.
+Impugnação ao agravo não apresentada.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.343.320 - SP (2023/0117144-0)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+ANDREIA GARLET
+ADVOGADOS
+:
+CARLOS ALBERTO CHIAPPA - SP083791
+JULIANA NOGUEIRA MAGRO SOARES - SP210206
+CAROLINNIE PRATA DA CRUZ - SP400653
+AGRAVADO
+:
+AMAURI PEDRO MURAD
+AGRAVADO
+:
+MARTA ARAUJO DIB MURAD
+ADVOGADO
+:
+BRUNO DE PAULA ORLANDI - SP268874
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Apesar dos argumentos expendidos, o agravo não merece prosperar, ante a ausência de argumentos hábeis a alterar os fundamentos da decisão agravada.
+A decisão agravada não conheceu do agravo em recurso especial, em razão da ausência de impugnação do óbice das Súmulas 5 e 7 do STJ.
+A parte recorre, sob o argumento de que teria impugnado os aludidos óbices.
+Em exame do agravo em recurso especial, no entanto, observo que a parte afirmou, de maneira genérica, a inaplicabilidade da Súmula 7/STJ.
+Ressalta-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento por ausência de cumprimento dos requisitos exigidos nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015. Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PRECLUSÃO CONSUMATIVA. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Não tendo os insurgentes refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp 1902856/SC, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/10/2021, DJe 14/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe 8/10/2021)
+Saliente-se que não basta a mera impugnação genérica aos fundamentos da decisão agravada, porquanto, à luz do princípio da dialeticidade, cabe ao agravante explicitar, de forma articulada e argumentativa, os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Especificamente no que toca à impugnação da Súmula 7/STJ, este Superior Tribunal de Justiça entende que "não basta a afirmação genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual" (AREsp 1280316/SP, relator Ministro Og Fernandes, Segunda Turma, DJe 28/5/2019). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 7/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+4. Agravo interno não provido.
+(AgInt no AREsp 1970371/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 17/12/2021 - sem destaques no original)
+A argumentação para rebater a Súmula 7/STJ, todavia, em momento nenhum aponta como seria possível alterar as conclusões do acórdão recorrido, sem reexame do acervo fático probatório dos autos.
+O recurso especial foi interposto em face de acórdão que recebeu a seguinte ementa (e-STJ, fl. 429):
+APELAÇÃO Contratos particulares de cessão de direitos de unidade habitacional firmados em 01/05/2015 Previsão de que, antes da entrega dos imóveis, seria aplicada apenas correção monetária sobre o saldo, pelo índice CUB-SindusCon-SP, e após a disponibilização dos bens, haveria acréscimo de juros de 12% ao ano, pela Tabela Price Adquirente que recebeu os imóveis em 29/05/2015 e 17/06/2015 Juros que passaram a ser cobrados em 2018, ensejando a majoração das parcelas de R$ 452,97 e R$ 450,70 a R$ 1.058,13 e R$ 1.052,82 Requerente que ajuizou ação de consignação em pagamento, postulando o reconhecimento da impossibilidade de cobrança retroativa dos juros, e ação declaratória de inexigibilidade dos juros, sob o fundamento de que teria ocorrido a supressio - Juízo a quo que julgou os processos em conjunto, acolhendo parcialmente os pedidos, para determinar que seja mantido o índice CUB-SindusCon-SP, e não a Tabela Price - Decisão extra petita, que não se ateve aos pedidos e à causa de pedir Inexistência de pedido de substituição de índice de correção monetária, mas de afastamento dos juros cobrados Verbas que têm naturezas e finalidades distintas, e não são aplicadas em substituição à outra, mas de forma concomitante Fenômeno da supressio que enseja a perda de uma posição jurídica em decorrência da inércia do credor, no exercício de seu direito, apta a incutir no devedor a legítima expectativa de que aquele direito não seria mais exercido - Caso concreto envolvendo contratos de extensa duração, firmados em 2015 e com término previsto para 2035 - Ausência da cobrança por 03 anos que não enseja, por si só, a impossibilidade de aplicação dos juros previstos na avença, mas obsta a retroação dos efeitos da cobrança Precedentes do C. STJ Possibilidade de inclusão dos juros desde a data da primeira cobrança Desacolhimento da pretensão ao afastamento da incidência de juros que devolve ao conhecimento deste E. Tribunal a questão da incidência da Tabela Price - Verificação da existência de juros compostos que depende da realização de prova pericial - Precedente vinculante do C. Superior Tribunal de Justiça que determina a realização de prova pericial, em caso de alegação de aplicação incorreta "Tabela Price" - Sentença anulada, para realização da prova pericial - Recurso parcialmente provido.
+Neste caso, em que existe robusto exame do Tribunal local centrado na análise do conteúdo probatório dos autos, para se chegar à conclusão de que a ausência da cobrança por três anos não ensejou o fenômeno da supressio, não basta, para a parte agravante, limitar-se a citar a desnecessidade de reexame do acervo fático-probatório dos autos. Ao proceder dessa maneira, a recorrente deixou de demonstrar como seria possível modificar o entendimento do Tribunal local sem alterar a descrição fática do acórdão recorrido. Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PROMESSA DE COMPRA E VENDA MERCANTIL. GALONAGEM. AQUISIÇÃO MÍNIMA DE COMBUSTÍVEL. INOBSERVÂNCIA NO CURSO DA RELAÇÃO CONTRATUAL. TOLERÂNCIA DO CREDOR. PRORROGAÇÃO AUTOMÁTICA. INEXIGIBILIDADE. APLICAÇÃO DA TEORIA DA SUPRESSIO. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. "A supressio indica possibilidade de redimensionamento da obrigação pela inércia qualificada de uma das partes, durante a execução contratual, em exercer direito, criando para a outra parte a legítima expectativa de ter havido a renúncia a tal direito.
+Precedentes" (AgInt nos EDcl no AREsp 1294253/MT, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 07/05/2019, DJe 10/05/2019).
+2. Rever o acórdão recorrido quanto ao preenchimento dos requisitos para aplicação da teoria da supressio no presente caso e acolher a pretensão recursal demandaria reincursão nos elementos fático-probatórios constantes do presente processo, bem como interpretação de cláusulas contratuais, o que não se admite na via do recurso especial ante o óbice das Súmulas 5 e 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.675.038/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/4/2021, DJe de 26/4/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA AUTORA.
+1. O julgador não está obrigado a rebater, um a um, os argumento s invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+2. "A jurisprudência desta Corte Superior se posiciona no sentido de que a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no Resp 1.717.781/RO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018). Precedentes.
+3. Segundo orientação jurisprudencial do Superior Tribunal de Justiça, é possível a limitação do benefício da justiça gratuita a determinados atos processuais. Incidência da Súmula 83 do STJ.
+4. Rever a conclusão do Tribunal de origem quanto à inexistência de comprovação mínima do direito, à não configuração do instituto da supressio e à concessão apenas parcial da gratuidade exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.182.453/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Em razão da ausência de impugnação específica do óbice da Súmula 7/STJ, não há como conhecer do recurso em relação às demais ofensas, tendo em vista que a Corte Especial deste Tribunal, no julgamento dos EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR (Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, CORTE ESPECIAL, DJe de 30/11/2018), consolidou o entendimento de que a decisão de inadmissibilidade do recurso especial, formada por um único dispositivo, que é a inadmissão do recurso, não possui capítulos autônomos, sendo incindível e devendo ser impugnada em sua integralidade:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. 3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais. 4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC. 5. Embargos de divergência não providos. (EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018) (grifou-se).
+Assim, não se desincumbiu a parte agravante do ônus de impugnar especificamente os fundamentos da decisão agravada, na forma exigida pelos arts. 932, III e 1.021, § 1º, do CPC. Incide, por analogia, a Súmula 182/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
