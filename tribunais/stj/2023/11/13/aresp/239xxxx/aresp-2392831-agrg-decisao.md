@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo regimental interposto por KELLY TENORIO DE HOLANDA COSTA contra decisão, da minha lavra (e-STJ fls. 494/496), na qual conheci do agravo para dar provimento ao recurso especial interposto pelo Ministério Público do Estado de Mato Grosso do Sul, a fim de estabelecer o regime inicial fechado para o cumprimento da pena pela ora agravante.
+O presente agravo regimental não cumpre o pressuposto objetivo de admissibilidade do recurso consistente na tempestividade da irresignação.
+Com efeito, nos termos dos arts. 258, caput, do Regimento Interno do Superior Tribunal de Justiça, 39 da Lei n. 8.038/1990 e 798, caput e § 3º, do Código de Processo Penal, é intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos (10 dias no caso da Defensoria Pública).
+E, de acordo com o entendimento do Superior Tribunal de Justiça, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp n. 981.030/PE, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe de 22/2/2017).
+No caso dos autos, a Defensoria foi cientificada da decisão ora agravada no dia 16/10/2023 (e-STJ fl. 504). O trânsito em julgado da decisão ocorreu em 27/10/2023 (e-STJ fl. 507). Ocorre que o presente recurso foi interposto somente no dia 30/10/2023 (e-STJ fl. 2 do expediente avulso ), quando já havia escoado o prazo legal de 10 dias para a sua interposição.
+Ante o exposto, não conheço do agravo regimental.
+Publique-se. Intimem-se.
+EMENTA
