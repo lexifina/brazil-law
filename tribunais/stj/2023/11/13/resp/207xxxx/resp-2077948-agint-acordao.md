@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO PIS E COFINS. BASES DE CÁLCULO. TAXA SELIC NA REPETIÇÃO DE INDÉBITO. INCLUSÃO. PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme pacífica orientação jurisprudencial deste Tribunal Superior, a contribuição ao PIS e a COFINS incidem sobre valores derivados da aplicação da Taxa SELIC nos valores depositados em juízo e no cálculo do indébito tributário. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por ELEVATO MATERIAIS DE CONSTRUÇÃO E DECORAÇÃO LTDA contra decisão que, com apoio em entendimento jurisprudencial, deu provimento recurso especial interposto pela FAZENDA NACIONAL para reformar, em parte, o acórdão recorrido e denegar a segurança, quanto à pretensão relacionada à incidência da contribuição ao PIS e da COFINS sobre a repetição de indébito e depósitos judiciais.
+A parte agravante sustenta, em síntese (fls. 495/508):
+Ao não se configurarem como entrada correspondente à efetiva riqueza nova, os juros de mora legais e a atualização monetária representativos da taxa SELIC não possuem aptidão jurídica para integrarem a base de cálculo do PIS e da COFINS.
+Sem impugnação pela parte agravada (fl. 516).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO AO PIS E COFINS. BASES DE CÁLCULO. TAXA SELIC NA REPETIÇÃO DE INDÉBITO. INCLUSÃO. PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Conforme pacífica orientação jurisprudencial deste Tribunal Superior, a contribuição ao PIS e a COFINS incidem sobre valores derivados da aplicação da Taxa SELIC nos valores depositados em juízo e no cálculo do indébito tributário. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois este Tribunal Superior tem pacífica orientação jurisprudencial pela legalidade da incidência da contribuição ao PIS e da COFINS sobre os valores originados da aplicação da taxa Selic, nas ações de repetição de indébito ou nos depósitos judiciais. A respeito, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO. DEMONSTRAÇÃO. AUSÊNCIA. ACÓRDÃO COMBATIDO. JURISPRUDÊNCIA DESTA CORTE. CONFORMIDADE.
+ ..
+3. Hipótese em que ambas as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça entendem que incidem PIS e COFINS sobre valores decorrentes da aplicação da Taxa SELIC nos depósitos judiciais e na repetição de indébito, o que atrai o óbice contido na Súmula 168 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.912.079/SC, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 30/5/2023, DJe de 2/6/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA (SELIC). REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. INAPLICABILIDADE DO ENTEDIMENTO FIRMADO PELA SUPREMA CORTE NO TEMA 962. AGRAVO INTERNO DESPROVIDO.
+1. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. É pacífica a orientação desta Corte Superior de Justiça quanto à incidência da contribuição ao PIS e da COFINS sobre os valores decorrentes da aplicação da taxa Selic (juros e correção) na repetição, isso, porque as bases de cálculo das referidas exações são compostas pelo total das receitas auferidas pela pessoa jurídica, independentemente da denominação ou classificação contábil .
+3. A tese firmada pela Suprema Corte no Tema 962, quanto à inconstitucionalidade da incidência do IRPJ e da CSLL sobre os valores atinente à taxa Selic recebidos em razão de repetição de indébito tributário, não interfere no entendimento acima, pois a natureza de danos emergentes conferida aos juros moratórios afeta apenas o conceito de renda (base de cálculo do IRPJ) e não o de receita (base de cálculo do PIS e da COFINS).
+4. Precedentes: AgInt no REsp n. 1.921.174/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/9/2022, DJe de 28/9/2022; e AgInt no REsp n. 1.908.789/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 28/6/2022.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.960.912/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REPETIÇÃO DE INÉBITO. PIS E COFINS. BASE DE CÁLCULO. TAXA SELIC. INCLUSÃO. LEGITIMIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Este Superior Tribunal possui entendimento consolidado segundo o qual as bases de cálculo da contribuição para o PIS e da Cofins são compostas pelo total das receitas auferidas, no mês, pela pessoa jurídica, independentemente de denominação ou classificação contábil, o que inclui os valores corrigidos pela taxa Selic (correção e juros).
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno desprovido.
+(AgInt nos EDcl no REsp n. 2.003.973/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. TAXA SELIC. REPETIÇÃO DE INDÉBITO. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que incide o PIS e a COFINS sobre os valores decorrentes da incidência da taxa SELIC na restituição do indébito tributário.
+2. A conformidade do acórdão recorrido com a orientação jurisprudencial desta Corte Superior atrai a aplicação do óbice estampado na Súmula 83 do STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.956.214/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. BASES DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. PARCELA DO DEPÓSITO JUDICIAL DERIVADA DA INCIDÊNCIA DA TAXA SELIC (JUORS  CORREÇÃO). SUPERVENIÊNCIA DE TESE DO SUPREMO TRIBUNAL FEDERAL, PELA NATUREZA DE DANO EMERGENTE. CORREÇÃO DO ACÓRDÃO. NECESSIDADE. EFEITO MODIFICATIVO. NÃO ATRIBUIÇÃO. PARCELA REPRESENTATIVA DA RECEITA DA PESSOA JURÍDICA.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não obstante, este Tribunal Superior tem admitido a oposição dos embargos de declaração com o fim de adequar o acórdão embargado a entendimento firmado na sistemática dos recursos repetitivos, ou nos casos em que o órgão colegiado procede a julgamento de matéria submetida à sistemática da repercussão geral.
+4. No caso dos autos, o acórdão embargado manteve acórdão do TRF da 4ª Região no sentido de que que "Os valores atinentes aos juros moratórios e correção monetária pela taxa SELIC constituem receita (financeira) nova, que não se vincula à natureza do crédito principal, para fins de tributação de PIS e COFINS". E o fez apoiado no entendimento da Primeira Seção, segundo o qual os juros de mora componentes da repetição do indébito tributário têm natureza de lucros cessantes (REsp 1.138.695/SC, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 31/05/2013).
+4. Não obstante, recentemente, o Supremo Tribunal Federal, no Recurso Extraordinário 1.063.187/SC, após o reconhecimento da repercussão geral, fixou tese segundo a qual "É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito tributário" (tema 962).
+Na ocasião, o STF, por votação unânime, concluiu que a remuneração pela taxa Selic é espécie de dano emergente, afastando a tese de que seria lucro cessante, e, por isso, não representaria acréscimo patrimonial.
+5. No contexto, está revelado o desacerto jurisprudencial, na afirmação de que os juros de mora componentes da repetição do indébito tributário teriam natureza de lucros cessantes; e, por isso, os embargos de declaração devem ser acolhidos para sanar essa "obscuridade".
+6. Entretanto, deve ser mantida a conclusão do acórdão embargado, pela incidência da contribuição ao PIS e da COFINS, pois a parcela do depósito judicial derivada da incidência da taxa Selic é espécie de receita e não há autorização legal para excluir correção monetária e juros de mora de aplicações financeiras (tal como composta a taxa Selic incidente no depósito judicial) das bases de cálculo dessas contribuições, ainda que se trate de dano emergente.
+7. Embargos de declaração acolhidos, em parte e sem atribuição de efeito modificativo.
+(EDcl no AgInt no REsp n. 1.916.374/PR, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/6/2022, DJe de 22/6/2022)
+No mesmo sentido, dentre outros: AgInt no REsp n. 2.024.159/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023; REsp n. 2.018.256/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/3/2023, DJe de 10/3/2023; AgInt no REsp n. 1.946.628/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/6/2022, DJe de 28/6/2022; AgInt no REsp n. 1.960.914/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/5/2022, DJe de 23/6/2022; AgInt no REsp n. 1.920.034/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/10/2021, DJe de 18/10/2021.
+No caso dos autos, o TRF4 decidiu pela não incidência das referidas contribuições razão pela qual o recurso especial da Fazenda Nacional foi provido para denegar a segurança, quanto à pretensão relacionada à incidência da contribuição ao PIS e da COFINS sobre a repetição de indébito e depósitos judiciais.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
