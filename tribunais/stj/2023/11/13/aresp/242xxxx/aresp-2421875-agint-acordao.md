@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI CUJA INTERPRETAÇÃO TENHA SIDO DIVERGENTE DA JURISPRUDÊNCIA DESTA CORTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por TRANSPORTES WARTHA - EIRELI contra a decisão de fls. 415-416 (e-STJ), da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial da ora agravante, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+O apelo extremo foi deduzido com base no art. 105, III, c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 260; grifos no original):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA AUTORA.
+1. RECORRENTE QUE SUSTENTA O DESCONHECIMENTO DA OBRIGAÇÃO DO CUSTEIO DO FRETE DE MERCADORIA ADQUIRIDA NA INTERNET. CONSUMIDORA QUE EFETUOU A COMPRA DE ITENS DE ENXOVAL DE BEBÊ POR INTERMÉDIO DE NEGOCIAÇÃO REALIZADA VIA CORRESPONDÊNCIA ELETRÔNICA. AUSÊNCIA DE INFORMAÇÕES SOBRE O MODO DA ENTREGA OU O VALOR DO TRANSPORTE. IMPOSSIBILIDADE DE RECONHECIMETO DA EXISTÊNCIA DA CLÁUSULA "FREE ON BOARD" - FOB, QUE DETERMINA AO COMPRADOR A OBRIGAÇÃO DO PAGAMENTO DA ENTREGA. ACOLHIMENTO. COMPROVAÇÃO DE QUE A APELANTE NÃO FOI INFORMADA ACERCA DO ÔNUS DE QUITAR O FRETE. NEGOCIAÇÕES FIRMADAS COM O ESTABELECIMENTO VENDEDOR QUE NÃO CONTINHAM O DADO. ASSINATURA DE DOCUMENTO DE CONHECIMENTO DO TRANSPORTE PELA RECORRENTE QUE APENAS DEMONSTRA O RECEBIMENTO DA MERCADORIA. DOCUMENTO AUXILIAR DA NOTA FISCAL ELETRÔNICA QUE NÃO FOI ASSINADO PELA INSURGENTE. IMPOSSIBILIDADE DE RECONHECIMENTO DO ACEITE DA CLÁUSULA FOB. PROTESTO DO TÍTULO ORIGINADO PELA DÍVIDA QUE SE AFIGURA IRREGULAR. SENTENÇA QUE MERECE REFORMA PARA QUE A DÍVIDA SEJA DECLARADA INEXISTENTE.
+2. DANOS MORAIS. APELANTE QUE SUSTENTA A EXISTÊNCIA DE ABALO MORAL DECORRENTE DO PROTESTO INDEVIDO. ARGUMENTO QUE ENCONTRA AGASALHO NOS AUTOS. ENTENDIMENTO CONSOLIDADO NA JURISPRUDÊNCIA NO SENTIDO DE QUE O DANO MORAL NA HIPÓTESE PRESCINDE DE PROVA. PREJUÍZO ANÍMICO QUE DEVE SER INDENIZADO. MONTANTE QUE DEVE SE AFIGURAR PROPORCIONAL E RAZOÁVEL. CONSIDERAÇÃO DA SITUAÇÃO ECONÔMICA DA APELADA E DO DANO SUPORTADO PELA VÍTIMA. MODIFICAÇÃO DA DECISÃO NO PONTO PARA CONDENAR A RECORRIDA AO PAGAMENTO DE INDENIZAÇÃO.
+3. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS QUE É MEDIDA IMPERATIVA. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS RECURSAIS NO CASO.
+RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 294-296, e-STJ).
+Nas razões do recurso especial (fls. 310-318, e-STJ), fundado em dissídio jurisprudencial, a recorrente sustentou, genericamente, que a obrigação de pagar o frete, relativo ao transporte das mercadorias adquiridas, é da recorrida/adquirente, bem como que tal obrigação foi aceita quando do recebimento das aludidas mercadorias.
+O recurso especial foi inadmitido no Tribunal de origem (e-STJ, fls. 371-372) ante a aplicação da Súmula 284/STF, por deficiência na fundamentação do reclamo, haja vista a ausência de indicação dos artigos de lei cuja interpretação tenha sido divergente da jurisprudência do Superior Tribunal de Justiça.
+No agravo contra a decisão que inadmitiu o recurso especial (e-STJ, fls. 386-391), a agravante refutou o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 397-401 (e-STJ).
+Em razão do juízo prévio negativo de admissibilidade, a recorrente interpôs agravo (art. 1.042 do CPC/2015), do qual a Presidência desta Corte conheceu para não conhecer do recurso especial, ante a aplicação da Súmula 284/STF, por deficiência na fundamentação do reclamo, haja vista a ausência de indicação dos artigos de lei tidos por violados e/ou que tiveram interpretação divergente da jurisprudência deste Superior Tribunal.
+Neste agravo interno (fls. 420-424, e-STJ), a insurgente pleiteia pela inaplicabilidade do óbice apontado para o não conhecimento de seu reclamo, ao argumento de que recursos fundados em divergência jurisprudencial dispensam a indicação dos artigos de lei tidos por vulnerados.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão do agravo interno ao colegiado.
+Sem impugnação, conforme certificado à fl. 428 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECLAMO. AUSÊNCIA DE INDICAÇÃO DOS ARTIGOS DE LEI CUJA INTERPRETAÇÃO TENHA SIDO DIVERGENTE DA JURISPRUDÊNCIA DESTA CORTE. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, a recorrente não indicou os artigos de lei cuja interpretação tenha sido divergente da jurisprudência desta Superior Tribunal de Justiça, atraindo a aplicação da Súmula 284/STF, por deficiência na fundamentação do recurso, conforme corretamente decidido pela Presidência desta Corte.
+Sobre a questão, cumpre assinalar que o recurso especial é de fundamentação vinculada, no qual o efeito devolutivo se opera tão somente nos termos do que foi impugnado.
+Assim, a ausência de indicação dos artigos cuja interpretação tenha sido divergente do entendimento jurisprudencial desta Corte não permite verificar se a legislação federal infraconstitucional ficou, ou não, malferida, sendo de rigor a incidência da Súmula n. 284 do Supremo Tribunal Federal.
+Nesse sentido, m esmo para os recursos interpostos com fulcro na alínea c do permissivo constitucional, a orientação jurisprudencial do Superior Tribunal de Justiça dispõe que "a falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia" (AgInt no REsp n. 1.351.296/MG, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/9/2019, DJe 12/9/2019).
+Ilustrativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83 DO STJ. IMPUGNAÇÃO ESPECÍFICA. INEXISTÊNCIA.
+1. "O conhecimento do recurso especial fundamentado na alínea "c" do inciso III do art. 105 da Constituição Federal, exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF" (AgInt no AREsp 1.899.097/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 4.4.2022, DJe de 8.4.2022).
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 do STJ.
+3. Não houve adequada impugnação ao fundamento da decisão recorrida que aplicou a Súmula n. 83 dessa Corte, cuja impugnação pressupõe a demonstração por meio de julgados atuais de que o caso é distinto daquele veiculado nos precedentes invocados como paradigmas, o que não ocorreu na hipótese.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.198.267/RO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECURSO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. HONORÁRIOS FIXADOS EM SENTENÇA. CPC/73. DIREITO ADQUIRIDO PROCESSUAL. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A alegada afronta a lei federal não foi demonstrada com clareza, pois a ausência dos dispositivos legais indicados como violados impede o conhecimento do recurso especial, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula n. 284 do STF.
+2. O conhecimento do recurso especial interposto com amparo no art. 105, III, "c", da CF exige, também, a indicação do dispositivo de lei federal, pertinente ao tema decidido, que supostamente teria sido objeto de interpretação divergente, sob pena de incidência da aludida Súmula n. 284 do STF.
+3. A jurisprudência do STJ é no sentido d e que o marco temporal do direito à percepção dos honorários advocatícios sucumbenciais é a sentença, devendo ser aplicado o CPC/73 até o trânsito em julgado no tocante ao tema na hipótese dos autos. Precedente de Corte Especial (EAREsp n.1255986/PR).
+Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.311.109/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
