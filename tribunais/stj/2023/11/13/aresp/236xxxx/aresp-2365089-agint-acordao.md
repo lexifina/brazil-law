@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. APELAÇÃO. SERVIDORES PÚBLICOS MUNICIPAIS. PRETENSÃO AO AFASTAMENTO DA APLICAÇÃO DA NORMA PREVISTA NO ART. Sº. IX, DA LEI COMPLEMENTAR FEDERAL N. 173/2020, A QUAL VEDA CONTAGEM DE TEMPO DE SERVIÇO PARA CONCESSÃO DE ADICIONAIS TEMPORAIS E VANTAGENS SIMILARES, ATÉ 31/12/2021. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO. INCIDÊNCIA DA SÚMULAS N. 280/STF E DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de ação anulatória de ato administrativo/ normativo, cumulada com obrigação de fazer. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada. O valor da causa foi fixado em R$ 5.000,00 (cinco mil reais).
+II - No STJ, cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, o Decreto municipal n. 13.809/2020, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+IV - Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso diante da incidência de óbices ao conhecimento.
+O recurso especial foi interposto contra acórdão com a seguinte ementa, que bem resume a discussão trazida a esta Corte:
+APELAÇÃO. SERVIDORES PÚBLICOS MUNICIPAIS. GUARUJÁ. PRETENSÃO AO AFASTAMENTO DA APLICAÇÃO DA NORMA PREVISTA NO ART. Sº. INCISO IX. DA LEI COMPLEMENTAR FEDERAL Nº 173/2020, A QUAL VEDA CONTAGEM DE TEMPO DE SERVIÇO PARA CONCESSÃO DE ADICIONAIS TEMPORAIS E VANTAGENS SIMILARES, ATÉ 31.12.2021. CONSTITUCIONALIDADE RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL NAS ADIS 6442. 6447. 6450 E 6525. E NO RE 1.311.742/SP. TEMA 1137/STF. AUSÊNCIA DE ILEGALIDADE NA SUSPENSÃO DO CÔMPUTO DO TEMPO DE SERVIÇO PARA A CONCESSÃO DE ANUÊNIOS, TRIÉNIOS. QÜINQÜÊNIOS E LICENÇAS-PRÊMIOS. DECRETO MUNICIPAL Nº 13.809/2020 QUE. TODAVIA, EXTRAPOLOU AS MARGENS DA LEI AO VEDAR A CONTAGEM DE TEMPO PARA FINS DE PROMOÇÃO POR MÉRITO E QUALIFICAÇÃO, PROMOÇÃO HORIZONTAL. PROGRESSÃO FUNCIONAL POR TITULOS - QUE NÃO SÃO CONCEDIDOS POR MERO DECURSO DE PRAZO, MAS APENAS PELO PREENCHIMENTO DE REQUISITOS PRÓPRIOS, CONFORME ESPECIFICADO NA LEGISLAÇÃO LOCAL. PROCEDÊNCIA PARCIAL DA AÇÃO. RECURSO PROVIDO EM PARTE.
+Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida. Confira-se:
+ ..
+A Sumula 280, do E. STF, possui a seguinte redação "Por ofensa a direito local não cabe recurso extraordinário". Pois nos presentes autos não se discutem fatos ou direito local, mas apenas a aplicação da norma federal ao caso. O que se pretende com o presente recurso é a correta aplicação do art. 8º, da LC 173/20, nos termos como interpretado pelo STF na Reclamação nº 48.178, de relatoria da Ministra CÁRMEN LÚCIA. garantindo o dever da municipalidade de não computar o tempo de trabalho dos servidores entre os meses de maio/2020 e dezembro de 2021,para os fins que especificam a lei federal
+ ..
+De fato, como já exposto, pretende-se com o presente recurso especial a correta aplicação do art. 8º, da LC 173/20, nos termos como interpretado pelo STF na Reclamação nº 48.178, de relatoria da Ministra CÁRMEN LÚCIA. garantindo o dever da municipalidade de não computar o tempo de trabalho dos servidores entre os meses de maio/2020e dezembro de 2021, para os fins que especificam a lei federal.
+ ..
+3.1.2 - Da demonstração que o aresto objurgado não decidiu a querela em conformidade coma jurisprudência do E. STF.
+ ..
+Neste sentido, necessário a aplicação imediata do entendimento já proferido pelo E. STF na Reclamação nº 48.178, de relatoria da Ministra CÁRMEN LÚCIA sobre o tema, que reconheceu a constitucionalidade do dispositivo que vedou a contagem de tempo aquisitivo entre maio/2020 e dezembro/2021, para fins de concessão de anuênios, triênios, quinquênios, licenças-prêmio e demais mecanismos equivalentes que aumentem a despesa com pessoal em decorrência da aquisição de determinado tempo de serviço.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. NA ORIGEM. APELAÇÃO. SERVIDORES PÚBLICOS MUNICIPAIS. PRETENSÃO AO AFASTAMENTO DA APLICAÇÃO DA NORMA PREVISTA NO ART. Sº. IX, DA LEI COMPLEMENTAR FEDERAL N. 173/2020, A QUAL VEDA CONTAGEM DE TEMPO DE SERVIÇO PARA CONCESSÃO DE ADICIONAIS TEMPORAIS E VANTAGENS SIMILARES, ATÉ 31/12/2021. NESTA CORTE NÃO SE CONHECEU DO RECURSO. AGRAVO INTERNO. ANÁLISE DAS ALEGAÇÕES. MANUTENÇÃO DA DECISÃO RECORRIDA QUE NÃO CONHECEU DO RECURSO. INCIDÊNCIA DA SÚMULAS N. 280/STF E DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de ação anulatória de ato administrativo/ normativo, cumulada com obrigação de fazer. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada. O valor da causa foi fixado em R$ 5.000,00 (cinco mil reais).
+II - No STJ, cuida-se de agravo interno interposto contra decisão que não conheceu do recurso especial diante da incidência de óbices ao seu conhecimento. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+III - O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, o Decreto municipal n. 13.809/2020, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+IV - Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+V - Agravo interno improvido.
+VOTO
+A Corte de origem se manifestou quanto à matéria de fundo utilizando-se dos seguintes fundamentos:
+Não obstante, ao regulamentar por meio do Decreto Municipal nº 13.809/2020 a lei em questão, o Município do Guarujá vedou a contagem de tempo também para casos em que o respectivo reflexo nas despesas com pessoal não épura decorrência da aquisição de determinado tempo de serviço.
+(..)
+O Decreto Municipal impugnado extrapolou, portanto, os limites da Lei Complementar Federal, vedando a contagem de tempo também para fins em que ela própria não basta para determinar aumento remuneratório ou sequer deve ser considerada para tanto. Assim, levando-se em conta a redação do art. 1º, do Decreto Municipal nº 13.809/2020, é o caso de se julgar o pedido parcialmente procedente, apenas para manter a suspensão da contagem de tempo para os estritos fins de concessão do adicional por tempo de serviço, sexta-parte e licença-prêmio durante o período de 27.05.2020 a 31.12.2021.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, o Decreto municipal n. 13.809/2020, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020.)
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
