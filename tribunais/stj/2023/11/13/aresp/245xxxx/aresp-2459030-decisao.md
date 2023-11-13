@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por FUNDACAO CORSAN DOS FUNCIONARIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/08/2023.
+Concluso ao gabinete em: 08/11/2023.
+Ação: ordinária revisional ajuizada por DIEGO VAZ PAIXAO em desfavor de FUNDACAO CORSAN DOS FUNCIONARIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN.
+Sentença: julgou improcedentes os pedidos iniciais.
+Acórdão: deu parcial provimento à apelação de DIEGO VAZ PAIXAO, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. FUNDAÇÃO CORSAN (FUNCORSAN). I. TRATANDO-SE A RÉ DE ENTIDADE DE PREVIDÊNCIA PRIVADAFECHADA, NÃO PODE VALER-SE DAS DISPOSIÇÕES LEGAIS QUEREGEM AS INSTITUIÇÕES FINANCEIRAS, DE MODO QUE, NO CASO,DEVE SER OBSERVADA A VEDAÇÃO RELATIVA À COBRANÇA DEJUROS SUPERIORES A 12% AO ANO, NOS TERMOS DO ART. 1º DA LEI DEUSURA (DEC. 22.626/33). AINDA, SÃO ABUSIVAS AS TAXASPACTUADAS NO CONTRATO FIRMADO ENTRE AS PARTES, DEVENDOOS JUROS REMUNERATÓRIOS SEREM LIMITADOS A 1%. II. A CAPITALIZAÇÃO MENSAL DOS JUROS REMUNERATÓRIOSSOMENTE PASSOU A SER ACEITA APÓS A EDIÇÃO DA MEDIDAPROVISÓRIA Nº 2.170-36, DE 23 DE AGOSTO DE 2001, EXIGINDO-SE,AINDA, SUA PREVISÃO EXPRESSA NOS CONTRATOS FIRMADOS ENTREAS PARTES. NO CASO, DEVE SER AFASTADA A CAPITALIZAÇÃO, PORAUSÊNCIA DE PACTUAÇÃO. III. INEXISTE ABUSIVIDADE DECORRENTE DA TAXA DEADMINISTRAÇÃO, A QUAL DEVE SER CALCULADA SOBRE O TOTALDA OPERAÇÃO DE REFINANCIAMENTO, JÁ QUE O CAPITALEMPRESTADO, DE FATO, É COMPOSTO PELA SOMA DO SALDO DOMÚTUO ANTERIOR COM O CHAMADO "TROCO". IV. NO QUE SE REFERE À COMPENSAÇÃO DE VALORES E ÀREPETIÇÃO DO INDÉBITO, TRATA-SE DE DECORRÊNCIA LÓGICA DAPRETENSÃO REVISIONAL E DO CONSEQUENTE ACERTAMENTO DARELAÇÃO DÉBITO-CRÉDITO, EM VISTA DA VEDAÇÃO AOENRIQUECIMENTO SEM CAUSA, PELO QUE DEVEM SER ADMITIDAS,INDEPENDENTEMENTE DE PROVA DO PAGAMENTO POR ERRO. V . ANTE O RESULTADO DO JULGAMENTO, IMPOSITIVA AREDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS, NOS TERMOS DOSARTS. 85 E 86, AMBOS DO CPC. APELAÇÃO CÍVEL PARCIALMENTE PROVIDA. UNÂNIME." (e-STJ, fls. 216/217)
+Embargos de declaração: opostos pelo agravado, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 489 e 1.022, II do CPC, sustentando: i) omissão e negativa de prestação jurisdicional acerca das questões relativas ao equilíbrio atuarial da carteira de empréstimos por ela administrada, regulamentado pela Resolução 3.792/2009, do BACEN e art. 9º, § 1º, da LC 109/2001.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das questões suscitadas, nos seguintes termos:
+"(..) a propósito da necessidade de equilíbrio atuarial, cumpre acrescentar que a relação jurídica objeto de revisão não é a previdenciária em si, mas, sim, a contratual, em que a requerida fez as vezes de instituição financeira. Assim, não se vislumbra que a limitação dos juros, com base no diploma civil, seja capaz de acarretar déficit atuarial à entidade demandada - até porque, somente fez ilações nesse sentido, não demonstrando minimamente o real risco à cobertura dos seus compromissos. Demais disso, o mencionado "equilíbrio atuarial" não pode ser utilizado como escopo para a cobrança de juros remuneratórios em percentual superior ao legalmente permitido. Destarte, verifica-se que a pretensão da embargante é unicamente rediscutir a matéria dirimida no acórdão fustigado, pois todas as questões suscitadas foram adequadamente examinadas, sendo nítido, por conseguinte, o descabimento dos presentes aclaratórios. " (e-STJ, fl. 249)
+Assim, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Forte no exposto, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários, fixados anteriormente em 10% sobre o valor do proveito econômico obtido (e-STJ, fl. 214), para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO FIRMADO COM ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART. 489, §1º E 1022 DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+1. Ação revisional de contrato de previdência privada.
+2. Ausentes os vícios do art. 1.022 do CPC/2015, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, do CPC/2015.
+4. Agravo conhecido. Recurso especial não provido.
