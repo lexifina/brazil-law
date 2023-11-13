@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RESTABELECIMENTO DE PLANO DE SAÚDE. CITAÇÃO. AVISO DE RECEBIMENTO SUBSCRITO POR PESSOA DIVERSA DA CITANDA. CITAÇÃO VÁLIDA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURIPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu, com base no conjunto probatório dos autos, que não há nulidade na citação em questão.
+2. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca de fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por FUNDAÇÃO CESP contra decisão monocrática por mim proferida, por meio da qual conheci do agravo para não conhecer do recurso especial, em razão da incidência da Súmula n. 7/STJ, por demandar análise de provas a pretensão da ora agravante acerca de nulidade da sua citação (fls. 272-277).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 145):
+Agravo de Instrumento. Ação de obrigação de fazer. Restabelecimento de plano de saúde. Decisão que considerou válida a citação recebida por funcionário de portaria com restrição de acesso ou edilício. Agravante que inclusive já havia recebido o protocolo com a concessão da liminar para o restabelecimento do plano. Citação válida. Decisão mantida. Recurso desprovido.
+Embargos de declaração rejeitados (fls. 151-155).
+No presente agravo interno, sustenta a agravante, em síntese, que improcedente a incidência da Súmula n. 7 do STJ, no caso, porquanto a solução da controvérsia não demanda a análise de matéria fática, mas a correta interpretação dos dispositivos de lei federal apontados por violados, ao tempo em que reitera as alegações do recurso especial de nulidade da citação, no caso, pois a citação foi recebida por funcionário de portaria terceirizada do edifício onde se localiza a sede da empresa.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravado não apresentou contrarrazões (fl. 296).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. RESTABELECIMENTO DE PLANO DE SAÚDE. CITAÇÃO. AVISO DE RECEBIMENTO SUBSCRITO POR PESSOA DIVERSA DA CITANDA. CITAÇÃO VÁLIDA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURIPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem entendeu, com base no conjunto probatório dos autos, que não há nulidade na citação em questão.
+2. Logo, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, ao ensejar novo juízo acerca de fatos e provas. Incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. A necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+No caso dos autos, insurge-se a agravante contra o entendimento do Tribunal de origem de que que no caso não há nulidade na citação em questão. Suscita nulidade da citação, no caso, pois a citação foi recebida por funcionário de portaria terceirizada do edifício onde se localiza a sede da empresa.
+Consoante relatado, o agravo em recurso especial foi conhecido para não se conhecer do recurso especial, em razão da incidência da Súmula n. 7/STJ, no caso, por demandar a análise de provas a pretensão do ora agravante.
+Não prospera o presente recurso.
+Com efeito, conforme assentado na decisão agravada, inviável a apreciação das alegações da parte, considerando que a Corte de origem, ao entender que no caso não há nulidade na citação da recorrente, ora agravante, firmou entendimento com base no conjunto probatório dos autos. Confira-se o seguinte excerto do voto condutor (fl. 146):
+Não prospera a alegação de nulidade da citação defendida pela agravante, tendo em vista que a carta de citação fora encaminhada ao mesmo endereço declinado na liminar recebida (fls. 109/111).
+Deste modo, a citação via postal à agravante no endereço que consta no AR de fls. 114 é válida, sendo suficiente para consumar o ato processual, e por sua vez, regular, ainda que recebida por terceiro, desde que devidamente encaminhada para o endereço declinado na exordial, como ocorreu.
+Nesse sentido, entendimento do C. Superior Tribunal de Justiça:
+Assim, rever tal entendimento, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, a eventualmente ensejar novo juízo acerca dos fatos e provas. Sendo assim, incide no caso a Súmula n. 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. APLICAÇÃO DA TEORIA DA APARÊNCIA. VALIDADE DA CITAÇÃO. SÚMULAS 7 E 83/STJ. LEGITIMIDADE PASSIVA DA INSURGENTE. PREMISSA FUNDADA NA APRECIAÇÃO FÁTICO-PROBATÓRIA E EM TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. PRESCRIÇÃO DECENAL. PONTO DO ARESTO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. OCORRÊNCIA DE DANOS MORAIS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. A segunda instância concluiu pela validade da citação da ora insurgente, aplicando a teoria da aparência. Além disso, estabeleceu que ela fazia parte do mesmo grupo econômico. Essas ponderações, além de terem sido efetivamente fundadas na apreciação fático-probatória da causa (Súmula 7/STJ), estão realmente em harmonia com a jurisprudência desta Corte Superior - Súmula 83/STJ.
+3. Consoante orientação do Superior Tribunal de Justiça, "tendo o Tribunal de origem concluído que as empresas pertencem ao mesmo conglomerado econômico, deve ser reconhecida a aplicação da Teoria da Aparência, a qual é amplamente aceita nesta Corte" (AgInt no AREsp 1.698.883/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/10/2020, DJe 17/11/2020).
+4. Aplica-se a teoria da aparência para reconhecer a validade da citação via postal com aviso de recebimento (AR), efetivada no endereço da pessoa jurídica e recebida por pessoa que, ainda que sem poder expresso para tanto, a assina sem fazer nenhuma objeção imediata. Precedente.
+5. O aresto também concluiu que a insurgente é parte legítima para figurar no polo passivo da demanda, por fazer parte do mesmo grupo econômico, razão a atrair sua responsabilidade solidária. Tais premissas foram extraídas do contexto fático-probatório e de termos contratuais - Súmulas 5 e 7/STJ.
+6. A conclusão no sentido da inexistência de prescrição, por ser tratar de lapso prescricional decenal, está em harmonia com a jurisprudência desta Corte Superior - Súmula 83/STJ.7. De acordo com a jurisprudência desta Corte Superior, nas controvérsias relacionadas à responsabilidade contratual, aplica-se a regra geral (art. 205 CC/2002) que prevê 10 (dez) anos de prazo prescricional e, quando se tratar de responsabilidade extracontratual, aplica-se o disposto no art. 206, § 3º, V, do CC/2002, com prazo de 3 (três) anos. Precedentes.
+8. A indenização por danos morais e seu respectivo valor foram estipulados com base na interpretação fático-probatória, ocasionando o óbice da Súmula 7/STJ.
+9. Agravo interno desprovido.
+(AgInt no AREsp n. 2.067.780/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Outrossim, consoante também assentado, quanto à alegada divergência jurisprudencial, não é possível o conhecimento do nobre apelo interposto pela alínea "c", na hipótese em que ele está apoiado em fatos, e não na interpretação da lei, assim a necessidade de reexame de matéria fática torna prejudicado o exame da divergência jurisprudencial, considerando a inevitável ausência de similitude fática entre acórdãos.
+A propósito, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. EMBARGOS INFRINGENTES. APELAÇÃO. FUNDAMENTOS. ACRÉSCIMOS. RESPOSTA DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. PROVAS. VALORAÇÃO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TESTEMUNHA. DEPOIMENTO COMO INFORMANTE. VALOR. SÚMULA Nº 7/STJ. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL. CABIMENTO. FECHAMENTO DO NEGÓCIO. RESPONSABILIDADE. AVALIAÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reprodução dos fundamentos expostos no voto da relatora da apelação, por si só, não implica em deficiência de fundamentação, considerando que o tribunal de origem dirimiu as questões postas de forma a alcançar solução unânime à controvérsia.
+3. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, que preceitua caber ao julgador dirigir a instrução probatória através da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+4. Tendo o tribunal de origem formado o seu convencimento nos elementos de provas disponíveis dos autos e indicado os motivos para tanto, a intervenção desta Corte quanto à valoração probatória encontra óbice na Súmula nº 7/STJ.
+5. Não se traduz em nulidade valorar o depoimento de testemunha presumidamente interessada no desfecho da demanda como se prestado por informante, devendo o magistrado lhes atribuir o valor que possam merecer.
+6. Na hipótese, acolher a tese recursal, de que os depoimentos não deveriam ter sido deferidos porque restou incontroverso o interesse dos informantes no litígio, demandaria o revolvimento de fatos e provas dos autos por esta Corte, o que atrai o óbice da Súmula nº 7/STJ.
+7. A comissão de corretagem por intermediação imobiliária é devida se os trabalhos de aproximação realizados pelo corretor resultarem no resultado útil pretendido, qual seja no consenso das partes quanto aos elementos essenciais do negócio.
+8. No caso, rever o entendimento da Corte local, a partir da tese de que o recorrido não foi o responsável pelo fechamento do negócio, exigiria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial devido ao óbice da Súmula nº 7/STJ.
+9. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+10. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+11. Agravo interno não provido.
+(AgInt no REsp n. 1.973.116/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+Consignou-se, outrossim, que, nos termos da jurisprudência desta corte, é válida a citação postal encaminhada ao domicílio do devedor, mesmo que recebida por terceiros.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE CONDOMÍNIO. PROCEDÊNCIA. ART. 1.022 DO NCPC. OMISSÃO INEXISTENTE. VIOLAÇÃO DE DISPOSITIVO DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. CITAÇÃO POSTAL. ENTREGA NO ENDEREÇO INFORMADO, PORÉM A PESSOA ESTRANHA À LIDE. VALIDADE. PRECEDENTES. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em ofensa ao art. 1.022 do NCPC quando o Tribunal de origem se manifesta clara e fundamentadamente acerca das questões que lhe foram postas em debate.3. Os arts. 269, 275 e 280 do NCPC, tidos por violados, não foram objeto da análise pela Corte de origem. Incidência da Súmula nº 211 do STJ.
+4. É válida a citação postal encaminhada ao domicílio do devedor, mesmo que recebida por terceiros. Precedentes. Incidência da Súmula nº 568 do STJ.
+5. De acordo com o Enunciado Administrativo nº 7 do STJ, nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC.
+6. Em virtude do não conhecimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, aplica-se ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp n. 1.700.601/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/12/2018, DJe de 5/12/2018.)
+Não tendo a parte agravante trazido fundamento ou fato novo a ensejar a alteração do referido entendimento, a negativa de provimento ao presente recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
