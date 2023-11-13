@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PETIÇÃO RECURSAL JUNTADA AOS AUTOS REFERENTE A PROCESSO DIVERSO. APROVEITAMENTO. IMPOSSIBILIDADE.
+1. É firme o entendimento desta Corte nos sentido de que ""Não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (AgRg no Ag 427.696/RJ, Rel. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, DJ 12/8/02)" (AgRg no Ag n. 1.367.881/SP, relator Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 2/2/2012).
+2. Caso concreto em que, contra a decisão que inadmitiu na origem o apelo nobre, a parte ora agravante protocolizou nos autos agravo em recurso especial referente a outro processo, não podendo prevalecer o argumento de que houve mero erro material na identificação do documento. Isso porque, para além do fato de constar referência a partes e número de processo diversos, as razões nele expendidas são dissociadas da hipótese vertente, pois ali se ataca acórdão prolatado pela Terceira Câmara Cível do Tribunal de origem, enquanto o subjacente acórdão recorrido foi prolatado pela Segunda Câmara Cível daquela Corte.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por ALAGOAS PREVIDÊNCIA contra decisão de minha lavra, assim concebida (fl. 473):
+Trata-se de agravo (fls. 409/438) interposto por ALAGOAS PREVIDÊNCIA de decisão que inadmitiu na origem recurso especial manifestado contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas nos autos do Processo n. 0719552-46.2018.8.02.0001- TJ/AL, em que litiga contra GENILSON CORREIA DOS SANTOS.
+Sucede que os presentes autos referem-se ao recurso especial - inadmitido na origem (fls. 396/399) - interposto pelo ESTADO DE ALAGOAS contra acórdão prolatado na Apelação n. 0729189-55.2017.8.02.0001, que tem como parte autora, ora recorrida, CLEDIMILSON MEDEIROS DE ALMEIDA (fls. 349/358).
+Acrescente-se, outrossim, inexistir nos autos notícia de que contra a decisão suso mencionada, que negou seguimento ao apelo nobre do ESTADO DE ALAGOAS, tenha sido interposto agravo em recurso especial.
+ANTE O EXPOSTO, chamo o feito à ordem para: (a) tornar sem efeito a decisão de fls. 454/457, que julgou o agravo em recurso especial interposto por ALAGOAS PREVIDÊNCIA em face de GENILSON CORREIA DOS SANTOS; (b) à mingua da interposição de agravo em recurso especial pelo ESTADO DE ALAGOAS, declarar que nada há a ser decidido, determinando a baixa dos autos ao Tribunal de origem, tomando-se para tanto as medidas de estilo.
+Sustenta a agravante que (fl. 480):
+A decisão monocrática, com a devida vênia, laborou em excessivo rigor formal desconsiderando o cumprimento, pelos recorrentes, da integralidade dos requisitos para conhecimento do recurso especial, conforme se passa a demonstrar.
+Em resumo, a decisão que conheceu o agravo em recurso especial foi tornada sem efeito diante de simples erro material de digitação, decorrente da troca dos números e nomes das partes no cabeçalho da petição do recurso especial (e-STJ, fl. 279), em que pese o recurso aviado tratar da matéria adequada para os autos em análise.
+Como se sabe, a matéria objeto dos autos é tema repetitivo que vem sendo objeto de centenas de recursos especiais, portanto a matéria tratada nos autos nº 0719552-46.2018.8.02.0001 -TJ/AL, em que a Fazenda Pública que litiga com GENILSON CORREIA DOS SANTOS e possui o mesmo teor dos presentes autos nº 0729189-55.2017.8.02.0001, que tem como parte autora, ora recorrida, CLEDIMILSON MEDEIROS DE ALMEIDA.
+Tal fato constituiu mero vício formal, assim, é de se notar que o § 3º, do art. 1.029, do Código de Processo Civil faculta ao Superior Tribunal de Justiça desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave.
+Requer, assim, o provimento do agravo interno.
+Sem impugnação (fl. 486).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PETIÇÃO RECURSAL JUNTADA AOS AUTOS REFERENTE A PROCESSO DIVERSO. APROVEITAMENTO. IMPOSSIBILIDADE.
+1. É firme o entendimento desta Corte nos sentido de que ""Não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (AgRg no Ag 427.696/RJ, Rel. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, DJ 12/8/02)" (AgRg no Ag n. 1.367.881/SP, relator Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 2/2/2012).
+2. Caso concreto em que, contra a decisão que inadmitiu na origem o apelo nobre, a parte ora agravante protocolizou nos autos agravo em recurso especial referente a outro processo, não podendo prevalecer o argumento de que houve mero erro material na identificação do documento. Isso porque, para além do fato de constar referência a partes e número de processo diversos, as razões nele expendidas são dissociadas da hipótese vertente, pois ali se ataca acórdão prolatado pela Terceira Câmara Cível do Tribunal de origem, enquanto o subjacente acórdão recorrido foi prolatado pela Segunda Câmara Cível daquela Corte.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O presente agravo interno não merece prosperar.
+Como cediço, é firme o entendimento desta Corte nos sentido de que ""Não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (AgRg no Ag 427.696/RJ, Rel. Min. SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, DJ 12/8/02)" (AgRg no Ag n. 1.367.881/SP, relator Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 2/2/2012.).
+In casu, nada há nos autos que possa corroborar a assertiva de que houve simples erro material na peça recursal de fls. 409/439 (petição do agravo em recurso especial).
+Em primeiro lugar, porque, a despeito de a espécie cuidar de demanda em que litigam a ora agravante e CLEDIMILSON MEDEIROS DE ALMEIDA, o agravo em recurso especial diz respeito a uma demanda diversa: Processo n. 0719552-46.2018.8.02.0001- TJ/AL, em que a ora agravante litiga contra GENILSON CORREIA DOS SANTOS (fls. 409/410).
+Em segundo lugar, porquanto as referências contidas no aludido arrazoado recursal são complemente dissociadas dos presentes autos, haja vista que ali se ataca acórdão prolatado pela Terceira Câmara Cível do Tribunal de origem (fl. 412), enquanto o subjacente acórdão recorrido foi prolatado pela Segunda Câmara Cível daquela Corte (fls. 217/230).
+Destarte, tal como consignado no decisum atacado, não há como conhecer do agravo de fls. 419/439.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
