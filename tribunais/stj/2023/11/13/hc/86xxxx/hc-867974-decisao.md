@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VENICIO ALVES DIAS AMORIM contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação criminal n. 1502809-83.2021.8.26.0540.
+Consta dos autos que o paciente foi condenado pelo Juízo da 2ª Vara Criminal da Comarca de Santo André, à pena de 02 (dois) anos e 06 (seis) meses de reclusão, em regime aberto, substituída por restritiva de direitos e pagamento de 250 dias-multa, por incursão no artigo 33, parágrafo 4º, da Lei 11.343/06, conforme a sentença de fls. 20-24.
+Não satisfeitas, ambas as partes interpuseram apelação criminal ao Tribunal de Justiça, que negou provimento ao recurso da defesa e deu provimento ao recurso da acusação, para condenar o paciente como incurso no artigo 33, caput, da Lei 11.343/06, ao cumprimento de 05 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa, conforme o acórdão de fls. 25-33.
+O paciente impetrou perante o Superior Tribunal de Justiça, o HC n. 812.275-SP, em que reconheci a incidência do artigo 33, parágrafo 4º, da Lei 11.343/2006, e concedi a ordem de habeas corpus para redimensionar a pena do paciente para 04 anos de reclusão e 400 dias-multa, fixando o regime inicial aberto, com a conversão da pena privativa de liberdade por restritiva de direitos (fls. 84-87, do HC n. 812.275-SP).
+No presente writ, o impetrante renova o pedido formulado no HC n. 812.275-SP, defendendo que o acórdão impugnado (fls. 25-33) padece de flagrante ilegalidade, consistente na negativa à aplicação da causa especial de diminuição de pena, prevista no § 4º do artigo 33 da Lei 11.343/06.
+Requer, liminarmente e no mérito, a concessão da ordem, de modo que seja a aplicada a causa especial de diminuição de pena, prevista no § 4º do artigo 33 da Lei 11.343/06, e seja fixado o regime inicial semiaberto.
+É o relatório. DECIDO.
+Como relatado, o objeto do presente writ caracteriza reiteração de pedido já apreciado no julgamento do HC n. 812.275-SP, oportunidade em que concedi a ordem de habeas corpus para redimensionar a pena do paciente para 04 anos de reclusão e 400 dias-multa, fixando o regime inicial aberto, com a conversão da pena privativa de liberdade por restritiva de direitos (fls. 84-87, do HC n.812.275-SP).
+Nesse diapasão, o artigo 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+Dê-se ciência ao Ministério Público Federal.
+EMENTA
