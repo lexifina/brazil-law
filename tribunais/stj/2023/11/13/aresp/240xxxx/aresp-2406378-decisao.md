@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo, manejado por MONDELEZ BRASIL LTDA, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região , assim ementado (fl. 76):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA.OFERECIMENTO DE SEGURO GARANTIA. EXISTÊNCIA DE DEPÓSITOS EM OUTRO PROCESSO A RESPEITO DOS QUAIS A EXEQUENTE DEMONSTRA MAIOR INTERESSE. POSSIBILIDADE DE ATENDIMENTO DO PEDIDO DA EXEQUENTE DE PENHORA NO ROSTO DOS AUTOS.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 107/109.
+A parte recorrente aponta violação aos arts. 7º, II, 8º e 9º da Lei 6.830/80. Sustenta, em resumo, que "considerando o comparecimento espontâneo da Executada, ora Recorrente, sem sequer ter sido citada, apresentando seguro garantia em montante suficiente para abarcar integralmente o débito executado, não há que se falar em deferimento de penhora de valores, ainda que seja dinheiro/depósito" (fl. 126).
+Contrarrazões apresentadas às fls. 137/142.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso dos autos, observa-se que a Corte a quo decidiu a controvérsia acerca da possibilidade de penhora de valores em outros autos, a despeito da oferta de seguro garantia, com base no entendimento proferido em recurso especial julgado pelo rito dos recursos repetitivos, a saber, REsp 1.337.790/PR - Tema 578, concluindo pela adequação do acórdão recorrido a esse precedente. É o que se verific a no seguinte trecho (fl. 79):
+Por conta dessa contingência, o pedido da exequente União (Fazenda Nacional) de q ue a constrição recaia sobre valores que a parte executada mantém em depósitos em outros autos não se trata propriamente de pedido de "substituição da penhora". Sem que haja ainda penhora, o que a exequente pretende é guiar a ordem de constrição conforme a ordem legal de penhora e seus interesses como credora, cujo atendimento, ademais, representa o mote de processo executivo (cf. STJ, RECURSO ESPECIAL Nº1.337.790 - PR (repetitivo), Primeira Seção, DJe 07-10-2013).
+Nesse contexto, resta prejudicada a apreciação do recurso especial, pois o Tribunal de origem entendeu que o acórdão recorrido está em conformidade com as teses adotadas nos precedentes indicados, o que afasta o disposto no art. 1.041 do CPC/2015, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.".
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
