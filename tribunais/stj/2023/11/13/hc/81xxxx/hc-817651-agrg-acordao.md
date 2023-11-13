@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e João Batista Moreira (Desembargador convocado do TRF1) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DA APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DA LEI DE DROGAS. SUPRESSÃO DE INSTÂNCIA. AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA EM DECISÃO MONOCRÁTICA DESSA CORTE SUPERIOR. INEXISTÊNCIA DE CONSEQUENTE LÓGICO-JURÍDICO A IMPOR A CONCESSÃO DO PRIVILÉGIO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido da aplicação da minorante prevista no § 4º da Lei de Drogas. Tese não foi enfrentada pela eg. Corte de origem. Considerando que a Corte originária não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+III - Afastamento da agravante da reincidência em decisão monocrática dessa Corte Superior. A condenação definitiva registrada por crime anterior e com o trânsito em julgado posterior à data do fato apurado na ação penal, a despeito de não caracterizar a agravante da reincidência, pode ser valorada como maus antecedentes. Precedentes.
+IV - Inexistência de consequente lógico-jurídico a impor a concessão do privilégio. Com efeito, um dos requisitos para a obter o tráfico privilegiado é a primariedade do paciente, nos termos do § 4º do art. 33 da Lei de Drogas. Desse modo, não assisti razão à defesa em afirmar que o afastamento da reincidência conduz necessariamente à concessão do privilégio na hipótese em apreço. Portanto, não há nenhuma ilegalidade a ser reparada, devendo o pedido de aplicação do tráfico privilegiado ser feito perante a autoridade competente para conhecê-lo.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DOUGLAS EDSON GOMES DA SILVA contra a decisão de fls. 88-91, que concedeu parcialmente a ordem, a fim de afastar a agravante da reincidência, mas sem reflexos no quantum de pena aplicado, mantido os demais termos da condenação.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 05 (cinco) anos de reclusão, em regime inicial fechado, mais o pagamento de 500 (quinhentos) dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006(fls. 32-36).
+Inconformada, a defesa interpôs apelação perante o Tribunal de origem, que não conheceu do recurso, consoante voto condutor do v. acórdão de fls. 15-27.
+Ainda irresignada, a defesa impetrou o presente writ, no qual alegou, em síntese, a ocorrência de constrangimento ilegal, pois não há lastro jurídico para a incidência da agravante da reincidência.
+Aduziu que o trânsito em julgado da sentença condenatória utilizada para caracterizar a reincidência é posterior à dato de delito em julgamento.
+Nessa senda, ao se decotar referida agravante, pugnou pela aplicação da atenuante da confissão espontânea, ainda que a reprimenda fique abaixo da pena-mínima, ao fundamento de inaplicável a Súmula n. 231 do STJ.
+Uma vez afastada a agravante da reincidência, argumentou ser aplicável o tráfico privilegiado em seu grau máximo.
+Em síntese, a defesa buscou na impetração: i) o afastamento da incidência da agravante da reincidência; ii) a diminuição da reprimenda abaixo da pena-mínima, ao fundamento de não ser aplicável a Súmula n. 231 do STJ; e iii) a concessão do tráfico privilegiado.
+O Ministério Público Federal, às fls. 82-86, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela concessão parcial da ordem.
+Em decisão monocrática (fls. 88-91), concedi parcialmente a ordem, a fim de afastar a agravante da reincidência, mas sem reflexos no quantum de pena aplicado, mantido os demais termos da condenação.
+Nas razões do presente inconformismo (fls. 100-108), a parte agravante alega ser possível superar o óbice da supressão de instância, haja vista a flagrante ilegalidade.
+Afirma que o Tribunal local se pronunciou sobre a matéria de forma implícita, isso porque o tráfico privilegiado não foi aplicado, uma vez que a instâncias a quo considerou a reincidência, a qual fora afastada por este Sodalício em decisão monocrática.
+Argumenta que o reconhecimento por parte desta Corte Superior de que o paciente possui maus antecedente, em vez de reincidência, tem por consequência a incidência a minorante prevista no art. 33, § 4º, da Lei de Drogas.
+Defende a aplicação do tráfico privilegiado.
+Requer a reconsideração do decisum agravado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DA APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DA LEI DE DROGAS. SUPRESSÃO DE INSTÂNCIA. AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA EM DECISÃO MONOCRÁTICA DESSA CORTE SUPERIOR. INEXISTÊNCIA DE CONSEQUENTE LÓGICO-JURÍDICO A IMPOR A CONCESSÃO DO PRIVILÉGIO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido da aplicação da minorante prevista no § 4º da Lei de Drogas. Tese não foi enfrentada pela eg. Corte de origem. Considerando que a Corte originária não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+III - Afastamento da agravante da reincidência em decisão monocrática dessa Corte Superior. A condenação definitiva registrada por crime anterior e com o trânsito em julgado posterior à data do fato apurado na ação penal, a despeito de não caracterizar a agravante da reincidência, pode ser valorada como maus antecedentes. Precedentes.
+IV - Inexistência de consequente lógico-jurídico a impor a concessão do privilégio. Com efeito, um dos requisitos para a obter o tráfico privilegiado é a primariedade do paciente, nos termos do § 4º do art. 33 da Lei de Drogas. Desse modo, não assisti razão à defesa em afirmar que o afastamento da reincidência conduz necessariamente à concessão do privilégio na hipótese em apreço. Portanto, não há nenhuma ilegalidade a ser reparada, devendo o pedido de aplicação do tráfico privilegiado ser feito perante a autoridade competente para conhecê-lo.
+Agravo regimental desprovido.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Assinalo, ainda, que a matéria examinada na decisão monocrática e não impugnada oportunamente, nas razões de agravo regimental, encontra-se acobertada pela preclusão consumativa.
+De fato, no que tange ao pedido de aplicação do tráfico privilegiado, observo que a referida tese não foi enfrentada pela eg. Corte de origem.
+Nesse compasso, considerando que a Corte originária não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Nesse sentido: AgRg no HC n. 651.929/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/4/2021; AgRg no HC n. 693.713/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/11/2021; AgRg no HC n. 688.805/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 11/3/2022; AgRg no HC n. 779.647/SC, Sexta Turma, Rel.ª Min.ª Laurita Vaz, DJe de 15/12/2022; e AgRg no HC n. 755.804/TO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 15/12/2022.
+De mais a mais, como bem assinalado na decisão agravada, a condenação definitiva registrada por crime anterior e com o trânsito em julgado posterior à data do fato apurado na ação penal, a despeito de não caracterizar a agravante da reincidência, pode ser valorada como maus antecedentes. Veja-se: HC n. 390.837/SP, Quinta Turma, Rel. Min. Reynaldo Soares Da Fonseca, DJe de 31/08/2017; e AgRg no AREsp n. 1265696/ES, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 1º/06/2018; AgRg no HC n. 608.163/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 9/4/2021; AgRg no HC n. 717.593/SP, Quinta Turma, de minha relatoria, DJe de 14/3/2023; e AgRg no HC n. 783.764/MG, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 11/5/2023.
+Além disso, um dos requisitos para a obter o privilégio é a primariedade do paciente, nos termos do § 4º do art. 33 da Lei de Drogas.
+Desse modo, não assiste razão à defesa em afirmar que o afastamento da reincidência conduz necessariamente à concessão do privilégio na hipótese em apreço.
+Portanto, não há nenhuma ilegalidade a ser reparada, devendo o pedido de aplicação do tráfico privilegiado ser feito perante a autoridade competente para conhecê-lo.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
