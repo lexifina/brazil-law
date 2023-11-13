@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE . EFEITO SUSPENSIVO. FALTA DOS REQUISITOS. DECISÃO MANTIDA.
+1. O deferimento de tutela provisória de urgência pressupõe a demonstração de elementos que evidenciem a probabilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo.
+2. No caso concreto, não se verifica a presença dos requisitos, pois não verificada a viabilidade da tese deduzida no especial, aplicando-se as Súmulas n. 7 do STJ e 735 do STF, tampouco o alegado perigo de dano irreversível.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 316/331) interposto contra decisão desta relatoria que indeferiu o pedido de efeito suspensivo ao agravo em recurso especial (e-STJ fls. 308/312).
+O agravante sustenta que (e-STJ fls. 320/321):
+(..) o recurso especial interposto pelo Banco Pine não encontra qualquer óbice na Súmula 735/STF, SEJA PORQUE O V. ACÓRDÃO RECORRIDO COMETEU VIOLAÇÃO DIRETA E FRONTAL AOS ARTIGOS 301 E 799, VIII, DO CPC OU PORQUE CONSISTE EM DECISÃO TERATOLÓGICA.
+22. Com efeito, não se nega que esse C. STJ possui sedimentado entendimento no sentido de que, à luz da Súmula 735/STF, a decisão sobre a concessão ou não de tutela provisória, em regra, não comporta a interposição de recurso especial, por se tratar de deliberação de caráter provisório, cujo reexame é possível a qualquer tempo pelas próprias instâncias ordinárias.
+23. No entanto, conforme já demonstrado no Pedido de Tutela Provisória, a própria jurisprudência desse C. STJ é pacífica ao admitir, em caráter excepcional, o manejo do recurso especial em face das decisões concessivas ou denegatórias de tutela de urgência que acabem incorrendo em violação direta ao próprio dispositivo legal que disciplina a tutela provisória.
+Destaca que (e-STJ fl. 323):
+32. Demonstrou-se, nesse sentido, que, diante das graves dificuldades financeiras enfrentadas pelo grupo empresarial comandado por sua família, a Executada Kátia Rabello, em conluio com as suas sobrinhas e ora Agravadas Vitória e Renata, bem como outros familiares, criaram uma sofisticada estrutura societária fraudulenta e praticaram inúmeros atos ilícitos, com a exclusiva finalidade ocultar e gerenciar vultoso patrimônio que tem as Executadas como verdadeiras titulares, impedindo que seus credores o atinjam.
+33. Convenhamos, é evidente que indivíduos assim agiram durante vários anos, caso fiquem com seus bens à livre disposição, certamente, adotarão novos expedientes ilícitos para impedir a futura excussão judicial pelo Banco Pine, no caso de procedência do IDPJ.
+34. Isso não se trata de mera suposição, como sugeriu o v. acórdão recorrido, mas de efetivo risco de dilapidação patrimonial, pois, quem desviou ativos milionários durante décadas para fraudar seus credores, ao se deparar com risco iminente de constrição de seu patrimônio, certamente, não deixará de adotar novos e ainda mais sofisticados expedientes ilícitos para tentar "salvar" seus bens.
+Defende a tese de não ser aplicável a Súmula n. 7/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões apresentadas (e-STJ fls. 335/347).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA CAUTELAR ANTECEDENTE . EFEITO SUSPENSIVO. FALTA DOS REQUISITOS. DECISÃO MANTIDA.
+1. O deferimento de tutela provisória de urgência pressupõe a demonstração de elementos que evidenciem a probabilidade do direito alegado e o perigo de dano ou o risco ao resultado útil do processo.
+2. No caso concreto, não se verifica a presença dos requisitos, pois não verificada a viabilidade da tese deduzida no especial, aplicando-se as Súmulas n. 7 do STJ e 735 do STF, tampouco o alegado perigo de dano irreversível.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 308/312):
+Trata-se de de tutela cautelar antecedente (e-STJ fls. 3/21), objetivando a concessão de efeito suspensivo ao recurso especial interposto contra acórdão do TJSP.
+O acórdão recorrido está assim ementado (e-STJ fl. 130):
+CONTRATOS BANCÁRIOS. AÇÃO DE EXECUÇÃO. INCIDENTE DE DESCONSIDERAÇÃO DIRETA E INVERSA DA PERSONALIDADE JURÍDICA DAS EXECUTADAS. CONCESSÃO DE TUTELA DE URGÊNCIA, CONSISTENTE EM ARRESTO CAUTELAR DE BENS DAS REQUERIDAS.
+DECISÃO NULA. AUSÊNCIA ABSOLUTA DE FUNDAMENTAÇÃO. VÍCIO SUPRIDO EM SEDE RECURSAL.
+A decisão agravada é mesmo nula, por absoluta ausência de fundamentação. O mero deferimento do arresto, divorciado da imprescindível motivação que formou o livre convencimento motivado do magistrado, ofende o disposto no art. 93, inc. IX, da Constituição Federal. Sem embargo, a ausência de fundamentação pode (deve) ser suprida nesta sede, à luz do disposto no art. 1013, § 3º, inc. IV, do Código de Processo Civil, aqui aplicado por analogia (considerando que referido dispositivo trata do recurso de apelação).
+AUSÊNCIA DOS REQUISITOS INDISPENSÁVEIS À CONCESSÃO DA MEDIDA URGENTE.
+Os elementos carreados aos autos, ainda em cognição superficial, não induzem à premência da medida pretendida (arresto cautelar de bens), porquanto não demonstrado, ictu oculi, que as requeridas estejam dilapidando seu patrimônio, ou que há risco de que venham a fazê-lo. A dilapidação patrimonial propalada pelo exequente é mera suposição, algo que não se confunde com efetivo risco de alienação de bens tendentes a ocultar patrimônio e frustrar o pagamento do débito exequendo. A ausência de indícios concretos a respeito do desmantelamento do patrimônio das requeridas não autoriza conceder a tutela de urgência. O risco de que trata a norma (ou seja: ao resultado útil do processo) consiste na efetiva demonstração da prática de atos por parte das requeridas que indiquem a intenção de dilapidar seu patrimônio para frustrar o pagamento do crédito exequendo, não podendo ser entendido como uma mera possibilidade - mormente quando sequer há definição a respeito da sua responsabilidade patrimonial, encontrando-se o incidente em estágio incipiente. Agravo provido.
+O requerente aponta a existência dos requisitos para a concessão da medida de urgência.
+Alega que "o fumus boni iuris, o mesmo se encontra estampado no próprio v. acórdão recorrido, na medida em que RECONHECE A EXISTÊNCIA DE ABUSO DE PERSONALIDADE E CONFUSÃO PATRIMONIAL e, teratologicamente, afasta o risco de dilapidação patrimonial" (e-STJ fl. 5).
+Defende que o "periculum in mora, por seu turno, salta aos olhos, simplesmente porque com o levantamento do arresto (cautelar, ressalte-se!), as Requeridas - que possuem vasto histórico de atos fraudulentos voltados a frustrar credores -, certamente esvaziarão o seu patrimônio com extrema agilidade, tornando ainda mais árdua a busca do Banco Pine pela satisfação do crédito perseguido na Execução Principal, e podendo causar problemas futuros a terceiros que venham a adquirir esses bens" (e-STJ fl. 6).
+Requer "a atribuição de efeito ao Agravo em Recurso Especial interposto pelo Banco Pine, com a imediata suspensão dos efeitos do v. acórdão recorrido e a consequente manutenção - ou, se for o caso, restabelecimento - da ordem de arresto cautelar e indisponibilidade de bens das ora Requeridas que foi deferida pela MM. Juíza singular do IDPJ, até o julgamento definitivo do seu Recurso Especial por essa C. Superior" (e-STJ fl. 20).
+É o relatório.
+Decido.
+Não se vislumbra a probabilidade do direito alegado, pressuposto para a concessão da medida de urgência.
+O requerente interpôs recurso especial com fundamento no art. 105, III, "a", da CF (e-STJ fls. 224/240). Sustentou violação dos arts. 301 e 799 do CPC/2015, pois, "ao reformar a decisão inaugural de arresto liminar, a Colenda Câmara restringe o direito do Banco Recorrente de usar as medidas acautelatórias que asseguram a efetividade da execução" (e-STJ fl. 233).
+Destacou ser devida a manutenção do arresto, visto que (e-STJ fls. 236/237):
+(..) o Recorrente traz à baila não apenas a intenção das Recorridas de alienarem patrimônio, demonstrando também que a transferência de ativos para outras empresas já está em curso, colocando em alto risco a efetividade de eventual decisão favorável no IDPJ.
+Com efeito, a Recorrida Cehjur participa do quadro societário da empresa Haras Jardins da Lagoa Incorporações SPE Ltda., empresa recentemente criada com a finalidade específica de exercer atividade de incorporação e loteamento de imóveis, sediada justamente na Fazenda São Sebastião, em Lagoa Santa - MG, nos imóveis arrestados por força da decisão liminar.
+Inclusive um dos imóveis objeto do arresto já foi transferido para a empresa de incorporação imobiliária acima citada, mostrando que está em curso a dilapidação do patrimônio das Recorridas em prol de uma SPE com patrimônio de afetação, não sujeito a penhora:
+(..)
+Vejam Ministros, mesmo que a prova do risco na demora seja dispensável na concessão da liminar prevista no artigo 799, inciso VIII, do CPC, no caso concreto esse risco está mais do que presente e comprovado por documentos públicos, sobre os quais não há qualquer questionamento.
+A prova aqui evidenciada revela que para além da regra do artigo 799, inciso VIII, do CPC, estão preenchidos os requisitos dos artigos 300 e 301 do CPC:
+O TJSP inadmitiu o especial (e-STJ fls. 277/279).
+Quanto à manutenção do arresto, o Tribunal de Justiça consignou que (e-STJ fls. 134/135):
+Diferentemente do denominado arresto executivo (CPC, art.830), o arresto cautelar de bens no processo executivo encontra seu fundamento de validade nos arts. 301e 799, inc. VIII, ambos do atual Código de Processo Civil, e será deferido em favor do credor que demonstrar a probabilidade do direito invocado e risco de dano à satisfação da dívida executada.
+Não se ignora que há elementos nos autos apontando, em sede de cognição superficial, o abuso da personalidade jurídica e a confusão patrimonial com o objetivo de blindar o patrimônio das executadas em que pese os fatos narrados e as alegações deduzidas pelo exequente devam ser analisados de forma aprofundada, à luz de ampla dilação probatória, em cognição exauriente.
+Em contrapartida, os elementos carreados aos autos, ainda em cognição superficial, não induzem à premência da medida pretendida (arresto cautelar de bens), porquanto não demonstrado, ictu oculi, que as requeridas estejam dilapidando seu patrimônio, ou que há risco de que venham a fazê-lo.
+Não há elementos de cognição suficientemente robustos para permitir a constrição de patrimônio das requeridas antes da definição da extensão de sua eventual responsabilização patrimonial.
+Ao menos a princípio, o patrimônio teria passado da esfera patrimonial das executadas para a das requeridas e ali mantido para utilização pelo núcleo familiar da devedora. Não há notícia ou indícios de dilapidação patrimonial por parte delas.
+A dilapidação patrimonial propalada pelo exequente é mera suposição, algo que não se confunde com efetivo risco de alienação de bens tendentes a ocultar patrimônio e frustrar o pagamento do débito exequendo.
+Com efeito, para justificar o periculum in mora, o exequente assim refere: "Por sua vez, o perigo de dano irreparável decorre do potencial risco de dilapidação do patrimônio dos Réus, que poderão promover movimentações patrimoniais, vendendo ou onerando bens particulares a sugestionados terceiros de boa-fé, de forma a dificultar o futuro alcance dos mesmos" os destaques não constam do original.
+A ausência de indícios concretos a respeito do desmantelamento do patrimônio das requeridas não autoriza conceder a tutela de urgência.
+O risco de que trata a norma (ou seja: ao resultado útil do processo) consiste na efetiva demonstração da prática de atos por parte das requeridas que indiquem a intenção de dilapidar seu patrimônio para frustrar o pagamento do crédito exequendo, não podendo ser entendido como uma mera possibilidade mormente quando sequer há definição a respeito da sua responsabilida de patrimonial, encontrando-se o incidente em estágio incipiente.
+3. Em face do exposto, dá-se provimento ao agravo, para cassar a tutela de urgência deferida in limine litis, consistente no arresto de bens das requeridas.
+Segundo a jurisprudência consolidada desta Corte Superior, em regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (AgInt no REsp n. 1.179.223/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. TUTELA ANTECIPADA. REQUISITOS. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. SÚMULA N. 735/STF. DECISÃO MANTIDA.
+(..) 4. A jurisprudência do STJ não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 770.439/MT, de minha relatoria, QUARTA TURMA, julgado em 21/2/2017, DJe 3/3/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMPRESARIAL. AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TUTELA DE URGÊNCIA. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. RECURSO INTERPOSTO CONTRA DECISÃO LIMINAR/ANTECIPATÓRIA DE TUTELA. SÚMULA N.º 735 DO STF. PRECEDENTES. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. Esta Corte, em sintonia com o disposto na Súmula n.º 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes.
+5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.245.165/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/5/2023, DJe de 31/5/2023.)
+Além disso, desconstituir o acórdão recorrido, a fim de reconhecer a necessidade da medida cautelar, em virtude da comprovação de atos de dilapidação do patrimônio realizados pela parte recorrida, exigiria a apreciação do conjunto fático-probatório dos autos, hipótese vedada pela Súmula n. 7 do STJ.
+Ante o exposto, INDEFIRO o pedido.
+Publique-se. Intimem-se.
+No caso, não se verificam as circunstâncias aptas a justificar a concessão do excepcional efeito suspensivo.
+Trata-se de incidente de desconsideração da personalidade jurídica, em que o Tribunal de origem reformou decisão monocrática que deferiu pedido liminar de arresto por entender que "os elementos carreados aos autos, ainda em cognição superficial, não induzem à premência da medida pretendida (arresto cautelar de bens), porquanto não demonstrado, ictu oculi, que as requeridas estejam dilapidando seu patrimônio, ou que há risco de que venham a fazê-lo" (e-STJ fl. 134).
+Destacou que "o patrimônio teria passado da esfera patrimonial das executadas para a das requeridas e ali mantido para utilização pelo núcleo familiar da devedora. Não há notícia ou indícios de dilapidação patrimonial por parte delas" (e-STJ fl. 134).
+Concluiu que a "dilapidação patrimonial propalada pelo exequente é mera suposição, algo que não se confunde com efetivo risco de alienação de bens tendentes a ocultar patrimônio e frustrar o pagamento do débito exequendo" (e-STJ fl. 134).
+A jurisprudência desta Corte Superior estabelece que, em decorrência da "natureza precária da decisão que defere ou indefere liminar ou daquela que julga a antecipação da tutela, é inadequada a interposição de recurso especial que tenha por objetivo rediscutir a correção do mérito das referidas decisões, por não se tratar de pronunciamento definitivo do tribunal de origem, atraindo, por analogia, a incidência da Súmula n. 735 do STF" (AgInt no AREsp n. 2.319.595/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 4/9/2023, DJe de 6/9/2023).
+Além disso, mesmo superado o óbice da Súmula n. 735 do STF, não procede a irresignação da parte agravante.
+A Corte local entendeu que "Não há notícia ou indícios de dilapidação patrimonial" (e-STJ fl. 134). Para desconstituir a premissa estabelecida no acórdão recorrido, a fim de acolher a tese do recorrente de que a parte agravada estaria dilapidando o seu patrimônio, seria indispensável a apreciação das provas dos autos, logo, inafastável a Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
