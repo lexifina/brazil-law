@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. LOCAÇÃO COMERCIAL. MULTA. REDUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 522/528) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 516/519).
+Em suas razões, a parte alega que "a discussão que embasa sua pretensão recursal diz respeito à (im)possibilidade de afastamento das condições contratuais livremente pactuadas entre as partes, sendo essa uma tese de cunho puramente jurídico e cuja análise e provimento não demandam o reexame do conjunto fático-probatório do processo de origem, bastando-se para o julgamento as premissas fixadas pelo Tribunal a quo" (e-STJ fl. 526).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 534).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. LOCAÇÃO COMERCIAL. MULTA. REDUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2 . Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 516/519):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de negativa de prestação jurisdicional e da incidência da Súmula n. 7 do STJ (e-STJ fls. 484/488).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 435):
+Apelação Cível - Ação de Rescisão Contratual - Contrato de locação comercial - Pretensão autoral de isenção de pagamento da multa rescisória em razão da pandemia do novo coronavírus (COVID-19) - Implementação de vários parâmetros pela gestão do shopping center para redução dos efeitos da crise - Exigibilidade de pagamento de metade da multa pela rescisão do pacto, já que ambas as partes foram afetadas pela crise - Sentença parcialmente modificada.
+I - Na situação em julgamento, vê-se que a demandada promoveu diversas ações para suavizar o impacto decorrente da suspensão das atividades, adotando, mensalmente, políticas que visavam reduzir os valores, relativizando as cláusulas e encargos contratuais para fomentar a permanência dos contratos de locação nos limites viáveis para preservação do empreendimento comercial;
+II - A pretensão recursal da demandada merece parcial acolhida, para determinar a exigibilidade de metade da multa rescisória, já que ambas as partes foram prejudicadas pela crise;
+III - Recurso conhecido e provido parcialmente.
+Os embargos de declaração foram rejeitados (e-STJ fls. 453/457).
+Nas razões do recurso especial (e-STJ fls. 460/473), fundamentado no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 489, § 1º, e 1.022 do CPC/2015, 4º, 54 da Lei n. 8.245/1991.
+Aponta negativa de prestação jurisdicional, aduzindo que, "embora tenha sido apresentada a omissão para análise e julgamento em sede de Embargos Declaratórios, o Tribunal a quo se esquivou completamente, saindo pela tangente sem pronunciamento, maculando de vício a decisão colegiada por não abarcar toda a matéria posta à apreciação, razão pela qual o acórdão vergastado deverá ser cassado, concessa venia" (e-STJ fls. 464/465).
+Assevera que "entender pela aplicação da força maior em favor da Recorrida sem desconsiderar que a Recorrente também foi prejudicada pela Pandemia provoca um desequilíbrio contratual que merece ser afastado por este Tribunal Superior" (e-STJ fl. 468) e acrescenta que "mesmo com todas as medidas adotadas pela Recorrente para minimizar os prejuízos sofridos pela Recorrida, fato inclusive reconhecido em sede de julgamento da Apelação, o contrato de locação foi declarado rescindido, tendo a Recorrida obtido um desconto de 75% (setenta e cinco por cento), o que, com a devida vênia, não deve prosperar" (e-STJ fl. 468).
+Ao final, requer o provimento do recurso para permitir a "cobrança da integralidade da multa rescisória, uma vez que prevista legal e contratualmente" (e-STJ fl. 473).
+No agravo (e-STJ fls. 493/502), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 504).
+É o relatório.
+Decido.
+De início, no que se refere à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, a parte recorrente se ateve a formular alegações genéricas de violação desses dispositivos, sem demonstrar de forma específica em que consistiram os vícios perpetrados pelo Tribunal de origem.
+Com efeito, diante da deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF.
+Consta nos autos que o Tribunal de origem entendeu que (e-STJ fls. 437/438):
+No caso específico dos autos, analisando-se as condições ofertadas pela ré é possível observar que a empresa ARACAJU INVESTIMENTOS LTDA, a fim de minorar os efeitos econômico-financeiros nocivos gerados pela pandemia, apresentou conduta proativa ao oferecer solução amigável e negociada para tentar conter o agravamento da crise na atividade empresarial, refletida pela drástica redução do consumo em razão da restrição da circulação de pessoas, que tem contribuído para a abrupta diminuição das receitas.
+O dever pelo equilíbrio contratual e igualdade entre as partes deve ser respeitado, podendo o magistrado fazer uma nova análise das cláusulas pactuadas, tendo em conta o novo panorama econômico e social, ressalte-se, totalmente alheio e imprevisível, resultado da pandemia atravessada pelo novo coronavírus.
+Excepcionalmente admite-se a intervenção nos contratos pactuados, devendo ser considerada em casos extraordinários - como é a situação em exame -, não caracterizando ofensa aos princípios que regulam as contratações, mas sim uma razão essencial para garantia de diversos princípios, entre os quais o equilíbrio contratual, a boa-fé, através de novas perspectivas, entretanto sempre com respaldo nas regras legais e principiológicas.
+Na situação em análise, é inequívoca a mudança da realidade econômico-social em comparação aos dias atuais, devendo-se consideraras repercussões decorrentes da mudança de circunstâncias que afetaram o equilíbrio do contrato.
+Os fatos anormais alteraram, significativamente, as relações contratuais, com a inviabilidade econômica de adimplemento dos valores pactuados.
+Todavia, consta do caderno processual que a demandada promoveu diversas opções para suavizar o impacto decorrente da suspensão das atividades, adotando, mensalmente, políticas que visavam reduzir os valores.
+Em Abril, maio, junho e julho de 2020, a administração do shopping comunicou a adoção de medidas para permitir o enfrentamento da crise, vivenciada não somente pelos lojistas, mas pela administração, adotando políticas que permitissem a continuidade dos contratos, dentre elas isenção total do Fundo de Promoção e Propaganda, prorrogação de vencimento do aluguel mínimo, além da redução percentual da taxa condominial, só para citar algumas medidas.
+À vista disso, conclui-se que a demandada aplicou vários instrumentos para reduzir as consequências da suspensão temporária das atividades dos centros comerciais, relativizando as cláusulas e encargos contratuais de maneira a proporcionar a continuidade dos contratos de locação dentro de parâmetros viáveis de cobrança para manutenção do Shopping.
+(..)
+No caso, a cobrança da multa pela rescisão do contrato está disposta no item 13.3. do Instrumento Particular de Contrato de Locação e Outras Avenças de Loja de Uso Comercial - LUC nº 2072 do Aracaju Parque Shopping, prevista às fls. 56/69 dos autos materializados:
+13.3. Na hipótese de denúncia ou resilição unilateral da locação pela LOCATÁRIA, antes do término do prazo contratual a LOCATÁRI Apagará, na forma prevista no art. 4º da Lei 8.245/91, uma multa equivalente a 50% (cinquenta por cento) do valor total dos alugueres mínimos mensais restantes para o término do prazo de vigência da locação; nessa hipótese, a LOCATÁRIA deverá notificar a LOCADORA por escrito, com, pelo menos, 30 (trinta) dias de antecedência, devendo ela, LOCATÁRIA, comparecer no escritório da LOCADORA, no prazo de 10 (dez) dias após o recebimento da referida notificação, para assinatura do respectivo distrato e para realizar o pagamento das verbas rescisórias.
+Destarte, entendo que a pretensão recursal da Apelante merece ser parcialmente acolhida para permitir a cobrança de 25% (vinte e cinco porcento) do valor relativo à multa rescisória, já que ambas as partes foram prejudicadas pela grave crise financeira imposta pela pandemia de COVID-19.
+Modificar o entendimento do acórdão impugnado quanto à necessidade de redução da multa contratual, nesta hipótese, demandaria reexame das cláusulas contratuais e do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Conforme a decisão monocrática, rever a conclusão do acórdão, quanto à redução da multa contratual, demandaria incursão no campo fático-probatório, providência vedada na via especial, conforme a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
