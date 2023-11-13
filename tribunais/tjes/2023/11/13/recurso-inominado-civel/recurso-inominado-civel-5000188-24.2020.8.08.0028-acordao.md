@@ -1,0 +1,102 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000188-24.2020.8.08.0028
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: MAXSUEL FREITAS PIMENTEL e outros
+RECORRIDO: BANCO DO ESTADO DO ESPIRITO SANTO e outros
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000188-24.2020.8.08.0028
+Origem
+: Juízo Iúna - 1ª Vara
+RECORRENTES
+: MAXSUEL FREITAS PIMENTEL e BANCO DO ESTADO DO ESPÍRITO SANTO.
+RECORRIDOS
+: BANCO DO ESTADO DO ESPÍRITO SANTO e MAXSUEL FREITAS PIMENTEL.
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92, do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA.
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+(1).
+CONTA BANCÁRIA INATIVA. COBRANÇA DE ENCARGOS BANCÁRIOS COM POSTERIOR NEGATIVAÇÃO INDEVIDA, ASSIM DESCRITA RESUMIDAMENTE NO ATO SENTENCIAL,
+in verbis
+: “
+Narra o autor que no dia 15 de agosto de 2015 firmou contrato com o banco requerido, para abertura de conta-corrente na modalidade de serviço universitária, sob nº. 26.026.088, CID. 0123. Alega, contudo, que a partir do ano de 2018 deixou de utilizar a referida conta. Relata que em 03 de julho de 2020, ao tentar realizar uma compra em uma loja desta cidade, foi surpreendido com a informação de que havia pendência em seu CPF
+”. PUGNA A PARTE AUTORA PELA CONDENAÇÃO DA RÉ EM DANOS MATERIAIS E MORAIS, BEM COMO A DECLARAR A INEXIGIBILIDADE DAS TARIFAS BANCÁRIAS PROVENIENTES DE CONTRATO DE CONTA CORRENTE.
+(2).
+
+SENTENÇA DE PARCIAL PROCEDÊNCIA
+.
+(3).
+RECURSO INOMINADO INTERPOSTO PELA PARTE RÉ PUGNANDO PELA REFORMA DA SENTENÇA COM A TOTAL IMPROCEDÊNCIA DOS PEDIDOS INICIAIS OU, SE OUTRO FOR O ENTENDIMENTO, A REDUÇÃO DO VALOR FIXADO A TÍTULO DE DANO MORAL. RECURSO INOMINADO TAMBÉM INTERPOSTO PELA PARTE AUTORA PUGNANDO PELA MAJORAÇÃO DO DANO MORAL.
+(4).
+INICIALMENTE, NO QUE SE REFERE À IMPUGNAÇÃO AO PEDIDO DE GRATUIDADE DE JUSTIÇA, IMPERIOSO RESSALTAR A REGRA CONTIDA NOS §§ 2º E 3º, AMBOS DO ART. 99, DO CPC, IN VERBIS:
+“§ 2º. o juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos. § 3º. presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa natural.
+” COM ISSO, A JURISPRUDÊNCIA DO C. SUPERIOR TRIBUNAL DE JUSTIÇA É FIRME EM ORIENTAR QUE A SIMPLES DECLARAÇÃO DE POBREZA TEM PRESUNÇÃO
+JURIS TANTUM
+, BASTANDO, POR TAL RAZÃO, O SIMPLES REQUERIMENTO PARA A CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA, O QUE, POR ÓBVIO, NÃO IMPEDE O INDEFERIMENTO DO PLEITO, MORMENTE QUANDO O MAGISTRADO SE CONVENCER, COM BASE NOS ELEMENTOS DOS AUTOS, DE QUE NÃO SE TRATA DE HIPÓTESE DE MISERABILIDADE JURÍDICA (AgInt no AREsp n. 1.716.192/SC, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 30/11/2020, DJe 18/12/2020). NO CASO DOS AUTOS, NOTA-SE QUE INEXISTE ELEMENTO A EVIDENCIAR A FALTA DOS PRESSUPOSTOS LEGAIS PARA A CONCESSÃO DA GRATUIDADE. A PARTE AUTORA/RECORRENTE, ATRAVÉS DE DECLARAÇÃO DE HIPOSSUFICIÊNCIA FINANCEIRA, AFIRMA NÃO POSSUIR CONDIÇÕES DE ARCAR COM O PAGAMENTO DAS DESPESAS PROCESSUAIS. POR TAIS MOTIVOS, REJEITA-SE A PRELIMINAR EM APRECIAÇÃO E, EM CONSEQUÊNCIA, RECONHECE-SE QUE A PARTE AUTORA/RECORRENTE FAZ JUS AOS BENEFÍCIOS DA JUSTIÇA GRATUITA.
+(5).
+DO MÉRITO. CONFORME ACERTO DO JUÍZO
+A QUO
+, A PARTE RÉ NÃO COMPROVOU A MOVIMENTAÇÃO DA CONTA PELO CLIENTE A JUSTIFICAR A COBRANÇA GERADA. É IMPERIOSO DESTACAR QUE A INATIVIDADE DA CONTA BANCÁRIA POR PERÍODO SUPERIOR A SEIS MESES IMPLICA NO SEU ENCERRAMENTO, DEVENDO A INSTITUIÇÃO BANCÁRIA, A PARTIR DE SEU DEVER INFORMACIONAL, PREVIAMENTE COMUNICAR A SITUAÇÃO AO CORRENTISTA. VÊ-SE, NO CASO DOS AUTOS, A AUSÊNCIA DE COMPROVAÇÃO DA REFERIDA SITUAÇÃO, O QUE IMPLICA NA FALHA DO ÔNUS PROBATÓRIO, NOS TERMOS DO ART. 373, INCISO II, DO CPC.
+NESTES TERMOS, TEM-SE POR EVIDENCIADA A FALHA NA PRESTAÇÃO DO SERVIÇO (CDC, ART. 14), DE MODO QUE RESTA DEMONSTRADA A PRÁTICA DO ATO ILÍCITO PELA RÉ AO INSERIR OS DADOS DO AUTOR NOS CADASTROS DE INADIMPLENTES. POR FIM,
+RESTA CONFIGURADO O DANO MORAL
+IN RE IPSA
+, VISTO QUE É PRESUMIDO E DECORRE DA PRÓPRIA ILICITUDE DO FATO, CONFORME ENTENDIMENTO CONSOLIDADO DO STJ (AG 1.379.761).
+NO TOCANTE AO
+QUANTUM
+INDENIZATÓRIO FIXADO PELO JUÍZO DE ORIGEM (R$ 7.000,00), NOTA-SE QUE RESTOU FIXADO EM CONSONÂNCIA COM OS CRITÉRIOS DE PROPORCIONALIDADE E RAZOABILIDADE, NÃO SENDO CASO, PORTANTO, DE QUALQUER TIPO DE ALTERAÇÃO, SEJA PARA MAJORAR OU PARA MINORAR
+.
+
+(6)
+.
+DA CONCLUSÃO.
+RECU
+RSOS CONHECIDOS E DESPROVIDOS
+, MANTENDO-SE A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS TERMOS DO ART. 46, DA LEI 9.099/95.
+(7).
+POR FORÇA DA SUCUMBÊNCIA RECURSAL (art. 55, 2ª parte, da Lei 9.099/95),
+CONDENA-SE
+A PARTE RECORRENTE (
+MAXSUEL FREITAS PIMENTEL e BANCO DO ESTADO DO ESPÍRITO SANTO
+) NO PAGAMENTO
+PRO-RATA
+DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS DO ADVERSÁRIO, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO. NO ENTANTO, EM RELAÇÃO À PARTE AUTORA, SUSPENDE-SE A EXIGIBILIDADE DA VERBA SUCUMBENCIAL, POIS SE RECONHECE ÀQUELA OS BENEFÍCIOS DA JUSTIÇA GRATUITA.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
