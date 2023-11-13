@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração (e-STJ fls. 573/576) opostos a acórdão desta relatoria que julgou agravo interno nos termos da seguinte ementa (e-STJ fl. 565):
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO NA FORMA DO ART. 1.007, § 2º, DO CPC/2015. NÃO RECOLHIMENTO. DESERÇÃO. SÚMULA N. 187/STJ. DECISÃO MANTIDA.
+1. O recurso especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 2º, do CPC/2015, a parte não comprovar o recolhimento do preparo.
+2. Mesmo após a intimação da parte recorrente para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo, o que atrai a Súmula n. 187/STJ.
+3. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante afirma a existência de omissão, contradição e obscuridade no acórdão. Sustenta, para tanto, que (e-STJ fls. 573/574):
+Efetivamente, ainda quando da tramitação do feito no TJ/RJ, Tribunal de Origem, o aqui Embargante já havia suscitado pretensão que jamais foi analisada pelos doutos Magistrados que antecederam Vs. Exas., preclaros Ministros, que foi a aplicação ao caso concreto do disposto no art. 98, parágrafo quinto, do CPC.
+(..)
+o que pretende a Embargante é que seu Recurso Especial seja isento de custas, tão somente essa via recursal, e não deferida a si a gratuidade de justiça.
+Ao final, pede o acolhimento dos aclaratórios, para que sejam supridos os vícios apontados.
+Não foram apresentadas contrarrazões (e-STJ fl. 580).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não permitem rediscussão de temas anteriormente decididos, sendo certo que o efeito modificativo do recurso é possível apenas em hipóteses excepcionais, uma vez comprovada a existência de algum dos vícios elencados no art. 1.022 do CPC/2015, o que não se evidencia no caso em exame.
+No caso concreto, a parte pleiteia nova análise do recurso anteriormente interposto, repisando as mesmas alegações apresentadas previamente.
+O recurso anterior foi devidamente examinado no acórdão ora embargado, nos seguintes termos (e-STJ fl. 568):
+A parte foi intimada em 18/11/2022 (e-STJ fl. 509) para que - em cinco dias - realizasse o recolhimento das custas, na forma do § 2º do art. 1.007 do CPC/2015.
+O prazo assinalado transcorreu in albis (e-STJ fl. 512).
+Assim, o especial deve ser reconhecido deserto se, depois da intimação nos termos do art. 1.007, § 2º, do CPC/2015, a parte não comprovar o recolhimento do preparo.
+Neste sentido:
+(..)
+Desse modo, inafastável a Súmula n. 187/STJ, motivo suficiente para o desprovimento deste agravo interno.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar a conclusão da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Indefiro o pedido da parte agravada de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+É como voto.
+No mais, a contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado, e não entre o julgado e as razões da parte.
+No caso, não se observa a contradição apontada.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Dessa forma, não se constata nenhuma das hipóteses de cabimento dos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+É como voto.
