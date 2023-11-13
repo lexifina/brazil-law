@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCISCA MACHADO DO NASCIMENTO contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado (e-STJ, fls. 251-252):
+APELAÇÃO - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - EMPRÉSTIMO CONSIGNADO - DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO - CONTRATAÇÃO COMPROVADA PELO BANCO - AUSÊNCIA DE FRAUDE NA FORMAÇÃO DO CONTRATO - ELEMENTOS DO PROCESSO COMPROVAM A VALIDADE DO CONTRATO - CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ AO AUTOR - ADEQUADA - MULTA POR LITIGÂNCIA DE MÁ-FÉ APLICADA AO ADVOGADO - IMPOSSIBILIDADE - ART. 77, §6º DO CPC - MULTA AFASTADA - RECURSO PARCIALMENTE PROVIDO.
+Se a parte autora alega não ter celebrado contrato de empréstimo com o banco requerido, a este incumbe comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, como preceitua o art. 373, II, do CPC.
+Com a comprovação da efetiva contratação e do crédito liberado pela instituição financeira em favor do requerente, é o caso de julgar improcedente a ação.
+Configurada alguma das hipóteses previstas no artigo 80 do CPC, é caso de condenação ao pagamento de multa por litigância de má-fé.
+Quanto à imposição de multa por litigância de má-fé ao advogado, o CPC estabelece, em seu artigo 77, §6º, que "Aos advogados públicos ou privados e aos membros da Defensoria Pública e do Ministério Público não se aplica o disposto nos §§ 2º a 5º, devendo eventual responsabilidade disciplinar ser apurada pelo respectivo órgão de classe ou corregedoria, ao qual o juiz oficiará".
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 269-283), a insurgente alegou, além de dissídio jurisprudencial, violação aos arts. 79, 80, 81, 489, II, § 1º, IV, e 1.022, II, do CPC/2015.
+Sustentou, em suma: a) negativa de prestação jurisdicional por parte do acórdão recorrido; e b) é descabida a condenação por litigância de má-fé, ao argumento de que não ficou comprovado o dolo processual da demandante, uma vez que a utilização do processo teve apenas a intenção de ver reconhecida em juízo uma pretensão legítima de direito.
+Contrarrazões às fls. 320-330(e-STJ).
+O Tribunal de origem não admitiu o recurso especial, o que levou a insurgente à interposição de agravo.
+Contraminuta às fls. 353-358 (e-STJ).
+Brevemente relatado, decido.
+De início, relativamente à apontada negativa de prestação jurisdicional, sob a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, verifica-se que não há como conhecer do recurso especial, porquanto nem sequer houve a oposição de embargos de declaração, na origem, para que o Tribunal local reparasse os supostos vícios apontados nas razões do apelo especial. Desse modo, fica inviabilizado o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional. Precedentes.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282/STF.
+3. Majorados para 16,5% (dezesseis e meio por cento) os honorários sucumbenciais, não há que se falar em afronta aos limites previstos no art. 85, §§ 2º e 11, do CPC/2015.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1385697/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/05/2019, DJe 03/06/2019)
+No que diz respeito à condenação da ora recorrente por litigância de má-fé, o colegiado local considerou haver elementos para imposição da aludida penalidade, conforme os seguintes argumentos (e-STJ, fl. 257 - sem grifo no original):
+No que concerne à questão da penalização por litigância de má-fé, sabe-se que para caracterizá-la é imprescindível que a conduta da parte se enquadre às hipóteses delineadas no art. 80 do CPC.
+A sentença aplicou a pena, por entender que o ora recorrente teria alterado a verdade dos fatos, fazendo afirmação falsa ao negar a existência de contratação do empréstimo.
+Efetivamente a documentação apresentada demonstra a existência da contratação pela parte, portanto a pena aplicada há de ser mantida, porquanto o autor recorrente formulou pretensão temerária, na medida em que ajuizou seu pedido afirmando ao juízo que não teria firmado o empréstimo.
+Diante desse contexto, acolher o inconformismo da parte insurgente, a fim de desconstituir a convicção alcançada no aresto recorrido, reconhecendo a não ocorrência de litigância de má-fé, demandaria o reexame do contexto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. ATENDIMENTO DE EMERGÊNCIA. APENDICITE. CIRURGIA. RECUSA DE COBERTURA. CARÊNCIA CONTRATUAL. DESCABIMENTO. SÚMULA N. 597/STJ. DANO MORAL E DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A controvérsia tem origem em recusa de cobertura de cirurgia de apendicite prescrita durante atendimento de emergência.
+2. "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação" (Súmula n. 597/STJ).
+3. Caso concreto em que o prazo de 24 horas de carência havia sido cumprido, sendo abusiva, portanto, a recusa de cobertura da cirurgia de emergência.
+4. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem, R$ 15.000,00, não se mostra excessivo, a justificar sua redução em recurso especial.
+5. O Tribunal de origem condenou a operadora ao pagamento de multa por litigância de má-fé em virtude da "alteração da verdade dos fatos".
+6. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial, a teor da Súmula n. 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.160.660/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. EMBARGOS INFRINGENTES. APELAÇÃO. FUNDAMENTOS. ACRÉSCIMOS. RESPOSTA DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA. PROVAS. VALORAÇÃO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. TESTEMUNHA. DEPOIMENTO COMO INFORMANTE. VALOR. SÚMULA Nº 7/STJ. COMISSÃO DE CORRETAGEM. RESULTADO ÚTIL. CABIMENTO. FECHAMENTO DO NEGÓCIO. RESPONSABILIDADE. AVALIAÇÃO. SÚMULA Nº 7/STJ. LITIGÂNCIA DE MÁ-FÉ. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reprodução dos fundamentos expostos no voto da relatora da apelação, por si só, não implica em deficiência de fundamentação, considerando que o tribunal de origem dirimiu as questões postas de forma a alcançar solução unânime à controvérsia.
+3. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz, em seus artigos 370 e 371, que preceitua caber ao julgador dirigir a instrução probatória através da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+4. Tendo o tribunal de origem formado o seu convencimento nos elementos de provas disponíveis dos autos e indicado os motivos para tanto, a intervenção desta Corte quanto à valoração probatória encontra óbice na Súmula nº 7/STJ.
+5. Não se traduz em nulidade valorar o depoimento de testemunha presumidamente interessada no desfecho da demanda como se prestado por informante, devendo o magistrado lhes atribuir o valor que possam merecer.
+6. Na hipótese, acolher a tese recursal, de que os depoimentos não deveriam ter sido deferidos porque restou incontroverso o interesse dos informantes no litígio, demandaria o revolvimento de fatos e provas dos autos por esta Corte, o que atrai o óbice da Súmula nº 7/STJ.
+7. A comissão de corretagem por intermediação imobiliária é devida se os trabalhos de aproximação realizados pelo corretor resultarem no resultado útil pretendido, qual seja no consenso das partes quanto aos elementos essenciais do negócio.
+8. No caso, rever o entendimento da Corte local, a partir da tese de que o recorrido não foi o responsável pelo fechamento do negócio, exigiria o reexame de fatos e de provas dos autos, o que é inviável no recurso especial devido ao óbice da Súmula nº 7/STJ.
+9. A jurisprudência desta Corte impõe a incidência da Súmula nº 7/STJ quando a revisão da condenação por litigância de má-fé demandar o reexame do contexto fático-probatório da demanda.
+10. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada, pois não se pode encontrar similitude fática entre os julgados recorrido e paradigma.
+11. Agravo interno não provido.
+(AgInt no REsp n. 1.973.116/TO, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/6/2023, DJe de 23/6/2023.)
+Outrossim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e o aresto paradigma, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa, observados os benefícios da justiça gratuita deferidos à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, NA ORIGEM. INCIDÊNCIA DA SÚMULA 284/STF. LITIGÂNCIA DE MÁ-FÉ. CONFIGURAÇÃO REEXAME. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
