@@ -1,0 +1,68 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000041-40.2022.8.08.0056
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: FURLANI IMOBILIARIA E INCORPORADORA LTDA
+RECORRIDO: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000041-40.2022.8.08.0056
+Origem:
+Juízo de Santa Maria de Jetibá - 1ª Vara
+RECORRENTE
+: FURLANI IMOBILIARIA E INCORPORADORA EIRELI - EPP
+RECORRIDO
+: EDP ESPIRITO SANTO DISTRIBUIDORA DE ENERGIA
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA.
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA.
+DIREITO DO CONSUMIDOR.
+QUEDA DE ENERGIA ELÉTRICA QUE COMPROMETEU A GERAÇÃO DE ENERGIA SOLAR FOTOVOLTAICA. QUEIMA DE APARELHO ELETRÔNICO. COM EFEITO, A NARRATIVA CONSTANTE NOS AUTOS É SOBRE A DANIFICAÇÃO, A PARTIR DE UMA FORTE DESCARGA ELÉTRICA EM 05/12/2020, DOS INVERSORES FOTOVOLTAICOS DE ENERGIA SOLAR, TENDO A RÉ RECONHECIDO A SUA RESPONSABILIDADE E, POR TAL MOTIVO, PROMOVIDO A INDENIZAÇÃO PELOS DANOS CAUSADOS AOS EQUIPAMENTOS. A CONTROVÉRSIA, ASSIM, REFERE-SE À SUPOSTA DEMORA DA RÉ EM REALIZAR O PAGAMENTO DA INDENIZAÇÃO, COM O REFORÇO DE QUE O RETORNO DA UTILIZAÇÃO DO EQUIPAMENTO DE ENERGIA SOLAR SOMENTE SE DEU EM 17/06/2021, O QUE ACARRETOU COBRANÇAS PELO USO DE ENERGIA ELÉTRICA NO PERÍODO DE JANEIRO A MAIO, NO ANO DE 2021, NUM TOTAL DE R$ 6.892,67, QUE VEM A SER JUSTAMENTE O PLEITO REPARATÓRIO.
+O JUÍZO SENTENCIANTE JULGOU IMPROCEDENTES OS PEDIDOS AUTORAIS
+. INCONFORMADA, A AUTORA INTERPÔS RECURSO INOMINADO.
+A SENTENÇA DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS
+, NOS MOLDES DO ART. 46 DA LEI N.º 9.099/95, DE MODO QUE SÃO ADOTADAS AS SUAS RAZÕES DE DECIDIR (STF, Tema n.º 451 das Teses de Repercussão Geral: “
+Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida
+.”). AS QUESTÕES APONTADAS NO RECURSO NÃO SÃO SUFICIENTES PARA ALTERAR O ATO SENTENCIAL, QUE, POR SINAL, AS ENFRENTOU COM ACERTO. TEM-SE POR INCONTROVERSO O FATO DE QUE A QUEIMA DO APARELHO OBJETO DOS AUTOS DEU-SE PELA FORTE DESCARGA ELÉTRICA E, A PARTIR DISSO, O RECONHECIMENTO DA RÉ NO SENTIDO DE PROMOVER A INDENIZAÇÃO PELOS PREJUÍZOS EM DESTAQUE. A PARTE AUTORA, ORA RECORRENTE, INSISTE NO FATO DE SER RESSARCIDA TAMBÉM PELO PERÍODO EM QUE FICOU SEM A GERAÇÃO DE ENERGIA SOLAR, DEVENDO A RÉ, NO SEU ENTENDER, NÃO COBRAR PELA ENERGIA EM SUBSTITUIÇÃO, QUE RESTOU CONSUMIDA. SOBRE O TÓPICO, É NECESSÁRIO PONTUAR QUE, A DESPEITO DA RELAÇÃO JURÍDICA ENTRE AS PARTES SER DE CONSUMO, O DANO VERIFICADO NA HIPÓTESE É TÃO SÓ A QUEIMA DO APARELHO GERADOR DE ENERGIA SOLAR. NÃO HÁ QUE SE FALAR, COM ISSO, EM PREJUÍZO A PARTIR DA UTILIZAÇÃO DE ENERGIA SUBSTITUTA (ELÉTRICA), ATÉ PORQUE RESTOU DEVIDAMENTE PRESTADA. O ART. 944 DO CC/02 REZA QUE A INDENIZAÇÃO MEDE-SE PELA EXTENSÃO DO DANO E, LEVANDO EM CONSIDERAÇÃO QUE O DANO CONSTATADO É TÃO SOMENTE A QUEIMA DO APARELHO, NÃO HÁ QUE SE FALAR EM QUALQUER COMPLEMENTO DE TAL NATUREZA.
+RECURSO CONHECIDO E DESPROVIDO
+. POR FORÇA DA SUCUMBÊNCIA RECURSAL (art. 55, 2ª parte, da Lei 9.099/95),
+CONDENA-SE
+A PARTE RECORRENTE NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
