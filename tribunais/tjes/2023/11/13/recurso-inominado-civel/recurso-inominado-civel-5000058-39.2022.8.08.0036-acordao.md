@@ -1,0 +1,73 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5000058-39.2022.8.08.0036
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: EDP ESPIRITO SANTO DISTRIBUICAO DE ENERGIA S.A.
+RECORRIDO: CARLOS ALBERTO FARIA BATISTA
+RELATOR(A):
+GUSTAVO HENRIQUE PROCOPIO SILVA
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5000058-39.2022.8.08.0036
+ORIGEM
+: Juízo de Muqui - Vara Única
+RECORRENTE:
+EDP ESPIRITO SANTO DISTRIBUIDORA DE ENERGIA
+RECORRIDO:
+CARLOS ALBERTO FARIA BATISTA
+DATA DA SESSÃO DE JULGAMENTO
+, conforme intimação prévia.
+JULGADORES DA 2ª TURMA RECURSAL:
+Dr. Gustavo Henrique Procópio Silva (Relator), Dr. Salomão Akhnaton Zoroastro Spencer Elesbon (1º Vogal) e Dr. Grécio Nogueira Grégio (2º Vogal e Presidente da Turma)
+
+-
+VOTO
+-
+
+Relator
+: Dr. Gustavo Henrique Procópio Silva
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA:
+
+JUIZADO ESPECIAL CÍVEL. RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. COBRANÇA INDEVIDA DE DÉBITO, AO SOLICITAR A TRANSFERÊNCIA DE TITULARIDADE E RELIGAÇÃO DO SISTEMA ELÉTRICO, (instalação n° 160076799). ALEGA TER SIDO IMPEDIDO DE PROCEDER COM A MUDANÇA DE TITULARIDADE, EM RAZÃO DE UM DÉBITO PROVENIENTE DO CONSUMO DO MÊS DE JUNHO/2020, DA INSTALAÇÃO N° 820866 SITUADA NA PRAÇA GERALDO VIANA, 01, CENTRO, MUQUI/ES, ONDE ATUALMENTE FUNCIONA, DESDE ABRIL DE 2017, O “SUPERMERCADO BR”. ADUZ AINDA QUE EFETIVAMENTE MOROU EM LOCALIDADE PRÓXIMA, MAS QUE JÁ NÃO RESIDE NO RECINTO HÁ MAIS DE 8 ANOS.
+SENTENÇA DE PARCIAL PROCEDÊNCIA
+, EM QUE SE DECLAROU NULA A COBRANÇA OBJETO DOS AUTOS, BEM COMO CONDENOU A PARTE RÉ AO PAGAMENTO DE INDENIZAÇÃO A TÍTULO DE DANO MORAIS, NO VALOR DE R$ 2.000,00 (DOIS MIL REAIS). RECURSO DA PARTE RÉ, A FIM DE REFORMAR A SENTENÇA DECLARAR IMPROCEDENTES OS PEDIDOS AUTORAIS
+. CONFORME DISPOSTO NO ATO SENTENCIAL, A RÉ EFETUOU A COBRANÇA E SE NEGOU PROCEDER COM A TRANSFERÊNCIA E RELIGAR O SISTEMA ELÉTRICO, EM DECORRÊNCIA DE DÉBITO PROVENIENTE DE DÍVIDA DO ANO DE 2020, DE IMÓVEL, QUE DESDE 2017, FUNCIONA O “SUPERMERCADO BR”. COM ISSO, DEVE SER DECLARADO INEXISTENTE A COBRANÇA JÁ MENCIONADA, CONFORME DESTACADO NO ATO SENTENCIAL.
+POR FIM, RESSALTA-SE QUE O DANO MORAL ESTÁ CONFIGURADO NA HIPÓTESE NARRADA, SENDO DEVIDA A INDENIZAÇÃO. ACERCA DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS, POR SINAL, REFORÇA-SE QUE ESTÁ CONDIZENTE COM AS ESPECIFICIDADES DO CASO E EXTENSÃO DO DANO. PORTANTO, NÃO É CASO DE EXCLUSÃO DA CONDENAÇÃO, DEVENDO SER MANTIDA A VERBA INDENIZATÓRIA NO IMPORTE DE R$ 2.000,00 (DOIS MIL REAIS), POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DE RAZOABILIDADE E PROPORCIONALIDADE
+.
+RECURSO CONHECIDO E IMPROVIDO
+.
+SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95
+. POR FORÇA DA SUCUMBÊNCIA
+,
+CONDENA-SE
+A PARTE AUTORA NO PAGAMENTO DAS CUSTAS PROCESSUAIS, ASSIM COMO NOS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO
+
+OU, NÃO HAVENDO CONDENAÇÃO, DO VALOR CORRIGIDO DA CAUSA
+(ART. 55
+DA LEI 9.099/95).
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
