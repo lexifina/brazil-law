@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 07/11/2023 a 13/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. A parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, de forma que incide, in casu, o óbice da Súmula 283 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra decisão em que conheci do agravo para não conhecer de recurso especial, considerando a incidência das Súmulas 284 e 283/STF.
+A parte agravante alega, em síntese, que impugnou adequadamente os fundamentos utilizados no acórdão recorrido, de modo que não incide ao caso a Súmula 283 do STF. Além disso, opta expressamente por não impugnar a incidência da Súmula 284 do STF (e-STJ fls. 830/833).
+Sem contraminuta (e-STJ fl. 838).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. A parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, de forma que incide, in casu, o óbice da Súmula 283 do STJ.
+2. Agravo interno desprovido.
+VOTO
+Observa-se que a decisão recorrida não merece reparos.
+Consoante ressaltado no decisum ora agravado, o Tribunal de origem afirmou que, "embora a apelação defenda que "informações, pareceres, aprovações das autoridades competentes fazem parte da formação do processo administrativo e não se constituem despachos de mero expediente sem qualquer relevância", não houve, no período que permeia entre 08.10.2010 e 10.01.2014, a prática de nenhum ato que possa se inserir entre os descritos, estando ausente qualquer movimentação que contenha "atos essenciais e indispensáveis para o deslinde do feito" ou que servissem "para que o colegiado profira sua decisão". O que se percebe, aliás, é que, somente em julho/2014, houve algum ato que assim pode ser caracterizado, referido pelo recorrente como "manifestação instrutória"" (e-STJ fls. 705/706).
+A Corte a quo destacou, ainda, que "não é sequer o caso de questionar se cabe ou não ao Poder Judiciário examinar o conteúdo de um ato praticado no processo administrativo para o fim de defini-lo como decisório ou de mero expediente, porque claramente não houve a prática de atos, no período entre 08.10.2010 e 10.01.2014, que tenham conteúdo capaz de ao menos ensejar essa discussão. O único ato praticado consistiu na determinação de adequação dos autos administrativos ao texto das Instruções Normativas 10/2012 e 11/2012 do IBAMA, que veiculam regras de procedimento e não se sobrepõem às disposições da Lei n. 9.873/1999, especialmente quanto a prazos prescricionais. Em realidade, o que se verifica no exame dos autos administrativos é que essa adequação ao texto dos atos normativos consistiu apenas na divisão daqueles em volumes, com a consequente renumeração" (e-STJ fl. 706).
+Contudo, no apelo nobre, a parte defendeu que "Atos como Parecer jurídico, Notificação e Homologação não podem ser classificados como movimentações de mero expediente sem qualquer relevância" e que "manifestações técnicas (análises e informes elaborados pelos Especialistas em Regulação da IBAMA) e as manifestações jurídicas (notas e pareceres exarados pela Procuradoria-Geral Federal) são atos indispensáveis no processo administrativo sancionador" (e-STJ fls. 754 e 768).
+Embora a parte argumente, no agravo interno, que a tese defendida no recurso especial seja no sentido de que quaisquer atos do processo seriam passíveis de interromper a prescrição, certo é que no apelo nobre se afirmou que "quaisquer atos que deem impulso ao processo administrativo sancionador, consubstanciando uma atuação positiva da Administração - casos, entre outros, dos informes técnicos e das manifestações jurídicas -, rompem o estado de inércia e induzem o efeito de interromperem o prazo da prescrição intercorrente" (e-STJ fl. 755).
+Ou seja, a parte esclarece que seriam atos relacionados a informes técnicos e manifestações jurídicas aqueles que seriam aptos à interromper a prescrição, sendo certo, porém, que o Tribunal de origem deixou claro que "não houve, no período que permeia entre 08.10.2010 e 10.01.2014, a prática de nenhum ato que possa se inserir entre os descritos", sendo que "o único ato praticado consistiu na determinação de adequação dos autos administrativos ao texto das Instruções Normativas 10/2012 e 11/2012 do IBAMA , que  ..  consistiu apenas na divisão daqueles em volumes, com a consequente renumeração" (e-STJ fls. 705/706).
+A parte nem sequer menciona no decorrer de sua explanação o ato destacado pelo Tribunal como inviável de ser considerado para a interrupção da prescrição intercorrente (no caso, a determinação de adequação dos autos administrativos ao texto das Instruções Normativas 10/2012 e 11/2012 do IBAMA), a fim de demonstrar que seria, ao contrário, viável a aludida interrupção.
+Assim, de rigor a manutenção da conclusão no sentido de que a parte recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, de forma que incide, in casu, o óbice da Súmula 283 do STJ.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
