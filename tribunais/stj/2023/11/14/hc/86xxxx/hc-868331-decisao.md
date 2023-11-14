@@ -1,0 +1,22 @@
+DECISÃO
+EDMILSON DE OLIVEIRA alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - preso preventivamente pelo crime de homicídio qualificado -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+Informam os autos que a revelia do paciente foi decretada, pois ele não foi localizado no endereço por ele declinado, restando infrutifera sua intimação quanto ao teor da decisão de pronúncia.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+Merece acolhimento o pedido ministerial.
+De uma detida análise dos autos, vejo que foi revogada a prisão preventiva do acusado Edmilson por ocasião da audiência de instrução realizada à f. 143. Lado outro, como medida cautelar, foi estabelecido que ele deveria comparecer bimestralmente em juizo para informar as suas atividades, bem como manter atualizado o endereço onde pudesse ser encontrado, chegando a assinar o termo de compromisso constante à f. 150.
+Ocorre que o acusado quebrou o compromisso assumido com a Justiça, uma vez que, contrariando as medidas cautelares fixadas, não manteve seu endereço atualizado, não sendo encontrado em sua residência nas oportunidades em que fora procurado pelo Oficial de Justiça (vide ff. 207 e 280).
+Além disso, nao cumpriu a obrigação de comparecer mensalmente em juízo, paralisando as apresentações em 12/11/2018, como se infere do termo em anexo.
+Dessa forma, os descumprimentos relatados autorizam a decretação da prisão preventiva, na forma do nos artigos 312, § 1º, e 282, § 4º, do Código de Processo Penal.
+Diante do exposto, presentes os requisitos legais, acolho a representação do Ministério Público e decreto a prisão preventiva do acusado EDMILSON DE OLIVEIRA.  ..  (fls. 76-77)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que, após ter sido "revogada a prisão preventiva do acusado Edmilson por ocasião da audiência de instrução  .. , foi estabelecida, como medida cautelar, que ele deveria comparecer bimestralmente em juízo para informar as suas atividades, bem como manter atualizado o endereço onde pudesse ser encontrado", o ora paciente "quebrou o compromisso assumido com a Justiça, uma vez que, contrariando as medidas cautelares fixadas, não manteve seu endereço atualizado, não sendo encontrado em sua residência nas oportunidades em que fora procurado pelo Oficial de Justiça  .. ,  nem  cumpriu a obrigação de comparecer mensalmente em juízo, paralisando as apresentações em 12/11/2018".
+No que tange à alegação da defesa de que o paciente não cumpriu as suas obrigações porque trabalhava na lavoura, com razão o acórdão ora impugnado, ao desdobrar os argumentos do juiz de Direito, quando afirmou que, "quando do deferimento da liberdade provisória o paciente foi previamente advertido que em caso de descumprimento da medida cautelar, a prisão preventiva poderia ser decretada, logo, não pode ele alegar o pouco estudo para justificar o descumprimento do beneficio outrora concedido".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, segundo a qual "o descumprimento injustificado de condição imposta  ..  no gozo da liberdade provisória constitui motivação idônea para a sua revogação, mormente quando há reiterada inobservância das condições, não havendo, portanto, ilegalidade da prisão preventiva decretada, nos termos do art. 312, c/c o art. 282, § 4º, do CPP" (AgRg no RHC n. 127.365/MS, relator Ministro Felix Fischer, Quinta Turma, julgado em 18/8/2020, DJe de 31/8/2020).
+Em razão das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem in limine.
+Publique-se. Intimem-se.
+EMENTA
