@@ -1,0 +1,109 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+8ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0740357-09.2023.8.07.0000AGRAVANTE(S)DEFENSORIA PÚBLICA DO DISTRITO FEDERALAGRAVADO(S)DISTRITO FEDERALRelatoraDesembargadora CARMEN BITTENCOURT
+ Acórdão Nº1785350
+
+EMENTA
+
+CIVIL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. DEFENSORIA PÚBLICA. AUSÊNCIA DE IMPUGNAÇÃO.
+
+1. O Supremo Tribunal Federal, ao analisar a proibição de recebimento de honorários advocatícios pela Defensoria Pública, quando represente litigante vencedor em demanda ajuizada contra o ente ao qual é vinculada, fixou a seguinte tese:  É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra.
+
+2. O art. 85, § 1º, do Código de Processo Civil dispõe que (S)ão devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente. A seu turno, o § 7º do mesmo dispositivo estabelece que (N)ão serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada, disposição repetida no art. 1º-D da Lei 9.494/97.
+
+3. Este Tribunal de Justiça tem entendido que, em hipótese em que se busca o cumprimento de obrigação de fazer contra a Administração Pública sem que esta tenha ofertado impugnação, não são devidos honorários sucumbenciais. Precedentes.
+
+4. Considerando a fase inicial em que se encontra o cumprimento de sentença originário, reputa-se irretocável a decisão agravada ao indeferir, por ora, a fixação de honorários advocatícios em favor da Defensoria Pública do Distrito Federal, porquanto não ofertada impugnação pelo executado.
+
+5.  Agravo de Instrumento conhecido e não provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 8ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARMEN BITTENCOURT - Relatora, EUSTAQUIO DE CASTRO - 1º Vogal e DIAULAS COSTA RIBEIRO - 2º Vogal, sob a Presidência do Senhor Desembargador ROBSON TEIXEIRA DE FREITAS, em proferir a seguinte decisão: Agravo de Instrumento conhecido e não provido. Unânime, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Novembro de 2023
+
+Desembargadora CARMEN BITTENCOURTRelatora
+
+RELATÓRIO
+
+Trata-se de Agravo de Instrumento interposto por DEFENSORIA PÚBLICA DO DISTRITO FEDERAL contra decisão exarada pelo Juízo da 5ª Vara da Fazenda Pública e Saúde Pública do Distrito Federal, nos autos do Cumprimento de Sentença contra a Fazenda Pública n. 0710602-80.2023.8.07.0018 proposta por ANTUANETE XAVIER DA SILVA em desfavor do DISTRITO FEDERAL.
+
+Nos termos da r. decisão recorrida (ID 172692448 dos autos de referência), o d. juízo de primeiro grau indeferiu o pedido de fixação de honorários em face da Fazenda Pública, por entender que esta será condenada ao pagamento de honorários sucumbenciais apenas se apresentar impugnação.
+
+No Agravo de Instrumento interposto, a agravante alega que são devidos os honorários advocatícios independentemente de haver impugnação.
+
+Ao final, o agravante postula a reforma da decisão agravada para que sejam arbitrados honorários advocatícios referentes ao pedido de cumprimento de sentença.
+
+Desnecessário o recolhimento do preparo recursal, em razão da isenção legal prevista no art. 1.007, § 1º, do Código de Processo Civil.
+
+Esta Relatoria, nos termos da decisão exarada no ID 51661096, recebeu o agravo de instrumento apenas no efeito devolutivo e determinou a intimação do agravado para, querendo, ofertar contrarrazões no prazo legal.
+
+Em contrarrazões (ID 52050601), o Distrito Federal argumenta que não caberia a fixação de honorários sucumbenciais em fase de cumprimento de sentença. De modo subsidiário, sustenta que a apuração de honorários deve ser realizada por equidade, conforme determina o art. 85, § 8º, do Código de Processo Civil, respeitado o princípio da proporcionalidade.
+
+Ao final, pleiteia que o agravo de instrumento seja desprovido.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora CARMEN BITTENCOURT - Relatora
+Conheço do recurso, porquanto configurados os pressupostos intrínsecos e extrínsecos da admissibilidade.
+
+Consoante relatado, a DEFENSORIA PÚBLICA DO DISTRITO FEDERAL interpôs agravo de instrumento contra a r. decisão exarada sob o ID de origem n. 172692448 que - em sede do Cumprimento de Sentença n. 0710602-80.2023.8.07.0018 iniciado contra o Distrito Federal, promovido por ANTUANETE XAVIER DA SILVA -, indeferiu o pedido de fixação de honorários em favor da DPDF.
+
+No Agravo de Instrumento interposto, a agravante assevera que o art. 85, § 7º, do Código de Processo Civil afasta o cabimento de honorários no cumprimento de sentença contra a Fazenda Pública apenas quando houver expedição de precatório, e desde que o cumprimento de sentença não tenha sido impugnado.
+
+Ressalta que o direito da Defensoria Pública ao recebimento de honorários advocatícios, mesmo nas demandas ajuizadas contra o ente público de que faz parte, foi definido pelo Supremo Tribunal Federal por meio do Tema 1.002.
+
+A questão controvertida, a ser dirimida, reside em verificar a possibilidade de fixação de honorários advocatícios em favor da Defensoria Pública, em sede de cumprimento de sentença que estabeleceu obrigação de fazer em desfavor da Fazenda Pública, em que não houve impugnação.
+
+O Supremo Tribunal Federal, ao analisar a questão ínsita ao recebimento de honorários advocatícios pela Defensoria Pública, notadamente quando represente litigante vencedor em demanda ajuizada contra o ente ao qual é vinculada, fixou a seguinte tese em decorrência da análise do Tema 1.0021:
+
+1. É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra;
+
+2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição.
+
+Por conseguinte, não há dúvidas acerca da possibilidade de fixação de honorários sucumbenciais em favor da Defensoria Pública nas demandas ajuizadas contra o ente público que integra, como é a hipótese dos autos.
+
+O art. 85, § 1º, do Código de Processo Civil dispõe que (S)ão devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente. A seu turno, o § 7º do mesmo dispositivo estabelece que (N)ão serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada, disposição repetida no art. 1º-D da Lei 9.494/97.
+
+A exceção da regra supracitada se verifica apenas quando se trata de cumprimento individual de sentença coletiva, em observância ao contido na Súmula n. 345/STJ, segundo a qual são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas.
+
+Tratando-se de execução de obrigação de fazer, principalmente em casos envolvendo temas relacionados à saúde, esta Corte fixou entendimento no sentido de que os honorários advocatícios devem ser fixados por apreciação equitativa, em consonância com o que dispõe o art. 85, §§ 2º e 8º, do Código de Processo Civil, em razão de o proveito econômico ser inestimável, conforme pode se extrair da tese firmada no IDR 32.
+
+Confira-se:
+
+DIREITO PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. INCOMPETÊNCIA DO JUÍZO E LITISCONSÓRCIO PASSIVO NECESSÁRIO. TEMA Nº 793 DO STF. MEDICAMENTO COM REGISTRO NA ANVISA.  DIREITO À SAÚDE. DEVER DO ESTADO. TEMA 106/STJ. DEFENSORIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. APLICABILIDADE. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DE FUNDO PRÓPRIO DA DEFENSORIA PÚBLICA. TEMA 1002 - STF. SENTENÇA REFORMADA.  1. Nos termos do que restou elucidado nos Embargos de Declaração no RE 855178, submetido ao rito de Repercussão Geral (Tema 793), no âmbito do Supremo Tribunal Federal, o polo passivo pode ser composto por qualquer dos entes federados isoladamente ou conjuntamente, em razão da responsabilidade solidária existente. Assim, a necessidade de proposição da ação perante a União (Justiça Federal), apenas ocorre nos casos de demanda de fornecimento de medicamentos que não possuem registro na Anvisa, o que não é o caso dos autos. O fato de o medicamento registrado não estar padronizado pelo SUS não afasta a competência da Justiça Estadual para apreciação do feito. Preliminares rejeitadas.   2. A Defensoria Pública do Distrito Federal, apesar de não possuir personalidade jurídica própria, é investida de autonomia financeira e administrativa, razão pela qual retém para si os privilégios assegurados à Fazenda Pública, inclusive processualmente quando vem em juízo cobrar honorários de sucumbência que lhe são devidos, os quais serão vertidos a fundo próprio.  3. Consoante tese fixada em repercussão geral pelo STF (Tema 1002): "É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra; 2. O valor recebido a título de honorários sucumbenciais deve ser destinado, exclusivamente, ao aparelhamento das Defensorias Públicas, vedado o seu rateio entre os membros da instituição (RE 1140005/RJ, Rel. Ministro Roberto Barroso. Ata de julgamento publicada em 07/07/2013)."  4. Os honorários sucumbenciais devem ser fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, consoante expresso no §2º do art. 85 do CPC.  5. Somente é admissível o uso da equidade quando o proveito econômico é inestimável ou irrisório, ou quando o valor da causa é muito baixo (Art. 85, §8º, do CPC).  6. Na hipótese dos autos, nota-se que o valor dos honorários de advogado fixado de forma equitativa alinha-se aos princípios da proporcionalidade e equidade.  7. Preliminares rejeitadas. Negou-se provimento ao apelo do Distrito Federal. Deu-se provimento ao recurso da Defensoria Pública do Distrito Federal. (Acórdão 1750709, 07004758320238070018, Relator: ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 23/8/2023, publicado no PJe: 8/9/2023. Pág.:  Sem Página Cadastrada.)
+
+No caso, observa-se que o cumprimento de sentença se encontra em fase inicial, ainda com o recebimento do pedido, momento no qual o DISTRITO FEDERAL foi intimado para, no prazo de 05 (cinco) dias, cumprir a obrigação consistente no fornecimento de medicamento, na forma determinada no título executivo, sob pena de sequestro de verba pública.
+
+Portanto, é incontroverso que, nesse momento processual, não houve oferecimento de impugnação por parte do executado.
+
+Este Tribunal de Justiça tem entendido que, em hipótese como a dos autos, em que se busca o cumprimento de obrigação de fazer contra a Administração Pública sem que esta tenha ofertado impugnação, não são devidos honorários sucumbenciais. Nesse panorama, são os seguintes precedentes:
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. TÍTULO JUDICIAL FORMADO EM PROCESSO INDIVIDUAL. OBRIGAÇÃO DE FAZER. IMPUGNAÇÃO DA FAZENDA PÚBLICA. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO INCABÍVEL. Nos termos do artigo 1º-D, da Lei nº 9.494/1997, não serão devidos honorários advocatícios pela Fazenda Pública nas execuções não embargadas. Em igual sentido, o artigo 85, § 7º, do Código de Processo Civil, dispõe que não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. A regra de que a fixação de honorários advocatícios em cumprimento de sentença depende da apresentação de impugnação e da sua rejeição é relativizada pela jurisprudência apenas no caso de cumprimento de sentença coletiva, diante da amplitude da cognição nesse caso específico, conforme enunciado 345, da súmula do Superior Tribunal de Justiça, e tema 973, dos recursos repetitivos. O cumprimento de sentença atinente à obrigação de fazer não é exceção à regra geral, de modo que a fixação de honorários somente ocorre no caso de indevida resistência. (Acórdão 1430429, 07096786020228070000, Relator: ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 8/6/2022, publicado no DJE: 30/6/2022. Pág.:  Sem Página Cadastrada.)
+
+APELAÇÃO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. OBRIGAÇÃO DE FAZER. DECLARAÇÃO DE QUITAÇÃO, ESCRITURAÇÃO E REGISTO DE IMÓVEL. RESISTÊNCIA. AUSÊNCIA. TRÂMITES ADMINISTRATIVOS. HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. 1. Os trâmites administrativos necessários para a transferência da titularidade de imóvel não podem ser considerados resistência da Fazenda Pública no cumprimento de sentença de obrigação de fazer. 2. Sem resistência das partes, não há como condenar em honorários na fase de cumprimento de sentença. 3. Recurso conhecido e não provido. (Acórdão 1319377, 07039326520198070018, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 18/2/2021, publicado no DJE: 3/3/2021)
+
+Por conseguinte, considerando a fase incipiente em que se encontra o cumprimento de sentença originário, reputa-se irretocável a decisão agravada ao indeferir, por ora, a fixação de honorários advocatícios em favor da Defensoria Pública do Distrito Federal.
+
+Com estas considerações, NEGO PROVIMENTO AO AGRAVO DE INSTRUMENTO, mantendo integralmente a r. decisão vergastada.
+
+É como voto.
+
+1 Disponível em: https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5487108&numeroProcesso=1140005&classeProcesso=RE&numeroTema=1002
+
+2 Tese(s) Firmada(s): a) Nos casos que envolvam pedido de internação em leito de UTI ou fornecimento de medicamento, eventual incapacidade temporária daquele que esteja acometido de alguma patologia, não afasta a competência dos Juizados Especiais da Fazenda Pública;
+
+b) As ações que têm como objeto o fornecimento de serviços de saúde não encerram, por si só, complexidade apta a afastar a competência do Juizado Especial Fazendário, ressalvada a necessidade de produção de prova complexa a atrair a competência do Juízo de Fazenda Pública;
+
+c) Considerando que as ações que têm como objeto o fornecimento de serviços de saúde, inclusive o tratamento mediante internação, encartam pedido cominatório, o valor da causa, fixado de forma estimativa, é irrelevante para fins de definição da competência.
+
+O Senhor Desembargador EUSTAQUIO DE CASTRO - 1º Vogal Com o relatorO Senhor Desembargador DIAULAS COSTA RIBEIRO - 2º Vogal Com o relator
+
+DECISÃO
+
+Agravo de Instrumento conhecido e não provido. Unânime
