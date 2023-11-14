@@ -1,0 +1,13 @@
+DECISÃO
+FIDEL DIAS DE MELO GOMES alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrante se insurge contra o cálculo da remição pelo trabalho do reeducando. Afirma que os 192 dias do benefício foram diminuídos do total da pena, quando devem ser considerados como sanção efetivamente cumprida para concessão de benefícios executórios. Requer a correção do cômputo.
+Decido.
+Cinge-se a controvérsia a definir se o dias remidos pelo estudo e/ou trabalho devem ser considerados como pena efetivamente cumprida, para fins de cálculo do lapso de benefícios executórios, ou diminuídos do total da pena.
+A Corte Estadual negou conhecimento ao habeas corpus. Assim, a "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+A defesa pleiteou ao órgão de segundo grau a aplicação do art. 128 da LEP. A questão é jurídica (art. 128 da LEP), mas deixou de ser analisada, injustificadamente, por demandar "análise aprofundada do conjunto fático-probatório" (fl. 19). O aresto estadual colacionou, ainda, julgado não relacionado ao tema, que trata da "impossibilidade de se considerar, para efeito de detração, período de prisão provisória anterior ao crime que ensejou a condenação" (fl. 19).
+Assim, identifico a negativa de prestação jurisdicional, de ofício. Se a defesa não interpôs o agravo em execução, o remédio constitucional é o único instrumento de que dispõe para requerer a correção de ilegalidade ao direito de locomoção do apenado.
+Ressalto que:
+ ..  ""é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014). 3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito. (AgRg no HC 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto, não conheço do habeas corpus, haja vista a supressão de instância. Contudo, de ofício, determino ao Tribunal de Justiça a quo que aprecie, uma vez não interposto o agravo em execução, a existência de patente ilegalidade na decisão do Juiz da VEC.
+Publique-se e intimem-se.
+EMENTA
