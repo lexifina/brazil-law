@@ -1,0 +1,30 @@
+Solução de Consulta Cosit nº 285, de 10 de novembro de 2023
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+REGIME ESPECIAL TRIBUTÁRIO PARA A INDÚSTRIA DE DEFESA - RETID. BENS E SERVIÇOS UTILIZADOS POR FORNECEDORA NA PRODUÇÃO DE BENS DE DEFESA ACABADOS OU NA MANUTENÇÃO, CONSERVAÇÃO, MODERNIZAÇÃO, REPARO, REVISÃO E CONVERSÃO DESTES BENS. POSSIBILIDADE DE AQUISIÇÃO COM SUSPENSÃO.
+Não há dispositivo na legislação que exclua dos benefícios do Retid a fornecedora que produza ou desenvolva ela mesma os bens de defesa acabados. O art. 3º do Decreto nº 8.122, de 2013, exige apenas que os bens adquiridos com suspensão sejam empregados ou utilizados de acordo com seu § 2º. E o art. 4º do mesmo decreto exige apenas que os serviços adquiridos com suspensão sejam empregados ou utilizados nas destinações a que se referem os incisos I a III do caput do art. 2º. Em ambos os casos inclui o emprego ou a utilização dos bens e serviços adquiridos com suspensão na industrialização, produção ou desenvolvimento de bens de defesa nacional.
+O art. 2º, I, e art. 3º, §2º, I, do Decreto nº 8.122, de 2013, indicam que não é necessário que os bens e serviços adquiridos com suspensão sejam utilizados apenas como insumos na produção ou no desenvolvimento dos bens de defesa nacional, podendo também serem utilizados na manutenção, conservação, modernização, reparo, revisão, conversão destes bens.
+FORMAS DE TRIBUTAÇÃO DE BENS E SERVIÇOS NAS VENDAS EFETUADOS POR EMPRESA FORNECEDORA.
+É permitida a venda de bens ou serviços citados no art. 2º, I a III, e art. 4º do Decreto nº 8.122, de 2013, com suspensão da exigência, se esta for efetuada para empresa beneficiária do Retid. Se a venda dos bens e serviços acabados for efetuada diretamente à União, para uso privativo das Forças Armadas, haverá incidência da Cofins por alíquota igual a zero. Nos demais casos, a tributação segue as regras comuns.
+Dispositivos Legais: Decreto nº 8.122, de 2013, arts. 2º, 3º, 4º e 6º; Solução de Consulta Cosit nº 71, de 2018.
+Assunto: Contribuição para o PIS/Pasep
+REGIME ESPECIAL TRIBUTÁRIO PARA A INDÚSTRIA DE DEFESA - RETID. BENS E SERVIÇOS UTILIZADOS POR FORNECEDORA NA PRODUÇÃO DE BENS DE DEFESA ACABADOS OU NA MANUTENÇÃO, CONSERVAÇÃO, MODERNIZAÇÃO, REPARO, REVISÃO E CONVERSÃO DESTES BENS. POSSIBILIDADE DE AQUISIÇÃO COM SUSPENSÃO.
+Não há dispositivo na legislação que exclua dos benefícios do Retid a fornecedora que produza ou desenvolva ela mesma os bens de defesa acabados. O art. 3º do Decreto nº 8.122, de 2013, exige apenas que os bens adquiridos com suspensão sejam empregados ou utilizados de acordo com seu § 2º. E o art. 4º do mesmo decreto exige apenas que os serviços adquiridos com suspensão sejam empregados ou utilizados nas destinações a que se referem os incisos I a III do caput do art. 2º. Em ambos os casos inclui o emprego ou a utilização dos bens e serviços adquiridos com suspensão na industrialização, produção ou desenvolvimento de bens de defesa nacional.
+O art. 2º, I, e art. 3º, §2º, I, do Decreto nº 8.122, de 2013, indicam que não é necessário que os bens e serviços adquiridos com suspensão sejam utilizados apenas como insumos na produção ou no desenvolvimento dos bens de defesa nacional, podendo também serem utilizados na manutenção, conservação, modernização, reparo, revisão, conversão destes bens.
+FORMAS DE TRIBUTAÇÃO DE BENS E SERVIÇOS NAS VENDAS EFETUADOS POR EMPRESA FORNECEDORA.
+É permitida a venda de bens ou serviços citados no art. 2º, I a III, e art. 4º do Decreto nº 8.122, de 2013, com suspensão da exigência, se esta for efetuada para empresa beneficiária do Retid. Se a venda dos bens e serviços acabados for efetuada diretamente à União, para uso privativo das Forças Armadas, haverá incidência da Contribuição para o PIS/Pasep por alíquota igual a zero. Nos demais casos, a tributação segue as regras comuns.
+Dispositivos Legais: Decreto nº 8.122, de 2013, arts. 2º, 3º, 4º e 6º; Solução de Consulta Cosit nº 71, de 2018
+Assunto: Imposto sobre Produtos Industrializados - IPI
+REGIME ESPECIAL TRIBUTÁRIO PARA A INDÚSTRIA DE DEFESA - RETID. BENS UTILIZADOS POR FORNECEDORA NA PRODUÇÃO DE BENS DE DEFESA ACABADOS OU NA MANUTENÇÃO, CONSERVAÇÃO, MODERNIZAÇÃO, REPARO, REVISÃO E CONVERSÃO DESTES BENS. POSSIBILIDADE DE AQUISIÇÃO COM SUSPENSÃO.
+Não há dispositivo na legislação que exclua dos benefícios do Retid a fornecedora que produza ou desenvolva ela mesma os bens de defesa acabados. O art. 3º do Decreto nº 8.122, de 2013, exige apenas que os bens adquiridos com suspensão sejam empregados ou utilizados de acordo com seu § 2º, o que inclui o emprego ou a utilização dos bens e serviços adquiridos com suspensão na industrialização, produção ou desenvolvimento de bens de defesa nacional.
+O art. 2º, I, e art. 3º, §2º, I, do Decreto nº 8.122, de 2013, indicam que não é necessário que os bens adquiridos com suspensão sejam utilizados apenas como insumos na produção ou no desenvolvimento dos bens de defesa nacional, podendo também serem utilizados na manutenção, conservação, modernização, reparo, revisão, conversão destes bens.
+FORMAS DE TRIBUTAÇÃO DE BENS NAS VENDAS EFETUADOS POR EMPRESA FORNECEDORA
+É permitida a venda de bens citados no art. 2º, I a III do Decreto nº 8.122, de 2013, com suspensão da exigência, se esta for efetuada para empresa beneficiária do Retid. Se a venda dos bens acabados for efetuada diretamente à União, para uso privativo das Forças Armadas, haverá isenção do IPI. Nos demais casos, a tributação segue as regras comuns.
+Dispositivos Legais: Decreto nº 8.122, de 2013, arts. 2º, 3º e 7º; Solução de Consulta Cosit nº 71, de 2018
+Assunto: Processo Administrativo Fiscal
+CONSULTA. INEFICÁCIA PARCIAL.
+É ineficaz a consulta que não se circunscrever a fato determinado, não contiver descrição detalhada de seu objeto e indicação das informações necessárias à elucidação da matéria.
+Dispositivos Legais: Instrução Normativa RFB nº 2.058, de 2021, arts. 13,I, e 27, II e XI.
+SC Cosit nº 285-2023
+[arquivo anexo: SC Cosit nº 285-2023.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
