@@ -1,0 +1,1 @@
+Art. 7º-A. Os alunos optantes pela reserva de vagas no ato da inscrição do concurso seletivo que se encontrem em situação de vulnerabilidade social terão prioridade para o recebimento de auxílio estudantil de programas desenvolvidos nas instituições federais de ensino.
