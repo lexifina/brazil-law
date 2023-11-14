@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por OBOÉ CRÉDITO FINANCIAMENTO E INVESTIMENTO S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+APELAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL. ALEGAÇÃO DE INEXISTÊNCIA DE CONTRATO. FATOS CONSTITUTIVOS DO DIREITO ALEGADO. ÔNUS DA PROVA QUE INCUMBE AO AUTOR. AUSÊNCIA DE DEMONSTRAÇÃO. SINALAGMÁTICO EXISTENTE, VÁLIDO E EFICAZ. IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. APELO IMPROVIDO. SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 47 e 104, I, do CC, no que concerne ao reconhecimento da nulidade contratual, uma vez que o signatário do acordo não tinha poderes para representar a empresa, trazendo a seguinte argumentação:
+15. A decisão recorrida reconheceu que houve assinatura por funcionário da Oboé à época de vigência do contrato, mas entendeu pela total improcedência por não ter havido comprovação nos autos de que esse não teria poderes para representação da empresa.
+16. Tal argumentação não merece prosperar, pois em conjunto com a inicial, foram acostados os atos constitutivos da autora, demonstrando que a disposição da decisão viola frontalmente o art. 47 do CC
+ ..
+17. É incontroverso, por ser estar disposto em sentença, que a assinatura do contrato não ocorreu pelo diretor-presidente, à época o Sr. José Newton Lopes de Freitas.
+18. Mesmo que se admita que o diretor-presidente poderia ter delegado poderes de representação para o referido funcionário, torna-se impossível a demonstração de que isso não ocorreu.
+19. Ocorre que o referido acórdão deveria ter levado em consideração que os poderes eram de ingerência do diretor-presidente.
+ ..
+23. Nesse sentido, para que haja validade no negócio jurídico é imprescindível a capacidade do agente, o que evidentemente não ocorreu no caso, razão pela qual se faz necessária a interposição do presente recurso especial, objetivando assim a reforma do acórdão proferido pelo TJCE. (fls. 270/272).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+As partes autoras ajuizaram a presente demanda no afã de desconstituir o sinalagmático entabulado com a parte adversa, sob o argumento de que o funcionário signatário do contrato não detinha poderes de representação, assim como os atos constitutivos da empresa contratante são no sentido de que apenas o diretor-presidente, à época o Sr. Newton Lopes de Freitas, possuía poderes para efetuar o pacto.
+Ocorre que, respeitado o entendimento diverso, as promoventes, ora apelantes, não provaram o contexto de qualquer vício de representação capaz de ensejar a procedência do seu pleito inaugural, muito menos a existência de qualquer vício a ensejar a declaração de nulidade do negócio jurídico entabulado.
+Nesse ponto, cumpre destacar que o ordenamento jurídico prevê que as partes têm o direito de empregar todos os meios legais, bem como os moralmente legítimos, ainda que não especificados neste Código, para provar a verdade dos fatos em que se funda o pedido ou a defesa e influir eficazmente na convicção do juiz, nos termos do art. 369 do CPC.
+As apelantes limitaram-se a fomentar que o contrato não foi assinado por funcionário com poderes para representar as empresas contratantes, como também, segundo os atos constitutivos das empresas, tão somente o diretor - presidente, à época o Sr. Newton Lopes de Freitas, era o detentor de poderes para efetuar o contrato com a parte adversa.
+Não obstante, o Juízo de primeira instância fundamentou a sentença guerreada com base no art. 373, I, do CPC, visto que incumbe a parte autora a prova quanto ao fato constitutivo do seu direito.
+Logo, diante das inúmeras provas a serem capazes de demonstrar o direito almejado pelas partes autoras, ora recorrentes, estas apenas se prenderam a prova documental, nada requerendo quanto a produção de outro tipo, como por exemplo a prova testemunhal, a qual poderia robustecer os argumentos e o direito pretendido pelas empresas promoventes.
+Diferente do que apontam as partes apelantes, entender que a competiria a parte contratada produzir a prova de que o funcionário da empresa, fato este incontroverso, assinou o contrato refutado sem os poderes para faze-lo, é imputar a parte ré a produção de prova diabólica.
+ ..
+Nos termos firmados pelo Magistrado singular, inexistiu esforço probatório que pudesse caracterizar dúvida relativo ao direito da parte apelada, ora ré, contrata pelas partes recorrentes para a prestação de serviço.
+Destarte, os documentos juntados pela partes apelantes são insuficientes para reconhecer o direito a nulidade do contrato descrito na pela peça vestibular (fls. 257/260).
+Tal o contexto, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
