@@ -1,0 +1,2 @@
+Art. 107-A. O quantitativo total de servidores e empregados públicos da administração pública federal direta, autárquica e fundacional requisitados pela Defensoria Pública da União não poderá exceder o quantitativo de requisitados em exercício na Defensoria Pública da União em 15 de julho de 2019.
+Parágrafo único. A Defensoria Pública da União reduzirá o número de requisitados de que trata o caput deste artigo em quantidade equivalente aos cargos efetivos que vierem a ser providos para o quadro permanente de pessoal de apoio da Defensoria Pública da União.
