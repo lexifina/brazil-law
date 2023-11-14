@@ -1,0 +1,23 @@
+DECISÃO
+JOSILENE APARECIDA DA SILVA PEREIRA KAZAMA alega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Recurso em Sentido Estrito n. 1502343-71.2021.8.26.0352.
+O impetrante pretende a anulação da decisão de pronúncia para que a paciente seja sumariamente absolvida.
+Argumenta que a inimputabilidade foi a única tese defensiva sustentável, haja vista que o invocado arrependimento eficaz não seria passível de argumentação em plenário, uma vez que a vítima morreu, e que as alegações de legítima defesa pela insurgente não podem ser consideradas, diante de sua enfermidade psiquiátrica.
+O Ministério Público Federal opinou pela "inadmissibilidade do pedido de habeas corpus, e, se admitido, pela denegação da ordem" (fl. 52).
+Decido.
+Consta dos autos que a paciente foi denunciada por homicídio qualificado. A defesa pugnou pela absolvição sumária, ante o reconhecimento da inimputabilidade da ré no incidente de insanidade mental apensado aos autos.
+Sobre o tema, o Juízo de primeiro grau assim decidiu (fls. 15-16, destaquei):
+Lado outro, não há se falar em absolvição sumária.
+A propósito, não se olvida a clareza do laudo pericial juntado às fls.249/252, cuja peça não deixa dúvidas acerca do fato de a acusada padecer de diversas anomalias que a privaram, ao tempo da ação, da capacidade para entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.
+Conforme se infere do indigitado laudo, a denunciada fora considerada inimputável, cujo diagnóstico, por ter sido firmado por perito oficial, não deve ceder passo às observações insertas no parecer de fls. 367/396.
+Não obstante, é bem de ver que a defesa prévia contém a expressa veiculação da tese de "arrependimento eficaz", não se podendo olvidar que a ré afirmou claramente em Juízo que agredira o ofendido pelo fato de ele ter iniciado a ofensiva, cuja versão traduz-se, em princípio, na alegação de legítima defesa.
+E, não configurando a tese de exclusão da culpabilidade pela inimputabilidade o único fundamento de defesa, nos termos do parágrafo único do artigo 415 do Código de Processo Penal, não há se falar em absolvição sumária.
+Inconformada, a defesa interpôs recurso em sentido estrito perante a Corte estadual, que afastou o pleito de absolvição sumária sob os seguintes fundamentos (fls. 12-13, destaquei):
+De outro giro, malgrado o laudo médico-psiquiátrico tenha atestado a inimputabilidade da acusada (fls.249/52), o artigo 415, parágrafo único, da lei penal adjetiva dispõe peremptoriamente que, nessas hipóteses, somente se procederá à absolvição sumária se a ausência de culpabilidade for a única tese manejada pela Defesa. Todavia, como se viu, a indigitada aduziu ter agido em legítima defesa quando interrogada; não bastasse, o d. causídico ainda sustentou a tese de "arrependimento eficaz" (vide fls. 225) - postura que inviabiliza a aplicação da medida de segurança na fase de prelibação.
+A jurisprudência desta Corte Superior é firme em assinar que apenas é cabível a absolvição sumária fundada no art. 415, IV, do Código de Processo Penal se a inimputabilidade for a única tese defensiva, como estabelecido no parágrafo único do mencionado artigo.
+Nesse sentido: "Com efeito, sem maiores digressões, em processos de competência do Júri, não pode o Magistrado ou o Tribunal absolver sumariamente o acusado por constatar a inimputabilidade do réu, ressalvada a hipótese em que tal tese seja a única alegada pela defesa" (REsp n. 1.343.945/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/8/2014, grifei); " ..  somente seria cabível a absolvição sumária pelo Juízo singular se a inimputabilidade fosse a única tese defensiva. Havendo outras teses defensivas, caberia ao magistrado se abster de proferir juízo absolutório e, por conseguinte, remeter os autos à apreciação do Conselho de Sentença" (HC n. 333.621/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/8/2019, destaquei).
+Na espécie, as instâncias ordinárias assentaram que o advogado da parte, em defesa prévia, alegou a tese de arrependimento eficaz. Além disso, destacaram que a própria acusada alegou haver agido em legítima defesa.
+Assim, não há ilegalidade a ser sanada, porquanto a Corte de origem agiu em conformidade com os ditames legais (art. 415, parágrafo único) e com a jurisprudência do STJ.
+Assinalo que a Corte estadual nada aduziu acerca da alegada inviabilidade da outra tese defensiva e da invalidade da alegação da ré, o que impede o conhecimento das matérias diretamente por esta Corte Superior, a fim de não se incidir em indevida supressão de instância.
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
