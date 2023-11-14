@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno manejado por Carlos Fernando Reis, desafiando decisão de fls. 1.357/1.362, que negou provimento ao seu agravo, sob os seguintes fundamentos: (I) inexistência de ofensa aos arts. 489, § 1º, e 1.022, II, do CPC; (II) natureza constitucional do art. 97 do CTN; (III) possibilidade de interpretação extensiva da lista anexa ao Decreto-lei 406/68 e à Lei Complementar n. 116/2003, nos termos da jurisprudência do STJ; (IV) a alteração das conclusões adotadas pela Corte de origem, quanto à incidência de ISS nas atividade de registro de veículos exercida pelo CRVA, demandaria reexame do acervo fático-probatório constante dos autos, impedida pelo obstáculo da Súmula 7/STJ; e (V) o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, vedada pela Súmula 280/STF.
+A parte agravante, em suas razões, sustenta, em síntese, que: (I) efetivamente ocorreu negativa de prestação jurisdicional; (II) a respeito do art. 97 do CTN, a parte interpôs recurso extraordinário e essa matéria será objeto de análise do STF; (III) não é possível se valer, no presente caso, de interpretação extensiva à lista anexa ao Decreto-Lei 406/68 e à Lei Complementar no 116/2003; (IV) "não se aplica a Súmula 7 desta Egrégia Corte pois a questão não se restringe à revisão do quadro fático do processo, mas sim de demonstrar que a espécie de serviços prestados pelo CRVA NÃO se subsume no gênero dos serviços notariais, cartorários e registrais" (fl. 1.380); e (V) não é necessária a interpretação de lei local para decidir a controvérsia.
+Aberta vista à parte agravada, o Município de Porto Alegre apresentou impugnação às fls. 1.387/1390, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada de fls. 1.357/1.362, tornando-a sem efeito.
+Por entender necessário melhor exame da matéria, dou provimento ao agravo para determinar sua reautuação como recurso especial.
+Após, voltem-me os autos conclusos.
+Publique-se.
+EMENTA
