@@ -1,0 +1,21 @@
+DECISÃO
+MICHAEL DONIZETI VIEIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2277953-22.2023.8.26.0000.
+A defesa busca a soltura do paciente - acusado da suposta prática do crime de tráfico de drogas -, ainda que mediante a fixação das providências previstas no art. 319 do CPP, sob o argumento de ausência de fundamentação concreta para justificar a custódia cautelar.
+Decido.
+O writ comporta pronta solução, uma vez que a pretensão defensiva não encontra amparo na jurisprudência do STJ.
+O paciente foi flagrado com 470,4 g de crack, 176,3 g de maconha e 2,74 g de cocaína (fl. 32). O Juízo de origem, ao decretar a prisão preventiva do agente, ofereceu os seguintes fundamentos (fl. 63, grifei):
+A manutenção da custódia é medida que se impõe, pois imprescindível para garantia da ordem pública, a fim de que o autuado não volte a delinquir. Isso porque deu mostras de que faz do comércio ilícito seu meio de vida, haja vista a condenação anterior, tratando-se de indivíduo multirreincidente específico, conforme se verifica de sua folha de antecedentes criminais (fls. 37/41), estando atualmente cumprindo pena em meio aberto (processo 0000891-43.2023.8.26.0025 - Comarca de Angatuba), denotando-se que as condenações anteriores não foram suficientes para demovê-lo da conduta ilegal, de modo que se for colocado em liberdade certamente voltará a delinquir, sendo necessária a custódia para garantia da ordem pública.
+O Tribunal estadual manteve a medida extrema em acórdão assim motivado (fls. 26-27, destaquei):
+Há indícios de que o paciente cometeu o crime de tráfico de drogas, envolvendo 470,40g de "crack", 176,30g de maconha, 2,74g de cocaína (fls. 22/23, 30/32 e 47/50), em ação que, considerando-se a quantidade, natureza e diversidade das drogas, traduz um acentuado grau de culpabilidade da conduta.
+Com efeito, a gravidade em concreto do delito, na medida em que indica que se trata de pessoa perigosa, pode assentar a necessidade da prisão preventiva para garantia da ordem pública (STJ, AgRg no HC nº 759.670/SP, relator Ministro Ribeiro Dantas, julgado em 19.12.2022; AgRg no HC nº 780.671/MG, relatora Ministra Laurita Vaz, julgado em 19.12.2022, entre outros).
+ ..
+Por sua vez, o paciente ostenta condenação pela prática de tráfico de drogas (fls. 54, cumprimento de pena em regime aberto), a denotar um quadro de reiteração na prática de crime.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação concreta para decretar a prisão preventiva, ao salientar o risco de reiteração delitiva, uma vez que o paciente é multirreincidente específico e estava em cumprimento de pena, em regime aberto, na data dos fatos.
+Em casos similares, o STJ aduz que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/6/2019).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
