@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GUILHERME SAMPAIO ALVES BEZERRA contra decisão que inadmitiu recurso especial com fundamento no óbice da Súmula n. 7 do STJ..
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de Pernambuco em apelação nos autos da ação ordinária com pedido de tutela de urgência.
+O julgado foi assim ementado (fl. 431):
+APELAÇÃO CÍVEL. PACIENTE DIAGNOSTICADO COM DEPRESSÃO. NEGATIVA PARA TRATAMENTO DE ESTIMULAÇÃO MAGNÉTICA TRANSCRANIANA- "EMT". HIPÓTESE DOS AUTOS QUE DIFERE DO ENTENDIMENTO USUALMENTE ADOTADO POR ESTA RELATORIA NO SENTIDO DA NÃO TAXATIVIDADE DO ROL DA ANS. O TRATAMENTO PLEITEADO TEVE SUA INCORPORAÇÃO EXPRESSAMENTE RECUSADA PELA AGÊNCIA REGULADORA PARA O SEU ROL DE COBERTURA OBRIGATÓRIA. RECURSO NÃO PROVIDO.
+1. Após a realização de estudos técnicos e pareceres de especialistas, em encontro que garantiu a participação de representantes da classe médica, dos consumidores e das operadoras de Plano de Saúde, entendeu-se por bem não enquadrar o procedimento em questão como obrigatório nos planos de referência fixados pela ANS.
+2. A Federação Nacional de Saúde Suplementar (FenaSaúde), em reunião com a ANS, no dia 30/11/2016, abordando a revisão da Sistemática e Metanálise da Estimulação Magnética Transcraniana concluiu que "nenhum estudo conseguiu estabelecer a relevância clínica desta eficácia na prática clínica."
+3. A situação delineada nos autos é totalmente distinta das hipóteses usualmente deferidas com base na não taxatividade do rol da ANS. Isso porque, o procedimento em questão foi objeto de largo estudo e análise para possível incorporação no rol de referência da agência reguladora ANS, porém, teve sua inclusão afastada, fundamentadamente, pelo comitê responsável.
+Nas razões do recurso especial, o ora agravante aponta violação dos arts. 10 e 35-C da Lei n. 9.659/1998.
+Sustenta que o tratamento de estimulação magnética transcraniana foi prescrito em situação de emergência, devendo então ser coberto pelo plano de saúde, independentemente de estar ou não previsto no rol da ANS.
+Defende que o tratamento pode ser realizado em ambiente ambulatorial, tendo então a operadora de saúde o dever legal de custear as sessões, nos termos do art. 12, I, b, da Lei n. 9.659/1998.
+Alega que o Tribunal de origem não considerou o disposto no art. 10, §1º, da RN/ANS n. 465/2021, que indica ser devida a cobertura de todos os tratamentos necessários indicados aos portadores de transtornos mentais.
+Aponta ocorrência de divergência jurisprudencial.
+Requer o provimento do recurso para que seja reconhecida a necessidade de custeio pela operadora de saúde do tratamento prescrito, sem limite de sessões.
+É o relatório. Decido.
+Realmente o recurso não reúne condições de admissibilidade.
+Na espécie, a Corte estadual manteve a sentença, concluindo não ser devida a cobertura do procedimento de estimulação magnética transcraniana pelo plano de saúde.
+Para tanto, consignou que a agência reguladora, devidamente fundamentada em estudos técnicos e pareceres de especialistas - que concluíram pela ausência de relevância do procedimento na prática clínica -resolveu não enquadrar o procedimento em questão como obrigatório nos planos de referência fixados pela ANS, não sendo oportuno que o poder judiciário não prestigie a análise realizada por todo corpo técnico e normativo da ANS, pois configuraria uma ingerência sobre as atividades da agência reguladora (fls. 429-430).
+Nas razões do recurso especial, a parte em momento algum rebateu o fundamento do acórdão recorrido quanto à expressa exclusão do referido tratamento do rol da ANS em razão dos estudos realizados por toda equipe técnica e normativa da ANS, em que restou concluído que o tratamento não deveria constar do rol da ANS ante a sua irrelevância na prática clínica, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ademais, a questão infraconstitucional relativa à violação dos arts. 10, 12, I, b, e 35-C da Lei n. 9.659/1998 não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema.
+Caso, pois, de aplicação também da Súmula n. 282 do STF.
+Por fim, com relação à alínea c do permissivo constitucional, melhor sorte não socorre a parte recorrente, pois a incidência dos óbices das Súmulas n. 282, 283 e 284 do STF implica a inviabilidade do recurso fundado na divergência jurisprudencial, por impossibilidade de se verificar a similitude fática entre o acórdão paradigma e o recorrido.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.038.519/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022, AgInt no REsp n. 1.773.833/ES, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021 e AgInt no REsp n. 1.936.814/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/10/2021, DJe de 27/10/2021.
+Ademais, a alegação de dissídio jurisprudencial baseada em acórdão paradigma do próprio Tribunal de origem, atrai a incidência do óbice da Súmula n. 13 do STJ (AgInt nos EDcl no REsp n. 2.029.860/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
