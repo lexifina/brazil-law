@@ -1,0 +1,1 @@
+Art. 107-B. Ficam dispensados a devolução e o reembolso de que trata o art. 106 desta Lei, pela Defensoria Pública da União, até 1 (um) ano após o prazo a que se refere o art. 108 do Ato das Disposições Constitucionais Transitórias.

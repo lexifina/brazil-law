@@ -1,0 +1,2 @@
+Cria, transforma e extingue cargos e funções; reestrutura cargos e carreiras; altera a remuneração de servidores; altera a remuneração de militares de ex-Territórios Federais; altera disposições sobre gratificações de desempenho; dispõe sobre a incidência de contribuição previdenciária facultativa sobre parcelas remuneratórias; e modifica regras sobre requisição e cessão de servidores.
+O VICE - PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
