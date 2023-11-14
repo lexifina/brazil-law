@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por IVAN MONTENEGRO DE MENEZES e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR DANOS MORAIS. ROMPIMENTO DA BARRAGEM DE REJEITOS DA MINA CÓRREGO DO FEIJÃO EM BRUMADINHO. EXTINÇÃO PARCIAL. PRESCRIÇÃO. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DO PRAZO PRESCRICIONAL. INOCORRÊNCIA. INTERESSE DE AGIR DEMONSTRADO DESDE A ÉPOCA DO EVENTO DANOSO. ARTIGO 206, §3º, V CC. RECURSO NÃO PROVIDO.
+- O Código Civil em seu artigo 206, §3º, inciso V estabelece o prazo prescricional de 3 (três) anos para a pretensão de reparação civil, sendo o termo inicial para a contagem do referido prazo a data da ciência da violação do direito.
+- A formulação de requerimento extrajudicial genérico, com vistas à composição amigável entre as partes, por si só, não suspende o prazo prescricional.
+- Inexiste, na hipótese, qualquer obrigatoriedade em se aguardar a negativa administrativa para, só dali, recorrer ao judiciário, pois o interesse de agir restava configurado desde a data do evento danoso.
+- Recurso desprovido.
+Quanto à controvérsia, a parte recorrente alega violação do art. 199, I, do Código Civil, no que concerne à não ocorrência de prescrição, tendo em vista que o prazo se encontrava sob condição suspensiva, trazendo a seguinte argumentação:
+O pedido administrativo suspende o prazo prescricional, que somente recomeça a contar a partir da resposta final, o que restou efetivado no caso concreto, em atenção a norma do artigo 199 do Código Civil, veja-se:
+ ..
+Enquanto há condição suspensiva, simplesmente não existe o direito. Ora, toda a fundamentação da recorrente é no sentido oposto a tal argumento. O que se alega é que o direito existe desde o primeiro requerimento administrativo, não podendo correr a prescrição contra a segurada em razão dos requerimentos administrativos formulados. Ocorre que tais requerimentos não implicam condição suspensiva, fato desconsiderado pelo juízo monocrático e pelo colegiado, contrariando entendimento deste Superior Tribunal: (fls. 267-268).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Isto significa dizer que, ainda os agravantes tenham contatado extrajudicialmente a empresa requerida, tal circunstância, por si só, não encontra amparo em qualquer norma legal quanto a eventual suspensão do prazo prescricional.
+Saliente-se que não há comprovação de qualquer empecilho que os tenham impedido de ingressar concomitantemente na via judicial, e, ainda, inexiste, na hipótese, qualquer obrigatoriedade em se aguardar a negativa administrativa para, só dali, recorrer ao judiciário, pois o interesse de agir restava configurado desde a data do evento danoso. (fls. 241, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
