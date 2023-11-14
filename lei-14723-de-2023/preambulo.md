@@ -1,0 +1,2 @@
+Altera a Lei nº 12.711, de 29 de agosto de 2012, para dispor sobre o programa especial para o acesso às instituições federais de educação superior e de ensino técnico de nível médio de estudantes pretos, pardos, indígenas e quilombolas e de pessoas com deficiência, bem como daqueles que tenham cursado integralmente o ensino médio ou fundamental em escola pública.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
