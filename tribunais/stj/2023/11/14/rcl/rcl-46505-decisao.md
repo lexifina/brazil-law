@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de reclamação ajuizada contra o acórdão da 2ª Turma Recursal do Juizado Especial do Estado do Paraná que isentou fornecedora de produto (quadriciclo) de responsabilidade, visto que o adquirente reparara vício em oficina não credenciada.
+Em suas razões, a parte reclamante alega que o acórdão da Turma afrontou a jurisprudência do Superior Tribunal de Justiça citada na inicial. Invoca precedente do Supremo Tribunal Federal que autoriza a reclamação nesses casos, por falta de órgão uniformizador de jurisprudência no plano nacional (RE n. 571.572, relatora Ministra Ellen Gracie, DJe de 27/11/2009), bem como a Resolução STJ n. 12/2009, editada em atendimento ao então determinado pelo STF.
+É o relatório.
+A Corte Especial do STJ, ao julgar a QO no AgRg na Rcl n. 18.506/SP, entendeu que, "com o advento da Emenda Regimental n. 22-STJ, de 16/3/2016, ficou revogada a Resolução n. 12/2009-STJ, que dispunha sobre o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte". A matéria passou a ser regulada pela Resolução STJ n. 3/2016.
+A Resolução STJ n. 3/2016, por sua vez, atribuiu às câmaras reunidas ou às seções especializadas dos respectivos tribunais de justiça a competência para processar e julgar, em caráter excepcional, até a criação das turmas nacionais de uniformização, as reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte.
+Assim, tendo em vista que a presente reclamação foi protocolada quando já em vigor a Resolução STJ n. 3/2016, não mais subsiste a competência desta Corte para sua apreciação. No mesmo sentido: AgInt na Rcl n. 42.824/MG, relator Ministro Marco Buzzi, Segunda Seção, DJe de 19/5/2022.
+De fato, diante da inércia do legislador ordinário, que, até hoje, não editou lei no sentido de criar uma turma nacional dos juizados especiais dos Estados, seguindo o modelo existente nos juizados federais, o próprio STJ encontrou uma solução intermediária para compatibilizar seu papel enquanto tribunal superior e a necessidade de celeridade em processos da espécie.
+Ante o exposto, não conheço da reclamação por ser manifestamente inadmissí vel.
+Publique-se. In timem-se.
+EMENTA
