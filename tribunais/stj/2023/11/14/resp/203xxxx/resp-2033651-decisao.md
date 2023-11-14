@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por HIPERSERVE S.A., com fundamento no artigo 105, III, "a", da Constituição, contra acórdão do Tribunal de Justiça de Minas Gerais, que deu provimento ao recurso de apelação interposto pela parte recorrida e considerou intempestiva a impugnação ao edital apresentada pela recorrente em processo licitatório.
+No apelo, a empresa alega violação do art. 110 da Lei n. 8666/1993, afirmando que a impugnação do edital do certame foi tempestiva.
+Antes de examinar o recurso, observei que o pedido da inicial consiste em que "seja declarada nula a decisão que não recebeu a Impugnação ao edital apresentada pela Requerente, bem como todos os atos praticados posteriormente".
+Ocorre que, segundo o que constava do acórdão recorrido, o procedimento de licitação há muito já havia se concluído e o próprio contrato administrativo dele decorrente possivelmente teria sido integralmente cumprido em 2021.
+Portanto, havia fundada dúvida sobre a manutenção do interesse de agir, por possível perda superveniente do objeto, já que seria de questionável utilidade discutir a tempestividade da impugnação de item de edital de certame que já teria sido totalmente exaurido (não só o certame quanto o próprio contrato dele decorrente).
+Com essas considerações, em atenção ao disposto nos arts. 10 e 317 do CPC, intimei a parte recorrente para, no prazo de 15 (quinze) dias, manifestar-se fundamentadamente se ainda mantinha interesse no julgamento do recurso.
+A parte demandante, de um lado, confirmou que o contrato administrativo já foi integralmente cumprido e exauriu todos os seus efeitos, não tendo apresentado, na ocasião, fundamentos que demonstrassem a manutenção do interesse de agir.
+De outra banda, registrou a peticionante que insiste no julgamento do recurso, para que seja delimitada a correta interpretação a ser dada em relação ao art. 110 da antiga Lei de Licitações.
+Todavia, a despeito da pretensão da parte de dirimir a matéria em abstrato relacionada ao referido dispositivo legal, está claro que questão anterior e prejudicial impede o exame do recurso especial, qual seja, a ausência de utilidade prática com a continuidade da ação.
+Se não mais persiste o interesse de agir (que está relacionado ao pedido da inicial, e não à pretensão de que prevaleça alguma tese jurídica em abstrato), falta uma das condições para que o processo tenha prosseguimento, pelo que a análise do mérito em si do recurso especial fica prejudicada.
+Em outras palavras, o que tenciona a parte é conferir uma espécie de abstrativização ao seu apelo, numa tentativa de dissociar a solução a ser dada para o caso concreto d a discussão sobre a questão jurídica em abstrato, o que não é possível, pois não existe essa cisão no julgamento dos recursos especiais, muito menos quando o recurso nem sequer está afetado como representativo de controvérsia.
+Ante o exposto, por não ter sido demonstrada a manutenção do interesse de agir (recursal), NÃO CONHEÇO do apelo especial.
+Publique-se. Intimem-se.
+EMENTA
