@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NOVACKI PAPEL E EMBALAGENS S.A. contra decisão de minha lavra, de e-STJ fls. 218/222, em que não conheci da reclamação, por ser essa incabível nos casos em que a tese defendida é o descumprimento da ordem de sobrestamento dos feitos que envolvam tema submetido ao rito dos recursos repetitivos.
+O embargante aponta a existência de vício de omissão, pois "a r. Decisão ao não conhecer a Reclamação o faz condicionando a hipótese legal "garantia das decisões" à observância de enunciado de súmula vinculante e de decisão do STF em controle concentrado de constitucionalidade, que na realidade, é outro fundamento das hipóteses de cabimento, no caso, o inciso III do art. 988 do CPC" (e-STJ fl. 226).
+Acrescenta que o pleito reclamatório consiste na garantia da autoridade das decisões do Tribunal, na forma do inciso II do art. 988 do CPC/2015 e não nos incisos III e IV, que tratam de observância de precedentes vinculantes.
+Impugnação não apresentada (certidão de e-STJ fl. 238).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão, vícios não constatados na hipótese.
+Consoante registrado na decisão embargada, a pretensão esboçada na reclamação é de que seja assegurada a aplicação da decisão do STJ que afetou o Tema 1.079 do STJ, referente à definição acerca do limite de 20 (vinte) salários mínimos é aplicável à apuração da base de cálculo de "contribuições parafiscais arrecadadas por conta de terceiros", nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-Lei n. 2.318/1986, com determinação de suspensão dos feitos que tratassem da matéria, medida que não teria sido observada pelo Tribunal Regional Federal da 4ª Região.
+Decidi, então, que a reclamação não deveria ser conhecida, por inadequação da via eleita, pois não atendia a quaisquer dos incisos do art. 988 do CPC/2015, tendo em vista que a tese ali defendida era de descumprimento de ordem de sobrestamento do processo determinada em acórdão de afetação de apelo especial a julgamento sob o rito dos recursos repetitivos.
+Ponderados esses elementos, constato que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
