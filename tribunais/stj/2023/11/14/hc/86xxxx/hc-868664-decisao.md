@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Edson Bispo de Souza - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1505427-93.2023.8.26.0228), não comporta processamento.
+Com efeito, busca a impetração a aplicação do regime inicial semiaberto à condenação imposta ao paciente pelo Juízo de Direito da 18ª Vara Criminal da comarca da Capital/SP, ao argumento de que atribuir o mesmo regime inicial de cumprimento de pena a ambos os réus, Alan (reincidente) e Edson (Primário), viola a proporcionalidade e adequação da medida. Não se pode equipar legalmente o condenado transitado em julgado para com o primário, possuidor de bons antecedentes e réu confesso, mesmo sabendo que sua pena em nada diminuiria (S. 231 do STJ) - fl. 8.
+Ocorre que a via eleita foi indevidamente utilizada como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, não obstante o Tribunal local tenha reduzido as penas-base dos acusados ao mínimo legal, ao impor o regime inicial mais rigoroso, logrou fundamentar no fato de que os acusados, de forma planejada e com clara divisão de tarefas, ingressaram no estabelecimento comercial e abordaram a vítima e, mediante grave ameaça exercida com emprego de simulacro de arma de fogo, exigiram a entrega de dinheiro e mercadorias, submetendo-a a momentos de terror. Tais circunstâncias denotam clara periculosidade e ousadia desmedida, e autorizam o encarceramento mais severo na fase inicial de cumprimento da pena corporal (fl. 29), providência que se coaduna com o teor da Súmula 440 desta Corte, interpretada em sentido inverso, ou seja, na idoneidade da fundamentação em elementos concretos relacionados ao fato.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS . ROUBO MAJORADO. PRETENSÃO DE REVISAR A CONDENAÇÃO. INDEVIDA UTILIZAÇÃO DA VIA ELEITA. REGIME INICIAL. IMPOSIÇÃO DO FECHADO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
