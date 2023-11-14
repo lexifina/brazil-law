@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso e special interposto por YUANHUO LUO contra  acórdão  do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O recorrente foi condenado como incurso nas sanções do art. 157, caput, do Código Penal, à pena de 4 (quatro) anos de reclusão, em regime inicialmente aberto, e ao pagamento de 10 (dez) dias-multa (fls. 114-118).
+O Tribunal de Justiça deu provimento à apelação interposta pelo Ministério Público para modificar o regime prisional de cumprimento de pena para o semiaberto, mantida, no mais, a sentença impugnada (fls. 163-167).
+Nas  razões  do  recurso especial,  interposto  com  fundamento  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  a defesa  alega violação aos arts. 33 e 59 do Código Penal. Sustenta, em síntese, a necessidade de imposição do regime aberto de cumprimento de pena, uma vez preenchidos os requisitos legais (fls. 176-187).
+Em contrarrazões, o Ministério Público estadual sustenta que o recurso não deve ser conhecido devido aos óbices das Súmulas n. 284, STF, e n. 7, STJ. No mérito, pugna pela manutenção do acórdão recorrido por seus próprios fundamentos (fls. 193-196).
+O Ministério Público Federal se manifestou pelo desprovimento do recurso especial (fls. 207-210).
+É  o  relatório. DECIDO.
+Compulsando os autos, verifico que o Tribunal de origem fixou o regime semiaberto de cumprimento de pena nos seguintes termos (fl. 166):
+"Assiste razão o Parquet ao visar à fixação do regime prisional semiaberto, especialmente diante da gravidade da conduta do réu no caso concreto, lembrando que ele estava "visivelmente alterado", simulou emprego de arma de fogo e, mediante grave ameaça, subtraiu veículo avaliado em R$ 28.000,00, não sendo suficiente o regime mais brando fixado em primeiro grau."
+Noto que houve equívoco na fundamentação do acórdão recorrido. De acordo com a Súmula n. 440, STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas n. 718 e n. 719, STF, prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+In casu, a pena do recorrente foi imposta no mínimo legal, e a imposição de regime inicial mais gravoso está embasada tão somente na gravidade em abstrato do delito. Isso porque o emprego de simulacro de arma de fogo e o valor do bem subtraído (R$ 28.000,00) são circunstâncias que não desbordam do tipo penal.
+A propósito:
+"(..) 1. A referência ao fato de o delito ter sido cometido durante o trabalho das vítimas, com grave ameaça exercida com simulacro e emprego de violência, sem que houvesse menção a atos que revelassem maior gravidade da conduta, não demonstra gravidade concreta que desborde do tipo penal e autorize a exasperação da pena-base.
+2. Diante da fixação da pena-base no mínimo legal e da ausência de indicação de elementos que desbordem do tipo penal, não há fundamentação subsistente que autorize a imposição de regime inicial mais gravoso.
+3. Agravo regimental improvido." (AgRg no HC n. 755.193/SP, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 24/3/2023)
+"(..) II - No Superior Tribunal de Justiça, é assente o entendimento de que a fixação de regime mais gravoso do que o indicado para a pena imposta ao réu deve ocorrer com fundamentação específica, que considere a existência de circunstâncias judiciais desfavoráveis do art. 59 do Código Penal ou outro dado concreto que demonstre a extrapolação da normalidade do tipo.
+III - O enunciado da Súmula n. 440 do STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Em igual sentido, as Súmulas n. 718 e 719 do STF.
+IV - O réu é primário e inexistem circunstâncias judiciais desfavoráveis, tendo a pena-base sido fixada no mínimo legal.
+Verifica-se também que foi fixado o regime inicial mais gravoso para o cumprimento da pena com base apenas na gravidade abstrata do delito, fundamento que se mostra insuficiente. (..)" (AgRg no AgRg no HC n. 713.364/SP, Quinta Turma, Rel. Min. Messod Azulay Neto, DJe de 16/12/2022)
+Ante o exposto, dou provimento ao recurso especial para restabelecer o regime aberto de cumprimento de pena.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. ROUBO. REGIME INICIAL SEMIABERTO. FIXAÇÃO DA PENA MÍNIMA. AUSÊNCIA DE ELEMENTOS CONCRETOS QUE DESBORDEM DO TIPO PENAL. IMPOSSIBILIDADE. SÚMULAS 440, STJ, E 718 E 719, STF. RECURSO ESPECIAL PROVIDO.
