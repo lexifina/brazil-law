@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de divergência opostos contra acórdão da colenda Primeira Turma assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO DO RESP. ENTENDIMENTO DOMINANTE. POSSIBILIDADE. COFINS-IMPORTAÇÃO. IMPORTAÇÃO DE AERONAVES (POSIÇÃO 88.02 DA NCM). ALÍQUOTA DE 1%. LEGALIDADE. CLÁUSULA DE TRATAMENTO NACIONAL. GATT. INAPLICABILIDADE.
+1. O provimento monocrático do recurso especial tem suporte na Súmula 568/STJ, a qual dispõe que "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema " (Corte Especial, DJe 17/3/2016). Além disso, a possibilidade de interposição de recurso ao órgão colegiado afasta eventual ofensa ao princípio da colegialidade.
+2. Entende o STJ que não há incompatibilidade entre o "adicional de alíquota" previsto no § 21 do artigo 8º da Lei 10.865/2004 (redação dada pela Lei 12.844/2013) e a previsão legal de "alíquota zero" para a COFINS-Importação incidente sobre a importação de aeronaves classificadas na posição 88.02 da NCM. Nesse sentido: AgInt nos EREsp n. 1.896.233/DF, relatora Ministra Regina Helena Costa, Primeira Seção, DJe de 1º/9/2022.
+3. "A Cláusula de Obrigação de Tratamento Nacional não abrange a COFINS-Importação" (REsp n. 1.926.749/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 19/11/2021).
+4. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.899.408/MG, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 14/10/2022)
+Os embargos de declaração opostos, na sequência, foram rejeitados.
+Em suas razões, a ora embargante alega que o acórdão embargado diverge dos seguintes paradigmas proferidos pela CORTE ESPECIAL, SEGUNDA e TERCEIRA TURMAS deste Tribunal: AI no Agravo em REsp 641.185/RS, AgRg no REsp 899.302/SP, EREsp 687.216/SP, REsp 1.694.324/SP, AgInt no REsp 1.881.010/DF, REsp 938.839/RJ, AgInt no Agravo em REsp 1.768.468/SP e REsp 1.161.467/RS.
+Afirma, para tanto, que a divergência consiste na violação da Cláusula de Reserva de Plenário, pois o órgão Fracionário deixou de aplicar norma infraconstitucional sem a instauração de incidente de arguição de inconstitucionalidade (arts. 480 a 482 do CPC/1973 e arts. 948 a 950 do CPC/2015), bem como na aplicabilidade do princípio da especialidade nos casos de conflito aparente de normas.
+Requer, ao final:
+a) no âmbito da Corte Especial, reconhecer a divergência entre o entendimento da Primeira Turma e o da Corte Especial e da Terceira Turma desse Superior Tribunal de Justiça e, assim, pacificar o dissídio com a aplicação das teses firmadas nos acórdãos paradigmas sobre a cláusula de reserva de plenário e o princípio da especialidade das normas, sob pena de ofensa ao art. 97 da Constituição Federal e à Súmula Vinculante 10, e;
+b) subsidiariamente, no âmbito da Primeira Seção, reconhecer a divergência entre o entendimento da Primeira Turma e o da Segunda Turma desse Superior Tribunal de Justiça e, assim, pacificar o dissídio com a aplicação das teses firmadas nos acórdãos paradigmas sobre a cláusula de reserva de plenário e o princípio da especialidade das normas, sob pena de ofensa ao art. 97 de Constituição Federal e à Súmula Vinculante 10.
+É o relatório. Passo a decidir.
+O dissídio pretoriano não está caracterizado, porquanto o acórdão ora embargado decidiu a controvérsia em conformidade com a jurisprudência atual firmada no âmbito da CORTE ESPECIAL do STJ, com base, inclusive, no Tema 1.047, julgado em sede de Repercussão Geral pelo eg. STF, conforme ementas a seguir transcritas:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. DIREITO TRIBUTÁRIO. COFINS-IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. TEMA N. 1.047/STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. O Supremo Tribunal Federal, ao apreciar o RE n. 1.178.310/PR (Tema n. 1.047), sob o regime de repercussão geral, firmou a seguinte tese: "É constitucional o adicional de alíquota da Cofins-Importação previsto no § 21 do artigo 8º da Lei n. 10.865/2004.".
+2. No caso, o acórdão proferido pelo STJ está em sintonia com a orientação firmada pela Suprema Corte sob o regime da repercussão geral, de modo que deve ser mantida a decisão que negou seguimento ao recurso extraordinário.
+3. Não há distinção entre a situação debatida nos autos e a tese vinculante contida no Tema n. 1.047/STF, uma vez que o STF tem reconhecido a incidência da referida orientação, inclusive nos casos envolvendo a importação de aeronaves. Nesse sentido: RE n. 1.162.703-ED-AgR, relatora Ministra Rosa Weber, Primeira Turma, DJe de 21/11/2019.
+4. Agravo interno a que se nega provimento.
+(AgInt no RE nos EDcl no AgInt nos EREsp 1.896.233/DF, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 26/9/2023, DJe de 2/10/2023)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. DIREITO TRIBUTÁRIO. COFINS-IMPORTAÇÃO. ADICIONAL DE ALÍQUOTA. ENTENDIMENTO DO STJ EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. TEMA N. 1.047/STF. AGRAVO NÃO PROVIDO.
+1. O Supremo Tribunal Federal, no julgamento do RE n. 1.178.310/PR, sob o regime de repercussão geral, firmou a tese de que "é constitucional o adicional de alíquota da Cofins-Importação previsto no § 21 do artigo 8º da Lei nº 10.865/2004." (Tema n. 1. 047/STF).
+2. No caso, o acórdão proferido pelo STJ está em sintonia com a orientação firmada pelo Pretório Excelso sob o regime da repercussão geral, de modo que deve ser mantida a decisão que negou seguimento ao recurso extraordinário.
+3. Não há se falar em distinguishing entre a situação debatida nos autos e a tese vinculante contida no Tema n. 1.047/STF, uma vez que a Suprema Corte tem reconhecido a incidência da referida orientação, inclusive nos casos envolvendo a importação de aeronaves. Nesse sentido: RE n. 1.162.703 ED-AgR, relatora Ministra Rosa Weber, Primeira Turma, DJ de 21/11/2019.
+4. Agravo interno a que se nega provimento.
+(AgInt no RE nos EDcl no AgInt no REsp 1.897.140/MG, Relator Ministro Og Fernandes, CORTE ESPECIAL, julgado em 7/3/2023, DJe de 13/3/2023)
+Nessa mesma linha de intelecção, cite-se, ainda, julgado da colenda PRIMEIRA SEÇÃO desta Corte Superior, competente para julgamento de recursos relacionados à matéria de direito tributário, in verbis:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ADCIONAL DE 1% (UM POR CENTO). ART. 8º, § 21, DA LEI N. 10.865/2004. AQUISIÇÃO DE AERONAVES E PEÇAS DE AERONAVES. LEGITIMIDADE. ACÓRDÃO EMBARGADO EM SINTONIA COM A ORIENTAÇÃO DA CORTE. SÚMULA N. 168/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. "Esta Corte firmou compreensão na mesma linha do acórdão embargado, segundo a qual a exigência do adicional de 1% (um por cento) na alíquota da Cofins-Importação, previsto no § 21, do art. 8º da Lei n.10.865/2004, na aquisição de aeronaves e peças de aeronave, é legítima" (AgInt nos EREsp n. 1.896.233/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 30/8/2022, DJe de 1/9/2022.).
+3. Nos termos da Súmula n. 168/STJ, "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado".
+4. Agravo interno não provido.
+(AgInt nos EREsp 1.897.526/MG, Relator Ministro Benedito Gonçalves, PRIMEIRA SEÇÃO, julgado em 16/11/2022, DJe de 21/11/2022)
+Destarte, incide, na espécie, a Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão recorrido."
+Diante do exposto, indefiro liminarmente os embargos de divergência.
+Publique-se.
+EMENTA
