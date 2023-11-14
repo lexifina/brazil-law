@@ -1,0 +1,1 @@
+Art. 7º-B. As instituições federais de ensino superior, no âmbito de sua autonomia e observada a importância da diversidade para o desenvolvimento científico, tecnológico e de inovação, promoverão políticas de ações afirmativas para inclusão de pretos, pardos, indígenas e quilombolas e de pessoas com deficiência em seus programas de pós-graduação stricto sensu.
