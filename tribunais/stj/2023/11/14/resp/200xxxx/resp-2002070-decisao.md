@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por RONALDO VENCESLAU RODRIGUES DA CUNHA (RONALDO) e OUTROS, com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+RECURSO DE AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURAS PÚBLICAS C/C INDENIZAÇÃO POR PERDAS E DANOS E DANOS MORAIS C/CREINTEGRAÇÃO DE POSSE C/C EXTINÇÃO DE CONDOMÍNIO - VALOR DA CAUSACORRIGIDO EX OFFICIO - PROVEITO ECONÔMICO INESTIMÁVEL - CUSTASPROCESSUAIS COMPLEMENTARES - RECOLHIMENTO APÓS APURAÇÃO DO PROVEITOECONÔMICO - CONDUTA DE MÁ-FÉ QUANTO À PRETENSÃO DE JUSTIÇA GRATUITA -SEM COMPROVAÇÃO - PENALIDADE AFASTADA - RECURSO PARCIALMENTE PROVIDO.
+Do conjunto fático-probatório não é possível extrair, de modo seguro e inconteste, qual o valor dos prejuízos materiais sofridos pelos Agravantes em decorrência do uso e fruição das áreas de terras sub judice desde a data em que os imóveis foram transferidos a terceiros por meio de "procurações inválidas". De igual modo, não está comprovada a liquidez patrimonial dos Agravantes para arcar com o pagamento das custas complementares que foram calculadas sobreo valor da causa corrigido pelo Juiz singular.
+A medida escorreita, no caso concreto, é determinar o que recolhimento de eventuais custas complementares se realize após ser identificado o valor do proveito econômico dos Agravantes, ainda que isso ocorra tão somente na fase de liquidação de sentença.
+A penalidade de multa aplicada em desfavor dos Agravantes deve ser extirpada, tendo em vista a ausência de provas acerca da conduta de má-fé quanto à pretensão da gratuidade da justiça. (e-STJ, fl. 1.160)
+Os embargos de declaração opostos por HERMES LOURENÇO BERGAMIN - ESPÓLIO (HERMES) e LISANE BOEING BOGER BERGAMIN (LISANE) e por RONALDO e OUTROS foram rejeitados (e-STJ, fls. 1.360-1.391).
+Nas razões do presente recurso, RONALDO e OUTROS alegaram a violação aos arts. 82, 100, parágrafo único, 102, § 1º, 489, § 1º, IV, 507, 1.015, I a XIII, e 1.022 do CPC, ao sustentarem que (1) o acórdão recorrido deixou da analisar questões essenciais ao deslinde da controvérsia; (2) ocorreu a preclusão a respeito do valor atribuído à causa; (3) não cabem a interposição de agravo de instrumento contra decisão que altera o valor da causa e (4) o ordenamento jurídico não admite a coexistência de decisão que revoga a gratuidade da justiça e, ao mesmo tempo, deixa de determinar o recolhimento imediato das despesas processuais referentes ao período de concessão do referido benefício.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.393-1.440).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+(1) Da negativa de prestação jurisdicional
+No presente recurso, RONALDO e OUTROS alegou a violação dos arts. 489, § 1º, IV e 1.022, do CPC ao argumento de que o acórdão recorrido não se pronunciou sobre questões essenciais ao correto deslinde da controvérsia.
+Com razão.
+De fato, em seu embargos de declaração, RONALDO e OUTROS requereram a manifestação do Tribunal de origem quanto (1) à ocorrência de preclusão temporal em relação à decisão que majorou o valor da causa; (2) ao não cabimento do agravo de instrumento contra decisão que define o valor da causa e (3) a contradição existentente entre a revogação da justiça gratuita e o diferimento da complementação das despesas processuais.
+Da acurada análise do acórdão que julgou os aclaratórios, verifica-se que o Tribunal de origem não tratou sobre o tema visto que apenas consignou:
+Para corrigir o valor dado à causa na Reconvenção dos Embargantes/Litisconsortes Ronaldo Venceslau Rodrigues da Cunha e Outros, o Juiz utilizou-se do valor da transação comercial da Fazenda Triunfo, pela qual os Reconvintes afirmaram terem pago R$ 1.180.140,00 (um milhão, cento e oitenta mil, cento e quarenta reais).
+Diante desse panorama, conclui pelo equivocou do Julgador singular ao fazer suas próprias deduções e cálculos a respeito do valor da pretensão indenizatória vindicada pelo Autor/Embargado Espólio de Gil Goldstein.
+Não se pode perder de vista, ainda nesse aspecto, o objeto da lide, a disputa entre as partes pela manutenção das alienações dos imóveis tal como realizadas e, especialmente, a falta de informações concretas dos prejuízos materiais supostamente sofridos pelos Recorrentes.
+Por corolário, em que pese o esforço jurídico de ambos os Embargantes em manter a obrigação do Espólio Embargado ao recolhimento das custas complementares verifiquei que não há provas suficientes para demonstrar ele tem patrimônio líquido (dinheiro) para suportar o pagamento de R$107.895,00 (cento e sete mil, oitocentos e noventa e cinco mil reais) neste momento processual.
+Lado outro, em que pese ao Juiz ter consignado que os Reconvintes não atribuíram valor ao pedido reconvencional, determinou a intimação destes para a indicação do quantum, bem como o recolhimento das custas.
+Nessa linha de intelecção, conforme exposto no acórdão, levando em consideração o objeto da lide, a disputa entre as partes pela manutenção das alienações dos imóveis tal como realizadas e, especialmente, a falta de informações concretas dos prejuízos materiais supostamente sofridos pelos Recorrentes, tem-se que para o recolhimento das custas complementares é indispensável a apuração efetiva do suposto proveito econômico a ser obtido pelo Espólio Embargado. Essa situação, vale dizer, é peculiar e não viola a regra do artigo 82 do CPC como tenta convencer ambos os Embargantes.
+Nessa linha de intelecção, o fato de o acórdão não delimitar qual a proporção de eventual sucumbência dos Embargantes/Réus caso a demanda de origem seja julgada improcedente, nem de longe, configura vício de obscuridade tampouco extirpa a certeza jurídica a respeito das questões resolvidas no Instrumental.
+Não se pode perder de vista, que ação originária está tramitando e ainda não foi fixado qualquer sucumbência ao ESPÓLIO DE HERMES LOURENÇO BERGAMIM e LISANEBOENIG BOGER BERGAMIM.
+Os fundamentos aqui lançados, vale dizer, estão inseridos no aresto e, indubitavelmente, não contém vícios de omissão, contradição e obscuridade. (e-STJ, fls. 1.384-1.386)
+O tema também não foi tratado no acórdão de e-STJ, fls. 1.158-1.307.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o Tribunal local a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO CARACTERIZADA. NECESSIDADE DE RETORNO DOS AUTOS AO TJRJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Quando o tema suscitado nos embargos de declaração é relevante ao deslinde da controvérsia, e o Tribunal estadual não se pronunciou sobre ele, imprescindível a anulação do acórdão para que outro seja proferido, ante a flagrante contrariedade ao disposto no art. 1.022 do CPC.  ..
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.913.183/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a análise das demais violações apontadas.
+Nessas condições, DOU PROVIMENTO ao recurso especial determinando o retorno dos autos ao Tribunal de origem para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIADDE DE ESCRITURAS PÚBLICAS CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. ART. 1.022 DO CPC. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES NÃO ANALISADAS PELO ACÓRDÃO RECORRIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVOLUÇÃO DOS AUTOS À ORIGEM. PREJUDICIALIDADE DAS DEMAIS QUESTÕES SUSCITADAS NO APELO ESPECIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
