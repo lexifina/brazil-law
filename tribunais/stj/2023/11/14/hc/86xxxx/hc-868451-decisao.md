@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 14):
+Recurso em Sentido Estrito - Decisão que denegou a ordem de "habeas corpus" impetrada com objetivo de impedir a instauração de inquérito policial em desfavor do recorrente Alegação de ilicitude de compartilhamento de relatório de inteligência do COAF diretamente para a autoridade policial Não acolhimento.
+Remédio heroico para tal finalidade com aplicação excepcional, somente cabível quando estiverem demonstradas, de plano, a manifesta atipicidade da conduta, a notória presença de causa extintiva da punibilidade ou a flagrante ausência de indícios de materialidade e de autoria de infração penal, o que não ocorreu. Possibilidade de solicitação de informações ao Conselho de Atividades Financeiras pela autoridade policial que não implica em violação a sigilo bancário ou fiscal e independe de autorização judicial - Medida tomada pertinente e formalmente realizada no bojo de inquérito policial que apurava crimes de organização criminosa, receptação de adulteração de sinal de veículo automotor - Imputação de fatos que, em tese, configuram ilícito penal - Ausência de ilegalidade flagrante - Constrangimento ilegal não verificado - Decisão mantida - Recurso não provido.
+No caso dos autos, buscou o recorrente impedir a instauração de inquérito policial requisitado pelo Ministério Público, sob o fundamento de ilicitude de compartilhamento de informações entre o COAF e a autoridade policial, o que foi indeferido.
+A defesa sustenta que houve impetração anterior objeto do HC n. 813.523/SP, ocasião em que se decidiu pela legalidade da requisição direta da autoridade policial no caso dos autos.
+Aduz que em julgamento posterior, no RHC 147.707, de relatoria do Ministro Antônio Saldanha Palheiro, houve mudança de entendimento, o que foi acompanhado por este relator.
+Dessa forma, diante da superação do entendimento anterior, em evidente prejuízo ao impetrante, vem impetrar este writ para "reconhecer a ilicitude da prova consistente nas informações requeridas pela delegada de polícia, sem autorização judicial, ao COAF e a aplicação do princípio dos frutos da árvore venenosa, prosseguindo-se a ação penal para apuração de eventuais outros ilícitos penais".
+Requer, liminarmente e no mérito, a concessão da ordem.
+Em consulta ao sistema processual desta Corte Superior e conforme alegado, verifica-se que o presente writ é mera reiteração do HC n. 813.523/SP, que já foi julgado por este relator em decisão publicada em 29/6/2023.
+Ademais, "A mudança de entendimento jurisprudencial acerca de determinada questão já apreciada por esta Corte anteriormente não autoriza à parte litigante impetrar novo writ para pleitear a sua aplicação retroativa, por violar os princípios da segurança e estabilidade jurídica" (AgRg no HC n. 760.122/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 28/11/2022, DJe de 30/11/2022).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
