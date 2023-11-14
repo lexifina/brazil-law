@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MOISÉS APARECIDO BORGES contra acórdão da 2ª Câmara Criminal do Tribunal de Justiça do Estado de Goiás (HC n. 5551409-41.2023.8.09.0000).
+Extrai-se dos autos que o paciente foi denunciado pela suposta prática do delito tipificado no art. 121, § 2º, incisos I e IV do Código Penal, sendo decretada sua prisão preventiva em 9/11/2021.
+Em 2/2/2022 a custódia foi substituída por medidas cautelares alternativas.
+A defesa impetrou a ordem originária alegando excesso de prazo na conclusão da instrução criminal. O Tribunal a quo denegou o habeas corpus, por maioria, em acórdão assim ementado (e-STJ fls. 366/375):
+EMENTA: HABEAS CORPUS. CAUTELAR DIVERSA DA PRISÃO. RECOLHIMENTO DOMICILIAR. MONITORAMENTO ELETRÔNICO. EXCESSO DE PRAZO. RAZOABILIDADE. ILEGALIDADE AFASTADA.
+Não caracteriza constrangimento ilegal contra o paciente, o eventual atraso na conclusão da instrução processual em seu desfavor, estando ele sob cautelar, o recolhimento domiciliar, a monitoração eletrônica, por violação do art. 121, § 2º, incisos I e IV, do Código Penal Brasileiro, devendo ser analisado à luz da razoabilidade, sem a negligência da autoridade coatora no impulsionamento do procedimento apuratório, especialmente quando o encerramento se avizinha. ORDEM DENEGADA.
+No presente writ, a defesa alega que " ..  transcorridos longos 01 (um) ano e 08 (oito), ou seja, mais de 20 (dezoito) meses, o Paciente experimenta a PRISÃO em sua residência, impedindo-o de laborar, visto que, tem como ocupação as lides rurais, sendo que, é impedido de fazê-lo aos finais de semana" (e-STJ fl. 4).
+Aduz que não há data de audiência designada, de modo que inexiste previsão para a conclusão da instrução criminal.
+Ressalta que ele vem cumprindo regularmente as medidas fixadas.
+Requer a revogação das medidas cautelares impostas.
+A liminar foi indeferida às e-STJ fls. 381/383.
+Informações às e-STJ fls. 388/391.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (HC nº 395/399).
+É o relatório. Decido.
+De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Assim, o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação". No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo.
+Assim, segundo a jurisprudência desta Corte e do Supremo Tribunal Federal, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Acerca da alegação, assim se manifestou o Tribunal (e-STJ fl. 366/375):
+O paciente responde a uma ação penal, por violação do crime tipificado pelo art. 121, § 2º, incisos I e IV, do Código Penal Brasileiro, concedida cautelar diversa da prisão, recolhimento domiciliar, monitoramento eletrônico, desde o dia 02/02/22, recebida a denúncia, em 19/05/22, resposta a acusação, em 16/08/22, aguardando a designação da audiência de instrução, prestes à realização, afastando a ilegalidade, ponderada a gravidade do fato e a complexidade da apuração.
+Não caracteriza constrangimento ilegal contra o paciente, o eventual atraso na conclusão da instrução processual em seu desfavor, estando ele sob cautelar, o recolhimento domiciliar, a monitoração eletrônica, por violação do art. 121, § 2º, incisos I e IV, do Código Penal Brasileiro, devendo ser analisado à luz da razoabilidade, sem a negligência da autoridade coatora no impulsionamento do procedimento apuratório, especialmente quando o encerramento se avizinha.
+(..)
+Ao cabo do exposto, acolhendo o pronunciamento ministerial, denego a ordem.
+Verifica-se que foi decretada a prisão preventiva do paciente em 9/9/2021, sendo o mandado cumprido no mesmo dia. Foi indeferido pedido de revogação da prisão em 17/11/2021.
+A defesa formulou novo pedido de revogação da custódia, o qual foi deferido em 2/2/2022, sendo a segregação substituída pelas seguintes medidas cautelares alternativas: "A) comparecimento mensal ao juízo, entre os dias 05 e 10 do mês, durante o curso da persecução penal, para informar e justificar suas atividades; B) Proibição de frequentar locais de má fama, tais como bares, botecos, casas de prostituição, casa de jogos e similares; C) Proibição de ausentar-se da Comarca por mais de 08 (oito) dias até que se finde a persecução penal, salvo por ordem judicial; D) Recolhimento domiciliar no período noturno e nos dias de folga; e E) Monitoração eletrônica".
+A denúncia foi recebida em 19/5/2022, sendo apresentada resposta à acusação em 16/8/2022.
+Segundo informações prestadas às e-STJ fls. 388/391, " ..  no momento, aguarda-se realização de audiência de instrução e julgamento, a ser designada por este Juízo" (e-STJ fl. 389).
+Consulta ao andamento processual no site do Tribunal a quo revela que o magistrado tem reiteradamente tentado designar a audiência de instrução e julgamento, sendo, entretanto, necessárias readequações de pauta que ensejaram adiamentos.
+Nota-se, portanto, que o Magistrado não se encontra inerte, mas vem atuando de modo a impulsionar o processo.
+Ademais, a situação do pacie nte já foi abrandada logo no início da tramitação processual, sendo-lhe deferida a liberdade mediante aplicação de medidas cautelares alternativas.
+Destaco, outrossim, que a alegação de que o paciente "não experimenta um mínimo momento de lazer, não podendo viajar, participar de festividades familiares, sendo, desta forma, um prisioneiro, visto que, tolhido em seu direito de ir e vir" (e-STJ fl. 4), não se revela plausível, visto que não há impedimento para que visite seus familiares, desde que respeitadas as condições impostas. Ou seja, como acima dito, sua liberdade de locomoção foi grandemente flexibilizada pelas medidas cautelares deferida.
+Vê-se, portanto, que a argumentação da defesa concentra-se no suposto impedimento de trabalhar nas lides rurais aos finais de semana.
+Sopesando todas essas circunstâncias, bem como a gravidade concreta do delito, considero que não é o caso de revogação das medidas cautelares impostas.
+Mostra-se adequado e suficiente recomendar ao magistrado que dê prioridade ao feito, de modo a conferir celeridade ao julgamento, bem como que verifique a possibilidade de que o paciente possa, caso necessário, deslocar-se durante os finais de semana ao local de trabalho.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus. Recomendo, entretanto, de ofício, ao Juízo processante que reexamine os termos da medida de recolhimento domiciliar, nos termos acima expostos, bem como que dê prioridade ao feito, de modo a promover o julgamento em data próxima.
+Comunique-se. Intimem-se.
+EMENTA
