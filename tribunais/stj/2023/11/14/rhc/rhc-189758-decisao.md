@@ -1,0 +1,18 @@
+DECISÃO
+EXEDO MATEUS DE SOUZA SILVA alega sofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, manteve a sua prisão preventiva.
+A defesa pretende a soltura do paciente - surpreendido na posse de 600g de maconha, 81g de cocaína e um revolver calibre .32 -, sob o argumento de ausência do preenchimento dos requisitos da prisão cautelar.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+ ..
+Passo ao exame dos fundamentos (periculum libertatis) da prisão preventiva.
+A manutenção do flagranteado em liberdade traz sérios riscos à ordem pública, ante o risco concreto de reiteração delitiva, revelado a partir da gravidade em concreto dos fatos atribuídos ao custodiado, considerando notadamente considerando a quantidade de droga apreendida, 600g de maconha, 81g de cocaína e um revolver calibre .32, conforme termo de apreensão de fls. 7. Assim, entendo que a diversidade e natureza da droga, bem como a presença também de uma arma de fogo revelam a periculosidade em concreto do agente e o risco de reiteraçao delitiva.
+Dessa maneira, a gravidade em concreto dos fatos certamente revela a necessidade da prisão preventiva do autuado para garantir a ordem pública, visando a prevenir a reprodução de fatos criminosos, e a aplicação da lei penal, visando a acautelar o meio social.
+O Superior Tribunal de Justiça, por sua vez, em casos semelhantes, já deixou assente que " ..  A periculosidade do acusado, evidenciada diretamente pelas circunstâncias, antecedentes e modus operandi na prática do crime, bastam, de per si, em delitos graves, para embasar a segregação cautelar no resguardo da ordem pública e da instrução criminal. Habeas corpus indeferido." (HC nº 8.430/RS, DJ de 16/08/1999, Rel. Ministro FELIX FISCHER).  ..  (fl. 18)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar que "a manutenção do flagranteado em liberdade traz sérios riscos à ordem pública, ante o risco concreto de reiteração delitiva, revelado a partir da gravidade em concreto dos fatos atribuídos ao custodiado, considerando notadamente considerando a quantidade de droga apreendida, 600g de maconha, 81g de cocaína e um revolver calibre .32", de modo "que a diversidade e natureza da droga, bem como a presença também de uma arma de fogo revelam a periculosidade em concreto do agente e o risco de reiteraçao delitiva".
+Como visto, o acórdão ora impugnado vai ao encontro da jurisprudência do Superior Tribunal de Justiça, que possui "entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva" (AgRg no RHC n. 178.504/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/6/2023, DJe de 16/6/2023).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, nego provimento ao recurso in limine.
+Publique-se. Intimem-se.
+EMENTA
