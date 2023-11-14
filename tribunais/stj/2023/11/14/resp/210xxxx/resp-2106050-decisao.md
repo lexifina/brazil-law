@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A. (HAPVIDA) contra acórdão proferido pelo TJSE assim ementado:
+APELAÇÃO CÍVEL - AÇÃO INDENIZATORIA - PLANO DE SAÚDE - REEMBOLSO - TRATAMENTO QUIMIOTERÁPICO - CANCELAMENTO UNILATERAL DO PLANO - RECUSA NA CONTINUA Ç ÃO DO TRATAMENTO, MESMO COM LIMINAR DEFERIDA NOS AUTOS 201910801476 - SENTENÇA QUE JULGOU PARCIALMENTE O PLEITO DETERMINANDO O REEMBOLSO NO VALOR DE R$ 174.002,27 - NECESSIDADE DE OBSERVÂNCIA DOS REQUISITOS DO ARTIGO 13, § Ú NICO, INCISO II, DA LEI 9.656/98 (INADIMPLÊNCIA SUPERIOR A 60 DIAS, CONSECUTIVOS OU NÃO, E PRÉVIA NOTIFICAÇÃO) - OPERADORA DE PLANO DE SAÚDE QUE NÃO COMPROVOU A INEQUÍVOCA NOTIFICAÇÃO ACERCA DA RESCISÃO - HAPVIDA ALEGA QUE APESAR DA LIMINAR DEFERIDA, NÃO CONTINUOU O TRATAMENTO POR AUSÊNCIA DE PAGAMENTO RECUSA INJUSTIFICÁVEL - APESAR DA EXPEDIÇÃO DA NOTIFICAÇÃO A MESMA NÃO FOI RECEBIDA POR NENHUM MORADOR "SITUAÇÃO AUSENTE" - DEVER DE CAUTELA DA HAPVIDA DIANTE DA EXCEPCIONALIDADE DO CASO - LIMINAR NÃO FOI REVOGADA - DESCUMPRIMENTO - DEVER DE REEMBOLSO - MANUTENÇÃO DA SENTENÇA.
+- FACE AO IMPROVIMENTO DO RECURSO APLICO O ART. 85, §11, DO CPC/15, MAJORANDO OS HONORÁRIOS ADVOCATICIOS NO PERCENTUAL DE 10% PARA 12% DO VALOR DA CONDENAÇÃO.
+- RECURSO CONHECIDO E IMPROVIDO - UNANIMIDADE (e-STJ, fl. 494).
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, HAPVIDA alegou a violação aos arts. 103, 240, 321, 337, §§ 1º a 3º, e 485, IV e V, todos do CPC; 12 e 17-A, ambos da Lei n.º 9.656/98; 4º da Lei n.º 9.961/2000; e 186, 187, 188, 422, 927 e 944, todos do CC/02; sustentando, em suma, (1) a procuração é inválida, estando viciada; (2) não houve negativa, mas sim necessidade de realizar uma prévia perícia médica; (3) o plano foi cancelado por inadimplência; e (4) não há dano material indenizável, ou, subsidiariamente, deve ser reembolsado nos termos da tabela (e-STJ, fls. 515/539).
+Foi apresentada contrarrazões.
+O recurso foi admitido por força de provimento do agravo (e-STJ, fl. 627).
+É o relatório.
+Decido.
+O recurso especial não merece nem sequer conhecimento.
+(1) (2) (3) (4) Da alegada violação dos arts. 103, 240, 321, 337, §§ 1º a 3º, e 485, IV e V, todos do CPC; 12 e 17-A, ambos da Lei n.º 9.656/98; 4º da Lei n.º 9.961/2000; e 186, 187, 188, 422, 927 e 944, todos do CC/02
+Inicialmente, verifica-se, de plano, que o conteúdo normativo referente a quase todos os dispositivos de lei não foi objeto de debate no v. acórdão recorrido, mesmo após a interposição de embargos declaratórios, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ressalte-se que é exigência contida na própria previsão constitucional para a interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada, mesmo tendo sido opostos embargos de declaração.
+Aplicável, assim, a Súmula n.º 211 do STJ, a qual estabelece ser inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Além disso, destaca-se que, nas razões do especial, HAPVIDA não apresentou argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado os mencionados dispositivos. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula n.º 284 do STF, por analogia.
+Ainda que superados os óbices acima, o Tribunal sergipano, soberano na análise fático-probatória, consignou que
+ ..  O recurso apresenta os requisitos de admissibilidade, contudo, conheço em parte, na forma a seguir explicitada.
+Inicialmente vamos as preliminares:
+Alega a recorrente vicio na procuração juntada aos autos afirma que não possui a assinatura não possui reconhecimento de firma, além de levantar suspeitas de fraude.
+Por fim alega a existência de litispendência.
+Analisando detidamente aos autos verifica não assiste razão, tendo em vista, que se há suspeita de fraude na procuração e parte interessa deverá apresentar documentos, laudo e etc, para dar base a sua tese.
+No tocante a litispendência de uma simples leitura dos autos posso verificar que o pedido do autor é sobre o reembolso das despesas do tratamento e não danos morais sofridos tampouco o imediato pagamento de todos os custos, nesta senda rejeito as preliminares.
+Sem mais delongas vamos ao mérito.
+Cinge-se o presente recurso a combater a sentença que julgou procedente a AÇÃO INDENIZAÇÃO, que julgou procedente o pleito autoral no qual reconheceu como ilegítima a negativa do plano de saúde.
+Ab initio, cumpre destacar que incidem, na hipótese sub judice, as normas do Código de Defesa do Consumidor (Lei nº 8.078/90), pois de natureza consumerista a relação de direito material existente entre a apelante, prestadora de serviços de assistência médica hospitalar, e o apelado.
+ ..
+Assim, reconhecida a incidência da legislação consumerista sobre o caso dos autos, há de se reconhecer também a aplicabilidade da norma do art. 47 do CDC, segundo a qual as cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.
+No caso dos autos, a parte autora requer o reembolso da quantia de R$ 174.002,27 (cento e setenta e quatro mil dois reais e vinte e sete centavos), já acrescido de juros e correção monetária, em virtude da negativa de cobertura das sessões quimioterápicas que a operadora deixou de custear por força da determinação judicial no processo tombado sob o nº 201910801476.
+Em sua apelação a empresa alega que plano de saúde foi cancelado por INADIMPLÊNCIA, conforme prevê a Lei nº 9.656/98, uma vez que a parte autora, encontrava-se em sequentes períodos de inadimplemento, restando em atraso as mensalidades vencidas a mais de 60 dias.
+Defende a litispendência do processo, bem como, requer a invalidação da procuração da parte consumidora nos autos.
+Vejamos :
+"Por outro lado, NESSE PROCESSO ATUAL (Proc. nº 202010800271), a Procuração juntada, além não ter reconhecimento de firma, contém assinatura diametralmente diferente da anterior, o que demonstra forte suspeita de que não foi o autor que a assinou - tornando-a nula!." Analisando detidamente aos autos verifico que de fato a parte consumidora encontra-se inadimplente, bem como, foi expedido a notificação fls. 82/152.
+Nesta senda, o art. 13, parágrafo único, II da Lei 9.656/98, que rege os planos de saúde, é possível a suspensão ou rescisão unilateral do contrato por inadimplemento da mensalidade por período superior a sessenta dias, desde que o usuário seja previamente notificado até o quinquagésimo dia da inadimplência, vejamos:
+Art. 13. Os contratos de produtos de que tratam o inciso I e o § 1 do art. 1 desta Lei têm renovação automática a partir do vencimento do o o prazo inicial de vigência, não cabendo a cobrança de taxas ou qualquer outro valor no ato da renovação.
+Parágrafo único. Os produtos de que trata o , contratados individualmente, terão vigência mínima de um ano, : caput sendo vedadas (..) II - a suspensão ou a rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato, desde que o consumidor seja comprovadamente notificado até o qüinquagésimo dia de inadimplência;
+Na hipótese vertente, entendo que a notificação não foi regular. Fls. 152.
+ ..
+Assim, considerando que apesar correspondência ter sido expedido ao endereço residencial declinado pela titular no termo de adesão ao plano de saúde, sou forçoso reconhecer a irregularidade da rescisão do contrato, vez que a notificação não foi recebida por nenhum morador.
+Desta forma, verificada ausência de prévia notificação regular ao consumidor, a qual constitui um dos requisitos imprescindíveis para a suspensão ou rescisão unilateral do contrato em decorrência da mora do contratante, aliada à inadimplência da Apelante por período superior aos 60 (sessenta) dias estabelecidos como prazo mínimo de inadimplemento, tenho que foi a abusiva a rescisão unilateral.
+ ..
+Assevero ainda o plano de saúde descumpriu a liminar confirmada na sentença nos autos 201910801479. Vejamos:
+Por estas considerações, verifica-se a presença dos requisitos inerentes à medida de urgência pleiteada, motivo pelo qual, DEFIRO o " pedido de tutela antecipada, para determinar que a empresa HAPVIDA, autorize e pague integralmente todos os custos necessários a realização do tratamento quimioterápico com carboplatina, taxol ou nabpaclitaxel e pembrolizumab, evitando alimta pela disfunção renal se ClCr menor que 40 nos exames recentes, aos moldes do KEYNOTE 189 ou KEYNOTE 407, se Clearence de creatina > 40,beneficiaria associação de carboplatina alimta pembroliziumab por 4 ciclos a cada 21 dias com manutenção de tratamento com alimta e pembrolizumab por tempo indeterminado até progressão de doença ou toxidade limitante, Com função renal probitiva para uso de alimta, a opção de tratamento seria com carboplatina  pacliaxel por 4 ciclos a cada 21 dias, seguindo de manutenção com pembrolizumab a cada 21 dias por 35 ciclos, no prazo máximo de 05(cinco) dias, sob pena de sequestro do valor necessário ao custeio do tratamento vindicado."
+Ante o exposto, conheço do recurso interposto, para negar provimento, mantendo a sentença em, todos os seus termos. Face ao improvimento do recurso aplico o art. 85, §11, do CPC/15, majorando os honorários advocatícios no percentual de 10% para 12% do valor da CONDENAÇÃO (e-STJ, fls. 494/497 - sem destaques no original).
+De início, verifica-se que a revisão do julgado, com o consequente acolhimento da pretensão recursal - nulidade da procuração, litispendência e regularidade da notificação -, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito, veja-se o precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DA PARTE AUTORA.
+ ..
+3.2. Alterar as conclusões da Corte de piso no sentindo de que carece de interesse de agir a pretensão de reconhecimento de nulidade das procurações, porquanto visavam a nulidade da partilha, cujo direito encontra-se prescrito, demandaria a incursão no acervo fático-probatório dos autos, providência vedada pelo óbice da Súmula 7 desta Casa.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 937.779/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. LITISPENDÊNCIA. REQUISITOS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDO. INEXISTÊNCIA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. LITIGÂNCIA DE MÁ-FÉ. CONFIGURADA. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A configuração da litispendência reclama a constatação de identidade das partes, da causa de pedir e do pedido ("tríplice identidade") das ações em curso (artigo 301, § 1º, do CPC.
+2. A constatação acerca da existência ou não de litispendência, no caso, exige minuciosa análise de seus elementos configuradores - identidade de partes, da causa de pedir e do pedido -, esbarrando a pretensão recursal no óbice da Súmula 7 do STJ.
+ .. .
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.271.147/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/10/2023, DJe de 26/10/2023 - sem destaques no original)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. CANCELAMENTO. INADIMPLÊNCIA. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem entendeu que seria nula a rescisão contratual, pois não teria sido demonstrada a notificação prévia da parte beneficiária acerca do débito, com o envio de fatura para facultar o pagamento antes de se efetivar o cancelamento do contrato. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. "O cancelamento do plano de saúde motivado por inadimplência do beneficiário exige sua prévia notificação, nos termos da jurisprudência do Superior Tribunal de Justiça" (Aglnt no AREsp 1.460.199/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+4. "Como cediço, o mero atraso no pagamento da mensalidade não implica o cancelamento automático do contrato de plano de saúde, sendo necessária a prévia notificação do usuário para constituí-lo em mora, afora a concessão de prazo para a sua purgação. De fato, o exercício do direito de resolução contratual seja pela operadora seja pela estipulante no caso de inadimplência do usuário exige a observância de certos requisitos" (REsp n. 1.655.130/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/5/2018, DJe de 29/5/2018).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.104.897/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2023, DJe de 12/5/2023 - sem destaques no original)
+Além do mais, da leitura atenta das razões do apelo nobre, verifica-se que os fundamentos do acórdão recorrido de que (i) se há suspeita de fraude na procuração e parte interessa deverá apresentar documentos, laudo e etc, para dar base a sua tese; (ii) o pedido do autor é sobre o reembolso das despesas do tratamento e não danos morais sofridos tampouco o imediato pagamento de todos os custos; (iii) a notificação não foi regular; e (iv) a notificação não foi recebida por nenhum morador (e-STJ, fls. 495/497), não foram objeto de impugnação das razões do recurso especial, ofendendo o princípio da dialeticidade recursal, colhendo assim a incidência da Súmula n.º 283 do STF, por analogia: é inadmissível o recurso extraordinário, quanto a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO PROTOCOLADO VIA FAX. ART. 2º DA LEI N. 9.800/99. NÃO IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO AUTÔNOMO. SÚMULA N. 283/STF. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA N. 83/STJ. AFERIÇÃO DA DATA DE PROTOCOLO. SÚMULA N. 7/STJ.
+1. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso. Incidência da Súmula n. 283 do STF.
+ ..
+4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp nº 673.529/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 28/8/2015 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 283/STF. INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS NºS 5 E 7/STJ. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 643.078/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/9/2015 - sem destaque no original)
+Assim, está claro que o recurso especial não merece nem sequer ultrapassar a barreira do conhecimento.
+Nessas condições, NÃO CONHEÇO o recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de JOSE FELISBERTO ALMEIDA, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N.º 284 DO STF. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA N.º 211 DO STJ. REFORMA DO JULGADO. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
