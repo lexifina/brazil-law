@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Wellington Cardoso Pinheiro, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação n. 1.0702.17.063755-8/001 - fl. 26):
+APELAÇÃO CRIMINAL - DOIS APELANTES - CRIMES DE TRÁFICO DE DROGAS - PRELIMINAR DE NULIDADE DO PROCESSO POR VIOLAÇÃO AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ REJEITADA - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÕES MANTIDAS - CONFIRMAÇÃO DAS PENAS PRIVATIVAS DE LIBERDADE - REDUÇÃO DA PENA RESTRITIVA DE DIREITOS DE PAGAMENTO DA PRESTAÇÃO PECUNIÁRIA AO MÍNIMO LEGAL. O art. 399, §2o, do Código de Processo Penal, dispõe que "o juiz que presidiu a instrução deverá proferir a sentença"; no entanto, este princípio não deve ser interpretado de forma absoluta, comportando exceções. Comprovadas a materialidade e a autoria delitivas, confirma-se a condenação dos réus. Para a configuração do crime de tráfico não é necessário que o agente seja flagrado em pleno ato de mercancia, bastando que a sua conduta se encaixe em qualquer dos verbos descritos no art. 33 da Lei nº 11.343/06, por se tratar de tipo penal de ação múltipla. Devidamente observados os critérios legais dos artigos 59 e 68 do Código Penal, confirmam-se a s penas. Não cabe ao condenado buscar adequar aos seus interesses a pena que deseja cumprir, contudo, prudente é a redução da pena de prestação pecuniária fixada acima do mínimo legal sem exposição de fundamentos suficientes para adoção de tal medida.
+Verifica-se dos autos que o paciente foi condenado, ao lado do corréu, pelo Juízo da 3ª Vara Criminal da comarca de Uberlândia/MG, por incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, no regime inicial semiaberto, e pagamento de 500 dias-multa.
+O recurso de apelação interposto pelo acusado foi desprovido pela Corte estadual, mantendo-se os termos da condenação em primeiro grau. A condenação transitou em julgado no dia 19/9/2022.
+Neste feito, a defesa alega que, no caso, mostra-se cabível a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, já que as instâncias antecedentes não apresentaram fundamentação idônea e afastaram a incidência da referida redutora, considerando unicamente que o paciente respondia a uma outra ação penal por crime contra o patrimônio sem trânsito em julgado.
+Requer seja cassado o acórdão hostilizado e reconhecido o tráfico privilegiado, com a aplicação da redutora.
+É o relatório.
+Como o presente writ é sucedâneo de revisão criminal, forçoso seria reconhecer a incompetência desta Corte Superior para o processamento deste pedido.
+Diviso, no entanto, ilegalidade flagrante, apta a subsidiar a concessão de habeas corpus de ofício.
+A Corte estadual, corroborando a sentença de primeiro grau, manteve o afastamento da causa especial de redução da pena prevista na Lei de Drogas, nos seguintes termos (fl. 29 - grifo nosso):
+ ..
+No tocante às penas fixadas, passa-se ao seu exame, separadamente, para cada um dos recorrentes.
+Em relação ao primeiro apelante WELLINGTON PINHEIRO, não se observa nada a ser reparado. A pena-base foi fixada no mínimo legal, tornando-se definitiva no mesmo patamar ausentes agravantes, atenuantes, causas de aumento e de diminuição da reprimenda.
+Destaca-se, nesse ponto, a inviabilidade de reconhecimento do tráfico privilegiado, pela condenação do réu em outro delito contra o patrimônio, não obstante tecnicamente primário (fl. 258), como destacado em primeiro grau, inclusive.
+O regime deve ser confirmado, também, como semiaberto, negada a substituição.
+ ..
+Há pouco tempo a Jurisprudência do Superior Tribunal de Justiça admitia como prova da dedicação a atividades criminosas a existência de ações penais em curso (AgRg no HC n. 638.848/MT, Ministro Felix Fischer, Quinta Turma, DJe 26/4/2021).
+No entanto, em recentes julgados, a Sexta Turma desta Corte Superior, seguindo orientação do Supremo Tribunal Federal, passou a não admitir ações penais em curso como fundamento da dedicação a atividades criminosas, tendo em conta o princípio da presunção de inocência.
+Dito de outra forma, inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade (AgRg no HC n. 648.079/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/4/2021).
+Nesse mesmo sentido o AgRg no AREsp n. 1.801.313/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/3/2021; e o AgRg no REsp n. 2.043.372/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/10/2023.
+No presente caso, como já dito, o Magistrado de origem indicou a existência de ação penal sem trânsito em julgado à época da prolação da sentença, fundamento esse não compatível com a jurisprudência mais recente deste Tribunal. Necessário, assim, aplicar a minorante ao paciente no patamar de 2/3.
+Dessa forma, mantida a pena provisória de 5 anos de reclusão, com a incidência da causa de diminuição, passa a reprimenda a 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, à razão mínima. A pena privativa de liberdade deve ser substituída por duas restritivas de direitos a serem especificadas pelo Juízo competente.
+Ante o exposto, não conheço do habeas corpus. De ofício, concedo a ordem para fixar a reprimenda do paciente em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo, ainda, a pena privativa de liberdade por duas restritivas de direitos a serem especificadas pelo Juízo competente.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. CAUSA ESPECIAL DE REDUÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. INQUÉRITOS POLICIAIS OU AÇÕES PENAIS EM CURSO. FUNDAMENTO INIDÔNEO. PRECEDENTES.
+Writ não conhecido. Ordem concedida de ofício, nos termos do dispositivo.
