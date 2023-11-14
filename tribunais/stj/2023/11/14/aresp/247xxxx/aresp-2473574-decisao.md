@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MUNICIPIO DE UBERABA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - BLOQUEIO DE VALORES - CONTA POUPANÇA - LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS - IMPENHORABILIDADE - INTELIGÊNCIA DO ART.
+833, X, DO CPC - RECURSO DESPROVIDO.
+Nos expressos termos do artigo 833, inciso X, do CPC, é absolutamente impenhorável "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos".
+Ainda, segundo entendimento do Superior Tribunal de Justiça, é impenhorável a quantia de até quarenta salários mínimos, seja aplicada em caderneta de poupança, mantida em papel-moeda ou em conta- corrente, ressalvado eventual abuso, má-fé ou fraude" (fl. 96e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 102/109e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - ART. 1.022 DO NCPC - OMISSÃO - AUSÊNCIA - EMBARGOS REJEITADOS.
+Devem ser rejeitados os embargos de declaração quando ausente o alegado vício de omissão no acórdão embargado, sendo certo que a mera divergência da parte com o entendimento, a fundamentação e a conclusão contidos na decisão não constitui embasamento a embargos declaratórios" (fl. 127e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 489, § 1º, III e IV, e 1.022, § 2º, II, do CPC/2015, alegando negativa de prestação jurisdicional, bem como ofensa aos arts. 400 e 833 do CPC/2015, sustentando, em síntese, que "o Executado injustificadamente descumpriu ordem judicial que determinou a juntada dos extratos bancários referentes aos três últimos meses contemporâneos ao bloqueio" (fl. 151e); que, "pelo descumprimento da determinação judicial de juntada de documentos bancários, presume-se que a poupança do Recorrente é utilizada como se conta corrente fosse" (fl. 152e); e que, "como o Recorrente se furta de quitar seu débito desde 2014, o ato omissivo de não juntar os três últimos extratos da sua conta poupança expressa o nítido intento de ocultar o fato de que tal conta é utilizada como se conta corrente fosse. Atrai-se, portanto, a presunção de que a razão de ser da conta poupança foi desvirtuada, o que configura abuso e/ou má-fé e/ou fraude à execução" (fl. 152e).
+Por fim, requer:
+"5.1- PRELIMINARMENTE, seja reconhecida a violação aos arts. 11, 489, §1º, incisos III e IV, e 1.022, inciso II, e parágrafo único, inciso II, todos da Lei Federal 13.105/15, para que seja decretada a nulidade dos r. Acórdãos recorridos, determinando-se o retorno dos autos ao TJMG, para a consequente apreciação dos argumentos submetidos pelos Embargos de Declaração (doc. de ordem 1 dos autos n.º 1.0701.14.034757-9/002) e pelo Agravo de Instrumento (doc.
+de ordem 1 dos autos 1.0701.14.034757-9/001).
+5.2- NO MÉRITO, com fulcro na alínea "a" do inciso III do artigo 105 da CR/88, requer seja dado integral provimento ao presente recurso para, por violação aos artigos 400 e 833 do Código de Processo Civil de 2015, determinar a mitigação da impenhorabilidade da poupança, posto que o caso dos autos se enquadra na hipótese que autoriza o afastamento de tal vedação" (fl. 155e).
+Contrarrazões não apresentadas, inadmitido o Recurso Especial (fls. 192/196e), foi interposto o presente Agravo (fls. 201/218e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento "interposto pelo MUNICÍPIO DE UBERABA contra a decisão (doc. 03) que, nos autos da ação de execução fiscal proposta em face de CLOVIS DINIZ FERREIRA e OUTROS, reconheceu a impenhorabilidade dos valores bloqueados, nos termos do art. 833, X, do CPC" (fl. 92e).
+O Tribunal de origem negou provimento ao recurso, nos seguintes termos:
+"O presente agravo de instrumento restringe-se à decisão que reconheceu a impenhorabilidade dos valores bloqueados na conta
+bancária do executado Clovis Diniz Ferreira, ora agravado, nos termos do art. 833, X, do CPC.
+Conforme estabelece o inciso X do art. 833 do CPC, é absolutamente impenhorável "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos".
+De fato, verifica-se da documentação colacionada aos autos que o valor bloqueado se encontra depositado em conta poupança, além de ser inferior a 40 (quarenta) salários-mínimos (doc. 06, p. 30).
+Ressalte-se, ainda, o entendimento pacificado do Superior Tribunal de Justiça no sentido de ser impenhorável a quantia de até quarenta salários mínimos, seja aplicada em caderneta de poupança, mantida em papel-moeda ou em conta-corrente, ressalvado eventual abuso, má-fé ou fraude:
+(..)
+Assim, tendo em vista que o bloqueio recaiu sobre valor inferior a quarenta salários mínimos, depositado em conta poupança, e por não haver provas de abuso, má-fé ou fraude do executado, não merece reforma a decisão agravada.
+Com tais razões, NEGA-SE PROVIMENTO AO AGRAVO, mantendo-se a decisão recorrida" (fls. 97/99e).
+Daí a interposição do presente Recurso Especial.
+Em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, de acordo com a jurisprudência desta Corte, "é impenhorável a quantia de até 40 (quarenta) salários mínimos poupada, seja ela mantida em papel-moeda, em conta-corrente, aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento" (STJ, AgInt no REsp 1.982.952/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 18/5/2022).
+Nesse sentido, o Tribunal de origem consignou "não haver provas de abuso, má-fé ou fraude do executado, não merece reforma a decisão agravada" (fl. 99e).
+Rever as conclusões adotadas pelo Tribunal de origem, nos moldes do que pretendido pela parte agravante, demandaria, necessariamente, o exame do acervo fático-probatório, constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento.
+I.
+ EMENTA
