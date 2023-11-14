@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de EDNALDO FERREIRA DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no Agravo de Execução Penal n. 0010558-14.2022.8.26.0502.
+Consta dos autos que o livramento condicional concedido ao ora paciente foi cassado pelo Tribunal a quo no julgamento do agravo de execução penal interposto pelo Ministério Público, nos termos da seguinte ementa:
+AGRAVO EM EXECUÇÃO. Recurso ministerial contra livramento condicional. Agravado que resgata pena por delitos graves (roubos circunstanciados). Necessidade de submissão ao exame criminológico para aferição do requisito subjetivo. Inteligência da Súmula/STJ, nº 439. PROVIMENTO. (fl. 13)
+O impetrante afirma que o livramento condicional foi cassado com fundamento na longevidade da pena e na gravidade dos crimes, em desrespeito à jurisprudência desta Corte.
+Ressalta, ainda, que o paciente SE ENCONTRA GRAVEMENTE ENFERMO, de cama, necessitando de cuidados diários, vez que não possui condições de levantar da cama, usando fralda, estando com sua saúde em estado debilitado (fl. 6)
+Requer, em liminar e no mérito, o restabelecimento da decisão de primeiro grau.
+É o relatório.
+Decido.
+O presente habeas corpus não merece conhecimento, pois foi impetrado em substituição a recurso próprio. Contudo, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, é possível a concessão da ordem de ofício.
+No caso dos autos, a controvérsia refere-se ao exame criminológico.
+Conforme relatado, o Juízo da Execução Penal deferiu ao paciente o livramento condicional. O Tribunal a quo, porém, cassou o benefício por ausência do requisito subjetivo, determinando a realização do referido exame, sob os seguintes fundamentos (fls. 12/13):
+ ..
+EDNALDO, condenado à privativa de 25 anos, 4 meses e 12 dias de reclusão, em regime fechado, por crimes graves (roubos circunstanciados), tem término de pena previsto somente para 10/9/2035 (fls. 15).
+O atestado de bom comportamento carcerário (fls. 14) se limita a certificar sua conduta no interior do estabelecimento prisional, sem se reportar a dados importantes sobre a sua personalidade e conduta social.
+Nesse diapasão, pela natureza dos delitos praticados, carece de comprovação de completa assimilação da terapêutica penal para galgar livramento condicional, o que somente poderá ser aquilatado com a realização de exame criminológico.
+Neste ponto, é sabido que a LEP, art. 112 - com redação dada pela Lei nº 10.792/03 - a despeito de afastar a obrigatoriedade da realização deste tipo de perícia, não a impediu, sempre que necessário, de acordo com a Súmula/STJ, nº 439 - Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+No mesmo sentido, o Parecer do Preopinante: "No caso concreto, verifica-se que o sentenciado está condenado pela prática de diversos crimes, como roubo majorado, praticado com violência e grave ameaça a pessoa. Havendo longa pena a cumprir, bem como condenação por diversos crimes, era de rigor maior cautela na progressão de regime em meio aberto. Neste cenário, o atestado de conduta carcerária se revela insuficiente quanto ao prognóstico de conduta do sentenciado em meio aberto. Conveniente, pois, a realização do referido exame (..) O contexto concreto, portanto, era de determinação da realização do exame criminológico, a fim de se apurar, de maneira mais ampla e segura, a aptidão do sentenciado para gozar de maior liberdade sem colocar em risco a ordem pública." (fls. 49).
+A execução penal é regida pelo princípio do in dubio pro societate, ou seja, a dúvida plausível acerca do mérito do condenado em obter o benefício, deve ser resolvida em favor da sociedade, que não pode ser obrigada a conviver com a insegurança.
+Diante do exposto, dá-se provimento ao agravo, para cassar o livramento condicional, determinando-se retorno ao regime em que se encontrava, condicionando-se, eventual futura reapreciação, à realização de exame criminológico. (fls. 13/14)
+Embora a alteração legislativa produzida pela Lei n. 10.792/2003, no art. 112 da Lei n. 7.210/84 (LEP), tenha suprimido a referência expressa ao exame criminológico como requisito à progressão e ao livramento condicional, esta Corte consolidou entendimento no sentido de que o Magistrado pode, de forma fundamentada, exigir a sua realização. Nessa esteira, editou-se a Súmula n. 439 do STJ, in verbis:
+Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+A fundamentação, contudo, deve estar relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena, como no caso concreto. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. TRIBUNAL QUE INDEFERE O BENEFÍCIO E DETERMINA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO COM BASE NA GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS E LONGEVIDADE DA PENA. FUNDAMENTO INIDÔNEO PARA A AFASTAR A IMPLEMENTAÇÃO DO REQUISITO SUBJETIVO. ORDEM CONCEDIDA DE OFÍCIO. RECURSO DESPROVIDO.
+1. Conforme reiterada orientação jurisprudencial deste Superior Tribunal de Justiça, a gravidade abstrata dos delitos praticados e a longevidade da pena a cumprir não podem servir, por si sós, como fundamento para a determinação de prévia submissão do apenado a exame criminológico para fins de concessão do benefício do livramento condicional. Precedentes.
+2. O Tribunal de origem reformou a decisão de primeiro grau para determinar a submissão do paciente à realização de exame criminológico com fundamento na gravidade em abstrato do crime cometido pelo paciente (assinalando, incluvise, erroneamente, tratar-se de homicídio qualificado, ao passo que se trata de crime de roubo). Referido fundamento se mostra inidôneo, ao passo que não se apontou nenhum elemento concreto dos autos que, efetivamente, pudesse rechaçar o decisum de primeiro grau que concedeu o livramento condicional ao sentenciado.
+3. Diante do flagrante constrangimento ilegal, faz-se imperiosa a concessão da ordem de habeas corpus de ofício para restabelecer a decisão singular concessiva do livramento condicional.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 396.384/SP, de minha relatoria, Quinta Turma, julgado em 7/6/2018, DJe de 20/6/2018.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer o livramento condicional deferido pelo juízo da execução penal.
+Publique-se.
+Intimem-se.
+EMENTA
