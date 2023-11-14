@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por Equatorial Goiás Distribuidora de Energia S. A. ou Celg Distribuição S.A. - CELG D desafiando decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, em virtude da incidência do Verbete sumular 115/STJ (fls. 613/614).
+Inconformada, a parte agravante, em suas razões, sustenta que, "Diferentemente do que identificado, o Sr. Lener Silva possui poderes para constituir advogados e consta do documento de fls. 536/538 assinado pelo Diretor-Presidente do grupo Equatorial" (fl. 621).
+Aponta que "merece reparo a conclusão da decisão monocrática recorrida já que, como demonstrado, o signatário da procuração de fls. 540 possuia sim poderes outorgados pelo Diretor-Presidente da companhia elétrica para nomear os advogados subscritores do AREsp" (fl. 622).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Aberta vista à parte agravada, decorreu in albis o prazo para impugnação (fl. 628).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 613/614), tornando-a sem efeito, passando novamente à análise do recurso:
+Trata-se de agravo manejado por Equatorial Goiás Distribuidora de Energia S/A ou Celg Distribuição S/A, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado de Goiás que não admitiu o recurso especial, pelos seguintes motivos: (I) impossibilidade de exame de violação a norma infralegal; e (II) incidência do óbice da Súmula 282/STF.
+De início, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+In casu, nas razões do agravo em recurso especial, a insurgente limitou-se a defender a não aplicação do Verbete sumular 282/STF, bem como que agiu em conformidade com a Resolução Normativa 414/2010 da ANEEL (fls. 373/384).
+Assim, deixou de tecer qualquer consideração acerca do fundamento de que "o recurso especial não é sede própria para apreciação de eventual ofensa a resolução de entidade governamental, tendo em vista que a hipótese constitucional de seu cabimento é restrita à aplicação de lei federal, não se incluindo nesse conceito atos da administração pública (STJ-RT 698/223)" (fl. 295), atraindo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Registre-se que a Corte Especial do STJ, na assentada de 19 de setembro de
+2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP (Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/09/2018, DJe 30/11/2018), reforçou a compreensão de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182.
+ANTE O EXPOSTO, em juízo de retratação, reconsidero a decisão de fls. 613/614, tornando-a sem efeito. Ademais, não conheço do agravo em recurso especial. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
