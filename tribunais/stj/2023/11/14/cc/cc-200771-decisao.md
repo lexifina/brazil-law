@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 1ª VARA DE SÃO VICENTE - SJ/SP, o suscitante, e o JUÍZO FEDERAL DA 1ª VARA DE RESENDE - SJ/RJ, o suscitado.
+O Juízo Federal da 1ª Vara de Resende - SJ/RO, em que foi ajuizada a execução fiscal, declinou da competência para o processamento do feito, sustentando, em essência, que efetuadas várias tentativas frustradas de citação, foi localizado endereço do executado em São Vicente/SP. Por seu turno, o Juízo Federal da 1ª Vara de São Vicente - SJ/SP, o suscitante, defendeu que o endereço há época do ajuizamento era de Resende/RJ.
+Manifestação do Ministério Público Federal pela competência do suscitado (e-STJ fls. 156/158).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, penso que assiste razão ao suscitante.
+Os autos, na origem, versam sobre execução fiscal proposta pela ORDEM DOS ADVOGADOS DO BRASIL - SEÇÃO DO ESTADO DO RIO DE JANEIRO contra ALLAN DE OLIVEIRA MORAES, para a satisfação dos créditos constantes da CDA acostada à exordial.
+Cumpre observar que, por ser relativa à competência territorial, o juízo da execução não pode dela declinar, de ofício, como já sedimentado na Súmula 33 do STJ, que estabelece que "a incompetência relativa não pode ser declarada de ofício". Sobre o tema o enunciado sumular 58 do STJ, in verbis: "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada."
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IPVA. POSTERIOR MUDANÇA DE DOMICÍLIO DO EXECUTADO. DESLOCAMENTO DA COMPETÊNCIA. IMPOSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. ENUNCIADO N. 58 DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que rejeitou o pedido de alteração da competência para julgamento da execução fiscal em outra comarca, diversa da que foi proposta.
+Sustenta a parte recorrente que, após a verificação de que a empresa executada não teria bens na comarca onde proposta a ação, seria necessária a expedição de várias cartas precatórias para cumprimento de diligências. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+II - O acórdão recorrido está em conformidade com a jurisprudência desta Corte, consolidada no Enunciado n. 58 da Súmula do STJ, segundo o qual "proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada".
+II - Agravo em recurso especial conhecido para não conhecer do recurso especial.
+(AREsp 1.341.424/SP, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/2/2019, DJe de 14/2/2019).
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. DOMICÍLIO DO DEVEDOR. COMPETÊNCIA TERRITORIAL. INCOMPETÊNCIA RELATIVA NÃO PODE SER DECLARADA DE OFÍCIO. SÚMULA 33/STJ. AUSÊNCIA DE EXCEÇÃO DE INCOMPETÊNCIA. SÚMULA 58/STJ.
+1. O foro competente para o ajuizamento da execução fiscal será o domicílio do réu, consoante a disposição contida no artigo 578, caput, do Código de Processo Civil. Por se tratar de competência relativa, a competência territorial não pode ser declarada ex officio pelo Juízo. Esse entendimento se consolidou com a Súmula 33 do Superior tribunal de Justiça, in verbis: "A incompetência relativa não pode ser declarada de ofício."
+2. Na hipótese de execução fiscal proposta fora do domicílio do devedor, compete exclusivamente ao executado se valer da exceção de incompetência, para afastar a competência de Juízo relativamente incompetente.
+3. Ademais, a posterior mudança de domicílio do executado não influi para fins de alteração de competência, conforme teor da Súmula 58 do Superior Tribunal de Justiça, in verbis: "Proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada." 4. Conflito de competência conhecido para declarar a competência do Juízo Federal de Sinop - SJ/MT, o suscitado.
+(CC 101.222/PR, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 23/03/2009).
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. ALTERAÇÃO DO ENDEREÇO DA EXECUTADA. INCOMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULAS 33 E 58/STJ. COMPETÊNCIA DO JUÍZO FEDERAL ONDE FOI PROPOSTA A DEMANDA.
+1. O art. 578 do Código de Processo Civil estabelece que a execução fiscal será ajuizada no foro do domicílio do réu. Não obstante isso, cumpre ressaltar que a competência territorial é relativa, e, portanto, só poderia a incompetência ser argüida por meio de exceção (CPC, art. 112).
+2. Feita a escolha e ajuizada a ação, ficou definida a competência do Juízo Federal da 2ª Vara da Seção Judiciária do Estado de Tocantins (CPC, art. 87), não podendo ser reconhecida ex officio eventual incompetência do Juízo, nos termos do enunciado da Súmula 33/STJ.
+3. Além disso, segundo o entendimento consolidado com a edição da Súmula 58/STJ, "proposta a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada".
+4. Ressalta-se que, em relação à análise de conflitos de competência, o Superior Tribunal de Justiça exerce jurisdição sobre as Justiças Estadual, Federal e Trabalhista, nos termos do art. 105, I, d, da Carta Magna. Desse modo, invocando os princípios da celeridade processual e economia processual, esta Corte Superior pode definir a competência e determinar a remessa dos autos ao juízo competente para a causa, mesmo que ele não faça parte do conflito (CC 47.761/PR, 1ª Seção, Rel. Min. Luiz Fux, DJ de 19.12.2005).
+5. Conflito conhecido para declarar a competência do Juízo Federal da 2ª Vara da Seção Judiciária.
+(CC 53.750/TO, Rel. Min. DENISE ARRUDA, PRIMEIRA SEÇÃO, DJ de 15/05/2006).
+Ante o exposto, com base no art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência d o JUÍZO FEDERAL DA 1ª VARA DE RESENDE - SJ/RJ, o suscitado.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
