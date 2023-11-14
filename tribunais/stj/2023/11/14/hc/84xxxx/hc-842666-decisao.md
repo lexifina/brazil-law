@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em nome de Ronaldo Alves Guimarães Junior, no qual se ataca o acórdão proferido pelo Tribunal de Justiça de Pernambuco que denegou a ordem no HC n. 0012368-56.2023.8.17.9000.
+Narram os autos que o paciente foi preso em flagrante, em 31/10/2022, bem como teve a prisão preventiva decretada, nos Auto s n. 0006694-65.2022.8.17.3590, pelo Juízo da 1ª Vara Criminal da comarca de Vitória de Santo Antão/PE, em razão da suposta prática dos crimes de roubos majorados, corrupção de menor e porte ilegal de arma de uso permitido.
+Inconformada com a alegada letargia processual, impetrou-se habeas corpus na origem. O Tribunal a quo denegou a ordem e convalidou a segregação cautelar (fls. 14/34).
+Daí a presente impetração, em que a Defensoria Pública sustenta a existência de constrangimento il egal decorrente do excesso de prazo para o encerramento da instrução processual, sem que tenha contribuído para tanto.
+Aduz que o processo se encontra paralisado desde 18/11/2022, configurando a mora processual.
+Defende que não há óbices ao desenvolvimento contínuo da marcha processual, uma vez que a ação penal é desprovida de complexidade (fl. 6).
+Requer-se, liminarmente e no mérito, o relaxamento da prisão.
+Os autos vieram a mim conclusos por prevenção do HC n. 799.243/PE e HC n. 840.838/PE. Estão con exos ao HC n. 842.871/PE.
+A liminar foi por mim indeferida (fls. 38/40), as informações foram prestadas (fls. 49/60) e o Ministério Público Federal opinou pelo não conhecimento e, caso conhecido, pela denegação do habeas corpus (fls. 63/68).
+Em consulta à ação penal, os autos aguardam audiência de instrução e julgamento designada para o dia 27/11/2023.
+É o relatório.
+No tocante ao excesso de prazo na custódia cautelar, o Tribunal de origem entendeu não haver desídia do Poder Judiciário, fundamentando nos seguintes termos (fl. 21 - grifo nosso):
+ ..
+Do cotejo dos autos, constata-se que, até o momento, inexiste atraso desproporcional no andamento do feito, sendo certo que a denúncia foi recebida em 18/11/2022, resposta à acusação do paciente apresentada em 25/4/2023. Trata-se de um feito com três acusados, além de pedidos de revogação da preventiva.
+Analisando o feito minuciosamente, constata-se que o processo se encontra no aguardo da realização da audiência designada para o dia 27/11/2023.
+Nessa senda, não há que se apontar excesso de prazo, observado o trâmite processual acima relatado. A jurisprudência tem elencado situações específicas que justificam - diante do princípio da razoabilidade e da proporcionalidade - o atraso da celeridade processual.
+Todavia, in casu, não se constata indícios de desídia do Estado-Juiz, sendo o juízo diligente no andamento do feito.
+Nas palavras do Douto Procurador:
+ ..  "Em primeiro lugar, cabe registrar que ao inverso do que alega a impetrante, o paciente não está custodiado há 330 dias, e sim pouco mais de 240 dias, cuja prisão está fundamentada nos termos da decisão proferida em audiência de custódia, cujos motivos para que ele permaneça custodiado ainda persistem..
+O magistrado de piso ao prestou as informações dando conta de que a resposta à acusação somente foi apresentada em 25 de abril do corrente ano, fato revelador de que o atraso na marcha processual não deve ser atribuído ao Poder Judiciário. Como se vê, não há constrangimento ilegal na prisão do paciente. Conquanto se verifique, em certa medida, a extrapolação dos prazos process uais, tal não se deu de maneira abusiva, tampouco por culpa do Juízo impetrado. Não é demais pontuar que a jurisprudência dos Tribunais pátrios, inclusive dessa egrégia Corte, tem elencado situações específicas que justificam - diante dos princípios da razoabilidade e da proporcionalidade - o atraso da celeridade processual, tais como: a presença de múltiplos acusados, a expedição de carta precatória, a substituição de testemunhas, dentre outras."  ..
+ ..
+No caso, vê-se que o alongamento da instrução se deve à complexidade do feito a que responde o paciente e outros dois corréus, presos em 31/10/2022, cuja defesa é patrocinada pela Defensoria Pública, tendo sido recebida a denúncia, em 18/11/2022, apresentada resposta à acusação em 25/4/2023, revisada e mantida a custódia, em 3/7/2023, estando o feito, atualmente, aguardando audiência de instrução e julgamento designada para data próxima, qual seja, 27/11/2023. Assim, não há qualquer indicativo de ofensa à razoabilidade ou desídia do magistrado em impulsion ar o processo.
+Nesse sentido, confira-se a jurisprudência do Superior Tribunal de Justiça nos seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO CIRCUNSTANCIADO. ALEGADA DESARRAZOADA DELONGA NO ENCERRAMENTO DO FEITO. NÃO OCORRÊNCIA. PRAZO DE TRAMITAÇÃO DO PROCESSO CONDIZENTE COM AS PECULIARIDADES DO CASO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É entendimento consolidado nos tribunais que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de modo que eventual demora no julgamento do recurso de apelação deve ser aferida levando-se em conta as peculiaridades do caso concreto.
+2. Na hipótese, o feito prossegue em consonância com as peculiaridades do caso, devendo ser destacado que, não obstante o trâmite aparentemente distendido, a prisão da paciente, assim como destacado acima, foi constantemente reavaliada, tendo sido, inclusive, designada a data para a realização da audiência de instrução e julgamento.
+3. Agravo regimental não provido.
+(AgRg no HC n. 807.420/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/5/2023 - grifo nosso)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE. RISCO DE FUGA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO. RAZOABILIADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do art. 312 do Código de Processo Penal.
+II - No caso em tela, tenho que a prisão preventiva se encontra devidamente fundamentada, em dados concretos extraídos dos autos, para a garantia da ordem pública, diante da periculosidade do Agravante, haja vista que ele supostamente teria participado da empreitada criminosa na qual houve o emprego de grave ameaça para subtrair aparelhos celulares de estabelecimento comercial, não se olvidando o risco de fuga, o qual, também, reclama a manutenção do encarceramento provisório para assegurar a aplicação da lei penal.
+Precedente.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - No que concerne ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+V - Na hipótese, levando em consideração a prisão cautelar decretada, em 21/3/2022, não se verifica a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado; haja vista as particularidades da causa, mormente a gravidade da conduta imputada à pluralidade de pessoas, 2 (dois) réus, sendo que a prisão preventiva tem sido constantemente reavaliada; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+VI - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental d esprovido.
+(AgRg no RHC n. 183.146/BA, Ministro Messod Azulay Neto, Quinta Turma, DJe 2/10/2023 - grifo nosso)
+Não é outra a opinião do Ministério Público Federal, pela leitura do bem-lançado parecer escrito pelo Subprocurador-Geral da República José Adonis Callou de Araújo Sá (fls. 63/68), o qual também adoto como razões de decidir.
+Pelo exposto, com base na jurisprudência e no parecer, denego a ordem (art. 34, XX, do RISTJ). Ex peça-se recomendação à Corte pernambucana e ao Juízo de primeiro grau para que seja imprimida celeridade para a conclusão da Ação Penal n. 0006694-65.2022.8.17.35 90, bem como seja reavaliada a necessidade da custódia cautelar com base no parágrafo único do art. 316 do Código de Processo Penal.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CORRUPÇÃO DE MENOR. PORTE ILEGAL DE ARMA DE USO PERMITIDO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. NÃO OCORRÊNCIA. COMPLEXIDADE DA CAUSA. LIMITES DA RAZOABILIDADE NÃO ULTRAPASSADOS. INEVIDÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO. RECOMENDAÇÃO.
+Ordem denegada com recomendação.
