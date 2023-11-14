@@ -1,0 +1,1 @@
+Art. 7º-C. Após 3 (três) anos da divulgação dos resultados do censo do IBGE, o Poder Executivo deverá adotar metodologia para atualizar anualmente os percentuais de pretos, pardos, indígenas e quilombolas e de pessoas com deficiência em relação à população das unidades da Federação, na forma da regulamentação.
