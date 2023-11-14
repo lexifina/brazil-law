@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por JEFERSON BITENCOURT ANCINELO, com esteio no art. 105, I, "f", da Constituição Federal, no art. 988 e ss. do CPC/15, bem como nos arts. 187 a 192, ambos do RISTJ, contra decisão do Juízo de Direito da Vara Adjunta de Execuções Criminais da Comarca de Uruguaiana/RS que, em 27/9/2023, no bojo da Execução Penal n. 8000106-15.2021.8.21.0037, rejeitou o pedido do reclamante de intimação do Ministério Público para oferta de acordo de não persecução penal e indeferiu seu pedido de concessão do Indulto previsto no Decreto n. 11.302/2022.
+Na presente ação, a defesa do reclamante sustenta que, ao declarar, incidentalmente, a inconstitucionalidade do art. 5º do Decreto n. 11.302/2022, teria contrariado a jurisprudência desta Corte sobre o tema.
+Afirma, ainda, que tanto a jurisprudência desta Corte quanto a do Supremo Tribunal Federal teriam entendimento pacífico no sentido de possibilidade de oferecimento do acordo de não persecução penal mesmo após o trânsito em julgado da condenação.
+Pede, assim, liminarmente e no mérito, seja reformada a decisão que declarou a inconstitucionalidade do indulto, bem como indeferiu o pedido de aplicação do acordo de não persecução penal.
+O feito me foi distribuído por prevenção ao Habeas Corpus n. 776.289/RS.
+É o relatório. Passo a decidir.
+Nos termos do art. 105, I, "f", da CF/88, c/c o art. 187 do RISTJ, cabe Reclamação da parte interessada ou do Ministério Público, para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões.
+Por sua vez, o novo CPC legislou exaustivamente sobre o tema nos arts. 988 a 993, definindo, como hipóteses do cabimento da Reclamação, aquelas descritas no art. 988, dentre as quais as que preveem especificamente a Reclamação dirigida ao Superior Tribunal de Justiça são as seguintes:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+(..)
+§ 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+I - proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016) (Vigência)
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+Partindo do princípio de que a lei não contém termos inúteis e de que deve ser interpretada, também, em harmonia com o sistema no qual está inserida, é possível concluir que o legislador teve a intenção deliberada de restringir as hipóteses de cabimento da Reclamação dirigida ao Superior Tribunal de Justiça a duas situações:
+1ª) aquela em que a decisão reclamada usurpa competência do STJ; e
+2ª) aquela em que a decisão reclamada deixa de aplicar ao caso concreto tese já consagrada pelo STJ em recurso repetitivo.
+Daí decorre, forçosamente, que a Reclamação dirigida ao STJ não se presta a proteger o jurisdicionado de decisões judiciais que não tenham seguido o posicionamento majoritário da jurisprudência desta Corte ou tese posta em enunciado de súmula deste Tribunal.
+Tal entendimento deflui do fato de que o único inciso do art. 988 do CPC/2015 que faz alusão ao cabimento de Reclamação para garantir a observância de enunciado de súmula é o inciso III que restringe a proteção da Reclamação à ofensa às súmulas vinculantes do Supremo Tribunal Federal. Não há menção às súmulas do STJ.
+Da mesma forma, quando admite a Reclamação por descumprimento de teses reconhecidas em tribunais superiores, o novo CPC indica restritiva e exaustivamente teses tratadas em: a) controle concentrado de constitucionalidade (art. 988, III) e b) recurso extraordinário com repercussão geral (art. 988, § 5º, II).
+Ora, no caso concreto, a Reclamação não é o instrumento processual adequado para garantir os direitos da Reclamante, diante do fato de que não houve, ainda, deliberação desta Corte sobre o seu caso concreto que possa ter sido descumprida.
+Saliento que o Habeas Corpus n. 776.289/RS que gerou minha prevenção versava sobre remição de pena por dias trabalhados no cárcere e livramento condicional.
+Consta, ainda, que a defesa do ora reclamante impetrou, também, perante esta Corte o Habeas Corpus n. 800.022/RS que também tratava de remição de pena em virtude de trabalho no cárcere.
+A consulta aos processos que aportaram a esta Corte com o nome do reclamante indica a existência de outros julgados na área penal (AREsp n. 1.804.304/RS, no qual se debatia dosimetria de pena; RHC n. 100.115/RS, cujo tema era a prisão preventiva; REsp n. 1.834.917/RS, de Relatoria do Ministro ANTONIO SALDANHA PALHEIRO, debatendo tempestividade de embargos de declaração; HC n. 446.655/RS, Rel. Ministro NEFI CORDEIRO, tratando de prisão preventiva, HC n. 431.776/RS, HC 430.862/RS, HC 429.281/RS todos os três sobre prisão preventiva; REsp n. 1.469.602/RS, de Relatoria do Ministro ANTONIO SALDANHA PALHEIRO, interposto pelo Ministério Público impugnando a aplicação do princípio da consunção a delitos ambientais) mas nenhum deles decidindo qualquer dos temas postos na presente reclamação.
+Registro, a propósito, que, a despeito de a questão ora posta em debate na presente Reclamação versar sobre matéria penal, não seria nem mesmo o caso de concessão de habeas corpus de ofício, na medida em que a manifestação desta Corte, antes de que fosse dirigido o recurso cabível (e/ou habeas corpus) ao Tribunal de Justiça, implicaria, necessariamente, em indevida e ilegal supressão de instância.
+Ante o exposto e diante da ausência de interesse de processual na modalidade "adequação", não conheço da presente reclamação e a extingo sem resolução de mérito, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, na redação que lhe foi dada pela Emenda Regimental n. 22, de 16/ 3/2016, e no art. 485, VI, do CPC/2015.
+Cientifiquem-se o Ministério Público Federal, o Ministério Público do Estado do Rio Grande do Sul e o Juízo prolator da decisão objeto de reclamação.
+Intimem-se.
+EMENTA
