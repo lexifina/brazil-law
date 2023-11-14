@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Maranhão interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 141)
+DIREITO PROCESSUAL CIVIL. RECURSO DE AGRAVO INTERNO NA APELAÇÃO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de apelação, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei).
+III - Agravo interno desprovidos.
+Opostos embargos declaratórios, foram rejeitados (fls. 176/209).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, §1º, VI, 927, V, 1.022, II, e 1.026, § 2º do CPC e 1º, do Decreto nº 20.910/32. Sustenta omissão do acórdão, o qual "negou provimento ao agravo replicando novamente os argumentos da decisão monocrática, que não guardam qualquer relação com a matéria debatida nos autos" (fl. 213), alegando, ainda, que "ignorou e existência delimitação temporal na espécie, face a vigência de norma que realizou a reestruturação remuneratória da carreira do magistério, em afronta ao entendimento consolidado no julgamento do RE 561836/RN." (fl. 214).
+Salienta que "a manutenção da sentença pelo acórdão recorrido, sem a identificação dos fundamentos determinantes da decisão de primeiro grau (ratio decidendi), significa mera reprodução sem juízo acerca dos pedidos, e da causa de pedir ali veiculados" (fl. 220).
+Pugna pela declaração da prescrição e da reforma do acórdão para que se declare a "incidência de limitação temporal a partir da vigência de lei reestruturadora (..) e a aplicação da prescrição total às parcelas vencidas no quinquênio que antecedeu o ajuizamento da ação (..)", ou para que se anule o acórdão e seja apreciada "a prescrição em razão da limitação temporal instituída pela Lei Estadual (..)" (fl. 230).
+Requer, por fim, o afastamento da multa imposta.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões deduzidas na apelação (fls. 55/62), no agravo regimental (fls. 126/134), nos embargos declaratórios (fls. 164/166) e no apelo nobre (fls. 211/231), expressamente defendeu a existência de lei estadual que operou reestruturação remuneratória na carreira do magistério, o que seria capaz, em tese, de informar a conclusão do julgado, inclusive em razão de possível prescrição.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
+EMENTA
