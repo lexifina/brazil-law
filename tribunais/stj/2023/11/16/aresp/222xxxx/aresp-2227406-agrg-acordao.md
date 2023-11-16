@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO DESPROVIDO.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+2. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas n. 7/STJ e 182/STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, com fundamento na Súmula n. 182/STJ.
+O agravante sustenta que "O debate trazido à baila não importa reexame de matéria fático-probatória, ao revés, unicamente matéria de direito, não incorrendo, portanto, com a regra ajustada no enunciado da Súmula 07, desta Corte Superior -STJ." (fl. 512.)
+Assevera que "Busca-se o reconhecimento do direito, que foram violados, conforme dispositivos legais de norma federal, quais sejam: art. 33, § 4º, da Lei 11.343/2006, art. 33, § 2º, alínea c, do Código Penal, razão pela qual, faz se necessária a revaloração jurídica dos fatos, com a devida aplicação do direito ao caso concreto, conforme precedentes dessa Corte Superior" (fl. 512).
+Alega que "Não é objeto do enunciado da Súmula 182 do STJ. Foi atacado todos os fundamentos da decisão agravada. O principio da dialeticidade, esta presente no AREsp, foi especificadamente, infirmado" (fl. 514).
+Requer a reconsideração da decisão agravada ou que o agravo seja submetido à Turma, a fim de que seu recurso especial seja apreciado e, nessa extensão, provido para aplicar a minorante do tráfico privilegiado, com a readequação do regime prisional e a substituição da pena corporal por restritivas de direitos.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182/STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO DESPROVIDO.
+1. A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+2. In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas n. 7/STJ e 182/STJ.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada está assim fundamentada (fls. 502-504):
+Trata-se de agravo regimental interposto contra decisão proferida pela Presidência desta Corte, que não conheceu do agravo pela intempestividade.
+No presente agravo regimental, sustenta a defesa a tempestividade do recurso, ao argumento de que nos termos da "norma do artigo 798 do CPP, o prazo foi prorrogado para o próximo dia útil seguinte, portanto, 07/01, assim tempestivo o recurso especial" (fl. 478).
+O Ministério Público Federal manifestou pelo desprovimento do agravo regimental.
+Assiste razão à defesa quanto à tempestividade do agravo em recurso especial.
+Dessa forma, reconsidero a decisão de fls. 472-473 e passo à analisar o agravo em recurso especial.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial por incidência das Sumulas 7 e 182 do STJ.
+Entretanto a parte agravante deixou de impugnar especificamente esses fundamentos
+Dessa forma, tendo o agravante deixado de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, o agravo não deve ser conhecido, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência das Súmulas 7 e 182 do STJ.
+Isto é, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa, pois não basta deduzir a inaplicabilidade dos óbices sumulares, devendo ser atacados todos os fundamentos do aresto, bem como demonstrada a efetiva desnecessidade de reexame factual para deslinde da controvérsia.
+Quanto à Súmula 7/STJ, é entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE HOMICÍDIOS E LESÃO CORPORAL. PRONÚNCIA CONFIRMADA PELO TRIBUNAL ESTADUAL. PLEITO DE DESCLASSIFICAÇÃO PARA A FORMA CULPOSA. RESP INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. ARESP NÃO CONHECIDO. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+2 No caso, a decisão que inadmitiu o recurso especial apresentou os seguintes óbices: i) Súmula 283/STF, ii) Súmula 83/STJ (arts. 413 e 414 do CPP), iii) Súmula 7/STJ (arts. 413 e 414 do CPP) e iv) deficiência de cotejo analítico. Nas razões do AREsp, verifica-se que a defesa se limitou a enfrentar a Súmula 7/STJ, reclamando o não conhecimento do recurso.
+ ..
+11. Agravo regimental improvido. (AgRg no AREsp n. 2.026.720/PR, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 6/5/2022)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos. (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 23/06/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido. (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 29/05/2020)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos. (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido. (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016)
+Ante o exposto, não conheço do agravo em recurso especial.
+P. e I.
+Em que pese aos argumentos do agravante, a decisão impugnada deve ser mantida.
+Esta Corte Superior não conheceu do agravo em recurso especial porque não foram infirmados os fundamentos empregados pela Corte de origem para inadmitir o recurso: Súmulas n. 7/STJ e 182/STJ.
+Com efeito, nas razões do agravo em recurso especial, a defesa deixou de se insurgir, de modo claro e suficiente, contra os referidos óbices sumulares, apenas aduzindo que, "Ao contrário do argumentado na r. decisão que negou seguimento ao recurso especial manejado pelo ora agravante, foi devidamente fundamentado as questões para que se conheça no apelo extremo" (fl. 452).
+Deve-se ressaltar que cabe ao agravante demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu o recorrente, quando da interposição do agravo em recurso especial, conforme mencionado na decisão atacada.
+Este é o teor do art. 932, III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, parte das razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas n. 284/STF e 518/STJ.
+III - Cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu. Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+IV - Nos termos do artigo 258 do RISTJ o agravo é "A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a", portanto, sendo o feito apresentado em mesa, não há previsão para intimação da parte para sustentação oral.
+V - "Como se extrai do art. 7º, § 2º-B, III, da Lei 8.906/1994, a inovação introduzida no EOAB pela Lei 14.365/2022 garantiu ao advogado o direito de sustentação no agravo interno ou regimental em sede de recurso especial, mas nada dispôs sobre o julgamento de agravo regimental no agravo em recurso especial" (AgRg no AREsp n. 2.170.433/PA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 10/10/2022).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.144.159/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/3/2023, DJe de 23/3/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TORTURA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO OCORRÊNCIA. PRIMEIRO RECEBIMENTO DA DENÚNCIA TORNADO SEM EFEITO. MARCO INTERRUPTIVO. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. DECISÃO MANTIDA.
+I - Na hipótese, a primeira decisão de recebimento da denúncia foi tornada sem efeito, devendo ser considerada, como marco interruptivo, para fins de reconhecimento da prescrição da pretensão punitiva, a segunda  e válida  decisão. Precedentes.
+II - Não se há falar, in casu, no reconhecimento da extinção da punibilidade, pela ocorrência da prescrição da pretensão punitiva, como quer fazer crer a Defesa, tendo em vista que não houve o implemento do lapso temporal prescricional entre os marcos interruptivos, quais sejam, o recebimento da denúncia e o seu respectivo aditamento (15/08/2008) (fl. 860) e a publicação da sentença condenatória (07/08/2014) (fl. 2.017), não tendo transcorrido 8 (oito) anos entre esses marcos, nos termos do que dispõe o art. 109, inciso IV, do Código Penal.
+III - Os agravantes deixaram de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial. A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede, como ressaltado no decisum recorrido, o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.623.828/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 28/4/2020, DJe de 4/5/2020.)
+Assim, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
