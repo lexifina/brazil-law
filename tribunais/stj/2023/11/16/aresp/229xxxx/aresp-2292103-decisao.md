@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DANIELA VAZQUEZ BRICENO contra a decisão proferida pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO que não admitiu seu recurso especial fundado no art. 105, III, alínea a, da Constituição Federal.
+Consta dos autos que a agravante, no dia 25/5/2018, foi presa em flagrante delito, pois guardava, para fornecimento a terceiros, uma porção de 1.483g (mil quatrocento s e oitenta e três gramas) de cocaína. O Juízo de primeira instância condenou-a à pena de 4 anos e 10 meses de reclusão, no regime semiaberto, como incursa no art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006 (Ação Penal n. 5008129-59.2020.4.03.6119).
+Interposta apelação defensiva e ministerial, o Tribunal de origem negou provimento à apelação do Ministério Público Federal e deu parcial provimento à apelação da defesa, apenas para fixar o regime prisional inicial aberto.
+No recurso especial, a agravante alega violação do art. 33, § 4º, da Lei 11.343/2006. Sustenta que preenche os requisitos para aplicação da minorante na fração máxima.
+Ao final, o Parquet opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial do Superior Tribunal de Justiça, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+No caso, a cerca da controvérsia, o Tribunal de origem asseverou:
+Trata-se de apelante primária, que não ostenta maus antecedentes, conforme comprovam os documentos acostados aos autos, bem como considerando que não há prova nos autos de que se dedique a atividades criminosas, nem elementos para concluir que integra organização criminosa, apesar de encarregado do transporte da droga. Caberia à acusação fazer tal comprovação, o que não ocorreu no caso dos autos. Certamente, estava a serviço de bando criminoso internacional, o que não significa, porém, que fosse integrante dele.
+Portanto, a ré faz jus à aplicação causa de diminuição de pena prevista no § 4º do artigo 33 da Lei 11.342/2006 e, no entendimento de reiterados julgados desta Décima Primeira Turma, deve ser na fração mínima de 1/6 (um sexto), pois se associou, de maneira eventual e esporádica, a uma organização criminosa de tráfico internacional de drogas, cumprindo papel de importância para o êxito da citada organização (e-STJ fl. 945).
+Da análise do trecho transcrito, constato que não assiste razão à defesa.
+É que, na linha da jurisprudência deste Tribunal Superior, "a condição de "mula" do tráfico, por si só, não comprova que o Acusado integra organização criminosa e, por via de consequência, não se presta a fundamentar a não aplicação da minorante do tráfico privilegiado, mas, tão-somente, justifica a aplicação da referida causa de diminuição em seu patamar mínimo, de 1/6 (um sexto)" (AgRg no HC n. 663.260/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/8/2021, DJe 25/8/2021, grifei).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. ART. 33, § 4º, DA LEI DE DROGAS. MULA. FRAÇÃO DE 1/6. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. A análise da validade do fundamento que modulou a fração de diminuição pela minorante do tráfico não encontra óbice na Súmula 7/STJ. Mas jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6.
+2. "A ciência do agente de estar a serviço de grupo criminoso voltado ao tráfico internacional de drogas é circunstância apta a justificar a redução da pena em 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Precedentes. (AgRg no AgRg no AREsp n. 1.789.960/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/4/2021)" (AgRg no REsp 1906670/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021). Incidência da Súmula 83/STJ, a obstar o processamento do recurso especial.
+3. Agravo regimental improvido.
+(AgRg no AREsp 1833898/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021, grifei.)
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
