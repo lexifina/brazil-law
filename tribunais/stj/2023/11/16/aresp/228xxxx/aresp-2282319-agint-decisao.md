@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 998/1.004) interposto por JOSÉ ELIAS NAME BORGES e OUTROS contra decisão da Presidência desta Corte Superior, que não conheceu do agravo nos próprios autos por ausência de impugnação aos fundamentos da decisão de inadmissibilidade (e-STJ fls. 993/995).
+Em suas razões, a parte agravante sustenta, em síntese, que foram impugnados todos os fundamentos da decisão agravada.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 1.006/1.013), requerendo a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 e nova majoração dos honorários advocatícios, em caso de desprovimento do agravo interno.
+No dia 17/08/2023, o presente recurso foi retirado da pauta da sessão virtual de julgamento (e-STJ fl. 456).
+É o relatório.
+Decido.
+O recurso especial foi inadmitido na origem sob os fundamentos de "ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal, Súmula 7/STJ e deficiência de cotejo analítico" (e-STJ fl. 432).
+No âmbito desta Corte, a Presidência do STJ não conheceu do agravo nos próprios autos, sob o fundamento de que "a parte agravante deixou de impugnar especificamente: Súmula 7/STJ" (e-STJ fl. 432).
+Contudo, apreciando o agravo nos próprios autos, por ocasião do presente agravo interno, observa-se haver impugnação específica à fl. 408 (e-STJ).
+Assim, reconsidero a decisão agravada para conhecer do agravo e, na sequência, passo a analisar o recurso especial.
+O recurso foi interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão assim ementado (e-STJ fl. 286):
+Apelação Rescisão contratual Contrato sob regime de Administração ("a preço de custo) Inaplicabilidade do Código de Defesa do Consumidor Ausência de comprovação de responsabilidade das rés a justificar a rescisão do contrato por culpa das apeladas Sentença mantida Recurso a que se nega provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 361/365).
+Em suas razões (e-STJ fls. 295/306), os recorrentes apontam, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+- art. 1.022, inciso II, do CPC/2015, sob o argumento de que "não houve qualquer manifestação sobre o vilipêndio ao artigo 86, caput e parágrafo único, do Código de Processo Civil" (e-STJ fl. 300),
+- arts. 85, § 2º, 86 e 1.022 do CPC/2015, sustentando que "a distribuição dos ônus sucumbenciais deve ser pautada pelo exame da proporção de ganho e de perda sobre a parte controvertida do pedido" (e-STJ fl. 297).
+Asseveram que "A situação aqui retrata o absurdo de premiar os patronos das recorridas com o êxito obtido pelo patrono dos recorrentes" (e-STJ fl. 301).
+Contrarrazões apresentadas às fls. 378/393 (e-STJ).
+O recurso especial merece provimento.
+A controvérsia diz respeito à base de cálculo dos honorários de sucumbência e dos honorários recursais.
+A ação de "rescisão contratual c/c devolução de valores pagos" foi julgada parcialmente procedente para condenar as empresas demandadas a "restituírem aos autores 85% dos valores pagos" (e-STJ fl. 213).
+No que tange aos encargos da sucumbência, o Juízo de origem condenou os autores, apesar de vencedores em maior parte, ao pagamento de "honorários advocatícios  ..  em 10% sobre o valor da condenação" (e-STJ fl. 213).
+Os autores apelaram, alegando, quanto ao capítulo da sucumbência, que "não é sequer razoável que a parte pague honorários sobre valor que NÃO sucumbiu" (e-STJ fl. 252).
+O Tribunal de origem negou provimento à apelação e, a respeito dos honorários recursais, assim se pronunciou (e-STJ fl. 293):
+No âmbito deste recurso condeno os autores a pagar às rés honorários advocatícios, que fixo em 10% sobre o benefício econômico que se buscou. (15% dos valores pagos). - grifei
+Observe-se que a Corte local não reformou a sentença, pois a apelação foi desprovida. Logo, os honorários arbitrados no acórdão recorrido a título de honorários recursais se somam àqueles fixados na sentença, fato que deu ensejo a nova insurgência recursal.
+Passando à apreciação das questões federais suscitadas no recurso especial, não se verifica a alegada negativa de prestação jurisdicional.
+A omissão apontada diria respeito ao art. 86 do CPC/2015, segundo o qual, "Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas".
+Essa questão foi enfrentada pela Corte local, embora sem referência expressa ao respectivo dispositivo legal, conforme se verifica no seguinte trecho do acórdão do recurso integrativo (e-STJ fls. 363/364):
+A sentença atribuiu aos autores a culpa pela resolução do contrato e autorizou a retenção de 15% dos valores pagos.
+Sendo assim, ocorreu a sucumbência recíproca.
+Não há falar, portanto em negativa de prestação jurisdicional.
+Quanto ao art. 85, § 2º, do CPC/2015, esse dispositivo legal estatui, como base de cálculo dos honorários de sucumbência, as seguintes grandezas, nesta ordem: "valor da condenação,  ..  proveito econômico obtido ou, não sendo possível mensurá-lo,  ..  valor atualizado da causa".
+No caso de improcedência, a base de cálculo dos honorários será o prejuízo econômico que a atuação do advogado do demandado evitou que seu cliente sofresse.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a. II) nas de valor inestimável; (a. III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a. IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b. II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido. Segundo recurso especial desprovido.
+(REsp n. 1.746.072/PR, relatora Ministra Nancy Andrighi, relator para acórdão Ministro Raul Araújo, Segunda Seção, julgado em 13/2/2019, DJe de 29/3/2019.) - grifei
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE CONSUMO. JULGAMENTO DE IMPROCEDÊNCIA. LITISCONSÓRCIO PASSIVO FACULTATIVO. HONORÁRIOS. VALOR INVIDIDUAL. BASE DE CÁLCULO. FIXAÇÃO. ART. 85, §§ 2º E 6º, DO CPC/15. VÍCIO DO PRODUTO. ART. 18 DO CDC. FORNECEDORES. CADEIA DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA. COTA-PARTE. DIVISÃO. PARTES IGUAIS. PRESUNÇÃO. ART. 283 DO CC/02. BENEFÍCIO ECONÔMICO DO CLIENTE. JUSTA REMUNERAÇÃO DO ADVOGADO.
+1. Ação de reparação por dano material cumulada com compensação por dano moral, em razão de defeitos apresentados em veículo e na demora superior a 30 (trinta) dias para o saneamento dos vícios apresentados, fundada no art. 18 do CDC.
+2. Recurso especial interposto em: 11/12/2018; concluso ao gabinete em: 18/11/2019; aplicação do CPC/15.
+3. O propósito recursal consiste em determinar se, na hipótese de litisconsórcio passivo facultativo, o julgamento de improcedência da ação deve acarretar a fixação de honorários em favor de cada vencedor, com base no valor atribuído à causa e em percentual mínimo de 10% (dez por cento).
+4. Nos termos do art. 85, § 2º, do CPC/15, deverá ser observado o parâmetro de 10% a 20% sobre o valor da condenação, sendo possível, no entanto, a utilização, como base de cálculo dos honorários, do proveito econômico obtido ou, se não passível sua mensuração, do valor da causa atualizado.
+5. O art. 85, § 2º, do CPC/15 prevê uma ordem de preferência, de modo que a base de cálculo dos honorários é definida segundo a impossibilidade de a hipótese concreta se enquadrar na previsão anterior prevalente.
+6. Nos termos do § 6º do art. 85 do CPC/15, na sentença de improcedência do pedido em ações condenatórias, a base de cálculo dos honorários corresponde ao proveito econômico do cliente, evitado pela atuação do advogado.
+7. Conforme a redação do art. 18, caput, do CDC, todos os fornecedores de produto de consumo respondem de forma solidária pelos vícios de qualidade ou quantidade, e, na forma do art. 283 do CC/02, a responsabilidade dos codevedores é presumidamente igualitária.
+9. Na hipótese concreta, embora não tenha observado estritamente o comando do art. 85, § 6º, do CPC/15, a solução do Tribunal de origem de ratear igualmente entre os litisconsortes passivos facultativos o percentual de 10% sobre o valor da causa acaba por refletir a cota-parte igualitária, decorrente da solidariedade, que cada um dos fornecedores deixou de ficar obrigado a pagar em favor do consumidor em razão do julgamento de improcedência do pedido fundado no art. 18, § 1º, do CDC.
+10. Recurso especial desprovido.
+(REsp n. 1.848.517/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/2/2020, DJe de 20/2/2020.) - grifei
+Os autores da demanda pleitearam a restituição integral do preço pago para a aquisição do imóvel, mas o Juízo de origem condenou as empresas demandadas a restituir apenas 85% desse valor, permanecendo os outros 15% a título de retenção.
+O percentual de 85%, portanto, é o proveito econômico obtido, base de cálculo dos honorários dos autores, e os 15% de retenção são o prejuízo econômico evitado, base de cálculo dos honorários da parte ré.
+O Juízo de origem, porém, se utilizou do "valor da condenação" (e-STJ fl. 213) como base de cálculo dos honorários de ambas as partes, sem fazer distinção entre o proveito econômico obtido pelos autores da demanda e o prejuízo evitado pela parte ré.
+Como a sentença foi mantida na íntegra pelo Tribunal de origem, torna-se necessário reformar o acórdão recorrido e, por conseguinte, a sentença, a fim de modificar a base de cálculo dos honorários advocatícios em favor da parte ré para o prejuízo econômico evitado, correspondente ao percentual de 15% de retenção.
+Como consequência da reforma do acórdão recorrido, fica excluída a majoração de honorários arbitrada pela Corte local.
+Ante o exposto, reconsidero a decisão de fls. 432/434 (e-STJ), CONHEÇO do agravo nos próprios autos e DOU PARCIAL PROVIMENTO ao recurso especial a fim de, reformando o acórdão recorrido, definir o valor da retenção como base de cálculo dos hono rários de sucumbência arbitrados em favor dos advogados das empresas demandadas.
+Por conseguinte, ficam excluídos os honorários recursais arbitrados pela Corte local.
+Publique-se e intimem-se.
