@@ -1,0 +1,71 @@
+Trata-se de habeas corpus com pedido liminar impetrado em favor de Lander Charle Valentim da Silva contra decisão monocrática de Ministro do Superior Tribunal de Justiça que não conheceu do HC 854.796/RN, mas concedeu a ordem, de ofício, nos seguintes termos:
+
+    “Trata-se de habeas corpus com pedido liminar impetrado em favor de LANDER CHARLE VALENTIM DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Norte.
+
+    Colhe-se dos autos que o Juízo de primeira instância indeferiu pedido de indulto constante no Decreto Presidencial n.º 11.302/2022.
+
+    Inconformada, a Defesa agravou, tendo o TJRN mantido a decisão do Magistrado de Primeiro Grau, negando provimento ao recurso, conforme a seguinte ementa:
+
+    ‘PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO CRIMINAL. PRETENSA CONCESSÃO DO INDULTO PREVISTO NO DECRETO N. 11.302/2022. ALEGADO PREENCHIMENTO DE TODOS OS REQUISITOS LEGAIS. IMPOSSIBILIDADE. COMETIMENTO DE FALTA GRAVE. NOVOS CRIMES. PRINCÍPIO DA ISONOMIA. RECURSO CONHECIDO E DESPROVIDO.’
+
+    Daí o presente writ, no qual o impetrante alega que o Paciente sempre gozou de um comportamento excelente durante toda execução da sua pena, inclusive sempre procurando se aprimorar educacionalmente para os devidos fins de sua reintegração a sociedade.
+
+    Sustenta que ‘com base no art. 5º do decreto 11.302/22, não teria exigência alguma referente ao cometimento de falta grave anterior ou posterior a publicação do decreto de indulto [...] não cabendo ao judiciário entrar no mérito ou usurpa da prerrogativa constitucional exclusiva do Presidente da República de conceder o indulto através de decreto.‘ (e-STJ, fl. 14- 15).
+
+    Requer a concessão da ordem para que seja declarada a nulidade da decisão que não deu provimento ao recurso impôs ao Paciente a não concessão do benefício previsto nos termos do art. 5º do Decreto nº 11.302/22.
+
+    É o relatório.
+
+    Decido.
+
+    Esta Corte – HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 – e o Supremo Tribunal Federal – AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 –, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+
+    Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+
+    No caso dos autos, o Tribunal de origem confirmou a decisão do Juízo de primeiro grau, pelos seguintes fundamentos (e-STJ, fls. 284-286):
+
+    ‘Como se vê, a legislação não indica a necessidade de o estudo á distância ser autorizado pela autoridade judicial, desde que, claro, possa ser desenvolvido de forma autônoma e sempre judicar a disciplina carcerária.
+
+    Por outro lado, a norma de regência exige a comprovação do credenciamento da instituição perante as autoridades dos sistemas de ensino (federal, estaduais ou municipais),observada a legislação e normas expedidas pelo Ministério da Educação, bem como documentos comprobatórios acerca do rendimento obtido pelo apenado no curso.
+
+    No caso, em consulta ao Sistema Nacional de Informações da Educação Profissional e Tecnológica (SISTEC) do Ministério da Educação, verifica-se que o Centro de Educação Profissional – CENED é uma instituição credenciada, no entanto, não consta especificamente o curso em questão (‘Formação de Garçom e Garçonete’)’
+
+    [...]
+
+    De acordo com as informações ali colhidas, o curso é realizado pelo próprio apenado em sua cela, com o estudo da apostila enviada pela instituição e com a realização presencial de uma prova escrita final, na unidade prisional. Acrescenta-se que não há informações acerca das estratégias pedagógicas adotadas pela instituição, nem mesmo das condições em que a avaliação final foi realizada – embora conste que o apenado obteve rendimento suficiente para a aprovação.
+
+    [...]
+
+    Assim, exige-se a fiscalização (ainda que minimamente) e a comprovação do aproveitamento do curso pelo apenado, especialmente porque não se trata de apenado autorizado a estudar fora do estabelecimento penal, mas, sim, de atividade supostamente desenvolvida pelo reeducando dentro da Unidade Prisional, o que não se verificou no caso concreto.
+
+    Desse modo, não se mostra razoável conceder a remição da pena ao reeducando. De igual modo, não é possível considerar a atividade complementar para fins de remição, nos termos da Recomendação 44, de 26.11.2013, do Conselho Nacional de Justiça, tendo em vista que não integra o ‘projeto político pedagógico (PPP) da unidade ou do sistema prisional local’, tampouco foi oferecida ‘por instituição devidamente autorizada ou conveniada com o poder público’.
+
+    Portanto, ‘embora a aquisição de conhecimento seja um mecanismo importante de ressocialização, deve o apenado observar, previamente, se a instituição de ensino, bem como o certificado fornecido, preenchem os requisitos legais e são confirmados por autoridade educacional competente, a fim de viabilizar a respectiva análise do Juízo sobre a veracidade das informações prestadas pelo curso de ensino a distância’ (Agravo de Execução Penal 0011184-26.2018.8.24.0018,de Chapecó, rel. Des. Volnei Celso Tomazini, Segunda Câmara Criminal, j. 12-03-2019, v. u.).
+
+    Ante o exposto, voto por conhecer e negar provimento ao recurso’.
+
+    Na dicção do Supremo Tribunal Federal, a concessão de indulto natalino é um instrumento de política criminal e carcerária adotada pelo Executivo, com amparo em competência constitucional, e encontra restrições apenas na própria Constituição que veda a concessão de anistia, graça ou indulto aos crimes de tortura, tráfico de drogas, terrorismo e aos classificados como hediondos. ‘Consoante a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença – a qual possui natureza meramente declaratória –, sob pena de ofensa ao princípio da legalidade1 (AgRg no REsp n. 1.902.850/GO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+
+    Na mesma linha: [...].
+
+    Nessa linha, não há como se dar guarida à alegação de que o Decreto presidencial que concede indulto deveria observar os requisitos de ordem pessoal usualmente exigidos para a concessão da benesse. Isso porque tal requisito não encontra amparo em previsão constitucional.
+
+    Ademais, esta Corte, em mais de uma ocasião, já afirmou que ‘O decreto presidencial que concede indulto ou comutação de pena tem amparo em preceito constitucional (art. 84, XII, da CF) e por isso se sobrepõe, no ponto, às exigências previstas na Lei de Execuções Penais para a progressão de regime’ (Rcl n. 37.592/SP, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 22/5/2019, DJe de 30/5/2019).
+
+    Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, a fim de cassar o acórdão coator, determinando ao Juízo de Execução que promova novo exame do pedido de indulto afastando os óbices constantes da decisão atacada.” (documento eletrônico 4, grifei)
+
+    É o relatório necessário. Decido.
+
+    Ao conceder a ordem, de ofício, nos autos do HC 854.796/RN, o Ministro Ribeiro Dantas, do Superior Tribunal de Justiça, cassou o acórdão da Câmara Criminal do Tribunal de Justiça do Rio Grande do Norte e determinou ao Juízo da 2ª Vara Regional de Execução Penal da Comarca de Natal/RN que procedesse a novo exame do pedido de indulto feito pelo paciente.
+
+    Assim, considerada essa situação processual, verifico, de modo inconteste, a perda do objeto deste writ.
+
+    Ante o exposto, julgo prejudicado este habeas corpus (art. 21, IX, do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 16 de novembro de 2023.
+
+    Ministro Cristiano Zanin
+
+    Relator
