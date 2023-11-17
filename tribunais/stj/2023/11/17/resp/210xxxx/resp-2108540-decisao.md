@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. AGENTES PREJUDICIAIS À SAÚDE. COMPROVAÇÃO. REQUISITOS. PREENCHIMENTO.
+1- Apelação em face de sentença que, em ação ordinária em que o autor objetivava a concessão do benefício de aposentadoria especial, julgou procedente em parte o pedido para tão somente reconhecer a especialidade de parte dos períodos laborados pelo demandante.
+2- A análise da especialidade em decorrência da exposição a agentes químicos previstos no Anexo 13 da Norma Regulamentadora (NR) 15, como é o caso dos hidrocarbonetos aromáticos, é qualitativa e não se sujeita a limites de tolerância, independentemente do período em que prestada a atividade pelo trabalhador.
+3- No que diz respeito ao Equipamentos de Proteção Individual - EPI, a MP nº 1.729/98 (posteriormente convertida na Lei 9.732/1998) alterou o § 2º do artigo 58 da Lei 8.213/1991, estabeleceu que o laudo técnico contenha informação sobre a existência de tecnologia de proteção individual que diminua a intensidade do agente agressivo a limites de tolerância. Depreende-se, pois, que, em relação à atividade exercida no período anterior a 03.12.1998 (data da publicação da referida Medida Provisória), a utilização de Equipamentos de Proteção Individual (EPI) é irrelevante para o reconhecimento das condições especiais, prejudiciais à saúde ou à integridade física do trabalhador.
+4- No caso, da análise dos documentos acostados (PPP, e laudo técnico), observa-se que o demandante exerceu a função de Operador de Sistema I, e Operador de Unidade de Produção junto a uma empresa de tratamento de água. Consta dos referidos documentos que durante os períodos de 13/06/88 a 28/04/95, e de 29/04/95 a 02/12/98 o requerente desempenhou suas funções com exposição aos agentes nocivos à saúde, a saber, agentes químicos (sulfato de alumínio e cloro gasoso).
+5- Comprovada a especialidade dos mencionados períodos, devem ser computados como tempo especial.
+6- Apelação improvida.
+(PROCESSO: 08002361020214058502, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO NETO, 4ª TURMA, JULGAMENTO: 31/01/2023)
+Os embargos declaratórios opostos pelo particular foram decididos nos termos da seguinte ementa:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. AVERBAÇÃO DE TEMPO DE SERVIÇO ESPECIAL. HONORÁRIOS RECURSAIS. OMISSÃO. OCORRÊNCIA.
+1- O cabimento dos embargos de declaração pressupõe a existência dos requisitos de admissibilidade dessa espécie recursal, cuja finalidade cinge-se ao aperfeiçoamento do julgado, sanando os defeitos de omissão, contradição, obscuridade, erros materiais ou equívocos manifestos, que devem ser apontados de forma clara pelo embargante.
+2- Sustenta a embargante que o acórdão incorreu em omissão, porquanto deixou de fixar os honorários recursais a cargo do INSS.
+3- Caso em que o acórdão embargado ao negar provimento ao recurso de apelação do INSS, deixou de fixar os honorários recursais, motivo pelo qual o vício apontado deve ser sanado.
+4- Honorários recursais devidos no percentual de 10% sobre o valor dos honorários fixados na sentença.
+5- Embargos de declaração providos para sanar a omissão apontada.
+(PROCESSO: 08002361020214058502, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL RUBENS DE MENDONÇA CANUTO NETO, 4ª TURMA, JULGAMENTO: 28/03/2023)
+No presente recurso especial, a parte recorrente aponta violação de dispositivos de lei federal.
+É o relatório. Decido.
+Em relação à alegada omissão, contrariedade ou contradição suscitada no presente recurso especial, o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em nulidade ao deixar de se pronunciar adequadamente acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a arguição genérica de nulidade pelo recorrente atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária. Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2017, DJe 17/4/2017.)
+Por outro lado, a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação clara da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente não logrou êxito em fundamentar adequadamente a ocorrência de suposta incorreção da interpretação jurídica realizada pelo Tribunal de origem acerca do comando normativo dos dispositivos legais indicados como violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, Rel. Ministro Francisco Falcão, DJe 10/3/2017.)
+O Tribunal de origem, ao analisar o conteúdo probatório colacionado aos autos, consignou expressamente que a insurgência defendida pelo recorrente é contrária às evidências fáticas sobre as quais se fundamentou o julgador a quo para solucionar a controvérsia apresentada na presente demanda judicial.
+Dessa forma, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto fático-probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ademais, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, e que fundamentaram a construção da sólida ratio decidendi alcançada pelo Tribunal de origem, foram utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo e não foram suficientemente rebatidos no apelo nobre, fator capaz de atrair a aplicação dos óbices das Súmulas n. 283 e 284, ambas do STF. In verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por fim, mediante a simples leitura das razões recursais, percebe-se que parcela da insurgência apresentada pelo recorrente não foi suficientemente debatida no âmbito do Tribunal de origem, sendo que a mera citação ou menção superficial de dispositivos de lei federal não é condição capaz de preencher o fundamental requisito de prequestionamento da matéria ora controvertida, deficiência recursal que atrai a aplicação das Súmulas n. 211/STJ e 282 e 356 do STF. Confiram-se:
+Súmula 282/STF. É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356/STF. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal.
+Publique-se. Intimem-se.
+ EMENTA
