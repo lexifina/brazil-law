@@ -1,0 +1,13 @@
+Ato nº 14704, de 11 de outubro de 2023
+O SUPERINTENDENTE DE OUTORGA E RECURSOS À PRESTAÇÃO DA AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES, no uso de suas competências, consoante o disposto no art. 156, e incisos, do Regimento Interno da Anatel, aprovado pela Resolução nº 612, de 29 de abril de 2013, e
+CONSIDERANDO o disposto no art. 19, inciso VIII, da Lei nº 9.472, de 1997, de que compete à Anatel administrar o espectro de radiofrequências e o uso de órbitas, expedindo as respectivas normas;
+CONSIDERANDO o disposto no art. 161 da Lei nº 9.472, de 1997, que determina que, a qualquer tempo, poderá ser modificada a destinação de radiofrequências ou faixas, bem como ordenada a alteração de potências ou de outras características técnicas, desde que o interesse público ou o cumprimento de convenções ou tratados internacionais assim o determine;
+CONSIDERANDO a competência da Anatel para regular a utilização eficiente e adequada do espectro, restringindo o emprego ou modificando a destinação de determinadas radiofrequências ou faixas;
+CONSIDERANDO o estabelecido no Modelo de Gestão do Espectro, aprovado pelo Acordão nº 651, de 1º de novembro de 2018, que dispõe que condições de uso de radiofrequências, tais como canalizações, limites de potências e outras condições técnicas específicas, que visem à convivência harmônica entre os serviços e ao uso eficiente e adequado do espectro, quando necessárias, sejam tratadas no âmbito da Superintendência de Outorga e Recursos à Prestação por meio da edição de Atos de Requisitos Técnicos (de Condições de Uso do Espectro);
+CONSIDERANDO o disposto na Resolução nº 711, de 28 de maio de 2019, modificada pela Resolução nº 742, de 1º de março de 2021;
+CONSIDERANDO que os radioaltímetros operam sob o Serviço de Radionavegação Aeronáutica, que é classificado como Serviço de Segurança (Safety Service), conforme artigo 4.10 do Regulamento de Rádio (Radio Regulations) da UIT;
+CONSIDERANDO as reuniões técnicas realizadas entre a Anatel e a Agência Nacional de Aviação Civil - ANAC, para tratar sobre a operação dos sistemas 5G no Brasil e os radioaltímetros;
+CONSIDERANDO a lista de aeródromos que possuem procedimentos de aproximação em condições de baixa visibilidade, que dependem do radar altímetro, conforme informado pelo Departamento de Controle do Espaço Aéreo - DECEA;
+CONSIDERANDO o Informe nº 1019/2023/ORER/SOR (10606875) e o que consta dos autos do processo nº 53500.044664/2022-20; e
+CONSIDERANDO as contribuições recebidas em decorrência da Consulta Pública nº 38, de 27 de julho de 2023, publicada no Diário Oficial da União de 1º de agosto de 2023.
+RESOLVE:
