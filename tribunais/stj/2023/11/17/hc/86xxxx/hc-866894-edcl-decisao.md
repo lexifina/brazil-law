@@ -1,0 +1,15 @@
+DECISÃO
+SAVIO DOMINICK LEMOS COSTA opõe embargos de declaração contra a decisão que, ao indeferir liminarmente o habeas corpus, deixou de superar a Súmula n. 691 do STF.
+A defesa afirma " ter havido  uma contradição porque a r. decisão se baseou em premissas falsas", em suma, "manter a prisão preventiva baseado em outro crime que não há trânsito em julgado e que há falhas gritantes, sentença condenatória baseada em suposições e contra os elementos probatórios dos autos que convergem para o fato que o paciente estava trabalhando para o sustento".
+Afirma que " não é razoável admitir que alguém pratique consciente e voluntariamente um assalto e depois em seguida continue rodando na praça como taxista de Uber na praça com seu carro e placas originais".
+Entende que "não há provas do liame de conduta entre o paciente e os meliantes que praticaram aquele assalto".
+Pleiteia "o acolhimento dos presentes embargos de declaração, com efeitos infringentes, objetivando sanar o erro de fato por indução presente na decisão, qual seja a periculosidade do agente por ter praticado assalto à mão armada (que não ocorreu) e por ter sido encontrado em seu poder as substâncias em seu poder, o que também não ocorreu consoante se constata no APF, aplicando os benefícios dos arts. 318 e 319 do CPP aduzidos na petição inicial".
+Decido.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+No mais, observo que o decreto preventivo, ao contrário do alegado pela defesa, não afirmou que o paciente foi condenado definitivamente, mas apenas que "Savio Dominick foi condenado por crime de roubo com uso de arma de fogo".
+Na verdade, a pretensão esboçada pelo embargante é ver reexaminado o caso, o que é inviável pela via escolhida. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+À vista do exposto, rejeito os embargos.
+Publique-se e intime-se.
+EMENTA
