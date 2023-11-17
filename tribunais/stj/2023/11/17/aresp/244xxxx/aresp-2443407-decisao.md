@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROBERTO FERNANDES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIARIO. PENSÃO POR MORTE. FILHO MAIOR E INVÁLIDO INCAPACIDADE PRECEDENTE AO ÓBITO. FALECIDO QUE NÃO CONTRIBUÍA PARA O SUSTENTO DO FILHO. DEPENDÊNCIA ECONÔMICA NÃO COMPROVADA (fl. 392).
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega violação do art. 16, I, § 4º, da Lei n. 8.213/91, no que concerne à desnecessidade de se comprovar a dependência econômica do instituidor do benefício de pensão, sob o fundamento de que a referida dependência seria presumida de forma absoluta. Aduz a seguinte argumentação:
+Entendem os ilustres julgadores que apesar de demonstrado que a incapacidade do autor precede ao óbito, inexiste a dependência econômica dele em relação ao instituidor do benefício, porquanto as provas carreadas comprovaram que o falecido não contribuía para o sustento do filho.
+ ..
+Resta claro, então, que o filho inválido não precisa comprovar dependência econômica, uma vez que esta é presumida, art. 16, I, § 4º, da lei 8.213/91. Aliás, essa presunção é absoluta, tanto que a própria LBPS não veda a possibilidade de cumulação de aposentadoria com pensão.
+Neste sentido, fica patente a violação de dispositivo de lei federal (fl. 508).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Como se pode notar, o tema contido na decisão embargada (a invalidez do filho inválido tem de ter iniciado antes do óbito) é distinto das razões apresentadas (a dependência econômica do filho maior e inválido tem presunção absoluta), evidenciado que estão dissociadas dos fundamentos adotados pela decisão embargada (fl. 498).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+ EMENTA
