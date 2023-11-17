@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por José Alves de Souza contra decisão de fls. 929/931, que negou provimento a seu agravo em recurso especial.
+Alega, em síntese, omissão quanto à incidência do Tema 942/STF e da Súmula Vinculante 33 ao caso.
+Intimado, o embargado permaneceu silente (fl. 965)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhimento, mas sem efeitos infringentes.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Com efeito, ficaram devidamente consignadas, na decisão hostilizada, as razões da incidência do óbice contido na Súmula 284/STF, aplicado tanto para a alínea a do permissivo constitucional, como para o dissídio jurisprudencial invocado.
+A propósito, confiram-se os seguintes trechos da decisão embargada (fl. 931):
+Com efeito, os artigos 57, § 5º, e 94, da Lei nº 8.213/91 não contêm comandos capazes de sustentar as teses recursais e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012;REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+No caso, a incidência do Tema 942/STF e da Súmula Vinculante 33 do STF constituem alegações veiculadas pela alínea c do permissivo constitucional, que, como visto acima, não foram conhecidas.
+Observe-se que as alegações apresentadas no recurso especial estão dissociadas dos fundamentos do julgado, pois, embora a tese firmada naquele tema e o teor daquela súmula vinculante garantam a aplicação das regras do Regime Geral de Previdência Social para cômputo de tempo de labor especial (com acréscimo, em caso de conversão em tempo comum) e a respectiva aposentadoria especial para o servidor público no regime próprio, o Tribunal de origem afastou a possibilidade de fazê-lo no sentido inverso, ou seja, averbar no regime geral o tempo de labor especial exercido no regime próprio, sem que o órgão expedidor da respectiva certidão atestasse que foi exercido sob condições especiais, nestes termos (fls. 621/622):
+No mais, quanto ao enquadramento especial dos períodos de 30/05/1992 a 31/05/1993 e 01/06/1995 a 30/06/1999, verifica-se a ilegitimidade passiva do Instituto Nacional do Seguro Social (INSS).
+Com efeito, nesse lapso a parte autora laborava como "trabalhador braçal" e "eletricista" para a "Prefeitura Municipal de Ariranha", vinculada, portanto, a Regime Próprio de Previdência Social (RPPS), conforme certidões coligidas aos autos (id.142827099 - Pág. 47/49) e declaração (id. 142827099 - Pág. 50).
+Dessa forma, compete ao ente municipal, ao qual a parte autora esteve vinculada, atestar as condições especiais de trabalho a que foi submetida e, ao expedir a certidão de tempo de contribuição para fins de contagem recíproca, mencionar a atividade em sua totalidade, já incluindo os acréscimos decorrentes da conversão.
+Por tratar-se de atividade vinculada ao ente estatal, sob regime próprio, este deve ser o órgão no qual deve o segurado buscar o reconhecimento ao enquadramento especial e, em caso de negativa, aforar a contenda na Justiça Estadual competente, a fim de ver apreciado o direito invocado.
+Nesse sentido: TRF/3ª Região, APELAÇÃO/REEXAME NECESSÁRIO Nº0002678-03.2004.4.03.9999/SP, 2004.03.99.002678-7/SP, RELATORA: Des. Federal EVA REGINA, D. E. Publicado em 14/2/2011.
+Nesse contexto, está configurada a ilegitimidade passiva do INSS para o reconhecimento da especialidade dos períodos de 30/05/1992 a 31/05/1993 e 01/06/1995 a 30/06/1999, impondo-se, quanto a esse aspecto, a extinção do processo, sem resolução de mérito, nos termos do artigo 485, VI, § 3º, do CPC.
+Dessa forma, devem ser acrescidos os motivos da incidência da Súmula 284/STF quanto à alegação de aplicar-se ao caso a tese firmada no julgamento do Tema 942 da repercussão geral, bem como da Súmula Vinculante 33.
+ANTE O EXPOSTO, acolhem-se os embargos de declaração, sem efeitos infringentes, apenas para acrescentar aos fundamentos da decisão embargada que a alegação de aplicabilidade do Tema 942/STF e da Súmula Vinculante 33 está dissociada dos fundamentos do julgado.
+Publique-se.
+EMENTA
