@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Erly Nazare de Souza Junior  preso preventivamente pela prática, em tese, do crime de homicídio qualificado tentado  , em que se aponta como autoridade coatora o Tribunal de Justiça do Amazonas (Habeas Corpus n. 4006852-18.2022.8.04.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta ao paciente, aos argumentos de ausência de fundamentação e excesso de prazo, pois nem mesmo a reprodução da denúncia registrada no acórdão revela qualquer fato relevante capaz de justificar o periculum libertatis. Isso por que nem o juízo a quo por ocasião da sentença de pronúncia, tampouco a eminente Desembargadora, debruçou-se sobre as informações de que lançaram mão, pois como dito à exaustão pela defesa em todas as suas manifestações, não há uma única linha, registro, imagem, áudio, nos autos de origem, sobretudo no inquérito policial (mov. 23.1 a 23.8, dos autos principais), que está à disposição de quem queira lê-lo, quanto à participação do paciente e os demais réus na suposta empreitada criminosa, nem mesmo em tese (fl. 5).
+Ocorre que, além de não verificar ausência de fundamentação da custódia, uma vez que amparada na gravidade concreta do crime, demonstrada pelo fato de o paciente ser apontado como o executor material do delito, em razão de disputas relacionadas ao tráfico de drogas por facções criminosas, a circunstância de ser ele primário deve ser abordada primeiramente perante o Juízo de primeiro grau.
+Ademais, não se verifica desídia do Judiciário no impulsionamento do feito, que já conta com decisão de pronúncia, devendo ser observado, por ora, o princípio da razoabilidade.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS . HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CRIME PRATICADO EM RAZÃO DE DISPUTAS RELACIONADAS AO TRÁFICO E DECORRENTE DE FACÇÃO CRIMINOSA. EXCESSO DE PRAZO. AUSÊNCIA DE DESÍDIA DO JUÍZO. ACUSADO PRONUNCIADO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
