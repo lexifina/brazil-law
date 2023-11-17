@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ com fundamento na alínea "a" do permissivo constitucional contra acórdão proferido pelo respectivo Tribunal de Justiça (Apelação Criminal n. 0002653-62.2020.8.16.0095).
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 2836/2838, in verbis:
+Consta dos autos que, no período compreendido entre 09/07/2018 a 22/10/2020, Marcos Antônio Gonçalves e Dalzi de Fátima Cardoso, induzindo 05 vítimas em erro mediante promessa de montagem de casa de madeira, obtiveram vantagens ilícitas consistentes em recursos financeiros sem a devida prestação do serviço prometido.
+Em 19/07/2021, Marcos Antônio Gonçalves e Dalzi de Fátima Cardoso foram condenados, em primeira instância, pela prática do crime previsto no artigo 171, caput, do Código Penal, por 05 vezes (03 em continuidade delitiva e 02 em concurso material). As penas foram fixadas em: 07 anos, 08 meses e 12 dias de reclusão, em regime inicial semiaberto, e pagamento de 492 dias-multa para Marcos Antônio Gonçalves; e 06 anos e 06 meses de reclusão, em regime inicial semiaberto, e pagamento de 406 dias-multa para Dalzi de Fátima Cardoso (fls. 1411/1725).
+O TJPR deu parcial provimento à apelação defensiva para reconhecer a incidência do artigo 171, §1º, do CP em relação ao fato IV, redimensionando as penas para 07 anos, 02 meses e 12 dias de reclusão, em regime inicial semiaberto, e pagamento de 487 dias-multa para Marcos Antônio Gonçalves e 06 anos de reclusão, em regime inicial semiaberto, e pagamento de 401 dias-multa para Dalzi de Fátima Cardoso, nos termos de acórdão assim ementado (fls. 2612/2613):
+ ..
+No recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da CF, o Ministério Público alega que o TJPR, sem considerar o valor total do prejuízo causado, reconheceu de forma indevida a incidência do estelionato privilegiado em relação a um dos fatos. Busca, assim, o restabelecimento da sentença condenatória, que afastou a possibilidade de incidência do estelionato privilegiado em favor dos acusados (fls. 2760/2776).
+O Parquet opinou pelo provimento do recurso especial.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Compulsando os autos, verifica-se que o Tribunal de origem concluiu pelo reconhecimento da figura do estelionato privilegiado, assim consignando (e-STJ fl. 2670):
+Quanto ao fato IV, denota-se que comporta provimento o reconhecimento da minorante da figura privilegiada prevista no § 1º do artigo 171 do Código Penal, uma vez que ambos os apelantes são primários e o valor do bem é inferior ao valor do salário mínimo vigente à época dos fatos.
+Nesse sentido, encontra-se o seguinte julgado:
+ ..
+Todavia, verifica-se que o valor do bem objeto do crime de estelionato (R$ 500,00) chegou a aproximadamente 50% do valor do salário mínimo vigente à época dos fatos (R$ 998,00, nos termos do Decreto 9661/2019), o que autoriza a diminuição da pena pela metade (1/2).
+Assim, com relação à dosimetria do fato IV, reduzo a pena dos apelantes MARCOS ANTONIO GONÇALVES e DALZI DE FÁTIMA CARDOSO para 06 (seis) meses de reclusão e 05 (cinco) dias-multa, com valor unitário de cálculo mantido em 1/10 do valor do salário mínimo vigente à época dos fatos.
+Nos embargos de declaração (e-STJ fls. 2734/2736):
+No presente caso, o embargante sustentou, em síntese, que o acórdão embargado incorreu em contradição, uma vez que reconheceu expressamente que as condutas perpetradas causaram um prejuízo total de R$ 302.451,97 e, mesmo assim, aplicou a figura do estelionato privilegiado em favor dos acusados em relação ao fato IV, o que se mostra incompatível. Requereu que a Câmara esclareça de que modo compatibiliza o reconhecimento da figura privilegiada do estelionato, que tem como pressuposto a ocorrência de prejuízo inferior ao valor de um salário mínimo, com o fato dos acusados terem causado prejuízo total de mais de R$ 300.000,00.
+Contudo, nada obstante o aventado, o pleito não merece acolhimento.
+ ..
+Nesse aspecto, contrariamente ao afirmado pelo embargante, o acórdão impugnado consignou expressamente todos os fundamentos que embasaram o convencimento do órgão julgador acerca da aplicação da minorante do estelionato privilegiado em relação ao fato IV descrito na exordial acusatória.
+Com efeito, o órgão julgador entendeu que se encontravam presentes os requisitos para a incidência da minorante do estelionato privilegiado (artigo 171, § 1º, do CP), quais sejam: primariedade dos agentes e bem de pequeno valor. No caso concreto, tem- se que os acusados foram considerados primários e o prejuízo patrimonial em relação à vítima do fato IV foi de R$ 500,00, o que correspondia a aproximadamente 50% do salário mínimo vigente à época dos fatos e, assim, justificou a redução de pena pela metade (1/2) quanto à dosimetria deste fato apenas.
+É de se destacar que os réus foram condenados pela prática de 05 (cinco) crimes de estelionato, sendo que três deles foram cometidos em continuidade delitiva em 09 /07/2018 (fato I), 13/07/2018 (fato II) e 02/08/2018 (fato III). Quanto aos outros dois delitos, tem-se que o fato IV foi praticado em maio de 2019 e o fato V em outubro de 2020, tendo havido um considerável lapso temporal entre eles.
+Ora, o entendimento adotado na origem não coaduna com o deste Superior Tribunal de Justiça, segundo o qual "em se tratando de múltiplos crimes, deve-se utilizar o valor total do prejuízo causado por todos os ilícitos para a verificação da figura do estelionato privilegiado, que se torna inaplicável quando ultrapassado o valor do salário mínimo" (AgRg no HC n. 640.946/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/12/2022, DJe de 15/12/2022).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. APLICAÇÃO DA FIGURA PRIVILEGIADA. IMPOSSIBILIDADE. SALÁRIO MÍNIMO COMO REFERÊNCIA DE PEQUENO VALOR. VIABILIDADE. CONCURSO DE CRIME. PREJUÍZO. SOMA DOS VALORES. CORRETA. WRIT DENEGADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão impugnada deve ser mantida pelos seus próprios fundamentos, pois em consonância com jurisprudência desta Corte Superior.
+2. O salário mínimo pode ser adotado como parâmetro de referência para conceituar coisa de pequeno valor, não podendo, entretanto, ser adotado como critério de rigor aritmético, impondo-se ao juiz sopesar outras circunstâncias próprias do caso. Precedentes.
+3. Havendo concurso de crimes, é devida utilização do valor total do prejuízo causado em todos os ilícitos para fins de verificação do cumprimento dos requisitos da figura privilegiada, de modo que, ultrapassado o valor do salário mínimo, inviável o reconhecimento do benefício.
+4. Agravo regimental improvido. (AgRg no HC n. 478.994/SC, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 28/3/2019, DJe de 4/4/2019.)
+Ante o exposto, dou provimento ao recurso especial para excluir a incidência do estelionato privilegiado e restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
+EMENTA
