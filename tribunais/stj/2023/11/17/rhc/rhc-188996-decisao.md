@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto por ADREN HENRIQUE CRUZ SILVA e VANESSA FERNANDES SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que os recorrentes encontram-se presos preventivamente pela suposta prática dos crimes previstos no artigo 157, § 2º, incisos II e VII e artigo 157, § 3º, inciso II, ambos do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 148):
+HABEAS CORPUS - LIBERDADE PROVISÓRIA - Inadmissibilidade -Hipótese na qual não restou provada a ilegalidade do claustro cautelar - A conduta em tese atribuída aos pacientes possibilita razoável juízo acerca da manutenção da prisão preventiva - Ordem denegada.
+Na presente oportunidade, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que nem a gravidade abstrata do delito nem argumentos genéricos podem servir como fundamento para a manutenção da medida constritiva.
+Salienta ter o Juízo desconsiderado completamente o fato de os recorrentes terem comparecido espontaneamente para cumprimento da prisão temporária, sendo certo que não foi efetivamente demonstrada nos autos a necessidade da custódia, sobretudo porque se não se fazem presentes elementos concretos que evidenciem os riscos alegados pelas decisões precedentes.
+Sublinha a presença de condições pessoais favoráveis aos recorrentes, como primariedade, residência fixa no distrito da culpa e ocupação lícita, sendo a paciente Vanessa genitora de duas crianças, o que reforça a viabilidade de relaxamento da prisão preventiva, não devendo se ignorar, ainda, a possibilidade de aplicação de medidas cautelares alternativas.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP se for o caso.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também foi impetrado o HC n. 854.759/SP, igualmente em favor dos ora recorrentes e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à manutenção da custódia cautelar.
+Ademais, em decisão proferida em 10/10/2023, este Relator não conheceu do citado writ, não vislumbrando constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça. O processo encontra-se com recurso de agravo regimental pendente de julgamento.
+Verifica-se, portanto, que a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtua o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto porque "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores" (AgRg no RHC n. 103.808/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Ante o exposto, nego seguimento ao presente recurso.
+Intimem-se.
+EMENTA
