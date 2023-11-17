@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República Federal de 1988) contra acórdão do Tribunal Regional Federal da 5ª Região (fls. 831-834, e-STJ).
+Os Embargos de Declaração foram rejeitados (fl. 992, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1022 do CPC; e, no mérito, dos arts. 18 e 535, II, do CPC de 2015; e do art. 2º-A da Lei n. 9.494/1997. Defende:
+O acórdão recorrido, equivocadamente, entendeu que, estando do comprovada a filiação município exequente ao tempo da propositura da ação de conhecimento (Ação Coletiva 0002790-85.2010.4.05.8000), há legitimidade ativa para a execução (id. 4050000.35370796), vejamos:
+5. Em relação à ilegitimidade do município, esta Turma vem entendendo que estando comprovada a filiação do município exequente ao tempo da propositura da ação de conhecimento (Ação Coletiva 0002790-85.2010.4.05.8000), como no caso concreto, deve Vide: TRF5, 2ª T., PJE ser reconhecida a sua legitimidade ativa para o feito executivo.
+0814674-07.2019.4.05.0000, rel. Des. Federal Paulo Cordeiro, julg. em: 15/10/2020.
+6. "De resto, a legitimidade da associação para o manejo da ação coletiva, para além de indiscutível, versa tema já superado na fase de conhecimento, de modo que resta (TRF5, 2ª T., PJE impertinente sua renovação na fase de execução." 0811077-93.2020.4.05.0000, rel. Des. Federal Paulo Roberto de Oliveira Lima, julg. em:
+01/03/2021) É preciso notar, entretanto, a ILEGITIMIDADE ATIVA do Município, para a "EXECUÇÃO INDIVIDUAL" de título da "ação coletiva" ajuizada por , pois não se comprovou a Entidade Privada indispensável para o ajuizamento da "ação coletiva" "autorização específica" .
+Ressalte-se ainda que a UNIÃO está discutindo agora a ilegitimidade do MUNICÍPIO (e não da AMA, como interpretou o acórdão recorrido) para a execução do título formado na ação de coletiva Ou seja, matéria que só pode ser arguida neste ajuizada pela AMA (n. 0002790-85.2010.4.05.8000).
+momento processual, afinal, durante a fase de conhecimento, não poderia a UNIÃO prever quais Municípios iriam ou não executar o título coletivo. Só agora, portanto, tem UNIÃO a possibilidade de avaliar se o exequente tem ou não legitimidade para executar o título formado em favor da AMA.
+Assim, a ilegitimidade do Município-exequente não poderia e nem deveria ser discutida durante a fase cognitiva, afinal quem ajuizou a demanda foi a AMA. Agora, durante a fase de execução, é que deve ser arguida, pois a UNIÃO tem condições de verificar se cada município, individualmente, preenche os requisitos para executar o título formado na ação coletiva.
+Contrarrazões às fls. 1128-1159, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23 de outubro de 2023.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado nos Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Observo que o Tribunal Regional não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Acrescente-se que não se pode conhecer da irresignação contra a ofensa a dispositivos legais que não foram analisados pela instância de origem, ainda que se trate de matéria de ordem pública, como a prescrição. Ausente, destarte, o requisito do prequestionamento.
+Além disso, apenas para esclarecer eventuais dúvidas, ressalto que, mesmo nos casos em que a instância ordinária acolhe os Embargos de Declaração "para efeito de prequestionamento", não é satisfeita a exigência de prequestionamento. Isso porque, para que se tenha por atendido esse requisito, não basta que a Corte a quo dê por prequestionado o dispositivo, é indispensável também a emissão de juízo de valor sobre a matéria.
+No mérito, melhor sorte não assiste à União.
+Isso porque a análise da matéria pelo Tribunal Regional se deu à luz da jurisprudência do Supremo Tribunal Federal, e não dos dispositivos infraconstitucionais apontados como violados.
+A decisão da origem com fulcro em fundamento constitucional inviabiliza o exame da matéria em Recurso Especial, sob pena de usurpação da competência da Suprema Corte.
+Exemplificativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RENOVAÇÃO DE PORTE DE ARMA DE FOGO. REQUISITOS.
+AUSÊNCIA. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO BASEADO EM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA, NO MÉRITO, EM SEDE DE RECURSO ESPECIAL, SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Não há falar, na hipótese, em violação ao art. 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+IV. O Tribunal de origem decidiu a controvérsia, acerca do não preenchimento dos requisitos necessários à renovação do porte de arma de fogo, sob o enfoque eminentemente constitucional, o que torna inviável a análise da questão, no mérito, em sede de Recurso Especial, sob pena de usurpação da competência do STF. Precedentes do STJ (AgRg no AREsp 584.240/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 03/12/2014; AgRg no REsp 1.473.025/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 03/12/2014).
+V. Agravo interno improvido.
+(AgInt no AREsp n. 2.281.935/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/8/2023, DJe de 21/8/2023.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial e, nessa extensão, nego-lhe provimento.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
