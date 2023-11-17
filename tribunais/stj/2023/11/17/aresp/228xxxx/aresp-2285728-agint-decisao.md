@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 628/630 e-STJ, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial.
+A agravante sustenta, em síntese, que os fundamentos do juízo de admissibilidade foram impugnados.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. AUTOGESTÃO. AUTORA QUE SOFREU FRATURA GRAVE DO PLATÔ TIBIAL E LESÃO EM JOELHO EM ACIDENTE AUTOMOBILÍSTICO. CIRURGIA REALIZADA EM CARÁTER DE URGÊNCIA. PRETENSÃO DE REEMBOLSO DE DESPESAS REFERENTES A MATERIAIS CIRÚRGICOS, INSTRUMENTADORA, ANESTESISTA E FISITERAPIA DOMICILIAR. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGADA DEMORA NA AUTORIZAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. APELO DA AUTORA.
+"O reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1459849/ES, julgado em 14/10/2020).
+Obrigação de reembolso que, tem tais hipóteses, é limitada aos preços e tabelas contratados, à luz do art. 12, VI, da Lei 9.656/98.
+Autora internada em hospital da rede credenciada. Cirurgia realizada quase 2 dias depois. Laudo pericial que confirma a o caráter emergencial do procedimento, a adequação do tratamento e a necessidade dos insumos utilizados. Ré que não comprovou a alegada autorização de cobertura com profissionais e fornecedor da rede própria. Prova da autorização de que claramente dispõe operadora ré. Reembolso devido na forma do art. 12, VI, da Lei 9.656.
+Fisioterapia domiciliar que, no entanto, estava disponível na rede credenciada. Ausência de fundamento para o reembolso.
+Demora na autorização que prolongou o sofrimento experimentado pela paciente e adiou o seu tratamento. Danos morais ora fixados em R$5.000,00.
+Recurso conhecido e parcialmente provido.
+A parte agravante sustenta que não pode ser condenado ao reembolso das despesas com profissionais e materiais decorrentes do procedimento a que se submeteu a recorrida, realizado com equipe médica não credenciada. Argumenta que não há que se falar em dano moral, pois, no momento de negativa do plano de saúde, ao menos, havia legalidade e validade do ato, pois amparado pelo contrato firmado entre as partes.
+Quanto ao reembolso, a Corte de origem afirmou que a internação e a cirurgia foram realizadas em hospital da credenciada do plano de saúde. Assim, a argumentação tecida no recurso especial está dissociada da realidade dos autos, circunstância que atrai a incidência da Súmula n. 284 do STF, quanto ao ponto.
+No que se refere aos danos morais, assim decidiu o Tribunal revisor, in verbis:
+Com relação ao pedido de indenização por danos morais, torna-se forçoso reconhecer que a demora em autorizar integralmente a cirurgia indicada para a autora em caráter de urgência - incluindo os profissionais e os insumos para tanto indispensáveis - prolongou o sofrimento experimentado pela autora em função das graves lesões apresentadas e adiou demasiadamente o tratamento de que ela necessitava, extrapolando, assim, os limites da normalidade. Considerando a extensão do dano, deve a operadora ser condenada ao pagamento de R$5.000,00 a título de danos morais, acrescidos de juros de mora desde a data da citação, por se tratar aqui de relação contratual.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
+EMENTA
