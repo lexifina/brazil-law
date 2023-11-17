@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre a 10ª Vara Federal da Seção Judiciária do Rio de Janeiro/RJ, como suscitante, e a 6ª Vara Cível da Comarca local, a suscitada, nos autos de ação indenizatória movida por ex-aluna contra instituição privada de ensino superior.
+A ação foi originariamente proposta perante a Justiça estadual, onde recebeu tramitação e foi julgada. O Tribunal de Justiça do Estado do Rio de Janeiro, julgando apelação, deliberou pela anulação da sentença, com a consequente remessa dos autos à Justiça Federal, nos termos do entendimento firmado pelo STF no Tema 1154, de Repercussão Geral (fls. 474/480). O magistrado federal, a seu turno, divergiu desse entendimento e suscitou o presente incidente processual.
+O parecer do Ministério Público Federal, de lavra do eminente Subprocurador-Geral da República Antônio Carlos Alpino Bigonha, vem pelo reconhecimento da competência do Juízo suscitante.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66 e 953 do CPC.
+Quanto ao mérito, mostra-se correta a compreensão externada no parecer ministerial, já que, como nele destacado, "o pleito autoral está voltado à indenização pela ausência de reconhecimento do curso junto ao MEC, o que firma a competência da Justiça Federal para conhecer e julgar a lide" (fl. 534). Nesse mesmo sentido, em casos similares:
+AGRAVO INTERNO. CONFLITO DE COMPETÊNCIA. ENSINO SUPERIOR. EXPEDIÇÃO DE DIPLOMA. TEMA 1.154/STF. JUÍZO DE RETRATAÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. O Supremo Tribunal Federal, em 25/6/2021, ao apreciar o Recurso Extraordinário 1.304.964, julgou o mérito do Tema 1.154 estabelecendo a seguinte tese: "Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão limite-se ao pagamento de indenização".
+2. Em juízo de retratação, conheço do conflito para declarar a competência da Justiça Federal.
+(AgInt nos EDcl no CC n. 171.822/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 19/9/2023, DJe de 22/9/2023).
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. AÇÃO PROPOSTA CONTRA INSTITUIÇÕES PRIVADAS DE ENSINO SUPERIOR. DECLARAÇÃO DE VALIDADE DE DIPLOMA. TEMA 1.154/STF. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. EFEITOS MODIFICATIVOS.
+I - Trata-se de embargos de declaração opostos contra acórdão que negou provimento a agravo interno interposto contra decisão que, no âmbito de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Osasco - SJ/SP e o Juízo de Direito da 1ª Vara Cível de Cotia/SP, nos autos de ação movida por particular contra instituições privadas de ensino superior, objetivando a validade de diploma, bem como indenização por danos morais, declarou competente o Juízo estadual.
+II - O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 1.304.904/SP, submetido à sistemática da repercussão geral, estabeleceu a compreensão de que compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização (Tema n. 1.154).
+III - Nesse panorama, recentemente, o STJ aderiu ao entendimento prestigiado pelo STF, passando a deliberar sobre a competência do Juízo federal para apreciação das demandas concernentes à expedição de certificados por entidades de ensino superior, ainda que circunscritas a pleito reparatório.
+IV - Evidenciada que a hipótese dos autos, que discute a validade de diploma e indenização, é análoga ao respectivo precedente da Suprema Corte, compete ao Juízo federal solucionar a lide.
+V - Embargos de declaração acolhidos.
+(EDcl no AgInt no CC n. 171.788/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 8/2/2023, DJe de 17/2/2023).
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar e julgar a demanda a 10ª Vara Federal da Seção Judiciária do Rio de Janeiro/RJ, ora suscitante.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
+EMENTA
