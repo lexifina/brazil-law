@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ADAIANE PEREIRA OGG LTDA.. O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE RESCISÃODE CONTRATO COM PEDIDO SUCESSIVO DE NULIDADE DECLÁUSULA CONTRATUAL QUE PREVÊ COTA MÍNIMA - CONTRATO DE DISTRIBUIÇÃO DE COMBUSTÍVEIS - DECISÃO QUE, AO SANEAR OFEITO, DEFERIU A PRODUÇÃO DE PROVA DOCUMENTAL - EXIBIÇÃO DE DOCUMENTOS RELATIVOS A EMPRESAS ESTRANHAS À LIDE -IMPOSSIBILIDADE - DECISÃO AGRAVADA REFORMADA - RECURSO CONHECIDO E PROVIDO." (e-STJ fl. 107).
+No recurso especial, a agravante alega, além de divergência jurisprudencial, violação dos artigos 369, 386, 489, §1º, VI e 926 do Código de Processo Civil, 1.191, §1º, do Código Civil, 1º e 2º, inciso V, da Portaria nº 1.384/2016 da Receita Federal e da Súmula 390 do STF.
+Sustenta, em síntese, que "é legal e possível a exibição de Notas Fiscais para a comprovação de preços e a averiguação de ocorrência de crime contra à ordem econômica, ante a ausência de sigilo fiscal destes documentos e a necessidade para a instrução probatória" (e-STJ fl. 216)
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+De início, ressalta-se que é inviável, no apelo excepcional, a análise de violação de súmulas, portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas por não estarem inseridas no conceito de lei federal previsto no art. 105, II, "a", da Constituição Federal.
+No tocante à alegada violação dos artigos 489, §1º, VI e 926 do Código de Processo Civil, observa-se que tais dispositivos não foram debatidos pelo Tribunal de origem, sequer de modo implícito. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO DO ART 535 DO CPC/1973. ARGUMENTOS GENÉRICOS. INCIDÊNCIA. SÚMULA 284/STF. 2. MÁ-FÉ NO PREENCHIMENTO DA DECLARAÇÃO DE SAÚDE. ALTERAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 3. VIOLAÇÃO AOS ARTS. 130 E 332 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 4. AGRAVO INTERNO IMPROVIDO.
+1. A suscitada violação do art. 535 do Código de Processo Civil de 1973 foi deduzida de modo genérico, o que justifica a aplicação da Súmula 284/STF. 2. A revisão da conclusão a que chegou o Tribunal de origem, acerca da configuração da má-fé da segurada, em razão da omissão de doença preexistente à contratação, é vedada no âmbito do julgamento de recurso especial, ante o óbice inserto na Súmula 7/STJ.
+3. Incidem as Súmulas 282 e 356 do STF quando não verificada discussão pelo Tribunal de origem a respeito de tese ventilada no recurso especial (de contrariedade aos arts. 130 e 332 do CPC/1973), dada a ausência do indispensável prequestionamento.
+4. Agravo interno improvido" (AgInt no AgInt no AREsp 1.025.576/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 24/10/2017).
+No mais, o Tribunal de origem entendeu não ser cabível a exibição das notas fiscais de outras empresas revendedoras, com base nos seguintes fundamentos:
+"Na inicial, a recorrida sustentou que após a assinatura do contrato de exclusividade, a Ipiranga passou a vender os combustíveis por valor maior do que aqueles praticados a outros postos da rede, o que ensejou o ajuizamento da ação na origem.
+(..)
+No caso em comento, a exibição dos documentos pretendida não se revela imprescindível, haja vista que já foram acostados documentos ao processo pela autora, ora agravada, tendo sido deferida a produção de outras provas, tais como oral e pericial.
+Releve-se que ao que tudo indica, o fato de serem praticados preços distintos pela agravada entre os seus revendedores, por si só, não configura abusividade, consoante já reconhecido pelo Superior Tribunal de Justiça, que consignou que "não se trata de concorrência desleal ou de abuso de poder econômico, mas de prática lícita de mercado de preços não - uniformes, na qual o distribuidor que compra maior quantidade ou por características outras consegue um preço melhor junto ao fabricante do produto. Se o preço praticado com outras revendedoras é diferenciado é porque os elementos de revenda destas também são diversos daqueles elementos de revenda da apelante, sendo certo que não há ilícito em cobrar preço menor daquele que compra maior volume de produto ou que, por características próprias outras, ofereçam maior retorno para a fornecedora ." (REsp 1540888/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, de combustível julgado em 1º/02/2016, DJe 04/02/2016)" (e-STJ fls. 111/112).
+Com efeito, rever o entendimento do Tribunal de origem, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Registra-se, por fim, que, também conforme firme jurisprudência deste Tribunal Superior, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC, haja vista a ausência de fixação na origem.
+Publique-se.
+Intimem-se.
+EMENTA
