@@ -1,0 +1,27 @@
+DECISÃO
+Na origem trata-se de ação civil pública referente a danos ambientais e ressarcimento/recuperação da área degradada. Na sentença julgou-se o pedido parcialmente procedente. No Tribunal a quo a sentença foi parcialmente reformada. O valor da causa foi fixado em R$ 10.000,00 (Dez mil reais).
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. DANOS AMBIENTAIS. DEMOLIÇÃO DE IMÓVEL E RECUPERAÇÃO DE ÁREA DEGRADADA (RESTINGA). TERRENO DE MARINHA. CONSTRUÇÃO DE CASA NA PRAIA DA GALHETA, EM LAGUNA/SC. AUSÊNCIA DE DIREITO ADQUIRIDO À PRÁTICA DE DANO AMBIENTAL. POSSIBILIDADE DE CUMULAÇÃO DE OBRIGAÇÕES DE PAGAR E DE FAZER.
+1. Aquele que causa ou perpetua o dano ambiental, realizando intervenções na área de preservação permanente (restinga e Morro do Cabo de Santa Marta Pequena), é responsável pela recuperação da área degradada.
+2. A recuperação integral da área degradada não exime a responsabilidade do degradador pela indenização do dano ambiental. Possibilidade de cumulação de pedidos de condenação do réu ao cumprimento de obrigações de fazer e de pagar decorrentes do mesmo ato lesivo ao meio ambiente, independentemente da inexistência de danos irrecuperáveis.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+II.13. Caso concreto.
+(..)
+Logo, a manutenção das edificações naquele local proporciona severos prejuízos decorrentes da passagem de veículos pelas dunas e do depósito frequente de aterro saibroso nos acessos, a fim de que se obtenha um leito mais rígido, ainda que por pouco tempo.
+(..)
+Portanto, restou amplamente demonstrado através de documentos produzidos por órgãos ambientais a partir de procedimentos administrativos, que gozam de presunção de legitimidade e veracidade e foram corroborados pelo laudo pericial judicial, que o imóvel da parte ré se encontra em campo de dunas internas móveis e semifixas com presença de vegetação de restinga, APP segundo a legislação federal e municipal, nona edificandi conforme ambas.
+(..)
+Impõe-se, portanto, reconhecer o total descaso com o meio ambiente e sua preservação.
+(..)
+Em relação ao ponto alegado, observa-se que a parte ré tem domicílio no Município de Criciúma/SC, onde foi citada e conforme consta na procuração acostada aos autos (evento 10, CERT1, evento 13, PROC1), o que reforça o fato de que a construção realizada na Praia da Galheta não é o local de residência com ânimo definitivo, tratando-se de lazer.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
