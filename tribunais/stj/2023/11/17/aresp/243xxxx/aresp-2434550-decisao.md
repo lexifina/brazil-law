@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por TEMPORIM LOTEADORA E EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 30):
+AGRAVO DE INSTRUMENTO. Decisão que indeferiu a pretensão da executada, de que a execução provisória seja processada nos termos do artigo 509, II, do CPC. Responsabilidade da agravante pelo pagamento da diferença dos juros já foi objeto de deliberação judicial. Discussão a respeito inadmissível, nos termos dos arts. 505 e 507 do CPC. Inviabilidade de aplicação do art. 509, II, do CPC, na medida em que não há fato ou documento novo, a ser objeto de prova judicial. Designada perícia técnica para apuração do quantum exequendo, cujo trabalho apresentado será exposto à crítica das partes, com observância do contraditório. Decisão mantida. Recurso a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 43-46).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 489, §1º, III e IV, e 1.022, III, do CPC.
+Esclareceu que se opôs ao acórdão por não reconhecer o erro material constante no julgamento do agravo de instrumento. Suscitou que a solução proferida foi equivocada ao mencionar percentuais que não foram fixados no acórdão exarado nos autos de origem (1004013-10.2018.8.26.0191).
+Destacou que, além de não ter fixado quaisquer percentuais, o decisum em questão determinou que a diferença entre as taxas de juros de ambas as instituições deverá ser apurada em liquidação de sentença, como se depreende da fundamentação do acórdão dos autos de origem. Requereu o provimento do recurso especial (e-STJ, fls. 48-55).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 86-97).
+Contraminuta apresentada pugnando pela manutenção do acórdão e a fixação de multa por litigância de má-fé em desfavor da insurgente (e-STJ, fls. 100-102).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls.).
+Brevemente relatado, decido.
+Não há nenhum erro material, omissão, contradição ou carência de fundamentação a serem sanados no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+A segunda instância entendeu que essa questão, que foi suscitada no recurso especial e nos embargos de declaração opostos no Tribunal de origem, já teria sido objeto de deliberação judicial.
+Além disso, não se observaria a existência de documento novo; bem como atestou o decisum que o debate sobre os juros seria objeto de perícia técnica para apuração do quantum exequendo, com o exercício do contraditório a ser exercido pelas partes.
+Leia-se (e-STJ, fls. 31-32):
+Cuida-se de ação julgada indenizatória improcedente e reformada parcialmente pela turma julgadora por acórdão de nº 1004013-10.2018.8.26.0191 de relatoria de Exma. Desembargadora Maria de Lourdes Gil Cimino, para o fim de condenar a ora agravante ao pagamento de indenização referente à diferença entre os juros do financiamento imobiliário da Caixa Econômica Federal (4,5%) e os juros cobrados pela Brazilian Mortgages Companhia Hipotecária(10,92%), a ser apurado em fase de liquidação de sentença.
+A propósito, confira-se o inteiro teor da decisão fls. 253/259 dos autos de origem fls. 31/37 do cumprimento provisório de sentença.
+Logo, de rigor consignar que a questão já foi objeto de deliberação judicial, de modo que a discussão a respeito do quanto já deliberado é inadmissível, nos termos do que dispõem os arts. 505 e 507, do CPC.
+E nesse contexto, afigura-se inviável a aplicação à espécie do dispositivo contido no art. 509, inciso II, do CPC, na medida em que não há fato ou documento novo, a ser objeto de prova judicial.
+No mais, o d. Juízo a quo já designou perícia técnica para apuração do quantum exequendo, cujo trabalho será apresentado e exposto à crítica das partes, com observância do contraditório.
+Essas ponderações foram extraídas da análise fático-probatória da causa, atraindo o óbice da Súmula 7/STJ - que se aplica a ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, mas, na extensão conhecida, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ARESTO DEVIDAMENTE JUSTIFICADO. CONCLUSÃO NO SENTIDO DA EXISTÊNCIA DE DECISÃO JUDICIAL SOBRE A QUESTÃO CONTROVERTIDA, CARÊNCIA DE PROVA NOVA E DETERMINAÇÃO DE PERÍCIA TÉCNICA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, MAS, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
