@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE COBRANÇA - ASSISTÊNCIA JUDICIÁRIA GRATUITA  PESSOA JURÍDICA  DECISÃO QUE INDEFERIU A BENESSE PLEITEADA PELA AUTORA  INSURGÊNCIA DA REQUERENTE  DESCABIINENTO  HIPÓTESE EM QUE OS DOCUMENTOS APRESENTADOS PELA AUTORA NÃO PERMITEM CONCLUIR QUE ELA NÃO TENHA CONDIÇÕES DE SUPORTAR O PAGAMENTO DAS CUSTAS PROCESSUAIS  DECISÃO MANTIDA  RECURSO NÃO PROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 98 do CPC, no que concerne à necessidade de concessão da assistência judiciária gratuita, sob o fundamento de que houve a comprovação do seu estado de miserabilidade. Aduz os seguintes argumentos:
+Sobre a gratuidade, muito já se falou - e comprovou - no primeiro tópico.
+São mais de 3200 títulos protestados, somando mais de 13 milhões em dívidas - que estão no protesto. Outras, ainda não estão. Não fosse isso, o demonstrativo contábil juntado pela empresa deu conta do rombo de 20 milhões negativos - é o último que se tem disponível. A dívida do SUS está em 60 milhões.
+Estes valores correspondem à soma do ativo versus passivo. Logo, mesmo considerando as ponderações do v. acórdão, a conclusão precisaria ser diferente, eis que os 67 milhões foram considerados na operação matemática que concluiu pelo resultado negativo.
+É impossível, Excelências, deliberar pela capacidade de pagar as custas. Isso simplesmente não é uma realidade - o hospital não está em boa situação financeira.
+Nada mais errado, ademais, em dizer que o valor da causa é baixo - pois a Santa Casa possui centenas de processo de recuperação de crédito ativos. Se cada um deles (imaginemos 300 ativos; o número é, na verdade, maior) dessem causa ao pagamento do mínimo de custas, o hospital precisaria ter 50 mil reais livre, em caixa, para dispor (fls. 57-58).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Todavia, os balanços patrimoniais apresentados se referem ao período de 2013 a 2018, assim como a certidão de protestos foi expedida no mês de janeiro de 2021.
+Nesse cenário, é certo que não nos autos documentos que permitam inferir com segurança a atualidade da crise financeira alegada pela autora.
+Nesse passo, registre-se não é suficiente para tanto a mera juntada de report agem jornalística do corrente ano tratando da existência de déficit decorrente dos atendimentos realizados no âmbito do Sistema Único de Saúde (SUS) (fls. 21/23).
+É oportuno acrescentar que a autora se encontra em atividade e mesmo os balanços patrimoniais mais antigos indicam receita anual também da ordem de dezenas de milhões de reais, de modo que não é crível que a pessoa jurídica esteja absolutamente impossibilitada de recolher o valor das custas processuais, que não é vultoso (fls. 47-48).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
