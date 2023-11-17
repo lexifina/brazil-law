@@ -1,0 +1,24 @@
+DECISÃO
+Na origem trata-se de ação objetivando a revisão do beneficio de aposentadoria por tempo de contribuição, para que seja reconhecido tempo de trabalho especial e convertido o benefício em aposentadoria especial. Na sentença julgou-se improcedente o pedido. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 59.587,56.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO INTERNO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ELETRICIDADE. REQUISITOS NÃO DEMONSTRADOS. DESPROVIMENTO.
+1. A decisão ora agravada, prolatada em consonância com o permissivo legal, está amparada também em entendimento deste C. TRF da 3ª Região, inclusive quanto aos pontos impugnados no presente recurso.
+2. A reiteração que se faz da essência das afirmações expostas na decisão agravada, suficientes ao deslinde da causa, não configura violação ao art.1.021, § 3º, do CPC/2015, haja vista que esse dispositivo, interpretado em conjunto com o seu §1º, não impõe ao julgador, em sede de agravo interno, o dever de refazer o texto do decisum com os mesmos fundamentos, porém em palavras distintas, mesmo quando inexistentes novas (e relevantes) teses recursais. Jurisprudência.
+3. Agravo interno desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A jurisprudência pacificou-se no sentido de que a legislação aplicável para a caracterização do denominado serviço especial é a vigente no período em que a atividade a ser avaliada foi efetivamente exercida, devendo, portanto, no caso em tela, ser levada em consideração a disciplina estabelecida pelos Decretos 83.080/79 e 53.831/64, até 05/03/1997, e após pelo Decreto nº 2.172/97, sendo irrelevante que o segurado não tenha completado o tempo mínimo de serviço para se aposentar à época em que foi editada a Lei nº 9.032/95, conforme a seguir se verifica.
+Os Decretos n. 53.831/64 e 83.080/79 vigeram de forma simultânea, não havendo revogação daquela legislação por esta, de forma que, verificando-se divergência entre as duas normas, deverá prevalecer aquela mais favorável ao segurado.
+ ..
+Desta forma, pode ser considerada especial a atividade desenvolvida até 10.12.1997, mesmo sem a apresentação de laudo técnico, pois em razão da legislação de regência vigente até então, era suficiente para a caracterização da denominada atividade especial o enquadramento pela categoria profissional (até28.04.1995 - Lei nº 9.032/95), e/ou a apresentação dos informativos SB-40 e DSS-8030.
+ ..
+Permanece controverso nos autos a concessão de aposentadoria especial mediante o reconhecimento da especialidade do labor na Cia. do Metropolitano de São Paulo - Metrô, de 14/06/1988 a 23/08/2003. OPPP de fls. 59 indica exposição eventual a eletricidade acima de 250 volts, ruído de 71,9 dB(A) e Exposição eventual a sangue e fluídos corporais. Da análise da descrição das atividades do PPP, verifico que o autor laborou nas bilheterias, na orientação do fluxo e controle do acesso de pessoas, embarque e desembarque, controle de bloqueios e escadas rolantes, etc.
+ ..
+Considerando que o rol trazido no Decreto n.º 2.172/97 é exemplificativo e não exaustivo - conforme julgado supra (RESP N. 1.306.113/SC) -, o fato de nele não ter sido previsto o agente agressivo eletricidade não afasta a possibilidade de se reconhecer a especialidade do trabalho que importe sujeição do trabalhador a tensão superior a 250 volts, desde que comprovada a exposição de forma habitual e permanente a esse fator de risco.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
