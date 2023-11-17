@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por Sérgio Roberto Oliveira Lima, no qual se alega violação dos arts. 489, § 1º, I e VI, 1.022, II, e 1.026, § 2º, do Código de Processo Civil, 5º, XXXV, e 93, IX, da Constituição Federal, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 1.250):
+DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO CÍVEL. AGRAVO INTERNO. AUSÊNCIA DE ARGUMENTOS CAPAZES DE INFIRMAR A DECISÃO AGRAVADA.
+I - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao decidir o recurso de Apelação Cível, impõe o desprovimento do recurso.
+II - Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. (AgInt no REsp 1807230/MS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021); (AgInt nos EDcl no REsp 1697494/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021) e (AgInt no AREsp 1675474/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020) (grifei)
+III - Agravo interno desprovido.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fls. 1.280/1.281):
+EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO PROFERIDO EM AGRAVO INTERNO. ACÓRDÃO EMBARGADO TIDO COMO OBSCURO, CONTRADITÓRIO E OMISSO. NÃO CARACTERIZAÇÃO DE VÍCIO EMBARGÁVEL. REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. CONTRARIEDADE AO ART. 1.022 DO CÓDIGO FUX. PROPÓSITO DE PREQUESTIONAMENTO. APLICAÇÃO DE MULTA. ART. 1026, § 2º, DO CÓDIGO FUX. EMBARGOS REJEITADOS.
+I  Os embargos de declaração são oponíveis somente quando o pronunciamento judicial se ressentir de omissão, obscuridade, contradição ou erro material, nos termos do artigo 1.022 do Código Fux, sendo incabíveis para veicular, isoladamente, o propósito de inconformismo com o teor do julgamento.
+II  Embora possam os embargos de declaração ser manejados para o fim de prequestionamento, tal fato não implica a inobservância do cabimento, de acordo com as estritas hipóteses do artigo 1.022, do Código Fux. Vale dizer: o propósito de prequestionar deve estar atrelado à existência dos vícios que possibilitam o manejo dos declaratórios.
+III  O acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia veiculada na inicial, ausentes os vícios apontados.
+IV  Embargos de declaração não se prestam a veicular inconformismo com a decisão tomada, nem permitem que as partes impugnem a justiça do que foi decidido ou suscitem matéria alheia ao objeto do julgamento, pois tais objetivos são alheios às hipóteses de cabimento típicas do recurso.
+V  "Art. 1.026. ( ) § 2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa."
+VI  Embargos de declaração rejeitados.
+Sustenta que o acórdão recorrido padeceu de omissão, ao deixar de se manifestar acerca das alegações trazidas pelo recorrente no agravo interno e nos embargos de declaração por ele opostos.
+Alega que os argumentos suscitados nos autos pelo recorrente relativos à fraude dos documentos juntados pelo recorrido; à onerosidade excessiva; à falta de informação e transparência; e ao desequilíbrio contratual, não foram devidamente analisados pela Corte local.
+Requer seja afastada a multa aplicada por embargos de declaração protelatórios.
+Assim posta a questão, passo a decidir.
+Verifico que procede a alegação de violação dos arts. 489 e 1.022 do CPC/2015, quanto ao argumento de que a Corte local não enfrentou nenhum dos pontos trazidos nos recursos interpostos pelo recorrente, quais sejam, o agravo interno e os embargos de declaração, uma vez que o "Eminente Relator tão somente reproduziu os mesmos fundamentos constantes da sentença recorrida, tendo se dedicado mais em justificar a possibilidade monocrático, bem como de não opor juízo de valoração em sede de mérito, aduzindo estar aplicando a chamada técnica de fundamentação vinculada, qual seja "per relationem"" (fl. 1.306).
+Com efeito, observo que o recorrente, nos embargos de declaração opostos às fls. 1.268/1.271 buscou a manifestação do acórdão recorrido no tocante à referida questão.
+O Tribunal de origem, todavia, instado a se pronunciar não enfrentou, de forma específica, a controvérsia, o que configura, de fato, a ofensa aos arts. 489 e 1.022 do CPC/2015
+Por fim, tendo sido reconhecida a existência de omissão no acórdão dos embargos de declaração, é inviável a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Em face do exposto, dou provimento ao recurso especial para anular o acórdão dos embargos de declaração, e determinar que outro seja proferido, sanando-se a omissão nos termos acima, e como consequência, afasto a multa aplicada com fundamento no art. 1.026, § 2º, do CPC/2015. Ficam prejudicadas as demais questões tratadas no recurso especial.
+Intimem-se.
+EMENTA
