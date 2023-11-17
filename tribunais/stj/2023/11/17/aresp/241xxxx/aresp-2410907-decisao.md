@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição) contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado (fls. 312-313, e-STJ):
+EMENTA:TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. APELAÇÃO CÍVEL. SENTENÇA DE IMPROCEDÊNCIA. EMBARGOS À EXECUÇÃO. COBRANÇA DE ISS PELO MUNICÍPIO DE NATAL EM RAZÃO DE EMPRESAS TOMADORAS DE SERVIÇOS QUANDO PRESTADOS POR OUTRAS EMPRESAS CONTRATADAS. POSSIBILIDADE. INTELIGÊNCIA DO ARTIGO 6º, §§ 1º E 2º, INCISO II, DA LEI COMPLEMENTAR Nº 116/2003 E ARTIGO 128 DO CÓDIGO TRIBUTÁRIO NACIONAL. COBRANÇA DO ISS AO TOMADOR DO SERVIÇO QUE DECORRE DE UMA PERMISSÃO LEGAL ATRIBUÍDA AO FISCO. DOCUMENTOS TRAZIDOS AOS AUTOS PELA EMPRESA EMBARGANTE QUE NÃO SÃO CAPAZES DE MOSTRAR QUE ESTÃO RELACIONADAS AOS FATOS GERADORES DA EXECUÇÃO EM QUESTÃO. CDA "S QUE GOZAM DE PRESUNÇÃO DE CERTEZA E LIQUIDEZ. ÔNUS DA PROVA DO EXECUTADO. ARTIGO 204 DO CÓDIGO TRIBUTÁRIO NACIONAL. MULTA FIXADA DE FORMA PROPORCIONAL E DE ACORDO COM O DISPOSTO NO ARTIGO 86, INCISO II, DO CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE NATAL. AUSÊNCIA DE CARÁTER CONFISCATÓRIO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Sustenta a parte agravante, em Recurso Especial, que houve violação dos arts. 6º da Lei Complementar 116/2003 e 156, I, do CTN.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo (fls. 427-430, e-STJ), o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 440-447, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 23.10.2023.
+Esta Corte perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento por aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775 (DJe 30.11.2018).
+Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. EXECUÇÃO. ERRO DE CÁLCULO E ERRO DE DIREITO. COISA JULGADA. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. SÚMULA Nº 83/STJ. SÚMULA Nº 283/STF. AGRAVO IMPROVIDO.
+(..)
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+3. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a preclusão decorrente da coisa julgada, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ. (..)
+6. A ausência de impugnação dos fundamentos do acórdão recorrido, mormente quanto à juntada de substabelecimento pela advogada, conferindo-lhe poderes, e à procrastinação do feito, suficiente para a aplicação da multa, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+7. Agravo regimental não conhecido.
+(AgRg no AREsp 16.627/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 11/9/2012)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+2. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 925.488/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 14/6/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+(..)
+3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à agravante, na petição do seu Agravo Interno, impugnar especificamente os fundamentos da decisão agravada. Era indispensável que a agravante, analiticamente, contrastasse todas as conclusões da decisão combatida, especificamente.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ.
+5. No mesmo sentido: AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgRg no AREsp 807.252/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/10/2017, DJe 23/10/2017; AgInt no AREsp 1.003.118/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2017, DJe 24/10/2017; AgInt no PUIL 318/MS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2017, DJe 18/10/2017; AgInt no AREsp 973.101/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no REsp 1.685.023/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe 16/10/2017; AgInt no AREsp 1.077.966/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+6. Agravo Interno não conhecido.
+(AgInt na Pet 10.274/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 19/12/2017)
+No caso, o Tribunal de origem, ao analisar admissibilidade do Recurso Especial, consignou (fls. 428-429, e-STJ):
+Todavia, não merecem admissão. Isso porque, quanto ao suposto malferimento do art. 6º da Lei Complementar116/2003, sua análise demandaria incursão no conjunto fático-probatório, atraindo o óbice da Súmula 7 do Superior Tribunal de Justiça (STJ): "A pretensão de simples reexame de prova não enseja recurso especial".
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 141 E 492 DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 211/STJ. ISS. RESPONSABILIDADE PELO PAGAMENTO DO TRIBUTO COMO SUBSTITUTA TRIBUTÁRIA. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS E NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIADAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DASÚMULA N. 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - In casu, rever o entendimento do tribunal de origem acerca da responsabilidade da ora Agravante pelo pagamento do tributo demandaria necessário revolvimento de cláusula contratual e matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 5 e 7 do STJ.
+IV - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+V - O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional quando a parte recorrente deixa de proceder ao cotejo analítico entre os julgados confrontados, não demonstrando que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.971.292/BA, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/4/2022, DJe de27/4/2022.) - grifos acrescidos.
+Por, quanto à alegada violação do art. 156, I, do Código Tributário Nacional (CTN), observo que não foi sequer apreciada no acórdão recorrido, o que evidencia a ausência do indispensável requisito do prequestionamento, incidindo a Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Verifica-se, das razões do Agravo, que a agravante não refutou especificamente os pontos que motivaram a inadmissão do Recurso Especial, pois não explicou como seria possível conhecer da ofensa ao art. 6º da LC 116/2003 somente com base nos elementos presentes no acórdão recorrido, além de não demonstrar como o requisito do prequestionamento teria sido observado.
+Para cumprir o princípio da dialeticidade, não bastam alegações genéricas em sentido contrário à conclusão da decisão guerreada.
+Logo, a pretensão recursal não merece conhecimento ante a incidência, por analogia, da Súmula 182/STJ.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias ordinárias, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
