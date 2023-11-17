@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALICE ERCOLI PEREIRA e ALEANDRO ERCOLI PEREIRA, com amparo no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 1.050):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. NOTAPROMISSÓRIA. EXTINÇÃO DA EXECUÇÃO ANTE A OCORRÊNCIA DA PRESCRIÇÃO. VERBAS DE SUCUMBÊNCIA. AUSÊNCIA DE CONDENAÇÃO PARA AMBAS AS PARTES. INTELIGÊNCIA DO §5º DO ART. 921 DO CPC, INCLUÍDO PELA LEI 14.195 DE 26.08.2021. APLICABILIDADE IMEDIATA.
+Tendo em vista a alteração legislativa, incluída pela Lei nº 14.195 de 26.08.2021, com o reconhecimento da prescrição intercorrente, é incabível a condenação de qualquer das partes ao pagamento de custas e honorários advocatícios, de acordo com o disposto no §5º do art. 921 do CPC, de aplicação imediata.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA
+Opostos embargos de declaração, foram rejeitados (fls. 1.067/1.090).
+Nas razões do especial, apontam os recorrentes contrariedade ao artigo 921, III, § 5º, do Código de Processo Civil, além do dissídio jurisprudencial; argumentando, em síntese, que a regra aludida, que exclui o pagamento de honorários em razão do reconhecimento da prescrição intercorrente, só seria aplicável aos processos sentenciados após a vigência da referida norma.
+Contra-arrazoado (fls. 1.209/1.215), o recurso especial foi admitido na origem (fls. 1.216/1.219).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que a Corte Local afastou o critério da causalidade para arbitrar os honorários sucumbenciais após o reconhecimento da prescrição intercorrente, por considerar que a Lei nº 14.195/21, que alterou o artigo 921, III, § 5º do CPC/15, seria de aplicação imediata (fls. 1.052/1.053):
+Essa 15ª Câmara Cível, perfilhando o entendimento do STJ, vinha aplicando o princípio da causalidade para impor ao executado os encargos da sucumbência. No entanto, com a alteração legislativa, incluída pela Lei nº 14.195 de 26.08.2021, cuja aplicação é imediata, nos casos em que declarada a prescrição intercorrente, é incabível a condenação de qualquer das partes ao pagamento de custas e honorários advocatícios.
+ ..
+Isso posto, voto no sentido de conhecer e dar parcial provimento ao recurso de apelação cível para afastar a responsabilidade do embargado pelo pagamento das custas e despesas processuais, bem como dos honorários advocatícios, nos termos da fundamentação.
+Como se vê, o Tribunal de origem pressupõe a aplicação imediata da nova regra processual prevista no artigo 921, III, § 5º, do CPC/15, com a alteração prevista na Lei 14.195/21, com vigência na data de sua publicação (26.8.21), para afastar a condenação pelos honorários sucumbenciais.
+A despeito de não explicitar o referencial adotado como termo inicial de vigência da nova regra processual aludida, verifica-se que a orientação adotada é compatível com a incidência da norma processual ao tempo da sentença, ao contrário do que sustentam os recorrentes.
+Com efeito, embora a sentença tenha sido proferida em 19.4.2021 (fls. 908/911), antes da alteração promovida pela Lei 14.195/21 (com vigência em 26.8.2021); foram opostos embargos de declaração contra a referida decisão, os quais, acolhidos em 9.10.2021 (fls. 938/940), justificam a incidência do artigo 921, III, § 5º, do CPC/15, com a alteração promovida pela Lei 14.195/21, já vigente nessa época.
+Nesse caso, acolhidos os embargos de declaração, a sentença passa a ser constituída também pelo conteúdo da decisão embargada, constituindo novo provimento em 9.10.2021 (fls. 938/940), diante do efeito integrativo.
+Ademais, nada impediria que eventual equívoco em relação aos honorários sucumbenciais fosse sanado quando do julgamento dos embargos de declaração, considerada a natureza pública do tema (REsp n. 1.783.250/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2019, DJe de 6/3/2019).
+Por conta disso, deve ser aplicada a nova regra processual que excluiu a condenação de honorários ao caso, em que a sentença - considerando a integração promovida pelo julgamento dos embargos de declaração - foi proferida após a sua vigência.
+Ressalte-se que, na linha da jurisprudência consolidada no âmbito desta Corte: "A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal)." (REsp n. 2.075.761/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023.)
+Nesse mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. INVIABILIDADE. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS SUCUMBENCIAIS. SUPERVENIÊNCIA DA LEI N. 14.195/2021. NÃO INCIDÊNCIA. MARCO TEMPORAL. SENTENÇA. DECISÃO MANTIDA.
+1. Incabível o exame em agravo interno de teses não suscitadas oportunamente pela parte, que deixou escoar o prazo para as contrarrazões ao apelo especial, pois configura indevida inovação recursal.
+2. "A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal)" (REsp n. 2.060.319/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/5/2023, DJe de 11/5/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.949.186/MS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/9/2023, DJe de 21/9/2023.)
+Assim, como o provimento adotado no acórdão recorrido não destoa da jurisprudência desta Corte Superior, o recurso especial não deve ser conhecido, em razão da Súmula 83/STJ.
+Em face do exposto, não conheço do recurso especial.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação a respeito na origem, vedando-se acréscimo ulterior, conforme previsto nos §§ 2º e 11 do artigo 85 do Código de Processo Civil.
+Intimem-se.
+EMENTA
