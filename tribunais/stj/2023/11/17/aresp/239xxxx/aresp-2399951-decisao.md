@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GLOBO COMUNICAÇÃO E PARTICIPAÇÕES S.A. (GLOBO) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta (e-STJ, fls. 351/363).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial.
+O inconformismo, no entanto, não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, alegou, a par do dissídio jurisprudencial, (1) violação do art. 1.022, II do NCPC sustentando omissão e contradição no tocante à configuração dos danos morais com o excesso no exercício de liberdade de expressão; e, (2) ofensa aos arts. 187, 188 e 927, do CC, defendendo que a publicação do recorrido, em sua rede social, extrapolou os limites da crítica política e do direito à liberdade de expressão.
+(1) Da ausência de omissão ou contradição
+Não merece respaldo a assertiva de que o v. acórdão não teria se manifestado sobre os pontos suscitados, uma vez que o Tribunal local, expressamente, consignou:
+No caso, vê-se que a publicação não teve a intenção, como afirma a apelante, de disseminar o discurso de ódio com o "estímulo para a prática de ato de violência contra os repórteres da Apelante em um ambiente de propagação difusa, sem qualquer limite de alcance e destinatários", porquanto sequer consta a efetiva ocorrência da conduta incitada pelo apelado.
+Em verdade, o contexto representativo da imagem figurativa indica crítica à imprensa, cujo papel de retratar fatos públicos esbarra na contrapartida de manifestações de anônimos em suas mais variadas expressões, cabendo ao Poder Judiciário examinar a subjetividade e a extensão das ações de cada lado.
+(..)
+Na hipótese, conforme explicitado na sentença, a publicação e todos os comentários relativos a ela não tiveram a intenção de explicitar a conduta apontada pela autora, ora apelante. Não houve a comprovação de xingamentos ou ofensas pelo apelado como também a prova da efetivação do pagamento prometido, a fim de caracterizar danos moral ou institucional à apelante.
+Diante desse contexto, deve-se prestigiar o capítulo da sentença que afastou o direito a indenização por dano moral, uma vez que a divulgação ocorreu em um contexto de crítica à atuação da apelante, sem a realização de qualquer conduta lesiva contra os seus repórteres ou empregados ou prestadores de serviços, ficando suas afirmações no campo da provocação, sem efeitos concretos, insolente e sem nenhum resultado prático a justificar uma condenação por danos morais, especialmente porque sem danos aos repórteres ou mesmo potencial a causar danos, mormente diante da insignificância do número de seguidores do réu, ora apelado, frente à apelante, e de comentários e a incapacidade material de almejar o seu intento. Em outras palavras, não houve nenhuma lesão à honra, à imagem ou à liberdade profissional dos repórteres da empresa autora, ora apelante.
+(..)
+Acrescente-se que na hipótese em apreço o apelado possui pequena quantidade de seguidores - 324 visualizações - se comparado à apelante, reconhecida como veículo de notícias nacional e internacionalmente, o que destoa do poder de abalo alegado (ID 36368039).
+Logo, o evento danoso não trouxe potencialidade lesiva apta a justificar a condenação à compensação por dano moral, devendo a sentença ser conservada.
+Nesse passo, anoto que a apelante é um grande veículo de comunicação do país que, além de informar, emite pontos de vista com viés político por meio de seus comentaristas (https://g1. globo. com/globonews/jornal-das-dez/video/comentaristas-de-politica-falam-das-negociacoes-para-novos-lideres-no-congresso-4785870. ghtml) e, como evidenciado nos autos, as partes encontram-se em lados de possível conflito do espectro político-ideológico, sendo este o cenário em que o apelado veio a publicar uma postagem tecendo críticas à atuação da apelante em seu desiderato de informar, por meio de seus prepostos (repórteres).
+Assim, não restou demonstrado pela apelante que a postagem extrapolou os limites da crítica política para atingir sua esfera íntima, e não a sua atuação como veículo de comunicação.
+Repisa-se, o conteúdo do manifesto configura exercício do direito à liberdade de expressão, não se observando ofensa à honra da apelante, mas apenas apontamentos aversivos direcionados à atividade que exerce como emissora de televisão, por meio de seus jornalistas, tratando-se de atuação individual que não ultrapassou os limites do direito constitucional à livre expressão em rede social pessoal (artigos 5º, inciso IX, e 220 da CF), não havendo quebra da confiança da apelante frente ao seu público. (e-STJ, fls. 207/210).
+Desta forma, não há que se falar em negativa de prestação jurisdicional, pois o tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Assim, constata-se que não há quaisquer dos vícios elencados no art. 1.022 do NCPC.
+(2) Do revolvimento do arcabouço fático-probatório
+De outro lado, conforme bem demonstrado na decisão agravada, para se chegar à conclusão diversa da que chegou o eg. Tribunal local, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. REVELIA. EFEITOS MATERIAIS. NÃO REPRESENTA PROCEDÊNCIA DO PEDIDO DE FORMA AUTOMÁTICA. PROVAS REALIZADAS PELO RÉU. PRESUNÇÃO RELATIVA DE VERACIDADE. SÚMULA 83 DO STJ. NÃO IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 STJ. AÇÃO INDENIZATÓRIA. LIBERDADE DE EXPRESSÃO. JORNALISMO. ABUSIVIDADE. NÃO OCORRÊNCIA. SÚMULA 7 DO STJ. LEI DE IMPRENSA REVOGADA. JULGAMENTO DO STF. ADPF 130. NÃO CABE ANÁLISE. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de ação de indenização por danos morais por suposta reportagem desrespeitosa e inverídica, com alegação de intuito difamatório.
+2. Reconhecimento da revelia do réu. Presunção relativa de veracidade dos fatos, o que permite ao réu intervir no processo para requerer produção de provas. O efeito material da revelia não representa procedência ou reconhecimento do pedido.
+3. Incidência da Súmula 83/STJ. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do art. 105, III da Constituição Federal.
+4. Não houve adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula nº 83 desta Corte, cuja impugnação pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes invocados na decisão impugnada.
+5. A liberdade de informação jornalística não detém caráter absoluto, de modo a ser mitigada em certas hipóteses, quando há manifesta abusividade no direito de informar, devendo, assim, em cada caso, se harmonizar com os demais interesses envolvidos.
+6. Na origem, o Tribunal entendeu que não houve abusividade ou conexão com o nome ou família do agravante.
+7. No caso concreto, reconhecer a prática de abusividade e sua relação com supostos danos morais implicaria reanálise ao conjunto fático-probatório dos autos. Incidência da Súmula n 7/STJ.
+8. Lei n. 5.250/1967 (Lei da Imprensa) já revogada, conforme julgamento do STF (ADPF n. 130/DF, Rel. Ministro Carlos Britto, j.
+30.4.2009), por incompatibilidade com a atual Constituição. Não cabe a esta Corte analisar violação de artigos de lei já revogada, nos termos do que dispõe o art. 105, III, "a" da Constituição Federal.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.140.957/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. CHARGES. AUTORES DE DEMANDA. CARICATURAS. IMPUTAÇÃO DE PRÁTICAS CRIMINOSAS. PUBLICAÇÃO NA INTERNET. LIBERDADE DE EXPRESSÃO. OFENSA À HONRA. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA PROBATÓRIA. IMPOSSIBILIDADE. NÃO CONHECIMENTO.
+1. O propósito recursal consiste em determinar a ocorrência de danos morais eventualmente suportados pelos recorrentes, em razão da divulgação de duas charges críticas que os relacionam a um escândalo de corrupção em investigação no Estado de São Paulo.
+2. No recurso em julgamento, discute-se a existência de potencial lesivo de charges publicadas em jornal eletrônico mantido por partido político. No Tribunal de origem, apurou-se que a existência de críticas em tom "áspero, com imputações severas" em uma charge humorística não é suficiente para torna-la ilícita.
+3. O recurso em julgamento, no entanto, não implica uma simples revaloração das provas fixadas pelo acórdão recorrido, mas em verdadeira reanálise do material probatório contidos nos autos, após a instrução necessária para o julgamento pelas instâncias ordinárias. Dessa maneira, por força da Súmula 7/STJ, não se deve conhecer do presente recurso especial.
+4. Recurso especial não conhecido.
+(REsp n. 1.762.863/SP, relator Ministro Ricardo Villas Bôas Cueva, relatora para acórdão Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2019, DJe de 29/10/2019.)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável ao caso a majoração de honorários advocatícios.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. LIBERDADE DE EXPRESSÃO. VIOLAÇÃO DO ART. 1.022 DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. DANO MORAL. PRETENSÃO DE REEXAME DA CAUSA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7, DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
