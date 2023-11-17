@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 561):
+AGRAVO DE INSTRUMENTO -- CUMPRIMENTO PROVISÓRIO DE SENTENÇA COLETIVA - AUSÊNCIA DE ELEMENTOS ENSEJADORES À REFORMA DO DECIDIDO -- MANTENÇA DA DECISÃO DO JUIZO AD QUO - RECURSO CONHECIDO E IMPROVIDO.
+A tutela recursal há de ser conferida quando houver elementos que evidenciem o desacerto do provimento combatido. Ausentes tais requisitos, a mantença da decisão s. agravada é medida que se impõe. Recurso conhecido e não provido.
+Opostos embargos de declaração, foram conhecidos e parcialmente acolhidos conforme ementa abaixo transcrita (e-STJ, fl. 686):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. AUSÊNCIA DE MANIFESTAÇÃO ACERCA DA NECESSIDADE DE PRESTAÇÃO DE CAUÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO COM EFEITOS INFRIGENTES.
+1. No caso vertente, verifica-se omissão quanto ao segundo argumento, in casu, a necessidade de caução idônea pleiteado pela parte, em razão do periculum in mora, na forma do art. 520, inciso IV, do Código de Processo Civil.
+2. Tendo em vista o risco à irreversibilidade da medida ou sua dificuldade, o caso atrai a aplicação do disposto no parágrafo único do art. 521, o qual preconiza que "A exigência de caução será mantida quando da dispensa possa resultar manifesto risco de grave dano de difícil ou incerta reparação".
+3. Recurso conhecido e parcialmente provido.
+O banco recorrente interpôs novamente embargos de declaração, todavia, foram rejeitados (e-STJ, fl. 739):
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ALEGADA OMISSÃO E OBSCURIDADE. INOCORRRENCIA. REJULGAMENTO.RECURSO CONHECIDO E NÃO PROVIDO.
+1. A via dos embargos de declaração deve ser utilizada apenas para corrigir imperfeições que, porventura, possam se verificar e que torne de difícil compreensão o conteúdo do decisório, não se constituindo meio idôneo para rediscussão da matéria decidida na r. decisão, eis que não se trata de sucedâneo recursal.
+2. O acórdão embargado pronunciou-se sobre o que deveria pronunciar-se e o acerto ou desacerto do entendimento ali esposado não pode ser discutido nos estreitos limites dos embargos declaratórios, mesmo porque os embargos de declaração têm pressupostos certos, não se prestando a corrigir "error in judicando".
+3. Não havendo omissão, contradição e obscuridade apontadas pelo embargante, restando claro que o inconformismo se refere à fundamentação da decisão que não lhe foi favorável, deve-se negar provimento aos embargos
+4. Embargos declaratórios conhecidos e não providos.
+Após a interposição de novos embargos de declaração foi aplicada multa ao banco embargante conforme a seguinte ementa (e-STJ, fl. 820):
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO, OMISSÃO INEXISTENTE - MATÉRIA NÃO VENTILADA NAS RAZÕES RECURSAIS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. EMBARGOS DESPROVIDOS.
+1 Os embargos de declaração devem atender aos requisitos legais para suprir omissão, contradição ou obscuridade do julgado. Desatendidos os requisitos legais os aclaratórios não são acolhidos.
+2. Inviável a apreciação de matéria que não foi alegada, pois à parte é vedado inovar pedido quando da oposição de embargos de declaração.
+3. A mera menção, nas razões dos Embargos, de dispositivos constitucionais e legais, per si, já resulta no pré-questionamento da matéria, com a consequente inclusão no Acórdão.
+4. Vilumbrado eminentemente protelatório da presente irresignação, com base no art. 1.026, § 2º, do NCPC, deve o embargant.e ao pagamento de multa.
+5. Recurso conhecido e desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 5º, LV, 93, IX, da Constituição Federal; aos arts. 281, 282, 489, II, § 1º, IV, 966,1.022 do Código de Processo Civil.
+Defende a suspensão do feito até o julgamento do Tema 1169 do STJ, no qual se discute sobre a necessidade de prévia liquidação do julgado para o cumprimento de sentença condenatória genérica advinda de julgamento de ação coletiva.
+Sustenta que houve negativa de prestação jurisdicional.
+Afirma que deve ser reconhecida nulidade absoluta em razão da ausência de intimação do recorrente da decisão que não acolheu sua impugnação ao cumprimento de sentença.
+Alega que "a ausência da INTIMAÇÃO do Banco com relação ao inteiro teor da Decisão proferida no Evento 29 implica no cerceamento de sua defesa, acarretando a NULIDADE absoluta de todos os atos praticados após referido Evento, podendo ser arguida em qualquer fase ou grau de jurisdição (fl.851)".
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Trata-se de agravo de instrumento interposto pelo Banco do Brasil, nos autos da ação de cumprimento provisório de sentença, no qual alega nulidade absoluta em razão da ausência de intimação da decisão do juiz que reconheceu a intempestividade da impugnação à liquidação provisória de sentença apresentada pelo banco e determinou a intimação da exequente para apresentar o cálculo atualizado.
+A Corte local, ao analisar o recurso do banco, consignou que, apesar da ausência de intimação do recorrente acerca da decisão que intimou a parte exequente para apresentar o cálculo atualizado do débito, o banco foi intimado para manifestar-se, após a atualização desse cálculo pelo COJUN, de forma que não houve qualquer prejuízo processual para concessão da liminar requerida. Confira-se a fundamentação do julgado (e-STJ, fls.553/554):
+Tem-se que o presente agravo interposto preenche os requisitos da admissibilidade recursal, uma vez que é próprio tempestivo.
+Pois bem, tenho não assistir razão ao agravante, eis que apesar do recorrente não ter sido intimado da decisão que intimou a parte exequente para apresentar o cálculo atualizado do débito, foi intimado para manifestar-se, sobre os mesmos, após a atualização desse cálculo pelo COJUN, não restando assim configurado qualquer prejuízo processual a ensejar a concessão da medida nos moldes perseguidos.
+Nesse sentido:
+PROCESSUAL CIVIL - ALEGAÇÕES FINAIS - AUSÊNCIA DE INTIMAÇÃO - PREJUÍZO NÃO DEMONSTRADO - PAS DE NULLITÉ SANS GRIEF Tratando-se de nulidade processual, é necessário verificar a existência de prejuízo às partes, sob pena de alongar-se inutilmente a demanda em detrimento da efetiva entrega jurisdicional. "A ausência de oportunidade para apresentação de memoriais (art. 454, § 3º, do CPC) somente acarreta a nulidade da sentença quando for demonstrada a ocorrência de prejuízo ao interessado" (REsp n. 819.024/SP, Min. Teori Albino Zavascki). (TJ-SC - AC: 03012651220148240007 Biguaçu 0301265-12.2014.8.24.0007, Relator: Luiz Cézar Medeiros, Data de Julgamento: 10/10/2016, Quinta Câmara de Direito Civil).
+Sendo assim, nota-se que na hipótese dos autos, o magistrado de primeiro grau proferiu a decisão segundo o seu bom senso, prudente arbítrio e com lastro em precedentes deste Tribunal, devendo assim, tal pronunciamento jurisdicional ser mantido por este egrégio Tribunal.
+Isto porque, em regra, somente em casos de teratologia evidente se justifica a atuação positiva do relator em sede de recurso de agravo de instrumento, sob pena de ocasionar inversões tumultuárias e indevidas na demanda originária, hipótese que, conforme acima externado, não se evidencia na espécie.
+Nesse sentido:
+AGRAVO DE INSTRUMETNO - AÇÃO OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MATERIAIS E MORAIS. TUTELA DE URGÊNCIA INDEFERIDA. AUSÊNCIA DOS REQUISITOS ENSEJADORES À CONCESSÃO DA MEDIDA LIMINAR. Omissis. Tendo o magistrado de primeiro grau proferido a decisão segundo o seu bom senso, prudente arbítrio e o seu poder geral de cautela, indeferindo a tutela de urgência pleiteada, ela deve ser mantida por este egrégio Tribunal, pois somente cabe a sua reforma em caso de notório dissenso entre a decisão e os elementos probatórios constantes dos autos e quando verificada abusividade, teratologia ou ilegalidade, o que não é a hipótese dos autos. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+(TJ-GO - AI: 04274666020188090000, Relator: FÁBIO CRISTÓVÃO DE CAMPOS FARIA, Data de Julgamento: 17/05/2019, 3ª Câmara Cível, Data de Publicação: DJ de 17/05/2019).
+Por todo o exposto, voto no sentido de conhecer do presente para negar-lhe provimento.
+Quanto ao pedido de suspensão do feito, verifico que não merece acolhimento, uma vez que, no julgamento do recurso interposto pelo banco, não houve qualquer discussão sobre a necessidade de liquidação prévia do julgado como requisito indispensável para o ajuizamento de ação objetivando o cumprimento de sentença condenatória genérica proferida em demanda coletiva.
+No tocante à alegada ofensa aos arts. 5º, LV, 93, IX, da Constituição Federal, registro que a violação a dispositivos da Constituição Federal não merece conhecimento em sede de recurso especial, sob pena de usurpação da competência do STF, sendo apropriada a via do recurso extraordinário
+No que tange à tese de violação ao art. 1.022 do Código de Processo Civil, não observo omissão ou obscuridade no acórdão estadual, senão julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Ressalto que o julgador não está obrigado a responder a todos os questionamentos das partes, todavia, deve resolver o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, o que ocorreu no presente caso.
+Outrossim, da leitura das razões apresentadas no recurso especial, observo que não foi impugnado o fundamento apto a manter a conclusão do acórdão de que o banco recorrido "foi intimado para manifestar-se, sobre os mesmos, após a atualização desse cálculo pelo COJUN, não restando assim configurado qualquer prejuízo processual a ensejar a concessão da medida nos moldes perseguidos", razão pela qual incide, portanto, o óbice da Súmula 283/STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA E CONDENATÓRIA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO (SÚMULAS 283 E 284 DO STF). CEF. LEGITIMIDADE PASSIVA. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do STF.
+(..)
+4. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.042.981/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 23/5/2022, DJe de 23/6/2022.)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
