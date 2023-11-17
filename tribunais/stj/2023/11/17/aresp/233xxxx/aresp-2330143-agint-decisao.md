@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE MINAS GERAIS para desafiar decisão de minha lavra, proferida às e-STJ fls. 906/908, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, com base na incidência da Súmula 284 do STF (arts. 489, 1.022 e 926 do CPC/2015).
+No presente agravo interno, a parte agravante sustenta que subsiste a negativa de prestação jurisdicional, bem como que não incide no caso a Súmula 284 do STF.
+Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Sem impugnação.
+Passo a decidir.
+Da análise dos autos, verifica-se que assiste razão, em parte, ao agravante, tendo em vista que a Primeira Turma, no julgamento do AgInt no AREsp n. 1.935.622/SP (relatora para acórdão Ministra Regina Helena Costa, Primeira Turma, julgado em 05/09/2023, DJe de 21/0 9/2023) entendeu pela "superação do óbice contido na Súmula n. 284/STF, mitigado o rigor processual e assentada a cognoscibilidade do Recurso Especial quando a alegação de violação ao art. 1.022 do CPC/2015 vier desacompanhada da indicação do(s) inciso(s) correspondente(s), desde que, inequivocamente demonstrado, nas razões recursais, de qual(ais) vício(s) integrativo(s) padeceria o provimento jurisdicional recorrido e sua importância para a solução da controvérsia".
+Desse modo, reconsidero a decisão anteriormente proferida e passo a nova análise do agravo em recurso especial.
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS contra decisão do TRIBUNAL DE JUSTIÇA local, que não admitiu recurso especial. fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 722):
+REMESSA NECESSÁRIA - APELAÇÃO CÍVEL - ENSINO BÁSICO E FUNDAMENTAL - EDUCAÇÃO FÍSICA - DISCIPLINA CURRICULAR - EXERCÍCIO POR PROFISSIONAL COM REGISTRO - LEI FEDERAL - LDB - LEI ESPECIAL E LEI GERAL - PREVALÊNCIA - HIERARQUIA DAS LEIS - RESOLUÇÃO - LIMITES.
+- A disciplina da Educação Física é inserida no currículo escolar do ensino básico e nos primeiros anos do fundamental. Seu exercício é autorizado aos profissionais regularmente registrados nos Conselhos, conforme Lei Federal especial que prevalece sobre Lei Federal de caráter geral como a LDB.
+Embargos de declaração parcialmente acolhidos, sem efeitos infringentes (e-STJ fls. 757/763).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 489, 926 e 1.022 do CPC/2015, por negativa de prestação jurisdicional e por ofensa do princípio da efetividade.
+Contrarrazões às e-STJ fls. 819/828.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da aludida decisão atacados no recurso ora em exame.
+O parecer ministerial, às e-STJ fls. 902/904, opina pelo desprovimento do recurso.
+Em relação à alegada ofensa dos arts. 489 e 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos:
+Acórdão recorrido (e-STJ fls. 726/734)
+Ausência de Regularidade Formal
+De início, suscito a preliminar de ausência de regularidade formal do recurso.
+O Apelante em suas razões de recurso invoca as preliminares da ilegitimidade ativa e do litisconsórcio necessário sem considerar a fundamentação lançada pelo Magistrado na sentença recorrida.
+Na contestação apresentada (fls. 186/208), o Apelante arguiu referidas preliminares, cujos argumentos se repetiram no recurso, embora o Magistrado os tenha analisado e rejeitados sob os argumentos que seguem transcritos abaixo:
+Contudo, evidencia-se que, ao conferir ao sindicato a possibilidade de representatividade, os filiados transferiram ao autor a possibilidade de que esse defenda seus interesses, de modo que demonstra-se irrazoável, ferindo princípios da economia e celeridade processual, que todos os filiados sejam intimados para que seja conferido o cumprimento do dever do autor de suas respectivas representações.
+Desse modo, eventual ausência de representação aos interesses, caberá aos filiados, pelas vias próprias, reivindicar eventuais danos ocasionados pelo ajuizamento da ação pelo sindicato.
+O réu alega, ainda, o litisconsorte necessário, tendo em vista que, tratando-se de interesse da classe dos professores, há demais entidades representativas e, ainda, profissionais não filiados.
+No entanto, ressalte-se que também caberá aos eventuais profissionais não representados no feito o ajuizamento por ação própria em desfavor do autor por eventual prejuízo causado pelo presente feito, de modo que ao questionar o artigo de uma lei que submete toda uma classe, irrazoável que todos os atingidos integrem a demanda. (fis. 5761576-v)."
+Apuro que a sentença proferida rejeitou as preliminares sob o fundamento da violação aos princípios da celeridade e economia processual diante da pretensão de intimação de todos os profissionais e entidades civis de representação da classe de professores, indicando ações próprias individuais para garantir eventuais danos decorrentes dessa ação coletiva.
+Ressalvo que o Magistrado reiterou o termo "eventuais danos" em razão do desconhecimento da ocorrência deles diante do julgamento feito, assentando-se a questão no universo da probabilidade.
+Embora lançadas essas argumentações como fundamento da rejeição das preliminares, o Apelante não as impugnou especificadamente, preferindo repetir as alegações anteriores, cuja pertinência já foi analisada pelo juízo da causa. (Grifos acrescidos).
+Embargos de declaração (e-STJ fls. 759/763):
+Quanto ao não conhecimento das preliminares arguidas - litisconsórcio e ilegitimidade do Sindicato - apuro que, embora o Embargante tenha mencionado a sentença nas suas razões de recurso de apelação não atacou os fundamentos nela inseridos. Explico.
+O Magistrado invocou a representatividade do Sindicato e à conduta irrazoável de se exigir de cada um dos sindicalizados, autorização para exercer sua função, o que é contrário aos princípios da economia e celeridade processuais. Entregou ainda a solução para a questão, considerando que aos filiados caberia reivindicar eventuais danos decorrentes da ação coletiva proposta pelo Sindicato.
+Nenhum desses argumentos foi rebatido pelo Embargante que se fixou na demonstração da existência de conflito de interesses entre professores regentes e graduados em educação física.
+Da mesma forma ocorreu com a preliminar de litisconsórcio sobre a qual o Magistrado ponderou que caberia aos profissionais da educação búscarem, em ação própria, eventual prejuízo decorrente da ação proposta pelo Sindicato. A possibilidade da ação individual resguardaria o direito subjetivo do professor regente, caso houvesse dano em razão da sentença proferida.
+O argumento não foi rebatido nas razões de recurso que repetiu a alegação do alijamento de parte dos servidores filiados e, consequentemente, violação ao princípio do contraditório.
+Desse modo demonstra-se que a decisão não foi omissa quando não conheceu das preliminares.
+Não obstante os esclarecimentos é relevante destacar que o art. 80, III, da CR/88 estabelece que cabe ao sindicato a defesa em juízo de direitos coletivos ou individuais da categoria representada, sem a necessidade de prévia autorização, afastando o argumento da exigência da anuência de todos para a propositura da ação coletiva.
+A entidade sindical está autorizada á representar seus filiados coletivamente, individualmente ou ainda parcialmente comõ o próprio Embargante ponderou em suas razões de apelação quando citou o art. 5º, LXX, "b", da CF/88 e a Súmula 630 do STF. O texto da Súmula e do dispositivo constitucional não vincula a legitimidade do sindicato na defesa do direito de uma parte dos filiados à concordância dos demais.
+Quanto ao litisconsórcio arguido adiro à fundamentação do Magistrado no sentido de que eventuais prejuízos decorrentes da ação coletiva intentada pelo Sindicato devam ser discutidos em ação própria, vez que não se sabe se esses danos ocorrerão e, em ocorrendo, se terão a mesma extensão para todos os professores
+regentes.
+De forma alguma o contraditório foi violado, vez que as discordâncias, em existindo, podem ser discutidas em ação individual, na qual deverá ser comprovado o direito subjetivo e o dano decorrente da decisão proferida.
+Outrossim, a discussão não passa pela verificação de danos aos professores regentes e graduados em Educação Física, mas pela aplicação de leis federal e estadual em detrimento de resolução.
+Quanto à omissão sobre a violação ao princípio da isonomia, apuro que o acórdão foi silente quanto ao argumento, razão pela qual o retifico, manifestando sobre a questão.
+Importa mencionar que o dispositivo da sentença não limita sua eficácia aos filiados ao sindicato autor da ação. E assim não poderia, considerando que o STJ tem entendimento firmado no sentido de que a decisão em ação coletiva recai sobre a categoria profissional e não aos filiados:
+ ..
+Desta feita, acolho, em parte, os embargos de declaração, sem efeitos infringentes.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado.
+Assim, não há que falar em ofensa aos dispositivos invocados.
+Ademais, observa-se que o art. 926 do CPC/2015 não possui comando normativo suficiente para embasar a pretensão recursal, tampouco para infirmar o fundamento adotado no acórdão recorrido, circunstância que atrai, por analogia, a aplicação da Súmula 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PEÇA OBRIGATÓRIA NO AGRAVO DE INSTRUMENTO. FUNDAMENTO IMPUGNADO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 282/STF EM SUBSTITUIÇÃO À SÚMULA N. 283/STF. EXECUÇÃO PROVISÓRIA DE MANDADO DE SEGURANÇA. POSSIBILIDADE. SÚMULA 83/STJ. INCIDÊNCIA. LEVANTAMENTO DOS VALORES. CONFIRMAÇÃO DA SENTENÇA CONCESSIVA DA SEGURANÇA. TRÂNSITO EM JULGADO ANTES DO EXAURIMENTO DA PRESTAÇÃO JURISDICIONAL NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. DESNECESSIDADE DE LIQUIDAÇÃO. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+VI - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+VII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+ ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.290.187/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 11/09/2017).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 906/908 e, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+EMENTA
