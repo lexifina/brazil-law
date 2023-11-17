@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por ALINE PEREIRA SIMIONATO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - BLOQUEIO DE VALORES - Pedido de expediçãode ofício para indicar natureza da conta (poupança ou conta salário) que teve seus valores bloqueados - Impossibilidade - Descabimento - Artigo 854, § 3º, inciso I, do CPC - Ônus da parte devedora que teve sua conta bloqueada - Decisão mantida - Recurso improvido" (fls. 311 e-STJ).
+Os embargos de declaração opostos foram acolhidos com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO- AFIRMAÇÃO DE OMISSÃO - Inexistência - Temas analisados no Acórdão - Pretensão de alteração do julgamento - Caráter infringente - Prequestionamento - Parte dispositiva - Vicio sanado - Embargos acolhidos em parte sem alteração do julgado" (fls. 336 e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 139, 300, 839, 840 e 1.022 do Código de Processo Civil e 6º da Lei de Introdução às Normas de Direito Brasileiro, com as respectivas teses:
+(i) o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) devem ser autorizadas as medidas restritivas aptas a satisfazer o crédito em discussão.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No que concerne às medidas restritivas, o Tribunal de origem, à luz da prova dos autos, indeferiu o pedido, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+Cuida-se de ação em fase de cumprimento de sentença em que a agravante busca a satisfação de seu crédito e, para tanto, efetuou pedido de restrição de indisponibilidade e circulação dos bens enumerados, pedido este indeferido nos seguintes termos:
+"(..) 2 - Consigno que não há razão para ser deferido o bloqueio de circulação dos veículos indicados por tratar-se de medida excepcional que não se amolda ao caso concreto, sendo a anotação de bloqueio suficiente para evitar a dilapidação do patrimônio. Ademais, o recolhimento do veículo ao pátio do Detran diante da determinação da restrição de circulação implicará na depreciação do bem, além de dar origem a despesas adicionais, o que vai de encontro ao interesse das partes e da própria execução. Neste sentido:(..) 3 - Igualmente, não há razão para anotação da indisponibilidade do imóvel, uma vez que não cuida-se de execução fiscal ou ação civil pública, nas quais a anotação de indisponibilidade de bens é permitida, sendo a medida desproporcional ao caso em análise. (..).". g. n.
+Em seguida foram opostos Embargos de Declaração que foram rejeitados:
+"(..)No caso concreto o embargante não inovou em suas razões. Conforme já fundamentado, não há razão para ser deferido o bloqueio de circulação dos veículos indicados por tratar-se de medida excepcional que não se amolda ao caso concreto, sendo a anotação de bloqueio suficiente para evitar a dilapidação do patrimônio. Outrossim, não há razão para o depósito dos veículos que porventura sejam localizados, eis que a o item "1" da decisão de fls. 690/691 já deferiu a expedição de mandado de penhora e avaliação dos veículos que foram indicados, bem como, o cumprimento do quanto determinado no item "1" da decisão de fls. 657/658, expedindo-se mandado de intimação do adquirente para que, querendo, apresente embargos de terceiro, nos termos do art. 792, §4º do CPC. Por fim, não há razão para decretação de indisponibilidade do imóvel porque a medida é excepcional e no caso vertente ainda há mandados de penhora a serem expedidos. Nesta senda já manifestou o Egrégio Tribunal de Justiça: (..) Diante do exposto, REJEITO os embargos de declaração, mantendo a decisão tal como lançada nos autos.". g. n.
+A crítica não deve ser aceita, pois correta a decisão.
+Conforme ponderou a MMª Magistradaa quo, trata-se de medidas excepcionais que trazem maior despesa caso concretizadas e que vão de encontro com o objetivo da ação, devendo ser admitidas nas hipóteses em que houver fundado risco, o que não é o caso" (fls. 312/313 e-STJ - grifos no original).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na hipótese, não cabe a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil, pois o recurso tem origem em decisão interlocutória, sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
+EMENTA
