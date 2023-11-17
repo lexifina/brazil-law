@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS ANTONIO LARANJEIRA (fls 759-766 e-STJ) contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO MONITÓRIA. Cobrança de valor devido por debêntures. Falência da devedora principal que não implica antecipação do vencimento em relação aos fiadores devedores solidários solventes (art. 333, par. ún., Código civil). Prescrição não operada. Concomitância da habilitação do crédito na falência e da ação de co brança contra os coobrigados. Possibilidade. Fato que não implica cobrança em duplicidade, ficando o credor apenas obrigado a cuidar para, recebendo qualquer valor em qualquer das ações, comunicar nos autos da outra tal recebimento. Recurso provido.
+A decretação da falência do devedor principal acarreta apenas o vencimento antecipado de todas as suas dívidas, mas não Implica também a antecipação do vencimento relativamente a outros coobrigados, mormente se houver solidariedade passiva, porque em tal caso o débito não se reputará vencido quanto aos outros devedores solventes" (fls. 569 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 604-612 e-STJ).
+No recurso especial (fls. 615-623 e-STJ), o recorrente aponta violação do art. 77 da Lei nº 11.101/2005 aduzindo que a decretação da falência determina a antecipação das dívidas do devedor e dos sócios ilimitado e solidariamente responsáveis.
+Afirma, ainda, que
+"(..) os credores, com a decretação da quebra, têm a pretensão a poder exigir os seus créditos, que são exigíveis por inteiro, devendo declará-los no concurso falimentar.
+(..)
+O tratamento igualitário dos credores (par condictio creditorum) impõe que todos os credores, mesmo os titulares de créditos não vencidos, possam comparecer desde logo, atuando em defesa de seus interesses.
+O artigo 77 da Lei 11.101/2005 é claro quando estipula que a sentença falimentar produz o vencimento antecipado das dívidas não apenas à empresa falida como dos sócios solidários.
+A questão está toda centrada na interpretação do já supratranscrito caput do artigo 64 da Lei 11.101/05, que deve ser feita levando em consideração a lei como um todo.
+Necessário considerar que, nos casos em que o sócio é avalista da empresa, tem responsabilidade solidária à dela, o que faz com que seja de fato cabível considerá-lo sócio solidário.
+A Lei de Recuperação Judicial e Falência também aponta para este ponto de vista, uma vez que a recuperação das empresas deve beneficiar todos os envolvidos ( trabalhadores, credores, fornecedores, etc), mas também os próprios sócios da empresa, que se obrigaram solidariamente à empresa para obter capital para o crescimento desta.
+O maior argumento usado para não permitir a suspensão dos processos movidos contra os sócios avalistas é a redação do artigo 49, parágrafo 1º, da mesma lei: "Art. 49. Estão sujeitos à recuperação judicial todos os créditos existentes no data do pedido, ainda que não vencidos. §1º. Os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso."
+Entretanto, o problema para tal entendimento é a consequência absurda a que este leva já que se os processos tramitam normalmente em face dos sócios avalistas das empresas mas são suspensos em relação à pessoa jurídica apenas, os sócios passam a ter mais responsabilidade pelo empréstimo do que a própria empresa.
+Assim, na prática os sócios não optarão pela recuperação judicial, pois caso optem, responderão pelos débitos, bem como, deixarão de serem avalistas, o que poderá levar a descapitalização de muitas empresas que não têm outro modo de garantir suas dívidas" (fls. 619-620 e-STJ).
+Apresentadas as contrarrazões (fls. 685-706 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, a deficiência na fundamentação recursal ficou evidenciada, visto que a parte recorrente, apesar de indicar o art. 77 da Lei nº 11.101/2005 como malferido, não especificou de que forma ele teria sido contrariados pelo acórdão recorrido, inviabilizando a compreensão da controvérsia posta nos autos.
+Assim, incide, por analogia, a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA. INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. INICIAL. ANÁLISE. SÚMULA Nº 83/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULAS NºS 283 E 284/STF. ART. 1.021, § 4º, CPC/2015. MULTA NÃO AUTOMÁTICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, as condições da ação, aí incluída a legitimidade, devem ser aferidas com base na teoria da asserção, isto é, à luz das afirmações deduzidas na petição inicial. Súmula nº 83/STJ.
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+4. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Na hipótese, apesar de apontar o malferimento à legislação federal, o apelo extremo foi incapaz de evidenciar as ofensas aos dispositivos legais invocados. Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+6. A Segunda Seção decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno. Precedente.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.818.651/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/2/2022, DJe de 22/2/2022 - grifou-se)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RENOVATÓRIA DE ALUGUEL. OMISSÃO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 2º, DO CPC. PROVEITO ECONÔMICO. PARCIAL PROVIMENTO.
+1. O Tribunal de origem dirimiu fundamentadamente a controvérsia, sem incorrer em omissão, obscuridade, contradição ou erro material.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula n. 211 do STJ.
+3. É deficiente a argumentação do recurso especial que se sustenta em dispositivo de lei que não contém comando normativo capaz de infirmar os fundamentos do acórdão recorrido. Incidência da Súmula n. 284 do STF.
+4. A Corte Especial, no julgamento do Tema Repetitivo 1076 (relator Ministro Og Fernandes, DJe de 31/5/2022), firmou entendimento no sentido de que "apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo", hipóteses que não se configuram na espécie.
+5. A verba honorária referente a ação renovatória de aluguel julgada parcialmente procedente deve incidir sobre a diferença entre o valor do aluguel na data da citação e o novo valor fixado na sentença, quantia a ser multiplicada pelo período de vigência da renovação da locação, pois esse montante reflete objetivamente o proveito econômico obtido pela parte.
+6. Agravo interno parcialmente provido."
+(AgInt no AREsp 2.103.614/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/12/2022, DJe de 16/12/2022 - grifou-se)
+Por outro lado, observa-se que o acórdão estadual ao dirimir a controvérsia, fundamentou que na recuperação judicial ou na falência "(..) os credores do devedor conservam seus direitos e privilégios contra os coobrigados, fiadores e coobrigados de regresso sujeitos à recuperação" (fl. 571, e-STJ).
+Confira a passagem do acórdão recorrido:
+"(..) Segundo se observa dos autos, a recorrente busca a cobrança pela via monitória do instrumento intitulado "Escritura de emissão de debêntures conversíveis em ações preferenciais de classe B", com vencimento final em 15.04.2006, no valor de R$ 6.683.279,51, manejada contra os fiadores e devedores" solidários de sociedade empresária , que teve sua falência decretada em 04.05.2005 (fls. 313).
+E isso é perfeitamente possível, mesmo tendo a autora já promovido a habilitação do crédito na falência, porque é da lei que estão sujeitos à recuperação judicial ou à falência todos os créditos do falido, mas os credores do devedor (..) conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso (art. 49, § 1º, Lei nº 11.101/2005).
+(..)
+No caso, como está patente nos autos, há solidariedade passiva, porque os réus assinaram como fiadores devedores solidários e principais pagadores. Veja-se a cláusula quarta da Escritura de Emissão de Debêntures (fls. 65)" (fls. 571-572 e-STJ).
+Nos embargos de declaração opostos, o Tribunal acrescentou:
+"(..)
+Sobre o fato de o avalista também ser sócio da falida, já decidiu o E. Superior Tribunal de Justiça : "Mesmo na hipótese do avalista ser também sócio da empresa avalizada, para que se possa falar em suspensão da execução contra o sócio-avalista, tendo por fundamento a quebra da empresa avalizada, é indispensável, nos termos do art. 24 do DL 7.661/45, que se trate de sócio solidário da sociedade falida . Recurso especial a que se nega provimento ". (REsp 883.859/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/03/2009, DJe 23/03/2009).
+Isto é, a execução somente seria suspensa se o sócio respondesse ilimitadamente pelo passivo da empresa , o que não é o caso (fl. 612 e-STJ).
+Nesse aspecto, observa-se que o entendimento do acórdão recorrido está em sintonia com a jurisprudência desta Corte, firmada em recurso representativo da controvérsia (RESp nº 1.333.349/SP - Tema 885/STJ), da relatoria do Ministro Luis Felipe Salomão, sob a sistemática dos recursos repetitivos no sentido de que os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso, à exceção dos sócios com responsabilidade ilimitada e solidária.
+Confira a ementa do julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N. 8/2008. DIREITO EMPRESARIAL E CIVIL. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO E CONCESSÃO. GARANTIAS PRESTADAS POR TERCEIROS. MANUTENÇÃO. SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA DEVEDORES SOLIDÁRIOS E COOBRIGADOS EM GERAL. IMPOSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 6º, CAPUT, 49, § 1º, 52, INCISO III, E 59, CAPUT, DA LEI N. 11.101/2005. 1. Para efeitos do art. 543-C do CPC:
+"A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+2. Recurso especial não provido" (REsp nº 1.333.349/SP, Rel. Ministro Luis Felipe Salomão, DJe de 2/2/2015).
+Nesse mesmo sentido:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL E EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO JUDICIAL. NOVAÇÃO. INCLUSÃO AUTOMÁTICO DOS ACESSÓRIOS. IMPOSSIBILIDADE. DISPOSIÇÃO LEGAL EXPRESSA. ART. 49, § 1º, DA LEI 11.101/05. ART. 835 DO CPC. ORDEM DA PENHORA. POSSÍVEL DESRESPEITO. EXPRESSA MENÇÃO À TENTATIVA FRUSTRADA DE EXECUÇÃO DO VALOR EM DINHEIRO. REVISÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7/STJ. ART. 833, X, DO CPC. IMPENHORABILIDADE DO VALOR EQUIVALENTE A 40 SALÁRIOS MÍNIMOS. PRESSUPOSTA A IMPOSSIBILIDADE DE ESTENDER A IMPENHORABILIDADE A OUTROS INVESTIMENTOS. PECULIARIDADES DO CASO CONCRETO. AUSÊNCIA DE PREQUESTIONAMENTO SOBRE A SITUAÇÃO EXCEPCIONAL CONSIDERADA. SÚMULAS 282 E 356/STF. REVISÃO DE FATOS E PROVAS. SÚMULA 7/STJ. EXCESSO DE EXECUÇÃO. BEM SUPOSTAMENTE FORA DO PATRIMÔNIO DO EXECUTADO. AUSÊNCIA DE LEGITIMIDADE PARA DEFENDER DIREITO DE TERCEIRO. TESE AUTÔNOMA, E NÃO CONTRADITADA. SÚMULA 283/STF. ART. 836 DO CPC. VALOR DIMINUTO DA PENHORA EM RELAÇÃO AO MONTANTE DA DÍVIDA. INVIABILIDADE DO PARÂMETRO PRETENDIDO. DESPROPORÇÃO QUE DEVE SER AVALIADA COM ENFOQUE NOS CUSTOS DA EXECUÇÃO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005.
+2. (..)
+3. (..)
+4. (..)
+7. (..)
+8. Agravo interno não provido" (AgInt no REsp 1.959.668/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/12/2021, DJe 01/02/2022).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Nos termos do precedente fixado pela Segunda Seção do STJ, no julgamento do REsp 1.794.209/SP, o plano de recuperação judicial opera novação das dívidas a ele submetidas, mas as garantias reais ou fidejussórias, em regra, são preservadas, podendo o credor exercer seus direitos contra terceiros garantidores, e impõe a manutenção das ações e execuções aforadas contra fiadores, avalistas ou coobrigados em geral. Aplicação das Súmulas 83 e 581 do STJ.
+2. Agravo interno desprovido" (AgInt no REsp 1.873.579/RS, Rel. Ministro MARCO BUZZI, TERCEIRA TURMA, DJe 16/6/2021).
+Portanto, o entendimento do acórdão atacado encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça o que que faz atrair, nesse ponto, o óbice da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da dívida , os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
