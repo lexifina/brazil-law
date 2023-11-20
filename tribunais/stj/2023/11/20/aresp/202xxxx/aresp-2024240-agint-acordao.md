@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL UNILATERAL. INDENIZAÇÃO. LUCROS CESSANTES. IMPOSSIBILIDADE. AUSÊNCIA DE COM PROVAÇÃO DOS PREJUÍZOS. SÚMULAS 5 E 7 DO STJ. PROVIMENTO NEGADO.
+1. A mera rescisão contratual unilateral, realizada pela Administração, sem a escorreita comprovação dos prejuízos advindos do distrato, não enseja a pretensão indenizatória perseguida.
+2. Rever as conclusões do acórdão recorrido de que a parte não se desincumbiu do ônus probatório esbarra no óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por MÚLTIPLA ENGENHARIA LTDA contra decisão da Presidência do Superior Tribunal de Justiça, de fls. 769/772, que não conheceu do recurso especial com esteio nas Súmulas 5 e 7 do STJ.
+Contra essa decisão foram interpostos embargos de declaração, os quais foram rejeitados (fls. 784/785).
+A agravante alega, em síntese, que o acórdão recorrido incorreu em erro ao não reconhecer o direito à indenização em lucros cessantes, oriunda de rescisão contratual unilateral realizada pela Administração, nos moldes do art. 79, § 2º, da Lei 8.666/1993.
+Sem impugnação conforme certidão de fl. 797.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL UNILATERAL. INDENIZAÇÃO. LUCROS CESSANTES. IMPOSSIBILIDADE. AUSÊNCIA DE COM PROVAÇÃO DOS PREJUÍZOS. SÚMULAS 5 E 7 DO STJ. PROVIMENTO NEGADO.
+1. A mera rescisão contratual unilateral, realizada pela Administração, sem a escorreita comprovação dos prejuízos advindos do distrato, não enseja a pretensão indenizatória perseguida.
+2. Rever as conclusões do acórdão recorrido de que a parte não se desincumbiu do ônus probatório esbarra no óbice das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as razões delineadas pela parte agravante, razão não lhe assiste.
+O fato incontroverso da rescisão contratual por iniciativa da Administração, sem culpa da empresa contratada, não suscita, automaticamente, o direito indenizatório pretendido. Para essa concretização, seria necessário haver a adequada comprovação perante as instâncias anteriores acerca do prejuízo advindo da medida adotada pela ora agravada.
+Da leitura do acórdão em epígrafe, não se vislumbra a ocorrência de comprovação idônea de fatos que ensejariam uma pretensão indenizatória, ao revés, o decisum expressamente destaca que não houve o cumprimento do ônus pela agravante, senão vejamos:
+"Destarte, para a efetiva condenação da Administração Pública por enriquecimento ilícito caberia a demonstração cabal e detalhada de todos os serviços realizados e de que eram, de fato, essenciais à conclusão da obra.
+Registre-se que as alegações da empresa-autora não tiveram fundamento, pois, não descreveu com detalhes e especificações, nem tampouco comprovou efetivamente os serviços realizados, sequer juntando notas fiscais, o que enfraquece o ônus probatório da demandante.
+De fato, era ônus da empresa-autora comprovar, nos termos do art. 373, I, do CPC/2015, eventual enriquecimento ilícito da COHAB-ré, que, frise-se, não pode ser presumido" (fl. 670).
+O Superior Tribunal de Justiça repisa a imprescindibilidade da comprovação dos prejuízos provenientes da rescisão unilateral, cuja ausência obriga esta Corte a reexaminar o conjunto fático-probatório, e das cláusulas contratuais da avença, atraindo a incidência das Súmulas 5 e 7 do STJ, in verbis:
+ADMINISTRATIVO E PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. RESCISÃO UNILATERAL PELA ADMINISTRAÇÃO. AUSÊNCIA DE MOTIVAÇÃO. CULPA DA EMPRESA CONTRATADA. NÃO COMPROVAÇÃO. DEMONSTRAÇÃO DO PREJUÍZO. INEXISTÊNCIA. SÚMULAS 5 E 7/STJ.
+Trata-se, na origem, de Ação Indenizatória proposta pela parte recorrente em que requer o pagamento de valores relacionados à rescisão unilateral de contrato administrativo de prestação de serviços de impressão e reprografia que se realizou de forma antecipada, sem a anuência da empresa recorrente.
+Pela leitura do Acórdão do Tribunal de origem verifica-se que a rescisão unilateral do contrato administrativo ocorreu sem a devida motivação pela Administração, afastando o julgado o dever de indenizar em razão de não ter a parte recorrente comprovado nos autos os prejuízos decorrentes do término do vínculo contratual.
+O art. 79 da Lei 8.666/1993 autoriza a rescisão por ato unilateral e escrito da Administração, nos casos enumerados nos incisos I a XII e XVII do art. 78, ressalvando que "Quando a rescisão ocorrer com base nos incisos XII a XVII do artigo anterior, sem que haja culpa do contratado, será este ressarcido dos prejuízos regularmente comprovados que houver sofrido, tendo ainda direito a: I - devolução de garantia; II - pagamentos devidos pela execução do contrato até a data da rescisão; III - pagamento do custo da desmobilização".
+Pela transcrição fática constante no Acórdão recorrido, a recorrida realizou a notificação da parte recorrente exteriorizando sua intenção de rescindir o contrato administrativo.
+A jurisprudência do STJ reconhece o direito à indenização quando comprovados os prejuízos decorrentes da rescisão prematura contratual por ato da Administração, aí compreendidos os danos emergentes e os lucros cessantes, quando a parte contratada não dá causa ao distrato. Precedentes: REsp 928.400/SE, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 15/8/2013, DJe 22/8/2013; REsp 1.240.057/AC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/6/2011, DJe 21/9/2011; REsp 1.232.571/MA, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 22/3/2011, DJe de 31/3/2011; EREsp 737.741/RJ, Rel. Min. Teori Albino Zavascki, Primeira Seção, julgado em 12/11/2008, DJe 21/8/2009; EREsp 737.741/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Seção, julgado em 12/11/2008, DJe 21/8/2009; REsp 737.741/RJ, Rel. Ministro Castro Meira, Segunda Turma, julgado em 3/10/2006, DJ 1º/12/2006, p. 290.
+Ocorre que o direito de indenizar pressupõe a comprovação nas instâncias ordinárias dos prejuízos efetivamente sofridos pela empresa contratada (parte recorrente), o que não está demonstrado no Acórdão recorrido.
+Avaliar o acerto ou desacerto do acórdão do Tribunal de origem quanto ao atendimento do princípio do contraditório e da ampla defesa, ou em relação ao pleito indenizatório pela rescisão unilateral do contrato, demandaria a reanálise do quadro probatório constante nos autos. É inviável, portanto, analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial).
+Ademais, o acolhimento da tese apresentada no Recurso Especial exigirá a apreciação do contrato administrativo celebrado entre o recorrente e a recorrida, incindindo o óbice da Súmula 5/STJ (A simples interpretação de cláusula contratual não enseja recurso especial). Precedentes: AgInt no AREsp 166.617/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 15/8/2017, DJe 19/9/2017; REsp 1417607/AC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/2/2017, DJe 7/3/2017; AgInt no AREsp 810.831/BA, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe 8/3/2017.
+Recurso Especial não conhecido. (REsp n. 1.700.155/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/4/2018, DJe de 21/11/2018.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
