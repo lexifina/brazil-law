@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ARREMATAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO CARACTERIZADA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. PROVIMENTO NEGADO.
+1. Neste caso, o acórdão recorrido reconheceu a ilegitimidade do agravante para arguir a nulidade da arrematação do imóvel em razão da ausência de intimação do executado, ou seja, a parte pleiteou em nome próprio direito alheio, enquanto o paradigma cuidou da legitimidade do terceiro de boa-fé para propor ação anulatória de arrematação, ainda que desprovido do registro do imóvel. Ausente, portanto, a necessária semelhança fática entre os julgados confrontados, o que impossibilita o conhecimento do recurso especial sob o fundamento de existência de divergência jurisprudencial .
+2. Não se conhece do recurso especial pela alínea c do permissivo constitucional quando o dissídio jurisprudencial não é demonstrado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CARLOS EDUARDO MAYER contra a decisão do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ARREMATAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃOS CONFRONTADOS. AUSÊNCIA DE SIMILITUDE FÁTICA. POSSUIDOR E PROPRIETÁRIO. FALTA DE INTIMAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO PELO PARTICULAR (fl. 540).
+Nas razões do agravo interno, a parte agravante reedita as alegações apresentadas no recurso especial quanto à divergência jurisprudencial em relação "à possibilidade de o terceiro possuidor de boa-fé arguir a nulidade de arrematação judicial do imóvel, independentemente de o contrato de compra e venda ter sido ou não registrado na matrícula do bem" (fl. 555).
+Requer o provimento do recurso e, consequentemente, a admissão e o provimento de seu recurso especial.
+Impugnação apresentada às fls. 562/565.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ARREMATAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO CARACTERIZADA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. PROVIMENTO NEGADO.
+1. Neste caso, o acórdão recorrido reconheceu a ilegitimidade do agravante para arguir a nulidade da arrematação do imóvel em razão da ausência de intimação do executado, ou seja, a parte pleiteou em nome próprio direito alheio, enquanto o paradigma cuidou da legitimidade do terceiro de boa-fé para propor ação anulatória de arrematação, ainda que desprovido do registro do imóvel. Ausente, portanto, a necessária semelhança fática entre os julgados confrontados, o que impossibilita o conhecimento do recurso especial sob o fundamento de existência de divergência jurisprudencial .
+2. Não se conhece do recurso especial pela alínea c do permissivo constitucional quando o dissídio jurisprudencial não é demonstrado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+VOTO
+A  despeito  das  alegações  da  parte  agravante,  razão  não  lhe  assiste,  porquanto  os  fundamentos  trazidos  no  recurso  não  se mostram aptos para  infirmar  a  decisão  agravada.
+Neste caso, ao recurso especial negou-se provimento com suporte na ausência de similitude fática entre os acórdãos confrontados, o que impediu a caracterização do dissenso interpretativo, e na incidência da Súmula 7 do Superior Tribunal de Justiça (fls. 540/546).
+Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça, a jurisprudência do STJ exige, além da transcrição dos acórdãos tidos por divergentes, a realização do cotejo analítico, com demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a mesma situação, o que não ocorreu no caso dos autos.
+Em nova análise, observo que os requisitos para caracterização do dissenso interpretativo não foram atendidos.
+O Tribunal de origem concluiu pela ilegitimidade do agravante para arguir a nulidade da arrematação do imóvel em função da ausência de intimação do executado, ou seja, a parte pleiteou em nome próprio direito alheio. Confira-se, a propósito, o seguinte trecho do acórdão (fl. 379):
+Contrariamente ao que alega o autor, em nenhum momento o juiz da causa afirmou não ter ele legitimidade ativa para pleitear o desfazimento da arrematação. O que assentou o magistrado, com correção, é que o demandante não tem legitimidade para arguir a nulidade do ato em função da ausência de intimação do executado. A razão é óbvia: a norma do artigo 899, I, do CPC, destina-se a proteger o interesse do devedor, sendo ele o único legitimado para alegar a sua eventual inobservância. O que faz o autor, ao pretender que a arrematação seja anulada pela e desobediência a esse preceito nada mais é do que pleitear, em nome próprio, direito alheio. As demais questões também foram analisadas de forma percuciente pela sentença, que transcrevo e adoto como fundamento do voto. (Destaquei.)
+Já o acórdão apontado como paradigma cuidou da legitimidade do terceiro de boa-fé para propor ação anulatória de arrematação, ainda que desprovido do registro do imóvel (fl. 449).
+Portanto, conforme consignado na decisão agravada, não ficou demonstrada a similitude fática dos acórdãos confrontados, o que impede o conhecimento do recurso especial, interposto com fundamento na alínea c do permissivo constitucional.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO. ACÓRDÃOS RECORRIDO E PARADIGMAS DO MESMO TRIBUNAL. SÚMULA N. 13/STJ.
+1. Nos termos da jurisprudência pacífica desta Corte, o conhecimento do recurso especial interposto somente pela alínea "c" do dispositivo constitucional exige a comprovação da divergência por meio do cotejo analítico entre os acórdãos, que demonstre a adequada identidade ou similitude suficiente das situações fáticas e jurídicas que obtiveram conclusões diversas, de forma clara e precisa, apontando de forma inequívoca as circunstâncias que demonstram a divergência no ponto guerreado, nos termos do art. 1.043, § 4º, do CPC/2015 e do art. 266, § 4º, do RISTJ, não servido o recurso ao mero rejulgamento (nesse sentido: AgInt nos EAREsp n. 297.377/RJ, relator Ministro Jorge Mussi, Corte Especial, DJe 17/4/2018.)
+2. "A divergência entre julgados do mesmo Tribunal não enseja recurso especial." (Súmula N. 13 do STJ).
+3. A mera transcrição de ementas de acórdão e/ou trechos isolados de voto, não caracteriza o cotejo analítico, inviabilizando-se, por consequência, a abertura da via especial, pelo dissídio jurisprudencial.
+Agravo interno improvido. (AgInt no AREsp n. 2.126.028/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/8/2023, DJe de 18/8/2023 - destaquei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VALOR DA INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. NÃO DEMONSTRADA IRRISORIEDADE OU EXORBITÂNCIA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+ ..
+2. O alegado dissídio jurisprudencial não se encontra devidamente comprovado, não restando atendido o requisito da identidade fático-jurídica entre os acórdãos confrontados, haja vista que as peculiaridades do caso vertente não se encontram espelhadas no paradigma.
+3. Agravo interno não provido (AgInt no REsp 1943103/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 25/10/2021, DJe 27/10/2021 - sem destaque no original).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREPARO. COMPROVANTE. ORIGINAL. LEI LOCAL. AFRONTA. VERIFICAÇÃO. INVIABILIDADE. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE. NÃO CARACTERIZAÇÃO. NÃO PROVIMENTO.
+ ..
+2. Para a caracterização do dissídio jurisprudencial, nos termos do art. 1.029, § 1º, do Código de Processo Civil e 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça, é necessária a demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados, o que não ficou evidenciado na hipótese.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1800847/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021 - sem destaque no original).
+ Assim,  tendo  em  vista  que  as  alegações  declinadas  no  presente  agravo  interno  não  são  capazes  de  alterar  o  entendimento  anteriormente  manifestado,  mantenho  incólume  a  decisão  agravada.
+Ante o exposto, nego provimento ao agravo.
+É  como  voto.
