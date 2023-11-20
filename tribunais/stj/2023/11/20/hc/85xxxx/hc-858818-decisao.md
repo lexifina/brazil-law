@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCELO BOTELHO DE MELO PEREIRA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2193615-18.2023.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se em cumprimento de pena no regime fechado.
+Pleiteada a progressão de regime, o pedido ainda não havia sido analisado pelo Juízo das execuções. Impetrado writ na origem, da ordem não se conheceu (e-STJ fls. 49/52).
+Daí o presente writ, no qual alega a defesa fazer jus o paciente à progressão de regime, por haver preenchido os requisitos objetivos e subjetivos para tanto, e que a demora superior a 1 ano para analisar tal pleito consubstancia-se em constrangimento ilegal perpetrado pelo Juízo das execuções (e-STJ fl. 5).
+Requer, liminarmente e no mérito, a determinação para análise imediata do pedido pela instância de origem.
+Indeferido o pedido de liminar (e-STJ fls. 55/56) e prestadas as informações solicitadas (e-STJ fls. 62/71); o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 77/79).
+É o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem não conheceu do habeas corpus, mediante os seguintes fundamentos (e-STJ fls. 51/52):
+No caso presente, verte das informações prestadas pela autoridade dita coatora, datadas de 31.07.2023, que o Paciente cumpre pena, no regime fechado, por três extorsões, tráfico ilícito de entorpecentes, três roubos majorados e receptação, com término de cumprimento das penas previsto para 14.08.2049. Consta que a execução física foi migrada para o SAJ/PG5 e cadastrada sob o nº 7005079-23.2015.8.26.0224, encontrando-se na fila dos processos migrados e recebidos da digitalização, aguarda saneamento, elaboração de cálculos do SAJ e alimentação do histórico de partes para posterior redistribuição ao DEECRIM competente. Ainda de acordo com as informações, o Paciente formulou pedido de progressão ao regime semiaberto e, em 31.07.2023, foi determinada a abertura de vista ao Ministério Público para posterior análise do pedido (fls. 20).
+Dessa forma, estando o pedido de progressão de regime sendo processado regularmente, não há que se cogitar de constrangimento ilegal.
+E, com efeito, o habeas corpus destina-se a amparar o direito de locomoção, por ilegalidade ou abuso de poder, evidentes na impetração.
+Não se presta, contudo, para alterar procedimento amparado por lei específica ou apressar decisão judicial referente aos incidentes da execução da pena, tais como a progressão de regime, que exige verificação de requisitos objetivos e subjetivos.
+Diante do exposto, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que eventual demora na apreciação do pedido de progressão de regime está justificada pela migração do feito físico para o digital , não tendo sido demonstrado pela defesa fundamento hábil a justificar a análise de seu pedido de forma antecipada, em detrimento dos demais apenados que aguardam providência similar.
+A propósito, confira-se, ainda, o seguinte precedente em decisão monocrática:
+Tive a oportunidade de julgar o mesmo assunto no HC n. 726.558/SP, impetrado por outro paciente, mas com mesmo pedido e contra a mesma Vara de Execuções. Na ocasião, pleiteei informações atualizadas para entender melhor o motivo da convocação de 100% dos funcionários e da suspensão dos prazos.
+Em resposta à solicitação de novas informações, o Juízo esclareceu a necessidade de convocação de todos os funcionários para o serviço de digitalização, explicando que a maior parte dos processos da Vara de execuções onde tramitam os autos são físicos, mas o andamento deles, durante a pandemia, ocorreu por meio de peticionamento eletrônico.
+Assim, realmente essa meta é urgente, para que todos os processos daquela vara não fiquem mais paralisados. Além disso, foi mantido um mínimo de servidores para os trabalhos urgentes, como atualização de cálculos, cumprimento de acórdão, vencimento de pena e benefícios prontos para julgamento já com cálculos atualizados.
+Por outro lado, foi estabelecido um prazo, dia 8/4/2022, para finalização da tarefa, o qual já se esgotou.
+Mas também verifiquei, pelo site do Tribunal de Justiça do Estado de São Paulo, Vara de Araçatuba, que em 27/4/2022 já foram determinados os cálculos para julgamento dos pedidos do executado, e, na sequência, foi aberta vista ao Ministério Público, que apresentou manifestação em 12/5/2022.
+Dessa forma, considerando o trabalho de digitalização de processos, considerado urgente, com meta de prazo esgotada, mas não tão atrasada, bem como o adiantamento da atualização de cálculos do executado, não há demora irrazoável no andamento do seu pedido. (HC n. 752.432, Ministro Reynaldo Soares da Fonseca, DJe de 30/6/2022.)
+Na hipótese, verifico que a apreciação dos pedidos de progressão de regime e de livramento condicional segue o trâmite regular,pois, de acordo com o andamento processual da execução n. 1006518-92.2020.8.26.0032, retirado da página eletrônica do TJSP, em 12/4/2022, foi homologada a falta grave cometida pelo paciente e determinada a elaboração de novos cálculos para fins de benefícios.
+Dessa forma, constata-se que não há desídia por parte do Juízo da Execução que, às evidências extraídas dos autos, quanto à digitalização dos processos físicos e suspensão dos prazos (e-STJ, fl. 324), bem como do andamento do processo na origem, vem envidando esforços para agilizar o cálculo de penas e apreciar os pedidos formulados pela defesa do reeducando.
+Nesse contexto, não se vislumbra flagrante ilegalidade apta a ensejar a concessão da ordem, de ofício. (HC n. 751.783, Ministro Ribeiro Dantas, DJe de 29/6/2022, grifei.)
+Sendo assim, não se constata, de plano, desídia do magistrado apta a configurar o constrangimento ilegal alegado.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
