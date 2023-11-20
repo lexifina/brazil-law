@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ROBSON JACINTO DO VALE contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS proferido na Apelação n. 1.0112.18000251-4/002.
+Consta dos autos que o paciente foi condenado, em primeiro grau, à pena de 21 anos e 8 meses de reclusão, no regime inicial fechado, pela prática dos delitos de homicídio qualificado, ocultação de cadáver e furto qualificado (art. 121, § 2º, II e IV; art. 211; e art. 155, § 4º, IV; todos do Código Penal).
+Interposta apelação, o Tribunal a quo negou provimento ao recurso.
+O impetrante alega que o paciente confessou o delito desde o seu interrogatório em sede policial, ratificando-o em juízo e, sobretudo, em plenário, ocasião em que a defesa técnica sustentou a tese de legítima defesa.
+Requer, em liminar e no mérito, a incidência dessa atenuante.
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+No caso, o paciente alegou, desde o seu interrogatório na fase policial, que teria matado a vítima em legítima defesa e ocultado o corpo, tendo sido ajudado pelo corréu somente na ocultação. A confissão foi ratificada em juízo, especialmente, em plenário. Conforme consta na Ata de Sessão de Julgamento do Tribunal do Júri (fl. 45), a defesa apresentou a tese de legítima defesa.
+O atual entendimento desta Corte "é o de que o réu faz jus à atenuante da confissão espontânea quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada. Além disso, a jurisprudência desta Corte também é firme no sentido de que, ainda que a confissão tenha se operado com justificativa na legítima defesa, a atenuante deve ser reconhecida. Precedentes. (AgRg no REsp n. 2.071.163/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 30/8/2023.)
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LESÃO CORPORAL. CONFISSÃO QUALIFICADA. APLICAÇÃO DA ATENUANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A atenuante da confissão espontânea deve ser aplicada mesmo nas hipóteses em que qualificada pela excludente de ilicitude da legítima defesa" (AgRg no AREsp n. 1.637.220/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/4/2020).
+2. No caso dos autos, o agente confessou que segurou a vítima pelos braços e a empurrou, momento em que poderia ter quebrado o seu dente, argumentou que agiu em legítima defesa, uma vez que a ofendida teria agarrado e rasgado a sua camisa.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.997.314/SP, de minha relatoria, Quinta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+Nesse contexto, mostra-se cabível, portanto, a incidência de tal atenuante, em relação aos delitos de homicídio e ocultação de cadáver, na fração de 1/8, por se tratar de confissão qualificada pela legítima defesa. A propósito:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA. CONFISSÃO QUALIFICADA. REDUÇÃO INFERIOR A 1/6. POSSIBILIDADE. HOMICÍDIO PRIVILEGIADO. QUANTUM DE ATENUAÇÃO DA PENA MOTIVADO. MAIORES INCURSÕES SOBRE O TEMA QUE DEMANDARIAM REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. Quanto à redução pela confissão espontânea, o Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração superior a 1/6 exige motivação concreta e idônea.
+2. Nos moldes da jurisprudência desta Corte, "embora haja admitido ter produzido as lesões na vítima, o réu afirmou que agiu sob a excludente da legítima defesa, circunstância que justifica a incidência da atenuante da confissão espontânea em patamar inferior a 1/6" (AgRg no HC 622.225/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2020, DJe 24/11/2020).
+3. Quanto ao redutor pelo privilégio, a Corte de origem reconheceu que as agressões se deram em momento posterior ao desentendimento entre a vítima e o sobrinho do réu, que ocorreu antes da violência física, sendo certo que os ânimos haviam sido serenados no momento do crime, o que justifica o abrandamento no patamar mínimo previsto legalmente, qual seja, 1/6.
+4. A escolha do quantum de redução da pena deve ser aferida com fundamento nas circunstâncias fáticas que levaram ao reconhecimento do homicídio privilegiado, especialmente "o grau emotivo do réu, além da intensidade da injusta provocação realizada pela vítima." (REsp 1.475.451/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/3/2017, DJe 29/3/2017).
+5. No caso, maiores incursões acerca do tema demandariam revolvimento fático-probatório dos autos, providência que não se coaduna com a via do writ.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 629.152/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2021, DJe de 10/5/2021.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reconhecer a atenuante da confissão espontânea, reduzindo as penas para 15 anos e 9 meses de reclusão, no regime inicial fechado (homicídio qualificado); e 1 ano, 5 meses e 15 dias de reclusão, no regime inicial semiaberto, mais 17 dias-multa (ocultação de cadáver). Em razão do concurso material com o delito de furto, a pena final do paciente alcança o patamar de 19 anos, 2 meses e 15 dias de reclusão, no regime inicial fechado, mais 37 dias-multa.
+Publique-se.
+Intimem-se.
+EMENTA
