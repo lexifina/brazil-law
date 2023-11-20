@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO DOS SANTOS CARDOSO contra decisão de Desembargador do Tribunal de Justiça do Estado de Minas Gerais, proferida no dia 25/10/2023, acolhendo a representação da Autoridade Policial e deferindo o pedido de prisão preventiva do paciente e mais quatro investigados (MC n. 1.0000.23.232199-2/000).
+Segundo consta dos autos, o Ministério Público teria recebido um vídeo denunciando fraude em um concurso para três cargos públicos do Município de Piedade de Caratinga/MG, a saber: advogado, dentista (próteses) e enfermeiro, realizado no dia 28/5/2023. O esquema investigado contaria com o paciente, vereador em outro município (São José da Lapa/MG) e outros investigados, entre eles o prefeito, Adolfo Bento Neto, oferecendo a fraude mediante cobrança de um salário do cargo pretendido.
+De acordo com a decisão impugnada, foram deferidas medidas de quebra de sigilo fiscal, bancário, telemático e interceptações telefônicas dos investigados, material probatório que teria revelado indícios de uma organização criminosa. Além disso, foi realizado o bloqueio de valores para garantir eventual indenização cível, limitado a R$ 389.891,00.
+Nas razões do presente habeas corpus, a defesa alega, em síntese, a ausência de motivos concretos para a decretação da prisão preventiva do paciente, com base nas hipóteses previstas no art. 312 do CPP, seja para resguardar a ordem pública, a instrução criminal ou mesmo para resguardar a aplicação futura da lei penal. Ainda, aponta violação ao disposto no inciso IX do artigo 93 da Constituição Federal, que trata do dever de fundamentar as decisões judiciais. Acrescenta não haver circunstância fática nova ou contemporânea que aponte a necessidade da prisão preventiva.
+Ressalta, ademais, as condições pessoais favoráveis do investigado, como primariedade, bons antecedentes, residência fixa e ocupação lícita como policial militar, o que evidencia a possibilidade de aplicação de outras cautelares mais brandas.
+Sustenta, ainda, que sua esposa "é portadora de cardiopatia valvar, tendo passado de cirurgia cardíaca para troca de valva aórtica, apresentando como complicação acidente vascular cerebral" (e-STJ fl. 18), razão pela qual faz jus ao regime domiciliar, nos termos do art. 318, III, do CPP.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente ou, subsidiariamente, a sua colocação no regime domiciliar.
+É o relatório. Decido.
+Busca-se, no presente writ, a revogação da prisão preventiva do paciente.
+Ocorre que, em 14/11/2023, concedi a ordem a um co-investigado, no HC n. 869.127/MG , para revogar a custódia cautelar, mediante aplicação de medidas cautelares, com extensão aos demais co-investigados, inclusive o ora paciente.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
