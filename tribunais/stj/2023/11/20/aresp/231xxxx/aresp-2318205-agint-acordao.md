@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. RAZÕES DISSOCIADAS. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Nos termos da jurisprudência desta Corte Especial, é "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016)" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 17/11/2021).
+3. Agravo interno não conhecido.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão da Presidência desta Corte que não conheceu do agravo em recurso especial de DANIELE DA CONCEIÇÃO BEZERRA.
+Nas razões do presente recurso, a parte agravante sustenta que "os paradigmas atendem os pressupostos legais e fáticos para caracterização do dissídio jurisprudencial. A agravante assevera que, todos julgados paradigmas, emanam desta E. Corte, o que é indício de sua pertinência para caracterização dos dissídios. Os julgados, versam sobre a impenhorabilidade de valores em conta bancária que não superam 40 (quarenta) salários mínimos, tal como a litigiosa dando azo, assim, ao dissídio jurisprudencial. A questão acerca da impenhorabilidade de valores, com a devida vênia, é questão de direito pública, podendo ser suscitada em qualquer grau de jurisdição, como comprovado pelos citados julgados. Inexiste, assim, óbice sumular, impondo, também sob este aspecto, o provimento do presente para a reforma da r. decisão agravada."
+Sem impugnação, conforme certidão na fl. 365.
+É o relatório.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 2.318.205 - SP (2023/0082934-8)
+RELATORA
+:
+MINISTRA MARIA ISABEL GALLOTTI
+AGRAVANTE
+:
+DANIELE DA CONCEICAO BEZERRA
+ADVOGADO
+:
+ELVIS CARLOS FORNARI - SP314137
+AGRAVADO
+:
+LICEU JOSE DE ALENCAR LTDA.
+OUTRO NOME
+:
+COLÉGIO LICEU JOSÉ DE ALENCAR LTDA
+ADVOGADO
+:
+ROBERTO LOPES FILHO - SP261158
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. RAZÕES DISSOCIADAS. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Nos termos da jurisprudência desta Corte Especial, é "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016)" (EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 17/11/2021).
+3. Agravo interno não conhecido.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A irresignação não merece conhecimento.
+Para melhor compreensão da controvérsia, eis os termos da decisão agravada (fls. 347-348):
+(..) Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, ausência de afronta a dispositivo legal, Súmula 7/STJ e deficiência de cotejo analítico.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ e deficiência de cotejo analítico.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de
+admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+Nas razões do agravo interno, a parte agravante nem sequer menciona quais foram os fundamentos da decisão agravada para assim infirmá-los.
+Extrai-se do presente recurso que a parte apenas repisa as razões do recurso especial e alega, de forma genérica, que "os paradigmas atendem os pressupostos legais e fáticos para caracterização do dissídio jurisprudencial. A agravante assevera que, todos julgados paradigmas, emanam desta E. Corte, o que é indício de sua pertinência para caracterização dos dissídios. Os julgados, versam sobre a impenhorabilidade de valores em conta bancária que não superam 40 (quarenta) salários mínimos, tal como a litigiosa dando azo, assim, ao dissídio jurisprudencial. A questão acerca da impenhorabilidade de valores, com a devida vênia, é questão de direito pública, podendo ser suscitada em qualquer grau de jurisdição, como comprovado pelos citados julgados. Inexiste,assim, óbice sumular, impondo, também sob este aspecto, o provimento do presente para a reforma da r. decisão agravada" (fl. 359).
+Nos termos do recente julgado desta Corte especial, em que pese a inaplicabilidade da Súmula nº 182/STJ ao agravo interno, foi reconhecido o "dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial", sob pena de preclusão da matéria (EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021).
+A propósito:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO INTERNO. DESNECESSIDADE DE IMPUGNAÇÃO DE TODOS OS CAPÍTULOS AUTÔNOMOS E/OU INDEPENDENTES DA DECISÃO MONOCRÁTICA AGRAVADA. INAPLICABILIDADE DA SÚMULA 182/STJ.
+1. A regra da dialeticidade - ônus do recorrente de apresentar os fundamentos de sua irresignação - constitui reflexo do princípio constitucional do contraditório e da necessária interação dialógica entre as partes e o magistrado, revelando-se como a outra face da vedação do arbítrio, pois, se o juiz não pode decidir sem fundamentar, "a parte não pode criticar sem explicar" (DOTTI, Rogéria. Todo defeito na fundamentação do recurso constitui vício insanável  Impugnação específica, dialeticidade e o retorno da jurisprudência defensiva. In: NERY JUNIOR, Nelson; ALVIM, Teresa Arruda; OLIVEIRA, Pedro Miranda de  coord. . Aspectos polêmicos dos recursos cíveis e assuntos afins. Volume 14  livro eletrônico . São Paulo: Thomson Reuters Brasil, 2018).
+2. Tal dever de fundamentação da pretensão de reforma do provimento jurisdicional constitui requisito extrínseco de admissibilidade dos recursos, que se enquadra na exigência de regularidade formal.
+3. Nada obstante, via de regra, é possível eleger, em consonância com o interesse recursal, quais questões jurídicas - autônomas e independentes - serão objeto da insurgência, nos termos do artigo 1.002 do CPC de 2015. Assim, "considera-se total o recurso que abrange "todo o conteúdo impugnável da decisão recorrida", porque toda ela pode não ser impugnável; e parcial o recurso que, por abstenção exclusiva do recorrente, "não compreenda a totalidade do conteúdo impugnável da decisão"" (ASSIS, Araken de. Manual dos recursos  livro eletrônico . 4. ed. São Paulo: Thomson Reuters Brasil, 2021).
+4. O citado dispositivo legal - aplicável a todos os recursos - somente deve ser afastado quando há expressa e específica norma em sentido contrário, tal como ocorre com o agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no artigo 253, parágrafo único, inciso II, alínea "a", do RISTJ, segundo o qual compete ao relator não conhecer do agravo "que não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+5. Sobre a aludida modalidade de recurso - agravo do artigo 544 do CPC de 1973, atualmente disciplinado pelo artigo 1.042 do CPC de 2015 -, a Corte Especial fixou a orientação no sentido de ser inafastável o dever do recorrente de impugnar especificamente todos os fundamentos que levaram à inadmissão do apelo extremo, não se podendo falar, na hipótese, em decisão cindível em capítulos autônomos e independentes (EAREsps 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19.9.2018, DJe 30.11.2018).
+6. Como se constata, essa orientação jurisprudencial se restringe ao Agravo em Recurso Especial (AREsp) - ante a incindibilidade da conclusão exarada no juízo prévio negativo de admissibilidade do apelo extremo -, não alcançando, portanto, o Agravo Interno no Recurso Especial (AgInt no REsp) nem o Agravo Interno no Agravo em Recurso Especial (AgInt no AREsp), haja vista a possibilidade, em tese, de a decisão singular do relator ser decomposta em "capítulos", vale dizer unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso.
+7. A autonomia dos capítulos da sentença - lato sensu - apresenta dois significados: (i) o da possibilidade de cada parcela do petitum ser objeto de um processo separado, sendo meramente circunstancial a junção de várias pretensões em um único processo; e (ii) o da regência de cada pedido por pressupostos próprios, "que não se confundem necessariamente nem por inteiro com os pressupostos dos demais" (DINAMARCO, Cândido Rangel. Capítulos de sentença. São Paulo: 2002, Malheiros, pp. 43-44).
+8. O renomado autor aponta, ainda, a possibilidade de a decisão judicial conter "capítulos independentes" e "capítulos dependentes".
+Nessa perspectiva, destaca que a dependência entre capítulos sentenciais se configura: (i) quando constatada relação de prejudicialidade entre duas pretensões, de modo que o julgamento de uma delas (prejudicial) determinará o teor do julgamento da outra (prejudicada); e (ii) entre o capítulo portador do julgamento do mérito e aquele que decidiu sobre a sua admissibilidade (DINAMARCO, Cândido Rangel. Op. cit., pp. 44-46).
+9. Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ.
+10. Ressalte-se, contudo, o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial (AgInt no AREsp 895.746/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9.8.2016, DJe 19.8.2016).
+11. Embargos de divergência providos para afastar a aplicação da Súmula 182/STJ em relação ao agravo interno, que deve ser reapreciado pela Primeira Turma desta colenda Corte.
+(EREsp n. 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe de 17/11/2021.)
+Em face do exposto, não conheço do agravo interno.
+É como voto.
