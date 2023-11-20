@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto PEDRO LUIS BRAGA TAVARES, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 1.374):
+DIREITO PENAL. OPERAÇÃO MENDAX. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. ART. 297, § 3º, II DO CP. ESTELIONATO MAJORADO. ARTIGO 171, § 3º DO CP. MATERIALIDADE E AUTORIA. DOLO DEMONSTRADO. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE. PRESCRIÇÃO.
+1. Materialidade e autoria devidamente demonstradas. O dolo na conduta delitiva está devidamente demonstrado, pois os acusados utilizaram-se de login e senha do sistema de conectividade social para emissão irregular de GFIPs, referentes a vínculos trabalhistas inexistentes.
+2. Configura o crime de estelionato majorado (art. 171, § 3º, do CP) a obtenção de seguro desemprego com base em vínculo trabalhista mendaz.
+3. Só há absorção do falso pelo estelionato quando aquele exaure toda a sua potencialidade lesiva no crime-fim.
+4. Condenados os réus em primeiro grau, por fatos anteriores à data de 05-5-2010, não se aplica a Lei 12.234/2010 no que tange à prescrição da pretensão punitiva. Lapso prescricional verificado entre os fatos 02 e 05 e recebimento da denúncia.
+Opostos embargos de declaração pelo corréu, foram eles rejeitados.
+Irresignada, a defesa interpõe o presente recurso especial (e-STJ fls. 1.414/1.428), alegando dissenso pretoriano e violação ao princípio da consunção, pois "o objetivo dos réus era fraudar a agência do INSS para obter benefícios da referida instituição. Para obtenção dos benefícios, utilizaram documentos falsos, forjando as garantias que são exigidas" (e-STJ fl. 1.419). Invoca o teor da Súmula n. 17/STJ.
+Sucessivamente, postula a aplicação da regra do concurso formal entre os crimes de estelionato e falsificação, conforme o art. 70 do Código Penal.
+A defesa protocolou novo recurso especial às e-STJ fls. 1.501/1.511.
+O Ministério Público Federal manifestou-se conforme o parecer assim ementado (e-STJ fl. 1.663):
+RECURSOS ESPECIAIS INTERPOSTOS COM FUNDAMENTO NO ART. 105, III, ALÍNEA " A ", DA CONSTITUIÇÃO FEDERAL. CRIMES DE FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E ESTELIONATO PREVIDENCIÁRIO. PLEITO COMUM DE RECONHECIMENTO DO PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE .
+OSMAR DE AQUINO SPITZMACHER - ALEGADA VIOLAÇÃO AO ART. 65, III, " D ", DO CÓDIGO PENAL. CONFISSÃO ESPONTÂNEA NO CRIME DE FALSO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ E 282 E 356 DO STF. CONDENAÇÃO LASTREADA EM OUTRAS PROVAS. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. ENTENDIMENTO DO STF INADMITINDO A EXECUÇÃO PROVISÓRIA DA PENA ANTES DO TRÂNSITO EM JULGADO DA CONDENAÇÃO.
+PEDRO LUIS BRAGA TAVARES - ALTERNATIVAMENTE AO PLEITO DE APLICABILIDADE DO PRINCÍPIO DA CONSUNÇÃO, ALEGA NEGATIVA DE VIGÊNCIA AO ART. 70 DO CÓDIGO PENAL E REQUER O RECONHECIMENTO DO CONCURSO FORMAL DE CRIMES. MATÉRIA QUE DEMANDA O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA .
+PARECER PELO PROVIMENTO PARCIAL DO RECURSO DE OSMAR DE AQUINO SPITZMACHER PARA SUSPENDER A EXECUÇÃO DAS PENAS RESTRITIVAS DE DIREITOS ATÉ O TRÂNSITO EM JULGADO DA CONDENAÇÃO, E PELO DESPROVIMENTO DOS DEMAIS RECURSOS.
+É o relatório.
+Decido.
+De início, verifico que do segundo recurso especial, juntado às e-STJ fls. 1.501/1.511, não se pode conhecer, uma vez que a interposição de dois recursos pela mesma parte contra a mesma decisão impede o conhecimento do segundo em razão da preclusão consumativa e do princípio da unirrecorribilidade das decisões.
+Passo à análise do recurso especial de e-STJ fls. 1.414/1.428.
+Em relação à alegada incidência do princípio da consunção, tenho que a aventada divergência jurisprudencial não foi demonstrada nos termos exigidos pela legislação processual de regência, tendo em vista que não foi apontado o acórdão paradigma e tampouco realizado o necessário cotejo analítico entre julgados divergentes.
+Em segundo lugar, anoto que o agravante, no apelo extremo, deixou de apontar quais dispositivos legais amparavam a tese de absorção, o que representa inafastável deficiência recursal que impede a exata compreensão da controvérsia, atraindo a aplicação da Súmula n. 284/STF.
+Ressalto, ademais, que a referida vedação sumular também se aplica aos recursos interpostos com fulcro na alínea c do permissivo constitucional, de modo que o recorrente deve indicar artigo de lei que albergue a tese objeto da divergência jurisprudencial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM DECLARATÓRIA DE NULIDADE DE TÍTULOS E PEDIDO INDENIZATÓRIO POR DANOS MATERIAIS E MORAIS. NÃO INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. DISSÍDIO JURISPRUDENCIAL. DECISÃO MONOCRÁTICA. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O conhecimento do recurso especial pela alínea c do permissivo constitucional exige, além de demonstração e comprovação do dissídio jurisprudencial, a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF. Precedentes.
+3. A jurisprudência do STJ é firme no sentido de que a decisão monocrática não serve como paradigma para a demonstração do dissídio jurisprudencial.
+4. Agravo interno não provido. (AgInt no AREsp 1730689/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020, grifei.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OCORRÊNCIA DE CULPA RECÍPROCA E VALOR DO DANO MORAL. REVISÃO. SÚMULA N. 7/STJ. AUSÊNCIA DE PARTICULARIZAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A jurisprudência consolidada deste Superior Tribunal de Justiça determina que, na interposição do recurso especial pelo art. 105, inciso III, alínea "c", da Constituição Federal, é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta desse pressuposto configura deficiência de fundamentação, inviabilizando o conhecimento do recurso, ante a incidência, por analogia, da Súmula 284 do STF.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1531521/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020, grifei.)
+Dando prosseguimento, a matéria relativa ao art. 70 do CP e a incidência da regra do concurso formal de crimes não foi objeto de análise pelo acórdão recorrido, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser analisada, ante o que preceituam as Súmulas n. 282 e 356/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
