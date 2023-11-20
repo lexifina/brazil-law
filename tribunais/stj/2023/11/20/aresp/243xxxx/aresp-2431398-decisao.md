@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CRISTIANE ROMERO MACIEL (CRISTIANE) contra decisão que negou seguimento ao seu apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alíneas a e c, da CF, CRISTIANE alegou, a par de divergência jurisprudencial, a violação dos arts. 51, IV, e 53 do CDC, e 98 do CC, ao sustentar (1) a necessidade da restituição de parte dos valores pagos, acrescidos de atualização monetária e juros de mora até a data do efetivo pagamento, sob pena do enriquecimento sem causa da parte recorrida; e (2) que os bens pertencentes a sociedade de economia mista podem ser objeto de usucapião especial urbano.
+Trata-se de ação de rescisão contratual cumulada com reintegração de posse ajuizada por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO (CDHU) contra a ora recorrente, sob a alegação de que celebrou com a ré, aos 30/4/1999, contrato de promessa de compra e venda de unidade habitacional popular, tendo ficado configurado o inadimplemento da mutuária, referente ao pagamento de 164 (cento e sessenta e quatro) parcelas.
+(1) Da devolução dos valores pagos
+Em relação à pretensão de restituição de parte dos valores pagos, ao julgar o recurso de apelação interposto pela ora insurgente, o TJSP assim consignou:
+É incontroverso o inadimplemento da compradora, desde o ano de 2006, como confessado por ela. A constituição em mora se deu através da notificação extrajudicial enviada pela vendedora em 06/01/2020 e recebida pela própria compradora como consta da assinatura do recebedor (fls. 43/44).
+A demandada, desde o ano de 1999 até o ingresso da ação, não tomou qualquer providência no sentido de reclamar os apontados vícios das cláusulas contratuais, não podendo, agora, decorridos mais de vinte anos, e após o pagamento de diversas parcelas, alegar irregularidade no contrato que deveria ter sido feita pela via adequada.
+A posse do imóvel vem sendo exercida há pelo menos dezesseis anos de forma gratuita, de modo que a retenção dos valores pagos servirá como indenização à autora pelo uso do bem, sendo que a pretensão de sua devolução, ou a concessão de "uso especial para fins de moradia" ensejaria o enriquecimento ilícito da compradora.
+Embora lamentável, a situação financeira desfavorável não permite ao devedor deixar de pagar as prestações previstas no contrato.
+Além disso, no caso examinado, as unidades residenciais são destinadas à moradia da população de baixa renda, sendo a compromissária/vendedora uma sociedade de economia mista. Logo, estes imóveis são públicos e, consequentemente, não podem ser adquiridos por meio de usucapião, conforme prevê o art. 183, § 3º, da Constituição Federal. Assim entende o Superior Tribunal de Justiça (AgInt no REsp 1719589/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 06/11/2018, DJe 12/11/2018)  e-STJ, fls. 156/157 .
+Como se vê, a controvérsia não foi dirimida no Tribunal estadual sob o enfoque dos dispositivos do código consumerista indicados violados, sem que fossem opostos embargos de declaração, a fim de suscitar sua discussão, ressentindo-se o recurso especial, no ponto, do indispensável prequestionamento. Incide, à hipótese, os comandos das Súmulas n.ºs 282 e 356 do STF, por analogia.
+(2) Da usucapião especial urbano
+Por sua vez, pontuou o Tribunal estadual que, a despeito de a CDHU ser uma sociedade de economia mista, não se afigura possível o reconhecimento da usucapião do imóvel em questão, por se tratar de unidade habitacional destinada à moradia da população de baixa renda, o que configura sua destinação pública, nos termos do que dispõe o art. 183, § 3º, da Constituição Federal.
+Ocorre que, nos termos da Súmula n.º 126 do STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. INADIMPLEMENTO DAS PARCELAS. (1) ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N.ºS 282 E 356 DO STF, POR ANALOGIA. (2) USUCAPIÃO DE IMÓVEL DA CDHU. ACÓRDÃO RECORRIDO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA N.º 126 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
