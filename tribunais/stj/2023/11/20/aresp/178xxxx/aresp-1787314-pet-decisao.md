@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de petição formulada por LUIZ CARLOS DE FARIAS FILHO na qual a defesa pugna pelo reconhecimento da extinção de punibilidade do requerente em vista do advento da prescrição.
+Aduz, em síntese, que (e-STJ fl. 377):
+Houve sentença desfavorável ao Agravante com publicação em 23 de março de 2.018, ao qual o mesmo fora condenado a pena total e definitiva de 04 (quatro) meses e 05 (cinco) dias de detenção, no regime inicial aberto.
+Como o delito imputado ao réu possui pena menor de 1 (um) ano de reclusão -tomando-se a redação anterior às modificações realizadas pela Lei nº 13.008/14 -a prescrição, na inteligência do artigo 109, inciso IV do CP, se daria em 3 (três) anos; no caso concreto, em 23/05/2.021.
+É o relatório. Decido.
+O pedido não comporta deferimento.
+Isso, porque, consoante entendimento consolidado no Superior Tribunal de Justiça, no agravo em recurso especial, o eventual reconhecimento da prescrição da pretensão punitiva deve ser precedido do exame da admissibilidade do recurso especial, a partir do qual será determinado se a data do trânsito em julgado retroagirá ou não ao último dia do prazo de interposição do recurso cabível na origem (AgRg nos EAREsp n. 19.380/PI, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 2/5/2016).
+Assim, nos moldes em que se firmou tal compreensão, caso do agravo não se conheça, dele se conheça para não provê-lo, ou dele se conheça para não se conhecer do recurso especial, como no caso, a coisa julgada retroage à data do escoamento do prazo para interposição do último recurso admissível (AgRg no REsp n. 1.263.994/PR, de minha relatoria, Sexta Turma, DJe de 21/11/2016).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NA PETIÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA AS RELAÇÕES DE CONSUMO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. RETROATIVIDADE DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. EARESP n.º 386.266/SP. NÃO OCORRÊNCIA. PRECEDENTES. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Como cediço, "A jurisprudência desta Corte Superior está fixada no sentido de que "inadmitido o recurso especial pelo Tribunal de origem, em decisão mantida pelo STJ, há a formação da coisa julgada, que deverá retroagir à data do término do prazo para interposição do último recurso cabível" (EAREsp 386.266/SP, Rel. Ministro GURGEL DE FARIA, TERCEIRA SEÇÃO, julgado em 12/08/2015, DJe 03/09/2015)" (AgRg no AREsp n. 2.271.573/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 30/5/2023).
+Agravo regimental desprovido.
+(AgRg na PET no AREsp n. 1.873.043/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/8/2023, DJe de 25/8/2023, grifei.)
+Na espécie, portanto, verificando-se que, entre a data da prolação da sentença condenatória recorrível (7/3/2018) e o último dia para a interposição de recurso cabível contra o acórdão que julgou a apelação (24/2/2020 - e-STJ fl. 271), não transcorreu lapso superior a três anos, não há que se falar em prescrição da pretensão punitiva.
+No mais, " e sta Corte possui entendimento de que a análise do pleito de extinção da punibilidade pela prescrição da pretensão executória cabe ao juízo da execução, uma vez que demanda a verificação de diversas informações, não apenas quanto o trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts. 116, parágrafo único e 117, incisos V e VI, ambos do CP. Julgado: AgRg no HC 457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/11/2018, DJe 23/11/2018" (AgRg no HC n. 473.344/PB, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 10/3/2020, DJe 26/3/2020)" (AgRg no AgRg no HC n. 718.230/RS, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 7/3/2023, DJe de 10/3/2023.).
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+EMENTA
