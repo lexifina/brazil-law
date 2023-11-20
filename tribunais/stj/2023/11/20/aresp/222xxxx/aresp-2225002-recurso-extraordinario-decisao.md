@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 1.338-1.339):
+TRIBUTÁRIO. PROCESSO CIVIL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ICMS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MATÉRIA DIRIMIDA COM BASE EM LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. ALINEA B DO PERMISSIVO CONSTITUCIONAL. NÃO CABIMENTO. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não ocorre ofensa ao art. 1.022 do CPC quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos.
+2. Verifica-se que o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei Estadual n. 1.810/97 e Decreto n. 9.203/98-RICMS/MS), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+3. Não cabe ao STJ analisar recurso especial interposto com base no art. 105, inciso III, alínea b, da Constituição da República, quando se analisa a validade de decreto estadual contestada em face de lei federal, visto que compete ao STF a apreciação de referida matéria (art. 102, III, d, da CF). A propósito: AgInt no AREsp n. 1.765.086/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 30/3/2022; AgInt no AREsp n. 1.246.192/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 23/3/2020.
+4. O não conhecimento do apelo raro pelo conduto da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano, sendo certo que não foram atendidas as exigências dos arts. 1.029, § 1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+5. Agravo interno não provido.
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 105, III, b, da Constituição Federal.
+Nesse sentido, defende que o Supremo Tribunal Federal "já reconheceu a competência do Superior Tribunal de Justiça em casos análogos de confronto entre decretos estaduais (considerados ato de governo local) e leis federais - entendimento, vale dizer, diametralmente oposto ao constante do acórdão ora recorrido" (fl. 1.368).
+Requer, ao final, a admissão do recurso, bem como a remessa ao Supre mo Tribunal Federal.
+É o relatório.
+Conforme definido pelo STF, nos casos em que a insurgência anterior não ultrapassou a barreira de admissibilidade, a discussão suscitada no recurso extraordinário não é dotada de repercussão geral, ainda que se busque debater o mérito da causa.
+A compreensão é igualmente aplicável quando a parte recorrente do recurso extraordinário defende a ausência dos pressupostos de conhecimento do recurso de competência do Superior Tribunal de Justiça.
+Esse é o entendimento fixado pela Suprema Corte no regime de repercussão geral, como se verifica na seguinte tese:
+Tema n. 181 do STF: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, o acolhimento da irresignação pressupõe a análise dos requisitos de admissibilidade do recurso anteriormente dirigido a esta Corte Superior porque o colegiado do STJ, ao dirimir a controvérsia, entendeu pela incidência da Súmula n. 280 do STF, como também, consignou a impossibilidade do exame, em recurso especial, da "validade de decreto estadual contestada em face de lei federal", por se tratar de matéria afeta à competência do Supremo Tribunal Federal.
+Portanto, eventual afronta à Carta Magna, se existente, seria apenas indireta ou reflexa, na linha da compreensão do STF de que "carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas" (ARE n. 1.227.415-AgR, relator Ministro Edson Fachin, Segunda Turma, DJe de 21/5/2021), mesmo quando alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
