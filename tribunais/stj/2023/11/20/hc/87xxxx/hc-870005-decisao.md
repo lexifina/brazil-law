@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de THIAGO DE SOUZA CAETANO, contra apontado ato coator da JUSTIÇA ESTADUAL DE 1ª INSTÂNCIA DE SÃO PAULO (sentença na ação penal nº 1500103-56.2023.8.26.0541).
+Consta dos autos que a parte paciente foi sentenciada a 06 anos e 03 meses de reclusão, em regime inicial fechado, e 625 dias-multa, como incursa no artigo 33, caput, da Lei nº 11.343/06 c/c o artigo 61, inciso I, do Código Penal.
+No presente habeas corpus, a defesa sustenta que a parte paciente está submetida a constrangimento ilegal pelo procedimento de busca pessoal e veicular feito pela Guarda Municipal em usurpação de função.
+Aduz suposto desacordo com o art. 244 do Código de Processo Penal, ou seja, a busca foi realizada sem as fundadas suspeitas.
+Requer, inclusive liminarmente, suspender a condenação. No mérito, reconhecer a nulidade das provas iniciais.
+É o relatório. DECIDO.
+Da leitura dos autos, verifica-se que a questão aqui posta sequer foi analisada pelo Tribunal, visto que a defesa aponta sentença como ato coator.
+Assim, como de regra, ausente manifestação do Tribunal, incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ).
+Nesse sentido:
+"As teses relativas a policiais civis terem interrogado o paciente sem advogado e a suposta ofensa ao direito ao silêncio não foram examinadas pela Corte de origem, conforme se verifica do inteiro teor do acórdão impetrado, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância. Registre-se que "os termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022)" (AgRg no HC n. 821.390/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 17/8/2023).
+Corroborando: AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 21/12/2022; AgRg no HC n. 834.361/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023; e AgRg no HC n. 822.227/MG, Quinta Turma, de minha relatoria, DJe de 26/6/2023.
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
