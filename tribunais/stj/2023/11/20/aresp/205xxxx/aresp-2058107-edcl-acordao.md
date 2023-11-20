@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. REITERAÇÃO DE TESE RECURSAL. INCONFORMISMO. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno, não servindo os embargos de declaração para tal desiderato.
+3. A parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado.
+4. Não cabe a esta corte superior analisar ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento, por se tratar de competência reservada ao Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por BOMPREÇO BAHIA SUPERMERCADOS LTDA. contra acórdão da Terceira Turma que ostenta a seguinte ementa (fl. 1.834):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1. No caso dos autos, não houve impugnação dos fundamentos da decisão que inadmitiu o recurso especial.
+2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+Nas razões dos declaratórios, a embargante alega a ocorrência das seguintes omissões ( fls. 1.845-1.846):
+O acórdão ora embargado afirmou que a parte recorrente supostamente não teria impugnado especificamente todos os fundamentos da decisão que inadmitiu o recurso especial interposto, notadamente no que se refere à ausência de violação ao art. 1.022 do CPC, considerando que a parte teria se limitado a reprisar a argumentação de seu recurso especial, o que atrairia a incidência do enunciado n. 182 da Súmula do STJ.
+Todavia, com a devida vênia, a decisão deixa de considerar que as referências às razões do recurso especial interposto foram apresentadas justamente para demonstrar que, ao contrário do considerado na decisão de inadmissibilidade do recurso especial, o recorrente demonstrou em que medida o Tribunal a quo violou a norma prevista no art. 1.022 do CPC(assim como ao art. 489, §1º, do CPC), ao não enfrentar argumentos relevantes suscitados pelo Bompreço e que teriam o condão de alterara conclusão adotada pelo Tribunal, notadamente quanto à intempestividade do recurso interposto pelas construtoras e a existência de coisa julgada no caso.
+Demais disso, a decisão ainda deixou de enfrentar o argumento suscitado pela parte ora embargante no que se refere à afirmação da violação ao art. 1.022 do CPC, também em caráter subsidiário, em atenção ao entendimento jurisprudencial deste Superior Tribunal de Justiça, para fins de reconhecimento do prequestionamento ficto previsto no art. 1.025 do CPC.
+Não se trata, pois, de "reprisar a argumentação de seu recurso especial", mas, sim, de apresentar as razões pelas quais restou demonstrado, no recurso interposto, a violação à legislação federal afirmada.
+Cuida-se de omissões que podem e devem ser sanadas por meio dos presentes embargos de declaração, para que, examinando-se todos os argumentos invocados pela parte recorrente, seja provido o agravo interno interposto, para que, conhecendo-se do recurso especial, no mérito, lhe seja dado provimento pelas razões expostas naquela peça recursal, cujo teor ora se reitera. Caso assim não se faça, fica pré-questionada a norma decorrente do art. 93, IX, da Constituição Federal.
+Requer, por fim, o acolhimento do recurso.
+Impugnação (fls. 1.852-1.860).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. REQUISITOS DOS DECLARATÓRIOS NÃO DEMONSTRADOS. REITERAÇÃO DE TESE RECURSAL. INCONFORMISMO. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+2. No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno, não servindo os embargos de declaração para tal desiderato.
+3. A parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado.
+4. Não cabe a esta corte superior analisar ofensa a dispositivos constitucionais, ainda que para efeito de prequestionamento, por se tratar de competência reservada ao Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso dos autos, a parte embargante não aponta nenhum dos vícios autorizadores ao manejo dos declaratórios, limitando-se a reiterar as alegações já trazidas no agravo interno, não servindo os embargos de declaração para tal desiderato.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. VÍCIOS DO ART. 1.022 DO CPC. AUSÊNCIA. TENTATIVA DE REDISCUSSÃO DO MÉRITO JULGADO.
+1. A parte não aponta efetiva contradição interna ou omissão no julgado. Os Embargos de Declaração foram opostos com o intuito de rediscutir o que foi decidido de maneira clara: não houve impugnação específica do fundamento da decisão monocrática que não conheceu do Recurso Ordinário, qual seja, o de que o referido recurso não é cabível contra acórdão do Tribunal de segundo grau que, originariamente, concede a segurança.
+2. Embargos de Declaração rejeitados, com advertência de multa em caso de reiteração considerada protelatória.
+(EDcl no AgInt no RMS n. 66.803/TO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/4/2022.)
+O acórdão embargado foi claro e fundamentado ao negar provimento ao agravo interno. Vejamos:
+Com efeito, a decisão recorrida não conheceu do agravo em recurso especial, em razão da ausência de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial.
+Conforme se verifica da leitura do agravo, a parte recorrente limitou-se a tecer alegações genéricas e parciais, a par de reprisar a argumentação de seu recurso especial, abstendo-se, assim, de impugnar, de forma específica e suficiente, o fundamento da decisão agravada, notadamente a ausência de afronta ao art. 1.022 do CPC.
+Não obstante todo o esforço argumentativo da parte recorrente, nas razões do presente agravo interno, tais razões, contudo, não são aptas a impugnar os fundamentos da decisão agravada.
+Com efeito, pelo princípio da dialeticidade, caberia a agravante demonstrar o equívoco da decisão que não conheceu de seu agravo em recurso especial, demonstrando em que momento de seu recurso teria impugnado, efetivamente, cada um dos fundamentos da decisão que negou seguimento ao seu recurso especial.
+Saliente-se que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Assim, longe de apontar qualquer dos vícios previstos no art. 1.022 do CPC/2015, observa-se que a parte embargante, inconformada, busca, com a oposição destes embargos declaratórios, ver reexaminada e decidida a controvérsia de acordo com sua tese. Contudo, entendimento contrário ao interesse da parte não se confunde com vício no julgado.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. ERRO MATERIAL. INEXISTÊNCIA. REDISCUSSÃO. PRETENSÃO DE REEXAME. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+2. O erro material sanável na via dos embargos de declaração é aquele conhecível de plano, isto é, sem que sejam necessárias deliberações acerca dos elementos dos autos e que dizem respeito a incorreções internas do próprio julgado.
+3. No caso dos autos, o suposto erro material diz respeito a incorreção, em tese, do próprio conteúdo da decisão, configurando inconformismo da parte com a conclusão a que chegou o órgão julgador.
+4. Não havendo omissão, obscuridade, contradição ou erro material, devem ser rejeitados os embargos declaratórios interpostos com o propósito infringente.
+5. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp n. 2.006.905/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/10/2022.)
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum. (EDcl nos EDcl no AgInt no AREsp n. 1.946.993/AP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/9/2022.)
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. (EDcl no REsp n. 1.977.830/MT, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/6/2022.)
+Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Por fim, não cabe a esta corte superior analisar suposta ofensa a dispositivos constitucionais, mesmo que para efeito de prequestionamento, porquanto essa competência é reservada ao Sup remo Tribunal Federal.
+Cite-se o precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REQUISITOS RECURSAIS. SÚMULA Nº 315/STJ. APLICAÇÃO. REDISCUSSÃO. INADMISSIBILIDADE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. MATÉRIA APRECIADA. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. REJEIÇÃO. 1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada. 2. Não cabe ao Superior Tribunal de Justiça, em recurso especial ou em posteriores embargos de divergência, o exame de eventual ofensa a dispositivo da Constituição Federal, ainda que para o fim de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. 3. Embargos de declaração rejeitados. (EDcl no AgInt nos EREsp n. 1.957.987/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/8/2023, DJe de 14/8/2023, grifei.)
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
