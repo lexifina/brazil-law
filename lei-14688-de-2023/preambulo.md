@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), a fim de compatibilizá-lo com o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e com a Constituição Federal, e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para classificar como hediondos os crimes que especifica.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
