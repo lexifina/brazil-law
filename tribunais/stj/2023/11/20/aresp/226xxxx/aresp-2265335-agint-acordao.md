@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 4º E 6º DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito aos mesmos dispositivos de lei, o que ocorreu no caso dos autos.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, em vista da incidência da Súmula 211/STJ e da ausência de comprovação do dissídio jurisprudencial invocado na forma da lei (por não realização de cotejo analítico).
+A agravante alega que "Não prospera o fundamento de não conhecimento do recurso especial interposto pela falta de prequestionamento, visto que a matéria foi expressamente rechaçada e, portanto, prequestionada! A matéria em discussão é apenas uma, tendo o E. TRF3 se manifestado expressamente sobre ela." (fl. 390), sendo ainda que opôs embargos de declaração visando o prequestionamento. Sustenta que o cotejo analítico foi efetivamente realizado, pois "(..) demonstrou, de forma inequívoca, a similitude fática e identidade jurídica entre o V. Acórdão recorrido e o julgado paradigma!" (fl. 393).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 4º E 6º DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito aos mesmos dispositivos de lei, o que ocorreu no caso dos autos.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, a despeito de realmente ter ocorrido o necessário cotejo analítico entre os julgados apontados como divergentes, no que toca ao dissídio interpretativo, não se verifica na hipótese o prequestionamento dos arts. 4º e 6º do CPC/2015, indicados no recurso especial como malferidos e objeto da divergência.
+A agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 211/STJ.
+Ocorre que o prequestionamento é requisito previsto no inc. III do art. 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se pronunciou nem mesmo implicitamente a respeito dos arts. 4º e 6º do CPC/2015 (ou das teses a eles vinculadas), não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+Outrossim, importa ressaltar que não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pela recorrente.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Quanto ao dissídio jurisprudencial, tem-se que a inadmissão do recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito aos mesmos dispositivos de lei, o que ocorreu no caso dos autos. Com efeito, como dito na decisão agravada, "(..), os dispositivos legais sobre os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem." (fl. 382).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LAUDO PERICIAL. FORMAÇÃO DA CONVICÇÃO DO JUÍZO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECONHECIMENTO DA NULIDADE DA PERÍCIA. EFETIVA DEMONSTRAÇÃO DO PREJUÍZO. PRÍNCIPIO DO PAS DE NULLITÉ SANS GRIEF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. PROVIMENTO NEGADO.
+1. O Tribunal a quo concluiu, com base nos fatos e nas provas dos autos, que o laudo pericial havia se mostrado hábil a formar sua convicção, uma vez que fora realizado por profissional de confiança, e que era prescindível a realização da perícia por perito especializado ante a baixa complexidade da prova técnica.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2. Para o reconhecimento da nulidade da perícia, faz-se necessária a efetiva demonstração de prejuízo sofrido pela parte interessada, em respeito ao princípio do pas de nullité sans grief.
+3. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.984.352/SP, Rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 20/9/2023)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DANO MORAL. INDENIZAÇÃO. TERMO INICIAL DOS JUROS MORATÓRIOS. ALEGADA VIOLAÇÃO AOS ARTIGOS 398 E 405 DO CÓDIGO CIVIL. INEXISTÊNCIA DE DEBATE SOBRE AS TESES ARTICULADAS E SOBRE OS ARTIGOS INDICADOS COMO VIOLADOS. INEXISTÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo não se manifestou sobre as teses articuladas no recurso especial e os artigos indicados como violados, e nem foram opostos embargos de declaração para sanar eventual omissão. Ausente, portanto, o indispensável prequestionamento, incide, na espécie, os enunciados das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Vale destacar que o cumprimento do requisito do prequestionamento se observa com o efetivo debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, o que não ocorreu in casu.
+3. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da falta de prequestionamento, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado, como no caso, diz respeito ao mesmo dispositivo legal ou tese jurídica.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.996.848/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 10/3/2023)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
