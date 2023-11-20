@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONCREMAX CONCRETO ENG. E SANEAMENTO LTDA. (CONCREMAX) contra decisão de relatoria da Ministra Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação do óbice da Súmula n.º 7 do STJ.
+Nas razões do presente inconformismo, alegou ter se insurgido contra todos os fundamentos do juízo de admissibilidade do recurso especial, pugnando pela reforma da decisão agravada.
+Foi apresentada contraminuta (e-STJ, fl. 453).
+É o relatório.
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de, e-STJ, fls. 430/432, e passo ao exame do recurso especial que não merece prosperar.
+Nas razões do apelo nobre, CONSTRUMAX alegou a violação dos arts. 402, 403, 412, 413 e 421 do CC, ao sustentar a necessidade de redução do valor da cláusula penal aplicada, tendo em vista a culpa recíproca das partes ou a necessidade de observância aos princípios da razoabilidade e da proporcionalidade, ou, alternativamente, que o cálculo de liquidação da sentença seja realizado considerando o período de 19 (dezenove) meses.
+Da cláusula penal
+Sobre o tema, ao julgar o recurso de apelação interposto pela ora insurgente, o TJMT confirmou os termos da sentença que, em procedimento de liquidação individual de sentença coletiva, julgou parcialmente procedente o pedido da promitente compradora, para condenar a empresa ao pagamento de R$ 68.900,00 (sessenta e oito mil e novecentos reais), referente à cláusula penal contida no contrato de compromisso de compra e venda firmado entre as partes, pelo atraso na entrega do imóvel, referente ao período de 53 (cinquenta e três) meses, conforme descrito na inicial, com juros de mora de 1% (um por cento) ao mês, devidos a partir da citação.
+No que se refere, especificamente, à responsabilidade pelo descumprimento do contrato, ao prazo de incidência da multa e ao seu valor, o Tribunal estadual assim se pronunciou:
+O conjunto probatório constante dos autos demonstra, estreme de dúvidas, que houve atraso na entrega do apartamento adquirido pela Apelada, bem assim que o imóvel apresentou diversos vícios na construção, o que, inclusive, motivou a Recorrida a propor a Ação Cautelar de Produção de Provas - autos n. 42189-67.2012.811.0041 -, cujo deslinde ocorreu em 01/04/2016, quando as partes firmaram acordo para imissão na posse e entrega das chaves.
+ ..
+O expert deixou expresso que o apartamento adquirido pela Recorrida, de fato, apresentava inúmeras irregularidades, portanto, a recusa do recebimento das chaves mostrou-se justificável.
+Dessa forma, entendo que o imóvel somente foi, efetivamente, entregue à parte Apelada, em 01/04/2016, quando firmaram o Termo de Acordo para Imissão na Posse e Entrega de Chaves, constante dos autos (id. 89322128, págs. 74/76).
+Enfatizo que a judicialização ocorreu em virtude de o imóvel apresentar vários defeitos de construção, portanto, a demora na entrega efetiva das chaves não deve ser atribuída à Apelada, mas à pessoa jurídica Recorrente.
+Com efeito, se o prazo contratual final para a entrega do bem imóvel adquirido pela Recorrida era outubro de 2011, é certo que tem direito ao recebimento da multa correspondente a 53 (cinquenta e três) meses, visto que o apartamento somente foi entregue em 01/04/2016.
+No que tange ao valor do aluguel que seria utilizado como base para a multa por atraso na entrega do imóvel, observo que, na contestação apresentada pela Recorrente, não houve nenhum questionamento nesse sentido, incidindo sobre esse ponto a presunção de veracidade.
+Frise-se que a ausência de impugnação específica, quanto ao valor do aluguel indicado pela Recorrida, tornou incontroverso o fato.
+ ..
+Registro que a Recorrente não trouxe nenhuma outra prova de que o valor do aluguel, indicado pela Apelada, na ação de base, estava incorreto, ou seja, que estava superior ao praticado pelo mercado imobiliário local (e-STJ, fls. 296/299).
+Dessa forma, para modificar a conclusão firmada no acórdão recorrido - de que restou suficientemente comprovada a mora da ora recorrente, justificando-se sua condenação ao pagamento da multa contratual, por valor mensal que não foi por ela impugnado no momento oportuno -, seria necessária a interpretação de cláusula contratual, bem como o reexame do conjunto fático-probatório dos autos, o que é vedado em âmbito de recurso especial, em razão dos óbices das Súmulas n.ºs 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ATRASO DEMONSTRADO COM BASE EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. RESTITUIÇÃO DOS JUROS DE OBRA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ .. .
+2. A Corte de origem estipulou a ocorrência de lucros cessantes, pois não teria sido respeitado o prazo contratual para a entrega do imóvel. Esse entendimento, fundado em fatos, provas e na interpretação de termos contratuais (incidência das Súmulas 5 e 7/STJ), está em sintonia com a jurisprudência desta Corte Superior, a atrair o texto do verbete sumular n. 83/STJ.
+3. No tocante ao valor dessa indenização (lucros cessantes), o Tribunal estadual estipulou que não houve questionamento em relação ao percentual de indenização fixado na primeira instância. A premissa de que não existiu impugnação a respeito desse percentual na apelação não foi objeto de ataque no recurso especial, sendo o caso do óbice da Súmula 283/STF.
+4. A restituição dos juros de obra durante a mora da recorrente, ou seja, a partir do momento previsto para entrega do imóvel, está em harmonia com o entendimento deste Tribunal, ensejando novamente o texto da Súmula 83/STJ no tocante a essa questão.
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.863.187/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 19/10/2020, DJe de 26/10/2020, sem destaque no original)
+Nessas condições, em juízo de reconsideração, passando a nova análise da causa, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. INDENIZAÇÃO POR ATRASO NA ENTREGA DA OBRA E EXISTÊNCIA DE VÍCIOS CONSTRUTIVOS. PAGAMENTO DA CLÁUSULA PENAL. REVISÃO DO VALOR MENSAL A TÍTULO DE ALUGUEL. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N.ºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
