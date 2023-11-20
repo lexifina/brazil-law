@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 1.156):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA DECISÃO DA CORTE DE ORIGEM QUE INADMITIU O RECURSO ESPECIAL. NÃO CABIMENTO. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. AGRAVO INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos dos arts. 219 e 1.003, § 5º, do CPC/2015, o prazo para interposição do agravo em recurso especial é de 15 (quinze) dias úteis. No caso, o recorrente não logrou demonstrar a alegada tempestividade.
+3. Consolidado na jurisprudência desta Corte Superior de Justiça que a interposição de recurso manifestamente incabível contra decisão de inadmissibilidade do recurso especial, como os embargos de declaração, não interrompe o prazo para interposição do agravo nos próprios autos. A propósito: AgInt no REsp n. 2.053.754/SP, relator Ministro Gurgel de Faria, Primeira turma, Dje de 27/01/2023.
+4. Agravo interno não provido.
+A parte embargante alega que, no caso específico dos autos, os embargos de declaração foram providos, dando seguimento ao recurso extraordinário e reconhecendo o erro material constante em sua decisão, "não há como se penalizar o jurisdicionado com a declaração de intempestividade de seu recurso, na medida em que o provimento do embargos de declaração gera justa expectativa de interrupção do prazo recursal." (fl. 1.174).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, o acórdão embargado está bem fundamentado, não padecendo de qualquer omissão ou obscuridade, na medida em que negou provimento do agravo interno de forma objetiva, considerando que (fls. 1.159-1.160):
+ ..  a parte recorrente foi intimada da decisão de inadmissibilidade do recurso especial no dia 24/05/2022, na qual entendeu a Corte de origem ser manifestamente incabível o apelo nobre, uma vez que a pretensão deduzida está em desacordo com a consolidada jurisprudência do Superior Tribunal de Justiça sobre o tema.
+No entanto, a parte recorrente optou pela oposição de embargos de declaração para impugná-la, sendo julgados incabível pelo Tribunal Regional Federal da 3ª Região, uma vez que, contra decisão de inadmissibilidade do recurso especial, o único recurso cabível é o agravo em recurso especial.
+Ocorre que esse entendimento está em conformidade com a jurisprudência desta Corte, no sentido "de que o agravo é o único recurso cabível contra decisão que nega seguimento a recursos de natureza extraordinária, de modo que os embargos de declaração opostos contra decisão de admissibilidade do Tribunal de origem não interrompem o prazo para a interposição do agravo, uma vez que manifestamente incabíveis" (AgInt no REsp n. 2.053.754/SP, relator Ministro Gurgel de Faria, Primeira turma, Dje de 27/01/2023).
+Assim, considerando que a parte agravante foi intimada da decisão de inadmissibilidade do recurso especial no dia 24/05/2022 e somente interpôs o agravo em recurso especial no dia 13/07/2022, o recurso mostra-se intempestivo porquanto interposto fora do prazo de 15 (quinze) dias úteis, conforme disposto nos arts. 994, VIII, 1.003, § 5º, 219, caput, e 1.042, caput, todos do Código de Processo Civil/2015.
+Com efeito, em que pese o embargante sustentar que os embargos opostos na origem foram providos pela Vice-Presidência do Tribunal Regional Federal, o erro material identificado e aclarado ocorreu na decisão que negou seguimento ao recurso extraordinário e não na decisão que negou seguimento ao recurso especial, o que revela apenas o inconformismo do embargante.
+No mais, a jurisprudência consolidada desta Corte entende que os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018).
+Dessa forma, o acórdão embargado encontra-se bem fundamentado, não padecendo de qualquer omissão ou obscuridade, sendo certo que não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição.
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeitos os embargos de declaração.
+É como voto.
