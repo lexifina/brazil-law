@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da Vara de Execuções Penais de Brasília/DF, suscitante, e o Juízo de Direito da Vara de Execução Penal Meio Fechado e Semiaberto de Luziânia/GO, suscitado.
+Consta dos autos que Ailton Fernandes dos Santos cumpre pena total de 46 anos, 6 meses e 5 dias de reclusão.
+De acordo com o juízo suscitado " o  sentenciado foi beneficiado com o livramento condicional em 04.09.2019, mas foi preso nesta Comarca pelo cometimento de novo fato criminoso no dia 02.10.2019, em virtude do qual foi condenado a uma pena de 08 anos, 10 meses e 20 dias de reclusão, em regime fechado", de modo que "o livramento condicional foi revogado e ordenou-se a expedição de mandado de prisão contra o sentenciado" (fl. 1.379).
+Informa que "a presente Execução Penal tramita no Distrito Federal desde o ano de 2009, e o fato de o sentenciado ter sido preso provisoriamente nesta Comarca após cometer o crime de roubo, pelo qual foi condenado, não atrai para este Juízo a competência para fiscalização de todas as penas anteriormente impostas ao apenado" (fl. 1.381).
+Por sua vez, o juízo suscitante, ao declinar da competência, consignou "que a primeira Guia de Recolhimento do sentenciado é oriunda da Comarca de Goiânia/GO", havendo, ainda, "Cartas de Guia da Comarca de Luziânia/GO  .. ; da Comarca do Novo Gama/GO  .. ; e outras da Comarca de Goiânia/GO"  .. . Ademais, o sentenciado se encontra novamente preso no Estado de Goiás, especificamente na Comarca de Luziânia/GO cuja derradeira condenação é daquele Juízo"  .. . Por fim, observo que o sentenciado, por sua defesa constituída, manifestou o interesse de cumprir sua reprimenda naquela localidade  .. . Portanto, o juízo goiano está prevento para o processamento de todas as execuções de penas relativas ao sentenciado" (fl. 1.353).
+Os autos, então, vieram a esta instância, tendo o Ministério Público Federal ofertado parecer para declarar a competência do juízo suscitante.
+É o relatório.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, d, da Constituição Federal.
+In casu, o processo de execução penal n.º 0180480-44.2009.8.07.0015 teve início no Distrito Federal, ainda no ano de 2009, tendo sido o executado beneficiado com o livramento condicional em 4/9/2019.
+Consta, ainda, que o apenado veio a ser preso em Luziânia/GO pelo cometimento do crime de roubo, pelo qual foi condenado a 8 anos, 10 meses e 20 dias de reclusão, em regime fechado.
+Nesses casos, o entendimento do Superior Tribunal de Justiça é no sentido de que a execução criminal e a análise de seus incidentes, tramitará na sede do juízo em que a sanção, definitiva ou provisória, foi iniciada e é cumprida, entendimento esse que se mantém mesmo em caso de cometimento de novo delito em outra comarca, como ocorre na hipótese.
+A propósito:
+PROCESSUAL PENAL. EXECUÇÃO PENAL. CONFLITO DE COMPETÊNCIA. REEDUCANDO CONDENADO EM DIVERSAS UNIDADES JUDICIÁRIAS. JUÍZO COMPETENTE PARA CONHECIMENTO, FISCALIZAÇÃO E ACOMPANHAMENTO DA EXECUÇÃO PENAL. JUÍZO EM QUE O APENADO CUMPRE A REPRIMENDA.
+I - Execução penal que não teve sua gênese no Juízo suscitado, estando o apenado cumprindo pena em ambos os juízos, ora conflitantes, em virtude de sentença penal condenatória.
+II - Competente é o Juízo da execução em que o reeducando cumpre a reprimenda, para conhecer das demais execuções e apreciar eventuais incidentes referentes ao procedimento de execução penal.
+Conflito de competência negativo conhecido para declarar competente o Juízo de Direito da Vara Criminal de Novo Gama/GO." (CC 151.849/GO, Rel.
+Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 22/06/2017.)
+Com efeito, a prática de novo delito onde efetuada a prisão no Estado de Goiás não desloca a competência para aquele respectivo juízo. Desse modo, " o  simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena." (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016).
+Vale destacar que "o cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado" (CC 167.064/SC, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 28/08/2019, DJe 06/09/2019).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara de Execuções Penais de Brasília/DF , ora suscitante.
+Publique-se.
+Intimem-se.
+EMENTA
