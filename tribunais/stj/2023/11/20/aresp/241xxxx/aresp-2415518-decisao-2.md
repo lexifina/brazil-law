@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por PETRÓLEO BRASILEIRO S.A. - PETROBRÁS contra decisão que inadmitiu o recurso especial, por aplicação das Súmulas n. 7 e 83 do STJ, bem como por inexistência de violação dos arts. 489 e 1.022 do CPC (e-STJ fls. 1.789/1.797).
+O Tribunal de origem deu provimento ao apelo dos recorridos, em julgado que recebeu a seguinte ementa (e-STJ fls. 1.180):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE COM NAVIO BAHAMAS. DANO AMBIENTAL. PRAZO PRESCRICIONAL INTERROMPIDO PELA PROPOSITURA DE AÇÃO CIVIL PÚBLICA AINDA SEM TRÂNSITO EM JULGADO. PRESCRIÇÃO AFASTADA.
+Rejeitada a preliminar de não conhecimento do recurso, pois as razões de apelo impugnaram os fundamentos da sentença, na forma do art. 1.010 do CPC.
+Conforme jurisprudência do Eg. STJ, a citação válida em ação coletiva interrompe o prazo prescricional nas demandas individuais. Hipótese em que a pretensão indenizatória de danos ambientais individuais não está fulminada pela prescrição, pois pende de trânsito em julgado a ação civil pública ajuizada pelo Ministério Público no ano de 2000 envolvendo um mesmo fato.
+PRELIMINAR REJEITADA. APELAÇÃO PROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.225/1.229).
+Nas razões do especial (e-STJ fls. 1.247/1.278), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou violação do art. 1.022, II, do CPC, alegando negativa de prestação jurisdicional.
+Aduziu afronta aos arts. 104 do CDC e 206, § 3º, V, do CC, requerendo seja declarada a prescrição da pretensão.
+Nesse contexto, alegou a inexistência de causa interruptiva do lapso prescricional, tendo em vista a ausência de identidade entre a ação civil pública proposta e a demanda individual de origem.
+Não foram oferecidas contrarrazões (e-STJ fl. 1.785).
+No agravo (e-STJ fls. 1.823/1.834), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 1.892).
+É o relatório.
+Decido.
+I - Da negativa de prestação jurisdicional
+No que se refere à suposta ofensa ao art. 1.022 do CPC/2015, a parte recorrente se ateve a formular alegações genéricas de violação desse dispositivo, sem demonstrar de forma específica em que consistiu o vício perpetrado pelo Tribunal de origem.
+Com efeito, diante da deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF.
+II - Da interrupção da prescrição
+Inicialmente, verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 206, § 3º, V, do CC - o qual estabelece o prazo prescricional de 3 (três) anos para as pretensões de reparação civil -, porque a norma em referência nada dispõe a respeito da tese de que o prazo prescricional foi interrompido pela propositura de ação civil pública ainda sem trânsito em julgado.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+No mais, a controvérsia se refere ao argumento de inexistência de causa interruptiva do lapso prescricional, tendo em vista: (i) a ausência de identidade entre a ação civil pública proposta e a demanda individual de origem, e (ii) a inexistência de prejudicialidade entre o processo individual e o processo coletivo.
+De outra parte, a Corte de origem apresentou a seguinte fundamentação sobre o tema (e-STJ fls. 1.175/1.177):
+A ação versa sobre danos causados pelo derramamento de ácido sulfúrico pelo Navio Bahamas em canal do Porto de Rio Grande, em agosto de 1998, fato que ocasionou a suspensão da atividade pesqueira, com prejuízo ao comércio de peixes na região.
+O dano ambiental existe sob dois aspectos: o dano ambiental coletivo e o dano ambiental pessoal. No primeiro caso, a pretensão reparatória é imprescritível e deve ser exercida através da ação civil pública, enquanto que no segundo caso, a pretensão indenizatória se sujeita aos prazos de prescrição do Código Civil, mais especificamente aquele do art. 203, § 3º, V do CC/02.
+A prescrição, de modo geral, consiste na perda de uma pretensão que nasce com a violação a um direito subjetivo, pela inércia do seu titular que não a exerce durante determinado período de tempo legalmente previsto. Para que se opere a prescrição, devem estar presentes os requisitos assim resumidos pela doutrina:
+ ..
+A jurisprudência das Cortes Superiores entende, ainda, que a citação na ação civil pública tem o condão de interromper o prazo prescricional para as ações individuais que estejam relacionadas com a controvérsia da ação coletiva, que envolvam o mesmo fato.
+Assim, as pessoas atingidas pelo dano ambiental poderão aguardar o desfecho da ação coletiva, de modo a evitar a propositura em massa das demandas individuais, caso em que a inércia é consentânea e compatível com o sistema do processo coletivo, não podendo ocasionar a perda da pretensão reparatória.
+ ..
+No caso, o prazo prescricional foi interrompido em 28/07/2000, quando proposta a ação civil pública 2000.71.01.001891-1/RS, em que obviamente os pedidos e as partes são diversos da presente ação, mas se relacionam ao mesmo dano ambiental causado pelo acidente com o Navio Bahamas, que atingiu não apenas o meio ambiente mas os pescadores, individualmente.
+Logo, pendente de trânsito em julgado a decisão daquela ação coletiva, não voltou a correr o prazo prescricional da presente demanda, devendo ser afastada a alegação de prescrição.
+A principal tese da pretensão recursal é a de que a ação coletiva não afeta a presente ação individual, não devendo ocasionar suspensão ou a interrupção do prazo prescricional da pretensão. Todavia, tal argumento é contrário à jurisprudência desta Corte Superior, e o acórdão recorrido está conforme à jurisprudência dominante.
+A propósito, há inclusive o Tema n. 589, com tese firmada no STJ sobre a questão. A questão submetida ao julgamento da Primeira Seção, sob o rito dos recursos repetitivos, era a seguinte: a possibilidade de suspensão, nos termos da legislação vigente, do andamento de inúmeros processos individuais até o julgamento da tese jurídica de fundo nele indicada. A orientação firmada foi: ajuizada ação coletiva atinente à lide geradora de processos multitudinários, suspendem-se os processos individuais, no aguardo do julgamento da ação coletiva. No mesmo sentido é o Tema n. 675, julgado com Repercussão Geral no STF, que estabeleceu a suspensão de causa individual em razão da existência de ação coletiva.
+Na mesma linha é o Tema n. 60/STJ, firmado sob o rito dos recursos repetitivos, em julgamento realizado na Segunda Seção, cuja questão jurídica foi: diante de ajuizamento de ação coletiva, pode o Juízo suspender, ex officio e de início, o processo de ação individual multitudinária atinente à mesma lide, preservados os efeitos do ajuizamento para a futura execução.
+Vejam-se os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS E LUCROS CESSANTES. DANO AMBIENTAL CAUSADO PELO NAVIO BAHAMAS EM CANAL PORTUÁRIO NO AN O DE 1998. DERRAMAMENTO DE ÁCIDO SULFÚRICO QUE INVIABILIZOU A COMERCIALIZAÇÃO DE PESCADO. PRAZO PRESCRICIONAL DA AÇÃO INDIVIDUAL NÃO IMPLEMENTADO. INTERRUPÇÃO DA FLUÊNCIA POR FORÇA DO AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA (2000.71.01.001891-1/RS) COM A FINALIDADE DE APURAR O DANO AMBIENTAL E SEUS CAUSADORES. DEMANDA INDENIZATÓRIA INDIVIDUAL. MESMA MATÉRIA. INTERROMPIDA A FLUÊNCIA DO PRAZO PRESCRICIONAL DA PRETENSÃO INDIVIDUAL. APLICAÇÃO DE MULTA. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. SÚMULA 83 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. MULTA POR EMBARGOS PROTELATÓRIOS.SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. Quanto à possibilidade de suspensão do feito em razão da macrolide a resolver demandas coletivas sobre o mesmo evento, os entendimentos da Corte local apresentam-se em harmonia com a jurisprudência desta Corte Superior de Justiça, o que atrai a inadmissibilidade do recurso especial pela incidência da Súmula 83 do STJ.
+3. A matéria referente aos dispositivos de lei indicados como violados não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211/STJ).
+4. No exame das pretensões recursais relativas à violação de lei federal desafiam as premissas fáticas firmadas no acórdão recorrido, tornando o recurso especial inadmissível, nos termos do enunciado da Súmula 7 do STJ.
+5. A Corte local entendeu pela aplicação da multa do art. 1.026, § 2º, do CPC/15, pois os embargos declaratórios opostos pela ora agravante buscaram, em verdade, rediscutir matéria já enfrentada pelo julgado então embargado. A análise da alegada ausência do intuito protelatório dos embargos de declaração demanda o reexame do conjunto fático dos autos, providência que esbarra no óbice da Súmula 7/STJ.
+6. Agravo interno não provido. (AgInt no REsp n. 1.925.132/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DANO AMBIENTAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. INTERRUPÇÃO. TEMA 957 DOS RECURSOS ESPECIAIS REPETITIVOS. INAPLICABILIDADE.
+1. Cuida-se, na origem, de ação de indenização por danos materiais e compensação por danos morais, ajuizada por pescadores em razão dos prejuízos sofridos por dano ambiental decorrente de derramamento de ácido sulfúrico na Lagoa dos Patos pelo navio Bahamas, que estava atracado no porto de Rio Grande/RS.
+ ..
+5. Alterar o decidido no acórdão impugnado, no que se refere à ocorrência do dano ambiental, aos danos suportados pelos pescadores e à responsabilidade da empresa agravante, exige o reexame de fatos e provas, o que é vedado em recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual. Precedentes.
+ ..
+9. Agravo interno não provido.
+(AgInt no AREsp 1264833/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/5/2020, DJe de 25/5/2020. )
+Portanto, no caso concreto, as razões recursais encontram óbice na Súmula n. 83 do STJ, entendimento aplicável aos recursos especiais fundados tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
