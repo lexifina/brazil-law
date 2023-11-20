@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de Jonathan de Souza Santana, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do Agravo em Execução Penal n. 0010597-47.2023.8.26.0996.
+Consta dos autos que o Ministério Público Estadual interpôs agravo contra a decisão do Juízo da Execução que deferiu a progressão ao regime semiaberto.
+O recurso foi provido por aresto assim ementado:
+"AGRAVO EM EXECUÇÃO - PROGRESSÃO AO REGIME SEMIABERTO - PLEITO MINISTERIAL PARA REVOGAÇÃO DO BENEFÍCIO E REALIZAÇÃO PRÉVIA DO EXAME CRIMINOLÓGICO - NECESSIDADE - HISTÓRICO PRISIONAL DESABONADOR, COM REGISTRO DE FUGA - DECISÃO REFORMADA - AGRAVO MINISTERIAL PROVIDO." (fl. 50).
+Na presente impetração, a defesa alega que o exame criminológico não é obrigatório e que deve ser deferida a progressão, em virtude do cumprimento do requisito objetivo e pelo fato do paciente possuir bom comportamento carcerário.
+Assevera que a longa pena a cumprir e a gravidade dos delitos cometidos pelo apenado não justificam o indeferimento do benefício.
+Busca, assim, a progressão ao regime semiaberto.
+A liminar foi indeferida por decisão de fls. 56/57.
+O Ministério Público Federal opinou pela denegação da ordem de habeas corpus, em parecer de fls. 66/70.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+O voto condutor do acórdão asseverou:
+"Com efeito, não se desconhece que a gravidade do delito praticado e a longevidade da pena a cumprir não constituem óbice para a obtenção de benefícios. No entanto, podem e devem servir de parâmetros para a análise do mérito do apenado à obtenção de benefícios.
+Além disso, o agravante ostenta histórico prisional desabonador. Verifica-se em seu Boletim Informativo que esteve foragido de 22/12/2018 a 20/04/2020 (fls. 16), demonstrando que não foi merecedor da confiança que lhe foi depositada pelo Estado anteriormente, o que justifica uma cautela redobrada na análise de sua aptidão para regime de menor vigilância.
+Ademais, o ateste de "bom" comportamento carcerário é insuficiente para aferição do mérito à progressão almejada.
+ ..
+Frise-se que, em sede de execução, vige o princípio in dubio pro societate, eis que há de se dar à sociedade garantias de que houve assimilação adequada da terapêutica prisional a que foi submetido o reeducando.
+ ..
+Em verdade, não ficou demonstrada de maneira inequívoca a aptidão do reeducando para o retorno gradual ao convívio em sociedade.
+Indispensável, portanto, sua submissão prévia ao exame criminológico para averiguação adequada do requisito subjetivo, nos termos da Súmula Vinculante nº 26, do STF e da Súmula 439, do STJ.
+Diante do exposto, pelo meu voto, dá-se provimento ao agravo ministerial, para cassar a r. decisão e regredir o agravado para o regime fechado, determinando a submissão prévia ao exame criminológico, para análise do mérito à progressão de regime." (fls. 51/53).
+O entendimento desta Corte Superior é no sentido de que a gravidade abstrata dos delitos praticados e a longevidade da pena a cumprir não podem servir, por si sós, como fundamentos para a determinação de prévia submissão do apenado a exame criminológico. Impõe-se que tal exigência decorra de algum elemento concreto atinente ao período de execução da pena e à conduta carcerária do custodiado, como, por exemplo, a prática de falta grave ou novo delito no curso da execução da pena.
+Nesse sentido, vejam-se os seguintes precedentes, de ambas as Turmas que julgam matéria penal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTAS GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Na hipótese, o indeferimento da progressão de regime foi adequadamente fundamentado pelo Tribunal de origem, com base no histórico carcerário conturbado do reeducando, o qual denota a ausência do requisito subjetivo, necessário à concessão da benesse.
+5. De acordo jurisprudência pacificada neste Superior Tribunal de Justiça, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. Agravo regimental despro vido.
+(AgRg no HC n. 731.611/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/4/2022, Dje de 27/4/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E/OU LIVRAMENTO CONDICIONAL. EXAME CRIMINOLÓGICO DETERMINADO PELA ORIGEM. SÚMULA 439/STJ. SÚMULA VINCULANTE 26/STF. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS DA EXECUÇÃO PENAL. AUSÊNCIA DE REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Com efeito, este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de 1º Grau, ou mesmo o Tribunal de origem, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento acerca do merecimento do apenado, desde que por decisão fundamentada. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+III - In casu, o eg. Tribunal de origem, ao confirmar a necessidade de realização do exame criminológico para a progressão de regime prisional e/ou livramento condicional do paciente, fundamentou sua decisão não apenas na gravidade abstrata dos crimes e na longa pena a cumprir, mas também em razão do histórico conturbado do ora agravante, que ostenta nada menos do que 7 faltas graves e 1 média.Isso se confirmou de sua guia de execução, sendo que as últimas faltas foram cometidas em 2019 e 2017 (fls. 21-22).
+IV - No mais, a d. Defesa limitou-se a reprisar os argumentos lançados no habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 744.819/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 2/8/2022, DJe de 9/8/2022.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. SÚMULA N. 439/STJ. FALTA GRAVE. NOVOS DELITOS COMETIDOS DURANTE O PERÍODO DE PROVA DO LIVRAMENTO CONDICIONAL ANTERIORMENTE CONCEDIDO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, em hipóteses excepcionais, os tribunais superiores vêm admitindo a sua realização para a aferição do mérito do apenado. Aliás, tal entendimento foi consolidado no enunciado da Súmula n. 439 desta Corte Superior de Justiça.
+2. No caso dos autos, o Tribunal de origem, ao determinar a realização de exame criminológico, logrou fundamentar a necessidade do referido exame invocando elementos concretos dos autos bastantes a afastar a decisão do Magistrado, destacando que o sentenciado "praticou infração disciplinar de natureza grave aos 22.06.2012, consistente em desobediência (fls. 71). Foi beneficiado com a progressão ao regime semiaberto aos 13.07.2016 e com livramento condicional aos 17.01.2017. Já no dia 01.04.2017 praticou crimes de associação para o tráfico e associação criminosa, sendo condenado à pena de 10 anos, 02 meses e 15 dias de reclusão (Processo Crime n. 04/17 - 1ª Vara Criminal da Comarca de Sorocaba - fls. 71) - e-STJ fls. 135/136), o que evidencia a idoneidade da fundamentação utilizada pela Corte a quo, não havendo falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 693.716/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+Na hipótese, as instâncias ordinárias reconheceram a prática de faltas graves por parte do reeducando a justificar a realização do exame criminológico.
+Cumpre ressaltar que não se aplica o limite temporal para análise do requisito subjetivo, devendo ser avaliado todo o período de execução da pena, a fim de se averiguar o mérito do apenado.
+Nessa direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. PRÁTICA DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. AUSÊNCIA DO REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Na hipótese, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do requisito subjetivo, em face do cometimento de falta disciplinar de natureza grave, pois, durante as diversas oportunidades em que lhe foram concedidos benefícios como prisão domiciliar, saídas temporárias e, até mesmo, progressão de regime, houve o cometimento de novo crime, de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão da progressão de regime.
+5. De acordo jurisprudência pacificada neste Superior Tribunal de Justiça, "ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das Execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" e, ainda, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. Agravo regimental desprovido.
+(AgRg no HC n. 778.067/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/3/2023, DJe de 17/3/2023.)
+Por fim, cabe lembrar que o afastamento dos fundamentos utilizados pela instância ordinária, quanto ao mérito subjetivo do paciente, demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do mandamus.
+Assim, resta evidenciada a idoneidade da fundamentaç ão utilizada na origem, não havendo flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto, com fulcro no art. 34, inc. XX, do RISTJ, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
