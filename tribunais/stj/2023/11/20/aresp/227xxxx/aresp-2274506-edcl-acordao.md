@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 570):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. REJEIÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REINCLUSÃO NO PAES. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. ARGUMENTAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência desta Corte considera genérica a alegação de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, enseja deficiência de fundamentação no recurso especial, não permitindo a exata compreensão da controvérsia, o que inviabiliza a abertura da instância especial, por incidência da Súmula 284 do STF.
+3. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta, em suma, que o acórdão encontra-se eivado de omissão, sendo necessária sua reforma, na medida em que o agravo interposto impugnou devidamente a decisão de inadmissibilidade do recurso especial e, ainda, contém "os dispositivos legais que demonstram as devidas razões para reformar a decisão agravada." (fl. 581).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, extrai-se do acórdão embargado que, "ao contrário do alegado, a partir da leitura do agravo em recurso especial, conforme apontado na decisão agravada, verifica-se que, efetivamente, não houve a indicar de forma precisa de artigos, parágrafos ou alíneas da legislação federal tida por violada, tampouco a indicação em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejando, assim, a deficiência da fundamentação recursal, não permitindo a exata compreensão da controvérsia, o que inviabiliza a abertura da instância excepcional. Incidência da Súmula 284 do STF." (fl. 573).
+Por outro lado, a parte embargante sustenta apenas que o acórdão embargado encontra-se eivado de omissão e, por isso, seria necessária sua reforma, sem, contudo, demonstrar de forma efetiva qualquer equívoco no voto prolatado, no qual se afirmou não ter havido a indicação precisa dos artigos, parágrafos ou alíneas da legislação federal tida por violada, tampouco a indicação em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria a sua correta interpretação.
+Dessa forma, no que tange à alegada omissão, cabe ressaltar que a jurisprudência consolidada desta Corte entende que os embargos de declaração não servem para que se adeque a decisão ao entendimento da parte embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, para rediscussão de matéria já resolvida (EDcl no AgInt no RE nos EDcl no AgInt no RMS 52.333/GO, Rel. Ministro Humberto Martins, Corte Especial, DJe 29/06/2018; EDcl no MS 20.816/DF, Rel. Ministro Jorge Mussi, Corte Especial, DJe 17/04/2018; EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 23/03/2018).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeitos os embargos de declaração.
+É como voto.
