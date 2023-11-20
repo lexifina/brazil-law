@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ANADILZA BARBOZA DE SANTANA e OUTROS, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 174):
+CUMPRIMENTO DE SENTENÇA MULTA DECENDIAL. Multa incidente apenas sobre o valor da obrigação principal, sem o acréscimo dos juros sobre este calculados. Orientação prevalente na jurisprudência deste Tribunal e da Corte Superior Decisão mantida. Agravo não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 188-191).
+Nas razões do recurso especial (e-STJ, fls. 181-185), os agravantes alegaram violação aos arts. 322, § 1º, 489, § 1º, IV, e 1.022, inciso II, do CPC/2015; 389, 395, 404, 407, 412 e 772 do CC/2002.
+Sustentaram, em síntese, que o Tribunal de origem "não analisou o questionamento efetuado pelos recorrentes para reforçar o pré-questionamento da questão (incidência de juros moratórios sobre o valor tido por principal, ao contrário do que dispõe o art. 412, CC/2002, no sentido de que sobre o principal atualizado e com o juros de mora, na conjugação sistemática da lei e não apenas textual e isolada do dispositivo legal citado)" (e-STJ, fl. 183).
+Defenderam que é devido o pagamento de juros de mora sobre todas as condenações impostas pela sentença na fase de conhecimento, inclusive sobre o valor da multa decendial.
+Contrarrazões apresentadas (e-STJ, fls. 950-958).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 963-971).
+Contraminuta apresentada (e-STJ, fls. 980-989).
+Brevemente relatado, decido.
+Preliminarmente, verifica-se que a apontada violação aos arts. 489 e 1.022 do CPC/2015 não se sustenta, uma vez que o TJSP examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+Confira-se elucidativo trecho do acórdão que julgou a demanda (e-STJ, fl. 190 - sem destaque no original):
+A Turma Julgadora negou provimento ao agravo por entender que a multa decendial incide apenas sobre o valor da obrigação principal, sem o acréscimo dos juros.
+Portanto, se o acórdão enfrentou todos os aspectos que devera enfrentar para decidir as questões de fato e de direito propostas. Não houve omissão e, por isso, não há o que suprir, mesmo porque não está o Tribunal obrigado a examinar todos e cada qual dos argumentos desenvolvidos pelas partes. O que é preciso, e foi atendido, é que o tema jurídico em discussão seja enfrentado de forma direta, precisa e fundamentadamente.
+Os fundamentos estão lá, na motivação do voto condutor do julgamento, e que não comportam reprodução neste momento.
+Assim, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na espécie, completamente inviável rediscutir a incidência dos juros de mora sobre a multa decendial, especialmente através da mera renovação de argumentos que foram, sim, devidamente enfrentados na origem e na decisão do Tribunal de Justiça.
+Isso porque ficou claro nos autos que no cômputo da multa decendial não se incluem os juros de mora incidentes sobre o montante da obrigação principal.
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu ser cabível à hipótese, inexiste omissão apenas pelo fato de ter o julgado decidido em sentido contrário à pretensão da parte.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE NULIDADE C/C INDENIZAÇÃO POR DANO MORAL. CLUBE DE FUTEBOL. OFENSA GRAVE À INSTITUIÇÃO E A SEUS MEMBROS VEICULADA NA IMPRENSA. EXPULSÃO DE SÓCIO. PENALIDADE PREVISTA NO ESTATUTO DA ENTIDADE E APLICADA APÓS PROCEDIMENTO INTERNO EM QUE FORAM GARANTIDOS OS DIREITOS AO CONTRADITÓRIO E À AMPLA DEFESA. AUSÊNCIA DE ILEGALIDADE OU DESPROPORCIONALIDADE DA SANÇÃO. SÚMULAS 5 E 7, DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para desconstituir a convicção formada pelas instâncias ordinárias a respeito da ausência de ilegalidades no processo disciplinar interno instaurado pelo Clube em detrimento do autor, bem como a respeito da proporcionalidade da sanção imposta a ele, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1384086/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021 - sem destaque no original)
+Quanto ao mais, tal como decidido pelo colegiado de origem, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a multa decendial no seguro habitacional é limitada ao valor da obrigação principal, sendo inviável o acréscimo de juros, sob pena de afronta ao art. 412 do Código Civil.
+Ainda nesse contexto, cabe registrar que, "em possuindo a multa decendial natureza acessória e, ainda, moratória, descabe sobre ela pretender a incidência de novos juros moratórios" (EDcl no AgInt no REsp n. 1.867.679/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 14/8/2023, DJe de 18/8/2023).
+Nesse sentido (sem destaque no original):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MULTA DECENDIAL. NÃO INCIDÊNCIA DE JUROS DE MORA E CORREÇÃO MONETÁRIA. PRECEDENTES.
+A multa decendial no seguro habitacional é cabível, limitada ao valor da obrigação principal, sem o acréscimo de correção monetária e juros de mora. Precedentes.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 1.882.887/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SEGURO HABITACIONAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. SISTEMA FINANCEIRO DE HABITAÇÃO. MULTA DECENDIAL. INDENIZAÇÃO SECURITÁRIA. PAGAMENTO. ATRASO. CABIMENTO.
+1. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. A jurisprudência desta Corte é firmada no sentido de que a multa decendial é devida aos mutuários pelo atraso no pagamento da indenização securitária nos contratos vinculados ao SFH, devendo ser limitada ao valor da obrigação principal.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.158.650/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/9/2023, DJe de 15/9/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. SEGURO HABITACIONAL. MULTA DECENDIAL. LIMITE. JUROS DE MORA. NÃO INCLUSÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A jurisprudência desta Corte Superior é firme no sentido de que "a multa decendial no seguro habitacional é limitada ao valor da obrigação principal, sendo inviável o acréscimo de juros, sob pena de afronta ao art. 412 do CC/2002" (EDcl no AgInt no AREsp n. 1.758.290/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/12/2021, DJe de 15/12/2021).
+3. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência pacífica do STJ (Súmula 83/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.206.997/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+CIVIL E PROCESSUAL. EMBARGOS DE DECLARAÇÃO. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. VÍCIOS CONSTRUTIVOS. IMÓVEL FINANCIADO PELO SFH.
+AFETAÇÃO DE REPETITIVOS SOBRE PRESCRIÇÃO. MATÉRIA SUPERADA NA ESPÉCIE VERTENTE. SOBRESTAMENTO DO PROCESSO. DESCABIMENTO. MULTA DECENDIAL. LIMITAÇÃO AO VALOR DA OBRIGAÇÃO PRINCIPAL. ACOLHIMENTO PARCIAL DA SÚPLICA.
+1. Não há razão para sobrestar o presente processo em virtude da afetação de repetitivos, se a questão tratada no Tema 1.039/STJ, prescrição, ora invocada pela parte embargante, já se encontra, no caso concreto, definitivamente superada. Não há pendência de julgamento, na espécie, sobre a prescrição.
+2. A multa decendial, nos termos do entendimento iterativo do STJ, está limitada ao valor da obrigação principal, excluídos os juros de mora e a correção monetária.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgInt no REsp n. 1.561.356/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/5/2023, DJe de 22/5/2023.)
+Na espécie, o acórdão recorrido fundamentou que (e-STJ, fls. 175-178 - sem destaque no original):
+Batem-se os agravantes contra a r. decisão que acolheu parcialmente impugnação apresentada pela executada, para reconhecer o excesso de execução, relativamente à incidência de juros moratórios sobre a multa decendial, nos seguintes termos, no ponto aqui interessante:"(..)"Por fim, a impugnante suscitou excesso de execução sob os argumentos de que a impugnada deveria ter considerado como obrigação principal, para fins de limitação da multa decendial, o valor da indenização acrescida apenas de correção monetária, sem juros de mora. "O valor da obrigação principal mencionado no art. 412 do Código Civil não é constituído tão somente pelo quantum auferido a título de indenização e sim por este valor acrescido de correção monetária e juros de mora. "Trata-se do valor da condenação e este, à vista da mora da impugnante, deve ser entendido como também integrado pelos juros de mora. "Entretanto, tal alegação merece acolhimento, uma vez que os cálculos de liquidação apresentados pelos exequentes, à fl. 02, não deveriam incluir os juros de mora, pois estes decorrem do não pagamento voluntário do valor da condenação." Assim, somente após o decurso do prazo para pagamento voluntário ocorre a incidência dos juros de mora. Logo, restou demonstrado o excesso de execução alegado pelo impugnante, a ensejar o acolhimento, em parte, da presente impugnação.
+"Sendo assim, a presente impugnação comporta apenas parcial acolhimento, tendo em vista que o cálculo elaborado pela impugnada (fl. 02) necessita de retificação, com a exclusão dos valores relativos aos juros de mora.
+Os recorrentes dizem que "a agravada está em mora, pois não pagou a indenização securitária devida, e esse fato é incontroverso no título executivo. Logo, no caso concreto, são devidos os juros moratórios sobre todas as verbas indenizatórias, e por consequências, todos os pedidos iniciais julgados procedentes".
+2. Sem razão, contudo, os recorrentes. A multa decendial incide somente sobre o montante da obrigação principal, este, sem o acréscimo de juros.
+(..)
+Tem-se como certo, portanto, que no cômputo da multa decendial não se incluem os juros de mora incidentes sobre o montante da obrigação principal, nos termos do artigo 412 do Código Civil, porque os juros constituem acessório da obrigação principal. E porque acessório, não integra o valor dessa obrigação, porquanto frutos dele. São devidos pela fruição do capital que o credor deixou de haver, enquanto não satisfeita a obrigação.
+Assim, a multa incide sobre a obrigação principal, apenas, sem o cômputo dos juros, como já dito.
+(..)
+Desse modo, a multa é limitada, nos termos do aresto, ao montante da indenização, sem o cômputo dos juros, como bem delineado pela r. decisão agravada.
+Por conseguinte, o entendimento adotado pelo acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Por fim, quanto à violação aos arts. 389, 395, 404, 407, e 772, CC/2002; e ao art. 322, § 1º, do CPC/2-15, ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+Ante o exposto, agravo conhecido para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015..
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MULTA DECENDIAL. INCIDÊNCIA DE JUROS. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. DEMAIS ARTIGOS VIOLADOS NÃO PREQUESTIONADOS. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
