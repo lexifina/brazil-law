@@ -1,0 +1,89 @@
+DECISÃO:
+
+Ementa: Direito Constitucional e Administrativo. Suspensão de tutela provisória. Reintegração de servidores públicos municipais. Exoneração em razão de aposentadoria. Lei local que prevê a aposentadoria como causa de vacância do cargo público. Tema 1.150-RG.
+
+1. Pedido de suspensão de decisão liminar que determinou a reintegração, no mesmo cargo, de professoras municipais aposentadas voluntariamente antes da reforma da previdência (Emenda Constitucional nº 103/2019).
+
+2. Havendo lei local que prevê a aposentadoria como causa de vacância do cargo público, a determinação de reintegração de servidoras municipais aposentadas voluntariamente pelo Regime Geral de Previdência Social contraria o entendimento firmado por esta Corte no tema nº 1.150 da repercussão geral (RE 1.302.501, Rel. Min. Luiz Fux, Presidente).
+
+3. Potencial de grave lesão à ordem administrativa. A reintegração de servidor em desconformidade com a orientação firmada na sistemática da repercussão geral representa risco de grave lesão à ordem administrativa, na medida em que obsta a plena eficácia da regra constitucional do concurso público.
+
+4. Potencial de grave lesão à economia pública. A natureza alimentar da remuneração impossibilita a restituição dos valores eventualmente já pagos. Além disso, há potencial efeito multiplicador, dada a informação de que 174 servidores exonerados se enquadram na mesma situação das ora beneficiárias.
+
+4. Pedido que se julga procedente.
+
+    1. Trata-se de pedido de suspensão de tutela provisória formulado pelo Município de Lauro de Freitas/BA, que tem por objeto decisões do Tribunal de Justiça local que determinaram a reintegração, no mesmo cargo, de professoras municipais aposentadas voluntariamente antes da reforma da previdência (Emenda Constitucional nº 103/2019).
+
+    2. Na origem, Irineide Lopes Medina e Dalva Lima Rosa ajuizaram ações ordinárias pleiteando a reintegração nos mesmos cargos de professoras que ocupavam no referido município, após terem sido exoneradas com base em dispositivo do Estatuto dos Servidores Públicos local que previa a aposentadoria como causa de vacância de cargo público. Alegaram que, como foram admitidas no serviço público municipal antes da promulgação da Constituição Federal de 1988, com vínculo regido pela CLT, não haveria óbice à cumulação dos proventos de inatividade com os vencimentos relacionados aos cargos exercidos no município. Além disso, afirmaram não ter sido observado o devido processo legal para o ato de exoneração.
+
+    3. O Juízo da 2ª Vara da Fazenda Pública de Lauro de Freitas/BA indeferiu o pedido de tutela de urgência em ambos os casos. Interpostos os agravos de instrumento 8045252-69.2023.8.05.0000 e 8045229-26.2023.8.05.0000 perante o Tribunal de Justiça do Estado da Bahia, os respectivos relatores, em decisões monocráticas, deferiram efeito suspensivo ativo aos recursos, para determinar, em linhas gerais, a suspensão dos efeitos dos atos de exoneração e a reintegração das servidoras no mesmo cargo. O entendimento foi o de que, por serem regidas pela CLT, já que admitidas antes da CF/1988, inserem-se na ressalva contida no artigo 6º da Emenda Constitucional nº 103/2019. Essas decisões, que se encontram pendentes de agravo interno na origem, constituem o objeto do presente feito.
+
+    4. No pedido de suspensão de tutela provisória, o Município Lauro de Freitas/BA assevera que a “jurisprudência deste Supremo Tribunal Federal é uníssona no sentido de que, havendo previsão legislativa municipal, a aposentadoria pelo Regime Geral de Previdência Social é causa de vacância do cargo público, o que impossibilita a reintegração do servidor ao cargo anteriormente ocupado”.
+
+    5. Defende a existência de grave risco de lesão à ordem administrativa, “porque as reintegrações em tela obstam a plena eficácia da regra constitucional do concurso”. Sustenta, também, haver risco de lesão à economia pública, uma vez que “recursos públicos estão sendo pagos a servidores que não tem direito, causando danos ao patrimônio público que não tem como ser ressarcido após o julgamento da improcedência da ação proposta em primeira instância”.
+
+    6. Assevera que, com a promulgação da Constituição Federal de 1988, sobreveio o Regime Jurídico Único dos Servidores de Lauro de Freitas (Lei municipal nº 643/1990), que abarcou o estabelecido no art. 19 do ADCT, de modo que “aqueles que permaneceram na Administração Pública Municipal passaram a ser regidos pelo regime estatutário”. Por isso, afirma que não se aplica ao caso a ressalva contida no artigo 6º da Emenda Constitucional nº 103/2019, que afasta a restrição contida no art. 37, § 14, da Constituição Federal no tocante aos agentes públicos aposentados pelo RGPS antes da entrada em vigor da EC nº 103/2019. Ressalta que a legislação municipal prevê expressamente a vacância do cargo público por ocasião da aposentadoria do servidor, atraindo a aplicação do entendimento firmado no tema 1.150 da repercussão geral.
+
+    7. Quanto ao devido processo legal, afirma que “o ato de exoneração objeto dos autos foi, inclusive, precedido de notificação e manifestação das servidoras (conforme anexos), anteriormente à extinção dos vínculos”.
+
+    8. Indica a possibilidade de efeito multiplicador, tendo em conta que cerca de 174 (cento e setenta e quatro) servidores públicos municipais tiveram sua vacância decretada em razão de aposentadoria, conforme previsão expressa na legislação municipal, e alguns deles já ingressaram com ações de reintegração no cargo.
+
+    9. Requer, assim, (i) a suspensão das decisões impugnadas, até o trânsito em julgado das ações de origem; e (ii) a declaração da possibilidade de “estender os efeitos da presente suspensão a liminares supervenientes, mediante simples aditamento do pedido original, como preceitua o art. 15, § 5º, da Lei nº 12.016/2009 c/c art. 4º, § 8º, da Lei nº 8.437/1992”.
+
+    10. As beneficiárias apresentaram contestação, em que alegam, em síntese: (i) o não cabimento do pedido de suspensão, por ausência de decisão colegiada do Tribunal local; (ii) inexistência de risco de lesão à ordem e à economia públicas, por serem os servidores celetistas a minoria dos 174 servidores exonerados; (iii) a submissão ao regime celetista, pois admitidas antes da CF/88; (iv) a não aderência do caso ao tema 1.150 da repercussão geral e (v) a aplicabilidade da ressalva do art. 6º da Emenda Constitucional nº 103/2019 e do tema nº 606 da repercussão geral, tendo em conta que as aposentadorias ocorreram antes da vigência da referida emenda.
+
+    11. A Procuradoria-Geral da República se manifestou pelo deferimento do pedido, em parecer que recebeu a seguinte ementa:
+
+    SUSPENSÃO DE SEGURANÇA. CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. APOSENTADORIA VOLUNTÁRIA. EXTINÇÃO DO VÍNCULO COM O MUNICÍPIO. AUSÊNCIA DE REGIME PRÓPRIO DE PREVIDÊNCIA. SUBMISSÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL. VACÂNCIA DO CARGO. PREVISÃO NO REGIME JURÍDICO ÚNICO MUNICIPAL. MANUTENÇÃO NO CARGO. IMPOSSIBILIDADE. EXIGÊNCIA DE NOVO CONCURSO PÚBLICO. RISCO DE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. DEFERIMENTO DA MEDIDA DE CONTRACAUTELA. 1. É competente o Supremo Tribunal Federal para processar e julgar pedido de suspensão de decisões, mediante as quais se determinou a reintegração de servidores públicos desligados do cargo em decorrência de aposentadoria voluntária, por envolver a interpretação e a aplicação do art. 37, II, da Constituição Federal. 2. Vislumbra-se risco de lesão à ordem pública, em sua acepção jurídico-constitucional, nas decisões por meio das quais se determina a reintegração de servidores desligados do cargo público em razão das suas aposentadorias voluntárias, quando previsto em lei local que a aposentadoria é hipótese de vacância do cargo, por provável afronta à regra constitucional de prévia aprovação em concurso público (art. 37, II, da CF). 3. Há risco de lesão à economia pública quando se verifica a impossibilidade de restituição ao erário dos pagamentos a serem efetuados a servidores públicos reintegrados em razão do cumprimento das decisões impugnadas no pedido de suspensão. 4. A possibilidade de concretização do efeito multiplicador reforça a existência de risco de lesão à ordem e à economia públicas, nas decisões por meio das quais se determinou a reintegração de servidores públicos desligados dos cargos públicos em razão de aposentadorias voluntárias, em situação de provável afronta ao princípio do concurso público. — Parecer pelo deferimento da contracautela.
+
+    12. Alegando identidade de objeto entre as decisões, o ente federado requereu o aditamento do pedido original da presente suspensão de tutela provisória, de modo a estendê-lo também ao acórdão proferido no agravo de instrumento 8045092-44.2023.8.05.0000, interposto por Ana Maria Silva da Paixão.
+
+    13. É o relatório. Decido.
+
+    14. Indefiro o aditamento à inicial, porque formulado após as manifestações das beneficiárias indicadas na inicial e da Procuradoria-Geral da República (art. 329 do CPC). Além disso, quando formulado o pedido de extensão ao acórdão proferido no agravo de instrumento nº 8045092-44.2023.8.05.0000, não havia qualquer deferimento de suspensão nestes autos, pelo que não se trata da hipótese autorizada pelo art. 4º, § 8º, da Lei nº 8.437/1992 (o Presidente do Tribunal pode “estender os efeitos da suspensão a liminares supervenientes, mediante simples aditamento do pedido original”).
+
+    15. Afasto, ademais, a preliminar de não cabimento do pedido de suspensão, por ausência de decisão colegiada no Tribunal local. O Supremo Tribunal Federal já assentou não ser o esgotamento da instância recursal pressuposto para a formulação de pedido de contracautela nesta Corte, desde que presentes os requisitos legais exigidos pela legislação de regência (nesse sentido: SS 2.660-AgR e STA 101-AgR, Relª. Minª. Ellen Gracie, Presidente, j. em 17.03.2008; e Pet 2.455, Rel. Min. Marco Aurélio, Presidente, redator p/ acórdão Min. Gilmar Mendes, j. em 13.03.2003).
+
+    16. A suspensão de liminar constitui meio autônomo de impugnação de decisões judiciais disciplinado pelo art. 4º da Lei nº 8.437/1992, nos seguintes termos:
+
+    Art. 4° Compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+
+    17. De início, verifico a presença dos requisitos processuais necessários ao conhecimento da ação. O Supremo Tribunal Federal é competente para apreciar o pedido, já que lhe caberá conhecer de eventual recurso extraordinário que impugne a decisão proferida pelo Tribunal de Justiça do Estado da Bahia que ora se busca suspender. A discussão envolve matéria de índole constitucional, relativa à interpretação do art. 37, II, e § 14, da Constituição e do art. 6º da Emenda Constitucional nº 103/2019. Além disso, a decisão impugnada foi proferida em ação ajuizada em face da pessoa jurídica de direito público interessada, que também dirigiu o pedido de suspensão à Presidência desta Corte.
+
+    18. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a concessão de medida de contracautela ostenta caráter de absoluta excepcionalidade. Assim, a suspensão da decisão somente se justifica nos casos em que efetivamente demonstrado pela parte interessada risco de “grave lesão à ordem, à saúde, à segurança e à economia públicas”. Veja-se, a título de exemplo: STP 914 AgR, Relª. Minª. Rosa Weber (Presidente), j. em 03.05.2023; SL 1.547 AgR, Rel. Min. Luiz Fux (Presidente), j. em 29.08.2022; SL 836 AgR, Rel. Min. Ricardo Lewandowski (Presidente), j. em 22.10.2015.
+
+    19. No caso em exame, antes da reforma previdenciária (EC 103/2019), as ora beneficiárias, professoras do Município de Lauro de Freita/BA, aposentaram-se voluntariamente pelo Regime Geral da Previdência Social (RGPS) - por não dispor o ente federado de regime próprio de previdência social - sem se afastarem de suas funções. Posteriormente, foram exoneradas com base em dispositivo do Estatuto dos Servidores Públicos local que prevê, como causa de vacância do cargo público, a aposentadoria de seu ocupante. Em razão disso, ajuizaram ação na origem, em que pediram a reintegração no mesmo cargo, com a cumulação dos proventos de inatividade com vencimentos relacionados aos cargos exercidos no município.
+
+    20. A pretensão formulada na origem não encontra guarida na jurisprudência do Supremo Tribunal Federal. Ao julgar o RE 1.302.501 (Rel. Min. Luiz Fux, Presidente), paradigma do Tema 1.150 da repercussão geral, o Plenário desta Corte confirmou o entendimento de que, se a legislação do ente federativo estabelece que a aposentadoria é causa de vacância do cargo, o servidor não pode nele ser mantido ou reintegrado depois de se aposentar, mesmo que a aposentadoria tenha sido pelo RGPS. Eis o teor da tese fixada na referido tema da repercussão geral:
+
+    O servidor público aposentado pelo Regime Geral de Previdência Social, com previsão de vacância do cargo em lei local, não tem direito a ser reintegrado ao mesmo cargo no qual se aposentou ou nele manter-se, por violação à regra do concurso público e à impossibilidade de acumulação de proventos e remuneração não acumuláveis em atividade.
+
+    21. A Lei nº 643/1990, que instituiu o regime jurídico único no Município de Lauro de Freitas, previu a aposentadoria como causa de vacância do cargo (art. 35). Essa regra foi mantida na Lei municipal nº 1.519/2013 (art. 32). Além disso, a legislação municipal estabeleceu a forma de transposição dos servidores admitidos pela Consolidação das Leis do Trabalho (CLT) para o novo regime. Pelos documentos apresentados nestes autos, as beneficiárias passaram a se submeter ao regime estatutário (docs. 13 a 16).
+
+    22. Nesse cenário, as decisões impugnadas, ao determinarem a reintegração, no mesmo cargo, de servidoras públicas municipais aposentadas voluntariamente pelo RGPS, contrariaram a tese fixada por esta Corte ao examinar o tema nº 1.150 da repercussão geral. Observo, ainda, que não houve efetiva análise da observância do devido processo legal nos casos concretos, uma vez que apenas se fez referência à Súmula 20/STF na decisão do agravo de instrumento 8045252-69.2023.8.05.0000.
+
+    23. A reintegração de servidor em desconformidade com a orientação firmada na sistemática da repercussão geral representa risco de grave lesão à ordem administrativa, na medida em que obsta a plena eficácia da regra constitucional do concurso público. Há, ainda, impacto financeiro, pois a natureza alimentar da remuneração impossibilita a restituição dos valores eventualmente já pagos. Verifica-se, por fim, potencial efeito multiplicador, dada a informação de que 174 servidores exonerados enquadram-se na mesma situação das ora beneficiárias.
+
+    24. Em casos semelhantes ao dos autos, o Plenário desta Corte reconheceu haver risco de lesão à ordem e à economia públicas. Nesse sentido, a SS 5.631 e a SS 5.612, Relª. Minª. Rosa Weber (Presidente), j. em 07.08.2023 e 18.03.2023; e a SL 1.509-AgR, Rel. Min Luiz Fux (Presidente), j. em 02.03.2022, esse último assim ementado:
+
+    AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR. SERVIDORAS PÚBLICAS. DECISÃO QUE DETERMINOU A REINTEGRAÇÃO DE SERVIDORAS APOSENTADAS PELO RGPS E PERMITIU A CUMULAÇÃO DE PROVENTOS DE APOSENTADORIA E VENCIMENTOS. ALEGAÇÃO DE RISCO À ORDEM E À ECONOMIA PÚBLICAS. OCORRÊNCIA. APOSENTADORIA QUE GERA A VACÂNCIA DO CARGO PÚBLICO. VIOLAÇÃO DA REGRA DO CONCURSO PÚBLICO (CF, ART. 37, II). PRECEDENTES. TEMA 1.050 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. POTENCIAL EFEITO MULTIPLICADOR. SUSPENSÃO JULGADA PROCEDENTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    1. O incidente de contracautela é meio processual autônomo de impugnação de decisões judiciais, franqueado ao Ministério Público ou à pessoa jurídica de direito público interessada exclusivamente quando se verifique risco de grave lesão à ordem, à saúde, segurança e à economia públicas no cumprimento da decisão impugnada (art. 4º, caput, da Lei 8.437/1992; art. 15 da Lei 12.016/2009 e art. 297 do RISTF).
+
+    2. In casu, ao determinar a reintegração de servidoras aposentadas voluntariamente pelo RGPS e permitir a cumulação de proventos e vencimentos, a decisão impugnada contraria entendimento deste Supremo Tribunal Federal sobre a matéria, firmado no no julgamento do RE 1.302.501 - Tema 1.150 da Repercussão Geral, no sentido de que lei local pode prever a aposentadoria como causa de vacância do cargo público.
+
+    3. A reintegração de servidor estatutário aposentado pelo RGPS ao cargo no qual se aposentou ou sua manutenção nele obsta a plena eficácia da regra constitucional do concurso público, gerando risco à ordem e à economia públicas, considerado o impacto financeiro e o potencial efeito multiplicador.
+
+    4. Agravo a que se nega provimento.
+
+    25. Por fim, quanto ao pedido de “declaração da possibilidade de extensão dos efeitos da suspensão a liminares supervenientes mediante simples aditamento do pedido original”, anoto que tal direito decorre diretamente do disposto no art. 4º, § 8º, da Lei 8.437/1992, conforme já evidenciado acima.
+
+    26. Ante o exposto, julgo procedente o pedido, para suspender os efeitos das decisões proferidas pelo Tribunal de Justiça do da Bahia nos agravos de instrumento 8045252-69.2023.8.05.0000 e 8045229-26.2023.8.05.0000, até a prolação de decisões de mérito nas respectivas demandas de origem.
+
+    Publique-se. Comunique-se.
+
+Brasília, 20 de novembro de 2023.
+
+Ministro Luís Roberto Barroso
+
+Presidente
