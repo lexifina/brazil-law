@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NILTON PEREIRA DE CASTRO JÚNIOR contra decisão de Desembargador do Tribunal de Justiça do Estado de Minas Gerais, proferida no dia 25/10/2023, acolhendo a representação da Autoridade Policial e deferindo o pedido de prisão preventiva do paciente e mais quatro investigados (MC 1.0000.23.232199-2/000).
+Segundo consta dos autos, o Ministério Público teria recebido um vídeo denunciando fraude em um concurso para três cargos públicos do Município de Piedade de Caratinga/MG, a saber: advogado, dentista (próteses) e enfermeiro, realizado no dia 28/5/2023. O esquema investigado contaria com o paciente, que é procurador do município, e outros investigados, entre eles o prefeito, Adolfo Bento Neto, oferecendo a fraude mediante cobrança de um salário do cargo pretendido.
+De acordo com a decisão impugnada, foram deferidas medidas de quebra de sigilo fiscal, bancário, telemático e interceptações telefônicas dos investigados, material probatório que teria revelado indícios de uma organização criminosa. Além disso, foi realizado o bloqueio de valores para garantir eventual indenização cível, limitado a R$ 389.891,00.
+No presente habeas corpus, a defesa alega, em resumo, não estar configura o perigo pelo estado de liberdade do investigado, ausência de contempor aneidade da medida cautelar e ausência dos requisitos legais que autorizam a prisão preventiva, previstos no art. 312 do CPP. Ressalta, ademais, as condições pessoais favoráveis do investigado, como primariedade absoluta, residência fixa, com endereço certo, o que evidencia a possibilidade de aplicação de outras cautelares mais brandas.
+Diante disso, pede, em liminar e no mérito, o relaxamento da prisão preventiva do paciente.
+É o relatório, decido.
+Não há mais interesse no julgamento do presente habeas corpus. Isso porque o ora paciente já foi beneficiado com a liberdade provisória concedida de forma extensiva no julgamento do HC 869.127/MG, em decisão com o seguinte dispositivo:
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem de habeas corpus para revogar a prisão preventiva do paciente, mediante a aplicação das medidas cautelares especificadas na presente decisão, com extensão aos co-investigados presos por força do mesmo decreto prisional - MARCOS WELBER DE JESUS SANTOS, TIAGO DOS SANTOS CARDOSO e NILTON PEREIRA DE CASTRO JÚNIOR.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Intimem-se.
+EMENTA
