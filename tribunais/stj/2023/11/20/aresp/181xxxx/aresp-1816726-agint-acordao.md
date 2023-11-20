@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ . PROVIMENTO NEGADO.
+1. A decisão agravada não conheceu do recurso em função da incidência da Súmula 7/STJ para o pleito relativo ao reconhecimento da violação da transparência por descumprimento de formalidades no procedimento administrativo que tratou de inspeções técnicas relacionadas a serviço de energia elétrica.
+2. Não é possível a análise da pretensão da parte, dado que o Tribunal de origem reconheceu, com base nas nuances circunstanciais inerentes à hipótese, que é regular a cobrança realizada pela concessionária de serviços de energia, visto que ficou comprovada a fraude na medição do consumo (irregularidade no medidor), sendo certo que foram respeitadas todas as formalidades procedimentais no processo administrativo instaurado, que contou inclusive com a participação da parte.
+3. A revaloração pressupõe a existência inequívoca de fatos incontroversos e suficientes à análise da irresignação recursal, o que não ocorreu no presente caso, visto que não há qualquer apontamento de qual seria a possível premissa incontroversa apta para tal.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por EUNICE ETERNA VALADÃO contra a decisão  da Presidência do Superior Tribunal de Justiça que não conheceu de seu recurso (fls. 553/556).
+Em suas razões recursais, a parte agravante aduz que pretende a valoração da prova de maneira mais adequada (fls. 590/591).
+Impugnação apresentada às fls. 597/649 .
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ . PROVIMENTO NEGADO.
+1. A decisão agravada não conheceu do recurso em função da incidência da Súmula 7/STJ para o pleito relativo ao reconhecimento da violação da transparência por descumprimento de formalidades no procedimento administrativo que tratou de inspeções técnicas relacionadas a serviço de energia elétrica.
+2. Não é possível a análise da pretensão da parte, dado que o Tribunal de origem reconheceu, com base nas nuances circunstanciais inerentes à hipótese, que é regular a cobrança realizada pela concessionária de serviços de energia, visto que ficou comprovada a fraude na medição do consumo (irregularidade no medidor), sendo certo que foram respeitadas todas as formalidades procedimentais no processo administrativo instaurado, que contou inclusive com a participação da parte.
+3. A revaloração pressupõe a existência inequívoca de fatos incontroversos e suficientes à análise da irresignação recursal, o que não ocorreu no presente caso, visto que não há qualquer apontamento de qual seria a possível premissa incontroversa apta para tal.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+A decisão agravada não conheceu do recurso em função da incidência da Súmula 7/STJ para o pleito relativo ao reconhecimento da violação da transparência por descumprimento de formalidades no procedimento administrativo que tratou de inspeções técnicas relacionadas a serviço de energia elétrica.
+Nas razões do agravo interno, a parte agravante apenas trata da Súmula 7/STJ por fórmulas genéricas e alegações abstratas, sem correlação concreta com a hipótese dos autos mediante apontamento específico de possíveis fatos incontroversos. Além disso, reitera o mérito descrito no recurso especial .
+Em todo caso, ressalto que o Tribunal de origem reconheceu, com base nas nuances circunstanciais inerentes à hipótese, que é regular a cobrança realizada pela concessionária de serviços de energia, visto que ficou comprovada a fraude na medição do consumo (irregularidade no medidor), sendo certo que foram respeitadas todas as formalidades procedimentais no processo administrativo instaurado, que contou inclusive com a participação da parte.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial". A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. ENERGIA ELÉTRICA. FRAUDE NO MEDIDOR. APLICAÇÃO DO REPETITIVO. TEMA 699/STJ. REGULARIDADE DO PROCESSO ADMINISTRATIVO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. A Primeira Seção desta Corte, no julgamento do Recurso Especial Repetitivo n. 1.412.433/RS, sob o rito de recursos repetitivos (Tema 699), cuja controvérsia versava sobre a "possibilidade de o prestador de serviços públicos suspender o fornecimento de energia elétrica em razão de débito pretérito do destinatário final do serviço", consignou que, em relação aos débitos por recuperação de efetivo consumo, por fraude no medidor, "incumbe à concessionária do serviço público observar rigorosamente os direitos ao contraditório e à ampla defesa do consumidor na apuração do débito, já que o entendimento do STJ repele a averiguação unilateral da dívida".
+2. O acórdão recorrido, à luz das provas constantes do autos, concluiu pela aplicação do mencionado julgamento repetitivo ao entendimento de que à parte agravante foram garantidos os devidos contraditório e processo legal, bem como a ampla defesa na apuração do débito no âmbito do processo administrativo. Rever essa compreensão demandaria o reexame do acervo fático constante dos autos, providência vedada em sede de recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido. (AgInt no AREsp n. 1.913.993/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/6/2022, DJe de 9/6/2022.)
+Vale ressaltar que a revaloração pressupõe a existência inequívoca de fatos incontroversos e suficientes à análise da irresignação recursal, o que não ocorreu no presente caso, visto que não há qualquer apontamento de qual seria a possível premissa incontroversa apta para tal.
+Concluo pela necessária manutenção do entendimento desenvolvido pela Presidência desta Corte Superior de Justiça, ante a inexistência de fundamentos capazes de reverter a incidência do óbice invocado.
+Pelas considerações expostas, nego provimento ao agravo interno.
+É o voto.
