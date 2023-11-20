@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da ausência de violação a dispositivo legal e incidência das Súmulas n. 283 e 284 do STF (e-STJ fls. 279/281).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 149):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DA SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. PLANOS ECONÔMICOS. DECISÃO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO, MANTEVE A DECISÃO QUE IMPEDIU O LEVANTAMENTO DE VALORES ANTES DO TRÂNSITO EM JULGADO DA IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA E CONDENOU O EXECUTADO AO PAGAMENTO DE MULTA EQUIVALENTE A 1% (UM POR CENTO) SOBRE O VALOR DA CAUSA. ALEGAÇÃO DE IMPOSSIBILIDADE DE LEVANTAMENTO DOS VALORES DEPOSITADOS EM JUÍZO. PROVIDÊNCIA JÁ ASSEGURADA NO PRIMEIRO GRAU DE JURISDIÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. PRETENSÃO DE AFASTAMENTO DA INCIDÊNCIA DA MULTA DO ARTIGO 475-J DO CÓDIGO DE PROCESSO CIVIL DE 1973 E DOS HONORÁRIOS ADVOCATÍCIOS DO CÁLCULO DO DÉBITO. TENTATIVA DE REABRIR DISCUSSÃO ACOBERTADA PELOS EFEITOS DA PRECLUSÃO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO OPOSTOS COM FINS PROTELATÓRIOS. MANUTENÇÃO DA MULTA APLICADA NO PRIMEIRO GRAU. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 203/209).
+Nas razões do recurso especial (e-STJ fls. 212/229), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 1.022 do CPC/2015, por "omissão quanto a manifestação expressa dos artigos 471 e 475-J do Código Civil de 1973" (e-STJ fl. 217),
+(ii) art. 505 do CPC/2015, sob alegação de que "a impugnação interposta pelo Banco não foi definitivamente julgada, tendo em vista justamente que o Recurso Especial e Extraordinário interpostos encontram-se pendentes de julgamento em razão do sobrestamento.  .. . Observa-se, então, que não houve o trânsito em julgado dos presentes autos, de modo que este D. Juízo não poderia ter determinado o prosseguimento do feito.  .. . Desta forma, é nítida a violação ao dispositivo acima, que determinou o prosseguimento do feito, sendo que anteriormente este mesmo D. Juízo havia consignado que apenas com o trânsito em julgado dos Recursos Especiais representativos da controvérsia os autos deveriam retornar para conclusão" (e-STJ fls. 219/222), e
+(iii) art. 475-J do CPC/1973 (art. 523 do CPC/2015), sob o fundamento de que "intimado para pagamento o Recorrente efetuou o depósito, em 15 dias, para posteriormente exercer seu direito legal de oferecer a impugnação ao cumprimento de sentença, nos moldes do art. 475-L, do CPC/73. Com todo respeito a entendimentos diversos, a multa dos 10% prescrita no art. 475-J, do CPC/73, somente seria passível de incidência no caso de inadimplemento do devedor, o que não ocorreu nos presentes autos" (e-STJ fl. 226).
+No agravo (e-STJ fls. 284/298), afirma-se a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 302).
+É o relatório.
+Decido.
+A parte alega genericamente violação do art. 1.022 do CPC/2015, por suposta omissão do Tribunal de origem quanto à manifestação expressa de dispositivos legais, sem explicitar qual seria a relevância de citar os arts. 471 e 475-J do CPC/1973 para a resolução da controvérsia dos autos.
+Não havendo, portanto, demonstração clara e inequívoca da infração, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do Supremo Tribunal Federal.
+No que diz respeito à tese de que a impugnação interposta pelo Banco não foi definitivamente julgada, tendo em vista os recursos Especial e Extraordinário encontrarem-se pendentes de julgamento em razão do sobrestamento, bem como violação dos art. 505 do CPC/2015, verifica-se que a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Por fim, quanto a aplicação da multa do art. 475-J do CPC/1973, o Tribunal de origem afirmou que a matéria estaria preclusa (e-STJ fl. 206):
+A respeito da inaplicabilidade da multa estabelecida pelo art. 475-J do CPC/73, e fixação de honorários advocatícios, observa-se que restou consignado no v. acórdão não ser possível o exame, haja vista os efeitos da preclusão (f1.119).
+Contudo, no recurso especial, apontando contrariedade ao art. 475-J do CPC/1973, a parte sustenta somente o não cabimento da multa.
+Verifica-se, portanto, que não houve impugnação de todos fundamentos do acórdão recorrido. Incide, portanto, a Súmula n. 283 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+ EMENTA
