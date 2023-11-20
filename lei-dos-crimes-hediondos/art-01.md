@@ -20,3 +20,4 @@ II - o crime de posse ou porte ilegal de arma de fogo de uso proibido, previsto 
 III - o crime de comércio ilegal de armas de fogo, previsto no art. 17 da Lei nº 10.826, de 22 de dezembro de 2003;
 IV - o crime de tráfico internacional de arma de fogo, acessório ou munição, previsto no art. 18 da Lei nº 10.826, de 22 de dezembro de 2003;
 V - o crime de organização criminosa, quando direcionado à prática de crime hediondo ou equiparado.
+VI - os crimes previstos no Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), que apresentem identidade com os crimes previstos no art. 1º desta Lei.
