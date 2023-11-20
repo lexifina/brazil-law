@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JORGE LUIS IBARRA AHUMADA, VICTOR MANUEL MARTINEZ MARTINEZ e PEDRO ANTÔNIO GARRIDO MORALES contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Depreende-se dos autos que os pacientes foram presos em flagrante e tiveram as prisões convertidas em preventiva pela prática, em tese, do crime previsto no art. 155, 4º, inc. I e IV e art. 288, ambos do Código Penal-fl. 27. Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão dos pacientes e denegou a ordem, em acórdão de fls. 9-13 ao fundamento de :
+"garantir a ordem pública, diante da real possibilidade de reiteração criminosa. Isso porque, ao que consta, os conduzidos já vem praticando crimes de furto em todo o Estado de Santa Catarina. Pelas informações colhidas no Auto de Prisão em Flagrante, a autoridade policial constatou que, além do presente furto, houveram, no mínimo, mais dois furtos praticados pelos custodiados com o mesmo modus operandi, um deles praticado na cidade de Chapecó-SC (fevereiro/2023) e outro na cidade de Brusque-SC (julho/2022)"- fl. 10.
+Postula a defesa, no presente writ, em linhas gerais, a revogação das prisões preventivas em razão da alegada ausência de fundamentação idônea da decisão que decretou as segregações cautelares, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que os pacientes ostentam condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida às fls. 588-589.
+As informações foram prestadas às fls.595-599 e 600-634. O Ministério Público Federal, às fls. 638-644, manifestou-se em parecer que restou assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. CRIMES DE ASSOCIAÇÃO CRIMINOSA E DE FURTO QUALIFICADO. PRISÃO PREVENTIVA. INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- Iª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial.
+- 2ª Preliminar: conhecimento de ofício; ausência de competência.
+- Precedentes: STJ (HC nº 245.731/MS; HC nº 248.757/SP).
+- Parecer pelo não conhecimento do habeas corpus" - 638.
+É o relatório. DECIDO.
+Na hipótese, tenho que a decisão que decretou as prisões preventivas dos pacientes está suficientemente fundamentado na necessidade de garantia da ordem pública, notadamente se considerado o fundado receio de reiteração delitiva, uma vez que, pelo que consta dos autos, os pacientes já vê m praticando furtos em todos o Estado de Santa Catarina, conforme salientado: "houveram, no mínimo, mais dois furtos praticados pelos custodiados com o mesmo modus operandi, um deles praticado na cidade de Chapecó-SC (fevereiro/2023) e outro na cidade de Brusque-SC (julho/2022)"- fl. 28.
+Ressalte-se que:
+"O decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente, eis que o recorrente é reincidente além de ter outro processo em curso em seu desfavor. Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/10/2019, DJe 14/10/2019)" (AgRg no RHC n. 177.007/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023, grifei)
+Conforme pacífica jurisprudência desta Corte:
+"a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023.).
+Outrossim, conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública,  (AgRg no RHC n. 173.374/BA, Sexta Turma, relator Ministro Antonio Saldanha Palheiro, DJe de 30/3/2023); (AgRg no HC n. 803.157/SP, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 24/3/2023); (AgRg no HC n. 797.708/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe de 24/3/2023) .
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intime-se.
+EMENTA
