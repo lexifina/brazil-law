@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONSÓRCIO TRANSCARIOCA DE TRANSPORTES (CONSÓRCIO) contra decisão de relatoria da Ministra Presidente desta Corte que não conheceu do agravo em recurso especial, porque não foram impugnados especificamente todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente inconformismo, o CONSÓRCIO alegou que (1) foram impugnados especificamente todos os fundamentos da decisão agravada; (2) não é caso de incidência das Súmulas nºs 5, 7 e 83 do STJ; (3) não se pretende simples reexame de fatos, mas reexame da qualificação legal; (4) foi violado o art. 28, § 3º, do CDC; e, (5) a teor do entendimento assentado no REsp nº 1.635.637/RJ, a regra é a ausência de solidariedade entre o consórcio e suas consorciadas.
+Não houve impugnação ao recurso (e-STJ, fl. 549).
+É o relatório.
+DECIDO.
+Reconsideração do decisum
+De fato, verifica-se que o CONSÓRCIO, nas razões do agravo em recurso especial, impugnou especificamente todos os fundamentos da decisão denegatória do apelo nobre.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto pelo CONSÓRCIO.
+Em seu recurso especial, amparado no art. 105, III, a, da CF, o CONSÓRCIO alegou ofensa aos arts. 278, § 1º, da Lei nº 6404/1975, 265 do CC/2002, 70, 75 e 1.022 do NCPC e 33, V, da Lei nº 8.666//1993. Sustentou que (1) não detém legitimidade passiva para figurar no feito, por se tratar de consórcio de empresas; (2) existe responsabilidade solidária entre as consorciadas e não entre elas e o consórcio; (3) a responsabilidade solidária não pode ser presumida e o art. 28, § 3º, do CDC não prevê responsabilidade solidária entre as sociedades e o próprio consórcio; (4) o consórcio não possui personalidade jurídica; (5) o STJ ao apreciar o EREsp nº 1.635.637/RJ concluiu não haver solidariedade entre as consorciadas e o consórcio; e, (6) o aresto recorrido foi omisso.
+Foram apresentadas contrarrazões (e-STJ, fls. 464/471).
+O inconformismo merece prosperar em parte.
+Da eventual assertiva de omissão no aresto recorrido
+O CONSÓRCIO alegou ofensa ao art. 1.022 do NCPC. Sustentou que o aresto recorrido foi omisso.
+Vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No presente caso, da leitura das razões do especial, verificou-se que o CONSÓRCIO não apresentou argumentos claros e concatenados no tocante ao alegado, mas apenas ilações genéricas, pois limitou-se a dizer que não existe complexidade na causa e, por isso, os honorários advocatícios devem ser fixados no mínimo legal.
+Sobre o tema, vejam-se os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PENHORA. ALEGAÇÃO DE AFASTAMENTO. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. REEXAME. IMPOSSIBILIDADE. VERBETES SUMULARES N. 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO. NÃO PROVIDO.
+1. A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Verbete sumular n. 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Enunciado da Súmula n. 83 desta Corte Superior).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.931.592/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.815/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022)
+Da alegações de ausência de legitimidade passiva para figurar no feito e da ausência de personalidade jurídica
+O CONSÓRCIO alegou ofensa aos arts. 278, § 1º, da Lei nº 6404/1975, 70 e 75 do NCPC. Sustentou que (1) não detém legitimidade passiva para figurar no feito, por se tratar de consórcio de empresas; e, (2) o consórcio não possui personalidade jurídica.
+A esse respeito, conforme entendimento pacificado neste Superior Tribunal, o consórcio constituído sob o regime da Lei n. 6.404/1976, ainda que não goze de personalidade jurídica (artigo 278, § 1º, CPC), possui personalidade judiciária, nos termos do artigo 12, VII, do CPC (AgRg no AREsp n. 703.654/MS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/9/2015, DJe 9/9/2015).
+Dessa forma, o CONSÓRCIO detém legitimidade para figurar no polo passivo da presente ação.
+Em igual sentido, veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. CONSÓRCIO. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. RELAÇÃO DE CONSUMO. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "o consórcio constituído sob o regime da Lei n. 6.404/1976, ainda que não goze de personalidade jurídica (artigo 278, § 1º, CPC), possui personalidade judiciária, nos termos do artigo 12, VII, do CPC" (AgRg no AREsp n. 703.654/MS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1º/9/2015, DJe 9/9/2015).
+2. É firme o entendimento neste Superior Tribunal de que, na hipótese de responsabilidade derivada de relação de consumo, a regra geral da ausência de solidariedade entre as consorciadas é afastada, por força da disposição contida no art. 28, § 3º, do CDC.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.029.360/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023)
+De qualquer sorte, rever o entendimento firmado pelas instâncias ordinárias acerca da legitimidade passiva do consórcio implicaria o reexame de cláusulas contratuais e do contexto fático-probatório, procedimentos inadmissíveis em recurso especial ante os óbices das Súmulas nºs 5 e 7 do STJ.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. CONSORCIADOS. RESPONSABILIDADE SOLIDÁRIA. REGRA GERAL. AFASTAMENTO. RELAÇÃO DE CONSUMO. LEGITIMIDADE PASSIVA DO CONSÓRCIO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 e 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A regra geral da ausência de solidariedade entre as consorciadas, prevista no art. 28, § 3º, do Código de Defesa do Consumidor, é afastada no caso de responsabilidade derivada de relação de consumo, como na situação dos autos, diante da necessidade de se atribuir máxima proteção ao consumidor.
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias acerca da legitimidade passiva do consórcio implicaria o reexame de cláusulas contratuais e do contexto fático-probatório, procedimentos inadmissíveis em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.909.738/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022)
+Sobre a responsabilidade solidária
+O CONSÓRCIO alegou ofensa aos arts. 265 do CC/2002 e 33, V, da Lei nº 8.666//1993. Sustentou que (1) existe responsabilidade solidária entre as consorciadas e não entre elas e o consórcio; e, (2) a responsabilidade solidária não pode ser presumida e o art. 28, § 3º, do CDC não prevê responsabilidade solidária entre as sociedades e o próprio consórcio.
+Sobre o tema, é firme o entendimento do STJ no sentido de que, na hipótese, de responsabilidade solidária de relação de consumo, a regra geral da ausência de solidariedade entre as consorciadas é afastada, por força da disposição contida no art. 28, § 3º do CDC.
+Ilustrativamente, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. CONSÓRCIO. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA. RELAÇÃO DE CONSUMO. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "o consórcio constituído sob o regime da Lei n. 6.404/1976, ainda que não goze de personalidade jurídica (artigo 278, § 1º, CPC), possui personalidade judiciária, nos termos do artigo 12, VII, do CPC" (AgRg no AREsp n. 703.654/MS, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1º/9/2015, DJe 9/9/2015).
+2. É firme o entendimento neste Superior Tribunal de que, na hipótese de responsabilidade derivada de relação de consumo, a regra geral da ausência de solidariedade entre as consorciadas é afastada, por força da disposição contida no art. 28, § 3º, do CDC.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.029.360/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE EM ÔNIBUS COLETIVO. LEGITIMIDADE PASSIVA DO CONSÓRCIO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF. RELAÇÃO DE CONSUMO. RESPONSABILIDADE SOLIDÁRIA ENTRE AS CONSORCIADAS. ART. 28, § 3º, DO CDC. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+2. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do STF.
+3. A jurisprudência desta Corte é no sentido de que, "na hipótese de responsabilidade derivada de relação de consumo, afasta-se a regra geral da ausência de solidariedade entre as consorciadas por força da disposição expressa contida no art. 28, § 3º, do CDC. Essa exceção em matéria consumerista justifica-se pela necessidade de se atribuir máxima proteção ao consumidor, mediante o alargamento da base patrimonial hábil a suportar a indenização" (AgInt no AREsp 1.658.330/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 21/9/2020). Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.982.129/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/5/2023, DJe de 7/6/2023)
+Logo, a inclusão do CONSÓRCIO no polo passivo da lide encontra amparo na jurisprudência desta Corte Superior .
+Por derradeiro, cumpre registrar que o EREsp nº 1.635.637/RJ foi indeferido liminarmente por decisão monocrática.
+Nessas condições, dou provimento ao agravo interno para CONHECER do agravo, a fim de CONHECER em parte do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor do CONSÓRCIO, nos termos do art. 85, §§ 2º e 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. AÇÃO DE INDENIZAÇÃO POR DANOS. FUNDAMENTAÇÃO DEFICIENTE. ILAÇÕES GENÉRICAS. APLICAÇÃO DA SÚMULA N.º 284 DO STF, POR ANALOGIA. LEGITIMIDADE PASSIVA CONFIGURADA. APLICAÇÃO DAS SÚMULAS NºS 5 E 7 DO STJ. RESPONSABILIDADE SOLIDÁRIA. CARACTERIZAÇÃO. RELAÇÃO DE CONSUMO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE, E, NESSA EXTENSÃO, NÃO PROVIDO.
