@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  com  pedido  liminar, impetrado contra acórdão assim ementado (fls. 14-24):
+HABEAS CORPUS - TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO - COMÉRCIO ILEGAL DE ARMA DE FOGO - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - CIRCUNSTÂNCIAS DOS DELITOS - GARANTIA DA ORDEM PÚBLICA - SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR - IMPOSSIBILIDADE. A decretação da prisão preventiva se sustenta diante da comprovação da materialidade e dos indícios suficientes da autoria dos crimes, associados ao motivo legal da garantia da ordem pública, especificamente no que se refere às circunstâncias que envolveram os delitos. Eventuais condições pessoais, ainda que favoráveis, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva, mormente diante de elementos concretos e legítimos que demonstram a essencialidade da manutenção da custódia antecipada. Considerando-se que a concessão da prisão domiciliar visa, principalmente, resguardar os direitos das crianças afetadas pela prisão de suas genitoras, a situação apresentada nos autos, em que uma das menor esse encontra sob os cuidados da avó e a outra está em processo de adoção, torna inviável a substituição da prisão preventiva pela prisão domiciliar.
+Consta dos autos que a paciente foi presa preventivamente pela prática dos crimes previstos nos artigos 33 e 35, c/c art. 40, V, da Lei n. 11.343/2006 e artigo 17, §1º, da Lei n. 10.826/2003.
+A defesa alega que a prisão cautelar poderá ser substituída pela domiciliar quando a mulher for mãe de criança menor de 12 anos de idade incompletos, no caso em exame, tem-se que a paciente possui dois filhos menores, sendo a presença da mãe imprescindível para seus cuidados.
+Ressalta que a paciente é primária e tem bons antecedentes e, quanto ao fato de a menor residir com a avó, não é critério suficiente para legitimar a manutenção da prisão da mãe a fim de garantir a ordem pública.
+Requer, liminarmente e quanto ao mérito, a concessão da ordem no sentido de que sejam suspensos os efeitos do acórdão impugnado, até final julgamento da presente impetração, com a consequente expedição do respectivo alvará de soltura.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do artigo 34, XVIII e XX, do RISTJ.
+Quanto aos requisitos da custódia cautelar, em consulta ao sistema de dados desta Corte, verifica-se que foi ajuizado em favor da ora paciente o RHC 188.747/MG, constatando-se, portanto, que a presente impetração constitui mera reiteração do pedido formulado no referido writ, fato que se consubstancia em óbice ao conhecimento deste mandamus.
+Ante o exposto, não conheço d o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
