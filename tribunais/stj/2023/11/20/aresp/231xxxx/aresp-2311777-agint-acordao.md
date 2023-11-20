@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+2. Não há como afastar a conclusão estadual - no que diz respeito à abusividade dos juros remuneratórios estipulados na avença - sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Corte Superior.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO - EM LIQUIDACAO EXTRAJUDICIAL contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 548-552):
+AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. TAXA DE JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7 DO STJ. CONSTATADA ABUSIVIDADE CONTRATUAL NOS ENCARGOS DA NORMALIDADE, RESTA DESCARACTERIZADA A MORA. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, a parte agravante requer preliminarmente a suspensão do presente processo, com base no art. 18 da Lei n. 6.024/1974, devido ao decreto de sua liquidação extrajudicial, ou, alternativamente, a concessão da assistência judiciária gratuita.
+Alega ainda a inaplicabilidade das Súmulas 5 e 7/STJ, uma vez que não se busca reexame das provas ou das cláusulas contratadas, mas sim uma nova valoração das provas já especificadas e delineadas na decisão recorrida.
+Defende a divergência jurisprudencial, pois "a jurisprudência do STJ é pacífica ao referir que deve ser feita uma análise mais criteriosa, a fim de se verificar a ocorrência de discrepância entre a taxa de juros remuneratórios do contrato e a taxa média fornecida pelo BACEN" (e-STJ, fl. 568).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 622).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. ANÁLISE E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DISSÍDIO PREJUDICADO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, "os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares" (AgInt no REsp 1.930.618/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe 27/4/2022).
+2. Não há como afastar a conclusão estadual - no que diz respeito à abusividade dos juros remuneratórios estipulados na avença - sem a interpretação das cláusulas pactuadas e sem o revolvimento fático-probatório, procedimentos que se encontram obstados na seara extraordinária, em razão dos óbices contidos nos verbetes n. 5 e 7 da Súmula desta Corte Superior.
+3. Agravo interno a que se nega provimento.
+VOTO
+Reapreciando os autos, não se observam razões para o provimento deste agravo interno.
+De início, em relação ao pedido da agravante decorrente da decretação de sua liquidação extrajudicial, não merece acolhimento, em razão da obrigatoriedade do prequestionamento dos temas apontados no apelo especial. Sendo assim, o surgimento de fato superveniente capaz de alterar o tratamento dado à pretensão recursal não pode ser admitido, já que a causa de pedir dos recursos dirigidos às Cortes Superiores se encontra vinculada à fundamentação adotada no acórdão recorrido.
+Na mesma linha de cognição (sem destaque no original):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO TERRITORIAL RURAL. ÁREA TRIBUTÁVEL. RESERVA LEGAL E RESERVA PARTICULAR DO PATRIMÔNIO NATURAL. AVERBAÇÃO. ACÓRDÃO CUJA CONCLUSÃO NÃO PODE SER REVISTA EM REEXAME FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+1. Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. No caso dos autos, considerado o delineamento fático-probatório realizado pelo órgão julgador a quo, forçoso reconhecer que o conhecimento do recurso encontra óbice na Súmula 7 do STJ, quanto à pretensão de atribuição de efeito ex nunc à sentença; e quanto àquela relacionada à suficiência da prova dos autos.
+3. "Não é possível conhecer de fato ou direito superveniente em sede de recurso especial, porquanto ausente o requisito constitucional do prequestionamento" (AgInt nos EAREsp 129.858/RS, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 25/10/2019). Assim, este Tribunal Superior não pode conhecer de decisões administrativas supervenientes que veiculam fundamentos favoráveis à tese recursal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.593.918/RS, relator Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 7/6/2021, DJe de 10/6/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ALEGAÇÃO DE DIREITO SUPERVENIENTE. EXAME. IMPOSSIBILIDADE.
+1. Não se admite, no âmbito do recurso especial, a invocação de direito superveniente, pois essa espécie recursal tem causa de pedir vinculada à fundamentação adotada no acórdão recorrido e, por isso, não pode ser ampliada por fatos supervenientes ao julgamento do órgão judicial a quo.
+2. A exigência do prequestionamento prevalece também quanto às matérias de ordem pública.
+3. Agravo interno não conhecido.
+(AgInt no REsp 1.736.417/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/8/2019, DJe 20/8/2019)
+TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS. SUBSTITUIÇÃO PARA FRENTE. BASES DE CÁLCULO PRESUMIDA E REAL. RESTITUIÇÃO DA RESPECTIVA DIFERENÇA. POSSIBILIDADE. JULGAMENTO DO TEMA PELO SUPREMO TRIBUNAL FEDERAL SOB O SIGNO DA REPERCUSSÃO GERAL. TEMA 201. JUÍZO DE RETRATAÇÃO PELO PRÓPRIO STJ. ADEQUAÇÃO AO QUANTO DECIDIDO PELO STF. RECURSO ESPECIAL DO FISCO ESTADUAL DESPROVIDO. PETIÇÃO PROTOCOLADA PELO ESTADO EM MOMENTO POSTERIOR AO SEU ESPECIAL. INOVAÇÃO DE ARGUMENTOS E DE PLEITOS. IMPOSSIBILIDADE.
+ ..
+2. Não é possível se conhecer de inéditos pleitos formulados pelo Fisco recorrente em momento posterior ao da interposição de seu especial apelo, seja por configurar indevida inovação recursal, seja pela ausência de prequestionamento das questões assim suscitadas.
+3. Com efeito, o recurso especial "tem causa de pedir vinculada à fundamentação adotada no acórdão recorrido e, por isso, não pode ser ampliada por fatos supervenientes ao julgamento do órgão judicial a quo" (AgInt no REsp 1.306.878/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 29/11/2018).
+4. Juízo de retratação exercido nestes autos (artigo 1040, II, do CPC), em ordem a se negar provimento ao recurso especial do Estado do Rio Grande do Sul.
+(REsp 536.853/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 2/4/2019, DJe 5/4/2019)
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO SUPERVENIENTE EM SEDE DE RECURSO ESPECIAL. REQUISITO CONSTITUCIONAL DO PREQUESTIONAMENTO. MATÉRIAS DE ORDEM PÚBLICA.
+1. Para a apreciação de matéria pelo STJ no julgamento de recurso especial, é necessário ter havido o efetivo debate da legislação infraconstitucional no Tribunal de origem.
+2. Não cabe a apreciação de direito superveniente invocado pela parte somente em recurso especial e no STJ, em face do não cumprimento do requisito constitucional do prequestionamento.
+3. A exigência do prequestionamento prevalece também quanto às matérias de ordem pública.
+4. Embargos de divergência rejeitados.
+(EREsp 805.804/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 3/6/2015, DJe 1º/7/2015)
+Em relação ao pedido de justiça gratuita formulado no agravo interno, impende destacar que nesta esfera recursal em nada aproveitaria à parte, porquanto o agravo interno não necessita de recolhimento de custas.
+Embora a parte possa fazer o pedido a qualquer tempo, tendo como justificativa sua condição financeira, nesta fase recursal não mudaria a conclusão a que chegou a Presidência do Superior Tribunal de Justiça. Isso porque, segundo o entendimento jurisprudencial desta Corte, a concessão do benefício somente produzirá efeitos quanto aos atos processuais relacionados ao momento do pedido, ou posteriores a ele, não sendo admitida, portanto, sua retroatividade.
+Nesse sentido, os seguintes precedentes (sem destaque no original) :
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, verificada a existência de omissão, ela deve ser sanada.
+3. Não há utilidade prática no pedido de justiça gratuita no agravo interno, visto que o "pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos" (AgInt no AREsp 898.288/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/4/2018, DJe 20/4/2018).
+4. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 1.704.464/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 9/8/2021, DJe 13/8/2021).
+EMBARGOS DE DECLARAÇÃO. OMISSÃO VERIFICADA. PEDIDO PEDIDO DE CONCESSÃO DE GRATUIDADE DE JUSTIÇA NÃO ANALISADO.
+1. De fato, verifica-se que o aresto hostilizado foi omisso no tocante ao pedido feito pelo ora embargante em relação à questão da gratuidade de justiça.
+2. Apesar da reconhecida omissão quanto ao referido ponto, não comporta acolhimento o pleito do embargante. Isso porque a jurisprudência do STJ preconiza que, ainda que a lei assegure presunção de veracidade à declaração de pobreza, tal presunção é relativa, e o pedido deve vir acompanhado de mínima documentação ou fundamentação acerca da hipossuficiência financeira, o que não se verificou na presente hipótese (AgRg no AREsp 737.289/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/12/2015, DJe 12/02/2016).
+3. Ademais, o "pedido de gratuidade da justiça formulado nesta fase recursal não tem proveito para a parte, tendo em vista que o recurso de agravo interno não necessita de recolhimento de custas. Benefício que, embora deferido, não produzirá efeitos retroativos" (AgInt no AREsp 898.288/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/4/2018, DJe 20/4/2018).
+4. Embargos de Declaração acolhidos sem efeitos modificativos.
+(EDcl nos EDcl no AgInt nos EDcl no AREsp n. 1.569.596/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/10/2020, DJe 19/10/2020).
+No mais, a agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada.
+Isso porque o Tribunal estadual entendeu que as taxas de juros remuneratórios estipuladas seriam abusivas, porquanto discrepariam significativamente da taxa média de mercado, já que a taxa de juros do contrato era de 68,22% ao ano, ao passo que a média do BACEN correspondia a 25,08% ao ano (e-STJ, fls. 245). Nesse contexto, verifica-se a abusividade mencionada no acórdão.
+Dessa forma, deve-se constatar uma grande distorção entre a taxa prevista na avença e a apurada pelo Bacen para que se configure a contratação de juros abusivos, quadro que, a toda evidência, se amolda ao caso em apreço.
+A revisão do acórdão recorrido, para entender que as taxas pactuadas não seriam abusivas, demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, providências vedadas na via eleita, por atraírem a aplicação dos enunciados n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA. LIMITAÇÃO. POSSIBILIDADE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a cobrança abusiva (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+2. No caso dos autos, a Corte de origem concluiu pelo caráter abusivo da taxa de juros remuneratórios porque fixada em valor exorbitante em relação à média de mercado, em contratos assemelhados. A modificação de tal entendimento é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.067.627/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CLÁUSULAS. CONTRATO DE EMPRÉSTIMO PESSOAL. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA DE MERCADO EM CASO DE VERIFICAÇÃO DA ABUSIVIDADE DA TAXA PACTUADA (TEMAS 27 E 234 DO STJ). CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. PRETENSÃO DE REVISÃO DAS PREMISSAS FÁTICAS FIXADAS PELO ACÓRDÃO RECORRIDO QUANTO À ABUSIVIDADE RECONHECIDA. INVIABILIDADE. NECESSIDADE DE REEXAME DO INSTRUMENTO CONTRATUAL E DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULAS 5 E 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 2.038.738/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 13/6/2022, DJe de 17/6/2022.)
+Por fim, de acordo com o entendimento do Superior Tribunal de Justiça, a incidência das Súmulas n. 5 e 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Dessa maneira, tendo em vista que as alegações feitas no agravo interno não são capazes de modificar o convencimento manifestado no ato impugnado, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
