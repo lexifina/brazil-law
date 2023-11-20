@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, impetrado em benefício de RENATA FELIX MARTINEZ, onde aponta, como autoridade coatora, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal nº 2245673-95.2023.8.26.0000).
+Consta dos autos que a parte recorrente está sendo investigada por suposta prática dos crimes tipificados no art. 347, parágrafo único, e art. 171, § 3º, ambos do Código Penal.
+Daí o presente recurso, no qual a defesa busca, em suma, o trancamento do inquérito policial pela atipicidade da conduta imputada.
+Explica que a recorrente "informou ao Dr. Juiz que havia sido juntado o laudo do exame criminológico (laudo este que foi instruído para o benefício de semi-aberto), e, que observ ando que o laudo era recente, reutilizou para instruir o pedido de regime aberto, utilizando-se o código "SAP" para realizar a juntada entendendo assim que este seria o código próprio para a juntada do referidos documentos. Ademais, afirmou que após a juntada do referido documento, os autos passou pelo crivo do Ministério Publico e do Dr. Juiz, que, se tivessem se atentado e observado que está Paciente havia juntado o documento, talvez naquela ocasião já teria restringido o benefício do preso, que não se pode culpar a paciente pela falta de atenção do Ministério Público que emitiu parecer favorável, claro após em tese ter analisado o exame criminológico, bem como o Nobre juízo de piso que concedeu o beneficio ao cliente da paciente" (fls. 472-473).
+Aduz que "Em momento algum a paciente tenta levar o juízo e o representante do Ministério publico a erro, já que ela não relata em suas petições que o exame criminológico seria atualizado" (fl. 473).
+Requer, inclusive liminarmente, a suspensão da ação penal. No mérito, o conhecimento e provimento do recurso, para trancar o inquérito policial.
+Contrarrazões (fls. 493-498).
+É o relatório. DECIDO.
+Não conheço do recurso pela indevida supressão de instância.
+In casu, da leitura do ato apontado como coator, constata-se, ao fim, que questão fundamental apresentada a esta Corte Superior não foi analisada pelo Tribunal de origem.
+Ora, tem-se que a questão de direito deveria ter sido apreciada, mas não foi, pois, mesmo provocado, o Tribunal sequer se manifestou acerca do mérito ventilado na impetração, ficando impedida esta Corte Superior de proceder à sua análise - sob pena de indevida supressão de instância (AgRg no HC n. 764.710/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 21/12/2022; e AgRg no HC n. 830.929/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/8/2023).
+Verifica-se, portanto, que a ausência de manifestação do Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+Com efeito, é consabido que a via estreita do writ e do seu recurso ordinário não se presta para análise de temas que comportem recurso próprio ou revisão criminal, mas é fundamental que a ilegalidade, prima facie, seja afastada em decisão fundamentada.
+Isso, diante da possibilidade de se evidenciar flagrante ilegalidade no caso concreto, de modo que o Tribunal de origem deve não somente analisar a questão, bem como, eventualmente, cassar a(s) decisão(ões), se em desacordo com o ordenamento jurídico pátrio.
+Tratando-se de questão relevante, devidamente suscitada na origem e que não demanda, em tese, o revolvimento fático-probatório, devem os autos retornar para o Tribunal, a fim de que se manifeste (AgRg no RHC n. 170.642/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 15/12/2022).
+Ante o exposto, não conheço do recurso. Contudo, de ofício, concedo a ordem de habeas corpus para anular o julgamento constante do HC n. 2245673-95.2023.8.26.0000, determinando sejam apreciadas pelo Tribunal a quo, no prazo de 30 (trinta) dias, como entender de direito, as questões ali deduzidas, com recomendação de celeridade.
+Publique-se. Intime-se.
+EMENTA
