@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA. EMBARGOS PROTELATÓRIOS NA ORIGEM. REVISÃO. SÚMULA N. 7/STJ. FUNDAMENTO INATACADO. SÚMULAS N. 283 E 284/STF.
+1. A reiteração dos embargos de declaração sem a ocorrência de uma das hipóteses do art. 1.022 do CPC implica incidência da multa do art. 1.026, § 2º, do CPC. Modificar o acórdão recorrido, como pretende o recorrente, no sentido de concluir pela inexistência do caráter protelatório dos embargos declaratórios, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula n. 7/STJ.
+2. As teses recursais apresentadas no apelo especial não é capaz de refutar de modo suficiente os fundamentos do aresto recorrido, o que torna inviável o conhecimento do pleito, incidindo o óbice constante das Súmulas n. 283 e 284 do STF.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CELSO DO VALE contra decisão monocrática de relatoria do Min. Paulo de Tarso Sanseverino que conheceu do agravo para não conhecer do recurso especial (fls. 1.030-1.041).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 780):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE REPARAÇÃO DE DANOS. DECISÃO QUE EXTINGUIU O FEITO PELO RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. APELAÇÃO CÍVEL
+1 - RECURSO DOS AUTORES. SENTENÇA QUE DECLAROU A PRESCRIÇÃO INTERCORRENTE DO CUMPRIMENTO DE SENTENÇA, APLICANDO O PRAZO TRIENAL. PLEITO PELO RECONHECIMENTO DO PRAZO VINTENÁRIO DA PRESCRIÇÃO. POSSIBILIDADE. TERMO INICIAL DA PRESCRIÇÃO CONTADO A PARTIR DA DATA DO ACIDENTE AUTOMOBILÍSTICO E NÃO DA DATA DO AJUIZAMENTO DA AÇÃO. SENTENÇA CASSADA. RECURSO CONHECIDO E PROVIDO.
+APELAÇÃO CÍVEL 2 - RECURSO ADESIVO DO RÉU. FACE A CASSAÇÃO DA SENTENÇA, RESTA PREJUDICADA A ANÁLISE DAS ALEGAÇÕES RECURSAIS. RECURSO NÃO CONHECIDO.
+Rejeitados os embargos de declaração opostos (fls. 919-925).
+Alega a agravante que é indevida a aplicação da multa prevista no § 2º do art. 1.026 do CPC, pois os embargos não tiveram o intuito protelatório.
+Aduz, ainda, que não é caso de incidência da Súmula n. 283 do STF, pois afirma que a decisão agravada "não demonstrou a ausência e ou a deficiência de fundamentação recursal, tampouco qual o ponto não atacado, e da impossibilidade de compreensão da controvérsia" (fl. 1.049).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, silenciou (fls. 1.067-1.069).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA. EMBARGOS PROTELATÓRIOS NA ORIGEM. REVISÃO. SÚMULA N. 7/STJ. FUNDAMENTO INATACADO. SÚMULAS N. 283 E 284/STF.
+1. A reiteração dos embargos de declaração sem a ocorrência de uma das hipóteses do art. 1.022 do CPC implica incidência da multa do art. 1.026, § 2º, do CPC. Modificar o acórdão recorrido, como pretende o recorrente, no sentido de concluir pela inexistência do caráter protelatório dos embargos declaratórios, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula n. 7/STJ.
+2. As teses recursais apresentadas no apelo especial não é capaz de refutar de modo suficiente os fundamentos do aresto recorrido, o que torna inviável o conhecimento do pleito, incidindo o óbice constante das Súmulas n. 283 e 284 do STF.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, pois a parte não trouxe argumentos capazes de infirmar a decisão recorrida.
+De início, com relação à multa aplicada, por entender o Tribunal de origem que os embargos de declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7 do STJ (REsp n. 1.671.609/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe de 30/6/2017).
+No mesmo sentido, cito os seguintes precedentes:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO POR INICIATIVA DOS ADQUIRENTES. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N.º 284 DO STF, POR ANALOGIA. COMISSÃO DE CORRETAGEM. PRAZO PRESCRICIONAL TRIENAL. SÚMULA N.º 568 DO STJ. DO PERCENTUAL DE RETENÇÃO DOS VALORES PAGOS. SÚMULA N.º 543 DO STJ. DANO MORAL. INADIMPLEMENTO DOS COMPROMISSÁRIOS COMPRADORES. DESCABIMENTO. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS E AFASTAMENTO DA MULTA DO ART. 1.026, § 2º, DO NCPC. NOVA INCURSÃO NAS PROVAS DOS AUTOS. SÚMULA N.º 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO NÃO PROVIMENTO DO AGRAVO INTERNO. ART. 85, § 11, DO NCPC. INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (arts. 489 e 1.022 do NCPC), não se prestando a novo julgamento da causa.
+ ..
+7. Para se chegar a conclusão diversa da que chegou o Tribunal local - a fim de afastar a multa imposta no julgamento dos embargos de declaração, que foram considerados protelatórios -, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir o óbice da Súmula n.º 7 do STJ.
+8. A interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 2.227.081/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO DA DECISÃO DE ADMISSIBILIDADE. NOVA ANÁLISE. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. LIQUIDAÇÃO DE SENTENÇA. ENCERRAMENTO SEM EXTINÇÃO DO PROCESSO. INTERPOSIÇÃO DE APELAÇÃO. RECURSO INADMITIDO. PRINCÍPIO DA FUNGIBILIDADE. NÃO INCIDÊNCIA. INDUÇÃO A ERRO NÃO EVIDENCIADA. ENTENDIMENTO DA CORTE A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. APLICAÇÃO. MULTA PROCESSUAL IMPOSTA NA ORIGEM. ART. 1.026, § 2º, DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. REITERAÇÃO DE ARGUMENTOS. PERTINÊNCIA DA MULTA. SITUAÇÃO ANALISADA PELO TRIBUNAL DE ORIGEM. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem aprecia, com clareza, objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. O recurso cabível contra decisão de liquidação que não põe fim ao processo é o agravo de instrumento. A interposição de apelação constitui erro grosseiro, o que impede a aplicação do princípio da fungibilidade.
+3. O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.317.648/SE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/9/2023, DJe de 13/9/2023.)
+Da detida análise dos autos, vê-se que, de fato, o agravante não impugnou o principal fundamento decisório do acórdão. O agravante alegou a ocorrência da prescrição, mas não se manifestou especificamente acerca das datas indicadas pelo Tribunal de origem - teoria da actio nata -, como parâmetro para a rejeição da prejudicial de mérito, em virtude da aplicação do prazo vintenário previsto no art. 177 do Código de Civil de 1916, o que faz incidir a Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ainda, não se pronunciou quanto ao fato de o recurso adesivo do ora recorrente não ter sido sequer conhecido pelo Tribunal a quo, pois, com o afastamento da prescrição, ocorreu a cassação da sentença, e os autos retornarão ao Juízo de primeira instância, o qual deverá apreciar todas as matérias aventadas, que restaram prejudicadas no grau recursal. Quanto a esse fundamento, limitou-se a defender, de forma genérica, a nulidade do processo em virtude do falecimento de seu procurador e o locupletamento indevido dos recorridos, ora agravados. Novamente, imperativa a incidência da Súmula n. 283 e, ainda, a Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, mutatis mutandis, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. CABIMENTO DE PENHORA DE PERCENTUAL DE SALÁRIO. DEFICIÊNCIA RECURSAL. SÚMULAS 283 E 284/STF. CONCLUSÃO NO SENTIDO DA CONSTRIÇÃO DE 10% (DEZ POR CENTO) DOS VALORES RECEBIDOS PELA INSURGENTE. RESGUARDO DE SUA QUALIDADE DE VIDA - MÍNIMO EXISTENCIAL. SÚMULA 7/STJ. CABIMENTO DA MEDIDA. AGRAVO INTERNO DESPROVIDO.
+1. A recorrente não atacou o relevante fundamento do acórdão no sentido de ser viável a penhora de percentual de salários do devedor quando preservada a dignidade de sua condição de vida. Além disso, as razões recursais delineadas no recurso especial estão dissociadas dos fundamentos utilizados no aresto impugnado, evidenciando a deficiência recursal, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos do julgado.
+Óbices das Súmulas 283 e 284/STF.
+2. A segunda instância concluiu que a penhora de 10% (dez por cento) sobre os vencimentos da insurgente preservaria a garantia de seu mínimo existencial, ou seja, não ofenderia sua condição de vida.
+Súmula 7/STJ.
+3. A jurisprudência desta Corte Superior "se firmou no sentido de que a regra geral de impenhorabilidade de salários e demais vencimentos (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15) pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp n. 2.035.677/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2023, DJe de 22/3/2023).
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.372.850/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Assim, não sendo a lin ha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
