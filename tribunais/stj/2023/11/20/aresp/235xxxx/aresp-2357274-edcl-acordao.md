@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO JULGADO. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ROMULO DE BARROS e NOEMI DE JESUS FIGUEIREDO a acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fl. 414):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS.1. CERCEAMENTO DE DEFESA. RAZÕES DISSOCIADAS. SÚMULA 284/STF.2. INVERSÃO DO ÔNUS PROBATÓRIO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. NÃO CABIMENTO. 4. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Diante dos fundamentos do acórdão recorrido, notadamente quanto à preclusão, verifica-se que o argumento recursal pertinente ao tema está dissociado do que foi decidido pelo Tribunal de origem, evidenciando a deficiência de fundamentação, a ensejar a aplicação do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. É firme a jurisprudência desta Corte Superior no sentido de que "a inversão do ônus da prova fica a critério do juiz, cabendo-lhe apreciar a verossimilhança das alegações do consumidor e/ou a sua hipossuficiência" (REsp n. 1.991.550/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/8/2022, DJe de 25/8/2022). Tais aspectos, por serem intrinsecamente ligados ao conjunto fático-probatório do processo, não podem ser revistos em recurso especial, incidindo óbice da Súmula 7/STJ no ponto.
+3. Quanto à obrigação da parte autora de proceder ao registro do contrato, prevista na Cláusula 11 do ajuste firmado entre as partes, e à ausência de demonstração de qualquer fato que tenha gerado a transferência dessa obrigação à CEF, impende registrar que, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Rever tais fundamentos esbarra no óbice das Súmulas n. 5 e 7 deste Tribunal.
+4. Em tendo havido arbitramento de honorários recursais na decisão monocrática que conheceu do agravo para não conhecer do recurso especial, não se mostra possível nova majoração dessa verba no acórdão que não conhece ou nega provimento ao subsequente agravo interno.
+5. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 429-433), os embargantes sustentam que o acórdão foi omisso quanto ao fato de que a instituição financeira deixou de devolver os valores referentes ao FGTS.
+Pleiteiam, assim, o acolhimento dos aclaratórios.
+Apresentada impugnação (e-STJ, fls. 436-437).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO NO JULGADO. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+VOTO
+Com efeito, as razões do recurso revelam tão somente o intuito de reapreciação das matérias já decididas, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na mesma linha de cognição:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1.814.590/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/9/2021, DJe 1/10/2021)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ACIDENTE DE TRÂNSITO. ÔNIBUS COLETIVO E CARRO PARTICULAR. ACORDO EXTRAJUDICIAL. VANTAGEM EXCESSIVA. REVISÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL E OBSCURIDADE NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, esclarecer obscuridade, eliminar contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Inadmissível, na estreita via do recurso especial, a alteração das conclusões das instâncias de cognição plena que demandem o reexame do acervo fático-probatório dos autos, a teor do disposto na Súmula nº 7/STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.656.091/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/9/2021, DJe 30/9/2021)
+Consoante consta da decisão embargada, os insurgentes alegaram violação do art. 6º, VIII, do Código de Defesa do Consumidor, sob o argumento de que não houve a aplicação correta da inversão do ônus da prova, tendo em vista que o magistrado de origem concluiu pela ausência de comprovação dos danos, culpando os ora recorrentes por terem confiado na instituição bancária, que ofereceu serviço e deixou de cumpriu a oferta.
+Sobre a questão, as instâncias ordinárias consignaram que os autores não juntaram aos autos nenhum elemento que indique a verossimilhança de suas alegações (e-STJ, fl. 281). Com efeito, "a inversão do ônus da prova não ocorre em todas as situações em que a relação jurídica é regulada pelo Código de Defesa do Consumidor. Assim, nos termos do art. 6º, VIII, do referido Códex, a facilitação da defesa somente ocorre nos casos em que as alegações sejam verossímeis ou a parte seja hipossuficiente, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado na via estreita do recurso especial" (AgInt no REsp n. 1.533.169/SC, relator Ministro Lázaro Guimarães, Desembargador Convocado do TRF 5ª Região, Quarta Turma, julgado em 24/4/2018, DJe de 2/5/2018; sem grifo no original.)
+Outrossim, é firme a jurisprudência desta Corte Superior no sentido de que "a inversão do ônus da prova fica a critério do juiz, cabendo-lhe apreciar a verossimilhança das alegações do consumidor e/ou a sua hipossuficiência" (REsp n. 1.991.550/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/8/2022, DJe de 25/8/2022).
+Tais aspectos, por serem intrinsecamente ligados ao conjunto fático-probatório do processo, não podem ser revistos em recurso especial, incidindo o óbice da Súmula 7/STJ no ponto.
+Ademais, em relação à tese de que a instituição financeira deixou de devolver os valores referentes ao FGTS, faz-se necessário consignar que os recorrentes, ora embargantes, não apontaram o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+Portanto, da leitura das razões dos embargos de declaração opostos, verifica-se que, na verdade, os embargantes buscam, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
