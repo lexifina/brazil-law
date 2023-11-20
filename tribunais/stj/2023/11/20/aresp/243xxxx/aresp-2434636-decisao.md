@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Maria de Fátima Rabelo, com fundamento no art. 105, III, a, da Constituição Federal, confrontando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 231):
+PLANO DE SAÚDE. Procedimento cirúrgico de laparoscopia digestiva robótica realizado no valor de R$ 38.1000,00 (R$ 33.100,00 de despesas hospitalares/cirúrgicas e R$ 5.000,00 pelo kit robótica) com profissionais não credenciados. A autora foi informada, antes da cirurgia, do valor de reembolso (R$ 5.881,80) e ainda teve êxito na sentença em reembolsar o valor do kit robótica. Ainda que a jurisprudência ampare o consumidor com interpretações favoráveis (art. 47 da Lei 8078/90) é forçoso admitir que não está em pauta o exame de cláusulas abusivas ou limitadoras do exercício pleno das faculdades contratuais. A operadora cumpriu o pactuado nos limites da relação econômica gerada pela prestação (prêmio) e mutualidade, não sendo possível que se obrigue a pagar serviço particular (fora da rede). Violação ao sentido social do contrato (art. 421 do CC). Inexistência de dano moral. Honorários majorados em 5% (art. 85, §11, CPC), observada a gratuidade deferida. Não provimento.
+No apelo especial, a recorrente apontou violação aos arts. 47, 51, IV, § 1º e seu inciso II, e 54, § 4º, do CDC.
+Insurgiu-se contra o reembolso parcial do procedimento cirúrgico sob as assertivas de que: (i) as cláusulas contratuais deveriam ser interpretadas de forma mais favorável ao aderente; (ii) seria nula a cláusula que impede o reembolso integral; e (iii) apesar de limitativa, a cláusula de reembolso parcial não teria sido redigida com destaque.
+Contrarrazões às fls. 264-268 (e-STJ).
+O processamento do apelo especial não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Nos termos da jurisprudência deste Tribunal de Uniformização, é lícita a cláusula contratual que limita o reembolso, em casos de atendimento por entidade não credenciada, à tabela de preços dos serviços efetivamente contratados.
+A propósito:
+AGRAVO INTERNO. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS. PREVISÃO CONTRATUAL. LIMITAÇÃO. POSSIBILIDADE. PRECEDENTES. ALEGADA FALTA DE PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULAS 5 E 7/STJ. NÃO INCIDÊNCIA. NÃO PROVIMENTO.
+1. Em que pese ser devido o atendimento em entidade não credenciada ou referenciada pela operadora de saúde, é lícita a cláusula que limita o reembolso à tabela da prestadora de assistência à saúde, nos termos do artigo 12, VI, da Lei 9.656/98.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.251.440/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. ENTIDADE FECHADA. AUTOGESTÃO. INAPLICABILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. REEMBOLSO INTEGRAL DAS DESPESAS. RESSARCIMENTO DE ACORDO COM A TABELA PRATICADA PELO PLANO DE SAÚDE. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Não obstante devido o atendimento emergencial em entidade não credenciada pelo plano de saúde, não há ilicitude na cláusula limitativa de reembolso pela tabela de prestadora de assistência à saúde. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.812.354/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020.)
+Na espécie, verifica-se que o Colegiado estadual entendeu que a ora insurgente não faria jus ao reembolso integral, nos termos da seguinte fundamentação (e-STJ, fl. 232):
+A dúvida que motiva o litígio obriga analisar se a operadora está ou não obrigada a reembolsar os custos da cirurgia digestiva robótica que se fez por médicos não credenciados. Extrai-se do conjunto probatório que a autora recebeu o valor prévio de reembolso, antes da cirurgia (fls. 50/52), tendo plena ciência dos valores de reembolso de profissionais não credenciados. Os termos contratuais são vinculativos (pacta sunt servanda). As eventuais falhas de execução são fatores que se confirmam de forma objetiva. A SUL AMERICA CIA DE SEGURO SAÚDE não agiu contra o contrato e não prejudicou o tratamento da autora.
+Por mais que a jurisprudência ampare o consumidor com interpretações favoráveis (art. 47 da Lei 8078/90), é forçoso admitir que não está em pauta o exame de cláusulas abusivas ou limitadoras do exercício pleno das faculdades contratuais. A operadora cumpriu o pactuado nos limites da relação econômica gerada pela prestação (prêmio) e mutualidade, não sendo possível que se obrigue a pagar serviço particular (fora da rede). Há, pois, violação ao sentido social do contrato (art. 421 do CC).
+Diante disso, a autora não faz jus a integralidade do reembolso, sendo certo que tal situação é permitida quando a operadora falha ou se torna inadimplente, obrigando a paciente a recorrer a serviços externos para tratar a doença que o contrato obriga custear. Não é o caso, motivo pelo qual não existe dano moral.
+Dessa forma, por estar o aresto combatido em consonância à jurisprudência desta Casa, de rigor a aplicação, à espécie, do enunciado n. 83 da Súmula do STJ.
+No mais, constata-se que a Corte originária não se manifestou sobre a tese albergada pelo art. 54, § 4º, do CDC, o que revela a falta de prequestionamento do tema, a ensejar a aplicação dos enunciados n. 282 e 356 da Súmula da Suprema Corte.
+A título exemplificativo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. ARTIGO 1022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO PER RELATIONEM. ACRÉSCIMO DE FUNDAMENTOS NO ACÓRDÃO RECORRIDO. VÍCIO DE PROCEDIMENTO DESCARACTERIZADO. CÓPIA DE TÍTULO EXECUTIVO. DOCUMENTO HÁBIL À PROPOSITURA DE AÇÃO MONITÓRIA. PRECEDENTES. SÚMULA 83/STJ. TAXA DE JUROS REMUNERATÓRIOS ANUAL INFERIOR A 12%. REEXAME VEDADO. SÚMULAS 5 E 7/STJ. PREVISÃO EM DESTAQUE DA TAXA DE JUROS CONTRATADA. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. NÃO PROVIDO.
+ ..
+4. Inexistente prequestionamento acerca da previsão de cláusula contratual em destaque acerca dos juros remuneratórios, não há como examinar a controvérsia de modo originário em recurso especial, em razão do óbice do prequestionamento, atraindo a aplicação das Súmulas 282 e 356/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 2.038.866/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, desprovê-lo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre a base de cálculo eleita pelas instâncias ordinárias, suspensa a exigibilidade em razão do deferimento do benefício da gratuidade de justiça .
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. REEMBOLSO DE DESPESAS. PREVISÃO CONTRATUAL. LIMITAÇÃO. POSSIBILIDADE. SÚMULA 83/STJ. 2. ART. 54, § 4º, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVÊ-LO.
