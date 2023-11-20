@@ -1,0 +1,35 @@
+DECISÃO
+CLAUDIO LUIS WERNECK DE CARVALHO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Pará no Recurso em Sentido Estrito n. 0808930-07.2023.8.14.0000.
+A defesa busca a isenção ou a redução da fiança arbitrada ao paciente, ao argumento de que o valor fixado pela instância ordinária é exacerbado e incompatível com a capacidade econômica do agente.
+Requer "seja restaurado o valor da fiança fixada pelo juiz de Primeiro Grau ou, subsidiariamente, que seja determinado que não seja decretada automaticamente a prisão cautelar em caso de não recolhimento da fiança" (fl. 14).
+Decido.
+O paciente - preso em flagrante, no dia 29/7/2019, pela suposta prática do crime de estelionato- teve o flagrante homologado e obteve liberdade provisória mediante a imposição de medidas cautelares alternativas e fiança de R$ 19.960,00, nos seguintes termos:
+No caso concreto dos autos, denúncia nos relata fatos que teriam ocorrido nos anos de 2016, 2017 e 2018, quando os réus teriam cometido o crime de estelionato contra a vítima ao passarem cheques sem fundo para pagamento de dívida, sendo que o último cheque data do mês de maio de 2018. A representação formulada pela vítima foi protocolada na Polícia somente em setembro 2018, sendo que o inquérito policial só foi concluído em junho de 2019, sem maiores complexidades para tanto, já com formulação de representação da prisão preventiva pela autoridade policial.
+Portanto, a medida cautelar aplicada não possuía o requisito da contemporaneidade dos fatos que constituíram fundamento dos riscos que se pretendeu evitar com a prisão cautelar, porque se o fossem a vítima já poderia ter representando desde o ano de 2016. Ademais, o inquérito policial demorou demais para ser concluído, não havendo nos autos nenhum indício de que os acusados estariam de alguma forma pondo em risco a ordem pública ou causando embaraço a instrução processual, pelo contrário, já até habilitaram advogado nos autos.
+Por todo o exposto, REVOGO A PRISÃO PREVENTIVA dos réus CLAUDIO LUIS WERNECK DE CARVALHO e IOSÉ LUIS AMORIM DE CARVALHO com base no art.
+316 do CPP (fls. 24-25, grifei).
+Em 3/10/2023, o Tribunal de origem deu provimento ao recurso ministerial, a fim de majorar a fiança para 200 salários mínimos, nos seguintes termos:
+Conheço dos recursos em sentido estrito, eis que tempestivos e de acordo com a hipótese prevista na lei processual penal.
+A inicial acusatória relata que os denunciados emitiram cheques em favor da vítima, totalizando a quantia de R$ 521.312,04 (quinhentos e vinte e um mil trezentos e doze reais e quatro centavos), sendo todos os cheques devolvidos em razão de insuficiência de fundos e divergências de assinatura.
+Da leitura atenta dos autos, verifico a plausibilidade dos argumentos contidos em ambas as razões recursais, tanto do Ministério Público quanto do assistente de acusação. O crime pelo qual os acusados foram presos tem pena máxima cominada em 5 anos de reclusão (art. 171, caput, do CP).
+ ..
+Ressalto que para determinar o valor da fiança será levada em consideração, além de outras, as condições pessoais de fortuna do acusado. In casu, verifico que um dos acusados (José Luiz Amorim de Carvalho) é sócio da empresa Clínica Oncológica do Pará - EIRELI e que o outro (Claudio Luis Werneck de Carvalho) é seu filho, sendo este último também sócio da empresa CAR CENTER COMÉRCIO E SERVIÇOS LTDA, id-14604290.
+Desta forma, tenho que ambos possuem condições econômicas de arcar com o pagamento da fiança em valor maior que o arbitrado pelo MM. Juízo a quo, que a fixou em 20 salários-mínimos. Sendo assim, entendo como pertinente o pedido de majoração da fiança para 200 salários-mínimos, a fim de evitar a reiteração delitiva, bem como diante das condições econômicas dos acusados e em obediência ao disposto no art. 325, II, do CPP.
+ ..
+Ante o exposto, na esteira do parecer ministerial, conheço dos recursos e dou-lhes provimento a fim de ser majorado o valor da fiança para 200 salários-mínimos, para cada um dos réus, nos termos da fundamentação (fls. 31-32, grifei).
+O writ comporta pronta solução, por decisão monocrática, pois existe entendimento pacífico sobre o tema.
+Deveras, " o  avanço para julgamento in limine de questões pacificadas pelo colegiado, com lastro no art. 34, XVIII, "b", do RISTJ, está em consonância com o princípio da efetiva entrega da prestação jurisdicional e visa a otimizar o processo e seus atos, para viabilizar sua razoável duração e a concentração de esforços em lides não iterativas (AgRg no HC n. 659.494/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/6/2021)" (AgRg no HC n. 736.796/SC, Rel Ministro Rogerio Schietti, 6ª T., DJe 16/5/2022).
+A despeito de a decisão de primeiro grau haver oferecido argumentos idôneos para a imposição de fiança, o fato de o acusado ser custodiado apenas por não possuir condições de adimplir a fiança consubstancia ilegalidade passível de ser reconhecida neste writ.
+Deveras, consoante a firme jurisprudência desta Corte, "afigura-se irrazoável manter o réu preso cautelarmente apenas em razão do não pagamento de fiança, especialmente quando se alega impossibilidade de fazê-lo" (HC n. 353.167/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 21/6/2016).
+Nesse mesmo sentido:
+ ..
+4. A fiança não pode servir como uma espécie de preço ou taxa que o indivíduo é instado a pagar como condição para responder ao processo em liberdade.
+5. Evidenciado que o paciente é hipossuficiente, visto que permanece preso provisoriamente por não possuir meios para pagar a fiança, e que as outras medidas fixadas pelo Juiz, elencadas no art. 319 do CPP, são adequadas e suficientes para prover as exigências cautelares do caso concreto, deve ser reconhecida a ilegalidade.
+6. Ordem concedida para, confirmada a liminar, desconstituir a exigência de que seja prestada a fiança determinada em desfavor do paciente, mantidas as demais cautelares já impostas.
+(HC n. 582.962/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 4/8/2020)
+Com efeito, demonstrada a hipossuficiência financeira do acusado, não há como lançar mão do instituto da fiança como uma espécie de preço ou taxa para que possa responder ao processo em liberdade, notadamente se há medidas adequadas e suficientes para atender as exigências de cautelaridade do caso.
+Dessa forma, constato ser suficiente e adequado, para atender às exigências cautelares do art. 282 do CPP, manter as demais providências alternativas determinadas pelo Juízo monocrático.
+À vista do exposto, concedo a ordem, in limine, para afastar a imposição de fiança e manter as demais medidas cautelares impostas pelo Magistrado de primeiro grau, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da constrição preventiva se efetivamente demonstrada sua concreta necessidade.
+Comunique-se, com urgência, o inteiro teor dessa decisão ao Juízo de primeiro grau e à autoridade apontada como coatora.
+Publique-se e intimem-se.
+EMENTA
