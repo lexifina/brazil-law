@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CAMILA APARECIDA RODRIGUES VAZ, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 18/08/2023.
+Concluso ao gabinete em: 09/11/2023.
+Ação: declaratória de inexistência de débito cumulada com compensação por dano moral, ajuizada pela recorrente, em face do recorrido, na qual alega que, ao acessar o aplicativo "Serasa Consumidor" a fim de verificar o motivo pelo qual seu score de crédito estava baixo, foi surpreendida com a negativação referente a dívidas decorrentes de diversos contratos celebrados com o recorrido, as quais já estariam prescritas. Pleiteia seja declarada a inexistência da dívida, bem como compensação por dano moral.
+Sentença: julgou parcialmente procedentes os pedidos, para o fim de declarar a inexigibilidade das dívidas dos contratos nº 172010231067000152, de 28/02/2011, no valor de R$ 953,21 (novecentos e cinquenta e três reais e vinte e um centavos) e nº 172000279680001287, de 17/04/2011, no valor de R$ 1.683,52 (mil, seiscentos e oitenta e três reais e cinquenta e dois centavos), bem como para condenar a recorrida ao cumprimento de obrigação de fazer consistente em excluir o débito declarado inexigível da plataforma "Serasa Limpa Nome", no prazo de 10 (dez) dias, sob pena de multa no valor de R$ 2.000,00 (dois mil reais).
+Acórdão: deu provimento à apelação interposta pela recorrido e negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+Apelação. Ação declaratória de inexigibilidade de débito e prescrição de dívida c. c. indenização por danos morais. Consumidor. Serasa Limpa Nome. Valor da causa mantido, pois corresponde ao proveito econômico pretendido (art. 292, inc. II, V e VI do CPC). Revelia. Presunção relativa. Dívida prescrita. Plataforma de negociação. Inexistência de prova de cobrança e de forma abusiva. Inexistência de prova de afetação do score de crédito. Ausência de ato ilícito. Art. 189 do CC. Art. 187 do CC. Art. 302, IV, do CPC. Tema nº 710 dos recursos repetitivos. Enunciado nº 11do TJSP. Dano moral não configurado. Sentença ora improcedente. Recurso do réu provido e improvido o recurso da autora. (e-STJ Fl. 328)
+Recurso especial: alega violação dos arts. 187, 189, 205, 206 e 927 do CC; 71 do CDC, bem como dissídio jurisprudencial. Sustenta que as dívidas em questão encontram-se fulminadas pela prescrição. Assevera ser ilícita a cobrança de dívida prescrita. Afirma que a cobrança de dívida mediante coação enseja dano moral a ser compensado. Insurge-se contra o valor fixado a título de honorários sucumbenciais, imputando-o irrisório.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 205, 206 e 927 do CC; 71 do CDC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/SP de que "a dívida de consumo encontra-se registrada em plataforma de negociação, e não em cadastro de inadimplência que se submete à regência do prazo prescricional do art. 43, §5º, do CDC. Portanto, inexiste incerteza jurídica sobre a prescrição a justificar o manejo de pretensão declaratória pela consumidora, o que é confirmado pelo comportamento processual do credor que não opôs qualquer pretensão" (e-STJ Fls. 335/336), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de prescrição da dívida em referência, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+Outrossim, a ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, condeno a parte recorrente, a título de honorários recursais, ao pagamento de mais R$ 200,00 (duzentos reais) em favor do procurador da parte recorrida, observada a concessão de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM COMPENSAÇÃO POR DANO MORAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória de inexistência de débito cumulada com compensação por dano moral.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Recurso especial não conhecido, com majoração de honorários.
