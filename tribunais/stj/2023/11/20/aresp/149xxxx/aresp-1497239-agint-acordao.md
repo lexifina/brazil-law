@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. CREDITAMENTO. LEI COMPLEMENTAR 87/1996. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PRAZO DECADENCIAL DE CINCO ANOS CONTADO A PARTIR DA EMISSÃO DO DOCUMENTO FISCAL. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 1.022, I e II, e 489, II e § 1º, IV, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia acerca do prazo decadencial para aproveitamento de créditos do ICMS.
+2. O prazo decadencial de cinco anos para os créditos escriturais é contado a partir da emissão do documento fiscal do qual decorre o débito do ICMS, conforme dispõe o art. 23, caput e parágrafo único, da Lei Complementar 87/1996. Precedentes.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por IMEMBUY ALIMENTOS S/A contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) de fls. 385/387.
+A parte agravante alega a ocorrência de omissão "no que diz respeito as regras que disciplinam o prazo para escrituração de créditos de ICMS, especialmente o art. 20, § 5º, da LC 87/96" (fl. 396), bem como sustenta que "um limite temporal trazido por norma não pode se sobrepor ao princípio constitucional da não-cumulatividade, preceito hierarquicamente superior (artigo 155, §2º, I da Constituição Federal), compelindo, inconstitucionalmente ao contribuinte a obrigação de pagar o ICMS de modo cumulativo, o que a Carta da República buscou mais afastar, acabando por contrariar o contido nos artigos 19 e 20 da Lei Complementar nº 87/1.996(Lei Kandir)" (fl. 402).
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+Impugnação apresentada às fls. 411/418.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. CREDITAMENTO. LEI COMPLEMENTAR 87/1996. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PRAZO DECADENCIAL DE CINCO ANOS CONTADO A PARTIR DA EMISSÃO DO DOCUMENTO FISCAL. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 1.022, I e II, e 489, II e § 1º, IV, do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia acerca do prazo decadencial para aproveitamento de créditos do ICMS.
+2. O prazo decadencial de cinco anos para os créditos escriturais é contado a partir da emissão do documento fiscal do qual decorre o débito do ICMS, conforme dispõe o art. 23, caput e parágrafo único, da Lei Complementar 87/1996. Precedentes.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não obstante as alegações da parte agravante, razão não lhe assiste.
+Inexiste a alegada violação aos arts. 1.022, I e II, e 489, II e § 1º, IV, do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia acerca da configuração do prazo decadencial para aproveitamento de créditos do ICMS, ainda que de forma contrária aos interesses da parte ora agravante.
+Cito, a propósito, trechos do acórdão recorrido:
+Conforme demonstram as notas fiscais de fls. 55 a 73, os silos metálicos foram adquiridos pela autora da empresa Kepler Weber S. A. em 22/08/2008, sendo referente a estes materiais o ICMS que a parte busca creditar-se.
+E prevê o art. 23 da Lei Complementar nº 87/96:
+Art. 23. O direito de crédito, para efeito de compensação com débito do imposto, reconhecido ao estabelecimento que tenha recebido as mercadorias ou para o qual tenham sido prestados os serviços, está condicionado á idoneidade da documentação e, se for o caso, à escrituração nos prazos e condições estabelecidos na legislação.
+Parágrafo único. O direito de utilizar o crédito extingue-se depois de decorridos cinco anos contados da data de emissão do documento.
+Sobre o prazo decadencial para aproveitamento de créditos, dispõe igualmente o Livro I do RICMS:
+art. 30 - O imposto é não-cumulativo, compensando-se o que for devido em cada operação relativa à circulação de mercadorias ou prestação de serviços de transporte interestadual e intermunicipal e de comunicação, com o montante cobrado nas anteriores por esta ou por outra unidade da Federação.
+Art. 31 - Para a compensação a que se refere o artigo anterior, é assegurado ao sujeito passivo o direito de creditar-se do imposto:
+(..)
+§ 3º - O direito de utilizar o crédito fiscal extingue -e depois de decorridos cinco anos contados da data de emissão do documento fiscal.
+§ 4º - Relativamente aos créditos decorrentes de entrada no estabelecimento, a partir de 01/08/00, ide mercadorias destinadas ao ativo permanente, deverá ser observado o seguinte:
+a) a apropriação será feita à razão de 1/48 (um quarenta e oito avos) por mês, devendo a primeira fração ser apropriada no mês em que ocorrer a entrada no estabelecimento, e as demais nos meses subseqüentes;
+ ..
+Conforme a legislação que trata da matéria, o direito ao creditamento extingue-se passados cinco anos da emissão do documento fiscal. Assim, a decadência operou-se em 22/08/2013, havendo a consulta na Secretaria da Fazenda sido realizada apenas em abril de 2015.
+Apesar de em sentença a preliminar ter sido afastada sob o fundamento de que "o pedido da parte autora se limita ao crédito decorrente da aquisição dos silos nos últimos cinco anos", não há nenhum documento nos autos demonstrando a aquisição de materiais desta espécie no período.
+Ademais, o que pretende a parte autora é ver afastados os efeitos da referida consulta, que, como foi dito, refere-se a créditos de ICMS de 2007 e 2008.
+Ainda que a parte alegue que só poderia utilizar os créditos de ICMS na proporção mensal de 1/48, deveria ela ter dado início ao aproveitamento no mês em que ocorreu a entrada no estabelecimento. Não o havendo realizado, decaiu de seu direito de creditar-se, transcorridos mais de 05 anos da emissão dos documentos fiscais, conforme fundamentado (fls. 188/190 - sem destaque no original).
+A conclusão adotada pelo Tribunal de origem está em conformidade com a jurisprudência desta Corte Superior firmada no sentido de que se aplica o prazo decadencial de cinco anos aos créditos escriturais, contados a partir da emissão do documento fiscal do qual decorre o débito do ICMS, conforme disposição literal do art. 23, caput e parágrafo único, da Lei Complementar 87/1996. Nesse sentido, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. ICMS. CREDITAMENTO. PRAZO DECADENCIAL. CINCO ANOS CONTADOS DA EMISSÃO DO DOCUMENTO. PREVISÃO LEGAL JÁ CONSTANTE NO ART. 168 DO CÓDIGO TRIBUTÁRIO NACIONAL. PREVISÃO LEGAL EXPRESSA. ART. 23, PARÁGRAFO ÚNICO, DA LEI COMPLEMENTAR N. 87/96.
+I - Na origem, trata-se de embargos à execução fiscal. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido e extinguir a execução fiscal. Na decisão monocrática recorrida, deu-se provimento ao recurso especial para restabelecer a sentença de improcedência dos embargos à execução. O agravo interno não merece provimento.
+II - O cerne da controvérsia diz respeito ao prazo para creditamento de ICMS. Logo, não se trata de homologação de lançamento, mas sim de auto de infração por creditamento indevido. São inaplicáveis ao caso os julgados que tratam dos prazos em decorrência da homologação do lançamento.
+ ..
+V - Considerou-se que a previsão do parágrafo único do art. 23 da Lei Complementar n. 87/96 não deveria ser aplicada ao caso, pois: "em relação às situações juridicamente relevantes ocorrida em período anterior à entrada em vigor da lei que instituiu a decadência, o dia da vigência é o marco inicial de início do prazo fulminante."
+VI - Todavia, segundo a previsão do caput do art. 23 da Lei Complementar n. 87/96, o direito de crédito, para efeito de compensação com débito do imposto, reconhecido ao estabelecimento que tenha recebido as mercadorias ou para o qual tenham sido prestados os serviços, "está condicionado à idoneidade da documentação e, se for o caso, à escrituração nos prazos e condições estabelecidos na legislação."
+VII - O parágrafo único do mesmo dispositivo estabelece que "o direito de utilizar o crédito extingue-se depois de decorridos cinco anos contados da data de emissão do documento". Assim, o creditamento não está sujeito à homologação como afirma a parte recorrente, posto que, conforme previsão legal, o prazo conta-se da data da emissão do documento. Assim, verificado o transcurso do prazo superior aos cinco anos, contados da data da emissão do documento, é de ser reconhecida a decadência do direito de creditamento, com o consequente prosseguimento da execução fiscal.
+VIII - Correta, portanto, a decisão recorrida que restabeleceu a sentença que julgou improcedentes os embargos à execução fiscal.
+IX - Agravo interno improvido. (AgInt no REsp n. 1.637.053/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/10/2020, DJe de 28/10/2020.)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. ICMS. CONTROVÉRSIA DECIDIDA PELA CORTE ESTADUAL, COM BASE NO REVOLVIMENTO FÁTICO, BEM COMO EM LEGISLAÇÃO LOCAL (DECRETOS 33.118/1991, 45.490/2000 E LEI 6.374/1989, DO ESTADO DE SÃO PAULO) . ÓBICE DAS SÚMULAS 7/STJ E 280/STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ, SEGUNDO A QUAL PARA OS CRÉDITOS ESCRITURAIS O PRAZO DECADENCIAL É DE CINCO ANOS, CONTADOS A PARTIR DA EMISSÃO DO DOCUMENTO FISCAL DO QUAL DECORRE O DÉBITO DO ICMS. CARÁTER CONFISCATÓRIO DA MULTA ARBITRADA. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DO ÓBIDE DA SÚMULA 7/STJ. AGRAVO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Quanto à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+2. O Tribunal de origem dirimiu a controvérsia com base no contexto fático-probatório, bem como na interpretação de legislação local (Decretos 33.118/1991, 45.490/2000 e Lei 6.374/1989, todos do Estado de São Paulo), sendo inviável a modificação do acórdão, em razão do óbice das Súmulas 7/STJ e 280/STF.
+3. Em relação ao prazo para utilização de eventuais créditos do ICMS, constata-se que o acórdão recorrido encontra-se em conformidade com a orientação desta Corte, que reconhece que o prazo quinquenal é contado da data da emissão do documento fiscal, incidindo à espécie a Súmula 83/STJ. Precedentes: AgInt no REsp 1.637.053/SC, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28.10.2020; REsp 482.090/GO, Rel. Min. DENISE ARRUDA, PRIMEIRA TURMA, DJ 13.3.2006.
+ ..
+7. Agravo interno da empresa desprovido. (AgInt no AREsp n. 1.808.458/SP, relator Ministro Manoel Erhardt - Desembargador Convocado do TRF5) -, Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
