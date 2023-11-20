@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022. PRESENÇA DOS REQUISITOS PARA CONCESSÃO DE TUTELA DE URGÊNCIA. SÚMULA N. 7/STJ.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC, pois o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a presença dos requisitos autorizadores da tutela antecipada.
+2. O Tribunal de origem constatou, com base na prova pré-constituída, a probabilidade do direito e o risco na demora. A revisão da matéria para verificar a presença dos requisitos da tutela antecipada, conforme já consignado por esta Corte, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por CONSTRUTORA TENDA S.A. contra decisão monocrática de minha relatoria que conheceu parcialmente do recurso especial e negou-lhe provimento em razão da ausência de violação ao art. 1.022 do CPC e da incidência da Súmula n. 7/STJ (fls. 419-422).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado (fl. 53):
+AGRAVO DE INSTRUMENTO. DECISÃO QUE DEFERE A TUTELA DE URGÊNCIA PARA REALIZAR OBRAS NECESSÁRIAS PARA QUE CESSE AS INFLITRAÇÕES NO IMOVEL DA AUTORA. IRRESIGNAÇÃO DA CONSTRUTORA RÉ. INFILTRAÇÃO NA LAJE DA AUTORA QUE INVADE A RESIDÊNCIA DA MESMA EM DIAS CHUVOSOS, ACARRETANDO MAIORES DANOS E TRANSTORNOS A AGRAVADA EM IMOVEL RECENTEMENTE CONSTRIUIDO E ENTREGUE PELA AGRAVANTE. PRESENÇA DOS REQUESITOS AUTORIZADORES DA TUTELA DE URGENCIA. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos não foram conhecidos (fl. 196).
+Alega a agravante que "a apreciação e julgamento, por esse Colendo STJ do recurso especial não requer o reexame de prova, já que o acórdão recorrido demonstra que a discussão sobre os dispositivos legais feridos é inteiramente teórica" (fl. 429).
+Aduz, ainda, "a ausência de fundamento à antecipação da condenação sumariamente, eis que não foi evidenciado qualquer risco à estrutura e solidez do imóvel que impedisse a realização de perícia anterior" (fl. 429).
+Sustenta, outrossim, "o manifesto cerceamento de defesa com supressão do direito de produzir prova pericial imparcial, à medida que a realização de obras descaracterizará o local" (fl. 429).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada, apresentou contrarrazões (fl. 436-439).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022. PRESENÇA DOS REQUISITOS PARA CONCESSÃO DE TUTELA DE URGÊNCIA. SÚMULA N. 7/STJ.
+1. Não há falar em violação dos arts. 489 e 1.022 do CPC, pois o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a presença dos requisitos autorizadores da tutela antecipada.
+2. O Tribunal de origem constatou, com base na prova pré-constituída, a probabilidade do direito e o risco na demora. A revisão da matéria para verificar a presença dos requisitos da tutela antecipada, conforme já consignado por esta Corte, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O agravo interno não deve ser provido, pois as razões da parte agravante não são capazes de refutar a decisão agravada.
+Trata-se, na origem, de agravo de instrumento contra decisão que deferiu tutela de urgência para que a construtora realizasse os reparos necessários para fazer cessar infiltrações no imóvel da autora, considerando que a água da laje invade o apartamento em dias de chuva.
+No recurso especial, alega a recorrente ofensa aos arts. 489 e 1.022 do CPC e aos arts. 300, 370 e 371 do CPC. Argumenta que não se verifica urgência que justifique a antecipação da tutela, que a decisão seria irreversível e que houve cerceamento de defesa.
+Inicialmente, não há falar em violação dos arts. 489 e 1.022 do CPC, pois o Tribunal de origem efetivamente enfrentou a questão levada ao seu conhecimento, qual seja, a presença dos requisitos autorizadores da tutela antecipada.
+E, a propósito do contexto recursal, destacou a origem a respeito da comprovação dos requisitos para a concessão da tutela de urgência, qual seja, a probabilidade do direito e o perigo de dano (fls. 54-55):
+08. No caso em tela, visto o iter procedimental, a decisão apreciou a prova pré-constituída, que a agravada produziu, e identificou que as infiltrações na laje em dias chuvosos, quando a água invade a residência da autora.
+09. Portanto, ficou evidenciada a probabilidade do direito, bem como o perigo de dano de difícil reparação, certo que, conforme já ressaltado na decisão monocrática, em juízo de cognição sumária, não se decide sobre a efetiva extensão destes, nem (muito menos!..) acerca da responsabilidade civil.
+10. Ora, o que não pode é agravada ter sua residência invadida pela água da chuva, acarretando maiores danos e transtornos a mesma, no seu imóvel recentemente construído e entregue pela agravante.
+A respeito da reversibilidade da tutela deferida, consignou-se (fl. 55):
+11. Por outro lado, a questão envolverá mero aspecto patrimonial, tratando-se de decisão reversível (art. 300, §3º, do CPC), caso se comprove -no bojo da instrução -que a causa das infiltrações e vazamentos é diversa daquela apontada pela parte autora. A propósito, se a parte ré demonstrar que a causa das infiltrações e vazamentos é diversa daquela até então apontada, a parte autora ou o próprio condomínio responderá por eventuais danos causados à parte ré.
+Os pontos levantados foram efetivamente abordados pelo Tribunal de origem, sendo que não se pode ter como omissa ou carente de fundamentação uma decisão tão somente porque suas alegações não foram acolhidas.
+Cumpre reiterar que entendimento contrário não se confunde com omissão no julgado ou com ausência de prestação jurisdicional. A propósito, "Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, relatora Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008" (AgInt nos EDcl no AREsp n. 1.991.299/PI, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1/9/2022).
+No mesmo sentido:
+1.1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que a Corte de origem se manifestou de forma fundamentada sobre todas as questões que entendeu necessárias para o deslinde da controvérsia. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. (AgInt no AREsp n. 1.774.319/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2022.)
+2. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016). Nesse mesmo sentido: EDcl no AgInt no CC 178.307/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 10/12/2021. (EDcl no AgInt no AREsp n. 1.732.953/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/2/2022.)
+Como se verifica do trecho do acórdão recorrido, acima citado, o Tribunal de origem constatou, com base na prova pré-constituída, a probabilidade do direito e o risco na demora.
+A revisão da matéria para verificar a presença dos requisitos da tutela antecipada, conforme já consignado por esta Corte, implica o imprescindível reexame das provas constantes dos autos, o que é defeso na via especial, ante o que preceitua a Súmula n. 7/STJ.
+A propósito:
+2. O reexame sobre o preenchimento dos requisitos para a concessão da tutela provisória de urgência exige incursão sobre elementos de fato e de provas dos autos, vedada na instância extraordinária por força do que dispõe a Súmula n. 7/STJ. No caso concreto, ademais, o acolhimento das teses jurídicas deduzidas no recurso especial exige reavaliação de cláusulas insertas no instrumento contratual firmado entre as partes, do que resulta a incidência do óbice erigido pela nota n. 5 da Súmula de Jurisprudência do STJ.
+(AgInt no REsp n. 2.039.342/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2023, DJe de 18/8/2023.)
+5. O Superior Tribunal de Justiça, excepcionalmente, admite a interposição de recurso especial contra acórdão que decide sobre pedido de antecipação da tutela, para tão somente discutir eventual ofensa aos próprios dispositivos legais que disciplinam a matéria da tutela provisória descrita no art. 300 do CPC.
+6. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+(AgInt no REsp n. 2.032.386/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/6/2023, DJe de 3/7/2023.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
