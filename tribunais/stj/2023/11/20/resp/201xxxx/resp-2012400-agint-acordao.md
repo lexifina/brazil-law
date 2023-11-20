@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REDUÇÃO DA JORNADA DE TRABALHO PARA 30 HORAS SEMANAIS. IMPOSSIBILIDADE. LEI 12.317/2010. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os assistentes sociais integrantes da categoria do funcionalismo da União. Precedentes: AgInt no REsp 1.448.009/AL, relator ministro Napoleão Nunes Maia Filho, DJe 21/2/2019; Aglnt no REsp 1.490.683/MT, relator Ministro Gurgel de Faria, DJe 16/2/2018; e REsp 1.342.750/RS, relatora Ministra Assusete Magalhães, DJe 23/10/2017.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por CHRISTIANE MARIA DA SILVEIRA COELHO contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ASSISTENTE SOCIAL. JORNADA DE TRABALHO DE 30 HORAS SEMANAIS MANTIDA COM REDUÇÃO SALARIAL. VEDAÇÃO A REFORMATIO IN PEJUS. RECURSO ESPECIAL DA SERVIDORA A QUE SE NEGA PROVIMENTO (fl. 371).
+Em suas razões recursais, a parte agravante aduz que, "em que pese o entendimento do Ministro Relator, o acordão combatido, não está em consonância com a jurisprudência desta Colenda Corte de Justiça, uma vez que o tribunal de origem violou e negou vigência a dispositivo de lei federal - art. 2º da lei 12.317/10 - ao adequar a carga horaria da agravante a 30 horas semanais, mas determinar a redução de seus vencimentos proporcionalmente à carga horaria, sendo esta Colenda Corte a guardiã da lei infraconstitucional" (fl. 384).
+Requer a  reconsideração  da  decisão  agravada ou  a  apresentação  do  feito  ao órgão colegiado competente.
+Foi apresentada impugnação (fls. 390/397).
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REDUÇÃO DA JORNADA DE TRABALHO PARA 30 HORAS SEMANAIS. IMPOSSIBILIDADE. LEI 12.317/2010. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os assistentes sociais integrantes da categoria do funcionalismo da União. Precedentes: AgInt no REsp 1.448.009/AL, relator ministro Napoleão Nunes Maia Filho, DJe 21/2/2019; Aglnt no REsp 1.490.683/MT, relator Ministro Gurgel de Faria, DJe 16/2/2018; e REsp 1.342.750/RS, relatora Ministra Assusete Magalhães, DJe 23/10/2017.
+2. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+A questão a ser apreciada neste recurso diz respeito à possibilidade de a Lei 12.317/2010, que estabeleceu a duração da jornada de trabalho de 30 horas semanais para os assistentes sociais, ser aplicada aos servidores públicos que exerçam a mesma profissão.
+O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os assistentes sociais integrantes da categoria do funcionalismo da União.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REDUÇÃO DA JORNADA DE TRABALHO PARA 30 HORAS SEMANAIS. LEI 12.317/2010. IMPOSSIBILIDADE DE APLICAÇÃO AOS SERVIDORES DE REGIME ESTATUTÁRIO. AGRAVO INTERNO DOS SERVIDORES A QUE SE NEGA PROVIMENTO.
+1. O Tribunal a quo decidiu em conformidade com a jurisprudência desta Corte de que não é possível a aplicação de jornada de trabalho de 30 horas semanais para os Assistentes Sociais integrantes da categoria do funcionalismo da União. Precedentes: AgInt no REsp. 1.490.683/MT, Rel. Min. GURGEL DE FARIA, DJe 16.2.2018; e REsp. 1.342.750/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 23.10.2017.
+2. Agravo Interno dos Servidores a que se nega provimento. (AgInt no REsp n. 1.448.009/AL, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 12/2/2019, DJe de 21/2/2019.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ASSISTENTE SOCIAL. JORNADA DE TRABALHO. REDUÇÃO. REGRA RESTRITA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Esta Corte pacificou entendimento de que a norma inserta no art. 5º-A da Lei n. 8.662/1993, incluído pela Lei n. 12.317/2010, que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho e não pelos demais regimes jurídicos estatutários
+3. Agravo interno desprovido. (AgInt no REsp. 1.490.683/MT, relator Ministro Gurgel de Faria, DJe 16/2/2018.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDORA PÚBLICA FEDERAL. ASSISTENTE SOCIAL. VÍNCULO ESTATUTÁRIO. REDUÇÃO DA JORNADA DE TRABALHO. LEI 12.317/2010. INAPLICABILIDADE. REGRAS APLICADAS EXCLUSIVAMENTE AOS EMPREGADOS REGIDOS PELA CLT. PRECEDENTES DO STJ. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+I. Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, trata-se de Mandado de Segurança, ajuizado por servidora pública federal, regida pela Lei 8.112/90, contra suposto ato omissivo do Reitor da Universidade do Rio Grande, que teria deixado de reduzir a sua jornada de trabalho a 30 (trinta) horas semanais, sem a redução de seus vencimentos, conforme determina a Lei 12.317/2010.
+III. Consoante pacífica jurisprudência desta Corte, a norma inserta no art. 5º-A da Lei 8.662/93, incluído pela Lei 12.317/2010 - que versa sobre a redução da jornada de trabalho de 40 (quarenta) para 30 (trinta) horas semanais, aplicada à carreira de Assistente Social -, vincula apenas os empregados regidos pela Consolidação das Leis do Trabalho, e os servidores vinculados a regimes jurídicos estatutários. Nesse sentido: STJ, AgInt no REsp 1.635.628/MT, Rel.Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 24/05/2017; AgInt no REsp 1.620.796/MT, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 15/02/2017; AgRg no REsp 1.571.655/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/09/2016; AgInt nos EDcl no REsp 1.466.316/MT, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/09/2016; AgRg nos EDcl no AREsp 637.721/MT, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 09/11/2015; AgRg no REsp 1.480.208/PB, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 06/11/2015; RMS 35.196/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/12/2011.
+IV. Encontrando-se o acórdão impugnado em harmonia com a jurisprudência desta Corte, é de ser aplicada, no caso, a Súmula 83/STJ. V. Recurso Especial improvido. (REsp. 1.342.750/RS, relatora Ministra Assusete Magalhães, DJe 23/10/2017.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
