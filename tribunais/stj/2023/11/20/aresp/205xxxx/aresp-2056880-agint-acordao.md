@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  AGRAVO  INTERNO. AGRAVO EM RECURSO ESPECIAL.  AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE DO ESTADO POR MORTE DE CRIANÇA DECORRENTE DE FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO. VALOR INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Corte estadual reconheceu o nexo causal entre a falha na prestação do serviço médico e o óbito da criança, e entendeu que o valor arbitrado na sentença, de R$ 100.000,00, pelos danos morais, mostrava-se compatível com a reprovabilidade da conduta ilícita. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Sendo assim, incide na hipótese a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2.  Agravo  interno  a  que  se  nega  provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE LIZARDA contra a decisão de relatoria do Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região) assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE DO ESTADO POR MORTE DE CRIANÇA DECORRENTE DE FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO. VALOR ARBITRADO PELO ÓRGÃO COLEGIADO EM R$ 100.000,00 COM BASE NA RAZOABILIDADE. INVERSÃO DO JULGADO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ. AGRAVO DO MUNICÍPIO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (fl. 595).
+A parte agravante alega que não pretende rediscutir premissas fáticas dos autos, mas a correta qualificação jurídica dada aos fatos incontroversos.
+Requer a reconsideração da decisão agravada ou a apresentação do feito ao órgão colegiado julgador.
+A impugnação foi apresentada às fls. 619/627.
+É o relatório.
+EMENTA
+PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  AGRAVO  INTERNO. AGRAVO EM RECURSO ESPECIAL.  AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE DO ESTADO POR MORTE DE CRIANÇA DECORRENTE DE FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO. VALOR INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Corte estadual reconheceu o nexo causal entre a falha na prestação do serviço médico e o óbito da criança, e entendeu que o valor arbitrado na sentença, de R$ 100.000,00, pelos danos morais, mostrava-se compatível com a reprovabilidade da conduta ilícita. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Sendo assim, incide na hipótese a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+2.  Agravo  interno  a  que  se  nega  provimento.
+VOTO
+A irresignação não merece prosperar.
+Cuida-se, na origem, de ação de indenização por danos morais e materiais proposta contra o agravante na qual se alegou a falha na prestação de serviço médico, cujo resultado foi o óbito da filha dos autores. A sentença reconheceu o pedido inicial, julgando procedente a ação. A decisão de primeira instância foi mantida pelo Tribunal de Justiça do Estado de Tocantins.
+Ao analisar a controvérsia, a Corte estadual partiu das seguintes premissas:
+In casu, o ato ilícito consistiu na falha da prestação de serviço, eis que o Apelante agiu de forma omissiva, ao deixar de oferecer à criança: atendimento médico e tratamento digno, além da ausência de uma ambulância de prontidão à disposição dos usuários do serviço público.
+Nesse viés, insta salientar, que o Município tinha o dever de prover todos os esforços capazes de proporcionar à infante chances de sobrevivência, o que, de fato, não ocorreu no caso em tela.
+ ..
+Resta, portanto, evidenciado pelas provas acima mencionadas, contextualizadas ao arcabouço documental (evento 1), o nexo causal entre a omissão dos agentes públicos e o resultado danoso. Nota-se, pela certidão de óbito da criança, que esta veio a falecer por "desidratação de 2º grau, vômitos incoercíveis, distúrbio metabólico e desconforto respiratório." Logo, não é preciso extenso silogismo técnico para que se perceba que a ausência de um correto tratamento, com cuidados básicos poderiam, senão ter revertido o quadro da criança, ter-lhe amenizado o sofrimento a partir de um tratamento digno. (Grifos originais).
+Desta feita, acertada a sentença quando dispõe que houve omissão por parte do Apelante. Isso porque houve falha no atendimento do serviço público, ao deixar de realizar procedimentos que poderiam ter evitado o falecimento ou, no mínimo, ter abrandado o sofrimento da criança que veio à óbito por desidratação.  ..
+Assim, provado o nexo de causalidade entre a conduta e o dano, diante da morte da criança pela omissão do Apelante, a condenação do Município ao pagamento de indenização à título de danos morais é medida que se impõe.
+No que diz respeito ao quantum fixado atinente aos danos morais, constato que o valor de R$ 100.000,00 (cem mil reais reais) está compatível com a reprovabilidade da conduta ilícita.
+Sabe-se que a fixação do dano moral fica adstrita ao exame das circunstâncias e das consequências do fato, não devendo ser excessiva nem irrelevante, observando-se os critérios da razoabilidade e da proporcionalidade.
+ ..
+Assim, considerando as peculiaridades do caso concreto, a extensão do dano sofrido pela Apelada/Autora com a perda de sua filha, a omissão do Estado - seja em decorrência da ausência de médicos para atender a infante, seja pela ausência de tratamento digno e de uma ambulância de prontidão à disposição dos usuários do serviço público - o importe fixado na sentença de R$ 100.000,00 (cem mil reais) mostra-se razoável, proporcional e adequado afim de amenizar o grave dano causado (fls. 495/498).
+O Tribunal de origem reconheceu o nexo causal entre a falha na prestação do serviço médico e o óbito da criança, e entendeu que o valor arbitrado na sentença, de R$ 100.000,00, mostrava-se compatível com a reprovabilidade da conduta ilícita imputada ao ente municipal. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
