@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 14/11/2023 a 20/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA COMO GARANTIA DE CONTRATO DE ADIANTAMENTO DE CÂMBIO. PRAZO PRESCRICIONAL DE TRÊS ANOS. ART. 70 DA LUG. MANUTENÇÃO DA AUTONOMIA. ACÓRDÃO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. TESE DEFENSIVA NÃO ENFRENTADA. SÚMULA 7/STJ. NECESSIDADE DE RETORNO DOS AUTOS. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. MANUTENÇÃO DA DECISÃO UNIPESSOAL.
+1. Embargos à execução.
+2. O prazo de prescrição da nota promissória em relação ao subscritor e seus avalistas é de 3 anos, contados a partir do vencimento, nos termos do art. 70 da Lei Uniforme de Genebra (Decreto nº 57.663/66).
+3. "Estando a execução fundada em contrato de câmbio garantido por nota promissória, possível reconhecer a prescrição desta última, com o prosseguimento da demanda apenas em relação ao primeiro". Julgados desta Corte.
+4. Tese da defesa que não fora apreciada pelo Tribunal de origem. Diante da impossibilidade de analisar a questão nesta Corte, em razão da incidência da Súmula 7/STJ, é imprescindível o retorno dos autos à origem. Manutenção da decisão unipessoal.
+5. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MASSA FALIDA DE BANCO SANTOS S/A contra decisão unipessoal que conheceu e deu provimento ao recurso especial interposto por SANDRO ALVES DE CARVALHO.
+Agravo em recurso especial interposto em: 26/9/2023.
+Concluso ao gabinete em: 20/10/2023.
+Ação: embargos à execução, opostos em 28/5/2015 por SANDRO ALVES DE CARVALHO em face de MASSA FALIDA DE BANCO SANTOS S/A.
+Sentença: o Juízo de primeiro grau julgou improcedente a pretensão do embargante.
+Acórdão: o TJSP afastou as preliminares de cerceamento de defesa e de ausência de fundamentação do julgado por unanimidade e, por maioria, rejeitou a prejudicial de mérito relativa à prescrição, negando provimento à apelação interposta por SANDRO ALVES DE CARVALHO, nos termos da seguinte ementa:
+PRELIMINAR. CERCEAMENTO DE DEFESA. Inocorrência. Matéria de direito, sendo suficiente somente a apresentação de documentos para o julgamento da lide. Desnecessidade de realização de prova pericial. PRELIMINAR REJEITADA POR UNANIMIDADE. PRELIMINAR. AUSÊNCIA DE FUNDAMENTAÇÃO. Inocorrência. O pronunciamento judicial contrário ao interesse do recorrente não caracteriza negativa de prestação jurisdicional, visto ter sido explicitada a convicção do D. Magistrado de forma fundamentada. PRELIMINAR REJEITADA POR UNANIMIDADE. PREJUDICIAL DE MÉRITO. PRESCRIÇÃO. Arguição acolhida pela Relatora, mas rejeitada pelos demais membros da Turma Julgadora. A fundamentação vencedora, neste tópico, constará na declaração de voto do Eminente Desembargador Luiz Augusto de Salles Vieira (2ºvogal). ARGUIÇÃO REJEITADA, POR MAIORIA DE VOTOS. PRELIMINARES DE CERCEAMENTO DE DEFESA E AUSÊNCIA DE FUNDAMENTAÇÃO REJEITADAS POR UNANIMIDADE; PREJUDICIAL DE MÉRITO (PRESCRIÇÃO), REJEITADA POR MAIORIA DE VOTOS, VENCIDA A RELATORA. (e-STJ fls. 558-563).
+Embargos de declaração: opostos, foram acolhidos para sanar a omissão em relação à majoração dos honorários advocatícios.
+Recurso especial: alega violação dos arts. 70 e 77 da Lei Uniforme de Genebra e arts. 114, 265 e 889 do Código Civil, bem como dissídio jurisprudencial. O recorrente menciona que apenas figurou como avalista de notas promissórias dadas em garantia de Contratos de Câmbio. Sustenta que o prazo prescricional da ação promissória em relação ao seu subscritor é de três anos. Requer seja conhecido e provido o recurso especial para reconhecer a ocorrência da prescrição trienal atinente às notas promissórias avalizadas pelo recorrente e, como consequência, sejam acolhidos os embargos à execução em razão da ilegitimidade do recorrente, que não figurou como parte, interveniente ou devedor solidário dos contratos executados.
+Juízo prévio de admissibilidade: o TJ/SP admitiu o recurso especial (e-STJ fl. 699).
+Decisão unipessoal: conheceu parcialmente do recurso especial e, no mérito, deu-lhe parcial provimento para declarar a incidência do prazo trienal para a prescrição das notas promissórias e determinar o retorno dos autos à origem para o enfrentamento da tese acerca da interrupção da prescrição.
+Agravo interno: sustenta que a cártula emitida perdeu sua autonomia e, por consequência, aplica-se o prazo prescricional de cinco anos, à luz do que dispõe o art. 206, § 5º, I, do Código Civil. Requer a reforma da decisão unipessoal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA COMO GARANTIA DE CONTRATO DE ADIANTAMENTO DE CÂMBIO. PRAZO PRESCRICIONAL DE TRÊS ANOS. ART. 70 DA LUG. MANUTENÇÃO DA AUTONOMIA. ACÓRDÃO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. TESE DEFENSIVA NÃO ENFRENTADA. SÚMULA 7/STJ. NECESSIDADE DE RETORNO DOS AUTOS. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. MANUTENÇÃO DA DECISÃO UNIPESSOAL.
+1. Embargos à execução.
+2. O prazo de prescrição da nota promissória em relação ao subscritor e seus avalistas é de 3 anos, contados a partir do vencimento, nos termos do art. 70 da Lei Uniforme de Genebra (Decreto nº 57.663/66).
+3. "Estando a execução fundada em contrato de câmbio garantido por nota promissória, possível reconhecer a prescrição desta última, com o prosseguimento da demanda apenas em relação ao primeiro". Julgados desta Corte.
+4. Tese da defesa que não fora apreciada pelo Tribunal de origem. Diante da impossibilidade de analisar a questão nesta Corte, em razão da incidência da Súmula 7/STJ, é imprescindível o retorno dos autos à origem. Manutenção da decisão unipessoal.
+5. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento capaz de ilidir os fundamentos da decisão agravada.
+1. Da Jurisprudência desta Corte
+Conforme mencionado na decisão unipessoal, o Tribunal de Justiça do Estado de São Paulo decidiu em desconformidade com a jurisprudência desta Corte, segundo a qual o prazo de prescrição da nota promissória em relação ao subscritor e seus avalistas é de 3 anos, contados a partir do vencimento, nos termos do art. 70 da Lei Uniforme de Genebra (Decreto nº 57.663/66) (AgInt nos EDcl no AREsp n. 2.095.048/MG, Terceira Turma, julgado em 19/6/2023, DJe de 21/6/2023; e AgInt no AREsp n. 171.157/RJ, Quarta Turma, julgado em 30/8/2018, DJe de 4/9/2018).
+Ademais, "estando a execução fundada em contrato de câmbio garantido por nota promissória, possível reconhecer a prescrição desta última, com o prosseguimento da demanda apenas em relação ao primeiro" (AgRg no REsp 1.432.822/CE, Terceira Turma, j. 9/9/2019, DJe 12/9/2019).
+No mesmo sentido, colaciona-se o seguinte julgado:
+PROCESSUAL CIVIL. EXECUÇÃO FUNDADA EM CONTRATO DE FINANCIAMENTO DESACOMPANHADO DE PROMISSÓRIAS A ELE VINCULADAS. PRESCRIÇÃO DAS CAMBIAIS RECONHECIDA PELO CREDOR E PELOS DEVEDORES. NULIDADE. INEXISTÊNCIA. RECURSO PROVIDO.
+I - A prescrição das notas promissórias vinculadas a contrato de financiamento não retira, por si só, a eficácia deste como título executivo extrajudicial.
+II - Apresentando o contrato as formalidades exigidas para qualificá-lo como título executivo (art. 585, II, CPC), é lícita a execução, independentemente da juntada das promissórias a ele vinculadas, cuja prescrição foi reconhecida tanto pelo credor quanto pelos devedores.
+(REsp n. 202.815/RJ, Quarta Turma, julgado em 13/4/1999, DJ de 24/5/1999, p. 178.)
+No particular, as instâncias ordinárias, soberanas na análise do acervo fático-probatório, concluíram que (I) o recorrente é avalista de notas promissórias vinculadas a contratos de adiantamento de câmbio; (II) "nos contratos de adiantamento de câmbio existe somente a assinatura do representante legal da empresa (fls. 61), figurando o embargante  agravado  na nota promissória como avalista da dívida (fls. 65)" (e-STJ fl. 562); e (III) calculado o prazo trienal para a prescrição, as "notas promissórias restaram vencidas em 14/05/2004, 31/05/2004, 14/05/2004, 12/05/2004 e 18/06/2004 e a execução por título extrajudicial somente foi proposta em 07/08/2007" (e-STJ fl. 562).
+No ponto, afastou-se a incidência da Súmula 26/STJ, pois o avalista das notas promissórias não figurou como devedor solidário no contrato de adiantamento.
+Em razão do exposto, deu-se parcial provimento ao recurso especial para reconhecer a incidência do prazo prescricional de três anos à hipótese.
+No mais, destacou-se que o agravante, em sua defesa, alegou que se operou a interrupção do prazo prescricional em decorrência do ajuizamento da ação declaratória n. 0182317-50.2006.8.26.0100 em 21/9/2005 (e-STJ fl. 680). Porém, como a questão não foi analisada pelo Tribunal, e não se trata de inovação recursal, pois fora alegada em contestação (e-STJ fl. 360) e nas contrarrazões à apelação (e-STJ fl. 504), é caso de retornar ao Tribunal de origem para o seu devido exame.
+Inclusive, o Ministério Público suscitou essa questão em seu parecer, nos seguintes termos: " ..  a distribuição de ação declaratória de nulidade dos contratos de câmbio (fls. 389 e seguintes), bastam para afastar as teses da prescrição" (e-STJ fl. 543).
+Dito isso, não merece reforma a decisão monocrática que deu parcial provimento ao recurso especial interposto pelo agravado, com determinação de retorno dos autos à origem para apreciação das questões suscitadas pelo agravante.
+Por fim, frisa-se que o mero não conhecimento, improcedência ou rejeição do agravo interno e dos embargos de declaração não enseja a necessária imposição das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15. Rejeita-se, portanto, o requerimento de aplicação da multa processual (e-STJ fl. 714).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no recurso especial.
+Previno o agravante que a oposição de novo recurso, se declarado manifestamente protelatório, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC/15.
