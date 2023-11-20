@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por BANCO BTG PACTUAL S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 824):
+AGRAVO DE INSTRUMENTO. COMPETÊNCIA. Ação de execução de título extrajudicial. Decisão que reconheceu a conexão entre a execução e o processo de conhecimento nº 0705654-78.2021.8.07.0014, movido pelo agravado em face do agravante perante a Vara Cível da Comarca de Guará/DF. Hipótese em que ambas as ações são conexas e relativas ao mesmo ato jurídico (Contrato de Alavancagem). Existência de identidade de partes, objeto e causa de pedir. Conexão reconhecida. Prevenção da Varada Comarca de Guará/DF. O foro de eleição fica em segundo plano, considerando-se a prejudicialidade existente e a relação de consumo havida entre as partes, que permite ao consumidor o ajuizamento da demanda no foro de seu domicílio. Decisão mantida. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 846-848).
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 489, § 1º, V e VI, 784, § 1º, e 1.022, parágrafo único, II e III. do CPC.
+Esclareceu que se opôs ao acórdão por reconhecer a conexão e estabelecer a competência para julgamento da execução no foro de domicílio do consumidor, afastando a cláusula de eleição de foro.
+Afirmou existirem omissões e carência de fundamentação no julgado, embora opostos e analisados os embargos de declaração. Ponderou que a competência territorial estabelecida nos contratos de consumo deve ser respeitada quando ausente prejuízo efetivo na manutenção do foro eleito pelas partes ou não vislumbrada a hipossuficiência do consumidor, cenário que não se observaria nestes autos.
+Frisou não caber falar em dificuldade de acesso ao Judiciário, pois o processo no Tribunal de Justiça do Estado de São Paulo, especificamente na capital, tramita integralmente de forma eletrônica; portanto nem é necessária a presença do recorrido em outro Estado em nenhum dos atos processuais. Requereu o provimento do recurso especial (e-STJ, fls. 850-872).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 911-922).
+Contraminuta não apresentada (e-STJ, fl. 924).
+Brevemente relatado, decido.
+Não há nenhuma omissão, contradição ou carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489 e 1.022 do CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+A título ilustrativo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. MATÉRIA DE NATUREZA CONSTITUCIONAL. QUESTÃO DECIDIDA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+3. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015.
+4. A Corte a quo analisou a controvérsia sob o aspecto exclusivamente constitucional, consistente no posicionamento pacificado pelo STF no julgamento do RE 729.107/DF (Tema 792).
+5. Vê-se, assim, que a análise de questão cujo deslinde reclama a apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, pois de competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp n. 2.031.487/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023.)
+A segunda instância concluiu pela conexão entre as ações de execução e de conhecimento, firmando a competência para julgamento delas no domicílio do consumidor. Extrai-se do aresto que, além de a demanda proposta pelo consumidor ter ocorrido previamente à executiva, observar-se-ia prejudicialidade e relação de consumo, a facultar ao consumidor o manejo da lide em seu domicílio.
+Leia-se (e-STJ, fls. 826-827):
+ ..
+É certo que na decisão recorrida (fl. 623 da origem), embora a Magistrada tenha rejeitado a exceção de pré-executividade intentada pelo executado Lucas, recebendo a manifestação como simples petição, reconheceu a conexão entre as partes (execução e processo de conhecimento), com prejudicialidade, na forma do art. 55, § 2º, I, do Código de Processo Civil. Como a primeira distribuição foi no juízo da ação de conhecimento (nº 0705654-78.2021.8.0 7.0014 em trâmite perante a Vara Cível de Guará/DF), neste firmou-se a prevenção, ente o reconhecimento da conexão entre as ações.
+É certo que na ação de conhecimento, ajuizada pelo agravado em face do banco agravante, se discute o mesmo título ora cobrado na presente demanda, qual seja, o contrato de Alavancagem.
+Portanto, evidente a conexão existente entre as ações de conhecimento e execução, ante a identidade de partes, objeto e causa de pedir, não havendo motivo para que as demandas sejam processadas separadamente.
+ ..
+Por outro lado, entendo que, caso as demandas sejam processadas separadamente, haverá risco de decisões conflitantes. Portanto, o art. 55, § 3º, do CPC determina que  .. .
+Por fim, o foro de eleição fica em segundo plano, considerando-se a prejudicialidade existente entre a relação de consumo existente entre as partes, que permite ao consumidor o ajuizamento de demanda no foro de seu domicílio.
+Assim, correta a decisão agravada, que ficam mantida por seus próprios fundamentos.
+Essas ponderações foram extraídas da análise fático-probatória e de termos contratuais, ocasionando os óbices sumulares n. 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, mas, na extensão conhecida, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OMISSÃO, CONTRADIÇÃO OU CARÊNCIA DE FUNDAMENTAÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. CONEXÃO E FIXAÇÃO DA COMPETÊNCIA DAS DEMANDA CONEXAS NO DOMICÍLIO DO CONSUMIDOR. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, MAS, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
