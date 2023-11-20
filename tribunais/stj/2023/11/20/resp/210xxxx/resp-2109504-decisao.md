@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 465):
+Criança portadora de atrofia muscular espinhal (AME) e que depende de custeio de medicamento registrado na ANVISA. Excluída a tese de constituir fase experimental. Necessidade incontroversa e falta de prova da operadora quanto a alegada ineficácia do fármaco. Precedentes do STJ que, em casos oncológicos e outros de gravidade intensa, confirmam o dever de fornecimento de medicamentos indispensáveis, como consta da Lei 9656/98 (Aglnt no Resp. 2035493 PR e AResp. 2178771 SP). Compatibilidade do decisum que atende a consumidora com a orientação do STJ, sem ofensa ao tema 106. Não provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 533/535).
+No recurso especial (e-STJ fls. 480/509), fundamentado no art. 105, III, "a", da CF, a recorrente indicou dissídio jurisprudencial e contrariedade:
+(i) ao art. 369 do CPC/2015, argumentando existir cerceamento de defesa, ante a falta da prova técnica, e
+(ii) ao art. 10, I e VI, da Lei n. 9.656/1998, afirmando ser legítima a limitação da cobertura do medicamento descrito na inicial (RIDISPLAM) para o tratamento da atrofia muscular espinhal (AME) da parte recorrida, pois ele seria experimental e de uso domiciliar.
+Foram apresentadas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 542/546).
+O recurso foi admitido na origem (e-STJ fls. 559/561).
+É o relatório.
+Decido.
+O Tribunal a quo afastou o alegado cerceamento de defesa, ante o julgamento antecipado da lide, tendo em vista que (e-STJ fl. 466):
+O medicamento é registrado na ANVISA desde 13-12-2020 e basta acessar o site do departamento para conferir. É indicado para tratamento de atrofia muscular espinhal (AME). Portanto, não procede a alegação de que o remédio indicado seria experimental ou que haveria necessidade de realizar prova ou consulta a NAT-JUS para avaliar o desempenho da prescrição médica diante do diagnóstico que é irrefutável.
+Dissentir das conclusões do acórdão impugnado para acolher a tese de insuficiência probatória, conforme sustentado pela recorrente na insurgência recursal, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A Corte de apelação, com base nos arts. 421 do CC/2002, 47 do CDC e 373, II, do CPC/2015, condenou a recorrente ao custeio do remédio descrito na inicial para o tratamento da atrofia medular espinhal da parte recorrida. Confira-se (e-STJ fls. 466/467):
+Ademais e para fins de confirmação de fato notório, é preciso acrescentar que embora a UNIMED defensa a inadmissibilidade do medicamento para os fins indicados pelos médicos da criança, não fez prova de qualquer fato extintivo ou modificativo do direito contratual exigido (art. 373, II, do CPC), omitindo-se não só na contraprova da ineficiência terapêutica como e na indicação de outro tratamento paralelo com possibilidade de cura ou de amenizar os efeitos progressivos da doença. São alegações desprovidas de conteúdo para a função social do contrato (art. 421 do CC), lembrando que a mutualidade inerente a esse tipo de contratação (Lei 9656/98) possibilita as compensações entre os membros do grupo, provocando o equilíbrio necessário para preservação da atividade empresarial (e lucrativa). Era preciso que a UNIMED provasse que todas as crianças de sua carteira são portadoras de doenças graves e com coberturas de envergadura para colocar a autora como fator humano de desequilíbrio da balança financeira.
+(..)
+Todavia, a magnitude da diretriz em prol do consumidor (art. 47 da Lei 8078/90) é definida nas decisões monocráticas da Corte, uma dimensão extraordinária de rejeições de recursos interpostos pelas operadoras de planos e seguros de saúde, o que prova que as razões sustentadas no recurso não são acolhidas para negar tratamento médico e farmacológico que os pacientes dependem para sobrevivência digna.
+A respeito de tais razões de decidir, a recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
