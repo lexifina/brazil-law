@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ÓRGÃO DE GESTÃO DE MÃO-DE-OBRA DO TRABALHADOR PORTUÁRIO E AVULSO DO PORTO ORGANIZADO DE PARANAGUA contra decisão monocrática de relatoria do Ministra Presidente que não conheceu do agravo em recurso especial em razão da Súmula n. 182/STJ (fls. 4.493-4.494).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado (fl. 4.317):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRETENSÃO DERESSARCIMENTO DE VALORES TRABALHISTAS PAGOS A TRABALHADORES AVULSOS - AUSÊNCIA DE LAUDO CONTÁBIL - CERCEAMENTO DE DEFESA NÃO CARACTERIZADO - AUTORA QUE REQUEREU O JULGAMENTO ANTECIPADO DO MÉRITO - AUSÊNCIA DE DOCUMENTO DEMONSTRATIVO DOS CÁLCULOS DEVIDOS- ÔNUS DA PROVA QUE INCUMBIA AO AUTOR NOS TERMOS DO ARTIGO 373, INCISO I DO CÓDIGO DEPROCESSO CIVIL - RECURSO DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 4.352-4.358).
+Nas razões do agravo interno, alega a agravante que não é caso de incidência da Súmula n. 182/STJ, porquanto rebateu todos os fundamentos da decisão que inadmitiu o especial na origem.
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fls. 4.512-4.516).
+É, no essencial, o relatório.
+Assiste razão ao agravante quanto à não aplicação da Súmula n. 182/STJ.
+Assim, reconsiderada a decisão que não conheceu do agravo em recurso especial, passa-se à análise dos demais requisitos de admissibilidade recursal.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Cuida-se de ação de cobrança ajuizada pelo agravante, ÓRGÃO DE GESTÃO DE MÃO-DE-OBRA DO TRABALHADOR PORTUÁRIO E AVULSO DO PORTO ORGANIZADO DE PARANAGUA, em desfavor da agravada BANDEIRANTES DEICMAR LOGÍSTICA INTEGRADA S.A. visando à restituição dos valores pagos pelo agravante nas reclamatórias trabalhistas em que a DEICMAR atuou, em conjunto ou de forma separada, com o OGMO/PARANAGUÁ.
+O Tribunal a quo negou provimento ao recurso de apelação sob alegação de ausência de documento demonstrativo dos cálculos devidos, ônus que caberia ao autor demonstrar, e incompetência da 1ª Câmara Cível do TJPR.
+Irresignado, sustenta o agravante que houve cerceamento de defesa, na medida em que o colegiado alegou ausência de provas e que o julgamento da matéria caberia à 5ª Câmara Cível.
+Quanto ao cerceamento de defesa, assim decidiu a origem (fls. 4.321-4.322):
+Da transcrição acima verifica-se que a alegação da apelante de que o juiz deveria "determinar, de ofício, a instrução processual, para que se pudesse produzir, inclusive, prova pericial capaz de embasar adequadamente o julgamento." ,não encontra sustentáculo uma vez que na petição de mov. 178.1, afirmou que "o processo versa sobre matéria de direito, já estando demonstrada a existência do débito da requerida, assim como a licitude da cobrança em questão, motivo pelo qual não há novas provas a produzir além das já existentes no processo."
+Não obstante isso, a MM. Juíza da causa converteu o feito em diligência, para juntada de documentos esclarecedores do cálculo, assim como da existência de laudo contábil, mov.186.1, tendo a autora-apelante juntado planilhas e parecer técnico, mov. 189.6.
+Pelo despacho de mov. 195.1, nova conversão em diligência foi determinada para esclarecimento dos cálculos, bem como "sobre o interesse na realização da prova pericial contábil nos autos, já que quando da especificação das provas, pugnou pela realização desta", tendo o autor-apelante esclarecido alguns pontos e informado que "(mov. 89.1). o desinteresse na produção de prova pericial contábil, postulando, assim, o julgamento mov, 199.1. antecipado do mérito, nos termos do art. 355, I, do CPC.",
+Destarte, não há que se falar em cerceamento de defesa, uma vez que foi oportunizado ao apelante comprovar o alegado ou requerer a prova pericial em várias oportunidades.
+Saliente-se que ainda que o juiz possa determinar de ofício a realização de provas, nos termos do artigo 370 do Código de Processo Civil, compete à parte interessada instruir os autos com todas as provas necessárias, o que não foi feito, embora as diversas oportunidades oferecidas pelo juízo, ocorrendo assim, a preclusão deste pedido.
+Há que se ressaltar também que o próprio apelante requereu expressamente ".. o julgamento antecipado do mérito, nos termos do art. 355, I, do CPC.",mov. 199.1.
+Assim, a desconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas) é procedimento vedado na via eleita, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula n. 7/STJ (AgInt no AgInt no AREsp n. 2.217.041/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Nesse mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. OMISSÃO. ART. 1.022 DO CPC. NÃO CONFIGURADA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DO MÉRITO. PRODUÇÃO DE OUTRAS PROVAS. SUFICIÊNCIA PROBATÓRIO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. TESE INVOCADA NÃO FOI OBJETO DO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela agravante.
+2. No sistema da persuasão racional, adotado pela legislação processual civil, (arts. 130 e 131 do CPC/73; e 370 e 371 do CPC/15), o magistrado é livre para examinar o conjunto fático-probatório produzido nos autos e firmar sua convicção, desde que indique de forma fundamentada os elementos do seu convencimento.
+3. Não é possível compelir o julgador a acolher determinada prova, em detrimento de outras, ou realizar a produção probatória de ofício, se, pelo exame do arcabouço fático-probatório existente nos autos, ele estiver convencido (ou não) da verdade dos fatos.
+4. Além disso, "dizer sobre a correção dos motivos que levaram o juiz a decidir em face das provas apresentadas nos autos, implica no reexame dessas mesmas provas, o que é defeso ao STJ em sede de recurso especial, pela Súmula 7" (AgRg no Ag. 1.376.843/RS, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/6/2012, Dje de 27/6/2012).
+5. Concluir em sentido diverso do Tribunal de origem e verificar se efetivamente houve cerceamento de defesa da parte agravante ou necessidade de maiores provas, demandaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+6. Neste agravo interno, a parte agravante suscita tese que não foi objeto das razões do recurso especial, tratando-se, portanto, de indevida inovação recursal, que não merece ser apreciada, na forma da jurisprudência desta Corte.
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.078.460/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 18/9/2023, DJe de 22/9/2023.)
+Quanto à alegada incompetência do órgão julgador, em recurso de embargos, assim consignou o Tribunal a quo (fl. 4.354):
+Preliminarmente, quanto a alegada incompetência desta Câmara, cumpre ressaltar que inicialmente o feito foi distribuído para a 9ª Câmara Cível, sendo determinada a redistribuição pelo ilustre Desembargador Arquelau Araujo Ribas, pelo fundamento de que "o tema abordado na inicial refere-se à matéria de "alheios às áreas de especialização", a.", mov. 14.1, sendo então teor do art.111, II, do Regimento Interno deste Tribunal redistribuído a este Relator, mov. 17.1.
+Ao contrário do que alega o embargante, o recurso de apelação - autos nº 0000508-38.2014.8.16.0129, foi distribuído à 5ª Câmara Cível, pelo mesmo fundamento - Ações e recursos alheios às áreas de especialização.
+Destarte, esta câmara é competente para o julgamento do presente recurso.
+Desse modo, vê-se que o desembargador, na origem, distribuiu o feito baseado em dispositivo do Regimento Interno daquele Tribunal. Assim, patente é a incidência, por analogia, da Súmula n. 280/STF: "Por ofensa a direito local não cabe recurso extraordinário."
+A propósito, cito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORO POR PRERROGATIVA DE FUNÇÃO. PREFEITO. ALEGADA VIOLAÇÃO DO REGIMENTO INTERNO DE TRIBUNAL E CONSTITUIÇÃO ESTADUAL. LEI LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO IMPROVIDO.
+1. É descabida, em recurso especial, a análise de violação da norma de regimento interno de Tribunal, aplicando-se, por analogia, a Súmula 399/STF.
+2. É defeso ao Superior Tribunal de Justiça reexaminar a aplicação da legislação local. Inteligência da Súmula 280/STF.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.514.852/CE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 7/11/2019, DJe de 20/11/2019.)
+Ante o exposto, reconsidero a decisão de fls. 4.493-4.495 e conheço do agravo para não conhecer do recurso especial.
+Visto que a sentença foi publicada já na vigência do novo CPC, determino a majoração dos honorários advocatícios, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+ EMENTA
