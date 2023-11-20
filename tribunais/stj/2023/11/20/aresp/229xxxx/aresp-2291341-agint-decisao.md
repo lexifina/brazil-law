@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Banco do Brasil S.A. contra decisão desta relatoria, assim ementada (e-STJ, fl. 542):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. 1. OFENSA AO ART 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. INTERRUPÇÃO DA PRESCRIÇÃO POR CAUTELAR DE PROTESTO. RECOMEÇO DO PRAZO. DATA DO ÚLTIMO ATO DO PROCESSO. PRECEDENTES. PRESCRIÇÃO AFASTADA. 3. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RETRATAÇÃO.
+O agravante argumenta que "Entendeu o e. Ministro Relator que não teria ocorrido a prescrição ao caso, em decorrência da interrupção da prescrição dada a existência de protesto, no caso, o promovido pelo MPU (2014.01.1.148561-3 atual 0036054-05.2014.8.07.0001)", todavia, "o Tema 1033 desse STJ, que trata exatamente da mesma questão, encontra-se afetado é há determinação para a suspensão dos processos que discutem a mesma matéria" (e-STJ, fl. 551).
+Pede, assim, a reconsideração da decisão agravada com a determinação do sobrestamento do feito em decorrência do Tema 1.033/STJ .
+Impugnação apresentada às fls. 563-567 (e-STJ).
+Brevemente relatado, decido.
+A insurgência referente à interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto pelo Parquet, foi afetada pela Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, a decisão exarada pelo Relator, Ministro Raul Araújo, no REsp 1.801.615/SP, DJe de 30/10/2019, delimitou o Tema 1.033 nos seguintes termos:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SOLUÇÃO CONCENTRADA E VINCULANTE. NECESSIDADE DE FIXAÇÃO DE TESE.
+1. Delimitação da controvérsia, para os efeitos dos arts. 927 e 1.036 do CPC, acerca do seguinte tema: "Interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas".
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, dou provimento ao agravo interno, para tornar sem efeito a decisão de fls. 542-546 (e-STJ) e determinar a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL PARA PLEITEAR O CUMPRIMENTO DE SENTENÇA COLETIVA. TEMA N. 1.033/STJ, AFETADO AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DEVOLUÇÃO DOS AUTOS À ORIGEM. AGRAVO INTERNO PROVIDO.
