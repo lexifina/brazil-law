@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por ZILDA MARIA DE CAMPOS SILVA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE REPARAÇÃO DE DANOS -SEGURO HABITACIONAL - IMÓVEL FINANCIADO PELO SISTEMA FINANCEIRODA HABITAÇÃO - APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDORLIMITADA AOS CONTRATOS FIRMADOS APÓS A VIGÊNCIA DO CÓDIGO E AOSCONTRATOS NÃO VINCULADOS AO FUNDO DE COMPENSAÇÃO DE VARIAÇÕESSALARIAIS (FCVS) - INVERSÃO DO ÔNUS DA PROVA - IMPOSSIBILIDADE -JURISPRUDÊNCIA CONSOLIDADA DO SUPERIOR TRIBUNAL DE JUSTIÇA - RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, a recorrente alegou violação aos arts. 1022, II, do CPC/2015; 6º da LINDB; e 2º e 3º do CDC.
+Sustentou, em síntese, a negativa de prestação jurisdicional e a aplicabilidade do Código de Defesa do Consumidor aos contratos celebrados anteriormente à sua vigência, por tratarem de obrigações de trato sucessivo, diferidas no tempo.
+Ressaltou, assim, necessidade de aplicação do Código de Defesa do Consumidor ao presente caso, invertendo-se o ônus da prova.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+No tocante à suposta violação dos arts. 489 e 1.022 do CPC/2015, não assiste razão à parte recorrente.
+Inicialmente, cumpre ressaltar que para o provimento do recurso especial com base no referido dispositivo legal, a omissão tem que ser patente, ou seja, imprescindível para o enfrentamento da quaestio.
+A análise do acórdão recorrido em conjunto com a sua decisão integrativa revela que o Tribunal de origem adotou fundamentação necessária e suficiente à solução integral da controvérsia que lhe foi devolvida, tendo apreciado, de modo coerente e satisfatório, as questões imprescindíveis ao deslinde do feito.
+Conclui-se, portanto, que o acórdão recorrido não padeceu de qualquer mácula capaz de ensejar a oposição de embargos de declaração, uma vez que, de modo claro e fundamentado nas provas juntadas aos autos, solucionou a controvérsia que lhe fora apresentada.
+Conforme a pacífica jurisprudência do Superior Tribunal de Justiça, não ocorre a violação do art. 1.022 do CPC/2015, quando as questões discutidas nos autos são analisadas, mesmo que implicitamente, ou ainda afastadas de modo embasado pela Corte Julgadora originária, posto que a mera insatisfação da parte com o conteúdo decisório exarado não autoriza a oposição de embargos declaratórios.
+Ainda de acordo com o entendimento dominante desta Corte Superior, a violação supramencionada tampouco ocorre quando, suficientemente fundamentado o acórdão impugnado, o Tribunal de origem deixa de enfrentar e rebater, individualmente, cada um dos argumentos apresentados pelas partes, uma vez que não está obrigado a proceder dessa forma.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. INOCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. DEFENSORIA PÚBLICA INTEGRANTE DE ENTE FEDERATIVO DIVERSO. CABIMENTO. RECURSO ESPECIAL REPETITIVO 1.108.013/RJ. CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ.
+1. Constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. São devidos honorários advocatícios à Defensoria Pública quando a atuação se dá contra ente federativo diverso do qual é parte integrante (REsp 1.108.013/RJ, submetido à sistemática prevista no art. 543-C do CPC/1973). Cabível, portanto, a condenação do Estado de Pernambuco ao pagamento da verba honorária à Defensoria Pública da União.
+5. A jurisprudência STJ é no sentido de que, em regra, não é admitida a revisão de honorários advocatícios na via especial ante o óbice contido na Súmula 7/STJ, salvo se o valor fixado for exorbitante ou irrisório, excepcionalidade essa não configurada nos presentes autos.
+6. Recurso Especial parcialmente conhecido, apenas no tocante à violação do art. 1022 do CPC e, nessa parte, não provido.
+(REsp n. 1.833.594/PE, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/12/2019, DJe 12/5/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CONEXÃO. JULGAMENTO CONJUNTO. REUNIÃO INVIABILIZADA. SÚMULA 235/STJ. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. AÇÃO RESCISÓRIA. ERRO DE FATO. PROVA FALSA. REEXAME DAS PREMISSAS ASSENTADAS PELO ACÓRDÃO ESTADUAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. A prevenção por conexão tem por finalidade evitar sejam proferidas decisões conflitantes, e, bem por isso, não haverá necessidade de reunião dos processos se um deles já tiver sido julgado Súmula n. 235/STJ.
+2. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+3. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo falar em negativa de prestação jurisdicional.
+4. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.594.694/MS, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/6/2020, DJe 12/6/2020.)
+No tocante à afronta ao art. 6º, § 1º, da LINDB, cabe ressaltar que, nos termos da jurisprudência vigente no STJ, é inviável, em julgamento de recurso especial, aferir a violação ao mencionado dispositivo, pois, não obstante esteja inserido em norma infraconstitucional, possui conteúdo constitucional.
+Confira-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PREQUESTIONAMENTO IMPLÍCITO. DIREITO ADQUIRIDO. CONTEÚDO. VERIFICAÇÃO. POSSIBILIDADE. INTERVENÇÃO DO BANCO CENTRAL. FGC. LIMITE. RESOLUÇÃO APLICÁVEL. RETROAÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Tem-se o prequestionamento implícito quando o órgão julgador, embora não tenha feito menção expressa aos dispositivos legais tidos por violados, emite juízo de valor a respeito da questão jurídica deduzida no recurso especial.
+2. "Consoante reiterados precedentes da Corte Especial e do Supremo Tribunal Federal, os conceitos de direito adquirido, de ato jurídico perfeito e de coisa julgada não são fixados pela Constituição Federal, mas sim pela legislação infraconstitucional. Assim, o controle constitucional se restringe à garantia dos referidos direitos, enquanto o controle do conteúdo material deles é de natureza infraconstitucional (EREsp 1.182.987/SP, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 1/6/2016, DJe 19/09/2016) .. " (AgInt nos EDcl no REsp 1654012/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/06/2019, DJe 27/06/2019).
+3. A indenização devida pelo Fundo Garantidor de Crédito observa as normas vigentes no momento da indisponibilidade financeira.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1700117/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 06/11/2019)
+Quanto à aplicação da legislação consumerista, o STJ já perfilhou entendimento no sentido de que as disposições do Código de Defesa do Consumidor não se aplicam aos contratos de financiamento habitacional celebrados antes de sua entrada em vigor.
+Por oportuno:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DA HABITAÇÃO. SEGURO HABITACIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. SÚMULA 7 DO STJ. CDC. INAPLICABILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A negativa de prestação jurisdicional não foi configurada, pois o acórdão estadual examinou, de forma fundamentada, os pontos essenciais ao deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente
+2. A jurisprudência desta Corte é firme no sentido de que as disposições do Código de Defesa do Consumidor não se aplicam aos contratos de financiamento habitacional celebrados antes de sua entrada em vigor, como na espécie.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.836.785/SE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AGRAVO DE INSTRUMENTO. INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE. ACÓRDÃO EM SINTONIA COM ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ possui firme o entendimento no sentido de que o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo Sistema Financeiro da Habitação quando celebrados antes de sua entrada em vigor; e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS, como no caso em apreço. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.465.591/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3/9/2019, DJe 10/9/2019
+Ao analisar a controvérsia dos autos, o Tribunal de origem assim firmou seu entendimento (fl. 380-381):
+Pois bem, deriva da dinâmica instaurada pela aplicação do Código de Defesa do Consumidor, a possibilidade de inversão do ônus da prova quando presentes os requisitos da verossimilhança das alegações e hipossuficiência do consumidor.
+Todavia, no presente caso, restou incontroverso, uma vez que os próprios agravados afirmam na contraminuta, que os contratos objeto da ação foram firmados entre agosto/1977 e julho/1995, ou seja, anteriores ao Código de Defesa do Consumidor (LEI Nº8.078, DE 11 DE SETEMBRO DE 1990), o que afasta, assim, a incidência do referido diploma.
+Há também nos autos evidências de que os contratos em discussão estão vinculados ao FCVS, tanto que os agravados se limitaram a alegar que a inversão do ônus da prova não colide com as regras do referido fundo.
+Portanto, merece amparo a pretensão recursal, de modo a incidir o entendimento consolidado pelo c. STJ, no sentido que aos contratos de financiamento imobiliários anteriores à entrada em vigor do CDC e/ou que estiverem vinculados ao FCVS, não cabe a inversão do ônus da prova, tendo em vista a inaplicabilidade do CDC para tais hipóteses.
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
