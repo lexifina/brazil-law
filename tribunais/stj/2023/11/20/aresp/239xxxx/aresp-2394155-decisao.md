@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por JRC Empreendimentos e Participações Imobiliárias Ltda. contra a decisão de fls. 877-879 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 805-813 e 819-821 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+PROCESSUAL CIVIL. Cerceamento de defesa que não se identifica na espécie. Magistrado que expôs satisfatoriamente as razões do seu convencimento. Hipótese em que as provas materiais dispensavam o prolongamento da instrução. Princípio constitucional que impõe a razoável duração do processo. Art. 5º, LXXVIII, da CF. Pronto julgamento que, nessas circunstâncias, é dever do Juiz, não mera faculdade. Preliminar rejeitada. PROCESSUAL CIVIL. Impugnação ao valor da causa. Ação revisional atípica, eis que a locatária não busca fixar novo valor, mas sim a inexigibilidade temporária dos locativos em face dos efeitos da pandemia. Manutenção do razoável valor atribuído na inicial. Recurso da ré desprovido. LOCAÇÃO. REVISIONAL DE ALUGUEL. PANDEMIA. Contrato built to suit. Necessidade de recompensar os investimentos realizados pela locadora na construção do imóvel. Embora a pandemia seja fato notório, isso não implica que assim também sejam os seus efeitos sobre as relações jurídicas que alcançou. Hipótese em que a autora não demonstrou a diminuição do seu faturamento, já comprometido antes da crise sanitária, em proporção capaz de impossibilitar o respeito às obrigações assumidas. Perícia desnecessária ao deslinde da quaestio. Recurso da autora desprovido.
+EMBARGOS DE DECLARAÇÃO. Matérias agitadas que são estranhas à via recursal eleita. Interposição com iniludível pretexto de rejulgamento. Inadmissível caráter infringente. Inocorrência de omissão, de contradição, de obscuridade ou de erro material. Os defeitos que podem ser corrigidos por meio de embargos declaratórios, modalidade de recurso com fundamentação vinculada, não se confundem com o julgamento contrário ao interesse da parte. Embargos rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 834-849), apontou a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 291 e 337, III, do CPC/2015; e 58, III, da Lei 8.245/1991. Sustentou, em síntese, que, independentemente da razão para a revisional de locação, o valor da causa deve ser equivalente a 12 (doze) vezes o valor do locativo.
+Contrarrazões às fls. 860-869 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não demonstração da violação aos arts. 291, 337, III, do CPC/2015 e 58, II, da lei 8.245/91; b) incidência da Súmula 7/STJ; e c) não comprovação do dissídio jurisprudencial.
+Daí o presente agravo, no qual a insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 902-907 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal de origem concluiu que a revisional de locação decorrente da COVID-19 seria atípica, rejeitando a tese de que o valor da causa deveria ser equivalente a 12 (doze) vezes o valor do locativo.
+Veja-se à fl. 808 (e-STJ):
+De outra banda, a tese de incorreção do valor da causa não resiste a um sopro do bom direito, pois aqui se cuida de atípica ação revisional de aluguel, eis que a locatária não busca fixar novo valor à vista da alteração dos preços praticados no mercado imobiliário, mas sim pretende a inexigibilidade temporária dos locativos em face dos efeitos da pandemia. Sendo assim, à míngua de típica revisional, quadro a exsurgir dos limites objetivos da pretensão (itens "a.1" a "a.6" fls. 34), de rigor a manutenção do razoável valor atribuído à causa (R$ 55.000,00 fls. 35).
+A recorrente, por sua vez, alega violação dos arts. 291 e 337, III, do CPC/2015; e 58, III, da Lei 8.245/1991, bem como dissídio jurisprudencial, sustentando que, independentemente da razão para a revisão dos aluguéis, o valor da causa deve ser de 12 (doze) vezes o valor do locativo.
+Ocorre que o conteúdo normativo dos dispositivos arrolados não é apto para lastrear a tese invocada, já que não trata de revisional de aluguel atípica, conforme constatado pelo Tribunal de origem.
+Note-se:
+Art. 291. A toda causa será atribuído valor certo, ainda que não tenha conteúdo econômico imediatamente aferível.
+Art. 337. Incumbe ao réu, antes de discutir o mérito, alegar:
+III - incorreção do valor da causa;
+Art. 58. Ressalvados os casos previstos no parágrafo único do art. 1º, nas ações de despejo, consignação em pagamento de aluguel e acessório da locação, revisionais de aluguel e renovatórias de locação, observar - se - á o seguinte:
+III - o valor da causa corresponderá a doze meses de aluguel, ou, na hipótese do inciso II do art. 47, a três salários vigentes por ocasião do ajuizamento;
+Assim, não se constata a alegada violação aos dispositivos invocados.
+Também não foi comprovada a existência de dissídio jurisprudencial, uma vez que os paradigmas apresentados não guardam similitude fática do com o caso dos autos (revisional atípica).
+Diante do exposto, conheço do agravo para conhecer do recurso especial e nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REDUÇÃO DE ALUGUÉIS E ALTERAÇÃO DO ÍNDICE IGP-M EM RAZÃO DA COVID-19. VALOR DA CAUSA. NÃO DEMONSTRADA VIOLAÇÃO AOS DISPOSITIVOS ARROLADOS E NEM O DISSÍDIO JURISPRUDENCIAL. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO .
