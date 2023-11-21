@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de WARLEY PEREIRA CORTEZ em que se aponta como ato coator a decisão do Desembargador Plantonista do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5761619-70.2023.8.09.0000).
+Consta dos autos que o paciente cumpre pena privativa de liberdade e o juízo da execução indeferiu o pedido de progressão de regime e determinou a realização do exame criminológico, considerando o histórico prisional conturbado do paciente (fl. 18). Insatisfeita, a defesa ajuizou prévio writ, com pedido liminar, que não foi apreciado pelo Desembargador Plantonista. Extraio, do decisum, o seguinte trecho (fl. 20):
+Do exame dos autos, tem-se como não comprovada a necessidade de apreciação do presente habeas corpus nessa ocasião, em especial porque a temática atinente à execução penal não se caracteriza como urgentíssima e, assim, não afeta ao plantão forense, podendo ser exercitada durante expediente normal das atividades jurisdicionais, conforme estabelecido pelo §4º do artigo5º da Resolução TJGO 149/2021. Ademais, o requisito temporal será alcançado ao final do mês corrente, o que reforça a inexistência da urgência justificadora dessa via excepcional.
+Sustenta o impetrante a ocorrência de constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que determinou a realização do exame criminológico.
+Requer, assim, liminarmente e no mérito, a anulação da decisão que determinou a realização do exame criminológico, apreciando-se o pedido de progressão de regime independentemente de perícia" (fl. 12).
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão combatida foi proferida pelo Desembargador Plantonista, não havendo notícia de deliberação sobre a matéria trazida na presente impetração pelo relator do writ originário ou pelo Tribunal a quo, o que inviabiliza o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância. A propósito, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. NÃO CUMPRIMENTO DE MEDIDA CAUTELAR. TEMA 1.155 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. IMPOSSIBILIDADE DE CUMPRIMENTO EM RAZÃO DA PANDEMIA DE COVID-19. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente a impetração por ser substitutiva de recurso próprio e deixou de conceder a ordem de ofício uma vez que as instâncias ordinárias realizaram verdadeiro distinguishing entre o afastamento da detração em razão do não comparecimento mensal do agravante em juízo e o precedente qualificado no Tema n. 1.155. No que tange o argumento de que a medida de comparecimento mensal em Juízo deixou de ser cumprido em razão da pandemia de Covid-19, verificou-se que o Tribunal de origem não se manifestou sobre a referida tese, o que afasta a competência desta Corte Superior para conhecer originariamente da matéria, sob pena de incorrer em indevida supressão de instância. Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182, desta Corte Superior.
+2. Agravo regimental não conhecido.
+(AgRg/HC n. 847.047/SC, Rel. Ministro Joel Ilan Paciornik, DJe de 16/11/2023)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
