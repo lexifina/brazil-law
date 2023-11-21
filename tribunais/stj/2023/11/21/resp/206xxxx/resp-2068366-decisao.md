@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por Rosmeri Bravo com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/RS, assim ementado (fl. 74):
+AGRAVO DE INSTRUMENTO. POLÍTICA DE VENCIMENTOS DO ESTADO. CONVERSÃO DO CRUZEIRO REAL EM URV. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. FIXAÇÃO DE VERBA HONORÁRIA NA FASE EXECUTIVA. DECISÃO ANTERIOR DE INDEFERIMENTO. SEM INTERPOSIÇÃO DE RECURSO OPORTUNO. OCORRÊNCIA DE PRECLUSÃO.
+-INADMISSÍVEL A REABERTURA DA DISCUSSÃO SOBRE A PRETENSÃO DE OBTER VERBA HONORÁRIA PARA A FASE EXECUTIVA, SE A PARTE NÃO SE INSURGIU OPORTUNAMENTE DA DECISÃO DE INDEFERIMENTO.
+-RECURSO PROVIDO.
+Embargos de declaração rejeitados.
+A parte recorrente sustenta ofensa ao artigo 85, §7º do CPC/2015 e dissídio jurisprudencial. Para tanto, sustenta que "a não interposição de recurso quanto ao indeferimento em decisão interlocutória não pode figurar preclusão da pretensão honorária sucumbencial, uma vez que, até aquele momento, não havia sido impugnado o cumprimento de sentença, não nascendo a pretensão do(a) ora recorrente, podendo os honorários ser definitivamente fixados apenas em sentença resolutiva de mérito, quando já oferecida impugnação pelo Estado". Assim, conclui serem devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. e-STJ, 177-180.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Em suma, verifica-se que o caso dos autos versa sobre demanda na qual a parte recorrente requer a fixação de honorários advocatícios na fase de cumprimento da sentença, sob regime de precatório, cuja preclusão foi declarada pelo Tribunal de origem.
+No que diz respeito à estipulação da verba honorária na hipótese, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que a questão restou definida anteriormente, não tendo ocorrido oportuno recurso quando do indeferimento da verba honorária, de modo que preclusa a discussão da matéria.
+A propósito, assim constou do acórdão (fls. e-STJ, 71-72):
+Importante observar que, seguindo o entendimento já reiterado do Superior Tribunal de Justiça1, adequei minhas decisões no sentido de que não há preclusão ao pedido de arbitramento de verba honorária, no curso da execução por RPV.
+No presente caso, todavia, a situação é distinta, estando configurada a preclusão ao direito.
+Da análise dos autos, verifica-se que a parte autora propôs a inicial de cumprimento de sentença em novembro de 2019, requerendo a fixação de honorários executivos (fls. 7-10).
+O pedido foi indeferido pelo juízo de origem (fls. 34-36) e, desta decisão, não foi interposto recurso.
+Somente em outubro de 2021, a parte autora requereu novamente o arbitramento de honorários advocatícios para a nova fase processual (fls. 50-56).
+No entanto, como visto, a questão já restou definida anteriormente. Não tendo havido oportuno recurso a respeito, quando do indeferimento da verba honorária, precluiu o prazo para discussão sobre a matéria.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. VERBA HONORÁRIA. FIXAÇÃO EM MOMENTO POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO.
+1. Verifica-se, portanto, que operou-se a preclusão consumativa, tendo em vista que caberia ao ora agravante alegar, na primeira oportunidade, eventual omissão sobre a fixação de honorários recursais ou recorrer da decisão que os negou. Acontece que, analisando os autos, o ora agravante, da sentença extintiva da execução, apelou somente dos honorários fixados no processo de conhecimento, pedido que inclusive foi desprovido e transitou em julgado (17.10.2014) e, após mais de dois anos (13.06.2016), foi requerido, ao Juízo da execução, que fossem fixados honorários relativos à fase de execução.
+2. Agravo interno não provido. (AgInt no AREsp 1.496.795/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/09/2019.) (Grifei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO JUDICIAL CONTRA A FAZENDA PÚBLICA. FIXAÇÃO DE VERBA HONORÁRIA NA FASE EXECUTIVA. PRECLUSÃO CONSUMATIVA. COTEJAMENTO DE PEÇAS PROCESSUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem firmou compreensão, no sentido de que ocorrida a preclusão consumativa, no que pertine a não fixação de honorários, porquanto devidamente decidida a questão, e não impugnada tempestivamente. Assim, alterar essa conclusão, nos termos em que sustentado pela parte, imprescindível o reexame dos elementos fático-probatórios contidos nos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Ademais, consoante entendimento da jurisprudência desta Corte, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio, em observância ao princípio da unirrecorribilidade das decisões judiciais.
+4. Agravo interno não provido. (AgInt no REsp n. 2.014.742/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 8/5/2023, DJe de 10/5/2023.) (Grifei).
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. INCIDÊNCIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRECLUSÃO CONSUMATIVA RECONHECIDA NA ORIGEM. SÚMULA 7 DO STJ. APLICAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA.
+ ..
+3. Sem qualquer pronunciamento acerca da desproporcionalidade do montante arbitrado a título de multa cominatória fixada na origem (astreintes), a chancelar a tese de enriquecimento sem causa ventilada no especial, padece o recurso do indispensável prequestionamento, requisito para cujo preenchimento não basta a mera interposição de embargos de declaração. Precedentes.
+4. Reconhecida pela Corte estadual a ocorrência da preclusão consumativa com base no cotejo entre as ações aforadas nas instâncias ordinárias, a conclusão em contrário implica o reexame do acervo fático- probatório, providência incompatível com a via especial, haja vista o disposto na Súmula 7 desta Corte.
+5. Agravo desprovido. (AgInt no REsp n. 1.298.090/RJ, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 13/11/2017.) (Grifei).
+Por fim, é de se destacar que, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FIXAÇÃO DE VERBA HONORÁRIA NA FASE EXECUTIVA. PRECLUSÃO CONSUMATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO NÃO CONHECIDO.
