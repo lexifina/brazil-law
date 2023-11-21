@@ -1,0 +1,151 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Edwin Quintela e Sonia Quintela Vargas contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça que não conheceu do HC 842.858/SP, nos seguintes termos:
+
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDWIN QUINTELA e SONIA QUINTELA VARGAS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+
+    Consta dos autos que os pacientes foram presos em flagrante (convertida a custódia em prisão preventiva) pela suposta prática do crime previsto no artigo 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006.
+
+    Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 134):
+
+    ‘Habeas corpus – Tráfico de entorpecentes – Agentes surpreendidos transportando e guardando 8,4358 kg de cocaína – Critérios a serem empregados na análise dos pressupostos da prisão preventiva.
+
+    É certo que o STF já reconheceu não ser concebível eventual denegação de liberdade lastrada apenas na gravidade abstrata da conduta daquele que é criminalmente investigado.
+
+    Ao decidir sobre sua eventual liberação, o Magistrado deve, com efeito, considerar, sempre, não apenas a natureza da infração, como também as circunstâncias nas quais os fatos teriam ocorrido e as condições pessoais do suposto agente.
+
+    Em se cuidando de crime de tráfico de entorpecentes, a avaliação deve, assim, abranger não apenas a variedade da substância apreendida, como sua espécie, sua quantidade, a forma como estava acondicionada, além de toda a dinâmica dos fatos e o histórico do averiguado.
+
+    Em tais situações, porém, é inclusive recomendável que aludida análise seja efetuada com maior rigor e especial cautela pelo Juiz, de modo a restarem efetivamente assegurados a manutenção da ordem pública, o bom andamento da instrução criminal, bem como a aplicação da lei penal, uma vez não se poder perder de vista que o tráfico de entorpecentes apresenta natureza grave e hedionda, com consequências particularmente nocivas à sociedade’.
+
+    Na presente oportunidade, o impetrante alega que os pacientes estão sendo submetidos a constrangimento ilegal, sustentando que a decisão que decretou a prisão preventiva não teria demonstrado a necessidade da imposição da medida mais gravosa, sendo justificada apenas na gravidade abstrata do delito, na quantidade de drogas apreendidas e no fato de serem estrangeiros.
+
+    Destaca as condições pessoais dos pacientes, tais como a primariedade e os bons antecedentes e acrescenta que, na ocasião da audiência de custódia, não foi possível apresentar o comprovante de residência e emprego dos pacientes, todavia a juntada de tais documentos foi feita posteriormente.
+
+    Ademais, ‘não há elementos que indiquem a prática da traficância reiterada, de modo qualificado ou mais gravoso, tampouco há informação de que os pacientes integrariam organização criminosa ou se dedicasse a atividade criminosa.’ (e-STJ fl. 19).
+
+    Ressalta, ainda, a desproporcionalidade da custódia ante o prognóstico, em caso de condenação, de pena final menos gravosa que o regime fechado, havendo, ainda, a possibilidade de aplicação de medidas cautelares diversas da prisão, sobretudo diante da não demonstração do periculum libertatis.
+
+    Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP.
+
+    O pleito urgente foi indeferido (e-STJ fls. 152/155).
+
+    Prestadas as informações (e-STJ fls. 163/167 e 171/172), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (e-STJ fls. 185/188).
+
+    É o relatório. Decido.
+
+    O presente habeas corpus não merece ser conhecido por ausência de regularidade formal, qual seja, a adequação da via eleita.
+
+    De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, ‘a’, da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+
+    Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+
+    Nesse sentido, encontram-se, por exemplo, estes julgados: HC 313.318/RS, Quinta Turma, Rel. Min. FELIX FISCHER, julgamento em 7/5/2015, DJ de 21/5/2015; HC 321.436/SP, Sexta Turma, Rel. Min. MARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJ de 27/5/2015.
+
+    No entanto, nada impede que, de ofício, este Tribunal Superior constate a existência de ilegalidade flagrante, circunstância que ora passo a examinar.
+
+    Busca-se, na presente impetração, a revogação da prisão preventiva dos pacientes, acusados da suposta prática do crime de tráfico de drogas interestadual.
+
+    A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI; e art. 93, IX, da CF).
+
+    Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal, que assim dispõe: [...].
+
+    Embora a nova redação do referido dispositivo legal tenha acrescentado o novo pressuposto – demonstração do perigo gerado pelo estado de liberdade do imputado –, apenas explicitou entendimento já adotado pela jurisprudência pátria ao abordar a necessidade de existência de periculum libertatis.
+
+    Portanto, caso a liberdade do acusado não represente perigo à ordem pública, econômica, à instrução criminal ou à aplicação da lei penal, não se justifica a prisão (HC nº 137.066/PE, Rel. Ministro DIAS TOFFOLI, Segunda Turma, julgado em 21/02/2017, DJe 13/03/2017; HC n. 122.057/SP, Rel. Ministro DIAS TOFFOLI, Primeira Turma, julgado em 02/09/2014, DJe 10/10/2014; RHC n. 79.200/BA, Relator Ministro SEPÚLVEDA PERTENCE, Primeira Turma, julgado em 22/06/1999, DJU 13/08/1999; e RHC n. 97.893/RR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019; HC n. 503.046/RN, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+
+    Exige-se, ainda, na linha inicialmente perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, e agora normatizada a partir da edição da Lei n. 13.964/2019, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime (HC n. 321.201/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 6/8/2015, DJe 25/8/2015; HC n. 296.543/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 02/10/2014, DJe 13/10/2014).
+
+    No caso, colhe-se do acórdão impetrado, o qual manteve a prisão preventiva decretada pelo Juízo de origem, o seguinte teor, no que interessa (e-STJ fls. 138/139):
+
+    ‘(...) O tráfico de entorpecentes não deixa de ser, contudo, delito grave e hediondo, com consequências extremamente danosas à sociedade, o que recomenda seja procedida análise rigorosa do caso concreto, de modo a garantir a observância das medidas assecuratórias da ordem pública, do bom andamento da instrução criminal, bem como da aplicação da lei penal, em especial se ausentes os requisitos subjetivos para a eventual concessão de benefício.
+
+    O Magistrado deve, para tanto, sopesar não apenas a natureza da infração, como também as circunstâncias e as condições pessoais do paciente. Em se cuidando de tráfico de entorpecentes, cumpre ainda considerar a quantidade de entorpecente apreendida, sua variedade, bem como a forma como estava acondicionado.
+
+    Por essa razão, entendo que a Douta Procuradoria, em seu Parecer de fls. 116/120, acerta ao assinalar que
+
+    ‘[...] existente, no quadro, indicativos de autoria e prova material de crime de efetiva danosidade e de gravidade diferenciada, tanto que legalmente equiparado aos hediondos, que deixa em sobressalto a população, abala a tranquilidade social e, portanto, afronta à ordem pública, mais ainda quando envolve substancial quantidade de drogas, por sugerir vinculação a organizações criminosas’.
+
+    Analisado o caso concreto, chega-se à conclusão de não ser efetivamente recomendado que os ora pacientes respondam ao processo em liberdade. Existem, ademais, indícios suficientes nos autos de autoria e materialidade delitivas, sem contar o perigo gerado por eventual restabelecimento do estado de liberdade dos imputados. Importa ainda consignar que, apesar de os ora pacientes não ostentarem antecedentes, o caso ora em apreço exige uma análise mais criteriosa em razão da considerável quantidade de droga apreendida (8,4358 kg de cocaína), bem como a forma como fora ocultada (dois extintores), por sugerir vinculação, salvo melhor juízo, à organização criminosa.
+
+    A quantidade de entorpecente apreendida, com efeito, conquanto não seja vultosa, não deixa de ser expressiva. O laudo toxicológico concluiu, ademais, que a apreensão se refere a ‘cocaína’, substância altamente viciante e dotada de grande potencial nocivo para a saúde dos usuários. Não se cogita, assim, de decorrer a manutenção da custódia cautelar exclusivamente da gravidade abstrata da conduta, eis que vem ela escorada tanto no exame dos pressupostos legais como à situação inerente ao caso concreto. (...)’.
+
+    Cumpre verificar se o cárcere preventivo foi decretado em afronta aos requisitos do art. 312 do Código de Processo Penal e sem fundamentação idônea, como aduz a inicial.
+
+    Ora, é da jurisprudência pátria a impossibilidade de se recolher alguém ao cárcere se inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+
+    No ordenamento jurídico vigente, a liberdade é a regra. A prisão antes do trânsito em julgado, cabível excepcionalmente e apenas quando concretamente comprovada a existência do periculum libertatis, deve vir sempre baseada em fundamentação concreta, não em meras conjecturas.
+
+    Note-se ainda que a prisão preventiva se trata propriamente de uma prisão provisória; dela se exige venha sempre fundamentada, uma vez que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (Constituição da República, art. 5º, inciso LXI), mormente porque a fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (CRFB, art. 93, inciso IX).
+
+    Assim, à luz dos trechos acima transcritos, é necessário verificar que a decisão do Magistrado de primeiro grau e o acórdão impetrado encontram-se fundamentados na garantia da ordem pública, considerando as circunstâncias do caso concreto, notadamente o fato de os acusados terem sido flagrados transportando consigo, para fins de tráfico interestadual, significativa quantidade de entorpecentes – 8,4358 kg de cocaína –, destacando-se, ainda, o fato de a droga ter sido ocultada dentro de dois extintores, a reforçar, no entendimento das instâncias precedentes, os indícios de vinculação dos pacientes com organização criminosa.
+
+    De igual modo, o órgão ministerial assim concluiu em seu parecer (e-STJ fl. 187):
+
+    ‘Inexiste constrangimento ilegal na cautelar preventiva dos corréus bolivianos presos em flagrante por achar-se suficientemente fundamentada na excessiva quantidade de entorpecentes apreendidos (8,4358kg de cocaína) escondidas dentro de extintores de incêndio no Terminal Rodoviário da Barra Funda/SP provenientes da cidade de Corumbá/MS (e-STJ, fl. 72) a sugerir que os agentes integram organização criminosa, justificando assim a manutenção da cautelar preventiva para garantia ordem pública, nos termos do artigo 312 do CPP.’
+
+    Assim, tal cenário, em princípio, acena para a periculosidade social dos acusados, ensejando a decretação e manutenção da prisão preventiva como forma de acautelar o meio social, contendo eventual reiteração delitiva.
+
+    De fato, a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+
+    A propósito, ‘a gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva’. (HC 212647 AgR, Rel. Ministro André Mendonça, Segunda Turma, julgado em 05/12/2022, DJe 10/01/2023).
+
+    Assim, conforme o entendimento do Supremo Tribunal Federal, ‘é idônea a prisão cautelar fundada na garantia da ordem pública quando revelada a periculosidade social do agente pela gravidade concreta da conduta’. (HC 219565 AgR, Rel. Ministro Nunes Marques, Segunda Turma, julgado em 14/11/2022, DJe 23/11/2022).
+
+    No mesmo diapasão, ainda, este Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que ‘a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública’. (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022).
+
+    Portanto, mostra-se legítimo, no caso, o decreto de prisão preventiva, uma vez ter demonstrado, com base em dados empíricos, ajustados aos requisitos do art. 312 do CPP, o efetivo risco à ordem pública gerado pela permanência da liberdade.
+
+    De outro vértice, registre-se que eventuais condições subjetivas favoráveis, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+
+    De fato, na esteira da jurisprudência do Supremo Tribunal Federal, ‘condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese’. (AgRg no HC n. 214.290/SP, Rel. Ministro Edson Fachin, Segunda Turma, julgado em 23/05/2022, DJe 06/06/2022).
+
+    Do mesmo modo, ‘o fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte’. (AgRg no RHC n. 171.374/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe 15/12/2022).
+
+    Em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade). A confirmação (ou não) da tipicidade da conduta do agente e da sua culpabilidade depende de ampla dilação probatória, com observância aos princípios do contraditório e da ampla defesa, o que não se coaduna com a finalidade do presente instrumento constitucional.
+
+    ‘A jurisprudência do STJ é firme em salientar a inviabilidade da análise da tese de ofensa ao princípio da homogeneidade na aplicação de medidas cautelares, por ocasião de sentença condenatória no âmbito do processo que a prisão objetiva acautelar, ante a impossibilidade de vislumbrar qual pena será eventualmente imposta ao réu, notadamente o regime inicial de cumprimento’. (HC n. 507.051/PE, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/10/2019, DJe 28/10/2019).
+
+    Ainda nesse sentido: [...].
+
+    Por fim, convém anotar que a Lei n. 12.403/2011 estabeleceu a possibilidade de imposição de medidas alternativas à prisão cautelar, no intuito de permitir ao magistrado, diante das peculiaridades de cada caso concreto e dentro dos critérios de razoabilidade e proporcionalidade, resguardar a ordem pública, a ordem econômica, a instrução criminal ou a aplicação da lei penal. Nos termos do art. 282, § 6º, do Código de Processo Penal, modificado pela Lei n. 13.964/2019, ‘a prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada’.
+
+    No caso dos autos, todavia, foi demonstrada a necessidade custódia cautelar, de modo que é inviável a substituição da prisão preventiva por medidas cautelares diversas, eis que a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com sua soltura. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/6/2017, DJe 9/6/2017”. (AgRg no HC n. 779.709/MG, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/12/2022, DJe 22/12/2022).
+
+    Dessa forma, demonstrados os pressupostos e motivos autorizadores da custódia cautelar, elencados no art. 312 do CPP, não se vislumbra constrangimento ilegal a ser reparado por este Superior Tribunal de Justiça.
+
+    Ante o exposto, não conheço do habeas corpus.” (documento eletrônico 14, grifei)
+
+    Neste writ, o impetrante requer:
+
+    “Ante o exposto, pede-se a essa Suprema Corte Federal, estando presentes o fumus boni iuris e o periculum in mora, requer:
+
+    a) que seja superado o entendimento da súmula 691, haja vista a excepcionalidade da presente impetração;
+
+    b) A concessão da medida liminar para SUBSTITUIR a prisão preventiva dos Pacientes EDWIN QUINTELA e SÔNIA QUINTELA VARGAS pelas medidas cautelares do artigo 319 do CPP até o julgamento de mérito deste writ, bem como seja expedido com extrema urgência os competentes ALVARÁS DE SOLTURA; c) por derradeiro, caso seja superado o pedido de liberdade provisória, requer seja reconhecido o excesso de prazo na formação da culpa e seja relaxada a prisão em flagrante, expedindo assim o competente Alvará de Soltura aos pacientes supramencionados.
+
+    Deferindo-se os pedidos, após as informações prestadas, requer seja definitivamente concedida a ordem, e confirmando-se a liminar, por ser de direito.
+
+    Nestes Termos, pede e espera deferimento, com os inclusos documentos.” (documento eletrônico 1, pp. 19-20)
+
+    É o relatório necessário. Decido.
+
+    Com efeito, o art. 102, I, i, da Constituição Federal prescreve que a competência desta Suprema Corte para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do Supremo Tribunal Federal, ou se trate de crime sujeito à mesma jurisdição em uma única instância.
+
+    Este habeas corpus foi impetrado contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça que não conheceu do HC 842.858/SP (documento eletrônico 14). Assim, no caso, a ausência da análise dos fundamentos constantes do ato coator por colegiado de Tribunal Superior impede o prosseguimento deste writ.
+
+    Nessa mesma direção:
+
+    “AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INVIABILIDADE. INEXISTÊNCIA DE TERATOLOGIA, FLAGRANTE ILEGALIDADE OU ABUSO DE PODER. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O art. 102, I, i, da Constituição Federal estabelece que a competência deste Supremo Tribunal Federal – STF para processar e julgar originariamente a ação constitucional do habeas corpus será inaugurada quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição do STF, ou se trate de crime sujeito à mesma jurisdição em uma única instância. II – A não interposição de agravo regimental no Superior Tribunal de Justiça ou a ausência da análise da decisão monocrática pelo Colegiado daquela Corte impedem o conhecimento do habeas corpus pelo Supremo Tribunal Federal, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer. Precedentes. III – Não há teratologia, flagrante ilegalidade ou abuso de poder que possa abrandar a impossibilidade de superação do óbice aqui reconhecido, a permitir a análise das questões trazidas neste habeas corpus. IV – Agravo regimental a que se nega provimento.” (HC 232.190 AgR/SP, da minha relatoria, Primeira Turma, DJe 16/10/2023)
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO VOLTADA CONTRA DECISÃO MONOCRÁTICA DE MINISTRO DE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES. 1. Incidência de óbice ao conhecimento da ordem impetrada neste SUPREMO TRIBUNAL FEDERAL, uma vez que se impugna decisão monocrática de Ministro do Superior Tribunal de Justiça (HC 219.841-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 6/10/2022; HC 219.672-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/10/2022; HC 216.953-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 29/9/2022; HC 217.751-AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 27/9/2022; HC 208.035-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 21/9/2022; RHC 213.550-AgR, Rel. Min. ANDRÉ MENDONÇA, Segunda Turma, DJe de 1º/9/2022; HC 216.979-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 25/8/2022; HC 216.955-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 25/8/2022; HC 217.067-AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 24/8/2022; RHC 214.783-AgR, Rel. Min. NUNES MARQUES, Segunda Turma, DJe de 4/8/2022). 2. O exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do SUPREMO TRIBUNAL FEDERAL, conforme vem sendo reiteradamente proclamado por esta CORTE (HC 211.364-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 24/8/2022; HC 172.384, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/2/2021; HC 180.895-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 18/6/2020; HC 262.350, Rel. p/ Acórdão: Min. ROSA WEBER, Primeira Turma, DJe de 30/8/2019). 3. Inexistência de teratologia ou caso excepcional caracterizadores de flagrante constrangimento ilegal. 4. Agravo Regimental a que se nega provimento.” (HC 228.736 AgR/BA, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 27/6/2023).
+
+    Consigno, por fim, que, em juízo de mera delibação, não verifiquei na decisão impugnada nenhuma ilegalidade flagrante ou abuso de poder aptos a permitir a superação do óbice acima indicado.
+
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 21 de novembro de 2023.
+
+    Ministro Cristiano Zanin
+
+    Relator
