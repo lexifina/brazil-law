@@ -1,0 +1,13 @@
+DECISÃO
+EZEQUIEL SILVA DOS SANTOS alega sofrer constrangimento ilegal diante de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 5004113-43.2022.8.21.0142.
+Nesta Corte, a defesa pretende seja restabelecida a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006.
+De plano, observo que a argumentação formulada na inicial do habeas corpus não guarda relação com a situação concreta experimentada pelo paciente. Com efeito, a defesa transcreve excerto de acórdão que acolheu recurso do Ministério Público para afastar a incidência da minorante, com base no registro de outros feitos em andamento contra o réu. No entanto, a simples leitura do acórdão de fls. 13-24 deixa claro que o recurso apresentado pelo órgão acusatório não foi provido, por considerar o Tribunal a quo que o registro de outros feitos em andamento não tinha o condão de obstar a redução da pena. Confira-se (fls. 19-20, grifei):
+Deve ser mantida, outrossim, a minorante do tráfico privilegiado.
+No ponto, a benesse em comento, que autoriza ao julgador reduzir a pena na terceira fase da dosimetria, destina-se às hipóteses em que se constate ser o réu primário e de bons antecedentes, sem dedicação às atividades criminosas e sem envolvimento com organização criminosa.
+Com base no dispositivo supracitado, pretende a lei, por motivos de política criminal, distinguir o traficante eventual e não integrante de organização criminosa daquele profissional envolvido com maior profundidade na seara criminosa, oferecendo tratamento penal menos gravoso ao primeiro. Para tanto, faz-se necessário que o agente integre, em conjunto, os quatro requisitos especificados acima.
+Ademais, conforme se extrai do teor do Tema 1139 do Superior Tribunal de Justiça, o fato de o réu responder por ações penais em andamento, por si só, não constitui óbice à concessão da privilegiadora em análise.
+Daí que, sendo o réu primário e não ostentando maus antecedentes, bem como não tendo sido comprovada eventual dedicação à prática de atividades delituosas ou vínculo com organização criminosa, não há falar em afastamento da benesse, devendo a sentença ser mantida por seus próprios fundamentos.
+Ademais, vejo que, apesar de haver recorrido da sentença, a defesa não se insurgiu contra a escolha da fração de 1/3 de diminuição de pena, fixada naquele ato decisório, motivo pelo qual a Corte local nada disse sobre a questão. Desse modo, eventual revisão do patamar adotado pelo Juízo singular, nesta oportunidade, ensejaria supressão de instância.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
