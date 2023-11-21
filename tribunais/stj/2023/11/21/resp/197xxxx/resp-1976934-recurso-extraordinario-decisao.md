@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.161):
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. DECISÃO AGRAVADA QUE DEU PROVIMENTO AO RECURSO ESPECIAL. PLEITO MINISTERIAL. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. DETRAÇÃO DA PENA EM RECOLHIMENTO DOMICILIAR NOTURNO. POSSIBILIDADE.
+ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO PELA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedente).
+III - Nos termos da jurisprudência deste Superior Tribunal, "O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem" (REsp n. 1.977.135/SC, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 28/11/2022).
+Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados.
+A parte recorrente sustenta a ocorrência de violação dos arts. 2º e 5º, caput, II e XLVI, da CF e aduz haver repercussão geral da matéria tratada.
+Nesse sentido, argumenta ter havido afronta aos princípios da separação dos Poderes, da legalidade, da igualdade e da individualização da pena, porquanto esta Corte Superior, em recursos repetitivos (Tema n. 1.155/STJ), decidiu que deve ser computado o período de cumprimento de medida cautelar alternativa à prisão, consistente em recolhimento noturno e nos dias de folga, para fins de detração penal.
+Ressalta que, nos termos do art. 42 do CP, a possibilidade de detração estaria limitada à prisão provisória e à internação para tratamento em hospital de custódia.
+Afirma que equiparar o recolhimento noturno em domicílio com a prisão preventiva para a concessão da detração penal violaria o princípio da igualdade.
+Requer, ao final, a admissão do recurso e a remessa dos autos ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões.
+É o relatório.
+A parte recorrente questiona as razões constantes do acórdão que, no julgamento de recurso especial repetitivo, fixou a seguinte tese (Tema n. 1.155/STJ):
+1) O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado, deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+2) O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.
+3) As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada.
+Verifica-se, portanto, que a controvérsia cinge-se à questão do cômputo do período de cumprimento de medida cautelar de recolhimento domiciliar noturno para detração penal, estando o acórdão recorrido assim fundamentado (fls. 1.168-1.175):
+Pois bem.
+Cinge-se a controvérsia na (im)possibilidade de cômputo do período de cumprimento de medida cautelar diversa de prisão - no caso, recolhimento domiciliar no período noturno, a contar das 20h -, para fins de detração penal.
+Transcrevo os seguintes fundamentos consignados na decisão monocrática agravada, que concluiu que o Juízo da execução deve considerar, para fins da detração da pena, o período em que as ora agravadas cumpriram medida cautelar consistente no recolhimento domiciliar noturno. (fl. 1.121, grifei):
+"Há entendimento pacificado pelo Superior Tribunal de Justiça no sentido de que não é possível detrair da pena privativa de liberdade o período em que o sentenciado submeteu-se a medidas cautelares diversas da prisão, em razão da inexistência de previsão legal (AgRg no HC n. 494.693/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 27/2/2020; e AgRg no AREsp n. 1.406.675/GO, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 5/ 6/2019).
+No entanto, no caso dos autos, as recorrentes foram beneficiadas com a revogação da prisão cautelar mediante o cumprimento de medidas cautelares alternativas elencadas às fls. 363 e 367, a saber: recolhimento domiciliar no período noturno, comparecimento mensal em juízo e proibição de mudar de endereço e de se ausentar da comarca sem autorização judicial.
+Segundo o recente posicionamento da Quinta Turma, entre as medidas alternativas à prisão, apenas o recolhimento domiciliar noturno e a internação provisória, previstos nos incisos V e VII do art. 319 do Código de Processo Penal, compatibilizam-se com o instituto da detração penal (AgRg no REsp n. 1.792.710/PR, relator Ministro Felix Fischer, Quinta Turma, DJe de 23/9/2020).
+Assim, a despeito da inexistência de previsão legal para a detração penal na hipótese de submissão do sentenciado a medidas cautelares diversas da prisão, entendeu-se que o período de recolhimento domiciliar noturno, por comprometer o status libertatis, deve ser detraído da pena em observância aos princípios da proporcionalidade e do non bis in idem."
+Da leitura dos fundamentos constantes do acórdão recorrido, dessume-se que a conclusão do Superior Tribunal de Justiça decorreu da interpretação pormenorizada dos arts. 42 do Código Penal e 319 do Código de Processo Penal, motivo pelo qual eventual ofensa à Constituição Federal, caso existente, seria reflexa ou indireta, a inviabilizar o prosseguimento do recurso extraordinário.
+Em casos semelhantes, da mesma forma decidiu a Suprema Corte:
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. DETRAÇÃO. MEDIDA CAUTELAR DE RECOLHIMENTO DOMICILIAR NOTURNO. EVENTUAL VIOLAÇÃO REFLEXA DA LEI MAIOR NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO ART. 5º, II, DA CARTA MAGNA. LEGALIDADE. SÚMULA Nº 636/STF. AGRAVO NÃO PROVIDO.
+1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, "a", da Lei Maior, nos termos da jurisprudência desta Suprema Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Agravo interno conhecido e não provido.
+(AgRg no RE n. 1.421.613, relatora Ministra Rosa Weber (Presidente), Tribunal Pleno, julgado em 9/5/2023, DJe de 16/5/2023.)
+DIREITO PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. DETRAÇÃO. MEDIDA CAUTELAR DE RECOLHIMENTO DOMICILIAR NOTURNO. EVENTUAL VIOLAÇÃO REFLEXA DA LEI MAIOR NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO ART. 5º, II, DA CARTA MAGNA. LEGALIDADE. SÚMULA Nº 636/STF. AGRAVO NÃO PROVIDO.
+1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, "a", da Lei Maior, nos termos da jurisprudência desta Suprema Corte.
+2. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+3. Agravo interno conhecido e não provido.
+(AgRg no RE n. 1.420.235, relatora Ministra Rosa Weber (Presidente) , Tribunal Pleno, julgado em 9/5/2023, DJe de 16/5/2023.)
+Agravo regimental em recurso extraordinário com agravo. Detração penal. Cautelares diversas da prisão. Acórdão do Tribunal de Origem fundado na legislação infraconstitucional (Código Penal, art. 42, e Código de Processo Penal, art. 312). Ofensa reflexa à Constituição. Agravo regimental não provido.
+1. O exame de legislação infraconstitucional é inadmissível em recurso extraordinário, por configurar ofensa reflexa à Constituição.
+2. Agravo regimental ao qual se nega provimento.
+(AgRg no ARE n. 1.398.225, relator Ministro Dias Toffoli, Primeira Turma, julgado em 28/11/2022, DJe de 10/1/2023.)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. EXECUÇÃO PENAL. RECOLHIMENTO DOMICILIAR NOTURNO. DETRAÇÃO. ALEGADA VIOLAÇÃO AOS ARTIGOS 2ª E 5º, CAPUT, II E XLVI, DA CONSTITUIÇÃO FEDERAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. AGRAVO INTERNO DESPROVIDO.
+1. A matéria objeto do presente Recurso Extraordinário exige prévia interpretação da legislação infraconstitucional, de modo que eventual ofensa à Constituição revela natureza meramente reflexa.
+2. O Tribunal a quo tão somente interpretou o que dispõem o Código Penal e o Código de Processo Penal em sentido contrário àquele desejado pela parte ora recorrente, o que configura ofensa indireta à Constituição Federal, não suscetível de apreciação em sede de recurso extraordinário.
+3. A jurisprudência desta Suprema Corte se consolidou no sentido de que "não cabe recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida" (Súmula 636 do STF).
+4. Agravo interno desprovido.
+(AgRg no RE n. 1.393.772, relator Ministro Luiz Fux, Primeira Turma, julgado em 22/11/2022, DJe de 18/4/2023.)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL E PROCESSUAL PENAL. TEMA REPETITIVO N. 1.155/STJ. DETRAÇÃO. RECOLHIMENTO DOMICILIAR NOTURNO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
