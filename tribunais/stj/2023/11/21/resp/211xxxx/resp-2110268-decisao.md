@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por IVAN TRINDADE BITTENCOURT, com fundamento na alínea "c" do permissivo constitucional.
+Ação: revisional de contrato bancário, ajuizada pelo recorrente, em face de AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+Sentença: julgou improcedente o pedido.
+Acórdão: manteve a decisão unipessoal do Relator que deu parcial provimento à apelação interposta pelo recorrente, apenas para afastar a cobrança de seguro.
+Recurso especial: alega dissídio jurisprudencial. Sustenta que o acórdão recorrido decidiu as questões relativas à capitalização dos juros e da taxa média em dissonância com o entendimento do SJT, dando interpretação divergente ao disposto nos arts. 6º, 47, 46 e 52, I a III, do CDC, bem como o art. 28, § 1º, I, da Lei 10.931/04. Assevera que a verificação da incidência de capitalização de juros por meio do cálculo do duodécuplo não se aplica para a aferição da capitalização diária de juros. Sustenta que a taxa de juros remuneratórios é superior à taxa média informada pelo BACEN na data da contratação. Reconhecida a abusividade dos encargos contratados, defende o afastamento da mora.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da capitalização diária
+A 2ª Seção do STJ, no julgamento do REsp 1.826.463/SC, firmou posicionamento acerca da necessidade de fornecimento, pela instituição financeira, de informações claras ao consumidor acerca da periodicidade da capitalização dos juros adotada no contrato, e das respectivas taxas, sob pena de reputar abusiva a capitalização diária de juros remuneratórios.
+Outrossim, conforme a jurisprudência desta Corte Superior, a cobrança de capitalização diária de juros em contratos bancários é possível, sendo necessária a informação acerca da taxa de juros diária a ser a plicada, ainda que haja expressa previsão quanto à periodicidade no contrato (AgInt no REsp 1.960.803/RS, 3ª Turma, DJe de 19/10/2022; AgInt no REsp 2.002.298/RS, 4ª Turma, DJe de 31/8/2022).
+Na hipótese dos autos, o Tribunal de origem concluiu que "no pacto revisando, viu-se, dita previsão encontra-se na cláusula "M" (Ev. 19, Doc. 2)" (e-STJ fl. 295).
+Nesse contexto, tendo sido expressamente pactuada a capitalização diária, não há que se falar em divergência jurisprudencial.
+2. Dos juros remuneratórios
+A 2ª Seção, no julgamento REsp 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento no sentido de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto".
+Ademais, a jurisprudência do STJ é no sentido de que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras (AgInt no AREsp 1.844.716/MA, 4ª Turma, DJe de 16/12/2021; AgInt no AREsp 1.470.820/MS, 3ª Turma, DJe de 17/10/2019).
+No particular, o Tribunal de origem, com base nas provas produzidas nos autos e da análise das cláusulas contratuais, concluiu pela ausência abusividade da taxa de juros convencionada.
+Nesse contexto, para alterar tal conclusão, seria necessário o reexame do contrato e das demais provas produzidas no processo, o que não é admitido em sede de recurso especial (Súmulas 5 e 7 do STJ).
+Outrossim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional. Nesse sentido: AgInt no AREsp 821.337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964.391/SP, 3ª Turma, DJe de 21/11/2016.
+Por conseguinte , ante a manutenção dos encargos incidentes no período da normalidade contratual, não há que se falar em descaracterização da mora.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III, e IV, "a", do CPC/2015 e na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% do valor atualizado da causa (e-STJ fl. 188) para 15%, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZÃO DIÁRIA. PACTUAÇÃO EXPRESSA. JUROS REMUNERATÓRIOS. ABUSIVIDADE. SÚMULA 7/STJ.
+1. Ação revisional de contrato bancário.
+2. Conforme a jurisprudência desta Corte Superior, a cobrança de capitalização diária de juros em contratos bancários é possível, sendo necessária a informação acerca da taxa de juros diária a ser aplicada, ainda que haja expressa previsão quanto à periodicidade no contrato. Precedentes.
+3. É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto (REsp n. 1.061.530/RS, Segunda Seção).
+4. Na espécie, para alterar a conclusão alcançada na origem, no sentido da ausência de abusividade da taxa de juros convencionada, seria necessário o reexame do contrato e das demais provas produzidas no processo, o que não é admitido em sede de recurso especial (Súmulas 5 e 7 do STJ).
+5. Recurso especial conhecido em parte e, nessa parte, não provido, com majoração de honorários.
