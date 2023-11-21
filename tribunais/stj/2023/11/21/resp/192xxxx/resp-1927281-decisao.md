@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fl. 381):
+APELAÇAO CIVEL. AÇÃO DEREPARAÇÃO POR DANOS MORAIS E MATERIAIS. PASEP. ILEGITIMIDADE PASSIVA AD CAUSAM DO BANCO DO BRASIL. LEGITIMIDADE DA UNIAO. EXTINÇÃO DO FEITO SEM RESOLUÇÃODO MÉRITO. I - O Banco do Brasil é parte ilegítima para compor o pólo passivo das ações de cobrança atinentes aos saldos das contas vinculadas ao PASEP, na medida em que atua na qualidade de mero agente operador dos recursos oriundos do referido fundo. Precedentes do STJ;
+II - Legitimidade passiva imputada à União, na qualidade de gestora dos recursos provenientes do PASEP;
+III - SENTENÇA MANTIDA - RECURSODESPROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega dissídio jurisprudencial quanto ao seguinte tópico: há consolidado entendimento do STJ de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 424-433.
+Decisão de sobrestamento de fl. 644.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nota-se que o recurso especial foi veiculado com base em dissídio jurisprudencial, ao argumento de que supostamente haveria dissonância de interpretação quanto ao tema da legitimidade passiva para ações envolvendo PASEP, bem como quanto ao tema da competência da Justiça Federal.
+A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+PROCESSO CIVIL. AGRAVO INTERNO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO OU SOBRE O QUAL RECAIA DISSÍDIO JURISPRUDENCIAL. SÚMULA 284/STF. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. POSSIBILIDADE.
+1. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai, em regra, a aplicação do óbice contido na Súmula nº 284/STF.
+2. Majoração de honorários advocatícios nos termos do art. 85, § 11, do Código de Processo Civil de 2015. 3. Agravo interno a que se nega provimento. (AgInt no REsp 1.792.064/RO, Rel. Min. Maria Isabel Gallotti, Quarta Turma, julgado em 29/10/2019, DJe 20/11/2019, grifo nosso)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL DENEGADA NA VIA ADMINISTRATIVA. NULIDADE NA COMPOSIÇÃO DO COLEGIADO JULGADOR. ANÁLISE DA ALEGAÇÃO. INVIABILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. CONTROVÉRSIA DECIDIDA COM BASE NA LEI LOCAL. SÚMULA 280 DO STF. PRECEDENTES.
+1. A admissibilidade do recurso especial reclama a indicação específica dos dispositivos tidos por violados, bem como a exposição clara das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. 2. No caso, o recorrente limitou-se a apontar a existência de divergência jurisprudencial entre o entendimento firmado no acórdão combatido e o posicionamento adotado por outros tribunais acerca da presente controvérsia, sem indicar, de forma clara e precisa, os dispositivos de lei federal que teriam sido supostamente afrontados. Assim, a deficiência da fundamentação do recurso inviabiliza a exata compreensão da controvérsia, atraindo, assim, o enunciado da Súmula 284 do Supremo Tribunal Federal.
+3. A leitura da tese recursal expõe a presença do impeditivo descrito na Súmula 280/STF, porquanto a fundamentação do aresto impugnado é calcada na interpretação de legislação estadual.
+Precedentes desta Corte no mesmo sentido.
+4. Recurso especial não conhecido (REsp 1.691.089/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 3/4/2018, DJe de 9/4/2018, grifo nosso)
+Ante o exposto, não conheço do recurso especial. Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
