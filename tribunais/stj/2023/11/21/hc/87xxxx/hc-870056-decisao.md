@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de Jonatas Ferreira de Souza - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro (Ação Penal n. 007919-09.2012.8.19.0004), comporta pronto acolhimento.
+Com efeito, insurge-se a impetração contra a aplicação do percentual de 3/8, a título de exasperação em razão das majorantes do crime de roubo (emprego de arma e concurso de agentes), ao argumento de ausência de fundamentação e de justificativa para tal aumento, pois do cotejo a ser feito entre a vedação às penas de caráter perpétuo (art. 5º, XLVII, "b", da CF) e o princípio da proporcionalidade (extraível do art. 1º, caput, da CF, que tem como escopo principal a vedação aos excessos por parte do Estado), dessume-se que a aplicação de apenas uma causa especial de aumento de pena, a mais gravosa, é, para além de norma de caráter cogente, direito subjetivo do réu (fl. 10).
+De fato, da atenta análise do acórdão e da sentença condenatória, não se observa a existência de fundamentação para a escolha de fração superior a 1/3, razão porque tem incidência o Enunciado n. 443 da Súmula deste Superior Tribunal, segundo o qual o aumento na terceira fase de aplicação da pena do crime de roubo circunstanciado exige fundamentação concreta, não sendo suficie nte para a sua exasperação a mera indicação do número de majorantes.
+Redimensionando-se a reprimenda imposta, temos:
+Mantida a aplicação da pena conforme o Tribunal de origem no patamar de 4 anos e 6 meses de reclusão, e 11 dias-multa, na terceira etapa, exaspero em 1/3, em razão das majorantes do emprego de arma e concurso de agentes, resultando em 6 anos de reclusão e 14 dias-multa. Exaspero, ainda, em 1/4, em razão da continuidade delitiva, ficando a pena em 7 anos e 6 meses de reclusão, e 17 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais. O regime inicial permanece o fechado, em face da exasperação da pena-base.
+Em face do exposto, concedo liminarmente a ordem impetrada para reduzir o percentual de aumento em razão das majorantes do crime de roubo a 1/3, resultando a reprimenda definitiva em 7 anos e 6 meses de reclusão, e 17 dias-multa, mantido o regime inicial fechado.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. AUMENTO NA TERCEIRA FASE. MAJORANTES DO EMPREGO DE ARMA E CONCURSO DE AGENTES. ESCOLHA DA FRAÇÃO DE 3/8 SEM FUNDAMENTAÇÃO CONCRETA. SÚMULA 443/STJ. INCIDÊNCIA. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
