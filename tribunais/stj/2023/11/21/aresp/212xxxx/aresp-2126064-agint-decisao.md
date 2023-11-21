@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT em face de decisão que negou provimento ao recurso especial pelos seguintes fundamentos: (I) não houve ofensa ao art. 489, § 1º, e 1.022, II, do CPC; (II) acerca da legitimidade passiva o acórdão decidiu em acordo com o entendimento do Superior Tribunal de Justiça; (III) O Superior Tribunal de Justiça possui entendimento firme no sentido da possibilidade de acumulação da pensão civil de cunho indenizatório; (IV) incidência da Súmula 284/STF a respeito da tese relativa ao seguro DPVAT; (V) acerca dos juros de mora, incidência da Súmula 54/STJ.
+Inconformado, o agravante, em suas razões, persiste na alegação de violação aos arts. 489, § 1º, e 1.022, II, do CPC. Por outro lado, argumenta que a jurisprudência do STJ reconhece a legitimidade do DNIT para figurar no polo passivo de ação indenizatória por danos decorrentes de acidente de trânsito ocorrido em rodovia federal, mas apenas quando a rodovia não está concedida. No que se refere a acumulação da pensão civil de cunho indenizatório com benefício previdenciário, o tema não está pacificado. Ademais, quanto ao DPVAT, o Superior Tribunal de Justiça sedimentou entendimento por intermédio da Súmula 246/STJ.
+A agravada apresentou impugnação (fls. 1588/1598).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada tornando-a sem efeito.
+Passo ao novo exame do agravo em recurso especial.
+Trata-se de agravo manejado pelo DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA DE TRANSPORTES - DNIT contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1145):
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL. DANO MORAL. DANO MATERIAL. PENSÃO. ACIDENTE DE TRANSITO. CULPACONCORRENTE.
+1. O acidente de trânsito ocorrido na rodovia foi causando tanto pela precária sinalização quanto pela negligência da vítima, restando configurada a culpa concorrente.
+2. Admitida a existência de culpa concorrente das partes pelo evento lesivo, é de se reconhecer - com base no direito à plena indenizabilidade dos prejuízos decorrentes de ilícito (art. 5º, incisos V e X, da CF) - o dever das rés de compensar, por metade e solidariamente, os danos materiais e morais vivenciado pelas autoras.
+3. Recurso parcialmente provido.
+Opostos embargos declaratórios, foram improvidos.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência violação aos arts. 489, § 1º, 1.022 do CPC; 25 da Lei 8.987/95; 26 e 82 da Lei 10.233/2001; 70 da Lei 8.666/93; 394, 397, 405, 407 e 886 do CC.
+Preliminarmente, sustenta que o acórdão recorrido foi omisso a respeito de argumentos relevantes ao deslinde do feito.
+Por outro lado, argumenta que o DNIT é ilegítimo para figurar no polo passivo da lide, pois somente tem competência nos trechos que não estejam concedidos, conforme estabelecido nos artigos 81 e 82, da mencionada Lei 10.233/2001. Acrescenta que a omissão imputada à autarquia não decorre de falha na administração e que execução das obras não é atividade fim do DNIT.
+Defende, também, que a empresa contratada é exclusivamente responsável pelos danos causados a terceiros e que "Sendo a responsabilidade subsidiária (ou solidária de execução subsidiária), não é possível cobrar do DNIT sem antes acionar a empresa contratada. No caso em tela, a empresa sequer foi integrada na presente lide, não obstante o DNIT ter apontado a responsabilidade primária da mesma na contestação." (fl. 1316).
+Ademais, argumenta ser devido o desconto do valor da pensão recebida pelo INSS do pensionamento pela morte do ex-marido/pai da parte agravada, sob pena de a compensação ser superior à contribuição que o acidentado provinha no sustento da família. Por outro lado, argumenta que a pensionamento do INSS somente é devido à filha do falecido até a data que vier a completar 21 anos de idade.
+Acrescenta ser devido o desconto do seguro DPVAT, independentemente de comprovação de recebimento.
+Lado outro, argumenta que o termo inicial dos juros incidentes sobre o valor da indenização por danos morais é a data do arbitramento.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo conhecimento do Agravo para conhecer parcialmente e, nesta extensão, prover o recurso especial apenas para possibilitar o abatimento do valor do seguro DPVAT da indenização fixada judicialmente (fls. 1549/1557).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso merece acolhida pelo art. 1.022, do CPC/2015, pois a parte agravante, em seus embargos de declaração, trouxe o argumento de responsabilidade autônoma e independente da concessionária remunerada pelo usuário para a manutenção da via com vistas a fundamentar a ilegitimidade passiva do DNIT.
+Entretanto, o Tribunal de origem quedou silente sobre tais argumentos, em franca violação ao art. 1.022, do CPC/2015, porquanto não prestada a jurisdição de forma integral. Nesse vértice:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.OCORRÊNCIA. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. É firme o entendimento do STJ de que, "tratando-se de questão relevante para o deslinde da causa, a ausência de manifestação sobre ela caracteriza ofensa ao art. 535 do CPC/1973. Verificada tal ofensa, em sede de recurso especial, impõe-se a anulação do acórdão proferido em sede de embargos de declaração, para que seja proferido novo julgamento suprindo tal omissão"(AgInt no AREsp 868.604/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/09/2016).
+2. Caso concreto em que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para a solução da controvérsia, em franca violação ao art. 1.022do CPC/2015.
+3. Agravo interno não provido.
+(AgInt no REsp 1.650.218/AL, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,julgado em 25/9/2018, DJe 9/10/2018)
+Dessarte, diante do acolhimento da questão preliminar, fica prejudicada a análise dos demais pedidos recursais.
+ANTE O EXPOSTO, dou provimento ao recurso especial por afronta ao art.1.022, do CPC/2015, para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
