@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+APELAÇÃO - ILEGITIMIDADE PASSIVA AD  CAUSAM - Imposto Territorial Urbano - Exercício de 2004 a 2007 - Ajuizamento em face de executado já m falecido anteriormente ao ajuizamento da ação - c  Redirecionamento da ação - Descabimento - Ausência de erro material ou formal nas CDA"s - Súmula 392 do C. 8 Superior Tribunal de Justiça - Processo extinto por y ilegitimidade passiva reconhecida - Sentença mantida - 22 Recurso improvido. Embargos de declaração opostos foram rejeitados
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa aos artigos 97, 131, I e II, do Código Tributário Nacional e dissídio, sob o argumento que da inexigibilidade e nulidade da CDA, tendo em vista que "legitimidade passiva da executada, apenas pelo falecimento da mesma, ou seja, não se afastou legitimidade da própria excipiente, uma vez que, como inventariante, é tão responsável quando os demais herdeiros, primeiro por promover a atualização cadastral do imóvel, segundo por responder pelo débitos sobre o imóvel" (fl. 2423).
+Argui que "o ocorre junto à Receita Federal quando, o falecimento da pessoa física só é informado àquele órgão de fiscalização mediante declaração final de espólio, oportunidade em que o órgão público recebe a comunicação de que aquele contribuinte não mais existe" (fl. 2423).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso.
+O recurso foi inadmitido pela decisão de fls. 2436/2438, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Segue trecho do acórdão de origem:
+ ..
+Proposta a ação executiva contra devedor falecido, antes da citação, não pode a ação ser redirecionada em face de seus herdeiros, inventariantes ou atuais proprietários por simples substituição da CDA. Note-se que, em que pesem as alegações trazidas nas razões recursais, a extinção do processo por evidente ilegitimidade passiva ad causam era, a medida que se impunha, porquanto vedada a alteração, in casu, do sujeito passivo do processo executivo.
+De fato, como já decidiu o C. Superior Tribunal de Justiça, proposta a ação executiva contra devedor falecido, não pode a ação ser redirecionada em face do Espólio, herdeiros ou atuais proprietários por simples substituição da CDA, nos termos da Súmula 392: A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução.
+ ..
+E diante do incorreto manejo da execução em relação ao executado e da impossibilidade de substituição do polo passivo do título executivo emerge, à evidência, em eiva insanável da CDA a macular por completo a execução fiscal por ausência dos requisitos previstos no artigo 202 do CTN e no artigo 21, §§51 e 6º, da Lei 6.830/80. (grifos acrescidos)
+Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+A corroborar esse entendimento:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. SUJEIÇÃO PASSIVA. LEGITIMIDADE ATIVA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE. ACÓRDÃO COMBATIDO. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. (..) 3. Havendo fundamentos do acórdão recorrido não impugnados (a inoponibilidade ao fisco dos ajustes particulares; a necessidade de anuência do credor para que terceiro assuma a dívida tributária), atrai-se a incidência do óbice das Súmulas 283 e 284 do STF.
+4. Agravo interno desprovido. (AgInt no AREsp 1568526/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/03/2021, DJe 23/03/2021 - grifo nosso).
+Ademais, a verificação acerca da legitimidade passiva e existência dos requisitos essenciais que devem constar da certidão de dívida ativa, a fim de que fiquem demonstradas a certeza e liquidez do título, demanda o revolvimento do suporte fático-probatório carreado aos autos, o que é inviável em sede de recurso especial, tendo em vista o óbice contido na Súmula 7/STJ.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. DISCUSSÃO ACERCA DOS REQUISITOS DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. ALEGADA ILEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO FISCAL. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. ÓBICE DA SÚMULA 283/STF.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo regimental não provido. (AgRg no AREsp 207.967/MG, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 12.9.2012).
+Assim, conforme análise das razões do recurso especial, o apelo especial não apresentou violação ao art. 1022 do CPC/2015 e a fundamentação pertinente acerca ausência de prestação jurisdicional por parte do Tribunal a quo.
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. ILEGITIMIDADE PASSIVA. DISCUSSÃO ACERCA DA REGULARIDADE DA CDA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
