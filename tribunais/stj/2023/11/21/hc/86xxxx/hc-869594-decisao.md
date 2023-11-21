@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DIEGO LOVATO MORETTI contra decisão liminar de Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2304869-93.2023.8.26.0000).
+Segundo consta dos autos, o paciente teve sua prisão preventiva decretada, pela suposta prática do crime de homicídio qualificado na forma tentada.
+Na ação originária, a defesa postulou a revogação da prisão preventiva, com base na ausência de fundamentos idôneos. O Relator da ação na origem, contudo, indeferiu a liminar (e-STJ fls. 18/19).
+Nas razões da presente impetração, a defesa alega ausência de fundamentação válida para manter a prisão preventiva, que, segundo afirma, "além de possuir natureza leve, deu-se por apenas uma perfuração em região não vital do corpo" (e-STJ fl. 04).
+Afirma a ausência de contemporaneidade da prisão preventiva, decretada após três meses dos fatos.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva da paciente, com aplicação de medidas cautelares, tudo com superação do enunciado n. 691/STF.
+É o relatório, Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fls. 18/19 - grifei):
+ ..
+Em que pesem as alegações do impetrante, não se vislumbra, ao menos por ora, a existência de patente constrangimento ilegal que autorize o deferimento da medida pleiteada.
+Com efeito, neste momento, não se verifica, em análise perfunctória que esta via permite, qualquer ilegalidade na decisão que decretou a custódia cautelar do paciente que autorize o deferimento da medida liminar, tendo o MM. Juízo pontuado, em síntese, de forma suficientemente fundamentada, a existência de "(..) provas de materialidade e indícios bastantes de autoria do fato gravíssimo, que autorizaram o presente recebimento da peça acusatória inclusive." (fls. 13/14).
+Ressalta-se, ainda, que o crime imputado possui pena máxima superior a 04 anos, estando a medida restritiva de liberdade autorizada pelo art. 313, inciso I, do Código de Processo Penal.
+Vale ressaltar, ainda, que, nesta fase, é impossível falar-se em concessão pela via liminar do requerido, uma vez que tal medida não se presta a antecipar a tutela jurisdicional: "(..) a provisão cautelar não se presta à apreciação da questão de mérito do writ, por implicar em exame prematuro da matéria de fundo da ação de habeas corpus, de competência da turma julgadora, que não pode ser apreciada nos limites da cognição sumário do Relator. Por outras palavras, no writ não cabe medida satisfativa antecipada." (STJ, HC 17.579, Rel. Min. Hamilton Carvalhido, DJ 09.08.2001).
+Assim, "Demonstrando o magistrado, de forma efetiva, as circunstâncias concretas ensejadoras da decretação da prisão preventiva, não há que se falar em ilegalidade da segregação cautelar em razão de deficiência na fundamentação (Precedentes)" (HC n. 63.237/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 1º/3/2007, DJ 9/4/2007).
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de ori gem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
