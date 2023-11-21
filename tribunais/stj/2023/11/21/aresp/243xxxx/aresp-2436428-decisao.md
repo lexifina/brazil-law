@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por BANCO DO NORDESTE DO BRASIL S.A. com fundamento no art. 105, III, c, da Constituição Federal, para impugnar acórdão proferido pela Segunda Câmara Cível do Tribunal de Justiça do Estado de Sergipe (e-STJ, fl. 462):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO - SENTENÇA QUE EXTINGUIU O FEITO EM DECORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE - INSURGÊNCIA DO EXEQUENTE - PRAZO PRESCRICIONAL DE 03 (TRÊS ANOS), CONFORME ART. 206, § 3º, VII, CÓDIGO CIVIL - EXEQUENTE QUE REQUEREU A REALIZAÇÃO DE DILIGÊNCIAS QUE SE MOSTRARAM INFRUTÍFERAS -SUSPENSÃO DO FEITO E POSTERIOR ARQUIVAMENTO PROVISÓRIO -PASSADOS MAIS DE 12 ANOS DO AJUIZAMENTO DA AÇÃO, NÃO FORAM LOCALIZADOS BENS DO DEVEDOR PASSÍVEIS DE PENHORA - PRESCRIÇÃO INTERCORRENTE RECONHECIDA - INTELIGÊNCIA DO ARTIGO 206-A DO CÓDIGO CIVIL - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO - UNÂNIME.
+Opostos os embargos de declaração, o Tribunal de origem os rejeitou (e-STJ, fls. 480-498).
+Nas razões do reclamo especial (e-STJ, fls. 500-509), o recorrente apontou violação aos arts. 921 e 1.056 do CPC/2015.
+Em síntese, alegou que "a sentença fustigada fora prolatada dentro da vigência nova lei processual civil. Sendo assim, o início da contagem do prazo para o reconhecimento da prescrição intercorrente, deveria respeitar a data da entrada em vigor do novo Codex Processual, qual seja, em 18/03/16, consoante disposição expressa dos artigos supracitados" (e-STJ, fl. 507).
+Logo não há que falar em transcurso do prazo, uma vez a vigência do Novo Código se deu em março de 2016.
+Não foram apresentadas as contrarrazões (e-STJ, fl. 512).
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência da Súmula n. 83/STJ (e-STJ, fls. 515-520), o que ensejou a interposição do presente agravo (e-STJ, fls. 525-529).
+Brevemente relatado, decido.
+De início, cabe registrar o entendimento desta Corte Superior no que tange à prescrição intercorrente.
+Sobre o tema, a Segunda Seção deste Superior Tribunal, no julgamento do REsp n. 1.604.412/SC, cristalizou o entendimento de que nas causas regidas pelo CPC/1973, a prescrição intercorrente incide quando o exequente permanece inerte por período superior ao de prescrição do direito material, a partir do fim do prazo judicial de suspensão do processo ou, inexistindo data fixada, do transcurso de 1 (um) ano, por aplicação analógica do art. 40, § 2º, da Lei de Execuções Fiscal. Ademais, ficou definido que o termo inicial previsto no art. 1.056 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual.
+Eis a ementa do aludido julgado:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+Além disso, nos termos da jurisprudência desta Corte Superior, o reconhecimento da prescrição intercorrente exige a coexistência de dois requisitos, quais sejam, i) o decurso do tempo previsto em lei; e ii) inércia do titular da pretensão em adotar as providências necessárias ao andamento do feito.
+Na mesma linha de cognição (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior tem entendimento pacífico de que o reconhecimento da prescrição intercorrente demanda a concomitância de dois requisitos: a) o decurso do tempo previsto em lei; e b) a inércia do titular da pretensão resistida em adotar providências necessárias ao andamento do feito.
+2. No caso dos autos, ficou efetivamente demonstrado que o credor tomou todas as medidas necessárias para imprimir andamento ao feito, não se caracterizando desídia ou inércia na condução do processo.
+3. O dissídio jurisprudencial viabilizador do recurso especial pela alínea "c" do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os arestos, tampouco a interpretação divergente recebida pela jurisprudência pátria.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.211.256/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+No caso sob julgamento, dessume-se da leitura dos autos que, por se tratar de dívida líquida decorrente de nota de crédito comercial, o prazo prescricional do direito material vindicado é de 3 (três) anos, nos termos do art. 206, § 3º, VIII, do Código Civil. Ademais, a decisão de sobrestamento fora proferida em 26/02/2018, com arquivamento provisório determinado em 09/04/2019.
+Confira-se (e-STJ, fls. 463-466):
+Assim, o instituto da prescrição encontra seu fundamento no Princípio da Segurança Jurídica e pode ser compreendido como aquele que encobre a eficácia de determinada pretensão, em razão do não exercício dela em determinado lapso temporal, podendo ser reconhecida em qualquer tempo e grau de jurisdição.
+No caso dos autos, observa-se que a demanda foi ajuizada em 13.07.2012 para recebimento de valor decorrente de Nota de Crédito Comercial nº 180.2010.329.2799.
+Diante da ausência de localização de bens penhoráveis, cujas tentativas tiveram início em 01.08.2012, foi determinada a suspensão do feito por um ano em 26.02.2018, nos termos do art. 921, III, § 1º do Ordenamento Processual Civil.
+Em 28.02.2019, consta certidão nos autos de origem, "CERTIFICAMOS para os devidos fins que fluiu, no dia 27/02/2019, o prazo de suspensão do andamento do feito, sem manifestações.".
+Em 09.04.2019, houve decisão pelo arquivamento provisório.
+Portanto, nesse toar, com o exaurimento do período de suspensão de um ano fixado pelo juízo, o prazo da prescrição intercorrente começou a contar, para efeito do artigo 921, III, § 1º e § 4º do Código de Processo Civil com redação anterior a Lei 14.195/2021, in verbis:
+ ..
+É importante salientar que o Superior Tribunal de Justiça considera inadmissível o cômputo de período temporal anterior à vigência doNovo Código de Processo Civil para decretar a prescrição intercorrente com base no art. 924, V, do referido diploma legal. Nesse sentido,confira-se a ementa abaixo transcrita:
+ ..
+Com efeito, sabe-se que, no presente caso, o prazo prescricional para que o exequente exerça o seu direito de satisfação do crédito é de 03(três) anos.
+Compulsando os autos, verifica-se que ultrapassado o mencionado período, levando em consideração a data da entrada em vigor do Novo CPC, o exequente não obteve satisfação da sua dívida.
+Ademais, as diligências requeridas pelo credor foram infrutíferas, não sendo localizados bens passíveis de penhora.
+Vale registrar que, conforme entendimento da Terceira Turma do Superior Tribunal de Justiça no julgamento do REsp nº 1.522.092, os requerimentos para realização de diligências que se mostraram infrutíferas em localizar o devedor ou seus bens não têm o condão de suspender ou interromper o prazo de prescrição intercorrente. Nesse sentido, colaciono a ementa:
+ ..
+Assim, constato que a prescrição intercorrente ocorreu, e que Código Civil estabelece o prazo de prescrição para a execução de título decrédito em três anos, conforme artigo 206, § 3º, VIII, devendo ser mantida a sentença que reconheceu a prescrição.
+Nesse aspecto, não obstante a alegação de violação de dispositivo de lei federal, observa-se o intento do recorrente de que esta Corte Superior proceda ao revolvimento do acervo fático-probatório a fim de que se adote conclusão diversa no que tange à prescrição intercorrente. Assim, dada a natureza excepcional do recurso especial, o qual é vocacionado à tutela do direito objetivo federal, o acolhimento da pretensão recursal é providência inviável. Incide, portanto, o enunciado da Súmula n. 7/STJ.
+Ocorre que, consoante entendimento desta Corte Superior, o exame de dissídio jurisprudencial, com base na alínea c do permissivo constitucional, fica inviabilizado quando fundado em premissa fático-probatóra.
+No ponto (sem grifo no original):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. DANO MORAL. INDENIZAÇÃO. VALOR. REVISÃO. POSSIBILIDADE. EXORBITÂNCIA OU IRRISORIEDADE. NÃO VERIFICAÇÃO. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO. SÚMULA 13/STJ. APRECIAÇÃO PELA ALÍNEA "C". INVIABILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+3. Não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal se, como no caso dos autos, não estiver comprovado nos moldes dos arts.1.029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do RISTJ.
+4. A divergência baseada em paradigma oriundo do mesmo tribunal prolator do acórdão recorrido encontra óbice na Súmula 13 do STJ.
+5. Inviabilizado, em regra, o recurso especial interposto pela alínea "c", que se funda, em premissa fático-probatória.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.882.857/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022.)
+Por fim, registra-se não o ser caso de revaloração da prova, porquanto revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Deixo de majorar os honorários sucumbenciais por não ter sido fixada tal verba nas instâncias ordinárias (e-STJ, fl. 466), sendo inaplicável o art. 85, § 11, do CPC/2015.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. APELAÇÃO CÍVEL. 1. DIREITO PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. ARTS. 921 E 1.056 DO CPC/2015. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. REVALORAÇÃO DE PROVA. IMPOSSIBILIDADE. 2. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
