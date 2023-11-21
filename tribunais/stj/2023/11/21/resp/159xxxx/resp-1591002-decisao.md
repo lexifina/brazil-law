@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 116):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO.ART. 58 DO ADCT. ART. 515, § 3º DO CPC. RECALCULO DA RENDA MENSAL INICIAL. HONORÁRIOS ADVOCATÍCIOS.
+I - A equivalência salarial está assegurada, nos termos do art. 58 do ADCT, não importando que o beneficio tenha sido concedido antes ou após a promulgação da CF/88.
+II - É inconcebível criar diferenças injustificadas entre os segurados, em termos de preconizar reajustes segundo Índices específicos para aqueles concedidos posteriormente à promulgação da CF/88, porém, antes da nova legislação.
+III - O pedido de aplicação do art. 58 do ADCT deve ser apreciado, com fundamento no art. 515, § 3º do Código de Processo Civil, alterado pela Lei 10352/01.
+IV -No cálculo da renda mensal inicial dos benefícios concedidos após 05.10.88 aplica-se o disposto no caput do art. 202 - CF/88, por se tratar de norma de eficácia plena e aplicabilidade imediata.
+V - Os honorários advocatícios são devidos por impositivo legal.
+VI - Recurso do autor, provido. Improvido o recurso do INSS.
+Os embargos de declaração opostos foram rejeitados (fls. 122/129).
+Em suas razões recursais (fls. 133/136), a parte recorrente alega a violação aos arts. 535, I e II, do Código de Processo Civil de 1973; e 144, parágrafo único, da Lei 8.213/1991.
+Argumenta para tanto que: (a) houve negativa de prestação jurisdicional; e (b) é "indevida a condenação ao pagamento das diferenças resultantes da revisão concedida à parte autora, já efetuada pela Autarquia com base no artigo 144, da Lei 8.213/91, frente ao disposto no parágrafo único, deste mesmo dispositivo legal" (fl. 136).
+Não foram apresentadas contrarrazões de acordo com a certidão de fl. 146.
+Admitido o recurso especial (fl. 168), os autos foram remetidos ao Superior Tribunal de Justiça.
+Neste Tribunal, o Ministro Napoleão Nunes Maia Filho proferiu a decisão determinando a devolução dos autos à origem para aguardar o julgamento do Tema 951/STJ (fls. 178/179).
+Em novo juízo de admissibilidade, o Tribunal regional admitiu e restituiu os autos ao STJ destacando que: "o julgamento do Tema 951-STJ restou cancelado por determinação do Desembargador convocado do TRF5 Manoel Erhardt (sucessor de acervo), memorando  .. , nos seguintes termos: " ..  tendo em vista que a controvérsia pertinente à incidência dos critérios elencados no art. 144 da Lei 8.213/1991 e, consequentemente, a possibilidade de se mesclar as regras de cálculos ínsitas na legislação revogada com a nova aos benefícios concedidos no denominado período Buraco Negro, foi decidida pelo Colendo Supremo Tribunal Federal, em Repercussão Geral no Recurso Extraordinário 937.595/SP - Tema 930, no qual se decidiu que a questão tem natureza eminentemente constitucional."" (fl. 384).
+É o relatório.
+Nos termos do que foi decidido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+A irresignação merece acolhimento.
+A alegada ofensa ao art. 535 do CPC/1973 tem por base suposta omissão do acórdão recorrido quanto à aplicação do art. 144 da Lei 8.213/1991.
+Nas razões dos embargos de declaração opostos, o ora recorrente requereu o pronunciamento do Tribunal regional acerca das supostas omissões contidas no acórdão recorrido, sustentando para tanto (fls. 119/120):
+o v. aresto é omisso, uma vez que não se pronunciou acerca da impossibilidade de condenação ao pagamento das diferenças resultantes da revisão concedida à parte autora, já efetuada pela Autarquia com base no artigo 144, da Lei nº 8213/91, face o disposto no parágrafo único deste mesmo dispositivo legal, razão pela qual faz-se necessária a oposição dos presentes declaratórios.
+Todavia, apesar do vício apontado, os embargos de declaração foram rejeitados sem o suprimento devido, deixando de ser prestada a jurisdição de forma completa e eficaz.
+Conforme o entendimento do Superior Tribunal de Justiça, presente algum dos vícios - omissão, contradição ou obscuridade -, e apontada a violação do art. 535 do CPC/1973 no recurso especial, deve ser anulado o acórdão proferido pelo Tribunal de origem ao examinar os embargos de declaração lá opostos, retornando-se os autos à origem para nova apreciação dos aclaratórios. A propósito, confiram-se estes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido. (AgInt no REsp n. 1.914.275/PB, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 535 DO CPC/73 CONFIGURADA. OCORRÊNCIA DE OMISSÃO DE TEMA ESSENCIAL PARA DESLINDE DA CONTROVÉRSIA. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Na hipótese de o eg. Tribunal local deixar de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação ao art. 535 do CPC/73.
+2. Reconhecida a existência de omissão essencial para o deslinde da controvérsia, deve-se determinar o retorno dos autos ao eg. Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando os vícios ora reconhecidos.
+3. Acolhida a alegada ofensa ao art. 535 do CPC/73, fica prejudicada a análise das demais teses trazidas no apelo nobre.
+4. Agravo interno provido para reconsiderar a decisão agravada e dar parcial provimento ao recurso especial e, reconhecendo a violação ao art. 535, II, do CPC/73, anular o v. acórdão de fls. 201/203, determinando o retorno dos autos ao eg. Tribunal a quo para promover novo julgamento dos embargos de declaração, como entender de direito. (AgInt no AREsp n. 218.092/RJ, relator Ministro Lázaro Guimarães - Desembargador Convocado do TRF da 5ª Região, Quarta Turma, julgado em 2/8/2018, DJe de 8/8/2018.)
+Ante o exposto, dou provimento ao recurso especial para, reconhecendo o vício de omissão do acórdão prolatado em aclaratórios, anular o julgado e determinar o retorno dos autos à origem para novo exame dos embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
