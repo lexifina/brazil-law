@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MICHAEL CRISTIAN DA ROSA ALVES com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL em julgamento de apelação criminal n. 5015397-33.2020.8.21.0008.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 33, § 4º, da Lei n. 11.343/2006 (tráfico de drogas), à pena de 2 anos e 6 meses de reclusão, em regime inicial aberto, e 233 dias-multa, substituída a pena privativa de liberdade por duas restritivas de direitos (fls. 203/204).
+O recurso de apelação interposto pelo Parquet foi provido para a fastar o redutor de pena. O acórdão ficou assim ementado:
+"TRÁFICO DE DROGAS. APENAMENTO. MINORANTE. Não faz jus o acusado à causa de diminuição de pena prevista no art. 33, §4º, da Lei Antidrogas, pois está a responder a ações penais outras, o que põe à mostra a sua dedicação às atividades criminosas. Condenação mantida. Apenamento redimensionado.
+APELO PROVIDO" (fl. 339).
+Em sede de recurso especial, a defesa apontou violação aos arts. 59 e 68 do Código Penal - CP, porque o TJ exclui o redutor de pena amparado somente na circunstância judicial da personalidade.
+Aduz que processos não transitados em julgados e inquéritos policiais não podem afastar o redutor de pena.
+Requer o restabelecimento da sentença.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL (fls. 370/377).
+Admitido o recurso no TJ (fls. 408/412), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo provimento do recurso especial (fls. 428/433).
+É o relatório.
+Decido.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL deu provimento ao apelo ministerial, para afastar o redutor de pena, nos seguintes termos do voto do relator:
+"Vê-se ter o magistrado fixado a pena-base em cinco anos de reclusão; posteriormente, diante da incidência da minorante precitada no patamar de metade, restou a pena definitiva estabelecida em dois anos e seis meses de reclusão.
+Com razão o Ministério Público, pois substancial a quantidade da droga apreendida (quarenta e dois pinos de ecstasy) e, além disso, o acusado está a responder a ações penais outras, pela prática anterior de homicídio consumado, ameaça (três vezes) e tráfico de drogas, e figura como investigado em inquéritos policiais sob as imputações de tráfico de drogas e associação para o tráfico, lesão corporal, ameaça e furto, circunstância que deixa à mostra a dedicação do réu às atividades delituosas, com o que resulta prejudicada a substituição da pena privativa de liberdade por restritivas de direitos, pois ultrapassa a imposta ao acusado o quantum que enseja a adoção de tal providência" (fl. 341).
+Com efeito, da fundamentação acima extrai-se que o Tribunal de origem entendeu inviável a concessão do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em razão da existência de processo em curso contra o recorrente, bem como em razão da quantidade e natureza da droga apreendida.
+Tal entendimento não condiz com a jurisprudência desta Corte, pois as ações penais em curso não podem, por si sós, serem utilizadas como justificativa para afastar a aplicação da benesse em comento. Nesse sentido firmou-se, no julgamento do Tema Repetitivo n. 1139, a tese de que "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06" (REsp n. 1.977.027/PR, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 10/8/2022, DJe de 18/8/2022). Com a mesma conclusão, confiram-se os seguintes precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. REVALORAÇÃO JURÍDICA DE FATOS INCONTROVERSOS. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AÇÕES PENAIS EM CURSO. FUNDAMENTAÇÃO INIDÔNEA. MINORANTE RECONHECIDA. PENA REDUZIDA. PRESCRIÇÃO CONFIGURADA.
+ ..
+2. A existência de ações penais em curso, por si só, não constitui fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei 11.343/06, tendo ressaltado o Juízo de origem a primariedade e bons antecedentes do réu.
+ ..
+4. Agravo regimental provido para decretar a extinção da punibilidade.
+(AgRg no AREsp n. 2.121.476/RR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 23/9/2022).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA DO ART. 33, § 4.º, DA LEI N. 11.343/2006. AUSÊNCIA DE PROVA DA DEDICAÇÃO DO AGENTE À ATIVIDADE CRIMINOSA. AÇÃO PENAL EM CURSO. PRESUNÇÃO DE INOCÊNCIA. INEXISTÊNCIA DE ÓBICE À INCIDÊNCIA DA REDUTORA, NA FRAÇÃO MÁXIMA. AGRAVO REGIMENTAL DESPROVIDO.
+1 - A incidência da minorante prevista no § 4º, do art. 33, da Lei n. 11.343/2006, pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2 - Na hipótese, embora a agravada fosse primária e possuísse bons antecedentes, a minorante foi afastada com base na existência de ação penal em curso.
+3 - A Quinta Turma desta Corte, alinhando-se ao entendimento sufragado no Supremo Tribunal Federal, além de buscar nova pacificação no âmbito do Superior Tribunal de Justiça, consignou que a causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, inciso LIV, da Constituição Federal (RE 1.283.996 AgR, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020), (HC 6.644.284/ES, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/9/2021).
+4 - Na espécie, não havendo prova da dedicação do agente à atividade criminosa, inexistia óbice à aplicação da causa de diminuição.
+Tendo em vista a quantidade não elevada das drogas apreendidas - 7, 75 gramas de cocaína e 160,55 gramas de maconha -, era mesmo possível a aplicação da fração máxima da redutora, em 2/3.
+5 - Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.077.006/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/8/2022).
+Ademais, de se ressaltar que "Prevalece nesta Corte Superior o entendimento de que a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa" (AgRg no REsp 1866691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/5/2020).
+Assim, seriam necessários outros fundamentos concretos aptos a demonstrar que o recorrente se dedica a atividades ilícitas, o que não ocorreu no presente caso.
+Desse modo, reputo que no acórdão impugnado não houve menção sobre elementos concretos e idôneos acerca da dedicação do recorrente às atividades criminosas ou de seu envolvimento em organização criminosa, devendo ser reformado o acórdão para o reconhecimento do tráfico privilegiado em seu favor, com restabelecimento da pena imposta na sentença de primeiro grau.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para restabelecer a sentença de primeiro grau.
+Publique-se. Intimem-se.
+ EMENTA
