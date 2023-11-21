@@ -1,0 +1,16 @@
+DECISÃO
+Neste writ, que se volta contra o acórdão do Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2256785-95.2022.8.26.0000 (fls. 15/18), pretende-se, inclusive em caráter liminar, a imediata revogação da prisão preventiva de Luis Fernando dos Santos - preso preventivamente, em 24/10/2022, pela suposta prática dos crimes descritos nos arts. 147, caput, e 140, § 3º, ambos do Código Penal - nos Autos n. 1501273-58.2022.8.26.0360, da 2ª Vara da comarca de Mococa/SP, sob os argumentos, em resumo, de ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal e de inidoneidade de fundamentação da decisão que decretou a medida constritiva extrema.
+Estes autos foram a mim distribuídos por prevenção (HC n. 787.072/SP).
+Liminar indeferida (fls. 73/75).
+Prestadas as informações (fls. 79/101 e 105/164), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus; se conhecido, pela denegação da ordem (fls. 167/170).
+É o relatório.
+O presente habeas corpus ataca a prisão preventiva imposta pelo Juízo de primeiro grau, nos autos da Ação Penal n. 1501273-58.2022.8.26.0360, pela prática, em tese, dos crimes descritos nos arts. 147, caput, e 140, § 3º, ambos do Código Penal (2ª Vara da comarca de Mococa/SP - fls. 28/39).
+Pois bem. Com a realização do julgamento do recurso de apelação em 1º/11/2023 (n. 1501273-58.2022.8.26.0360), negando provimento ao apelo defensivo, po r unanimidade, verifica-se o exaurimento do objeto do writ em liça. Tal se justifica, pois eventuais insurgências, agora, não se voltarão mais contra os termos do decreto primitivo, mas do aresto que o substituiu, configurando novo título, sendo vedada, portanto, a manifestação desta Corte Superior sobre a matéria.
+Cumpre registrar, ainda, que o pedido deduzido na petição inicial circunscreve a pretensão e, portanto, o objeto da relação jurídico-processual. Daí, tendo havido alteração do cenário fático-processual, em 1º/11/2023, tem-se por esvaído o objeto do writ.
+Com efeito, nos termos do entendimento adotado por este Sodalício: com a superveniência do julgamento da apelação, fica prejudicado o writ anteriormente impetrado, uma vez que a medida, a partir de então, tem novo título judicial que alterou o cenário fático-processual (AgRg no RHC n. 40.342/SP, Ministro Nefi Cordeiro, Sexta Turma, julgado em 15/10/2015, DJe 5/11/2015).
+E ainda: AgRg no HC n. 291.055/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 16/9/2014; e AgRg no RHC n. 36.064/DF, Ministro Moura Ribeiro, Quinta Turma, DJe 23/9/2013.
+Tal a circunstância, julgo prejudicado o habeas corpus (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 147, CAPUT, E 140, § 3º, AMBOS DO CP. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPETRAÇÃO QUE SE VOLTA CONTRA WRIT ORIGINÁRIO (HC N. 2256785-95.2022.8.26.0000). SUPERVENIENTE CONDENAÇÃO EM PRIMEIRA INSTÂNCIA, COM SUBSEQUENTE JULGAMENTO DO RECURSO DE APELAÇÃO. PROVIMENTO NEGADO. SUBSTITUIÇÃO DO DECRETO PRIMITIVO PELO ACÓRDÃO. NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. OBSERVÂNCIA DOS LIMITES DA IMPETRAÇÃO. PERDA DO OBJETO.
+Writ prejudicado.
