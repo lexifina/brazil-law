@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ADEMAR BATISTA DE SOUSA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado definitivamente à pena de 17 anos e 6 meses de reclusão, em regime fechado, mais pagamento de 1.750 dias-multa, como incurso no art. 33, caput, c.c o 40, V, da Lei n. 11.343/2006.
+A defesa ingressou com pedido de revisão criminal na Corte de origem, a qual foi julgada improcedente.
+Neste habeas corpus, alega o impetrante ser desproporcional a fixação da pena-base no máximo legal, com amparo apenas na quantidade do entorpecente apreendido.
+Requer, assim, a redução da fração de aumento da sanção inicial para 1/6 ou 1/8.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao julgar improcedente a revisão criminal, consignou o seguinte acerca da dosimetria penal:
+"O pedido é improcedente.
+A presente ação tem por objetivo desconstituir a coisa julgada e reanalisar a questão, de modo que por ser a coisa julgada um dogma emanado da segurança jurídica, apenas pode ser rescindida em situações excepcionais, quando de fato a decisão apresenta contrariedade à prova dos autos, sob pena de se vulnerar por demais a segurança trazida pela coisa julgada.
+ ..
+Como o peticionário não se insurge quanto à materialidade e autoria do crime, que restaram evidentes, tendo o inconformismo restringindo-se tão somente à dosimetria da pena, descabe proceder aqui a análise mais aprofundada do acervo probatório, limitando-se o presente exame tão somente ao inconformismo.
+Sem prejuízo do acima destacado, compulsando os autos foi possível constatar que o peticionário já buscou este Tribunal de Justiça visando discutir parte da matéria ventilada na petição inicial, quando interpôs recurso de apelação.
+Naquela ocasião, de acordo com o v. acórdão 9 , o peticionário requereu a esta Corte, além do pedido de absolvição por fragilidade do conjunto probatório, a redução da pena e a isenção do pagamento da pena de multa e das custas processuais.
+Ao examinar o pedido envolvendo a dosimetria da pena, os ii. Desembargadores concluíram que 10 :
+"A reprimenda mostrou-se adequada e motivadamente dosada: pena-base fixada no máximo legal pela quantidade de droga (2,446 t) e acrescida de 1/6 pela circunstância do tráfico ser interestadual, alcançando a pena final de 17 anos e 06 meses de reclusão e pagamento de 1750 dias-multa, no piso.
+Registra-se que o apelante é reincidente específico - circunstância sem repercussão na dosimetria pela inviabilidade de fixação acima do máximo -, cuja condenação consta que ele foi surpreendido transportando quase 200 kg de maconha escondida em fundo falso de um veículo Kombi (fls. 145 e 180/187).
+Incensurável o regime fechado diante do montante da reprimenda.
+A multa não pode ser afastada, como alvitrado pela defesa, por integrar, cumulativamente, o preceito secundário do tipo penal".
+Forçoso reconhecer, portanto, que a presente Revisão Criminal busca reiterar parte de pedidos já formulados anteriormente.
+Sendo assim, não se justifica o reexame da prova, nem mesmo em homenagem à ampla defesa, pois do contrário esvaziaria o comando do artigo 622, parágrafo único, do Código de Processo Penal, segundo o qual "não será admissível a reiteração do pedido, salvo se fundado em novas provas".
+ ..
+Considerando-se que não foi apresentado na petição inicial novas provas a respeito dos pedidos nela formulados pelo peticionário, impõe-se o não provimento.
+Ademais, a quantidade mais de duas toneladas de drogas, reincidência específica onde apreendidos mais de duzentos quilos de droga (circunstância não utilizada na segunda fase, porém pode indicar na primeira a maior reprovabilidade) e tratando-se tráfico interestadual, incensurável a pena imposta.
+Ante o exposto, JULGO IMPROCEDENTE o pedido revisional" (e-STJ, fls. 8-14)
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Como cediço, "não existe critério matemático obrigatório para a fixação da pena-base. Pode o magistrado, consoante a sua discricionariedade motivada, aplicar a sanção básica necessária e suficiente à repressão e prevenção do delito, pois as infinitas variações do comportamento humano não se submetem, invariavelmente, a uma fração exata na primeira fase da dosimetria" (AgRg no HC 563.715/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 21/9/2020)
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, verifica-se que as instâncias antecedentes consideraram a gigantesca quantidade de entorpecente apreendida (2. 446 kg de maconha), para fixar a pena-base do delito de tráfico de entorpecentes em 15 anos de reclusão.
+Entretanto, levando-se em conta as penas máxima e mínima abstratamente cominada aos delitos de tráfico de drogas (de 5 a 15 anos de reclusão), a elevação da sanção básica no dobro do mínimo legal é suficiente e adequada à reprovação da conduta delitiva, em razão de ter sido apreendida mais de 2 toneladas do entorpecente, em atenção ao art. 42 da Lei n. 11.343/2006.
+Em decisões similares, este Superior Tribunal de Justiça já procedeu ao redimensionamento da pena-base reconhecendo a desproporcionalidade no aumento.
+Vejamos:
+" ..
+DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. ELEVADA QUANTIDADE DO ENTORPECENTE APREENDIDO. POSSIBILIDADE. AUMENTO DESPROPORCIONAL. REDIMENSIONAMENTO. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Na fixação da pena-base de crimes previstos na Lei 11.343/2006, como ocorre na espécie, deve-se considerar, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei de Drogas.
+2. Na espécie, a fixação da pena-base acima do mínimo legal, em razão da quantidade dos estupefacientes apreendidos, encontra-se devidamente justificada, contudo, em quantum desproporcional, impondo-se o redimensionamento.
+3. Agravo regimental a que se nega provimento. Ordem concedida de ofício tão-somente para redimensionar a pena-base imposta."
+(AgRg no AREsp 936.212/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 15/8/2017, DJe 30/8/2017);
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. AUMENTO DE 2/5. DESPROPORCIONALIDADE. REGIME PRISIONAL FECHADO. PENA SUPERIOR A 4 ANOS. PENA-BASE ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A viabilidade do exame da dosimetria da pena, por meio de habeas corpus, somente se faz possível caso evidenciado eventual desacerto na consideração de circunstância judicial, desproporcionalidade no quantum ou erro na aplicação do método trifásico, se daí resultar flagrante ilegalidade e prejuízo ao réu.
+3. A quantidade e a natureza das drogas apreendidas foram os fundamentos utilizados pelas instâncias ordinárias para aumentar a pena-base. Não obstante esse argumento se preste a exasperar a pena-base, o aumento não pode ser desarrazoado, há que se guardar proporcionalidade entre a quantidade e o quantum de aumento. No caso, pode-se dizer que a majoração da pena-base foi desproporcional.
+4. Em relação ao regime, não obstante o redimensionamento da pena, esta continuou no patamar superior a 4 anos, com a pena-base arbitrada acima do mínimo legal, não havendo que se falar em outro regime senão o fechado, nos termos do art. 33, § § 2º e 3º, do Código Penal".
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente.
+(HC 377.445/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/3/2017, DJe 27/3/2017);
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. GIGANTESCA QUANTIDADE DE DROGA. AUMENTO PROPORCIONAL. DESCAMINHO. AUMENTO DA PENA-BASE. QUANTIDADE DA MERCADORIA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA E MAJORAÇÃO PROPORCIONAL. REGIME PRISIONAL. PENA SUPERIOR A OITO ANOS DE RECLUSÃO. MODO FECHADO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as circunstâncias estabelecidas no art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. Hipótese em que a instância ordinária, atenta ao disposto no art. 42 da Lei de Drogas, fixou a pena-base no dobro do mínimo legal, para o delito de tráfico de drogas, considerando a gigantesca quantidade da droga apreendida - 310,225 kg maconha -, o que não se mostra desproporcional.
+ ..
+6. Habeas corpus não conhecido.
+(HC 381.198/SP, minha relatoria, QUINTA TURMA, julgado em 6/4/2017, DJe 17/4/2017).
+Passo à dosimetria da pena.
+Fixo a pena-base em 10 anos de reclusão e pagamento de 1.000 dias-multa, em razão da quantidade do entorpecente, nos termos dos arts. 59 do Código Penal e 42 da Lei n. 11.343/2006. Na segunda etapa, incide a agravante de reincidência, na fração de 1/6, resultando em 11 anos e 8 meses de reclusão. Na terceira fase, presente a majorante do art. 40, V, da Lei de Drogas, aumento a pena em 1/6, de modo que a torno definitiva em 13 anos, 7 meses e 10 dias de reclusão mais pagamento de 1.362 dias-multa.
+Ficam mantidos o regime inicial fechado e a negativa de substituição da pena privativa de liberdade por restritivas de direitos, em razão da pena ter sido estabelecida em patamar superior a 8 anos de reclusão, além de se tratar de réu reincidente, nos termos dos arts. 33, § 2º, e 44, I e II, do Código Penal.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para reduzir a sanção final do paciente para 13 anos, 7 meses e 10 dias de reclusão mais pagamento de 1.362 dias-multa, mantido o regime fechado.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
