@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por SIMONE DA MOTTA, contra decisão de minha lavra, que conheceu parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento.
+Inconformada, sustenta a parte embargante, que:
+"Ao afirmar que para análise da violação dos arts. 506 e 508 (coisa julgada) e do dissídio jurisprudencial seria necessário a análise do contexto fático e conjunto probatório, o que é vedado pela súmula 7 do STJ, a decisão monocrática cai em evidente contradição.
+Ressalta-se que todas as questões fáticas pertinentes à matéria constaram expressamente no Acórdão recorrido havendo o devido pré-questionamento em sede de Embargos de declaração.
+Portanto, por mais que tenha de ser analisado o contexto fático e probatório, este pode ser analisado através da simples e detida análise do Acórdão proferido pela 8ª Turma Especializada do Tribunal Regional Federal da 2ª Região.
+Desta forma, há clara contradição quando a decisão monocrática afirma que será necessária a análise fática/probatória para resolvimento da demanda.
+Ademais, como bem trazido pelo Vice-Presidente do TRF2 ao analisar a admissão do Recurso Especial, o Acórdão proferido pela 8ª Turma Especializada viola frontalmente a jurisprudência já consolidada pelo STJ: "não tendo havido alegação de ilegitimidade da parte no processo de conhecimento da ação coletiva, ocorreu a preclusão consumativa, não cabendo mais discussão sobre o tema, em respeito à intangibilidade da coisa julgada (STJ, REsp 1.681.734, Min. Sérgio Kukina, em 09 de agosto de 2017)."
+Além disso, quanto à alteração dos parâmetros do título judicial em fase de cumprimento de sentença, o Superior Tribunal de Justiça entende não ser possível limitar em sede de execução o alcance do título exequendo.
+(..)
+Ao não analisar o dissídio jurisprudencial trazido pela Recorrente em sede de Recurso Especial, certamente estará contrário a jurisprudência do STJ e auxiliará na promoção da insegurança jurídica, preceito trazido no art. 5º, XXXVI da Carta Magna" (fls. 294/298e).
+Por fim, requer que "sejam sanadas as contradições apontadas e seja reformado o Acórdão ora embargado a fim de que seja dado provimento ao Recurso Especial interposto" (fl. 298e).
+Intimada, a parte embargada deixou transcorrer in albis o prazo sem apresentar manifestação (fl. 307e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Observa-se, por oportuno, que se configura contradição quando, no contexto do acórdão, estão contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão, hipótese que não ocorreu, in casu.
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que "no que tange à alegada violação dos arts. 506 e 508 do CPC/2015, observa-se que os argumentos da parte agravante somente poderiam ser acolhidos mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7/STJ". E, ainda, que "consoante a jurisprudência deste Tribunal, descabe ao STJ analisar, em sede de Recurso Especial, a alegação de ofensa às disposições do CPC que disciplinam o instituto da coisa julgada, diante da indiscutível necessidade de reexame do contexto fático-probatório dos autos" (fl. 286e).
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
+EMENTA
