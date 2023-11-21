@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANDERSON DE JESUS PARRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo de Execução Penal n. 0013029-91.2023.8.26.0041.
+Consta dos autos que o juízo da execução, em 4/7/2023, indeferiu a progressão do ora paciente ao regime semiaberto, com fundamento no resultado desfavorável do exame criminológico. Interposto agravo de execução penal, o Tribunal de origem negou provimento ao recurso nos termos da seguinte ementa:
+"Execução Penal - Progressão de regime prisional - Ausência de requisito subjetivo - Existência de exame criminológico atestando a falta de aptidão do sentenciado - Indeferimento bem justificado - Recurso improvido". (fl. 51)
+A impetrante afirma que o paciente já cumpriu mais de 79% da pena no regime fechado, encontrando-se preso desde o dia 30/10/1994. Argumenta que há atestado de boa conduta carcerária, suficiente à demonstração do requisito subjetivo. Alega que "a conclusão da Comissão Técnica de Classificação configura um exercício de prognose ("futurologia") desprovido de qualquer fundamento ou suporte científico" (fl. 11).
+Requer, em liminar e no mérito, a progressão de regime.
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do paciente, capaz de justificar a concessão da ordem de ofício.
+Conforme relatado, a progressão de regime prisional foi indeferida pelo juízo da execução penal, com base no resultado desfavorável do exame criminológico, segundo o qual o paciente "não demonstra possuir maturidade suficiente para o cumprimento da pena no regime intermediário". Confira-se:
+" ..  No caso em tela, foi determinada a elaboração de exame criminológico, onde se concluiu ser prematura a concessão do benefício pretendido, pois o sentenciado não demonstra possuir maturidade suficiente para o cumprimento da pena no regime intermediário. Necessita permanecer mais tempo no regime mais rigoroso, com comportamento apto a indicar que não voltará a delinquir, e a demonstrar que tem aproveitado a terapêutica penal, podendo, com isso, gradativamente retornar ao convívio social.  .. " (fl. 49)
+A decisão foi mantida pelo Tribunal a quo:
+" ..  De fato, o agravante está condenado ao cumprimento de pena total de 35 anos, 1 mês e 25 dias de reclusão em decorrência da prática dos crimes de tráfico de drogas e associação para esse fim, roubo qualificado, associação criminosa armada, sequestro e cárcere privado e porte ilegal de arma de fogo, cujo término está previsto para o dia10/07/2030 (fls. 22/28).
+Segundo o Magistrado, o sentenciado não demonstrou méritos para a obtenção do benefício, uma vez que o parecer final do exame criminológico, realizado para fins de concessão do benefício, apresentou conclusão desfavorável (fls. 30/40 e 49).
+Ora, é inegável que, para o deferimento desse benefício, exige-se, além dos requisitos de ordem objetiva, a segurança do juízo a propósito dos méritos do condenado e da perspectiva de que se adequará à nova realidade.
+Tal conclusão nada tem de irregular e, ao contrário, vem de encontro ao escopo da execução, que é a recuperação do sentenciado, a quem cumpre demonstrar que está apto à convivência em sociedade.
+ ..
+Por aqui, o que se verifica é que o agravante foi submetido à avaliação por uma equipe multidisciplinar, que concluiu que ele não reunia méritos para sair do regime fechado, motivo pelo qual teve seu pedido de progressão indeferido.
+Portanto, considerando que o Magistrado se baseou no exame criminológico, que concluiu pela inaptidão do sentenciado para ser agraciado com a benesse pleiteada, não há como afastar o acerto da decisão agravada.
+Afinal, ao contrário do que alega a Defesa, o exame criminológico não se revelou favorável à concessão do benefício, pois, apesar de constar atestado de comportamento carcerário classificando sua conduta como "boa" (fls. 14), e os relatórios social e de psicologia (fls. 27/28) terem apresentado aspectos favoráveis à progressão de regime, o certo é que a conclusão final da equipe multidisciplinar foi no sentido de que o sentenciado ainda não está apto a progredir ao regime prisional mais brando.
+E, como se sabe, cabe ao Magistrado formar sua convicção pela livre apreciação da prova, de sorte que não está adstrito às conclusões ou demais aspectos favoráveis constantes no laudo pericial, conforme busca a Defesa.
+ ..
+Em suma, constatado pelo laudo criminológico realizado que o sentenciado não reunia méritos para concessão do benefício, o improvimento do agravo é medida que se impõe à correta solução do caso em questão. (fls. 52/55)
+O acórdão encontra-se em consonância com o entendimento desta Corte de que o resultado desfavorável de exame criminológico justifica a negativa de progressão de regime por falta de requisito subjetivo. (AgRg no HC n. 848.737/SP, relator Ministro Rogerio Schietti Cruz, Sexta Tur ma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDEFERIMENTO PROGRESSÃO AO REGIME SEMIABERTO. FUNDAMENTOS IDÔNEOS. ASPECTOS NEGATIVOS APONTADOS NO EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO NÃO PREENCHIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte está consolidada no sentido de que a gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. No caso, verifica-se, pois, que as instâncias ordinárias entenderam também pelo indeferimento do benefício em razão do não cumprimento do requisito subjetivo por parte do paciente, evidenciado pela conclusão do exame criminológico que foi desfavorável à concessão do benefício, acarretando dúvidas sobre o juízo crítico do apenado.
+3. Com efeito, "o julgador forma sua convicção pela livre apreciação da prova, de modo que, uma vez realizado o exame criminológico, não é possível suprimir dele a consideração de relatórios profissionais desfavoráveis ao deferimento de benefícios da execução penal" (AgRg no HC 426.201/SP, Rel. Ministro ROGÉRIO SCHIETTI, SEXTA TURMA, julgado em 5/6/2018, DJe 12/6/2018).
+4. Ademais, o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/6/2020, DJe 10/ 6/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 846.199/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+É consabido que "a noção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos" (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021, DJe 25/08/2021).
+Ante o exposto, indefiro liminarmente o habeas corpus, com fundamento no art. 210 do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
