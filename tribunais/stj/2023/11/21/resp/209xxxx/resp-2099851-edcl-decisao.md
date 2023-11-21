@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO apontando omissão na decisão monocrática em que dei provimento ao recurso especial (e-STJ fls. 479/483).
+Em suas razões, alega o embargante que "a r. decisão é omissa quanto ao afastamento da extinção da punibilidade pela não ocorrência da prescrição da pretensão punitiva em relação ao recorrido e aos corréus" (e-STJ fl. 490).
+Afirma, no ponto, que, apesar de a decisão monocrática ter dado provimento ao recurso especial para restabelecer a dosimetria da pena como operada pela sentença condenatória, que negativou a basilar do recorrido pelo deslocamento, para a primeira fase, da qualificadora sobressalente do crime de furto duplamente qualificado, o decisum não tratou de forma detalhada acerca do consequente afastamento da prescrição da pretensão punitiva declarada pelo acórdão cassado.
+Busca, assim, sejam acolhidos os embargos para sanar o vício apontado mediante análise da prescrição da pretensão punitiva com enfoque na pena-base restabelecida.
+É o relatório.
+Decido.
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente.
+Vejo que assiste razão parcial ao embargante.
+De fato, a decisão embargada foi omissa em detalhar a questão da prescrição da pretensão punitiva em relação à parte recorrida, ora embargada, em que pese ter expressamente consignado que é "cabível o acolhimento do pedido ministerial de se restabelecer o deslocamento de uma qualificadora para a majoração da pena-base, sendo de rigor restabelecer a dosimetria como operada pela sentença condenatória, de modo que a pena de 2 anos e 8 meses de reclusão deverá ser o novo parâmetro para o cálculo da prescrição" (e-STJ fl. 483).
+Desse modo, mantenho integralmente os termos da decisão embargada, apenas acrescentando o novo tópico após a parte da decisão que trata do deslocamento da qualificadora sobressalente, nos seguintes termos:
+DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA
+Tendo em vista que a pena-base foi majorada para 2 anos e 8 meses, ante o restabelecimento do deslocamento da qualificadora sobressalente do furto para a primeira etapa da dosimetria, a declaração da prescrição da pretensão punitiva feita pelo acórdão de origem em favor do réu recorrido há de ser afastada também.
+Isso, porque, com o restabelecimento da dosimetria como operada pela sentença, a pena final de Aparecido Adriano Coelho Tostes volta a ser de 2 anos e 8 meses de reclusão.
+Em razão disso, nos termos dos arts. 109, inciso IV, e 110, ambos do Código Penal, a pena prescreve em 8 anos, lapso de tempo não transcorrido entre o recebimento da denúncia, que, nos termos do acórdão recorrido, deu-se em 26/11/2012 (e-STJ fl. 404), e a publicação da sentença condenatória, que ocorreu, ainda segundo o acórdão, em 5/10/2018.
+Assim, reconheço o vício de omissão apontado e, em razão disso, esclareço que afasto a prescrição da pretensão punitiva, declarada pelo Tribunal a quo (e-STJ fl. 404), no que se refere ao recorrido/embargado. Todavia, determino tal afastamento apenas em relação a Aparecido Adriano Coelho Tostes, uma vez que é o único que consta no polo passivo do apelo nobre interposto pelo órgão ministerial ora embargante, não sendo possível estender as determinações da decisão embargada e da presente decisão em desfavor de réus que nem sequer constaram como recorridos.
+Ante o exposto, acolho parcialmente os embargos de declaração, mantendo hígidos os fundamentos pelos quais dei provimento ao recurso especial na decisão de e-STJ fls. 479/483, apenas incluindo o tópico acima, referente ao afastamento da prescrição da pretensão punitiva em relação exclusivamente ao recorrido/embargado.
+Publique-se. Intimem-se.
+EMENTA
