@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WILLIAM DAVID RODRIGUES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no Agravo em Execução n. 0003575-05.2023.8.26.0521, assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL. FALTA GRAVE. PRELIMINARES. (1) NULIDADE DO PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR PELA AUSÊNCIA DO SINDICADO E DA DEFESA TÉCNICA DURANTE A OITIVA DAS TESTEMUNHAS. RECONHECIMENTO. IMPOSSIBILIDADE. (2) NULIDADE DA DECISÃO HOMOLOGATÓRIA POR AUSÊNCIA DE MANIFESTAÇÃO DA DEFESA TÉCNICA. CERCEAMENTO DE DEFESA. RECONHECIMENTO. IMPOSSIBILIDADE. (3) MATERIALIDADE E AUTORIA SUFICIENTEMENTE PROVADAS E TIPICIDADE INFRACIONAL CARACTERIZADA. INTERRUPÇÃO DO PRAZO PARA PROGRESSÃO DE REGIME. POSSIBILIDADE. PERDA DE DIAS REMIDOS. QUANTUM DE PERDA DE DIAS REMIDOS. FIXAÇÃO PELO JUÍZO DA EXECUÇÃO PENAL DE FORMA FUNDAMENTADA, À VISTA DA GRAVIDADE DO FATO, RESPEITADO O LIMITE LEGAL DE 1/3 DO TOTAL. SANÇÃO APLICADA DE FORMA COMPATÍVEL COM O CASO CONCRETO. RECURSO DEFENSIVO DESPROVIDO.
+ ..
+8. Preliminares afastadas e, no mérito, Agravo de Execução Penal desprovido" (fls. 12/14).
+Consta dos autos que o Juízo da Execução reconheceu a prática de falta grave pelo paciente. O Tribunal a quo manteve a decisão de primeiro grau.
+Os impetrantes sustentam que, embora a infração disciplinar tenha sido imputada a quatro apenados, restou afastada em relação a um deles. Assim, deve ocorrer a "extensão da decisão que absolveu o correu nos termos do art. 580 do CPP, para absolver o Willian David Rodrigues da falta grave, afastando assim as sanções impostas " (fl. 7).
+Indeferido o pedido de liminar (fls. 59/61) e prestadas as informações (fls. 67/152 e 155/190), o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 192/197).
+É o relatório.
+Decido.
+Consoante a jurisprudência desta corte, a análise de pedido de extensão compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende. No caso, não consta dos autos pedido da defesa ao Juízo da Execução ou ao Tribunal a quo para que fosse estendida a decisão que afastara a falta grave em relação a outro apenado. Assim, a apreciação do tema, diretamente por esta Corte, acarreta indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. APLICAÇÃO DA PENA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO DO PACIENTE À ATIVIDADE CRIMINOSA RECONHECIDA PELA INSTÂNCIA DE ORIGEM. ELEMENTOS CONCRETOS. REVISÃO DO ENTENDIMENTO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DO CONTEXTO FÁTICO-PROBATÓRIO. APLICAÇÃO DO ART. 580 DO CPP. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. No caso, a instância ordinária faz menção às circunstâncias da aquisição dos quarenta tabletes de haxixe (quase 2 kg), em outra Unidade da Federação para, desse modo, concluir que o Agravante se dedicava às atividades criminosas. Logo, tendo sido declinados elementos idôneos e concretos indicadores de envolvimento habitual com o esquema criminoso, não há ilegalidade no afastamento da minorante.
+2. Conforme cediço, a elevada quantidade de drogas apreendidas, aliada às circunstâncias fáticas do delito, permite aferir o grau de envolvimento do Réu com a criminalidade organizada e/ou a sua dedicação às atividades delituosas e, por consequência, obstar o reconhecimento do tráfico privilegiado.
+3. Constatada pelas instâncias ordinárias a ausência dos requisitos para a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, a modificação desse entendimento exigiria, na hipótese, aprofundado reexame probatório, o que não é possível na via do habeas corpus.
+4. O Tribunal local analisou a apelação criminal sem fazer qualquer menção à possível aplicação do art. 580 do Código de Processo Penal, em relação ao ora Agravante, de modo que tal questão não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância. Ademais, a análise de pedido de extensão compete ao órgão que proferiu a decisão que concedeu o benefício cuja ampliação se pretende.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 802.725/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PEDIDO DE EXTENSÃO DA ORDEM CONCEDIDA AO CORRÉU. ART. 580 DO CPP. SIMILITUDE DAS CIRCUNSTÂNCIAS DOS CONDENADOS NÃO COMPROVADA. INSTRUÇÃO DEFICIENTE. DECISÃO DE 1º GRAU NÃO IMPUGNADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. MAUS ANTECEDENTES JÁ AFASTADOS EM WRIT IMPETRADO EM FAVOR DO REQUERENTE. PLEITO INDEFERIDO.
+1. O pedido de extensão não foi instruído com cópia da sentença condenatória do réu, peça imprescindível para análise da presença dos requisitos do art. 580 do CPP.
+2. Formulado pedido de extensão ao Juízo das Execuções, a defesa olvidou-se de impugnar a decisão indeferitória na Corte de origem, sendo certo, portanto, que o exame dos seus fundamentos configuraria indevida supressão de instância.
+3. No caso, percebe-se que a ordem concedida nos autos ao corréu, ainda no ano de 2018, foi baseada na carência de motivação concreta para o aumento da pena-base pelos maus antecedentes, o que já havia ensejado a concessão de ordem, de ofício, por esta Quinta Turma, em 2005, implicando redução da reprimenda a 32 anos de reclusão. Ora, o inconformismo da defesa com a diferença das penas dos corréus, baseada em elementos concretos analisados pelas instâncias originárias, não permite o deferimento do pleito de extensão.
+4. Pedido de extensão indeferido.
+(PExt no HC n. 422.383/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/12/2021, DJe de 10/12/2021).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
