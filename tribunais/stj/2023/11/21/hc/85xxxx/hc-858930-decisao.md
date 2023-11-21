@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de STHEFFANY LORRANY DE OLIVEIRA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL no julgamento do HC n. 1409303-43.2023.8.12.0000.
+Extrai-se dos autos que a paciente foi presa em flagrante por ter supostamente praticado o delito tipificado no art. 33 da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"EMENTA - HABEAS CORPUS - TRÁFICO DE DROGAS - PRETENDIDA REVOGAÇÃODA PRISÃO PREVENTIVA- DECISÃO DEVIDAMENTE FUNDAMENTADA EM ELEMENTOS CONCRETOS- CONSIDERÁVEL QUANTIDADE DE DROGA APREENDIDA (5 KG DE MACONHA) - GRAVIDADE CONCRETA DO DELITO - NECESSIDADE DAPRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA - - IMPOSSIBILIDADE IGUALMENTE DE SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - PACIENTE MULHER COM FILHOS MENORES DE DOZE ANOS - CONVERSÃO DA SEGREGAÇÃO CAUTELAR EM PRISÃODOMICILIAR- IMPOSSIBILIDADE- PERDA DO PODER FAMILIAR DECRETADA JUDICIALMENTE ANTERIORMENTE À PRÁTICA DO CRIME - SITUAÇÃO EXCEPCIONALÍSSIMA A IMPEDIR A CONVERSÃO - INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+I - A prisão preventiva está amparada pela hipótese autorizativa do inciso I, do artigo 313, do Código de Processo Penal, que admite a decretação da prisão preventiva para os crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos.
+II - Outrossim, o decreto prisional está calcado em decisão devidamente fundamentada, na qual restaram demonstrados indícios suficientes de autoria (fummus comissi delicti) quanto à suposta prática do crime de tráfico de drogas(artigo 33,caput, da Lei Federal nº 11.343/2006) - fummus comissi delicti.
+III - Acerca do periculum libertatis, o decreto prisional está embasado na gravidade concreta da conduta imputada ao paciente, que foi flagrada transportando considerável quantidade de droga (5kg de maconha).
+IV - São fundamentos idôneos para a decretação da segregação cautelar, no caso de tráfico ilícito de entorpecentes, a quantidade, a variedade ou a natureza deletéria das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente. Precedentes do STJ.
+V - Em relação à alegação de desproporcionalidade da prisão em cotejo à futura pena a ser aplicada, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação e consequente violação do princípio da homogeneidade.
+VI - Nos termos do inciso V, do artigo 318, a prisão domiciliar pode ser concedida quando a acusada ou indiciada mulher tiver filho de até 12 (doze) anos de idade incompletos, máxime quando não estiverem presentes nenhumas das situações excepcionalíssimas que, em tese, poderiam impedir a substituição da prisão preventiva por prisão domiciliar (v. g., tráfico na residência, liderança de organização criminosa" (fls. 205/206).
+No presente writ, a impetrante alega ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, afirmando que a quantidade de entorpecente apreendido não seria motivação hábil a justificar a segregação.
+Destaca as condições pessoais favoráveis da paciente, como primariedade.
+Ressalta a suficiência da aplicação de medidas alternativas ao cárcere.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a fixação de medidas menos gravosas.
+Indeferida a liminar (fls. 228/230), as informações foram prestadas (fls. 237/254), e o Ministério Público Federal opinou pela prejudicialidade do writ e (fls. 262/264).
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso porque, das informações prestadas pela Corte a quo e do andamento processual obtido na página eletrônica do Tribunal de origem, verificou-se que nos autos da ação penal n. 0000482-87.2023.8.12.0015, sobreveio a condenação da paciente pela prática do crime descrito no art. 33, caput, da Lei 11.343/06, à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e pagamento de 420 dias-multa, com trânsito em julgado certificado em 8/8/2023.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus, considerando que a segregação da paciente passa a decorrer do cumprimento de pena definitiva, restando superadas as alegações relativas à prisão preventiva.
+Pelo exposto, julgo prejudicado o habeas corpus, ante a perda superveniente do objeto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem -se.
+ EMENTA
