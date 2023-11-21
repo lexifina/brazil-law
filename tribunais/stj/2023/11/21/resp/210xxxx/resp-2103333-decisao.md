@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (fls. 514/515):
+APELAÇÃO. ROUBO MAJORADO. ART. 157, §2º, II DO CP. ALEGADA NULIDADE PROCESSUAL POR ILICITUDE DAS PROVAS, PORQUANTO O RECONHECIMENTO EXTRAJUDICIAL E O INQUÉRITO POLICIAL DERIVARAM DA CONDUÇÃO COERCITIVA DO APELANTE À DELEGACIA DE POLÍCIA FORA DO ESTADO DE FLAGRÂNCIA E SEM PRÉVIA ORDEM JUDICIAL OU DETERMINAÇÃO DA AUTORIDADE POLICIAL COMPETENTE. INOCORRÊNCIA. ABSOLVIÇÃO POR FALTA DE PROVAS. INADMISSIBILIDADE. MATERIALIDADE E AUTORIA DEMONSTRADAS. REDIMENSIONAMENTO PARA O MÍNIMO LEGAL. PARCIALMENTE PROVIDO. SENTENÇA REFORMADA EM PARTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Depreende-se dos autos que recorrente foi condenado às penas de 8 anos e 8 meses de reclusão, no regime inicial fechado, mais 160 dias-multa, pela prática do crime do art. 157, § 2º, I e II, do Código Penal.
+Irresignada, a Defesa apelou da sentença, sendo o recurso parcialmente provido para redimensionar a pena para 6 anos e 8 meses de reclusão, mais 107 dias-multa, mantidos os demais termos da sentença.
+Preliminarmente, almeja o recorrente a declaração de extinção da pena pela prescrição da pretensão punitiva, pois entre o recebimento da denúncia e a prolação da sentença condenatória teria decorrido o prazo prescricional.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, aponta violação dos arts. 157, 226 e 386, VII, todos do Código de Processo Penal, uma vez que o reconhecimento pessoal não foi realizado de acordo com o rito previsto no art. 226 do CPP, suscitando, ainda, a nulidade do julgamento da apelação na modalidade virtual, por ter o Tribunal de origem ignorado o pedido de realização de sustentação oral.
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pela prejudicialidade do recurso especial em decorrência da prescrição.
+No caso, verifica-se que a pena privativa de liberdade aplicada ao réu foi definitivamente estabelecida em 6 anos e 8 meses de reclusão, contra a qual não se insurgiu o órgão acusatório, de acordo com as informações prestadas pela origem.
+Desta forma, este deve ser o parâmetro para o cálculo da prescrição da pretensão punitiva, nos termos do art. 110, § 1º, do Código Penal, a qual se verifica pelo transcurso do lapso de 12 anos entre os marcos interruptivos, conforme previsão do art. 109, inciso III, do Estatuto Repressor.
+Compulsando os autos, constata-se que a denúncia ofertada em desfavor do recorrente foi recebida em 4/8/2004 (fl. 5), sendo certo que o próximo marco interruptivo válido ocorreu somente em 7/8/2019 (fl. 433), com a publicação da sentença condenatória.
+Verifica-se, portanto, a fluência de lapso temporal superior ao previsto em lei para o exercício da pretensão punitiva estatal, razão pela qual se revela imperiosa a declaração de extinção da punibilidade do recorrente, nos termos do art. 107, inciso IV, do Código Penal, conforme determina o art. 61, caput, do Código de Processo Penal.
+Ante o exposto, dou provimento ao recurso especial para declarar extinta a punibilidade de EMERSON JOSE FURTADO FERREIRA nos autos da Ação Penal n. 0000866-05.2006.814.0008, da Comarca de Barcarena/PA, em razão da prescrição da pretensão punitiva estatal, nos termos do art. 107, inciso IV, combinado com os arts. 110, § 1º, e 109, inciso III, todos do Código Penal.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
