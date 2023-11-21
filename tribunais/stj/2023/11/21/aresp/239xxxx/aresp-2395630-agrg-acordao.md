@@ -1,0 +1,119 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO. MANIFESTA ILEGALIDADE VERIFICADA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E QUALIDADE DA DROGA APLICADAS NA PRIMEIRA E TERCEIRA FASES. BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Conforme jurisprudência pacífica desta Corte, " ..  não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior" (AgRg no AREsp 491.244/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/3/2021, DJe 30/3/2021).
+2. Todavia, impõe-se a concessão de habeas corpus de ofício para aplicar a fração máxima de redução de 2/3 (dois terços) pela minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+3. A Terceira Seção, em decisão proferida nos autos do HC n. 725.534/SP, de minha relatoria, julgado em 27/4/2022, DJe 1º/6/2022, reafirmou seu posicionamento anterior, conforme estabelecido no ARE 666.334/AM, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena.
+4. A mera afirmação de que a agravante praticou o crime em local conhecido por ser "boca de fumo", sem destaque a circunstâncias indicativas de condutas repetidas na atuação da mercancia, é insuficiente para demonstrar que ele se dedicava às atividades criminosas ou integrava organização criminosa, bem como para justificar a escolha da fração da redutora do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Agravo regimental não provido. Concessão de habeas corpus, de ofício, a fim de aplicar a fração máxima de 2/3 (dois terços) pela causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando a pena imposta ao agravante.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, contudo conceder habeas corpus, de ofício, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Joel Ilan Paciornik, Messod Azulay Neto, João Batista Moreira (Desembargador convocado do TRF1) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por JANAINA SABINO DE ALMEIDA (e-STJ, fls. 295-300) contra decisão proferida pela Ministra Presidente MARIA THEREZA DE ASSIS MOURA, que não conheceu do agravo em recurso especial, pela incidência do óbice da Súmula 83/STJ e ausência de similitude fática (e-STJ, fls. 290-291).
+A defesa do agravante alega que a referida decisão é nula, pois a análise do mérito deve ser feita pelo Órgão Colegiado.
+Ressalta que impugnou de forma específica e detalhada as Súmulas 7 e 83 do STJ.
+Em razões de recurso especial (e-STJ, fls. 213-227), sustenta a Defesa a afronta ao art. 33, §4º, da Lei n. 11.343/06.
+Pretende a aplicação da minorante do tráfico privilegiado no patamar máximo de 2/3.
+Esclarece que esta redutora foi empregada na fração de 1/3, pela natureza da droga e por ser o local do crime considerado "boca de fumo".
+Pondera que não há provas de que o imóvel da agravante era utilizado, com frequência, para o tráfico.
+Ainda, afirma que a quantidade da droga não constitui fundamento idôneo para a escolha desta fração.
+O Ministério Público Federal opina pelo desprovimento do agravo regimental (e-STJ, fls. 315).
+É o relatório.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.395.630 - MS (2023/0218179-5)
+RELATOR
+:
+MINISTRO RIBEIRO DANTAS
+AGRAVANTE
+:
+JANAINA SABINO DE ALMEIDA
+AGRAVADO
+:
+MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL
+ADVOGADOS
+:
+WALMIR DEBORTOLI - MS004941A
+LUIZ RICARDO DE OLIVEIRA DEBORTOLI - MS014038
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO. MANIFESTA ILEGALIDADE VERIFICADA. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E QUALIDADE DA DROGA APLICADAS NA PRIMEIRA E TERCEIRA FASES. BIS IN IDEM. AGRAVO REGIMENTAL NÃO PROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Conforme jurisprudência pacífica desta Corte, " ..  não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior" (AgRg no AREsp 491.244/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/3/2021, DJe 30/3/2021).
+2. Todavia, impõe-se a concessão de habeas corpus de ofício para aplicar a fração máxima de redução de 2/3 (dois terços) pela minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+3. A Terceira Seção, em decisão proferida nos autos do HC n. 725.534/SP, de minha relatoria, julgado em 27/4/2022, DJe 1º/6/2022, reafirmou seu posicionamento anterior, conforme estabelecido no ARE 666.334/AM, sobre a possibilidade de valoração da quantidade e da natureza da droga apreendida, tanto para a fixação da pena-base quanto para a modulação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, neste último caso ainda que sejam os únicos elementos aferidos, desde que não tenham sido considerados na primeira fase do cálculo da pena.
+4. A mera afirmação de que a agravante praticou o crime em local conhecido por ser "boca de fumo", sem destaque a circunstâncias indicativas de condutas repetidas na atuação da mercancia, é insuficiente para demonstrar que ele se dedicava às atividades criminosas ou integrava organização criminosa, bem como para justificar a escolha da fração da redutora do art. 33, § 4º, da Lei n. 11.343/2006.
+5. Agravo regimental não provido. Concessão de habeas corpus, de ofício, a fim de aplicar a fração máxima de 2/3 (dois terços) pela causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, redimensionando a pena imposta ao agravante.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Inicialmente, registre-se que a decisão que não conheceu do agravo em recurso especial não foi preferida pelo Ministro Relator, como afirmou a Defesa, mas pela Ministra Presidente MARIA THEREZA DE ASSIS MOURA, cuja atribuição se encontra prevista no art. 21-E do Regimento Interno desta Corte.
+Com efeito, não há de se falar em nulidade desta decisão, pela violação ao princípio da colegialidade.
+Ademais, cumpre ressaltar que, nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+A corroborar esse entendimento:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL DA DECISÃO QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL MANEJADO PELO ÓRGÃO MINISTERIAL. FURTO. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ACOLHIDA VIOLAÇÃO DO ART. 619 DO CPP. CONTRADIÇÃO CONFIGURADA. VÍCIO NÃO SANADO NA ORIGEM. NECESSÁRIO RETORNO DOS AUTOS. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O Novo Código de Processo Civil e o Regimento Interno desta Corte (art.
+932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que houver entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a respeito da matéria debatida no recurso, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade.
+III - O entendimento desta eg. Corte Superior de Justiça é no sentido de que, "ao persistir na omissão e contradição, a despeito da oposição de embargos de declaração, o Tribunal de origem prestou tutela jurisdicional deficitária, razão pela qual restou violado o disposto no art. 619 do CPP, sendo necessário o retorno dos autos ao Tribunal de origem, a fim de que se manifeste sobre as matérias aventadas em sede de embargos de declaração" (AgRg no REsp n. 1.669.311/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 22/5/2018).
+Agravo regimental desprovido."
+(AgRg no AREsp n. 2.084.883/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART. 155 DO CPP. PROVAS NÃO REPETÍVEIS. CONTRADITÓRIO DIFERIDO. POSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Esta Corte Superior firmou entendimento segundo o qual é admitido que a documentação proveniente de procedimento fiscal seja utilizada para embasar a condenação, porquanto durante a instrução penal ocorre o contraditório diferido, como ocorreu na espécie.
+3. O recurso especial não é admissível no tocante à alegada divergência pretoriana referente ao dolo no crime de sonegação tributária. Com efeito, no que concerne ao dissídio jurisprudencial, não se revela cognoscível a interposição do recurso com base na alínea "c" do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição dos acórdãos tidos por paradigmas.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 2.092.641/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/6/2022, DJe de 29/6/2022.)
+Essa questão foi, inclusive, objeto da Súmula 568/STJ, publicada no DJe de 17/3/2016, com o seguinte teor: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Outrossim, registre-se que o agravante não impugnou adequadamente os óbices da Súmula 83/STJ e da ausência de similitude fática.
+Como se vê, limitou-se a informar, de forma genérica, que o recurso especial e o agravo não são carentes de fundamentação.
+Com efeito, alegação genérica não supre, evidentemente, a exigência de impugnação da decisão denegatória, na medida em que é imprescindível demonstrar, de forma clara e objetiva, com o devido desenvolvimento argumentativo, o desacerto da decisão agravada, em relação a cada um de seus fundamentos.
+Nesse contexto, aplica-se o impeditivo da Súmula 182/STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. INCIDÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo regimental que não infirma os fundamentos da decisão atacada. Incidência da Súmula n. 182 do STJ.
+2. A se considerar que o réu foi condenado a 3 meses e 15 dias de detenção e que decorreram períodos inferiores a 3 anos entre os marcos interruptivos da prescrição, não há que se falar em ocorrência da causa extintiva da punibilidade sustentada pela defesa.
+3. Agravo regimental não conhecido."
+(AgRg no AREsp n. 1.900.135/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe de 3/3/2022)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE.
+Não pode ser conhecido o agravo regimental que não infirma os fundamentos da decisão monocrática agravada. Agravo regimental não conhecido."
+(AgRg nos EDcl no AREsp n. 1.996.126/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 8/3/2022, DJe
+de 17/3/2022.)
+Deve-se observar que o art. 932 do Código de Processo Civil de 2015 reafirmou a orientação do STJ ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Registre-se que "(..), a impugnação a que se refere o enunciado da Súmula 182 é a que enfrenta, especificamente, o conteúdo do fundamento, e não a que o faz de maneira genérica" (EDcl no AgRg no AREsp 778.294/BA, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, j.22/11/2016, DJe 5/12/2016).
+Consigne-se que, no julgamento do EAREsp 746.775/PR (DJe de 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016, grifou-se), o que não ocorreu no caso destes autos.
+Entretanto, nota-se que se trata de hipótese de concessão de habeas corpus de ofício.
+Conforme se observa, a instância anterior fixou a fração de 1/3 pela minorante do tráfico privilegiado, nestes termos (e-STJ, fls. 195-206):
+"Sustenta a apelante fazer jus ao patamar máximo de redução para o tráfico privilegiado, previsto no art. 33, § 4.º, da Lei n.º 11.343/06, que corresponde a 2/3 (dois terços). Sobre o tema, eis o que consta da sentença (f. 132):
+"(..) Logo, para obtenção de tal favor legis o agente deverá preencher, de forma cumulativa, os seguintes requisitos: ser primário, de bons antecedentes, não se dedicar a atividades criminosas e não integrar organização criminosa. Na presença de tais requisitos legais, a redução da pena constitui direito subjetivo do réu, remanescendo discricionariedade do juiz unicamente em relação ao quantum da diminuição, que deve ser motivada. Em tal contexto, levando-se em conta a natureza e quantidade de droga apreendida, bem como de haver indícios de que a casa da acusada funcionava uma "boca de fumo", já que seu esposo teria sido preso há alguns dias no local, também com drogas, reduzo as penas em 1/3 (um terço)".
+Como visto, neste ponto, a redução em 1/3 (um terço) resultou justificada pela natureza da substância (cocaína), e pelo fato de a casa da apelante ser uma "boca de fumo". Primeiro é salutar destacar que, conforme entendimento pacificado nesta Corte, o fato de a droga ser comercializada em "boca de fumo" impede a concessão do benefício por caracterizar a dedicação a atividade criminosa, registro aqui feito apenas como referência, já que o Ministério Público não se insurgiu. O patamar de redução da minorante do tráfico privilegiado, previsto pelo § 4.º do artigo 33 da Lei n.º 11.343/06, varia entre 1/6 e 2/3, cabendo ao julgador eleger o quantum a reduzir, de acordo com a análise das circunstâncias judiciais do artigo 59 do Código Penal e, especialmente, das preponderantes previstas pelo artigo 42 da Lei n.º 11.343/06. A natureza e a quantidade da droga apreendida são circunstâncias distintas, que podem ser analisadas em momentos diferentes da dosimetria da sanção sem que isso signifique dupla valoração. O STJ já decidiu que é possível, e não caracteriza o vedado bis in idem, considerar a natureza da droga na primeira fase, e a quantidade do produto na terceira fase da dosimetria da pena, ou vice-versa, como ocorreu neste caso.
+ ..
+No caso destes autos, em que somente a quantidade foi considerada na primeira fase, a natureza especialmente lesiva (cocaína), é fato que não pode ser desconsiderado, daí a razão de a sentença tê-lo sopesado na terceira etapa da dosimetria para, conjugado ao fato de se tratar de uma "boca de fumo", estabelecer um quantum de redução intermediário (1/3), adequado ao caso sob análise e que, por tais circunstâncias, não permite a eleição da diminuição no patamar extremo."
+Extrai-se do acórdão que a Corte de origem aplicou a fração de 1/3 pela natureza e quantidade da droga, bem como por ser o local do crime considerado "boca de fumo".
+Com a devida vênia, extrai-se da sentença que os vetores do art. 42 da Lei n. 11.343/06 já foram empregados na primeira fase para exasperar a pena-base, de modo que a utilização para modular a causa de diminuição em comento configura indevido bin in idem.
+Neste sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. EXAME APROFUNDADO DE PROVAS. INEXISTÊNCIA DE BIS IN IDEM. HIPÓTESE DIVERSA DAQUELA TRATADA NO ARE N. 666.334/RG (REPERCUSSÃO GERAL), DO SUPREMO TRIBUNAL FEDERAL  STF. NULIDADE DO INTERROGATÓRIO. DEVER DE CIENTIFICAR O ACUSADO. DIREITO DE PERMANECER EM SILÊNCIO. AUSÊNCIA DE PREJUÍZO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo negou a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em face da quantidade da droga apreendida, evidencia a participação do réu em organização criminosa. Esse entendimento está em conformidade com a jurisprudência pacífica desta Corte e a sua reforma constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente exame de fatos e provas, inviável no rito eleito.
+2. Ainda que assim não fosse, a utilização concomitante da quantidade de droga apreendida para elevar a pena-base (1ª fase) e para afastar a incidência da minorante prevista no § 4º do art. 33 da Lei de Drogas (3ª fase)  por demonstrar que o acusado se dedica a atividades criminosas ou integra organização criminosa  não configura bis in idem.
+3. Trata-se de hipótese diversa daquela tratada no ARE n. 666.334 (Repercussão Geral), no qual o Pretório Excelso passou a considerar bis in idem a utilização da quantidade de droga "tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para modular a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006" (ARE 666.334/RG, Rel.: Ministro GILMAR MENDES, DJ de 6/5/2014).
+Precedentes.
+4. No que tange à alegada nulidade do interrogatório, não se verifica qualquer ilegalidade, pois o magistrado cumpriu seu dever de cientificar o acusado do seu direito de permanecer em calado, bem como informou-o sobre a possibilidade da incidência da atenuante de confissão espontânea. Ademais, como anotado nas decisões a quo, a defesa não se manifestou no momento oportuno, não havendo prejuízo ao ora paciente 5. Agravo regimental desprovido."
+(AgRg no HC n. 568.709/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/2/2021, DJe de 8/2/2021.)
+Além do mais, a mera afirmação de que a agravante praticou o crime em local conhecido por ser "boca de fumo", sem destaque a circunstâncias indicativas de condutas repetidas na atuação da mercancia, é insuficiente para demonstrar que ele se dedicava às atividades criminosas ou integrava organização criminosa, bem como para justificar a escolha da fração da redutora do art. 33, § 4º, da Lei n. 11.343/2006.
+Com efeito, esta deve ser aplicada no patamar máximo.
+Passo, portanto, à nova dosimetria da pena.
+Na primeira fase, a pena-base foi fixada em 5 anos e 6 meses de reclusão, mais 540 dias-multa, pela valoração da quantidade e qualidade das drogas (48 porções de cocaína, com 55,02g). Nada a reparar.
+Na segunda fase, não foram reconhecidas agravantes ou atenuantes.
+Na última etapa, aplica-se a causa de diminuição do artigo 33, §4º, da Lei n. 11.343/06 no patamar máximo de 2/3, fixando a pena em 1 ano e 10 meses de reclusão, mais 180 dias-multa.
+Seguindo, estabelecida a pena em patamar inferior a 4 anos e havendo circunstância judicial desfavorável, o modo intermediário é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, §§ 2º e 3º, "b", c/c art. 59 do CP.
+Corroboram:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO TENTADA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. QUANTUM DE DIMINUIÇÃO PELA TENTATIVA. ITER CRIMINIS PERCORRIDO PELO AGENTE. REGIME SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA INFERIOR A 4 ANOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O incremento da sanção básica foi devidamente justificado pela valoração negativa da culpabilidade e das circunstâncias do delito.
+2. Deve ser mantida a fração de redução da pena aplicada pelo reconhecimento da tentativa, uma vez que baseada no iter criminis percorrido pelo agente, critério adotado pela jurisprudência desta Corte Superior.
+3. É correta a imposição de regime inicial semiaberto a réu com circunstância judicial negativa ainda que o total da pena seja inferior a 4 anos.
+4. Agravo regimental não provido."
+(AgRg no HC n. 728.621/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe de 21/12/2022.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODO SEMIABERTO. RECURSO NÃO PROVIDO.
+1. Estabelecida a pena em patamar inferior a 4 anos e sendo desfavoráveis a análise das circunstâncias judiciais (quantidade de droga - 56,73g de cocaína), o modo intermediário é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, §§ 2º e 3º, "b", c/c art. 59 do CP.
+2. Agravo regimental desprovido."
+(AgRg no HC n. 769.076/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/11/2022, DJe de 2/12/2022.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.1. A decisão agravada é clara ao reconhecer que, diante da análise desfavorável, na primeira fase da dosimetria da pena, da quantidade, da natureza e da diversidade de entorpecentes apreendidos - cerca de 10 g de crack, 26 g de cocaína e 62 g de maconha -, é cabível a imposição de regime mais gravoso. Todavia, como a reprimenda fixada ao réu é inferior a 4 anos de reclusão, o modo adequado é o semiaberto.2. Agravo regimental não provido." (AgRg no HC 438.993/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2018, DJe 15/6/2018.)
+Por fim, a substituição da pena privativa de liberdade por restritivas de direito mostra-se insuficiente, em razão da falta do atendimento do pressuposto subjetivo (art. 44, III, do CP), especificamente a quantidade e qualidade da droga (HC 390.554/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017).
+Ante o exposto, nego provimento ao agravo regimental. Todavia, concedo habeas corpus, de ofício, a fim de aplicar a fração máxima de 2/3 (dois terços) pela causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, reduzindo a pena para 1 ano e 10 meses de reclusão, em regime inicial semiaberto, mais 180 dias-multa.
+É o voto.
