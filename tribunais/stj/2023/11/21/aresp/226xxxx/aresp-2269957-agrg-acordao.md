@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPLORAÇÃO DE MINÉRIO SEM LICENÇA AMBIENTAL E AUTORIZAÇÃO. OMISSÃO DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ABSOLVIÇÃO POR INSUFICIÊNCIA DA PROVA DA MATERIALIDADE DELITIVA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A irresignação explicitada nos embargos de declaração, opostos na instância antecedente, caracterizou-se por mera estratégia para superação do requisito do prequestionamento sem, no entanto, haver sido demonstrada nenhuma omissão, contradição ou obscuridade no julgado, o que caracteriza a deficiência da pretensão e enseja a aplicação do disposto na Súmula n. 284 do STF.
+2. A pretensão absolutória baseada na insuficiência da prova da materialidade delitiva implica a necessidade de reexame fático-probatório, procedimento vedado, em recurso especial, em virtude da disposição da Súmula n. 7 do STJ.
+3. A questão relativa ao indulto natalino deverá ser formulada perante o juízo da execução, uma vez que não foi prequestionada. Ademais, há a vedação do benefício estabelecida no art. 8º, I, do Decreto n. 11.302/2022, às penas restritivas de direitos, conforme a hipótese dos autos.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCIO BARBOSA PESSOA agrava de decisão de minha relatoria em que conheci do agravo para não conhecer do recurso especial e, dessa forma, mantive a sua condenação pelo crime previsto no art. 2º da Lei n. 8.176/1991.
+A defesa pleiteia, em preliminar, a aplicação do indulto estabelecido na Lei n. 11.302/2022. No mais, reitera a existência de omissão do acórdão recorrido no tocante à ausência de elementos produzidos na fase judicial a corroborar aqueles do inquérito policial. Aduz não haver nos autos informações sobre a quantidade e nem o valor econômico do material supostamente extraído.
+Pleiteia a reconsideração do decisum ou o julgamento do agravo regimental pelo órgão colegiado, a fim de que seja provido o recurso especial.
+AgRg no AGRAVO EM RECURSO ESPECIAL Nº 2.269.957 - RN (2022/0398371-0)
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPLORAÇÃO DE MINÉRIO SEM LICENÇA AMBIENTAL E AUTORIZAÇÃO. OMISSÃO DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ABSOLVIÇÃO POR INSUFICIÊNCIA DA PROVA DA MATERIALIDADE DELITIVA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A irresignação explicitada nos embargos de declaração, opostos na instância antecedente, caracterizou-se por mera estratégia para superação do requisito do prequestionamento sem, no entanto, haver sido demonstrada nenhuma omissão, contradição ou obscuridade no julgado, o que caracteriza a deficiência da pretensão e enseja a aplicação do disposto na Súmula n. 284 do STF.
+2. A pretensão absolutória baseada na insuficiência da prova da materialidade delitiva implica a necessidade de reexame fático-probatório, procedimento vedado, em recurso especial, em virtude da disposição da Súmula n. 7 do STJ.
+3. A questão relativa ao indulto natalino deverá ser formulada perante o juízo da execução, uma vez que não foi prequestionada. Ademais, há a vedação do benefício estabelecida no art. 8º, I, do Decreto n. 11.302/2022, às penas restritivas de direitos, conforme a hipótese dos autos.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A despeito dos esforços perpetrados pela insurgente, não verifico fundamento suficiente a infirmar o decisum agravado, cuja conclusão mantenho.
+A decisão ora impugnada foi estabelecida nos seguintes termos (fls. 978-981):
+ ..
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou sobre a autoria e a materialidade delitivas (fls. 579-582):
+ ..
+A materialidade delitiva está demonstrada através do auto de infração lavrado com base na vistoria realizada em 06/12/2011, pelo Instituto de Desenvolvimento Sustentável e Meio Ambiente do Rio Grande do Norte - IDEMA, onde ficou constatada a exploração de granito na localidade denominada Fazenda, localizada na Zona Rural do Município de Caicó/RN (cf. Auto de Infração nº Sítio Dois Riachos 2011-050580/TEC/AIDM-0186 - ID nº 4190144 - página 11), subsidiada por fotos que revelaram um local com características de efetiva lavra mineral, onde ficou constatada a presença de maquinário, geradores e blocos (ID nº 4190161 - páginas 15 a 18).
+De acordo com o relatório fiscal ambiental, foi constatada na localidade Fazenda Sítio Dois Riachos uma frente de lavra de granito em andamento, com blocos de granito separados para transporte, o que demonstra a natureza econômica da atividade, não se sustentando a afirmação de que era exercida apenas atividade de pesquisa na área.
+O auto de infração e as fotos comprovando a efetiva exploração do granito na área, constantes no inquérito policial, com base no qual se fundamentou o decreto condenatório para comprovação da materialidade delitiva, enquadram-se na ressalva contida no art.
+155 do Código de Processo Penal, submetendo-se ao contraditório diferido, visto que, pela natureza do delito - exploração de recursos minerais sem a respectiva licença - torna-se ineficaz a realização de uma nova perícia na área para fins de comprovação da atividade ilegal na época, considerando o pleno desenvolvimento de idêntica atividade por outra empresa na mesma área após um ano da lavratura do laudo.
+Corrobora, ainda, a prova da materialidade delitiva, o laudo da Polícia Federal de fls. 120/131 do IPL (Laudo nº 319/2017- SETEC/SR/PF/RN, de 23/05/2017), ao concluir que havia atividade de extração em agosto de 2013 (área com cava de extração, pátio de estéril e rejeito e pátio de blocos).
+O fato da empresa do réu ter sido cedida em 2012, e a circunstância da área ter sido explorada por outra mineradora a partir de agosto de 2013, conforme sustentado pela defesa do réu, não diminui a importância probatória do laudo realizado pela Polícia Federal no período posterior, antes vindo em reforço às conclusões da fiscalização do IDEMA, realizadas em dezembro de 2011, época em que a empresa do réu (VULCANO), inequivocamente, estava em plena atividade, exercendo atividade de lavra de granito, conforme atestou o servidor do IDEMA responsável pela fiscalização in loco. Portanto, sendo tais elementos de prova submetidos ao contraditório em juízo, além do próprio interrogatório do réu, não resta configurada ofensa ao princípio do contraditório e da ampla defesa, nem violação ao art.
+155 do CPP.
+Confira-se o seguinte precedente, : mutatis mutandis  ..  A alegação genérica de ausência de dolo também não socorre o réu, tendo ficado comprovado ser o responsável pela gerência administrativa e financeira de duas empresas na área de mineração (Cearagran Mineração Export Ltda e Vulcano Export Mineração Exportação e Importação Ltda), não sendo admissível, nessa qualidade, que desconhecia o impositivo da obtenção de licença para extração de minério.
+Destaco, por irrefutáveis, os seguintes trechos da sentença recorrida sobre a autoria delitiva:
+2.3. Da autoria No que se refere à questão da autoria, esta é incontroversa, devendo a responsabilidade pelo crime do art. 2º da Lei nº 8.176/1991 recair sobre o réu MÁRCIO BARBOSA PESSOA.
+Inicialmente, a extração irregular de granito foi atribuída à empresa Cearagran Mineração Export Ltda, a qual foi indicada pelo Sr. Breno Orapacen da Nóbrega Oliveira (cf.
+auto de infração de ID nº 4190144 - página 11).
+Quando ouvido pela Polícia Federal, o Sr. Breno relatou que seu papel na área de extração limitava-se a compra de insumos, peças, EPI e alimentação, conforme as ordens que eram repassadas diretamente por MÁRCIO BARBOSA PESSOA (ID nº 4190228 - páginas 16 e 17).
+Em sua oitiva, Breno Orapacen da Nóbrega Oliveira também destacou que, quando da autuação realizada pelo IDEMA, informou o nome da empresa Cearagran Mineração Export Ltda por engano, de modo que seu verdadeiro vínculo seria com a pessoa jurídica Vulcano Export Mineração Exportação e Importação Ltda .
+O próprio réu MÁRCIO BARBOSA PESSOA destacou, quando interrogado pela Polícia Federal, que orientava seus funcionários, por questões estratégicas comerciais, a não mencionar a empresa Vulcano , por ser muito conhecida e assediada pelos concorrentes, razão pela qual Breno indicou ao IDEMA a pessoa jurídica Cearagran como a responsável pelas atividades no local (ID nº 4190234 - páginas 19 e 20).
+O acusado confirmou referida estratégia comercial em interrogatório realizado perante este juízo nos autos da presente ação penal, o que se afigura crível, afinal, a empresa Vulcano Export Mineração Exportação e Importação Ltda . é que possuía autorização de pesquisa sob a área, após cessão de direitos minerários empreendida por Márcio Dantas Teixeira, cessão esta protocolizada em 27/10/2011 (ID nº 4190234- página 22 e ID nº 4190244 - página 1), pouco antes da autuação ambiental realizada pelo IDEMA, a qual se deu em 06/12/2011.
+Seja como for, fato é que tanto a pessoa jurídica Cearagran Mineração Export Ltda, quanto a empresa Vulcano Export Mineração Exportação e Importação Ltda possuem o mesmo quadro societário, o qual é composto por MÁRCIO BARBOSA PESSOA e Marcelo Moulão (cf. consulta ao CNPJ das referidas pessoas jurídicas), de modo que, enquanto o réu era o responsável pela gerência administrativa-financeira das empresas, Marcelo Moulão cuidava apenas da parte comercial (cf. depoimento de MÁRCIO BARBOSA PESSOA à Polícia Federal - ID nº 4190234 - páginas 19 e 20).
+Portanto, sendo o acusado MÁRCIO BARBOSA PESSOA o responsável pela administração de fato das mineradoras, indicando os locais de lavra e dando ordem aos funcionários, tem-se que sobre ele deve recair a responsabilidade penal pela lavra de granito sem a devida guia de utilização/concessão do DNPM, aplicando-se as penas previstas pelo art. 2º da Lei nº 8.176/1991.
+Por fim, também não estão presentes os pressupostos para aplicação do princípio da insignificância, considerando a natureza econômica da atividade exercida e a quantidade de material extraído, comprovados pelos elementos probatórios contido nos autos. Destaco, nesse sentido:
+A Corte de origem consignou haverem sido devidamente comprovadas a autoria, o dolo e a materialidade delitivas. Aduziu que os elementos de prova foram submetidos ao contraditório, em juízo.
+Com efeito, o STJ entende possível o emprego de elementos do inquérito policial no édito condenatório, desde que corroborados por outras evidências produzidas na fase judicial, conforme ocorrido na hipótese.
+Dessa forma, a pretensão absolutória enseja juízo de suficiência da prova da condenação, análise que demandaria incursão vertical no acervo fático- probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+A mera invocação de violação do art. 619 pela Corte de origem, apenas como estratégia para superação do óbice relativo ao prequestionamento, não é admitido se não forem devidamente demonstradas os requisitos de seu cabimento, quais sejam, a existência de omissão, contradição e obscuridade no julgado recorrido.
+Na hipótese, não foi demonstrado nenhum dos requisitos para oposição dos embargos de declaração na instância antecedente. Nesses casos, caracteriza-se a deficiência recursal, o que atrai a aplicação do óbice previsto na Súmula n. 284 do STF.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Cumpre reiterar a inadmissibilidade do recurso especial.
+A irresignação explicitada nos embargos de declaração, opostos na instância antecedente, caracterizou-se por mera estratégia para superação do requisito do prequestionamento sem, no entanto, haver sido demonstrada nenhuma omissão, contradição ou obscuridade no julgado, o que caracteriza a deficiência da pretensão e enseja a aplicação do disposto na Súmula n. 284 do STF.
+A pretensão absolutória baseada na insuficiência da prova da materialidade delitiva implica a necessidade de reexame fático-probatório, procedimento vedado, em recurso especial, em virtude da disposição da Súmula n. 7 do STJ.
+A questão relativa ao indulto natalino deverá ser formulada perante o juízo da execução, uma vez que não foi prequestionada. Ademais, há a vedação do benefício estabelecida no art. 8º, I, do Decreto n. 11.302/2022, às penas restritivas de direitos, conforme a hipótese dos autos.
+Oportunamente:
+ ..
+IV - Com efeito: "Compete ao Juízo da Execução Penal decidir sobre pedido de concessão de indulto, não cabendo a esta Corte se manifestar sobre o tema antes que as instâncias ordinárias o tenham feito, sob pena de indevida e ilegal supressão de instância" (AgRg no AREsp n. 1.264.808/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 9/5/2018).
+Agravo regimental desprovido .
+(AgRg no AREsp n. 2.167.899/RN, Rel. Ministro Messod Azulay Neto, 5ª T., DJe 12/5/2023.)
+À vista do exposto, nego provimento ao agravo regimental.
