@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JORGE ARIDES DE ARMAS SIQUEIRA contra decisão monocrática proferida por este signatário, que não conheceu do recurso especial, nos termos da seguinte ementa (fl. 594, e-STJ):
+RECURSO ESPECIAL. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. AUSÊNCIA DE NOTIFICAÇÃO DO USUÁRIO. DANO MORAL CONFIGURADAO. REVISÃO. QUANTUM. NÃO CABIMENTO. VALOR RAZOÁVEL E PROPORCIONAL. INCIDÊNCIA SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões (fls. 603-604, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando contrariedade, que acarretou em erro material, no julgado, já que a majoração de honorários para a parte recorrida apenas é devida em caso de existência de condenação anterior, o que não é o caso dos autos (e-STJ, fl. 604).
+Impugnação às fls. 609-610 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situação que se observa nos autos.
+Segundo a jurisprudência do Superior Tribunal de Justiça, "é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do NCPC, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, relator Ministro Antônio Carlos Ferreira, Segunda Seção, julgado 9/8/2017, DJe 19/10/2017).
+No caso em estudo, conforme se verifica das decisões proferidas pelo Tribunal de Justiça, a Companhia embargada foi condenada ao pagamento de honorários em 15% do valor da condenação. Entretanto, a decisão ora embargada majorou os honorários em favor do advogado da parte recorrida, ou seja, para os procuradores da Companhia.
+Como não há condenação da parte Embargante em honorários a favor dos procuradores da Companhia, merece acolhimento os embargos neste ponto.
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, tão somente, para afastar a majoração de 2% (dois por cento) dos honorários recursais arbitrados na decisão ora embargada (e-STJ, fls. 7594-600).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXISTÊNCIA DE ERRO MATERIAL. HONORÁRIOS RECURSAIS FIXADOS PARA PARTE NÃO CONDENADA PELO TRIBUNAL DE ORIGEM. REFORMA DA DECISÃO NO PONTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
