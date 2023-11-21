@@ -1,0 +1,35 @@
+DECISÃO
+DHONE VIANA DE OLIVEIRA interpõe agravo regimental contra decisão monocrática que concedeu parcialmente a ordem de habeas corpus para absolvê-lo do crime de associação para o tráfico, mas manteve a negativa de aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+A defesa insiste na aplicação da benesse, sob o argumento de que, afastada a condenação pelo crime do art. 35 da Lei de Drogas, não subsiste fundamento apto a impedir o reconhecimento da causa de diminuição.
+Diante da aposentadoria da Ministra relatora e da formulação de pedido de tutela de urgência para apreciação de embargos de declaração (fls. 128-130), os autos foram redistribuídos à minha relatoria, nos termos do art. 72, II, do RISTJ (fl. 134).
+Rejeitados os aclaratórios, a defesa manejou o presente agravo regimental.
+Decido.
+I. Juízo de retratação
+Na hipótese, observo assistir razão à defesa quanto à aplicação da minorante, motivo pelo qual reconsidero a decisão de fls. 106-113, conforme passo a expor.
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes dos acusados, que estes não integrem organização criminosa nem se dediquem a atividades delituosas.
+Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+O Juízo singular afastou o benefício com os seguintes fundamentos (fl. 73, grifei): "Deixarei de aplicar a regra contida no art. 33, §4º, da Lei n.º 11.343/06, à medida que o acusado estava associado com o coautor Silvio, o que torna incompatível o reconhecimento da benesse. Além disso, reconheço que integrava organização criminosa".
+O Tribunal de justiça, a seu turno, manteve a sentença com os argumentos a seguir (fls. 53-54):
+Cumpre observar, neste ponto, que a causa especial de diminuição de pena, inserta no artigo 33, § 4º da Lei nº 11.343/2006, não granjeia aplicação ao caso dos autos, conforme pleiteado pela Defesa, eis que, a mantença, por esta via recursal, da condenação do réu indicado pela prática do crime de associação para o tráfico revela-se incompatível com a figura do "traficante esporádico ou eventual", contemplado no referido dispositivo legal.
+Conforme visto, o Tribunal a quo afastou a benesse com base apenas no argumento de que o réu foi condenado pelo crime de associação para o tráfico, o que seria incompatível com a minorante. O Juiz de direito, além desse argumento, afirmou reconhecer que o réu integrava organização criminosa.
+No que concerne ao primeiro fundamento, observo que não mais subsiste, uma vez que foi afastada a condenação pela associação.
+Já em relação ao segundo fundamento, ressalto que a afirmação de que o réu integrava organização criminosa foi feita de forma absolutamente vaga e genérica, sem nenhuma justificativa sobre o embasamento concreto de tal assertiva. Cabe destacar, ainda, que o réu nem sequer foi denunciado pelo crime de integrar organização criminosa.
+Assim, ante a ausência de fundamento suficiente para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve a ordem ser concedida, a fim de aplicar, em favor do acusado, o referido benefício.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Assim, tendo em vista que a quantidade de drogas já foi usada para exasperar a pena-base, considero, dentro do livre convencimento motivado, ser adequada e suficiente a redução de pena no patamar máximo de 2/3.
+II. Nova dosimetria
+Realizo, portanto, nova dosimetria.
+Na primeira fase, a reprimenda-base ficou estabelecida em 5 anos e 10 meses de reclusão e 583 dias-multa.
+Na segunda fase, ausentes agravantes e atenuantes, a reprimenda permaneceu inalterada.
+Na terceira etapa, reduzo a reprimenda em 2/3, em decorrência da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, tornando a pena do acusado definitivamente estabelecida em 1 ano, 11 meses e 10 dias de reclusão e de 194 dias-multa.
+III. Consectários - regime e substituição
+Como consectário da redução efetivada na pena do paciente, deve ser procedido ao ajuste no regime inicial do seu cumprimento. Uma vez que ele foi condenado a reprimenda bastante inferior a 4 anos de reclusão, era tecnicamente primário ao tempo do delito, teve a pena-base estabelecida no mínimo legal, foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, e não foi apreendido com quantidade exorbitante de drogas, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também ao preconizado pelo art. 42 da Lei n. 11.343/2006.
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, nos termos do art. 44, III, do Código Penal, de maneira que deve ser concedido o habeas corpus também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+IV. Dispositivo
+À vista do exposto, reconsidero a decisão de fls. 106-113 para conceder integralmente a ordem, de modo a também reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado e, por conseguinte: a) reduzir a sua reprimenda para 1 ano, 11 meses e 10 dias de reclusão e de 194 dias-multa; b) fixar o regime inicial aberto; c) determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais.
+Determino a imediata expedição de alvará de soltura em favor do acusado, se por outro motivo não estiver preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias de origem, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
