@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto do Meio Ambiente do Estado de Santa Catarina (IMA) com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJSC, assim ementado (fl. 677, e-STJ):
+AÇÃO CIVIL PÚBLICA PROMOVIDA POR ASSOCIAÇÃO. SERVIDORES PÚBLICOS DO INSTITUTO DO MEIO AMBIENTE DE SANTA CATARINA. CÔMPUTO DO PERÍODO AQUISITIVO DE LICENÇA-PRÊMIO E DE TRIÊNIOS. POSSIBILIDADE. PROIBIÇÃO TEMPORÁRIA PREVISTA NO ART. 8º DA LEI COMPLEMENTAR FEDERAL N. 173/2020. PRODUÇÃO DE EFEITOS FINALIZADA EM JANEIRO DE 2022. INSURGÊNCIA QUANTO À FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. INAPLICABILIDADE DO ART. 18 DA LEI N. 7.347/1985 E DO ART. 87 DO CDC. LIDE NÃO CONSUMERISTA. DEFESA DE DIREITOS INDIVIDUAIS HOMOGÊNEOS, IN CASU. AJUSTE DA VERBA HONORÁRIA AOS DITAMES DO ART. 85, §§ 2º E 3º, DO CPC. VALOR DA CAUSA QUE NÃO SE AFIGURA IRRISÓRIO NEM INESTIMÁVEL. APLICAÇÃO DO TEMA 1.076/STJ. OBSERVÂNCIA DA LEI ESTADUAL N. 17.654/2018 QUANTO ÀS CUSTAS PROCESSUAIS. DECISÃO MODIFICADA NO PONTO. RECURSO CONHECIDO E PROVIDO.
+O recorrente alega violação dos artigos 18 da Lei n. 7.347/1985 e 87 da Lei n. 8.078/1990, sob o argumento de que "independentemente de qual seja o objeto da tutela coletiva - direitos consumeristas, direitos de servidores públicos ou quaisquer outros direitos difusos, coletivos ou individuais homogêneos -, caso a ação tenha sido ajuizada com amparo no microssistema formado pela Lei da Ação Civil Pública e pelo Código de Defesa de Consumidor, incide a integralidade das regras ali previstas, inclusive aquelas que dispõem sobre custas, emolumentos e honorários de sucumbência" (fl. 706, e-STJ). Assim sendo "não é cabível a condenação em honorários advocatícios em ação coletiva ajuizada com amparo no microssistema formado pela Lei da Ação Civil Pública e pelo Código de Defesa do Consumidor" (fl. 706, e-STJ).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 728-729 (e-STJ).
+Parecer do Ministério Público Federal pelo conhecimento e provimento do recurso especial (fls. 749-752, e-STJ).
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso merece prosperar.
+Por absoluto respeito ao princípio da simetria, se o autor, qualquer legitimado ativo que seja, não está obrigado ao pagamento de verbas sucumbenciais, tampouco a parte requerida, em caso de procedência da ação e desde que ausente má-fé, estará obrigada ao pagamento de honorários sucumbenciais.
+Aliás essa é a jurisprudência do Superior Tribunal de Justiça, conforme acórdãos transcritos abaixo:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. HONORÁRIOS SUCUMBENCIAIS. DESCABIMENTO. PRINCÍPIO DA SIMETRIA. OBSERVÂNCIA.
+ ..
+3. É firme nesta Corte a orientação de que, em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública quando inexistente má-fé, de igual sorte como ocorre com a parte autora, por força da aplicação do art. 18 da L ei n. 7.347/1985 (EAREsp 962.250/SP, rel. Ministro OG FERNANDES, Corte Especial, julgado em 15/08/2018, DJe 21/08/2018).
+ ..
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp n. 2.162.558/MT, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA AJUIZADA POR SINDICATO. PROCEDÊNCIA. CONDENAÇÃO DO RÉU EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 18 DA LEI 7.347/1985. PRINCÍPIO DA SIMETRIA.
+1. É firme a jurisprudência desta Corte no sentido de que, ""em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexistente má-fé, de igual sorte como ocorre com a parte autora, por força da aplicação do art. 18 da Lei n. 7.347/1985" (AgInt no AREsp n. 1.410.128/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/4/2020, DJe de 24/4/2020)" (REsp n. 2.009.894/PR, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 27/4/2023).
+2. O comando previsto no art. 18 da Lei 7.347/1985 "deve ser aplicado tanto para o autor - Ministério Público, entes públicos e demais legitimados para a propositura da Ação Civil Pública -, quanto para o réu, em obediência ao princípio da simetria" (AgInt no REsp n. 2.010.444/RS, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/12/2022).
+ ..
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 2.055.416/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. EXTRAÇÃO ILEGAL DE RECURSO NATURAL. BASALTO. BEM DA UNIÃO. RESSARCIMENTO AO ERÁRIO. SENTENÇA DE PRIMEIRO GRAU. PROVIMENTO PARCIAL. INDENIZAÇÃO. VALOR AUFERIDO COM A COMERCIALIZAÇÃO DO MINÉRIO. ABATIDO OS CUSTOS COM A EXTRAÇÃO. ACÓRDÃO REFORMANDO A SENTENÇA. RESSARCIMENTO DEVIDO. 100% DO VALOR BRUTO OBTIDO PELA EXTRAÇÃO ILEGAL. ENTENDIMENTO TAMBÉM DESTE STJ. REPARAÇÃO INTEGRAL. APELO ESPECIAL. ALEGADA VIOLAÇÃO DOS ARTS. 884 E 944 DO CÓDIGO CIVIL, DO ART. 6º DA LEI 7.790/1989 E DO ART. 2º DA LEI 8.001/1990. APELO DESPROVIDO. MANUTENÇÃO DO ENTENDIMENTO DO ARESTO RECORRIDO.
+ ..
+V - em relação à alegada violação do art. 18 da Lei n. 7.347/1985, verifica-se que que a insurgência recursal merece acolhida neste ponto, visto que, consoante a jurisprudência deste Superior Tribunal de Justiça, "em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexistente má-fé, de igual sorte como ocorre com a parte autora, por força da aplicação do art. 18 da Lei n. 7.347/1985". (AgInt no AREsp n. 1.410.128/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 22/4/2020, DJe de 24/4/2020)
+VI - Recurso especial parcialmente provido, apenas para decotar da condenação o pagamento de verba honorária.
+(REsp n. 2.009.894/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 25/4/2023, DJe de 27/4/2023.)
+Assim sendo, o acórdão deve ser reformado, a fim de que seja afastada a condenação da parte recorrente ao pagamento de honorários advocatícios sucumbenciais.
+Ante o exposto, dou provimento ao recurso especial para afastar a condenação em honorários advocatícios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO. AUSÊNCIA DE MÁ-FÉ. ART. 18 DA LEI. 7.347/1985. PRINCÍPIO DA SIMETRIA. RECURSO ESPECIAL PROVIDO.
