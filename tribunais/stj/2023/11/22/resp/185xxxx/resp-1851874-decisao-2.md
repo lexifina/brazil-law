@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por CAIXA ECONÔMICA FEDERAL, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+DIREITO CIVIL E ADMINISTRATIVO. SFH. FINANCIAMENTO DA CASA PRÓPRIA. AÇÃO REVISIONAL. LEGITIMIDADE PASSIVA DA CAIXA. DESNECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. DESNECESSIDADE DE REALIZAÇÃO DE AUDIÊNCIA DE CONCILIAÇÃO. REVISÃO DAS PRESTAÇÕES E DO SEGURO. INOBSERVÂNCIA DO PES/CP PACTUADO. CES NÃO PACTUADO. MANUTENÇÃO DO IPC DE MARÇO/90. MANUTENÇÃO DO SISTEMA FRANCÊS DE AMORTIZAÇÃO (TABELA PRICE). APLICABILIDADE DA TR COMO FATOR DE ATUALIZAÇÃO DA DÍVIDA. AMORTIZAÇÃO NEGATIVA. ANATOCISMO. EXPURGO DOS JUROS EFETIVOS. ORDEM DE ATUALIZAÇÃO/AMORTIZAÇÃO DA DÍVIDA. REVISÃO DO FCVS. DIREITO À DEVOLUÇÃO DOS VALORES PAGOS À MAIOR. REPETIÇÃO SIMPLES DO INDÉBITO. SUCUMBÊNCIA RECÍPROCA.
+Os embargos de declaração opostos foram rejeitados na origem.
+Nas razões do recurso especial, a insurgente alega violação ao art. 8º da Lei 8.692/93 ante a legalidade da cobrança do Coeficiente de Equiparação Salarial - CES.
+Aduz também a legalidade da capitalização de juros sobre juros.
+Sustenta que "a CAIXA não tem qualquer ingerência na formação do valor do seguro e, consequentemente, não é seguradora e não se dedica a atos de negócios de seguros. Tal atribuição, de acordo com o artigo 36 do Decreto-Lei nº 73, de 21 de novembro de 1966, é de responsabilidade da SUSEP - Superintendência de Seguros Privados, entidade autárquica hoje vinculada ao Ministério da Fazenda".
+Por fim, defende que "somente através da realização de perícia é que poderia o Douto Desembargador afirmar com certeza que houve descumprimento do PES - Plano de Equivalência Salarial pactuado. Vale salientar que o ônus da prova é do autor quando o fato constitutivo do seu direito, segundo os termos do inciso 1, do art. 333 do CPC, ônus este do qual não se desincumbiu".
+Após decisão de admissibilidade do recurso especial, ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, quanto à legalidade da capitalização de juros sobre juros, verifica-se que a parte recorrente não indicou de forma clara o dispositivo legal que teria sido violado. Aliás, nesse tópico, o único dispositivo mencionado pela insurgente se refere à legislação já revogada, conforme ela mesma indica. Dessa forma, incide no ponto o óbice da Súmula 284 do STF ante a deficiência de fundamentação.
+2. Outrossim, relativamente à legalidade da cobrança do Coeficiente de Equiparação Salarial - CES, constou no acórdão recorrido:
+Quanto à aplicação do CES, verifico que sua incidência não está prevista no contrato de financiamento sob análise, motivo pelo qual cabe seu expurgo da prestação. Nesse sentido, transcrevo o seguinte posicionamento deste Tribunal, que faz referência à precedente do STJ:
+Contudo, a parte ora recorrente não se desimcubiu do ônus de impugnar o referido fundamento, como manda o princípio da dialeticidade, utilizando-se de argumentos dissociados do acórdão recorrido, incidindo, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamento do acórdão recorrido - suficiente para sua manutenção -, incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no ponto, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+ ..  3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1397282/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/04/2019, DJe 05/04/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. ART. 3º DO DECRETO-LEI 911/1969. NECESSIDADE DE NOTIFICAÇÃO AO DEVEDOR ACERCA DA MORA. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..  2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, o óbice das Súmulas 283 e 284 do STF.
+3. Agravo interno não provido.
+(AgInt no REsp 1675490/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+3. No mais, relativamente às teses de que (i) "a CAIXA não tem qualquer ingerência na formação do valor do seguro e, consequentemente, não é seguradora e não se dedica a atos de negócios de seguros. Tal atribuição, de acordo com o artigo 36 do Decreto-Lei nº 73, de 21 de novembro de 1966, é de responsabilidade da SUSEP - Superintendência de Seguros Privados, entidade autárquica hoje vinculada ao Ministério da Fazenda" e (ii) "somente através da realização de perícia é que poderia o Douto Desembargador afirmar com certeza que houve descumprimento do PES - Plano de Equivalência Salarial pactuado. Vale salientar que o ônus da prova é do autor quando o fato constitutivo do seu direito, segundo os termos do inciso 1, do art. 333 do CPC, ônus este do qual não se desincumbiu", verifica-se que o Tribunal de piso não analisou tais questões, nem o conteúdo legal dos dispositivos legais tidos por violados.
+Logo, a ausência de enfrentamento das matérias objeto de controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO COMINATÓRIA COM PEDIDO DE TUTELA ANTECIPADA. PLANO DE SAÚDE. OFENSA AOS ARTS. 1.013, § 3º, DO CPC/2015 E 3º DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015 EM RELAÇÃO À MATÉRIA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. FALECIMENTO DA PARTE AUTORA. EXTINÇÃO DO PROCESSO POR AUSÊNCIA DE REGULARIZAÇÃO DO POLO ATIVO. INTIMAÇÃO DOS HERDEIROS PARA SUCESSÃO PROCESSUAL NÃO REALIZADA. ANULAÇÃO DA SENTENÇA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. "Escorreita a interpretação do acórdão recorrido acerca da necessidade de intimação pessoal dos herdeiros do exequente falecido para que, em prazo razoável, manifestem interesse em suceder ao exequente na ação" (AgInt no REsp 1.649.247/PB, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 12/8/2019, DJe de 19/8/2019).
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.004.343/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
