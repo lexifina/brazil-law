@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL contra decisão do respectivo Tribunal de Justiça, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República.
+O Parquet alega que é imperiosa a reforma do acórdão guerreado, para, em atenção à determinação do art. 42 da Lei nº 11.343/06, fixar fração de aumento superior a 1/10 em relação à circunstância judicial alusiva à quantidade do entorpecente e, em consequência, recrudescer a sanção basilar do recorrido em 1/8 acima do mínimo legal por essa circunstância especial, patamar que havia sido adotado na sentença de primeiro grau. (e-STJ, fls. 505-523).
+Foram apresentadas as contrarrazões (e-STJ, fls. 531-548).
+O recurso foi inadmitido (e-STJ, fls. 550-558). Daí este agravo (e-STJ, fls. 567-579).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fl. 620).
+É o relatório.
+Decido.
+Consoante se extrai dos autos, o réu foi condenado, em primeira instância, como incurso nas sanções do artigo 33, caput, da Lei 11.343/06 à pena de 09 anos, 11 meses e 27 dias de reclusão, no regime inicial fechado, mais 912 dias-multa.
+Irresignadas as partes recorreram.
+A 1ª Câmara Criminal do Tribunal de Justiça de Mato Grosso do Sul, por sua vez, negou provimento ao recurso da acusação e deu parcial provimento à apelação defensiva para afastar as circunstâncias judiciais da conduta social, personalidade e circunstâncias do crime, mantendo-se a valoração negativa da culpabilidade e acrescentando-se as circunstâncias preponderantes do artigo 42 da Lei nº 11.343/2006 (natureza e quantidade da droga), valorando-se negativamente somente a quantidade da droga, que se mostrou elevada, com a consequente readequação da pena-base, com aplicação da fração de 1/10 para cada circunstância negativa (e-STJ, fl. 477), o que resultou em um sanção final de 07 anos de reclusão e 700 dias- multa.
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+No que tange à exasperação da basilar, pela existência de circunstância judicial negativa, essa deve seguir o parâmetro de 1/6 sobre a pena-base ou 1/8 do intervalo entre as penas mínima e máxima, para cada fator desfavorável. Tais frações constituem critérios aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e concretamente justificado o critério utilizado pelas instâncias ordinárias.
+Nesse sentido:
+" ..
+2. Para elevação da pena-base, podem ser utilizadas as frações de 1/6 sobre a pena mínima ou de 1/8 sobre o intervalo entre as penas mínima e máxima, exigindo-se fundamentação concreta e objetiva para o uso de percentual de aumento diverso de um desses. Incidência da Súmula n. 83 do STJ.
+3. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.942.233/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+No caso, o Tribunal de origem alterou o cálculo da pena-base, aplicando a fração de 1/10 para cada circunstância judicial negativa, utilizando-se dos seguintes fundamentos:
+"(..)
+Contudo, no que tange à circunstância judicial relativa às circunstâncias (do crime), observa-se da decisão recorrida, que o Magistrado considerou que ".. são graves, posto a grande quantidade de drogas (1.027.700 Kg).".
+Efetivamente, a quantidade de entorpecentes apreendida não pode ser considerada como de pequena monta, tendo a jurisprudência desta Corte entendimento pacificado de que quantidades neste patamar são consideradas como substanciais, razão pela qual se aplicam a negativar a circunstância preponderante da quantidade.
+À propósito desse entendimento, trago o seguinte julgado:
+(..)
+Todavia, entendo que a quantidade de drogas apreendidas não se prestaria a justificar a valoração negativa das circunstâncias do crime, visto que é circunstância preponderante prevista no artigo 42 da Lei nº 11343/2006 e deveria assim ser considerada.
+Dessa forma, inexiste motivo para manter a valoração negativa das "circunstâncias do crime", considerando-se necessária a prevalência da circunstância preponderante da "quantidade da droga", cujo volume é apto a valorar negativamente referida circunstância.
+Constata-se, portanto, que o Magistrado sentenciante elencou e analisou apenas as circunstâncias previstas no artigo 59 do Código Penal, desconsiderando as outras duas, previstas no artigo 42, da Lei 11343/2006.
+Diz o citado artigo 42:
+"O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente"
+Imperioso registrar que o Código Penal não estabelece um percentual mínimo ou máximo para elevação da reprimenda em razão de cada circunstância judicial desfavorável, de modo que tal atividade insere-se no campo de discricionariedade do magistrado, o qual avaliará, em cada caso concreto, a quantidade de pena suficiente para a prevenção e reprovação do delito, em atenção ao princípio da individualização da pena.
+Sabe-se, no entanto, que o e. STJ traçou um critério objetivo que pode servir de parâmetro para o julgador na primeira fase da dosimetria penal, que consiste em atribuir 1/8 (um oitavo) de aumento para cada circunstância judicial desfavorável, o qual deverá incidir sobre intervalo da pena previsto no preceito secundário do tipo penal.
+Seguindo esse raciocínio, nos casos de crimes previstos na Lei nº 11343/2006 (Lei de Drogas), em razão da existência de outras duas circunstâncias judiciais a serem acrescidas e analisadas, por força do artigo 42 do referido diploma ("quantidade" e "natureza" da droga), o patamar ideal de aumento para cada circunstância judicial negativa passa a ser de 1/10 (um décimo), a recair, como acima dito, sobre o intervalo da pena prevista em abstrato no tipo penal.
+Não se trata, obviamente, de uma fórmula matemática absoluta, mas apenas de um critério ideal (termo utilizado pelo próprio STJ) que deve auxiliar o juiz no momento da dosagem da reprimenda na primeira fase da dosimetria penal.
+À propósito, trago o seguinte julgado de minha própria relatoria (grifei):
+(..)
+Dessa forma, considerando a aplicação da fração de 1/10 (um décimo), acresço à dosimetria penal do apelante as circunstâncias preponderantes da "quantidade" e "qualidade" da droga apreendida, valorando negativamente apenas a "quantidade da droga", tendo em vista que a "natureza da droga" (maconha) não se mostra de alto poder viciante se comparada com a "cocaína", "crack" ou outra substância mais forte.
+Ressalte-se, porém, a necessidade de neutralização das "circunstâncias do crime", a fim de não gerar o bis in idem.
+Desta forma, necessária a análise e consideração das 10 (dez) circunstâncias judiciais aplicáveis ao delito de tráfico de drogas (08 (oito) do artigo 59 do Código Penal, acrescidas de mais 02 (duas) do artigo 42 da Lei 11.343/2006), importando no redimensionamento da dosimetria penal, a ser efetivada ao final, com os necessários reflexos nas demais fases." (e-STJ, fls. 489-492)
+Como dito anteriormente, as frações de 1/6 sobre a pena-base ou 1/8 do intervalo entre as penas mínima e máxima, para cada fator desfavorável constituem parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e concretamente justificado o critério utilizado pelas instâncias ordinárias.
+Na espécie, verifica-se que a fração de 1/10 decorre de metodologia criada pela Corte Estadual, a qual não observa a regra de que "a quantidade e a natureza dos entorpecentes constituem fatores que, de acordo com o art. 42 da Lei 11.343/2006, são preponderantes para a fixação das penas relacionadas ao tráfico ilícito de entorpecentes" (AgRg no HC n. 854.421/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 30/10/2023).
+Assim, diante da grande quantidade de entorpecente apreendido - 1.027.700 Kg de maconha - a fração de aumento, decorrente da análise negativa do art. 42 da Lei 11.343/2006, deveria ser fixada em patamar superior àquele admitido pela jurisprudência desta Corte, tendo em vista a maior reprovabilidade da conduta.
+Todavia, tendo o Ministério Público Estadual requerido o restabelecimento da fração de 1/8 aplicada pela sentença condenatória, o provimento do recurso deve se ater ao que foi pedido.
+Desse modo, passo ao redimensionamento da pena.
+Na primeira fase, presentes as vetoriais negativas da "culpabilidade" e "quantidade da droga".
+Mantida a fração de aumento de 1/10 (sobre o intervalo das penas mínima e máxima cominada ao delito do art. 33 da Lei 11.343/2006) para a culpabilidade e alterada para 1/8 a do art. 42 da Lei de Drogas, deve a basilar ser majorada no patamar de 9/40, o que resulta em 07 anos, 04 meses e 06 dias de reclusão, mais 612 dias-multa.
+Inexistentes outras causas modificadoras, fica a sanção definitivamente estabelecida em 07 anos, 04 meses e 06 dias de reclusão, mais 612 dias-multa, mantido o regime inicial fechado.
+Diante do e xposto, nos termos do art. 932, VIII, do Código de Processo Civil de 2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de exasperar a pena-base na fração de 1/8 (sobre o intervalo das penas mínima e máxima cominada ao delito do art. 33 da Lei 11.343/2006), na primeira etapa da dosimetria, em decorrência da análise negativa do art. 42 da Lei 11.343/2006.
+Publique-se. Intimem-se.
+EMENTA
