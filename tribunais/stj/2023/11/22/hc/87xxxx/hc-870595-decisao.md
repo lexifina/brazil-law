@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANA CAROLINA GONÇALVES DA SILVA apontando como autoridade coatora Desembargador do Plantão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC 1.0000.23.306001/000).
+Depreende-se dos autos que a paciente foi presa em flagrante, aos 17/11/2023, pela suposta prática de tráfico de drogas, pois foram encontrados, em sua residência, 677 buchas de substância análoga a maconha (1485,70g - mil quatrocentos e oitenta e cinco gramas e setenta centigramas); 81 microtubos de substância análoga a cocaína (56,8g - cinquenta e seis gramas e oito decigramas); 2 balanças digitais; 2 rádios comunicadores; e a quantia de R$ 402,00 (quatrocentos e dois reais) em moeda corrente. A custódia foi convertida em preventiva (e-STJ fls. 100/103).
+A defesa impetrou habeas corpus perante o Tribunal de origem, o qual indeferiu o pedido liminar (e-STJ fls. 187/189).
+Daí o presente writ, no qual sustenta a defesa a impossibilidade da decretação da preventiva de ofício, pois o Ministério Público, na oportunidade da audiência de custódia, pugnou pela liberdade provisória à paciente, restando violado o art. 311 do Código de Processo Penal.
+Afirma, ademais, a ausência dos requisitos do art. 312 do CPP e a não apreciação das medidas cautelares diversas da prisão previstas no art. 319 do mesmo Códex.
+Destaca as qualidades pessoais da paciente - primária e portadora de bons antecedentes -, não possuindo sequer um único TCO em seu desfavor. Além disso, é mãe de uma criança com 4 anos de idade, tendo direito à prisão domiciliar.
+Pugna, liminarmente e no mérito, pela concessão da liberdade provisória, ainda que cumulada com as medidas cautelares previstas no art. 319 do CPP.
+É o relatório.
+Decido.
+Inicialmente, destaco que, apesar de o presente habeas corpus ter sido impetrado durante o plantão judiciário, não foi apreciado por não se encaixar nas hipóteses do art. 4º da Instrução Normativa n. 6 de 26/10/2012.
+No caso, trata-se de decisão de primeiro grau de jurisdição mantida em liminar em habeas corpus pelo Tribunal de Justiça estadual, de modo que não é matéria típica de exame em regime emergencial, devendo ser examinado no primeiro dia útil.
+Passo ao exame do habeas corpus.
+O Tribunal de origem, ao indeferir o pedido liminar, consignou que (e-STJ fls. 30/34, grifei):
+Em que pese a divergência jurisprudencial a respeito do tema, há precedentes do Superior Tribunal de Justiça de que se o Ministério Público postulou pela concessão da liberdade provisória com aplicação de medidas cautelares diversas da prisão, não há óbice para que o juiz aplique medida cautelar diversa da requerida pelo Parquet, como ocorreu na hipótese vertente, não se tratando de atuação ex officio.
+ ..
+Noutro giro, não vislumbro a alegada omissão da autoridade apontada coatora, no que diz respeito à substituição da prisão preventiva por domiciliar, por ser a paciente mãe de filho menor.
+Ao contrário, verifica-se que apresentou o douto magistrado fundamentos idôneos, condizente com o posicionamento deste plantonista, ao negar o benefício pleiteado, in verbis:
+ ..  Indo adiante, salienta-se que a despeito de a autuada possuir um filho de 04 (quatro) anos, conforme documento de Id 10115844959, não há nos autos nenhuma prova ou, sequer, indício de que ela seja a única provedora ou responsável pelo menor. Ressalta-se, no mesmo sentido, que as substâncias ilícitas e os utensílios utilizados para a traficância foram encontrados na residência da autuada, sendo certo que o menor estava no local no momento do flagrante delito. ..  (doc de ordem nº 02)
+De resto, a questão ventilada neste writ é complexa, demandando um exame mais aprofundado dos autos, inviável em um juízo de cognição sumária, mostrando-se recomendável seu exame por órgão colegiado, através da turma julgadora, notadamente por haver sido apreendido, com a paciente, expressiva quantidade de drogas, de espécies diversificadas, dinheiro sem comprovação de origem e petrechos usualmente empregados no tráfico, consistentes em 1485,7g de maconha, separadas em 677 buchas, 02 (duas) balanças de precisão, 02 (dois) rádios comunicadores e 56,8g de cocaína acondicionadas em 81 microtubos, além da quantia de R$ 402,00 (Quatrocentos e dois reais).
+Ora, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO DOMICILIAR. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA DECISÃO LIMINAR DO TRIBUNAL A QUO. APLICAÇÃO DA SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão domiciliar foi indeferida porquanto a paciente é acusada de integrar uma organização criminosa, sendo inclusive a responsável por ordenar a execução de faccionados. Considerando que a agravante é acusada de atos praticados com violência ou grave ameaça, não há como conceder o benefício da prisão domiciliar, em razão da vedação legal prevista no art. 318-A, inciso I, do CPP.
+Outrossim, como registrado na decisão liminar, "inexistem provas da debilidade extrema da paciente que lhe impeça de permanecer custodiada no estabelecimento prisional", o que impede também o deferimento do benefício postulado". Ausência de flagrante ilegalidade. Julgados do STJ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 793.943/PI, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.)
+No mais, " c onforme a jurisprudência desta Corte, é possível ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, o que não representa atuação ex officio. No caso, houve manifestação do Ministério Público pela aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal, tendo o Juízo singular decretado a prisão preventiva, não havendo falar em constrangimento ilegal" (AgRg no HC n. 846.420/AL, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/10/2023, DJe de 5/10/2023).
+A questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Assim, ausente violação flagrante ensejadora de superação da Súmula n. 691/STF.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus .
+Publique-se. Intimem-se.
+EMENTA
