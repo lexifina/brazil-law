@@ -1,0 +1,11 @@
+DECISÃO
+FILIPE TAVARES DE OLIVEIRA opõe embargos de divergência contra acórdão proferido pela Quinta Turma, que negou provimento ao agravo regimental.
+Em suas razões, com a finalidade de afastar a vingança como qualificadora do motivo torpe no homicídio qualificado, o insurgente aponta "dois acórdãos paradigmas, o Resp 1.816.313/PB e REsp 1637001/PR, que tratam do mesmo tema, estando ambos disponíveis no site deste Colendo Superior Tribunal de Justiça" (fl. 990).
+Decido
+De início, registro que a decisão proferida no agravo em recurso especial, mantida em regimental, concluiu pela impossibilidade de se analisar o mérito do recurso, em razão da ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Além disso, mesmo que se considere que o acórdão proferido no regimental haja tangenciado a questão, ainda assim verifica-se que o fez na linha da orientação mais recente firmada também pela Sexta Turma, nestes termos: "Não se desconhece que a vingança, por si só, não substantiva o motivo torpe; a sua afirmativa, contudo, não basta para elidir a imputação de torpeza do motivo do crime, que há de ser aferida à luz do contexto do fato" (AgRg no REsp 1.980.145/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 2/12/2022).
+Ou seja, a afirmação contida no acórdão de que a vingança pode, ou não, configurar a torpeza descrita na lei penal, a depender das particularidades do caso concreto, está em harmonia com a atual orientação de ambas as Turmas da Terceira Seção, de modo que eventual dissenso interpretativo existente, o que se afirma apenas para argumentar, encontra-se superado e coerente com o decisum impugnado.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
