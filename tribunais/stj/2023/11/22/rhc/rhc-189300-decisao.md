@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Carlos Eugenio de Andrade contra o acórdão proferido pelo Tribunal de Justiça do Ceará que denegou o Habeas Corpus n. 0632627-63.2023.8.06.0000 (fls. 87/105).
+Consta dos autos qu e o recorrente está preso preventivamente pela prática, em tese, do delito prev isto no art. 33, caput, da Lei n. 11.343/2006.
+Sustenta a defesa, em síntese, a ausência de fundamentação idônea para a decretação da prisão preventiva. Argumenta que o recorrente é taxista e, em razão de dificuldades financeiras, teria aceitado transportar drogas.
+Aponta, ainda, que o delito foi praticado sem violência ou grave ameaça, que o recorrente possui condições pessoais favoráveis, bem como que a hipótese dos autos admite a aplicação de cautelares do art. 319 do CPP.
+Requer, em liminar e no mérito, a concessão da liberdade provisória mediante a imposição de medidas cautelares diversas da prisão.
+A liminar foi por mim indeferida (fls. 133/135), as informações foram prestadas (fls. 140/145) e o Ministério Público se manifestou pelo desprovimento do recurso (fls. 147/149).
+Em consulta à ação penal na página eletrônica do Tribunal de origem, o feito aguarda audiência de instrução e julgamento designada para o dia 14/12/2023.
+É o relatório.
+Pelo que consta destes autos, inexiste, na espécie, ilegalidade quanto à manutenção da prisão preventiva do recorrente.
+Há diversos precedentes do Superior Tribunal de Justiça que afirmam a idoneidade da fundamentação para manter a prisão preventiva na hipótese em que é decretada com base na gravidade co ncreta do delito, tirada da relevante quantidade de droga apreendida - 3 kg de maconha - e do conte xto fático do flagrante - já que foi preso em flagrante sob a posse de drogas ilícitas, em montante de 3 kg de maconha, além de R$ 1.285,30 (mil duzentos e oitenta e cinco reais e trinta centavos) em cédulas, além de ter confessado que estava transportando a droga em razão de estar passando por uma situação financeira difícil, contudo, não poderia informar a identidade do responsável por entregá-lo o entorpecente objeto da entrega (fl. 96 - grifo nosso).
+Ademais, consta que o recorrente responde à Ação Penal n. 0040354-13.2012.8.06.0001 pelo suposto crime de homicídio, o que demonstra o risco ao meio social e de reiteração delitiva, fazendo-se necessária a custódia para a garantia da ordem pública.
+Por exemplo, confiram-se: AgRg no HC n. 791.808/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/3/2023; AgRg no HC n. 786.921/GO, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023; AgRg no HC n. 765.121/GO, Ministro João Batista Moreira (Desembargador convocado do TRF1), Quinta Turma, DJe 28/3/2023; e AgRg no RHC n. 172.182/MG, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 2/12/2022.
+Afora isso, é entendimento desta Casa que as condições favoráveis do recorrente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada; e que é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Correto, portanto, o parecer escrito pelo Subprocurador-Geral da República Roberto Moreira de Almeida, o qual também adoto como razão de decidir: nesse cenário, verifica-se que a manutenção d a prisão preventiva foi adequadamente motivada pelo Tribunal a quo, que demonstrou, com base em elementos concretos, sua necessidade para preservação da ordem pública, ante a gravidade concreta da conduta e o risco de reiteração delitiva (fl. 148 ).
+Com base na jurisprudência e na manifestação ministerial, nego provimento ao presente recurso.
+Publi que -se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS (3 KG DE MACONHA). MANUTENÇÃO DA PRISÃO PREVENTIVA. RELEVANTE QUANTIDADE DE DROGA APREENDIDA. CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANT E. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido.
