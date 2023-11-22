@@ -1,0 +1,58 @@
+DECISÃO
+Cuida-se de agravo interno, interposto por ELIANA COSTA BRAZ, em face de decisão monocrática da Presidência do STJ (fls. 276-278, e-STJ), que não conheceu do agravo em recurso especial ante a aplicação da Súmula 182/STJ.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 229, e-STJ):
+EMENTA:
+ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. DÉBITO INCONTROVERSO. MORA PURGADA. ALEGAÇÃO DA RÉ DE CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DESNECESSÁRIA A PRODUÇÃO DE PROVAS RELACIONADAS À SUPOSTA QUITAÇÃO DO DÉBITO, ISSO PORQUE TAL QUESTÃO JÁ FOI RESOLVIDA EM AÇÃO PRÓPRIA AJUIZADA PELA RÉ EM FACE DA CREDORA. MÍDIA DA GRAVAÇÃO COM O CONTEÚDO DO ATENDIMENTO NO DIA DA FORMALIZAÇÃO DO ACORDO, QUE FOI DEPOSITADA NOS AUTOS DA AÇÃO DE OBRIGAÇÃO DE FAZER COMPROVA QUE A NEGOCIAÇÃO NÃO ENVOLVEU A DÍVIDA DO FINANCIAMENTO DO VEÍCULO, QUE É OBJETO DESTES AUTOS. SENTENÇA MANTIDA. VERBA HONORÁRIA SUCUMBENCIAL MAJORADA (ART. 85, § 11, DO CPC).
+Recurso improvido.
+Nas razões do recurso especial (fls. 235-243, e-STJ), a parte insurgente apontou, além de divergência jurisprudencial, violação aos artigos 355, I e 369, ambos do CPC; 15, §§ 2º, 3º e 4º, do Decreto 8.078/2008, aduzindo, em suma, a ocorrência de cerceamento de defesa, pois não lhe fora permitida a produção de prova relacionada ao fornecimento de gravação telefônica, em que foi negociada a quitação do contrato de financiamento do veículo.
+Sem contrarrazões (fl. 246, e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 247-250, e-STJ), o que ensejou o manejo do agravo de fls. 253-265, e-STJ, que não foi conhecido ante a aplicação da Súmula 182/STJ pela Presidência desta Corte Superior (fls. 276-278, e-STJ).
+Inconformada, interpôs o presente agravo interno (fls. 282-296, e-STJ), no qual a ora agravante combate o óbice supracitado e afirma ter impugnado de forma específica os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal estadual.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação (fl. 300, e-STJ).
+É o relatório.
+Decido.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida e passo, de plano, ao reexame do reclamo.
+A irresignação não merece prosperar.
+1. A controvérsia dos autos limita-se à verificação acerca do alegado cerceamento de defesa derivado da não produção da prova requerida.
+Com efeito, colhe-se dos autos que a Corte estadual, após análise detida dos elementos fático-probatórios que instruem o processo, concluiu ser inútil a produção da prova testemunhal, "vez que a questão restou resolvida na ação 1001356-44.2020.8.26.0153." (fl. 232, e-STJ), bem assim que a negociação feita entre as partes litigantes não envolveu o débito do financiamento do veículo, objeto destes autos.
+Nesse sentido, relevante a menção ao seguinte trecho do acórdão recorrido (fls. 231-232, e-STJ):
+Não obstante a combatividade da ré, não vislumbro o alegado cerceamento defensório.
+O julgamento antecipado não cerceou o direito de defesa da apelante. A petição inicial foi instruída com documentos e a contestação os enfrentou. As partes tiveram oportunidade de discutir e repudiar os pontos que entenderam adversos aos seus propósitos. Deu-se a satisfação dos princípios constitucionais da amplitude de defesa e do contraditório. A tese de defesa da ré nestes autos cinge-se à suposta quitação da dívida do financiamento do veículo através de negociação com a credora e, para a comprovação de seus argumentos, solicitou a apresentação das gravações dos atendimentos realizados através de contato telefônico junto à autora.
+Ocorre, contudo, que a questão relacionada à quitação do contrato de financiamento do veículo, sustentada pela ré, foi objeto da ação de obrigação de fazer cumulada com indenização por danos morais, processo nº. 10013356-44.220.8.26.0153, movida pela ré em face da autora, que foi julgada improcedente em razão da comprovação de que a negociação e quitação de dívida pela ré não envolveu o contrato de financiamento do veículo (fls. 168/171) . Contra tal decisão foi interposto recurso de apelação pela ré, que foi julgado improvido em 05.07.2022, conforme pude verificar em consulta realizada junto ao SAJ quando da elaboração deste voto.
+Logo, esta ação prescinde de provas, notadamente da apresentação das gravações dos atendimentos, pleiteada pela ré, isso porque se mostra inútil nova discussão relacionada ao inadimplemento do financiamento do veiculo vez que a questão restou resolvida na ação 1001356-44.2020.8.26.0153.
+Ademais, extrai-se da r. sentença proferida no proc. 1001356-44.2020 (fls. 168/171) que foi depositada naqueles autos a mídia com o conteúdo da gravação do atendimento realizado em 07.05.2020, dia em que a ré e a autora formalizaram o acordo para a quitação de dívida e, de acordo com a prova, a negociação não englobou o débito do financiamento do veículo, objeto destes autos.
+Desse modo, resta superada qualquer discussão quanto ao débito que deu origem ao ajuizamento desta ação, sendo certo que o julgador monocrático deu a melhor solução à controvérsia, razão pela qual a r. sentença deve ser mantida por seus próprios fundamentos.  grifou-se
+Com efeito, consoante disposto no art. 370 do CPC/2015, cabe ao juiz determinar, de ofício ou a requerimento, a produção das provas necessárias à elucidação das questões apresentadas pelas partes. Como consequência de tal potestade, prevê o parágrafo único do referido dispositivo, inclusive, que o magistrado deverá indeferir as diligências inúteis ou meramente protelatórias.
+Não há se falar, portanto, em cerceamento de defesa no caso, já que o Tribunal de origem, a partir das provas já produzidas, considerou inútil a produção da prova requerida. Rever tal entendimento, necessariamente, demandaria o revolvimento de matéria fático-probatória, o que se veda por força da Súmula 7/STJ. Precedentes:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ADJUDICAÇÃO DE BEM IMÓVEL. PESSOA JURÍDICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EXECUÇÃO DE HONORÁRIOS CONTRA SÓCIO COTISTA. FATO CONSTITUTIVO DO DIREITO DAS AUTORAS. INEXISTÊNCIA. DILAÇÃO PROBATÓRIA. JULGAMENTO ANTECIPADO. POSSIBILIDADE. CERCEAMENTO DE DEFESA. AFASTAMENTO. DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. COMPARECIMENTO ESPONTÂNEO. CIÊNCIA INEQUÍVOCA. SÚMULA N. 83/STJ. INTERESSE DE MENOR NÃO DEMONSTRADO. VIOLAÇÃO AFASTADA. DECISÃO MANTIDA.
+ ..
+2. Está pacificado no STJ o entendimento de que não configura cerceamento de defesa o julgamento da lide, devidamente embasado, sem a produção das provas tidas por desnecessárias pelo magistrado, uma vez que cabe a ele dirigir a instrução e deferir a produção das que considerar necessárias. Consequentemente, a análise da imprescindibilidade das provas pretendidas pela parte recorrente demandaria a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1236649/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CHEQUES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. MANUTENÇÃO DA DECISÃO AGRAVADA.
+ ..
+3. A jurisprudência do STJ é no sentido de que, sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa. Precedentes.
+4. Modificar a conclusão do Tribunal de origem no sentido de que é desnecessária a produção de outras provas para o julgamento da lide implica reexame de fatos e provas.
+5. Modificar a conclusão do Tribunal de origem implica reexame de fatos e provas.
+ ..
+7. Agravo conhecido. Recurso especial conhecido em parte e não provido.
+(AgInt no AREsp 1902855/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMERCIALIZAÇÃO DE APARELHOS E SERVIÇOS DE TELEFONIA MÓVEL. RESILIÇÃO UNILATERAL E IMOTIVADA DO CONTRATO ANTES DO TERMO FINAL. VIOLAÇÃO DO ART. 535, II, DO CPC/73. NÃO OCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Não configura cerceamento de defesa o julgamento antecipado da lide quando o juiz da causa entender adequadamente instruído o feito, declarando a prescindibilidade de dilação probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente. No caso, a verificação da necessidade da produção de prova pericial, faculdade adstrita ao magistrado, demandaria o revolvimento de matéria fática, inviável em recurso especial (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 625.454/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/09/2019, DJe 21/10/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. INDENIZAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO AO 535 DO CPC DE 1973. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. INVERSÃO DO ÔNUS DA PROVA. INCIDÊNCIA, MAIS UMA VEZ, DA SÚMULA 7 DO STJ.
+ ..
+3. "O magistrado é o destinatário da prova, competindo às instâncias ordinárias exercer juízo acerca da suficiência das que foram produzidas, nos termos do art. 130 do CPC. A avaliação tanto da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide (art. 330, I, do CPC), quanto da necessidade de produção de outras provas demandaria a incursão em aspectos fático-probatórios dos autos, inviável, portanto, em recurso especial (Súmula n. 7/STJ)" (AgRg no REsp 1449368/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/08/2014, Dje 27/08/2014).
+ ..
+5. Agravo interno de fls. 903/912 não conhecido e agravo interno de fls. 893/902 não provido.
+(AgInt no AREsp 1083997/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/08/2017, DJe 15/08/2017)
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+Registra-se, ainda, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Precedentes: AgInt no REsp 1765794/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020; AgInt no REsp 1886167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/10/2020, DJe 22/10/2020; AgInt no AREsp 1609466/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2020, DJe 23/09/2020.
+2. Do exposto, conhece-se do agravo para não conhecer do recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intime-se.
+EMENTA
