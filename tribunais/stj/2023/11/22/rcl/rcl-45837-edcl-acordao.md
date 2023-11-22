@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. OMISSÃO. FALTA DE INDICAÇÃO E DEMONSTRAÇÃO EXPRESSA DOS VÍCIOS PREVISTOS NO ART. 619 DO CPP. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+I - Dispõ e o artigo 619 do Código de Processo Penal, somente são cabíveis embargos de declaração quando configurada ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese.
+II - Nas razões dos aclaratórios o embargante aponta suposta omissão no julgado sustentando que o acórdão deixou de se manifestar "acerca das "Ordens" do Supremo Tribunal Federal; e também desta Corte Superior, (e até do CNJ..), que não foram cumpridas, e nem sobre os ABUSOS do Embargado, intimamente ligado ao caso em apreço", bem como apresenta uma série de requerimentos, apresentando argumentação completamente dissociada da matéria tratada nos presentes autos.
+III - Os embargos de declaração somente são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador. Entretanto, nos embargos de declaração em exame a embargante não apontou qualquer desses vícios, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula 284/STF. Precedente.
+Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RAIMUNDO JOSÉ DOS REIS FILHO, em face de v. acórdão prolatado pela col. Terceira Seção do Superior Tribunal de Justiça, assim ementado (fls. 37 - 38):
+"PROCESSO PENAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. NÃO PREENCHIMENTO DO REQUISITOS DOS ARTIGOS 105, INC. I, ALÍNEA F, DA CRFB E 988 DO CPC. UTILIZAÇÃO DO INSTITUTO COMO VIA RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+A reclamação não se mostra como a via adequada para revisar ou rejulgar decisão contrária ao interesse da reclamante, ainda que tenha contrariado julgados deste Tribunal em outros processos, porque a reclamação não pode funcionar como sucedâneo de recurso próprio, devendo, o reclamante, se valer do meio processual adequado.
+Agravo regimental desprovido."
+Alega o embargante omissão no julgado pois "não manifestou acerca das "Ordens" do Supremo Tribunal Federal; e também desta Corte Superior, (e até do CNJ..), que não foram cumpridas, e nem sobre os ABUSOS do Embargado, intimamente ligado ao caso em apreço" (fl. 39).
+Sustenta que "opõe o presente EMBARGOS, para ver esclarecidos os "fatos jurídicas" regularmente suscitadas pela parte, senão para "pre-questionar" a matéria, em especial as TORTURAS sofridos por este Advogado, ora Embargante, bem como, o DESCUMPRIMENTO das Ordens, desta Corte Superior,(e até do STF, e do CNJ..) junto ao caso, e principalmente os ABUSOS do Magistrado, ora Embargado" (fl. 40).
+Requer, ainda, seja:
+a) ""Oficiado" o Conselho Nacional de Justiça, para registro do presente (Reclamação, contra TORTURAS, "ordenadas" pelo Juiz de Direito, ora Embargado..) junto aos Autos 0008446-8420212 00 0000;
+b) ""suplica" por DETERMINAÇÃO liminar, para tratamento (medico) do Embargante, em face das lesões (GRAVES) sofridas na prisão, a "custas" do Estado, vez que, o Diretor Prisional, RECUSA a cumprir estas "Ordens Judiciais", por causa das INTERVENÇÕES do Magistrado ora Embargado;
+c) "Notificado" a Ordem dos Advogados do Brasil, para "manifestação" acerca dessas TORTURAS sofridas por este Advogado, e principalmente, para promover o que DETERMINA o Art. 44, II da Lei 8.906/94;
+d) ""Oficiado" a Corte Interamericana de Direitos Humanos, para registro dessas TORTURAS sofridas por este Advogado, ora elo Embargante, e comprovadamente "ordenadas" pelo Juiz de Direito, ora Embargado, junto aos Autos: P -725 -21"; e
+e) ""Oficiado" o Tribunal Penal Internacional, para registro dessas TORTURAS sofridas por este Advogado, ora elo Embargante, e comprovadamente "ordenadas" pelo Juiz de Direito, ora Embargado, junto aos Autos: OTP/CR -134/2023".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. OMISSÃO. FALTA DE INDICAÇÃO E DEMONSTRAÇÃO EXPRESSA DOS VÍCIOS PREVISTOS NO ART. 619 DO CPP. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+I - Dispõ e o artigo 619 do Código de Processo Penal, somente são cabíveis embargos de declaração quando configurada ambiguidade, obscuridade, contradição ou omissão, o que inexiste na hipótese.
+II - Nas razões dos aclaratórios o embargante aponta suposta omissão no julgado sustentando que o acórdão deixou de se manifestar "acerca das "Ordens" do Supremo Tribunal Federal; e também desta Corte Superior, (e até do CNJ..), que não foram cumpridas, e nem sobre os ABUSOS do Embargado, intimamente ligado ao caso em apreço", bem como apresenta uma série de requerimentos, apresentando argumentação completamente dissociada da matéria tratada nos presentes autos.
+III - Os embargos de declaração somente são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador. Entretanto, nos embargos de declaração em exame a embargante não apontou qualquer desses vícios, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula 284/STF. Precedente.
+Embargos de declaração não conhecidos.
+VOTO
+Os aclaratórios não merecem ser conhecidos.
+A demanda diz respeito à reclamação ajuizada por RAIMUNDO JOSÉ DOS REIS FILHO contra ato praticado pelo Juízo de Direito da Corregedoria dos Presídios do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no processo nº 4400327-05.2020.8.13.0701, objetivando a preservação da decisão proferida por esta Corte de Justiça, nos autos do RHC nº 177.017/MG.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade da decisão embargada.
+Todavia, nas razões dos aclaratórios o embargante aponta suposta omissão no julgado sustentando que o acórdão deixou de se manifestar "acerca das "Ordens" do Supremo Tribunal Federal; e também desta Corte Superior, (e até do CNJ..), que não foram cumpridas, e nem sobre os ABUSOS do Embargado, intimamente ligado ao caso em apreço", bem como apresenta uma série de requerimentos, apresentando argumentação completamente dissociada da matéria tratada nos presentes autos.
+Como é cediço, os embargos de declaração somente são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão sobre ponto sobre o qual deveria ter se pronunciado o julgador. Entretanto, nos embargos de declaração em exame a embargante não apontou qualquer desses vícios, de modo que a insurgência sequer merece ser conhecida, porquanto encontra óbice na Súmula 284/STF.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS PREVISTOS NO ART. 619 DO CÓDIGO DE PROCESSO PENAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS NÃO CONHECIDOS.
+Conforme assentado pela Corte Especial do Superior Tribunal de Justiça, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF" (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017).
+Embargos de declaração não conhecidos" (EDcl no AgRg no AREsp n. 2.142.317/SP, Quinta Turma, de minha relatoria, DJe de 17/4/2023).
+Conforme expressamente consignado na decisão embargada, não cabe reclamação na presente demanda. "A reclamação não se mostra como a via adequada para revisar ou rejulgar decisão contrária ao interesse da reclamante, ainda que tenha contrariado julgados deste Tribunal em outros processos, porque a reclamação não pode funcionar como sucedâneo de recurso próprio, devendo, o reclamante, se valer do meio processual adequado" .
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
