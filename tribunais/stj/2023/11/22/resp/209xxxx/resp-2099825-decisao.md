@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 375):
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. ART. 203, V, DA CONSTITUIÇÃO FEDERAL DE 1988. LEI Nº 8.742/93. PESSOA INCAPAZ. REQUISITO NÃO ATENDIDO.
+1. O direito ao benefício assistencial previsto no art. 203, V, da Constituição Federal pressupõe o preenchimento dos seguintes requisitos: a) condição de deficiente (incapacidade para o trabalho e para a vida independente, de acordo com a redação original do artigo 20 da Lei 8.742/93;
+ou impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir a participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas, conforme redação atual do referido dispositivo) ou idoso (neste caso, considerando-se, desde 01.01.2004, a idade de 65 anos); e b) situação de risco social (estado de miserabilidade, hipossuficiência econômica ou situação de desamparo) da parte autora e de sua família.
+2. Não atendidos os requisitos legais definidos pela Lei n.º 8.742/93, a parte autora não tem direito ao benefício assistencial de prestação continuada previsto no artigo 203, V, da Constituição Federal.
+Despacho determinando o sobrestamento do recurso especial até o julgamento da matéria constante do Tema 692/STJ (fl. 423).
+Às fls. 442-443, decisão da Vice-Presidência, determinando a devolução dos autos ao Órgão julgador do Regional, após a fixação da Tese constante do Tema 692 pelo STJ.
+A Turma julgadora realiza juízo de retratação. Veja a ementa do acórdão (fl. 474):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. ARTIGO 1.040, II, DO CÓDIGO DE PROCESSO CIVIL. TEMA 692 STJ.
+1. Se o acórdão desta Instância estiver em dissonância com as teses jurídicas fixadas pelo Supremo Tribunal Federal no julgamento de recurso extraordinário submetido à sistemática da Repercussão Geral, deve ser realizado o juízo de retratação para adequação do julgado, consoante artigo 1.040, II, do Código de Processo Civil.
+2. Caso em que a decisão proferida pela Turma deste Tribunal, ao julgar o presente recurso, diverge do entendimento pacificado pelo STJ quanto ao Tema 692.
+Em razões de recurso especial, sustenta ofensa aos artigos 927, III, do CPC/2015 e 115, II, da Lei n. 8.213/91, sustentando "sejam afastadas as limitações impostas pelo acórdão recorrido na aplicação da tese firmada esse Colendo STJ no Tema 692 ( REsp Repetitivo 1.401.560/MT e Pet 12.492/DF)" (fl. 496).
+Aduz (a) "que o STJ, ao reafirmar a tese fixada no Tema 692, autorizando a devolução dos valores recebidos a título de tutela antecipada posteriormente revogada, apenas limitou os descontos a 30% da renda mensal de eventual benefício ativo"; (b) que "Tratando-se de tese fixada em sede de Recurso Especial Repetitivo, sua observância é obrigatória pelos demais juízes e Tribunais, nos precisos termos do artigo 927, III, do CPC, não havendo qualquer amparo legal, por conseguinte, para que o Tribunal local imponha outras limitações"; (c) que "A realização dos descontos nos parâmetros fixados pelo STJ no Tema 692 e no artigo 115, II, da Lei 8.213/91 não viola o "princípio do valor mínimo"; (d) que "Não merece prosperar, outrossim, o argumento no sentido de que a repetibilidade do salário dos benefícios previdenciários haverá de obedecer também as hipóteses legais de penhorabilidade de salários aplicadas aos devedores no âmbito privado, em respeito aos princípios constitucionais da igualdade e da dignidade da pessoa humana"; e (e) "especificamente ao princípio da dignidade da pessoa humana, há que se ter cuidado para que sua reiterada invocação não o transforme em uma "fórmula vazia" (fls. 490-495).
+Por fim, caso o STJ entenda que o recurso versa sobre questão constitucional, o artigo 1.032 do CPC prevê que o recorrente seja intimado para emendar as razões recursais" (fl. 484).
+Com contrarrazões (fls. 498-502)
+Juízo positivo de admissibilidade às fls. 506-509.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Com efeito, a controvérsia relativa a que sejam afastadas as limitações impostas pelo acórdão recorrido na aplicação da tese firmada por esse Colendo STJ no Tema 692 ( REsp Repetitivo 1.401.560/MT e Pet 12.492/DF) foi dirimida com fundamento constitucional, especificamente com base no princípio da igualdade e na necessidade de garantia do mínimo existencial para salvaguardar a dignidade do devedor e sua família, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE.
+1. A Corte de origem dirimiu a controvérsia, relativa à incidência de ICMS na nacionalização de bem móvel, à luz de fundamento eminentemente constitucional, sendo inviável, por meio da via eleita, a revisão de tal entendimento, sob pena de usurpação da competência do STF.
+2. Agravo interno desprovido.
+(AgInt no AREsp 2040636/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 05/12/2022, Dje de 27/01/2023)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. REPERCURSSÃO GERAL. DISTINÇÃO. SOBRESTAMENTO. INVIABILIDADE.
+1. Conforme o art. 105, III, da CF/1988, o recurso especial não serve à pretensão de revisão de acórdão cuja conclusão se apoia em fundamentação constitucional.
+2. A questão jurídica a ser tratada no julgamento do Tema 536, submetido ao rito da repercussão geral pelo STF, não se amolda ao presente caso, razão pela qual se mostra inviável o sobrestamento dos autos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1933662/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 03/10/2022, Dje de 20/10/2022)
+Por fim, quanto ao pedido de aplicação do art. 1.032 do CPC, além da ausência de prequestionamento do referido artigo, a incidirem as Súmulas n. 211/STJ e 282 e 356 do STF, "o artigo 1.032 do CPC trata da aplicação do princípio da fungibilidade ao recurso especial que versar sobre questão constitucional, hipótese diversa da presente, em que não há equívoco quanto à escolha do recurso, mas, sim, inexiste interposição de recurso quanto ao capítulo do acórdão recorrido com fundamentação constitucional, de sorte que não há falar na sua aplicação" (AgInt no AREsp n. 1.328.399/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 16/2/2023).
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. DEVOLUÇÃO DE VALORES. ANTECIPAÇÃO DE TUTELA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
