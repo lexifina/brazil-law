@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão do Tribunal de Justiça do Estado de São Paulo, publicado na vigência do CPC/2015, assim ementado:
+"ACIDENTE DO TRABALHO - OPERADOR DE MÁQUINAS - MALES COLUNARES E LER/DORT NOS MEMBROS SUPERIORES - LAUDO MÉDICO PERICIAL CONCLUSIVO PELA EXISTÊNCIA DE INCAPACIDADE PARCIAL E DEFINITIVA - NEXO CAUSAL OCUPACIONAL RECONHECIDO PELO PERITO - SENTENÇA QUE CONCEDEU AUXÍLIO-DOENÇA ACIDENTÁRIO - AUXILIO-ACIDENTE COMO AMPARO MAIS ADEQUADO AO ESTADO DE SAÚDE DO AUTOR - BENEFÍCIO DEVIDO.
+Apelo do INSS e reexame necessário parcialmente providos. Recurso adesivo do autor desprovido" (fl. 213e).
+Opostos Embargos de Declaração, foram rejeitados (fls. 227/231e).
+Sustenta o recorrente, em apertada síntese, que o Tribunal de origem, ao dispensar a parte autora de devolver ao Erário os valores recebidos indevidamente, por força de antecipação dos efeitos da tutela, posteriormente revogada, violou os arts. 876, 884 e 885 do Código Civil, 520, II, do CPC/2015, 115, II, da Lei 8.21391.
+Por fim, requer "o provimento do presente Recurso Especial, com o reconhecimento da necessidade de restituição de valores pagos pelo Instituto em razão de antecipação de tutela posteriormente revogada" (fl. 275e).
+Devolvidos os autos, para eventual juízo de retratação - em razão do julgamento, pelo STJ, do REsp 1.401.560/MT (Tema 692/STJ) -, decidiu-se pela manutenção do acórdão recorrido (fls. 294/297e).
+Apresentadas as contrarrazões (fls. 286/288e), o Recurso Especial foi admitido, na origem.
+Assiste razão ao recorrente.
+Com efeito, a questão atrelada à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS, em virtude de decisão judicial precária, que venha a ser posteriormente revogada, foi objeto de análise no REsp 1.401.560/MT, sob o rito dos julgamentos repetitivos, tendo sido firmada a seguinte tese:
+"A reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+Posteriormente, foi proposta a revisão da referida tese, na Pet 12.482/DF, mas concluiu-se pela reafirmação do entendimento, nesses termos:
+"A reforma da decisão que antecipa os efeitos da tutela final obriga o autor da ação a devolver os valores dos benefícios previdenciários ou assistenciais recebidos, o que pode ser feito por meio de desconto em valor que não exceda 30% (trinta por cento) da importância de eventual benefício que ainda lhe estiver sendo pago".
+Registre-se que o STF, ao analisar o Tema 799/STF, afastou o reconhecimento de repercussão geral da matéria ora em análise. Prevalece, portanto, nesses casos, a tese firmada pelo STJ no julgamento do Tema 692/STJ, posteriormente reafirmada, quando do exame da Pet 12.482/DF.
+Do exame dos autos, verifica-se que o Tribunal a quo concluiu, no que interessa, que "tendo sido iniciado e concluído o processo de reabilitação profissional do obreiro antes do julgamento dos recursos, é mister ponderar que a situação concreta não permite alteração, devendo ser preservados os efeitos dos atos já praticados (inclusive o pagamento de auxílio-doença naquele interregno), mesmo com a revogação da tutela antecipada, o que ora se decreta" (fl. 217e), , dissentindo, assim, do firme entendimento desta Corte a respeito da matéria.
+Ante o exposto, conheço e dou provimento ao Recurso Especial, para possibilitar ao INSS, ora recorrente, a cobrança dos valores indevidamente recebidos pela parte autora, por força de antecipação dos efeitos da tutela, posteriormente revogada, consoante a jurisprudência desta Corte, firmada no julgamento do Tema 692/STJ e reafirmada no exame da Pet 12.482/DF.
+I.
+EMENTA
