@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por ANGELA CRISTINA PINHEIRO TENDZIGOLSKI E OUTROS contra acórdão prolatado, por unanimidade, pela 9ª Câmara de Direito Público do Tribunal de Justiça de São Paulo no julgamento de apelação, assim ementado (fls. 306/311e):
+RESPONSABILIDADE CIVIL DA CPTM Ação de indenização por danos materiais e morais - Acidente ferroviário- Atropelamento - Inexistência de nexo de causalidade entre ação/omissão da ré e os danos experimentados - Alegações de falta de segurança no local - Elementos que demonstraram que a vítima estava passeando pela linha férrea, em local inapropriado e não atentou para a aproximação do trem - Culpa exclusiva da vítima caracterizada Precedentes desta Corte de Justiça.
+R. sentença de improcedência mantida.
+Recurso improvido, com majoração da verba honorária.
+Opostos embargos de declaração, foram rejeitados (fls. 333/338e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i) arts. 489, 927 e 1.022 do Código de Processo Civil - "o Tribunal a quo ao decidir da forma realizada, conforme vem sendo debatido, deixou de se manifestar e seguir precedente deste Tribunal Superior, REsp nº 1.210.064/SP, tema repetitivo 517, que foi invocado pelos Recorrentes. Apesar de a questão ter sido apresentada ao longo do feito, o Tribunal a quo não demonstrou a existência de distinção de entendimento entre o precedente trazido (acórdão paradigma) e o caso em julgamento" (fl. 359e);
+ii) art. 371, I e II, do Código de Processo Civil - "o ônus de provar eventual excludente, sobretudo ante ao teor do artigo 373, inciso II do Código de Processo Civil, caberia à Recorrida e não aos Recorrentes. Outro não poderia ser o entendimento, até mesmo porque estaria o Juízo imputando aos Recorrentes o ônus da prova negativa, caso fosse exigido que comprovassem que a vítima não adotou qualquer outra conduta imprudente" (fl. 364e);
+iii) art. 2º, II, da Lei 8.987/1995 e arts. 6º, I, 8º, 14, § 1º, 17 e 22 do Código de Defesa do Consumidor - "a Recorrida responsável pelos acidentes que ocorrem nas linhas férreas que administra, bem como responsável por adotar todas as medidas de segurança necessárias a evitar que novos acidentes ocorram, no que se inclui a construção de murros intransponíveis, manutenção e implemento de segurança constante e sinalização adequada" (fl. 365e);
+iv) arts. 186, 927 e 945 do Código Civil - "inequívoco ter havido ato ilícito da Recorrida, uma vez que, recorda-se, não adotaram com as medidas de segurança, sinalização e fiscalização devidas, propiciando o acidente narrado nos autos" (fl. 366e).
+Com contrarrazões (fls. 394/401e), o recurso foi inadmitido (fls. 402/404e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 448e).
+Proferi decisão acolhendo a apontada violação ao art. 1.022 do Código de Processo Civil e determinei o determinando o retorno dos autos ao tribunal a quo, a fim de que fosse suprida a omissão indicada (fls. 463/474e).
+Nos autos, constam apenas a decisão de inadmissão do Recurso Especial, certidão de publicação, o Agravo em Recurso Especial e decisão de não retratação (fls. 480/533e).
+Posto isso, torno sem efeito a decisão (fl. 542e), determino a reautuação do feito como Agravo e CONVERTO o julga mento em diligência, determinando a devolução dos autos ao tribunal de origem, a fim de que seja juntado aos autos o acórdão resultado do cumprimento da determinação desta Corte (fls. 463/474e).
+Publique-se. Intime-se. Cumpra-se.
+EMENTA
