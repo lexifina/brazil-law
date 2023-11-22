@@ -1,0 +1,27 @@
+DECISÃO
+ROMERO BARROSO DE QUEIROZ alega sofrer constrangimento ilegal diante de decisão monocrática proferida por Desembargadora do Tribunal de Justiça do Estado do Ceará, que indeferiu a liminar na Revisão Criminal n. 0636685-12.2023.8.06.0000.
+Nesta Corte, a defesa sustenta a ilegalidade da busca e apreensão que ensejou a prisão em flagrante do réu, motivo pelo qual pretende sua absolvição. De modo subsidiário, pugna seja revista a dosimetria da pena.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que o writ de origem é conhecido como substitutivo de revisão criminal. Precedentes.
+3. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, pois a fundamentação adotada pelas instâncias ordinárias para fixar o regime inicial semiaberto está em harmonia com a jurisprudência da Suprema Corte e desta Corte Superior no sentido de que não há constrangimento ilegal na fixação de regime mais gravoso de cumprimento de pena caso a pena-base tenha sido fixada acima do mínimo legal por conta do reconhecimento de circunstâncias judiciais desfavoráveis dada a interpretação conjunta dos arts. 59 e 33, §§ 2º e 3.º, ambos do Código Penal. De fato, a imposição do regime prisional não está condicionada somente ao quantum da pena. Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020)
+Extrai-se dos autos que o ora paciente foi condenado, em sentença proferida no dia 5/4/2013, à pena de 7 anos de reclusão, em regime inicial fechado, mais multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, por fatos ocorridos em 15/7/2011.
+Irresignada, a defesa recorreu. O Tribunal a quo negou provimento ao apelo e rejeitou os embargos declaratórios opostos em face de tal acórdão.
+Contra o decisum, a defesa manejou recurso especial, que não foi admitido em juízo prévio de admissibilidade, o que ensejou a interposição de agravo em recurso especial. Nesta Corte Superior, o AREsp n. 1.144.167/CE não foi conhecido, em razão de sua intempestividade (fl. 624). Certificou-se o trânsito em julgado em 18/9/2017 (fl. 632).
+Comunicado o cumprimento do mandado de prisão expedido em desfavor do réu em 22/10/2023, a defesa apresentou revisão criminal, com pedido liminar, ocasião em que requer fosse "determinada a suspensão do início da execução da pena até julgamento definitivo da presente revisão criminal" (fl. 658) e, no mérito, "pugn ou  pelo julgamento procedente da revisão criminal com a consequente absolvição do Requerente, nos termos do art. 386, VII, do CPP" (fl. 658).
+Ao indeferir a medida liminar, a Desembargadora relatora consignou que "o pleito liminar demanda ainda o exame minucioso dos autos do processo e confunde-se com o próprio mérito, de forma que as questões postas deverão ser analisadas por ocasião do julgamento da revisional" (fl. 659).
+Na hipótese, a simples leitura da inicial deste habeas corpus evidencia que a análise da nulidade sustentada enseja exame acurado dos autos e, por isso mesmo, é medida incompatível com o provimento liminar. Assim, ressai correto o indeferimento do pedido de urgência pelo Desembargador e a consequente solicitação de esclarecimentos ao Juízo de primeiro grau, motivo pelo qual não há flagrante ilegalidade capaz de excepcionar o enunciado na Súmula n. 691 do STF.
+Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
