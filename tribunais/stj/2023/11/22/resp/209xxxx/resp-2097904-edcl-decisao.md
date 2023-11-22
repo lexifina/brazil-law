@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por MARCONI HOLANDA MENDES, contra decisão de minha lavra, publicada em 03/10/2023, que não conheceu do Recurso Especial.
+Inconformada, sustenta a parte embargante que "restou um ponto "data máxima vênia" contraditório" (fl. 603e). Para tanto, aduz o seguinte:
+"4. Exa., cumpre destacar que a questão dos honorários advocaticios em desfavor da Embargante se encontra em total contrariedade ao entendimento esposado no caput do artigo 85, bem como seu paragrafo primeiro e segundo. Vejamos:
+(..)
+5. Observe Exa., que a Lei é clara ao dispor que o vencido pagara os honorários advocaticios ao advogado do vencedor, e, apesar do entendimento em relação ao principio da causalidade, o mesmo principio se aplica em favor da Embargante, pois não se discute quem deu origem no crédito, mas sim a inercia do exequente embargado que deu origem a instauração de incidente de exceção de préexecutividade, por se manter inerte por longos anos.
+PRINCÍPIO DA CAUSALIDADE, aquele que deu causa à propositura da demanda ou à instauração de incidente processual deve responder pelas despesas daí decorrentes. "G.N."
+6. Observe, conforme já explanado, que o conceito do principio da causalidade não se limita tão somente àquele que deu causa a propositura da demanda e conforme se verifica na parte negritada e sublinhada do conceito acima, tal principio se estende àquele que deu causa a instauração de incidente processual.
+7. Nessa esfera "data máxima vênia" o ora Apelante trouxe em sua peça de defesa (que se entende como incidente processual, uma vez que trouxe matéria extintiva de ordem pulica que não se relaciona com o mérito da questão), o pedido de aplicação dos efeitos da prescrição intercorrente para extinção da demanda, uma vez que por longos anos o Apelado não movimentou devidamente os autos, FRISE-SE OS AUTOS PERMANECERAM ARQUIVADOS POR LONGOS ANOS.
+8. Cumpre destacar que a executada embargante teve que contratar advogado para postular em juízo o reconhecimento da prescrição, devendo então, PELO PRINCIPIO DA CAUSALIDADE o apelado ser condenada ao pagamento dos honorários advocatícios.
+9. Nesse sentido:
+(..)
+10. De qualquer modo, existindo a lei, cumpre observá-la, muito embora a sua observância deva ser feita após um processo e interpretação, no qual se confira destaque ao aspecto sistemático, a fim de não representar a lei uma forma de ultrajar direitos.
+11. No caso específico a condenação inserta na r. sentença, quando a parte teve que contratar profissional, que cuidadosa e zelosamente obteve êxito em extinguir uma demanda, deve ser tratada de forma objetiva e não desfavorecendo a parte vencedora.
+12. Desta forma requer sejam acolhidos o presente Embargos de Declaração, para efeito de ser excluído a condenação em honorários em desfavor da Embargante, condenando tão somente o embargado ao pagamento de honorários advocaticios, em 10% do valor atualizado da causa, conforme redação do artigo 85 do CPC" (fls. 605/607e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Intimada (fl. 611e), a parte embargada deixou transcorrer in albis o prazo para impugnação (fl. 621e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, não se verifica contradição na decisão embargada, que está, de fato, suficientemente clara, fundamentada e compreensível, no sentido que a fundamentação adotada no acórdão recorrido não foi impugnada pela recorrente, nas razões do Recurso Especial, a atrair o enunciado da Súmula 283/STF.
+Ademais, constata-se a contradição quando, no contexto do acórdão, estão contidas proposições inconciliáveis entre si, dificultando-lhe a compreensão. Com efeito, "o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (STJ, EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 14/08/2015).
+A rigor, o que deseja a parte embargante, em seu recurso, é provocar a rediscussão da matéria e não a correção dos vícios que permitem a oposição dos Embargos Declaratórios.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
+EMENTA
