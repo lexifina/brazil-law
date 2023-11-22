@@ -1,0 +1,105 @@
+DECISÃO
+Trata-se ação de reparação de danos por descumprimento contratual ajuizada por COMPANHIA NACIONAL DE ABASTECIMENTO (CONAB) contra CASA BERNARDO LTDA., atualmente denominada, BEQUISA INDÚSTRIA QUÍMICA DO BRASIL LTDA. (BENQUISA), por falhas nas obras e serviços indicados na inicial.
+A ação foi parcialmente procedente, em primeiro grau, mantiva a solução em sede apelação, nos termos do acórdão da Segunda Turma do Tribunal Regional Federal da 3ª Região, de relatoria do Desembargador Federal PEIXOTO JUNIOR, a seguir ementado (e-STJ, fls. 2.184/2.205):
+DIREITO PRIVADO. CONTRATOS. CONAB. FALHA DE EXECUÇÃO E PROJETO. INDENIZAÇÃO. PRAZO PRESCRICIONAL.
+I - Inaplicabilidade do prazo prescricional estabelecido no Decreto nº 20.910/32 ao caso dos autos, em que figura pessoa jurídica de direito privado da administração pública indireta eretrata contrato de natureza privada. Precedentes.
+II - Prescreve em vinte anos a ação para obter, do construtor, indenização por defeitos da obra, sendo o prazo previsto no art. 1.245 do CC/1916 referente a mera garantia da obra. Inteligênciada Súmula 194 do STJ.
+III - Laudo pericial realizado no imóvel localizado em Ribeira do Pombal/BA que não aponta com certeza o nexo de causalidade em relação às falhas verificadas, não concluindo com certeza que a situação verificada tenha decorrido de erro de execução da obra ou má qualidade do material empregado a justificar e autorizar a pretendida indenização, por outro lado o laudo pericial do silo localizado em Teixeira de Freitas/BA, sendo contundente na conclusão deque os problemas surgidos naquele imóvel decorreram da má execução da obra e inadequaçãoou má qualidade do material utilizado, ensejando, assim a responsabilização da ré ao pagamento de indenização.
+IV - Recursos desprovidos.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 2.389/2.399).
+Contra o acórdão, CONAB apresentou recurso especial, com fulcro no art. 105, III, a, da CF apontando violação do art. 1.245, do CC/16, ao sustentar, em resumo, demonstração da ocorrência de erros de projeto e de execução, utilização de material inadequado e de mão-de-obra desqualificada, o que se extrai do aresto recorrido que merece, portanto, ser revalorado para sua correta interpretação jurídica, em relação a obra relativa a unidade Ribeira do Pombal/BA (e-STJ, fls. 2.270/2.282).
+BEQUISA também apresentou recurso especial, com fulcro no art. 105, III, a e c, da CF, aduzindo, a par de dissídio jurisprudencial, violação dos arts. 489, § 1º, IV, V, VI, 1.022, II e parágrafo único, do CPC; do art. 1º, do Decreto n. 20.910/1032 e do art. 2º, do Decreto-Lei nº 4.597/1942, ao alegar, em síntese, (1) negativa de prestação jurisdicional; (2) aplicabilidade dos aludidos decretos, por se tratar de pessoa jurídica de direito privado em desenvolvimento de políticas públicas governamentais, para fins de reconhecimento da prescrição; e (3) que a responsabilidade civil do empreiteiro limita-se a solidez e segurança da obra, o que não se evidenciou (e-STJ, fls. 2.420/2.448).
+Foram apresentadas contrarrazões (e-STJ, fls. 2.493/2.500 e 2.504/2.529).
+Os recursos especiais foram inadmitidos na origem (e-STJ, fls. 2.619/2.623 e 2.624/2.625).
+Contra a decisão de inadmissão do apelo nobre, somente BEQUISA interpôs o correspondente agravo (e-STJ, fls. 2.629/2.647).
+Foi apresentada contraminuta (e-STJ, fls. 2.651/2.677).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com
+impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da prestação jurisdicional
+BEQUISA afirmou que o TRF3 teria violado os arts. 489 e 1.022 do CPC/15, porque afirmou que a relação jurídica estabelecida com a CONAB seria de natureza privada sem indicar fundamento para tanto.
+Não há falar em negativa de prestação jurisdicional, porque as questões relativas a legislação aplicável ao caso e o correspondente prazo prescricional, foram decididos de forma fundamentada, ainda que contrariamente aos interesses da BEQUISA.
+Ressalte-se que o julgador não está obrigado a examinar todos os argumentos aduzidos pela parte, quando tenha encontrado fundamentação suficiente para dirimir integralmente o litígio.
+Afasto o alegado.
+(2) Da inocorrência de prescrição
+Conforme se extrai do acórdão recorrido a pretensão da BEQUISA quanto ao reconhecimento da prescrição foi afastada, em consonância ao entendimento desta Corte Superior quanto a não aplicação do Decreto nº 20.910/1032 e do Decreto-Lei nº 4.597/1942, pois, embora seja uma pessoa jurídica de direito privado integrante da administração pública indireta, a pretensão deduzida decorreu de contrato de natureza privada (e-STJ, fls. 2.190 e 2.195).
+BEQUISA insistiu no cabimento das aludidas legislação para fins de reconhecimento da prescrição da pretensão inicial.
+Pois bem.
+O art. 1º do Decreto nº 20.910/32, cuja aplicação se requer, tem a seguinte redação:
+Art. 1º As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+O art. 2º, do Decreto-Lei nº 4.597/72, por sua vez, estabelece:
+Art. 2º O Decreto nº 20.910, de 6 de janeiro de 1932, que regula a prescrição qüinqüenal, abrange as dívidas passivas das autarquias, ou entidades e órgãos paraestatais, criados por lei e mantidos mediante impostos, taxas ou quaisquer contribuições, exigidas em virtude de lei federal, estadual ou municipal, bem como a todo e qualquer direito e ação contra os mesmos.
+Com se vê, as normas em comento têm em vista fixar o prazo prescricional de cinco anos para as ações a serem propostas contra a Fazenda Pública e entes equiparados.
+No caso dos autos, porém, a pretensão reparatória foi deduzida contra a BEQUISA, sociedade de direito privado comum que não exerce função pública, razão pela qual não seria útil, em princípio discutir se a CONAB poderia ser equiparada à Fazenda Pública, ou não.
+Ocorre que, pelo princípio da simetria, o prazo prescricional previsto no art. 1º, do Decreto nº 20.910/32 também tem sido aplicado quando a ação é proposta pela Fazenda Pública ou equiparados.
+Nesse sentido, a seguinte passagem do aresto proferido pela 1ª Seção, no julgamento de recurso especial repetitivo:
+De todo o exposto resulta que, conquanto se entenda não atribuir à Lei nº 9.873/99 aplicação subsidiária nos âmbitos estadual e municipal, eis que sua eficácia é própria do âmbito da Administração Pública Federal, direta e indireta, resta incontroverso, de todo o constructo doutrinário e jurisprudencial, que é de cinco anos o prazo prescricional para o ajuizamento da execução fiscal de cobrança de multa de natureza administrativa, contado do momento em que se torna exigível o crédito, com o vencimento do prazo do seu pagamento (cf. artigo 39 da Lei nº 4.320/64), aplicando-se o artigo 1º do Decreto nº 20.910/32 em obséquio mesmo à simetria que deve presidir os prazos prescricionais relativos às relações entre as mesmas partes e até autoriza, senão determina, a interpretação extensiva, em função de sua observância.
+(REsp 1.105.442/RJ, Rel. Ministro HAMILTON CARVALHIDO, Primeira Seção, DJe 22/2/2011).
+Assim, reconhecida a utilidade prática da discussão posta em causa, cumpre assinalar que a CONAB não pode ser equiparada à Fazenda Pública para efeito de aplicação, por simetria, do prazo prescricional de cinco anos previsto no art. art. 1º, do Decreto nº 20.910/32.
+As Turmas que compõem a propósito da equiparação 1ª Seção já assinalaram que a CONAB, precisamente porque também explora atividade econômica, não está submetida ao tratamento especial do art. 730 do CPC/73.
+Confira-se:
+PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. CUMPRIMENTO DE SENTENÇA. CONAB. RITO DO ART. 730 DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+(..)
+II - As empresas públicas responsáveis pela prestação de serviços públicos próprios do Estado, com o fim de atender as necessidades essenciais da coletividade, sem exercer a exploração de atividade econômica, gozam das prerrogativas previstas no art. 730 do CPC.
+III - Tal orientação não se aplica a empresa pública quando explora atividade econômica e atua em regime de concorrência com o particular, como no caso em exame. Precedentes do Supremo Tribunal Federal e desta Corte.
+IV - Cumprimento de sentença que deve observar a regra do art. 475-J do Código de Processo Civil.
+V - Recurso especial improvido.
+(REsp 1.350.985/PR, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 21/9/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONAB. EMPRESA PÚBLICA EXPLORADORA DE ATIVIDADE ECONÔMICA. IMPOSSIBILIDADE DE EXTENSÃO DAS PRERROGATIVAS CONFERIDAS À FAZENDA PÚBLICA. ART. 730 DO CPC. PRECEDENTES DO STF E DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. A Primeira Turma do STF, quando do julgamento do AgR-RE 713.731/DF, em que figurava, como parte recorrente, a CONAB, firmou o entendimento de que a ela não seriam aplicáveis as prerrogativas da Fazenda Pública, em virtude da sua natureza jurídica de empresa pública exploradora de atividade econômica.
+II. A Segunda Turma desta Corte entendeu que "a Conab, não obstante preste o serviço de fomento, também desempenha atividade econômica, atuando no mercado em regime de livre concorrência com as demais empresas, conforme se observa da análise do art. 7º do Decreto n. 4.514/02. Em razão disso, inaplicável a sua equiparação à Fazenda Pública, de modo que não se sujeita ao procedimento previsto no art. 730 do CPC" (STJ, REsp 1.422.811/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 18/11/2014).
+(AgRg no REsp 1.399.759/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 17/11/2015)
+PROCESSO CIVIL E ADMINISTRATIVO. AÇÃO MONITÓRIA. EMPRESA PÚBLICA FEDERAL. COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB. EQUIPARAÇÃO À FAZENDA PÚBLICA. AUSÊNCIA DE PREVISÃO LEGAL. INAPLICABILIDADE DO PROCEDIMENTO PREVISTO NO ART. 730 DO CPC. INAPLICABILIDADE DO REGIME DE PRECATÓRIOS.
+(..)
+4. Não é o simples fato de a empresa pública contemplar, dentre suas atividades, a prestação de serviço público que lhe garante, por si só, o tratamento dado à Fazenda. Tal equiparação pode ocorrer quando a estatal
+presta serviço exclusivamente público, que não possa ser exercido em
+regime de concorrência com os empreendedores privados e desde que haja previsão legal expressa conferindo essa prerrogativa, situação diversa dos autos.
+5. A Conab, não obstante preste o serviço de fomento, também desempenha atividade econômica, atuando no mercado em regime de livre concorrência com as demais empresas, conforme se observa da análise do art. 7º do Decreto n. 4.514/02. Em razão disso, inaplicável a sua equiparação à Fazenda Pública, de modo que não se sujeita ao procedimento previsto no art. 730 do CPC.
+6. Recursos especiais a que se negam provimento.
+(REsp 1.422.811/DF, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2014).
+Também há julgados, inclusive das Turmas que compõem a Segunda Seção, rechaçando, de forma específica a aplicação do Decreto nº 20.910/32 com relação à estatais exploradoras de atividade econômica.
+Por exemplo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. CONSTRUÇÃO DE CONJUNTO HABITACIONAL. PRAZO PRESCRICIONAL. SOCIEDADE DE ECONOMIA MISTA.
+1. A compreensão esposada pela Corte de origem está em desacordo da pacífica orientação do STJ de que o prazo prescricional quinquenal
+previsto no Decreto 20.910/1932 não se aplica às pessoas jurídicas de
+direito privado. Precedentes: REsp 1.608.717/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 26.6.2018; AREsp 640.815/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.2.2018; REsp 1.501.773/RS, Rel. Min. Diva Malerbi - Desembargadora Convocada, Segunda Turma, DJe 12.2.2016; REsp 1.247.370/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 14.9.2011.
+2. A parte recorrente é sociedade de economia mista. Incidência do prazo prescricional previsto no art. 206, § 3º, IV, do Código Civil.
+3. Recurso Especial provido.
+(REsp 1.648.042/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 19/12/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. VALORAÇÃO JURÍDICA DOS FATOS. NÃO INCIDÊNCIA DA SÚMULA 7 DO STJ. PRAZO PRESCRICIONAL. SOCIEDADE DE ECONOMIA MISTA. APLICAÇÃO DAS NORMAS DE DIREITO CIVIL.
+(..)
+2. O prazo de prescrição quinquenal, previsto no Decreto n.º 20.910/32 e no Decreto-Lei n. 4.597/42, aplica-se apenas às pessoas jurídicas de
+direito público (União, Estados, municípios, Distrito Federal, autarquias
+e fundações públicas), excluindo-se, portanto, as pessoas jurídicas de
+direito privado da Administração Pública Indireta (sociedades de economia mista, empresas públicas e fundações).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.715.046/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 14/11/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. REDE ELÉTRICA. INSTALAÇÃO. CONTRATO DE FINANCIAMENTO. SOCIEDADE DE ECONOMIA MISTA. ILEGITIMIDADE PASSIVA. REEXAME DE PROVA. PREQUESTIONAMENTO. PRESCRIÇÃO VINTENÁRIA. SÚMULA Nº 83/STJ. IMPOSSIBILIDADE. CORREÇÃO MONETÁRIA DEVIDA. (..)
+2. O prazo prescricional previsto no Decreto nº 20.910/1932 não é
+aplicável às concessionárias de serviço público que ostentem personalidade jurídica de direito privado 3. As sociedades de economia mista têm inequívoca natureza jurídica de direito privado, aplicando-se a elas a prescrição vintenária, consoante o disposto no art. 177 do Código Civil. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp 805.223/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 27/9/2018)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSOS ESPECIAIS. INTERRUPÇÃO DE FORNECIMENTO DE ENERGIA ELÉTRICA À INDÚSTRIA DE ALUMÍNIO. AÇÃO REGRESSIVA DAS SEGURADORAS PARA COBRANÇA DE INDENIZAÇÃO POR DANOS CONTRA A CONCESSIONÁRIA DE SERVIÇO PÚBLICO EM FUNÇÃO DA FALHA NA PRESTAÇÃO DO SERVIÇO. DENUNCIAÇÃO DA LIDE À FABRICANTE DA PEÇA CUJO MAU FUNCIONAMENTO TERIA DADO CAUSA AO DANO. IRRESIGNAÇÕES SUBMETIDAS AO CPC/73.
+(..)
+4. Mesmo que superado esse obstáculo de índole processual, seria de rigor reconhecer que o Decreto nº 20.910/32 não se aplica às sociedades de economia mista. (..)
+(REsp 1.539.689/DF, de minha relatoria, Terceira Turma, DJe 14/6/2018).
+Tendo em vista os precedentes supramencionados, forçosa a aplicação por analogia da Súmula 83, deste Tribunal, in verbis: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.
+Rejeito.portanto, a alegada prescrição.
+(3) Do mérito
+Quanto ao mérito, o TRF3, soberano na análise fático-probatória constante dos autos, assentou que (e-STJ, fls. 2.201/2.203):
+Já em relação ao silo localizado em Teixeira de Freitas/BA, agosto de 2000, a descrição do perito judicial sobre o estado geral da edificação é de "Acentuado processo de corrosão na totalidade dos parafusos da fixação das telhas, aspecto este muito mais intenso na parte externa da edificação, sendo que o fenômeno já se alastra para algumas telhas de fechamento; Corrosão generalizada no trecho inferior das telhas decontacto com o concreto, situação esta provocada pela deficiência de fechamento, região de impermeabilização e trincas no concreto das sapatas, acarretando naturalmente infiltração de água. Foram identificadas 28 trincas na fachada N e 18 na fachada S; Corrosão generalizada nos bocais das canaletas de aeração com destruição quase que total dos mesmos existentes na fachada N.
+Os bocais da fachada S embora estejam em melhor situação, ainda assima presentam o fenômeno corrosivo; Corrosão nos trechos retos dos dutos de aeração; Adiantado processo de corrosão em elementos da meia tesoura que compõe a estrutura da marquise; Portões do graneleiro apresentando grandes dificuldades para serem abertos."
+Respondendo aos quesitos formulados, consigna que "para a camada de 35 um, respectivamente, resistências entre 5 e 7 anos, e 10 a 12 anos até a necessidade da primeira manutenção, para as partes exteriores e de 15 a 20 anos para os elementos zinca dos submetidos às condições do interior do silo.
+O aparecimento de corrosão prematuro, antes de um ano é totalmente insólito e injustificado", que "Muito embora os fatores climáticos citados tenham de fato influência no fenômeno da corrosão, conforme foi mostrado na resposta a pergunta anterior, considerando-se que a edificação foi concluída entre 1987 e 1988 e já em 1992, técnicos da Autora já constatavam problemas de corrosão, a conclusão que se pode chegar é a de que a zincagem dos parafusos foi deficiente. Resulta como curiosa, foto constante do documentário fotográfico, na qual é mostrado trecho externo do silo com um único parafuso incólume, a galvanização impecável, entre os demais totalmente corroídos pelo intemperismo.
+Embora não possamos afirmar tal aspecto, consideramos remotíssima a possibilidade de que este único parafuso tenha sido substituído.
+Bem mais lógico é que o mesmo seja originário de uma diferente partida de fabricação contacto chapa x"; que "O próprio concreto sem uma impermeabilização ou a aplicação de uma junta de vedação favorece sobremaneira a letal penetração de água", que a existência de infiltrações de águas pluviais pelas junções das telhas autoportantes "Sem dúvida afetaria os grãos armazenados e numa tentativa de ";que "Indiscutivelmente, os problemas de corrosão prematura, assim como infiltração de água;nas bases das telhas, são problemas executivos de estrita responsabilidade da contratada" que "A corrosão prematura nos parafusos e telhas assim como na marquise e também a deficiência de impermeabilização das telhas inferiores e trincas na sapata baldrame, obviamente são problemas que surgiram independentemente do abandono e falta de manutenção aos quais o silo este submetido atualmente". respostas aos quesitos complementares, aduziu o perito judicial que "Nas A despeito do estado de abandono que se encontrava o silo, aspecto este em instante algum omitido, a julgar pelo acentuado processo de corrosão existente na marquise, a conclusão deste perito foi de que este fato decorreria certamente da utilização de processos não condizentes com a "adequada técnica de execução", a exemplo da utilização de perfisapresentando algum intemperismo quando da utilização, deficiências de jateamento e limpeza sprimers utilizados na base, insuficiência prévias, espessura insuficiente ou má qualidade dos de espessura da tinta de acabamento etc. Esta foi a motivação que norteou a inclusão do itemna tabela de fls.531, sendo indispensável um reparo de cunho semântico: Onde se lê no trecho grifado da pergunta .. A execução dos serviços de manutenção é imperiosa.., por favor, que seja considerado.."A execução dos serviços de recuperação é imperiosa também"; salientando que "Evidente que houve falta de manutenção no período decorrido entre o final da construção e a inspeção pericial. Em instante algum tal aspecto foi negado. Importante começou a ocorrer a partir do terceiro salientar, contudo, a maioria dos problemas relatados ano de construção. Não há como atribuir-se à falta de manutenção, problemas ocorridos tão prematuramente.
+Conclui-se, de tudo quanto apurado no exame pericial que, no tocante ao silo localizado em Teixeira de Freitas/BA, os problemas surgidos decorreram da má execução da obra e inadequação ou má qualidade do material utilizado, ensejando, assim ao pagamento de indenização.
+Como se vê, a Corte de origem reconheceu que, em relação ao silo localizado em Teixeira de Freitas/BA, ocorreram vícios passíveis de reparação por parte da BENQUISA, decorrentes da má qualidade do material utilizado e da má execução da obra.
+Assim, rever as conclusões no sentido de que tais vícios não afetaram a solidez e estrutura da obra, frise-se, amplamente evidenciado no aresto recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, vedado em razão do óbice da Súmula nº 7/STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS. DESCUMPRIMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. PRESCRIÇÃO. INOCORRÊNCIA. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DESTA CORTE. VÍCIOS DECORRENTES DE MÁ QUALIDADE DE MATERIAIS UTILIZADOS E MÁ EXECUÇÃO DA OBRA. RECONHECIMENTO NA ORIGEM. REVISÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. REVOLVIMENTO DO COJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
