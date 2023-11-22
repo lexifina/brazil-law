@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO FRANCISCO DE ABREU com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos da ação de obrigação de fazer com pedido de antecipação de tutela c/c reparação de danos materiais e morais.
+O acórdão foi assim ementado (fl. 186):
+APELAÇÃO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO DOMICILIAR. Paciente portador de doença pulmonar obstrutiva crônica. Indicação médica para tratamento de oxigenoterapia domiciliar de uso contínuo e fisioterapia respiratória. Sentença de procedência, para reconhecer o direito do autor à cobertura do tratamento conforme prescrição médica, em domicílio, bem como condenar a requerida ao pagamento de danos materiais no valor de R$ 430,00 e danos morais no importe de R$ 10.000,00. Inconformismo. Acolhimento em parte.
+1. Enfermidade prevista contratualmente. Indicação médica. Negativa indevida. Incidência das Súmulas 90 e 102 deste E. Tribunal de Justiça. Rol da ANS que constitui norma infralegal e não pode se sobrepor às disposições da Lei nº 9.656/98, nem às regras previstas no Código de Defesa do Consumidor. Predominância do direito à vida. Negativa abusiva. Aplicação da súmula nº 90 deste Tribunal de Justiça.
+2. Indenização material. Cabimento. Despesas efetuadas em razão da ilícita negativa de cobertura do tratamento prescrito 3. Indenização por danos morais. Descabimento. Negativa de cobertura que decorreu de interpretação contratual. Existência de dúvida razoável. Ausência de ofensa aos direitos da personalidade ou à honra do contratante.
+4. Sentença reformada. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido ofendeu os arts. 14, 47, 51, IV, da Lei n. 8.078/1990, 927 do CC e 1º, III, da CF.
+Defende que deve ser indenizado por dano moral, por ter o plano de saúde negado, de forma abusiva, a cobertura do tratamento indicado pelo médico assistente.
+Pondera que o dano moral é uma consequência lógica da negativa de cobertura, que viola os princípios da boa-fé objetiva e da função social do contrato, configurando, inclusive, afronta à dignidade do consumidor.
+Requer o provimento do recurso especial para que a sentença seja restabelecida quanto à obrigação da recorrida de indenizar os danos morais em questão e para que os honorários sejam fixados nos termos da sentença.
+Admitido o apelo extremo (fls. 260-261), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+I - Dano moral
+Trata-se de ação de obrigação de fazer c/c indenizatória em que a parte pleiteia a condenação da operadora do plano de saúde por danos morais decorrentes de recusa a tratamento.
+A Corte estadual reformou a sentença, afastando o pleito indenizatório, por ter sido a recusa de cobertura baseada em cláusula contratual e legislação pertinente.
+Ressaltou o acórdão recorrido a presença de dúvida razoável na interpretação da cláusula contratual pela operadora do plano de saúde, não tendo incorrido em ato ilícito que pudesse afetar os direitos de personalidade da parte ora recorrente. Vejam-se excertos do julgado (fl. 192):
+3. Por outro lado, no que tange aos danos morais, razão assiste à recorrente.
+Isto porque, a requerida se recusou a autorizar o tratamento domiciliar com base em cláusula contratual e legislação pertinente, de modo que a negativa da operadora não teve o condão de causar qualquer ofensa à dignidade do autor que justificasse uma indenização pecuniária.
+Vale dizer: verifica-se a existência de dúvida razoável na interpretação de cláusula contratual, por parte da operadora.
+Com efeito, havendo expressa previsão contratual de exclusão de cobertura de atendimento domiciliar de qualquer tipo, é possível afirmar que a ré não cometeu qualquer ato ilícito em negar autorização, sendo o seu comportamento, pois, traduzido em mero inadimplemento contratual, incapaz de caracterizar ato ilícito e de afetar os direitos de personalidade alheio.
+De fato, o dano extrapatrimonial, para ser indenizável, deve extravasar o campo de meros percalços e pequenas ofensas, atingindo intensamente os atributos da personalidade, o que não se verifica neste caso.
+A jurisprudência do STJ firmou-se no sentido de que "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022).
+Ainda sobre o tema, vejam-se estes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. TRANSTORNO DO ESPECTRO AUTISTA. TRATAMENTO. COBERTURA EXCEPCIONAL. ROL DA ANS. TAXATIVIDADE. MITIGAÇÃO. POSSIBILIDADE. PRECEDENTES. DANOS MORAIS. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7/STJ. VALOR DOS DANOS MORAIS. PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "é abusiva a negativa de cobertura de tratamento do Transtorno do Espectro Autista (TEA) pelo método escolhido pelo equipe de profissionais da saúde assistente com a família do paciente como mais adequado ao caso concreto" (AgInt no REsp n. 2.032.087/SP, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/12/2022, DJe de 14/12/2022), orientação seguida pelo Tribunal a quo.
+2. Conforme o entendimento desta Corte Superior, "o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente" (AgInt no AREsp n. 1.185.578/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/10/2022, DJe de 14/10/2022).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela existência de danos morais indenizáveis, pois a situação a que a parte agravada foi exposta, ante a recusa do custeio do tratamento de saúde, ultrapassou o mero dissabor.
+Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal a quo não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.981.629/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/4/2023, DJe de 12/4/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO PRESCRITO POR PROFISSIONAL HABILITADO. RECUSA INDEVIDA. MERO INADIMPLEMENTO CONTRATUAL. DANO MORAL NÃO CONFIGURADO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. De acordo com a jurisprudência desta Corte Superior, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente, o que não ficou evidenciado no caso dos autos.
+2. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial. (AgInt no AREsp n. 1.185.578/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 14/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE CIRURGIA. DANOS MORAIS NÃO CONFIGURADOS.
+1. Ação de obrigação de fazer c/c compensação por danos morais visando a cobertura de cirurgia de urgência.
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. Agravo interno não provido. (AgInt no REsp n. 2.038.621/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/3/2023, DJe de 15/3/2023.)
+Caso, pois, de aplicação da Súmula n. 83 do STJ.
+Assim, para que fique configurada a hipótese de cabimento de danos morais, é necessária a comprovação de que houve o agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente.
+Entretanto, na espécie, conforme acima exposto, o acórdão recorrido baseou-se nas provas dos autos para concluir que não ficaram caracterizados os danos morais, pois não ocorrera ofensa aos direitos da personalidade da parte recorrente.
+Assim, para concluir em sentido contrário e reconhecer o preenchimento dos pressupostos para a concessão da indenização por danos morais, é necessário o reexame do conjunto probatório dos autos, vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Ademais, em relação ao art. 1º, III, da CF, refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+II - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
