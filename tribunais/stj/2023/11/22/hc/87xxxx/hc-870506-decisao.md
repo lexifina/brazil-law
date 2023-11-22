@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Alexandre Jose da Silva - condenado à pena de 1 ano de reclusão, em regime inicial de cumprimento fechado, por ter praticado a conduta prevista no art. 180, caput, do Código Penal (fl. 276) -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação criminal n. 2023.0000978496/SP).
+Aqui, a defesa alega constrangimento ilegal, porquanto se trata de acusação de receptação de 4 carregadores de celulares, avaliados em em R$ 60,00 (sessenta reais), conforme auto de fl. 9. No caso em tela os fatos descritos são materialmente atípicos, tendo em vista a insignificância (fl. 4).
+Requer, assim, a concessão da ordem para que seja cassado o decisum impugnado, nos seguintes termos (fl. 13):
+ ..
+Por todo o exposto, a Impetrante requer a essa Egrégia Corte a concessão de medida liminar para que seja reconhecida a atipicidade da conduta em face da aplicação do princípio da insignificância, com absolvição do paciente, com fundamento no art. 386, II, do Código de Processo Penal. De forma subsidiária, pleiteia-se a fixação do regime inicial semiaberto, com aplicação da detração provisória para estabelecer o regime inicial aberto. No mérito, pleiteia-se a confirmação da medida liminar com absolvição do paciente, com fundamento no art. 386, inciso II, do Código de Processo Penal, com pedido subsidiário de fixação do regime inicial ABERTO.
+ ..
+É o relatório.
+O Supremo Tribunal Federal consagrou o entendimento de que, para a aplicação do princípio da insignificância, devem estar presentes, cumulativamente, as seguintes condições objetivas: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzido grau de reprovabilidade do comportamento do agente; e d) inexpressividade da lesão jurídica provocada (AgRg no HC n. 809.280/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/6/2023).
+Somado a isso, ressalte-se que este Superior Tribunal tem admitido, ocasionalmente, a aplicação do princípio da insignificância ainda que se trate de réu reincidente, considerando as peculiaridades do caso em exame, em que evidente a inexpressividade da lesão jurídica provocada e o reduzidíssimo grau de reprovabilidade do comportamento do agente (AgInt no AREsp n. 948.586/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/8/2016) - (AgRg no AREsp n. 2.299.771/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023).
+No caso, e excepcionalmente, são inequívocos a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade, a mínima ofensividade da conduta e, ainda, a inexpressiva lesão jurídica ocasionada, tendo em vista que se trata da subtração de 4 carregadores de celular, cujo valor não ultrapassa 10% do salário mínimo vigente à época dos fatos (R$ 60,00 - sessenta reais), não podendo ser desprezado, ainda, o fato de eles serem prontamente recuperados e de o delito ter sido praticado sem violência ou grave ameaça.
+Em face do exposto, concedo liminarmente a ordem para reconhecer a atipicidade da conduta em face da aplicação do princípio da insignificância (Ação Penal n. 1508569-57.2023.8.26.0050/SP) , com a absolvição do paciente, com fundamento no art. 386, III, do Código de Processo Penal, nos termos desta decisão.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. RECEPTAÇÃO. QUATRO CARREGADORES DE CELULAR. O VALOR TOTAL DA RES FURTIVAE - R$ 60,00. CONDENAÇÃO A QUO. PRINCÍPIO DA INSIGNIFICÂNCIA. INCIDÊNCIA EXCEPCIONAL APESAR DA REINCIDÊNCIA VERIFICADA NOS AUTOS. CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedida liminarmente nos termos do dispositivo.
