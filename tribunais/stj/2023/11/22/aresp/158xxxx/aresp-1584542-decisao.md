@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por ALAOR ANTÔNIO DOS SANTOS JÚNIOR e OUTROS, contra decisão que não admitiu recurso especial (fl. 78, e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 35, e-STJ):
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. PRODUTORES RURAIS. Decisão que determina a suspensão de execução promovida pelos agravantes em face dos agravados como consequência do deferimento do pedido de processamento da recuperação. PRELIMINAR. Não conhecimento dos argumentos relacionados à abrangência dos efeitos da recuperação judicial dos agravados aos créditos dos agravantes, assim como da sujeição dos bens dados em garantia. MÉRITO. EMPRESA INDIVIDUAL. Personalidade jurídica da empresa individual que não se distingue da pessoa física homônima. NATUREZA DECLARATÓRIA DO REGISTRO DOS PRODUTORES RURAIS NA JUCESP RECONHECIDA. Art. 971 do CC. Aplicação da teoria da empresa. Conceito jurídico de empresário determinado pelo efetivo exercício de atividade econômica organizada para a produção ou circulação de bens ou serviços, nos termos do art. 966, caput, do CC. Art. 48, caput, da LRF que apenas exige que o empresário que pleiteia a recuperação judicial exerça suas atividades há mais de dois anos, nada dispondo sobre a necessidade de registro na Junta Comercial por igual período. COMPETÊNCIA. Suspensão automática das ações e execuções promovidas em face dos devedores em recuperação judicial. Art. 6º, §4º, da LRF. Competência do juízo da recuperação para ordenar a suspensão das execuções sem que isso interfira na competência do juízo onde se tramita a execução individual(inciso III do art. 52 da Lei LRF). Decisão mantida. Recurso improvido.
+Em suas razões de recurso especial, os recorrentes, ora agravantes, apontam, além de dissídio jurisprudencial, ofensa aos artigos 48, da Lei 11.101/05, e 971 do CC. Sustentam, em síntese, que os agravados não comprovaram o requisito legal de exercício da atividade rural pelo período de 2 (dois) anos a partir do registro empresarial para fins de deferimento da recuperação judicial.
+Após a apresentação das contrarrazões (fls. 68/73, e-STJ), o apelo não foi admitido na origem (fl. 78, e-STJ), dando ensejo ao agravo (fls. 81/89, e-STJ), visando destrancar o processamento daquela insurgência, no qual os recorrentes refutaram os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 96/101, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1. Na hipótese, a Corte local consignou (fl. 2258, e-STJ):
+Diante de tais circunstâncias, não se vislumbra qualquer irregularidade no processamento do pedido de recuperação judicial formulado pelos agravados e, em especial, dos efeitos produzidos a partir do deferimento do seu processamento.
+Com efeito, o Superior Tribunal de Justiça fixou a seguinte tese no Tema Repetitivo n. 1.145: "Ao produtor rural que exerça sua atividade de forma empresarial há mais de dois anos é facultado requerer a recuperação judicial, desde que esteja inscrito na Junta Comercial no momento em que formalizar o pedido recuperacional, independentemente do tempo de seu registro".
+Assim, incide o óbice da Súmula 83/STJ .
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
