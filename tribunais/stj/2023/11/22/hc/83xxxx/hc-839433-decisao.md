@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JONATAS CARLOS DA SILVA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado pelas instâncias ordinárias à pena de 5 anos de reclusão, em regime inicial fechado, mais o pagamento de 500 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/06.
+Neste writ, alega a impetrante, em síntese, incidir em favor do paciente o princípio da insignificância, postulando pelo trancamento da ação penal.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 52-56).
+É o relatório.
+Decido.
+A tese vertida no presente mandamus não foi examinada pelo Tribunal de origem. Nesse contexto, inviável a análise inaugural do tema por esta Corte Superior de Justiça, sob pena de indevida supressão de instância. Cito precedente:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRINCÍPIO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+2. Os embargos devem ser acolhidos, sem efeitos infringentes, apenas para sanar omissão de questão suscitada pelo Ministério Público Federal, acerca da possibilidade de aplicação do princípio da insignificância no caso, matéria que não foi examinada pela Corte de origem, não devendo ser apreciada diretamente por esta Corte, para não se incorrer em indevida supressão de instância.
+3. Embargos de declaração acolhidos sem efeitos infringentes. (EDcl no HC n. 713.451/ES, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/11/2022, DJe de 25/11/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOMICÍLIO COMO EXPRESSÃO DO DIREITO À INTIMIDADE. ASILO INVIOLÁVEL. EXCEÇÕES CONSTITUCIONAIS. INTERPRETAÇÃO RESTRITIVA. EXISTÊNCIA DE FUNDADAS RAZÕES. LICITUDE DAS PROVAS OBTIDAS. TRANCAMENTO. IMPOSSIBILIDADE. DESCLASSIFICAÇÃO E APLICAÇÃO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 5º, XI, da Constituição Federal consagrou o direito fundamental à inviolabilidade do domicílio, ao dispor que a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+2. O Supremo Tribunal Federal definiu, em repercussão geral (Tema 280), que o ingresso forçado em domicílio sem mandado judicial apenas se revela legítimo - a qualquer hora do dia, inclusive durante o período noturno - quando amparado em fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto, que indiquem estar ocorrendo, no interior da casa, situação de flagrante delito (RE n. 603.616/RO, Rel. Ministro Gilmar Mendes, DJe 8/10/2010). No mesmo sentido, neste STJ: REsp n. 1.574.681/RS.
+3. No caso, depreende-se dos autos que os policiais fizeram campana em viatura descaracterizada e constataram, antes do ingresso na residência, que o corréu Everton comercializava drogas no local e que a paciente saía daquele imóvel para abastecer o ponto de venda. Assim, os elementos indicados apontam que a entrada foi precedida de fundadas razões objetivas e concretas quanto à existência de situação de flagrante delito no local, de modo que, ao menos por ora, dentro dos limites de cognição possíveis nesta etapa, não se constata ilegalidade patente que justifique o excepcional trancamento do processo, sem prejuízo de discussão mais aprofundada da dinâmica fática na fase instrutória.
+4. As teses defensivas de desclassificação para o crime do art. 28 da Lei de Drogas e aplicação do Princípio da Insignificância não foram analisadas pelo Tribunal de origem, o que impede a apreciação dessas questões diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir na indevida supressão de instância.
+5. Agravo regimental não provido. (AgRg no HC n. 749.057/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 20/9/2022, DJe de 26/9/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
