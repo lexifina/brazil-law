@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por ANTÔNIO CARLOS FELITO - PRODUTOR RURAL EM RECUPERAÇÃO JUDICIAL em face do JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE RONDONÓPOLIS - MT e do JUÍZO DA VARA DO TRABAHO DE JACIARA - MT.
+Ação em trâmite no Juízo Cível: recuperação judicial do suscitante.
+Ação em trâmite no Juízo do Trabalho: monitória n. 0000158-74.2020.5.23.0071, em fase de execução, movida pela CONFEDERAÇÃO DA AGRICULTURA E PECUÁRIA DO BRASIL em face do suscitante, objetivando o recebimento das contribuições sindicais rurais referentes aos exercícios de 2015, 2016 e 2017.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo recuperacional é o único competente para dirimir questões que afetem o patrimônio da parte devedora, sob risco de prejudicar o cumprimento do plano de soerguimento. Pleiteia, liminarmente, seja determinado o sobrestamento do processo trabalhista e designado o juízo recupercional para resolver, em caráter provisório, as medidas urgentes.
+Tutela antecipada: indeferida às fls. 127/129, e-STJ.
+Parecer do MPF: manifestou-se pelo não conhecimento do conflito.
+RELATADO O PROCESSO, DECIDE-SE.
+O STJ assentou o entendimento, em observância às alterações trazidas com o advento da Lei 14.112/20, em especial a previsão do art. 6º, § 7º-B, da Lei 11.101/2005, de que "a caracterização de conflito de competência perante esta Corte de Justiça pressupõe a materialização da oposição concreta do Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação judicial a respeito do ato constritivo" (CC 181.190, Segunda Seção, DJe 7/12/2021).
+Consoante estabelece o aludido dispositivo, compete ao juízo da recuperação judicial determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento do processo de soerguimento, mediante cooperação jurisdicional.
+Na hipótese dos autos, verifica-se das informações prestadas que o Juízo Laboral proferiu despacho, recentemente, consultando o administrador judicial sobre eventual essencialidade dos valores bloqueados nos autos trabalhistas.
+Diante desse contexto, não se observa a existência de decisões conflitantes entre o Juízo Laboral e o Juízo Universal, quanto à execução das contribuições sindicais rurais de que trata o presente incidente, ao revés, há observância do princípio da cooperação judicial, inexistindo, portanto, conflito a ser dirimido.
+Nesse sentido:
+AGRAVO INTERNO. RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DE EXECUÇÃO FISCAL NO JUÍZO DO TRABALHO. CUSTAS E CONTRIBUIÇÃO PREVIDENCIÁRIA. RESSALVA PELO JUÍZO TRABALHISTA DE QUE A EVENTUAL CONSTRIÇÃO DE BEM DE CAPITAL SEJA COLOCADA À DISPOSIÇÃO DO JUÍZO DA RECUPERAÇÃO JUDICIAL PARA AFERIR SE É OU NÃO ESSENCIAL À MANUTENÇÃO DAS ATIVIDADES DA EMPRESA. LEI N. 14.112/2020. AUSÊNCIA DE CONFLITO DE COMPETÊNCIA.
+1. O §7º-B, incluído pela Lei n. 14.112/2020, no art. 6º da Lei n. 11.101/2005, além de manter a regra que não impedia o prosseguimento da execução fiscal, no juízo respectivo, limitou a atuação do juízo da recuperação judicial apenas e tão somente à substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial, até o encerramento da recuperação.
+2. No caso concreto, tendo o juízo do trabalho feito expressa ressalva de que o bem de capital porventura penhorado na execução fiscal (contribuição previdenciária e custas) deverá ser posto à disposição do juízo da recuperação judicial para averiguar a essencialidade, forçoso é concluir que não existem dois juízos se entendendo competentes, pois as decisões judiciais, em realidade, dando eficácia ao novo regramento legal, se complementam. Não há conflito positivo de competência. Manutenção da decisão monocrática que assim concluiu.
+3. Agravo interno desprovido. (AgInt no CC 182.059/PE, Segunda Seção, DJe 21/2/2022)
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E JUSTIÇA LABORAL. CONTRIBUIÇÕES SINDICAIS. COOPERAÇÃO JUDICIAL. OBSERVÂNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. Consoante a jurisprudência do STJ, "a caracterização de conflito de competência perante esta Corte de Justiça pressupõe a materialização da oposição concreta do Juízo da execução fiscal à efetiva deliberação do Juízo da recuperação judicial a respeito do ato constritivo" (CC 181.190, Segunda Seção, DJe 7/12/2021), situação não verificada na hipótese.
+2. Conflito de competência não conhecido.
