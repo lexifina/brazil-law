@@ -1,0 +1,83 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0700365-78.2023.8.07.0020APELANTE(S)RAFAEL DUARTE DE SOUZAAPELADO(S)INSTITUTO AMERICANO DE DESENVOLVIMENTO,REITORA DA UNIVERSIDADE DO DISTRITO FEDERAL - UNDF,DISTRITO FEDERAL,PRESIDENTE DA COMISSAO CONCURSOS DO IADES - INSTITUTO AMERICANO DE DESENVOLVIMENTO e UNIVERSIDADE DO DISTRITO FEDERAL PROFESSOR JORGE AMAURY MAIA NUNES - UNDFRelatorDesembargador FERNANDO HABIBE
+ Acórdão Nº1791679
+
+EMENTA
+
+ p{text-align: justify;}Apelação cível. Mandado de segurança. Concurso Público.
+É vedado ao Poder Judiciário substituir, mesmo pontualmente, a banca examinadora de concurso público para aferir respostas do candidato e a nota a elas atribuídas (STF, RE 632.853, Tema 485).
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FERNANDO HABIBE - Relator, ARNOLDO CAMANHO - 1º Vogal e JAMES EDUARDO OLIVEIRA - 2º Vogal, sob a Presidência do Senhor Desembargador ARNOLDO CAMANHO, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 01 de Dezembro de 2023
+
+Desembargador FERNANDO HABIBERelator
+
+RELATÓRIO
+
+O impetrante apela (id 47766624) contra a sentença da 2ª Vara da Fazenda Pública (id 47766619) que denegou segurança consistente na determinação à autoridade apontada como coatora para que lhe atribua a pontuação (2,0) referente ao item C/C (coesão e coerência), conforme consta no espelho de prova, alterando o resultado definitivo de 5,98 para 6,48 na prova discursiva e restabelecendo sua classificação pretérita, com a convocação para as próximas etapas do concurso público da Universidade do Distrito Federal (UNDF), para provimento de vagas e cadastro de reserva para os cargos de Professor de Educação Superior e de Tutor de Educação.
+
+Alega, em suma, que após ser submetido às avaliações, constatou graves erros da banca examinadora, quando da divulgação de seu desempenho, que contrariam o edital, impedindo-o de avançar no certame, quais sejam, erro material na divulgação da nota da prova discursiva, uma vez que a real observada no espelho de prova é de 6,48 (id 47766153) enquanto a divulgada no resultado final (id 47766154, fl. 48) foi de 5,98, sendo assim suprimido 0,5 pontos da sua prova.
+
+Assevera que a banca errou ao atribuir nota diferente da alcançada no caderno de respostas da prova dissertativa, não existindo razão para decair a média do resultado definitivo.
+
+Indeferi o pedido de tutela de urgência (id 48242709).
+
+Em contrarrazões (id 47766628), o apelado defende o desprovimento do recurso.
+
+VOTOS
+
+O Senhor Desembargador FERNANDO HABIBE - Relatorp{text-align: justify;}O apelo repete, essencialmente, razões antes apresentadas pelo autor e que foram analisadas na sentença, cujos fundamentos adoto, como razões de decidir, com a vênia devida ao MM. Juiz Daniel Eduardo Branco Carnacchioni (id 47766619):
+“(...) Em sede inicial, o impetrante argumenta que a organização do concurso cometeu ato ilegal diante da divergência entre as notas atribuídas à sua prova discursiva no concurso para provimento de vagas e cadastro de reservas ao cargo de professor de educação superior da UNDF, eis que a nota do espelho de correção é 6,48 e a nota divulgada corresponde a 5,98.
+Pois bem.
+Inicialmente, cabe destacar que, em relação ao controle jurisdicional sobre concursos públicos, não há possibilidade de o Poder Judiciário imiscuir-se na aferição de critérios e valorações de correção da própria banca examinadora, como pretende claramente o impetrante, e tampouco poderá questionar a formulação das questões e avaliar as respostas, sob pena de violação dos princípios da separação de poderes.
+O Poder Judiciário não pode substituir a banca examinadora, para rever os critérios adotados pela banca. A questão de concurso público somente pode ser invalidada pelo Judiciário no caso de manifesta ilegalidade, jamais a partir de interpretação sobre conceitos, teorias e formulações que dependem de interpretações.
+Se o Judiciário passar a corrigir provas de questões que demandam valoração ou análise subjetiva haverá interferência indevida no mérito administrativo, o que é inadmissível.
+Nesse sentido, o Supremo Tribunal Federal (STF) fixou a tese de que os critérios adotados por banca examinadora de um concurso não podem ser revistos pelo Poder Judiciário (Tema 485 de Repercussão Geral). Assim, não compete ao Judiciário substituir a banca examinadora para avaliar respostar, apreciar critérios na formulação de questões objetivas, fazer o exame e corrigir provas ou reavaliar notas, salvo em casos de ilegalidade:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 23.10.2018. DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. TEMA 485 DA REPERCUSSÃO GERAL. CRITÉRIOS ADOTADOS POR BANCA EXAMINADORA. SUBSTITUIÇÃO PELO PODER JUDICIÁRIO. IMPOSSIBILIDADE. PRECEDENTES. 1. O acórdão recorrido destoa da jurisprudência desta Corte, sedimentada no julgamento do RE RG 632.853, Rel. Min. Gilmar Mendes, DJe 29.06.2015 (tema 485), no sentido de que não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora de concurso para avaliar respostas dadas às questões e notas pertinentes, salvo na hipótese de ilegalidade, de ocorrência de erro flagrante nas questões impugnadas, o que não se verificou na hipótese em análise. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC. Majorados em em ¼ (um quarto) os honorários fixados anteriormente, nos termos do art. 85, § 11, do CPC, devendo ser observados os §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita. (RE 1070361 ED-AgR, Relator(a):  Min. EDSON FACHIN, Segunda Turma, julgado em 25/10/2019, PROCESSO ELETRÔNICO DJe-244 DIVULG 07-11-2019 PUBLIC 08-11-2019)
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EXIGÊNCIA DE MATÉRIA SUPERVENIENTE AO EDITAL. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. NÃO-OCORRÊNCIA. RECURSO IMPROVIDO. 1. Orienta-se a jurisprudência no sentido de que ao Poder Judiciário compete a análise das questões pertinentes à legalidade do edital e ao cumprimento das suas normas pela banca examinadora. Em regra, não cabe o exame do conteúdo das questões formuladas em concurso público. 2. Hipótese em que ao se exigir do candidato conhecimento a respeito da Emenda Constitucional 45/04, promulgada posteriormente à publicação do edital, a banca examinadora não se desvinculou do conteúdo programático e, por conseguinte, não violou o princípio da legalidade, conferindo, ainda, prazo razoável, superior a 3 (três) meses, para que o candidato se preparasse adequadamente para as provas. 3. Recurso ordinário improvido. (RMS 21.743/ES, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 09/10/2007, DJ 05/11/2007, p. 292). (grifos nossos)
+Com mesmo fundamento há decisões deste Tribunal de Justiça acerca do tema:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ADVOGADO DA TERRACAP. ANULAÇÃO DE QUESTÃO DE PROVA OBJETIVA. INEXISTÊNCIA DE ILEGALIDADE. SEGURANÇA DENEGADA. 1. Ao Poder Judiciário cabe, tão-somente, a análise da legalidade e regularidade das normas editalícias, bem como da adequação das questões ao edital. Por conseguinte, não pode o Magistrado, pois, imiscuir-se nos critérios de correção em si, sob pena de adentrar no mérito do ato administrativo. 2. Verificado que a questão impugnada veicula matérias incluídas no conteúdo programático previsto no edital que rege o certame, não se encontra evidenciada qualquer ilegalidade apta a impor o reconhecimento da nulidade da questão, com a consequente atribuição da pontuação respectiva. 3. Remessa de ofício e Apelação Cível conhecidas e providas. (Acórdão n.960632, 20150110187993APO, Relator: NÍDIA CORRÊA LIMA 1ª TURMA CÍVEL, Data de Julgamento: 03/08/2016, Publicado no DJE: 24/08/2016. Pág.: 117-126).
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. XLI CONCURSO PÚBLICO PARA PROVIMENTO DE CARGOS DE JUIZ DE DIREITO SUBSTITUTO DA JUSTIÇA DO DISTRITO FEDERAL. PRELIMINAR DE PERDA DO INTERESSE DE AGIR. LIMINAR INDEFERIDA. PROSSEGUIMENTO DO CERTAME COM A REALIZAÇÃO DA FASE SEGUINTE. NÃO ACOLHIMENTO. MÉRITO. QUESTÃO OBJETIVA. IMPUGNAÇÃO. INSURGÊNCIA CONTRA OS CRITÉRIOS DE CORREÇÃO DA BANCA EXAMINADORA. ALEGAÇÃO DE COBRANÇA DE CONTEÚDO NÃO PREVISTO NO EDITAL. ILEGALIDADE NÃO DEMONSTRADA. SEGURANÇA DENEGADA. (...) 2. O Poder Judiciário, no controle jurisdicional da legalidade, não pode imiscuir-se nas razões da banca examinadora de concurso público para reexaminar as questões formuladas ou os critérios de correção da prova, sob pena de invadir o mérito administrativo, somente podendo atuar diante de flagrante ilegalidade. 3. A opção da Comissão de Concurso de acolher recurso administrativo e alterar o gabarito de questão da prova objetiva, tornando determinada alternativa correta em detrimento de outra, demonstra a adoção de uma interpretação que se coaduna com o texto de lei, de modo a afastar o controle jurisdicional por não haver ilegalidade manifesta. 4. Verificado que a matéria cobrada na questão impugnada consta do conteúdo programático do edital normativo, não se acolhe a alegação de ilegalidade por cobrança de matéria alheia a exigida. 5. Preliminar de perda superveniente do interesse de agir rejeitada. No mérito, segurança denegada. (Acórdão n.878908, 20150020031740MSG, Relator: ROBERVAL CASEMIRO BELINATI CONSELHO ESPECIAL, Data de Julgamento: 30/06/2015, Publicado no DJE: 09/07/2015. Pág.: 172). (grifos nossos)
+Desse modo, verifica-se que a análise judicial deve ser restrita ao controle de legalidade dos atos do concurso público.
+No caso ora em comento, o impetrante aponta a ocorrência de suposta ilegalidade no certame realizado, a qual passo a analisar.
+Em síntese, o impetrante impugna a nota atribuída à sua prova discursiva no concurso para provimento de vagas e cadastro de reservas ao cargo de professor de educação superior da UNIDF. Afirma que a nota real é 6,48 e a nota final divulgada corresponde a 5,98. Relata, assim, que houve divergência entre as notas do espelho de correção e a divulgada, o que violaria seu direito líquido e certo. Ao final, pugna pela concessão da segurança para que seja atribuída a pontuação que consta no seu espelho de prova, para que o resultado definitivo passe de 5,98 para 6,48.
+No caso, observa-se que o impetrante discute os critérios relacionados à correção da prova discursiva, que denotam interpretação, da qual, não se extrai a alegada ilegalidade. Vejamos.
+ O edital prevê no item questionado que:
+“12.1.1 A prova discursiva será corrigida por 2 (dois) avaliadores. Caso as correções divirjam em mais de 25% (vinte e cinco por cento) da nota máxima da questão, uma terceira correção será realizada. A nota final da discursiva será a média das duas notas atribuídas pelos dois avaliadores, caso haja convergência entre os dois primeiros avaliadores, ou a média das duas notas mais próximas, caso haja uma terceira correção.”
+Observa-se que o edital é claro e inequívoco no sentido de que as correções devem divergir em mais de 25% (vinte e cinco por cento) da nota máxima da questão, para que terceira correção seja realizada.
+No caso do impetrante, em consulta ao site da organizadora do concurso (IADES), verifica-se que a maior nota do impetrante na questão pontuada pelo primeiro avaliador foi 8,73, e a menor nota, a qual fora pontuada pelo segundo avaliador, foi de 6,23. A divergência entre as referidas notas é igual a 2,5, que, em termos percentuais, segundo a banca examinadora, equivale a 40,13%, ultrapassando, portanto, o montante de 25% definido no edital.
+De acordo com as informações prestadas pela autoridade coatora (ID 150503247, pág. 9):
+“(...) Insta esclarecer que o item 12 do edital normativo apresentou as determinações acerca da etapa de prova discursiva, sendo que o subitem 12.1.1 dispõe que a prova discursiva será corrigida por 2 (dois) avaliadores e caso as correções divirjam em mais de 25% (vinte e cinco por cento) da nota máxima da questão, uma terceira correção será realizada, sendo que a nota final da discursiva será a média das duas notas atribuídas pelos dois avaliadores, caso haja convergência entre os dois primeiros avaliadores, ou a média das duas notas mais próximas, caso haja uma terceira correção.
+Desta forma, esclarecemos que foram convocados para a correção da prova discursiva, todos os candidatos em que a diferença da maior nota do candidato na questão com a menor nota do candidato na questão, resultou no percentual de mais de 25% (vinte e cinco por cento). A divergência entre as notas 8,73 e 6,23 é igual a 2,50, que em termos percentuais a discrepância equivale a 2,5/6,23 = 0,4013 = 40,13%, ou seja, com o aumento de 40,13 % no menor valor, chega-se ao maior (máximo) valor.”
+Logo, constata-se que o envio da prova do impetrante a um terceiro avaliador ocorreu de acordo com a regras previstas no edital.
+Neste ponto, destaca-se que a nota atribuída pelo terceiro avaliador ao impetrante foi no valor de 5,98 (conforme se verifica no resultado divulgado pela banca em site), cálculo este que ocorreu conforme determina o edital normativo.
+Não há que se falar, portanto, como aduz o impetrante, em divergência entre as notas do espelho de correção e a divulgada. No caso, o cálculo da nota final na questão impugnada se deu de acordo com as regras previstas no edital.
+Desta forma, não se constata qualquer violação ao edital. O edital é absolutamente claro e inequívoco em relação ao pressuposto para uma terceira correção, que foi devidamente observado pela banca.
+Observa-se, assim, que, no caso ora em comento, não há que se falar em ilegalidade quanto aos atos praticados pelas autoridades coatoras. Conforme demonstrado, apenas foram cumpridas as normas editalícias e a legislação que rege o caso em questão.
+Ressalta-se que o edital estabelece as normas do concurso e deve ser interpretado restritivamente, sob pena de ofensa aos princípios da legalidade, da vinculação objetiva e da isonomia. E, conforme orientação firmada pelo Colendo STJ, compete ao Judiciário a verificação da legalidade do edital e o cumprimento das suas normas pela comissão responsável pelo certame. Inexistindo ilegalidade, não cabe ao Judiciário adentrar no mérito das questões elencadas pelo impetrante, sob pena de violação ao princípio da separação dos poderes.
+Portanto, diante da ausência de ilegalidade manifesta no que diz respeito aos critérios adotados no concurso em comento, bem como diante da impossibilidade de o Poder Judiciário realizar juízo de valor tais questões, a improcedência dos pedidos é medida que se impõe. (...)”
+Com efeito, o apelante almeja, em síntese, a prevalência da nota que entende correta sobre a que foi divulgado em caráter definitivo pela banca examinadora do concurso.
+No entanto, é vedado ao Judiciário substituir, mesmo pontualmente, a banca examinadora para aferir critérios de correção das notas atribuídas a candidato.
+Atente-se, a propósito, para o precedente vinculante do STF:
+EMENTA
+Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido. (RE 632.853, Tema 485, julgado em 2015).
+Como informado pelo próprio apelante em seu recurso, as suas notas foram:
+Avaliador 1: 8,73
+Avaliador 2: 6,23
+Avaliador 3: 5,73
+Dessa forma, segundo o próprio “print” (id 47766624 - Pág. 8) juntado pelo impetrante em seu recurso, a nota final deveria ser a média dos dois primeiros avaliadores ou a média das duas notas mais próximas, caso houvesse uma terceira correção.
+No caso, as duas notas mais próximas foram 5,73 e 6,23, cuja média resulta em 5,98, exatamente a nota atribuída ao candidato.
+Assim, a alegada divergência de notas decorreu da submissão de sua prova a uma terceira correção, de acordo com as regras editalícias, conforme a fundamentação da sentença impugnada.
+Posto isso, nego provimento ao apelo.
+
+O Senhor Desembargador ARNOLDO CAMANHO - 1º Vogal Com o relatorO Senhor Desembargador JAMES EDUARDO OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO. UNÂNIME
