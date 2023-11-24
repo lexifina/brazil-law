@@ -1,0 +1,118 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. REQUISIÇÃO DE PEQUENO VALOR. AUMENTO DO LIMITE PELA LEI DISTRITAL. SÚMULA N. 280/STF. MATÉRIA CONSTITUCIONAL. MANUTENÇÃO DA DECISÃO RECORRIDA. DESPROVIMENTO DO AGRAVO INTERNO.
+I - Na origem, trata-se de execução por quantia certa contra a Fazenda Pública. No Tribunal a quo, revogou-se a decisão que determinou a expedição de RPV limitada a 20 (vinte) salários-mínimos, em homologação à renúncia ao crédito excedente formulada pelo credor, diante da não aplicabilidade, ao caso, da Lei Distrital n. 6.618/2020, bem como o cancelamento da requisição de pequeno valor, na preclusão da decisão.
+II - Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+III - É preciso destacar que o entendimento jurisprudencial do STJ reconhece a natureza constitucional dos princípios contidos no art. 6º da LINDB, de tal modo que não podem ser elencados como objeto de recurso especial.
+IV - No mais, a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei Distrital n. 6.618/2020). Logo, a revisão do julgado recorrido, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016.
+V - Além disso, observa-se que a questão controvertida foi decidida também sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial. Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+VI - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interposto por M DE OLIVEIRA ADVOGADOS & ASSOCIADOS, contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, da Constituição Federal.
+Na origem, foi ajuizada execução por quantia certa contra a Fazenda pública com valor da causa atribuído em R$ 192.895,34 (cento e noventa e dois mil, oitocentos e noventa e cinco reais e trinta e quatro centavos).
+Após decisão que revogou anterior deferimento de expedição de requisição de pagamento limitado ao teto de 20 salários-mínimos, com base na Lei Distrital n. 6.618/2020, foi interposto Agravo Interno com pedido de reconsideração, ao fundamento de que a referida lei distrital aumentou o limite de valor para expedição de RPV no âmbito do Distrito Federal, de forma que não encontraria óbice no Tema n. 792 do STF.
+O TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS negou provimento ao agravo interno da parte autora, ficando consignado que, ainda que se considere como marco fixador da norma aplicável a data da propositura da execução, não seria aplicável a Lei Distrital n. 6.618/2020 ao caso.
+O referido acórdão foi assim ementado, in verbis:
+AGRAVO INTERNO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. REQUISIÇÃO DE PEQUENO VALOR. AUMENTO DO LIMITE PELA LEI Distrital nº 6.618, de 8-junho-2020. INAPLICABILIDADE ÀS EXECUÇÕES ORIUNDAS DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO ANTES DA VIGÊNCIA DA NOVA NORMA (TEMA 792/STF). AGRAVO INTERNO DESPROVIDO.
+1. O Supremo Tribunal Federal firmou a tese de que  Lei disciplinadora da submissão de crédito ao sistema de execução via precatório possui natureza material e processual, sendo inaplicável a situação jurídica constituída em data que a anteceda  (RE 729.107/DF, TEMA 792/STF).
+2. Quanto ao marco temporal para enquadramento do crédito como obrigação de pequeno valor, esclareceu o voto condutor do RE 729.107/DF (provido, à unanimidade) que deve ser o trânsito em julgado da sentença, com a formação do título executivo judicial.
+3. A ação coletiva em questão transitou em julgado muito antes da entrada em vigor da Lei Distrital 6.618, de 8-junho-2020, que elevou de 10 (dez) para 20 (vinte) salários-mínimos o teto para expedição de RPV no âmbito do Distrito Federal, e a execução individual também foi proposta em período anterior, tornando-se inaplicável ao caso a nova disciplina.
+4. Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Após o julgamento do RE n. 729.107 (Tema n. 792/STF), os autos retornaram à Câmara Julgadora para eventual juízo de retratação, a qual manteve o acórdão ora recorrido, ficando assim ementado o julgado, in verbis:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. JUÍZO DE CONFORMIDADE. TEMA 792 DO STF. ARTIGO 1.030, INCISO I, ALÍNEA "A", CPC. RECURSO NÃO PROVIDO.
+I - O acórdão recorrido coincide com a orientação firmada pelo Supremo Tribunal Federal no RE 729.107, paradigma do Tema 792 da lista de matérias com repercussão geral daquela Corte.
+II - Agravo interno conhecido e não provido.
+Contra a decisão cuja ementa se encontra acima transcrita, foi interposto recurso especial, apontando violação do art. 6º da LINDB e dos arts. 14 e 1.022 do CPC.
+Apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+O agravo foi conhecido para não conhecer do recurso especial.
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Primeiramente, essa decisão merece ser revista e melhor refletida, porque houve sim, no juízo de origem, omissão quanto ao fato de que leis em vigor devem ser aplicadas de forma imediata nos processos em curso, respeitadas as decisões consolidadas, conforme a previsão contida nosarts.14 do CPC e 6º da LINDB.
+Portanto, demonstrada especificadamente a ofensa ao art. 1.022, II, do CPC, e a necessidade de aplicação ao caso vertente da literalidade dos comandos supracitados, tornando-se perfeitamente possível a compreensão da controvérsia, dúvidas não restam acerca do desacerto da decisão atacada.
+Em segundo lugar, não há falar na incidência também daSúmula280do STF, pois não foi invocada qualquer Lei do Distrito Federal nas razões do recurso especial. Diferentemente, a matéria devolvida à essa Col. Corte trata de questões federais, por ser evidente a afronta direta aos artigos 14 do CPC e 6º da LINDB, conforme bem demonstrados nos fundamentos acima delineados.
+O fato do acórdão recorrido ter invocado a Lei 6.618/2020,não impede o conhecimento do recurso, porque a discussão trazida ao conhecimento da Corte não diz respeito ao seu conteúdo e/ou à sua interpretação, mas sim à sua aplicabilidade imediata ou não, tratando-se de discussão que afeta toda e qualquer norma jurídica, independentemente da sua natureza federal ou local.
+ ..
+Mas, mesmo que assim não se entenda, o que se admite apenas para argumentar, a pacífica jurisprudência dessa Corte reconhece que o simples fato do acórdão recorrido ter se fundamentado em Lei local não constitui óbice ao conhecimento e admissão do recurso especial, senão vejamos, verbis:
+ ..
+Sendo assim, resta evidente a viabilidade do recurso inadmitido e a superação do óbice da Súmula 280/STF, bem como a imperiosa necessidade de reforma da decisão a quo, como forma de garantir a correta interpretação/aplicação da legislação correlata.
+Em terceiro lugar, cumpre ressaltar que a matéria constitucional invocada no acórdão recorrido foi devidamente arguida no Recurso Extraordinário interposto pelo agravante, no qual, foi apontado a afronta direta ao disposto nos arts.5º, XXXVI e LXXVIII, e 100, §§3º e 4º, da Constituição Federal, bem como a violação ao precedente firmado no julgamento do Tema 792 do Supremo Tribunal Federal -STF -em razão da sua má aplicação no acórdão recorrido.
+Além disso, por ter expressa e nítida violação a diversas normas infraconstitucionais, foi manejado o recurso especial -por afronta direta aos artigos 14 do CPC e 6º da LINDB.
+ ..
+Ademais, é plenamente possível discutir a matéria de repercussão geral no enfoque infraconstitucional, conforme dispõe o art. 1.040, I, do CPC, porque o presente apelo especial se utilizou da técnica do distinguishing para demonstrar que o Tema 792/STF não se aplica na hipótese vertente e que se busca o cumprimento do art. 14 do CPC, pois o Tribunal a quo não observou que a norma processual (Lei nº 6.618/2020) deve ser adotada imediatamente ao processo, tratando-se de questão que possui assento infraconstitucional, podendo essa Corte se pronunciar a respeito.
+Ademais, há que se ressaltar que é pacífico o entendimento de que a discussão, in casu, da existência de direito adquirido, da ofensa à coisa julgada e ao ato jurídico perfeito,(previstos no art. 6º da LINDB)não ostenta natureza constitucional, restando circunscrita ao plano infraconstitucional, conforme bem demonstram os seguintes precedentes, todos assim ementados, verbis:
+ ..
+Por fim, há que se ressaltar o distinguishing que o em. relator não observou que a agravante demonstra a necessidade de ser afastada a aplicação dos precedentes citados (AgRr nos EDcls no REsp 1045877/DF e REsp1944685/DF),utilizados como fundamento para aplicação do óbice da Súmula 83 dessa Corte.
+A uma, porque o entendimento firmado no bojo do AgRr nos EDcls no REsp1045877/DF refere-se à não aplicação de Lei posterior que reduziu de 40 (quarenta) para 10 (dez) salários mínimos o teto da Requisição de Pequeno Valor, enquanto que, no presente feito se discute a aplicabilidade imediata da lei que majorou o limite para expedição do requisitório de pagamento (RPV), de 10 (dez) para 20 (vinte) salários mínimos.
+Observa-se que, na hipótese vertente deve ser aplicada a máxima in mellius, onde a Lei posterior ao ajuizamento do cumprimento de sentença individual da ação coletiva, que majorou o teto para a expedição das requisições de pequeno valor no Distrito Federal, deve ser aplicada desde logo, eis que favorece os jurisdicionados que tem valor a serem recebidos perante a Fazenda Pública e viabilização a concretização da razoável duração do processo, bem como sua efetividade.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ART. 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. REQUISIÇÃO DE PEQUENO VALOR. AUMENTO DO LIMITE PELA LEI DISTRITAL. SÚMULA N. 280/STF. MATÉRIA CONSTITUCIONAL. MANUTENÇÃO DA DECISÃO RECORRIDA. DESPROVIMENTO DO AGRAVO INTERNO.
+I - Na origem, trata-se de execução por quantia certa contra a Fazenda Pública. No Tribunal a quo, revogou-se a decisão que determinou a expedição de RPV limitada a 20 (vinte) salários-mínimos, em homologação à renúncia ao crédito excedente formulada pelo credor, diante da não aplicabilidade, ao caso, da Lei Distrital n. 6.618/2020, bem como o cancelamento da requisição de pequeno valor, na preclusão da decisão.
+II - Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+III - É preciso destacar que o entendimento jurisprudencial do STJ reconhece a natureza constitucional dos princípios contidos no art. 6º da LINDB, de tal modo que não podem ser elencados como objeto de recurso especial.
+IV - No mais, a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei Distrital n. 6.618/2020). Logo, a revisão do julgado recorrido, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016.
+V - Além disso, observa-se que a questão controvertida foi decidida também sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial. Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+VI - Agravo interno improvido.
+VOTO
+Não merece reparos a decisão agravada.
+Em relação à alegada violação do art. 1.022 do CPC/2015, verifica-se que a recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca dos dispositivos legais apresentados nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar de que forma houve a alegada violação, pelo Tribunal de origem, dos dispositivos legais indicados pela recorrente. Incidência da Súmula n. 284/STF.
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 535 DO CPC DE 1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DO TERMO DE TRANSAÇÃO HOMOLOGADO PELO JUIZ. DOCUMENTO EMITIDOS PELO SIAPE. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a assertiva de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão incorreu em omissão, contradição ou obscuridade. Aplica-se na hipótese o óbice da Súmula 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1492093/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/08/2020, DJe 13/08/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. IPI. SAÍDA DO ESTABELECIMENTO DO CONTRIBUINTE. AUSÊNCIA. MERO DESLOCAMENTO DO PRODUTO PARA PRESTAÇÃO DE SERVIÇOS. NÃO INCIDÊNCIA.
+(..)
+2. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+(..)
+8. Recurso especial conhecido em parte e desprovido.
+(REsp 1402138/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/05/2020, DJe 22/05/2020.)
+É preciso destacar que o entendimento jurisprudencial do STJ reconhece a natureza constitucional dos princípios contidos no art. 6º da LINDB, de tal modo que não podem ser elencados como objeto de recurso especial.
+Confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO GENÉRICA. SÚMULA 284/STF. FERROVIÁRIOS APOSENTADOS E PENSIONISTAS. FEPASA. EXTENSÃO AO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA/PENSÃO DOS REAJUSTES SALARIAIS REFERENTES AO IPC DE MARÇO/1990 E ABRIL/1990. PRINCÍPIOS PREVISTOS NO ART. 6º DA LINDB. DIREITO ADQUIRIDO. NATUREZA CONSTITUCIONAL. JULGAMENTO AFETO AO SUPREMO TRIBUNAL FEDERAL. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+(..)
+2. O entendimento jurisprudencial do STJ reconhece a natureza constitucional dos princípios contidos no art. 6º da LINDB, de tal modo que não podem ser elencados como objeto de Recurso Especial.
+(..)
+5. Recurso Especial não conhecido.
+(REsp 1804896/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/05/2019, DJe 18/06/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 6º DA LINDB. CARÁTER CONSTITUCIONAL. ACÓRDÃO FUNDAMENTADO EM NORMA DE DIREITO LOCAL. SÚMULA 280/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. MULTA. VALOR EXORBITANTE. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça entende que os princípios contidos no art. 6º da LINDB (direito adquirido, ato jurídico perfeito e coisa julgada) possuem contornos nitidamente constitucionais, motivo pelo qual não podem ser objeto de recurso especial.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 704.489/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/08/2017, DJe 23/08/2017.)
+No mais, a questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei Distrital n. 6.618/2020). Logo, a revisão do julgado recorrido, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016.
+Além disso, observa-se que a questão controvertida foi decidida também sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, in verbis:
+A pretensão do Agravante não comporta acolhimento, pois esbarra na tese cogente firmada pelo Supremo Tribunal Federal no RE 729.107/DF, sujeito a repercussão geral, cujo acórdão foi publicado no dia 15-setembro-2020.
+O precedente da Suprema Corte, relatado pelo Ministro Marco Aurélio, e julgado em sessão do dia 8-junho-2020, estabeleceu a seguinte tese (tema 792):
+ ..
+O recurso extraordinário paradigma, que transitou em julgado em 25-março-2021, foi interposto pelo SINDIRETA/DF, pleiteando o reconhecimento da natureza material da lei que alterou o teto para a expedição de RPV no âmbito do Distrito Federal, repercutindo na sua inaplicabilidade às situações jurídicas constituídas em data anterior à entrada em vigor da norma.
+De fato, conforme aventando pela parte Agravante, a hipótese do recurso paradigma referia-se à Lei Distrital n. 3.624/2005 que reduziu o teto para expedição de RPV de 40 (quarenta) para 10 (dez) salários-mínimos (logo, houve aumento, e não redução desse limite, conforme estabelecido na Lei Distrital nº 6.618/2020, ora indigitada).
+Ocorre que a razão de decidir pela inaplicabilidade da lei nova às situações já constituídas é a mesma: a natureza não só processual, mas também material da lei da submissão do crédito ao sistema de precatório, o que afasta a incidência do artigo 14 do Código de Processo Civil, invocado pelo Agravante 1 .
+Inclusive, a tese firmada em repercussão geral (Supremo Tribunal Federal no RE 729.107/DF) não se limitou a tratar, especificamente, da inaplicabilidade da Lei Distrital n. 3.624/2005, que foi objeto do recurso paradigma, nem restringiu o entendimento pela natureza material apenas das normas que reduzam o teto para pagamento via RPV.
+Ao revés, a tese firmada é clara ao estabelecer genericamente que lei disciplinadora do limite para pagamento via RPV ou precatório tem natureza não só processual, mas também material. Desta forma, não é cabível a restrição/interpretação pretendida pelo Agravante.
+Outrossim, quanto ao marco temporal para enquadramento do crédito como obrigação de pequeno valor, esclareceu o Ministro prolator do voto condutor do Recurso Extraordinário (provido, à unanimidade), que deve ser o trânsito em julgado da sentença, com a formação do título executivo judicial. Vejamos a transcrição do voto do relator eminente Ministro Marco Aurélio:
+ ..
+Registre-se que a Lei Distrital 5.475/2015, que elevou para 40 (quarenta) salários-mínimos o valor máximo das obrigações de pequeno valor, foi declarada inconstitucional pelo Conselho Especial desta Corte, no âmbito da ação direta de inconstitucionalidade 2015.00.2.014329-8, de maneira que permanece vigente a legislação anterior (Lei Distrital 3.624/2005).
+Dessa maneira, aplicando-se à hipótese a tese cogente firmada pela Suprema Corte, impõem-se o afastamento da disciplina da nova norma, mantendo-se a incidência da Lei Distrital 3.624/2005, que definiu, em seu artigo 1º, "caput", o valor máximo das obrigações de pequeno valor a serem pagas pelo Distrito Federal e pela sua Administração Pública Direta e Indireta em 10 (dez) salários-mínimos. (fls. 352-356)
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI 12.546/2011. MP 774/2017. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+(..)
+2. Ao decidir a lide, o Tribunal de origem se apoiou em fundamentação eminentemente constitucional, referente aos princípios da anterioridade nonagesimal, com previsão no art. 195, § 6o. da CF/1988, e da legalidade. Assim, não há como alterar as conclusões obtidas pelo acórdão recorrido sem que haja usurpação da competência do Supremo Tribunal Federal. Precedente: REsp. 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, DJe 22.4.2019.
+(..)
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1859437/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPTU. IMUNIDADE RECÍPROCA. RFFSA. SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+(..)
+2. Da leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (imunidade tributária recíproca  art. 150, VI, a, da CF/88 e jurisprudência do STF).
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1692609/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
