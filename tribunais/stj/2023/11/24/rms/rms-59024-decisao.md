@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança (fls. 487/493) interposto por NADIA MARA AGUSTINI, com fundamento no art. 105, II, b, da CF/1988, contra o acórdão denegatório de fls. 384/397, originariamente proferido pelo Tribunal de Justiça do Estado de Santa Catarina.
+Tira-se dos autos que a recorrente ativou pedido de segurança contra alegado ato ilegal atribuído ao MM. JUIZ DE DIREITO DIRETOR DO FORO DA COMARCA DE DESCANSO/SC, consubstanciado na Portaria 06/2017, de 30/1/2017, pela qual MIRIAN WRONSKI (litisconsorte passiva necessária) foi nomeada para responder interinamente pelo Tabelionato de Notas e Protestos de Títulos da Comarca de Descanso/SC, em detrimento da impetrante, tudo motivado pelo fato de que esta, a despeito de ser a substituta mais antiga da referida serventia, é sobrinha do titular do Cartório de Registro de Imóveis da mesma Comarca, circunstância que esbarraria em vedação expressa constante do art. 107, § 4º, do Código de Normas da Corregedoria-Geral de Justiça do TJSC.
+Na petição de fls. 764/765, acompanhada dos documentos de fls. 766/784, a a correcorrida MIRIAN WRONSKI sustenta a perda superveniente do objeto da subjacente impetração, uma vez que a partir de 12/9/2023 encerrou-se sua interinidade perante o Tabelionato de Notas e Protestos de Títulos de Descanso/SC, em virtude da posse do Tabelião titular.
+O ESTADO DE SANTA CATARINA corroborou a informação de que "a posse da Tabeliã Titular do Tabelionato de Notas e Protestos da comarca de Descanso/SC ocorreu em 12/09/2023, nomeada através do ato GP n. 1661/2023, incorrendo assim na perda superveniente do interesse recursal na presente demanda" (fl. 803), conforme demonstra o documento de fl. 815.
+Intimada a se manifestar sobre tal documento, a parte recorrente quedou-se silente (fl. 822).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Com cediço, o interesse de agir ou processual configura-se com a existência do binômio necessidade-utilidade da pretensão submetida ao Poder Judiciário.
+Nessa toada, considerando-se que já houve a nomeação do titular do Tabelionato de Notas e Protestos de Títulos da Comarca de Descanso/SC, resta evidenciada a perda superveniente do objeto da subjacente impetração, na qual se discutia eventual ilegalidade na escolha do interino para a aludida serventia.
+ANTE O EXPOSTO, declaro prejudicado o presente recurso ordinário em mandado de segurança em virtude da perda superveniente do objeto da impetração.
+Publique-se.
+EMENTA
