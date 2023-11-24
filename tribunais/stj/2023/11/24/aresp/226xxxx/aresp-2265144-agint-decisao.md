@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por CENTRAL VIP LOCADORA DE VEÍCULOS LTDA., contra a decisão da Presidência deste Superior Tribunal de Justiça (fls. 242/244, e-STJ) que não conheceu do agravo em recurso especial devido à ausência de impugnação dos fundamentos da decisão agravada.
+Em suas razões, a parte agravante aduz que "todas as assertivas efetivas no recurso de agravo de despacho denegatório de recurso especial impugnou a decisão proferida pelo Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo, não existindo no presente caso a incidência da Súmula 182 do STJ" (fl. 254, e-STJ).
+Impugnação às fls. 258/263 (e-STJ).
+É o relatório.
+DECIDO.
+Em virtude dos argumentos expostos pela parte agravante, reconsidera-se a decisão de fls. 242/244 (e-STJ) e passa-se à análise do apelo nobre, haja vista se encontrarem preenchidos os requisitos de admissibilidade do agravo em recurso especial.
+Trata-se de recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, inter posto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Etapa de cumprimento de julgado. Dívida de locação de bens móveis. Incidente para desconsideração da personalidade jurídica da devedora, rejeitado. Recurso da credora. Desprovimento" (fl. 84, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 102/104, e-STJ).
+No recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, I, do Código de Processo Civil - porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios e
+(ii) arts. 50, § 1º do Código Civil e aos artigos 133, § 2º, e 134, §2º, do Código de Processo Civil - sustentando a necessidade de desconsideração da personalidade jurídica da empresa diante da comprovação do abuso caracterizado pelo desvio de finalidade e pela confusão patrimonial e da formação de grupo econômico.
+Contrarrazões às fls. 174/192 (e-STJ).
+A insurgência não merece prosperar.
+No tocante à violação do art. 1.022 do CPC, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOS FINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.035.430/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/5/2017, DJe 16/5/2017 - grifou-se).
+No caso, consta no acórdão recorrido que
+"(..) não se dispõe de evidências seguras, de suposta dissolução irregular da empresa, devedora, tampouco de confusão patrimonial entre seus sócios e demais empresas, vinculadas a grupo familiar, cumprindo ressalvar que a penhora de créditos da devedora, no processo nº 0053080-11.2016.8.26.0100, conflui para possível satisfação do débito, aqui executado.
+(..)" (fl. 85, e-STJ).
+Com efeito, para rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que restou demonstrada a formação de grupo econômico e a prática de desvio de finalidade ou de confusão patrimonial da empresa, seria necessário o revolvimento dos aspectos fático-probatórios dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. GRUPO ECONÔMICO. COMPENSAÇÃO DE CRÉDITOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE VULNERABILIDADE E HIPOSSUFICIÊNCIA TÉCNICA. ALTERAÇÃO. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS. AUSÊNCIA. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+3. Com relação à desconsideração da personalidade jurídica, a jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que, nas hipóteses em que reconhecida a existência de grupo econômico e verificada confusão patrimonial ou desvio de finalidade entre as empresas, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, inclusive em cumprimento de sentença, sem que haja violação da coisa julgada.
+3.1. Na hipótese dos autos o colegiado de origem concluiu que, embora pertencentes ao mesmo grupo econômico, não ficou comprovada a confusão patrimonial ou desvio de finalidade, razão pela qual entendeu não ser possível a desconsideração da personalidade jurídica.
+3.2. Logo, a questão foi resolvida com base nos elementos fáticos que permearam a demanda. Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Tribunal a quo exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo interno improvido" (AgInt nos EDcl no AREsp n. 2.323.697/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/9/2023, DJe de 13/9/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VIOLAÇÃO AO ART. 50 DO CÓDIGO CIVIL. INCIDENTE DE DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. TEORIA MAIOR. REQUISITOS OBJETIVOS. TRIBUNAL A QUO CONCLUIU PELA NÃO COMPROVAÇÃO DOS REQUISITOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. AGRAVO INTERNO DESPROVIDO.
+1. O legislador pátrio, no art. 50 do CC de 2002, adotou a teoria maior da desconsideração, que exige a demonstração da ocorrência de elemento objetivo relativo a qualquer um dos requisitos previstos na norma, caracterizadores de abuso da personalidade jurídica, como excesso de mandato, demonstração do desvio de finalidade (ato intencional dos sócios em fraudar terceiros com o uso abusivo da personalidade jurídica) ou a demonstração de confusão patrimonial (caracterizada pela inexistência, no campo dos fatos, de separação patrimonial entre o patrimônio da pessoa jurídica e dos sócios ou, ainda, dos haveres de diversas pessoas jurídicas).
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu expressamente que "não se verificam nesses casos concretos os requisitos legais para desconsideração da personalidade jurídica para extensão da responsabilidade à agravada", sobretudo não ocorrendo desvio de finalidade ou confusão patrimonial. Rever a conclusão a que chegou o acórdão recorrido importaria, necessariamente, o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido" (AgInt no AREsp n. 2.141.540/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 25/4/2023).
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 242/244 (e-STJ) e, em novo exame, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
+EMENTA
