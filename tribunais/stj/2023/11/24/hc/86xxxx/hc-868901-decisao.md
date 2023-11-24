@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de AMADEU VINICIUS SILVA VIEIRA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO EM EXECUÇÃO PENAL - DEFERIMENTO DE CONCESSÃO DE LIVRAMENTO CONDICIONAL Reforma da decisão - Presente o requisito temporal, mas desfavorável o requisito subjetivo RECURSO PROVIDO.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que está preenchido o requisito subjetivo para concessão do livramento condicional pois emitido atestado de boa conduta carcerária.
+Requer, em suma, a concessão do benefício de livramento condicional.
+É, no essencial, o relatório. Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento no sentido de que não cabe habeas corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (relator Ministro Sebastião Reis Júnior, DJe de 25/8/2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+De fato, ainda que se tenha verificado o cumprimento do requisito objetivo, é certo que o agravado não preencheu o requisito subjetivo para a concessão da benesse.
+Conforme se extrai dos autos, o sentenciado praticou falta grave enquanto já se encontrava em cumprimento de pena, sendo a última, em data recente, quando cumprindo pena em regime aberto (fl. 24), tendo sido preso em flagrante delito pela prática do crime de furto, crime pelo qual já foi condenado por sentença transitada em julgado.
+Deveras, o agravado não demonstrou ainda se está apto a ser agraciado com tal benefício, visto a amplitude da benesse que é o Livramento Condicional. Necessário, que demonstre que está apto à sua reinserção e readaptação à vida social, e se é capaz de assumir as responsabilidades oriundas da liberdade, estando evidenciado que a benesse pretendida não se afigura viável no contexto presente, reformando-se a decisão guerreada (fls. 19-23).
+O entendimento adotado na origem encontra-se em harmonia com a jurisprudência consolidada por esta Corte no sentido de que, embora a falta grave não interrompa o prazo para obtenção de livramento condicional, a prática de infrações disciplinares graves durante a execução da pena demonstra a ausência do requisito subjetivo para concessão de referido benefício executório.
+Nessa linha, os seguintes julgados: AgRg no HC n. 813.574/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2023; AgRg no HC n. 763.755/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 10/3/2023.); AgRg no HC n. 778.699/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 15/6/2023; AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022; AgRg no HC n. 788.010/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2022.
+Por outro lado, ainda que haja atestado de boa conduta carcerária é possível que juízo da execução faça a análise do preenchimento do requisito subjetivo para concessão dos benefícios executórios a partir da análise de outros elementos do caso concreto e levando em consideração os eventos ocorridos ao longo da execução penal.
+Na esteira desse entendimento vale citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL INDEFERIDO. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTA GRAVE COMETIDA HÁ MAIS DE 12 MESES. NOVO DELITO COMETIDO EM 2/4/2021. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+ ..
+3. É cediço que o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC n. 572.409/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/6/2020, DJe de 10/6/2020).
+4. Ademais, a circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento da falta, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (AgRg no HC n. 684.918/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/8/2021).
+5. Agravo regimental desprovido. (AgRg no HC n. 807.274/AL, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/8/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. REQUISITO SUBJETIVO NÃO PREENCHIDO. EXAME CRIMINOLÓGICO QUE NÃO VINCULA O MAGISTRADO. EXAME APROFUNDADO DE PROVA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, ou mesmo pelo Tribunal de origem, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justificaria o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Na hipótese, as instâncias ordinárias fundamentaram de forma idônea o não preenchimento do requisito subjetivo. O histórico prisional conturbado, com registro de faltas graves, inclusive consistentes em fugas e abandono do regime semiaberto, indica a necessidade de maior cautela no caso concreto, tendo em vista o diminuto senso de responsabilidade do apenado.
+ ..
+4. Agravo regimental a que se nega provimento. (AgRg no HC n. 818.659/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/8/2023.)
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
