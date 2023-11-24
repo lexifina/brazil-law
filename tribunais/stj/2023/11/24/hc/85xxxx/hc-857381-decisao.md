@@ -1,0 +1,20 @@
+DECISÃO
+EDGARD RAFAEL SA SILVA FAELA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Revisão Criminal n. 0009604-19.2022.8.26.0000.
+Consta dos autos que o paciente foi condenado - em decisão já transitada em julgado - a 7 anos, 11 meses e 8 dias de reclusão, em regime fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, VI, todos da Lei n. 11.343/2006.
+A defesa pleiteia, em síntese, a absolvição do réu, por entender que a condenação foi baseada apenas em elementos informativos.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+É importante salientar que a condenação do acusado, após o trânsito em julgado, já foi submetida à nova avaliação pela Corte estadual, ocasião em que não se identificou nenhuma das hipóteses que poderiam autorizar a revisão do que decidido pelas instâncias ordinárias: a) sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos; b) sentença condenatória fundada em depoimentos, exames ou documentos comprovadamente falsos; c) descoberta, após a sentença, de novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena (art. 621 do Código de Processo Penal).
+A Corte de origem, por ocasião do julgamento da revisão criminal, esclareceu, ainda, "Embora a acusação não tenha arrolado o menor para ser ouvido em juízo, como dito, os policiais narraram como ocorreu o flagrante e o menor, em delegacia, confirmou que foi comprar drogas para o acusado, embora tenha negado que iria receber um pino de cocaína como "pagamento" (fl. 09). Aliás, a palavra dos policiais é apta a ensejar a condenação" (fl. 13).
+Portanto, uma vez que, por ocasião da sentença condenatória, conforme demonstrado no trecho transcrito, houve uma análise minudente e profunda dos elementos probatórios colacionados aos autos, em que se demonstraram os motivos pelos quais a condenação dos acusados seria substancialmente justa e harmônica com as provas produzidas, não há razões para a concessão da ordem.
+Ademais, constato que não prospera a alegação de que a condenação se
+baseou, exclusivamente, em provas inquisitoriais.
+Quanto ao sistema de valoração das provas no processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente.
+Nesse contexto, o legislador ordinário, buscando dar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155 do Código de Processo Penal.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado exclusivamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa).
+O juiz pode deles se utilizar para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou que esses elementos informativos sejam repetidos em juízo, assumindo, tecnicamente, a natureza de prova.
+No caso, diferentemente do alegado, verifico que o Tribunal estadual sopesou as provas e os elementos informativos colhidos extrajudicialmente com as demais provas e depoimentos obtidos em juízo, submetidos, portanto, ao crivo do contraditório, razão pela qual não procedem os argumentos da defesa.
+Aliás, consoante já decidiu este Superior Tribunal, "não se admite a nulidade do édito condenatório sob alegação de estar fundado exclusivamente em prova inquisitorial, quando baseado também em outros elementos de provas levados ao crivo do contraditório e da ampla defesa" (HC n. 155.226/SP, Rel. Ministro Og Fernandes, 6ª T., DJe 1º/8/2012).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
