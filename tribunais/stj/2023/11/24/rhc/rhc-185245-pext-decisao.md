@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de pedido de extensão formulado pela defesa de ANDRE FILIPE CARVALHO MATTOS, que objetiva alcançá-lo com a ordem concedida à coinvestigada LUANA RABELO SANTOS pela decisão de e-STJ fls. 269/275.
+Afirma estarem em situações jurídico processuais idênticas, configurando-se a ilegitimidade também da sua segregação cautelar, e acrescenta estar demonstrado o constrangimento ilegal por excesso de prazo na instrução.
+É o relatório. Decido.
+Inicialmente, convém destacar que a legitimidade da prisão preventiva do ora requerente já foi analisada em autos próprios, conexos a este, no RHC n. 185.257/MG, e que não caberia examinar nesta via a tese de constrangimento ilegal por excesso de prazo, seja porque transborda o pedido original do writ, seja porque não foi submetida à apreciação do segundo grau de jurisdição, de modo que seu enfrentamento nesta oportunidade significaria indevida supressão de instância.
+No mais, a decisão proferida em benefício de um dos corréus pode ser estendida aos demais quando as suas situações jurídico-processuais forem idênticas (HC n. 447.378/SC, Rel. Ministro JORGE MUSSI, DJe de 17/10/2018, e HC n. 398.278/MG, Rel. Ministro RIBEIRO DANTAS, DJe de 15/8/2018).
+No caso destes autos, entretanto, a situação dos corréus não é idêntica, ou a leitura dos autos, conforme instruídos, impede a afirmação segura de tal identidade.
+Com efeito, a concessão da ordem à recorrente original decorreu da consideração de que as instâncias ordinárias teriam aludido (i) a reputada intimidação de testemunha que não foi descrita de forma concreta, sem descrição suficiente que permitisse aquilatar a gravidade da conduta (e-STJ fl. 271), e (ii) sem detalhar de que maneira a sua segregação colaboraria para desarticular a reputada engrenagem criminosa, especialmente diante do reconhecimento de que ela veio a ser demitida da instituição financeira dentro da qual, na função de gerente, teria agido clandestinamente para beneficiar a organização criminosa (e-STJ fl. 273).
+Em posição distinta, a necessidade da prisão preventiva do ora requerente foi justificada a partir da sua atuação operacional no núcleo da organização criminosa, em posição que não pode ser considerada meramente coadjuvante, na medida em que seria o responsável por conduzir "laranjas" às agências bancárias, além de ser o responsável pela conta de uma das empresas "fantasma" utilizadas pela entidade criminosa, havendo atuado em prol dela mesmo após a demissão de colaboradora que atuava como gerente em banco lesado, ao que se extrai das seguintes passagens (e-STJ fls. 177/190):
+O investigado teria tentado abrir outra conta bancária para a empresa, porém não obteve êxito, já que sua companheira havia sido demitida.
+(..).
+VIII. André Filipe Carvalho Mattos, amásio de Luana Rabelo Santos, integraria o núcleo operacional da ORCRIM e acompanharia os "laranjas" até agências bancárias, com o objetivo de abertura de contas em seus nomes. Além disso, operaria a conta da empresa DAMARSO, uma das sociedades empresariais investigadas no presente feito.
+Ao que se vê, o requerente do pedido de extensão e a recorrente original não compartilham situação jurídico-processual idêntica, o que impede a extensão da ordem.
+Ante o exposto, indefiro o pedido de extensão.
+Intimem-se.
+EMENTA
