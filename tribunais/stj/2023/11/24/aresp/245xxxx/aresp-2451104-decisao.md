@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por BRUNO SILVA SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÕES CRIME. LESÕES CORPORAIS (ARTIGO 129, § 9.º, DO CP). SENTENÇA CONDENATÓRIA. 1. GRATUIDADE DA JUSTIÇA E DETRAÇÃO PENAL. NÃO CONHECIMENTO. MATÉRIAS AFETAS AO JUÍZO EXECUTÓRIO. 2. PLEITOS RECURSAIS ABSOLUTÓRIOS. NÃO ACOLHIMENTO. PROVAS DELINEADAS QUE CONFIRMAM A OCORRÊNCIA DAS LESÕES. DECLARAÇÕES FIRMES E COESAS DAS VÍTIMAS. LAUDO PERICIAL POSITIVO NO TOCANTE ÀS LESÕES SOFRIDAS. 3. ALEGAÇÃO DE LEGÍTIMA DEFESA POR UM DOS RÉUS. IMPOSSIBILIDADE. EXCLUDENTE DE ILICITUDE NÃO DEMONSTRADA. RECURSOS PARCIALMENTE CONHECIDOS E DESPROVIDOS.
+Quanto à controvérsia recursal, alega divergência jurisprudencial quanto à interpretação do art. 386, V, do CPP, no que concerne à necessidade de absolvição do recorrente, que além de negar veementemente os fatos que são imputados, foi condenado com base em acervo probatório frágil e insubsistente. Traz os seguintes argumentos:
+A autoria do delito não é certa e tampouco recai sobre a pessoa do Acusado, tendo em vista que as provas dos autos não podem afirmar que o mesmo praticou o ato, além de não haver provas da materialidade específica para a condenação no tipo penal que lhe foi imputado.
+Excelências, tal situação é suficiente para ensejar a absolvição, vez que não existem nos autos outras provas capazes de imputar ao Recorrente a prática do delito.
+Dessa forma, a defesa deixa clara aqui que não existem provas concretas que o Recorrente teria praticado tais crimes.
+Assim sendo, como não existem provas concretas de que foi o Recorrente o autor dos fatos, requer sua absolvição nos termos do artigo 386, V do Código de Processo Penal (fl. 696).
+É, no essencial, o relatório. Decido.
+Na espécie, não foi comprovada a divergência jurisprudencial, uma vez que não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
