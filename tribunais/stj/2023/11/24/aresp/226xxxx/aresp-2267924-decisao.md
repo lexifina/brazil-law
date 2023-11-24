@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por ISAAC FABIANO COELHO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Maranhão assim ementado:
+"DIREITO PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AGRAVO INTERNO. JULGAMENTO PELO RELATOR. DECISÃO MONOCRÁTICA. DESENVOLVIMENTO, COM FUNDAMENTAÇÃO E DISPOSITIVO (PER RELATIONEM). ADOÇÃO DOS FUNDAMENTOS EDOS DISPOSITIVOS DA SENTENÇA, O PARECER JUSTIFICADO DO MPE E OS ARGUMENTOS LANÇADOS NAS PEÇAS RECURSAIS. NULIDADE INEXISTENTE. JURISPRUDÊNCIAS PACIFICADAS PELO SUPREMO TRIBUNAL FEDERAL, SEDIMENTADAS PELO SUPERIOR TRIBUNAL DE JUSTIÇA E SOLIDIFICADAS PELOS TRIBUNAIS ESTADUAIS. REPETIÇÃO DOS ARGUMENTOS. MATÉRIAS JÁ CONHECIDAS E TRATADAS POR FORTES JULGADOS DOS TRIBUNAIS SUPERIORES E DOS TRIBUNAIS ESTADUAIS. DECISÃO MONOCRÁTICA MANTIDA. I - O uso da motivação per relationem, também denominada de motivação aliunde, motivação por referência, motivação referenciada, motivação por remissão ou motivação remissiva, a qual o relator adota, na sua decisão, fundamentos contidos na sentença, parecer do membro do MPE, dos argumentos contidos nas peças recursais, jurisprudências, precedentes, Súmulas, Súmulas Vinculantes dos Tribunais Superiores. Acórdãos dos Tribunais Estaduais ou de decisões pacificadas e calcificadas pelas Câmaras Isoladas Cíveis. O Ministro do STF que jamais deixará de ser um ícone, o Mestre Aires de Britto reafirmou que o Judiciário deve ser proativo, neutro e apartidário. E disse que a justiça brasileira pode adotar o processo de otimização (rendimento ótimo, criando condições favoráveis e gestão eficiente dos processos) e o tempo de duração dos processos judiciais, desde que haja bom senso da sociedade e vontade dos juízes. Ora, otimizar significa julgar sem entraves e obstáculos. O uso da técnica monocrática traduz inúmeros vieses na administração dos processos: a superação de indicadores negativos; quebra dos gargalos das fases processuais; novas texturas dos processos; identificação das falhas; e resultados eficientes. O cidadão brasileiro quer que o seu processo seja decidido. Seja favorável ou não. É uma conquista do Estado Democrático de Direito. E jamais provocará quebras, contorcionismos, quias mas, feridas profundas no artigo 93, inciso IX, da Bíblia Republicana Constitucional. II - A reiteração, em agravo interno, de argumentos já examinados e repelidos, de forma clara e coerente, pelo relator, ao julgar monocraticamente o recurso de apelação, impõe o desprovimento do recurso. III - Agravo interno desprovido" (fls. 661/662, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 720/731, e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 937, IX, do Código de Processo Civil e 388, §2º, art. 395, I e art. 346, IV do Regimento Interno do Tribunal de Justiça do Estado do Maranhão.
+Sustenta que teria havido cerceamento de defesa e ofensa ao contraditório e à ampla defesa diante do julgamento do agravo interno sem a realização de sustentação oral pelo advogado, apesar de ter sido requerida tempestivamente.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que tange tese envolvendo a ausência de sustentação oral, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTESTAÇÃO. INTEMPESTIVIDADE. JUSTA CAUSA. IMPEDIMENTO. PRECLUSÃO. SÚMULA Nº 568/STJ. REVELIA. RECONHECIMENTO E EFEITOS. PREQUESTIONAMENTO. AUSÊNCIA. POSSE. EXERCÍCIO. COMPROVAÇÃO. REEXAME DE PROVAS.
+(..)
+4. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+5. (..)
+6. Agravo interno não provido" (AgInt nos EDcl no REsp 1391026/MG, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/11/2017, DJe 20/11/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios nos termos do art. 85, § 11, do CPC, considerando que não houve condenação ao pagamento de verba honorária na origem.
+Publique-se.
+Intimem-se.
+EMENTA
