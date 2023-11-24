@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por LILIAN CRISTINA SILVA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. APELAÇÃO. DECISÃO DO RELATOR EM QUE SE DENEGOU PEDIDO DE REPUBLIEAÇÃO DO V. ACÓRDÃO. FUNDAMENTOS DA DECISÃO DENEGATÓRIA DO PEDIDO DE REPUBLIEAÇÃO NÃO SUPERADOS PELAS RAZÕES DO PRESENTE RECURSO. INTIMAÇÃO FEITA REGULARMENTE, COM REFERÊNCIA AOS NOMES DAS PARTES E DOS ADVOGADOS CONSTITUÍDOS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO (fl. 839).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 272, § 2º, do CPC, no que concerne à necessidade de republicação do acórdão e de intimação das partes sob pena de cerceamento de defesa e de ofensa ao contraditório e à ampla defesa, trazendo a seguinte argumentação:
+As Recorrentes acima, não foram intimadas do acórdão de fls. 721-726, como comprova-se através da CERTIDÃO DE PÚBLICAÇÃO DE FLS.727. Conforme se verifica na certidão de publicação, as partes LILIAN CRISTINA SILVA e AUTO POSTO FLECHA DOURADA não foram intimados através de publicação, portanto, a publicação e a certidão de trânsito em julgado do acórdão é nulo, conforme dispõe o artigo 272, parágrafo 2º do CPC, senão vejamos:
+ ..
+O advogado constituído, Dr. Claudio Arap Mendes, por negligência, não comunicou as partes sobre o acórdão proferido. Conforme comprova-se através de e-mail enviado por ele e pelas conversas de whatsapp, ele somente comunicou seus clientes LILIAN CRISTINA SILVA e AUTO POSTO FLECHA DOURADA LTDA no dia 12/03/2021 após o trânsito em julgado do acórdão (provas em fls. 745 a 747). Portanto não houve intimação das partes Recorrentes LILIAN CRISTINA SILVA e AUTO POSTO FLECHA DOURADA LTDA.
+ ..
+Além da não intimação das partes, e da não comunicação do acórdão pelo advogado, ao entrar no sítio do Tribunal no link do processo no portal e-saj, lá não constava o acórdão e nem a publicação, senão veja-se no print da tela acostada aos autos em fls. 757-765.
+Diante do exposto, a falta de intimação do acórdão com o nome das partes, bem como o não processamento do acórdão e da publicação na folha de rosto dos autos, viola o princípio do contraditório e da ampla defesa dos Requerentes LILIAN CRISTINA SILVA e AUTO POSTO FLECHA DOURADA LTDA, tornando nulo todos os atos processuais posteriores.
+ ..
+O intuito da presente demanda visa a verificação correta da aplicação da Lei Federal 13.105 de 16 de março de 2015, que não foi corretamente aplicada em seu art. 272, parágrafo 2º , pois foi negada a republicação e intimação do acórdão de fls. 721-726 pela não intimação das partes ora recorrentes.
+ ..
+Além disso, ao não intimar a parte, conforme preceitua o artigo 272, parágrafo 2º do CPC, o não conhecimento do acórdão pelos Recorrentes acarretou cerceamento de defesa, impedindo os mesmos de exercerem o direito ao duplo grau de jurisdição e feriu o princípio do contraditório e da ampla defesa.
+ ..
+Assim, diante de todo o exposto, requer seja o acórdão anulado, para que o acórdão de fls.721/726 seja republicado e as partes recorrentes sejam devidamente intimadas para o fim de exercer o direito ao contraditório e a ampla defesa (fls. 844/857).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Cumpre ter em conta os fundamentos da decisão ora recorrida, que foram lançados nos seguintes termos:
+"1) Fls. 733/742 no mínimo estranho o requerimento de devolução de prazo ao argumento de falta de publicação regular do v. acórdão. A certidão de fl. 727 mostra que a publicação foi, sim, realizada em nome dos advogados constituídos (Claudio Arap, no caso do Auto Posto, Nelson Arini Júnior, no caso da corré Lilian);
+1.1) Inócuo, ademais, o extrato de movimentação processual apresentado a fls. 757/765, porquanto referente a consulta de processos em 1º Grau. E, de resto, mesmo na hipótese de falta de inserção da decisão no portal de andamento processual o detalhe seria irrelevante, novamente pelo fato da regular intimação pela imprensa oficial;
+2) Eventual conduta displicente do advogado Claudio Arap Mendes, ocioso dizer, não é causa de nulidade processual, quando muito problema a ser resolvido em via própria entre a cliente e o profissional;
+3) Fl. 743 anote-se junto ao sistema informatizado;
+4) No mais, tornem os autos à Primeira Instância Int."
+E não há razão para revisão desse entendimento, já que a argumentação do agravo interno não supera as razões que indeferimento do pedido de republicação do v. acórdão de fls. 721/726.
+Por primeiro, diferente do que alegam os ora agravantes, a certidão de fl. 727 indicou, sim, claramente os nomes das partes, como bem se pode observar no cabeçalho da certidão. Diga-se de passagem, ademais, que publicação foi adequadamente feita, estando conforme o padrão das várias outras existentes nesse processo e tendo sido devidamente intimados os então procuradores dos agravantes.
+Por sua vez, apontam os agravantes a existência de equívocos quanto à movimentação dos autos em Primeiro Grau. No entanto, estando o feito em Segunda Instância àquele tempo, competia aos agravantes realizar o acompanhamento dos autos na seção pertinente. Sendo tal lapso mais uma negligência de seus antigos procuradores ou não, fato é que, como já mencionado, displicência não é causa de nulidade processual (fls. 839/840).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
