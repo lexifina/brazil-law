@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ABYARA BROKERS INTERMEDIAÇÃO IMOBILIÁRIA CASA FÁCIL E PRONTOS LTDA., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"REVISÃO CONTRATUAL COMBINADA COM OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Promessa de compra e venda de unidade autônoma na planta - Atraso na entrega - Sentença que julgou a ação procedente em parte apenas para uma requerida, acolhendo a ilegitimidade de parte das demais - Insurgência de ambas as partes.
+RECURSO DA AUTORA - Alegação de que todas as requeridas possuem legitimidade passiva - Cabimento - Documento juntado que demonstra claramente que todas participaram do negócio - Preliminar de ilegitimidade de todas as requeridas rejeitada - Alegação de que é possível a inversão da cláusula penal - Cabimento - Entendimento consolidado no Tema Repetitivo n.º 971 do STJ - Alegação de que é devida a condenação em lucros cessantes - Cabimento- Questão pacificada por esta Corte no julgamento do IRDR n.º 0023203-35.2016.8.26.0000 (Tema 04), no bojo do qual foi aprovada a tese 06, segundo o qual "O atraso da prestação de entrega de imóvel objeto de compromisso de compra e venda gera obrigação da alienante indenizar o adquirente pela privação injusta do uso do bem. O uso será obtido economicamente pela medida de um aluguel, que pode ser calculado em percentual sobre o valor atualizado do contrato, correspondente ao que deixou de receber, ou teve de pagar para fazer uso de imóvel semelhante, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma já regularizada" - Alegação de que o atraso enseja dano moral - Descabimento - Mora que foi de pouco mais de quatro meses, período incapaz de ultrapassar o simples dissabor advindo de um inadimplemento contratual.
+RECURSO DA REQUERIDA - Alegação de ilegitimidade passiva - Descabimento - Parte que comprovadamente estiverem envolvidas no negócio - Alegação de que os valores cobrados são devidos - Descabimento - Valores cobrados fora dos termos estatuídos pelo Tema Repetitivo n.º 939 do STJ (REsp n.º 1.551.951/SP) - Sentença reformada nos pontos destacados - RECURSO DAS REQUERIDAS DESPROVIDO, PROVIDO EM PARTE O RECURSO DA AUTORA" (fls. 675 e-STJ).
+Nas razões do recurso especial, o recorrente sustenta, além de dissídio jurisprudencial, violação dos artigos 7º, 485 do Código de Processo Civil e 14 do Código de Defesa do Consumidor.
+Aduz ilegitimidade para figurar no polo passivo da presente demanda.
+Menciona que "a Recorrente não foi parte na relação contratual discutida, atuando apenas como intermediadora, inexiste ato ilícito por ação ou omissão que justifique sua concorrência para os fatos reclamados" (fl. 739 e-STJ).
+Ao final, requer o provimento do recurso.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Como bem anotado pela autora em suas razões de apelação, há um documento nos autos que, embora solitário, é bastante para demonstrar a participação de todas as requeridas no negócio como um só grupo econômico, cada uma cuidando de um setor do empreendimento, ainda que de forma sub-reptícia, como sói acontecer em casos que tais.
+E isso por um simples detalhe, aparentemente ignorado pelo Juízo: ao final desse documento, há a listagem dos "favorecidos dos cheques", a saber, todos os requeridos, à exceção da ATUACONSTRUTORA - exceção essa, que, contudo, dada a menção expressa à ATUA PROJETO IMOBILIÁRIO 18 LTDA., pessoa jurídica que mais esteve à frente do empreendimento, não retira a Pessoa Jurídica principal nesse grupo" (fls. 677/678 e-STJ).
+O entendimento trazido no acórdão recorrido está em sintonia com a jurisprudência sedimentada nesta Corte Superior, no sentido de que todos os integrantes da cadeia de consumo respondem solidariamente pelos danos causados ao consumidor.
+A propósito :
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SOLIDARIEDADE. CADEIA DE CONSUMO. IMOBILIÁRIA. ATUAÇÃO COMO PREPOSTA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. NEGATIVA DE SEGUIMENTO. RECURSO REPETITIVO. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Há solidariedade de todos os fornecedores que figuram na cadeia de consumo da compra e venda do imóvel, inclusive da imobiliária. Precedente.
+3. O acórdão vergastado assentou que a imobiliária atuou como preposta da construtora. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula nº 7 do STJ.
+4. É incabível agravo em recurso especial contra decisão que nega seguimento a apelo nobre quando a matéria tenha sido decidida em sintonia com tese definida em recurso repetitivo. Precedente.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido" (AgInt no AREsp 1.667.993/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 18/11/2020 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. COMPROMISSO DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. CORRETORA IMOBILIÁRIA. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO. RESPONSABILIDADE SOLIDÁRIA. DANO MORAL. OCORRÊNCIA. LONGO ATRASO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. ALTERAÇÃO DO VALOR FIXADO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais em razão de atraso na entrega de imóvel objeto de compromisso de compra e venda. Danos morais fixados em R$ 10.000,00.
+2. Apesar de não ter liame jurídico com o consumidor, a corretora pertence, sim, à cadeia de fornecimento do produto, visto se tratar de fenômeno eminentemente econômico, sendo solidária a responsabilidade de todos os fornecedores que se beneficiem da cadeia de fornecimento. Precedentes.
+3. Cabimento de compensação por danos morais em virtude do atraso superior a dois anos na entrega de imóvel. Precedentes.
+4. A alteração do valor fixado a título de compensação por danos morais somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+5. Agravo interno no recurso especial não provido" (AgInt no REsp 1.866.097/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 1º/7/2020 - grifou-se).
+Assim, incide ao caso a Súmula nº 568/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Em observância ao art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) a verba honorária atribuída à recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
