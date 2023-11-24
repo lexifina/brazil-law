@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FLAVIO RICARDO MUNIZ DA SILVA contra decisão de minha relatoria que não conheceu do recurso especial (e-STJ fls. 10.244/10.247).
+Consta dos autos que o agravante foi condenado à pena de 25 anos e 4 meses de reclusão, em regime inicial fechado, e multa, pela prática dos delitos previstos nos arts. 35, c/c os arts. 40, III, IV, V, VI; 33, caput, c/c o art. 40, III; e 33, caput, todos da Lei n. 11.343/2006.
+A defesa e o Ministério Público interpuseram recursos de apelação perante o Tribunal de origem, o qual proveu parcialmente o ministerial para condenar o recorrente pelos delitos de tráfico de drogas (item V da denúncia) e corrupção ativa (item IV da denúncia), sendo a pena redimensionada para 33 anos, 5 meses e 26 dias de reclusão, em regime inicial fechado, e multa.
+A defesa opôs, ainda, embargos de declaração, os quais foram rejeitados (e-STJ fls. 7.342/7.362).
+No recurso especial, alegou ofensa aos princípios da ampla defesa e contraditório, destacando que "o processo se deu por interceptação telefônica nenhuma materialidade foi encontrada em posse do requerente" (e-STJ fl. 7.369).
+Aduziu que não teve acesso à íntegra das interceptações telefônicas e que as conversas não teriam sido periciadas.
+Apontou nulidade nas sucessivas renovações de escutas.
+Argumentou que foi aplicada a teoria do domínio do fato.
+Por fim, sustentou violação à legislação federal com relação à dosimetria da pena, destacando que "não foi interceptado nenhum trecho que ligasse o requerente a tal revolver 38" (e-STJ fl. 7.386).
+Requereu, assim, o provimento do recurso especial para que fosse declarada a nulidade absoluta do feito, a absolvição ou alteração da dosimetria.
+O recurso especial foi inadmitido pela impossibilidade de análise de violação a norma e princípios constitucionais, bem como pela aplicação das Súmulas n. 279/STF, 7/STJ, 83/STJ, 282/STF e 356/STF.
+No agravo em recurso especial, a defesa alegou que não pretende o reexame de fatos (e-STJ fl. 8.422).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo.
+Não conheci do agravo em recurso especial pela aplicação da Súmula n. 182/STJ (e-STJ fls. 10.244/10.247).
+Daí o presente agravo regimental, no qual a defesa alega que não pretende o reexame de provas.
+Afirma, ainda, que, "com relação a ausência de impugnação aos fundamentos da decisão agravada, resta nítido que as impugnações, ainda que de forma implícita, confundem-se com as razões do agravo defensivo, porém é preciso que reste claro que, em suma, a decisão que negou o RESP no TJ/RJ, apenas e sempre apontam óbices a súmulas de Tribunais superiores, sem sequer observar as razões recursais" (e-STJ fl. 10.283).
+Repisa os argumentos apresentados no recurso especial.
+Requer, assim, o provimento do agravo regimental para que o recurso especial seja admitido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O recorrente não atacou especificamente todos os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial, o que atrai o óbice da Súmula n. 182/STJ.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Pelo princípio da dialeticidade, o agravante tem o ônus de impugnar especificamente os fundamentos da decisão agravada, a fim de desconstituir o impedimento à cognição do recurso interposto.
+Com efeito, conforme asseverado na decisão monocrática ora combatida, a parte não atacou especificamente todos os fundamentos do provimento jurisdicional que negou seguimento ao recurso especial (impossibilidade de análise de violação a norma e princípios constitucionais; e aplicação das Súmulas n. 279/STF, 7/STJ, 83/STJ, 282/STF e 356/STF).
+A propósito:
+Súmula n. 182 - É inviável o agravo do art. 545 do CPC que deixa de atacar
+especificamente os fundamentos da decisão agravada.
+Desse modo, não havendo impugnação de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+II. Nos termos da jurisprudência atual e consolidada desta Corte, incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, autônomos ou não, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo em Recurso Especial (art. 932, III, do CPC vigente).  ..
+III. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça, "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (STJ, EAREsp 701.404/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 30/11/2018).
+IV. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+V. Com efeito, nos termos da jurisprudência do STJ, "o recurso especial além de particularizar os artigos de lei federal que se reputam ofendidos pelo acórdão recorrido, deve fazer uma exposição clara e objetiva da irresignação, a fim de permitir a correta análise da temática em discussão. E mais, as alegações devem ser fundamentadas, havendo uma concatenação lógica demonstrando de forma objetiva e clara como o acórdão recorrido teria violado tal dispositivo. Incidência da Súmula 284/STF" (STJ, AgRg no Ag 474.354/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, DJU de 07/04/2003). De fato, "o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (STJ, AgInt no AREsp 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 30/9/2019). Assim, não basta, a fim de rechaçar a incidência da Súmula 284/STF, a mera alegação de que "a ausência de indicação expressa do dispositivo legal violado não é, por si só, motivo para deixar de conhecer da matéria".
+ ..
+VII. Agravo interno improvido. (AgInt no AREsp n. 2.178.287/TO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 13/2/2023, DJe de 17/2/2023.)
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Embargos de declaração opostos com caráter infringente, que devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+3. Não tendo decorrido lapso temporal superior a 4 anos, entre os marcos temporais interruptivos, não há falar-se em prescrição da pretensão punitiva.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp 614.968/SP, Rel. Ministro NEFI CORDEIRO, DJe 29/ 2/2016)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
