@@ -1,0 +1,16 @@
+DECISÃO
+MARCIO HELIO TEIXEIRA GUIMARÃES suscita conflito de competência diante do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS e do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para análise de pedido formulado em habeas corpus voltado para o trancamento de investigação criminal, a qual é conduzida pelo Ministério Público do Distrito Federal e Territórios e onde se apura a prática de supostas fraudes em procedimentos licitatórios.
+Ouvido, manifestou-se o Ministério Público Federal para que seja declarado competente o Tribunal de Justiça do Distrito Federal e dos Territórios (fls. 563-565).
+Decido.
+De início, observa-se que os supostos crimes em apuração não têm o condão de atrair a competência federal, porque não se tratam de crimes federais. No particular, destacou o decisum proferido pelo Tribunal Regional Federal da 1ª Região (fl. 14):
+Cumpre esclarecer que o inquérito policial em referência foi instaurado para apurar a atuação de uma organização criminosa voltada à prática de fraudes em licitações, liderada pelo paciente, que, por meio de empresas registradas em nome de supostos funcionários e agindo em conluio com outros empresários, burlou a competitividade de processos licitatórios do GDF.
+Ressalte-se, ademais, que eventual denúncia que vier a ser oferecida pelo MPDFT não tramitará perante a Justiça Federal, sendo que o juiz vinculado ao Egrégio Tribunal de Justiça Distrito Federal e dos Territórios é quem exerce o controle jurisdicional sobre o inquérito  ..
+Sob distinta angulação, embora o membro do MP haja sido apontado como autoridade coatora, verifica-se que não é determinado membro do Ministério Público o objeto das diligências investigativas; aliás, ele nem mesmo tem qualquer relação com a prática dos delitos. Na verdade, o Parquet apenas conduz um procedimento investigativo, situação que motivou indica-lo de modo equivocado como autoridade coatora no HC impetrado na origem.
+Logo, eventual pedido de trancamento de inquérito deflagrado pela suposta prática de crimes de competência estadual deve ser avaliado pelo Tribunal de Justiça do Distrito Federal e dos Territórios.
+Não há como pretender deslocar a competência para a apreciação do trancamento das investigações para a Justiça Federal, tão somente, porque esse procedimento está sendo conduzido pelo MPDFT, sob pena de toda e qualquer investigação dessa instituição também ter o mesmo destino, situação que acabaria por esvaziar quase que completamente a competência do TJDFT, já que nele atua justamente essa instituição.
+Correto, portanto, o Ministério Público Federal, quando assinalou: "no caso dos autos, não havendo elemento que aponte, ao menos por ora, a lesão direta a bens, interesses ou serviços da União ou de suas entidades autárquicas, não há atração da competência da Justiça Federal pelo simples fato de a investigação estar sendo conduzida por membro do Ministério Público do Distrito Federal e Territórios" (fl. 565, destaquei).
+À vista do exposto, conheço do conflito para declarar competente o Tribunal de Justiça do Distrito Federal e dos Territórios para análise do habeas corpus impetrado na origem.
+Dê-se ciência aos Juízos suscitados.
+Publique-se e intime-se.
+EMENTA
