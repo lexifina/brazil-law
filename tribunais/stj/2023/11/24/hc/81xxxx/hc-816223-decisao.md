@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de HENRIQUE GOMES SILVA, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito previsto no art. 33,caput, e 35 da Lei n. 11.343/2006, em razão da quantidade de droga apreendida - "três quilos, seiscentos e sessenta e dois gramas de maconha, dois quilos setecentos e oitenta e dois gramas de Cocaína e seiscentos e setenta e sete gramas de crack" - fl. 49.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a decisão do juízo a quo pelos mesmos fundamentos e denegou a ordem, em acórdão de fls. 67-88.
+Neste writ, postula a defesa,em linhas gerais, a revogação da prisão preventiva decretada em desfavor do paciente, em razão da alegada ausência de fundamentação idônea para a sua segregação cautelar, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que o paciente ostenta condições pessoais favoráveis, ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão. Sustenta, ainda, nulidade do auto de prisão em flagrante em razão da violação do domicílio. Argumenta que, em caso de condenação, terá direito a regime diverso do fechado.
+A liminar foi indeferida às fls. 91-93.
+As informações foram prestadas às fls. 98-107. O Ministério Público Federal, às fls. 111-113, manifestou em parecer que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. EXPRESSIVA QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. CUSTÓDIA CAUTELAR DEVIDAMENTE REGULAR. REGIME PRISIONAL EM PERSPECTIVA. IMPOSSIBILIDADE DE SE LEVAR EM LINHA DE CONTA TAL PARÂMETRO PARA AFASTAR A NECESSIDADE DA PRISÃO PREVENTIVA DO PACIENTE. PRECEDENTES. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. AÇÃO PENAL QUE ESTÁ EM SEU INÍCIO. PREMATURIDADE DA MEDIDA. NECESSIDADE DE SE AGUARDAR O DESENROLAR DA INSTRUÇÃO CRIMINAL PARA AFERIÇÃO DA CORRETA DINÂMICA DO FLAGRANTE. PRECEDENTE DA E. PRIMEIRA TURMA DO COLENDO STF AUTORIZANDO O INGRESSO NA RESIDÊNCIA DO PRESO EM ESTADO DE FLAGRANTE DELITO. CRIME PERMANENTE. PARECER PELA DENEGAÇÃO DA ORDEM" - fl. 111.
+É o relatório. DECIDO.
+O pedido está prejudicado.
+Conforme consulta ao sitio do Tribunal de origem (www.tjsp.jus.br), Processo 1500452-60.2022.8.26.0552, em 06/07/2023 foi revogada a prisão preventiva paciente e expedido o alvará de soltura. Em 17/10/2023 foi proferida sentença absolvendo-os dos crimes que haviam lhe sido imputados. A propósito, dispositivo da sentença:
+"Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a pretensão acusatória para i) ABSOLVER os réus ELINALDO BRAGA COSTA, PAULO HENRIQUE GUEDES DOS SANTOS e HENRIQUE GOMES SILVA, já qualificados, da imputação da prática do delito do art. 35 da Lei n.º 11.343/2006, com fulcro no art. 386, II, do CPP; ii) ABSOLVER os réus ELIN ALDO BRAGA COSTA e HENRIQUE GOMES SILVA, já qualificados, da imputação da prática do delito do art. 33 da Lei n.º 11.343/2006, com fulcro no art. 386, VII, do CPP"
+Nesse contexto, verifico que o presente writ perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto não conheço do habeas corpus.
+Publique-se. Intime-se.
+EMENTA
