@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro João Batista Moreira (Desembargador convocado do TRF1).
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGAÇÃO DE UNIDADE PRISIONAL SUPERLOTADA E DE QUE O ACUSADO SERIA ARRIMO DE FAMÍLIA COM FILHOS. TEMAS NÃO DEBATIDOS NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. TESE DE NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. INOCORRÊNCIA. OUTRAS PROVAS COLHIDAS EM CONTRADITÓRIO. REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL NA VIA ES TREITA DO WRIT. PRECEDENTES. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Primeiramente, sobre as alegações de que o agravante seria arrimo de família, com filhos, e que estaria sendo mantido em unidade prisional superlotada de forma injusta, tem-se que as matérias não foram aventadas na Corte de origem, tendo sido invocadas neste Tribunal Superior em indevida supressão de instância - o que não se permite.
+III - Com efeito, o ora agravante restou condenado com amparo em provas suficientes de autoria e materialidade do delito. O caso vertente não se resume a uma identificação fotográfica em meio exclusivo policial. Consta dos autos que, acerca do reconhecimento do agravante, houve sim a confirmação disso em juízo, sem se descurar do fato de ele ter sido apontado pelo corréu como o organizador do crime.
+IV - De resto, o eventual acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via estreita do habeas corpus e do seu recurso ordinário.
+V - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por FABIO CEZAR DE LIMA, em face de decisão proferida, às fls. 2550-2568, que denegou o habeas corpus.
+Consta dos autos que o agravante foi condenado como incurso nas sanções do artigo 157, § 2º, incisos I e II, do Código Penal, aplicando-lhe, em primeiro grau, as penas finais de 6 anos, 8 meses e 16 dias de reclusão, em regime inicial fechado, e de 16 dias-multa, à razão mínima unitária. Em Apelação, o Tribunal de origem manteve os termos da condenação. O feito de origem já transitou em julgado (fl. 2498).
+No presente recurso, o agravante reitera argumentos de mérito lançados na inicial e sustenta que "a condenação foi embasada exclusivamente em reconhecimento fotográfico realizado em total inobservância ao art. 226 do CPP" (fls. 2569).
+Aduz que "não houve prisão em flagrante e nenhum objeto foi encontrado, e a única testemunha dos fatos foi a vítima, que ao acionar a polícia descreveu os dois assaltantes como NEGROS, dias depois, reconheceu o agravante (BRANCO OU PARDO), como autor dos fatos" (fl. 2570).
+Assevera que "não existem outras provas autônomas. Há apenas reconhecimento fotográfico ilegal na fase policial, indissociavelmente e automaticamente viciado na fase judicial, e relatório policial sem prova de confissão, sem prova testemunhal, documental ou de imagem/vídeo, que foi reiterado na fase judicial por meio da oitiva exclusiva dos policiais" (fl. 2570).
+Pondera que "a vítima apresenta o comportamento descrito nos estudos acerca de falsas memórias, que é o de "ENCONTRAR" o autor do crime, ao ser INDUZIDO por meio de reconhecimento fotográfico ilegal, INSISTINDO que a pessoa reconhecida é o culpado, mesmo sendo nítida a sua incerteza acerca do próprio reconhecimento" (fl. 2574).
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+O Ministério Público Federal manifestou ciência da decisão aqui agravada, sem impugnações (fl. 2588).
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO MAJORADO. CONDENAÇÃO TRANSITADA EM JULGADO. ALEGAÇÃO DE UNIDADE PRISIONAL SUPERLOTADA E DE QUE O ACUSADO SERIA ARRIMO DE FAMÍLIA COM FILHOS. TEMAS NÃO DEBATIDOS NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA. TESE DE NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. INOCORRÊNCIA. OUTRAS PROVAS COLHIDAS EM CONTRADITÓRIO. REVOLVIMENTO DE FATOS E PROVAS INVIÁVEL NA VIA ES TREITA DO WRIT. PRECEDENTES. SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Primeiramente, sobre as alegações de que o agravante seria arrimo de família, com filhos, e que estaria sendo mantido em unidade prisional superlotada de forma injusta, tem-se que as matérias não foram aventadas na Corte de origem, tendo sido invocadas neste Tribunal Superior em indevida supressão de instância - o que não se permite.
+III - Com efeito, o ora agravante restou condenado com amparo em provas suficientes de autoria e materialidade do delito. O caso vertente não se resume a uma identificação fotográfica em meio exclusivo policial. Consta dos autos que, acerca do reconhecimento do agravante, houve sim a confirmação disso em juízo, sem se descurar do fato de ele ter sido apontado pelo corréu como o organizador do crime.
+IV - De resto, o eventual acolhimento das teses defensivas como um todo demandaria necessariamente amplo reexame da matéria fática e probatória, procedimento, a toda evidência, incompatível com a via estreita do habeas corpus e do seu recurso ordinário.
+V - No mais, os argumentos atraem a Súmula n. 182 desta Corte Superior.
+Agravo regimental desprovido.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+No presente recurso, como dito, o agravante reitera argumentos lançados anteriormente e pedem a reversão do julgado ora agravado.
+Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+De início, tem-se que o feito principal já transitou em julgado (fl. 2498).
+Conforme se apreende das razões ora expostas, o que se verifica é, além de sequer se enquadrarem nos requisitos da revisão criminal, não houve manifestação colegiada prévia do Tribunal de origem em sede de revisão criminal, entretanto, eventual flagrante ilegalidade será analisada na hipótese.
+Primeiramente, sobre as alegações de que o agravante seria arrimo de família, com filhos, e que estaria sendo mantido em unidade prisional superlotada de forma injusta, tem-se que as matérias não foram aventadas na Corte de origem, tendo sido invocada neste Tribunal Superior em indevida supressão de instância - o que não se permite.
+Com efeito, o ora agravante restou condenado com amparo em provas suficientes de autoria e materialidade do delito do art. 157, § 2º, I e II, do Código Penal. Tudo o que foi confirmado em grau de apelação pelo Tribunal de origem (fls. 51-72), mediante exaustiva análise do acervo fático-probatório.
+O caso vertente não se resume a uma identificação fotográfica em meio exclusivo policial. Consta dos autos que, acerca do reconhecimento do agravante, houve sim a confirmação disso em juízo, pois a vítima reconheceu o acusado com plena certeza em sede inquisitorial, nada modificando em suas declarações quando em juízo.
+Aqui, o acórdão (fl. 59):
+"(..) No que se refere ao réu FABIO CEZAR DE LIMA (apelante 2), extrai- se dos autos que ele foi reconhecido pela vítima Jorge Reyes, por fotografia, na fase inquisitiva.
+Judicialmente, o sujeito passivo descreveu o crime, declarando que foi abordado por dois indivíduos portando armas de fogo e exigindo dinheiro, tendo eles subtraído os bens já descritos, após obrigá-lo a abrir seu cofre.
+Ambos estavam de "cara limpa", apenas com os bonés puxados para a frente, ameaçando-o para que não olhasse para os seus rostos.
+Sob o crivo do contraditório e da ampla defesa, descreveu fisicamente o acusado Fabio e ratificou o reconhecimento extrajudicial (..)" (grifei).
+Corroborando, o depoimento dos agentes públicos (fl. 59):
+"(..) foi confirmado na audiência de instrução pelo policial Jandir Wochnicki -, mencionando que os dois agentes nunca haviam adentrado em sua residência Somam- se a isso os depoimentos dos policiais Carlos Alberto Pereira e Rogério Gonçalves de Oliveira, que afirmaram que o corréu Luiz Fernando disse que, na tarde do dia dos fatos, "Zé Pequeno" (José Evangelista) e Juninho (Fabio Cezar) revelaram-lhe que realizariam um roubo - crime este organizado por Fabio.
+De acordo, ainda, com o policial Jandir, o carro em que, segundo populares, os agentes teriam se evadido do local do crime, era de propriedade de José Evangelista, padrasto de Fabio (e de Marcio) (..)" (grifei).
+Sendo assim, embora não tenha confessado os fatos, o agravante foi apontado por corréu como, inclusive, o organizador do crime.
+Nesse sentido, o Tribunal de origem ratificou a autoria e materialidade do crime, às fls. 58-59, ainda enumerando as seguintes provas:
+"(..) A materialidade delitiva está sobejamente comprovada pelas provas orais produzidas em juízo e pelos seguintes elementos de convicção: boletim de ocorrência (mov. 1.4), auto de reconhecimento de pessoa por fotografia (mov. 1.13 e 1.14) e auto de levantamento de local de crime (mov. 1.15).
+É também induvidosa ao recair sobre os réus a autoria dos crimes imputados, o que se extrai dos elementos comprobatórios juntados aos autos(..)" (grifei).
+Portanto, existe sim um efetivo caderno probatório, apto a confirmar a autoria e materialidade do delito, que não se resume a meros indícios não submetidos ao crivo do contraditório.
+Vale destacar que, inclusive, a recente Resolução CNJ n. 484/2022, além de não refutar o reconhecimento fotográfico de pessoas, traz expressamente as recomendações a sem observadas nos procedimentos futuros, deixando a cargo do Julgador a valoração de tal prova, ex vi o seu art. 3º:
+"Art. 3º Compete às autoridades judiciais admitir e valorar o reconhecimento de pessoas à luz das diretrizes e procedimentos descritos em lei e nesta Resolução e zelar para que a prova seja produzida de maneira a evitar a ocorrência de reconhecimentos equivocados."
+Nem se olvide que, recentemente, o Supremo Tribunal Federal, ao se debruçar sobre a matéria, entendeu que:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO. CONDENAÇÃO TRANSITADA EM JULGADO. RECONHECIMENTO PESSOAL. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+(..)
+3. O entendimento desta Corte é no sentido de que "o art. 226 do Código de Processo Penal não exige, mas recomenda a colocação de outras pessoas junto ao acusado, devendo tal procedimento ser observado sempre que possível" (RHC 125.026-AgR, Relª. Minª. Rosa Weber).
+4. Agravo regimental desprovido" (HC n. 227.629/SP, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 28/6/2023, grifei).
+Outrossim, no que atine à questão da validade dos depoimentos policiais em geral, esta Corte também é pacífica no sentido de que eles merecem a credibilidade e a fé pública inerente ao depoimento de qualquer funcionário estatal no exercício de suas funções e ausentes indícios de que houvesse motivos pessoais para a incriminação injustificada da parte investigada (AgRg nos EDcl no HC n. 446.151/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2019; AgRg no HC n. 672.359/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/6/2021; e AREsp n. 1.936.393, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 8/11/2022).
+Nesse sentido:
+"O testemunho do policial é suficientemente para comprovar a autoria delitiva, consoante o entendimento predominante neste STJ, ressalvado o ponto de vista pessoal deste Relator" (AgRg no AREsp n. 2.283.182/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/4/2023).
+Observe-se que, em crimes cometidos na clandestinidade, sem a presença de qualquer (ou mesmo pouca) testemunha, a palavra da vítima assume especial relevo como meio de prova, nos termos do entendimento desta Corte (AgRg no AREsp n. 1.250.627/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 11/5/2018; REsp n. 1.969.032/RS, Sexta, Turma, Rel. Min. Olindo Menezes, Des. Convocado do TRF 1ª Região, DJe de 20/5/2022; e AgRg no HC n. 711.887/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 9/6/2023).
+Nesse sentido:
+"(..)Nos crimes patrimoniais como o descrito nestes autos, a palavra da vítima é de extrema relevância, sobretudo quando reforçada pelas demais provas dos autos" (AgRg no AREsp n. 1.250.627/SC, Relator Ministro JORGE MUSSI, Quinta Turma, DJe de 11/5/2018)" (AgRg no AREsp n. 2.192.286/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/5/2023).
+De mais a mais, é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC n. 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC n. 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
