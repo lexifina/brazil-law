@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA DO ÚLTIMO RECURSO INTERPOSTO. PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO DO AGRAVO INTERNO.
+1. "É vedada a interposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e da ocorrência da preclusão consumativa" (RCD no AREsp n. 1.441.835/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/3/2022, DJe de 1/4/2022).
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno (fls. 1.068-1.099) interposto pelo BANCO BRADESCO contra decisão monocrática de relatoria do Ministro Paulo de Tarso Sanseverino, que não conheceu do agravo em recurso especial em decorrência do óbice da Súmula n. 182/STJ (fls. 1.029-1.033).
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA cuja ementa é a seguinte (fl. 689):
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA DE HONORÁRIOS - VERBA HONORÁRIA FIXADA NA AÇÃO DE PRESTAÇÃO DE CONTAS, A QUAL POSSUI CARÁTER DÚPLICE - POSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS NAS DUAS FASES - JURISPRUDÊNCIA PACÍFICA DO STJ NESSE SENTIDO - INSURGÊNCIAS QUANTO AOS CÁLCULOS E PERCENTUAIS FIXADOS NO PROCESSO DE CONHECIMENTO - COISA JULGADA - MANUTENÇÃO DA DECISÃO - DEVE O PRESENTE CUMPRIMENTO DE SENTENÇA/ HONORÁRIOS AGUARDAR O DESFECHO DO PRINCIPAL NO TOCANTE AO QUANTUM - RECURSO CONHECIDO E DESPROVIDO - UNÂNIME.
+Embargos de declaração rejeitados (fl. 699):
+EMBARGOS DE DECLARAÇÃO - AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA DE HONORÁRIOS - VERBA HONORÁRIA FIXADA NA AÇÃO DE PRESTAÇÃO DE CONTAS, A QUAL POSSUI CARÁTER DÚPLICE - POSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS NAS DUAS FASES - JURISPRUDÊNCIA PACÍFICA DO STJ NESSE SENTIDO - INSURGÊNCIAS QUANTO AOS CÁLCULOS E PERCENTUAIS FIXADOS NO PROCESSO DE CONHECIMENTO - COISA JULGADA - MANUTENÇÃO DA DECISÃO - DEVE O PRESENTE CUMPRIMENTO DE SENTENÇA/ HONORÁRIOS AGUARDAR O DESFECHO DO PRINCIPAL NO TOCANTE AO QUANTUM - RECURSO CONHECIDO E DESPROVIDO - ALEGAÇÃO DE VÍCIOS - INEXISTÊNCIA - PREQUESTIONAMENTO -MANUTENÇÃO DO ACÓRDÃO - RECURSO CONHECIDO E DESPROVIDO - UNÂNIME.
+Sustenta que "não restam dúvidas de que o Agravante impugnou o fundamento do e. Tribunal Local que negou seguimento ao recurso especial pela ausência de violação ao art. 1022 e 489 do CPC, tendo argumentado que a referida decisão deveria ser reformada pela impossibilidade do e. Tribunal Local concluir, se deve ou não ser o recurso conduzido ao exame do Tribunal Superior, uma vez que não compete ao órgão responsável pela realização do juízo de admissibilidade aferir da razoabilidade dos fundamentos do recurso especial." (fls. 1.060-1.061).
+Alega que está "comprovado que o Agravante impugnou de forma específica o fundamento da decisão proferida pelo e. Tribunal Local em que negou seguimento ao recurso especial pela alegação do v. acórdão estar em consonância com a jurisprudência desta corte, o que não é verdade, ante o dissídio jurisprudencial acima demonstrado, de rigor que seja reformada a decisão ora agravada, a fim de conhecer, acolher e prover o Agravo em Recurso Especial, para enfim adentrara no mérito recursal e julgar as violações ali apontadas, em especial a divergência jurisprudencial, visando assim uniformização de entendimento a respeito desta importante matéria em discussão." (fl. 1.062)
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+Foram apresentadas contrarrazões (fls. 1.068-1.099).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA DO ÚLTIMO RECURSO INTERPOSTO. PRINCÍPIO DA UNIRRECORRIBILIDADE. NÃO CONHECIMENTO DO AGRAVO INTERNO.
+1. "É vedada a interposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e da ocorrência da preclusão consumativa" (RCD no AREsp n. 1.441.835/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/3/2022, DJe de 1/4/2022).
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O presente agravo não comporta conhecimento.
+Não se verifica, nos autos, situação apta a admitir a interposição de dois agravos internos contra a mesma decisão, porquanto deve ser aplicado o entendimento desta Corte no sentido de que, salvo os embargos de declaração e o recurso extraordinário, "é vedada a interposição simultânea de dois recursos contra o mesmo ato judicial, ante o princípio da unirrecorribilidade e da ocorrência da preclusão consumativa" (RCD no AREsp n. 1.441.835/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/3/2022, DJe de 1/4/2022).
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS AGRAVOS INTERNOS CONTRA A MESMA DECISÃO. NÃO CABIMENTO. OBSERVÂNCIA AO PRINCÍPIO DA UNICIDADE OU UNIRRECORRIBILIDADE RECURSAL. RECONHECIMENTO DA PRECLUSÃO CONSUMATIVA QUANTO AO SEGUNDO RECURSO. FORNECIMENTO DE MEDICAMENTO CONSIDERADO EXPERIMENTAL (OFF-LABEL). ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. MAJORAÇÃO DE HONORÁRIOS INDEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. É inadmissível o conhecimento do segundo agravo interno interposto, pois, em observância ao princípio da unicidade ou unirrecorribilidade recursal, só se admite um recurso contra uma única decisão judicial, salvo os embargos de declaração e o recurso extraordinário. Em ocasião anterior assentou-se nesta Corte que "é manifestamente incabível o segundo e o terceiro recursos interpostos pela mesma parte, contra a mesma decisão, em razão da preclusão consumativa e do princípio da unirrecorribilidade" (AgInt no RE nos EDcl no AgInt no REsp 1.701.567/PE, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 21/05/2019, DJe 24/05/2019).
+2. O acórdão recorrido está em sintonia com o entendimento firmado pelo Superior Tribunal de Justiça segundo o qual é abusiva a recusa da operadora do plano de saúde de custear a cobertura do medicamento registrado na ANVISA e prescrito pelo médico do paciente, ainda que se trate de fármaco off-label, ou utilizado em caráter experimental.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Consoante dispõe a Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração. 5. Agravo interno desprovido.
+(AgInt no REsp n. 1.943.693/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 3/4/2023, DJe de 10/4/2023.)
+In casu, a parte agravante já havia se insurgido contra a decisão de relatoria do Ministro Paulo de Tarso Sanseverino, que não conheceu do agravo em recurso especial (fls. 1.029-1.033) por meio do agravo interno de fls. 1.036-1.067.
+Portanto, é inviável o conhecimento do agravo interno em análise (fls. 1.068-1.099), tendo em vista a ocorrência de preclusão consumativa.
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
