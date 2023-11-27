@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta o acórdão ementado às fls. 1849-1850.
+Embargos de declaração providos para fins de prequestionamento.
+No recurso especial, a recorrente alega violação dos arts. 165, 458, incs. II e III, 463, inc. II, 515 e 535, inc. II, do CPC/1973, ao argumento de que, acaso se entenda por ausente o prequestionamento, deve ser anulado o acórdão recorrido, pois a Corte local não se manifestou expressamente a respeito dos dispositivos legais indicados na apelação.
+Quanto à questão de fundo, sustenta ofensa aos arts. 3º, incs. II, das Leis 10.637/2002 e 10.833/2003, sob os seguintes argumentos: a) considerando a jurisprudência majoritária do STJ em linha de que insumo, para fins de creditamento de PIS e de COFINS, deve ser entendido como todo e qualquer custo ou despesa essencial à realização da atividade fim da empresa, impõe-se a reforma do acórdão, a fim de reconhecer o direito à tomada de crédito de PIS e COFINS no que tange aos valores por si despendidos em relação aos itens arrolados; b) as Leis 10.637/2002 e 10.833/2003 não definiram o que deve ser considerado insumo para fins de creditamento do PIS e COFINS não cumulativos, sendo que a Receita Federal do Brasil adotou um conceito restritivo, valendo-se do quanto já firmado pela jurisprudência para fins de créditos de IPI; c) pretendendo equiparar conceitos e situações relacionados a tributos de materialidades completamente distintas, os atos regulamentares editados pela Receita Federal, exorbitando dos limites traçados pelas Leis 10.637/2002 e 10.833/2003, incorrem em ofensa ao princípio da legalidade (CF/88, arts. 5º, inc. II, e 150, inc. I) e da não cumulatividade (CF/88, art. 195, §12); d) as despesas de início relacionadas (comissões pagas a representantes comerciais; despesas financeiras decorrentes de empréstimos e financiamentos, independentemente da data da contratação; despesas com vale alimentação, refeitório, roupas e uniformes, equipamentos de segurança, viagens, estadias e alimentação, formação profissional e treinamentos, assistência de saúde ao trabalhador, material de escritório, material de limpeza, despesas com informática, telefone, honorários profissionais, publicidade e propaganda e seguros) caracterizam-se, sim, como insumos nos termos das Leis 10.637/2002 e 10.833/2003.
+Com contrarrazões.
+Parecer do MPF às fls. 2147-2155.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 2/2016/STJ.
+Tendo a parte insurgente impugnado o fundamento da decisão agravada, passa-se ao exame do recurso especial.
+Dito isso, afasta-se a alegada ofensa aos arts. 165, 458, incs. II e III, 463, inc. II, 515 e 535, inc. II, do CPC/1973, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Vale ressaltar que o malferimento foi indicado ao argumento de que deveria ser considerado caso se entendesse por não atendido o requisito do prequestionamento. Inclusive é o que também se retira dos aclaratórios opostos na Corte regional, onde a parte expressamente assentou: "Não se conformando com o v. aresto, pretendendo submeter a quaestio à apreciação dos Egrégios STJ e STF - (..) - a Embargante não pode olvidar dos rigores de Súmula nº 211 do STJ e das Súmulas 282 e 356 do STF, que exigem prequestionamento explícito dos dispositivos legais e constitucionais ditos infringidos pela Corte a quo como condição de admissibilidade do recurso especial e extraordinário, opõe os presentes declaratórios, requerendo o enfrentamento explícito dos dispositivos e questões envolvidos no deslinde da quaestio." (fl. 1862).
+Não obstante, os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do art. 535, inc. I e II, do CPC/1973, bem como para sanar a ocorrência de erro material, não se verificando a necessidade de prequestionamento na previsão legal.
+Quanto ao juízo de reforma, restou consignado pelo colegiado regional (fls. 1836-1848):
+"O fato das técnicas de não cumulatividade serem distintas para impostos e contribuições não retira legitimidade das disposições das Leis n.º 10.637/2002 e 10.833/2003. Tanto na fixação das alíquotas, em 7,6% e 1,65% (art. 2º), como nos creditamentos admitidos para definição da base de cálculo (art. 3º), o legislador exerceu sua competência sem ofensa à Constituição Federal.
+Os arts. 3º, II, das Leis nºs 10.637/2002 e 10.833/2003 apresentam um rol detalhado de quais elementos geram créditos ao contribuinte, in verbis:
+(..)
+A Secretaria da Receita Federal editou as Instruções Normativas da nº 247/2002 (PIS/PASEP) e nº 404/04 (COFINS), que ao explicitarem o conceito de insumo estabeleceram o seguinte:
+(..)
+Observa-se, no rol acima reproduzido, a previsão de creditamento de insumos utilizados na produção ou fabricação de bens destinados à venda. A legislação ordinária, no entanto, não definiu o alcance do termo "insumos". Isso não significa que se possa caracterizar como insumo todos os elementos, inclusive os indiretos, necessários à produção de produtos e serviços; não implica estender sua interpretação, de modo a permitir que sejam deduzidos, sem restrição, todos e quaisquer custos da empresa despendidos no processo de industrialização e comercialização do produto fabricado.
+Ademais, a regulamentação constante no art. 8º da IN SRF n.º 404/04 (quanto à COFINS), e no art. 66 da IN SRF n.º 247/02 (quanto ao PIS), não implica restrição do conceito legal de insumo, acompanhando os limites traçados pelo legislador ordinário.
+A demandante sustenta que todas as despesas que venham a contribuir para a obtenção da receita, são insumos e que a interpretação do termo deve ser ampla e extensiva.
+Requer o desconto das despesas com:
+1. comissões pagas a representantes comerciais;
+2. despesas financeiras decorrentes de empréstimos e financiamentos;
+3. despesas com vale alimentação;
+4. refeitório;
+5. roupas e uniformes;
+6. equipamentos de segurança; viagens, estadias e alimentação de seus diretores, gerentes e funcionários quando em serviços;
+7. formação profissional e treinamentos;
+8. assistência de saúde ao trabalhador;
+9. material de escritório;
+10. material de limpeza;
+11. despesas com informática;
+12. telefone;
+13. honorários profissionais;
+14. publicidade e propaganda e 15. seguros;
+No entanto, a isenção, exclusão, extinção, anistia ou remissão de crédito tributário somente podem ser concedidos mediante lei específica, nos exatos termos do art. 150, § 6º, da Constituição Federal e art. 97 do Código Tributário Nacional.
+(..)
+Com efeito, as Leis n.ºs 10.637/02 e 10.833/03 já incluíram dentre as hipóteses de desconto, os créditos calculados em relação a "energia elétrica consumida nos estabelecimentos da pessoa jurídica", "aluguéis de prédios, máquinas e equipamentos, pagos a pessoa jurídica, utilizados nas atividades da empresa", "vale-transporte, vale-refeição ou vale-alimentação, fardamento ou uniforme fornecidos aos empregados por pessoa jurídica que explore as atividades de prestação de serviços de limpeza, conservação e manutenção" e outros, o que não seria necessário se tais elementos estivessem abrangidos no conceito de insumos.
+Como se vê, o legislador não pretendeu alargar o conceito de insumo da forma defendida pela demandante, "(..) acaso fosse a intenção do legislador a adoção da generalidade dos "custos de produção", este não teria se preocupado em especificar as situações que ensejam os descontos ou aproveitamento de créditos nos incisos dos dispositivos legais que regem a matéria, porquanto tudo estaria concentrado numa só estipulação." (TRF4, Apelação Cível Nº 5010427-13.2010.404.7100, 2a. Turma, Des. Federal Otávio Roberto Pamplona, por unanimidade, juntado aos autos em 09/12/2011).
+(..)
+Impende salientar que não se aplica ao PIS e à COFINS a legislação do Imposto de Renda, em que os custos e as despesas necessárias para a realização das atividades operacionais da empresa podem ser deduzidos, nos termos dos arts. 290 e 299 do Decreto nº 3.000/1999.
+Em relação ao aproveitamento integral dos créditos de PIS e COFINS relativos às despesas financeiras decorrentes de empréstimos e financiamentos, requer a apelante sejam afastadas as prescrições normativas contidas na redação dada pelos artigos 21 e 37 da Lei nº 10.865/04 ao artigo 3º, V, das Leis nº 10.637/02 e 10.833/03, afirmando serem inválidas.
+A partir da edição da Lei n.º 10.865/05, por força dos arts. 21 e 37, os artigos 3º, inciso V, das Leis n.ºs 10.833/03 e 10.637/02 foram alterados, passando a ter a seguinte redação:
+(..)
+A redação original do art. 3º, inciso V, da Lei n.º 10.637/02 dispunha o seguinte:
+(..)
+Posteriormente, a Lei n.º 10.684/2003 deu nova redação ao referido dispositivo legal:
+(..)
+Já a redação do art. 3º, inciso V, da Lei 10.833/03 possuía, desde o início, o seguinte conteúdo:
+(..)
+Os dispositivos rechaçados suprimiram a possibilidade de creditamento de PIS e COFINS sobre as despesas financeiras decorrentes de empréstimos e financiamentos. Tal inovação legislativa não pode ser aplicada de forma retroativa, sendo, pois, facultado à contribuinte apurar créditos a esse título, relativamente ao período compreendido entre o início da vigência do regime não cumulativo e a data da vigência da Lei 10.865/04.
+Sobre a legitimidade das alterações efetuadas, integro às razões deste julgado excertos da explicitação proferida pelo Desembargador Federal Otávio Roberto Pamplona na AC nº 2006.71.00.001812-6, em que o magistral raciocínio do colega é inteiramente aplicável à presente lide:
+(..)
+Destarte, não há falar em inconstitucionalidade dos artigos 21 e 31 da Lei nº 10.865/04 por ofensa a não cumulatividade. O art. 195, § 12, da CF atribuiu status constitucional a não cumulatividade de PIS e COFINS, mas diversamente das normas e princípios do IPI e do ICMS, conferiu ampla liberdade ao legislador ordinário para tornar eficaz a norma constitucional.
+Com efeito, a não-cumulatividade é técnica de apuração tributária, cuja operacionalização foi delegada ao legislador infraconstitucional, cabendo a este estabelecer os créditos passíveis de serem computados pelo contribuinte e também, restringir ou, até mesmo, extinguir os créditos já existentes, sem que, em princípio, haja afronta à Constituição Federal.
+De fato, se extrai dos excertos colacionados que a alteração promovida pela Lei nº 10.865/04 (artigos 21 e 37) é constitucional, porém necessário garantir ao contribuinte o direito à manutenção dos critérios envolvendo despesas de empréstimos e financiamentos contraídos até a data de vigência da nova lei, dada a incorporação ao seu patrimônio jurídico, em submissão aos princípios da não cumulatividade, da anterioridade mitigada, da segurança jurídica (não surpresa) e do direito adquirido.
+No tocante ao período posterior a 1º.08.2004, quando já cumprida a anterioridade nonagesimal em relação às alterações promovidas pelos arts. 21 e 37 do referido diploma legal, não há mais possibilidade de creditamento do PIS e COFINS sobre as despesas financeiras decorrentes de empréstimos e financiamentos.
+Anote-se que o presente feito foi ajuizado em 30.05.2014, restando patente a observância do prazo de anterioridade nonagesimal em relação aos créditos discutidos, pois a Lei nº 10.865/2004 gerou efeitos a partir de 01/09/2004.
+(..)
+Destarte, ausente a ilegalidade apontada pela impetrante, a sentença que denegou a segurança postulada deve ser mantida."
+Sobre o tema, o Superior Tribunal de Justiça já firmou, em sede de recurso representativo de controvérsia, que "(a) é ilegal a disciplina de creditamento prevista nas Instruções Normativas da SRF ns. 247/2002 e 404/2004, porquanto compromete a eficácia do sistema de não-cumulatividade da contribuição ao PIS e da COFINS, tal como definido nas Leis 10.637/2002 e 10.833/2003; e (b) o conceito de insumo deve ser aferido à luz dos critérios de essencialidade ou relevância, ou seja, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo Contribuinte." (REsps 1221170/PR, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe de 24/4/2018 - Tema 779/STJ).
+Nesse contexto, de fato a revisão proposta pela recorrente demanda análise do conteúdo fático-probatório dos autos, a fim de determinar a essencialidade ou relevância/ imprescindibilidade ou importância de cada despesa cujo creditamento é pleiteado no caso concreto, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ademais, evidencia-se que a recorrente não impugnou a fundamentação do acórdão recorrido nas razões do seu recurso especial, o que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula 283/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. PIS E COFINS. REGIME NÃO-CUMULATIVO. ARTS. 3º, INCS. II, DAS LEIS 10.637/2002 E 10.833/2003. INSUMOS. CREDITAMENTO. ESSENCIALIDADE E RELEVÂNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ACORDÃO COM FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO, NEGAR-LHE PROVIMENTO.
