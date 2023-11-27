@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. MATÉRIA NÃO ALEGADA NO MOMENTO OPORTUNO. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio.
+2. É recorrível a decisão que determina o sobrestamento e/ou retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação, apenas quando demonstrado erro ou equívoco, nos termos do art. 1.037, §§ 9º e 10, do CPC ou para se discutir o preenchimento dos requisitos relacionados ao conhecimento do próprio recurso.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por A D L - EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão monocrática de minha relatoria que conheceu do agravo para negar provimento ao recurso especial (fls. 1312-1315).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado (fl. 1023):
+EMENTA  APELAÇÃO CÍVEL  CUMPRIMENTO DE SENTENÇA  JUÍZO DE RETRATAÇÃO  RECUPERAÇÃO JUDICIAL - CRÉDITO CONSTITUÍDO ANTERIORMENTE AO PEDIDO CONCURSALIDADE  JUÍZO DE RETRATAÇÃO EXERCIDO  RECURSO CONHECIDO E NÃO PROVIDO.
+O c. Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo nº 1.843.332/RS, firmou a seguinte tese acerca da submissão de créditos aos efeitos da recuperação judicial (Tema 1.051), in verbis: "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador".
+Assim, o crédito em questão submete-se à recuperação judicial, porquanto existente na data do pedido de recuperação judicial. Juízo de retratação exercido, para adequar o julgamento da apelação cível ao entendimento consolidado pela Corte da Cidadania.
+Rejeitados os embargos de declaração opostos (fls. 1068-1072).
+Alega a agravante que "uma vez que o agravo interno foi interposto anteriormente ao agravo em recurso especial, impossível a admissão e julgamento do agravo em recurso especial, uma vez que incide no caso preclusão consumativa sobre o recurso que tenha sido protocolizado por último, sendo o agravo em recurso especial intempestivo!" (fl. 1324).
+Aduz, ainda, que "Não há que se cogitar em preclusão consumativa visto que dando da determinação de retorno dos autos ao Tribunal a quonão havia qualquer recurso passível de interposição visto que é entendimento uníssono desta E. Corte que "O ato judicial que determina o retorno dos autos à Corte local, a fim de que lá seja exercido o competente juízo de retratação, nos termos dos arts. 1.040 e 1.041 do CPC/2015, não possui carga decisória, por isso se trata de provimento irrecorrível"" (fl. 1326).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. MATÉRIA NÃO ALEGADA NO MOMENTO OPORTUNO. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio.
+2. É recorrível a decisão que determina o sobrestamento e/ou retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação, apenas quando demonstrado erro ou equívoco, nos termos do art. 1.037, §§ 9º e 10, do CPC ou para se discutir o preenchimento dos requisitos relacionados ao conhecimento do próprio recurso.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece prosperar, na medida em que o agravante não trouxe argumentos capazes de infirmar a decisão recorrida.
+Conforme jurisprudência do Superior Tribunal de Justiça, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio.
+A propósito, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. LIQUIDAÇÃO DE SENTENÇA. 1. JUÍZO DO TRIBUNAL ORIGINÁRIO QUE NÃO VINCULA ESTA CORTE SUPERIOR. DUPLO CONTROLE DE ADMISSIBILIDADE DO RECURSO. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 3. NECESSIDADE DE ESCLARECIMENTOS DA PERÍCIA E RESPOSTAS A TODOS OS QUESTIONAMENTOS APONTADOS PELO ASSISTENTE TÉCNICO. IMPOSSIBILIDADE. QUESTÃO PRECLUSA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. Conforme jurisprudência desta Corte Superior, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio. ..
+4. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.922.430/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. NULIDADE DE CLÁUSULAS CONTRATUAIS. ESTABELECIMENTO DISTINTO DE "SHOPPING CENTER". "RES SPERATA" INDEVIDA. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, sujeitam-se à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação no momento próprio. Precedentes (AgInt no AREsp n. 2.019.623/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/9/2022, DJe de 4/10/2022).
+ ..
+6. Agravo interno a que se nega provimento.(AgInt no AREsp n. 2.211.563/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023.)
+No caso dos autos, a agravante alega que o STJ não poderia ter determinado o retorno dos autos à origem para aplicação do Tema n. 1.051/STJ em razão de erro grosseiro. Alega que da decisão de inadmissibilidade do primeiro recurso especial a ora recorrida interpôs dois recursos (agravo interno e agravo em recurso especial), tendo interposto primeiramente o agravo interno. Logo, impossivel o julgamento do agravo em recurso especial interposto depois, uma vez que incide no caso o princípio da unirrecorribilidade das decisões.
+A irresignação não deve prosperar.
+A ora agravante deveria ter se insurgido quanto à violação do princípio da unirrecorribilidade nos autos do AREsp n. 1905569/MS, que determinou o retorno dos autos à origem para aplicação do Tema n. 1051/STJ. Contudo, contra esta decisão a parte recorrente não interpôs nenhum recurso, tendo transitado em julgado em 10/9/2021.
+Ressalta-se que não se desconhece a jurisprudência desta Corte segundo a qual é irrecorrível o ato judicial que determina o sobrestamento e/ou retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC). Contudo, contra esta decisão é cabível recurso de agravo interno quando demonstrado erro ou equívoco, nos termos do art. 1.037, §§ 9º e 10, do CPC, ou para se discutir o preenchimento dos requisitos relacionados ao conhecimento do próprio agravo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA AGUARDAR JULGAMENTO DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA. AUSÊNCIA DE PREJUÍZO NO SOBRESTAMENTO. IRRECORRIBILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão que determina o retorno dos autos ao Tribunal de origem, para que aguarde o julgamento de recurso representativo da controvérsia, não gera prejuízo à parte, sendo portanto irrecorrível, exceto quando demonstrado erro.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.229.024/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA, PELO STF. RE 816.830/SC (TEMA 801). DESPACHO QUE DETERMINA A BAIXA DOS AUTOS AO TRIBUNAL DE ORIGEM, PARA AGUARDAR JULGAMENTO DA MATÉRIA, PELO STF. IRRECORRIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. A questão discutida no presente Recurso Especial insere-se na controvérsia estabelecida no RE 816.830/SC, Rel. Ministro MARCO AURÉLIO, Tema 801, em que se discute a "constitucionalidade da incidência da contribuição destinada ao SENAR sobre a receita bruta proveniente da comercialização da produção rural". Nesse contexto, o despacho ora agravado determinou a devolução dos autos ao Tribunal de origem, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Extraordinário com repercussão geral reconhecida, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+II. Na forma da jurisprudência desta Corte, "não é cabível a interposição de agravo interno contra decisão que determina o sobrestamento de recurso especial, até que seja proferida decisão pelo Supremo Tribunal Federal nos autos de recurso extraordinário com repercussão geral, com a determinação de retorno dos autos à origem para que sejam analisados nos moldes dos arts. 1.040 e 1.041 do Código de Processo Civil de 2015" (STJ, AgInt no AREsp 1.254.323/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/09/2018), salvo se demonstrado, efetivamente, erro ou equívoco, nos termos do art. 1.037, §§ 9º e 10, do CPC/2015, o que, entretanto, não é o caso dos autos. No mesmo sentido: STJ, AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 20/09/2017; AgInt no REsp 1.213.520/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/10/2018; AgInt no REsp 1.704.831/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 08/08/2018; AgInt nos EDcl no REsp 1.566.408/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 30/08/2018; e AgInt no REsp 1.140.843/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 30/10/2018.
+III. Agravo interno não conhecido.
+(AgInt no REsp n. 1.467.929/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/8/2023, DJe de 29/8/2023.)
+Com a mesma ratio decidendi, cito o seguinte precedente:
+SERVIDOR PÚBLCO FEDERAL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO DE CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO PRECLUSA. ACÓRDÃO RECORRIDO. OMISSÕES. VIOLAÇÃO AO ART. 1.022, II, DO CPC/2015. PRESSUPOSTOS PARA A CARACTERIZAÇÃO DA OFENSA VERIFICADOS. RETORNO DOS AUTOS À ORIGEM. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, in casu, o Código de Processo Civil de 2015.
+II - É recorrível a decisão de conversão do Agravo em Recurso Especial, porém somente para se discutir o preenchimento dos requisitos relacionados ao conhecimento do próprio Agravo, motivo pelo qual se afigura preclusa a insurgência formulada apenas em sede de Agravo Interno, interposto contra pronunciamento que decidiu o Recurso Especial. Precedentes.
+III - Configurada a omissão no acórdão do Tribunal a quo e preenchidos os requisitos para o reconhecimento de violação ao art. 1 .022 do CPC/2015, impõe-se o retorno dos autos à origem, a fim de que o vício seja sanado.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do CPC/2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno conhecido em parte e improvido.
+(AgInt no REsp n. 1.993.522/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 19/6/2023, DJe de 22/6/2023.)
+Assim, da decisão que determinou o retorno dos autos à origem caberia apenas ao TJMS negar seguimento ao recurso especial, se o acórdão recorrido estivesse em conformidade com o entendimento do STJ, ou realizar o juízo de retratação.
+As questões referentes à admissibilidade do primeiro agravo em recurso especial já foram analisadas por esta Corte nos autos do AREsp n. 1905569/MS. Logo, apesar da aparente existência de erro grosseiro na interposição dos recurso, tal fato deveria ter sido alegado em momento oportuno.
+Assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos da decisão ora agravada.
+Dessarte, nada havendo a retificar ou esclarecer na decisão agravada, deve ela ser mantida.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
