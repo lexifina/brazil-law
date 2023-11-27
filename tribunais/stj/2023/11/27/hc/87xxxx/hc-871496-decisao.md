@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de GIAN PAULO MIRANDA EVARISTO, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que negaram provimento ao agravo de execução, em acórdão assim ementado (e-STJ, fl. 65):
+"AGRAVO EM EXECUÇÃO - INDULTO DE PENA - Não preenchimento dos requisitos para a concessão da benesse. Decreto n. 11.302/2022. Arts. 5º, 7º e 11. Indulto que não poderá ser concedido enquanto não cumprida a pena do crime impeditivo. Concurso de crimes referente a pluralidade de execuções. Decisão mantida. AGRAVO DESPROVIDO."
+Neste writ, os impetrantes ressaltam que "em que pese o paciente possuir condenações por crimes impeditivos, deve ser exposto, que o crime comum(não impeditivo), art. 155, caput, do Código Penal, não foram praticados em concurso de crimes, com os crimes impeditivos citados, o que possibilitava à luz do decreto a concessão do indulto aos crimes do art. 155, caput, do Código Penal". (e-STJ, fl. 10).
+Aduz que "o paciente pretendia a concessão do indulto apenas com relação ao crime do art. 155, caput do Código Penal (crime não impeditivo) e não dos crimes impeditivos, art. 157, §2º do Código Penal e art. 33, caput, da lei de drogas. Isso porque, o próprio decreto possibilitou a análise do pedido de forma individualizada" (e-STJ, fl. 10).
+Requer a concessão do benefício ao paciente.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+A defesa pleiteia a concessão de indulto ao paciente, com base no Decreto Presidencial n. 11.302, de 22/12/2022, pois estariam cumpridos os requisitos.
+Recentemente, a questão foi apreciada pela Terceira Seção desta Corte Superior, ocasião em que foi aprovada tese segundo a qual: "tem-se que apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda d os delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos", consoante a ementa do julgado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.302/2022). INTERPRETAÇÃO RESTRITIVA. ART. 11, PARÁGRAFO ÚNICO, DO REFERIDO DECRETO. CONDENAÇÃO POR CRIME IMPEDITIVO E CRIME NÃO IMPEDITIVO. CONCURSO NÃO CARACTERIZADO. POSSIBILIDADE DE INDULTO. PRECEDENTE.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de indulto deve ser interpretado restritivamente, sob pena de invasão do Poder Judiciário na competência exclusiva da Presidência da República, conforme art. 84, XII, da Constituição Federal.
+2. Para fins do referido decreto, apenas no caso de crime impeditivo cometido em concurso com crime não impeditivo que se exige o cumprimento integral da reprimenda dos delitos da primeira espécie. Em se tratando de crimes cometidos em contextos diversos, fora das hipóteses de concurso (material ou formal), não há de se exigir o cumprimento integral da pena pelos crimes impeditivos.
+3. Agravo regimental improvido."
+(AgRg no HC n. 856.053/SC, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 8/11/2023, DJe de 14/11/2023)
+Assim, a compreensão externada pelo Tribunal local diverge da jurisprudência desta Corte Superior, pois, apenas em caso de concurso de crimes impeditivos e não impeditivos não seria possível aplicar o indulto, nos termos do Decreto Presidencial n. 11.302/2022.
+Nesse contexto, constata-se constrangimento ilegal apto a ensejar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para deferir ao sentencia do o indulto previsto no Decreto-Presidencial n. 11.302/2022, relativamente às penas aplicadas ao crime do art. 155, caput do Código Penal, Execução Penal nº 0007313-70.2019.8.26.0996.
+Comunique-se, com urgência, esta decisão, ao Juízo das execuções criminais e ao Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
