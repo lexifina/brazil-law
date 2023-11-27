@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a notificação extrajudicial expedida exclusivamente para endereço eletrônico não se mostra idônea para constituir em mora o devedor.
+2. A modificação da conclusão da instância originária sobre a falta de ciência da executada acerca da comunicação expedida para seu email esbarra na Súmula 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. contra decisão monocrática desta relatoria (e-STJ, fls. 5-8), assim ementada:
+RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO NÃO CONHECIDO.
+Nas razões recursais, a agravante sustenta a inaplicabilidade da Súmula 7/STJ.
+Defende a validade da notificação extrajudicial expedida para o endereço eletrônico do devedor para fins de constituição em mora.
+Sendo assim, requer a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fl. 22).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL POR MEIO DE CORREIO ELETRÔNICO. AUSÊNCIA DE GARANTIA DE RECEBIMENTO E DE LEITURA. REEXAME. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a notificação extrajudicial expedida exclusivamente para endereço eletrônico não se mostra idônea para constituir em mora o devedor.
+2. A modificação da conclusão da instância originária sobre a falta de ciência da executada acerca da comunicação expedida para seu email esbarra na Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos n. 2 e 3/STJ, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que a recorrente interpôs recurso especial (e-STJ, fls. 24-40), com base na alínea a do permissivo constitucional, alegando afronta aos arts. 2º, § 2º, do Decreto-Lei 911/1969; e 439, 440 e 441 do CPC/2015.
+O Tribunal de Justiça do Estado do Rio Grande do Sul admitiu a insurgência (e-STJ, fls. 46-51).
+Encaminhado o recurso ao Superior Tribunal de Justiça, esta relatoria, em decisão monocrática, não conheceu do apelo excepcional (e-STJ, fls. 5-8).
+Irresignada, a agravante interpõe o presente agravo interno.
+Todavia, o inconformismo não merece prosperar.
+No recurso especial, a insurgente defendeu a validade da notificação extrajudicial enviada ao endereço eletrônico da recorrida para fins de constituição em mora.
+O Tribunal originário, ao apreciar a controvérsia, não acolheu os argumentos da recorrente por entender que o envio da notificação ao e-mail da agravada não constitui meio idôneo para consolidação da mora.
+Esse posicionamento está em harmonia com a orientação jurisprudencial do Superior Tribunal de Justiça, conforme se verifica do seguinte precedente:
+CIVIL. DIREITO PROCESSUAL CIVIL. BUSCA E APREENSÃO REGIDA PELO DECRETO-LEI Nº 911/1969. MODIFICAÇÃO INTRODUZIDA NO DECRETO-LEI Nº 911/1969 PELA LEI Nº 13.043/2014. FINALIDADE DE FACILITAR A COMPROVAÇÃO DA MORA PELO CREDOR E DE DESBUROCRATIZAR O PROCEDIMENTO. SIMPLES ENVIO DE CARTA REGISTRADA COM AVISO DE RECEBIMENTO. INTERPRETAÇÃO EXTENSIVA PARA PERMITIR QUE A CONSTITUIÇÃO EM MORA OCORRA MEDIANTE ENVIO DE E-MAIL AO DEVEDOR. IMPOSSIBILIDADE. MODALIDADE NÃO AUTORIZADA PELO LEGISLADOR. CIÊNCIA INEQUÍVOCA A RESPEITO DO RECEBIMENTO, LEITURA E CONTEÚDO QUE DEMANDARIA ATIVIDADE INSTRUTÓRIA INCOMPATÍVEL COM O RITO ESPECIAL DO DECRETO-LEI Nº 911/1969. POSSIBILIDADE DE ADITAMENTO À PETIÇÃO INICIAL ANTES DE SEU INDEFERIMENTO. DESNECESSIDADE QUANDO O VÍCIO NÃO SEJA SUSCETÍVEL DE SUPERAÇÃO OU SANEAMENTO. COMPROVAÇÃO DE MORA NA FORMA DA LEI QUE É CONDIÇÃO DE PROCEDIBILIDADE. IMPOSSIBILIDADE DE SUA COMPROVAÇÃO, DE FORMA DISTINTA DA PREVISTA EM LEI, NO CURSO DA AÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. SÚMULA 284/STF.
+1- Recurso especial interposto em 22/09/2022 e atribuído à Relatora em 26/10/2022.
+2- Os propósitos recursais consistem em definir: (i) se, em ação de busca e apreensão regida pelo Decreto-Lei nº 911/1969, é admissível a comprovação da mora do réu mediante o envio da notificação extrajudicial por correio eletrônico (e-mail); e (ii) se, ainda que se admita como inválida essa forma de notificação extrajudicial, seria obrigatória a concessão de prazo para emenda da petição inicial antes de seu indeferimento.
+3- É inadmissível o recurso especial ao fundamento de violação ao art. 10, § 1º, da MP 2-200-2/2001 e dos arts. 10, 188 e 277, todos do CPC/15, uma vez que o acórdão recorrido não emitiu juízo de valor a respeito dos referidos dispositivos legais e não houve a oposição de embargos de declaração na origem. Aplicabilidade da Súmula 211/STJ.
+4- Se é verdade que, na sociedade contemporânea, tem crescido o uso de ferramentas digitais para a prática de atos de comunicação de variadas naturezas, não é menos verdade que o crescente uso da tecnologia para essa finalidade tem de vir acompanhado de regulamentação que permita garantir, minimamente, que a informação transmitida realmente corresponde aquilo que se afirma estar contida na mensagem e de que houve o efetivo recebimento da comunicação pelo seu receptor.
+5- Antes da modificação proporcionada pela Lei nº 13.043/2014, o art. 2º, § 2º, do Decreto-Lei nº 911/1969 exigia a comprovação da mora ocorresse por carta registrada expedida pelo Cartório de Títulos e Documentos ou pelo protesto do título, a critério do credor.
+6- Após a alteração do Decreto-Lei nº 911/1969 causada pela Lei nº 13.043/2014, passou-se a permitir que a comprovação da mora pudesse ocorrer mediante o envio de simples carta registrada com aviso de recebimento, sequer se exigindo, a partir de então, que a assinatura constante do aviso fosse a do próprio destinatário.
+7- A expressão "poderá ser comprovada por carta registrada com aviso de recebimento" adotada pelo legislador reformista deve ser interpretada à luz da regra anterior, mais rígida, de modo a denotar a maior flexibilidade e simplicidade incorporadas pela Lei nº 13.043/2014, mas não pode ser interpretada como se a partir de então houvessem múltiplas possibilidades à disposição exclusiva do credor, como, por exemplo, o envio da notificação por correio eletrônico, por aplicativos de mensagens ou redes sociais, que não foram admitidas pelo legislador.
+8- Descabe cogitar a possibilidade de reconhecer a validade da notificação extrajudicial enviada somente por correio eletrônico porque teria ela atingido a sua finalidade, na medida em que a ciência inequívoca de seu recebimento pressuporia o exame de uma infinidade de aspectos relacionados à existência de correio eletrônico do devedor fiduciante, ao efetivo uso da ferramenta pelo devedor fiduciante, a estabilidade e segurança da ferramenta de correio eletrônico e a inexistência de um sistema de aferição que possua certificação ou regulamentação normativa no Brasil, de modo a permitir que as conclusões dele advindas sejam admitidas sem questionamentos pelo Poder Judiciário.
+9- A eventual necessidade de ampliar e de aprofundar a atividade instrutória, determinando-se, até mesmo, a produção de uma prova pericial a fim de se apurar se a mensagem endereçada ao devedor fiduciante foi entregue, lida e se seu conteúdo é aquele mesmo afirmado pelo credor fiduciário, instalaria um rito procedimental claramente incompatível com os ditames do Decreto-Lei nº 911/1969.
+10- A aplicação das regras gerais de sanabilidade previstas na legislação processual pressupõe, evidentemente, que o vício processual seja suscetível de superação ou de saneamento, de modo que, inexistindo essa possibilidade, estará o juiz autorizado a desde logo indeferir a petição inicial.
+11- Na hipótese, a existência de mora do devedor fiduciante, devidamente comprovada nos termos da lei, é condição de procedibilidade da adoção do procedimento especial previsto no Decreto-Lei nº 911/1969, de modo que não há que se falar na possibilidade de aditamento da petição para facultar ao credor fiduciário a comprovação da existência desse requisito de forma distinta da prevista em lei no curso da ação.
+12- Não se conhece do recurso especial por dissídio jurisprudencial quando ausente o cotejo analítico entre os acórdãos recorrido e paradigmas.
+13- Recurso especial parcialmente conhecido e, nessa extensão, não-provido.
+(REsp n. 2.035.041/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 25/4/2023, DJe de 27/4/2023.)
+No caso em exame, a Corte local não só consignou a impossibilidade de interpelação exclusiva da devedora pelo endereço eletrônico indicado no contrato, como atestou que a agravada não teve ciência da comunicação.
+Com efeito, em virtude de as conclusões da instância originária estarem amparadas no conjunto fático-probatório dos autos, mostra-se vedado ao Superior Tribunal de Justiça rever o posicionamento adotado, dada a incidência da Súmula 7/STJ.
+Dessa maneira, tendo em vista que as alegações feitas no presente agr avo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
