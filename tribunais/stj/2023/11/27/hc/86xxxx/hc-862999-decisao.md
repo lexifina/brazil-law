@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 73):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE DELITO CONVERTIDA EM PREVENTIVA. PRIMARIEDADE. PRESUNÇÃO DE INOCÊNCIA. MEDIDAS CAUTELARES. REQUISITOS DO ART. 312 DO CPP PRESENTE. FUNDAMENTAÇÃO INDÔNEA. MANUTENÇÃO DA PRISÃO PREVENTIVA DO PACIENTE.
+1.Insurgência contra decisão que indeferiu pedido de revogação da prisão preventiva. Ausência de ilegalidade ou constrangimento ilegal. Verificadas a existência dos crimes e indícios suficientes de autoria.
+2.Natureza, quantidade e diversidade de drogas apreendidas, 6kg de maconha, haxixe, LSD, ecstasy, além de 190 pés de cannabis. Necessidade de segregação do paciente da sociedade, pelo excessivo mal que essas drogas podem causar à saúde pública, o que demonstra, por si só, a periculosidade do agente.
+3.Primariedade, isoladamente, não justifica a soltura do paciente.
+4.Presunção de inocência. Ausência de violação do princípio constitucional, pois não é incompatível com a prisão processual e não impõe ao paciente pena antecipada, uma vez que deriva de sua periculosidade e não do reconhecimento da culpabilidade.
+5.Medidas cautelares previstas no art. 319 do CPP.
+Insuficientes para manutenção da ordem pública.
+6.Presentes os requisitos do art. 312 do CPP.
+7.Mérito. Impossibilidade de análise profunda da matéria de mérito em sede "habeas corpus" e depende de prova a ser produzida.
+8.Ordem denegada.
+O paciente foi preso em flagrante, convertido em preventiva, por tráfico de drogas.
+Em síntese, a defesa alega que não foi demonstrado o periculum libertatis, tampouco a inadequação de medidas cautelares menos severas. Ressalta a presença de condições pessoais favoráveis e a presunção constitucional de inocência.
+Requer a imediata concessão da liberdade provisória.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal manifestou-se pelo não conhecimento e concessão da ordem de ofício.
+A prisão preventiva institui-se como mecanismo extremado, de aplicação excepcional, que se admite apenas nas hipóteses taxativas da legislação processual e somente quando não visualizado outro meio hábil de assegurar a aplicação da lei penal, a manutenção da ordem pública e econômica e o adequado fluxo dos atos de investigação e instrução.
+Consta da decisão que homologou o flagrante e o converteu em custódia preventiva (fl. 66):
+A prisão preventiva é necessária para garantia da ordem pública, considerando- se a gravidade em concreto da infração cometida, bem como a periculosidade social do agente.
+A variedade, natureza e quantidade de drogas apreendidas -a saber: a) 190 pés de tamanhos diversos de cannabis, dos quais se retirou pontas como amostra sendo positivo para maconha (Laudo 5017/2023 - 1 porção de 98,18 gramas de maconha); b) 01 saco contendo vegetal cannabis - laudo 5014/2023 - 6 quilogramas de maconha; c) 01 porção de 118,69 gramas de maconha - laudo 5015/2023; d) 01 porção pesando 115,06 gramas de Haxixe - laudo 5016/2023; e) 01 caixa contendo sementes de maconha; f) 01 cartela pequena contendo substância aparentando LSD; g) 01 comprimido aparentando ser ECSTASY; h) vegetais aparentando ser cogumelos - é significativa e, portanto, constitui indício suficiente do envolvimento pretérito do imputado com o tráfico ilícito de entorpecentes.
+Ademais, foram apreendidos objetos relacionados ao cultivo, produção e ao tráfico ilícito de entorpecentes, tais como 03 cilindros, 01 embalagem de fertilizante ácido fosfórico, balança de precisão, piteiras, recipientes contendo ampolas, 02 aparelhos celular.
+Como adiantado em liminar que ora se confirma, a prisão preventiva está amparada em fundamentação idônea. A pericu losidade em concreto foi inferida pela apreensão de expressiva quantidade de drogas: 190 pés de cannabis, 6,118kg de maconha, 1 caixa contendo sementes de maconha, 115,06g de haxixe, 1 cartela de substância aparentando ser LSD, 1 comprimido aparentando ser ecstasy, e vegetais aparentando ser cogumelos. Também foram encontrados objetos relacionados ao cultivo, produção e tráfico de drogas.
+Embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291.125/BA, relatora Ministra Laurita Vaz, Quinta Turma, DJe 03/6/2014; AgRg no RHC n. 45.009/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 27/5/2014; HC n. 287.055/SP, relator Ministro Moura Ribeiro, Quinta Turma, DJe 23/5/2014; RHC n. 42.935/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 28/5/2014.
+"Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC n. 573.598/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 30/6/2020)
+Vale destacar que o fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC n. 95.544/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018; e RHC n. 68.971/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 9/10/2017.
+Ressalte-se, por oportuno, que a prisão preventiva não caracteriza antecipação de pena. Trata-se de medida de natureza processual, que não dispensa o preenchimento de seus pressupostos legais, traduzidos por intermédio de fundamentação idônea, calcada em elementos concretos. Assim, não há violação à garantia constitucional de presunção de inocência, mormente por não constituir reconhecimento definitivo de culpabilidade. Neste sentido: HC n. 245.908/MG, relator Ministro Og Fernandes, Sexta Turma, DJe 22/08/2012.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
