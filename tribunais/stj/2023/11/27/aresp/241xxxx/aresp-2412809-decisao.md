@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A. (XP) contra decisão que não admitiu seu apelo nobre.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre, interposto com base no art. 105, III, alínea a, da CF, XP alegou a violação dos arts. 489 e 1.022 do CPC, arts. 422, 932 e 945, do Código Civil, art. 17, §1º da Instrução n. 434/2006, ao sustentar que (1) houve negativa de prestação jurisdicional (2) foi desrespeitado o princípio da boa fé objetiva (3) deveria ser sido aplicada a culpa concorrente na condenação do presente caso.
+(1) Da prestação jurisdicional
+XP alegou violação aos arts. 1.022, II e 489, §1º, II, III, IV, do CPC, por defender que o acórdão estadual foi omisso ao não considerar pontuações fáticas em sua decisão.
+Inicialmente, cumpre esclarecer que é pacífica a jurisprudência desta Corte Superior ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes.
+No caso, verifica-se que o r. acórdão estadual apreciou fundamentadamente a controvérsia dos autos e delineou de forma clara e objetiva os argumentos fáticos trazidos, decidindo apenas contrariamente à pretensão da parte recorrente.
+Assim sendo, a alegação de violação dos arts. 489 e 1.022 do Código de Processo Civil não se sustenta, uma vez que a Corte estadual examinou, de forma fundamentada, as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que contrariamente à pretensão da recorrente.
+(2) Do princípio da boa fé objetiva
+XP alegou violação ao art. 422, do CC, pois entende deveria ser aplicado ao segundo período o entendimento de que ninguém deve ser beneficiado da própria torpeza, que é corolário do princípio da boa fé objetiva.
+Ocorre que o Tribunal estadual esclarece que o pressupostos fáticos do 1º Período e do 2º Período são diferentes, logo as consequências também serão para aplicação do direito. Veja-se:
+ ..
+Portanto, sob tal contexto, infere-se que o agente autônomo de investimentos Alberto Moura atuou como preposto da XP Investimentos, na forma do que dispõe o art. 2º da Instrução CVM nº 434 supracitado, no período compreendido entre 16/02/2009 e 01/07/2010, o que vai ao encontro do lapso temporal indicado pela testemunha Edson Luiz Felin para a existência do escritório da XP nesta cidade."
+Portanto, não há como aumentar o período de responsabilização da demandada, para que compreenda todo intervalo da movimentação do capital (out/2007 até o fim de 2010), impondo-se limitar o ressarcimento do valor constante na carteira do autor em 16.02.2009, por ter sido a data em que o "agente autônomo de investimentos" Alberto Moura passou a figurar como preposto da XP (evento 3, PROCJUDIC33, fls. 19/25).
+ ..
+Considerando que Alberto se tornou preposto da XP apenas em 16.02.2009, as vedações anteriores não mais se aplicavam, pois passou a figurar como próprio "funcionário" da corretora, e não mais como "terceiro agente".
+No que se refere à responsabilidade da demandada pelos danos materiais suportados pelo cliente a partir de 16.02.2009, impositiva a manutenção.
+ ..
+Embora, a meu ver, as "notas de corretagem" indiquem a existência do Churning , pois foram inúmeras as movimentações de ativos sem qualquer indicativo de chance ganho ao investidor, limito-me a analisar a primeira tese defensiva - prévio consentimento sobre as aplicações - porque suficiente para confirmar a condenação.
+Como se sabe, as corretoras de valores são objetivamente responsáveis pelos atos praticados por seus agentes autônomos, conforme inciso III do art. 932 do CC e do § 1º do art. 17 da Instrução nº 434/2006 da CVM, vigente à época das movimentações discutidas:
+ ..
+Some-se a isso que, no mercado de valores, a autorização genérica constante no contrato de intermediação não se sobrepõe à necessária autorização expressa e prévia para a realização de cada operação. Assim, cabia à corretora demonstrar, inequivocamente, o consentimento do investidor em relação à emissão das ordens de compra e venda de ativos em seu nome - ainda que verbais. É o que dispõe o art. 6º da Instrução nº 387/2003 da CVM e os artigos12, 13, 14 e 36 da Instrução nº 505/2011:
+Entretanto a demandada não trouxe quaisquer registros das ordens/autorizações supostamente enviadas a ela, com indicativo do dia e hora em que foram emitidas e executadas. Tampouco, vieram as gravações telefônicas para revelar a origem e o conteúdo dos lançamentos. A única documentação acostada foram as notas de corretagem, as quais não fazem as vezes de autorização (evento 3, PROCJUDIC33, fls. 27 até evento 3, PROCJUDIC44, fl. 48).
+Portanto, inobservados os regramentos da CVM, imperativo manter a condenação da demandada no ressarcimento do valor constante da carteira de investimentos do autor, na data de 16.02.2009. (e-STJ, fls.2682/2686)
+Dessa forma, não há que se falar em violação do princípio da boa fé objetiva, tendo em vista que o Sr. Alberto se tornou preposto da XP apenas em 16.2.2009, portanto, anteriormente era agente autônomo e por isso sua responsabilidade individual, e, após referida data, o agente não mais atuava como terceiro, e sim como funcionário da XP, o que fez ser inclusa na responsabilidade.
+Logo, uma vez que houve alteração fática, após 16.2.2009, a aplicação do direito também mudou e, por isso, não pode ser estendido o entendimento do Tribunal estadual para todo o lapso temporal, por se tratar de situações diferentes.
+Sendo assim, verifica-se que as razões recursais trazidas no apelo especial não impugnaram todos os argumentos trazidos pelo Tribunal estadual de que as corretoras são objetivamente responsáveis pelos atos praticados por seus agentes autônomos, conforme inciso III, do artigo 932 do CC e do §1º do artigo 17 da Instrução nº 434/2006 da CVM, o que faz incidir a Súmula n. 283/STF, por analogia.
+Afinal, existe argumento capaz de manter o acórdão impugnado por suas próprias razões, não havendo o ataque específico a tal ponto. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. SERVIÇOS HOSPITALARES. RESPONSABILIDADE CIVIL OBJETIVA. OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA COM A TESE DO APELO. SÚMULA 284/STF. NEXO DE CAUSALIDADE. AUSÊNCIA. SÚMULA 83/STJ. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. É entendimento desta Corte Superior que "a responsabilidade da prestadora de serviços de saúde em que atua o médico é objetiva quanto à atividade de seu profissional. Nessa linha, a responsabilidade da parte agravante só seria excluída se comprovada a ausência de nexo de causalidade entre a conduta e o resultado" (AgInt no AREsp 616.058/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/11/2018, DJe de 5/12/2018).
+4. Concluindo o Tribunal de origem pela ausência de comprovação do nexo causal, a modificação desse entendimento exigiria o reexame de matéria fática, inviável em sede de recurso especial.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.350.298/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/10/2023, DJe de 9/11/2023. - sem destaque na original)
+(3) Da culpa concorrente
+XP alegou violação ao art. 945 do CC, pois o acórdão estadual deveria ter aplicado a culpa concorrente no presente caso.
+O Tribunal estadual assentou que
+A tempo, também descabe alegar a culpa exclusiva ou concorrente do demandante em virtude do conhecimento prévio das transações ora discutidas. Isso porque, como demonstrado anteriormente, é ônus da corretora se certificar da obtenção da expressa autorização do investidor para que as ordens de compra e venda possam ser executadas, não bastando a mera comunicação daquilo que já foi realizado.
+Se a intermediadora agiu prematuramente sem observar os regramentos, deve arcar com as consequências advindas, até porque se diz a " ..  maior corretora de títulos e valores mobiliários do país". Logo, aludido know-how depõe contra ela no caso em questão (evento 3,PROCJUDIC51, fl. 33).
+Além disso, as testemunhas Edson Luiz Felin (investidor), Edu Almeida Lago Filho (investidor) e Anderson J ger (colaborador XP) afirmaram ter conhecimento de que a corretora realizou acordos com outros investidores lesados, fato que não abrangeu o demandante.
+Em que pese Anderson J ger, Alberto Moura e Nilton Geraldo Soares da Silva (colaboradores XP) tenham afirmado que o autor sempre autorizou as operações e deu "carta branca" para Alberto Moura, isto não é o suficiente, pois a prova das autorizações se dá por escrito ou gravações, conforme disciplinam as Instrução nº 387/2003 e nº 505/2011 da CVM. E isso não veio aos autos. (e-STJ, fls. 2687 - sem destaque na original)
+Dessa forma, verifica-se que, novamente as razões recursais não impugnaram devidamente os fundamentos do acórdão, que afirmou não haver cabimento para culpa exclusiva ou concorrente em virtude da não comprovação da obtenção de expressa autorização do investidor, por meio gravações ou escritos, o que não foi impugnado nas razões recursais.
+Sendo assim, aplica-se ao tema os termo s da Súmula n. 283/STF, por analogia.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. GESTÃO DE NEGÓCIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO AO PRINCÍPIO DA BOA FÉ OBJETIVA. NÃO OCORRÊNCIA. APLICAÇÃO DA CULPA CONCORRENTE. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 283/STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
