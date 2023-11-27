@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração, opostos por CONSTRUTORA PENA LTDA, em face de acórdão desta egrégia Quarta Turma assim ementado (fl. 912, e-STJ):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO RECURSAL DA AUTORA.1. Nos termos do entendimento jurisprudencial adotado por este Superior Tribunal de Justiça, os juros de mora incidem desde a citação nos casos de responsabilidade contratual. Precedentes.2. Agravo interno desprovido.
+Irresignada, a insurgente opôs embargos de declaração (fls. 921-923, e-STJ), apontando a existência de erro material no julgado, ao argumento de que "o objeto recursal é o termo inicial dos juros de mora aplicados sobre os lucros cessantes em razão do uso indevido do imóvel sem a devida contraprestação (ilícito contratual)," (fls. 923, e-STJ).
+Impugnação às fls. 928-931, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Inexistindo quaisquer das máculas previstas no aludido dispositivo, não há razão para modificar a decisão impugnada. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Os embargos de declaração não merecem acolhimento, visto que a embargante não demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1. Nos estreitos lindes do artigo 1.022 do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a ora embargante.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO VERIFICADA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS. 1. Os embargos de declaração são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015. 2. No caso concreto, verificada a omissão no exame de pedido subsidiário, procedeu-se à análise da questão. 3. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal. 4. Embargos de declaração acolhidos sem efeitos modificativos. (EDcl no AgInt no AREsp 1059215/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019)  grifou-se
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC. 1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração. 2. No caso em tela, o embargante visa ao reexame das questões suficientemente analisadas no acórdão, que, de forma escorreita, explicitou a peculiaridade existente nos autos, relativamente à ocorrência de preclusão do tema suscitado, o que tem o condão de afastar a similitude fática entre os julgados confrontados. 3. A contradição se revela por proposições inconciliáveis no mesmo julgado, sendo-lhe, portanto, interna. No caso, é alegada contradição no acórdão objeto dos embargos de divergência e não no acórdão embargado. 4. Embargos de declaração rejeitados. (EDcl no AgInt nos EREsp 1330215/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/06/2019, DJe 28/06/2019)  grifou-se
+No caso, não há infringência ao artigo 1.022, CPC/15, em razão da suficiente fundamentação exarada no acórdão embargado (fls. 913-916, e-STJ).
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do não provimento do agravo interno.
+Nota-se que a embargante pretende, na verdade, a alteração do julgado, cuja pretensão não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer omissão, erro material contradição ou obscuridade que a decisão embargada tenha incorrido.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do CPC/15, não há razão para modificar o decisum embargado.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeitam-se os presentes embargos de declaração.
+É como voto.
