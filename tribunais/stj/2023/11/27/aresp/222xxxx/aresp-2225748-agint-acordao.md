@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 21/11/2023 a 27/11/2023, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, I, DO CPC. NÃO OCORRÊNCIA. CUMPRIMENTO DE OBRIGAÇÃO. INTERPRETAÇÃO DE CLÁSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONHECIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação do art. 1.022, I, do Código de Processo Civil quando o tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+RELATÓRIO
+SANTO ANTÔNIO ENERGIA S.A. interpõe agravo interno contra a decisão de fls. 768-772, que negou provimento ao agravo em recurso especial diante da ausência de violação do art. 1.022, I, do Código de Processo Civil e da incidência das Súmulas n. 5 e 7 do STJ quanto à alegada ofensa aos arts. 113, § 1º, I, do Código Civil, 12, 16, 66 do Código Florestal e 369 do Código de Processo Civil.
+Nas razões do presente recurso, a parte agravante alega que não foram adequadamente enfrentadas pelo Tribunal a quo as seguintes questões:
+a) inexiste previsão normativa de que a instituição de reserva legal em condomínio seja em área contígua ao lote de produção;
+b) a reserva legal em condomínio em área contígua, por ser exceção, somente seria cabível se prevista em instrumento, o que não é o caso dos autos; e
+c) a norma cogente do art. 12 da Lei n. 12.651/2012 impede que se compense, mediante pagamento em dinheiro, a obrigação ambiental de manter área com cobertura vegetal nativa, a título de reserva legal.
+Sustenta que não incidem na espécie as Súmulas n. 5 e 7 do STJ, pois as questões a serem dirimidas podem ser depreendidas da decisão recorrida, não sendo preciso examinar cláusulas contratuais.
+Ressalta ser incontroverso que a obrigação foi satisfeita.
+Argumenta que, como não há questão jurídica a reclamar exame de provas ou de termos do acordo, deve-se conhecer do recurso especial quanto à alínea c do inciso III do art. 105 da CF.
+Requer a concessão de efeito suspensivo e o provimento do presente recurso.
+Sem impugnação da parte agravada (fl. 799).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022, I, DO CPC. NÃO OCORRÊNCIA. CUMPRIMENTO DE OBRIGAÇÃO. INTERPRETAÇÃO DE CLÁSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONHECIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ocorre violação do art. 1.022, I, do Código de Processo Civil quando o tribunal de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Aplicam-se as Súmulas n. 5 e 7 do STJ na hipótese em que o acolhimento das teses defendidas no recurso especial implicar, necessariamente, a intepretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos.
+3. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+4. Agravo interno desprovido.
+VOTO
+O agravo não reúne condições de êxito.
+A decisão agravada afastou a alegada ofensa ao art. 1.022, I do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Com efeito, o Tribunal a quo foi expresso ao afirmar o seguinte:
+a) a apelada, ora agravante, comprometeu-se a entregar lote de 50 hectares, sendo 80% da área destinada a reserva legal e 20% destinada a produção, sendo a reserva legal em condomínio;
+b) do acordo firmado não consta a informação de que seriam entregues dois lotes em lugares distintos, de modo que, diante do princípio da boa-fé contratual e da maior vulnerabilidade do autor da demanda, a reserva legal deve ser interpretada de forma restritiva e ser parte contígua do restante da propriedade; e
+c) a conversão da reserva em dinheiro não está em transformar a área de reserva legal em pecúnia, mas em compelir a quem de direito a cumprir suas obrigações.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Quanto à alegada violação dos arts. 113, § 1º, I, do Código Civil, 12, 16, 66 do Código Florestal e 369 do Código de Processo Civil, a insurgência da parte recorrente diz respeito à demonstração do cumprimento do termo de acordo firmado, de modo que a obrigação estaria satisfeita.
+A Corte de origem, soberana na interpretação das cláusulas contratuais e na análise dos elementos fáticos dos autos, concluiu que, no instrumento firmado entre as partes, não havia informação de que seriam entregues dois lotes em lugares distintos. Assim, diante da maior vulnerabilidade do autor, agricultor, pessoa idosa que acreditou que apenas receberia o lote com a ressalva da reserva legal em condomínio, deu interpretação ao acordado de maneira mais favorável ao apelante e determinou a conversão do pedido em perdas e danos.
+Confiram-se excertos do acórdão (fls. 569-572):
+Cinge-se a controvérsia em analisar se efetivamente houve o cumprimento do termo de acordo por parte da Santo Antônio Energia S. A com relação à entrega da reserva legal e se a área teria que ser contígua ou não.
+Como foi visto, a apelada se comprometeu a entregar "lote de 50 hectares, sendo 80% da área destinada a Reserva Legal, conforme a lei e 20% da área destinada a produção. A Reserva Legal será em condomínio".
+A Escritura Pública de ID 5933511 evidencia que no ano de 2011 foi entregue ao autor o imóvel denominado Lote 05, no Reassentamento Morrinhos, município de Porto Velho, com área de 11,1994 ha. Já a Área de Reserva Legal foi descrita na minuta de ID 5933548, como sendo Lote ARL 05, com 45,5163 ha, localizado no Lote de terras rural nº01-A, Gleba Garças, ou seja, área diversa da que foi inicialmente entregue ao apelante.
+Conquanto a apelada Santo Antonio Energia S/A tenha alegado em sua defesa que no acordo firmado entre as partes não constou que a área de reserva legal em condomínio seria contígua, resta claro que no documento de ID 5933513também não consta a informação que seriam entregues dois lotes e em lugares distintos.
+Conforme dispõe o art. 3º, III, da Lei12.651/12 - Código Florestal, a área de reserva legal, localizada no interior de uma propriedade ou posse rural, tem a função de assegurar o uso econômico de modo sustentável dos recursos naturais do imóvel rural, auxiliar a conservação e a reabilitação dos processos ecológicos e promover a conservação da biodiversidade, bem como o abrigo e a proteção de fauna silvestre e da flora nativa.
+Verifica-se que a reserva legal pode ser explorada economicamente de forma sustentável, razão pela qual o Código Florestal previu sua localização no interior da propriedade e apesar da possibilidade de ser instituída ou compensada em outra localidade do mesmo bioma, isso deve ocorrer a pedido do proprietário e com a autorização do órgão ambiental (art. 66, do Código Florestal). Nesse sentido, vejamos o seguinte julgado:
+ ..
+Ocorre que, no caso dos autos, a situação foi diferente, uma vez dada opção única de escolha, tendo o autor, pessoa idosa (81 anos), agricultor, concordado em ser retirado de sua propriedade, onde vivia com sua família e ser reassentado em lugar diverso, acreditando que receberia o um lote de 50 hectares (20% para produção e 80% de reserva legal), apenas com a ressalva que a reserva legal seria em condomínio.
+Ainda que não seja não seja cabível a incidência do CDC, uma vez que não se trata de relação de consumo, temos que o princípio da boa-fé deve ser a base para a interpretação dos contratos, assim caso seja verificado a existência de desnível entre as partes e que o acordo firmado não foi claro quanto à localização da reserva legal, deve ser interpretado de forma mais favorável ao apelante.
+Importante asseverar que o fato de terem sido entregues lotes em lugares diferentes, além de dificultar a exploração sustentável, também prejudica as atividades de conservação e proteção do local.
+No mais, as Câmaras Cíveis deste Tribunal de Justiça firmaram o entendimento de que, em casos análogos a este, a reserva legal deve ser interpretada de forma restritiva e ser parte contígua do restante da propriedade, salvo quando o acordo prever expressamente de forma diversa. A propósito:
+ ..
+Assim, em que pese o entendimento do magistrado de primeiro grau, verifica-se que restou evidenciado que não houve o efetivo cumprimento do termo de acordo de ID 5933513 com relação à entrega da reserva legal, estando presente, portanto o interesse processual do autor em discutir a questão, bem como os prejuízos advindos.
+Quanto ao pedido alternativo do pagamento em pecúnia do valor corresponde a área que não foi entregue, apesar da apelada entender ser ilegal a conversão da reserva em dinheiro, como consignado pelo Des. Raduan Miguel no voto proferido nos Autos:
+" ..
+Ressalte-se que aqui não se está a transformar área de reserva legal em pecúnia, como entende a apelante, mas apenas compelir, a quem de direito, cumprir suas obrigações. Vale dizer, de modo diverso, estar-se-ia chancelando possível conduta violadora da boa-fé praticada pela apelante que, ao custo de desabrigar os apelados, prometeu-lhes uma área e não a entregou, vindo, posteriormente, alegar impossibilidade de fazê-lo.
+ ..
+No mesmo sentido, o seguinte julgado de relatoria do Des. Kiyochi Mori:
+Embargos de declaração. Omissão. Acordo. Escritura pública. Pecúnia. Reserva ambiental em área apartada. Conversão em perdas e danos. Possibilidade.
+É possível o pagamento de indenização pelas perdas e danos decorrentes da dação de imóvel com a área de reserva ambiental em apartado, em desconformidade com o pactuado na escritura pública exequenda. (APELAÇÃO 0022819-56.2011.822.0001, Rel. Des. Kiyochi Mori, Tribunal de Justiça do Estado de Rondônia: 2ª Câmara Cível, julgado em 24/04/2019.)
+Dessa forma, considerando os documentos juntados nos autos e de ter restado evidenciado que não houve a entrega da área de reserva legal contígua, bem como que não há perspectiva de que isso seja feito, havendo pedido alternativo, é cabível, desde já, a conversão em perdas e danos, cujo valor da área será apurado em sede de cumprimento de sentença.
+Desse modo, para rever as conclusões adotadas na origem e reconhecer o cumprimento da obrigação, como pretende a parte agravante, seria imprescindível analisar cláusulas contratuais e reexaminar provas, o que é inadmissível nesta instância extraordinária, em razão do disposto nas Súmulas n. 5 e 7 do STJ.
+Reitere-se que, no tocante ao apelo fundado no art. 105, III, c, da CF, a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGADA IMPENHORABILIDADE DO BEM DE FAMÍLIA. TESE REJEITADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. MULTA DO ART. 1.021. INVIABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência do óbice da Súmula n. 283 do Supremo Tribunal Federal à hipótese.
+2. Não apontado o dispositivo legal tido por violado, incide o enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. A alteração da orientação firmada no aresto impugnado só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do Superior Tribunal de Justiça.
+4. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+6. Agravo interno desprovido. (AgInt nos EDcl no AREsp n. 2.335.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. CONFLITO DE NORMAS. PRESTAÇÕES INTERMEDIÁRIAS. LEI POSTERIOR EM SENTIDO CONTRÁRIO. REVOGAÇÃO TÁCITA. NECESSIDADE DE VERIFICAÇÃO DA INCIDÊNCIA DE CORREÇÃO MONETÁRIA. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do art. 2º, § 1º, da LINDB, a lei posterior revoga a anterior não apenas quando expressamente o declare (revogação expressa), mas também quando seja com ela incompatível ou regule inteiramente a matéria tratada na lei anterior (revogação tácita).
+2. Em que pese o art. 46 da Lei Federal n. 10.931/2004 não trazer expressamente o termo "prestações intermediárias", ele autoriza, no âmbito dos contratos de comercialização de imóveis, a estipulação de cláusula de reajuste com periodicidade mensal por índices de preços setoriais ou gerais, de modo que o comando vai contra o disposto no inciso II do art. 1º da Lei Federal n. 4.864/65. Desse modo, tendo a lei posterior tratado da matéria regulada pela lei anterior, de forma incompatível, dever-se reconhecer a revogação tácita.
+3. A verificação sobre a necessidade de incidência de correção monetária nas parcelas intercaladas do contrato de compra e venda de imóvel demandaria o reexame de cláusulas contratuais e da prova dos autos, encontrando óbice, portanto, nas Súmulas 5 e 7 desta Corte.
+4. Não é possível conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ, na questão controversa apresentada, obsta também a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+5. Agravo interno desprovido. (AgInt no REsp n. 2.044.821/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/8/2023, DJe de 25/8/2023.)
+Nesse contexto, a parte agravante não logrou êxito em apresentar argumentos suficientes que justificassem a alteração da decisão ora impugnada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
